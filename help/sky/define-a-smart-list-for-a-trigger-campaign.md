@@ -1,0 +1,51 @@
+---
+title: define-a-smart-list-for-a-trigger-campagne
+description: Een slimme lijst definiëren voor een triggercampagne
+translation-type: tm+mt
+source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+workflow-type: tm+mt
+source-wordcount: '208'
+ht-degree: 0%
+
+---
+
+
+# Een slimme lijst definiëren voor een triggercampagne
+
+<br> 
+
+Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd die op levende gebeurtenissen wordt gebaseerd door trekkers toe te voegen.
+
+1. Kies een slimme campagne en klik op [!UICONTROL **Slimme lijst**].
+
+   ![Afbeelding één](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
+
+1. Zoek de trigger en sleep deze naar het canvas.
+
+   ![Afbeelding twee](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-2.png)
+
+   >[!NOTE]
+   >
+   >Een slimme campagne met triggers wordt uitgevoerd in de triggermodus. Deze wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en eventuele aanvullende filters.
+
+1. Klik op de vervolgkeuzelijst en kies een operator ( [!UICONTROL **is**], [!UICONTROL **is niet**], enz.) voor de trigger die u hebt gekozen.
+
+   ![Afbeelding drie](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
+
+   >[!CAUTION]
+   >
+   >Rode lijnen geven fouten of ontbrekende informatie aan. Als de campagne niet wordt gecorrigeerd, is deze ongeldig en wordt deze niet uitgevoerd.
+
+   >[!TIP]
+   >
+   >In een slimme campagne met zowel triggers als filters gaan de triggers bovenaan en wanneer ze worden geactiveerd, doorlopen alleen mensen die aan de filtercriteria voldoen de stroom.
+
+1. Definieer de trigger.
+
+   ![Afbeelding vier](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-4.png)
+
+>[!NOTE]
+>
+>Bij meerdere triggers doorloopt een persoon de flow als een van de triggers is geactiveerd.
+>
+>Leer hoe u Slimme lijst voor slimme campagne kunt [definiëren om de campagne op een set mensen tegelijk uit te voeren | Batch](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
