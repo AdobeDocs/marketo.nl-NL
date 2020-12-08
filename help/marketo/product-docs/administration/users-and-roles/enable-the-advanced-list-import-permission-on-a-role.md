@@ -1,0 +1,38 @@
+---
+unique-page-id: 2360211
+description: De geavanceerde importmachtiging voor lijsten op een rol inschakelen - Marketo Docs - Productdocumentatie
+title: De machtiging Importeren van geavanceerde lijst voor een rol inschakelen
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 0%
+
+---
+
+
+# De machtiging Importeren van geavanceerde lijst voor een rol inschakelen {#enable-the-advanced-list-import-permission-on-a-role}
+
+De Wijze van de Invoer van de Lijst is slechts beschikbaar voor gebruikers met een rol die de Geavanceerde toegelaten toestemmingen van de Invoer van de Lijst heeft. Alle andere gebruikers zien de keuzelijst Lijstimportmodus niet bij het importeren van een lijst met personen en de lijst met personen die zij importeren, wordt standaard ingesteld op de importmodus Normaal.
+
+>[!NOTE]
+>
+>**Beheerdersmachtigingen vereist**
+
+1. Ga naar **Beheer**.
+
+   ![](assets/adminhand-2.png)
+
+1. Klik op **Gebruikers en rollen**.
+
+   ![](assets/image2014-9-17-11-3a50-3a38.png)
+
+1. Selecteer onder het tabblad **Rollen **de rol die u wilt wijzigen en klik op Rol **** bewerken.
+
+   ![](assets/image2014-9-17-11-3a51-3a49.png)
+
+1. Schakel onder Database openen de optie **Geavanceerde lijstimport** in en klik op **Opslaan**.
+
+   ![](assets/four-1.png)
+
+Koel! Alle gebruikers die zijn gekoppeld aan de rol die u hebt bewerkt, hebben nu geavanceerde opties voor het importeren van lijsten ingeschakeld.
