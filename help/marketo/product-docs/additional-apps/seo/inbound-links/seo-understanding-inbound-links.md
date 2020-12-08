@@ -1,0 +1,42 @@
+---
+unique-page-id: 2949226
+description: SEO - Begrijpen van Binnenkomende Verbindingen - Marketo Docs - de Documentatie van het Product
+title: SEO - Inkomende koppelingen begrijpen
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '122'
+ht-degree: 0%
+
+---
+
+
+# SEO - Inkomende koppelingen begrijpen {#seo-understanding-inbound-links}
+
+Binnenkomende koppelingen geven aan zoekprogramma&#39;s aan dat uw site het vermelden waard is. Dat is goed!
+
+![](assets/image2014-9-18-13-3a18-3a10.png)
+
+## Definitie van kolommen {#definition-of-columns}
+
+| Kolomtitel | Beschrijving |
+|---|---|
+| URL van binnenkomende koppeling | De webpagina in kwestie. |
+| Prioriteit | Hoe waardevol deze kans is voor uw paginarangschikking. |
+| Verbindingen met concurrent | Of een concurrent in die URL is gekoppeld. |
+| Koppelingen naar mijn site | Of uw site is gekoppeld aan in die URL. |
+| Koppelingen van mijn site | Hiermee geeft u aan of uw site een koppeling naar die URL maakt. |
+| PageRank | Hiermee wordt aangegeven dat de paginagrootte van de URL&#39;s in de zoekopdracht loopt (1 - 10) |
+
+Zoet! Nu u binnenkomende verbindingen begrijpt, kunnen wij meer binnenkomende verbindingsmogelijkheden voor uw plaats voorstellen.
+
+>[!NOTE]
+>
+>**Verwante artikelen**
+>
+>* [Binnenkomende koppelingssuggesties ophalen](seo-get-inbound-link-suggestions.md)
+
+>
+
+
+
