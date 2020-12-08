@@ -1,0 +1,61 @@
+---
+unique-page-id: 7514898
+description: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die "Campagne gebruikt wordt gevraagd" - Marketo Docs - de Documentatie van het Product
+title: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die "de Campagne wordt gevraagd"
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '340'
+ht-degree: 0%
+
+---
+
+
+# Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die &quot;de Campagne wordt gevraagd&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
+
+Een van de mooiste kenmerken van Marketo is de mogelijkheid om verkoopmedewerkers te laten deelnemen aan de marketingactiviteiten. Ze staan op de voorgrond, communiceren met mensen. Verkoopvertegenwoordigers moeten de mogelijkheid hebben om de marketing in de juiste richting te sturen.
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
+
+>[!NOTE]
+>
+>**Voorbeeld**
+>
+>Voorbeelden van op te vragen slimme campagnes:
+>
+>1. **Langdurige zorg** - als ze dit jaar geen budget hebben en je gewoon op de radar wilt blijven
+>1. **Actieve verkoopcyclus** - wanneer de verkoper geen berichten aan de persoon behalve hun wil. (gebruik de vlag voor geschorste verkoop om deze tijdelijk af te melden)
+
+>
+>
+Wees creatief. Wat wil de verkoper automatiseren? Vraag het hen gewoon en doe het op!
+
+1. Maak een **slimme campagne.**
+
+   ![](assets/image2015-5-20-16-3a3-3a25.png)
+
+1. Campagne voor zoeken en slepen **** is ****Gevraagd **naar het canvas** .
+
+   ![](assets/campaignfilterdrag.png)
+
+1. De bronkeuzen geven aan welk soort verzoek wordt uitgevoerd. Voor de functionaliteit van Salesforce, zorg ervoor om **Verkoop** **Inzicht** te kiezen.
+
+   >[!TIP]
+   >
+   >De bronoperatoren zijn bedoeld voor beveiliging. U kunt de campagne beperken tot verzoeken die alleen door specifieke bronnen worden gedaan, zoals andere slimme campagnes of ontwikkelaars. Kies **Is om het even welk** in het eerste vakje als u verzoeken van alle bronnen wilt toestaan.
+   >
+   >
+   >**Herinner me**, door het Inzicht van de Verkoop te kiezen, zal het magisch in de doos voor verkoop verschijnen. Overdoe het niet. Te veel worden genegeerd.
+
+   ![](assets/image2015-5-20-17-3a56-3a56.png)
+
+Dit is een goede manier om uw marketing bereik tot andere afdelingen uit te breiden. Stel allerlei soorten campagnes in om te automatiseren.
+
+>[!TIP]
+>
+>Vergeet niet uw slimme campagnes duidelijk te noemen. Ze worden precies in Verkoopcontrole weergegeven.
+
