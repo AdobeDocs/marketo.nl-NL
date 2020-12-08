@@ -1,0 +1,811 @@
+---
+unique-page-id: 11379928
+description: Details wijzigen in Audittrail - Marketo Docs - Productdocumentatie
+title: Details wijzigen in audittrail
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '1903'
+ht-degree: 0%
+
+---
+
+
+# Details wijzigen in audittrail {#change-details-in-audit-trail}
+
+Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zijn de details.
+
+## Asset Audit Trail {#asset-audit-trail}
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th colspan="1">Element/type</th> 
+   <th colspan="1">Handeling</th> 
+   <th colspan="1">Details wijzigen</th> 
+  </tr> 
+  <tr> 
+   <td rowspan="15">Standaardprogramma<br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td>Maken</td> 
+   <td>Kanaaltype "kanaaltype"<br><br>of Uitgekloond van "programmenaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Naam wijzigen</td> 
+   <td>Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Klonen</td> 
+   <td>Gekloond naar werkruimte "naam werkruimte" <br>Locatie "map Campagne" of "betrokkenheidsprogramma" Naam "nieuwe naam <br>gekloond programma"</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Kanaal bewerken</td> 
+   <td>Nieuw kanaal "nieuwe kanaalnaam" Oude kanaal "oude kanaalnaam" </td> 
+  </tr> 
+  <tr> 
+   <td>Programmatoken wijzigen</td> 
+   <td>Token van de waarde "token name" toevoegen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmatoken wijzigen</td> 
+   <td>Token "tokennaam" bewerken nieuwe waarde "nieuwe waarde" oude waarde "oude waarde"</td> 
+  </tr> 
+  <tr> 
+   <td>Programmatoken wijzigen</td> 
+   <td>Token "tokennaam" verwijderen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmainstelling wijzigen</td> 
+   <td>Analysegedrag "gedragsnaam" toevoegen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmainstelling wijzigen</td> 
+   <td><p>Analysegedrag "gedragsnaam" bewerken</p><p>Oud gedrag "gedragsnaam"</p></td> 
+  </tr> 
+  <tr> 
+   <td>Programmainstelling wijzigen</td> 
+   <td>Analysegedrag "gedragsnaam" verwijderen</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Programmainstelling wijzigen</td> 
+   <td colspan="1">Kostenwaarde voor periode \"#" programmamaand \"jjjj-mm\" toevoegen</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Programmainstelling wijzigen</td> 
+   <td colspan="1">Periode bewerken Kosten Nieuwe kostwaarde "#", Nieuwe programmamaand "jjjj-mm", Oude kostwaarde "#", Oude programmamaand "jjjj-mm"</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Programmainstelling wijzigen</td> 
+   <td colspan="1">Periode-kosten verwijderen. Waarde "#" programmamaand "jjjj-mm"</td> 
+  </tr> 
+  <tr> 
+   <td>Exporteren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="18">E-mail<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td>Maken</td> 
+   <td>Gemaakt met de sjabloonnaam <br>of <br>gekloond met de naam van het element</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Bijgewerkt "Van naam" in "Nieuw van naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Bijgewerkt van "Van e-mail" naar "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[e-mail beveiligd]</a>"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>"Reageren op" bijgewerkt naar "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[e-mailbeveiligd]</a>"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Bijgewerkt "Onderwerp" naar "nieuwe onderwerpregel"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Toegevoegde segmentatie "segmentation_name"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Segmentatie is verwijderd</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Toegevoegd fragment "fragment_name"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Verwijderd fragment</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Hiermee bewerkt u e-mailberichten uit de sjabloon "template_naam" (OPMERKING: dit gebeurt vandaag als u de code rechtstreeks bewerkt)</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Naam wijzigen</td> 
+   <td>Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Nieuwe beschrijving "nieuwe beschrijving" oude beschrijving "oude beschrijving"</td> 
+  </tr> 
+  <tr> 
+   <td>Klonen</td> 
+   <td>Cloned to "Design studio" into folder "folder name" <br>Cloned asset name "name"<br><br>orCloned to "Marketing Activities" in program "program name"<br>Cloned asset name"</td> 
+  </tr> 
+  <tr> 
+   <td>Verplaatsen</td> 
+   <td>Verplaatst naar "Design studio" in map "mapnaam"<br><br>ofVerplaatst naar "Marketing activities" in programma "programmenaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Goedkeuren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Niet goedkeuren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Concept</td> 
+   <td>E-mail is opgesteld omdat het fragment "naam fragment" is<br><br>goedgekeurd of omdat e-mail is geschreven omdat template "naam sjabloon" is goedgekeurd</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="17">E-mailprogramma</td> 
+   <td>Maken</td> 
+   <td>Kanaaltype "kanaaltype"<br><br>of Uitgekloond van "programmenaam"</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Naam wijzigen</td> 
+   <td colspan="1">Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Klonen</td> 
+   <td>Gekloond naar werkruimte "naam werkruimte" <br>Locatie "map of serviceprogramma voor campagne" Naam "nieuwe naam <br>gekloond programma</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Afbreken</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Kanaal bewerken</td> 
+   <td>Nieuw kanaal "nieuw kanaal" Oud kanaal "oud kanaal"</td> 
+  </tr> 
+  <tr> 
+   <td>Programmatoken wijzigen</td> 
+   <td>Token van de waarde "token name" toevoegen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmatoken wijzigen</td> 
+   <td>Token "tokennaam" bewerken Nieuwe waarde "nieuwe waarde" oude waarde "oude waarde"</td> 
+  </tr> 
+  <tr> 
+   <td>Programmatoken wijzigen</td> 
+   <td>Token "tokennaam" verwijderen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmaplanning wijzigen</td> 
+   <td>Stel het schema in op "begindatum, begintijd" en op "einddatum, eindtijd".</td> 
+  </tr> 
+  <tr> 
+   <td>Programmaplanning wijzigen</td> 
+   <td>Gewijzigd schema in "nieuwe datum, nieuwe tijd"</td> 
+  </tr> 
+  <tr> 
+   <td>Programmainstelling wijzigen</td> 
+   <td>Analysegedrag "gedragsnaam" toevoegen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmainstelling wijzigen</td> 
+   <td>Analysegedrag "gedragsnaam" bewerken<br>Oude gedrag "gedragsnaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Programmainstelling wijzigen</td> 
+   <td>Analysegedrag "gedragsnaam" verwijderen</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Programmainstelling wijzigen</td> 
+   <td colspan="1">Kostenwaarde voor periode \"#" programmamaand \"jjjj-mm\" toevoegen</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Programmainstelling wijzigen</td> 
+   <td colspan="1">Periode bewerken Kosten Nieuwe kostwaarde "#", Nieuwe programmamaand "jjjj-mm", Oude kostwaarde "#", Oude programmamaand "jjjj-mm"</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Programmainstelling wijzigen</td> 
+   <td colspan="1">Periode-kosten verwijderen. Waarde "#" programmamaand "jjjj-mm"</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="8">E-mailsjabloon</td> 
+   <td>Maken</td> 
+   <td>Leeg of gekloond van "sjabloonnaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Nieuwe beschrijving "nieuwe beschrijving", vorige beschrijving "vorige beschrijving"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>HTML bewerkt</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Naam wijzigen</td> 
+   <td>Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Klonen</td> 
+   <td>Gekloond naar "mapnaam" <br> Naam gekloond element</td> 
+  </tr> 
+  <tr> 
+   <td>Goedkeuren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Niet goedkeuren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="23">Betrokkenheidsprogramma</td> 
+   <td>Maken</td> 
+   <td>Kanaaltype "kanaaltype"<br> of<br> Uitgekloond van "programmenaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Naam wijzigen</td> 
+   <td>Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Klonen</td> 
+   <td>Gekloond naar werkruimte "naam werkruimte" <br>Locatie "map of serviceprogramma voor campagne" Naam "nieuwe naam <br>gekloond programma</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Kanaal bewerken</td> 
+   <td>Nieuw kanaal "nieuw kanaal" Oud kanaal "oud kanaal"</td> 
+  </tr> 
+  <tr> 
+   <td>Programmastroom wijzigen</td> 
+   <td><p>Stream toevoegen</p><p>Naam "name" Plaatsing "#"</p></td> 
+  </tr> 
+  <tr> 
+   <td>Programmastroom wijzigen</td> 
+   <td><p>Stream bewerken</p><p>Nieuwe streamnaam: "new name" Oude streamnaam: "oude naam"</p><p>Nieuwe plaatsing: "new #" oude plaatsing: "oud #"</p></td> 
+  </tr> 
+  <tr> 
+   <td>Programmastroom wijzigen</td> 
+   <td>Naam van stream verwijderen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmastroom wijzigen</td> 
+   <td>Voeg<br>contentSteam-naam "streamnaam"<br>Type "Email" of "Program"<br>Name "email name" of "program name"<br>Smart Campagne "smart campagne name" toe</td> 
+  </tr> 
+  <tr> 
+   <td>Programmastroom wijzigen</td> 
+   <td>Naam<br>van inhoudStream activeren "naam stream"<br>Naam van inhoud "e-mailnaam" of "naam programma"</td> 
+  </tr> 
+  <tr> 
+   <td>Programmastroom wijzigen</td> 
+   <td>De naam<br>van de contentStream "streamnaam"<br>Inhoudsnaam "e-mailnaam" of "programmenaam" deactiveren</td> 
+  </tr> 
+  <tr> 
+   <td>Programmastroom wijzigen</td> 
+   <td>Naam<br>van inhoudStream verwijderen "naam van stream"<br>Naam van inhoud "e-mailnaam" of "naam programma"</td> 
+  </tr> 
+  <tr> 
+   <td>Programmatoken wijzigen</td> 
+   <td>Token van de waarde "token name" toevoegen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmatoken wijzigen</td> 
+   <td>Token "tokennaam" bewerken Nieuwe waarde "nieuwe waarde" oude waarde "oude waarde"</td> 
+  </tr> 
+  <tr> 
+   <td>Programmatoken wijzigen</td> 
+   <td>Token "tokennaam" verwijderen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmainstelling wijzigen</td> 
+   <td>Analysegedrag "gedragsnaam" toevoegen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmainstelling wijzigen</td> 
+   <td>Analysegedrag "gedragsnaam" bewerken<br>Oude gedrag "gedragsnaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Programmainstelling wijzigen</td> 
+   <td>Analysegedrag "gedragsnaam" verwijderen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmainstelling wijzigen</td> 
+   <td>Wijzig de status van het programma. Nieuwe waarde "aan/uit" Oude waarde "uit/aan"</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Programmainstelling wijzigen</td> 
+   <td colspan="1">Kostenwaarde voor periode \"#" programmamaand \"jjjj-mm\" toevoegen</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Programmainstelling wijzigen</td> 
+   <td colspan="1">Periode bewerken Kosten Nieuwe kostwaarde "#", Nieuwe programmamaand "jjjj-mm", Oude kostwaarde "#", Oude programmamaand "jjjj-mm"</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Programmainstelling wijzigen</td> 
+   <td colspan="1">Periode-kosten verwijderen. Waarde "#" programmamaand "jjjj-mm"</td> 
+  </tr> 
+  <tr> 
+   <td>Exporteren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="18">Gebeurtenisprogramma</td> 
+   <td>Maken</td> 
+   <td>Kanaaltype "kanaaltype"<br><br>of Uitgekloond van "programmenaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Naam wijzigen</td> 
+   <td>Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Klonen</td> 
+   <td>Gekloond naar werkruimte "naam werkruimte" <br>Locatie "campagnemap" of "betrokkenheidsprogramma" Naam "nieuwe naam <br>gekloond programma"</td> 
+  </tr> 
+  <tr> 
+   <td>Kanaal bewerken</td> 
+   <td>Nieuw kanaal "nieuw kanaal" Oud kanaal "oud kanaal" </td> 
+  </tr> 
+  <tr> 
+   <td>Programmatoken wijzigen</td> 
+   <td>Token van de waarde "token name" toevoegen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmatoken wijzigen</td> 
+   <td>Token "tokennaam" bewerken Nieuwe waarde "nieuwe waarde" oude waarde "oude waarde"</td> 
+  </tr> 
+  <tr> 
+   <td>Programmatoken wijzigen</td> 
+   <td>Token "tokennaam" verwijderen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmaplanning wijzigen</td> 
+   <td>Stel het schema in op "begindatum, begintijd" en op "einddatum, eindtijd".</td> 
+  </tr> 
+  <tr> 
+   <td>Programmaplanning wijzigen</td> 
+   <td>Gewijzigd schema in "nieuwe datum, nieuwe tijd"</td> 
+  </tr> 
+  <tr> 
+   <td>Programmainstelling wijzigen</td> 
+   <td>Analysegedrag "gedragsnaam" toevoegen</td> 
+  </tr> 
+  <tr> 
+   <td>Programmainstelling wijzigen</td> 
+   <td>Analysegedrag "gedragsnaam" bewerken<br>Oude gedrag "gedragsnaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Programmainstelling wijzigen</td> 
+   <td>"gedragsnaam van analysegedrag" verwijderen</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Programmainstelling wijzigen</td> 
+   <td colspan="1">Kostenwaarde voor periode \"#" programmamaand \"jjjj-mm\" toevoegen</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Programmainstelling wijzigen</td> 
+   <td colspan="1">Periode bewerken Kosten Nieuwe kostwaarde "#", Nieuwe programmamaand "jjjj-mm", Oude kostwaarde "#", Oude programmamaand "jjjj-mm"</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Programmainstelling wijzigen</td> 
+   <td colspan="1">Periode-kosten verwijderen. Waarde "#" programmamaand "jjjj-mm"</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Programmainstelling wijzigen</td> 
+   <td colspan="1">Toegevoegde gebeurtenispartner "partner_naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Exporteren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="5">Mappen</td> 
+   <td>Maken</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Token "token_name", waarde "value" toegevoegd</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Bewerkte token "token_name" nieuwe waarde "token_value" oude waarde "old_token_value"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Verwijderde token "token_name"</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="8">Forms</td> 
+   <td>Maken</td> 
+   <td>Binnenkort beschikbaar. Meer informatie of Klonen via "formuliernaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Naam wijzigen</td> 
+   <td>Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Nieuwe beschrijving "nieuwe beschrijving" oude beschrijving "oude beschrijving"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Bewerkte formulierinstellingen </td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Bewerkte velddetails</td> 
+  </tr> 
+  <tr> 
+   <td>Klonen</td> 
+   <td>Cloned to "Design studio" into folder "folder name" <br>Cloned asset name "name"<br><br>orCloned to "Marketing Activities" in program "program name"<br>Cloned asset name"</td> 
+  </tr> 
+  <tr> 
+   <td>Verplaatsen</td> 
+   <td>Verplaatst naar "Design studio" in map "mapnaam"<br><br>ofVerplaatst naar "Marketing activities" in programma "programmenaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Forms</td> 
+   <td>Goedkeuren</td> 
+   <td>Wordt gebruikt door #-elementen </td> 
+  </tr> 
+  <tr> 
+   <td rowspan="9">Openingspagina</td> 
+   <td>Maken</td> 
+   <td>Gemaakt met de sjabloonnaam <br>of <br>gekloond met de naam van het element</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Naam wijzigen</td> 
+   <td>Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Nieuwe beschrijving "nieuwe beschrijving" Vorige "vorige beschrijving"</td> 
+  </tr> 
+  <tr> 
+   <td>Klonen</td> 
+   <td>Cloned to "Design studio" into folder "folderName"<br>Cloned asset name "name"<br>Cloned asset URL "www.url.com"<br><br>orCloned to "Marketing Activities" into program "program name" <br>Cloned asset name "<br>Cloned asset URL "www.url.com"</td> 
+  </tr> 
+  <tr> 
+   <td>Verplaatsen</td> 
+   <td>Verplaatst naar "Design studio" in map "mapnaam"<br> of<br> Verplaatst naar "Marketing activities" in programma "programmenaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Goedkeuren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Concept</td> 
+   <td>De landingspagina is opgesteld omdat sjabloon "naam sjabloon" is goedgekeurd</td> 
+  </tr> 
+  <tr> 
+   <td>Niet goedkeuren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="8">Landingspagina-sjabloon</td> 
+   <td>Maken</td> 
+   <td><p><br><br>BlankorCloned from "asset name"</p></td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Naam wijzigen</td> 
+   <td>Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Nieuwe beschrijving "nieuwe beschrijving" vorige beschrijving "vorige beschrijving"</td> 
+  </tr> 
+  <tr> 
+   <td>Klonen</td> 
+   <td>Gekloond naar "mapnaam" <br>Naam gekloond element</td> 
+  </tr> 
+  <tr> 
+   <td>Exporteren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Goedkeuren</td> 
+   <td>Wordt gebruikt door #-elementen </td> 
+  </tr> 
+  <tr> 
+   <td>Niet goedkeuren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="5">Lijst (statisch)</td> 
+   <td>Maken</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Exporteren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Klonen</td> 
+   <td>Gekloond naar "Person Database" in map "foldername" <br>Naam gekloond element "name"<br><br>ofKloond naar "Marketing Activities" in programma "name"<br>Naam gekloond element"</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Naam wijzigen</td> 
+   <td>Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="12">Slimme campagne</td> 
+   <td>Maken</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Activeren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Deactiveren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Afbreken</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Verplaatsen</td> 
+   <td>Verplaatst naar "Programma's" in "Programmanaam"<br><br>of Verplaatst naar "Mappen" in "Mapnaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Naam wijzigen</td> 
+   <td>Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Nieuwe beschrijving "nieuwe beschrijving" Vorige "vorige beschrijving"</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Klonen</td> 
+   <td>Uitgekloond naar "Programma's" in "programmanaam" <br>Naam gekloond element "naam"<br><br>ofUitgekloond naar "map" in "mapnaam"naam<br>gekloond element"</td> 
+  </tr> 
+  <tr> 
+   <td>SmartList instellen</td> 
+   <td>Toont momentopname van huidige staat, met inbegrip van namen en waarden van filters en trekkers</td> 
+  </tr> 
+  <tr> 
+   <td>Campagne-programma wijzigen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Stapsgewijze actie wijzigen</td> 
+   <td>Toont momentopname van huidige staat, met inbegrip van namen en waarden van elke stroomstap</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="7">Slimme lijst</td> 
+   <td>Maken</td> 
+   <td>Uitgekloond op basis van "naam van slimme lijst"</td> 
+  </tr> 
+  <tr> 
+   <td>Exporteren</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Naam wijzigen</td> 
+   <td>Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Nieuwe beschrijving "nieuwe beschrijving" Vorige "vorige beschrijving"</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Klonen</td> 
+   <td>Gekloond naar "Person Database" in map "foldername" <br>Naam gekloond element "name"<br><br>ofGekloond naar "Marketing Activities" in programma "name" <br>Naam gekloond middel</td> 
+  </tr> 
+  <tr> 
+   <td>SmartList instellen</td> 
+   <td>Toont momentopname van huidige staat, met inbegrip van namen en waarden van filters en trekkers </td> 
+  </tr> 
+  <tr> 
+   <td rowspan="11">Fragment</td> 
+   <td>Maken</td> 
+   <td><p><br><br>BlankorCloned from "snippet name"</p></td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Toegevoegde segmentatie "segmentation_name"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Segmentatie is verwijderd</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Bewerkt</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Naam wijzigen</td> 
+   <td>Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Nieuwe beschrijving "nieuwe beschrijving" Vorige "vorige beschrijving"</td> 
+  </tr> 
+  <tr> 
+   <td>Klonen</td> 
+   <td>Gekloond naar "mapnaam" <br>Naam van gekloond fragment</td> 
+  </tr> 
+  <tr> 
+   <td>Goedkeuren</td> 
+   <td>Wordt gebruikt door #-elementen</td> 
+  </tr> 
+  <tr> 
+   <td>Goedkeuren zonder concept</td> 
+   <td>N.v.t.</td> 
+  </tr> 
+  <tr> 
+   <td>Niet goedkeuren</td> 
+   <td><p>N.v.t.</p></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+## Beheerdersaudittrail {#admin-audit-trail}
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th>Beheergebied</th> 
+   <th>Handeling</th> 
+   <th>Details wijzigen</th> 
+  </tr> 
+  <tr> 
+   <td>IP-beperkingen</td> 
+   <td>Bewerken</td> 
+   <td>Bewerkte IP-beperkingen voor het volgende: Toegestaan/Geblokkeerd "blok", IP Adres "#", Uitgeschakelde IP Beperkingen ""</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="2">Partitie</td> 
+   <td>Maken</td> 
+   <td>Partitie gemaakt met naam "partitienaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>"partitienaam"-partitie verwijderd</td> 
+  </tr> 
+  <tr> 
+   <td>Wachtwoordsterkte</td> 
+   <td>Bewerken</td> 
+   <td>Wachtwoordbeveiliging gewijzigd in sjabloon: Standaardbeveiliging, minimumlengte: #, onderste boven: #, nummer: #, gemengd geval: #, vervaldatum: #, sessietime-out: Aantal</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="3">Rol<br><br></td> 
+   <td>Maken</td> 
+   <td>Rol die met "rolnaam"wordt gecreeerd (NOTA: als u details over toegevoegde toestemmingen nodig hebt, gelieve steun te contacteren) - <br>toont momentopname van toestemmingen die aan de rol worden toegewezen</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>Rolnaam is verwijderd</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Rol bewerkt van "vorige naam" naar "nieuwe naam" (OPMERKING: als u meer informatie nodig hebt over bewerkte machtigingen, neemt u contact op met de ondersteuningsafdeling) - <br>geeft u een momentopname weer van de machtigingen die aan de rol zijn toegewezen<br></td> 
+  </tr> 
+  <tr> 
+   <td>Smartlist-rapport</td> 
+   <td>Bewerken</td> 
+   <td>SmarList is bewerkt voor downloaden aanmelding: "true of false"</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="7">Gebruiker<br><br><br><br></td> 
+   <td>Maken (uitnodigen)</td> 
+   <td>Gebruiker uitgenodigd met: E-mail "e-mailadres", Naam "voornaam en achternaam", Toegang verloopt "leeg of met een datum", API Gebruiker "waar of onwaar" - <br>toont momentopname van rollen en werkruimten die aan de gebruiker worden toegewezen</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Verwijderen</td> 
+   <td colspan="1">"gebruikersnaam" gebruiker verwijderd</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>De naam van de gebruiker is gewijzigd van "oude naam" in "nieuwe naam" via e-mail: "email", apiUser: De "waar of vals"toegang verloopt: "blank of with a date"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Gebruiker is bewerkt voor e-mail: "email", apiUser: "waar of vals", de toegang verloopt: "blank of with a date"</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1">Bewerken</td> 
+   <td colspan="1">Toont momentopname van huidige staat, met inbegrip van rollen en werkruimten die aan de gebruiker worden toegewezen</td> 
+  </tr> 
+  <tr> 
+   <td>Probleem</td> 
+   <td>Kalenderlicentie voor e-mail: Naam van "e-mail van gebruiker": "gebruikersnaam"</td> 
+  </tr> 
+  <tr> 
+   <td>Herstellen</td> 
+   <td>Wachtwoord opnieuw instellen voor naam "name" en e-mail "email"</td> 
+  </tr> 
+  <tr> 
+   <td rowspan="2">Werkruimte</td> 
+   <td>Maken</td> 
+   <td>Werkruimte gemaakt met de naam "werkruimte"</td> 
+  </tr> 
+  <tr> 
+   <td>Verwijderen</td> 
+   <td>Werkruimte met de naam van de werkruimte verwijderd</td> 
+  </tr> 
+ </tbody> 
+</table>
+
+>[!NOTE]
+>
+>**Verwante artikelen**
+>
+>* [Filteren in audittrail](filtering-in-audit-trail.md)
+
+>
+
+
+
