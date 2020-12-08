@@ -1,0 +1,51 @@
+---
+unique-page-id: 7504128
+description: Een slim lijstdoel maken - Marketo Docs - Productdocumentatie
+title: Een slim lijstdoel maken
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '144'
+ht-degree: 0%
+
+---
+
+
+# Een slim lijstdoel maken {#create-a-smart-list-goal}
+
+De doelstellingen zijn manieren om vooruitgang te volgen en uw team te motiveren. Ze kunnen worden gecombineerd met slimme lijsten om allerlei zaken in Marketo bij te houden. Bovendien wordt deze lijst na het instellen van een slim lijstdoel elke twee uur automatisch bijgewerkt wanneer deze wordt gebruikt in een presentatie.
+
+Net als presentaties zijn de doelstellingen [werkruimtespecifiek](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+
+1. Ga naar de **kalender**.
+
+   ![](assets/2017-05-10-15-30-47-1.png)
+
+1. Klik op **Presentatie** in de rechterbenedenhoek.
+
+   ![](assets/image2015-3-24-12-3a2-3a55.png)
+
+1. Selecteer de tab** Goals**.
+
+   ![](assets/image2015-3-26-12-3a25-3a17.png)
+
+1. Sleep het **slimme lijstdoel** naar het canvas.
+
+   ![](assets/image2015-3-24-12-3a47-3a36.png)
+
+1. Ga een naam voor het doel in en ga een Doel **van het** Doel in. Klik vervolgens op **Maken**.
+
+   ![](assets/image2015-3-24-12-3a50-3a6.png)
+
+1. [Definieer de slimme lijst](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md). De mogelijkheden zijn eindeloos!
+
+   ![](assets/mql.png)
+
+1. Als de slimme lijst eenmaal is ingesteld, klikt u op de knop **Sluiten** en gaat u terug naar het vorige tabblad.
+
+   ![](assets/mql2.png)
+
+   Kijk daar eens naar! Uw doel voor de slimme lijst is gemaakt.
+
+   ![](assets/image2015-3-24-13-3a0-3a35.png)
+
