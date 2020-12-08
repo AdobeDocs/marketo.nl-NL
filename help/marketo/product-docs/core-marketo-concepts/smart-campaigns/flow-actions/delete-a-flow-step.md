@@ -1,0 +1,80 @@
+---
+unique-page-id: 1146987
+description: Een stap voor de stroom verwijderen - Marketo Docs - Productdocumentatie
+title: Een stroomstap verwijderen
+translation-type: tm+mt
+source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+workflow-type: tm+mt
+source-wordcount: '429'
+ht-degree: 0%
+
+---
+
+
+# Een stroomstap verwijderen {#delete-a-flow-step}
+
+>[!NOTE]
+>
+>**FYI**
+>
+>Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
+
+>[!CAUTION]
+>
+>Het verwijderen van stroomstappen, *vooral het wachten stappen* van actieve slimme campagnes, kan onverwachte resultaten hebben. **Lees dit artikel zorgvuldig door.**
+
+Laten we eerst de basisbeginselen doen. Hier is hoe te om een ongewenste stroomstap uit een slimme campagne te verwijderen. 1. Klik in de slimme-campagnestroom op het X-pictogram om een flowstap te verwijderen.
+
+![](assets/image2014-9-22-13-3a52-3a20.png)
+
+1. Klik op **Verwijderen**.
+
+   ![](assets/image2014-9-22-13-3a55-3a25.png)
+
+   Eenvoudig en eenvoudig, niet? Meestal...
+
+   >[!CAUTION]
+   >
+   >Het verwijderen, toevoegen en verplaatsen van stappen binnen een **actieve** campagne kan zeker onverwachte resultaten hebben. Overweeg een nieuwe campagne te maken, deze te testen en vervolgens over te schakelen.
+
+   Wijzigingen kunnen worden aangebracht in een actieve campagne, maar kunnen onvoorziene gevolgen hebben. Hier volgen de details:
+
+   **Slimme batch-campagnes**
+
+   Als uw campagne:
+
+   1. **Nooit rennen.** Breng alle gewenste wijzigingen aan. Het zal niemand beïnvloeden tot je die campagne voert.
+   1. **Dit is een terugkerende slimme campagne.** De wijzigingen zijn van invloed op mensen in de toekomst, niet op vorige versies.
+   1. **Reeds gestart ZONDER stappen te wachten.** Er zullen geen mensen worden beïnvloed omdat de campagne na de uitvoering slapend is.
+   1. **Wordt nu uitgevoerd.** Wijzigingen kunnen onverwacht gedrag veroorzaken, afhankelijk van de timing en de details van de verwijdering. We raden u sterk aan GEEN batchcampagne te bewerken die actief wordt uitgevoerd. Leer hoe u in noodgevallen [een actieve slimme campagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)kunt afbreken.
+
+   1. **Reeds gestart MET wachtstappen.** Hierover zijn verschillende details te vinden.\
+      Wanneer een persoon een wachttijdstap ingaat, sluit de persoon zich aan bij de duur en welke STEP van het GETAL om aan terug te keren. Zie het onderstaande voorbeeld.
+
+   **Slimme campagnes activeren**
+
+   1. **Geen wachtstappen.** Als u een normale stap verwijdert, heeft dit alleen gevolgen voor mensen die de campagne in de toekomst doorlopen.
+   1. **Met wachtende stappen.** Zie het onderstaande voorbeeld voor batchcampagnes. Dezelfde logica is van toepassing.
+
+   >[!NOTE]
+   >
+   >**Voorbeeld**
+   >
+   >    
+   >    
+   >1. Een slimme campagne bestaat uit drie stappen.
+   >
+   >   * STAP 1. E-mailadres 1 verzenden
+   >   * STAP 2. Wacht 1 week
+   >   * STAP 3. E-mailadres 2 verzenden
+   >
+   >1. Personen die op **Stap 2** klikken, wachten 1 week voordat ze verdergaan met **stap 3**.
+   >1. U verwijdert **Stap 2** tijdens de week.
+   >1. Mensen zullen de 1 week blijven wachten. (Ze komen niet automatisch terug in de flow.)
+   >1. Wanneer ze uiteindelijk terugkeren, zullen ze proberen naar **Stap 3** te gaan. Ze zullen het niet vinden.
+   >1. **BELANGRIJK:** Aangezien er nu slechts twee stappen zijn, ontvangen de *mensen geen e-mail #2.*
+
+
+Wijzigingen aanbrengen in een actieve campagne
+
+Begrijp deze functie en u zult slimme campagnes master. Wooh!
