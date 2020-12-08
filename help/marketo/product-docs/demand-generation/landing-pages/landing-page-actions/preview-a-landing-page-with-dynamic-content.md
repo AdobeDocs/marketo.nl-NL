@@ -1,0 +1,37 @@
+---
+unique-page-id: 2359734
+description: Een voorvertoning van een bestemmingspagina weergeven met dynamische inhoud - Marketo Docs - Productdocumentatie
+title: Een voorvertoning van een bestemmingspagina weergeven met dynamische inhoud
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 0%
+
+---
+
+
+# Een voorvertoning van een bestemmingspagina weergeven met dynamische inhoud {#preview-a-landing-page-with-dynamic-content}
+
+Geef een voorvertoning van de openingspagina weer nadat u dynamische inhoud hebt toegevoegd om ervoor te zorgen dat alles er goed uitziet.
+
+>[!NOTE]
+>
+>**Vereisten**
+>
+>* [Dynamische inhoud gebruiken in een bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [Een voorvertoning van een bestemmingspagina weergeven](preview-a-landing-page.md)
+
+>
+
+
+
+1. Selecteer een openingspagina en klik op **Voorvertoning van pagina.**
+
+   ![](assets/image2014-9-17-16-3a9-3a55.png)
+
+1. Klik op de vervolgkeuzelijst en selecteer een **segment** waarvan u een voorvertoning wilt bekijken.
+
+   ![](assets/image2014-9-25-15-3a34-3a40.png)
+
+Geweldig! U kunt er nu voor zorgen dat de bestemmingspagina&#39;s naar wens werken, zodat u ze in alle segmenten kunt gebruiken.
