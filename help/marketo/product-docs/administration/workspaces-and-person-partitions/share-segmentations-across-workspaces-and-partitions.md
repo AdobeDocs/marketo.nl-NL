@@ -1,0 +1,102 @@
+---
+unique-page-id: 7515767
+description: Segmenten delen op werkruimten en partities - Marketo Docs - Productdocumentatie
+title: Segmenten delen over werkruimten en partities
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '484'
+ht-degree: 0%
+
+---
+
+
+# Segmenten delen over werkruimten en partities {#share-segmentations-across-workspaces-and-partitions}
+
+>[!NOTE]
+>
+>**Vereisten**
+>
+>Dit artikel is alleen bedoeld voor klanten met werkruimten en partities
+
+## Wat is een segmentatie? {#whats-a-segmentation}
+
+Marketo is geweldig in het uitkiezen van de juiste mensen voor een programma of slimme campagne. Voor meer permanente personen moet u echter segmentaties gebruiken. Ze zijn nodig om geavanceerde dynamische inhoud in Marketo te gebruiken.
+
+>[!NOTE]
+>
+>**Diep duiken**
+>
+>Leer [hoe u segmentaties](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)maakt.
+
+Als u deze personen hebt ingesteld (**en werkruimten gebruikt)** , wilt u deze delen in de werkruimten. Hier zijn een paar goede dingen om te weten:
+
+## Regels en tips {#rules-tips}
+
+* Elk abonnement van Marketo kan tot 20 Segmentaties &quot;totaal&quot;over veelvoudige werkruimten (**niet 20 per werkruimte**) bevatten.
+* U kunt een Segmentatie met werkruimten slechts delen die u toegang tot hebt.
+* Zorg ervoor dat u een **standaardwerkruimte maakt en gebruikt die in alle partities** zichtbaar is.
+
+* De verwerking van de segmentatie loopt slechts op de mensen in de werkruimte waar de Segmentatie wordt gecreeerd.
+
+   * Maak de segmentatie die u wilt delen in de standaardwerkruimte.
+
+      * De segmentatie goedkeuren
+      * De gedeelde werkruimte ziet een vergrendelde map en de segmentatie is alleen-lezen.
+      * De gedeelde versie kan niet worden bewerkt. U kunt de oorspronkelijke segmentatie alleen bewerken op de plaats waar deze is gemaakt.
+   * Wanneer u op een Segment (b.v. Gezondheidszorg) binnen een gedeelde Segmentatie klikt, zullen de mensen u ziet slechts mensen in de verdeling verbonden aan de werkruimte zijn u bekijkt.
+
+      * Als u een Segmentatie in Werkruimte 1 (WS1) creeert en het met WS2 deelt en WS1 heeft geen toegang tot de verdeling voor WS2, ZAL het NIET de Segmentatie opnieuw berekenen.
+      * Als u een Segmentatie in een werkruimte creeert die verdelingen heeft, en het dan met een andere werkruimte deelt, zal die werkruimte die de gedeelde Segmentatie ontving slechts mensen zien als zij overlappen hebben.
+
+
+>[!NOTE]
+>
+>Sommige van deze regels zijn een beetje complex. De eenvoudigste manier om aan de slag te gaan is met specifieke mensen te testen. Je kunt altijd nieuwe segmentaties maken en oude weghalen.
+
+## Voorbeeldscenario&#39;s {#example-scenarios}
+
+![](assets/image2015-5-27-16-3a26-3a25.png)
+
+** ![](assets/image2015-5-27-16-3a26-3a48.png)
+
+**
+
+## Een segmentatie delen {#share-a-segmentation}
+
+1. Ga naar de database.
+
+   ![](assets/image2017-3-29-8-3a15-3a40.png)
+
+1. Klik met de rechtermuisknop op Segmenten en selecteer Nieuwe mappen.
+
+   ![](assets/image2017-3-29-8-3a40-3a31.png)
+
+1. Geef een naam op voor de map die u wilt delen in de verschillende werkruimten (bijvoorbeeld: Segmentaties delen.)
+
+   ![](assets/image2017-3-29-8-3a40-3a45.png)
+
+1. Verplaats de segmentatie(s) die u wilt delen naar de map.
+
+   ![](assets/image2017-3-29-8-3a41-3a3.png)
+
+1. Klik met de rechtermuisknop op de map en selecteer Map delen.
+
+   ![](assets/image2017-3-29-8-3a41-3a19.png)
+
+1. Selecteer de werkruimte(n) waarmee u de map wilt delen. Klik op Opslaan.
+
+   ![](assets/image2015-5-27-11-3a6-3a40.png)
+
+   >[!NOTE]
+   >
+   >In het dialoogvenster worden de werkruimten weergegeven die u kunt weergeven. Marketo raadt u daarom aan om Segmentaties te maken en te delen vanuit de werkruimte Standaard die zichtbaar is in alle werkruimten en partities.
+
+De voortkomende omslag toont in de boom van het Gegevensbestand met een pijl erop wijst die dat het met andere werkruimten wordt gedeeld. Vanuit de gedeelde werkruimte wordt in de map een vergrendeling weergegeven om aan te geven dat de inhoud van de map is gedeeld vanuit een andere werkruimte en alleen-lezen is.
+
+>[!NOTE]
+>
+>**Verwante artikelen**
+>
+>[Segmentatie en fragmenten](http://docs.marketo.com/display/docs/segmentation+and+snippets)
+
