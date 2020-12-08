@@ -1,0 +1,45 @@
+---
+unique-page-id: 45417092
+description: Exporteren Gebruikt door gegevens voor een veld - Marketo Docs - Productdocumentatie
+title: Gebruikt door gegevens exporteren voor een veld
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '100'
+ht-degree: 0%
+
+---
+
+
+# Gebruikt door gegevens exporteren voor een veld {#export-used-by-data-for-a-field}
+
+Als Admin, hebt u de capaciteit om verwante activa van een gebied uit te voeren zodat kunt u hun delinking aan uw team delegeren.
+
+>[!NOTE]
+>
+>**Beheerdersmachtigingen vereist**
+
+1. Klik op **Beheerder**.
+
+   ![](assets/one.png)
+
+1. Klik op **Veldbeheer**.
+
+   ![](assets/two-3.png)
+
+1. Zoek het gewenste veld en selecteer het.
+
+   ![](assets/three.png)
+
+1. Klik op de vervolgkeuzelijst **Veldhandelingen** en selecteer **Exporteren gebruikt door**.
+
+   ![](assets/four.png)
+
+1. Een Excel-bestand wordt geëxporteerd. Open het bestand om de inhoud ervan weer te geven.
+
+   ![](assets/five-1.png)
+
+   >[!TIP]
+   >
+   >Elk verwant element is een koppeling waarop kan worden geklikt en die wordt geopend in Marketo.
+
