@@ -1,0 +1,51 @@
+---
+unique-page-id: 7504130
+description: Een aangepast doel maken - Marketo Docs - Productdocumentatie
+title: Een aangepast doel maken
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '108'
+ht-degree: 0%
+
+---
+
+
+# Een aangepast doel maken {#create-a-custom-goal}
+
+De doelstellingen zijn manieren om vooruitgang te volgen en uw team te motiveren. Nadat u ze hebt gemaakt, moeten ze handmatig worden bijgewerkt.
+
+Net als presentaties zijn de doelstellingen [werkruimtespecifiek](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+
+1. Ga naar de **kalender**.
+
+   ![](assets/2017-05-10-15-30-47-2.png)
+
+1. Klik op **Presentatie** in de rechterbenedenhoek.
+
+   ![](assets/image2015-3-24-12-3a2-3a55.png)
+
+1. Selecteer de tab** Goals**.
+
+   ![](assets/image2015-3-26-12-3a24-3a49.png)
+
+1. Sleep **Aangepast doel** naar het canvas.
+
+   ![](assets/image2015-3-24-12-3a32-3a45.png)
+
+1. Voer een naam in voor het doel. Selecteer een **valuta**.
+
+   >[!NOTE]
+   >
+   >Als het doel geen monetaire waarde is, kunt u **Geen** selecteren.
+
+   ![](assets/image2015-3-24-12-3a36-3a0.png)
+
+1. Voer een waarde in voor **Doel** en **Huidige waarde** (als er geen waarde is, **voer 0** in). Klik vervolgens op **Maken**.
+
+   ![](assets/image2015-3-24-12-3a39-3a28.png)
+
+   Uw aangepaste doel is gemaakt!
+
+   ![](assets/image2015-3-24-12-3a41-3a43.png)
+
