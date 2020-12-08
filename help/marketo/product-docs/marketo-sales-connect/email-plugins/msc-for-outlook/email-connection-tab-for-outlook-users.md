@@ -1,0 +1,118 @@
+---
+unique-page-id: 17727591
+description: Het Lusje van de Verbinding van e-mail voor de Gebruikers van Vooruitzichten - Marketo Dos - de Documentatie van het Product
+title: Tabblad E-mailverbinding voor Outlook-gebruikers
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '377'
+ht-degree: 0%
+
+---
+
+
+# Tabblad E-mailverbinding voor Outlook-gebruikers {#email-connection-tab-for-outlook-users}
+
+Leer hoe u uw Sales Connect-account kunt verbinden met Outlook.
+
+>[!NOTE]
+>
+>Elke gebruiker moet verbinding maken met Outlook vanuit zijn Sales Connect-account.
+
+## Verbinding maken met Outlook Online {#connecting-to-outlook-online}
+
+Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het de leveringskanaal van Vooruitzichten, de capaciteit zult ontvangen om e-mails in Vooruitzichten te plannen, en naleving te verzenden.
+
+1. Klik in Sales Connect op het tandwielpictogram en selecteer **Instellingen**.
+
+   ![](assets/one.png)
+
+1. Selecteer onder Mijn account de optie **E-mailinstellingen**.
+
+   ![](assets/two.png)
+
+1. Klik op het tabblad **E-mailverbinding** .
+
+   ![](assets/three.png)
+
+1. Klik op **Aan de slag**.
+
+   ![](assets/four.png)
+
+1. Selecteer **ik Outlook om e-mailberichten** te verzenden en klik op **Volgende**.
+
+   ![](assets/five-a.png)
+
+1. Selecteer de versie van Vooruitzichten u gebruikt en klik **daarna**. In dit voorbeeld kiezen we Outlook Online.
+
+   ![](assets/six-a.png)
+
+   | **Outlook Online** | Ook bekend als Office Online |
+   |---|---|
+   | **Exchange op locatie** | Inclusief Exchange 2013 en 2016 |
+
+1. Klik op **OK**.
+
+   ![](assets/seven-a.png)
+
+1. Als u niet aan Vooruitzichten het programma wordt geopend, ga uw login info in en klik **daarna**. Kies in dat geval de account waarmee u verbinding wilt maken en klik op **Volgende**. In dit voorbeeld zijn we al aangemeld.
+
+   ![](assets/eight-a.png)
+
+1. Klik op **Accepteren**.
+
+   ![](assets/nine-a.png)
+
+   U kunt deze verbinding gebruiken om e-mails bij te houden en ook [als een leveringskanaal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
+
+   >[!NOTE]
+   >
+   >Wanneer u Outlook als leveringskanaal gebruikt, kunt u niet meer dan 300 grote e-mails tegelijk verzenden.
+
+## Verbinding maken met Exchange op locatie {#connecting-to-exchange-on-premise}
+
+Het verbinden met Uitwisseling op locatie betekent u antwoord het volgen, toegang tot het de leveringskanaal van Vooruitzichten, de capaciteit zult ontvangen om e-mails in Vooruitzichten te plannen, en naleving te verzenden.
+
+1. Klik in Sales Connect op het tandwielpictogram en selecteer **Instellingen**.
+
+   ![](assets/one.png)
+
+1. Selecteer onder Mijn account de optie **E-mailinstellingen**.
+
+   ![](assets/two.png)
+
+1. Klik op het tabblad **E-mailverbinding** .
+
+   ![](assets/three.png)
+
+1. Klik op **Aan de slag**.
+
+   ![](assets/four.png)
+
+1. Selecteer **ik Outlook om e-mailberichten** te verzenden en klik op **Volgende**.
+
+   ![](assets/five-a.png)
+
+1. Selecteer de versie van Vooruitzichten u gebruikt en klik **daarna**. In dit voorbeeld kiezen wij Uitwisseling op-gebouw.
+
+   ![](assets/six-b.png)
+
+   | **Outlook Online** | Ook bekend als Office Online |
+   |---|---|
+   | **Exchange op locatie** | Inclusief Exchange 2013 en 2016 |
+
+1. Voer uw referenties in en klik op **Verbinden**.
+
+   ![](assets/seven-b.png)
+
+   >[!NOTE]
+   >
+   >Als u Autodiscover in de drop-down van de Versie van de Uitwisseling uitzet, zult u uw afdeling van IT voor de Uitwisseling URL moeten vragen.
+
+   [als leveringskanaal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)
+
+   >[!NOTE]
+   >
+   >Wanneer u Outlook als leveringskanaal gebruikt, kunt u niet meer dan 300 grote e-mails tegelijk verzenden.
+
+U kunt deze verbinding gebruiken om e-mails bij te houden en ook.
