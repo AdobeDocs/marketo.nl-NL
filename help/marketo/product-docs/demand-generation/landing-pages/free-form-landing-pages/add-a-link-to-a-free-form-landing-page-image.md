@@ -1,0 +1,41 @@
+---
+unique-page-id: 2359736
+description: Voeg een Verbinding aan een Vrije Vorm het Landen Beeld van de Pagina toe - Marketo Docs - de Documentatie van het Product
+title: Voeg een Verbinding aan een Vrije Vorm het Bestaan Beeld van de Pagina toe
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '85'
+ht-degree: 0%
+
+---
+
+
+# Voeg een Verbinding aan een Vrije Vorm het Bestaan Beeld van de Pagina toe {#add-a-link-to-a-free-form-landing-page-image}
+
+>[!NOTE]
+>
+>**Vereisten**
+>
+>* [Een afbeelding toevoegen aan een openingspagina met vrije vorm](add-an-image-to-a-free-form-landing-page.md)
+
+>
+
+
+
+>[!NOTE]
+>
+>Dit geldt alleen voor landingspagina&#39;s met vrije vorm.
+
+1. Selecteer de afbeelding die u aan de bestemmingspagina hebt toegevoegd en vouw het **eigenschappenblad uit.**
+
+   ![](assets/image2014-9-18-15-3a29-3a0.png)
+
+1. Typ uw mailto-koppeling in de URL van de **koppeling.**
+
+   ![](assets/image2014-9-18-15-3a29-3a21.png)
+
+   Geweldig werk! U hebt nu een afbeelding als een mailto-koppeling op de openingspagina Marketo.
+
+   ![](assets/image2014-9-18-15-3a29-3a38.png)
+
