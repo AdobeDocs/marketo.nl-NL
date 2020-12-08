@@ -1,0 +1,50 @@
+---
+unique-page-id: 11383877
+description: Een programmaanalyse klonen - Marketo Docs - Productdocumentatie
+title: Een programmaanalyse klonen
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '112'
+ht-degree: 0%
+
+---
+
+
+# Een programmaanalyse klonen {#clone-a-program-analyzer}
+
+Nadat u een analysator hebt opgeslagen, is het gemakkelijk om het te klonen om nieuwe te creëren. Ga vervolgens in en bewerk de nieuwe als er wijzigingen nodig zijn.
+
+1. Klik op de tegel **Analytics **tile.
+
+   ![](assets/2017-05-01-08-20-37.png)
+
+1. Klik op de tegel **Programmaanalyse** .
+
+   ![](assets/program-analyzer-icon-hand.png)
+
+1. Open, terwijl de opgeslagen analysator is geopend, het vervolgkeuzemenu Analyserhandelingen en selecteer **Kloonanalyse**.
+
+   ![](assets/image2016-10-31-16-3a12-3a6.png)
+
+1. Selecteer de locatie voor de gekloonde analysator in de keuzelijst **Klonen naar** en **Map** .
+
+   ![](assets/image2016-10-31-16-3a13-3a42.png)
+
+1. Geef de gekloonde analysator een naam en klik op **Klonen**.
+
+   ![](assets/image2016-10-31-16-3a15-3a15.png)
+
+1. Nu heb je twee identieke analysatoren met verschillende namen. Open de kloon om de gewenste wijzigingen aan te brengen.
+
+   ![](assets/image2016-10-31-16-3a17-3a11.png)
+
+   >[!NOTE]
+   >
+   >**Verwante artikelen**
+   >
+   >    
+   >    
+   >    * [Een programmaanalyse maken](create-a-program-analyzer.md)
+
+
