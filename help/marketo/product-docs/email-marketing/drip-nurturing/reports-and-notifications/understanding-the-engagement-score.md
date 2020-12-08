@@ -1,0 +1,43 @@
+---
+unique-page-id: 2359890
+description: Inzicht krijgen in de betrokkenheidsscore - Marketo Docs - Productdocumentatie
+title: De betrokkenheidsscore begrijpen
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 0%
+
+---
+
+
+# De betrokkenheidsscore begrijpen {#understanding-the-engagement-score}
+
+Met de betrokkenheidsscore kunt u eenvoudig zien hoe effectief de inhoud in uw betrokkenheidsprogramma is. De score loopt van 0 tot en met 100. Bekijk [het dashboard](the-engagement-dashboard.md) Betrokkenheid om te zien hoe u de prestaties van uw inhoud kunt volgen.
+
+![](assets/image2014-9-25-16-3a24-3a54.png)
+
+![](assets/highestengagementwidget.jpg)
+
+De score is gebaseerd op een eigen algoritme dat rekening houdt met betrokken gedrag (Openen, Klikken, Programmasucces) en ontkoppeld gedrag (Unsubscribe). Het wordt vergeleken met druppel- en kinderachtige e-mails om een gemiddelde van 50 te geven. Om mensen de kans te geven om met uw inhoud in gesprek te gaan, wordt de betrokkenheidsscore 72 uur na elke cast berekend.
+
+>[!NOTE]
+>
+>Wanneer programma&#39;s als inhoud in streams worden gebruikt, is de betrokkenheidsscore gebaseerd op het lidmaatschap en de successtatus van het programma en **niet** op e-mailinteractie (klik, open, afmelding).
+
+Betrokkenheidsscores zijn universeel voor alle klanten. Je kunt ze vergelijken om te zien wie de meest aantrekkelijke inhoud heeft.
+
+>[!NOTE]
+>
+>Het bedrijfseigen algoritme is ook van toepassing op de betrokkenheidsscore in e-mailprogramma&#39;s.
+
+>[!NOTE]
+>
+>**Verwante artikelen**
+>
+>* [Betrokkenheidsprogramma&#39;s](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
+
+>
+
+
+
