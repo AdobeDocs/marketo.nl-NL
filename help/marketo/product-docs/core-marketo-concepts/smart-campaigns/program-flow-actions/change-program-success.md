@@ -1,0 +1,48 @@
+---
+unique-page-id: 1147009
+description: Programma succesvol wijzigen - Marketo Docs - Productdocumentatie
+title: Programma is gewijzigd
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '141'
+ht-degree: 0%
+
+---
+
+
+# Programma is gewijzigd {#change-program-success}
+
+## Overzicht {#overview}
+
+Als u ooit een groep mensen hebt die toevallig met het Succes van het Programma worden gemerkt, kunt u deze stroomstap gebruiken om succes aan waar of vals te plaatsen.
+
+![](assets/image2014-9-22-14-3a45-3a8.png)
+
+## Gebruik {#usage}
+
+1. Wanneer u in deze flowstap sleept, wordt het programma automatisch ingesteld op het programma dat de slimme campagne bevat die u bewerkt.
+
+   >[!NOTE]
+   >
+   >Alleen de leden van het programma worden hierdoor beïnvloed.
+
+   ![](assets/image2014-9-22-14-3a45-3a35.png)
+
+1. Selecteer **Succes** of *** Datum van succes** als Attribuut.
+
+   ![](assets/image2014-9-22-14-3a45-3a39.png)
+
+   >[!NOTE]
+   >
+   >Als u de instelling van Datum succes op Alles instelt, wordt Succes automatisch ingesteld op true. Als u Succes instelt op true, wordt de succesdatum automatisch ingesteld op de huidige datum.
+
+1. Stel de **nieuwe waarde** in op **Waar** of **Onwaar**.
+
+   ![](assets/image2014-9-22-14-3a45-3a55.png)
+
+   >[!TIP]
+   >
+   >U kunt de flowstap tweemaal gebruiken om zowel de markering Succes als de datum in te stellen.
+
+Geweldig! Nu weet je hoe je het ongedaan kunt maken en succes kunt forceren.
