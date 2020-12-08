@@ -1,0 +1,52 @@
+---
+unique-page-id: 37356568
+description: Een e-mail plannen - Marketo Docs - Productdocumentatie
+title: Een e-mail plannen
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '137'
+ht-degree: 0%
+
+---
+
+
+# Een e-mail plannen {#scheduling-an-email}
+
+Volg deze eenvoudige stappen om een e-mail te plannen.
+
+>[!NOTE]
+>
+>Ga naar de pagina Instellingen om de standaardtijdzone bij te werken.
+
+1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld kiezen we **Samenstellen** in de koptekst).
+
+   ![](assets/one-1.png)
+
+1. Als u klaar bent met het samenstellen van uw e-mail, klikt u rechtsonder op **Planning** .
+
+   ![](assets/two-1.png)
+
+1. Klik op de datum waarop u de datumkiezer wilt openen en selecteer een datum.
+
+   ![](assets/three-1.png)
+
+1. Voer de tijd in waarop het e-mailbericht moet verschijnen. Selecteer de gewenste tijdzone en klik op **Opslaan**. Sluit de planner wanneer gedaan.
+
+   ![](assets/four-1.png)
+
+1. Nu de geplande datum/tijd is geselecteerd, klikt u op **Verzenden** om het e-mailbericht te plannen.
+
+   ![](assets/five-1.png)
+
+   >[!NOTE]
+   >
+   >Gepland e-mailbericht kan worden weergegeven/bewerkt in de sectie voor geplande mappen van het Opdrachtcentrum.
+
+   >[!NOTE]
+   >
+   >**Verwante artikelen**
+   >
+   >
+   >[Overzicht van Command Center](http://docs.marketo.com/x/kgDb)
+
