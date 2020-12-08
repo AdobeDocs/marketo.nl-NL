@@ -1,0 +1,55 @@
+---
+unique-page-id: 557324
+description: Gebruik het Gewijzigde Filter van de Waarde van Gegevens in een Slimme Lijst - Marketo Docs - de Documentatie van het Product
+title: Het filter Gewijzigde gegevenswaarde gebruiken in een slimme lijst
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '157'
+ht-degree: 0%
+
+---
+
+
+# Het filter Gewijzigde gegevenswaarde gebruiken in een slimme lijst {#use-the-data-value-changed-filter-in-a-smart-list}
+
+De waarden veranderen constant en worden bijgewerkt in uw gegevensbestand Marketo. Soms wilt u in plaats van naar een bepaalde waarde te zoeken, zoeken naar mensen met een andere waarde. Zo gaat het.
+
+>[!NOTE]
+>
+>**Vereisten**
+>
+>* [Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+
+>
+
+
+
+1. Ga naar het **Marketing Activiteiten **gebied.
+
+   ![](assets/ma.png)
+
+1. Selecteer de slimme lijst en klik op het tabblad **Slimme lijst** .
+
+   ![](assets/two-1.png)
+
+1. Zoek het filter **Gegevenswaarde gewijzigd** en sleep het naar het canvas.
+
+   ![](assets/three-1.png)
+
+1. Stel **Kenmerk** in op het veld waarin u naar wijzigingen in gegevenswaarden wilt zoeken.
+
+   ![](assets/four.png)
+
+Dit filter zoekt naar alle personen die een wijziging (een wijziging) in hun status hebben ondergaan. Probeer een restrictie toe te [voegen aan een slim lijstfilter](add-a-constraint-to-a-smart-list-filter.md)als u nog steeds verfijnder wilt worden.
+
+>[!NOTE]
+>
+>**Verwante artikelen**
+>
+>* [Een restrictie toevoegen aan een slim lijstfilter](add-a-constraint-to-a-smart-list-filter.md)
+
+>
+
+
+
