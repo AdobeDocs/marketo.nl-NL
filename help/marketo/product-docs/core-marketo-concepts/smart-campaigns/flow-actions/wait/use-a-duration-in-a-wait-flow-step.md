@@ -1,0 +1,61 @@
+---
+unique-page-id: 1146978
+description: Gebruik een Duur in een Stap van de Stroom van de Wacht - Marketo Docs - de Documentatie van het Product
+title: Gebruik een Duur in een Stap van de Stroom van de Wacht
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '205'
+ht-degree: 0%
+
+---
+
+
+# Gebruik een Duur in een Stap van de Stroom van de Wacht {#use-a-duration-in-a-wait-flow-step}
+
+U kunt de stap van de Wachtrij gebruiken om de reis van een persoon door een slimme campagne voor een bepaalde duur te pauzeren. U kunt ook criteria opgeven voor de dag van de week en het tijdstip waarop deze eindigt.
+
+1. Sleep in het tabblad **Stroom** van slimme campagne over de stap **Wachten** .
+
+   ![](assets/image2014-9-22-11-3a53-3a57.png)
+
+1. Voer in hoelang u wilt pauzeren.
+
+   ![](assets/image2014-9-22-11-3a54-3a0.png)
+
+1. Dat is het! De flow wordt onderbroken voor de opgegeven duur. Voor geavanceerde opties klikt u op het tandwielpictogram rechts.
+
+   ![](assets/image2014-9-22-11-3a54-3a7.png)
+
+1. Geef de dag van de week op waarop de wachttijdstap moet worden beëindigd.
+
+   ![](assets/image2014-9-22-11-3a54-3a10.png)
+
+1. Geef eventueel de tijd op. Klik op **Opslaan**.
+
+   ![](assets/image2014-9-22-11-3a54-3a35.png)
+
+   >[!NOTE]
+   >
+   >**Voorbeeld**
+   >
+   >
+   >Op vrijdag om 17.00 uur start iemand een slimme campagne. De wachttijdstap is gevorderd: 48 uur en moet om 9.00 uur eindigen op maandag-vrijdag.
+   >
+   >
+   >Het resultaat zou zijn dat de persoon op **maandag 9.00 uur** in de stroom zou blijven. Dit is de eerste M-F-datum na 48 uur.
+
+   >[!NOTE]
+   >
+   >De duur, de data, de tijden, en de gebruikte dagen zijn allen gebaseerd op de tijdzone van uw abonnement.
+
+   >[!NOTE]
+   >
+   >**Verwante artikelen**
+   >
+   >    
+   >    
+   >    * [Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht](use-a-specific-date-in-a-wait-flow-step.md)
+   >    * [Een Date Token gebruiken in een Wachten Flow-stap](use-a-date-token-in-a-wait-flow-step.md)
+
+
