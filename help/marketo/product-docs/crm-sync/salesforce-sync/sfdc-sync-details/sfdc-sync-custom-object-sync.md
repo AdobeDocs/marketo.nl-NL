@@ -1,0 +1,92 @@
+---
+unique-page-id: 2953471
+description: SFDC Sync - Custom Object Sync - Marketo Docs - Productdocumentatie
+title: SFDC-synchronisatie - Aangepaste objectsynchronisatie
+translation-type: tm+mt
+source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+workflow-type: tm+mt
+source-wordcount: '216'
+ht-degree: 0%
+
+---
+
+
+# SFDC-synchronisatie: Aangepaste objectsynchronisatie {#sfdc-sync-custom-object-sync}
+
+Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook onderdeel zijn van Marketo.  Hier is hoe je het instelt.
+
+>[!NOTE]
+>
+>**Beheerdersmachtigingen vereist**
+
+>[!NOTE]
+>
+>**Vereisten**
+>
+>Als u een aangepast object wilt gebruiken, moet het worden gekoppeld aan een [lead](sfdc-sync-lead-sync.md)-, [](sfdc-sync-contact-sync.md)contact- of [](sfdc-sync-account-sync.md)accountobject in Salesforce.
+
+## Aangepast object inschakelen  {#enable-custom-object}
+
+1. Klik op **Beheer** en de **koppeling**** Salesforce-objecten synchroniseren.**
+
+   ![](assets/image2015-11-19-10-3a28-3a5.png).
+
+1. Als dit het eerste aangepaste object is, klikt u op Schema **synchroniseren.**
+
+   ![](assets/rtaimage-2.png)
+
+1. Klik op Globale synchronisatie **uitschakelen.**
+
+   ![](assets/image2015-4-22-10-3a45-3a0.png)
+
+   >[!NOTE]
+   >
+   >Een eerste synchronisatie van het schema van aangepaste Salesforce-objecten kan een paar minuten duren.
+
+   ![](assets/image2015-4-22-10-3a45-3a18.png)
+
+1. Sleep het aangepaste object dat u wilt synchroniseren naar het canvas.
+
+   ![](assets/image2015-4-22-10-3a45-3a30.png)
+
+   >[!NOTE]
+   >
+   >Aangepaste objecten moeten unieke namen hebben. Marketo ondersteunt geen twee verschillende aangepaste objecten met dezelfde naam.
+
+1. Klik op Synchronisatie **inschakelen.**
+
+   ![](assets/image2015-4-22-10-3a45-3a50.png)
+
+1. Klik nogmaals **op Synchronisatie** inschakelen.
+
+   ![](assets/image2015-4-22-10-3a46-3a10.png)
+
+   >[!NOTE]
+   >
+   >**Herinnering**
+   >
+   >
+   >Vergeet niet om uw wereldwijde synchronisatie opnieuw in te schakelen!
+
+1. Ga terug naar de tab **Salesforce **.
+
+   ![](assets/image2015-4-22-10-3a46-3a25.png)
+
+1. Klik op Synchronisatie **inschakelen.**
+
+   ![](assets/image2015-4-22-10-3a50-3a26.png)
+
+1. Als u al uw aangepaste Salesforce-objecten wilt weergeven, klikt u op **Admin** en de koppeling ***Salesforce-objecten synchroniseren **(zelfde als bovenstaande stap 1).
+
+   ![](assets/image2016-6-23-9-3a28-3a23.png)
+
+   >[!NOTE]
+   >
+   >Marketo ondersteunt alleen aangepaste entiteiten die een of twee niveaus diep zijn gekoppeld aan standaardentiteiten.
+
+### Volgende: {#whats-next}
+
+[Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+
+Uitstekend! U kunt nu gegevens uit dit aangepaste object gebruiken in slimme campagnes en slimme lijsten.
+
