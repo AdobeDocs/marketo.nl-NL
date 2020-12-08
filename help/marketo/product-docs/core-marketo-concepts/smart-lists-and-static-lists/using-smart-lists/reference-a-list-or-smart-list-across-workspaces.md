@@ -1,0 +1,53 @@
+---
+unique-page-id: 4720377
+description: Verwijzing naar een lijst of slimme lijst in werkruimten - Marketo Docs - Productdocumentatie
+title: Verwijzen naar een lijst of slimme lijst in werkruimten
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '167'
+ht-degree: 0%
+
+---
+
+
+# Verwijzen naar een lijst of slimme lijst in werkruimten {#reference-a-list-or-smart-list-across-workspaces}
+
+Lijsten en slimme lijsten kunnen worden gedeeld en van verwijzingen voorzien over werkruimten voor gemakkelijk hergebruik van het Gegevensbestand.
+
+>[!NOTE]
+>
+>De verdelingsregels van de persoon zijn van toepassing (slimme lijsten en statische lijsten in een werkruimte tonen slechts mensen die zowel lid van de lijst *als* leden van de huidige werkruimte zijn).
+
+## Een lijst of slimme lijst delen  {#share-a-list-or-smart-list}
+
+1. Ga naar de **database**.
+
+   ![](assets/db-1.png)
+
+1. Klik met de rechtermuisknop op een campagnemap. Selecteer **Nieuwe map**.
+
+   >[!NOTE]
+   >
+   >Elementen kunnen alleen worden gedeeld door werkruimten als ze in een map zijn genest.
+
+   ![](assets/two-4.png)
+
+1. Sleep een lijst of slimme lijst die u wilt delen naar de nieuwe map en zet deze neer.
+
+   ![](assets/three-4.png)
+
+1. Klik met de rechtermuisknop op **Nieuwe map** en selecteer **Map** delen.
+
+   ![](assets/four-3.png)
+
+1. Kies een **Werkruimte **delen met. Selecteer **Opslaan**.
+
+   ![](assets/image2014-12-9-15-3a37-3a25.png)
+
+   Geweldig! Deze lijst is nu beschikbaar in beide werkruimten.
+
+   >[!NOTE]
+   >
+   >Bij marketingactiviteiten kunt u alleen mappen op hoofdniveau delen. In het Gegevensbestand, kunt u top-level omslagen evenals één niveau neer delen.
+
