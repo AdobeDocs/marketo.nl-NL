@@ -1,0 +1,37 @@
+---
+unique-page-id: 10096420
+description: Verkoopinformatie - Marketo Docs - Productdocumentatie
+title: Verkoopinformatie
+translation-type: tm+mt
+source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+workflow-type: tm+mt
+source-wordcount: '199'
+ht-degree: 0%
+
+---
+
+
+# Verkoopinformatie {#sales-intelligence}
+
+Marketo Web Personalization biedt waardevolle informatie over de anonieme en bekende webbezoekers en organisaties die uw website bezoeken. Verkoopmanagers kunnen dit gebruiken om waarschuwingen over belangrijke organisaties en accounts op te sporen, te controleren en te ontvangen, afhankelijk van de specifieke regio.
+
+U kunt het programma openen door u aan te melden bij het Marketo Web Personalization-platform, via een dagelijkse/wekelijkse e-mailrapport of door het te bekijken op de mobiele app.
+
+## Het gebruikersgebied definiëren {#define-the-users-region}
+
+Als u de organisatie- en bezoekersgegevens die u in Marketo Web Personalization per regio, land of staat ziet, wilt definiëren, gaat u naar [Gebruikersinstellingen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) en selecteert u de landen of staten.
+
+## Dagelijkse of wekelijkse e-mailrapporten instellen {#set-up-daily-or-weekly-email-reports}
+
+In [Gebruikersinstellingen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)kunt u instellen dat u dagelijkse of wekelijkse e-mailrapporten ontvangt die &#39;s ochtends vroeg worden verzonden. De belangrijkste rapporten van belang voor een verkoopmanager omvatten de Organisaties en Leads rapporten, die de hoogste bezochte organisaties en voorleiders tonen die, met inbegrip van hun gedrag, van de specifieke regio van de gebruiker worden voorgelegd.
+
+>[!NOTE]
+>
+>Wij adviseerden dat u opstelling verkoopmanagers met mening-slechts toestemming in het Web van Marketo Personalization. Dit betekent dat ze alle pagina&#39;s kunnen weergeven, maar geen functies kunnen maken, bewerken of verwijderen.
+
+>[!NOTE]
+>
+>**Verwante artikelen**
+>
+>* [E-mailrapporten](email-reports.md)
+
