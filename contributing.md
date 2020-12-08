@@ -1,8 +1,8 @@
 ---
-source-git-commit: 394be8f9a301fae26dbe3d397623eb2921b8fbf1
+source-git-commit: 0dbdb1f26a4dcf59f351511b072a6385935de86f
 workflow-type: tm+mt
 translation-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ Hieronder volgt een reeks richtlijnen die moeten worden gevolgd wanneer u een bi
 ## Gedragscode
 
 Dit project voldoet aan de [gedragscode](code-of-conduct.md)Adobe. Door deel te nemen, wordt u verwacht deze code te handhaven. Meld onacceptabel gedrag aan[Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
+
+## Documentatie voor de bijdragegids
+
+Zie de [handleiding](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)voor contribuanten.
 
 ## Heb je een vraag?
 
