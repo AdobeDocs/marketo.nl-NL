@@ -1,0 +1,65 @@
+---
+unique-page-id: 2953243
+description: Meldingstypen - Marketo Docs - Productdocumentatie
+title: Typen meldingen
+translation-type: tm+mt
+source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+workflow-type: tm+mt
+source-wordcount: '246'
+ht-degree: 0%
+
+---
+
+
+# Typen meldingen {#notification-types}
+
+Er zijn verschillende meldingstypen.
+
+## Campagne mislukt  {#campaign-failure}
+
+Fouten tijdens de campagne geven u een melding van fouten in uw slimme campagnes.
+
+## CRM-synchronisatie {#crm-sync}
+
+CRM-synchronisatieberichten geven een waarschuwing voor kritieke problemen die zich voordoen bij de CRM-synchronisatie, zoals onjuiste machtigingen of het neerzetten van de synchronisatie.
+
+**Microsoft Dynamics**
+
+Dynamische meldingen worden elke 24 uur verzonden en bevatten aanwijzingen die in die periode niet zijn gesynchroniseerd. Typische oorzaken van een fout zijn dubbele leads (zoals hierboven) of onjuiste overeenkomsten met veldlengte.
+
+![](assets/image2016-1-20-11-3a19-3a58.png)
+
+**Salesforce**
+
+Als u Salesforce gebruikt, zien synchronisatiefoutenmeldingen er ongeveer zo uit als hieronder. Typische fouten zijn verlopen gegevens en overschrijden de API-limieten.
+
+![](assets/salesforcesyncerror.png)
+
+Betrokkenheid
+
+Wanneer de leads uitgeput raken in een stream, sturen we een melding.  In de aanmelding zijn het aantal uitgedrukte leads en enige andere informatie opgenomen.
+
+![](assets/image2014-10-14-10-3a57-3a9.png)
+
+Facebook
+
+Als u leads naar Facebook probeert te verzenden zonder de servicevoorwaarden te accepteren, of als u leads naar Facebook probeert te verzenden nadat u de Marketo-app hebt verwijderd.
+
+Opruimen van campagne voor inactieve Trigger
+
+Deactivate teweeggebrachte Slimme Campagnes die geen activiteit meer krijgen. Meer weten over het opschonen van [automatische triggercampagnes](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md)?
+
+LinkedIn
+
+Wanneer Marketo geen nieuw publiek kan maken, meldt u zich aan of stuurt u e-mails naar LinkedIn na drie pogingen.
+
+![](assets/linkedin.png)
+
+Webservices
+
+U wordt op de hoogte gesteld wanneer u uw dagelijkse quotum bereikt. De quota worden elke nacht opnieuw ingesteld om middernacht, Centrale Tijd.
+
+>[!NOTE]
+>
+>Sommige foutcodes die u ontvangt, worden beschreven in onze documentatie [voor](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes)ontwikkelaars.
+
