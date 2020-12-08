@@ -1,0 +1,75 @@
+---
+unique-page-id: 11382535
+description: URL's gebruiken in Mijn tokens - Marketo Docs - Productdocumentatie
+title: URL's gebruiken in Mijn tokens
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '218'
+ht-degree: 0%
+
+---
+
+
+# URL&#39;s gebruiken in Mijn tokens {#using-urls-in-my-tokens}
+
+Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te voegen in uw e-mails.
+
+1. Selecteer uw programma en klik op **Mijn tokens**.
+
+   ![](assets/one-4.png)
+
+1. Selecteer de **Tekst** Mijn token, sleep deze naar het canvas.
+
+   ![](assets/two-4.png)
+
+1. Geef de token een unieke naam, voer een URL in (zonder de map http://) en klik op **Opslaan**.
+
+   ![](assets/three-4.png)
+
+   >[!CAUTION]
+   >
+   >Om ervoor te zorgen dat kliks in uw e-mail worden gevolgd, ga **niet** http:// binnen de waarde van het teken in.
+
+1. Selecteer de e-mail in uw programma.
+
+   ![](assets/four-3.png)
+
+1. Klik op Concept **** bewerken.
+
+   ![](assets/five-3.png)
+
+1. Dubbelklik in het tekstgebied dat u wilt bewerken.
+
+   ![](assets/six-1.png)
+
+1. Typ overal in uw e-mail &quot;http://&quot; (zonder ruimte na te laten) en klik op het pictogram Token invoegen.
+
+   ![](assets/seven.png)
+
+   >[!NOTE]
+   >
+   >U kunt natuurlijk ook &quot;https&quot; invoeren als uw site dit gebruikt.
+
+1. Zoek uw token, selecteer dit en klik op **Invoegen**.
+
+   ![](assets/eight.png)
+
+1. Markeer http:// en token en druk vervolgens op Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) om de tekst te knippen.
+
+   ![](assets/nine.png)
+
+1. Markeer de tekst die u met de koppeling wilt weergeven en klik op het pictogram Koppeling invoegen/bewerken.
+
+   ![](assets/ten.png)
+
+1. Druk op Ctrl/Cmd+V om de inhoud in het vak **URL** te plakken en klik op **Invoegen**.
+
+   ![](assets/eleven.png)
+
+1. Klik op **Opslaan**.
+
+   ![](assets/twelve.png)
+
+   En je bent klaar! Uw URL wordt na het verzenden gevuld en dankzij het feit dat u http:// voor het token plaatst, wordt er een trackable link gemaakt.
+
