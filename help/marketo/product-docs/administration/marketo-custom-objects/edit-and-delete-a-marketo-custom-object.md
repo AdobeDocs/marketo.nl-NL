@@ -1,0 +1,87 @@
+---
+unique-page-id: 10093690
+description: Een aangepast Marketo-object - Marketo Docs - Productdocumentatie bewerken en verwijderen
+title: Een aangepast markeerobject bewerken en verwijderen
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
+
+---
+
+
+# Een aangepast markeerobject bewerken en verwijderen {#edit-and-delete-a-marketo-custom-object}
+
+>[!NOTE]
+>
+>Als het aangepaste object is goedgekeurd, kunt u geen koppelings- of deduplicatieveld maken, bewerken of verwijderen.
+
+## Een aangepast object bewerken {#edit-a-custom-object}
+
+Met het menu Acties voor aangepaste objecten kunt u een aangepast object bewerken of verwijderen.
+
+1. Klik **Admin**, en in het Beheer **van het** Gegevensbestand, selecteer **Marketo Douane Voorwerpen**.
+
+   ![](assets/image2016-1-18-13-3a31-3a51.png)
+
+1. Selecteer aan de rechterkant het aangepaste object dat u wilt bewerken.
+
+   ![](assets/image2016-1-18-13-3a33-3a11.png)
+
+1. Klik op het tabblad Handelingen voor **aangepaste objecten** en klik op Object **** bewerken.
+
+   ![](assets/image2015-9-23-11-3a37-3a44.png)
+
+   >[!NOTE]
+   >
+   >Met Object bewerken worden dezelfde velden weergegeven als met Object maken, behalve de API-naam, die u niet kunt bewerken.
+
+1. Breng de gewenste wijzigingen aan. Sleep de schuifregelaar om het object weer te geven op de pagina Details lead. Klik op **Opslaan**.
+
+   ![](assets/image2015-9-15-16-3a48-3a39.png)
+
+1. Vergeet niet [het bewerkte object](approve-a-custom-object.md)goed te keuren.
+
+## Een aangepast object verwijderen {#delete-a-custom-object}
+
+Het is gemakkelijk om een douanevoorwerp te schrappen, maar u moet voorzichtig zijn. Aangepaste objecten kunnen worden verbonden met andere objecten of met slimme lijsten. Marketo waarschuwt u dus voordat u op **Verwijderen** kunt klikken.
+
+>[!CAUTION]
+>
+>U kunt een aangepast object niet meer herstellen nadat u het hebt verwijderd.
+
+1. Klik **Admin**, en in het Beheer **van het** Gegevensbestand, selecteer **Marketo Douane Voorwerpen**.
+
+   ![](assets/image2016-1-18-13-3a36-3a0.png)
+
+1. Selecteer het object dat u wilt verwijderen.
+
+   ![](assets/image2015-9-23-16-3a29-3a5.png)
+
+1. Klik op **Aangepast object Handelingen** en selecteer Object **** verwijderen.
+
+   ![](assets/image2015-9-23-11-3a39-3a5.png)
+
+   >[!TIP]
+   >
+   >U kunt ook met de rechtermuisknop op het object klikken en Object **** verwijderen selecteren.
+
+1. Als het aangepaste object een conceptversie heeft en nog niet is goedgekeurd, wordt deze waarschuwing weergegeven. Klik in dat geval op **Verwijderen**.
+
+   ![](assets/image2015-9-23-16-3a31-3a2.png)
+
+1. Als het aangepaste object al is goedgekeurd, is er een groter risico als u het verwijdert. Je krijgt een sternerlijke waarschuwing. Voer **Ik begrijp** in, schakel het selectievakje **Kan ongedaan maken** niet in en klik op **Verwijderen**.
+
+   ![](assets/image2016-1-15-9-3a49-3a38.png)
+
+   >[!NOTE]
+   >
+   >Als het aangepaste object is gekoppeld aan een intermediair object, moet u eerst het intermediaire object verwijderen.
+
+>[!NOTE]
+>
+>**Verwante artikelen**
+>
+>[Een aangepast object goedkeuren](approve-a-custom-object.md)
+
