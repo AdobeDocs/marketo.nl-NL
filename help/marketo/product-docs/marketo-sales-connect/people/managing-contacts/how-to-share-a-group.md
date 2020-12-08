@@ -1,0 +1,37 @@
+---
+unique-page-id: 14352511
+description: Hoe te om een Groep te delen - Marketo Docs - de Documentatie van het Product
+title: Hoe te om een Groep te delen
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 0%
+
+---
+
+
+# Hoe te om een Groep te delen {#how-to-share-a-group}
+
+Het delen van een groep leads of contacten met uw team is vrij eenvoudig in Sales Connect.
+
+1. Ga naar het tabblad **Personen** .
+
+   ![](assets/one-1.png)
+
+1. Selecteer de groep die u wilt delen.
+
+   ![](assets/two-1.png)
+
+1. Klik op de knop** Handelingen groeperen** en selecteer Groep **** delen.
+
+   ![](assets/three-1.png)
+
+1. Selecteer Subteam u met wilt delen en een nota voor uw team toevoegen.
+
+   ![](assets/four-1.png)
+
+1. Klik op **Delen**.
+
+   ![](assets/five-1.png)
+
