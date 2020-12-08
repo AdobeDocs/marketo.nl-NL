@@ -1,0 +1,82 @@
+---
+unique-page-id: 2359793
+description: E-mails gebruiken in sociale aanbiedingen - Marketo Docs - Productdocumentatie
+title: E-mails gebruiken in sociale aanbiedingen
+translation-type: tm+mt
+source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+workflow-type: tm+mt
+source-wordcount: '240'
+ht-degree: 0%
+
+---
+
+
+# E-mails gebruiken in sociale aanbiedingen {#use-emails-in-social-promotions}
+
+Wanneer u een [verwijzingsaanbod](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of een [zweepslagen](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)maakt, kunt u e-mails opnemen die u wilt verzenden wanneer de persoon zich aanmeldt en opnieuw wanneer de persoon de beloning heeft gewonnen.
+
+>[!TIP]
+>
+>Zie Een e-mailschoen [verzenden als u een e-mailbericht wilt maken](../../../../getting-started/quick-wins/send-an-email.md).
+
+Gebruik in de e-mails de volgende tokens:
+
+* **E-mail** aanmelden: Gebruik deze optie **`{{social.Share Url}}`** om elke deelnemer een persoonlijke gedeelde koppeling te sturen.
+
+* **E-mailadres** voor afhandeling: Gebruik deze optie **`{{social.Promo Code}}`** om aan elke winnaar een [promotiecode](use-promo-codes-for-offer-fulfillment.md)te sturen.
+
+>[!NOTE]
+>
+>**Vereisten**
+>
+>Voordat u een e-mail aan een sociale app kunt toevoegen, moet deze *operationeel* en *goedgekeurd* zijn. Zie Instellingen [bewerken voor een e-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+
+1. Ga naar **marketingactiviteiten**.
+
+   ![](assets/ma.png)
+
+1. Selecteer de app en klik op Concept **** bewerken.
+
+   ![](assets/image2014-9-19-16-3a12-3a33.png)
+
+1. Ga in de sociale app-editor naar **App Settings > Offer Details** (of Details **van items** wissen).
+
+   ![](assets/image2014-9-19-16-3a12-3a41.png)
+
+1. Voeg de aanmeldings-e-mail toe.
+
+   ![](assets/image2014-9-19-16-3a12-3a49.png)
+
+   >[!NOTE]
+   >
+   >Het bevestigingsbericht wordt automatisch verzonden wanneer een persoon zich aanmeldt.
+
+1. Voeg de e-mail voor het voldoen aan de voorwaarde toe.
+
+   ![](assets/image2014-9-19-16-3a15-3a26.png)
+
+1. Kies in een verwijzingsaanbod of het e-mailbericht voor het voldoen van de voorwaarden automatisch of handmatig wordt verzonden.
+
+   ![](assets/image2014-9-19-16-3a15-3a36.png)
+
+>[!NOTE]
+>
+>Bij een controle wordt het e-mailbericht over de uitvoering altijd automatisch verzonden wanneer u de winnaar [](../../../../product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)selecteert.
+
+>[!NOTE]
+>
+>**Definitie**
+>
+>* **auto on target**: Het e-mailbericht voor afhandeling wordt automatisch verzonden wanneer elke deelnemer het doel bereikt.
+>* **handmatig verzenden**: Zodra de mensen beginnen het doel te bereiken, terugkeer naar uw verwijzingsaanbod om de vervulling e-mail [manueel te](../../../../product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)verzenden.
+
+>
+
+
+
+>[!NOTE]
+>
+>**Verwante artikelen**
+>
+>Vervolgens kunt u de gedeelde URL [](choose-the-share-url-for-a-social-app.md) kiezen of in uw verwijzingsaanbieding de promotiecodes [die u wilt verzenden](use-promo-codes-for-offer-fulfillment.md) uploaden.
+
