@@ -1,0 +1,134 @@
+---
+unique-page-id: 4719402
+description: Een nieuwe widget webcampagne maken - Marketo Docs - Productdocumentatie
+title: Nieuwe widgetwebcampagne maken
+translation-type: tm+mt
+source-git-commit: 6f49037bf698b1646004720815897f992911f716
+workflow-type: tm+mt
+source-wordcount: '644'
+ht-degree: 0%
+
+---
+
+
+# Nieuwe widgetwebcampagne maken {#create-a-new-widget-web-campaign}
+
+Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek segment en kan een [dialoogvenster](create-a-new-dialog-web-campaign.md) zijn op uw website, een [in-zone vervanging](create-a-new-in-zone-web-campaign.md), een widgetfunctie of een e-mailwaarschuwing. De widgetwebcampagne is een tekst of banner die aan de verticale zijde van uw webpagina wordt weergegeven en die u kunt uitbreiden en inkrimpen, terwijl u tijdens het bezoek de webpagina blijft zoeken.
+
+## Een widgetwebcampagne maken {#create-a-widget-web-campaign}
+
+1. Ga naar **webcampagnes**.
+
+   ![](assets/image2016-8-18-15-3a57-3a46.png)
+
+1. Selecteer Nieuwe webcampagne **maken**.
+
+   ![](assets/create-new-web-campaign-hand-1.png)
+
+1. Selecteer het type **Widget** -campagne.
+
+   ![](assets/3.png)
+
+1. Gebruik de meerdere opties om de widget aan te passen.
+
+   ![](assets/4.png)
+
+1. Klik op **Voorvertoning **om te zien hoe de webcampagne op uw site reageert.
+
+![](assets/preview.png)
+
+<table> 
+ <thead> 
+  <tr> 
+   <th colspan="1" rowspan="1">Naam</th> 
+   <th colspan="1" rowspan="1">Beschrijving</th> 
+  </tr> 
+ </thead> 
+ <tbody> 
+  <tr> 
+   <td colspan="1"><strong>Sjablonen</strong></td> 
+   <td colspan="1">Maak een keuze uit een van de verschillende vooraf gedefinieerde sjablonen.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>Weergeven ingeschakeld</strong></td> 
+   <td colspan="1">Hiermee kunt u <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">aanpassen wanneer en hoe</a> uw webcampagne wordt weergegeven.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>In/uit animeren</strong></td> 
+   <td colspan="1">Instellen bij invoeren en/of afsluiten van dialoogvenster. Selecteer een effect (droppen, blind, dia, vervagen, geen effect), duur (in seconden) en richting (omhoog, omlaag, links, rechts).</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>Positie</strong></td> 
+   <td colspan="1">Selecteer een van de vier opties voor de positie van de widget op de pagina: Rechts, Links, Boven, Onder. Positie % is het percentage van de positionering waar de widget op de browserpagina wordt weergegeven (zo zal "50% onder" ertoe leiden dat de widget halverwege de onderkant van de pagina wordt weergegeven, "10% links" zorgt ervoor dat de widget linksboven op de pagina wordt weergegeven, enz.).<br></td> 
+  </tr> 
+  <tr> 
+   <td colspan="1" rowspan="1"><strong>Widget-kleur</strong></td> 
+   <td colspan="1" rowspan="1"><p>Selecteer de widgetkleur in een kleurengrafiek of voer deze in als RGB-kleurcode. U kunt ook het transparantieniveau van de widgetachtergrond selecteren door de balk aan de onderkant in een van beide richtingen te verplaatsen.</p></td> 
+  </tr> 
+  <tr> 
+   <td colspan="1" rowspan="1"><p><strong>Widget-knop</strong><br></p></td> 
+   <td colspan="1" rowspan="1">Pas de widgetknop zelf aan.<br>Pijl: Hiermee kunt u kiezen uit meerdere verschillende pictogrammen in het rechterkeuzemenu. De kleur van de linkervervolgkeuzelijst wordt bepaald.<br>Aangepast: Voeg de URL van een gehoste afbeelding in. Geaccepteerde bestandstypen: .JPEG, .GIF (inclusief geanimeerd), .PNG, .APNG, .SVG, .BMP.<br>Tekst: Widget kan tekst zijn: pas de kleur, grootte en lettertype aan.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>Vast</strong></td> 
+   <td colspan="1">Als u deze optie selecteert, wordt de widget tijdens de gehele sessie op alle webpagina's weergegeven.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>Widget op cameraweergave minimaliseren</strong></td> 
+   <td colspan="1">Hiermee wordt een widget ingevoegd, maar blijft deze geminimaliseerd. De gebruiker moet er dan op klikken om de widget te maximaliseren.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>Standaardwaarde herstellen </strong></td> 
+   <td colspan="1">Hiermee herstelt u de oorspronkelijke standaardinstelling voor de widget door de widgetkleur in te stellen op de standaardoptie voor transparante grijstinten.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>Voorvertonen op site </strong></td> 
+   <td colspan="1">Voorvertoning van campagnes weergeven voordat deze worden gestart.<br> 
+    <ul> 
+     <li>URL - Voer een voorbeeld-URL in waar de campagne wordt uitgevoerd om een voorbeeld te zien van hoe de campagne er live uitziet.</li> 
+     <li>Voorproef - klik <strong>Voorproef </strong>om een nieuw venster van voorbeeld URL te openen om te zien hoe de campagne reageert (voeg de uitbreiding <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">van</a> Chrome voor de beste voorproef van de Campagne van het Web toe.) </li> 
+     <li>Delen - Gebruik de knop Delen om een e-mail te sturen naar een collega met een koppeling om de proxycampagne te bekijken.</li> 
+    </ul></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+>[!NOTE]
+>
+>**Wilt u dat A/B uw webcampagnes test?** Een of meer webcampagnes kunnen [A/B worden getest op optimale resultaten](ab-test-your-web-campaign.md). Met de functie Automatisch afstemmen herkent het platform automatisch de beter presterende campagnes, gaat het verder met de hoogste conversiecampagnes en pauzeert het de andere campagnes.
+
+## Een webcampagne bewerken {#edit-a-web-campaign}
+
+Klik op de pagina Webcampagnes op **Bewerken** in de campagne.
+
+![](assets/image2016-11-4-13-3a2-3a20.png)
+
+>[!NOTE]
+>
+>Met de [filterfunctie](filter-web-campaigns.md)kunt u gemakkelijker de gewenste campagne vinden.
+
+## Een webcampagne klonen {#clone-a-web-campaign}
+
+Zie Een webcampagne [klonen](clone-a-web-campaign.md).
+
+## Een webcampagne voorvertonen {#preview-a-web-campaign}
+
+Klik op de pagina Webcampagnes op **Voorvertoning** op de webcampagne die u wilt voorvertonen
+
+![](assets/widget-campaign-preview-hand.png)
+
+## Een webcampagne verwijderen {#delete-a-web-campaign}
+
+1. Klik op de pagina Webcampagnes op **Verwijderen **op de webcampagne die u wilt verwijderen.
+
+   ![](assets/widget-campaign-delete-hand.png)
+
+1. Er verschijnt een bevestigingsbericht om te bevestigen of u de webcampagne wilt verwijderen.
+
+>[!NOTE]
+>
+>**Verwante artikelen**
+>
+>* [Nieuwe webcampagne maken in zone](create-a-new-in-zone-web-campaign.md)
+>* [Nieuwe webcampagne voor dialoog maken](create-a-new-dialog-web-campaign.md)
+
