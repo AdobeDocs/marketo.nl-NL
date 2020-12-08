@@ -1,0 +1,43 @@
+---
+unique-page-id: 10100272
+description: Een aangepaste activiteit publiceren - Marketo Docs - Productdocumentatie
+title: Een aangepaste activiteit publiceren
+translation-type: tm+mt
+source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 0%
+
+---
+
+
+# Een aangepaste activiteit publiceren {#publish-a-custom-activity}
+
+Je hebt je aangepaste activiteit precies zoals je die wilt. Nu is het tijd om het te publiceren!
+
+1. Klik op **Beheerder**.
+
+   ![](assets/one-2.png)
+
+1. Klik in **Databasebeheer** op **Aangepaste activiteiten** markeren.
+
+   ![](assets/two-2.png)
+
+1. Selecteer de aangepaste activiteit die u wilt publiceren.
+
+   ![](assets/three-2.png)
+
+1. Klik op de vervolgkeuzelijst Acties voor **aangepaste activiteiten** en selecteer **Publicatieactiviteit**.
+
+   ![](assets/four-2.png)
+
+   De status van uw aangepaste activiteit wordt dan weergegeven vanuit Concept...
+
+   ![](assets/five-2.png)
+
+   ...naar gepubliceerd.
+
+   ![](assets/six-2.png)
+
+   Echt waar!
+
