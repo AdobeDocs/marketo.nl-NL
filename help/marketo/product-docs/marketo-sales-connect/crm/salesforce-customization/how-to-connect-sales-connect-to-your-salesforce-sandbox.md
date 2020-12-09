@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Hoe te om Verkoop aan Uw zandbak van Salesforce aan te sluiten - Marketo DOS - de Documentatie van het Product
 title: Verkoopverbinding maken met uw Salesforce-sandbox
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Verkoopverbinding maken met uw Salesforce-sandbox {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Uw Sales Connect-account kan nog geen verbinding maken met Salesforce wanneer u een verbinding tot stand brengt met de sandbox. Als dit het geval is, [zorg ervoor u losmaakt](http://docs.marketo.com/x/FoDq) alvorens de stappen in dit artikel te volgen.
 
