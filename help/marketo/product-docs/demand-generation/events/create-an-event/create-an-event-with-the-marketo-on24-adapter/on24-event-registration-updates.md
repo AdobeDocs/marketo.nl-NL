@@ -3,9 +3,9 @@ unique-page-id: 10096683
 description: ON24 Updates voor gebeurtenisregistratie - Marketo Docs - Productdocumentatie
 title: ON24 Updates voor gebeurtenisregistratie
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Als een persoon uiteindelijk niet wordt geregistreerd maar eerder aan de Fout va
 
 Marketo haalt automatisch de aanwezigheidsinformatie elke avond om 11.00 uur in de Stille Oceaan. Klik op **Vernieuwen van webinar-provider** onder **Gebeurtenishandelingen** om aanwezigheidsgegevens handmatig bij te werken.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Inzicht in Marketo ON24-adaptergebeurtenissen](understanding-marketo-on24-adapter-events.md)
 
