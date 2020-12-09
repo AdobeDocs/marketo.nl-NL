@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Programma- en kanaalgegevens verkennen met Program Analyzer - Marketo Docs - Productdocumentatie
 title: Programma- en kanaalgegevens verkennen met de Program Analyzer
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 U kunt gedetailleerde programma en kanaalstatistieken in de Analysator van het Programma zien. U kunt de bestanden ook openen in de Inkoopcyclusverkenner.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een programmaanalyse maken](create-a-program-analyzer.md)
 
