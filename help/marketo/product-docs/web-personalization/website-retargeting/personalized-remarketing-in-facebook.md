@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Persoonlijke opmerkingen op Facebook - Marketo Docs - Productdocumentatie
 title: Persoonlijke opmerkingen op Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruikers via RTP-gegevens en de kracht van Facebook-marketing.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* Voltooi het [Opnieuw richten met de opstelling van Gegevens](retargeting-with-web-personalization-data.md) van de Personalisatie van het Web
 >* Bekijk de [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook-documentatie over Aangepast [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)publiek en Opmerkingen
