@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: Vereiste velden voor het synchroniseren van markeertekens met dynamiek - Marketo Docs - Productdocumentatie
 title: Vereiste velden voor het synchroniseren van markeertekens met dynamiek
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Hieronder wordt beschreven hoe u synchronisatievelden kunt verifiëren en toevoe
 >
 >Wacht minstens 10 minuten voordat een synchronisatie wordt uitgevoerd voordat u controleert of u het probleem hebt opgelost.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Sterren en vlammen instellen voor lead/contact-records](http://docs.marketo.com/x/BICMAg)
 
