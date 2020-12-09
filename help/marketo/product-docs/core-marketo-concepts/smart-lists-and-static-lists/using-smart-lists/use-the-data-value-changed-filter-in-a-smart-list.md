@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: Gebruik het Gewijzigde Filter van de Waarde van Gegevens in een Slimme Lijst - Marketo Docs - de Documentatie van het Product
 title: Het filter Gewijzigde gegevenswaarde gebruiken in een slimme lijst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 De waarden veranderen constant en worden bijgewerkt in uw gegevensbestand Marketo. Soms wilt u in plaats van naar een bepaalde waarde te zoeken, zoeken naar mensen met een andere waarde. Zo gaat het.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
