@@ -3,9 +3,9 @@ unique-page-id: 557322
 description: Voer een enkele stroomstap uit vanuit een slimme lijst - Marketo Docs - Productdocumentatie
 title: Eén stroomstap uitvoeren vanuit een slimme lijst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Als u een stap wilt uitvoeren die slechts eenmalig is, kunt u één stap voor de stroom in een slimme lijst gebruiken in plaats van een hele slimme campagne te maken.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
