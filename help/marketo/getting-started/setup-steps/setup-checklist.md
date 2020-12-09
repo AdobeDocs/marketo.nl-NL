@@ -3,9 +3,9 @@ unique-page-id: 2949471
 description: Checklist instellen - Marketo Docs - Productdocumentatie
 title: Controlelijst instellen
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst
 
 1. Werken met een webontwikkelaar om trackingcode aan uw website toe te voegen
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Stappen instellen](../../getting-started/setup-steps.md)
 
