@@ -3,9 +3,9 @@ unique-page-id: 10095429
 description: Problemen met validatie synchroniseren van dynamiek verhelpen - Marketo Docs - Productdocumentatie
 title: Problemen met validatie synchroniseren van dynamiek verhelpen
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -111,9 +111,7 @@ Als u hebt ![- hier,](assets/delete.png) zorg ervoor de gebruiker van de Synchro
 
 Als u hebt ![](assets/delete.png) - hier, ben zeker om de juiste synchronisatiegebruiker op het gebied van de Gebruiker van het Marketo in de Standaardopstellingsstap van Config van het Marketo in de Dynamiek van Microsoft toe te wijzen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Synchronisatie van Microsoft-dynamiek valideren](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
