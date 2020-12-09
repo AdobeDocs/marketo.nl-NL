@@ -3,9 +3,9 @@ unique-page-id: 2359494
 description: Gebruik "Onderwerpregel" A/B Testen - Marketo Docs - Productdocumentatie
 title: Testen van "onderwerpregel" A/B gebruiken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 U kunt uw e-mailberichten eenvoudig testen. Een van de meest voorkomende tests is de **onderwerpregel** .
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een A/B-test toevoegen](add-an-a-b-test.md)
 
