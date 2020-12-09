@@ -3,9 +3,9 @@ unique-page-id: 7504383
 description: Het toevoegen van Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst - Marketo Docs - de Documentatie van het Product
 title: Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -48,9 +48,7 @@ Pas de rapporten van de opbrengstontdekkingsreiziger door afmeting en metrische 
 
    ![](assets/image2015-3-24-15-3a55-3a7.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een veld verwijderen in een Indelingsverkenner-rapport](deleting-a-field-in-a-revenue-explorer-report.md)
 
