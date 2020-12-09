@@ -3,9 +3,9 @@ unique-page-id: 2359862
 description: Geüploade afbeeldingen en bestanden doorzoeken - Marketo Docs - Productdocumentatie
 title: Geüploade afbeeldingen en bestanden zoeken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ In Marketo is het zoeken naar afbeeldingen en bestanden een bries.
 
 Doe je voeten op - je bent klaar!
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een geüploade afbeelding of bestand vervangen](replace-an-uploaded-image-or-file.md)
 >* [Uw afbeeldingen en bestanden ordenen met mappen](organize-your-images-and-files-using-folders.md)
