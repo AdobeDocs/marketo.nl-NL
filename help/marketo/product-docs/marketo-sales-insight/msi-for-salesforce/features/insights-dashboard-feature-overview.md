@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Overzicht van dashboardfuncties voor inzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van dashboardfuncties voor inzichten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '1466'
+source-wordcount: '1465'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Meer informatie over de functies die beschikbaar zijn op het dashboard Verkoopinzicht.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >U moet beschikken over het nieuwste MSI SFDC-pakket en - [configuratie](http://docs.marketo.com/x/F4GMAg).
 
