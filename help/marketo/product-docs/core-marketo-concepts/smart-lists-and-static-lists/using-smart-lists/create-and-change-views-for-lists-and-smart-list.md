@@ -3,9 +3,9 @@ unique-page-id: 557337
 description: Weergaven voor lijsten en slimme lijsten maken en wijzigen - Marketo Docs - Productdocumentatie
 title: Weergaven voor lijsten en slimme lijsten maken en wijzigen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,7 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 
 Alleen u kunt de aangepaste weergaven zien die u maakt in de vervolgkeuzelijst Weergave. Vertel uw vrienden dus dat ze hun eigen weergaven moeten maken!
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Ingebouwde/systeemslimme lijsten gebruiken](use-built-in-system-smart-lists.md)
 >* [Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
