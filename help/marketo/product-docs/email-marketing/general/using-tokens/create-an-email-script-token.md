@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: E-mailscripttoken maken - Marketo Docs - Productdocumentatie
 title: Een e-mailscripttoken maken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ Voor gevorderde ontwikkelaars kunt u de manuscripten [van de](http://velocity.ap
 
 Nu kunt u deze token gebruiken in uw e-mails. Het script wordt uitgevoerd telkens wanneer een e-mail wordt verzonden.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een e-mailscripttoken toevoegen aan uw e-mail](add-an-email-script-token-to-your-email.md)
 
