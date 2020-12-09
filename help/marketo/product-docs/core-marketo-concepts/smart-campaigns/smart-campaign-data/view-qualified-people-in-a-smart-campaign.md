@@ -3,9 +3,9 @@ unique-page-id: 1146966
 description: Gekwalificeerde personen weergeven in een slimme campagne - Marketo Docs - Productdocumentatie
 title: Gekwalificeerde personen weergeven in een slimme campagne
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Bekijk mensen die in aanmerking komen om door de stroom te gaan wanneer u een sl
 
 Zoet! U kunt deze lijst gebruiken om te controleren welke mensen door de stroom zouden kunnen gaan alvorens u een slimme campagne in werking stelt.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Leden van slimme campagnes weergeven](view-smart-campaign-members.md)
 >* [Geblokkeerde personen weergeven in een slimme campagne](view-blocked-people-in-a-smart-campaign.md)
