@@ -3,9 +3,9 @@ unique-page-id: 2360352
 description: Uw SOAP API-instellingen configureren - Marketo Docs - Productdocumentatie
 title: Uw SOAP API-instellingen configureren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ ht-degree: 0%
 >
 >Uw eindpunt van de ZEEP en Gebruiker - identiteitskaart zal uniek zijn; verzend het screenshot in dit artikel niet naar uw ontwikkelaar.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Documentatie SOAP API](http://developers.marketo.com/documentation/soap/)
 
