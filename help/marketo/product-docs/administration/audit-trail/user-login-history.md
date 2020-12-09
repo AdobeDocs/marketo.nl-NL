@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: Aanmeldingsgeschiedenis gebruiker - Marketo Docs - Productdocumentatie
 title: Aanmeldingsgeschiedenis gebruiker
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 De historie van de gebruikersaanmelding helpt verantwoordingsplicht en beveiliging te behouden door precies aan te geven wie zich heeft aangemeld bij uw abonnement, inclusief mislukte aanmeldingspogingen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >U moet een rol hebben met de Toegangsvergunning die van de Geschiedenis van de Login van de Toegang wordt toegelaten om de Geschiedenis van de Login van de Gebruiker te bekijken.
 
