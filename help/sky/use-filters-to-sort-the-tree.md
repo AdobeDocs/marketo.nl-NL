@@ -2,9 +2,9 @@
 title: use-filters-to-sort-the-tree
 description: Filters gebruiken om de structuur te sorteren
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Klik op het pictogram Filters boven aan de structuur om het filterdeelvenster te
 
 Met deze functie kunt u zoeken naar elementen die binnen een bepaald datumbereik zijn gemaakt of gewijzigd. bijv. vorige week, in de afgelopen drie maanden, enz.
 
-Standaard laadt Marketo alle inhoud uit de afgelopen zes maanden. Als u dit wilt wijzigen, selecteert u een bereik in het keuzemenu Datumbereik [!UICONTROL ****] kiezen. Deze instellingen blijven behouden en worden ook toegepast wanneer u zich opnieuw aanmeldt bij Marketo.
+Standaard laadt Marketo alle inhoud uit de afgelopen zes maanden. Selecteer een bereik in de **[!UICONTROL Choose Date Range]** vervolgkeuzelijst om dit te wijzigen. Deze instellingen blijven behouden en worden ook toegepast wanneer u zich opnieuw aanmeldt bij Marketo.
 
 ![Afbeelding twee](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
