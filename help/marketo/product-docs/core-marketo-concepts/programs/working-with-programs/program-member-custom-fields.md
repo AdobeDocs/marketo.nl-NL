@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Aangepaste velden voor programmalid - Marketo Docs - Productdocumentatie
 title: Aangepaste velden voor programmalid
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -71,9 +71,7 @@ U kunt deze programmaspecifieke gegevens in slimme lijsten gebruiken via [](http
 * Importeren en exporteren via [](http://docs.marketo.com/x/egAk)standaard- [](http://developers.marketo.com/)API wordt ondersteund.
 * Wanneer u twee personen samenvoegt, worden de aangepaste veldgegevens van het Lid van het Programma van de winnaar gebruikt. Maar als de winnaar er geen heeft, wordt de waarde van de verliezer gebruikt.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Een aangepast veld maken in Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
