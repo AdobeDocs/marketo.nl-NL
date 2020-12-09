@@ -3,9 +3,9 @@ unique-page-id: 1146901
 description: Geavanceerde logica voor slimme-lijstregels gebruiken - Marketo Docs - Productdocumentatie
 title: Advanced Smart List Rule Logic gebruiken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 U kunt precies de mensen vinden u door slimme lijstregellogica op veelvoudige filters binnen een slimme lijst toe te passen nodig hebt. Zo gaat het.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Filters zoeken en toevoegen aan een slimme lijst](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 >* [Slimme lijstfilters definiëren](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
