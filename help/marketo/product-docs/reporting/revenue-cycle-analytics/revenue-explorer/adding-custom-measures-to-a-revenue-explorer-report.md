@@ -3,9 +3,9 @@ unique-page-id: 10097747
 description: Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten - Marketo Docs - de Documentatie van het Product
 title: Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Soms wilt u een aangepaste maatregel in een rapport. Het is eenvoudig om je eige
 
 In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte grenzen, die metriek reeds in het rapport neemt en basiswiskunde gebruikt om nieuwe metrisch tot stand te brengen. U kunt ook andere soorten metingen maken.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >U hebt minstens één metrisch in uw rapport nodig, maar het moet niet één van de maatregelen zijn u gebruikt om uw douanemaatregel te bepalen.
 
