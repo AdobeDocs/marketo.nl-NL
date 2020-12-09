@@ -3,9 +3,9 @@ unique-page-id: 4719300
 description: Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen - Marketo Docs - Productdocumentatie
 title: Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -68,9 +68,7 @@ Marketo biedt fijnkorrelige controle over de synchronisatie van aangepaste objec
 
 Wow! Nu hebben uw slimme lijsten en slimme campagnes nog meer macht.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Aangepaste objectsynchronisatie inschakelen/uitschakelen](enable-disable-custom-object-sync.md)
 
