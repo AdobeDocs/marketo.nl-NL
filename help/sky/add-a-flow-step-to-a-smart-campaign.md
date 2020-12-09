@@ -2,9 +2,9 @@
 title: add-a-flow-step-to-a-smart-campagne
 description: Een stroomstap toevoegen aan een slimme campagne
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ De stappen van de stroom vertellen Marketo wat u met een groep mensen wilt gebeu
 
 ## Een stroomstap toevoegen
 
-1. Selecteer [!UICONTROL Marketing Activities]de slimme campagne in en klik op [!UICONTROL **Stroom**].
+1. Selecteer [!UICONTROL Marketing Activities]in uw slimme campagne en klik op **[!UICONTROL Flow]**.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
