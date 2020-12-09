@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Ontvangsten toewijzen voor digitale reclamecampagnes - Marketo Docs - Productdocumentatie
 title: Ontvangsten toewijzen voor digitale reclamecampagnes instellen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Nadat u het eerste advertentieprogramma hebt ingesteld in Marketo, kunt u het kl
 
 Met afzonderlijke programma&#39;s, kunt u dan het aantal omzettingen van elkaar volgen en uw programma&#39;s in de Analysator van het Programma, de Analysator van de Invloed van de Mogelijkheid, en andere eigenschappen van de Analyse van de Marketo zien.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* Een kanaaltag instellen met statuswaarden en succes van programma (bijvoorbeeld Digital Advertising of Social Paid en PPC)
 >* Een formulier maken of bewerken om een queryreeks door te geven aan de persoon
