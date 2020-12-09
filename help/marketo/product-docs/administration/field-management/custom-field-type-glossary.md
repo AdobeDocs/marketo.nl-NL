@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: Aangepaste woordenlijst veldtype - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst Type aangepast veld
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waaruit u kunt kiezen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een aangepast veld maken in Marketo](create-a-custom-field-in-marketo.md)
 
@@ -97,7 +95,7 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 **Voorbeeldnaam:** Aantal Werknemers - sla een aantalwaarde op die decimalen niet vereist
 
-**Voorbeelden:** 600
+**Voorbeelden:** 800
 
 **Operatoren**: is, is niet, tussen, groter dan, minstens, is leeg, is niet leeg
 
