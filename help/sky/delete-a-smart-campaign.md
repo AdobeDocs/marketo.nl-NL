@@ -2,9 +2,9 @@
 title: delete-a-smart-campagne
 description: Een slimme campagne verwijderen
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Als je een oude slimme campagne hebt die je niet meer nodig hebt, kun je deze ve
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-1.png)
 
-1. Selecteer onder de [!UICONTROL Campaign Actions] vervolgkeuzelijst de optie [!UICONTROL **Verwijderen**].
+1. Onder de [!UICONTROL Campaign Actions] drop-down uitgezochte **[!UICONTROL Delete]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-2.png)
 
@@ -32,6 +32,6 @@ Als je een oude slimme campagne hebt die je niet meer nodig hebt, kun je deze ve
    >
    >Als u de verwerking van een actieve slimme campagne wilt annuleren zonder deze te verwijderen, leert u hoe u een [slimme campagne](https://docs.marketo.com/display/DOCS/Abort+a+Smart+Campaign)kunt afbreken.
 
-1. Klik op [!UICONTROL **Bevestigen**].
+1. Klik **[!UICONTROL Confirm]**.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/delete-a-smart-campaign/delete-a-smart-campaign-3.png)
