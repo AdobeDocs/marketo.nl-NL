@@ -3,9 +3,9 @@ unique-page-id: 7514126
 description: Attributievoorbeeld 1 - Marketo Docs - Productdocumentatie
 title: Attributievoorbeeld 1
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -48,9 +48,7 @@ Lees het volgende scenario en probeer de aantallen te bepalen die in het net zou
 
 Probeer alle voorbeelden en je bent een attribuut pro!
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Attributievoorbeeld 2](attribution-example-2.md)
 >* [Attributievoorbeeld 3](attribution-example-3.md)
