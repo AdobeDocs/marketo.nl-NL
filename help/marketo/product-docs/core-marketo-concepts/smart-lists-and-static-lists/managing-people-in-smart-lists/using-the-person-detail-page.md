@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Gebruikend de Persoonsdetailpagina - Marketo Docs - de Documentatie van het Product
 title: De detailpagina voor personen gebruiken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -115,9 +115,7 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 >
 Meer informatie over [door het systeem beheerde velden](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een aangepast tabblad maken voor de detailpagina voor personen](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
 
