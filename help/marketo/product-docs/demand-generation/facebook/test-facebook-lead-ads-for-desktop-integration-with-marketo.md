@@ -3,9 +3,9 @@ unique-page-id: 11370892
 description: Test Facebook Lead Ads for Desktop Integration met Marketo - Marketo Docs - Productdocumentatie
 title: Advertenties voor Facebook-leads testen voor Desktopintegratie met Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Nadat je je advertentie hebt gemaakt, moet je deze testen. Zo doe je het op je bureaublad.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >U moet de integratie [van Facebook-advertenties](set-up-facebook-lead-ads.md)instellen.
 
