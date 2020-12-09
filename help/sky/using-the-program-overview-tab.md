@@ -2,9 +2,9 @@
 title: using-the-program-overview-tab
 description: Het tabblad Programmaoverzicht gebruiken
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Het [!UICONTROL Program Overview] tabblad bevat drie secties: [!UICONTROL **Details**], [!UICONTROL **Plan**], en [!UICONTROL **Rapporten**]. Hier is een korte blik op elk.
+Het [!UICONTROL Program Overview] tabblad bevat drie secties: **[!UICONTROL Details]**, **[!UICONTROL Schedule]** en **[!UICONTROL Reports]**. Hier is een korte blik op elk.
 
 ## Details
 
@@ -22,7 +22,7 @@ Op de pagina met de belangrijkste details wordt algemene informatie over uw prog
 
 ![Afbeelding één](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-Onder aan de pagina staan twee secties: [!UICONTROL **Start programma**] en [!UICONTROL **gebruikt door**]. [!UICONTROL **De Stats**] van het programma toont u zeer belangrijke metriek over programmaprestaties, en [!UICONTROL **Gebruikt door**] is een gemakkelijke manier om te zien waar uw programma in Marketo wordt gebruikt.
+Onder aan de pagina staan twee secties: **[!UICONTROL Program Stats]** en **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** toont u zeer belangrijke metriek over programmaprestaties, en **[!UICONTROL Used By]** is een gemakkelijke manier om te zien waar uw programma in Marketo wordt gebruikt.
 
 ![Afbeelding twee](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
