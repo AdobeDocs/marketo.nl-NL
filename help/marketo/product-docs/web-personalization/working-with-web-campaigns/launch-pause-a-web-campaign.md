@@ -3,9 +3,9 @@ unique-page-id: 4719406
 description: Een webcampagne starten/pauzeren - Marketo Docs - Productdocumentatie
 title: Een webcampagne starten/pauzeren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ U kunt een Webcampagne op twee manieren van de pagina van de Campagnes van het W
 
    ![](assets/image2014-11-26-17-3a32-3a48.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Nieuwe webcampagne voor dialoog maken](create-a-new-dialog-web-campaign.md)
 >* [Nieuwe webcampagne maken in zone](create-a-new-in-zone-web-campaign.md)
