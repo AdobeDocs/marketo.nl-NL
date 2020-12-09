@@ -3,9 +3,9 @@ unique-page-id: 10098134
 description: Een programma toevoegen aan een betrokkenheidsprogramma Stream - Marketo Docs - Productdocumentatie
 title: Een programma toevoegen aan een betrokkenheidsprogramma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Wijzigingen melden met de e-maillocatie. Zo, bijvoorbeeld, als e-mail in de Stud
 >
 >Als je iets opnieuw wilt verzenden, is het het veiligst om een nieuw programma en een slimme campagne te maken.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Inhoud toevoegen aan een stream](add-content-to-a-stream.md)
 >* [Programma&#39;s begrijpen](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
