@@ -3,9 +3,9 @@ unique-page-id: 2359826
 description: Een URL-pad omleiden - Marketo Docs - Productdocumentatie
 title: Een URL-pad omleiden
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Met markeertekens kunt u een URL-pad gemakkelijk omleiden naar elke gewenste pag
 
 Gefeliciteerd!  U hebt het URL-pad omgeleid.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een bestemmingspagina van Marketo omleiden naar een andere pagina](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
 
