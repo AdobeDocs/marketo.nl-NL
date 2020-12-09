@@ -3,9 +3,9 @@ unique-page-id: 4719404
 description: AB Test Uw Campagne van het Web - Marketo Docs - de Documentatie van het Product
 title: AB Test Uw Campagne van het Web
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -77,9 +77,7 @@ Als u uw gepersonaliseerde campagnes wilt testen door A/B, kunt u twee of meer c
 
 
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een dialoogcampagne maken](create-a-new-dialog-web-campaign.md)
 >* [Een RTP maken in een zonecampagne](create-a-new-in-zone-web-campaign.md)
