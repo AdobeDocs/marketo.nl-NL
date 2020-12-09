@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: Stap 1 van 3 - voeg de Gebieden van de Marketo aan Salesforce (Beroeps) toe - Marketo Docs - de Documentatie van het Product
 title: Stap 1 van 3 - voeg de Gebieden van de Marketo aan Salesforce (Beroeps) toe
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Uw Salesforce-instantie moet toegang hebben tot de Salesforce API&#39;s om gegevens te synchroniseren tussen Marketo en Salesforce.
 
