@@ -3,9 +3,9 @@ unique-page-id: 557318
 description: Een lijst of slimme lijst vernieuwen - Marketo Docs - Productdocumentatie
 title: Lijst of slimme lijst vernieuwen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Als u een slimme lijst hebt uitgevoerd en een paar minuten zijn verstreken, kunn
 >
 >Wanneer u een slimme lijst uitvoert en er later op terugkomt, ziet u mogelijk het woord &quot;Over&quot; vóór het aantal personen in de rechterbenedenhoek. Dit wijst erop dat het aantal ongeveer is - klik de telling zelf om het te verfrissen en een bijgewerkte, nauwkeurige telling te verkrijgen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Personen vanuit een lijst of slimme lijst exporteren naar Excel](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/export-people-to-excel-from-a-list-or-smart-list.md)
 
