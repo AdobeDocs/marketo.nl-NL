@@ -3,9 +3,9 @@ unique-page-id: 2953364
 description: Focus programma begrijpen/inschakelen - Marketo Docs - Productdocumentatie
 title: Programmafocus begrijpen/inschakelen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ De marketingkalender geeft je een vogelperspectief van dingen, maar biedt ook wa
 
 Geweldig! Leer nu om met ingangen te communiceren.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Items rechtstreeks maken in de marketingkalender](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md)
 >* [Items rechtstreeks in de marketingkalender bewerken](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
