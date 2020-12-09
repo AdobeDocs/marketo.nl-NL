@@ -3,9 +3,9 @@ unique-page-id: 9437903
 description: Een aangepaste filter voor het synchroniseren van dynamiek maken - Marketo Docs - Productdocumentatie
 title: Een filter voor aangepaste dynamicasynchronisatie maken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Marketo zoekt dit veld tijdens de automatische achtergrondsynchronisatie en bepa
 >
 >De enige manier om Marketo te vertellen een verslag over te slaan is de gebiedswaarde uitdrukkelijk te plaatsen om **nr** te zijn. Marketo synchroniseert nog steeds records, zelfs als de veldwaarden leeg zijn.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Installeer de nieuwste versie van de plug-in Marketo (3.0.0.1 of hoger). Ga naar Marketo > Admin > Microsoft Dynamics > Download Marketo Solution.
 
