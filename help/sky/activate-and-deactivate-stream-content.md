@@ -2,9 +2,9 @@
 title: activate-and-deactivate-stream-content
 description: Stream-inhoud activeren en deactiveren
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Stroominhoud is standaard uitgeschakeld. Activeer inhoud om deze tijdens de betr
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-1.png)
 
-1. Klik op het tabblad [!UICONTROL **Streams**] .
+1. Klik op het **[!UICONTROL Streams]** tabblad.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-2.png)
 
@@ -28,7 +28,7 @@ Stroominhoud is standaard uitgeschakeld. Activeer inhoud om deze tijdens de betr
 
    ![Afbeelding drie](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-3.png)
 
-1. Selecteer [!UICONTROL **Activeren**].
+1. Selecteer **[!UICONTROL Activate]**.
 
    ![Afbeelding vier](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-4.png)
 
@@ -38,7 +38,7 @@ Stroominhoud is standaard uitgeschakeld. Activeer inhoud om deze tijdens de betr
 
 >[!TIP]
 >
->U kunt ook alle inhoud in een stream activeren door boven op het tandwielpictogram te klikken en Alles [!UICONTROL **activeren**] te selecteren.
+>U kunt ook alle inhoud in een stream activeren door bovenaan op het tandwielpictogram te klikken en **[!UICONTROL Activate All]** te selecteren.
 
 ## Stream-inhoud deactiveren
 
@@ -46,7 +46,7 @@ Stroominhoud is standaard uitgeschakeld. Activeer inhoud om deze tijdens de betr
 
    ![Afbeelding vijf](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-5.png)
 
-1. Klik op het tabblad [!UICONTROL **Streams**] .
+1. Klik op het **[!UICONTROL Streams]** tabblad.
 
    ![Afbeelding zes](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-6.png)
 
@@ -54,6 +54,6 @@ Stroominhoud is standaard uitgeschakeld. Activeer inhoud om deze tijdens de betr
 
    ![Afbeelding zeven](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-7.png)
 
-1. Selecteer [!UICONTROL **Deactiveren**].
+1. Selecteer **[!UICONTROL Deactivate]**.
 
    ![Afbeelding acht](/help/sky/assets/engagement-programs/activate-and-deactivate-stream-content/activate-and-deactivate-stream-content-8.png)
