@@ -3,9 +3,9 @@ unique-page-id: 2360364
 description: Stap 2 van 3 - creeer een Gebruiker Salesforce voor Marketo (Onderneming/Onbeperkt) - Marketo Docs - de Documentatie van het Product
 title: Stap 2 van 3 - creeer een Gebruiker Salesforce voor Marketo (Onderneming/Onbeperkt)
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >Deze stappen moeten door een beheerder van Salesforce worden voltooid
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
