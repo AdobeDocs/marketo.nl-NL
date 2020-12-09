@@ -3,9 +3,9 @@ unique-page-id: 2359870
 description: De URL van een geüploade afbeelding of bestand zoeken - Marketo Docs - Productdocumentatie
 title: De URL van een geüploade afbeelding of bestand zoeken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Op zoek naar het webadres (URL) van een afbeelding of bestand dat u hebt geüplo
 
 Geef jezelf een pat op de rug voor een goed geklaagde baan!
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een geüploade afbeelding of bestand vervangen](replace-an-uploaded-image-or-file.md)
 
