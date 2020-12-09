@@ -3,9 +3,9 @@ unique-page-id: 2951877
 description: Begrijpen van het Gebied van de Analyse van de Kans van het Programma - Marketo Docs - de Documentatie van het Product
 title: Het gebied van de Analyse van de Kans van het Programma
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -188,8 +188,6 @@ Terwijl metingen (blauwe stippen) worden berekend en enige overweging en uitleg 
 
 **All van de Kansen die om het even welk type van attributie krediet aan een Programma gaven. De kansen kunnen door één of meerdere lood en door één of meerdere Programma&#39;s worden beïnvloed.*
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Een rapport van de inkomstenverkenner maken](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
