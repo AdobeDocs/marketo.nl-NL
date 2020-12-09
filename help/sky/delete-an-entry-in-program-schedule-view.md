@@ -2,9 +2,9 @@
 title: delete-an-ingang-in-programma-programma-mening
 description: Een item verwijderen in de overzichtsweergave van het programma
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,6 @@ U kunt elke vermelding in uw kalender in een paar eenvoudige stappen verwijderen
 
    ![Afbeelding twee](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-2.png)
 
-1. Klik op [!UICONTROL **Bevestigen**] om het item te verwijderen.
+1. Klik **[!UICONTROL Confirm]** om het item te verwijderen.
 
    ![Afbeelding drie](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-3.png)
