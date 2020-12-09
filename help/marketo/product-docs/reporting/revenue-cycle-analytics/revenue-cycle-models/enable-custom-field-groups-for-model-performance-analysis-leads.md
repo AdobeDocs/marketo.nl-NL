@@ -3,9 +3,9 @@ unique-page-id: 3571890
 description: Aangepaste veldgroepen inschakelen voor modelprestatieanalyse (leadAds) - Marketo Docs - Productdocumentatie
 title: Aangepaste veldgroepen inschakelen voor analyse van modelprestaties (lead)
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Aangepaste veldgroepen inschakelen voor analyse van modelprestaties (lead) {#enable-custom-field-groups-for-model-performance-analysis-leads}
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Categoriseer standaard- of aangepaste velden in groepen voor rapportage via de veldOrganizer in Marketo. Zie Aangepaste veldgroepen [maken via de veldOrganizer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)voor meer informatie.
 
