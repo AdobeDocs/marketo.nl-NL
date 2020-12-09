@@ -3,9 +3,9 @@ unique-page-id: 2359608
 description: De lettertypefamilie van het formulier wijzigen - Marketo Docs - Productdocumentatie
 title: De lettertypefamilie van het formulier wijzigen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Google Fonts zijn geweldig, en we hebben ze direct in de formuliereditor gebouwd
 
 Zie hoe eenvoudig het was om de lettertypefamilie op een formulier te wijzigen? Koel, nu dat is gebeurd, leren we hoe we de tekengrootte van het formulier kunnen wijzigen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [De tekengrootte van het formulier wijzigen](change-the-form-font-size.md)
 
