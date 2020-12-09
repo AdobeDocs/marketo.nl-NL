@@ -2,9 +2,9 @@
 title: create-my-token-folders
 description: Mijn token-mappen maken
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Zo kunt u Mijn tokens sorteren in mappen.
 
    ![Afbeelding één](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. Voer een naam in voor de nieuwe map en selecteer vervolgens [!UICONTROL **Lokale tokens**] of [!UICONTROL **Overschreven tokens**] in de vervolgkeuzelijst Doel. Klik op [!UICONTROL **Opslaan**].
+1. Voer een naam voor de nieuwe map in en selecteer **[!UICONTROL Local Tokens]** of **[!UICONTROL Overridden Tokens]** uit de vervolgkeuzelijst bestemming. Klik **[!UICONTROL Save]**.
 
    ![Afbeelding twee](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ Zo kunt u Mijn tokens sorteren in mappen.
 
 >[!TIP]
 >
->Als u de naam van een map wilt wijzigen, klikt u er met de rechtermuisknop op en klikt u op [!UICONTROL **Naam wijzigen**].
+>Als u de naam van een map wilt wijzigen, klikt u er met de rechtermuisknop op en klikt u **[!UICONTROL Rename]** op.
