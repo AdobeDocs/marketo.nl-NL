@@ -3,9 +3,9 @@ unique-page-id: 6094879
 description: Een doel-URL toevoegen aan een webcampagne - Marketo Docs - Productdocumentatie
 title: Een doel-URL toevoegen aan een webcampagne
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -79,8 +79,7 @@ Als u op het plusteken klikt (![—](assets/image2015-2-18-8-3a40-3a59.png)), wo
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
->[!NOTE]
-**Verwante artikelen**
+>[!MORELIKETHIS]
 * [Nieuwe webcampagne voor dialoog maken](create-a-new-dialog-web-campaign.md)
 * [Nieuwe webcampagne maken in zone](create-a-new-in-zone-web-campaign.md)
 * [Nieuwe widgetwebcampagne maken](create-a-new-widget-web-campaign.md)
