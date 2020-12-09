@@ -2,9 +2,9 @@
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: Mijn token-handelingen bewerken, verwijderen, klonen en tokennamen kopiëren
 translation-type: tm+mt
-source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -14,23 +14,23 @@ ht-degree: 0%
 
 ## Een token bewerken
 
-Klik op het [!UICONTROL My Tokens] tabblad van uw campagnemap of -programma op de [!UICONTROL **waarde**] van het token dat u wilt bewerken. Hiermee wordt het editorvenster geopend.
+Klik op het [!UICONTROL My Tokens] tabblad van de campagnemap of het campagneprogramma op het pictogram **[!UICONTROL Value]** dat u wilt bewerken. Hiermee wordt het editorvenster geopend.
 
 ![Afbeelding één](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->Teksttokens hebben geen apart editorvenster. Klik op de [!UICONTROL **waarde**] om inline bewerkingen uit te voeren.
+>Teksttokens hebben geen apart editorvenster. Klik op het pictogram **[!UICONTROL Value]** om inline bewerkingen uit te voeren.
 
 ![Afbeelding twee](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
 ## Een token verwijderen
 
-1. Klik met de rechtermuisknop op het token en selecteer vervolgens [!UICONTROL **Verwijderen**].
+1. Klik met de rechtermuisknop op het token en selecteer vervolgens **[!UICONTROL Delete]**.
 
    ![Afbeelding drie](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-3.png)
 
-1. Klik op [!UICONTROL **Bevestigen**].
+1. Klik **[!UICONTROL Confirm]**.
 
    ![Afbeelding vier](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-4.png)
 
@@ -40,11 +40,11 @@ Klik op het [!UICONTROL My Tokens] tabblad van uw campagnemap of -programma op d
 
 ## Een token klonen
 
-1. Als u Mijn token wilt klonen, klikt u er met de rechtermuisknop op en selecteert u [!UICONTROL **Klonen**].
+1. Als u een Mijn token wilt klonen, klikt u er met de rechtermuisknop op en selecteert u **[!UICONTROL Clone]**.
 
    ![Afbeelding vijf](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-5.png)
 
-1. Voer een nieuwe naam in voor uw kloontoken, breng desgewenst wijzigingen aan en klik op [!UICONTROL **Opslaan**].
+1. Voer een nieuwe naam in voor uw kloontoken, breng desgewenst wijzigingen aan en klik op **[!UICONTROL Save]**.
 
    ![Afbeelding zes](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-6.png)
 
