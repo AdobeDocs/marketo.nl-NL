@@ -3,9 +3,9 @@ unique-page-id: 2949285
 description: Log inkomende post van je leads in Marketo - Marketo Docs - Productdocumentatie
 title: Log inkomende post van je leads in Marketo
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ U zou de zelfde bevestiging moeten zien zoals de andere methode.
 
 Log de antwoorden van je lead in om ze aan hun geschiedenis toe te voegen in Marketo.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [E-mail verzenden en bijhouden met de Marketo-e-mailinvoegtoepassing voor Outlook](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Verzenden en volgen vanuit Outlook met behulp van een Marketo-sjabloon](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
