@@ -3,9 +3,9 @@ unique-page-id: 2359492
 description: Groepeer Persrapporten door Segment - Marketo Docs - Productdocumentatie
 title: Groepperingspersoonrapporten per segment
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ U kunt uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reportin
 >
 >Meer over segmenten leren en hoe te om hen tot stand te brengen en te leiden, zie de [Verdeling](http://docs.marketo.com/display/docs/segmentation+and+snippets) diep duik.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Aangepaste kolommen toevoegen aan een Persrapport](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
 
