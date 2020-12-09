@@ -3,9 +3,9 @@ unique-page-id: 2359722
 description: Een video toevoegen aan een vrij toegankelijke landingpagina - Marketo Docs - Productdocumentatie
 title: Een video toevoegen aan een openingspagina met vrije vorm
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Plaats video&#39;s met opties voor sociaal delen op de bestemmingspagina&#39;s.
 
 Gefeliciteerd! U hebt een gedeelde video toegevoegd aan de openingspagina. Goedkeuren van de bestemmingspagina en uw video delen is live. U kunt de openingspagina ook [publiceren naar Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of de video-share [plaatsen op uw website](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >U bent klaar, maar u kunt de montages van uw videoaandeel indien nodig veranderen. Begin met het [aanpassen van de deelstroom](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (wanneer en waar de aandeelherinnering opent).
 
