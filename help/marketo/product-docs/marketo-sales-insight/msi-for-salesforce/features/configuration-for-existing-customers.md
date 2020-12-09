@@ -3,9 +3,9 @@ unique-page-id: 42762519
 description: Configuratie voor bestaande klanten - Marketo Docs - Productdocumentatie
 title: Configuratie voor bestaande klanten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Stel de volgende configuratie in om te beginnen met het gebruik van het nieuwe dashboard Inzichten.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Zorg ervoor dat u het Salesforce-pakket hebt bijgewerkt naar de nieuwste versie
 
