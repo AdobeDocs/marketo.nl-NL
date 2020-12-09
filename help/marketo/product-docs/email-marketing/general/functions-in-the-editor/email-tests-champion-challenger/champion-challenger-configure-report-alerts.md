@@ -3,9 +3,9 @@ unique-page-id: 2359567
 description: Champion/Challenger - Configureer rapportwaarschuwingen - Marketo Docs - Productdocumentatie
 title: Champion/Challenger - Rapportwaarschuwingen configureren
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo stuurt u rapporten over de manier waarop de e-mailtest verloopt. Hier is hoe je het kunt plannen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Champion/Challenger: Champion-criteria definiëren](champion-challenger-define-champion-criteria.md)
 
