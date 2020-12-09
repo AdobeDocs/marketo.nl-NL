@@ -3,9 +3,9 @@ unique-page-id: 10093159
 description: Inhoudsanalyse - Marketo Docs - Productdocumentatie
 title: Inhoudsanalyse
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -98,9 +98,7 @@ De aanvullende inhoudanalyse omvat:
 
 Klik op de pagina Inhoud analyseren op het verwijderpictogram van de inhoud die u wilt verwijderen. Er verschijnt een bericht ter bevestiging dat u de inhoud wilt verwijderen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [De balk met aanbevelingen voor inhoud inschakelen](../../../product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
 >* [Voorspelende inhoud voor web-rijke media inschakelen](../../../product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
