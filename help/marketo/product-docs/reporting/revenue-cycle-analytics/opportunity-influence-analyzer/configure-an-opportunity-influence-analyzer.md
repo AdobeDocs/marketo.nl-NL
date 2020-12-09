@@ -3,9 +3,9 @@ unique-page-id: 2360240
 description: Een opportuniteitsanalyse voor invloed configureren - Marketo Docs - Productdocumentatie
 title: Een Opportunity Influence Analyzer configureren
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Zodra u een Analysator [van de Invloed van de Mogelijkheid](create-an-opportunity-influence-analyzer.md)creeert, kunt u de types van [interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) vormen die inbegrepen zijn.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een Opportunity Influence Analyzer maken](create-an-opportunity-influence-analyzer.md)
 
