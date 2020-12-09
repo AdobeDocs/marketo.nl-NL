@@ -2,9 +2,9 @@
 title: local-assets-expiration
 description: Vervaldatum lokale elementen
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Stel een vervaldatum/-tijd in om de publicatie van bestemmingspagina&#39;s ongedaan te maken, triggercampagnes te deactiveren of herhalende batchcampagnes te stoppen. U vindt deze functie in de sectie [!UICONTROL **Verlopen**] onder het tabblad [!UICONTROL **Middelen**] .
+Stel een vervaldatum/-tijd in om de publicatie van bestemmingspagina&#39;s ongedaan te maken, triggercampagnes te deactiveren of herhalende batchcampagnes te stoppen. U vindt deze functie in de **[!UICONTROL Expiration]** sectie onder het **[!UICONTROL Assets]** tabblad.
 
 ![Afbeelding één](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
 ## Een vervaldatum instellen
 
-1. Controleer de elementen waarvoor u een vervaldatum wilt instellen en klik vervolgens op [!UICONTROL **Vervaldatum**] instellen.
+1. Controleer de elementen waarvoor u een vervaldatum wilt instellen en klik op **[!UICONTROL Set Expiration]**.
 
    ![Afbeelding twee](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-2.png)
 
@@ -28,13 +28,13 @@ Stel een vervaldatum/-tijd in om de publicatie van bestemmingspagina&#39;s onged
 
    ![Afbeelding drie](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-3.png)
 
-1. Controleer de elementen die worden beïnvloed en klik op [!UICONTROL **Bevestigen**].
+1. Controleer de elementen die worden beïnvloed en klik vervolgens op **[!UICONTROL Confirm]**.
 
    ![Afbeelding vier](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-4.png)
 
 >[!NOTE]
 >
->Als u een bestaande vervaldatum wilt bewerken, controleert u gewoon het element of de elementen en klikt u op [!UICONTROL **Vervaldatum**] instellen.
+>Als u een bestaande vervaldatum wilt bewerken, controleert u gewoon het element of de elementen en klikt u **[!UICONTROL Set Expiration]**.
 
 >[!NOTE]
 >
@@ -42,11 +42,11 @@ Stel een vervaldatum/-tijd in om de publicatie van bestemmingspagina&#39;s onged
 
 ## Een vervaldatum verwijderen
 
-1. Als u een vervaldatum wilt verwijderen, controleert u de elementen en klikt u op [!UICONTROL **Vervaldatum**] verwijderen.
+1. Als u een vervaldatum wilt verwijderen, controleert u het element of de elementen en klikt u **[!UICONTROL Remove Expiration]**.
 
    ![Afbeelding vijf](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-5.png)
 
-1. Controleer de elementen die worden beïnvloed en klik op [!UICONTROL **Bevestigen**].
+1. Controleer de elementen die worden beïnvloed en klik vervolgens op **[!UICONTROL Confirm]**.
 
    ![Afbeelding zes](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-6.png)
 
