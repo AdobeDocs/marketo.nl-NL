@@ -3,9 +3,9 @@ unique-page-id: 2359951
 description: Een lid verwijderen uit een betrokkenheidsprogramma - Marketo Docs - Productdocumentatie
 title: Een lid verwijderen uit een betrokkenheidsprogramma
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Oeps! Hoe kwamen die mensen daar binnen? U kunt leden uit een betrokkenheidsprog
 
 Soms wilt u gewoon mensen pauzeren in een betrokkenheidsprogramma en ze niet verwijderen. Dit wordt gedaan met het Cadence **van het Programma van de Betrokkenheid van de** Verandering.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Personen pauzeren in een betrokkenheidsprogramma](pause-people-in-an-engagement-program.md)
 
