@@ -3,9 +3,9 @@ unique-page-id: 7512272
 description: Voeg WebEx als Dienst van LaunchPoint toe - Marketo Docs - de Documentatie van het Product
 title: WebEx toevoegen als een LaunchPoint-service
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Marketo beheert uw WebEx webinar registratie en aanwezigheid.
 
    ![](assets/webex.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >Leer hoe u een gebeurtenis [maakt met WebEx](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
 
