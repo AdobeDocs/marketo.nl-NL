@@ -3,9 +3,9 @@ unique-page-id: 14352482
 description: Hoe Reageren het Volgen werkt - Marketo Docs - de Documentatie van het Product
 title: Hoe Reageren bijhouden werkt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Reageren bijhouden wordt uitgevoerd door te kijken naar een bericht-id in elke e-mail die u verzendt. Elk e-mailbericht bevat een unieke bericht-id waarmee we een aantal van de beste reacties kunnen bijhouden.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >**Verbinding maken met e-mailserver:** Sales Connect moet verbonden zijn met uw Postvak IN, zodat we weten wanneer een nieuw antwoord is ontvangen. Uw Sales Connect-account moet zijn [verbonden met Gmail](http://docs.marketo.com/x/kYMOAQ). Als u Vooruitzichten gebruikt, zullen wij met uw [ruilserver](http://toutapp.com/next#settings/exchange_settings)moeten integreren.
 
