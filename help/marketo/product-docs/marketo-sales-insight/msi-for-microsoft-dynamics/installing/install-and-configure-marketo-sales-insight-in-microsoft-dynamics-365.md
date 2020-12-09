@@ -3,9 +3,9 @@ unique-page-id: 3571739
 description: Installeer en vorm het Inzicht van de Verkoop van de Marketo in de Dynamica 365 van Microsoft - Marketo Docs - de Documentatie van het Product
 title: Het Inzicht van de Verkoop van de Marketo in de Dynamica 365 van Microsoft installeren en vormen
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '475'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo Sales Insight is een fantastisch hulpmiddel om uw verkoopteam een &quot;venster&quot;in de rijkdom aan gegevens te geven het team van de Marketing heeft. Hier is hoe te installeren en te vormen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Voltooi uw integratie [van](http://docs.marketo.com/x/E4A2)Marketo-Microsoft.
 >
