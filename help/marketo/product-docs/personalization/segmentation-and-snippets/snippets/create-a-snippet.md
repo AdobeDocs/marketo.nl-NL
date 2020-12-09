@@ -3,9 +3,9 @@ unique-page-id: 2359459
 description: Een fragment maken - Marketo Docs - Productdocumentatie
 title: Een fragment maken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Fragmenten kunnen worden gebruikt als dynamische inhoudsblokken op e- **mails** 
 
 Goed werk! Vereenvoudig uw werk door fragmenten voor dynamische inhoud te maken. Nu kunt u doorgaan en inhoud [toevoegen aan uw nieuwe fragment](add-content-to-a-snippet.md).
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Inhoud toevoegen aan een fragment](add-content-to-a-snippet.md)
 >* [Dynamische inhoud](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
