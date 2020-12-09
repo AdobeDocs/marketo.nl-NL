@@ -3,9 +3,9 @@ unique-page-id: 2949178
 description: Begrijpen van het SEO-dashboard - SEO-momentopname - Marketo-documenten - Productdocumentatie
 title: SEO-dashboard begrijpen - SEO-momentopname
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ De grafiek van de Trends van de Rank van het Sleutelwoord trekt uw sleutelwoorde
 
 Eenvoudig, toch? Laten we nu eens kijken naar de Recommendations-sectie van dit dashboard.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Het dashboard begrijpen: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
 
