@@ -2,9 +2,9 @@
 title: instellen van gebeurtenisdoelen
 description: Gebeurtenisdoelen instellen
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Geef uw gebeurtenissen specifieke doelstellingen en zie hoe zij presteren.
 
    ![Afbeelding twee](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. Voer het doel voor [!UICONTROL Registered] en [!UICONTROL Attended]in en klik vervolgens op [!UICONTROL **Maken**] ([!UICONTROL Description] en [!UICONTROL Labels] zijn optioneel).
+1. Voer het doel voor [!UICONTROL Registered] en [!UICONTROL Attended]in en klik op **[!UICONTROL Create]** ([!UICONTROL Description] en [!UICONTROL Labels] zijn optioneel).
 
    ![Afbeelding één](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
