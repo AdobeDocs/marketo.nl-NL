@@ -3,9 +3,9 @@ unique-page-id: 7504180
 description: Een lijst met markeertekens of een slimme lijst gebruiken als een LinkedIn Audience-segment - Marketo Docs - Productdocumentatie
 title: Een lijst met markeertekens of een slimme lijst gebruiken als een segment voor LinkedIn-publiek
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Integreer uw Marketo-mensen met uw LinkedIn-publiek.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Voeg LinkedIn Gelijke Publiek als Dienst van LaunchPoint toe](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
