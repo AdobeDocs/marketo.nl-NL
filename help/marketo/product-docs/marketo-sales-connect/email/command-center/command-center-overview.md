@@ -3,9 +3,9 @@ unique-page-id: 14352530
 description: Overzicht van Command Center - Marketo Docs - Productdocumentatie
 title: Overzicht van Command Center
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -92,9 +92,7 @@ Bijvoorbeeld, als u 100 mensen aan een campagne in MSC toevoegt, kunt u de mense
 
 Bonus: Als u uw geavanceerde zoekopdracht opslaat, werkt deze als een dynamische lijst en worden e-mails toegevoegd die aan de betrokkenheidscriteria voldoen zodra de ontvanger uw e-mail bekijkt of erop klikt.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Taken](http://docs.marketo.com/x/qwDb)
 >* [Overzicht van geavanceerd zoeken](http://docs.marketo.com/x/KQM6Ag)
