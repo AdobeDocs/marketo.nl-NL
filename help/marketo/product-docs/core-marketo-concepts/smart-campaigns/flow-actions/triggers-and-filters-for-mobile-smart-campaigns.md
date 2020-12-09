@@ -3,9 +3,9 @@ unique-page-id: 9437991
 description: Triggers en filters voor mobiele slimme campagnes - Marketo Docs - Productdocumentatie
 title: Triggers en filters voor mobiele slimme campagnes
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -190,9 +190,7 @@ Taps/Tapping Push Notification
 
 ![](assets/image2015-8-21-14-3a3-3a50.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een restrictie toevoegen aan een slim lijstfilter](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
 >* [Inactiviteitsfilters gebruiken in een slimme lijst](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
