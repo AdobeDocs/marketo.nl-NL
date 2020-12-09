@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: Verzenden van e-mail met afhandeling van een verwijzingsvoorstel - Marketo-documenten - Productdocumentatie
 title: Verzenden van e-mail met uitvoeringsvoorstel voor verwijzing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Geef uw klanten coupons en kortingscodes terug met behulp van het e-mailbericht dat aan de aanbieding wordt voldaan.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [E-mails gebruiken in sociale aanbiedingen](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
 >* [Verwijzingsvoorstel maken](create-a-referral-offer.md)
