@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Offlineconversies van Facebook instellen - Marketo Docs - Productdocumentatie
 title: Offlineconversies van Facebook instellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zijn gemaakt via Advertenties voor advertenties, kan uw advertentieteam hun advertentie beter dan ooit optimaliseren. Hier is hoe je het instelt.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* U moet Facebook Lead Ads [instellen](set-up-facebook-lead-ads.md).
 >* U moet een goedgekeurd model in de Modellen van de [Cyclus van de Opbrengst](http://docs.marketo.com/display/docs/revenue+cycle+models)hebben.
