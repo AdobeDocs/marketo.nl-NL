@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: Een extra brandingdomein toevoegen - Marketo Docs - Productdocumentatie
 title: Een extra brandingdomein toevoegen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Voeg een extra branding domein toe wanneer u veelvoudige merken uit één enkele instantie van Marketo in werking stelt en wil hen elk hun eigen merked het volgen verbindingen hebben.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >U moet de generische het volgen verbinding [met een branded domein](edit-your-default-branding-domain.md) vervangen alvorens extra branded domeinen toe te voegen.
 
