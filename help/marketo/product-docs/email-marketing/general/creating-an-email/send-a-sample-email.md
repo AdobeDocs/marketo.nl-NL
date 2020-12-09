@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Een voorbeeld-e-mail verzenden - Marketo Docs - Productdocumentatie
 title: Een e-mailvoorbeeld verzenden
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,7 @@ Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een 
 
 ## Een voorbeeld-e-mail verzenden op basis van een segment {#send-a-sample-email-based-on-a-segment}
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >[Pas segmentatie toe op uw e-mail](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
 
