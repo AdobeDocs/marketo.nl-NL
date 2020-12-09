@@ -3,9 +3,9 @@ unique-page-id: 10096679
 description: Voorbeeld ON24-gebeurtenisintegratie - Marketo Docs - Productdocumentatie
 title: Voorbeeld ON24-gebeurtenisintegratie
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
@@ -91,9 +91,7 @@ Hier is een voorbeeldgebeurtenis, inclusief campagnes, voor een ON24 webinar. Wa
 
 ![](assets/ten.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Inzicht in Marketo ON24-adaptergebeurtenissen](understanding-marketo-on24-adapter-events.md)
 
