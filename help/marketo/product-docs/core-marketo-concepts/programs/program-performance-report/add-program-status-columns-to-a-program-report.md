@@ -3,9 +3,9 @@ unique-page-id: 1147239
 description: Voeg de Kolommen van de Status van het Programma aan een Rapport van het Programma toe - Marketo Docs - de Documentatie van het Product
 title: De Kolommen van de Status van het Programma aan een Rapport van het Programma toevoegen
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Voeg statussen over de status van het programma toe aan het [prestatierapport](c
 >
 >Als u geen kolom voor elke status in het programma ziet, zorg ervoor u de kolommen hebt [geselecteerd om in het rapport te tonen](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) .
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een programmarapport filteren op tag](filter-a-program-report-by-tag.md)
 
