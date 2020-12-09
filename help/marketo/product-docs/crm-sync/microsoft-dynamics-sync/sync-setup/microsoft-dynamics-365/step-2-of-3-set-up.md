@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: Stap 2 van 3 - de Marketo van de opstelling om Gebruiker in Dynamiek te synchroniseren - Marketo Docs - de Documentatie van het Product
 title: Stap 2 van 3 - Opstelling Marketo om Gebruiker in Dynamiek te synchroniseren
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Laten we beginnen met het maken van een gebruikersaccount.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >[Stap 1 van 3: De Marketo-oplossing installeren (online)](step-1-of-3-install.md)
 
