@@ -3,9 +3,9 @@ unique-page-id: 7504520
 description: Het schrappen van een Gebied in een Rapport van de Ontdekkingsreiziger van de Opbrengst - Marketo Dos - de Documentatie van het Product
 title: Een veld verwijderen in een Indelingsverkenner-rapport
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Soms sleept u een verkeerd veld naar het rapport. Hieronder wordt beschreven hoe
    >
    >De prullenbak is verborgen totdat u een veld sleept.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een rapport van de Ontdekkingsreiziger van de Opbrengst opslaan](saving-a-revenue-explorer-report.md)
 
