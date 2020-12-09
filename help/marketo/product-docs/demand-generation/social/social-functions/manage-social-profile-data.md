@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Gegevens van sociaal profiel beheren - Marketo-documenten - Productdocumentatie
 title: Gegevens van sociaal profiel beheren
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ Afhankelijk van de privacy-instellingen van het netwerk en de gebruiker worden e
 >
 >Met het invullen van een sociaal formulier wordt het e-mailadres *alleen* vastgelegd als de persoon het in het formulier invoert. Als u het e-mailadres nodig hebt, [maakt u het een verplicht veld in uw formulier](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >Schakel het invullen van [sociale formulieren](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)in om deze gegevens van formulieren vast te leggen.
 
