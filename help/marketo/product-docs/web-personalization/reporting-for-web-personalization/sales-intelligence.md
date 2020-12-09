@@ -3,9 +3,9 @@ unique-page-id: 10096420
 description: Verkoopinformatie - Marketo Docs - Productdocumentatie
 title: Verkoopinformatie
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ In [Gebruikersinstellingen](/help/marketo/product-docs/web-personalization/getti
 >
 >Wij adviseerden dat u opstelling verkoopmanagers met mening-slechts toestemming in het Web van Marketo Personalization. Dit betekent dat ze alle pagina&#39;s kunnen weergeven, maar geen functies kunnen maken, bewerken of verwijderen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [E-mailrapporten](email-reports.md)
 
