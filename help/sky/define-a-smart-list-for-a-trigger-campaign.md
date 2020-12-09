@@ -2,9 +2,9 @@
 title: define-a-smart-list-for-a-trigger-campagne
 description: Een slimme lijst definiëren voor een triggercampagne
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd die op levende gebeurtenissen wordt gebaseerd door trekkers toe te voegen.
 
-1. Kies een slimme campagne en klik op [!UICONTROL **Slimme lijst**].
+1. Kies een slimme campagne en klik op **[!UICONTROL Smart List]**.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-1.png)
 
@@ -28,7 +28,7 @@ Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd di
    >
    >Een slimme campagne met triggers wordt uitgevoerd in de triggermodus. Deze wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en eventuele aanvullende filters.
 
-1. Klik op de vervolgkeuzelijst en kies een operator ( [!UICONTROL **is**], [!UICONTROL **is niet**], enz.) voor de trigger die u hebt gekozen.
+1. Klik op de vervolgkeuzelijst en kies een operator (bijvoorbeeld **[!UICONTROL is]**, **[!UICONTROL is not]**, enz.) voor de trigger die u hebt gekozen.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-trigger-campaign/define-a-smart-list-for-a-trigger-campaign-3.png)
 
