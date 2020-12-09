@@ -3,9 +3,9 @@ unique-page-id: 2360005
 description: Het Rapport van de Activiteit van het Web van het bedrijf - Marketo Dos - de Documentatie van het Product
 title: Webactiviteitenrapport van bedrijf
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Bekijk welke bedrijven uw website bezoeken. U kunt bekende of anonieme bezoekers
 
 Creeer een rapport [van de Activiteit van de](web-page-activity-report.md) Web-pagina om de individuele mensen te zien die uw plaats bezoeken.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Als u activiteiten wilt vastleggen vanaf uw website in Marketo, moet u eerst [Munchkin instellen op uw site](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
