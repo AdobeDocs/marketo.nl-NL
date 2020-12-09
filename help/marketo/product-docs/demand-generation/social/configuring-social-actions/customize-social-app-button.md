@@ -3,9 +3,9 @@ unique-page-id: 2359759
 description: Knop Sociale app aanpassen - Marketo Docs - Productdocumentatie
 title: De knop Sociale app aanpassen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Wanneer u een [sociale knoop](../../../../product-docs/demand-generation/landing
 >
 >In een verwijzingsvoorstel, kunt u de knoop van de Voortgang **van het** Spoor ook aanpassen. Ga naar **App Settings** > **Track Progress Style** en voer dezelfde stappen uit als hierboven.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >Voor een sociale knoop, [vorm wanneer het opent](configure-when-social-button-opens.md). Voor een verwijzingsaanbieding, [specificeer het aanbiedingsdoel](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
 
