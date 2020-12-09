@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: Aangepast publiek voor Facebook toevoegen als een opstartpuntservice - Marketo Docs - Productdocumentatie
 title: Aangepast publiek voor Facebook toevoegen als een opstartpuntservice
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Met deze integratie kunt u publieksgegevens van de statische en slimme lijsten v
    >
    >Oh, voordat je gaat, moet je de voorwaarden [voor aangepast publiek van Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) accepteren binnen je Facebook-account! Zonder dit te doen, zullen de publieksupdates ontbreken.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een aangepast publiek maken op Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
