@@ -3,9 +3,9 @@ unique-page-id: 7504739
 description: Marketo installeren voor Dynamics 2015 On-Prem en 2016 365 On-Prem Stap 2 van 3 - Marketo Docs - Productdocumentatie
 title: Marketo installeren voor Dynamics 2015 On-Prem en 2016 365 On-Prem Step 2 of 3
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 Geweldig werk bij het voltooien van de vorige stappen. Laten we hier doorheen gaan.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Marketo installeren voor Dynamics 2015 On-Prem en 2016 365 On-Prem Stap 1 van 3](step-1-of-3-install.md)
 
