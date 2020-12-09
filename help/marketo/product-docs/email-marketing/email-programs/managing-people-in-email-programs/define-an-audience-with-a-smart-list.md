@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: Een publiek definiëren met een slimme lijst - Marketo Docs - Productdocumentatie
 title: Een publiek definiëren met een slimme lijst
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Als u eenmaal een e-mailprogramma [hebt](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)gemaakt, wilt u het programma laten weten naar wie u de e-mail wilt verzenden. U kunt dit doen door een lijst met personen [of een slimme lijst te](define-an-audience-by-importing-a-list.md) importeren. Hieronder wordt beschreven hoe u dit kunt bereiken met een slimme lijst.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een e-mailprogramma maken](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
