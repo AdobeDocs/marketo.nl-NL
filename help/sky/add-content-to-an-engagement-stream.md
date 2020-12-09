@@ -2,9 +2,9 @@
 title: add-content-to-an-engagement-stream
 description: Inhoud toevoegen aan een betrokkenheidsstream
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud aan de stream toe
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. Klik op het tabblad [!UICONTROL **Streams**] .
+1. Klik op het **[!UICONTROL Streams]** tabblad.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. Klik op Inhoud [!UICONTROL **toevoegen**].
+1. Klik **[!UICONTROL Add Content]**.
 
    ![Afbeelding drie](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
@@ -42,11 +42,11 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud aan de stream toe
 
    ![Afbeelding vijf](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. Klik op het tabblad [!UICONTROL **Streams**] .
+1. Klik op het **[!UICONTROL Streams]** tabblad.
 
    ![Afbeelding zes](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. Klik op Inhoud [!UICONTROL **toevoegen**].
+1. Klik **[!UICONTROL Add Content]**.
 
    ![Afbeelding zeven](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
