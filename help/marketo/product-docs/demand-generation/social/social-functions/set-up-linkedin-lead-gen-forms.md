@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: LinkedIn-leadgen Forms - Marketo Docs - Productdocumentatie instellen
 title: LinkedIn Gen Forms instellen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -83,9 +83,7 @@ Echt waar! Personen die LinkedIn Gen-formulieren indienen, gaan naar Marketo wan
 >
 >U kunt slechts één LinkedIn-gebruikersaccount autoriseren. Als u veelvoudige BedrijfsRekeningen hebt die u aan Marketo zou willen verbinden, zorg ervoor dat de rekening LinkedIn van de gebruiker die wordt toegelaten de toestemmingen van de Manager van de Vorm van de Leider aan de BedrijfsRekening in LinkedIn heeft.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [LinkedIn Gen-formulierfilters en -triggers gebruiken in een slimme campagne](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
 
