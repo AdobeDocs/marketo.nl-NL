@@ -3,9 +3,9 @@ unique-page-id: 2359587
 description: Champion/Challenger - Een e-mailtest verwijderen - Marketo Docs - Productdocumentatie
 title: Champion/Challenger - Een e-mailtest negeren
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Als u op een gegeven moment besluit dat u uw e-mailtest niet wilt uitvoeren, kunt u deze negeren. Zo gaat het.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Champion/Challenger: Uw e-mailtest goedkeuren](champion-challenger-approve-your-email-test.md)
 
