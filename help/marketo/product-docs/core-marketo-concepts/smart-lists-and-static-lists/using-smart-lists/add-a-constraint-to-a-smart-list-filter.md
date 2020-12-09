@@ -3,9 +3,9 @@ unique-page-id: 2949413
 description: Een beperking toevoegen aan een slim lijstfilter - Marketo Docs - Productdocumentatie
 title: Een restrictie toevoegen aan een slim lijstfilter
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ In dit voorbeeld, voegen sommige beperkingen aan een ** [Gewijzigde](../../../..
 >
 >Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Het filter &quot;Gewijzigde gegevenswaarde&quot; in een slimme lijst gebruiken](use-the-data-value-changed-filter-in-a-smart-list.md)
