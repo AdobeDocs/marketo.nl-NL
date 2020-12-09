@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: De balk met aanbevelingen voor inhoud - Marketo Docs - Productdocumentatie inschakelen
 title: De balk met aanbevelingen voor inhoud inschakelen
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 De Content Recommendation Engine maakt gebruik van voorspellende analytische algoritmen en computerleeralgoritmen om relevante inhoud aan elke webbezoeker te leveren. De aanbevolen engine voorspelt welke inhoud het beste per bezoeker zou presteren. De inhoud voor de engine wordt gecontroleerd en beheerd onder de Recommendations-pagina, zodat u uw ROI voor inhoud kunt optimaliseren.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Voordat u voorspellende inhoud inschakelt, moet u:
 >
