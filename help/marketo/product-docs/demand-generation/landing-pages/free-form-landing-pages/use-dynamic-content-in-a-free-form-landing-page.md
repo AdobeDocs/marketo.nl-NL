@@ -3,9 +3,9 @@ unique-page-id: 2359732
 description: Dynamische inhoud gebruiken in een vrije bestemmingspagina - Marketo Docs - Productdocumentatie
 title: Dynamische inhoud gebruiken in een openingspagina met vrije vorm
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Wanneer u dynamische inhoud gebruikt in bestemmingspagina&#39;s, krijgt uw publiek gerichte informatie.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een segmentatie maken](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Een vrije bestemmingspagina maken](create-a-free-form-landing-page.md)
