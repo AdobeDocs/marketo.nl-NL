@@ -2,9 +2,9 @@
 title: delete-a-stream
 description: Een stream verwijderen
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Als u ooit een stream uit uw betrokkenheidsprogramma moet verwijderen, voert u d
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. Klik op het tabblad [!UICONTROL **Streams**] .
+1. Klik op het **[!UICONTROL Streams]** tabblad.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
@@ -29,7 +29,7 @@ Als u ooit een stream uit uw betrokkenheidsprogramma moet verwijderen, voert u d
    >Als u een stream verwijdert, gaan historische gegevens verloren voor
    >de inhoud in die stream.
 
-1. Klik op het tandwielpictogram en selecteer vervolgens [!UICONTROL **Verwijderen**].
+1. Klik op het tandwielpictogram en selecteer **[!UICONTROL Delete]**.
 
    ![Afbeelding drie](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-3.png)
 
