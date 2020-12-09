@@ -3,9 +3,9 @@ unique-page-id: 4720236
 description: Een segment maken met een accountlijst - Marketo Docs - Productdocumentatie
 title: Een segment maken met een accountlijst
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Hier is hoe te om een segment tot stand te brengen gebruikend een Lijst van de Rekening.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een nieuwe accountlijst maken](../../../product-docs/account-based-marketing/target/account-lists.md)
 
