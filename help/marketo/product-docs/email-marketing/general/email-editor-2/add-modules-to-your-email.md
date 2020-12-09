@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: Modules toevoegen aan uw e-mail - Marketo Docs - Productdocumentatie
 title: Modules toevoegen aan uw e-mail
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Er zijn twee manieren om een module te verplaatsen.
 
 Dat is alles wat er aan te pas komt.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[E-mailsjabloonsyntaxis](email-template-syntax.md)
 
