@@ -3,9 +3,9 @@ unique-page-id: 2950547
 description: Vastleggen van persoon configureren voor een sociale app - Marketo Docs - Productdocumentatie
 title: Vastleggen van persoon configureren voor een sociale app
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -54,9 +54,7 @@ Wanneer u een [verwijzingsaanbieding](../../../../product-docs/demand-generation
 
    ![](assets/image2014-9-22-11-3a2-3a56.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >Nu kunt u de sociale inschrijvingsstroom [](configure-social-sign-up-share-flow.md) vormen en de aandeelberichten uitgeven die aan elk sociaal netwerk zullen worden gepost.
 
