@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: Markeren toevoegen aan aangepaste objectvelden - Marketo Docs - Productdocumentatie
 title: Markeren toevoegen aan aangepaste objectvelden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
    >
    >Als u een een-op-vele structuur bouwt, moet u een gebied van de Verbinding aan uw douanevoorwerp toevoegen. Voor een vele-aan-vele structuur, hebt u geen verbindingsgebied in het douanevoorwerp nodig, maar u moet twee verbindingsgebieden in het intermediaire voorwerp toevoegen. Zie Marketo [toevoegen aan aangepaste objectkoppelingsvelden](add-marketo-custom-object-link-fields.md) om de koppelingsvelden te maken en [Inzicht in aangepaste objecten](understanding-marketo-custom-objects.md) markeren voor meer informatie over typen aangepaste objecten.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Markeren toevoegen aan aangepaste objectkoppelingsvelden](add-marketo-custom-object-link-fields.md)
 >* [Een aangepast markeerobject bewerken en verwijderen](edit-and-delete-a-marketo-custom-object.md)
