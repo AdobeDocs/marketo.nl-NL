@@ -2,9 +2,9 @@
 title: Maak-een-e-mail-programma-in-programma-programma-mening
 description: Een e-mailprogramma maken in de overzichtsweergave van het programma
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 U kunt nieuwe e-mailprogramma&#39;s rechtstreeks in de programmaweergave van het programma maken.
 
-1. Selecteer uw programma in de boom, dan ga naar het [!UICONTROL **lusje van het Programma**] onder [!UICONTROL **Overzicht**].
+1. Selecteer het programma in de boomstructuur en ga vervolgens naar de **[!UICONTROL Schedule]** tab onder **[!UICONTROL Overview]**.
 
    ![Afbeelding één](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-1.png)
 
-1. Houd de muis boven de dag waaraan u een item wilt toevoegen en klik vervolgens op [!UICONTROL **Toevoegen**].
+1. Houd de muis boven de dag waaraan u een bericht wilt toevoegen en klik vervolgens op **[!UICONTROL Add]**.
 
    ![Afbeelding twee](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ U kunt nieuwe e-mailprogramma&#39;s rechtstreeks in de programmaweergave van het
    >
    >U kunt ook vergelijkbare stappen uitvoeren om een e-mailprogramma te maken vanuit de weergaven Dag, Week of Agenda.
 
-1. Voer een naam in voor uw nieuwe slimme campagne en wijzig [!UICONTROL **Type**] in [!UICONTROL Email Program]. U kunt ook de [!UICONTROL **begindatum**] wijzigen en de optie [!UICONTROL **Openen in de weergave**] Agenda uitschakelen als u in de kalender wilt blijven nadat u de vermelding hebt gemaakt. Klik op [!UICONTROL **Opslaan**].
+1. Voer een naam in voor uw nieuwe slimme campagne en wijzig deze vervolgens **[!UICONTROL Type]** in [!UICONTROL Email Program]. U kunt ook de lijst wijzigen **[!UICONTROL Start Date]**, en deselecteren **[!UICONTROL Open In Agenda View]** als u in de kalender wilt blijven nadat u de ingang creeert. Klik **[!UICONTROL Save]**.
 
    ![Afbeelding drie](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-3.png)
 
