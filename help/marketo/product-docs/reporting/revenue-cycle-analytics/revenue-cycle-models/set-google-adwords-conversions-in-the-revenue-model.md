@@ -3,9 +3,9 @@ unique-page-id: 6095029
 description: Google AdWords-conversies instellen in het inkomstenmodel - Marketo Docs - Productdocumentatie
 title: Google AdWords-conversies instellen in het inkomstenmodel
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,7 @@ Meer informatie over de importfunctie [voor offlineconversie van](https://suppor
 
 U kunt nieuwe AddWords off-line omzetting van Marketo tot stand brengen als u de Actie van het Stadium gebruikt.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Google AdWords toevoegen als een LaunchPoint-service](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
