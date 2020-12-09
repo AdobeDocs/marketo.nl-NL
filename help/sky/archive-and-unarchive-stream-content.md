@@ -2,9 +2,9 @@
 title: archive-and-unarchive-stream-content
 description: Stroominhoud archiveren en archiveren
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Als u een stuk inhoud in een stroom niet meer wilt gebruiken, kunt u het of [ver
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. Klik op het tabblad [!UICONTROL **Streams**]
+1. Klik op het **[!UICONTROL Streams]** tabblad
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -33,7 +33,7 @@ Als u een stuk inhoud in een stroom niet meer wilt gebruiken, kunt u het of [ver
 
    ![Afbeelding drie](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-3.png)
 
-1. Selecteer [!UICONTROL **Archief**].
+1. Selecteer **[!UICONTROL Archive]**.
 
    ![Afbeelding vier](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-4.png)
 
@@ -45,11 +45,11 @@ Dat is het! Herinner me, archiveer als u geschiedenis wilt bewaren.
 
    ![Afbeelding vijf](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Klik op het tabblad [!UICONTROL **Streams**] .
+1. Klik op het **[!UICONTROL Streams]** tabblad.
 
    ![Afbeelding zes](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Klik op het tandwielpictogram voor uw stream en klik vervolgens op Gearchiveerde inhoud [!UICONTROL ****] tonen.
+1. Klik op het tandwielpictogram voor uw stroom en klik vervolgens **[!UICONTROL Show Archived Content]**.
 
    ![Afbeelding zeven](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
@@ -57,7 +57,7 @@ Dat is het! Herinner me, archiveer als u geschiedenis wilt bewaren.
 
    ![Afbeelding acht](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-8.png)
 
-1. Selecteer [!UICONTROL **Unarchive**].
+1. Selecteer **[!UICONTROL Unarchive]**.
 
    ![Afbeelding negen](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-9.png)
 
