@@ -3,9 +3,9 @@ unique-page-id: 14745982
 description: Werkplaats toevoegen door Facebook als een opstartpuntservice - Marketo Docs - Productdocumentatie
 title: Workplace van Facebook toevoegen als een opstartpuntservice
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ De Workplace-integratie bevat twee meldingstypen:
 >
 >**Beheerdersmachtigingen vereist**
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Neem [contact op met de ondersteuningsafdeling](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436)als Workplace Notifications nog niet zijn ingeschakeld.
 
