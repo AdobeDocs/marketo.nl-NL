@@ -2,9 +2,9 @@
 title: activate-deactivate-a-trigger-smartCampagne
 description: Een slimme campagne activeren/deactiveren
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Als u een slimme triggercampagne activeert/deactiveert, wordt deze in feite in- 
 
 ## Een triggercampagne activeren
 
-1. Klik in uw slimme campagne op het tabblad [!UICONTROL **Schema**] .
+1. Klik in uw slimme campagne op het **[!UICONTROL Schedule]** tabblad.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ Als u een slimme triggercampagne activeert/deactiveert, wordt deze in feite in- 
    >
    >Controleer de slimme campagne voordat u deze activeert.
 
-1. Klik op [!UICONTROL **Activeren**].
+1. Klik **[!UICONTROL Activate]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,11 +36,11 @@ Vanaf dit moment gaat iedereen die in aanmerking komt voor de slimme lijst door 
 
 ## Een triggercampagne deactiveren
 
-1. Klik in uw slimme campagne op het tabblad [!UICONTROL **Schema**] .
+1. Klik in uw slimme campagne op het **[!UICONTROL Schedule]** tabblad.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. Klik op [!UICONTROL **Deactiveren**].
+1. Klik **[!UICONTROL Deactivate]**.
 
    ![Afbeelding vier](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
