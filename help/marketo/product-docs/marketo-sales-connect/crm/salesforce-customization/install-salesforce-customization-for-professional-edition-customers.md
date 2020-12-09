@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: Aanpassing Salesforce voor klanten van de Professional Edition installeren - Marketo-documenten - Productdocumentatie
 title: Aanpassing van Salesforce voor klanten van de Professional Edition installeren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Klanten met Salesforce Professional Edition moeten deze stappen volgen om aanpassingen te installeren.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* Sales Connect Admin moet hun Salesforce- en Sales Connect-accounts verbinden.
 >* Er moet ruimte zijn voor de installatie van Salesforce Instance om dertien aangepaste activiteitsvelden te kunnen installeren.
