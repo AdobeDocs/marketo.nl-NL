@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Persoonlijke opmerkingen in Google - Marketo Docs - Productdocumentatie
 title: Persoonlijke opmerkingen in Google
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Met gepersonaliseerde marketing kunt u opnieuw contact opnemen met uw gebruikers met behulp van RTP-gegevens en de kracht van Google Analytics met het bereik van het Google Display Network.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* Voltooi het [Opnieuw richten met de configuratie van Gegevens](retargeting-with-web-personalization-data.md) van de Personalisatie van het Web
 >* Opmerking [reviseren met Help](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) -documentatie voor Google Analytics
