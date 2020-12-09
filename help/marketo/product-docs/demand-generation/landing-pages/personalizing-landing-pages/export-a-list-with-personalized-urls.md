@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: Een lijst met gepersonaliseerde URL's exporteren - Marketo Docs - Productdocumentatie
 title: Een lijst met gepersonaliseerde URL's exporteren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Een lijst met gepersonaliseerde URL&#39;s exporteren {#export-a-list-with-personalized-urls}
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Persoonlijke URL&#39;s voor uw account inschakelen](enable-personalized-urls-for-your-account.md)
 >* [Persoonlijke URL&#39;s inschakelen voor een bestemmingspagina](enable-personalized-urls-for-a-landing-page.md)
