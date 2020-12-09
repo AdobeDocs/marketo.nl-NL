@@ -3,9 +3,9 @@ unique-page-id: 15368208
 description: Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren - Marketo Dos - de Documentatie van het Product
 title: Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >[Verkoop verbinden met uw Salesforce-sandbox](http://docs.marketo.com/x/DYDq)
 
