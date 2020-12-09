@@ -2,9 +2,9 @@
 title: my-token-email-script
 description: Mijn token-e-mailscript
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Voor gevorderde ontwikkelaars kunt u de manuscripten [van de](http://velocity.apache.org/engine/1.7/user-guide.html) Snelheid in uw e-mail gebruiken door een token van het Manuscript E-mail te plaatsen. Zo doe je het.
 
-1. Sleep op het [!UICONTROL My Tokens] tabblad van uw programma of map een token voor een [!UICONTROL **e-mailscript**] naar het [!UICONTROL Local Tokens] canvas.
+1. Sleep op het [!UICONTROL My Tokens] tabblad van uw programma of map een **[!UICONTROL Email Script]** token naar het [!UICONTROL Local Tokens] canvas.
 
    ![Afbeelding één](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
@@ -39,6 +39,6 @@ Voor gevorderde ontwikkelaars kunt u de manuscripten [van de](http://velocity.ap
    * [Snelheidsnaslaggids](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityTools 2.0 Documentation](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Wanneer uw script is voltooid, klikt u op [!UICONTROL **Opslaan**].
+1. Wanneer uw script is voltooid, klikt u op **[!UICONTROL Save]**.
 
    ![Afbeelding vier](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-4.png)
