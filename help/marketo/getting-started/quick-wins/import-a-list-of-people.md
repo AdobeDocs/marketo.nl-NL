@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: Een lijst met personen importeren - Marketo Docs - Productdocumentatie
 title: Een lijst met personen importeren
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 >
 >Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Instellen en een persoon toevoegen](get-set-up-and-add-a-person.md)
 
@@ -136,7 +134,7 @@ ht-degree: 0%
    >
    >Als er velden zijn die u niet wilt importeren, selecteert u **Negeren** in de vervolgkeuzelijst Marketo-veld.
 
-1. Selecteer **Mijn Programma** van de Verkoop voor het **Programma** van de Verwerving, dan klik de **Invoer**.
+1. Selecteer **Mijn Programma** van de Verkoop voor het Programma **van de** Verwerving, dan klik de **Invoer**.
 
    ![](assets/image2014-9-24-12-3a25-3a1.png)
 
