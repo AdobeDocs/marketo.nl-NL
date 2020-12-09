@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Vergelijk de doeltreffendheid van het programma met de Analysator van het Programma - Marketo Docs - de Documentatie van het Product
 title: De doeltreffendheid van het Programma met de Analysator van het Programma vergelijken
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Gebruik Analyzer van het Programma om uw meest en minst efficiënte programma&#39;s te identificeren, door programmakosten, lidverwerving, pijpleiding, en opbrengst te vergelijken.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een programmaanalyse maken](create-a-program-analyzer.md)
 
