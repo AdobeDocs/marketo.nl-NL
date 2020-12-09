@@ -3,9 +3,9 @@ unique-page-id: 4719408
 description: Bewerk een bestaande webcampagne - Marketo Docs - Productdocumentatie
 title: Een bestaande webcampagne bewerken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ ht-degree: 0%
    >
    >Met de [filterfunctie](filter-web-campaigns.md)kunt u gemakkelijker de gewenste webcampagne vinden.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een webcampagne verwijderen](delete-a-web-campaign.md)
 >* [Een](launch-pause-a-web-campaign.md) [campagne starten/pauzeren](launch-pause-a-web-campaign.md)
