@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: '"Datum/tijd" A/B testen - Marketo Docs - Productdocumentatie'
 title: Datum-/tijdtest gebruiken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 U kunt uw e-mailberichten eenvoudig testen. Eén test is de **Datum/tijd **test. Hiermee wordt getest op welk tijdstip van de dag of de dag van de week het beste e-mailberichten kunnen worden verzonden. Hier is hoe je het instelt.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een A/B-test toevoegen](add-an-a-b-test.md)
 
