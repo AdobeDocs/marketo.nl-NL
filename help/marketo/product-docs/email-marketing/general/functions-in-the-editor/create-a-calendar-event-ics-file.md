@@ -3,9 +3,9 @@ unique-page-id: 1900563
 description: Een agendagebeurtenbestand (.ics) maken - Marketo Docs - Productdocumentatie
 title: Een agendagebeurtenbestand (.ics) maken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Met een token voor het kalenderbestand kunt u een agendagebeurtenis (.ics) toevo
 
 Opdracht voltooid! Zorg ervoor dat u het uittest.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een agendagebeurtenis (.ics) opnemen in een e-mail](include-a-calendar-event-ics-in-an-email.md)
 >* [Een ICS-bestand voor kalendergebeurtenissen opnemen in een bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
