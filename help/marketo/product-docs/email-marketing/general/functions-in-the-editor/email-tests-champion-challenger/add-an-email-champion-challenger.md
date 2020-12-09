@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: Voeg een e-mailkampioen/challenger toe - Marketo Docs - Productdocumentatie
 title: Een e-mailkampioen/challenger toevoegen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Het is een goed idee om e-mails te testen die je vaak gebruikt om er zeker van t
 De bestaande e-mail die u test, wordt beschouwd als de kampioen. Alle varianten die u binnen een test maakt, worden beschouwd als de uitdagers. U bepaalt het percentage mensen dat de champion-inhoud of de uitdager-inhoud ontvangt. Als je meerdere uitdagers hebt gedefinieerd, zullen ze gelijkelijk verdeeld worden over de klaaggroep.\
 Zo ga je aan de slag.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een programma maken](../../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Een e-mail maken](../../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
