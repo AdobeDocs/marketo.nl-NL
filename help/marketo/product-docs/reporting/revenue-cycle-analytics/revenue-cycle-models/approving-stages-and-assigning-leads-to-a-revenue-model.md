@@ -3,9 +3,9 @@ unique-page-id: 4718683
 description: Het goedkeuren van Stages en het toewijzen van Leidingen aan een Model van de Inkomsten - Marketo DOS - de Documentatie van het Product
 title: Het goedkeuren van Stages en het toewijzen van Leidingen aan een model van de Inkomsten
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -92,9 +92,7 @@ Creeer een regel van de Score van de Lood om de nieuwe lood met een minimumscore
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >Om uw model goed te keuren, leest u onze Help-pagina op ** [Een inkomstenmodel](approve-unapprove-a-revenue-model.md)goedkeuren en opheffen**.
 
