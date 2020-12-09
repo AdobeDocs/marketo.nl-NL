@@ -3,9 +3,9 @@ unique-page-id: 10095636
 description: No-Draft inschakelen voor fragmenten - Marketo Docs - Productdocumentatie
 title: Niet-concept inschakelen voor fragmenten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ No-Draft wordt automatisch toegelaten voor alle rollen van de Beheerder. Een beh
 >
 >Als u Geen concept wilt uitschakelen, voert u de bovenstaande stappen 1-4 uit, schakelt u het selectievakje Geen concept uit en klikt u op **Opslaan**.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Een fragment goedkeuren zonder concept](../../../../product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
 
