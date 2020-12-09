@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Voorspelende inhoud voor webrijke media - Marketo Docs - Productdocumentatie inschakelen
 title: Voorspelende inhoud voor web-rijke media inschakelen
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Met voorspellende inhoud hebben uw webbezoekers de meest relevante inhoud, aangedreven door machinaal leren en voorspellende analyses. Met Web Rich Media, kunt u uw inhoud met tekstbeschrijvingen en beelden verbeteren en veelvoudige voorspellende inhoudaanbevelingen op uw website inbedden.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Voordat u voorspellende inhoud inschakelt, moet u:
 >
