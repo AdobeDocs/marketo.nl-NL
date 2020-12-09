@@ -3,9 +3,9 @@ unique-page-id: 3571892
 description: Veldorganisatoren gebruiken - Marketo Docs - Productdocumentatie
 title: VeldOrganizer gebruiken
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,6 @@ De Organisatoren van het Gebied worden gebruikt in de ModelAnalyse van Prestatie
 
 Maak op dezelfde manier meer veldorganisaties, als u ze nodig hebt. En daar ben je.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Aangepaste veldgroepen maken met de veldOrganizer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
