@@ -3,9 +3,9 @@ unique-page-id: 12983291
 description: Begrijpen van de tijdzone van de Ontvanger - Marketo Docs - de Documentatie van het Product
 title: Tijdzone van ontvanger
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,7 @@ Als we nog steeds de tijdzone van iemand van om het even welke combinatie van de
 >
 >Marketo berekent automatisch de tijdzone van een persoon opnieuw wanneer een van de bovenstaande invoervelden wordt gewijzigd.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [E-mailprogramma&#39;s met tijdzone voor ontvangers plannen](schedule-email-programs-with-recipient-time-zone.md)
 >* [Begin voor e-mailprogramma&#39;s](../../../../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
