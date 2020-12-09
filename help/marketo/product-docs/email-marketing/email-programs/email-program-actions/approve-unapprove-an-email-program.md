@@ -3,9 +3,9 @@ unique-page-id: 2359462
 description: Een e-mailprogramma goedkeuren/goedkeuren — Marketo Docs — Productdocumentatie
 title: Een e-mailprogramma goedkeuren/goedkeuren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Een e-mailprogramma goedkeuren/goedkeuren {#approve-unapprove-an-email-program}
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een e-mailprogramma maken](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Bepaal een Publiek met een Slimme Lijst](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) of door een Publiek te [bepalen door een Lijst in te voeren](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
@@ -54,7 +52,7 @@ Nu uw programma klaar is om te starten, moet u het goedkeuren. Hieronder wordt b
 
    ![](assets/image2014-9-12-13-3a43-3a44.png)
 
-   Perfect! Je bent klaar. Je e-mailbericht wordt verzonden op het geplande tijdstip.
+   Perfect! Je bent klaar. Je e-mail wordt verzonden op het geplande tijdstip.
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
