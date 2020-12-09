@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: Prioriteit segmentatievolgorde - Marketo Docs - Productdocumentatie
 title: Prioriteit segmentvolgorde
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Het is belangrijk om te begrijpen hoe de **orde** de prioriteit voor evaluatie van uw mensen in een segmentatie plaatst.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een segmentatie maken](create-a-segmentation.md)
 >* [Segmentregels definiëren](define-segment-rules.md)
