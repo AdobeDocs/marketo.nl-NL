@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Vergelijk de doeltreffendheid van het Kanaal met de Analysator van het Programma - Marketo Docs - de Documentatie van het Product
 title: Kanaaleffectiviteit vergelijken met de programmaanalyse
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Gebruik Analyzer van het Programma om kanaalkosten, lidverwerving, pijpleiding, opbrengst en meer te vergelijken, om uw meest en minst efficiënte kanalen te identificeren.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een programmaanalyse maken](create-a-program-analyzer.md)
 
