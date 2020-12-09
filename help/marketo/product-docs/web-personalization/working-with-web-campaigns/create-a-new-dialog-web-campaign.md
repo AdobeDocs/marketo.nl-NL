@@ -3,9 +3,9 @@ unique-page-id: 4719398
 description: Een nieuwe webcampagne voor dialoog maken - Marketo Docs - Productdocumentatie
 title: Nieuwe webcampagne voor dialoog maken
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '762'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -158,9 +158,7 @@ Zie Een webcampagne [klonen](clone-a-web-campaign.md).
 
 1. Er verschijnt een bevestigingsbericht om te bevestigen of u de webcampagne wilt verwijderen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Nieuwe webcampagne maken in zone](create-a-new-in-zone-web-campaign.md)
 >* [Nieuwe widgetwebcampagne maken](create-a-new-widget-web-campaign.md)
