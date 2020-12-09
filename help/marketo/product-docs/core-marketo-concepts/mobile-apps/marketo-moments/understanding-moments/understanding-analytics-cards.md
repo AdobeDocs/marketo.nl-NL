@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Analysecards - Marketo Docs - Productdocumentatie
 title: Analysecards
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Op de **creditcard** Unsubscribes ziet u een trending report van maand tot maand
 
 Nu weet je het.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Marketo-momenten begrijpen](understanding-marketo-moments.md)
 >* [Gebeurteniskaarten](understanding-event-cards.md)
