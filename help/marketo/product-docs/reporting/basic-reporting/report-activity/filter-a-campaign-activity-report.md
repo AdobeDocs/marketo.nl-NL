@@ -3,9 +3,9 @@ unique-page-id: 2360184
 description: Een campagneactiviteitenrapport filteren - Marketo Docs - Productdocumentatie
 title: Een campagneactiviteitenrapport filteren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,7 @@ Focus uw [campagneactiviteitenverslag](../../../../product-docs/reporting/basic-
 
    ![](assets/image2014-9-16-16-3a14-3a32.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Rapport over e-mailprestaties voor campagne](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 
