@@ -3,9 +3,9 @@ unique-page-id: 10093157
 description: Een webcampagne klonen - Marketo Docs - Productdocumentatie
 title: Een webcampagne klonen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Gebruik de klooneigenschap op de pagina van de Campagnes van het Web om de campa
    >
    >Alle inhoud in de webcampagne wordt gekopieerd naar de klooncampagne, behalve gesplitste tests. Vergeet dus niet een gesplitste testgroep toe te voegen aan de gekloonde campagne als u deze wilt testen op anderen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Nieuwe webcampagne maken in zone](create-a-new-in-zone-web-campaign.md)
 >* [Nieuwe widgetwebcampagne maken](create-a-new-widget-web-campaign.md)
