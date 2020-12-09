@@ -3,9 +3,9 @@ unique-page-id: 2949844
 description: Een nieuw gebeurtenisprogramma maken - Marketo Docs - Productdocumentatie
 title: Een nieuw gebeurtenisprogramma maken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Met gebeurtenissen kunt u online en offline gebeurtenissen automatiseren! Leg de
 
 Ta-da! Uw nieuwe gebeurtenis wordt nu in de structuur weergegeven. Wanneer uw gebeurtenis is gemaakt, maakt u de [bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulieren](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)en [e-mails](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) om uw gasten uit te nodigen! U zult ook met de mening [van het](http://docs.marketo.com/display/docs/program+schedule+view)programmaprogramma vertrouwd willen worden.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Marketingkalender](http://docs.marketo.com/display/docs/marketing+calendar)
 >* [Periode-kosten in een programma gebruiken](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
