@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Openingspagina's op Facebook publiceren - Marketo Docs - Productdocumentatie
 title: Openingspagina's op Facebook publiceren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ U kunt uw bestemmingspagina&#39;s naar Facebook publiceren, uw publiek ontmoeten
 >
 >SMB Spark, Standard &amp; Select. Ondernemingen met een aparte licentie.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Je pagina moet minstens 2000 sites hebben voordat je op Facebook kunt publiceren.
 
