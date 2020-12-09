@@ -2,9 +2,9 @@
 title: apply-communication-limits-to-a-smart-campagne
 description: Communicatielimieten toepassen op een slimme campagne
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Het is geen goed idee om iemand meerdere keren per dag of te vaak per week te e-
 >
 >Wanneer iemand de ingestelde communicatielimieten overschrijdt, blokkeert Marketo niet-operationele e-mailberichten (operationele e-mails worden altijd verzonden).
 
-1. Selecteer uw slimme campagne en klik op het tabblad [!UICONTROL **Planning**] .
+1. Selecteer uw slimme campagne en klik op het **[!UICONTROL Schedule]** tabblad.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-1.png)
 
-1. Open [!UICONTROL Qualification Rules] en schakel het selectievakje Niet-operationele e-mailberichten [!UICONTROL ****] blokkeren in.
+1. Open [!UICONTROL Qualification Rules] en schakel het **[!UICONTROL Block non-operational emails]** selectievakje in.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-2.png)
 
