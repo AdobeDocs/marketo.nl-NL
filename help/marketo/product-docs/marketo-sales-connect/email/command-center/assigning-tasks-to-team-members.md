@@ -3,9 +3,9 @@ unique-page-id: 45417460
 description: Het toewijzen van Taken aan de Leden van het Team - Marketo Docs - de Documentatie van het Product
 title: Taken toewijzen aan teamleden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Als u met andere teamleden wilt samenwerken, kan het toewijzen van taken een gro
 
    ![](assets/nine.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Hoe te om een Groep te delen](http://docs.marketo.com/x/fwDb)
 
