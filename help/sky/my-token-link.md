@@ -2,9 +2,9 @@
 title: my-token-link
 description: Mijn token-koppeling
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,6 @@ Hier is hoe te opstelling een teken van de Verbinding voor gebruik in uw program
    >
    >Als Include mkt_tok wordt gecontroleerd, toont Marketo een verbindingsvoorproef van het branded volgende domein (b.v., http://mkto-sjqe3355.com/mn/...). Als u dit selectievakje uitschakelt, wordt de koppeling gewijzigd. Als u het bijhouden van koppelingen voor e-mails of bestemmingspagina&#39;s uitschakelt, wordt >de URL ingekort tot de standaardlengte (bijvoorbeeld www.examplepage.com).
 
-1. U kunt de koppeling desgewenst onder [!UICONTROL Advanced]CSS aanpassen. Klik op [!UICONTROL **Opslaan**].
+1. U kunt de koppeling desgewenst onder [!UICONTROL Advanced]CSS aanpassen. Klik **[!UICONTROL Save]**.
 
    ![Afbeelding vier](/help/sky/assets/my-tokens/my-token-link/my-token-link-4.png)
