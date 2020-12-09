@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: Bepaal de Criteria van de Winner van de Test A/B - Marketo Docs - de Documentatie van het Product
 title: Bepaal de Criteria van de Winner van de Test A/B
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Wanneer u een A/B-test [aan uw e-mailprogramma](add-an-a-b-test.md) toevoegt, moet u een testtype kiezen, de A/B-test [](schedule-the-a-b-test.md)plannen en vervolgens de criteria voor winnaars definiëren. Hier is hoe je bepaalt welke e-mail wint.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een A/B-test toevoegen](add-an-a-b-test.md)
 
