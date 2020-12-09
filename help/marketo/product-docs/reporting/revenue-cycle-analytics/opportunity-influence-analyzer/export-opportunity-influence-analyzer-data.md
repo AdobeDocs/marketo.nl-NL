@@ -3,9 +3,9 @@ unique-page-id: 2360394
 description: Export Opportunity Influence Analyzer Data - Marketo Docs - Productdocumentatie
 title: Export Opportunity Influence Analyzer Data
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Als u updates wilt ontvangen van uw [inkomstencyclusrapporten in de Verkenner](h
 
    ![](assets/image2014-9-17-12-3a42-3a53.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >Leer hoe u al uw rapportabonnementen [op één plaats kunt](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) beheren.
 
