@@ -3,9 +3,9 @@ unique-page-id: 2950549
 description: Vorm sociaal Aanbevolen Stroom - Marketo Docs - de Documentatie van het Product
 title: Vorm Sociale Aanbevolen Stroom
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -127,9 +127,7 @@ Indien u dit wenst, worden de waarden van de OpenGraph-tags van de pagina (og:ti
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >De volgende stap bestaat uit het [toevoegen van uw videoshare](customize-video-share-flow.md) of [opiniepeiling](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) aan een openingspagina, Facebook of uw eigen website.
 
