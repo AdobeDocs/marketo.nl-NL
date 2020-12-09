@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: Inzicht in inkomstenmodellen - Marketo-documenten - productdocumentatie
 title: Inkoopmodellen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -89,9 +89,7 @@ Geef aan hoe een lead precies van het ene stadium naar het andere gaat met behul
 
 Hier zijn een paar verbindingen die nuttig kunnen zijn hoopvol. (of hopelijk nuttig - neem uw keuze!)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Een nieuw inkomstenmodel maken](create-a-new-revenue-model.md)
 >
@@ -105,9 +103,7 @@ Een werkgebied toevoegen van het pad voor blijvend succes   ![](assets/image2015
 
 Verloren is een goede om toe te voegen, maar u ziet dat het niet op het groene pad staat. Dat komt omdat het geen &quot;succes&quot; is.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Rapport over uw inkomstenmodel](report-on-your-revenue-model.md)
 >
