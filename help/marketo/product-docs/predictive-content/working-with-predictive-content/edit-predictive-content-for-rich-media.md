@@ -3,9 +3,9 @@ unique-page-id: 11385940
 description: Voorspelende inhoud voor rijke media bewerken - Marketo Docs - Productdocumentatie
 title: Predictieve inhoud voor rijke media bewerken
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 Hier is hoe te opstelling uw vooruitlopende inhoud voor Rijke Media.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Inhoud moet worden [goedgekeurd voor voorspellende inhoud](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de pagina Alle inhoud.
 
