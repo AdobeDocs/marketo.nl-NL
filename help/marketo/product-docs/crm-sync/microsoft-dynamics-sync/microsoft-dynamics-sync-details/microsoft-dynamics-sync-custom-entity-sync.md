@@ -3,9 +3,9 @@ unique-page-id: 3571846
 description: Microsoft Dynamics Sync - Custom Entity Sync - Marketo Docs - Productdocumentatie
 title: Microsoft Dynamics Sync - Custom Entity Sync
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Als u de aanvankelijke synchronisatie van de douaneentiteit moet toelaten om geg
 >
 >**Beheerdersmachtigingen vereist**
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Als u een aangepast object wilt gebruiken, moet het worden gekoppeld aan een [lead](microsoft-dynamics-sync-lead-sync.md), [contact](microsoft-dynamics-sync-contact-sync.md)of [](microsoft-dynamics-sync-account-sync.md)accountobject in Dynamics.
 
