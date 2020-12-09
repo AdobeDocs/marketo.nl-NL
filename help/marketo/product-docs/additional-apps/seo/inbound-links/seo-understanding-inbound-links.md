@@ -3,9 +3,9 @@ unique-page-id: 2949226
 description: SEO - Begrijpen van Binnenkomende Verbindingen - Marketo Docs - de Documentatie van het Product
 title: SEO - Inkomende koppelingen begrijpen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,7 @@ Binnenkomende koppelingen geven aan zoekprogramma&#39;s aan dat uw site het verm
 
 Zoet! Nu u binnenkomende verbindingen begrijpt, kunnen wij meer binnenkomende verbindingsmogelijkheden voor uw plaats voorstellen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Binnenkomende koppelingssuggesties ophalen](seo-get-inbound-link-suggestions.md)
 
