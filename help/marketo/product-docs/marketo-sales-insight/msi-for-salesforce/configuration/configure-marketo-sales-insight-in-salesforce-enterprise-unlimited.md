@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Marktverkoopinzicht configureren in Salesforce Enterprise/Onbeperkt - Marketo Docs - Productdocumentatie
 title: Marktverkoopinzicht configureren in Salesforce Enterprise/Onbeperkt
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Hier zijn de stappen u moet nemen om het Inzicht van de Verkoop van de Marketo in Salesforce Onderneming/Onbeperkte Uitgaven te vormen. Laten we beginnen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Configureer Marktsynchronisatie in uw Salesforce Enterprise/Unlimited Edition](http://docs.marketo.com/pages/viewpage.action?pageid=2360372)
 >* [Pakket met marketinggegevens in Salesforce AppExchange installeren](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
