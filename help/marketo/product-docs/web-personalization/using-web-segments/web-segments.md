@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Websegmenten - Marketo Docs - Productdocumentatie
 title: Websegmenten
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '2033'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -342,8 +342,7 @@ U kunt geen segment verwijderen dat aan een campagne is gekoppeld. Eerst moet u 
 
 Geweldig! Nu u de sectie van Segmenten begrijpt, leren wij over campagnes.
 
->[!NOTE]
-**Verwante artikelen**
+>[!MORELIKETHIS]
 * [Een basiswebsegment maken](create-a-basic-web-segment.md)
 * [Nieuwe webcampagne voor dialoog maken](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 * [Nieuwe webcampagne maken in zone](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
