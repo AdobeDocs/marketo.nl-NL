@@ -3,9 +3,9 @@ unique-page-id: 45416564
 description: Laat Opname van de Vraag toe - Marketo Docs - de Documentatie van het Product
 title: Schakel Call Recording in
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Als beheerder kunt u vraagopname voor uw Verkoop toelaten Connect vraag. Het reg
 
    ![](assets/four.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Instellingen voor twee partijen voor toestemming](http://docs.marketo.com/x/dgC1Ag)
 
