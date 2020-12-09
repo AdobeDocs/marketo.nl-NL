@@ -3,9 +3,9 @@ unique-page-id: 11377392
 description: Uw standaardbrandingdomein bewerken - Marketo Docs - Productdocumentatie
 title: Uw standaardbrandingdomein bewerken
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Het bewerken van uw standaardbrandingdomein is de eerste stap bij het werken met brandingdomeinen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Zorg ervoor u [opstelling een NAAM in uw DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) alvorens u uw brandende domeinen in Marketo toevoegt.
 
