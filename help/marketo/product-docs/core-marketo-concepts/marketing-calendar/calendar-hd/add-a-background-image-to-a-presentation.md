@@ -3,9 +3,9 @@ unique-page-id: 7504437
 description: Een achtergrondafbeelding toevoegen aan een presentatie - Marketo Docs - Productdocumentatie
 title: Een achtergrondafbeelding aan een presentatie toevoegen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Pas een presentatie aan door een achtergrondafbeelding te selecteren.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een presentatie maken](create-a-presentation.md)
 
