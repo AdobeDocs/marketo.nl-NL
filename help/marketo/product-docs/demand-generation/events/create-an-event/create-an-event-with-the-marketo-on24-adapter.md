@@ -3,9 +3,9 @@ unique-page-id: 10096656
 description: Creeer een Gebeurtenis met de Adapter van Marketo ON24 - Marketo Docs - de Documentatie van het Product
 title: Creeer een Gebeurtenis met de Adapter Marketo ON24
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Ga als volgt te werk om een gebeurtenis te maken met de adapter Marketo On24:
 1. [Werken met de status van het Webinar-programma](create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
 1. [ON24 Updates voor gebeurtenisregistratie](create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Inzicht in Marketo ON24-adaptergebeurtenissen](create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
 
