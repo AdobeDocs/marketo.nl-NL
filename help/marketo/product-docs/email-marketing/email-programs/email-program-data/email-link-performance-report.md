@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: E-mailkoppelingprestatie - Marketo Docs - Productdocumentatie
 title: E-mailkoppelingsprestatierapport
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in u
 >
 >Als u precies wilt weten wat een persoon heeft gedaan, kunt u het [activiteitenlogboek](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) openen op de pagina [Persondetails](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) op het tabblad Leden in het programma.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [E-mailprestatierapport](email-performance-report.md)
 >* [Middelen in een e-mailrapport filteren](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
