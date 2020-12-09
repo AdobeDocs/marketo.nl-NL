@@ -3,9 +3,9 @@ unique-page-id: 7512270
 description: Adobe Connect toevoegen als een opstartpuntservice - Marketo Docs - Productdocumentatie
 title: Adobe Connect toevoegen als een LaunchPoint-service
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,7 @@ Marketo beheert uw Adobe Connect-webinarregistratie en -aanwezigheid.
 
    ![](assets/adobe-connect-service.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >Leer hoe u een gebeurtenis [maakt met Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
 
