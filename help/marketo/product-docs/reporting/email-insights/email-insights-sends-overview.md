@@ -3,9 +3,9 @@ unique-page-id: 10099413
 description: E-mailinzichten verzenden overzicht - Marketo-documenten - productdocumentatie
 title: E-mailinzichten verzenden overzicht
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Als u de status van uw e-mailbericht wilt weergeven in Analytics, plaatst u de m
 
 Koel spul!
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Overzicht van e-mailinzichten](email-insights-analytics-overview.md)
 
