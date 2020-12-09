@@ -3,9 +3,9 @@ unique-page-id: 2953338
 description: Verstuur een E-mail van de Verkoop van de Marketo van de Dynamica van Microsoft - Marketo Docs - de Documentatie van het Product
 title: E-mail met marketinggegevens van Microsoft Dynamics verzenden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,7 @@ Uw verkoopteam kan e-mails verzenden en deze laten volgen voor openen en rechtst
 
 Echt waar! Nu weet u hoe u Marketo bijgehouden e-mails rechtstreeks vanuit Microsoft Dynamics kunt verzenden.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Voeg een Lood/Contact aan een Campagne van de Marketo van de Dynamiek van Microsoft toe](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
 
