@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: Navigeren in de overzichtsweergave van het programma - Marketo Docs - Productdocumentatie
 title: Navigeren door de programmaweergave
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,7 @@ Hier zijn de grondbeginselen om u te helpen de mening van het programmaprogramma
 
 Geweldig! Nu je weet hoe je je programma kunt bekijken, leren we de andere coole dingen die het kan doen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Het creëren van een Ingang in de Mening van het Programma](creating-an-entry-in-the-program-schedule-view.md)
 
