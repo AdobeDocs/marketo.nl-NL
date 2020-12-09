@@ -3,9 +3,9 @@ unique-page-id: 2359469
 description: Het dashboard voor het e-mailprogramma weergeven - Marketo Docs - Productdocumentatie
 title: Het dashboard voor het e-mailprogramma weergeven
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Als u geen A/B-test hebt toegevoegd *of* als de test voorbij is, moet het volgen
 >
 >Experimenteer door de cursor boven de diagramwidgets te plaatsen. Er wordt aanvullende informatie weergegeven.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Het dashboard voor het e-mailprogramma gebruiken - A/B-testweergave](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 >* [Het dashboard voor het e-mailprogramma gebruiken](use-the-email-program-dashboard.md)
