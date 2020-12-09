@@ -2,9 +2,9 @@
 title: save-flow-acties
 description: Stroomhandelingen opslaan
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ De stappen van de stroom vertellen Marketo wat u met een groep mensen wilt hebbe
 
    ![Afbeelding één](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-1.png)
 
-1. Nadat u uw slimme lijst hebt ingesteld, klikt u op [!UICONTROL **Stroom**].
+1. Klik op de slimme lijst nadat u deze hebt ingesteld **[!UICONTROL Flow]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-2.png)
 
@@ -32,11 +32,11 @@ De stappen van de stroom vertellen Marketo wat u met een groep mensen wilt hebbe
 
    ![Afbeelding vier](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-4.png)
 
-1. Wanneer u klaar bent met het toevoegen van filters/triggers, klikt u op de vervolgkeuzelijst [!UICONTROL **Slimme Campagnehandelingen**] en selecteert u Nieuwe stroom [!UICONTROL ****] opslaan.
+1. Als u klaar bent met het toevoegen van filters/triggers, klikt u op de **[!UICONTROL Smart Campaign Actions]** vervolgkeuzelijst en selecteert u **[!UICONTROL Save New Flow]**.
 
    ![Afbeelding vijf](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-5.png)
 
-1. Geef de flow een naam en klik op [!UICONTROL **Opslaan**].
+1. Geef de flow een naam en klik op **[!UICONTROL Save]**.
 
    ![Afbeelding zes](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-6.png)
 
@@ -48,11 +48,11 @@ En je bent klaar. De volgende keer dat u een slimme campagne maakt, hebt u toega
 
    ![Afbeelding zeven](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. Klik op [!UICONTROL **Stroom**].
+1. Klik **[!UICONTROL Flow]**.
 
    ![Afbeelding acht](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
-1. Klik op de vervolgkeuzelijst [!UICONTROL **Opgeslagen stromen**] .
+1. Klik op de **[!UICONTROL Saved Flows]** vervolgkeuzelijst.
 
    ![Afbeelding negen](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-9.png)
 
