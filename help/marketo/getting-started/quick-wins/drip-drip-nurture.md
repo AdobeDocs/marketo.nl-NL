@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture - Marketo Docs - Productdocumentatie
 title: Drip, Drip, Nurture
 translation-type: tm+mt
-source-git-commit: 09dbd3a141fed0525aec8bf1ca6d141be2a6ce46
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd verfrissingssysteem m
 >
 >Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Instellen en een persoon toevoegen](get-set-up-and-add-a-person.md)
 >* [Een lijst met personen importeren](import-a-list-of-people.md)
