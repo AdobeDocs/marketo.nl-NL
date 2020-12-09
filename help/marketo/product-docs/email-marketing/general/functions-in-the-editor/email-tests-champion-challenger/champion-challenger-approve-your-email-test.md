@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger - Goedkeuren van uw e-mailtest - Marketo Docs - Productdocumentatie
 title: Champion/Challenger - Uw e-mailtest goedkeuren
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 De laatste stap bij het instellen van uw e-mailtest om deze goed te keuren. Zo gaat het.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Champion/Challenger: Rapportwaarschuwingen configureren](champion-challenger-configure-report-alerts.md)
 
