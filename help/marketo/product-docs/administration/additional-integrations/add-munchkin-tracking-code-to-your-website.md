@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: Munchkin-trackingcode toevoegen aan uw website - Marketo Docs - Productdocumentatie
 title: Munchkin-trackingcode toevoegen aan uw website
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo&#39;s aangepaste JavaScript-trackingcode, Munchkin, volgt alle personen die uw website bezoeken, zodat u op hun bezoeken kunt reageren met geautomatiseerde marketingcampagnes. Zelfs worden de anonieme bezoekers gevolgd samen met hun IP adressen en andere informatie. ** Zonder deze code kunt u geen bezoeken of andere activiteiten op uw website volgen.**
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Zorg ervoor dat u toegang hebt tot een ervaren JavaScript-ontwikkelaar. Marketo Technical Support is niet ingesteld als hulp bij het oplossen van problemen met aangepaste JavaScript.
 
