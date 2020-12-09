@@ -3,9 +3,9 @@ unique-page-id: 10099408
 description: Overzicht van e-mailinzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van e-mailinzichten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,7 @@ Klik op Metrische balken om de kleuren in getallen om te zetten.
 
 Alle standaardafmetingen voor markeren zijn inbegrepen, maar u kunt maximaal 10 aangepaste afmetingen toevoegen. [Aangepaste afmetingen](custom-dimensions-for-email-insights.md) bestaan uit segmentaties en programmatags.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Overzicht van e-mailinzichten](email-insights-analytics-overview.md)
 >* [E-mailinzichten verzenden overzicht](email-insights-sends-overview.md)
