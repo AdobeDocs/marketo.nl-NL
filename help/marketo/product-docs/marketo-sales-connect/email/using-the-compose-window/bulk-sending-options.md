@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: Opties voor bulkverzending - Marketo Docs - Productdocumentatie
 title: Opties voor bulkverzending
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Selecteren en verzenden gebruiken
 
 Standaard bewerkt u de gegevens voor alle ontvangers. Maar u kunt ook elke afzonderlijke e-mail selecteren om aangepaste bewerkingen uit te voeren. Dit kan ideaal zijn voor het toevoegen van één of meerdere unieke lijn(en) van aanpassing aan ontvangers u een meer gepersonaliseerde benadering met wilt nemen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Bulke-mails samenstellen met Selecteren en Verzenden](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 >* [E-mailberichten verzenden via e-mail voor groep](http://docs.marketo.com/x/KAQ6Ag)
