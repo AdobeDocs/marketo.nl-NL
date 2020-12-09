@@ -3,9 +3,9 @@ unique-page-id: 11377406
 description: Uw standaardbrandingdomein met werkruimten bewerken - Marketo Docs - Productdocumentatie
 title: Uw standaardbrandingdomein met werkruimten bewerken
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
 Nu kunt u extra brandingdomeinen [](add-an-additional-branding-domain-with-workspaces.md) toevoegen die u voor de werkruimten nodig hebt.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een extra brandingdomein toevoegen met werkruimten](add-an-additional-branding-domain-with-workspaces.md)
 
