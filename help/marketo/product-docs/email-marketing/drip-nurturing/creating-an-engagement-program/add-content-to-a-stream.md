@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: Inhoud toevoegen aan een stream - Marketo Docs - Productdocumentatie
 title: Inhoud toevoegen aan een stream
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -116,9 +116,7 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud toevoegen aan de 
 
 Geweldig werk! U kent nu verschillende manieren om inhoud toe te voegen aan uw programmastromen. Voeg zoveel toe als u nodig hebt voor uw verzorging. Zie het verwante artikel hieronder voor meer informatie.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een programma toevoegen aan een betrokkenheidsprogramma](adding-a-program-to-an-engagement-program-stream.md)
 
