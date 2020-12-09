@@ -3,9 +3,9 @@ unique-page-id: 3571886
 description: Het gebruiken van de Analysator van de Weg van het Succes - Marketo Dos - de Documentatie van het Product
 title: De Padanalyse met succes gebruiken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Gebruik een Analysator van de Weg van het Succes om de specifieke details te onderzoeken die zowel stroom (hoeveelheid) als snelheid (snelheid, in termen van dagen) van mensen door de stadia van uw Model [van de](understanding-revenue-models.md)Inkoopcyclus weerspiegelen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >[Een padanalyse met succes maken](create-a-success-path-analyzer.md)
 
