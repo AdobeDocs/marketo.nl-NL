@@ -3,9 +3,9 @@ unique-page-id: 37356565
 description: Een bijgehouden e-mail verzenden - Marketo Docs - Productdocumentatie
 title: Een bijgehouden e-mail verzenden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Wanneer u een e-mail verzendt met Marketo Sales Connect, worden de weergaven (e-mail wordt geopend) en klikken (op koppelingen) bijgehouden.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >U moet een identiteit laten verifiëren en een e-mailleveringskanaal instellen voordat u een bijgehouden e-mail verzendt.
 >
