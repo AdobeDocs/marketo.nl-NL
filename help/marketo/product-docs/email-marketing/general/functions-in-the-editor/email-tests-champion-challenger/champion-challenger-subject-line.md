@@ -3,9 +3,9 @@ unique-page-id: 2359557
 description: Champion/Challenger - Onderwerpregel - Marketo Docs - Productdocumentatie
 title: Champion/Challenger — Onderwerpregel
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, stuurt u e-mails met de meest effectieve is. Zo doe je het.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een e-mailkampioen/challenger toevoegen](add-an-email-champion-challenger.md)
 
