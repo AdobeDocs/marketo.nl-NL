@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: E-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor Outlook - Marketo Docs - Productdocumentatie
 title: E-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor Outlook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 U kunt e-mails met Marketo rechtstreeks vanuit Outlook verzenden en volgen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Installeer de add-in voor [Marketo voor Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)als u dat nog niet hebt gedaan.
 
