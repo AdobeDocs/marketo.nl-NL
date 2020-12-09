@@ -3,9 +3,9 @@ unique-page-id: 2359811
 description: Kies de Share URL voor een sociale app - Marketo Docs - Productdocumentatie
 title: Kies de URL voor delen voor een sociale app
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Wanneer u een sociale app maakt, kunt u kiezen welke URL door de deelnemers word
    >    * **Externe URL**: Een landingspagina die geen Marketo is.
 
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Uw privacybeleid toevoegen aan een sociale app](add-your-privacy-policy-to-a-social-app.md)
 
