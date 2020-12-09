@@ -3,9 +3,9 @@ unique-page-id: 2949168
 description: Het gebruiken van Malplaatjes om de Campagnes van het Web tot stand te brengen - Marketo Docs - de Documentatie van het Product
 title: Webcampagnes maken met sjablonen
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,7 @@ Versnel en vereenvoudig het maken van uw webcampagne met onze ingebouwde sjablon
 
 Echt waar! Heb je gezien hoeveel tijd je hebt bespaard door een sjabloon te gebruiken?
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een campagne opslaan als een sjabloon](save-your-campaign-as-a-template.md)
 
