@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: Aangepaste objecten Marketo maken - Marketo Docs - Productdocumentatie
 title: Aangepaste objecten markeren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '710'
 ht-degree: 0%
 
 ---
@@ -133,9 +133,7 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
 
    De volgende stap is dat u koppelingsgebieden [](add-marketo-custom-object-link-fields.md) toevoegt om uw intermediair voorwerp met een persoon/bedrijf en een douanevoorwerp te verbinden.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Markeren toevoegen aan aangepaste objectvelden](add-marketo-custom-object-fields.md)
 >* [Markeren toevoegen aan aangepaste objectkoppelingsvelden](add-marketo-custom-object-link-fields.md)
