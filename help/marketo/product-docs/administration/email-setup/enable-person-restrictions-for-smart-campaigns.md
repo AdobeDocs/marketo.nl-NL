@@ -3,9 +3,9 @@ unique-page-id: 2360243
 description: Personenbeperkingen voor slimme campagnes inschakelen - Marketo Docs - Productdocumentatie
 title: Personenbeperkingen voor slimme campagnes inschakelen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -58,9 +58,7 @@ Er is een functie in Marketo om het ***maximum ***aantal mensen te beperken dat 
 
 Bingo! Je hebt net de veiligheidsschakelaar ingeschakeld. Goed idee, toch?
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Persoonlijke beperkingen in een slimme campagne negeren](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 
