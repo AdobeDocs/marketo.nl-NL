@@ -2,9 +2,9 @@
 title: understanding-target-tracking-and-projected-registrations
 description: Begrijpen van Goal Tracking en Geprojecteerde Registraties
 translation-type: tm+mt
-source-git-commit: 1231bc32a3abdf66c10864d6605234763618dbe0
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '969'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Na het [plaatsen van gebeurtenisdoelstellingen](/help/sky/setting-event-goals.md
 
 ## Goederenregistratie en verwachte registratie
 
-1. Meer informatie over het bijhouden van doelen vindt u op het tabblad [!UICONTROL **Rapporten**] van het gebeurtenisprogramma. In dit specifieke voorbeeld zijn er tot nu toe 150 geregistreerde leden tegen een doelstelling van 200 (75%).
+1. Meer informatie over het bijhouden van doelen vindt u op het **[!UICONTROL Reports]** tabblad van uw gebeurtenisprogramma. In dit specifieke voorbeeld zijn er tot nu toe 150 geregistreerde leden tegen een doelstelling van 200 (75%).
 
    ![Afbeelding één](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-U ziet ook uw [!UICONTROL **Geprojecteerde**] registraties. Houd de muisaanwijzer boven het informatiepictogram om een uitsplitsing van dit getal per Likelihood-segment te zien.
+U ziet ook uw **[!UICONTROL Projected]** registraties. Houd de muisaanwijzer boven het informatiepictogram om een uitsplitsing van dit getal per Likelihood-segment te zien.
 
 ![Afbeelding twee](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -69,7 +69,7 @@ Bij de bovenkant van de pagina van Rapporten, kunt u AI/ML-gedreven aanbevelinge
 
 ## voorspellingen op persoonniveau
 
-Klik op het tabblad [!UICONTROL **Leden**] om al uw programmaleden weer te geven. Houd de muisaanwijzer boven de [!UICONTROL **registratiewaarschijnlijkheid**] of de [!UICONTROL **zichtbare**] deelnemingsbalken om exacte percentages en categorieën weer te geven. Vervolgens kunt u actie ondernemen tegen leden in een bepaalde categorie (bijvoorbeeld iedereen in de categorie &quot;Minder waarschijnlijk&quot; om zich te registreren) en u kunt deze specifiek richten op het mogelijk verhogen van uw registratienummers.
+Klik op het **[!UICONTROL Members]** tabblad om al uw programmaleden weer te geven. Houd de muisaanwijzer boven de **[!UICONTROL Registration Likelihood]** staven of de **[!UICONTROL Attendance Likelihood]** balken om exacte percentages en categorieën weer te geven. Vervolgens kunt u actie ondernemen tegen leden in een bepaalde categorie (bijvoorbeeld iedereen in de categorie &quot;Minder waarschijnlijk&quot; om zich te registreren) en u kunt deze specifiek richten op het mogelijk verhogen van uw registratienummers.
 
 ![Afbeelding zeven](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
