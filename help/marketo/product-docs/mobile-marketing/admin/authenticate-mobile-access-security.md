@@ -3,9 +3,9 @@ unique-page-id: 10096158
 description: Verifieer de Mobiele Veiligheid van de Toegang - Marketo Docs - de Documentatie van het Product
 title: Beveiliging mobiele toegang verifiëren
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Marketo biedt twee nieuwe id&#39;s om de beveiliging voor mobiele gebruikers te 
 
 Als u de id&#39;s wilt inschakelen, moet u de codes aanschaffen en deze aan uw IT-afdeling verstrekken, zodat deze een veilige overeenkomst kunnen instellen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Om deze functie in te schakelen, neemt u contact op met de ondersteuningsafdeling en vraagt u om &quot;Vespa Secure Mode&quot;.
 
