@@ -2,9 +2,9 @@
 title: marketo-image-editor
 description: Markeren naar afbeeldingseditor
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -24,10 +24,10 @@ Met de afbeeldingseditor kunt u snel en licht bewerken in uw afbeeldingen in de 
 
    ![Afbeelding twee](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-2.png)
 
-1. Klik op de knop Afbeelding [!UICONTROL ****] bewerken.
+1. Klik op de **[!UICONTROL Edit Image]** knop.
 
    ![Afbeelding drie](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-3.png)
 
-1. U kunt kiezen uit verschillende functies in de werkbalk bovenaan. Klik op [!UICONTROL **Opslaan**] als u klaar bent.
+1. U kunt kiezen uit verschillende functies in de werkbalk bovenaan. Klik **[!UICONTROL Save]** wanneer gereed.
 
    ![Afbeelding vier](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-4.png)
