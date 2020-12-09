@@ -2,9 +2,9 @@
 title: een slimme campagne opzetten
 description: Een slimme campagne maken
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Slimme campagnes zijn het belangrijkste instrument in [!DNL Marketo]. Ze kunnen 
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-1.png)
 
-1. Klik met de rechtermuisknop op de selectie en kies [!UICONTROL **Slimme campagne**] maken.
+1. Klik met de rechtermuisknop op de selectie en kies **[!UICONTROL Create Smart Campaign]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-2.png)
 
@@ -28,6 +28,6 @@ Slimme campagnes zijn het belangrijkste instrument in [!DNL Marketo]. Ze kunnen 
 >
 >U kunt slimme campagnes maken als lokale middelen van elk programma.
 
-1. Geef een naam op voor de slimme campagne (en voeg optionele beschrijving/labels toe) en klik op [!UICONTROL **Maken**].
+1. Geef uw slimme campagne een naam (en voeg optionele beschrijving/labels toe) en klik op **[!UICONTROL Create]**.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-3.png)
