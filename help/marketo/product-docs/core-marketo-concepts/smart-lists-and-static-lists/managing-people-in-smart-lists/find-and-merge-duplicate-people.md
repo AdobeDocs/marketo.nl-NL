@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Dupliceren personen zoeken en samenvoegen - Marketo Docs - Productdocumentatie
 title: Dubbele personen zoeken en samenvoegen
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. U
 >
 >Marketo wordt niet automatisch gededupliceerd bij een synchronisatie met Salesforce of Microsoft Dynamics, of wanneer u handmatig personen invoert.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Bij het zoeken naar en het samenvoegen van duplicaten wordt gebruikgemaakt van [ingebouwde/systeem slimme lijsten](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
