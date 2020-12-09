@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Validatie Microsoft Dynamics Sync - Marketo Docs - Productdocumentatie
 title: Synchronisatie van Microsoft-dynamiek valideren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Het is zeer belangrijk om het Validate hulpmiddel van de Synchronisatie in werki
    >
    >Momenteel ondersteunen we sandbox-vernieuwing voor Marketo Dynamics Sync niet. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van de Marketo worden vereist. Neem contact op met de succesmanager van de klant voor meer informatie.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Problemen met validatie synchroniseren van dynamiek verhelpen](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
 
