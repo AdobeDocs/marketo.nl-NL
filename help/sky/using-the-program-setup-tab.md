@@ -2,9 +2,9 @@
 title: het gebruiken van-programma-opstelling-lusje
 description: Het tabblad Program Setup gebruiken
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,11 @@ Als u het programmakanaal wilt wijzigen, selecteert u een ander kanaal in de ver
 
 ## Codes toevoegen
 
-1. Klik onder de [!UICONTROL Tags] sectie op de vervolgkeuzelijst [!UICONTROL **Kenmerk**] en kies een tagkenmerk uit de beschikbare opties.
+1. Klik onder de [!UICONTROL Tags] sectie op de **[!UICONTROL Attribute]** vervolgkeuzelijst en kies een tagkenmerk in de beschikbare opties.
 
    ![Afbeelding drie](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Klik op de vervolgkeuzelijst [!UICONTROL **Waarde**] en kies een tagwaarde in de beschikbare opties. Klik op [!UICONTROL **Toevoegen**].
+1. Klik op de **[!UICONTROL Value]** vervolgkeuzelijst en kies een waarde voor de tag uit de beschikbare opties. Klik **[!UICONTROL Add]**.
 
    ![Afbeelding vier](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ Als u het programmakanaal wilt wijzigen, selecteert u een ander kanaal in de ver
 
 ## Kosten voor periode toevoegen
 
-1. Selecteer onder de [!UICONTROL Period Costs] sectie een maand, voer een kosten in en voeg een korte naam of beschrijving toe. Klik op [!UICONTROL **Toevoegen**].
+1. Selecteer onder de [!UICONTROL Period Costs] sectie een maand, voer een kosten in en voeg een korte naam of beschrijving toe. Klik **[!UICONTROL Add]**.
 
    ![Afbeelding zes](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
