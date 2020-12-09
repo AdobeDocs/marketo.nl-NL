@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: Creeer een BasisSegment van het Web - Marketo Docs - de Documentatie van het Product
 title: Een basiswebsegment maken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,7 @@ Laten we een basissegment maken voor alle webbezoekers uit de VS en de financië
 
 Nu hebt u uw bezoekers uit de Verenigde Staten gesegmenteerd, ga door en voeg de financiële dienstensector toe.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Websegmenten](http://docs.marketo.com/x/9QFI)
 
