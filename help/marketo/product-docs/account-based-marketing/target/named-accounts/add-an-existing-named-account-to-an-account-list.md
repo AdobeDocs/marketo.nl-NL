@@ -3,9 +3,9 @@ unique-page-id: 12615798
 description: Een bestaand benoemd account toevoegen aan een accountlijst - Marketo Docs - Productdocumentatie
 title: Een bestaand benoemd account toevoegen aan een accountlijst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Het toevoegen van een benoemde account aan een accountlijst is eenvoudig.
 
    Dat is het!
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een benoemd account maken](create-a-named-account.md)
 
