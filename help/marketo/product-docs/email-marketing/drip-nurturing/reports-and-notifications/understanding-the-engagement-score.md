@@ -3,9 +3,9 @@ unique-page-id: 2359890
 description: Inzicht krijgen in de betrokkenheidsscore - Marketo Docs - Productdocumentatie
 title: De betrokkenheidsscore begrijpen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ Betrokkenheidsscores zijn universeel voor alle klanten. Je kunt ze vergelijken o
 >
 >Het bedrijfseigen algoritme is ook van toepassing op de betrokkenheidsscore in e-mailprogramma&#39;s.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Betrokkenheidsprogramma&#39;s](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
 
