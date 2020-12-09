@@ -2,9 +2,9 @@
 title: my-token-number
 description: Mijn tokennummer
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Hier is hoe te opstelling een teken van het Aantal voor gebruik in uw programma&
 
    ![Afbeelding één](/help/sky/assets/my-tokens/my-token-number/my-token-number-1.png)
 
-1. Voer een naam en een nummer in voor het nieuwe token. Klik op [!UICONTROL **Opslaan**].
+1. Voer een naam en een nummer in voor het nieuwe token. Klik **[!UICONTROL Save]**.
 
    ![Afbeelding twee](/help/sky/assets/my-tokens/my-token-number/my-token-number-2.png)
