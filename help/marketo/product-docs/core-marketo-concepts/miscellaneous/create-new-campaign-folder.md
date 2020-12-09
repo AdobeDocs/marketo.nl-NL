@@ -3,9 +3,9 @@ unique-page-id: 2953207
 description: Nieuwe campagnemap maken - Marketo Docs - Productdocumentatie
 title: Nieuwe campagnemap maken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Campagnemappen helpen u een moeilijke werkruimte te houden. Volg deze eenvoudige
 
    Wanneer u nu een nieuw programma [](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)maakt, ziet u deze campagnemap als optie.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een programma maken](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Nieuwe slimme campagne maken](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
