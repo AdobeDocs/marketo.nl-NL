@@ -3,9 +3,9 @@ unique-page-id: 1146995
 description: Tokens gebruiken in Stappen Stroom - Marketo Docs - Productdocumentatie
 title: Tokens gebruiken in stappen
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Tokens gebruiken in stappen {#use-tokens-in-flow-steps}
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een stroomstap toevoegen aan een slimme campagne](add-a-flow-step-to-a-smart-campaign.md)
 
