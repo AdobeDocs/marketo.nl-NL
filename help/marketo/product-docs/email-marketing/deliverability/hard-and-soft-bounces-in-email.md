@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: Harde en zachte grenzen in e-mail - Marketo Docs - Productdocumentatie
 title: Harde en zachte grenzen in e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,7 @@ Er zijn vijf tekenreeksen in Marketo die verwant zijn aan problemen met het verz
 >
 >Als een persoon is gemarkeerd als een **e-mailadres dat ongeldig** is, kan deze alleen handmatig opnieuw worden ingesteld (wat we u alleen aanraden als u weet dat bepaalde e-mailadressen geldig zijn) door het selectievakje Ongeldig e-mailadres op het tabblad Persongegevens van zijn record uit te schakelen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Voer [de volgende stappen](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) uit om een e-mailprestatierapport te maken waarin stuitergegevens worden gegenereerd.
 
