@@ -2,9 +2,9 @@
 title: priority-override-for-trigger-campagnes
 description: Prioriteit overschrijven voor triggercampagnes
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Beheerders kunnen de vastgestelde prioriteit van Marketo voor triggercampagnes n
 
 ## Prioriteit overschrijven
 
-1. Klik in uw triggercampagne op het tabblad [!UICONTROL **Planning**] en klik vervolgens op [!UICONTROL **Prioriteit**] overschrijven.
+1. Klik in de triggercampagne op het **[!UICONTROL Schedule]** tabblad en klik vervolgens op **[!UICONTROL Override Priority]**.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. Kies een nieuw prioriteitsniveau in het keuzemenu. Klik op [!UICONTROL **Bevestigen**].
+1. Kies een nieuw prioriteitsniveau in het keuzemenu. Klik **[!UICONTROL Confirm]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -44,11 +44,11 @@ Beheerders kunnen de vastgestelde prioriteit van Marketo voor triggercampagnes n
 
 ## Prioriteit opnieuw instellen
 
-1. Als u de prioriteit van de campagne weer wilt instellen op de standaardwaarden van het systeem, gaat u naar het tabblad [!UICONTROL **Planning**] in de triggercampagne en klikt u op [!UICONTROL **Prioriteit**] herstellen.
+1. Als u de prioriteit van de campagne weer wilt instellen op de standaardinstelling van het systeem, gaat u naar de **[!UICONTROL Schedule]** tab in de triggercampagne en klikt u **[!UICONTROL Reset Priority]**.
 
    ![Afbeelding vier](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
-1. Klik op [!UICONTROL **Herstellen**] om te bevestigen.
+1. Klik **[!UICONTROL Reset]** om te bevestigen.
 
    ![Afbeelding vijf](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-5.png)
 
@@ -62,21 +62,21 @@ Beheerders kunnen de vastgestelde prioriteit van Marketo voor triggercampagnes n
 >
 >Alleen beheerders of gebruikers met beheerdersverantwoordelijkheden hebben voorrang op de toegang tot de campagne.
 
-1. Klik in het [!UICONTROL Admin] gebied op [!UICONTROL **Gebruikers en rollen**].
+1. Klik in het [!UICONTROL Admin] gebied op **[!UICONTROL Users & Roles]**.
 
    ![Afbeelding zes](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-6.png)
 
-1. Klik op het tabblad [!UICONTROL **Rollen**] , selecteer de gebruiker aan wie u toegang wilt verlenen en klik vervolgens op [!UICONTROL **Rol**] bewerken.
+1. Klik op het **[!UICONTROL Roles]** tabblad, selecteer de gebruiker aan wie u toegang wilt verlenen en klik vervolgens op **[!UICONTROL Edit Role]**.
 
    ![Afbeelding zeven](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. Selecteer onder [!UICONTROL Access Marketing Activities]Prioriteit [!UICONTROL **triggercampagne**] bewerken. Klik op [!UICONTROL **Opslaan**].
+1. Onder [!UICONTROL Access Marketing Activities], controleer **[!UICONTROL Edit Trigger Campaign Priority]**. Klik **[!UICONTROL Save]**.
 
    ![Afbeelding acht](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
 ## Campagneprioriteit weergeven in Marketo Classic
 
-U kunt de prioriteit van de campagne in de [!DNL Classic] ervaring bekijken door het lusje van het [!UICONTROL **Programma**] binnen een trekkercampagne te klikken.
+U kunt de prioriteit van de campagne in de [!DNL Classic] ervaring bekijken door het **[!UICONTROL Schedule]** lusje binnen een trekkercampagne te klikken.
 
 ![Afbeelding negen](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-9.png)
 
