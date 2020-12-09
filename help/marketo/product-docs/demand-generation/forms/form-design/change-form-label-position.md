@@ -3,9 +3,9 @@ unique-page-id: 2359612
 description: Positie formulierlabel wijzigen - Marketo Docs - Productdocumentatie
 title: Positie van formulierlabel wijzigen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Wanneer u een formulier [](../../../../product-docs/demand-generation/forms/crea
 
 Goed gedaan! Zie hoe eenvoudig het was om de labelposities op een formulier te wijzigen? Laten we eens kijken wat we kunnen doen om het font van de formulierlabels te wijzigen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [De lettertypefamilie van het formulier wijzigen](change-the-form-font-family.md)
 
