@@ -3,9 +3,9 @@ unique-page-id: 7511980
 description: Een rapport opslaan - Marketo Docs - Productdocumentatie
 title: Een rapport opslaan
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -38,9 +38,7 @@ Soms moet u een standaardrapport opslaan om het later opnieuw weer te geven. Zo 
 
    ![](assets/image2015-4-21-11-3a12-3a40.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >Leer hoe u een rapport naar groepsrapporten [kunt](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)klonen.
 
