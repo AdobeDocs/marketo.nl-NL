@@ -3,9 +3,9 @@ unique-page-id: 2953358
 description: Items rechtstreeks verwijderen in de marketingkalender - Marketo Docs - Productdocumentatie
 title: Items rechtstreeks in de marketingkalender verwijderen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Naast het [creëren](create-entries-directly-in-the-marketing-calendar.md) en he
 
 Afhankelijk van de vermelding moet u mogelijk de verwijdering bevestigen. Maar dat is het! Eenvoudig.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Vermeldingen rechtstreeks bevestigen in de marketingkalender](confirm-entries-directly-in-the-marketing-calendar.md)
 
