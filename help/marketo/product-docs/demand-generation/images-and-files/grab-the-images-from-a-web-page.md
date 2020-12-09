@@ -3,9 +3,9 @@ unique-page-id: 2359866
 description: De afbeeldingen ophalen van een webpagina - Marketo Docs - Productdocumentatie
 title: De afbeeldingen ophalen van een webpagina
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Als u afbeeldingen van een webpagina wilt toevoegen, kopieert u het webadres (UR
 
 Mooi werk, afbeelding master!
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Afbeeldingen en bestanden toevoegen aan markeerteken](add-images-and-files-to-marketo.md)
 >* [Uw afbeeldingen en bestanden ordenen met mappen](organize-your-images-and-files-using-folders.md)
