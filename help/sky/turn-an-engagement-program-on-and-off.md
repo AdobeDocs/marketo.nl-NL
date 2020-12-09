@@ -2,9 +2,9 @@
 title: programma-aan-en-uit
 description: Een betrokkenheidsprogramma in- en uitschakelen
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ U kunt een betrokkenheidsprogramma uitschakelen met de klik op een switch. Hierm
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-1.png)
 
-1. Klik op het tabblad [!UICONTROL **Setup**] .
+1. Klik op het **[!UICONTROL Setup]** tabblad.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-2.png)
 
@@ -28,7 +28,7 @@ U kunt een betrokkenheidsprogramma uitschakelen met de klik op een switch. Hierm
    >
    >Betrokkenheidsprogramma&#39;s zijn standaard ingeschakeld, tenzij u uw abonnementslimiet overschrijdt.
 
-1. Er is een [!UICONTROL Program] knop aan de rechterkant. Selecteer [!UICONTROL **Aan**] of [!UICONTROL **Uit**].
+1. Er is een [!UICONTROL Program] knop aan de rechterkant. Selecteer **[!UICONTROL On]** of **[!UICONTROL Off]**.
 
    ![Afbeelding drie](/help/sky/assets/engagement-programs/turn-an-engagement-program-on-and-off/turn-an-engagement-program-on-and-off-3.png)
 
