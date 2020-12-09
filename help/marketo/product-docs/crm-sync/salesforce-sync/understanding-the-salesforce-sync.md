@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: De Salesforce Sync - Marketo Docs - Productdocumentatie begrijpen
 title: Werken met Salesforce Sync
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -44,9 +44,7 @@ De synchronisatie tussen Salesforce en Marketo is bidirectioneel slechts voor lo
 
 Er zijn veel nuances en functies over de Salesforce-synchronisatie. Bekijk de details in de sectie [](http://docs.marketo.com/display/docs/sfdc+sync+details)SFDC-synchronisatiedetails.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Salesforce Sync Setup](http://docs.marketo.com/display/docs/setup)
 >* [SFDC-synchronisatiedetails](http://docs.marketo.com/display/docs/sfdc+sync+details)
