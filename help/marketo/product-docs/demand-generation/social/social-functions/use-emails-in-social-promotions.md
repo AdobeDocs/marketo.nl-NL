@@ -3,9 +3,9 @@ unique-page-id: 2359793
 description: E-mails gebruiken in sociale aanbiedingen - Marketo Docs - Productdocumentatie
 title: E-mails gebruiken in sociale aanbiedingen
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Gebruik in de e-mails de volgende tokens:
 
 * **E-mailadres** voor afhandeling: Gebruik deze optie **`{{social.Promo Code}}`** om aan elke winnaar een [promotiecode](use-promo-codes-for-offer-fulfillment.md)te sturen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Voordat u een e-mail aan een sociale app kunt toevoegen, moet deze *operationeel* en *goedgekeurd* zijn. Zie Instellingen [bewerken voor een e-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
