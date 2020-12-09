@@ -2,9 +2,9 @@
 title: edit-availability-of-stream-content
 description: Beschikbaarheid van stroominhoud bewerken
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ U kunt een tijdframe instellen waarin de inhoud actief wordt in uw stream.
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. Klik op het tabblad [!UICONTROL **Streams**] .
+1. Klik op het **[!UICONTROL Streams]** tabblad.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -28,7 +28,7 @@ U kunt een tijdframe instellen waarin de inhoud actief wordt in uw stream.
 
    ![Afbeelding drie](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-3.png)
 
-1. Selecteer Beschikbaarheid [!UICONTROL **bewerken**].
+1. Selecteer **[!UICONTROL Edit Availability]**.
 
    ![Afbeelding vier](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
@@ -36,7 +36,7 @@ U kunt een tijdframe instellen waarin de inhoud actief wordt in uw stream.
 
    ![Afbeelding vijf](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. Klik op [!UICONTROL **Opslaan**].
+1. Klik **[!UICONTROL Save]**.
 
    ![Afbeelding zes](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
