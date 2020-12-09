@@ -3,9 +3,9 @@ unique-page-id: 2950559
 description: E-mail opnieuw delen en vragen voor een sociale app configureren - Marketo Docs - Productdocumentatie
 title: E-mail opnieuw delen en vragen voor een sociale app configureren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ Wanneer u een [verwijzingsaanbieding](../../../../product-docs/demand-generation
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >Vervolgens kunt u de voortgangsstroom van het [spoor configureren in een verwijzingsaanbod](configure-track-progress-flow-for-a-referral-offer.md)of op **Voltooien > Goedkeuren en Sluiten** klikken om uw verwijzingsaanbod [of](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) opmerkingen [te](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)publiceren.
 
