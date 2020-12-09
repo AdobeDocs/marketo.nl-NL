@@ -2,9 +2,9 @@
 title: voorspellende filters
 description: Voorspelende filters
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Hierdoor wordt het publiek gefilterd op basis van de vraag of het zeer waarschij
 
 Deze twee filters helpen u uw huidige publiek uitbreiden door extra lood te richten die aan leden van een ander programma of Slimme Lijst gelijkaardig zijn. De Lookalike-filters omvatten meer dan 50 factoren, zoals hoofdkenmerken, e-mailactiviteit, webactiviteit en betrokkenheid.
 
-Klik op Restrictie [!UICONTROL ****] toevoegen om succescriteria te kiezen voor leden van de geselecteerde programma&#39;s.
+Klik **[!UICONTROL Add Constraint]** om succescriteria te kiezen voor de leden van de geselecteerde programma&#39;s.
 
 Klik op het pictogram + naast de keuzelijst met programma&#39;s om eenvoudig meerdere programma&#39;s/slimme lijsten aan één filter toe te voegen.
 
