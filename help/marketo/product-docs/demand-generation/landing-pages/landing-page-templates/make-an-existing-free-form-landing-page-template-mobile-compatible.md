@@ -3,9 +3,9 @@ unique-page-id: 5472348
 description: Een bestaande landingspaginasjabloon in vrije vorm geschikt maken voor mobiel - Marketo Docs - Productdocumentatie
 title: Een bestaande landingspaginasjabloon in vrije vorm geschikt maken voor mobiele apparaten
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,7 @@ Wanneer u een bestemmingspagina uitgeeft en u op het mobiele lusje klikt, zult u
 
 Geweldig! U kunt nu de mobiele weergave [van al uw bestemmingspagina&#39;s die deze sjabloon gebruiken,](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) aanpassen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [De mobiele weergave aanpassen voor uw openingspagina](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)
 
