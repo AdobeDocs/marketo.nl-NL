@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Overzicht audittrail - Marketo Docs - Productdocumentatie
 title: Overzicht van audittrail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,7 @@ U kunt slechts gegevens van 30 dagen in uw exemplaar bekijken. Gebruik de export
 >
 >**Onbekend:** In audittrail, kunt u de naam van een gebruiker en e-mail zien die als &quot;Onbekend&quot; worden vermeld. Dit gebeurt wanneer u een verandering in uw picklist waarden in uw CRM aanbrengt. Deze waarden worden weergegeven op Marketo-formulieren en landingspagina&#39;s. Als u deze update uitvoert aan de CRM-zijde, worden uw bestemmingspagina&#39;s die verwijzen naar het formulier automatisch geprogrammeerd. In audittrail, zullen wij vangen dat de het landen pagina werd opgesteld, maar de naam en e-mail van de gebruiker zullen tonen als &quot;Onbekend,&quot;aangezien wij niet de gebruikersinformatie van de kant van CRM kunnen vangen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Audittrail inschakelen](enable-audit-trail.md)
 
