@@ -3,9 +3,9 @@ unique-page-id: 11383945
 description: Offlineconversies van Facebook - Marketo Docs - Productdocumentatie
 title: Offlineconversies van Facebook
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ U kunt Offlineconversies [van Facebook](set-up-facebook-offline-conversions.md) 
 1. Wijs fasen in uw model van de conjunctuurcyclus aan off-line omzettingsstadia op Facebook toe.
 1. Wanneer een Facebook-lead wordt gegenereerd vanuit een Facebook-advertentie en een toegewezen podium bereikt, stuurt Marketo de gegevens voor offline conversie een aantal keren per dag terug naar Facebook via een beveiligde, geautomatiseerde API. De gegevens worden weergegeven in het rapport Advertentiebeheer op Facebook.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Offlineconversies van Facebook instellen](set-up-facebook-offline-conversions.md)
 
