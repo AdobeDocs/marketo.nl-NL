@@ -3,9 +3,9 @@ unique-page-id: 10096681
 description: Werken met de status van het Webinar-programma - Marketo Docs - Productdocumentatie
 title: Werken met de status van het Webinar-programma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Hier volgt een korte beschrijving van de programmastatussen die zijn gekoppeld a
 >
 >Marketo kan alleen de status No Show (Geen tonen) krijgen als de mensen zijn geregistreerd *in Marketo*. We kunnen geen No Show vangen die uit On24 gegevensvoer komt.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Inzicht in Marketo ON24-adaptergebeurtenissen](understanding-marketo-on24-adapter-events.md)
 
