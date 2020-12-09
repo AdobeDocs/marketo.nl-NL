@@ -3,9 +3,9 @@ unique-page-id: 2359502
 description: Testen van A/B met "Hele e-mail" gebruiken - Marketo Docs - Productdocumentatie
 title: A/B-tests met "Hele e-mail" gebruiken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 U kunt uw e-mailberichten eenvoudig testen. Een geweldige test is de **A-mailtest** . Hier is hoe je het instelt.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een A/B-test toevoegen](add-an-a-b-test.md)
 
