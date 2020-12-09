@@ -3,9 +3,9 @@ unique-page-id: 2359671
 description: Hinttekst toevoegen aan een formulierveld - Marketo Docs - Productdocumentatie
 title: Hinttekst toevoegen aan een formulierveld
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -54,9 +54,7 @@ Met tips en [instructies](add-tooltip-instructions-to-a-form-field.md) kunnen me
 
 Kijk eens! Laten we nu wat [instructies](add-tooltip-instructions-to-a-form-field.md) toevoegen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Knopinfo-instructies toevoegen aan een formulierveld](add-tooltip-instructions-to-a-form-field.md)
 
