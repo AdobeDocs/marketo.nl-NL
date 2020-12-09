@@ -3,9 +3,9 @@ unique-page-id: 3571800
 description: Stap 3 van 3 -Connect Marketo en Salesforce (Professional) - Marketo Docs - Productdocumentatie
 title: Stap 3 van 3 - Connect Marketo en Salesforce (Professional)
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 In dit artikel, zult u Marketo aan synchronisatie met uw gevormde instantie vormen Salesforce.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 >* [Stap 2 van 3: Een Salesforce-gebruiker voor markeertekens maken (Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
