@@ -3,9 +3,9 @@ unique-page-id: 7512328
 description: Creeer een Gebeurtenis met Niveau 3 Vergadering van het Web - Marketo Docs - de Documentatie van het Product
 title: Een gebeurtenis maken met een webvergadering van niveau 3
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Een gebeurtenis maken met een webvergadering van niveau 3 {#create-an-event-with-level-web-meeting}
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Niveau 3 Webvergadering als Dienst van LaunchPoint toevoegen](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
