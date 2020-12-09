@@ -2,9 +2,9 @@
 title: creatie-an-engagement-programma
 description: Een betrokkenheidsprogramma maken
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ U kunt programma&#39;s voor betrokkenheid gebruiken [!DNL Marketo] om eenvoudig 
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-1.png)
 
-1. Klik op de vervolgkeuzelijst [!UICONTROL **Maphandelingen**] en selecteer [!UICONTROL **Nieuw programma**].
+1. Klik op de **[!UICONTROL Folder Actions]** vervolgkeuzelijst en selecteer **[!UICONTROL New Program]**.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-2.png)
 
@@ -28,10 +28,10 @@ U kunt programma&#39;s voor betrokkenheid gebruiken [!DNL Marketo] om eenvoudig 
    >
    >U kunt ook met de rechtermuisknop op de map klikken en Nieuw programma selecteren.
 
-1. Voer een [!UICONTROL **naam**] in en selecteer in de [!UICONTROL Type] vervolgkeuzelijst [!UICONTROL **Betrokkenheid**].
+1. Voer een **[!UICONTROL Name]** waarde in en selecteer in de [!UICONTROL Type] vervolgkeuzelijst **[!UICONTROL Engagement]**.
 
    ![Afbeelding drie](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-3.png)
 
-1. Kies een [!UICONTROL Workspace] en [!UICONTROL Destination]. Voeg optioneel [!UICONTROL Description] en [!UICONTROL Labels]. Klik op [!UICONTROL **Toevoegen**] als u klaar bent.
+1. Kies een [!UICONTROL Workspace] en [!UICONTROL Destination]. Voeg optioneel [!UICONTROL Description] en [!UICONTROL Labels]. Klik **[!UICONTROL Add]** wanneer gereed.
 
    ![Afbeelding vier](/help/sky/assets/engagement-programs/create-an-engagement-program/create-an-engagement-program-4.png)
