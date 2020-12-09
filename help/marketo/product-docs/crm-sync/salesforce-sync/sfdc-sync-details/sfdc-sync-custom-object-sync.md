@@ -3,9 +3,9 @@ unique-page-id: 2953471
 description: SFDC Sync - Custom Object Sync - Marketo Docs - Productdocumentatie
 title: SFDC-synchronisatie - Aangepaste objectsynchronisatie
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook onde
 >
 >**Beheerdersmachtigingen vereist**
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Als u een aangepast object wilt gebruiken, moet het worden gekoppeld aan een [lead](sfdc-sync-lead-sync.md)-, [](sfdc-sync-contact-sync.md)contact- of [](sfdc-sync-account-sync.md)accountobject in Salesforce.
 
