@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Overzicht van Sales Connect - Marketo Docs - Productdocumentatie
 title: Overzicht van Sales Connect
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -88,9 +88,7 @@ Maak een eenvoudige slimme campagne om uw verkoopgebruikers toegang te geven tot
 
 Klaar om aan de slag te gaan? Klik op de onderstaande koppeling voor installatie-instructies.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Aan de slag met Sales Connect](http://docs.marketo.com/x/coTS)
 
