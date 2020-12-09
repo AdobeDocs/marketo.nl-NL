@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: Een segmentatie goedkeuren - Marketo Docs - Productdocumentatie
 title: Een segmentatie goedkeuren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
 >
 >Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een segmentatie maken](create-a-segmentation.md)
 >* [Segmentregels definiëren](define-segment-rules.md)
