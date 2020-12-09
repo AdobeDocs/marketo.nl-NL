@@ -3,9 +3,9 @@ unique-page-id: 2359467
 description: E-mailprestatierapport - Marketo Docs - Productdocumentatie
 title: E-mailprestatierapport
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -62,9 +62,7 @@ Over het algemeen proberen we het gezond verstand te gebruiken om deze statistie
 >
 >Meervoudig verzendt van dezelfde campagne naar dezelfde persoon wordt slechts eenmaal geteld.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Middelen filteren in e-mailrapporten voor campagnes](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
 >* [E-mailkoppelingsprestatierapport](email-link-performance-report.md)
