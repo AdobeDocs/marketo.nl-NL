@@ -3,9 +3,9 @@ unique-page-id: 11385942
 description: Voorspelende inhoud voor de adviesbalk bewerken - Marketo Docs - Productdocumentatie
 title: Voorspelende inhoud voor de balk met aanbevelingen bewerken
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ ht-degree: 0%
 
 Hier is hoe te opstelling uw vooruitlopende inhoud voor de Bar van de Aanbeveling.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Inhoud moet worden [goedgekeurd voor voorspellende inhoud](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de pagina Alle inhoud.
 
