@@ -2,9 +2,9 @@
 title: edit-Qualification-rules-in-a-smart-campagne
 description: Kwalificatieregels bewerken in een slimme campagne
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 De regels van de erkenning bepalen hoe vaak iemand door de stroom in een slimme campagne kan lopen. Zelfs als iemand een slimme campagne meerdere keren activeert, worden deze standaard slechts eenmaal door de flow verzonden. Hier is hoe te om die montages te wijzigen.
 
-1. Selecteer de campagne en ga naar het tabblad [!UICONTROL **Planning**] .
+1. Selecteer de campagne en ga naar het **[!UICONTROL Schedule]** tabblad.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-1.png)
 
-1. Klik op Herhaling [!UICONTROL **bewerken**].
+1. Klik **[!UICONTROL Edit Recurrence]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-2.png)
 
-1. Kies hoe vaak u uw mensen door de slimme campagnestroom wilt leiden: [!UICONTROL **dagelijks**], [!UICONTROL **wekelijks**], [!UICONTROL **maandelijks**] of [!UICONTROL **eens om de # dagen**].
+1. Kies hoe vaak u uw mensen door de slimme campagnestroom wilt leiden: **[!UICONTROL daily]**, **[!UICONTROL weekly]**, **[!UICONTROL monthly]**, of **[!UICONTROL once every # days]**.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-3.png)
 
@@ -34,7 +34,7 @@ De regels van de erkenning bepalen hoe vaak iemand door de stroom in een slimme 
    >
    >Deze logica is ook van toepassing bij het gebruik van weken of maanden. Een maand wordt altijd geteld als 30 dagen.
 
-1. Klik op [!UICONTROL **Bevestigen**] wanneer u klaar bent.
+1. Klik **[!UICONTROL Confirm]** wanneer gereed.
 
    ![Afbeelding vier](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-4.png)
 
