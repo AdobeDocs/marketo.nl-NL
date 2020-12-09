@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: Een formulier insluiten in een webcampagne - Marketo Docs - Productdocumentatie
 title: Een formulier insluiten in een webcampagne
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -84,9 +84,7 @@ CSS-code toevoegen aan het script:
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [CSS van een formulierthema bewerken](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
 >* [Bericht met dank weergeven zonder opvolgingspagina](http://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
