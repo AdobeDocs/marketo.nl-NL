@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Het gebruiken van Bulkacties in Salesforce Bliksem - Marketo Docs - de Documentatie van het Product
 title: Bulkhandelingen gebruiken in Salesforce Lightning
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een campagne, het verzenden van een grote hoeveelheid e-mail of het doorsturen van leads van Salesforce naar Sales Connect.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Update naar de nieuwste versie van het Sales Connect-pakket en installeer de bulkactieknoppen in de weergave voor lead/contact. [Klik hier voor instructies](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 
