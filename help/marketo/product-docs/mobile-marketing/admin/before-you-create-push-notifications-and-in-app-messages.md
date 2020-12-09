@@ -3,9 +3,9 @@ unique-page-id: 11376159
 description: Voordat u pushmeldingen en in-app berichten maakt - Marketo Docs - Productdocumentatie
 title: Voordat u pushberichten en in-app-berichten maakt
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ Voor berichten in de app is de trigger voor de weergave standaard ingesteld op *
 
 Nadat u al uw voorbereidingen voor in-app berichten en dupmeldingen hebt gedaan, is het tijd om aan de slag te gaan!
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een bericht in de app maken](http://docs.marketo.com/display/docs/create+an+in-app+message)
    >
