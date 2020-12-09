@@ -3,9 +3,9 @@ unique-page-id: 7504749
 description: Een rapport van de Ontdekkingsreiziger van de Inkomsten exporteren - Marketo Docs - de Documentatie van het Product
 title: Een rapport van de Ontdekkingsreiziger van de Opbrengst exporteren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,7 @@ U kunt om het even welk rapport van de opbrengstontdekkingsreiziger uitvoeren en
 
    Zoet! Stuur dit bestand rond en druk op uw collega&#39;s met uw ninja-achtige marketingvaardigheden.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten](subscribe-to-a-revenue-explorer-report.md)
 
