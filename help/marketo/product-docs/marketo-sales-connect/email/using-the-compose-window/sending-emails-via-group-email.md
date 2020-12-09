@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: E-mailberichten verzenden via e-mail voor groep - Marketo Docs - Productdocumentatie
 title: E-mailberichten verzenden via e-mail voor groep
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
    >
    >U kunt bulkbewerkingen uitvoeren op de e-mail/sjabloon wanneer u een groepse-mail verstuurt, maar u kunt geen unieke bewerkingen uitvoeren voor specifieke ontvangers in de lijst.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Opties voor bulkverzending](http://docs.marketo.com/x/HwQ6Ag)
 >* [Een sjabloon gebruiken in het venster Samenstellen](http://docs.marketo.com/x/MQQ6Ag)
