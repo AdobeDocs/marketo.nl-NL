@@ -3,9 +3,9 @@ unique-page-id: 10096673
 description: Gebeurtenisinstellingen configureren en markeertekens synchroniseren met uw webinar - Marketo Docs - Productdocumentatie
 title: Gebeurtenisinstellingen configureren en markering synchroniseren met uw webinar
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Wanneer u opstelling een gebeurtenis die met een ON24 Webinar wordt geassocieerd
 
 Nu kunt u verdergaan naar de volgende stap: .
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [De gebeurtenissen van de Adapter van Marketo On24 begrijpen](understanding-marketo-on24-adapter-events.md)
 >* [Onderliggende campagnes en lokale elementen maken](create-child-campaigns-and-local-assets.md)
