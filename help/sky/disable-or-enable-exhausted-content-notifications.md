@@ -2,9 +2,9 @@
 title: disable-or-enable-afloop-content-notifications
 description: Uitgebreide inhoudsmeldingen uitschakelen of inschakelen
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Wanneer mensen alle inhoud in een stroom uitlaten, [!DNL Marketo] kunt u een ber
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. Klik op het tabblad [!UICONTROL **Setup**] .
+1. Klik op het **[!UICONTROL Setup]** tabblad.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
-1. Schuif omlaag naar [!UICONTROL Settings] en selecteer [!UICONTROL **Uit**] (of [!UICONTROL On]).
+1. Schuif omlaag naar [!UICONTROL Settings] en selecteer **[!UICONTROL Off]** (of [!UICONTROL On]).
 
    ![Afbeelding drie](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-3.png)
 
