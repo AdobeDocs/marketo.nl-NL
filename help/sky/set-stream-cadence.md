@@ -2,9 +2,9 @@
 title: set-stream-cadence
 description: Stroomversnelling instellen
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '373'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ U kunt betrokkenheidsinhoud verzenden met elk gewenst interval. Bijvoorbeeld: ee
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-1.png)
 
-1. Klik op het tabblad [!UICONTROL **Streams**] en klik vervolgens op [!UICONTROL **Stilte**] instellen.
+1. Klik op het **[!UICONTROL Streams]** tabblad en klik vervolgens op **[!UICONTROL Set Cadence]**.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-2.png)
 
-1. Selecteer hoe vaak u de cadence wilt herhalen. U kunt [!UICONTROL **Wekelijks**], [!UICONTROL **Maandelijks**], of [!UICONTROL **niets**] kiezen.
+1. Selecteer hoe vaak u de cadence wilt herhalen. U kunt kiezen **[!UICONTROL Weekly]**, **[!UICONTROL Monthly]** of **[!UICONTROL None]**.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ U kunt betrokkenheidsinhoud verzenden met elk gewenst interval. Bijvoorbeeld: ee
 
 ## Wekelijks
 
-1. Selecteer [!UICONTROL **Wekelijks**].
+1. Selecteer **[!UICONTROL Weekly]**.
 
    ![Afbeelding drie](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-3.png)
 
@@ -52,9 +52,9 @@ U kunt betrokkenheidsinhoud verzenden met elk gewenst interval. Bijvoorbeeld: ee
 
    >[!TIP]
    >
-   >U kunt de snelheid instellen op elke dag door [!UICONTROL **Herhalingen te kiezen: Wekelijks**] / [!UICONTROL **elke: 1 week**] / [!UICONTROL **Aan:**] alle dagen.
+   >U kunt de snelheid elke dag instellen door te kiezen **[!UICONTROL Repeats: Weekly]** / **[!UICONTROL Every: 1 Week]** / **[!UICONTROL On:]** alle dagen.
 
-1. Kies nu de tijd. Schakel het selectievakje in als u [Tijdzone](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) voor ontvangers wilt gebruiken (levering volgens lokale tijdzones) en klik op [!UICONTROL **Opslaan**].
+1. Kies nu de tijd. Schakel het selectievakje in als u [Tijdzone](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+with+Recipient+Time+Zone) voor ontvangers wilt gebruiken (d.w.z. leveren volgens lokale tijdzones) en klik op **[!UICONTROL Save]**.
 
    ![Afbeelding zeven](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-7.png)
 
@@ -74,7 +74,7 @@ Dat is het! Blijf lezen als u een maandelijks cadence wilt instellen.
 
 ## Maandelijks
 
-1. Selecteer [!UICONTROL **Maandelijks**] voor hoe vaak het herhaalt.
+1. Selecteer **[!UICONTROL Monthly]** hoe vaak het herhaalt.
 
    ![Afbeelding negen](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-9.png)
 
@@ -94,7 +94,7 @@ Dat is het! Blijf lezen als u een maandelijks cadence wilt instellen.
    >
    >U kunt ook de dag van de week kiezen.
 
-1. Kies een optie [!UICONTROL Time] en klik op [!UICONTROL **Opslaan**].
+1. Kies een [!UICONTROL Time] en klik op **[!UICONTROL Save]**.
 
    ![Afbeelding dertien](/help/sky/assets/engagement-programs/set-stream-cadence/set-stream-cadence-13.png)
 
