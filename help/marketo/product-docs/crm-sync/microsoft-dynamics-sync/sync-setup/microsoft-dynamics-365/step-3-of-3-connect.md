@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (Online) - Marketo Docs - de Documentatie van het Product
 title: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (Online)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ ht-degree: 0%
 
 Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Stap 1 van 3: De Marketo-oplossing installeren (online)](step-1-of-3-install.md)
    >
