@@ -3,9 +3,9 @@ unique-page-id: 2359734
 description: Een voorvertoning van een bestemmingspagina weergeven met dynamische inhoud - Marketo Docs - Productdocumentatie
 title: Een voorvertoning van een bestemmingspagina weergeven met dynamische inhoud
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Geef een voorvertoning van de openingspagina weer nadat u dynamische inhoud hebt toegevoegd om ervoor te zorgen dat alles er goed uitziet.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Dynamische inhoud gebruiken in een bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [Een voorvertoning van een bestemmingspagina weergeven](preview-a-landing-page.md)
