@@ -3,9 +3,9 @@ unique-page-id: 4718648
 description: Kennis van de Opportunity Influence Analyzer - Marketo Docs - Productdocumentatie
 title: De Opportunity Influence Analyzer begrijpen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Als u dit gedrag wilt behouden, kunt u overwegen uw gegevens te dedupliceren in 
 >
 >Telkens als u een overeenkomst sluit, vind het in deze analysator de volgende dag. Deel het met de verkoopvertegenwoordiger. Ze zullen al het harde werk realiseren dat je doet - plus, je kunt je afvragen waarom bepaalde mensen invloedrijk zijn, maar geen rol hebben toegewezen in de CRM.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Een Opportunity Influence Analyzer maken](create-an-opportunity-influence-analyzer.md)
