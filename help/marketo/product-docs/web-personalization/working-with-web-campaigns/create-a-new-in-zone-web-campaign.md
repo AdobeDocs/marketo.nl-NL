@@ -3,9 +3,9 @@ unique-page-id: 4719400
 description: Een nieuwe webcampagne voor zones maken - Marketo Docs - Productdocumentatie
 title: Nieuwe webcampagne maken in zone
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -119,9 +119,7 @@ Zie Een webcampagne [klonen](clone-a-web-campaign.md).
 
 1. Er verschijnt een bevestigingsbericht om te bevestigen of u de campagne wilt verwijderen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Nieuwe widgetwebcampagne maken](create-a-new-widget-web-campaign.md)
 >* [Nieuwe webcampagne voor dialoog maken](create-a-new-dialog-web-campaign.md)
