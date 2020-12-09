@@ -3,9 +3,9 @@ unique-page-id: 7516390
 description: Pakket met Marktkoopgegevens installeren in Salesforce AppExchange - Marketo Docs - Productdocumentatie
 title: Pakket met marketinggegevens in Salesforce AppExchange installeren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -74,9 +74,7 @@ U moet de app Marketo Sales Insight in uw abonnement op Salesforce installeren v
 
 Geweldig werk! Nu hebt u Marketo Sales Insight geïnstalleerd en geïmplementeerd. Ga vooruit en vorm het voor uw verkoopteam en bekijk de verkoopskyrocket.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Marktverkoopinzicht configureren in Salesforce Professional Edition](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
