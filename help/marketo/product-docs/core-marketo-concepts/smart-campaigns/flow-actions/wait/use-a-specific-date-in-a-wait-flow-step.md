@@ -3,9 +3,9 @@ unique-page-id: 1146976
 description: Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht - Marketo DOS - de Documentatie van het Product
 title: Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,7 @@ U kunt de stap **Wachttijd** gebruiken om de reis van een persoon door een slimm
    Geef de tijd op (optioneel) en klik op Opslaan.
    ![](assets/image2014-9-22-11-3a51-3a13.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Gebruik een Duur in een Stap van de Stroom van de Wacht](use-a-duration-in-a-wait-flow-step.md)
 >* [Een Date Token gebruiken in een Wachten Flow-stap](use-a-date-token-in-a-wait-flow-step.md)
