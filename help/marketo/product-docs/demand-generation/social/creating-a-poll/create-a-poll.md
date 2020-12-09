@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Een opiniepeiling maken - Marketo Docs - Productdocumentatie
 title: Een opiniepeiling maken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Betaal mensen met een opiniepeiling die ze kunnen inbrengen en deel ze met hun v
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Als u afbeeldingen in uw opiniepeiling wilt gebruiken, voegt u deze toe aan uw Marketo-bibliotheek met afbeeldingen en bestanden voordat u begint. Voeg een afbeelding van 60 x 60 px toe voor elk opiniepeilingitem. Zie Afbeeldingen en bestanden [toevoegen aan markeerteken](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
