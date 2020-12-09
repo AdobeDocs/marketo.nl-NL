@@ -3,9 +3,9 @@ unique-page-id: 2359398
 description: Een formulier maken - Marketo Docs - Productdocumentatie
 title: Een formulier maken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Maak en gebruik een formulier op een openingspagina om nieuwe namen te genereren
 
 Zoet! Nu het formulier is gemaakt, gaan we het omhoog kleven.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een formulierthema selecteren](select-a-form-theme.md)
 >* [Een veldset toevoegen aan een formulier](../../../../product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
