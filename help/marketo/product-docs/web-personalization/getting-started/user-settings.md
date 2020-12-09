@@ -3,9 +3,9 @@ unique-page-id: 4719336
 description: Gebruikersinstellingen - Marketo Docs - Productdocumentatie
 title: Gebruikersinstellingen
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,7 @@ Selecteer welk [e-mailrapport](../../../product-docs/web-personalization/reporti
 >
 >Als u op **Opslaan** klikt, wordt het dialoogvenster Gebruikersinstellingen niet verlaten. Als u wilt afsluiten, klikt u op het Marketo-logo linksboven en selecteert u de bestemming.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Gebieden bewerken](edit-regions.md)
 
