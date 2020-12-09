@@ -2,9 +2,9 @@
 title: campagne-folder-overview-tab
 description: Tabblad Overzicht van de map Campagne
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Campagnemap: Tabblad Overzicht
 
-Het [!UICONTROL Overview] tabblad Campagnemap bevat twee secties: [!UICONTROL **Details**] en [!UICONTROL **rapporten**].
+Het [!UICONTROL Overview] tabblad Campagnemap bevat twee secties: **[!UICONTROL Details]** en **[!UICONTROL Reports]**.
 
 ![Afbeelding één](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
@@ -22,7 +22,7 @@ De belangrijkste [!UICONTROL Details] pagina toont algemene informatie over uw c
 
 ![Afbeelding één](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-2.png)
 
-[!UICONTROL **Maphandelingen**]
+**[!UICONTROL Folder Actions]**
 
 Klik op de vervolgkeuzelijst Maphandelingen in de rechterbovenhoek voor snelle toegang tot basisfuncties.
 
