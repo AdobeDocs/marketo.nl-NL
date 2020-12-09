@@ -2,9 +2,9 @@
 title: understanding-my-tokens
 description: Mijn tokens begrijpen
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Wanneer u een nieuw token maakt, kan hiernaar worden verwezen door andere object
 * **[Overschreven token:](/help/sky/override-an-inherited-my-token.md)** Het token is overgeërfd, maar er is een uitzondering gemaakt in dit programma of deze map.
 * **Overgenomen token:** Het token is ergens in een programma of map op een hoger niveau in de structuur gemaakt.
 
-U vindt deze drie typen onder het tabblad [!UICONTROL **Mijn tokens**] in uw programma- of campagnemap.
+U vindt deze drie typen onder het **[!UICONTROL My Tokens]** tabblad in uw programma- of campagnemap.
 
 ![Afbeelding twee](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
