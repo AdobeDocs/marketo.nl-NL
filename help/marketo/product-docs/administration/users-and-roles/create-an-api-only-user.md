@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: Alleen een gebruiker voor API maken - Marketo Docs - Productdocumentatie
 title: Alleen een API-gebruiker maken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Als u wilt integreren met Marketo via de [REST API](http://developers.marketo.com/documentation/rest/), moet u een gebruiker met alleen de API maken. Zo gaat het.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Een gebruikersrol maken die alleen een API is](create-an-api-only-user-role.md)
 
