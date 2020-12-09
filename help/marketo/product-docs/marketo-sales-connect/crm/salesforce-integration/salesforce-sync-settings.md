@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Salesforce Sync Settings - Marketo Docs - Productdocumentatie
 title: Instellingen voor Salesforce Sync
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ ht-degree: 0%
 
 Deze functionaliteit vereist dat u zich op de Enterprise/Unlimited editie van Salesforce bevindt, of de Professional-editie als u Integratie via de Web Services API hebt aangeschaft.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Salesforce en Sales Engage moeten zijn aangesloten.
 
@@ -47,9 +45,7 @@ Deze functionaliteit vereist dat u zich op de Enterprise/Unlimited editie van Sa
 
 Zodra u &quot;E-mail aan Salesforce (BCC)&quot;activeert, zult u een BCC van uw verkoop e-mails ontvangen en uw e-mails zullen als activiteiten op kansen, lood en contacten worden geregistreerd.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Salesforce en Sales Engage moeten zijn aangesloten.
 
