@@ -3,9 +3,9 @@ unique-page-id: 10096712
 description: Uw webinar-gebeurtenis maken in ON24 - Marketo Docs - Productdocumentatie
 title: Uw webinar-gebeurtenis maken in ON24
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,7 @@ Er zijn bepaalde montages in de verwezenlijking van uw webinar ON24 die door Mar
 
 In de volgende stap moet u een gebeurtenis [maken in Marketo](create-an-event-in-marketo.md).
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Inzicht in Marketo ON24-adaptergebeurtenissen](understanding-marketo-on24-adapter-events.md)
 
