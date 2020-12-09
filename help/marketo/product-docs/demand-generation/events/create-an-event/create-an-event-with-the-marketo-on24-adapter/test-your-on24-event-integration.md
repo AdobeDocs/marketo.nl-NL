@@ -3,9 +3,9 @@ unique-page-id: 10096677
 description: Test uw ON24-gebeurtenisintegratie - Marketo Docs - Productdocumentatie
 title: ON24-gebeurtenisintegratie testen
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Hieronder wordt beschreven hoe gegevens worden bijgewerkt nadat de gebeurtenis h
 * Marketo haalt de gegevens van deelnemers elke nacht op uit ON24.
 * Zodra de gegevens van de aanwezige tussen Marketo en ON24 synchroniseren, werkt Marketo de lidmaatschapsstatus aan Bijgewoond, Bijgewoond op bestelling, of Geen Show bij. Op het tabblad **Overzicht** van de gebeurtenis wordt de status van de gebeurtenis bijgewerkt naar **Gebeurtenis voltooid**.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Voorbeeld ON24-gebeurtenisintegratie](example-on24-event-integration.md)
 >* [Inzicht in Marketo ON24-adaptergebeurtenissen](understanding-marketo-on24-adapter-events.md)
