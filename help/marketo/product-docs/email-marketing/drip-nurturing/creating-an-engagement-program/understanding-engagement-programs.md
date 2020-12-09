@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: Betrokkenheidsprogramma's begrijpen - Marketo Docs - Productdocumentatie
 title: Betrokkenheidsprogramma's
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -94,9 +94,7 @@ Zodra een persoon elk stuk van inhoud in een stroom heeft ontvangen, noemen wij 
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Personen die inhoud hebben geëxporteerd](../../../../product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
@@ -108,9 +106,7 @@ Zodra een persoon elk stuk van inhoud in een stroom heeft ontvangen, noemen wij 
 
 Het niveau van de Aanwezigheid van de inhoud is een 0 tot 100 puntscore die Marketo uw inhoud zal geven. Dit aantal wordt bepaald door een verfijnde formule gebruikend opent, klikt, unsubscribes, programmasucces, en andere factoren.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [De betrokkenheidsscore begrijpen](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)
 
