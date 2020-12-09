@@ -3,9 +3,9 @@ unique-page-id: 2360389
 description: Maak een programma zonder een Periode Beschikbaar in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren - Marketo Docs - de Documentatie van het Product
 title: Maak een Programma zonder een Periode Beschikbaar in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ Sommige programma&#39;s moeten mogelijk worden opgenomen, zelfs als ze geen tijd
 
 Mooi werk! Elk programma dat gebruikmaakt van het gewijzigde kanaal zal nu worden opgenomen in de inkomstenverkenner en de analysatoren, zonder dat hiervoor een periode nodig is.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Gedrag Analytics negeren op programmaniveau](override-analytics-behavior-at-the-program-level.md)
 
