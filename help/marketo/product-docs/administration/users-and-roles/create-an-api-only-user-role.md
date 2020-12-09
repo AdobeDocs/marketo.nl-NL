@@ -3,9 +3,9 @@ unique-page-id: 2360203
 description: Alleen een gebruikersrol voor API maken - Marketo Docs - Productdocumentatie
 title: Een gebruikersrol maken die alleen een API is
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Als u met Marketo via de [REST API](http://developers.marketo.com/documentation/
 >
 >Het is altijd een goed idee om slechts de vereiste minimumtoestemmingen te verlenen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >Goed gedaan! Laten we nu een gebruiker [](create-an-api-only-user.md)maken die alleen voor de API kan worden gebruikt.
 
