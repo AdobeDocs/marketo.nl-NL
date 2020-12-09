@@ -3,9 +3,9 @@ unique-page-id: 10095644
 description: Een fragment goedkeuren zonder concept - Marketo Docs - Productdocumentatie
 title: Een fragment goedkeuren zonder concept
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -40,9 +40,7 @@ Geen concept wordt geactiveerd telkens wanneer een fragment wordt goedgekeurd. D
 >
 >Deze functie is ontworpen om tijd te besparen met de workflow voor goedkeuring van fragmenten. Er zijn echter een paar beperkingen om op de hoogte te zijn. Zie [dit document](https://nation.marketo.com/docs/DOC-4415) voor meer informatie. Het document bevat ook informatie over foutafhandeling en probleemoplossing.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Niet-concept inschakelen voor fragmenten](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
 
