@@ -3,9 +3,9 @@ unique-page-id: 2953348
 description: Berichten rechtstreeks maken in de marketingkalender - Marketo Docs - Productdocumentatie
 title: Items rechtstreeks maken in de marketingkalender
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -45,9 +45,7 @@ Zo gaat het.
 
    ![](assets/image2014-10-20-13-3a8-3a29.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Items rechtstreeks in de marketingkalender bewerken](edit-entries-directly-in-the-marketing-calendar.md)
 
