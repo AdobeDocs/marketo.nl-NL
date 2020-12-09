@@ -3,9 +3,9 @@ unique-page-id: 10096725
 description: Een gebeurtenis maken in Marketo - Marketo Docs - Productdocumentatie
 title: Een gebeurtenis maken in Marketo
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Wanneer u de gebeurtenis Marketo maakt, selecteert u **Webinar** als het kanaalt
 
 In de volgende stap [configureert u gebeurtenisinstellingen en synchroniseert u Marketo met uw webinar](https://docs.marketo.com/x/IRCa).
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Inzicht in Marketo ON24-adaptergebeurtenissen](understanding-marketo-on24-adapter-events.md)
 
