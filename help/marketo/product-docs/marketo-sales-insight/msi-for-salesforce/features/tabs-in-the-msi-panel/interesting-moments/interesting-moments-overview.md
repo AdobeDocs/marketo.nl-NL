@@ -3,9 +3,9 @@ unique-page-id: 2949720
 description: Interessant momentoverzicht - Marketo Docs - Productdocumentatie
 title: Interessant momentoverzicht
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,7 @@ U kunt de interessante stap van de momentstroom gebruiken om uw verkoopteam zich
 
 U kunt tokens ook gebruiken in interessante momenten om werkelijk nuttige dynamische beschrijvingen te maken.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Interesserende momenten gebruiken](using-interesting-moments.md)
 >* [Tokens voor interessante momenten](tokens-for-interesting-moments.md)
