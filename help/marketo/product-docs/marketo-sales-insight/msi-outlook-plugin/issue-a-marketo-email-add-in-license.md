@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: Een licentie voor een Marketo-e-mailinvoegtoepassing uitgeven - Marketo Docs - Productdocumentatie
 title: Een licentie voor een Marketo-e-mailinvoegtoepassing uitgeven
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Iedereen die de toe:voegen-binnen van de Vooruitzichten van de Marketo E-mail wi
    >
    >Als uw verkopers beheerderstoegang tot hun computers hebben, controleer de doos en u wordt gedaan!
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [De invoegtoepassing Marketo voor Outlook installeren met een Enterprise-sleutel](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
 >* [De invoegtoepassing Marketo E-mail voor Outlook installeren met een registratiecode](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
