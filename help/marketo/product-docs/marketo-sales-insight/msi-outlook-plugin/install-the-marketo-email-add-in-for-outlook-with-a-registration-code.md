@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installeer de toe:voegen-binnen E-mail van de Marketo voor Vooruitzichten met een Code van de Registratie - Marketo Docs - de Documentatie van het Product
 title: De invoegtoepassing Marketo E-mail voor Outlook installeren met een registratiecode
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Als gebruikers toegang hebben tot de beheerinstellingen op hun laptops, kunt u e
 
 Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo om u uit te nodigen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* U moet een Marketo-e-maillicentie [hebben](issue-a-marketo-email-add-in-license.md)ontvangen.
 
