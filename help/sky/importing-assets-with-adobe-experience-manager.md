@@ -2,9 +2,9 @@
 title: importeren-assets-with-adobe-Experience-manager
 description: Middelen importeren met Adobe Experience Manager
 translation-type: tm+mt
-source-git-commit: d2195ba23fb1241b54b493d625c50aa4c1704845
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ Met de Asset Picker kunnen [!DNL Marketo] klanten AEM middelen openen, selectere
 >
 >Deze functie wordt momenteel alleen volledig ondersteund in Firefox. Deze functie wordt niet ondersteund in Safari en werkt mogelijk niet in de meest recente versie van Chrome, afhankelijk van de cookie-instellingen van SameSite.
 
-1. Selecteer in [!UICONTROL Design Studio], [!UICONTROL **Afbeeldingen en Bestanden**].
+1. Selecteer [!UICONTROL Design Studio]in **[!UICONTROL Images and Files]**.
 
    ![Afbeelding één](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Klik op de [!UICONTROL Images and Files] vervolgkeuzelijst en selecteer Afbeelding of Bestand [!UICONTROL ****] importeren.
+1. Klik op de [!UICONTROL Images and Files] vervolgkeuzelijst en selecteer **[!UICONTROL Import Image or File]**.
 
    ![Afbeelding twee](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-2.png)
 
-1. Klik op het keuzerondje naast [!DNL Adobe Experience Manager] en klik op [!UICONTROL **Volgende**].
+1. Klik op het keuzerondje naast [!DNL Adobe Experience Manager] en klik **[!UICONTROL Next]**.
 
    ![Afbeelding drie](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-3.png)
 
@@ -42,7 +42,7 @@ Met de Asset Picker kunnen [!DNL Marketo] klanten AEM middelen openen, selectere
 
    ![Afbeelding vier](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Kies uw map. Selecteer de gewenste afbeeldingen (u kunt maximaal 10 afbeeldingen kiezen) en klik op [!UICONTROL **Selecteren**].
+1. Kies uw map. Selecteer de gewenste afbeeldingen (u kunt maximaal 10 afbeeldingen kiezen) en klik op **[!UICONTROL Select]**.
 
    ![Afbeelding vijf](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,11 +50,11 @@ Met de Asset Picker kunnen [!DNL Marketo] klanten AEM middelen openen, selectere
    >
    >Afbeeldingen mogen niet groter zijn dan 100 MB.
 
-1. Verifieer de beelden u hebt gekozen, selecteer de bestemmingsomslag ([!UICONTROL Images and Files] is het gebrek) en klik [!UICONTROL **daarna**].
+1. Verifieer de beelden u hebt gekozen, selecteer de bestemmingsomslag ([!UICONTROL Images and Files] is het gebrek) en klik **[!UICONTROL Next]**.
 
    ![Afbeelding zes](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-6.png)
 
-En dat is het! Klik op [!UICONTROL **Sluiten**] om terug te keren naar Afbeeldingen en Bestanden.
+En dat is het! Klik **[!UICONTROL Close]** om terug te keren naar Afbeeldingen en Bestanden.
 
 ![Afbeelding zeven](/help/sky/assets/design-studio/importing-assets-with-adobe-experience-manager/importing-assets-with-adobe-experience-manager-7.png)
 
