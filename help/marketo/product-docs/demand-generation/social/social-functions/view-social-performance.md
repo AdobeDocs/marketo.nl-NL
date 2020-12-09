@@ -3,9 +3,9 @@ unique-page-id: 2359763
 description: Sociale prestaties weergeven - Marketo Docs - Productdocumentatie
 title: Sociale prestaties weergeven
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ Bekijk de sociale activiteiten die worden gegenereerd door uw sociale apps. Het 
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >U kunt ook triggers en filters gebruiken om te zien wie uw inhoud deelt en met uw sociale apps werkt, zodat u op die interacties kunt reageren. Zie [Triggers en filters gebruiken voor sociale activiteiten](triggers-and-filters-for-social-activities.md).
 
