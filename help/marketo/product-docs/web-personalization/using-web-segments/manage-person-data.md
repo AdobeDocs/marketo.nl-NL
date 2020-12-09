@@ -3,9 +3,9 @@ unique-page-id: 7504051
 description: Persoonlijke gegevens beheren - Marketo Docs - Productdocumentatie
 title: Persoonlijke gegevens beheren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,7 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
 
 De volgende belangrijke gebieden worden verstrekt uit de doos voor nieuwe rekeningen van de Personalisatie van het Web:
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een segment maken met bekende persoongegevens](create-a-segment-using-known-person-data.md)
 
