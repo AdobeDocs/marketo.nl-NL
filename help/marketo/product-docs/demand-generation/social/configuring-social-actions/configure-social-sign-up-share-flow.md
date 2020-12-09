@@ -3,9 +3,9 @@ unique-page-id: 2950530
 description: Sociale aanmelding/Share Flow configureren - Marketo Docs - Productdocumentatie
 title: Maatschappelijke aanmelding/workflow delen configureren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
@@ -113,9 +113,7 @@ Als u de waarden van de paginatags (og:title, og:caption en og:description) kies
 >
 >Als u een afbeelding uploadt, wordt deze hier pas weergegeven wanneer u de editor voor de sociale app sluit en weer opent.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >Vervolgens kunt u op **Voltooien > Goedkeuren en Sluiten** klikken en de sociale app op een bestemmingspagina plaatsen. U kunt [persoon ook vormen vangt](configure-person-capture-for-a-social-app.md) of [herdeelherinnering](configure-re-share-email-and-prompt-for-a-social-app.md).
 
