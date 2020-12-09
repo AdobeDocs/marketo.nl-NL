@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Overzicht van MSI-functies - Marketo Docs - Productdocumentatie
 title: Overzicht van MSI-functies
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ Salesforce Classic: Voeg toe aan Controlelijst, voeg aan Marketo Campaign toe, e
 * MSI-configuratie: Omvat configuratie van Marketo tabel en MSI visualforce paneel
 * Marktkoopoverzicht opnieuw instellen: Inclusief de mogelijkheid om alle configuraties uit te vegen
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Het lusje van de Configuratie van het Inzicht van de Verkoop van de Marketo in Salesforce](http://docs.marketo.com/x/UoCMAg)
 
