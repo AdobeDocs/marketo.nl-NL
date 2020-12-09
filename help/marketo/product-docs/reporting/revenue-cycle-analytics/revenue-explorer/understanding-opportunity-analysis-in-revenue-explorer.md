@@ -3,9 +3,9 @@ unique-page-id: 2951884
 description: De Analyse van de Kans in de Ontdekkingsreiziger van de Inkomsten - Marketo DOS - de Documentatie van het Product
 title: De Analyse van de Kans van het begrip in de Ontdekkingsreiziger van de Inkomsten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '899'
 ht-degree: 0%
 
 ---
@@ -149,9 +149,7 @@ De Analyse van de kansen geeft u toegang tot alle lood, bedrijf en opportuniteit
    | Opportuniteitsbedrag (open) | Totaalbedrag voor open kansen. Als meer dan één lood met een kans wordt geassocieerd, is het toewijzingsbedrag gebaseerd op loodscore. |
    | Opportuniteitsbedrag (gewonnen) | Totaalbedrag voor eigen kansen. Als meer dan één lood met een kans wordt geassocieerd, is het toewijzingsbedrag gebaseerd op loodscore. |
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een rapport van de inkomstenverkenner maken](create-a-revenue-explorer-report.md)
 >* [Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](adding-fields-to-a-revenue-explorer-report.md)
