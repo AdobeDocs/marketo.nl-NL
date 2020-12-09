@@ -2,9 +2,9 @@
 title: define-a-smart-list-for-a-batch-campagne
 description: Een slimme lijst definiëren voor een batchcampagne
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 De slimme lijsten zijn het mechanisme door Marketo om &quot;te bepalen wie&quot;(welke mensen) moet omvatten, of het een rapport, een lijst, of een slimme campagne is. Hier is hoe te om een slimme lijst voor een partijcampagne te bepalen.
 
-1. Kies een slimme campagne en klik op [!UICONTROL **Slimme lijst**].
+1. Kies een slimme campagne en klik op **[!UICONTROL Smart List]**.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-1.png)
 
@@ -32,7 +32,7 @@ De slimme lijsten zijn het mechanisme door Marketo om &quot;te bepalen wie&quot;
    >
    >U kunt een slimme campagne op één persoon tegelijkertijd maken die op levende gebeurtenissen wordt gebaseerd door trekkers toe te voegen, die de slimme campagne in de wijze van de Trekker zet.
 
-1. Klik op de vervolgkeuzelijst en kies een filteroperator ( [!UICONTROL **is**], [!UICONTROL **is niet**], enz.) voor het filter dat u hebt gekozen.
+1. Klik op de vervolgkeuzelijst en kies een filteroperator (bijvoorbeeld **[!UICONTROL is]**, **[!UICONTROL is not]**, enzovoort) voor het filter dat u hebt gekozen.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-3.png)
 
