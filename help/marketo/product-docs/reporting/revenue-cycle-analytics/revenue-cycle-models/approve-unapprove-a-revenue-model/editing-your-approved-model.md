@@ -3,9 +3,9 @@ unique-page-id: 5472402
 description: Uw goedgekeurde model bewerken - Marketo Docs - Productdocumentatie
 title: Uw goedgekeurde model bewerken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ ht-degree: 0%
 
 U kunt slechts één goedgekeurd model tegelijk hebben. Als u een model wilt goedkeuren maar reeds één goedgekeurd, zult u uw huidig model eerst moeten goedkeuren. Bewerk indien mogelijk uw model in plaats van een nieuw model te maken.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Een nieuw inkomstenmodel maken](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
