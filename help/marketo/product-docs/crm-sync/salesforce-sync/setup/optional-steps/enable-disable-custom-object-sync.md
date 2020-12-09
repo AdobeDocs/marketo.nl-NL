@@ -3,9 +3,9 @@ unique-page-id: 4719297
 description: Aangepaste objectsynchronisatie inschakelen/uitschakelen - Marketo Docs - Productdocumentatie
 title: Aangepaste objectsynchronisatie inschakelen/uitschakelen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook onde
 
    Uitstekend! U kunt de gegevens van dit aangepaste object nu gebruiken in slimme campagnes en slimme lijsten.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
 
