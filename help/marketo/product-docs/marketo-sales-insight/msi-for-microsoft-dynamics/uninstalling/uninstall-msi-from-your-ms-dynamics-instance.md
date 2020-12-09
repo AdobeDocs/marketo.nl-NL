@@ -3,9 +3,9 @@ unique-page-id: 37355600
 description: MSI van uw Instantie van de Dynamiek van MS - Marketo Docs - de Documentatie van het Product
 title: MSI verwijderen uit de instantie van MS Dynamics
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Om MSI van uw instantie van de Dynamica van MS te desinstalleren, zult u stappen in zowel Marketo als de Dynamica van MS moeten uitvoeren.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >[Global MS Dynamics Sync uitschakelen](http://docs.marketo.com/x/TAA6Ag)
 
