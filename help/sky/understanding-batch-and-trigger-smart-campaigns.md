@@ -2,9 +2,9 @@
 title: understanding-and-trigger-smart-campagnes
 description: Slimme campagnes in batch en trigger
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Slimme batchcampagnes hebben alleen filters in de sectie van de slimme lijst (du
 
 ![Afbeelding één](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Als u op het tabblad [!UICONTROL **Planning**] klikt, wordt bevestigd dat de slimme campagne is ingesteld op &quot;Batch&quot;.
+Als u op het **[!UICONTROL Schedule]** tabblad klikt, wordt bevestigd dat de slimme campagne is ingesteld op Batch.
 
 ![Afbeelding twee](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -42,7 +42,7 @@ Als een slimme campagne minstens één trigger in de sectie van de slimme lijst 
 
 ![Afbeelding drie](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Als u op het tabblad [!UICONTROL **Planning**] klikt, wordt bevestigd dat de slimme campagne is ingesteld op &quot;Trigger&quot;.
+Als u op het **[!UICONTROL Schedule]** tabblad klikt, wordt bevestigd dat de slimme campagne is ingesteld op &quot;Trigger&quot;.
 
 ![Afbeelding vier](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
