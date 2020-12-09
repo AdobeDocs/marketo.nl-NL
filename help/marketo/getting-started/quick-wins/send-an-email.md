@@ -3,9 +3,9 @@ unique-page-id: 2359410
 description: E-mail verzenden - Marketo Docs - Productdocumentatie
 title: E-mail verzenden
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 >
 >Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Instellen en een persoon toevoegen](get-set-up-and-add-a-person.md)
 
