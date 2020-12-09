@@ -3,9 +3,9 @@ unique-page-id: 557275
 description: Ingebouwde/systeem slimme lijsten gebruiken - Marketo Docs - Productdocumentatie
 title: Ingebouwde/systeemslimme lijsten gebruiken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Hier volgt een overzicht van wat de ingebouwde slimme lijsten doen:
 >
 >De slimme lijsten van het systeem kunnen niet worden geschrapt. Met uitzondering van de lijst Mogelijke duplicaten, kunnen deze ook niet worden bewerkt.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
