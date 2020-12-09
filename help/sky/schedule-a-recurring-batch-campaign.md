@@ -2,9 +2,9 @@
 title: planning-a-terugkerende-partijcampagne
 description: Een terugkerende batchcampagne plannen
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -22,23 +22,23 @@ In dit voorbeeld kiezen we een keer per week, dinsdag om 8:00 uur.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-1.png)
 
-1. Ga naar het tabblad [!UICONTROL **Schema**] en klik op [!UICONTROL **Herhaling**] instellen.
+1. Ga naar het **[!UICONTROL Schedule]** tabblad en klik **[!UICONTROL Set Recurrence]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-2.png)
 
-1. Klik op de vervolgkeuzelijst [!UICONTROL **Terugkeren**] en selecteer [!UICONTROL **Wekelijks**].
+1. Klik op de **[!UICONTROL Recurring]** vervolgkeuzelijst en selecteer **[!UICONTROL Weekly]**.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-3.png)
 
-1. Klik op het kalenderpictogram naast [!UICONTROL **Begindatum**] herhaling en selecteer de dag voor de eerste uitvoering en de tijd. Voor dit voorbeeld, gebruiken wij volgende beschikbare Dinsdag. Klik buiten de kalender als u klaar bent.
+1. Klik op het kalenderpictogram naast **[!UICONTROL Recurrence Start Date]** en selecteer de dag voor de eerste uitvoering en de tijd. Voor dit voorbeeld, gebruiken wij volgende beschikbare Dinsdag. Klik buiten de kalender als u klaar bent.
 
    ![Afbeelding vier](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-4.png)
 
-1. Stel [!UICONTROL **Herhalen om de**] 1 in en selecteer [!UICONTROL **Dinsdag**].
+1. Stel **[!UICONTROL Repeat every]** in op 1 en selecteer **[!UICONTROL Tuesday]**.
 
    ![Afbeelding vijf](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-5.png)
 
-1. Klik op het kalenderpictogram naast [!UICONTROL **Einddatum**] en kies een einddatum. Klik op [!UICONTROL **Bevestigen**] wanneer u klaar bent.
+1. Klik op het kalenderpictogram naast **[!UICONTROL Ending on]** en kies een einddatum. Klik **[!UICONTROL Confirm]** wanneer gereed.
 
    ![Afbeelding zes](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-6.png)
 
