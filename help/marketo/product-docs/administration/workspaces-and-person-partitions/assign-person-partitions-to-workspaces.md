@@ -3,9 +3,9 @@ unique-page-id: 2360317
 description: Personen partities toewijzen aan werkruimten - Marketo Docs - Productdocumentatie
 title: Personen partities toewijzen aan werkruimten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt b
 >
 >**Beheerdersmachtigingen vereist**
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >[Een nieuwe werkruimte maken](create-a-new-workspace.md)
 
