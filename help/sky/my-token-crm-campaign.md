@@ -2,9 +2,9 @@
 title: my-token-crm-campagne
 description: Mijn token CRM-campagne
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Hier is hoe te opstelling een teken van de Campagne van CRM voor gebruik in uw p
 >
 >CRM-campagne Mijn tokens zijn alleen beschikbaar voor Salesforce-integratie.
 
-1. Op het Mijn lusje van Tokens van uw programma of omslag, sleep een teken van de Campagne van [!UICONTROL **CRM**] aan het Lokale Tokens canvas.
+1. Sleep op het tabblad Mijn tokens van uw programma of map een **[!UICONTROL CRM Campaign]** token naar het canvas Lokale tokens.
 
    ![Afbeelding één](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
-2. Ga een naam voor uw nieuw teken in, dan selecteer een campagne van CRM van drop-down. Klik op [!UICONTROL **Opslaan**].
+2. Ga een naam voor uw nieuw teken in, dan selecteer een campagne van CRM van drop-down. Klik **[!UICONTROL Save]**.
 
    ![Afbeelding twee](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-2.png)
 
