@@ -3,9 +3,9 @@ unique-page-id: 2949904
 description: Testgroepen voor landingspagina - Marketo-documenten - Productdocumentatie
 title: Testgroepen voor landingspagina
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke geteste pagina in een testgroep. U kunt de resultaten van de testgroep gebruiken om te beslissen welke het landen Pagina het meest dwingende is. Hier is hoe te om een testgroep tot stand te brengen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >[Twee of meer bestemmingspagina](../../../../getting-started/quick-wins/landing-page-with-a-form.md)&#39;s samenstellen, bij voorkeur met een formulier.
 
