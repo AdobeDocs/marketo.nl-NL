@@ -3,9 +3,9 @@ unique-page-id: 2359781
 description: Een verwijzingsaanbod maken - Marketo Docs - Productdocumentatie
 title: Verwijzingsvoorstel maken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,7 @@ Als er problemen zijn in het verwijzingsaanbod, wordt u gevraagd deze aan te pak
 
 Gefeliciteerd! Je hebt je verwijzingsvoorstel gemaakt.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >De volgende stap bestaat uit het [publiceren van uw verwijzingsaanbod](publish-a-referral-offer.md) op een openingspagina, op uw website of op Facebook.
 
