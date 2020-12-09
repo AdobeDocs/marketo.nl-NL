@@ -3,9 +3,9 @@ unique-page-id: 10096675
 description: Onderliggende campagnes en lokale middelen maken - Marketo Docs - Productdocumentatie
 title: Onderliggende campagnes en lokale elementen maken
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -99,9 +99,7 @@ De stap E-mail **** verzenden MOET de tweede stap zijn. Het bevestigingsbericht 
 
 Uw volgende stap bestaat uit het [testen van de integratie](test-your-on24-event-integration.md)van uw ON24-gebeurtenis.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Inzicht in Marketo ON24-adaptergebeurtenissen](understanding-marketo-on24-adapter-events.md)
 >* [Voorbeeld ON24-gebeurtenisintegratie](example-on24-event-integration.md)
