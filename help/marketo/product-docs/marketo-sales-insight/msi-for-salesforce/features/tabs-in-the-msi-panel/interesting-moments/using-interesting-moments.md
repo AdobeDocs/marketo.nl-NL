@@ -3,9 +3,9 @@ unique-page-id: 2951640
 description: Interesserende momenten gebruiken - Marketo Docs - Productdocumentatie
 title: Interesserende momenten gebruiken
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Interesserende momenten zijn de sleutel tot het communiceren met uw verkoopteam via de app Marktkoopoverzicht.
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Deze zijn alleen beschikbaar voor Marketo Sales Insight en [Marketo Sales Connect](http://docs.marketo.com/x/fgTLAQ) -klanten.
 
@@ -31,7 +29,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe maak ik een interessant moment?  {#how-do-i-create-an-interesting-moment}
 
-1. Kies een [s](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [smart campagne](http://docs.marketo.com/display/docs/smart+campaigns), bij voorkeur één uw verkoopteam interessant zou vinden indien teweeggebracht.
+1. Kies een [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), bij voorkeur één uw verkoopteam interessant zou vinden indien teweeggebracht.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -76,4 +74,3 @@ Nadat u de Marketo Sales Insight App [hebt](../../../../../../product-docs/marke
 Nadat u Marketo Sales Insight voor Salesforce1 hebt geïnstalleerd of bijgewerkt, worden interessante momenten weergegeven onder de bijbehorende koppelingen van de lead.
 
 ![](assets/seven.png)
-
