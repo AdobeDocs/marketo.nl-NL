@@ -3,9 +3,9 @@ unique-page-id: 3571805
 description: Stap 1 van 3 - installeer de Oplossing van de Marketo (2011 On-Premises) - Marketo Docs - de Documentatie van het Product
 title: Stap 1 van 3 - installeer de Oplossing van de Marketo (2011 On-Premises)
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,7 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 >
 >Nadat u Marketo aan CRM synchroniseert, kunt u geen nieuwe synchronisatie uitvoeren zonder de instantie te vervangen.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >U moet [Internet Facing Plaatsing](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) met de [Actieve Diensten](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0 van de Federatie van de Folder, 2.1 of 3.0 (ADFS) gevormd hebben. **Opmerking**: Het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
 >
