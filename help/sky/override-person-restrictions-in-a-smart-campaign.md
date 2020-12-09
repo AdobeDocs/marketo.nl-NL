@@ -2,9 +2,9 @@
 title: override-person-constraints-in-a-smart-campagne
 description: Persoonlijke beperkingen in een slimme campagne negeren
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Marketo stelt het maximumaantal personen in dat in aanmerking komt voor een slim
 >
 >Zorg ervoor dat u persoonlijke beperkingen [inschakelt voor slimme campagnes](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) in Marketo [!UICONTROL Admin].
 
-1. Zoek uw slimme campagne en klik op [!UICONTROL **Planning**].
+1. Zoek uw slimme campagne en klik op **[!UICONTROL Schedule]**.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. Klik op [!UICONTROL **Kwalificatieregels**].
+1. Klik **[!UICONTROL Qualification Rules]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-2.png)
 
@@ -32,7 +32,7 @@ Marketo stelt het maximumaantal personen in dat in aanmerking komt voor een slim
    >
    >De standaardlimiet is de limiet die is ingesteld in Beheer.
 
-1. Voer een nieuwe limiet in naast de campagne [!UICONTROL **Afbreken als gekwalificeerde leads groter**] zijn.
+1. Voer naast **[!UICONTROL Abort campaign if qualified leads exceed]** een nieuwe limiet in.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-3.png)
 
