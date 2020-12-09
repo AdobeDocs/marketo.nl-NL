@@ -3,9 +3,9 @@ unique-page-id: 2949182
 description: SEO - Trefwoorden begrijpen - Marketo Docs - Productdocumentatie
 title: SEO - Trefwoorden begrijpen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -60,9 +60,7 @@ U kunt ook bekijken hoe uw concurrenten het gebruiken van de zelfde metriek uitv
 
 Geweldig! Nu u de sleutelwoordensectie begrijpt, leren wij over pagina&#39;s en binnenkomende verbindingen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Pagina&#39;s begrijpen](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
 >* [Inkomende koppelingen begrijpen](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
