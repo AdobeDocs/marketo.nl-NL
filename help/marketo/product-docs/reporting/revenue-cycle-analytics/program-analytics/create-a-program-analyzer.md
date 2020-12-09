@@ -3,9 +3,9 @@ unique-page-id: 2360399
 description: Een programmaanalyse maken - Marketo Docs - Productdocumentatie
 title: Een programmaanalyse maken
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -65,9 +65,7 @@ Ontdek welke programma&#39;s en kanalen u de grootste waar voor uw marketinggeld
 
 ![](assets/november-custom-report.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Kanaaleffectiviteit vergelijken met de programmaanalyse](compare-channel-effectiveness-with-the-program-analyzer.md)
 >* [De doeltreffendheid van het Programma met de Analysator van het Programma vergelijken](compare-program-effectiveness-with-the-program-analyzer.md)
