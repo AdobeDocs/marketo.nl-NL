@@ -3,9 +3,9 @@ unique-page-id: 7514985
 description: Plan een Slimme Campagne van de Partij in de Mening van het Programma - Marketo Docs - de Documentatie van het Product opnieuw
 title: Plan een slimme campagne van de Partij in de Mening van het Programma opnieuw
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,7 @@ Wilt u een &#39;batch smart campagne&#39; opnieuw plannen? Sleep en zet ze neer 
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Het opnieuw bepalen van een Hele Programma van de Mening van het Programma](rescheduling-an-entire-program-from-the-schedule-view.md)
 
