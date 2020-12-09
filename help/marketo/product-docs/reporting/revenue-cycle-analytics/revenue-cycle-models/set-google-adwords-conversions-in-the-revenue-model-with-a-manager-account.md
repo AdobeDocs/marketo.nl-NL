@@ -3,9 +3,9 @@ unique-page-id: 7504923
 description: Google AdWords-conversies in het inkomstenmodel instellen met een beheerdersaccount - Marketo Docs - Productdocumentatie
 title: Google AdWords-conversies in het inkomstenmodel instellen met een beheerdersaccount
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,7 @@ U kunt AdWords off-line omzettingen in kaart brengen aan één of meerdere stadi
 * Werkgebiedactie
 * Toewijzing van adWoorden
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >* [Google AdWords toevoegen als opstartservice met een beheerdersaccount](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
