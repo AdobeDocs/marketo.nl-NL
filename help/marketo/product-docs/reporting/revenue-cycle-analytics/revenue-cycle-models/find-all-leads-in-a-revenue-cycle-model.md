@@ -3,9 +3,9 @@ unique-page-id: 2360423
 description: Alle leads zoeken in een Revenue Cycle Model - Marketo Docs - Productdocumentatie
 title: Alle leads zoeken in een inkomstencyclusmodel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Door slimme lijsten te gebruiken, kunt u alle leden van het model van de opbrengstcyclus gemakkelijk vinden.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >[Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
