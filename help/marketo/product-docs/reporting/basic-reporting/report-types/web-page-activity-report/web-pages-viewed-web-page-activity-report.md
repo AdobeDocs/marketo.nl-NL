@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: Bekeken de Pagina's van het Web, het Rapport van de Activiteit van de Web-pagina - Marketo Docs - de Documentatie van het Product
 title: Bekeken de Pagina's van het Web, het Rapport van de Activiteit van de Web-pagina
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Van een rapport [van de Activiteit van de](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)Web-pagina, kunt u de specifieke pagina&#39;s zien die door de mensen in het rapport werden bekeken.
 
->[!NOTE]
->
->**Vereisten**
+>[!PREREQUISITES]
 >
 >Als u activiteiten wilt vastleggen vanaf uw website in Marketo, moet u eerst Munchkin [instellen op uw site](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
