@@ -2,9 +2,9 @@
 title: add-a-stream-an-engagement-programma
 description: Een stream toevoegen aan een betrokkenheidsprogramma
 translation-type: tm+mt
-source-git-commit: cd1b7e65c73de0b31f20289402f1c0832c382b33
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '46'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Betrokkenheidsprogramma&#39;s kunnen meerdere streams bevatten.
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-1.png)
 
-1. Klik op het tabblad [!UICONTROL **Streams**] .
+1. Klik op het **[!UICONTROL Streams]** tabblad.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-2.png)
 
-1. Klik op Stream [!UICONTROL **toevoegen**].
+1. Klik **[!UICONTROL Add Stream]**.
 
    ![Afbeelding drie](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-3.png)
 
