@@ -3,9 +3,9 @@ unique-page-id: 2359757
 description: Een sociale knop toevoegen aan een landingspagina - Marketo Docs - Productdocumentatie
 title: Een sociale knop toevoegen aan een bestemmingspagina
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ Gefeliciteerd! U hebt een sociale knop toegevoegd aan uw bestemmingspagina. Geef
 >
 >Als u tijd wilt besparen, kunt u de optie **Klonen uit** gebruiken om alle instellingen van een bestaande sociale knop te kopiëren.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >U bent klaar, maar u kunt de montages van uw sociale knoop indien nodig veranderen. Begin met het [aanpassen van de knopstijl](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) en het [bewerken van de gedeelde berichten](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) die worden weergegeven.
