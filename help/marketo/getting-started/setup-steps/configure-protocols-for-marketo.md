@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Protocollen configureren voor Marketo - Marketo Docs - Productdocumentatie
 title: Protocollen voor Marketo configureren
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '712'
 ht-degree: 1%
 
 ---
@@ -15,9 +15,17 @@ ht-degree: 1%
 
 Uw marketinggroep maakt gebruik van Marketo om pagina&#39;s en e-mails met brandingcampagne te maken. Om ervoor te zorgen dat die landingspagina&#39;s en e-mails werken, hebben ze een beetje hulp van IT nodig. Stel de volgende protocollen in met de informatie die uw marketinggroep u per e-mail had moeten sturen.
 
+Dit artikel zou met de afdeling van IT van het bedrijf moeten worden gedeeld die deze protocollen willen uitvoeren.
+
 >[!NOTE]
 >
->Dit specifieke artikel is bedoeld om door de afdeling van IT van het bedrijf te worden bekeken die deze protocollen willen uitvoeren.
+>Als uw team van IT Webtoegang gebruikend een lijst van gewenste personen beperkt, vraag hen om de volgende domeinen (met inbegrip van de asterisk) toe te voegen om alle middelen en websockets van de Marketo toe te staan:
+
+* `*.marketo.com`
+
+* `*.marketodesigner.com`
+
+* `*.mktoweb.com`
 
 ## Stap 1: DNS-records maken voor bestemmingspagina&#39;s en e-mail {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -25,14 +33,15 @@ Uw marketinggroep maakt gebruik van Marketo om pagina&#39;s en e-mails met brand
 
 Uw marketing team zou u twee verzoeken om nieuwe verslagen van CNAME moeten hebben verzonden. De eerste is voor het landen van pagina URLs, zodat de landende pagina&#39;s in URLs verschijnen die uw domein en niet Marketo (de daadwerkelijke gastheer) weerspiegelen. Het tweede is voor de trackingkoppelingen die zijn opgenomen in de e-mails die ze van Marketo verzenden.
 
-1 - **CNAME toevoegen voor bestemmingspagina&#39;s**
+`1` **CNAME toevoegen voor bestemmingspagina&#39;s**
 
 Voeg de het landen pagina CNAME toe zij u naar uw DNS verslag hebben verzonden, zodat `[YourLandingPageCNAME]` richt aan het unieke Koord van de Rekening dat aan uw Marketo landende pagina&#39;s wordt toegewezen. Meld u aan bij de site van uw domeinregistrar en voer de landingspagina CNAME en accounttekenreeks in. Dit betreft meestal drie velden:
 
-・ Alias: Enter `[YourLandingPageCNAME]` (verstrekt door marketing)・ Type: CNAME\
-・ Punt naar: Enter `[MarketoAccountString].mktoweb.com` (opgegeven door marketing)
+* Alias: Enter `[YourLandingPageCNAME]` (opgegeven door marketing)
+* Type: CNAME
+* Wijs aan: Enter `[MarketoAccountString].mktoweb.com` (opgegeven door marketing)
 
-2 - **CNAME toevoegen voor koppelingen voor e-mailtracking**
+`2` **CNAME toevoegen voor koppelingen voor e-mailtracking**
 
 Voeg de e-mailmarketing van CNAME toe die u hebt verzonden, zodat `[YourEmailCNAME]` punten naar [MktoTrackingLink], de standaard volgende koppeling die Marketo heeft toegewezen, in het formaat:\
 `[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
@@ -41,7 +50,7 @@ Bijvoorbeeld:
 
 `pages.abc.com IN CNAME mkto-a0244.com`
 
-3 - **Uw marketingteam op de hoogte stellen**
+`3` **Uw marketingteam op de hoogte stellen**
 
 Melden aan uw marketingteam wanneer u dit proces hebt voltooid.
 
@@ -52,7 +61,7 @@ Wanneer uw groep van de Marketing Marketo gebruikt om teste-mails (een beste pra
 Voeg deze IP adressen aan uw collectieve lijst van gewenste personen toe:
 
 199.15.212.0/22\
-192.28.144.0/20\
+192.28.144.0/20
 192.28.160.0/19\
 185.28.196.0/22\
 130.248.172.0/24\
@@ -64,7 +73,7 @@ Sommige anti-anti-spamsystemen gebruiken het terug-weg van e-mail gebied in plaa
 
 >[!NOTE]
 >
->Postini gebruikt een unieke technologie en vereist toevoegende op lijst van gewenste personen IP waaiers. Zie [Toevoegend op lijst van gewenste personen met Postini](http://nation.marketo.com/docs/DOC-1066).
+>Postini gebruikt een unieke technologie en vereist toevoegende op lijst van gewenste personen IP waaiers. Zie [Toevoegend op lijst van gewenste personen met Postini](https://nation.marketo.com/docs/DOC-1066).
 
 ## Stap 3: SPF en DKIM instellen {#step-set-up-spf-and-dkim}
 
@@ -73,10 +82,10 @@ Uw marketingteam had u ook DKIM-informatie moeten sturen die u wilt toevoegen aa
 1. Aan opstelling SPF, voeg de volgende lijn aan onze DNS ingangen toe:
 
    `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   omvatten: [mktomail.com](http://mktomail.com/) ~all
+   omvatten: mktomail.com ~all
 
    Als wij reeds een bestaand SPF- verslag in onze DNS ingang hebben, voeg eenvoudig het volgende aan het toe:\
-   omvatten: [mktomail.com](http://mktomail.com)
+   omvatten: mktomail.com
 
    CompanyDomain vervangen door het hoofddomein van uw website (bijvoorbeeld: &quot;`(company.com/)`&quot;) en CorpIP met het IP adres van uw collectieve e-mailserver (bv. &quot;255.255.255.255&quot;). Als u e-mail van veelvoudige domeinen door Marketo zult verzenden, zou u uw personeel van IT deze lijn voor elk domein (op één lijn) moeten hebben toevoegen.
 
@@ -86,7 +95,7 @@ Uw marketingteam had u ook DKIM-informatie moeten sturen die u wilt toevoegen aa
 
    `[DKIMDomain2]`: Hostrecord is `[HostRecord2]` en de TXT-waarde is `[TXTValue2]`.
 
-   Kopieer HostRecord en TXTValue voor elke DKIMDomain u opstelling na het volgen van de [instructies hier](https://docs.marketo.com/display/public/DOCS/Set+up+a+Custom+DKIM+Signature)hebt. Vergeet niet om elk domein in Admin > E-mail > DKIM te verifiëren nadat uw personeel van IT deze stap heeft voltooid.
+   Kopieer HostRecord en TXTValue voor elke DKIMDomain u opstelling na het volgen van de [instructies hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)hebt. Vergeet niet om elk domein in Admin > E-mail > DKIM te verifiëren nadat uw personeel van IT deze stap heeft voltooid.
 
 ## Stap 4: MX-records instellen voor uw domein {#step-set-up-mx-records-for-your-domain}
 
