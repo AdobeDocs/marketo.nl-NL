@@ -3,21 +3,15 @@ unique-page-id: 2360309
 description: Werken- en personenpartities begrijpen - Marketo Docs - Productdocumentatie
 title: Werken- en personenpartities begrijpen
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '511'
 ht-degree: 0%
 
 ---
 
 
 # Werken- en personenpartities begrijpen {#understanding-workspaces-and-person-partitions}
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 ## Werkruimten {#workspaces}
 
