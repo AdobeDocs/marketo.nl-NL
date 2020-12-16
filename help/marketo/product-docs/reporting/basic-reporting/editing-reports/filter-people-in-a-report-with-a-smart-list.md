@@ -3,9 +3,9 @@ unique-page-id: 2360016
 description: Filter Mensen in een Rapport met een Slimme Lijst - Marketo Docs - de Documentatie van het Product
 title: Personen in een rapport filteren met een slimme lijst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Personen in een rapport filteren met een slimme lijst {#filter-people-in-a-report-with-a-smart-list}
 
 Gebruik slimme lijsten om uw rapporten te filteren op specifieke persoonattributen.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 U kunt slimme lijsten met deze rapporttypes gebruiken:
 
