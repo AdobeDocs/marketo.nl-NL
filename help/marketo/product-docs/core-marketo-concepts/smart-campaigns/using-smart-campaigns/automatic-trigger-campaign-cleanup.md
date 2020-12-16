@@ -3,9 +3,9 @@ unique-page-id: 1147074
 description: Automatische opruiming van campagnes voor activering - Marketo Docs - Productdocumentatie
 title: Opruimen van campagne voor automatische activering
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Opruimen van campagne voor automatische activering {#automatic-trigger-campaign-cleanup}
 
 Marketo heeft een leuke/gratis service om getriggerde slimme campagnes die geen activiteit meer krijgen, te deactiveren. Dit versnelt de algemene systeemprestaties en bespaart u tijd.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 ## Wat gebeurt er? {#what-happens}
 
