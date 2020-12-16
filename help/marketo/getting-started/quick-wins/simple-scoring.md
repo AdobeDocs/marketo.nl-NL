@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: Eenvoudig scoren - Marketo Docs - Productdocumentatie
 title: Eenvoudige scores
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,10 @@ ht-degree: 0%
 
 # Eenvoudige scores {#simple-scoring}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
-
 >[!PREREQUISITES]
 >
 >* [Instellen en een persoon toevoegen](get-set-up-and-add-a-person.md)
 >* [Openingspagina met formulier](landing-page-with-a-form.md)
-
->
-
 
 
 ## Stap 1: Een scoringcampagne maken {#step-create-a-scoring-campaign}
@@ -68,11 +59,11 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Als u de [bestemmingspagina hebt voltooid met een formulier](landing-page-with-a-form.md) dat u snel kunt winnen, hebt u het formulier nodig. Als u een andere naam hebt gebruikt voor het formulier, selecteert u die naam.
+   >Als u de [bestemmingspagina hebt voltooid met een formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) dat u snel kunt winnen, hebt u het formulier nodig. Als u een andere naam hebt gebruikt voor het formulier, selecteert u die naam.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Klik op het tabblad **Flow **tab.
+1. Klik op het tabblad **Stroom** .
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
@@ -86,7 +77,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Goede scoringcampagnes zijn essentieel om mensen van hoge kwaliteit aan de Verkoop te leveren. Lees [**de Definitieve Gids aan het Toren van de Lood**](http://www.marketo.com/definitive-guides/lead-scoring/).
+   >Goede scoringcampagnes zijn essentieel om mensen van hoge kwaliteit aan de Verkoop te leveren. Lees [**de Definitieve Gids aan het Toren van de Lood**](https://www.marketo.com/definitive-guides/lead-scoring/).
 
 1. Klik op het tabblad **Schema** en op de knop **Activeren** .
 
@@ -102,7 +93,7 @@ ht-degree: 0%
 
 ## Stap 2: Het formulier invullen {#step-fill-out-the-form}
 
-1. Selecteer de openingspagina die u op de [bestemmingspagina hebt gemaakt met een formulier](landing-page-with-a-form.md) dat u snel kunt winnen.
+1. Selecteer de openingspagina die u op de [bestemmingspagina hebt gemaakt met een formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) dat u snel kunt winnen.
 
    ![](assets/fourteen-1.png)
 
@@ -110,7 +101,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
-1. Vul het formulier in met uw voornaam, achternaam en e-mailadres en klik vervolgens op **Verzenden** .
+1. Vul het formulier in met uw voornaam, achternaam en e-mailadres en klik vervolgens op **Verzenden**.
 
    ![](assets/image2014-9-24-11-3a47-3a59.png)
 
@@ -137,4 +128,6 @@ De gegevens van uw persoon worden geopend in een nieuw tabblad of venster. Zie h
 ![](assets/twenty.png)
 
 **Gefeliciteerd!** Je hebt een scoring campagne gemaakt.
-[◄ Missie 2: Openingspagina met formulier](landing-page-with-a-form.md) [Mission 4: Automatische e-mailrespons ►](email-auto-response.md)
+[◄ Missie 2: Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+
+[Missie 4: Automatische e-mailrespons ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
