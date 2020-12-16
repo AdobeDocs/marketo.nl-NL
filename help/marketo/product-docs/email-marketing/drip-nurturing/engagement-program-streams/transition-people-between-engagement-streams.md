@@ -3,9 +3,9 @@ unique-page-id: 2359947
 description: Overgang mensen tussen betrokkenheidsstromen - Marketo Docs - Productdocumentatie
 title: Overgang mensen tussen betrokkenheidsstromen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Overgang mensen tussen betrokkenheidsstromen {#transition-people-between-engagement-streams}
 
 Betrokkenheidsprogramma&#39;s kunnen meerdere streams hebben. Als u een stream [](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)toevoegt, wilt u een manier definiëren waarmee mensen van de ene stream naar de andere kunnen gaan. Dit worden **overgangsregels genoemd.**
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 1. Ga naar **marketingactiviteiten**.
 
