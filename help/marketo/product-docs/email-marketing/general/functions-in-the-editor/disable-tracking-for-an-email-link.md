@@ -3,9 +3,9 @@ unique-page-id: 1900579
 description: Bijhouden uitschakelen voor een e-mailkoppeling - Marketo Docs - Productdocumentatie
 title: Bijhouden uitschakelen voor een e-mailkoppeling
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Bijhouden uitschakelen voor een e-mailkoppeling {#disable-tracking-for-an-email-link}
 
 Soms wilt u de URL **voor het bijhouden van** markeertekens niet inschakelen voor een koppeling in een e-mailbericht. Dit is nuttig wanneer de bestemmingspagina geen parameters URL steunt en in een gebroken verbinding kan resulteren.
-
->[!NOTE]
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](/help/marketo/getting-started/updates-to-marketo-terminology.md)informatie.
 
 1. Selecteer uw e-mail en klik op **Concept** bewerken ****.
 
