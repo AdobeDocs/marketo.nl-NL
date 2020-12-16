@@ -3,21 +3,15 @@ unique-page-id: 4719304
 description: Impliciete Salesforce-acties - Marketo Docs - Productdocumentatie
 title: Impliciete Salesforce-acties
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
 
 # Impliciete Salesforce-acties {#implied-salesforce-actions}
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 Wanneer een salesforce-specifieke stroomstap wordt uitgevoerd, worden soms extra stappen automatisch uitgevoerd. Hier zijn de regels, dus weet u:
 
