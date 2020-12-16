@@ -3,9 +3,9 @@ unique-page-id: 2950578
 description: Gegevens van sociaal profiel beheren - Marketo-documenten - Productdocumentatie
 title: Gegevens van sociaal profiel beheren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Gegevens van sociaal profiel beheren {#manage-social-profile-data}
 
 Wanneer iemand communiceert met een [sociale app](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)Marketo of het sociale netwerk toestemming geeft om een Marketo-formulier vooraf in te vullen met een [sociale-formuliervulling](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), legt Marketo alle gegevens vast die beschikbaar zijn via het sociale profiel. U kunt deze informatie weergeven op de pagina [Details](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)persoon of deze toevoegen als een kolom in een [aangepaste weergave van een slimme lijst](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List).
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 In sociale formulieren en sociale toepassingen worden enigszins verschillende sets velden vastgelegd. zie de sectie voor elk hieronder.
 
