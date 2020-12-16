@@ -3,9 +3,9 @@ unique-page-id: 2360014
 description: Rapport over prestaties van mensen - Marketo Docs - Productdocumentatie
 title: Rapport over prestaties van mensen
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rapport over prestaties van mensen {#people-performance-report}
 
 Gebruik een Rapport van de Prestaties van Mensen om gegevensbestandgroei in tijd te meten. U kunt zien hoeveel mensen u hebt toegevoegd en wanneer. Meer weten over de mensen en uw programma&#39;s beoordelen. Groepeer de resultaten door om het even welke persoon of bedrijfattributen, of door [segmentatie](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 1. [Creeer een rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het de **rapporttype** van Prestaties [van](report-type-overview.md)Mensen.
 1. [Plaats het tijdkader van uw rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **lusje van het Rapport** .
