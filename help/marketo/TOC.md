@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Markeringsproductdocumentatie
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '7850'
+source-wordcount: '7840'
 ht-degree: 0%
 
 ---
@@ -43,8 +43,6 @@ ht-degree: 0%
       + [Te controleren items](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Te beoordelen handelingen: Kernvaardigheden](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Manieren om hulp te krijgen](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-   + [Het begrijpen van en het Gebruiken van de Pak van de Lancering](getting-started/understanding-and-using-the-launch-pack.md)
-   + [Updates van marktoterminologie](getting-started/updates-to-marketo-terminology.md)
 + Productdocumenten {#product-docs}
    + Op account gebaseerde marketing {#account-based-marketing}
       + Instellen {#setup}
