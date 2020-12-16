@@ -3,9 +3,9 @@ unique-page-id: 7514898
 description: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die "Campagne gebruikt wordt gevraagd" - Marketo Docs - de Documentatie van het Product
 title: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die "de Campagne wordt gevraagd"
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die &quot;de Campagne wordt gevraagd&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 Een van de mooiste kenmerken van Marketo is de mogelijkheid om verkoopmedewerkers te laten deelnemen aan de marketingactiviteiten. Ze staan op de voorgrond, communiceren met mensen. Verkoopvertegenwoordigers moeten de mogelijkheid hebben om de marketing in de juiste richting te sturen.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 >[!NOTE]
 >
