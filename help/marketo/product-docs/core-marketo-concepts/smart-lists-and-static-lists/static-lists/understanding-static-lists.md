@@ -3,21 +3,15 @@ unique-page-id: 2949891
 description: Statische lijsten begrijpen - Marketo Docs - Productdocumentatie
 title: Statische lijsten begrijpen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
 
 # Statische lijsten begrijpen {#understanding-static-lists}
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 Statische lijsten zijn een van de meest eenvoudige en nuttige kenmerken van Marketo. Zij zijn eenvoudig een lijst van namen van uw Gegevensbestand. U zult genoeg redenen vinden om hen te gebruiken.
 
