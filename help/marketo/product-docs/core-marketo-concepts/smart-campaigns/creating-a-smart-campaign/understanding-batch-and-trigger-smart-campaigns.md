@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Slimme campagnes in batch en trigger - Marketo Docs - Productdocumentatie
 title: Slimme campagnes in batch en trigger
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Slimme campagnes in batch en trigger {#understanding-batch-and-trigger-smart-campaigns}
 
 Er zijn twee soorten slimme campagnes: Batch en Trigger.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 ## Slimme batchcampagne {#batch-smart-campaign}
 
