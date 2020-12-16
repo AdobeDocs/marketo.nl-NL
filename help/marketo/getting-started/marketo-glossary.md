@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst
 translation-type: tm+mt
-source-git-commit: ca1f8ba28b3e3c096a86fe4c1ba8c96529b97b84
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -482,7 +482,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td><strong>Lood</strong></td> 
-   <td>In <strong>Marketo Engage</strong>, is lood de vorige termijn (<a href="/help/marketo/getting-started/updates-to-marketo-terminology.md" rel="nofollow">die door <strong>persoon</strong></a>wordt vervangen) die wordt gebruikt om een individu in uw <strong>gegevensbestand</strong> te beschrijven Marketo dat u door uw marketing campagnes in dienst neemt. In uw <strong>CRM</strong>, kan een lood een verschillend concept (d.w.z., een individu verbonden aan een <strong>kans</strong>) onafhankelijk van de functionaliteit van Marketo vertegenwoordigen.</td> 
+   <td>In <strong>Marketo Engage</strong>, is het lood de vorige termijn (die door <strong>persoon</strong>wordt vervangen) die wordt gebruikt om een individu in uw <strong>gegevensbestand</strong> van Marketo te beschrijven dat u door uw marketing campagnes aangaat. In uw <strong>CRM</strong>, kan een lood een verschillend concept (d.w.z., een individu verbonden aan een <strong>kans</strong>) onafhankelijk van de functionaliteit van Marketo vertegenwoordigen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Database lead</strong></td> 
