@@ -3,9 +3,9 @@ unique-page-id: 5472615
 description: Begrijpend Systeem Beheerde Gebieden - Marketo Docs - de Documentatie van het Product
 title: Werken met door het systeem beheerde velden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Werken met door het systeem beheerde velden {#understanding-system-managed-fields}
 
 U zou kunnen opgemerkt hebben dat de pagina [van het](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) persoondetail een reeks niet-editable gebieden heeft die door Marketo worden gecreeerd. Deze gegevens zijn afkomstig uit verschillende bronnen en er zijn talloze waarden die kunnen worden weergegeven.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 ## Veldtypen {#field-types}
 
