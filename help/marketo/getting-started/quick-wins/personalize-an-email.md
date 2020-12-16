@@ -3,9 +3,9 @@ unique-page-id: 2359422
 description: Een e-mail aanpassen - Marketo Docs - Productdocumentatie
 title: Een e-mail aanpassen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,16 @@ ht-degree: 0%
 
 ## Opdracht: Je e-mailberichten persoonlijk maken door gegevenstokens toe te voegen {#mission-make-your-emails-personal-by-adding-data-tokens}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
-
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](get-set-up-and-add-a-person.md)
->* [Een e-mailschok verzenden](send-an-email.md)
->* [Drip, Drip, Nurture](drip-drip-nurture.md)
+>* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Een e-mailschok verzenden](/help/marketo/getting-started/quick-wins/send-an-email.md)
+>* [Drip, Drip, Nurture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
 ## Stap 1: Selecteer een e-mailadres dat u wilt aanpassen {#step-select-an-email-to-personalize}
 
-1. Selecteer een van de e-mails die u in de [vorige snelle win](drip-drip-nurture.md) hebt gemaakt en klik op Concept **** bewerken.
+1. Selecteer een van de e-mails die u in de [vorige snelle win](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) hebt gemaakt en klik op Concept **** bewerken.
 
    ![](assets/one-4.png)
 
@@ -38,9 +32,7 @@ ht-degree: 0%
    >
    >Hiermee maakt u een kopie van de e-mail als concept. U moet het concept van de wijzigingen goedkeuren om live te gaan.
 
-   **Concept bewerken**
-
-Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in een nieuw tabblad/venster. Anders klikt u tweemaal.
+Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in een nieuw tabblad/venster. Klik anders tweemaal op Concept **** bewerken.
 
 ## Stap 2: De verkoper de afzender maken {#step-make-the-salesperson-the-sender}
 
@@ -108,11 +100,7 @@ Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in 
 
 >[!TIP]
 >
->Wilt u snel vernieuwen hoe u uzelf de e-mail kunt sturen? Zie [Een e-mailschoen](send-an-email.md)verzenden.
-
-### Een video bekijken {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/iRnqxMyJg6VKyuPeuxmHFb.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>Wilt u snel vernieuwen hoe u uzelf de e-mail kunt sturen? Zie [Een e-mailschoen](/help/marketo/getting-started/quick-wins/send-an-email.md)verzenden.
 
 ### Opdracht voltooid {#mission-complete}
 
@@ -120,4 +108,6 @@ Gefeliciteerd, je e-mail is gepersonaliseerd!
 
 <br> 
 
-[◄ Missie 6: Drip, Drip, Nurture](drip-drip-nurture.md) [Mission 8: De verkoper waarschuwen ►](alert-the-sales-rep.md)
+[◄ Missie 6: Drip, Drip, Nurture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+
+[Missie 8: De verkoper waarschuwen ►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
