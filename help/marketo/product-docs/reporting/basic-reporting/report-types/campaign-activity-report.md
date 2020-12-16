@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: Rapport Campagneactiviteiten - Marketo Docs - Productdocumentatie
 title: Rapport Campagneactiviteiten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rapport Campagneactiviteiten {#campaign-activity-report}
 
 Bekijk hoe uw [slimme campagnes](http://docs.marketo.com/display/docs/smart+campaigns) presteren.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 1. [Maak een rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **rapporttype** Campagneactiviteit [](report-type-overview.md).
 1. [Plaats het tijdkader van uw rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **lusje van het Rapport** .
