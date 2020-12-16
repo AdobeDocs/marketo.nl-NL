@@ -3,21 +3,15 @@ unique-page-id: 3571830
 description: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (Online) - Marketo Docs - de Documentatie van het Product
 title: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (Online)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
 
 
 # Stap 3 van 3: Microsoft Dynamics verbinden met Marketo (online) {#step-of-connect-microsoft-dynamics-with-marketo-online}
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
