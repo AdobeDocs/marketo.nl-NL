@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Een voorbeeld-e-mail verzenden - Marketo Docs - Productdocumentatie
 title: Een e-mailvoorbeeld verzenden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Een e-mailvoorbeeld verzenden {#send-a-sample-email}
 
 Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een voorbeeld weergeven van een e-mail met dynamische inhoud](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)als u een e-mailbericht met dynamische inhoud wilt verzenden.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 >[!NOTE]
 >
