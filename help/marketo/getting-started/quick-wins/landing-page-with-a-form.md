@@ -3,9 +3,9 @@ unique-page-id: 2359412
 description: Openingspagina met formulier - Marketo Docs - Productdocumentatie
 title: Openingspagina met formulier
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,9 @@ ht-degree: 0%
 
 ## Opdracht: Maak een openingspagina met een formulier voor het verkrijgen van nieuwe personen. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
-
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](get-set-up-and-add-a-person.md)
-
+>[Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## STAP 1: Een programma maken {#step-create-a-program}
 
@@ -32,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/ma.png)
 
-1. Selecteer de map** Learning** die u hebt gemaakt in de [vorige snelle win](send-an-email.md).
+1. Selecteer de map **Learning** die u in de [vorige snelle win](/help/marketo/getting-started/quick-wins/send-an-email.md)hebt gemaakt.
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
@@ -40,12 +33,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. Voer een **naam** voor het programma in, selecteer een** Kanaal** en klik op** Maken**.
+1. Voer een **programmanaam** in, selecteer een **kanaal** en klik op **Maken**.
 
    >[!NOTE]
-   >
-   >**Herinnering**
-   >
    >
    >Neem uw initialen op aan het einde van de programmanaam om deze uniek te maken.
 
@@ -53,10 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Definitie**
-   >
-   >
-   >Een programma is een specifiek marketinginitiatief. Het **kanaal** moet het leveringsmechanisme zijn, zoals Webinar, Sponsorship, of Online Advertentie. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook uw eigen kanaal [maken.](../../product-docs/administration/tags/create-a-program-channel.md)
+   >Een programma is een specifiek marketinginitiatief. Het **kanaal** moet het leveringsmechanisme zijn, zoals Webinar, Sponsorship, of Online Advertentie. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook uw eigen kanaal [](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)maken.
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
@@ -64,7 +51,7 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
 ## STAP 2: Een formulier maken {#step-create-a-form}
 
-1. Selecteer het programma en klik op **Nieuw** dan** Nieuw lokaal element**.
+1. Selecteer het programma en klik op **Nieuw** en vervolgens op **Nieuw lokaal element**.
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
@@ -78,13 +65,13 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    >[!NOTE]
    >
-   >Zorg ervoor dat het vak **Openen in editor** is ingeschakeld. Als dit niet het geval is, moet u op het **tabblad** Formulier **bewerken klikken.**
+   >Zorg ervoor dat het vak **Openen in editor** is ingeschakeld. Als dit niet het geval is, moet u op het tabblad Formulier **** bewerken klikken.
 
    >[!TIP]
    >
-   >Ziet u de formuliereditor niet? Uw browser heeft het venster waarschijnlijk geblokkeerd. Schakel pop-ups van [app.marketo.com](http://app.marketo.com/) in uw browser in en klik op Concept bewerken in de bovenste menubalk.
+   >Ziet u de formuliereditor niet? Uw browser heeft het venster waarschijnlijk geblokkeerd. Schakel pop-ups van [app.marketo.com](https://app.marketo.com/) in uw browser in en klik op Concept bewerken in de bovenste menubalk.
 
-1. Selecteer het veld** E-mailadres** en schakel de optie Is **vereist** in.
+1. Selecteer het veld **E-mailadres** en controleer of **Is vereist**.
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
@@ -96,7 +83,7 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. Klik op** Volgende**.
+1. Klik op **Volgende**.
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
@@ -110,9 +97,7 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    >[!NOTE]
    >
-   >**Definitie**
-   >
-   >Op de pagina Follow-up wordt de bezoeker omgeleid nadat hij het formulier heeft ingevuld. Externe URL is één optie, maar er zijn er meer. Zie Een formulier [instellen met dank aan uw pagina](../../product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
+   >Op de pagina Follow-up wordt de bezoeker omgeleid nadat hij het formulier heeft ingevuld. Externe URL is één optie, maar er zijn er meer. Zie Een formulier [instellen met dank aan uw pagina](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
 
 1. Klik op **Voltooien**.
 
@@ -136,11 +121,11 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. Voer een pagina** Naam** in, selecteer een sjabloon en klik op **Maken**.
+1. Voer een **paginanaam** in, selecteer een sjabloon en klik op **Maken**.
 
    >[!NOTE]
    >
-   >Je hebt misschien een andere sjabloon dan de sjabloon in onze screenshot. Het is oké, kies er een en ga door.
+   >Je hebt misschien een andere sjabloon dan die in onze screenshot. Het is oké, kies er een en ga door.
 
    ![](assets/image2014-9-24-11-3a8-3a23.png)
 
@@ -168,9 +153,6 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    >[!NOTE]
    >
-   >**Definitie**
-   >
-   >
    >Als de landingspagina wordt goedgekeurd, wordt deze live en beschikbaar op internet.
 
    ![](assets/image2014-9-24-11-3a9-3a37.png)
@@ -181,7 +163,7 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
 ## STAP 5: Uw formulier testen {#step-test-your-form}
 
-1. Selecteer de landingspagina en klik op** Goedgekeurde pagina weergeven**.
+1. Selecteer de openingspagina en klik op Goedgekeurde pagina **** weergeven.
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
@@ -205,4 +187,6 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
 <br> 
 
-[◄ Stuur een e-mailschokkerige](send-an-email.md) [eenvoudige sortering ►](simple-scoring.md)
+[◄ Een e-mailschok verzenden](/help/marketo/getting-started/quick-wins/send-an-email.md)
+
+[Eenvoudige scores ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
