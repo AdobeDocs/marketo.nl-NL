@@ -3,9 +3,9 @@ unique-page-id: 1147328
 description: Harde en zachte grenzen in e-mail - Marketo Docs - Productdocumentatie
 title: Harde en zachte grenzen in e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Harde en zachte grenzen in e-mail {#hard-and-soft-bounces-in-email}
 
 Een harde stuit kan het e-mailadres van een persoon ongeldig verklaren wanneer een postserver Marketo vertelt dat de e-mail van de persoon niet kan worden geleverd. Een zachte stuit betekent dat er iets fout is gegaan bij het verzenden van de e-mail aan de persoon; dit wordt automatisch opgelost en kan soms dagen duren . Zowel harde als zachte stuiteringen bestaan uit [meerdere categorieën](http://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 ## Stuitclassificatie {#bounce-classification}
 
