@@ -3,9 +3,9 @@ unique-page-id: 2359949
 description: Personen pauzeren in een betrokkenheidsprogramma - Marketo Docs - Productdocumentatie
 title: Personen pauzeren in een betrokkenheidsprogramma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Personen pauzeren in een betrokkenheidsprogramma {#pause-people-in-an-engagement-program}
 
 Als een persoon lid is van een betrokkenheidsprogramma, ontvangen ze inhoud totdat alle inhoud [is](people-who-have-exhausted-content.md)uitgeput. U kunt de de stroomstap van het Programma van de Aanwezigheid [van de Aanwezigheid van de Aanverbintenis van de](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) Verandering gebruiken om mensen tegen te houden die inhoud ontvangen zelfs als zij nog niet uitgeputte inhoud hebben.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 1. Selecteer het betrokkenheidsprogramma.
 
