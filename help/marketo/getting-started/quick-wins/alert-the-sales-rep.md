@@ -3,9 +3,9 @@ unique-page-id: 2359424
 description: Waarschuwing bij verkoper - Marketo Docs - Productdocumentatie
 title: Waarschuwing voor verkoper
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,9 @@ ht-degree: 0%
 
 Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen maar een waarschuwingsbericht en een e-mailcampagne te sturen. Zo doe je het.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
-
 >[!PREREQUISITES]
 >
->* [Openingspagina met formulier](landing-page-with-a-form.md)
-
->
-
-
+>[Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 ## Stap 1: Een waarschuwings-e-mail maken {#step-create-an-alert-email}
 
@@ -37,7 +27,7 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    ![](assets/one-5.png)
 
-1. Selecteer **Mijn programma** dat u op de [Openingspagina hebt gemaakt met een Form](landing-page-with-a-form.md) quick win, en klik vervolgens onder **Nieuw** op **Nieuw Lokaal element**.
+1. Selecteer **Mijn programma** dat u op de [Openingspagina hebt gemaakt met een Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) quick win, en klik vervolgens onder **Nieuw** op **Nieuw Lokaal element**.
 
    ![](assets/two-6.png)
 
@@ -71,7 +61,7 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    >[!NOTE]
    >
-   >{SP_Send_Alert_Info} is een speciale token voor e-mailmeldingen. Zie [Gebruik het token](../../product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) voor waarschuwinginfo verzenden voor meer informatie.
+   >{SP_Send_Alert_Info} is een speciale token voor e-mailmeldingen. Zie [Gebruik het token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) voor waarschuwinginfo verzenden voor meer informatie.
 
 1. Klik op **Opslaan**.
 
@@ -87,7 +77,7 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
 ## Stap 2: Een waarschuwingsactiecampagne maken {#step-create-an-alert-trigger-campaign}
 
-1. Selecteer **Mijn eerder gecreeerd Programma** , dan onder **Nieuw **klik **Nieuwe Slimme Campagne**.
+1. Selecteer **Mijn eerder gemaakte Programma** , dan onder **Nieuw** klik **Nieuwe Slimme Campagne**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
@@ -115,12 +105,11 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    ![](assets/nineteen-2.png)
 
-1. Ga naar het tabblad **Schema** en klik op de knop **Activeren **.
+1. Ga naar het tabblad **Schema** en klik op de knop **Activeren** .
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
-   >
    >
    >Plaats de Regels **van de** Kwalificatie aan **elke keer** (door de Slimme Campagne uit te geven) om de zelfde persoon toe te staan om alarm veelvoudige tijden teweeg te brengen.
 
@@ -135,9 +124,6 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
    >[!NOTE]
-   >
-   >**Herinnering**
-   >
    >
    >Vergeet niet landingspagina&#39;s goed te keuren. ze gaan niet live tot ze goedgekeurd zijn.
 
@@ -155,4 +141,6 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
 <br> 
 
-[◄ Missie 7: Een e-mailmissie](personalize-an-email.md) [9 personaliseren: Loodgegevens bijwerken ►](update-person-data.md)
+[◄ Missie 7: Een e-mail aanpassen](personalize-an-email.md)
+
+[Missie 9: Loodgegevens bijwerken ►](update-person-data.md)
