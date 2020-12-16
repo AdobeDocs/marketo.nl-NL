@@ -3,9 +3,9 @@ unique-page-id: 1147316
 description: Handmatig een persoon maken - Marketo Docs - Productdocumentatie
 title: Handmatig een persoon maken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Handmatig een persoon maken {#create-a-person-manually}
 
 Er zijn vele manieren om een persoon in Marketo te krijgen. Als je er handmatig een moet maken, is dit hoe je het moet doen.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 1. Ga naar de **database**.
 
