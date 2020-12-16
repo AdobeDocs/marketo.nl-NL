@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: Updates van Marketo Terminology - Marketo Docs - Productdocumentatie
 title: Updates van marktoterminologie
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -150,4 +150,3 @@ Naast de naamwijziging bestaat de toepassing nu uit vier verschillende apps:
 >De tegels die zichtbaar zijn op uw thuisscherm weerspiegelen de gekochte modules.
 
 Hartelijk dank voor uw geduld tijdens deze update.
-
