@@ -3,21 +3,15 @@ unique-page-id: 1147036
 description: Verwijderen uit SFDC-campagne - Marketo Docs - Productdocumentatie
 title: Verwijderen uit SFDC-campagne
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 
 # Verwijderen uit SFDC-campagne {#remove-from-sfdc-campaign}
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 >[!NOTE]
 >
