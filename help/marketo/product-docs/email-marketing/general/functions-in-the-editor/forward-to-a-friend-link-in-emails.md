@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: Door:sturen aan een Verbinding van de Vriend in E-mail - Marketo Dos - de Documentatie van het Product
 title: Doorsturen naar een vriendenkoppeling in e-mails
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 Als u de koppeling &quot;Doorsturen naar vriend&quot; toevoegt aan uw e-mails, kunt u personen volgen die via deze koppeling een e-mailbericht hebben ontvangen en deze automatisch toevoegen als een nieuwe persoon als deze nog niet in de database aanwezig is.
 
 Stel bijvoorbeeld dat Keith de koppeling &quot;Doorsturen naar vriend&quot; gebruikt om het e-mailbericht door te sturen naar een onbekende persoon, Mark. Mark wordt automatisch toegevoegd als een nieuwe persoon, krijgt zijn eigen cookie toegewezen en zijn e-mail- en webactiviteiten zijn aan hem gekoppeld. Nochtans, als Keith de voorwaartse knoop in zijn e-mailcliënt gebruikt, wordt Mark verkeerd gekookt als Keith, en zijn activiteit wordt geregistreerd als Keith.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 ## De koppeling toevoegen aan een e-mailsjabloon {#add-the-link-to-an-email-template}
 
