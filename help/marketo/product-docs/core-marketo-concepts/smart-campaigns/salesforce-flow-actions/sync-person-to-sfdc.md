@@ -3,21 +3,15 @@ unique-page-id: 1147027
 description: Persoon synchroniseren naar SFDC - Marketo Docs - Productdocumentatie
 title: Persoon synchroniseren naar SFDC
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
 
 # Persoon synchroniseren naar SFDC {#sync-person-to-sfdc}
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 >[!NOTE]
 >
