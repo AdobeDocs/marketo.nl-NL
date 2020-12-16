@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Opzetten en een persoon toevoegen - Marketo Docs - Productdocumentatie
 title: Instellen en een persoon toevoegen
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 Er zijn een paar dingen te doen voordat u de missies begint.
 
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
-
 ## Stap 1: Aanmelden bij Marketo {#step-log-in-to-marketo}
 
-1. [Meld u aan bij Marketo](http://app.marketo.com) met de gegevens die u per e-mail hebt ontvangen.
+1. [Meld u aan bij Marketo](https://app.marketo.com) met de gegevens die u per e-mail hebt ontvangen.
 
    ![](assets/one.png)
 
@@ -59,7 +53,7 @@ Voeg uzelf toe als een persoon in Marketo, zodat u later teste-mails naar uzelf 
 
    ![](assets/seven.png)
 
-1. Typ uw voornaam en achternaam, e-mailadres en bedrijfsnaam en klik vervolgens op **Maken **om uzelf toe te voegen als een persoon.
+1. Typ uw voornaam en achternaam, e-mailadres en bedrijfsnaam en klik vervolgens op **Maken** om uzelf toe te voegen als een persoon.
 
    ![](assets/eight.png)
 
@@ -67,7 +61,7 @@ Voeg uzelf toe als een persoon in Marketo, zodat u later teste-mails naar uzelf 
 
    ![](assets/nine.png)
 
-1. Klik op het tabblad **Personen **tab. U zou zich in het gegevensbestand moeten zien.
+1. Klik op het tabblad **Personen** . U zou zich in het gegevensbestand moeten zien.
 
    ![](assets/ten.png)
 
@@ -77,4 +71,4 @@ Je bent klaar om je eerste missie te beginnen!
 
 <br> 
 
-[Missie 1: Een e-mailschok verzenden ►](send-an-email.md)
+[Missie 1: Een e-mailschok verzenden ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
