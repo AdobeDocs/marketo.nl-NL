@@ -3,9 +3,9 @@ unique-page-id: 2950547
 description: Vastleggen van persoon configureren voor een sociale app - Marketo Docs - Productdocumentatie
 title: Vastleggen van persoon configureren voor een sociale app
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Vastleggen van persoon configureren voor een sociale app {#configure-person-capture-for-a-social-app}
 
 Wanneer u een [verwijzingsaanbieding](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of een [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)creeert, kunt u vormen welke informatie u verzoekt en welke informatie u van mensen vereist om aan deel te nemen.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 >[!NOTE]
 >
