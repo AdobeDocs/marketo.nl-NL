@@ -3,9 +3,9 @@ unique-page-id: 557329
 description: Exporteer mensen naar Excel vanuit een lijst of slimme lijst - Marketo Docs - Productdocumentatie
 title: Personen vanuit een lijst of slimme lijst exporteren naar Excel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Personen vanuit een lijst of slimme lijst exporteren naar Excel {#export-people-to-excel-from-a-list-or-smart-list}
 
 Als u resultaten voor lijsten of slimme lijsten buiten Marketo nodig hebt, kunt u gemakkelijk exporteren naar Excel. Zo gaat het.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 1. Ga naar **marketingactiviteiten**.
 
