@@ -3,9 +3,9 @@ unique-page-id: 2359410
 description: E-mail verzenden - Marketo Docs - Productdocumentatie
 title: E-mail verzenden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,9 @@ ht-degree: 0%
 
 Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
-
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](get-set-up-and-add-a-person.md)
-
->
-
-
+>[Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
 ## Een e-mailprogramma maken {#create-an-email-program}
 
@@ -39,7 +29,7 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
    ![](assets/two-1.png)
 
-1. Voer een **Naam **in en selecteer **E-mail** voor het Type **Programma.**
+1. Voer een **naam** in en selecteer **E-mail** bij **Programmatype.**
 
    >[!TIP]
    >
@@ -47,11 +37,9 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
    ![](assets/three.png)
 
-1. Selecteer onder **Kanaal de **optie** E-mail verzenden **en klik op** Maken **.** **
+1. Selecteer onder **Kanaal** de optie **E-mail verzenden** en klik op **Maken**.
 
-   ** ![](assets/image2015-3-2-16-3a25-3a18.png)
-
-   **
+   ![](assets/image2015-3-2-16-3a25-3a18.png)
 
 ## Uw publiek definiëren {#define-your-audience}
 
@@ -73,10 +61,7 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Als je e-mailadres niet automatisch wordt ingevuld, ben je wellicht vergeten om een lead [op te halen en toe te voegen.](get-set-up-and-add-a-person.md)
+   >Als je e-mailadres niet automatisch wordt ingevuld, ben je wellicht vergeten om een lead [op te halen en toe te voegen.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
@@ -94,7 +79,7 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. Voer een **naam** in, selecteer een **sjabloon** en klik op** Maken**.
+1. Voer een **naam** in, selecteer een **sjabloon** en klik op **Maken**.
 
    ![](assets/ten-1.png)
 
@@ -106,7 +91,7 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
    >
    >Als u een pop-upblokkering hebt, klikt u op Concept **** bewerken om de e-maileditor in te voeren.
 
-1. Selecteer het gebied dat u wilt bewerken, klik op het tandwielpictogram aan de rechterkant en selecteer **Bewerken ** (u kunt ook dubbelklikken op de bewerkbare sectie die u wilt bewerken).
+1. Selecteer het gebied dat u wilt bewerken, klik op het tandwielpictogram aan de rechterkant en selecteer **Bewerken** (u kunt ook dubbelklikken op de bewerkbare sectie die u wilt bewerken).
 
    ![](assets/twelve.png)
 
@@ -124,7 +109,7 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
    >[!TIP]
    >
-   >Wilt u uzelf een snel voorbeeld sturen om te zien hoe uw e-mail eruitziet voordat u de e-mail start? Selecteer Voorbeeld **** verzenden in het bovenstaande menu of klik op **Handelingen** e-mailen en [**Monster**](../../product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) verzenden.
+   >Wilt u uzelf een snel voorbeeld sturen om te zien hoe uw e-mail eruitziet voordat u de e-mail start? Selecteer Voorbeeld **** verzenden in het bovenstaande menu of klik op **Handelingen** e-mailen en [**Monster**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) verzenden.
 
 1. Selecteer het e-mailprogramma in de linkerstructuur.
 
@@ -140,7 +125,7 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
    >[!TIP]
    >
-   >Is de standaardtijdzone niet van u? Leer hoe u deze hier [kunt](https://docs.marketo.com/display/DOCS/Select+Your+Language,+Locale+and+Time+Zone#SelectYourLanguage,LocaleandTimeZone-ChangeUserLanguage,Locale&amp;Timezone)bijwerken.
+   >Is de standaardtijdzone niet van u? Leer hoe u deze hier [kunt](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)bijwerken.
 
 1. Klik op Programma **** goedkeuren onder de goedkeuringstegel en u bent klaar!
 
@@ -150,4 +135,6 @@ U ontvangt het e-mailbericht kort na de geplande dag/tijd.
 
 <br> 
 
-[◄ Stel een Lead](get-set-up-and-add-a-person.md) - [landingspagina in met een formulier ►](landing-page-with-a-form.md)
+[◄ Ophalen en een lead toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+
+[De pagina met een formulier laten landen ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
