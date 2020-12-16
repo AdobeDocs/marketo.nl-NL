@@ -3,9 +3,9 @@ unique-page-id: 2360012
 description: Rapport Personen op status - Marketo Docs - Productdocumentatie
 title: Rapport Personen per status
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rapport Personen per status {#people-by-status-report}
 
 Controleer hoe goed u mensen door het proces beweegt door te controleren hoeveel van hen in elke waarde van de Status *van* Persoon verschijnen elke maand.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 1. [Maak een rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **rapporttype** [Personen op status](report-type-overview.md).
 1. [Plaats het tijdkader van uw rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **lusje van het Rapport** .
