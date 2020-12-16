@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: Bewerk kwalificatieregels in een slimme campagne - Marketo Docs - Productdocumentatie
 title: Kwalificatieregels bewerken in een slimme campagne
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Kwalificatieregels bewerken in een slimme campagne {#edit-qualification-rules-in-a-smart-campaign}
 
 De regels van de erkenning bepalen hoe vaak iemand door de stroom in een slimme campagne kan lopen. Zelfs als iemand een slimme campagne meerdere keren activeert, worden deze standaard slechts eenmaal door de flow verzonden. Hieronder wordt beschreven hoe u deze instellingen wijzigt.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 1. Klik in uw slimme campagne op het tabblad **Schema** en **Bewerk instellingen**.
 
