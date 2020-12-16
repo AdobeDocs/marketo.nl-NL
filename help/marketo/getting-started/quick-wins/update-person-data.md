@@ -3,9 +3,9 @@ unique-page-id: 2359426
 description: Persgegevens bijwerken - Marketo Docs - Productdocumentatie
 title: Persoonsgegevens bijwerken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,10 @@ ht-degree: 0%
 
 ## Opdracht: De contactgegevens of andere gegevens van een persoon bijwerken {#mission-update-a-persons-contact-info-or-other-data}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
-
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](get-set-up-and-add-a-person.md)
->* [Een lijst met personen importeren](import-a-list-of-people.md)
-
->
-
+>* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens gaf. Hier is hoe te om persoongegevens bij te werken.
@@ -52,7 +43,7 @@ Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens
 
    >[!TIP]
    >
-   >Er zijn vele manieren om persoongegevens in Marketo bij te werken. Zie Een lijst met personen [](import-a-list-of-people.md) importeren en Gegevenswaarde [](../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)wijzigen.
+   >Er zijn vele manieren om persoongegevens in Marketo bij te werken. Zie Een lijst met personen [](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) importeren en Gegevenswaarde [](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)wijzigen.
 
 ## De persoonlijke gegevens bijwerken {#update-the-person-data}
 
@@ -70,4 +61,6 @@ Mooi werk! Je hebt je persoonlijke gegevens bijgewerkt.
 
 <br> 
 
-[◄ Missie 8: Waarschuw de](alert-the-sales-rep.md) Opdracht van de Verkoper [10: Een bestemmingspagina omleiden ►](redirect-a-landing-page.md)
+[◄ Missie 8: Waarschuwing voor verkoper](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+
+[Missie 10: Een bestemmingspagina omleiden ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
