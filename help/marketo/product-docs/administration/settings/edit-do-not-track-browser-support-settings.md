@@ -3,21 +3,15 @@ unique-page-id: 6095047
 description: Browserondersteuningsinstellingen niet bijhouden bewerken - Marketo Docs - Productdocumentatie
 title: Browserondersteuningsinstellingen "Niet bijhouden" bewerken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 
 # Browserondersteuningsinstellingen &quot;Niet bijhouden&quot; bewerken {#edit-do-not-track-browser-support-settings}
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 &quot;Niet bijhouden&quot; is een verzoek van een browser om niet te worden bijgehouden in systemen als Marketo. U kunt dit verzoek uitvoeren met de volgende stappen.
 
