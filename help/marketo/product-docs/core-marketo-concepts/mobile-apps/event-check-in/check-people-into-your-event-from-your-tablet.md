@@ -3,9 +3,9 @@ unique-page-id: 2949839
 description: Bekijk de personen die u via uw tablet in uw gebeurtenis hebt opgenomen - Marketo Docs - Productdocumentatie
 title: Personen in uw gebeurtenis controleren via uw tablet
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 Wanneer mensen bij de gebeurtenis verschijnen, kunt u hun informatie in de app vinden. Na inchecken krijgen ze de status Bijgewoond wanneer u ze synchroniseert met Marketo.
 
 De app werkt op zowel de iPad als op Android hetzelfde, behalve voor kleine layout- en ontwerpverschillen.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 >[!PREREQUISITES]
 >
