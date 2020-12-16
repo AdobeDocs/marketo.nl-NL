@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: Voorbereiden op uw gebeurtenis - Marketo Docs - Productdocumentatie
 title: Voorbereiden op uw gebeurtenis
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 0%
 # Voorbereiden op uw gebeurtenis {#prepare-for-your-event}
 
 Er zijn verschillende dingen die u moet doen om klaar te zijn voor de gebeurtenis.
-
->[!NOTE]
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](/help/marketo/getting-started/updates-to-marketo-terminology.md)informatie.
 
 ## Een nieuwe Marketo-rol maken {#create-a-new-marketo-role}
 
