@@ -3,21 +3,15 @@ unique-page-id: 2953465
 description: SFDC-synchronisatie - Een lead converteren naar een contactpersoon in Salesforce - Marketo Docs - Productdocumentatie
 title: SFDC Sync - Een lead converteren naar een contactpersoon in Salesforce
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
 
 # SFDC-synchronisatie: Een lead omzetten in een contactpersoon in Salesforce {#sfdc-sync-converting-a-lead-into-a-contact-in-salesforce}
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 Stel je drie verschillende scenario&#39;s voor in Salesforce: (zonder de stap [Personstroom](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) omzetten in Marketo)
 
