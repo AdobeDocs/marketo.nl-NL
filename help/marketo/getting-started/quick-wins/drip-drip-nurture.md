@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture - Marketo Docs - Productdocumentatie
 title: Drip, Drip, Nurture
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,10 @@ ht-degree: 0%
 
 In Marketo kunt u eenvoudig een geavanceerd en geavanceerd verfrissingssysteem maken. Zo!
 
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
-
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](get-set-up-and-add-a-person.md)
->* [Een lijst met personen importeren](import-a-list-of-people.md)
-
->
-
+>* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
 
 ## Stap 1: Een betrokkenheidsprogramma maken {#step-create-an-engagement-program}
@@ -68,7 +59,7 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd verfrissingssysteem m
 
    >[!NOTE]
    >
-   >Ziet u de e-maileditor niet? Uw browser heeft het venster waarschijnlijk geblokkeerd. Schakel pop-ups van [app.marketo.com](http://app.marketo.com) in uw browser in en klik op Concept **** bewerken in de bovenste menubalk.
+   >Ziet u de e-maileditor niet? Uw browser heeft het venster waarschijnlijk geblokkeerd. Schakel pop-ups van [app.marketo.com](https://app.marketo.com) in uw browser in en klik op Concept **** bewerken in de bovenste menubalk.
 
 1. Voer een onderwerp in.
 
@@ -92,9 +83,6 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd verfrissingssysteem m
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
    >Vergeet niet uw e-mails goed te keuren of u kunt ze later niet activeren.
 
 1. Maak nu een andere e-mail door de handelingen voor Stap 2 te herhalen.
@@ -104,6 +92,7 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd verfrissingssysteem m
 ## Stap 3: Inhoud toevoegen aan uw stream {#step-add-content-to-your-stream}
 
 1. Nu is het tijd om een inhoudsstroom voor uw betrokkenheidsprogramma te maken met de e-mails die u hebt gemaakt.
+
 1. Selecteer uw serviceprogramma en klik op het tabblad **Streams** .
 
    ![](assets/fourteen-2.png)
@@ -114,7 +103,7 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd verfrissingssysteem m
 
    >[!TIP]
    >
-   >U kunt ook de knop Inhoud **** toevoegen of het pictogram voor de stream **+ ** gebruiken.
+   >U kunt ook de knop Inhoud **** toevoegen of het pictogram stream **+** gebruiken.
 
 ## Stap 4: Stream-inhoud activeren {#step-activate-stream-content}
 
@@ -134,7 +123,7 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd verfrissingssysteem m
 
    ![](assets/seventeen.png)
 
-1. Bewerk de instellingen zodat deze overeenkomen met het gewenste schema en klik op **OPSLAAN**.
+1. Bewerk de gewenste instellingen en klik op **Opslaan**.
 
    ![](assets/image2014-9-24-12-3a49-3a5.png)
 
@@ -167,15 +156,15 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd verfrissingssysteem m
    ![](assets/twenty-two.png)
 
 1. Opdracht voltooid!
+
 1. U ontvangt een e-mail op het door u opgegeven tijdstip en tijdstip.
 
    >[!NOTE]
    >
-   >**Diep duiken**
-   >
-   >
-   >Meer informatie over [betrokkenheidsprogramma](http://docs.marketo.com/display/docs/drip+nurturing)&#39;s.
+   >Meer informatie over [betrokkenheidsprogramma](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)&#39;s.
 
 <br> 
 
-[◄ Missie 5: Een lijst met leads](import-a-list-of-people.md) [Mission 7 importeren: Een e-mail aanpassen ►](personalize-an-email.md)
+[◄ Missie 5: Een lijst met leads importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+
+[Missie 7: Een e-mail aanpassen ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
