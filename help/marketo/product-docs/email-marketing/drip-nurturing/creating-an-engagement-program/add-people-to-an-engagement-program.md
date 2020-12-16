@@ -3,21 +3,15 @@ unique-page-id: 2359782
 description: Personen toevoegen aan een betrokkenheidsprogramma - Marketo Docs - Productdocumentatie
 title: Personen toevoegen aan een betrokkenheidsprogramma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
 
 # Personen toevoegen aan een betrokkenheidsprogramma {#add-people-to-an-engagement-program}
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 Er zijn verschillende manieren waarop mensen lid kunnen worden van een betrokkenheidsprogramma:
 
