@@ -3,9 +3,9 @@ unique-page-id: 2949413
 description: Een beperking toevoegen aan een slim lijstfilter - Marketo Docs - Productdocumentatie
 title: Een restrictie toevoegen aan een slim lijstfilter
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -16,12 +16,6 @@ ht-degree: 0%
 Bij het maken van slimme lijsten hebben sommige filters geavanceerde opties die *constraints worden genoemd. *Dit zijn extra voorwaarden die u aan filters en trekkers kunt toevoegen helpen uw onderzoek nog verder verfijnen.
 
 In dit voorbeeld, voegen sommige beperkingen aan een ** [Gewijzigde](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)Waarde van Gegevens *** filter om mensen te vinden die een verandering van de Status van MQL in SQL hadden.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 >[!PREREQUISITES]
 >
