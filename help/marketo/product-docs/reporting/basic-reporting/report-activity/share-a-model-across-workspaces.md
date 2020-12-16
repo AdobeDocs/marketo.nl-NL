@@ -3,9 +3,9 @@ unique-page-id: 2360205
 description: Een model delen over werkruimten - Marketo Docs - Productdocumentatie
 title: Een model delen over werkruimten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Een model delen over werkruimten {#share-a-model-across-workspaces}
 
 Marketo biedt u de mogelijkheid om een model of modellen te delen met verschillende werkruimten. Zo gaat het.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 1. Ga naar de sectie **Analytics** .
 
