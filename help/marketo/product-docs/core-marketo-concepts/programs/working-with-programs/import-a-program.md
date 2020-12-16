@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Een programma importeren - Marketo Docs - Productdocumentatie
 title: Een programma importeren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '963'
+source-wordcount: '912'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Een programma importeren {#import-a-program}
 
 Een programma kan van één abonnement van Marketo in een andere worden ingevoerd. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. U kunt ook een vooraf gebouwd programma importeren vanuit de Marketo-programmabibliotheek.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 ## Een programma importeren {#import-a-program-1}
 
