@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie - Marketo Docs - Productdocumentatie
 title: Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '743'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie {#next-generation-munchkin-tracking-faq}
 
 We zijn blij om te kunnen aankondigen dat we binnenkort een gefaseerde introductie van onze webtrackingtechnologie van de volgende generatie zullen starten.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 Dit zijn de belangrijkste dingen die u moet weten:
 
