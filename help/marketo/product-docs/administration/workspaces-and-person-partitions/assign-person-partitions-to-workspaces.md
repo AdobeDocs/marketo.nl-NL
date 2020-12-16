@@ -3,9 +3,9 @@ unique-page-id: 2360317
 description: Personen partities toewijzen aan werkruimten - Marketo Docs - Productdocumentatie
 title: Personen partities toewijzen aan werkruimten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Personen partities toewijzen aan werkruimten {#assign-person-partitions-to-workspaces}
 
 Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt bewerken:
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 >[!NOTE]
 >
