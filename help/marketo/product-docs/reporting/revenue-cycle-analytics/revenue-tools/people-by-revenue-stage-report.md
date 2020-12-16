@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: Personen op basis van omzet - Verslag over Marketo Docs - Productdocumentatie
 title: Rapport Personen op omzet
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Rapport Personen op omzet {#people-by-revenue-stage-report}
 
 U kunt een rapport maken waarin wordt aangegeven in welke fase van het [inkomstencyclusmodel](http://docs.marketo.com/display/docs/revenue+cycle+models) uw personen zich bevinden. Het rapport bevat elke fase van het opgegeven model zolang er een persoonlijke balans is voor het gegeven datumbereik van het rapport.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 >[!NOTE]
 >
