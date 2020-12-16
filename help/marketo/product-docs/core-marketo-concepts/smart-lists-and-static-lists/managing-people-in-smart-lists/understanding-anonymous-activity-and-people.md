@@ -3,9 +3,9 @@ unique-page-id: 1147322
 description: Anonieme activiteiten en mensen begrijpen - Marketo Docs - Productdocumentatie
 title: Anonieme activiteiten en mensen begrijpen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Anonieme activiteiten en mensen begrijpen {#understanding-anonymous-activity-and-people}
 
 De eerste keer dat iemand een Marketo [l bezoekt `anding page`](http://docs.marketo.com/display/DOCS/Personalizing+Landing+Pages) (of een pagina op uw website met de [Munchkin Tracking Code](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)), maakt Marketo een *anonieme **activiteit* en gebruikt het een browsercookie om deze te volgen. Zodra het wordt geïdentificeerd, wordt het een persoon en de geschiedenis verbonden aan hun browser koekje wordt samengevoegd in.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 **Een anonieme** activiteit wordt gecreeerd wanneer iemand:
 
