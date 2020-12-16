@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: Overzicht van tokens - Marketo Docs - Productdocumentatie
 title: Overzicht van tokens
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Overzicht van tokens {#tokens-overview}
 
 Een token is een variabele die kan worden gebruikt in [stappen voor het doorlopen van slimme campagnes](http://docs.marketo.com/display/DOCS/Smart+Campaigns) , [e-mails](http://docs.marketo.com/display/DOCS/General), [landingspagina](http://docs.marketo.com/display/DOCS/Landing+Pages)&#39;s, [fragmenten](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)en [webcampagnes](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor).
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 ## Standaardwaarden begrijpen {#understanding-default-values}
 
