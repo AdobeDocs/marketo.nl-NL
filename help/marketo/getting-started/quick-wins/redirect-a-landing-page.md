@@ -3,9 +3,9 @@ unique-page-id: 2359428
 description: Een landingspagina omleiden - Marketo Docs - Productdocumentatie
 title: Een bestemmingspagina omleiden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,12 +21,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](get-set-up-and-add-a-person.md)
->* [Openingspagina met formulier](landing-page-with-a-form.md)
->* [De URL van uw bestemmingspagina aanpassen met een CNAME](../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
-
->
-
+>* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>* [De URL van uw bestemmingspagina aanpassen met een CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)
 
 
 ## Stap 1: Nieuwe omleidingsregel starten {#step-start-a-new-redirect-rule}
@@ -35,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/admin.png)
 
-1. Ga naar** Landingspagina&#39;s**.
+1. Ga naar **bestemmingspagina&#39;s**.
 
    ![](assets/image2014-9-24-13-3a28-3a43.png)
 
@@ -45,22 +42,19 @@ ht-degree: 0%
 
 ## Stap 2: De omleidingsregel definiëren {#step-define-the-redirect-rule}
 
-1. Klik eerste **Oorspronkelijke URL ** drop-down en selecteer uw NAAM van het Teken.
+1. Klik op de eerste vervolgkeuzelijst **Oorspronkelijke URL** en selecteer Marketo CNAME.
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Herinner me, kunt u landende pagina&#39;s slechts omleiden die met uw [NAAM](../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)van het Teken beginnen.
+   >Herinner me, kunt u landende pagina&#39;s slechts omleiden die met uw [NAAM](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)van het Teken beginnen.
 
-1. Klik op de tweede vervolgkeuzelijst **Oorspronkelijke URL **en selecteer de bestemmingspagina die u wilt omleiden.
+1. Klik op de tweede vervolgkeuzelijst **Originele URL** en selecteer de bestemmingspagina die u wilt omleiden.
 
    ![](assets/image2014-9-24-13-3a30-3a50.png)
 
-1. Selecteer voor URL **** omleiden de pagina waarnaar u wilt omleiden en klik op **MAKEN**.
+1. Selecteer voor URL **** omleiden de pagina waarnaar u wilt omleiden en klik op **Maken**.
 
    ![](assets/image2014-9-24-13-3a31-3a10.png)
 
@@ -70,4 +64,4 @@ Gefeliciteerd! U hebt een bestemmingspagina omgeleid.
 
 <br> 
 
-[◄ Missie 9: Loodgegevens bijwerken](update-person-data.md)
+[◄ Missie 9: Loodgegevens bijwerken](/help/marketo/getting-started/quick-wins/update-person-data.md)
