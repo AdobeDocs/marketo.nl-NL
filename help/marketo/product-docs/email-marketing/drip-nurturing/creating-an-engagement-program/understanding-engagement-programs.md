@@ -3,9 +3,9 @@ unique-page-id: 2359647
 description: Betrokkenheidsprogramma's begrijpen - Marketo Docs - Productdocumentatie
 title: Betrokkenheidsprogramma's
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Betrokkenheidsprogramma&#39;s {#understanding-engagement-programs}
 
 Betrokkenheidsprogramma&#39;s zijn bedoeld om nieuwe mensen op de markt te brengen door ze systematisch inhoud voor te leggen.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 >[!NOTE]
 >
