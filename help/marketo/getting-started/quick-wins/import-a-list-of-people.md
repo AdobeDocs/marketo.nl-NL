@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: Een lijst met personen importeren - Marketo Docs - Productdocumentatie
 title: Een lijst met personen importeren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '572'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -15,35 +15,21 @@ ht-degree: 0%
 
 ## Opdracht: Een spreadsheetlijst met presentatoren in uw database importeren {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
-
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](get-set-up-and-add-a-person.md)
+>[Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
->
-
-
-
-`   
-`  In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt importeren in Marketo.
+In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt importeren in Marketo.
 
 ## Stap 1: Een werkblad downloaden en bewerken {#step-download-and-edit-a-spreadsheet}
 
-1. Als u wilt beginnen, downloadt u ons werkbladbestand (** [tradeshow-attendees.csv](http://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)**) naar uw computer.
+1. Als u wilt beginnen, downloadt u ons werkbladbestand ([**tradeshow-attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) naar uw computer.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Gebruik bij het importeren van een datum de volgende notatie: **21-09** -15 (maand/dag/jaar).
+   >Gebruik bij het importeren van een datum de volgende notatie: **21-09** (maand/dag/jaar).
 
    >[!NOTE]
    >
@@ -67,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Geef** het programma de naam &quot;Mijn programma van de Handel&quot;en selecteer &quot;Gebeurtenis&quot;voor het Type van **Programma.**
+1. **Geef** het programma de naam &quot;Mijn programma van de Handel&quot;en selecteer &quot;Gebeurtenis&quot;voor het Type **van** Programma.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -77,9 +63,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Diep duiken**
->
->Gebeurtenisprogramma&#39;s vinden plaats op specifieke datums. Meer informatie over [**gebeurtenissen**](http://docs.marketo.com/display/docs/events).
+>Gebeurtenisprogramma&#39;s vinden plaats op specifieke datums. Meer informatie over [**gebeurtenissen**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
 ## Stap 3: Spreadsheet importeren in Marketo {#step-import-your-spreadsheet-into-marketo}
 
@@ -115,11 +99,9 @@ ht-degree: 0%
    >
    >In de Wijze van de Invoer van de Lijst, het kiezen van **Skip nieuwe mensen en updates** betekent u geen bestaande persoonverslagen of logboek om het even welke activiteiten zult beïnvloeden. Gebruik deze modus als u een snelle, vooraf gefilterde statische lijst met bestaande personen wilt gebruiken in uw marketingactiviteiten. Als u deze modus selecteert, wordt:
    >
-   >    
-   >    
-   >    * Nieuwe persoon maken overslaan
-   >    * Updates van persoonvelden overslaan
-   >    * Activiteitenregistratie overslaan
+   > * Nieuwe persoon maken overslaan
+   > * Updates van persoonvelden overslaan
+   > * Activiteitenregistratie overslaan
 
 
 1. Wijs de velden Lijstkolom toe aan het desbetreffende Marketo-veld en klik op **Volgende**.
@@ -128,7 +110,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Kolomkoppen moeten altijd exact overeenkomen met het veld (hoofdlettergevoelig) om de beste resultaten voor automatische toewijzing te verkrijgen. Als u aangepaste velden gebruikt en deze niet ziet in de vervolgkeuzelijst, gaat u terug en [maakt u ze](http://docs.marketo.com/display/DOCS/Create+a+Custom+Field+in+Marketo) zodat ze opties kunnen worden.
+   >Kolomkoppen moeten altijd exact overeenkomen met het veld (hoofdlettergevoelig) om de beste resultaten voor automatische toewijzing te verkrijgen. Als u aangepaste velden gebruikt en deze niet ziet in de vervolgkeuzelijst, gaat u terug en [maakt u ze](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) zodat ze opties kunnen worden.
 
    >[!NOTE]
    >
@@ -148,9 +130,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Diep duiken**
->
->U kunt het succes van uw programma analyseren door het lidmaatschap van het programma te volgen. Meer informatie over [**programma&#39;s**](http://docs.marketo.com/display/docs/programs).
+>U kunt het succes van uw programma analyseren door het lidmaatschap van het programma te volgen. Meer informatie over [**programma&#39;s**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
 ## Opdracht voltooid {#mission-complete}
 
@@ -158,4 +138,6 @@ Uw deelnemers aan de presentatie zijn nu lid van uw Marketo-programma!
 
 <br> 
 
-[◄ Missie 4: Automatische e-mailrespons](email-auto-response.md) [missie 6: Drip, Drip, Nurtuur ►](drip-drip-nurture.md)
+[◄ Missie 4: Automatische reactie e-mail](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+
+[Missie 6: Drip, Drip, Nurtuur ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
