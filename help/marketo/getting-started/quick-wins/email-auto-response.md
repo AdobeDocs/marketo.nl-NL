@@ -3,9 +3,9 @@ unique-page-id: 2359416
 description: Automatische e-mailrespons - Marketo Docs - Productdocumentatie
 title: Automatische reactie e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,10 @@ ht-degree: 0%
 
 ## Opdracht: Een e-mailbericht sturen waarin een persoon een formulier invult {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
 
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
-
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](get-set-up-and-add-a-person.md)
->* [Openingspagina met formulier](landing-page-with-a-form.md)
-
->
-
+>* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+>* [Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
 ## Stap 1: Een e-mail maken {#step-create-an-email}
@@ -48,13 +39,13 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   Een e-maileditor wordt geopend in een nieuw venster of op een nieuw tabblad. Als pop-ups zijn geblokkeerd, klikt u op** Concept bewerken** op de overzichtspagina voor middelen om het e-mailbericht te openen.
+   Een e-maileditor wordt geopend in een nieuw venster of op een nieuw tabblad. Als pop-ups zijn geblokkeerd, klikt u op Concept **** bewerken op de overzichtspagina voor middelen om het e-mailbericht te openen.
 
 1. Voer een onderwerpregel in en dubbelklik op het bewerkbare gebied van de e-mail.
 
    ![](assets/five-2.png)
 
-   Boven op de e-maileditor wordt een RTF-editor geopend.
+   _Boven op de e-maileditor wordt een RTF-editor geopend._
 
 1. Markeer de bestaande e-mailinhoud.
 
@@ -82,39 +73,41 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Ga naar de **Slimme Lijst **tabel.
+1. Ga naar het tabblad **Slimme lijst** .
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Deze campagne wordt uitgevoerd wanneer iemand het formulier invult dat u met een formulier [**op de**](landing-page-with-a-form.md) landingspagina hebt gemaakt.
+   Deze campagne wordt uitgevoerd wanneer iemand het formulier invult dat u met een formulier [**op de**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) landingspagina hebt gemaakt.
 
 1. Zoek de trigger Formulier **** invullen en sleep deze naar het linkercanvas.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Selecteer **Mijn formulier** in de vervolgkeuzelijst. Klik op het tabblad **Flow **tab.
+1. Selecteer **Mijn formulier** in de vervolgkeuzelijst. Klik op het tabblad **Stroom** .
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Sleep de actie **E-mail verzenden **flow naar het linkercanvas.
+1. Sleep de actie E-mail **** verzenden naar het linkercanvas.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Selecteer uw **Auto E-mail** van de Reactie en ga naar **Schema **tabel.
+1. Selecteer uw **Automatische E-mail** van de Reactie en ga naar het **lusje van het Programma** .
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
 1. Klik op **Bewerken**.
 
    ![](assets/8.png)
-Selecteer deze optie telkens en klik op Opslaan.
+
+1. Selecteer deze optie **telkens** en klik op **Opslaan**.
+
    ![](assets/9.png)
 
 1. Klik op **Activeren**.
 
    ![](assets/10.png)
 
-1. Klik op **Activeren **op het bevestigingsscherm.
+1. Klik op **Activeren** op het bevestigingsscherm.
 
    ![](assets/11.png)
 
@@ -124,7 +117,7 @@ Selecteer deze optie telkens en klik op Opslaan.
 
 ## Stap 3: Het formulier invullen {#step-fill-out-the-form}
 
-1. Selecteer **Mijn pagina**. Dit bestand is gemaakt op de [bestemmingspagina met een snelle overwinning op het formulier](landing-page-with-a-form.md) .
+1. Selecteer **Mijn pagina**. Dit bestand is gemaakt op de [bestemmingspagina met een snelle overwinning op het formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
@@ -148,4 +141,6 @@ Binnen een paar minuten ziet u het e-mailbericht voor automatische reacties in u
 
 <br> 
 
-[◄ Missie 3: Eenvoudige score](simple-scoring.md) [missie 5: Een lijst met leads importeren ►](import-a-list-of-people.md)
+[◄ Missie 3: Eenvoudige scores](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+
+[Missie 5: Een lijst met leads importeren ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
