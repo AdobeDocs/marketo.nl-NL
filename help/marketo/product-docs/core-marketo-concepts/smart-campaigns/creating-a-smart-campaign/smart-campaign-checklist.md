@@ -3,9 +3,9 @@ unique-page-id: 1147051
 description: Controlelijst voor slimme campagne - Marketo Docs - Productdocumentatie
 title: Controlelijst voor slimme campagne
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Controlelijst voor slimme campagne {#smart-campaign-checklist}
 
 Voer de onderstaande stappen uit om ervoor te zorgen dat de slimme campagne soepel verloopt en fouten zoveel mogelijk te voorkomen.
-
->[!NOTE]
->
->**FYI**
->
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](http://docs.marketo.com/display/DOCS/Updates+to+Marketo+Terminology)informatie.
 
 1. ID van slimme lijstfouten ophalen
 
