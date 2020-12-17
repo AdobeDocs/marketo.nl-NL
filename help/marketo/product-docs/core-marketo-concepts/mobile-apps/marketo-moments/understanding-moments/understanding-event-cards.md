@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Gebeurteniskaarten {#understanding-event-cards}
+# Werken met gebeurteniskaarten {#understanding-event-cards}
 
 Gebruik Marketo-momenten om uw gebeurtenisprogramma&#39;s weer te geven op uw telefoon of iPad.
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/ecuf3hS3r3I" frameborder="0" allowfullscreen></iframe>` Wanneer u op een e-mailprogrammakaart tikt, kunt u:
