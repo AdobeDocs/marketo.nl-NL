@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# De detailpagina voor personen gebruiken {#using-the-person-detail-page}
+# De detailpagina {#using-the-person-detail-page} gebruiken
 
 De pagina met persoonlijke details bevat alle informatie die Marketo over een persoon weet. U kunt gegevens rechtstreeks vanaf deze pagina bewerken.
 
-## Aan Personen met detailpagina {#getting-to-person-detail-page}
+## Aan persoonlijke detailpagina {#getting-to-person-detail-page} ophalen
 
 Er zijn veel manieren om specifieke mensen te openen. Enkele voorbeelden worden hieronder weergegeven.
 
@@ -23,10 +23,10 @@ Er zijn veel manieren om specifieke mensen te openen. Enkele voorbeelden worden 
 >
 >**Voorbeeld**
 >
->* Vanuit de **database** kunt u zoeken in de snelkoppeling
+>* Van **Database**, kunt u in de Snelle Vondst zoeken
 >* Willekeurige slimme **lijst** of lijst
->* **Tabblad Leden** van een programma
->* **Campagneleden** weergeven in een slimme campagne
+>* **** Programmalid
+>* **Campagne-** leden weergeven in een slimme campagne
 >* Sommige **rapporten**
 
 >
@@ -98,7 +98,7 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 >
 >**Diep duiken**
 >
->Sommige velden kunnen *niet* worden bewerkt:
+>Sommige velden zijn *niet* bewerkbaar:
 >
 >* Bedrijfsgegevens
 >* Mogelijkheden voor SFDC-contactpersonen
@@ -107,7 +107,7 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 
 >
 >
-Meer informatie over [door het systeem beheerde velden](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
+Meer informatie over [Door het systeem beheerde velden](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
