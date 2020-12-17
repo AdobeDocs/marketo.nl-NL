@@ -23,9 +23,9 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
 
 
 
-## Standaardkampioencriteria {#standard-champion-criteria}
+## Standaardontwerpcriteria {#standard-champion-criteria}
 
-1. Kies een van de beschikbare **Champion-criteria**.
+1. Kies een van de beschikbare **Champion Criteria**.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,11 +33,11 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
    >
    >We volgen deze norm en sturen je een rapport met de gegevens per e-mail.
 
-1. Als u een van de standaard **Champion-criteria** hebt gekozen, gaat u verder en gaat u naar [Champion/Challenger: Rapportwaarschuwingen](champion-challenger-configure-report-alerts.md)configureren!
+1. Als u een van de standaard **Champion Criteria** hebt gekozen, gaat u verder en gaat u naar [Champion/Challenger: Configureer rapportwaarschuwingen](champion-challenger-configure-report-alerts.md)!
 
-## Aangepaste miniatuurcriteria {#custom-champion-criteria}
+## Aangepaste ontwerpcriteria {#custom-champion-criteria}
 
-1. Als u fantasie wilt krijgen, kunt u aangepaste handelingen uitvoeren door **Aangepaste omzetting** te selecteren en op **Bewerken** te klikken.
+1. Als u fantasie wilt krijgen, kunt u douane gaan door **Aangepaste Omzetting** te selecteren en **Edit** te klikken.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -55,7 +55,7 @@ Nadat u het testtype hebt ingesteld, moet u de criteria voor de kampioenschappen
 
    Marketo staat alleen triggers toe voor mensen die de e-mail van dit e-mailprogramma hebben ontvangen. U hoeft het filter &#39;&#39;Is verzonden via e-mail&#39;&#39; niet toe te voegen.
 
-1. Klik op **Sluiten**.
+1. Klik **Close**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
