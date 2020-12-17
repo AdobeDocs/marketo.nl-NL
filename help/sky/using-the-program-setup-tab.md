@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Op het [!UICONTROL Setup] tabblad van het programma kunt u een kanaal selecteren, tags en kosten voor de periode toevoegen en instellingen wijzigen.
+Op het tabblad [!UICONTROL Setup] van uw programma kunt u een kanaal selecteren, tags en kosten voor de periode toevoegen en instellingen wijzigen.
 
 ![Afbeelding één](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-1.png)
 
@@ -30,11 +30,11 @@ Als u het programmakanaal wilt wijzigen, selecteert u een ander kanaal in de ver
 
 ## Codes toevoegen
 
-1. Klik onder de [!UICONTROL Tags] sectie op de **[!UICONTROL Attribute]** vervolgkeuzelijst en kies een tagkenmerk in de beschikbare opties.
+1. Klik in de sectie [!UICONTROL Tags] op de vervolgkeuzelijst **[!UICONTROL Attribute]** en kies een tagkenmerk uit de beschikbare opties.
 
    ![Afbeelding drie](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Klik op de **[!UICONTROL Value]** vervolgkeuzelijst en kies een waarde voor de tag uit de beschikbare opties. Klik **[!UICONTROL Add]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Value]** en kies een tagwaarde in de beschikbare opties. Klik op **[!UICONTROL Add]**.
 
    ![Afbeelding vier](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -44,11 +44,11 @@ Als u het programmakanaal wilt wijzigen, selecteert u een ander kanaal in de ver
 
 >[!NOTE]
 >
->Leer hoe u programmatags [maakt in Marketo Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) en deze beschikbaar stelt in de vervolgkeuzelijst.
+>Leer hoe u [programmatags maakt in Marketo Classic](https://docs.marketo.com/display/public/DOCS/Create+a+New+Program+Tag+and+Tag+Values) en deze beschikbaar stelt in de vervolgkeuzelijst.
 
 ## Kosten voor periode toevoegen
 
-1. Selecteer onder de [!UICONTROL Period Costs] sectie een maand, voer een kosten in en voeg een korte naam of beschrijving toe. Klik **[!UICONTROL Add]**.
+1. Selecteer onder de sectie [!UICONTROL Period Costs] een maand, voer een kostprijs in en voeg een korte naam of beschrijving toe. Klik op **[!UICONTROL Add]**.
 
    ![Afbeelding zes](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
@@ -58,6 +58,6 @@ Als u het programmakanaal wilt wijzigen, selecteert u een ander kanaal in de ver
 
 ## Instellingen wijzigen
 
-Onder de [!UICONTROL Settings] sectie kunt u een CRM-campagne kiezen waarmee u wilt synchroniseren (als uw abonnement CRM-integratie heeft) en/of het analysegedrag voor uw programma wijzigen.
+Onder [!UICONTROL Settings] sectie, kunt u een campagne kiezen van CRM aan synchronisatie (als uw abonnement de integratie van CRM heeft), en/of het analysegedrag voor uw programma veranderen.
 
 ![Afbeelding acht](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-8.png)
