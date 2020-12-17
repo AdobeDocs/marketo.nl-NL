@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Als u wilt zien hoe uw inhoud er in een zoekprogramma uitziet, hebben we een handomdraai korte cut toegevoegd.
 
-1. Ga naar de sectie **Trefwoorden** .
+1. Ga naar de **sectie Keywords**.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. Houd de muisaanwijzer boven een trefwoord. Klik op **weergaveresultaten**.
+1. Houd de muisaanwijzer boven een trefwoord. Klik **weergaveresultaten**.
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 
