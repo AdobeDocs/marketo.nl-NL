@@ -27,23 +27,23 @@ Marketo beheert uw ON24-webinarregistratie en -aanwezigheid.
 
    ![](assets/image2015-4-23-10-3a15-3a50.png)
 
-1. Selecteer **Nieuw** en dan **Nieuwe** **Dienst**.
+1. Selecteer **Nieuw** en **Nieuw** **Service**.
 
    ![](assets/on24-new-service.png)
 
-1. Voer een **weergavenaam** **in**. Selecteer **ON24 onder** Service ****.
+1. Voer een **Display** **Naam** in. Selecteer **ON24** onder **Service**.
 
    ![](assets/new-service-on24.png)
 
-1. Voltooi het proces door uw **Clientcode** **en** Client **-** id **in** Instellingen **** **** in te voeren en klik vervolgens op Create.
+1. Voltooi het proces door uw **Client** **Key** en **Client** **ID** in **Settings** in te voeren en dan **Create** te klikken.
 
    ![](assets/image2015-4-24-18-3a48-3a29.png)
 
-1. Uw **ON24** -account is nu gesynchroniseerd met Marketo.
+1. Uw **ON24**-account is nu gesynchroniseerd met Marketo.
 
    ![](assets/on24.png)
 
 >[!MORELIKETHIS]
 >
->Leer hoe u uw webinar-gebeurtenis [maakt in ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
+>Leer hoe u [uw webinar-gebeurtenis maakt in ON24](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
 
