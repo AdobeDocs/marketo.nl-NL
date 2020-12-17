@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SFDC-synchronisatie: Opportunity synchroniseren {#sfdc-sync-opportunity-sync}
+# SFDC-synchronisatie: Opportunity Sync {#sfdc-sync-opportunity-sync}
 
 ## Hoe worden de opportuniteitsgegevens gesynchroniseerd tussen de twee systemen? {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
@@ -19,7 +19,7 @@ U kunt het synchroniseren op één manier: van Salesforce naar Marketo. Updates 
 
 >[!NOTE]
 >
->De [referenties die u invoert in Marketo voor Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) worden gebruikt om gegevens te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
+>De [geloofsbrieven u in Marketo voor Salesforce](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) ingaat worden gebruikt om gegevens over te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
 
 ## Kan ik een Opportunity Sync starten? {#can-i-initiate-an-opportunity-sync}
 
@@ -31,11 +31,11 @@ Nee, Marketo ondersteunt slechts één valuta. Het opportuniteitsbedrag wordt ge
 
 ## Hoe associeert Marketo kansen en contacten? {#how-does-marketo-associate-opportunities-and-contacts}
 
-Marketo associeert Kansen en contacten gebruikend de Rollen [van het Contact van de](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm)Kans. De kansen zonder om het even welke toegewezen Rollen van het Contact zullen aan Marketo synchroniseren, maar zullen niet bij niemand horen. Bijvoorbeeld, zal de persoon niet het Bevat filter van de Mogelijkheid kwalificeren.
+Marketo associeert Kansen en contacten gebruikend [Rollen van het Contact van de Kanaal](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm). De kansen zonder om het even welke toegewezen Rollen van het Contact zullen aan Marketo synchroniseren, maar zullen niet bij niemand horen. Bijvoorbeeld, zal de persoon niet het Bevat filter van de Mogelijkheid kwalificeren.
 
 ## Hoe kan ik alle mogelijkheden van een persoon zien? {#how-can-i-see-all-the-opportunities-of-a-person}
 
-U kunt een lijst met mogelijkheden weergeven op het tabblad **Opportunity Info** op de pagina [Persondetails](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) .
+U kunt een lijst van kansen op het **lusje van Info** in [Persoonsdetail](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) pagina bekijken.
 
 ## Welke triggers/filters hebben betrekking op opportuniteit? {#what-are-the-triggers-filters-related-to-opportunity}
 
