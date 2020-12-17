@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Gebruik Dynamische inhoud in e-mails om de beoogde gegevens voor leads te verzenden.
 
-## Segmentering toevoegen {#add-segmentation}
+## Segmentatie {#add-segmentation} toevoegen
 
 1. Ga naar Marketing Activiteiten.
 
@@ -33,13 +33,13 @@ Gebruik Dynamische inhoud in e-mails om de beoogde gegevens voor leads te verzen
 
    ![](assets/1.2.png)
 
-1. In dit voorbeeld maken we de onderwerpregel dynamisch. Klik in het veld Onderwerp en klik vervolgens op de knop Dynamisch **** maken.
+1. In dit voorbeeld maken we de onderwerpregel dynamisch. Klik in het onderwerpveld en klik vervolgens op de knop **Dynamisch maken**.
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >U kunt een element binnen e-mail dynamisch maken. Selecteer hiertoe het gebied, klik op het tandwielpictogram en selecteer **Dynamisch** maken (of [Vervangen door fragment](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), afhankelijk van wat u doet).
+   >U kunt een element binnen e-mail dynamisch maken. Selecteer hiertoe het gebied, klik het tandwielpictogram en selecteer **Dynamisch maken** (of [Vervangen door fragment](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), afhankelijk van wat u doet).
 
    Voer de naam van de segmentatie in, selecteer deze en klik op Opslaan.
 
