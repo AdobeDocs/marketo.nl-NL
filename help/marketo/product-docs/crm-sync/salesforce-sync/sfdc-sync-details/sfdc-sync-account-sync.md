@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SFDC-synchronisatie: Account synchroniseren {#sfdc-sync-account-sync}
+# SFDC-synchronisatie: Accountsynchronisatie {#sfdc-sync-account-sync}
 
 Marketo synchroniseert ook uw accountgegevens met Salesforce. Hier zijn een paar specifieke dingen die je zou moeten weten!
 
@@ -29,7 +29,7 @@ Nee. Een account kan vele contactpersonen hebben, een contactpersoon kan slechts
 
 ## Kan ik accounts maken van Marketo? {#can-i-create-accounts-from-marketo}
 
-Meestal nee. Nochtans, als u de de stroomstap van de Persoon van de [Bekeerling](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) op een persoon gebruikt, zal het tot een nieuw Contact, een nieuw Rekening, en een nieuwe Kans leiden.
+Meestal nee. Nochtans, als u [de stroomstap van de Persoon van de Bekeerling ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) op een persoon gebruikt, zal het tot een nieuw Contact, een nieuw Rekening, en een nieuwe Kans leiden.
 
 >[!CAUTION]
 >
