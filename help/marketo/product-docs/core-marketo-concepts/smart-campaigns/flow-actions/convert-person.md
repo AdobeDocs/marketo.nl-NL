@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Persoon omzetten {#convert-person}
+# Persoon {#convert-person} omzetten
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Gebruik deze stroomstap om een persoon om te zetten in een contact in Salesforce
 
 ## Gebruik {#usage}
 
-1. Selecteer aan wie u de resulterende contactpersoon, account en opportuniteit wilt **toewijzen** .
+1. Selecteer aan wie u **de resulterende contactpersoon, account en opportuniteit wilt toewijzen.**
 
    ![](assets/two-2.png)
 
@@ -33,11 +33,11 @@ Gebruik deze stroomstap om een persoon om te zetten in een contact in Salesforce
    >
    >Het omzetten van een persoon in Marketo leidt tot een nieuwe account en een nieuwe kans in Salesforce. Als u geen dubbele rekeningen wilt, gebruik Salesforce om te zetten.
 
-1. Kies of u een **melding** naar de eigenaar wilt sturen of niet.
+1. Kies of u een **melding** naar de eigenaar wilt of niet verzenden.
 
    ![](assets/three-2.png)
 
-1. Selecteer de **omgezette status**.
+1. Selecteer **omgezette status**.
 
    ![](assets/four-3.png)
 
