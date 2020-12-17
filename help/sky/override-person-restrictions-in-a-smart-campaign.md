@@ -18,13 +18,13 @@ Marketo stelt het maximumaantal personen in dat in aanmerking komt voor een slim
 
 >[!IMPORTANT]
 >
->Zorg ervoor dat u persoonlijke beperkingen [inschakelt voor slimme campagnes](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) in Marketo [!UICONTROL Admin].
+>Zorg ervoor dat u de beperkingen voor personen [inschakelt voor slimme campagnes](https://docs.marketo.com/display/DOCS/Enable+Person+Restrictions+for+Smart+Campaigns) in Marketo [!UICONTROL Admin].
 
 1. Zoek uw slimme campagne en klik op **[!UICONTROL Schedule]**.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-1.png)
 
-1. Klik **[!UICONTROL Qualification Rules]**.
+1. Klik op **[!UICONTROL Qualification Rules]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/override-person-restrictions-in-a-smart-campaign/override-person-restrictions-in-a-smart-campaign-2.png)
 
