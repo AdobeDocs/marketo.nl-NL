@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer u alle inhoud aan een stream hebt toegevoegd, kunt u deze één keer testen.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/one.png)
 
@@ -37,12 +37,12 @@ Wanneer u alle inhoud aan een stream hebt toegevoegd, kunt u deze één keer tes
 
    >[!TIP]
    >
-   >Als de testpersoon u zoekt niet bestaat, gebruik de **Create Persoon** optie om één te creëren op de vlucht.
+   >Als de testpersoon u zoekt niet bestaat, gebruik **Create Persoon** optie om één te creëren op de vlucht.
 
    Klik op Beginstream, selecteer de stream die u wilt testen en klik op Cast uitvoeren.
    ![](assets/five-rubiks.png)
 
-1. Nadat de persoon door de [overgangsregels](transition-people-between-engagement-streams.md) gaat u eerder opstelling, klik het Refresh pictogram.
+1. Nadat de persoon door [overgangsregels](transition-people-between-engagement-streams.md) eerder opstelling gaat, klik het Refresh pictogram.
 
    ![](assets/six-rubiks.png)
 
