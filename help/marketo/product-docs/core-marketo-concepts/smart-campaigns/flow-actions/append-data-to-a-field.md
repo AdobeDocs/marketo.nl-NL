@@ -23,7 +23,7 @@ Er is een eenvoudige manier om gegevens aan een veld toe te voegen. Zo gaat het.
 
 
 
-1. Onder het tabblad **Stroom** sleept u in de stap **Gegevenswaarde** wijzigen.
+1. Onder **Flow** tabel sleept u in de **Gegevenswaarde wijzigen** stap Stroom.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 
