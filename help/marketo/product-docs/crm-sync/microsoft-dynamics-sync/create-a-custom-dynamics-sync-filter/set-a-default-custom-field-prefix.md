@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Een standaardvoorvoegsel voor een aangepast veld instellen {#set-a-default-custom-field-prefix}
+# Een standaardvoorvoegsel voor aangepast veld instellen {#set-a-default-custom-field-prefix}
 
-Uw standaard prefix van de Dynamiek van Microsoft voor douanevelden moet **nieuw** zijn opdat de merkgebonden gebieden van het Marketo correct synchroniseren. Hier is hoe te om het standaardvoorvoegsel te veranderen.
+Uw standaard prefix van de Dynamiek van Microsoft voor douanevelden moet **new** zijn opdat de merkgebonden gebieden van het Marketo correct synchroniseren. Hier is hoe te om het standaardvoorvoegsel te veranderen.
 
 1. Ga naar Instellingen en selecteer **Aanpassingen.**
 
@@ -21,7 +21,7 @@ Uw standaard prefix van de Dynamiek van Microsoft voor douanevelden moet **nieuw
 
    **
 
-1. Klik op **Uitgevers**.
+1. Klik **Uitgevers**.
 
    ![](assets/image2015-10-9-11-3a19-3a39.png)
 
@@ -29,7 +29,7 @@ Uw standaard prefix van de Dynamiek van Microsoft voor douanevelden moet **nieuw
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. Wijzig het voorvoegsel in **nieuw**. Klik op **Opslaan en Sluiten**.
+1. Wijzig het voorvoegsel in **new**. Klik **Opslaan en sluiten**.
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
@@ -37,7 +37,7 @@ Uw standaard prefix van de Dynamiek van Microsoft voor douanevelden moet **nieuw
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 
-1. Klik op Alle aanpassingen **publiceren**.
+1. Klik **Alle aanpassingen publiceren**.
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 
