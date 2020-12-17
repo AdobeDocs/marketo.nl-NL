@@ -15,9 +15,9 @@ ht-degree: 0%
 
 De doelstellingen zijn manieren om vooruitgang te volgen en uw team te motiveren. Ze kunnen worden gecombineerd met slimme lijsten om allerlei zaken in Marketo bij te houden. Bovendien wordt deze lijst na het instellen van een slim lijstdoel elke twee uur automatisch bijgewerkt wanneer deze wordt gebruikt in een presentatie.
 
-Net als presentaties zijn de doelstellingen [werkruimtespecifiek](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+Net als presentaties zijn de doelstellingen [werkruimte](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifiek.
 
-1. Ga naar de **kalender**.
+1. Ga naar **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
@@ -29,11 +29,11 @@ Net als presentaties zijn de doelstellingen [werkruimtespecifiek](../../../../pr
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Sleep het **slimme lijstdoel** naar het canvas.
+1. Sleep **Slim lijstdoel** naar het canvas.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. Ga een naam voor het doel in en ga een Doel **van het** Doel in. Klik vervolgens op **Maken**.
+1. Ga een naam voor het doel in en ga **Doel** in. Klik vervolgens op **Maken**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
@@ -41,7 +41,7 @@ Net als presentaties zijn de doelstellingen [werkruimtespecifiek](../../../../pr
 
    ![](assets/mql.png)
 
-1. Als de slimme lijst eenmaal is ingesteld, klikt u op de knop **Sluiten** en gaat u terug naar het vorige tabblad.
+1. Zodra de slimme lijst allen wordt geplaatst, klik **Close** knoop en ga terug naar het vorige lusje.
 
    ![](assets/mql2.png)
 
