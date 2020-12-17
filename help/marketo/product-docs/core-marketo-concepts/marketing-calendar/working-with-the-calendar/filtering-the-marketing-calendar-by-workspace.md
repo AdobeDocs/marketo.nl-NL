@@ -15,11 +15,11 @@ ht-degree: 0%
 
 De marketingkalender kan worden gefilterd door objecten in specifieke werkruimten.
 
-1. Ga naar de **kalender**.
+1. Ga naar **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Selecteer in het filterdeelvenster de vervolgkeuzelijst **Werkruimte** . Kies de gewenste werkruimte.
+1. Selecteer in het filterdeelvenster de vervolgkeuzelijst **Werkruimte**. Kies de gewenste werkruimte.
 
    ![](assets/image2014-9-24-11-3a34-3a6.png)
 
