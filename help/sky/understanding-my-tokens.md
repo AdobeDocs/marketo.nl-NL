@@ -21,7 +21,7 @@ Mijn tokens zijn aangepaste variabelen die u kunt maken en gebruiken in uw progr
 * `{{my.Event Date}}`
 * `{{my.Webinar Speaker}}`
 
-Als u Mijn tokens wilt openen, selecteert u uw programma- of campagnemap en gaat u naar het [!UICONTROL My Tokens] tabblad. Sleep een token naar het [!UICONTROL Local Tokens] canvas.
+Als u Mijn tokens wilt openen, selecteert u uw programma- of campagnemap en gaat u naar het tabblad [!UICONTROL My Tokens]. Sleep een token naar het canvas [!UICONTROL Local Tokens].
 
 ![Afbeelding één](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-1.png)
 
@@ -39,13 +39,13 @@ Als u Mijn tokens wilt openen, selecteert u uw programma- of campagnemap en gaat
 
 ## Nesten van tokens
 
-Wanneer u een nieuw token maakt, kan hiernaar worden verwezen door andere objecten in de structuur. U kunt algemene variabelen op lagere niveaus in de boomstructuur negeren. Er is een naamgevingsstructuur voor de plaats waar het token is gemaakt voor eenvoudig beheer.
+Wanneer u een nieuw token maakt, kan hiernaar worden verwezen door andere objecten in de structuur. U kunt algemene variabelen op lagere niveaus in de boomstructuur overschrijven. Er is een naamgevingsstructuur voor de plaats waar het token is gemaakt voor eenvoudig beheer.
 
-* **Lokaal token:** Het token is rechtstreeks in dat programma of die map gemaakt.
-* **[Overschreven token:](/help/sky/override-an-inherited-my-token.md)** Het token is overgeërfd, maar er is een uitzondering gemaakt in dit programma of deze map.
-* **Overgenomen token:** Het token is ergens in een programma of map op een hoger niveau in de structuur gemaakt.
+* **Lokaal token:** het token is rechtstreeks in dat programma of die map gemaakt.
+* **[Overschreven token:](/help/sky/override-an-inherited-my-token.md)** het token is overgeërfd, maar er is een uitzondering gemaakt in dit programma of deze map.
+* **Overgenomen token:** het token is ergens in een programma of map op een hoger niveau in de structuur gemaakt.
 
-U vindt deze drie typen onder het **[!UICONTROL My Tokens]** tabblad in uw programma- of campagnemap.
+Deze drie typen vindt u op het tabblad **[!UICONTROL My Tokens]** in uw programma- of campagnemap.
 
 ![Afbeelding twee](/help/sky/assets/my-tokens/understanding-my-tokens/understanding-my-tokens-2.png)
 
