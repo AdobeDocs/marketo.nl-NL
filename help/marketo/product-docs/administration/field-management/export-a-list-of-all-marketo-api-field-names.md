@@ -19,11 +19,11 @@ Als u onze SOAP API of Munchkin API gebruikt, hebt u een lijst met al uw velden 
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Admin** en klik op **Veldbeheer**.
+1. Ga naar **Admin** en klik **Veld Management**.
 
    ![](assets/image2014-9-24-14-3a4-3a54.png)
 
-1. Klik op Veldnamen **** exporteren om het werkblad te downloaden.
+1. Klik **Veldnamen exporteren** om het werkblad te downloaden.
 
    ![](assets/image2014-9-24-14-3a5-3a6.png)
 
