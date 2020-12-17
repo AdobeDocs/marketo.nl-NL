@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Persoon synchroniseren met Microsoft {#sync-person-to-microsoft}
+# Persoon synchroniseren naar Microsoft {#sync-person-to-microsoft}
 
 Deze eigenschap is slechts voor degenen die Marketo met de Dynamica van Microsoft integreren.
 
