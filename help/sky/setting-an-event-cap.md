@@ -29,22 +29,22 @@ Beperk het aantal personen dat zich voor uw gebeurtenis kan registreren met een 
 
    ![Afbeelding één](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-1.png)
 
-1. Zoek in het overzicht naar [!UICONTROL Event Cap] en klik op **[!UICONTROL Not Set]**.
+1. Zoek in het overzicht [!UICONTROL Event Cap] en klik op **[!UICONTROL Not Set]**.
 
    ![Afbeelding twee](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-2.png)
 
-1. Voer het maximale aantal personen in dat u voor uw gebeurtenis wilt registreren en klik **[!UICONTROL Next]**.
+1. Voer het maximale aantal personen in dat u voor uw gebeurtenis wilt registreren en klik op **[!UICONTROL Next]**.
 
    ![Afbeelding drie](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-3.png)
 
-1. Klik op de [!UICONTROL Registration Page] vervolgkeuzelijst en selecteer de bestemmingspagina die als registratiepagina zal fungeren.
+1. Klik op de vervolgkeuzelijst [!UICONTROL Registration Page] en selecteer de bestemmingspagina die als registratiepagina zal fungeren.
 
    ![Afbeelding vier](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-4.png)
 
-1. Klik op de **[!UICONTROL Registration Full Page]** vervolgkeuzelijst en selecteer de openingspagina die als de volledige registratiepagina zal fungeren. Klik **[!UICONTROL Set and Enable]** wanneer gereed.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Registration Full Page]** en selecteer de bestemmingspagina die als de volledige registratiepagina zal fungeren. Klik **[!UICONTROL Set and Enable]** wanneer gereed.
 
    ![Afbeelding vijf](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-5.png)
 
-   Jullie zijn klaar. Als u besluit dat u de details van de gebeurtenisuiteinden wilt bewerken, klikt u op de blauwe tekst naast [!UICONTROL Event Cap] en herhaalt u deze vanuit Stap 3.
+   Jullie zijn klaar. Als u besluit dat u de details van de gebeurtenisuiteinden wilt bewerken, klikt u op de blauwe tekst naast [!UICONTROL Event Cap] en herhaalt u deze bij Stap 3.
 
    ![Afbeelding zes](/help/sky/assets/event-programs/setting-an-event-cap/setting-an-event-cap-6.png)
