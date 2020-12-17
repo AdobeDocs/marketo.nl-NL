@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Inzicht krijgen in voorlopige/bevestigde datums {#understanding-tentative-confirmed-dates}
+# Tijdelijke/bevestigde datums {#understanding-tentative-confirmed-dates}
 
-Slimme campagnes en e-mailprogramma&#39;s hebben een krachtig vermogen om als **Tentatief** of **Bevestigd** te worden gemerkt. Zo werken ze.
+Slimme campagnes en e-mailprogramma&#39;s hebben een krachtige mogelijkheid om te worden gemarkeerd als **Tentatief** of **Bevestigd**. Zo werken ze.
 
 ## Tentatief {#tentative}
 
@@ -25,7 +25,7 @@ Met negatieve datums wordt de intentie overgebracht. Beschouw dit als *prullenba
 >
 >Alleen batchslimme campagnes en e-mailprogramma&#39;s kunnen indicatief zijn.
 
-## Berichten bevestigen {#confirming-entries}
+## Berichten {#confirming-entries} bevestigen
 
 Dit is net als het goedkeuren van een middel, zodat moeten de ingangen volledig opstelling zijn alvorens u hen kunt bevestigen. Als alle eenden in een rij staan, kunt u vermeldingen bevestigen door de tijdelijke tab naar rechts te schuiven.
 
@@ -41,9 +41,9 @@ Bevestigde ingangen worden zeker uitgevoerd. Zij hebben regels, goedgekeurde act
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## Voltooid  {#finished}
+## {#finished} voltooid
 
-Voltooide items zijn al uitgevoerd. Ze kunnen alleen in het verleden zijn (uiteraard). Als een bericht eenmaal is uitgevoerd en **voltooid**, kunt u het niet meer verplaatsen of activeren. (Geen wijziging van de realiteit en verstoring van het continuum van de tijdstream.)
+Voltooide items zijn al uitgevoerd. Ze kunnen alleen in het verleden zijn (uiteraard). Als een item eenmaal is uitgevoerd en **Voltooid** is, kunt u het item niet verplaatsen of activeren. (Geen wijziging van de realiteit en verstoring van het continuum van de tijdstream.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
