@@ -21,9 +21,9 @@ Marketo kan alleen gegevens (binnenkomende koppelingen en aanbevelingen) ophalen
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-## Site toevoegen {#add-a-site}
+## Site {#add-a-site} toevoegen
 
-1. Klik op de vervolgkeuzelijst Beheer en selecteer **Beheerder**.
+1. Klik op de vervolgkeuzelijst Beheer en selecteer **Admin**.
 
    >[!NOTE]
    >
@@ -31,15 +31,15 @@ Marketo kan alleen gegevens (binnenkomende koppelingen en aanbevelingen) ophalen
 
    ![](assets/one.png)
 
-1. Klik op Site **** toevoegen.
+1. Klik **Site toevoegen**.
 
    ![](assets/two.png)
 
-1. Voer de **naam, de URL van de website** in en klik op **Opslaan**.
+1. Voer de **Naam, website-URL** in en klik op **Opslaan**.
 
    >[!TIP]
    >
-   >U kunt ook een** ****Blog URL** toevoegen als u er een hebt.
+   >U kunt ook een ** ****Blog URL** toevoegen als u er een hebt.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -47,11 +47,11 @@ Marketo kan alleen gegevens (binnenkomende koppelingen en aanbevelingen) ophalen
 
    ![](assets/four.png)
 
-## Een site verwijderen {#delete-a-site}
+## Een site {#delete-a-site} verwijderen
 
 Als u meerdere sites bijhoudt, kunt u ook een site verwijderen die u niet meer wilt optimaliseren.
 
-1. Klik op de vervolgkeuzelijst Beheer en selecteer **Beheerder**.
+1. Klik op de vervolgkeuzelijst Beheer en selecteer **Admin**.
 
    ![](assets/one.png)
 
@@ -59,7 +59,7 @@ Als u meerdere sites bijhoudt, kunt u ook een site verwijderen die u niet meer w
 
    ![](assets/six.png)
 
-1. Klik op **Verwijderen**.
+1. Klik **Delete**.
 
    ![](assets/seven.png)
 Bevestig dat u wilt verwijderen.
@@ -67,5 +67,5 @@ Bevestig dat u wilt verwijderen.
 
    >[!NOTE]
    >
-   >U kunt een site alleen verwijderen als u meerdere sites hebt. Als u slechts één hebt, kunt u het terugstellen uitvoeren door de plaats te selecteren en te klikken **Terugstellen**. Als u een site opnieuw instelt, worden alle sitegegevens ** verwijderd en wordt de site opnieuw gemaakt.
+   >U kunt een site alleen verwijderen als u meerdere sites hebt. Als u slechts één hebt, kunt u het terugstellen uitvoeren door de plaats te selecteren en **Terugstellen** te klikken. Als u een site opnieuw instelt, worden alle sitegegevens *verwijderd en wordt de site opnieuw gemaakt.*
 
