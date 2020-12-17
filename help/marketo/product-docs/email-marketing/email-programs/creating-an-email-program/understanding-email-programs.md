@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Doe de groeten aan uw nieuwe vriend Marketo, het e-mailprogramma. Verzend e-mails, maak A/B-tests en volg uw resultaten allemaal op één locatie.
 
-## Deelvenster Beheer {#control-panel}
+## Regelpaneel {#control-panel}
 
-Vier vakken zorgen ervoor dat je gefocust blijft. **Het publiek** bepaalt &quot;wie,&quot; **E-mail** verstrekt &quot;wat,&quot; **Plan** bepaalt &quot;wanneer,&quot;en de **Goedkeuring** maakt het klaar te gaan.
+Vier vakken zorgen ervoor dat je gefocust blijft. **Het** publiek bepaalt &quot;wie,&quot; **** E-mail verstrekt &quot;wat,&quot; **** plannuledefinieert &quot;wanneer,&quot;en  **** Goedkeuring maakt het klaar te gaan.
 
 ![](assets/emailprogram.png)
 
@@ -44,7 +44,7 @@ Geniet van de vruchten van je werk. De dashboards tonen u e-mailprogramma en A/B
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
-## Nesten {#nesting}
+## {#nesting} nesten
 
 E-mailprogramma&#39;s spelen goed met andere programma&#39;s.
 
@@ -62,9 +62,9 @@ Gebruik een e-mailprogramma in een standaardprogramma om de zaken te organiseren
 
 >[!NOTE]
 >
->E-mailprogramma&#39;s kunnen niet worden genest in [betrokkenheidsprogramma](../../../../getting-started/quick-wins/drip-drip-nurture.md)&#39;s. Ze kunnen ook niet opnieuw worden verzonden en kunnen slechts één test tegelijk uitvoeren.
+>E-mailprogramma&#39;s kunnen niet worden genest in [betrokkenheidsprogramma&#39;s](../../../../getting-started/quick-wins/drip-drip-nurture.md). Ze kunnen ook niet opnieuw worden verzonden en kunnen slechts één test tegelijk uitvoeren.
 
-## Planningsinstellingen {#schedule-settings}
+## Schema-instellingen {#schedule-settings}
 
 Nu u e-mailprogramma&#39;s begrijpt, kunt u beginnen met een van de verwante artikelen hieronder!
 
