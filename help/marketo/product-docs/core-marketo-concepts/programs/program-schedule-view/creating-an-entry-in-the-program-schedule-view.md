@@ -17,11 +17,11 @@ U kunt items maken vanuit de programmaweergave van het programma als aanvulling 
 
 ## Een basisitem maken {#create-a-basic-entry}
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer uw programma. Klik op de vervolgkeuzelijst **Weergave** . Selecteer **Schema**.
+1. Selecteer uw programma. Klik op de vervolgkeuzelijst **Weergave**. Selecteer **Schema**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -51,15 +51,15 @@ U kunt items maken vanuit de programmaweergave van het programma als aanvulling 
 
 ## Invoertype wijzigen {#change-entry-type}
 
-1. Selecteer een basisitem in de **weergave Agenda** .
+1. Selecteer een basisitem in de weergave **Agenda**.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Selecteer de vervolgkeuzelijst **Type** . Kies een nieuw type item.
+1. Selecteer de vervolgkeuzelijst **Type**. Kies een nieuw type item.
 
    >[!NOTE]
    >
-   >Een [aangepaste invoer](create-custom-entry-types.md). U kunt een &#39;to-do&#39; en andere aangepaste items maken om niet-Marketo-agendapunten bij te houden.
+   >To-do is een [aangepaste ingang](create-custom-entry-types.md). U kunt een &#39;to-do&#39; en andere aangepaste items maken om niet-Marketo-agendapunten bij te houden.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,5 @@ U kunt items maken vanuit de programmaweergave van het programma als aanvulling 
 
 >[!NOTE]
 >
-> U kunt ook een [slimme campagne](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) of een [e-mailprogramma](creating-a-new-email-program-in-the-schedule-view.md) maken vanuit de overzichtsweergave.
+> U kunt ook een [slimme campagne](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) of [e-mailprogramma](creating-a-new-email-program-in-the-schedule-view.md) vanuit de planningsweergave maken.
 
