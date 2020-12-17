@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om programmatypen te groeperen in de rapportage.
 
-## Een tag in een programma gebruiken {#use-a-tag-in-a-program}
+## Een tag gebruiken in een programma {#use-a-tag-in-a-program}
 
-1. Selecteer uw programma. Klik op **Instellen**.
+1. Selecteer uw programma. Klik **Setup**.
 
    ![](assets/image2014-9-23-15-3a45-3a0.png)
 
@@ -29,7 +29,7 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
    ![](assets/image2014-9-23-15-3a45-3a30.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/image2014-9-23-15-3a45-3a36.png)
 
@@ -37,9 +37,9 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
    ![](assets/image2014-9-23-15-3a45-3a47.png)
 
-## Een tag bewerken {#edit-a-tag}
+## Een tag {#edit-a-tag} bewerken
 
-1. Ga naar het tabblad **Setup** . Klik met de rechtermuisknop op de tag. Selecteer **Bewerken**.
+1. Ga naar **Setup** tabel. Klik met de rechtermuisknop op de tag. Selecteer **Bewerken**.
 
    ![](assets/image2014-9-23-15-3a45-3a53.png)
 
@@ -47,7 +47,7 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
    ![](assets/image2014-9-23-15-3a46-3a12.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/image2014-9-23-15-3a46-3a25.png)
 
@@ -55,9 +55,9 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
-## Een tag verwijderen  {#delete-a-tag}
+## Een tag {#delete-a-tag} verwijderen
 
-1. Ga naar het tabblad **Setup** . Klik met de rechtermuisknop op de tag en selecteer **Verwijderen**.
+1. Ga naar **Setup** tabel. Klik met de rechtermuisknop op de tag en selecteer **Delete**.
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
