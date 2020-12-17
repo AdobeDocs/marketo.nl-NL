@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Programma&#39;s zijn een van de belangrijkste elementen van Marketo. Je gebruikt ze veel!
 
-1. Ga naar **marketingactiviteiten.**
+1. Ga naar **Marketingactiviteiten.**
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer de map voor het nieuwe programma. Selecteer **Nieuw** en klik op **Nieuw programma****.**
+1. Selecteer de map voor het nieuwe programma. Selecteer **Nieuw** en klik **Nieuw Programma****.**
 
    ![](assets/leadlifecycle.jpg)
 
-1. Voer een **naam****,** in de vervolgkeuzelijst een ** [Kanaal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** in en klik op **Maken.**
+1. Voer een **Naam****,** een ** [Kanaal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** in de vervolgkeuzelijst in en klik op **Maken.**
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
@@ -31,5 +31,5 @@ Programma&#39;s zijn een van de belangrijkste elementen van Marketo. Je gebruikt
 >
 >**Diep duiken**
 >
->Meer weten over [programma](http://docs.marketo.com/display/docs/programs)&#39;s?
+>Meer informatie over [programma&#39;s](http://docs.marketo.com/display/docs/programs).
 
