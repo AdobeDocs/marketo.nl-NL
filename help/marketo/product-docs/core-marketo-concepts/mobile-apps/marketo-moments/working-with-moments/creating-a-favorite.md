@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een favoriet maken {#creating-a-favorite}
+# Favorieten {#creating-a-favorite} maken
 
 Favoriet een kaart voor eenvoudige referentie in de toekomst.
 
