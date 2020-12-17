@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Waarschuwing verzenden {#send-alert}
+# Waarschuwing {#send-alert} verzenden
 
 ## Overzicht {#overview}
 
-Marketo kan een e-mailwaarschuwing met persoonlijke gegevens naar iedereen sturen - de eigenaar van de verkoop, een partner of iemand anders. Gebruik de stap **Waarschuwing** verzenden.
+Marketo kan een e-mailwaarschuwing met persoonlijke gegevens naar iedereen sturen - de eigenaar van de verkoop, een partner of iemand anders. Gebruik **Verstuur Alarm** stroomstap.
 
 ![](assets/one-1.png)
 
@@ -39,7 +39,7 @@ Marketo kan een e-mailwaarschuwing met persoonlijke gegevens naar iedereen sture
    >
    >**Herinnering**
    >
-   >Gebruik de token **Waarschuwingsgegevens** verzenden in uw e-mail.
+   >Zorg ervoor dat u de token **Waarschuwingsgegevens verzenden** in uw e-mail gebruikt.
 
 1. Selecteer de ontvanger van de waarschuwing. Je kunt de eigenaar van de verkoper of de eigenaar van de account kiezen.
 
@@ -51,9 +51,9 @@ Marketo kan een e-mailwaarschuwing met persoonlijke gegevens naar iedereen sture
 
    >[!TIP]
    >
-   >In triggercampagnes kunt u tokens gebruiken in **Naar andere e-mails** , zoals `{{lead.Territory Owner}}` of `{{my.Alert Recipient}}` zolang de waarden geldige e-mailadressen zijn. Tokens in **Naar andere e-mails** werken niet in een batchcampagne.
+   >In triggercampagnes kunt u tokens gebruiken in **Naar andere e-mails** zoals `{{lead.Territory Owner}}` of `{{my.Alert Recipient}}` zolang de waarden geldige e-mailadressen zijn. Tokens in **Naar andere e-mails** werken niet in een batchcampagne.
 
-Dat is het! Nu weet u hoe u de stap **Waarschuwing** verzenden kunt gebruiken.
+Dat is het! Nu weet u hoe te om **Send Alert** stroomstap te gebruiken.
 
 >[!MORELIKETHIS]
 >
