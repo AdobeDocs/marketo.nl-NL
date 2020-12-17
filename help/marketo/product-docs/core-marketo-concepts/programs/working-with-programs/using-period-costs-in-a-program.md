@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# Periode-kosten in een programma gebruiken {#using-period-costs-in-a-program}
+# Kosten van perioden gebruiken in een programma {#using-period-costs-in-a-program}
 
-Een [periode kost](understanding-period-costs.md) is het bedrag dat u aan een programma besteedt. Het kan één of meerdere maanden zijn en wordt gebruikt voor het melden van ROI.
+Een [punt kosten](understanding-period-costs.md) is het bedrag u aan een programma uitgeeft. Het kan één of meerdere maanden zijn en wordt gebruikt voor het melden van ROI.
 
 >[!NOTE]
 >
 >**Diep duiken**
 >
-> Meer informatie over de analyse van de [inkomstencyclus](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+> Meer informatie over [Analyse van de opbrengstcyclus](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
-## Kosten voor een periode toevoegen  {#add-a-period-cost}
+## Kosten voor periode {#add-a-period-cost} toevoegen
 
-1. Ga naar het tabblad **Setup** van uw programma.
+1. Ga naar **Opstelling** lusje van uw programma.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. Sleep **Periode-kosten** naar het canvas.
+1. Sleep **Periode Kosten** naar het canvas.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
-1. Klik op het kalenderpictogram. Selecteer een maand. Klik op **OK**.
+1. Klik op het kalenderpictogram. Selecteer een maand. Klik **OK**.
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Voer een **Periode-kosten** in (zonder decimalen of komma&#39;s). Klik op **Opslaan**.
+1. Voer een **Periode kosten** (zonder decimalen of komma&#39;s) in. Klik **Opslaan**.
 
    >[!NOTE]
    >
@@ -51,28 +51,28 @@ Een [periode kost](understanding-period-costs.md) is het bedrag dat u aan een pr
    >
    >U kunt meerdere periodekosten naar het canvas slepen. Hiermee kunt u meerdere maanden met verschillende tijdskosten aan uw programma toewijzen.
 
-## Periode-kosten bewerken {#edit-a-period-cost}
+## Periode-kosten {#edit-a-period-cost} bewerken
 
 1. Als u meer of minder geld uitgeeft dan oorspronkelijk gepland, kunt u de periodekosten uitgeven.
 1. Ga naar het **Opstelling **lusje van uw programma.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. Klik met de rechtermuisknop op de kosten voor de **periode**. Selecteer **Bewerken**.
+1. Klik met de rechtermuisknop op **Periode kosten**. Selecteer **Bewerken**.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
-1. Breng de gewenste wijzigingen aan. Klik op **Opslaan**.
+1. Breng de gewenste wijzigingen aan. Klik **Opslaan**.
 
    ![](assets/image2014-9-18-14-3a3-3a41.png)
 
-## Periode-kosten verwijderen {#delete-a-period-cost}
+## Periode-kosten {#delete-a-period-cost} verwijderen
 
-1. Ga naar het tabblad **Setup** van uw programma.
+1. Ga naar **Opstelling** lusje van uw programma.
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Klik met de rechtermuisknop op de kosten voor de **periode**. Selecteer **Verwijderen**.
+1. Klik met de rechtermuisknop op **Periode kosten**. Selecteer **Verwijderen**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
