@@ -19,11 +19,11 @@ Als u de gegevens van de douaneentiteit van Dynamica in Marketo beschikbaar moet
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar de sectie **Beheer** .
+1. Ga naar **Admin** sectie.
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
-1. Selecteer **Microsoft Dynamics** en klik op **Sync** uitschakelen.
+1. Selecteer **Microsoft Dynamics** en klik **Sync** uitschakelen.
 
    U moet de algemene synchronisatie tijdelijk uitschakelen om een aangepaste entiteit in of uit te schakelen.
    ![](assets/image2015-11-10-9-3a0-3a6.png)
@@ -32,15 +32,15 @@ Als u de gegevens van de douaneentiteit van Dynamica in Marketo beschikbaar moet
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. Klik op de koppeling **Schema** synchroniseren.
+1. Klik op de koppeling **Schema synchroniseren**.
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Selecteer de entiteit die u wilt synchroniseren en klik op Synchronisatie **inschakelen**.
+1. Selecteer de entiteit die u wilt synchroniseren en klik **Sync inschakelen**.
 
    ![](assets/image2015-11-10-9-3a44-3a35.png)
 
-1. Selecteer de velden die u wilt synchroniseren of gebruiken als [beperkingen](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) en/of triggers in slimme lijsten. Klik op Sync **inschakelen als u klaar bent**.
+1. Selecteer de velden die u wilt synchroniseren of gebruiken als [beperkingen](../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) en/of triggers in slimme lijsten. Wanneer gedaan, klik **toelaten Synchronisatie**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
