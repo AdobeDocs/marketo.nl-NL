@@ -21,9 +21,9 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
 >[!PREREQUISITES]
 >
->U moet [Internet Facing Plaatsing](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) met de [Actieve Diensten](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0 van de Federatie van de Folder, 2.1 of 3.0 (ADFS) gevormd hebben. **Opmerking**: Het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
+>U moet [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) hebben met [de Actieve Diensten van de Federatie van de Folder](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 of 3.0 (ADFS) gevormd. **Opmerking**: Het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
 >
->[Download de Marketo Lead Management Solution](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) voordat u begint.
+>[Download de ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Oplossing van het Beheer van de Lood van het Marketo alvorens u begint.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 >
 >U hebt CRM-beheerdersrechten nodig om deze synchronisatie uit te voeren.
 
-1. Meld u aan bij **Dynamiek** en selecteer **Instellingen** in het menu linksonder.
+1. Meld u aan bij **Dynamics**, selecteer **Settings** in het linksonder menu.
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
@@ -39,27 +39,27 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
    ![](assets/image2015-4-2-11-3a35-3a28.png)
 
-1. Klik op **Importeren**.
+1. Klik **Importeren**.
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Klik op **Bladeren**. Selecteer de oplossing Marketo Lead Management die u hebt [gedownload](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik op **Volgende**.
+1. Klik **Bladeren**. Selecteer de Marketo Lead Management-oplossing die u [hebt gedownload](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik **Volgende**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
-1. Bekijk de Informatie van de Oplossing en klik de details **van het oplossingspakket van de** Mening.
+1. Bekijk de Informatie van de Oplossing en klik **de details van het oplossingspakket van de Mening**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
-1. Klik op **Sluiten wanneer u alle details hebt gecontroleerd**.
+1. Wanneer u klaar bent met het controleren van alle details, klik **Close**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. De rug op de pagina van de Informatie van de Oplossing, klikt **daarna**.
+1. Terug op de pagina van de Informatie van de Oplossing, klik **Volgende**.
 
    ![](assets/image2015-4-2-11-3a41-3a48.png)
 
-1. Controleer of het selectievakje voor de optie voor SDK-berichten is ingeschakeld. Klik op **Volgende**.
+1. Controleer of het selectievakje voor de optie voor SDK-berichten is ingeschakeld. Klik **Volgende**.
 
    ![](assets/image2015-4-2-11-3a42-3a37.png)
 
@@ -71,7 +71,7 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 
-1. Klik op **Sluiten**.
+1. Klik **Close**.
 
    >[!NOTE]
    >
@@ -79,11 +79,11 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. Marktbeheer wordt nu weergegeven op de pagina **Alle oplossingen** .
+1. Marketo Lead Management wordt nu weergegeven op de pagina **All Solutions**.
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. Selecteer Marketo Lead Management en klik op Alle aanpassingen **publiceren.**
+1. Selecteer Marketo Lead Management en klik op **Alle aanpassingen publiceren.**
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
