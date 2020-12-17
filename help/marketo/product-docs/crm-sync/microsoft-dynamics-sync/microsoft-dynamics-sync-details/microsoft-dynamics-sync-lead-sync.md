@@ -21,7 +21,7 @@ De synchronisatie is bidirectioneel. Als u veranderingen in of een lood in Dynam
 
 >[!NOTE]
 >
->Verwijderen synchroniseert niet altijd automatisch in beide richtingen. Zie [Een lead of contactpersoon](http://docs.marketo.com/x/agO1Ag)verwijderen.
+>Verwijderen synchroniseert niet altijd automatisch in beide richtingen. Zie [Een lead of contact verwijderen](http://docs.marketo.com/x/agO1Ag).
 
 ## Wat gebeurt er als er tegelijkertijd in beide systemen wijzigingen in hetzelfde veld worden aangebracht? (Gegevensconflict) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
@@ -29,7 +29,7 @@ Hoewel dit zeldzaam is, zal Marketo voor mensen (lood) winnen en de Dynamiek voo
 
 ## Kan ik een lead maken in Dynamics met Marketo? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Ja, gebruik de actie Person [synchroniseren met Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) -stroom. Dit zal tot een lood in Dynamica leiden als de lood niet bestaat. Als de lead wel bestaat, voert de flowstap geen actie uit.
+Ja, gebruik [Persoon synchroniseren naar Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) stroomactie. Dit zal tot een lood in Dynamica leiden als de lood niet bestaat. Als de lead wel bestaat, voert de flowstap geen actie uit.
 
 >[!NOTE]
 >
@@ -37,11 +37,11 @@ Ja, gebruik de actie Person [synchroniseren met Microsoft](../../../../product-d
 
 ## Kan ik handmatig een synchronisatie van een persoon van Marketo naar een lead in Dynamics forceren? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-Nee, de geautomatiseerde achtergrondsynchronisatie is de enige manier om updates tussen Marketo en Dynamics te synchroniseren. Met de [stroomactie Persoon synchroniseren naar Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) wordt geen synchronisatie van de lead geforceerd.
+Nee, de geautomatiseerde achtergrondsynchronisatie is de enige manier om updates tussen Marketo en Dynamics te synchroniseren. Met de stroomactie [Persoon synchroniseren naar Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) wordt geen synchronisatie van de lead geforceerd.
 
 ## Welke velden worden gesynchroniseerd met Marketo? {#what-fields-will-sync-to-marketo}
 
-U kunt velden [selecteren die u tijdens de installatie wilt synchroniseren](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) .
+Tijdens de installatie kunt u [velden selecteren om te synchroniseren](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync).
 
 ## Zal Marketo de Dynamische bevestigingsregels naleven? {#will-marketo-respect-the-dynamics-validation-rules}
 
