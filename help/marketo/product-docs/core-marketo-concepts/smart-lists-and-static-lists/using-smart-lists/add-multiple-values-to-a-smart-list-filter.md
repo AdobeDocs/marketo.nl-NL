@@ -22,21 +22,21 @@ ht-degree: 0%
 
 
 
-Laten wij zeggen u iedereen in Californië wilt vinden, maar u zou zowel **Californië** als **CA** in uw Gegevensbestand kunnen opslaan. Als u alle toepasbare personen wilt opnemen, kunt u twee **staatfilters** gebruiken, maar het is makkelijker met één.
+Laten wij zeggen u iedereen in Californië wilt vinden, maar u zou zowel **Californië** als **CA** in uw Gegevensbestand kunnen opslaan. Om alle toepasselijke mensen te omvatten, kon u twee **Staat** filters gebruiken, maar het is gemakkelijker met één.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Zoek en selecteer een slimme lijst en klik op het tabblad **Slimme lijst** .
+1. Zoek en selecteer een slimme lijst en klik op het tabblad **Slimme lijst**.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Klik op het **plusteken** op het filter.
+1. Klik op het plusteken **a1/> op het filter.**
 
    ![](assets/smartlist-plussignhand-.png)
 
-1. U kunt waarden kiezen aan de linkerkant of ze aan de rechterkant typen en vervolgens op **OK** klikken.
+1. U kunt waarden van de linkerzijde kiezen of enkel hen op het recht typen dan **O** klikken.
 
    ![](assets/image2014-9-11-17-3a51-3a39.png)
 
