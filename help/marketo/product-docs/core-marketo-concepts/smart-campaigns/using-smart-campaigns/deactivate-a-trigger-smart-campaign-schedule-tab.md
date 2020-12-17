@@ -29,5 +29,5 @@ Voer de volgende stappen uit als u een oude triggercampagne hebt die u moet deac
 
 >[!NOTE]
 >
->Dit zal *nieuwe* mensen verhinderen de stroom in te gaan, maar de mensen in wachtende stappen of een andere stroomstap zullen zich door de stroom blijven bewegen tot gedaan.
+>Dit zal *new* mensen van het ingaan van de stroom tegenhouden, maar de mensen in wachtende stappen of een andere stroomstap zullen zich door de stroom blijven bewegen tot gedaan.
 
