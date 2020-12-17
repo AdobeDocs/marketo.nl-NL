@@ -17,11 +17,11 @@ In de focusmodus van het programma kunt u snel wijzigingen aanbrengen in agenda-
 
 ## Programmafocus inschakelen {#enable-program-focus}
 
-1. Ga naar de **kalender**.
+1. Ga naar **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Selecteer een vermelding die hoort bij het programma waarop u wilt scherpstellen en klik op **Programmafocus** tonen.
+1. Selecteer een vermelding die bij het programma hoort waarop u wilt scherpstellen en klik op **Programmafocus tonen**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -31,7 +31,7 @@ In de focusmodus van het programma kunt u snel wijzigingen aanbrengen in agenda-
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
-## Itemnaam bewerken {#edit-entry-name}
+## Itemnaam {#edit-entry-name} bewerken
 
 1. Selecteer het item waarvan u de naam wilt wijzigen.
 
@@ -46,7 +46,7 @@ In de focusmodus van het programma kunt u snel wijzigingen aanbrengen in agenda-
    >U kunt de beschrijving ook bewerken.
    >
    >
-   >![--](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
 
 ## Invoertype converteren {#convert-entry-type}
 
