@@ -15,11 +15,11 @@ ht-degree: 0%
 
 U kunt een stream klonen om verschillende redenen, waaronder verschillende bestellingen en verschillende kadingen.
 
-1. Selecteer uw serviceprogramma en ga naar het tabblad **Streams** .
+1. Selecteer uw serviceprogramma en ga naar het tabblad **Streams**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Klik op het tandwielpictogram van de stroom en klik vervolgens op **Klonen**.
+1. Klik op het pictogram van het stroomversnelling en klik vervolgens op **Klonen**.
 
    ` ![](assets/image2014-9-15-17-3a0-3a23.png)
 
