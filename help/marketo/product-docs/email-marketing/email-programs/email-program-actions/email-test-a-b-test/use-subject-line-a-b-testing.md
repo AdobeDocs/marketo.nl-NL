@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Testen van &quot;onderwerpregel&quot; A/B gebruiken {#use-subject-line-a-b-testing}
+# Testmethode &quot;Onderwerpregel&quot; A/B {#use-subject-line-a-b-testing} gebruiken
 
-U kunt uw e-mailberichten eenvoudig testen. Een van de meest voorkomende tests is de **onderwerpregel** .
+U kunt uw e-mailberichten eenvoudig testen. Een van de meest voorkomende tests is de **Onderwerpregel**-test.
 
 >[!PREREQUISITES]
 >
@@ -37,7 +37,7 @@ U kunt uw e-mailberichten eenvoudig testen. Een van de meest voorkomende tests i
 
    >[!TIP]
    >
-   >U kunt op het **plusteken***** klikken om meer onderwerpregel&#39;s toe te voegen.
+   >U kunt op **plus*** teken** klikken om meer onderwerpregel toe te voegen.
 
 1. Gebruik de schuif om te kiezen welk percentage van het publiek u uw test A/B wilt ontvangen en **daarna** klikken.
 
@@ -51,7 +51,7 @@ U kunt uw e-mailberichten eenvoudig testen. Een van de meest voorkomende tests i
    >
    >De verschillende variaties van het onderwerp nemen zelfs delen van de geselecteerde Grootte van het Monster van de Test.
 
-   Oké, we zijn er bijna. Nu moeten we de criteria [voor de winnaars van de A/B-test](define-the-a-b-test-winner-criteria.md)definiëren.
+   Oké, we zijn er bijna. Nu moeten wij [de criteria van de A/B testwinnaar bepalen](define-the-a-b-test-winner-criteria.md).
 
    >[!NOTE]
    >
