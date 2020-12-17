@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Werken met Standard Smart List Rule Logic {#using-standard-smart-list-rule-logic}
+# Standaardlogica voor slimme lijstregels gebruiken {#using-standard-smart-list-rule-logic}
 
 Mogelijk hebt u de optie Filters gebruiken opgemerkt bij het samenstellen van slimme lijsten voor de campagne. Met deze instelling kunt u bepalen of de filters moeten worden geëvalueerd met een operator AND of OR.
 
@@ -19,14 +19,14 @@ Mogelijk hebt u de optie Filters gebruiken opgemerkt bij het samenstellen van sl
 
 >[!NOTE]
 >
->Het wijzigen van de logica van de slimme-lijstregel is alleen van toepassing op filters, **niet** op triggers.
+>Het wijzigen van de logica van de slimme-lijstregel is alleen van toepassing op filters, **niet** triggers.
 
 Triggers worden altijd geëvalueerd als OR, zelfs als de bovenstaande instelling op ALL is ingesteld.  Hier volgt een voorbeeld:
 
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
 De bovenstaande slimme lijst in woorden:
-`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Als een persoon het formulier invult **of de pagina bezoekt,** evalueert de campagne deze persoon op basis van **all **of **any **of de volgende filters, afhankelijk van de gebruikte instelling.
+`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Dus als een persoon het formulier **of** invult, bezoekt de campagne de pagina, dan evalueert de campagne die persoon op basis van **all **or **any **of de volgende filters, afhankelijk van de gebruikte instelling.
 
 >[!MORELIKETHIS]
 >
