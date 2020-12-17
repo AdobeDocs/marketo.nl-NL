@@ -15,7 +15,7 @@ ht-degree: 0%
 
 In plaats van een slimme lijst helemaal zelf te maken, kunt u wat tijd besparen door een vergelijkbare lijst te klonen en wijzigingen aan te brengen. Zo gaat het.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -23,11 +23,11 @@ In plaats van een slimme lijst helemaal zelf te maken, kunt u wat tijd besparen 
 
    ![](assets/smartlist-find.png)
 
-1. Klik onder Handelingen **** Lijst op Slimme lijst **klonen**.
+1. Klik onder **Handelingen weergeven** op **Slimme lijst klonen**.
 
    ![](assets/clonesmartlist-hands.png)
 
-1. Voer een **naam** in en klik op **Klonen**.
+1. Voer een **Naam** in en klik op **Klonen**.
 
    ![](assets/supersmartlist-clonewindow.png)
 
