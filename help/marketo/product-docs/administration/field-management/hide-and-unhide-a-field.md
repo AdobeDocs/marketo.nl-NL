@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Een veld verbergen en verbergen opheffen {#hide-and-unhide-a-field}
+# Veld {#hide-and-unhide-a-field} verbergen en verbergen
 
 Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruikersinterface zodat het niet meer wordt weergegeven in de toepassing.
 
-## Een veld verbergen {#hide-a-field}
+## Veld {#hide-a-field} verbergen
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Admin** en klik op **Veldbeheer**.
+1. Ga naar **Admin** en klik **Veld Management**.
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. Zoek het veld, selecteer het en klik onder **Veldhandelingen** op Veld **** verbergen.
+1. Zoek het veld, selecteer het en klik vervolgens onder **Veldhandelingen** op **Veld verbergen**.
 
    ![](assets/fieldmanagement-hidefield-.png)
 
@@ -42,9 +42,9 @@ Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruik
 
    ![](assets/image2014-9-18-13-3a10-3a45.png)
 
-## De verbergen van een veld ongedaan maken {#unhide-a-field}
+## Een veld {#unhide-a-field} verbergen
 
-1. Ga naar **Admin** en klik op **Veldbeheer**.
+1. Ga naar **Admin** en klik **Veld Management**.
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
