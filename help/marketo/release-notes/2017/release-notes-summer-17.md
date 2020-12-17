@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: Zomer 17 {#release-notes-summer}
+# Opmerkingen bij de release: Zomer &#39;17 {#release-notes-summer}
 
 De volgende functies zijn opgenomen in de release van zomer 17. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
 
@@ -41,11 +41,11 @@ Dankzij de integratie met LeanData is nu &#39;lead-to-account&#39;-matching in M
 
 ## Verbeteringen voor webpersonalisatie {#web-personalization-enhancements}
 
-** [Verbeteringen](https://docs.marketo.com/x/fQGa)voor Campagnevoorvertoning**
+** [Verbeteringen voor voorvertoning van campagne](https://docs.marketo.com/x/fQGa)**
 
-Marketing-professionals kunnen er nu voor zorgen dat hun webcampagnes er op elk apparaat goed uitzien *voordat* ze worden gestart. Met deze verbeteringen kunt u zien hoe uw webcampagnes worden gerenderd op verschillende desktops, mobiele apparaten en tablets. De nieuwe insteekmodule voor Chrome biedt ook consistentere en nauwkeurigere voorvertoningen.
+De artsen van de marketing kunnen nu ervoor zorgen hun Webcampagnes over om het even welk apparaat *groot zullen kijken alvorens* hen lanceert. Met deze verbeteringen kunt u zien hoe uw webcampagnes worden gerenderd op verschillende desktops, mobiele apparaten en tablets. De nieuwe insteekmodule voor Chrome biedt ook consistentere en nauwkeurigere voorvertoningen.
 
-** [Verbeteringen](https://docs.marketo.com/x/KgNI)voor widgetcampagne**
+** [Verbeteringen voor widgetcampagne](https://docs.marketo.com/x/KgNI)**
 
 Nieuwe opties voor widgetcampagnes zijn nu beschikbaar, waaronder:
 
@@ -55,7 +55,7 @@ Nieuwe opties voor widgetcampagnes zijn nu beschikbaar, waaronder:
 
 ## Inhoud`<sup>AI</sup>` {#contentai}
 
-** [`<sup>AI </sup>`ContentAnalytics and Suggestis](https://docs.marketo.com/x/1BPG)**
+** [Inhoud`<sup>AI </sup>`Analyse en suggesties](https://docs.marketo.com/x/1BPG)**
 
 Verhoog het rendement van uw contentmarketing met diepere analyses en suggesties voor inhoud op basis van AI om de betrokkenheid te verhogen.** * Krachtige analyses laten zien hoe aanbevolen inhoud presteert, inclusief populaire, trending- en publieksgerichte weergaven. U ziet ook suggesties voor extra inhoud die u wilt opnemen.
 
