@@ -32,7 +32,7 @@ De slimme lijsten zijn het mechanisme door Marketo om &quot;te bepalen wie&quot;
    >
    >U kunt een slimme campagne op één persoon tegelijkertijd maken die op levende gebeurtenissen wordt gebaseerd door trekkers toe te voegen, die de slimme campagne in de wijze van de Trekker zet.
 
-1. Klik op de vervolgkeuzelijst en kies een filteroperator (bijvoorbeeld **[!UICONTROL is]**, **[!UICONTROL is not]**, enzovoort) voor het filter dat u hebt gekozen.
+1. Klik op de vervolgkeuzelijst en kies een filteroperator (bijvoorbeeld **[!UICONTROL is]**, **[!UICONTROL is not]**, enz.) voor het filter dat u hebt gekozen.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/define-a-smart-list-for-a-batch-campaign/define-a-smart-list-for-a-batch-campaign-3.png)
 
@@ -47,6 +47,6 @@ De slimme lijsten zijn het mechanisme door Marketo om &quot;te bepalen wie&quot;
 >[!NOTE]
 >
 >Standaard voldoen mensen die aan ALLE slimme-lijstregels voldoen, aan
->gekwalificeerd. Deze kan worden aangepast aan uw campagnebehoeften. Bekijk de [Smart List Rules voor complexe logica](https://docs.marketo.com/display/DOCS/Using+Advanced+Smart+List+Rule+Logic) voor meer informatie.
+>gekwalificeerd. Deze kan worden aangepast aan uw campagnebehoeften. Bekijk [Slimme lijstregels voor complexe logica](https://docs.marketo.com/display/DOCS/Using+Advanced+Smart+List+Rule+Logic) voor meer informatie.
 >
->Leer hoe u Slimme lijst voor slimme campagne kunt [definiëren om live gebeurtenissen één persoon tegelijk te activeren | Trigger](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Trigger).
+>Als u live gebeurtenissen wilt activeren, leert u hoe u [Slimme lijst definiëren voor slimme campagne | Trigger](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Trigger).
