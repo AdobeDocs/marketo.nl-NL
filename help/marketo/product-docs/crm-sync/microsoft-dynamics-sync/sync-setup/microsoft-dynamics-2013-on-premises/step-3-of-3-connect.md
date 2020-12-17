@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Stap 3 van 3: Connect Marketo en Dynamics (2013 op locatie) {#step-of-connect-marketo-and-dynamics-on-premises}
+# Stap 3 van 3: Marketo en dynamiek verbinden (2013 op locatie) {#step-of-connect-marketo-and-dynamics-on-premises}
 
 Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconfigureerd. Daarna, moeten wij Marketo en Dynamiek verbinden.
 
@@ -28,9 +28,9 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 >
 >**Beheerdersmachtigingen vereist**
 
-## Gebruikersgegevens dynamiek synchroniseren invoeren {#enter-dynamics-sync-user-information}
+## Voer gebruikersgegevens voor dynamicasynchronisatie {#enter-dynamics-sync-user-information} in
 
-1. Meld u aan bij Marketo en klik op **Beheer**.
+1. Meld u aan bij Marketo en klik op **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -42,7 +42,7 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Klik op **BEWERKEN** in **stap 1: Voer referenties** in.
+1. Klik **EDIT** in **Stap 1: Voer referenties in**.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -50,7 +50,7 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
    >
    >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw abonnement op Marketo aanvragen.
 
-1. Voer de **gebruikersnaam**, het **wachtwoord** en de **URL** voor Microsoft Dynamics in en klik op **OPSLAAN**.
+1. Voer **Gebruikersnaam**, **Wachtwoord** en de Dynamiek van Microsoft **URL** in dan klik **SLA**.
 
    ![](assets/image2015-3-26-11-3a47-3a59.png)
 
@@ -60,17 +60,17 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 
    >[!TIP]
    >
-   >Kent u de URL niet? Wij zullen u tonen hoe te om de Dienst URL [van de Organisatie van de](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) Dynamica hier te vinden.
+   >Kent u de URL niet? Wij zullen u tonen hoe te om [de Dienst URL van de Organisatie van de Dynamiek ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) hier te vinden.
 
-## Te synchroniseren velden selecteren {#select-fields-to-sync}
+## Te synchroniseren velden {#select-fields-to-sync} selecteren
 
 Nu moeten we de velden selecteren waarover we willen synchroniseren.
 
-1. Klik **BEWERKEN **in **Stap 2: Selecteer te synchroniseren** velden.
+1. Klik **EDIT **in **Stap 2: Selecteer Te synchroniseren velden**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Selecteer de velden die u wilt synchroniseren met Marketo, zodat deze vooraf worden geselecteerd. Klik op **Opslaan**.
+1. Selecteer de velden die u wilt synchroniseren met Marketo, zodat deze vooraf worden geselecteerd. Klik **Opslaan**.
 
    ![](assets/image2016-8-25-15-3a10-3a17.png)
 
@@ -78,21 +78,21 @@ Nu moeten we de velden selecteren waarover we willen synchroniseren.
 
 Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe velden selecteren die u wilt synchroniseren met Marketo.
 
-1. Ga naar Admin en selecteer **de Dynamica** van Microsoft.
+1. Ga naar Admin en selecteer **de Dynamica van Microsoft**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klik op **Bewerken** op Veldsynchronisatiedetails.
+1. Klik op **Bewerken** op Details van veldsynchronisatie.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Blader omlaag naar het veld en controleer het. De daadwerkelijke naam moet new_synctomkto zijn maar de Naam van de Vertoning kan om het even wat zijn. Klik op **Opslaan**.
+1. Blader omlaag naar het veld en controleer het. De daadwerkelijke naam moet new_synctomkto zijn maar de Naam van de Vertoning kan om het even wat zijn. Klik **Opslaan**.
 
    ![](assets/image2016-8-25-15-3a11-3a4.png)
 
-## Sync inschakelen {#enable-sync}
+## Sync {#enable-sync} inschakelen
 
-1. Klik op **BEWERKEN **in **stap 3: Sync** inschakelen.
+1. Klik **EDIT **in **Stap 3: Sync inschakelen**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
