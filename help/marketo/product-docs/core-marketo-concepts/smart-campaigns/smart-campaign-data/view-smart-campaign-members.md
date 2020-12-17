@@ -27,7 +27,7 @@ Personen weergeven die al door de slimme-campagnestroom zijn gelopen; leden van 
 >
 >U kunt campagnegeleden van overal binnen een slimme campagne bekijken.
 
-1. Op het tabblad **Campagneleden** ziet u de mensen die de slimme campagnestroom al hebben doorlopen.
+1. Het **lusje van de Leden van de Campagne** toont mensen die reeds door de slimme campagnestroom hebben gelopen.
 
    ![](assets/smartcampaignheader-complete.jpg)
 
@@ -40,7 +40,7 @@ Personen weergeven die al door de slimme-campagnestroom zijn gelopen; leden van 
    >**Diep duiken**
    >
    >
-   >Meer weten over wat u kunt doen met [lijsten](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)?
+   >Meer informatie over wat u kunt doen met [lists](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
    >[!NOTE]
    >
