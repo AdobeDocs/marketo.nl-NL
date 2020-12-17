@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO - De boor Page Detail Down gebruiken {#seo-using-the-page-detail-drill-down}
+# SEO - De boor van het Detail van de Pagina onderaan {#seo-using-the-page-detail-drill-down} gebruiken
 
 U kunt veel informatie over uw pagina&#39;s zien met de diepteboor van de pagina.
 
@@ -44,9 +44,9 @@ U kunt veel informatie over uw pagina&#39;s zien met de diepteboor van de pagina
 | Facebook Likes | Het aantal keren dat deze pagina-share is gevonden op Facebook. |
 | Facebook Clicks | Aantal klikken van het aandeel Facebook. |
 
-## Trefwoord(en) waarvoor de pagina is geoptimaliseerd  {#keyword-s-that-page-is-optimized-for}
+## Trefwoord(en) waarvoor de pagina is geoptimaliseerd voor {#keyword-s-that-page-is-optimized-for}
 
-Hier [selecteert u het trefwoord waarvoor u de pagina wilt optimaliseren](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+In dit geval [selecteert u welk trefwoord u wilt optimaliseren voor de pagina voor](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
