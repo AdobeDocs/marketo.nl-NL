@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt een e-mailprogramma maken vanuit de programmaweergave van het programma. Zo gaat het.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -35,9 +35,9 @@ U kunt een e-mailprogramma maken vanuit de programmaweergave van het programma. 
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Stel uw e-mailprogramma](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) in en klik op **Programma** goedkeuren.
+1. [Stel uw e-](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) mailprogramma in en klik op  **Programma** goedkeuren.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Naast het gedetailleerde dashboard, is een voordeel aan het gebruiken van een [e-mailprogramma](http://docs.marketo.com/display/docs/email+programs) in plaats van een slimme campagne de capaciteit om een test [van](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)A/B gemakkelijk uit te voeren. Veel plezier!
+   Naast het gedetailleerde dashboard, is een voordeel aan het gebruiken van een [e-mailprogramma](http://docs.marketo.com/display/docs/email+programs) in plaats van een slimme campagne de capaciteit om een [A/B test](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) gemakkelijk uit te voeren. Veel plezier!
 
