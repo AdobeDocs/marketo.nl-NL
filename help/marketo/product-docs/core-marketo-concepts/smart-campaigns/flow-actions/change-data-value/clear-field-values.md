@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Veldwaarden wissen {#clear-field-values}
+# Veldwaarden {#clear-field-values} wissen
 
-** [Gegevenswaarde](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)wijzigen** is geweldig, maar hoe kunt u de waarde volledig *verwijderen* ? Goede vraag!
+** [Gegevenswaarde wijzigen](../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** is geweldig, maar hoe *verwijdert* de waarde volledig? Goede vraag!
 
-1. Kies in de stap Stroom het veld dat u wilt wissen en typ **NULL **(alle hoofdletters) als de **nieuwe waarde**.
+1. Kies in de stap Stroom het veld dat u wilt wissen en typ **NULL ** (alle hoofdletters) als de **Nieuwe waarde**.
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 
