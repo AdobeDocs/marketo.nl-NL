@@ -24,8 +24,8 @@ Een geweldige gebeurtenis!
 
 Voor de gebeurtenis:
 
-* [Een nieuwe Marketo-rol](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) maken voor iPad- of Android-gebruikers voor de gebeurtenis
-* [Nieuwe tabletgebruikers uitnodigen voor de gebeurtenis](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) en hun de nieuwe rol toewijzen
+* [Een nieuwe Marketo-](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) rol maken voor iPad- of Android-gebruikers voor de gebeurtenis
+* [Nieuwe tabletgebruikers uitnodigen voor de ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) gebeurtenis en hun de nieuwe rol toewijzen
 * [Nieuw Marketo-gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 * Gebeurtenisdatums opgeven
 * Personen aan uw gebeurtenis toevoegen
@@ -45,5 +45,5 @@ Bij de gebeurtenis:
 
 * Aanmelden bij de app
 * Gasten zoeken (en nieuwe personen maken)
-* [Gasten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) inchecken (inchecken omkeren, persoonlijke records bewerken bij inchecken)
+* [Gasten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)  inchecken (inchecken omkeren, persoonlijke records bewerken bij inchecken)
 * De app voor de iPad of Android-tablet synchroniseren met Marketo
