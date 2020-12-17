@@ -35,7 +35,7 @@ Neem bijvoorbeeld de details van de Verkregen analytische kaart voor leads:
 
 In dit voorbeeld geeft rood aan dat de waarde is verlaagd over het geselecteerde datumbereik (oh!). Groen geeft aan dat de waarde is verhoogd (jay!).
 
-## Opgehaalde leads {#acquired-leads}
+## Opgehaalde regelafstand {#acquired-leads}
 
 Op de kaart **Opgehaalde leads **toont u een trending month-over-month rapport van het aantal nieuwe leads.
 
@@ -47,13 +47,13 @@ Op de kaart **Opgehaalde leads **toont u een trending month-over-month rapport v
 
 ## Nieuwe leads {#new-leads}
 
-Op de **nieuwe leadkaart** ziet u een trending month-over-month rapport van het totale aantal nieuwe leads in uw exemplaar in de afgelopen zes maanden.
+De **Nieuwe leads** kaart toont u een trending month-over-month rapport van het totale aantal nieuwe leads in uw instantie in de afgelopen zes maanden.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## Abonnementen opzeggen {#unsubscribes}
+## Abonnement {#unsubscribes} opzeggen
 
-Op de **creditcard** Unsubscribes ziet u een trending report van maand tot maand van uw afmeldingsrente over de afgelopen zes maanden.
+De **Unsubscribes** kaart toont u een maand-over-maand trending rapport van uw afmeldingstarief over de laatste zes maanden.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
