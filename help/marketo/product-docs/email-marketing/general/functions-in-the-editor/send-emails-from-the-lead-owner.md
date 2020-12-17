@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# E-mails verzenden vanuit de eigenaar van de lead {#send-emails-from-the-lead-owner}
+# E-mails verzenden van de eigenaar van de lead {#send-emails-from-the-lead-owner}
 
 Wat als u een e-mail naar een lead namens de Lead Owner wilt sturen?  Zo gaat het.
 
-1. Zoek uw e-mail, selecteer het en klik **uitgeven Ontwerp**.
+1. Zoek uw e-mail, selecteer het en klik **geef Ontwerp** uit.
 
    ![](assets/one.png)
 
-1. Klik in het veld **Van** (verwijder een bestaande naam) en klik op de knop Token **** invoegen.
+1. Klik op het veld **Van** (verwijder een bestaande naam) en klik op de knop **Token invoegen**.
 
    ![](assets/two.png)
 
-1. Typ &quot;`{{lead.Lead Owner`&quot; en selecteer het **`{{lead.Lead Owner First Name}}`** token.
+1. Typ &quot;`{{lead.Lead Owner`&quot; en selecteer het token **`{{lead.Lead Owner First Name}}`**.
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
@@ -31,11 +31,11 @@ Wat als u een e-mail naar een lead namens de Lead Owner wilt sturen?  Zo gaat he
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
-1. Klik na het eerste token, voeg een spatie toe en klik op de knop **Token** invoegen.
+1. Klik na het eerste teken, voeg een ruimte toe, dan klik **Symbolisch** knoop van het Tussenvoegsel.
 
    ![](assets/five.png)
 
-1. Typ &quot;`{{lead.Lead Owner`&quot; en selecteer het **`{{lead.Lead Owner Last Name}}`** token.
+1. Typ &quot;`{{lead.Lead Owner`&quot; en selecteer het token **`{{lead.Lead Owner Last Name}}`**.
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
@@ -50,7 +50,7 @@ Wat als u een e-mail naar een lead namens de Lead Owner wilt sturen?  Zo gaat he
    Klik in het veld Van e-mail (verwijder een bestaand e-mailadres) en klik op de knop Token invoegen.
    ![](assets/eight.png)
 
-1. Typ &quot;`{{lead.Lead Owner`&quot; en selecteer het **`{{lead.Lead Owner Email Address}}`** token.
+1. Typ &quot;`{{lead.Lead Owner`&quot; en selecteer het token **`{{lead.Lead Owner Email Address}}`**.
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
@@ -58,7 +58,7 @@ Wat als u een e-mail naar een lead namens de Lead Owner wilt sturen?  Zo gaat he
 
    ![](assets/ten.png)
 
-1. Zorg ervoor dat de velden **Reageren op** en **Onderwerp** zijn ingevuld en dat u klaar bent!
+1. Zorg ervoor **Reageren-aan** en **Onderwerp** gebieden bevolkt zijn, en u wordt gedaan!
 
    ![](assets/eleven.png)
 
