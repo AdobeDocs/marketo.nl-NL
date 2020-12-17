@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Het opnieuw bepalen van een Hele Programma van de Mening van het Programma {#rescheduling-an-entire-program-from-the-schedule-view}
+# Het opnieuw bepalen van een Hele Programma van de Mening {#rescheduling-an-entire-program-from-the-schedule-view} van het Programma
 
 Wanneer u een programma of gebeurtenis met datums kloont, wilt u waarschijnlijk alle datums in één keer opnieuw plannen. Zo gaat het.
 
