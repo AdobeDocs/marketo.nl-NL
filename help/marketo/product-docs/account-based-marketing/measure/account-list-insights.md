@@ -19,7 +19,7 @@ Het dashboard Accountlijst biedt een weergave van geaggregeerde inzichten van al
 >
 >Marketo ABM bepaalt automatisch de hoogste genoemde rekeningen binnen een rekeningslijst die op pijpleiding wordt gebaseerd geproduceerde of de scores van de rekeningsovereenkomst van de rekening.
 
-## Het dashboard Accountlijst {#account-list-dashboard}
+## Accountlijstdashboard {#account-list-dashboard}
 
 Als u het dashboard van een accountlijst wilt weergeven, klikt u gewoon op de naam van de lijst...
 
@@ -50,7 +50,7 @@ Klik op het tabblad **Benoemde accounts** om te zien welke benoemde accounts bij
 
 >[!NOTE]
 >
->U kunt een benoemde account op dit tabblad verwijderen door de account te selecteren en op Benoemde accounts **** verwijderen te klikken.
+>U kunt een benoemde account op dit tabblad verwijderen door deze te selecteren en te klikken op **Benoemde accounts verwijderen**.
 
 ## Wordt gebruikt door tab {#used-by-tab}
 
