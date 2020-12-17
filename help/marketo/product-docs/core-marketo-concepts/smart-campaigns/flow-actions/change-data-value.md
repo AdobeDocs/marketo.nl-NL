@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Gegevenswaarde wijzigen {#change-data-value}
+# Gegevenswaarde {#change-data-value} wijzigen
 
 ## Overzicht {#overview}
 
@@ -21,7 +21,7 @@ U kunt Marketo gebruiken om de waarde van een veld bij te werken. Hiervoor gebru
 
 >[!NOTE]
 >
->U kunt ook blokkeren dat een veld wordt bijgewerkt. Zie Updates [blokkeren voor een veld](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) voor meer informatie.
+>U kunt ook blokkeren dat een veld wordt bijgewerkt. Zie [Updates blokkeren voor een veld](../../../../product-docs/administration/field-management/block-updates-to-a-field.md) voor meer informatie.
 
 ## Gebruik {#usage}
 
@@ -38,11 +38,11 @@ U kunt Marketo gebruiken om de waarde van een veld bij te werken. Hiervoor gebru
    >**Herinnering**
    >
    >
-   >U kunt tokens ook gebruiken in **Nieuwe Waarde**.
+   >U kunt tokens in **Nieuwe Waarde** ook gebruiken.
 
    >[!TIP]
    >
-   >U kunt &#39;NULL&#39; (geen aanhalingstekens, kapitalen) invoeren in **Nieuwe waarde** om het veld te wissen. Zie Veldwaarden [](change-data-value/clear-field-values.md) wissen voor meer informatie.
+   >U kunt &#39;NULL&#39; (geen aanhalingstekens, kapitalen) invoeren in **Nieuwe waarde** om het veld te wissen. Zie [Veldwaarden wissen](change-data-value/clear-field-values.md) voor meer informatie.
 
    >[!NOTE]
    >
