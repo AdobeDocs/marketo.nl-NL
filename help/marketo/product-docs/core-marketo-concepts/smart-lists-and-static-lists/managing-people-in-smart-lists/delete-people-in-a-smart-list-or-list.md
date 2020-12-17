@@ -27,7 +27,7 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
 
    ![](assets/ma-1.png)
 
-1. Selecteer de lijst/slimme lijst met alle personen die u wilt verwijderen en ga naar het tabblad **Personen** .
+1. Selecteer de lijst/slimme lijst die alle mensen bevat u en naar **Mensen** tabel wilt schrappen en gaan.
 
    ![](assets/two-1.png)
 
@@ -35,19 +35,19 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
    >
    >Wanneer u een persoon verwijdert, verwijdert u deze niet alleen uit de lijst, maar wordt deze volledig uit de database verwijderd.
 
-1. Klik op **Alles** selecteren ****. U kunt ook een paar records selecteren door op Ctrl/Cmd te klikken.
+1. Klik **Select** **All**. U kunt ook een paar records selecteren door op Ctrl/Cmd te klikken.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Als de resultaten meerdere pagina&#39;s beslaan, klikt u op **Alles** selecteren **** om alle personen op alle pagina&#39;s te selecteren.
+   >Als de resultaten zich over veelvoudige pagina&#39;s uitstrekken, zal het klikken **Select** **Al** alle mensen over alle pagina&#39;s selecteren.
 
-1. Als u de personen volledig wilt verwijderen uit Marketo, klikt u op **Persoon** verwijderen ****.
+1. Om de mensen van Marketo volledig te verwijderen, klik **Schrapping** **Persoon**.
 
    ![](assets/four-1.png)
 
-1. Plaats **verwijdert** **uit** **CRM** aan **waar** als u de verslagen van uw CRM ook wilt schrappen.
+1. Stel **Remove** **from** **CRM** in op **true** als u de records ook uit uw CRM wilt verwijderen.
 
    ![](assets/five.png)
 
@@ -59,17 +59,17 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
    >
    >Als uw Marketo niet aan uw CRM wordt gebonden is de optie grayed uit als in het schermafbeelding.
 
-1. Klik op **Nu** uitvoeren ****.
+1. Klik **Run** **Now**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
-1. Als u meer dan 50 personen verwijdert, ziet u dit. Typ het aantal personen dat u verwijdert, schakel het vakje **Kan niet ongedaan maken** in en klik op **Verwijderen**.
+1. Als u meer dan 50 personen verwijdert, ziet u dit. Typ het aantal personen dat u wilt verwijderen, schakel het vakje **Kan niet ongedaan maken** in en klik vervolgens op **Delete**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >Klik op Resultaten **** weergeven in het pop-upvak Single Flow-actie rechtsboven in het scherm om de resultaten van de massale verwijdering weer te geven. De tijden van schrapping kunnen zeer variëren, afhankelijk van veelvoudige factoren.
+   >Als u de resultaten van de massale verwijdering wilt weergeven, klikt u op **Resultaten weergeven** in het pop-upvenster Handeling voor één stroom rechtsboven in het scherm. De tijden van schrapping kunnen zeer variëren, afhankelijk van veelvoudige factoren.
 
    Dit is een fantastische functie, maar wees voorzichtig als je het gebruikt!
 
