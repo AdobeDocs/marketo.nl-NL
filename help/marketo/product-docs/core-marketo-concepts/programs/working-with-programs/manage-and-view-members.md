@@ -51,21 +51,21 @@ U kunt de lijst met leden exporteren door op het Excel-pictogram naast het zoekv
 
 ## Kies welke kolommen zichtbaar zijn in het raster {#choose-which-columns-are-visible-in-the-grid}
 
-1. Klik op de vervolgkeuzelijst **Weergave **en selecteer Weergave **** maken.
+1. Klik op de vervolgkeuzelijst **Weergave **en selecteer **Weergave maken**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Geef een naam op voor de aangepaste weergave. Selecteer kolomtitels. Klik op** Toevoegen **en verwijderen **** om kolommen te verplaatsen en een weergave te maken.
+1. Geef een naam op voor de aangepaste weergave. Selecteer kolomtitels. Klik op** Toevoegen **en** Verwijderen **om kolommen te verplaatsen en een weergave te maken.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## Het raster Leden filteren  {#filter-the-members-grid}
+## Het raster Leden filteren {#filter-the-members-grid}
 
-1. Klik op de vervolgkeuzelijst **Filter** en selecteer een progressiestappen waarop u wilt sorteren.
+1. Klik op de vervolgkeuzelijst **Filter** en selecteer een progressiestap waarop u wilt sorteren.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -73,11 +73,11 @@ U kunt de lijst met leden exporteren door op het Excel-pictogram naast het zoekv
 
 U kunt de status van de personen in het ledenraster wijzigen.
 
-1. Houd **Ctrl/Cmd** ingedrukt en selecteer de gewenste personen.
+1. Houd **Ctrl/Cmd** ingedrukt en selecteer de personen.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Klik op de vervolgkeuzelijst **Status** wijzigen en selecteer een status.
+1. Klik op de vervolgkeuzelijst **Status wijzigen** en selecteer een status.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
