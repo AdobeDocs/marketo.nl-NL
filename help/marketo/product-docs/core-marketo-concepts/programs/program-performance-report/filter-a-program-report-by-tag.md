@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Een programmarapport filteren op tag {#filter-a-program-report-by-tag}
 
-Focus uw [prestatierapport](create-a-program-performance-report.md)op specifieke [tags](http://docs.marketo.com/display/docs/tags).
+Focus uw [prestatierapport van het programma](create-a-program-performance-report.md)op specifieke [tags](http://docs.marketo.com/display/docs/tags).
 
 1. Ga naar **Marketing** **Activiteiten** (of **Analytics**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer uw rapport **Programmaprestaties** .
+1. Selecteer uw **Programmaprestaties** rapport.
 
    ![](assets/image2014-9-23-16-3a12-3a36.png)
 
-1. Klik op het tabblad **Setup** en sleep over een van de **tagfilters** .
+1. Klik op de tab **Setup** en sleep over een van de filters **Tags**.
 
    ![](assets/prospects.jpg)
 
@@ -31,11 +31,11 @@ Focus uw [prestatierapport](create-a-program-performance-report.md)op specifieke
 
    ![](assets/prospect1.jpg)
 
-1. Klik op **Toepassen**.
+1. Klik **Toepassen**.
 
    ![](assets/prospect2.jpg)
 
-1. Gereed! Klik op het tabblad **Rapport** om *alleen* de programma&#39;s weer te geven die overeenkomen met de geselecteerde labels in uw rapport.
+1. Gereed! Klik **Rapport** tabel om *just* de programma&#39;s te zien die de geselecteerde markeringen in uw rapport aanpassen.
 
    ![](assets/image2014-9-23-16-3a14-3a42.png)
 
@@ -53,5 +53,5 @@ Focus uw [prestatierapport](create-a-program-performance-report.md)op specifieke
    >**Diep duiken**
    >
    >
-   >Meer informatie over rapporten vindt u in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Meer informatie over rapporten vindt u in [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
 
