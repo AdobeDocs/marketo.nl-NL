@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## Overzicht {#overview}
 
-Omdat u de mogelijkheid hebt om ** [Toevoegen aan lijst](add-to-list.md)** te gebruiken, hebt u ook een manier nodig om personen uit lijsten te verwijderen.
+Aangezien u de capaciteit aan ** [toevoegt aan Lijst](add-to-list.md)** hebt, hebt u ook een manier nodig om mensen uit lijsten te verwijderen.
 
 ![](assets/image2014-9-22-10-3a44-3a3.png)
 
 ## Gebruik {#usage}
 
-1. Zoek en selecteer de **lijst** waaruit u de personen wilt verwijderen.
+1. Zoek en selecteer **Lijst** u de mensen wilt worden verwijderd uit.
 
    ![](assets/image2014-9-22-10-3a44-3a7.png)
 
