@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: juli 2013 {#release-notes-july}
+# Opmerkingen bij de release: Juli 2013 {#release-notes-july}
 
-De volgende functies zijn opgenomen in de release van juli die gepland is voor een introductie op vrijdag 26 juli.  Controleer uw [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van juli die gepland is voor een introductie op vrijdag 26 juli.  Controleer [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
 
-Na de versie, ben zeker om het [Nieuwe lusje van de Versie](release-notes-december-2013.md) in de Gemeenschap voor gedetailleerde Artikelen van de Hulp voor elke eigenschap te controleren!
+Na de release moet u het tabblad [Nieuwe release](release-notes-december-2013.md) in de Community uitchecken voor gedetailleerde Help-artikelen voor elke functie!
 
-## Widget uitgebreide inhoud op het dashboard {#exhausted-content-widget-on-the-dashboard}
+## Uitgebreide inhoudswidget op het dashboard {#exhausted-content-widget-on-the-dashboard}
 
 Verstrekt informatie over wanneer de lood de inhoud binnen de Stroom zal uitputten. Het systeem zal u van informatie voorzien over hoeveel lood op het punt staan om uitgeputte inhoud te bereiken, of hoe lang de lood uitgeput is.
 
@@ -35,13 +35,13 @@ In de komende maanden zult u merken dat er meer van ons nieuwe thema&#39;s in ve
 
 ![](assets/image2014-9-22-16-3a31-3a42.png)
 
-## Datumkolom voor programmalid {#program-member-date-column}
+## Datum/kolom van programmalid {#program-member-date-column}
 
 Bekijk en sorteer het lidnet tegen de datum dat de lood werd toegevoegd.
 
 ![](assets/image2014-9-22-16-3a32-3a1.png)
 
-## Wijzigingen in spellingcontrole in de WYSIWYG Editor {#changes-to-spell-check-in-wysiwyg-editor}
+## Wijzigingen in spellingcontrole in WYSIWYG Editor {#changes-to-spell-check-in-wysiwyg-editor}
 
 De dienst die door de redacteur WYSIWYG voor spellingcontrole wordt gebruikt werd stopgezet. We hebben de knop Spellingcontrole uit de editor verwijderd totdat we een vervanging vinden.
 
