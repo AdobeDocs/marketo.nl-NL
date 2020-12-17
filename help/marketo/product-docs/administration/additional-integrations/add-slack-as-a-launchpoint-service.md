@@ -24,17 +24,17 @@ De Slack-integratie bevat twee meldingstypen:
 
 >[!PREREQUISITES]
 >
->Als u de Meldingen van het Systeem van Slack reeds hebt toegelaten, gelieve [Steun](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270)te contacteren.
+>Als u de Berichten van het Systeem van de Slack reeds hebt toegelaten, gelieve [contact Steun](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
 
-1. Ga naar **LaunchPoint**, dan onder **Nieuw** klik **Nieuwe Dienst**.
+1. Ga naar **LaunchPoint**, dan onder **New** klik **New Service**.
 
    ![](assets/image2017-11-27-14-3a13-3a18.png)
 
-1. Voer een weergavenaam in voor de Slack-integratie. Selecteer **Slack in de vervolgkeuzelijst** Service ****. Klik op **Maken**.
+1. Voer een weergavenaam in voor de Slack-integratie. Selecteer **Slack** in de vervolgkeuzelijst **Service**. Klik **Maken**.
 
    ![](assets/image2017-11-27-15-3a54-3a11.png)
 
-1. Klik op **Autoriseren**. Dit opent Slack op een nieuw lusje, waar u de vergunning zult voltooien en de toestemming van het Marketo verleent om informatie van Slack te trekken.
+1. Klik **Autoriseren**. Dit opent Slack op een nieuw lusje, waar u de vergunning zult voltooien en de toestemming van het Marketo verleent om informatie van Slack te trekken.
 
    ![](assets/image2017-11-27-14-3a16-3a6.png)
 
@@ -42,11 +42,11 @@ De Slack-integratie bevat twee meldingstypen:
 
    ![](assets/image2017-11-27-15-3a1-3a29.png)
 
-1. Voer uw Slack-referenties in en klik op **Aanmelden**.
+1. Ga uw geloofsbrieven van de Slack in en klik **Teken binnen**.
 
    ![](assets/image2017-11-27-15-3a1-3a3.png)
 
-1. Selecteer in het vervolgkeuzemenu **Plaatsen naar** het kanaal waar u meldingen van Marketo wilt plaatsen. Controleer de gewenste machtigingen en klik op **Autoriseren**.
+1. Selecteer in de vervolgkeuzelijst **Plaatsen naar** het kanaal waar u meldingen van Marketo wilt plaatsen. Controleer de gevraagde toestemmingen, dan klik **Autoriseren**.
 
    ![](assets/image2018-1-9-13-3a21-3a50.png)
 
