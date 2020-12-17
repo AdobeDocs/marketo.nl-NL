@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opbrengstfase wijzigen {#change-revenue-stage}
+# Werkgebied {#change-revenue-stage} wijzigen
 
 ## Overzicht {#overview}
 
@@ -21,11 +21,11 @@ Als u de Modellen van de Cyclus van de Opbrengst gebruikt en een goedgekeurd mod
 
 ## Gebruik {#usage}
 
-1. Selecteer het **model**.
+1. Selecteer **Model**.
 
    ![](assets/image2014-9-22-17-3a5-3a4.png)
 
-1. Selecteer het **nieuwe werkgebied** dat u wilt toewijzen en u bent klaar!
+1. Selecteer **Nieuw werkgebied** u wilt toewijzen en u bent klaar!
 
    ![](assets/image2014-9-22-17-5-8.png)
 
