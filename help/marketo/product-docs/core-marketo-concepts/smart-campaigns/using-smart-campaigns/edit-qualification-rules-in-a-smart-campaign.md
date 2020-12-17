@@ -15,15 +15,15 @@ ht-degree: 0%
 
 De regels van de erkenning bepalen hoe vaak iemand door de stroom in een slimme campagne kan lopen. Zelfs als iemand een slimme campagne meerdere keren activeert, worden deze standaard slechts eenmaal door de flow verzonden. Hieronder wordt beschreven hoe u deze instellingen wijzigt.
 
-1. Klik in uw slimme campagne op het tabblad **Schema** en **Bewerk instellingen**.
+1. In uw slimme campagne, klik **Programma** tabel en dan **geef Montages** uit.
 
    ![](assets/programeditsettings-hands.png)
 
    >[!TIP]
    >
-   >U kunt ook op **Bewerken** rechts van Instellingen voor slimme campagne klikken.
+   >U kunt ook op **Edit** rechts van &quot;Smart Campagne Settings&quot; klikken.
 
-1. Kies hoe vaak u uw mensen door de slimme campagnestroom wilt leiden: **slechts eenmaal**, **elke keer**, of **eenmaal per # dagen**/**weken**/**maanden**.
+1. Kies hoe vaak u uw mensen door de slimme campagnestroom wilt leiden: **slechts eenmaal**, **telkens**, of **eenmaal om de # dagen**/**weken**/**maanden**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign.png)
 
@@ -36,7 +36,7 @@ De regels van de erkenning bepalen hoe vaak iemand door de stroom in een slimme 
    >**Herinnering**
    >
    >
-   >Communicatielimieten worden standaard niet toegepast op slimme campagnes. Leer hoe u communicatielimieten kunt [toepassen op een slimme campagne](apply-communication-limits-to-smart-campaign.md).
+   >Communicatielimieten worden standaard niet toegepast op slimme campagnes. Leer hoe u communicatielimieten [toepast op een slimme campagne](apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
