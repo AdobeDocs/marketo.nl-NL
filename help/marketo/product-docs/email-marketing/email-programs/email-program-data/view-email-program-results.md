@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Net als op het tabblad Resultaten in slimme campagnes kunt u dezelfde informatie in e-mailprogramma&#39;s zien.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,11 +27,11 @@ Net als op het tabblad Resultaten in slimme campagnes kunt u dezelfde informatie
    >
    >Als het e-mailprogramma al is gestart, gaat u rechtstreeks naar het dashboard voor het e-mailprogramma.
 
-1. Selecteer onder **Weergave** het **Configuratiescherm**.
+1. Selecteer **Configuratiescherm** onder **Weergave**.
 
    ![](assets/controlpanelview.jpg)
 
-1. Klik onder de tegel **Publiek** op **Resultaten** weergeven.
+1. Onder **Publiek** tegel, klik **Resultaten van de Mening**.
 
    ![](assets/audiencetile.jpg)
 
@@ -43,5 +43,5 @@ Net als op het tabblad Resultaten in slimme campagnes kunt u dezelfde informatie
 >
 >**Diep duiken**
 >
->Wilt u meer weten over [e-mailprogramma&#39;s](http://docs.marketo.com/display/docs/email+program+actions)?
+>Wilt u meer weten over [E-mailprogramma&#39;s](http://docs.marketo.com/display/docs/email+program+actions)?
 
