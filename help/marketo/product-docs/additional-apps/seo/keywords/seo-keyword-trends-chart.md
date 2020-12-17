@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Het is belangrijk om te controleren hoe uw sleutelwoord [SERP Ranks](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) in tijd trending. Controleer dit coole diagram om de voortgang te controleren.
 
-1. Ga naar de sectie **Trefwoorden** .
+1. Ga naar de **sectie Keywords**.
 
    ![](assets/image2014-9-18-12-3a5-3a7.png)
 
