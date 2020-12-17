@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Het dashboard voor het e-mailprogramma gebruiken - A/B-testweergave {#use-the-email-program-dashboard-a-b-test-view}
 
-Kijk hoe uw [e-mailprogramma A/B test](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) met dit dashboard presteert.
+Ontdek hoe uw [e-mailprogramma A/B test](http://docs.marketo.com/pages/viewpage.action?pageid=2359480) met dit dashboard presteert.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
-## Test verzenden {#send-test}
+## Test {#send-test} verzenden
 
 Hier kunt u het totale geleverde en de onderverdelingen door varianten zien.
 
 ![](assets/image2014-9-12-16-3a16-3a2.png)
 
-## Klikken {#clicks}
+## Klik {#clicks}
 
 Hier kunt u zien hoeveel klikken elke variant heeft.
 
 ![](assets/image2014-9-12-16-3a16-3a20.png)
 
-## Klik om te openen {#click-to-open}
+## Klik om {#click-to-open} te openen
 
 In dit diagram ziet u de klik om de verhouding te openen. (# klikken / # opent).
 
