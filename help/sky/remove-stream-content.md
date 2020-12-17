@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-U kunt inhoud verwijderen of archiveren. In tegenstelling tot het verwijderen van streaminhoud, blijft bij het [archiveren](/help/sky/archive-and-unarchive-stream-content.md) alle aan de inhoud gekoppelde geschiedenis behouden. Als je de historische status van wat inhoud wilt verliezen en ze gewoon wilt verwijderen, is dit hoe je het moet doen.
+U kunt inhoud verwijderen of archiveren. In tegenstelling tot het verwijderen van streaminhoud, behoudt [archivering](/help/sky/archive-and-unarchive-stream-content.md) alle geschiedenis die aan de inhoud is gekoppeld. Als je de historische status van wat inhoud wilt verliezen en ze gewoon wilt verwijderen, is dit hoe je het moet doen.
 
 1. Selecteer uw serviceprogramma.
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-1.png)
 
-1. Klik op het **[!UICONTROL Streams]** tabblad.
+1. Klik op het tabblad **[!UICONTROL Streams]**.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/remove-stream-content/remove-stream-content-2.png)
 
