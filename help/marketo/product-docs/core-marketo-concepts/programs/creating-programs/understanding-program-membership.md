@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Werken met het lidmaatschap van het programma {#understanding-program-membership}
+# Program Membership {#understanding-program-membership}
 
 >[!NOTE]
 >
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)informatie.
+>Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md) informatie.
 
 >[!NOTE]
 >
@@ -27,14 +27,14 @@ ht-degree: 0%
 
    1. De persoon krijgt automatisch de eerste status in de progressie.
 
-1. U [importeert leden in het programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md) vanuit een CSV-bestand.
+1. U [importeert leden in het programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md) uit een CSV-bestand.
 
    1. De persoon krijgt automatisch de eerste status in de progressie.
 
-1. U gebruikt de stap voor de [statusstroom](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) van het wijzigingsprogramma.
-1. Een persoon registreert of woont een [webinar bij die met een gebeurtenisprogramma](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)wordt gesynchroniseerd.
-1. Er wordt een persoon [gemaakt met de inchecktoepassing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)Marketo iPad.
-1. Er wordt een persoon toegevoegd aan een SFDC-campagne, die [wordt gesynchroniseerd met het programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
+1. U gebruikt [de stroomstap ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) van het veranderingsprogramma.
+1. Een persoon registreert of woont een [webinar bij die met een gebeurtenisprogramma](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md) wordt gesynchroniseerd.
+1. Een persoon wordt [gemaakt met de toepassing Marketo iPad check-in](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+1. Een persoon wordt toegevoegd aan een campagne SFDC, die [aan het programma wordt gesynchroniseerd](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## Programmastatussen {#program-statuses}
 
-Programmastatus zijn de stappen die mensen doorlopen in een programma (bijv. Uitgenodigd, RSVP&#39;d, Bijgewoond, Geen show). Deze stappen worden gedefinieerd door het [kanaal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+Programmastatus zijn de stappen die mensen doorlopen in een programma (bijv. Uitgenodigd, RSVP&#39;d, Bijgewoond, Geen show). Deze stappen worden bepaald door [kanaal](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 ![](assets/image2015-2-5-15-3a14-3a48.png)
 
@@ -58,9 +58,9 @@ Het doel van een programma is een zinvolle interactie met de persoon of het voor
 >
 >Voor een webinar is registratie geen zinvolle interactie als ze niet echt naar het webinar kijken. Bijwonen is in dit geval een succes.
 
-## Overnameprogramma  {#acquisition-program}
+## Aankoopprogramma {#acquisition-program}
 
-Wanneer een nieuwe naam het systeem als programmalid ingaat, plaatst Marketo automatisch dat programma als &quot;verwerving.&quot; Hiermee wordt krediet voor [First Touch-attributie](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)vastgesteld.
+Wanneer een nieuwe naam het systeem als programmalid ingaat, plaatst Marketo automatisch dat programma als &quot;verwerving.&quot; Hiermee wordt het krediet voor [First-Touch-attributie](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) vastgelegd.
 
 >[!MORELIKETHIS]
 >
