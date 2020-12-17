@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Bij het maken van slimme lijsten hebben sommige filters geavanceerde opties die *constraints worden genoemd. *Dit zijn extra voorwaarden die u aan filters en trekkers kunt toevoegen helpen uw onderzoek nog verder verfijnen.
 
-In dit voorbeeld, voegen sommige beperkingen aan een ** [Gewijzigde](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)Waarde van Gegevens *** filter om mensen te vinden die een verandering van de Status van MQL in SQL hadden.
+In dit voorbeeld, voegen sommige beperkingen aan een ** [Gewijzigde Waarde van Gegevens ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)** filter om mensen te vinden die een verandering van de Status van MQL in SQL hadden.
 
 >[!PREREQUISITES]
 >
@@ -26,29 +26,29 @@ In dit voorbeeld, voegen sommige beperkingen aan een ** [Gewijzigde](../../../..
 
 
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma-1.png)
 
-1. Selecteer de slimme lijst met een filter waaraan u een beperking wilt toevoegen en klik op het tabblad **Slimme lijst** .
+1. Selecteer de slimme lijst met een filter u een beperking aan zult toevoegen, en de **Slimme Lijst** tabel klikt.
 
    ![](assets/two-3.png)
 
-1. Selecteer onder **Restrictie** toevoegen de optie **Vorige waarde**.
+1. Selecteer **Vorige waarde** onder **Restrictie toevoegen.**
 
    ![](assets/three-3.png)
 
-1. Voer de **vorige waarde** in. In dit voorbeeld gebruiken we MQL.
+1. Voer de **Vorige waarde** in. In dit voorbeeld gebruiken we MQL.
 
    ![](assets/four-2.png)
 
-1. Selecteer onder **Restrictie** toevoegen de optie **Nieuwe waarde**.
+1. Selecteer **Nieuwe waarde** onder **Restrictie toevoegen.**
 
    ![](assets/five.png)
 
-1. Voer de **nieuwe waarde** in. In dit voorbeeld gebruiken we SQL.
+1. Voer de **Nieuwe waarde** in. In dit voorbeeld gebruiken we SQL.
 
    ![](assets/six.png)
 
-1. Echt waar! Klik op het tabblad **Personen** om alle personen te zien die de afgelopen 30 dagen een **statuswijziging** hebben ondergaan van **MQL** in **SQL** .
+1. Echt waar! Klik op het tabblad **Personen** om alle personen te zien die in de afgelopen 30 dagen een **Status** hebben gewijzigd van **MQL** in **SQL**.
 
