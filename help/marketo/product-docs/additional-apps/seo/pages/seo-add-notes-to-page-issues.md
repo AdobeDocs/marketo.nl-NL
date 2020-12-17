@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wist u dat u notities kunt toevoegen aan paginaproblemen als persoonlijke herinneringen of teamberichten?
 
-## Notities toevoegen in sectie Paginaproblemen {#adding-notes-in-page-issues-section}
+## Notities toevoegen in sectie {#adding-notes-in-page-issues-section} Paginaproblemen
 
 1. Ga naar de sectie Pagina&#39;s.
 
@@ -37,7 +37,7 @@ Wist u dat u notities kunt toevoegen aan paginaproblemen als persoonlijke herinn
 >
 >U kunt de notitie verwijderen door op de kleine x in de linkerbovenhoek te klikken.
 
-## Notities toevoegen in Gedetailleerde pagina omlaag {#add-notes-in-page-detail-drill-down}
+## Notities toevoegen in opboeking van paginadetails {#add-notes-in-page-detail-drill-down}
 
 1. Ga naar de sectie Pagina&#39;s.
 
@@ -47,11 +47,11 @@ Wist u dat u notities kunt toevoegen aan paginaproblemen als persoonlijke herinn
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Houd de muisaanwijzer boven de pagina waaraan u een notitie wilt toevoegen en klik op **NOTITIE** TOEVOEGEN.
+1. Houd de muis boven de pagina-uitgave waaraan u een notitie wilt toevoegen en klik op **NOTITIE TOEVOEGEN**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Voer uw notitie in. Klik op **OPSLAAN**.
+1. Voer uw notitie in. Klik **OPSLAAN**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
