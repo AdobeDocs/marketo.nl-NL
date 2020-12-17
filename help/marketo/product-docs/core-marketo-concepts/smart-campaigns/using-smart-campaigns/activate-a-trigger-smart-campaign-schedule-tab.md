@@ -23,7 +23,7 @@ Een slimme triggercampagne activeren is vergelijkbaar met het inschakelen ervan.
    >
    >Controleer de slimme campagne voordat u deze activeert.
 
-1. Klik nogmaals op **Activeren** .
+1. Klik nogmaals **Activeer**.
 
    ![](assets/activatecampaign-hand.png)
 
