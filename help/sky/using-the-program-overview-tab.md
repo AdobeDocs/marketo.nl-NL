@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Het [!UICONTROL Program Overview] tabblad bevat drie secties: **[!UICONTROL Details]**, **[!UICONTROL Schedule]** en **[!UICONTROL Reports]**. Hier is een korte blik op elk.
+Het tabblad [!UICONTROL Program Overview] bevat drie secties: **[!UICONTROL Details]**, **[!UICONTROL Schedule]** en **[!UICONTROL Reports]**. Hier is een korte blik op elk.
 
 ## Details
 
@@ -22,7 +22,7 @@ Op de pagina met de belangrijkste details wordt algemene informatie over uw prog
 
 ![Afbeelding één](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-1.png)
 
-Onder aan de pagina staan twee secties: **[!UICONTROL Program Stats]** en **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** toont u zeer belangrijke metriek over programmaprestaties, en **[!UICONTROL Used By]** is een gemakkelijke manier om te zien waar uw programma in Marketo wordt gebruikt.
+Onder aan de pagina staan twee secties: **[!UICONTROL Program Stats]** en **[!UICONTROL Used By]**. **[!UICONTROL Program Stats]** toont u zeer belangrijke metriek over programmaprestaties, en  **[!UICONTROL Used By]** is een gemakkelijke manier om te zien waar uw programma in Marketo wordt gebruikt.
 
 ![Afbeelding twee](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-2.png)
 
@@ -34,10 +34,10 @@ De programmaweergave is een krachtige functie waarmee u rechtstreeks vanuit de k
 
 **Diep duiken**
 
-* Leer hoe u de programmaweergave [van het programma](/help/sky/navigating-program-schedule-view.md)gebruikt.
+* Leer hoe te [gebruik de mening van het programmaprogramma](/help/sky/navigating-program-schedule-view.md).
 
 ## Rapporten
 
-Op het [!UICONTROL Reports] tabblad ziet u de belangrijkste maatstaven voor de prestaties van uw programma, zoals trends en lidmaatschapsstatussen.
+Op het tabblad [!UICONTROL Reports] ziet u de belangrijkste maatstaven voor de prestaties van uw programma, zoals trends en lidmaatschapsstatus.
 
 ![Afbeelding vier](/help/sky/assets/programs/using-the-program-overview-tab/using-the-program-overview-tab-4.png)
