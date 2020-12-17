@@ -19,15 +19,15 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 >[!NOTE]
 >
->Facebook heeft nu een Business Manager-account nodig om de integratie met het aangepaste publiek te kunnen benutten. Uw Facebook LaunchPoint-service *moet* zijn gekoppeld aan een Business Manager-account, anders werkt **uw integratie niet meer na 14 januari 2019**. Raadpleeg de Help bij [Facebook als u een Business Manager-account wilt instellen](https://www.facebook.com/business/help/1710077379203657).
+>Facebook heeft nu een Business Manager-account nodig om de integratie met het aangepaste publiek te kunnen benutten. Uw Facebook LaunchPoint-service *must* moet zijn gekoppeld aan een Business Manager-account, anders werkt uw integratie niet meer na 14 januari 2019 **.** Als u een Business Manager-account wilt instellen, raadpleegt u [Facebook Help](https://www.facebook.com/business/help/1710077379203657).
 
 >[!NOTE]
 >
->Microsoft duwt alle online klanten aan om aan de recentste versie van de Dynamica van Microsoft te bevorderen. Als u uw instantie Marketo met Dynamica Online integreert, zult u aan de recentste versie van de Oplossing [van de Marketo vóór 31](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md) Januari, 2019 **moeten** bevorderen om ervoor te zorgen dat uw integratie zal blijven werken.
+>Microsoft duwt alle online klanten aan om aan de recentste versie van de Dynamica van Microsoft te bevorderen. Als u uw instantie van Marketo met Dynamica Online integreert, zult u aan [verbetering aan de recentste versie van de Oplossing van de Marketo ](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md) vóór **31 Januari, 2019** moeten verzekeren om ervoor te zorgen dat uw integratie zal blijven werken.
 
 >[!NOTE]
 >
->Marketo werkt aan een upgrade van de OAuth-versie voor GoToWebinar van 1.0 naar 2.0. De steun voor OAuth 1.0 wordt in januari 2019 afgekeurd. Als u een klant van GoToWebinar bent, zult u uw logins door LaunchPoint (in het gebied Admin) tegen 31 **Januari, 2019** opnieuw moeten voor authentiek verklaren om ervoor te zorgen dat uw integratie zal blijven werken. Voor meer informatie, gelieve te verwijzen naar onze [communautaire pagina](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019).
+>Marketo werkt aan een upgrade van de OAuth-versie voor GoToWebinar van 1.0 naar 2.0. De steun voor OAuth 1.0 wordt in januari 2019 afgekeurd. Als u een klant van GoToWebinar bent, zult u uw logins door LaunchPoint (in het Admin gebied) tegen **Januari 31, 2019** moeten opnieuw voor authentiek verklaren om ervoor te zorgen dat uw integratie zal blijven werken. Raadpleeg onze [Community-pagina](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019) voor meer informatie.
 
 ## Verbeteringen voor kernPlatform {#core-platform-enhancements}
 
@@ -37,16 +37,16 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 
 **API**
 
-* **Ondersteuning voor multi-branding-domeinen voor Asset API:** Het goedkeuren en klonen van elementen levert dezelfde resultaten op in de API en de UI.
+* **Multi-Branding Domain Support for Asset API:** Goedkeuring en klonen van elementen leveren dezelfde resultaten op in de API en de UI.
 * **E-mailCC-ondersteuning voor de API** voor middelen: Gebruikers die e-mailberichten klonen, goedkeuren en verwerken via de API, behouden de pariteit met de instellingen voor de gebruikersinterface.
 
 ** [Munchkin v155 (bèta)](http://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Modus** Alleen API: Gebruikers kunnen nu bepalen wanneer en hoe ze leden van hun database kunnen bijhouden door webapps van één pagina expliciet te laten bellen wanneer ze een bezoek aan een webpagina willen opnemen in plaats van te vertrouwen op de automatische tracering van Marketo.
 * **Uitschakelen-beheer**: Beheer opt-outs eenvoudig door het uitschakelcookie-domein aan te passen aan het Cookie-domein van Munchkin.
-* **Parameter** voor decider op domeinniveau: Domeinen met twee letters (d.w.z. &quot; [website.io](http://website.io)&quot;) volgt automatisch Marketo zonder extra instellingsvereisten.
+* **Parameter** voor decider op domeinniveau: Domeinen met twee letters (d.w.z. &quot;  [website.io](http://website.io)&quot;) volgt automatisch Marketo zonder extra instellingsvereisten.
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo Sales Engineering {#marketo-sales-engage}
 
 * **Aangepast profiel** Salesforce: Verkoopservice biedt nu ondersteuning voor onbeperkte aangepaste profielen.
 
@@ -54,8 +54,8 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 * **E-mailservice**: Geniet van betere leverbaarheid plus verbeterde functionaliteit voor het bijhouden van antwoorden, geplande e-mailadressen en functies voor het bulkmail door verbinding te maken met Microsoft Outlook (via Office365 of On-Prem via het tabblad E-mailverbinding).
 * **Nieuwe beheerinstellingen**: Er zijn twee beheerpagina&#39;s toegevoegd om uw exemplaar van Sales Engage te optimaliseren
 
-   * *Teambeheer* ondersteunt een naadloos accountinstallatieproces door beheerders toe te staan abonnementen en teams te bewerken.
-   * *Met de beheerinstellingen* voor Salesforce kunnen teams hun SFDC-synchronisatie sneller en eenvoudiger dan ooit instellen.
+   * *Teambeheer* ondersteunt een naadloos proces voor het instellen van accounts door beheerders toe te staan abonnementen en teams te bewerken.
+   * *Salesforce Admin* Settingshelps-teams zetten hun SFDC-synchronisatie sneller en eenvoudiger dan ooit in.
 
 * **OWA-insteekmodule voor Windows**: Met één enkele toe:voegen-binnen, zullen alle cliënten van Windows Office365 in de Ingenieur van de Verkoop worden gesteund, die de capaciteit verstrekken om Levende Diervoeders in Vooruitzichten te gebruiken. De nieuwe insteekmodule is beschikbaar in de Microsoft Store.
 * **Activiteitenbuffer**: Synchroniseer Verkoopservice naar het core Marketo-platform om inzicht in real-time marketing te benutten.
@@ -64,7 +64,7 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 
 >[!NOTE]
 >
->Marketo Sky-releases komen vaker voor. De volgende functies en verbeteringen zullen naar verwachting beschikbaar komen in het laatste kwartaal van 2004 en begin van het eerste kwartaal. Raadpleeg de documentatie bij [Sky](https://help.marketo.com/hc/en-us/articles/360012858573)voor meer informatie en updates.
+>Marketo Sky-releases komen vaker voor. De volgende functies en verbeteringen zullen naar verwachting beschikbaar komen in het laatste kwartaal van 2004 en begin van het eerste kwartaal. Raadpleeg onze [Sky-documentatie](https://help.marketo.com/hc/en-us/articles/360012858573) voor meer informatie en updates.
 
 * **Optionele standaardervaring**: Marketo-gebruikers kunnen Marketo Sky instellen als hun standaardervaring als ze toegang hebben gekregen van een beheerder.
 
@@ -81,7 +81,7 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 
 ## Op account gebaseerde marketing {#account-based-marketing}
 
-** [ABM Persoonlijke segmentatie en filteren](../../product-docs/account-based-marketing/using-personas.md)**
+** [Op persoon gebaseerde segmentatie en filteren van ABM](../../product-docs/account-based-marketing/using-personas.md)**
 
 Pas uw ABM-campagnes aan voor specifieke personen binnen benoemde accounts. Met de functie ABM Persona maakt u een standaardfunctie op basis van hoofdsegmentatie en kunt u aanvullende persoonlijke segmentaties configureren.
 
@@ -103,14 +103,14 @@ Gebruikers kunnen nu subdomeinen toevoegen aan hun RTP-accountinstellingen om do
 
 **Bijgewerkte MME Software Development Kit (SDK) voor Android**
 
-We hebben onze SDK voor Android bijgewerkt naar een modern, stabiel en schaalbaar framework dat meer flexibiliteit en nieuwe technische functies bevat. Ontwikkelaars van Android-apps kunnen nu rechtstreeks gebruikmaken van de [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/) (FCM) van Google met deze nieuwe SDK.
+We hebben onze SDK voor Android bijgewerkt naar een modern, stabiel en schaalbaar framework dat meer flexibiliteit en nieuwe technische functies bevat. Ontwikkelaars van Android-apps kunnen nu direct gebruikmaken van het [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/) (FCM) van Google met deze nieuwe SDK.
 
 * [Instructies voor ontwikkelaars](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
 * [Veelgestelde vragen over ontwikkelaars](http://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
->App-ontwikkelaars **moeten** de update naar de nieuwe versie uitvoeren vóór 31 maart 2019. Als u de SDK niet uiterlijk op 31 maart 2019 hebt bijgewerkt, kunnen nieuwe gebruikers die uw app na deze datum downloaden, geen pushmeldingen ontvangen totdat u de nieuwste versie van de SDK hebt bijgewerkt. De SDK-update vereist niet dat uw huidige gebruikers van de mobiele app een nieuwe versie van uw app opnieuw downloaden.
+>App-ontwikkelaars **must** moeten een update naar de nieuwe versie uitvoeren vóór 31 maart 2019. Als u de SDK niet uiterlijk op 31 maart 2019 hebt bijgewerkt, kunnen nieuwe gebruikers die uw app na deze datum downloaden, geen pushmeldingen ontvangen totdat u de nieuwste versie van de SDK hebt bijgewerkt. De SDK-update vereist niet dat uw huidige gebruikers van de mobiele app een nieuwe versie van uw app opnieuw downloaden.
 
 ## Aanvullende updates {#additional-updates}
 
@@ -118,4 +118,4 @@ We hebben onze SDK voor Android bijgewerkt naar een modern, stabiel en schaalbaa
 
 Naast onze productrelease werkt ons partnerteam aan een nieuw kader dat webinar leveranciers toestaat om hun eigen integratie met Marketo te bouwen en te handhaven, die meer flexibiliteit in het bijwerken en verbeteren van hun oplossingen verstrekken terwijl het toelaten van marketeers om het beste uit hun gekozen integratie te halen.
 
-We zijn van plan om ons nieuwe platform per geval uit te rollen met aanbieders. Voor meer informatie, zie onze [programmadetails](https://www.marketo.com/why-marketo/partners/technology/) of reep aan uw Marketo contact.
+We zijn van plan om ons nieuwe platform per geval uit te rollen met aanbieders. Voor meer informatie, zie onze [programmadetails](https://www.marketo.com/why-marketo/partners/technology/) of reik uit aan uw contact van de Marketo.
