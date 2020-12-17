@@ -23,9 +23,9 @@ Voordat u Microsoft Dynamics 2015 On-Premises of 2016 (Dynamics 365) met Marketo
 
 >[!PREREQUISITES]
 >
->Als u de Dynamiek van Microsoft On-Premise gebruikt, moet u [Internet Facing Plaatsing](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) met de [Actieve Diensten](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ van de Federatie van de Folder (ADFS) gevormd hebben. Opmerking: Het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
+>Als u de Dynamica van Microsoft On-Premise gebruikt, moet u [Internet Facing Plaatsing](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) met [de Actieve Diensten van de Federatie van de Folder](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0+ (ADFS) gevormd hebben. Opmerking: Het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
 >
->[Download de Marketo Lead Management Solution](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) voordat u begint.
+>[Download de ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Oplossing van het Beheer van de Lood van het Marketo alvorens u begint.
 
 >[!NOTE]
 >
@@ -33,35 +33,35 @@ Voordat u Microsoft Dynamics 2015 On-Premises of 2016 (Dynamics 365) met Marketo
 >
 >U hebt CRM-beheerdersrechten nodig om deze synchronisatie uit te voeren.
 
-1. Meld u aan bij **Dynamics.** Klik het drop-down menu van CRM **van de Dynamica van** Microsoft en selecteer **Montages**.
+1. Meld u aan bij **Dynamica.** Klik het  **drop-down menu van de Dynamica** CRMCRM van Microsoft en selecteer  **Montages**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 
-1. Selecteer onder **Instellingen** de optie **Oplossingen**.
+1. Selecteer **Oplossingen** onder **Instellingen**.
 
    ![](assets/image2015-3-19-8-33-3.png)
 
-1. Klik op **Importeren**.
+1. Klik **Importeren**.
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. Klik op **Bladeren** en selecteer de oplossing die u hebt [gedownload](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik op **Volgende**.
+1. Klik **Bladeren** en selecteer de oplossing u [downloadt](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik **Volgende**.
 
    ![](assets/image2015-3-19-9-20-56.png)
 
-1. Bekijk de Informatie van de Oplossing en klik de details **van het oplossingspakket van de** Mening.
+1. Bekijk de Informatie van de Oplossing en klik **de details van het oplossingspakket van de Mening**.
 
    ![](assets/image2015-11-18-11-12-8.png)
 
-1. Klik op **Sluiten wanneer u alle details hebt gecontroleerd**.
+1. Wanneer u klaar bent met het controleren van alle details, klik **Close**.
 
    ![](assets/step6.png)
 
-1. De rug op de pagina van de Informatie van de Oplossing, klikt **daarna**.
+1. Terug op de pagina van de Informatie van de Oplossing, klik **Volgende**.
 
    ![](assets/image2015-3-19-9-21-50.png)
 
-1. Controleer of het selectievakje voor de SDK-optie is ingeschakeld. Klik op **Importeren**.
+1. Controleer of het selectievakje voor de SDK-optie is ingeschakeld. Klik **Importeren**.
 
    ![](assets/image2015-3-19-9-19-12.png)
 
@@ -73,7 +73,7 @@ Voordat u Microsoft Dynamics 2015 On-Premises of 2016 (Dynamics 365) met Marketo
 
    ![](assets/image2015-3-11-11-34-9.png)
 
-1. Download een logbestand (als u dat wilt) en klik op **Sluiten**.
+1. Download een logbestand (als u dat wilt) en klik op **Close**.
 
    >[!NOTE]
    >
@@ -81,11 +81,11 @@ Voordat u Microsoft Dynamics 2015 On-Premises of 2016 (Dynamics 365) met Marketo
 
    ![](assets/image2015-3-13-9-54-39.png)
 
-1. Marktbeheer wordt nu weergegeven op de pagina **Alle oplossingen** .
+1. Marketo Lead Management wordt nu weergegeven op de pagina **All Solutions**.
 
    ![](assets/image2015-3-19-8-40-38.png)
 
-1. Selecteer de Marketo-oplossing en klik op **Alle aanpassingen** publiceren.
+1. Selecteer de oplossing Marketo en klik **Alle aanpassingen publiceren**.
 
    ![](assets/image2015-3-19-8-41-21.png)
 
