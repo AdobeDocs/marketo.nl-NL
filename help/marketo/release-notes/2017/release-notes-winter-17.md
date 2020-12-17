@@ -39,11 +39,11 @@ Exporteer alle details en analyses van uw webcampagne in CSV-indeling. Vervolgen
 
 ## [Lokalisatie](http://docs.marketo.com/display/docs/web+personalization) {#localization}
 
-De apps Web Personalization, Predictive Content en Email Insights zijn nu beschikbaar in het Japans, Duits en Spaans. U [selecteert de taal en landinstelling](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) om de inhoud in deze talen weer te geven.
+De apps Web Personalization, Predictive Content en Email Insights zijn nu beschikbaar in het Japans, Duits en Spaans. U [selecteert uw taal en landinstelling](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) om uw inhoud in deze talen weer te geven.
 
 ![](assets/japanese-web-personalization.png)
 
-## Verbeteringen op basis van account {#account-based-marketing-enhancements}
+## Op account gebaseerde marketingverbeteringen {#account-based-marketing-enhancements}
 
 **[Benoemde accounts importeren](/help/marketo/product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)**
 
@@ -57,7 +57,7 @@ Benoemde account of accountlijst gebruiken als afmetingen in e-mailinzichten.
 
 ![](assets/ei.png)
 
-## Verbeteringen aan voorspellende inhoud {#predictive-content-enhancements}
+## Verbeteringen voor voorspellende inhoud {#predictive-content-enhancements}
 
 **[Filteren op ingeschakelde bron](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
