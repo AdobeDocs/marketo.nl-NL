@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nadat u een e-mailprogramma hebt uitgevoerd en gegevens op het dashboard hebt staan, kunt u die onbewerkte gegevens exporteren en exporteren voor verdere analyse. Zo gaat het.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -40,5 +40,5 @@ Nadat u een e-mailprogramma hebt uitgevoerd en gegevens op het dashboard hebt st
 >
 >**Diep duiken**
 >
->Meer weten over [e-mailprogramma&#39;s](http://docs.marketo.com/display/docs/email+programs)?
+>Wilt u meer weten over [E-mailprogramma&#39;s](http://docs.marketo.com/display/docs/email+programs)?
 
