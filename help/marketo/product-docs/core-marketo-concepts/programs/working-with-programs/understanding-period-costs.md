@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Kosten voor tijdrekening {#understanding-period-costs}
+# Kosten {#understanding-period-costs} voor periode begrijpen
 
 ## Overzicht {#overview}
 
@@ -23,7 +23,7 @@ Periode-kosten hebben betrekking op het geld dat u in een bepaalde maand aan een
 >
 >Als je $1000 besteedt aan het huren van een illustrator voor een eBook dat in juli wordt gestart - dan kost het eBook-programma in juli $1000.
 >
->Als je 200 dollar per maand aan Google Adwords besteedt, kost het Google Adwords-programma **elke maand**$200.
+>Als u 200 dollar per maand besteedt aan Google Adwords, kost het Google Adwords-programma elke maand $ 200 **a1/>.**
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Periode-kosten hebben betrekking op het geld dat u in een bepaalde maand aan een
 >
 >[Werken met het lidmaatschap van het programma](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
-## Hoe de kosten van de periode worden berekend {#how-period-costs-are-calculated}
+## Hoe de Kosten van de Periode {#how-period-costs-are-calculated} worden berekend
 
 Stel je een gebeurtenis voor, zoals een webinar, die in maart plaatsvindt. Nieuwe mensen worden van tevoren aangeschaft uit reclame in januari en februari. Nieuwe contacten worden ook verworven na de gebeurtenis, wanneer de mensen webinar in de maanden April en Mei downloaden.
 
@@ -41,7 +41,7 @@ Stel je een gebeurtenis voor, zoals een webinar, die in maart plaatsvindt. Nieuw
 
    ![](assets/graph1.png)
 
-   ...contacten die in de maanden daarvoor en daarna zijn toegevoegd, zullen *slechts* tot maart tellen.
+   ...contacten die in de maanden vóór en na worden toegevoegd zullen *only* tellen naar Maart.
 
    ![](assets/graph2.png)
 
@@ -66,7 +66,7 @@ Stel je een gebeurtenis voor, zoals een webinar, die in maart plaatsvindt. Nieuw
    >**Herinnering**
    >
    >
-   >Samengevat: maanden zonder bepaalde periode zullen de kosten teruglopen tot de laatste die is gedefinieerd. Als er geen kosten voor de voorgaande periode zijn, worden de maanden &quot;voorwaarts&quot; doorgestuurd naar de volgende periode die is gedefinieerd. Als de kosten voor een periode voor *geen* maanden zijn vastgesteld, is de rapportage in RCE niet beschikbaar voor het programma.
+   >Samengevat: maanden zonder bepaalde periode zullen de kosten teruglopen tot de laatste die is gedefinieerd. Als er geen kosten voor de voorgaande periode zijn, worden de maanden &quot;voorwaarts&quot; doorgestuurd naar de volgende periode die is gedefinieerd. Als er voor *om het even welke* maanden geen periode is bepaald, zal de rapportering in RCE niet voor het programma beschikbaar zijn.
 
    >[!NOTE]
    >
