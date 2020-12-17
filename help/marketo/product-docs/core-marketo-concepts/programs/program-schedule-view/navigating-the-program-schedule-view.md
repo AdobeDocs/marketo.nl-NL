@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Navigeren door de programmaweergave {#navigating-the-program-schedule-view}
+# Navigeren in de overzichtsweergave {#navigating-the-program-schedule-view}
 
 Hier zijn de grondbeginselen om u te helpen de mening van het programmaprogramma navigeren.
 
-## De overzichtsweergave zoeken {#find-the-schedule-view}
+## Zoek de overzichtsweergave {#find-the-schedule-view}
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer uw programma. Klik op de vervolgkeuzelijst **Weergave** . Selecteer **Schema**.
+1. Selecteer uw programma. Klik op de vervolgkeuzelijst **Weergave**. Selecteer **Schema**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -49,7 +49,7 @@ Hier zijn de grondbeginselen om u te helpen de mening van het programmaprogramma
 
 ## Wijzigen tussen modi {#changing-between-modes}
 
-1. Als u op **3 weken** of **maand** klikt, worden de zichtbare datums in het scherm gewijzigd.
+1. Als u op **3 weken** of **Month** klikt, worden de zichtbare datums in de weergave gewijzigd.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
