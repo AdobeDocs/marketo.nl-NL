@@ -25,14 +25,14 @@ De slimme lijsten zijn het mechanisme door Marketo om &quot;te bepalen wie&quot;
 
    >[!NOTE]
    >
-   >Een slimme campagne met alleen filters wordt uitgevoerd in de modus **Batch** . Het vindt mensen in het gegevensbestand die kwalificeren gebaseerd op de filters en stelt alle hen door de stroom in werking tegelijkertijd.
+   >Een slimme campagne met alleen filters wordt uitgevoerd in de modus **Batch**. Het vindt mensen in het gegevensbestand die kwalificeren gebaseerd op de filters en stelt alle hen door de stroom in werking tegelijkertijd.
 
    >[!NOTE]
    >
    >**Herinnering**
    >
    >
-   >U kunt een slimme campagne op één persoon tegelijkertijd maken die op levende gebeurtenissen wordt gebaseerd door trekkers toe te voegen, die de slimme campagne op de wijze van de **Trekker** zet.
+   >U kunt een slimme campagne maken die op één persoon tegelijkertijd op levende gebeurtenissen wordt gebaseerd door trekkers toe te voegen, die de slimme campagne in **Trigger** wijze plaatst.
 
 1. Klik op de vervolgkeuzelijst en kies een filteroperator voor het filter dat u hebt gekozen.
 
@@ -48,9 +48,9 @@ De slimme lijsten zijn het mechanisme door Marketo om &quot;te bepalen wie&quot;
 
    >[!NOTE]
    >
-   >Standaard zijn personen die voldoen aan ALLE slimme-lijstregels gekwalificeerd. Deze kan worden aangepast aan uw campagnebehoeften. Bekijk de [Smart List Rules voor complexe logica](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) voor meer informatie.
+   >Standaard zijn personen die voldoen aan ALLE slimme-lijstregels gekwalificeerd. Deze kan worden aangepast aan uw campagnebehoeften. Bekijk [Slimme lijstregels voor complexe logica](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) voor meer informatie.
 
-   Leer hoe u Slimme lijst voor slimme campagne kunt [definiëren om live gebeurtenissen één persoon tegelijk te activeren | Trigger](define-smart-list-for-smart-campaign-trigger.md).
+   Als u live gebeurtenissen wilt activeren, leert u hoe u [Slimme lijst definiëren voor slimme campagne | Trigger](define-smart-list-for-smart-campaign-trigger.md).
 
    >[!NOTE]
    >
