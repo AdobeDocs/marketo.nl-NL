@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Exporteer de resultaten van uw slimme campagne naar Excel voor gebruik buiten [!DNL Marketo]deze map.
+Exporteer uw slimme campagneresultaten naar Excel voor gebruik buiten [!DNL Marketo].
 
-1. Klik op het [!UICONTROL Overview] **[!UICONTROL Reports]** tabblad van de slimme campagne.
+1. Klik op het tabblad [!UICONTROL Overview] van uw slimme campagne op het tabblad **[!UICONTROL Reports]**.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/export-smart-campaign-results-to-excel/export-smart-campaign-results-to-excel-1.png)
 
