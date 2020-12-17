@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De hiërarchieën zijn bedoeld om in CRMs worden gecreeerd. Nochtans als u geen CRM hebt, volg deze stappen om een hiërarchie manueel tot stand te brengen.
 
-1. Klik in Benoemde accounts op het selectievakje **Groep op hiërarchie** .
+1. Klik in Benoemde accounts op het selectievakje **Groeperen op hiërarchie**.
 
    ![](assets/one.png)
 
@@ -30,15 +30,15 @@ De hiërarchieën zijn bedoeld om in CRMs worden gecreeerd. Nochtans als u geen 
 
    ![](assets/two.png)
 
-1. Klik op de vervolgkeuzelijst Handelingen **benoemde account en selecteer** Koppelen naar benoemde account ****.
+1. Klik op de vervolgkeuzelijst **Benoemde accounthandelingen** en selecteer **Koppeling naar benoemde account**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Als u accounts wilt ontkoppelen, voert u de bovenstaande stappen uit, maar kiest u **Ontkoppelen van benoemd account**.
+   >Als u accounts wilt ontkoppelen, voert u de bovenstaande stappen uit, maar kiest u **Koppeling met benoemde account verbreken**.
 
-1. Selecteer een Bovenliggend benoemd account in de keuzelijst en klik op **Koppelen**.
+1. Selecteer een Bovenliggend Benoemd Rekening van drop-down en klik **Verbinding**.
 
    ![](assets/four.png)
 
