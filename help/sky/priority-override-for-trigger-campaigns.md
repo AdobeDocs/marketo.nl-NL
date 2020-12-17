@@ -26,11 +26,11 @@ Beheerders kunnen de vastgestelde prioriteit van Marketo voor triggercampagnes n
 
 ## Prioriteit overschrijven
 
-1. Klik in de triggercampagne op het **[!UICONTROL Schedule]** tabblad en klik vervolgens op **[!UICONTROL Override Priority]**.
+1. Klik in uw triggercampagne op het tabblad **[!UICONTROL Schedule]** en klik vervolgens op **[!UICONTROL Override Priority]**.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. Kies een nieuw prioriteitsniveau in het keuzemenu. Klik **[!UICONTROL Confirm]**.
+1. Kies een nieuw prioriteitsniveau in het keuzemenu. Klik op **[!UICONTROL Confirm]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -38,13 +38,13 @@ Beheerders kunnen de vastgestelde prioriteit van Marketo voor triggercampagnes n
 
 >[!NOTE]
 >
->* U kunt de standaardprioriteit van uw campagne in het [!UICONTROL Campaign Queue] hieronder bekijken [!UICONTROL Marketing Activities]. Om het uitvoeringspercentage te verhogen, raden we u aan uw campagneprioriteit op één niveau hoger in te stellen dan het standaardniveau.
+>* U kunt de standaardprioriteit van uw campagne in [!UICONTROL Campaign Queue] onder [!UICONTROL Marketing Activities] bekijken. Om het uitvoeringspercentage te verhogen, raden we u aan uw campagneprioriteit op één niveau hoger in te stellen dan het standaardniveau.
 >* De door de gebruiker ingestelde prioriteit geldt alleen voor nieuwe personen die in aanmerking komen voor de campagne. Dit heeft geen invloed op personen die al in de wachtrij staan.
 
 
 ## Prioriteit opnieuw instellen
 
-1. Als u de prioriteit van de campagne weer wilt instellen op de standaardinstelling van het systeem, gaat u naar de **[!UICONTROL Schedule]** tab in de triggercampagne en klikt u **[!UICONTROL Reset Priority]**.
+1. Als u de prioriteit van de campagne weer wilt instellen op de standaardinstelling van het systeem, gaat u naar het tabblad **[!UICONTROL Schedule]** in de triggercampagne en klikt u op **[!UICONTROL Reset Priority]**.
 
    ![Afbeelding vier](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-4.png)
 
@@ -54,7 +54,7 @@ Beheerders kunnen de vastgestelde prioriteit van Marketo voor triggercampagnes n
 
 >[!NOTE]
 >
->Prioritaire overschrijvingen en voorinstellingen worden vastgelegd in Audittrail. U kunt het [audittrail](https://docs.marketo.com/x/GZ2t) door het [!UICONTROL Admin] gebied in de Klassieke ervaring bekijken.
+>Prioritaire overschrijvingen en voorinstellingen worden vastgelegd in Audittrail. U kunt het [Audittrail](https://docs.marketo.com/x/GZ2t) door het [!UICONTROL Admin] gebied in de Klassieke ervaring bekijken.
 
 ## Toegang bij voorrang overschrijven van subsidie
 
@@ -62,24 +62,24 @@ Beheerders kunnen de vastgestelde prioriteit van Marketo voor triggercampagnes n
 >
 >Alleen beheerders of gebruikers met beheerdersverantwoordelijkheden hebben voorrang op de toegang tot de campagne.
 
-1. Klik in het [!UICONTROL Admin] gebied op **[!UICONTROL Users & Roles]**.
+1. Klik in het gebied [!UICONTROL Admin] op **[!UICONTROL Users & Roles]**.
 
    ![Afbeelding zes](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-6.png)
 
-1. Klik op het **[!UICONTROL Roles]** tabblad, selecteer de gebruiker aan wie u toegang wilt verlenen en klik vervolgens op **[!UICONTROL Edit Role]**.
+1. Klik op het tabblad **[!UICONTROL Roles]**, selecteer de gebruiker aan wie u toegang wilt verlenen en klik vervolgens op **[!UICONTROL Edit Role]**.
 
    ![Afbeelding zeven](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. Onder [!UICONTROL Access Marketing Activities], controleer **[!UICONTROL Edit Trigger Campaign Priority]**. Klik **[!UICONTROL Save]**.
+1. Controleer **[!UICONTROL Edit Trigger Campaign Priority]** onder [!UICONTROL Access Marketing Activities]. Klik op **[!UICONTROL Save]**.
 
    ![Afbeelding acht](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
 ## Campagneprioriteit weergeven in Marketo Classic
 
-U kunt de prioriteit van de campagne in de [!DNL Classic] ervaring bekijken door het **[!UICONTROL Schedule]** lusje binnen een trekkercampagne te klikken.
+U kunt de prioriteit van de campagne in [!DNL Classic] ervaring bekijken door **[!UICONTROL Schedule]** tabel binnen een trekkercampagne te klikken.
 
 ![Afbeelding negen](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-9.png)
 
 >[!NOTE]
 >
->De prioriteit in de [!DNL Classic] ervaring is alleen gezichtspunt. Het veranderen of het terugstellen van campagneprioriteit is slechts beschikbaar door Marketo Sky.
+>De prioriteit in [!DNL Classic] ervaring is mening-slechts. Het veranderen of het terugstellen van campagneprioriteit is slechts beschikbaar door Marketo Sky.
