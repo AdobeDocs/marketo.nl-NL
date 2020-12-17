@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aanmeldingsgeschiedenis gebruiker {#user-login-history}
+# Inloggeschiedenis van gebruiker {#user-login-history}
 
 De historie van de gebruikersaanmelding helpt verantwoordingsplicht en beveiliging te behouden door precies aan te geven wie zich heeft aangemeld bij uw abonnement, inclusief mislukte aanmeldingspogingen.
 
@@ -33,7 +33,7 @@ De aanmeldingsgeschiedenis van de gebruiker weergeven:
 
    ![](assets/image2016-7-12-9-3a2-3a31.png)
 
-1. Klik op het tabblad **Aanmeldingsgeschiedenis** . De lijst toont de meest recente logins.
+1. Klik op het tabblad **Aanmeldingsgeschiedenis**. De lijst toont de meest recente logins.
 
    ![](assets/login-history-tab.jpg)
 
@@ -49,17 +49,17 @@ De aanmeldingsgeschiedenis van de gebruiker weergeven:
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. Selecteer gebruikers in de keuzelijst **Gebruikers** .***
+1. Selecteer gebruikers in de vervolgkeuzelijst **Gebruikers**.***
 
    ** ![](assets/user-dropdown.jpg)
 
    **
 
-1. Schakel het vak **Alleen mislukte aanmeldingen** in om alleen mislukte aanmeldingen in uw zoekopdracht weer te geven.
+1. Schakel het selectievakje **Alleen mislukte aanmeldingen** in om alleen mislukte aanmeldingen in uw zoekopdracht weer te geven.
 
    ![](assets/only-failed-logins.jpg)
 
-1. Klik op **Toepassen**.
+1. Klik **Toepassen**.
 
    ![](assets/click-apply-real.jpg)
 
