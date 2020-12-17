@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Hulpprogramma voor e-maillevering {#email-deliverability-tool}
+# Gereedschap E-maillevering {#email-deliverability-tool}
 
 Het gereedschap E-maillevering van Marketo biedt één toepassing om de e-mailprestaties te evalueren voordat u deze verzendt.
 
@@ -21,11 +21,11 @@ Het gereedschap E-maillevering van Marketo biedt één toepassing om de e-mailpr
 >
 >Niet alle klanten beschikken over het e-mailhulpprogramma. Neem contact op met je verkoper voor meer informatie.
 
-Raadpleeg voor meer informatie over deze functie het PowerPack voor [e-maillevering op Marketo.com](https://www.marketo.com/software/email-marketing/email-deliverability/deliverability-packages/).
+Voor meer informatie over deze functie, bekijk [E-mail Leverbaarheid PowerPack op Marketo.com](https://www.marketo.com/software/email-marketing/email-deliverability/deliverability-packages/).
 
 >[!NOTE]
 >
 >**Diep duiken**
 >
->Raadpleeg voor specifieke instructies de [gebruikershandleiding](https://250ok.com/guides/marketo/)bij Marketo Deliverability.
+>Raadpleeg de [Handboek](https://250ok.com/guides/marketo/) voor specifieke instructies.
 
