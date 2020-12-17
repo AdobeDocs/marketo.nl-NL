@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Logboekregistratie van e-mailgebeurtenissen {#understanding-email-event-logging}
+# Logboekregistratie voor e-mailgebeurtenissen {#understanding-email-event-logging}
 
 Bij het verzenden van e-mails registreert Marketo verschillende gegevenspunten naar de activiteitenlogboeken van de persoon. Hier zijn de basale.
 
