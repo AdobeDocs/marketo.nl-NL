@@ -11,24 +11,24 @@ ht-degree: 0%
 ---
 
 
-# Een e-mail goedkeuren {#approve-an-email}
+# Een e-mail {#approve-an-email} goedkeuren
 
 E-mails beginnen in concept. Deze zijn over het algemeen niet beschikbaar in het systeem totdat u ze goedkeurt. U kunt een e-mail op een aantal manieren goedkeuren.
 
-## Goedkeuren via het menu Handelingen e-mail {#approve-it-using-the-email-actions-menu}
+## Goedkeuren via het menu Handelingen via e-mail {#approve-it-using-the-email-actions-menu}
 
-1. Zoek en selecteer uw e-mail, klik op de vervolgkeuzelijst **E-mailhandelingen** en selecteer **Goedkeuren**.
+1. Zoek en selecteer uw e-mail, klik **E-mailacties** drop-down en selecteer **Goedkeuren**.
 
    ` ![](assets/one.png)  
 `
 
-## Direct goedkeuren in de boomstructuur {#approve-it-directly-in-the-tree}
+## Direct goedkeuren in de boom {#approve-it-directly-in-the-tree}
 
 1. Zoek en selecteer uw e-mail, klik er met de rechtermuisknop op en selecteer **Goedkeuren**.
 
    ![](assets/approveemail.png)
 
-## Uw e-mail goedkeuren in de e-maileditor {#approve-your-email-in-the-email-editor}
+## Uw e-mail goedkeuren in de E-maileditor {#approve-your-email-in-the-email-editor}
 
 1. Klik in uw e-mail op de vervolgkeuzelijst **E-mailhandelingen** en selecteer **Goedkeuren en Sluiten**.
 
