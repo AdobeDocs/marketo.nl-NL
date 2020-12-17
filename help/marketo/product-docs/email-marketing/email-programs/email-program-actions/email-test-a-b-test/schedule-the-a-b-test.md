@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De A/B-test plannen {#schedule-the-a-b-test}
+# Plan de A/B-test {#schedule-the-a-b-test}
 
 Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor winnaars hebt gedefinieerd die u moet plannen wanneer de test begint. Zo gaat het.
 
@@ -31,7 +31,7 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Selecteer de **Send Tijd van de Test** .
+1. Selecteer **Send Test** tijd.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -39,7 +39,7 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
    >
    >Test verzenden en Winner verzenden moet ten minste vier uur van elkaar verwijderd zijn. Voor grotere verzendingen wilt u echter misschien 24 uur wachten om voldoende tijd voor goede resultaten te krijgen.
 
-1. Doe hetzelfde voor **Send Winner**. Voer (optioneel) ontvangers van een melding in en klik op **Volgende**.
+1. Doe het zelfde ding voor **Send Winner**. Voer (optioneel) ontvangers van een melding in en klik op **Volgende**.
 
    >[!NOTE]
    >
@@ -52,12 +52,12 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
    >[!NOTE]
    >
-   >Als u een winnaar handmatig wilt declareren, definieert u de verzenddatum **/tijd van het** rapport in plaats van de verzenddatum/tijd van de **einddatum** .
+   >Als u een winnaar handmatig wilt declareren, definieert u **Rapport verzenden** datum/tijd in plaats van **Mailing** datum/tijd voltooien.
 
    Super! U bent klaar, bekijk enkel de samenvatting en klik Sluiten.
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   U zult merken dat de tegel **Planning** nu is bijgewerkt.
+   De **Schedule**-tegel is nu bijgewerkt.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
