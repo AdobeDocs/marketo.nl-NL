@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Niveau 3 Webvergadering als Dienst van LaunchPoint toevoegen {#add-level-web-meeting-as-a-launchpoint-service}
+# Niveau 3-webvergadering toevoegen als een LaunchPoint-service {#add-level-web-meeting-as-a-launchpoint-service}
 
 Marketo beheert uw Level 3 Web Meeting-registratie en -aanwezigheid.
 
@@ -29,15 +29,15 @@ Marketo beheert uw Level 3 Web Meeting-registratie en -aanwezigheid.
 
    ![](assets/image2015-4-23-10-3a5-3a12.png)
 
-1. Selecteer **Nieuw** en dan **Nieuwe** **Dienst**.
+1. Selecteer **Nieuw** en **Nieuw** **Service**.
 
    ![](assets/level-3-web-meeting-new-service.png)
 
-1. Voer een **weergavenaam** **in**. Selecteer onder **Service** de optie **Level 3-webvergadering**.
+1. Voer een **Display** **Naam** in. Selecteer **Level 3 Web Meeting** onder **Service**.
 
    ![](assets/new-service-level-3.png)
 
-1. Ga uw **Toegang** **Aantal**, **Toegang** **Code**, en **Wachtwoord****** in, dan klikCreate.
+1. Voer uw **Toegang** **Nummer**, **Toegang** **Code** en **Wachtwoord** in en klik vervolgens op **Maken**.
 
    ![](assets/image2015-4-23-10-3a10-3a26.png)
 
@@ -47,5 +47,5 @@ Marketo beheert uw Level 3 Web Meeting-registratie en -aanwezigheid.
 
 >[!MORELIKETHIS]
 >
->Leer hoe te om een gebeurtenis met Niveau 3 Vergadering [van het Web tot stand te](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)brengen.
+>Leer hoe te om [een gebeurtenis met Niveau 3 Vergadering van het Web te creëren](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md).
 
