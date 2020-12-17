@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De iPad of Android-tablet instellen {#set-up-the-ipad-or-android-tablet}
+# iPad of Android-tablet {#set-up-the-ipad-or-android-tablet} instellen
 
 Voor een vloeiende ervaring op de dag van de gebeurtenis bereidt u uw iPad- of Android-tablet voor en test u de app Marketo Events voor de gebeurtenis.
 
@@ -25,7 +25,7 @@ Nadat u de gebeurtenis hebt gemaakt in Marketo, wordt deze bij het aanmelden gel
 >
 >U moet verbinding hebben met internet om apps te downloaden.
 
-## De iPad-app Marketo Events downloaden en installeren {#download-and-install-the-marketo-events-ipad-app}
+## Download en installeer de iPad-app {#download-and-install-the-marketo-events-ipad-app} voor Marketo Events
 
 Als de app Marketo Events nog niet op uw iPad is geïnstalleerd, gaat u als volgt te werk:
 
@@ -33,19 +33,19 @@ Als de app Marketo Events nog niet op uw iPad is geïnstalleerd, gaat u als volg
 
    ![](assets/image2016-4-14-15-3a52-3a19.png)
 
-1. Voer in het zoekvak **Marketo** en in Suggesties de optie **Marketo-gebeurtenissen** in.
+1. Typ **Marketo** in het zoekvak en tik **Marketo-gebeurtenissen** in Suggesties.
 
    ![](assets/image2016-4-14-16-3a0-3a3.png)
 
 1. Volg de procedures om de app te downloaden en installeren op uw iPad.
 
-## De Android-app Marketo Events downloaden en installeren {#download-and-install-the-marketo-events-android-app}
+## De Android-toepassing markeergebeurtenissen downloaden en installeren {#download-and-install-the-marketo-events-android-app}
 
 Als op uw Android-tablet de toepassing Marketo Events nog niet is geïnstalleerd, gaat u als volgt te werk:
 
 1. Open uw tablet en tik op de** Google Play Store** app.
-1. Voer in het vak Zoeken de **Marketo** in en tik op **Return**.
-1. Tik in de zoekresultaten op de app **Marketo Events** .
+1. Typ **Marketo** in het vak Zoeken en tik **Return**.
+1. Tik in de zoekresultaten op de **Marketo Events**-app.
 
    ![](assets/image2016-4-15-14-3a42-3a11.png)
 
@@ -62,9 +62,9 @@ Voordat u iPads of tablets toewijst aan &#39;trade show&#39;-medewerkers, moet u
 
    >[!NOTE]
    >
-   >Het kan enkele minuten duren voordat een nieuwe gebeurtenis wordt gemaakt en in de iPad- of tabletapp wordt weergegeven. Tik op **Afmelden** op het Basisscherm, wacht een paar minuten en meld u opnieuw aan als dit niet het geval is.
+   >Het kan enkele minuten duren voordat een nieuwe gebeurtenis wordt gemaakt en in de iPad- of tabletapp wordt weergegeven. Als het niet verschijnt, tik **Logout** op het Homescherm, wacht een paar minuten, dan login opnieuw.
 
-## Synchroniseer de app om de gebeurtenis te vullen {#sync-the-app-to-populate-the-event}
+## Synchroniseer de app om de gebeurtenis {#sync-the-app-to-populate-the-event} te vullen
 
 Synchroniseren om er zeker van te zijn dat de toegevoegde personen aanwezig zijn.
 
@@ -83,8 +83,8 @@ Synchroniseren om er zeker van te zijn dat de toegevoegde personen aanwezig zijn
 
 Controleer voordat de gebeurtenis plaatsvindt of inchecken werkt vanaf de iPad of het tablet.
 
-1. Controleer in de app een testlead [in](check-people-into-your-event-from-your-tablet.md).
-1. Tik op het pictogram **Synchroniseren** om de app te synchroniseren.
+1. Controleer in de app [een testlead in](check-people-into-your-event-from-your-tablet.md).
+1. Tik op het pictogram **Sync** om de app te synchroniseren.
 1. Open in Marketo de gebeurtenis en klik op **Leden**.
 
    ![](assets/image2016-4-15-15-3a32-3a42.png)
