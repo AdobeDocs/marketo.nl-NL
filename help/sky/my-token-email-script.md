@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Voor gevorderde ontwikkelaars kunt u de manuscripten [van de](http://velocity.apache.org/engine/1.7/user-guide.html) Snelheid in uw e-mail gebruiken door een token van het Manuscript E-mail te plaatsen. Zo doe je het.
+Voor gevorderde ontwikkelaars kunt u [Snelheidsscripts](http://velocity.apache.org/engine/1.7/user-guide.html) in uw e-mails gebruiken door een token voor e-mailscripts in te stellen. Zo doe je het.
 
-1. Sleep op het [!UICONTROL My Tokens] tabblad van uw programma of map een **[!UICONTROL Email Script]** token naar het [!UICONTROL Local Tokens] canvas.
+1. Sleep op het tabblad [!UICONTROL My Tokens] van uw programma of map een **[!UICONTROL Email Script]**-token naar het canvas [!UICONTROL Local Tokens].
 
    ![Afbeelding één](/help/sky/assets/my-tokens/my-token-email-script/my-token-email-script-1.png)
 
