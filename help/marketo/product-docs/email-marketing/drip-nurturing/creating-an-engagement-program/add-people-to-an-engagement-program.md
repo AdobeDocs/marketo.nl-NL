@@ -16,9 +16,9 @@ ht-degree: 0%
 Er zijn verschillende manieren waarop mensen lid kunnen worden van een betrokkenheidsprogramma:
 
 * [Toevoegen aan betrokkenheidsprogramma](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [Stroom van Cadent](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) -stroom voor betrokkenheidsprogramma wijzigen
-* [Stroom](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) van betrokkenheidsprogramma wijzigen
-* [Stroom van programmastatus](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) wijzigen
+* [Programma ](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) voor betrokkenheid bij wijziging Cadnow-stap
+* [De stap ](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) Streamflow van het betrokkenheidsprogramma wijzigen
+* [De ](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) statusstap van het programma wijzigen
 * Als een persoon een formulier lokaal invult voor een betrokkenheidsprogramma
 * Leden importeren in een betrokkenheidsprogramma (via het tabblad Leden in het programma)
 * Als u Salesforce als uw CRM gebruikt en een Salesforce-campagne aan uw betrokkenheidsprogramma hebt gekoppeld, maakt het toevoegen van iemand aan de Salesforce-campagne aan de CRM-zijde ook van hen een lid van het betrokkenheidsprogramma.
