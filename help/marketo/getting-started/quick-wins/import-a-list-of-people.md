@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Een lijst met personen importeren {#import-a-list-of-people}
+# Een lijst met personen {#import-a-list-of-people} importeren
 
-## Opdracht: Een spreadsheetlijst met presentatoren in uw database importeren {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Opdracht: Importeer een spreadsheetlijst met presentatoren in de database {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt importeren in Marketo.
 
-## Stap 1: Een werkblad downloaden en bewerken {#step-download-and-edit-a-spreadsheet}
+## Stap 1: Een werkblad {#step-download-and-edit-a-spreadsheet} downloaden en bewerken
 
 1. Als u wilt beginnen, downloadt u ons werkbladbestand ([**tradeshow-attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) naar uw computer.
 
@@ -29,7 +29,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
    >[!NOTE]
    >
-   >Gebruik bij het importeren van een datum de volgende notatie: **21-09** (maand/dag/jaar).
+   >Gebruik bij het importeren van een datum de volgende notatie: **9/21/20** (Maand/Dag/Jaar).
 
    >[!NOTE]
    >
@@ -45,41 +45,41 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
 ## Stap 2: Een programma maken {#step-create-a-program}
 
-1. Ga naar het gebied **Marketingactiviteiten** .
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/ma-2.png)
 
-1. Selecteer de map **Leren** en klik vervolgens onder **Nieuw** op **Nieuw programma**.
+1. Selecteer uw **Learning** omslag, dan onder **Nieuw** klik **Nieuw Programma**.
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Geef** het programma de naam &quot;Mijn programma van de Handel&quot;en selecteer &quot;Gebeurtenis&quot;voor het Type **van** Programma.
+1. **Geef** het programma de naam &quot;Mijn programma van de Presentatie&quot;en selecteer &quot;Gebeurtenis&quot;voor het Type **van** Programma.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
-1. Selecteer **Tradeshow** voor het **Kanaal** en klik **creëren**.
+1. Selecteer **Handtekening** voor **Kanaal** en klik **Maken**.
 
    ![](assets/image2014-9-24-12-3a21-3a39.png)
 
 >[!NOTE]
 >
->Gebeurtenisprogramma&#39;s vinden plaats op specifieke datums. Meer informatie over [**gebeurtenissen**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
+>Gebeurtenisprogramma&#39;s vinden plaats op specifieke datums. Meer informatie over [**Gebeurtenissen**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
-## Stap 3: Spreadsheet importeren in Marketo {#step-import-your-spreadsheet-into-marketo}
+## Stap 3: Spreadsheet importeren in markeerteken naar {#step-import-your-spreadsheet-into-marketo}
 
 1. Klik in **Mijn handelsprogramma** op **Nieuw** en selecteer **Nieuw lokaal element**.
 
    ![](assets/seven-3.png)
 
-1. Klik op **Lijst**.
+1. Klik **Lijst**.
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **Geef** de lijst &quot;Handelaars aanwezigen&quot; een naam en klik op **Maken**.
+1. **Geef** de lijst &quot;Handelaars aanwezigen&quot; een naam en klik op  **Maken**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
-1. Klik in de lijst **Handelingspartners** op **Handelingen** weergeven en selecteer Lijst **** importeren.
+1. Klik in de lijst **Handelingspartners** op **Handelingen weergeven** en selecteer **Lijst importeren**.
 
    ![](assets/ten-2.png)
 
@@ -91,32 +91,32 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
    >
    >De maximale grootte voor CSV-bestanden is 100 MB.
 
-1. **Blader naar** het spreadsheetbestand **tradeshow-attendees.csv** op de computer en klik op **Volgende**.
+1. **Blader** naar het bestand  **tradeshow-attendees.** csvspreadsheet op de computer en klik op  **Volgende**.
 
    ![](assets/eleven-2.png)
 
    >[!NOTE]
    >
-   >In de Wijze van de Invoer van de Lijst, het kiezen van **Skip nieuwe mensen en updates** betekent u geen bestaande persoonverslagen of logboek om het even welke activiteiten zult beïnvloeden. Gebruik deze modus als u een snelle, vooraf gefilterde statische lijst met bestaande personen wilt gebruiken in uw marketingactiviteiten. Als u deze modus selecteert, wordt:
+   >In de Wijze van de Invoer van de Lijst, die **nieuwe mensen en updates overslaan** betekent u bestaande persoonverslagen niet zult beïnvloeden of om het even welke activiteiten registreert. Gebruik deze modus als u een snelle, vooraf gefilterde statische lijst met bestaande personen wilt gebruiken in uw marketingactiviteiten. Als u deze modus selecteert, wordt:
    >
    > * Nieuwe persoon maken overslaan
    > * Updates van persoonvelden overslaan
    > * Activiteitenregistratie overslaan
 
 
-1. Wijs de velden Lijstkolom toe aan het desbetreffende Marketo-veld en klik op **Volgende**.
+1. Wijs de gebieden van de Kolom van de Lijst aan hun respectieve Gebied van de Markering toe en klik **Volgende**.
 
    ![](assets/image2014-9-24-12-3a24-3a49.png)
 
    >[!TIP]
    >
-   >Kolomkoppen moeten altijd exact overeenkomen met het veld (hoofdlettergevoelig) om de beste resultaten voor automatische toewijzing te verkrijgen. Als u aangepaste velden gebruikt en deze niet ziet in de vervolgkeuzelijst, gaat u terug en [maakt u ze](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) zodat ze opties kunnen worden.
+   >Kolomkoppen moeten altijd exact overeenkomen met het veld (hoofdlettergevoelig) om de beste resultaten voor automatische toewijzing te verkrijgen. Als u douanegebieden gebruikt en hen niet in drop-down ziet, ga terug en [creeer hen](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) zodat kunnen zij opties worden.
 
    >[!NOTE]
    >
    >Als er velden zijn die u niet wilt importeren, selecteert u **Negeren** in de vervolgkeuzelijst Marketo-veld.
 
-1. Selecteer **Mijn Programma** van de Verkoop voor het Programma **van de** Verwerving, dan klik de **Invoer**.
+1. Selecteer **My Tradeshow Program** voor **Acquisition Program** en klik vervolgens op **Import**.
 
    ![](assets/image2014-9-24-12-3a25-3a1.png)
 
@@ -124,13 +124,13 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
    ![](assets/image2014-9-24-12-3a25-3a13.png)
 
-1. Klik weer in **Mijn Programma** van de Handel, op het **LEDEN** lusje. Je ziet alle mensen die je net hebt geïmporteerd.
+1. Terug in **Mijn Programma van de Handel**, klik **Leden** tabel. Je ziet alle mensen die je net hebt geïmporteerd.
 
    ![](assets/fifteen-1.png)
 
 >[!NOTE]
 >
->U kunt het succes van uw programma analyseren door het lidmaatschap van het programma te volgen. Meer informatie over [**programma&#39;s**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
+>U kunt het succes van uw programma analyseren door het lidmaatschap van het programma te volgen. Meer informatie over [**Programma&#39;s**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md).
 
 ## Opdracht voltooid {#mission-complete}
 
