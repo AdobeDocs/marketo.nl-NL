@@ -25,7 +25,7 @@ Als u wilt filteren op accountlijst, klikt u op de vervolgkeuzelijst Weergave..
 
 ![](assets/three.png)
 
-Als u het dashboard [Accountlijst](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard)wilt weergeven, klikt u op de naam van de accountlijst die u hebt geselecteerd...
+Als u het [Accountlijstdashboard](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard) wilt weergeven, klikt u op de naam van de accountlijst die u hebt geselecteerd..
 
 ![](assets/four.png)
 
@@ -37,7 +37,7 @@ Als u in plaats van het dashboard Accountlijst weer te geven een account met een
 
 ![](assets/six.png)
 
-...en bekijk de inzichten [van de](http://docs.marketo.com/display/DOCS/Named+Account+Insights)benoemde account.
+...en bekijk de [inzichten van een benoemde account](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
 
 ![](assets/seven.png)
 
