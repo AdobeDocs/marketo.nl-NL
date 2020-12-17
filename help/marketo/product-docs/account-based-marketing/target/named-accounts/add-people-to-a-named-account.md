@@ -17,7 +17,7 @@ Er zijn drie verschillende manieren om handmatig personen toe te voegen aan een 
 
 ## Single Flow-actie {#single-flow-action}
 
-1. Klik op **Database**.
+1. Klik **Database**.
 
    ![](assets/one-2.png)
 
@@ -25,17 +25,17 @@ Er zijn drie verschillende manieren om handmatig personen toe te voegen aan een 
 
    ![](assets/two.png)
 
-1. Klik op de persoon om deze te selecteren. Klik op de vervolgkeuzelijst **Persoonlijke handelingen** , klik op **Marketing** en selecteer **Toevoegen aan benoemde account**.
+1. Klik op de persoon om deze te selecteren. Klik op de vervolgkeuzelijst **Handelingen personen**, klik op **Marketing** en selecteer **Toevoegen aan benoemde account**.
 
    ![](assets/three.png)
 
-1. Klik op de vervolgkeuzelijst **Benoemd account** , selecteer het gewenste account en klik op **Nu** uitvoeren.
+1. Klik op de vervolgkeuzelijst **Benoemd account**, selecteer het gewenste benoemde account en klik op **Nu uitvoeren**.
 
    ![](assets/four.png)
 
-## Stroom van slimme campagne {#smart-campaign-flow-step}
+## De Slimme Stap van de Stroom van de Campagne {#smart-campaign-flow-step}
 
-1. Selecteer uw slimme campagne en klik op **Stroom**.
+1. Selecteer uw Slimme Campagne en klik **Stroom**.
 
    ![](assets/five.png)
 
@@ -47,23 +47,23 @@ Er zijn drie verschillende manieren om handmatig personen toe te voegen aan een 
 
    ![](assets/seven.png)
 
-1. Klik op de vervolgkeuzelijst **Benoemd account** en selecteer het gewenste account.
+1. Klik op de vervolgkeuzelijst **Benoemd account** en selecteer het gewenste account met naam.
 
    ![](assets/eight.png)
 
    Dat is het! Start vervolgens gewoon uw slimme campagne (of activeer deze) en de flowstap begint gekwalificeerde personen toe te voegen aan het toegewezen benoemde account.
 
-## Lijstimport {#list-import}
+## Importeren van lijst {#list-import}
 
-1. Selecteer uw lijst, klik de drop-down Acties **van de** Lijst en selecteer de Lijst **van de** Invoer.
+1. Selecteer uw lijst, klik **de drop-down Acties van de Lijst** en selecteer **Lijst van de Invoer**.
 
    ![](assets/nine.png)
 
-1. Nadat u het bestand en de instellingen hebt gekozen, klikt u op **Volgende**.
+1. Nadat u uw dossier en montages kiest, klik **Volgende**.
 
    ![](assets/ten.png)
 
-1. Wijs de gewenste velden toe. Controleer of het veld **Benoemd account** is toegewezen.
+1. Wijs de gewenste velden toe. Zorg ervoor dat het veld **Benoemd account** is toegewezen.
 
    ![](assets/eleven.png)
 
