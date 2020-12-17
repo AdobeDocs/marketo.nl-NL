@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Nadat u de batchcampagne hebt gemaakt, kunt u deze nu of later uitvoeren. Hier is hoe je het direct kunt uitvoeren.
 
-1. Selecteer de slimme batchcampagne, ga naar het tabblad **Schema** en klik op Eenmaal **uitvoeren**.
+1. Selecteer de batch smart campagne, ga naar **Schedule** tabel en klik **Eenmaal uitvoeren**.
 
    ![](assets/runcampaignnow-hands.png)
 
-1. Zorg dat **Nu uitvoeren **is geselecteerd en klik op **Uitvoeren**.
+1. Zorg **Nu uitvoeren **is geselecteerd en klik **Looppas**.
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
-1. Bevestig door nogmaals op **Uitvoeren** te klikken.
+1. Bevestig door nogmaals op **Run** te klikken.
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   Eenvoudig! U kunt ook [runtime voor later](schedule-a-batch-smart-campaign-to-run-later.md) plannen als u verkiest.
+   Eenvoudig! U kunt ook [plannen uitvoeren voor later](schedule-a-batch-smart-campaign-to-run-later.md) als u verkiest.
 
    >[!NOTE]
    >
