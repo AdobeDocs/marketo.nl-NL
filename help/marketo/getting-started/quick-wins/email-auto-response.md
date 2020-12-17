@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Automatische reactie e-mail {#email-auto-response}
+# Automatische e-mailreactie {#email-auto-response}
 
-## Opdracht: Een e-mailbericht sturen waarin een persoon een formulier invult {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
+## Opdracht: Een bedankje per e-mail verzenden wanneer iemand een formulier {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form} invult
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 >* [Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
 
-## Stap 1: Een e-mail maken {#step-create-an-email}
+## Stap 1: Een e-mail {#step-create-an-email} maken
 
 1. Ga naar het gebied Marketingactiviteiten.
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    ![](assets/four-1.png)
 
-   Een e-maileditor wordt geopend in een nieuw venster of op een nieuw tabblad. Als pop-ups zijn geblokkeerd, klikt u op Concept **** bewerken op de overzichtspagina voor middelen om het e-mailbericht te openen.
+   Een e-maileditor wordt geopend in een nieuw venster of op een nieuw tabblad. Als pop-ups worden geblokkeerd, klikt u op **Concept bewerken** op de overzichtspagina voor middelen om het e-mailbericht te openen.
 
 1. Voer een onderwerpregel in en dubbelklik op het bewerkbare gebied van de e-mail.
 
@@ -65,49 +65,49 @@ ht-degree: 0%
 
 ## Stap 2: Een slimme campagne maken {#step-create-a-smart-campaign}
 
-1. Klik met de rechtermuisknop op **Mijn programma** en klik op **Nieuwe slimme campagne**.
+1. Klik **Mijn Programma** met de rechtermuisknop aan en klik **Nieuwe Slimme Campagne**.
 
    ![](assets/image2014-9-24-11-3a56-3a13.png)
 
-1. **Geef** uw slimme campagne de naam ‘Auto Response Campaign’ en klik op **Maken**.
+1. **Geef** uw slimme campagne &quot;Auto Response Campaign&quot; een naam en klik op  **Maken**.
 
    ![](assets/image2014-9-24-11-3a56-3a25.png)
 
-1. Ga naar het tabblad **Slimme lijst** .
+1. Ga naar **Slimme lijst** tabel.
 
    ![](assets/image2014-9-24-11-3a56-3a38.png)
 
-   Deze campagne wordt uitgevoerd wanneer iemand het formulier invult dat u met een formulier [**op de**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) landingspagina hebt gemaakt.
+   Deze campagne wordt uitgevoerd wanneer een persoon het formulier invult dat u in [**Landing Page hebt gemaakt met een formulier**](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md).
 
-1. Zoek de trigger Formulier **** invullen en sleep deze naar het linkercanvas.
+1. Zoek en sleep de trigger **Formulier invullen** naar het linkercanvas.
 
    ![](assets/image2014-9-24-11-3a57-3a18.png)
 
-1. Selecteer **Mijn formulier** in de vervolgkeuzelijst. Klik op het tabblad **Stroom** .
+1. Selecteer **Mijn formulier** in de vervolgkeuzelijst. Klik op het tabblad **Stroom**.
 
    ![](assets/image2014-9-24-11-3a57-3a29.png)
 
-1. Sleep de actie E-mail **** verzenden naar het linkercanvas.
+1. Sleep de stroomactie **E-mail verzenden** naar het linkercanvas.
 
    ![](assets/image2014-9-24-11-3a57-3a41.png)
 
-1. Selecteer uw **Automatische E-mail** van de Reactie en ga naar het **lusje van het Programma** .
+1. Selecteer uw **Automatische reactie-e-mail** en ga naar het tabblad **Schema**.
 
    ![](assets/image2014-9-24-11-3a57-3a53.png)
 
-1. Klik op **Bewerken**.
+1. Klik **Bewerken**.
 
    ![](assets/8.png)
 
-1. Selecteer deze optie **telkens** en klik op **Opslaan**.
+1. Selecteer **telkens** en klik **sparen**.
 
    ![](assets/9.png)
 
-1. Klik op **Activeren**.
+1. Klik **Activeren**.
 
    ![](assets/10.png)
 
-1. Klik op **Activeren** op het bevestigingsscherm.
+1. Klik **Activeer** op het bevestigingsscherm.
 
    ![](assets/11.png)
 
@@ -115,13 +115,13 @@ ht-degree: 0%
 >
 >Zodra actief, zal deze campagne lopen telkens als een persoon het gespecificeerde formulier invult. De campagne blijft actief tot ze gedeactiveerd is.
 
-## Stap 3: Het formulier invullen {#step-fill-out-the-form}
+## Stap 3: Formulier {#step-fill-out-the-form} invullen
 
-1. Selecteer **Mijn pagina**. Dit bestand is gemaakt op de [bestemmingspagina met een snelle overwinning op het formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) .
+1. Selecteer **Mijn pagina**. Dit is gemaakt op de [Landing Page met een Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) quick win.
 
    ![](assets/image2014-9-24-12-3a0-3a8.png)
 
-1. Klik op Goedgekeurde pagina **** weergeven.
+1. Klik **Goedgekeurde pagina weergeven**.
 
    ![](assets/image2014-9-24-12-3a0-3a18.png)
 
