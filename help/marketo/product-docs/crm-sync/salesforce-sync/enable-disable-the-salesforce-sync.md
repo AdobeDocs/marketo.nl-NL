@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# De Salesforce-synchronisatie inschakelen/uitschakelen {#enable-disable-the-salesforce-sync}
+# De Salesforce Sync {#enable-disable-the-salesforce-sync} inschakelen/uitschakelen
 
 Wanneer u belangrijke wijzigingen aanbrengt in uw sync- of veldinstellingen, moet u de synchronisatie uitschakelen tijdens het configureren. Hieronder wordt beschreven hoe:
 
-1. Ga naar de sectie **Beheer** .
+1. Ga naar **Admin** sectie.
 
    ** ![](assets/image2014-12-10-13-3a24-3a35.png)
 
    **
 
-1. Klik onder **Salesforce** op **Sync** uitschakelen.
+1. Klik onder **Salesforce** op **Sync uitschakelen**.
 
    ![](assets/image2014-12-10-13-3a24-3a47.png)
 
