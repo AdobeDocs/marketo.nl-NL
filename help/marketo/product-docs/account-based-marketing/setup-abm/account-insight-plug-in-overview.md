@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Overzicht van de plug-in Account Insight {#account-insight-plug-in-overview}
+# Overzicht van de insteekmodule Account Insight {#account-insight-plug-in-overview}
 
 Account Insight is een Chrome-plug-in die actionable ABM en accountinzichten voor uw verkoopteams bevat, zodat zij accounts effectiever kunnen gebruiken.
 
@@ -23,7 +23,7 @@ Account Insight is een Chrome-plug-in die actionable ABM en accountinzichten voo
 
 >[!CAUTION]
 >
->De insteekmodule Account Insight werkt niet in abonnementen waarvoor [SSO-alleen](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (Single Sign-On) is ingeschakeld.
+>De insteekmodule Account Insight werkt niet in abonnementen waarvoor [SSO-only](http://docs.marketo.com/display/DOCS/Restrict+User+Login+to+SSO+Only) (Single Sign-On) is ingeschakeld.
 >
 >De CRM-context werkt voor Salesforce wanneer de plug-in wordt gestart vanuit een account, lead of contactpersoon. De CRM-context werkt niet voor Dynamics wanneer u de plug-in vanuit een account, lead of contactpersoon start. Voor de gebruikers van de Dynamiek, adviseren wij gebruikend de stop van de Inzicht van de Rekening.
 
