@@ -21,7 +21,7 @@ Stel dat u een slimme campagnestroom hebt die &quot;Send Alert&quot;gebruikt om 
 
 ## Overzicht {#overview}
 
-U kunt mensen uit de stroom van een campagne verwijderen door **te gebruiken verwijdert uit de stroom** .
+U kunt mensen uit de stroom van een campagne verwijderen door **te gebruiken verwijdert uit Stroom** debietstap.
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
@@ -33,7 +33,7 @@ Zoek en selecteer de slimme campagne waaruit u personen wilt verwijderen.
 
 >[!NOTE]
 >
->U kunt een specifieke slimme campagne kiezen of &quot;deze campagne&quot; kiezen in de vervolgkeuzelijst **Campagne** om de campagne te selecteren waarin u zich fysiek bevindt.
+>U kunt een specifieke slimme campagne kiezen, of &quot;deze campagne&quot;in **Campagne** drop-down kiezen om de campagne te selecteren u fysisch in op dat ogenblik bent.
 
 >[!NOTE]
 >
