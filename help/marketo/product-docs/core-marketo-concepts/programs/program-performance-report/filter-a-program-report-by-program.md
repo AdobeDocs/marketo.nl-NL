@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een programmarapport filteren op programma {#filter-a-program-report-by-program}
 
-Focus uw prestatierapport [van het](create-a-program-performance-report.md) programma op specifieke programma&#39;s om hun prestaties te vergelijken.
+Richt uw [rapport van de programmaprestaties](create-a-program-performance-report.md) op specifieke programma&#39;s om hun prestaties te vergelijken.
 
 1. Ga naar **Marketing** **Activiteiten** (of **Analytics**).
 
@@ -35,7 +35,7 @@ Focus uw prestatierapport [van het](create-a-program-performance-report.md) prog
    >
    >Als u een map selecteert, bevat uw rapport alles wat de map bevat op het moment dat het rapport wordt uitgevoerd.
 
-1. Dat is alles! Klik op het tabblad **Rapport** om *alleen* de geselecteerde programma&#39;s in uw rapport weer te geven.
+1. Dat is alles! Klik **Rapport** tabel om *just* de geselecteerde programma&#39;s in uw rapport te zien.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
@@ -53,5 +53,5 @@ Focus uw prestatierapport [van het](create-a-program-performance-report.md) prog
    >**Diep duiken**
    >
    >
-   >Meer informatie over rapporten vindt u in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Meer informatie over rapporten vindt u in [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
 
