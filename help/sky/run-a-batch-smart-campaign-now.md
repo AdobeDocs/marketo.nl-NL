@@ -20,7 +20,7 @@ Als u klaar bent met het samenstellen van uw batchcampagne, kunt u ervoor kiezen
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-1.png)
 
-1. Ga naar het **[!UICONTROL Schedule]** tabblad en klik **[!UICONTROL Add Run]**.
+1. Ga naar de **[!UICONTROL Schedule]** tabel en klik **[!UICONTROL Add Run]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-2.png)
 
@@ -28,4 +28,4 @@ Als u klaar bent met het samenstellen van uw batchcampagne, kunt u ervoor kiezen
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/run-a-batch-smart-campaign-now/run-a-batch-smart-campaign-now-3.png)
 
-Dat is het. U kunt ook [runtime voor later](https://docs.marketo.com/display/DOCS/Schedule+a+Batch+Smart+Campaign+to+Run+Later) plannen als u verkiest.
+Dat is het. U kunt ook [plannen uitvoeren voor later](https://docs.marketo.com/display/DOCS/Schedule+a+Batch+Smart+Campaign+to+Run+Later) als u verkiest.
