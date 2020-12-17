@@ -21,17 +21,17 @@ Wanneer een nieuwe oplossing van de Dynamiek van Microsoft wordt vrijgegeven, ku
 
 >[!CAUTION]
 >
->Het is absoluut noodzakelijk dat u de nieuwste Marketo-oplossing downloadt *voordat* u een upgrade uitvoert.
+>Het is absoluut noodzakelijk dat u de nieuwste Marketo-oplossing *downloadt voordat* een upgrade uitvoert.
 
 1. Ga naar het gebied **Admin **.
 
    ![](assets/admin.png)
 
-1. Klik op **Microsoft Dynamics**.
+1. Klik **Microsoft Dynamics**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Selecteer Marketo-oplossing **** downloaden.
+1. Selecteer **Marketo-oplossing downloaden**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
