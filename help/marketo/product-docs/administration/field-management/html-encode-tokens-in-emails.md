@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# HTML-coderingstokens in e-mails {#html-encode-tokens-in-emails}
+# HTML-coderingstokens in e-mailberichten {#html-encode-tokens-in-emails}
 
 Tokens voor personen en bedrijven die in e-mailberichten worden gebruikt, in- en uitschakelen.
 
@@ -25,7 +25,7 @@ Tokens voor personen en bedrijven die in e-mailberichten worden gebruikt, in- en
 >
 >Bij codering worden tekens omgezet in de HTML-codeversies om te voorkomen dat er verwarring ontstaat wanneer ze worden verzonden (dat wil zeggen: &quot;&amp;&quot; is gewijzigd in &quot;&amp;&quot;). Raadpleeg uw webontwikkelaar voor meer informatie.
 
-1. Ga naar **Beheer**.
+1. Ga naar **Admin**.
 
    ![](assets/admin.png)
 
@@ -37,7 +37,7 @@ Tokens voor personen en bedrijven die in e-mailberichten worden gebruikt, in- en
 
    ![](assets/five.png)
 
-1. Schakel het selectievakje **HTML-coderingstips in E-mails** in om in te schakelen, schakel het selectievakje uit om het uit te schakelen.
+1. Schakel het selectievakje **HTML-coderingstips in e-mails** in om in te schakelen, schakel uit om uit te schakelen.
 
    ![](assets/six.png)
 
