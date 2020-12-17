@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De Types van Activiteit van de filter in het Activiteitenlogboek van een Persoon {#filter-activity-types-in-the-activity-log-of-a-person}
+# De Types van Activiteit van de filter in het Logboek van de Activiteit van een Persoon {#filter-activity-types-in-the-activity-log-of-a-person}
 
 Zoek naar activiteiten die het belangrijkst voor u in het activiteitenlogboek zijn.
 
@@ -19,27 +19,27 @@ Zoek naar activiteiten die het belangrijkst voor u in het activiteitenlogboek zi
 >
 >**Diep duiken**
 >
->Meer informatie over [het activiteitenlogboek](locate-the-activity-log-for-a-person.md).
+>Meer informatie over [het activiteitenlog](locate-the-activity-log-for-a-person.md).
 
-1. Ga naar de pagina **Persondetails** . Klik op het tabblad **Activiteitenlog** .
+1. Ga naar de pagina **Details persoon**. Klik op het tabblad **Activiteitenlog**.
 
    ![](assets/one.png)
 
-1. Selecteer de vervolgkeuzelijst **Filter** .
+1. Selecteer de vervolgkeuzelijst **Filter**.
 
    ![](assets/two-3.png)
 
 ## Aangepaste filters maken {#creating-custom-filters}
 
-1. Klik op de vervolgkeuzelijst **Filter** . Selecteer **Aangepast**.
+1. Klik op de vervolgkeuzelijst **Filter**. Selecteer **Aangepast**.
 
    ![](assets/three-3.png)
 
-1. Selecteer activiteiten waarop u wilt filteren. Klik op **Opslaan als**.
+1. Selecteer activiteiten waarop u wilt filteren. Klik **Opslaan als**.
 
    ![](assets/image2015-4-27-22-3a55-3a43.png)
 
-1. Voer een **aangepaste filternaam** in. Klik op **Opslaan**.
+1. Voer een **aangepaste filternaam** in. Klik **Opslaan**.
 
    ![](assets/five-1.png)
 
@@ -47,15 +47,15 @@ Zoek naar activiteiten die het belangrijkst voor u in het activiteitenlogboek zi
 
    ![](assets/six-1.png)
 
-## Verwijzing opgeslagen filters {#reference-saved-filters}
+## Referentie opgeslagen filters {#reference-saved-filters}
 
-Opgeslagen filters zijn toegankelijk via de keuzelijst **Filter** .
+Opgeslagen filters zijn toegankelijk via de vervolgkeuzelijst **Filter**.
 
-1. Klik op de vervolgkeuzelijst **Filters** . Selecteer **Aangepast**.
+1. Klik op de vervolgkeuzelijst **Filters**. Selecteer **Aangepast**.
 
    ![](assets/seven-1.png)
 
-1. Klik op **Opgeslagen filters**. Opgeslagen filters worden hieronder weergegeven.
+1. Klik **Opgeslagen filters**. Opgeslagen filters worden hieronder weergegeven.
 
    ![](assets/eight.png)
 
