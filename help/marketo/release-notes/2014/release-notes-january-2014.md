@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: januari 2014 {#release-notes-january}
 
-De volgende functies zijn opgenomen in de release van januari 2014. Controleer uw [Marketo Edition](http://www.marketo.com/pricing/) op beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van januari 2014. Controleer [Marketo Edition](http://www.marketo.com/pricing/) op beschikbaarheid van functies.
 
 ## Forms 2.0 {#forms}
 
-Kop omhoog: De documentatie voor Forms 2.0 komt binnenkort. In de tussentijd leert u meer onder en in de [video](http://docs.marketo.com/display/docs/forms)intro!
+Kop omhoog: De documentatie voor Forms 2.0 komt binnenkort. In de tussentijd leert u meer onder en in de video [intro](http://docs.marketo.com/display/docs/forms)!
 
 U kunt het maken van formulieren besturen en webontwikkelaars een onderbreking geven. [Forms](http://docs.marketo.com/display/docs/forms) 2.0 is ontworpen om Marktdeelnemers in staat te stellen zowel visueel als functioneel robuuste formulieren te maken zonder dat ze programmeerkennis nodig hebben.
 
@@ -38,17 +38,17 @@ Gone is het aantal dagen dat HTML-code wordt opgehaald uit formulieren die op Ma
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Meer informatie vindt u in de intro-video [van](http://docs.marketo.com/display/docs/forms)Forms 2.0. (Documentatie die binnenkort naar de diepe duik van [Forms](http://docs.marketo.com/display/docs/forms) komt!)
+Leer meer van [Forms 2.0 intro video](http://docs.marketo.com/display/docs/forms). (Documentatie die binnenkort naar de diepe duik [Forms](http://docs.marketo.com/display/docs/forms) komt!)
 
 ## Communicatielimieten voor e-mailprogramma {#communication-limits-for-email-program}
 
-[Stel Communicatielimieten in voor een e-mailprogramma](../../product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) om ervoor te zorgen dat u niet te veel communiceert met uw database. Als een persoon de gedefinieerde limiet overschrijdt, ontvangt ze geen e-mail.
+[Stel Communicatielimieten in voor een e-](../../product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) mailprogramma om ervoor te zorgen dat u niet te veel communiceert met uw database. Als een persoon de gedefinieerde limiet overschrijdt, ontvangt ze geen e-mail.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
-## Aanvullende velden in de analyse van het programmamandschap {#additional-fields-in-program-membership-analysis}
+## Extra velden in de analyse {#additional-fields-in-program-membership-analysis} van het programmamandschap
 
-Nu kunt u uw metriek van de Analyse van het Lidmaatschap van het [Programma toevoegen en groeperen door lood en bedrijfattributen](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) . Bijvoorbeeld, kunt u het gebied van de Industrie toevoegen om de splitsing van uw programmaleden en successen te zien.
+Nu kunt u uw [Analyse van het Lidmaatschap van het Programma](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) metriek door lood en bedrijfattributen toevoegen en groeperen. Bijvoorbeeld, kunt u het gebied van de Industrie toevoegen om de splitsing van uw programmaleden en successen te zien.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)
 
