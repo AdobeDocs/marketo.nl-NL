@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Niet-concept inschakelen voor fragmenten {#enable-no-draft-for-snippets}
+# Geen concept inschakelen voor fragmenten {#enable-no-draft-for-snippets}
 
 Met Geen concept voor fragmenten kunt u fragmentwijzigingen distribueren zonder dat u er goedgekeurde elementen mee hoeft te maken. Alle elementen die gebruikmaken van het bewerkte fragment krijgen de updates en behouden hun respectieve status:
 
@@ -25,15 +25,15 @@ No-Draft wordt automatisch toegelaten voor alle rollen van de Beheerder. Een beh
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Beheer** en klik op **Gebruikers en rollen**.
+1. Ga naar **Admin** en klik **Gebruikers &amp; rollen**.
 
    ![](assets/usersandroles.png)
 
-1. Ga naar het tabblad **Rollen** , selecteer een rol en klik vervolgens op **Rol** bewerken.
+1. Ga naar het **tabblad Rollen**, selecteer een rol en klik vervolgens op **Rol bewerken**.
 
    ![](assets/editrole2.png)
 
-1. Vouw de optie **Access Design Studio** uit.
+1. Vouw de optie **Toegang tot Design Studio** uit.
 
    ![](assets/expanddesignstudio.png)
 
@@ -41,13 +41,13 @@ No-Draft wordt automatisch toegelaten voor alle rollen van de Beheerder. Een beh
 
    ![](assets/expandsnippet.png)
 
-1. Vouw de machtiging **Fragment** goedkeuren uit en schakel het selectievakje **Geen concept** in. Klik vervolgens op **Opslaan**.
+1. Vouw de **Goedkeuring van fragment**-machtiging uit en schakel het selectievakje **Geen concept** in. Klik vervolgens op **Opslaan**.
 
    ![](assets/2017-06-15-10-35-04.png)
 
 >[!TIP]
 >
->Als u Geen concept wilt uitschakelen, voert u de bovenstaande stappen 1-4 uit, schakelt u het selectievakje Geen concept uit en klikt u op **Opslaan**.
+>Als u Geen concept wilt uitschakelen, volgt u de stappen 1-4 hierboven, schakelt u het selectievakje Geen concept uit en klikt u op **Opslaan**.
 
 >[!MORELIKETHIS]
 >
