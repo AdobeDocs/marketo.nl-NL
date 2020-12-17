@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verklarende woordenlijst Type aangepast veld {#custom-field-type-glossary}
+# Verklarende woordenlijst voor aangepaste veldtype {#custom-field-type-glossary}
 
 Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waaruit u kunt kiezen.
 
@@ -25,15 +25,15 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 >[!TIP]
 >
->Afhankelijk van het veldtype zijn de [operatoren](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary) voor filter/trigger anders.
+>Afhankelijk van het veldtype zullen filter/trigger [operators](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary) verschillend zijn.
 
 >[!NOTE]
 >
->De meeste velden hebben niet het maximale aantal tekens, maar het maximale aantal bytes. Daarom kunnen we geen definitieve tekenlimiet opgeven voor elk veld. De uitzondering is **String**, die maximaal 255 tekens lang is.
+>De meeste velden hebben niet het maximale aantal tekens, maar het maximale aantal bytes. Daarom kunnen we geen definitieve tekenlimiet opgeven voor elk veld. De uitzondering is **String**, die bij 255 karakters uitkomt.
 
-## Boolean {#boolean}
+## Booleaans {#boolean}
 
-**Voorbeeldnaam:** Is Klant - Tags toewijzen aan uw mensen als klanten
+**Voorbeeldnaam:** is klant - Tags toewijzen aan uw personen als klanten
 
 **Voorbeelden:** Waar (ingeschakeld) / Onwaar (uitgeschakeld)
 
@@ -41,7 +41,7 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 ## Valuta {#currency}
 
-**Voorbeeldnaam:** Begroting - Bewaar een getalwaarde voor de begroting van een bedrijf
+**Voorbeeldnaam:** Begroting - Een getalwaarde opslaan voor het budget van een bedrijf
 
 **Voorbeelden:** 100
 
@@ -57,45 +57,45 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 ## Datumtijd {#datetime}
 
-**Voorbeeldnaam:** Aanmaakdatum - Sla de datum en het tijdstip op waarop een persoon wordt gemaakt
+**Voorbeeldnaam:** Gemaakt op - Sla de datum en het tijdstip op waarop een persoon is gemaakt
 
-**Voorbeelden:** 19-08-14 2:00
+**Voorbeelden:** 8/19/14 2:00
 
 **Operatoren**: is, is niet, tussen, in het verleden, vóór, in de toekomst, na, in tijdkader, nadat, vóór, op of na, op of vóór, leeg is, is niet leeg
 
 ## E-mail {#email}
 
-**Voorbeeldnaam:** Alternatieve e-mail - Houd een alternatief e-mailadres voor uw mensen (kan geen e-mails naar dit veld verzenden, zoals het standaard e-mailadresveld, dat een speciaal adres is)
+**Voorbeeld Naam:** Alternatieve e-mail - Houd een alternatief e-mailadres voor uw mensen (kan geen e-mails naar dit veld verzenden zoals het standaard e-mailadresveld, dat is speciaal)
 
 **Voorbeelden:** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
 
 **Operatoren**: is, is niet, begint met, begint niet met, bevat, bevat, is leeg, is niet leeg
 
-## Float {#float}
+## Zweven {#float}
 
-**Voorbeeldnaam:** Gemiddelde scorepunt - Behoud het gemiddelde van het scorepunt van een persoon of een andere numerieke waarde met decimalen
+**Voorbeeldnaam:Gemiddelde** verlooppunt - Het gemiddelde van het scorepunt van een persoon of een andere numerieke waarde met decimalen behouden
 
-**Voorbeelden:** 2,47
+**Voorbeelden:** 2.47
 
 **Operatoren**: tussen, groter dan, kleiner dan, minstens, is leeg, is niet leeg
 
 ## Formule {#formula}
 
-**Voorbeeldnaam:** Salutaties - gebruik dit speciale veld in een [oplossing om de juiste salutatie](create-and-use-a-concatenated-string-formula-field.md) te krijgen op basis van geslacht
+**Voorbeeldnaam:** Salutaties - gebruik dit speciale veld in een  [oplossing om de juiste ](create-and-use-a-concatenated-string-formula-field.md) salutatie op basis van geslacht te krijgen
 
-**Voorbeelden:** controleer de verbonden oplossing
+**Voorbeeldwaarden:gekoppelde oplossing** controleren
 
-## Geheel {#integer}
+## Geheel getal {#integer}
 
-**Voorbeeldnaam:** Aantal Werknemers - sla een aantalwaarde op die decimalen niet vereist
+**Voorbeeldnaam:** Aantal werknemers - sla een getalwaarde op die geen decimalen vereist
 
-**Voorbeelden:** 800
+**Voorbeelden:** 600
 
 **Operatoren**: is, is niet, tussen, groter dan, minstens, is leeg, is niet leeg
 
 ## Percentage {#percent}
 
-**Voorbeeldnaam:** Waarschuwing: een percentage opslaan (wellicht berekend aan de CRM-zijde)
+**Voorbeeldnaam:** Waarschijnlijk een percentagewaarde kopen - opslaan (wellicht berekend aan de CRM-zijde)
 
 **Voorbeelden:** 85%
 
@@ -103,7 +103,7 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 ## Telefoon {#phone}
 
-**Voorbeeldnaam:** Alternatieve Telefoon - sla een extra telefoonaantal voor uw mensen op
+**Voorbeeld Naam:** Alternatieve Telefoon - sla een extra telefoonaantal voor uw mensen op
 
 **Voorbeeld:** 650-555-5555
 
@@ -111,25 +111,25 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 ## Score {#score}
 
-**Voorbeeldnaam:** Gedragsscore / Demografische score: maak meerdere muziekvelden om verschillende kenmerken bij te houden.
+**Voorbeeldnaam:** Gedragsscore / Demografische score - Maak meerdere score-velden om verschillende kenmerken bij te houden.
 
 **Voorbeeld:** 14
 
 **Operatoren**: is, is niet, tussen, groter dan, minstens, is leeg, is niet leeg
 
-## String {#string}
+## Tekenreeks {#string}
 
 **Voorbeeldnaam:** Tweede voornaam - een extra tekstkenmerk opslaan
 
-**Voorbeeld:** Roze
+**voorbeeldwaarde:** Rose
 
 **Operatoren**: is, is niet, begint met, begint niet met, bevat, bevat, is leeg, is niet leeg
 
 ## Tekstgebied {#text-area}
 
-**Voorbeeldnaam:** Opmerkingen - voeg een opmerkingenveld toe aan uw formulieren zodat tekst op meerdere regels kan worden ingevoerd
+**Voorbeeldnaam:** Opmerkingen - voeg een opmerkingenveld toe aan uw formulieren om meerregelige tekstinvoer toe te staan
 
-**Voorbeeld:** Dit artikel is fantastisch!
+**Voorbeeld:** dit artikel is fantastisch!
 
 **Operatoren**: is, is niet, begint met, begint niet met, bevat, bevat, is leeg, is niet leeg
 
