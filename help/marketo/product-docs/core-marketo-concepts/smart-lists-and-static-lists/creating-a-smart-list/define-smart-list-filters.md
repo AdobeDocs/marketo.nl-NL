@@ -22,19 +22,19 @@ ht-degree: 0%
 
 
 
-Nu u een slimme lijst [en](create-a-smart-list.md) toegevoegde filters [aan het hebt](find-and-add-filters-to-a-smart-list.md) gecreeerd, bepalen de filters. Zo gaat het.
+Nu u [een slimme lijst](create-a-smart-list.md) en [toegevoegde filters](find-and-add-filters-to-a-smart-list.md) aan het hebt gecreeerd, bepalen de filters. Zo gaat het.
 
 Als we ons voorbeeld voortzetten, definiëren we deze filters om alle mensen in Californië te vinden met een score van meer dan 50.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer de slimme lijst en klik op het tabblad **Slimme lijst** .
+1. Selecteer de slimme lijst en klik op het **tabblad Slimme lijst**.
 
    ![](assets/smarlist-choosefilters.png)
 
-1. Zoek en selecteer **CA** voor het filter **Staat** .
+1. Zoek en selecteer **CA** voor het **State** filter.
 
    ![](assets/smartlistdefinefilters.png)
 
@@ -43,7 +43,7 @@ Als we ons voorbeeld voortzetten, definiëren we deze filters om alle mensen in 
    >**Herinnering**
    >
    >
-   >U kunt zowel **Californië** als **CA** opslaan. Als u voor beide waarden wilt filteren en *all *people uit Californië wilt opnemen, leert u hoe u meerdere waarden [toevoegt aan een slim lijstfilter](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
+   >U kunt zowel **Californië** als **CA** opslaan. Als u voor beide waarden wilt filteren en *all *people uit Californië wilt opnemen, leert u hoe u [meerdere waarden kunt toevoegen aan een slim lijstfilter](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md).
 
 1. Kies de operator **groter dan** en voer **50** in.
 
