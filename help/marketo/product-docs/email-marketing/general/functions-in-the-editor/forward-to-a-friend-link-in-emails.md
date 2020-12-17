@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Doorsturen naar een vriendenkoppeling in e-mails {#forward-to-a-friend-link-in-emails}
+# Door:sturen aan een Verbinding van de Vriend in E-mail {#forward-to-a-friend-link-in-emails}
 
 Als u de koppeling &quot;Doorsturen naar vriend&quot; toevoegt aan uw e-mails, kunt u personen volgen die via deze koppeling een e-mailbericht hebben ontvangen en deze automatisch toevoegen als een nieuwe persoon als deze nog niet in de database aanwezig is.
 
@@ -19,11 +19,11 @@ Stel bijvoorbeeld dat Keith de koppeling &quot;Doorsturen naar vriend&quot; gebr
 
 ## De koppeling toevoegen aan een e-mailsjabloon {#add-the-link-to-an-email-template}
 
-1. Ga naar de **Studio** van het Ontwerp.
+1. Ga naar **Design Studio**.
 
    ![](assets/one-8.png)
 
-1. Zoek en selecteer de e-mailsjabloon waaraan u de koppeling wilt toevoegen. Klik op Concept **** bewerken.
+1. Zoek en selecteer de e-mailsjabloon waaraan u de koppeling wilt toevoegen. Klik **Concept bewerken**.
 
    ![](assets/two-7.png)
 
@@ -42,9 +42,9 @@ Stel bijvoorbeeld dat Keith de koppeling &quot;Doorsturen naar vriend&quot; gebr
 
    >[!CAUTION]
    >
-   >We raden u niet aan de **opmaakpositie te gebruiken:relatief** in uw e-mailsjabloon. Het kan problemen veroorzaken met de positie en weergave van het vak &quot;Doorsturen naar vriend&quot;.
+   >We raden u niet aan de opmaak **positie:relative** in uw e-mailsjabloon te gebruiken. Het kan problemen veroorzaken met de positie en weergave van het vak &quot;Doorsturen naar vriend&quot;.
 
-1. Klik op Concept **** voorvertonen om te controleren of de sjabloon er naar wens uitziet.
+1. Klik **Voorvertoning concept** om ervoor te zorgen dat de sjabloon er zo uitziet als u wilt.
 
    ![](assets/four-5.png)
 
@@ -65,11 +65,11 @@ U kunt ook de koppeling Doorsturen naar vriend rechtstreeks toevoegen aan een e-
 
    ![](assets/five-4.png)
 
-1. Plaats de cursor op de positie waar u de koppeling wilt weergeven en klik op de knop **Token** invoegen.
+1. Plaats de curseur waar u de verbinding wilt verschijnen en de **knoop van het Tussenvoegsel** klikken.
 
    ![](assets/six-2.png)
 
-1. Selecteer het **`{{system.forwardToFriendLink}}`** token.
+1. Selecteer de token **`{{system.forwardToFriendLink}}`**.
 
    ![](assets/seven-1.png)
 
@@ -81,11 +81,11 @@ U kunt ook de koppeling Doorsturen naar vriend rechtstreeks toevoegen aan een e-
 
    ![](assets/seven-1.png)
 
-1. Knip het **`{{system.forwardToFriendLink}}`** token met Ctrl+X (Windows) of Cmd+X (Mac). Markeer &quot;Doorsturen naar een vriend&quot; en klik op de knop Koppeling **** invoegen/bewerken.
+1. Knip de token **`{{system.forwardToFriendLink}}`** met Ctrl+X (Windows) of Cmd+X (Mac). Markeer &quot;Door:sturen naar een vriend&quot; en klik op de knop **Koppeling invoegen/bewerken**.
 
    ![](assets/eight-1.png)
 
-1. Plak de **`{{system.forwardToFriendLink}}`** token in het vak **URL** met Ctrl/Cmd+V en klik vervolgens op** Invoegen**.
+1. Plak de token **`{{system.forwardToFriendLink}}`** in het vak **URL** met Ctrl/Cmd+V en klik vervolgens op** Invoegen**.
 
    ![](assets/nine.png)
 
@@ -97,11 +97,11 @@ U kunt ook de koppeling Doorsturen naar vriend rechtstreeks toevoegen aan een e-
    >
    >Nieuwe personen die worden toegevoegd via een e-mailbericht &quot;Doorsturen naar een vriend&quot;, worden standaard niet meer geabonneerd op marketingberichten.
 
-## Doorgestuurde activiteiten weergeven {#view-forwarding-activity}
+## Door:sturen activiteit {#view-forwarding-activity} weergeven
 
 U kunt zien wie de e-mails in het activiteitenlog van de persoon heeft doorgestuurd en ontvangen.
 
-1. Ga naar de **`Database`**.
+1. Ga naar **`Database`**.
 
    ![](assets/db.png)
 
@@ -109,7 +109,7 @@ U kunt zien wie de e-mails in het activiteitenlog van de persoon heeft doorgestu
 
    ![](assets/fourteen.png)
 
-1. Ga naar het tabblad **Activiteitenlog** . Dubbelklik op **Doorsturen naar e-mail** vriend of Doorsturen naar e-mail **** vriend om details weer te geven.
+1. Ga naar **Activiteitenlog** tabblad. Dubbelklik **Ontvangen op E-mail doorsturen naar vriend** of **Verzonden doorsturen naar e-mail vriend** voor meer informatie.
 
    ![](assets/fifteen.png)
 
@@ -131,16 +131,16 @@ U kunt zien wie de e-mails in het activiteitenlog van de persoon heeft doorgestu
 
    >[!NOTE]
    >
-   >We maken de **Person-id** klikbaar en koppelen deze rechtstreeks aan de persoon in een volgende patch.
+   >Wij zullen **Persoon identiteitskaart** klikbaar maken en direct met de persoon in een aanstaande flard verbinden.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >Als de vriend die voorwaarts ontvangt een onbekende persoon is, wordt een nieuwe persoon gecreeerd met &quot;door:sturen aan Vriend&quot;duidelijk als **Bron** van de persoon.\
-   >Als de e-mail een lokaal middel van een programma is, wordt het programma gemarkeerd als het **Overnameprogramma** van de persoon.
+   >Als de vriend die voorwaarts ontvangt een onbekende persoon is, wordt een nieuwe persoon gecreeerd met &quot;Vooruit aan Vriend&quot;duidelijk als **Bron**.\
+   >Als de e-mail een lokaal middel van een programma is, wordt het programma gemarkeerd als **Overnameprogramma** van de persoon.
 
-## Trigger of filter die de Door:sturen Activiteit gebruiken {#trigger-or-filter-using-forwarding-activity}
+## Trigger of filter die door:sturen activiteit {#trigger-or-filter-using-forwarding-activity} gebruiken
 
 Er zijn zes triggers/filters die u kunt gebruiken om flowhandelingen te activeren of om personen te filteren door de activiteit &quot;Doorsturen naar vriend&quot; te verzenden en ontvangen.
 
@@ -148,6 +148,6 @@ Als u op &#39;forward&#39; zoekt in de slimme lijst van een slimme campagne, vin
 
 ![](assets/nineteen.png)
 
-## Test door naar vriend {#test-forward-to-friend}
+## Test door:sturen naar vriend {#test-forward-to-friend}
 
-Als u &quot;Doorsturen naar vriend&quot; wilt testen, stuurt u uzelf een e-mail met de koppeling Volgende. Zorg ervoor dat u het formulier verzendt via de stap E-mail **** verzenden, *niet* via Test-e-mail **** verzenden.
+Als u &quot;Doorsturen naar vriend&quot; wilt testen, stuurt u uzelf een e-mail met de koppeling Volgende. Zorg ervoor dat u het bestand verzendt via de volgende stap **E-mail verzenden**, *niet* via **Test-e-mail verzenden**.
