@@ -19,11 +19,11 @@ Mogelijk wilt u weten aan welke Salesforce-velden een bepaald Marketo-veld is ge
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Admin** en klik op **Veldbeheer**.
+1. Ga naar **Admin** en klik **Veld Management**.
 
    ![](assets/image2014-9-19-9-3a54-3a26.png)
 
-1. Zoek het veld dat u wilt zien en klik op **+** om de toewijzing uit te vouwen.
+1. Zoek het gebied u in het zien geinteresseerd bent en klik **+** om de afbeelding uit te breiden.
 
    ![](assets/image2014-9-19-9-3a54-3a34.png)
 
