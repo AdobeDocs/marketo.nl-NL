@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Aanvankelijke veldtoewijzingen bewerken {#edit-initial-field-mappings}
+# Eerste veldtoewijzingen bewerken {#edit-initial-field-mappings}
 
 >[!NOTE]
 >
 >**Herinnering**
 >
->Deze functie is alleen toegankelijk voor de eerste synchronisatie met Salesforce. Wanneer op de knop **Nu** synchroniseren is geklikt, kan dit niet meer worden gedaan.
+>Deze functie is alleen toegankelijk voor de eerste synchronisatie met Salesforce. Wanneer op de knop **Nu synchroniseren** is gedrukt, kan dit niet meer worden gedaan.
 
 Tijdens de eerste synchronisatie met Salesforce combineert Marketo automatisch aangepaste velden met dezelfde naam tot één veld aan de kant Marketo om ervoor te zorgen dat de gegevens kunnen worden uitgewisseld met objecten Lead en Contact in de CRM. In dit artikel wordt uitgelegd hoe u deze toewijzingen kunt aanpassen.
 
@@ -29,7 +29,7 @@ Wanneer u een veld ziet in de map Niet-toegewezen velden, betekent dit dat het v
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Open de map **Niet-toegewezen aangepaste velden** .
+1. Open de map **Niet-toegewezen aangepaste velden**.
 
    ![](assets/two.png)
 
@@ -41,31 +41,31 @@ Wanneer u een veld ziet in de map Niet-toegewezen velden, betekent dit dat het v
 
    ![](assets/three.png)
 
-1. Klik op Toewijzingen **voltooien** als u klaar bent.
+1. Klik **Toewijzingen voltooien** wanneer u wordt gedaan.
 
    ![](assets/four.png)
 
-## Bestaande toewijzing verbreken {#break-existing-mapping}
+## Bestaande toewijzing {#break-existing-mapping} verbreken
 
 Als u velden met dezelfde naam op de lead en het contactobject Marketo hebt, worden deze automatisch aan elkaar toegewezen. U kunt ze anders vinden en verschillende gegevens bevatten. Breek de afbeelding zo uit.
 
-1. Klik op Toewijzingen **bewerken**.
+1. Klik **Toewijzingen bewerken**.
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
-1. Markeer een toegewezen veld en klik op **Toewijzing** verbreken om de velden te scheiden.
+1. Markeer een toegewezen veld en klik op **Toewijzing verbreken** om de velden te scheiden.
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. Klik op Toewijzingen **voltooien** als u klaar bent.
+1. Klik **Toewijzingen voltooien** wanneer u wordt gedaan.
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
    Mooi! U bent bijna klaar met de eerste synchronisatie.
 
-## Schema opnieuw instellen {#reset-schema}
+## Schema {#reset-schema} herstellen
 
-1. Als u enkele wijzigingen aanbrengt in het schema in Salesforce terwijl u aan de toewijzingen werkt, kunt u de wijzigingen terugtrekken door op Schema **** opnieuw instellen te klikken.
+1. Als u sommige veranderingen in het schema in Salesforce terwijl het werken aan de afbeeldingen aanbrengt, kunt u de veranderingen trekken door **Schema** van het Terugstellen te klikken.
 
    * Alle toewijzingswijzigingen worden opnieuw ingesteld.
    * Als u het schema opnieuw instelt, worden alleen velden toegevoegd en niet verwijderd (zelfs als u deze verbergt voor de synchronisatiegebruiker).
