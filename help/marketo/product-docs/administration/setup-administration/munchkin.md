@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Munchkin is het JavaScript-fragment dat u op uw website hebt geplaatst. Er worden bezoeken bijgehouden, er wordt geklikt en er worden formulieren ingevuld. Het heeft ook een rijke API om allerlei nette trucs te doen.
 
-Bekijk de pagina voor [ontwikkelaars op Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
+Bekijk de [ontwikkelaarspagina op Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/).
