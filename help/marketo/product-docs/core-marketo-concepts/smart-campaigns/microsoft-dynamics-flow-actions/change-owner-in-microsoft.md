@@ -17,7 +17,7 @@ Als u bestaande mensen hebt die reeds aan een eigenaar worden toegewezen, kunt u
 
 >[!NOTE]
 >
->Deze flowstap werkt **alleen als u triggers** gebruikt, niet als filters in uw slimme campagne.
+>Deze flowstap werkt alleen als u triggers **gebruikt, niet als filters in uw slimme campagne.**
 
 ![](assets/one-1.png)
 
