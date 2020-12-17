@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics Sync: Account synchroniseren {#microsoft-dynamics-sync-account-sync}
+# Microsoft Dynamics Sync: Accountsynchronisatie {#microsoft-dynamics-sync-account-sync}
 
 Wist u Marketo uw volledige database synchroniseert met Dynamics? Het synchroniseert, wacht dan 5 minuten en synchroniseert dan opnieuw, de hele dag, elke dag. Hier zijn sommige details over hoe Marketo de Rekeningen van de Dynamiek specifiek behandelt.
 
@@ -29,7 +29,7 @@ Nee. Marketo kan geen accounts maken in Dynamics.
 
 ## Welke velden worden gesynchroniseerd met Marketo? {#which-fields-will-sync-to-marketo}
 
-U kunt velden [selecteren die u tijdens de installatie wilt synchroniseren](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) . Marketo synchroniseert echter alleen de velden waartoe de synchronisatiegebruiker van de dynamiek toegang heeft.
+Tijdens de installatie kunt u [velden selecteren om te synchroniseren](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync). Marketo synchroniseert echter alleen de velden waartoe de synchronisatiegebruiker van de dynamiek toegang heeft.
 
 ## Resulteert een verandering in een Gebied van de Rekening in Dynamica in een Logboek van de Activiteit van de Waarde van Gegevens van de Verandering voor Elke Contact?  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 
