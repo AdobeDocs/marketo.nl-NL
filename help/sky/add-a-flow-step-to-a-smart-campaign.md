@@ -16,7 +16,7 @@ De stappen van de stroom vertellen Marketo wat u met een groep mensen wilt gebeu
 
 ## Een stroomstap toevoegen
 
-1. Selecteer [!UICONTROL Marketing Activities]in uw slimme campagne en klik op **[!UICONTROL Flow]**.
+1. Selecteer uw slimme campagne in [!UICONTROL Marketing Activities] en klik op **[!UICONTROL Flow]**.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/add-a-flow-step-to-a-smart-campaign/add-a-flow-step-to-a-smart-campaign-1.png)
 
@@ -26,7 +26,7 @@ De stappen van de stroom vertellen Marketo wat u met een groep mensen wilt gebeu
 
 **Diep duiken**
 
-Meer informatie over de verschillende [stroomstappen](http://docs.marketo.com/display/DOCS/Flow+Actions).
+Meer informatie over de verschillende [flowstappen](http://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Klik op de vervolgkeuzelijst en kies een geschikte optie.
 
@@ -38,13 +38,13 @@ Meer informatie over de verschillende [stroomstappen](http://docs.marketo.com/di
 
 **Herinnering**
 
-De stappen van de stroom worden uitgevoerd in de orde waarin zij worden vermeld. [Wijzig de volgorde van de stroomstappen](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) om ervoor te zorgen dat ze in de juiste volgorde staan.
+De stappen van de stroom worden uitgevoerd in de orde waarin zij worden vermeld. [Herplaats de ](https://docs.marketo.com/display/MER/Add+a+Flow+Step+to+a+Smart+Campaign#AddaFlowSteptoaSmartCampaign-ReorderFlowSteps) stroomstappen om ervoor te zorgen dat ze in de juiste volgorde staan.
 
 >[!TIP]
 >
 >Er verschijnt een rode lijn in het geval van een ongeldige vermelding. Houd de muisaanwijzer boven de lijn om te zien hoe u deze kunt corrigeren.
 >
->Controleer en valideer de slimme campagne [](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) voordat u deze plant of activeert.
+>Zorg ervoor dat u [de slimme campagne ](https://docs.marketo.com/display/DOCS/Smart+Campaign+Checklist) controleert en valideert voordat u deze plant of activeert.
 
 ## Stroomstappen opnieuw ordenen
 
