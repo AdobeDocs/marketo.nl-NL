@@ -17,8 +17,8 @@ De volgende functies zijn opgenomen in de release van juni 2015. Controleer uw M
 
 ## [E-mailrapport kenmerk](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)  {#attribution-email-report}
 
-Bekijk de waardeverpersoonlijking en de geadviseerde inhoud verstrekt aan uw marketing activiteiten. [In het Attribution Email Report](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) worden de directe en bijgewoonde leads weergegeven die worden toegeschreven aan de personalisatie- en aanbevolen inhoudscampagnes van RTP. Voeg in RTP&#39;s, Gebruikersinstellingen en E-mailrapport het rapport E-mailrapport voor kenmerk toe voor maandelijkse of driemaandelijkse e-mailberichten.
+Bekijk de waardeverpersoonlijking en de geadviseerde inhoud verstrekt aan uw marketing activiteiten. [In het Attribution Email ](../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Report worden de directe en ondersteunde leads weergegeven die worden toegeschreven aan de personalisatie- en aanbevolen inhoudscampagnes van RTP. Voeg in RTP&#39;s, Gebruikersinstellingen en E-mailrapport het rapport E-mailrapport voor kenmerk toe voor maandelijkse of driemaandelijkse e-mailberichten.
 
 ## Wil je onze routekaart beïnvloeden? {#want-to-influence-our-roadmap}
 
-Graad Marketo met deze [snelle rapportkaart](https://www.surveymonkey.com/s/VG9YCT5). We gebruiken uw input om 2016 en daarna te helpen plannen!
+Graad Marketo met dit [snelle rapportkaart](https://www.surveymonkey.com/s/VG9YCT5). We gebruiken uw input om 2016 en daarna te helpen plannen!
