@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Gebruikers uitnodigen om accountgegevens te openen {#invite-users-to-access-account-insight}
+# Gebruikers uitnodigen om accountinzicht te openen {#invite-users-to-access-account-insight}
 
 Voer de volgende stappen uit om gebruikers toegang te geven tot Account Insight.
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Klik op **Gebruikers en rollen** in de structuur. Klik vervolgens op het tabblad **Verkoopgebruikers** en **Uitnodiging nieuwe verkoopgebruiker** uit.
+1. Klik **Gebruikers &amp; rollen** in de boom. Klik vervolgens op het tabblad **Verkoopgebruikers** en **Nieuwe verkoopgebruiker uitnodigen**.
 
    ![](assets/two-6.png)
 
@@ -29,19 +29,19 @@ Voer de volgende stappen uit om gebruikers toegang te geven tot Account Insight.
    >
    >Wanneer u nieuwe (niet-Marketo-)gebruikers uitnodigt via de gebruikerslijst van CRM, kunt u veelvoudige mensen tegelijkertijd uitnodigen. Uitnodigen per e-mail is 1 voor 1.
 
-1. Klik op de vervolgkeuzelijst **CRM-gebruiker** en selecteer de gewenste gebruiker.
+1. Klik **CRM Gebruiker** drop-down en selecteer de gewenste gebruiker.
 
    ![](assets/three-5.png)
 
    >[!NOTE]
    >
-   >Als u de optie Gebruiker per e-mail **** uitnodigen kiest, voert u gewoon de voornaam, achternaam en het e-mailadres in en gaat u verder met stap 4.
+   >Als u **Gebruiker via e-mail uitnodigen** kiest, voert u gewoon de voornaam, achternaam en het e-mailadres in en gaat u verder met stap 4.
 
 1. Als u een vervaldatum voor de toegang van de gebruiker (optioneel) wilt instellen, klikt u op het kalenderpictogram. Het is standaard ingesteld op &quot;nooit&quot;.
 
    ![](assets/four-5.png)
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/five-5.png)
 
@@ -49,7 +49,7 @@ Voer de volgende stappen uit om gebruikers toegang te geven tot Account Insight.
 
    ![](assets/six-3.png)
 
-1. Kijk over het verzendbericht, breng desgewenst veranderingen (facultatief) aan, en klik **verzenden**.
+1. Ga naar het verzendbericht, breng desgewenst wijzigingen aan (optioneel) en klik op **Verzenden**.
 
    ![](assets/seven-2.png)
 
