@@ -24,31 +24,31 @@ ht-degree: 0%
 ## Ondersteunde doeltoepassingen {#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* Adobe Analytics (**alleen** als u een Adobe Audience Manager-licentie hebt)
+* Adobe Analytics (**only** als u een Vergunning van Adobe Audience Manager bezit)
 * Adobe Audience Manager
 * Adobe Experience Manager
 * Adobe Real-Time Customer Data Platform
 * Adobe Target
 
-## Een lijst exporteren {#how-to-export-a-list}
+## Hoe te om een Lijst {#how-to-export-a-list} uit te voeren
 
 1. Zoek en selecteer in Marketo de lijst die u wilt exporteren.
 
    ![](assets/one.png)
 
-1. Klik op de vervolgkeuzelijst Handelingen **** weergeven en selecteer **Verzenden naar Experience Cloud**.
+1. Klik op de vervolgkeuzelijst **Handelingen weergeven** en selecteer **Verzenden naar Experience Cloud**.
 
    ![](assets/two-1.png)
 
-1. Klik op de vervolgkeuzelijst Map **** Audience Manager en selecteer de gewenste doelmap in de Experience Cloud.
+1. Klik op de vervolgkeuzelijst **Audience Manager Map** en selecteer de gewenste doelmap in de Experience Cloud.
 
    ![](assets/three-1.png)
 
-1. Kies of u een nieuw publiek wilt maken of een bestaand publiek wilt overschrijven (in dit voorbeeld maken we een nieuw publiek). Voer de nieuwe publieksnaam in en klik op **Verzenden**.
+1. Kies of u een nieuw publiek wilt maken of een bestaand publiek wilt overschrijven (in dit voorbeeld maken we een nieuw publiek). Ga de nieuwe publieksnaam in en klik **Send**.
 
    ![](assets/four.png)
 
-1. Klik op **OK**.
+1. Klik **OK**.
 
    ![](assets/five.png)
 
