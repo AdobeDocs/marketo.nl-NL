@@ -28,33 +28,33 @@ ht-degree: 0%
 
 ## Stap 1: Nieuwe omleidingsregel starten {#step-start-a-new-redirect-rule}
 
-1. Ga naar het gebied **Beheer** .
+1. Ga naar **Admin** gebied.
 
    ![](assets/admin.png)
 
-1. Ga naar **bestemmingspagina&#39;s**.
+1. Ga naar **Landing Pages**.
 
    ![](assets/image2014-9-24-13-3a28-3a43.png)
 
-1. Klik op het tabblad **Regels** en klik vervolgens op **Nieuwe** en **Nieuwe omleidingsregel**.
+1. Klik **Regels** tabel, dan klik **Nieuw** en **Nieuwe Redirect Regel**.
 
    ![](assets/image2014-9-24-13-3a28-3a59.png)
 
-## Stap 2: De omleidingsregel definiëren {#step-define-the-redirect-rule}
+## Stap 2: De omleidingsregel {#step-define-the-redirect-rule} definiëren
 
-1. Klik op de eerste vervolgkeuzelijst **Oorspronkelijke URL** en selecteer Marketo CNAME.
+1. Klik eerste **Originele URL** drop-down en selecteer uw Marketo CNAME.
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >Herinner me, kunt u landende pagina&#39;s slechts omleiden die met uw [NAAM](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)van het Teken beginnen.
+   >Herinner me, kunt u landende pagina&#39;s slechts omleiden die met uw Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
 
-1. Klik op de tweede vervolgkeuzelijst **Originele URL** en selecteer de bestemmingspagina die u wilt omleiden.
+1. Klik op de tweede **Originele URL** vervolgkeuzelijst en selecteer de bestemmingspagina die u wilt omleiden.
 
    ![](assets/image2014-9-24-13-3a30-3a50.png)
 
-1. Selecteer voor URL **** omleiden de pagina waarnaar u wilt omleiden en klik op **Maken**.
+1. Selecteer voor **URL omleiden** de pagina waarnaar u wilt omleiden en klik op **Maken**.
 
    ![](assets/image2014-9-24-13-3a31-3a10.png)
 
