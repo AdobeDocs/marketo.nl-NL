@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een voorbeeld van een e-mail weergeven {#previewing-an-email}
+# Een voorbeeld weergeven van een e-mail {#previewing-an-email}
 
 Klik met de rechtermuisknop op een e-mailkaart om deze voor te vertonen voordat u de trigger trekt.
 
@@ -19,7 +19,7 @@ Klik met de rechtermuisknop op een e-mailkaart om deze voor te vertonen voordat 
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. Tik op E-mail **met voorbeeldweergave**.
+1. Tik **E-mail voorvertonen**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
