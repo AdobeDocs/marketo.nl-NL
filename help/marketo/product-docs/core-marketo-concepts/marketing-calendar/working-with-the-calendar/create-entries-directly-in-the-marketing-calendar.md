@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Items rechtstreeks maken in de marketingkalender {#create-entries-directly-in-the-marketing-calendar}
+# Directe items maken in de marketingkalender {#create-entries-directly-in-the-marketing-calendar}
 
 Marketo staat u toe om ingangen direct in uw Kalender van de Marketing tot stand te brengen door de wijze van de programmanadruk te gebruiken. U kunt de volgende ingstypen maken:
 
@@ -22,7 +22,7 @@ Marketo staat u toe om ingangen direct in uw Kalender van de Marketing tot stand
 
 Zo gaat het.
 
-1. Ga naar de **kalender**.
+1. Ga naar **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -39,7 +39,7 @@ Zo gaat het.
 
    >[!TIP]
    >
-   >U kunt ook op dezelfde manier **slimme campagnes**, **e-mailprogramma** &#39;s en **basisitems** maken.
+   >U kunt **Slimme campagnes**, **E-mailprogramma&#39;s** en **Basisitems** op dezelfde manier maken.
 
 1. Sluit de focusmodus van het programma wanneer u klaar bent met bewerken.
 
