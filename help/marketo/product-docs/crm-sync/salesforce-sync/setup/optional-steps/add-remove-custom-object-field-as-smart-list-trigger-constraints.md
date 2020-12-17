@@ -19,15 +19,15 @@ Marketo biedt fijnkorrelige controle over de synchronisatie van aangepaste objec
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik op **Beheerder.**
+1. Klik **Admin.**
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Klik op **Beheer** en vervolgens op **Salesforce-objecten synchroniseren.**
+1. Klik **Admin** en **Salesforce-objecten synchroniseren.**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **In de linkerkolom wordt de functie voor het synchroniseren** van Salesforce-objecten weergegeven.
+1. **De** syntaxis van Salesforce-objecten staat in de linkerkolom.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,15 +35,15 @@ Marketo biedt fijnkorrelige controle over de synchronisatie van aangepaste objec
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Klik op Zichtbare velden **** bewerken.
+1. Klik **Zichtbare velden bewerken**.
 
    >[!TIP]
    >
-   >Als de knop Zichtbare velden **** bewerken grijs wordt weergegeven, wordt het object momenteel gebruikt in een slimme lijst of slimme campagne. Verwijder alle koppelingen om door te gaan.
+   >Als de **knop Zichtbare velden bewerken** grijs wordt weergegeven, wordt het object momenteel gebruikt in een slimme lijst of slimme campagne. Verwijder alle koppelingen om door te gaan.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. Als de globale synchronisatie is ingeschakeld, klikt u op **Globale synchronisatie** uitschakelen.
+1. Als de globale synchronisatie is ingeschakeld, klikt u op **Globale synchronisatie uitschakelen**.
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
