@@ -27,7 +27,7 @@ De genoemde Rekeningen houden de mensen van de bedrijven u richt. Het dashboard 
 >
 >Marketo geeft alle CRM-gebruikers weer die in Marketo zijn gesynchroniseerd als filterwaarden van &quot;Account Owner&quot; of &quot;Member of Account Team&quot;.
 
-## Kenmerken benoemde account {#named-account-attributes}
+## Benoemde accountkenmerken {#named-account-attributes}
 
 <table> 
  <tbody> 
@@ -61,7 +61,7 @@ De genoemde Rekeningen houden de mensen van de bedrijven u richt. Het dashboard 
   </tr> 
   <tr> 
    <td><strong>SIC-code</strong></td> 
-   <td><span><strong></strong>Standard <strong></strong>Industrial <strong></strong>Classification - code van vier cijfers voor de indeling van industrieën<br></span></td> 
+   <td><span><strong></strong>Standard  <strong></strong>Industrial  <strong></strong>Classification - code van vier cijfers voor de indeling van industrieën<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Ontvangsten</strong></td> 
