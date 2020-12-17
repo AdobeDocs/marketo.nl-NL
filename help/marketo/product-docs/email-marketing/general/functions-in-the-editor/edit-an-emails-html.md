@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# HTML van een e-mail bewerken {#edit-an-emails-html}
+# HTML {#edit-an-emails-html} van een e-mail bewerken
 
 Soms moet u de onderliggende HTML van een e-mail wijzigen. Soms kunt u een extern systeem gebruiken om de code van uw e-mail te ontwerpen en te bouwen. In beide gevallen kunt u gemakkelijk code importeren en/of bewerken vanuit de e-maileditor.
 
-## HTML bewerken {#edit-html}
+## HTML {#edit-html} bewerken
 
-1. Selecteer uw e-mail en klik op Concept **** bewerken.
+1. Selecteer uw e-mail en klik **Concept** uitgeven.
 
    ![](assets/teamspidey.jpg)
 
-1. Klik op Code **** bewerken.
+1. Klik **Code bewerken**.
 
    ![](assets/two-4.png)
 
-1. Breng de gewenste wijzigingen aan. Klik op **Opslaan** als u klaar bent.
+1. Breng de gewenste wijzigingen aan. Klik **Opslaan** wanneer gereed.
 
    ![](assets/three-3.png)
 
@@ -39,11 +39,11 @@ Soms moet u de onderliggende HTML van een e-mail wijzigen. Soms kunt u een exter
 
    >[!NOTE]
    >
-   >De beste manier voor e-mails is om al uw stijlen inline te maken. Verschillende e-mailclients ondersteunen CSS in de `<head>` sectie niet.
+   >De beste manier voor e-mails is om al uw stijlen inline te maken. Verschillende e-mailclients ondersteunen geen CSS in de sectie `<head>`.
 
-## Een e-mail verbreken via de sjabloon {#breaking-an-email-from-its-template}
+## Een e-mail opsplitsen via de sjabloon {#breaking-an-email-from-its-template}
 
-Met deze codewijzigingen **wordt geen** e-mail uit de sjabloon verbroken:
+Met deze codewijzigingen **wordt een e-mailbericht niet** uit de sjabloon verbroken:
 
 * De inhoud van een willekeurige module bewerken (inclusief het toevoegen van nieuwe elementen in de module)
 * Een nieuwe module toevoegen aan de container
@@ -52,7 +52,7 @@ Met deze codewijzigingen **wordt geen** e-mail uit de sjabloon verbroken:
 * Het veranderen van mkto-specifieke attributen (bijvoorbeeld, &quot;mktoName&quot;of &quot;mktoImgUrl&quot;) van om het even welk Element buiten een Module
 * De inhoud van een willekeurig element bewerken (RTF-bestand, afbeelding, video, enz.) buiten een module
 
-Deze dingen u in de coderedacteur kunt doen **zullen** e-mail van zijn malplaatje breken:
+Deze dingen u in de code redacteur **zal** e-mail van zijn malplaatje breken:
 
 * Alles wijzigen in de code buiten een Element of Module
 * Niet-mkto-kenmerken (bijvoorbeeld &quot;id&quot; of &quot;style&quot;) van een element buiten een module toevoegen of wijzigen
@@ -62,20 +62,20 @@ Deze dingen u in de coderedacteur kunt doen **zullen** e-mail van zijn malplaatj
 
 Met de functie Code zoeken kunt u op efficiënte wijze inhoud in de HTML-code van uw e-mail zoeken en vervangen.
 
-1. Klik in de e-mailcode op **Zoeken**.
+1. Klik in de code van uw e-mail op **Code zoeken**.
 
    ![](assets/five-2.png)
 
-1. Voer in wat u wilt zoeken en klik op Volgende **** zoeken om vooruit te zoeken of Vorige **** zoeken om achteruit te zoeken. U kunt ook Alles **vervangen** en **Alles** vervangen.
+1. Voer in wat u wilt zoeken en klik op **Volgende zoeken** om naar voren te zoeken of **Vorige zoeken** om naar achteren te zoeken. U kunt ook **Vervangen** en **Alles vervangen** kiezen.
 
    ![](assets/six-1.png)
 
-1. Klik op **Sluiten** als u klaar bent.
+1. Klik **Sluiten** wanneer gereed.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >De code van het onderzoek is ook beschikbaar in de redacteur [van het Malplaatje van de](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template)E-mail.
+   >Zoekcode is ook beschikbaar in de [E-mailsjablooneditor](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template).
 
 We raden u aan uw e-mailberichten te blijven bewerken met de ingebouwde functionaliteit van Marketo, maar deze code-editor biedt wel flexibiliteit als dat nodig is.
