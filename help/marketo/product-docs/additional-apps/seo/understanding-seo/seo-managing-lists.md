@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt dingen aan lijsten toevoegen wanneer u sleutelwoorden, pagina&#39;s, paginakwesties, of binnenkomende verbindingen toevoegt. Lijsten helpen u georganiseerd blijven en laten u rapporten filtreren om slechts gegevens op die lijst te zien. Zo maak je ze:
 
-1. Klik op TREFWOORDEN **TOEVOEGEN**.
+1. Klik **TREFWOORDEN TOEVOEGEN**.
 
    >[!NOTE]
    >
@@ -29,9 +29,9 @@ U kunt dingen aan lijsten toevoegen wanneer u sleutelwoorden, pagina&#39;s, pagi
 
    >[!TIP]
    >
-   >In de vervolgkeuzelijst kunt u een nieuwe lijst maken. Voer een titel in en druk op Enter.  ![—](assets/image2014-9-18-13-3a25-3a8.png) >
+   >In de vervolgkeuzelijst kunt u een nieuwe lijst maken. Voer een titel in en druk op Enter.  ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
 
-1. Klik op **OPSLAAN**.
+1. Klik **OPSLAAN**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
