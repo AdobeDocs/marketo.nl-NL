@@ -19,13 +19,13 @@ Slimme campagnes zijn het belangrijkste instrument in Marketo. Ze kunnen op éé
 >
 >**Diep duiken**
 >
->Slimme campagnes zijn supercool. Meer weten over hen [hier](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)?
+>Slimme campagnes zijn supercool. Meer informatie hierover [hier](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Kies een **programma** en klik vervolgens onder **Nieuw** op **Nieuw lokaal element**.
+1. Kies een **Programma**, en klik dan onder **Nieuw** op **Nieuw Lokaal element**.
 
    ![](assets/program-localassethands.png)
 
