@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Uw standaardbrandingdomein bewerken {#edit-your-default-branding-domain}
+# Uw standaardbrandingdomein {#edit-your-default-branding-domain} bewerken
 
 Het bewerken van uw standaardbrandingdomein is de eerste stap bij het werken met brandingdomeinen.
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u [opstelling een NAAM in uw DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) alvorens u uw brandende domeinen in Marketo toevoegt.
+>Zorg ervoor u [opstelling een NAAM in uw DNS](../../../../getting-started/setup-steps/configure-protocols-for-marketo.md) hebt alvorens u uw brandende domeinen in Marketo toevoegt.
 
-1. Ga naar **Beheer** en klik op **E-mail**.
+1. Ga naar **Admin** en klik **E-mail**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -35,5 +35,5 @@ Het bewerken van uw standaardbrandingdomein is de eerste stap bij het werken met
 
    ![](assets/edit-branding-domain-hands.png)e
 
-Nu kunt u alle extra brandingdomeinen [](add-an-additional-branding-domain.md) toevoegen die u nodig hebt.
+Nu, kunt u [om het even welke extra branding domeinen](add-an-additional-branding-domain.md) toevoegen u nodig hebt.
 
