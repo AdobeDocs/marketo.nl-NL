@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# De tekstversie van een e-mail bewerken {#edit-the-text-version-of-an-email}
+# De tekstversie van een e-mailbericht bewerken {#edit-the-text-version-of-an-email}
 
 Wanneer u een e-mail maakt, wilt u mogelijk dat de tekstversie anders wordt geformuleerd dan de HTML-versie. Standaard wordt met Marketo automatisch de tekstinhoud gekopieerd van alle tekstelementen in uw e-mail naar de tekstversie. Hieronder wordt beschreven hoe u het bestand kunt bewerken.
 
 >[!NOTE]
 >
->Dit is geen artikel over het maken van een e-mail met alleen tekst. Zie [Een alleen-tekst e-mailbericht](create-a-text-only-email.md)maken voor meer informatie hierover.
+>Dit is geen artikel over het maken van een e-mail met alleen tekst. Zie [Een e-mail met alleen tekst maken](create-a-text-only-email.md) voor informatie hierover.
 
-1. Klik in de e-maileditor op het tabblad **Tekst** onder aan het e-mailbericht.
+1. Klik in de e-maileditor op het tabblad **Tekst** onder aan de e-mail.
 
    ![](assets/one-5.png)
 
