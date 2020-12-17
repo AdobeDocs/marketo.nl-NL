@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Dubbele inhoud niet verzenden {#avoid-sending-duplicate-content}
+# Dubbele inhoud {#avoid-sending-duplicate-content} niet verzenden
 
 Heb je ooit twee keer dezelfde e-mail ontvangen? Annoying, niet?
 
 Hier zijn zeven mogelijke scenario&#39;s en resultaten om zich van bewust te zijn om te verhinderen het verzenden van iemand de zelfde boodschap tweemaal met betrokkenheidsprogramma&#39;s.
 
-## Scenarios {#scenarios}
+## Scenario&#39;s {#scenarios}
 
 Een persoon ontvangt een e-mail die van de Motor van de Betrokkenheid van de Klant wordt verzonden.
 
@@ -25,9 +25,9 @@ Een persoon ontvangt een e-mail die van de Motor van de Betrokkenheid van de Kla
 |---|---|---|
 | Een campagne in een afzonderlijk, zelfstandig, standaardprogramma | Geen lid van het standaardprogramma | Ja |
 | Een campagne in een afzonderlijk, zelfstandig, standaardprogramma | Een lid van het standaardprogramma | Nee |
-| Een campagne binnen een standaardprogramma dat van een gietvorm binnen **zelfde** CEE programma wordt teweeggebracht | Een lid van het standaardprogramma | Nee |
-| Een campagne binnen een standaardprogramma dat van een gietvorm binnen **zelfde** CEE programma wordt teweeggebracht | Geen lid van het standaardprogramma | Ja |
+| Een campagne binnen een standaardprogramma dat van een gietvorm binnen **same** CEE programma wordt teweeggebracht | Een lid van het standaardprogramma | Nee |
+| Een campagne binnen een standaardprogramma dat van een gietvorm binnen **same** CEE programma wordt teweeggebracht | Geen lid van het standaardprogramma | Ja |
 | Een campagne binnen een standaardprogramma dat van een gietvorm binnen een **verschillend** CEE programma wordt teweeggebracht | Een lid van het standaardprogramma | Nee |
 | Een campagne binnen een standaardprogramma dat van een gietvorm binnen een **verschillend** CEE programma wordt teweeggebracht | Geen lid van het standaardprogramma | Ja |
-| Een **ander** CEE-programma dat een slimme stream gebruikt | Een lid van beide CEE-programma&#39;s | Nee |
+| A **different** CEE program using a smart stream | Een lid van beide CEE-programma&#39;s | Nee |
 
