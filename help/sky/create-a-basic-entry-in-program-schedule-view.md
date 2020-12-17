@@ -16,11 +16,11 @@ ht-degree: 0%
 
 U kunt nieuwe basisingangen direct van de mening van het programmaprogramma tot stand brengen.
 
-1. Selecteer het programma in de boomstructuur en ga vervolgens naar de **[!UICONTROL Schedule]** tab onder **[!UICONTROL Overview]**.
+1. Selecteer het programma in de boomstructuur en ga naar het tabblad **[!UICONTROL Schedule]** onder **[!UICONTROL Overview]**.
 
    ![Afbeelding één](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-1.png)
 
-1. Houd de muis boven de dag waaraan u een bericht wilt toevoegen en klik vervolgens op **[!UICONTROL Add]**.
+1. Houd de muis boven de dag waarop u een item wilt toevoegen en klik vervolgens op **[!UICONTROL Add]**.
 
    ![Afbeelding twee](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ U kunt nieuwe basisingangen direct van de mening van het programmaprogramma tot 
    >
    >U kunt ook vergelijkbare stappen uitvoeren om een basisitem te maken in de weergaven Dag, Week of Agenda.
 
-1. Voer een naam in voor de nieuwe basisinvoer en wijzig deze **[!UICONTROL Type]** indien nodig in [!UICONTROL Basic Entry] . U kunt ook de lijst wijzigen **[!UICONTROL Start & End Date]**, en deselecteren **[!UICONTROL Open In Agenda View]** als u in de kalender wilt blijven nadat u de ingang creeert. Klik **[!UICONTROL Save]**.
+1. Voer een naam in voor uw nieuwe basisitem en wijzig **[!UICONTROL Type]** indien nodig in [!UICONTROL Basic Entry]. U kunt **[!UICONTROL Start & End Date]** ook wijzigen, en **[!UICONTROL Open In Agenda View]** schrappen als u in de kalender wilt blijven na het creëren van de ingang. Klik op **[!UICONTROL Save]**.
 
    ![Afbeelding drie](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ U kunt nieuwe basisingangen direct van de mening van het programmaprogramma tot 
 
 **Verwante artikelen**
 
-U kunt ook een slimme [batchcampagne](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) of een [e-mailprogramma](/help/sky/create-an-email-program-in-program-schedule-view.md) maken vanuit de overzichtsweergave.
+U kunt ook een [batch smart campagne](/help/sky/create-a-batch-smart-campaign-in-program-schedule-view.md) of [e-mailprogramma](/help/sky/create-an-email-program-in-program-schedule-view.md) vanuit de overzichtsweergave maken.
