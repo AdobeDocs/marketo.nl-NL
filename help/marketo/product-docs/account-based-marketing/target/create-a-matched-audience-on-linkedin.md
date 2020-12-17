@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een passend publiek maken op LinkedIn {#create-a-matched-audience-on-linkedin}
+# Creeer een Gelijke Publiek op LinkedIn {#create-a-matched-audience-on-linkedin}
 
 Maak overeenkomende soorten publiek op basis van uw ABM-accountlijsten voor LinkedIn-advertentie.
 
@@ -19,7 +19,7 @@ Maak overeenkomende soorten publiek op basis van uw ABM-accountlijsten voor Link
 >
 >[Voeg LinkedIn Gelijke Publiek als Dienst van LaunchPoint toe](http://docs.marketo.com/x/I4Fy)
 
-1. Klik in ABM op het tabblad **Accountlijsten** .
+1. Klik in ABM op het tabblad **Accountlijsten**.
 
    ![](assets/one-1.png)
 
@@ -27,23 +27,23 @@ Maak overeenkomende soorten publiek op basis van uw ABM-accountlijsten voor Link
 
    ![](assets/two.png)
 
-1. Klik op de vervolgkeuzelijst Handelingen **in** accountlijst en selecteer **Verzenden via AdBridge**.
+1. Klik op de vervolgkeuzelijst **Accountlijsthandelingen** en selecteer **Verzenden via AdBridge**.
 
    ![](assets/three-1.png)
 
-1. Kies **LinkedIn** en klik **daarna**.
+1. Kies **LinkedIn** en klik **Volgende**.
 
    ![](assets/four-1.png)
 
-1. Klik op de vervolgkeuzelijst **Publiek** . U kunt een bestaand publiek selecteren of een nieuw publiek maken. In dit voorbeeld maken we een nieuwe groep (als u een bestaand publiek selecteert, gaat u verder met stap 7).
+1. Klik op de vervolgkeuzelijst **Publiek**. U kunt een bestaand publiek selecteren of een nieuw publiek maken. In dit voorbeeld maken we een nieuwe groep (als u een bestaand publiek selecteert, gaat u verder met stap 7).
 
    ![](assets/five-1.png)
 
-1. Klik op de vervolgkeuzelijst **Advertentieaccount** en selecteer het doel en account.
+1. Klik op de vervolgkeuzelijst **Account toevoegen** en selecteer het doel en account.
 
    ![](assets/six-1.png)
 
-1. Geef een naam op voor de doelgroep en klik op **Bijwerken**.
+1. Noem uw publiek en klik **Update**.
 
    ![](assets/seven.png)
 
