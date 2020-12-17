@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Markeren naar aangepaste objectvelden bewerken en verwijderen {#edit-and-delete-marketo-custom-object-fields}
 
-## Een veld bewerken {#edit-a-field}
+## Een veld {#edit-a-field} bewerken
 
 Soms moet u een veld bewerken dat nog niet is goedgekeurd.
 
@@ -21,7 +21,7 @@ Soms moet u een veld bewerken dat nog niet is goedgekeurd.
 
    ![](assets/image2015-10-2-10-3a55-3a1.png)
 
-1. Klik op het tabblad Velden op **Veldhandelingen** en **Veld** bewerken.
+1. Klik op het tabblad Velden op **Veldhandelingen** en **Veld bewerken**.
 
    ![](assets/image2015-10-2-10-3a53-3a26.png)
 
@@ -37,15 +37,15 @@ Soms moet u een veld bewerken dat nog niet is goedgekeurd.
 
    ![](assets/image2015-10-2-11-3a1-3a13.png)
 
-## Een veld verwijderen {#delete-a-field}
+## Een veld {#delete-a-field} verwijderen
 
 Wanneer u geen gebied in een douanevoorwerp meer nodig hebt, kunt u het schrappen.
 
-1. Klik op het tabblad Velden op **Veldhandelingen** en **Veld** verwijderen.
+1. Klik op het tabblad Velden op **Veldhandelingen** en **Veld verwijderen**.
 
    ![](assets/image2015-10-2-11-3a11-3a20.png)
 
-   Zorg ervoor dat u het veld echt wilt verwijderen voordat u de trigger trekt! Klik op **Verwijderen**.
+   Zorg ervoor dat u het veld echt wilt verwijderen voordat u de trigger trekt! Klik **Delete**.
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
