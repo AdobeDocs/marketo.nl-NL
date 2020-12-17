@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Champion/Challenger: Een e-mailtest negeren {#champion-challenger-discard-an-email-test}
+# Champion/Challenger: Een e-mailtest {#champion-challenger-discard-an-email-test} negeren
 
 Als u op een gegeven moment besluit dat u uw e-mailtest niet wilt uitvoeren, kunt u deze negeren. Zo gaat het.
 
@@ -23,19 +23,19 @@ Als u op een gegeven moment besluit dat u uw e-mailtest niet wilt uitvoeren, kun
 
 
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Zoek en klik met de rechtermuisknop op de e-mailtest en klik vervolgens op **Testen** negeren.
+1. Zoek en klik met de rechtermuisknop op uw e-mailtest en klik vervolgens op **Test negeren**.
 
    ![](assets/champion5.jpg)
 
-1. Klik op **Verwijderen** om te bevestigen.
+1. Klik **Verwijderen** om te bevestigen.
 
    ` ![](assets/image2014-9-15-14-3a17-3a11.png)
 
    `
 
-   Je bent klaar! Als u ooit besluit dat u een test opnieuw wilt instellen, gaat u verder en [voegt u een e-mailkampioen/uitdager](add-an-email-champion-challenger.md)toe.
+   Je bent klaar! Als u ooit besluit dat u een test opnieuw wilt instellen, gaat u verder en [voeg een e-mailkampioen/challenger](add-an-email-champion-challenger.md) toe.
 
