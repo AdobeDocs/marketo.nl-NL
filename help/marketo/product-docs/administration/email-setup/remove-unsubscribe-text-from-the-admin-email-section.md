@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Tekst voor abonnement verwijderen uit de sectie &quot;Beheer -> E-mail&quot; {#remove-unsubscribe-text-from-the-admin-email-section}
+# Tekst voor abonnement verwijderen uit het gedeelte &quot;Admin -> Email&quot; {#remove-unsubscribe-text-from-the-admin-email-section}
 
 De enige reden waarom u het afmelden van inhoud uit het gebied &quot;Admin > E-mail&quot;zou moeten ooit volledig verwijderen is als u verkiest om de afmeldingsverbinding in de e-mailmalplaatjes zelf te bouwen. Het tekstvak heeft een validatie die het niet mogelijk maakt om zonder inhoud op te slaan. U kunt dit omzeilen door een kleine HTML-opmerking toe te voegen. De HTML-opmerking wordt niet weergegeven in de e-mailclient, omdat deze de e-mail in HTML weergeeft en de opmerkingen worden weggelaten. Zo doe je het.
 
-1. Ga naar **Beheer** en klik op **E-mail**.
+1. Ga naar **Admin** en klik **E-mail**.
 
    ![](assets/image2016-8-26-13-3a57-3a9.png)
 
@@ -29,7 +29,7 @@ De enige reden waarom u het afmelden van inhoud uit het gebied &quot;Admin > E-m
 
    ![](assets/image2016-8-26-13-3a53-3a15.png)
 
-1. Klik op Wijzigingen **opslaan**.
+1. Klik **Wijzigingen opslaan**.
 
    ![](assets/image2016-8-26-13-3a59-3a40.png)
 
