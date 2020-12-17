@@ -11,37 +11,37 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: maart 2014 {#release-notes-march}
+# Opmerkingen bij de release: Maart 2014 {#release-notes-march}
 
 De volgende functies zijn opgenomen in de release van maart 2014. Controleer uw Marketo Edition voor de beschikbaarheid van functies. Na de versie, ben zeker om voor verbindingen aan kennisbasisartikelen voor elke eigenschap terug te komen.
 
 ## Knop Vernieuwen van dashboard voor e-mailprogramma {#email-program-dashboard-refresh-button}
 
-Gebruik [verfrissen knoop](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md) om tot de minieme e-mailmetriek over uw e-mail te krijgen verzendt of uw test van AB!
+Gebruik [verfrist knoop](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md) om tot de minieme e-mailmetriek over uw e-mail te krijgen verzendt of uw test van AB!
 
 ![](assets/image2014-9-22-11-3a35-3a15.png)
 
-## Ongedaan maken/Opnieuw in de e-maileditor en de fragmenteditor {#undo-redo-in-the-email-editor-and-snippet-editor}
+## Ongedaan maken/Opnieuw in de E-maileditor en de fragmenteditor {#undo-redo-in-the-email-editor-and-snippet-editor}
 
-[U kunt maximaal 50 acties voor de huidige sessie ongedaan maken of opnieuw uitvoeren](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md) .
+[Maak de huidige sessie ongedaan of ](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md) verhoog tot 50 acties.
 
 ![](assets/image2014-9-22-11-3a35-3a40.png)
 
 ## De Kolommen van de Status van het programma in het Rapport van de Prestaties van het Programma {#program-status-columns-in-program-performance-report}
 
-Wanneer u het [prestatierapport](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)van het programma gebruikt, kunt u nu zien hoeveel mensen zich bevinden in welke status van het programma.
+Wanneer u het [rapport over de programmaprestaties](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md) gebruikt, kunt u nu zien hoeveel mensen waarin de status van het programma zich bevinden.
 
 ![](assets/image2014-9-22-11-3a36-3a13.png)
 
 ## Inclusieve en operationele programma&#39;s voor Analytics {#inclusive-and-operational-programs-for-analytics}
 
-U kunt programma&#39;s zonder periodekosten [in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren nu](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) omvatten door de optie van het Gedrag van de Analyse aan &quot;Inclusief&quot;te plaatsen wanneer u de Kanalen van het Programma uitgeeft. U kunt ook operationele programma&#39;s uitsluiten van alle rapporten door &quot;Operationeel&quot; te kiezen.
+U kunt nu [programma&#39;s zonder punt kosten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren door de optie van het Gedrag van de Analyse aan &quot;Inclusief&quot;te plaatsen wanneer u de Kanalen van het Programma uitgeeft. U kunt ook operationele programma&#39;s uitsluiten van alle rapporten door &quot;Operationeel&quot; te kiezen.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 
-## Hybride en impliciete opties voor lead-conversie {#hybrid-and-implicit-options-for-lead-conversion}
+## Hybride en impliciete Opties voor de Omzetting van de Lood {#hybrid-and-implicit-options-for-lead-conversion}
 
-U kunt de manier veranderen Marketo verbindt contacten en de kansen voor de metriek van de loodomzetting in Lead Analyse. U kunt de [attributie-instelling](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) wijzigen in een van de drie opties. Als u deze instelling wijzigt, worden er geen Marketo- of CRM-gegevens gewijzigd. het verandert eenvoudig de manier waarop uw rapporten lopen en het kan op elk ogenblik worden teruggedraaid.
+U kunt de manier veranderen Marketo verbindt contacten en de kansen voor de metriek van de loodomzetting in Lead Analyse. U kunt de attributie-instelling [wijzigen in een van de drie opties. ](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) Als u deze instelling wijzigt, worden er geen Marketo- of CRM-gegevens gewijzigd. het verandert eenvoudig de manier waarop uw rapporten lopen en het kan op elk ogenblik worden teruggedraaid.
 
 Expliciet het plaatsen zal contacten met rollen in een kans slechts behandelen zoals omgezette lood (standaardgedrag). Impliciet behandelt alle contacten verbonden aan de rekening in de kans, ongeacht rol, zoals omgezet. Hybride behandelt contacten met rollen zoals omgezet indien beschikbaar; als geen, behandelen wij alle contacten in de rekening zoals omgezet.
 
@@ -51,12 +51,12 @@ Ter herinnering: deze instelling wijzigt ook de maatstaven voor de programmatoew
 
 ## Aanvullende gebruikerstaal {#additional-user-language}
 
-Selecteer de [Marketo-toepassingstaal](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Bekijk de interface Marketo Lead Management in uw voorkeurstaal — nu met ondersteuning voor Japans.
+Selecteer uw [Marketo-toepassingstaal](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Bekijk de interface Marketo Lead Management in uw voorkeurstaal — nu met ondersteuning voor Japans.
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 
 ## Marketo Developer Blog {#marketo-developer-blog}
 
-Het [Marketo Developer-blog](http://developers.marketo.com/blog/) is gewijd aan webontwikkelaars en software-engineers die de snel evoluerende behoeften van de moderne markt ondersteunen. U kunt zich abonneren op aankondigingen over nieuwe integratieopties, updates van API-versies en een nieuwe reeks &#39;Hoe kan ik&#39;-artikelen die codevoorbeelden en aanbevolen procedures voor integratie met het Marketo-platform bevatten.
+Het [Marketo Developer-blog](http://developers.marketo.com/blog/) is gewijd aan webontwikkelaars en software-engineers die de snel evoluerende behoeften van de moderne markator ondersteunen. U kunt zich abonneren op aankondigingen over nieuwe integratieopties, updates van API-versies en een nieuwe reeks &#39;Hoe kan ik&#39;-artikelen die codevoorbeelden en aanbevolen procedures voor integratie met het Marketo-platform bevatten.
 
-Het [eerste artikel](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) in deze reeks zal u door laten lopen hoe te om informatie over de mensen (klanten/contacten/lood) efficiënt terug te winnen die binnen Marketo gebruikend API worden opgeslagen.
+Het [eerste artikel](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) in deze reeks zal u door hoe te om informatie over de mensen (klanten/contacten/lood) efficiënt terug te winnen die binnen Marketo gebruikend API worden opgeslagen.
