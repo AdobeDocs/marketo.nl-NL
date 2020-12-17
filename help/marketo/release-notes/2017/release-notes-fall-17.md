@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: Herfst &#39;17 {#release-notes-fall}
+# Opmerkingen bij de release: &#39;17 {#release-notes-fall}
 
 De volgende functies zijn opgenomen in de Fall &#39;17-release. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
 
@@ -60,11 +60,11 @@ We hebben twee functies uitgebracht als onderdeel van onze nieuwe Slack-integrat
 
 Marketo ABM synchroniseert nu CRM-accounts en geeft deze weer zonder contactpersonen. Neem nieuwe accounts op zonder verkoopgeschiedenis of marketinggeschiedenis en volg de vorderingen door de volgende resultaten af te stemmen op de accounts.
 
-## `<sup>AI </sup>`ContentAnalytics {#contentai-analytics}
+## Inhoud`<sup>AI </sup>`Analyse {#contentai-analytics}
 
 ** [Nieuw ABM-accountlijstfilter](https://docs.marketo.com/x/1BPG) **
 
-De prestaties van inhoud in ABM-accountlijsten bekijken en vergelijken om bestaande inhoud te optimaliseren. Inhoud`<sup>AI</sup>` laat u zien:
+De prestaties van inhoud in ABM-accountlijsten bekijken en vergelijken om bestaande inhoud te optimaliseren. Inhoud`<sup>AI</sup>` toont u:
 
 * bovenste inhoud weergegeven
 * geconverteerde inhoud boven
@@ -78,18 +78,18 @@ Tokens zijn nu beschikbaar voor gebruik in webcampagnes. Gebruik tokens om geper
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-** [Design Studio Images in Web Campaign Editor](https://docs.marketo.com/x/SwJI)**
+** [Studio-afbeeldingen ontwerpen in de webcampagneeditor](https://docs.marketo.com/x/SwJI)**
 
 Bespaar tijd door creatieve elementen en afbeeldingen op meerdere kanalen in Marketo opnieuw te gebruiken.
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## Integratie  {#integration}
+## Integratie {#integration}
 
 ** [E-mailvoorbeeld-API](https://developers.marketo.com/rest-api/assets/emails/)**
 
 U kunt nu op afstand een voorbeeld van een e-mailbericht weergeven buiten Marketo, het lokalisatieproces voor e-mailinhoud vereenvoudigen en fouten verminderen.
 
-** [HTML API](https://developers.marketo.com/rest-api/assets/emails/)vervangen**
+** [HTML API vervangen](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Ontwikkelaars kunnen HTML-inhoud van e-mailmiddelen op afstand bijwerken, zodat ze binnen één systeem kunnen werken om elementen te onderhouden.
