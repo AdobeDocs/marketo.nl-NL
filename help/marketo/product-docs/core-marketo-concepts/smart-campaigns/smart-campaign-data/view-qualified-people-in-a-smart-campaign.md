@@ -23,7 +23,7 @@ Bekijk mensen die in aanmerking komen om door de stroom te gaan wanneer u een sl
 >
 >De slimme campagnes van de trekker tonen geen gekwalificeerde mensen, aangezien zij op levende gebeurtenissen lopen.
 
-1. Het **Gekwalificeerde lusje van Mensen** maakt een lijst van de mensen die kwalificeren om door de stroom te gaan wanneer de campagne loopt.
+1. Het **Gekwalificeerde Mensen** lusje maakt een lijst van de mensen die kwalificeren om door de stroom te gaan wanneer de campagne loopt.
 
    ![](assets/qualifiedpeople-tab.png)
 
@@ -33,7 +33,7 @@ Bekijk mensen die in aanmerking komen om door de stroom te gaan wanneer u een sl
 
    >[!NOTE]
    >
-   >Het aantal gekwalificeerde mensen hangt ook af van de kwalificatieregels voor slimme campagnes. Leer hoe u kwalificatieregels [kunt](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)bewerken.
+   >Het aantal gekwalificeerde mensen hangt ook af van de kwalificatieregels voor slimme campagnes. Leer hoe u kwalificatieregels [bewerkt](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
 Zoet! U kunt deze lijst gebruiken om te controleren welke mensen door de stroom zouden kunnen gaan alvorens u een slimme campagne in werking stelt.
 
