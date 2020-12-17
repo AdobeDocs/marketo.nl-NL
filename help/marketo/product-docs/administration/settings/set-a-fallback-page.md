@@ -19,15 +19,15 @@ Terugvalpagina&#39;s zijn de laatste verdedigingsregel als de landingspagina off
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik onder **Beheer** op **Pagina&#39;s** landen.
+1. Klik onder **Admin** op **Pagina&#39;s laden**.
 
    ![](assets/image2014-9-10-12-3a7-3a22.png)
 
-1. Klik onder het tabblad **Landingpagina** &#39;s op **Bewerken**.
+1. Klik onder **Landing Pages** tabblad op **Edit**.
 
    ![](assets/image2014-9-10-12-3a7-3a5.png)
 
-1. Voer een pagina **voor** alternatieven in het dialoogvenster in en klik op **Opslaan**.
+1. Voer een **Fallback-pagina** in het dialoogvenster in en klik op **Opslaan**.
 
    ![](assets/image2014-9-10-12-3a6-3a2.png)
 
