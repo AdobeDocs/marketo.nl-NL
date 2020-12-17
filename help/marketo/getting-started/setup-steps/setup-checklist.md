@@ -11,16 +11,16 @@ ht-degree: 0%
 ---
 
 
-# Controlelijst instellen {#setup-checklist}
+# Checklist {#setup-checklist} instellen
 
-Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst om dingen aan de slag te krijgen. De details kunnen in de Stappen [van de](/help/marketo/getting-started/setup-steps.md)Opstelling worden gevonden.
+Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst om dingen aan de slag te krijgen. De details kunnen in [Stappen van de Opstelling worden gevonden](/help/marketo/getting-started/setup-steps.md).
 
-## Meld u aan bij Marketo en maak extra gebruikers {#log-in-to-marketo-and-create-additional-users}
+## Aanmelden bij Marketo en extra gebruikers maken {#log-in-to-marketo-and-create-additional-users}
 
 1. Aanmelden bij Marketo
 1. Extra gebruikers maken
 
-## Een contactpersoon voor geautoriseerde ondersteuning instellen {#set-up-an-authorized-support-contact}
+## Stel een contactpersoon voor geautoriseerde ondersteuning in {#set-up-an-authorized-support-contact}
 
 1. Een geautoriseerde contactpersoon voor ondersteuning instellen
 1. URL&#39;s van bestemmingspagina&#39;s aanpassen
@@ -28,7 +28,7 @@ Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst
 1. Vraag IT om een DNS Verslag voor uw het Landen NAAM van de Pagina tot stand te brengen
 1. Als de IT-afdeling gereed is, stelt u de domeinnaam van de bestemmingspagina in Marketo in
 
-## E-maillevering garanderen {#ensure-email-deliverability}
+## Leverbaarheid via e-mail {#ensure-email-deliverability} garanderen
 
 1. Een e-mailNAAM selecteren voor koppelingen met branding
 1. Vraag IT om opstelling een DNS verslag voor uw e-mailNAAM
@@ -37,7 +37,7 @@ Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst
 1. MX instellen voor `[FromDomain1]`
 1. Als u klaar bent met de e-mailNAAM, stelt u uw e-mailNAAM in Marketo in
 
-## Een URL verzenden voor bestemmingspagina en e-mailsjablonen {#submit-a-url-for-landing-page-and-email-templates}
+## Een URL verzenden voor het openen van pagina- en e-mailsjablonen {#submit-a-url-for-landing-page-and-email-templates}
 
 1. Formulier invullen om een URL voor nieuwe sjablonen te verzenden
 
