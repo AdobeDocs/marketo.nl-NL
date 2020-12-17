@@ -15,11 +15,11 @@ ht-degree: 0%
 
 De stappen van de stroom vertellen Marketo wat u met een groep mensen wilt gebeuren die kwalificeren. Het zijn je instructies en de slimme campagne doet je bod!
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer uw slimme campagne en klik op **Stroom**.
+1. Selecteer uw slimme campagne en klik **Stroom**.
 
 ![](assets/image2014-9-19-16-3a27-3a1.png)
 
@@ -32,7 +32,7 @@ Typ om te zoeken naar een flowstap en sleep deze naar het canvas. U kunt meerder
 >**Diep duiken**
 >
 >
->Meer informatie over de verschillende [stroomstappen](http://docs.marketo.com/display/DOCS/Flow+Actions).
+>Meer informatie over de verschillende [flowstappen](http://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Klik op de vervolgkeuzelijst en kies een geschikte optie.
 
@@ -47,7 +47,7 @@ Typ om te zoeken naar een flowstap en sleep deze naar het canvas. U kunt meerder
    >**Herinnering**
    >
    >
-   >De stappen van de stroom worden uitgevoerd in de orde waarin zij worden vermeld.  [Wijzig de volgorde van de stroomstappen](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) om ervoor te zorgen dat ze in de juiste volgorde staan.
+   >De stappen van de stroom worden uitgevoerd in de orde waarin zij worden vermeld.  [Herplaats de ](add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md) stroomstappen om ervoor te zorgen dat ze in de juiste volgorde staan.
 
    >[!TIP]
    >
