@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een werkruimte verwijderen {#delete-a-workspace}
+# Een werkruimte {#delete-a-workspace} verwijderen
 
 >[!NOTE]
 >
