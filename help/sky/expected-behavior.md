@@ -26,10 +26,10 @@ In dit artikel vindt u informatie over het verwachte gedrag dat is gekoppeld aan
 * PA is toegankelijk in zowel Marketo Sky als de Klassieke ervaring van Marketo. De beschikbaarheid van specifieke functies is als volgt:
    * Predictieve filters - [!DNL Sky/Classic]
    * Geprojecteerde registraties - [!DNL Sky/Classic]
-   * Prognoses waarschijnlijkheid op loodniveau - [!DNL Sky/Classic]
-   * Doelstellingen en reeksspatiëring - [!DNL Sky] alleen
-   * Inzichten en aanbevelingen - [!DNL Sky] alleen
-* [De eerste activering](/help/sky/getting-started-with-predictive-audiences.md) duurt **24-48 uur** voordat alle processen zijn voltooid nadat PA is ingeschakeld. Alle voorspellende soorten publiek en voorspellende filters worden weergegeven in de interface, maar het kan tot 24 uur duren voordat deze functies beginnen te werken.
+   * Prognoses waarschijnlijkheid op regelniveau - [!DNL Sky/Classic]
+   * Doelstellingen en reeksspatiëring - alleen [!DNL Sky]
+   * Inzichten en aanbevelingen - alleen [!DNL Sky]
+* [De eerste ](/help/sky/getting-started-with-predictive-audiences.md) activering duurt **24-48** uur voordat alle processen zijn voltooid nadat PA is ingeschakeld. Alle voorspellende soorten publiek en voorspellende filters worden weergegeven in de interface, maar het kan tot 24 uur duren voordat deze functies beginnen te werken.
 * **Er worden alleen voorspellingen gegenereerd voor nieuwe campagnes die worden gemaakt nadat de functie is geactiveerd.**
 
 ## Er zijn enkele aanvullende overwegingen die specifiek zijn voor voorspellende filters:
@@ -39,9 +39,9 @@ In dit artikel vindt u informatie over het verwachte gedrag dat is gekoppeld aan
 * Predictieve filters zijn niet beschikbaar voor triggercampagnes.
 * Om een slimme campagne te kunnen uitvoeren, moeten waarschijnlijke filters worden gebruikt in combinatie met andere gewone filters.
 * De functie Opgeslagen regels is niet beschikbaar voor gebruik in campagnes die voorspellende filters bevatten.
-* U kunt **maximaal vijf** voorspellende filters in een slimme lijst gebruiken.
-* Predictieve filters kunnen **maximaal 1 miljoen gekwalificeerde leads** verwerken.
-* U kunt **maximaal 50 actieve programma&#39;s** met voorspellende filters hebben. Een actief programma is elk programma dat voorspellende filters gebruikt en minstens één keer gepland is.
+* U kunt **maximaal 5** voorspellende filters in een slimme lijst gebruiken.
+* Predictieve filters kunnen een **maximum van 1 miljoen gekwalificeerde lood** verwerken.
+* U kunt **tot 50 actieve programma&#39;s** met vooruitlopende filters hebben. Een actief programma is elk programma dat voorspellende filters gebruikt en minstens één keer gepland is.
 
 ## Wanneer zijn geplande registraties niet beschikbaar?
 
