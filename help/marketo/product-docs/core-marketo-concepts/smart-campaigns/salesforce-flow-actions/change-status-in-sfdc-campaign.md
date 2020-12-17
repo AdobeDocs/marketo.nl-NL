@@ -27,11 +27,11 @@ Als een leiding niet bestaat in Salesforce of nog geen lid is van de campagne, w
 
 ## Gebruik {#usage}
 
-1. Zoek eerst de Salesforce- **campagne** waarin de record zich bevindt en selecteer deze.
+1. Zoek en selecteer eerst de Salesforce **Campagne** waarin de record zich bevindt.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Selecteer vervolgens de **nieuwe** **status** die u wilt instellen en u bent klaar!
+1. Selecteer vervolgens **Nieuw** **Status** die u wilt instellen en u bent klaar!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)
 
