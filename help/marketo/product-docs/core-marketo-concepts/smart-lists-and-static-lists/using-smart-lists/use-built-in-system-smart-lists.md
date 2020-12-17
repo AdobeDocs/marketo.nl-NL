@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ingebouwde/systeemslimme lijsten gebruiken {#use-built-in-system-smart-lists}
+# Ingebouwde lijst/slimme lijst van het Systeem gebruiken {#use-built-in-system-smart-lists}
 
 Marketo bevat enkele zeer nuttige ingebouwde slimme lijsten. Laten we ze eens bekijken!
 
@@ -23,11 +23,11 @@ Marketo bevat enkele zeer nuttige ingebouwde slimme lijsten. Laten we ze eens be
 
    ![](assets/db.png)
 
-1. Open de map **System Smart Lists** om de verzameling weer te geven.
+1. Open de map **Systeemslimme lijsten** om de verzameling zichtbaar te maken.
 
    ![](assets/two.png)
 
-1. Een voorbeeld bekijken: Selecteer **Alle personen** en klik op het tabblad **Personen** .
+1. Een voorbeeld bekijken: Selecteer **Alle Mensen**, dan klik **Mensen** tabel.
 
    ![](assets/three.png)
 
