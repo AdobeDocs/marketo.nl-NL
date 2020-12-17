@@ -15,41 +15,41 @@ ht-degree: 0%
 
 Een accountlijst is een verzameling benoemde accounts die gezamenlijk kunnen worden geactiveerd. Met accountlijsten kunt u benoemde accounts instellen op branche, locatie of grootte van het bedrijf.
 
-Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegenereerd op basis van openbare CRM-accountweergaven. Een mening van de Rekening van CRM is een reeks regels die als filter dienst doet wanneer het tonen van rekeningen. U kunt het bijvoorbeeld gebruiken om accounts te zoeken waarin de industrie gezondheidszorg is *en* de omzet meer dan € 100 miljoen bedraagt.
+Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegenereerd op basis van openbare CRM-accountweergaven. Een mening van de Rekening van CRM is een reeks regels die als filter dienst doet wanneer het tonen van rekeningen. U kunt het bijvoorbeeld gebruiken om te zoeken naar accounts waarin de industrie gezondheidszorg *en*-inkomsten hoger zijn dan $100M.
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->Accountlijsten die zijn gemaakt in Marketo Account Based Marketing zijn automatisch beschikbaar wanneer u slimme lijsten en webcampagnes maakt in [webpersonalisatie](http://docs.marketo.com/display/DOCS/RTP+Segments).
+>Accountlijsten die zijn gemaakt in Marketo Account Based Marketing zijn automatisch beschikbaar wanneer u slimme lijsten en webcampagnes maakt in [Webpersonalisatie](http://docs.marketo.com/display/DOCS/RTP+Segments).
 
 ## Een nieuwe accountlijst maken {#create-a-new-account-list}
 
-1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer **Nieuwe accountlijst** maken.
+1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer **Nieuwe accountlijst maken**.
 
    ![](assets/1a.png)
 
-1. Geef de lijst een naam en klik op **Maken**.
+1. Geef uw lijst een naam en klik **Create**.
 
    ![](assets/three-0.png)
 
-1. Nadat u uw accountlijst hebt gemaakt, gaat u [er een benoemde account aan toevoegen](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
+1. Nadat u uw rekeningslijst creeert, begin op [toevoegend genoemde rekeningen aan het](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
 
    >[!NOTE]
    >
    >Marketo geeft alleen inzichten weer voor accountlijsten met 2.000 of minder benoemde accounts.
 
-## Een nieuwe dynamische accountlijst maken {#create-a-new-dynamic-account-list}
+## Nieuwe dynamische accountlijst maken {#create-a-new-dynamic-account-list}
 
-1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer Nieuwe dynamische lijst **** maken.
+1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer **Nieuwe dynamische lijst maken**.
 
    ![](assets/1.png)
 
-1. Selecteer in het dialoogvenster een **CRM-accountweergave** in de vervolgkeuzelijst of typ de naam die u wilt zoeken.
+1. In de dialoog, selecteer **de Mening van de Rekening van CRM** van drop-down, of typ in de naam om naar het te zoeken.
 
    ![](assets/image2017-7-18-9-48-23.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/step4.jpg)
 
@@ -61,9 +61,9 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 
 >[!NOTE]
 >
->Deze stappen zijn alleen van toepassing op accountlijsten. *In dynamische* accountlijsten wordt de naam van de bijbehorende CRM-accountweergaven gebruikt.
+>Deze stappen zijn alleen van toepassing op accountlijsten. *In de lijst* Dynamicaccount wordt de naam van de bijbehorende CRM-accountweergaven gebruikt.
 
-1. Selecteer de account waarvan u de naam wilt wijzigen, klik op de vervolgkeuzelijst Handelingen **** accountlijst en selecteer **Naam van accountlijst** wijzigen.
+1. Selecteer de account waarvan u de naam wilt wijzigen, klik op de vervolgkeuzelijst **Accountlijst Handelingen** en selecteer **Naam van accountlijst wijzigen**.
 
    ![](assets/three.png)
 
@@ -81,11 +81,11 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 >
 >Deze stappen zijn hetzelfde voor zowel accountlijsten als dynamische accountlijsten.
 
-1. Selecteer de account die u wilt verwijderen, klik op de vervolgkeuzelijst Handelingen **** accountlijst en selecteer Accountlijst **** verwijderen.
+1. Selecteer de account die u wilt verwijderen, klik op de vervolgkeuzelijst **Accountlijsthandelingen** en selecteer **Accountlijst verwijderen**.
 
    ![](assets/five.png)
 
-1. Klik op **Verwijderen**.
+1. Klik **Delete**.
 
    ![](assets/six.png)
 
