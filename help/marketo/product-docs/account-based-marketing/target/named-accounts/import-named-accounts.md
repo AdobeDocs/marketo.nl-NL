@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Benoemde accounts importeren {#import-named-accounts}
+# Benoemde accounts {#import-named-accounts} importeren
 
 Beschikt de CSV al over een volledig overzicht van de potentiële doelrekeningen? Importeer ze rechtstreeks in ABM!
 
-1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer Benoemde accounts **** importeren.
+1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer **Benoemde accounts importeren**.
 
    ![](assets/inaone.png)
 
-1. Er wordt een nieuw venster geopend. Klik op **Bladeren** en selecteer het bestand met benoemde accounts die u wilt importeren.
+1. Er wordt een nieuw venster geopend. Klik **Bladeren**, dan selecteer het dossier van genoemde rekeningen u wilt invoeren.
 
    ![](assets/inatwo.png)
 
@@ -33,9 +33,9 @@ Beschikt de CSV al over een volledig overzicht van de potentiële doelrekeningen
 
    >[!NOTE]
    >
-   >Als u **Op de Wijze** van het Domein kiest, zowel moeten de genoemde rekening als de domeingebieden worden omvat.
+   >Als u **Op de Wijze van het Domein** kiest, zowel moeten de genoemde rekening als de domeingebieden worden omvat.
 
-1. Als u wilt kiezen aan welke accountlijst uw benoemde account wordt toegevoegd, klikt u op de vervolgkeuzelijst **Accountlijst** en selecteert u deze.
+1. Klik op de vervolgkeuzelijst **Accountlijst** en maak uw selectie om aan te geven aan welke account u een accountlijst wilt toevoegen.
 
    ![](assets/inafour.png)
 
@@ -43,15 +43,15 @@ Beschikt de CSV al over een volledig overzicht van de potentiële doelrekeningen
    >
    >U kunt ook een gloednieuwe accountlijst maken door de naam ervan in de keuzelijst te typen.
 
-1. Als u een bericht over het importeren wilt verzenden, klikt u op de vervolgkeuzelijst Waarschuwing **verzenden naar** en selecteert u een Marketo-gebruiker. U *kunt niet* handmatig een e-mailadres invoeren.
+1. Als u een bericht over het importeren wilt verzenden, klikt u op de vervolgkeuzelijst **Waarschuwing verzenden naar** en selecteert u een gebruiker van Marketo. U *kunt niet* manueel een e-mailadres ingaan.
 
    ![](assets/inafive-2.png)
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/inasix-2.png)
 
-1. Wijs elk veld toe door te dubbelklikken op de vervolgkeuzelijst **Marketo-veld** en het desbetreffende veld te selecteren. Klik op **Volgende** als u klaar bent.
+1. Wijs elk veld toe door te dubbelklikken op het vervolgkeuzemenu **Marketo-veld** en het desbetreffende veld te selecteren. Klik **Volgende** wanneer gereed.
 
    ![](assets/inaseven.png)
 
