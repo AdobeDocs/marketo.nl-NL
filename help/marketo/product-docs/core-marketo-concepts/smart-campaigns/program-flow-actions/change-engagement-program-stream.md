@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Betrokkenheidsprogrammastroom wijzigen {#change-engagement-program-stream}
+# Stream voor betrokkenheidsprogramma wijzigen {#change-engagement-program-stream}
 
 ## Overzicht {#overview}
 
-Normaal gebruikt u hiertoe [stroomovergangsregels](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) , maar als u handmatig personen van de ene stroom naar de andere wilt verplaatsen, is dit de te gebruiken stroomstap.
+Normaal zou u [stroom overgangsregels](../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) gebruiken om dit te bereiken, maar als u mensen van één stroom aan een andere manueel wilt bewegen, is dit de stroomstap aan gebruik.
 
 ![](assets/image2014-9-22-14-3a52-3a14.png)
 
