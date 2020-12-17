@@ -23,7 +23,7 @@ Opstelling uw kalenderpresentatie om op de doelstellingen en de activiteiten te 
 
 >[!PREREQUISITES]
 >
->* [Aangepaste doelen](create-a-custom-goal.md) of doelen voor [slimme lijsten maken](create-a-smart-list-goal.md)
+>* [Aangepaste ](create-a-custom-goal.md) doelen of doelen voor  [slimme lijsten maken](create-a-smart-list-goal.md)
    >
    >
 * [Een presentatie maken](create-a-presentation.md)
@@ -32,7 +32,7 @@ Opstelling uw kalenderpresentatie om op de doelstellingen en de activiteiten te 
 
 
 
-## De weergaven kiezen {#choosing-the-views}
+## Weergaven kiezen {#choosing-the-views}
 
 Presentations doorloopt de verschillende [filterdefinities](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) die u kiest. Trek zoveel weergaven in als u wilt en pas de frequentie aan.
 
@@ -42,7 +42,7 @@ Presentations doorloopt de verschillende [filterdefinities](../../../../product-
 
 ## Een doel toevoegen {#add-a-goal}
 
-Presentations is het meest fantastisch wanneer ze uw teamdoelen weergeven. Sleep over verschillende [aangepaste doelen](create-a-custom-goal.md) of [slimme lijstdoelen](create-a-smart-list-goal.md). U kunt maximaal 10 gebruiken.
+Presentations is het meest fantastisch wanneer ze uw teamdoelen weergeven. Sleep gewoon over verschillende [aangepaste doelen](create-a-custom-goal.md) of [slimme lijstdoelen](create-a-smart-list-goal.md). U kunt maximaal 10 gebruiken.
 
 1. Sleep vanuit de rechterstructuur in de verschillende doelen die u in uw presentatie wilt weergeven.
 
@@ -56,11 +56,11 @@ Als u de gewenste weergaven voor de presentatie hebt weergegeven, stelt u de fre
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. Voer een tijd in met minuten. Klik op **Opslaan**.
+1. Voer een tijd in met minuten. Klik **Opslaan**.
 
    >[!NOTE]
    >
-   >Eén statische weergave weergeven door Rotatie **uitschakelen** te controleren.
+   >Eén statische weergave weergeven door **Rotatie uitschakelen** te controleren.
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
@@ -68,7 +68,7 @@ Als u de gewenste weergaven voor de presentatie hebt weergegeven, stelt u de fre
 
 De kalenderweergave kan worden gewijzigd in een weergave van 3 weken of per maand.
 
-1. Selecteer de vervolgkeuzelijst **Kalenderweergave** en kies tussen **3 weken** of één **maand**.
+1. Selecteer **Kalenderweergave** en kies tussen **3 weken** of een **Maand**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
