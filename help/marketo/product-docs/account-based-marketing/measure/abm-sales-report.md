@@ -17,7 +17,7 @@ Ontvang wekelijks een e-mail met je topaccounts en hun wekelijkse trends.
 
 >[!NOTE]
 >
->Leer hoe u dit rapport [hier](https://docs.marketo.com/x/drat)instelt.
+>Leer hoe u dit rapport [hier](https://docs.marketo.com/x/drat) instelt.
 
 Het verslag deelt:
 
@@ -28,7 +28,7 @@ Het verslag deelt:
 
 ![](assets/one-4.png)
 
-## Verkoop rapportnummer {#sales-report-key}
+## Verkooprapportsleutel {#sales-report-key}
 
 | **Accountscore** | Wekelijkse trend naar accountscore (geselecteerd in setup), gevolgd door huidige accountscore |
 |---|---|
