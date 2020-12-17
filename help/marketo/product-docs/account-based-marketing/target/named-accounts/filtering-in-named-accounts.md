@@ -35,7 +35,7 @@ Filteren is een geweldige manier om gegevens snel omlaag te brengen.
 
    ![](assets/filter-3.png)
 
-1. Typ onder **Werknemers**&quot;0&quot; in het veld **Min** , &quot;10000&quot; in het veld **Max** en klik op **Toepassen**.
+1. Typ onder **Werknemers** &quot;0&quot; in het veld **Min**, &quot;10000&quot; in het veld **Max** en klik vervolgens op **Toepassen**.
 
    ![](assets/four-2.png)
 
@@ -43,5 +43,5 @@ Filteren is een geweldige manier om gegevens snel omlaag te brengen.
 
    >[!NOTE]
    >
-   >Als u meer filters wilt toevoegen waaruit u kunt kiezen, klikt u op Filter **** toevoegen linksonder in het formulier.
+   >Als u meer filters wilt toevoegen waaruit u kunt kiezen, klikt u op **Filter toevoegen** linksonder in het formulier.
 
