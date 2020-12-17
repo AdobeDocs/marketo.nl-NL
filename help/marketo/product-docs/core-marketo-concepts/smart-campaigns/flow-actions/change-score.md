@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Score wijzigen {#change-score}
+# Score {#change-score} wijzigen
 
 ## Overzicht {#overview}
 
@@ -27,7 +27,7 @@ Het noteren van mensen is gemakkelijk en krachtig om uw verkoopteam te helpen vo
 
    >[!TIP]
    >
-   >U kunt meerdere scorevelden maken. Zie Een aangepast veld [maken in Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) voor meer informatie.
+   >U kunt meerdere scorevelden maken. Zie [Een aangepast veld maken in Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) voor meer informatie.
 
 1. Voer de gewenste score in.
 
@@ -37,8 +37,8 @@ Het noteren van mensen is gemakkelijk en krachtig om uw verkoopteam te helpen vo
 
    * **+5** tot verhogen
    * **-5** wordt verlaagd (negatieve getallen zijn toegestaan)
-   * **=5** maakt de score precies zo hoog
-   * **=-5** maakt de score exact negatief getal
+   * **=5** maakt de score precies dat aantal
+   * **=-5** maakt de score exact een negatief getal
 
    U kunt snel basisscoring instellen en de resultaten na verloop van tijd aanpassen. Dat is wat we deden!
 
