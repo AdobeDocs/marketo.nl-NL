@@ -25,7 +25,7 @@ Marketo&#39;s aangepaste JavaScript-trackingcode, Munchkin, volgt alle personen 
 >
 >Adobe Experience Cloud-klanten kunnen ook gebruikmaken van de integratie van Marketo in Adobe Launch om Munchkin-script op hun webpagina&#39;s op te nemen. Download de app [hier](https://www.adobeexchange.com/experiencecloud.details.101054.html).
 
-1. Ga naar **Admin** en klik op **Munchkin** in de boomstructuur links.
+1. Ga naar **Admin** en klik **Munchkin** in de boom op de linkerzijde.
 
    ![](assets/image2015-8-25-16-3a21-3a14.png)
 
@@ -49,7 +49,7 @@ Marketo&#39;s aangepaste JavaScript-trackingcode, Munchkin, volgt alle personen 
    >
    >Plaats trackingcode op de webpagina&#39;s die u wilt bijhouden. Dit kan elke pagina voor kleinere plaatsen, of slechts zeer belangrijke pagina&#39;s op plaatsen zijn die vele dynamisch geproduceerde Web-pagina&#39;s, gebruikersforums, etc. hebben.
 
-   Voor de beste resultaten gebruikt u de asynchrone Munchkin-code en plaatst u deze in de `<head>` elementen van uw pagina&#39;s. Als u de eenvoudige code gebruikt (niet geadviseerd), is dit recht vóór de `</body>` markering.
+   Voor de beste resultaten gebruikt u de asynchrone Munchkin-code en plaatst u deze in de `<head>`-elementen van uw pagina&#39;s. Als u de eenvoudige code gebruikt (niet geadviseerd), is dit recht vóór de `</body>` markering.
    ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!TIP]
@@ -84,7 +84,7 @@ Als u Werkruimten gebruikt in uw Marketo-account, hebt u waarschijnlijk ook apar
 >
 >Gebruik niet de code die in deze schermafbeelding wordt weergegeven. U moet de unieke code gebruiken die in uw account wordt weergegeven!
 
-1. Plaats de trackingcode op uw webpagina&#39;s in het `<head>` element. Nieuwe personen die deze pagina bezoeken, worden toegewezen aan deze partitie.
+1. Plaats de volgcode op uw webpagina&#39;s in het element `<head>`. Nieuwe personen die deze pagina bezoeken, worden toegewezen aan deze partitie.
 
 ![](assets/image2015-8-25-16-3a5-3a20.png)
 
@@ -113,15 +113,15 @@ U kunt als volgt controleren of uw Munchkin-code werkt nadat u deze hebt toegevo
 
    ![](assets/mainnav-analytics-hand.png)
 
-1. Klik op **Webpaginageactiviteit**.
+1. Klik **Activiteit van de Web-pagina**.
 
    ![](assets/webanalytics.png)
 
-1. Klik het lusje van de **Opstelling** , klik de Bron **van de** Activiteit tweemaal, en verander het in **Anonieme Bezoekers (met inbegrip van ISPs)**.
+1. Klik **Opstelling** lusje, klik **Bron van de activiteit** tweemaal, en verander het in **Anonieme Bezoekers (met inbegrip van ISPs)**.
 
    ![](assets/analytics-activity-source.png)
 
    ![](assets/activitysource.png)
 
-1. Klik op het tabblad **Rapport** . Als u geen gegevens ziet, wacht u een paar minuten en klikt u op het pictogram Vernieuwen onder aan het scherm.
+1. Klik op het tabblad **Rapport**. Als u geen gegevens ziet, wacht u een paar minuten en klikt u op het pictogram Vernieuwen onder aan het scherm.
 
