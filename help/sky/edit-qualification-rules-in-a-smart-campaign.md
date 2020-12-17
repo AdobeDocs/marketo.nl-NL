@@ -16,15 +16,15 @@ ht-degree: 0%
 
 De regels van de erkenning bepalen hoe vaak iemand door de stroom in een slimme campagne kan lopen. Zelfs als iemand een slimme campagne meerdere keren activeert, worden deze standaard slechts eenmaal door de flow verzonden. Hier is hoe te om die montages te wijzigen.
 
-1. Selecteer de campagne en ga naar het **[!UICONTROL Schedule]** tabblad.
+1. Selecteer de campagne en ga naar **[!UICONTROL Schedule]** tabel.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-1.png)
 
-1. Klik **[!UICONTROL Edit Recurrence]**.
+1. Klik op **[!UICONTROL Edit Recurrence]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-2.png)
 
-1. Kies hoe vaak u uw mensen door de slimme campagnestroom wilt leiden: **[!UICONTROL daily]**, **[!UICONTROL weekly]**, **[!UICONTROL monthly]**, of **[!UICONTROL once every # days]**.
+1. Kies hoe vaak u uw mensen door de slimme campagnestroom wilt leiden: **[!UICONTROL daily]**, **[!UICONTROL weekly]**, **[!UICONTROL monthly]** of **[!UICONTROL once every # days]**.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-3.png)
 
@@ -42,4 +42,4 @@ De regels van de erkenning bepalen hoe vaak iemand door de stroom in een slimme 
 
 **Herinnering**
 
-Communicatielimieten worden standaard niet toegepast op slimme campagnes. Leer hoe u communicatielimieten kunt [toepassen op een slimme campagne](https://docs.marketo.com/display/DOCS/Apply+Communication+Limits+to+Smart+Campaign).
+Communicatielimieten worden standaard niet toegepast op slimme campagnes. Leer hoe u communicatielimieten [toepast op een slimme campagne](https://docs.marketo.com/display/DOCS/Apply+Communication+Limits+to+Smart+Campaign).
