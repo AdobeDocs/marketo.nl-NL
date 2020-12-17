@@ -48,7 +48,7 @@ Als u met Marketo via de ReST API wilt integreren, zult u een douanedienst wille
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. Voer een **weergavenaam** voor de service in. Selecteer de Gebruiker **van Alleen** API [eerder gecreeerd](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Voer een **Weergavenaam** voor de service in. Selecteer **Alleen API Gebruiker** [eerder gemaakt](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    >[!NOTE]
    >
@@ -58,7 +58,7 @@ Als u met Marketo via de ReST API wilt integreren, zult u een douanedienst wille
 
    ![](assets/image2014-9-19-10-3a38-3a32.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/image2014-9-19-10-3a39-3a28.png)
 
@@ -70,15 +70,15 @@ Als u met Marketo via de ReST API wilt integreren, zult u een douanedienst wille
 
    ![](assets/image2014-9-19-10-3a42-3a11.png)
 
-1. Klik op Details **van** weergave voor de hierboven gemaakte aangepaste LaunchPoint-service.
+1. Klik **Details weergeven** voor de aangepaste LaunchPoint-service die hierboven is gemaakt.
 
    ![](assets/image2014-9-19-10-3a42-3a16.png)
 
-1. Klik op Token **ophalen**.
+1. Klik **Token ophalen**.
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. Geef de** Client ID**, **Client Secret**, **Authorized User** en **Token** door aan de persoon die verantwoordelijk is voor het tot stand brengen van de verbinding.
+1. Geef de ** Client ID**, **Client Secret**, **Authorized User** en **Token** op aan de persoon die verantwoordelijk is voor het tot stand brengen van de verbinding.
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
