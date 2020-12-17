@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Leden van een betrokkenheidsprogramma bekijken {#see-members-of-an-engagement-program}
+# Zie Leden van een betrokkenheidsprogramma {#see-members-of-an-engagement-program}
 
 U kunt snel leden van een betrokkenheidsprogramma zien. Zo gaat het.
 
-1. Klik in uw betrokkenheidsprogramma met de rechtermuisknop en selecteer Leden **weergeven.**
+1. Klik in uw betrokkenheidsprogramma met de rechtermuisknop en selecteer **Leden weergeven.**
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >De [Uitgebreide de kolomwaarde van de Inhoud](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) wordt bijgewerkt na elke gietvorm.
+   >De [Uitgebreide inhoud](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) kolomwaarde wordt bijgewerkt na elke gietvorm.
 
 1. U kunt nu alle leden van uw programma zien.
 
