@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Campagnemappen helpen u een moeilijke werkruimte te houden. Volg deze eenvoudige stappen en je bent op weg naar automatisering magie.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,11 +27,11 @@ Campagnemappen helpen u een moeilijke werkruimte te houden. Volg deze eenvoudige
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Voer een **naam** in voor de campagnemap.
+1. Voer een **Naam** voor de campagnemap in.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Optioneel: Voer een **beschrijving** in en klik op** Maken. **
+1. Optioneel: Voer een **Beschrijving** in en klik op** Maken. **
 
    >[!TIP]
    >
@@ -43,7 +43,7 @@ Campagnemappen helpen u een moeilijke werkruimte te houden. Volg deze eenvoudige
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Wanneer u nu een nieuw programma [](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)maakt, ziet u deze campagnemap als optie.
+   Nu wanneer [het creëren van een nieuw programma](../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), zult u deze campagnemap als optie zien.
 
 >[!MORELIKETHIS]
 >
