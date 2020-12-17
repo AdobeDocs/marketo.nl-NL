@@ -18,7 +18,7 @@ Hier zijn de grondbeginselen om u te helpen de mening van het programmaprogramma
 
 ## De overzichtsweergave zoeken
 
-Selecteer het programma in de boomstructuur. Klik onder het [!UICONTROL Details] tabblad op [!UICONTROL Schedule].
+Selecteer het programma in de boomstructuur. Klik op [!UICONTROL Details] onder het tabblad [!UICONTROL Schedule].
 
 ![Afbeelding één](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-1.png)
 
@@ -34,6 +34,6 @@ In de Agenda worden alle vermeldingen in een bepaalde maand weergegeven.
 
 ## Instellingen weergeven
 
-Klik in de rechterbovenhoek van de programmaweergave van het programma [!UICONTROL View Settings] om de items te filteren op [!UICONTROL Tentative], [!UICONTROL Confirmed]en/of [!UICONTROL Finished].
+Klik in de rechterbovenhoek van de programmaweergave op [!UICONTROL View Settings] om de items met [!UICONTROL Tentative], [!UICONTROL Confirmed] en/of [!UICONTROL Finished] te filteren.
 
 ![Afbeelding vier](/help/sky/assets/program-schedule-view/navigating-program-schedule-view/navigating-program-schedule-view-4.png)
