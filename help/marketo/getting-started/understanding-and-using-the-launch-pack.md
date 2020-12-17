@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Het begrijpen van en het Gebruiken van de Pak van de Lancering {#understanding-and-using-the-launch-pack}
+# Het begrijpen van en het Gebruiken van het Pak van de Lancering {#understanding-and-using-the-launch-pack}
 
 ![](assets/coming-soon.png)
 
