@@ -13,8 +13,8 @@ ht-degree: 0%
 
 # SEO - Problemen exporteren naar CSV {#seo-export-issues-to-csv}
 
-1. U kunt de gegevens van uw [paginauitgifte](seo-understanding-pages.md) exporteren naar een CSV-bestand als u die gegevens wilt delen met personen buiten Marketo. Zo gaat het.
-1. Ga naar de sectie **Pagina** &#39;s.
+1. U kunt uw [paginauitgave](seo-understanding-pages.md) gegevens naar een Csv- dossier uitvoeren als u die informatie met mensen buiten Marketo wilt delen. Zo gaat het.
+1. Ga naar de sectie **Pagina&#39;s**.
 
    ![](assets/image2014-9-18-13-3a16-3a5.png)
 
@@ -22,11 +22,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a16-3a8.png)
 
-   Dit is de boor van het Detail van de [Pagina neer](seo-using-the-page-detail-drill-down.md). **De resultaten** van de optimalisering van de pagina is een lijst van alle kwesties met die bepaalde pagina.
+   Dit is de [boor van het Detail van de Pagina neer](seo-using-the-page-detail-drill-down.md). **De optimalisatie van de pagina** Resulteert uit een lijst van alle kwesties met die bepaalde pagina.
 
    ![](assets/image2014-9-18-13-3a16-3a12.png)
 
-1. Klik op **Exporteren**.
+1. Klik **Exporteren**.
 
    ![](assets/image2014-9-18-13-3a16-3a39.png)
 
