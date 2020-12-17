@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# Marketo-gebruikers beheren {#managing-marketo-users}
+# Markeringsgebruikers {#managing-marketo-users} beheren
 
-## Gebruikers maken {#create-users}
+## Gebruikers {#create-users} maken
 
-1. Ga naar **Beheer** en klik op **Gebruikers en rollen**.
+1. Ga naar **Admin** en klik **Gebruikers &amp; rollen**.
 
    ![](assets/image2014-9-9-11-3a34-3a58.png)
 
-1. Klik op Nieuwe gebruiker **uitnodigen**.
+1. Klik **Nieuwe gebruiker uitnodigen**.
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Voer het **e-mailadres**, de **voornaam** en de achternaam **in. **
+1. Voer het **e-mailadres**, **Voornaam** en **Achternaam in. **
 
    ** ![](assets/image2016-5-24-9-3a45-3a30.png)
 
    **
 
-1. Naar keuze, ga een reden voor de uitnodiging in en selecteer een vervaldatum op het gebied van de Verlopen **van de** Toegang gebruikend de datumkiezer.
+1. Naar keuze, ga een reden voor de uitnodiging in en selecteer een vervaldatum in **Toegang verloopt** gebied gebruikend de datumkiezer.
 
    ![](assets/image2016-6-29-15-3a52-3a18.png)
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/image2016-5-24-9-3a58-3a10.png)
 
@@ -45,11 +45,11 @@ ht-degree: 0%
    >
    >Wanneer de vervaldatum aankomt, ontvangt de gebruiker een vervalmelding en is zijn account vergrendeld.
 
-1. Selecteer **Rol **van uw keus en klik **daarna**.
+1. Selecteer de **Rol **van uw keus en klik **Volgende**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
-1. Breng indien nodig wijzigingen aan in het uitnodigingsbericht. Klik op **Verzenden**.
+1. Breng indien nodig wijzigingen aan in het uitnodigingsbericht. Klik **Send**.
 
    ![](assets/image2016-5-24-10-3a3-3a56.png)
 
@@ -65,7 +65,7 @@ ht-degree: 0%
 
 De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e-mail met instructies voor het activeren van hun account.
 
-## Gebruikers verwijderen {#delete-users}
+## Gebruikers {#delete-users} verwijderen
 
 1. Ga naar Beheer en klik op Gebruikers en rollen.
 
@@ -79,7 +79,7 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
    ![](assets/image2014-9-9-11-3a36-3a51.png)
 
-## Gebruikerswachtwoorden opnieuw instellen {#reset-user-passwords}
+## Gebruikerswachtwoorden {#reset-user-passwords} opnieuw instellen
 
 1. Ga naar Beheer en klik op Gebruikers en rollen.
 
@@ -103,15 +103,15 @@ De gebruiker ontvangt een e-mail met instructies voor het opnieuw instellen van 
 
 ## Machtigingen wijzigen en Gebruikersgegevens bewerken {#change-permissions-and-edit-user-information}
 
-1. Ga naar **Beheer** en klik op **Gebruikers en rollen.**
+1. Ga naar **Admin** en klik **Gebruikers &amp; rollen.**
 
    ![](assets/image2014-9-9-11-3a37-3a5.png)
 
-1. Selecteer een gebruiker en klik op Gebruiker **** bewerken.
+1. Selecteer een gebruiker en klik **Gebruiker bewerken**.
 
    ![](assets/image2014-9-9-11-3a37-3a16.png)
 
-1. U kunt gebruikersgegevens bewerken en de bijbehorende rol wijzigen. Klik op **Opslaan**.
+1. U kunt gebruikersgegevens bewerken en de bijbehorende rol wijzigen. Klik **Opslaan**.
 
    ![](assets/image2014-9-9-11-3a37-3a31.png)
 
