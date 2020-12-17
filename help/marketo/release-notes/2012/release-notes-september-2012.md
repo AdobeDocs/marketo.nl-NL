@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: september 2012 {#release-notes-september}
+# Opmerkingen bij de release: September 2012 {#release-notes-september}
 
 Deze release bevat zeer vooruitstrevende, geïntegreerde sociale kenmerken en toonaangevende managementtools! Opmerking: sociale functies zijn beschikbaar als invoegtoepassing of als onderdeel van geselecteerde bundels.
 
-## Een YouTube-video publiceren met sociale media {#publish-a-youtube-video-with-social-sharing}
+## Een YouTube-video met sociaal delen publiceren {#publish-a-youtube-video-with-social-sharing}
 
 Vergroot het publiek voor uw video&#39;s door uw bezoekers aan te moedigen om hen sociaal te delen, gebruikend het nieuwe VideoAandeel op uw landingspagina&#39;s.
 
@@ -27,13 +27,13 @@ Pas de deelberichten en de weergave van een nieuwe set knoppen voor sociaal dele
 
 ![](assets/image2014-9-23-10-3a39-3a46.png)
 
-## Aanmelden bij sociaal netwerk {#social-sign-on}
+## Aanmelden bij sociaal profiel {#social-sign-on}
 
 Verbeter inzicht en verminder wrijving door toe te staan leidt tot prefill vormen met informatie van hun sociale netwerken.
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Openingspagina&#39;s op Facebook publiceren {#publish-landing-pages-to-facebook}
+## Openingspagina&#39;s publiceren naar Facebook {#publish-landing-pages-to-facebook}
 
 Vergroot het bereik van uw bestemmingspagina&#39;s door deze rechtstreeks op Facebook te publiceren, compleet met sociale apps, formulieren en de volledige functionaliteit van de bestemmingspagina&#39;s van Marketo.
 
@@ -47,7 +47,7 @@ Sluit naadloos een Marketo-gebeurtenis aan op een ReadyTalk-vergadering. Gebruik
 
 Wij steunen nu de Dynamica 2011 van Microsoft op-gebouw met een Internet-Facing plaatsing.
 
-## Webhaken (schatkist) {#webhooks-treasure-chest}
+## Webhaken (Schat) {#webhooks-treasure-chest}
 
 Een Webhaak is een user-defined callback van HTTP. Het is een goede manier om gegevens van Marketo naar een andere service te verzenden. Deze functie is momenteel beschikbaar in de Schatkist en wordt momenteel alleen ondersteund in triggercampagnes.
 
