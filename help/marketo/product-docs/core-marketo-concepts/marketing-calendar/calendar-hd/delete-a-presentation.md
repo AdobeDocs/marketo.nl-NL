@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een presentatie verwijderen {#delete-a-presentation}
+# Een presentatie {#delete-a-presentation} verwijderen
 
 Soms heb je te veel van een goede zaak. Verwijder oude presentaties om ruimte te maken voor nieuwe presentaties!
 
@@ -19,11 +19,11 @@ Soms heb je te veel van een goede zaak. Verwijder oude presentaties om ruimte te
 
    ![](assets/image2015-3-26-12-3a26-3a41.png)
 
-1. Klik met de rechtermuisknop en selecteer **Verwijderen**.
+1. Klik met de rechtermuisknop en selecteer **Delete**.
 
    ![](assets/image2015-3-26-12-3a26-3a51.png)
 
-1. Klik op **Verwijderen** om te bevestigen.
+1. Klik **Verwijderen** om te bevestigen.
 
    ![](assets/image2015-3-20-16-3a21-3a10.png)
 
