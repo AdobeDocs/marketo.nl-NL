@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Stap 1 van 3: De Marketo-oplossing in Dynamics installeren (2013 op locatie) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
+# Stap 1 van 3: De Marketo-oplossing in Dynamics (2013 op locatie) {#step-of-install-the-marketo-solution-in-dynamics-on-premises} installeren
 
 Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u eerst de oplossing Marketo in Dynamics installeren.
 
@@ -21,9 +21,9 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
 >[!PREREQUISITES]
 >
->U moet [Internet Facing Plaatsing](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) met de [Actieve Diensten](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0 van de Federatie van de Folder, 2.1 of 3.0 (ADFS) gevormd hebben. Opmerking: Het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
+>U moet [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) hebben met [de Actieve Diensten van de Federatie van de Folder](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 of 3.0 (ADFS) gevormd. Opmerking: Het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
 >
->[Download de Marketo-oplossing](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) voordat u begint.
+>[Download de Marketo-](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) oplossing voordat u begint.
 
 >[!NOTE]
 >
@@ -31,35 +31,35 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 >
 >U hebt CRM-beheerdersrechten nodig om deze synchronisatie uit te voeren.
 
-1. Meld u aan bij **Dynamics**. Klik op het vervolgkeuzemenu CRM **voor** Microsoft Dynamics en selecteer **INSTELLINGEN**.
+1. Log in **Dynamics**. Klik **Microsoft Dynamics CRM** drop-down menu en selecteer **SETTINGS**.
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
-1. Selecteer onder **INSTELLINGEN** de optie **OPLOSSINGEN**.
+1. Selecteer **OPLOSSINGEN** onder **INSTELLINGEN**.
 
    ![](assets/image2014-12-11-10-3a39-3a51.png)
 
-1. Klik op **Importeren**.
+1. Klik **Importeren**.
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. Klik op **Bladeren** en selecteer de [gedownloade oplossing](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik op **Volgende**.
+1. Klik **Bladeren** en selecteer [gedownloade oplossing](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik **Volgende**.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
-1. Bekijk de Informatie van de Oplossing en klik de details **van het oplossingspakket van de** Mening.
+1. Bekijk de Informatie van de Oplossing en klik **de details van het oplossingspakket van de Mening**.
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
-1. Klik op **Sluiten wanneer u alle details hebt gecontroleerd**.
+1. Wanneer u klaar bent met het controleren van alle details, klik **Close**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. De rug op de pagina van de Informatie van de Oplossing, klikt **daarna**.
+1. Terug op de pagina van de Informatie van de Oplossing, klik **Volgende**.
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 
-1. Controleer of de optie SDK is ingeschakeld. Klik op **Importeren**.
+1. Controleer of de optie SDK is ingeschakeld. Klik **Importeren**.
 
    ![](assets/image2015-3-26-10-3a3-3a11.png)
 
@@ -71,7 +71,7 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
    ![](assets/image2014-12-11-10-3a41-3a5.png)
 
-1. Download een logbestand (als u dat wilt) en klik op **Sluiten**.
+1. Download een logbestand (als u dat wilt) en klik op **Close**.
 
    >[!NOTE]
    >
@@ -79,11 +79,11 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
-1. Marktbeheer wordt nu weergegeven op de pagina **Alle oplossingen** .
+1. Marketo Lead Management wordt nu weergegeven op de pagina **All Solutions**.
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
-1. Selecteer de Marketo-oplossing en klik op **Alle aanpassingen** publiceren.
+1. Selecteer de oplossing Marketo en klik **Alle aanpassingen publiceren**.
 
    ![](assets/image2014-12-11-10-3a41-3a32.png)
 
