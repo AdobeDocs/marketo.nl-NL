@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Tags begrijpen {#understanding-tags}
+# Tags {#understanding-tags}
 
 U weet waarschijnlijk dat programma&#39;s als bouwstenen zijn in Marketo. Door tags en kanalen te gebruiken, kunt u gegevens filteren voor rapportagedoeleinden.
 
 Tags worden gebruikt om programma&#39;s te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. De kanalen identificeren het leveringsmechanisme in een programma, zoals webinar, sponsoring, of online advertentie.
 
-## Type code {#tag-type}
+## Tagtype {#tag-type}
 
 Tagtypen geven het soort informatie aan waarop u wilt sorteren.
 
 >[!TIP]
 >
->Bespreek het met uw [beheerder](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) van de Marketo als u douanetags wilt creëren.
+>Bespreek met uw [Marketo Admin](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) als u douanetags wilt creëren.
 
 >[!NOTE]
 >
@@ -55,7 +55,7 @@ Elk labeltype heeft waarden waaruit u kunt kiezen.
 
 ## Kanaal {#channel}
 
-Kanalen worden gebruikt om te rapporteren over hoe uw [leden](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) door uw programma zijn verplaatst. Elk kanaal heeft een reeks progressiestatus en één status die aan gelijk succes wordt geplaatst.
+Kanalen worden gebruikt om te rapporteren hoe uw [leden](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) door uw programma bewogen. Elk kanaal heeft een reeks progressiestatus en één status die aan gelijk succes wordt geplaatst.
 
 >[!NOTE]
 >
