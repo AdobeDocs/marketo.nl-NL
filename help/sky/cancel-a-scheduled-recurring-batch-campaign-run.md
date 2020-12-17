@@ -18,11 +18,11 @@ Als u een terugkerende partijcampagne hebt die u niet meer wilt, kunt u de toeko
 
 ## Volledige herhaling annuleren
 
-1. Selecteer de campagne en ga naar het **[!UICONTROL Schedule]** tabblad.
+1. Selecteer de campagne en ga naar **[!UICONTROL Schedule]** tabel.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Klik **[!UICONTROL Edit Recurrence]**.
+1. Klik op **[!UICONTROL Edit Recurrence]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
@@ -36,15 +36,15 @@ Als u een terugkerende partijcampagne hebt die u niet meer wilt, kunt u de toeko
 
 ## Eén uitvoering annuleren
 
-1. Selecteer de campagne en ga naar het **[!UICONTROL Schedule]** tabblad.
+1. Selecteer de campagne en ga naar **[!UICONTROL Schedule]** tabel.
 
    ![Afbeelding vier](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
-1. Klik **[!UICONTROL Scheduled Runs]**.
+1. Klik op **[!UICONTROL Scheduled Runs]**.
 
    ![Afbeelding vijf](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-5.png)
 
-1. Zoek de enkelvoudige run die u wilt annuleren en klik **[!UICONTROL X]** helemaal rechts op de knop.
+1. Zoek de enkele run die u wilt annuleren en klik op **[!UICONTROL X]** helemaal rechts.
 
    ![Afbeelding zes](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-6.png)
 
