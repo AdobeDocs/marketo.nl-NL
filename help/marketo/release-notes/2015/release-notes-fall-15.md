@@ -29,7 +29,7 @@ U kunt meerdere abonnementen maken op een slimme lijst. Er geldt een beperking v
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## Markeren naar aangepaste objecten {#marketo-custom-objects}
+## Aangepaste objecten markeren {#marketo-custom-objects}
 
 [Markeren naar aangepaste objecten](http://docs.marketo.com/display/docs/marketo+custom+objects)
 
@@ -42,11 +42,11 @@ Maak eenvoudig aangepaste objecten via de interface voor beheerders. Momenteel o
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Marketo Insights voor Google Chrome {#marketo-insights-for-google-chrome}
+## Marketo Insights for Google Chrome {#marketo-insights-for-google-chrome}
 
 [Marketo Insights voor Google Chrome](../../product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-We zijn blij dat we de release van een update van onze Google Mail Sales Insight-extensie bekend maken! Bekijk het in de [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+We zijn blij dat we de release van een update van onze Google Mail Sales Insight-extensie bekend maken! Geef deze weer in de [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Deze update bevat veel nieuwe functies en functies:
 
@@ -56,23 +56,23 @@ Deze update bevat veel nieuwe functies en functies:
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketo Mobile Engagement - Tokens, Voorbeeld verzenden en Voorbeeld {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo Mobile Engagement - Tokens, Send Sample en Voorvertoning {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Tokens](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Voorbeeld verzenden](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Voorvertoning](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Pushmeldingen eenvoudig aanpassen met [tokens](https://docs.marketo.com/pages/viewpage.action?pageId=7512454).
+U kunt pushmeldingen eenvoudig aanpassen met [tokens](https://docs.marketo.com/pages/viewpage.action?pageId=7512454).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-U kunt ook een [voorbeeld](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) bekijken of een [voorbeeldpushmelding](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) verzenden voordat u deze implementeert op klanten.
+U kunt [preview](../../product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) of een [sample](../../product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) dupmelding ook verzenden alvorens u het aan klanten opstelt.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
 ![](assets/image2015-10-1-13-3a46-3a20.png)
 
-## Slimme campagnes in momenten {#smart-campaigns-in-moments}
+## Slimme campagnes op momenten {#smart-campaigns-in-moments}
 
 [Slimme campagnes in momenten](../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
@@ -87,7 +87,7 @@ Statistische gegevens over e-mailberichten die via slimme campagnes worden verzo
 
 ## RTP - Content Analytics en Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Content Analytics](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) en Recommendations
+[Inhoud ](../../product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) analyseren en Recommendations
 
 De Analyse van de Inhoud RTP toont u de prestaties van uw activa van de Webinhoud van regelmatige Webbezoeken en ook bezoeken die van de motor van de inhoudaanbeveling van RTP worden geproduceerd.
 
@@ -97,12 +97,12 @@ De Analyse van de Inhoud RTP toont u de prestaties van uw activa van de Webinhou
 
 De middelenpagina van RTP wordt nu gesplitst in Content Analytics en Content Recommendations.
 
-* **Inhoud analyseren:** Toont de weergaven en directe leads van alle gedetecteerde en gedefinieerde webinhoud, zodat u uw best presterende inhoud kunt analyseren
-* **Inhoud Recommendations**: Toont beelden en klikt van de geadviseerde inhoud van RTP en bijbehorende loodattributie. U kunt de aanbevelingen voor inhoud van deze pagina ook bewerken en inschakelen voor de aanbevelingen in de [balk](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) en de [rich media](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) .
+* **Inhoud analyseren:** geeft de weergaven en directe leads van alle gedetecteerde en gedefinieerde webinhoud weer, zodat u uw best presterende inhoud kunt analyseren
+* **Inhoud Recommendations**: Toont beelden en klikt van de geadviseerde inhoud van RTP en bijbehorende loodattributie. U kunt inhoudsaanbevelingen van deze pagina voor de [bar](https://docs.marketo.com/display/DOCS/Enabling+the+Content+Recommendation+Engine) en [rijke media](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine) aanbevelingen ook uitgeven en toelaten.
 
 * Alle gegevens over directe leads op deze twee pagina&#39;s zijn sinds het begin van het jaar (1 januari 2015) retroactief bijgewerkt.
 
-## RTP - Kloon en Campagne RTP {#rtp-clone-an-rtp-campaign}
+## RTP - Kloon een Campagne RTP {#rtp-clone-an-rtp-campaign}
 
 [RTP - Kloon en Campagne RTP](../../product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)
 
@@ -110,7 +110,7 @@ Door een RTP-campagne te klonen, wordt het sneller en efficiënter om meer geper
 
 ![](assets/clone2.png)
 
-## Verbeteringen in de Rich Text Editor {#rich-text-editor-improvements}
+## Verbeteringen in de RTF-editor {#rich-text-editor-improvements}
 
 We maken verschillende verbeteringen in de rijke teksteditor. Nadat wij de bijgewerkte redacteur in juli vrijgaven, ontvingen wij grote terugkoppelen en konden deze veranderingen in deze verbetering werken. De komende maanden is er nog veel meer te doen. Hier volgt een lijst met nieuwe functies in het vierde kwartaal:
 
@@ -138,7 +138,7 @@ We maken verschillende verbeteringen in de rijke teksteditor. Nadat wij de bijge
    <![endif]-->
    ```
 
-* Plaats geen lege tabelcellen met `**`
+* Lege tabelcellen niet met `**` samenvoegen
 
 * Knop maximaliseren/minimaliseren die aan de HTML-broneditor is toegevoegd
 * Bestaande tabeleigenschappen worden nu geïdentificeerd en weergegeven in het dialoogvenster Tabeleigenschappen
@@ -167,7 +167,7 @@ Met dit nieuwe beheerprogramma wordt een aantal controles uitgevoerd om te contr
 
 ![](assets/image2015-10-1-14-3a3-3a12.png)
 
-## Velden toevoegen aan Aangepaste objectsynchronisatie van CRM {#add-fields-to-crm-custom-object-sync}
+## Velden toevoegen aan Aangepaste objectsync CRM {#add-fields-to-crm-custom-object-sync}
 
 U kunt eenvoudig nieuwe velden toevoegen aan aangepaste objecten die zijn gesynchroniseerd via Salesforce en Dynamics. U kunt nu nieuwe velden toevoegen aan de synchronisatie van aangepaste objecten zonder het gehele aangepaste object uit te schakelen en in te schakelen.
 
@@ -178,15 +178,15 @@ U kunt eenvoudig nieuwe velden toevoegen aan aangepaste objecten die zijn gesync
 
 ![](assets/image2015-10-1-15-3a54-3a4.png)
 
-## Ondersteuning voor IE 11 (en afgekeurde ondersteuning voor IE 9) {#ie-support-and-deprecating-support-for-ie}
+## Ondersteuning voor IE 11 (en ondersteuning voor IE 9 afgekeurd) {#ie-support-and-deprecating-support-for-ie}
 
 De browser Microsoft Internet Explorer 11 wordt nu officieel ondersteund en de ondersteuning voor de browser Microsoft Internet Explorer 9 wordt verwijderd.
 
-## Ondersteuning voor blikseminterface voor MSI {#lightning-ui-support-for-msi}
+## Ondersteuning voor bliksemgebruikersinterface voor MSI {#lightning-ui-support-for-msi}
 
 Het nieuwste MSI-pakket voor het uitwisselen van apps werkt met zowel Lightning- als Verouderde versies van de Salesforce-gebruikersinterface.
 
-## Nieuwe plug-in Dynamiek {#new-dynamics-plug-in}
+## Nieuwe plug-in Dynamica {#new-dynamics-plug-in}
 
 Deze nieuwe insteekmodule voert verschillende handelingen uit in de asynchrone modus om de prestaties te verbeteren.
 
