@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >**Diep duiken**
 >
->Voor andere versies, zie de Nota&#39;s [van de](http://docs.marketo.com/display/docs/release+notes) Versie diep duiken.
+>Voor andere versies, zie [Nota&#39;s van de Versie](http://docs.marketo.com/display/docs/release+notes) diepe duik.
 
-## E-mailprestatierapport opnieuw ontwerpen {#email-performance-report-redesign}
+## E-mailprestatierapport Opnieuw ontwerpen {#email-performance-report-redesign}
 
 Opmerking: Dit wordt een gefaseerde uitrol, te beginnen met de release van mei
 
@@ -41,7 +41,7 @@ Gearchiveerde elementen worden automatisch gefilterd van automatische suggesties
 
 Figuur 2. Voorbeeld van het gearchiveerde e-mailfilter
 
-## Nieuwe gebeurtenischeck-in-app voor iPad {#new-event-check-in-app-for-ipad}
+## New Event Check-in App for iPad {#new-event-check-in-app-for-ipad}
 
 Vereenvoudig het inchecken van gebeurtenissen met onze nieuwe iPad-app! De app voor gebeurtenisinchecken synchroniseert met uw Marketo-programma en kunt u eenvoudig geregistreerde personen in een gebeurtenis inchecken en direct nieuwe leads toevoegen.
 
@@ -57,9 +57,9 @@ Figuur 4. Gebeurteniscontrole: Selecteer uw gebeurtenis!
 
 Figuur 5. Controleer ze in
 
-## Verbeterde URL voor bevestiging van webinar {#enhanced-webinar-confirmation-url}
+## Verbeterde URL voor webinaire bevestiging {#enhanced-webinar-confirmation-url}
 
-Nu beschikbaar voor ON24 en Adobe Connect! Neem een unieke koppeling op in het bevestigingsbericht voor elke geregistreerde deelnemer die de nieuwe `{{member.webinar URL}}` token gebruikt. Tot de Adobe Connect-verbeteringen behoren ook de mogelijkheid om het e-mailbericht met informatie over een Adobe-account met de aanmeldings-id en het wachtwoord voor de gebruiker in of uit te schakelen.
+Nu beschikbaar voor ON24 en Adobe Connect! Neem een unieke koppeling op in het bevestigingsbericht voor elke geregistreerde deelnemer die de nieuwe token `{{member.webinar URL}}` gebruikt. Tot de Adobe Connect-verbeteringen behoren ook de mogelijkheid om het e-mailbericht met informatie over een Adobe-account met de aanmeldings-id en het wachtwoord voor de gebruiker in of uit te schakelen.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -73,7 +73,7 @@ Op zoek naar een specifieke sjabloon terwijl u uw e-mail- of landingspagina same
 
 Figuur 7. Voorbeeld van de gekozen sjabloon bekijken
 
-## Configureerbaar vooraf invullen van formulier {#configurable-form-prefill}
+## Configureerbaar formulier vooraf invullen {#configurable-form-prefill}
 
 De pre-populatie van vormgegevens van de controle op het abonnementsniveau en overschrijven op het niveau van de landingspagina. Zonder pre-populatie, kunt u ervoor zorgen de lood de meest bijgewerkte informatie verstrekt.
 
@@ -101,7 +101,7 @@ Synchroniseer accounts, contactpersonen en leads tussen Marketo en Microsoft Dyn
 
 Figuur 11. Configuratie Microsoft Dynamics
 
-## Verbeteringen in Marktgericht verkoopinzicht {#marketo-sales-insight-enhancements}
+## Verbeteringen van marktoverzicht voor verkoop {#marketo-sales-insight-enhancements}
 
 **Abonnement op voettekstopties opzeggen**
 
@@ -119,7 +119,7 @@ U kunt de e-mailsjablonen die worden gedeeld met Marketo Sales Insight nu in spe
 
 Figuur 13. Kies een map voor uw e-mails
 
-## De Analysator van de Kans van de toegang van het Inzicht van de Verkoop {#access-opportunity-analyzer-from-sales-insight}
+## De Analyse van de Kanaal van de toegang van het Inzicht van de Verkoop {#access-opportunity-analyzer-from-sales-insight}
 
 Verstrek uw Vertegenwoordigers van Verkoop inzicht in welke marketing activiteiten drijven overeenkomst, gebruikend directe toegang tot de Analysator van de Kans van het Inzicht van de Verkoop van de Marketo. Opmerking. Vereist een licentie voor conjunctuuranalyse.
 
