@@ -19,19 +19,19 @@ Door het blokkeren van updates van een veld kunt u één keer naar het veld schr
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Admin** en klik op **Veldbeheer**.
+1. Ga naar **Admin** en klik **Veld Management**.
 
    ![](assets/image2014-9-24-13-3a54-3a40.png)
 
-1. Zoek het veld, selecteer het en klik onder **Veldhandelingen** op **Veldupdates** blokkeren.
+1. Zoek het veld, selecteer het en klik onder **Veldhandelingen** op **Veldupdates blokkeren**.
 
    ![](assets/two-1.png)
 
-1. Selecteer de **Invoerbronnen** die u wilt blokkeren en klik op **Toepassen**.
+1. Selecteer **Invoerbronnen** die u wilt blokkeren en klik op **Toepassen**.
 
    ![](assets/image2014-9-24-13-3a55-3a16.png)
 
    >[!CAUTION]
    >
-   >Wanneer u een lijst importeert, wordt de status van een veld dat wordt geblokkeerd in Voorvertoning importeren alleen weergegeven als het veld automatisch wordt herkend door Marketo op basis van de naam van het veld dat **exact** overeenkomt (of als er aliassen zijn ingesteld). Als het veld handmatig wordt gekozen in de vervolgkeuzelijst Marketo-veld, wordt de status voor geblokkeerd niet weergegeven in Voorvertoning importeren, maar wordt het blokkeren van updates voor dat veld nog steeds geïmplementeerd.
+   >Wanneer u een lijst importeert, wordt de status van een veld dat wordt geblokkeerd in Voorvertoning importeren alleen weergegeven als het veld automatisch wordt herkend door Marketo op basis van de naam van het veld dat overeenkomt met **exact** (of als er aliassen zijn ingesteld). Als het veld handmatig wordt gekozen in de vervolgkeuzelijst Marketo-veld, wordt de status voor geblokkeerd niet weergegeven in Voorvertoning importeren, maar wordt het blokkeren van updates voor dat veld nog steeds geïmplementeerd.
 
