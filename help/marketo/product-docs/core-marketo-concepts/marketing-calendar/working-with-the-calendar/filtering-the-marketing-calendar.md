@@ -19,11 +19,11 @@ Met invoertypen, programmalabels of werkruimten kunt u de informatie filteren di
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Klik op de vervolgkeuzelijst **Type** item **** .
+1. Klik op de vervolgkeuzelijst **Invoer** **Type**.
 
    >[!NOTE]
    >
-   >De standaardingstypes zijn **E-mail** **Programma** en **Slimme** **Campagnes** met **** **** Email.
+   >De standaard ingangstypen zijn **E-mail** **Programma&#39;s** en **Smart** **Campagnes** **met** **E-mail**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ Met invoertypen, programmalabels of werkruimten kunt u de informatie filteren di
 
    >[!TIP]
    >
-   >Voor beschrijvingen van de standaardingstypes, controleer de Types [van Ingang van de Ingang van de Mening van het Programma](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md)Programma.
+   >Voor beschrijvingen van de standaardingstypes, controleer [De Types van Ingang van de Mening van het Programma](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
 
 1. Selecteer de programmatags die voor u van belang zijn.
 
