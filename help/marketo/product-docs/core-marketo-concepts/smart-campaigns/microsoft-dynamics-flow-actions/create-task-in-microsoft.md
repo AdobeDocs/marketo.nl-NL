@@ -19,7 +19,7 @@ Creeer Taak in Microsoft leidt tot een taak onder Activiteiten met betrekking to
 
 >[!NOTE]
 >
->Deze flowstap werkt **alleen als u triggers** gebruikt, niet als filters in uw slimme campagne.
+>Deze flowstap werkt alleen als u triggers **gebruikt, niet als filters in uw slimme campagne.**
 
 Standaard ziet de flowstap er als volgt uit:   ![](assets/msd1.png)
 
@@ -35,5 +35,5 @@ Pas alle velden aan om de taak op de gewenste manier te maken.   ![](assets/msd2
 
 >[!TIP]
 >
->U kunt `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` en `{{system.tokens}}` in het **Onderwerp** en de **Beschrijving** gebruiken. Zie [Tokens voor de Stappen](http://docs.marketo.com/x/c4AR) van de Stroom voor meer details.
+>U kunt `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` en `{{system.tokens}}` in **Onderwerp** en **Beschrijving** gebruiken. Zie [Tokens voor Flow Steps](http://docs.marketo.com/x/c4AR) voor meer informatie.
 
