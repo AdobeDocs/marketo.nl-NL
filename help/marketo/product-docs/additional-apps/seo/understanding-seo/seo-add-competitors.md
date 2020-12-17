@@ -19,19 +19,19 @@ Als u concurrenten toevoegt, kunt u bijhouden hoe ze voor dezelfde trefwoorden e
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar de sectie **Beheer** .
+1. Ga naar **Admin** sectie.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Klik op het tabblad **Concurrenten** .
+1. Klik op **Concurrenten** tabel.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Klik op **CONCURRENTIE** TOEVOEGEN.
+1. Klik **CONCURRENTIE TOEVOEGEN**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Typ de **naam** en de **URL** van uw concurrent.
+1. Typ de **Naam** en **URL** van uw concurrent.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
