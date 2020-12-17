@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Beveiligingsinstellingen voor wachtwoord wijzigen {#change-your-password-security-settings}
+# Wijzig uw beveiligingsinstellingen voor wachtwoord {#change-your-password-security-settings}
 
 Het wachtwoordbeleid voor uw abonnement bepalen. Zo gaat het.
 
@@ -19,7 +19,7 @@ Het wachtwoordbeleid voor uw abonnement bepalen. Zo gaat het.
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik onder **Beheerder** op **Aanmeldingsinstellingen**.
+1. Klik onder **Admin** op **Aanmeldingsinstellingen**.
 
    ![](assets/image2014-9-16-12-3a41-3a40.png)
 
@@ -27,7 +27,7 @@ Het wachtwoordbeleid voor uw abonnement bepalen. Zo gaat het.
 
    ![](assets/passwordsettings-hand.png)
 
-1. Selecteer een **sjabloon**. Klik op de vervolgkeuzelijst **Geavanceerd** voor geavanceerde opties.
+1. Selecteer een **Sjabloon**. Voor geavanceerde opties klikt u op de vervolgkeuzelijst **Geavanceerd**.
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ Het wachtwoordbeleid voor uw abonnement bepalen. Zo gaat het.
    >
    >Schakel in **Aangepast** de selectievakjes in om aan te geven welke kenmerken gebruikers moeten opnemen wanneer zij wachtwoorden maken.
 
-1. Stel de **vervaldatum** in.**** Deze functie vereist automatisch dat gebruikers hun wachtwoorden na een bepaalde tijd opnieuw instellen. Dit geldt ook voor de Admin-gebruiker.
+1. Stel de **Vervaldatum** in.**** Deze functie vereist automatisch dat gebruikers hun wachtwoorden na een bepaalde tijd opnieuw instellen. Dit geldt ook voor de Admin-gebruiker.
 
    >[!CAUTION]
    >
@@ -50,7 +50,7 @@ Het wachtwoordbeleid voor uw abonnement bepalen. Zo gaat het.
 
    ![](assets/expiration.png)
 
-1. Stel de **inactieve time-out** voor de sessie in. Dit bepaalt hoe lang een gebruiker voor inactief kan zijn alvorens zij aan Marketo opnieuw moeten inloggen.
+1. Stel de **Inactieve time-out sessie** in. Dit bepaalt hoe lang een gebruiker voor inactief kan zijn alvorens zij aan Marketo opnieuw moeten inloggen.
 
    ![](assets/inactivesession.png)
 
