@@ -29,21 +29,21 @@ We geven een nieuwe bewerkingsmodus voor de bestemmingspagina en de sjabloonsynt
 
 Hebt u op de knop Verzenden geklikt voordat een e-mailprogramma klaar was om uit te gaan? Trek de remmen met de nieuwe knop voor het afbreken van e-mailprogramma. Hiermee stopt u de e-mailprogramma&#39;s tijdens de vlucht direct in hun sporen.
 
-## E-maillevering  {#email-deliverability}
+## E-maillevering {#email-deliverability}
 
 Marketo voert nu wekelijkse geautomatiseerde SPF- en DKIM-controles uit op uw toegevoegde domeinen. Houd hier bovenop door uw meldingen te controleren.
 
-## Gedrag e-mailsjabloon wijzigen {#email-template-behavior-change}
+## Wijziging van gedrag e-mailsjabloon {#email-template-behavior-change}
 
 Vanaf deze release zijn geldige HTML-opmerkingen nu toegestaan en niet verwijderd wanneer u nieuwe e-mailberichten maakt.
 
-## RTP: Segmenteditor slepen en neerzetten {#rtp-drag-and-drop-segment-editor}
+## RTP: De redacteur van het Segment van de belemmering en van de Daling {#rtp-drag-and-drop-segment-editor}
 
-RTP: [Segmenteditor slepen en neerzetten](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
+RTP: [Editor van segment slepen en neerzetten](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
 
 Sleep de criteria naar de gesegmenteerde builder, definieer de waarde en u bent op weg naar het maken van een real-time segment.
 
-## RTP: Predictive Content Recommendations {#rtp-predictive-content-recommendations}
+## RTP: Voorspelende inhoud Recommendations {#rtp-predictive-content-recommendations}
 
 [Predictive Content Recommendations](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)
 
