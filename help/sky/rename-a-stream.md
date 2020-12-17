@@ -20,7 +20,7 @@ Als u georganiseerd wilt blijven, kunt u uw stromen anders noemen.
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-1.png)
 
-1. Klik op het **[!UICONTROL Streams]** tabblad.
+1. Klik op het tabblad **[!UICONTROL Streams]**.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/rename-a-stream/rename-a-stream-2.png)
 
