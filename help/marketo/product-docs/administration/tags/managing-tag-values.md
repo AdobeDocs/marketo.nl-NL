@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Tagwaarden beheren {#managing-tag-values}
 
-[Tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) worden gebruikt om programma&#39;s te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. Hieronder wordt beschreven hoe u deze waarden beheert.
+[Tagsare ](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) wordt gebruikt om programma&#39;s te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. Hieronder wordt beschreven hoe u deze waarden beheert.
 
 >[!NOTE]
 >
@@ -23,9 +23,9 @@ ht-degree: 0%
 >
 >[Nieuwe programmatag- en tagwaarden maken](create-a-new-program-tag-and-tag-values.md)
 
-## Tagwaarden toevoegen {#adding-tag-values}
+## Tagwaarden {#adding-tag-values} toevoegen
 
-1. Klik onder **Beheer** op **Labels**.
+1. Klik onder **Admin** op **Codes**.
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
-1. Selecteer het **tagtype**.
+1. Selecteer **Tagtype**.
 
    ![](assets/image2014-9-24-12-3a26-3a2.png)
 
-1. Voer een **waarde** in en klik op **Nog een** waarde toevoegen. U kunt zoveel waarden toevoegen als u wilt.
+1. Voer een **Waarde** in en klik **Nog een** toevoegen. U kunt zoveel waarden toevoegen als u wilt.
 
    ![](assets/image2014-9-24-12-3a26-3a27.png)
 
-1. Voeg de resterende waarden toe en klik op **Maken**.
+1. Voeg de resterende waarden toe en klik **Maken**.
 
    ![](assets/image2014-9-24-12-3a26-3a55.png)
 
@@ -49,19 +49,19 @@ ht-degree: 0%
 
 ![](assets/image2014-9-24-12-3a27-3a34.png)
 
-## Tagwaarden verbergen {#hiding-tag-values}
+## Tagwaarden {#hiding-tag-values} verbergen
 
 Tags kunnen door oude programma&#39;s worden gebruikt. U kunt deze vervangen voor toekomstig gebruik door het type code te verbergen.
 
-1. Selecteer de **tag** *** en selecteer de **waarde** die u wilt verbergen.
+1. Selecteer de tag** ****Tag** en selecteer de **Waarde** die u wilt verbergen.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
-1. Selecteer onder **Taghandelingen** de optie **Verbergen**.
+1. Selecteer **Verbergen** onder **Handelingen labelen**.
 
    ![](assets/image2014-9-24-12-3a29-3a4.png)
 
-## Verborgen waarden tonen {#show-hidden-values}
+## Verborgen waarden {#show-hidden-values} tonen
 
 Ga als volgt te werk als u de verborgen waarden weer wilt zien:
 
