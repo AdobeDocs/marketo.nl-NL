@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verklarende woordenlijst Sneltoetsen {#keyboard-shortcuts-glossary}
+# Verklarende woordenlijst met sneltoetsen {#keyboard-shortcuts-glossary}
 
 Bent u een persoon met sneltoetsen? We hebben je bedekt!
 
