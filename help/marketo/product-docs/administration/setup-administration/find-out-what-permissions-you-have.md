@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Controleren welke machtigingen u hebt {#find-out-what-permissions-you-have}
+# Ontdek welke machtigingen u hebt {#find-out-what-permissions-you-have}
 
 Als u zich afvraagt welke toestemmingen u hebt of niet in Marketo hebt, is er een gemakkelijke manier voor u om te weten te komen.
 
