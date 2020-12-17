@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Uw e-mailkoptekst bewerken {#edit-your-email-header}
+# Uw e-mailkoptekst {#edit-your-email-header} bewerken
 
 De koptekst van de e-mail in Marketo kan volledig worden aangepast. Het bestaat uit vier velden:
 
-* **Van** - De naam van de afzender zoals u het wilt verschijnen
-* **Van Adres** - het e-mailadres van de afzender aangezien u het wilt verschijnen
-* **Reageren op** - Het e-mailadres waarnaar u het antwoord van een persoon wilt verzenden (kan verschillen van Van Adres)
+* **Van**  - De naam van de afzender zoals u het wilt verschijnen
+* **Van Adres**  - het e-mailadres van de afzender aangezien u het wilt verschijnen
+* **Antwoord-aan**  - Het e-mailadres u het antwoord van een persoon wilt worden verzonden naar (kan verschillend zijn dan van Adres)
 * **Betreft** : Onderwerpregel van e-mail
 
 Als u deze waarden wilt bewerken, klikt u in elk veld en voert u de gegevens in.
@@ -26,7 +26,7 @@ Als u deze waarden wilt bewerken, klikt u in elk veld en voert u de gegevens in.
 
 >[!TIP]
 >
->Zie Standaard [wijzigen in e-mail en Van label](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md)als u een standaardinstelling vanuit naam en via e-mail wilt instellen.
+>Zie [De standaardinstelling wijzigen vanuit e-mail en vanuit label](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md) als u een standaardinstelling vanuit naam en vanuit e-mail wilt instellen.
 
 Als u een token wilt gebruiken, klikt u eerst in het gewenste veld en vervolgens op het tokenpictogram.
 
