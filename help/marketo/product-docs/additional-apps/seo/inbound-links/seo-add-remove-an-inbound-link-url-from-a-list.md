@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - voeg/verwijder een Binnenkomende Verbinding URL van een Lijst toe {#seo-add-remove-an-inbound-link-url-from-a-list}
+# SEO - voeg/verwijder een Binnenkomende Verbinding URL van een Lijst {#seo-add-remove-an-inbound-link-url-from-a-list} toe
 
 U kunt uw binnenkomende verbinding URLs aan de inhoud van uw hart organiseren.
 
-## Een binnenkomende URL van een koppeling toevoegen aan een lijst {#add-an-inbound-link-url-to-a-list}
+## Voeg een Binnenkomende Verbinding URL aan een Lijst {#add-an-inbound-link-url-to-a-list} toe
 
 1. Ga naar de Binnenkomende sectie van Verbindingen.
 
@@ -33,7 +33,7 @@ U kunt uw binnenkomende verbinding URLs aan de inhoud van uw hart organiseren.
 >
 >U kunt ook een nieuwe lijst maken voor het trefwoord dat u wilt gebruiken. Typ gewoon de gewenste naam in de lijst Een nieuwe lijst maken.
 
-## Een binnenkomende URL van een koppeling uit een lijst verwijderen {#remove-an-inbound-link-url-from-a-list}
+## Een binnenkomende URL van een koppeling verwijderen uit een lijst {#remove-an-inbound-link-url-from-a-list}
 
 1. Soms zult u een binnenkomende verbinding URL&#39;s uit een lijst willen verwijderen.
 
