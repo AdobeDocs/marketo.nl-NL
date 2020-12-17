@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Een e-mailscripttoken maken {#create-an-email-script-token}
 
-Voor gevorderde ontwikkelaars kunt u de manuscripten [van de](http://velocity.apache.org/engine/1.7/user-guide.html) Snelheid in uw e-mail gebruiken. Zo doe je het.
+Voor gevorderde ontwikkelaars, kunt u [manuscripten ](http://velocity.apache.org/engine/1.7/user-guide.html) in uw e-mail gebruiken. Zo doe je het.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ Voor gevorderde ontwikkelaars kunt u de manuscripten [van de](http://velocity.ap
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Onder het tabblad **Mijn tokens** sleept u in een token voor **e-mailscripts** .
+1. Onder **Mijn tokens** tabel, sleep in een **E-mailmanuscript** teken.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Geef uw e-mailscripttoken een naam en **klik om de inhoud ervan te bewerken** .
+1. Noem uw e-mailmanuscriptteken en **klik om** zijn inhoud uit te geven.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Gebruik de boomstructuur aan de rechterkant om tokens voor **personen, kansen** of **aangepaste objecten** te slepen.
+1. Gebruik de boom op het recht om in **Person, Opportunity**, of **Aangepast Voorwerp** tokens te slepen.
 
    ![](assets/five-2.png)
 
@@ -57,11 +57,11 @@ Voor gevorderde ontwikkelaars kunt u de manuscripten [van de](http://velocity.ap
    * [Snelheidsnaslaggids](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Als het script is voltooid, klikt u op **Opslaan**.
+1. Zodra uw manuscript wordt voltooid, klik **sparen**.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Klik nogmaals op **Opslaan** .
+1. Klik nog een keer op **Opslaan**.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 
