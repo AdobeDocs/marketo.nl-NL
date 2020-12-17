@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Communicatielimieten inschakelen {#enable-communication-limits}
+# Communicatielimieten {#enable-communication-limits} inschakelen
 
 Het is erg belangrijk om niet overmatig met je mensen te communiceren. Als u communicatielimieten instelt, voorkomt u dat uw organisatie te veel e-mails verzendt.
 
@@ -19,7 +19,7 @@ Het is erg belangrijk om niet overmatig met je mensen te communiceren. Als u com
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik onder **Beheerder** op **Communicatielimieten**.
+1. Klik onder **Admin** op **Communicatielimieten**.
 
    ![](assets/image2014-9-18-15-3a53-3a37.png)
 Klik op Bewerken.
@@ -30,7 +30,7 @@ Klik op Bewerken.
    >
    >Per Dag is gebaseerd op de kalenderdag in de streek van de abonnementstijd (middernacht-middernacht).
 
-1. Klik op de vervolgkeuzelijst **Per dag** en selecteer de gewenste limiet. In dit voorbeeld kiezen we 1.
+1. Klik **Per Dag** drop-down en selecteer de gewenste grens. In dit voorbeeld kiezen we 1.
 
    ![](assets/three.png)
 
@@ -38,19 +38,19 @@ Klik op Bewerken.
    >
    >U kunt ook **Aangepast** kiezen als geen van de vooraf ingestelde opties voor u werkt.
 
-1. Klik op de vervolgkeuzelijst **Per 7 dagen** en selecteer de gewenste limiet. In dit voorbeeld kiezen we 5.
+1. Klik **Per 7 Dagen** drop-down en selecteer de gewenste grens. In dit voorbeeld kiezen we 5.
 
    ![](assets/four.png)
 
-1. Selecteer Niet-operationele e-mailberichten **blokkeren**.
+1. Selecteer **Niet-operationele e-mails blokkeren**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Meer weten over [operationele e-mails](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) ?
+   >Meer informatie over wat [operationele e-mails](http://docs.marketo.com/display/DOCS/Make+an+Email+Operational) zijn.
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/six.png)
 
@@ -59,7 +59,7 @@ Klik op Bewerken.
    >**Voorbeeld**
    >
    >
-   >De bovenstaande instellingen betekenen dat mensen niet meer dan **1 e-mail per dag** of meer dan **5 e-mails per periode** van zeven dagen ontvangen.
+   >De bovenstaande instellingen betekenen dat mensen niet meer dan **1 e-mail per dag** of meer dan **5 binnen een periode van zeven dagen** zullen ontvangen.
 
    >[!NOTE]
    >
