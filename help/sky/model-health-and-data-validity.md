@@ -16,11 +16,11 @@ ht-degree: 0%
 
 De prestaties van uw modellen zijn afhankelijk van de kwaliteit en volledigheid van de invoergegevens. Hier is hoe je je modelgezondheid kunt beoordelen.
 
-Navigeer naar de **[!UICONTROL Models and Data Health]** sectie onder **[!UICONTROL Predictive Audiences]** in het **[!UICONTROL Admin]** gebied Marketo Classic. Hier zie je al je modellen en hun status.
+Navigeer naar de sectie **[!UICONTROL Models and Data Health]** onder **[!UICONTROL Predictive Audiences]** in het gebied **[!UICONTROL Admin]** van Marketo Classic. Hier zie je al je modellen en hun status.
 
 ![Afbeelding één](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 
-* **Trainingsstatus**: Geeft aan of uw model actief training volgt (voorspellingen verbeteren). De training wordt automatisch elke twee weken gegeven. Alle modellen die worden _verwerkt_ , kunnen 24 uur duren voordat ze zijn voltooid. Neem voor alle _mislukte_ modellen contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+* **Trainingsstatus**: Geeft aan of uw model actief training volgt (voorspellingen verbeteren). De training wordt automatisch elke twee weken gegeven. Modellen die _Verwerking_ zijn, kunnen tot 24 uur duren voordat ze zijn voltooid. Voor _Mislukte_ modellen, gelieve [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
 * **Status** score: Geeft aan of uw model voorspellingen (waarschijnlijkheidspercentages) voor programmaleden actief berekent.
 * **Prestaties**: categorisering van uw modelgezondheid op basis van volledigheid van gegevens en gegevenskwaliteit (zie hieronder).
 * **Volledigheid** van gegevens: Percentage gegevenskenmerken dat aanwezig/voltooid is.
