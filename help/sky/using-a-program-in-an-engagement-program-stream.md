@@ -17,7 +17,7 @@ ht-degree: 0%
 Het is eenvoudig om een e-mail aan een stroom in een betrokkenheidsprogramma toe te voegen, en het werkt prima. Als uw bedrijfsbehoeften echter complexer zijn, kan het zinvol zijn de e-mail in een programma te plaatsen. U kunt bijvoorbeeld het volgende doen:
 
 * Een e-mail verzenden naar een subgroep met personen in de stream
-* Verstuur _verschillende_ e-mailberichten naar subgroepen binnen de stream
+* Verzend _verschillende_ e-mails naar subgroepen binnen de stream
 * Pagina&#39;s, formulieren of andere middelen die u wilt landen opnemen in het betrokkenheidsprogramma
 * Multitouch-kenmerk inschakelen
 * Extra stappen voor doorloop toevoegen, zoals e-mailberichten met waarschuwing
@@ -30,7 +30,7 @@ Wanneer u een genest programma gebruikt, is het besluit om een e-mail naar een p
 * Als u lid bent van het programma, ontvangt u geen e-mail
 * Als je geen lid meer bent maar eerder al een e-mail hebt ontvangen via dat programma, ontvang je de e-mail niet
 
-Wanneer u een programma in een stream gebruikt, maakt het niet uit of u die specifieke e-mail eerder hebt ontvangen. Zolang het e-mailbericht niet eerder is verzonden _in dat specifieke programma_, kunt u het opnieuw ontvangen.
+Wanneer u een programma in een stream gebruikt, maakt het niet uit of u die specifieke e-mail eerder hebt ontvangen. Zolang de e-mail niet eerder is verzonden _in dat specifieke programma_, kunt u het opnieuw ontvangen.
 
 Het kan lastige emails en programma&#39;s in een betrokkenheidsprogramma mengen. Wellicht wilt u een van beide gebruiken.
 
@@ -40,7 +40,7 @@ Het kan lastige emails en programma&#39;s in een betrokkenheidsprogramma mengen.
 
 ## Wat gebeurt er met mensen die niet voldoen aan de criteria van de slimme lijst?
 
-Als iemand uit de slimme lijst van slimme campagne van een genesteld programma wordt gefiltreerd, bewegen zij zich niet op het volgende stuk van inhoud tijdens de huidige gietvorm. Zij zullen zich op het volgende stuk van inhoud in de stroom voor de _volgende_ gietvorm bewegen.
+Als iemand uit de slimme lijst van slimme campagne van een genesteld programma wordt gefiltreerd, bewegen zij zich niet op het volgende stuk van inhoud tijdens de huidige gietvorm. Zij zullen zich op het volgende stuk van inhoud in de stroom voor _volgend_ gietvorm bewegen.
 
 ## Wat bevat een genest programma?
 
