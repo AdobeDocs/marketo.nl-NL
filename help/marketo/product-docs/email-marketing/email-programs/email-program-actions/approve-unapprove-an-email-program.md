@@ -16,11 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Een e-mailprogramma maken](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Bepaal een Publiek met een Slimme Lijst](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) of door een Publiek te [bepalen door een Lijst in te voeren](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Bepaal een Publiek met een Slimme ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Lijst door een Publiek te  [bepalen door een Lijst in te voeren](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Kies een bestaande e-mail](choose-an-existing-email.md) of [maak een e-mail voor een e-mailprogramma](create-an-email-for-an-email-program.md)
+* [Kies een bestaande ](choose-an-existing-email.md) e-mailprovider  [Een e-mailbericht maken voor een e-mailprogramma](create-an-email-for-an-email-program.md)
    >
    >
 * [Uw e-mailprogramma plannen](schedule-your-email-program.md)
@@ -29,11 +29,11 @@ ht-degree: 0%
 
 
 
-## Uw e-mailprogramma goedkeuren {#approve-your-email-program}
+## Uw e-mailprogramma {#approve-your-email-program} goedkeuren
 
 Nu uw programma klaar is om te starten, moet u het goedkeuren. Hieronder wordt beschreven hoe:
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -44,7 +44,7 @@ Nu uw programma klaar is om te starten, moet u het goedkeuren. Hieronder wordt b
    >
    >Als u uw e-mailprogramma niet goedkeurt, wordt het e-mailbericht niet verzonden.
 
-1. Ga onder de titel **Goedkeuring** verder en klik op **Programma** goedkeuren.
+1. Onder **Goedkeuring** tegel gaat en klik op **Programma goedkeuren**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -56,11 +56,11 @@ Nu uw programma klaar is om te starten, moet u het goedkeuren. Hieronder wordt b
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
-## Uw e-mailprogramma niet goedkeuren {#unapprove-your-email-program}
+## Uw e-mailprogramma {#unapprove-your-email-program} niet goedkeuren
 
 Als u van gedachten verandert en besluit dat u het e-mailprogramma niet wilt laten doorgaan, kunt u het goedkeuren van het e-mailprogramma ongedaan maken.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -68,7 +68,7 @@ Als u van gedachten verandert en besluit dat u het e-mailprogramma niet wilt lat
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. Klik onder de **goedkeuringstegel** gewoon op **Niet-goedgekeurd programma**.
+1. Klik onder de **Titel Goedkeuring** gewoon op **Programma niet goedkeuren**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 
