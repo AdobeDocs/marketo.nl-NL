@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Manieren om hulp te krijgen {#ways-to-get-help}
+# Manieren om hulp {#ways-to-get-help} te krijgen
 
 ![](assets/life-preserver.jpg)
 
@@ -19,6 +19,6 @@ Kun je nog steeds niet vinden wat je nodig hebt? Weet je niet wat je niet weet? 
 
 ![—](assets/seo-29.png) Neem contact op met de Klantenondersteuning [**van**](https://nation.marketo.com/t5/Support/ct-p/Support)Marketo voor technische ondersteuning bij iets dat niet werkt.
 
-![—](assets/seo-30.png) Als u verbinding wilt maken met ons team van professionele services, kunt u contact opnemen met **marketoservices@adobe.com**.
+![—](assets/seo-30.png) Ga naar  **marketoservices@adobe.com** als u verbinding wilt maken met ons team van professionele services.
 
-![—](assets/education-science-08.png) Ga naar de [**Marketo-universiteit**](https://learn.marketo.com)om uw Marketo-vaardigheden op te bouwen.
+![—](assets/education-science-08.png) Ga naar de  [**Marketo-universiteit**](https://learn.marketo.com) om uw Marketo-vaardigheden op te bouwen.
