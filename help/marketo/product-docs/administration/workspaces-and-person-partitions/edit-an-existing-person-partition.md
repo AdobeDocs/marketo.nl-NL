@@ -27,15 +27,15 @@ Een persoonsverdeling is als het hebben van een tweede (of derde) gegevensbestan
 
 
 
-1. Klik onder **Beheer** op **Werkruimten en partities**.
+1. Klik onder **Admin** op **Werkruimten en partities**.
 
    ![](assets/image2014-9-17-10-3a51-3a23.png)
 
-1. Selecteer onder het tabblad **Personpartities** de personenpartitie die u wilt bewerken en klik op Personpartitie **** bewerken.
+1. Selecteer onder het tabblad **Personpartities** de personenpartitie die u wilt bewerken en klik op **Personpartitie bewerken**.
 
    ![](assets/two-5.png)
 
-1. Voer de **naam** van de partitie Person in, de werkruimten **waartoe deze behoren en klik op **Opslaan**.
+1. Voer de Person Partition **Name**, de **Workspaces **they behoren tot in, en klik **Save**.
 
    ![](assets/three-5.png)
 
