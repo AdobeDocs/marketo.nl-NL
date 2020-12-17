@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Bekijk een voorbeeld van uw e-mail nadat u dynamische inhoud hebt toegevoegd om deze te verifiëren.
 
-1. Selecteer uw e-mail en klik op **E-mail** voorvertonen.
+1. Selecteer uw e-mail en klik **Voorproef E-mail**.
 
    ![](assets/one-3.png)
 
@@ -32,7 +32,7 @@ Bekijk een voorbeeld van uw e-mail nadat u dynamische inhoud hebt toegevoegd om 
 
 U kunt dynamische inhoud ook rechtstreeks in de e-maileditor bekijken.
 
-1. Klik onder **Inhoud** op het tabblad **Dynamisch** .
+1. Klik onder **Inhoud** op het tabblad **Dynamisch**.
 
    ![](assets/five-1.png)
 
