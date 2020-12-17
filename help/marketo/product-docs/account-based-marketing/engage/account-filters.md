@@ -17,7 +17,7 @@ Benoemde accounts en de personen binnen deze accounts identificeren en inschakel
 
 ## ABM-filters {#abm-filters}
 
-1. Selecteer uw slimme campagne en klik op **Slimme lijst**.
+1. Selecteer uw slimme campagne en klik **Slimme Lijst**.
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ Benoemde accounts en de personen binnen deze accounts identificeren en inschakel
 
    ![](assets/three.png)
 
-## Lijst van leden van account {#member-of-account-list}
+## Lid van de Lijst van Rekening {#member-of-account-list}
 
 Klik op de vervolgkeuzelijst met accounts om dit filter te gebruiken...
 
@@ -43,7 +43,7 @@ Klik op de vervolgkeuzelijst met accounts om dit filter te gebruiken...
 >
 >Voor het filter Account List is er slechts één kwalificatie: &quot;is&quot; - Aanvullende aanduidingen (zoals &quot;is not&quot; en &quot;is any&quot;) zijn niet beschikbaar.
 
-## Lid van Benoemde Rekening {#member-of-named-account}
+## Lid van benoemde rekening {#member-of-named-account}
 
 1. Kies een kwalificatie. Is bestemd voor een specifieke benoemde account(s) of is een account voor een benoemde account.
 
@@ -57,7 +57,7 @@ Klik op de vervolgkeuzelijst met accounts om dit filter te gebruiken...
 
    ![](assets/eight.png)
 
-1. Als u de kwalificatie &quot;is om het even welk&quot; gebruikt, kunt u [beperkingen](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) willen gebruiken om uw onderzoeksresultaten te beperken. Voeg zoveel toe als u wilt!
+1. Als u &quot;is om het even welk&quot;bepalend gebruikt, kunt u [beperkingen ](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) willen gebruiken om uw onderzoeksresultaten te beperken. Voeg zoveel toe als u wilt!
 
    ![](assets/nine.png)
 
