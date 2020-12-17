@@ -19,13 +19,13 @@ Geblokkeerde personen in de Marketo-database worden gemarkeerd als toegevoegd op
 >
 >Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van afgewezen personen en Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
 
-1. Klik in uw slimme campagne op **Schema**. Klik onder **Status** slimme lijst op de tweede koppeling.
+1. In uw slimme campagne, klik op **Programma**. Klik onder **Status slimme lijst** op de tweede koppeling.
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 
    >[!NOTE]
    >
-   >Personen die hun communicatielimieten hebben bereikt, kunnen ook worden verhinderd om berichten te ontvangen. Leer hoe u de communicatielimieten [kunt](../../../../product-docs/administration/email-setup/enable-communication-limits.md) bewerken in de sectie Beheer.
+   >Personen die hun communicatielimieten hebben bereikt, kunnen ook worden verhinderd om berichten te ontvangen. Leer hoe u communicatielimieten [kunt bewerken in de sectie Admin.](../../../../product-docs/administration/email-setup/enable-communication-limits.md)
 
    Op het tabblad Geblokkeerde personen worden personen weergegeven die mogelijk geen berichten ontvangen.
 
