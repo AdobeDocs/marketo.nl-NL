@@ -23,7 +23,7 @@ Marketo heeft de URL van de Dienst van de Organisatie nodig om met de instanties
 
    ![](assets/two.png)
 
-1. Klik op Bronnen voor **ontwikkelaars**.
+1. Klik **Developer Resources**.
 
    ![](assets/three.png)
 
