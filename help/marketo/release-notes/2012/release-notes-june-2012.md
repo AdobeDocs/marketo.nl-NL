@@ -17,9 +17,9 @@ ht-degree: 0%
 >
 >**Diep duiken**
 >
->Voor andere versies, zie de Nota&#39;s [van de](http://docs.marketo.com/display/docs/release+notes) Versie diep duiken.
+>Voor andere versies, zie [Nota&#39;s van de Versie](http://docs.marketo.com/display/docs/release+notes) diepe duik.
 
-## Verbeteringen in Marketo Lead Management {#marketo-lead-management-enhancements}
+## Verbeteringen in markttoonbeheer {#marketo-lead-management-enhancements}
 
 ### Naam wijzigen {#rename}
 
@@ -47,7 +47,7 @@ Op de bestaande overzichtspagina&#39;s van Programma en van de Campagne, hebben 
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## Gebruikt door voor elementen {#used-by-for-assets}
+## Gebruikt door voor activa {#used-by-for-assets}
 
 We hebben een nieuw tabblad toegevoegd aan onze overzichtspagina&#39;s met middelen, de zogenaamde Used by!
 
@@ -55,7 +55,7 @@ We hebben een nieuw tabblad toegevoegd aan onze overzichtspagina&#39;s met midde
 
 Voorbeeld: Wordt gebruikt door voor statische lijsten
 
-## Rasterlijnen op de landingspagina {#landing-page-gridlines}
+## Rasterlijnen {#landing-page-gridlines} op de pagina landen
 
 Door het toevoegen van rasterlijnen voor de landingspagina&#39;s wordt het uitlijnen van tekst, afbeeldingen en formulieren op de bestemmingspagina veel eenvoudiger. Schakel deze voor een bepaalde landingspagina in of uit en pas de breedte tussen de regels aan.
 
@@ -63,19 +63,19 @@ Door het toevoegen van rasterlijnen voor de landingspagina&#39;s wordt het uitli
 
 ![](assets/image2014-9-23-10-3a24-3a33.png)
 
-## Leads geblokkeerd van afschriften {#leads-blocked-from-mailings}
+## Leads die zijn geblokkeerd vanuit overgangen {#leads-blocked-from-mailings}
 
 Wanneer het plannen van een campagne, kunt u op de verbinding klikken om de lijst van lood te zien die van uw post worden geblokkeerd.
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## Wacht stap - Token en mijn token leiden {#wait-step-lead-token-and-my-token}
+## Wacht stap - token en mijn token {#wait-step-lead-token-and-my-token}
 
-In onze release van mei hebben we geavanceerde opties toegevoegd aan de stap Wachttijd. Met deze wijzigingen kunt u een werkdag, datum en tijd opgeven. In deze versie, voegden wij de capaciteit toe om een teken in de wachttijdstap te gebruiken. U kunt bijvoorbeeld een e-mailbericht verzenden `{{lead.Birthday}}` op de geboortedag van de betrokkene of een laatste webinar-herinnering verzenden `{{my.Event Date}}` .
+In onze release van mei hebben we geavanceerde opties toegevoegd aan de stap Wachttijd. Met deze wijzigingen kunt u een werkdag, datum en tijd opgeven. In deze versie, voegden wij de capaciteit toe om een teken in de wachttijdstap te gebruiken. U kunt bijvoorbeeld `{{lead.Birthday}}` gebruiken om een e-mail te verzenden op de geboortedag, of `{{my.Event Date}}` gebruiken om een laatste webinarherinnering te verzenden.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## Weergeven als miniaturen in Design Studio {#view-as-thumbnails-in-design-studio}
+## Als miniaturen weergeven in Design Studio {#view-as-thumbnails-in-design-studio}
 
 Schakel de weergave van een lijst met afbeeldingen naar een miniatuurweergave!
 
@@ -87,7 +87,7 @@ Herinnering: E-mailprestatierapport wordt bijgewerkt.
 
 ## Verbeteringen voor analyse van Marketo-omzetcyclus {#marketo-revenue-cycle-analytics-enhancements}
 
-### Nieuwe metriek in de Analyse van de Kans van het Programma  {#new-metrics-in-program-opportunity-analysis}
+### Nieuwe metriek in de Analyse van de Kans van het Programma {#new-metrics-in-program-opportunity-analysis}
 
 U kunt nu inzicht krijgen in het gemiddelde aantal marketingaanrakingen voordat mogelijkheden worden gecreëerd of gesloten, en in de gemiddelde waarde van een marketingaanraking.
 
@@ -95,19 +95,19 @@ U kunt nu inzicht krijgen in het gemiddelde aantal marketingaanrakingen voordat 
 
 ![](assets/image2014-9-23-10-3a26-3a41.png)
 
-## Meerdere grafieken weergeven {#displaying-multi-charts}
+## Multi-grafieken {#displaying-multi-charts} weergeven
 
 Met de functie voor meerdere grafieken kunt u meerdere grafieken weergeven in één rapport van de Indelingscyclusverkenner. U kunt deze functie bijvoorbeeld gebruiken wanneer u dezelfde gegevens gedurende verschillende maanden wilt weergeven. Met deze functie voorkomt u ook dat u afzonderlijke filters en rapporten moet maken.
 
 ![](assets/image2014-9-23-10-3a27-3a41.png)
 
-## Type heetrasterdiagram  {#heat-grid-chart-type}
+## Type heetrasterdiagram {#heat-grid-chart-type}
 
 Met Warmterasters kunt u gegevens visualiseren, zodat u patronen van marketingprestaties kunt identificeren. Dit visualisatietype zal kleur-code uw resultaten zodat bekijkt u complexe bedrijfsanalyse in een gemakkelijk-aan-begrijpelijke visualisatie.
 
 ![](assets/image2014-9-23-10-3a28-3a21.png)
 
-## Type spreidingdiagram  {#scatter-chart-type}
+## Type spreidingdiagram {#scatter-chart-type}
 
 Met spreidingsgrafieken kunt u gegevens visualiseren over meerdere dimensies in één grafiek. Dit visualisatietype zal een bel op een grafiek plotten die op de gebruikte attributen wordt gebaseerd. Vervolgens kunt u een maateenheid gebruiken om de ballon te kleuren en/of een maateenheid te gebruiken om de grootte van de bel op te geven.
 
