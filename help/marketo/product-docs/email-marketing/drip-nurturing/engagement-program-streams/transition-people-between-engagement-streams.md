@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Overgang mensen tussen betrokkenheidsstromen {#transition-people-between-engagement-streams}
+# Personen overstappen tussen betrokkenheidsstromen {#transition-people-between-engagement-streams}
 
-Betrokkenheidsprogramma&#39;s kunnen meerdere streams hebben. Als u een stream [](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)toevoegt, wilt u een manier definiëren waarmee mensen van de ene stream naar de andere kunnen gaan. Dit worden **overgangsregels genoemd.**
+Betrokkenheidsprogramma&#39;s kunnen meerdere streams hebben. Als u [een stroom](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md) toevoegt, zult u een manier willen bepalen voor mensen om zich van één stroom aan een andere te bewegen. Deze worden **overgangsregels genoemd.**
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma.png)
 
-1. Selecteer uw multistreamed-serviceprogramma en ga naar **Streams**.
+1. Selecteer uw serviceprogramma voor meerdere stromen en ga naar **Streams**.
 
    ![](assets/multistream.jpg)
 
-1. Klik op **Overgangsregels** voor de stream waarin u andere streams wilt plaatsen en klik vervolgens op **Overgangsregels bewerken. **
+1. Klik **Overgangsregels** voor de stroom u in van andere stromen wilt trekken, dan klik **geef de Regels van de Overgang uit. **
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -46,7 +46,7 @@ Betrokkenheidsprogramma&#39;s kunnen meerdere streams hebben. Als u een stream [
    >
    >U kunt meerdere triggers en filters toevoegen aan een overgangsregel, maar de overgangsregel gebruikt alle filters (alleen met ALLE filters). Als u OF in een overgangsregel moet gebruiken, adviseren wij dat u opstelling een buitenslimme campagne in plaats daarvan.
 
-1. Klik op **Sluiten**.
+1. Klik **Close**.
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
@@ -58,5 +58,5 @@ Betrokkenheidsprogramma&#39;s kunnen meerdere streams hebben. Als u een stream [
 
    >[!NOTE]
    >
-   >De hierboven beschreven stappen zijn *wel* van toepassing op mensen die [gepauzeerd](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program) zijn.
+   >De stappen hierboven *do* zijn van toepassing op mensen die [op pauze ](http://docs.marketo.com/display/DOCS/Pause+People+in+an+Engagement+Program) ook zijn.
 
