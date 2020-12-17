@@ -79,7 +79,7 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
    <td>Score</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Getal</td> 
-   <td>Lengte 10<br>decimalen 0 </td> 
+   <td>Lengte 10<br>Decimale plaatsen 0 </td> 
   </tr> 
   <tr> 
    <td>Aankoopdatum</td> 
@@ -114,10 +114,10 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
    * Alle rollen instellen op **Visible **and **Read-Only**
 
-   * Schakel het selectievakje Alleen- **lezen** uit voor het profiel van de synchronisatiegebruiker:
+   * Schakel het selectievakje **Alleen-lezen** voor het profiel van de synchronisatiegebruiker uit:
 
-      * Als u een gebruiker hebt met het profiel van een *systeembeheerder* als synchronisatiegebruiker, schakelt u het selectievakje Alleen- **lezen** voor het beheerprofiel van het systeem uit (zoals hieronder wordt weergegeven)
-      * Als u een *aangepast profiel* voor de synchronisatiegebruiker hebt gemaakt, schakelt u het selectievakje Alleen **** -lezen voor dat aangepaste profiel uit
+      * Als u een gebruiker met het profiel van een *Systeembeheerder* als synchronisatiegebruiker hebt, schakelt u het selectievakje **Alleen-lezen** voor het beheerprofiel van het systeem uit (zoals hieronder wordt weergegeven).
+      * Als u een *aangepast profiel* voor de synchronisatiegebruiker hebt gemaakt, schakelt u het selectievakje **Alleen-lezen** voor dat aangepaste profiel uit
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -159,7 +159,7 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
    <td>Id van overnameprogramma</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
    <td>Getal</td> 
-   <td>Lengte 18<br>decimalen 0 </td> 
+   <td>Lengte 18<br>Decimale plaatsen 0 </td> 
   </tr> 
   <tr> 
    <td>Oorspronkelijke verwijzing</td> 
@@ -240,15 +240,15 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
 Een aangepast veld op het hoofdobject in Salesforce moet worden toegewezen aan een contactveld op het contactobject, zodat gegevens worden overgedragen wanneer een conversie plaatsvindt.
 
-1. Klik in de rechterbovenhoek op **Instellen**.
+1. Klik in de rechterbovenhoek op **Setup**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Typ &quot;Velden&quot; in de Nav-zoekopdracht zonder op Enter te drukken. Velden worden onder verschillende objecten weergegeven. Klik op **Velden** onder Leads.
+1. Typ &quot;Velden&quot; in de Nav-zoekopdracht zonder op Enter te drukken. Velden worden onder verschillende objecten weergegeven. Klik **Velden** onder Leads.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Ga naar de sectie Aangepaste velden en relaties voor lead en klik op **Velden** voor lead toewijzen.
+1. Ga naar de sectie Aangepaste velden en relaties voor lead en klik op **Velden voor lead toewijzen**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -261,7 +261,7 @@ Een aangepast veld op het hoofdobject in Salesforce moet worden toegewezen aan e
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Herhaal bovenstaande stappen voor alle andere velden die u hebt gemaakt.
-1. Klik op **Opslaan** als u klaar bent.
+1. Klik **Opslaan** wanneer u klaar bent.
 
    Gemakkelijk genoeg, toch?
 
@@ -269,7 +269,7 @@ Een aangepast veld op het hoofdobject in Salesforce moet worden toegewezen aan e
 >
 >**Diep duiken**
 >
->Hier is een link naar een [video van de hele procedure](https://nation.marketo.com/videos/1475) die het kristalhelder zou moeten maken!
+>Hier is een verbinding aan een [video van de volledige procedure](https://nation.marketo.com/videos/1475) die het kristalhelder zou moeten maken!
 
 >[!NOTE]
 >
