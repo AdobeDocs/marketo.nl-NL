@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-mail verzenden {#send-an-email}
+# E-mail {#send-an-email} verzenden
 
 Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
@@ -21,15 +21,15 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
 ## Een e-mailprogramma maken {#create-an-email-program}
 
-1. Ga naar het gebied **Marketingactiviteiten** .
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/one-1.png)
 
-1. Selecteer uw map **Leren** . Klik op de vervolgkeuzelijst **Nieuw** en selecteer **Nieuw programma**.
+1. Selecteer uw **Learning** omslag. Klik **Nieuw** drop-down en selecteer **Nieuw Programma**.
 
    ![](assets/two-1.png)
 
-1. Voer een **naam** in en selecteer **E-mail** bij **Programmatype.**
+1. Voer een **Naam** in en selecteer **E-mail** voor **Programmatype.**
 
    >[!TIP]
    >
@@ -37,13 +37,13 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
    ![](assets/three.png)
 
-1. Selecteer onder **Kanaal** de optie **E-mail verzenden** en klik op **Maken**.
+1. Selecteer **E-mail verzenden** onder **Kanaal** en klik op **Maken**.
 
    ![](assets/image2015-3-2-16-3a25-3a18.png)
 
-## Uw publiek definiëren {#define-your-audience}
+## Uw publiek {#define-your-audience} definiëren
 
-1. Klik op Slimme lijst **** bewerken onder de tegel Publiek.
+1. Klik op **Slimme lijst bewerken** onder de tegel Soorten publiek.
 
    ![](assets/five.png)
 
@@ -61,25 +61,25 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
    >[!NOTE]
    >
-   >Als je e-mailadres niet automatisch wordt ingevuld, ben je wellicht vergeten om een lead [op te halen en toe te voegen.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+   >Als uw e-mail niet automatisch bevolkt is, kunt u aan [Opstelling vergeten zijn en een Lood toevoegen.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
    >[!NOTE]
    >
    >In dit voorbeeld stuurt u de e-mail alleen naar uzelf, maar u kunt het publiek naar eigen inzicht aanpassen.
 
-1. Ga terug naar het hoofdprogrammatabblad en klik op het pictogram Vernieuwen voor **Persoon**.
+1. Ga terug naar het hoofdprogrammalusje en klik het verfrissen pictogram voor **Persoon**.
 
    ![](assets/refresh-icon.png)
 
    Je moet zien dat het aantal personen oploopt tot 1. Dat ben je!
 
-## Een e-mail maken {#create-an-email}
+## Een e-mail {#create-an-email} maken
 
 1. Klik onder de tegel E-mail op **Nieuwe e-mail**.
 
    ![](assets/image2014-9-8-15-3a10-3a47.png)
 
-1. Voer een **naam** in, selecteer een **sjabloon** en klik op **Maken**.
+1. Voer een **Naam** in, selecteer een **Sjabloon** en klik op **Maken**.
 
    ![](assets/ten-1.png)
 
@@ -89,7 +89,7 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
    >[!NOTE]
    >
-   >Als u een pop-upblokkering hebt, klikt u op Concept **** bewerken om de e-maileditor in te voeren.
+   >Als u een pop-upblokkering hebt, klikt u op **Concept bewerken** om de e-maileditor in te voeren.
 
 1. Selecteer het gebied dat u wilt bewerken, klik op het tandwielpictogram aan de rechterkant en selecteer **Bewerken** (u kunt ook dubbelklikken op de bewerkbare sectie die u wilt bewerken).
 
@@ -109,13 +109,13 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
    >[!TIP]
    >
-   >Wilt u uzelf een snel voorbeeld sturen om te zien hoe uw e-mail eruitziet voordat u de e-mail start? Selecteer Voorbeeld **** verzenden in het bovenstaande menu of klik op **Handelingen** e-mailen en [**Monster**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) verzenden.
+   >Wilt u uzelf een snel voorbeeld sturen om te zien hoe uw e-mail eruitziet voordat u de e-mail start? Selecteer **Voorbeeld verzenden** in het bovenstaande menu of klik **E-mailhandelingen** dan [**Voorbeeld verzenden**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md).
 
 1. Selecteer het e-mailprogramma in de linkerstructuur.
 
    ![](assets/sixteen.png)
 
-1. Stel onder de tegel Planning de startdag voor de e-mail in op **Vandaag.**
+1. Stel de startdag voor de e-mail in onder de tegel Planning op **Today.**
 
    ![](assets/image2014-9-8-15-3a13-3a11.png)
 
@@ -125,9 +125,9 @@ Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
 
    >[!TIP]
    >
-   >Is de standaardtijdzone niet van u? Leer hoe u deze hier [kunt](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)bijwerken.
+   >Is de standaardtijdzone niet van u? Leer hoe u [dit hier kunt bijwerken](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md).
 
-1. Klik op Programma **** goedkeuren onder de goedkeuringstegel en u bent klaar!
+1. Klik **Programma goedkeuren** onder de titel van de Goedkeuring en u wordt gedaan!
 
    ![](assets/image2014-9-8-15-3a13-3a34.png)
 
