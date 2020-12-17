@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: Herfst &#39;18 {#release-notes-fall}
+# Opmerkingen bij de release: &#39;18 {#release-notes-fall}
 
 De volgende functies zijn opgenomen in de Fall &#39;18-release. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
 
@@ -23,7 +23,7 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 De verpersoonlijking van het Web steunt nu veelvoudige werkruimten.
 
-## Marketo Sales Engage {#marketo-sales-engage}
+## Marketo Sales Engineering {#marketo-sales-engage}
 
 * **Ondersteuning voor** SFDC-bliksem: Gebruikers die migreren naar of momenteel gebruikmaken van Lightning, kunnen MSE gebruiken voor een slimmere betrokkenheid tijdens de reis van de koper.
 
@@ -38,7 +38,7 @@ De verpersoonlijking van het Web steunt nu veelvoudige werkruimten.
 
 ## Marketo Sky {#marketo-sky}
 
-Raadpleeg onze opmerkingen bij de release van [Sky](https://help.marketo.com)voor meer informatie en updates.
+Raadpleeg onze [Opmerkingen bij de release Sky](https://help.marketo.com) voor meer informatie en updates.
 
 * **Systeemupdates ontwerpen**
 
@@ -56,7 +56,7 @@ Raadpleeg onze opmerkingen bij de release van [Sky](https://help.marketo.com)voo
 * OntwerpStudio-lijstweergaven: Gebruikers kunnen nu landingspaginasjablonen en e-mailsjablonen weergeven in de vorm van een lijstweergave, zodat ze snel kunnen navigeren en bulkacties kunnen uitvoeren op één elementtype.
 * Design Studio Asset-detailpagina&#39;s: Bespaar tijd en hoofdpijn door bulkacties op alle middelen op één plaats weer te geven, te organiseren en uit te voeren.
 * **Standaardprogramma&#39;s nu beschikbaar in Marketo Sky**: Marketo Sky ondersteunt nu standaardprogramma&#39;s, de veelzijdige programmastijl waarmee u elke campagne kunt maken die u zich kunt voorstellen.
-* **E-mailprogramma&#39;s - Fase 1**: U kunt nu e-mailprogramma&#39;s weergeven in Sky. Kijk naar het nieuwe ontwerp en [laat ons weten wat je denkt](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **E-mailprogramma&#39;s - Fase 1**: U kunt nu e-mailprogramma&#39;s weergeven in Sky. Kijk naar het nieuwe ontwerp en [laat ons weten wat u denkt](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Analyse {#analytics}
 
@@ -86,7 +86,7 @@ Raadpleeg onze opmerkingen bij de release van [Sky](https://help.marketo.com)voo
 * **Betrokkenheid per activiteitendatum**: Gebruikers kunnen kiezen om de metriek van de betrokkenheid per activiteitendatum of kostperiode weer te geven.
 * **ABM-accountfilters**: Filter de dashboards van de Pijpleiding en van de Inkomsten door specifieke Benoemde Rekeningen.
 
-## Advertentienetwerken {#ad-networks}
+## Netwerken toevoegen {#ad-networks}
 
 **[Token vernieuwen](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
