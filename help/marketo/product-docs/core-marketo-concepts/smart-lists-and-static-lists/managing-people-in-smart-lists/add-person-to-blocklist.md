@@ -19,12 +19,12 @@ Als u mensen aan uw Lijst van afgewezen personen toevoegt, kunnen ze uw correspo
 >
 >Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van afgewezen personen en Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
 
-1. [Creeer een nieuw standaardprogramma](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) en noem het **Toevoegen aan Lijst van afgewezen personen**.
-1. Klik op **Nieuw** en selecteer **Nieuw lokaal element**.
+1. [Creeer een nieuw standaardprogramma ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) en noem het  **Toevoegen aan Lijst van afgewezen personen**.
+1. Klik **Nieuw** en selecteer **Nieuw Lokaal element**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
 
-1. Geef een naam op voor de lijst en klik op **Maken**.
+1. Geef uw lijst een naam en klik op **Maken**.
 
    ![](assets/image2015-8-14-11-3a2-3a26.png)
 
@@ -36,15 +36,15 @@ Als u mensen aan uw Lijst van afgewezen personen toevoegt, kunnen ze uw correspo
 
    ![](assets/three-6.png)
 
-1. Klik op **Nieuw** en selecteer **Nieuwe slimme campagne**.
+1. Klik **Nieuw** en selecteer **Nieuwe slimme campagne**.
 
    ![](assets/image2015-8-14-11-3a12-3a35.png)
 
-1. Geef een naam op voor de **nieuwe slimme campagne**. Klik op **Maken**.
+1. Geef de **Nieuwe slimme campagne** een naam. Klik **Maken**.
 
    ![](assets/image2015-8-14-11-3a13-3a36.png)
 
-1. Sleep **Lid van Slimme Lijst** en laat vallen.
+1. Sleep **Lid van Slimme Lijst**.
 
    ![](assets/image2015-8-14-11-3a16-3a34.png)
 
@@ -52,19 +52,19 @@ Als u mensen aan uw Lijst van afgewezen personen toevoegt, kunnen ze uw correspo
 
    ![](assets/image2015-8-14-11-3a17-3a5.png)
 
-1. De belemmering en laat vallen **Verandering Gegevenswaarde**.
+1. Sleep **Gegevenswaarde wijzigen**.
 
    ![](assets/image2015-8-14-11-3a18-3a41.png)
 
-1. Voor de **Stroom**, ga **Blok dat voor het** Attribuut **wordt vermeld in en reeks** Nieuwe Waarde **aan** waar ****.
+1. Voor **Stroom**, ga **Blok op Lijst** voor **Kenmerk** in en reeks **Nieuwe Waarde** aan **true**.
 
    ![](assets/image2015-8-14-11-3a21-3a1.png)
 
-1. Selecteer Eenmaal **uitvoeren op het tabblad** Schema ****.
+1. Selecteer **Eenmaal uitvoeren** op het tabblad **Schema**.
 
    ![](assets/ten.png)
 
-1. Selecteer **Nu** uitvoeren en klik op **Uitvoeren**.
+1. Selecteer **Nu uitvoeren** en klik **Run**.
 
    ![](assets/image2015-8-14-11-3a24-3a50.png)
 
@@ -72,5 +72,5 @@ Als u mensen aan uw Lijst van afgewezen personen toevoegt, kunnen ze uw correspo
 
    >[!TIP]
    >
-   >Creeer een [trekker slimme campagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) gebruikend de Waarde **van Gegevens van de** Verandering met **Blok dat voor alle mensen in de toekomst waar** is die lijst van afgewezen personen-able attributen hebben.
+   >Maak een [trigger smart campagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) met **Gegevenswaarde wijzigen** met **Blok in de lijst is true** voor alle mensen in de toekomst die kenmerken hebben die geschikt zijn voor lijst van afgewezen personen.
 
