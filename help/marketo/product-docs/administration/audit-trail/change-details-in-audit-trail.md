@@ -32,7 +32,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   <tr> 
    <td rowspan="15">Standaardprogramma<br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Maken</td> 
-   <td>Kanaaltype "kanaaltype"<br><br>of Uitgekloond van "programmenaam"</td> 
+   <td>Kanaaltype "kanaaltype"<br>of<br>Uitgekloond uit "programmenaam"</td> 
   </tr> 
   <tr> 
    <td>Naam wijzigen</td> 
@@ -40,7 +40,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Gekloond naar werkruimte "naam werkruimte" <br>Locatie "map Campagne" of "betrokkenheidsprogramma" Naam "nieuwe naam <br>gekloond programma"</td> 
+   <td>Uitgekloond naar werkruimte "naam werkruimte" <br>Locatie "map Campagne" of "betrokkenheidsprogramma" <br>Naam van gekloond programma "nieuwe naam"</td> 
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
@@ -93,7 +93,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   <tr> 
    <td rowspan="18">E-mail<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Maken</td> 
-   <td>Gemaakt met de sjabloonnaam <br>of <br>gekloond met de naam van het element</td> 
+   <td>Gemaakt met behulp van sjabloon "sjabloonnaam" <br>of <br>Uitgekloond met "elementnaam"</td> 
   </tr> 
   <tr> 
    <td>Bewerken</td> 
@@ -101,11 +101,11 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Bewerken</td> 
-   <td>Bijgewerkt van "Van e-mail" naar "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[e-mail beveiligd]</a>"</td> 
+   <td>Bijgewerkt "Van e-mail" naar "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[e-mailbeveiligd]</a>"</td> 
   </tr> 
   <tr> 
    <td>Bewerken</td> 
-   <td>"Reageren op" bijgewerkt naar "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[e-mailbeveiligd]</a>"</td> 
+   <td>Bijgewerkt "Reageren op" naar "<a href="http://docs.marketo.com/cdn-cgi/l/email-protection">[e-mailbeveiligd]</a>"</td> 
   </tr> 
   <tr> 
    <td>Bewerken</td> 
@@ -145,11 +145,11 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Cloned to "Design studio" into folder "folder name" <br>Cloned asset name "name"<br><br>orCloned to "Marketing Activities" in program "program name"<br>Cloned asset name"</td> 
+   <td>Gekloond naar "Design studio" in map "foldername" <br>Naam gekloond element "name"<br>of<br>Gekloond naar "Marketing Activities" in programma "name"<br>Naam gekloond element</td> 
   </tr> 
   <tr> 
    <td>Verplaatsen</td> 
-   <td>Verplaatst naar "Design studio" in map "mapnaam"<br><br>ofVerplaatst naar "Marketing activities" in programma "programmenaam"</td> 
+   <td>Verplaatst naar "Design studio" in de map "folder name"<br>or<br>Verplaatst naar "Marketing activities" in "program name"</td> 
   </tr> 
   <tr> 
    <td>Goedkeuren</td> 
@@ -161,12 +161,12 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Concept</td> 
-   <td>E-mail is opgesteld omdat het fragment "naam fragment" is<br><br>goedgekeurd of omdat e-mail is geschreven omdat template "naam sjabloon" is goedgekeurd</td> 
+   <td>De e-mail is opgesteld omdat het fragment "fragmentname" is goedgekeurd<br>or<br>Email is geschreven omdat de sjabloon "sjabloonnaam" is goedgekeurd</td> 
   </tr> 
   <tr> 
    <td rowspan="17">E-mailprogramma</td> 
    <td>Maken</td> 
-   <td>Kanaaltype "kanaaltype"<br><br>of Uitgekloond van "programmenaam"</td> 
+   <td>Kanaaltype "kanaaltype"<br>of<br>Uitgekloond uit "programmenaam"</td> 
   </tr> 
   <tr> 
    <td colspan="1">Naam wijzigen</td> 
@@ -174,7 +174,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Gekloond naar werkruimte "naam werkruimte" <br>Locatie "map of serviceprogramma voor campagne" Naam "nieuwe naam <br>gekloond programma</td> 
+   <td>Gekloond naar werkruimte "naam werkruimte" <br>Locatie "map of serviceprogramma voor campagne" <br>Naam van gekloond programma "nieuwe naam"</td> 
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
@@ -214,7 +214,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Programmainstelling wijzigen</td> 
-   <td>Analysegedrag "gedragsnaam" bewerken<br>Oude gedrag "gedragsnaam"</td> 
+   <td>Analysegedrag "gedragsnaam"<br>Oude gedrag "gedragsnaam" bewerken</td> 
   </tr> 
   <tr> 
    <td>Programmainstelling wijzigen</td> 
@@ -255,7 +255,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Gekloond naar "mapnaam" <br> Naam gekloond element</td> 
+   <td>Uitgekloond naar "mapnaam" <br> Naam van gekloond element</td> 
   </tr> 
   <tr> 
    <td>Goedkeuren</td> 
@@ -268,7 +268,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   <tr> 
    <td rowspan="23">Betrokkenheidsprogramma</td> 
    <td>Maken</td> 
-   <td>Kanaaltype "kanaaltype"<br> of<br> Uitgekloond van "programmenaam"</td> 
+   <td>Kanaaltype "kanaaltype"<br> of<br> Gekloond uit "programmenaam"</td> 
   </tr> 
   <tr> 
    <td>Naam wijzigen</td> 
@@ -276,7 +276,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Gekloond naar werkruimte "naam werkruimte" <br>Locatie "map of serviceprogramma voor campagne" Naam "nieuwe naam <br>gekloond programma</td> 
+   <td>Gekloond naar werkruimte "naam werkruimte" <br>Locatie "map of serviceprogramma voor campagne" <br>Naam van gekloond programma "nieuwe naam"</td> 
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
@@ -300,19 +300,19 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Programmastroom wijzigen</td> 
-   <td>Voeg<br>contentSteam-naam "streamnaam"<br>Type "Email" of "Program"<br>Name "email name" of "program name"<br>Smart Campagne "smart campagne name" toe</td> 
+   <td>Inhoud toevoegen<br>Naam van stream "naam van stream"<br>Typ "e-mail" of "Programma"<br>Naam "e-mailnaam" of "naam van programma"<br>Naam van slimme campagne "naam van slimme campagne"</td> 
   </tr> 
   <tr> 
    <td>Programmastroom wijzigen</td> 
-   <td>Naam<br>van inhoudStream activeren "naam stream"<br>Naam van inhoud "e-mailnaam" of "naam programma"</td> 
+   <td>Content<br>Stream name "stream name"<br>Content name "email name" or "program name"</td> 
   </tr> 
   <tr> 
    <td>Programmastroom wijzigen</td> 
-   <td>De naam<br>van de contentStream "streamnaam"<br>Inhoudsnaam "e-mailnaam" of "programmenaam" deactiveren</td> 
+   <td>Inhoud deactiveren<br>Naam van stream "naam stream"<br>Naam van inhoud "e-mailadres" of "naam programma"</td> 
   </tr> 
   <tr> 
    <td>Programmastroom wijzigen</td> 
-   <td>Naam<br>van inhoudStream verwijderen "naam van stream"<br>Naam van inhoud "e-mailnaam" of "naam programma"</td> 
+   <td>Inhoud verwijderen<br>Naam van stream "naam stream"<br>Naam van inhoud "e-mailadres" of "naam programma"</td> 
   </tr> 
   <tr> 
    <td>Programmatoken wijzigen</td> 
@@ -332,7 +332,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Programmainstelling wijzigen</td> 
-   <td>Analysegedrag "gedragsnaam" bewerken<br>Oude gedrag "gedragsnaam"</td> 
+   <td>Analysegedrag "gedragsnaam"<br>Oude gedrag "gedragsnaam" bewerken</td> 
   </tr> 
   <tr> 
    <td>Programmainstelling wijzigen</td> 
@@ -361,7 +361,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   <tr> 
    <td rowspan="18">Gebeurtenisprogramma</td> 
    <td>Maken</td> 
-   <td>Kanaaltype "kanaaltype"<br><br>of Uitgekloond van "programmenaam"</td> 
+   <td>Kanaaltype "kanaaltype"<br>of<br>Uitgekloond uit "programmenaam"</td> 
   </tr> 
   <tr> 
    <td>Naam wijzigen</td> 
@@ -373,7 +373,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Gekloond naar werkruimte "naam werkruimte" <br>Locatie "campagnemap" of "betrokkenheidsprogramma" Naam "nieuwe naam <br>gekloond programma"</td> 
+   <td>Uitgekloond naar werkruimte "naam werkruimte" <br>Locatie "campagnemap" of "betrokkenheidsprogramma" <br>Naam van gekloond programma "nieuwe naam"</td> 
   </tr> 
   <tr> 
    <td>Kanaal bewerken</td> 
@@ -405,7 +405,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Programmainstelling wijzigen</td> 
-   <td>Analysegedrag "gedragsnaam" bewerken<br>Oude gedrag "gedragsnaam"</td> 
+   <td>Analysegedrag "gedragsnaam"<br>Oude gedrag "gedragsnaam" bewerken</td> 
   </tr> 
   <tr> 
    <td>Programmainstelling wijzigen</td> 
@@ -479,11 +479,11 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Cloned to "Design studio" into folder "folder name" <br>Cloned asset name "name"<br><br>orCloned to "Marketing Activities" in program "program name"<br>Cloned asset name"</td> 
+   <td>Gekloond naar "Design studio" in map "foldername" <br>Naam gekloond element "name"<br>of<br>Gekloond naar "Marketing Activities" in programma "name"<br>Naam gekloond element</td> 
   </tr> 
   <tr> 
    <td>Verplaatsen</td> 
-   <td>Verplaatst naar "Design studio" in map "mapnaam"<br><br>ofVerplaatst naar "Marketing activities" in programma "programmenaam"</td> 
+   <td>Verplaatst naar "Design studio" in de map "folder name"<br>or<br>Verplaatst naar "Marketing activities" in "program name"</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -493,7 +493,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   <tr> 
    <td rowspan="9">Openingspagina</td> 
    <td>Maken</td> 
-   <td>Gemaakt met de sjabloonnaam <br>of <br>gekloond met de naam van het element</td> 
+   <td>Gemaakt met behulp van sjabloon "sjabloonnaam" <br>of <br>Uitgekloond met "elementnaam"</td> 
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
@@ -509,11 +509,11 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Cloned to "Design studio" into folder "folderName"<br>Cloned asset name "name"<br>Cloned asset URL "www.url.com"<br><br>orCloned to "Marketing Activities" into program "program name" <br>Cloned asset name "<br>Cloned asset URL "www.url.com"</td> 
+   <td>Gekloond naar "Design studio" in map "foldername"<br>Naam gekloond element "name"<br>URL gekloond element "www.url.com"<br>of<br>Gekloond naar "Marketing Activities" in programma "program name" <br>Naam gekloond element "name"<br>URL gekloond middel "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Verplaatsen</td> 
-   <td>Verplaatst naar "Design studio" in map "mapnaam"<br> of<br> Verplaatst naar "Marketing activities" in programma "programmenaam"</td> 
+   <td>Verplaatst naar "Design studio" in map "folder name"<br> of<br> Verplaatst naar "Marketing activities" in programma "program name"</td> 
   </tr> 
   <tr> 
    <td>Goedkeuren</td> 
@@ -530,7 +530,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   <tr> 
    <td rowspan="8">Landingspagina-sjabloon</td> 
    <td>Maken</td> 
-   <td><p><br><br>BlankorCloned from "asset name"</p></td> 
+   <td><p>Leeg<br>of<br>Uitgekloond van "naam van element"</p></td> 
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
@@ -571,7 +571,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Gekloond naar "Person Database" in map "foldername" <br>Naam gekloond element "name"<br><br>ofKloond naar "Marketing Activities" in programma "name"<br>Naam gekloond element"</td> 
+   <td>Gekloond naar "Person Database" in map "foldername" <br>Naam gekloond element "name"<br>of<br>Gekloond naar "Marketing Activities" in programma "program name"<br>Naam gekloond element"</td> 
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
@@ -600,7 +600,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Verplaatsen</td> 
-   <td>Verplaatst naar "Programma's" in "Programmanaam"<br><br>of Verplaatst naar "Mappen" in "Mapnaam"</td> 
+   <td>Verplaatst naar "Programma's" in programma "programmanaam"<br>of<br>Verplaatst naar "Mappen" in map "mapnaam"</td> 
   </tr> 
   <tr> 
    <td>Naam wijzigen</td> 
@@ -616,7 +616,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Uitgekloond naar "Programma's" in "programmanaam" <br>Naam gekloond element "naam"<br><br>ofUitgekloond naar "map" in "mapnaam"naam<br>gekloond element"</td> 
+   <td>Uitgekloond naar "Programma's" in "programmanaam" <br>Naam van gekloond element "naam"<br>of<br>Uitgekloond naar "map" in "mapnaam"<br>Naam van gekloond element"</td> 
   </tr> 
   <tr> 
    <td>SmartList instellen</td> 
@@ -653,7 +653,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Gekloond naar "Person Database" in map "foldername" <br>Naam gekloond element "name"<br><br>ofGekloond naar "Marketing Activities" in programma "name" <br>Naam gekloond middel</td> 
+   <td>Gekloond naar "Person Database" in map "foldername" <br>Naam gekloond element "name"<br>of<br>Gekloond naar "Marketing Activities" in programma "program name" <br>Naam gekloond element</td> 
   </tr> 
   <tr> 
    <td>SmartList instellen</td> 
@@ -662,7 +662,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   <tr> 
    <td rowspan="11">Fragment</td> 
    <td>Maken</td> 
-   <td><p><br><br>BlankorCloned from "snippet name"</p></td> 
+   <td><p>Leeg<br>of<br>Uitgekloond van "fragmentnaam"</p></td> 
   </tr> 
   <tr> 
    <td>Bewerken</td> 
@@ -690,7 +690,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Klonen</td> 
-   <td>Gekloond naar "mapnaam" <br>Naam van gekloond fragment</td> 
+   <td>Uitgekloond naar "mapnaam" <br>Naam van gekloond fragment "naam"</td> 
   </tr> 
   <tr> 
    <td>Goedkeuren</td> 
@@ -743,7 +743,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   <tr> 
    <td rowspan="3">Rol<br><br></td> 
    <td>Maken</td> 
-   <td>Rol die met "rolnaam"wordt gecreeerd (NOTA: als u details over toegevoegde toestemmingen nodig hebt, gelieve steun te contacteren) - <br>toont momentopname van toestemmingen die aan de rol worden toegewezen</td> 
+   <td>Rol die met "rolnaam"wordt gecreeerd (NOTA: als u details over toegevoegde toestemmingen nodig hebt, gelieve steun) te contacteren - <br>toont momentopname van toestemmingen die aan de rol worden toegewezen</td> 
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
@@ -751,7 +751,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Bewerken</td> 
-   <td>Rol bewerkt van "vorige naam" naar "nieuwe naam" (OPMERKING: als u meer informatie nodig hebt over bewerkte machtigingen, neemt u contact op met de ondersteuningsafdeling) - <br>geeft u een momentopname weer van de machtigingen die aan de rol zijn toegewezen<br></td> 
+   <td>Rol bewerkt van "vorige naam" naar "nieuwe naam" (OPMERKING: als u details over uitgegeven toestemmingen nodig hebt, gelieve steun) te contacteren - <br>toont momentopname van toestemmingen die aan de rol worden toegewezen<br></td> 
   </tr> 
   <tr> 
    <td>Smartlist-rapport</td> 
