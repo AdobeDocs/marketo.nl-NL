@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Audittrail inschakelen {#enable-audit-trail}
+# Audittrail {#enable-audit-trail} inschakelen
 
 Audittrail is beschikbaar voor alle klanten en wordt beheerd door twee beheerdersmachtigingen.
 
@@ -21,15 +21,15 @@ Audittrail is beschikbaar voor alle klanten en wordt beheerd door twee beheerder
 
 ## Audittrail inschakelen voor een rol {#enable-audit-trail-for-a-role}
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/one-2.png)
 
-1. Selecteer **Gebruikers en rollen** en klik op **Rollen**.
+1. Selecteer **Gebruikers &amp; rollen** en klik **Rollen**.
 
    ![](assets/two-2.png)
 
-1. Selecteer de rol waarvoor u Audittrail wilt inschakelen en klik op Rol **** bewerken.
+1. Selecteer de rol u het Spoor van de Controle voor wilt toelaten en **Edit Rol** klikken.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ Audittrail is beschikbaar voor alle klanten en wordt beheerd door twee beheerder
    >
    >U hebt hier ook de optie om een nieuwe rol te creëren en het toegang van het Spoor van de Controle te verlenen.
 
-1. Vouw de machtiging **Toegangsbeheer** uit. Selecteer **Access Audit Trail** en/of **Access Login History**, afhankelijk van uw behoeften. Klik op **Opslaan**.
+1. Breid **Toegang Admin** toestemming uit. Selecteer **Access Audit Trail** en/of **Access Login History**, afhankelijk van uw behoeften. Klik **Opslaan**.
 
    ![](assets/four-1.png)
 
@@ -46,22 +46,22 @@ Audittrail is beschikbaar voor alle klanten en wordt beheerd door twee beheerder
    >**Definitie**
    >
    >
-   >**Actie audittrail:** Biedt gebruikers toegang tot zowel Asset Audit Trail als Admin Audit Trail.
+   >**Access Audit Trail:** geeft gebruikers toegang tot zowel Asset Audit Trail als Admin Audit Trail.
    >
    >
-   >**Aanmeldingsgeschiedenis toegang:** Biedt gebruikers toegang tot de historie [van de](user-login-history.md)gebruikersaanmelding.
+   >**Toegang tot aanmeldingsgeschiedenis:** geeft gebruikers toegang tot  [gebruikersaanmeldingsgeschiedenis](user-login-history.md).
 
 ## Roll audittrail toewijzen aan een gebruiker {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[Maak](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) of [schakel](#Enable) een bestaande rol in en geef deze de machtigingen Audittrail.
+>[](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) Creëer of  [](#Enable) laat bestaande rol toe, die het de toestemmingen van het Spoor van de Controle geeft.
 
-1. Klik in **Gebruikers en rollen** op **Gebruikers**.
+1. Klik in **Gebruikers &amp; rollen** op **Gebruikers**.
 
    ![](assets/five-1.png)
 
-1. Selecteer de gebruiker u de toegang van het Spoor van de Controle wilt geven tot en de klik **geeft Gebruiker** uit.
+1. Selecteer de gebruiker u de toegang van het Spoor van de Controle tot wilt geven en **geef Gebruiker** uit.
 
    ![](assets/six-1.png)
 
@@ -75,9 +75,9 @@ Audittrail is beschikbaar voor alle klanten en wordt beheerd door twee beheerder
 
    >[!CAUTION]
    >
-   >Als u werkruimten hebt ingeschakeld, schakelt u het selectievakje voor de rol in, waarmee alle werkruimten worden geselecteerd. Als u de selectie van een afzonderlijke werkruimte opheft, wordt Audittrail verborgen. Dit betekent u de gegevens van het Spoor van de Controle voor elke werkruimte zult zien. U kunt werkruimten tijdens het [filteren](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail)wel verbergen.
+   >Als u werkruimten hebt ingeschakeld, schakelt u het selectievakje voor de rol in, waarmee alle werkruimten worden geselecteerd. Als u de selectie van een afzonderlijke werkruimte opheft, wordt Audittrail verborgen. Dit betekent u de gegevens van het Spoor van de Controle voor elke werkruimte zult zien. U kunt werkruimten verbergen wanneer [filteren](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/eight-1.png)
 
