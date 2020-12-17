@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Champion/Challenger: Rapportwaarschuwingen configureren {#champion-challenger-configure-report-alerts}
+# Champion/Challenger: Rapportwaarschuwingen {#champion-challenger-configure-report-alerts} configureren
 
 Marketo stuurt u rapporten over de manier waarop de e-mailtest verloopt. Hier is hoe je het kunt plannen.
 
@@ -35,11 +35,11 @@ Marketo stuurt u rapporten over de manier waarop de e-mailtest verloopt. Hier is
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
-1. Controleer of alle gegevens correct zijn en klik op **Sluiten**.
+1. Controleer of alle gegevens correct zijn en klik op **Close**.
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 
