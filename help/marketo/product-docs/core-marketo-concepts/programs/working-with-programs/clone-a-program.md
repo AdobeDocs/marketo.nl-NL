@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt snel en gemakkelijk een volledig programma en al zijn activa klonen in plaats van manueel alles te herbouwen. Zo gaat het.
 
-1. Zoek en selecteer het programma dat u wilt klonen en klik vervolgens onder **Programmahandelingen** op **Klonen.**
+1. Zoek en selecteer het programma dat u wilt klonen en klik vervolgens onder **Programmaacties** op **Klonen.**
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,7 +23,7 @@ U kunt snel en gemakkelijk een volledig programma en al zijn activa klonen in pl
 
    >[!NOTE]
    >
-   >Programma&#39;s kunnen worden gekloond in [campagnemappen](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [of](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) werkruimten [](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Zorg ervoor dat u alle onderliggende afhankelijke elementen deelt (e-mails, fragmenten, sjablonen voor bestemmingspagina&#39;s, enz.) met de doelwerkruimte voordat u gaat klonen.
+   >Programma&#39;s kunnen worden gekloond in [campagne](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [mappen](../../../../product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) of [werkruimten](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Zorg ervoor dat u alle onderliggende afhankelijke elementen deelt (e-mails, fragmenten, sjablonen voor bestemmingspagina&#39;s, enz.) met de doelwerkruimte voordat u gaat klonen.
 
    ![](assets/cloneto.png)
 
@@ -41,7 +41,7 @@ U kunt snel en gemakkelijk een volledig programma en al zijn activa klonen in pl
    Kies de map waarnaar u het programma wilt klonen.
    ![](assets/choosefolderclone.png)
 
-1. Voeg een optionele beschrijving toe en klik op **Maken**. Kijk hoe snel u een nieuw programma kon creëren met al zijn activa klaar om te gaan!
+1. Voeg een optionele beschrijving toe en klik vervolgens op **Maken**. Kijk hoe snel u een nieuw programma kon creëren met al zijn activa klaar om te gaan!
 
    ![](assets/createclone.png)
 
