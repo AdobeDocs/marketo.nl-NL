@@ -19,15 +19,15 @@ Als u een specifieke reeks lood uit Salesforce moet verwijderen maar hen als men
 >
 >Alleen beschikbaar bij integratie met Salesforce.
 
-1. Klik in de database op de persoon die u uit Salesforce wilt verwijderen. Klik vervolgens op Handelingen **** persoon en selecteer **Salesforce**.
+1. Klik in de database op de persoon die u uit Salesforce wilt verwijderen. Klik vervolgens op **Handelingen personen** en selecteer **Salesforce**.
 
    ![](assets/person-actions-salesforce.png)
 
-1. Selecteer Person **verwijderen uit SFDC**.
+1. Selecteer **Persoon verwijderen uit SFDC**.
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Zorg ervoor dat de instelling **Verwijderen in markeerteken** **false** is en klik vervolgens op **Nu** uitvoeren.
+1. Zorg ervoor dat de **Delete in Marketo**-instelling **false** is en klik vervolgens op **Nu uitvoeren**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
@@ -35,5 +35,5 @@ Als u een specifieke reeks lood uit Salesforce moet verwijderen maar hen als men
 
    >[!CAUTION]
    >
-   >Als u **Delete in Marketo** instelt op **true** en de mensen van Marketo en de leads van Salesforce verwijdert, zijn ze voor altijd verdwenen. Dit kan niet ongedaan worden gemaakt.
+   >Als u **Delete in Marketo** aan **true** plaatst en de mensen van Marketo en de lood van Salesforce schrapt, zijn zij voorgoed gegaan. Dit kan niet ongedaan worden gemaakt.
 
