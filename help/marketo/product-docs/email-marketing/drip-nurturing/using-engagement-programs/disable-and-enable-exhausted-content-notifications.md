@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Uitgebreide inhoudsmeldingen uitschakelen en inschakelen {#disable-and-enable-exhausted-content-notifications}
+# Uitgebreide inhoudsmeldingen {#disable-and-enable-exhausted-content-notifications} uitschakelen en inschakelen
 
 Wanneer mensen alle inhoud in een stroom uitlaten, kan Marketo u een bericht sturen. U kunt de meldingen op basis van uw behoeften uitschakelen/inschakelen. Zo gaat het.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer een betrokkenheidsprogramma en klik op het tabblad **Setup** .
+1. Selecteer een betrokkenheidsprogramma en klik op het tabblad **Setup**.
 
    ![](assets/setuptab.jpg)
 
-1. Dubbelklik op **Uitgebreide inhoudsmeldingen**.
+1. Dubbelklik **Uitgebreide inhoudsmeldingen**.
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Selecteer **Uit **(of **Aan**) en klik op **Opslaan**.
+1. Selecteer **Uit **(of **Aan**) en klik **Opslaan**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
