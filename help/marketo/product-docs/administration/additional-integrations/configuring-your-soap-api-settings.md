@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Admin** en klik de Diensten **van het** Web.
+1. Ga naar **Admin** en klik **Webservices**.
 
    ![](assets/image2014-9-19-10-3a58-3a11.png)
 
-1. Stel de gewenste **coderingssleutel** in, klik op Wijzigingen **** opslaan en geef alle gegevens door aan uw ontwikkelaar.
+1. Plaats aangewezen **Sleutel van de Encryptie**, klik **sparen Veranderingen**, en geef alle informatie aan uw Ontwikkelaar door.
 
    ![](assets/image2014-9-19-11-3a0-3a46.png)
 
