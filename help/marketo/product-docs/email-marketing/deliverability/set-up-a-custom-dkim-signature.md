@@ -21,7 +21,7 @@ Om levering van topniveau te verzekeren, ondertekenen wij automatisch al uitgaan
 
 U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze. Zo gaat het.
 
-1. Ga naar de sectie **Beheer** .
+1. Ga naar **Admin** sectie.
 
    ![](assets/adminhand.png)
 
@@ -30,11 +30,11 @@ U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze
    >
    >Als u een aangepaste DKIM-handtekening op de ouderwetse manier instelt, blijft deze werken en wordt deze hier weergegeven.
 
-1. Klik op **E-mail**, klik vervolgens op het tabblad **DKIM** en **voeg ten slotte Domein** toe.
+1. Klik **E-mail**, dan **DKIM** tabel, en tenslotte **Add Domein**.
 
    ![](assets/image2014-9-18-15-3a39-3a30.png)
 
-1. Voer het domein dat u gebruikt in e-mailberichten voor markeren als Van adres in en klik op **Toevoegen**.
+1. Ga het domein in u in Marketo e-mails als Van Adres zult gebruiken en **Add** klikt.
 
    >[!TIP]
    >
@@ -43,11 +43,11 @@ U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze
 
    ![](assets/image2014-9-18-15-3a40-3a28.png)
 
-1. Stuur het **hostrecord** en de **TXT-waarde** naar uw IT-afdeling. Vraag hen om het verslag voor u tot stand te brengen en ervoor te zorgen het aan alle nameservers verbonden aan het van domein verspreidt. De DKIM-verificatie van Marketo vereist dat de DKIM-sleutel wordt doorgegeven aan alle nameservers die zijn gekoppeld aan het domein dat DKIM-ondertekend is.
+1. Verzend **Hostrecord** en **TXT Value** naar uw IT-afdeling. Vraag hen om het verslag voor u tot stand te brengen en ervoor te zorgen het aan alle nameservers verbonden aan het van domein verspreidt. De DKIM-verificatie van Marketo vereist dat de DKIM-sleutel wordt doorgegeven aan alle nameservers die zijn gekoppeld aan het domein dat DKIM-ondertekend is.
 
    ![](assets/image2014-9-18-15-3a40-3a44.png)
 
-1. Zodra zij bevestigen hebben zij tot het verslag geleid, kom terug naar Marketo, selecteer uw domein, en klik **Controle DNS**.
+1. Zodra zij bevestigen hebben zij tot het verslag geleid, kom terug naar Marketo, selecteer uw domein, en klik **Controleer DNS**.
 
    ![](assets/check.png)
 
