@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Campagnesynchronisatie inschakelen/uitschakelen {#enable-disable-campaign-sync}
+# Campagne-synchronisatie inschakelen/uitschakelen {#enable-disable-campaign-sync}
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ Met deze optie kan Marketo zijn lidmaatschap en status van het programma synchro
 
    **
 
-1. Klik op Instellingen **synchroniseren** bewerken.
+1. Klik **Synchronisatie-instellingen bewerken**.
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Schakel **Enable Salesforce Campaign Sync** in en klik op **SAVE**.
+1. Schakel **Synchronisatie van Salesforce-campagne inschakelen** en klik op **OPSLAAN**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
