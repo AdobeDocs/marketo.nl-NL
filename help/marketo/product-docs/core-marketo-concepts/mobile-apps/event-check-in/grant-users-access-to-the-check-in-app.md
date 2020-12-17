@@ -17,11 +17,11 @@ Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebe
 
 ## Nieuwe gebruikersrol maken voor mobiele apparaten {#create-a-new-user-role-for-mobile}
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. Klik op **Gebruikers en rollen**.
+1. Klik **Gebruikers &amp; rollen**.
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
@@ -29,7 +29,7 @@ Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebe
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Voer een naam in voor de nieuwe rol en een optionele beschrijving. Schakel het vak **Toegang tot mobiele toepassing** in en klik op **Maken**.
+1. Voer een naam in voor de nieuwe rol en een optionele beschrijving. Schakel het selectievakje **Mobiele toepassing benaderen** in en klik op **Maken**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -37,7 +37,7 @@ Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebe
 
 ## Nieuwe gebruikers uitnodigen voor de Inchecken-app {#invite-new-users-for-the-check-in-app}
 
-1. Klik op het tabblad **Gebruikers** .
+1. Klik op het tabblad **Gebruikers**.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
@@ -45,7 +45,7 @@ Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebe
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Voer de gegevens van de nieuwe gebruiker in. Selecteer de selectievakjes voor alle relevante rollen en de nieuwe rol met toestemming om de mobiele app te openen. Klik op **Uitnodigen** wanneer u klaar bent.
+1. Voer de gegevens van de nieuwe gebruiker in. Selecteer de selectievakjes voor alle relevante rollen en de nieuwe rol met toestemming om de mobiele app te openen. Klik **Nodig** uit wanneer u wordt gedaan.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 
