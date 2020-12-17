@@ -19,15 +19,15 @@ Koppelingen in je e-mailberichten met je abonnement op rapporten verlopen na dri
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik onder **Beheerder** op **Aanmeldingsinstellingen**.
+1. Klik onder **Admin** op **Aanmeldingsinstellingen**.
 
    ![](assets/image2014-9-24-11-3a33-3a31.png)
 
-1. Klik op URL-vervaldatum **bewerken**.
+1. Klik **URL-vervaldatum bewerken**.
 
    ![](assets/image2014-9-24-11-3a33-3a43.png)
 
-1. Selecteer in de vervolgkeuzelijst het aantal dagen voordat de koppeling vervalt. Klik op **Opslaan**.
+1. Selecteer in de vervolgkeuzelijst het aantal dagen voordat de koppeling vervalt. Klik **Opslaan**.
 
    ![](assets/emaillinkexpiration.png)
 
