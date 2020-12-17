@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Prestatierapport voor betrokkenheidsstream {#engagement-stream-performance-report}
+# Prestatierapport van betrokkenheidsstream {#engagement-stream-performance-report}
 
 Wilt u weten hoe de inhoud van uw service presteert? Probeer het prestatierapport voor de betrokkenheidsstream.
 
-## Het rapport maken {#create-the-report}
+## Rapport {#create-the-report} maken
 
 1. Zoek en selecteer uw serviceprogramma en klik vervolgens onder **Nieuw** op **Nieuw lokaal element**.
 
@@ -32,36 +32,36 @@ Wilt u weten hoe de inhoud van uw service presteert? Probeer het prestatierappor
    Selecteer de Prestaties van de Stroom van de Betrokkenheid als rapporttype.
    ![](assets/engagementreportchoose.png)
 
-1. Geef een naam op voor uw rapport en klik op **Maken**.
+1. Geef uw rapport een naam en klik op **Maken**.
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
    Goed! Laten we nu de instellingen uitchecken.
 
-## Instellingen bewerken {#edit-settings}
+## Instellingen {#edit-settings} bewerken
 
 1. Zoek en selecteer uw rapport.
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Dubbelklik op het filter E-mailprogramma **** Betrokkenheid onder het tabblad **Setup** .
+1. Dubbelklik onder het tabblad **Setup** op het filter **Engagement Program Email**.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. Selecteer de e-mail(s) die u wilt melden en klik op **Toepassen**.
+1. Selecteer de e-mail(s) waarop u wilt rapporteren en klik op **Toepassen**.
 
    ![](assets/engagementfilter.jpg)
 
-## Rapport uitvoeren {#run-report}
+## Rapport {#run-report} uitvoeren
 
-1. Om het rapport in werking te stellen klik eenvoudig op het **lusje van het Rapport** .
+1. Om het rapport in werking te stellen klikt eenvoudig op **Report** tabel.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
    >
-   >Hoewel niet geïllustreerd, is de Score van de Betrokkenheid een kolom in dit rapport. Zie [De Engagement Score](understanding-the-engagement-score.md) begrijpen voor meer informatie over wat het is.
+   >Hoewel niet geïllustreerd, is de Score van de Betrokkenheid een kolom in dit rapport. Zie [De Engagement Score](understanding-the-engagement-score.md) voor meer informatie over wat het is.
 
    Geweldig werk! Het rapport is gegroepeerd op betrokkenheidsprogramma.
 
