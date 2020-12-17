@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een e-mailkampioen/challenger toevoegen {#add-an-email-champion-challenger}
+# Een e-mailkampioen/challenger {#add-an-email-champion-challenger} toevoegen
 
 Het is een goed idee om e-mails te testen die je vaak gebruikt om er zeker van te zijn dat ze werken. Eén manier is om de effectiviteit van een e-mail te vergelijken met andere versies, of uitdagers. In een champion/challenger test, kunt u het volledige e-mail, de onderwerpregel, of het van adres testen.\
 De bestaande e-mail die u test, wordt beschouwd als de kampioen. Alle varianten die u binnen een test maakt, worden beschouwd als de uitdagers. U bepaalt het percentage mensen dat de champion-inhoud of de uitdager-inhoud ontvangt. Als je meerdere uitdagers hebt gedefinieerd, zullen ze gelijkelijk verdeeld worden over de klaaggroep.\
@@ -28,9 +28,9 @@ Zo ga je aan de slag.
 
 >[!CAUTION]
 >
->E-mails van Champion/Challenger werken alleen met triggercampagnes en betrokkenheidsprogrammastreams. Gebruik voor batchberichten de testfunctionaliteit [A/B van het e-mailprogramma](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
+>E-mails van Champion/Challenger werken alleen met triggercampagnes en betrokkenheidsprogrammastreams. Voor batchberichten gebruikt u de [A/B-testfunctionaliteit](../../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) van het e-mailprogramma.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -43,7 +43,7 @@ Zo ga je aan de slag.
    >**Diep duiken**
    >
    >
-   >Meer informatie over e- [mailprogramma&#39;s](http://docs.marketo.com/display/docs/email+programs)vindt u bij eenmalig e-mailverkeer.
+   >Meer informatie over [e-mailprogramma&#39;s](http://docs.marketo.com/display/docs/email+programs) vindt u bij eenmalig e-mailberichten.
 
 1. Klik onder **E-mailhandelingen** op **Nieuwe test**.
 
