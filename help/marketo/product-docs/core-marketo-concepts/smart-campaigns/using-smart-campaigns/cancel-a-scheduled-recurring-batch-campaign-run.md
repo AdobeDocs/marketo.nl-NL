@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Een geplande batchcampagne annuleren {#cancel-a-scheduled-recurring-batch-campaign-run}
+# Een geplande batchcampagne voor terugkeren annuleren {#cancel-a-scheduled-recurring-batch-campaign-run}
 
 Als u een terugkerende partijcampagne hebt die u niet meer wilt, kunt u de toekomstige looppas annuleren. Zo gaat het.
 
-1. Klik op de slimme campagne en vervolgens op het tabblad **Schema** .
+1. Klik op de slimme campagne, dan **Programma** tabel.
 
    ![](assets/image2014-9-22-16-3a44-3a51.png)
 
-1. Klik op **Plan** **Herhaling**.
+1. Klik op **Schema** **Herhaling**.
 
    ![](assets/image2014-9-22-16-3a44-3a55.png)
 
    >[!TIP]
    >
-   >U kunt één enkele looppas annuleren door te klikken op ![—](assets/image2014-9-22-16-3a45-3a42.png) naast het. Leer hoe u een geplande batchcampagne [annuleert](cancel-a-scheduled-batch-campaign-run.md).
+   >U kunt één enkele looppas annuleren door op ![—](assets/image2014-9-22-16-3a45-3a42.png) naast het te klikken. Leer hoe u een geplande batchcampagne [ kunt annuleren.](cancel-a-scheduled-batch-campaign-run.md)
 
 1. Stel Schema in op **Geen** en **Opslaan**.
 
