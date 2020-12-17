@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Resultaten van slimme campagnes filteren {#filter-smart-campaign-results}
+# Resultaten slimme campagne filteren {#filter-smart-campaign-results}
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Filter slimme campagneresultaten om specifieke activiteiten te zien die voor u v
 
 ## Filteren op opgeslagen filters {#filter-by-saved-filters}
 
-1. Klik op het tabblad **Resultaten** van de slimme campagne op **Filter** en selecteer een opgeslagen filter.
+1. In uw slimme campagne **Results** tabel, klik op **Filter** en selecteer een bewaard filter.
 
    ![](assets/resultsfilter-hands.png)
 
@@ -35,11 +35,11 @@ Filter slimme campagneresultaten om specifieke activiteiten te zien die voor u v
 
 ## Een aangepast filter maken {#create-a-custom-filter}
 
-1. Klik op **Filter** en vervolgens op **Aangepast**.
+1. Klik op **Filter** en vervolgens **Aangepast**.
 
    ![](assets/filterscustom-hands.png)
 
-1. Selecteer de activiteitstypen die u wilt zien en klik op **Opslaan als** .
+1. Selecteer activiteitstypen die u wilt zien en klik op **Opslaan als**.
 
    ![](assets/activityfiltersettings-hands.png)
 
