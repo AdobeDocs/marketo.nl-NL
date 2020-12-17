@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Het markeren is voltooid {#marking-it-done}
+# Gereed {#marking-it-done} markeren
 
 Markeer een e-mailprogramma, gebeurtenis of analysekaart als Gereed om deze uit uw stream te verwijderen. Er zijn twee manieren om het te doen.
 
@@ -19,7 +19,7 @@ Markeer een e-mailprogramma, gebeurtenis of analysekaart als Gereed om deze uit 
 
    ![](assets/image2015-7-14-17-3a32-3a35.png)
 
-1. Tik **op Gereed**.
+1. Tik **Done**.
 
    ![](assets/image2015-7-14-17-3a36-3a31.png)
 
