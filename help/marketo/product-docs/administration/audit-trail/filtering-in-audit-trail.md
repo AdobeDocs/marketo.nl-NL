@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Filter op tijdkader, type element, gebruikers, actie uitgevoerd en meer.
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/one-1.png)
 
-1. Selecteer onder **Beveiliging** de optie **Audittrail**.
+1. Selecteer **Audittrail** onder **Beveiliging**.
 
    ![](assets/two-1.png)
 
@@ -29,13 +29,13 @@ Filter op tijdkader, type element, gebruikers, actie uitgevoerd en meer.
 
    >[!NOTE]
    >
-   >Er zijn vele mogelijke combinaties van zoekparameters. In dit voorbeeld vinden we het volgende: *alle e - mails die door iemand zijn bewerkt , hebben de afgelopen zeven dagen* plaatsgevonden .
+   >Er zijn vele mogelijke combinaties van zoekparameters. In dit voorbeeld vinden we het volgende: *alle e-mails - door iedereen bewerkt - in de afgelopen zeven dagen*.
 
 1. Klik op de vervolgkeuzelijst **Periode** en selecteer **Laatste 7 dagen**.
 
    ![](assets/four.png)
 
-1. Klik op de vervolgkeuzelijst **Elementtype** en selecteer **E-mail**.
+1. Klik op de vervolgkeuzelijst **Type element** en selecteer **E-mail**.
 
    ![](assets/five.png)
 
@@ -43,7 +43,7 @@ Filter op tijdkader, type element, gebruikers, actie uitgevoerd en meer.
 
    ![](assets/six.png)
 
-1. Klik op **Toepassen**.
+1. Klik **Toepassen**.
 
    ![](assets/seven.png)
 
