@@ -15,13 +15,13 @@ ht-degree: 0%
 
 De volgende functies zijn opgenomen in de release van februari 2015. Controleer uw Marketo Edition voor de beschikbaarheid van functies. Na de release wilt u koppelingen naar gedetailleerde artikelen voor elke functie zoeken. Trommelrol...
 
-## Verbeteringen op gebied van marketingautomatisering {#marketing-automation-enhancements}
+## Verbeteringen voor marketingautomatisering {#marketing-automation-enhancements}
 
-** [Slimme campagne](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)verplaatsen**
+** [Slimme campagne verplaatsen](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
 
 Veel plezier! Nu kunt u slimme campagnes in en uit programma&#39;s bewegen gebruikend belemmering en daling of de eigenschap van de Beweging in de boom.
 
-** [Dynamics 2015 (Online)](http://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- ondersteund!
+** [Dynamics 2015 (Online)](http://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises) **- supported!
 
 **Wijzigingen in HTTPS-certificaat**
 
@@ -29,11 +29,11 @@ Om vertrouwelijkheid en integriteit van klantengegevens en de diensten van SaaS 
 
 en vervangt momenteel gebruikte beveiligingsprotocollen (SHA-1 en SSL) door veiligere versies (SHA-2 (ook bekend als (SHA-256) en TLS) voor de volgende domeinen:
 
-`·` [marketo.net](http://marketo.net) (gecodeerd Munchkin-verkeer)
+`·` [marketo.net](http://marketo.net)  (gecodeerd Munchkin-verkeer)
 
 `·` [marketo.com](http://marketo.com) (belangrijkste SaaS-toepassingen)
 
-Dit gebeurt kort na deze release. Het SHA-1-protocol wordt tijdelijk ondersteund op [mktoapi.com](http://mktoapi.com) -domein tot december 2015 zodat eigenaars van oudere systemen en toepassingen hun systemen kunnen bijwerken met SHA-2-compatibiliteit.
+Dit gebeurt kort na deze release. Het SHA-1-protocol wordt tot december 2015 tijdelijk ondersteund op [mktoapi.com](http://mktoapi.com)-domein om eigenaars van oudere systemen en toepassingen toe te staan hun systemen bij te werken met SHA-2-compatibiliteit.
 
 **Secure Munchkin**
 
@@ -47,6 +47,6 @@ Selecteer de pagina&#39;s die u in real time wilt weergeven bij het gebruik van 
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-** [Land en staat toegevoegd aan op account gebaseerde gerichte](https://docs.marketo.com/display/DOCS/View+a+Named+Account+List)acties**
+** [Land en staat toegevoegd aan op account-gebaseerde gericht](https://docs.marketo.com/display/DOCS/View+a+Named+Account+List)**
 
 Land en staat kunnen nu worden toegevoegd aan uw lijst met benoemde accounts. De belangrijkste rekeningsvooruitzichten van het doel van specifieke plaatsen.
