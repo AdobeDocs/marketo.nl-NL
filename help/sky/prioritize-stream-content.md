@@ -20,7 +20,7 @@ Nadat u inhoud aan uw stroom hebt toegevoegd, kunt u de prioriteit willen verand
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-1.png)
 
-1. Klik op het **[!UICONTROL Streams]** tabblad.
+1. Klik op het tabblad **[!UICONTROL Streams]**.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/prioritize-stream-content/prioritize-stream-content-2.png)
 
