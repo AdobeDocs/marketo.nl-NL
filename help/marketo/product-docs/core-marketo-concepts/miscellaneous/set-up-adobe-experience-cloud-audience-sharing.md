@@ -23,23 +23,23 @@ Als u publieksgegevens wilt delen met uw Adobe-toepassingen, moet u eerst uw Ado
 
    ![](assets/one-2.png)
 
-1. Klik onder Integratie op Delen van **Experience Cloud-publiek**.
+1. Klik onder Integratie op **Experience Cloud Audience Sharing**.
 
    ![](assets/two-2.png)
 
-1. Klik op **Bewerken**.
+1. Klik **Bewerken**.
 
    ![](assets/three-2.png)
 
-1. Voer uw Adobe IMS-organisatie-id in (leer dat [hier](http://docs.adobe.com/content/help/en/control-panel/using/faq.html)te vinden) en klik op **OK**.
+1. Voer uw Adobe IMS-organisatie-id in (leer hoe u dat [hier](http://docs.adobe.com/content/help/en/control-panel/using/faq.html) vindt) en klik op **OK**.
 
    ![](assets/four-2.png)
 
-1. Klik op **Bevestigen**.
+1. Klik **Bevestigen**.
 
    ![](assets/five-1.png)
 
-1. Klik op **Sluiten**.
+1. Klik **Close**.
 
    ![](assets/six-2.png)
 
@@ -47,7 +47,7 @@ Als u publieksgegevens wilt delen met uw Adobe-toepassingen, moet u eerst uw Ado
    >
    >Om veiligheidsredenen, moet u een Admin van de Org voor de Organisatie van de Adobe zijn die u aan in kaart wilt brengen. Als je dat niet bent, zal de actie mislukken.
 
-1. Als u *nog niet* bent aangemeld, wordt een pop-up weergegeven in een nieuw tabblad/venster. Meld u aan bij uw Adobe org (deze bewerking valideert de toegang tot de org).
+1. Als u *niet* reeds het programma wordt geopend, zal pop-up in een nieuw lusje/venster verschijnen. Meld u aan bij uw Adobe org (deze bewerking valideert de toegang tot de org).
 
-   En dat is het! U kunt nu beginnen met het [delen van publieksgegevens](http://docs.marketo.com/x/ogI6Ag).
+   En dat is het! U kunt nu [beginnen publieksgegevens te delen](http://docs.marketo.com/x/ogI6Ag).
 
