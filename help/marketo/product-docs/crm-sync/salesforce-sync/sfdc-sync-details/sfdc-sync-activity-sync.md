@@ -21,11 +21,11 @@ Marketo synchroniseert over zowel gebeurtenissen als taken die aan een lead of c
 
 ## Hoe worden de activiteitsgegevens gesynchroniseerd tussen de twee systemen? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-De synchronisatie is één manier, van Salesforce tot Marketo. Maar u kunt een taak in Salesforce tot stand brengen gebruikend de de stroomstap van de [Taak](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) van het Maken of de Synchronisatie [van Activiteiten van het](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) Aanpassen aan Salesforce.
+De synchronisatie is één manier, van Salesforce tot Marketo. Maar u kunt een taak in Salesforce tot stand brengen gebruikend [Create Taak](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) stroomstap of [Customize Activiteiten Sync](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) aan Salesforce.
 
 ## Kan ik een taak maken met Marketo? {#can-i-create-a-task-using-marketo}
 
-Ja, u kunt de actie [Taakstroom](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)maken gebruiken.
+Ja, kunt u [de actie van de Stroom van de Taak creëren](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) gebruiken.
 
 ## Wat zijn de triggers/filters gerelateerd aan activiteit? {#what-are-the-triggers-filters-related-to-activity}
 
