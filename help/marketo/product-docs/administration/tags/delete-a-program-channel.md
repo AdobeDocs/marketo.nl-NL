@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een programmakanaal verwijderen {#delete-a-program-channel}
+# Programmakanaal {#delete-a-program-channel} verwijderen
 
 Programmakanalen zijn een verzameling statussen of controlepunten die door een programma moeten worden geleid.
 
@@ -21,7 +21,7 @@ Als u per ongeluk een foto maakt of deze niet meer nodig hebt, kunt u deze verwi
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
-1. Klik op **Labels**.
+1. Klik **Codes**.
 
    ![](assets/image2014-9-24-16-3a7-3a33.png)
 
@@ -33,7 +33,7 @@ Als u per ongeluk een foto maakt of deze niet meer nodig hebt, kunt u deze verwi
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-Bam! U kunt ook specifieke statussen [verwijderen uit kanalen](delete-a-program-status-from-a-program-channel.md).
+Bam! U kunt ook [specifieke statussen verwijderen uit kanalen](delete-a-program-status-from-a-program-channel.md).
 
 >[!MORELIKETHIS]
 >
