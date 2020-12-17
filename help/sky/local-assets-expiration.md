@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Stel een vervaldatum/-tijd in om de publicatie van bestemmingspagina&#39;s ongedaan te maken, triggercampagnes te deactiveren of herhalende batchcampagnes te stoppen. U vindt deze functie in de **[!UICONTROL Expiration]** sectie onder het **[!UICONTROL Assets]** tabblad.
+Stel een vervaldatum/-tijd in om de publicatie van bestemmingspagina&#39;s ongedaan te maken, triggercampagnes te deactiveren of herhalende batchcampagnes te stoppen. U vindt deze functie in de sectie **[!UICONTROL Expiration]** onder het tabblad **[!UICONTROL Assets]**.
 
 ![Afbeelding één](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-1.png)
 
@@ -34,7 +34,7 @@ Stel een vervaldatum/-tijd in om de publicatie van bestemmingspagina&#39;s onged
 
 >[!NOTE]
 >
->Als u een bestaande vervaldatum wilt bewerken, controleert u gewoon het element of de elementen en klikt u **[!UICONTROL Set Expiration]**.
+>Als u een bestaande vervaldatum wilt bewerken, controleert u gewoon het element of de elementen en klikt u op **[!UICONTROL Set Expiration]**.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Stel een vervaldatum/-tijd in om de publicatie van bestemmingspagina&#39;s onged
 
 ## Een vervaldatum verwijderen
 
-1. Als u een vervaldatum wilt verwijderen, controleert u het element of de elementen en klikt u **[!UICONTROL Remove Expiration]**.
+1. Als u een vervaldatum wilt verwijderen, controleert u de elementen en klikt u op **[!UICONTROL Remove Expiration]**.
 
    ![Afbeelding vijf](/help/sky/assets/programs/local-assets-expiration/local-assets-expiration-5.png)
 
