@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Voer een slimme campagne opnieuw uit in de overzichtsweergave van het programma {#rerun-a-smart-campaign-in-the-program-schedule-view}
+# Voer een slimme campagne opnieuw uit in de Mening {#rerun-a-smart-campaign-in-the-program-schedule-view} van het Programma
 
 U kunt gemakkelijk nieuwe looppas van een bestaande slimme campagne direct van de mening van het programmaprogramma tot stand brengen.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-3.png)
 
