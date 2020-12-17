@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: Lente 18 {#release-notes-spring}
+# Opmerkingen bij de release: Lente &#39;18 {#release-notes-spring}
 
 De volgende functies zijn opgenomen in de release van het voorjaar van 18. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
 
@@ -35,7 +35,7 @@ U kunt meer pijpleidingen en inkomsten aansturen door verkoop meer mogelijkheden
 * **Update** voor wachtwoordbeleid: Houd uw gegevens veiliger met strengere vereisten voor het maken, opnieuw instellen en verlopen van wachtwoorden (voldoet aan de nalevingsvereisten voor Soc II - Type 1).
 * **Gestroomlijnde ervaring** bij het instellen van accounts: Uw account wordt sneller ingesteld en verbonden met Gmail, Outlook en andere systemen.
 
-## Marketo Sky Open bèta {#marketo-sky-open-beta}
+## Bèta {#marketo-sky-open-beta} openen Marketo Sky
 
 [Marketo Sky Open bèta](https://help.marketo.com/hc/en-us)
 
@@ -69,11 +69,11 @@ Deel uw snelle grafieken eenvoudig met andere gebruikers van Performance Insight
 
 Geoptimaliseerde navigatie en verbeterde workflows geven u inzicht in de criteria voor het succes van het programma en in de toegang tot de programmagegevens.
 
-## <sup>ContentAI</sup>  {#contentai}
+## Inhoud<sup>AI</sup> {#contentai}
 
 [Doelinstelling](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Stel het doel van het<sup>ContentAI</sup> -optimalisatiealgoritme in om meer weergaven, klikken of conversies te sturen.
+Stel het doel van het optimalisatiealgoritme Inhoud<sup>AI</sup> in om meer weergaven, klikken of conversies te sturen.
 
 ## Integratie en API&#39;s {#integration-and-apis}
 
