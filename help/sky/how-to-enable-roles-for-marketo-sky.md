@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-[!DNL Marketo] Beheerders kunnen rollen inschakelen voor [!DNL Sky] in het [!UICONTROL Admin] gebied van [!DNL Marketo Classic].
+[!DNL Marketo] Beheerders kunnen rollen inschakelen voor  [!DNL Sky] in het  [!UICONTROL Admin] gebied van  [!DNL Marketo Classic].
 
-1. Klik [!DNL Marketo Classic]in **[!UICONTROL Admin]**.
+1. Klik in [!DNL Marketo Classic] op **[!UICONTROL Admin]**.
 
    ![Afbeelding één](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-1.png)
 
-1. Selecteer in de structuur **[!UICONTROL Marketo Sky]**.
+1. Selecteer **[!UICONTROL Marketo Sky]** in de structuur.
 
    ![Afbeelding twee](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-2.png)
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
    ![Afbeelding drie](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-3.png)
 
-1. De geselecteerde rollen zullen nu [!DNL Marketo Sky] via de tegel in hun **[!UICONTROL My Marketo]** kunnen toegang hebben.
+1. De geselecteerde rollen zullen nu tot [!DNL Marketo Sky] via de tegel in hun **[!UICONTROL My Marketo]** kunnen toegang hebben.
 
    ![Afbeelding vier](/help/sky/assets/home/how-to-enable-roles-for-marketo-sky/how-to-enable-roles-for-marketo-sky-4.png)
