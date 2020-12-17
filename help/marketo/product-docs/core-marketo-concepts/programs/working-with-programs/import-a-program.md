@@ -11,40 +11,40 @@ ht-degree: 0%
 ---
 
 
-# Een programma importeren {#import-a-program}
+# Een programma {#import-a-program} importeren
 
 Een programma kan van één abonnement van Marketo in een andere worden ingevoerd. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. U kunt ook een vooraf gebouwd programma importeren vanuit de Marketo-programmabibliotheek.
 
-## Een programma importeren {#import-a-program-1}
+## Een programma {#import-a-program-1} importeren
 
-1. Ga naar **marketingactiviteiten.**
+1. Ga naar **Marketingactiviteiten.**
 
    ![](assets/ma.png)
 
-1. Klik **Nieuw **drop-down. Selecteer **Importprogramma**.
+1. Klik **Nieuw **drop-down. Selecteer **Programma importeren**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >De Invoer van het programma is slechts beschikbaar voor gebruikers die rollen hebben met toegelaten de toestemming van het Programma van de Invoer. Meer informatie over het [beheren van gebruikersrollen en machtigingen](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >De Invoer van het programma is slechts beschikbaar voor gebruikers die rollen hebben met toegelaten de toestemming van het Programma van de Invoer. Meer informatie over [het beheren van gebruikersrollen en toestemmingen](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
    >
-   >Als u een sandboxaccount wilt koppelen aan uw live abonnement, neemt u contact op met de [Marketo-ondersteuning](http://www.marketo.com/services/support/).
+   >Neem contact op met [Marketo Support](http://www.marketo.com/services/support/) om een sandboxaccount te verbinden met uw live abonnement.
 
-1. Selecteer een Marketo- **abonnement** en een programma dat u wilt importeren. Klik op **Volgende**.
+1. Selecteer een Marketo **Abonnement** en een programma om in te voeren. Klik **Volgende**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
-1. Geef een **campagnemap** op voor het geïmporteerde programma. Klik op **Volgende.**
+1. Geef een **Campagnemap** op voor het geïmporteerde programma. Klik **Volgende.**
 
    ![](assets/image2014-9-17-12-3a20-3a44.png)
 
    >[!NOTE]
    >
-   >Zorg ervoor ** ****Gebruik de standaard collisieregels** wordt geselecteerd. Conflictregels zijn nodig wanneer u programma&#39;s importeert in een instantie met elementen met dezelfde naam.
+   >Zorg ervoor ** ****De standaard collisieregels van het gebruik** wordt geselecteerd. Conflictregels zijn nodig wanneer u programma&#39;s importeert in een instantie met elementen met dezelfde naam.
 
-1. Geef een voorvertoning weer van de details en **importeer** het programma.
+1. Geef een voorvertoning weer van details en **Importeer** het programma.
 
    ![](assets/image2014-9-17-12-3a21-3a36.png)
 
@@ -58,7 +58,7 @@ U ontvangt een e-mailbevestiging nadat het importeren is voltooid.
 >
 >U moet geïmporteerde batchcampagnes opnieuw plannen en triggercampagnes activeren. Het systeem deactiveert automatisch campagnematerialen en activeert campagnes in het geïmporteerde programma.
 
-## Pre-Built Programma&#39;s identificeren in de Marketo Program Library {#identify-pre-built-programs-in-the-marketo-program-library}
+## Pre-Built Programma&#39;s in de Bibliotheek van het Programma van de Marketo {#identify-pre-built-programs-in-the-marketo-program-library} identificeren
 
 De Marketo-programmabibliotheek bevat vooraf gebouwde, geteste programma&#39;s die u kunt importeren in uw abonnement. Beschikbare programma&#39;s zijn:
 
@@ -77,7 +77,7 @@ De Marketo-programmabibliotheek bevat vooraf gebouwde, geteste programma&#39;s d
 1. **Synchroniseer Nieuwe personen met CRM.** De campagne die nieuwe mensen aan uw systeem van CRM synchroniseert. Het wijst een persoonstatus toe zodat het als niet verkoopklaar wordt erkend.
 1. **Webinar met de Adapter van de Gebeurtenis.** Een volledige reeks e-mailberichten - zoals uitnodigingen en herinneringen - plus landingspagina&#39;s met formulieren en campagnes om mensen door het programma te bewegen. Dit programma krijgt updates over registratie, aanwezigheid, enz. van online gebeurtenisleveranciers zoals WebEx.
 1. **Webinar zonder gebeurtenisadapter.** Hetzelfde als hierboven, maar met handmatige registratieprocedures, aanwezigheid enz.
-1. **Scoreprogramma** voor Sirius-besluiten. Dit programma is opgezet ter ondersteuning van het standaardmodel voor Sirius-besluiten met score, inclusief de impliciete en expliciete scores en de gematrixeerde personentaak. Bekijk [deze](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)PDF voor meer informatie.
+1. **Scoreprogramma** voor Sirius-besluiten. Dit programma is opgezet ter ondersteuning van het standaardmodel voor Sirius-besluiten met score, inclusief de impliciete en expliciete scores en de gematrixeerde personentaak. Deze PDF [weergeven](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)voor meer informatie.
 
 >[!CAUTION]
 >
@@ -105,6 +105,6 @@ De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, landende pa
 >
 >Tijdens het importeren van een programma worden bestemmingspagina&#39;s/e-mails met [dynamische inhoud](http://docs.marketo.com/x/yRAt) overgeslagen.
 
-## Een video bekijken {#watch-a-video}
+## Bekijk een video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
