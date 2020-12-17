@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Power Pack voor e-maillevering: Een zaadlijst importeren {#email-deliverability-power-pack-how-to-import-a-seedlist}
+# Power Pack voor e-maillevering: Een zaadlijst {#email-deliverability-power-pack-how-to-import-a-seedlist} importeren
 
 Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbusleveranciers, met inbegrip van de Apps van Google, Hotmail, Yahoo!, enz., die worden gebruikt om het tarief van inbox tegenover spamomslagleveringscapaciteit te benaderen. Hieronder wordt beschreven hoe u die lijst ophaalt in uw Marketo-instantie.
 
@@ -21,29 +21,29 @@ Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbuslevera
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-## Een zaadlijst importeren {#import-a-seedlist}
+## Een zaadlijst {#import-a-seedlist} importeren
 
-1. Ga naar **Leveringsgereedschappen**.
+1. Ga naar **Deliverability Tools**.
 
    ![](assets/one-1.png)
 
-1. Klik op **Inbox Informant**.
+1. Klik **Inbox Informant**.
 
    ![](assets/two-1.png)
 
-1. Klik op **zaadlijst** ophalen.
+1. Klik **Get Seedlist**.
 
    ![](assets/three-1.png)
 
-1. Klik op Lijst **** exporteren.
+1. Klik **Lijst exporteren**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Kies Lijst **** optimaliseren als u 250ok uw lijst [voor u wilt](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) optimaliseren. Kies** Lijst aanpassen* als u de gebieden in de lijst wilt selecteren die u wilt opnemen.
+   >Kies **Lijst optimaliseren** als u 250ok aan [optimaliseer uw lijst](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) voor u wilt. Kies** Lijst aanpassen* als u de gebieden in de lijst wilt selecteren die u wilt opnemen.
 
-1. Na het exporteren wordt de lijst weergegeven als een .txt-bestand in de downloadmap van uw browser. Haal het op en [importeer](../../../getting-started/quick-wins/import-a-list-of-people.md) het als een statische lijst in uw Marketo-instantie.
+1. Na het exporteren wordt de lijst weergegeven als een .txt-bestand in de downloadmap van uw browser. Haal het terug, en [import](../../../getting-started/quick-wins/import-a-list-of-people.md) het in uw instantie van Marketo als statische lijst.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbuslevera
 
    >[!CAUTION]
    >
-   >U krijgt een beperkte hoeveelheid van deze Informele Campagnes Inbox per maand. Kijk in uw 250ok- **accountinstellingen** voor meer informatie. Neem voor meer informatie contact op met je vertegenwoordiger van Marketo.
+   >U krijgt een beperkte hoeveelheid van deze Informele Campagnes Inbox per maand. Als u wilt zien hoeveel u krijgt, kijkt u in uw 250ok **Accountinstellingen**. Neem voor meer informatie contact op met je vertegenwoordiger van Marketo.
 
 ## Nieuwe zaadlijsten ophalen {#acquiring-new-seedlists}
 
