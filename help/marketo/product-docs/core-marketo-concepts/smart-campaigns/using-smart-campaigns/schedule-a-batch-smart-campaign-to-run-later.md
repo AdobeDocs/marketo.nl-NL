@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Een slimme batchcampagne plannen om later uit te voeren {#schedule-a-batch-smart-campaign-to-run-later}
+# Een slimme campagne voor batchverwerking plannen om later {#schedule-a-batch-smart-campaign-to-run-later} uit te voeren
 
 Als je een &#39;batch smart&#39; campagne wilt instellen om op een bepaald moment in de toekomst te starten, is dit hoe.
 
 >[!TIP]
 >
->U kunt een batch smart campagne ook [opnieuw plannen in de mening](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)van het programmaprogramma.
+>U kunt een batch smart campagne in de mening van het programmaprogramma [ook opnieuw plannen.](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)
 
-1. Selecteer de slimme batch-campagne die u wilt uitvoeren, ga naar het tabblad **Schema** en klik op Eenmaal **uitvoeren**.
+1. Selecteer de batch smart campagne u wilt in werking stellen, naar **Schema** tabel gaan, en **Looppas Eenmaal** klikken.
 
    ![](assets/scheduledruns2.png)
 
-1. Klik later **op** Uitvoeren, klik vervolgens op het kalenderpictogram en selecteer de dag waarop de slimme campagne moet worden uitgevoerd.
+1. Klik **Later uitvoeren**, dan klik het kalenderpictogram en selecteer de dag u de slimme campagne wilt lopen.
 
    ![](assets/runonce.png)
 
@@ -31,11 +31,11 @@ Als je een &#39;batch smart&#39; campagne wilt instellen om op een bepaald momen
 
    ![](assets/runoncetime.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/runoncetimesave.png)
 
-1. U kunt de geplande looppas bevestigen door het lusje van het **Programma** te bekijken.
+1. U kunt de geplande looppas bevestigen door **Schedule** tabel te bekijken.
 
    ![](assets/scheduledrunsbox.png)
 
