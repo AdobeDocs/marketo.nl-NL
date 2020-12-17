@@ -29,4 +29,4 @@ Pak je favoriete drank en kijk eens rond.
 * [Te beoordelen handelingen: Kernvaardigheden](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
 * [Manieren om hulp te krijgen](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 
-Als u reeds uw weg rond uw geval kent en met de kernconcepten van Marketo vertrouwd bent, controleer de Docs van het Product van de Marketo, of bezoek de online gemeenschap van de [Marketing Nation](https://nation.marketo.com/) om te zien wat andere gebruikers van Marketo zeggen.
+Als u reeds uw weg rond uw geval kent en met de kernconcepten van Marketo vertrouwd bent, controleer de Docs van het Product van de Marketo, of bezoek de [online gemeenschap van de Natie van de Marketing](https://nation.marketo.com/) om te zien wat andere gebruikers van Marketo zeggen.
