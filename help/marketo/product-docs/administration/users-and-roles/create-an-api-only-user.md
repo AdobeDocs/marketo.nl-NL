@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Alleen een API-gebruiker maken {#create-an-api-only-user}
 
-Als u wilt integreren met Marketo via de [REST API](http://developers.marketo.com/documentation/rest/), moet u een gebruiker met alleen de API maken. Zo gaat het.
+Als u met Marketo via [REST API](http://developers.marketo.com/documentation/rest/) wilt integreren, zult u een slechts gebruiker moeten creëren API. Zo gaat het.
 
 >[!PREREQUISITES]
 >
@@ -27,15 +27,15 @@ Als u wilt integreren met Marketo via de [REST API](http://developers.marketo.co
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik onder **Beheer** op **Gebruikers en rollen.**
+1. Klik onder **Admin** op **Gebruikers en rollen.**
 
    ![](assets/image2014-9-17-9-3a31-3a31.png)
 
-1. Klik op Nieuwe gebruiker **uitnodigen**.
+1. Klik **Nieuwe gebruiker uitnodigen**.
 
    ![](assets/image2014-9-17-9-3a32-3a3.png)
 
-1. Voer een e-mail, voornaam en achternaam in voor alleen de gebruiker van de API. Klik op **Volgende**.
+1. Voer een e-mail, voornaam en achternaam in voor alleen de gebruiker van de API. Klik **Volgende**.
 
    ![](assets/image2016-5-24-10-3a53-3a7.png)
 
@@ -43,11 +43,11 @@ Als u wilt integreren met Marketo via de [REST API](http://developers.marketo.co
    >
    >Voeg een optionele reden of een vervaldatum toe. De vervaldata van de toegang zijn handig voor kortetermijnwerknemers.
 
-1. Selecteer de rol Alleen **** API en schakel het selectievakje Alleen **** API in. Klik op **Volgende**.
+1. Selecteer de rol **Alleen API** en schakel het selectievakje **Alleen API** in. Klik **Volgende**.
 
    ![](assets/four.png)
 
-1. Klik op **Verzenden**.
+1. Klik **Send**.
 
    ![](assets/image2016-5-24-11-3a8-3a20.png)
 
