@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personen pauzeren in een betrokkenheidsprogramma {#pause-people-in-an-engagement-program}
 
-Als een persoon lid is van een betrokkenheidsprogramma, ontvangen ze inhoud totdat alle inhoud [is](people-who-have-exhausted-content.md)uitgeput. U kunt de de stroomstap van het Programma van de Aanwezigheid [van de Aanwezigheid van de Aanverbintenis van de](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) Verandering gebruiken om mensen tegen te houden die inhoud ontvangen zelfs als zij nog niet uitgeputte inhoud hebben.
+Als een persoon lid is van een betrokkenheidsprogramma, ontvangt hij of zij inhoud tot [alle inhoud is uitgeput](people-who-have-exhausted-content.md). Met de stroomstap [Aanwezigheid wijzigingsprogramma wijzigen](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) kunt u voorkomen dat mensen inhoud ontvangen, zelfs als ze nog geen inhoud hebben uitgeput.
 
 1. Selecteer het betrokkenheidsprogramma.
 
@@ -23,7 +23,7 @@ Als een persoon lid is van een betrokkenheidsprogramma, ontvangen ze inhoud totd
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   U kunt de persoon weer instellen op **Normaal** als u wilt dat deze opnieuw inhoud ontvangt. Ze zullen hervat worden waar ze weggingen.
+   U kunt de persoon terugzetten op **Normaal** als u wilt dat deze opnieuw inhoud ontvangt. Ze zullen hervat worden waar ze weggingen.
 
    >[!NOTE]
    >
