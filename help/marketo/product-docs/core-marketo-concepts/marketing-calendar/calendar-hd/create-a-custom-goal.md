@@ -15,9 +15,9 @@ ht-degree: 0%
 
 De doelstellingen zijn manieren om vooruitgang te volgen en uw team te motiveren. Nadat u ze hebt gemaakt, moeten ze handmatig worden bijgewerkt.
 
-Net als presentaties zijn de doelstellingen [werkruimtespecifiek](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+Net als presentaties zijn de doelstellingen [werkruimte](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifiek.
 
-1. Ga naar de **kalender**.
+1. Ga naar **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
@@ -33,7 +33,7 @@ Net als presentaties zijn de doelstellingen [werkruimtespecifiek](../../../../pr
 
    ![](assets/image2015-3-24-12-3a32-3a45.png)
 
-1. Voer een naam in voor het doel. Selecteer een **valuta**.
+1. Voer een naam in voor het doel. Selecteer een **Valuta**.
 
    >[!NOTE]
    >
@@ -41,7 +41,7 @@ Net als presentaties zijn de doelstellingen [werkruimtespecifiek](../../../../pr
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. Voer een waarde in voor **Doel** en **Huidige waarde** (als er geen waarde is, **voer 0** in). Klik vervolgens op **Maken**.
+1. Voer een waarde in voor **Doel** en **Huidige waarde** (als er geen is, **Voer 0** in). Klik vervolgens op **Maken**.
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 
