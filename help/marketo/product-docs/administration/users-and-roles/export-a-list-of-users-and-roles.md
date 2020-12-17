@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Het is vrij gemakkelijk om een volledige lijst van uw gebruikers en gebruikersrollen uit te voeren. Zo gaat het.
 
-1. Ga naar **Beheer**.
+1. Ga naar **Admin**.
 
    ![](assets/adminhand.png)
 
-1. Klik op **Gebruikers en rollen**.
+1. Klik **Gebruikers &amp; rollen**.
 
    ![](assets/image2014-9-10-9-3a25-3a27.png)
 
@@ -31,7 +31,7 @@ Het is vrij gemakkelijk om een volledige lijst van uw gebruikers en gebruikersro
 
    >[!TIP]
    >
-   >Als u rollen wilt exporteren, gaat u eerst naar het tabblad **Rollen***** en exporteert u vervolgens.
+   >Als u rollen wilt exporteren, gaat u eerst naar het tabblad **Rollen**** **en exporteert u vervolgens.
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
