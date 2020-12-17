@@ -17,13 +17,13 @@ Als u ooit alleen tekst wilt verzenden, gaat u als volgt te werk om een e-mail t
 
 >[!NOTE]
 >
->Omdat deze optie wordt gevolgd door de ontvanger die de afbeeldingen van de e-mail downloadt (inclusief een onzichtbare pixel voor het bijhouden van de gegevens), kunnen deze geopend **niet** worden bijgehouden voor e-mails met alleen tekst.
+>Omdat het openen wordt bijgehouden door de ontvanger die de afbeeldingen van de e-mail downloadt (die een onzichtbare tekstpixel bevat), kunnen opent **niet** worden bijgehouden voor e-mails met alleen tekst.
 
-1. Ga naar het gebied **Marketingactiviteiten** .
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/one-1.png)
 
-1. Selecteer het programma, klik op de vervolgkeuzelijst **Nieuw** en selecteer **Nieuw lokaal element**.
+1. Selecteer uw programma, klik **Nieuw** drop-down en selecteer **Nieuw Lokaal element**.
 
    ![](assets/two-1.png)
 
@@ -31,7 +31,7 @@ Als u ooit alleen tekst wilt verzenden, gaat u als volgt te werk om een e-mail t
 
    ![](assets/three-1.png)
 
-1. Voer een **naam** in, selecteer een sjabloon en klik op **Maken**.
+1. Voer een **Naam** in, selecteer een sjabloon en klik op **Maken**.
 
    ![](assets/four-1.png)
 
@@ -39,19 +39,19 @@ Als u ooit alleen tekst wilt verzenden, gaat u als volgt te werk om een e-mail t
 
    ![](assets/five.png)
 
-1. Schakel Alleen **** tekst in en klik op **Opslaan**.
+1. Controleer **Alleen tekst** en klik op **Opslaan**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >Koppelingen worden niet automatisch bijgehouden in e-mails met alleen tekst. Zie hoe u bijgehouden koppelingen [toevoegt aan een tekste-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Koppelingen worden niet automatisch bijgehouden in e-mails met alleen tekst. Zie hoe u [Bijgehouden koppelingen toevoegen aan een tekste-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
    >U kunt ook een bestaande e-mail bewerken en deze instelling wijzigen. Vergeet niet het concept goed te keuren.
 
-1. Schakel het selectievakje **Automatisch kopiëren vanuit HTML** uit.
+1. Schakel het selectievakje **Automatisch kopiëren uit van HTML** uit.
 
    ![](assets/seven.png)
 
