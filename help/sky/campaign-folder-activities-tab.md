@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Campagnemap: Tabblad Activiteiten
 
-Hier vindt u de belangrijkste informatie over uw campagnes op het **[!UICONTROL Activities]** tabblad.
+Belangrijke informatie over uw campagnes vindt u op het tabblad **[!UICONTROL Activities]**.
 
 ![Afbeelding één](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-1.png)
 
-Gebruik de **[!UICONTROL Filter by]** drop-down om uw campagnes door type van activiteit te filtreren. U kunt ook zoeken op campagne, type activiteit, enz.
+Gebruik de vervolgkeuzelijst **[!UICONTROL Filter by]** om uw campagnes te filteren op type activiteit. U kunt ook zoeken op campagne, type activiteit, enz.
 
 ![Afbeelding twee](/help/sky/assets/campaign-folders/campaign-folder-activities-tab/campaign-folder-activities-tab-2.png)
 
