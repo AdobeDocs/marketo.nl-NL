@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Slimme campagnes en e-mailprogramma&#39;s kunnen worden gecreëerd als tijdelijke invoer en moeten worden bevestigd om daadwerkelijk iets te kunnen doen. Zo gaat het.
 
-1. Ga naar de **kalender**.
+1. Ga naar **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 
-1. Selecteer de vermelding die u wilt bevestigen en klik op **Programmafocus** tonen.
+1. Selecteer de vermelding die u wilt bevestigen en klik op **Programmafocus tonen**.
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 
