@@ -17,13 +17,13 @@ Met Marketo kunt u uw programma&#39;s synchroniseren met Salesforce-campagnes om
 
 >[!PREREQUISITES]
 >
->U moet eerst de [synchronisatie](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) van de Salesforce-campagne inschakelen.
+>U moet eerst [de campagnecsync](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) van Salesforce inschakelen.
 
 >[!CAUTION]
 >
 >Wanneer een SFDC-campagne wordt gesynchroniseerd met een Marketo-programma, worden de geïmpliceerde SFDC-acties (bijv. toevoegen aan SFDC-campagne, synchroniseren met SFDC) uitgeschakeld voor onderliggende campagnes van het programma.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -31,7 +31,7 @@ Met Marketo kunt u uw programma&#39;s synchroniseren met Salesforce-campagnes om
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. Klik op **Program Actions** en selecteer vervolgens **Salesforce Campaign Sync**.
+1. Klik **Program Actions**, dan selecteer **Salesforce Campagne Sync**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
@@ -39,7 +39,7 @@ Met Marketo kunt u uw programma&#39;s synchroniseren met Salesforce-campagnes om
 
    >[!TIP]
    >
-   >Als u een bestaande Salesforce-campagne selecteert, moet u ervoor zorgen dat deze [overeenkomt met de status van het programma voor Salesforce en Marketo](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
+   >Als u een bestaande Salesforce-campagne selecteert, moet u [de status van het programma van de Salesforce-campagne en het Marketo-programma](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md) aanpassen.
 
 1. Voer een naam in voor de nieuwe campagne en klik op **Opslaan**.
 
