@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Wachten {#wait}
+# Wacht {#wait}
 
 ## Overzicht {#overview}
 
-Onderbreek een persoon in een slimme campagnestroom met handige **wachttijdstap**.
+Onderbreek een persoon in een slimme campagnestroom met handige **wachtstap**.
 
 ![](assets/wait-overview.png)
 
-U ziet hoe u in natuurlijke taal kunt typen zoals &quot;4 uur&quot;. Laat de woorden echter **niet** kort (4 uur). De slimme campagne zou nog lopen, maar de wachtstap zou genegeerd worden.
+U ziet hoe u in natuurlijke taal kunt typen zoals &quot;4 uur&quot;. U moet de woorden echter wel afbreken (d.w.z. 4 uur). **** De slimme campagne zou nog lopen, maar de wachtstap zou genegeerd worden.
 
 >[!CAUTION]
 >
@@ -27,7 +27,7 @@ U ziet hoe u in natuurlijke taal kunt typen zoals &quot;4 uur&quot;. Laat de woo
 
 >[!TIP]
 >
->Als u iemand reeds in een wachtende stap hebt en u wilt hen niet vooruit vooruitgaan nadat de wachttijdperiode beëindigt, neem [uit stroom](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) onmiddellijk na de wachtende stap op. Geef op wie u wilt verwijderen met de optie [Keuze](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) toevoegen.
+>Als u iemand reeds in een wachtende stap hebt en u wilt hen niet vooruit na de wachttijdperiode beëindigt, neem [verwijderen uit flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) onmiddellijk na de wachttijdstap op. Geef op wie u wilt verwijderen door de optie [choice](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) toe te voegen.
 
 ## Gebruik {#usage}
 
