@@ -20,23 +20,23 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 >We hebben hieronder een mooie kleine zelfstudie voor je opgezet. Het vertegenwoordigt een beste praktijk, maar dit kan andere manieren worden verwezenlijkt.
 
 1. Uw gegevens voorbereiden
-1. [Maak een aangepast](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)veld met de naam &quot;Voorkeurstaal&quot;. (Stel deze in uw CRM in als u wilt dat dit veld wordt gesynchroniseerd).
+1. [Maak een aangepast ](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)veld met de naam &quot;Voorkeurstaal&quot;. (Stel deze in uw CRM in als u wilt dat dit veld wordt gesynchroniseerd).
 
    >[!TIP]
    >
-   >In de toekomst kunt u dit veld gebruiken wanneer u een formulier [](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) maakt om taalvoorkeur vast te leggen.
+   >Gebruik dit veld in de toekomst wanneer u [een formulier maakt](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) om taalvoorkeur vast te leggen.
 
 1. Segmentatie maken
-1. Ga naar de **database**.
+1. Ga naar **Database**.
 ** ![](assets/db.png)
 
    **
 
-1. Klik in het keuzemenu **Nieuw** op **Nieuwe segmentatie**.
+1. Klik in de vervolgkeuzelijst **Nieuw** op **Nieuwe segmentatie**.
 
    ![](assets/two.png)
 
-1. Geef de **voorkeurstaal** voor segmentatie een naam. Klik op Segment **toevoegen**. Typ een taal.
+1. Geef de segmentatie **Voorkeurstaal** een naam. Klik **Segment toevoegen**. Typ een taal.
 
    ![](assets/image2015-3-9-8-3a33-3a44.png)
 
@@ -44,7 +44,7 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
    >
    >Het standaardsegment zal Engels zijn.
 
-1. Blijf segmenten toevoegen totdat alle talen worden weergegeven. Klik op **Maken**.
+1. Blijf segmenten toevoegen totdat alle talen worden weergegeven. Klik **Maken**.
 
    ![](assets/image2015-3-9-8-3a38-3a5.png)
 
@@ -52,7 +52,7 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 
    ![](assets/image2015-3-9-8-3a38-3a17.png)
 
-1. Ga naar het tabblad **Slimme lijst** . Typ **Voorkeurstaal** in het zoekveld. Sleep het filter naar het canvas.
+1. Ga naar **Slimme lijst** tabel. Typ **Voorkeurstaal** in het zoekveld. Sleep het filter naar het canvas.
 
    ![](assets/six.png)
 
@@ -60,12 +60,12 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 
    ![](assets/seven.png)
 
-1. Herhaal dit voor alle verschillende talen. Selecteer vervolgens de vervolgkeuzelijst **Segmentatiehandelingen** en klik op **Goedkeuren**.
+1. Herhaal dit voor alle verschillende talen. Selecteer vervolgens de vervolgkeuzelijst **Segmenteringsacties** en klik op **Goedkeuren**.
 
    ![](assets/image2015-3-9-8-3a39-3a36.png)
 
 1. Een fragment maken
-1. Ga naar de **Studio** van het Ontwerp.
+1. Ga naar **Design Studio**.
 
    ![](assets/ds.png)
 
@@ -75,7 +75,7 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 
    **
 
-1. Geef het fragment een naam voor **Unsubscribe Message**. Klik op **Maken**.
+1. Geef het fragment **Abonnement op bericht opzeggen** een naam. Klik **Maken**.
 
    ![](assets/image2015-3-9-8-3a40-3a54.png)
 
@@ -83,15 +83,15 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. Kopieer en plak deze token: **`{{system.unsubscribeLink}}`** in het veld **Koppelings-URL** . Klik op **Invoegen**.
+1. Kopieer en plak deze token: **`{{system.unsubscribeLink}}`** in het **veld URL koppelen**. Klik **Invoegen**.
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
-1. Selecteer **Segment door** in de sectie Segmentatie.
+1. Selecteer **Segment door** in de sectie van de Segmentatie.
 
    ![](assets/image2015-3-9-8-3a44-3a16.png)
 
-1. Typ in het keuzemenu Segmentatie de optie **Voorkeur** en selecteer **Voorkeurstaal**. Klik op **Opslaan**.
+1. Typ in het keuzemenu Segmentatie de optie **Voorkeur** en selecteer **Voorkeurstaal**. Klik **Opslaan**.
 
    ![](assets/image2015-3-9-8-3a44-3a32.png)
 
@@ -99,11 +99,11 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. Hetzelfde token kopiëren en plakken: **`{{system.unsubscribeLink}}`** in het veld **Koppelings-URL** . Klik op **Invoegen**.
+1. Hetzelfde token kopiëren en plakken: **`{{system.unsubscribeLink}}`** in het **veld URL koppelen**. Klik **Invoegen**.
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
-1. Herhaal dit voor alle segmenten. Dan, ga terug naar de Studio van het Ontwerp, klik de drop-down Acties **van het** Fragment, en klik **goedkeuren**.
+1. Herhaal dit voor alle segmenten. Dan, ga terug naar de Studio van het Ontwerp, klik **de drop-down Acties van het Fragment**, en klik **goedkeuren**.
 
    ![](assets/image2015-3-9-8-3a47-3a34.png)
 
@@ -114,15 +114,15 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 
    ![](assets/4.1.png)
 
-1. Zoek en selecteer het fragment in de keuzelijst en klik op **Opslaan**.
+1. Zoek en selecteer het fragment in de vervolgkeuzelijst en klik op **Opslaan**.
 
    ![](assets/image2015-3-9-8-3a50-3a16.png)
 
-1. Klik op **Vorige** om het bestand te testen...
+1. Om het uit te testen, klik **Terug**..
 
    ![](assets/4.3.png)
 
-1. ...dan het **Dynamische** lusje.
+1. ...Dan **Dynamisch** tabel.
 
    ![](assets/4.4.png)
 
@@ -165,5 +165,5 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
    >**Diep duiken**
    >
    >
-   >Meer weten over [dynamische inhoud](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) en alles wat u kunt doen?
+   >Meer informatie over [dynamische inhoud](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) en alle leuke dingen die u kunt doen.
 
