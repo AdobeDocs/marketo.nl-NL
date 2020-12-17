@@ -43,9 +43,9 @@ Vele-aan-vele douanevoorwerpen gebruiken twee verbindingsgebieden, deel van een 
 >
 >U kunt aangepaste objecten niet herstellen, dus zorg dat u ze niet meer nodig hebt voordat u ze verwijdert.
 
-## Aangepaste markeringsobjecten openen {#accessing-marketo-custom-objects}
+## Markering openen voor aangepaste objecten {#accessing-marketo-custom-objects}
 
-1. Als u aangepaste Marketo-objecten wilt maken of bewerken, klikt u op **Beheer **en vervolgens op de koppeling **Marketo Custom** Objects.
+1. Als u aangepaste Marketo-objecten wilt maken of bewerken, klikt u op **Admin **en vervolgens op de koppeling **Marketo Custom Object** s.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -67,15 +67,15 @@ Vele-aan-vele douanevoorwerpen gebruiken twee verbindingsgebieden, deel van een 
 
 Nadat u de structuur van het douanevoorwerp hebt gecreeerd, wanneer u de specifieke gegevens van het douanevoorwerp uploadt, worden de douanevoorwerpen automatisch geassocieerd aan mensen in het gegevensbestand gebruikend het verbindingsgebied in het douanevoorwerp. U kunt informatie bekijken van het lusje van Objecten van de Douane op de pagina van persoondetails.
 
-1. Ga naar **database**.
+1. Ga naar **Database**.
 
    ![](assets/db.png)
 
-1. Open uw database en klik op het tabblad **Personen** . Dubbelklik op de record voor een persoon die u aan een aangepast object hebt gekoppeld.
+1. Open uw database en klik op het tabblad **Personen**. Dubbelklik op de record voor een persoon die u aan een aangepast object hebt gekoppeld.
 
    ![](assets/five.png)
 
-1. Klik op het tabblad **Aangepaste objecten** op de pagina met persoonlijke details. Selecteer het object in de vervolgkeuzelijst.
+1. Klik op de pagina met persoonlijke details op het tabblad **Aangepaste objecten**. Selecteer het object in de vervolgkeuzelijst.
 
    ![](assets/six.png)
 
@@ -91,7 +91,7 @@ Als u veelvoudige mensen in Marketo hebt die verslagen in CRM of Marketo-slechts
 
 Aangepaste objecten kunnen alleen rechtstreeks aan één record worden gekoppeld. Dit betekent dat wanneer uw type van douaneobjecten door bedrijfgebied wordt verbonden, u zou moeten ervoor zorgen dat uw persoonverslagen aan een bedrijf of gebruikend contactomzetting in uw CRM, of gebruikend het externalCompanyId gebied worden geassocieerd, als u bedrijven beheert die REST APIs van Marketo gebruiken. Voor persoonrecords die niet expliciet aan bedrijfsrecords zijn gekoppeld, worden aangepaste objecten die met bedrijf zijn gekoppeld, willekeurig gekoppeld aan één record, zelfs als de waarde van het bedrijfsveld door veel personen wordt gedeeld.
 
-Zie Aangepaste objectgegevens [](import-custom-object-data.md) importeren voor meer informatie.
+Zie [Aangepaste objectgegevens importeren](import-custom-object-data.md) voor meer informatie.
 
 >[!MORELIKETHIS]
 >
