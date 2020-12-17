@@ -18,11 +18,11 @@ Betrokkenheidsprogramma&#39;s kunnen meerdere streams bevatten.
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-1.png)
 
-1. Klik op het **[!UICONTROL Streams]** tabblad.
+1. Klik op het tabblad **[!UICONTROL Streams]**.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-2.png)
 
-1. Klik **[!UICONTROL Add Stream]**.
+1. Klik op **[!UICONTROL Add Stream]**.
 
    ![Afbeelding drie](/help/sky/assets/engagement-programs/add-a-stream-to-an-engagement-program/add-a-stream-to-an-engagement-program-3.png)
 
