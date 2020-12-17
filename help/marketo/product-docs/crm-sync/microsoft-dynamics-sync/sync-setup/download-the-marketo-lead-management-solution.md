@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Download de oplossing Marketo Lead Management {#download-the-marketo-lead-management-solution}
+# Download de Marketo Lead Management Solution {#download-the-marketo-lead-management-solution}
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ U zult een Oplossing van de Marketo in uw rekening van de Dynamiek van Microsoft
 
 >[!CAUTION]
 >
->Het is absoluut noodzakelijk dat u de nieuwste Marketo-oplossing downloadt *voordat* u een upgrade uitvoert.
+>Het is absoluut noodzakelijk dat u de nieuwste Marketo-oplossing *downloadt voordat* een upgrade uitvoert.
 
 >[!NOTE]
 >
 >Marketo ondersteunt alleen SSL-certificaten die op dit moment compatibel zijn met Java 7.
 
-1. Ga naar het gebied **Beheer** .
+1. Ga naar **Admin** gebied.
 
    ![](assets/admin.png)
 
@@ -39,7 +39,7 @@ U zult een Oplossing van de Marketo in uw rekening van de Dynamiek van Microsoft
 
    ![](assets/image2015-3-11-13-3a9-3a7.png)
 
-1. Selecteer Marketo-oplossing **** downloaden.
+1. Selecteer **Marketo-oplossing downloaden**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
