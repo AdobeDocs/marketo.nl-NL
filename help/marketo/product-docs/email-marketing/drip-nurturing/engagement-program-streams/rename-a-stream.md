@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Als u georganiseerd wilt blijven, kunt u uw stromen anders noemen. Zo doe je het.
 
-1. Zoek en selecteer uw serviceprogramma en klik vervolgens op **Streams**.
+1. Zoek en selecteer uw serviceprogramma en klik op **Streams**.
 
    ![](assets/cloneasteam-1.jpg)
 
@@ -23,7 +23,7 @@ Als u georganiseerd wilt blijven, kunt u uw stromen anders noemen. Zo doe je het
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Voer de nieuwe **naam** voor de stream in en klik op **Opslaan**.
+1. Voer de nieuwe stream **Naam** in en klik op **Opslaan**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 
