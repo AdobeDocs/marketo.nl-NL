@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# De Programma&#39;s van de Betrokkenheid van het programma met Ontvankelijke Tijdzone {#schedule-engagement-programs-with-recipient-time-zone}
+# Programma&#39;s voor betrokkenheid plannen met tijdzone {#schedule-engagement-programs-with-recipient-time-zone} van ontvanger
 
-Wanneer u een stroom [van het betrokkenheidsprogramma](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) plant en de ontvankelijke tijdzone actief is, begint de programmagietvorm bij middernacht in de eerste tijdzone (UTC +14:00) te lopen. Wij vereisen u om de eerste gietvorm **minstens 25 uren** in de toekomst te plannen omdat er mensen kunnen zijn die voor de gietvorm in elke tijdzone over de wereld in aanmerking komen. Als u op dit moment met de verwerking begint in de eerste tijdzone, bent u er zeker van dat u de e-mail op de geplande datum en tijd voor elke ontvanger verzendt.
+Wanneer u [een stroom van het betrokkenheidsprogramma plant](https://docs.marketo.com/display/DOCS/Schedule+Engagement+Programs+for+Recipient+Time+Zones) en de ontvankelijke tijdzone actief is, zal de programmagietvorm beginnen lopend bij middernacht in de eerste tijdzone (UTC +14:00). Wij vereisen u om de eerste gietvorm **minstens 25 uren** in de toekomst te plannen omdat er mensen kunnen zijn die voor de gietvorm in elke tijdzone over de wereld kwalificeren. Als u op dit moment met de verwerking begint in de eerste tijdzone, bent u er zeker van dat u de e-mail op de geplande datum en tijd voor elke ontvanger verzendt.
 
 1. Navigeer in uw betrokkenheidsprogramma naar het tabblad **Streams** en klik op het cadence-programma van een stream om dit te bewerken.
 
    ![](assets/image2017-12-5-13-3a36-3a21.png)
 
-1. [Plaats uw gelijkheidsmontages](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) zoals u normaal zou, dan controleren **Ontvanger de Plaats van de Tijd **doos. Herinner dat uw eerste gietvorm minstens 25 uren in de toekomst moet zijn. Klik op **Opslaan**.
+1. [Stel de ](../../../../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) instellingen voor de cursus in zoals u dat normaal zou doen en schakel vervolgens het selectievakje Tijdzone **Ontvanger ** in. Herinner dat uw eerste gietvorm minstens 25 uren in de toekomst moet zijn. Klik **Opslaan**.
 
    ![](assets/image2017-12-5-13-3a50-3a32.png)
 
