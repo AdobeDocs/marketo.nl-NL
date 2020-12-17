@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics Sync: Synchroniseren {#microsoft-dynamics-sync-contact-sync}
+# Microsoft Dynamics Sync: Contactsynchronisatie {#microsoft-dynamics-sync-contact-sync}
 
 Wist u Marketo uw volledige database synchroniseert met Dynamics? Het synchroniseert, wacht dan 5 minuten en synchroniseert dan opnieuw, de hele dag, elke dag. Hier zijn sommige details over hoe Marketo de Contacten van de Dynamiek specifiek behandelt.
 
@@ -33,11 +33,11 @@ Ja. [Zo](microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamic
 
 ## Kan ik een synchronisatie van een persoon of een contact manueel dwingen? {#can-i-manually-force-a-sync-of-a-person-or-a-contact}
 
-Nee, de geautomatiseerde achtergrondsynchronisatie is de enige manier om updates tussen Marketo en Dynamics te synchroniseren. De persoon van de [Synchronisatie aan Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) zal geen synchronisatie van het lood dwingen.
+Nee, de geautomatiseerde achtergrondsynchronisatie is de enige manier om updates tussen Marketo en Dynamics te synchroniseren. De [Persoon synchroniseren naar Microsoft](../../../../product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) zal geen synchronisatie van de lead afdwingen.
 
 ## Welke velden worden gesynchroniseerd met Marketo? {#what-fields-will-sync-to-marketo}
 
-U kunt velden [selecteren die u tijdens de installatie wilt synchroniseren](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) . Marketo synchroniseert echter alleen de velden waartoe de synchronisatiegebruiker van de dynamiek toegang heeft.
+Tijdens de installatie kunt u [velden selecteren om te synchroniseren](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync). Marketo synchroniseert echter alleen de velden waartoe de synchronisatiegebruiker van de dynamiek toegang heeft.
 
 ## Zal Marketo de Dynamische bevestigingsregels naleven? {#will-marketo-respect-the-dynamics-validation-rules}
 
