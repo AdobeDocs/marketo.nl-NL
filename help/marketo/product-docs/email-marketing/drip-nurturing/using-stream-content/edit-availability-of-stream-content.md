@@ -15,21 +15,21 @@ ht-degree: 0%
 
 U kunt een tijdframe instellen waarin de inhoud actief wordt in uw stream. Zo gaat het.
 
-1. Selecteer uw serviceprogramma en ga naar het tabblad **Streams** .
+1. Selecteer uw serviceprogramma en ga naar het tabblad **Streams**.
 
    ![](assets/cloneasteam-2.jpg)
 
-1. Klik op het tandwielpictogram voor de inhoud die u wilt plannen en selecteer vervolgens Beschikbaarheid **bewerken**.
+1. Klik op het tandwielpictogram voor de inhoud die u wilt plannen en selecteer **Beschikbaarheid bewerken**.
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Selecteer uw **Actief van** datum, dan **Actief door **datum en klik **sparen**.
+1. Selecteer uw **Actieve datum van**, dan **Actief door **datum en klik **sparen**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
    >[!TIP]
    >
-   >U kunt **Actief door** leeg laten om inhoud voor altijd beschikbaar te maken.
+   >U kunt **Actief door** leeg verlaten om inhoud voor altijd beschikbaar te maken.
 
    Perfect! Het klokpictogram wordt weergegeven naast de geplande inhoud. Het wordt actief en inactief volgens het schema dat u instelt.   ![](assets/image2014-9-15-17-3a36-3a4.png)
 
