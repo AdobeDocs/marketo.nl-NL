@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Werken met Salesforce Sync {#understanding-the-salesforce-sync}
+# De Salesforce Sync {#understanding-the-salesforce-sync} begrijpen
 
 Marketo en Salesforce gaan samen als erwten en wortelen. We houden je verkoop- en marketinggegevens synchroon.
 
@@ -40,9 +40,9 @@ De synchronisatie tussen Salesforce en Marketo is bidirectioneel slechts voor lo
 
 >[!NOTE]
 >
->De [referenties die u invoert in Marketo voor Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) worden gebruikt om gegevens te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
+>De [geloofsbrieven u in Marketo voor Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) ingaat worden gebruikt om gegevens over te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
 
-Er zijn veel nuances en functies over de Salesforce-synchronisatie. Bekijk de details in de sectie [](http://docs.marketo.com/display/docs/sfdc+sync+details)SFDC-synchronisatiedetails.
+Er zijn veel nuances en functies over de Salesforce-synchronisatie. Bekijk de details in de sectie [SFDC-synchronisatiedetails](http://docs.marketo.com/display/docs/sfdc+sync+details).
 
 >[!MORELIKETHIS]
 >
