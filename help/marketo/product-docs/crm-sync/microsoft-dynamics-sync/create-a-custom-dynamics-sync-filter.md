@@ -37,19 +37,19 @@ Marketo zoekt dit veld tijdens de automatische achtergrondsynchronisatie en bepa
 
 >[!CAUTION]
 >
->De enige manier om Marketo te vertellen een verslag over te slaan is de gebiedswaarde uitdrukkelijk te plaatsen om **nr** te zijn. Marketo synchroniseert nog steeds records, zelfs als de veldwaarden leeg zijn.
+>De enige manier om Marketo te vertellen om een verslag over te slaan is de gebiedswaarde uitdrukkelijk te plaatsen om **No** te zijn. Marketo synchroniseert nog steeds records, zelfs als de veldwaarden leeg zijn.
 
 >[!PREREQUISITES]
 >
 >Installeer de nieuwste versie van de plug-in Marketo (3.0.0.1 of hoger). Ga naar Marketo > Admin > Microsoft Dynamics > Download Marketo Solution.
 
-## SyncToMkto-veld maken {#create-synctomkto-field}
+## SyncToMkto-veld {#create-synctomkto-field} maken
 
-1. Log in Dynamics CRM. Klik op **Instellingen** en vervolgens op **Aanpassingen**.
+1. Log in Dynamics CRM. Klik **Instellingen** en klik dan **Aanpassingen**.
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
-1. Klik op **Systeem** aanpassen.
+1. Klik **Pas het Systeem** aan.
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
@@ -57,43 +57,43 @@ Marketo zoekt dit veld tijdens de automatische achtergrondsynchronisatie en bepa
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. Klik ![](assets/image2015-8-10-21-3a44-3a23.png) naast **Lead **en selecteer **Gebieden**. Klik vervolgens op **Nieuw**.
+1. Klik ![](assets/image2015-8-10-21-3a44-3a23.png) naast **Lead **en selecteer **Fields**. Klik vervolgens op **Nieuw**.
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
-1. Typ **SyncToMkto** in het veld **Weergavenaam** en selecteer **Twee opties** als **gegevenstype**. Klik vervolgens op **Opslaan en Sluiten**.
+1. Typ **SyncToMkto** in het veld **Weergavenaam** en selecteer **Twee opties** als **Gegevenstype**. Klik vervolgens op **Opslaan en sluiten**.
 
    ![](assets/image2015-9-8-10-3a25-3a33.png)
 
    >[!NOTE]
    >
-   >Kies een willekeurige weergavenaam voor dit veld, maar het veld Naam moet exact **new_synctomkto** zijn. U moet **nieuw** als standaardprefix gebruiken. Als u de standaardinstelling hebt gewijzigd, gaat u hier om het standaardvoorvoegsel voor de aangepaste veldnamen [opnieuw in te](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)stellen. U kunt deze instelling wijzigen nadat u de nieuwe velden hebt gemaakt.
+   >Kies een willekeurige weergavenaam voor dit veld, maar het veld Naam moet exact **new_synctomkto** zijn. U moet **new** als standaardprefix gebruiken. Als u het gebrek hebt veranderd, ga hier naar [stel het standaardvoorvoegsel voor de namen van douanegebieden ](create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md) terug. U kunt deze instelling wijzigen nadat u de nieuwe velden hebt gemaakt.
 
    >[!NOTE]
    >
-   >Als u een asynchrone workflow hebt ingesteld, krijgt de record de standaardwaarde voor SyncToMkto die u in het veld hebt ingesteld, en wordt de juiste waarde een paar seconden later opgehaald wanneer de workflow is voltooid. Als de standaardwaarde op Ja is ingesteld, worden deze records in Marketo gemaakt en vervolgens opgeschoond. Gebruik **Nee** als standaardwaarde om dit te voorkomen.
+   >Als u een asynchrone workflow hebt ingesteld, krijgt de record de standaardwaarde voor SyncToMkto die u in het veld hebt ingesteld, en wordt de juiste waarde een paar seconden later opgehaald wanneer de workflow is voltooid. Als de standaardwaarde op Ja is ingesteld, worden deze records in Marketo gemaakt en vervolgens opgeschoond. Gebruik **No** als standaardwaarde om dit te voorkomen.
 
-1. Herhaal dit proces en maak het **veld SyncToMkto** voor alle andere entiteiten waarvoor u de synchronisatie wilt beperken, zoals contact, account, opportuniteit en aangepaste entiteiten.
+1. Herhaal dit proces en maak het veld **SyncToMkto** voor alle andere entiteiten waarvoor u de synchronisatie wilt beperken, zoals contact, account, opportuniteit en aangepaste entiteiten.
 
-## Filter in markeerteken selecteren {#select-the-filter-in-marketo}
+## Selecteer het filter in Marketo {#select-the-filter-in-marketo}
 
 Zelfs als u uw eerste synchronisatie al hebt uitgevoerd, gaat u binnen en selecteert u de velden die u wilt synchroniseren met Marketo.
 
-1. Ga naar Beheer en selecteer **Microsoft Dynamics**.
+1. Ga naar Admin en selecteer **MIcrosoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klik op **Bewerken** op Veldsynchronisatiedetails.
+1. Klik op **Bewerken** op Details van veldsynchronisatie.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Blader omlaag naar het veld en controleer het. De daadwerkelijke naam moet new_synctomkto zijn maar de Naam van de Vertoning kan om het even wat zijn. Klik op **Opslaan**.
+1. Blader omlaag naar het veld en controleer het. De daadwerkelijke naam moet new_synctomkto zijn maar de Naam van de Vertoning kan om het even wat zijn. Klik **Opslaan**.
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 
 Geweldig, nu hebt u het synchronisatiefilter ingeschakeld voor Marketo.
 
-## Een dynamiekworkflow maken om automatisch waarden voor synchronisatiefilters toe te wijzen {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
+## Creeer een Workflow van de Dynamiek om de Waarden van de Filter van de Synchronisatie automatisch {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically} toe te wijzen
 
 U kunt altijd handmatig een waarde toewijzen aan de velden SyncToMkto voor uw records. Maar waarom voordeel niet uit de macht van een Workflow van de Dynamica en auto-wijs een waarde aan het gebied SyncToMkto toe wanneer een verslag wordt gecreeerd of bijgewerkt?
 
@@ -103,11 +103,11 @@ U kunt altijd handmatig een waarde toewijzen aan de velden SyncToMkto voor uw re
 >
 >Een workflow voor dynamiek werkt alleen voor nieuwe records die u maakt en niet voor historische gegevens. Gebruik een batchupdate om over bestaande records te navigeren.
 
-1. Ga naar Dynamics CRM. Klik op **Instellingen** en vervolgens op **Processen**.
+1. Ga naar Dynamics CRM. Klik **Instellingen** en klik vervolgens op **Processen**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
-1. Klik op **Nieuw**.
+1. Klik **Nieuw**.
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
@@ -115,13 +115,13 @@ U kunt altijd handmatig een waarde toewijzen aan de velden SyncToMkto voor uw re
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
-1. Maak regels om een waarde true of false toe te wijzen aan het veld **SyncToMkto** op basis van de voorkeur van uw organisatie. Klik op **Opslaan en Sluiten**.
+1. Maak regels om een waarde true of false toe te wijzen aan het veld **SyncToMkto** op basis van de voorkeur van uw organisatie. Klik **Opslaan en sluiten**.
 
    ![](assets/setsynctomkto-fix.png)
 
    >[!NOTE]
    >
-   >Definieer een standaardhandeling nadat u op Stap **** toevoegen hebt geklikt om een voorwaarde voor controle toe te voegen. Hiermee stelt u de records die u niet wilt synchroniseren in op **Nee**. Anders worden ze gesynchroniseerd.
+   >Definieer een standaardactie nadat u **Stap toevoegen** hebt geklikt om een voorwaarde van de Controle toe te voegen. Hiermee stelt u de records in die u niet wilt synchroniseren met **No**. Anders worden ze gesynchroniseerd.
 
 1. Selecteer de workflow en klik op **Activeren**.
 
@@ -137,11 +137,11 @@ Hier volgen enkele implementatiedetails die u volgens ons moet weten:
 
 1. Synchronisatiebewerking starten
 
-   Wanneer de **waarde SyncToMkto** van **Nr** in **ja** verandert, brengt de Dynamiek Marketo onmiddellijk op de hoogte om dit verslag te beginnen synchroniseren. Als de record al bestaat, wordt deze bijgewerkt door Marketo. Anders maakt Marketo de record.
+   Wanneer de **SyncToMkto** waarde van **No** in **Yes** verandert, richt de Dynamiek Marketo onmiddellijk om met het synchroniseren van dit verslag te beginnen. Als de record al bestaat, wordt deze bijgewerkt door Marketo. Anders maakt Marketo de record.
 
    >[!TIP]
    >
-   >Wanneer dit gebeurt, wordt een bewerking **Create [StartSync]** toegevoegd aan het Marketo Log.
+   >Een **Create [StartSync]** verrichting wordt toegevoegd aan het Logboek van de Marketo wanneer dit gebeurt.
 
 1. Synchronisatiebewerking stoppen
 
