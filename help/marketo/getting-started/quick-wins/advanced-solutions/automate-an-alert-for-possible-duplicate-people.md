@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Een waarschuwing automatiseren voor mogelijke dubbele personen {#automate-an-alert-for-possible-duplicate-people}
+# Een waarschuwing automatiseren voor mogelijk dubbele personen {#automate-an-alert-for-possible-duplicate-people}
 
 Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaakt? Hieronder wordt beschreven hoe u een slimme campagne kunt opzetten om dit te doen.
 
 1. [Maak een nieuwe slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md). Definieer de volgende slimme lijst:
 
 * Trigger: **Persoon is gemaakt**
-* Filter: **Dubbele velden.** Veldnaam **is Volledige naam**
+* Filter: **Velden dupliceren.** Veldnaam  **is Volledige naam**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
@@ -26,13 +26,13 @@ Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaa
    >
    >Wees creatief. Experimenteer met verschillende velden voor betere filterresultaten.
 
-1. Kies in de stap Stroom de optie [Waarschuwing](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) verzenden.
+1. Kies [Waarschuwing verzenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) Stroomactie in de flowstap.
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >Het gebruiken van het [Send teken](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) van Info van het Bericht om een verbinding aan de persoon in uw CRM te omvatten.
+   >Het gebruiken van [verzend het teken van Info ](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) van het Alarm om een verbinding aan de persoon in uw CRM op te nemen.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaa
    >
    >Twee mensen met dezelfde naam betekenen niet automatisch dat ze dezelfde persoon zijn.
 
-1. Activeer de campagne op het tabblad **Planning** .
+1. Activeer de campagne in **Programma** tabel.
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
