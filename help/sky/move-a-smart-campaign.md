@@ -28,6 +28,6 @@ Verplaats een slimme campagne naar een ander programma of een andere map.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-3.png)
 
-1. Klik **[!UICONTROL Move]**.
+1. Klik op **[!UICONTROL Move]**.
 
    ![Afbeelding vier](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-4.png)
