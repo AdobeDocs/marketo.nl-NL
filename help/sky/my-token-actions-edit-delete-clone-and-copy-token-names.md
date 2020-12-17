@@ -14,23 +14,23 @@ ht-degree: 0%
 
 ## Een token bewerken
 
-Klik op het [!UICONTROL My Tokens] tabblad van de campagnemap of het campagneprogramma op het pictogram **[!UICONTROL Value]** dat u wilt bewerken. Hiermee wordt het editorvenster geopend.
+Klik op het tabblad [!UICONTROL My Tokens] van de campagnemap of het programma op **[!UICONTROL Value]** van het token dat u wilt bewerken. Hiermee wordt het editorvenster geopend.
 
 ![Afbeelding één](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-1.png)
 
 >[!NOTE]
 >
->Teksttokens hebben geen apart editorvenster. Klik op het pictogram **[!UICONTROL Value]** om inline bewerkingen uit te voeren.
+>Teksttokens hebben geen apart editorvenster. Klik op **[!UICONTROL Value]** om inline bewerkingen uit te voeren.
 
 ![Afbeelding twee](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-2.png)
 
 ## Een token verwijderen
 
-1. Klik met de rechtermuisknop op het token en selecteer vervolgens **[!UICONTROL Delete]**.
+1. Klik met de rechtermuisknop op het token en selecteer **[!UICONTROL Delete]**.
 
    ![Afbeelding drie](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-3.png)
 
-1. Klik **[!UICONTROL Confirm]**.
+1. Klik op **[!UICONTROL Confirm]**.
 
    ![Afbeelding vier](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-4.png)
 
@@ -50,6 +50,6 @@ Klik op het [!UICONTROL My Tokens] tabblad van de campagnemap of het campagnepro
 
 ## Een tokennaam kopiëren
 
-Als u de naam van een token naar het klembord wilt kopiëren (dus `{{my.Event Calendar File}}`), klikt u met de rechtermuisknop op het token en selecteert u Tokennaam **** kopiëren.
+Als u de naam van een token naar het klembord wilt kopiëren (bijvoorbeeld `{{my.Event Calendar File}}`), klikt u met de rechtermuisknop op het token en selecteert u **Naam token kopiëren**.
 
 ![Afbeelding zeven](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-7.png)
