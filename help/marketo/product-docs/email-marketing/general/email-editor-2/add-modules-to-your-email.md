@@ -21,9 +21,9 @@ In E-maileditor 2.0 is een module een sectie van uw e-mailbericht die in de sjab
 
    >[!NOTE]
    >
-   >De meeste Malplaatjes van de Aanzet van de Marketo bevatten Modules. U kunt ook uw eigen [account](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules)maken.
+   >De meeste Malplaatjes van de Aanzet van de Marketo bevatten Modules. U kunt ook [uw eigen ](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules) creëren.
 
-1. Klik uiterst rechts in de e-mail op **Modules**.
+1. Helemaal rechts van de e-mail klikt u op **Modules**.
 
    ![](assets/two-3.png)
 
@@ -59,7 +59,7 @@ Er zijn twee manieren om een module te verplaatsen.
 
    ![](assets/nine-2.png)
 
-1. Klik op het tandwielpictogram en selecteer **Omhoog** of Omlaag ****, afhankelijk van de plaats waar de module moet komen.
+1. Klik op het tandwielpictogram en selecteer **Omhoog** of **Omlaag**, afhankelijk van waar u de module wilt laten gaan.
 
    ![](assets/ten-2.png)
 
