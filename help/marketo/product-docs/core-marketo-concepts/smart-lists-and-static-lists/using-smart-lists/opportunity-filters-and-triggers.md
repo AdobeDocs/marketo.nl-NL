@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opportuniteitsfilters en -triggers {#opportunity-filters-and-triggers}
+# Opportuniteitsfilters en triggers {#opportunity-filters-and-triggers}
 
 Met opportuniteitsfilters en -triggers kunt u opportuniteitsgebeurtenissen bijhouden vanuit Salesforce. Ze zijn iets anders dan andere filters en triggers.
 
@@ -27,7 +27,7 @@ Met opportuniteitsfilters kunt u bogen in uw Salesforce-leads die mogelijkheden 
 * Opportunity is verwijderd
 * Opportunity is bijgewerkt
 
-Als u uw gebieden van de Kans (douane of norm) zoekt, gebruik het **Heeft filter van de Kans** of de **Kans was`[Added/Removed/Updated]`** filters of trekkers.
+Als u uw gebieden van de Kans (douane of norm) zoekt, gebruik **Heeft filter Opportunity** of **Opportunity was`[Added/Removed/Updated]`** filters of trekkers.
 
 **Aantal opties, Totaal bedrag van de Optie, Totaal van de Opty Verwachte Inkomsten**
 
@@ -37,7 +37,7 @@ Met deze filters, kunt u lood vinden die op het totale aantal, het bedrag, of de
 
 **Heeft opportuniteit, is toegevoegd aan opportunity, is verwijderd uit opportunity**
 
-Als u naar leads zoekt die kansen hebben die op een combinatie van criteria worden gebaseerd, gebruik **heeft Kans**, **werd toegevoegd aan Kans**, of **werd verwijderd uit het filter van de Kans** . Ze vertellen je:
+Als u naar leads zoekt die mogelijkheden hebben die zijn gebaseerd op een combinatie van criteria, gebruikt u **Heeft Opportunity**, **Is toegevoegd aan Opportunity**, of **Is verwijderd uit Opportunity** filter. Ze vertellen je:
 
 * **Heeft mogelijkheid**: Als deze lead momenteel een passende kans heeft
 * **Is toegevoegd aan opportunity**: Als deze lead ooit is toegevoegd aan een matching Opportunity
@@ -49,7 +49,7 @@ Voeg de zoekcriteria toe als **Restricties** op het filter. Tot de beperkingen b
 
 ![](assets/image2015-6-11-12-3a31-3a46.png)
 
-Stel bijvoorbeeld dat je naar leads wilt zoeken die open kansen hebben van minstens $5.000. Sleep in het filter **Heeft opportuniteit** en gebruik de beperkingen **Is gesloten** en **Hoeveelheid** :
+Stel bijvoorbeeld dat je naar leads wilt zoeken die open kansen hebben van minstens $5.000. Sleep in het **Heeft filter Opportunity** en gebruik de **Is Gesloten** en **Hoeveelheid** beperkingen:
 
 ![](assets/image2015-6-11-12-3a32-3a0.png)
 
@@ -59,7 +59,7 @@ Stel bijvoorbeeld dat je naar leads wilt zoeken die open kansen hebben van minst
 
 **Opportunity is bijgewerkt**
 
-Het filter **Opportunity is bijgewerkt** , zoekt naar elke mogelijkheid wanneer een specifiek opportuniteitsveld is bijgewerkt. Kies het veld dat u wilt controleren met de keuzelijst Trigger-kenmerk en gebruik vervolgens de beperkingen om de set wijzigingen te beperken.
+De **Opportunity was Updated** filter zoekt naar om het even welke kans wanneer een specifiek opportuniteitsgebied werd bijgewerkt. Kies het veld dat u wilt controleren met de keuzelijst Trigger-kenmerk en gebruik vervolgens de beperkingen om de set wijzigingen te beperken.
 
 Met dit filter ziet u bijvoorbeeld alle leads die de laatste 30 dagen een wijziging van de einddatum hebben ondergaan:
 
@@ -77,7 +77,7 @@ U kunt deze slimme lijst bijvoorbeeld gebruiken om te activeren wanneer een lead
 
 ![](assets/image2015-6-11-12-3a33-3a48.png)
 
-Als u aangepaste opportuniteitsvelden wilt uitschakelen, gebruikt u de trigger **Opportunity is bijgewerkt** en kiest u het veld in de keuzelijst:
+Als u aangepaste opportuniteitsvelden wilt uitschakelen, gebruikt u de trigger **Opportunity is Updated** en kiest u het veld in de keuzelijst:
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
 
