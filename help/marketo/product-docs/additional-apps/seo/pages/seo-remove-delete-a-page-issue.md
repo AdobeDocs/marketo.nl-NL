@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Mogelijk zijn niet alle pagina-problemen nuttig voor u. Hieronder wordt beschreven hoe u een sjabloon kunt verwijderen:
 
-1. Ga naar de sectie **Pagina** &#39;s.
+1. Ga naar de sectie **Pagina&#39;s**.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Klik in de sectie Pagina&#39;s op **Problemen**.
+1. Klik in de sectie Pagina&#39;s op **Issues**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen. Klik op **VERWIJDEREN**.
+1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen. Klik **VERWIJDEREN**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
