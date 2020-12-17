@@ -24,10 +24,10 @@ U kunt snel leden van een betrokkenheidsprogramma zien.
 >
 >De [!UICONTROL Exhausted Content] kolomwaarde wordt bijgewerkt na elke gietvorm.
 
-1. Klik op het **[!UICONTROL Members]** tabblad.
+1. Klik op het tabblad **[!UICONTROL Members]**.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-2.png)
 
-1. Klik op het **[!UICONTROL People Actions]** vervolgkeuzemenu om verschillende functies met uw leden uit te voeren.
+1. Klik **[!UICONTROL People Actions]** drop-down om diverse functies met uw leden uit te voeren.
 
    ![Afbeelding drie](/help/sky/assets/engagement-programs/see-members-of-an-engagement-program/see-members-of-an-engagement-program-3.png)
