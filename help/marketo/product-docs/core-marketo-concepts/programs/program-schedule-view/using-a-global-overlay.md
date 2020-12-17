@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Een algemene overlay gebruiken {#using-a-global-overlay}
+# Globale overlay {#using-a-global-overlay} gebruiken
 
 Met de algemene overlay in de programmaweergave van het programma kunt u uw programma bekijken in relatie tot andere geplande middelen.
 
 >[!PREREQUISITES]
 >
->U moet een licentie [voor de](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) marketingkalender hebben om deze functie te kunnen gebruiken.
+>U moet een [licentie voor marketingkalender](../../../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) hebben om deze functie te kunnen gebruiken.
 
-## De algemene overlay gebruiken {#use-the-global-overlay}
+## De algemene overlay {#use-the-global-overlay} gebruiken
 
 1. Selecteer uw programma.
 
@@ -39,9 +39,9 @@ Met de algemene overlay in de programmaweergave van het programma kunt u uw prog
 
 ## Een opgeslagen filter gebruiken als overlay {#use-a-saved-filter-as-an-overlay}
 
-Als u een filter in de Kalender [van de Marketing hebt](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)bewaard, kunt u het als bekleding in de mening van het programmaprogramma gebruiken.
+Als u een filter in de Kalender van de Marketing [hebt bewaard, kunt u het als bekleding in de mening van het programmaprogramma gebruiken.](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
 
-1. Klik op de vervolgkeuzelijst **Bedekking** en selecteer de filterdefinitie.
+1. Klik op de vervolgkeuzelijst **Bedekking** en selecteer uw filterdefinitie.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
