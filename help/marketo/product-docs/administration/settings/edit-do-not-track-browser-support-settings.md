@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Browserondersteuningsinstellingen &quot;Niet bijhouden&quot; bewerken {#edit-do-not-track-browser-support-settings}
+# Instellingen voor browserondersteuning {#edit-do-not-track-browser-support-settings} bewerken
 
 &quot;Niet bijhouden&quot; is een verzoek van een browser om niet te worden bijgehouden in systemen als Marketo. U kunt dit verzoek uitvoeren met de volgende stappen.
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Klik op **Munchkin**.
+1. Klik **Munchkin**.
 
    ![](assets/two.png)
 
@@ -48,5 +48,5 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Ga naar [deze pagina](https://en.wikipedia.org/wiki/Do_Not_Track)voor meer informatie over &#39;Niet bijhouden&#39; en hoe het werkt.
+   >Als u meer wilt weten over &quot;Niet bijhouden&quot; en hoe het werkt, gaat u naar [deze pagina](https://en.wikipedia.org/wiki/Do_Not_Track).
 
