@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - verwijder/verwijder een Binnenkomende Verbinding URL {#seo-remove-delete-an-inbound-link-url}
+# SEO - verwijder/schrap een Binnenkomende Verbinding URL {#seo-remove-delete-an-inbound-link-url}
 
 Soms wilt u binnenkomende koppelingen verwijderen. Hieronder wordt beschreven hoe:
 
-1. Ga naar de **Binnenkomende sectie van Verbindingen** .
+1. Ga naar **Binnenkomende Verbindingen** sectie.
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
