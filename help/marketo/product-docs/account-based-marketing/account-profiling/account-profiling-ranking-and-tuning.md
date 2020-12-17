@@ -21,7 +21,7 @@ Alle bekende accounts zijn uitgesplitst naar rang. A is de hoogste graad, D is d
 
 ![](assets/results.png)
 
-We raden u aan om het selectievakje Automatisch bevorderen in te schakelen, maar dit bespaart u veel tijd. Als u echter door elk account wilt gaan en deze handmatig [wilt](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts)toevoegen, laat u het selectievakje uitgeschakeld.
+We raden u aan om het selectievakje Automatisch bevorderen in te schakelen, maar dit bespaart u veel tijd. Nochtans, als u door elk rekening wilt gaan en [voeg hen manueel ](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts) toe, verlaat eenvoudig de doos ongecontroleerd.
 
 <table> 
  <tbody> 
@@ -89,13 +89,13 @@ Klik Add ICP Indicator drop-down om extra indicatoren in uw model op te nemen.
 
 ![](assets/add-icp.png)
 
-Als u het vak Exporteren inschakelt, kunt u de ICP-indicator op de pagina met details van de benoemde account zien en de geselecteerde ICP-indicator gebruiken als beperkingen in [benoemde accountfilters](http://docs.marketo.com/display/DOCS/Account+Filters).
+Als u het vak Exporteren inschakelt, kunt u de ICP-indicator op de pagina met gegevens over benoemde accounts zien en de geselecteerde ICP-indicator gebruiken als beperkingen in [benoemde accountfilters](http://docs.marketo.com/display/DOCS/Account+Filters).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP-indicatoren worden opgenomen als beperkingen in **Lid van Filters en triggers voor benoemde accounts** .
+>ICP-indicatoren worden opgenomen als beperkingen in **Lid van Benoemde account** Filters en Triggers.
 
 Het Gewicht van de indicator is wat het niveau van belang controleert elke indicator in uw model ontvangt.
 
@@ -105,7 +105,7 @@ Klik op Model vernieuwen om deze wijzigingen van kracht te laten worden.
 
 ![](assets/refresh-button.png)
 
-Wanneer u klaar bent met het aanpassen van uw model (nadat u het vernieuwt), ga terug naar het lusje van de Resultaten Model en klik **sparen &amp; past Spaties** toe.
+Wanneer u klaar bent met het stemmen van uw model (nadat u het verfrist), ga terug naar het Modellusje van Resultaten en klik **sparen &amp; toepassen Ranks**.
 
 ![](assets/ranks.png)
 
