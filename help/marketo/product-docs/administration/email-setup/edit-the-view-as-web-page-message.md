@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Het bericht &quot;Weergeven als webpagina&quot; bewerken {#edit-the-view-as-web-page-message}
+# Bewerk het bericht &quot;Weergeven als webpagina&quot; {#edit-the-view-as-web-page-message}
 
-Als u de tekst &#39;&#39; [Weergeven als webpagina](../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&#39;&#39; wilt bewerken, gaat u als volgt te werk.
+Als u de tekst &quot; [View as a Webpage](../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;moet uitgeven, is hier hoe.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-## Het bericht &quot;Weergeven als webpagina&quot; bewerken {#edit-the-view-as-web-page-message-1}
+## Bewerk het bericht &quot;Weergeven als webpagina&quot; {#edit-the-view-as-web-page-message-1}
 
-1. Klik onder **Beheer** op **E-mail**.
+1. Klik onder **Admin** op **E-mail**.
 
    ![](assets/image2014-9-18-17-3a13-3a2.png)
 
@@ -36,7 +36,7 @@ Als u de tekst &#39;&#39; [Weergeven als webpagina](../../../product-docs/email-
    >    
    >Het tweede deel ##MKT_TOK### is het ingewanden cookie van die persoon. Het zorgt ervoor dat ze op de juiste wijze worden gekookt wanneer ze op de koppeling klikken.
 
-1. Bewerk de **weergave als HTML** -webpagina en **Weergeven als webpaginatekst **versies naar wens en klik op Wijzigingen **** opslaan.
+1. Bewerk de **Weergave als webpagina HTML** en **Weergeven als webpaginatekst **versies naar uw eigen smaak en klik **Wijzigingen opslaan**.
 
    ![](assets/image2016-8-26-14-3a40-3a29.png)
 
@@ -57,8 +57,8 @@ Daar heb je het. Test-e-mails verzenden om de opmaak te controleren.
 
 Als u ooit aan standaardsysteem &quot;Mening als Web-pagina&quot;moet terugkeren, kopieer/kleef het volgende:
 
-**Weergeven als HTML van webpagina:**
-`<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>` **Weergeven als tekst op webpagina:**
+**Weergeven als webpagina-HTML:**
+`<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>` **Weergeven als webpaginatekst:**
 
 Ga naar het volgende adres om deze e-mail als webpagina weer te geven:
-`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>` Boom! Je bent klaar.
+`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>` Zoomen! Je bent klaar.
