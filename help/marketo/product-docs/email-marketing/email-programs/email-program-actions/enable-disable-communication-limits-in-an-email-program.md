@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Communicatielimieten in-/uitschakelen in een e-mailprogramma {#enable-disable-communication-limits-in-an-email-program}
 
-Wanneer u een e-mailprogramma uitvoert, kunt u ervoor kiezen de communicatielimiet [op](../../../../product-docs/administration/email-setup/enable-communication-limits.md) beheerdersniveau te negeren of [te respecteren](../../../../product-docs/administration/email-setup/enable-communication-limits.md). Zo doe je het.
+Wanneer u een e-mailprogramma uitvoert, kunt u ervoor kiezen de communicatielimiet [admin-niveau](../../../../product-docs/administration/email-setup/enable-communication-limits.md) [s](../../../../product-docs/administration/email-setup/enable-communication-limits.md) te negeren of te respecteren. Zo doe je het.
 
 >[!NOTE]
 >
 >**Definitie**
 >
->Communicatielimieten worden [ingesteld in de sectie](../../../../product-docs/administration/email-setup/enable-communication-limits.md) Beheer en helpen u te voorkomen dat u één persoon te veel e-mails stuurt.
+>Communicatielimieten worden [ingesteld in de Admin-sectie](../../../../product-docs/administration/email-setup/enable-communication-limits.md) en helpen u te voorkomen dat u één persoon te veel e-mails stuurt.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -29,7 +29,7 @@ Wanneer u een e-mailprogramma uitvoert, kunt u ervoor kiezen de communicatielimi
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Dubbelklik op het regelitem voor de communicatielimiet onder het tabblad **Setup** .
+1. Onder **Opstelling** lusje, klik het punt van de de lijnlijn van de communicatielimiet tweemaal.
 
    ![](assets/blockoperational.png)
 
@@ -37,5 +37,5 @@ Wanneer u een e-mailprogramma uitvoert, kunt u ervoor kiezen de communicatielimi
 
    ![](assets/ifaperson.jpg)
 
-   Als u niet-operationele e-mailberichten **** blokkeert, wordt het verzenden van de e-mail naar iedereen die meer e-mails heeft ontvangen dan is toegestaan door uw beheerinstellingen.
+   Als u **Niet-operationele e-mailberichten blokkeert** ingeschakeld laat, voorkomt u dat de e-mail wordt verzonden naar iedereen die meer e-mails heeft ontvangen dan is toegestaan door uw beheerinstellingen.
 
