@@ -17,13 +17,13 @@ Trefwoorden zijn zinnen die mensen typen in zoekmachines. Voeg de trefwoorden to
 
 >[!NOTE]
 >
->Als u veel trefwoorden hebt, kunt u deze met een CSV-bestand [](seo-importing-keywords-with-a-csv.md)importeren.
+>Als u veel trefwoorden hebt, kunt u deze [importeren met een CSV-bestand](seo-importing-keywords-with-a-csv.md).
 
-1. Ga naar de sectie **Trefwoorden** .
+1. Ga naar de **sectie Keywords**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Voer de gewenste trefwoorden in en klik op **OPSLAAN**.
+1. Voer de trefwoorden in die u wilt gebruiken en klik op **OPSLAAN**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
