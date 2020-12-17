@@ -24,7 +24,7 @@ Klik op het pictogram Filters boven aan de structuur om het filterdeelvenster te
 
 Met deze functie kunt u zoeken naar elementen die binnen een bepaald datumbereik zijn gemaakt of gewijzigd. bijv. vorige week, in de afgelopen drie maanden, enz.
 
-Standaard laadt Marketo alle inhoud uit de afgelopen zes maanden. Selecteer een bereik in de **[!UICONTROL Choose Date Range]** vervolgkeuzelijst om dit te wijzigen. Deze instellingen blijven behouden en worden ook toegepast wanneer u zich opnieuw aanmeldt bij Marketo.
+Standaard laadt Marketo alle inhoud uit de afgelopen zes maanden. Als u dit wilt wijzigen, selecteert u een bereik in de vervolgkeuzelijst **[!UICONTROL Choose Date Range]**. Deze instellingen blijven behouden en worden ook toegepast wanneer u zich opnieuw aanmeldt bij Marketo.
 
 ![Afbeelding twee](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-2.png)
 
@@ -34,7 +34,7 @@ Voer een label in waarop u wilt sorteren en selecteer een label uit de beschikba
 
 ![Afbeelding drie](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-3.png)
 
-Klik op de **X** om een label uit de gefilterde zoekopdracht te verwijderen.
+Klik **X** om een etiket uit uw gefilterde onderzoek te verwijderen.
 
 ![Afbeelding vier](/help/sky/assets/tree/use-filters-to-sort-the-tree/use-filters-to-sort-the-tree-4.png)
 
