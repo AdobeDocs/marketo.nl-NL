@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Waarschuwing voor verkoper {#alert-the-sales-rep}
+# De verkoopvertegenwoordiger waarschuwen {#alert-the-sales-rep}
 
 ## Opdracht: De verkoper waarschuwen wanneer iemand een formulier op uw website invult {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
@@ -21,25 +21,25 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 >
 >[Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-## Stap 1: Een waarschuwings-e-mail maken {#step-create-an-alert-email}
+## Stap 1: Een waarschuwingsbericht maken {#step-create-an-alert-email}
 
-1. Ga naar het gebied **Marketingactiviteiten** .
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/one-5.png)
 
-1. Selecteer **Mijn programma** dat u op de [Openingspagina hebt gemaakt met een Form](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) quick win, en klik vervolgens onder **Nieuw** op **Nieuw Lokaal element**.
+1. Selecteer **Mijn programma** dat u in [Landing Page met een Vorm](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) snel win, dan onder **Nieuw** klikt **Nieuw Lokaal Activum**.
 
    ![](assets/two-6.png)
 
-1. Klik op **E-mail**.
+1. Klik **E-mail**.
 
    ![](assets/three-5.png)
 
-1. **Geef** het e-mailbericht &quot;Mijn e-mailwaarschuwing&quot; een naam, selecteer een sjabloon en klik op **Maken**.
+1. **Geef** het e-mailbericht Mijn e-mailwaarschuwing een naam, selecteer een sjabloon en klik op  **Maken**.
 
    ![](assets/four-4.png)
 
-1. Ga **van Naam**, **van E-mail**, **antwoord-aan**, en **Onderwerp** in dat u uw verkoopteam wilt zien.
+1. Voer **Van naam**, **Van e-mail**, **Reactie-aan**, en **Onderwerp** in dat u uw verkoopteam wilt zien.
 
    ![](assets/five-5.png)
 
@@ -51,19 +51,19 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    ![](assets/seven-6.png)
 
-1. Plaats de cursor op de plaats waar u de contactgegevens van de persoon wilt invoegen en klik op het pictogram Token **** invoegen.
+1. Plaats de cursor op de plaats waar u de contactgegevens van de persoon wilt invoegen en klik op het pictogram **Token invoegen**.
 
    ![](assets/eight-4.png)
 
-1. Zoek en selecteer het `{{SP_Send_Alert_Info}}` token **en klik op** Invoegen ****.
+1. Zoek en selecteer `{{SP_Send_Alert_Info}}` **Token** en klik **Invoegen**.
 
    ![](assets/image2014-9-24-13-3a10-3a0.png)
 
    >[!NOTE]
    >
-   >{SP_Send_Alert_Info} is een speciale token voor e-mailmeldingen. Zie [Gebruik het token](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) voor waarschuwinginfo verzenden voor meer informatie.
+   >{SP_Send_Alert_Info} is een speciale token voor e-mailmeldingen. Zie [Gebruik het Send Token van Info van het Alarm](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) om meer te leren.
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/ten-5.png)
 
@@ -75,17 +75,17 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    ![](assets/twelve-4.png)
 
-## Stap 2: Een waarschuwingsactiecampagne maken {#step-create-an-alert-trigger-campaign}
+## Stap 2: Een waarschuwingsactiecampagne {#step-create-an-alert-trigger-campaign} maken
 
-1. Selecteer **Mijn eerder gemaakte Programma** , dan onder **Nieuw** klik **Nieuwe Slimme Campagne**.
+1. Selecteer **Mijn eerder gemaakte Programma**, dan onder **Nieuw** klik **Nieuwe Slimme Campagne**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
-1. **Geef** de campagne de naam &quot;Mijn waarschuwingscampagne&quot; en klik op **Maken**.
+1. **Geef** de campagne &quot;Mijn waarschuwingscampagne&quot; een naam en klik op  **Maken**.
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. Zoek op het tabblad **Slimme lijst** de trigger Formulier **** invullen en sleep deze naar het canvas.
+1. Zoek en sleep onder het tabblad **Slimme lijst** de trigger **Formulier invullen** naar het canvas.
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -93,33 +93,33 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. Zoek en sleep onder het tabblad **Stroom** de actie **Waarschuwing** verzenden naar het canvas.
+1. Zoek en sleep onder het tabblad **Stroom** de stroomactie **Waarschuwing** verzenden naar het canvas.
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. Selecteer **Mijn eerder gemaakte e-mail** met waarschuwing en laat **Verzenden naar** als **eigenaar** van de transactie.
+1. Selecteer **Mijn eerder gemaakte e-mail** en laat **Verzenden naar** als **Eigenaar van verkoop** staan.
 
    ![](assets/eighteen-1.png)
 
-1. Typ uw e-mailadres in het veld **Naar andere e-mails** .
+1. Typ uw e-mailadres in het veld **Naar andere e-mails**.
 
    ![](assets/nineteen-2.png)
 
-1. Ga naar het tabblad **Schema** en klik op de knop **Activeren** .
+1. Ga naar het **Schema** lusje en klik **Activate** knoop.
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
    >
-   >Plaats de Regels **van de** Kwalificatie aan **elke keer** (door de Slimme Campagne uit te geven) om de zelfde persoon toe te staan om alarm veelvoudige tijden teweeg te brengen.
+   >Plaats **Kwalificatieregels** aan **telkens** (door de Slimme Campagne uit te geven) om de zelfde persoon toe te staan om alarm veelvoudige tijden teweeg te brengen.
 
-1. Klik op **Activeren** op het bevestigingsscherm.
+1. Klik **Activeer** op het bevestigingsscherm.
 
    ![](assets/twenty-one-1.png)
 
 ## Stap 3: Test het! {#step-test-it-out}
 
-1. Selecteer de openingspagina en klik op Goedgekeurde pagina **** weergeven.
+1. Selecteer de openingspagina en klik op **Goedgekeurde pagina weergeven**.
 
    ![](assets/image2014-9-24-13-3a17-3a8.png)
 
@@ -135,7 +135,7 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    >[!NOTE]
    >
-   >Klik op het tabblad **Personinfo** in Marketo om de contactinfo weer te geven.
+   >Klik op het tabblad **Persoonsgegevens** in Marketo om de contactinfo weer te geven.
 
 ## Opdracht voltooid! {#mission-complete}
 
