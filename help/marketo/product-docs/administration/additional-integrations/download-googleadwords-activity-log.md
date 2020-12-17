@@ -19,7 +19,7 @@ Er gebeurt wat. Soms moet u het activiteitenlogboek downloaden om problemen op t
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 
-1. Zoek uw Google AdWords-service en klik op Activiteitenlogboek **** downloaden.
+1. Zoek uw Google AdWords-service en klik op **Activiteitenlogboek downloaden**.
 
    ![](assets/image2015-4-22-17-3a49-3a49.png)
 
