@@ -32,7 +32,7 @@ Nadat u een map hebt gearchiveerd, wordt het pictogram gewijzigd in een bestands
    >map.
 >* De elementen in de map worden niet meer weergegeven in het automatisch suggereren.
 >* Gearchiveerde sjablonen zijn niet beschikbaar bij het maken van een e-mail
-   >of landingspagina in [!UICONTROL Design Studio].
+   >of openingspagina in [!UICONTROL Design Studio].
 >* Gearchiveerde pagina&#39;s kunnen niet worden gebruikt in testgroepen voor bestemmingspagina&#39;s.
 
 >
