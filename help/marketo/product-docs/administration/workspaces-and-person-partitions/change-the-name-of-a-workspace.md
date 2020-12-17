@@ -27,17 +27,17 @@ Gebruikers kunnen de naam van een werkruimte wijzigen. Het is vrij eenvoudig.
 >
 >**Diep duiken**
 >
->Begrijp eerst met het [Begrip van Werkruimten en de Verdelingen](understanding-workspaces-and-person-partitions.md)van de Persoon.
+>Begrijp eerst met [het Begrijpen van Werkruimten en Partities van de Persoon](understanding-workspaces-and-person-partitions.md).
 
-1. Klik onder **Beheer** op **Werkruimten en partities.**
+1. Klik onder **Admin** op **Werkruimten en partities.**
 
    ![](assets/image2014-9-17-11-3a8-3a28.png)
 
-1. Selecteer de werkruimte en klik op Werkruimte **** bewerken.
+1. Selecteer de werkruimte en klik op **Werkruimte bewerken**.
 
    ![](assets/two-4.png)
 
-1. Voer een nieuwe **naam** in voor uw werkruimte en klik op **Opslaan.**
+1. Voer een nieuwe **Naam** voor uw werkruimte in en klik op **Opslaan.**
 
    ![](assets/three-4.png)
 
