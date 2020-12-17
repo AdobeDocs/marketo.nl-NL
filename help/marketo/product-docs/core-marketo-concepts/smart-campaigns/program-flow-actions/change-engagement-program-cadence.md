@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Cadre van het Programma van de Aanwezigheid van de Verandering {#change-engagement-program-cadence}
+# Cadence {#change-engagement-program-cadence} van betrokkenheidsprogramma wijzigen
 
 1. Overzicht
 
@@ -29,9 +29,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Selecteer **Gepauzeerd** als de **Nieuwe Waarde** om te voorkomen dat de persoon inhoud ontvangt.
+1. Selecteer **Gepauzeerd** als **Nieuwe waarde** om te voorkomen dat de persoon inhoud ontvangt.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-   U kunt de persoon weer instellen op **Normaal** als u wilt dat deze opnieuw inhoud ontvangt.
+   U kunt de persoon terugzetten op **Normaal** als u wilt dat deze opnieuw inhoud ontvangt.
 
