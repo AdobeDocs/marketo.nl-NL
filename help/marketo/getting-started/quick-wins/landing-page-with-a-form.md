@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Openingspagina met formulier {#landing-page-with-a-form}
+# Openingspagina met een formulier {#landing-page-with-a-form}
 
 ## Opdracht: Maak een openingspagina met een formulier voor het verkrijgen van nieuwe personen. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## STAP 1: Een programma maken {#step-create-a-program}
 
-1. Ga naar het gebied **Marketingactiviteiten** .
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/ma.png)
 
-1. Selecteer de map **Learning** die u in de [vorige snelle win](/help/marketo/getting-started/quick-wins/send-an-email.md)hebt gemaakt.
+1. Selecteer **Learning** omslag die in [vorige snelle win](/help/marketo/getting-started/quick-wins/send-an-email.md) wordt gecreeerd.
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. Voer een **programmanaam** in, selecteer een **kanaal** en klik op **Maken**.
+1. Voer een programma **Naam** in, selecteer een **Kanaal** en klik **Maken**.
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Een programma is een specifiek marketinginitiatief. Het **kanaal** moet het leveringsmechanisme zijn, zoals Webinar, Sponsorship, of Online Advertentie. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook uw eigen kanaal [](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)maken.
+   >Een programma is een specifiek marketinginitiatief. Het **kanaal** is bedoeld om het leveringsmechanisme, zoals Webinar, Sponsorship, of Online Advertentie te zijn. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt [ook uw eigen kanaal ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) tot stand brengen.
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
@@ -51,7 +51,7 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
 ## STAP 2: Een formulier maken {#step-create-a-form}
 
-1. Selecteer het programma en klik op **Nieuw** en vervolgens op **Nieuw lokaal element**.
+1. Selecteer uw programma en klik op **New** en **New Local Asset**.
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
@@ -59,23 +59,23 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/image2014-9-24-11-3a4-3a42.png)
 
-1. Voer een **naam** in voor het formulier en klik op **Maken**.
+1. Voer een formulier **Naam** in en klik op **Maken**.
 
    ![](assets/image2014-9-24-11-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >Zorg ervoor dat het vak **Openen in editor** is ingeschakeld. Als dit niet het geval is, moet u op het tabblad Formulier **** bewerken klikken.
+   >Zorg ervoor dat het selectievakje **Openen in editor** is ingeschakeld. Als het niet is, zult u **Formulier** tabel moeten uitgeven.
 
    >[!TIP]
    >
    >Ziet u de formuliereditor niet? Uw browser heeft het venster waarschijnlijk geblokkeerd. Schakel pop-ups van [app.marketo.com](https://app.marketo.com/) in uw browser in en klik op Concept bewerken in de bovenste menubalk.
 
-1. Selecteer het veld **E-mailadres** en controleer of **Is vereist**.
+1. Selecteer het veld **E-mailadres** en controleer **Is vereist**.
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/image2014-9-24-11-3a5-3a44.png)
 
@@ -83,11 +83,11 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
-1. Selecteer onder de sectie Hartelijk dank voor pagina de optie **Externe URL** voor **vervolgmenu met**.
+1. Selecteer **Externe URL** voor **Opvolgen met** onder de sectie Hartelijk dank voor pagina.
 
    ![](assets/image2014-9-24-11-3a6-3a35.png)
 
@@ -97,13 +97,13 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    >[!NOTE]
    >
-   >Op de pagina Follow-up wordt de bezoeker omgeleid nadat hij het formulier heeft ingevuld. Externe URL is één optie, maar er zijn er meer. Zie Een formulier [instellen met dank aan uw pagina](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
+   >Op de pagina Follow-up wordt de bezoeker omgeleid nadat hij het formulier heeft ingevuld. Externe URL is één optie, maar er zijn er meer. Zie [Een formulier instellen waarmee u een pagina maakt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-24-11-3a7-3a3.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-24-11-3a7-3a15.png)
 
@@ -111,9 +111,9 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/image2014-9-24-11-3a7-3a32.png)
 
-## STAP 3: Een bestemmingspagina maken en uw formulier toevoegen {#step-create-a-landing-page-and-add-your-form}
+## STAP 3: Een bestemmingspagina maken en uw formulier {#step-create-a-landing-page-and-add-your-form} toevoegen
 
-1. Selecteer het programma en klik op **Nieuw** en vervolgens op **Nieuw lokaal element**.
+1. Selecteer uw programma en klik op **Nieuw** en **Nieuw lokaal element**.
 
    ![](assets/image2014-9-24-11-3a7-3a51.png)
 
@@ -121,7 +121,7 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. Voer een **paginanaam** in, selecteer een sjabloon en klik op **Maken**.
+1. Voer een pagina **Naam** in, selecteer een sjabloon en klik op **Maken**.
 
    >[!NOTE]
    >
@@ -147,9 +147,9 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    Geweldig werk! Er staat nu een bestemmingspagina met een formulier op. We keuren uw pagina goed om deze live te zetten.
 
-## STAP 4: Uw bestemmingspagina goedkeuren {#step-approve-your-landing-page}
+## STAP 4: Uw bestemmingspagina {#step-approve-your-landing-page} goedkeuren
 
-1. Selecteer de landingspagina en klik onder Handelingen **voor** bestemmingspagina op **Goedkeuren**.
+1. Selecteer uw landingspagina onder **Handelingen voor landingspagina** klikken **Goedkeuren**.
 
    >[!NOTE]
    >
@@ -161,9 +161,9 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/image2014-9-24-11-3a9-3a53.png)
 
-## STAP 5: Uw formulier testen {#step-test-your-form}
+## STAP 5: Uw formulier {#step-test-your-form} testen
 
-1. Selecteer de openingspagina en klik op Goedgekeurde pagina **** weergeven.
+1. Selecteer de openingspagina en klik op **Goedgekeurde pagina weergeven**.
 
    ![](assets/image2014-9-24-11-3a10-3a9.png)
 
@@ -171,7 +171,7 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/image2014-9-24-11-3a10-3a23.png)
 
-1. Ga naar het gebied **Database** .
+1. Ga naar **Database** gebied.
 
    ![](assets/db-1.png)
 
