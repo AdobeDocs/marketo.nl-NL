@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Alle personen zoeken in een omzettingsfase {#find-all-people-in-a-revenue-stage}
+# Alle personen zoeken in een inkomstenwerkgebied {#find-all-people-in-a-revenue-stage}
 
 >[!PREREQUISITES]
 >
@@ -21,13 +21,13 @@ ht-degree: 0%
 
 
 
-## Zoeken naar alle leden van een specifieke omzettingsfase {#find-all-members-of-a-specific-revenue-stage}
+## Alle leden van een specifieke inkomstenwerkgebied zoeken {#find-all-members-of-a-specific-revenue-stage}
 
-1. Klik in een slimme lijst op het tabblad **Slimme lijst **, zoek het filter Werkgebied **voor** inkomsten en sleep het naar het canvas.
+1. Klik in een slimme lijst op het tabblad **Slimme lijst **, zoek het filter **Werkgebied ophalen** en sleep het naar het canvas.
 
    ![](assets/draginrevenuefilter.png)
 
-1. Selecteer een **omzettingsfase**.
+1. Selecteer een **Opbrengstwerkgebied**.
 
    ![](assets/two.jpg)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
    ![](assets/peopleresults.jpg)
 
-## Een stap-stap uitvoeren op de leden van een omzettingsfase {#run-a-flow-step-on-the-members-of-a-revenue-stage}
+## Voer een stroomstap uit op de leden van een omzettingswerkgebied {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-Nu u weet in welke inkomstenstadia de mensen zich bevinden, kunt u ze rechtstreeks op de markt brengen. Naast het kiezen van het Stadium **van de** Opbrengst als slim lijstfilter, kunt u het als &quot;als&quot;filter in de stroom ook kiezen.
+Nu u weet in welke inkomstenstadia de mensen zich bevinden, kunt u ze rechtstreeks op de markt brengen. Naast het kiezen van **Werkgebied van de Opbrengst** als slim lijstfilter, kunt u het als filter &quot;als&quot;in de stroom ook kiezen.
 
-1. Klik in de gewenste stap in de stroom op Keuze **** toevoegen en selecteer **Werkgebied** inkomsten in de vervolgkeuzelijst.
+1. Klik in de gewenste stap in de stroom op **Keuze toevoegen** en selecteer **Werkgebied ophalen** in de vervolgkeuzelijst.
 
    ![](assets/six.png)
 
