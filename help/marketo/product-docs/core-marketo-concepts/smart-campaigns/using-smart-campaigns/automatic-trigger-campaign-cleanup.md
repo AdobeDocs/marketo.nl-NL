@@ -23,11 +23,11 @@ Eenmaal per kwartaal vindt Marketo slimme campagnes die al zes maanden lang (gee
 
 Natuurlijk! Eenmaal per kwartaal ontvangt u een week van tevoren een bericht waarin elke campagne wordt getoond die we op deactivering willen toepassen.
 
-1. Ga naar het tabblad **Meldingen** .
+1. Ga naar het tabblad **Meldingen**.
 
    ![](assets/notifications.png)
 
-1. Klik op **Opruimen van campagne niet actief starten gepland**. Klik vervolgens op de **koppeling **Deze niet-actieve triggercampagnes worden gedeactiveerd.** **
+1. Klik **Opruiming van de Campagne van de Trekker niet in werking stellen gepland**. Klik vervolgens op de **Deze inactieve triggercampagnes worden gedeactiveerd **koppeling.** **
 
    ![](assets/image2015-4-27-20-3a48-3a35.png)
 
@@ -52,7 +52,7 @@ Of zal de teller van 6 maanden terugstellen.
 
 Absoluut - een week na de oorspronkelijke kennisgeving zullen we de vermelde campagnes deactiveren (min alle campagnes die ten minste één persoon hebben gekwalificeerd of zijn gedeactiveerd/opnieuw geactiveerd) en een bevestigingsbericht plaatsen.
 
-1. Selecteer **Niet-actieve opruiming van de Campagne van de Trigger Gepland **bericht. Klik op de koppeling **Deze niet-actieve triggercampagnes** .
+1. Selecteer **Niet-actieve opruiming van de Campagne van de Trigger Gepland **bericht. Klik op de koppeling **Deze niet-actieve triggercampagnes**.
 
    ![](assets/image2015-4-27-20-3a56-3a41.png)
 
