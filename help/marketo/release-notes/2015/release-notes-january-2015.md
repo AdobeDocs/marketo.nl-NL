@@ -15,15 +15,15 @@ ht-degree: 0%
 
 De volgende functies zijn opgenomen in de release van januari 2015. Controleer uw Marketo Edition voor de beschikbaarheid van functies. Na de release wilt u koppelingen naar gedetailleerde artikelen voor elke functie zoeken.
 
-## Updates van marketingautomatisering {#marketing-automation-updates}
+## Updates voor marketingautomatisering {#marketing-automation-updates}
 
 **Nieuwe foto&#39;s van Rick DeCosta!**
 
-Rick is een Marketo-klant van SmartBear en heeft een [ongelooflijke verzameling foto](https://www.flickr.com/photos/rickdecosta)&#39;s. Bekijk ze!
+Rick is een Marketo-klant van SmartBear en heeft een [ongelooflijke verzameling foto&#39;s](https://www.flickr.com/photos/rickdecosta). Bekijk ze!
 
-## Mobiele, vriendelijke landingspagina&#39;s {#mobile-friendly-landing-pages}
+## Mobiele vriendelijke landingspagina&#39;s {#mobile-friendly-landing-pages}
 
-U kunt nu mobiele weergaven [maken voor het openen van pagina](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) &#39;s vanuit de bestemmingspagina-editor. Geef uw boodschap effectief, ongeacht het apparaat, en vergroot de betrokkenheid door uw inhoud onderweg op maat te maken voor eenvoudig verbruik. Deze functie wordt geleidelijk uitgevoerd in de hele week na de release.
+U kunt nu [mobiele weergaven maken voor het landen van pagina&#39;s](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) vanuit de bestemmingspagina-editor. Geef uw boodschap effectief, ongeacht het apparaat, en vergroot de betrokkenheid door uw inhoud onderweg op maat te maken voor eenvoudig verbruik. Deze functie wordt geleidelijk uitgevoerd in de hele week na de release.
 
 `<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
 
@@ -45,7 +45,7 @@ Open nu aangepaste objecten die aan het object Account zijn gekoppeld vanuit e-m
 
 **Persoonlijke opmerkingen voor Google en Facebook**
 
-In de toelichting worden advertenties getoond aan mensen die uw website hebben bezocht. U kunt uw marketingcampagnes nu personaliseren op [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) en [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) met behulp van gegevens van Real-Time Personalization. Markten voor publiek uit verschillende bedrijfstakken, accountlijsten, bedrijfsgrootten of gegevens van bekende aanbieders.
+In de toelichting worden advertenties getoond aan mensen die uw website hebben bezocht. U kunt uw marketingcampagnes nu aanpassen op [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) en [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) met gegevens van Real-Time Personalization. Markten voor publiek uit verschillende bedrijfstakken, accountlijsten, bedrijfsgrootten of gegevens van bekende aanbieders.
 
 [Module lijst met benoemde accounts](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -59,13 +59,13 @@ De verbeteringen aan de module Benoemde accounts zullen de percentages en valida
 
 Bijgewerkte opties voor RTP-tags
 
-[De opties voor de RTP-tag](http://docs.marketo.com/display/docs/rtp+tag+implementation) onder Accountinstellingen zijn zo bijgewerkt dat:
+[De Tagoptions van RTP ](http://docs.marketo.com/display/docs/rtp+tag+implementation) onder de Montages van de Rekening zijn bijgewerkt om te omvatten:
 
 1. CDN en Asynchroon (aanbevolen tag)
 1. CDN en synchroon (hoge snelheid)
 1. Asynchrone tag zonder CDN
 1. Synchrone tag zonder CDN
 
-Voor de beste prestaties verdient het aanbeveling de tag boven aan de koptekst in de webpagina erna te plaatsen `<head>`. Alle markeringen staan voor gebruik van [RTP API](http://developers.marketo.com/documentation/websites/rtp-js-api/)toe. Voor informatie over hoe te om de markering op te stellen RTP zie [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Voor de beste prestaties verdient het aanbeveling de tag boven aan de koptekst op de webpagina na `<head>` te plaatsen. Alle markeringen staan voor gebruik van [RTP API](http://developers.marketo.com/documentation/websites/rtp-js-api/) toe. Voor informatie over hoe te om de markering op te stellen RTP zie [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
