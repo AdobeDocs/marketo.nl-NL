@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SEO - Kies Regio/Land voor je zoekmachine {#seo-pick-region-country-for-your-search-engine}
+# SEO - Kies Regio/Land voor uw zoekengine {#seo-pick-region-country-for-your-search-engine}
 
 SEO Admins zal het gebied voor de onderzoeksmotor kunnen kiezen die u de informatie van de sleutelwoordrang wilt krijgen.
 
