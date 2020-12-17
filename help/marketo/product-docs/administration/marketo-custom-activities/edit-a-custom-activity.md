@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Een aangepaste activiteit bewerken {#edit-a-custom-activity}
+# Een aangepaste activiteit {#edit-a-custom-activity} bewerken
 
 Wilt u wijzigingen aanbrengen in een aangepaste activiteit die u al hebt gemaakt? Zo gaat het.
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ Wilt u wijzigingen aanbrengen in een aangepaste activiteit die u al hebt gemaakt
 
    ![](assets/three-1.png)
 
-1. Klik op Acties voor **aangepaste activiteit** en selecteer Activiteit **** bewerken.
+1. Klik **Aangepaste Acties voor activiteit** en selecteer **Activiteit bewerken**.
 
    ![](assets/four-1.png)
 
