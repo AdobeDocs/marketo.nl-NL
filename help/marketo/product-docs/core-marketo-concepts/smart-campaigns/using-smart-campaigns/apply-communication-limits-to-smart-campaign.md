@@ -41,6 +41,6 @@ Het is geen goed idee om iemand meerdere keren per dag of te vaak per week te e-
 
 >[!TIP]
 >
->Als u dit als standaard wilt instellen, bewerkt u de [communicatielimieten](../../../../product-docs/administration/email-setup/enable-communication-limits.md) in de sectie Beheer.
+>Om dit het gebrek te maken, geef uw [communicatielimieten](../../../../product-docs/administration/email-setup/enable-communication-limits.md) in de Admin sectie uit.
 
 Zoet. U kunt er nu zeker van zijn dat u niet per ongeluk te veel e-mails naar uw publiek stuurt.
