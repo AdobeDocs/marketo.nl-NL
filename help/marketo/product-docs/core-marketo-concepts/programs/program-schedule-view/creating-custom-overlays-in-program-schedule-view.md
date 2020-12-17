@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Aangepaste overlays maken in de programmaweergave van het programma {#creating-custom-overlays-in-program-schedule-view}
+# Aangepaste overlays maken in de overzichtsweergave van het programma {#creating-custom-overlays-in-program-schedule-view}
 
 U kunt aangepaste overlays maken om items weer te geven die relevant zijn voor uw behoeften.
 
-1. Klik op de vervolgkeuzelijst **Agenda** .
+1. Klik op de vervolgkeuzelijst **Agenda**.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
