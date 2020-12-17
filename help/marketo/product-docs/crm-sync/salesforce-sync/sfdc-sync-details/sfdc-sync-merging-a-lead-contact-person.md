@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Soms is het beter om alleen de regels te vermelden. Hier gaan we:
 
-* Wanneer u twee leads samenvoegt in **Salesforce**, vertelt de normale synchronisatie Marketo en de leads worden automatisch samengevoegd als mensen in Marketo.
-* Het samenvoegen van twee mensen in **Marketo** impliceert eigenlijk hetzelfde proces als het samenvoegen van hen als leiders in Salesforce. Het werkt nog steeds automatisch.
-* Het samenvoegen van een **lead (persoon) in een contactpersoon** werkt op dezelfde manier. U eindigt met één enkel contact aan beide kanten.
+* Wanneer u twee lood in **Salesforce** samenvoegt, vertelt de normale synchronisatie Marketo en de lood automatisch als mensen in Marketo worden samengevoegd.
+* Het samenvoegen van twee mensen in **Marketo** roept eigenlijk het zelfde proces aan zoals het samenvoegen van hen zoals lood in Salesforce. Het werkt nog steeds automatisch.
+* Het samenvoegen van een **lead (person) in een contact** werkt op dezelfde manier. U eindigt met één enkel contact aan beide kanten.
 * Bij het samenvoegen wordt de standaardscore opgeteld.
 
 >[!NOTE]
@@ -34,5 +34,5 @@ Soms is het beter om alleen de regels te vermelden. Hier gaan we:
 >
 >**Diep duiken**
 >
->Diep duik voor meer informatie over het [samenvoegen van mensen in Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
+>Diep duik voor meer informatie over [het samenvoegen van mensen in Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
 
