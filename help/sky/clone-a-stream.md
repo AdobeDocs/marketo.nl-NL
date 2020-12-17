@@ -20,7 +20,7 @@ U kunt een stream klonen om verschillende redenen, waaronder verschillende beste
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-1.png)
 
-1. Klik op het **[!UICONTROL Streams]** tabblad.
+1. Klik op het tabblad **[!UICONTROL Streams]**.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/clone-a-stream/clone-a-stream-2.png)
 
