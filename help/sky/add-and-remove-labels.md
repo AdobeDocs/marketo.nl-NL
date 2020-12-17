@@ -16,14 +16,14 @@ U kunt labels toewijzen aan elk element in [!UICONTROL Marketing Activities], wa
 
 ## Labels toevoegen
 
-Als u nieuwe labels aan een element wilt toevoegen, navigeert u naar de [!UICONTROL Details] pagina van het element onder het [!UICONTROL Overview] tabblad.
+Als u nieuwe labels aan een element wilt toevoegen, navigeert u naar de pagina [!UICONTROL Details] van het element onder het tabblad [!UICONTROL Overview].
 <br> 
 
-Klik onder de [!UICONTROL Labels] sectie op **[!UICONTROL Add New Labels]**.
+Klik onder de sectie [!UICONTROL Labels] op **[!UICONTROL Add New Labels]**.
 
 ![Afbeelding één](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-1.jpg)
 
-Als u een label toevoegt dat u niet eerder hebt gebruikt, voert u de labelnaam in en klikt u **[!UICONTROL Create New ____]**.
+Als u een label toevoegt dat u niet eerder hebt gebruikt, ga de etiketnaam in en klik **[!UICONTROL Create New ____]**.
 
 ![Afbeelding twee](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-2.jpg)
 
@@ -37,6 +37,6 @@ Als u een label toevoegt dat al ergens anders is gemaakt, typt u om ernaar te zo
 
 ## Labels verwijderen
 
-U kunt elk label verwijderen door op het pictogram te klikken **[!UICONTROL X]**.
+U kunt om het even welk etiket verwijderen door **[!UICONTROL X]** te klikken.
 
 ![Afbeelding vier](/help/sky/assets/labels/add-and-remove-labels/add-and-remove-labels-4.jpg)
