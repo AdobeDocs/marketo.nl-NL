@@ -19,7 +19,7 @@ Wilt u het e-mailadres, de naam of het telefoonnummer van de account wijzigen? K
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Beheer**.
+1. Ga naar **Admin**.
 
    ![](assets/adminhand.png)
 
@@ -27,7 +27,7 @@ Wilt u het e-mailadres, de naam of het telefoonnummer van de account wijzigen? K
 
    ![](assets/image2015-6-23-15-3a16-3a52.png)
 
-1. Selecteer **Accountinstellingen** bewerken.
+1. Selecteer **Accountinstellingen bewerken**.
 
    ![](assets/image2015-6-23-15-3a21-3a41.png)
 
