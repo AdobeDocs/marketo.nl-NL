@@ -25,7 +25,7 @@ Wanneer u een datum/tijd voor een E-mailprogramma kiest, bepaalt het wanneer het
 
 ## Standaardbeginpunt {#standard-head-start}
 
-1. Klik op **Marketingactiviteiten**.
+1. Klik **Marketingactiviteiten**.
 
    ![](assets/one-1.png)
 
@@ -37,7 +37,7 @@ Wanneer u een datum/tijd voor een E-mailprogramma kiest, bepaalt het wanneer het
    >
    >Kop Start kan niet worden gebruikt met A/B-tests.
 
-1. In de tegel van het Programma, plant uw e-mail dan het vakje van het Begin van het **Kop** .
+1. In de tegel van het Programma, plant uw e-mail dan uitgezocht **Begin** doos.
 
    ![](assets/three-1.png)
 
@@ -47,20 +47,20 @@ Wanneer u een datum/tijd voor een E-mailprogramma kiest, bepaalt het wanneer het
    >
    >Iedereen uit uw publiek die zich na de programmavergrendeling afmeldt, ontvangt de e-mail nog steeds. We raden je aan je afmeldingsbericht aan te passen om aan te geven dat het 1-2 werkdagen kan duren voordat je afmeldt.
 
-1. Klik op **Programma** goedkeuren.
+1. Klik **Programma goedkeuren**.
 
    ![](assets/four-1.png)
 
    Na de goedkeuring van het programma zijn er vier verschillende statussen die u kunt zien op de goedkeuringstegel.
 
-   * **Wachten op uitvoeren:** Nadat het programma is goedgekeurd.
-   * **Verwerking gestart, wachten op uitvoering:** De verwerking wordt uitgevoerd.
-   * **Verwerking voltooid, wachten op uitvoering:** Verwerking voltooid. E-mail wacht nu op geplande starttijd.
+   * **Wachten op uitvoeren:** nadat het programma is goedgekeurd.
+   * **Verwerking gestart, wachten op uitvoering:** verwerking wordt uitgevoerd.
+   * **Verwerking voltooid, wachten op uitvoering:** Verwerking voltooid, e-mail nu wachtend op geplande tijd om te starten.
    * **Voltooid:** Programma voltooid.
 
    >[!TIP]
    >
-   >Wilt u annuleren nadat het programma is vergrendeld, maar voordat de e-mail wordt verzonden? Geen probleem! Klik op Programma **** afbreken rechtsonder in de goedkeuringstegel.
+   >Wilt u annuleren nadat het programma is vergrendeld, maar voordat de e-mail wordt verzonden? Geen probleem! Klik eenvoudig **Programma** in de laag-juiste kant van de tegel van de Goedkeuring afbreken.
 
    >[!NOTE]
    >
@@ -68,13 +68,13 @@ Wanneer u een datum/tijd voor een E-mailprogramma kiest, bepaalt het wanneer het
 
 ## Begin met ontvangende tijdzone {#head-start-with-recipient-time-zone}
 
-Het programma moet ten minste 12 uur van tevoren worden gepland voor onze bestaande functie voor starten. Wat betekent dat voor de ontvangende tijdzone? Zoals u weet, wordt het e-mailprogramma uitgevoerd in de vroegste tijdzone (UTC +14:00) wanneer de tijdzone voor ontvangers actief is. Om **zowel** Head Start- als Ontvangertijd Zone mogelijk te maken, moeten programma&#39;s dus **ten minste 12 uur voor de vroegste tijdzone (UTC +14:00**) worden gepland.
+Het programma moet ten minste 12 uur van tevoren worden gepland voor onze bestaande functie voor starten. Wat betekent dat voor de ontvangende tijdzone? Zoals u weet, wordt het e-mailprogramma uitgevoerd in de vroegste tijdzone (UTC +14:00) wanneer de tijdzone voor ontvangers actief is. Om **beide** Tijdzone van het Begin en van de Ontvanger in te schakelen, moeten programma&#39;s **minstens 12 uur voor de vroegste tijdzone (UTC +14:00**.) worden gepland.
 
-Dit betekent dat als u in Amerika/Los Angeles bent en zowel HoofdBegin als Ontvankelijke Tijdzone wilt toelaten, u het programma **34 uur** van tevoren moet plannen. Hoe hebben we dit getal bereikt?
+Dit betekent dat als u in Amerika/Los Angeles bent en zowel HoofdBegin als Ontvankelijke Tijdzone wilt toelaten, u het programma **34 uren** vooraf moet plannen. Hoe hebben we dit getal bereikt?
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[Meer](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) informatie over het plannen van e-mailprogramma&#39;s met de Tijdzone van de Ontvanger.
+[Leer ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) meer over hoe te om e-mailprogramma&#39;s met Ontvankelijke Tijdzone te plannen.
 
 >[!NOTE]
 >
