@@ -37,19 +37,19 @@ Marketo beheert uw WebEx webinar registratie en aanwezigheid.
 
    ![](assets/image2015-4-23-11-3a20-3a43.png)
 
-1. Selecteer **Nieuw** en dan **Nieuwe Dienst**.
+1. Selecteer **Nieuw** en **Nieuwe service**.
 
    ![](assets/webex-new-service.png)
 
-1. Voer een **weergavenaam** in. Selecteer onder **Service** de optie **WebEx**.
+1. Voer een **Weergavenaam** in. Selecteer **WebEx** onder **Service**.
 
    ![](assets/new-service-webex.png)
 
-1. Voer uw **gebruikersnaam** en **wachtwoord** in.
+1. Voer uw **Gebruikersnaam** en **Wachtwoord** in.
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
-1. Voltooi het proces door uw** Sitenaam** in te voeren en klik vervolgens op **Maken**.
+1. Voltooi het proces door uw** Naam van de Plaats in te gaan* dan **creeer**.
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
@@ -59,5 +59,5 @@ Marketo beheert uw WebEx webinar registratie en aanwezigheid.
 
 >[!MORELIKETHIS]
 >
->Leer hoe u een gebeurtenis [maakt met WebEx](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md).
+>Leer hoe te om [een gebeurtenis met WebEx](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md) tot stand te brengen.
 
