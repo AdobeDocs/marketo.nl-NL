@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Het betrokkenheidsdashboard {#the-engagement-dashboard}
 
-Het betrokkenheidsdashboard is de eenvoudigste manier om te zien hoe de inhoud in uw [betrokkenheidsprogramma](http://docs.marketo.com/display/docs/drip+nurturing) &#39;s presteert.
+Het betrokkenheidsdashboard is de eenvoudigste manier om te zien hoe de inhoud in uw [betrokkenheidsprogramma&#39;s](http://docs.marketo.com/display/docs/drip+nurturing) presteert.
 
 >[!NOTE]
 >
@@ -27,9 +27,9 @@ Selecteer uw betrokkenheidsprogramma en klik op **Weergave > Dashboard**.
 
 >[!TIP]
 >
->Bekijk het prestatierapport [van de](engagement-stream-performance-report.md) betrokkenheidsstream voor gedetailleerdere statistieken.
+>Bekijk het [rapport over de prestaties van de betrokkenheidsstream](engagement-stream-performance-report.md) voor gedetailleerdere statistieken.
 
-## De extrusiewidget begrijpen {#understand-the-exhaustion-widget}
+## De extrusiewidget {#understand-the-exhaustion-widget} begrijpen
 
 Met deze widget kunt u anticiperen wanneer leads alle inhoud bevatten. De uitputtingsscore wordt onmiddellijk na elke gietvorm berekend. In het onderstaande voorbeeld ziet u dat bij 1 cast 195 leads alle inhoud zullen hebben uitgeput.
 
@@ -37,13 +37,13 @@ Met deze widget kunt u anticiperen wanneer leads alle inhoud bevatten. De uitput
 
 >[!NOTE]
 >
->U moet naar het tabblad Setup gaan en ervoor zorgen dat Uitgebreide meldingen over inhoud zijn **ingeschakeld** om de bovenstaande grafiek te kunnen zien. Als ze uit zijn, ziet de grafiek er anders uit.
+>U moet in het lusje van de Opstelling gaan en ervoor zorgen de Uitgebreide Inhoudsberichten **op** zijn om de grafiek hierboven te zien. Als ze uit zijn, ziet de grafiek er anders uit.
 
 >[!CAUTION]
 >
 >De mensen die &quot;uitgeput&quot;zijn zullen geen mededeling in de volgende gietvorm ontvangen.
 
-## Begrijp de Betrokkenheid over tijd widget {#understand-the-engagement-over-time-widget}
+## De metingwidget Betrokkenheid over tijd {#understand-the-engagement-over-time-widget} begrijpen
 
 Geeft de gemiddelde betrokkenheidsscore over een bepaalde periode weer en de impact van inhoudsbewerkingen.
 
@@ -59,7 +59,7 @@ Als u één stuk inhoud in plaats van een gemiddelde wilt weergeven, klikt u op 
 
 ![](assets/image2014-9-15-16-3a46-3a45.png)
 
-## De hoogste widget voor betrokkenheid begrijpen {#understand-the-highest-engagement-widget}
+## De hoogste widget voor betrokkenheid {#understand-the-highest-engagement-widget} begrijpen
 
 Een lijst van alle inhoud, die door de hoogste betrokkenheidsscore wordt bevolen.
 
@@ -69,11 +69,11 @@ Als u het sorteren wilt wijzigen, klikt u op het tandwielpictogram en selecteert
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-*Nieuwste* en *Oudste* zijn gebaseerd op het tijdstip van de laatste goedkeuring.
+** Newestand  ** Oldestare is gebaseerd op het tijdstip van de laatste goedkeuring.
 
 >[!NOTE]
 >
 >**Diep duiken**
 >
->Meer informatie vindt u in de diepe duik van het programma [](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) Betrokkenheid maken.
+>Leer meer in [Creeer een Programma van de Betrokkenheid](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) diep duik.
 
