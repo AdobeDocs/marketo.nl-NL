@@ -32,13 +32,13 @@ Als u de weergaven en de rotatiefrequentie voor uw presentatie hebt ingesteld, i
 
 >[!TIP]
 >
->Zorg ervoor dat u een **voorvertoning van een presentatie** weergeeft voordat u de presentatie start.
+>Zorg dat u **Een presentatie voorvertonen** voordat u de presentatie start.
 
-1. Klik op **Starten**.
+1. Klik **Launch**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Klik nogmaals op **Start** . Hiermee meldt u zich af van Marketo, zodat de presentatie veilig kan worden weergegeven.
+1. Klik **Start** nog een keer. Hiermee meldt u zich af van Marketo, zodat de presentatie veilig kan worden weergegeven.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
