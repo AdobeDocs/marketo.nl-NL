@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-mailprogrammakaarten {#understanding-email-program-cards}
+# Werken met e-mailprogrammakaarten {#understanding-email-program-cards}
 
 Gebruik Marketo-momenten om uw e-mailprogramma&#39;s vanaf uw telefoon of iPad weer te geven.
 
@@ -37,11 +37,11 @@ Nadat de e-mail is verzonden, geeft de kaart andere waardevolle informatie weer,
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Tik op **Bevestigen**.
+1. Tik **Bevestig**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tik op **Bevestig **om de taak te voltooien of **Nooit denken** als u tweede gedachten had.
+1. Tik **Bevestig **om de baan te beëindigen, of **nooit Mind** als u tweede gedachten had.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -49,17 +49,17 @@ Nadat de e-mail is verzonden, geeft de kaart andere waardevolle informatie weer,
    >
    >Nu gaat je kaart naar oranje!
 
-## E-mailkaartverzending annuleren {#canceling-an-email-card-send}
+## Een verzonden e-mailkaart {#canceling-an-email-card-send} annuleren
 
 1. Tik op het driepuntmenu als u uw bevestigde e-mail niet wilt verzenden.
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tik op Verzenden **annuleren**.
+1. Tik **Annuleren Verzenden**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
-## Een e-mailkaart opnieuw selecteren {#rescheduling-an-email-card}
+## Een e-mailkaart opnieuw instellen {#rescheduling-an-email-card}
 
 Je kunt bevestigde of onbevestigde e-mailkaarten opnieuw plannen.
 
@@ -71,11 +71,11 @@ Je kunt bevestigde of onbevestigde e-mailkaarten opnieuw plannen.
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Tik op **Opnieuw plannen**.
+1. Tik **Opnieuw plannen**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Selecteer een datum in de kalender en tik op **Opnieuw plannen**.
+1. Selecteer een datum op de kalender en tik **Opnieuw plannen**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
@@ -89,19 +89,19 @@ U kunt een voorbeeld van een e-mailmoment rechtstreeks met iemand delen.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tik op Voorbeeld **verzenden**.
+1. Tik **Sample verzenden**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Voer een e-mailadres in en klik op Voorbeeld **verzenden**.
+1. Voer een e-mailadres in en klik op **Voorbeeld verzenden**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
-## Een voorbeeld van een e-mail weergeven {#previewing-an-email}
+## Een voorbeeld weergeven van een e-mail {#previewing-an-email}
 
 Klik met de rechtermuisknop op een e-mailkaart om deze voor te vertonen.
 
-1. Tik op E-mail **met voorbeeldweergave**.
+1. Tik **E-mail voorvertonen**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
