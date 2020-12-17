@@ -16,10 +16,10 @@ ht-degree: 0%
 
 Hier is hoe te opstelling een teken van de Datum voor gebruik in uw programma&#39;s en campagnemappen.
 
-1. Sleep op het [!UICONTROL My Tokens] tabblad van uw programma of map een **[!UICONTROL Date]** token naar het [!UICONTROL Local Tokens] canvas.
+1. Sleep op het tabblad [!UICONTROL My Tokens] van uw programma of map een **[!UICONTROL Date]**-token naar het canvas [!UICONTROL Local Tokens].
 
    ![Afbeelding één](/help/sky/assets/my-tokens/my-token-date/my-token-date-1.jpg)
 
-1. Voer een naam in voor uw Datumtoken en selecteer een datum in de kalender. Klik **[!UICONTROL Save]**.
+1. Voer een naam in voor uw Datumtoken en selecteer een datum in de kalender. Klik op **[!UICONTROL Save]**.
 
    ![Afbeelding twee](/help/sky/assets/my-tokens/my-token-date/my-token-date-2.jpg)
