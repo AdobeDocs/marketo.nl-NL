@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Slimme campagnes zijn het belangrijkste instrument in [!DNL Marketo]. Ze kunnen op één persoon worden geactiveerd en acties uitvoeren, of miljoenen mensen helpen en een reeks stappen uitvoeren.
 
-1. Selecteer in [!UICONTROL Marketing Activities], het programma of de omslag u uw slimme campagne wilt binnen leven.
+1. Selecteer in [!UICONTROL Marketing Activities] het programma of de map waarin u de slimme campagne wilt plaatsen.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/create-a-smart-campaign/create-a-smart-campaign-1.png)
 
