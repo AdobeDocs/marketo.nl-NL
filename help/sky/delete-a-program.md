@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Hier is hoe u een programma kunt verwijderen.
 
-1. Zoek het programma dat u wilt verwijderen en selecteer vervolgens **[!UICONTROL Delete]** in de [!UICONTROL Program Actions] vervolgkeuzelijst.
+1. Zoek het programma dat u wilt verwijderen en selecteer **[!UICONTROL Delete]** in de vervolgkeuzelijst [!UICONTROL Program Actions].
 
    ![Afbeelding één](/help/sky/assets/programs/delete-a-program/delete-a-program-1.png)
 
-1. Controleer de bijwerkingen van de verwijdering van het programma en controleer **[!UICONTROL Delete all the items listed above]**. Klik **[!UICONTROL Submit]**.
+1. Controleer de bijwerkingen van de verwijdering van het programma en controleer vervolgens **[!UICONTROL Delete all the items listed above]**. Klik op **[!UICONTROL Submit]**.
 
    ![Afbeelding twee](/help/sky/assets/programs/delete-a-program/delete-a-program-2.png)
 
@@ -30,4 +30,4 @@ Hier is hoe u een programma kunt verwijderen.
 
 >[!CAUTION]
 >
->Als u een programma verwijdert, worden alle bijbehorende gegevens gewist. Om gegevens te bewaren, kunt u het programma in plaats daarvan in een archiefomslag [willen](/help/sky/archive-a-program.md) plaatsen.
+>Als u een programma verwijdert, worden alle bijbehorende gegevens gewist. Om gegevens te bewaren, kunt u [het programma in een archiefomslag ](/help/sky/archive-a-program.md) in plaats daarvan willen plaatsen.
