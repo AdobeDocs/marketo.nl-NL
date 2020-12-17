@@ -25,13 +25,13 @@ Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt b
 
 >[!CAUTION]
 >
->Werkruimten en Personen-partities kunnen complex zijn. Neem contact op met [Marketo voor ondersteuning](http://support.marketo.com/) bij het instellen van Marketo&#39;s.
+>Werkruimten en Personen-partities kunnen complex zijn. Neem contact op met [Marketo-ondersteuning](http://support.marketo.com/) voor hulp bij het instellen van deze bestanden.
 
 1. Klik onder Beheer op Werkruimten en partities.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
-1. Selecteer de werkruimte en klik op Werkruimte **** bewerken.
+1. Selecteer uw werkruimte en klik **Werkruimte bewerken**.
 
    ![](assets/two-3.png)
 
@@ -43,9 +43,9 @@ Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt b
 
    ![](assets/three-3.png)
 
-   Primaire persoonlijke scheidingen zijn de standaardinstelling waar alle volkeren zullen worden opgenomen. Gebruik [stroomstappen](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) of [toewijzingsregels](assigning-person-partitions-with-assignment-rules.md) om mensen te verplaatsen.
+   Primaire persoonlijke scheidingen zijn de standaardinstelling waar alle volkeren zullen worden opgenomen. Gebruik [flowstappen](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) of [toewijzingsregels](assigning-person-partitions-with-assignment-rules.md) om mensen te verplaatsen.
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/four-3.png)
 
@@ -59,5 +59,5 @@ Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt b
 >
 >**Diep duiken**
 >
->[Werken- en personenpartities](understanding-workspaces-and-person-partitions.md)begrijpen.
+>[Werken- en personenpartities](understanding-workspaces-and-person-partitions.md) begrijpen.
 
