@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: jan/feb. 2012 {#release-notes-jan-feb}
+# Opmerkingen bij de release: jan/feb 2012 {#release-notes-jan-feb}
 
 De volgende functies zijn opgenomen in de jan/feb-release. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid. Kom terug na de release voor koppelingen naar gedetailleerde functiedocumentatie.
 
@@ -19,7 +19,7 @@ De volgende functies zijn opgenomen in de jan/feb-release. Controleer uw uitgave
 >
 >**Diep duiken**
 >
->Voor andere versies, zie de Nota&#39;s [van de](http://docs.marketo.com/display/docs/release+notes) Versie diep duiken.
+>Voor andere versies, zie [Nota&#39;s van de Versie](http://docs.marketo.com/display/docs/release+notes) diepe duik.
 
 ## Geavanceerde dynamische inhoud {#advanced-dynamic-content}
 
@@ -29,7 +29,7 @@ Met geavanceerde dynamische inhoud kunt u aansprekende e-mailcommunicatie en bes
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## Segmentering  {#segmentation}
+## Segmentering {#segmentation}
 
 *Beschikbaar voor Pro- en Enterprise-versies*
 
@@ -53,7 +53,7 @@ Het gebruiken van Persoonlijke URLs (PURLs) marketers kan nu contact-specifieke 
 
 ![](assets/image2014-9-23-9-3a51-3a11.png)
 
-## Ondersteuning van de EU-privacyrichtlijn {#eu-privacy-directive-support}
+## Ondersteuning voor EU-privacyrichtlijn {#eu-privacy-directive-support}
 
 De nieuwe eigenschappen om browser te respecteren &quot;volgen&quot;montages omvatten de capaciteit om het volgen voor anonieme lood onbruikbaar te maken; Hierdoor wordt het gemakkelijker om de strengere EU-regels inzake privacy tracking na te leven.
 
@@ -63,7 +63,7 @@ De nieuwe eigenschappen om browser te respecteren &quot;volgen&quot;montages omv
 
 Organisaties hebben nu de mogelijkheid om een naadloze aanmelding bij de toepassing Marketo te ondersteunen met SAML 2.0 voor Single Sign-On vanuit een bedrijfsportaal.
 
-## Bijgewerkte e-mail- en Landingspagina-editors {#updated-email-and-landing-page-editors}
+## Bijgewerkte e-mail- en bestemmingspagina-editors {#updated-email-and-landing-page-editors}
 
 De E-mail- en Landing Page Editors zijn opnieuw ontworpen met een meer uitnodigende interface, intuïtieve navigatie en een aanzienlijk verbeterde gebruikerservaring, waaronder:
 
@@ -86,7 +86,7 @@ Het vereenvoudigde programmabeheer verbetert de bruikbaarheid met Token delete e
 
 ![](assets/image2014-9-23-9-3a52-3a11.png)
 
-## Abonnement op abonnementsrapport opzeggen {#unsubscribe-from-subscription-report}
+## Abonnement op abonnementsrapport {#unsubscribe-from-subscription-report} opzeggen
 
 Nu kunt u het abonnement op het abonnement rechtstreeks uit het rapport opzeggen!
 
@@ -94,13 +94,13 @@ Nu kunt u het abonnement op het abonnement rechtstreeks uit het rapport opzeggen
 
 Nieuwe Munchkin-aanroepen verkorten de laadtijden van webpagina&#39;s en bieden consistentere prestaties voor klikkoppelingsgebeurtenissen.
 
-## De Analyse van de Kans van het programma (RCA slechts) {#program-opportunity-analysis-rca-only}
+## Program Opportunity Analysis (alleen RCA) {#program-opportunity-analysis-rca-only}
 
 Begrijp marketing bijdrage aan individuele opportuniteitsopbrengst
 
 ![](assets/image2014-9-23-9-3a52-3a30.png)
 
-## Analyse van de omzettingsfase van het programma {#program-revenue-stage-analysis}
+## Analyse van werkgebied voor inkomsten programma {#program-revenue-stage-analysis}
 
 Verbeter inzicht in de snelheid van de programmaleiding door te begrijpen welke programma&#39;s de fast movers verwierven
 
