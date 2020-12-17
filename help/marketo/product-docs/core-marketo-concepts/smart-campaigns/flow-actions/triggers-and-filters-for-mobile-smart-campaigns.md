@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Triggers en filters voor mobiele slimme campagnes {#triggers-and-filters-for-mobile-smart-campaigns}
+# Triggers en filters voor slimme mobiele campagnes {#triggers-and-filters-for-mobile-smart-campaigns}
 
 U kunt triggers en filters instellen voor een slimme campagne voor een mobiele app.
 
-Voor de meeste activiteiten zijn er een trigger, een filter en een inactiviteitsfilter. Gebruik inactiviteitsfilters om een actie bij te houden, zoals het tikken op een pushmelding, die *niet* is uitgevoerd.
+Voor de meeste activiteiten zijn er een trigger, een filter en een inactiviteitsfilter. Gebruik inactiviteitsfilters om een handeling bij te houden, zoals het tikken op een pushmelding die *niet* heeft plaatsgevonden.
 
 * Mobiele app is/is geïnstalleerd
 * Mobiele app is/is geopend
@@ -27,11 +27,11 @@ Er zijn alleen filters voor deze activiteit:
 
 * Er is pushmelding verzonden - filter en inactiviteitsfilter
 
-Zoek naar **mobiele app** in het rechterdeelvenster om alle triggers en filters voor de mobiele app weer te geven.
+Zoek naar **mobiele app** in het juiste paneel om van alle Mobiele App trekkers en filters een lijst te maken.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
-## Restricties {#constraints}
+## Beperkingen {#constraints}
 
 Gebruik beperkingen met triggers en filters om de gegevens verder te sorteren.
 
@@ -57,7 +57,7 @@ Sommige triggers en filters bieden aanvullende beperkingen, zoals:
 
 * Sessieduur (seconden) - Sessietijd wanneer de app op de voorgrond staat
 
-* Is Ingedrukt - **Waar** betekent dat de pushmeldingen kunnen worden verzonden. **Onwaar** betekent dat ze dat niet kunnen. de persoon heeft er bijvoorbeeld mogelijk voor gekozen geen pushberichten meer te ontvangen
+* Is Ingedrukt - **Waar** betekent dat de dupberichten kunnen worden verzonden. **** Falsemeans die ze niet kunnen; de persoon heeft er bijvoorbeeld mogelijk voor gekozen geen pushberichten meer te ontvangen
 
 ## Triggers en filters {#triggers-and-filters}
 
@@ -103,7 +103,7 @@ Mobiele app is/is geopend
 
 Heeft/heeft mobiele toepassingsactiviteiten
 
-Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U dient met uw ontwikkelaar samen te werken om tracering [voor Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) en [voor iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios)in te stellen.
+Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U dient met uw ontwikkelaar te werken aan het bijhouden van [voor Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) en [voor iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
 * Heeft mobiele toepassingsactiviteit - trigger
 
@@ -129,7 +129,7 @@ Met de actievereisten kunt u de trigger en filters gebruiken om mobiele activite
 >
 >**Voorbeeld**
 >
->Onder het handelingstype van *Winkelen*, is hier een zeer specifieke actie, met de andere beperkingen die het bepalen:
+>Onder het handelingstype van *Shopping*, is hier een zeer specifieke actie, met de andere beperkingen die het bepalen:
 >
 >* Een shirt kopen
 >  * Het was rood
@@ -180,7 +180,7 @@ Taps/Tapping Push Notification
 >
 >Gebruik het filter Inactiviteit van pushmelding niet aangeraakt om te zoeken naar mensen die niet hebben getikt op een pushmelding die onlangs naar hen is verzonden, zodat u deze via e-mail kunt volgen.
 
-**Er is een pushmelding** verzonden Deze activiteit is alleen beschikbaar als filter.
+**Is pushmelding verzonden.** Deze activiteit is alleen beschikbaar als filter.
 
 * Er is pushmelding verzonden, filter
 
