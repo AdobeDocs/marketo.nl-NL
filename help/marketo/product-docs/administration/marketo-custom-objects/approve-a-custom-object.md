@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een aangepast object goedkeuren {#approve-a-custom-object}
+# Een aangepast object {#approve-a-custom-object} goedkeuren
 
 U moet een aangepast object goedkeuren voordat u het kunt gebruiken. Het proces is iets anders voor nieuwe aangepaste objecten en objecten die u hebt bewerkt.
 
@@ -19,11 +19,11 @@ U moet een aangepast object goedkeuren voordat u het kunt gebruiken. Het proces 
 
 U hebt een gloednieuw aangepast object gemaakt. Hier is hoe je het goedkeurt.
 
-1. Klik in Admin op **Marketo Custom Objects** en selecteer een object in de status Concept.
+1. Klik in Admin op **Aangepaste objecten markeren** en selecteer een object in de status Concept.
 
    ![](assets/one.png)
 
-1. Klik op de vervolgkeuzelijst **Aangepaste-objectacties** en selecteer **Object** goedkeuren.
+1. Klik op de vervolgkeuzelijst **Aangepaste objecthandelingen** en selecteer **Object goedkeuren**.
 
    ![](assets/two.png)
 
@@ -33,20 +33,20 @@ U hebt een gloednieuw aangepast object gemaakt. Hier is hoe je het goedkeurt.
 
    >[!NOTE]
    >
-   >Een aangepast object dat in een *een-op-veel-structuur* wordt gebruikt, moet ten minste één deduplicatieveld, een koppelingsveld, een naam van een gekoppeld object en een gekoppelde veldnaam hebben die moeten worden goedgekeurd.
+   >Een aangepast object dat wordt gebruikt in een *een-op-een-structuur* moet ten minste één dedupliceerveld, een koppelingsveld, een naam van een gekoppeld object en een gekoppelde veldnaam hebben die moeten worden goedgekeurd.
    >
    >
-   >Een aangepast object dat in een structuur ** met veel objecten wordt gebruikt, heeft **geen** koppelingsveld, naam van een gekoppeld object of naam van een gekoppeld veld nodig wanneer u het goedkeurt (omdat het object in het intermediaire object staat).
+   >Een aangepast object dat wordt gebruikt in een *veel-naar-veel-structuur* **heeft geen koppelingsveld, gekoppelde objectnaam of een gekoppelde veldnaam nodig wanneer u het goedkeurt (omdat ze in het intermediaire object leven).**
    >
    >
-   >Een aangepast object dat als een *intermediair object* wordt gebruikt, vereist een koppelingsveld, een gekoppelde objectnaam en een gekoppelde veldnaam, maar **heeft geen** deduplicatieveld nodig.
+   >Een douanevoorwerp dat als *intermediair voorwerp* wordt gebruikt vereist een verbindingsgebied, een verbonden objecten naam, en een verbonden gebiedsnaam maar **vereist geen** een deduplicaatgebied.
    >
    >
-   >Zie [Inzicht in aangepaste objecten](understanding-marketo-custom-objects.md) markeren voor meer informatie.
+   >Zie [Inzicht in aangepaste objecten markeren](understanding-marketo-custom-objects.md) voor meer informatie.
 
 Dat is het! U kunt nu uw aangepaste object selecteren met de beperkingen van de filters en triggers die u in uw campagnes wilt gebruiken.
 
-## Een bewerkt aangepast object goedkeuren {#approve-an-edited-custom-object}
+## Een bewerkt aangepast object {#approve-an-edited-custom-object} goedkeuren
 
 Nadat u een goedgekeurd aangepast object hebt bewerkt, moet u het concept goedkeuren om het aangepaste object terug te brengen naar de status Goedgekeurd.
 
@@ -54,11 +54,11 @@ Nadat u een goedgekeurd aangepast object hebt bewerkt, moet u het concept goedke
 
    ![](assets/four.png)
 
-1. Als u klaar bent om het concept goed te keuren, klikt u op de vervolgkeuzelijst **Aangepaste objectacties** en selecteert u **Object** goedkeuren.
+1. Wanneer u bereid bent om het ontwerp goed te keuren, klik **de drop-down Acties van de Objecten van de Douane** en selecteer **goedkeuren Voorwerp**.
 
    ![](assets/five-1.png)
 
-1. In een voorvertoning worden de gewijzigde items in het concept weergegeven. Klik op **Goedkeuren**.
+1. In een voorvertoning worden de gewijzigde items in het concept weergegeven. Klik **Goedkeuren**.
 
    ![](assets/six-1.png)
 
