@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Overzicht E-maileditor v2.0 {#email-editor-v-overview}
+# E-maileditor v2.0 - Overzicht {#email-editor-v-overview}
 
 Wanneer u besluit de E-maileditor v2.0 te activeren, zult u verschillende nieuwe functies zien.
 
 **E-mailsjabloonkiezer**
 
-Wanneer u een nieuwe e-mail maakt, gaat u naar de [E-mailsjabloonkiezer](email-template-picker-overview.md).
+Als u een nieuwe e-mail maakt, gaat u naar de [E-mailsjabloonkiezer](email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ Wanneer u uw e-mail gaat bewerken, ziet u dat de editor een geheel nieuw uiterli
 
 **Modules**
 
-Die dingen aan de rechterkant van de redacteur worden genoemd modules. Leer hoe u modules aan uw e-mail [kunt](add-modules-to-your-email.md)toevoegen.
+Die dingen aan de rechterkant van de redacteur worden genoemd modules. Leer hoe u modules [toevoegt aan uw e-mail](add-modules-to-your-email.md).
 
 ![](assets/three-4.png)
 
 **Tekstversie**
 
-Het schakelen tussen de HTML-versie en de tekstversie van uw e-mail staat nu op een handig tabblad onderaan. Leer hoe u de tekstversie van een e-mailbericht [kunt](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)bewerken.
+Het schakelen tussen de HTML-versie en de tekstversie van uw e-mail staat nu op een handig tabblad onderaan. Leer hoe u de tekstversie van een e-mail [bewerkt.](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)
 
 ![](assets/four-3.png)
 
 **E-mailkoptekst**
 
-Wilt u meer ontwerpruimte? De koptekst van de e-mail kan worden verborgen nadat u de e-mail hebt [bewerkt](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klik gewoon op dit pictogram...
+Wilt u meer ontwerpruimte? De e-mailkoptekst kan worden verborgen nadat u [het hebt bewerkt](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klik gewoon op dit pictogram...
 
 ![](assets/five-4.png)
 
@@ -59,7 +59,7 @@ Standaard wordt in het e-mailbericht weergegeven hoe het eruitziet op een bureau
 
 ![](assets/eight-3.png)
 
-Voor een grotere voorvertoning klikt u op **Voorvertoning** rechtsboven in het e-mailbericht.
+Voor een grotere voorproef, klik **Voorproef** in het hoger-recht van e-mail.
 
 ![](assets/preview1.png)
 
@@ -67,13 +67,13 @@ De standaardweergave daar is bureaublad...
 
 ![](assets/preview2.png)
 
-...maar u kunt ook zien hoe het er op een mobiel apparaat uitziet. U kunt ook een voorvertoning van de tekstversie weergeven. Klik in de rechterbovenhoek gewoon op Concept **** bewerken om het bewerken te hervatten.
+...maar u kunt ook zien hoe het er op een mobiel apparaat uitziet. U kunt ook een voorvertoning van de tekstversie weergeven. Klik **Concept** in het hoger-recht bewerken om het bewerken te hervatten.
 
 [![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
 
 **E-mailhandelingen**
 
-Onder **E-mailacties** zult u enkele nieuwe eigenschappen opmerken. **Upload een afbeelding of bestand** en **neem afbeeldingen op van het web**. U kunt het e-mailbericht zelf ook opslaan als een nieuwe e-mailsjabloon. Het enige wat je hoeft te doen, is het een naam en een bestemming geven.
+Onder **E-mailhandelingen** ziet u enkele nieuwe functies. **Upload een afbeelding of bestand** en  **neem afbeeldingen op van het web**. U kunt het e-mailbericht zelf ook opslaan als een nieuwe e-mailsjabloon. Het enige wat je hoeft te doen, is het een naam en een bestemming geven.
 
 ![](assets/nine-3.png)
 
@@ -83,9 +83,9 @@ Onder **E-mailacties** zult u enkele nieuwe eigenschappen opmerken. **Upload een
 
 >[!NOTE]
 >
->** [Grab Images from Web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** werkt net als in de Design Studio.
+>** [Afbeeldingen ophalen van web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** werkt net zoals in de Design Studio.
 
-**Schakel Beheer** openen onder **e-mailinstellingen** uit. U kunt het bijhouden van gegevens indien nodig uitschakelen.
+**Schakel** Tekstspatiëring openen uit onder  **E-mailinstellingen**. U kunt het openen van bijhouden indien nodig uitschakelen.
 
 ![](assets/thirteen-1.png)
 
@@ -105,7 +105,7 @@ Veel geweldige nieuwe functies! Veel plezier!
 >
 >**Diep duiken**
 >
->Bekijk deze [handige video](https://nation.marketo.com/videos/1463)als u nog dieper wilt gaan genieten.
+>Als u nog dieper wilt verwijderen, bekijkt u deze [nuttige video](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
