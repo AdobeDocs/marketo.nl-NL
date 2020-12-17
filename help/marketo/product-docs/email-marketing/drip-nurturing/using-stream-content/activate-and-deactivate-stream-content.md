@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Stream-inhoud activeren en deactiveren {#activate-and-deactivate-stream-content}
+# Stroominhoud activeren en deactiveren {#activate-and-deactivate-stream-content}
 
 Stroominhoud is standaard uitgeschakeld. Activeer inhoud om deze tijdens de betrokkenheidskosten te verzenden.
 
-## Stream-inhoud activeren {#activate-stream-content}
+## Stroominhoud {#activate-stream-content} activeren
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer uw serviceprogramma en klik op het tabblad **Streams** .
+1. Selecteer uw serviceprogramma en klik op het tabblad **Streams**.
 
    ![](assets/cloneasteam.jpg)
 
@@ -35,17 +35,17 @@ Stroominhoud is standaard uitgeschakeld. Activeer inhoud om deze tijdens de betr
 
    >[!TIP]
    >
-   >U kunt ook alle inhoud in een stream activeren door op het tandwielpictogram op het bovenste niveau te klikken en vervolgens op Alle inhoud **activeren te klikken.**
+   >U kunt ook alle inhoud in een stream activeren door op het tandwielpictogram op het hoogste niveau te klikken en vervolgens op **Alle inhoud activeren te klikken.**
 
    Mooi werk! Nu weet u hoe u inhoud in uw stromen kunt activeren.
 
-## Stream-inhoud deactiveren {#deactivate-stream-content}
+## Stroominhoud {#deactivate-stream-content} deactiveren
 
-1. Selecteer uw serviceprogramma en klik op het tabblad **Streams** .
+1. Selecteer uw serviceprogramma en klik op het tabblad **Streams**.
 
    ![](assets/cloneasteam.jpg)
 
-1. Houd de muisaanwijzer boven de inhoud die u wilt deactiveren, klik op het tandwielpictogram en klik op **Deactiveren.**
+1. Houd de muis boven de inhoud die u wilt deactiveren, klik op het tandwielpictogram en klik vervolgens op **Deactiveren.**
 
    ![](assets/image2014-9-15-16-3a34-3a25.png)
 
