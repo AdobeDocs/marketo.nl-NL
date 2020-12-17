@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Resultaten van slimme campagnes exporteren naar Excel {#export-smart-campaign-results-to-excel}
+# Resultaten slimme campagne exporteren naar Excel {#export-smart-campaign-results-to-excel}
 
 Exporteer de resultaten van uw slimme campagne naar Excel voor gebruik buiten Marketo.
 
-1. Klik in uw slimme campagne op **Resultaten** en vervolgens op het exportpictogram onderaan.
+1. In uw slimme campagne, klik op **Resultaten** en toen het uitvoerpictogram bij de bodem.
 
    ![](assets/exportexcel-hands.png)
 
