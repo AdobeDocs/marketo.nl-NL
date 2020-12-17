@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Partitie persoon wijzigen {#change-person-partition}
+# Personpartitie wijzigen {#change-person-partition}
 
 ## Overzicht {#overview}
 
-Als u [werkruimten en partities](http://docs.marketo.com/x/9QMk)gebruikt, zult u slimme campagnes willen bouwen om mensen van één verdeling naar een andere te bewegen.
+Als u [werkruimten en verdelingen](http://docs.marketo.com/x/9QMk) gebruikt, zult u slimme campagnes willen bouwen om mensen van één verdeling naar een andere te bewegen.
 
 ![](assets/one-3.png)
 
