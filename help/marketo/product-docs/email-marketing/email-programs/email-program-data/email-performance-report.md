@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Als u wilt zien hoe goed uw e-mails presteren met stats zoals geleverde, geopende, geklikte, enz., maakt u een e-mailprestatierapport.
 
-1. [Maak een rapport in een programma](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het type **** e-mailprestatierapport [](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Verander het Kader](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) van de Tijd van het Rapport en klik het **lusje van het Rapport** .
+1. [Maak een rapport in een ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programma en selecteer het  **Type** [ E-](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)mailprestatierapport.
+1. [Wijzig het ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) frame Tijd rapport en klik op het tabblad  **** Rapporten.
 1. Je bent er! Bekijk nu het rapport om te zien hoe uw e-mail(s) zijn uitgevoerd.
 
    >[!NOTE]
@@ -32,9 +32,9 @@ Als u wilt zien hoe goed uw e-mails presteren met stats zoals geleverde, geopend
    >[!NOTE]
    >
    >
-   >Een e-mailprestatierapport bevat activiteiten voor alle personen, inclusief personen die zijn verwijderd sinds het e-mailbericht is verzonden. Soms wil je alleen activiteiten voor actieve mensen zien. In dat geval moet u verwijderde personen uit uw rapport filteren. Gebruik het tabblad **Slimme lijst** om een slimme lijst [voor het rapport te](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) maken. Als u niet op om het even welk specifiek gebied filtreert, plaats de filter E-mailadres aan: **is niet leeg**.
+   >Een e-mailprestatierapport bevat activiteiten voor alle personen, inclusief personen die zijn verwijderd sinds het e-mailbericht is verzonden. Soms wil je alleen activiteiten voor actieve mensen zien. In dat geval moet u verwijderde personen uit uw rapport filteren. Gebruik **Slimme Lijst** lusje aan [creeer een slimme lijst](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) voor het rapport. Als u niet op om het even welk specifiek gebied filtreert, plaats de filter E-mailadres aan: **is niet leeg**.
 
-   [Selecteer Rapportkolommen](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een e-mailprestatierapport:
+   [Selecteer Rapportkolommen ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een e-mailprestatierapport:
 
    | Kolom | Beschrijving |
    |---|---|
@@ -42,7 +42,7 @@ Als u wilt zien hoe goed uw e-mails presteren met stats zoals geleverde, geopend
    | Zacht gebogen | E-mail is geweigerd vanwege een tijdelijke voorwaarde, zoals het uitvallen van een server of een volledig inbox. |
    | In behandeling | Dit aantal wordt berekend door het aantal geleverde e-mails, afgeschreven berichten en zachte afrekeningen af te trekken van het totale aantal verzonden. |
    | Klikte koppeling | Aantal e-mailontvangers dat op een koppeling in de e-mail heeft geklikt. |
-   | Abonnement opgezegd | Aantal e-mailontvangers dat op de koppeling **Abonnement opzeggen** in de e-mail heeft geklikt en het formulier heeft ingevuld. |
+   | Abonnement opgezegd | Aantal e-mailontvangers die op de koppeling **Abonnement opzeggen** in de e-mail hebben geklikt en het formulier hebben ingevuld. |
 
    >[!NOTE]
    >
@@ -50,13 +50,13 @@ Als u wilt zien hoe goed uw e-mails presteren met stats zoals geleverde, geopend
 
 Over het algemeen proberen we het gezond verstand te gebruiken om deze statistieken op te nemen. Als iemand bijvoorbeeld op een koppeling in een e-mailbericht heeft geklikt, heeft hij of zij het e-mailbericht eerst geopend. We volgen deze specifieke regels voor het e-mailprestatierapport:
 
-* **Regel 1**: Elke e-mailactiviteitenrecord is ingesteld op één van de volgende en slechts één van de volgende records: *Geleverd*, *Hard geprononeerd*, *Zacht geprononceerd*, of in *afwachting*.
+* **Regel 1**: Elke e-mailactiviteitenrecord is ingesteld op één van de volgende en slechts één van de volgende records:  *Geleverd*,  *Hard geprononeerd*,  *Zacht geprononceerd*, of in  *afwachting*.
 
-* **Regel 2**: Als de e-mailrecord *Geopend* toont, wordt deze geteld als *Opgeleverd*.
+* **Regel 2**: Als de e-mailrecord  *Geopend* toont, wordt deze geteld als  *Opgeleverd*.
 
-* **Artikel 3**: Als in de e-mailrecord *geklikt op E-mail* of *Abonnement* wordt weergegeven, wordt deze meegeteld als *Afgeleverd* en *Geopend*.
+* **Artikel 3**: Als in de e-mailrecord  *geklikt* e-mailadres wordt weergegeven dat  *niet is geabonneerd*, wordt dit meegeteld als  ** afgeleverd en  *geopend*.
 
-* **Artikel 4**: Als het e-mailbericht wordt *geopend*, worden de grenzen genegeerd. Als het e-mailbericht niet is geopend, heeft *Hard* teruggestuurd voorrang op *Zacht* en *Afbezorgd*.
+* **Artikel 4**: Als het e-mailbericht wordt  *geopend*, worden de grenzen genegeerd. Als het e-mailbericht niet is geopend, heeft *Hard teruggestuurd* voorrang op *Zacht teruggezet* en *Afbezorgd*.
 
 >[!NOTE]
 >
@@ -75,5 +75,5 @@ Over het algemeen proberen we het gezond verstand te gebruiken om deze statistie
 >
 >**Diep duiken**
 >
->Meer weten over [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting)?
+>Meer informatie vindt u in [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
 
