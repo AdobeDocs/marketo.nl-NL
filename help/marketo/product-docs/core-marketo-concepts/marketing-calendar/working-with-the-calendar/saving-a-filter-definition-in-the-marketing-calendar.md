@@ -31,7 +31,7 @@ Door een filter op te slaan kunt u schakelen tussen verschillende filterdefiniti
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
-1. Geef het filter een naam. Klik op **Opslaan**.
+1. Geef het filter een naam. Klik **Opslaan**.
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 
@@ -39,7 +39,7 @@ Door een filter op te slaan kunt u schakelen tussen verschillende filterdefiniti
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Desgewenst kunt u een kopie [van de definitie](sharing-a-filter-definition-in-the-marketing-calendar.md) verzenden naar andere Marketo-gebruikers.
+   Als u wilt, kunt u [een exemplaar](sharing-a-filter-definition-in-the-marketing-calendar.md) van de definitie naar andere gebruikers van Marketo verzenden.
 
    >[!NOTE]
    >
