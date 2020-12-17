@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een Date Token gebruiken in een Wachten Flow-stap {#use-a-date-token-in-a-wait-flow-step}
+# Een Date Token gebruiken in een Wachten Flow Step {#use-a-date-token-in-a-wait-flow-step}
 
 U kunt de stap van de Wachtstroom gebruiken om de reis van een persoon door een slimme campagne tot een bepaalde datum te pauzeren die een datumteken gebruikt. U kunt de einddatum ook met een aantal dagen wijzigen.
 
@@ -19,7 +19,7 @@ U kunt de stap van de Wachtstroom gebruiken om de reis van een persoon door een 
 >
 >Dit geldt alleen voor triggercampagnes. U kunt deze functie niet gebruiken in batchcampagnes.
 
-1. Sleep in het tabblad **Stroom** van slimme campagne over de stap **Wachten** .
+1. In uw slimme campagne **Stroom** tabel, sleep over **Wacht** debietstap.
 
    ![](assets/image2014-9-22-14-3a8-3a22.png)
 
@@ -27,7 +27,7 @@ U kunt de stap van de Wachtstroom gebruiken om de reis van een persoon door een 
 
    ![](assets/image2014-9-22-14-3a8-3a37.png)
 
-1. Selecteer **Datumtoken** in de keuzelijst **Type**.
+1. Selecteer **Datumtoken** in de vervolgkeuzelijst **Type**.
 
    ![](assets/image2014-9-22-14-3a8-3a41.png)
 
@@ -54,7 +54,7 @@ U kunt de stap van de Wachtstroom gebruiken om de reis van een persoon door een 
 
    >[!NOTE]
    >
-   >U kunt ook het aantal dagen opgeven met een `{{lead.` of een `{{company.` token dat een veld met gehele getallen of een `{{my.` token van het type getal vertegenwoordigt.
+   >U kunt het aantal dagen ook specificeren gebruikend een `{{lead.` of `{{company.` teken die een geheelgebied, of een `{{my.` teken van aantaltype vertegenwoordigt.
 
 1. Klik op Opslaan.
 
