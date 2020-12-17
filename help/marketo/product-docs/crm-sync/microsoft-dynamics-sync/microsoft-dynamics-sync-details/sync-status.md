@@ -17,11 +17,11 @@ U kunt tabs op de tabbladen Synchronisatiestatus en Fouten synchroniseren gebrui
 
 ## Tabblad Synchronisatiestatus {#sync-status-tab}
 
-1. Klik op **Admin** en **Microsoft Dynamics**.
+1. Klik **Admin** en **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Klik op het tabblad **Synchronisatiestatus** .
+1. Klik op het tabblad **Status synchroniseren**.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ U kunt tabs op de tabbladen Synchronisatiestatus en Fouten synchroniseren gebrui
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Klik op de weergave **: **vervolgkeuzelijst** **en selecteer **Laatste Uur **om de gegevens van de productie te bekijken.
+1. Klik op de weergave **: **dropdown** **en selecteer **Last Hour **om productieinformatie te bekijken.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
