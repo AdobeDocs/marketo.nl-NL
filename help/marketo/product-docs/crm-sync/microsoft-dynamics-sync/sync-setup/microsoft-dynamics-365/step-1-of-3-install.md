@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Stap 1 van 3: De Marketo-oplossing installeren (online) {#step-of-install-the-marketo-solution-online}
+# Stap 1 van 3: De Marketo-oplossing (online) {#step-of-install-the-marketo-solution-online} installeren
 
 Alvorens u de Dynamica 365 en Marketo van Microsoft kunt synchroniseren, moet u de oplossing van het Marketo in Dynamiek eerst installeren. **Dynamische beheerdersmachtigingen zijn vereist.**
 
@@ -36,37 +36,37 @@ Alvorens u de Dynamica 365 en Marketo van Microsoft kunt synchroniseren, moet u 
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
-1. Klik op ![](assets/image2015-3-16-16-3a1-3a13.png)het menu en selecteer **CRM**.
+1. Klik ![](assets/image2015-3-16-16-3a1-3a13.png)menu en selecteer **CRM**.
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. Klik op ![](assets/image2015-5-13-10-3a5-3a8.png) het menu. Selecteer **Instellingen **in het vervolgkeuzemenu en selecteer vervolgens **Oplossingen**.
+1. Klik op ![](assets/image2015-5-13-10-3a5-3a8.png). Selecteer in het vervolgkeuzemenu **Instellingen **Selecteer vervolgens **Oplossingen**.
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
-1. Klik op **Importeren.**
+1. Klik **Importeren.**
 
    ** ![](assets/image2015-3-19-8-3a34-3a8.png)
 
    **
 
-1. Klik op Bestand **kiezen.** Selecteer de oplossing Marketo Lead Management die u hebt [gedownload](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik op **Volgende**.
+1. Klik **Kies Bestand.** Selecteer de oplossing Marketo Lead Management die u hebt  [gedownload](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik **Volgende**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
-1. Bekijk de Informatie van de Oplossing en klik de details **van het oplossingspakket van de** Mening.
+1. Bekijk de Informatie van de Oplossing en klik **de details van het oplossingspakket van de Mening**.
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
-1. Klik op **Sluiten wanneer u alle details hebt gecontroleerd**.
+1. Wanneer u klaar bent met het controleren van alle details, klik **Close**.
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. Nu, terug op de pagina van de Informatie van de Oplossing, klik **daarna**.
+1. Nu, terug op de pagina van de Informatie van de Oplossing, klik **Next**.
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
-1. Controleer of het selectievakje voor de SDK-optie is ingeschakeld. Klik op **Importeren**.
+1. Controleer of het selectievakje voor de SDK-optie is ingeschakeld. Klik **Importeren**.
 
    ![](assets/image2015-10-9-15-3a7-3a12.png)
 
@@ -78,7 +78,7 @@ Alvorens u de Dynamica 365 en Marketo van Microsoft kunt synchroniseren, moet u 
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
-1. Klik op **Sluiten.**
+1. Klik **Sluiten.**
 
    >[!NOTE]
    >
@@ -90,7 +90,7 @@ Alvorens u de Dynamica 365 en Marketo van Microsoft kunt synchroniseren, moet u 
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. Selecteer **Marketo Lead Management** en klik op Alle aanpassingen **publiceren.**
+1. Selecteer **Beheer van markeertekens** en klik op **Alle aanpassingen publiceren.**
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
