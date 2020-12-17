@@ -23,12 +23,12 @@ Geef uw gebeurtenissen specifieke doelstellingen en zie hoe zij presteren.
 
    ![Afbeelding één](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-1.png)
 
-1. Geef uw gebeurtenis een [!UICONTROL Name], selecteer de [!UICONTROL Destination] omslag en [!UICONTROL Channel].
+1. Geef uw gebeurtenis een [!UICONTROL Name], selecteer [!UICONTROL Destination] omslag en [!UICONTROL Channel].
 
    ![Afbeelding twee](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-2.png)
 
-1. Voer het doel voor [!UICONTROL Registered] en [!UICONTROL Attended]in en klik op **[!UICONTROL Create]** ([!UICONTROL Description] en [!UICONTROL Labels] zijn optioneel).
+1. Ga het doel voor [!UICONTROL Registered] en [!UICONTROL Attended] in, dan klik **[!UICONTROL Create]** ([!UICONTROL Description] en [!UICONTROL Labels] zijn facultatief).
 
    ![Afbeelding één](/help/sky/assets/event-programs/setting-event-goals/setting-event-goals-3.png)
 
-En dat is het! Controleer de status van uw gebeurtenisdoel door op het [!UICONTROL Reports] tabblad te klikken.
+En dat is het! Controleer de status van het gebeurtenisdoel door op het tabblad [!UICONTROL Reports] te klikken.
