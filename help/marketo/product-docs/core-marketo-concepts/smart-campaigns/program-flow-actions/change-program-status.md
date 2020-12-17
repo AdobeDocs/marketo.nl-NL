@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Overzicht {#overview}
 
-Met de status van het programma kunt u bijhouden hoe een programma of gebeurtenis wordt uitgevoerd. Meer informatie vindt u in Kanalen [aanpassen, maken en beheren](../../../../product-docs/administration/tags/create-a-program-channel.md).
+Met de status van het programma kunt u bijhouden hoe een programma of gebeurtenis wordt uitgevoerd. Meer informatie vindt u in [Kanalen aanpassen, maken en beheren](../../../../product-docs/administration/tags/create-a-program-channel.md).
 
 >[!CAUTION]
 >
@@ -23,11 +23,11 @@ Met de status van het programma kunt u bijhouden hoe een programma of gebeurteni
 
 ## Gebruik {#usage}
 
-1. Sleep in de stap **Program Status** wijzigen.
+1. Sleep in de **Programmastatus wijzigen**-stroomstap.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Selecteer de **nieuwe status** die u wilt instellen. De persoon zal ook lid van het programma worden als zij niet reeds waren.
+1. Selecteer **Nieuwe Status** u wilt plaatsen. De persoon zal ook lid van het programma worden als zij niet reeds waren.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 
