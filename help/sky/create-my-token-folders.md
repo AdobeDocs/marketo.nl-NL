@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Zo kunt u Mijn tokens sorteren in mappen.
 
-1. Klik in het [!UICONTROL My Tokens] tabblad van uw campagnemap of -programma op het [!UICONTROL Create Folder] pictogram rechtsboven.
+1. Klik in het tabblad [!UICONTROL My Tokens] van uw campagnemap of -programma op het pictogram [!UICONTROL Create Folder] rechtsboven.
 
    ![Afbeelding één](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. Voer een naam voor de nieuwe map in en selecteer **[!UICONTROL Local Tokens]** of **[!UICONTROL Overridden Tokens]** uit de vervolgkeuzelijst bestemming. Klik **[!UICONTROL Save]**.
+1. Voer een naam voor de nieuwe map in en selecteer **[!UICONTROL Local Tokens]** of **[!UICONTROL Overridden Tokens]** in de vervolgkeuzelijst met bestemming. Klik op **[!UICONTROL Save]**.
 
    ![Afbeelding twee](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
@@ -38,4 +38,4 @@ Zo kunt u Mijn tokens sorteren in mappen.
 
 >[!TIP]
 >
->Als u de naam van een map wilt wijzigen, klikt u er met de rechtermuisknop op en klikt u **[!UICONTROL Rename]** op.
+>Als u de naam van een map wilt wijzigen, klikt u er met de rechtermuisknop op en klikt u op **[!UICONTROL Rename]**.
