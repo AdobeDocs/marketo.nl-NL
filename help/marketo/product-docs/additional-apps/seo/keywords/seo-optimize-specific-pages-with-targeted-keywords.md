@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sommige trefwoorden gaan heel goed met bepaalde pagina&#39;s. Zo past u het perfecte sleutelwoord aan zijn perfecte pagina aan. Dit zal de meest nauwkeurige gegevens en de beste aanbevelingen voor verbetering verstrekken.
 
-1. Ga naar de sectie **Pagina** &#39;s.
+1. Ga naar de sectie **Pagina&#39;s**.
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)a
 
@@ -23,7 +23,7 @@ Sommige trefwoorden gaan heel goed met bepaalde pagina&#39;s. Zo past u het perf
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Selecteer voor welk trefwoord u de pagina wilt optimaliseren. Klik op **BIJWERKEN**.
+1. Selecteer voor welk trefwoord u de pagina wilt optimaliseren. Klik **UPDATE**.
 
    >[!TIP]
    >
