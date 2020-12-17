@@ -17,7 +17,7 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 
 ## Een weergave maken {#create-a-view}
 
-1. Ga naar een lijst of slimme lijst, klik het lusje van **Mensen** , en klik **creëren** **Mening** onder de drop-down **Mening** .
+1. Ga naar een lijst of slimme lijst, klik **Mensen** tabel, en klik **Create** **View** onder **View** drop-down.
 1. ![](assets/smartlist-createview.png)
 
 1. Geef een naam op voor de weergave en zoek naar de kolom die u wilt toevoegen of verwijderen.
@@ -30,7 +30,7 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 
 >[!TIP]
 >
->Gebruik het vak **Zoeken** om snel te zoeken.
+>Als u snel wilt zoeken, gebruikt u het vak **Zoeken**.
 
 ## Weergaven omwisselen {#switch-views}
 
@@ -42,13 +42,13 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 >
 > Als u wilt schakelen tussen weergaven, moet u eerst een tweede weergave maken, naast de standaardweergave.
 
-## Een weergave bewerken {#edit-a-view}
+## Weergave {#edit-a-view} bewerken
 
-1. Controleer of de weergave die u wilt bewerken is geselecteerd in de vervolgkeuzelijst **Weergave** .
+1. Controleer of de weergave die u wilt bewerken is geselecteerd in de vervolgkeuzelijst **Weergave**.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Klik op de optie **Bewerken** .
+1. Klik op de optie **Bewerken**.
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -58,13 +58,13 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 
 
 
-## Een weergave verwijderen {#delete-a-view}
+## Een weergave {#delete-a-view} verwijderen
 
-1. Selecteer de optie **Bewerken** voor de weergave die u wilt verwijderen in de vervolgkeuzelijst **Weergave** .
+1. Selecteer de optie **Bewerken** voor de weergave die u wilt verwijderen uit de vervolgkeuzelijst **Weergave**.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Klik op **Verwijderen**.
+1. Klik **Delete**.
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 
