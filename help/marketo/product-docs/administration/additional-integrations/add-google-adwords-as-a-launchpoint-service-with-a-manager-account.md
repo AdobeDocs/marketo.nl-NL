@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Google AdWords toevoegen als opstartservice met een beheerdersaccount {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
+# Google AdWords toevoegen als een opstartservice met een beheeraccount {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Koppel uw Google AdWords-account aan Marketo om offline conversiegegevens van Marketo automatisch te uploaden naar Google AdWords. Dan, van AdWords UI, zult u gemakkelijk kunnen zien welke klikken in gekwalificeerde lood, kansen en nieuwe klanten (of welke omzetstadia resulteerden u wilt volgen) nadat u douanekolommen [in AdWords](https://support.google.com/adwords/answer/3073556) toevoegt. Deze informatie wordt niet weergegeven in de gebruikersinterface van Marketo.
+Koppel uw Google AdWords-account aan Marketo om offline conversiegegevens van Marketo automatisch te uploaden naar Google AdWords. Dan, van AdWords UI, zult u gemakkelijk kunnen zien welke klikken in gekwalificeerde lood, kansen en nieuwe klanten (of welke opbrengststadia u wilt volgen) nadat u [douanekolommen](https://support.google.com/adwords/answer/3073556) in AdWords toevoegt. Deze informatie wordt niet weergegeven in de gebruikersinterface van Marketo.
 
-Als u meerdere Google Adwords-accounts hebt, kunt u deze integreren met Marketo met een [Google AdWords Manager-account](https://www.google.com/adwords/manager-accounts/) (voorheen Mijn Client Center genoemd).
+Als u meerdere Google Adwords-accounts hebt, kunt u een [Google AdWords Manager-account](https://www.google.com/adwords/manager-accounts/) (voorheen bekend als My Client Center) gebruiken om deze te integreren met Marketo.
 
-Meer informatie over de importfunctie [voor offlineconversie van](https://support.google.com/adwords/answer/2998031?hl=en)Google.
+Meer informatie over de functie voor het importeren van offlineconversies van Google[.](https://support.google.com/adwords/answer/2998031?hl=en)
 
 >[!NOTE]
 >
@@ -25,9 +25,9 @@ Meer informatie over de importfunctie [voor offlineconversie van](https://suppor
 
 >[!NOTE]
 >
->U kunt ook een [zelfstandig Google AdWords-account integreren als Launchpoint-service](add-google-adwords-as-a-launchpoint-service.md).
+>U kunt een [stand-alone Google AdWords-account ook integreren als Launchpoint-service](add-google-adwords-as-a-launchpoint-service.md).
 
-1. Ga naar de sectie **Beheer** .
+1. Ga naar **Admin** sectie.
 
    ![](assets/login-admin-1.png)
 
@@ -35,7 +35,7 @@ Meer informatie over de importfunctie [voor offlineconversie van](https://suppor
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecteer **Nieuwe** en **Nieuwe Dienst**.
+1. Selecteer **Nieuw** en **Nieuwe service**.
 
    ![](assets/image2015-2-23-14-3a54-3a50.png)
 
@@ -43,7 +43,7 @@ Meer informatie over de importfunctie [voor offlineconversie van](https://suppor
 
    ![](assets/new-service-google-1.png)
 
-1. Selecteer Markering **autoriseren**.
+1. Selecteer **Markering autoriseren**.
 
    >[!NOTE]
    >
@@ -51,7 +51,7 @@ Meer informatie over de importfunctie [voor offlineconversie van](https://suppor
 
    ![](assets/image2015-2-26-20-3a54-3a1.png)
 
-1. Selecteer uw account voor **Google AdWords**.
+1. Selecteer uw account die is gekoppeld aan **Google AdWords**.
 
    ![](assets/image2015-2-23-15-3a31-3a16.png)
 
@@ -59,7 +59,7 @@ Meer informatie over de importfunctie [voor offlineconversie van](https://suppor
 
    ![](assets/image2015-2-23-16-3a32-3a45.png)
 
-1. Status wordt weergegeven als **Voltooid**. Selecteer **Volgende**.
+1. De status wordt weergegeven als **Succes**. Selecteer **Volgende**.
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
@@ -67,7 +67,7 @@ Meer informatie over de importfunctie [voor offlineconversie van](https://suppor
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
-1. Kenmerk wordt omgezet in **Eerste klik** of **Laatste klik**.
+1. Kenmerkomzetting in **Klik eerst** of **Laatste klik**.
 
    | Type | Definitie |
    |---|---|
@@ -78,13 +78,13 @@ Meer informatie over de importfunctie [voor offlineconversie van](https://suppor
 
    >[!NOTE]
    >
-   >[Deze functie werkt alleen als Automatisch labelen](https://support.google.com/adwords/answer/1752125?hl=en) is geselecteerd. Het moet worden geactiveerd binnen AdWords.
+   >[Deze functie werkt alleen als Automatisch ](https://support.google.com/adwords/answer/1752125?hl=en) labelen is geselecteerd. Het moet worden geactiveerd binnen AdWords.
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/image2015-3-27-14-3a11-3a31.png)
 
-1. Deselecteer accounts die u niet wilt bijwerken. Klik op **Maken**.
+1. Deselecteer accounts die u niet wilt bijwerken. Klik **Maken**.
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
