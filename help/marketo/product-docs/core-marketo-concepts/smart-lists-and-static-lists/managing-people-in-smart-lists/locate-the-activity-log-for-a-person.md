@@ -23,11 +23,11 @@ Het activiteitenlogboek is de ultieme bron van waarheid. Dit is het complete ver
 
    ![](assets/two-6.png)
 
-1. Klik op het tabblad **Personen** . Selecteer een persoon- **id** -nummer.
+1. Klik op het tabblad **Personen**. Selecteer een persoon **Id** aantal.
 
    ![](assets/three-5.png)
 
-1. Klik op **Activiteitenlogboek**.
+1. Klik **Activiteitenlog**.
 
    ![](assets/four-3.png)
 
@@ -40,5 +40,5 @@ Het activiteitenlogboek is de ultieme bron van waarheid. Dit is het complete ver
    >**Verwante artikelen**
    >
    >
-   >Leer meer over het [filtreren van de activiteit](filter-activity-types-in-the-activity-log-of-a-person.md)logt om specifieke persoonactiviteiten te zien.
+   >Meer informatie over [het filtreren van het activiteitenlogboek](filter-activity-types-in-the-activity-log-of-a-person.md)om specifieke persoonactiviteiten te zien.
 
