@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een brandingdomein verwijderen {#delete-a-branding-domain}
+# Een brandingdomein {#delete-a-branding-domain} verwijderen
 
 1. Klik in Mijn Marketo op **Admin **en vervolgens op de koppeling **Email **Email.
 
