@@ -5,31 +5,31 @@ title: Activiteiten synchroniseren aanpassen
 translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
 
-# Activiteiten synchroniseren aanpassen {#customize-activities-sync}
+# Activiteitssynchronisatie aanpassen {#customize-activities-sync}
 
-Als u het Inzicht [van de](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)Verkoop niet gebruikt, kan de Marketo de Verslagen van de Geschiedenis van de Activiteit Salesforce voor bepaalde gebeurtenissen tot stand brengen. Hier is hoe je ze kunt inschakelen.
+Als u geen [Inzicht van de Verkoop](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight) gebruikt, kan de Marketo Verslagen van de Geschiedenis van de Activiteit Salesforce voor bepaalde gebeurtenissen tot stand brengen. Hier is hoe je ze kunt inschakelen.
 
 1. Ga naar **Admin. **
 
    ![](assets/admin.png)
 
-1. Klik op **Salesforce** en vervolgens op Synchronisatieopties **** bewerken.
+1. Klik **Salesforce**, dan klik **geef de Opties van de Synchronisatie** uit.
 
    ![](assets/two-1.png)
 
-1. Schakel de selectievakjes in naast de activiteiten die u wilt uitvoeren met Marketo en klik op **Opslaan**.
+1. Schakel de selectievakjes in naast de activiteiten die u wilt uitvoeren door Marketo op Salesforce en klik op **Opslaan**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Als Marketo eenmaal is ingeschakeld, wordt de activiteithistorie van drie maanden verlengd. Afhankelijk van de hoeveelheid gegevens kan *dit enkele dagen duren*. Updates die plaatsvinden tijdens de eerste activiteitenpush kunnen worden uitgesteld tot nadat de eerste activiteitensynchronisatie is voltooid.
+   >Als Marketo eenmaal is ingeschakeld, wordt de activiteithistorie van drie maanden verlengd. Afhankelijk van de hoeveelheid gegevens kan *dit enkele dagen duren om te voltooien*. Updates die plaatsvinden tijdens de eerste activiteitenpush kunnen worden uitgesteld tot nadat de eerste activiteitensynchronisatie is voltooid.
 
 <table> 
  <colgroup> 
@@ -99,9 +99,9 @@ Als u het Inzicht [van de](http://docs.marketo.com/display/DOCS/Marketo+Sales+In
 >**Herinnering**
 >
 >
->&#39;E-mailadres voor verkoop ontvangen&#39; betekent **niet** dat het wordt bezorgd. De geleverde status wordt niet vastgelegd voor e-mails die via Verkoopcontrole worden verzonden.
+>&quot;Ontvangen e-mail van de Verkoop&quot;betekent **niet** geleverde. De geleverde status wordt niet vastgelegd voor e-mails die via Verkoopcontrole worden verzonden.
 
 >[!TIP]
 >
->Als je meer marktinformatie in Salesforce wilt krijgen, kun je ons product [Marktkoopoverzicht](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) bekijken.
+>Als u in het krijgen van meer informatie van de Marketo in Salesforce geinteresseerd bent, controleer ons [product van het Inzicht van de Verkoop van de Marketo](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
 
