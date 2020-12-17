@@ -23,7 +23,7 @@ ht-degree: 0%
 + Gebeurtenisprogramma&#39;s {#event-programs}
    + [Een gebeurtenissenkaart instellen](setting-an-event-cap.md)
    + [Gebeurtenisdoelen instellen](setting-event-goals.md)
-+ Mappen campagne {#campaign-folders}
++ Mappen {#campaign-folders} campagne
    + [Een campagnemap archiveren/archiveren](archive-unarchive-a-campaign-folder.md)
    + [Mappen campagne: Tabblad Activiteiten](campaign-folder-activities-tab.md)
    + [Mappen campagne: Het tabblad Mijn tokens](campaign-folder-my-tokens-tab.md)
@@ -87,7 +87,7 @@ ht-degree: 0%
    + [Lokale elementen: Handelingen Massa](local-assets-mass-actions.md)
    + [Het tabblad Programmaoverzicht gebruiken](using-the-program-overview-tab.md)
    + [Het tabblad Program Setup gebruiken](using-the-program-setup-tab.md)
-+ Programmaplanningweergave {#program-schedule-view}
++ Weergave {#program-schedule-view} Programmaplanning
    + [Creeer een BasisIngang in de Mening van het Programma](create-a-basic-entry-in-program-schedule-view.md)
    + [Een batchslimme campagne maken in de programmaweergave](create-a-batch-smart-campaign-in-program-schedule-view.md)
    + [Een e-mailprogramma maken in de overzichtsweergave van het programma](create-an-email-program-in-program-schedule-view.md)
