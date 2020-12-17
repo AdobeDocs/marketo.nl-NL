@@ -14,19 +14,19 @@ ht-degree: 0%
 
 Als u een programma wilt archiveren, moet u het naar een aparte archiefmap verplaatsen.
 
-1. Maak een nieuwe campagnemap door met de rechtermuisknop op de werkruimtemalve te klikken en deze te selecteren **[!UICONTROL New Campaign Folder]**.
+1. Maak een nieuwe campagnemap door met de rechtermuisknop op de werkruimtebol te klikken en **[!UICONTROL New Campaign Folder]** te selecteren.
 
    ![Afbeelding één](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. Voer een naam in voor de nieuwe map en voeg vervolgens een optionele beschrijving toe. Klik **[!UICONTROL Create]**.
+1. Voer een naam in voor de nieuwe map en voeg vervolgens een optionele beschrijving toe. Klik op **[!UICONTROL Create]**.
 
    ![Afbeelding twee](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
-1. Als u een programma wilt archiveren, voegt u het eerst toe aan de nieuwe map door met de rechtermuisknop op het programma in de structuur te klikken en vervolgens **[!UICONTROL Move]** te selecteren.
+1. Als u een programma wilt archiveren, voegt u het eerst toe aan de nieuwe map door met de rechtermuisknop op het programma te klikken in de structuur en **[!UICONTROL Move]** te selecteren.
 
    ![Afbeelding drie](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. Typ om naar de nieuwe map te zoeken en selecteer deze in de vervolgkeuzelijst. Klik **[!UICONTROL Move]**.
+1. Typ om naar de nieuwe map te zoeken en selecteer deze in de vervolgkeuzelijst. Klik op **[!UICONTROL Move]**.
 
    ![Afbeelding vier](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
@@ -49,7 +49,7 @@ Het mappictogram verandert in een bestandscast, zoals hieronder wordt weergegeve
 
 >
 >
-De volgende functies veranderen **niet** bij het archiveren:
+De volgende functies veranderen **niet** tijdens het archiveren:
 >
 >* Globale zoekopdracht vindt nog steeds resultaten in gearchiveerde mappen.
 >* Een actief dat in gebruik is, blijft ook na archivering werken.
