@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een nieuwe werkruimte maken {#create-a-new-workspace}
+# Nieuwe werkruimte maken {#create-a-new-workspace}
 
 De werkruimten zijn nuttig om uw bedrijf te verdelen. De redenen voor het instellen van werkruimten zijn onder meer:
 
@@ -28,13 +28,13 @@ Zo maakt u een nieuwe werkruimte.
 >
 >**Diep duiken**
 >
->Begrijp eerst met het [Begrip van Werkruimten en de Verdelingen](understanding-workspaces-and-person-partitions.md)van de Persoon.
+>Begrijp eerst met [het Begrijpen van Werkruimten en Partities van de Persoon](understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Neem contact op met [Marketo Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38)voor meer informatie over aanbevolen werkruimten.
+>Neem contact op met [Marketo Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38) voor meer informatie over aanbevolen werkruimten.
 
-1. Klik onder **Beheer** op **Werkruimten en partities**.
+1. Klik onder **Admin** op **Werkruimten en partities**.
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
@@ -42,14 +42,14 @@ Zo maakt u een nieuwe werkruimte.
 
    ![](assets/two-1.png)
 
-1. Voer een** naam** in en selecteer de **personenpartitie(s)** die u wilt gebruiken. Kies een partitie voor **primaire personen**.
+1. Voer een** naam** in en selecteer de **Personpartitie(s)** die u wilt gebruiken. Kies een **Primaire Person Partition**.
 
    >[!NOTE]
    >
    >**Herinnering**
    >
    >
-   >Zorg ervoor dat u [persoonlijke partities](create-a-person-partition.md) maakt als u dat nog niet hebt gedaan.
+   >Zorg ervoor om [persoonlijke verdelingen te creëren](create-a-person-partition.md) als u niet reeds hebt.
 
    ![](assets/three-1.png)
 
@@ -76,7 +76,7 @@ Zo maakt u een nieuwe werkruimte.
 
    ![](assets/five.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/six.png)
 
