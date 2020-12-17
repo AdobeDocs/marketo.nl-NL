@@ -26,7 +26,7 @@ Voor toekomstige slimme campagnes die gepland maar nog niet in werking zijn gest
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
 1. Met de detailkaart hebt u toegang tot informatie over de filters Slimme lijst, Stroom en E-mailoverzicht.
-1. Tik op **slimme lijst**.
+1. Tik **Slimme lijst**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -34,7 +34,7 @@ Voor toekomstige slimme campagnes die gepland maar nog niet in werking zijn gest
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Tik op **Stroom**.
+1. Tik **Stroom**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -42,7 +42,7 @@ Voor toekomstige slimme campagnes die gepland maar nog niet in werking zijn gest
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Klik op **E-mailoverzicht**.
+1. Klik **E-mailoverzicht**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -66,11 +66,11 @@ Het is een goed idee om een e-mail te bekijken voordat het naar buiten gaat. Of 
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tik op Voorbeeld [verzenden of](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) Voorbeeld-e-mail [](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klik op deze koppelingen voor meer informatie).
+1. Tik [Voorbeeld verzenden](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) of [Voorbeeld van e-mail](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klik op deze koppelingen voor meer informatie).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
-## Een Smart Campaign-run bevestigen {#confirming-a-smart-campaign-run}
+## Een slimme campagne-uitvoering bevestigen {#confirming-a-smart-campaign-run}
 
 Kaarten voor niet-bevestigde slimme campagnes zijn grijs totdat u ze bevestigt. Dan worden ze oranje.
 
@@ -78,11 +78,11 @@ Kaarten voor niet-bevestigde slimme campagnes zijn grijs totdat u ze bevestigt. 
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Tik op **Bevestigen**.
+1. Tik **Bevestig**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tik op **Bevestigen** om de taak te voltooien, of **Nooit denken** als u tweede gedachten hebt.
+1. Tik **Bevestig** om de taak te voltooien, of **Nooit denken** als u tweede gedachten hebt.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -90,7 +90,7 @@ Kaarten voor niet-bevestigde slimme campagnes zijn grijs totdat u ze bevestigt. 
    >
    >Nu gaat je kaart naar oranje!
 
-## Een Smart Campagne-uitvoering annuleren {#canceling-a-smart-campaign-run}
+## Een slimme campagne-uitvoering {#canceling-a-smart-campaign-run} annuleren
 
 U kunt een bevestigde, geplande slimme campagne annuleren.
 
@@ -98,15 +98,15 @@ U kunt een bevestigde, geplande slimme campagne annuleren.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Tik op Uitvoeren **annuleren**.
+1. Tik **Uitvoeren annuleren**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tik op Uitvoeren **annuleren**. Als u op het laatste moment besluit de uitvoering niet te annuleren, tikt u op **Nooit** denken en wordt de slimme campagne volgens plan uitgevoerd.
+1. Tik **Uitvoeren annuleren**. Als u op het laatste moment besluit om de uitvoering niet te annuleren, tikt u op **Nooit Mind** en de slimme campagne wordt uitgevoerd zoals gepland.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
-## Het opnieuw instellen van een slimme campagne {#rescheduling-a-smart-campaign}
+## Het opnieuw bepalen van een Slimme Campagne {#rescheduling-a-smart-campaign}
 
 U kunt een bevestigde slimme campagne opnieuw plannen die nog niet is gestart.
 
@@ -114,11 +114,11 @@ U kunt een bevestigde slimme campagne opnieuw plannen die nog niet is gestart.
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Tik op **Opnieuw plannen**.
+1. Tik **Opnieuw plannen**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Selecteer een datum in de kalender en tik op **Opnieuw plannen**.
+1. Selecteer een datum op de kalender en tik **Opnieuw plannen**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -136,8 +136,8 @@ Net als bij andere Marketo Moments-kaarten kunt u op de drie punten op elke Smar
 
 >[!NOTE]
 >
->U kunt ook op het pictogram **Delen** tikken op een Smart Campagne-kaart om te delen, en op de detailkaart op de pictogrammen **Gereed** en **Favoriet** klikken.
+>U kunt ook op het **Share**-pictogram op een Smart Campagne-kaart tikken om te delen, en op de detailkaart op **Done** en **Favoriet** tikken.
 
-## Snel een Smart Campaign-kaart verwijderen {#quickly-delete-a-smart-campaign-card}
+## Snel een Smart Campagne-kaart {#quickly-delete-a-smart-campaign-card} verwijderen
 
 Als u een kaart hebt die u niet meer nodig hebt, bijvoorbeeld een kaart die u hebt gebruikt om te testen, kunt u deze verwijderen met een snelle veegbeweging naar links of rechts.
