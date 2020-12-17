@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Gewoonlijk worden nieuwe aangepaste velden in Salesforce automatisch gesynchroniseerd met Marketo. Als dat niet het geval is, zijn de velden mogelijk niet zichtbaar voor de gebruiker Marketo Sync. Zo kunt u dit oplossen.
 
-1. Klik op uw naam en selecteer **Setup**.
+1. Klik uw naam en selecteer dan **Opstelling**.
 
    ![](assets/image2015-6-30-14-3a20-3a6.png)
 
-1. Typ het **profiel** in de linkerzoekbalk en klik op **Profielen** onder Gebruikers **** beheren.
+1. Typ **profiel** in de linkerzoekbalk en klik op **Profielen** onder **Gebruikers beheren**.
 
    ![](assets/image2015-6-30-14-3a20-3a52.png)
 
@@ -31,15 +31,15 @@ Gewoonlijk worden nieuwe aangepaste velden in Salesforce automatisch gesynchroni
 
    ![](assets/image2015-6-30-14-3a23-3a41.png)
 
-1. Klik onder de sectie Beveiliging **op** veldniveau op **Weergave** naast het object dat het veld bevat.
+1. Onder **Veld-Vlakke Veiligheid** sectie, klik **Mening** naast het voorwerp dat het gebied bevat.
 
    ![](assets/image2015-6-30-14-3a23-3a59.png)
 
-1. Klik op **Bewerken**.
+1. Klik **Bewerken**.
 
    ![](assets/image2015-6-30-14-3a24-3a28.png)
 
-1. Schakel het selectievakje **Zichtbaar** in voor het veld dat u aan de synchronisatie wilt toevoegen en klik op **Opslaan**.
+1. Schakel het selectievakje **Visible** in voor het veld dat u aan de synchronisatie wilt toevoegen en klik op **Save**.
 
    ![](assets/image2015-6-30-14-3a24-3a49.png)
 
