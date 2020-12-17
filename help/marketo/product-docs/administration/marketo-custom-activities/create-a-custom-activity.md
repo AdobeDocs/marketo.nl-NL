@@ -19,7 +19,7 @@ Ga als volgt te werk om een nieuwe aangepaste activiteit te maken.
 >
 >De meeste abonnementen hebben een toegewezen limiet van 10 soorten aangepaste activiteiten.
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/one.png)
 
@@ -27,11 +27,11 @@ Ga als volgt te werk om een nieuwe aangepaste activiteit te maken.
 
    ![](assets/two.png)
 
-1. Klik op **Nieuwe aangepaste activiteit**.
+1. Klik **Nieuwe aangepaste activiteit**.
 
    ![](assets/three.png)
 
-1. Voer een naam en een optionele beschrijving in en klik op **Volgende**. De API-naam wordt automatisch ingevuld, maar kan worden aangepast.
+1. Voer een naam en een optionele beschrijving in en klik op **Next**. De API-naam wordt automatisch ingevuld, maar kan worden aangepast.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ Ga als volgt te werk om een nieuwe aangepaste activiteit te maken.
    >
    >Als u besluit de API-naam te wijzigen, moet u ervoor zorgen dat de naam geen conflict veroorzaakt met velden in andere aangepaste activiteiten.
 
-1. Definieer het **filter** en de **trigger** en klik op **Volgende**.
+1. Definieer uw **Filter** en **Trigger** en klik **Volgende**.
 
    ![](assets/five.png)
 
