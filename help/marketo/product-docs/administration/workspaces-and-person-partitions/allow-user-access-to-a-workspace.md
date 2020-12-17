@@ -23,17 +23,17 @@ De werkruimten kunnen om het even welke reden (zoals bedrijfseenheid of geografi
 >
 >**Diep duiken**
 >
->Meer weten over [werkruimten](understanding-workspaces-and-person-partitions.md)?
+>Meer informatie over [werkruimten](understanding-workspaces-and-person-partitions.md).
 
 1. Klik onder Beheer op Gebruikers en rollen.
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. Selecteer de gebruiker onder het tabblad **Users **, en klik op **Gebruiker** bewerken.
+1. Selecteer de gebruiker onder het tabblad **Users **, en klik op **Gebruiker bewerken**.
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
-1. Selecteer de **Rol en de Werkruimte** u de gebruiker toegang tot wilt hebben.
+1. Selecteer **Rol en Werkruimte** u de gebruiker toegang tot wilt hebben.
 
    >[!NOTE]
    >
