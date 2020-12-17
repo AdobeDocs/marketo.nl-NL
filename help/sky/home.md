@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ![banner](/help/sky/assets/images/alt-sky-banner.png)
 
-De [!DNL Marketo Sky] interface gebruikt nieuwe ontwerpen, werkschema&#39;s, en eigenschappen om u te helpen meer uit [!DNL Marketo]krijgen.
+De [!DNL Marketo Sky] interface gebruikt nieuwe ontwerpen, werkschema&#39;s, en eigenschappen om u te helpen meer uit [!DNL Marketo] krijgen.
 
 ## Aan de slag
 
