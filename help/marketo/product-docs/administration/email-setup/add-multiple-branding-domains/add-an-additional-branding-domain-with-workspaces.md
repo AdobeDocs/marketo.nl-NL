@@ -17,11 +17,11 @@ Als u werkruimten hebt, kunt u extra brandingdomeinen toevoegen.
 
 >[!PREREQUISITES]
 >
->U moet uw standaardbrandingdomein [eerst](edit-your-default-branding-domain.md) bewerken.
+>U moet [uw standaardbrandingsdomein](edit-your-default-branding-domain.md) eerst uitgeven.
 >
->U moet eerst de generieke het volgen verbinding [met een brandend domein](edit-your-default-branding-domain-with-workspaces.md) vervangen alvorens extra branding domeinen toe te voegen.
+>U moet eerst [de generische volgende verbinding](edit-your-default-branding-domain-with-workspaces.md) met een brandend domein vervangen alvorens extra branding domeinen toe te voegen.
 
-1. Ga naar **Admin **en klik vervolgens op **E-mail**.
+1. Ga naar **Admin **en klik dan **Email**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -29,7 +29,7 @@ Als u werkruimten hebt, kunt u extra brandingdomeinen toevoegen.
 
    ![](assets/branding-domains-add-workspaces.png)
 
-1. Voer een nieuw brandingdomein in. Klik op **Volgende**.
+1. Voer een nieuw brandingdomein in. Klik **Volgende**.
 
    ![](assets/new-branding-domain-8-31.png)
 
@@ -37,7 +37,7 @@ Als u werkruimten hebt, kunt u extra brandingdomeinen toevoegen.
    >
    >U kunt ervoor kiezen dit als primair domein voor een of meer werkruimten op te nemen. Alle bestaande niet-verzonden e-mails worden ingesteld op Standaard en alle nieuwe e-mailberichten worden standaard ingesteld op het primaire domein. U kunt dit per e-mail overschrijven.
 
-1. Selecteer het nieuwe brandingdomein en klik op **Opslaan**.
+1. Selecteer het nieuwe brandingdomein en klik **Save**.
 
    ![](assets/image2016-8-12-10-3a52-3a44.png)
 
