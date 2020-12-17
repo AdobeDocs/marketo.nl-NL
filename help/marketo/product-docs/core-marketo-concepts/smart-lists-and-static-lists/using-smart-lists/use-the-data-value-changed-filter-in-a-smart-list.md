@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Het filter Gewijzigde gegevenswaarde gebruiken in een slimme lijst {#use-the-data-value-changed-filter-in-a-smart-list}
+# Gebruik het Gewijzigde Filter van de Waarde van Gegevens in een Slimme Lijst {#use-the-data-value-changed-filter-in-a-smart-list}
 
 De waarden veranderen constant en worden bijgewerkt in uw gegevensbestand Marketo. Soms wilt u in plaats van naar een bepaalde waarde te zoeken, zoeken naar mensen met een andere waarde. Zo gaat het.
 
@@ -27,11 +27,11 @@ De waarden veranderen constant en worden bijgewerkt in uw gegevensbestand Market
 
    ![](assets/ma.png)
 
-1. Selecteer de slimme lijst en klik op het tabblad **Slimme lijst** .
+1. Selecteer de slimme lijst en klik **Slimme Lijst** tabel.
 
    ![](assets/two-1.png)
 
-1. Zoek het filter **Gegevenswaarde gewijzigd** en sleep het naar het canvas.
+1. Zoek het filter **Gewijzigde gegevenswaarde** en sleep het naar het canvas.
 
    ![](assets/three-1.png)
 
@@ -39,7 +39,7 @@ De waarden veranderen constant en worden bijgewerkt in uw gegevensbestand Market
 
    ![](assets/four.png)
 
-Dit filter zoekt naar alle personen die een wijziging (een wijziging) in hun status hebben ondergaan. Probeer een restrictie toe te [voegen aan een slim lijstfilter](add-a-constraint-to-a-smart-list-filter.md)als u nog steeds verfijnder wilt worden.
+Dit filter zoekt naar alle personen die een wijziging (een wijziging) in hun status hebben ondergaan. Als u even verfijnder wilt worden, probeer [toevoegend een beperking aan een slimme lijstfilter](add-a-constraint-to-a-smart-list-filter.md).
 
 >[!NOTE]
 >
