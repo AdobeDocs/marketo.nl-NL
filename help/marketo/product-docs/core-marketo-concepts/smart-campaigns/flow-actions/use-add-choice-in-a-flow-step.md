@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Kies toevoegen in een stroomstap gebruiken {#use-add-choice-in-a-flow-step}
+# Gebruik Keuze toevoegen in een stroomstap {#use-add-choice-in-a-flow-step}
 
 >[!PREREQUISITES]
 >
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 
 
-**Met Keuze** toevoegen kunt u een stap in de flow gebruiken en zeggen &quot;Dit hangt af&quot; wanneer u de details kiest.
+**Voeg** Choicelets toe u een stroomstap gebruikt en &quot;het hangt&quot;zegt wanneer u de details kiest.
 
-1. Voeg onder het tabblad **Stroom** van de slimme campagne een eventuele stap toe en klik op **Keuze** toevoegen.
+1. Onder **Stroom** lusje van de slimme campagne, voeg om het even welke stroomstap toe en klik dan op **Keuze toevoegen**.
 
    ![](assets/image2014-9-22-11-3a58-3a20.png)
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Tokens werken **niet** in het voorwaardelement van een keuzestap.
+   >Tokens zullen **niet** in het voorwaardendeel van een keuzestap werken.
 
 1. Herhaal bovenstaande stappen om meerdere opties toe te voegen en voeg vervolgens de standaardwaarde toe of pas deze aan.
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Alleen de eerste passende keuze wordt toegepast op de stap Stroom. Leer hoe u &#39;Keuze toevoegen&#39; [opnieuw ordent in een flowactie](reorder-add-choice-in-a-flow-step.md).
+   >Alleen de eerste passende keuze wordt toegepast op de stap Stroom. Leer hoe te [reorder &quot;Keuze&quot;in een stroomactie ](reorder-add-choice-in-a-flow-step.md).
 
    >[!NOTE]
    >
