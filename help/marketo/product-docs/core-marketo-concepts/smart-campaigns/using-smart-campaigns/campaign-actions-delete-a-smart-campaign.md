@@ -19,24 +19,24 @@ Als je een oude slimme campagne hebt die je niet meer nodig hebt, kun je deze ve
 >
 >Zorg ervoor voordat u gaat verwijderen. Als u eenmaal een slimme campagne hebt verwijderd, kan deze niet meer worden hersteld.
 
-1. Ga naar het gebied **Marketingactiviteiten** .
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Navigeer naar uw inactieve slimme campagne. Klik onder **Campagne** **Handelingen** op **Verwijderen**.
+1. Navigeer naar uw inactieve slimme campagne. Klik onder **Campagne** **Acties** op **Delete**.
 
    >[!TIP]
    >
-   >Als u de verwerking van een actieve slimme campagne wilt annuleren zonder deze helemaal te verwijderen, leert u hoe u een slimme campagne [](abort-a-smart-campaign.md)afbreekt.
+   >Als u de verwerking van een actieve slimme campagne wilt annuleren zonder deze helemaal te verwijderen, leert u hoe u een slimme campagne [kunt afbreken.](abort-a-smart-campaign.md)
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
-1. Klik op **Verwijderen** om te bevestigen.
+1. Klik **Verwijderen** om te bevestigen.
 
    ![](assets/image2014-9-22-16-3a41-3a59.png)
 
    >[!CAUTION]
    >
-   >Verwijder **GEEN** actieve slimme campagne met mensen in de flowstappen. De campagne wordt waarschijnlijk nog steeds uitgevoerd.
+   >Verwijder **NOT** een actieve slimme campagne met mensen in de flowstappen. De campagne wordt waarschijnlijk nog steeds uitgevoerd.
 
 Mooi!
