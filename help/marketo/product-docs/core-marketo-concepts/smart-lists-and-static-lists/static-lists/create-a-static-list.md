@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De statische lijsten zijn een groep mensen reeds in uw Gegevensbestand. Zo maak je er een.
 
-1. Ga naar **database**.
+1. Ga naar **Database**.
 
    ![](assets/db.png)
 
@@ -27,7 +27,7 @@ De statische lijsten zijn een groep mensen reeds in uw Gegevensbestand. Zo maak 
 
    ![](assets/three.png)
 
-   U hebt nu een lege lijst die kan worden ingevuld. Leer hoe u [hier](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList)mensen kunt toevoegen.
+   U hebt nu een lege lijst die kan worden ingevuld. Leer hoe u [hier](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists#UnderstandingStaticLists-WaystoAdd/RemoveLeadsfromaList) personen toevoegt.
 
    >[!NOTE]
    >
