@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Werken- en personenpartities begrijpen {#understanding-workspaces-and-person-partitions}
+# Werken- en personenpartities {#understanding-workspaces-and-person-partitions}
 
 ## Werkruimten {#workspaces}
 
 >[!CAUTION]
 >
->Werkruimten kunnen complex zijn om in te stellen.  Neem contact op met [Marketo-ondersteuning](http://support.marketo.com/) om te weten te komen of ze voor u geschikt zijn.
+>Werkruimten kunnen complex zijn om in te stellen.  Neem contact op met [Marketo-ondersteuning](http://support.marketo.com/) om te weten te komen of ze bij u passen.
 
 De werkruimten zijn afzonderlijke gebieden in Marketo die marketingmiddelen zoals programma&#39;s, landingspagina&#39;s, e-mails en meer bevatten. Ze kunnen door meerdere mensen worden gebruikt. Elke gebruiker heeft toegang tot een of meer werkruimten.
 
@@ -38,7 +38,7 @@ In elk geval is de scheiding omdat de marketingactiva totaal verschillend zijn. 
 >
 >**Diep duiken**
 >
->Leer hoe u een nieuwe werkruimte [maakt](create-a-new-workspace.md).
+>Leer hoe u [een nieuwe werkruimte maakt](create-a-new-workspace.md).
 
 ## Delen over werkruimten {#sharing-across-workspaces}
 
@@ -60,7 +60,7 @@ Hieronder wordt beschreven hoe u elementen deelt over verschillende werkruimten.
 
    ![](assets/three.png)
 
-1. Klik met de rechtermuisknop op de map en selecteer Map **** delen.
+1. Klik met de rechtermuisknop op de map en selecteer **Map delen**.
 
    ![](assets/four.png)
 
@@ -82,7 +82,7 @@ U kunt deze items delen in verschillende werkruimten.
 * [Segmentaties](share-segmentations-across-workspaces-and-partitions.md)
 * Fragmenten
 
-## Klonen in verschillende werkruimten {#cloning-across-workspaces}
+## Klonen over werkruimten {#cloning-across-workspaces}
 
 Voor activa die geen malplaatjes zijn, zijn best om hen als lokale activa binnen van een programma te klonen.  Met het juiste toegangsniveau kunt u deze elementen naar een andere werkruimte slepen:
 
@@ -105,9 +105,9 @@ Als u elementen naar een nieuwe werkruimte wilt verplaatsen, plaatst u ze in een
 
 ## Personpartities {#person-partitions}
 
-Personverdelingen fungeren als aparte databases. Elke verdeling heeft zijn eigen mensen die niet ontdupe of mengen met andere verdelingen. Neem contact op met de [Marketo-ondersteuning](http://support.marketo.com)als u een kwestie van zakelijk gebruik hebt waarvoor dubbele records met hetzelfde e-mailadres nodig kunnen zijn.
+Personverdelingen fungeren als aparte databases. Elke verdeling heeft zijn eigen mensen die niet ontdupe of mengen met andere verdelingen. Neem contact op met [Marketo-ondersteuning](http://support.marketo.com) als u van mening bent dat u een bedrijfscase hebt waarvoor dubbele records met hetzelfde e-mailadres nodig kunnen zijn.
 
-U kunt persoonlijke partities toewijzen aan [werkruimten](create-a-new-workspace.md) in de volgende configuraties:
+U kunt persoonlijke verdelingen toewijzen aan [werkruimten](create-a-new-workspace.md) in de volgende configuraties:
 
 * Eén werkruimte naar één partitie met personen (1:1)
 * Eén werkruimte voor partities van vele personen (1:x)
@@ -134,5 +134,5 @@ U kunt persoonlijke partities toewijzen aan [werkruimten](create-a-new-workspace
 >
 >**Diep duiken**
 >
-> Leer hoe u een partitie [voor personen](create-a-person-partition.md)maakt.
+> Leer hoe te om [een persoonverdeling te creëren](create-a-person-partition.md).
 
