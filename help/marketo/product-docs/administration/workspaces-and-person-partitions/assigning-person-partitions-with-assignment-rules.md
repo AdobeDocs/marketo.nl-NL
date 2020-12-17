@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Personen partities toewijzen met toewijzingsregels {#assigning-person-partitions-with-assignment-rules}
+# Personen toewijzen aan partities met toewijzingsregels {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak o
 
 ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. Klik onder het tabblad **Partities van personen **op **Toewijzingsregels**.
+1. Klik onder het tabblad **Personen-partities **op **Toewijzingsregels**.
 
    ![](assets/two-6.png)
 
