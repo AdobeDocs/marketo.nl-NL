@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Met betrokkenheidsprogramma&#39;s in Marketo kunt u eenvoudig zorgen voor e-mail.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 1. ![](assets/login-marketing-activities.png)
 
-1. Selecteer de map waarin u het betrokkenheidsprogramma wilt maken en klik vervolgens op **Nieuw** en **Nieuw programma**.
+1. Selecteer de map waarin u het betrokkenheidsprogramma wilt maken en klik op **Nieuw** en **Nieuw programma**.
 1. ![](assets/newprogramlifecycle.jpg)
 
-1. Voer een **naam** in, selecteer **Betrokkenheid** bij **Programmatype** en klik op **Maken**.
+1. Voer een **Naam** in, selecteer **Betrokkenheid** voor **Programmatype** en klik **Maken**.
 1. ![](assets/image2014-9-15-15-3a35-3a32.png)
 
 1. Nu je een betrokkenheidsprogramma hebt, gaan we verder en gaan we het omhoog.
