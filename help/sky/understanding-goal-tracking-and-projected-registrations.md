@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Na het [plaatsen van gebeurtenisdoelstellingen](/help/sky/setting-event-goals.md)en het verzenden van uitnodigingen door een [slimme campagne](/help/sky/create-a-smart-campaign.md), is hier hoe te om uw doelvooruitgang te volgen en de voorspellingen van Marketo te begrijpen.
+Na [het plaatsen van gebeurtenisdoelstellingen](/help/sky/setting-event-goals.md) en het verzenden van uitnodigingen door een [slimme campagne](/help/sky/create-a-smart-campaign.md), is hier hoe te om uw doelvooruitgang te volgen en de voorspellingen van Marketo te begrijpen.
 
 >[!NOTE]
 >
@@ -22,11 +22,11 @@ Na het [plaatsen van gebeurtenisdoelstellingen](/help/sky/setting-event-goals.md
 
 ## Goederenregistratie en verwachte registratie
 
-1. Meer informatie over het bijhouden van doelen vindt u op het **[!UICONTROL Reports]** tabblad van uw gebeurtenisprogramma. In dit specifieke voorbeeld zijn er tot nu toe 150 geregistreerde leden tegen een doelstelling van 200 (75%).
+1. U vindt de details voor het bijhouden van doelen op het tabblad **[!UICONTROL Reports]** van uw gebeurtenisprogramma. In dit specifieke voorbeeld zijn er tot nu toe 150 geregistreerde leden tegen een doelstelling van 200 (75%).
 
    ![Afbeelding één](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-1.png)
 
-U ziet ook uw **[!UICONTROL Projected]** registraties. Houd de muisaanwijzer boven het informatiepictogram om een uitsplitsing van dit getal per Likelihood-segment te zien.
+U zult ook uw **[!UICONTROL Projected]** registraties zien. Houd de muisaanwijzer boven het informatiepictogram om een uitsplitsing van dit getal per Likelihood-segment te zien.
 
 ![Afbeelding twee](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -44,11 +44,11 @@ Alle leden (geregistreerd en nog niet geregistreerd) worden gecategoriseerd op b
 
 >[!NOTE]
 >
->De voorspellingsnummers worden elke 24 uur bijgewerkt tot de dag van de gebeurtenis. Alle leden die als _verwerker_ worden vermeld, worden in de volgende berekeningcyclus opgenomen.
+>De voorspellingsnummers worden elke 24 uur bijgewerkt tot de dag van de gebeurtenis. Om het even welke leden die als _Verwerking_ worden vermeld zullen in de volgende berekeningcyclus worden omvat.
 
 ## Vergelijkbare programma&#39;s
 
-U kunt enig inzicht in uw huidige gebeurtenis verkrijgen door te bekijken hoe gelijkaardige programma&#39;s in het verleden werden uitgevoerd. In dit gedeelte worden maximaal vijf vergelijkbare programma&#39;s vanaf de afgelopen zes maanden weergegeven, met het aantal/percentage leden dat _geregistreerd_ of hoger was.
+U kunt enig inzicht in uw huidige gebeurtenis verkrijgen door te bekijken hoe gelijkaardige programma&#39;s in het verleden werden uitgevoerd. In deze sectie worden maximaal vijf vergelijkbare programma&#39;s vanaf de laatste 6 maanden weergegeven, met het aantal/percentage leden dat _Geregistreerd_ of hoger was.
 
 Bij de berekening van vergelijkbare programma&#39;s nemen we onder andere de volgende factoren in aanmerking:
 
@@ -69,7 +69,7 @@ Bij de bovenkant van de pagina van Rapporten, kunt u AI/ML-gedreven aanbevelinge
 
 ## voorspellingen op persoonniveau
 
-Klik op het **[!UICONTROL Members]** tabblad om al uw programmaleden weer te geven. Houd de muisaanwijzer boven de **[!UICONTROL Registration Likelihood]** staven of de **[!UICONTROL Attendance Likelihood]** balken om exacte percentages en categorieën weer te geven. Vervolgens kunt u actie ondernemen tegen leden in een bepaalde categorie (bijvoorbeeld iedereen in de categorie &quot;Minder waarschijnlijk&quot; om zich te registreren) en u kunt deze specifiek richten op het mogelijk verhogen van uw registratienummers.
+Klik op het tabblad **[!UICONTROL Members]** om al uw programmaleden weer te geven. Houd de muis boven **[!UICONTROL Registration Likelihood]** of **[!UICONTROL Attendance Likelihood]** balken om exacte percentages en categorieën weer te geven. Vervolgens kunt u actie ondernemen tegen leden in een bepaalde categorie (bijvoorbeeld iedereen in de categorie &quot;Minder waarschijnlijk&quot; om zich te registreren) en u kunt deze specifiek richten op het mogelijk verhogen van uw registratienummers.
 
 ![Afbeelding zeven](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-7.png)
 
@@ -89,7 +89,7 @@ Wij plaatsen waarschijnlijkheidswaarden in drie segmenten:
 * Waarschijnlijkheid om >25% tot &lt;50% te registreren = Waarschijnlijk segment
 * Waarschijnlijkheid om &lt;25% = Minder Waarschijnlijk segment te registreren
 
-Wanneer een persoon zich waarschijnlijk registreert, zal de voorspelling in één van deze segmenten vallen (elke persoon die lid van een programma is zal in één van hen vallen). Als een gebeurtenisprogramma bijvoorbeeld 1000 leden heeft op basis van de waarschijnlijkheidsvoorspellingen, worden die 1000 verdeeld in _Hoogst Waarschijnlijk_, _Waarschijnlijk_, of _Minder Waarschijnlijk_ segmenten.
+Wanneer een persoon zich waarschijnlijk registreert, zal de voorspelling in één van deze segmenten vallen (elke persoon die lid van een programma is zal in één van hen vallen). Als een gebeurtenisprogramma bijvoorbeeld 1000 leden heeft op basis van de waarschijnlijkheidsvoorspellingen, worden deze 1000 verdeeld in _Hoogst waarschijnlijk_, _Waarschijnlijk_ of _Minder waarschijnlijk_ segmenten.
 
 Daarom hebben mensen die in het hoogwaarschijnlijke segment vallen een grotere kans om zich voor de gebeurtenis te registreren.
 
@@ -103,7 +103,7 @@ A: De beste praktijken omvatten het volgende:
 
 i. U maakt een programma en vervolgens gebruikt een slimme campagne voorspellende filters met &quot;groter dan X&quot;, wat zou leiden tot een bepaalde hoeveelheid personen (bijvoorbeeld 1000) en u voert de campagne uit.
 
-ii. Na 24 uur kunt u op het [!UICONTROL Reports] tabblad de geprojecteerde registraties zien die zijn berekend op basis van de waarschijnlijkheid om waarden te registreren van alle mensen die momenteel zijn uitgenodigd.
+ii. Na 24 uur kunt u op het tabblad [!UICONTROL Reports] de geprojecteerde registraties zien die zijn berekend op basis van de waarschijnlijkheid om waarden te registreren van alle personen die momenteel zijn uitgenodigd.
 
 iii. Als geprojecteerde registraties kleiner zijn dan het doel, moet u meer mensen uitnodigen. Op dit moment zie je de inzichten die je vertellen wat de drempel was die werkte in eerdere programma&#39;s.
 
@@ -117,9 +117,9 @@ v. Op elk gewenst moment kunt u, als u wilt begrijpen waarom een geprojecteerd g
 
 A: Drie staven, die elk een segment vertegenwoordigen (Zeer waarschijnlijk, Waarschijnlijk, Minder Waarschijnlijk).
 
-**Paarse stippellijn:** Gemiddeld gesprekstarief aan registratie in dat segment, dat op vroegere gelijkaardige programma&#39;s wordt gebaseerd.
+**Paarse stippellijn:** Gemiddelde gesprekstarief aan registratie in dat segment, die op vroegere gelijkaardige programma&#39;s wordt gebaseerd.
 
-**Blauwe balk:** Het percentage van de registratie van alle mensen in dat segment.
+**Blauwe balk:** Registratiepercentage van alle personen in dat segment.
 
 ![Afbeelding negen](/help/sky/assets/predictive-audiences/understanding-goal-tracking-and-projected-registrations/understanding-goal-tracking-and-projected-registrations-9.png)
 
