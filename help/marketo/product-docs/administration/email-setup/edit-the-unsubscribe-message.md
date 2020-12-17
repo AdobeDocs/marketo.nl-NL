@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Bericht voor afmelden bewerken {#edit-the-unsubscribe-message}
+# Het opnamebericht {#edit-the-unsubscribe-message} bewerken
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-Wanneer u marketinge-mails verzendt (niet- [operationeel](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), worden de tekst en koppelingen voor afmelden onderaan toegevoegd. U kunt de standaardinstellingen wijzigen. Zo gaat het.
+Wanneer u marketinge-mails verzendt (niet- [operationeel](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)), worden de tekst en koppelingen voor het afmelden aan de onderkant toegevoegd. U kunt de standaardinstellingen wijzigen. Zo gaat het.
 
-## Bericht voor afmelden bewerken {#edit-the-unsubscribe-message-1}
+## Het opnamebericht {#edit-the-unsubscribe-message-1} bewerken
 
-1. Klik onder **Beheer** op **E-mail**.
+1. Klik onder **Admin** op **E-mail**.
 
    ![](assets/image2014-9-18-16-3a52-3a1.png)
 
@@ -36,7 +36,7 @@ Wanneer u marketinge-mails verzendt (niet- [operationeel](../../../product-docs/
    >    * **mkt_unsubscribe=1&amp;mkt_tok=##MKT_TOK#**
 
 
-1. Bewerk de **versies HTML** opzeggen en Tekst **** opzeggen naar wens en klik op Wijzigingen **** opslaan.
+1. Bewerk de **Abonnement op HTML opzeggen** en **Tekstversie opzeggen** naar wens en klik op **Wijzigingen opslaan**.
 
    ![](assets/image2016-8-26-13-3a40-3a55.png)
 
@@ -44,14 +44,14 @@ Wanneer u marketinge-mails verzendt (niet- [operationeel](../../../product-docs/
 
 >[!TIP]
 >
->U kunt de positie van HTML voor afmelden in uw e-mail aanpassen met [tokens](../../../product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md).
+>U kunt de positie van het afmelden van HTML in uw e-mail aanpassen door [tokens](../../../product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) te gebruiken.
 
-## Standaardtekst voor abonnement opzeggen {#default-unsubscribe-text}
+## Standaardtekst voor afmelden {#default-unsubscribe-text}
 
 Kopieer/plak het volgende als u ooit moet terugkeren naar het standaardsysteemabonnement:
 
 Abonnement op HTML opzeggen:
-`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` Tekst afmelden:
+`<pre data-theme="Confluence"><p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p></pre>` Tekst opzeggen:
 `<pre data-theme="Confluence">%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##</pre>`
 
 >[!MORELIKETHIS]
