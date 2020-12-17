@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-mailprogramma afbreken {#abort-email-program}
+# E-mailprogramma {#abort-email-program} afbreken
 
 Oeps! Druk op de remmen! Dit e-mailprogramma mag niet worden afgesloten.
 
