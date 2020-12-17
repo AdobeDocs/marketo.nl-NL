@@ -26,13 +26,13 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-## Gebruikersgegevens dynamiek synchroniseren invoeren {#enter-dynamics-sync-user-information}
+## Voer de gebruikersgegevens voor Dynamische synchronisatie in {#enter-dynamics-sync-user-information}
 
-1. Meld u aan bij Marketo en klik op **Beheer**.
+1. Meld u aan bij Marketo en klik op **Admin**.
 
    ![](assets/login-admin.png)
 
-1. Klik op **CRM**.
+1. Klik **CRM**.
 
    ![](assets/image2015-3-16-9-47-34.png)
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. Klik op **Bewerken** in **stap 1: Voer referenties** in.
+1. Klik **Bewerken** in **Stap 1: Voer referenties in**.
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >
    >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw abonnement op Marketo aanvragen.
 
-1. Ga de **Gebruikersnaam**, het **Wachtwoord** een **URL** van de Dynamiek van Microsoft, en een facultatieve identiteitskaart **van de** Cliënt in. Klik op **Opslaan** als u klaar bent.
+1. Voer de **Gebruikersnaam**, **Wachtwoord** een Microsoft Dynamics **URL** en een optionele **Client Id** in. Klik **Opslaan** wanneer gereed.
 
    ![](assets/client-id.png)
 
@@ -58,15 +58,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Kent u de URL niet? Wij zullen u tonen hoe te om uw Dienst URL [van de Organisatie van de](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) Dynamica hier te vinden.
+   >Kent u de URL niet? Wij zullen u tonen hoe te om uw [Dienst URL van de Organisatie van de Dynamica te vinden](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) hier.
 
-## Te synchroniseren velden selecteren {#select-fields-to-sync}
+## Te synchroniseren velden {#select-fields-to-sync} selecteren
 
-1. Klik op **Bewerken** in **stap 2: Selecteer te synchroniseren** velden.
+1. Klik **Bewerken** in **Stap 2: Selecteer te synchroniseren velden**.
 
    ![](assets/image2015-3-16-9-51-28.png)
 
-1. Selecteer de velden die u wilt synchroniseren met Marketo, zodat deze vooraf worden geselecteerd. Klik op **Opslaan**.
+1. Selecteer de velden die u wilt synchroniseren met Marketo, zodat deze vooraf worden geselecteerd. Klik **Opslaan**.
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
 
@@ -74,21 +74,21 @@ ht-degree: 0%
 
 Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe velden selecteren die u wilt synchroniseren met Marketo.
 
-1. Ga naar Admin en selecteer **de Dynamica** van Microsoft.
+1. Ga naar Admin en selecteer **de Dynamica van Microsoft**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klik op **Bewerken** op Veldsynchronisatiedetails.
+1. Klik op **Bewerken** op Details van veldsynchronisatie.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Blader omlaag naar het veld en controleer het. De daadwerkelijke naam moet new_synctomkto zijn maar de Naam van de Vertoning kan om het even wat zijn. Klik op **Opslaan**.
+1. Blader omlaag naar het veld en controleer het. De daadwerkelijke naam moet new_synctomkto zijn maar de Naam van de Vertoning kan om het even wat zijn. Klik **Opslaan**.
 
    ![](assets/image2016-8-25-15-3a15-3a35.png)
 
-## Sync inschakelen {#enable-sync}
+## Sync {#enable-sync} inschakelen
 
-1. Klik op **Bewerken** in **stap 3: Sync** inschakelen.
+1. Klik **Bewerken** in **Stap 3: Sync inschakelen**.
 
    ![](assets/image2015-3-16-9-52-2.png)
 
@@ -96,7 +96,7 @@ Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe ve
    >
    >Marketo wordt niet automatisch gedecomprimeerd tegen een synchronisatie van Microsoft Dynamics of wanneer u handmatig personen invoert.
 
-1. Lees alles in de pop-up, ga uw e-mail in, en klik **Begin Synchronisatie**.
+1. Lees alles in pop-up, ga uw e-mail in, en klik **Begin Synchronisatie**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
