@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Gebruik een Duur in een Stap van de Stroom van de Wacht {#use-a-duration-in-a-wait-flow-step}
+# Gebruik een Duur in een Stap {#use-a-duration-in-a-wait-flow-step} van de Stroom van de Wacht
 
 U kunt de stap van de Wachtrij gebruiken om de reis van een persoon door een slimme campagne voor een bepaalde duur te pauzeren. U kunt ook criteria opgeven voor de dag van de week en het tijdstip waarop deze eindigt.
 
-1. Sleep in het tabblad **Stroom** van slimme campagne over de stap **Wachten** .
+1. In uw slimme campagne **Stroom** tabel, sleep over **Wacht** debietstap.
 
    ![](assets/image2014-9-22-11-3a53-3a57.png)
 
@@ -31,7 +31,7 @@ U kunt de stap van de Wachtrij gebruiken om de reis van een persoon door een sli
 
    ![](assets/image2014-9-22-11-3a54-3a10.png)
 
-1. Geef eventueel de tijd op. Klik op **Opslaan**.
+1. Geef eventueel de tijd op. Klik **Opslaan**.
 
    ![](assets/image2014-9-22-11-3a54-3a35.png)
 
@@ -43,7 +43,7 @@ U kunt de stap van de Wachtrij gebruiken om de reis van een persoon door een sli
    >Op vrijdag om 17.00 uur start iemand een slimme campagne. De wachttijdstap is gevorderd: 48 uur en moet om 9.00 uur eindigen op maandag-vrijdag.
    >
    >
-   >Het resultaat zou zijn dat de persoon op **maandag 9.00 uur** in de stroom zou blijven. Dit is de eerste M-F-datum na 48 uur.
+   >Het resultaat zou zijn dat de persoon in de stroom op **Maandag, 9am** zou voortzetten. Dit is de eerste M-F-datum na 48 uur.
 
    >[!NOTE]
    >
