@@ -25,11 +25,11 @@ Marketo beheert uw zoomregistratie en aanwezigheid.
 >
 >Voor deze stap is een bestaand abonnement op Zoomen en beheerrechten vereist. U moet beschikken over het e-mailadres en wachtwoord waarmee u zich kunt aanmelden bij Zoomen.
 
-1. Ga naar het gebied **Admin** en klik **LaunchPoint**.
+1. Ga naar **Admin** gebied en klik **LaunchPoint**.
 
    ![](assets/launchpoint.png)
 
-1. Klik **Nieuwe **drop-down en selecteer de **Nieuwe Dienst**.
+1. Klik op de vervolgkeuzelijst **New **en selecteer **New Service**.
 
    ![](assets/newservicelp.png)
 
@@ -37,7 +37,7 @@ Marketo beheert uw zoomregistratie en aanwezigheid.
 
    ![](assets/newservice-1.png)
 
-1. Klik op **Log in op Zoomen**.
+1. Klik **Aanmelden bij zoomen**.
 
    ![](assets/login.png)
 
@@ -45,7 +45,7 @@ Marketo beheert uw zoomregistratie en aanwezigheid.
 
    ![](assets/zoomlogin.png)
 
-1. Klik op **Maken** nadat het venster is gesloten.
+1. Nadat het venster wordt gesloten, klikt u op **Maken**.
 
    ![](assets/create-1.png)
 
@@ -57,5 +57,5 @@ Marketo beheert uw zoomregistratie en aanwezigheid.
 
 >[!MORELIKETHIS]
 >
->Leer hoe u een gebeurtenis [maakt met Zoomen](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
+>Leer hoe u [een gebeurtenis maakt met Zoom](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
 
