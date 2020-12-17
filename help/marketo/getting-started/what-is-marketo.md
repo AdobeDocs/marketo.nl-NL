@@ -43,7 +43,7 @@ Nee, helemaal niet. Marketo is eenvoudig aan de slag en zal met u evolueren. U k
 
 ## Moet ik om het even welke opstelling doen? {#do-i-need-to-do-any-setup}
 
-Ja, we maakten een [checklist van dingen om te doen](/help/marketo/getting-started/setup-steps/setup-checklist.md).
+Ja, we hebben een [checklist van dingen gemaakt om te doen](/help/marketo/getting-started/setup-steps/setup-checklist.md).
 
 ## Moet ik wachten tot de opstelling klaar is om te leren? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
