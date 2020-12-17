@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: April 2013 {#release-notes-april}
 
-De volgende functies zijn opgenomen in de release van april. Controleer uw [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van april. Controleer [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
 
 Na de release moet u het tabblad [Nieuwe release](release-notes-december-2013.md) in de Gemeenschap uitchecken voor gedetailleerde artikelen in de Knowledge Base voor elke functie!
 
