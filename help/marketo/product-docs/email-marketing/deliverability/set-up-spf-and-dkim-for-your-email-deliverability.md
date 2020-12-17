@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# SPF en DKIM instellen voor uw e-maillevering {#set-up-spf-and-dkim-for-your-email-deliverability}
+# SPF en DKIM instellen voor uw e-mailleveringsmogelijkheden {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-Één snelle methode om uw e-mailleveringstarieven te verbeteren is **SPF** (het Kader van het Beleid van de Afzender) en **DKIM** (de Sleutels van het Domein Identificeerde Post) in uw DNS montages op te nemen. Met deze toevoeging aan uw DNS ingangen, vertelt u ontvangers dat u Marketo hebt gemachtigd om e-mails namens u te verzenden. Zonder deze verandering, heeft uw e-mail een grotere kans om als spam worden gemerkt aangezien e-mail van uw domein werd gericht, maar van een IP adres met een domein van de Marketo wordt verzonden.
+Één snelle methode om uw tarieven van de e-maillevering te verbeteren is **SPF** (het Kader van het Beleid van de Afzender) en **DKIM** (De Sleutels van het Domein identificeerden Post) in uw DNS montages op te nemen. Met deze toevoeging aan uw DNS ingangen, vertelt u ontvangers dat u Marketo hebt gemachtigd om e-mails namens u te verzenden. Zonder deze verandering, heeft uw e-mail een grotere kans om als spam worden gemerkt aangezien e-mail van uw domein werd gericht, maar van een IP adres met een domein van de Marketo wordt verzonden.
 
 >[!CAUTION]
 >
 >U zult uw netwerkbeheerder nodig hebben om deze verandering in uw DNS verslag aan te brengen.
 
-## SPF instellen {#set-up-spf}
+## SPF {#set-up-spf} instellen
 
 **Als u geen SPF- verslag op uw domein hebt**
 
-Vraag uw netwerkbeheerder om de volgende lijn aan uw DNS ingangen toe te voegen. Vervang [domein] door het hoofddomein van uw website (bijv. &quot;company.com&quot;) en [corpIP] met het IP adres van uw collectieve e-mailserver (bv. &quot;255.255.255.255&quot;). Als u e-mails van meerdere domeinen verzendt via Marketo, moet u deze gegevens aan elk domein toevoegen (op één regel).
-[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all\
+Vraag uw netwerkbeheerder om de volgende lijn aan uw DNS ingangen toe te voegen. Vervang [domain] door het hoofddomein van uw website (bijv. &quot;company.com&quot;) en [corpIP] met het IP adres van uw collectieve e-mailserver (bv. &quot;255.255.255.255&quot;). Als u e-mails van meerdere domeinen verzendt via Marketo, moet u deze gegevens aan elk domein toevoegen (op één regel).
+[] domainIN TXT v=spf1 mx ip4:[] corpIPinclude:mktomail.com ~all\
 Als u een SPF- verslag op uw domein hebt
 
 Als u reeds een SPF verslag in uw DNS ingang hebt, voeg het volgende aan het toe:
 
 include:mktomail.com
 
-## DKIM instellen {#set-up-dkim}
+## DKIM {#set-up-dkim} instellen
 
 ### Wat is DKIM? Waarom wil ik DKIM instellen? {#what-is-dkim-why-do-i-want-to-set-up-dkim}
 
@@ -45,7 +45,7 @@ Nadat u opstelling de openbare sleutel in uw DNS verslag en het verzendende dome
 
 Hoe stel ik DKIM in?
 
-Raadpleeg [Een aangepaste DKIM-handtekening](set-up-a-custom-dkim-signature.md)instellen.
+Raadpleeg [Een aangepaste DKIM-handtekening instellen](set-up-a-custom-dkim-signature.md).
 
 >[!MORELIKETHIS]
 >
