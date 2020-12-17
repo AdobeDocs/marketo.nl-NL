@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Een programma toevoegen aan een betrokkenheidsprogramma {#adding-a-program-to-an-engagement-program-stream}
+# Een programma toevoegen aan een stream van het betrokkenheidsprogramma {#adding-a-program-to-an-engagement-program-stream}
 
 ## Waarom een genest programma gebruiken in een betrokkenheidsprogrammastroom? {#why-use-a-nested-program-in-an-engagement-program-stream}
 
 Het is eenvoudig om een e-mail aan een stroom in een betrokkenheidsprogramma toe te voegen, en het werkt prima. Als uw bedrijfsbehoeften echter complexer zijn, kan het zinvol zijn de e-mail in een programma te plaatsen. U kunt bijvoorbeeld het volgende doen:
 
 * Een e-mail verzenden naar een subgroep met personen in de stream
-* Verstuur *verschillende* e-mailberichten naar subgroepen binnen de stream
+* Verzend *verschillende* e-mails naar subgroepen binnen de stream
 * Pagina&#39;s, formulieren of andere elementen die u wilt uitzetten, opnemen in het programma
 * Multitouch-kenmerk inschakelen
 * Extra stroomstappen toevoegen, zoals e-mailberichten met waarschuwingen
@@ -31,17 +31,17 @@ Wanneer u een genest programma gebruikt, is het besluit om een e-mail naar een p
 * Als u lid bent van het programma, ontvangt u geen e-mail
 * Als u geen lid meer bent maar eerder via dat programma e-mail hebt ontvangen, ontvangt u geen e-mail
 
-Wanneer u een programma in een stream gebruikt, maakt het niet uit of u die specifieke e-mail eerder hebt ontvangen. Zolang het e-mailbericht niet eerder is verzonden *in dat specifieke programma*, kunt u het opnieuw ontvangen.
+Wanneer u een programma in een stream gebruikt, maakt het niet uit of u die specifieke e-mail eerder hebt ontvangen. Zolang de e-mail niet eerder is verzonden *in dat specifieke programma*, kunt u het opnieuw ontvangen.
 
 Het kan lastige emails en programma&#39;s in een betrokkenheidsprogramma mengen. Wellicht wilt u een van beide gebruiken.
 
 >[!TIP]
 >
->Gebruik een filter **Lid van het Programma** van de Aansluiting in uw slimme lijst.
+>Vergeet niet een **Lid van het Programma van de Aansluiting** filter in uw slimme lijst te gebruiken.
 
 ## Wat gebeurt er met mensen die niet voldoen aan de criteria van de slimme lijst? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-Als iemand uit de slimme lijst van slimme campagne van een genesteld programma wordt gefiltreerd, bewegen zij zich niet op het volgende stuk van inhoud tijdens de huidige gietvorm. Zij zullen zich op het volgende stuk van inhoud in de stroom voor de *volgende* gietvorm bewegen.
+Als iemand uit de slimme lijst van slimme campagne van een genesteld programma wordt gefiltreerd, bewegen zij zich niet op het volgende stuk van inhoud tijdens de huidige gietvorm. Zij zullen zich op het volgende stuk van inhoud in de stroom voor *volgend* gietvorm bewegen.
 
 ## Wat bevat een genest programma? {#what-does-a-nested-program-contain}
 
