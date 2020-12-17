@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Een aangepast tabblad maken voor de detailpagina voor personen {#creating-a-custom-tab-for-the-person-detail-page}
+# Een aangepast tabblad maken voor de pagina Personen {#creating-a-custom-tab-for-the-person-detail-page}
 
 Als u steeds weer op zoek bent naar een specifieke set velden in de details van de persoon, kunt u een aangepaste indeling maken om de zaken eenvoudiger te maken.
 
-1. Ga naar **Admin** en klik op **Veldbeheer**.
+1. Ga naar **Admin** en klik **Veld Management**.
 
    ![](assets/image2014-9-16-16-3a41-3a41.png)
 
-1. Klik op het tabblad **Aangepaste layout ontwerpen** .
+1. Klik op het tabblad **Aangepaste layout Designer**.
 
    ![](assets/image2014-9-16-16-3a41-3a55.png)
 
