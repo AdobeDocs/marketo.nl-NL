@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Gebruikt door gegevens exporteren voor een veld {#export-used-by-data-for-a-field}
+# Exporteren gebruikt door gegevens voor een veld {#export-used-by-data-for-a-field}
 
 Als Admin, hebt u de capaciteit om verwante activa van een gebied uit te voeren zodat kunt u hun delinking aan uw team delegeren.
 
@@ -19,11 +19,11 @@ Als Admin, hebt u de capaciteit om verwante activa van een gebied uit te voeren 
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/one.png)
 
-1. Klik op **Veldbeheer**.
+1. Klik **Veld beheren**.
 
    ![](assets/two-3.png)
 
@@ -31,7 +31,7 @@ Als Admin, hebt u de capaciteit om verwante activa van een gebied uit te voeren 
 
    ![](assets/three.png)
 
-1. Klik op de vervolgkeuzelijst **Veldhandelingen** en selecteer **Exporteren gebruikt door**.
+1. Klik op de vervolgkeuzelijst **Veldhandelingen** en selecteer **Exporteren Gebruikt door**.
 
    ![](assets/four.png)
 
