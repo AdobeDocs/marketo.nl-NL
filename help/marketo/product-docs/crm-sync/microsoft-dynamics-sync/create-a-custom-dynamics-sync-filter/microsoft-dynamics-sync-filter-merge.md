@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics Sync Filter: Samenvoegen {#microsoft-dynamics-sync-filter-merge}
+# Microsoft Dynamics Sync Filter: {#microsoft-dynamics-sync-filter-merge} samenvoegen
 
 Bij het samenvoegen van leads in Microsoft Dynamics wordt het type Two Options gebruikt: Sync filter = Yes (TRUE) en Sync filter = No (FALSE). Wanneer u twee verslagen samenvoegt, varieert het resultaat, afhankelijk van welke verslag waar is en die vals is.
 
