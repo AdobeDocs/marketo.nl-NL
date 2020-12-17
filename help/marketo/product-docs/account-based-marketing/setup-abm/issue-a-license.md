@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een licentie afgeven {#issue-a-license}
+# Licentie {#issue-a-license} uitgeven
 
 U moet gebruikers instellen met een licentie om ABM te gebruiken. Zo doe je dat.
 
@@ -19,19 +19,19 @@ U moet gebruikers instellen met een licentie om ABM te gebruiken. Zo doe je dat.
 >
 >Het aantal beschikbare licenties is afhankelijk van uw abonnement. Neem contact op met je verkoper als je meer wilt.
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/one.png)
 
-1. Klik op **Gebruikers en rollen**. Selecteer de gebruiker aan wie de licentie moet worden verleend, klik op de vervolgkeuzelijst **Licentie** uitgeven en selecteer **Account Based Marketing**.
+1. Klik **Gebruikers &amp; rollen**. Selecteer de gebruiker om de vergunning aan uit te geven, **Geef Vergunning** drop-down uit, en selecteer **Account Based Marketing**.
 
    ![](assets/two.png)
 
-1. Schakel het selectievakje Licentie **** inschakelen in en klik op **Opslaan**.
+1. Schakel het selectievakje **Licentie inschakelen** in en klik op **Opslaan**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Als u een gebruikerslicentie wilt verwijderen, volgt u stap 1 en schakelt u het selectievakje ** uit en klikt u op **Opslaan**.
+   >Als u een gebruikerslicentie wilt verwijderen, volgt u stap 1 en *un* schakelt u het selectievakje in en klikt u op **Opslaan**.
 
