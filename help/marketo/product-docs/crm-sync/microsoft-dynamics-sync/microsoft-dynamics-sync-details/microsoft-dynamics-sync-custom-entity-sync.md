@@ -21,7 +21,7 @@ Als u de aanvankelijke synchronisatie van de douaneentiteit moet toelaten om geg
 
 >[!PREREQUISITES]
 >
->Als u een aangepast object wilt gebruiken, moet het worden gekoppeld aan een [lead](microsoft-dynamics-sync-lead-sync.md), [contact](microsoft-dynamics-sync-contact-sync.md)of [](microsoft-dynamics-sync-account-sync.md)accountobject in Dynamics.
+>Als u een aangepast object wilt gebruiken, moet het worden gekoppeld aan een [lead](microsoft-dynamics-sync-lead-sync.md), [contact](microsoft-dynamics-sync-contact-sync.md) of [account](microsoft-dynamics-sync-account-sync.md)object in Dynamics.
 
 >[!CAUTION]
 >
@@ -31,7 +31,7 @@ Als u de aanvankelijke synchronisatie van de douaneentiteit moet toelaten om geg
 
    ![](assets/image2014-10-20-14-3a32-3a16.png)
 
-1. Klik op Sync **uitschakelen** om de standaard algemene synchronisatie tijdelijk uit te schakelen.
+1. Klik **Schakel Sync** uit om de standaard algemene synchronisatie tijdelijk uit te schakelen.
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
@@ -41,11 +41,11 @@ Als u de aanvankelijke synchronisatie van de douaneentiteit moet toelaten om geg
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
-1. Klik op de koppeling Schema **** synchroniseren om de lijst met beschikbare aangepaste entiteiten te doorlopen.
+1. Klik op de koppeling **Schema synchroniseren** om de lijst met beschikbare aangepaste entiteiten over te halen.
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Nadat de lijst is gesynchroniseerd, selecteert u de velden die u wilt synchroniseren en de velden die u wilt gebruiken als [beperkingen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) en/of triggers in slimme lijsten. Klik op Sync **inschakelen als u klaar bent**.
+1. Nadat de lijst synchroniseert, selecteer de gebieden u en degenen wilt synchroniseren u als [beperkingen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) en/of trekkers in slimme lijsten wilt gebruiken. Wanneer gedaan, klik **toelaten Synchronisatie**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
