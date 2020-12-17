@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Een e-mailvoorbeeld verzenden {#send-a-sample-email}
+# Een voorbeeld-e-mail verzenden {#send-a-sample-email}
 
-Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een voorbeeld weergeven van een e-mail met dynamische inhoud](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)als u een e-mailbericht met dynamische inhoud wilt verzenden.
+Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een e-mail met dynamische inhoud voorvertonen](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md) als u een e-mailbericht met dynamische inhoud wilt verzenden.
 
 >[!NOTE]
 >
->U moet beschikken over de machtiging **Access Database - Voer Single Flow Actions** uit om voorbeelde-mails te verzenden.
+>U moet **Gegevensbestand van de Toegang hebben - stel Enige Acties van de Stroom in werking** toestemming om steekproefe-mails te verzenden.
 
-## Een e-mailvoorbeeld verzenden {#send-a-sample-email-1}
+## Een voorbeeld-e-mail verzenden {#send-a-sample-email-1}
 
-1. Zoek en selecteer uw e-mail. Klik op de vervolgkeuzelijst **E-mailhandelingen** en selecteer **Voorbeeld** verzenden.\
+1. Zoek en selecteer uw e-mail. Klik op de vervolgkeuzelijst **E-mailhandelingen** en selecteer **Monster verzenden**.\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
@@ -41,15 +41,15 @@ Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een 
 
    >[!TIP]
    >
-   >Als u tokens als specifieke persoon wilt oplossen, verkies genoemde persoon in de **persoondrop-down** in Stap 2.
+   >Als u tokens als specifieke persoon wilt oplossen, verkies genoemde persoon in **persoondrop-down** in Stap 2.
 
-## Een voorbeeld-e-mail verzenden tijdens bewerken {#send-a-sample-email-while-editing}
+## Een voorbeeld-e-mail verzenden tijdens het bewerken {#send-a-sample-email-while-editing}
 
-1. Zoek de e-mail, selecteer deze en klik op het tabblad Concept **** bewerken.
+1. Zoek uw e-mail, selecteer het en klik **uitgeven Ontwerp** tabel.
 
    ![](assets/three-281-29.jpg)
 
-1. Klik op **Handelingen** e-mailen en selecteer Voorbeeld **verzenden**.
+1. Klik **E-mailacties**, selecteer **Sample verzenden**.
 
    ![](assets/four.png)
 
@@ -59,7 +59,7 @@ Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een 
 
    >[!NOTE]
    >
-   >Het triggerveld is alleen van toepassing op gebruikers die gebruikmaken van [e-mailscripting](http://developers.marketo.com/documentation/velocity-script/).
+   >Het triggerveld is alleen van toepassing op gebruikers die [e-mailscripting](http://developers.marketo.com/documentation/velocity-script/) gebruiken.
 
 ## Een voorbeeld-e-mail verzenden op basis van een segment {#send-a-sample-email-based-on-a-segment}
 
@@ -67,11 +67,11 @@ Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een 
 >
 >[Pas segmentatie toe op uw e-mail](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
 
-1. Zoek de e-mail, selecteer deze en klik op het tabblad Concept **** bewerken.
+1. Zoek uw e-mail, selecteer het en klik **uitgeven Ontwerp** tabel.
 
    ![](assets/three-281-29.jpg)
 
-1. Klik op **Voorvertoning**.
+1. Klik **Voorvertoning**.
 
    ![](assets/1.png)
 
@@ -87,12 +87,12 @@ Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een 
 
    ![](assets/4.png)
 
-1. Klik op Voorbeeld **** verzenden om een test-e-mail met uw segment in actie te ontvangen.
+1. Klik op **Sample verzenden** om een teste-mail van uw segment in actie te ontvangen.
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >U kunt ook een e-mailvoorbeeld verzenden op basis van een segment in de bewerkingsmodus van uw e-mail. Klik op de vervolgkeuzelijst **E-mailhandelingen** , selecteer Monster **** verzenden en kies vervolgens het segment.
+   >U kunt ook een e-mailvoorbeeld verzenden op basis van een segment in de bewerkingsmodus van uw e-mail. Klik op de vervolgkeuzelijst **E-mailhandelingen**, selecteer **Monster verzenden** en kies vervolgens het segment.
 
 Het is erg belangrijk om uw inhoud te samplen voordat u een campagne start. Meet twee keer, knip één keer!
