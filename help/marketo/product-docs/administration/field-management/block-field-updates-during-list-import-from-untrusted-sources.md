@@ -19,32 +19,32 @@ U kunt de gegevens in sommige lijsten meer vertrouwen dan in andere. Soms hebt u
 >
 >**Beheerdersmachtigingen vereist**
 
-## Veldupdates blokkeren vanuit niet-vertrouwde bronnen {#blocking-field-updates-from-untrusted-sources}
+## Veldupdates blokkeren uit niet-vertrouwde bronnen {#blocking-field-updates-from-untrusted-sources}
 
-1. Ga naar **Admin** en klik op **Veldbeheer**.
+1. Ga naar **Admin** en klik **Veld Management**.
 
    ![](assets/image2014-9-19-9-3a38-3a38.png)
 
-1. Zoek het gewenste veld, selecteer het en klik onder **Veldhandelingen** op **Veldupdates** blokkeren.
+1. Zoek het gewenste veld, selecteer het en klik onder **Veldhandelingen** op **Veldupdates blokkeren**.
 
    ![](assets/image2014-9-19-9-3a39-3a40.png)
 
-1. Schakel **Lijst importeren van niet-vertrouwde bron** in en klik op **Toepassen**.
+1. Schakel **Lijst van niet-vertrouwde bron importeren** in en klik **Toepassen**.
 
    ![](assets/blockupdates.png)
 
 >[!TIP]
 >
->U kunt velden veilig houden voor alle lijsten, vertrouwd en niet-vertrouwd, door ook de optie Vertrouwde **bron** importeren van lijst te controleren.
+>U kunt velden veilig houden voor alle lijsten, vertrouwd en niet-vertrouwd, door **Vertrouwde bron bij importeren weergeven** ook te controleren.
 
 Herhaal bovenstaande stappen voor alle andere velden die u wilt beveiligen tegen niet-vertrouwde lijsten.
 
-## Importeren van niet-vertrouwde lijsten uitvoeren {#running-an-untrusted-list-import}
+## Importeren van niet-vertrouwde lijsten {#running-an-untrusted-list-import} uitvoeren
 
 1. Wanneer u de lijst wilt importeren, moet u **Niet-vertrouwde **selecteren als u wilt dat alle velden die u in de vorige stap hebt ingesteld, veilig zijn.
 
    ![](assets/importpersondetails.jpg)
 
-Zie Een lijst met personen [](../../../getting-started/quick-wins/import-a-list-of-people.md)importeren voor gedetailleerde instructies over het importeren van lijsten.
+Zie [Een lijst met personen importeren](../../../getting-started/quick-wins/import-a-list-of-people.md) voor gedetailleerde instructies voor het importeren van lijsten.
 
 Mooi werk! Nu weet u hoe u sleutelvelden veilig kunt houden voor niet-vertrouwde lijsten.
