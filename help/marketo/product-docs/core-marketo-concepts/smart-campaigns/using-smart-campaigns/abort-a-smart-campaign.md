@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Soms lanceer je een slimme campagne en realiseer je meteen dat het een fout was. Hier is hoe je de noodrem kunt trekken en de slimme campagne halverwege de rit kunt stoppen.
 
-1. Selecteer onder **Marketingactiviteiten** uw slimme campagne en ga naar het tabblad **Planning** .
+1. Selecteer onder **Marketingactiviteiten** uw slimme campagne en ga naar het tabblad **Schema**.
 
    ![](assets/image2014-9-22-16-3a19-3a44.png)
 
-1. Klik op de vervolgkeuzelijst* Campagne Actions**. Selecteer Campagne **afbreken**.
+1. Klik op de vervolgkeuzelijst* Campagne Actions**. Selecteer **Campagne afbreken**.
 
    ![](assets/image2014-9-22-16-19-48.png)
 
-1. Klik op **Afbreken** om te bevestigen.
+1. Klik **Afbreken** om te bevestigen.
 
    ![](assets/image2014-9-22-16-3a19-3a57.png)
 
@@ -42,10 +42,10 @@ Soms lanceer je een slimme campagne en realiseer je meteen dat het een fout was.
 
    >[!NOTE]
    >
-   >Bekijk het tabblad **Resultaten** van de slimme campagne om te zien welke acties er zijn ondernomen voordat de campagne werd afgebroken. U zult ook een [bericht](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) met extra details vinden.
+   >Bekijk een blik bij **Resultaten** lusje van de slimme campagne om te zien welke acties vóór de abort plaatsvonden. U zult ook [bericht](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) met extra details vinden.
 
    >[!TIP]
    >
-   >Wilt u een persoon uit de flow verwijderen in een triggercampagne? Schakel [Verwijderen uit uit van stroom](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
+   >Wilt u een persoon uit de flow verwijderen in een triggercampagne? [Verwijderen uit stroom](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md).
 
 Controleer altijd uw werk, maar deze noodrem kan in de toekomst handig worden.
