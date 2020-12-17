@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Uw standaardbrandingdomein met werkruimten bewerken {#edit-your-default-branding-domain-with-workspaces}
+# Uw standaardbrandingdomein bewerken met werkruimten {#edit-your-default-branding-domain-with-workspaces}
 
-1. Ga naar **Beheer** en klik op **E-mail**.
+1. Ga naar **Admin** en klik vervolgens op **E-mail**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Toevoegen**** **werkt pas nadat u het algemene domein hebt bewerkt.** Verwijderen ******werkt pas wanneer u een tweede domein toevoegt.
+   >**Toevoegen****  **werkt pas nadat u het algemene domein hebt bewerkt.** Verwijderen ******werkt pas wanneer u een tweede domein toevoegt.
    >
    >U kunt geen extra domein toevoegen tot u eerst het generische domein uitgeeft.
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 >
 >Wanneer u aanvullende brandingdomeinen toevoegt, kunt u ervoor kiezen dit als primair domein voor een of meer werkruimten te gebruiken. Alle bestaande niet-verzonden e-mails die op &quot;Standaard&quot; zijn ingesteld en alle nieuwe e-mails die u hebt gemaakt, worden standaard ingesteld op het primaire domein. U kunt dit per e-mail overschrijven.
 
-Nu kunt u extra brandingdomeinen [](add-an-additional-branding-domain-with-workspaces.md) toevoegen die u voor de werkruimten nodig hebt.
+Nu, kunt u [extra branding domeinen](add-an-additional-branding-domain-with-workspaces.md) toevoegen u voor de werkruimten nodig hebt.
 
 >[!MORELIKETHIS]
 >
