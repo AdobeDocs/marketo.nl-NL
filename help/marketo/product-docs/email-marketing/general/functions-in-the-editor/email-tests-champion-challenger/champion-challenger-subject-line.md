@@ -23,13 +23,13 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
 
 
 
-1. Selecteer in de e-mailtesteditor de optie **Onderwerpregel** in de vervolgkeuzelijst **Test Type **Test.
+1. Selecteer **Onderwerpregel** in de e-mailtesteditor in de vervolgkeuzelijst **Type test **Testen.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >In een onderwerptest wordt de eerste onderwerpregel die wordt ingevoerd, aangeduid als de **Champion**. Volgende onderwerpregel wordt **Challengers** genoemd.
+   >In een onderwerptest wordt de eerste ingevoerde onderwerpregel aangeduid als **Champion**. Volgende onderwerpregel wordt **Challengers** genoemd.
 
 1. Voer onderwerpregel(s) in voor de **Challengers**.
 
@@ -52,7 +52,7 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
 
    Om statistisch vertrouwen te winnen, zorg ervoor het percentage u kiest genoeg mensen omvat, zodat uw test geldig is. Wees niet misleid door onovertuigende resultaten.  [Meer informatie dan je ooit wilde over statistisch vertrouwen](http://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 
