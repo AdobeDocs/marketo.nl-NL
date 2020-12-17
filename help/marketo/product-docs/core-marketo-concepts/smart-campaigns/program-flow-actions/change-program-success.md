@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Programma is gewijzigd {#change-program-success}
+# Programmasucces wijzigen {#change-program-success}
 
 ## Overzicht {#overview}
 
@@ -29,7 +29,7 @@ Als u ooit een groep mensen hebt die toevallig met het Succes van het Programma 
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Selecteer **Succes** of *** Datum van succes** als Attribuut.
+1. Selecteer **Success** of** Succesdatum** als attribuut.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -37,7 +37,7 @@ Als u ooit een groep mensen hebt die toevallig met het Succes van het Programma 
    >
    >Als u de instelling van Datum succes op Alles instelt, wordt Succes automatisch ingesteld op true. Als u Succes instelt op true, wordt de succesdatum automatisch ingesteld op de huidige datum.
 
-1. Stel de **nieuwe waarde** in op **Waar** of **Onwaar**.
+1. Stel de **Nieuwe waarde** in op **True** of **False**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 
