@@ -33,19 +33,19 @@ Marketo beheert uw Adobe Connect-webinarregistratie en -aanwezigheid.
 
    ![](assets/image2015-4-22-11-3a33-3a51.png)
 
-1. Selecteer **Nieuw** en dan **Nieuwe Dienst**.
+1. Selecteer **Nieuw** en **Nieuwe service**.
 
    ![](assets/image2015-4-22-11-3a40-3a19.png)
 
-1. Voer een **weergavenaam** in. Selecteer Adobe Connect onder **Service**.
+1. Voer een **Weergavenaam** in. Selecteer Adobe Connect onder **Service**.
 
    ![](assets/new-service-adobe-connect.png)
 
-1. Voer uw **gebruikersnaam** en **toegangscode** in.
+1. Voer uw **Gebruikersnaam** en **Toegangscode** in.
 
    ![](assets/image2015-4-22-11-3a50-3a6.png)
 
-1. Voltooi het proces door uw URL **van de** Vergadermap en het **Wachtwoord** van de **deelnemer** in te voeren,** **en klik** vervolgens op Maken.**
+1. Voltooi het proces door uw **Vergadermap URL** en **Deelnemer** **Wachtwoord**,* **dan klik** tot stand brengen.**
 
    ** ![](assets/image2015-4-22-11-3a55-3a36.png)
 
@@ -60,13 +60,13 @@ Marketo beheert uw Adobe Connect-webinarregistratie en -aanwezigheid.
    >**Voorbeeld**
    >
    >
-   >Nadat u zich hebt aangemeld bij uw Adobe Connect-account, selecteert u het tabblad **Seminars** . Kopieer de URL vanuit de browserbalk naar de URL- **instelling** van de map **Vergadering zonder naar een specifiek seminar te gaan.**
+   >Nadat u zich hebt aangemeld bij uw Adobe Connect-account, selecteert u het tabblad **Seminars**. Kopieer de URL vanuit de browserbalk zonder naar een specifiek seminar te gaan en neer te gaan, naar de URL **Meeting Folder &lt;a1/>setting**.**.**
 
-1. Fenomenal! Je **Adobe Connect-service** is nu gesynchroniseerd met Marketo.
+1. Fenomenal! Uw **Adobe Connect Service** is nu gesynchroniseerd met Marketo.
 
    ![](assets/adobe-connect-service.png)
 
 >[!MORELIKETHIS]
 >
->Leer hoe u een gebeurtenis [maakt met Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
+>Leer hoe u [een gebeurtenis maakt met Adobe Connect](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
 
