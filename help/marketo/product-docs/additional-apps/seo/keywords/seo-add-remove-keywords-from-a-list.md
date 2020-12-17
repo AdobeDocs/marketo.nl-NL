@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# SEO - Trefwoorden toevoegen/verwijderen uit een lijst {#seo-add-remove-keywords-from-a-list}
+# SEO - voeg/verwijder Sleutelwoorden toe uit een Lijst {#seo-add-remove-keywords-from-a-list}
 
 U kunt al uw trefwoorden mooi houden en ordenen met behulp van lijsten. Zo kunt u eenvoudig gegevens over specifieke trefwoorden vinden.
 
 ## Toevoegen aan lijst {#add-to-a-list}
 
-1. Ga naar de sectie **Trefwoorden** .
+1. Ga naar de **sectie Keywords**.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Houd de muisaanwijzer boven het trefwoord dat u aan een lijst wilt toevoegen. Klik op **TOEVOEGEN/VERWIJDEREN UIT LIJST**.
+1. Houd de muisaanwijzer boven het trefwoord dat u aan een lijst wilt toevoegen. Klik **TOEVOEGEN/VERWIJDEREN UIT LIJST**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -37,15 +37,15 @@ U kunt al uw trefwoorden mooi houden en ordenen met behulp van lijsten. Zo kunt 
 
 Wehoo! Selecteer de lijst om de nieuwe trefwoorden weer te geven.
 
-## Trefwoord uit lijst verwijderen {#remove-keyword-from-list}
+## Trefwoord verwijderen uit lijst {#remove-keyword-from-list}
 
 U kunt ook trefwoorden uit een lijst verwijderen.
 
-1. Ga naar de sectie **Trefwoorden** .
+1. Ga naar de **sectie Keywords**.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Houd de muisaanwijzer boven het trefwoord dat u uit een lijst wilt verwijderen. Klik op **TOEVOEGEN/VERWIJDEREN UIT LIJST**.
+1. Houd de muisaanwijzer boven het trefwoord dat u uit een lijst wilt verwijderen. Klik **TOEVOEGEN/VERWIJDEREN UIT LIJST**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
