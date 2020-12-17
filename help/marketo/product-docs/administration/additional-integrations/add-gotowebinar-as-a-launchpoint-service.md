@@ -33,7 +33,7 @@ Marketo beheert uw registratie en aanwezigheid van GoToWebinar.
 
    ![](assets/image2015-4-22-15-3a33-3a47.png)
 
-1. Selecteer **Nieuwe** en **Nieuwe Dienst**.
+1. Selecteer **Nieuw** en **Nieuwe service**.
 
    ![](assets/new-service-gotowebinar.png)
 
@@ -41,23 +41,23 @@ Marketo beheert uw registratie en aanwezigheid van GoToWebinar.
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. Klik vervolgens op **Aanmelden bij** **GoToWebinar**.
+1. Klik vervolgens op **Log in** **GoToWebinar**.
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
    >[!NOTE]
    >
-   >Als u de Naam van het Bedrijf en Titel van de Baan van uw Vorm van Marketo aan GoToWebinar wilt synchroniseren, selecteer de **Enable Extra Velden** .
+   >Als u de Naam van het Bedrijf en Titel van de Baan van uw Vorm van Marketo aan GoToWebinar wilt synchroniseren, selecteer **toelaten Extra Gebieden** doos.
 
-1. Voer in het pop-upvenster Aanmelden bij GoToWebinar uw **GoToWebinar** -e-mail en -wachtwoord in en klik op **Aanmelden**.
+1. Voer in het pop-upvenster Aanmelden bij GoToWebinar uw **GoToWebinar** e-mail en wachtwoord in en klik op **Aanmelden**.
 
    ![](assets/image2015-4-22-15-3a52-3a31.png)
 
-1. Klik op **Maken** nadat het venster is gesloten.
+1. Nadat het venster wordt gesloten, klikt u op **Maken**.
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
-1. Geweldig! Uw **GoToWebinar** -account is nu gesynchroniseerd met Marketo.
+1. Geweldig! Uw **GoToWebinar** account is nu gesynchroniseerd met Marketo.
 
    ![](assets/goto-webinar.png)
 
@@ -67,5 +67,5 @@ Marketo beheert uw registratie en aanwezigheid van GoToWebinar.
 
 >[!MORELIKETHIS]
 >
->Leer hoe u een gebeurtenis [maakt met GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
+>Leer hoe u [een gebeurtenis maakt met GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
 
