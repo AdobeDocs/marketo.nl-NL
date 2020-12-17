@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Wilt u een pagina verwijderen? Geen zweet, hier is hoe:
 
-1. Ga naar de sectie **Pagina** &#39;s.
+1. Ga naar de sectie **Pagina&#39;s**.
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen op het tabblad Pagina&#39;s, klik op **DELETE** en klik vervolgens op **VERWIJDEREN**.
+1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen op het tabblad Pagina&#39;s en klik op **DELETE**. Klik vervolgens op **VERWIJDEREN**.
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 
