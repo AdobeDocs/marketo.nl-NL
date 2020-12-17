@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Met een token voor het kalenderbestand kunt u een agendagebeurtenis (.ics) toevoegen aan uw e-mails en landingspagina&#39;s voor Marketo.
 
-1. Ga in uw programma naar het tabblad **Mijn tokens** .
+1. Binnen uw programma, ga naar **Mijn Tokens** tabel.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Sleep een token voor een **kalenderbestand** naar het canvas.
+1. Sleep een **Kalenderbestand**-token naar het canvas.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. Voer een **tokennaam** in en **bewerk** deze.
+1. Voer een **Symbolische naam** en **Edit** in.
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
