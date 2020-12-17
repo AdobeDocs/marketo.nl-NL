@@ -14,13 +14,13 @@ ht-degree: 0%
 
 <br> 
 
-Wanneer mensen alle inhoud in een stroom uitlaten, [!DNL Marketo] kunt u een bericht sturen. U kunt de meldingen op basis van uw behoeften uitschakelen/inschakelen.
+Wanneer mensen alle inhoud in een stroom uitputten, [!DNL Marketo] kan u een bericht verzenden. U kunt de meldingen op basis van uw behoeften uitschakelen/inschakelen.
 
 1. Selecteer uw serviceprogramma.
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-1.png)
 
-1. Klik op het **[!UICONTROL Setup]** tabblad.
+1. Klik op het tabblad **[!UICONTROL Setup]**.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/disable-or-enable-exhausted-content-notifications/disable-or-enable-exhausted-content-notifications-2.png)
 
