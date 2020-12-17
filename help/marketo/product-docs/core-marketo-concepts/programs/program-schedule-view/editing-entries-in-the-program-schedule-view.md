@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Bewerkingangen in de programmaweergave {#editing-entries-in-the-program-schedule-view}
+# Bewerkingangen in de Mening {#editing-entries-in-the-program-schedule-view} van het Programma
 
 U kunt de verschillende elementen van uw programma in de planningsmening uitgeven.
 
-## De naam van een item bewerken {#edit-an-entrys-name}
+## De naam van een item {#edit-an-entrys-name} bewerken
 
 1. Selecteer de vermelding die u wilt bewerken.
 
@@ -29,13 +29,13 @@ U kunt de verschillende elementen van uw programma in de planningsmening uitgeve
 >
 >Hiermee wijzigt u alleen de weergavenaam in de overzichtsweergave. De naam van het element in uw programma blijft ongewijzigd.
 
-## De beschrijving van een item bewerken {#edit-an-entrys-description}
+## Beschrijving van item bewerken {#edit-an-entrys-description}
 
 1. Klik op het beschrijvingspictogram.
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. Bewerk je beschrijving. Klik op **Opslaan**.
+1. Bewerk je beschrijving. Klik **Opslaan**.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
@@ -43,7 +43,7 @@ U kunt de verschillende elementen van uw programma in de planningsmening uitgeve
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
-## De datum van een bericht bewerken {#edit-an-entrys-date}
+## Datum {#edit-an-entrys-date} van item bewerken
 
 1. Selecteer de nieuwe datum.
 
