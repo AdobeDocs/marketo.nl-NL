@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Het tabblad Middelen gebruiken {#using-the-assets-tab}
+# Het tabblad Elementen gebruiken {#using-the-assets-tab}
 
 Het canvas met elementen is een visuele weergave van uw programma. U kunt het gebruiken om lokale activa toe te voegen evenals met bestaande degenen in wisselwerking te staan.
 
-## Elementen toevoegen {#adding-assets}
+## Elementen {#adding-assets} toevoegen
 
-Klik in het gebied **Marketingactiviteiten** op het tabblad **Middelen** . Kies hieronder een van de elementen en voeg deze toe aan uw programma.
+Klik in het gebied **Marketingactiviteiten** op het tabblad **Middelen**. Kies hieronder een van de elementen en voeg deze toe aan uw programma.
 
 ![](assets/programassets.png)
 
-## Uw programma beheren  {#manage-your-program}
+## Uw programma {#manage-your-program} beheren
 
 Als er elementen in uw programma staan, worden deze hier weergegeven.
 
