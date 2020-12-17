@@ -19,7 +19,7 @@ Wilt u uw team bijwerken? U hebt twee opties om delen te selecteren:
 
    ![](assets/image2015-6-30-15-3a13-3a13.png)
 
-1. Tik op het kaartmenu en tik op **Delen** op het scherm Details.
+1. Tik op het kaartmenu en tik **Delen** op het scherm Details.
 
    ![](assets/image2015-7-15-9-3a0-3a35.png)
 
