@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Functies voor schatkist in- of uitschakelen {#enable-or-disable-treasure-chest-features}
+# {#enable-or-disable-treasure-chest-features}
 
 De Treasure Chest bevat leuke experimentele functies die niet volledig worden ondersteund.
 
@@ -19,11 +19,11 @@ De Treasure Chest bevat leuke experimentele functies die niet volledig worden on
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik onder **Admin **klik op **Schat**.
+1. Klik onder **Admin **click **Treasure Chest**.
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
-1. Klik op **Bewerken** voor de functie die u wilt in- of uitschakelen.
+1. Klik **Bewerken** voor de functie die u wilt in- of uitschakelen.
 
    ![](assets/image2014-9-16-16-3a53-3a42.png)
 
