@@ -17,7 +17,7 @@ Kijk hoe uw e-mailprogramma (met of zonder een A/B-test) met dit dashboard prest
 
 ## Selecteer uw e-mailprogramma {#select-your-email-program}
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -35,9 +35,9 @@ Als u een A/B-test hebt toegevoegd aan uw e-mailprogramma en de test momenteel w
 
 ![](assets/image2014-9-12-14-3a2-3a25.png)
 
-## E-mailprogrammaweergave {#email-program-view}
+## Weergave van e-mailprogramma {#email-program-view}
 
-Als u geen A/B-test hebt toegevoegd *of* als de test voorbij is, moet het volgende worden weergegeven:
+Als u geen A/B-test *of* hebt toegevoegd als de test voorbij is, moet het volgende worden weergegeven:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
