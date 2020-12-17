@@ -35,13 +35,13 @@ Deze flowstap kan worden gebruikt in Marketo-campagnes of als een enkele flowsta
    >
    >    
    >    
-   >    1. Zorg ervoor dat de [campagnecsync is ingeschakeld](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-   >    1. Bevestig dat uw gebruiker [](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) Marketo Sync een [marketinggebruiker](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) in Salesforce is.
+   >    1. Zorg ervoor [campagnecsync wordt toegelaten](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+   >    1. Bevestig dat uw [Marketo Sync User](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) een [Marketing User](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) in Salesforce is.
 
 
    >[!TIP]
    >
-   >Met de Salesforce-campagne [My Tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) kunt u het klonen van programma&#39;s eenvoudiger maken.
+   >U kunt de campagne van Salesforce [Mijn Tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) gebruiken om programma het klonen gemakkelijker te maken.
 
 1. Selecteer de status van het lid van de Salesforce-campagne dat u wilt toewijzen aan leads wanneer deze worden toegevoegd.
 
@@ -49,5 +49,5 @@ Deze flowstap kan worden gebruikt in Marketo-campagnes of als een enkele flowsta
 
    >[!CAUTION]
    >
-   >Als een persoon al een leidinggevend lid is van de Salesforce-campagne, worden ze overgeslagen en wordt hun status NIET bijgewerkt. In plaats daarvan kunt u hun status [wijzigen in een SFDC-campagne](change-status-in-sfdc-campaign.md) .
+   >Als een persoon al een leidinggevend lid is van de Salesforce-campagne, worden ze overgeslagen en wordt hun status NIET bijgewerkt. U kunt [hun status in een campagne gebruiken SFDC](change-status-in-sfdc-campaign.md) in plaats daarvan veranderen.
 
