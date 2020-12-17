@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Instellingen van gedrag voor analyse bewerken {#edit-analytics-behavior-settings}
+# Instellingen voor gedrag van analyse bewerken {#edit-analytics-behavior-settings}
 
-U kunt het [analytische gedrag op het beheerniveau op kanalen](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)instellen, maar u kunt het ook op programmaniveau bewerken. Zo gaat het.
+U kunt het [analytische gedrag op het admin niveau op kanalen ](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) plaatsen, maar u kunt het ook op het programmaniveau uitgeven. Zo gaat het.
 
 1. Ga naar Marketing Activiteiten.
 
