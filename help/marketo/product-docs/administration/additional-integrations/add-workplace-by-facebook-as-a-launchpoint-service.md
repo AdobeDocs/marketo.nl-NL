@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Workplace van Facebook toevoegen als een opstartpuntservice {#add-workplace-by-facebook-as-a-launchpoint-service}
+# Workplace door Facebook toevoegen als een LaunchPoint-service {#add-workplace-by-facebook-as-a-launchpoint-service}
 
 De Workplace-integratie bevat twee meldingstypen:
 
@@ -24,25 +24,25 @@ De Workplace-integratie bevat twee meldingstypen:
 
 >[!PREREQUISITES]
 >
->Neem [contact op met de ondersteuningsafdeling](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436)als Workplace Notifications nog niet zijn ingeschakeld.
+>Als u geen werkplaatberichten reeds hebt toegelaten, gelieve [steun ](http://docs.marketo.com/cdn-cgi/l/email-protection#5b282e2b2b34292f1b363a29303e2f3475383436) te contacteren.
 
-1. Ga naar **LaunchPoint**, dan onder **Nieuw** klik **Nieuwe Dienst**.
+1. Ga naar **LaunchPoint**, dan onder **New** klik **New Service**.
 
    ![](assets/image2017-11-27-14-3a13-3a18-1.png)
 
-1. Voer een weergavenaam in voor de integratie van uw werkplek. Selecteer in de vervolgkeuzelijst **Service** de optie **Workplace by Facebook**. Klik op **Maken**.
+1. Voer een weergavenaam in voor de integratie van uw werkplek. Selecteer **Werkplaats van Facebook** in de vervolgkeuzelijst **Service**. Klik **Maken**.
 
    ![](assets/newservice.png)
 
-1. Laat de opties ongewijzigd om systeemmeldingen en interessante momenten te ontvangen. Klik op **Maken**.
+1. Laat de opties ongewijzigd om systeemmeldingen en interessante momenten te ontvangen. Klik **Maken**.
 
    ![](assets/create.png)
 
-1. Klik op **Autoriseren**. Hiermee opent u Workplace op een nieuw tabblad, waar u de machtiging voltooit en Marketo toestemming geeft om informatie van Workplace te ophalen.
+1. Klik **Autoriseren**. Hiermee opent u Workplace op een nieuw tabblad, waar u de machtiging voltooit en Marketo toestemming geeft om informatie van Workplace te ophalen.
 
    ![](assets/authorize.png)
 
-1. Voer op het tabblad Nieuwe werkplek uw bedrijfs-e-mail- of Workplace-gebruikersnaam in en klik op **Doorgaan**.
+1. Voer op het nieuwe tabblad Werkplaats uw zakelijke e-mail- of Workplace-gebruikersnaam in en klik op **Doorgaan**.
 
    ![](assets/workplacelogin.png)
 
@@ -50,7 +50,7 @@ De Workplace-integratie bevat twee meldingstypen:
 
    ![](assets/workplacelogininfo.png)
 
-1. Kies in het pop-upvenster Werkplaats een Facebook-groep waarin u meldingen van Marketo wilt plaatsen (bijvoorbeeld Partnerintegratie). Klik op **Installeren**.
+1. Kies in het pop-upvenster Werkplaats een Facebook-groep waarin u meldingen van Marketo wilt plaatsen (bijvoorbeeld Partnerintegratie). Klik **Installeren**.
 
    ![](assets/installmarketo.png)
 
