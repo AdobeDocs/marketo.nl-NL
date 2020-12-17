@@ -15,27 +15,27 @@ ht-degree: 0%
 
 Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te voegen in uw e-mails.
 
-1. Selecteer uw programma en klik op **Mijn tokens**.
+1. Selecteer uw programma en klik **Mijn Tokens**.
 
    ![](assets/one-4.png)
 
-1. Selecteer de **Tekst** Mijn token, sleep deze naar het canvas.
+1. Selecteer **Tekst** Mijn token, sleep het naar het canvas.
 
    ![](assets/two-4.png)
 
-1. Geef de token een unieke naam, voer een URL in (zonder de map http://) en klik op **Opslaan**.
+1. Geef het token een unieke naam, voer een URL in (zonder de map http://) en klik op **Save**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Om ervoor te zorgen dat kliks in uw e-mail worden gevolgd, ga **niet** http:// binnen de waarde van het teken in.
+   >Om ervoor te zorgen dat kliks in uw e-mail worden gevolgd, doe **not** http:// binnen de waarde van het teken ingaan.
 
 1. Selecteer de e-mail in uw programma.
 
    ![](assets/four-3.png)
 
-1. Klik op Concept **** bewerken.
+1. Klik **Concept bewerken**.
 
    ![](assets/five-3.png)
 
@@ -51,7 +51,7 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
    >
    >U kunt natuurlijk ook &quot;https&quot; invoeren als uw site dit gebruikt.
 
-1. Zoek uw token, selecteer dit en klik op **Invoegen**.
+1. Bepaal de plaats van uw Mijn Token, selecteer het, en klik **Tussenvoegsel**.
 
    ![](assets/eight.png)
 
@@ -67,7 +67,7 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
 
    ![](assets/eleven.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/twelve.png)
 
