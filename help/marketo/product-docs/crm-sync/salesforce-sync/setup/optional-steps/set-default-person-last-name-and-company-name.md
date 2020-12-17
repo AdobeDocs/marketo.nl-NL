@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Achternaam en bedrijfsnaam voor standaardpersoon instellen {#set-default-person-last-name-and-company-name}
+# Standaardnaam persoon en bedrijfsnaam {#set-default-person-last-name-and-company-name} instellen
 
 Salesforce vereist (minimale) achternaam en bedrijfsnaam voor de bijbehorende leads en contactpersonen. Onvolledige records worden niet gesynchroniseerd met Salesforce. Als u gedeeltelijke verslagen wilt synchroniseren, moet u standaardwaarden voor Marketo voor gebruik met Salesforce plaatsen.
 
-1. Ga naar **Admin** en klik op **Salesforce**.
+1. Ga naar **Admin** en klik **Salesforce**.
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Klik op **Synchronisatieopties** bewerken.
+1. Klik **Synchronisatieopties bewerken**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Ga een achternaam **van de** Standaardpersoon en een **Standaard ****persoonbedrijf** in dan klik **sparen**.
+1. Voer een **achternaam standaardpersoon** en een **Standaard ****Personenbedrijf** in en klik vervolgens op **Opslaan**.
 
    ![](assets/sync-options-hands.png)
 
