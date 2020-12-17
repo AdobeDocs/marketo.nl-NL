@@ -23,7 +23,7 @@ Niet elk veld in Salesforce is nuttig voor marketing. U kunt de synchronisatiepr
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Voer **profielen** in op de zoekbalk en klik op **Profielen** onder Gebruikers **** beheren.
+1. Typ **profielen** in de zoekbalk en klik op **Profielen** onder **Gebruikers beheren**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,15 +31,15 @@ Niet elk veld in Salesforce is nuttig voor marketing. U kunt de synchronisatiepr
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Klik onder de sectie Beveiliging **op** veldniveau op **Weergeven** naast het object dat het doelveld bevat.
+1. Onder **Veld-Vlakke Veiligheid** sectie, klik **Mening** naast het voorwerp dat het doelgebied bevat.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
-1. Klik op **Bewerken**.
+1. Klik **Bewerken**.
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Schakel het selectievakje **Zichtbaar** uit naast het veld dat u wilt verbergen. Klik op **Opslaan**.
+1. Schakel het selectievakje **Visible** naast het veld dat u wilt verbergen uit. Klik **Opslaan**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
