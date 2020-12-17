@@ -29,11 +29,11 @@ Maak een presentatie om de kalenderweergaven en -doelen van uw team te projecter
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Klik op **Presentatiehandelingen** en selecteer **Nieuwe presentatie**.
+1. Klik **Presentatiehandelingen** en selecteer **Nieuwe presentatie**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 
-1. Kies een naam voor de presentatie. Klik op **Maken**.
+1. Kies een naam voor de presentatie. Klik **Maken**.
 
    ![](assets/image2015-3-18-12-3a32-3a30.png)
 
