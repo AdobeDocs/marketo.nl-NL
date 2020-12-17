@@ -23,11 +23,11 @@ De laatste stap bij het instellen van uw e-mailtest om deze goed te keuren. Zo g
 
 
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Klik met de rechtermuisknop op de **e-mailtest** en klik vervolgens op **Testen** goedkeuren.
+1. Zoek en klik met de rechtermuisknop op **E-mailtest** en klik vervolgens op **Test goedkeuren**.
 
    ![](assets/champion3.jpg)
 
@@ -36,11 +36,11 @@ De laatste stap bij het instellen van uw e-mailtest om deze goed te keuren. Zo g
    >**Herinnering**
    >
    >
-   >Wanneer u een **hele e-mailtest****** goedkeurt, moet u eerst de e-mail voor de reiziger goedkeuren.
+   >Bij het goedkeuren van een **Volledige e-mail**** **test, keur eerst de bezoekersmail goed.
 
    >[!NOTE]
    >
-   >Om de test te verzenden, verkies e-mail u de test aan in de **Send E-mail** stroomstap van uw trekkercampagne toevoegde. U kunt ook die e-mail invoegen in een stream van een betrokkenheidsprogramma. E-mails van Champion/Challenger werken niet in batchcampagnes.
+   >Om de test uit te verzenden, verkies e-mail u de test aan in **verzend E-mail** stroomstap van uw trekkercampagne toevoegde. U kunt ook die e-mail invoegen in een stream van een betrokkenheidsprogramma. E-mails van Champion/Challenger werken niet in batchcampagnes.
 
    Was dat niet makkelijk? Als je een paar rapporten ontvangt, wil je een kampioen uitroepen.
 
