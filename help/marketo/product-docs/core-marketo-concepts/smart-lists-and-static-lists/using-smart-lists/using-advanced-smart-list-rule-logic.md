@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Advanced Smart List Rule Logic gebruiken {#using-advanced-smart-list-rule-logic}
+# Advanced Smart List Rule Logic {#using-advanced-smart-list-rule-logic} gebruiken
 
 U kunt precies de mensen vinden u door slimme lijstregellogica op veelvoudige filters binnen een slimme lijst toe te passen nodig hebt. Zo gaat het.
 
@@ -30,19 +30,19 @@ U kunt precies de mensen vinden u door slimme lijstregellogica op veelvoudige fi
 
 ## Logica toevoegen aan een slimme lijst {#add-logic-to-a-smart-list}
 
-Standaard worden in uw slimme lijst de personen gevonden die overeenkomen met **ALLE** filters (filters 1 *en* 2 *en* 3). U kunt de regellogica veranderen om mensen te vinden die **OM het even welk** van de bepaalde filters (filters 1 *of* 2 *of* 3) aanpassen, of geavanceerde filters (filters 1 *en* 2 *of *3) gebruiken.
+Standaard vindt uw slimme lijst de personen die overeenkomen met **ALL** filters (filters 1 *en* 2 *en* 3). U kunt de regellogica veranderen om mensen te vinden die **ANY** van de bepaalde filters (filters 1 *of* 2 *of* 3) aanpassen, of geavanceerde filters (filters 1 *en* 2 *of *3) gebruiken.
 
-In dit voorbeeld, zeggen wij u mensen in Californië wilt vinden *en met een score van minstens 50 punten* of ** met een status van &quot;Gekwalificeerde Verkoop.&quot;
+In dit voorbeeld, zeggen wij u mensen in Californië *en* met een score van minstens 50 punten *of* met een status van &quot;Verkoop Gekwalificeerd.&quot;
 
-1. Selecteer **Gebruik** **Geavanceerde** **filters** van drop-down.
+1. Selecteer **Gebruik** **Geavanceerd** **filters** in de keuzelijst.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >Het gebruiken van **Geavanceerde** filters vermindert de behoefte om slimme lijsten met het Lid van Slimme filter van de Lijst tot stand te brengen. Hierdoor worden de prestaties geoptimaliseerd.
+   >Door het gebruik van **Geavanceerde** filters vermindert u de noodzaak om slimme lijsten te maken met het lid van het filter Slimme lijst. Hierdoor worden de prestaties geoptimaliseerd.
 
-1. In het tekstvak **Geavanceerde** **filters** wordt &quot;en&quot; weergegeven als de standaardwaarde tussen al uw filters.
+1. In het tekstvak **Geavanceerd** **filters** wordt &quot;en&quot; weergegeven als standaardwaarde tussen al uw filters.
 
    ![](assets/two-2.png)
 
@@ -64,7 +64,7 @@ Voor het mixen van logica &#39;and&#39; en &#39;of&#39; moeten ronde haakjes wor
 
 ![](assets/advancedfilters-parent.png)
 
-## Geneste ronde haakjes gebruiken voor vier of meer filters, indien nodig {#use-nested-parentheses-for-four-or-more-filters-if-needed}
+## Geneste haakjes gebruiken voor vier of meer filters indien nodig {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Afhankelijk van uw bedoeling, kunt u genestelde haakjes moeten toevoegen wanneer het gebruiken van vier of meer filters.
 
