@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De URL&#39;s van uw bestemmingspagina aanpassen met een CNAME (Beheer) {#customize-your-landing-page-urls-with-a-cname-administration}
+# Pas uw het landen pagina URLs met een CNAME (Beleid) {#customize-your-landing-page-urls-with-a-cname-administration} aan
 
 Alhoewel Marketo uw landingspagina&#39;s bewaart, zou URL voor uw bedrijf moeten worden aangepast.
 
@@ -43,11 +43,11 @@ Laten we je oprichten!
 
 1. Zoek de tekenreeks van uw account.
 
-1. Ga naar het **beheergebied** en klik op **Pagina&#39;s** landen.
+1. Ga naar **Admin** en klik op **Landing Pages**.
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. Kopieer onder het tabblad **Landingpagina** de accounttekenreeks uit het gedeelte Instellingen.
+1. Kopieer onder het tabblad **Landing Pages** de tekenreeks Account uit het gedeelte Settings.
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
@@ -55,13 +55,13 @@ Laten we je oprichten!
 
 1. Verzoek naar IT verzenden.
 
-1. Vraag uw personeel van IT om volgende CNAME (vervang het woord [CNAME] en de TEKENREEKS [van de] REKENING door de tekst van de vorige stap) te plaatsen:
+1. Vraag uw personeel van IT om volgende CNAME (vervang het woord [CNAME] en [ACCOUNT STRING] met de tekst van de vorige stap) te plaatsen:
 
-   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
 1. Volledige CNAME-instelling.
 
-1. Als uw IT-afdeling de CNAME heeft gemaakt, gaat u naar **Admin** en klikt u op **Landing Pages**.
+1. Zodra uw IT CNAME heeft gecreeerd, ga naar **Admin** en klik op **Landing Pages**.
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
 
@@ -69,7 +69,7 @@ Laten we je oprichten!
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
-1. Ga uw NAAM in de naam van het **Domein voor het Bestaan van Pagina**&#39;s in, ga uw pagina **van de** Fallback in, ga uw **Homepage** in, en klik **sparen**.
+1. Voer uw CNAME in **Domeinnaam voor Landing Pages** in, voer uw **Fallback-pagina** in, voer uw **Homepage** in en klik op **Opslaan**.
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
