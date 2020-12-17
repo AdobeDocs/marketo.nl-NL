@@ -17,11 +17,11 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Klik op Handelingen **persoon** en **Microsoft en selecteer Person** synchroniseren met Microsoft ****.
+1. Klik **Personacties** en **Microsoft,** en selecteer **Persoon synchroniseren naar Microsoft**.
 
    ![](assets/two.png)
 
-1. Klik op **Synchroniseren als** en selecteer **Contactpersoon**. Klik op **Nu** uitvoeren.
+1. Klik **Synchroniseren als** en selecteer **Contact**. Klik **Nu uitvoeren**.
 
    ![](assets/three.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. Nu kunt u **Contact** selecteren wanneer u de Synchronisatie als beperking in een slimme campagnefilter gebruikt.
+1. Nu, kunt u **Contact** selecteren wanneer u de Synchronisatie als beperking in een slimme campagnefilter gebruikt.
 
    ![](assets/five.png)
 
