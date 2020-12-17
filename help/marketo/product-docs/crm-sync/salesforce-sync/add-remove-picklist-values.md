@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Hier volgen een paar zaken over het toevoegen en verwijderen van picklist-waarden in Salesforce.
 
-## Picklist-waarden toevoegen {#adding-picklist-values}
+## Picklist-waarden {#adding-picklist-values} toevoegen
 
-1. Als in Salesforce een extra waarde wordt toegevoegd aan een veldtype picklist, ontvangt u een [melding](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) waarin wordt aangegeven op welke formulieren dit van invloed is.
+1. Als een extra waarde in Salesforce aan een picklist gebiedtype wordt toegevoegd, zult u [bericht](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identificerend ontvangen welke vormen dit zal beïnvloeden.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
 1. Ga naar de formuliereditor en [voeg de extra waarde](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) toe aan de lijst met suggesties.
 
-## Picklist-waarden verwijderen {#remove-picklist-values}
+## Picklist-waarden {#remove-picklist-values} verwijderen
 
 Wanneer een keuzelijstwaarde wordt verwijderd uit een veld in Salesforce, moet u deze waarde handmatig verwijderen uit alle formulieren die als host fungeren voor dit veld.
 
