@@ -17,9 +17,9 @@ Voeg een extra branding domein toe wanneer u veelvoudige merken uit één enkele
 
 >[!PREREQUISITES]
 >
->U moet de generische het volgen verbinding [met een branded domein](edit-your-default-branding-domain.md) vervangen alvorens extra branded domeinen toe te voegen.
+>U moet [de generische volgende verbinding](edit-your-default-branding-domain.md) met een branded domein vervangen alvorens extra branded domeinen toe te voegen.
 
-1. Klik in Mijn Marketo op **Admin **en vervolgens op de koppeling **E-mail** .
+1. In Mijn Marketo, klik **Admin **en toen **e-mail** verbinding.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
@@ -27,13 +27,13 @@ Voeg een extra branding domein toe wanneer u veelvoudige merken uit één enkele
 
    ![](assets/two.png)
 
-1. Voer de naam van uw nieuwe brandingdomein in en klik op **Opslaan**.
+1. Voer de naam van het nieuwe brandingdomein in en klik op **Opslaan**.
 
    ![](assets/three.png)
 
 >[!NOTE]
 >
->U kunt ervoor kiezen om dit uw primaire domein te maken, en alle bestaande niet-verzonden e-mails die zijn ingesteld op Standaard en alle nieuwe e-mailberichten die zijn gemaakt, worden standaard ingesteld op het primaire domein. U kunt dit per e-mail [overschrijven](overwrite-primary-domain-for-emails.md).
+>U kunt ervoor kiezen om dit uw primaire domein te maken, en alle bestaande niet-verzonden e-mails die zijn ingesteld op Standaard en alle nieuwe e-mailberichten die zijn gemaakt, worden standaard ingesteld op het primaire domein. U kunt [dit per e-mail overschrijven](overwrite-primary-domain-for-emails.md).
 
 >[!NOTE]
 >
