@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een terugkerende batchcampagne plannen {#schedule-a-recurring-batch-campaign}
+# Een terugkerende batchcampagne {#schedule-a-recurring-batch-campaign} plannen
 
 Met Herhaling kunt u een batchslimme campagne volgens een regelmatig schema uitvoeren. Bijvoorbeeld - eenmaal per week, maandag om 12.00 uur.
 
