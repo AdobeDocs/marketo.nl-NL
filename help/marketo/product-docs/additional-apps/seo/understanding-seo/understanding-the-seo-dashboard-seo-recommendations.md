@@ -19,9 +19,9 @@ U kunt ook nagaan hoe u het gebruik van de sectie Recommendations kunt verbetere
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## Problemen met optimalisatie van de bovenste pagina {#top-page-optimization-issues}
+## Problemen bij optimalisatie van de bovenste pagina {#top-page-optimization-issues}
 
-Zo ziet u vijf belangrijke manieren om uw site meteen te optimaliseren! Klik op een van de koppelingen om de volledige [pagina met details omlaag](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)weer te geven.
+Zo ziet u vijf belangrijke manieren om uw site meteen te optimaliseren! Klik enkel op om het even welke verbindingen om volledige [boor van het Detail van de Pagina neer](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) te bekijken.
 
 >[!TIP]
 >
@@ -29,7 +29,7 @@ Zo ziet u vijf belangrijke manieren om uw site meteen te optimaliseren! Klik op 
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
-## Beste koppelingsmogelijkheden {#top-link-opportunities}
+## Beste verbindingsmogelijkheden {#top-link-opportunities}
 
 Door betrouwbare sites aan uw inhoud te koppelen, kunt u uw paginanummer verhogen. Hier zijn enkele van de mogelijkheden met de hoogste prioriteit die we voor uw site hebben gevonden.
 
