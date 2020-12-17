@@ -31,21 +31,21 @@ Wijs de rol Marketo Sync User alleen toe aan Marketo Sync user. U hoeft het niet
 
 >[!NOTE]
 >
->Dit geldt voor Marketo versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om uw Marketo te bevorderen, zie [Verbetering de Oplossing van de Marketo voor de Dynamiek](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)van Microsoft.
+>Dit geldt voor Marketo versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om uw Marketo te bevorderen, zie [Upgrade de Oplossing van de Marketo voor de Dynamica van Microsoft](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Klik onder **Instellingen** op **Beveiliging**.
 
    ![](assets/assign1.png)
 
-1. Klik op **Gebruikers**.
+1. Klik **Users**.
 
    ![](assets/assign2.png)
 
-1. Hier wordt een lijst met gebruikers weergegeven. Selecteer de specifieke Marketo Sync gebruiker of contacteer uw [Actieve beheerder van de Federatie van de Folder van de Diensten](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS) om een specifieke gebruiker voor Marketo tot stand te brengen.
+1. Hier wordt een lijst met gebruikers weergegeven. Selecteer de specifieke Marketo Sync gebruiker of neem contact op met uw [Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx)(ADFS) beheerder om een speciale gebruiker voor Marketo te maken.
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
-1. Selecteer de synchronisatiegebruiker. Klik op Rollen **beheren**.
+1. Selecteer de synchronisatiegebruiker. Klik **Rollen beheren**.
 
    ![](assets/assign4.png)
 
@@ -59,9 +59,9 @@ Wijs de rol Marketo Sync User alleen toe aan Marketo Sync user. U hoeft het niet
 
    >[!NOTE]
    >
-   >Updates die door de synchronisatiegebruiker in uw CRM worden uitgevoerd, worden **niet** weer gesynchroniseerd met Marketo.
+   >Om het even welke updates die in uw CRM door de Gebruiker van de Synchronisatie worden gemaakt zullen **not** worden gesynchroniseerd terug naar Marketo.
 
-## Marketo-oplossing configureren {#configure-marketo-solution}
+## Marketo-oplossing {#configure-marketo-solution} configureren
 
 Bijna klaar! We hebben slechts een paar laatste stukken configuratie voordat we naar het volgende artikel gaan.
 
@@ -71,13 +71,13 @@ Bijna klaar! We hebben slechts een paar laatste stukken configuratie voordat we 
 
    >[!NOTE]
    >
-   >Vernieuw de pagina als Marketo Config ontbreekt. Als de kwestie voortduurt, [publiceer de Oplossing](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) van de Marketo of probeer het programma openen en terug binnen.
+   >Vernieuw de pagina als Marketo Config ontbreekt. Als de kwestie voortduurt, [publiceer de Oplossing van het Marketo](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) of probeer het programma openen en terug binnen.
 
-1. Klik op **Standaard**.
+1. Klik **Standaard**.
 
    ![](assets/configure2.png)
 
-1. Klik op het veld **Marketo-gebruiker** en selecteer de synchronisatiegebruiker.
+1. Klik op het veld **Marketo User** en selecteer de synchronisatiegebruiker.
 
    ![](assets/configure3.png)
 
@@ -85,13 +85,13 @@ Bijna klaar! We hebben slechts een paar laatste stukken configuratie voordat we 
 
    ![](assets/configure4.png)
 
-1. Klik op Alle aanpassingen **publiceren**.
+1. Klik **Alle aanpassingen publiceren**.
 
    ![](assets/publish-all-customizations1.png)
 
-## Voordat u verdergaat met stap 3 {#before-proceeding-to-step}
+## Voordat u doorgaat naar stap 3 {#before-proceeding-to-step}
 
-* Als u het aantal records dat u synchroniseert wilt beperken, [stelt u nu een aangepast synchronisatiefilter](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) in.
+* Als u het aantal records dat u synchroniseert wilt beperken, [moet u nu een aangepast synchronisatiefilter](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) instellen.
 * Voer het proces [Validate Microsoft Dynamics Sync](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) uit. Hierbij wordt gecontroleerd of de eerste instellingen correct zijn uitgevoerd.
 * Log in de Marketo Sync User in Microsoft Dynamics CRM.
 
