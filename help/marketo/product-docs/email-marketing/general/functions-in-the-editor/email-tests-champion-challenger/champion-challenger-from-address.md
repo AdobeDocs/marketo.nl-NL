@@ -23,7 +23,7 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
 
 
 
-1. In de e-mailtestredacteur, uitgezochte **Van Adres** in **Test Type **drop-down.
+1. Selecteer **Van adres** in de e-mailtesteditor in de vervolgkeuzelijst **Test Type **Testen.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
@@ -52,7 +52,7 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
 
    Om statistisch vertrouwen te winnen, zeker bent u een percentage kiest dat genoeg mensen omvat dat uw test geldig is. Wees niet misleid door onovertuigende resultaten.  [Meer informatie dan je ooit wilde over statistisch vertrouwen](http://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
