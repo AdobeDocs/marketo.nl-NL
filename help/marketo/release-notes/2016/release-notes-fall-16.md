@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: Herfst &#39;16 {#release-notes-fall}
+# Opmerkingen bij de release: &#39;16 {#release-notes-fall}
 
 De volgende functies zijn opgenomen in de Fall &#39;16-release. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid. Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven.
 
@@ -53,7 +53,7 @@ Nu, kunt u rekeningsteams aan genoemde rekeningen in Account Based Marketing (AB
 
 **REST API**
 
-Met deze release kunt u ook benoemde accountkenmerken en accountscores in ABM beheren met de Marketo REST-API. Ga voor meer informatie over de API-bewerkingen naar de website [](http://developers.marketo.com/rest-api/lead-database/named-accounts)Marketo Developers.
+Met deze release kunt u ook benoemde accountkenmerken en accountscores in ABM beheren met de Marketo REST-API. Ga voor meer informatie over de API-bewerkingen naar de website [Marketo Developers](http://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Verbeteringen audittrail](../../product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -67,7 +67,7 @@ Gone is de dagen dat u zich zorgen moest maken over het verzenden van transactie
 
 **Campagnebeperkingen bewerken**
 
-Waarom [campagnebeperkingen](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) instellen als je ze niet kunt afdwingen? Wanneer u de Montages van de Grens van de Campagne plaatst om het aantal mensen in uw gegevensbestand te beperken die met één enkele campagne kunnen worden gericht, hebt u nu de capaciteit om te beperken welke gebruikers deze montages kunnen met voeten treden wanneer het plannen van een campagne.
+Waarom [campagnebeperkingen ](http://docs.marketo.com/display/DOCS/Enable+Lead+Restrictions+for+Smart+Campaigns) plaatsen als u hen niet kunt afdwingen? Wanneer u de Montages van de Grens van de Campagne plaatst om het aantal mensen in uw gegevensbestand te beperken die met één enkele campagne kunnen worden gericht, hebt u nu de capaciteit om te beperken welke gebruikers deze montages kunnen met voeten treden wanneer het plannen van een campagne.
 
 ## [Geluid voor mobiele pushberichten](../../product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -86,7 +86,7 @@ Maak uw iOS-pushmelding rijker door geluid in te schakelen. Met deze nieuwe func
 
 ## [Verkoopinzicht compatibel met Salesforce Encryption](../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Marktverkoopcontrole is nu compatibel met Salesforce Shield Encryption. Alle klanten van het Inzicht van de Verkoop zouden aan dit recentste beheerde pakket (versie 1.4359.2) moeten bevorderen, dat op Appexchange [](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)beschikbaar is.
+Marktverkoopcontrole is nu compatibel met Salesforce Shield Encryption. Alle klanten van het Inzicht van de Verkoop zouden aan dit recentste beheerde pakket (versie 1.4359.2) moeten bevorderen, dat [beschikbaar op Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) is.
 
 ## [API&#39;s voor benoemde accounts](http://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
