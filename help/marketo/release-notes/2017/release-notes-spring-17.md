@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: Lente 17 {#release-notes-spring}
+# Opmerkingen bij de release: Lente &#39;17 {#release-notes-spring}
 
 De volgende functies zijn opgenomen in de release van het voorjaar van 17. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
 
@@ -19,9 +19,9 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 ## [LinkedIn Gen Forms](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-forms}
 
-[LinkedIn Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) is een directere manier voor een bedrijf om loodgeneratiecampagnes op LinkedIn te voeren. Mensen kunnen formulieren invullen om belangstelling voor een product of service uit te drukken, zodat het bedrijf de details van de persoon kan vastleggen en deze kan synchroniseren met Marketo, waar geautomatiseerde follow-upprocessen en routering van leads kunnen plaatsvinden.
+[LinkedIn Gen ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Formsare een directere manier voor een bedrijf om de generatiecampagnes van de lood op LinkedIn in werking te stellen. Mensen kunnen formulieren invullen om belangstelling voor een product of service uit te drukken, zodat het bedrijf de details van de persoon kan vastleggen en deze kan synchroniseren met Marketo, waar geautomatiseerde follow-upprocessen en routering van leads kunnen plaatsvinden.
 
-De integratie van Marketo met LinkedIn Gen Forms legt automatisch de informatie vast die een lead verschaft in het Gen-leadformulier. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe trigger en het filter LinkedIn- **lead-Gen-formulier** invullen.
+De integratie van Marketo met LinkedIn Gen Forms legt automatisch de informatie vast die een lead verschaft in het Gen-leadformulier. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe trigger en het filter **LinkedIn Lead Gen Form** invullen.
 
 ![](assets/release-notes-image.png)
 
@@ -45,11 +45,11 @@ Breng eenvoudig grote hoeveelheden personen- en activiteitsgegevens over van Mar
 
 Met Marketo ABM kunt u nu maximaal 10 aangepaste velden maken op uw benoemde accounts. U kunt deze Aangepaste velden toewijzen aan velden in uw CRM-accountobject en Marketo ABM synchroniseert de gegevens, zodat u uw ABM-benoemde accounts kunt uitbreiden en uw marketing kunt stimuleren.
 
-** [Percentage scores op ABM-benoemde accounts](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+** [Percentiele scores op ABM Benoemde accounts](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 De score voor benoemde accounts kan sterk variëren. Marketo ABM berekent nu automatisch een percentiel voor elk van uw scores, zodat u in een oogopslag kunt zien waar elke Benoemde Rekening onder uw andere Benoemde Rekeningen rangschikt.
 
-** API&#39;s [ABM-accountlijst](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [ABM-accountlijst-API&#39;s](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Profiteer van uitgebreide en robuuste integratie van ABM-partners met verbeterde API-ondersteuning voor benoemde accountlijsten.
 
@@ -75,13 +75,13 @@ Plaats de animatie gevolgen voor uw Campagne van het Web van de Dialoog om aan t
 
 ![](assets/animationoptins.png)
 
-** [Dialoogvenster Aanpassing knop sluiten](https://docs.marketo.com/x/JgNI)**
+** [Dialoogknop Aanpassing sluiten](https://docs.marketo.com/x/JgNI)**
 
 Pas de knop Sluiten voor dialoogvensters aan. Maak een keuze uit een reeks opties die worden gebruikt in de webcampagnes van de stijl van het dialoogvenster Transparant. Selecteer het pictogram, de kleur en de positie voor de knop Sluiten. U kunt ook uw eigen knopafbeelding toevoegen.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
-** [Webcampagnes](https://docs.marketo.com/x/_grG)archiveren**
+** [Webcampagnes archiveren](https://docs.marketo.com/x/_grG)**
 
 Archief is een nieuwe status van de Campagne van het Web die u toestaat om de Campagnes van het Web te archiveren en hen te verbergen van de standaardmening van de Campagne van het Web. Zo kunt u zich richten op uw meest relevante, actieve campagnes en oudere gearchiveerde campagnes op aanvraag ophalen.
 
