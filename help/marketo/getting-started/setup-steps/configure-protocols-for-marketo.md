@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# Protocollen voor Marketo configureren {#configure-protocols-for-marketo}
+# Protocollen configureren voor markeerteken {#configure-protocols-for-marketo}
 
 Uw marketinggroep maakt gebruik van Marketo om pagina&#39;s en e-mails met brandingcampagne te maken. Om ervoor te zorgen dat die landingspagina&#39;s en e-mails werken, hebben ze een beetje hulp van IT nodig. Stel de volgende protocollen in met de informatie die uw marketinggroep u per e-mail had moeten sturen.
 
@@ -35,16 +35,16 @@ Uw marketing team zou u twee verzoeken om nieuwe verslagen van CNAME moeten hebb
 
 `1` **CNAME toevoegen voor bestemmingspagina&#39;s**
 
-Voeg de het landen pagina CNAME toe zij u naar uw DNS verslag hebben verzonden, zodat `[YourLandingPageCNAME]` richt aan het unieke Koord van de Rekening dat aan uw Marketo landende pagina&#39;s wordt toegewezen. Meld u aan bij de site van uw domeinregistrar en voer de landingspagina CNAME en accounttekenreeks in. Dit betreft meestal drie velden:
+Voeg de openingspagina CNAME toe die zij u naar uw DNS verslag hebben verzonden, zodat `[YourLandingPageCNAME]` aan het unieke Koord van de Rekening richt dat aan uw Marketo landende pagina&#39;s wordt toegewezen. Meld u aan bij de site van uw domeinregistrar en voer de landingspagina CNAME en accounttekenreeks in. Dit betreft meestal drie velden:
 
-* Alias: Enter `[YourLandingPageCNAME]` (opgegeven door marketing)
+* Alias: Voer `[YourLandingPageCNAME]` in (opgegeven door marketing)
 * Type: CNAME
-* Wijs aan: Enter `[MarketoAccountString].mktoweb.com` (opgegeven door marketing)
+* Wijs aan: Voer `[MarketoAccountString].mktoweb.com` in (opgegeven door marketing)
 
 `2` **CNAME toevoegen voor koppelingen voor e-mailtracking**
 
-Voeg de e-mailmarketing van CNAME toe die u hebt verzonden, zodat `[YourEmailCNAME]` punten naar [MktoTrackingLink], de standaard volgende koppeling die Marketo heeft toegewezen, in het formaat:\
-`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
+Voeg de e-mailmarketing toe die u van CNAME, zodat `[YourEmailCNAME]` richt aan [MktoTrackingLink], de standaard volgende verbinding die Marketo, in het formaat toewees:\
+`[YourEmailCNAME].[YourDomain].com` IN CNAME  `[MktoTrackingLink]`
 
 Bijvoorbeeld:
 
@@ -91,11 +91,11 @@ Uw marketingteam had u ook DKIM-informatie moeten sturen die u wilt toevoegen aa
 
 1. Voor DKIM, creeer DNS Verslagen van het Middel voor elk domein wij zouden willen opstelling. Hieronder zijn de Verslagen van de Gastheer en de Waarden TXT voor elk domein wij zullen ondertekenen voor:
 
-   `[DKIMDomain1]`: Hostrecord is `[HostRecord1]` en de TXT-waarde is `[TXTValue1]`.
+   `[DKIMDomain1]`: Hostrecord is  `[HostRecord1]` en de TXT-waarde is  `[TXTValue1]`.
 
-   `[DKIMDomain2]`: Hostrecord is `[HostRecord2]` en de TXT-waarde is `[TXTValue2]`.
+   `[DKIMDomain2]`: Hostrecord is  `[HostRecord2]` en de TXT-waarde is  `[TXTValue2]`.
 
-   Kopieer HostRecord en TXTValue voor elke DKIMDomain u opstelling na het volgen van de [instructies hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)hebt. Vergeet niet om elk domein in Admin > E-mail > DKIM te verifiëren nadat uw personeel van IT deze stap heeft voltooid.
+   Kopieer HostRecord en TXTValue voor elke DKIMDomain u opstelling na het volgen van [instructies hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md) hebt. Vergeet niet om elk domein in Admin > E-mail > DKIM te verifiëren nadat uw personeel van IT deze stap heeft voltooid.
 
 ## Stap 4: MX-records instellen voor uw domein {#step-set-up-mx-records-for-your-domain}
 
