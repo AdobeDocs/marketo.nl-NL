@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Nadat u een douanevoorwerp hebt gecreeerd, moet u gebieden aan het toevoegen om aan uw bedrijfsbehoeften te voldoen.
 
-Velden definiëren de specifieke informatie die door een aangepast object wordt gebruikt. Koppelingsvelden hebben een speciale taak, om aangepaste objecten te verbinden, en worden behandeld in een [afzonderlijk artikel](add-marketo-custom-object-link-fields.md).
+Velden definiëren de specifieke informatie die door een aangepast object wordt gebruikt. De gebieden van de verbinding hebben een speciale baan, om douanevoorwerpen aan te sluiten, en zijn behandeld in [afzonderlijk artikel](add-marketo-custom-object-link-fields.md).
 
-1. Klik **Admin**, en in het Beheer **van het** Gegevensbestand, selecteer **Marketo Douane Voorwerpen**.
+1. Klik **Admin**, en in **Databasebeheer**, selecteer **Marketo Custom Objects**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -60,7 +60,7 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
    >**Herinnering**
    >
    >
-   >Als u een een-op-vele structuur bouwt, moet u een gebied van de Verbinding aan uw douanevoorwerp toevoegen. Voor een vele-aan-vele structuur, hebt u geen verbindingsgebied in het douanevoorwerp nodig, maar u moet twee verbindingsgebieden in het intermediaire voorwerp toevoegen. Zie Marketo [toevoegen aan aangepaste objectkoppelingsvelden](add-marketo-custom-object-link-fields.md) om de koppelingsvelden te maken en [Inzicht in aangepaste objecten](understanding-marketo-custom-objects.md) markeren voor meer informatie over typen aangepaste objecten.
+   >Als u een een-op-vele structuur bouwt, moet u een gebied van de Verbinding aan uw douanevoorwerp toevoegen. Voor een vele-aan-vele structuur, hebt u geen verbindingsgebied in het douanevoorwerp nodig, maar u moet twee verbindingsgebieden in het intermediaire voorwerp toevoegen. Zie [Markeren toevoegen aan aangepaste objectkoppelingsvelden](add-marketo-custom-object-link-fields.md) om de koppelingsvelden te maken en [Inzicht in aangepaste objecten markeren](understanding-marketo-custom-objects.md) voor meer informatie over typen aangepaste objecten.
 
 >[!MORELIKETHIS]
 >
