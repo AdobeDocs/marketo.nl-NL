@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Details van item weergeven {#view-entry-details}
+# Itemdetails tonen {#view-entry-details}
 
 Wanneer u ingangsdetails in de Kalender van de Marketing bekijkt, kunt u alle soorten koele dingen over een ingang zien.
 
