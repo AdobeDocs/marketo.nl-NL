@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt een betrokkenheidsprogramma uitschakelen met de klik op een switch. Hiermee voorkomt u dat inhoud wordt verzonden. Zo gaat het.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,11 +27,11 @@ U kunt een betrokkenheidsprogramma uitschakelen met de klik op een switch. Hierm
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Dubbelklik op **Program Status**.
+1. Dubbelklik **Programmastatus**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. Selecteer **Uit** en klik op **Opslaan**.
+1. Selecteer **Uit** en klik **Opslaan**.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
