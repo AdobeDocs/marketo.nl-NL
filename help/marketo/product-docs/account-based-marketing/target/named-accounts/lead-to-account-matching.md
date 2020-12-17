@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Lood naar overeenkomst met account {#lead-to-account-matching}
+# Regelafstand tot overeenkomst van account {#lead-to-account-matching}
 
 Met een overeenkomst van rechts leidt u naar accounts met een rechternaam die gebruikmaken van Afleiding naar account afstemmen.
 
 >[!NOTE]
 >
->**Lood-aan-Account Matching** is een ingebouwde eigenschap van Marketo Account Gebaseerde Marketing. Het gebruikt vage logica om automatisch gelijke leidt tot de juiste genoemde rekeningen in bijna real time aan te passen. Deze genoemde rekeningen kunnen CRM-rekeningen of Marketo-ondernemingen zijn.
+>**Lood-aan-Account** Matchingis een ingebouwde eigenschap van Marketo Account Gebaseerde Marketing. Het gebruikt vage logica om automatisch gelijke leidt tot de juiste genoemde rekeningen in bijna real time aan te passen. Deze genoemde rekeningen kunnen CRM-rekeningen of Marketo-ondernemingen zijn.
 
 Marketo-overeenkomst tussen leads en accounts volgt een proces van vier stappen:
 
@@ -33,13 +33,13 @@ Marketo-overeenkomst tussen leads en accounts volgt een proces van vier stappen:
 
 * Zwak overeenkomende leads worden weergegeven op de benoemde accounts die vervolgens handmatig kunnen worden opgelost.
 
-**Stap 4 -** We presenteren een lijst met voorgestelde bedrijven met sterke en zwakke overeenkomsten. Wanneer een benoemde account wordt gemaakt op basis van een van de voorgestelde bedrijven, maken we matchingsregels om automatisch nieuwe leads (bijvoorbeeld lead completed a form) te koppelen die naar de juiste benoemde accounts gaan. Op deze manier kunt u zich minder zorgen maken over overeenkomende leads en meer over het verkrijgen van inkomsten.
+**Stap 4 -** Wij presenteren een lijst van voorgestelde bedrijven met sterke en zwakke overeenkomsten. Wanneer een benoemde account wordt gemaakt op basis van een van de voorgestelde bedrijven, maken we matchingsregels om automatisch nieuwe leads (bijvoorbeeld lead completed a form) te koppelen die naar de juiste benoemde accounts gaan. Op deze manier kunt u zich minder zorgen maken over overeenkomende leads en meer over het verkrijgen van inkomsten.
 
 Aangezien Marketo Lead-to-Account matching een ingebouwde functie is van Marketo Account Based Marketing, vindt matching van accounts plaats in bijna realtime (bijvoorbeeld wanneer een lead een Marketo-formulier invult, wordt gezegd dat lead met de rechteraccount is gekoppeld). Deze gebeurtenis kan worden gebruikt om waarschuwingen te activeren en rekeninghouders op de hoogte te stellen van de nieuwe leads die vanuit hun benoemde accounts worden ontvangen.
 
 >[!NOTE]
 >
->Als u LeanData in Salesforce gebruikt om Lood-aan-Rekening aanpassing te doen, heeft Marketo een integratie die die gelijken aan uw instantie van Marketo zal synchroniseren. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support)als u deze functie wilt inschakelen.
+>Als u LeanData in Salesforce gebruikt om Lood-aan-Rekening aanpassing te doen, heeft Marketo een integratie die die gelijken aan uw instantie van Marketo zal synchroniseren. Neem contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) als u deze functie wilt inschakelen.
 
 >[!MORELIKETHIS]
 >
