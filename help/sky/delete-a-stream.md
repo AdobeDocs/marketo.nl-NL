@@ -20,7 +20,7 @@ Als u ooit een stream uit uw betrokkenheidsprogramma moet verwijderen, voert u d
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-1.png)
 
-1. Klik op het **[!UICONTROL Streams]** tabblad.
+1. Klik op het tabblad **[!UICONTROL Streams]**.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/delete-a-stream/delete-a-stream-2.png)
 
