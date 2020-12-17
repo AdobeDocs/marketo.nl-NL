@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Licentie voor een marketingkalender uitgeven/intrekken {#issue-revoke-a-marketing-calendar-license}
+# Licentie {#issue-revoke-a-marketing-calendar-license} voor een marketingkalender uitgeven/intrekken
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-Als u gebruik wilt maken van uw [licenties voor de marketingkalender](http://docs.marketo.com/display/docs/marketing+calendar) , moet u licenties verlenen aan gebruikers die toegang nodig hebben. Zo gaat het.
+Als u uw [Marketing Calendar](http://docs.marketo.com/display/docs/marketing+calendar) licenties wilt gebruiken, moet u licenties uitgeven voor gebruikers die toegang nodig hebben. Zo gaat het.
 
-1. Ga naar de sectie **Beheer** .
+1. Ga naar **Admin** sectie.
 
    ![](assets/adminhand.png)
 
@@ -27,15 +27,15 @@ Als u gebruik wilt maken van uw [licenties voor de marketingkalender](http://doc
 
    ![](assets/2.png)
 
-1. Selecteer de gebruiker(s) en klik op Licentie **uitgeven.**
+1. Selecteer de gebruiker(s) en klik op **Licentie uitgeven.**
 
    >[!TIP]
    >
-   >Gebruik **Ctrl/Cmd en klik** om meerdere gebruikers tegelijk te selecteren.
+   >Gebruik **Ctrl/Cmd+click** om meerdere gebruikers in één keer te selecteren.
 
    ![](assets/3.png)
 
-1. Schakel Licentie **** inschakelen in en klik op **Opslaan.**
+1. Schakel **Licentie inschakelen** in en klik op **Opslaan.**
 
    >[!NOTE]
    >
