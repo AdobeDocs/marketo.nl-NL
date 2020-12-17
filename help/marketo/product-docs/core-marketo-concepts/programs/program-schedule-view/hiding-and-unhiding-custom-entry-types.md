@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Aangepaste invoertypen kunnen worden verborgen in de sectie Beheer. Als het invoertype eenmaal is verborgen, wordt het niet meer weergegeven als een optie.
 
-## Type aangepaste invoer verbergen {#hide-a-custom-entry-type}
+## Een aangepast invoertype verbergen {#hide-a-custom-entry-type}
 
-1. Ga naar de sectie **Admin** en klik **Kalender** **Invoertypen** ****.
+1. Ga naar **Admin** sectie en klik **Kalender** **Ingang** **Types**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
@@ -27,11 +27,11 @@ Aangepaste invoertypen kunnen worden verborgen in de sectie Beheer. Als het invo
 
    Geweldig. Dit ingangstype is niet meer beschikbaar voor gebruik.
 
-## Een type aangepast item onthullen {#unhide-a-custom-entry-type}
+## Een aangepast invoertype {#unhide-a-custom-entry-type} verbergen
 
 Als u een type van douaneingang wilt losmaken, is dat ook gemakkelijk.
 
-1. Klik met de rechtermuisknop op de invoer en selecteer **Verbergen** ongedaan maken.
+1. Klik met de rechtermuisknop op de invoer en selecteer **Verbergen ongedaan maken**.
 
    ![](assets/image2014-9-24-10-3a12-3a14.png)
 
