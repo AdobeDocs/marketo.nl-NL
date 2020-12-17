@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Als u extra en persoonspecifieke parameters in uw koppelingen wilt invoegen, kunt u tokens gebruiken. Zo gaat het.
 
-1. Selecteer uw e-mail en klik op het tabblad Concept **** bewerken.
+1. Selecteer uw e-mail en klik **Concept** tabel uitgeven.
 
    ![](assets/one.png)
 
@@ -23,15 +23,15 @@ Als u extra en persoonspecifieke parameters in uw koppelingen wilt invoegen, kun
 
    ![](assets/two.png)
 
-1. Zoek of schrijf de tekst voor de koppeling. Markeer de koppeling en klik op het pictogram Koppeling **** invoegen/bewerken.
+1. Zoek of schrijf de tekst voor de koppeling. Markeer de koppeling en klik op het pictogram **Koppeling invoegen/bewerken**.
 
    ![](assets/three.png)
 
-1. Typ de gewenste token(s) in de **URL** en klik op **Invoegen**.
+1. Typ de gewenste token(s) in **URL** en klik op **Insert**.
 
    ![](assets/four.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/five.png)
 
