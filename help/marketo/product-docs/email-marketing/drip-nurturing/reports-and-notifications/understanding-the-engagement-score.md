@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# De betrokkenheidsscore begrijpen {#understanding-the-engagement-score}
+# De betrokkenheidsscore {#understanding-the-engagement-score} begrijpen
 
-Met de betrokkenheidsscore kunt u eenvoudig zien hoe effectief de inhoud in uw betrokkenheidsprogramma is. De score loopt van 0 tot en met 100. Bekijk [het dashboard](the-engagement-dashboard.md) Betrokkenheid om te zien hoe u de prestaties van uw inhoud kunt volgen.
+Met de betrokkenheidsscore kunt u eenvoudig zien hoe effectief de inhoud in uw betrokkenheidsprogramma is. De score loopt van 0 tot en met 100. Bekijk [het dashboard Betrokkenheid](the-engagement-dashboard.md) om te zien hoe u de prestaties van uw inhoud kunt volgen.
 
 ![](assets/image2014-9-25-16-3a24-3a54.png)
 
@@ -23,7 +23,7 @@ De score is gebaseerd op een eigen algoritme dat rekening houdt met betrokken ge
 
 >[!NOTE]
 >
->Wanneer programma&#39;s als inhoud in streams worden gebruikt, is de betrokkenheidsscore gebaseerd op het lidmaatschap en de successtatus van het programma en **niet** op e-mailinteractie (klik, open, afmelding).
+>Wanneer programma&#39;s als inhoud in streams worden gebruikt, is de betrokkenheidsscore gebaseerd op het lidmaatschap en de successtatus van het programma, **niet** e-mailinteractie (klik, opent, u afmeldt).
 
 Betrokkenheidsscores zijn universeel voor alle klanten. Je kunt ze vergelijken om te zien wie de meest aantrekkelijke inhoud heeft.
 
