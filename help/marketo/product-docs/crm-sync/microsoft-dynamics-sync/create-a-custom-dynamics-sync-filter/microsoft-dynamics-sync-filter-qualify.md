@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Microsoft Dynamics Sync Filter: Kwalificeren {#microsoft-dynamics-sync-filter-qualify}
+# Microsoft Dynamics Sync Filter: {#microsoft-dynamics-sync-filter-qualify} kwalificeren
 
 Wanneer u een lood in een contact in de Dynamiek van Microsoft wilt omzetten, ben zeker om dit gebrek te gebruiken kwalificeer proces. Synchroniseer het vervolgens met Marketo.
 
