@@ -15,17 +15,17 @@ ht-degree: 0%
 
 ## Overzicht {#overview}
 
-Als u het Inzicht [van de Verkoop van de](http://docs.marketo.com/display/docs/assets/sales-insight.php)Marketo hebt, kunt u de het **Interesten stap** van de Stroom van het Moment gebruiken om uw verkoopteam zicht in de koele dingen te geven uw mensen doen.
+Als u [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php) hebt, kunt u de **Interessant Moment** stap gebruiken om uw verkoopteam zichtbaarheid te geven in de coole dingen die uw mensen doen.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
 ## Gebruik {#usage}
 
-1. Selecteer het interessante **type** moment dat u wilt gebruiken.
+1. Selecteer het interessante moment **type** u wilt gebruiken.
 
    ![](assets/image2014-9-22-10-3a49-3a51.png)
 
-1. Maak een **beschrijving** waarin het interessante moment wordt uitgelegd aan uw verkoopteam.
+1. Maak een **beschrijving** waarin het interessante moment aan uw verkoopteam wordt uitgelegd.
 
    ![](assets/image2014-9-22-10-3a49-3a55.png)
 
