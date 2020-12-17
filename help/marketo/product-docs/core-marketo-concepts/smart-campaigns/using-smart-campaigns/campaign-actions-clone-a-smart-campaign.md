@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Met klonen kunt u tijd besparen. Alles hoeft niet helemaal vanaf het begin te worden opgebouwd: klonen maakt een identieke campagne met exact dezelfde filters voor slimme lijsten en stroomstappen.
 
-1. Zoek de campagne die u wilt klonen, selecteer deze en klik vervolgens onder **Campagnehandelingen** op **Klonen**.
+1. Zoek de campagne die u wilt klonen, selecteer deze en klik vervolgens onder **Campagne Handelingen** op **Klonen**.
 
    ![](assets/image2014-9-22-13-3a56-3a34.png)
 
-1. Kies de juiste optie **Klonen naar **klonen. In dit voorbeeld, kiezen de **Programma&#39;s**.
+1. Kies de juiste optie **Klonen naar **klonen. In dit voorbeeld, kiezen **Programma&#39;s**.
 
    ![](assets/image2014-9-22-13-3a56-3a56.png)
 
-1. Kies een **programma**. Voer een **naam** voor de campagne in en klik op **Klonen**.
+1. Kies een **Programma**. Voer een **Campagnenaam** in en klik op **Klonen**.
 
    ![](assets/image2014-9-22-13-3a57-3a9.png)
 
