@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De Stappen van de Stroom in een Slimme Campagne opnieuw ordenen {#reorder-the-flow-steps-in-a-smart-campaign}
+# De stroomstappen in een slimme campagne opnieuw ordenen {#reorder-the-flow-steps-in-a-smart-campaign}
 
 De stroomstappen worden van boven naar beneden uitgevoerd. Hieronder wordt beschreven hoe u de stroomstappen opnieuw kunt rangschikken op basis van uw wensen.
 
