@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Nieuwe programmatag- en tagwaarden maken {#create-a-new-program-tag-and-tag-values}
+# Een nieuwe tag voor het programma en tagwaarden maken {#create-a-new-program-tag-and-tag-values}
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ U kunt aangepaste [tags](../../../product-docs/core-marketo-concepts/programs/wo
 >
 >Waarde van programmalabel: SMB, Onderneming, Midden-Markt
 
-1. Klik onder **Beheer** op **Labels**.
+1. Klik onder **Admin** op **Codes**.
 
    ![](assets/image2014-9-24-12-3a10-3a32.png)
 
-1. Klik op **Nieuw** en selecteer **Nieuw tagtype**.
+1. Klik **Nieuw** en selecteer **Nieuw tagtype**.
 
    ![](assets/image2014-9-24-12-3a12-3a43.png)
 
-1. Voer het **tagtype** en een **tagwaarde** in. Klik vervolgens op **Nog een** toevoegen.
+1. Voer het **Tagtype** en een tag **Waarde** in. Klik vervolgens **Nog een toevoegen**.
 
    ![](assets/image2014-9-24-12-3a16-3a55.png)
 
@@ -47,13 +47,13 @@ U kunt aangepaste [tags](../../../product-docs/core-marketo-concepts/programs/wo
    >
    >U kunt meerdere programmatypen selecteren. Wanneer een nieuw programma wordt gemaakt, is dit type code beschikbaar.
 
-1. Schakel **Vereist** in en klik op **Maken**.
+1. Controleer **Required** en klik **Create**.
 
    ![](assets/image2014-9-24-12-3a18-3a33.png)
 
    >[!NOTE]
    >
-   >Als het labeltype **vereist** is, moeten gebruikers een waarde voor de tag invoeren wanneer ze een nieuw programma maken.
+   >Als het labeltype **Required** is, moeten gebruikers bij het maken van een nieuw programma een waarde voor de tag invoeren.
 
    ![](assets/image2014-9-24-12-3a19-3a17.png)
 
