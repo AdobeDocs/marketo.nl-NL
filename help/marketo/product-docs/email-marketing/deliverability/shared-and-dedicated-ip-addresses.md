@@ -33,15 +33,15 @@ Zoals gewoonlijk zijn er voor- en nadelen voor beide opties.
 
 *Pros*
 
-**Reputatie** - Je hebt volledig je reputatie en leverbaarheid.\
-**Bewaking** - Door uw rapportage van de leverbaarheid te controleren, kunt u snel reageren op wijzigingen in uw leveringscijfers.\
-**Probleemoplossing** - Het is eenvoudiger om leveringsproblemen te onderzoeken, te begrijpen en op te lossen.
+**Reputatie**  - Je hebt volledig je reputatie en leverbaarheid.\
+**Controle**  - het controleren van uw leverbaarheidsrapportering laat u toe om aan veranderingen in uw leveringsmetriek snel te antwoorden.\
+**Probleemoplossing**  - Het is eenvoudiger om leveringsproblemen te onderzoeken, te begrijpen en op te lossen.
 
 *Cons*
 
-**Volume verandert** - Het volume van pieken kan uw reputatie negatief beïnvloeden en moet worden beheerd.\
-**IP opwarmen proces** - de Reputatie wordt gebouwd in tijd. Sommige leveranciers van de Dienst van Internet (ISPs) throttle IP adressen zonder volumegeschiedenis, zodat zult u een reputatie over de eerste weken moeten bouwen (Marketo kan helpen u begeleiden).\
-**Kosten** - Er zijn gewoonlijk extra kosten om van een Dedicated IP met om het even welke leverancier te verzenden.
+**Volume verandert**  - De pieken in volume kunnen uw reputatie negatief beïnvloeden en moeten worden beheerd.\
+**IP opwarmen proces**  - de Reputatie wordt gebouwd in tijd. Sommige leveranciers van de Dienst van Internet (ISPs) throttle IP adressen zonder volumegeschiedenis, zodat zult u een reputatie over de eerste weken moeten bouwen (Marketo kan helpen u begeleiden).\
+**Kosten**  - Er zijn gewoonlijk extra kosten om van een Dedicated IP met om het even welke leverancier te verzenden.
 
 **Pros en Kons van een Gedeelde IP**
 
@@ -53,7 +53,7 @@ Zoals gewoonlijk zijn er voor- en nadelen voor beide opties.
 
 *Cons*
 
-**Onjuiste kamergenoten** - als de mensen u uw IP met in dienst nemen van slechte verzendende praktijken deelt, zouden uw e-mailcampagnes negatief kunnen worden beïnvloed.\
+**Onjuiste kamergenoten**  - als de mensen u uw IP met in dienst nemen van slechte verzendende praktijken deelt, zouden uw e-mailcampagnes negatief kunnen worden beïnvloed.\
 **Besturing **- U hebt veel minder controle over de reputatie van de afzender.\
 **De Resolutie van de kwestie **- Het kan vaak moeilijker zijn om een kwestie op te lossen wanneer het verzenden van Gedeelde IPs.
 
