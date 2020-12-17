@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt een lijst importeren van personen die automatisch lid worden van een programma. Dit is wat je moet doen.
 
-## CSV-bestand voorbereiden {#prepare-your-csv-file}
+## CSV-bestand {#prepare-your-csv-file} voorbereiden
 
 1. Maak een standaard CSV-bestand in Excel, zoals in het onderstaande voorbeeld.
 
@@ -25,21 +25,21 @@ U kunt een lijst importeren van personen die automatisch lid worden van een prog
    >
    >Wanneer u een datum in een datumveld importeert, gebruikt u de volgende notatie: 23-09-13 (maand/dag/jaar).
 
-## CSV importeren in Marketo {#import-your-csv-into-marketo}
+## CSV importeren in markeerteken {#import-your-csv-into-marketo}
 
-1. Ga in uw programma naar de sectie **Leden** .
+1. Ga in uw programma naar de sectie **Leden**.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Klik op Leden **** importeren.
+1. Klik **Leden importeren**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Selecteer CSV en klik **daarna**.
+1. Selecteer CSV en klik **Next**.
 
    ![](assets/importlist1.png)
 
-1. Wijs de gegevenswaarden van de lijst aan hun overeenkomstige Marketo Gebieden toe en klik **daarna**.
+1. Wijs de gegevenswaarden van de lijst aan hun overeenkomstige Marketo Gebieden toe en klik **Volgende**.
 
    ![](assets/importlist12.png)
 
@@ -47,11 +47,11 @@ U kunt een lijst importeren van personen die automatisch lid worden van een prog
    >
    >Als er velden zijn die u niet wilt importeren, selecteert u **IGNORE** in de vervolgkeuzelijst Marketo-veld.
 
-1. Selecteer de **Lidstatus** voor je lijst.
+1. Selecteer **Lidstatus** voor uw lijst.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. Klik op **Importeren**.
+1. Klik **Importeren**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 
