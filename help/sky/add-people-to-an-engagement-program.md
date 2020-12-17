@@ -15,9 +15,9 @@ ht-degree: 0%
 Er zijn verschillende manieren waarop mensen lid kunnen worden van een betrokkenheidsprogramma:
 
 * [Toevoegen aan betrokkenheidsprogramma](https://docs.marketo.com/display/DOCS/Add+to+Engagement+Program)
-* [Stroom van Cadent](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) -stroom voor betrokkenheidsprogramma wijzigen
-* [Stroom](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Stream) van betrokkenheidsprogramma wijzigen
-* [Stroom van programmastatus](https://docs.marketo.com/display/DOCS/Change+Program+Status) wijzigen
+* [Programma ](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Cadence) voor betrokkenheid bij wijziging Cadnow-stap
+* [De stap ](https://docs.marketo.com/display/DOCS/Change+Engagement+Program+Stream) Streamflow van het betrokkenheidsprogramma wijzigen
+* [De ](https://docs.marketo.com/display/DOCS/Change+Program+Status) statusstap van het programma wijzigen
 * Als een persoon een formulier lokaal invult voor een betrokkenheidsprogramma
-* Leden importeren in een betrokkenheidsprogramma (via [!UICONTROL Members] tab in het programma)
+* Leden importeren in een betrokkenheidsprogramma (via de tab [!UICONTROL Members] in het programma)
 * Als u Salesforce als uw CRM gebruikt en een Salesforce-campagne aan uw betrokkenheidsprogramma hebt gekoppeld, maakt het toevoegen van iemand aan de Salesforce-campagne aan de CRM-zijde ook van hen een lid van het betrokkenheidsprogramma.
