@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Lokale elementen zijn de inhoud die deel uitmaakt van uw programma. De activa zijn klantgericht en laten u toe om geautomatiseerde marketing initiatieven te bouwen. Hier is een blik bij de meeste lokale activa u binnen kunt creëren [!DNL Marketo Sky].
+Lokale elementen zijn de inhoud die deel uitmaakt van uw programma. De activa zijn klantgericht en laten u toe om geautomatiseerde marketing initiatieven te bouwen. Hier is een blik bij de meeste lokale activa u in [!DNL Marketo Sky] kunt creëren.
 
 ![Afbeelding één](/help/sky/assets/programs/local-assets-in-a-program/local-assets-in-a-program-1.jpg)
 
