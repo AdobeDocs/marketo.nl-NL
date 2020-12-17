@@ -28,13 +28,13 @@ In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één persoon
 | **Interescore voor product van account** | Personen van doelaccounts die belangstelling tonen voor de inhoud van een specifiek product (bijvoorbeeld het downloaden van een witboek). |
 | **Score voor online betrokkenheid van account** | Personen van doelaccounts die webkanaal bezoeken. Dezelfde score kan worden gemaakt om de betrokkenheid van kanalen via e-mail, advertenties of andere kanalen te meten. |
 
-## Hoe te om de Score van de Rekening te vormen {#how-to-configure-account-score}
+## Hoe te om de Score van de Rekening {#how-to-configure-account-score} te vormen
 
 >[!NOTE]
 >
 >**Toelichting**
 >
->Als u accountscores wilt berekenen, moet u eerst loodscores maken. Marketo ABM aggregeert automatisch leadscores naar accountscores. Als voorbeeld, zullen wij twee van de bovengenoemde voorbeelden (*Account **de Score van de Rente van het Product* en de Score *van de Betrokkenheid van het* Web van de Rekening) nemen.
+>Als u accountscores wilt berekenen, moet u eerst loodscores maken. Marketo ABM aggregeert automatisch leadscores naar accountscores. Als voorbeeld, zullen wij twee van de bovengenoemde voorbeelden (*Account **Score van de Rente van het Product* en *de Score van de Betrokkenheid van het Web van de Rekening*) nemen.
 >
 >Maak eerst loodscore-velden waarin relevante details van elke lead van een doelaccount worden vastgelegd.\
 >Wijs vervolgens die leadscores toe aan hun respectievelijke accountscores:\
@@ -47,11 +47,11 @@ In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één persoon
 
 Nadat u de hoofdscore hebt geconfigureerd, voert u de onderstaande stappen uit.
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/one-1.png)
 
-1. Klik op **ABM**.
+1. Klik **ABM**.
 
    ![](assets/two-1.png)
 
@@ -63,7 +63,7 @@ Nadat u de hoofdscore hebt geconfigureerd, voert u de onderstaande stappen uit.
    >
    >U kunt maximaal **5 **velden kiezen om de accountscore te berekenen.
 
-1. Voer de naam van de accountscore in, klik op de vervolgkeuzelijst **Selecteer persoonlijke score** en selecteer de corresponderende score.
+1. Ga de naam van de Score van de Rekening in, klik **Uitgezochte Score** drop-down en selecteer de overeenkomstige score.
 
    ![](assets/four.png)
 
@@ -71,7 +71,7 @@ Nadat u de hoofdscore hebt geconfigureerd, voert u de onderstaande stappen uit.
 
    ![](assets/five.png)
 
-1. Voeg alle gewenste scores toe. Klik op **Opslaan** als u klaar bent.
+1. Voeg alle gewenste scores toe. Klik **Opslaan** wanneer gereed.
 
    ![](assets/six.png)
 
