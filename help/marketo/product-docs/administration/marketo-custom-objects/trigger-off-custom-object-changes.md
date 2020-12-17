@@ -25,13 +25,13 @@ ht-degree: 0%
 >
 Neem contact op met [Marketo-ondersteuning](http://support.marketo.com) om Aangepaste objectwijzigingstriggers in te schakelen.
 
-In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen wanneer een douanevoorwerp aan een persoon of een bedrijf wordt toegevoegd. U kunt ook een slimme lijst maken die een *wijziging* in een aangepast object als trigger gebruikt. U kunt deze bijvoorbeeld gebruiken om een e-mail te verzenden wanneer de naam van een cursus wordt bijgewerkt.
+In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen wanneer een douanevoorwerp aan een persoon of een bedrijf wordt toegevoegd. U kunt ook een slimme lijst maken die een *change* in een aangepast object als trigger gebruikt. U kunt deze bijvoorbeeld gebruiken om een e-mail te verzenden wanneer de naam van een cursus wordt bijgewerkt.
 
 >[!NOTE]
 >
 >Een item in het activiteitenlogboek wordt niet gemaakt wanneer een record van een aangepast object wordt gewijzigd.
 
-1. Ga in Marketo naar **Marketing Activities.**
+1. Ga in Marketo naar **Marketingactiviteiten.**
 
    ![](assets/image2016-7-25-15-3a49-3a52.png)
 
