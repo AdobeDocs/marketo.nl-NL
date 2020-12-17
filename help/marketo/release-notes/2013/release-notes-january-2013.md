@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: januari 2013 {#release-notes-january}
 
-De release van januari breidt ons sociale aanbod uit met **verwijzingsvoorstellen**. Bovendien kunnen gebruikers van Beheer van leads voor markttoegang hun tijdzone, taal en landinstellingen instellen. Functies die zijn gemarkeerd met een * zijn alleen beschikbaar in de Select Edition.
+De release van januari breidt ons sociale aanbod uit met **Referral-aanbiedingen**. Bovendien kunnen gebruikers van Beheer van leads voor markttoegang hun tijdzone, taal en landinstellingen instellen. Functies die zijn gemarkeerd met een * zijn alleen beschikbaar in de Select Edition.
 
-## Verwijzingsvoorstellen {#referral-offers}
+## Referral-aanbiedingen {#referral-offers}
 
-Met een **verwijzingsvoorstel** worden kopers aangespoord hun vrienden te raadplegen. Creëer doelstellingen en beloningen voor succesvolle verwijzingen. U kunt het gebruiken op landingspagina&#39;s, uw website, en zelfs Facebook.
+Een **Referral-aanbieding** geeft uw leads een prikkel om hun vrienden door te verwijzen. Creëer doelstellingen en beloningen voor succesvolle verwijzingen. U kunt het gebruiken op landingspagina&#39;s, uw website, en zelfs Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 
@@ -29,13 +29,13 @@ U kunt de standaardtijdzone voor uw persoonlijke Marketo-account wijzigen. Zelfs
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## Selecteer de beheertaal voor markttoegang {#select-your-marketo-lead-management-language}
+## Selecteer uw beheertaal voor marktleider {#select-your-marketo-lead-management-language}
 
 U kunt de standaardtaal voor uw Marketo-gebruikersaccount wijzigen. Zelfs als het standaardabonnement Engels is, kunt u het in het Duits of Frans voor eigen gebruik wijzigen.
 
 ![](assets/image2014-9-22-15-3a21-3a18.png)
 
-## Meertalig formulierfoutberichten {#multi-lingual-form-error-messages}
+## Meertalig foutbericht {#multi-lingual-form-error-messages}
 
 Wanneer een lead een Marketo-formulier invult, worden sommige validatieberichten automatisch ingebouwd. U kunt voor deze foutberichten een andere weergavetaal kiezen. We ondersteunen nu Engels, Duits en Frans.
 
@@ -45,7 +45,7 @@ Een voorbeeld van een Frans formulier:
 
 ![](assets/image2014-9-22-15-3a22-3a2.png)
 
-## Selecteer je taal voor het Verkoopoverzicht (alleen Salesforce) {#select-your-sales-insight-language-salesforce-only}
+## Selecteer uw Taal van het Inzicht van de Verkoop (Salesforce slechts) {#select-your-sales-insight-language-salesforce-only}
 
 Als je voorkeur voor de Salesforce-taal is ingesteld op Frans of Duits, wordt deze voorkeur gebruikt voor Marketo Sales Insight. Download het nieuwste MSI-pakket voor deze functionaliteit (beschikbaar in de week van 14 januari).
 
