@@ -48,4 +48,4 @@ Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd di
 >
 >Bij meerdere triggers doorloopt een persoon de flow als een van de triggers is geactiveerd.
 >
->Leer hoe u Slimme lijst voor slimme campagne kunt [definiëren om de campagne op een set mensen tegelijk uit te voeren | Batch](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
+>Als u de campagne op een set mensen tegelijk wilt uitvoeren, leert u hoe u [Slimme lijst definiëren voor slimme campagne | Batch](https://docs.marketo.com/display/DOCS/Define+Smart+List+for+Smart+Campaign+%7C+Batch).
