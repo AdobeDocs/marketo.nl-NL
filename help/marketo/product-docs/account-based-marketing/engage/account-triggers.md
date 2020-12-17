@@ -23,7 +23,7 @@ Voer &quot;Benoemd account&quot; in het zoekvak in om beide triggers voor benoem
 
 ![](assets/two-1.png)
 
-Sleep de gewenste trigger naar het canvas. In dit voorbeeld gebruiken we _Toegevoegd aan Benoemd account_.
+Sleep de gewenste trigger naar het canvas. In dit voorbeeld gebruiken wij _Toegevoegd aan Benoemde Rekening_.
 
 ![](assets/three-1.png)
 
