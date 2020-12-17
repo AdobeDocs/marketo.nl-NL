@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Stap 2 van 3: Een Salesforce-gebruiker voor markeren maken (Enterprise/Onbeperkt) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Stap 2 van 3: Een Salesforce-gebruiker maken voor markeren (Enterprise/Onbeperkt) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -29,11 +29,11 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
 ## Een profiel maken {#create-a-profile}
 
-1. Klik op **Instellen**.
+1. Klik **Setup**.
 
    ![](assets/image2015-6-11-16-3a15-3a27.png)
 
-1. Typ &quot;profielen&quot; in de zoekbalk Nav en klik op de koppeling **Profielen** .
+1. Typ &quot;profielen&quot; in de zoekbalk Nav en klik op de koppeling **Profielen**.
 
    ![](assets/sfdc-profiles-hands.png)
 
@@ -41,13 +41,13 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. Selecteer **Standaardgebruiker**, geef het profiel Marketo-Salesforce Sync een naam en klik op **Opslaan**.
+1. Selecteer **Standaardgebruiker**, geef het profiel &quot;Marketo-Salesforce Sync&quot; een naam en klik op **Opslaan**.
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
 ## Profielmachtigingen instellen {#set-profile-permissions}
 
-1. Klik op **Bewerken** om de beveiligingsmachtigingen in te stellen.
+1. Klik **Bewerken** om de beveiligingsmachtigingen in te stellen.
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
@@ -62,7 +62,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    >[!TIP]
    >
-   >Controleer of het vak **Wachtwoord nooit verlopen** is ingeschakeld.
+   >Ben zeker om **Wachtwoord te controleren nooit verloopt** doos.
 
 1. Controleer of onder de sectie Algemene gebruikersmachtigingen de volgende vakken zijn ingeschakeld:
 
@@ -86,11 +86,11 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
-1. Als u klaar bent, klikt u onder aan de pagina op **Opslaan** .
+1. Als u klaar bent, klikt u op **Opslaan** onder aan de pagina.
 
    ![](assets/image2014-12-9-9-3a20-3a5.png)
 
-## Veldmachtigingen instellen {#set-field-permissions}
+## Veldmachtigingen {#set-field-permissions} instellen
 
 1. Bespreek met uw marketers welke aangepaste velden nodig zijn voor synchronisatie.
 
@@ -98,7 +98,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
    >
    >Met deze stap voorkomt u dat velden die u niet nodig hebt, worden weergegeven in Marketo, waardoor de synchronisatie minder rommelig wordt en sneller verloopt.
 
-1. Ga op de pagina met profieldetails naar de sectie **Veldbeveiliging** . Klik op **Weergave** om de toegankelijkheid voor de objecten te bewerken:
+1. Ga op de pagina met profieldetails naar **Field-Level Security**. Klik **Weergave** om de toegankelijkheid voor de objecten te bewerken:
 
    * `Lead`
    * `Contact`
@@ -115,7 +115,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Zoek de overbodige velden en zorg ervoor dat **Toegang lezen **en Toegang bewerken **** zijn uitgeschakeld. Klik op **Opslaan** als u klaar bent.
+1. Zoek de overbodige velden en zorg ervoor dat **Leestoegang **en** Toegang bewerken **niet is ingeschakeld. Klik **Opslaan** wanneer u klaar bent.
 
    >[!NOTE]
    >
@@ -126,7 +126,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Nadat u alle onnodige velden hebt uitgeschakeld, moet u **Toegang lezen en Toegang **bewerken voor de volgende objectvelden inschakelen. Klik op **Opslaan** als u klaar bent.
+1. Nadat u alle onnodige velden hebt uitgeschakeld, moet u **Toegang lezen en Toegang **bewerken voor de volgende objectvelden inschakelen. Klik **Opslaan** wanneer u klaar bent.
 
 <table> 
  <tbody> 
@@ -155,13 +155,13 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
 >[!TIP]
 >
->Een speciale Salesforce-account maken (bijvoorbeeld [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#89e4e8fbe2ecfde6c9f0e6fcfbeae6e4f9e8e7f0a7eae6e4)) om een onderscheid te maken tussen de wijzigingen die door Marketo en andere Salesforce-gebruikers zijn aangebracht.
+>Een speciale Salesforce-account maken (bijvoorbeeld [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#89e4e8fbe2ecfde6c9f0e6fcfbeae6e4f9e8e7f0a7eae6e4)) om de veranderingen te onderscheiden die door Marketo tegenover andere gebruikers Salesforce worden aangebracht.
 
-1. Typ &quot;Gebruikers beheren&quot; in de zoekbalk van Nav en klik vervolgens op **Gebruikers**. Klik op **Nieuwe gebruiker**.
+1. Typ &quot;Gebruikers beheren&quot; in de zoekbalk Nav en klik op **Gebruikers**. Klik op **Nieuwe Gebruiker**.
 
    ![](assets/sfdc-new-users.png)
 
-1. Vul de vereiste velden in. Selecteer vervolgens de **gebruikerslicentie: Salesforce** en het profiel dat u eerder hebt gemaakt. Klik op **Opslaan** als u klaar bent.
+1. Vul de vereiste velden in. Selecteer vervolgens de **Gebruikslicentie: Salesforce** en het Profiel dat u eerder creeerde. Klik **Opslaan** wanneer u klaar bent.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
