@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aangepaste tags maken {#create-custom-tags}
+# Aangepaste labels maken {#create-custom-tags}
 
 Met tags kunt u uw programma&#39;s ordenen terwijl de kanalen helpen bij het verzamelen van gegevens voor rapportagedoeleinden.
 
@@ -19,33 +19,33 @@ Met tags kunt u uw programma&#39;s ordenen terwijl de kanalen helpen bij het ver
 >
 >**Diep duiken**
 >
->Raadpleeg Tags voor [begrip](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor meer informatie.
+>Bekijk [Tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor meer informatie.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-## Een nieuw tagtype maken {#create-a-new-tag-type}
+## Nieuw tagtype maken {#create-a-new-tag-type}
 
 Een nieuw type code maken:
 
-1. Ga naar de sectie **Beheer** .
+1. Ga naar **Admin** sectie.
 
    ![](assets/image2015-4-23-14-3a37-3a48.png)
 
-1. Klik op **Labels**.
+1. Klik **Codes**.
 
    ![](assets/image2015-4-23-14-3a41-3a18.png)
 
-1. Klik op **Nieuw** en selecteer **Nieuw tagtype.**
+1. Klik **Nieuw** en selecteer **Nieuw labeltype.**
 
    ![](assets/image2015-4-23-14-3a42-3a45.png)
 
-1. Voer een naam in voor het **tagtype**.
+1. Voer een naam in voor het **Tagtype**.
 
    ![](assets/image2015-4-23-14-3a48-3a58.png)
 
-1. Voer de gewenste **waarde** in voor het tagtype. Klik op Nog een **toevoegen** om extra tagwaarden in te voeren.
+1. Voer de gewenste **Waarde** voor het Type label in. Klik **Nog een toevoegen** om extra markeringswaarden in te gaan.
 
    ![](assets/image2015-4-22-11-3a30-3a30.png)
 
@@ -55,9 +55,9 @@ Een nieuw type code maken:
 
    >[!NOTE]
    >
-   >Selecteer **Vereist voor alle programma&#39;s** om deze tag toe te voegen wanneer een nieuw programma wordt gemaakt.
+   >Selecteer **Vereist voor alle programma&#39;s** om deze markering toe te voegen wanneer een nieuw programma wordt gecreeerd.
 
-1. Klik op **Maken** om op te slaan.
+1. Klik **Maken** om op te slaan.
 
    ![](assets/image2015-4-22-11-3a38-3a34.png)
 
