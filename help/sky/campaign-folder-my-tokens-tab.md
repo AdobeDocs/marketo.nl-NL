@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Campagnemap: Het tabblad Mijn tokens
 
-Op het [!UICONTROL My Tokens] tabblad vindt u al uw Mijn tokens in de map met de campagne.
+Op het tabblad [!UICONTROL My Tokens] staan al uw Mijn tokens in de campagnemap.
 
 ![Afbeelding één](/help/sky/assets/campaign-folders/campaign-folder-my-tokens-tab/campaign-folder-my-tokens-tab-1.png)
 
@@ -24,4 +24,4 @@ Als u wilt zoeken waar uw Mijn tokens worden gebruikt, selecteert u Mijn token e
 
 **Diep duiken**
 
-Meer weten over [Mijn tokens](/help/sky/understanding-my-tokens.md)?
+Meer informatie over het gebruik van [Mijn tokens](/help/sky/understanding-my-tokens.md).
