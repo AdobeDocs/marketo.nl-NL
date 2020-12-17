@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Personenbeperkingen voor slimme campagnes inschakelen {#enable-person-restrictions-for-smart-campaigns}
+# Personenbeperkingen inschakelen voor slimme campagnes {#enable-person-restrictions-for-smart-campaigns}
 
 Er is een functie in Marketo om het ***maximum ***aantal mensen te beperken dat voor een slimme campagne in aanmerking kan komen. Zo voorkomt u dat per ongeluk uw gehele database wordt gemaild.
 
@@ -48,7 +48,7 @@ Er is een functie in Marketo om het ***maximum ***aantal mensen te beperken dat 
    >[!CAUTION]
    >
    >
-   >Deze limiet geldt voor alle slimme campagnes, maar kan op campagnereniveau worden overschreven. Leer hoe u in een slimme campagne [persoonlijke beperkingen kunt overschrijven](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >Deze limiet geldt voor alle slimme campagnes, maar kan op campagnereniveau worden overschreven. Leer hoe te om persoonbeperkingen in een slimme campagne [met voeten te treden.](../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 
 Bingo! Je hebt net de veiligheidsschakelaar ingeschakeld. Goed idee, toch?
 
