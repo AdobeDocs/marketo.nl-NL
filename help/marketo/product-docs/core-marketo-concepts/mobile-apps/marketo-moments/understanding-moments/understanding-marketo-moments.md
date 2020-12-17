@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketo-momenten begrijpen {#understanding-marketo-moments}
+# Marketo-momenten {#understanding-marketo-moments}
 
 De kracht van Marketo ligt nu letterlijk in uw handen! U kunt e-mails direct vanaf uw telefoon of iPad bekijken en opnieuw plannen.
 
@@ -19,9 +19,9 @@ De kracht van Marketo ligt nu letterlijk in uw handen! U kunt e-mails direct van
 >
 >**Beschikbaarheid**
 >
->Toegang tot mobiele apps is vereist. Neem contact op met uw Marketo-beheerder om uw rol [](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)bij te werken.
+>Toegang tot mobiele apps is vereist. Neem contact op met uw Marketo-beheerder om uw rol [bij te werken.](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
 
-## Momenten introduceren {#introducing-moments}
+## Introductie van momenten {#introducing-moments}
 
 `<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
 
@@ -49,21 +49,21 @@ Oké, nu we dat uit de weg hebben, laten we een kijkje nemen bij Marketo Moments
 
 Marketo Moments geeft u drie verschillende kaarten om de voortgang van uw e-mail te volgen:
 
-**On-Deck** - Deze e-mail staat op het punt uit te gaan. Het is je laatste kans om het voor te vertonen, een voorbeeld te verzenden of zelfs te annuleren als je het nodig hebt.
+**On-Deck**  - Deze e-mail staat op het punt uit te gaan. Het is je laatste kans om het voor te vertonen, een voorbeeld te verzenden of zelfs te annuleren als je het nodig hebt.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**Deze e-mail wordt nu geleverd** . En hier zijn ook stats. Ga door en deel het.
+**Hé, deze e-mail wordt nu geleverd** ! En hier zijn ook stats. Ga door en deel het.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Resultaten** - Dit is hoe de e-mail dat deed. Nadat de e-mail volledig is uitgevoerd, geeft de Resultaten-kaart de betrokkenheidsscore en andere status weer.
+**Resultaten**  - Dit is hoe de e-mail dat deed. Nadat de e-mail volledig is uitgevoerd, geeft de Resultaten-kaart de betrokkenheidsscore en andere status weer.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Momentstroom {#moments-stream}
 
-Wanneer u de app voor het eerst opent of op **Momenten** tikt in het menu, worden eerst de relevante kaarten weergegeven. Elk initiatief bevat informatie over dat specifieke marketinginitiatief en de algemene prestaties ervan.
+Wanneer u de app de eerste keer opent of **Moments** in het menu tikt, worden eerst de relevante kaarten weergegeven. Elk initiatief bevat informatie over dat specifieke marketinginitiatief en de algemene prestaties ervan.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -105,11 +105,11 @@ In het gedeelte Later worden toekomstige activiteiten weergegeven.
 
    >[!NOTE]
    >
-   >Volgens het [Guinness Book of World Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger), de grootste hamburger ter wereld, weegt 2014 lbs.
+   >Volgens het [Guinness Book of World Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger) heeft &#39;s werelds grootste hamburger een gewicht van 2.014 lbs.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Tik **later**.
+1. Tik **Later**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -147,7 +147,7 @@ De slimme campagnerekaarten vertegenwoordigen één enkele looppas van een campa
 
 ## Een handeling bevestigen of annuleren {#confirm-or-cancel-an-action}
 
-Elke stap van de manier, kunt u een actie bevestigen of annuleren. Als u van gedachten verandert, tikt u gewoon op **Nooit Mind**.
+Elke stap van de manier, kunt u een actie bevestigen of annuleren. Tik **Nooit Mind** als u van gedachten verandert.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
@@ -164,7 +164,7 @@ Klaar om meer te leren?
 
 
 
-## Ondersteunde versies  {#supported-versions}
+## Ondersteunde versies {#supported-versions}
 
 Marketo Moments ondersteunt de volgende versies van het besturingssysteem:
 
