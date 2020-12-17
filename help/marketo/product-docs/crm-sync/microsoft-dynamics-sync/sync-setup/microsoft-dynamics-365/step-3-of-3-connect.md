@@ -30,9 +30,9 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 >
 >**Beheerdersmachtigingen vereist**
 
-## Gebruikersgegevens dynamiek synchroniseren invoeren {#enter-dynamics-sync-user-information}
+## Voer de gebruikersgegevens voor Dynamische synchronisatie in {#enter-dynamics-sync-user-information}
 
-1. Meld u aan bij Marketo en klik op **Beheer**.
+1. Meld u aan bij Marketo en klik op **Admin**.
 
    ![](assets/login-admin.png)
 
@@ -44,7 +44,7 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. Klik op **Bewerken** in **stap 1: Voer referenties** in.
+1. Klik **Bewerken** in **Stap 1: Voer referenties in**.
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
@@ -52,7 +52,7 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
    >
    >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw abonnement op Marketo aanvragen.
 
-1. Ga de **Gebruikersnaam**, het **Wachtwoord**, en **URL** van de Dynamiek van Microsoft (identiteitskaart van de Cliënt en Geheim zijn facultatief) in. Klik op **Opslaan** als u klaar bent.
+1. Voer de **Gebruikersnaam**, **Wachtwoord** en de Dynamica **URL** van Microsoft in (Client ID en Client Secret zijn optioneel). Klik **Opslaan** wanneer gereed.
 
    ![](assets/five-1.png)
 
@@ -60,13 +60,13 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
    >
    >De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1) of DOMAIN\user zijn.
 
-## Te synchroniseren velden selecteren {#select-fields-to-sync}
+## Te synchroniseren velden {#select-fields-to-sync} selecteren
 
-1. Klik op **Bewerken** in **stap 2: Selecteer te synchroniseren** velden.
+1. Klik **Bewerken** in **Stap 2: Selecteer te synchroniseren velden**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Selecteer de velden die u wilt synchroniseren met Marketo, zodat deze vooraf worden geselecteerd. Klik op **Opslaan**.
+1. Selecteer de velden die u wilt synchroniseren met Marketo, zodat deze vooraf worden geselecteerd. Klik **Opslaan**.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
@@ -74,21 +74,21 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
 Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe velden selecteren die u wilt synchroniseren met Marketo.
 
-1. Ga naar Admin en selecteer **de Dynamica** van Microsoft.
+1. Ga naar Admin en selecteer **de Dynamica van Microsoft**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klik op **Bewerken** op Veldsynchronisatiedetails.
+1. Klik op **Bewerken** op Details van veldsynchronisatie.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Blader omlaag naar het veld en controleer het. De daadwerkelijke naam moet new_synctomkto zijn maar de Naam van de Vertoning kan om het even wat zijn. Klik op **Opslaan**.
+1. Blader omlaag naar het veld en controleer het. De daadwerkelijke naam moet new_synctomkto zijn maar de Naam van de Vertoning kan om het even wat zijn. Klik **Opslaan**.
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
-## Sync inschakelen {#enable-sync}
+## Sync {#enable-sync} inschakelen
 
-1. Klik op **Bewerken** in **stap 3: Sync** inschakelen.
+1. Klik **Bewerken** in **Stap 3: Sync inschakelen**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
