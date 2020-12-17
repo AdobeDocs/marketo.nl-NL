@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# E-mailkoppelingsprestatierapport {#email-link-performance-report}
+# Rapport over prestaties e-mailkoppeling {#email-link-performance-report}
 
 Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in uw e-mails functioneren.
 
-1. [Creeer een rapport in een programma](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer de Prestaties **van de Verbinding van de** E-mail als rapporttype.
+1. [Maak een rapport in een ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programma en selecteer  **E-** mailkoppelingprestaties als rapporttype.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. Klik op **Instellen**.
+1. Klik **Setup**.
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
@@ -31,7 +31,7 @@ Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in u
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. Klik op **Rapport**.
+1. Klik **Rapport**.
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -39,7 +39,7 @@ Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in u
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[De kolommen beschikbaar](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) voor een E-mailrapport van de Prestaties van de Verbinding omvatten:
+[De kolommen ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) beschikbaar voor een E-mailrapport van de Prestaties van de Verbinding omvatten:
 
 <table> 
  <thead> 
@@ -74,7 +74,7 @@ Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in u
 
 >[!TIP]
 >
->Als u precies wilt weten wat een persoon heeft gedaan, kunt u het [activiteitenlogboek](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) openen op de pagina [Persondetails](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) op het tabblad Leden in het programma.
+>Als u precies wilt weten wat een individuele persoon deed, kunt u [Activiteitenlogboek](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) in [Persondetail](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) pagina van het Ledenlusje in het programma openen.
 
 >[!MORELIKETHIS]
 >
@@ -89,5 +89,5 @@ Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in u
 >
 >**Diep duiken**
 >
->Meer weten over [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting)?
+>Meer informatie over [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
 
