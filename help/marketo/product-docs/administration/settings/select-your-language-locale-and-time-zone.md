@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Taal, landinstelling en tijdzone selecteren {#select-your-language-locale-and-time-zone}
+# Selecteer uw taal, landinstelling en tijdzone {#select-your-language-locale-and-time-zone}
 
 Engels is niet jouw eerste taal? Maak je geen zorgen, we hebben je bedekt. Hier is hoe u uw eigen taal, landinstelling en tijdzone wijzigt.
 
