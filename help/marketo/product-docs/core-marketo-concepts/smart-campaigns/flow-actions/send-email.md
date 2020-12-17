@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-mail verzenden {#send-email}
+# E-mail {#send-email} verzenden
 
 ## Overzicht {#overview}
 
