@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een gebruikersrol maken, verwijderen, bewerken en wijzigen {#create-delete-edit-and-change-a-user-role}
 
-**Hiermee groepeert** u een aantal machtigingen. **Met machtigingen** kunt u dingen doen in Marketo. U wijst een **rol** toe aan een gebruiker. Eenvoudig als taart.
+**** Rolesgroup een aantal machtigingen. **** Permissionsallow je om dingen te doen in Marketo. U wijst een **rol** aan een gebruiker toe. Eenvoudig als taart.
 
 >[!NOTE]
 >
@@ -25,25 +25,25 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Ga naar het tabblad** Rollen** en klik op **Nieuwe rol**.
+1. Ga naar het** tabblad Rollen** en klik op **Nieuwe rol**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
-1. Geef een naam op voor de nieuwe rol, controleer alle machtigingen die u wilt toekennen aan gebruikers die aan de rol zijn gekoppeld en klik op **Maken**.
+1. Noem uw nieuwe rol, controleer alle toestemmingen u aan gebruikers verbonden aan de rol wilt verlenen, en klik **Create**.
 
    ![](assets/image2014-9-16-13-3a31-3a19.png)
 
 ## Een rol verwijderen {#delete-a-role}
 
-1. Klik onder Beheer op**** op **Gebruikers en rollen**.
+1. Onder Admin,** **klik **Gebruikers &amp; Rollen**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. Selecteer een rol onder het tabblad **Rollen ** **en klik op Rol** verwijderen.
+1. Selecteer onder het tabblad **Rollen **een rol en klik op **Rol verwijderen**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
-1. Bevestig de verwijdering door op **Verwijderen** te klikken.
+1. Bevestig de verwijdering door te klikken op **Delete**.
 
    ![](assets/image2014-9-16-13-3a32-3a25.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 >
 >Als u uw eigen gebruikersrol wilt bewerken, moet u zich aanmelden als een andere gebruiker met beheerdersrechten.
 
-1. Ga naar **Beheer** en klik op **Gebruikers en rollen**.
+1. Ga naar **Admin** en klik **Gebruikers &amp; rollen**.
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
@@ -79,15 +79,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Wilt u het e-mailadres van uw account bijwerken? [Leer hier](http://docs.marketo.com/x/3wFI)hoe.
+   >Wilt u het e-mailadres van uw account bijwerken? [Leer hier](http://docs.marketo.com/x/3wFI) hoe.
 
 ## De rol van een gebruiker wijzigen {#change-a-users-role}
 
-1. Ga naar **Beheer** en klik op **Gebruikers en rollen**.
+1. Ga naar **Admin** en klik **Gebruikers &amp; rollen**.
 
    ![](assets/image2014-9-16-13-3a35-3a49.png)
 
-1. Selecteer de gebruiker u een andere rol aan wilt toewijzen en de klik **geeft Gebruiker uit.**
+1. Selecteer de gebruiker u een verschillende rol aan wilt toewijzen en **Gebruiker uitgeven.**
 
    ![](assets/image2014-9-16-13-36-8.png)
 
