@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Pagina&#39;s begrijpen {#seo-understanding-pages}
 
-## Score voor optimalisatie van pagina / taakwidget {#page-optimization-score-to-do-widget}
+## Score voor optimalisatie van pagina / widget Taak {#page-optimization-score-to-do-widget}
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
@@ -38,7 +38,7 @@ Op het tabblad Pagina&#39;s ziet u hoe goed afzonderlijke pagina&#39;s op uw sit
 | Titel | Titel en URL van alle pagina&#39;s in uw domein. Verifieer uw domein. |
 | Optimalisatiescore | De geheime saus die wordt gebruikt om u te tonen hoe goed uw pagina voor onderzoek op een schaal van 1 tot 100 wordt geoptimaliseerd. |
 | Koppelingen | Aantal verschillende domeinen met minstens 1 inkomende verbinding aan uw plaats. |
-| Doeltrefwoorden | De trefwoorden waarvoor u elke pagina optimaliseert. [Hiervoor is uw invoer](seo-using-the-page-detail-drill-down.md)vereist. |
+| Doeltrefwoorden | De trefwoorden waarvoor u elke pagina optimaliseert. [Hiervoor is uw invoer](seo-using-the-page-detail-drill-down.md) vereist. |
 
 ## Tabblad Problemen {#issues-tab}
 
