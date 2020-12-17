@@ -20,11 +20,11 @@ Met klonen bespaart u tijd. U hoeft niet alles helemaal zelf op te bouwen, want 
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-1.png)
 
-1. Selecteer onder het vervolgkeuzemenu Handelingen voor slimme campagne **[!UICONTROL Clone]**.
+1. Selecteer **[!UICONTROL Clone]** onder het vervolgkeuzemenu Handelingen voor slimme campagne.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-2.png)
 
-1. Klik op de **[!UICONTROL Destination]** vervolgkeuzelijst en kies een doelprogramma of -map.
+1. Klik **[!UICONTROL Destination]** drop-down en kies een bestemmingsprogramma of een omslag.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/clone-a-smart-campaign/clone-a-smart-campaign-3.png)
 
