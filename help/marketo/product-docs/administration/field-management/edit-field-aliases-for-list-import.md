@@ -37,7 +37,7 @@ Wanneer u een lijst met onbekende koppen importeert, kunt u veldaliassen maken o
 
 >[!TIP]
 >
->Klik op **Nog een** toevoegen en voer desgewenst meer aliassen in.
+>Klik **Voeg een andere** toe en ga meer aliassen in als u hen nodig hebt.
 
 Kijk daar eens naar! Als u nu een spreadsheet met een kolom met de naam &quot;DOB,&quot;Marketo invoert zal automatisch het als &quot;Datum van Aankomst&quot;erkennen en de gegevens invoeren in het correcte gebied.  ![](assets/image2014-9-19-9-3a57-3a20.png)
 
