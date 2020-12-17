@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Persoonsgegevens bijwerken {#update-person-data}
+# Persoonlijke gegevens {#update-person-data} bijwerken
 
-## Opdracht: De contactgegevens of andere gegevens van een persoon bijwerken {#mission-update-a-persons-contact-info-or-other-data}
+## Opdracht: De contactinfo van een persoon of andere gegevens {#mission-update-a-persons-contact-info-or-other-data} bijwerken
 
 >[!PREREQUISITES]
 >
@@ -43,9 +43,9 @@ Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens
 
    >[!TIP]
    >
-   >Er zijn vele manieren om persoongegevens in Marketo bij te werken. Zie Een lijst met personen [](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) importeren en Gegevenswaarde [](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)wijzigen.
+   >Er zijn vele manieren om persoongegevens in Marketo bij te werken. Zie [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) en [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
-## De persoonlijke gegevens bijwerken {#update-the-person-data}
+## De personengegevens {#update-the-person-data} bijwerken
 
 1. Typ de nieuwe informatie die u hebt ontvangen en sluit het tabblad.
 
