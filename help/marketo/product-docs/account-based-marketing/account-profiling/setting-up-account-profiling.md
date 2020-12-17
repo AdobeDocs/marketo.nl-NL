@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Accountprofielen instellen {#setting-up-account-profiling}
+# Accountprofilering {#setting-up-account-profiling} instellen
 
 Voer de volgende stappen uit om accountprofielen te gebruiken.
 
-1. Open in Mijn Marketo de functie **Account Based Marketing**.
+1. Open **Account based Marketing** in My Marketo.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Voer de volgende stappen uit om accountprofielen te gebruiken.
 
    ![](assets/two-1.png)
 
-1. Het tabblad Model wordt standaard geopend. Klik op **Aan de slag**.
+1. Het tabblad Model wordt standaard geopend. Klik **Aan de slag**.
 
    ![](assets/three.png)
 
-1. Geef uw model een naam, kies wie in de resultaten zal worden omvat, en wie als basis voor het Ideale Profiel van de Klant (ICP) zal dienen. Klik op Model **** maken als u klaar bent.
+1. Geef uw model een naam, kies wie in de resultaten zal worden omvat, en wie als basis voor het Ideale Profiel van de Klant (ICP) zal dienen. Klik **Model maken** als u klaar bent.
 
    ![](assets/four.png)
 
@@ -35,7 +35,7 @@ Voer de volgende stappen uit om accountprofielen te gebruiken.
 
    ![](assets/five.png)
 
-1. Klik op **Zie modelresultaat** om de resultaten van uw model weer te geven.
+1. Klik op **Zie Modelresultaat** om de resultaten van het model weer te geven.
 
    ![](assets/six.png)
 
@@ -45,5 +45,5 @@ Voer de volgende stappen uit om accountprofielen te gebruiken.
 
    >[!TIP]
    >
-   >Nu uw model is gemaakt, leert u hoe u dit kunt afstemmen in het overzicht [](http://docs.marketo.com/x/NIDv)Accountprofilering.
+   >Nu uw model wordt gecreeerd, leer hoe te om het in [het Profileren Overzicht van de Rekening ](http://docs.marketo.com/x/NIDv) te stemmen.
 
