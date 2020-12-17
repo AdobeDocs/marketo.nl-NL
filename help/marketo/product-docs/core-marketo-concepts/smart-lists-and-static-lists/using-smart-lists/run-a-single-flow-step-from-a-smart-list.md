@@ -23,11 +23,11 @@ Als u een stap wilt uitvoeren die slechts eenmalig is, kunt u één stap voor de
 
 
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer een lijst of een slimme lijst met personen in de lijst en ga vervolgens naar het tabblad **Personen** .
+1. Selecteer een lijst of een slimme lijst met personen in de lijst en ga vervolgens naar het tabblad **Personen**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -35,27 +35,27 @@ Als u een stap wilt uitvoeren die slechts eenmalig is, kunt u één stap voor de
    >
    >Zowel statische lijsten als slimme lijsten hebben deze functionaliteit.
 
-1. Klik op Alles **** selecteren. U kunt ook** Ctrl/Cmd** gebruiken en klikken om een paar records handmatig te selecteren.
+1. Klik op **Alles selecteren**. U kunt ook** Ctrl/Cmd** gebruiken en klikken om een paar records handmatig te selecteren.
 
    ![](assets/smartlist-selectallhand.png)
 
    >[!NOTE]
    >
-   >Als de resultaten zich over meerdere pagina&#39;s uitstrekken en u op Alles **** selecteren klikt, worden alle personen op alle pagina&#39;s geselecteerd.
+   >Als de resultaten zich over veelvoudige pagina&#39;s uitstrekken, zal het klikken **selecteert allen** alle mensen over alle pagina&#39;s selecteren.
 
-1. Selecteer onder **Persoonlijke** **handelingen** de stap voor de stroom van uw keuze. In dit voorbeeld gebruiken we Gegevenswaarde [](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)wijzigen.
+1. Selecteer onder **Person** **Acties** de stap voor de stroom van uw keuze. In dit voorbeeld gebruiken we [Gegevenswaarde wijzigen](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
-1. Een **kenmerk** zoeken en selecteren. In dit voorbeeld nemen we alle mensen met de status &#39;Californië&#39; en veranderen deze in &#39;CA&#39;.
+1. Zoek en selecteer een **Kenmerk**. In dit voorbeeld nemen we alle mensen met de status &#39;Californië&#39; en veranderen deze in &#39;CA&#39;.
 
    ![](assets/runaction-hands.png)
 
-1. Voer een nieuwe waarde in. Klik op **Nu** uitvoeren.
+1. Voer een nieuwe waarde in. Klik **Nu uitvoeren**.
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Als u gegevenswaarden voor een groot aantal mensen verandert, kunt u de verandering moeten bevestigen door het aantal te typen. Klik op **Ga ervoor**.
+1. Als u gegevenswaarden voor een groot aantal mensen verandert, kunt u de verandering moeten bevestigen door het aantal te typen. Klik **Ga voor het**.
 
    ![](assets/changedatavalue.jpg)
 
