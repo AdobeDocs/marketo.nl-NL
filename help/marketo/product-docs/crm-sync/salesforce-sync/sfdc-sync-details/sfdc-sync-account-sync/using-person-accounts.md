@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Persoonlijke accounts gebruiken {#using-person-accounts}
+# Persoonlijke accounts {#using-person-accounts} gebruiken
 
 Persoonlijke accounts kunnen in Salesforce worden ingesteld om aan de behoeften van uw organisatie te voldoen. Zo behandelt Marketo persoonrekeningen.
 
@@ -33,11 +33,11 @@ Een persoonaccount wordt als bedrijf en als persoon gesynchroniseerd met Marketo
 
 ## Hoe maak ik onderscheid tussen zakelijke accounts en persoonlijke accounts? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Gebruik het filter **Is Personrekening** in uw slimme lijst om persoonrekeningen van standaardbedrijfsrekeningen te scheiden.
+Gebruik het filter **Is Personaccount** in uw slimme lijst om persoonaccounts te scheiden van standaardbedrijfsaccounts.
 
 ## Waar wordt de informatie van mijn persoonlijke rekeningen getoond in het Inzicht van de Verkoop van Marketo? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-De activiteiten met betrekking tot persoonaccounts worden weergegeven in het **venster Account** .
+De activiteiten met betrekking tot persoonrekeningen worden getoond in **Account** paneel.
 
 >[!NOTE]
 >
@@ -49,4 +49,4 @@ Marketo is afhankelijk van de rol van het opportuniteitcontact om te bepalen aan
 
 ## Welk e-mailveld moet ik gebruiken voor persoonaccounts? {#which-email-field-should-i-use-for-person-accounts}
 
-Er zijn twee e-mailvelden voor een persoonaccount. Gebruik het veld **E-mailadres** in uw formulieren (niet het **persoonlijke e-mailadres**) om ervoor te zorgen dat de duplicatie en andere e-mailverwerking van Marketo goed werken.
+Er zijn twee e-mailvelden voor een persoonaccount. Gebruik het veld **E-mailadres** in uw formulieren (niet het veld **E-mailadres voor personen**) om ervoor te zorgen dat de deduplicatie en andere e-mailverwerking van Marketo goed werken.
