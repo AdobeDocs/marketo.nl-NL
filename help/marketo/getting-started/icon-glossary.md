@@ -28,7 +28,7 @@ ht-degree: 0%
   <tr> 
    <td> 
     <div> 
-     <img alt="--" src="assets/image2016-2-24-11-3a16-3a17.png"> 
+     <img alt="—" src="assets/image2016-2-24-11-3a16-3a17.png"> 
     </div></td> 
    <td><span>Map</span></td> 
   </tr> 
@@ -56,16 +56,16 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="25" src="assets/share-to.png"> 
+     <img alt="—" height="25" src="assets/share-to.png"> 
     </div></td> 
    <td colspan="1">De bronmap die u met een andere werkruimte hebt gedeeld</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" width="25" src="assets/share-from.png"> 
+     <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Doelmap die vanuit een andere werkruimte is gedeeld <br>(met een hangslot worden bewerkingen aangegeven die niet kunnen worden uitgevoerd)</td> 
+   <td colspan="1">Doelmap die werd gedeeld vanuit een andere werkruimte <br>(hanglock geeft aan dat er geen bewerkingen kunnen worden uitgevoerd)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -91,7 +91,7 @@ ht-degree: 0%
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
+     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
     </div></td> 
    <td colspan="1">Trigger</td> 
   </tr> 
@@ -409,12 +409,12 @@ ht-degree: 0%
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>E-mailprogramma <br>(rode vlag omlaag = e-mail nog niet verzonden)</td> 
+   <td>E-mailprogramma <br>(Rode vlag omlaag = e-mail nog niet verzonden)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="--" src="assets/hs-icon.png" title="--"> 
+     <img alt="—" src="assets/hs-icon.png" title="—"> 
     </div></td> 
    <td colspan="1">E-mailprogramma gepland met Head Start</td> 
   </tr> 
@@ -866,7 +866,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Pictogrammen voor analyse {#analytics-icons}
+### Analysepictogrammen {#analytics-icons}
 
 <table> 
  <tbody> 
@@ -1116,7 +1116,7 @@ ht-degree: 0%
  </tbody> 
 </table>
 
-### Database-pictogrammen {#database-icons}
+### Databasepictogrammen {#database-icons}
 
 <table> 
  <tbody> 
