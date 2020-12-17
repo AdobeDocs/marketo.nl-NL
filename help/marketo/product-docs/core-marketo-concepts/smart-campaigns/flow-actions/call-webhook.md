@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Bellen Webhaak {#call-webhook}
+# Webhaak {#call-webhook} aanroepen
 
 >[!PREREQUISITES]
 >
@@ -31,11 +31,11 @@ Met webhaks kunt u communiceren met services van derden. Verzend/ontvang informa
 >
 >**Diep duiken**
 >
->Leer over de vele fascinerende dingen die [Webhooks](http://developers.marketo.com/documentation/webhooks/) voor u kan doen.
+>Ontdek de vele fascinerende dingen die [Webhooks](http://developers.marketo.com/documentation/webhooks/) voor u kunnen doen.
 
 ## Gebruik {#usage}
 
-Selecteer een **WebHaak** van drop-down.
+Selecteer een **Webhaak** van drop-down.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 
