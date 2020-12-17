@@ -14,16 +14,16 @@ ht-degree: 0%
 
 <br> 
 
-Programma&#39;s zijn een van de belangrijkste onderdelen van [!DNL Marketo]het programma. Je gebruikt ze veel!
+Programma&#39;s zijn een van de belangrijkste elementen in [!DNL Marketo]. Je gebruikt ze veel!
 
-1. Klik met de rechtermuisknop op de globe van de werkruimte boven aan de structuur en selecteer een optie in het **[!UICONTROL New Program]** vervolgkeuzemenu.
+1. Klik met de rechtermuisknop op de globe van de werkruimte boven aan de structuur en selecteer **[!UICONTROL New Program]** in de vervolgkeuzelijst.
 
    ![Afbeelding één](/help/sky/assets/programs/create-a-new-program/create-a-new-program-1.png)
 
-1. Voer een naam in voor het nieuwe programma. Kies vervolgens de [!UICONTROL Type], [!UICONTROL Workspace], de [!UICONTROL Destination] map en [!UICONTROL Channel] de respectievelijke vervolgkeuzelijsten.
+1. Voer een naam in voor het nieuwe programma. Kies vervolgens de map [!UICONTROL Type], [!UICONTROL Workspace], [!UICONTROL Destination] en [!UICONTROL Channel] in de desbetreffende vervolgkeuzelijst.
 
    ![Afbeelding twee](/help/sky/assets/programs/create-a-new-program/create-a-new-program-2.png)
 
-1. U kunt desgewenst een programma invoeren [!UICONTROL Description] en/of toevoegen [!UICONTROL Labels] aan het programma. Klik **[!UICONTROL Add]** om het maken van het programma te voltooien.
+1. U kunt desgewenst een [!UICONTROL Description] invoeren en/of [!UICONTROL Labels] aan uw programma toevoegen. Klik **[!UICONTROL Add]** om het maken van het programma te voltooien.
 
    ![Afbeelding drie](/help/sky/assets/programs/create-a-new-program/create-a-new-program-3.png)
