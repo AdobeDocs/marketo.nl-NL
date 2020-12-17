@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Standaardtoewijzing Salesforce-veld {#default-salesforce-field-mapping}
+# Standaard Salesforce-veldtoewijzing {#default-salesforce-field-mapping}
 
 Wanneer u uw Marketo-account eerst synchroniseert met Salesforce, maakt Marketo automatisch deze koppelingen tussen uw ingebouwde Salesforce- en Marketo-velden. Marketo synchroniseert ook uw aangepaste velden op uw leads, accounts, opportunity en contactpersonen.
 
-## Loodvelden {#lead-fields}
+## Regelvelden {#lead-fields}
 
 | SFDC-veld | Markeringsveld |
 |---|---|
