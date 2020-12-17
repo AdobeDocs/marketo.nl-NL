@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Een marketinggebruiker synchroniseren met Marketo {#make-marketo-sync-user-a-marketing-user}
+# Markeringsgebruiker een marketinggebruiker laten synchroniseren {#make-marketo-sync-user-a-marketing-user}
 
-De [Marketo-synchronisatie van de gebruiker](../../../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) moet een marketinggebruiker zijn, anders werkt de Salesforce-campagne niet correct. Hieronder wordt beschreven hoe u van de gebruiker een marketinggebruiker in Salesforce kunt maken.
+De [Marketo sync user](../../../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) moet een marketinggebruiker zijn voor de Salesforce-campagneconsync voor een correcte werking. Hieronder wordt beschreven hoe u van de gebruiker een marketinggebruiker in Salesforce kunt maken.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Meld u aan bij Salesforce. Zoek naar gebruikers in de linkeronderzoeksbar en klik **Gebruikers** onder **het Leiden Gebruikers**.
+1. Meld u aan bij Salesforce. Zoek naar gebruikers in de linkeronderzoeksbar en klik **Gebruikers** onder **Beheren Gebruikers**.
 
    ![](assets/image2015-7-8-14-3a25-3a49.png)
 
@@ -27,11 +27,11 @@ De [Marketo-synchronisatie van de gebruiker](../../../../../../product-docs/crm-
 
    ![](assets/image2015-7-8-14-3a27-3a32.png)
 
-1. Klik op **Bewerken**.
+1. Klik **Bewerken**.
 
    ![](assets/image2015-7-8-14-3a29-3a7.png)
 
-1. Schakel het selectievakje **Gebruiker** voor marketing in en klik op **Opslaan**.
+1. Schakel het selectievakje **Gebruiker op de markt brengen** in en klik op **Opslaan**.
 
    ![](assets/image2015-7-8-14-3a30-3a16.png)
 
