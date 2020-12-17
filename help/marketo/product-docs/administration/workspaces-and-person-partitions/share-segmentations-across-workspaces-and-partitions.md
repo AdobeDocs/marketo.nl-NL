@@ -25,15 +25,15 @@ Marketo is geweldig in het uitkiezen van de juiste mensen voor een programma of 
 >
 >**Diep duiken**
 >
->Leer [hoe u segmentaties](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)maakt.
+>Leer [segmentaties maken](../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Als u deze personen hebt ingesteld (**en werkruimten gebruikt)** , wilt u deze delen in de werkruimten. Hier zijn een paar goede dingen om te weten:
+Zodra u deze persona opstelling (**en** hebt u werkruimten gebruikt), zult u hen over uw werkruimten willen delen. Hier zijn een paar goede dingen om te weten:
 
 ## Regels en tips {#rules-tips}
 
-* Elk abonnement van Marketo kan tot 20 Segmentaties &quot;totaal&quot;over veelvoudige werkruimten (**niet 20 per werkruimte**) bevatten.
+* Elk Marketo-abonnement kan maximaal 20 segmenten &quot;totaal&quot; bevatten in meerdere werkruimten (**niet 20 per werkruimte**).
 * U kunt een Segmentatie met werkruimten slechts delen die u toegang tot hebt.
-* Zorg ervoor dat u een **standaardwerkruimte maakt en gebruikt die in alle partities** zichtbaar is.
+* Zorg ervoor om een **Standaardwerkruimte te creëren en te gebruiken die zicht in alle verdelingen** heeft.
 
 * De verwerking van de segmentatie loopt slechts op de mensen in de werkruimte waar de Segmentatie wordt gecreeerd.
 
