@@ -31,11 +31,11 @@ Als u ooit een stream uit uw betrokkenheidsprogramma moet verwijderen, voert u d
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. Bevestig de verwijdering door op **Verwijderen** te klikken.
+1. Bevestig de verwijdering door te klikken op **Delete**.
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 
    >[!NOTE]
    >
-   >Als er in de stream mensen zitten, wordt u gevraagd deze eerst [naar buiten te verplaatsen](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) .
+   >Als de stroom mensen in het heeft, zal u worden gevraagd om [move](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) hen eerst uit te bewegen.
 
