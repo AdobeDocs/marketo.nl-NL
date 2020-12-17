@@ -19,11 +19,11 @@ Als u een filter in de Kalender van de Marketing wilt schrappen, bent u aan de j
 
    ![](assets/image2014-9-24-11-3a27-3a32.png)
 
-1. Klik op de rode **x**.
+1. Klik op het rode **x**.
 
    ![](assets/image2014-9-24-11-3a27-3a36.png)
 
-1. Klik op **Verwijderen** om te bevestigen.
+1. Klik **Verwijderen** om te bevestigen.
 
    ![](assets/image2014-9-24-11-3a27-3a42.png)
 
