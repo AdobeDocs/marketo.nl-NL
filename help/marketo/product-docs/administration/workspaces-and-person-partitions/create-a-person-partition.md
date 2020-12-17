@@ -23,21 +23,21 @@ Creeer een nieuwe persoonverdeling na deze stappen.
 >
 >**Diep duiken**
 >
->Begrijp eerst met het [Begrip van Werkruimten en de Verdelingen](understanding-workspaces-and-person-partitions.md)van de Persoon.
+>Begrijp eerst met [het Begrijpen van Werkruimten en Partities van de Persoon](understanding-workspaces-and-person-partitions.md).
 
 >[!CAUTION]
 >
->Personpartities kunnen complex zijn. Neem contact op met [Marketo voor ondersteuning](http://support.marketo.com/) bij het instellen van de markeertekens.
+>Personpartities kunnen complex zijn. Neem contact op met [Marketo-ondersteuning](http://support.marketo.com/) voor hulp bij het instellen van deze bestanden.
 
 1. Selecteer Werkruimten en partities onder Beheer.
 
 ![](assets/image2014-9-17-11-3a32-3a12.png)
 
-1. Ga naar het tabblad **Personpartities** en klik op **Nieuwe personenpartitie**.
+1. Ga naar **Person Partitions** tabel en klik **Nieuwe Person Partition**.
 
    ![](assets/two-2.png)
 
-1. Geef een naam op voor de partitie, kies de **werkruimte(n)** waar deze wordt weergegeven en klik **op Maken.**
+1. Geef uw partitie een naam, kies **Werkruimte(n)** waar deze wordt weergegeven en klik op **Maken.**
 
    ![](assets/three-2.png)
 
