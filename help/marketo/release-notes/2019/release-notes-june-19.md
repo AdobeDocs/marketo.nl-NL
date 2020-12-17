@@ -22,15 +22,15 @@ De volgende functies zijn uitgebracht op 14 juni 2019.
 ## Marketo Core Services {#marketo-core-services}
 
 * **Controlesom** bestand bulksgewijs extraheren: Controleer of een volledig bestand is opgehaald door de hash van het bestand te vergelijken met de controlesom van de voltooide extractietaken.
-* **Geautomatiseerde migratie van e-mail 1.0 naar e-mail 2.0:** E-mail 2.0 is volledig compatibel met e-mails en sjablonen van e-mail 1.0. Geniet van nieuwe mogelijkheden, zoals de mogelijkheid om inhoudselementen (afbeeldingen, tekst, enz.) te groeperen in modules definieert u variabelen zoals String, Color, Image, enzovoort. in sjablonen en gebruiken volledig responsieve startsjablonen. Bevat ook een visuele e-mailsjabloonkiezer.
+* **Geautomatiseerde migratie van e-mail 1.0 naar e-mail 2.0:** e-mail 2.0 is volledig compatibel met e-mails en sjablonen van e-mail 1.0. Geniet van nieuwe mogelijkheden, zoals de mogelijkheid om inhoudselementen (afbeeldingen, tekst, enz.) te groeperen in modules definieert u variabelen zoals String, Color, Image, enzovoort. in sjablonen en gebruiken volledig responsieve startsjablonen. Bevat ook een visuele e-mailsjabloonkiezer.
 
 >[!CAUTION]
 >
->Vanaf 18 juni 2019 is e-mail 1.0 niet meer beschikbaar. Meer informatie over e-mail 2.0 en de afgekeurde e-mail 1.0 [hier](http://nation.marketo.com/docs/DOC-7038).
+>Vanaf 18 juni 2019 is e-mail 1.0 niet meer beschikbaar. U kunt meer leren over E-mail 2.0 en de veroudering van E-mail 1.0 [hier](http://nation.marketo.com/docs/DOC-7038).
 
 ## Op account gebaseerde marketing {#account-based-marketing}
 
-* **Overeenkomende`<sup>BETA</sup>`** LinkedIn-account: Een nieuw ABM vermogen is nu beschikbaar in bèta, die u de capaciteit biedt om lijsten van bekende en whitespace rekeningen rechtstreeks van Marketo naar LinkedIn te verzenden. Deze functionaliteit wordt automatisch opgenomen voor alle klanten van Marketo ABM.
+* **Overeenkomende`<sup>BETA</sup>`**  LinkedIn-account: Een nieuw ABM vermogen is nu beschikbaar in bèta, die u de capaciteit biedt om lijsten van bekende en whitespace rekeningen rechtstreeks van Marketo naar LinkedIn te verzenden. Deze functionaliteit wordt automatisch opgenomen voor alle klanten van Marketo ABM.
 
 <br> 
 
@@ -40,14 +40,14 @@ De volgende functies zullen naar verwachting gedurende het tweede kalenderkwarta
 
 ## Marketo Sky {#marketo-sky}
 
-* **Gebeurtenishoofdletters** en **gebeurtenisdoelen** zijn over het algemeen beschikbaar in Marketo Sky onder de invoegtoepassing Premium Events.
+* **Gebeurtenishoofdletters** en  **gebeurtenisdoelen** zijn over het algemeen beschikbaar in Marketo Sky onder de invoegtoepassing Premium Events.
 
    * Caps voor gebeurtenissen: Optimaliseer de ervaring van de klant voor uw gebeurtenissen en webinars met registratiekapitalen, pagina omleiding, en het wachten van functionaliteit.
    * Gebeurtenisdoelen: Stel doelstellingen voor registratie en aanwezigheid van gebeurtenissen in en volg de voortgang in real-time.
 
 * **Volledige navigatiekoppelingen**: We hebben navigatie ingeschakeld voor alle toegestane toepassingen, zoals Hootsuite, Kalender en meer.
 * **Weergaven** E-mail, Openingspagina, Fragment, Formulier, Afbeelding en Bestandslijst: Bekijk, zoek, en neem massaacties op om het even welk van uw activa in de Studio van het Ontwerp.
-* **Pagina met details over afbeeldingen, bestanden en fragmenten**: U krijgt snelle informatie over uw elementen met metagegevens, zoals *gemaakt op/door* en handelingen zoals *verwijderen* en *goedkeuren*.
+* **Pagina met details over afbeeldingen, bestanden en fragmenten**: U kunt snelle informatie over uw middelen verkrijgen met metagegevens, zoals  *gemaakt op/* byand-handelingen, zoals  ** verwijderen en  *goedkeuren*.
 * **Widget** Communityblogberichten: Toegang tot recente posten van de Gemeenschap in Mijn Marketo.
 * **Widget** Soon vervalt: Voeg de widget &quot;Binnenkort vervallen&quot; toe aan het dashboard Mijn Marketo om te zien welke campagnes en bestemmingspagina&#39;s volgende verlopen.
 * **Meer slimme lijstkaarten**: Segment en doel geschikt met extra slimme lijstkaarten, met inbegrip van de de stroomstap van de &quot;Taak&quot;van de Maken, de slimme lijstregels van CRM, en meer.
@@ -69,4 +69,4 @@ Marketo Sales Connect
 * **Driftintegratie**: Begrijp hoe de gesprekken van de Drijving de reis van uw klant beïnvloeden. Bizible haalt ook e-mailadressen uit gesprekken om een nieuwe lead te maken of om het aanraakpunt aan een bestaande lead te koppelen.
 * **Lokalisatie**: Bizible is nu beschikbaar in alle door Marketo ondersteunde talen (Engels, Japans, Duits, Spaans, Frans en Portugees).
 
-***Productrelease Webinar*** Bekijk de opname van onze webinar van de release van 19 juni [hier](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+***Productrelease*** WebinarBekijk de opname van ons webinar van de release van 19 juni  [hier](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
