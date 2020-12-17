@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Met de betrokkenheidsscore kunt u eenvoudig zien hoe effectief de inhoud in uw betrokkenheidsprogramma is. De score loopt van 0 tot en met 100. Bekijk [het dashboard](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) Betrokkenheid om te zien hoe u de prestaties van uw inhoud kunt volgen.
+Met de betrokkenheidsscore kunt u eenvoudig zien hoe effectief de inhoud in uw betrokkenheidsprogramma is. De score loopt van 0 tot en met 100. Bekijk [het dashboard Betrokkenheid](https://docs.marketo.com/display/DOCS/The+Engagement+Dashboard) om te zien hoe u de prestaties van uw inhoud kunt volgen.
 
 ![Afbeelding één](/help/sky/assets/engagement-programs/understanding-the-engagement-score/understanding-the-engagement-score-1.png)
 
