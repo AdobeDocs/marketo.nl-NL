@@ -33,7 +33,7 @@ In de operationele e-mailberichten worden de status Niet-geabonneerd en Door Mar
 
    ![](assets/two-1.png)
 
-1. Controleer de **operationele e-mail** en klik op **Opslaan**.
+1. Controleer **Operationele e-mail** en klik **Opslaan**.
 
    ![](assets/three.png)
 
@@ -41,4 +41,4 @@ In de operationele e-mailberichten worden de status Niet-geabonneerd en Door Mar
 >
 >Operationele e-mails zijn niet ontworpen om te werken met betrokkenheidsprogramma&#39;s. Zo negeert een serviceprogramma de operationele status van een e-mail. Houd daar rekening mee wanneer u met hen werkt.
 
-Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe u een e-mail [](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)goedkeurt.
+Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe u een e-mail [goedkeurt.](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
