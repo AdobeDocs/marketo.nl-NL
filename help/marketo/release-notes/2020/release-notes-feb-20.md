@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: 20 feb. {#release-notes-feb}
+# Opmerkingen bij de release: Feb &#39;20 {#release-notes-feb}
 
 De volgende functies zijn opgenomen in de release van 20 februari. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
 
@@ -19,9 +19,9 @@ De volgende functies zijn opgenomen in de release van 20 februari. Controleer uw
 >
 >**Beschikbaarheid**
 >
->Functies die door een ster ( ![(ster)](assets/star-yellow.svg)) worden aangeduid, krijgen invoegtoepassingen. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+>Functies die door een ster worden aangeduid ( ![(star)](assets/star-yellow.svg)), worden tegen betaling aangeboden. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
-***Kwartaalversies*** De volgende functies zijn gepubliceerd op 21 **februari 2020**.
+***Driemaandelijkse*** releasesDe volgende functies zijn op 21  **februari 2020** gepubliceerd.
 
 ## Core Marketo Engage {#core-marketo-engage}
 
@@ -38,7 +38,7 @@ De volgende functies zijn opgenomen in de release van 20 februari. Controleer uw
 ***Vrijgeven door het Kwartaal***
 
 De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden de komende maanden vrijgegeven.
-**Bizible ![(ster)](assets/star-yellow.svg)
+**Bizible ![(star)](assets/star-yellow.svg)
 
 **
 
@@ -46,7 +46,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 * **Filters** opslaan: Sla dashboardspecifieke filters op die uniek zijn voor elke gebruiker en die uw dashboards snel en consistent kunnen analyseren.
 * **Exporteren naar PDF**: U kunt waardevolle inzichten in uw hele organisatie delen door Bizible Dashboards als PDF&#39;s te exporteren.
 
-## Verkoop Connect  {#sales-connect}
+## Sales Connect {#sales-connect}
 
 * **Updates** van venster samenstellen: We hebben het proces voor het selecteren van sjablonen en het verzenden van e-mails via Sales Connect gestroomlijnd. Gebruik het venster Samenstellen in onze webclient en Salesforce als een one-stop shop voor verkopers, met de mogelijkheid om sjablooncategorieën op te slaan, e-mails te plannen, bulksgewijs e-mails te verzenden en e-mails te verzenden met weergave en op bijhouden te klikken.
 * **Updates** voor Command Center: We bouwen het Sales Connect Command Center opnieuw op om verkopers inzicht te geven in al hun e-mails, gesprekken en taken die vanuit Sales Connect zijn gestart. Ze kunnen ook informatie zoals de service en de te leveren items via e-mail weergeven vanuit het Command Center.
@@ -59,7 +59,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Afwijkingen {#deprecations}
 
-* **Parameter**&quot;_methode&quot; van de element-API: Na September 2020, zullen de Eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in het lichaam van een POST over te gaan om de lengtebeperkingen van URI te omzeilen. Om tegemoet te komen aan verzoeken die deze parameter vereisten, wordt de URI-limiet voor de bron-API&#39;s verhoogd van 6KiB naar 65KiB, zodat URI&#39;s met lange aanvragen kunnen worden verzonden.
+* **Parameter** &quot;_methode&quot; van de element-API: Na September 2020, zullen de Eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in het lichaam van een POST over te gaan om de lengtebeperkingen van URI te omzeilen. Om tegemoet te komen aan verzoeken die deze parameter vereisten, wordt de URI-limiet voor de bron-API&#39;s verhoogd van 6KiB naar 65KiB, zodat URI&#39;s met lange aanvragen kunnen worden verzonden.
 * **Ondersteuning voor Internet Explorer**: Vanaf onze release van 31 juli 2020 wordt de Marketo Engage-gebruikersinterface niet meer ondersteund in Internet Explorer.
 
-***Webinar*** van de Versie van het product [sluit zich bij ons](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) op 3 maart aan om 11:00AM PT/2:00PM ET voor een levende webinar die door ons productteam wordt ontvangen en meer over de eigenschappen inbegrepen in deze versie te leren.
+***Productrelease*** [WebinarJoin ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) gebruikt op 3 maart om 11:00AM PT / 2:00PM ET voor een live webinar die wordt gehost door ons productteam en meer informatie over de functies in deze release.
