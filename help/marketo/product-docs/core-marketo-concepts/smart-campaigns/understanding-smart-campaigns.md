@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Als Marketo een krachtige auto is, is de slimme campagne echt de motor. Het is eenvoudig om aan de slag te gaan, maar kan bijna alles doen wat je ervan vraagt.
 
-De slimme campagne heeft drie hoofdgebieden: De tabbladen [Slimme lijst](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Stroom](http://docs.marketo.com/display/DOCS/Flow+Actions) en [Planning](using-smart-campaigns/schedule-a-recurring-batch-campaign.md) .
+De slimme campagne heeft drie hoofdgebieden: De tabbladen [Smart List](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flow](http://docs.marketo.com/display/DOCS/Flow+Actions) en [Schedule](using-smart-campaigns/schedule-a-recurring-batch-campaign.md).
 
 ## Slimme lijst {#smart-list}
 
