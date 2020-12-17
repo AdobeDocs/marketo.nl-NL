@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Dubbele mensen zoeken met aangepaste logica {#find-duplicate-people-with-custom-logic}
+# Dubbele personen zoeken met aangepaste logica {#find-duplicate-people-with-custom-logic}
 
 Marketo heeft een systeem slimme lijst die dubbele mensen door hun e-mailadressen te passen vindt. Als u een ander veld wilt gebruiken om duplicaten te zoeken, gaat u als volgt te werk.
 
