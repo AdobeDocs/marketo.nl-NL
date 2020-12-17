@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt uw sleutelwoordresultaten uitvoeren om met uw team te delen of een rapport tot stand te brengen.
 
-1. Ga naar de sectie **Trefwoorden** .
+1. Ga naar de **sectie Keywords**.
 
    ![](assets/image2014-9-18-12-3a51-3a7.png)
 
