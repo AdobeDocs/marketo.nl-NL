@@ -11,25 +11,25 @@ ht-degree: 0%
 ---
 
 
-# SEO - voeg manueel een Binnenkomende Verbinding URL toe {#seo-add-an-inbound-link-url-manually}
+# SEO - voeg manueel een Binnenkomende Verbinding URL {#seo-add-an-inbound-link-url-manually} toe
 
 U kunt binnenkomende Verbindingen manueel toevoegen. Hieronder wordt beschreven hoe:
 
-1. Ga naar de **Binnenkomende sectie van Verbindingen** .
+1. Ga naar **Binnenkomende Verbindingen** sectie.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. Klik op URL&#39;s **TOEVOEGEN**.
+1. Klik **URLS TOEVOEGEN**.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. Typ de URL. Klik op **TOEVOEGEN**.
+1. Typ de URL. Klik **ADD**.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >Wist u dat u uw inkomende verbinding aan een nieuwe of bestaande lijst [kunt](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)toevoegen? Kijk eens!
+   >Wist u dat u uw binnenkomende verbinding aan een nieuwe of bestaande lijst [ kunt toevoegen? ](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) Kijk eens!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
