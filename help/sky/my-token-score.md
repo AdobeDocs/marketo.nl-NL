@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Hier is hoe te opstelling een teken van de Score voor gebruik in uw programma&#39;s en campagnemappen.
 
-1. Sleep op het [!UICONTROL My Tokens] tabblad van uw programma of map een **Score** -token naar het [!UICONTROL Local Tokens] canvas.
+1. Sleep op het tabblad [!UICONTROL My Tokens] van uw programma of map een **Score**-token naar het [!UICONTROL Local Tokens]-canvas.
 
    ![Afbeelding één](/help/sky/assets/my-tokens/my-token-score/my-token-score-1.png)
 
