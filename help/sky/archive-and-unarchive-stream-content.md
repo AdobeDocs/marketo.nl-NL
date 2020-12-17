@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Stroominhoud archiveren en archiveren
 
-Als u een stuk inhoud in een stroom niet meer wilt gebruiken, kunt u het of [verwijderen](/help/sky/remove-stream-content.md) of archiveren.
+Als u een stuk van inhoud in een stroom niet meer wilt gebruiken kunt u of [remove](/help/sky/remove-stream-content.md) het of archiveren.
 
 >[!TIP]
 >
@@ -25,7 +25,7 @@ Als u een stuk inhoud in een stroom niet meer wilt gebruiken, kunt u het of [ver
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-1.png)
 
-1. Klik op het **[!UICONTROL Streams]** tabblad
+1. Klik op de tab **[!UICONTROL Streams]**
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-2.png)
 
@@ -45,11 +45,11 @@ Dat is het! Herinner me, archiveer als u geschiedenis wilt bewaren.
 
    ![Afbeelding vijf](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-5.png)
 
-1. Klik op het **[!UICONTROL Streams]** tabblad.
+1. Klik op het tabblad **[!UICONTROL Streams]**.
 
    ![Afbeelding zes](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-6.png)
 
-1. Klik op het tandwielpictogram voor uw stroom en klik vervolgens **[!UICONTROL Show Archived Content]**.
+1. Klik op het tandwielpictogram voor de stream en klik op **[!UICONTROL Show Archived Content]**.
 
    ![Afbeelding zeven](/help/sky/assets/engagement-programs/archive-and-unarchive-stream-content/archive-and-unarchive-stream-content-7.png)
 
