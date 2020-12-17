@@ -15,17 +15,17 @@ ht-degree: 0%
 
 U kunt een voorbeeld van een e-mailmoment rechtstreeks met iemand delen. Er zijn twee manieren om het te doen.
 
-## De normale weg {#the-regular-way}
+## De reguliere weg {#the-regular-way}
 
 1. Open het menu Kaart.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tik op Voorbeeld **verzenden**.
+1. Tik **Sample verzenden**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Voer een e-mailadres in en klik op Voorbeeld **verzenden**.
+1. Voer een e-mailadres in en klik op **Voorbeeld verzenden**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
