@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Voeg aangepaste velden toe aan accounts, wijs deze toe aan uw CRM en gebruik ze voor CRM-accountdetectie in Marketo.
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/admin.png)
 
-1. Klik op **Veldbeheer** en vervolgens op **Nieuw aangepast veld**.
+1. Klik **Veldbeheer**, dan **Nieuw Aangepast veld**.
 
    ![](assets/two-4.png)
 
@@ -27,11 +27,11 @@ Voeg aangepaste velden toe aan accounts, wijs deze toe aan uw CRM en gebruik ze 
 
    ![](assets/three-3.png)
 
-1. Klik op de vervolgkeuzelijst **Type** en selecteer een type.
+1. Klik **Type** drop-down en selecteer een type.
 
    ![](assets/four-3.png)
 
-1. Voer een **naam** in (de API-naam wordt automatisch ingevuld) en klik op **Maken**.
+1. Voer een **Naam** in (de API-naam wordt automatisch ingevuld) en klik op **Maken**.
 
    ![](assets/five-3.png)
 
@@ -39,7 +39,7 @@ Voeg aangepaste velden toe aan accounts, wijs deze toe aan uw CRM en gebruik ze 
 
    ![](assets/six-2.png)
 
-1. Selecteer het de rekeningsgebied van CRM u aan in kaart wilt brengen en klik **sparen**.
+1. Selecteer het de rekeningsgebied van CRM u aan in kaart wilt brengen en **sparen** klikken.
 
    ![](assets/seven-1.png)
 
