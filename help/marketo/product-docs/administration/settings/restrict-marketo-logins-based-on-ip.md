@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Beperk Marketo Logins die op IP worden gebaseerd {#restrict-marketo-logins-based-on-ip}
+# Marketo-aanmeldingen beperken op basis van IP {#restrict-marketo-logins-based-on-ip}
 
 U kunt gebruikers beperken of toelaten om tot Marketo toegang te hebben die op hun IP adressen wordt gebaseerd. Zo gaat het.
 
@@ -23,15 +23,15 @@ U kunt gebruikers beperken of toelaten om tot Marketo toegang te hebben die op h
 >
 >De informatie in dit artikel is slechts op directe login op login.marketo.com van toepassing. Het is niet mogelijk om IP beperkingen op enig sign-on (SSO) login op dit ogenblik af te dwingen.
 
-1. Klik onder **Beheerder** op **Aanmeldingsinstellingen**.
+1. Klik onder **Admin** op **Aanmeldingsinstellingen**.
 
    ![](assets/image2014-9-16-12-3a57-3a56.png)
 
-1. Klik op IP-beperkingen **bewerken**.
+1. Klik **IP Beperkingen bewerken**.
 
    ![](assets/image2014-9-16-12-3a58-3a13.png)
 
-1. Kies of u **Toestaan **of specifieke adressen van het **Blok** wilt, ga het adres(sen) in, dan klik **sparen**.
+1. Kies of u **Toestaan **of **Blok** specifieke adressen wilt, ingaan het adres(sen), dan klik **sparen**.
 
    >[!NOTE]
    >
