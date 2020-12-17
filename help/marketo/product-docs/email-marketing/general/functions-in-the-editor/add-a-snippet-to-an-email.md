@@ -22,9 +22,9 @@ Fragmenten zijn herbruikbare blokken tekst en afbeeldingen met opmaak die u kunt
 
 >[!NOTE]
 >
->U kunt geen [Marketo-e-](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)mailsyntaxis insluiten in fragmenten. het werkt **niet** in een e-mail. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
+>U kunt geen [Marketo-e-mailsyntaxis](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)in fragmenten insluiten. het zal **niet** in een e-mail werken. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
 
-1. Zoek uw e-mail, selecteer het en klik **uitgeven Ontwerp**.
+1. Zoek uw e-mail, selecteer het en klik **geef Ontwerp** uit.
 
    ![](assets/one-2.png)
 
@@ -32,7 +32,7 @@ Fragmenten zijn herbruikbare blokken tekst en afbeeldingen met opmaak die u kunt
 
    ![](assets/two-2.png)
 
-1. Selecteer het gewenste fragment en klik op **Opslaan**.
+1. Selecteer het fragment van uw keuze en klik op **Opslaan**.
 
    ![](assets/three-1.png)
 
@@ -44,6 +44,6 @@ Fragmenten zijn herbruikbare blokken tekst en afbeeldingen met opmaak die u kunt
 
    >[!NOTE]
    >
-   >Telkens wanneer u uw fragment bijwerkt en goedkeurt, worden de wijzigingen doorgevoerd in de e-mail. De e-mail wordt opgesteld tenzij u het fragment met [Geen concept](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)goedkeurt.
+   >Telkens wanneer u uw fragment bijwerkt en goedkeurt, worden de wijzigingen doorgevoerd in de e-mail. De e-mail wordt opgesteld tenzij u het fragment met [No-Draft](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md) goedkeurt.
 
 Dit is een snelle en eenvoudige manier om dynamische inhoud opnieuw te gebruiken.
