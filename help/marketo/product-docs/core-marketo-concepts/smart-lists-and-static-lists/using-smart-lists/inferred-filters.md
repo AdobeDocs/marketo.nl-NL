@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Overgenomen filters {#inferred-filters}
 
-Wanneer iemand uw website bezoekt, neemt [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) ze in het systeem op. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info. Bekijk het.
+Wanneer iemand uw website bezoekt, worden deze door [Munchkin](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) in het systeem opgeslagen. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info. Bekijk het.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -34,7 +34,7 @@ Wanneer u een van deze filters in een slimme lijst gebruikt, leveren de resultat
 >Gebruik deze filters in een webactiviteitenrapport. Gebruik de gebieden van de verkoopvertegenwoordigers en onderteken deze in de afgelopen 24 uur aan een aangepast dagelijks rapport met websitebezoekers. Ze zullen het leuk vinden!
 >
 >* Bezochte webpagina - Laatste 24 uur
->* De betrokken staat is [het grondgebied van die staat]
+>* Overgedragen staat is [hun grondgebied selecteren]
 
 >
 
@@ -46,5 +46,5 @@ Deze anonieme bezoekers worden automatisch geconverteerd naar personen wanneer z
 >
 >**Diep duiken**
 >
->Meer weten over [anonieme activiteiten en leads](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)?
+>Meer informatie over [anonieme activiteit en leads](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
 
