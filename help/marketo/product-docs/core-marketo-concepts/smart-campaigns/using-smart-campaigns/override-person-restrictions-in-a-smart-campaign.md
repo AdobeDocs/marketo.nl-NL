@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Persoonlijke beperkingen in een slimme campagne negeren {#override-person-restrictions-in-a-smart-campaign}
+# Persoonlijke beperkingen in een slimme campagne {#override-person-restrictions-in-a-smart-campaign} overschrijven
 
-Marketo stelt u in staat het maximum** aantal personen in te stellen dat in aanmerking komt voor een slimme campagne. dit helpt u te voorkomen dat u per ongeluk uw gehele database per e-mail verzendt. Als je deze limiet wilt *overschrijven* , is dit hoe.
+Marketo stelt u in staat het maximum** aantal personen in te stellen dat in aanmerking komt voor een slimme campagne. dit helpt u te voorkomen dat u per ongeluk uw gehele database per e-mail verzendt. Als u *override* deze limiet wilt, is dit hoe.
 
 >[!PREREQUISITES]
 >
->Zorg ervoor dat u persoonlijke beperkingen [inschakelt voor slimme campagnes](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) in Marketo-beheerder.
+>Zorg ervoor dat u de beperkingen voor personen [inschakelt voor slimme campagnes](../../../../product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) in Marketo Admin.
 
 1. Ga bij Marketingactiviteiten naar uw**** slimme campagne en klik op **Schema**.
 
