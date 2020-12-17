@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# A/B-tests met &quot;Hele e-mail&quot; gebruiken {#use-whole-email-a-b-testing}
+# &quot;Hele e-mail&quot; A/B testen {#use-whole-email-a-b-testing} gebruiken
 
-U kunt uw e-mailberichten eenvoudig testen. Een geweldige test is de **A-mailtest** . Hier is hoe je het instelt.
+U kunt uw e-mailberichten eenvoudig testen. Een geweldige test is de **Volledige e-mailtest**. Hier is hoe je het instelt.
 
 >[!PREREQUISITES]
 >
@@ -29,11 +29,11 @@ U kunt uw e-mailberichten eenvoudig testen. Een geweldige test is de **A-mailtes
 
 `
 
-1. Er wordt een nieuw venster geopend. Klik op de vervolgkeuzelijst Type **** test en selecteer **Gehele e-mails**.
+1. Er wordt een nieuw venster geopend. Klik op de vervolgkeuzelijst **Type testen** en selecteer **Hele e-mails**.
 
    ![](assets/image2014-9-12-15-3a22-3a27.png)
 
-1. Als u vorige testinformatie hebt (zoals een onderwerptest), kunt u veilig klikken **Test** terugstellen.
+1. Als u vorige testinformatie hebt (zoals een onderwerptest), kunt u veilig **Test opnieuw instellen** klikken.
 
    ![](assets/image2014-9-12-15-3a22-3a40.png)
 
@@ -41,7 +41,7 @@ U kunt uw e-mailberichten eenvoudig testen. Een geweldige test is de **A-mailtes
 
    ![](assets/image2014-9-12-15-3a22-3a52.png)
 
-1. Klik op **Toevoegen** om het e-mailbericht toe te passen.
+1. Klik **Add** om e-mail toe te passen.
 
    ` ![](assets/image2014-9-12-15-3a23-3a20.png)
 
@@ -57,7 +57,7 @@ U kunt uw e-mailberichten eenvoudig testen. Een geweldige test is de **A-mailtes
 
    `
 
-1. Klik op **Toevoegen** om het tweede e-mailbericht toe te passen. Sleep de schuifregelaar om te kiezen welk percentage van het publiek u de A/B-test wilt ontvangen en klik op **Volgende**.
+1. Klik **Add** om tweede e-mail toe te passen. Sleep de schuifregelaar om te kiezen welk percentage van het publiek u de A/B-test wilt ontvangen en klik op **Volgende**.
 
    ` ![](assets/image2014-9-12-15-3a24-3a1.png)
 
@@ -65,13 +65,13 @@ U kunt uw e-mailberichten eenvoudig testen. Een geweldige test is de **A-mailtes
 
    >[!NOTE]
    >
-   >De verschillende variaties worden in gelijke delen van de gekozen **monstergrootte** voor de test verzonden.
+   >De verschillende variaties verzenden naar gelijke delen van de gekozen **Monstergrootte testen**.
 
    >[!CAUTION]
    >
-   >**U wordt aangeraden de voorbeeldgrootte niet in te stellen op 100%**. Als u een statische lijst gebruikt, verzendt het plaatsen van de steekproefgrootte aan 100% de e-mail naar iedereen in het publiek en de winnaar gaat aan niemand. Als u een **slimme** lijst gebruikt, verzendt het plaatsen van de steekproefgrootte aan 100% de e-mail naar iedereen in publiek *op dat ogenblik. *Wanneer het e-mailprogramma later opnieuw wordt uitgevoerd, ontvangen alle nieuwe personen die in aanmerking komen voor de slimme lijst ook de e-mail omdat ze nu in het publiek zijn opgenomen.
+   >**U wordt aangeraden de voorbeeldgrootte niet in te stellen op 100%**. Als u een statische lijst gebruikt, verzendt het plaatsen van de steekproefgrootte aan 100% de e-mail naar iedereen in het publiek en de winnaar gaat aan niemand. Als u een **smart** lijst gebruikt, verzendt het plaatsen van de steekproefgrootte aan 100% de e-mail naar iedereen in publiek *op dat ogenblik. *Wanneer het e-mailprogramma later opnieuw wordt uitgevoerd, ontvangen alle nieuwe personen die in aanmerking komen voor de slimme lijst ook de e-mail omdat ze nu in het publiek zijn opgenomen.
 
-   Oké, we zijn er bijna. Nu moeten we de criteria [voor de winnaars van de A/B-test](define-the-a-b-test-winner-criteria.md)definiëren.
+   Oké, we zijn er bijna. Nu moeten wij [de criteria van de A/B testwinnaar bepalen](define-the-a-b-test-winner-criteria.md).
 
    >[!NOTE]
    >
