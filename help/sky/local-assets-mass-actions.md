@@ -14,15 +14,15 @@ ht-degree: 0%
 
 <br> 
 
-U kunt bulkacties op veelvoudige activa direct van de **[!UICONTROL Actions]** sectie onder het **[!UICONTROL Assets]** lusje uitvoeren. Hier is hoe u de middelen kunt vinden die u nodig hebt en er een massale actie op kunt toepassen.
+U kunt bulkacties op veelvoudige activa direct van **[!UICONTROL Actions]** sectie onder **[!UICONTROL Assets]** tabel uitvoeren. Hier is hoe u de middelen kunt vinden die u nodig hebt en er een massale actie op kunt toepassen.
 
 ## Filteren op elementtype en/of -voorwaarde
 
-Als u specifieke elementen wilt zoeken waarop u actie wilt ondernemen, kunt u filteren door een of meer typen in de vervolgkeuzelijst te kiezen. **[!UICONTROL asset type]**
+Om specifieke activa te vinden die u actie wilt voeren, kunt u door **[!UICONTROL asset type]** filtreren door één of meerdere types van drop-down te kiezen.
 
 ![Afbeelding één](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-1.png)
 
-Bovendien, kunt u filtreren door één of meerdere voorwaarden van drop-down te kiezen. **[!UICONTROL asset condition]** U kunt dit afzonderlijk of in combinatie met het filteren van elementtypen doen.
+Bovendien, kunt u filtreren door **[!UICONTROL asset condition]** door één of meerdere voorwaarden van drop-down te kiezen. U kunt dit afzonderlijk of in combinatie met het filteren van elementtypen doen.
 
 ![Afbeelding twee](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-2.png)
 
@@ -32,7 +32,7 @@ Bovendien, kunt u filtreren door één of meerdere voorwaarden van drop-down te 
 
 ## Een massaactie toepassen
 
-Selecteer een groep elementen en kies vervolgens een actie in het **[!UICONTROL Select Action]** keuzemenu. Handelingen die niet op _een_ van de geselecteerde elementen kunnen worden toegepast, worden automatisch grijs weergegeven.
+Selecteer een groep elementen en kies vervolgens een handeling in de vervolgkeuzelijst **[!UICONTROL Select Action]**. Handelingen die niet kunnen worden toegepast op _om het even welk_ van uw geselecteerde activa worden automatisch grijs uit.
 
 ![Afbeelding drie](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-3.png)
 
@@ -46,13 +46,13 @@ Wanneer u een massaactie selecteert, wordt een bevestigingspop-up weergegeven me
 
 ## Statusmeldingen
 
-U kunt de status van uw massaacties in het **[!UICONTROL Recent Notifications]** dienblad vinden.
+U kunt de status van uw massaacties vinden in het **[!UICONTROL Recent Notifications]** dienblad.
 
 ![Afbeelding vijf](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-5.png)
 
 ## Fouten in massaactie
 
-Als de gekozen actie niet kan worden toegepast omdat het element moet worden gerepareerd, ontvangt u een melding van een gedeeltelijke fout (met een geel waarschuwingsteken). Als de actie niet op _al uw geselecteerde activa_ van toepassing is geweest, zal het bericht een rood waarschuwingsteken hebben. Klik **[!UICONTROL View Failures]** voor meer informatie.
+Als de gekozen actie niet kan worden toegepast omdat het element moet worden gerepareerd, ontvangt u een melding van een gedeeltelijke fout (met een geel waarschuwingsteken). Als de actie niet op _all_ van uw geselecteerde activa van toepassing is, zal het bericht een rood waarschuwingsteken hebben. Klik op **[!UICONTROL View Failures]** voor meer informatie.
 
 ![Afbeelding zes](/help/sky/assets/programs/local-assets-mass-actions/local-assets-mass-actions-6.png)
 
