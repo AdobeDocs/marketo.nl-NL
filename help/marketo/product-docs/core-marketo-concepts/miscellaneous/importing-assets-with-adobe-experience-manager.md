@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Middelen importeren met Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
+# Elementen importeren met Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
 Met de Asset Picker kunnen klanten van Marketo toegang krijgen tot AEM middelen en deze selecteren en importeren in de Design Studio van Marketo. **Beheerdersmachtigingen zijn vereist**.
 
@@ -23,13 +23,13 @@ Met de Asset Picker kunnen klanten van Marketo toegang krijgen tot AEM middelen 
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u reeds de Configuratie [van de](https://docs.marketo.com/x/FwPLAQ)AEM hebt uitgevoerd.
+>Zorg ervoor u reeds [AEM Configuratie](https://docs.marketo.com/x/FwPLAQ) hebt uitgevoerd.
 
 >[!CAUTION]
 >
 >Deze functie wordt momenteel alleen volledig ondersteund in Firefox. Deze functie wordt niet ondersteund in Safari en werkt mogelijk niet in de nieuwste versie van Chrome (v. 80), afhankelijk van de cookie-instellingen van SameSite.
 
-1. Klik op **Design Studio**.
+1. Klik **Design Studio**.
 
    ![](assets/one-1.png)
 
@@ -45,7 +45,7 @@ Met de Asset Picker kunnen klanten van Marketo toegang krijgen tot AEM middelen 
 
    ![](assets/four-1.png)
 
-1. Kies uw map. Selecteer vervolgens de gewenste afbeeldingen door op de miniatuur te klikken (u kunt maximaal 10 afbeeldingen selecteren). Klik op **Selecteren** als u klaar bent.
+1. Kies uw map. Selecteer vervolgens de gewenste afbeeldingen door op de miniatuur te klikken (u kunt maximaal 10 afbeeldingen selecteren). Klik **Selecteer** wanneer gereed.
 
    ![](assets/five.png)
 
@@ -53,11 +53,11 @@ Met de Asset Picker kunnen klanten van Marketo toegang krijgen tot AEM middelen 
    >
    >Afbeeldingen mogen niet groter zijn dan 100 MB.
 
-1. Klik op **Importeren** om het proces te voltooien.
+1. Klik **Importeren** om het proces te voltooien.
 
    ![](assets/six-1.png)
 
-   En dat is het! Klik **dicht** om aan de Studio van het Ontwerp terug te keren.
+   En dat is het! Klik **Close** om aan de Studio van het Ontwerp terug te keren.
 
    ![](assets/seven-1.png)
 
