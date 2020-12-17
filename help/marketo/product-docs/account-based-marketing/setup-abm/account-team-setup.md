@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Een accountteam is een groep belanghebbenden die samenwerken aan een benoemde account. Voer de volgende stappen uit om te kiezen welke CRM-accountrollen moeten worden toegevoegd.
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/one-3.png)
 
-1. Klik op **ABM**.
+1. Klik **ABM**.
 
    ![](assets/two-3.png)
 
@@ -31,7 +31,7 @@ Een accountteam is een groep belanghebbenden die samenwerken aan een benoemde ac
    >
    >Geef deze als accountrol een naam en pas deze aan het gewenste zoekveld voor gebruiker in uw CRM aan.
 
-1. Typ de naam van uw accountrol en selecteer het veld **CRM** . Voeg maximaal 10 toe.
+1. Typ de naam van uw accountrol en selecteer het veld **CRM**. Voeg maximaal 10 toe.
 
    ![](assets/four-2.png)
 
@@ -39,7 +39,7 @@ Een accountteam is een groep belanghebbenden die samenwerken aan een benoemde ac
    >
    >U kunt geen eigenaar van account selecteren. Het wordt door gebrek gekozen van het rekeningsniveau in uw CRM.
 
-1. Klik op **Opslaan** als u klaar bent.
+1. Klik **Opslaan** wanneer gereed.
 
    ![](assets/five-2.png)
 
