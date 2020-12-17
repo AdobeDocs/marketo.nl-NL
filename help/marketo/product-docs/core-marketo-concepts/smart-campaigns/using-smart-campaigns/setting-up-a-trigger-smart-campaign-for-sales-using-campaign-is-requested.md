@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die &quot;de Campagne wordt gevraagd&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
+# Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die &quot;Campagne gebruikt wordt gevraagd&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 Een van de mooiste kenmerken van Marketo is de mogelijkheid om verkoopmedewerkers te laten deelnemen aan de marketingactiviteiten. Ze staan op de voorgrond, communiceren met mensen. Verkoopvertegenwoordigers moeten de mogelijkheid hebben om de marketing in de juiste richting te sturen.
 
@@ -21,22 +21,22 @@ Een van de mooiste kenmerken van Marketo is de mogelijkheid om verkoopmedewerker
 >
 >Voorbeelden van op te vragen slimme campagnes:
 >
->1. **Langdurige zorg** - als ze dit jaar geen budget hebben en je gewoon op de radar wilt blijven
->1. **Actieve verkoopcyclus** - wanneer de verkoper geen berichten aan de persoon behalve hun wil. (gebruik de vlag voor geschorste verkoop om deze tijdelijk af te melden)
+>1. **Langdurige zorg**  - als ze dit jaar geen budget hebben en je gewoon op de radar wilt blijven
+>1. **Actieve verkoopcyclus**  - wanneer de verkooppersoon geen berichten aan de persoon behalve hun wil. (gebruik de vlag voor geschorste verkoop om deze tijdelijk af te melden)
 
 >
 >
 Wees creatief. Wat wil de verkoper automatiseren? Vraag het hen gewoon en doe het op!
 
-1. Maak een **slimme campagne.**
+1. Een **slimme campagne maken.**
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. Campagne voor zoeken en slepen **** is ****Gevraagd **naar het canvas** .
+1. **Campagne** **is** **Gevraagd **naar het canvas slepen.
 
    ![](assets/campaignfilterdrag.png)
 
-1. De bronkeuzen geven aan welk soort verzoek wordt uitgevoerd. Voor de functionaliteit van Salesforce, zorg ervoor om **Verkoop** **Inzicht** te kiezen.
+1. De bronkeuzen geven aan welk soort verzoek wordt uitgevoerd. Voor Salesforce-functionaliteit moet u **Verkoop** **Inzicht** kiezen.
 
    >[!TIP]
    >
