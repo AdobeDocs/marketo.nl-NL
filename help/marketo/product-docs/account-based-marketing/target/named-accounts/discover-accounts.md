@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Accounts detecteren {#discover-accounts}
+# Accounts {#discover-accounts} detecteren
 
 Gebruik de optie Ontdekken om potentiële doelaccounts te identificeren.
 
@@ -21,13 +21,13 @@ Identificeer potentiële doelrekeningen van uw CRM.
 
 >[!NOTE]
 >
->Nadat u uw CRM met Marketo ABM verbindt, **ontdekt de Rekeningen** van CRM alle rekeningen van CRM en relevante informatie zal tonen om u te helpen de juiste genoemde rekeningen kiezen. Marketo voegt extra informatie toe bovenop wat van CRM wordt ontvangen.
+>Nadat u uw CRM met Marketo ABM verbindt, **ontdekt CRM Rekeningen** zal alle rekeningen van CRM en relevante informatie tonen om u te helpen de juiste genoemde rekeningen kiezen. Marketo voegt extra informatie toe bovenop wat van CRM wordt ontvangen.
 
-**Personen** (in het geval van CRM-accounts en markttoegang ontdekken): Omvat zowel Contacten als Leads. Leads kunnen worden gedetecteerd met behulp van [lead-to-account-overeenkomsten](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching)van Marketo. **Potentiële personen** (bij het ontdekken van CRM-accounts en het ontdekken van marktobedrijven): Toont hoeveel lood Marketo vond die tot een rekening van CRM kon behoren.
+**Personen**  (in het geval van CRM-accounts en markttoegang ontdekken): Omvat zowel Contacten als Leads. Leads kunnen worden gedetecteerd met behulp van [lead-to-account matching](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching) van Marketo. **Potentiële personen**  (bij het ontdekken van CRM-accounts en het ontdekken van marktobedrijven): Toont hoeveel lood Marketo vond die tot een rekening van CRM kon behoren.
 
-**Aangepast CRM-veld** (alleen in CRM-rekeningen ontdekken): Op deze manier kunt u uw verkoop- en marketingorganisatie beter afstemmen op de juiste doelaccounts. Nadat u het aangepaste CRM-veld [hebt](http://docs.marketo.com/x/1wnG) toegewezen met Marketo ABM, worden de toegewezen gegevens weergegeven om u te helpen uw doelaccounts te identificeren.
+**Aangepast CRM-veld**  (alleen in CRM-rekeningen ontdekken): Op deze manier kunt u uw verkoop- en marketingorganisatie beter afstemmen op de juiste doelaccounts. Als u [het aangepaste CRM-veld](http://docs.marketo.com/x/1wnG) hebt toegewezen aan Marketo ABM, geven we u de toegewezen gegevens weer om u te helpen uw doelaccounts te identificeren.
 
-1. Klik in Benoemde accounts op de vervolgkeuzelijst **Nieuw** en selecteer CRM-accounts **detecteren**.
+1. Klik in Benoemde accounts op de vervolgkeuzelijst **Nieuw** en selecteer **CRM-accounts detecteren**.
 
    ![](assets/disc-crm-one.png)
 
@@ -35,7 +35,7 @@ Identificeer potentiële doelrekeningen van uw CRM.
 
    ![](assets/disc-crm-two.png)
 
-1. Het voorvertoningsscherm bevestigt de hoeveelheid selecties. Klik op **Maken**.
+1. Het voorvertoningsscherm bevestigt de hoeveelheid selecties. Klik **Maken**.
 
    ![](assets/disc-three.png)
 
@@ -43,7 +43,7 @@ Identificeer potentiële doelrekeningen van uw CRM.
 
    ![](assets/disc-four.png)
 
-## Marketo Companies ontdekken {#discover-marketo-companies}
+## Marketo Companies {#discover-marketo-companies} detecteren
 
 Identificeer de juiste bedrijven voor het richten.
 
@@ -51,11 +51,11 @@ Identificeer de juiste bedrijven voor het richten.
 >
 >In Discover Marketo Companies zie je Marketo-bedrijven die niet van je CRM afkomstig waren.
 
-1. Klik in Benoemde accounts op de vervolgkeuzelijst **Nieuw** en selecteer **Marketo-bedrijven** detecteren.
+1. Klik in Benoemde accounts op de vervolgkeuzelijst **Nieuw** en selecteer **Marketo-bedrijven detecteren**.
 
    ![](assets/one-1.png)
 
-1. Er wordt een nieuw venster/tabblad geopend. Selecteer de bedrijven die u wilt toevoegen aan uw benoemde accounts en klik op **Volgende**.
+1. Er wordt een nieuw venster/tabblad geopend. Selecteer de bedrijven u aan uw Benoemde Rekeningen wilt toevoegen en **daarna** klikken.
 
    ![](assets/disc-comp-two.png)
 
@@ -65,18 +65,18 @@ Identificeer de juiste bedrijven voor het richten.
    >
    > * Vindt mensen van uw gegevensbestand van Marketo die dat bedrijf in hun verslag hebben vermeld. Als u meerdere waarden ziet voor sommige kenmerken (bijvoorbeeld de industrie), komt dat doordat Marketo verschillende waarden heeft gevonden die voor die individuele personen zijn vermeld. Het kenmerk met de meest treffers wint
    >
-   >Alleen bij **Discover CRM** markeert u automatisch:
+   >Alleen in **CRM** detecteren, markeert automatisch:
    >
    > * Syncs and associates CRM Contact with the Named Account
    >
-   >Alleen in **Discover Marketo Companies** wordt automatisch Marketo:
+   >In **Alleen Marketo Companies** detecteren, markeert u automatisch:
    >
-   > * Hiermee worden de meeste Internet Service Providers en Public Domains (bijvoorbeeld [Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com)) als bedrijfsnamen gefilterd
+   > * Filters uit de meeste Dienstverleners van Internet en Openbare Domeinen (b.v. [Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com)) als bedrijfsnamen
       >
       > 
    * Deupes CRM accounts. Als u Acme in één record hebt en Acme Inc (of een van de volgende achtervoegsels): Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), zullen wij hen in ABM als enkel &quot;Acme&quot; samenvoegen
    >
-   >Neem contact op met de [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support)als u wilt dat Marketo de-dupe accounts door CRM-id of accounteigenaar in plaats van door bedrijfsnaam.
+   >Als u Marketo-accounts wilt dedupliceren door CRM-id of rekeningeigenaar in plaats van door bedrijfsnaam, neemt u contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Klik op de pijl-omlaag onder de kolom Benoemd account om de vervolgkeuzelijst weer te geven.
 
@@ -86,7 +86,7 @@ Identificeer de juiste bedrijven voor het richten.
    >
    >In de toekomst zullen nieuwe personen van deze geselecteerde bedrijven automatisch worden toegewezen aan hun respectievelijke benoemde accounts. Controleer deze bedrijven nogmaals en controleer of ze zijn toegewezen aan de juiste benoemde account.
 
-1. Als u een bestaande account wilt selecteren, klikt u op de vervolgkeuzelijst **Benoemd account** , kiest u de gewenste account en klikt u op **Volgende**.
+1. Als u een bestaande account wilt selecteren, klikt u op de vervolgkeuzelijst **Benoemd account** en kiest u de gewenste account. Klik vervolgens op **Volgende**.
 
    ![](assets/disc-comp-four.png)
 
@@ -94,11 +94,11 @@ Identificeer de juiste bedrijven voor het richten.
 
    ![](assets/disc-comp-five.png)
 
-   ...en u ziet uw nieuwe Benoemde Account. Klik op dat punt op **Volgende** , bijvoorbeeld in stap 4.
+   ...en u ziet uw nieuwe Benoemde Account. Op dat punt klik enkel **Volgende** als in Stap 4.
 
    ![](assets/disc-comp-six.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/disc-comp-seven.png)
 
