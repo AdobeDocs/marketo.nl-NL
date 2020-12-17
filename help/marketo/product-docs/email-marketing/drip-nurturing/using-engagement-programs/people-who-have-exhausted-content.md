@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Personen die inhoud hebben geëxporteerd {#people-who-have-exhausted-content}
+# Personen die inhoud {#people-who-have-exhausted-content} hebben geëxporteerd
 
 Wanneer een persoon alle inhoud in een stream heeft ontvangen, heeft deze alle mogelijkheden uitgeput en wacht deze tot er meer inhoud is toegevoegd. Je kunt mensen vinden die op verschillende manieren uitgeput zijn.
 
-## Lid van het filter Betrokkenheidsprogramma {#member-of-engagement-program-filter}
+## Lid van het filter van het Programma van de Betrokkenheid {#member-of-engagement-program-filter}
 
-1. Maak een nieuwe slimme lijst en zoek en sleep in het filter **Lid van het** betrokkenheidsprogramma.
+1. Maak een nieuwe slimme lijst en zoek en sleep in het filter **Lid van betrokkenheidsprogramma**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,7 +25,7 @@ Wanneer een persoon alle inhoud in een stream heeft ontvangen, heeft deze alle m
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Selecteer onder **Restrictie** toevoegen de optie **Uitgebreide inhoud**.
+1. Selecteer **Uitgebreide inhoud** onder **Restrictie toevoegen**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
@@ -37,15 +37,15 @@ Wanneer een persoon alle inhoud in een stream heeft ontvangen, heeft deze alle m
 
 ## Tabblad Leden {#members-tab}
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma.png)
 
-1. Selecteer uw betrokkenheidsprogramma en ga naar het tabblad **Leden** .
+1. Selecteer uw serviceprogramma en ga naar het tabblad **Leden**.
 
    ![](assets/memberstab.jpg)
 
-1. Let op de kolom met de naam **Uitgebreide inhoud**.
+1. Let op de kolom **Uitgebreide inhoud**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
