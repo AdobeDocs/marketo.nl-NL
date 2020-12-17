@@ -18,11 +18,11 @@ Het opslaan van regels voor slimme lijsten is een uitstekende manier om kostbare
 
 ## Regels voor slimme lijsten opslaan
 
-1. Selecteer [!UICONTROL Marketing Activities]in uw slimme campagne (of maak een nieuwe campagne).
+1. Selecteer in [!UICONTROL Marketing Activities] uw slimme campagne (of maak een nieuwe campagne).
 
    ![Afbeelding één](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. Klik **[!UICONTROL Smart List]**.
+1. Klik op **[!UICONTROL Smart List]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -32,11 +32,11 @@ Het opslaan van regels voor slimme lijsten is een uitstekende manier om kostbare
 
    ![Afbeelding vier](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-4.png)
 
-1. Als u klaar bent met het toevoegen van filters/triggers, klikt u op de **[!UICONTROL Smart Campaign Actions]** vervolgkeuzelijst en selecteert u **[!UICONTROL Save Smart List Rule]**.
+1. Wanneer u klaar bent met het toevoegen van filters/trekkers, klik **[!UICONTROL Smart Campaign Actions]** drop-down en selecteer **[!UICONTROL Save Smart List Rule]**.
 
    ![Afbeelding vijf](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-5.png)
 
-1. Geef de regelset een naam en klik op **[!UICONTROL Save]**.
+1. Noem uw regelreeks en klik **[!UICONTROL Save]**.
 
    ![Afbeelding zes](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-6.png)
 
@@ -44,15 +44,15 @@ En dat is het! De volgende keer dat u een slimme campagne maakt, hebt u toegang 
 
 ## Opgeslagen regels voor slimme lijsten gebruiken
 
-1. Selecteer [!UICONTROL Marketing Activities]in uw slimme campagne (of maak een nieuwe campagne).
+1. Selecteer in [!UICONTROL Marketing Activities] uw slimme campagne (of maak een nieuwe campagne).
 
    ![Afbeelding zeven](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. Klik **[!UICONTROL Smart List]**.
+1. Klik op **[!UICONTROL Smart List]**.
 
    ![Afbeelding acht](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
-1. Klik op de **[!UICONTROL Saved Rule]** vervolgkeuzelijst.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Saved Rule]**.
 
    ![Afbeelding negen](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-9.png)
 
