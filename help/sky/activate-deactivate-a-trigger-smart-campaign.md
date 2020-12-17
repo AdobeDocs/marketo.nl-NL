@@ -16,7 +16,7 @@ Als u een slimme triggercampagne activeert/deactiveert, wordt deze in feite in- 
 
 ## Een triggercampagne activeren
 
-1. Klik in uw slimme campagne op het **[!UICONTROL Schedule]** tabblad.
+1. Klik in uw slimme campagne op het tabblad **[!UICONTROL Schedule]**.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-1.png)
 
@@ -24,7 +24,7 @@ Als u een slimme triggercampagne activeert/deactiveert, wordt deze in feite in- 
    >
    >Controleer de slimme campagne voordat u deze activeert.
 
-1. Klik **[!UICONTROL Activate]**.
+1. Klik op **[!UICONTROL Activate]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-2.png)
 
@@ -36,14 +36,14 @@ Vanaf dit moment gaat iedereen die in aanmerking komt voor de slimme lijst door 
 
 ## Een triggercampagne deactiveren
 
-1. Klik in uw slimme campagne op het **[!UICONTROL Schedule]** tabblad.
+1. Klik in uw slimme campagne op het tabblad **[!UICONTROL Schedule]**.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-3.png)
 
-1. Klik **[!UICONTROL Deactivate]**.
+1. Klik op **[!UICONTROL Deactivate]**.
 
    ![Afbeelding vier](/help/sky/assets/smart-campaigns/activate-deactivate-a-trigger-smart-campaign/activate-deactivate-a-trigger-smart-campaign-4.png)
 
 >[!NOTE]
 >
->Dit zal _nieuwe_ mensen verhinderen de stroom in te gaan, maar de mensen in wachtende stappen of een andere stroomstap zullen zich door de stroom blijven bewegen tot gedaan.
+>Dit zal _new_ mensen van het ingaan van de stroom tegenhouden, maar de mensen in wachtende stappen of een andere stroomstap zullen zich door de stroom blijven bewegen tot gedaan.
