@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Bijhouden uitschakelen voor een e-mailkoppeling {#disable-tracking-for-an-email-link}
+# Tracering uitschakelen voor een e-mailkoppeling {#disable-tracking-for-an-email-link}
 
-Soms wilt u de URL **voor het bijhouden van** markeertekens niet inschakelen voor een koppeling in een e-mailbericht. Dit is nuttig wanneer de bestemmingspagina geen parameters URL steunt en in een gebroken verbinding kan resulteren.
+Soms wilt u **Marketo Tracking URL** op een koppeling in een e-mail niet inschakelen. Dit is nuttig wanneer de bestemmingspagina geen parameters URL steunt en in een gebroken verbinding kan resulteren.
 
-1. Selecteer uw e-mail en klik op **Concept** bewerken ****.
+1. Selecteer uw e-mail en klik **Edit** **Draft**.
 
    ![](assets/one-7.png)
 
@@ -23,29 +23,29 @@ Soms wilt u de URL **voor het bijhouden van** markeertekens niet inschakelen voo
 
    ![](assets/two-6.png)
 
-1. Klik op de betreffende koppeling en klik vervolgens op de knop Koppeling **** invoegen/bewerken.
+1. Klik op de betreffende koppeling en klik vervolgens op de knop **Koppeling invoegen/bewerken**.
 
    ![](assets/three-6.png)
 
-1. Schakel in het pop-upvenster Koppeling bewerken het selectievakje **Koppeling** bijhouden uit.
+1. Schakel in het pop-upvenster Koppeling bewerken het selectievakje **Koppeling bijhouden** uit.
 
    ![](assets/four-4.png)
 
-1. U zult merken dat het vak **** Inclusief mkt_token verdwijnt. Klik op **Toepassen**.
+1. De **Include mkt_tok box** verdwijnt. Klik **Toepassen**.
 
    ![](assets/five-3.png)
 
    >[!TIP]
    >
-   >Als u alleen **Include mkt_tok** uitschakelt, kan de koppeling nog wel worden bijgehouden, maar na omleiding bevat de doel-URL niet de parameter van de queryreeks mkt_tok. Deze parameter wordt gebruikt door Marketo Landing Pages en Munchkin om ervoor te zorgen dat de activiteiten van personen correct worden gevolgd (zoals wanneer een persoon zich afmeldt van een e-mail). Gebruik deze functie niet als u geen afwijkend gedrag op uw website ziet omdat de parameter aanwezig is.
+   >Als u alleen **Inclusief mkt_tok** uitschakelt, kan de koppeling nog wel worden bijgehouden, maar na omleiding bevat de doel-URL niet de parameter van de queryreeks mkt_tok. Deze parameter wordt gebruikt door Marketo Landing Pages en Munchkin om ervoor te zorgen dat de activiteiten van personen correct worden gevolgd (zoals wanneer een persoon zich afmeldt van een e-mail). Gebruik deze functie niet als u geen afwijkend gedrag op uw website ziet omdat de parameter aanwezig is.
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
    >[!TIP]
    >
-   >Wilt u kliktracking voor een koppeling in een e- **mailsjabloon**uitschakelen? Gebruik deze indeling:
+   >Wilt u kliktracking voor een koppeling in een e-mail **template** uitschakelen? Gebruik deze indeling:
    >`<a class="mktNoTrack" href="http://www.mywebsite.com">This link does not have tracking</a>`\
    >Neem contact op met uw webontwikkelaar als u hulp nodig hebt bij het implementeren van dit programma.
 
