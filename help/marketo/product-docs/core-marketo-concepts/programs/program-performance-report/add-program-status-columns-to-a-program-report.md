@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# De Kolommen van de Status van het Programma aan een Rapport van het Programma toevoegen {#add-program-status-columns-to-a-program-report}
+# De Kolommen van de Status van het Programma aan een Rapport van het Programma {#add-program-status-columns-to-a-program-report} toevoegen
 
-Voeg statussen over de status van het programma toe aan het [prestatierapport](create-a-program-performance-report.md)van het programma.
+Voeg statistieken over programmastatus aan uw [rapport van programmaprestaties](create-a-program-performance-report.md) toe.
 
 1. Ga naar Marketing Activiteiten (of Analytics).
 
@@ -45,7 +45,7 @@ Voeg statussen over de status van het programma toe aan het [prestatierapport](c
 
 >[!NOTE]
 >
->Als u geen kolom voor elke status in het programma ziet, zorg ervoor u de kolommen hebt [geselecteerd om in het rapport te tonen](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) .
+>Als u geen kolom voor elke status in het programma ziet, zorg ervoor u [de kolommen hebt geselecteerd om ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) in het rapport te tonen.
 
 >[!MORELIKETHIS]
 >
@@ -59,5 +59,5 @@ Voeg statussen over de status van het programma toe aan het [prestatierapport](c
 >
 >**Diep duiken**
 >
->Meer weten over [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting)?
+>Meer informatie vindt u in [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
 
