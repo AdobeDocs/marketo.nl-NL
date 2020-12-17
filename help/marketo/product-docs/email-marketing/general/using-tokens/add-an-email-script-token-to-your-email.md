@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een e-mailscripttoken toevoegen aan uw e-mail {#add-an-email-script-token-to-your-email}
 
-Nadat u uw e-mailmanuscript hebt [gecreeerd, zult](create-an-email-script-token.md)u het aan een e-mail willen toevoegen om het in actie te zien. Zo gaat het.
+Nadat u [uw e-mailmanuscript hebt gecreeerd, ](create-an-email-script-token.md)zult u het aan een e-mail willen toevoegen om het in actie te zien. Zo gaat het.
 
 >[!NOTE]
 >
@@ -55,6 +55,6 @@ Nadat u uw e-mailmanuscript hebt [gecreeerd, zult](create-an-email-script-token.
 >
 >**Herinnering**
 >
->Vergeet niet de e-mail [](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)goed te keuren.
+>Vergeet niet [e-mail](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goed te keuren.
 
 Dat is het! Wanneer deze e-mail wordt verzonden, wordt het script achter het token uitgevoerd en wordt de inhoud gevuld.
