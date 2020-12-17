@@ -19,7 +19,7 @@ Het databasedashboard fungeert als momentopname om u te helpen snel belangrijke 
 >
 >Elke werkruimte heeft een eigen database.
 
-Om daar te krijgen, kunt u de tegel van het **Gegevensbestand** op uw huisscherm klikken..   ![](assets/db-3.png)
+Om daar te krijgen, kunt u **de tegel van het Gegevensbestand** op uw huisscherm klikken...   ![](assets/db-3.png)
 
 U kunt ook op het Marketo-logo klikken en **Database** selecteren.
 
@@ -31,7 +31,7 @@ De grafieken geven het totale aantal personen, het aantal verhandelbare personen
 
 >[!TIP]
 >
->Wilt u meer specifieke of actuele informatie over uw mensen opvragen? Probeer een prestatierapport [voor](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)mensen.
+>Wilt u meer specifieke of actuele informatie over uw mensen opvragen? Probeer een [Rapport van de Prestaties van Mensen](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Totaal aantal personen:** Het aantal mensen in alle tijd voor die werkruimte.  **Verhandelbare personen:** Het aantal personen in alle tijd voor de werkruimte, *min het volgende*: mensen zonder e-mailadres, mensen met een moeilijk te ontvangen e-mailadres, mensen die zijn op de lijst met ongewenste personen staan, mensen die zich niet hebben geabonneerd, mensen die momenteel op Marketing zijn geschorst.
+**Totaal aantal personen:** het aantal personen in alle tijd voor die werkruimte.  **Verhandelbare personen:** het aantal personen dat zich in de werkruimte bevindt,  *min het volgende*: mensen zonder e-mailadres, mensen met een moeilijk te ontvangen e-mailadres, mensen die zijn op de lijst met ongewenste personen staan, mensen die zich niet hebben geabonneerd, mensen die momenteel op Marketing zijn geschorst.
 
