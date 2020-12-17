@@ -16,11 +16,11 @@ ht-degree: 0%
 
 U kunt nieuwe e-mailprogramma&#39;s rechtstreeks in de programmaweergave van het programma maken.
 
-1. Selecteer het programma in de boomstructuur en ga vervolgens naar de **[!UICONTROL Schedule]** tab onder **[!UICONTROL Overview]**.
+1. Selecteer het programma in de boomstructuur en ga naar het tabblad **[!UICONTROL Schedule]** onder **[!UICONTROL Overview]**.
 
    ![Afbeelding één](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-1.png)
 
-1. Houd de muis boven de dag waaraan u een bericht wilt toevoegen en klik vervolgens op **[!UICONTROL Add]**.
+1. Houd de muis boven de dag waarop u een item wilt toevoegen en klik vervolgens op **[!UICONTROL Add]**.
 
    ![Afbeelding twee](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-2.png)
 
@@ -28,7 +28,7 @@ U kunt nieuwe e-mailprogramma&#39;s rechtstreeks in de programmaweergave van het
    >
    >U kunt ook vergelijkbare stappen uitvoeren om een e-mailprogramma te maken vanuit de weergaven Dag, Week of Agenda.
 
-1. Voer een naam in voor uw nieuwe slimme campagne en wijzig deze vervolgens **[!UICONTROL Type]** in [!UICONTROL Email Program]. U kunt ook de lijst wijzigen **[!UICONTROL Start Date]**, en deselecteren **[!UICONTROL Open In Agenda View]** als u in de kalender wilt blijven nadat u de ingang creeert. Klik **[!UICONTROL Save]**.
+1. Voer een naam in voor uw nieuwe slimme campagne en wijzig **[!UICONTROL Type]** in [!UICONTROL Email Program]. U kunt **[!UICONTROL Start Date]** ook wijzigen, en **[!UICONTROL Open In Agenda View]** schrappen als u in de kalender wilt blijven na het creëren van de ingang. Klik op **[!UICONTROL Save]**.
 
    ![Afbeelding drie](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-3.png)
 
@@ -42,4 +42,4 @@ U kunt nieuwe e-mailprogramma&#39;s rechtstreeks in de programmaweergave van het
 
 >[!NOTE]
 >
->U kunt e-mailprogramma&#39;s maken in de programmaweergave van het programma, [!DNL Marketo Sky]maar de daadwerkelijke instellingen van het programma zijn ingeschakeld [!DNL Marketo Classic].
+>U kunt e-mailprogramma&#39;s maken in de programmaweergave van het programma in [!DNL Marketo Sky], maar de daadwerkelijke instellingen van het programma staan in [!DNL Marketo Classic].
