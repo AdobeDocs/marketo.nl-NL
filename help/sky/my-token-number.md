@@ -16,10 +16,10 @@ ht-degree: 0%
 
 Hier is hoe te opstelling een teken van het Aantal voor gebruik in uw programma&#39;s en campagnemappen.
 
-1. Sleep op het [!UICONTROL My Tokens] tabblad van uw programma of map een **Number** -token naar het [!UICONTROL Local Tokens] canvas.
+1. Sleep op het tabblad [!UICONTROL My Tokens] van uw programma of map een **Number**-token naar het [!UICONTROL Local Tokens]-canvas.
 
    ![Afbeelding één](/help/sky/assets/my-tokens/my-token-number/my-token-number-1.png)
 
-1. Voer een naam en een nummer in voor het nieuwe token. Klik **[!UICONTROL Save]**.
+1. Voer een naam en een nummer in voor het nieuwe token. Klik op **[!UICONTROL Save]**.
 
    ![Afbeelding twee](/help/sky/assets/my-tokens/my-token-number/my-token-number-2.png)
