@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Met slimme lijsten kunt u specifieke groepen mensen zoeken aan de hand van eenvoudige filters. Zo maak je er een.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -30,7 +30,7 @@ Met slimme lijsten kunt u specifieke groepen mensen zoeken aan de hand van eenvo
 
    ![](assets/image2014-9-9-16-3a27-3a18.png)
 
-1. Voer een **naam** in en klik op **Maken**.
+1. Voer een **Naam** in en klik op **Maken**.
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
