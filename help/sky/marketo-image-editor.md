@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Met de afbeeldingseditor kunt u snel en licht bewerken in uw afbeeldingen in de afbeelding [!DNL Marketo].
+Met de afbeeldingseditor kunt u snel en licht bewerken in uw afbeeldingen in [!DNL Marketo].
 
-1. Open in [!DNL Marketo Sky]de [!UICONTROL Design Studio].
+1. Open [!UICONTROL Design Studio] in [!DNL Marketo Sky].
 
    ![Afbeelding één](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-1.png)
 
@@ -24,7 +24,7 @@ Met de afbeeldingseditor kunt u snel en licht bewerken in uw afbeeldingen in de 
 
    ![Afbeelding twee](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-2.png)
 
-1. Klik op de **[!UICONTROL Edit Image]** knop.
+1. Klik op de knop **[!UICONTROL Edit Image]**.
 
    ![Afbeelding drie](/help/sky/assets/design-studio/marketo-image-editor/marketo-image-editor-3.png)
 
