@@ -19,15 +19,15 @@ Aangezien alleen de eerste keuze voor overeenkomsten op een persoon van toepassi
 
    ![](assets/one.png)
 
-1. Laten we keuze 3 boven keuze 2 verplaatsen. Klik op **Keuze 3** en klik op **Omhoog**.
+1. Laten we keuze 3 boven keuze 2 verplaatsen. Klik op **Keuze 3** en klik dan **Omhoog**.
 
    >[!NOTE]
    >
-   >Wanneer u de volgorde wijzigt, kunt u omhoog **** gaan, omlaag **** gaan of **naar** gaan.
+   >Bij het opnieuw ordenen kunt u **Omhoog verplaatsen**, **Omlaag verplaatsen** of **Verplaatsen naar**.
 
    ![](assets/two.png) ![](assets/three.png)
 
-1. Als u veel mogelijkheden hebt en één niveau omhoog of omlaag moet verplaatsen, kunt u deze alternatieve methode gebruiken om tijd te besparen. Klik op de keuze die u wilt verplaatsen en sleep de schuifregelaar onder **Verplaatsen naar** de positie waarnaar u de keuze wilt verplaatsen.
+1. Als u veel mogelijkheden hebt en één niveau omhoog of omlaag moet verplaatsen, kunt u deze alternatieve methode gebruiken om tijd te besparen. Klik op de keuze die u wilt verplaatsen en sleep de schuifregelaar onder **Verplaatsen naar** naar de positie waarnaar u de keuze wilt verplaatsen.
 
    ![](assets/four.png)
 
