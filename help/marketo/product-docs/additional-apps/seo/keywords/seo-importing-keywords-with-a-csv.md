@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# SEO - Trefwoorden importeren met een CSV {#seo-importing-keywords-with-a-csv}
+# SEO - Het invoeren van Sleutelwoorden met CSV {#seo-importing-keywords-with-a-csv}
 
-1. U kunt trefwoorden [handmatig](seo-add-keywords.md) toevoegen, trefwoordsuggesties [](seo-get-suggested-keywords.md) ophalen en zelfs trefwoorden uit een CSV-bestand importeren. Hieronder wordt beschreven hoe u het bestand importeert.
-1. Ga naar de sectie **Trefwoorden** .
+1. U kunt [trefwoorden toevoegen](seo-add-keywords.md) handmatig, [trefwoordsuggesties ophalen](seo-get-suggested-keywords.md) en zelfs trefwoorden importeren uit een CSV-bestand. Hieronder wordt beschreven hoe u het bestand importeert.
+1. Ga naar de **sectie Keywords**.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. Klik op **Importeren**.
+1. Klik **Importeren**.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Klik op Bestand **** kiezen.
+1. Klik **Kies Bestand**.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -34,7 +34,7 @@ ht-degree: 0%
    >
    >De importbeperkingen zijn afhankelijk van uw abonnement. Neem contact op met je verkoper voor meer informatie.
 
-1. Klik op **IMPORTEREN**.
+1. Klik **IMPORTEREN**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
