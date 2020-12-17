@@ -17,17 +17,17 @@ Het toevoegen van een benoemde account aan een accountlijst is eenvoudig.
 
 >[!NOTE]
 >
->Dit geldt alleen voor accountlijsten, **niet** voor dynamische accountlijsten.
+>Dit geldt alleen voor accountlijsten, **niet** Dynamische accountlijsten.
 
 1. Selecteer de rij van de benoemde account waaraan u wilt toevoegen.
 
    ![](assets/four-1.png)
 
-1. Klik op de vervolgkeuzelijst Handelingen **benoemde account en selecteer** Toevoegen aan accountlijst ****.
+1. Klik op de vervolgkeuzelijst **Benoemde accounthandelingen** en selecteer **Toevoegen aan accountlijst**.
 
    ![](assets/five-1.png)
 
-1. Klik op de vervolgkeuzelijst **Accountlijst** , selecteer de gewenste accountlijst en klik op **Toevoegen**.
+1. Klik op de vervolgkeuzelijst **Accountlijst**, selecteer de gewenste accountlijst en klik op **Toevoegen**.
 
    ![](assets/six-1.png)
 
