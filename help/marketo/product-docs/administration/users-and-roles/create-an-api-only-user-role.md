@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Een gebruikersrol maken die alleen een API is {#create-an-api-only-user-role}
+# Alleen een gebruikersrol voor API maken {#create-an-api-only-user-role}
 
-Als u met Marketo via de [REST API](http://developers.marketo.com/documentation/rest/)wilt integreren, kunt u het beste een gebruiker de API-rol [Alleen](create-an-api-only-user.md) toewijzen en vervolgens een aangepaste service [maken voor gebruik met de ReST API](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Hieronder wordt beschreven hoe u de alleen-API-gebruikersrol maakt.
+Als u met Marketo via [REST API](http://developers.marketo.com/documentation/rest/) wilt integreren, is het aan [een gebruiker toe te wijzen slechts API rol](create-an-api-only-user.md) en dan [een douanedienst voor gebruik met ReST API te creëren](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Hieronder wordt beschreven hoe u de alleen-API-gebruikersrol maakt.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik in Mijn markeerteken op **Beheerder**.
+1. Van Mijn Marketo, klik **Admin**.
 
    ![](assets/adminhand-1.png)
 
@@ -27,7 +27,7 @@ Als u met Marketo via de [REST API](http://developers.marketo.com/documentation/
 
    ![](assets/two.png)
 
-1. Klik op het tabblad **Rollen **en vervolgens op **Nieuwe rol**.
+1. Klik **Rollen **lusje en dan **Nieuwe Rol**.
 
    ![](assets/image2014-9-16-13-3a47-3a12.png)
 
@@ -41,5 +41,5 @@ Als u met Marketo via de [REST API](http://developers.marketo.com/documentation/
 
 >[!MORELIKETHIS]
 >
->Goed gedaan! Laten we nu een gebruiker [](create-an-api-only-user.md)maken die alleen voor de API kan worden gebruikt.
+>Goed gedaan! Laten we nu [een gebruiker met alleen API maken](create-an-api-only-user.md).
 
