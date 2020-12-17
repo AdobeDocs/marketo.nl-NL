@@ -23,7 +23,7 @@ Als u een sjabloon maakt in de E-mailsjablooneditor v1.0, kunt u elke sectie bew
 Regels:
 
 1. De HTML moet altijd geldig zijn.
-1. De klasse **marketEditable** moet worden opgenomen.
+1. De klasse **mktEditable** moet worden opgenomen.
 1. De id moet uniek zijn in die HTML.
 1. Geen spaties in de id.
 
@@ -31,4 +31,4 @@ Regels:
 >
 >tEditable-instructies kunnen niet worden genest.
 
-Als u dit wilt leren in E-mailsjablooneditor v2.0, checkt u de syntaxis [van de](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)e-mailsjabloon uit.
+Als u wilt leren hoe u dit in E-mailsjablooneditor v2.0 doet, checkt u [e-mailsjabloonsyntaxis](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) uit.
