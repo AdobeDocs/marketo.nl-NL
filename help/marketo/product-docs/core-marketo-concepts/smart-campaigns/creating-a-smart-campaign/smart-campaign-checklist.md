@@ -17,7 +17,7 @@ Voer de onderstaande stappen uit om ervoor te zorgen dat de slimme campagne soep
 
 1. ID van slimme lijstfouten ophalen
 
-   Klik in uw slimme campagne op **Slimme lijst**. Verwijder alle rode kronkelige lijnen die je ziet door de fouten op te lossen.
+   In uw slimme campagne, klik op **Slimme Lijst**. Verwijder alle rode kronkelige lijnen die je ziet door de fouten op te lossen.
 
    ![](assets/image2014-9-22-16-3a9-3a13.png)
 
@@ -36,7 +36,7 @@ Voer de onderstaande stappen uit om ervoor te zorgen dat de slimme campagne soep
    >Het gebruiken van **Lid van Slimme Lijst** zou fouten in die andere lijst kunnen hebben. Kijk daar ook.
 
 1. Rid van stroomfouten ophalen
-1. Klik in uw slimme campagne op **Flow**. Verwijder alle rode kronkelige lijnen die je ziet door de fouten te corrigeren.
+1. In uw slimme campagne, klik op **Stroom**. Verwijder alle rode kronkelige lijnen die je ziet door de fouten te corrigeren.
 
    ![](assets/image2014-9-22-16-3a10-3a49.png)
 
@@ -45,23 +45,23 @@ Voer de onderstaande stappen uit om ervoor te zorgen dat de slimme campagne soep
    >Houd de muisaanwijzer boven de rode kronkellijn om details van de fout weer te geven.
 
 1. Het tabblad Planning bekijken
-1. Schakel op het tabblad **Planning** de optie **Slimme** **lijst** **status** in voor fouten in de slimme campagne die moeten worden gecorrigeerd.
+1. Controleer **Schedule** tabblad **Smart** **List** **Status** op fouten in de slimme campagne die moeten worden gecorrigeerd.
 
    ![](assets/three.png)
 
 1. Limiet personenbeperkingen controleren
-1. Controleer in het tabblad **Schema** of het aantal gekwalificeerde personen de beperking voor personen niet overschrijdt.
+1. Zorg ervoor dat op het tabblad **Planning** het aantal gekwalificeerde personen de limiet voor de beperking van personen niet overschrijdt.
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Indien nodig, kunt u [persoonbeperkingen in een slimme campagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)met voeten treden.
+   >Indien nodig, kunt u de persoonbeperkingen in een slimme campagne [ met voeten treden.](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
 
 >[!NOTE]
 >
 >**Herinnering**
 >
->Als uw slimme campagne nog steeds mislukt, leert u hoe u meldingen [kunt](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) begrijpen om uit te zoeken wat er fout is gegaan en hoe u deze kunt verhelpen.
+>Als uw slimme campagne nog steeds mislukt, leert u hoe u meldingen [begrijpt](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) om uit te zoeken wat er fout is gegaan en hoe u deze kunt verhelpen.
 
 Geweldig werk! Houd deze controlelijst bij de hand voordat u een slimme campagne uitvoert.
