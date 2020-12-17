@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Programma&#39;s begrijpen {#understanding-programs}
+# Programma&#39;s {#understanding-programs}
 
-Programma&#39;s vormen één marketinginitiatief. U kunt het zien als een container met al het materiaal dat u nodig hebt om het programma te laten werken - dit worden lokale elementen genoemd en omvatten **landingspagina**, **e-mail**, **slimme campagnes**, en meer. Programma&#39;s doen veel, maar het is makkelijk om aan de slag te gaan.
+Programma&#39;s vormen één marketinginitiatief. U kunt het zien als een container met al het materiaal dat u nodig hebt om het programma te laten werken - dit worden lokale elementen genoemd en omvatten **landingspagina&#39;s**, **email**, **slimme campagnes**, en meer. Programma&#39;s doen veel, maar het is makkelijk om aan de slag te gaan.
 
 Er zijn vier soorten programma&#39;s:
 
 **Gebeurtenisprogramma&#39;s**
 
-**[Gebeurtenissen](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** hebben een specifieke tijd en datum. Ze helpen u bij het coördineren, faciliteren en volgen van uw liveen online gebeurtenissen.
+**[Een](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)** gebeurtenis heeft een bepaalde tijd en datum. Ze helpen u bij het coördineren, faciliteren en volgen van uw liveen online gebeurtenissen.
 
 **Betrokkenheidsprogramma&#39;s**
 
-**[Drip Nurturing](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** wordt gebruikt om mensen te voeden volgens een vast periodiek schema.
+**[Drip](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)** Nurturing wordt gebruikt om mensen te voeden volgens een vast periodiek schema.
 
 **E-mailprogramma&#39;s**
 
-De **[klassieke mailexplosie](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. Deze heeft coole ingebouwde functies, zoals A/B-tests en **[E-mailkop starten](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
+De **[klassieke mailontploffing](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)**. Deze heeft coole ingebouwde functies, zoals A/B-tests en **[E-mailkop starten](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)**.
 
 **Standaardprogramma&#39;s**
 
