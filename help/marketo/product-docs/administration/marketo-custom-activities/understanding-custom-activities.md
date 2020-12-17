@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aangepaste activiteiten begrijpen {#understanding-custom-activities}
+# Aangepaste activiteiten {#understanding-custom-activities}
 
 Houd een actie bij die iemand specifiek voor uw bedrijf heeft ondernomen met aangepaste activiteiten.
 
@@ -27,13 +27,13 @@ Met aangepaste activiteiten kunt u een activiteit bijhouden die niet gerelateerd
 >
 >Aangepaste activiteiten verschillen van aangepaste objecten. Gebruik aangepaste objecten wanneer de waarde kan worden gewijzigd (d.w.z. &quot;autokleur&quot; verandert van blauw in rood). Gebruik aangepaste activiteiten wanneer u momenten bijhoudt die zijn opgetreden en de details ervan kunnen niet worden gewijzigd (dat wil zeggen: &quot;gekochte auto&quot;).
 
-**Velden** U kunt [extra velden](https://docs.marketo.com/x/Mx6a) toevoegen die u aan uw activiteit wilt koppelen. Net als het primaire veld kunnen ze worden gebruikt als filtercriteria in een slimme lijst.
+**** FieldsU kunt  [ ](https://docs.marketo.com/x/Mx6a) extra gebieden toevoegen die u aan uw activiteit wenst te associëren. Net als het primaire veld kunnen ze worden gebruikt als filtercriteria in een slimme lijst.
 
 **Aan de slag**
 
 Aangepaste activiteiten functioneren net als standaardactiviteiten. Het opzetten ervan is echter een tweeledig proces.
 
-Stap 1: [Een aangepaste activiteit](create-a-custom-activity.md) maken in uw Marketo-account
+Stap 1: [Een aangepaste activiteit maken](create-a-custom-activity.md) in uw Marketo-account
 
 Stap 2: De werknemer in uw organisatie die met onze API werkt kan dan met de implementatie beginnen. Meer informatie vindt u hier: [Aangepaste activiteit-API](http://developers.marketo.com/documentation/rest/add-custom-activities/)
 
