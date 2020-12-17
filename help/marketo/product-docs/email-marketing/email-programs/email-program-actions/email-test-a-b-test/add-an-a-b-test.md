@@ -16,11 +16,11 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Een e-mailprogramma maken](../../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Bepaal een Publiek met een Slimme Lijst](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) of door een Publiek te [bepalen door een Lijst in te voeren](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Bepaal een Publiek met een Slimme ](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Lijst door een Publiek te  [bepalen door een Lijst in te voeren](../../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Kies een bestaande e-mail](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of [maak een e-mail voor een e-mailprogramma](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+* [Kies een bestaande ](../../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) e-mailprovider  [Een e-mailbericht maken voor een e-mailprogramma](../../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 >
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 Testen is een uitstekende manier om uw e-mails te optimaliseren voor een betere betrokkenheid. Dit is hoe je het op gang kunt brengen.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -36,7 +36,7 @@ Testen is een uitstekende manier om uw e-mails te optimaliseren voor een betere 
 
    ![](assets/selectemailprogram.jpg)
 
-1. Klik onder de tegel **E-mail** op **A/B-test** toevoegen.
+1. Klik onder **E-mail** tegel op **A/B-test toevoegen**.
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 
@@ -44,11 +44,11 @@ Testen is een uitstekende manier om uw e-mails te optimaliseren voor een betere 
    >
    >Als u een A/B-test toevoegt, is de geselecteerde e-mail niet meer beschikbaar voor gebruik in andere programma&#39;s.
 
-1. Er wordt een nieuw venster geopend met verschillende **testtypen** waaruit u kunt kiezen. Verken een van de verwante artikelen hieronder om door te gaan.
+1. Er wordt een nieuw venster geopend met verschillende **Testtypen** waaruit u kunt kiezen. Verken een van de verwante artikelen hieronder om door te gaan.
 
    >[!CAUTION]
    >
-   >Als u dubbele records in uw database hebt, ontvangen deze records **zowel** de test- als de winnende e-mail. Om dit te voorkomen, zorg ervoor u dubbele mensen [in uw gegevensbestand](http://docs.marketo.com/x/G4EI) vindt en samenvoegt.
+   >Als u dubbele verslagen in uw gegevensbestand hebt, zullen die verslagen **zowel** de test en het winnen e-mails ontvangen. Om dit te voorkomen, zorg ervoor u [dubbele mensen](http://docs.marketo.com/x/G4EI) in uw gegevensbestand vindt en samenvoegt.
 
 >[!NOTE]
 >
