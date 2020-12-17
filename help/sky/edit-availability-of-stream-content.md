@@ -20,7 +20,7 @@ U kunt een tijdframe instellen waarin de inhoud actief wordt in uw stream.
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-1.png)
 
-1. Klik op het **[!UICONTROL Streams]** tabblad.
+1. Klik op het tabblad **[!UICONTROL Streams]**.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-2.png)
 
@@ -32,11 +32,11 @@ U kunt een tijdframe instellen waarin de inhoud actief wordt in uw stream.
 
    ![Afbeelding vier](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-4.png)
 
-1. Selecteer uw [!UICONTROL Active From] datum en [!UICONTROL Active Through] datums.
+1. Selecteer uw [!UICONTROL Active From] datum en [!UICONTROL Active Through] data.
 
    ![Afbeelding vijf](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. Klik **[!UICONTROL Save]**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![Afbeelding zes](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
