@@ -15,29 +15,29 @@ ht-degree: 0%
 
 Het ABM-verkooprapport is een wekelijkse, persoonlijke e-mail die naar het accountteam wordt verzonden.
 
-## Rapportinstelling {#report-setup}
+## Rapportinstellingen {#report-setup}
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/one-3.png)
 
-1. Klik op **ABM**.
+1. Klik **ABM**.
 
    ![](assets/two-2.png)
 
-1. Klik onder Wekelijks rapport op **Bewerken**.
+1. Klik onder Wekelijks Rapport op **Bewerken**.
 
    ![](assets/three-3.png)
 
-1. Klik op de vervolgkeuzelijst **Dag** en selecteer de dag van de week waarop de ontvangers het e-mailbericht moeten ontvangen.
+1. Klik **Dag** drop-down en selecteer de dag van de week u de ontvangers de e-mail wilt ontvangen.
 
    ![](assets/four-4.png)
 
-1. Klik op de vervolgkeuzelijst **Sorteren op** om de indeling van uw e-mailbericht te bepalen.
+1. Klik op de vervolgkeuzelijst **Sorteren op** om de indeling van uw e-mail te bepalen en maak een selectie.
 
    ![](assets/five-3.png)
 
-1. Schakel het selectievakje **Gebruikers** in, klik op de vervolgkeuzelijst en selecteer wie u de e-mail wilt ontvangen.
+1. Schakel het selectievakje **Gebruikers** in en klik vervolgens op de vervolgkeuzelijst en selecteer wie u de e-mail wilt ontvangen.
 
    ![](assets/six-2.png)
 
@@ -45,25 +45,25 @@ Het ABM-verkooprapport is een wekelijkse, persoonlijke e-mail die naar het accou
    >
    >Meldingen worden alleen verzonden naar eigenaars van accounts of teamleden.
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/seven-2.png)
 
 En dat is het!
 
-## Abonnement opzeggen {#how-to-unsubscribe}
+## {#how-to-unsubscribe} opzeggen
 
-Elk rapport wordt geleverd met de optie om te weigeren. Klik hiertoe onder aan het e-mailbericht op **Abonnement opzeggen** .
+Elk rapport wordt geleverd met de optie om te weigeren. Om dit eenvoudig te doen klik **Unsubscribe** bij de bodem van e-mail.
 
 ![](assets/eight-1.png)
 
-## Opnieuw abonneren {#how-to-resubscribe}
+## {#how-to-resubscribe} opnieuw inschrijven
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/one-3.png)
 
-1. Klik op **ABM**.
+1. Klik **ABM**.
 
    ![](assets/two-2.png)
 
@@ -75,7 +75,7 @@ Elk rapport wordt geleverd met de optie om te weigeren. Klik hiertoe onder aan h
 
    ![](assets/ten.png)
 
-1. Selecteer de gebruiker die u opnieuw e-mailberichten wilt ontvangen en klik op **Opnieuw plaatsen**.
+1. Selecteer opnieuw de gebruiker u e-mails wilt ontvangen en **Opnieuw inschrijven** klikken.
 
    ![](assets/eleven.png)
 
