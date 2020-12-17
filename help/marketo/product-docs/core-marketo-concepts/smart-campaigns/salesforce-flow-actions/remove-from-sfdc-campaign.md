@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Overzicht {#overview}
 
-Net als hoe u [Toevoegen aan SFDC-](add-to-sfdc-campaign.md)campagne en [Status wijzigen in SFDC-campagne](change-status-in-sfdc-campaign.md), kunt u ook mensen of leads uit een Salesforce-campagne verwijderen.
+Net als hoe u [Toevoegen aan SFDC-campagne](add-to-sfdc-campaign.md)en [Status wijzigen in SFDC-campagne](change-status-in-sfdc-campaign.md) kunt, kunt u ook personen of leads verwijderen uit een Salesforce-campagne.
 
 ![](assets/image2014-9-22-15-3a54-3a34.png)
 
