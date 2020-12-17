@@ -57,7 +57,7 @@ Opzoekvelden in SFDC synchroniseren de id, maar niet de naam waarnaar wordt verw
 
 ## Hoe zit het met SFDC Formula Fields? {#what-about-sfdc-formula-fields}
 
-Formulervelden worden echter gesynchroniseerd. Updates van de verwijzingen in de formule worden echter pas gesynchroniseerd als er een update naar een [systeemmodenstempel](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US)plaatsvindt.
+Formulervelden worden echter gesynchroniseerd. Updates van de verwijzingen in de formule worden echter pas gesynchroniseerd als er een update naar een [Systeemmodenstempel](https://help.salesforce.com/apex/HTViewSolution?id=000193203&amp;language=en_US) is.
 
 ## Wat gebeurt er als ik een veld uit Salesforce verwijder dat eerder synchroniseerde met Marketo? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
