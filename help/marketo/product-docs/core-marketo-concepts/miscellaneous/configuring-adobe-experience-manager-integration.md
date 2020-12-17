@@ -31,7 +31,7 @@ Vorm AEM zodat kunt u, AEM activa in de Studio van het Ontwerp van Marketo toega
 
    ![](assets/two.png)
 
-1. In **Hulpmiddelen**, klik **Verrichtingen** en selecteer de Console **van het** Web.
+1. Klik in **Gereedschappen** op **Bewerkingen** en selecteer **Webconsole**.
 
    ![](assets/2a.png)
 
@@ -39,11 +39,11 @@ Vorm AEM zodat kunt u, AEM activa in de Studio van het Ontwerp van Marketo toega
 
    ![](assets/three.png)
 
-1. Klik op het **+** -teken rechts.
+1. Klik op het **+**-teken rechts.
 
    ![](assets/four.png)
 
-1. Typ in het tekstvak **Toegestane oorsprong (Regexp)** &quot;https://.*\.marketo\.com&quot; (zonder de aanhalingstekens) en klik op **Opslaan**.
+1. Typ in het tekstvak **Toegestane oorsprong (Regexp)** &quot;https://.*\.marketo\.com&quot; (zonder de citaten) en klik **Save**.
 
    ![](assets/five-psd.png)
 
@@ -51,11 +51,11 @@ Vorm AEM zodat kunt u, AEM activa in de Studio van het Ontwerp van Marketo toega
 
    ![](assets/six.png)
 
-1. Klik onder Serverinformatie op de knop **Opnieuw** starten.
+1. Klik onder Serverinformatie op de knop **Opnieuw starten**.
 
    ![](assets/seven.png)
 
-1. Klik op **OK** om te bevestigen.
+1. Klik **OK** om te bevestigen.
 
    ![](assets/eight.png)
 
@@ -67,13 +67,13 @@ Vorm AEM zodat kunt u, AEM activa in de Studio van het Ontwerp van Marketo toega
 
    ![](assets/ten.png)
 
-1. Klik op **Bewerken**.
+1. Klik **Bewerken**.
 
    ![](assets/eleven.png)
 
-1. Voer de URL van de AEM in en klik op **OK**.
+1. Voer uw AEM-URL in en klik op **OK**.
 
    ![](assets/twelve.png)
 
-   U bent klaar! U kunt nu AEM activa in de Studio van het Ontwerp in Marketo Sky [invoeren](http://help.marketo.com/hc/en-us/articles/360036765993).
+   U bent klaar! U kunt nu [AEM activa in de Studio van het Ontwerp in Marketo Sky ](http://help.marketo.com/hc/en-us/articles/360036765993) invoeren.
 
