@@ -25,7 +25,7 @@ Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd di
 
    >[!NOTE]
    >
-   >Een slimme campagne met triggers wordt uitgevoerd in de modus **Trigger** . Deze wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en eventuele aanvullende filters.
+   >Een slimme campagne met triggers wordt uitgevoerd in de modus **Trigger**. Deze wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en eventuele aanvullende filters.
 
 1. Klik op de vervolgkeuzelijst en kies een operator.
 
@@ -45,7 +45,7 @@ Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd di
 
    >[!NOTE]
    >
-   >Bij meerdere triggers doorloopt een persoon de flow als **EEN** van de triggers wordt geactiveerd.
+   >Met veelvoudige trekkers, gaat een persoon door de stroom als **ANY** één van de trekkers wordt geactiveerd.
 
    [Slimme lijst definiëren voor slimme campagne | Batch](define-smart-list-for-smart-campaign-batch.md)
 
