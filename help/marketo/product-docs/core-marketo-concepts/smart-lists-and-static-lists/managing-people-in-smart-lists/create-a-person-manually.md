@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Er zijn vele manieren om een persoon in Marketo te krijgen. Als je er handmatig een moet maken, is dit hoe je het moet doen.
 
-1. Ga naar de **database**.
+1. Ga naar **Database**.
 
    ![](assets/db-1.png)
 
