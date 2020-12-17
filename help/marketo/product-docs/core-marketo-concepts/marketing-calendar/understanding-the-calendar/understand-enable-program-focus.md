@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Programmafocus begrijpen/inschakelen {#understand-enable-program-focus}
 
-De marketingkalender geeft je een vogelperspectief van dingen, maar biedt ook wat interacties. U kunt [items maken](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [bewerken](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [verwijderen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)en [bevestigen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md) . Als u met items wilt communiceren, moet u zich eerst op een programma concentreren.
+De marketingkalender geeft je een vogelperspectief van dingen, maar biedt ook wat interacties. U kunt [items maken](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md), [bewerken](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md), [verwijderen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md) en [bevestigen](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md). Als u met items wilt communiceren, moet u zich eerst op een programma concentreren.
 
-1. Ga naar de **Marketing** **Kalender**.
+1. Ga naar **Marketing** **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Selecteer een item en klik op **Programmafocus** tonen.
+1. Selecteer een item en klik op **Programmafocus tonen**.
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
