@@ -43,5 +43,5 @@ U kunt zich abonneren op meldingen om deze in uw e-mail te ontvangen.
 
 >[!TIP]
 >
->Wil je je niet meer abonneren op e-mailberichten? Geen probleem. Klik onder aan de e-mail op de koppeling **Abonnement op meldingen** opzeggen.
+>Wil je je niet meer abonneren op e-mailberichten? Geen probleem. Klik eenvoudig **unsubscribe van Notifications** verbinding bij de bodem van e-mail.
 
