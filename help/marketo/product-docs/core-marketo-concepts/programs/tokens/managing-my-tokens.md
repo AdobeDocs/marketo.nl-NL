@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Mijn tokens beheren {#managing-my-tokens}
 
-Het gebruik van tokens kan uw inspanningen in Marketo vereenvoudigen. U kunt [Mijn tokens](understanding-my-tokens-in-a-program.md) (aangepaste tokens) gebruiken in stroomstappen, webhaken, e-mails en landingspagina&#39;s. Zo maak je ze.
+Het gebruik van tokens kan uw inspanningen in Marketo vereenvoudigen. U kunt [Mijn tokens](understanding-my-tokens-in-a-program.md) (douanetokens) in stroomstappen, webhooks, e-mails, en landingspagina&#39;s gebruiken. Zo maak je ze.
 
 >[!TIP]
 >
->Meer informatie over welke tokens reeds beschikbaar zijn in het Overzicht [van](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)Tokens.
+>Meer informatie over welke tokens reeds in [Overzicht van Tokens](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) beschikbaar zijn.
 
-## Mijn token maken {#create-a-my-token}
+## Een mijn token maken {#create-a-my-token}
 
-1. Ga naar **marketingactiviteiten.**
+1. Ga naar **Marketingactiviteiten.**
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer een programma- of campagnemap. Klik op **Mijn tokens.**
+1. Selecteer een programma- of campagnemap. Klik **Mijn tokens.**
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. Selecteer een type **Mijn token** . Sleep het naar het canvas.
+1. Selecteer een **Mijn token** type. Sleep het naar het canvas.
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -37,31 +37,31 @@ Het gebruik van tokens kan uw inspanningen in Marketo vereenvoudigen. U kunt [Mi
 
    ![](assets/image2014-9-18-12-3a4-3a53.png)
 
-1. Klik op **Opslaan.**
+1. Klik **Opslaan.**
 
    ![](assets/image2014-9-18-12-3a5-3a5.png)
 
-   Yay! Je hebt een **token gemaakt.**
+   Yay! U hebt een **Mijn token gemaakt.**
 
    ![](assets/image2014-9-18-12-3a5-3a15.png)
 
-## Mijn token bewerken {#edit-a-my-token}
+## Mijn token {#edit-a-my-token} bewerken
 
-1. Dubbelklik op **Mijn token** en breng de gewenste wijzigingen aan. Klik op **Opslaan.**
+1. Dubbelklik op **Mijn token** en breng uw wijzigingen aan. Klik **Opslaan.**
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
-## Mijn token verwijderen {#delete-a-my-token}
+## Mijn token {#delete-a-my-token} verwijderen
 
 >[!CAUTION]
 >
 >Wanneer u een Mijn token verwijdert, moet u ervoor zorgen dat er niet naar wordt verwezen in een element. Een lege ruimte wordt weergegeven op elke plaats waarnaar wordt verwezen als deze wordt verwijderd.
 
-1. Klik met de rechtermuisknop op **Mijn token.** Selecteer Token **verwijderen.**
+1. Klik met de rechtermuisknop op **Mijn token.** Selecteer Token  **verwijderen.**
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
-1. Klik op **Verwijderen.**
+1. Klik **Verwijderen.**
 
    ![](assets/image2014-9-18-12-3a7-3a31.png)
 
