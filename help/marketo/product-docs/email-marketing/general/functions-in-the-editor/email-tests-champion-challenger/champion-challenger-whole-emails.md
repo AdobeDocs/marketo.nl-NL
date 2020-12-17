@@ -23,7 +23,7 @@ Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoe
 
 
 
-1. Selecteer in de testeditor voor e-mail de optie **Gehele e-mails** in de vervolgkeuzelijst **Type test **Type test.
+1. Selecteer **Hele e-mails** in de testeditor **Test Type **dropdown.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -31,7 +31,7 @@ Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoe
    >
    >Onthoud: De originele e-mail is de kampioen. De krijgers concurreren er tegen.
 
-1. Zoek en selecteer het e-mailbericht of de e-mails van **Challengers** en klik vervolgens op **Klonen**.
+1. Zoek en selecteer **Challengers** e-mail(s) en klik vervolgens op **Klonen**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -52,7 +52,7 @@ Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoe
 
    [Meer informatie dan je ooit wilde over statistisch vertrouwen](http://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 
