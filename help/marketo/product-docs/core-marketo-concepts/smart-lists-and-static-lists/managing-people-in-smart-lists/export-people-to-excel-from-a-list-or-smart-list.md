@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Personen vanuit een lijst of slimme lijst exporteren naar Excel {#export-people-to-excel-from-a-list-or-smart-list}
+# Personen naar Excel exporteren vanuit een lijst of slimme lijst {#export-people-to-excel-from-a-list-or-smart-list}
 
 Als u resultaten voor lijsten of slimme lijsten buiten Marketo nodig hebt, kunt u gemakkelijk exporteren naar Excel. Zo gaat het.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma.png)
 
-1. Selecteer de lijst of slimme lijst die u wilt exporteren en ga naar het tabblad **Personen** .
+1. Selecteer de lijst of de slimme lijst u wilt uitvoeren en naar **Mensen** tabel gaan.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -27,25 +27,25 @@ Als u resultaten voor lijsten of slimme lijsten buiten Marketo nodig hebt, kunt 
 
    ![](assets/exportpeople.png)
 
-1. Selecteer **Zichtbare kolommen** en klik op **Exporteren**.
+1. Selecteer **Zichtbare kolommen** en klik **Exporteren**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >Als u **Alle kolommen** kiest, is het exporteren groter en duurt het langer om te genereren/downloaden.
+   >Als u **Alle Kolommen** kiest, is de uitvoer groter en duurt het langer om te genereren/downloaden.
 
    >[!TIP]
    >
-   >Als uw persoonlijke records vreemde tekens bevatten die niet correct worden weergegeven bij het exporteren, wijzigt u het bestandstype in de vervolgkeuzelijst **Indeling** .
+   >Als uw persoonrecords vreemde tekens bevatten die niet correct worden gerenderd bij het exporteren, wijzigt u het bestandstype in de vervolgkeuzelijst **Indeling**.
 
-1. Het exporteren wordt uitgevoerd. Als u klaar bent, kunt u nu **op** Downloaden klikken om het bestand te pakken.
+1. Het exporteren wordt uitgevoerd. Als u klaar bent, kunt u **Nu downloaden** om het bestand te pakken.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Als het exporteren enige tijd in beslag neemt, kunt u zich altijd afmelden en later terugkeren. De koppeling **Nu** downloaden kan worden geopend door de optie **Exportstatus** tonen te selecteren in het menu **Lijsthandelingen** . De koppeling is één week geldig.
+   >Als het exporteren enige tijd in beslag neemt, kunt u zich altijd afmelden en later terugkeren. De **Download nu** verbinding kan worden betreden door **de Status van de Uitvoer van de Show te selecteren** in **de Handelingen van de Lijst** menu, en is geldig voor één week.
 
    Nadat u een slimme lijst naar Excel uitvoert, zal Marketo automatisch de lijst in het voorgeheugen onderbrengen. De volgende keer dat u zich aanmeldt of uw browser vernieuwt, ziet u een kleine paperclip en notitie op het pictogram van de slimme lijst.
 
