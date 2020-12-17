@@ -17,11 +17,11 @@ Lijsten en slimme lijsten kunnen worden gedeeld en van verwijzingen voorzien ove
 
 >[!NOTE]
 >
->De verdelingsregels van de persoon zijn van toepassing (slimme lijsten en statische lijsten in een werkruimte tonen slechts mensen die zowel lid van de lijst *als* leden van de huidige werkruimte zijn).
+>De verdelingsregels van de persoon zijn van toepassing (slimme lijsten en statische lijsten in een werkruimte tonen slechts mensen die allebei lid van de lijst *en* leden van de huidige werkruimte zijn).
 
-## Een lijst of slimme lijst delen  {#share-a-list-or-smart-list}
+## Een lijst of slimme lijst delen {#share-a-list-or-smart-list}
 
-1. Ga naar de **database**.
+1. Ga naar **Database**.
 
    ![](assets/db-1.png)
 
@@ -37,7 +37,7 @@ Lijsten en slimme lijsten kunnen worden gedeeld en van verwijzingen voorzien ove
 
    ![](assets/three-4.png)
 
-1. Klik met de rechtermuisknop op **Nieuwe map** en selecteer **Map** delen.
+1. Klik met de rechtermuisknop **Nieuwe map** en selecteer **Map delen**.
 
    ![](assets/four-3.png)
 
