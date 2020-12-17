@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SFDC-synchronisatie: Aangepaste objectsynchronisatie {#sfdc-sync-custom-object-sync}
+# SFDC-synchronisatie: Aangepaste objectsync {#sfdc-sync-custom-object-sync}
 
 Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook onderdeel zijn van Marketo.  Hier is hoe je het instelt.
 
@@ -21,19 +21,19 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook onde
 
 >[!PREREQUISITES]
 >
->Als u een aangepast object wilt gebruiken, moet het worden gekoppeld aan een [lead](sfdc-sync-lead-sync.md)-, [](sfdc-sync-contact-sync.md)contact- of [](sfdc-sync-account-sync.md)accountobject in Salesforce.
+>Als u een aangepast object wilt gebruiken, moet het worden gekoppeld aan een [lead](sfdc-sync-lead-sync.md), [contact](sfdc-sync-contact-sync.md)of [account](sfdc-sync-account-sync.md)object in Salesforce.
 
-## Aangepast object inschakelen  {#enable-custom-object}
+## Aangepast object {#enable-custom-object} inschakelen
 
-1. Klik op **Beheer** en de **koppeling**** Salesforce-objecten synchroniseren.**
+1. Klik op **Admin** en de ** Salesforce-objecten synchroniseren **link**.**
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. Als dit het eerste aangepaste object is, klikt u op Schema **synchroniseren.**
+1. Als dit uw eerste Voorwerp van de Douane is, klik **Schema van de Synchronisatie.**
 
    ![](assets/rtaimage-2.png)
 
-1. Klik op Globale synchronisatie **uitschakelen.**
+1. Klik **Globale synchronisatie uitschakelen**
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
@@ -51,11 +51,11 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook onde
    >
    >Aangepaste objecten moeten unieke namen hebben. Marketo ondersteunt geen twee verschillende aangepaste objecten met dezelfde naam.
 
-1. Klik op Synchronisatie **inschakelen.**
+1. Klik **Synchronisatie inschakelen.**
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Klik nogmaals **op Synchronisatie** inschakelen.
+1. Klik **Schakel Sync** opnieuw in.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -70,11 +70,11 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook onde
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. Klik op Synchronisatie **inschakelen.**
+1. Klik **Synchronisatie inschakelen.**
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Als u al uw aangepaste Salesforce-objecten wilt weergeven, klikt u op **Admin** en de koppeling ***Salesforce-objecten synchroniseren **(zelfde als bovenstaande stap 1).
+1. Als u al uw aangepaste Salesforce-objecten wilt weergeven, klikt u op **Admin** en de koppeling *** Salesforce-objecten synchroniseren **(dezelfde koppeling als in stap 1 hierboven).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
