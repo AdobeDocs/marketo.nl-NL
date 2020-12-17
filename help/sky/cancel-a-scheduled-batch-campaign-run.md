@@ -16,15 +16,15 @@ ht-degree: 0%
 
 Als je een run hebt gepland voor een van je batchcampagnes en deze wilt annuleren, is het volgende.
 
-1. Selecteer de campagne en ga naar het **[!UICONTROL Schedule]** tabblad.
+1. Selecteer de campagne en ga naar **[!UICONTROL Schedule]** tabel.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. Klik **[!UICONTROL Scheduled Runs]**.
+1. Klik op **[!UICONTROL Scheduled Runs]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. Zoek de geplande uitvoering die u wilt annuleren en klik op de knop helemaal **[!UICONTROL X]** rechts.
+1. Zoek de geplande uitvoering die u wilt annuleren en klik uiterst rechts op **[!UICONTROL X]**.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/cancel-a-scheduled-batch-campaign-run/cancel-a-scheduled-batch-campaign-run-3.png)
 
