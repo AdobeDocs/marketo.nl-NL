@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Hier is een snel overzicht van de configuratieopties beschikbaar voor de boom binnen [!DNL Marketo].
+Hier is een snel overzicht van de configuratieopties beschikbaar voor de boom in [!DNL Marketo].
 
 ## Werkruimten wijzigen
 
