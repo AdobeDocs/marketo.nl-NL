@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: Lente 16 {#release-notes-spring}
+# Opmerkingen bij de release: Lente &#39;16 {#release-notes-spring}
 
 De volgende functies zijn opgenomen in de release van lente 16. Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven.
 
@@ -31,7 +31,7 @@ Maak prachtige e-mails met onze nieuwe startsjablonen! Zoek uw sjablonen ook sne
 
 >[!NOTE]
 >
->De e-maileditor 2.0 (met de Sjabloonkiezer) wordt vanaf 3 juni geleidelijk ingevoerd. We zullen de uitrol voor 30 juni voltooien. In tegenstelling tot e-mailinzichten, wordt u niet op de hoogte gesteld wanneer u toegang hebt. Volg de stappen in [dit artikel](https://docs.marketo.com/pages/viewpage.action?pageId=11373011)om te zien of u dat doet.
+>De e-maileditor 2.0 (met de Sjabloonkiezer) wordt vanaf 3 juni geleidelijk ingevoerd. We zullen de uitrol voor 30 juni voltooien. In tegenstelling tot e-mailinzichten, wordt u niet op de hoogte gesteld wanneer u toegang hebt. Volg de stappen in [dit artikel](https://docs.marketo.com/pages/viewpage.action?pageId=11373011) om te controleren of u dit doet.
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -55,7 +55,7 @@ Gone is de dagen waarin u alles opnieuw moet goedkeuren telkens als een fragment
 
 ## [Aangepaste activiteiten](http://docs.marketo.com/display/docs/marketo+custom+activities) {#custom-activities}
 
-Marketo-beheerders kunnen hun aangepaste activiteitstypen nu definiëren en beheren via het Marketo Custom Activity Definition-model. Net als (en in combinatie met) Marketo Custom Object Modeler kunnen beheerders het gegevensmodel nu uitbreiden zodat deze precies aan hun bedrijfsbehoeften voldoen. Meer informatie over het gebruik van deze functie vindt u op de documentatiesite [Marketo](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
+Marketo-beheerders kunnen hun aangepaste activiteitstypen nu definiëren en beheren via het Marketo Custom Activity Definition-model. Net als (en in combinatie met) Marketo Custom Object Modeler kunnen beheerders het gegevensmodel nu uitbreiden zodat deze precies aan hun bedrijfsbehoeften voldoen. Nadere gegevens over het gebruik van deze functionaliteit zijn beschikbaar op de [Marketo-documentatiesite](https://docs.marketo.com/display/public/DOCS/Marketo+Custom+Activities).
 
 ## [Openingspagina, sjabloon voor bestemmingspagina en formulier-API&#39;s](http://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
@@ -63,7 +63,7 @@ De Marketo REST APIs steunt nu controle over Marketo landende pagina&#39;s, land
 
 ## [IP Toevoegende op lijst van gewenste personen  voor API Toegang](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Gelijkaardig aan de IP toevoegende op lijst van gewenste personen eigenschap voor de gebruikerslogins van Marketo, kunnen de beheerders van Marketo opstelling nu een lijst van gewenste personen van IP adressen die tot de ZEEP van de Marketo en REST APIs kunnen toegang hebben, daardoor blokkerend toegang van niet-gemachtigde IP adressen. Dit verstrekt een toegevoegde laag van veiligheid aan uw instantie Marketo, en zorgt ervoor dat API toegang slechts van binnen het netwerk van uw organisatie kan voorkomen. Nadere gegevens over het instellen van deze instelling zijn beschikbaar op de documentatiesite [](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access)Marketo.
+Gelijkaardig aan de IP toevoegende op lijst van gewenste personen eigenschap voor de gebruikerslogins van Marketo, kunnen de beheerders van Marketo opstelling nu een lijst van gewenste personen van IP adressen die tot de ZEEP van de Marketo en REST APIs kunnen toegang hebben, daardoor blokkerend toegang van niet-gemachtigde IP adressen. Dit verstrekt een toegevoegde laag van veiligheid aan uw instantie Marketo, en zorgt ervoor dat API toegang slechts van binnen het netwerk van uw organisatie kan voorkomen. Details over het instellen van deze instelling zijn beschikbaar op de [Marketo-documentatiesite](https://docs.marketo.com/display/public/DOCS/Create+a+Whitelist+for+IP-Based+API+Access).
 
 ## [Nieuwe snelle Microsoft Dynamics Sync Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -75,13 +75,13 @@ De nieuwe, snelle dynamische connector, die op Orion-architectuur is gebouwd, bi
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Tabblad** Foutenbeheer synchroniseren:  Blader, zoek of exporteer leads (en andere objecten) die niet konden worden gesynchroniseerd met details zoals bewerking, richting, foutcode en foutbericht.
+**Tabblad** Foutenbeheer synchroniseren: Blader, zoek of exporteer leads (en andere objecten) die niet konden worden gesynchroniseerd met details zoals bewerking, richting, foutcode en foutbericht.
 
 ![](assets/sync-errors.png)
 
 **Microsoft Dynamics 2016**: De connector is volledig gecertificeerd voor Dynamics 2016 Online en On-premise versies.
 
-**Updates van plug-ins worden nu gedocumenteerd:** Zie het artikel over [het bijwerken van](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)insteekmodules.
+**Updates van plug-ins worden nu gedocumenteerd:** Zie het artikel over [ updates van ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)plug-ins.
 
 ## [Naam van vriendelijke instantie](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
