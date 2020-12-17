@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: Mei 2013 {#release-notes-may}
 
-De release van mei bevat de volgende functies. Controleer uw [Marketo](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
+De release van mei bevat de volgende functies. Controleer [Marketo](http://docs.marketo.com/display/docs/assets/pricing.php) [Edition](http://docs.marketo.com/display/docs/assets/pricing.php) voor de beschikbaarheid van functies.
 
 Na de release moet u het tabblad [Nieuwe release](release-notes-december-2013.md) in de Gemeenschap uitchecken voor gedetailleerde artikelen in de Knowledge Base voor elke functie!
 
@@ -29,13 +29,13 @@ Bekijk alle gegevens van uw modellid in één plaats om gemakkelijk te controler
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
-## Geregistreerde stroomactiestructuur {#reorganized-flow-action-tree}
+## Nieuwe geordende stroomactiestructuur {#reorganized-flow-action-tree}
 
 Vind stroomacties sneller met de onlangs opnieuw georganiseerde boom van de stroomactie.
 
 ![](assets/image2014-9-22-16-3a3-3a58.png)
 
-## Naam van stroomhandelingen wijzigen {#renamed-flow-actions}
+## Naam gewijzigde stroomhandelingen {#renamed-flow-actions}
 
 De status van Progressie wijzigen is nu de status van het Programma wijzigen. Programmagegevens wijzigen is nu voltooid
 
