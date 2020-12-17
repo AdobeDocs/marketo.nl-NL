@@ -5,7 +5,7 @@ title: Rollen inschakelen voor Marketo Sky
 translation-type: tm+mt
 source-git-commit: b155f630dfba14a7e1fc2606ca998709f9f29392
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Om Marketo Sky te gebruiken, moeten de rollen voor gewenste gebruikers worden to
 
    ![](assets/enabling-roles-for-marketo-sky-1.png)
 
-1. Selecteer **Marketo Sky in de structuur**.
+1. Selecteer **Marketo Sky** in de structuur.
 
    ![](assets/enabling-roles-for-marketo-sky-2.png)
 
