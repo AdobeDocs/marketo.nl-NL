@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Webhaak maken {#create-a-webhook}
+# Webhaak {#create-a-webhook} maken
 
 Gebruik websites om gebruik te maken van externe webservices voor het verzenden van tekstberichten, het uitbreiden van persoonlijke gegevens en nog veel meer.
 
@@ -25,7 +25,7 @@ Gebruik websites om gebruik te maken van externe webservices voor het verzenden 
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
-1. Klik op **Nieuwe webhaak**.
+1. Klik **Nieuwe Webhaak**.
 
    ![](assets/image2014-9-24-14-3a53-3a9.png)
 
@@ -37,13 +37,13 @@ Gebruik websites om gebruik te maken van externe webservices voor het verzenden 
    >
    >Dit omvat vaak het ingaan van uw derdedienstgeloofsbrieven als parameter URL, of in het malplaatje van de POST.
 
-   * **URL**: Voer de URL in die u gebruikt om uw aanvraag naar de webservice te POSTEN. Als u een token, zoals het e-mailadres (**`{{lead.Email Address}}`**) van de persoon, wilt invoegen in uw verzoek, klikt u op Token **** invoegen.
+   * **URL**: Voer de URL in die u gebruikt om uw aanvraag naar de webservice te POSTEN. Als u een token, zoals het e-mailadres van de persoon (**`{{lead.Email Address}}`**), wilt invoegen in uw verzoek, klikt u op **Token invoegen**.
 
-   * **Sjabloon**: Als u informatie in het lichaam van de POST wilt overbrengen, ga het malplaatje in. Gebruik om het even welk gegevensformaat dat de POST van HTTP, met inbegrip van XML, JSON, of ZEEP steunt. Als u een token wilt invoegen in uw sjabloon, klikt u op **Token** invoegen.
+   * **Sjabloon**: Als u informatie in het lichaam van de POST wilt overbrengen, ga het malplaatje in. Gebruik om het even welk gegevensformaat dat de POST van HTTP, met inbegrip van XML, JSON, of ZEEP steunt. Als u een token wilt invoegen in uw sjabloon, klikt u op **Token invoegen**.
 
-   * **Tokencodering** aanvragen: Als de tokenwaarden speciale tekens bevatten (zoals een en-teken &#39;&amp;&#39;), geeft u de indeling van uw verzoek aan (**JSON** of **Form/Url**).
+   * **Tokencodering** aanvragen: Als de tokenwaarden speciale tekens bevatten (zoals een en-teken &#39;&amp;&#39;), geeft u de indeling van uw verzoek aan (**** JSONof  **Form/Url**).
 
-   * **Type** reactie: Selecteer het formaat van de reactie u van de dienst (**JSON** of **XML**) ontvangt.
+   * **Type** reactie: Selecteer het formaat van de reactie u van de dienst (**** JSONof  **XML**) ontvangt.
 
    Klik op Maken.
 
@@ -53,5 +53,5 @@ Gebruik websites om gebruik te maken van externe webservices voor het verzenden 
 >
 >**Diep duiken**
 >
->Meer weten over de [webhooks](http://developers.marketo.com/documentation/webhooks/) in de diepe duik?
+>Leer meer in de [grote duik](http://developers.marketo.com/documentation/webhooks/).
 
