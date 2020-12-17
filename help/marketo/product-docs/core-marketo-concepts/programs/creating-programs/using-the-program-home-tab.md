@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Het tabblad Start van het programma gebruiken {#using-the-program-home-tab}
+# Het gebruiken van het Lusje van het Huis van het Programma {#using-the-program-home-tab}
 
 Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat er in uw programma gebeurt.
 
 ## Samenvattingsweergave {#summary-view}
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -43,7 +43,7 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Klik op de vervolgkeuzelijst **Weergave** . Selecteer **Gebruikt door**.
+1. Klik op de vervolgkeuzelijst **Weergave**. Selecteer **Gebruikt door**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -57,7 +57,7 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Klik op de vervolgkeuzelijst **Weergave** . Selecteer **Lidmaatschap**.
+1. Klik op de vervolgkeuzelijst **Weergave**. Selecteer **Lidmaatschap**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
 
    >[!NOTE]
    >
-   >**Historisch** betekent iedereen die ooit door het programma is gegaan, terwijl **Huidig** slechts mensen omvat die momenteel in het programma zijn opgenomen.
+   >**Met** Historie wordt iedereen bedoeld die het programma ooit heeft doorlopen, terwijl  **** momenteel alleen mensen in het programma zijn opgenomen.
 
    >[!NOTE]
    >
