@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een aangepast veld maken in Marketo {#create-a-custom-field-in-marketo}
+# Een aangepast veld maken in markeerteken {#create-a-custom-field-in-marketo}
 
 Als u een nieuw aangepast veld in Marketo nodig hebt om gegevens op te slaan/vast te leggen, gaat u als volgt te werk:
 
