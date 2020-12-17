@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Met e-mailprogramma&#39;s kunt u snel en eenvoudig een e-mailbericht naar een groep mensen verzenden.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/one.png)
 
@@ -23,19 +23,19 @@ Met e-mailprogramma&#39;s kunt u snel en eenvoudig een e-mailbericht naar een gr
 
    ![](assets/two.png)
 
-1. Voer een naam in, selecteer **E-mail** als het programmatype en klik op **Maken**.
+1. Voer een naam in, selecteer **Email** als het programmatype en klik op **Maken**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Als u **E-mail** als programmatype selecteert, wordt het kanaal automatisch ingesteld op **E-mail verzenden**. U kunt deze desgewenst wijzigen.
+   >Wanneer u **Email** selecteert als programmatype, wordt het kanaal automatisch ingesteld op **E-mail verzenden**. U kunt deze desgewenst wijzigen.
 
    ![](assets/four.png)
 
 Mooi! Het programma staat nu in de boom en is klaar om te worden gebruikt. De volgende stap is het definiëren van uw publiek. Zie de artikelen over marketing hieronder.
 
-## Een video bekijken {#watch-a-video}
+## Bekijk een video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/3ySE7FAnFR9btywiWgt4sW.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
