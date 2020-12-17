@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Champion/Challenger: Een Champion declareren {#champion-challenger-declare-a-champion}
+# Champion/Challenger: Een miniatuur {#champion-challenger-declare-a-champion} declareren
 
 Als je klaar bent, kun je een kampioen voor je e-mailtest declareren.
 
@@ -20,31 +20,31 @@ Als je klaar bent, kun je een kampioen voor je e-mailtest declareren.
 >* [Champion/Challenger: Uw e-mailtest goedkeuren](champion-challenger-approve-your-email-test.md)
 
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Zoek en klik met de rechtermuisknop op uw e-mailtest en klik vervolgens op **Miniatuur** declareren.
+1. Zoek en klik met de rechtermuisknop op uw e-mailtest en klik vervolgens op **Miniatuur declareren**.
 
    ![](assets/champion4.jpg)
 
-1. Selecteer de **Winnaar** van uw keuze.
+1. Selecteer **Winner** van uw keus.
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Stel de datum **** declareren in.
+1. Stel de **Datum declareren** in.
 
    >[!NOTE]
    >
-   >Tot de **Declare datum** zal Marketo de oude kampioen en uitdager(s) blijven sturen. Zodra datum/tijd wordt bereikt, slechts zal de nieuwe kampioen worden verzonden.
+   >Tot **Datum aangeven** zal Marketo de oude kampioen en uitdager(s) blijven sturen. Zodra datum/tijd wordt bereikt, slechts zal de nieuwe kampioen worden verzonden.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >Bericht dat het gebrek **verklaart Datum** morgen, niet vandaag is.
+   >Merk op dat het gebrek **Declare Datum** morgen is, niet vandaag.
 
-   Selecteer een tijd en klik op **Opslaan**.
+   Selecteer een tijd en klik **Save**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
