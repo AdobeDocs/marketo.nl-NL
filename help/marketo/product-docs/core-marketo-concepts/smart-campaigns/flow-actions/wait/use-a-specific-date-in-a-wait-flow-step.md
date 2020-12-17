@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht {#use-a-specific-date-in-a-wait-flow-step}
 
-U kunt de stap **Wachttijd** gebruiken om de reis van een persoon door een slimme campagne tot een bepaalde datum te pauzeren.
+U kunt **Wacht** debietstap gebruiken om de reis van een persoon door een slimme campagne tot een bepaalde datum te pauzeren.
 
-1. Sleep in het tabblad **Stroom** van slimme campagne over de stap **Wachten** .
+1. In uw slimme campagne **Stroom** tabel, sleep over **Wacht** debietstap.
 
    ![](assets/image2014-9-22-11-3a50-3a55.png)
 
