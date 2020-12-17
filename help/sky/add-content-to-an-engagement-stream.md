@@ -20,15 +20,15 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud aan de stream toe
 
    ![Afbeelding één](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-1.png)
 
-1. Klik op het **[!UICONTROL Streams]** tabblad.
+1. Klik op het tabblad **[!UICONTROL Streams]**.
 
    ![Afbeelding twee](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-2.png)
 
-1. Klik **[!UICONTROL Add Content]**.
+1. Klik op **[!UICONTROL Add Content]**.
 
    ![Afbeelding drie](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-3.png)
 
-1. Laat de [!UICONTROL Type] set staan op E-mail en zoek/selecteer het e-mailbericht dat u wilt toevoegen.
+1. Laat [!UICONTROL Type] ingesteld op E-mail staan en zoek/selecteer het e-mailbericht dat u wilt toevoegen.
 
    ![Afbeelding vier](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-4.png)
 
@@ -42,15 +42,15 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud aan de stream toe
 
    ![Afbeelding vijf](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-5.png)
 
-1. Klik op het **[!UICONTROL Streams]** tabblad.
+1. Klik op het tabblad **[!UICONTROL Streams]**.
 
    ![Afbeelding zes](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-6.png)
 
-1. Klik **[!UICONTROL Add Content]**.
+1. Klik op **[!UICONTROL Add Content]**.
 
    ![Afbeelding zeven](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-7.png)
 
-1. Schakel over [!UICONTROL Type] naar Programma.
+1. Wijzig [!UICONTROL Type] in Programma.
 
    ![Afbeelding acht](/help/sky/assets/engagement-programs/add-content-to-an-engagement-stream/add-content-to-an-engagement-stream-8.png)
 
