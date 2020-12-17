@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De release van oktober bevat spannende nieuwe functies. Sociale functies zijn beschikbaar als invoegtoepassing of als onderdeel van geselecteerde bundels.
 
-## Programma&#39;s importeren en Program Exchange {#import-programs-and-program-exchange}
+## Programma&#39;s en Program Exchange {#import-programs-and-program-exchange} importeren
 
 Een programma kan van één abonnement van Marketo in een andere worden ingevoerd. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. U kunt ook een vooraf gebouwd programma importeren vanuit de Marketo-programmabibliotheek.
 
@@ -49,7 +49,7 @@ Kom te weten wie uw inhoud en stem in uw opiniepeilingen deelt door slimme lijst
 
 U kunt nu informatie over uw leads verzamelen wanneer ze inhoud delen of formulieren invullen met hun sociale profielen. Dit zijn onder andere Facebook-, LinkedIn- en Twitter-handgrepen, het aantal vrienden dat ze hebben en nog veel meer.
 
-## Abonnementen van Revenue Explorer-rapport {#revenue-explorer-report-subscriptions}
+## Inkomensverkenner - Abonnementen {#revenue-explorer-report-subscriptions}
 
 Maak rapportabonnementen en verzend regelmatig de rapporten van de Ontdekkingsreiziger van de Inkomsten aan uw belangrijkste belanghebbenden, met inbegrip van gebruikers niet-Marketo. De e-mail bevat een voorproef van uw lijst of grafieken van rapportgegevens, en een spreadsheet van Excel met alle rapportgegevens.
 
