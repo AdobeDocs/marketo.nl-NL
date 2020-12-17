@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filters zoeken en toevoegen aan een slimme lijst {#find-and-add-filters-to-a-smart-list}
 
-Nadat u een slimme lijst [hebt](create-a-smart-list.md)gemaakt, moet u filters toevoegen en [definiëren](define-smart-list-filters.md) . Hieronder wordt beschreven hoe u filters kunt zoeken en toevoegen.
+Als u [een slimme lijst hebt gemaakt](create-a-smart-list.md), moet u filters toevoegen en [definiëren](define-smart-list-filters.md). Hieronder wordt beschreven hoe u filters kunt zoeken en toevoegen.
 
 In dit voorbeeld zoeken we alle mensen in Californië met een score van meer dan 50.
 
@@ -21,19 +21,19 @@ In dit voorbeeld zoeken we alle mensen in Californië met een score van meer dan
 >
 >Bekijk de structuur aan de rechterkant - filters zijn zeer krachtig en hebben een grote verscheidenheid aan mogelijke functies.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma.png)
 
-1. Selecteer de slimme lijst waaraan u filters wilt toevoegen en klik op het tabblad **Slimme lijst** .
+1. Selecteer de slimme lijst waaraan u filters wilt toevoegen en klik op het tabblad **Slimme lijst**.
 
    ![](assets/two.png)
 
-1. Zoek en sleep het **staatfilter** naar het canvas.
+1. Zoek en sleep het filter **State** naar het canvas.
 
    ![](assets/three.png)
 
-1. Zoek en sleep het filter **Score** .
+1. Zoek en sleep ook het filter **Score**.
 
    ![](assets/four.png)
 
