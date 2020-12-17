@@ -18,11 +18,11 @@ Wanneer u aangepaste objecten maakt, moet u koppelingsvelden opgeven om de aange
 * Voor een één-op-vele douanestructuur, gebruik het verbindingsgebied in het douanevoorwerp om het met een persoon of een bedrijf te verbinden.
 * Voor een vele-aan-vele structuur, gebruikt u twee verbindingsgebieden, die van een afzonderlijk gecreeerd intermediair voorwerp worden verbonden (dat een type van douanevoorwerp, ook is). Eén koppeling maakt verbinding met personen of bedrijven in uw database en de andere koppeling maakt verbinding met het aangepaste object. In dit geval bevindt het koppelingsveld zich niet in het aangepaste object zelf.
 
-## Een koppelingsveld maken voor een structuur van één tot vele {#create-a-link-field-for-a-one-to-many-structure}
+## Creeer een Gebied van de Verbinding voor een Één-aan-Vele Structuur {#create-a-link-field-for-a-one-to-many-structure}
 
 Hieronder wordt beschreven hoe u een koppelingsveld maakt in een aangepast object voor een een-op-een-structuur.
 
-1. Klik **Admin**, en in het Beheer **van het** Gegevensbestand, selecteer **Marketo Douane Voorwerpen**.
+1. Klik **Admin**, en in **Databasebeheer**, selecteer **Marketo Custom Objects**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -61,7 +61,7 @@ Hieronder wordt beschreven hoe u een koppelingsveld maakt in een aangepast objec
    >
    >Alleen typen tekenreeksvelden worden ondersteund in het koppelingsveld.
 
-1. Klik op **Opslaan.**
+1. Klik **Opslaan.**
 
    ![](assets/image2015-10-5-13-3a34-3a0.png)
 
@@ -73,7 +73,7 @@ Hier is hoe te om een verbindingsgebied in een intermediair voorwerp voor gebrui
 >
 >U moet het intermediaire object al hebben gemaakt en alle aangepaste objecten die u wilt koppelen.
 
-1. Klik **Admin**, en in het Beheer **van het** Gegevensbestand, selecteer **Marketo Douane Voorwerpen**.
+1. Klik **Admin**, en in **Databasebeheer**, selecteer **Marketo Custom Objects**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -105,7 +105,7 @@ Hier is hoe te om een verbindingsgebied in een intermediair voorwerp voor gebrui
    >
    >Alleen typen tekenreeksvelden worden ondersteund in het koppelingsveld.
 
-1. Klik op **Opslaan.**
+1. Klik **Opslaan.**
 
    ![](assets/image2016-1-18-9-3a55-3a18.png)
 
