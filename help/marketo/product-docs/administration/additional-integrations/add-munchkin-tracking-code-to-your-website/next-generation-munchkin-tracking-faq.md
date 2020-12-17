@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie {#next-generation-munchkin-tracking-faq}
+# Veelgestelde vragen {#next-generation-munchkin-tracking-faq} over het bijhouden van Munchkin van de volgende generatie
 
 We zijn blij om te kunnen aankondigen dat we binnenkort een gefaseerde introductie van onze webtrackingtechnologie van de volgende generatie zullen starten.
 
@@ -46,7 +46,7 @@ Als u dit filter al in een Slimme Lijst (bijvoorbeeld, in een Slimme Campagne of
 >**Voorbeeld**
 >
 >**Trigger**: Bezoekt de Web-pagina, de Web-pagina is Prijspagina\
->**Stroom**: Score +10 en interessant moment wijzigen, **web**: Weergegeven prijspagina
+>**Stroom**: Score +10 en interessant moment wijzigen,  **web**: Weergegeven prijspagina
 >
 >Als een anonieme persoon met Munchkin V2 de prijspagina bezoekt, neemt hij niet onmiddellijk deel aan de campagne. Op het moment dat de anonieme persoon bekend wordt, voeren we deze campagne op haar. Ze zal:
 >
@@ -98,4 +98,4 @@ Bekijk de volgende koppelingen:
 
 ## Ik heb nog meer vragen! Hoe krijg ik antwoord? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Neem contact op met de [gemeenschap](https://nation.marketo.com/welcome). Je kunt ook een e-mail sturen naar [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) Ze zullen je vragen graag beantwoorden.
+Spreek uit op de [community](https://nation.marketo.com/welcome). U kunt ook een e-mail verzenden naar [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) Ze zullen graag uw vragen beantwoorden.
