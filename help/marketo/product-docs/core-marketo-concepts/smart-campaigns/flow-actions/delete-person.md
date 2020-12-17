@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Persoon verwijderen {#delete-person}
+# Persoon {#delete-person} verwijderen
 
 Fouten worden soms in uw database aangetroffen. De stap Person verwijderen kan deze verwijderen.
 
@@ -37,5 +37,5 @@ U kunt van Marketo en niet van uw CRM schrappen, als zo:
 
 >[!NOTE]
 >
->Het verwijderen van de persoon uit uw CRM werkt **alleen met Salesforce**. Als u een persoon van Marketo schrapt en verkiest om hen in Salesforce te houden, zullen zij in Marketo worden ontspannen als hun verslag van Salesforce ooit wordt bijgewerkt.
+>Het verwijderen van de persoon uit uw CRM **werkt slechts met Salesforce**. Als u een persoon van Marketo schrapt en verkiest om hen in Salesforce te houden, zullen zij in Marketo worden ontspannen als hun verslag van Salesforce ooit wordt bijgewerkt.
 
