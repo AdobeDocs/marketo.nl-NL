@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een koppeling Weergeven als webpagina toevoegen aan een e-mailbericht {#add-a-view-as-web-page-link-to-an-email}
+# Een weergave als webpaginakoppeling toevoegen aan een e-mail {#add-a-view-as-web-page-link-to-an-email}
 
 E-mails hebben beperkte mogelijkheden (beperkte CSS en geen JavaScript of formulieren). Gebruik Weergeven als webpagina om een koppeling op te geven waarmee uw e-mail in een browser wordt weergegeven. Hierdoor wordt de ontvanger met behulp van de Munchkin in een cookie geplaatst.
 
@@ -19,7 +19,7 @@ E-mails hebben beperkte mogelijkheden (beperkte CSS en geen JavaScript of formul
 >
 >Als u een nieuwe e-mail maakt, is Weergeven als webpagina niet ingeschakeld. Als u deze functie inschakelt en de e-mail kloont, wordt deze instelling gekopieerd.
 
-1. Selecteer uw e-mail en klik op Concept **** bewerken.
+1. Selecteer uw e-mail en klik **Concept** uitgeven.
 
    ![](assets/one-5.png)
 
@@ -27,7 +27,7 @@ E-mails hebben beperkte mogelijkheden (beperkte CSS en geen JavaScript of formul
 
    ![](assets/two-5.png)
 
-1. Schakel het vak Weergave **opnemen als webpagina** in en klik op **Opslaan**.
+1. Schakel het selectievakje **Weergave opnemen als webpagina** in en klik op **Opslaan**.
 
    ![](assets/three-4.png)
 
@@ -39,4 +39,4 @@ Hier is een voorbeeld van hoe het eruit ziet:
 >
 >De koppeling Weergeven als webpagina wordt pas weergegeven nadat u het e-mailbericht hebt verzonden. Stuur uzelf een test om te bekijken.
 
-Als u de standaardtekst wilt wijzigen, raadpleegt u het bericht [&quot;Weergeven als webpagina&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)bewerken.
+Als u de standaardtekst wilt wijzigen, raadpleegt u [Bericht &quot;Weergeven als webpagina&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md) bewerken.
