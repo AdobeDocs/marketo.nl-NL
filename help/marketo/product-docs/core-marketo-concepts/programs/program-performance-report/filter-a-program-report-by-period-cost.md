@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Een programmarapport filteren op kosten van periode {#filter-a-program-report-by-period-cost}
+# Een programmarapport filteren op kosten {#filter-a-program-report-by-period-cost}
 
-Focus uw [prestatierapport](create-a-program-performance-report.md) van de programmaprestaties op een specifieke periode duur.
+Focus uw [rapport over de programmaprestaties](create-a-program-performance-report.md) op een specifieke periode van de kostenperiode.
 
 1. Ga naar **Marketing** **Activiteiten** (of **Analytics**).
 
@@ -23,11 +23,11 @@ Focus uw [prestatierapport](create-a-program-performance-report.md) van de progr
 
    ![](assets/image2014-9-23-16-3a22-3a52.png)
 
-1. Klik op het tabblad **Instellen** en sleep over de kosten **van de** periode.
+1. Klik op de tab **Setup** en sleep over **Periode Kosten**.
 
    ![](assets/lm-86194-1.png)
 
-1. Voer de datums **Van** en **Tot** in voor gemaakte kosten en klik op **Toepassen**.
+1. Voer de datums **Van** en **To** voor gemaakte kosten in en klik op **Toepassen**.
 
    ![](assets/lm-86194-2a-hands.png)
 
@@ -49,5 +49,5 @@ Focus uw [prestatierapport](create-a-program-performance-report.md) van de progr
    >**Diep duiken**
    >
    >
-   >Meer informatie over rapporten vindt u in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Meer informatie over rapporten vindt u in [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
 
