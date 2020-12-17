@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens voor elk lid verzamelen. Zij kunnen worden gebruikt in: Marketo-formulieren, filters en triggers van slimme lijsten en handelingen voor de stroom van slimme campagnes. De gegevens kunnen worden weergegeven op het tabblad Leden van het programma.
 
-## Een aangepast veld voor programmaleden maken {#create-a-program-member-custom-field}
+## Een aangepast veld voor programmalid maken {#create-a-program-member-custom-field}
 
 1. Klik in Marketo op **Admin**.
 
    ![](assets/one.png)
 
-1. Klik op **Veldbeheer**.
+1. Klik **Veld beheren**.
 
    ![](assets/two.png)
 
@@ -56,11 +56,11 @@ Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens vo
 
 ## Triggers en filters {#triggers-and-filters}
 
-U kunt deze programmaspecifieke gegevens in slimme lijsten gebruiken via [](http://docs.marketo.com/x/PoAR)triggers en/of [filters](http://docs.marketo.com/x/2YAI).
+U kunt deze programmaspecifieke gegevens in slimme lijsten gebruiken via [triggers](http://docs.marketo.com/x/PoAR)en/of [filters](http://docs.marketo.com/x/2YAI).
 
 ![](assets/six.png)
 
-## Informatie over {#things-to-know}
+## Te kennen zaken {#things-to-know}
 
 * Aangepaste velden voor programmaleden zijn alleen beschikbaar in lokale middelen. Zij worden niet gesteund in de Studio van het Ontwerp omdat er geen manier is om het aan een specifiek programma te binden.
 * U kunt een formulier (of een landingspagina met een formulier) dat aangepaste velden voor programmaleden bevat, niet klonen of verplaatsen naar de Design Studio.
@@ -68,7 +68,7 @@ U kunt deze programmaspecifieke gegevens in slimme lijsten gebruiken via [](http
 * Het programmalidobject kan maximaal 20 aangepaste velden hebben. Deze velden zijn beschikbaar voor elk programma.
 * Wanneer u een lid van een programma verwijdert, als zij om het even welke gegevens op hun de douanegebied van het Lid van het Programma hebben, zullen de gegevens van dat gebied worden geschaad.
 * Als u de gegevens wilt weergeven, klikt u op het tabblad Leden in het programma en maakt u een aangepaste weergave met de desbetreffende velden.
-* Importeren en exporteren via [](http://docs.marketo.com/x/egAk)standaard- [](http://developers.marketo.com/)API wordt ondersteund.
+* Importeren en exporteren via [list](http://docs.marketo.com/x/egAk)en [API](http://developers.marketo.com/)worden ondersteund.
 * Wanneer u twee personen samenvoegt, worden de aangepaste veldgegevens van het Lid van het Programma van de winnaar gebruikt. Maar als de winnaar er geen heeft, wordt de waarde van de verliezer gebruikt.
 
 >[!MORELIKETHIS]
