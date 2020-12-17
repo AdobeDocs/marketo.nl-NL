@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Een samengevoegd veld String (Formule) maken en gebruiken {#create-and-use-a-concatenated-string-formula-field}
+# Een samengevoegd veld String (Formule) {#create-and-use-a-concatenated-string-formula-field} maken en gebruiken
 
 U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde maken met een veld Marketo-formule.
 
-1. Ga naar **Admin** en klik op **Veldbeheer**.
+1. Ga naar **Admin** en klik **Veld Management**.
 
    ![](assets/image2014-9-19-9-3a44-3a58.png)
 
@@ -23,15 +23,15 @@ U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde make
 
    ![](assets/image2014-9-19-9-3a45-3a8.png)
 
-1. Selecteer **Formule** voor het **Type**.
+1. Selecteer **Formule** voor **Type**.
 
    ![](assets/image2014-9-19-9-3a45-3a17.png)
 
-1. Voer een **naam** voor het veld in en klik op **Maken**.
+1. Voer een **Naam** voor uw veld in en klik vervolgens op **Maken**.
 
    ![](assets/image2014-9-19-9-3a46-3a0.png)
 
-1. Zoek en selecteer het gewenste veld en klik op Regels **** bewerken.
+1. Zoek en selecteer het gewenste veld en klik op **Regels bewerken**.
 
    ![](assets/image2014-9-19-9-3a46-3a13.png)
 
@@ -39,7 +39,7 @@ U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde make
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Meer informatie over [tokens voor stroomstappen](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   Meer informatie over [tokens voor flowstappen](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Nu kunt u het formules gebied als teken in een e-mail toevoegen.
 
