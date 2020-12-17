@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Wil je een einde zien aan alles wat er gebeurd is in een slimme campagne? Het is makkelijk, hier is hoe.
 
-1. Klik in uw slimme campagne op **Resultaten**.
+1. In uw slimme campagne, klik **Resultaten**.
 
    >[!TIP]
    >
-   >U kunt de lijst zien van mensen die door de slimme campagne werden verwerkt door de Leden [van de Campagne van de](view-smart-campaign-members.md)Mening te klikken.
+   >U kunt de lijst zien van mensen die door de slimme campagne werden verwerkt door [de Leden van de Campagne van de Mening ](view-smart-campaign-members.md) te klikken.
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >U kunt de resultaten ook filteren op basis van het type activiteit. Leer hoe u slimme-campagneresultaten [kunt](filter-smart-campaign-results.md)filteren.
+   >U kunt de resultaten ook filteren op basis van het type activiteit. Leer hoe u slimme-campagneresultaten [filtreert](filter-smart-campaign-results.md).
 
-1. Klik op een **id** om meer details over die bepaalde activiteit weer te geven.
+1. Klik op een **ID** om meer details over die bepaalde activiteit weer te geven.
 
    ![](assets/image2014-9-22-11-39-22.jpg)
 
