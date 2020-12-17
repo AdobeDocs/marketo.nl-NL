@@ -16,22 +16,22 @@ Het is geen goed idee om iemand meerdere keren per dag of te vaak per week te e-
 
 >[!IMPORTANT]
 >
->Herinner me om communicatie grenzen [toe te laten](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)
+>Onthoud dat u de communicatielimieten [inschakelt](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits)
 
 >[!NOTE]
 >
 >Wanneer iemand de ingestelde communicatielimieten overschrijdt, blokkeert Marketo niet-operationele e-mailberichten (operationele e-mails worden altijd verzonden).
 
-1. Selecteer uw slimme campagne en klik op het **[!UICONTROL Schedule]** tabblad.
+1. Selecteer uw slimme campagne en klik **[!UICONTROL Schedule]** tabel.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-1.png)
 
-1. Open [!UICONTROL Qualification Rules] en schakel het **[!UICONTROL Block non-operational emails]** selectievakje in.
+1. Open [!UICONTROL Qualification Rules] en schakel het selectievakje **[!UICONTROL Block non-operational emails]** in.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/apply-communication-limits-to-a-smart-campaign/apply-communication-limits-to-a-smart-campaign-2.png)
 
 >[!TIP]
 >
->Als u dit als standaard wilt instellen, bewerkt u de [communicatielimieten](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits) in de sectie Beheer.
+>Om dit het gebrek te maken, geef uw [communicatielimieten](https://docs.marketo.com/display/DOCS/Enable+Communication+Limits) in de Admin sectie uit.
 
 U kunt er nu zeker van zijn dat u niet per ongeluk te veel e-mails naar uw publiek stuurt.
