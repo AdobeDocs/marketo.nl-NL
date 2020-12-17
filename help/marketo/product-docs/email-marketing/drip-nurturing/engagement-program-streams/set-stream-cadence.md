@@ -15,17 +15,17 @@ ht-degree: 0%
 
 U kunt betrokkenheidsinhoud verzenden met elk gewenst interval. Bijvoorbeeld: eenmaal per week, of elke derde dinsdag van de maand.
 
-## Cadence instellen {#set-cadence}
+## Cadence {#set-cadence} instellen
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Zoek en selecteer uw betrokkenheidsprogramma, klik op het tabblad **Streams **en klik vervolgens op **Stroomopname** instellen.
+1. Zoek en selecteer uw betrokkenheidsprogramma, klik op de tab **Streams **en klik vervolgens op **Stream Cadence** instellen.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Selecteer hoe vaak u de cadence wilt herhalen. U kunt ** Wekelijks** of **Maandelijks** kiezen.
+1. Selecteer hoe vaak u de cadence wilt herhalen. U kunt** Wekelijks** of **Maandelijks** kiezen.
 
 ## Wekelijks {#weekly}
 
@@ -51,9 +51,9 @@ U kunt betrokkenheidsinhoud verzenden met elk gewenst interval. Bijvoorbeeld: ee
 
    >[!TIP]
    >
-   >U kunt de snelheid instellen op elke dag door **Herhalingen te kiezen: Wekelijks** /** elke: 1 week** /** ****Aan**: alle dagen.
+   >U kunt uw ontvankelijkheid plaatsen om elke dag te lopen door **Herhalen te kiezen: Wekelijks** /* Elke: 1 week** /** ****Op**: alle dagen.
 
-   Kies nu de tijd. Schakel het selectievakje in als u [Tijdzone](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)voor ontvangers wilt gebruiken (levering volgens lokale tijdzones) en klik op Opslaan.
+   Kies nu de tijd. Schakel het selectievakje in als u [Tijdzone van ontvanger](set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (d.w.z. leveren volgens lokale tijdzones) wilt gebruiken en klik op Opslaan.
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
    >[!CAUTION]
@@ -92,7 +92,7 @@ Dat is het! Blijf lezen als u een maandelijks stilletje wilt instellen.
    >
    >U kunt ook de dag van de week kiezen.
 
-1. Kies een **tijd** en klik op **Opslaan**.
+1. Kies een **Tijd** en klik **Opslaan**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
