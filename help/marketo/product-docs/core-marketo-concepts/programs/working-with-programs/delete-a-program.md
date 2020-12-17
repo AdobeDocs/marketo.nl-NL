@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een programma verwijderen {#delete-a-program}
+# Een programma {#delete-a-program} verwijderen
 
 Je kunt een programma archiveren, maar soms wil je er gewoon permanent van af. Zo gaat het.
 
@@ -27,7 +27,7 @@ Je kunt een programma archiveren, maar soms wil je er gewoon permanent van af. Z
 
 >[!TIP]
 >
->**Met Archiveringsprogramma** &#39;s blijven de programmagegevens behouden, maar wordt het programma uit uw weg gezet. Selecteer die optie en klik op **Volgende** om meer informatie over archivering weer te geven.
+>**Bij het archiveren van** programma&#39;s blijven de programmagegevens behouden, maar wordt het programma uit uw weg gezet. Selecteer die optie en klik vervolgens op **Volgende** om meer details over archivering weer te geven.
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -43,7 +43,7 @@ Mogelijk moet u naar beneden bogen en verwijderen om het probleem op te lossen. 
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Klik op **Gebruikt** **door** om te zien waar het element in gebruik is.
+1. Klik **Used** **By** om te zien waar het element in gebruik is.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 
