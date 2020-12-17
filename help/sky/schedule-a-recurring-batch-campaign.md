@@ -22,15 +22,15 @@ In dit voorbeeld kiezen we een keer per week, dinsdag om 8:00 uur.
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-1.png)
 
-1. Ga naar het **[!UICONTROL Schedule]** tabblad en klik **[!UICONTROL Set Recurrence]**.
+1. Ga naar de **[!UICONTROL Schedule]** tabel en klik **[!UICONTROL Set Recurrence]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-2.png)
 
-1. Klik op de **[!UICONTROL Recurring]** vervolgkeuzelijst en selecteer **[!UICONTROL Weekly]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Recurring]** en selecteer **[!UICONTROL Weekly]**.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-3.png)
 
-1. Klik op het kalenderpictogram naast **[!UICONTROL Recurrence Start Date]** en selecteer de dag voor de eerste uitvoering en de tijd. Voor dit voorbeeld, gebruiken wij volgende beschikbare Dinsdag. Klik buiten de kalender als u klaar bent.
+1. Klik op het kalenderpictogram naast **[!UICONTROL Recurrence Start Date]** en selecteer de dag voor de eerste run en de tijd. Voor dit voorbeeld, gebruiken wij volgende beschikbare Dinsdag. Klik buiten de kalender als u klaar bent.
 
    ![Afbeelding vier](/help/sky/assets/smart-campaigns/schedule-a-recurring-batch-campaign/schedule-a-recurring-batch-campaign-4.png)
 
