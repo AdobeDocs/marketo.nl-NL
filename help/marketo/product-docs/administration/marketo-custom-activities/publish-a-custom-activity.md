@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Een aangepaste activiteit publiceren {#publish-a-custom-activity}
+# Een aangepaste activiteit {#publish-a-custom-activity} publiceren
 
 Je hebt je aangepaste activiteit precies zoals je die wilt. Nu is het tijd om het te publiceren!
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/one-2.png)
 
-1. Klik in **Databasebeheer** op **Aangepaste activiteiten** markeren.
+1. Klik in **Databasebeheer** op **Aangepaste activiteiten markeren**.
 
    ![](assets/two-2.png)
 
@@ -27,7 +27,7 @@ Je hebt je aangepaste activiteit precies zoals je die wilt. Nu is het tijd om he
 
    ![](assets/three-2.png)
 
-1. Klik op de vervolgkeuzelijst Acties voor **aangepaste activiteiten** en selecteer **Publicatieactiviteit**.
+1. Klik op de vervolgkeuzelijst **Custom Activity Actions** en selecteer **Publish Activity**.
 
    ![](assets/four-2.png)
 
