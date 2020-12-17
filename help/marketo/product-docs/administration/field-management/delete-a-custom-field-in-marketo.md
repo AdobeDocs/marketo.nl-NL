@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Een aangepast veld in Marketo verwijderen {#delete-a-custom-field-in-marketo}
+# Een aangepast veld in markeerteken verwijderen {#delete-a-custom-field-in-marketo}
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-U kunt een veld dat u in het verleden hebt gemaakt, verwijderen als u er geen gebruik van meer hebt. Helaas kunt u geen velden verwijderen in Marketo, maar u *kunt* ze verbergen in de gebruikersinterface.
+U kunt een veld dat u in het verleden hebt gemaakt, verwijderen als u er geen gebruik van meer hebt. Helaas kunt u geen gebieden in Marketo schrappen, maar u *kan* hen van het gebruikersinterface verbergen.
 
-1. Ga in **Admin** naar **Field Management **and select your field. Klik onder **Veldhandelingen** op Veld **verbergen**.
+1. Ga in **Admin** naar **Field Management **and select your field. Klik onder **Veldhandelingen** op **Veld verbergen**.
 
    ![](assets/image2014-9-19-9-3a49-3a10.png)
 
-   Zie Een veld [](hide-and-unhide-a-field.md)verbergen en onthullen voor gedetailleerde stapsgewijze instructies.
+   Zie [Een veld verbergen en verbergen ](hide-and-unhide-a-field.md) voor gedetailleerde stapsgewijze instructies.
 
