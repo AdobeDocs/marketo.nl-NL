@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - Kolommen toevoegen/verwijderen uit uw trefwoordenweergave {#seo-add-remove-columns-from-your-keywords-view}
+# SEO - voeg/verwijder Kolommen toe uit uw sleutelwoordenmening {#seo-add-remove-columns-from-your-keywords-view}
 
 U kunt uw sleutelwoordmening aanpassen om de gegevens te tonen u het interessantst bent in.
 
-1. Ga naar de sectie **Trefwoorden** .
+1. Ga naar de **sectie Keywords**.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -27,7 +27,7 @@ U kunt uw sleutelwoordmening aanpassen om de gegevens te tonen u het interessant
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Selecteer of maak de kolommen ongedaan u wilt zien. Klik op **OPSLAAN**.
+1. Selecteer of maak de kolommen ongedaan u wilt zien. Klik **OPSLAAN**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
