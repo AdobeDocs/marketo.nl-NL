@@ -24,6 +24,6 @@ U kunt elke vermelding in uw kalender in een paar eenvoudige stappen verwijderen
 
    ![Afbeelding twee](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-2.png)
 
-1. Klik **[!UICONTROL Confirm]** om het item te verwijderen.
+1. Klik **[!UICONTROL Confirm]** om de ingang te schrappen.
 
    ![Afbeelding drie](/help/sky/assets/program-schedule-view/delete-an-entry-in-program-schedule-view/delete-an-entry-in-program-schedule-view-3.png)
