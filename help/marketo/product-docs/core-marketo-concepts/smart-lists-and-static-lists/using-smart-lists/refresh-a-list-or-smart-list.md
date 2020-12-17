@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Lijst of slimme lijst vernieuwen {#refresh-a-list-or-smart-list}
+# Een lijst of slimme lijst vernieuwen {#refresh-a-list-or-smart-list}
 
 Als u een slimme lijst hebt uitgevoerd en een paar minuten zijn verstreken, kunnen de resultaten nu anders zijn. Vernieuw de lijst om dit te achterhalen.
 
-## Resultaten vernieuwen {#refresh-results}
+## Resultaten {#refresh-results} vernieuwen
 
 1. Als u gegevens wilt bijwerken op het tabblad **Personen** van een slimme lijst, klikt u op het pictogram Vernieuwen.
 
