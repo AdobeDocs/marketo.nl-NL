@@ -17,11 +17,11 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud toevoegen aan de 
 
 ## Een e-mail toevoegen aan een stream {#add-an-email-to-a-stream}
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer uw serviceprogramma en ga naar het tabblad **Streams** .
+1. Selecteer uw serviceprogramma en ga naar het tabblad **Streams**.
 
    ![](assets/streamstab.jpg)
 
@@ -29,11 +29,11 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud toevoegen aan de 
 
 **Knop Inhoud toevoegen**
 
-1. Klik op de knop Inhoud **toevoegen** .
+1. Klik op de knop **Inhoud toevoegen**.
 
    ![](assets/addcontentbutton.jpg)
 
-1. Laat het **Type** ingesteld op **E-mail** en selecteer het e-mailbericht dat u wilt toevoegen.
+1. Laat **Type** ingesteld op **Email** en selecteer vervolgens het e-mailbericht dat u wilt toevoegen.
 
    ![](assets/image2014-9-15-15-3a44-3a58.png)
 
@@ -43,7 +43,7 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud toevoegen aan de 
 
 **Stream + pictogram**
 
-1. Klik op het pictogram Streams **+** , laat **Tekst** als **e-mail** staan en selecteer de e-mail die u wilt toevoegen.
+1. Klik op het pictogram voor streams **+**, laat **Type** als **E-mail** staan en selecteer de e-mail die u wilt toevoegen.
 
    ![](assets/image2014-9-15-15-3a45-3a25.png)
 
@@ -55,11 +55,11 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud toevoegen aan de 
 
 ## Een programma toevoegen aan een stream {#add-a-program-to-a-stream}
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer uw serviceprogramma en ga naar het tabblad **Streams** .
+1. Selecteer uw serviceprogramma en ga naar het tabblad **Streams**.
 
    ![](assets/streamstab.jpg)
 
@@ -67,7 +67,7 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud toevoegen aan de 
 
 **Knop Inhoud toevoegen**
 
-1. Klik op Inhoud **toevoegen**.
+1. Klik **Inhoud toevoegen**.
 
    ![](assets/image2014-9-15-15-3a45-3a51.png)
 
@@ -88,11 +88,11 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud toevoegen aan de 
    >**Herinnering**
    >
    >
-   >De slimme campagne moet het **lid van het Programma** van de Betrokkenheid in het hebben filteren om dit behoorlijk te laten werken.
+   >De slimme campagne moet **Lid van het Programma van de Betrokkenheid** hebben filter in het om dit behoorlijk te laten werken.
 
 **Stream + pictogram**
 
-1. Klik op het pictogram stream **+** en wijzig **Type** in Programma.
+1. Klik op het pictogram **+** en wijzig **Type** in Program.
 
    ![](assets/image2014-9-15-15-3a46-3a43.png)
 
