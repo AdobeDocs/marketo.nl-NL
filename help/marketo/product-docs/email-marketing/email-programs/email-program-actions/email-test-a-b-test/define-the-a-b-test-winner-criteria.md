@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Bepaal de Criteria van de Winner van de Test A/B {#define-the-a-b-test-winner-criteria}
 
-Wanneer u een A/B-test [aan uw e-mailprogramma](add-an-a-b-test.md) toevoegt, moet u een testtype kiezen, de A/B-test [](schedule-the-a-b-test.md)plannen en vervolgens de criteria voor winnaars definiëren. Hier is hoe je bepaalt welke e-mail wint.
+Wanneer [een A/B test](add-an-a-b-test.md) aan uw e-mailprogramma toevoegt, zult u een testtype moeten kiezen, [plant de A/B test](schedule-the-a-b-test.md), dan bepaalt de winnende criteria. Hier is hoe je bepaalt welke e-mail wint.
 
 >[!PREREQUISITES]
 >
@@ -23,9 +23,9 @@ Wanneer u een A/B-test [aan uw e-mailprogramma](add-an-a-b-test.md) toevoegt, mo
 
 
 
-## Winkelcriteria {#winner-criteria}
+## Criteria van winnende bieder {#winner-criteria}
 
-1. De standaardopties voor **winnaarcriteria** worden als eerste weergegeven.
+1. De standaardopties **Winnercriteria** worden als eerste vermeld.
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
@@ -33,11 +33,11 @@ Wanneer u een A/B-test [aan uw e-mailprogramma](add-an-a-b-test.md) toevoegt, mo
    |---|---|
    | **Klikken** | Standaard zijn koppelingen in e-mailberichten ingesloten, zodat u kunt zien wie op de koppeling heeft geklikt, hoeveel koppelingen er zijn geklikt, enzovoort. |
    | **Klikken om % te openen** | Percentage e-mailberichten dat is geopend en waarop een koppeling is geklikt in het e-mailbericht. Dit meet de relevantie en de context van een e-mail door het aantal unieke kliks te nemen gedeeld door het aantal unieke opent, en dan het vermenigvuldigen met 100 om het als percentage te tonen. |
-   | **Engagement Score** | De [betrokkenheidsscore](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) helpt u de effectiviteit van uw inhoud te bepalen. |
+   | **Engagement Score** | Met de [betrokkenheidsscore](http://docs.marketo.com/display/DOCS/Understanding+the+Engagement+Score) kunt u de effectiviteit van uw inhoud bepalen. |
 
    >[!TIP]
    >
-   >Als u Betrokkenheidsscore kiest, moet de test minstens 24 uur worden uitgevoerd. Meer informatie over het [begrijpen van de betrokkenheidsscore](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+   >Als u Betrokkenheidsscore kiest, moet de test minstens 24 uur worden uitgevoerd. Meer informatie over [de betrokkenheidsscore](../../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
    U kunt uw criteria ook aanpassen door Aangepaste omzetting te selecteren en op Bewerken te klikken.
    ![](assets/image2014-9-12-15-3a51-3a53.png)
@@ -68,7 +68,7 @@ Wanneer u een A/B-test [aan uw e-mailprogramma](add-an-a-b-test.md) toevoegt, mo
 
    Geweldig! Nu is het tijd om te beslissen hoe de winnaar wordt bepaald.
 
-## Winner declareren {#declare-winner}
+## Winnaar {#declare-winner} declareren
 
 1. Kies een van de twee beschikbare opties.
 
@@ -79,17 +79,17 @@ Wanneer u een A/B-test [aan uw e-mailprogramma](add-an-a-b-test.md) toevoegt, mo
    >**Herinnering**
    >
    >
-   >Als u een **Datum/Tijd** A/B test uitvoert, kunt u slechts **Handboek** kiezen.
+   >Als u een **Datum/tijd** A/B test doet, kunt u slechts **Handmatig** kiezen.
 
    Als de A/B-test voorbij is, kan Marketo de winnende e-mail automatisch verzenden op het geplande tijdstip. U kunt ook de resultaten bekijken en bepalen wanneer de e-mail wordt verzonden.
 
-1. Automatisch is geweldig en is de standaardoptie. Klik gewoon op **Volgende**.
+1. Automatisch is geweldig en is de standaardoptie. Klik **Volgende**.
 
    ![](assets/image2014-9-12-15-3a54-3a35.png)
 
    >[!TIP]
    >
-   >Als u **Handleiding** kiest, wordt de test verzonden en wordt gewacht totdat u een winnaar opgeeft. U ontvangt een rapport met de resultaten.
+   >Als u **Manual** kiest, wordt de test verzonden en wordt gewacht totdat u een winnaar opgeeft. U ontvangt een rapport met de resultaten.
 
    [de A/B-test plannen](schedule-the-a-b-test.md)
 
