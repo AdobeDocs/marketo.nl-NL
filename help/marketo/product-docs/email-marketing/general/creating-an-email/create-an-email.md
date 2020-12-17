@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Een e-mail maken {#create-an-email}
+# Een e-mail {#create-an-email} maken
 
 Er zijn twee manieren om een e-mailbericht te maken in Marketo. Laten we naar beide kijken.
 
 ## Een e-mail maken in de Design Studio {#create-an-email-in-the-design-studio}
 
-1. Ga naar de **Studio** van het Ontwerp.
+1. Ga naar **Design Studio**.
 
    ![](assets/one-4.png)
 
-1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer **Nieuw e-mailadres**.
+1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer **Nieuwe e-mail**.
 
    ![](assets/two-4.png)
 
@@ -31,9 +31,9 @@ Er zijn twee manieren om een e-mailbericht te maken in Marketo. Laten we naar be
 
 Eenvoudig! Nu andersom...
 
-## E-mail maken bij marketingactiviteiten {#create-an-email-in-marketing-activities}
+## Een e-mail maken in marketingactiviteiten {#create-an-email-in-marketing-activities}
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/three-3.png)
 
@@ -41,7 +41,7 @@ Eenvoudig! Nu andersom...
 
    ![](assets/four-3.png)
 
-1. Klik op **E-mail**.
+1. Klik **E-mail**.
 
    ![](assets/five-2.png)
 
@@ -49,7 +49,7 @@ Eenvoudig! Nu andersom...
 
 Welke methode u kiest, brengt u naar de sjabloonkiezer.
 
-1. Geef uw e-mailadres een naam, klik op de sjabloon die u wilt gebruiken en klik op **Maken**.
+1. Geef uw e-mail een naam, klik op het malplaatje u wilt gebruiken, dan klik **creëren**.
 
    ![](assets/six-2.png)
 
@@ -61,7 +61,7 @@ Welke methode u kiest, brengt u naar de sjabloonkiezer.
 
    ![](assets/seven-1.png)
 
-   Afhankelijk van de sjabloon die u hebt gekozen, hebt u verschillende opties om uw e-mail te bewerken. Voor e-mails met modules schakelt u Modules [toevoegen aan uw e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)uit.
+   Afhankelijk van de sjabloon die u hebt gekozen, hebt u verschillende opties om uw e-mail te bewerken. Voor e-mails met modules checkt u [Modules toevoegen aan uw e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md) uit.
 
 Uw e-mailadres is nu gemaakt, dus bewerk het weg!
 
