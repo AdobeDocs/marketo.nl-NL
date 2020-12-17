@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Verklarende woordenlijst voor slimme-lijstfilteroperatoren {#smart-list-filter-operators-glossary}
+# Woordenlijst slimme-lijstfilteroperatoren {#smart-list-filter-operators-glossary}
 
-Een operator maakt deel uit van de [slimme lijst](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) en helpt u bij het maken van specifieke taken. Hiermee kunt u het filter of de trigger in een eenvoudige taal beschrijven. De beschikbare operatoren zijn verschillend voor elk type veld.\
+Een exploitant is een deel van [slimme lijst](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) dat u helpt specifiek worden. Hiermee kunt u het filter of de trigger in een eenvoudige taal beschrijven. De beschikbare operatoren zijn verschillend voor elk type veld.\
 Hier volgt een verklarende woordenlijst die elke reeks exploitanten beschrijft.
 
 ## Datumvelden {#date-fields}
@@ -51,11 +51,11 @@ Typ gewoon het nummer en de eenheid en het werkt!
 
 >[!NOTE]
 >
->In het verleden **hebt** u de dag (tot en met de tijd, niet erna) waarop u uw slimme lijst hebt gemaakt.
+>In het verleden **omvat** de dag (tot de tijd, niet na) u creeert uw slimme lijst.
 
 >[!CAUTION]
 >
->Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, Aanmaakdatum van SFDC) en de beperkingen **voor** of **op of voor** beperkingen gebruikt, bevat de slimme lijst ook personen die geen waarde hebben in het datumveld.
+>Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, Aanmaakdatum van SFDC) en de **before** of **on of before**-beperkingen gebruikt, bevat de slimme lijst ook personen die geen waarde hebben in het datumveld.
 
 Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrijpen.
 
@@ -108,7 +108,7 @@ Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrij
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1">is</td> 
-   <td colspan="1" rowspan="1">De nauwkeurige aantalgelijke ( = 0 zal zowel lood met 0 <em>als</em> ONGELDIG terugkeren)</td> 
+   <td colspan="1" rowspan="1">Exacte getalovereenkomst ( = 0 retourneert beide leads met 0 <em>en</em> NULL)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">is niet</td> 
@@ -136,7 +136,7 @@ Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrij
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">is leeg</td> 
-   <td colspan="1" rowspan="1">Records die geen waarde hebben (NULL) - nul is een getal, het is <em>niet</em> NULL</td> 
+   <td colspan="1" rowspan="1">Records die geen waarde hebben (NULL) - nul is een getal; het is <em>niet</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">is niet leeg</td> 
