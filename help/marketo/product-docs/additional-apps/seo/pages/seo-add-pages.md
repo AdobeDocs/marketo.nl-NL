@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Je hebt pagina&#39;s! Marketo SEO kruipt automatisch uw site en volgt deze. Als we er een paar gemist hebben, haal ze dan als volgt in de SEO-app:
 
-1. Ga naar de sectie **Pagina** &#39;s.
+1. Ga naar de sectie **Pagina&#39;s**.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Klik op PAGINA&#39;S **TOEVOEGEN**.
+1. Klik **PAGINA&#39;S TOEVOEGEN**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Typ de URL&#39;s die u wilt toevoegen. Klik op **TOEVOEGEN**.
+1. Typ de URL&#39;s die u wilt toevoegen. Klik **ADD**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 
    >[!TIP]
    >
-   >Wist u dat u uw pagina aan een nieuwe of bestaande lijst [kunt](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)toevoegen? Kijk eens!
+   >Wist u dat u uw pagina aan een nieuwe of bestaande lijst kunt [ toevoegen? ](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) Kijk eens!
 
    Het kan even duren voordat de paginagegevens zijn geladen. Wacht op het groene waarschuwingsbericht en vernieuw uw pagina om de weergave bij te werken.
    ![](assets/image2014-9-18-12-3a57-3a10.png)
