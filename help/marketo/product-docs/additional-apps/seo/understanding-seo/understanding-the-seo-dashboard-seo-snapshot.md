@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Gebruik het dashboard om een mening op hoog niveau van te krijgen hoe de sleutelwoordrang trending is en hoe goed uw plaats voor SEO wordt geoptimaliseerd.
 
-Als u wilt weten waarop u zich wilt concentreren om uw SEO-inspanningen te verbeteren, gebruikt u het gedeelte [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) van dit dashboard.
+Als u wilt weten waarop u zich moet concentreren om uw SEO-inspanningen te verbeteren, gebruikt u de sectie [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) van dit dashboard.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## Overzicht van trefwoordgroepen {#keyword-rank-summary}
+## Samenvatting trefwoordgroep {#keyword-rank-summary}
 
 In deze sectie ziet u hoe uw site wordt gerangschikt voor de [trefwoorden waarop u zich richt](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
@@ -33,7 +33,7 @@ In deze sectie ziet u hoe uw site wordt gerangschikt voor de [trefwoorden waarop
 
 >[!TIP]
 >
->U kunt ook bekijken hoe een [specifieke lijst](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) van sleutelwoorden presteert. Klik op de vervolgkeuzelijst en selecteer welke voor u van belang is.
+>U kunt ook bekijken hoe een [specifieke lijst](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) van sleutelwoorden uitvoert. Klik op de vervolgkeuzelijst en selecteer welke voor u van belang is.
 
 Roteren! Laten we doorgaan.
 
@@ -49,7 +49,7 @@ Het is gebaseerd op een compilatie van tientallen beste praktijken. Een score va
 >
 >U kunt ook de optimalisatiescore zien voor specifieke lijsten met pagina&#39;s. Gebruik de vervolgkeuzelijst en selecteer een optie die u interesseert.
 
-## Trends trefwoordgroep {#keyword-rank-trends}
+## Trends van trefwoordgroep {#keyword-rank-trends}
 
 De grafiek van de Trends van de Rank van het Sleutelwoord trekt uw sleutelwoorden met de vijf hoogste maandelijkse onderzoeksvolumes, en grafieken hoe zij in tijd rangschikken.
 
