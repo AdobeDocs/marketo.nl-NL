@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt uw e-mailvoorkeuren aanpassen om te bepalen wanneer u over uw SEO-inspanningen wordt bijgewerkt.
 
-1. Klik in de bovenste navigatiebalk op uw gebruikersnaam. Klik op **E-mailvoorkeuren**.
+1. Klik in de bovenste navigatiebalk op uw gebruikersnaam. Klik **E-mailvoorkeuren**.
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
