@@ -41,9 +41,9 @@ De synchronisatie tussen Marketo en Dynamics is bidirectioneel voor leads en con
 
 >[!NOTE]
 >
->De [geloofsbrieven u in Marketo voor Dynamiek](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) ingaat worden gebruikt om gegevens over te synchroniseren.
+>De [geloofsbrieven u in Marketo voor Dynamiek ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) ingaat worden gebruikt om gegevens over te synchroniseren.
 
-Er zijn vele nuances en eigenschappen over de synchronisatie van de Dynamica. Bekijk de details in de sectie [Details van de Synchronisatie van de Dynamica van](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details)Microsoft.
+Er zijn vele nuances en eigenschappen over de synchronisatie van de Dynamica. Bekijk de details in de [sectie van de Details van de Synchronisatie van de Dynamica van Microsoft](http://docs.marketo.com/display/docs/microsoft+dynamics+sync+details).
 
 >[!CAUTION]
 >
