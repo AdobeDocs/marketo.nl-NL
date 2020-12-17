@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!TIP]
 >
->U kunt mensen aan een lijst toevoegen gebruikend de [Invoer](../../../../getting-started/quick-wins/import-a-list-of-people.md) of [voeg aan de stroomstap](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)van de Lijst toe.
+>U kunt mensen aan een lijst toevoegen gebruikend [Invoer](../../../../getting-started/quick-wins/import-a-list-of-people.md) of [toevoegen aan de debietstap van de Lijst](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
 Met dit filter kunt u leden uit een andere lijst trekken door ernaar te verwijzen in de slimme-lijstregels. Zo gaat het.
 
-1. Selecteer een slimme lijst en klik op het tabblad **Slimme lijst** .
+1. Selecteer een slimme lijst en klik **Slimme Lijst** tabel.
 
    ![](assets/smartlist-sltab.png)
 
