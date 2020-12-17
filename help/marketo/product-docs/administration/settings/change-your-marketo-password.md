@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Wachtwoord voor markeren wijzigen {#change-your-marketo-password}
+# Uw markeringswachtwoord wijzigen {#change-your-marketo-password}
 
 Wijzig uw Marketo-wachtwoord met deze eenvoudige stappen.
 
@@ -19,7 +19,7 @@ Wijzig uw Marketo-wachtwoord met deze eenvoudige stappen.
 
    ![](assets/image2015-11-10-10-3a40-3a8.png)
 
-1. Beheerders kunnen ook op **Beheerder** klikken en vervolgens Wachtwoord **** wijzigen om hun beheerderswachtwoord te wijzigen.
+1. Beheerders kunnen ook op **Admin** en **Wachtwoord wijzigen** klikken om hun beheerderswachtwoord te wijzigen.
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
@@ -31,5 +31,5 @@ Wijzig uw Marketo-wachtwoord met deze eenvoudige stappen.
 
    >[!TIP]
    >
-   >Wat is een goed wachtwoord? Iets met veel letters, cijfers en symbolen, zoals &quot; [[e-mail beveiligd]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[e-mailbeveiligd]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. Behalve dat niet. Wees creatief en maak je eigen.
+   >Wat is een goed wachtwoord? Iets met veel letters, cijfers en symbolen, zoals &quot; [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[e-mail protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. Behalve dat niet. Wees creatief en maak je eigen.
 
