@@ -18,7 +18,7 @@ Betrokkenheidsprogramma&#39;s zijn bedoeld om nieuwe mensen op de markt te breng
 
 >[!NOTE]
 >
->Er geldt een limiet van 100 _actieve_ serviceprogramma&#39;s per abonnement.
+>Er geldt een limiet van 100 _active_ serviceprogramma&#39;s per abonnement.
 
 ## Betrokkenheidsprogramma
 
