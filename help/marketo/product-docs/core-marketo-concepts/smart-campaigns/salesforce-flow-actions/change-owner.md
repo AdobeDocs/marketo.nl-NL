@@ -27,10 +27,10 @@ Als u bestaande mensen hebt die reeds aan een eigenaar worden toegewezen, kunt u
    >
    >Salesforce staat geen contacten toe om aan loodrijen worden toegewezen. Voor een record die een SFDC-contactpersoon is:
    >
-   >1. Marketo maakt **alleen** een dubbele lead wanneer de contactpersoon wordt gesynchroniseerd met Salesforce. Met andere woorden, als u de de stroomstap van de Persoon van de **[Synchronisatie aan SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** met `AssignTo=<a lead queue>`, Marketo gebruikt zal tot een dubbele lood in Salesforce leiden en het toewijzen aan de lood rij.
+   >1. Marketo maakt een gedupliceerde lead **only** wanneer de contactpersoon wordt gesynchroniseerd met Salesforce. Met andere woorden, als u **[Persoon synchroniseren met SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** stap voor stroom met `AssignTo=<a lead queue>` gebruikt, maakt Marketo een dubbele lead in Salesforce en wijst u deze toe aan de hoofdwachtrij.
       >
       >
-   2. Als u probeert om de de stroomstap van de Eigenaar **van de** Verandering op een contact te gebruiken, zal geen duplicaat in Salesforce worden gecreeerd.
+   2. Als u probeert om **de debietstap van de Eigenaar van de Verandering** op een contact te gebruiken, zal geen duplicaat in Salesforce worden gecreeerd.
 
 
    >[!NOTE]
