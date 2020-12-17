@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Lokale elementen in een programma begrijpen {#understanding-local-assets-in-a-program}
+# Lokale elementen in een programma {#understanding-local-assets-in-a-program}
 
 Lokale elementen zijn de inhoud die deel uitmaakt van uw programma. De activa zijn klantgericht en laten u toe om geautomatiseerde marketing initiatieven te bouwen. Hier volgt een overzicht van de meeste lokale elementen die u in een programma kunt maken:
 
