@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Dimension van benoemde account in RCA {#named-account-dimension-in-rca}
+# Benoemde Account Dimension in RCA {#named-account-dimension-in-rca}
 
 Bouw op opbrengst-gebaseerde rapporten gebruikend de ABM-specifieke Benoemde dimensie van de Rekening in de Analyse van de Cyclus van de Inkomsten.
 
