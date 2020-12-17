@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Datum-/tijdtest gebruiken {#use-date-time-a-b-testing}
+# Datum/tijd gebruiken voor A/B testen {#use-date-time-a-b-testing}
 
 U kunt uw e-mailberichten eenvoudig testen. Eén test is de **Datum/tijd **test. Hiermee wordt getest op welk tijdstip van de dag of de dag van de week het beste e-mailberichten kunnen worden verzonden. Hier is hoe je het instelt.
 
@@ -23,7 +23,7 @@ U kunt uw e-mailberichten eenvoudig testen. Eén test is de **Datum/tijd **test.
 
 
 
-1. Klik onder de tegel **E-mail** op **A/B-test** toevoegen.
+1. Klik onder **E-mail** tegel op **A/B-test toevoegen**.
 
    ![](assets/image2014-9-12-15-3a41-3a3.png)
 
@@ -31,7 +31,7 @@ U kunt uw e-mailberichten eenvoudig testen. Eén test is de **Datum/tijd **test.
 
    ![](assets/image2014-9-12-15-3a41-3a12.png)
 
-1. Als u vorige testinformatie hebt (zoals een onderwerptest), kunt u veilig klikken **Test** terugstellen.
+1. Als u vorige testinformatie hebt (zoals een onderwerptest), kunt u veilig **Test opnieuw instellen** klikken.
 
    ![](assets/image2014-9-12-15-3a41-3a19.png)
 
@@ -47,7 +47,7 @@ U kunt uw e-mailberichten eenvoudig testen. Eén test is de **Datum/tijd **test.
 
    ![](assets/image2014-9-12-15-3a41-3a40.png)
 
-1. Gebruik de schuifregelaar om te kiezen welk percentage van het publiek u wilt opnemen in de A/B-test en klik op **Volgende**.
+1. Gebruik de schuif om te kiezen welk percentage van het publiek u in uw test A/B wilt en **daarna** klikt.
 
    ![](assets/image2014-9-12-15-3a41-3a53.png)
 
@@ -57,7 +57,7 @@ U kunt uw e-mailberichten eenvoudig testen. Eén test is de **Datum/tijd **test.
 
    >[!CAUTION]
    >
-   >**U wordt aangeraden de voorbeeldgrootte niet in te stellen op 100%**. Als u een statische lijst gebruikt, verzendt het plaatsen van de steekproefgrootte aan 100% de e-mail naar iedereen in het publiek en de winnaar gaat aan niemand. Als u een **slimme** lijst gebruikt, verzendt het plaatsen van de steekproefgrootte aan 100% de e-mail naar iedereen in publiek *op dat ogenblik. *Wanneer het e-mailprogramma later opnieuw wordt uitgevoerd, ontvangen alle nieuwe personen die in aanmerking komen voor de slimme lijst ook de e-mail omdat ze nu in het publiek zijn opgenomen.
+   >**U wordt aangeraden de voorbeeldgrootte niet in te stellen op 100%**. Als u een statische lijst gebruikt, verzendt het plaatsen van de steekproefgrootte aan 100% de e-mail naar iedereen in het publiek en de winnaar gaat aan niemand. Als u een **smart** lijst gebruikt, verzendt het plaatsen van de steekproefgrootte aan 100% de e-mail naar iedereen in publiek *op dat ogenblik. *Wanneer het e-mailprogramma later opnieuw wordt uitgevoerd, ontvangen alle nieuwe personen die in aanmerking komen voor de slimme lijst ook de e-mail omdat ze nu in het publiek zijn opgenomen.
 
    [criteria voor de A/B-testwinnaars definiëren](define-the-a-b-test-winner-criteria.md)
 
