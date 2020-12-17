@@ -21,17 +21,17 @@ De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te
 
 >[!TIP]
 >
->Het wordt aanbevolen op de knop Bestaande accounts **** bijwerken te drukken voordat u een nieuwe zoekopdracht uitvoert om te controleren of u de meest recente gegevens bekijkt. Deze update kan maximaal 24 uur in beslag nemen.
+>Het wordt aanbevolen op de knop **Bestaande accounts bijwerken** te drukken voordat u een nieuwe zoekopdracht uitvoert om te controleren of u de meest recente gegevens bekijkt. Deze update kan maximaal 24 uur in beslag nemen.
 
-1. Klik in Mijn Marketo op **ABM**.
+1. In Mijn Marketo, klik **ABM**.
 
    ![](assets/one-1.png)
 
-1. Klik op het tabblad **Accountprofilering** .
+1. Klik op het tabblad **Accountprofilering**.
 
    ![](assets/two-2.png)
 
-1. Klik op het tabblad **Nieuwe accounts** .
+1. Klik op het tabblad **Nieuwe accounts**.
 
    ![](assets/three-1.png)
 
@@ -43,13 +43,13 @@ De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te
 
    ![](assets/four-1.png)
 
-1. Klik op Alle **opslaan en lijst** maken rechtsonder op de pagina.
+1. Klik op **Alles opslaan en lijst maken** rechtsonder op de pagina.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >Als u slechts een paar accounts ziet die u wilt, kunt u desgewenst op afzonderlijke accounts klikken en op Geselecteerde accounts **** opslaan klikken.
+   >Als u slechts een paar rekeningen ziet u wilt, hebt u de optie om op individuele rekeningen te klikken en **sparen Geselecteerde Rekeningen** te klikken wanneer gedaan.
 
 1. Je kunt een lijst maken met je eigen nieuwe account of deze toevoegen aan een bestaande lijst. In dit voorbeeld maken we een nieuwe.
 
@@ -57,17 +57,17 @@ De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te
 
    >[!NOTE]
    >
-   >Als u de account wilt opslaan in een bestaande accountlijst, selecteert u die optie, klikt u op de vervolgkeuzelijst en selecteert u de gewenste accountlijst en klikt u op **Volgende**.
+   >Als u het bestand wilt opslaan in een bestaande accountlijst, selecteert u die optie, klikt u op de vervolgkeuzelijst en selecteert u de gewenste accountlijst. Klik vervolgens op **Volgende**.
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/seven-1.png)
 
    >[!NOTE]
    >
-   >U kunt maximaal 5.000 accounts tegelijk opslaan. Als uw zoekopdracht 10.000 resultaten oplevert, moet u de eerste (bovenste) 5.000 opslaan, vervolgens de filters opnieuw instellen en de volgende 5.000 opslaan. De **totale** rekeninglimiet is 1 miljoen.
+   >U kunt maximaal 5.000 accounts tegelijk opslaan. Als uw zoekopdracht 10.000 resultaten oplevert, moet u de eerste (bovenste) 5.000 opslaan, vervolgens de filters opnieuw instellen en de volgende 5.000 opslaan. De **totaal** rekeningsgrens is één miljoen.
 
-1. Klik op **OK**.
+1. Klik **OK**.
 
    ![](assets/eight.png)
 
