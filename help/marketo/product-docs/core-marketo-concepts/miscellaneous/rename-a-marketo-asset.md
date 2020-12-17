@@ -19,7 +19,7 @@ U kunt de namen van mappen, programma&#39;s en lokale elementen gemakkelijk wijz
 
    ![](assets/image2015-4-10-17-19-48.png)
 
-1. Typ een nieuwe naam in het tekstveld. Klik op **Opslaan**.
+1. Typ een nieuwe naam in het tekstveld. Klik **Opslaan**.
 
    ![](assets/image2015-4-10-17-3a19-3a33.png)
 
