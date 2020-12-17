@@ -24,14 +24,14 @@ Slimme batchcampagnes hebben alleen filters in de sectie van de slimme lijst (du
 
 ![Afbeelding één](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Als u op het **[!UICONTROL Schedule]** tabblad klikt, wordt bevestigd dat de slimme campagne is ingesteld op Batch.
+Als u op het tabblad **[!UICONTROL Schedule]** klikt, wordt bevestigd dat de slimme campagne is ingesteld op &quot;Batch&quot;.
 
 ![Afbeelding twee](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Slimme batch-campagnes**
 
 * Kan worden gepland voor terugkerende acties, zoals dagelijks, wekelijks, en maandelijks. Je kunt ze ook één keer laten draaien.
-* Deze zijn zichtbaar in de [programmaweergave](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View)van het programma.
+* Deze zijn zichtbaar op de [programmaweergave van het programma](https://docs.marketo.com/display/DOCS/Navigating+the+Program+Schedule+View).
 * Alles na een stap &quot;Wacht&quot; in de slimme campagne wordt niet in de weergave opgenomen.
 
 ## Slimme campagne activeren
@@ -42,15 +42,15 @@ Als een slimme campagne minstens één trigger in de sectie van de slimme lijst 
 
 ![Afbeelding drie](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Als u op het **[!UICONTROL Schedule]** tabblad klikt, wordt bevestigd dat de slimme campagne is ingesteld op &quot;Trigger&quot;.
+Als u op het tabblad **[!UICONTROL Schedule]** klikt, wordt bevestigd dat de slimme campagne is ingesteld op &quot;Trigger&quot;.
 
 ![Afbeelding vier](/help/sky/assets/smart-campaigns/understanding-batch-and-trigger-smart-campaigns/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **Slimme campagnes activeren**
 
 * Kan niet worden gepland voor herhalingen. Deze kunnen alleen op actief of inactief worden ingesteld.
-* U kunt meerdere trigger instellen. Als er echter _een_ trigger wordt geactiveerd, worden de campagneacties uitgevoerd.
+* U kunt meerdere trigger instellen. Als _enige_ trigger wordt geactiveerd, worden de campagneacties uitgevoerd.
 
 >[!TIP]
 >
->Gebruik het [activiteitenlogboek](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) om te zien wat stapsgewijs binnen uw slimme campagnes voorkwam. U kunt het activiteitenlogboek in het laatste lusje van de detailpagina van een persoon vinden.
+>Gebruik [activiteitenlogboek](https://docs.marketo.com/display/DOCS/Locate+the+Activity+Log+for+a+Person) om te zien wat stapsgewijs binnen uw slimme campagnes voorkwam. U kunt het activiteitenlogboek in het laatste lusje van de detailpagina van een persoon vinden.
