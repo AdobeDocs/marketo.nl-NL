@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Als u labels van een bovenliggend element naar een onderliggend element wilt kopiëren, navigeert u naar de [!UICONTROL Details] pagina van het element onder het [!UICONTROL Overview] tabblad.
+Als u labels van een bovenliggend element naar een onderliggend element wilt kopiëren, navigeert u naar de pagina [!UICONTROL Details] onder het tabblad [!UICONTROL Overview].
 
-Klik onder de [!UICONTROL Labels] sectie op **[!UICONTROL Copy Labels From Parent]**.
+Klik onder de sectie [!UICONTROL Labels] op **[!UICONTROL Copy Labels From Parent]**.
 
 ![Afbeelding één](/help/sky/assets/labels/copy-labels-from-parent-to-child/copy-labels-from-parent-to-child-1.jpg)
 
