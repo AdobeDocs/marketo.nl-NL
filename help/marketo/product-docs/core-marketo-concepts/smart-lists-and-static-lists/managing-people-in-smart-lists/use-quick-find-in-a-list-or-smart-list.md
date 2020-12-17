@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Zoek een persoon uit de resultaten van een lijst of slimme lijst met de functie Snel zoeken.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer de slimme lijst die u wilt doorzoeken en klik op het tabblad **Personen** .
+1. Selecteer de slimme lijst u wilt zoeken en dan **Mensen** tabel klikken.
 
    ![](assets/smartlistpeople.png)
 
-## Personen zoeken met persoonlijke informatie {#find-people-using-personal-info}
+## Personen zoeken met persoonlijke info {#find-people-using-personal-info}
 
 1. Typ in het vak **Snel zoeken** onder aan het scherm een sleutelwoord (**persoonlijke naam**, **e-mailadres** of **functie**).
 
@@ -33,7 +33,7 @@ Zoek een persoon uit de resultaten van een lijst of slimme lijst met de functie 
 
 ## Personen zoeken met een bedrijfsnaam {#find-people-using-a-company-name}
 
-1. Om een bedrijf te vinden, typ [**bedrijf**] in de **Snelle doos van de Vondst** , die door om het even welk deel van de bedrijfsnaam wordt gevolgd u zoekt.
+1. Als u een bedrijf wilt zoeken, typt u [**bedrijf**] in het vak **Snel zoeken**, gevolgd door een gedeelte van de bedrijfsnaam waarnaar u zoekt.
 
    ![](assets/supersmartlistsearch.jpg)
 
