@@ -17,7 +17,7 @@ Verplaats een slimme campagne tussen verschillende programma&#39;s of omslagen d
 
 ## Slepen en neerzetten gebruiken {#use-drag-and-drop}
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -31,7 +31,7 @@ Verplaats een slimme campagne tussen verschillende programma&#39;s of omslagen d
    >
    >De regels van uw slimme campagne zullen niet veranderen - het zal enkel op een verschillende plaats worden genesteld.
 
-## De functie Verplaatsen gebruiken {#use-the-move-feature}
+## De functie Verplaatsen {#use-the-move-feature} gebruiken
 
 U kunt slimme campagnes ook verplaatsen met de functie Verplaatsen in de boomstructuur.
 
@@ -39,7 +39,7 @@ U kunt slimme campagnes ook verplaatsen met de functie Verplaatsen in de boomstr
 
    ![](assets/rockclimbing2.jpg)
 
-1. Kies tussen de overgang naar een **programma** of een **map**.
+1. Kies tussen het bewegen naar **Programma** of **Omslag**.
 
    ![](assets/image2015-2-25-13-3a34-3a20.png)
 
@@ -47,7 +47,7 @@ U kunt slimme campagnes ook verplaatsen met de functie Verplaatsen in de boomstr
 
    ![](assets/image2015-2-25-13-3a36-3a4.png)
 
-1. Klik op **Verplaatsen**.
+1. Klik **Verplaatsen**.
 
    ![](assets/image2015-2-25-13-3a37-3a44.png)
 
