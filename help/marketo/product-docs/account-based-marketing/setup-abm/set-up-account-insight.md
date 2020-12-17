@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Account Insight instellen {#set-up-account-insight}
+# Account Insight {#set-up-account-insight} instellen
 
 Hier is hoe te opstellingsRekening Inzicht.
 
 >[!PREREQUISITES]
 >
->ABM de rekeningsscore [moet eerst worden gevormd](http://docs.marketo.com/display/DOCS/Account+Score) .
+>ABM de rekeningsscore [moet eerst worden gevormd](http://docs.marketo.com/display/DOCS/Account+Score).
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Klik **ABM** in de boom, toen de **Verkoop** ABM tabel.
+1. Klik **ABM** in de boom, toen **ABM Verkoop** tabel.
 
    ![](assets/two-5.png)
 
-1. Klik op **Bewerken**.
+1. Klik **Bewerken**.
 
    ![](assets/three-4.png)
 
@@ -37,9 +37,9 @@ Hier is hoe te opstellingsRekening Inzicht.
 
    >[!NOTE]
    >
-   >Als de [accountscore-instellingen](http://docs.marketo.com/display/DOCS/Account+Score) op een gegeven moment worden bijgewerkt, moet de configuratie onder ABM-verkoop door een beheerder worden bijgewerkt om ervoor te zorgen dat de scores de voorkeuren van de gebruiker nauwkeurig weergeven. De gebruiker moet zich afmelden en zich opnieuw aanmelden om de veranderingen te zien.
+   >Als de [Accountscore-instellingen](http://docs.marketo.com/display/DOCS/Account+Score) op een gegeven moment worden bijgewerkt, moet de configuratie onder ABM-verkoop door een beheerder worden bijgewerkt om ervoor te zorgen dat de scores de voorkeuren van de gebruiker nauwkeurig weerspiegelen. De gebruiker moet zich afmelden en zich opnieuw aanmelden om de veranderingen te zien.
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/five-4.png)
 
