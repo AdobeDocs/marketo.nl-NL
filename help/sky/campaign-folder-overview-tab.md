@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Campagnemap: Tabblad Overzicht
 
-Het [!UICONTROL Overview] tabblad Campagnemap bevat twee secties: **[!UICONTROL Details]** en **[!UICONTROL Reports]**.
+Het tabblad [!UICONTROL Overview] bevat twee secties voor de campagnemap: **[!UICONTROL Details]** en **[!UICONTROL Reports]**.
 
 ![Afbeelding één](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-1.png)
 
@@ -28,7 +28,7 @@ Klik op de vervolgkeuzelijst Maphandelingen in de rechterbovenhoek voor snelle t
 
 [!UICONTROL ## Reports]
 
-In de [!UICONTROL Reports] sectie vindt u belangrijke informatie over de verschillende campagnes in uw map.
+In [!UICONTROL Reports] sectie, kunt u zeer belangrijke informatie over de verschillende campagnes binnen uw omslag vinden.
 
 ![Afbeelding één](/help/sky/assets/campaign-folders/campaign-folder-overview-tab/campaign-folder-overview-tab-3.png)
 
