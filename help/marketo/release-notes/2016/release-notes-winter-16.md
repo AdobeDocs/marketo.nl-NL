@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van Winter &#39;16. Klik op de
 
 ## [Is een anonieme filter](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Het filter Is anoniem is verwijderd voor slimme lijsten. Raadpleeg het document met veelgestelde vragen over het bijhouden van veelgestelde vragen [over de](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) volgende generatie. Deze verandering beïnvloedt geen Personalisatie van het Web (RTP), die anonieme en bekende Webbezoekers blijft identificeren en inhoud in real time aan deze bezoekers personaliseren.
+Het filter Is anoniem is verwijderd voor slimme lijsten. Zie [Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie](../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) voor meer informatie. Deze verandering beïnvloedt geen Personalisatie van het Web (RTP), die anonieme en bekende Webbezoekers blijft identificeren en inhoud in real time aan deze bezoekers personaliseren.
 
 ## [Databasedashboard](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
@@ -31,7 +31,7 @@ We hebben Microsoft Edge toegevoegd aan de [lijst met browsers](https://docs.mar
 
 ## [Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) wordt nu ondersteund.
+[Microsoft Outlook 2016](../../product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)  wordt nu ondersteund.
 
 ## [Start van e-mailprogramma](../../product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
@@ -49,7 +49,7 @@ Als u deze functie wilt gebruiken, moet het e-mailprogramma minimaal 12 uur van 
 
 ## [Verbeteringen voor mobiele marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-ondersteuning:** We bieden nu PhoneGap-ondersteuning voor uw mobiele app. [Meer](http://developers.marketo.com/documentation/mobile/phonegap-plugin/)informatie.
+**PhoneGap-ondersteuning:** We bieden nu PhoneGap-ondersteuning voor uw mobiele app. [Meer](http://developers.marketo.com/documentation/mobile/phonegap-plugin/) informatie.
 
 **Ondersteuning voor Sandbox-apps**:
 
@@ -61,7 +61,7 @@ U kunt programma&#39;s maken, bijwerken en klonen via de REST API. Hieronder val
 
 ## [Verbeteringen voor Microsoft Dynamics](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-** [Synchronisatiestatus](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):** Houd tabbladen bij de huidige doorvoer en achterstand van het synchronisatieproces. Breek de waarde af op basis van het aantal ingevoegde en bijgewerkte gegevens per object.
+** [Status synchroniseren](../../product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md):** Tabs op de huidige doorvoer en achterstand van het synchronisatieproces houden. Breek de waarde af op basis van het aantal ingevoegde en bijgewerkte gegevens per object.
 
 ![](assets/pending-backog-cropped.png)
 
@@ -77,7 +77,7 @@ U kunt nu vele-aan-vele verhoudingen tussen Leads/Rekeningen en een douanevoorwe
 
 ## [Advertenties Facebook](../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Advertenties](https://www.facebook.com/business/a/lead-ads) van Facebook Lead zijn een directere manier voor een bedrijf om op Facebook campagnes voor het genereren van leads te voeren. Personen vullen een formulier in om hun belangstelling voor een product of service kenbaar te maken, zodat het bedrijf hierop kan reageren. Bij de integratie van Marketo met Facebook Lead Ads worden automatisch de gegevens vastgelegd die via een lead in het advertentieformulier worden verstrekt. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe trigger Facebook Lead Ads invullen.
+[Facebook Lead ](https://www.facebook.com/business/a/lead-ads) adsare a directer way for a business to run lead generation campagnes op Facebook. Personen vullen een formulier in om hun belangstelling voor een product of service kenbaar te maken, zodat het bedrijf hierop kan reageren. Bij de integratie van Marketo met Facebook Lead Ads worden automatisch de gegevens vastgelegd die via een lead in het advertentieformulier worden verstrekt. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe trigger Facebook Lead Ads invullen.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
