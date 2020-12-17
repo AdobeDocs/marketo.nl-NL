@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: maart 2012 {#release-notes-march}
+# Opmerkingen bij de release: Maart 2012 {#release-notes-march}
 
 >[!NOTE]
 >
 >**Diep duiken**
 >
->Voor andere versies, zie de Nota&#39;s [van de](http://docs.marketo.com/display/docs/release+notes) Versie diep duiken.
+>Voor andere versies, zie [Nota&#39;s van de Versie](http://docs.marketo.com/display/docs/release+notes) diepe duik.
 >
 >## Mijn tokens oplossen {#resolve-my-tokens}>
 
 Mijn tokens (Program Tokens) worden verwerkt wanneer een voorbeeld van een e-mail wordt weergegeven, een teste-mail wordt verzonden en een lokale e-mail wordt verzonden via één flowactie. U hoeft niet langer een slimme campagne in het programma te maken om uw My Tokens te testen!
 
-## Schakelen tussen de voorvertoningsfunctie en de Editor in e-mails en bestemmingspagina&#39;s {#toggle-between-previewer-and-editor-in-emails-and-landing-pages}
+## Schakelen tussen Voorvertoning en Editor in e-mails en Landingspagina&#39;s {#toggle-between-previewer-and-editor-in-emails-and-landing-pages}
 
 Met één muisklik kunt u gemakkelijk heen en weer gaan tussen de Editor en de Previewer.
 
