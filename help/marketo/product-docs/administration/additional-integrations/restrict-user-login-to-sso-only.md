@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Alleen gebruikersaanmelding beperken tot SSO {#restrict-user-login-to-sso-only}
 
-Als u SSO [](add-single-sign-on-to-a-portal.md) gebruikt en gebruikers niet de veiligheid van SSO wilt omzeilen, volg deze instructies.
+Als u [SSO](add-single-sign-on-to-a-portal.md) gebruikt en gebruikers niet de veiligheid van SSO kunt omzeilen, volg deze instructies.
 
 >[!NOTE]
 >
@@ -33,10 +33,10 @@ Als u SSO [](add-single-sign-on-to-a-portal.md) gebruikt en gebruikers niet de v
 
 >[!TIP]
 >
->Als u SSO **** vereisen selecteert, kunt u een [gebruikersrol](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking uitsluiten door de **optie Afmelden bij** enkele aanmelding omzeilen tijdens het instellen van de rol te controleren. Hierdoor kunnen gebruikers zich normaal aanmelden. Het is bijvoorbeeld mogelijk dat Admin-gebruikers zich nog steeds moeten aanmelden bij Marketo via het aanmeldingsscherm.
+>Als u **SSO** vereist selecteert, kunt u [gebruikersrol](../../../product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking uitsluiten door **Enkelvoudige Sign-On** te omzeilen terwijl het plaatsen van de rol. Hierdoor kunnen gebruikers zich normaal aanmelden. Het is bijvoorbeeld mogelijk dat Admin-gebruikers zich nog steeds moeten aanmelden bij Marketo via het aanmeldingsscherm.
 
 >[!CAUTION]
 >
->Wanneer nieuwe gebruikers worden uitgenodigd, ontvangen zij uitnodigingse-mails. Als SSO **** vereisen is geselecteerd, ontvangen ze deze e-mails echter niet, tenzij ze zijn toegewezen aan een rol die is ingesteld op Single Sign-On **** omzeilen.
+>Wanneer nieuwe gebruikers worden uitgenodigd, ontvangen zij uitnodigingse-mails. Nochtans, als **vereist SSO** wordt geselecteerd, zullen zij deze e-mail niet ontvangen, tenzij zij aan een rol worden toegewezen die aan **Enkelvoudige Sign-On** wordt geplaatst om te mijden.
 
 Dat is het! Nu zullen alle gebruikers (behalve gebruikers met toestemming om enig teken-op te mijden) worden beperkt tot het gebruiken van slechts login SSO.
