@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Stroominhoud prioriteren {#prioritize-stream-content}
+# Stroominhoud voorrang geven {#prioritize-stream-content}
 
 Nadat u inhoud aan uw stroom hebt toegevoegd, kunt u de prioriteit willen veranderen. De inhoud wordt altijd geleverd van de bovenkant neer in elke gietvorm, en geen inhoud wordt verzonden naar de zelfde persoon tweemaal.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma.png)
 
-1. Selecteer uw serviceprogramma en klik op het tabblad **Streams** .
+1. Selecteer uw serviceprogramma en klik op het tabblad **Streams**.
 
    ![](assets/cloneasteam-1.jpg)
 
