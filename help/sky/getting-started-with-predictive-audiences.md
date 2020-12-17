@@ -29,7 +29,7 @@ De prestaties van de AI/ML-modellen zijn afhankelijk van de gegevens in uw abonn
 
 Het voorspellende publiek wordt automatisch opgenomen en geactiveerd voor instanties die gebruikmaken van de prijsbundels voor de eerste of de laatste. Neem contact op met de succesmanager van de klant voor meer informatie over het verkrijgen van toegang tot deze functie.
 
-1. Wanneer de functie aan uw exemplaar is toegevoegd, navigeert u naar de **[!UICONTROL Predictive Audiences]** pagina in het **[!UICONTROL Admin]** gebied van [!DNL Marketo Classic].
+1. Nadat de functie aan uw instantie is toegevoegd, navigeert u naar de **[!UICONTROL Predictive Audiences]**-pagina in het **[!UICONTROL Admin]**-gebied van [!DNL Marketo Classic].
 
 1. Schakel **[!UICONTROL Enable Predictive Audiences]** in om de functie te activeren. Het kan tot 24 uur duren voordat alle processen zijn ingesteld.
 
