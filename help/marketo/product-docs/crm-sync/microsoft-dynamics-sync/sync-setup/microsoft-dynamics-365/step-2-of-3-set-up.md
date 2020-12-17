@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Stap 2 van 3: Marketo synchroniseren van gebruiker in dynamiek instellen {#step-of-set-up-marketo-sync-user-in-dynamics}
+# Stap 2 van 3: Markering instellen om gebruiker te synchroniseren in dynamiek {#step-of-set-up-marketo-sync-user-in-dynamics}
 
 Laten we beginnen met het maken van een gebruikersaccount.
 
@@ -19,7 +19,7 @@ Laten we beginnen met het maken van een gebruikersaccount.
 >
 >[Stap 1 van 3: De Marketo-oplossing installeren (online)](step-1-of-3-install.md)
 
-## Nieuwe gebruiker maken {#create-a-new-user}
+## Nieuwe gebruiker {#create-a-new-user} maken
 
 1. Meld u aan bij Dynamics. Klik op het pictogram Instellingen en selecteer **Geavanceerde instellingen**.
 
@@ -29,27 +29,27 @@ Laten we beginnen met het maken van een gebruikersaccount.
 
    ![](assets/two.png)
 
-1. Klik op **Gebruikers**.
+1. Klik **Users**.
 
    ![](assets/three.png)
 
-1. Klik op **Nieuw.**
+1. Klik **Nieuw.**
 
    ![](assets/four.png)
 
-1. Klik op Gebruikers **** toevoegen en licentie toevoegen in het nieuwe venster.
+1. Klik **Gebruikers toevoegen en Licentie toevoegen** in het nieuwe venster.
 
    ![](assets/five.png)
 
-1. Er wordt een nieuw tabblad geopend. Klik op **Beheerder** boven aan de pagina.
+1. Er wordt een nieuw tabblad geopend. Klik **Admin** bij de bovenkant van de pagina.
 
    ![](assets/six.png)
 
-1. Er wordt een ander nieuw tabblad geopend. Klik op **Een gebruiker** toevoegen.
+1. Er wordt een ander nieuw tabblad geopend. Klik **Een gebruiker toevoegen**.
 
    ![](assets/seven.png)
 
-1. Voer al uw gegevens in. Klik op **Toevoegen** als u klaar bent.
+1. Voer al uw gegevens in. Als u klaar bent, klikt u op **Toevoegen**.
 
    ![](assets/eight.png)
 
@@ -57,7 +57,7 @@ Laten we beginnen met het maken van een gebruikersaccount.
    >
    >Deze naam moet een specifieke synchronisatiegebruiker zijn en geen bestaande rekening van de gebruiker van CRM. Het hoeft geen echt e-mailadres te zijn.
 
-1. Voer het e-mailbericht in waarin u de nieuwe gebruikersgegevens wilt ontvangen en klik op E-mail **verzenden en sluit** het.
+1. Voer het e-mailbericht in waarin u de nieuwe gebruikersgegevens wilt ontvangen en klik op **E-mail verzenden en sluiten**.
 
    ![](assets/nine.png)
 
@@ -67,7 +67,7 @@ Wijs de rol Marketo Sync User alleen toe aan Marketo Sync user. U hoeft het niet
 
 >[!NOTE]
 >
->Dit geldt voor Marketo versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om Marketo te bevorderen, zie de Oplossing van de Marketo van de [Verbetering voor de Dynamica](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md)van Microsoft.
+>Dit geldt voor Marketo versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om Marketo te bevorderen, zie [Oplossing van de Marketo van de Verbetering voor de Dynamica van Microsoft](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Ga terug naar het Toegelaten lusje van Gebruikers en vernieuw de gebruikerslijst.
 
@@ -77,55 +77,55 @@ Wijs de rol Marketo Sync User alleen toe aan Marketo Sync user. U hoeft het niet
 
    ![](assets/eleven.png)
 
-1. Klik op Rollen **beheren**.
+1. Klik **Rollen beheren**.
 
    ![](assets/twelve.png)
 
-1. Schakel **Marketo Sync User** in en klik op **OK**.
+1. Schakel **Marketo Sync User** in en klik **OK**.
 
    ![](assets/thirteen.png)
 
    >[!NOTE]
    >
-   >Updates die door de synchronisatiegebruiker in uw CRM worden uitgevoerd, worden **niet** weer gesynchroniseerd met Marketo.
+   >Om het even welke updates die in uw CRM door de Gebruiker van de Synchronisatie worden gemaakt zullen **not** worden gesynchroniseerd terug naar Marketo.
 
-## Marketo-oplossing configureren {#configure-marketo-solution}
+## Marketo-oplossing {#configure-marketo-solution} configureren
 
 Bijna daar! We hebben alleen nog maar Marketo Solution op de hoogte gebracht van de nieuwe gebruiker die is gemaakt.
 
-1. Ga terug naar de Geavanceerde sectie van Montages, klik het ![](assets/image2015-5-13-15-3a49-3a19.png)pictogram naast Montages, en selecteer **Marketo Config**.
+1. Ga terug naar de Geavanceerde sectie van Montages, klik ![](assets/image2015-5-13-15-3a49-3a19.png)pictogram naast Montages, en selecteer **Marketo Config**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Vernieuw de pagina als u **Marketo Config** niet ziet in het menu Instellingen. Als dat niet werkt, probeer om de Oplossing [van het Marketo opnieuw te](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) publiceren of logout en terug binnen.
+   >Als u **Marketo Config** in het menu van Montages niet ziet, vernieuw de pagina. Als dat niet werkt, probeer om [de Oplossing van de Marketo ](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) opnieuw te publiceren of logout en terug binnen.
 
-1. Klik op **Standaard**.
+1. Klik **Standaard**.
 
    ![](assets/fifteen.png)
 
-1. Klik op de zoekknop in het veld **Marketo-gebruiker** en selecteer de synchronisatiegebruiker die u hebt gemaakt.
+1. Klik op de zoekknop in het veld **Marketo User** en selecteer de synchronisatiegebruiker die u hebt gemaakt.
 
    ![](assets/sixteen.png)
 
-1. Klik op het ![](assets/image2015-3-13-15-3a10-3a11.png)pictogram in de rechterbenedenhoek om de wijzigingen op te slaan.
+1. Klik op het pictogram ![](assets/image2015-3-13-15-3a10-3a11.png)in de rechterbenedenhoek om de wijzigingen op te slaan.
 
    ![](assets/image2015-3-13-15-3a3-3a3.png)
 
-1. Klik op de **X** rechtsboven om het scherm te sluiten.
+1. Klik op **X** in de rechterbovenhoek om het scherm te sluiten.
 
    ![](assets/seventeen.png)
 
-1. Klik op het ![](assets/image2015-5-13-15-3a49-3a19-1.png)pictogram naast Instellingen en selecteer **Oplossingen**.
+1. Klik op het pictogram ![](assets/image2015-5-13-15-3a49-3a19-1.png)naast Instellingen en selecteer **Oplossingen**.
 
    ![](assets/eighteen.png)
 
-1. Klik op de knop **Alle aanpassingen** publiceren.
+1. Klik op de knop **Alle aanpassingen publiceren**.
 
    ![](assets/nineteen.png)
 
-## Voordat u verdergaat met stap 3 {#before-proceeding-to-step}
+## Voordat u doorgaat naar stap 3 {#before-proceeding-to-step}
 
     * Als u het aantal records dat u synchroniseert wilt beperken, moet u [een aangepast synchronisatiefilter instellen] (../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
     * Voer het proces [Validate Microsoft Dynamics Sync] (../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) uit. Hierbij wordt gecontroleerd of de eerste instellingen correct zijn uitgevoerd.
