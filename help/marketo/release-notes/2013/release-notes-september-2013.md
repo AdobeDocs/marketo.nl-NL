@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: september 2013 {#release-notes-september}
+# Opmerkingen bij de release: September 2013 {#release-notes-september}
 
-De volgende functies zijn opgenomen in de release van september. Controleer uw [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van september. Controleer [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
 
 Na de release moet u het tabblad [Nieuwe release](release-notes-december-2013.md) in de Gemeenschap uitchecken voor gedetailleerde artikelen in de Knowledge Base voor elke functie!
 
@@ -29,11 +29,11 @@ Gebruik gegevens van Marketo-aangepaste objecten of voeg voorwaardelijke logica 
 
 ![](assets/image2014-9-22-17-3a10-3a56.png)
 
-## Verzendtest wijzigen naar voorbeeld {#change-send-test-to-send-sample}
+## Verzenden van test wijzigen om voorbeeld te verzenden {#change-send-test-to-send-sample}
 
 De naam van de actie Test verzenden is gewijzigd in Voorbeeld verzenden
 
-## Voorbeeld-e-mail voor persoonlijke verzending {#personalized-send-sample-email}
+## Voorbeeld-e-mail verzenden met persoonlijke voorkeur {#personalized-send-sample-email}
 
 Wanneer u een e-mailvoorbeeld verzendt, kunt u de naam van een lead selecteren om de voorbeeldmail aan te passen.
 
