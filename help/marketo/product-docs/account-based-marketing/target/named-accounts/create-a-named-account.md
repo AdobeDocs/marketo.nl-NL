@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ga als volgt te werk om handmatig een benoemde account te maken.
 
-1. Klik in Benoemde accounts op de vervolgkeuzelijst **Nieuw** en selecteer Benoemd account **** maken.
+1. Klik in Benoemde accounts op de vervolgkeuzelijst **Nieuw** en selecteer **Benoemde account maken**.
 
    ![](assets/two-1.png)
 
