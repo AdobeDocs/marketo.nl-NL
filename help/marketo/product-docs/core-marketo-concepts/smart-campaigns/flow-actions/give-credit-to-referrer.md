@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ## Overzicht {#overview}
 
-Wanneer u een [verwijzingsaanbod](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of een [zweepbelang](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)uitvoert, kunt u de referentie op verschillende manieren crediteren:
+Wanneer u een [verwijzingsaanbod](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of een [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) uitvoert, kunt u de referentie op verschillende manieren crediteren:
 
 * Bezochte bezoeken
 * Aanwijzingen
 * **Smart List Trigger**
 * Aangepaste JavaScript-gebeurtenis
 
-Als u ervoor kiest om de optie **Smart List Trigger** te gebruiken om een doel op te geven, moet u de stap **Crediteren** **aan verwijzer** gebruiken.   ![](assets/image2014-9-22-15-3a59-3a18.png)
+Als u ervoor hebt gekozen om de optie **Smart List Trigger** te gebruiken om een doel op te geven, moet u de stroomstap **Crediteren** **Aan Referrer** gebruiken.   ![](assets/image2014-9-22-15-3a59-3a18.png)
 
 ## Gebruik {#usage}
 
@@ -35,6 +35,6 @@ Als u ervoor kiest om de optie **Smart List Trigger** te gebruiken om een doel o
    >**Herinnering**
    >
    >
-   >Controleer of uw sociale app is geconfigureerd voor gebruik van Smart List Trigger. Zie Doel [opgeven voor een doorverwijzing](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) voor meer informatie.
+   >Controleer of uw sociale app is geconfigureerd voor gebruik van Smart List Trigger. Zie [Doel opgeven voor doorverwijzing](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md) voor meer informatie.
 
 Uitstekend! Elke persoon die met deze stap wordt verwerkt, zal nu zijn referentie crediteren.
