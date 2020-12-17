@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Stap 1: Een scoringcampagne maken {#step-create-a-scoring-campaign}
 
-1. Ga naar het gebied **Marketingactiviteiten** .
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/ma-1.png)
 
-1. Klik met de rechtermuisknop op de **map Learning** en klik op **Nieuwe campagnemap**.
+1. Klik met de rechtermuisknop op de map **Learning** en klik op **Nieuwe campagnemap**.
 
    ![](assets/two-2.png)
 
@@ -37,21 +37,21 @@ ht-degree: 0%
    >
    >Als u al een map met scores hebt, geeft u deze een andere naam, bijvoorbeeld Scoring 1. Mapnamen moeten uniek zijn.
 
-1. Klik vervolgens met de rechtermuisknop op de nieuwe **map voor het** scoren en selecteer **Nieuwe slimme campagne**.
+1. Klik vervolgens met de rechtermuisknop op de nieuwe **Scoring**-map en selecteer **Nieuwe slimme campagne**.
 
    ![](assets/four.png)
 
-1. **Geef** de campagne de naam &#39;Score wijzigen&#39; en klik op **Maken**.
+1. **Geef** de campagne de naam &#39;Score wijzigen&#39; en klik op  **Maken**.
 
    ![](assets/five-1.png)
 
-1. Klik op het tabblad **Slimme lijst** .
+1. Klik op het tabblad **Slimme lijst**.
 
    ![](assets/six-1.png)
 
-   We willen dat deze campagne wordt uitgevoerd wanneer iemand uw aanvraagformulier voor **proefversie invult**.
+   We willen dat deze campagne wordt uitgevoerd wanneer een persoon uw **Proefaanvraagformulier** invult.
 
-1. Zoek en sleep de trigger Formulier **** invullen naar het linkercanvas.
+1. Zoek en sleep de trigger **Formulier invullen** naar het linkercanvas.
 
    ![](assets/image2014-9-24-11-3a43-3a35.png)
 
@@ -59,31 +59,31 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Als u de [bestemmingspagina hebt voltooid met een formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) dat u snel kunt winnen, hebt u het formulier nodig. Als u een andere naam hebt gebruikt voor het formulier, selecteert u die naam.
+   >Als u de [Landing Page met een Vorm](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) snel hebt voltooid zou u de vorm moeten hebben. Als u een andere naam hebt gebruikt voor het formulier, selecteert u die naam.
 
    ![](assets/image2014-9-24-11-3a44-3a16.png)
 
-1. Klik op het tabblad **Stroom** .
+1. Klik op het tabblad **Stroom**.
 
    ![](assets/image2014-9-24-11-3a44-3a33.png)
 
-1. Sleep de **actie Score** wijzigen naar het linkercanvas.
+1. Sleep de stroomactie **Score** naar het linkercanvas.
 
    ![](assets/image2014-9-24-11-3a44-3a45.png)
 
-1. U kunt elke waarde typen die u aan de persoonlijke score wilt toevoegen. Voer &#39;+5&#39; in het veld **Wijzigen** .
+1. U kunt elke waarde typen die u aan de persoonlijke score wilt toevoegen. Voer &quot;+5&quot; in het veld **Wijzigen** in.
 
    ![](assets/eleven-1.png)
 
    >[!TIP]
    >
-   >Goede scoringcampagnes zijn essentieel om mensen van hoge kwaliteit aan de Verkoop te leveren. Lees [**de Definitieve Gids aan het Toren van de Lood**](https://www.marketo.com/definitive-guides/lead-scoring/).
+   >Goede scoringcampagnes zijn essentieel om mensen van hoge kwaliteit aan de Verkoop te leveren. Lees [**De Definitieve Gids aan het Schorsen van de Lood**](https://www.marketo.com/definitive-guides/lead-scoring/).
 
-1. Klik op het tabblad **Schema** en op de knop **Activeren** .
+1. Klik op de tab **Schema** en de knop **Activeren**.
 
    ![](assets/twelve-1.png)
 
-1. Klik op **Activeren** op het bevestigingsscherm.
+1. Klik **Activeer** op het bevestigingsscherm.
 
    ![](assets/thirteen-1.png)
 
@@ -91,13 +91,13 @@ ht-degree: 0%
 >
 >Zodra deze campagne actief is, wordt deze uitgevoerd telkens wanneer een persoon het formulier invult. De campagne blijft actief tot ze gedeactiveerd is.
 
-## Stap 2: Het formulier invullen {#step-fill-out-the-form}
+## Stap 2: Formulier {#step-fill-out-the-form} invullen
 
-1. Selecteer de openingspagina die u op de [bestemmingspagina hebt gemaakt met een formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) dat u snel kunt winnen.
+1. Selecteer de bestemmingspagina u in [Landing Pagina met een Vorm ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) snel win creeerde.
 
    ![](assets/fourteen-1.png)
 
-1. Klik op Goedgekeurde pagina **** weergeven. De landingspagina wordt geopend op een nieuw tabblad.
+1. Klik **Goedgekeurde pagina weergeven**. De landingspagina wordt geopend op een nieuw tabblad.
 
    ![](assets/image2014-9-24-11-3a47-3a51.png)
 
@@ -109,7 +109,7 @@ ht-degree: 0%
    >
    >Gebruik dezelfde naam en hetzelfde e-mailadres als u hebt gebruikt toen u zichzelf voor het eerst als persoon hebt ingevoerd om de score + 5 toe te passen.
 
-## Stap 3: Persoonsgegevens weergeven {#step-view-the-person-info}
+## Stap 3: De persoonlijke info weergeven {#step-view-the-person-info}
 
 1. Ga naar het gebied Database.
 
