@@ -15,9 +15,9 @@ ht-degree: 0%
 
 U kunt de manier veranderen Marketo verbindt met kansen voor eerste en multi-aanraking attributie, lood omzettingsmetriek, en de marketing-beïnvloede opportuniteitsvlag.
 
-Deze montages zullen de rapporten van de Ontdekkingsreiziger van de Inkomsten onder de Analyse [van de Kans van het](../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)Programma, de Analyse [van de](../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)Kans, en de gebieden van de Analyse van de Lood beïnvloeden. Dit zal ook het rapport van de Analysator van het Programma beïnvloeden.
+Deze montages zullen de rapporten van de Ontdekkingsreiziger van de Opbrengst onder [Analyse van de Kans van het Programma](../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analyse van de Kans](../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), en gebieden van de Analyse van het Lood beïnvloeden. Dit zal ook het rapport van de Analysator van het Programma beïnvloeden.
 
-1. Klik onder de sectie **Beheerder** op **Analytics** van inkomstencyclus.
+1. Klik onder de sectie **Admin** op **Belastingcyclusanalyse**.
 
    ![](assets/image2014-9-24-11-3a55-3a19.png)
 
@@ -48,5 +48,5 @@ Deze montages zullen de rapporten van de Ontdekkingsreiziger van de Inkomsten on
 
 >[!CAUTION]
 >
->Wanneer het gebruiken van **Impliciet**, zal Marketo altijd alle contacten verbonden aan de rekening ongeacht rol onderzoeken. **Marketo raadt sterk aan de modus Expliciet te gebruiken.** Het gebruik van Impliciet kan tot valse positieven leiden; dat wil zeggen, mensen die een kans verdienen ondanks het feit dat ze geen echte invloed op de kansen hebben. Wees voorzichtig met Impliciet gebruiken.
+>Wanneer het gebruiken van **impliciet**, zal Marketo altijd alle contacten verbonden aan de rekening ongeacht rol onderzoeken. **Marketo raadt sterk aan de modus Expliciet te gebruiken.** Het gebruik van Impliciet kan tot valse positieven leiden; dat wil zeggen, mensen die een kans verdienen ondanks het feit dat ze geen echte invloed op de kansen hebben. Wees voorzichtig met Impliciet gebruiken.
 
