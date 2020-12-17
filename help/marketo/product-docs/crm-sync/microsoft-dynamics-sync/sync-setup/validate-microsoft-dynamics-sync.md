@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Synchronisatie van Microsoft-dynamiek valideren {#validate-microsoft-dynamics-sync}
+# Synchronisatie van Microsoft Dynamics {#validate-microsoft-dynamics-sync} valideren
 
 >[!CAUTION]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Het is zeer belangrijk om het Validate hulpmiddel van de Synchronisatie in werking te stellen om ervoor te zorgen uw Synchronisatie van de Dynamiek van Microsoft met Marketo correct opstelling alvorens de definitieve verbinding tussen hen te maken. Het proces produceert een controlelijst van zeven opstellingsstappen die waar de kwesties bestaan. Als u controleert of deze correct zijn uitgevoerd, bespaart u later veel tijd.
 
-1. Klik op het tabblad **Admin** en vervolgens op de koppeling **Microsoft Dynamics** in het gebied Integratie.
+1. Klik **Admin** tabel en dan de **verbinding van de Dynamiek van Microsoft** in het gebied van de Integratie.
 
    ![](assets/image2015-9-28-16-3a7-3a51.png)
 
@@ -29,23 +29,23 @@ Het is zeer belangrijk om het Validate hulpmiddel van de Synchronisatie in werki
 
    ![](assets/image2015-9-28-16-3a10-3a47.png)
 
-1. Klik op het tabblad **Synchronisatie-instellingen** valideren.
+1. Klik op het tabblad **Synchronisatie-instellingen valideren**.
 
    ![](assets/image2015-9-28-16-3a11-3a45.png)
 
-1. Voer uw gebruikersnaam, wachtwoord en URL in (Client-id en clientgeheim zijn optioneel). Klik op **Volgende** als u klaar bent.
+1. Voer uw gebruikersnaam, wachtwoord en URL in (Client-id en clientgeheim zijn optioneel). Klik **Volgende** wanneer gereed.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >Als u eerder hebt gesynchroniseerd, zal **CRM** in de linkerboom de Dynamica **van** Microsoft lezen, en de gegevens in de bovengenoemde vorm kunnen prepopulated zijn.
+   >Als u eerder hebt gesynchroniseerd, **CRM** in de linkerboom **Microsoft Dynamics** zal lezen, en de gegevens in de bovengenoemde vorm kunnen prepopulated zijn.
 
-1. Als alles prima is, produceert Validate Synchronisatie een controlelijst vol groene controletekens ![—](assets/check.png).
+1. Als alles prima is, produceert Validate Sync een controlelijst vol groene controletekens ![—](assets/check.png).
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Als u een ![—](assets/delete.png)ziet, dan heeft die stap een kwestie. Zie Problemen met validatie bij validatie [van dynamiek herstellen](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) om het probleem op te sporen en te verhelpen. Voer vervolgens de validatiestappen voor synchroniseren opnieuw uit totdat het resultaat eruit ziet zoals in de bovenstaande afbeelding.
+1. Als u ![—](assets/delete.png) ziet, dan heeft die stap een kwestie. Zie [Problemen met validatie van dynamiek corrigeren](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) om het probleem op te sporen en te verhelpen. Voer vervolgens de validatiestappen voor synchroniseren opnieuw uit totdat het resultaat eruit ziet zoals in de bovenstaande afbeelding.
 
    >[!CAUTION]
    >
