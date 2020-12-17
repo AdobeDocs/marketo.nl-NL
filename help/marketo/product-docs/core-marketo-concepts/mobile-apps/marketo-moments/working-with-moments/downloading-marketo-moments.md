@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Marketo-momenten downloaden {#downloading-marketo-moments}
+# Marketo-momenten {#downloading-marketo-moments} downloaden
 
 Download Marketo Moments van de App Store of Google Play en voila! Marketo-magie in de palm van je hand.
 
 ## Voor iPhone {#for-iphone}
 
-1. Ga naar de [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).\
+1. Ga naar [App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8).\
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 
 1. Zoek naar Momenten van de Marketo en selecteer het.\
    ![](assets/image2015-7-7-17-3a19-3a7.png)
 
-1. Tik vervolgens op **Openen**.\
+1. Tik vervolgens op **Open**.\
    ![](assets/image2015-7-7-17-3a20-3a51.png)
 
 ## Voor Android {#for-android}
@@ -32,10 +32,10 @@ Download Marketo Moments van de App Store of Google Play en voila! Marketo-magie
 1. Zoek naar Marketo Moments en tik om te downloaden.\
    ![](assets/image2015-7-14-9-3a6-3a34.png)
 
-1. Tik op **Accepteren**.\
+1. Tik **Accepteren**.\
    ![](assets/image2015-7-7-16-3a41-3a47.png)
 
-1. Tik op **Installeren**.\
+1. Tik **Installeren**.\
    ![](assets/image2015-7-7-16-3a43-3a21.png)
 
 Veel plezier!
