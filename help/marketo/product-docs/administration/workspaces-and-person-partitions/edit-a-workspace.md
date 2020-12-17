@@ -23,13 +23,13 @@ Soms moet u wijzigingen aanbrengen in een werkruimte. Het is gemakkelijk.
 >
 >**Diep duiken**
 >
->Penseel de werkruimten op met Werken en Personen [partities](understanding-workspaces-and-person-partitions.md).
+>Penseel omhoog op werkruimten met [Werkruimten en Personen Partities](understanding-workspaces-and-person-partitions.md).
 
-1. Klik onder **Beheer** op **Werkruimten en partities**.
+1. Klik onder **Admin** op **Werkruimten en partities**.
 
    ![](assets/image2014-9-17-11-3a59-3a11-1.png)
 
-1. Selecteer de werkruimte die u wilt bewerken en klik op Werkruimte **** bewerken.
+1. Selecteer de werkruimte die u wilt bewerken en klik op **Werkruimte bewerken**.
 
    ![](assets/two-7.png)
 
@@ -40,13 +40,13 @@ Soms moet u wijzigingen aanbrengen in een werkruimte. Het is gemakkelijk.
    >**Herinnering**
    >
    >
-   >U kunt meer persoonsverdelingen [](create-a-person-partition.md) tot stand brengen als u hen nodig hebt.
+   >U kunt [meer persoonverdelingen tot stand brengen](create-a-person-partition.md) als u hen nodig hebt.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >Het selectievakje **Alle persoonlijke partities****** betekent dat in deze werkruimte alle partities voor leads in het systeem kunnen worden gebruikt.
+   >Het selectievakje **Alle persoonlijke partities******* betekent dat deze werkruimte alle leadpartities in het systeem kan gebruiken.
 
    >[!NOTE]
    >
