@@ -21,13 +21,13 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 Marketo maakt gebruik van onze grote gegevensarchitectuur om de productie van campagnes te verhogen en de verwerking van webactiviteiten te verbeteren, zodat u sneller kunt reageren op de acties van uw publiek.
 
-## Verbeteringen voor de integratie van Salesforce CRM van Marketo {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Verbeteringen voor de integratie Salesforce CRM {#enhancements-to-marketo-s-salesforce-crm-integration} van Marketo
 
 Wij hebben twee verhogingen aan onze integratie van Salesforce CRM:
 
-* [Marketo Admin-meldingen](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) voor bepaalde CRM-synchronisatiefouten (verlopen aanmeldingsgegevens, API-limieten bereikt enz.)
+* [Marketo Admin-](../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) meldingen voor bepaalde CRM-synchronisatiefouten (verlopen referenties, API-limieten bereikt enz.)
 
-* [Mogelijkheid om e-mailmeldingen](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) naar Lead-eigenaars uit te schakelen bij toewijzing van leads
+* [Mogelijkheid om e-](../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) mailmeldingen naar eigenaars van leads uit te schakelen bij toewijzing van leads
 
 Deze verbeteringen zullen in de loop van 2018 worden doorgevoerd.
 
@@ -41,7 +41,7 @@ Deze verbeteringen zullen in de loop van 2018 worden doorgevoerd.
 
 Onderzoek hoe uw campagnes en kanalen bedrijfsresultaten met attributieanalyses, interactieve visualisaties, en een gedetailleerde gegevenslijst beïnvloeden.   ![](assets/image2018-2-5-7-3a55-3a46.png)
 
-## Verbeteringen op basis van account {#account-based-marketing-enhancements}
+## Op account gebaseerde marketingverbeteringen {#account-based-marketing-enhancements}
 
 ** [ABM-hiërarchie](../../product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
 
@@ -55,17 +55,17 @@ Het scripting van de snelheid wordt nu gesteund in e-mail gebruikend dynamische 
 
 **Tijdzone ontvanger**
 
-* ** [Maandelijkse hellingshoek ](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**:** **We hebben de mogelijkheid toegevoegd om programma&#39;s voor de verzorging op maandbasis te plannen.
+* ** [Monthly Nurture Cadence ](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**:** **We hebben de mogelijkheid toegevoegd om programma&#39;s voor de verzorging op een maandbasis te plannen.
 
-* ** [Levering](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)stoppen**: U kunt nu om het even welk resterend verzenden midden-looppas.
+* ** [Levering stoppen](../../product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: U kunt nu om het even welk resterend verzenden midden-looppas.
 
-## Integratie van advertentienetwerken {#ad-network-integrations}
+## Netwerkintegratie toevoegen {#ad-network-integrations}
 
 ** [Google Customer Match Integration](../../product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
 Met deze integratie kunt u een Marketo-publiek naar Google sturen om als doelgroep Google AdWords te gebruiken en een publiek op YouTube, Search en Gmail te richten.
 
-** [API-verbetering](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)voor gekoppelde soorten publiek**
+** [Verbetering van de API voor LinkedIn-overeenkomende soorten publiek](../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
 Met onze nieuwe LinkedIn-API kunt u nu personen in uw Marketo-database opnieuw toewijzen via meerdere LinkedIn Campaign Manager-accounts.
 
@@ -83,11 +83,11 @@ De Personalisering van het Web kan inhoud aan een bekende Webbezoeker nu persona
 
 **Predictive Algorithm Improvement**
 
-Inhoud die wordt aanbevolen via de geoptimaliseerde`<sup>AI </sup>`inhoudsalgoritmen van Marketo, genereert maximaal tweemaal zoveel klikken als willekeurige inhoud.
+Inhoud aanbevolen via de geoptimaliseerde inhoud`<sup>AI </sup>`algoritmen van Marketo genereren tot tweemaal zoveel klikken als willekeurige inhoud.
 
 ## Integratie {#integration}
 
-** Campagne-API [activeren/deactiveren](http://developers.marketo.com/rest-api/assets/campaigns/)**
+** [Campagne-API activeren/deactiveren](http://developers.marketo.com/rest-api/assets/campaigns/)**
 
 Met deze nieuwe API kunt u triggercampagnes op afstand activeren en deactiveren, zodat u nu volledig geautomatiseerde programmasjablonen kunt maken. Maak één keer een programmasjabloon, automatiseer het klonen, verhandel zakelijke updates en activering/planning van slimme campagnes.
 
@@ -95,7 +95,7 @@ Met deze nieuwe API kunt u triggercampagnes op afstand activeren en deactiveren,
 
 **Abonnement bijwerken opzeggen**
 
-Vanaf 1 maart 2018 wordt aan alle e-mails die van [ToutApp.com](http://ToutApp.com) zijn verzonden (en met de knop &quot;E-mail met tout&quot; in Salesforce) een link toegevoegd die het abonnement opzegt.
+Vanaf 1 maart 2018 wordt aan alle e-mails die worden verzonden van [ToutApp.com](http://ToutApp.com) (en met de knop &quot;E-mail met tout&quot; in Salesforce) een link toegevoegd die het abonnement opzegt.
 
 **Update van live feed**
 
