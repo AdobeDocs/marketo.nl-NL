@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# De status van een programma verwijderen uit een programmakanaal {#delete-a-program-status-from-a-program-channel}
+# Een programmastatus verwijderen uit een programmakanaal {#delete-a-program-status-from-a-program-channel}
 
 De status van het programma is de controlepunten door een programmaweg (kanaal). Als u per ongeluk een status maakt of deze niet meer nodig hebt, kunt u deze zonder problemen verwijderen.
 
-1. Ga naar de sectie **Beheer** .
+1. Ga naar **Admin** sectie.
 
    ![](assets/admin.png)
 
-1. Klik op **Labels**.
+1. Klik **Codes**.
 
    ![](assets/image2014-9-24-15-3a51-3a24.png)
 
-1. Selecteer het kanaal waarvan u een status wilt verwijderen en klik vervolgens onder **Taghandelingen** op **Bewerken**.
+1. Selecteer het kanaal u een status uit wilt verwijderen, dan onder **Acties van de Markering**, klik **uitgeven**.
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. Klik ![—](assets/image2014-9-24-15-3a52-3a39.png) om de status te verwijderen en klik vervolgens op **OPSLAAN**.
+1. Klik ![—](assets/image2014-9-24-15-3a52-3a39.png) om de status te verwijderen, dan klik **SAVE**.
 
    >[!TIP]
    >
@@ -35,4 +35,4 @@ De status van het programma is de controlepunten door een programmaweg (kanaal).
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-Echt waar! Indien nodig kunt u ook een volledig kanaal [](delete-a-program-channel.md) verwijderen.
+Echt waar! U kunt een volledig kanaal [ook schrappen ](delete-a-program-channel.md) als u nodig hebt.
