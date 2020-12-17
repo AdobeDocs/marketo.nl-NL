@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Betrokkenheidsprogramma&#39;s kunnen meerdere streams bevatten. Hieronder wordt beschreven hoe u een nieuwe toevoegt.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer uw serviceprogramma en klik op het tabblad **Streams** .
+1. Selecteer uw serviceprogramma en klik op het tabblad **Streams**.
 
    ![](assets/streamstablifecycle.jpg)
 
-1. Klik op Stream **toevoegen**.
+1. Klik **Stream toevoegen**.
 
    ![](assets/image2014-9-15-16-3a56-3a23.png)
 
