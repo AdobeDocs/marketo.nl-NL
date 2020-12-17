@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Opmerkingen bij de release: maart 2015 {#release-notes-march}
+# Opmerkingen bij de release: {#release-notes-march}
 
 De volgende functies zijn opgenomen in de release van maart 2015. Controleer uw Marketo Edition voor de beschikbaarheid van functies. Na de release wilt u koppelingen naar gedetailleerde artikelen voor elke functie zoeken.
 
 ## Kalender HD {#calendar-hd}
 
-[Toon de marketing van uw team acties](http://docs.marketo.com/display/docs/calendar+hd) met de nieuwe presentatiemodus van de kalender. Dit is geweldig voor tv&#39;s of reuzenmonitoren op kantoor! Stel doelen in en geeft deze weer op basis van een slimme lijst of aangepaste meetgegevens.
+[Toon de marketing van uw team ](http://docs.marketo.com/display/docs/calendar+hd) activiteiten met de nieuwe presentatiemodus van de kalender. Dit is geweldig voor tv&#39;s of reuzenmonitoren op kantoor! Stel doelen in en geeft deze weer op basis van een slimme lijst of aangepaste meetgegevens.
 
 >[!NOTE]
 >
@@ -31,9 +31,9 @@ Koppel uw [Google AdWords-account aan Marketo](../../product-docs/administration
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
-## Herontwerp inkomstenverkenner {#revenue-explorer-redesign}
+## Ontvangsten verkenner opnieuw ontwerpen {#revenue-explorer-redesign}
 
-[De Ontdekkingsreiziger](http://docs.marketo.com/display/docs/revenue+explorer) van de opbrengst heeft een gloednieuwe blik en voelt, evenals het nieuwe type van de Zonneburst grafiek! We gaan dit uitrollen in de eerste twee weken van april.
+[De ](http://docs.marketo.com/display/docs/revenue+explorer) Exploratie van de opbrengst heeft een gloednieuwe blik en voelt, evenals het nieuwe type van de Zonneburst grafiek! We gaan dit uitrollen in de eerste twee weken van april.
 
 ## Nieuwe REST-API&#39;s voor middelen {#new-asset-rest-apis}
 
@@ -41,20 +41,20 @@ Koppel uw [Google AdWords-account aan Marketo](../../product-docs/administration
 
 We hebben nu ondersteuning voor het maken en bewerken van e-mails, sjablonen, mijn tokens, bestanden en fragmenten [via de API](http://developers.marketo.com/documentation/asset-api)!
 
-## Microsoft Dynamics 2015 op locatie {#microsoft-dynamics-on-premise}
+## Microsoft Dynamics 2015 on Premise {#microsoft-dynamics-on-premise}
 
 Ondersteund met het nieuwste installatieprogramma dat nu [toegankelijk is via de app](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
-## RTP - Persoonlijke Betrokkenheid van het Web met Leidingsgegevens {#rtp-personalized-web-engagement-with-lead-data}
+## RTP - Persoonlijke betrokkenheid van het Web met Loodgegevens {#rtp-personalized-web-engagement-with-lead-data}
 
-Maak gebruik van de [hoofdgegevensvelden](../../product-docs/web-personalization/using-web-segments/manage-person-data.md)die u in uw Marketo-database hebt om realtime segmentatie en gepersonaliseerde inhoudscampagnes te maken. Beheer uw gegevensvelden voor leads in RTP en voeg relevante hoofdvelden toe of verwijder deze.
+Gebruik de [loodgegevensgebieden](../../product-docs/web-personalization/using-web-segments/manage-person-data.md)u hebt in uw Marketo loodgegevensbestand om segmentatie in real time en gepersonaliseerde inhoudscampagnes tot stand te brengen. Beheer uw gegevensvelden voor leads in RTP en voeg relevante hoofdvelden toe of verwijder deze.
 
 ![](https://lh5.googleusercontent.com/OnjwgUtNi6UxjovgMofQW2DcxCDRSsmyn_cupaw5qYROsDx0FqOc8Y-Un3w-TJG7OEckeDsk9qjQwnqhLJFaiuJFyuatMrXGUdMe9GtRgGojcuet4GUXpuCzbhEu_buqoidW7R4)
 
-## RTP - Personaliseer de Inhoud van het Web door E-mail of de Naam van de Campagne van het Programma {#rtp-personalize-web-content-by-email-or-program-campaign-name}
+## RTP - Personaliseer de Inhoud van het Web door de Naam van de Campagne van de E-mail of van het Programma {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Ga door met het gesprek met uw lead via de verschillende kanalen, van e-mail tot web. [Binnenkomende inhoud aanpassen op basis van de naam van de e-mailcampagne of het programma](../../product-docs/web-personalization/using-web-segments/web-segments.md) die in de marketingactiviteiten van Marketo wordt gebruikt.
+Ga door met het gesprek met uw lead via de verschillende kanalen, van e-mail tot web. [Binnenkomende inhoud aanpassen op basis van de e-mailcampagne of de ](../../product-docs/web-personalization/using-web-segments/web-segments.md) programmanaam die in de marketingactiviteiten van Marketo worden gebruikt.
 
 ![](https://lh6.googleusercontent.com/CyX7Kh2dvBmxVtbc44DSfhqepujOsjZxoQ44StHQjgkHbrWoNUO9Bv8g8ZUH_oU-1QRTTltIb9WutoYMO5vnjjDDUmxWKS7Hyi0OSUv6nfe7JXfC-CVhFFUYA6q5kg21D556UEQ)
