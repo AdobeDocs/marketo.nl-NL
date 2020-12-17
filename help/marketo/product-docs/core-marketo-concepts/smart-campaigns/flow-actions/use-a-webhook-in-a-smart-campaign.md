@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een webhaak gebruiken in een slimme campagne {#use-a-webhook-in-a-smart-campaign}
 
-Als u een [webhaak](http://developers.marketo.com/documentation/webhooks/)wilt gebruiken, voegt u deze toe aan een [slimme campagne](add-a-flow-step-to-a-smart-campaign.md) als een flowactie.
+Als u een [webhaak](http://developers.marketo.com/documentation/webhooks/) wilt gebruiken, voegt u deze toe aan een [slimme campagne](add-a-flow-step-to-a-smart-campaign.md) als een flowactie.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Als u een [webhaak](http://developers.marketo.com/documentation/webhooks/)wilt g
    >
    >Webhaken kunnen alleen worden gebruikt in triggercampagnes.
 
-1. Ga naar het lusje van de **Stroom** en sleep in de de stroomactie van Webhaak **van de** Vraag.
+1. Ga naar **Stroom** lusje en sleep in **Vraag Webhaak** stroomactie.
 
    ![](assets/image2014-9-22-15-3a8-3a2.png)
 
@@ -39,7 +39,7 @@ Als u een [webhaak](http://developers.marketo.com/documentation/webhooks/)wilt g
 
    ![](assets/2017-05-02-10-54-38.png)
 
-1. Tot slot kunt u Webhooks in **Add Keuze** in een stroomstap gebruiken.
+1. Tot slot kunt u Webhooks in **Keuze toevoegen** in een stroomstap gebruiken.
 
    ![](assets/image2014-9-22-15-3a8-3a13.png)
 
