@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Beschrijvingen van rolmachtigingen {#descriptions-of-role-permissions}
+# Beschrijvingen van roltoestemmingen {#descriptions-of-role-permissions}
 
 Hieronder volgt een lijst van alle beschikbare toestemmingen die u aan uw rollen kunt toewijzen. Machtigingen zijn over het algemeen gekoppeld aan specifieke functionele gebieden binnen Marketo en kunnen u helpen bepalen tot welke gebieden en functionaliteit verschillende gebruikers toegang hebben.
 
@@ -23,11 +23,11 @@ Aanvullende informatie over machtigingen:
 
 ## Beschikbare machtigingen {#available-permissions}
 
-Wanneer u een rol [](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)maakt of bewerkt, kunt u selecteren welke van de volgende machtigingen u voor die rol wilt toestaan door de desbetreffende vakken in te schakelen.
+Wanneer u [een rol creeert of uitgeeft ](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), kunt u selecteren welke van de volgende toestemmingen om voor die rol toe te staan door de aangewezen vakjes te controleren.
 
 ![](assets/createnewrole.png)
 
-## Toegangsbeheerder  {#access-admin}
+## Access Admin {#access-admin}
 
 In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen.
 
@@ -35,7 +35,7 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 * Toegang tot kanalen - Gebruikers hebben alleen toegang om de Kanaaltag te wijzigen, niet andere aangepaste tags
 * Toegang tot communicatielimiet - geeft gebruikers toegang om een communicatielimiet in Admin in te schakelen
 * Toegang CRM - geeft gebruikers toegang tot CRM, zoals Salesforce of de Dynamica van Microsoft, in Admin
-* Toegang tot [Data.com](http://Data.com) - Biedt gebruikers toegang tot de Data.com-stroomactie
+* Toegang [Data.com](http://Data.com) - Biedt gebruikers toegang tot de Data.com-stroomactie
 * Toegang tot e-mailbeheerder - Gebruikers krijgen toegang tot e-mailbeheerder om de standaardinstellingen te wijzigen, zoals het afmelden en brandmerken van domeinen
 * Access Event Partners - Biedt gebruikers toegang tot LaunchPoint in Admin
 * Toegangsveldbeheer - geeft gebruikers toegang tot veldbeheer in Admin
@@ -59,9 +59,9 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 * Toegang tot webhaken - Geeft gebruikers in Admin toegang tot webhooks voor het instellen van details en responstoewijzingen
 * Toegang tot werkruimten en partities - biedt gebruikers toegang tot het maken, bewerken en verwijderen van werkruimten en partities in Admin
 
-## API voor toegang  {#access-api}
+## Toegang-API {#access-api}
 
-Hiermee geeft u gebruikers met de **API Alleen** toegang tot de afzonderlijke API&#39;s die hieronder worden vermeld, met de **rol** .
+Biedt gebruikers alleen de **API** **Role** toegang tot de hieronder vermelde afzonderlijke API&#39;s.
 
 * Middelen goedkeuren
 * Campagne uitvoeren
@@ -94,13 +94,13 @@ Biedt gebruikers toegang tot de tabbladen Analytics, Email Insights, Reports en 
 * Rapport verwijderen - Als de controle ongedaan wordt gemaakt, kan de gebruiker rapporten verwijderen
 * Analytische gegevens exporteren - Als de controle ongedaan wordt gemaakt, kan de gebruiker geen analysegegevens exporteren
 
-## Toegang tot agenda-Presentations {#access-calendar-presentations}
+## Presentations {#access-calendar-presentations} openen
 
 Biedt gebruikers toegang tot de presentaties van de Kalender ?? - de vertoning van de knoop van Presentations bij de bodem toelaat?
 
 * Kalender Presentations bewerken - Hiermee kunnen gebruikers presentaties bewerken in de agenda
 
-## Toegang tot Design Studio {#access-design-studio}
+## Open Design Studio {#access-design-studio}
 
 Biedt gebruikers toegang tot het lusje van de Studio van het Ontwerp en mening van de boom, maar niet tot details.
 
@@ -111,7 +111,7 @@ Biedt gebruikers toegang tot het lusje van de Studio van het Ontwerp en mening v
       * E-mail operationeel maken - Hiermee geeft u gebruikers toestemming om een e-mail operationeel te maken. Zie: [Een e-mail operationeel maken](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
    * E-mail goedkeuren - Hiermee kunnen gebruikers e-mailberichten goedkeuren.
    * E-mail verwijderen - Hiermee kunnen gebruikers e-mailberichten verwijderen.
-   * Stel het brandingdomein in. Hiermee kunnen gebruikers met brandingdomeinen werken. Zie: [Meerdere merkdomeinen toevoegen](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
+   * Stel het brandingdomein in. Hiermee kunnen gebruikers met brandingdomeinen werken. Zie: [Meerdere brandingdomeinen toevoegen](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
 
 
 * Toegang tot e-mailsjabloon
@@ -154,7 +154,7 @@ Biedt gebruikers toegang tot het lusje van de Studio van het Ontwerp en mening v
    * Sociale app verwijderen
    * Sociale app bewerken
 
-## Access Database {#access-database}
+## Database {#access-database} openen
 
 Bekijk de database en bekijk en bewerk slimme/statische lijsten.
 
@@ -172,7 +172,7 @@ Bekijk de database en bekijk en bewerk slimme/statische lijsten.
 * Aangepast object importeren
 * Lijst importeren
 * Personen samenvoegen
-* Voer de Enige Acties van de Stroom in werking - laat gebruikers toe om de stap van de stroom van de Waarde **van Gegevens van de** Verandering op mensen van het gegevensbestand in werking te stellen
+* Voer de Enige Acties van de Stroom in - laat gebruikers toe om **de waarde van Gegevens van de Verandering** debietstap op mensen van het gegevensbestand in werking te stellen
 
 * Opportuniteitsgegevens weergeven - Verbergt de opportuniteitsinformatie op de pagina met persoonlijke details
 
@@ -208,7 +208,7 @@ Toegang tot SEO
 * SEO beheren
 * StandaardSEO
 
-## Gericht en persoonlijk tintje {#targeting-and-personalization}
+## Targeting and Personalization {#targeting-and-personalization}
 
 * Webpersonalisatie beheren
 * CRE-campagneeditor
