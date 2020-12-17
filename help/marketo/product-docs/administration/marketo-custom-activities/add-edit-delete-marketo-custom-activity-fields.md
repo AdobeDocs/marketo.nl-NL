@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Markeertekens toevoegen/bewerken/verwijderen aan aangepaste activiteitenvelden {#add-edit-delete-marketo-custom-activity-fields}
+# Markeringsvelden toevoegen/bewerken/verwijderen {#add-edit-delete-marketo-custom-activity-fields}
 
 Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwijderen. Zo gaat het.
 
-## Een veld Aangepaste activiteit toevoegen {#add-a-custom-activity-field}
+## Een aangepast activiteitsveld toevoegen {#add-a-custom-activity-field}
 
-1. Klik in Aangepaste activiteiten markeren op **Velden**.
+1. Klik in Aangepaste activiteiten markeren op **Fields**.
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
    ![](assets/two-3.png)
 
-1. Klik op **Nieuw veld**.
+1. Klik **Nieuw veld**.
 
    ![](assets/three-3.png)
 
@@ -37,15 +37,15 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
    >
    >Weet u niet zeker wat u moet selecteren? We hebben je bedekt! Alle beschikbare gegevenstypen worden gedefinieerd in [dit artikel](../../../product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. Geef het veld een naam. De api-naam wordt automatisch ingevuld. Klik op **Opslaan** als u klaar bent.
+1. Geef het veld een naam. De api-naam wordt automatisch ingevuld. Wanneer u wordt gedaan, klik **sparen**.
 
    ![](assets/five-3.png)
 
    Dat is het! Uw nieuwe veld is toegevoegd.
 
-## Een veld Aangepaste activiteit bewerken {#edit-a-custom-activity-field}
+## Een aangepast activiteitsveld bewerken {#edit-a-custom-activity-field}
 
-1. Klik in Aangepaste activiteiten markeren op **Velden**.
+1. Klik in Aangepaste activiteiten markeren op **Fields**.
 
    ![](assets/one-3.png)
 
@@ -53,7 +53,7 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
    ![](assets/seven.png)
 
-1. Selecteer het veld dat u wilt bewerken, klik op de vervolgkeuzelijst **Veldhandelingen** en selecteer Veld **** bewerken.
+1. Selecteer het veld dat u wilt bewerken, klik op de vervolgkeuzelijst **Veldhandelingen** en selecteer **Veld bewerken**.
 
    ![](assets/eight.png)
 
@@ -79,9 +79,9 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
 Uw veld wordt nu bewerkt.
 
-## Een aangepast activiteitsveld verwijderen {#delete-a-custom-activity-field}
+## Een aangepast activiteitsveld {#delete-a-custom-activity-field} verwijderen
 
-1. Klik in Aangepaste activiteiten markeren op **Velden**.
+1. Klik in Aangepaste activiteiten markeren op **Fields**.
 
    ![](assets/one-3.png)
 
@@ -89,7 +89,7 @@ Uw veld wordt nu bewerkt.
 
    ![](assets/twelve.png)
 
-1. Selecteer het veld dat u wilt verwijderen, klik op de vervolgkeuzelijst **Veldhandelingen** en selecteer Veld **** verwijderen.
+1. Selecteer het veld dat u wilt verwijderen, klik op de vervolgkeuzelijst **Veldhandelingen** en selecteer **Veld verwijderen**.
 
    ![](assets/thirteen.png)
 
