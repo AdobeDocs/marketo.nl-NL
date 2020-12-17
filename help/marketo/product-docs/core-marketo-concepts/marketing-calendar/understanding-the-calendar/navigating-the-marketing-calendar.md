@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Navigeren door de marketingkalender {#navigating-the-marketing-calendar}
+# Navigeren in de marketingkalender {#navigating-the-marketing-calendar}
 
 U kunt gemakkelijk in de marketingkalender navigeren, maar dan wel één, twee, drie!
 
 >[!PREREQUISITES]
 >
->Zorg ervoor dat u een licentie [voor de](issue-revoke-a-marketing-calendar-license.md) marketingkalender hebt, anders verschijnt het element voor de marketingkalender niet in Mijn Marketo.
+>Zorg ervoor u een [licentie van de Kalender van de Marketing](issue-revoke-a-marketing-calendar-license.md) - anders zal de tegel van de Kalender van de Marketing niet in Mijn Marketo verschijnen.
 
-1. Ga naar de **marketingkalender**.
+1. Ga naar **Marketingkalender**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -29,7 +29,7 @@ U kunt gemakkelijk in de marketingkalender navigeren, maar dan wel één, twee, 
 
 ## Wijzigen tussen modi {#change-between-modes}
 
-1. Klik op de tabbladen **3 weken** of **Maand** om tussen de modi te schakelen.
+1. Klik **3 weken** of **Month** lusjes om tussen wijzen te schakelen.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -43,7 +43,7 @@ In de weergave Agenda worden al uw items als een lijst weergegeven.
 
    `
 
-1. Selecteer de **Agenda** -weergave.
+1. Selecteer de weergave **Agenda**.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -51,7 +51,7 @@ In de weergave Agenda worden al uw items als een lijst weergegeven.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## Navigeren door de tijd {#navigate-through-time}
+## Navigeren door tijd {#navigate-through-time}
 
 Zonder DeLorean! Klik gewoon op de navigatieknoppen.
 
