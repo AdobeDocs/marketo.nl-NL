@@ -21,11 +21,11 @@ De het niveaumontages van het abonnement worden gerespecteerd voor gebruikers di
 
 ## Een universele id instellen {#setting-up-a-universal-id}
 
-Van elke afzonderlijke instantie, moet uw beheerder van de Marketo u aan elk van uw verschillende abonnementen met zelfde login uitnodigen. Marketo kan uw bestaande aanmeldingen niet automatisch samenvoegen. Als u de Universal ID hebt ingeschakeld, is **uw Marketo-instantie maximaal 30 minuten niet meer beschikbaar** . Als u een grotere gebruikersbasis hebt, zou het een beetje langer kunnen zijn.
+Van elke afzonderlijke instantie, moet uw beheerder van de Marketo u aan elk van uw verschillende abonnementen met zelfde login uitnodigen. Marketo kan uw bestaande aanmeldingen niet automatisch samenvoegen. Als u de Universal ID hebt ingeschakeld, is **uw Marketo-instantie maximaal 30 minuten niet beschikbaar**. Als u een grotere gebruikersbasis hebt, zou het een beetje langer kunnen zijn.
 
 >[!CAUTION]
 >
->Als Single ID of Universal ID is ingeschakeld voor een gebruiker, kunnen de rollen en werkruimten van deze gebruiker **niet** worden bewerkt na de eerste configuratie.
+>Als Single ID of Universal ID is ingeschakeld voor een gebruiker, kunnen de rollen en werkruimten ervan **niet** worden bewerkt na de eerste instelling.
 
 >[!NOTE]
 >
