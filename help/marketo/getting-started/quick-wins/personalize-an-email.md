@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een e-mail aanpassen {#personalize-an-email}
 
-## Opdracht: Je e-mailberichten persoonlijk maken door gegevenstokens toe te voegen {#mission-make-your-emails-personal-by-adding-data-tokens}
+## Opdracht: Uw e-mails persoonlijk maken door gegevenstokens toe te voegen {#mission-make-your-emails-personal-by-adding-data-tokens}
 
 >[!PREREQUISITES]
 >
@@ -22,9 +22,9 @@ ht-degree: 0%
 >* [Drip, Drip, Nurture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
 
-## Stap 1: Selecteer een e-mailadres dat u wilt aanpassen {#step-select-an-email-to-personalize}
+## Stap 1: Selecteer een e-mail om {#step-select-an-email-to-personalize} aan te passen
 
-1. Selecteer een van de e-mails die u in de [vorige snelle win](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) hebt gemaakt en klik op Concept **** bewerken.
+1. Selecteer een van de e-mails die u hebt gemaakt in de [vorige snelle win](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md) en klik op **Concept bewerken**.
 
    ![](assets/one-4.png)
 
@@ -32,35 +32,35 @@ ht-degree: 0%
    >
    >Hiermee maakt u een kopie van de e-mail als concept. U moet het concept van de wijzigingen goedkeuren om live te gaan.
 
-Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in een nieuw tabblad/venster. Klik anders tweemaal op Concept **** bewerken.
+Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in een nieuw tabblad/venster. Klik anders tweemaal **Concept** bewerken.
 
-## Stap 2: De verkoper de afzender maken {#step-make-the-salesperson-the-sender}
+## Stap 2: Van Salesperson de Afzender {#step-make-the-salesperson-the-sender} maken
 
-1. Selecteer het veld **Van** , markeer en **verwijder** de huidige naam.
+1. Selecteer **Van** gebied, benadruk en **schrapping** de huidige naam.
 
    ![](assets/two-5.png)
 
-1. Klik op het pictogram **Token** rechts van het veld **Van** .
+1. Klik op het pictogram **Token** rechts van het veld **Van**.
 
    ![](assets/three-4.png)
 
-1. Zoek en selecteer het **`{{lead.Lead Owner First Name}}`** token.
+1. Zoek en selecteer de token **`{{lead.Lead Owner First Name}}`**.
 
    ![](assets/four-3.png)
 
-1. Typ uw bedrijfsnaam en een streepje voor de **Standaardwaarde** om ervoor te zorgen dat er iets wordt weergegeven als de voornaam van de verkoopvertegenwoordiger niet beschikbaar is. Klik op **Invoegen**.
+1. Typ uw bedrijfsnaam en een streepje voor **Standaardwaarde** om ervoor te zorgen dat er iets wordt weergegeven voor het geval de voornaam van de verkoopvertegenwoordiger niet beschikbaar is. Klik **Invoegen**.
 
    ![](assets/five-4.png)
 
-1. Druk op de spatiebalk in het veld **Van** . De cursor knippert één spatie na het token dat u net hebt ingevoegd. Klik vervolgens nogmaals op het pictogram **Token** .
+1. Druk op de spatiebalk in het veld **Van** om te zorgen dat de cursor één spatie knippert na het token dat u net hebt ingevoegd. Klik vervolgens nogmaals op het pictogram **Token**.
 
    ![](assets/six-4.png)
 
-1. Zoek en selecteer het **`{{lead.Lead Owner Last Name}}`** token.
+1. Zoek en selecteer de token **`{{lead.Lead Owner Last Name}}`**.
 
    ![](assets/seven-5.png)
 
-1. Typ &quot;Verkoop&quot; voor de **standaardwaarde** en klik op **Invoegen**.
+1. Typ &quot;Sales&quot; voor de **Standaardwaarde** en klik op **Invoegen**.
 
    ![](assets/eight-3.png)
 
@@ -70,15 +70,15 @@ Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in 
 
    ![](assets/nine-2.png)
 
-1. Voeg een spatie na &quot;Hello&quot;toe en plaats uw curseur voor de komma, dan klik het Symbolische pictogram van het **Tussenvoegsel** .
+1. Voeg een spatie na &quot;Hello&quot;toe en plaats uw curseur voor de komma, dan klik het **Symbolische van het Tussenvoegsel** pictogram.
 
    ![](assets/ten-4.png)
 
-1. Zoek en selecteer het **`{{lead.First Name}}`** token.
+1. Zoek en selecteer de token **`{{lead.First Name}}`**.
 
    ![](assets/eleven-4.png)
 
-1. Typ &quot;Vriend&quot; (of een willekeurig label dat u wilt gebruiken) in het veld **Standaardwaarde** en klik op **Invoegen**.
+1. Typ &quot;Vriend&quot; (of een willekeurig label dat u wilt) in het veld **Standaardwaarde** en klik op **Invoegen**.
 
    ![](assets/twelve-3.png)
 
@@ -86,7 +86,7 @@ Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in 
    >
    >Neem altijd een standaardwaarde voor tokens op. dit zorgt ervoor dat de standaardwaarde in de e-mail wordt weergegeven als een deel van de persoonlijke gegevens ontbreekt.
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/thirteen-3.png)
 
@@ -94,13 +94,13 @@ Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in 
 
    ![](assets/fourteen-3.png)
 
-1. Selecteer onder **E-mailacties** de optie **Concept** goedkeuren.
+1. Selecteer **Concept** goedkeuren onder **E-mailhandelingen**.
 
    ![](assets/fifteen-3.png)
 
 >[!TIP]
 >
->Wilt u snel vernieuwen hoe u uzelf de e-mail kunt sturen? Zie [Een e-mailschoen](/help/marketo/getting-started/quick-wins/send-an-email.md)verzenden.
+>Wilt u snel vernieuwen hoe u uzelf de e-mail kunt sturen? Zie [Een e-mailschoen verzenden](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
 ### Opdracht voltooid {#mission-complete}
 
