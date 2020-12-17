@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Persona&#39;s zijn een geweldige manier om uw ABM-publiek en -markt te segmenteren tot een bepaalde groep mensen.
 
-## Een persoon toevoegen {#add-a-persona}
+## Een persoon {#add-a-persona} toevoegen
 
-1. Klik in Mijn Marketo op **Beheer**.
+1. In Mijn Marketo, klik **Admin**.
 
    ![](assets/one.png)
 
@@ -25,7 +25,7 @@ Persona&#39;s zijn een geweldige manier om uw ABM-publiek en -markt te segmenter
 
    ![](assets/two.png)
 
-1. Klik op **Bewerken**.
+1. Klik **Bewerken**.
 
    ![](assets/three.png)
 
@@ -33,11 +33,11 @@ Persona&#39;s zijn een geweldige manier om uw ABM-publiek en -markt te segmenter
    >
    >De persoon van de Titel van de Baan is inbegrepen door gebrek. Kan niet worden gewijzigd of verwijderd.
 
-1. Klik op **+Toevoegen** om extra persona&#39;s toe te voegen.
+1. Als u aanvullende personen wilt toevoegen, klikt u op **+Add**.
 
    ![](assets/four.png)
 
-1. Geef uw persoon een naam en selecteer het desbetreffende veld in de vervolgkeuzelijst. U kunt maximaal twee extra persona&#39;s toevoegen. Klik op **Opslaan** als u klaar bent.
+1. Geef uw persoon een naam en selecteer het desbetreffende veld in de vervolgkeuzelijst. U kunt maximaal twee extra persona&#39;s toevoegen. Klik **Opslaan** wanneer gereed.
 
    ![](assets/five.png)
 
@@ -45,7 +45,7 @@ Persona&#39;s zijn een geweldige manier om uw ABM-publiek en -markt te segmenter
    >
    >Alleen aangepaste Salesforce-velden van het type &quot;picklist&quot; die zijn gesynchroniseerd met uw Marketo-instantie, zijn beschikbaar in de vervolgkeuzelijst met persoonlijke velden wanneer u een persona maakt.
 
-## Je persoonlijke gegevens weergeven {#view-your-personas}
+## Uw persoonlijke gegevens weergeven {#view-your-personas}
 
 Bekijk uw persoonlijke gegevens door een specifiek Benoemd account te bezoeken.
 
@@ -53,7 +53,7 @@ Bekijk uw persoonlijke gegevens door een specifiek Benoemd account te bezoeken.
 
    ![](assets/one-a.png)
 
-1. Klik op het tabblad **Persoonlijk** .
+1. Klik op het tabblad **Persoonlijk**.
 
    ![](assets/two-a.png)
 
@@ -65,7 +65,7 @@ Bekijk uw persoonlijke gegevens door een specifiek Benoemd account te bezoeken.
    >
    >De X in de Title Persona fungeert als een jokerteken. &#39;CXO&#39; omvat bijvoorbeeld CEO&#39;s, CFO&#39;s, enzovoort.
 
-## Persona Filters {#persona-filters}
+## Persona-filters {#persona-filters}
 
 1. Gebruik persona-filters in een slimme lijst om op de markt te brengen voor een specifieke groep personen.
 
