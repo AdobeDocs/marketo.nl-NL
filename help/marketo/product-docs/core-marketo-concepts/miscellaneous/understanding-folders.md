@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Mappen begrijpen {#understanding-folders}
+# Mappen {#understanding-folders}
 
-Mappen in een programma kunnen worden gebruikt om slimme campagnes en middelen te organiseren. Deze zijn anders dan [campagnemappen](create-new-campaign-folder.md).
+Mappen in een programma kunnen worden gebruikt om slimme campagnes en middelen te organiseren. Deze zijn verschillend van [campagnemappen](create-new-campaign-folder.md).
 
 ## Een map maken {#create-a-folder}
 
-1. Ga naar het gebied **Marketingactiviteiten** .
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/ma.png)
 
@@ -35,7 +35,7 @@ Geweldig! Nu hebt u een nieuwe map waarin u uw lokale elementen kunt opslaan.
 
 Het is oké om van gedachten te veranderen.
 
-1. Klik met de rechtermuisknop op de map en selecteer **Naam map** wijzigen.
+1. Klik met de rechtermuisknop op de map en selecteer **Naam van map wijzigen**.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
@@ -45,19 +45,19 @@ Het is oké om van gedachten te veranderen.
 
    Et Volia! De map heeft een nieuwe naam.
 
-## Een map verwijderen {#delete-a-folder}
+## Een map {#delete-a-folder} verwijderen
 
 >[!NOTE]
 >
 >Zorg ervoor dat de map leeg is voordat u deze verwijdert.
 
-1. Klik met de rechtermuisknop op de map en selecteer Map **** verwijderen.
+1. Klik met de rechtermuisknop op de map en selecteer **Map verwijderen**.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 
    Adios-map!
 
-## Een map archiveren {#archive-a-folder}
+## Een map {#archive-a-folder} archiveren
 
 In Marketo kunt u bestaande mappen converteren naar Archiefmappen. De omslagen van het archief bestaan in de Activiteiten van de Marketing, Gegevensbestand, en Studio van het Ontwerp.
 
@@ -70,7 +70,7 @@ Wanneer u een map archiveert:
 * Gearchiveerde sjablonen zijn niet beschikbaar wanneer u een e-mail- of landingspagina maakt in Design Studio
 * Gearchiveerde pagina&#39;s kunnen niet worden gebruikt in testgroepen voor bestemmingspagina&#39;s
 
-Functionaliteit die **niet** verandert bij archivering:
+Functionaliteit die **niet** zal veranderen tijdens archivering:
 
 * Globale zoekopdracht vindt nog steeds resultaten in gearchiveerde mappen
 * Een actief dat in gebruik is, blijft werken zelfs nadat het is gearchiveerd
