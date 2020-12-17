@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verplaatsen van ingangen in de Mening van het Programma {#moving-entries-in-the-program-schedule-view}
+# Bewegende ingangen in de Mening {#moving-entries-in-the-program-schedule-view} van het Programma
 
 Als u items verplaatst in de overzichtsweergave, worden deze automatisch opnieuw gepland.
 
