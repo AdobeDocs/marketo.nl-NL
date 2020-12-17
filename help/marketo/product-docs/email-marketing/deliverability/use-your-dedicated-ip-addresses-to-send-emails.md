@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Gebruik uw specifieke IP Adressen om E-mail te verzenden {#use-your-dedicated-ip-addresses-to-send-emails}
+# Gebruik uw specifieke IP Adressen om E-mail {#use-your-dedicated-ip-addresses-to-send-emails} te verzenden
 
 Het verzenden van één of meerdere specifieke IP geeft u volledige controle over uw verzendende reputatie.
 
@@ -21,7 +21,7 @@ Het verzenden van één of meerdere specifieke IP geeft u volledige controle ove
 >
 >Een specifieke IP is een toe:voegen-op product. Niet zal iedereen verkiesbaar zijn om een specifieke IP aan hun programma toe te voegen. U zou meer dan 100.000 e-mail per maand moeten verzenden en een stabiele campagnecadentie hebben om een specifieke IP te handhaven. Bereik uit aan uw CSM voor meer informatie over hoe te om specifieke IP aan uw programma van Marketo toe te voegen.
 >
->Als u minder dan 100.000 e-mails per maand verzendt en/of variabele campagnevolumes heeft en/of seizoensgebonden afzender, kunt u geen specifieke IP handhaven. Marketo handhaaft een afzonderlijke Vertrouwde IP gedeelde pool voor klanten die zich aan strikte beste praktijken houden. Indien u hierom verzoekt, gelieve [deze vragenlijst](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) in te vullen en deze toe te passen op het vertrouwde IP-programma van Marketo.
+>Als u minder dan 100.000 e-mails per maand verzendt en/of variabele campagnevolumes heeft en/of seizoensgebonden afzender, kunt u geen specifieke IP handhaven. Marketo handhaaft een afzonderlijke Vertrouwde IP gedeelde pool voor klanten die zich aan strikte beste praktijken houden. Indien geïnteresseerd, vul [deze vragenlijst](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) in om op het Vertrouwde IP Programma van Marketo van toepassing te zijn.
 
 Alle Marketo-accounts beginnen op een gedeeld IP-adres, zodat u direct kunt beginnen met mailen. Als u een specifieke IP toevoegt, zult u met leverbaarheidsadviseurs werken om de levering van IP te plannen.
 
@@ -40,9 +40,9 @@ Om de leverbaarheid op lange termijn te maximaliseren, bieden de Leveringsconsul
 
 >[!TIP]
 >
->Houd uw database schoon om uw prestaties hoog te houden. [Adobe vereist](http://www.adobe.com/legal/terms/aup.html) dat klanten alleen marketingberichten verzenden naar mensen die hebben aangemeld/gevraagd om e-mail te ontvangen. Spam niet.
+>Houd uw database schoon om uw prestaties hoog te houden. [Adobe ](http://www.adobe.com/legal/terms/aup.html) vereist dat klanten alleen marketingberichten sturen naar mensen die hebben aangemeld/gevraagd om e-mail te ontvangen. Spam niet.
 
 >[!CAUTION]
 >
->Neem contact op met de [ondersteuning](http://nation.marketo.com/t5/Support/ct-p/Support)van Marketo als u een groot aantal of andere problemen ziet. Als u meer gerichte ondersteuning nodig hebt om te leren hoe u een schone database kunt onderhouden en hoe u de betrokkenheid bij uw programma kunt vergroten, kunnen de e-mailleveringsconsultants van Marketo worden ingeschakeld voor een Custom Services-pakket.
+>Als u een hoog aantal grenzen, of een andere problemen ziet, contact [Marketo Support](http://nation.marketo.com/t5/Support/ct-p/Support). Als u meer gerichte ondersteuning nodig hebt om te leren hoe u een schone database kunt onderhouden en hoe u de betrokkenheid bij uw programma kunt vergroten, kunnen de e-mailleveringsconsultants van Marketo worden ingeschakeld voor een Custom Services-pakket.
 
