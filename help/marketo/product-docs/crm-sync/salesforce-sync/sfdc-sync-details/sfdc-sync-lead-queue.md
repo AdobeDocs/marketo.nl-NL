@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SFDC-synchronisatie: Wachtrij voor lead {#sfdc-sync-lead-queue}
 
-Met Marketo kunt u mensen toevoegen aan [Salesforce-wachtrijen](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) voor hulp bij de distributie van leads. Hier zijn de details.
+Marketo staat u toe om mensen aan [Salesforce lood rijen](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) toe te voegen om met looddistributie te helpen. Hier zijn de details.
 
 ## Hoe te om een persoon aan een rij in Marketo toe te wijzen? {#how-to-assign-a-person-to-a-queue-in-marketo}
 
