@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Primair domein voor e-mails overschrijven {#overwrite-primary-domain-for-emails}
+# Primair domein overschrijven voor e-mails {#overwrite-primary-domain-for-emails}
 
 U kunt per e-mail het primaire branded domein overschrijven. Hiermee wijzigt u de manier waarop de koppelingen worden gemarkeerd wanneer het e-mailbericht wordt verzonden.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer een e-mail en klik op Concept **** bewerken.
+1. Selecteer een e-mail en klik **Concept** bewerken.
 
    ![](assets/image2016-8-26-11-3a48-3a7.png)
 
