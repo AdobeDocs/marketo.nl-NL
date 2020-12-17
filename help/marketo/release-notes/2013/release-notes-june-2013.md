@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: Juni 2013 {#release-notes-june}
 
-De volgende functies zijn opgenomen in de release van juni. Controleer uw [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van juni. Controleer [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
 
 Na de release moet u het tabblad [Nieuwe release](release-notes-december-2013.md) in de Gemeenschap uitchecken voor gedetailleerde artikelen in de Knowledge Base voor elke functie!
 
@@ -29,7 +29,7 @@ In de komende maanden zult u een nieuw thema zien dat in verschillende delen van
 
 ![](assets/image2014-9-22-16-3a26-3a8.png)
 
-## Klonen van submappen {#subfolder-cloning}
+## Submap klonen {#subfolder-cloning}
 
 Elementen klonen naar submappen.
 
