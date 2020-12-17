@@ -17,7 +17,7 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
 ## Procedure voor het bewerken van het rijke tekstelement {#how-to-edit-the-rich-text-element}
 
-1. Zoek uw e-mail, selecteer het en klik **uitgeven Ontwerp**.
+1. Zoek uw e-mail, selecteer het en klik **geef Ontwerp** uit.
 
    ![](assets/one-edited.png)
 
@@ -29,7 +29,7 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    ![](assets/three.png)
 
-1. Voeg tekst toe of bewerk de tekst en druk op **Opslaan**.
+1. Voeg uw tekst toe/geef uw tekst uit en druk **sparen**.
 
    ![](assets/four.png)
 
@@ -38,13 +38,13 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
    >**Herinnering**
    >
    >
-   >U kunt ook afbeeldingen, tokens, tabellen en andere elementen toevoegen. Zie [De Rich Text Editor](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)gebruiken.
+   >U kunt ook afbeeldingen, tokens, tabellen en andere elementen toevoegen. Zie [De rijke Redacteur van de Tekst gebruiken](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
    >Vermijd het kopiëren en plakken van tekst van een rijke tekstbron, zoals een website of een document van Word. Plak in plaats daarvan eerst rijke tekst in een onbewerkte teksteditor, zoals Kladblok (Windows) of TextEdit (Mac). Als het &#39;schoon&#39; is, kunt u het vervolgens kopiëren vanuit de teksteditor zonder opmaak en plakken in uw e-mail.
 
-## Het afbeeldingselement bewerken {#how-to-edit-the-image-element}
+## Afbeeldingselement bewerken {#how-to-edit-the-image-element}
 
 1. Klik in de module met het element Afbeelding om het te selecteren.
 
@@ -82,13 +82,13 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    ![](assets/ten.png)
 
-   Wijzig de afmetingen naar wens en wijzig de Alt-tekst (optioneel). Druk vervolgens op **Omwisselen**.
+   Wijzig de afmetingen naar wens en wijzig de alternatieve tekst (optioneel). Druk vervolgens op **Omwisselen**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Als u een afbeelding vervangt, moet u het vak **Bestaande afbeelding** overschrijven onder de URL/naam van de afbeelding inschakelen.
+   >Als u een afbeelding vervangt, moet u het selectievakje **Bestaande afbeelding overschrijven** onder de URL/naam van de afbeelding inschakelen.
 
    **Ontwerp** StudioTo neem een beeld van de Studio van het Ontwerp op, bepaal de plaats eenvoudig van het...
 
@@ -105,7 +105,7 @@ Als u een externe URL wilt gebruiken, plakt u eerst in de URL van de afbeelding.
 
    ![](assets/fourteen.png)
 
-1. Klik op het element Fragment, klik vervolgens op het tandwielpictogram en selecteer **Bewerken**.
+1. Klik op het fragmentelement, klik vervolgens op het tandwielpictogram en selecteer **Bewerken**.
 
    ![](assets/fifteen.png)
 
@@ -117,13 +117,13 @@ Als u een externe URL wilt gebruiken, plakt u eerst in de URL van de afbeelding.
 
    ![](assets/eighteen.png)
 
-## Het Video-element bewerken {#how-to-edit-the-video-element}
+## Procedure voor het bewerken van het video-element {#how-to-edit-the-video-element}
 
 1. Klik in de module met het Video-element.
 
    ![](assets/nineteen.png)
 
-1. Klik op het element Video, klik vervolgens op het tandwielpictogram en selecteer **Bewerken**.
+1. Klik op het Video-element, klik vervolgens op het tandwielpictogram en selecteer **Bewerken**.
 
    ![](assets/twenty.png)
 
