@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# SEO - het Rapport van de Trends van het Sleutelwoord gebruiken {#seo-use-the-keyword-trends-report}
+# SEO - gebruik het Rapport van de Trends van het Sleutelwoord {#seo-use-the-keyword-trends-report}
 
 In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerangschikt.
 
-## Rapport laden {#load-report}
+## Rapport {#load-report} laden
 
 1. Ga naar **Rapporten**.
 
@@ -38,7 +38,7 @@ In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerang
    | Gem. rangschikken | De gemiddelde positie van trefwoorden in het bereik dat u hebt ingesteld. |
    | Gem. zoekopdrachten | Het gemiddelde aantal zoekopdrachten op de trefwoorden die zijn opgetreden tijdens het bereik dat u instelt (in de laatste 30 dagen bij Google US-zoekactie |
 
-## Gegevens filteren {#filtering-data}
+## Gegevens {#filtering-data} filteren
 
 1. Klik op de vervolgkeuzelijst en selecteer de gewenste tijdsperiode.
 
@@ -48,7 +48,7 @@ In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerang
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## Gegevens exporteren  {#exporting-data}
+## Gegevens {#exporting-data} exporteren
 
 >[!TIP]
 >
