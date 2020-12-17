@@ -15,20 +15,20 @@ ht-degree: 4%
 
 Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt en installeert u de nieuwste versie van de plug-ins voor Marketo Sales Insight (MSI). Deze plug-ins worden regelmatig door Marketo bijgewerkt, zodat u naar dezelfde locatie kunt terugkeren om de nieuwe versie te downloaden.
 
-Download de nieuwste plug-in [](http://docs.marketo.com/x/LoJo) die bij de release Dynamics hoort.
+Download [de nieuwste plug-in](http://docs.marketo.com/x/LoJo) die overeenkomt met uw release Dynamics.
 
 >[!NOTE]
 >
 >Deze versies werken voor zowel on-premise als online versies van Dynamiek.
 
-## Uw MSI-oplossing bijwerken {#updating-your-msi-solution}
+## Uw MSI-oplossing {#updating-your-msi-solution} bijwerken
 
 1. Importeer de nieuwste versie van de oplossing over de bestaande versie van uw Dynamics CRM (bijvoorbeeld: als uw Dynamische CRM versie 1.4 heeft en de recentste versie 1.5 is, zou u *over* versie 1.4) invoeren.
-1. De volgende pop-up wordt weergegeven. Selecteer de opties **Bijwerken** en **Overschrijven aanpassen** en klik vervolgens op **Importeren**.
+1. De volgende pop-up wordt weergegeven. Selecteer **Update** en **Overschrijf aanpassing** opties, dan klik **Import**.
 
    ![](assets/one.png)
 
-## Versie-updates {#version-updates}
+## Updates van versie {#version-updates}
 
 <table> 
  <colgroup> 
@@ -43,27 +43,27 @@ Download de nieuwste plug-in [](http://docs.marketo.com/x/LoJo) die bij de relea
    <th colspan="1">Notities</th> 
   </tr> 
   <tr> 
-   <td colspan="1">07/20/20</td> 
+   <td colspan="1">20-07-20</td> 
    <td colspan="1">2.0.0.20</td> 
    <td colspan="1">Opgeloste problemen: Een validatiebericht toevoegen voor niet-gesynchroniseerde records</td> 
   </tr> 
   <tr> 
-   <td colspan="1">06/12/20</td> 
-   <td colspan="1">2.0.0.19</td> 
+   <td colspan="1">12-06-20</td> 
+   <td colspan="1">2.0.0.19.</td> 
    <td colspan="1"><p>Opgeloste problemen: MSI-wachtwoord verbergen in MSD API-configuratie</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/26/20</td> 
+   <td colspan="1">26-05-20</td> 
    <td colspan="1">2.0.0.18</td> 
    <td colspan="1"><p>Opgeloste problemen: De MSI rol-id-validatie wijzigen voor het weergeven van MSI-knoppen</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">05/21/20</td> 
+   <td colspan="1">21-05-20</td> 
    <td colspan="1">2.0.0.17</td> 
    <td colspan="1"><p>Opgeloste problemen: Het veld Eigenaar zichtbaar maken en velden niet verplicht maken</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1">04/28/20</td> 
+   <td colspan="1">28-04-20</td> 
    <td colspan="1">2.0.0.16</td> 
    <td colspan="1"><p>Opgeloste problemen: Koppelingsafhankelijkheid voor MSD CRM-sitemap verwijderen</p></td> 
   </tr> 
