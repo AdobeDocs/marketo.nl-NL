@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <br> 
 
-Met een [!UICONTROL Calendar File] token kunt u een agendagebeurtenis (.ics) toevoegen aan e-mails en landingspagina&#39;s van Marketo. Hier is hoe te opstelling voor gebruik in uw programma&#39;s en campagnemappen.
+Met een [!UICONTROL Calendar File]-token kunt u een agendagebeurtenis (.ics) toevoegen aan uw e-mails en landingspagina&#39;s voor Marketo. Hier is hoe te opstelling voor gebruik in uw programma&#39;s en campagnemappen.
 
-1. Sleep op het [!UICONTROL My Tokens] tabblad van uw programma of map een **[!UICONTROL Calendar File]** token naar het [!UICONTROL Local Tokens] canvas.
+1. Sleep op het tabblad [!UICONTROL My Tokens] van uw programma of map een **[!UICONTROL Calendar File]**-token naar het canvas [!UICONTROL Local Tokens].
 
    ![Afbeelding één](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-1.jpg)
 
@@ -28,6 +28,6 @@ Met een [!UICONTROL Calendar File] token kunt u een agendagebeurtenis (.ics) toe
 
    ![Afbeelding drie](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-3.jpg)
 
-1. Voer de bijbehorende koppeling in en kies wanneer u de herinnering voor de gebeurtenis wilt verzenden. U kunt ook een optionele beschrijving invoeren. Klik **[!UICONTROL Save]**.
+1. Voer de bijbehorende koppeling in en kies wanneer u de herinnering voor de gebeurtenis wilt verzenden. U kunt ook een optionele beschrijving invoeren. Klik op **[!UICONTROL Save]**.
 
    ![Afbeelding vier](/help/sky/assets/my-tokens/my-token-calendar-file/my-token-calendar-file-4.jpg)
