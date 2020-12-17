@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # Stroominhoud archiveren en archiveren {#archive-and-unarchive-stream-content}
 
-Als u een stuk inhoud in een stroom niet meer wilt gebruiken, kunt u het of [verwijderen](remove-stream-content.md) of archiveren. Hieronder wordt beschreven hoe u inhoud kunt archiveren.
+Als u een stuk van inhoud in een stroom niet meer wilt gebruiken kunt u of [remove](remove-stream-content.md) het of archiveren. Hieronder wordt beschreven hoe u inhoud kunt archiveren.
 
 >[!TIP]
 >
 >Als u deze optie verwijdert, wordt alle bijbehorende geschiedenis vernietigd. archiveren behoudt het.
 
-## Stream-inhoud archiveren {#archive-stream-content}
+## Stroominhoud archiveren {#archive-stream-content}
 
-1. Selecteer uw serviceprogramma en ga naar het tabblad **Streams** .
+1. Selecteer uw serviceprogramma en ga naar het tabblad **Streams**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Houd de muis boven de e-mail die u wilt archiveren en klik vervolgens onder het tandwielpictogram op **Archiveren**.
+1. Houd de muis boven de e-mail die u wilt archiveren en klik vervolgens onder het tandwielpictogram op **Archief**.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
    Dat is het! Herinner me, archiveer als u geschiedenis wilt bewaren.
 
-## Stream-inhoud verwijderen {#unarchive-stream-content}
+## Stream-inhoud {#unarchive-stream-content} verwijderen
 
 1. Selecteer uw serviceprogramma en ga naar het tabblad Streams.
 
@@ -41,7 +41,7 @@ Als u een stuk inhoud in een stroom niet meer wilt gebruiken, kunt u het of [ver
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Nu u de gearchiveerde inhoud kunt zien, klikt u op het tandwielpictogram voor de inhoud die u wilt verwijderen en klikt u vervolgens op **Unarchive**.
+1. Nu u de gearchiveerde inhoud kunt zien, klik het tandwielpictogram voor de inhoud u unarchive, dan klik **Unarchive**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
