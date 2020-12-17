@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Snelle synchronisatie gebruiken met Microsoft Dynamics voor een nieuw aangepast veld {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
+# Snelle synchronisatie met Microsoft Dynamics gebruiken voor een nieuw aangepast veld {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
 Marketing of verkoop wil een nieuw veld. Of misschien bent u er één vergeten in de eerste veldselectie. Of uw behoeften zijn gewijzigd. In elk geval kunt u met Snel synchroniseren specifieke velden opnieuw synchroniseren.
 
@@ -55,7 +55,7 @@ Hieronder wordt beschreven hoe u Snelle synchronisatie gebruikt om te resynchron
 
 Wat gebeurt er als u een bestaand veld wilt synchroniseren, maar dit alleen wilt doen voor een beperkte set gegevens? Zo gaat het.
 
-1. Schakel het selectievakje voor een bestaand veld uit. Klik op **Opslaan**.
+1. Schakel het selectievakje voor een bestaand veld uit. Klik **Opslaan**.
 
    ![](assets/image2016-8-25-16-3a16-3a32.png)
 
@@ -63,21 +63,21 @@ Wat gebeurt er als u een bestaand veld wilt synchroniseren, maar dit alleen wilt
 
    ![](assets/select-field-reselect-hand.png)
 
-1. Klik op **Geavanceerde synchronisatie**.
+1. Klik **Geavanceerde synchronisatie**.
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Kies **Bijgewerkt **en selecteer een datumwaaier gebruikend de datumkiezers. Klik op **Opslaan**.
+1. Kies **Bijgewerkt **en selecteer een datumwaaier gebruikend de datumkiezers. Klik **Opslaan**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
    Alleen records die tussen 19-8-16 en 19-9-16 zijn bijgewerkt, worden snel gesynchroniseerd voor het veld.
 
-## Niet-gesynchroniseerde velden corrigeren {#fixing-out-of-sync-fields}
+## Niet-synchrone velden {#fixing-out-of-sync-fields} herstellen
 
 In het zeldzame geval dat een veld Dynamiek en Marketo niet meer synchroon is, is er een snelle en eenvoudige manier om deze opnieuw te synchroniseren.
 
-1. Schakel het veld uit en klik op **Opslaan**.
+1. Hef de selectie van het veld op en klik op **Opslaan**.
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
