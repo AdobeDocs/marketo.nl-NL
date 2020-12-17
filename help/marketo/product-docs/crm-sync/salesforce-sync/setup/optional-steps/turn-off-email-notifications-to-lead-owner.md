@@ -15,19 +15,19 @@ ht-degree: 0%
 
 U kunt de automatische e-mailmeldingen uitschakelen die naar Lead-eigenaars in Salesforce worden verzonden bij toewijzing van leads. Zo gaat het.
 
-1. Ga naar **Beheer**.
+1. Ga naar **Admin**.
 
    ![](assets/admin-1.png)
 
-1. Klik op **Salesforce**.
+1. Klik **Salesforce**.
 
    ![](assets/adminsalesforce.png)
 
-1. Klik onder **Synchronisatieopties** op **Bewerken**.
+1. Klik onder **Opties synchroniseren** op **Bewerken**.
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Schakel het selectievakje E-mailbericht **verzenden naar eigenaar in Salesforce uit bij toewijzing** van lead. Klik op **Opslaan**.
+1. Schakel het selectievakje **E-mailmelding verzenden naar eigenaar in Salesforce bij toewijzing van lead** uit. Klik **Opslaan**.
 
    ![](assets/new-screen.png)
 
