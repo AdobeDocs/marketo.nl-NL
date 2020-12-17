@@ -17,7 +17,7 @@ Gebruik aangepaste objecten in Marketo om metrische gegevens bij te houden die s
 
 >[!NOTE]
 >
->U kunt aangepaste objecten zo instellen dat deze werken op een-op-veel- of een-op-veel-basis. U maakt het oorspronkelijke object op dezelfde manier, maar de stappen verschillen wanneer u velden aan het object toevoegt. Zie [Inzicht in aangepaste objecten](understanding-marketo-custom-objects.md) markeren voor meer informatie.
+>U kunt aangepaste objecten zo instellen dat deze werken op een-op-veel- of een-op-veel-basis. U maakt het oorspronkelijke object op dezelfde manier, maar de stappen verschillen wanneer u velden aan het object toevoegt. Zie [Inzicht in aangepaste objecten markeren](understanding-marketo-custom-objects.md) voor meer informatie.
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ Gebruik aangepaste objecten in Marketo om metrische gegevens bij te houden die s
 
 In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur van één op vele. Later maakt u een aangepast cursusobject en een tussenliggend object voor gebruik in een veel-op-veel-structuur.
 
-1. Klik op **Beheer** en selecteer in **Databasebeheer** de optie **Marketo Custom Objects**.
+1. Klik **Admin**, en in **Databasebeheer** selecteer **Marketo Custom Objects**.
 
    ** ![](assets/image2016-1-18-13-3a12-3a19.png)
 
    **
 
-1. Klik op **Nieuw aangepast object**.
+1. Klik **Nieuw aangepast object**.
 
    ![](assets/image2016-5-18-16-3a28-3a4.png)
 
@@ -47,9 +47,9 @@ In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur v
 
    >[!NOTE]
    >
-   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Muurnaam en de schuifregelaar **Tonen in Details** lead bewerken.
+   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Plurale naam en de schuifregelaar **Tonen in regelafstandgegevens** bewerken.
 
-1. Trek de **Show in het Detail **schuif van de Leiding over om **Show** te tonen als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand van de Lood wilt bekijken. Klik op **Opslaan**.
+1. Trek de **Show in het Detail **schuif van de Leiding over aan vertoning **Show** als u de gegevens van het douaneobjecten op de pagina van het Gegevensbestand van de Lood wilt bekijken. Klik **Opslaan**.
 
    ![](assets/image2015-9-15-16-3a32-3a2.png)
 
@@ -57,7 +57,7 @@ In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur v
 
    ![](assets/image2015-9-15-16-3a38-3a22.png)
 
-   In de volgende stap voegt u velden toe om uw aangepaste object [](add-marketo-custom-object-fields.md)samen te stellen.
+   De volgende stap is gebieden aan [bouwt uw douanevoorwerp](add-marketo-custom-object-fields.md) toe.
 
    >[!NOTE]
    >
@@ -71,11 +71,11 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 >
 >Voor een veel-aan-vele verhouding, te hoeven u om geen verbinding in het douanevoorwerp tot stand te brengen. In plaats daarvan voegt u twee koppelingen toe aan het intermediaire object (zie hieronder).
 
-1. Klik op **Beheer** en selecteer in **Databasebeheer** de optie **Marketo Custom Objects**.
+1. Klik **Admin**, en in **Databasebeheer** selecteer **Marketo Custom Objects**.
 
    ![](assets/image2016-1-18-13-3a16-3a25.png)
 
-1. Klik op **Nieuw aangepast object**.
+1. Klik **Nieuw aangepast object**.
 
    ![](assets/image2016-5-18-16-3a32-3a42.png)
 
@@ -85,9 +85,9 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 
    >[!NOTE]
    >
-   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Muurnaam en de schuifregelaar **Tonen in Details** lead bewerken.
+   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Plurale naam en de schuifregelaar **Tonen in regelafstandgegevens** bewerken.
 
-1. Trek de schuifregelaar **Tonen in regelafstandgegevens **tonen over om Tonen weer te geven als u aangepaste objectgegevens wilt weergeven op de pagina Database van lead. Klik op **Opslaan**.
+1. Trek de schuifregelaar **Tonen in regelafstandgegevens **tonen over om Tonen weer te geven als u aangepaste objectgegevens wilt weergeven op de pagina Database van lead. Klik **Opslaan**.
 
    ![](assets/image2016-1-14-13-3a42-3a56.png)
 
@@ -109,11 +109,11 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
 >
 >U hoeft geen tussenliggend object te maken voor een aangepaste objectstructuur van een-op-veel.
 
-1. Klik **Admin**, en in het Beheer **van het** Gegevensbestand, selecteer **Marketo Douane Voorwerpen**.
+1. Klik **Admin**, en in **Databasebeheer**, selecteer **Marketo Custom Objects**.
 
    ![](assets/image2016-1-18-13-3a17-3a40.png)
 
-1. Klik op **Nieuw aangepast object**.
+1. Klik **Nieuw aangepast object**.
 
    ![](assets/image2016-5-18-16-3a33-3a16.png)
 
@@ -125,13 +125,13 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
    >
    >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Muurnaam en de schuifregelaar Tonen in regelafstandgegevens bewerken.
 
-1. Trek de schuifregelaar **Tonen in regelafstandgegevens** over om Tonen weer te geven als u aangepaste objectgegevens wilt weergeven op de pagina Database lead. Klik op **Opslaan**.
+1. Trek de **Tonen in Lead Detail** schuifregelaar over om Tonen weer te geven als u aangepaste objectgegevens wilt weergeven op de pagina Database van de Lead. Klik **Opslaan**.
 
    ![](assets/image2016-1-14-14-3a12-3a49.png)
 
 1. De informatie over aangepaste objecten geeft de inhoud weer die u hebt ingevoerd. Let op: het staat in het concept.
 
-   De volgende stap is dat u koppelingsgebieden [](add-marketo-custom-object-link-fields.md) toevoegt om uw intermediair voorwerp met een persoon/bedrijf en een douanevoorwerp te verbinden.
+   De volgende stap is voor u aan [toevoegt verbindingsgebieden](add-marketo-custom-object-link-fields.md) om uw intermediair voorwerp met een persoon/bedrijf en een douanevoorwerp te verbinden.
 
 >[!MORELIKETHIS]
 >
