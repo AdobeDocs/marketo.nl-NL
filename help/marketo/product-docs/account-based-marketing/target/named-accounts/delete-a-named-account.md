@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een benoemde account verwijderen {#delete-a-named-account}
+# Een benoemde account {#delete-a-named-account} verwijderen
 
 Voer de volgende snelle stappen uit om een benoemde account te verwijderen.
 
@@ -23,11 +23,11 @@ Voer de volgende snelle stappen uit om een benoemde account te verwijderen.
    >
    >Houd Ctrl (Windows) of Cmd (Mac) ingedrukt en klik om meerdere benoemde accounts te selecteren.
 
-1. Klik op de vervolgkeuzelijst Handelingen **benoemde account en selecteer Benoemd account** **** verwijderen.
+1. Klik op de vervolgkeuzelijst **Benoemde accounthandelingen** en selecteer **Benoemde account verwijderen**.
 
    ![](assets/eight-1.png)
 
-1. Klik op **Verwijderen**.
+1. Klik **Delete**.
 
    ![](assets/nine-1.png)
 
