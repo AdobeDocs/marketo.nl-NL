@@ -11,10 +11,10 @@ ht-degree: 0%
 ---
 
 
-# De ToutApp Browser-extensie installeren {#how-to-install-the-toutapp-browser-extension}
+# Hoe te om de Browser van ToutApp Uitbreiding {#how-to-install-the-toutapp-browser-extension} te installeren
 
-1. Klik op **Instellingen** in de [webtoepassing](http://toutapp.com/next#settings).
+1. Klik **Instellingen** op [webtoepassing](http://toutapp.com/next#settings).
 1. Klik onder Mijn account op **E-mailinstellingen**.
-1. Klik op **Insteekmodules**.
-1. Klik onder Gmail en Google Apps op **Installeren**.
+1. Klik **Insteekmodules**.
+1. Klik onder Gmail- en Google-toepassingen op **Installeren**.
 
