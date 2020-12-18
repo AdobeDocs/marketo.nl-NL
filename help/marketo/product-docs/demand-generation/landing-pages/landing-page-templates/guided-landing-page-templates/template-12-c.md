@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Template 12-C {#template-c}
+# Sjabloon 12-C {#template-c}
 
 [Sjabloon 12-C downloaden](http://docs.marketo.com/download/attachments/9437580/template-12c.html?version=1&amp;modificationdate=1438211583000&amp;api=v2)
 
