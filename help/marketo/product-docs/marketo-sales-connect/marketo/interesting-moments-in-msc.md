@@ -31,11 +31,11 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe maak ik een interessant moment? {#how-do-i-create-an-interesting-moment}
 
-1. Kies een [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [smart campagne](http://docs.marketo.com/display/docs/smart+campaigns), bij voorkeur één uw verkoopteam interessant zou vinden indien teweeggebracht.
+1. Kies een [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [slimme campagne](http://docs.marketo.com/display/docs/smart+campaigns), bij voorkeur één uw verkoopteam interessant zou vinden indien teweeggebracht.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Sleep over de stap **Interesserende momenten** .
+1. Sleep over de **Interesserende momenten**-stroomstap.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
@@ -43,7 +43,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. Schrijf een bericht aan uw verkoopteam op het gebied van de **Beschrijving** dat verklaart waarom deze actie van belang is.
+1. Schrijf een bericht aan uw verkoopteam op **Beschrijving** gebied dat verklaart waarom deze actie van belang is.
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -53,7 +53,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe ziet een interessant moment eruit in Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Interesserende momenten worden weergegeven in het activiteitenlogboek [van een](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)lead.
+Interesserende momenten worden weergegeven in het activiteitenlog van een [lead.](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
