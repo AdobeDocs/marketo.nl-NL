@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Een geüploade afbeelding of bestand verwijderen {#delete-an-uploaded-image-or-file}
+# Een geüploade afbeelding of bestand {#delete-an-uploaded-image-or-file} verwijderen
 
-1. Ga naar de **Design** **Studio**.
+1. Ga naar **Design** **Studio**.
 
    ![](assets/designstudio-5.png)
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. Klik op **Bestandshandelingen** **en** Verwijderen ****.
+1. Klik op **Bestand** **Acties** en **Verwijderen**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Verwijderde afbeeldingen en bestanden worden volledig uit Marketo verwijderd en kunnen niet worden hersteld.  Ze worden niet meer weergegeven op landingspagina&#39;s of e-mails waar ze werden gebruikt.
 
-1. U gaat terug naar de pagina **Afbeeldingen** en **Bestanden** , waar u ziet dat het bestand is verwijderd.
+1. U zult aan **Beelden** en **Dossiers** pagina worden teruggegeven, waar u zult zien dat uw dossier is geschrapt.
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 
