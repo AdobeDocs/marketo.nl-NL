@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Testgroepen voor landingspagina {#landing-page-test-groups}
+# Testgroepen {#landing-page-test-groups} voor bestemmingspagina
 
 Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke geteste pagina in een testgroep. U kunt de resultaten van de testgroep gebruiken om te beslissen welke het landen Pagina het meest dwingende is. Hier is hoe te om een testgroep tot stand te brengen.
 
@@ -19,7 +19,7 @@ Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke getes
 >
 >[Twee of meer bestemmingspagina](../../../../getting-started/quick-wins/landing-page-with-a-form.md)&#39;s samenstellen, bij voorkeur met een formulier.
 
-1. Klik in Design Studio op **Nieuw**. Selecteer **Nieuwe testgroep** in het vervolgkeuzemenu.
+1. In de Studio van het Ontwerp, klik **Nieuw**. Selecteer **Nieuwe testgroep** in het vervolgkeuzemenu.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
@@ -29,11 +29,11 @@ Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke getes
    >
    >    
    >    
-   >    * Klik met de rechtermuisknop op een openingspagina in de structuur en selecteer **Omzetten in testgroep**
-   >    * Maak een testgroep voor de bestemmingspagina in een programma door **AB Test Group** te kiezen in het menu **Nieuw lokaal element**
+   >    * Klik met de rechtermuisknop op een landingspagina in de structuur en selecteer **Omzetten in testgroep**
+   >    * Maak een testgroep voor landingspagina in een programma door **AB Test Group** te kiezen in het menu **New Local Asset**
 
 
-1. Voer een naam en een optionele beschrijving in. Selecteer de bestemmingspagina&#39;s u wilt testen en de klik **leidt** tot.
+1. Voer een naam en een optionele beschrijving in. Selecteer de bestemmingspagina&#39;s u wilt testen en **creëren** klikken.
 
    ![](assets/image2015-8-5-13-3a39-3a10.png)
 
@@ -45,7 +45,7 @@ Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke getes
 
    ![](assets/three-1.png)
 
-1. Klik op het vervolgkeuzemenu Opties voor **groep** testen en selecteer **Testgroep** goedkeuren.
+1. Klik **Opties van de Groep van de Test** dropdown en selecteer **goedkeuren de Groep van de Test**.
 
    ![](assets/four-1.png)
 
@@ -55,5 +55,5 @@ Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke getes
 
    >[!TIP]
    >
-   >Als u ooit de Groep van de Test wilt schrappen, klik eenvoudig de Acties **van de Groep van de** Test en selecteer **Schrapping testgroep**.
+   >Als u ooit de Groep van de Test wilt schrappen, eenvoudig **de Acties van de Groep van de Test** klikken en **testgroep schrappen** selecteren.
 
