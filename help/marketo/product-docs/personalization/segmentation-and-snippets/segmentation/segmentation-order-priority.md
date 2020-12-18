@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Prioriteit segmentvolgorde {#segmentation-order-priority}
+# Prioriteit segmentatievolgorde {#segmentation-order-priority}
 
-Het is belangrijk om te begrijpen hoe de **orde** de prioriteit voor evaluatie van uw mensen in een segmentatie plaatst.
+Het is belangrijk om te begrijpen hoe **order** de prioriteit voor evaluatie van uw mensen in een segmentatie plaatst.
 
 >[!PREREQUISITES]
 >
@@ -24,11 +24,11 @@ Het is belangrijk om te begrijpen hoe de **orde** de prioriteit voor evaluatie v
 
 
 
-1. Ga naar de **database**.
+1. Ga naar **Database**.
 
    ![](assets/image2017-3-29-8-3a9-3a33.png)
 
-1. Selecteer uw **segmentatie**. Klik in **Segmentatiehandelingen** op Segmenten **bewerken**.
+1. Selecteer uw **Segmentatie**. Klik in **Segmentatiehandelingen** op **Segmenten bewerken**.
 
    ![](assets/image2014-9-16-10-3a11-3a55.png)
 
@@ -49,5 +49,5 @@ Het is belangrijk om te begrijpen hoe de **orde** de prioriteit voor evaluatie v
 
 
 
-Cool, hè? U kunt segmenten gebruiken voor dynamische inhoud, [rapportage](http://docs.marketo.com/display/docs/basic+reporting) en zelfs in [slimme lijsten](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+Cool, hè? U kunt segmenten gebruiken voor dynamische inhoud, [rapportering](http://docs.marketo.com/display/docs/basic+reporting) en zelfs in [slimme lijsten](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
