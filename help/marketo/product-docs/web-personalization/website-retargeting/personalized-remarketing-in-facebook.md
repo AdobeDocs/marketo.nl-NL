@@ -17,8 +17,8 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 
 >[!PREREQUISITES]
 >
->* Voltooi het [Opnieuw richten met de opstelling van Gegevens](retargeting-with-web-personalization-data.md) van de Personalisatie van het Web
->* Bekijk de [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) Facebook-documentatie over Aangepast [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)publiek en Opmerkingen
+>* Voltooi [Opnieuw rangschikken met de Gegevens van de Personalisatie van het Web](retargeting-with-web-personalization-data.md) opstelling
+>* Bekijk de [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-documentatie over Aangepast publiek](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)en Opmerking
 
 >
 
@@ -26,12 +26,12 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 
 ## Een publiek maken op Facebook {#creating-an-audience-in-facebook}
 
-1. Ga op Facebook naar het tabblad [](https://www.facebook.com/ads/audience_manager) Publiek in Advertentiebeheer.
-1. Klik op **Gereedschappen** en selecteer **Soorten publiek**.
+1. Ga op Facebook naar het tabblad [Publiek](https://www.facebook.com/ads/audience_manager) in Advertentiebeheer.
+1. Klik **Gereedschappen** en selecteer **Soorten publiek**.
 
    ![](assets/one-1.png)
 
-1. Klik op **Een aangepast publiek** maken.
+1. Klik **Een aangepast publiek maken**.
 
    ![](assets/two-1.png)
 
@@ -43,7 +43,7 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. Selecteer **Gebeurtenis** in de lijst Opnemen.
+1. Selecteer **Event** in de lijst Opnemen.
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
@@ -51,7 +51,7 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. Voor dit voorbeeld, uitgezochte Industrie om **Onderwijs** te bevatten. Ga naar **Onderwijs**, en geef **in de Laatste** uit om 180 dagen te zijn. Voer de naam van het publiek in: **Onderwijsindustrie**. Klik op **Publiek** maken.
+1. Voor dit voorbeeld, uitgezochte Industrie om **Onderwijs** te bevatten. Voer **Onderwijs** in en bewerk **In de laatste** om 180 dagen te zijn. Voer de naam van het publiek in: **Onderwijsindustrie**. Klik **Publiek maken**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -104,15 +104,15 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
  </tbody> 
 </table>
 
-## Doelgroep voor publiek met advertentie {#target-your-audience-with-an-ad}
+## Uw publiek richten met een Advertentie {#target-your-audience-with-an-ad}
 
-Raadpleeg de documentatie [bij](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)Facebook voor meer informatie.
+Zie [Documentatie van Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience) voor meer informatie.
 
-1. Ga naar Advertentiebeheer en klik op **Advertentie** maken.
+1. Ga naar Advertentiebeheer, klik **Create Advertentie**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Selecteer **Personen naar uw website** sturen als doel van uw campagne.
+1. Selecteer **Personen naar uw website verzenden** als het doel van uw campagne.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
