@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Creeer uw kindcampagnes en lokale activa gebruikend de Studio van het Ontwerp.
 
-## Openingspagina en -formulier {#landing-page-and-form}
+## Openingspagina en formulier {#landing-page-and-form}
 
 Om ervoor te zorgen dat mensen correct bij ON24 worden geregistreerd, moeten de volgende gebieden in uw vorm van het Marketo worden omvat:
 
@@ -38,7 +38,7 @@ Met de juiste stroomstap toegevoegd aan de registratiecampagne, zullen de mensen
 
 Maak de uitnodiging, bevestiging, follow-up en dank u voor e-mails met Marketo.
 
-## E-mail- en URL-token voor markeringsbevestiging {#marketo-confirmation-email-and-url-token}
+## Token {#marketo-confirmation-email-and-url-token} voor bevestiging van e-mail en URL
 
 Gebruik Marketo om het bevestigingsbericht voor uw gebeurtenis te verzenden. Wanneer een persoon zich registreert, ontvangt hij of zij een unieke URL om de gebeurtenis in te voeren.
 
@@ -48,13 +48,13 @@ Gebruik Marketo om het bevestigingsbericht voor uw gebeurtenis te verzenden. Wan
 >
 >Gebruik de volgende token in uw e-mail om het bevestigingsbericht te vullen met deze unieke URL: `{{member.webinar url}}`. Wanneer u de bevestiging-URL verzendt, wordt deze token automatisch omgezet in de unieke bevestiging-URL van de persoon.
 >
->Stel het type bevestigingsbericht in op **Operationeel** om ervoor te zorgen dat personen die zich registreren hun bevestigingsgegevens ontvangen, zelfs als ze niet zijn geabonneerd.
+>Stel het type bevestigingsbericht in op **Operationeel** om ervoor te zorgen dat personen die zich registreren hun bevestigingsgegevens ontvangen, zelfs als ze zich niet hebben geabonneerd.
 
 >[!TIP]
 >
->U kunt ON24 configureren voor het verzenden van e-mails voor bevestiging, herinnering of follow-up. Raadpleeg de [ON24 Help-site](http://webcastelitehelp.on24.com) voor meer informatie.
+>U kunt ON24 configureren voor het verzenden van e-mails voor bevestiging, herinnering of follow-up. Zie [ON24 Help Site](http://webcastelitehelp.on24.com) voor meer informatie.
 
-## Vereisten voor onderliggende campagne registreren {#registration-child-campaign-requirements}
+## Vereisten {#registration-child-campaign-requirements} voor onderliggende campagne registreren
 
 Gebeurtenissen bevatten een of meer onderliggende campagnes die allemaal samenwerken om mensen door de status van het programma te bewegen en u in staat te stellen de prestaties van de gebeurtenis te volgen.
 
@@ -67,7 +67,7 @@ Voorbeelden van kindercampagnes zijn een uitnodigingscampagne, een registratieca
 **Registratie/bevestiging (Trigger-campagne)**
 
 * Slimme lijst
-* Trigger op basis van formulier **** invult. Zorg ervoor dat u de openingspagina opneemt waarop het formulier zich bevindt door Restrictie **** toevoegen te gebruiken, vooral als hetzelfde formulier op meerdere bestemmingspagina&#39;s wordt gebruikt.
+* Trigger op **Vult Vorm** uit. Zorg ervoor dat u de bestemmingspagina opneemt waarop het formulier zich bevindt door **Restrictie toevoegen** te gebruiken, vooral als hetzelfde formulier op meerdere bestemmingspagina&#39;s wordt gebruikt.
 
 >[!CAUTION]
 >
@@ -75,29 +75,29 @@ Voorbeelden van kindercampagnes zijn een uitnodigingscampagne, een registratieca
 
 >[!NOTE]
 >
->Als u een Marketo-formulier gebruikt op een landingspagina die geen Marketo is, wordt de trigger Formulier **** invullen met de naam van het formulier.
+>Als u een Marketo-formulier gebruikt op een landingspagina die geen Marketo is, is de trigger **Formulier** invullen met de naam Formulier.
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Stroom**
 
-* **Program Status** wijzigen - Instellen op Webinar -> Geregistreerd.
+* **Program Status**  wijzigen - Instellen op Webinar -> Geregistreerd.
 
 Deze stroomstap is vereist als de EERSTE STROOMSTAP bij het instellen van uw onderliggende campagne. Wanneer de de programmastatus van een persoon in Geregistreerd verandert, drukt Marketo de registratieinformatie aan ON24. Geen andere status zal de persoon over duwen.
 
-* **E-mail** verzenden - Bevestiging e-mail. Stel deze e-mail in op **Operationeel** zodat niet-geabonneerde personen die zich hebben geregistreerd deze nog ontvangen.
+* **E-mail**  verzenden - Bevestiging e-mail. Stel deze e-mail in op **Operationeel** zodat niet-geabonneerde personen die zich hebben geregistreerd deze nog ontvangen.
 
-De stap E-mail **** verzenden MOET de tweede stap zijn. Het bevestigingsbericht bevat het bericht `{{member.webinar url}}`, dat wordt gevuld met informatie die vanuit ON24 naar Marketo wordt teruggestuurd.
+De stap **E-mail verzenden** moet de tweede stap zijn. Het bevestigingsbericht bevat `{{member.webinar url}}`, dat wordt gevuld met informatie die van ON24 naar Marketo wordt teruggestuurd.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->De volgorde van deze stroomstappen is belangrijk vanwege de volgorde waarin handelingen worden uitgevoerd in Marketo. De stap Status **van programma** wijzigen verzendt de persoon naar ON24 om te registreren en er wordt een unieke URL gegenereerd. Hierna kunt u het bevestigingsbericht met deze unieke URL verzenden met de `{{member.webinar URL}}` token.
+>De volgorde van deze stroomstappen is belangrijk vanwege de volgorde waarin handelingen worden uitgevoerd in Marketo. De stap **Programmastatus wijzigen** verzendt de persoon naar ON24 om te registreren en er wordt een unieke URL gegenereerd. Nadat dit voorkomt, kunt u bevestigingse-mail verzenden die deze unieke URL gebruikend `{{member.webinar URL}}` teken omvat.
 >
 >Als de persoon wordt geretourneerd met een registratiefout, wordt de e-mailbevestiging niet ontvangen.
 
-Uw volgende stap bestaat uit het [testen van de integratie](test-your-on24-event-integration.md)van uw ON24-gebeurtenis.
+Uw volgende stap bestaat uit het testen van uw ON24-gebeurtenisintegratie[.](test-your-on24-event-integration.md)
 
 >[!MORELIKETHIS]
 >
