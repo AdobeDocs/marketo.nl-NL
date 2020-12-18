@@ -19,25 +19,25 @@ U kunt het label op een formulier wijzigen in Alles. U kunt zelfs een afbeelding
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
-1. Selecteer het veld en bewerk vervolgens het **label**. De velden in Formulierinstellingen komen overeen met de ingevoerde labels.
+1. Selecteer uw veld en bewerk vervolgens **Label**. De velden in Formulierinstellingen komen overeen met de ingevoerde labels.
 
    ![](assets/image2014-9-15-17-3a26-3a42.png)
 
    >[!TIP]
    >
-   >Als u van plan wilt worden, kunt u op ![](assets/image2014-9-15-17-3a27-3a7.png) > klikken
+   >Als je leuk wilt worden, klik je op de knop   ![](assets/image2014-9-15-17-3a27-3a7.png)   >
    >
    > . Hiermee opent u een rijke teksteditor en kunt u naar de stad gaan met afbeeldingen, koppelingen en nog veel meer!
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-17-3a27-3a26.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-17-3a27-3a44.png)
 
@@ -45,7 +45,7 @@ U kunt het label op een formulier wijzigen in Alles. U kunt zelfs een afbeelding
 >
 >**Herinnering**
 >
->Vergeet niet het concept [van de bestemmingspagina dat door de formulierwijzigingen is gemaakt,](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren.
+>Vergeet niet om [het concept van de bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren dat door de formulierwijzigingen is gemaakt.
 
 Daar heb je het! Je wordt een beetje een ontwerpkampioen van de vorm.
 
