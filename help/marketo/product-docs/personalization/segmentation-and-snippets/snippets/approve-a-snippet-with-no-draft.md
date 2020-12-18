@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een fragment goedkeuren zonder concept {#approve-a-snippet-with-no-draft}
 
-## Het fragment goedkeuren {#approve-the-snippet}
+## Het fragment {#approve-the-snippet} goedkeuren
 
 Geen concept wordt geactiveerd telkens wanneer een fragment wordt goedgekeurd. Dit omvat een fragment dat wordt gedeeld door of waarnaar wordt verwezen door elementen in andere werkruimten.
 
