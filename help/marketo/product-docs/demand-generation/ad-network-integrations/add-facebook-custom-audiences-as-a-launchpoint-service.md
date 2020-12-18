@@ -23,11 +23,11 @@ Met deze integratie kunt u publieksgegevens van de statische en slimme lijsten v
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Ga naar **LaunchPoint**, klik op **Nieuw** en selecteer **Nieuwe Dienst**.
+1. Ga naar **LaunchPoint**, klik op **New** en selecteer **New Service**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Voer een **weergavenaam** voor uw service in en selecteer de service Aangepast publiek **voor** Facebook in de vervolgkeuzelijst **Service** .
+1. Voer een **Weergavenaam** voor uw service in en selecteer de **Aangepaste doelgroep voor Facebook**-service in de vervolgkeuzelijst **Service**.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
@@ -35,27 +35,27 @@ Met deze integratie kunt u publieksgegevens van de statische en slimme lijsten v
 
    >[!CAUTION]
    >
-   >Als u wilt dat Marketo een publiek stuurt via meerdere Advertentiebeheeraccounts, moet de Facebook-gebruiker die u autoriseert in de volgende stappen toegang hebben tot *al* deze accounts.
+   >Als u wilt dat Marketo een publiek verstuurt via meerdere Advertentiebeheeraccounts, moet de Facebook-gebruiker die u in de volgende stappen autoriseert toegang hebben tot *all* van deze accounts.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Ga terug naar Marketo nadat u zich hebt aangemeld bij Facebook. Klik op **Autoriseren**.
+1. Ga terug naar Marketo nadat u zich hebt aangemeld bij Facebook. Klik **Autoriseren**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >Uw integratie met Aangepast publiek werkt alleen als u een Facebook Business Manager-account *gebruikt* . Raadpleeg de Help bij [Facebook voor meer informatie over het instellen van een Business Manager-account](https://www.facebook.com/business/help/1710077379203657).
+   >U *moet* een Facebook Business Manager-account gebruiken om de integratie van Aangepast publiek te laten werken. Raadpleeg [Facebook Help](https://www.facebook.com/business/help/1710077379203657) voor meer informatie over het instellen van een Business Manager-account.
 
 1. Klik desgevraagd op **OK **om de installatie van de Marketo-app in Facebook te accepteren.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. U bent nu geautoriseerd! Selecteer een overeenkomende modus en klik op **Maken**.
+1. U bent nu geautoriseerd! Selecteer een aanpassingsmodus en klik op **Maken**.
 
    >[!NOTE]
    >
-   >**Standaard afstemmen** gebruikt alleen e-mailadressen.**Bij Geavanceerde overeenkomst** worden zeven extra velden gebruikt, waardoor de overeenkomende snelheid toeneemt, voor meer conversie. Nochtans, als het de privacybeleid van uw bedrijf het delen van extra gebieden niet toelaat, of als uw gegevens hen niet omvat, uitgezochte BasisGelijke.
+   >**Standaard afstemmen** gebruikt alleen e-mailadressen.**Bij Geavanceerde** overeenkomsten worden zeven extra velden gebruikt, waardoor de overeenkomende snelheid toeneemt, voor meer conversie. Nochtans, als het de privacybeleid van uw bedrijf het delen van extra gebieden niet toelaat, of als uw gegevens hen niet omvat, uitgezochte BasisGelijke.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -63,7 +63,7 @@ Met deze integratie kunt u publieksgegevens van de statische en slimme lijsten v
 
    >[!CAUTION]
    >
-   >Oh, voordat je gaat, moet je de voorwaarden [voor aangepast publiek van Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) accepteren binnen je Facebook-account! Zonder dit te doen, zullen de publieksupdates ontbreken.
+   >Oh, voordat u gaat, moet u [Aangepaste voorwaarden voor soorten publiek van Facebook accepteren](https://www.facebook.com/ads/manage/customaudiences/tos.php) in uw Facebook-account! Zonder dit te doen, zullen de publieksupdates ontbreken.
 
 >[!MORELIKETHIS]
 >
