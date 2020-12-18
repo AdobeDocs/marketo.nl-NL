@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# Verkoopknoppen voor Connect aan Salesforce toevoegen {#add-sales-connect-buttons-to-salesforce}
+# Verkoopknoppen voor Connect toevoegen aan Salesforce {#add-sales-connect-buttons-to-salesforce}
 
-## Overstappen op Marketo Sales Connect {#push-to-marketo-sales-connect}
+## Druk op Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. Ga naar **Opstelling** dan **aanpassen**.
-1. Open **Zoekindelingen** onder Contacten/Leads/Accounts.
+1. Ga naar **Setup** then **Customize**.
+1. Open **Schermindelingen zoeken** onder Contacten/Leads/Accounts.
 1. Bewerk de weergave Lijst met leads en sleep **Naar MSC **naar de geselecteerde knoppen.
 
 ## E-mailadres voor verkoop verzenden {#send-marketo-sales-email}
 
 1. Bewerk de pagina-indeling voor lead/contact/account.
 1. Selecteer de sectie voor Knoppen.
-1. Pak de **Send MSC E-mail** knoop en sleep het in de sectie van de Knopen **van de** Douane van de Details.
+1. Pak **Send MSC Email** knoop en sleep het in de **sectie van de Knopen** van de Douane van Details.
 
-## Bellen met Marketo Sales Connect {#call-with-marketo-sales-connect}
+## Bel met Marketo Sales Connect {#call-with-marketo-sales-connect}
 
 1. Bewerk de pagina-indeling voor lead/contact/account.
 1. Selecteer de sectie voor Knoppen.
-1. Pak de **Vraag met MSC **knoop en sleep het in de sectie van de Knopen **van de** Douane van de Details.
+1. Pak **Vraag met MSC **knoop en sleep het in de **sectie van de Knopen van de Douane** van de Details.
 
 ## Toevoegen aan campagne {#add-to-campaign}
 
 1. Bewerk de pagina-indeling voor lead/contact/account.
 1. Selecteer de sectie voor Knoppen.
-1. Pak **Add aan de knoop van de Campagne** MSC en sleep het in de sectie van de Knopen **van de** Douane van de Details.
+1. Pak **Add aan de Campagne MSC** en sleep het in de **sectie van de Knopen** van de Douane van Details.
 
