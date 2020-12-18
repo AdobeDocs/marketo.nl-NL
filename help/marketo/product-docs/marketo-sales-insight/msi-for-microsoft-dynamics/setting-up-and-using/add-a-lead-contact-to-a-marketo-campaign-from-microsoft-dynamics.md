@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt snel en gemakkelijk lood/contacten aan Marketo slimme campagnes direct van binnen de Dynamica van Microsoft toevoegen. Zo gaat het.
 
-1. Ga in Dynamics naar het gebied **Verkoop** .
+1. Ga bij Dynamiek naar het gebied **Verkoop**.
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -37,6 +37,6 @@ U kunt snel en gemakkelijk lood/contacten aan Marketo slimme campagnes direct va
 
    >[!NOTE]
    >
-   >Voor de campagne om in drop-down te verschijnen, gebruik de [**Campagne wordt Gevraagd** trekker](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), met het Inzicht van de Verkoop als bron, wanneer u opstelling de campagne.
+   >Voor de campagne om in drop-down te verschijnen, gebruik [**De Campagne wordt Gevraagd** trekker](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), met het Inzicht van de Verkoop als bron, wanneer u opstelling de campagne.
 
 En dat zijn allemaal mensen! U hebt nu de macht van Marketo slimme campagnes in uw handen direct van Dynamica.
