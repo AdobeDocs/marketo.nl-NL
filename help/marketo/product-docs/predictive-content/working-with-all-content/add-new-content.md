@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Afhankelijk van de aankoopdatum kan uw abonnement op Marketo de optie Voorspelende inhoud of Inhoud`<sup>AI</sup>`markeren bevatten. Marketo schakelt de functie Content`<sup>AI</sup>` Analytics voor gebruikers die gebruikmaken van voorspellende inhoud in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager Succes bij Marketo-klanten om te upgraden naar Marketo-inhoud`<sup>AI</sup>`.
+>Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
 U kunt eenvoudig handmatig inhoud toevoegen aan de pagina Alle inhoud.
 
-1. Klik op de vervolgkeuzelijst Inhoud **** toevoegen en selecteer Inhoud **** toevoegen.
+1. Klik op de vervolgkeuzelijst **Inhoud toevoegen** en selecteer **Inhoud toevoegen**.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -31,13 +31,13 @@ U kunt eenvoudig handmatig inhoud toevoegen aan de pagina Alle inhoud.
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. Klik op **Toevoegen**.
+1. Klik **Add**.
 
    ![](assets/all-content-add-hand.png)
 
-1. De nieuwe titel wordt nu weergegeven op de pagina **Alle inhoud** . Merk op dat het nog niet voor voorspellende inhoud is goedgekeurd.
+1. De nieuwe titel wordt nu weergegeven op de pagina **All Content**. Merk op dat het nog niet voor voorspellende inhoud is goedgekeurd.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Zo kunt u het toevoegen aan [voorspellende inhoud](http://docs.marketo.com/x/Vbet).
+1. Hier is hoe te om het aan [Voorspelende Inhoud ](http://docs.marketo.com/x/Vbet) toe te voegen.
 
