@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Berichttekst in de app maken {#create-in-app-message-text}
+# Berichttekst {#create-in-app-message-text} maken in toepassing
 
 Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
 
@@ -77,7 +77,7 @@ Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
 
    Wijzigingen die u aanbrengt in tokens die worden gebruikt in een goedgekeurd berichtprogramma in de app, worden pas van kracht in het bericht in de app nadat het programma is gepauzeerd en vervolgens wordt hervat.
 
-Je bent gouden. Vervolgens moet u de berichtknop [in de app](set-up-the-in-app-message-button.md)instellen.
+Je bent gouden. Vervolgens moet u [de berichtknop in de app ](set-up-the-in-app-message-button.md) instellen.
 
 >[!MORELIKETHIS]
 >
