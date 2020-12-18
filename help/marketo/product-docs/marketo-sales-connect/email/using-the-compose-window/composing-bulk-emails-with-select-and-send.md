@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Bulke-mails samenstellen met Selecteren en Verzenden {#composing-bulk-emails-with-select-and-send}
+# Bulke-mails samenstellen met Selecteren en verzenden {#composing-bulk-emails-with-select-and-send}
 
 Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie Selecteren en verzenden.
 
@@ -29,27 +29,27 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie S
    >
    >U kunt maximaal 200 personen selecteren bij het gebruik van Selecteren en Verzenden.
 
-1. Klik op de knop **E-mail geselecteerd** .
+1. Klik op de knop **E-mail geselecteerde**.
 
    ![](assets/three-2.png)
 
-1. Voer een onderwerpregel in, selecteer een sjabloon (of stel de e-mail helemaal opnieuw samen) en verzend/ [](http://docs.marketo.com/x/GAQ6Ag)plant de e-mail.
+1. Voer een onderwerpregel in, selecteer een sjabloon (of stel de e-mail helemaal opnieuw samen) en verzend/ [planning](http://docs.marketo.com/x/GAQ6Ag)de e-mail.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Als u een sjabloon hebt geselecteerd en u wilt controleren of alle dynamische velden correct zijn ingevuld voordat u deze verzendt, klikt u op Dynamische velden **** voorvertonen. Zorg ervoor dat alle ontvangers in de grote zijbalk zijn geselecteerd om een voorvertoning van alle e-mails weer te geven. Als u één e-mail selecteert en op Dynamische velden **** voorvertonen klikt, wordt alleen een voorbeeld van dat e-mailbericht weergegeven.
+   >Als u een sjabloon hebt geselecteerd en u wilt controleren of alle dynamische velden correct zijn ingevuld voordat u deze verzendt, klikt u op **Dynamische velden voorvertonen**. Zorg ervoor dat alle ontvangers in de grote zijbalk zijn geselecteerd om een voorvertoning van alle e-mails weer te geven. Als u één e-mail selecteert en **Dynamische velden voorvertonen** klikt, wordt alleen een voorvertoning van dat e-mailbericht weergegeven.
 
-## E-mails bewerken {#editing-emails}
+## E-mails {#editing-emails} bewerken
 
 **Bulkbewerkingen**
 
-1. Voer stap 1-3 uit de sectie [E-mails verzenden uit](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails).
+1. Voer stap 1-3 uit de sectie [E-mails verzenden](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails) uit.
 
    >[!NOTE]
    >
-   >Alle ontvangers worden standaard geselecteerd. Als u op een individu klikt en iedereen opnieuw wilt selecteren, klikt u op **Alle ontvangers**. Ter herinnering: alle ontvangers moeten worden geselecteerd om bulkbewerkingen uit te voeren.
+   >Alle ontvangers worden standaard geselecteerd. Als u op een individu klikt en iedereen opnieuw wilt selecteren, klik **Alle Ontvangers**. Ter herinnering: alle ontvangers moeten worden geselecteerd om bulkbewerkingen uit te voeren.
 
 1. Breng de gewenste wijzigingen aan in de editor. U kunt een nieuwe e-mail maken of een sjabloon bewerken (in dit voorbeeld maken we een nieuwe e-mail).
 
@@ -59,7 +59,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie S
    >
    >U kunt op een specifieke e-mailontvanger klikken om de wijzigingen te zien die aan die e-mail zijn doorgegeven.
 
-1. Klik op **Verzenden** (of [Schema](http://docs.marketo.com/x/GAQ6Ag)) om de bulkupdates die u hebt aangebracht naar alle ontvangers te verzenden.
+1. Klik **Verzenden** (of [Schema](http://docs.marketo.com/x/GAQ6Ag)) om de bulkmail-updates die u hebt aangebracht naar alle ontvangers te verzenden.
 
    ![](assets/bulk-four.png)
 
@@ -67,11 +67,11 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie S
 
 Voltooi Bulk Updates voordat u elke e-mail aanpast. Als u een bulkupdate aanbrengt, worden de wijzigingen in elke e-mail in het bulkcompositiezijpaneel overschreven.
 
-1. Voer stap 1-4 uit de sectie E- [mails verzenden uit.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. Volg stap 1-4 van de sectie [E-mails verzenden.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
 
    >[!NOTE]
    >
-   >Alle ontvangers worden standaard geselecteerd. Als u op een individu klikt en iedereen opnieuw wilt selecteren, klikt u op **Alle ontvangers**. Ter herinnering: alle ontvangers moeten worden geselecteerd om bulkbewerkingen uit te voeren.
+   >Alle ontvangers worden standaard geselecteerd. Als u op een individu klikt en iedereen opnieuw wilt selecteren, klik **Alle Ontvangers**. Ter herinnering: alle ontvangers moeten worden geselecteerd om bulkbewerkingen uit te voeren.
 
 1. Selecteer een individuele ontvanger.
 
@@ -89,7 +89,7 @@ Voltooi Bulk Updates voordat u elke e-mail aanpast. Als u een bulkupdate aanbren
    >
    >U kunt op andere ontvangers klikken om te zien dat de wijzigingen die u in de eerder geselecteerde ontvanger hebt aangebracht, niet zichtbaar zijn.
 
-1. Klik op **Verzenden** (of [Schema](http://docs.marketo.com/x/GAQ6Ag)) om de bulkupdates die u hebt aangebracht naar alle ontvangers te verzenden.
+1. Klik **Verzenden** (of [Schema](http://docs.marketo.com/x/GAQ6Ag)) om de bulkmail-updates die u hebt aangebracht naar alle ontvangers te verzenden.
 
    ![](assets/each-four.png)
 
