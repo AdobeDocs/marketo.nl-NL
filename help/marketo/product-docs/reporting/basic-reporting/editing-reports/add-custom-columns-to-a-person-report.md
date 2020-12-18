@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Aangepaste kolommen toevoegen aan een Persrapport {#add-custom-columns-to-a-person-report}
 
-U kunt de metriek in uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reporting) verder filtreren door uw [slimme lijsten](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) als douanekolommen te gebruiken.
+U kunt de metriek in uw [persoonrapporten ](http://docs.marketo.com/display/docs/basic+reporting) verder filtreren door uw [slimme lijsten](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) als douanekolommen te gebruiken.
 
-1. Ga naar het gebied **Marketing Activities** (of **Analytics**).
+1. Ga naar het **Marketingactiviteiten** (of **Analytics**) gebied.
 
    ![](assets/ma-1.png)
 
-1. Selecteer uw rapport en klik de **Opstelling** tabel.
+1. Selecteer uw rapport en klik **Opstelling** tabel.
 
    ![](assets/two-1.png)
 
-1. Sleep over **aangepaste kolommen**.
+1. Sleep over **Aangepaste kolommen**.
 
    ![](assets/three-1.png)
 
@@ -36,9 +36,9 @@ U kunt de metriek in uw [persoonrapporten](http://docs.marketo.com/display/docs/
    >**Diep duiken**
    >
    >
-   >Leer hoe te om slimme lijsten in de [Slimme Lijsten en Statische Lijsten](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) tot stand te brengen en te vormen diep duik.
+   >Leer hoe te om slimme lijsten in [Slimme Lijsten en Statische Lijsten te creëren en te vormen](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) diep duik.
 
-1. Je hebt het gedaan! Klik op het tabblad **Rapport** om uw rapport met de nieuwe kolommen weer te geven.
+1. Je hebt het gedaan! Klik **Rapport** lusje om uw rapport met de nieuwe kolommen te zien.
 
    ![](assets/five-1.png)
 
@@ -47,12 +47,12 @@ U kunt de metriek in uw [persoonrapporten](http://docs.marketo.com/display/docs/
    >**Verwante artikelen**
    >
    >
-   >U kunt ook Opportunity-kolommen [toevoegen aan een lead-rapport](add-opportunity-columns-to-a-lead-report.md).
+   >U kunt [de Kolommen van de Opportunity aan een Lead ook toevoegen Report](add-opportunity-columns-to-a-lead-report.md).
 
    >[!NOTE]
    >
    >**Diep duiken**
    >
    >
-   >Leer meer van de vele dingen u met rapporten kunt doen in de [Basis die van de Rapportering](http://docs.marketo.com/display/docs/basic+reporting) diep duiken.
+   >Leer meer van de vele dingen u met rapporten in [Basis het Melden](http://docs.marketo.com/display/docs/basic+reporting) diep duik kunt doen.
 
