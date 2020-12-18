@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Creeer een Rol van de Gebruiker van de Personalisatie van het Web {#create-a-web-personalization-user-role}
 
-1. Ga naar de sectie **Beheer** en klik vervolgens op **Gebruikers en rollen**.
+1. Ga naar **Admin** sectie, dan klik **Gebruikers &amp; Roles**.
 
    ![](assets/image2015-4-28-19-3a50-3a49.png)
 
-1. Klik op **Rollen**.
+1. Klik **Rollen**.
 
    ![](assets/image2015-4-28-19-3a57-3a58.png)
 
@@ -27,19 +27,19 @@ ht-degree: 0%
    >
    >Als de gebruikersrol van de Personalisatie van het Web (WP) reeds bestaat, zorg ervoor het zoals aangetoond in Stap 4 wordt gevormd.
 
-1. Klik op **Nieuwe rol**.
+1. Klik **Nieuwe rol**.
 
    ![](assets/three-1.png)
 
-1. Voer een rolnaam in en selecteer Machtigingen. Klik op **Maken** (deze rol moet van [toepassing zijn op alle werkruimten](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Voer een rolnaam in en selecteer Machtigingen. Klik **Maken** (deze rol moet [van toepassing zijn op alle werkruimten](http://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Om gebruikers toestemming te geven om tot alles in het richten en Personalisatie toegang te hebben, ben zeker om *alle* checkboxes te selecteren.
+   >Om gebruikers toestemming te geven om tot alles in het richten en Personalisatie toegang te hebben, ben zeker om *all* checkboxes te selecteren.
 
-## Gebruikersrechten voor webpersonalisatie en voorspellende inhoud {#web-personalization-and-predictive-content-user-permissions}
+## Rechten van gebruikers voor webpersonalisatie en voorspellende inhoud {#web-personalization-and-predictive-content-user-permissions}
 
 **Doelgericht en persoonlijk** gebruik: Gebruiker heeft alleen weergavemachtigingen als deze machtiging alleen is geselecteerd.
 
@@ -55,11 +55,11 @@ ht-degree: 0%
 
 ## WP-rol toewijzen aan gebruiker {#assign-wp-role-to-user}
 
-1. Ga naar **Gebruikers**.
+1. Ga naar **Users**.
 
    ![](assets/image2015-4-29-11-3a31-3a3.png)
 
-1. Selecteer de gebruiker om WP toegang tot te verlenen en de klik **geeft Gebruiker** uit.
+1. Selecteer de gebruiker om WP toegang tot te verlenen en **te klikken Gebruiker** uitgeven.
 
    ![](assets/image2015-4-29-11-3a38-3a46.png)
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. Nieuw toegelaten gebruikers zullen de tegel van de Aanpassing van het **Web** in Mijn Marketo de volgende tijd zien zij login.
+1. Nieuw ingeschakelde gebruikers zullen **Web Personalization** tegel in Mijn Marketo zien de volgende tijd zij login.
 
    ![](assets/eight.png)
