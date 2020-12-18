@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Inzicht in het analysegebied van het lidmaatschap van het programma {#understanding-the-program-membership-analysis-area}
+# Het begrip van het Gebied van de Analyse van het Lidmaatschap van het Programma {#understanding-the-program-membership-analysis-area}
 
 Op het gebied van de analyse van het lidmaatschap van het programma kunt u de doeltreffendheid van individuele programma&#39;s analyseren of samengevatte resultaten per kanaal voor een bepaalde periode zien.
 
-## Voorbeelden van zakelijke vragen {#example-business-questions}
+## Voorbeeld van zakelijke vragen {#example-business-questions}
 
 Hoeveel mensen namen per kanaal deel aan een programma in een bepaalde maand?
 
@@ -29,7 +29,7 @@ Hoeveel nieuwe namen produceerde elk programma/kanaal per maand?
 
 ![](assets/three-2.png)
 
-## Dimension en maatregelen voor de analyse van programmamakers {#program-membership-analysis-dimensions-and-measures}
+## Dimension en maatregelen voor de analyse van programmamateriaal {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ Hoeveel nieuwe namen produceerde elk programma/kanaal per maand?
 | Programmakanaal | Programmakanaal |
 | Programmanaam | Programmanaam |
 
-### Tijdschema voor programmamededeling {#program-membership-timeframe}
+### Tijdskader voor programmamededeling {#program-membership-timeframe}
 
 | Dimension | Beschrijving |
 |---|---|
