@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een rapport van de Ontdekkingsreiziger van de Opbrengst opslaan {#saving-a-revenue-explorer-report}
+# Opslaan van een rapport van de Ontdekkingsreiziger van de Opbrengst {#saving-a-revenue-explorer-report}
 
 De rapporten van de Ontdekkingsreiziger van de opbrengst kunnen aan het dossier van uw keus worden bewaard.
 
@@ -27,7 +27,7 @@ De rapporten van de Ontdekkingsreiziger van de opbrengst kunnen aan het dossier 
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
-   Dat is alles! U hebt nu toegang tot uw bestand in **Bladeren door bestanden**.
+   Dat is alles! U kunt tot uw dossier in **Browse Dossiers** nu toegang hebben.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 
