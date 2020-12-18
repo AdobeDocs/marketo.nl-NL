@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer een nieuwe versie van Marketo E-mail toe:voegen-binnen voor Vooruitzichten beschikbaar is, volg deze instructies om te bevorderen.
 
-## Installatieprogramma downloaden {#download-installer}
+## Installatieprogramma {#download-installer} downloaden
 
 Download het installatieprogramma dat geschikt is voor uw versie van Microsoft Outlook.
 
@@ -130,7 +130,7 @@ Download het installatieprogramma dat geschikt is voor uw versie van Microsoft O
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. Je ziet dat al je gegevens zijn voorgevuld. Klik gewoon op **Volgende**.
+1. Je ziet dat al je gegevens zijn voorgevuld. Klik gewoon **Volgende**.
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -142,11 +142,11 @@ Download het installatieprogramma dat geschikt is voor uw versie van Microsoft O
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
-1. De installatie is nu voltooid. Klik op **Sluiten**.
+1. De installatie is nu voltooid. Klik **Close**.
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 
