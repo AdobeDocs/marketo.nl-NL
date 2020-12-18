@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Een e-mail naar Verkoopoverzicht publiceren {#publish-an-email-to-sales-insight}
+# Een e-mail naar Verkoopinzicht publiceren {#publish-an-email-to-sales-insight}
 
 Schakel de instelling Publiceren naar verkoopinzicht in om een e-mail beschikbaar te maken voor uw verkoopteam in zowel het verkoopoverzicht als de Outlook- en Gmail-invoegtoepassing. U kunt ook een vervaldatum geven.
 
-1. Zoek uw e-mail, selecteer het en klik **uitgeven Ontwerp**.
+1. Zoek uw e-mail, selecteer het en klik **geef Ontwerp** uit.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Schakel de instelling Publiceren naar verkoopinzicht in om een e-mail beschikbaa
 
    ![](assets/two.png)
 
-1. Schakel **Publiceren naar Verkoopoverzicht** in.
+1. Schakel **Publiceren naar Verkoopinzicht**.
 
    ![](assets/three.png)
 
-1. Als u een vervaldatum wilt instellen (optioneel), schakelt u **Vervaldatum** instellen in en kiest u een datum.
+1. Als u een vervaldatum wilt instellen (optioneel), schakelt u **Vervaldatum instellen** in en kiest u een datum.
 
    ![](assets/four.png)
 
@@ -35,7 +35,7 @@ Schakel de instelling Publiceren naar verkoopinzicht in om een e-mail beschikbaa
    >
    >23:59 (CST) op de vervaldatum (als u één plaatste), zal e-mail u ter beschikking stelde van het Inzicht van de Verkoop evenals om het even welk van zijn toe:voegen-ins verdwijnen. Het zal natuurlijk nog steeds toegankelijk zijn in Marketo.
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/five.png)
 
@@ -43,9 +43,9 @@ Mooi werk! Nu weet u hoe te om e-mails ter beschikking te stellen voor uw verkoo
 
 >[!NOTE]
 >
->[Mijn Tokens](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) zullen niet oplossen wanneer het verzenden van een e-mail van het Inzicht van de Verkoop op of de Dynamiek van Microsoft of Salesforce; alleen standaardtokens worden gevuld (Lead, Company, enz.). Standaardwaarden voor tokens werken echter wel.
+>[Mijn ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) Tokenswill lost niet op wanneer het verzenden van een e-mail van het Inzicht van de Verkoop op of de Dynamica van Microsoft of Salesforce; alleen standaardtokens worden gevuld (Lead, Company, enz.). Standaardwaarden voor tokens werken echter wel.
 
 >[!TIP]
 >
->Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe u een e-mail [kunt](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md)goedkeuren.
+>Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe u [Een e-mail goedkeuren](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
 
