@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Abonnement op bestemmingspagina van koppeling opzeggen {#unsubscribe-link-landing-page}
+# Afmelden van bestemmingspagina van koppeling {#unsubscribe-link-landing-page} opzeggen
 
 Wanneer iemand op de koppeling voor afmelden klikt, wordt hij of zij doorgestuurd naar een bestemmingspagina waar hij of zij kan selecteren van wie hij of zij afmeldt en waarom.
 
