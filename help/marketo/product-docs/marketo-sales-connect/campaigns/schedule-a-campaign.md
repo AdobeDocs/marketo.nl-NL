@@ -19,8 +19,8 @@ U hoeft alleen maar te kiezen wanneer u uw e-mails wilt verzenden wanneer u uw c
 
 Als u uw eerste stap niet had gepland of &quot;moet kiezen verzendt bij&quot;tijd, zal u worden gevraagd om te kiezen wanneer uw Campagne zou moeten worden verzonden, telkens als u een persoon of een groep toevoegt.
 
-Open de modus Toevoegen aan campagne door personen, een groep of geselecteerde personen toe te voegen en klik op **Volgende**.
+Open Add aan de modaal van de Campagne, of door individuen, een groep, of geselecteerde mensen toe te voegen en **daarna** te klikken.
 
-Nadat u op **Volgende** hebt geklikt, kunt u een voorbeeld van het eerste e-mailbericht weergeven.
+Nadat u **Volgende** klikt, kunt u voorproef eerste e-mail.
 
 Nadat u opnieuw op **Volgende **klikt, zult u aan een optie voor worden genomen wanneer u uw campagne uit wilt gaan. U kunt het nu laten beginnen, of een tijd voor later plannen om de campagne te beginnen.
