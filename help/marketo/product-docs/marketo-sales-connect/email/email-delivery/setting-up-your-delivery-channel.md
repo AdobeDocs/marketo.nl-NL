@@ -17,7 +17,7 @@ Wanneer u Marketo Sales Connect gaat gebruiken, moet u een SMTP-server instellen
 
 >[!NOTE]
 >
->Naast het instellen van uw SMTP-server moet uw [e-mailidentiteit worden geverifieerd](http://docs.marketo.com/x/ewPh) voordat u e-mailberichten kunt verzenden.
+>Naast het opzetten van uw SMTP-server, moet uw [e-mailidentiteit worden geverifieerd](http://docs.marketo.com/x/ewPh) voordat u e-mailberichten kunt verzenden.
 
 U kunt verkiezen om e-mails te verzenden gebruikend een Server van de Douane SMTP, een Server van het Team SMTP, of Gmail als leveringskanaal. Laten we elke optie overslaan.
 
@@ -31,11 +31,11 @@ U kunt verkiezen om e-mails te verzenden gebruikend een Server van de Douane SMT
 
    ![](assets/two.png)
 
-1. Selecteer **SMTP-server**.
+1. Selecteer **SMTP Server**.
 
    ![](assets/three.png)
 
-1. Voer uw SMTP-serverreferenties in en klik op **Verbinden**.
+1. Voer uw SMTP-serverreferenties in en klik op **Connect**.
 
    ![](assets/four.png)
 
@@ -43,19 +43,19 @@ U kunt verkiezen om e-mails te verzenden gebruikend een Server van de Douane SMT
    >
    >Als dit uw enige leveringskanaal is, wordt het automatisch toegewezen aan al uw e-mailidentiteiten, en u wordt hier gedaan. Als dit niet uw enige leveringskanaal is, gelieve te blijven aan Stap 5.
 
-1. Klik, terwijl u zich nog steeds in E-mailinstellingen bevindt, op **Adres en handtekening**.
+1. Terwijl nog in E-mailmontages, klik **Adres en Handtekening**.
 
    ![](assets/five.png)
 
-1. Zoek de e-mailidentiteit waarvoor u een leveringskanaal wilt kiezen en klik op **Leveringskanaal** kiezen.
+1. Zoek de e-mailidentiteit waarvoor u een leveringskanaal wilt kiezen en klik **Kies Leveringskanaal**.
 
    ![](assets/six.png)
 
-1. Klik op **Bewerkbaarheidskaart**.
+1. Klik in de afleveringskaart op **Bewerken**.
 
    ![](assets/seven-new.png)
 
-1. Klik op de vervolgkeuzelijst Kanaal en kies het aangepaste leveringskanaal dat u zojuist hebt toegevoegd. Klik op **Opslaan**.
+1. Klik op de vervolgkeuzelijst Kanaal en kies het aangepaste leveringskanaal dat u zojuist hebt toegevoegd. Klik **Opslaan**.
 
    ![](assets/eight-new.png)
 
@@ -75,11 +75,11 @@ U kunt verkiezen om e-mails te verzenden gebruikend een Server van de Douane SMT
 
    ![](assets/nine.png)
 
-1. Klik onder Beheer Montages, de Server **van** Team SMTP.
+1. Klik onder Beheerinstellingen op **Team SMTP-server**.
 
    ![](assets/ten.png)
 
-1. Voer uw SMTP-serverreferenties in en klik op **Verbinden**.
+1. Voer uw SMTP-serverreferenties in en klik op **Connect**.
 
    ![](assets/eleven.png)
 
@@ -99,16 +99,16 @@ U kunt verkiezen om e-mails te verzenden gebruikend een Server van de Douane SMT
 
    ![](assets/thirteen.png)
 
-1. Klik op **E-mailsynchronisatie**.
+1. Klik **E-mailsynchronisatie**.
 
    ![](assets/fourteen.png)
 
-1. Klik op **Verbinden met Google**.
+1. Klik **Verbind met Google**.
 
    ![](assets/fifteen.png)
 
 1. Meld u aan met uw Google-referenties.
-1. Klik op **Toestaan** wanneer u naar dit scherm gaat.
+1. Wanneer u aan dit scherm krijgt, klik **Toestaan**.
 
    ![](assets/sixteen.png)
 
@@ -116,7 +116,7 @@ U kunt verkiezen om e-mails te verzenden gebruikend een Server van de Douane SMT
    >
    >Als dit uw enige leveringskanaal is, wordt het automatisch toegewezen aan al uw e-mailidentiteiten, en u wordt hier gedaan. Ga naar stap 7 als Gmail niet uw enige leveringskanaal is.
 
-1. Klik op **Adres en handtekening**.
+1. Klik **Adres en handtekening**.
 
    ![](assets/seventeen.png)
 
@@ -128,7 +128,7 @@ U kunt verkiezen om e-mails te verzenden gebruikend een Server van de Douane SMT
 
    ![](assets/nineteen.png)
 
-1. Klik op de vervolgkeuzelijst Kanaal en kies het Gmail-leveringskanaal dat u zojuist hebt toegevoegd. Klik op **Opslaan**.
+1. Klik op de vervolgkeuzelijst Kanaal en kies het Gmail-leveringskanaal dat u zojuist hebt toegevoegd. Klik **Opslaan**.
 
    ![](assets/twenty.png)
 
