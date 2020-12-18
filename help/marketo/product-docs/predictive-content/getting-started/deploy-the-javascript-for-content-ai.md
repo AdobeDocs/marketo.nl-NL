@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# JavaScript implementeren voor Content-AI {#deploy-the-javascript-for-content-ai}
+# JavaScript implementeren voor inhouds-AI {#deploy-the-javascript-for-content-ai}
 
 >[!NOTE]
 >
->Afhankelijk van de aankoopdatum kan uw abonnement op Marketo de optie Voorspelende inhoud of Inhoud`<sup>AI</sup>`markeren bevatten. Marketo schakelt de functie Content`<sup>AI</sup>` Analytics voor gebruikers die gebruikmaken van voorspellende inhoud in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager Succes bij Marketo-klanten om te upgraden naar Marketo-inhoud`<sup>AI</sup>`.
+>Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
-Om Voorspelende Inhoud te gebruiken, moet u produceren en opstelling uw RTP (de Personalisatie van het Web) `tag.`
+Als u voorspellende inhoud wilt gebruiken, moet u de RTP (Web Personalization) `tag.` genereren en instellen
 
-## Label genereren {#generate-tag}
+## Label {#generate-tag} genereren
 
 1. Meld u aan bij uw account voor voorspellende inhoud. Ga naar **Accountinstellingen**.
 
    ![](assets/settings-dropdown-account-hands.png)
 
-1. Zoek in **Domeinconfiguratie** het relevante domein op en klik op Tag **genereren.**
+1. Zoek in **Domeinconfiguratie** het relevante domein en klik op **Label genereren.**
 
    ![](assets/generate-tag.png)
 
@@ -35,8 +35,8 @@ Om Voorspelende Inhoud te gebruiken, moet u produceren en opstelling uw RTP (de 
 
    >[!NOTE]
    >
-   >Kopieer de JavaScript-tag Web Personalization en plak deze als het eerste script in de koptekst van uw pagina&#39;s, tussen de `<head> </head>` tags. Zie hier [gedetailleerdere](http://docs.marketo.com/display/docs/rtp+tag+implementation) implementatieinstructies [.](http://pages2.marketo.com/rtp-implementation.html)
+   >Kopieer de JavaScript-tag Web Personalization en plak deze als het eerste script in de koptekst van uw pagina&#39;s, tussen de `<head> </head>`-tags. Zie meer gedetailleerde [implementatieinstructies hier](http://docs.marketo.com/display/docs/rtp+tag+implementation) [](http://pages2.marketo.com/rtp-implementation.html)
 
-1. Controleer of de tag op alle pagina&#39;s wordt weergegeven, inclusief bestemmingspagina&#39;s en subdomeinen. Controleer dit door met de rechtermuisknop op uw `website’s` pagina te klikken. Ga naar Paginabron **** weergeven in een webbrowser. Zoeken: &quot;RTP&quot;.
-1. Bevestig dat de tagschakeloptie is ingesteld op **AAN**.
+1. Controleer of de tag op alle pagina&#39;s wordt weergegeven, inclusief bestemmingspagina&#39;s en subdomeinen. Controleer dit door met de rechtermuisknop op uw `website’s` pagina te klikken. Ga naar **Paginabron weergeven** in een webbrowser. Zoeken: &quot;RTP&quot;.
+1. Bevestig dat de Tagknevel aan **ON** wordt geplaatst.
 
