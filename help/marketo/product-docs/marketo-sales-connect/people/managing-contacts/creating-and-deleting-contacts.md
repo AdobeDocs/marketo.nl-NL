@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Contactpersonen maken en verwijderen {#creating-and-deleting-contacts}
+# Contactpersonen {#creating-and-deleting-contacts} maken en verwijderen
 
-## Contactpersonen maken {#creating-contacts}
+## Contacten maken {#creating-contacts}
 
-1. Klik op de pagina Personen op de knop Handelingen **** groeperen en selecteer Contactpersoon **** maken.
+1. Klik in de pagina Personen op de knop **Handelingen groeperen** en selecteer **Contactpersoon maken**.
 
    ![](assets/one-2.png)
 
-1. Voer de voornaam/achternaam en het e-mailadres in, samen met eventuele andere gewenste gegevens. Klik **creëren** wanneer gedaan, of **creeer en voeg Nieuw** toe om meer contacten toe te voegen.
+1. Voer de voornaam/achternaam en het e-mailadres in, samen met eventuele andere gewenste gegevens. Klik **Create** wanneer gedaan, of **creeer en voeg Nieuw** toe om meer contacten toe te voegen.
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >Wilt u meerdere contactpersonen tegelijk toevoegen? [Klik hier](http://docs.marketo.com/x/VADb) om te leren hoe u contacten via CSV kunt importeren.
+   >Wilt u meerdere contactpersonen tegelijk toevoegen? [Klik ](http://docs.marketo.com/x/VADb) hier om te leren hoe u contactpersonen kunt importeren via CSV.
 
-## Contactpersonen verwijderen {#deleting-contacts}
+## Contactpersonen {#deleting-contacts} verwijderen
 
 1. Schakel op de pagina Personen het vakje in van de contactpersoon die u wilt verwijderen.
 
