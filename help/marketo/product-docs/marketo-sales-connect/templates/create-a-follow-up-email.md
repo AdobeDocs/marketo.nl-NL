@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Een follow-up-e-mail maken {#create-a-follow-up-email}
+# Een follow-upe-mail maken {#create-a-follow-up-email}
 
-Met de [functie Campagnes](http://docs.marketo.com/display/TEST/Campaigns) van Sales Connect kunt u eenvoudig een follow-up-e-mail maken.
+Met de functie [Campagnes](http://docs.marketo.com/display/TEST/Campaigns) van Sales Connect kunt u eenvoudig een follow-up-e-mail maken.
 
-Schakel op het tabblad **Instellen** van uw campagne het selectievakje in om een e-mail te maken als follow-up. Hiermee wordt uw vorige e-mail automatisch naar de volgende e-mail in de campagne verbonden.
+Schakel op het tabblad **Instellen** van uw campagne het selectievakje in om een e-mailbericht te maken als follow-up, zodat uw vorige e-mail automatisch wordt gekoppeld aan de volgende e-mail in de campagne.
 
