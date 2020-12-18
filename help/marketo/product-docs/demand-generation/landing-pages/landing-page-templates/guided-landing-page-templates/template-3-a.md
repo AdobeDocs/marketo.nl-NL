@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Template 3-A {#template-a}
+# Sjabloon 3-A {#template-a}
 
 [Sjabloon 3-A downloaden](http://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&amp;modificationdate=1434057345000&amp;api=v2)
 
