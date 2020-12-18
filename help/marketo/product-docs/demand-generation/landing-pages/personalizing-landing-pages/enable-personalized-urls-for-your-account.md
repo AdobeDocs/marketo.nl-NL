@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# Persoonlijke URL&#39;s voor uw account inschakelen {#enable-personalized-urls-for-your-account}
+# Persoonlijke URL&#39;s inschakelen voor uw account {#enable-personalized-urls-for-your-account}
 
 Persoonlijke URL&#39;s zijn ideaal voor campagnes voor gedrukte post.
 
@@ -19,15 +19,15 @@ Persoonlijke URL&#39;s zijn ideaal voor campagnes voor gedrukte post.
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar de sectie **Beheer** en klik op **Pagina&#39;s** landen.
+1. Ga naar **Admin** sectie en klik **Landing Pages**.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. Klik op **Bewerken**.
+1. Klik **Bewerken**.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Schakel het vak Persoonlijke URL&#39;s **inschakelen** in en klik op **Opslaan**.
+1. Schakel het selectievakje **Aangepaste URL&#39;s inschakelen** in en klik op **Opslaan**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
