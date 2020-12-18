@@ -29,19 +29,19 @@ Maak een of meer afbeeldingen in uw e-mailvoorspellend, waarbij u de ervaring vo
 
 ## Voorspelende inhoud toevoegen met de e-maileditor 2.0 {#adding-predictive-content-using-the-email-editor}
 
-1. Klik op **Marketingactiviteiten**.
+1. Klik **Marketingactiviteiten**.
 
    ![](assets/one.png)
 
-1. Selecteer uw e-mail en klik op Concept **** bewerken.
+1. Selecteer uw e-mail en klik **Concept** uitgeven.
 
    ![](assets/two.png)
 
-1. Klik op de afbeelding die u voorspelbaar wilt maken. Wanneer het tandwielpictogram verschijnt, klikt u erop en selecteert u Inhoud **`AI`** inschakelen (Inhoud`AI` is de vroegere naam voor Voorspelende inhoud).
+1. Klik op de afbeelding die u voorspelbaar wilt maken. Wanneer het tandwielpictogram verschijnt, klikt u erop en selecteert u **Inhoud inschakelen`AI`** (Inhoud`AI` is de vroegere naam voor voorspellende inhoud).
 
    ![](assets/three.png)
 
-1. Als u een of meer categorieën wilt selecteren, klikt u op de vervolgkeuzelijst **Categorieën** , selecteert u een of meer categorieën en klikt u op **Toepassen**.
+1. Als u een of meer categorieën wilt selecteren, klikt u op de vervolgkeuzelijst **Categorieën**, maakt u uw selectie(s) en klikt u op **Toepassen**.
 
    ![](assets/four.png)
 
@@ -53,19 +53,19 @@ Maak een of meer afbeeldingen in uw e-mailvoorspellend, waarbij u de ervaring vo
 
    ![](assets/five.png)
 
-1. Klik op **Voorvertoning** in de rechterbovenhoek om een voorbeeld van uw e-mail weer te geven.
+1. Klik op **Voorvertoning** in de rechterbovenhoek om een voorbeeld van uw e-mail te bekijken.
 
    ![](assets/six.png)
 
-1. Klik op **Vernieuwen** om de verschillende mogelijke afbeeldingen weer te geven.
+1. Als u verschillende mogelijke afbeeldingen wilt weergeven, klikt u op **Vernieuwen**.
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >De afbeelding wordt pas geselecteerd **_als de ontvanger het e-mailbericht_** opent. Wat u in de voorvertoning ziet, is slechts een voorbeeld en hoeft niet noodzakelijkerwijs de afbeelding te zijn die de ontvanger ziet.
+   >De afbeelding wordt pas geselecteerd **_wanneer de ontvanger het e-mailbericht_** opent. Wat u in de voorvertoning ziet, is slechts een voorbeeld en hoeft niet noodzakelijkerwijs de afbeelding te zijn die de ontvanger ziet.
 
-1. Als u klaar bent met het voorvertonen van uw e-mail, klikt u op de vervolgkeuzelijst **Voorvertoning van handelingen** en selecteert u **Goedkeuren en Sluiten**. Als u nog steeds bewerkingen moet uitvoeren, klikt u rechts op Concept **** bewerken.
+1. Als u klaar bent met het voorvertonen van uw e-mail, klikt u op de vervolgkeuzelijst **Handelingen voorvertonen** en selecteert u **Goedkeuren en Sluiten**. Of als u nog het uitgeven moet doen, klik **geef Ontwerp** op het recht uit.
 
    ![](assets/eight.png)
 
@@ -79,11 +79,11 @@ Nadat u uw e-mail hebt goedgekeurd, wordt deze voorzien van voorspellende inhoud
 >
 >Zodra een ontvanger de e-mail opent, worden de voorspellende beelden gesloten. Als de inhoud later wordt verwijderd, zien ontvangers een verbroken afbeelding waarin de inhoud zich bevindt.
 
-## Voorspelende inhoud toevoegen wanneer de e-maileditor 2.0 niet wordt gebruikt {#adding-predictive-content-when-not-using-the-email-editor}
+## Voorspelende inhoud toevoegen wanneer de E-maileditor 2.0 {#adding-predictive-content-when-not-using-the-email-editor} niet wordt gebruikt
 
-Als u geen sjabloon voor [e-mail 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) gebruikt, kunt u preventieve inhoud aan uw e-mail toevoegen door een afbeelding in uw sjabloon te labelen als een bewerkbaar afbeeldingselement voor Marketo.
+Als u geen [E-mail 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) malplaatje gebruikt, kan het toevoegen van Voorspelende Inhoud aan uw e-mail eenvoudig worden gedaan door een beeld in uw malplaatje als Marketo editable beeldelement te etiketteren.
 
-Hier [vindt u meer informatie over de syntaxis voor](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements)markeertekens.
+Meer informatie over de [Marketo-specifieke syntaxis hier](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements).
 
 Hier is een voorbeeld van hoe de code eruit moet zien (dit is slechts een voorbeeld, kopieer de onderstaande code niet exact).
 
