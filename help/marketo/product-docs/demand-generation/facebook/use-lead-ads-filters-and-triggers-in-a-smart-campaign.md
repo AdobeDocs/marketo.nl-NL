@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Als je Facebook Lead Ads hebt ingeschakeld, kun je ze gebruiken in je slimme campagnes om te zien of het programma succesvol was. Wanneer mensen hun gegevens verzenden naar een Facebook Lead Ad-eenheid, wordt de informatie direct doorgestuurd naar Marketo.
 
-1. Gebruik het filter of de trigger **Vullingsadvertenties** .
+1. Gebruik het filter **Vult Lead Ads Form** of de trigger.
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 
