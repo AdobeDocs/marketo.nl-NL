@@ -11,28 +11,28 @@ ht-degree: 0%
 ---
 
 
-# Webactiviteitenrapport van bedrijf {#company-web-activity-report}
+# Rapport over weersactiviteit van bedrijf {#company-web-activity-report}
 
 Bekijk welke bedrijven uw website bezoeken. U kunt bekende of anonieme bezoekers weergeven, maar niet beide in hetzelfde rapport.
 
-Creeer een rapport [van de Activiteit van de](web-page-activity-report.md) Web-pagina om de individuele mensen te zien die uw plaats bezoeken.
+Maak een [Web Page Activity report](web-page-activity-report.md) om de afzonderlijke personen te zien die uw site bezoeken.
 
 >[!PREREQUISITES]
 >
->Als u activiteiten wilt vastleggen vanaf uw website in Marketo, moet u eerst [Munchkin instellen op uw site](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Als u activiteiten van uw website wilt vastleggen in Marketo, moet u eerst [up Munchkin instellen op uw site](../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. [Creeer een rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het [rapporttype](report-type-overview.md)van het Rapport van de Activiteit van het Web van het Bedrijf.
-1. Kies of u bekende of anonieme personen [wilt](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) weergeven in het rapport.
-1. [Plaats het tijdkader van uw rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **lusje van het Rapport** .
+1. [Creeer een ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport en selecteer het   [rapporttype](report-type-overview.md) van het Rapport van de Activiteit van het Web van het Bedrijf.
+1. Kies aan [vertoning gekende of anonieme mensen](https://docs.marketo.com/display/DOCS/Display+Known+or+Anonymous+People+in+Web+Reports) in het rapport.
+1. [Stel het tijdkader van uw rapport in ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op het tabblad  **** Rapporten.
 1. Dat is het! Controleer uw rapport om te zien welke bedrijven uw site bezoeken.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >Als u de bedrijven wilt zoeken die uw site het meest bezoeken, [sorteert u uw rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in de kolom *Paginaweergaven* en kiest u **Sorteren in aflopende volgorde**.
+   >Als u de bedrijven wilt zoeken die uw site het meest bezoeken, sorteert u [uw rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) in de kolom *Paginaweergaven* en kiest u **Aflopend sorteren**.
 
-   [De kolommen die u voor een rapport van de Activiteit van het Web van het Bedrijf kunt selecteren](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) omvatten:
+   [De kolommen die u voor een rapport van de Activiteit van het Web van het Bedrijf kunt ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) selecteren omvatten:
 
 <table> 
  <thead> 
@@ -44,11 +44,11 @@ Creeer een rapport [van de Activiteit van de](web-page-activity-report.md) Web-p
  <tbody> 
   <tr> 
    <td>Bedrijf</td> 
-   <td>Het bezoekersbedrijf.<br> <strong>Vetgedrukte</strong> namen worden door ten minste één persoon als bedrijfsnaam beschouwd.</td> 
+   <td>Het bezoekersbedrijf.<br> <strong>Namen in </strong> vet blijken door ten minste één persoon de naam van het bedrijf te zijn.</td> 
   </tr> 
   <tr> 
    <td>Overgenomen bedrijf of ISP</td> 
-   <td>Het bedrijf, zoals afgeleid uit het IP-adres van de bezoekers. <br> <strong>De namen in vette letters</strong> wijzen erop dit het bedrijf, niet ISP is. </td> 
+   <td>Het bedrijf, zoals afgeleid uit het IP-adres van de bezoekers. <br> <strong>De namen in </strong> boldindicate dit het bedrijf, niet ISP is. </td> 
   </tr> 
   <tr> 
    <td>Paginaweergaven</td> 
@@ -80,4 +80,4 @@ Creeer een rapport [van de Activiteit van de](web-page-activity-report.md) Web-p
 >
 >**Diep duiken**
 >
->Meer informatie over andere interessante rapporten vindt u in de diepe duik van de [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) .
+>Leer over andere interessante rapporten in [Basisrapportering](http://docs.marketo.com/display/docs/basic+reporting) diep duik.
