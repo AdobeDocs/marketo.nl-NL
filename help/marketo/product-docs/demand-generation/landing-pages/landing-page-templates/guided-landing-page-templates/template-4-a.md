@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Template 4-A {#template-a}
+# Sjabloon 4-A {#template-a}
 
 [Sjabloon 4-A downloaden](http://docs.marketo.com/download/attachments/8162237/template-4a.html?version=1&amp;modificationdate=1435255108000&amp;api=v2)
 
