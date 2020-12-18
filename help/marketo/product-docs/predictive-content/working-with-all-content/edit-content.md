@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Inhoud bewerken {#edit-content}
+# Inhoud {#edit-content} bewerken
 
 Je kunt enkele wijzigingen aanbrengen in aanbiedingen op de pagina Alle inhoud.
 
-1. Houd de muisaanwijzer boven de rij van de titel die u wilt bewerken op de pagina **Alle inhoud** en klik op het pictogram Bewerken.
+1. Houd de muisaanwijzer boven de rij van de titel die u wilt bewerken op de pagina **All Content** en klik op het bewerkingspictogram.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
@@ -23,11 +23,11 @@ Je kunt enkele wijzigingen aanbrengen in aanbiedingen op de pagina Alle inhoud.
 
    ![](assets/edit-content-2.png)
 
-1. Klik op het veld **Categorieën** om categorieën toe te voegen of te verwijderen. Selecteer nieuwe in het keuzemenu. U kunt een geselecteerde categorie verwijderen door op de **X** van de categorie te klikken.
+1. Klik op het veld **Categorieën** om categorieën toe te voegen of te verwijderen. Selecteer nieuwe in het keuzemenu. U kunt een momenteel geselecteerde categorie verwijderen door op de desbetreffende **X** te klikken.
 
    ![](assets/edit-content-3.png)
 
-1. Schakel het selectievakje **Goedkeuren voor voorspellende inhoud** in of schakel het selectievakje uit om de goedkeuring ongedaan te maken. Klik op **Opslaan** als u klaar bent.
+1. Schakel het selectievakje **Goedkeuren voor voorspellende inhoud** in om goed te keuren of schakel het selectievakje uit om niet goed te keuren. Klik **Opslaan** wanneer gereed.
 
    ![](assets/edit-content-4.png)
 
