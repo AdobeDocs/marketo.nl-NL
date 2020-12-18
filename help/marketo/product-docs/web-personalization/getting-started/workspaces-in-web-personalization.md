@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De Personalisering van het Web steunt veelvoudige werkruimten voor Webcampagnes en Websegmenten.
 
-## Werkruimten wisselen {#switch-workspaces}
+## Schakelen tussen werkruimten {#switch-workspaces}
 
 Als u wilt schakelen tussen werkruimten in webpersonalisatie, klikt u op het pictogram van de bol linksboven en kiest u een andere werkruimte in het keuzemenu.
 
@@ -23,11 +23,11 @@ Als u wilt schakelen tussen werkruimten in webpersonalisatie, klikt u op het pic
 
 ## De werkruimte van een segment wijzigen {#change-a-segments-workspace}
 
-1. Ga naar de pagina **Segmenten** , selecteer een segment en klik op het pictogram Bewerken.
+1. Ga naar de **pagina Segmenten**, selecteer een segment en klik op het bewerkingspictogram.
 
    ![](assets/ss4.png)
 
-1. Selecteer een andere werkruimte in het keuzemenu **Werkruimte** .
+1. Selecteer een andere werkruimte in de vervolgkeuzelijst **Werkruimte**.
 
    ![](assets/ss6.png)
 
@@ -35,5 +35,5 @@ Als u wilt schakelen tussen werkruimten in webpersonalisatie, klikt u op het pic
 
 >[!NOTE]
 >
->Gebruikers kunnen alleen webcampagnes en -segmenten bekijken die zijn gekoppeld aan de werkruimten waartoe zij toegang hebben. Hieronder wordt beschreven hoe u een gebruiker toegang [geeft tot een of meer werkruimten](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
+>Gebruikers kunnen alleen webcampagnes en -segmenten bekijken die zijn gekoppeld aan de werkruimten waartoe zij toegang hebben. Hieronder wordt beschreven hoe u een gebruiker [toegang geeft tot een of meer werkruimten](../../../product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
 
