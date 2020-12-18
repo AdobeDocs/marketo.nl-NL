@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# SSO via SAML 2.0 instellen in Sales Connect {#setting-up-sso-through-saml-in-sales-connect}
+# SSO instellen via SAML 2.0 in Sales Connect {#setting-up-sso-through-saml-in-sales-connect}
 
 Wij steunen SSO door de specificatie van SAML 2.0. We hebben momenteel echter geen directe integratie met een leverancier. Wij zullen wat informatie van uw leverancier SSO moeten verzamelen om deze opstelling te krijgen.
 
@@ -19,7 +19,7 @@ Wij steunen SSO door de specificatie van SAML 2.0. We hebben momenteel echter ge
 >
 >**Herinnering**
 >
->Dit is alleen van toepassing op **Marketo Sales Connect** -klanten. Neem contact op met de succesmanager van de klant als u geen Verkoopverbinding hebt maar meer wilt weten.
+>Dit is alleen van toepassing op **Marketo Sales Connect**-klanten. Neem contact op met de succesmanager van de klant als u geen Verkoopverbinding hebt maar meer wilt weten.
 
 ## Vereisten {#requirements}
 
@@ -27,11 +27,11 @@ Wij steunen SSO door de specificatie van SAML 2.0. We hebben momenteel echter ge
 * Abonnement op Marketo Sales Connect
 * Metadata.xml van SSO-account (geef URL uit, het eindpunt voor validatie en een openbare sleutel)
 
-## Instellen {#setup}
+## {#setup} instellen
 
 Metadata.xml van de instantie van SSO van uw team zou de uitgever URL, het eindpunt voor bevestiging, en een openbare sleutel moeten bevatten.
 
-Wij zullen ook de Plaats SSO voor de rekening van SSO van uw bedrijf nodig hebben om een uniek domein te zijn. We houden bijvoorbeeld van &#39;toutapp.pingidentity.com&#39; of iets dergelijks. `require a unique subdomain` Zonder dit type unieke id kunnen we geen SAML instellen vanaf het dashboard.
+Wij zullen ook de Plaats SSO voor de rekening van SSO van uw bedrijf nodig hebben om een uniek domein te zijn. We `require a unique subdomain` houden bijvoorbeeld van &#39;toutapp.pingidentity.com&#39; of iets dergelijks. Zonder dit type unieke id kunnen we geen SAML instellen vanaf het dashboard.
 
 Één Login en Okta verstrekken niet altijd unieke herkenningstekens wanneer het toewijzen van een URL. Als u Okta of Één Login gebruikt, betekent het dat wij niet één login van de dashboardknoop kunnen plaatsen. We kunnen deze nog steeds instellen met de knop Single Sign On op de [webtoepassing](http://toutapp.com/login).
 
