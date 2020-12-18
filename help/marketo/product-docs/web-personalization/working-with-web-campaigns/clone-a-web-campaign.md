@@ -17,19 +17,19 @@ Gebruik de klooneigenschap op de pagina van de Campagnes van het Web om de campa
 
 ## Een klooncampagne maken {#create-a-clone-campaign}
 
-1. Ga naar **webcampagnes**.
+1. Ga naar **Webcampagnes**.
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 
    >[!NOTE]
    >
-   >Met de [filterfunctie](filter-web-campaigns.md)kunt u gemakkelijker de gewenste webcampagne vinden.
+   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik [filtereigenschap](filter-web-campaigns.md).
 
 1. Klik voor de webcampagne op **Klonen**.
 
    ![](assets/web-campaigns-1-clone-hand.png)
 
-1. Het klonen van campagne kopieert alle inhoud van de bestaande webcampagne naar de nieuwe gekloonde campagne. De nieuwe gekloonde webcampagne heet &quot;[CAMPAIGN NAME] Copy&quot;.
+1. Het klonen van campagne kopieert alle inhoud van de bestaande webcampagne naar de nieuwe gekloonde campagne. De nieuwe gekloonde webcampagne heeft de titel &quot;[CAMPAIGN NAME] Copy&quot;.
 
    ![](assets/image2016-8-18-17-3a8-3a27.png)
 
