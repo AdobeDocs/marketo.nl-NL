@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De achtergrond voor berichten in de app instellen {#set-up-the-in-app-message-background}
+# Stel de achtergrond voor berichten in de app {#set-up-the-in-app-message-background} in
 
 Het selecteren van een berichtachtergrond is een belangrijke stap in het voltooien van uw bericht in de app.
 
@@ -23,7 +23,7 @@ Het selecteren van een berichtachtergrond is een belangrijke stap in het voltooi
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Als u een kleur wilt instellen, klikt u op **Kleur** en vervolgens op het vierkantje voor kleurselectie. Selecteer de kleur door erop te klikken of de Hex- of RGB-codes in te voeren in de kleurkiezer.
+1. Als u een kleur wilt instellen, klikt u op **Kleur** en vervolgens op het vierkantje van de kleurselectie. Selecteer de kleur door erop te klikken of de Hex- of RGB-codes in te voeren in de kleurkiezer.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,11 +31,11 @@ Het selecteren van een berichtachtergrond is een belangrijke stap in het voltooi
    >
    >Normaal gesproken is wit, de standaardinstelling, de winnaar.
 
-1. Als u een achtergrond wilt gebruiken, klikt u op **Afbeelding** en vervolgens op de koppeling Afbeelding **** selecteren.
+1. Als u een achtergrond wilt gebruiken, klikt u op **Afbeelding** en vervolgens op de koppeling **Afbeelding selecteren**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Kies uit bestanden die naar de Design Studio zijn geüpload. Klik op **Selecteren**.
+1. Kies uit bestanden die naar de Design Studio zijn geüpload. Klik **Select**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -65,7 +65,7 @@ Het selecteren van een berichtachtergrond is een belangrijke stap in het voltooi
 
    >[!NOTE]
    >
-   >Voor tikacties voor achtergronden kunt u verschillende acties instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld op verschillende manieren afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, verlaat andere in het gebrek plaatsend of selecteer **niets**.
+   >Voor tikacties voor achtergronden kunt u verschillende acties instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld op verschillende manieren afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, verlaat andere in het gebrek dat plaatst of **niets** selecteert.
 
    [De knop Afwijzen instellen](set-up-the-dismiss-button-and-approve-the-message.md)
 
