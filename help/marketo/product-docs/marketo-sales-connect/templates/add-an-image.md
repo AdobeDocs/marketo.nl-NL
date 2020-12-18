@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Een afbeelding toevoegen {#add-an-image}
+# Afbeelding {#add-an-image} toevoegen
 
 Voer de volgende stappen uit als u een afbeelding of GIF wilt toevoegen aan uw e-mail.
 
 1. Open de sjablooneditor en klik op het afbeeldingspictogram op de werkbalk.
 1. Sleep en zet de afbeelding neer of upload deze.
 1. Dubbelklik op de afbeelding om de grootte te wijzigen of om een hyperlink toe te voegen.
-1. Klik op **Bijwerken** als u klaar bent.
+1. Klik **Update** wanneer gereed.
 
