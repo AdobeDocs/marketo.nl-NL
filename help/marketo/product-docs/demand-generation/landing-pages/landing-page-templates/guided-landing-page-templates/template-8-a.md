@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Template 8-A {#template-a}
+# Sjabloon 8-A {#template-a}
 
 [Sjabloon 8-A downloaden](http://docs.marketo.com/download/attachments/8783960/template-8a.html?version=1&amp;modificationdate=1482174907000&amp;api=v2)
 
