@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Websegmenten {#web-segments}
 
-## Segment weergeven {#view-segment}
+## Segment {#view-segment} weergeven
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
 Op het tabblad Segmenten worden alle aangepaste gedefinieerde segmenten weergegeven die u instelt op basis van verschillende kenmerken.  **Een segment is een verzameling bezoekers die voldoen aan de opgegeven criteria die zijn gedefinieerd op de pagina &quot;Een segment instellen&quot;.**  Een segment kan bezoekers zijn uit een bepaalde branche, locatie of op basis van de onsite activiteit van de bezoeker.
 
-In Personalisatie van het Web, kan een bezoeker meer dan één segment aanpassen. Als er bijvoorbeeld een segment is voor bezoekers in de VS en een segment voor financiële ondernemingen, zou een webbezoeker van de Bank of America **zowel het segment voor bezoekers in de VS als het segment voor financiële ondernemingen afstemmen** .
+In Personalisatie van het Web, kan een bezoeker meer dan één segment aanpassen. Als er bijvoorbeeld een segment is voor bezoekers in de VS en een segment voor financiële ondernemingen, zou een webbezoeker van de Bank of America **beide** overeenkomen met het segment voor bezoekers in de VS en het segment voor financiële ondernemingen.
 
-**GRAFIEK:**  Op de pagina Segmenten wordt een staafdiagram weergegeven met de geselecteerde segmenten op basis van het aantal bezoekers van het segment (y-as) en de segmentnaam (x-as).
+**GRAPH:**  Op de pagina Segmenten wordt een staafdiagram weergegeven met een grafiek van de geselecteerde segmenten op basis van het aantal bezoekers van het segment (y-as) en de segmentnaam (x-as).
 
 <table> 
  <thead> 
@@ -54,7 +54,7 @@ In Personalisatie van het Web, kan een bezoeker meer dan één segment aanpassen
  </tbody> 
 </table>
 
-Zie [hoe u segmentlabels kunt maken en weergeven](label-your-segment.md)
+Zie [Segmentlabels maken en weergeven](label-your-segment.md)
 
 **Segmenten - Rechterdeelvenster**
 
@@ -72,30 +72,30 @@ Deze details omvatten:
 * De domeinplaatsen verbonden aan het segment
 * Een korte samenvatting van de geselecteerde criteria van het segment
 
-## Een segment in- of uitschakelen {#enable-or-disable-a-segment}
+## Een segment {#enable-or-disable-a-segment} in- of uitschakelen
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
 Als u een segment wilt in- of uitschakelen, schakelt u het selectievakje van dat segment in de tabel in en schakelt u in het vervolgkeuzemenu Handeling kiezen onder aan de tabel de actie &quot;Inschakelen&quot; of &quot;Uitschakelen&quot; in. Wanneer een segment is uitgeschakeld, wordt het woord &quot;uitschakelen&quot; weergegeven onder de kolom Status.
 
-## Segmenten maken {#create-segments}
+## Segmenten {#create-segments} maken
 
-Het segment dat u maakt, voldoet aan de specifieke criteria die u in de pagina Segment **** instellen hebt gedefinieerd. U kunt uw segmenten ook aanpassen op basis van een combinatie van criteria, waarbij u zich richt op een specifiek publiek in uw campagne.
+Het segment dat u maakt, voldoet aan alle specifieke criteria die u definieert op de pagina **Segment instellen**. U kunt uw segmenten ook aanpassen op basis van een combinatie van criteria, waarbij u zich richt op een specifiek publiek in uw campagne.
 
 Een nieuw segment maken
 
-Klik op de pagina **Segmenten** onder de grafiek op Nieuw **** maken. Het volgende scherm verschijnt.
+Van **Segmenten** pagina, klik **Nieuw** onder de grafiek creëren. Het volgende scherm verschijnt.
 
 ![](assets/four.png)
 
 Definieer algemene parameters voor uw segment:
 
-1. &#x200B;
+1. 
 
    * **Naam:**  Geef uw segment een naam.
-   * **Omschrijving:**  Geef een gedetailleerdere uitleg van de segmentcriteria.
-   * **Domeinen:**  Selecteer het domein of de domeinen u in het segment wilt omvatten.
-   * **Segmentregellogica:**  Selecteer een EN/OR-logica om elk segmenteringskenmerk te maken
+   * **Beschrijving:**  Geef een gedetailleerdere uitleg van de segmentcriteria.
+   * **Domeinen:**  selecteer het domein of de domeinen die u in het segment wilt opnemen.
+   * **Segmentregellogica:**  selecteer een AND/OR-logica om elk segmenteringskenmerk te maken
    * **Timing:** Bepaal het niveau van bezoekersbetrokkenheid u in uw campagne wilt
 
       * **Bij binnenkomst**: Inschakelen van de bezoeker komt op de website
@@ -109,22 +109,24 @@ Definieer algemene parameters voor uw segment:
 >
 >1. Alle filters gebruiken (1 en 2 en 3...)
 >1. Alle filters gebruiken (1, 2 of 3...)
->1. Geavanceerde filters (met en/of expressies)
->    1. &#x200B;
->
->       Met geavanceerde filters kunt u de segmentvoorwaarde bepalen. Voer de filternummers in, gescheiden door &quot;en&quot; en &quot;of&quot;.
->       * 1, 2 en 3
->       * 1 of 2 of 3
->
->       Het mengen van &quot;en&quot; en &quot;of&quot; vereist haakjes om logische intentie te verduidelijken. bijv. &quot;1 of 2 and 3&quot; moet worden geschreven als een van de volgende vermeldingen:
->       * 1 en (2 of 3)
->       * (1 en 2) of 3
->
->       Geneste haakjes worden geaccepteerd voor complexere logica, bijvoorbeeld
->       * (1 en 2) of (3 en 4)
->       * 1 en (2 of (3 en 4))
->
->       Controleer uw logica na het invoegen, verwijderen of opnieuw rangschikken.
+>1. Geavanceerde filters (met en/of expressies) >
+   >    1. >    
+   >       
+
+      >Met geavanceerde filters kunt u de segmentvoorwaarde bepalen. Voer de filternummers in, gescheiden door &quot;en&quot; en &quot;of&quot;.  >
+      >        * 1, 2 en 3
+      >        * 1 of 2 of 3
+
+      >
+      Het mengen van &quot;en&quot; en &quot;of&quot; vereist haakjes om logische intentie te verduidelijken. bijv. &quot;1 of 2 and 3&quot; moet worden geschreven als een van de volgende vermeldingen:  >
+      * 1 en (2 of 3)
+      * (1 en 2) of 3
+
+      Geneste haakjes worden geaccepteerd voor complexere logica, bijvoorbeeld  >
+      * (1 en 2) of (3 en 4)
+      * 1 en (2 of (3 en 4))
+
+      Controleer uw logica na het invoegen, verwijderen of opnieuw rangschikken.
 
 
 
@@ -144,28 +146,28 @@ Sleep **Locatie **naar de segmenteditor.
 * Selecteer een van de volgende parameters:
 
    * **Opnemen **- Selecteer of u een locatie in de campagne wilt opnemen of uitsluiten.
-   * **Selecteer land dat u wilt toevoegen** . Selecteer in de keuzelijst het land dat u wilt opnemen in het segment. De landnaam wordt rechts weergegeven. U kunt meerdere landen kiezen.
+   * **Selecteer land om toe te voegen**  - Van de drop-down doos, selecteer het land u in het segment wenst te omvatten. De landnaam wordt rechts weergegeven. U kunt meerdere landen kiezen.
 
 Zodra het land wordt toegevoegd, kunt u de staat, de plaats en de postcode van het segment ook specificeren.
 
 * **Selecteer Staat of Provincie om toe te voegen** - Van de drop-down doos, selecteer de staat van de V.S. of Canadese Provincie u wenst om te omvatten. U kunt meerdere selecties maken.
-* **Postcode** - Voer de postcode in die u in het segment wilt opnemen.
-* **Steden** - Geef de gewenste stad of steden op. Gebruik een puntkomma tussen steden.
+* **Postcode**  - Voer de postcode in die u in het segment wilt opnemen.
+* **Steden** : ga naar de stad of steden die u wilt opnemen. Gebruik een puntkomma tussen steden.
 
 >[!TIP]
 >
 >**Welke segmentvoorwaarden kies ik? &quot;AND&quot; of &quot;OR&quot;? **OR werkt als een extra optie binnen elk gebied. De vooruitzichten behoeven slechts aan één criterium van de veelvoudige criteria te voldoen die binnen elk gebied worden geselecteerd om voor het segment in aanmerking te komen. (De vooruitzichten kunnen bijvoorbeeld van de V.S. zijn. *of* van de defensie-industrie). EN functioneert als een aanvullende verplichte parameter waaraan voor dit segment moet worden voldaan. (De vooruitzichten moeten bijvoorbeeld zowel vanuit de VS als vanuit de defensie-industrie liggen). Binnen elk segmentatieprofiel kan elk afzonderlijk veld functioneren als zowel &quot;AND&quot; als &quot;OR&quot;, afhankelijk van de geselecteerde segmentvoorwaarde.
 
-**De industrieën** onder de sectie van de Segmentatie **van het** Profiel, controleren de doos naast **Industrie**.
+**** IndustriesSchakel onder de sectie  **Profielsegmentatie het selectievakje naast** Industrie **** in.
 
 * Selecteer een van de volgende parameters:
 
-   * **Omvat** - selecteer of u het segment een industrie wilt omvatten of uitsluiten.
-   * **Selecteer toe te voegen** Industrieën - selecteer de industrie u in het segment wenst te omvatten. De industrie verschijnt onder de drop-down doos. U kunt kiezen uit meerdere industrieën.
+   * **Omvat**  - selecteer of u het segment een industrie wilt omvatten of uitsluiten.
+   * **Selecteer Industrieën om toe te voegen** - Selecteer de industrie u in het segment wenst te omvatten. De industrie verschijnt onder de drop-down doos. U kunt kiezen uit meerdere industrieën.
 
 **Organisatie**
 
-Schakel onder de sectie **Profielsegmentatie** het selectievakje naast **Organisatiegroep in.**
+Schakel onder de sectie **Profielsegmentatie** het vakje naast **Organisatie-groep.** in.
 
 * Selecteer een van de volgende opties in het keuzemenu:
 
@@ -184,17 +186,17 @@ Schakel onder de sectie **Profielsegmentatie** het selectievakje naast **Organis
    * **Is afkomstig van deze ondernemingen (specifieke namen)**
 
       * Selecteer een bedrijf dat u als doel wilt instellen in de vervolgkeuzelijst &#39;Bedrijf selecteren om toe te voegen&#39;.
-      * U kunt de exacte organisatienaam typen waarop u zich wilt richten. *Het wordt altijd *aangeraden om lijsten met benoemde accounts te gebruiken in plaats van de namen handmatig in te voeren voor betere overeenkomsten (zie hieronder).*
+      * U kunt de exacte organisatienaam typen waarop u zich wilt richten. *Het is *always *geadviseerd om de Lijsten van de Benoemde Rekening te gebruiken in plaats van de namen manueel voor betere gelijken (zie hieronder) te typen.*
 
 **Lijst met benoemde accounts**
 
-Selecteer een optie in de lijst [](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) Benoemde account om de belangrijkste doelaccounts te segmenteren
+Selecteer uit een [Benoemde Lijst van de Rekening](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) om zeer belangrijke gerichte rekeningen te segmenteren
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
 >
->Het getal tussen de haakjes naast de naam van de lijst Benoemde account wordt gebruikt als indexverwijzing voor de lijst voor [lees-API](http://developers.marketo.com/documentation/websites/rtp-js-api/)voor webpersonalisatie.
+>Het aantal tussen de haakjes naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor de Personalisering van het Web [Lees API](http://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **ISP uitsluiten**
 
@@ -206,7 +208,7 @@ Sluit de Dienstverleners van Internet (ISPs) van het segment uit.
 
 De Personalisatie van het Web integreert met uw Gegevensbestand van het Marketo, toestaand u om campagnes door bekende persoonattributen en gegevens te segmenteren en te personaliseren.
 
-Selecteer Gegevensbestand, en selecteer een gebied van persoongegevens van drop-down. Selecteer **+** om velden uit de vervolgkeuzelijst toe te voegen.
+Selecteer Gegevensbestand, en selecteer een gebied van persoongegevens van drop-down. Selecteer   **+** om gebieden van drop-down toe te voegen.
 
 ![](assets/seven.png)
 
@@ -218,7 +220,7 @@ U kunt gegevensvelden voor personen toevoegen of verwijderen uit Account Setting
 >
 >Eg. &quot;Functie is gelijk aan GMO&quot; en &quot;Score is kleiner dan of gelijk aan 50&quot;
 
-**Marketo Email Campaign** Segment en personaliseer campagnes via e-mail door een bezoeker die op een Marketo-e-mail klikt en op de site arriveert. Segment door de Naam van het Programma van Marketo of de Naam van de Campagne en vervolg het gesprek van e-mail aan Web. Selecteer + om gebieden van drop-down toe te voegen.
+**Marketo-e-** mailcampagneSegment maken en campagnes personaliseren door een bezoeker die op een Marketo-e-mail klikt en op de site arriveert via e-mail te verwijzen. Segment door de Naam van het Programma van Marketo of de Naam van de Campagne en vervolg het gesprek van e-mail aan Web. Selecteer + om gebieden van drop-down toe te voegen.
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
@@ -235,7 +237,7 @@ Bepaal uw segment volgens de status van een vooruitzicht: bekend of anoniem.
 
 ### Gedrag {#behavioral}
 
-**Bezoekingen -** Het segment definiëren op basis van het gedrag van de bezoeker of het identificeren.
+**Bezoekingen -** Definieer het segment op basis van het gedrag van de bezoeker of identificeer het.
 
 * 
 
@@ -247,25 +249,25 @@ Bepaal uw segment volgens de status van een vooruitzicht: bekend of anoniem.
       * Voer in het tekstvak rechts het bezoekersnummer in dat u wilt bijhouden. Het unieke identificatienummer van de bezoeker van de Personalisatie van het Web kan worden gevonden wanneer het klikken op een bezoeker (op de bezoekerspagina) en de Vastgestelde Campagne op het juiste zijpaneel. De bezoeker-id bevindt zich in het gedeelte Geavanceerde instellingen. De bezoekersidentiteitskaart kan ook in URL (b.v. VISITOR=JZJIFJNUI60PZ8Y97BHTY9BL8PKWS) worden gevonden.
 
 
-**Zoektermen** - Definieer een segment volgens de zoektermen van een perspectief.
+**Zoektermen**  - Definieer een segment volgens de zoektermen van een perspectief.
 
 * 
 
    * De bezoeker heeft gezocht naar - Van de drop-down lijst, selecteer de termijnen u van uw bezoekersonderzoek wilt volgen, of uw eigen onderzoekstermijnen toevoegen. (Het jokerteken * is niet nodig voor zoektermen omdat dit standaard is ingesteld om woordgroepen met de zoekterm op te nemen.)
 
-**Verwijzingen** - Voeg URL&#39;s toe waarnaar de bezoeker heeft verwezen.
+**Verwijzingen**  - URL&#39;s toevoegen waarnaar de bezoeker heeft verwezen.
 
 * 
 
    * Selecteer verwijzingen die u wilt toevoegen - Selecteer in de vervolgkeuzelijst de verwijzingssites die u wilt bijhouden of voeg uw eigen verwijzing toe. Als deze optie is geselecteerd, worden de verwijzingen weergegeven in het onderstaande vak. (Het gebruik van * als jokerteken is toegestaan)
 
-**Pagina&#39;s** opnemen - Houd rekening met de vooruitzichten voor specifieke pagina&#39;s die op uw website worden bezocht.
+**Inclusief pagina** &#39;s - Houd rekening met de vooruitzichten voor specifieke pagina&#39;s die op uw website worden bezocht.
 
 * 
 
    * URL-overeenkomsten - Voeg de URL toe van specifieke webpagina&#39;s die u wilt bijhouden. U kunt meerdere URL&#39;s toevoegen door deze te scheiden met een puntkomma. (Het gebruik van * als jokerteken is toegestaan.)
 
-**Pagina&#39;s** uitsluiten - Sluit specifieke pagina&#39;s uit die u niet wilt afstemmen in het segment. (Het gebruik van * als jokerteken is toegestaan.)
+**Pagina&#39;s**  uitsluiten - Sluit specifieke pagina&#39;s uit die u niet wilt afstemmen in het segment. (Het gebruik van * als jokerteken is toegestaan.)
 
 * 
 
@@ -284,13 +286,13 @@ Het mobiele besturingssysteem naar de Segment-editor slepen
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **Type bezoeker **
-   **Mobiel besturingssysteem** - Selecteer in de keuzelijst een of meer vermelde mobiele besturingssystemen. Het geselecteerde mobiele besturingssysteem wordt hieronder weergegeven.
+   **Mobiel besturingssysteem** : selecteer in de keuzelijst een of meer vermelde mobiele besturingssystemen. Het geselecteerde mobiele besturingssysteem wordt hieronder weergegeven.
 
    * De bezoeker gebruikt een mobiel apparaat ***
    * De bezoeker gebruikt dit specifieke apparaat/besturingssysteem
    * De bezoeker gebruikt geen mobiel apparaat
 
-* **Apparaat** - Selecteer in de vervolgkeuzelijst een of meer apparaten (Apple, Samsung, LG, HTC, Nexus, Blackberry enz.). De geselecteerde apparaten worden hieronder weergegeven.
+* **Apparaat**   - Selecteer in de vervolgkeuzelijst een of meer apparaten (Apple, Samsung, LG, HTC, Nexus, Blackberry enz.). De geselecteerde apparaten worden hieronder weergegeven.
 
 **Browser**
 
@@ -303,37 +305,37 @@ Doelbezoeker die specifieke browsertypen en/of versies gebruikt.
 
 ### API {#api}
 
-**Gebeurtenissen** van gegevens - de bezoekers van het segment die specifieke Gebeurtenissen van de Gegevens van de Douane teweegbrengen
+**Gebeurtenissen**  gegevens - bezoekers van segmenten die specifieke gebeurtenissen van de Gegevens van de Douane teweegbrengen
 
 Voeg de waarde van de Gebeurtenis toe u wilt richten. Bijvoorbeeld uit gegevensbronnen van derden.
 
 **Context-API van gebruiker**
 
-Web Personalization API call [read more about it here.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Web Personalization API call [read meer over het hier.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**Met jokertekens - **Wanneer u een zoekterm of URL wilt opnemen die iets in de naam bevat, dat wil zeggen: &quot; [google.com](http://google.com)&quot; of &quot;zoekterm product&quot;, noemen wij dit een jokerteken en het zou met een asterisk - deze kleine kerel* - op elk eind moeten worden ingevoerd. Alles wat afkomstig is van [google.com](http://google.com) moet worden ingevoerd als * [google.com](http://google.com)*
+>**Met jokertekens - **Wanneer u een zoekterm of URL wilt opnemen die iets in de naam bevat, dat wil zeggen: &quot;[google.com](http://google.com)&quot;of &quot;onderzoek term product&quot;, noemen wij dit een vervangingskaart en het zou met een asterisk - deze kleine kerel* - op elk eind moeten worden ingevoerd. Daarom moet alles wat afkomstig is van [google.com](http://google.com) worden ingevoerd als * [google.com](http://google.com)*
 
-## Segmenten bewerken {#edit-segments}
+## Segmenten {#edit-segments} bewerken
 
 U kunt een segment bewerken dat is gemaakt.
 
-1. Ga naar **Segmenten** om een segment te bewerken.
+1. Als u een segment wilt bewerken, gaat u naar **Segmenten**.
 
    ![](assets/image2014-11-12-11-3a38-3a22.png)
 
-1. Klik in de tabel **Segmenten** op het bewerkingspictogram ( ![](assets/segment-edit.png)) van het segment dat u wilt bewerken. De pagina Segment **** instellen wordt geopend met het geselecteerde segment.
+1. Klik in de tabel **Segmenten** op het bewerkingspictogram ( ![](assets/segment-edit.png)) van het segment dat u wilt bewerken. De pagina **Segment instellen** wordt geopend met het geselecteerde segment.
 1. Pas eventuele bewerkingen of wijzigingen toe die u op het segment wilt aanbrengen.
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
-## Segmenten verwijderen {#delete-segments}
+## Segmenten {#delete-segments} verwijderen
 
 U kunt segmenten verwijderen die u hebt gemaakt.
 
-1. Selecteer een segment op de bovenstaande pagina **Segmenten** .
-1. Klik op het verwijderpictogram ( ![](assets/segment-delete.png) ) van het segment**** dat u wilt verwijderen.
-1. Er wordt een bevestigingsbericht weergegeven met de bevestiging dat u op het punt staat het **segment** te verwijderen.
+1. Selecteer een segment op de bovenstaande pagina **Segmenten**.
+1. Klik op het verwijderpictogram ( ![](assets/segment-delete.png)) van het segment***** dat u wilt verwijderen.
+1. Er wordt een bevestigingsbericht weergegeven waarin wordt bevestigd dat u op het punt staat het **Segment** te verwijderen.
 
 >[!NOTE]
 U kunt geen segment verwijderen dat aan een campagne is gekoppeld. Eerst moet u de campagne en dan het segment schrappen.
