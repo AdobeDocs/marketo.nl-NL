@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Herinnering**
 >
->Bestaande klanten, [werk uw MSI-pakket](http://docs.marketo.com/x/_gU6Ag) bij voordat u verdergaat!
+>Bestaande klanten, [Upgrade uw MSI-pakket](http://docs.marketo.com/x/_gU6Ag) voordat u verdergaat!
 
 >[!PREREQUISITES]
 >
@@ -43,7 +43,7 @@ Als u Salesforce Professional heeft:
 >Marketo Sales Insight in Salesforce1 omvat: Best Bets, Lead Feed, Interesting Moments en Add to Marketo Campaign.
 
 1. De mobiele toepassing Salesforce1 inschakelen
-1. Klik **Opstelling** en dan **Mobiel Beleid**.
+1. Klik **Setup** en dan **Mobiel Beleid**.
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
@@ -51,15 +51,15 @@ Als u Salesforce Professional heeft:
 
    ![](assets/image2015-4-21-15-3a30-3a51.png)
 
-1. Klik op **Salesforce1-instellingen**.
+1. Klik op **Salesforce1 Settings**.
 
    ![](assets/image2015-4-21-15-3a32-3a21.png)
 
-1. Klik op **Enable the Salesforce1 mobile browser app**.
+1. Klik op **Schakel de mobiele browser app** van Salesforce1 in.
 
    ![](assets/image2015-4-21-15-3a34-3a27.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/image2015-4-21-15-3a42-3a48.png)
 
@@ -67,7 +67,7 @@ Als u Salesforce Professional heeft:
 
    ![](assets/image2015-4-22-11-3a10-3a14.png)
 
-1. Klik op **Het navigatiemenu** voor mobiele apparaten beheren.
+1. Klik op **Het mobiele navigatiemenu beheren**.
 
    ![](assets/image2015-4-22-11-3a13-3a10.png)
 
@@ -75,16 +75,16 @@ Als u Salesforce Professional heeft:
 
    ![](assets/image2015-4-22-14-3a55-3a37.png)
 
-1. Selecteer **Marketo**, verplaats het **Up **naar een gewenst gebied en klik op **Opslaan**.
+1. Selecteer **Marketo**, verplaats het **Up **to een gewenst gebied en klik **Save**.
 
    ![](assets/image2015-4-22-17-3a20-3a56.png)
 
 1. Verouderd Marketo-aangepast object verbergen
-1. Klik op **Instellen**.
+1. Klik **Setup**.
 
    ![](assets/image2015-4-22-15-3a13-3a48.png)
 
-1. Selecteer Gebruikers **beheren**.
+1. Selecteer **Gebruikers beheren**.
 
    ![](assets/image2015-5-5-11-3a13-3a45.png)
 
@@ -96,7 +96,7 @@ Als u Salesforce Professional heeft:
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
-1. Selecteer onder **Tabinstellingen** de *eerste* **markering**.
+1. Selecteer onder **Tabinstellingen** *first* **Marketo**.
 
    ** ![](assets/image2015-5-5-13-3a55-3a36.png)
 
@@ -117,24 +117,24 @@ Als u Salesforce Professional heeft:
 
    ![](assets/image2015-4-22-17-3a14-3a49.png)
 
-1. Klik op Mijn tabbladen **aanpassen**.
+1. Klik **Mijn tabbladen aanpassen**.
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
-1. Selecteer **Marketo** en **Add **it aan de Geselecteerde Lusjes.
+1. Selecteer **Marketo** en **Voeg * het aan de Geselecteerde Lusjes toe.
 
    ![](assets/image2015-4-22-17-3a17-3a15.png)
 
-1. Selecteer **Marketo**, verplaats het **Up **naar een gewenst gebied en klik op **Opslaan**.
+1. Selecteer **Marketo**, verplaats het **Up **to een gewenst gebied en klik **Save**.
 
    ![](assets/image2015-4-22-18-3a29-3a47.png)
 
 1. Paginalay-outs aanpassen
-1. Klik op **Instellen**.
+1. Klik **Setup**.
 
    ![](assets/image2015-4-22-17-3a26-3a56.png)
 
-1. Klik op **Instellen**, typ **Paginalay-outs** en klik op **Paginalay-outs** onder Leads.
+1. Klik **Setup**, typ **Paginalay-outs** en klik **Paginalay-outs** onder Leads.
 
    >[!NOTE]
    >
@@ -142,11 +142,11 @@ Als u Salesforce Professional heeft:
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
-1. Klik op **Bewerken** om de layout van de lead te wijzigen.
+1. Klik op **Bewerken** om wijzigingen aan te brengen in de layout van de lead.
 
    ![](assets/image2015-4-22-17-3a44-3a0.png)
 
-1. Klik op **Pagina&#39;s visualiseren **en sleep** Lood mobiel **naar de sectie Mobiele kaarten.
+1. Klik op **Pagina&#39;s **visualiseren en sleep dan** Mobiele lood **naar de sectie Mobiele kaarten.
 
    ![](assets/image2015-4-22-17-3a49-3a37.png)
 
@@ -154,7 +154,7 @@ Als u Salesforce Professional heeft:
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. Klik op **Velden** en sleep **Toevoegen aan Marketo-campagne **aan het** gedeelte Marktverkoop **sectie.
+1. Klik **Fields** en sleep **Add aan Marketo Campaign **aan** de sectie van het Inzicht van de Verkoop van de Marketo **sectie.
 
    ![](assets/configure-step-6.png)
 
@@ -162,7 +162,7 @@ Als u Salesforce Professional heeft:
    >
    >Typ &quot;Toevoegen aan&quot; in de Snelle zoekopdracht om Toevoegen aan Marketo-campagne gemakkelijk te vinden.
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
