@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Melding van mobiele pushberichten configureren {#configure-mobile-push-notification}
+# Mobiele pushmelding configureren {#configure-mobile-push-notification}
 
 1. Ga naar het gebied Marketingactiviteiten.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
-1. Selecteer uw drukker en klik op Concept **** bewerken.
+1. Selecteer uw drukker en klik **Concept** bewerken.
 
    ![](assets/image2016-8-23-16-3a49-3a48.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Voer een berichttekst in of selecteer het tokenpictogram om tokens toe te voegen. Selecteer vervolgens een **Tikactie**.
+1. Voer een berichttekst in of selecteer het tokenpictogram om tokens toe te voegen. Selecteer vervolgens een **Tik op handeling**.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -53,15 +53,15 @@ ht-degree: 0%
    >Er zijn drie typen** Tikacties:**
    >
    >
-   >**App** starten - **Deze app** opent de startpagina van uw app wanneer op het bericht wordt getikt. **Aangepast** gebruikt een diepe koppeling om andere delen van uw app of een andere app te openen waarnaar u de koppeling hebt (zie URI&#39;s van [Diepe koppeling](#Deeplink) hieronder voor meer informatie).
+   >**Start app**  -  **Deze** app opent de startpagina van uw app wanneer op het bericht wordt getikt. **De** klant gebruikt een diepe koppeling om andere delen van uw app of een andere app te openen waarnaar u de koppeling hebt (zie  [Diep koppeling ](#Deeplink) URIsonderaan voor meer informatie).
    >
    >
-   >**Openingspagina** - hiermee gaat u naar een opgegeven bestemmingspagina van Marketo.
+   >**Openingspagina**  - hiermee gaat u naar een opgegeven bestemmingspagina van Marketo.
    >
    >
-   >**Externe URL** - hiermee gaat u naar een landingspagina die niet van markeertekens is.
+   >**Externe URL** : hiermee gaat u naar een landingspagina die niet van markeertekens is.
 
-   Als u een diepe koppeling wilt invoegen voor een aangepaste tikactie, klikt u op Aangepast en voert u de [diepe koppeling-URI](#Deeplink) in het veld in.
+   Als u een diepe koppeling wilt invoegen voor een aangepaste tikactie, klikt u op Aangepast en voert u de [diepe koppeling URI](#Deeplink) in het veld in.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
@@ -85,7 +85,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Klik op **GOEDKEUREN EN SLUITEN**.
+1. Klik **GOEDKEUREN EN SLUITEN**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -99,7 +99,7 @@ Een diepe verbinding URI bestaat uit drie delen: schemanaam, weg, en herkennings
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-De structuur van de diepe koppeling in uw app kan echter afwijken van het bovenstaande voorbeeld. Uw ontwikkelaar heeft vele opties in het bepalen van diepe verbinding URI&#39;s, zodat vraag uw ontwikkelaar om u URIs (verbindingen) voor de pagina&#39;s te verzenden u geinteresseerd bent in het gebruiken. Zo zorgt u ervoor dat de URI&#39;s die u invoert in de pushberichten naar de juiste plaatsen verwijzen. Uw ontwikkelaar kan hier [meer informatie](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/)vinden.
+De structuur van de diepe koppeling in uw app kan echter afwijken van het bovenstaande voorbeeld. Uw ontwikkelaar heeft vele opties in het bepalen van diepe verbinding URI&#39;s, zodat vraag uw ontwikkelaar om u URIs (verbindingen) voor de pagina&#39;s te verzenden u geinteresseerd bent in het gebruiken. Zo zorgt u ervoor dat de URI&#39;s die u invoert in de pushberichten naar de juiste plaatsen verwijzen. Uw ontwikkelaar kan [hier meer informatie ](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/) vinden.
 
 >[!MORELIKETHIS]
 >
