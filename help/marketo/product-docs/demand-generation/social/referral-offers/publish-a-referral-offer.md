@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Een verwijzingsvoorstel publiceren {#publish-a-referral-offer}
+# Een verwijzingsvoorstel {#publish-a-referral-offer} publiceren
 
-Nadat u een verwijzingsvoorstel [hebt](create-a-referral-offer.md)gemaakt, kunt u het publiceren op uw Marketo-bestemmingspagina&#39;s, op Facebook en op uw website.
+Nadat u [een verwijzingsaanbieding ](create-a-referral-offer.md) creeert, kunt u het op uw Marketo landende pagina&#39;s, op Facebook, en op uw website publiceren.
 
 1. Navigeer naar de bestemmingspagina en open deze voor bewerking.
 
    ![](assets/image2014-9-19-11-3a15-3a30.png)
 
-1. Sleep over het **Verwijzingsaanbod** vanuit het palet aan de rechterkant.
+1. Sleep over **Referral-aanbod** vanuit het palet aan de rechterkant.
 
    ![](assets/image2014-9-19-11-3a15-3a42.png)
 
-1. Selecteer uw verwijzingsvoorstel en klik **Tussenvoegsel**.
+1. Selecteer uw verwijzingsaanbieding en klik **Tussenvoegsel**.
 
    ![](assets/image2014-9-19-11-3a15-3a52.png)
 
@@ -33,7 +33,7 @@ Nadat u een verwijzingsvoorstel [hebt](create-a-referral-offer.md)gemaakt, kunt 
 >
 >Je moet je verwijzingsvoorstel goedkeuren om het hier beschikbaar te maken.
 
-Gefeliciteerd! Goedkeuren van de bestemmingspagina en uw doorverwijzing is live. U kunt de openingspagina ook naar Facebook [](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) publiceren of het voorstel [op uw website](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)plaatsen.
+Gefeliciteerd! Goedkeuren van de bestemmingspagina en uw doorverwijzing is live. U kunt de openingspagina ook [publiceren op Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [plaatst de aanbieding op uw website](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
