@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De Lead Feed gebruiken {#using-the-lead-feed}
+# Het gebruiken van het Loodvoer {#using-the-lead-feed}
 
 De Lead Feed is een actuele lijst met interessante gebeurtenissen die door uw leads worden uitgevoerd. U vindt de markering aan de rechterkant wanneer u op het tabblad Marketo klikt. Het is als een RSS- of Twitter-feed - de meest recente updates staan boven aan de lijst. Gebruik dit om naar voorsprong te springen terwijl je nog vers in hun hoofd bent.
 
@@ -82,7 +82,7 @@ U kunt ook updates voor Diervoeder voor leads ophalen via RSS-feed.  Met een RSS
 
 >[!NOTE]
 >
->De beheerder van de Marketo van uw bedrijf moet het voer [van RSS](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) toelaten om dit te werken.
+>De beheerder van de Marketo van uw bedrijf moet [RSS voer ](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) voor dit toelaten om te werken.
 
 Voor RSS-updates hebt u twee dingen nodig: de RSS-koppeling en een RSS-voederlezer. U kunt de RSS-koppeling ophalen door op het RSS-pictogram in de lead feed te klikken:   ![](assets/three.png)
 
