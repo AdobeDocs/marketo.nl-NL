@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een Opportunity Influence Analyzer maken {#create-an-opportunity-influence-analyzer}
+# Maak een Opportunity Influence Analyzer {#create-an-opportunity-influence-analyzer}
 
 Gebruik de Analysator van de Invloed van de Kans om de bijdrage van de marketing aan een belangrijke overeenkomst te tonen. Bekijk uw programma- en gebeurtenissuccessen en interessante momenten in het leven van een kans.
 
@@ -21,31 +21,31 @@ Gebruik de Analysator van de Invloed van de Kans om de bijdrage van de marketing
 >
 >Om goede informatie van een Analysator van de Invloed van de Mogelijkheid te krijgen, zorg ervoor dat uw contacten aan de kansen in uw CRM in bijlage zijn.
 
-1. Klik op **Analytics**.
+1. Klik **Analytics**.
 
    ![](assets/analytics.png)
 
-1. Klik op **Opportunity Influence Analyzer**.
+1. Klik **De Analysator van de Invloed van de Kans**.
 
    ![](assets/two.png)
 
-1. Selecteer de account in het deelvenster **Instellingen** .
+1. Selecteer de account in het deelvenster **Instellingen**.
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
    >[!NOTE]
    >
-   >Als u een waarschuwing ontvangt dat er geen activiteiten waren tijdens het tijdsbestek, klikt u gewoon op **Sluiten**. We zullen daar na de volgende stap op terugkomen.
+   >Als u een waarschuwing ontvangt dat er geen activiteiten tijdens het tijdkader waren, enkel klikken **Close**. We zullen daar na de volgende stap op terugkomen.
 
 1. Selecteer de mogelijkheid in dat account.
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. Stel de tijdsperiode in. Klik op het tabblad **Setup** en dubbelklik op **Tijdkader**.
+1. Stel de tijdsperiode in. Klik **Opstelling** tabel en dubbelklik **Tijdkader**.
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
-1. Selecteer de periode van de gelegenheid u wenst om te analyseren en te klikken **sparen**.
+1. Selecteer de tijdsperiode van de mogelijkheid die u wilt analyseren en klik op **Opslaan**.
 
    ![](assets/image2014-9-17-8-3a57-3a27.png)
 
@@ -60,7 +60,7 @@ Gebruik de Analysator van de Invloed van de Kans om de bijdrage van de marketing
 
 >[!TIP]
 >
->U kunt ook een video bekijken over de Analysator van de Invloed van de Kans in [Marketo Universiteit](https://learn.marketo.com). (Het ziet er nu een beetje anders uit, maar er is nog veel te leren!)
+>U kunt ook een video over de Analysator van de Invloed van de Mogelijkheid in [Universiteit van Marketo](https://learn.marketo.com) bekijken. (Het ziet er nu een beetje anders uit, maar er is nog veel te leren!)
 
 >[!MORELIKETHIS]
 >
