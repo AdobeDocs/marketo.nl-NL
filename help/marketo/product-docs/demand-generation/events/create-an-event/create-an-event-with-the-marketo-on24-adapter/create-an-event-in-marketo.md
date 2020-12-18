@@ -19,9 +19,9 @@ Hieronder wordt beschreven hoe de gegevens worden uitgewisseld:
 
 ![](assets/image2015-12-16-13-33-56.png)
 
-Wanneer u de gebeurtenis Marketo maakt, selecteert u **Webinar** als het kanaaltype. U kunt dit kanaal bewerken in Admin en een nieuw kanaal maken. Als u een nieuw kanaal creeert, moet het van het type **Gebeurtenis met Webinar** voor de integratie zijn te werken. Zie [Een programmakanaal](../../../../../product-docs/administration/tags/create-a-program-channel.md) maken voor meer informatie.
+Wanneer u de gebeurtenis Marketo maakt, selecteert u **Webinar** als het kanaaltype. U kunt dit kanaal bewerken in Admin en een nieuw kanaal maken. Als u een nieuw kanaal creeert, moet het van het type **Gebeurtenis met Webinar** voor de integratie zijn om te werken. Zie [Een programmakanaal maken](../../../../../product-docs/administration/tags/create-a-program-channel.md) voor meer informatie.
 
-In de volgende stap [configureert u gebeurtenisinstellingen en synchroniseert u Marketo met uw webinar](https://docs.marketo.com/x/IRCa).
+Uw volgende stap bestaat uit het [configureren van gebeurtenisinstellingen en het synchroniseren van Marketo met uw webinar](https://docs.marketo.com/x/IRCa).
 
 >[!MORELIKETHIS]
 >
