@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Beveiliging mobiele toegang verifiëren {#authenticate-mobile-access-security}
+# Beveiliging voor mobiele toegang verifiëren {#authenticate-mobile-access-security}
 
 Marketo biedt twee nieuwe id&#39;s om de beveiliging voor mobiele gebruikers te verbeteren: de Sleutel van de Toegang en het Geheime toegang. Deze helpen ervoor te zorgen dat gebruikers die zich aanmelden bij uw app, zijn wie ze lijken te zijn.
 
@@ -21,7 +21,7 @@ Als u de id&#39;s wilt inschakelen, moet u de codes aanschaffen en deze aan uw I
 >
 >Om deze functie in te schakelen, neemt u contact op met de ondersteuningsafdeling en vraagt u om &quot;Vespa Secure Mode&quot;.
 
-1. Selecteer **Admin **in Marketo en klik op **Mobiele apps en apparaten**.
+1. Selecteer **Admin **in Marketo en klik op **Mobiele toepassingen en apparaten**.
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -29,11 +29,11 @@ Als u de id&#39;s wilt inschakelen, moet u de codes aanschaffen en deze aan uw I
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. De rol neer en in de sectie van de Veiligheid van de Toegang, **geeft de klik uit**.
+1. De rol neer en in de sectie van de Veiligheid van de Toegang, klikt **geeft** uit.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Schakel het selectievakje** Beveiliging inschakelen* in. Klik op **Opslaan**.
+1. Schakel het selectievakje** Beveiliging inschakelen* in. Klik **Opslaan**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 
