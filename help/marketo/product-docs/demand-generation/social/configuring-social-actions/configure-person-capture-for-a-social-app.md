@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Vastleggen van persoon configureren voor een sociale app {#configure-person-capture-for-a-social-app}
+# Vastleggen van persoon configureren voor een sociale toepassing {#configure-person-capture-for-a-social-app}
 
-Wanneer u een [verwijzingsaanbieding](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of een [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)creeert, kunt u vormen welke informatie u verzoekt en welke informatie u van mensen vereist om aan deel te nemen.
+Wanneer u een [verwijzingsaanbod](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) creeert, kunt u vormen welke informatie u verzoekt en welke informatie u van mensen vereist om aan deel te nemen.
 
 >[!NOTE]
 >
 >De mensen worden slechts veroorzaakt voor deze informatie als zij het niet eerder hebben verstrekt.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma-2.png)
 
-1. Selecteer de app en klik op Concept **bewerken.**
+1. Selecteer de app en klik op **Concept bewerken.**
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. Ga in de sociale app-editor naar **Sign-Up Flow** > **Person Capture.**
+1. Ga in de sociale app-editor naar **Aanmeldingsstroom** > **Vastleggen persoon.**
 
    ![](assets/three-1.png)
 
@@ -42,13 +42,13 @@ Wanneer u een [verwijzingsaanbieding](../../../../product-docs/demand-generation
 
    >[!NOTE]
    >
-   >In beide gevallen ontvangen de deelnemers nog steeds de [*operationele* e-mails](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) van uw voorstel.
+   >In beide gevallen ontvangen deelnemers nog steeds de [*operationele* e-mails](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) van uw aanbieding.
 
-1. Klik in het venster Weergave en bewerken op **Bewerken** tonen en bewerk de berichten in de gedeelde vraag.
+1. Klik in het venster Weergave en bewerken op **Bewerkingen tonen** en bewerk de berichten in de gedeelde vraag.
 
    ![](assets/image2014-9-22-11-3a2-3a56.png)
 
 >[!MORELIKETHIS]
 >
->Nu kunt u de sociale inschrijvingsstroom [](configure-social-sign-up-share-flow.md) vormen en de aandeelberichten uitgeven die aan elk sociaal netwerk zullen worden gepost.
+>Nu kunt u [de social sign-up flow](configure-social-sign-up-share-flow.md) vormen en de aandeelberichten uitgeven die aan elk sociaal netwerk zullen worden gepost.
 
