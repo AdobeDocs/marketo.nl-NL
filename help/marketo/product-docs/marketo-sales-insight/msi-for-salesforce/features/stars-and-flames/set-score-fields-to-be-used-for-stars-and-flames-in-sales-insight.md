@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De Gebieden van de Score plaatsen die voor Sterren en Vlamjes in het Inzicht van de Verkoop moeten worden gebruikt {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# De Gebieden van de Score plaatsen die voor Sterren en Vlammen in het Inzicht van de Verkoop {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight} moeten worden gebruikt
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Standaard gebruikt Marketo Sales Insight het veld **Loodscore** om sterren en vl
 
 >[!TIP]
 >
->Als je nog geen aangepaste score hebt, kun je deze [](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)maken.
+>Als u uw gebieden van de douanescore nog niet hebt, is hier hoe te [creeer ](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)hen.
 
 >[!NOTE]
 >
@@ -34,19 +34,19 @@ Standaard gebruikt Marketo Sales Insight het veld **Loodscore** om sterren en vl
 
 
 
-1. Klik onder **Beheer** op **Verkoopoverzicht**.
+1. Klik onder **Admin** op **Sales Insight**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. Klik onder Instellingen voor scores **lead** op **Bewerken**.
+1. Klik onder **Instellingen voor toonscore** op **Bewerken**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Selecteer het veld dat u voor **sterren** wilt gebruiken.
+1. Selecteer het gebied u voor **Sterren** wilt gebruiken.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Selecteer het veld dat u voor **Flames** wilt gebruiken.
+1. Selecteer het veld dat u wilt gebruiken voor **Flames**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
