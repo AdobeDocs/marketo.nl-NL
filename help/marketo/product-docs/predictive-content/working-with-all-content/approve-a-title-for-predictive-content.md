@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Een titel voor preventieve inhoud goedkeuren {#approve-a-title-for-predictive-content}
+# Een titel voor voorspellende inhoud goedkeuren {#approve-a-title-for-predictive-content}
 
 >[!NOTE]
 >
->Afhankelijk van de aankoopdatum kan uw abonnement op Marketo de optie Voorspelende inhoud of Inhoud`<sup>AI</sup>`markeren bevatten. Marketo schakelt de functie Content`<sup>AI</sup>` Analytics voor gebruikers die gebruikmaken van voorspellende inhoud in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager Succes bij Marketo-klanten om te upgraden naar Marketo-inhoud`<sup>AI</sup>`.
+>Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
 U kunt elke gewenste titel op de pagina Alle inhoud toevoegen aan voorspellende inhoud door deze goed te keuren op de pagina Alle inhoud of het pop-upmenu Inhoud bewerken.
 
@@ -25,11 +25,11 @@ U kunt elke gewenste titel op de pagina Alle inhoud toevoegen aan voorspellende 
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Klik op de vervolgkeuzelijst **Inhoudsacties** en selecteer **Goedkeuren voor preventieve inhoud**.
+1. Klik op de vervolgkeuzelijst **Inhoudsacties** en selecteer **Goedkeuren voor voorspellende inhoud**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
-## Pop-up Inhoud bewerken {#edit-content-pop-up}
+## Pop-up {#edit-content-pop-up} Inhoud bewerken
 
 U kunt titels voor voorspellende inhoud ook direct goedkeuren op Edit Inhoud pop-up.
 
@@ -37,7 +37,7 @@ U kunt titels voor voorspellende inhoud ook direct goedkeuren op Edit Inhoud pop
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Schakel het vak **Goedkeuren voor voorspellende inhoud** in het pop-upvenster Inhoud bewerken in en klik op **Opslaan**.
+1. Schakel het selectievakje **Goedkeuren voor voorspellende inhoud** in het pop-upvenster Inhoud bewerken in en klik op **Opslaan**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
