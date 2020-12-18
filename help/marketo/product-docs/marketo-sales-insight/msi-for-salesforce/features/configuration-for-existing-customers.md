@@ -19,34 +19,34 @@ Stel de volgende configuratie in om te beginnen met het gebruik van het nieuwe d
 >
 >Zorg ervoor dat u het Salesforce-pakket hebt bijgewerkt naar de nieuwste versie
 
-## Verkoopinzicht configureren in Marketo {#configure-sales-insight-in-marketo}
+## Het Inzicht van de Verkoop in Marketo {#configure-sales-insight-in-marketo} vormen
 
 1. Open een nieuw tabblad in uw browser om de gegevens van Marketo Sales Insights van uw Marketo-account op te halen.
-1. Ga naar het gebied **Beheer** .
+1. Ga naar **Admin** gebied.
 
    ![](assets/configure-1.png)
 
-1. Klik op **Verkoopoverzicht**.
+1. Klik **Sales Insight**.
 
    ![](assets/configure-2.png)
 
-1. Klik op **Weergave** om de referenties van de rest-API in te vullen.
+1. Klik **View** om de referenties van de rest-API te vullen.
 
    ![](assets/configure-3.png)
 
-1. Er verschijnt een bevestigingspop-up. Klik op **OK**.
+1. Er verschijnt een bevestigingspop-up. Klik **OK**.
 
-## Verkoopinzicht configureren in Salesforce {#configure-sales-insight-in-salesforce}
+## Het Inzicht van de Verkoop in Salesforce {#configure-sales-insight-in-salesforce} vormen
 
-1. Klik in Salesforce op **Instellen**.
+1. Klik in Salesforce op **Setup**.
 
    ![](assets/sfdc-1.png)
 
-1. Zoek naar en selecteer de Montages **van de** Verre Plaats.
+1. Zoek naar en selecteer **Verre Montages van de Plaats**.
 
    ![](assets/sfdc-2.png)
 
-1. Klik op **Nieuwe externe site**.
+1. Klik **Nieuwe verre Plaats**.
 
    ![](assets/sfdc-3.png)
 
@@ -54,7 +54,7 @@ Stel de volgende configuratie in om te beginnen met het gebruik van het nieuwe d
 
    ![](assets/sfdc-4.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/sfdc-5.png)
 
