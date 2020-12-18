@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-mailkolommen en indeling van e-mailpagina {#email-columns-and-email-page-layout}
+# E-mailkolommen en e-mailpaginalayout {#email-columns-and-email-page-layout}
 
 U kunt om het even welke beschikbare kolommen vormen om in de e-mailsectie van het Centrum van het Bevel zichtbaar te zijn. Uw configuratie-instellingen worden opgeslagen voor elke e-mailsubmap (bijv. Afbezorgd, Mislukt, Gepland, enz.).
 
@@ -122,7 +122,7 @@ U kunt uw lay-out vormen door deze stappen te volgen.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Selecteer de sectie **E-mails** .
+1. Selecteer de sectie **E-mail**.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
