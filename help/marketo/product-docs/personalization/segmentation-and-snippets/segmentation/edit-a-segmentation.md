@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Een segmentatie bewerken {#edit-a-segmentation}
+# Een segmentatie {#edit-a-segmentation} bewerken
 
 Het is eenvoudig om wijzigingen aan te brengen in uw bestaande segmentaties. Hier is de onderkant.
 
 ## Een segmenteringsconcept maken {#create-a-segmentation-draft}
 
-1. Ga naar de **database**.
+1. Ga naar **Database**.
 
    ![](assets/db.png)
 
-1. In uw Segmentatie, klik op de Acties **van de** Segmentatie en **creeer dan Ontwerp**.
+1. Klik in de segmentatie op **Segmentatiehandelingen** en **Concept** maken.
 
    ![](assets/two.png)
 
@@ -29,9 +29,9 @@ Het is eenvoudig om wijzigingen aan te brengen in uw bestaande segmentaties. Hie
 
    ![](assets/three.png)
 
-## Segmenten toevoegen, bewerken of verwijderen {#add-edit-or-delete-segments}
+## Segmenten {#add-edit-or-delete-segments} toevoegen, bewerken of verwijderen
 
-1. Klik in de segmentatie op **Segmentatiehandelingen** en **bewerk vervolgens Segmenten**.
+1. Klik in de segmentatie op **Segmentatiehandelingen** en **Segmenten bewerken**.
 
    ![](assets/four.png)
 
@@ -49,11 +49,11 @@ Het is eenvoudig om wijzigingen aan te brengen in uw bestaande segmentaties. Hie
 
    >[!CAUTION]
    >
-   >Het verwijderen beïnvloedt alle bijbehorende dynamische inhoud in e-mails, Landing Pages, en Fragmenten. **Ongedaan maken** is niet mogelijk. Controleer het tabblad **Gebruikt door** om te zien wat dat segment gebruikt.
+   >Het verwijderen beïnvloedt alle bijbehorende dynamische inhoud in e-mails, Landing Pages, en Fragmenten. **Ongedaan maken** is niet mogelijk. Controleer **Gebruikt door** lusje om te zien wat gebruikt dat segment.
 
 ## Segmentregels bewerken {#edit-segment-rules}
 
-1. Ga in uw Conceptsegment **naar** Slimme lijst ****. Pas regels toe gelijkend op het [bepalen van de Regels](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules)van het Segment.
+1. In uw Ontwerp **Segment**, ga naar **Slimme Lijst**. Pas regels toe gelijkend op [Bepalend Regels van het Segment](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
