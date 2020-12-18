@@ -22,19 +22,19 @@ Elk rapport in **Mijn Rapporten **is slechts zichtbaar aan u. Wat als u het vers
    >
    >Een opgeslagen rapport kan ook worden gekloond naar **Groeprapporten **door het rapport naar de map te slepen.
 
-1. Klik op **Handelingen rapporteren **en selecteer **Rapport** klonen.
+1. Klik **de Acties van het Rapport **en selecteer **Kloonrapport**.
 
    ![](assets/image2015-4-21-11-3a29-3a32.png)
 
-1. **Klonen naar** een **analyse (groep)** en een **map** selecteren.
+1. **Kloont** naar  **Analytics (Group)** en selecteert een  **map**.
 
    ![](assets/image2015-4-21-11-3a32-3a0.png)
 
-1. **Geef** het rapport een naam en klik op **Klonen**.
+1. **Geef** het rapport een naam en klik op  **Klonen**.
 
    ![](assets/image2015-4-21-11-3a33-3a11.png)
 
-   Koel! Uw rapport wordt nu weergegeven in **Groepsrapporten.**
+   Koel! Uw rapport wordt nu weergegeven in **Groeprapporten.**
 
    ![](assets/image2015-4-21-11-3a37-3a25.png)
 
