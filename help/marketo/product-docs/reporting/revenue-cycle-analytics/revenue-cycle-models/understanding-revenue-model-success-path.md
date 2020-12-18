@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Werken met succespad van inkomstenmodel {#understanding-revenue-model-success-path}
+# Succespad van inkomstenmodel {#understanding-revenue-model-success-path}
 
 ## Pad met succes {#success-path}
 
-In het model, is de groene weg alias de Weg **van het** Succes de optimale weg van hoe een lood lineaire overgangen naar gesloten/gewonnen zaken.
+In het model, is de groene weg ook de **Weg van het Succes** de optimale weg van hoe een lood lineaire overgangen naar gesloten/wonende zaken.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![—](assets/image2015-6-12-17-3a12-3a18.png)
 
 Voorbeelden van stappen op een pad met succes:
 
@@ -31,7 +31,7 @@ Voorbeelden van stappen op een pad met succes:
 
 >[!TIP]
 >
->Groen is voor geld. Alles op de weg naar groen is op weg naar succes! Daarom zijn er slechts groene pijlen in de Analysator van de Weg van het [Succes](using-the-success-path-analyzer.md).
+>Groen is voor geld. Alles op de weg naar groen is op weg naar succes! Daarom zijn er slechts groene pijlen in [Success de Analysator van de Weg](using-the-success-path-analyzer.md).
 
 ## Details {#detours}
 
