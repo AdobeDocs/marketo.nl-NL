@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een veldset toevoegen aan een formulier {#add-a-fieldset-to-a-form}
+# Een veldenset toevoegen aan een formulier {#add-a-fieldset-to-a-form}
 
 Veldsets zijn cool. Ze groeperen een hoop velden samen. U kunt ook een heel blok tegelijk beheren!
 
@@ -19,19 +19,19 @@ Veldsets zijn cool. Ze groeperen een hoop velden samen. U kunt ook een heel blok
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. Klik op het **+** -teken en selecteer **Veldset**.
+1. Klik op het **+**-teken en selecteer **Veldset**.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. Selecteer de **veldset** en voer een **label** in.
+1. Selecteer de **veldset** en voer een **Label** in.
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. Sleep de gewenste velden naar de **veldset**.
+1. Sleep de velden die u wilt invoegen in de **veldset**.
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
