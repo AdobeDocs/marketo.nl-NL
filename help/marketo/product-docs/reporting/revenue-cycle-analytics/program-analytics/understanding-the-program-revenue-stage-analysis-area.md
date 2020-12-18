@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Werken met het analysegebied van de programmainkomstenfase {#understanding-the-program-revenue-stage-analysis-area}
+# Het onderzoeksgebied {#understanding-the-program-revenue-stage-analysis-area} van het Stadium van de Opbrengst van het Programma begrijpen
 
 Op dit analysegebied kunt u de doeltreffendheid van afzonderlijke programma&#39;s analyseren of de resultaten per kanaal samengevat bekijken. Het verstrekt inzicht in hoeveel van de nieuwe geproduceerde namen bijzondere succeswegstadia binnen uw model van de opbrengstcyclus hebben bereikt.
 
