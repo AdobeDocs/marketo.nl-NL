@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Uw goedgekeurde model bewerken {#editing-your-approved-model}
+# Uw goedgekeurd model bewerken {#editing-your-approved-model}
 
-## Uw model bewerken {#editing-your-model}
+## Uw model {#editing-your-model} bewerken
 
-1. Selecteer in de sectie Analytics het model dat u wilt wijzigen en klik op Concept **** bewerken.
+1. Selecteer het model u veranderingen in de sectie van Analytics wilt aanbrengen en **uitgeven Ontwerp** klikken.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Kies het nieuwe werkgebied voor leads die momenteel in de geselecteerde worden weergegeven of selecteer **Geen **om de leads uit uw model te verwijderen. Klik op **Samenvoegen** als u klaar bent.
+1. Kies het nieuwe werkgebied voor leads die momenteel in de geselecteerde worden weergegeven of selecteer **Geen **om de leads uit uw model te verwijderen. Wanneer u wordt gedaan, klik **Fusie**.
 
    ![](assets/three.png)
 
-1. Als u klaar bent met het aanbrengen van wijzigingen in het model, kunt u het opnieuw goedkeuren door Modelconcept **** goedkeuren te selecteren in het menu **Modelacties** .
+1. Als u klaar bent met het aanbrengen van wijzigingen in het model, kunt u het opnieuw goedkeuren door **ModelOntwerp** in **ModelActies** menu goed te keuren.
 
    ![](assets/four.png)
 
@@ -35,17 +35,17 @@ ht-degree: 0%
    >
    >Als u om het even welke veranderingen in uw stadia aanbrengt, zoals het toevoegen van of het samenvoegen van hen, zorg ervoor om uw Regels en Fases van de Toewijzing te veranderen om op uw uitgeeft te wijzen.
 
-## Uw model niet goedkeuren {#unapproving-your-model}
+## Uw model {#unapproving-your-model} niet goedkeuren
 
 >[!CAUTION]
 >
 >Als u uw model niet goedkeurt, worden alle leads verwijderd en wordt de geschiedenis in het model verwijderd. U kunt uw model ook bewerken in plaats van het niet goed te keuren.
 
-1. Selecteer het model dat u niet wilt goedkeuren. Selecteer Model **** goedkeuren in het menu **Modelacties**.
+1. Selecteer het model dat u niet wilt goedkeuren. Selecteer **Model** in het menu **Modelhandelingen** niet goedkeuren.
 
    ![](assets/five.png)
 
-1. Klik op **Niet goedkeuren**.
+1. Klik **Ongoedkeuren**.
 
    ![](assets/six.png)
 
