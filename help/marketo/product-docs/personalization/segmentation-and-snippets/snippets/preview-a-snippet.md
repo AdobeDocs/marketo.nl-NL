@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een voorvertoning van een fragment weergeven {#preview-a-snippet}
+# Een voorvertoning van een fragment bekijken {#preview-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Fragmenten zijn blokken dynamische inhoud die worden gewijzigd op basis van segm
 
    ![](assets/designstudio-3.png)
 
-1. Klik op het fragment en **voorvertoning van fragment**.
+1. Klik op het fragment en vervolgens **Voorbeeldfragment**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 
