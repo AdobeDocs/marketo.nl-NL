@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Geef de prestaties weer van e-mailberichten die via Salesforce, Microsoft Dynamics of een Gmail- of Outlook-plug-in worden verzonden.
 
-## Een rapport genereren {#generate-a-report}
+## Een rapport {#generate-a-report} genereren
 
-1. Klik op **Analytics**.
+1. Klik **Analytics**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Klik op E-mailprestaties **van** Verkoopoverzicht.
+1. Klik **E-mailprestaties van het Inzicht van de Verkoop**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
@@ -29,7 +29,7 @@ Geef de prestaties weer van e-mailberichten die via Salesforce, Microsoft Dynami
 
    ![](assets/three.png)
 
-1. Klik op het tabblad **Rapport** .
+1. Klik op het tabblad **Rapport**.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -43,23 +43,23 @@ Geef de prestaties weer van e-mailberichten die via Salesforce, Microsoft Dynami
 >
 >Klik op de naam van een e-mailbericht om het te openen in de e-mailvoorvertoning.
 
-## Groep per vertegenwoordiger {#group-by-sales-rep}
+## Groeperen op verkoopvertegenwoordiger {#group-by-sales-rep}
 
 Je kunt dit rapport gegroepeerd op Verkoopvertegenwoordiger bekijken door je instellingen te wijzigen.
 
-1. Klik op **Instellen**. Dubbelklik op **E-mail**.
+1. Klik **Setup**. Dubbelklik **E-mail**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Selecteer E-mails groeperen op **verkoper**.
+1. Selecteer de E-mails van de Groep door **Verkoper**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Klik op het tabblad **Rapport** .
+1. Klik op het tabblad **Rapport**.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
