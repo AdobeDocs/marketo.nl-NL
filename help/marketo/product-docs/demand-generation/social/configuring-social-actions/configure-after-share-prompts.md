@@ -11,34 +11,34 @@ ht-degree: 0%
 ---
 
 
-# After-Share-vragen configureren {#configure-after-share-prompts}
+# After-Share Prompts {#configure-after-share-prompts} configureren
 
 In apps voor sociale knoppen, video delen en opiniepeilingen kunt u kiezen wat er gebeurt nadat iemand uw inhoud op zijn sociale netwerk heeft gedeeld.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma.png)
 
-1. Selecteer de app en klik op Concept **** bewerken.
+1. Selecteer de app en klik op **Concept** bewerken.
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. Ga in de sociale app-editor naar **App Settings**** **en vervolgens naar **Advanced Options**.
+1. Ga in de sociale app-editor naar **App Settings**** **and then **Advanced Options**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
-1. Selecteer bij **Na delen** het gewenste gedrag.
+1. Selecteer voor **Na Delen** het gewenste gedrag.
 
    ![](assets/image2015-4-21-12-3a18-3a32.png)
 
    * **Bevestigingsbericht:** Nadat de persoon heeft gedeeld, geeft u een bevestiging weer.
-   * **E-mailvastlegging:** Nadat de persoon heeft gedeeld, vraagt u zijn e-mailadres aan.
+   * **E-mail vastleggen:** Nadat de persoon heeft gedeeld, vraagt u zijn e-mailadres aan.
 
    >[!NOTE]
    >
-   >Als u **E-mail Vastleggen** kiest, wordt het verzoek alleen weergegeven als de persoon nog geen gegevens heeft opgegeven.
+   >Als u **E-mail Capture** kiest, wordt het verzoek alleen weergegeven als de persoon nog geen gegevens heeft opgegeven.
 
-1. Als u **Bevestigingsbericht kiest:** Ga naar Stroom **** delen en vervolgens **Bevestigingsbericht**.
+1. Als u **Bevestigingsbericht kiest:** Ga naar **Stroom delen** en **Bevestigingsbericht**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 
@@ -46,11 +46,11 @@ In apps voor sociale knoppen, video delen en opiniepeilingen kunt u kiezen wat e
 
    ![](assets/image2015-4-21-12-3a31-3a41.png)
 
-1. Als u **E-mailvastlegging** kiest (in plaats van bevestiging): Ga naar **Stroom** delen en **E-mail Vastleggen**.
+1. Als u **Email Capture** (in plaats van bevestiging) kiest: Ga naar **Stroom delen** en **E-mailvastlegging**.
 
    ![](assets/image2015-4-21-12-3a46-3a15.png)
 
-1. Kies of u een marketingvraag wilt opnemen en of dat selectievakje standaard is ingeschakeld (**Weigeren**) of niet (**Inschakelen**).
+1. Kies of u een marketingprompt wilt opnemen en of dat selectievakje standaard is ingeschakeld (**Uitschakelen**) of niet (**Opt in**).
 
    ![](assets/image2015-4-21-12-3a48-3a51.png)
 
