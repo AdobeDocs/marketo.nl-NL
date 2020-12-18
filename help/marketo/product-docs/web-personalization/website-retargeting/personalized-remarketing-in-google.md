@@ -17,8 +17,8 @@ Met gepersonaliseerde marketing kunt u opnieuw contact opnemen met uw gebruikers
 
 >[!PREREQUISITES]
 >
->* Voltooi het [Opnieuw richten met de configuratie van Gegevens](retargeting-with-web-personalization-data.md) van de Personalisatie van het Web
->* Opmerking [reviseren met Help](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) -documentatie voor Google Analytics
+>* Voltooi [Opnieuw richtend met de Configuratie van de Personalisatie van het Web ](retargeting-with-web-personalization-data.md)
+>* Revisie [Opmerkingen plaatsen met Google Analytics Help](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645)-documentatie
 
 >
 
@@ -26,20 +26,20 @@ Met gepersonaliseerde marketing kunt u opnieuw contact opnemen met uw gebruikers
 
 ## Een opmerkelijk publiek maken in Google {#creating-a-remarketing-audience-in-google}
 
-1. Meld u aan bij uw Google Analytics. Klik op **Beheer**, **Account**, **Eigenschap**. Klik op **Audience Definitions** and **Publiek**.
+1. Meld u aan bij uw Google Analytics. Klik **Admin**, **Account**, **Property**. Klik op **Audience Definitions** en **Publiek**.
 
    ![](assets/remarketing-ga-screenshots.jpg)
 
-1. Klik **+Nieuw publiek**.
+1. Klik **+New Audience**.
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
 1. **Configuratie** koppeling: Link naar uw Google Adwords-account
-1. **Publiek** definiëren: Klik op **Nieuw** maken.
+1. **Publiek** definiëren: Klik op  **Nieuw** maken.
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. In de Bouwer van de Publiek, klik op **Reeksen** en **vind de Gegevens** RTP onder de Dimension van de Douane, de Variabelen van de Douane, Gebeurtenissen.
+1. In de Bouwer van de Publiek, klik op **Reeksen** en **Vind de Gegevens RTP** onder de Dimension van de Douane, de Variabelen van de Douane, Gebeurtenissen.
 
 >[!TIP]
 >
@@ -65,10 +65,10 @@ In Google Universal Analytics:
 
 **Voorbeeld van het opmerken Publiek van RTP Gesegmenteerde Gegevens van het Publiek**
 
-1. Klik op **Reeksen.**
+1. Klik **Reeksen.**
 1. Selecteer **Gebeurtenislabel.**
 1. Ga **Naam van Gesegmenteerde Publiek** (zoals het in RTP verschijnt) in.
-1. Klik op **Toepassen**.
+1. Klik **Toepassen**.
 
 ![](assets/image2015-2-10-14-3a51-3a43.png)
 
@@ -76,25 +76,25 @@ In Google Universal Analytics:
 
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
-1. Klik op **Reeksen**.
+1. Klik **Reeksen**.
 1. Selecteer** RTP-Industry*.
-1. Voer de **naam van de bedrijfstak** in (bijv. Financiële diensten, onderwijs...).
-1. Klik op **Toepassen**.
-1. Voer een **Audience Name** in. Klik op **Opslaan**.
+1. Voer **Naam van industrie** in (bijv. Financiële diensten, onderwijs...).
+1. Klik **Toepassen**.
+1. Voer een **Audience Name** in. Klik **Opslaan**.
 
 ![](assets/image2015-1-15-18-3a29-3a16.png)
 
 ## Een campagne voor opmerkingenadvertenties maken in Google Adwords {#create-a-remarketing-ad-campaign-in-google-adwords}
 
-1. Meld u aan bij **Google Adwords**. Klik op **Campagnes**, uitgezochte Netwerk van de **Vertoning slechts**.
+1. Meld u aan bij **Google Adwords**. Klik op **Campagnes**, selecteer **Alleen netwerk weergeven**.
 
    ![](assets/image2015-1-15-18-3a31-3a58.png)
 
-1. Voer de **naam** van de campagne in en selecteer Opmerking **type.**
+1. Voer **Campagnenaam** in, selecteer **Opmerking type.**
 
    ![](assets/image2015-1-15-18-3a35-3a7.png)
 
-1. Voer de naam **Advertentiegroep in,** voer **Enhanced CPC** in en selecteer **Lijst** Opmerkingen.
+1. Voer **Groepsnaam toevoegen,** **Enhanced CPC** in, selecteer **Opmerkingslijst**.
 
    ![](assets/image2015-1-15-18-3a51-3a57.png)
 
