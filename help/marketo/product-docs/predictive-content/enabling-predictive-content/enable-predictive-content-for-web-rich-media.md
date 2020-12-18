@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Voorspelende inhoud voor web-rijke media inschakelen {#enable-predictive-content-for-web-rich-media}
+# Voorspelende inhoud voor Web Rich Media {#enable-predictive-content-for-web-rich-media} inschakelen
 
 Met voorspellende inhoud hebben uw webbezoekers de meest relevante inhoud, aangedreven door machinaal leren en voorspellende analyses. Met Web Rich Media, kunt u uw inhoud met tekstbeschrijvingen en beelden verbeteren en veelvoudige voorspellende inhoudaanbevelingen op uw website inbedden.
 
@@ -28,7 +28,7 @@ Met voorspellende inhoud hebben uw webbezoekers de meest relevante inhoud, aange
 
 Nadat u de titel, beschrijving en afbeelding van de inhoud hebt voorbereid voor veelzijdige media, kunt u afzonderlijke of meerdere inhoudsonderdelen inschakelen.
 
-1. Als u een afzonderlijke titel wilt inschakelen, klikt u op een titel om de editor te openen. Klik op Rijke media, schakel vervolgens het vak **Ingeschakeld voor voorspellende inhoud in rijke media** in en klik op **Opslaan**.
+1. Als u een afzonderlijke titel wilt inschakelen, klikt u op een titel om de editor te openen. Klik rijke Media, dan controleer **Toegelaten voor Predictieve Inhoud in Rijke Media** doos en klik **sparen**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
@@ -36,13 +36,13 @@ Nadat u de titel, beschrijving en afbeelding van de inhoud hebt voorbereid voor 
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Klik op de vervolgkeuzelijst **Inhoudsacties** en selecteer **Inschakelen voor veelzijdige media**.
+1. Klik **Inhoudsacties** drop-down en selecteer **Enable for Web Rich Media**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
-## De JavaScript-code aanpassen en in uw website insluiten  {#customize-the-javascript-code-and-embed-it-into-your-website}
+## Pas de Javascript-code aan en sluit deze in op uw website {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Raadpleeg de documentatie voor de sjabloon voor de Rich Media Recommendation [op de website Marketo Developers.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
+Raadpleeg de documentatie voor de sjabloon [Rich Media Recommendation op de site Marketo Developers.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
 
 Plak de JavaScript-code in uw website op de locatie waar u de sjabloon wilt weergeven.
 
