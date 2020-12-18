@@ -23,15 +23,15 @@ Voor elk model van de opbrengstcyclus, kunt u een rapport produceren over hoevee
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Klik op **Regelafstand op omzettingsgebied**.
+1. Klik **Leads op inkomstenwerkgebied**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Klik op het tabblad **Instellen** en dubbelklik vervolgens onder de filtersectie op **Inkoopcyclusmodel**.
+1. Klik op het tabblad **Setup** en dubbelklik vervolgens onder de filtersectie **Opbrengstcyclusmodel**.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
-1. Selecteer het goedgekeurde **model**.
+1. Selecteer goedgekeurd **Model**.
 
    ![](assets/image2015-4-29-16-3a40-3a34.png)
 
