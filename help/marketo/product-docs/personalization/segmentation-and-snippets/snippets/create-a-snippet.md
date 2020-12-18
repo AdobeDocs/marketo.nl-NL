@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Een fragment maken {#create-a-snippet}
 
-Fragmenten kunnen worden gebruikt als dynamische inhoudsblokken op e- **mails** en **landingspagina&#39;s.**
+Fragmenten kunnen worden gebruikt als dynamische inhoudsblokken op **e-mails** en **bestemmingspagina&#39;s.**
 
 1. Ga naar **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Klik op **Nieuw **en vervolgens op **Nieuw fragment**.
+1. Klik **Nieuw **en dan **Nieuw Fragment**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
@@ -27,7 +27,7 @@ Fragmenten kunnen worden gebruikt als dynamische inhoudsblokken op e- **mails** 
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Goed werk! Vereenvoudig uw werk door fragmenten voor dynamische inhoud te maken. Nu kunt u doorgaan en inhoud [toevoegen aan uw nieuwe fragment](add-content-to-a-snippet.md).
+Goed werk! Vereenvoudig uw werk door fragmenten voor dynamische inhoud te maken. Nu kunt u doorgaan en [inhoud toevoegen aan uw nieuwe fragment](add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
