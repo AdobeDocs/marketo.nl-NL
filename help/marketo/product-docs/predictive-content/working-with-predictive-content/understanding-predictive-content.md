@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Afhankelijk van de aankoopdatum kan uw abonnement op Marketo de optie Voorspelende inhoud of Inhoud`<sup>AI</sup>`markeren bevatten. Marketo schakelt de functie Content`<sup>AI</sup>` Analytics voor gebruikers die gebruikmaken van voorspellende inhoud in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager Succes bij Marketo-klanten om te upgraden naar Marketo-inhoud`<sup>AI</sup>`.
+>Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
-Nadat je een titel voor voorspellende inhoud [hebt](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)goedgekeurd, werk je er hier aan. Op de pagina Voorspelende inhoud worden alle titels weergegeven die u hebt goedgekeurd voor voorspellende inhoud.
+Nadat u [een titel voor vooruitlopende inhoud ](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goedkeurt, werkt u hier aan het. Op de pagina Voorspelende inhoud worden alle titels weergegeven die u hebt goedgekeurd voor voorspellende inhoud.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -30,11 +30,11 @@ Paginavelden zijn:
 * **Conversiesnelheid**: Een percentage dat wordt berekend door middel van directe omzettingen gedeeld door klikken. Houd de muisaanwijzer boven aanvullende gegevens (zie hieronder)
 * **Ondersteunde conversie**: Bezoekers die tijdens een vorig bezoek op aanbevolen inhoud hebben geklikt en later een formulier hebben ingevuld
 
-## Inhoud filteren {#filtering-content}
+## Inhoud {#filtering-content} filteren
 
 **Categorie**
 
-U kunt inhoud filteren op categorieën die u hebt gemaakt. Klik op het filterpictogram en selecteer onder **Categorie** een of meer inhoudscategorieën.
+U kunt inhoud filteren op categorieën die u hebt gemaakt. Klik op het filterpictogram en selecteer een of meer inhoudscategorieën onder **Categorie**.
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
@@ -52,13 +52,13 @@ Door de analyse van ingeschakelde inhoud te filteren, kunt u zien hoe elke bron 
 
 ## Analyses weergeven op datum {#display-analytics-by-date}
 
-1. Selecteer de begin- en einddatum aan de rechterkant (zoals weergegeven). Klik op **Toepassen**.
+1. Selecteer de begin- en einddatum aan de rechterkant (zoals weergegeven). Klik **Toepassen**.
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
-## Tabelgegevens voor voorspellende inhoud weergeven {#view-table-data-for-predictive-content}
+## Tabelgegevens weergeven voor voorspellende inhoud {#view-table-data-for-predictive-content}
 
-In de tabel kunt u zien welke bronnen zijn ingeschakeld voor voorspellende inhoud, van links naar rechts: De Bar van de aanbeveling, e-mail, en rijke Media. Ingeschakelde bronnen worden groen weergegeven. U schakelt deze in wanneer u de inhoud [](http://docs.marketo.com/display/docs/edit+predictive+content)bewerkt.
+In de tabel kunt u zien welke bronnen zijn ingeschakeld voor voorspellende inhoud, van links naar rechts: De Bar van de aanbeveling, e-mail, en rijke Media. Ingeschakelde bronnen worden groen weergegeven. U laat deze toe wanneer u [de inhoud ](http://docs.marketo.com/display/docs/edit+predictive+content) uitgeeft.
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
