@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Maak een duplicaat van uw rapport om het verder aan te passen zonder het origineel te wijzigen.
 
-1. Ga naar het gebied **Marketingactiviteiten** (of **Analyse**).
+1. Ga naar **Marketingactiviteiten** (of **Analytics**) gebied.
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Selecteer uw rapport. Selecteer **Rapporthandelingen > Een rapport** klonen.
+1. Selecteer uw rapport. Selecteer **Handelingen rapporteren > Een rapport klonen**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 
