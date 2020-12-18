@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Dynamische inhoud {#understanding-dynamic-content}
 
-Er is veel meer aan personalisatie dan alleen &quot;Hallo `{{First Name}}`&quot;. Met Marketo dynamische inhoud kunt u aanpassen hoe verschillende personen een openingspagina of e-mail zien.
+Er is veel meer aan personalisatie dan enkel &quot;Hi `{{First Name}}`&quot;. Met Marketo dynamische inhoud kunt u aanpassen hoe verschillende personen een openingspagina of e-mail zien.
 
 ![](assets/artboard-1.png)
 
 ## Segmentering {#segmentation}
 
-Ten eerste moet u uw mensen opsplitsen in subgroepen. Dit wordt [segmentatie](create-a-segmentation.md)genoemd.
+Ten eerste moet u uw mensen opsplitsen in subgroepen. Dit wordt [segmentation](create-a-segmentation.md) genoemd.
 
 >[!NOTE]
 >
 >**Definitie**
 >
->De segmentatie categoriseert uw publiek in verschillende subgroepen die op een [Slimme](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)Lijstregel worden gebaseerd. Deze groepen worden segmenten genoemd.
+>De segmentatie categoriseert uw publiek in verschillende subgroepen die op een [Slimme Lijst](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)regel worden gebaseerd. Deze groepen worden segmenten genoemd.
 
 Bijvoorbeeld, als wij een segmentatie genoemd Industrie hebben, zouden sommige segmenten kunnen zijn: Gezondheidszorg, technologie, financiën, consumentengoederen, enz.   ![](assets/artboard-2.png)
 
@@ -37,7 +37,7 @@ Nadat u verschillende segmenten hebt gemaakt, kunt u dynamische inhoudsblokken t
 
 ## Fragmenten {#snippets}
 
-[Fragmenten](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) zijn handig bij Marketo. Maak het eenmaal en gebruik het op meerdere plaatsen! Als u het fragment bijwerkt, worden alle elementen (bestemmingspagina&#39;s of e-mails) die het fragment gebruiken automatisch bijgewerkt.
+[Fragmenten ](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md) zijn een handig gereedschap in Marketo. Maak het eenmaal en gebruik het op meerdere plaatsen! Als u het fragment bijwerkt, worden alle elementen (bestemmingspagina&#39;s of e-mails) die het fragment gebruiken automatisch bijgewerkt.
 
 >[!NOTE]
 >
