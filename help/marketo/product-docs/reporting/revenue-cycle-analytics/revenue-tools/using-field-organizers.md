@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# VeldOrganizer gebruiken {#using-field-organizers}
+# Veldorganisatoren gebruiken {#using-field-organizers}
 
 Met behulp van veldorganisatoren kunt u bepaalde velden opgeven op basis van alle mogelijke waarden. U kunt bijvoorbeeld betekenisvolle groeperingen maken voor het veld Gebied, zoals West Coast en East Coast. Hierdoor kunnen rapporten sneller worden uitgevoerd.
 
@@ -25,23 +25,23 @@ De Organisatoren van het Gebied worden gebruikt in de ModelAnalyse van Prestatie
 
 ## Veldorganisatoren maken {#how-to-create-field-organizers}
 
-1. Klik op **Database**.
+1. Klik **Database**.
 
    ![](assets/db.png)
 
-1. Selecteer onder **Nieuw** de optie **Nieuwe veldOrganizer**.
+1. Selecteer **Nieuwe veldOrganizer** onder **Nieuw**.
 
    ![](assets/two-1.png)
 
-1. Selecteer een kenmerk onder **Veld**. Beschrijving is optioneel.
+1. Selecteer onder **Veld** een kenmerk. Beschrijving is optioneel.
 
    ![](assets/three-1.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Geef de groep een naam en voer de juiste gegevens in (dit hangt af van het gegevenstype van het geselecteerde veld). Klik op Groep **** toevoegen.
+1. Geef de groep een naam en voer de juiste gegevens in (dit hangt af van het gegevenstype van het geselecteerde veld). Klik **Groep toevoegen**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 
