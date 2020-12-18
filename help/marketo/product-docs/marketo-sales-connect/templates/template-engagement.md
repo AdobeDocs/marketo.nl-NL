@@ -21,11 +21,11 @@ Volg de onderstaande stappen om uw sjabloonbetrokkenheid te bekijken.
 
    Hieronder is uw mening opgedeeld in drie gedeelten:
 
-   **Geheime Weapon** - Een sjabloon `not yet shared` in het hele team dat tonnen betrokkenheid krijgt
+   **Geheime Weapon**  - Een sjabloon  `not yet shared` door het team dat tonnen betrokkenheid krijgt
 
-   **Hoogste betrokkenheid** - Een sjabloon `already shared` in het hele team dat het doodt in de betrokkenheid
+   **Hoogste betrokkenheid**  - Een sjabloon  `already shared` in het hele team dat het doodt in de betrokkenheid
 
-   **Laagste betrokkenheid** - Een sjabloon waarvoor opnieuw moet worden getikt op het betrokkenheidsniveau (deze sjabloon `can either be shared or unshared` in het hele team)
+   **Laagste betrokkenheid**  - Een sjabloon waarvoor opnieuw dient te worden getikt op het betrokkenheidspercentage (deze sjabloon  `can either be shared or unshared` in het hele team)
 
    Van daar, scrol neer en zie alle malplaatjes die over uw team op hun meningstarieven binnen dat geselecteerde datumwaaier worden gecreeerd die worden gebaseerd. Op een individueel sjabloonniveau kunt u zien: wie het heeft gemaakt, of het nu gedeeld is of niet, het aantal e-mails dat ermee is gebruikt en gegevens bijhouden (weergaven, klikken, antwoorden).
 
