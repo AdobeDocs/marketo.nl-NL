@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# AB Test Uw Campagne van het Web {#ab-test-your-web-campaign}
+# AB Test Uw Campagne {#ab-test-your-web-campaign}
 
 Testen is een uitstekende manier om uw webcampagnes te optimaliseren voor een betere betrokkenheid. Zo ga je aan de slag.
 
-Als u uw gepersonaliseerde campagnes wilt testen door A/B, kunt u twee of meer campagnes selecteren, deze aan dezelfde groep **Gesplitste test** koppelen en **Automatisch afstemmen** selecteren om automatisch door te gaan met de best presterende campagne.
+Om A/B uw gepersonaliseerde campagnes te testen, kunt u twee of meer campagnes selecteren, hen associëren aan de zelfde **Gesplitste Test** groep, en **Auto-Tune** selecteren om met de best presterende campagne automatisch verder te gaan.
 
 >[!TIP]
 >
 >Schakel Automatisch afstemmen niet in als u liever handmatig wilt berekenen en wilt zien welke campagne beter functioneert.
 
-## Een gesplitste A/B-test instellen {#how-to-set-up-a-split-a-b-test}
+## Hoe te opstelling een Gesplitste A/B Test {#how-to-set-up-a-split-a-b-test}
 
 1. Ga naar webcampagnes.
 
@@ -29,40 +29,40 @@ Als u uw gepersonaliseerde campagnes wilt testen door A/B, kunt u twee of meer c
 
    >[!NOTE]
    >
-   >Met de [filterfunctie](filter-web-campaigns.md)kunt u gemakkelijker de gewenste campagne vinden.
+   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik [filtereigenschap](filter-web-campaigns.md).
 
-1. Selecteer de eerste campagne u aan test A/B wilt. Klik op **Bewerken**.
+1. Selecteer de eerste campagne u aan test A/B wilt. Klik **Bewerken**.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
-1. Selecteer Testen **splitsen op de pagina Campagne** en klik op **Nieuw** maken.
+1. Selecteer **Testen splitsen** in de campagnepagina en klik **Nieuw maken**.
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Voer de naam **van de** Testgroep splitsen in en klik op **Maken.** Selecteer **Automatisch afstemmen.**
+1. Voer de **Naam van de Testgroep splitsen** in en klik op **Maken.****Selecteer Automatisch afstemmen.**
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **De campagne opslaan **of** starten **.
+1. **Sla **of** Start **de campagne op.
 
    >[!TIP]
    >
-   >Als u **Auto-Tune** selecteert, kan het webplatform voor personalisatie automatisch de beter presterende gesplitste testcampagne herkennen en gaat u verder met de hoogste conversiecampagne terwijl de andere campagnes worden gepauzeerd.
+   >Als u **Auto-Tune** selecteert, kan het webpersonalisatie-platform automatisch de beter presterende gesplitste testcampagne herkennen en gaat u verder met de hoogste conversiecampagne terwijl de andere platformen worden gepauzeerd.
 
 1. Herhaal dit proces met de tweede campagne.
-1. Selecteer de tweede campagne die u wilt testen A/B. Klik op **Bewerken**.
+1. Selecteer de tweede campagne die u wilt testen A/B. Klik **Bewerken**.
 
    ** ![](assets/image2016-11-4-13-3a51-3a39.png)
 
    **
 
-1. Selecteer op de pagina Campagne **** instellen de optie **S****Testen** splitsen en kies de **groep** in het keuzemenu. Selecteer** Automatisch afstemmen**.
+1. Selecteer **S****Testen splitsen** op de pagina **Campagne instellen** en kies **Groep** in de vervolgkeuzelijst. Selecteer** Automatisch afstemmen**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
 1. **Opslaan **of **Starten **de campagne.
 1. Herhaal dit proces voor een derde of vierde campagne om te testen.
-1. In **Campagnes van het Web** **kunt u de gespleten testcampagnes zien die door het pictogram A/B worden aangeduid** .
+1. In **Web** **Campagnes** kunt u de gesplitste testcampagnes zien die door het pictogram A/B worden aangeduid.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
