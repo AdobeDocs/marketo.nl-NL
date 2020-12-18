@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verzenden van e-mail met uitvoeringsvoorstel voor verwijzing {#send-referral-offer-fulfillment-email}
+# Verzenden van e-mail {#send-referral-offer-fulfillment-email} met verzoek om doorverwijzing
 
 Geef uw klanten coupons en kortingscodes terug met behulp van het e-mailbericht dat aan de aanbieding wordt voldaan.
 
@@ -24,23 +24,23 @@ Geef uw klanten coupons en kortingscodes terug met behulp van het e-mailbericht 
 
 
 
-## Afhandeling van tegoeden instellen {#set-up-fulfillment-delivery}
+## Afhandeling {#set-up-fulfillment-delivery} instellen
 
-1. Selecteer het verwijzingsaanbod. Klik op Concept **** bewerken.
+1. Selecteer het verwijzingsaanbod. Klik **Concept bewerken**.
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. Selecteer onder **App-instellingen** de optie **Details voorstel.**
+1. Selecteer **Details van aanbieding onder** App-instellingen **.**
 
    ** ![](assets/image2015-4-23-12-3a53-3a16.png)
 
    **
 
-1. Selecteer een **aanmeldings-e-mail**.
+1. Selecteer een **Aanmelden-E-mail**.
 
    ![](assets/image2015-4-23-12-3a58-3a52.png)
 
-1. Selecteer een **Fulfillment Email**.
+1. Selecteer een **e-mailadres voor afhandeling**.
 
    ![](assets/image2015-4-23-13-3a4-3a40.png)
 
@@ -49,9 +49,9 @@ Geef uw klanten coupons en kortingscodes terug met behulp van het e-mailbericht 
    >**Diep duiken**
    >
    >
-   >Klik hier als je meer wilt weten over het [gebruik van e-mails in sociale aanbiedingen](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Meer informatie over [e-mails gebruiken in sociale aanbiedingen](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
-1. Klik op de vervolgkeuzelijst Levering **afhandeling** van aflevering en selecteer **Automatisch op doel**.
+1. Klik op de vervolgkeuzelijst **Aflevering van tegoeden** en selecteer **Automatisch op doel**.
 
    ![](assets/image2015-4-23-13-3a13-3a33.png)
 
@@ -61,7 +61,7 @@ Geef uw klanten coupons en kortingscodes terug met behulp van het e-mailbericht 
 
 U kunt een e-mailbericht voor vervulling handmatig naar een persoon sturen zodra deze het doel heeft bereikt.
 
-1. Selecteer de verwijzingsaanbieding en klik de **Deelnemers** tabel.
+1. Selecteer de verwijzingsaanbieding en klik **Deelnemers** tabel.
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
@@ -77,7 +77,7 @@ U kunt een e-mailbericht voor vervulling handmatig naar een persoon sturen zodra
 
    ![](assets/2015-04-23-13-08-53.png)
 
-1. Klik met de rechtermuisknop en selecteer **Verzending-e-mail** verzenden.
+1. Klik met de rechtermuisknop en selecteer **Verzenden van e-mail**.
 
    ![](assets/2015-04-20-15-54-13.png)
 
