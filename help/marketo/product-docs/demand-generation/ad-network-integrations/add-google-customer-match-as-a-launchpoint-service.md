@@ -19,19 +19,19 @@ Met deze integratie kunt u een Marketo-publiek naar Google sturen om als doelgro
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Beheer**.
+1. Ga naar **Admin**.
 
    ![](assets/admin.png)
 
-1. Klik op **LaunchPoint**.
+1. Klik **LaunchPoint**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecteer **Nieuw** toen** Nieuwe Dienst*.
+1. Selecteer **Nieuwe** dan** Nieuwe service**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Voer een **Weergavenaam in **en selecteer** Google Customer Match **from the **Service** drop-down. Klik op **Maken**.
+1. Voer een **Weergavenaam **in en selecteer** Google Customer Match **vanuit de vervolgkeuzelijst **Service**. Klik **Maken**.
 
    ![](assets/chooseservice.png)
 
@@ -43,15 +43,15 @@ Met deze integratie kunt u een Marketo-publiek naar Google sturen om als doelgro
 
    >[!CAUTION]
    >
-   >Als u wilt dat Marketo een publiek naar meerdere AdWords-accounts stuurt, moet de Google-gebruiker die u in de volgende stappen toestaat, toegang hebben tot *al* deze accounts.
+   >Als u wilt dat Marketo een publiek naar meerdere AdWords-accounts stuurt, moet de Google-gebruiker die u in de volgende stappen autoriseert toegang hebben tot *all* van deze accounts.
 
    ![](assets/chooseaccount.png)
 
-1. Controleer de gewenste machtigingen en klik op **Toestaan**.
+1. Herzie de gevraagde toestemmingen, dan klik **Toestaan**.
 
    ![](assets/reviewpermissions.png)
 
-1. Uw Google AdWords-account is nu verbonden met Marketo. Klik op **Maken**.
+1. Uw Google AdWords-account is nu verbonden met Marketo. Klik **Maken**.
 
    ![](assets/authorizesuccess.png)
 
