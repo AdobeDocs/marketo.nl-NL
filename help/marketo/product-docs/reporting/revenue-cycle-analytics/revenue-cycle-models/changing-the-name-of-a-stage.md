@@ -15,20 +15,20 @@ ht-degree: 0%
 
 Je geest veranderen? Geen probleem. Het is eenvoudig de naam te wijzigen van een fase in de inkomstencyclusmodellen.
 
-1. Ga naar het gebied **Analytics** .
+1. Ga naar het gebied **Analytics**.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
-1. Selecteer een inkomstencyclusmodel dat u wilt bijwerken. Klik op Concept **** bewerken.
+1. Selecteer een inkomstencyclusmodel dat u wilt bijwerken. Klik **Concept bewerken**.
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
-1. Selecteer het werkgebied dat u wilt bijwerken en voer een nieuwe **naam** in.
+1. Selecteer het werkgebied dat u wilt bijwerken en voer een nieuwe **Naam** in.
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
    Klik op Sluiten.
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Zie? Eenvoudig! Vergeet niet uw [model](approve-unapprove-a-revenue-model.md)goed te keuren.
+   Zie? Eenvoudig! Vergeet niet om [Uw model](approve-unapprove-a-revenue-model.md) goed te keuren.
 
