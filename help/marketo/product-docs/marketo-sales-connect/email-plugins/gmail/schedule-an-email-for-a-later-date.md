@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Een e-mail voor een latere datum plannen {#schedule-an-email-for-a-later-date}
+# Een e-mailbericht plannen voor een latere datum {#schedule-an-email-for-a-later-date}
 
 Voer de volgende stappen uit om een e-mailbericht van Gmail te plannen.
 
-1. Klik op de knop **Schema** wanneer u een e-mailbericht samenstelt.
+1. Wanneer het samenstellen van een e-mail, klik **Programma** knoop.
 1. Er verschijnt een venster waarin u een tijd kunt kiezen om uw e-mail te verzenden.
 1. Als u ervoor kiest om het op een later tijdstip te verzenden, wordt de knop bijgewerkt naar de geselecteerde tijd.
-1. Nadat u de e-mail hebt gepland, wordt deze in de map **Concepts** in Gmail met het label **Tout Scheduled E-mails** weergegeven.
-1. Als u het concept opent, kunt u de inhoud van het e-mailbericht bewerken. U moet echter nogmaals op **Schema** klikken, de geplande tijd opnieuw selecteren en op **Tout It** klikken.
+1. Nadat u de e-mail plant, zal het in uw **omslag Concepts** in Gmail met het etiket **Geplande E-mail** verschijnen.
+1. Als u het ontwerp opent, kunt u de inhoud van e-mail uitgeven, maar ben zeker om **Programma** opnieuw te klikken, uw Geplande tijd opnieuw te selecteren, en **Tout het** te klikken!
 
    >[!NOTE]
    >
-   >U kunt de geplande e-mail altijd controleren in uw **Scheduled **folder in de [Webtoepassing](http://toutapp.com/login)
+   >U kunt het geplande e-mailbericht altijd controleren in uw **Scheduled **folder in [Webtoepassing](http://toutapp.com/login)
 
