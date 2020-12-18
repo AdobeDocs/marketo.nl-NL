@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De lettertypefamilie van het formulier wijzigen {#change-the-form-font-family}
+# De lettertypefamilie {#change-the-form-font-family} wijzigen
 
 Google Fonts zijn geweldig, en we hebben ze direct in de formuliereditor gebouwd. Kijk eens!
 
@@ -23,27 +23,27 @@ Google Fonts zijn geweldig, en we hebben ze direct in de formuliereditor gebouwd
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Selecteer **Instellingen** onder **Formulierinstellingen******.
+1. Onder **Formulier** **Instellingen** selecteert u **Instellingen**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Selecteer de gewenste **lettertypefamilie** .
+1. Selecteer **Lettertypefamilie** u wilt.
 
    >[!TIP]
    >
-   >U kunt een aantal [Google-lettertypen](http://www.google.com/fonts) gebruiken.
+   >Er zijn een aantal [Google Fonts](http://www.google.com/fonts) beschikbaar voor gebruik.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    >[!NOTE]
    >
