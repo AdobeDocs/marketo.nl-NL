@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Vereiste voor sociaal delen instellen {#set-social-share-requirement}
 
-Wanneer u een verwijzingsvoorstel [](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)creeert, kunt u mensen vereisen om het voorstel te delen om omhoog te ondertekenen, of het facultatief te maken.
+Wanneer u [een verwijzingsaanbieding ](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) creeert, kunt u mensen vereisen om de aanbieding te delen om zich te ondertekenen, of het facultatief te maken.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma-1.png)
 
-1. Selecteer het verwijzingsvoorstel, en klik **uitgeven Ontwerp**.
+1. Selecteer de verwijzingsaanbieding, en klik **uitgeven Ontwerp**.
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. Ga in de verwijzingsaanbiedingsredacteur, naar de Montages **van de** Toepassing en dan **Sign-Up Stappen** van de Stroom.
+1. In de verwijzingsaanbiedingsredacteur, ga naar **App Montages** en dan **Teken-op Stappen van de Stroom**.
 
    ![](assets/three.png)
 
@@ -34,7 +34,7 @@ Wanneer u een verwijzingsvoorstel [](../../../../product-docs/demand-generation/
    * **Persoon vastleggen > Delen**: Persoon kan het delen overslaan en zich gewoon aanmelden.
    * **Delen > Vastleggen** persoon: De persoon moet delen om u aan te melden.
 
-1. Zie voor elke optie de voorvertoning in het venster **Weergeven en bewerken** .
+1. Zie voor elke optie de voorvertoning in het venster **Beeld en bewerken**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)
 
