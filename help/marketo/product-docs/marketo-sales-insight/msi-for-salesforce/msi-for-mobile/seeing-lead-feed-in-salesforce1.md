@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Diervoeders voor voorloopvogels in Salesforce1 {#seeing-lead-feed-in-salesforce}
+# Diervoeders voor leads zien in Salesforce1 {#seeing-lead-feed-in-salesforce}
 
 De Lead Feed is een actuele lijst met interessante gebeurtenissen die door uw leads worden uitgevoerd.
 
-1. Ga naar het gebied **Marketo** in Salesforce1.
+1. Ga naar het **Marketo** gebied in Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ De Lead Feed is een actuele lijst met interessante gebeurtenissen die door uw le
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. Tik op **Loodfeed**.
+1. Tik **Feed afloop**.
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
