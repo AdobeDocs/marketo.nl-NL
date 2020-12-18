@@ -23,15 +23,15 @@ Voordat u publiceert, kunt u het formulier bekijken in deze snelle en eenvoudige
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Klik onder **Formulierhandelingen** **op** Voorbeeld ****.
+1. Klik onder **Formulier** **Handelingen** op **Voorvertoning**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. De formuliereditor wordt geopend in de **voorbeeldmodus** .
+1. De formuliereditor wordt geopend in de modus **preview**.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Klik op **Concept** bewerken **om terug te keren naar de** bewerkingsmodus **** .
+1. Klik **Bewerken** **Concept** om terug te keren naar de modus **Bewerken**.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
@@ -42,7 +42,7 @@ Voordat u publiceert, kunt u het formulier bekijken in deze snelle en eenvoudige
    >
    >Meer informatie over [formulieren](http://docs.marketo.com/display/docs/forms).
 
-1. Ga eenvoudig terug door op **Voorvertoning** **concept** te klikken.
+1. U kunt eenvoudig terugschakelen door op **Voorvertoning** **Concept** te klikken.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 
