@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opties voor verzenden {#understanding-send-options}
+# Inzicht in verzendopties {#understanding-send-options}
 
 Wanneer u een campagne maakt, hebt u verschillende opties voor het maken van uw e-mailstappen in Sales Connect. En, afhankelijk van waar uw e-mail in uw Campagne valt, verschillen uw opties ook.
 
