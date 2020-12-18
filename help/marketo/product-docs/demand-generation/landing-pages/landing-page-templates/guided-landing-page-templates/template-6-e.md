@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sjabloon 6-E {#template-e}
+# Template 6-E {#template-e}
 
 [Sjabloon 6-E downloaden](http://docs.marketo.com/download/attachments/8783938/template-6e.html?version=1&amp;modificationdate=1437693231000&amp;api=v2)
 
