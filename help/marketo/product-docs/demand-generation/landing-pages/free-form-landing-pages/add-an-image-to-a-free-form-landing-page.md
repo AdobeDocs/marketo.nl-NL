@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een afbeelding toevoegen aan een openingspagina met vrije vorm {#add-an-image-to-a-free-form-landing-page}
+# Een afbeelding toevoegen aan een willekeurige landingspagina {#add-an-image-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 
 
-1. Selecteer de landingspagina met vrije vorm en klik op **Concept** bewerken ****.
+1. Selecteer uw vrije-vormlandingspagina en klik **Edit** **Draft**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Sleep in de editor over het element **Afbeelding** .
+1. Sleep in de editor over het element **Afbeelding**.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-14-3a35-3a59.png)
 
-1. Klik op **Invoegen**.
+1. Klik **Invoegen**.
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 
