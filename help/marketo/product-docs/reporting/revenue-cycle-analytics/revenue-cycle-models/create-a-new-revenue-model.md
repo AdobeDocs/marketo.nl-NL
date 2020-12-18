@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Een nieuw inkomstenmodel maken {#create-a-new-revenue-model}
+# Nieuw inkomstenmodel maken {#create-a-new-revenue-model}
 
-1. Als u een nieuw inkomstencyclusmodel wilt maken, klikt u op de knop **Analytics** in het beginscherm van Mijn markeerteken.
+1. Om een nieuw Model van de Cyclus van de Opbrengst tot stand te brengen klik **Analytics** knoop in het Mijn homescherm van de Marketo.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Klik op het tabblad **Analyse** op **Nieuw** en selecteer **Nieuw** inkomstencyclusmodel.
+1. Klik op het tabblad **Analytics** op **New** en selecteer **New Revenue Cycle Model**.
 
    ![](assets/image2015-4-27-11-3a55-3a51.png)
 
-1. Er verschijnt een modaal venster van het **nieuwe inkomstencyclusmodel** . Voer een naam in en klik op **Maken**.
+1. Er verschijnt een modaal venster **New Revenue Cycle Model**. Voer een naam in en klik op **Maken**.
 
    ![](assets/image2015-4-27-11-3a57-3a59.png)
 
-1. Klik op Concept **** bewerken in de weergave Home van uw model.
+1. Klik **Concept** in de huismening van uw model uitgeven.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,5 +37,5 @@ Kijk scherp! Je bent net de prachtige wereld van modellering binnengekomen.
 
 >[!MORELIKETHIS]
 >
->Meer weten over [Opslagmodelinventarisatiefasen](using-revenue-model-inventory-stages.md)gebruiken?
+>Meer informatie over [Opbrengstmodelinventarisfasen gebruiken](using-revenue-model-inventory-stages.md).
 
