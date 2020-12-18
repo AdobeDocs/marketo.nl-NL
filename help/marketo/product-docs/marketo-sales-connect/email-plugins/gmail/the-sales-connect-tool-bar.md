@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Vijf verkoopknoppen voor Connect worden boven aan uw Gmail-pagina toegevoegd wanneer u zich aanmeldt.
 
-| **Live feed, knop** | Hiermee opent u uw Sales Connect [Live Feed](http://toutapp.com/next#live) , waar u real-time trackinggegevens kunt vinden in uw e-mails. |
+| **Live feed, knop** | Hiermee opent u uw Sales Connect [Live Feed](http://toutapp.com/next#live), waar u real-time trackinggegevens kunt vinden in uw e-mails. |
 |---|---|
 | **De knop Taken** | Hiermee geeft u een vervolgkeuzelijst weer van al uw taken. |
-| **Knoppen Sjablonen en **gesprekken** | Hiermee opent u respectievelijk de pagina Sjablonen en de pagina Conversies van de [webtoepassing](http://toutapp.com/login). Alles op uw Gmail-pagina. |
+| **Knoppen Sjablonen **en Conversations** | Hiermee opent u respectievelijk de pagina Sjablonen en de pagina Conversies van uw [webtoepassing. ](http://toutapp.com/login) Alles op uw Gmail-pagina. |
 | **De knoop van de Gong van de Verkoop ** | Staat u toe om uw gesloten/gewonnen overeenkomsten met uw teamgenoten te vieren. |
 
