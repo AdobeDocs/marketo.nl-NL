@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Instellingen voor delen {#sharing-settings}
+# Instellingen delen {#sharing-settings}
 
 U kunt uw sjablonen beter beheren door te beperken wat gebruikers kunnen delen en met welke categorieën.
 
@@ -23,15 +23,15 @@ Wanneer het Delen van Montages wordt toegelaten, slechts zullen de beheerders in
 
 ## Uw instellingen voor delen configureren {#configure-your-sharing-settings}
 
-1. Ga in de [webtoepassing](http://toutapp.com/login)naar de pagina Instellingen.
+1. Ga in [Webtoepassing](http://toutapp.com/login), naar de pagina van Montages.
 
    ![](assets/one-2.png)
 
-1. Selecteer Toegang **** delen onder Beheerinstellingen.
+1. Selecteer **Toegang delen** onder Beheerinstellingen.
 
    ![](assets/two-2.png)
 
-1. Zorg ervoor dat **Instellingen** voor delen zijn ingeschakeld. Dit betekent standaard dat alleen beheerders sjablonen kunnen delen in uw sjablooncategorieën.
+1. Zorg ervoor **Instellingen voor delen** zijn ingeschakeld. Dit betekent standaard dat alleen beheerders sjablonen kunnen delen in uw sjablooncategorieën.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Wanneer het Delen van Montages wordt toegelaten, slechts zullen de beheerders in
 
    ![](assets/four-2.png)
 
-1. Klik op Teams **toevoegen voor toegang**.
+1. Klik **Teams toevoegen voor Toegang**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +51,7 @@ Wanneer het Delen van Montages wordt toegelaten, slechts zullen de beheerders in
    >
    >Als u geen teams ziet, zult u naar het Beheer van het Team moeten gaan en een team van gebruikers creëren.
 
-1. Klik op Teams **toevoegen om op te slaan voor toegang** .
+1. Klik **Teams toevoegen voor Toegang** om op te slaan.
 
    ![](assets/seven-1.png)
 
