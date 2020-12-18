@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De doeltreffendheid van het Programma met de Analysator van het Programma vergelijken {#compare-program-effectiveness-with-the-program-analyzer}
+# De Doeltreffendheid van het Programma met de Analysator van het Programma {#compare-program-effectiveness-with-the-program-analyzer} vergelijken
 
 Gebruik Analyzer van het Programma om uw meest en minst efficiënte programma&#39;s te identificeren, door programmakosten, lidverwerving, pijpleiding, en opbrengst te vergelijken.
 
@@ -38,7 +38,7 @@ Gebruik Analyzer van het Programma om uw meest en minst efficiënte programma&#3
 
    >[!TIP]
    >
-   >U kunt programma&#39;s snel naar één kanaal filteren door **Weergave > Op kanaal** te selecteren, op de ballon voor dat kanaal te klikken en vervolgens op de kanaalnaam in het pop-updialoogvenster te klikken.
+   >Een snelle manier om programma&#39;s aan enkel één kanaal te filtreren is **Mening > door Kanaal** te selecteren, de bel voor dat kanaal te klikken, en dan de kanaalnaam in pop-up dialoog te klikken.
 
 1. Gebruik de vervolgkeuzelijst X-as om een metrische waarde voor de horizontale as te kiezen. We beginnen met de programmakosten.
 
@@ -54,7 +54,7 @@ Gebruik Analyzer van het Programma om uw meest en minst efficiënte programma&#3
 
    >[!TIP]
    >
-   >U kunt ook proberen de weergave te verbeteren door van lineaire naar logaritmische schaal te gaan, of andersom. Gebruik het menu **Schalen** bovenaan.
+   >U kunt ook proberen de weergave te verbeteren door van lineaire naar logaritmische schaal te gaan, of andersom. Gebruik het menu **Schaal** bovenaan.
 
 1. Ontdek de resulterende grafiek.
 
@@ -68,13 +68,13 @@ Gebruik Analyzer van het Programma om uw meest en minst efficiënte programma&#3
 
    >[!NOTE]
    >
-   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is van belang het [verschil tussen FT en MT te begrijpen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [verschil tussen FT en MT attributie](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
 
 1. Kijk hoe de ballonnen de grootte van uw grafiek veranderen.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   Door **(FT) Revenue Won** toe te voegen, zien we snel dat de Origami Expo veel nieuwe namen heeft verworven, maar dat het relatief weinig inkomsten oplevert. We zien ook dat het programma Paper Fest 12 steeds minder maar betere namen krijgt, omdat het meer inkomsten heeft gewonnen (grotere zeepbel).
+   Door **(FT) Inkomsten Won** toe te voegen, zien we snel dat, terwijl de Origami Expo een hoop nieuwe namen verwierf, het in relatief weinig opbrengst resulteert. We zien ook dat het programma Paper Fest 12 steeds minder maar betere namen krijgt, omdat het meer inkomsten heeft gewonnen (grotere zeepbel).
 
 1. Gebruik de vervolgkeuzelijst Kleur om een vierde metrische waarde toe te voegen. Wij zullen (FT) Inkomsten aan Investeringen bekijken.
 
@@ -88,7 +88,7 @@ We zien dat het programma &quot;Paper Fest 12&quot; niet alleen van invloed is o
 
 >[!TIP]
 >
->U kunt de programma&#39;s in één kanaal snel vergelijken met de programma&#39;s in een ander kanaal. Gebruik gewoon het **kanaalfilter** boven in het venster om meer kanalen toe te voegen.
+>U kunt de programma&#39;s in één kanaal snel vergelijken met de programma&#39;s in een ander kanaal. Gebruik **Kanaalfilter** boven in het venster om meer kanalen toe te voegen.
 
 >[!NOTE]
 >
@@ -100,4 +100,4 @@ We zien dat het programma &quot;Paper Fest 12&quot; niet alleen van invloed is o
 
 >[!NOTE]
 >
->Meer informatie over geavanceerde analyses vindt u in [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Meer informatie over geavanceerde analysemogelijkheden vindt u in [Indelingscyclusverkenner](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
