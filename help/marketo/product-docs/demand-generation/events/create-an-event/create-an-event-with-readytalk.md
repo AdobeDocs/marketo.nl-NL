@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >* [ReadyTalk toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Stel de juiste [stroomhandelingen in om de betrokkenheid](http://docs.marketo.com/display/DOCS/Flow+Actions)bij te houden
+>* Stel de juiste [flowhandelingen](http://docs.marketo.com/display/DOCS/Flow+Actions)in om de betrokkenheid bij te houden
 
 
-Stel eerst uw gebeurtenis in het ReadyTalk-conferentiecentrum in. Als u hulp nodig hebt, controleer het Centrum van het Middel [ReadyTalk.](https://www.readytalk.com/resources/readytalk)  Wanneer u het registratietype kiest, selecteert u **preregistreren vóór de vergadering**. Als u *register selecteert op het moment van de vergadering*, legt Marketo **geen** geregistreerde status voor uw volk vast en wordt de status Bijgewoond alleen doorgegeven *nadat* het webinar is gesloten.
+Stel eerst uw gebeurtenis in het ReadyTalk-conferentiecentrum in. Als u hulp nodig hebt, controleer het [ReadyTalk Resource Center.](https://www.readytalk.com/resources/readytalk)  Wanneer u het registratietype kiest, selecteert u  **preregistreren vóór de vergadering**. Als u *registreert op het tijdstip van vergadering* selecteert, zal Marketo **not** een Geregistreerde status voor uw mensen vangen en zal slechts een persoonstatus van *na* trekken webinar.
 
-Laat **me via e-mail** op de hoogte stellen van nieuwe registraties uitgeschakeld.
+Laat **mij via e-mail** oningeschakeld op de hoogte stellen van nieuwe registraties.
 
 ![](assets/image2015-5-28-21-3a18-3a39.png)
 
@@ -30,11 +30,11 @@ Als u ReadyTalk gebruikt om bevestigingse-mails te verzenden, moet u ook een bes
 
 >[!NOTE]
 >
->Als u een door de operator ondersteunde gebeurtenis wilt plannen, klikt u op de koppeling **Request Event Services** aan de linkerkant van het startscherm van het conferentiecentrum om een gebeurtenis met ons Events-team te plannen.
+>Als u een door Operator ondersteunde gebeurtenis wilt plannen, klikt u op de koppeling **Request Event Services** aan de linkerkant van het startscherm van het Conferencecentrum om een gebeurtenis te plannen met ons Events Team.
 
 Nu kunt u uw gebeurtenis koppelen aan Marketo.
 
-1. Selecteer de gebeurtenis, klik vervolgens op **Gebeurtenishandelingen** en **Gebeurtenisinstellingen.**
+1. Selecteer uw gebeurtenis en klik vervolgens op **Gebeurtenishandelingen** en **Gebeurtenisinstellingen.**
 
    ![](assets/image2015-5-18-12-3a46-3a47.png)
 
@@ -42,11 +42,11 @@ Nu kunt u uw gebeurtenis koppelen aan Marketo.
    >
    >Het kanaaltype van de geselecteerde gebeurtenis moet **webinar zijn.**
 
-1. Onder de Partner van de **Gebeurtenis,** uitgezochte **ReadyTalk**.
+1. Selecteer **ReadyTalk** onder **Gebeurtenispartner.**
 
    ![](assets/image2015-5-18-12-3a47-3a59.png)
 
-1. Selecteer bij **Aanmelden** de ReadyTalk-aanmelding.
+1. Selecteer onder **Aanmelden,** uw ReadyTalk-aanmelding.
 
    ![](assets/image2015-5-18-12-3a48-3a48.png)
 
@@ -74,11 +74,11 @@ Nu kunt u uw gebeurtenis koppelen aan Marketo.
 
    >[!TIP]
    >
-   >Het kan tot 48 uur duren voordat de gegevens in Marketo verschijnen. Als na het wachten dat lang u nog niets ziet, uitgezocht **verfrist zich van Leverancier** van de Gebeurtenis van het menu van de Acties van de Gebeurtenis in het **Samenvatting** lusje van uw gebeurtenis.
+   >Het kan tot 48 uur duren voordat de gegevens in Marketo verschijnen. Als na het wachten dat lang u nog niets ziet, uitgezocht **verfrist zich van Webinar Leverancier** van het menu van de Acties van de Gebeurtenis in **Samenvatting** lusje van uw gebeurtenis.
 
-## Het overzicht weergeven  {#viewing-the-schedule}
+## Het schema {#viewing-the-schedule} weergeven
 
-Klik in de [programmaweergave](http://docs.marketo.com/display/docs/program+schedule+view)van het programma op de kalendervermelding voor de gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien!
+In [programmamening ](http://docs.marketo.com/display/docs/program+schedule+view), klik de kalenderingang voor uw gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien!
 
 ![](assets/image2015-5-18-12-9-58.png)
 
