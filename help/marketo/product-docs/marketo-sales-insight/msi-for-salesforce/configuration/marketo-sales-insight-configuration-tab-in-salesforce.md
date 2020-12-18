@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Het lusje van de Configuratie van het Inzicht van de Verkoop van de Marketo in Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
+# Het lusje van de Configuratie van het Toezicht van het Inzicht van de Verkoop van de Marketo in Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## Operationele instellingen {#operational-settings}
 
@@ -53,7 +53,7 @@ Configuraties zijn van toepassing op alle MSI-gebruikers en zijn niet specifiek 
 * De activiteit (Interessant Moment, de Activiteit van het Web, E-mail) wordt geplaatst aan 1000 door gebrek. E-mailcampagnes en gebeurtenissen worden standaard ingesteld op 200
 * Voor het geval u time-out problemen op uw org opmerkt, kunt u de limiet verlagen
 
-## Marktinformatie opnieuw instellen {#reset-marketo-sales-insight}
+## Marktverkoop opnieuw instellen {#reset-marketo-sales-insight}
 
 Als u dit doet, worden al uw configuraties in SFDC gewist en kunnen deze niet worden hersteld. U zult alles opnieuw moeten vormen.
 
