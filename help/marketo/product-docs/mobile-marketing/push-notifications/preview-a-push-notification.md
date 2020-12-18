@@ -23,11 +23,11 @@ Klik in de navigatiestructuur met de rechtermuisknop op het bestand voor de meld
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Of klik op de pagina met pushberichten op Handelingen **voor** pushmeldingen en vervolgens op **Voorvertoning**. Of klik **op **Voorvertoning helemaal rechts.** **
+Of klik op **Push Notifications Actions** op de pagina Push Notification view en vervolgens **Preview**. Of klik op **Voorvertoning **uiterst rechts.** **
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Tot slot in de redacteur, kunt u het lusje van het Ontwerp van de **Voorproef** in het hogere recht klikken terwijl u aan het bericht werkt.
+Tot slot in de redacteur, kunt u **Voorproef Concept** lusje in het hogere recht klikken terwijl u aan het bericht werkt.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
