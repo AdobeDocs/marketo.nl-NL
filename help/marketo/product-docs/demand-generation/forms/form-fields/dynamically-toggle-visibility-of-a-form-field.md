@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De zichtbaarheid van een formulierveld dynamisch in-/uitschakelen {#dynamically-toggle-visibility-of-a-form-field}
+# Zichtbaarheid van formulierveld dynamisch in-/uitschakelen {#dynamically-toggle-visibility-of-a-form-field}
 
 >[!PREREQUISITES]
 >
@@ -21,23 +21,23 @@ ht-degree: 0%
 
 
 
-Een heel leuke functie van Marketo-formulieren is dat u formuliervelden of [veldsets](add-a-fieldset-to-a-form.md)dynamisch kunt verbergen/weergeven.
+Een echt coole functie van Marketo-formulieren is dat u formuliervelden of [veldsets](add-a-fieldset-to-a-form.md) dynamisch kunt verbergen/weergeven.
 
 >[!NOTE]
 >
 >**Voorbeeld**
 >
->In dit voorbeeld verbergen we het veld **Staat** , tenzij **Land** is geselecteerd als &#39;Verenigde Staten&#39;.
+>In dit voorbeeld verbergen we het veld **State**, tenzij **Land** is geselecteerd als &quot;United States.&quot;
 
 1. Ga naar **Marketing** **Activiteiten**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/editform-1.png)
 
-1. Selecteer het veld dat u dynamisch wilt verbergen/weergeven en klik op de koppeling voor **zichtbaarheidsregels******.
+1. Selecteer het veld dat u dynamisch wilt verbergen/weergeven en klik op de koppeling voor **Zichtbaarheid** **Regels**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -63,9 +63,9 @@ Een heel leuke functie van Marketo-formulieren is dat u formuliervelden of [veld
 
    >[!NOTE]
    >
-   >Eerder hebben we Land omgezet in een veldtype voor een keuzelijst en alle landen [toegevoegd als waarden](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >We hebben eerder een land omgezet in een veldtype voor een keuzelijst en [hebben alle landen toegevoegd als waarden](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -75,5 +75,5 @@ En dat is het! Wanneer mensen dit formulier nu invullen en Verenigde Staten voor
 >
 >**Diep duiken**
 >
->Meer informatie over [formulieren](http://docs.marketo.com/display/docs/forms)?
+>Wilt u meer informatie over [formulieren](http://docs.marketo.com/display/docs/forms)?
 
