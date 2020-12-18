@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Offlineconversies van Facebook {#understanding-facebook-offline-conversions}
+# Facebook Offline conversies {#understanding-facebook-offline-conversions}
 
 Facebook-campagnes voor advertenties genereren leads en sturen deze naar Marketo voor gebruik in marketingcampagnes. Zonder zichtbaarheid in offline conversies kan de Facebook-adverteerder echter niet weten welke advertenties het meest effectief zijn. Hier is een voorbeeld.
 
@@ -40,9 +40,9 @@ Dat betekent dat Advertentie 1, ondanks het genereren van minder leads, een succ
 >
 >Zonder offline conversies zou de adverteerder waarschijnlijk meer geld investeren in advertentie 3. Met offlineconversiegegevens zal de adverteerder waarschijnlijker investeren in advertentie 1.
 
-U kunt Offlineconversies [van Facebook](set-up-facebook-offline-conversions.md) instellen om offline en prestaties naar Facebook te verzenden.
+U kunt [Offlineconversies van Facebook instellen](set-up-facebook-offline-conversions.md) om offline en prestaties naar Facebook te verzenden.
 
-1. Zorg ervoor dat de integratie [van](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) Facebook LaunchPoint up-to-date is.
+1. Zorg ervoor dat uw [integratie met Facebook LaunchPoint](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) up-to-date is.
 1. Wijs fasen in uw model van de conjunctuurcyclus aan off-line omzettingsstadia op Facebook toe.
 1. Wanneer een Facebook-lead wordt gegenereerd vanuit een Facebook-advertentie en een toegewezen podium bereikt, stuurt Marketo de gegevens voor offline conversie een aantal keren per dag terug naar Facebook via een beveiligde, geautomatiseerde API. De gegevens worden weergegeven in het rapport Advertentiebeheer op Facebook.
 
