@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Campagnegegevens exporteren {#export-web-campaign-data}
+# Campagnegegevens voor web exporteren {#export-web-campaign-data}
 
 Voer de volgende eenvoudige stappen uit om uw webcampagnegegevens te exporteren.
 
-1. Ga naar **webcampagnes**.
+1. Ga naar **Webcampagnes**.
 
    ![](assets/one-2.png)
 
