@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # E-mail opnieuw delen en vragen voor een sociale app configureren {#configure-re-share-email-and-prompt-for-a-social-app}
 
-Wanneer u een [verwijzingsaanbieding](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of een [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)creeert, kunt u deelnemers uitnodigen om uw voorstel met meer vrienden als deel van het ondertekeningsproces te delen, evenals standaardteksten voor het aandeel e-mail te verstrekken.
+Wanneer u een [verwijzingsaanbod](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of een [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) creeert, kunt u deelnemers uitnodigen om uw aanbieding met meer vrienden als deel van het ondertekeningsproces te delen, evenals standaardtekst voor het aandeel e-mail te verstrekken.
 
 >[!NOTE]
 >
->In een verwijzingsvoorstel, kunt u het delen van de aanbieding een vereiste [ook](../../../../product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) maken om te ondertekenen.
+>In een verwijzingsaanbieding, kunt u [het delen van de aanbieding een vereiste ](../../../../product-docs/demand-generation/social/social-functions/set-social-share-requirement.md) ook maken om omhoog te ondertekenen.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecteer het verwijzingsvoorstel, en klik **uitgeven Ontwerp.**
+1. Selecteer het verwijzingsaanbod en klik op **Concept bewerken.**
 
    ![](assets/image2014-9-22-11-3a6-3a56.png)
 
-1. In de verwijzingsaanbiedingsredacteur, ga **Sign-Up Stroom** > **Opnieuw delen Herinnering.**
+1. In de verwijzingsaanbiedingsredacteur, ga **Sign-Up Stroom** > **Opnieuw delen Vragen.**
 
    ![](assets/image2014-9-22-11-3a7-3a9.png)
 
@@ -37,11 +37,11 @@ Wanneer u een [verwijzingsaanbieding](../../../../product-docs/demand-generation
    >
    >Het e-mailbericht bevat automatisch de unieke URL voor delen van uw deelnemer.
 
-1. Klik in het venster **Weergave** en **Bewerken** op Bewerken **tonen** en bewerk de uitnodiging voor delen en de instructies voor de voortgang van de track.
+1. Klik in het venster **Weergave** &amp; **Bewerken** op **Bewerkingen tonen** en bewerk de uitnodiging voor delen en de instructies voor de voortgang van het spoor.
 
    ![](assets/image2014-9-22-11-3a7-3a49.png)
 
 >[!MORELIKETHIS]
 >
->Vervolgens kunt u de voortgangsstroom van het [spoor configureren in een verwijzingsaanbod](configure-track-progress-flow-for-a-referral-offer.md)of op **Voltooien > Goedkeuren en Sluiten** klikken om uw verwijzingsaanbod [of](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) opmerkingen [te](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)publiceren.
+>Vervolgens kunt u de [voortgangsstroom bijhouden in een verwijzingsaanbieding](configure-track-progress-flow-for-a-referral-offer.md) configureren of op **Voltooien > Goedkeuren en Sluiten** klikken om uw verwijzingsaanbod](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) of [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) te publiceren.[
 
