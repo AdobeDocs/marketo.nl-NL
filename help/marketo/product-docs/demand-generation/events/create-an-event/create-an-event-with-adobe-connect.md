@@ -21,29 +21,29 @@ Door te synchroniseren met Adobe Connect kunt u uw webinar-registratie en -aanwe
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-Controleer eerst of u een vergadering of seminar in Adobe Connect hebt gemaakt. Raadpleeg de [Adobe Connect-gebruikershandleiding](http://help.adobe.com/en_US/connect/9.0/using/index.html)als u hulp nodig hebt. De vergaderingen en seminars die u in Adobe Connect maakt, moeten worden gemaakt in de map die u hebt opgegeven bij het invoeren van uw referenties in Marketo. Nadat u uw vergadering of seminar hebt gemaakt, moet u alle relevante logistieke informatie (zoals het telefoonnummer) noteren die u in het bevestigingsbericht en het ICS-bestand kunt gebruiken.
+Controleer eerst of u een vergadering of seminar in Adobe Connect hebt gemaakt. Raadpleeg voor hulp de [Adobe Connect User Guide](http://help.adobe.com/en_US/connect/9.0/using/index.html). De vergaderingen en seminars die u in Adobe Connect maakt, moeten worden gemaakt in de map die u hebt opgegeven bij het invoeren van uw referenties in Marketo. Nadat u uw vergadering of seminar hebt gemaakt, moet u alle relevante logistieke informatie (zoals het telefoonnummer) noteren die u in het bevestigingsbericht en het ICS-bestand kunt gebruiken.
 
 >[!NOTE]
 >
->Adobe Connect On-Site wordt momenteel **niet** ondersteund.
+>Wij **bieden momenteel geen ondersteuning voor Adobe Connect On-Site.**
 
-1. Selecteer **Gebeurtenishandelingen** bij een nieuwe gebeurtenis en **Gebeurtenisinstellingen**.
+1. Selecteer **Gebeurtenishandelingen** thuis van een nieuwe gebeurtenis en **Gebeurtenisinstellingen**.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >Als u **Gebeurtenisinstellingen** niet ziet in de vervolgkeuzelijst, controleert u of het kanaal van de gebeurtenis **Gebeurtenis bevat terwijl Webinar** is geselecteerd onder &quot;Van toepassing op&quot;.
+   >Als u **Gebeurtenisinstellingen** niet ziet in de vervolgkeuzelijst, controleert u of het kanaal van de gebeurtenis **Gebeurtenis met webinar** is geselecteerd onder &quot;Van toepassing op&quot;.
 
 1. Selecteer **Adobe Connect** onder **Gebeurtenispartner**.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Selecteer de **aanmeldings** -id en selecteer de **gebeurtenis**.
+1. Selecteer uw **Login** ID en selecteer uw **Gebeurtenis**.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/event-settings-overview.png)
 
@@ -57,7 +57,7 @@ Controleer eerst of u een vergadering of seminar in Adobe Connect hebt gemaakt. 
    >
    >Als u de unieke URL van de persoon in een e-mailbericht wilt invoegen, gebruikt u deze token: `{{member.webinar url}}`. Wanneer de e-mail wordt verzonden, lost dit token automatisch de unieke bevestiging-URL van de persoon vanuit Adobe Connect op.
    >
-   >Stel het bevestigingsbericht in op **Operationeel** om ervoor te zorgen dat personen die zich registreren en mogelijk worden afgemeld, nog steeds hun bevestigingsgegevens ontvangen.
+   >Stel uw bevestigingsbericht in op **Operationeel** om ervoor te zorgen dat personen die zich registreren en mogelijk niet-geabonneerd zijn, nog steeds hun bevestigingsgegevens ontvangen.
 
    ![](assets/adobe.png)
 
