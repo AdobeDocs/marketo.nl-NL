@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwijzingsvoorstel maken {#create-a-referral-offer}
+# Een doorverwijzing maken {#create-a-referral-offer}
 
 Verwijzing biedt mensen een prikkel om hun vrienden te raadplegen. Creëer doelstellingen en beloningen voor succesvolle verwijzingen. U kunt het op landingspagina&#39;s, uw website, en zelfs Facebook laten vallen.
 
@@ -21,11 +21,11 @@ Verwijzing biedt mensen een prikkel om hun vrienden te raadplegen. Creëer doels
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Kies **Nieuw** > **Nieuw lokaal element in uw programma.**
+1. Selecteer **Nieuw** > **Nieuw lokaal element.**
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. Klik in de **lokale middelengalerie** op **Verwijzingsvoorstel.**
+1. In **Lokale middelengalerie,** klik **Referral-aanbod.**
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -35,11 +35,11 @@ Verwijzing biedt mensen een prikkel om hun vrienden te raadplegen. Creëer doels
 
    >[!TIP]
    >
-   >Als u tijd wilt besparen, kunt u de optie **Klonen uit** gebruiken om alle instellingen van een bestaande verwijzingsaanbieding te kopiëren.
+   >Om tijd te besparen, kunt u **Klonen van** optie gebruiken om alle montages van een bestaande verwijzingsaanbieding te kopiëren.
 
    De verwijzingsaanbiedingsredacteur opent in een nieuw venster. De standaardinstellingen zijn allemaal goed, maar u moet een koppeling toevoegen aan de regels van uw aanbieding (voorwaarden). De koppeling wordt onder in de berichtvensters voor delen weergegeven. In de volgende stap wordt u uitgelegd hoe u dit doet.
 
-1. Klik op **Geavanceerde opties.**
+1. Klik **Geavanceerde opties.**
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
@@ -49,17 +49,17 @@ Verwijzing biedt mensen een prikkel om hun vrienden te raadplegen. Creëer doels
 
    >[!NOTE]
    >
-   >Op dit scherm kunt u ook een koppeling naar het privacybeleid toevoegen. Zie Uw privacybeleid [toevoegen aan een sociale app](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >Op dit scherm kunt u ook een koppeling naar het privacybeleid toevoegen. Zie [Uw privacybeleid toevoegen aan een sociale app](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Klik op **Voltooien.**
+1. Klik **Voltooien.**
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. Klik op **Goedkeuren** **en op** **Sluiten.**
+1. Klik **Goedkeuren** **en** **Sluiten.**
 
    >[!TIP]
    >
-   >Als u de standaardinstellingen in uw verwijzingsvoorstel wilt wijzigen, klikt u op **Vorige**. Als u uw werk voor later wilt opslaan zonder het goed te keuren, klikt u op **Sluiten.**
+   >Om om het even welke gebreken in uw verwijzingsaanbieding te veranderen, klik **Terug**. Als u uw werk voor later wilt opslaan zonder het goed te keuren, klikt u op **Sluiten.**
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
@@ -69,7 +69,7 @@ Gefeliciteerd! Je hebt je verwijzingsvoorstel gemaakt.
 
 >[!MORELIKETHIS]
 >
->De volgende stap bestaat uit het [publiceren van uw verwijzingsaanbod](publish-a-referral-offer.md) op een openingspagina, op uw website of op Facebook.
+>De volgende stap bestaat uit het [publiceren van uw verwijzingsaanbod](publish-a-referral-offer.md) op een bestemmingspagina, op uw website, of op Facebook.
 
 >[!NOTE]
 >
