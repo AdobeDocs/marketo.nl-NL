@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Een gebeurteniskanaal bewerken {#edit-an-event-channel}
+# Een gebeurteniskanaal {#edit-an-event-channel} bewerken
 
-U kunt het kanaaltype van het lusje van de **Samenvatting** van de gebeurtenis of van zijn lusje van de **Opstelling** uitgeven.
+U kunt het kanaaltype van de **Summiere** tabel van de gebeurtenis of van zijn **Opstelling** tabel uitgeven.
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ U kunt het kanaaltype van het lusje van de **Samenvatting** van de gebeurtenis o
 
 >[!NOTE]
 >
->Een programma is een specifiek marketinginitiatief. Het **kanaal** moet het leveringsmechanisme zijn, zoals Webinar, Tradeshow, of Online Advertentie. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook uw eigen kanaal [maken.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>Een programma is een specifiek marketinginitiatief. Het **kanaal** is bedoeld om het leveringsmechanisme, zoals Webinar, Tradeshow, of Online Advertentie te zijn. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook [uw eigen kanaal maken.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
 
 ## Van het Summiere Lusje {#from-the-summary-tab}
 
-1. Van de Activiteiten **van de** Marketing, selecteer uw gebeurtenis van de boom.
+1. Van **de Activiteiten van de Marketing**, selecteer uw gebeurtenis van de boom.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navigeer naar de **overzichtsweergave** .
+1. Navigeer naar de weergave **Summary**.
 
    ![](assets/eventprogramsummary.png)
 
-1. Selecteer onder de categorie **Instellingen** het huidige **kanaal** dat als hyperlink wordt weergegeven.
+1. Selecteer onder de categorie **Instellingen** de huidige **Kanaal** die als hyperlink wordt weergegeven.
 
    ![](assets/channeltypeevent.png)
 
@@ -41,27 +41,27 @@ U kunt het kanaaltype van het lusje van de **Samenvatting** van de gebeurtenis o
 
    ![](assets/tradeshowchange.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## Van het Lusje van de Opstelling {#from-the-setup-tab}
 
-Een nieuw kanaaltype kan ook van het lusje van de **Opstelling** van de gebeurtenis worden toegewezen.
+Een nieuw kanaaltype kan ook van de **Opstelling** tabel van de gebeurtenis worden toegewezen.
 
 1. Selecteer de gebeurtenis in de boomstructuur.
 
    ![](assets/eventprogramseelct.png)
 
-1. Navigeer naar het tabblad **Setup** . Dubbelklik op het huidige **kanaal**.
+1. Navigeer aan **Opstelling** tabel. Dubbelklik op het huidige **Kanaal**.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Selecteer een nieuw **kanaal**.
+1. Selecteer een nieuw **Kanaal**.
 
    ![](assets/tradeshowchange.png)
 
-1. Klik op **Opslaan.**
+1. Klik **Opslaan.**
 
    ![](assets/2017-06-13-09-35-53.png)
 
