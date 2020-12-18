@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sjabloon 8-F {#template-f}
+# Template 8-F {#template-f}
 
 [Sjabloon 8-F downloaden](http://docs.marketo.com/download/attachments/8783975/template-8f.html?version=1&amp;modificationdate=1482175174000&amp;api=v2)
 
