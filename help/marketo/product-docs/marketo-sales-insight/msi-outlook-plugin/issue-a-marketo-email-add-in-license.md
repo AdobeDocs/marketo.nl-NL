@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een licentie voor een Marketo-e-mailinvoegtoepassing uitgeven {#issue-a-marketo-email-add-in-license}
+# Licentie {#issue-a-marketo-email-add-in-license} voor e-mailinvoegtoepassing voor markeertekens uitgeven
 
 Iedereen die de toe:voegen-binnen van de Vooruitzichten van de Marketo E-mail wil gebruiken moet eerst een vergunning worden verleend. Er zijn twee manieren om de licentie te verstrekken.
 
@@ -32,11 +32,11 @@ Iedereen die de toe:voegen-binnen van de Vooruitzichten van de Marketo E-mail wi
 
 ![](assets/image2015-7-20-17-3a48-3a17.png)
 
-1. Klik onder het tabblad **E-mailinvoegtoepassing **op **Licentie** uitgeven.
+1. Klik onder het tabblad **E-mailinvoegtoepassing **op **Licentie voor uitgave**.
 
    ![](assets/image2016-7-22-10-3a20-3a15.png)
 
-1. Voer de e-mailadressen in van de verkopers die moeten worden geautoriseerd voor het gebruik van de plug-in en klik op **Licentie** uitgeven.
+1. Voer de e-mailadressen in van de verkopers die moeten worden geautoriseerd voor het gebruik van de plug-in en klik op **Licentie uitgeven**.
 
    ![](assets/image2016-8-31-9-3a37-3a8.png)>
 
@@ -46,7 +46,7 @@ Iedereen die de toe:voegen-binnen van de Vooruitzichten van de Marketo E-mail wi
 
    >[!NOTE]
    >
-   >Als u de insteekmodule op afstand wilt installeren, schakelt u het selectievakje uit en stuurt u uw IT-team naar [Enterprise Key](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
+   >Als u de plug-in op afstand wilt installeren, schakelt u het selectievakje uit en verzendt u uw IT-team uw [Enterprise Key](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
    >
    >Als uw verkopers beheerderstoegang tot hun computers hebben, controleer de doos en u wordt gedaan!
 
