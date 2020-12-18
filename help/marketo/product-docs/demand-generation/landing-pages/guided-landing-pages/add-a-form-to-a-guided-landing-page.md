@@ -23,11 +23,11 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
 
 
-1. Ga naar het gebied **Marketingactiviteiten** .
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/one.png)
 
-1. Zoek en selecteer de bestemmingspagina en klik op Concept **** bewerken.
+1. Zoek en selecteer de bestemmingspagina en klik **Concept** bewerken.
 
    ![](assets/two.png)
 
@@ -35,7 +35,7 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
    >
    >De beschikbare elementen in geleide het landen pagina&#39;s worden bepaald door het malplaatje. Als u geen formulier ziet in het deelvenster Elementen, selecteert u een nieuwe sjabloon of neemt u contact op met de sjabloonmaker.
 
-1. Dubbelklik op het **formulier** in het deelvenster Elementen.
+1. Dubbelklik op het **Formulier** in het deelvenster Elementen.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -53,7 +53,7 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
    >
    >De vervolgpagina is de pagina die mensen zien nadat ze het formulier hebben verzonden.
 
-1. In dit voorbeeld gebruiken we Formulier gedefinieerd. Klik op **Invoegen**.
+1. In dit voorbeeld gebruiken we Formulier gedefinieerd. Klik **Invoegen**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
@@ -61,4 +61,4 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Sluit nu gewoon de editor voor de bestemmingspagina en [keur het concept](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)van de bestemmingspagina goed.
+Sluit nu gewoon de bestemmingspagina-editor en [keur het concept van de bestemmingspagina goed](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
