@@ -37,7 +37,7 @@ Meer informatie over de verschillende instellingsopties in MPI.
 |---|---|
 | **JUISTIJD** | Stel de vorige periode in op dezelfde maand of hetzelfde kwartaal in het voorgaande jaar. |
 
-## Marketing-Geïmpliceerde Kansen {#marketing-influenced-opportunities}
+## Marketinggebonden kansen {#marketing-influenced-opportunities}
 
 **Pipetlijndashboard - Bijdrage en trend**
 
@@ -69,7 +69,7 @@ Inkomstendashboard - Bijdrage en ontwikkeling
  </tbody> 
 </table>
 
-## Kostenberekening {#cost-calculation}
+## Kostprijsberekening {#cost-calculation}
 
 **Pijpleiding- en inkomstendashboards - Bijdrage en trends**
 
