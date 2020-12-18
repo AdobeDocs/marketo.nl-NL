@@ -19,7 +19,7 @@ Als uw Marketo-account via een aangepaste of niet-native integratie is verbonden
 >
 >* Bereik uit aan uw Manager van het Succes van de Klant om de &quot;niet-inheemse eigenschap MSI&quot;voor uw instantie van het Marketo toe te laten.
 >* Een Salesforce-account met MSI Package-up.
->* Marketo REST API [is ingesteld](http://developers.marketo.com/rest-api/). De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
+>* Marketo REST API [met succes opstelling](http://developers.marketo.com/rest-api/). De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
 >* Lees [dit blogbericht](http://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) om meer inzicht te krijgen in het object en de relaties.
 >* Stel Salesforce-objecten in om de algemeen unieke id weer te geven voor 18 hoofdletters en kleine letters in plaats van voor 15 hoofdletters en kleine letters.
 
@@ -31,11 +31,11 @@ Als uw Marketo-account via een aangepaste of niet-native integratie is verbonden
 >
 >De configuratie van de REST API in het Admin Panel van Marketo MSI kan niet voor de niet-inheemse synchronisatie worden gebruikt.
 
-## Voor een geslaagde externe synchronisatie van MSI is het volgende vereist {#successful-non-native-sync-for-msi-requires-the-following}
+## Voor geslaagde niet-native synchronisatie voor MSI is het volgende {#successful-non-native-sync-for-msi-requires-the-following} vereist
 
 1. Synchroniseer de Salesforce-verkoopgebruiker naar Marketo.
 
-   De verkoopgebruiker van Salesforce is een externe gebruiker die de Leads/Contacten in Salesforce bezit. Een verkoper van de Marketo moet voor de Gebruiker van de Verkoop van Salesforce worden bevestigd. Het veld *externalSalesPersonId* is verplicht voor het toezicht op de verkoper.
+   De verkoopgebruiker van Salesforce is een externe gebruiker die de Leads/Contacten in Salesforce bezit. Een verkoper van de Marketo moet voor de Gebruiker van de Verkoop van Salesforce worden bevestigd. Het veld *externalSalesPersonId* is verplicht voor de invoeging van de verkoper.
 
 <table> 
  <colgroup> 
@@ -62,7 +62,7 @@ API-documentatie voor het synchroniseren van de verkoper: [https://developers.ma
 
 1. Synchroniseer de Salesforce-accounts met Marketo.
 
-   Een Marketo Company zal voor de Rekening van Salesforce moeten worden opgenomen. De gebieden *externalCompanyId* en *externalSalesPersonId* worden mandated voor het toezicht van het Bedrijf.
+   Een Marketo Company zal voor de Rekening van Salesforce moeten worden opgenomen. De *externalCompanyId* en *externalSalesPersonId* gebieden worden verplicht voor de opnemer van het Bedrijf.
 
 <table> 
  <colgroup> 
@@ -94,7 +94,7 @@ API-documentatie voor bedrijven: [https://developers.marketo.com/rest-api/lead-d
 
 1. Synchroniseer de Salesforce-contacten met Marketo.
 
-   U moet een Marketo-lead bijwerken voor de Salesforce-lead/contactpersoon. De *externalPersonId*, *externalSalesPersonId*, en *externalCompanyId* gebieden zijn mandated voor de bovenkant van het Lood.
+   U moet een Marketo-lead bijwerken voor de Salesforce-lead/contactpersoon. De *externalPersonId*, *externalSalesPersonId*, en *externalCompanyId* gebieden zijn verplicht voor de bovenkant van de Lood.
 
 <table> 
  <colgroup> 
@@ -131,7 +131,7 @@ API-documentatie voor het synchroniseren van leads:  [https://developers.marketo
 
 1. Synchroniseer Salesforce Opportunity op Marketo.
 
-   U moet een Marketo Opportunity voor de Salesforce Opportunity handhaven. De velden *externalOpportunityId*, *externalCompanyId* en *externalSalesPersonId* zijn verplicht voor de invoeging van de Opportunity.
+   U moet een Marketo Opportunity voor de Salesforce Opportunity handhaven. De *externalOpportunityId*, *externalCompanyId*, en *externalSalesPersonId* gebieden zijn verplicht voor de controle van de Opportunity.
 
 <table> 
  <colgroup> 
@@ -168,7 +168,7 @@ API-documentatie voor Opportunity: [`https://developers.marketo.com/rest-api/lea
 
 1. Synchroniseer Salesforce-contactrollen naar Marketo.
 
-   De Rollen van het Contact van Salesforce voor een Kans van Salesforce kunnen dan via de Rol van de Kans van de Marketo worden gesynchroniseerd. Het verslag van de Rol van de Opportunity mandeert *externalOpportunityId*, *rol*, en *leadId* gebieden.
+   De Rollen van het Contact van Salesforce voor een Kans van Salesforce kunnen dan via de Rol van de Kans van de Marketo worden gesynchroniseerd. In de opportunityrolrecord worden de velden *externalOpportunityId*, *rol* en *leadId* verplicht.
 
 <table> 
  <colgroup> 
@@ -228,7 +228,7 @@ API-documentatie voor Opportunity: [`https://developers.marketo.com/rest-api/lea
   </tr> 
   <tr> 
    <td>msiLastInterestingMomentType</td> 
-   <td>Label: Last Interesting Moment<br>TypeName: Last_Interesting_Moment_Type__c</td> 
+   <td>Label: Laatste interessant momentype<br>Naam: Last_Interesting_Moment_Type__c</td> 
    <td>Type van het laatste interessante moment voor de lead</td> 
   </tr> 
   <tr> 
