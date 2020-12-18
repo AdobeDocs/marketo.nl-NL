@@ -21,4 +21,4 @@ Gewoonlijk zijn bestanden van meer dan 20 MB te groot om te worden geleverd. De 
 >
 >Als u Tout gebruikt als uw e-mailleveringskanaal, raden we bestanden van 19 MB of minder aan wanneer we e-mailberichten verzenden.
 
-Als u absoluut een groot bestand wilt verzenden, kunt u het eerst comprimeren of uploaden als een [bijlagebijlage](http://docs.marketo.com/x/3oPS) die u kunt bijhouden in de [webtoepassing](http://toutapp.com/login).
+Als u absoluut een groot dossier moet verzenden, probeer eerst het of upload het als [trackable gehechtheid](http://docs.marketo.com/x/3oPS) in [Webtoepassing](http://toutapp.com/login).
