@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# E-mail verzenden vanuit Gmail {#how-to-send-an-email-from-gmail}
+# E-mail verzenden van Gmail {#how-to-send-an-email-from-gmail}
 
-1. Klik in Gmail op **Samenstellen**.
+1. Klik in Gmail op **Compose**.
 1. Voer het e-mailadres van de ontvanger in.
 1. Voer het onderwerp van de e-mail in.
 1. Selecteer een e-mailsjabloon of schrijf een nieuw bericht.
-1. Klik op de knop **Verzenden en verbinden** als uw e-mail gereed is voor verzending. Klik op die knop in plaats van op de normale verzendknop `will ensure your email is sent with tracking applied`. Sales Connect houdt bij wanneer uw e-mail wordt geopend en wanneer iemand op koppelingen klikt.
+1. Als uw e-mail gereed is voor verzending, klikt u op de knop **Verzenden en verbinden**. Klik op die knop in plaats van op de normale verzendknop `will ensure your email is sent with tracking applied`. Sales Connect houdt bij wanneer uw e-mail wordt geopend en wanneer iemand op koppelingen klikt.
 
