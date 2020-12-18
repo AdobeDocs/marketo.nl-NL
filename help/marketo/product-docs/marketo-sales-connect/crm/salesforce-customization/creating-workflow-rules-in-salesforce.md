@@ -17,7 +17,7 @@ Als tegelijkertijd Marketo Sales Insight (MSI) en Marketo Sales Connect (MSC) wo
 
 >[!NOTE]
 >
->Dit beïnvloedt slechts klanten die **zowel** MSI als MSE gebruiken, en die de Beste eigenschap van Betten in MSI willen gebruiken. Als u geen Best Bets nodig hebt/gebruikt, kunt u dit negeren.
+>Dit beïnvloedt slechts klanten die **zowel** MSI en MSE gebruiken, en die de Beste eigenschap van Bets in MSI willen gebruiken. Als u geen Best Bets nodig hebt/gebruikt, kunt u dit negeren.
 
 ## Aan de slag {#getting-started}
 
@@ -33,19 +33,19 @@ Hieronder vindt u de aanbevolen namen van de workflowregels en een beschrijving 
  <tbody> 
   <tr> 
    <td>Interessant momebeschrijving bijwerken</td> 
-   <td><p>Kopiëren van: Last Marketo Engagement<br>DescCopy naar: Laatste interessante momentele beschrijving</p></td> 
+   <td><p>Kopiëren van: Laatste markeerteken voor betrokkenheid<br>Kopiëren naar: Laatste interessante momentele beschrijving</p></td> 
   </tr> 
   <tr> 
    <td>Het veld Interessentype van moment bijwerken</td> 
-   <td><p>Kopiëren van: Laatste<br>kopie marktobetrokkenheid bij: Type laatst interessant moment</p></td> 
+   <td><p>Kopiëren van: Laatste type betrokkenheid markeerteken<br>Kopiëren naar: Type laatst interessant moment</p></td> 
   </tr> 
   <tr> 
    <td>Veld voor interessante momentenbron bijwerken</td> 
-   <td><p>Kopiëren van: Last Marketo Engagement<br>SourceCopy to: Laatste interessante mompbron</p></td> 
+   <td><p>Kopiëren van: Laatste Marketo Engagement Source<br>Kopiëren naar: Laatste interessante mompbron</p></td> 
   </tr> 
   <tr> 
    <td>Veld voor datum van interessant moment bijwerken</td> 
-   <td><p>Kopiëren van: Laatste Marketo Engagement<br>DateCopy naar: Datum laatste interessant moment</p></td> 
+   <td><p>Kopiëren van: Laatste datum van betrokkenheid marktoverzicht<br>Kopiëren naar: Datum laatste interessant moment</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -64,39 +64,39 @@ Hieronder vindt u de aanbevolen namen van de workflowregels en een beschrijving 
 
    ![](assets/three-1.png)
 
-1. Voer &quot;Interessent-momentveld bijwerken&quot; in als naam voor de regel. Selecteer het **gemaakte keuzerondje en telkens wanneer het wordt bewerkt**. In de drop-down van de Criteria van de Regel evalueert de uitgezochte **formule tot waar**. Zoek naar en selecteer de ISCHANGED functie. Markeer vervolgens de standaardveldwaarde en klik op Veld **** invoegen.
+1. Voer &quot;Interessent-momentveld bijwerken&quot; in als naam voor de regel. Selecteer het gemaakte keuzerondje **en elke keer dat het wordt bewerkt**. Selecteer **formule in de vervolgkeuzelijst Regelcriteria om het resultaat waar te maken**. Zoek naar en selecteer de ISCHANGED functie. Markeer vervolgens de standaardwaarde van het veld en klik op **Veld invoegen**.
 
    ![](assets/four-1.png)
 
-1. Kies in het pop-upvenster Veld invoegen de optie **Laatste markering voor betrokkenheid bij** betrokkenheid en klik op **Invoegen**.
+1. Kies **Laatste markering voor betrokkenheid bij aanbieding** in het pop-upmenu Veld invoegen en klik op **Invoegen**.
 
    ![](assets/five-1.png)
 
-1. Klik op **Opslaan en Volgende**.
+1. Klik **Opslaan &amp; Volgende**.
 
    ![](assets/6.png)
 
-1. Selecteer in de vervolgkeuzelijst Workflowactie toevoegen de optie **Nieuwe veldupdate**.
+1. Selecteer **Nieuwe veldupdate** in de vervolgkeuzelijst Workflowactie toevoegen.
 
    ![](assets/seven.png)
 
-1. Voer in het veld Naam het veld &quot;Interesten momentbeschrijving bijwerken&quot; in (de unieke naam wordt automatisch gegenereerd). Kies in het veld Veld voor bijwerken de optie **Laatste interessante momentbeschrijving**. Selecteer een formule **gebruiken om een keuzerondje voor een nieuwe waarde** in te stellen en klik vervolgens op **Formule-editor** tonen.
+1. Voer in het veld Naam het veld &quot;Interesten momentbeschrijving bijwerken&quot; in (de unieke naam wordt automatisch gegenereerd). Kies **Laatste interessante momentbeschrijving** in het veld voor bijwerken. Selecteer **Gebruik een formule om nieuwe waarde** radioknoop te plaatsen, dan klik **toon de Redacteur van de Formule**.
 
    ![](assets/eight.png)
 
-1. Klik op de knop Veld **** invoegen.
+1. Klik op de knop **Veld invoegen**.
 
    ![](assets/9a.png)
 
-1. Selecteer **Laatste markering voor betrokkenheid** en klik op **Invoegen**. Klik op de volgende pagina op **Opslaan**.
+1. Selecteer **Laatste markeerteken voor betrokkenheid** en klik op **Invoegen**. Voor de volgende pagina, klik **sparen**.
 
    ![](assets/nine.png)
 
-1. Klik op **Gereed**.
+1. Klik **Done**.
 
    ![](assets/twelve.png)
 
-1. Klik op **Activeren** om de workflowregel in te schakelen.
+1. Klik **Activeer** om de workflowregel in te schakelen.
 
    ![](assets/thirteen.png)
 
