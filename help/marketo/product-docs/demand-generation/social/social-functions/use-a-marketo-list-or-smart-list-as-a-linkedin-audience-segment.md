@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een lijst met markeertekens of een slimme lijst gebruiken als een segment voor LinkedIn-publiek {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
+# Een lijst met markeertekens of een slimme lijst gebruiken als een LinkedIn Audience-segment {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
 Integreer uw Marketo-mensen met uw LinkedIn-publiek.
 
@@ -31,11 +31,11 @@ Integreer uw Marketo-mensen met uw LinkedIn-publiek.
 
    ![](assets/two.png)
 
-1. Klik op het tabblad **Personen** .
+1. Klik op het tabblad **Personen**.
 
    ![](assets/three-1.png)
 
-1. Klik op het pictogram** Verzenden via Adobe Bridge ** ![—](assets/image2015-4-20-18-3a18-3a41.png) onder aan de lijst.
+1. Klik op het pictogram** Verzenden via Adobe Bridge **pictogram ![—](assets/image2015-4-20-18-3a18-3a41.png) onder aan de lijst.
 
    ![](assets/four-1.png)
 
@@ -43,15 +43,15 @@ Integreer uw Marketo-mensen met uw LinkedIn-publiek.
    >
    >Wanneer het gebruiken van de integratie van het advertentienetwerk om een publiek naar LinkedIn te verzenden, verzendt Marketo slechts het e-mailadres over.
 
-1. Selecteer** LinkedIn** en klik op **Volgende**.
+1. Selecteer** LinkedIn** en klik **Next**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. Selecteer een **Publiek** LinkedIn.
+1. Selecteer een **LinkedIn Audience**.
 
    >[!NOTE]
    >
-   >Het klikken **+Nieuwe Publiek** zal tot een publiek in LinkedIn de Manager van de Campagne leiden.
+   >Als u op **+New Audience** klikt, wordt een publiek gemaakt in LinkedIn Campaign Manager.
 
    ![](assets/6.png)
 
@@ -59,7 +59,7 @@ Integreer uw Marketo-mensen met uw LinkedIn-publiek.
    >
    >LinkedIn heeft de API&#39;s vervangen die in maart 2018 worden gebruikt voor het pushtype &quot;Clear publiek and add lead&quot;. Deze optie is niet meer beschikbaar vanaf de release Q1 2018 van Marketo.
 
-1. Selecteer een **pushtype**. Klik op **Bijwerken**.
+1. Selecteer een **Push Type**. Klik **Update**.
 
    ![](assets/7.png)
 
