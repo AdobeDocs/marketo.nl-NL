@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Woordenlijst Dynamische velden {#dynamic-fields-glossary}
+# Woordenlijst voor dynamische velden {#dynamic-fields-glossary}
 
-Wanneer het creëren van een malplaatje in Verkoop verbindt, adviseren wij altijd het integreren dynamische gebieden, gebruikend de Dynamische knoop van **MSE van Gebieden** .
+Wanneer het creëren van een malplaatje in Verkoop verbindt, adviseren wij altijd het integreren van dynamische gebieden, gebruikend **MSE Dynamische Gebieden** knoop.
 
-Met dit gereedschap kunt u vele malen tijd besparen `auto-personalize your email` en besparen `pulling information from the People page`.
+Dit hulpmiddel wordt gebruikt aan `auto-personalize your email` en sparen u tonnen tijd door `pulling information from the People page`.
 
 | Dynamisch veld | Voorbeeld van wat er in uw e-mail wordt weergegeven |
 |---|---|
@@ -30,12 +30,12 @@ Met dit gereedschap kunt u vele malen tijd besparen `auto-personalize your email
 
 **Notities**:
 
-* Als een contactpersoon `information is entered incorrectly` of een contactpersoon niet aanwezig is op de pagina Personen, wordt deze `will not pull over correctly` in uw sjabloon weergegeven.
+* Als een contact `information is entered incorrectly` of van de pagina van Mensen mist, `will not pull over correctly` in uw malplaatje.
 
-* Het verschil tussen `{{company}}` en `{{company_friendly}}` is dat `{{company_friendly}}` , `remove any formal title`zoals Inc., LLC., enz., van de naam van het bedrijf van uw contactpersoon zal zijn.
-* Wanneer het gebruiken `{{company_friendly}}`, zorg ervoor u Inc. scheidt of met een komma in de contactdetails. Zo weet Sales Connect wat er moet worden verwijderd wanneer u de waarde opgeeft.
+* Het verschil tussen `{{company}}` en `{{company_friendly}}` is dat `{{company_friendly}}` `remove any formal title`, zoals Inc., LLC., etc., van de naam van het bedrijf van uw contact zal.
+* Wanneer het gebruiken van `{{company_friendly}}`, zorg ervoor u Inc. scheidt of met een komma in de contactdetails. Zo weet Sales Connect wat er moet worden verwijderd wanneer u de waarde opgeeft.
 
 >[!TIP]
 >
->U kunt uw eigen [aangepaste dynamische veld](http://docs.marketo.com/x/fADb) maken voor alles wat u automatisch in uw e-mails wilt opnemen
+>U kunt uw eigen [aangepast dynamisch veld maken](http://docs.marketo.com/x/fADb) voor alles wat u automatisch in uw e-mails wilt opnemen
 
