@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Een voorvertoning van een bestemmingspagina weergeven {#preview-a-landing-page}
+# Voorvertoning van een bestemmingspagina {#preview-a-landing-page}
 
 U wilt waarschijnlijk zien hoe de landingspagina eruitziet voordat u deze live maakt.
 
-## Een voorvertoning van een bestemmingspagina weergeven {#preview-a-landing-page-1}
+## Voorvertoning van een bestemmingspagina {#preview-a-landing-page-1}
 
-1. Selecteer een openingspagina en klik op **Voorvertoning** van **pagina**.
+1. Selecteer een openingspagina en klik **Voorvertoning** **Pagina**.
 
    ![](assets/image2014-9-16-16-3a21-3a10.png)
 
@@ -29,23 +29,23 @@ U wilt waarschijnlijk zien hoe de landingspagina eruitziet voordat u deze live m
 
    ![](assets/image2014-9-17-10-3a9-3a49.png)
 
-## Een concept van een openingspagina voorvertonen {#preview-a-landing-page-draft}
+## Voorvertoning van concept van openingspagina {#preview-a-landing-page-draft}
 
-1. Klik met de rechtermuisknop op een goedgekeurde bestemmingspagina met een conceptversie en klik op **Voorvertoning** **concept**.
+1. Klik met de rechtermuisknop op een goedgekeurde bestemmingspagina met een conceptversie en klik op **Voorvertoning** **Concept**.
 
    ![](assets/image2014-9-17-10-3a9-3a56.png)
 
-## Concepten van openingspagina&#39;s voorvertonen tijdens bewerken {#preview-a-landing-page-draft-while-editing}
+## Een voorvertoning weergeven van een concept van een bestemmingspagina tijdens het bewerken van {#preview-a-landing-page-draft-while-editing}
 
-1. Selecteer een openingspagina en klik op **Concept** bewerken ****.
+1. Selecteer een landingspagina en klik **Edit** **Draft**.
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. U kunt op elk gewenst moment tijdens uw werk in de editor voor de bestemmingspagina klikken op Concept **voorvertonen.**
+1. Op om het even welk punt tijdens uw werk in de het landen paginaredacteur, kunt u **Voorproef Concept.**
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 
-1. U kunt snel terugkeren naar het bewerken door op Concept **bewerken te klikken.**
+1. U kunt snel terugkeren naar het bewerken door te klikken op **Concept bewerken.**
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
