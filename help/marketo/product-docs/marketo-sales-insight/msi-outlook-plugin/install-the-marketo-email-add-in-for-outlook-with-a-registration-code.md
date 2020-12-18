@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De invoegtoepassing Marketo E-mail voor Outlook installeren met een registratiecode {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Installeer de toe:voegen-binnen E-mail van de Marketo voor Vooruitzichten met een Code {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code} van de Registratie
 
 Als gebruikers toegang hebben tot de beheerinstellingen op hun laptops, kunt u een registratiecode rechtstreeks naar hen sturen.
 
@@ -19,15 +19,15 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
 
 >[!PREREQUISITES]
 >
->* U moet een Marketo-e-maillicentie [hebben](issue-a-marketo-email-add-in-license.md)ontvangen.
+>* U moet [uitgegeven een vergunning van de Toevoeging van de Marketo E-mail ](issue-a-marketo-email-add-in-license.md) zijn.
 
 >
 
 
 
-## Installatieprogramma downloaden {#download-installer}
+## Installatieprogramma {#download-installer} downloaden
 
-1. Uw [Microsoft Outlook-versie identificeren](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Uw [Microsoft Outlook-versie](http://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c) identificeren
 1. Klik op de koppeling om het installatieprogramma te downloaden dat geschikt is voor uw versie van Microsoft Outlook.
 
    >[!NOTE]
@@ -47,7 +47,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
    | Outlook voor Mac | Niet ondersteund | Niet ondersteund |
    | Outlook Web App | Niet ondersteund | Niet ondersteund |
 
-## Je inschrijvingscode kopiëren {#copy-your-registration-code}
+## Uw registratiecode kopiëren {#copy-your-registration-code}
 
 1. Kopieer de registratiecode van de uitnodigings-e-mail u hebt ontvangen.
 
@@ -57,7 +57,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-## Installeren {#install}
+## {#install} installeren
 
 1. Voer het installatieprogramma uit.
 
@@ -65,13 +65,13 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
 
    >[!NOTE]
    >
-   >Als je een beveiligingswaarschuwing krijgt, maak je dan geen zorgen! Klik gewoon op **Uitvoeren**.
+   >Als je een beveiligingswaarschuwing krijgt, maak je dan geen zorgen! Klik **Run**.
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Vul **Voornaam**, **Achternaam**, **E-mailadres** in, kopieer en plak vervolgens de **Registratiecode **van de e-mail in het formulier en klik op **Volgende**.
+1. Vul **Voornaam**, **Achternaam**, **E-mailadres** in, kopieer en plak de **Registratiecode **van de e-mail in het formulier en klik **Volgende**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -83,15 +83,15 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >Klik op **Ja** als u een beveiligingswaarschuwing over een onbekende uitgever ontvangt.
+   >Als u een veiligheidsherinnering over een onbekende uitgever krijgt, klik **ja**.
 
-1. De installatie is nu volledig, klik **Sluiten**.
+1. De installatie is nu voltooid, klik **Close**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
