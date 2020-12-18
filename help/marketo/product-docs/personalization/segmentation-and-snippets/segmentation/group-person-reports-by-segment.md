@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Groepperingspersoonrapporten per segment {#group-person-reports-by-segment}
+# Groepeer Personen rapporteren per segment {#group-person-reports-by-segment}
 
-U kunt uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reporting) door om het even welk [segment](http://docs.marketo.com/display/docs/basic+reporting) groeperen dat u in uw segmentaties [hebt](create-a-segmentation.md)bepaald.
+U kunt uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reporting) door om het even welke [segment](http://docs.marketo.com/display/docs/basic+reporting) groeperen die u [in uw segmentaties](create-a-segmentation.md) hebt bepaald.
 
-1. Ga naar de sectie **Marketingactiviteiten** (of **Analytics**).
+1. Ga naar **Marketingactiviteiten** (of **Analytics**) sectie.
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -28,21 +28,21 @@ U kunt uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reportin
    >**Diep duiken**
    >
    >
-   >Leer meer over persoonrapporten en andere rapporttypes in de [BasisRapporterende](http://docs.marketo.com/display/docs/basic+reporting) diepe duik.
+   >Leer meer over persoonrapporten en andere rapporttypes in [Basis Rapportering](http://docs.marketo.com/display/docs/basic+reporting) diep duik.
 
-1. Klik op het tabblad **Instellen** en dubbelklik op Personen **groeperen door**.
+1. Klik **Opstelling** tabel en dubbelklik **Mensen groeperen door**.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >U kunt uw persoonrapporten door persoon of bedrijfattribuut [ook](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute)groeperen.
+   >U kunt uw persoonrapporten ook [groeperen door persoon of bedrijfattribuut](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute).
 
-1. Typ &#39;Segmentatie&#39; in het tekstvak in het dialoogvenster Personen **groeperen op** . Wanneer de kop **Segmentaties** wordt weergegeven, selecteert u een optie in de lijst onder de kop.
+1. In **Groepeer Mensen door** dialoog, begin &quot;Segmentatie&quot;in het tekstvakje te typen. Wanneer de koptekst **Segmentaties** wordt weergegeven, selecteert u een optie in de lijst onder de kop.
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. Klik op het tabblad **Rapport** om uw rapport te zien gegroepeerd op het geselecteerde segment.
+1. Klik **Rapport** lusje om uw rapport te zien dat door het geselecteerde segment wordt gegroepeerd.
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 
@@ -50,7 +50,7 @@ U kunt uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reportin
 >
 >**Diep duiken**
 >
->Meer over segmenten leren en hoe te om hen tot stand te brengen en te leiden, zie de [Verdeling](http://docs.marketo.com/display/docs/segmentation+and+snippets) diep duik.
+>Voor meer informatie over segmenten en hoe te om hen tot stand te brengen en te leiden, zie [Segmentation](http://docs.marketo.com/display/docs/segmentation+and+snippets) diep duiken.
 
 >[!MORELIKETHIS]
 >
