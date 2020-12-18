@@ -15,5 +15,5 @@ ht-degree: 0%
 
 Van **Mening **drop-down, kunt u verkiezen om te zien: alle sjablonen, uw sjablonen, gedeelde sjablonen of ongebruikte sjablonen (sjablonen die de afgelopen 90 dagen niet zijn gebruikt).
 
-Daarnaast kunt u kolommen toevoegen aan of verwijderen uit de sjabloonweergave door te klikken op het instellingenpictogram rechts van **Weergave.**
+Bovendien kunt u kolommen toevoegen/verwijderen in uw malplaatjemening door het montagespictogram rechts van **Mening te klikken.**
 
