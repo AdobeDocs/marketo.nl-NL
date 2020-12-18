@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# Offlineconversies van Facebook instellen {#set-up-facebook-offline-conversions}
+# Offline conversies voor Facebook instellen {#set-up-facebook-offline-conversions}
 
 Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zijn gemaakt via Advertenties voor advertenties, kan uw advertentieteam hun advertentie beter dan ooit optimaliseren. Hier is hoe je het instelt.
 
 >[!PREREQUISITES]
 >
->* U moet Facebook Lead Ads [instellen](set-up-facebook-lead-ads.md).
->* U moet een goedgekeurd model in de Modellen van de [Cyclus van de Opbrengst](http://docs.marketo.com/display/docs/revenue+cycle+models)hebben.
+>* U moet [Facebook Lead Ads](set-up-facebook-lead-ads.md) instellen.
+>* U moet een goedgekeurd model in [Modelleerprogramma](http://docs.marketo.com/display/docs/revenue+cycle+models) hebben.
 
 >
 
@@ -34,23 +34,23 @@ Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zij
 
    >[!NOTE]
    >
-   >Als je dat nog niet hebt gedaan, ga dan door en [stel Facebook Lead Ads](set-up-facebook-lead-ads.md)in en kom dan terug hier.
+   >Als je dat nog niet hebt gedaan, ga dan door en [Stel Facebook Lead Ads](set-up-facebook-lead-ads.md) in en kom dan terug hier.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Bewerk desgewenst de **weergavenaam** om Offlineconversies op te nemen. Klik op **Volgende**.
+1. Als u wilt, geeft u **Weergavenaam** op om Offlineconversies op te nemen. Klik **Volgende**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Schakel Offlineconversies **** inschakelen in en klik op **Volgende**.
+1. Schakel **Offlineconversies inschakelen** en klik op **Volgende**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
@@ -58,13 +58,13 @@ Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zij
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
-## Configuratie van inkomstencyclusmodellen {#revenue-cycle-modeler-configuration}
+## Configuratie omzetcyclusmodel {#revenue-cycle-modeler-configuration}
 
 1. Ga naar **Analytics**.
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 
-1. Selecteer uw model en klik op Concept **** bewerken.
+1. Selecteer uw model en klik **Concept** bewerken.
 
    ![](assets/image2016-11-29-13-3a31-3a6.png)
 
@@ -86,7 +86,7 @@ Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zij
    >    * Weergaven van inhoud
 
 
-1. Selecteer het werkgebied dat u wilt toewijzen en selecteer vervolgens in het vervolgkeuzemenu **Facebook-conversie** de Facebook-gebeurtenis waaraan u de gebeurtenis wilt toewijzen. Herhaal deze stap om alle stadia in uw RCM aan off-line omzettingsstadia op Facebook in kaart te brengen.
+1. Selecteer het werkgebied dat u wilt toewijzen en selecteer vervolgens in de vervolgkeuzelijst **Facebook-conversie** de Facebook-gebeurtenis waaraan u de conversie wilt toewijzen. Herhaal deze stap om alle stadia in uw RCM aan off-line omzettingsstadia op Facebook in kaart te brengen.
 
    ![](assets/1-1.png)
 
@@ -102,7 +102,7 @@ Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zij
 
    >[!CAUTION]
    >
-   >Controleer uw Facebook-account en controleer of alle [advertenties zijn gekoppeld](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) aan de set Marketo Offline conversies-gebeurtenissen. Als dat niet het geval is, werkt de toewijzing mogelijk niet.
+   >Controleer uw Facebook-account en zorg ervoor dat alle [advertenties zijn gekoppeld](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) aan de Marketo Offline Conversieset. Als dat niet het geval is, werkt de toewijzing mogelijk niet.
 
    >[!NOTE]
    >
