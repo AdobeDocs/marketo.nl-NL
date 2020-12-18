@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een lijst met gepersonaliseerde URL&#39;s exporteren {#export-a-list-with-personalized-urls}
+# Een lijst exporteren met gepersonaliseerde URL&#39;s {#export-a-list-with-personalized-urls}
 
 >[!PREREQUISITES]
 >
@@ -22,15 +22,15 @@ ht-degree: 0%
 
 
 
-1. Selecteer uw lijst of slimme lijst, klik op het tabblad **Regelafstand** om de resultaten op te halen en klik vervolgens op het pictogram Uitrol. INLINE Zorg ervoor u **Marketo Unieke Code **en **Marketo Unieke** kolommen van de Naam [zichtbaar](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)hebt.
+1. Selecteer uw lijst of slimme lijst, klik op **Leads** lusje om de resultaten te krijgen en dan op het excel pictogram te klikken. INLINE zorg ervoor u **Marketo Unieke Code **en **Marketo Unieke Naam** [kolommen zichtbaar](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md) hebt.
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. Schakel **Inclusief gepersonaliseerde URL** in, zoek en selecteer de bestemmingspagina waarvoor u URL&#39;s wilt genereren.
+1. Schakel **Aangepaste URL opnemen** in en zoek en selecteer de bestemmingspagina waarvoor u URL&#39;s wilt genereren.
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
-1. Selecteer de **URL**.
+1. Selecteer **URL**.
 
    ![](assets/image2014-9-18-13-3a36-3a53.png)
 
@@ -38,11 +38,11 @@ ht-degree: 0%
    >
    >Als er meerdere URL&#39;s voor dezelfde landingspagina worden weergegeven, is dit waarschijnlijk omdat u de URL van de pagina&#39;s op een bepaald punt in het verleden hebt gewijzigd en een omleiding hebt gemaakt.
 
-1. Kies een **stijl** en klik op **Exporteren**.
+1. Kies een **Stijl** en klik **Exporteren**.
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
-1. Wanneer het exporteren is voltooid, klikt u op de koppeling **Nu** downloaden om het bestand op te slaan.
+1. Wanneer het exporteren is voltooid, klikt u op de koppeling **Nu downloaden** om het bestand op te slaan.
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 
