@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Mijn dynamische velden worden niet ingevuld {#my-dynamic-fields-arent-filling-out}
+# Mijn dynamische velden vullen niet {#my-dynamic-fields-arent-filling-out}
 
 Dynamische velden werken alleen wanneer u een sjabloon gebruikt. Individuele eenmalige e-mails die u schrijft, vullen deze niet in.
 
-## Wat moet u controleren? {#what-to-check}
+## Wat moet u controleren {#what-to-check}
 
-Er zijn drie typen dynamische velden in Sales Connect: Standaard, Aangepast en Salesforce. Zowel Standaard als Aangepast zoeken om informatie van de [webtoepassing](http://toutapp.com/login)te verkrijgen. Als de informatie niet bestaat in de webtoepassing, zijn de velden leeg. Salesforce-velden halen informatie van [Salesforce.com](http://salesforce.com).
+Er zijn drie typen dynamische velden in Sales Connect: Standaard, Aangepast en Salesforce. Zowel Standaard als Aangepast zoeken om informatie van [Webtoepassing](http://toutapp.com/login) te trekken. Als de informatie niet bestaat in de webtoepassing, zijn de velden leeg. Salesforce-velden ophalen informatie van [Salesforce.com](http://salesforce.com).
 
 `**Troubleshooting Salesforce Fields**`
 
 Salesforce-velden: bijv. `{{sfdc_account_name}}`
 
-* Controleer of het bestand goed is gekoppeld aan Sales Connect. Ga naar de pagina [Instellingen](http://toutapp.com/next#settings) en klik op **Beheren** naast uw CRM.
+* Controleer of het bestand goed is gekoppeld aan Sales Connect. Ga naar [Settings](http://toutapp.com/next#settings) pagina en klik **Manage** naast uw CRM.
 
 **Problemen met basisvelden en aangepaste velden oplossen**
 
@@ -31,7 +31,7 @@ Basisvelden voor tinten: bijv. `{{company}}`
 
 Aangepaste Tout-velden: bijv. `{{custom_field_favorite_movie}}`
 
-* T `he corresponding field needs to be saved for your contact` in de pagina [van](http://toutapp.com/next#relationships) Mensen voor ons dynamische gebied om te verwijzen. Bijvoorbeeld, als u een e-mail naar Mary stuurt en het `{{company}}` gebied gebruikt, maar haar contactverslag maakt geen lijst van een bedrijf, zullen wij niet dat kunnen invullen.
+* T `he corresponding field needs to be saved for your contact` in [Personen pagina](http://toutapp.com/next#relationships) voor ons dynamische gebied om te verwijzen. Bijvoorbeeld, als u een e-mail naar Mary verzendt en het `{{company}}` gebied gebruikt, maar haar contactverslag maakt geen lijst van een bedrijf, zullen wij niet dat kunnen invullen.
 
 ## Waarom is mijn e-mail verzonden zonder alle dynamische velden te vullen? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
@@ -49,5 +49,5 @@ Sales Connect voorkomt dat uw e-mailberichten worden verzonden als niet al uw dy
 
 >[!NOTE]
 >
->Het `{{first_name}}` veld wordt weergegeven in zowel Sales Connect als Salesforce om te proberen informatie op te halen. Alle andere velden in deze lijst worden alleen weergegeven in Sales Connect om het veld te vullen.
+>In het veld `{{first_name}}` wordt zowel in Sales Connect als in Salesforce gezocht naar informatie. Alle andere velden in deze lijst worden alleen weergegeven in Sales Connect om het veld te vullen.
 
