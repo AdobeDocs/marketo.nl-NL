@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Advanced Program Reporting Overview {#advanced-program-reporting-overview}
 
-**De Ontdekkingsreiziger** van de Cyclus van de opbrengst omvat verscheidene gebieden van analyse en een brede serie van nieuwe metriek die u toestaan om programmadoeltreffendheid te meten.
+**De** Exploratie van de Cyclus van de opbrengst omvat verscheidene gebieden van analyse en een brede serie van nieuwe metriek die u toestaan om programmadoeltreffendheid te meten.
 
 ![](assets/rev.png)
 
@@ -27,19 +27,19 @@ De gebieden van de analyse elk bevatten verschillende gegevensreeksen en metriek
 
 ## Programmaanalysegebieden {#program-analysis-areas}
 
-* ** [Programma Kostenanalyse](understanding-the-program-cost-analysis-area.md) **- zie ROI voor al uw programma&#39;s.
+* ** [Kostenanalyse van het programma](understanding-the-program-cost-analysis-area.md) **- zie ROI voor al uw programma&#39;s.
 
-* ** [Analyse](understanding-the-program-membership-analysis-area.md) van het lidmaatschap van het programma **- Zie resultaten per kanaal, participatie, succescriteria, enz.
+* ** [Analyse van het lidmaatschap van het programma](understanding-the-program-membership-analysis-area.md) **- Zie resultaten per kanaal, participatie, succescriteria, enz.
 
-* ** [Analyse](understanding-the-program-opportunity-analysis-area.md) van de Kans van het Programma **- Geproduceerde kansen op distributie, hun opbrengst, en ROI.
+* ** [De Analyse van de Kans van het Programma](understanding-the-program-opportunity-analysis-area.md) **- Kansen die op distributie, hun opbrengst, en ROI worden geproduceerd.
 
-* ** [Program Revenue Stage Analysis](understanding-the-program-revenue-stage-analysis-area.md) **- Nieuwe namen die bepaalde successtadia binnen uw model van de inkomstencyclus hebben bereikt.
+* ** [Analyse van het werkgebied van de Inkomsten van het programma](understanding-the-program-revenue-stage-analysis-area.md) **- Nieuwe namen die bepaalde successtadia binnen uw model van de opbrengstcyclus hebben bereikt.
 
 ## Programmaanalysatoren {#program-analyzers}
 
-* **Programmaanalyse** - Identificeer snel programma&#39;s die succesvol zijn of niet, en richt uw middelen geschikt.
+* **Programmaanalyse** : identificeer snel programma&#39;s die al dan niet succesvol zijn en richt uw bronnen op de juiste manier.
 
-* **Opportunity Influence Analyzer** - De bijdrage van Marketing bewijzen door het effect te meten van programma&#39;s en belangrijke afspraken die kansen hebben gecreëerd.
+* **Opportunity Influence Analyzer**  - De bijdrage van Marketing bewijzen door het effect te meten van programma&#39;s en belangrijke afspraken die kansen hebben gecreëerd.
 
 ## Rapportopties {#report-options}
 
