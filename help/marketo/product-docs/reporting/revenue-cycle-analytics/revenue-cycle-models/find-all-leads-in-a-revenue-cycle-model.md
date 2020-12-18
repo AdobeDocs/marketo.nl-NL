@@ -19,15 +19,15 @@ Door slimme lijsten te gebruiken, kunt u alle leden van het model van de opbreng
 >
 >[Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Selecteer de slimme lijst en klik op het tabblad **Slimme lijst** .
+1. Selecteer de slimme lijst en klik op het tabblad **Slimme lijst**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Zoek het filter **Lid van het Model** van de Ontvangsten en sleep het in het canvas.
+1. Zoek het filter **Lid van inkomstenmodel** en sleep het naar het canvas.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Selecteer een **model**.
+1. Selecteer een **Model**.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
@@ -47,7 +47,7 @@ Door slimme lijsten te gebruiken, kunt u alle leden van het model van de opbreng
 
    >[!TIP]
    >
-   >U hebt beide filters niet nodig, maar kies de gewenste filters. We laten u alleen maar zien dat u allebei grondig te werk gaat. ![(glimlach)](assets/smile.svg) >
+   >U hebt beide filters niet nodig, maar kies de gewenste filters. We laten u alleen maar zien dat u allebei grondig te werk gaat. ![(glimlach)](assets/smile.svg)   >
 
    >[!CAUTION]
    >
