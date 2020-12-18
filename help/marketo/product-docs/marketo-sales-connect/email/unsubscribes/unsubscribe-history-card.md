@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Historiekaart afmelden {#unsubscribe-history-card}
+# Historiekaart {#unsubscribe-history-card} opzeggen
 
 De kaart van de Geschiedenis Unsubscribe helpt beheerders en de gebruikers contextafhankelijke informatie over hun het afmelden geschiedenis van contacten krijgen.
 
