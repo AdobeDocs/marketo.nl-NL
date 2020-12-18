@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nadat u het model hebt goedgekeurd, kunt u geen stadia schrappen wanneer het uitgeven van een ontwerp. In plaats daarvan kunt u dat werkgebied samenvoegen met een ander werkgebied.
 
-1. Klik op **Marketo Home** en selecteer **Analytics**.
+1. Klik **Marketo Home** en selecteer **Analytics**.
 
    ![](assets/image2015-4-29-14-3a59-3a9.png)
 
@@ -23,7 +23,7 @@ Nadat u het model hebt goedgekeurd, kunt u geen stadia schrappen wanneer het uit
 
    ![](assets/image2015-4-29-15-3a3-3a15.png)
 
-1. Klik op Concept **bewerken.**
+1. Klik **Concept bewerken.**
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
@@ -43,5 +43,5 @@ Nadat u het model hebt goedgekeurd, kunt u geen stadia schrappen wanneer het uit
 
 >[!NOTE]
 >
->Kies **Geen** in het werkgebied Samenvoegen om de leads van uw model te verwijderen
+>Kies **Geen** in het werkgebied Samenvoegen om de leads uit uw model te verwijderen
 
