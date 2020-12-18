@@ -29,11 +29,11 @@ Sales Connect slaat een cookie op in uw browser om te voorkomen dat weergaven wo
 
 Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te downloaden in uw e-mailclient. U kunt het aantal zelfweergaven in Outlook aanzienlijk verminderen door afbeeldingen die automatisch moeten worden gedownload uit te schakelen. Hieronder volgen de stappen.
 
-1. Klik in Outlook op **Bestand** op de menubalk.
+1. Klik in Outlook op **Bestand** in de menubalk.
 
    ![](assets/win-1.png)
 
-1. Klik op **Opties**.
+1. Klik **Opties**.
 
    ![](assets/win-2.png)
 
@@ -41,11 +41,11 @@ Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te dow
 
    ![](assets/win-3.png)
 
-1. Klik onder Microsoft Outlook Trust Center op Instellingen **van** Vertrouwenscentrum.
+1. Klik onder Microsoft Outlook Trust Center op **Instellingen van vertrouwenscentrum**.
 
    ![](assets/win-4.png)
 
-1. Klik op Automatisch downloaden in het menu aan de linkerkant en schakel het selectievakje **Foto&#39;s niet automatisch downloaden in HTML-e-mail- of RSS-items** in.
+1. Klik op Automatisch downloaden in het menu aan de linkerkant en schakel het selectievakje **Foto&#39;s niet automatisch downloaden in HTML-e-mail of RSS-items** in.
 
    ![](assets/win-5.png)
 
@@ -53,7 +53,7 @@ Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te dow
 
    ![](assets/win-6.png)
 
-1. Klik op **OK** in het dialoogvenster Outlook-opties.
+1. Klik **OK** in het de dialoogvakje van de Opties van Vooruitzichten.
 
    ![](assets/win-6.png)
 
@@ -61,15 +61,15 @@ Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te dow
 
 Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te downloaden in uw e-mailclient. U kunt het aantal zelfweergaven in Outlook aanzienlijk verminderen door afbeeldingen die automatisch moeten worden gedownload uit te schakelen. Hieronder volgen de stappen.
 
-1. Klik in Outlook op **Outlook** in de menubalk en selecteer **Voorkeuren**.
+1. In Vooruitzichten, klik **Vooruitzichten** in de menubar en selecteer **Voorkeur**.
 
    ![](assets/mac-1.png)
 
-1. Kies onder E-mail de optie **Lezen**.
+1. Kies **Lezen** onder E-mail.
 
    ![](assets/mac-2.png)
 
-1. Klik onder Beveiliging op het keuzerondje **Nooit** .
+1. Klik onder Beveiliging op het keuzerondje **Nooit**.
 
    ![](assets/mac-3.png)
 
