@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Verificatie mislukt {#authentication-unsuccessful-error}
+# Verificatie mislukt.{#authentication-unsuccessful-error}
 
 Ziet u uw e-mails in Aflevering mislukt met de fout &#39;Verificatie mislukt&#39;? Dit betekent dat we de verbinding met uw SMTP-server niet konden verifiëren. Waarschijnlijk is uw wachtwoord onlangs gewijzigd en moet u uw nieuwe gegevens verifiëren.
 
-1. Ga naar uw Montages [](http://toutapp.com/next#settings/email-servers/smtp/configure) SMTP waar u het zelfde &quot;Authentificatie Onsuccesvolle&quot;foutenmelding zou moeten zien.
+1. Ga naar uw [SMTP Montages](http://toutapp.com/next#settings/email-servers/smtp/configure) waar u het zelfde &quot;Onsuccesvolle de foutenmelding van de Authentificatie&quot;zou moeten zien.
 1. Werk uw geloofsbrieven bij en klik **voor authentiek verklaren en sparen**.
 1. Ga naar de mislukte leveringen en probeer deze e-mails opnieuw te verzenden.
 
-Als de problemen zich blijven voordoen, [stuurt u een aanvraag](http://nation.marketo.com/community/support_solutions) voor ondersteuning in.
+Als u in problemen blijft lopen, gelieve [een geval ](http://nation.marketo.com/community/support_solutions) voor Steun voor te leggen.
