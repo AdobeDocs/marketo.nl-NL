@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Harde vlekken {#hard-bounces}
+# Harde grenzen {#hard-bounces}
 
 Een harde stuit komt voor wanneer een e-mail wegens een ongeldig e-mailadres is ontbroken.
 
@@ -23,7 +23,7 @@ Een harde stuit komt voor wanneer een e-mail wegens een ongeldig e-mailadres is 
 
 >[!NOTE]
 >
->Wilt u Sales Connect instellen om via uw eigen SMTP-provider te gaan? Ga gewoon [hier](http://docs.marketo.com/x/zYTS).
+>Wilt u Sales Connect instellen om via uw eigen SMTP-provider te gaan? Ga [hier](http://docs.marketo.com/x/zYTS).
 
 ## Lijst met teruggestuurde e-mails {#list-of-bounced-emails}
 
