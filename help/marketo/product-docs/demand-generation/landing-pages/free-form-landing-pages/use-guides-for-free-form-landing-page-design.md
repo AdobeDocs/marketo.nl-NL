@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Hulplijnen gebruiken voor ontwerpen vrije bestemmingspagina {#use-guides-for-free-form-landing-page-design}
+# Hulplijnen gebruiken voor ontwerpen van vrije bestemmingspagina {#use-guides-for-free-form-landing-page-design}
 
 Bij het ontwerpen van een openstaande landingspagina kunt u hulplijnen gebruiken om de componenten uit te lijnen.
 
 >[!NOTE]
 >
->Hulplijnen zijn alleen beschikbaar in de **openingspagina-editor voor vrije****formulieren** .
+>Hulplijnen zijn alleen beschikbaar in de **Free**-**form**-bestemmingspagina-editor.
 
-1. Selecteer een **bestemmingspagina** en klik **uitgeven Ontwerp**.
+1. Selecteer een **Openingspagina** en klik **Concept** bewerken.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Klik op **Handelingen voor bestemmingspagina **en selecteer **Hulplijnen** tonen.
+1. Klik op **Handelingen voor bestemmingspagina **en selecteer **Hulplijnen tonen**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 
