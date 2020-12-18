@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Video&#39;s en Tutorials snel starten {#quick-start-videos-and-tutorials}
+# Quick Start Video&#39;s en Tutorials {#quick-start-videos-and-tutorials}
 
 >[!NOTE]
 >
