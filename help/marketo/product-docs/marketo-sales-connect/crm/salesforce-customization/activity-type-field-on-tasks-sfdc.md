@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Veld voor activiteitstypen op taken (Activity Type Field on Tasks — SFDC) {#activity-type-field-on-tasks-sfdc}
+# Veld voor activiteitstypen op taken (SFDC) {#activity-type-field-on-tasks-sfdc}
 
 Met de hulp van Sales Connect kunt u uw e-mails en gesprekken laten registreren als een activiteit in Salesforce. Een belangrijk onderdeel van het gebruik van waardevolle gegevens in Salesforce is dat in het veld Type de juiste waarde wordt ingevuld.
 
@@ -24,9 +24,9 @@ Met de hulp van Sales Connect kunt u uw e-mails en gesprekken laten registreren 
 * Verbinding met Salesforce
 * Er is geen standaardwaarde voor Standaardtype geselecteerd in de keuzelijst Taaktype
 * De vraag, het Antwoord, en E-mail moeten allen onder de picklist van het Type van Taak (kapitalisatiekwesties) bestaan
-* Geen `Workflows` of `Triggers` actie ondernemen met betrekking tot de waarde van het veld Type
+* Geen `Workflows` of `Triggers` die actie ondernemen op de waarde van het gebied van het Type
 
-## Instellen {#setup}
+## {#setup} instellen
 
 Controleer eerst of u de juiste waarden voor de keuzelijst hebt. U hebt de hulp van uw Admin van Salesforce nodig om om het even welke veranderingen in uw picklist aan te brengen.
 
@@ -38,8 +38,8 @@ Controleer eerst of u de juiste waarden voor de keuzelijst hebt. U hebt de hulp 
 1. U bent nu bij de Picklist van het Type van Taak. Zorg ervoor dat er geen &#39;Standaard&#39; is geselecteerd.
 1. Zorg ervoor dat er een waarde van het Type voor E-mail, Vraag, en Antwoord wordt vermeld.
 
-Nu dit op zijn plaats is, zult u beginnen te zien het gebied van het Type de overeenkomstige waarde voor geregistreerde E-mail, Vraag, en Reacties bevolken. Deze waarden worden **niet** ingevuld bij de taken voor verkoopConnect-herinneringen.
+Nu dit op zijn plaats is, zult u beginnen te zien het gebied van het Type de overeenkomstige waarde voor geregistreerde E-mail, Vraag, en Reacties bevolken. Deze waarden worden **niet** ingevuld bij Sales Connect-herinneringstaken.
 
 >[!NOTE]
 >
->Als &#39;Reageren&#39; niet wordt weergegeven als een waarde, voegt u deze toe door op **Nieuw** te klikken. &#39;Reageren&#39; is geen standaardwaarde in Salesforce.
+>Als u &quot;Reageren&quot;niet ziet als waarde, voeg het toe door **Nieuw** te klikken. &#39;Reageren&#39; is geen standaardwaarde in Salesforce.
