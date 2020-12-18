@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Een sjablooncategorie verwijderen {#delete-a-template-category}
+# Een sjablooncategorie {#delete-a-template-category} verwijderen
 
-1. Klik op het menupictogram naast een categorie en klik vervolgens op **Verwijderen**.
+1. Klik op het menupictogram naast een categorie en klik vervolgens op **Delete**.
 1. Klik op **Verwijderen **om te bevestigen.
 
 >[!NOTE]
