@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verbind uw Marketo Leads met Verkoop Connect Leads {#connect-your-marketo-leads-with-sales-connect-leads}
+# Verbind Uw Marketo Leads met Verkoop Connect Leads {#connect-your-marketo-leads-with-sales-connect-leads}
 
 Om uw gegevens het nauwkeurigst terug naar Marketo te synchroniseren, vereist MSC dat het persoonverslag een identiteitskaart van de Marketo heeft bewaard aan het. Als u de Marketo-id wilt synchroniseren naar MSC, klikt u op het chevron naast een interessant moment. Wanneer u een Interessant Moment door in Levende Diervoed ziet komen, klik op de drop-down pijl en het persoonverslag zal aan het gegevensbestand MSC met Marketo identiteitskaart worden toegevoegd.
 
