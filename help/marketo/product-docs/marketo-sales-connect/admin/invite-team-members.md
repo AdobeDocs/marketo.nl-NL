@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Teamleden uitnodigen {#invite-team-members}
+# Teamleden {#invite-team-members} uitnodigen
 
 Teamleden toevoegen is snel en eenvoudig!
 
@@ -19,11 +19,11 @@ Teamleden toevoegen is snel en eenvoudig!
 
    ![](assets/one.png)
 
-1. Selecteer **Teambeheer** onder Beheer-instellingen.
+1. Selecteer **Teambeheer** onder Beheerinstellingen.
 
    ![](assets/two.png)
 
-1. Klik op Nieuwe gebruiker **uitnodigen**.
+1. Klik **Nieuwe gebruiker uitnodigen**.
 
    ![](assets/three.png)
 
@@ -35,7 +35,7 @@ Teamleden toevoegen is snel en eenvoudig!
    >
    >Door gebrek, zullen alle nieuwe leden aan het Iedereen team worden toegevoegd.
 
-1. Klik op **OK**.
+1. Klik **OK**.
 
    ![](assets/five.png)
 
