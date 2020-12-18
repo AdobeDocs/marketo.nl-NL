@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De knop Bericht in de app instellen {#set-up-the-in-app-message-button}
+# De knop Bericht in de toepassing {#set-up-the-in-app-message-button} instellen
 
 U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste knopafbeelding uploaden.
 
@@ -19,7 +19,7 @@ U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste k
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Als u de kleur voor de standaardknop wilt wijzigen, klikt u op de knop **Kleur** .
+1. Als u de kleur voor de standaardknop wilt wijzigen, klikt u op de knop **Kleur**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste k
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Als u uw eigen afbeelding voor een knop wilt gebruiken, klikt u op de knop Afbeelding en klikt u op Afbeelding **** selecteren.
+1. Als u uw eigen afbeelding voor een knop wilt gebruiken, klikt u op de knop Afbeelding en klikt u op **Afbeelding selecteren**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Kies de afbeelding en klik op **Selecteren**.
+1. Kies de afbeelding en klik op **Select**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
