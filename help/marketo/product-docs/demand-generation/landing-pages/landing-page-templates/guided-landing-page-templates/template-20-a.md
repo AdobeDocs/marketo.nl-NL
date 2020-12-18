@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Template 20-A {#template-a}
+# Sjabloon 20-A {#template-a}
 
 [Sjabloon 20-A downloaden](http://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&amp;modificationdate=1441750550000&amp;api=v2)
 
