@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een campagne uitschakelen {#turn-off-a-campaign}
+# Een campagne {#turn-off-a-campaign} uitschakelen
 
 Moet een Campagne automatisch beëindigen wanneer een ontvanger antwoordt? Zo gaat het.
 
@@ -19,9 +19,9 @@ Moet een Campagne automatisch beëindigen wanneer een ontvanger antwoordt? Zo ga
 >
 >Dit is slechts beschikbaar voor klanten die met [Gmail of Uitwisseling](https://toutapp.com/next#settings/email-tracking) geïntegreerd zijn en toegelaten antwoord het volgen hebben.
 
-## Een campagne voor één persoon uitschakelen {#turn-off-a-campaign-for-one-person}
+## Schakel een campagne voor één persoon {#turn-off-a-campaign-for-one-person} uit
 
-Nadat u uw campagne hebt gecreeerd, ga eenvoudig naar het lusje van **Montages** en kies hoe u de campagne wilt gedragen als iemand antwoordt.
+Nadat u uw campagne hebt gecreeerd, ga eenvoudig naar **Montages** lusje en kies hoe u de campagne zou willen gedragen als iemand antwoordt.
 
 Beide opties beëindigen de campagne en de ontvanger ontvangt geen e-mails meer van u.
 
