@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een sociale knop toevoegen aan een bestemmingspagina {#add-a-social-button-on-a-landing-page}
+# Een sociale knop toevoegen op een landingspagina {#add-a-social-button-on-a-landing-page}
 
 Met een sociale knop kunnen mensen uw inhoud delen met hun vrienden. Zet het neer op bestemmingspagina&#39;s, Facebook, en uw website.
 
@@ -21,11 +21,11 @@ Met een sociale knop kunnen mensen uw inhoud delen met hun vrienden. Zet het nee
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Navigeer naar de bestemmingspagina en klik op Concept **** bewerken.
+1. Navigeer naar de landingspagina en klik op **Concept bewerken**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Sleep over de **sociale knop** vanuit de elementen aan de rechterkant.
+1. Sleep over de **Sociale knop** vanuit de elementen aan de rechterkant.
 
    ![](assets/image2014-9-17-10-3a35-3a6.png)
 
@@ -33,21 +33,21 @@ Met een sociale knop kunnen mensen uw inhoud delen met hun vrienden. Zet het nee
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Als de landingspagina actief is, raadpleegt u de activiteit die wordt gegenereerd door de **sociale knop** (met Analyse) op het [sociale dashboard](view-social-performance.md).
+   Als de landingspagina actief is, raadpleegt u de activiteit die wordt gegenereerd door uw **sociale knop** (met Analytics) op het [sociale dashboard](view-social-performance.md).
 
-   Als u in plaats daarvan een knop **Soortgelijk/Aanbevolen (Lite)** toevoegt, raadpleegt u het aantal aandelen in het prestatierapport [van de](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)bestemmingspagina.
+   Als u een **Soorten/Aanbevolen Knoop (Lite)** in plaats daarvan toevoegt, zie het aantal aandelen in [het prestatiesrapport van de landingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
-1. Selecteer **Nieuw** maken in het keuzemenu.
+1. Selecteer **Nieuw maken** in de vervolgkeuzelijst.
 
    >[!NOTE]
    >
    >U kunt ook een sociale knop in een programma maken door **Nieuw > Nieuw lokaal element** te selecteren.
 
-1. Geef een naam op voor de sociale knop, selecteer **Geen** in **Klonen** **van** en klik op **Invoegen**.
+1. Noem uw sociale knoop, selecteer **niets** van **Kloon** **Van**, en klik **Tussenvoegsel**.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
-Gefeliciteerd! U hebt een sociale knop toegevoegd aan uw bestemmingspagina. Geef aan of u de bestemmingspagina wilt goedkeuren. U kunt de bestemmingspagina ook naar Facebook [](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) publiceren of de sociale knop op uw website [](deploy-social-on-your-website.md)plaatsen.
+Gefeliciteerd! U hebt een sociale knop toegevoegd aan uw bestemmingspagina. Geef aan of u de bestemmingspagina wilt goedkeuren. U kunt de bestemmingspagina ook [publiceren naar Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [de sociale knop op uw website plaatsen](deploy-social-on-your-website.md).
 
 >[!TIP]
 >
@@ -55,4 +55,4 @@ Gefeliciteerd! U hebt een sociale knop toegevoegd aan uw bestemmingspagina. Geef
 
 >[!MORELIKETHIS]
 >
->U bent klaar, maar u kunt de montages van uw sociale knoop indien nodig veranderen. Begin met het [aanpassen van de knopstijl](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) en het [bewerken van de gedeelde berichten](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) die worden weergegeven.
+>U bent klaar, maar u kunt de montages van uw sociale knoop indien nodig veranderen. Begin met [het aanpassen van de knoopstijl](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) en [het uitgeven van de aandeelberichten](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) het presenteert.
