@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Als u mappen maakt, kunt u afbeeldingen en bestanden verplaatsen, alleen de gewenste set afbeeldingen bekijken en rechtstreeks naar een specifieke map uploaden.
 
-1. Ga naar de **Design** **Studio**.
+1. Ga naar **Design** **Studio**.
 
    ![](assets/designstudio-7.png)
 
-1. Klik met de rechtermuisknop op** Afbeeldingen en bestanden** in het linkermenu en selecteer vervolgens **Nieuwe map**.
+1. Klik met de rechtermuisknop op** Afbeeldingen en bestanden** in het linkermenu en selecteer **Nieuwe map**.
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
@@ -27,7 +27,7 @@ Als u mappen maakt, kunt u afbeeldingen en bestanden verplaatsen, alleen de gewe
 
    ![](assets/image2014-9-16-11-3a25-3a53.png)
 
-1. Ga naar **Afbeeldingen en Bestanden** en sleep nu naar de gewenste map.
+1. Ga naar **Afbeeldingen en bestanden**, nu kunt u slepen en neerzetten in de gewenste map.
 
    ![](assets/image2014-9-16-11-3a26-3a0.png)
 
