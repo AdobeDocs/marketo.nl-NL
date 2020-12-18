@@ -36,9 +36,9 @@ Een gebeurtenisprogramma is een type programma dat kan worden gebruikt om uw off
 
 
 
-Gebeurtenissen kunnen automatisch verbinding maken met uw [webinar provider](launchpoint-event-partners.md) en synchroniseren met een incheckapp [voor de](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)iPad.
+Gebeurtenissen kunnen automatisch verbinding maken met uw [webinar provider](launchpoint-event-partners.md) en synchroniseren met een [iPad check-in app](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
-## Een video bekijken {#watch-a-video}
+## Bekijk een video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
