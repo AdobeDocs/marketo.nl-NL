@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# Progressieve profilering van formulieren configureren {#configure-form-progressive-profiling}
+# Progressieve profilering van formulieren {#configure-form-progressive-profiling} configureren
 
 Korte formulieren zijn goed! Wanneer iemand terugkeert naar een formulier, kunt u nieuwe velden presenteren en het profiel van de bezoeker geleidelijk invullen. Zo gaat het.
 
 >[!NOTE]
 >
->Voor een correcte werking van deze functie moet de optie Vooraf invullen van formulier zijn ingeschakeld voor zichtbare velden en [uitgeschakeld](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) voor verborgen velden.
+>Voor een correcte werking van deze functie moet Vooraf invullen van formulier zijn ingeschakeld voor zichtbare velden en [uitgeschakeld](http://docs.marketo.com/display/DOCS/Disable+Pre-fill+for+a+Form+Field) voor verborgen velden.
 
 1. Ga naar **Marketing** **Activiteiten**.
 
    ![](assets/ma-1.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. Klik onder **Formulier** - **instellingen** op **Instellingen**.
+1. Klik onder **Formulier** **Instellingen** op **Instellingen**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Stel **Progressieve** **profielen** in op **Ingeschakeld**.
+1. Stel **Progressief** **Profiling** in op **Enabled**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Oké, nu configureren we het. Ga naar **Veld** **details**.
+1. Oké, nu configureren we het. Ga naar **Veld** **Details**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 Sleep alle velden die deel uitmaken van de progressieve profielset.
@@ -47,9 +47,9 @@ Sleep alle velden die deel uitmaken van de progressieve profielset.
 
    >[!NOTE]
    >
-   >De velden buiten het vak **Progressief** **profiel** worden altijd in het formulier weergegeven, zelfs als ze zijn ingevuld.
+   >De velden buiten het vak **Progressief** **Profileren** worden altijd in het formulier weergegeven, zelfs als ze zijn ingevuld.
 
-1. Selecteer het vak **Progressieve** **profielen** .
+1. Selecteer de doos **Progressief** **Profiling**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -57,7 +57,7 @@ Sleep alle velden die deel uitmaken van de progressieve profielset.
    >
    >Wees voorzichtig wanneer u vereiste velden gebruikt in Progressieve profielen. Deze velden kunnen nog steeds leeg blijven als de bezoeker een nieuw e-mailadres invoert (waarmee een nieuwe persoon wordt gemaakt) nadat hij eerder gegevens voor de andere velden heeft verzonden, zoals deze op het laatste formulier worden onderdrukt.
 
-1. Kies nu hoeveel lege velden u wilt dat mensen op een bepaald moment in het vak **Progressief** **profiel** kunnen zien.
+1. Kies nu hoeveel lege gebieden u mensen van **Progressief** **Profiling** op een bepaald ogenblik wilt zien.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
@@ -66,7 +66,7 @@ Sleep alle velden die deel uitmaken van de progressieve profielset.
    >**Voorbeeld**
    >
    >
-   >Als u **Aantal** **van** **Lege** **Gebieden** als 1 kiest, zal de bezoeker de volgende keer zien zij dit formulier:
+   >Als u **Number** **of** **Blank** **Fields** als 1 kiest, ziet de bezoeker de volgende keer dat deze vorm wordt weergegeven:
    >
    >    
    >    
@@ -98,11 +98,11 @@ Sleep alle velden die deel uitmaken van de progressieve profielset.
    >    * Land (leeg)
 
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 
