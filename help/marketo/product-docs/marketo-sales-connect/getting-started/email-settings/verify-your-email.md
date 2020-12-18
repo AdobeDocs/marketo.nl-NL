@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Uw e-mail verifiëren {#verify-your-email}
+# Uw e-mail {#verify-your-email} verifiëren
 
 Voer de onderstaande stappen uit als u een e-mailidentiteit hebt die niet is geverifieerd.
 
@@ -23,11 +23,11 @@ Voer de onderstaande stappen uit als u een e-mailidentiteit hebt die niet is gev
 
    ![](assets/verify-your-email-2.png)
 
-1. Zoek onder Adres en Handtekening de e-mailidentiteit die u wilt verifiëren en klik op **Opnieuw verzenden en e-mail** verifiëren. Er wordt een nieuw e-mailverificatiebericht verzonden.
+1. Zoek onder Adres en Handtekening de e-mailidentiteit die u wilt verifiëren en klik op **Opnieuw verzenden E-mail verifiëren**. Er wordt een nieuw e-mailverificatiebericht verzonden.
 
    ![](assets/verify-your-email-3.png)
 
-1. Klik op **Opnieuw verzenden**.
+1. Klik **Opnieuw verzenden**.
 
    ![](assets/verify-your-email-4.png)
 
