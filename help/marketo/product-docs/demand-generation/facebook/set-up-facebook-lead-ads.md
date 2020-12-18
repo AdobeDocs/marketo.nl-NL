@@ -29,11 +29,11 @@ Gebruik [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) om adv
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Ga naar **LaunchPoint**, klik op **Nieuw,** en selecteer **Nieuwe Dienst**.
+1. Ga naar **LaunchPoint**, klik op **Nieuw,** en selecteer **Nieuwe Service**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Voer een **weergavenaam** voor uw service in, selecteer de service **Facebook-advertenties** in de vervolgkeuzelijst en klik op **Maken**.
+1. Voer een **Weergavenaam** voor uw service in, selecteer de **Facebook-service Advertentie aan leads** in de vervolgkeuzelijst en klik op **Maken**.
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
@@ -45,7 +45,7 @@ Gebruik [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) om adv
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Nadat u zich hebt aangemeld bij Facebook, gaat u terug naar Marketo en klikt u op **Autoriseren**.
+1. Nadat u bent aangemeld bij Facebook, gaat u terug naar Marketo en klikt u op **Autoriseren**.
 
    ![](assets/image2016-11-29-10-3a52-3a51.png)
 
@@ -53,11 +53,11 @@ Gebruik [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) om adv
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Je ziet dat je nu geautoriseerd bent. Klik op **Volgende**.
+1. Je ziet dat je nu geautoriseerd bent. Klik **Volgende**.
 
    ![](assets/image2016-11-29-10-3a56-3a28.png)
 
-1. Selecteer de pagina(&#39;s) waarvan je wilt dat Marketo Advertentie voor leads aan Facebook trekt en klik op **Volgende**.
+1. Selecteer de pagina(&#39;s) waarvan u wilt dat Marketo advertenties op Facebook plaatst en klik op **Volgende**.
 
    >[!TIP]
    >
@@ -65,11 +65,11 @@ Gebruik [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) om adv
 
    ![](assets/image2016-11-29-10-3a58-3a36.png)
 
-1. Als u standaardveldtoewijzingen van Facebook naar Marketo wilt accepteren, klikt u gewoon op **Maken**.
+1. Als u standaard-Facebook-toewijzingen voor Marketo-velden wilt accepteren, klikt u op **Maken**.
 
    >[!TIP]
    >
-   >Door de toewijzingen te wijzigen, kunt u aanpassen waar de gegevens van de lood-advertenties in Marketo worden opgeslagen. U kunt ook gegevens [ophalen uit Aangepaste vragen](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)voor advertenties.
+   >Door de toewijzingen te wijzigen, kunt u aanpassen waar de gegevens van de lood-advertenties in Marketo worden opgeslagen. U kunt ook [gegevens ophalen uit Aangepaste vragen voor Advertenties voor lead](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
