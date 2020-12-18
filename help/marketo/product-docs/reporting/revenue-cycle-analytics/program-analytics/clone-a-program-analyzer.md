@@ -19,15 +19,15 @@ Nadat u een analysator hebt opgeslagen, is het gemakkelijk om het te klonen om n
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Klik op de tegel **Programmaanalyse** .
+1. Klik op de tegel **Program Analyzer**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Open, terwijl de opgeslagen analysator is geopend, het vervolgkeuzemenu Analyserhandelingen en selecteer **Kloonanalyse**.
+1. Zorg dat de opgeslagen analysator is geopend en open de vervolgkeuzelijst Analyserhandelingen en selecteer **Kloonanalyse**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Selecteer de locatie voor de gekloonde analysator in de keuzelijst **Klonen naar** en **Map** .
+1. Selecteer de locatie voor de gekloonde analysator in de vervolgkeuzelijst **Klonen naar** en **Map**.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
