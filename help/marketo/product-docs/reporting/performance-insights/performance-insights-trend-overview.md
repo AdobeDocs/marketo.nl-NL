@@ -23,7 +23,7 @@ Klik op het tabblad **Trend** om deze weergave te openen.
 
 ![](assets/2-1.png)
 
-Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken we de mogelijkheden die via [First Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution)zijn verkregen.
+Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken we de mogelijkheden die via [First Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution) zijn verkregen.
 
 ![](assets/3-2.png)
 
