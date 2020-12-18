@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De volgende eigenschappen zijn beschikbaar in nieuwe MSI MSD Oplossing.
 
-## Deelvenster Marketo Sales Insight in layout Lead  {#marketo-sales-insight-panel-in-lead-layout}
+## Deelvenster Verkoopoverzicht markeren in layout Lead {#marketo-sales-insight-panel-in-lead-layout}
 
 * Sterren en lamellen
 * Interessant moment
@@ -23,24 +23,24 @@ De volgende eigenschappen zijn beschikbaar in nieuwe MSI MSD Oplossing.
 * Score
 * E-mail (openen en klikken)
 
-## Aangepaste velden voor Markering voor Verkoopoverzicht in layout Lead  {#marketo-sales-insight-custom-fields-in-lead-layout}
+## Aangepaste velden van Marktto Sales Insight in layout Lead {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * Loodscore
 * Relatieve score
 * Prioriteit
 * Urgentie
 
-## Aanroep van Marktkoopoverzicht naar actieknop in layout Lead  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## Aanroep van commercieel inzicht in markeerteken naar actieknop in layout {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * Toevoegen aan Marketo-campagne
 * Markeren naar e-mail verzenden
 
-## De handelingenknoop van de bulkactie van het Inzicht van de Verkoop van de Markt in Leidinglijst mening  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## De bulkactieknop van het Inzicht van de Verkoop van de Marketo in Leidinglijstmening {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * Toevoegen aan Marketo-campagne
 * Markeren naar e-mail verzenden
 
-## Markeren naar paneel Verkoopoverzicht in contactlay-out  {#marketo-sales-insight-panel-in-contact-layout}
+## Het paneel van het Inzicht van de Verkoop van de Marketo in de lay-out van het Contact {#marketo-sales-insight-panel-in-contact-layout}
 
 * Sterren en lamellen
 * Interessant moment
@@ -48,24 +48,24 @@ De volgende eigenschappen zijn beschikbaar in nieuwe MSI MSD Oplossing.
 * Score
 * E-mail (openen en klikken)
 
-## Aangepaste velden voor Marktgericht verkoopinzicht in de contactlay-out  {#marketo-sales-insight-custom-fields-in-contact-layout}
+## Marketo Sales Insight, aangepaste velden in contactlay-out {#marketo-sales-insight-custom-fields-in-contact-layout}
 
 * Loodscore
 * Relatieve score
 * Prioriteit
 * Urgentie
 
-## De vraag van het Inzicht van de Verkoop van de Markt aan actieknop in de lay-out van het Contact  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## De vraag van het Inzicht van de Verkoop van de markt aan actieknoop in de lay-out van het Contact {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * Toevoegen aan Marketo-campagne
 * Markeren naar e-mail verzenden
 
-## De bulkactieknop van het Inzicht van de Verkoop van de Markt in de lijstmening van het Contact  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+## De bulkactieknop van het Inzicht van de Verkoop van de Markeren in de lijstmening {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
 
 * Toevoegen aan Marketo-campagne
 * Markeren naar e-mail verzenden
 
-## Markeren naar pagina Beste ets  {#marketo-best-bets-page}
+## Pagina {#marketo-best-bets-page} Markeren naar beste testbestanden
 
 * Prioriteit (sterren en vlammen)
 * Naam (hyperlink naar pagina voor lead/contactpersoon)
