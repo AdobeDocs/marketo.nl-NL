@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een bijgehouden e-mail verzenden {#sending-a-tracked-email}
+# Een bijgehouden e-mail {#sending-a-tracked-email} verzenden
 
 Wanneer u een e-mail verzendt met Marketo Sales Connect, worden de weergaven (e-mail wordt geopend) en klikken (op koppelingen) bijgehouden.
 
@@ -20,7 +20,7 @@ Wanneer u een e-mail verzendt met Marketo Sales Connect, worden de weergaven (e-
 >U moet een identiteit laten verifiëren en een e-mailleveringskanaal instellen voordat u een bijgehouden e-mail verzendt.
 >
 >* [Verifieer uw e-mailadres](http://docs.marketo.com/x/ewPh)
->* Een leveringskanaal instellen voor [Outlook](http://docs.marketo.com/x/Z4AOAQ) of [Gmail](http://docs.marketo.com/x/kYMOAQ)
+>* Stel een leveringskanaal in voor [Outlook](http://docs.marketo.com/x/Z4AOAQ) of [Gmail](http://docs.marketo.com/x/kYMOAQ)
 
 >
 
@@ -30,7 +30,7 @@ Wanneer u een e-mail verzendt met Marketo Sales Connect, worden de weergaven (e-
 
    ![](assets/one.png)
 
-1. Voer in het veld **Aan** de naam of het e-mailadres van een ontvanger in.
+1. Typ de naam of het e-mailadres van een ontvanger in het veld **Naar**.
 
    ![](assets/two.png)
 
@@ -44,7 +44,7 @@ Wanneer u een e-mail verzendt met Marketo Sales Connect, worden de weergaven (e-
 
    >[!NOTE]
    >
-   >Als iemand die CC of BCC is geweest, het e-mailbericht opent, wordt dat geopende bericht opgenomen als een weergave op de record van de persoon in het veld **Aan** .
+   >Als iemand die CC&#39;d of BCC&#39;d is geweest de e-mail opent, wordt die open geopend als een mening op het verslag van de persoon in het **To** gebied.
 
 1. Voeg een onderwerpregel toe.
 
@@ -52,9 +52,9 @@ Wanneer u een e-mail verzendt met Marketo Sales Connect, worden de weergaven (e-
 
    >[!NOTE]
    >
-   >Een onderwerpregel en een ontvanger zijn vereist om de e-mail te verzenden. Uw concept **wordt** automatisch opgeslagen zodra een onderwerpregel en ontvanger zijn toegevoegd.
+   >Een onderwerpregel en een ontvanger zijn vereist om de e-mail te verzenden. Uw concept wordt automatisch **opgeslagen** zodra een onderwerpregel en ontvanger zijn toegevoegd.
 
-1. Stel uw e-mail samen met de editor. Klik op **Verzenden** (of [Schema](http://docs.marketo.com/x/GAQ6Ag), indien gewenst) als u klaar bent.
+1. Stel uw e-mail samen met de editor. Klik **Send** (of [Programma](http://docs.marketo.com/x/GAQ6Ag), als u verkiest) wanneer gedaan.
 
    ![](assets/five.png)
 
