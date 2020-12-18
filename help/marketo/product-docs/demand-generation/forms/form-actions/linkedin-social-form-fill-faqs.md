@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Veelgestelde vragen over LinkedIn sociale formulieren invullen {#linkedin-social-form-fill-faqs}
+# Veelgestelde vragen {#linkedin-social-form-fill-faqs} over het invullen van sociale formulieren
 
 Het herziene API-beleid van LinkedIn vereiste dat we LinkedIn sociale vorm invullen uit ons product moesten verwijderen.
 
@@ -61,11 +61,11 @@ Nee, uw formulieren waarvan we deze functie hebben verwijderd, zijn gepubliceerd
 
 Nee, we verwijderen alleen de knop LinkedIn uit uw formulier. Telkens wanneer de Vulling van een sociaal formulier op een formulier wordt toegepast, wordt boven het formulier een container gemaakt die de knoppen voor het invullen van het sociale formulier bevat. Vóór 28 april 2016, als LinkedIn de enige optie was, leek het uiterlijk van de container op deze afbeelding:
 
-![--](assets/one.png)
+![—](assets/one.png)
 
 Na 28 april 2016 is er nu een lege container over aan de bovenkant van om het even welk formulier waar LinkedIn sociale vorm vulling is verwijderd:
 
-![--](assets/two.png)
+![—](assets/two.png)
 
 >[!NOTE]
 >
