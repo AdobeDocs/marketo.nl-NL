@@ -32,15 +32,15 @@ Marketo Sales Insight wordt per taal opgeslagen. Dus als u wilt dat het voor mee
 Elke andere taal wordt standaard ingesteld op Engels.
 
 1. Een nieuwe taal toevoegen voor Marktverkoop Insight
-1. Meld u aan bij Salesforce. Klik in de vervolgkeuzelijst onder uw naam in de rechterbovenhoek op **Instellen**.
+1. Meld u aan bij Salesforce. Klik in de vervolgkeuzelijst onder uw naam in de rechterbovenhoek op **Setup**.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Klik onder** Mijn persoonlijke gegevens** op **Persoonlijke gegevens**.
+1. Onder** Mijn Persoonlijke Informatie**, klik **Persoonlijke Informatie**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
-1. Klik op **Bewerken**.
+1. Klik **Bewerken**.
 
    ![](assets/image2015-7-6-16-3a5-3a38.png)
 
@@ -56,11 +56,11 @@ Elke andere taal wordt standaard ingesteld op Engels.
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Ga naar Marketo. Zoek de configuratiedetails [van uw **Marketo Sales Insight**](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight) API.
+1. Ga naar Marketo. Zoek uw [Marketo Sales Insight **API-configuratie** details](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
-1. Voer de API-gegevens in vanuit Marketo en klik op **Opslaan**.
+1. Voer de API-gegevens in van Marketo en klik op **Opslaan**.
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
@@ -72,15 +72,15 @@ Wanneer u klaar bent met het aanpassen van uw organisatie Salesforce, is hier ho
 >
 >De volgende screenshots zijn in het Frans met instructies in het Engels.  U ziet dezelfde schermen met tekst in de taal die u in de vorige stap hebt geselecteerd.
 
-1. Klik op Instellen onder uw naam.
+1. Klik onder uw naam op Instellen.
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Klik op **Persoonlijke gegevens** onder **Mijn persoonlijke gegevens**.
+1. Klik **Persoonlijke Informatie** onder **Mijn Persoonlijke Informatie**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
-1. Klik op **Bewerken**.
+1. Klik **Bewerken**.
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 
