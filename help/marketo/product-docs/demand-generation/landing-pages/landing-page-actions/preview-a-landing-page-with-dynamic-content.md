@@ -24,11 +24,11 @@ Geef een voorvertoning van de openingspagina weer nadat u dynamische inhoud hebt
 
 
 
-1. Selecteer een openingspagina en klik op **Voorvertoning van pagina.**
+1. Selecteer een openingspagina en klik **Voorvertoning van pagina.**
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. Klik op de vervolgkeuzelijst en selecteer een **segment** waarvan u een voorvertoning wilt bekijken.
+1. Klik op de vervolgkeuzelijst en selecteer een **Segment** om een voorvertoning ervan weer te geven.
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
