@@ -11,30 +11,30 @@ ht-degree: 0%
 ---
 
 
-# Creeer een Gebeurtenis met de Adapter Marketo ON24 {#create-an-event-with-the-marketo-on-adapter}
+# Creeer een Gebeurtenis met de Adapter van het Marketo ON24 {#create-an-event-with-the-marketo-on-adapter}
 
-## Voordat u begint {#before-you-begin}
+## Voordat u {#before-you-begin} begint
 
 U zou met de bouwstenen en de geadviseerde opeenvolging voor het creëren van Gebeurtenissen in Marketo vertrouwd moeten zijn. U zou ook werkende kennis van de volgende concepten Marketo moeten hebben:
 
-* [Marketo-programma](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) &#39;s en gebeurtenissen en de verschillen tussen deze programma&#39;s
+* [Marketo-](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) programma&#39;s en gebeurtenissen en de verschillen tussen deze
 * [Kanalen](../../../../product-docs/administration/tags/create-a-program-channel.md)
 * [Lokale elementen](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
-* [Kindercampagnes](https://docs.marketo.com/x/IRCa) en [programmastatussen](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
+* [Onderliggende ](https://docs.marketo.com/x/IRCa) campagnes en  [programmastatussen](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
 
 >[!NOTE]
 >
->Raadpleeg de documentatie [van de](http://developers.marketo.com/documentation/rest/) Marketo-API voor meer informatie over Marketo-API&#39;s.
+>Raadpleeg de [Marketo API-documentatie](http://developers.marketo.com/documentation/rest/) voor meer informatie over Marketo API&#39;s.
 
 ## Vereisten {#prerequisites}
 
 Voor de integratie Marketo ON24 is het volgende vereist:
 
-* **Abonnement op ON24-webcasts** - Neem rechtstreeks contact op met ON24 als u geen huidig abonnement hebt. **OPMERKING**: ON24 Hosted Edition is vereist. ON24 Gebeurtenisbeheer is niet vereist.
+* **Abonnement op ON24-webcasts**  - Neem rechtstreeks contact op met ON24 als u geen huidig abonnement hebt. **OPMERKING**: ON24 Hosted Edition is vereist. ON24 Gebeurtenisbeheer is niet vereist.
 
-* **Beheerdersrechten voor ON24** - Dit is nodig om deze connector te gebruiken en gasten te maken in het ON24-systeem.
-* **ON24 verbindingsgeloofsbrieven** - U zult deze informatie in Marketo moeten ingaan om de integratie toe te laten: Gebruikersnaam, Wachtwoord, Client-id en Client-sleutel. Neem contact op met uw ON24-accountmanager of ON24-support als u hulp nodig hebt met uw gegevens.
-* **Registratieformulier** - Gebruik een Marketo-formulier of een niet-Marketo-formulier samen met de juiste API om ervoor te zorgen dat registratiegegevens en informatie over de registrant worden doorgegeven aan Marketo.
+* **Beheerdersrechten voor ON24**  - Dit is nodig om deze connector te gebruiken en gasten te maken in het ON24-systeem.
+* **ON24 verbindingsgeloofsbrieven**  - U zult deze informatie in Marketo moeten ingaan om de integratie toe te laten: Gebruikersnaam, Wachtwoord, Client-id en Client-sleutel. Neem contact op met uw ON24-accountmanager of ON24-support als u hulp nodig hebt met uw gegevens.
+* **Registratieformulier**  - Gebruik een Marketo-formulier of een niet-Marketo-formulier samen met de juiste API om ervoor te zorgen dat registratiegegevens en informatie over de registrant worden doorgegeven aan Marketo.
 * **De kindcampagne van de registratie - **Een campagne van het registratiekind in uw Gebeurtenis van het Marketo moet behoorlijk voor uw integratie van de Partner van de Gebeurtenis worden gecreeerd en worden gevormd om te werken.
 
 ## Processtroom {#process-flow}
