@@ -19,8 +19,8 @@ Lees het volgende scenario en probeer de aantallen te bepalen die in het net zou
 * 15 april | John attends (Webinar) - Succesvol
 * 22 april | (Opportunity 1) gemaakt voor $3.000
 * 24 april | (Opportunity 2) gemaakt voor $5.000
-* 25 april | John en Michelle hebben banden met **beide** Optys
-* 29 april | [Gewenst 1] is gesloten
+* 25 april | John en Michelle worden geassocieerd met **both** Optys
+* 29 april | [Opty 1] is Closed-Won
 
 | Programmanaam | (Inhoud) | (Webinar) |
 |---|---|---|
