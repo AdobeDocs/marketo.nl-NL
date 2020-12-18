@@ -15,7 +15,7 @@ ht-degree: 0%
 
 In het Lusje van het Team benadrukken wij drie belangrijke metriek.
 
-## E-mails verzonden met template {#emails-sent-with-template}
+## E-mails verzonden met sjabloon {#emails-sent-with-template}
 
 Hoeveel van de e-mails die zijn verzonden, hebben een sjabloon gebruikt.
 
@@ -23,7 +23,7 @@ Hoeveel van de e-mails die zijn verzonden, hebben een sjabloon gebruikt.
 
 Over de hele linie buigen we de piektijd van betrokkenheid die aangeeft op welk tijdstip uw team de meeste activiteit krijgt (weergaven, klikken, antwoorden). Uw team kan deze keer e-mails plannen of plannen om e-mails strategisch te verzenden.
 
-## Deposito&#39;s {#deals-closed}
+## Overeenkomsten gesloten {#deals-closed}
 
 Dit is gebaseerd op het verkoopnummer en op het aantal transacties dat in deze maand is gesloten.
 
