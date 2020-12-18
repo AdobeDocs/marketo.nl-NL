@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## Inleiding {#introduction}
 
-Voor nieuwe klanten van Marketo, in real time Personalization wordt verdeeld in vier apps, betreden gebruikend deze twee tegels: Webpersonalisatie en -inhoud`<sup>AI</sup>`.
+Voor nieuwe klanten van Marketo, in real time Personalization wordt verdeeld in vier apps, betreden gebruikend deze twee tegels: Web Personalization and Content`<sup>AI</sup>`.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->Webpersonalisatie en -inhoud`<sup>AI</sup>` zijn beschikbaar in alle door Marketo ondersteunde talen (Engels, Frans, Duits, Japans, Portugees, Spaans).
+>Web Personalization and Content`<sup>AI</sup>` is beschikbaar in alle door Marketo ondersteunde talen (Engels, Frans, Duits, Japans, Portugees, Spaans).
 
 Bestaande klanten blijven toegang krijgen tot de apps via de &#39;Real-Time Personalization tile&#39; tot de vernieuwing, waarna ze de bovenstaande aanmelding gebruiken.
 
@@ -36,13 +36,13 @@ De vier toepassingen zijn:
 * Opnieuw plaatsen van website
 * Inhoud`<sup>AI</sup>`
 
-De** Web Personalization **tegel is uw toegangspunt voor** het **creëren van gepersonaliseerde Webcampagnes.** **Account-based Web Marketing en Web Retargeting. U kunt inhoud toevoegen op de pagina Inhoud analyseren.
+De** Web Personalization **tegel is uw toegangspunt voor** **het creëren van gepersonaliseerde Webcampagnes.** **Account-based Web Marketing en Web Retargeting. U kunt inhoud toevoegen op de pagina Inhoud analyseren.
 
-**Account-based Web Marketing** werkt met Web Personalization en functies Named Accounts. De pagina Benoemde accounts biedt grafische informatie over bestaande klanten, totale contracten en trends in de organisatie, en een lijst met accounts. U kunt daar ook nieuwe benoemde accounts maken.
+**Account-based Web** Marketingworks met webpersonalisatie en functies met de naam Accounts. De pagina Benoemde accounts biedt grafische informatie over bestaande klanten, totale contracten en trends in de organisatie, en een lijst met accounts. U kunt daar ook nieuwe benoemde accounts maken.
 
-**Het opnieuw samenstellen** van de website geeft u de macht om aan gesegmenteerd publiek opnieuw op de markt te brengen. U kunt segmenten instellen, maar u kunt benoemde accounts niet gebruiken in het filter.
+**Met Website** Retargetinging kunt u opnieuw markten openen voor gesegmenteerde doelgroepen. U kunt segmenten instellen, maar u kunt benoemde accounts niet gebruiken in het filter.
 
-**Inhoud`<sup>AI</sup>`** is de plaats om inhoudaanbevelingen te geven. U kunt inhoud eenvoudig toevoegen aan de Recommendations-pagina Inhoud.
+**Inhoud`<sup>AI</sup>`** geeft de plaats waar u inhoudaanbevelingen kunt doen. U kunt inhoud eenvoudig toevoegen aan de Recommendations-pagina Inhoud.
 
 >[!NOTE]
 >
@@ -73,7 +73,7 @@ Het rechterdeelvenster van de pagina Organisaties bevat de volgende functies en 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Werkbladpictogram</strong>: Rechtsboven in het deelvenster bevindt het pictogram zich en downloadt de tabel Organisaties in CSV-indeling voor offline gebruik</p><p><strong>E-mailwaarschuwing</strong>instellen: Hiermee stuurt u de aangemelde gebruiker een e-mail telkens wanneer de geselecteerde organisatie de website bezoekt</p><p><strong>Leads</strong>: Hiermee opent u de lijst met leads voor de geselecteerde organisatie</p><p><strong>Delen</strong>: Hiermee opent u een pop-upvenster waarin u de gegevens kunt delen van de organisatie die de webpagina heeft bezocht</p><p><strong>Locatiepictogram</strong>: Hiermee geeft u het land en de plaats van de geselecteerde organisatie weer</p><p><strong>Koppelingen</strong>: Jigzaag, Wiis, Linkedin, Google, Twitter opent een nieuw venster met aanvullende informatie van de respectievelijke webpagina met extra inzicht in de geselecteerde organisatie</p><p><strong>Zoeken</strong>: Hiermee geeft u het gebruikte trefwoord weer als de bezoeker via een zoekprogramma is aangekomen</p><p><strong>Referenties</strong>: Toont de verbinding URL van de pagina die het verkeer naar uw plaats verwees</p><p><strong>Bezoekers</strong>: Hier worden het aantal bezoeken, het aantal pagina's dat door de geselecteerde organisatie wordt weergegeven en hun e-mailadres (als ze een verzendformulier hebben ingevuld) en de tijd en datum van het laatste bezoek weergegeven</p><p><strong>Klikstream</strong>: Hiermee geeft u een tabel weer met de gebruikersactiviteit en het URL-pad op de site en hoe lang de gebruikers elke pagina hebben bezocht</p></td> 
+   <td><p><strong>Werkbladpictogram</strong>: Rechtsboven in het deelvenster bevindt het pictogram zich en downloadt de tabel Organisaties in CSV-indeling voor offline gebruik</p><p><strong>E-mailwaarschuwing</strong> instellen: Hiermee stuurt u de aangemelde gebruiker een e-mail telkens wanneer de geselecteerde organisatie de website bezoekt</p><p><strong>Leads</strong>: Hiermee opent u de lijst met leads voor de geselecteerde organisatie</p><p><strong>Delen</strong>: Hiermee opent u een pop-upvenster waarin u de gegevens kunt delen van de organisatie die de webpagina heeft bezocht</p><p><strong>Locatiepictogram</strong>: Hiermee geeft u het land en de plaats van de geselecteerde organisatie weer</p><p><strong>Koppelingen</strong>: Jigzaag, Wiis, Linkedin, Google, Twitter opent een nieuw venster met aanvullende informatie van de respectievelijke webpagina met extra inzicht in de geselecteerde organisatie</p><p><strong>Zoeken</strong>: Hiermee geeft u het gebruikte trefwoord weer als de bezoeker via een zoekprogramma is aangekomen</p><p><strong>Referenties</strong>: Toont de verbinding URL van de pagina die het verkeer naar uw plaats verwees</p><p><strong>Bezoekers</strong>: Hier worden het aantal bezoeken, het aantal pagina's dat door de geselecteerde organisatie wordt weergegeven en hun e-mailadres (als ze een verzendformulier hebben ingevuld) en de tijd en datum van het laatste bezoek weergegeven</p><p><strong>Klikstream</strong>: Hiermee geeft u een tabel weer met de gebruikersactiviteit en het URL-pad op de site en hoe lang de gebruikers elke pagina hebben bezocht</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
