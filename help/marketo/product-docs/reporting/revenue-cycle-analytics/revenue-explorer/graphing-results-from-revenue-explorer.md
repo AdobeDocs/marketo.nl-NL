@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Grafiekresultaten van de Ontdekkingsreiziger van de Inkomsten {#graphing-results-from-revenue-explorer}
+# Afbeeldingsresultaten van inkomstenverkenner {#graphing-results-from-revenue-explorer}
 
 Standaard worden rapporten in Indelingsverkenner weergegeven als een tabel. U kunt de resultaten ook weergeven als een grafiek in verschillende indelingen.
 
-1. Klik op de pijl in het vervolgkeuzemenu **Weergeven als** van uw rapport. Er worden verschillende grafische opties weergegeven.
+1. Klik de pijl in **Mening als** drop-down menu van uw rapport. Er worden verschillende grafische opties weergegeven.
 
    ![](assets/one-1.png)
 
