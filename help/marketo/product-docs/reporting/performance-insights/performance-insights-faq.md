@@ -59,11 +59,11 @@ Mogelijk ontbreken er ook kansen omdat de programmakosten ontbreken in uw progra
 
 1. Standaard - Het standaardgedrag is dat het programma ALLEEN in MPI wordt opgenomen als er ten minste één periode kosten zijn, zelfs als er nul dollar is toegewezen.
 1. Inclusief - Met deze optie zorgt u ervoor dat het programma beschikbaar is in MPI, ongeacht of u kosten voor een periode hebt opgenomen.
-1. [Operationeel](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms) - Deze optie leidt ertoe dat het programma niet in MPI verschijnt.
+1. [Operationeel](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  - Deze optie leidt ertoe dat het programma niet in MPI verschijnt.
 
 >[!NOTE]
 >
->Periode **moet** worden ingesteld voor de rapportage van succesmeldingen en nieuwe namen op het dashboard Betrokkenheid. Dit dashboard gebruikt gegevens van de Kosten van de Periode om successen en nieuwe namen samen te voegen. Als Periode-kosten niet is ingesteld, rapporteert het betrokkenheidsdashboard niet correct, ongeacht de bovenstaande instellingen voor Analytics-gedrag.
+>Periode kost **has** moet worden ingesteld voor melding van succes en nieuwe namen op het dashboard Betrokkenheid. Dit dashboard gebruikt gegevens van de Kosten van de Periode om successen en nieuwe namen samen te voegen. Als Periode-kosten niet is ingesteld, rapporteert het betrokkenheidsdashboard niet correct, ongeacht de bovenstaande instellingen voor Analytics-gedrag.
 
 ## Waarom mis ik kansen in MPI? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -82,7 +82,7 @@ Aangepaste velden, opportuniteitstype en ABM-filters zijn allemaal kenmerken die
 
 ## Ik wil een gebied van de Kans van de Kans van de Douane van Salesforce voor opbrengstrapportering in plaats van het standaardgebied van het Bedrag van de Kans van Salesforce gebruiken. Zal MPI mij toestaan dat te doen? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Ja. [Marketo Support](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) kan het veld Opportunity van Marketo opnieuw toewijzen aan een aangepast veld Salesforce Opportunity zolang het veldtype een valuta is. Aangezien MPI naar het de reeksgebied van de Kanaal van de Marketo wijst, kan MPI de gegevens van het opnieuw in kaart gebrachte gebied van Salesforce gebruiken.
+Ja. [Marketo ](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) Support kan het veld Opportunity van Marketo opnieuw toewijzen aan een aangepast veld Salesforce Opportunity zolang het veldtype een valuta is. Aangezien MPI naar het de reeksgebied van de Kanaal van de Marketo wijst, kan MPI de gegevens van het opnieuw in kaart gebrachte gebied van Salesforce gebruiken.
 
 >[!NOTE]
 >
@@ -104,7 +104,7 @@ Ja. MPI integreert met [Marketo ABM](http://docs.marketo.com/display/DOCS/Accoun
 
 ## Is de toewijzing onmiddellijk beschikbaar wanneer ik MPI aanschaf? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-De mogelijkheden voor Marketo Attribution zijn beschikbaar voor onze klanten wanneer zij MPI aanschaffen. Nochtans, wordt de [juiste opstelling](http://docs.marketo.com/x/mRPG) vereist om ervoor te zorgen dat de kansen en programmagegevens correct in MPI stromen.
+De mogelijkheden voor Marketo Attribution zijn beschikbaar voor onze klanten wanneer zij MPI aanschaffen. [juiste setup](http://docs.marketo.com/x/mRPG) is echter vereist om ervoor te zorgen dat de mogelijkheden en programmagegevens correct in MPI stromen.
 
 ## Wat moet ik doen om attributie in te stellen? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ De mogelijkheden voor Marketo Attribution zijn beschikbaar voor onze klanten wan
 
 >[!TIP]
 >
->Alle vereiste installatiestappen worden in [dit artikel](http://docs.marketo.com/x/mRPG)beschreven.
+>Alle vereiste installatiestappen worden beschreven in [dit artikel](http://docs.marketo.com/x/mRPG).
 
 ## Wat is het verschil tussen MPI en de Analysator van het Programma? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 
