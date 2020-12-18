@@ -58,7 +58,7 @@ De derde lay-out Volledig scherm is gelijk aan de tweede, behalve de tweede. Dit
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Nu u op de hoogte bent van de sjablonen, is het tijd om een sjabloon te kiezen wanneer u uw in-app-berichtafbeeldingen [](add-in-app-message-images.md)maakt.
+Nu u over de malplaatjes weet, het tijd om te kiezen wanneer u [creeer uw in-app berichtbeelden](add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >
