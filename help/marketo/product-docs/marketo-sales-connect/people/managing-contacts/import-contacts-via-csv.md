@@ -19,11 +19,11 @@ Het is belangrijk dat u contacten hebt op de pagina Personen, omdat wij hier aut
 
    ![](assets/one.png)
 
-1. Klik op Handelingen **** groeperen en selecteer CSV **** importeren.
+1. Klik **Handelingen groeperen** en selecteer **CSV importeren**.
 
    ![](assets/two.png)
 
-1. Klik op **Bladeren**.
+1. Klik **Bladeren**.
 
    ![](assets/three.png)
 
@@ -33,11 +33,11 @@ Het is belangrijk dat u contacten hebt op de pagina Personen, omdat wij hier aut
    >
    >Groepen zijn beperkt tot 1000 contacten.
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/four.png)
 
-1. Wijs de kolommen in uw CSV aan hun respectieve gebieden in Verkoop toe verbindt. Klik op **Volgende** als u klaar bent.
+1. Wijs de kolommen in uw CSV aan hun respectieve gebieden in Verkoop toe verbindt. Klik **Volgende** wanneer gereed.
 
    ![](assets/five.png)
 
