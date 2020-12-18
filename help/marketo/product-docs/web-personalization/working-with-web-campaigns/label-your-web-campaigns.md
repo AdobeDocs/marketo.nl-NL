@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Webcampagnes labelen {#label-your-web-campaigns}
+# Label uw webcampagnes {#label-your-web-campaigns}
 
 Hebt u zoveel campagnes dat het schuiven omslachtig wordt? Gebruik labels om tags aan uw campagnes toe te wijzen, zodat u deze kunt sorteren en snel kunt terugvinden.
 
@@ -23,7 +23,7 @@ Hebt u zoveel campagnes dat het schuiven omslachtig wordt? Gebruik labels om tag
 
    >[!NOTE]
    >
-   >Met de [filterfunctie](filter-web-campaigns.md)kunt u gemakkelijker de gewenste campagne vinden.
+   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik [filtereigenschap](filter-web-campaigns.md).
 
 1. Selecteer de campagnes die u wilt voorzien van een label.
 
@@ -51,7 +51,7 @@ Koel! U weet nu hoe u labels kunt maken en toewijzen aan campagnes.
 
 >[!MORELIKETHIS]
 >
->* [Segment](create-a-new-in-zone-web-campaign.md) [labelen](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
+>* [Een segment ](create-a-new-in-zone-web-campaign.md) [labelen](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 >
 
