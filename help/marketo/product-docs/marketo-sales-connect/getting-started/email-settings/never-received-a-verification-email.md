@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Nooit een verificatiebericht ontvangen {#never-received-a-verification-email}
+# Nooit een verificatie-e-mail {#never-received-a-verification-email} ontvangen
 
 Heb je het verificatiebericht niet van ons ontvangen?
 
