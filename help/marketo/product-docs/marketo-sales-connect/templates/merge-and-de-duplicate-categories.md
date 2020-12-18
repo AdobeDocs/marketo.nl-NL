@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Categorieën samenvoegen en dupliceren {#merge-and-de-duplicate-categories}
+# Categorieën {#merge-and-de-duplicate-categories} samenvoegen en dupliceren
 
 Wanneer uw Sales Connect-account is bijgewerkt naar de nieuwste versie van Sjablonen, worden mogelijk rode waarschuwingspictogrammen weergegeven naast een aantal van uw sjablooncategorieën. Deze geven aan dat u meerdere categorieën met dezelfde naam hebt. Door het menu rechts van de categorie te openen, kunt u deze gedupliceerde categorieën samenvoegen met een klik op een knop.
 
