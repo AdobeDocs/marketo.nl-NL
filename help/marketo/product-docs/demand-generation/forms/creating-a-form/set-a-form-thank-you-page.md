@@ -11,31 +11,31 @@ ht-degree: 0%
 ---
 
 
-# Een pagina voor bedankt formulier instellen {#set-a-form-thank-you-page}
+# Formulier instellen waarmee u een pagina {#set-a-form-thank-you-page} bedankt
 
 Wat gebeurt er als iemand een formulier invult? Waar worden ze doorgestuurd naar? Hier is hoe te om het te vormen.
 
-## Formulier bewerken {#edit-form}
+## Formulier {#edit-form} bewerken
 
 1. Ga naar **Marketing** **Activiteiten**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selecteer het formulier en klik op Formulier **** bewerken.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Klik onder **Formulierinstellingen** **op** Instellingen ****.
+1. Klik onder **Formulier** **Instellingen** op **Instellingen**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Schuif omlaag naar de sectie **Bedankt** voor **uw** **pagina** .
+1. Schuif omlaag naar de sectie **Dank** **U** **Pagina**.
 
-## Op de pagina blijven {#stay-on-page}
+## Op pagina {#stay-on-page} blijven
 
 Met de optie Op pagina blijven houdt u de bezoeker op dezelfde pagina wanneer het formulier is verzonden.
 
-1. Selecteer **Op** de **** pagina **blijven voor** Opvolgen ******** **** met.
+1. Selecteer **Verblijven** **On** **Pagina** voor **Follow** **Up** **With**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ Met de optie Op pagina blijven houdt u de bezoeker op dezelfde pagina wanneer he
 
 Met de instelling Externe URL kunt u elke URL definiëren als de vervolgpagina. Nadat de gebruiker het formulier heeft verzonden, wordt deze naar de opgegeven URL geleid.
 
-1. Selecteer **Externe** **URL** voor **Opvolgen** **Omhoog** **met**.
+1. Selecteer **Extern** **URL** voor **Follow** **Up** **With**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -59,7 +59,7 @@ Met de instelling Externe URL kunt u elke URL definiëren als de vervolgpagina. 
 
 U kunt elke goedgekeurde bestemmingspagina van Marketo selecteren als follow-up.
 
-1. Stel de **follow-up met** in op de **bestemmingspagina**.
+1. Stel **Follow-up met** in op **Openingspagina**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -67,11 +67,11 @@ U kunt elke goedgekeurde bestemmingspagina van Marketo selecteren als follow-up.
 
    ![](assets/image2014-9-15-17-3a37-3a59.png)
 
-## Dynamisch bedankt voor uw pagina&#39;s {#dynamic-thank-you-pages}
+## Dynamisch bedankt {#dynamic-thank-you-pages}
 
 U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende follow-ups te laten zien, afhankelijk van hun reacties.
 
-1. Klik op **Keuze** toevoegen ****.
+1. Klik **Add** **Keuze**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Kies de juiste pagina voor **Vervolgen** **Omhoog** **met** type.
+1. Kies de aangewezen pagina voor **Follow** **Up** **Met type**.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -106,7 +106,7 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
    >
    >U moet deze bestemmingspagina&#39;s voor tijd hebben gecreeerd/goedgekeurd.
 
-1. Klik op het **+** -teken om een andere keuze toe te voegen.
+1. Klik **+** teken om een andere keus toe te voegen.
 
    ![](assets/image2014-9-15-17-3a39-3a25.png)
 
@@ -114,7 +114,7 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
    >
    >U kunt verschillende opties toevoegen. Als u echter te veel toevoegt, kan dit van invloed zijn op de laadsnelheid van het formulier. Voeg dus alleen toe wat u nodig hebt.
 
-1. Doorgaan en **Keuze** instellen **2**.
+1. Doorgaan en instellen **Keuze** **2**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -126,7 +126,7 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
 
    ![](assets/image2014-9-15-17-3a40-3a10.png)
 
-1. Selecteer de pagina zelf en klik op **Opslaan**.
+1. Selecteer de pagina zelf en klik **Opslaan**.
 
    ![](assets/image2014-9-15-17-3a40-3a26.png)
 
@@ -134,11 +134,11 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
 
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-17-3a40-3a42.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
