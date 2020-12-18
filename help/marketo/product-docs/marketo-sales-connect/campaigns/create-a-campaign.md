@@ -24,27 +24,27 @@ Met campagnes kunt u:
 
 Hoe zet je een campagne op?
 
-1. Klik op het tabblad **Campagnes** .
+1. Klik op het tabblad **Campagnes**.
 
    ![](assets/one-1.png)
 
-1. Selecteer een categorie en klik op de knop **Een campagne** maken om een nieuwe campagne te maken.
+1. Selecteer een categorie en klik **Creeer een Campagne** knoop om een nieuwe Campagne tot stand te brengen.
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >Maak een nieuwe categorie door te klikken op** +** naast **Categorieën**.
+   >Maak een nieuwe categorie door te klikken op de ** +** naast **Categorieën**.
 
-1. De gekozen rubriek wordt geselecteerd. Als u van mening verandert, klikt u op de vervolgkeuzelijst en selecteert u een andere. Klik op **Doorgaan** als je klaar bent.
+1. De gekozen rubriek wordt geselecteerd. Als u van mening verandert, klikt u op de vervolgkeuzelijst en selecteert u een andere. Als u klaar bent, klikt u op **Doorgaan**.
 
    ![](assets/three-1.png)
 
-1. Klik op **Een stap** toevoegen.
+1. Klik **Voeg een Stap** toe.
 
    ![](assets/four-1.png)
 
-1. Kies tussen: E-mail, Vraag, InMail, of de Taak van de Douane. In dit voorbeeld kiezen we voor [e-mail](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email).
+1. Kies tussen: E-mail, Vraag, InMail, of de Taak van de Douane. In dit voorbeeld kiezen we [Email](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email).
 
    ![](assets/five-1.png)
 
@@ -56,7 +56,7 @@ Hoe zet je een campagne op?
    >
    >&quot;Dagen&quot; zijn niet het aantal dagen tussen handelingen, maar de dag binnen de reeks. Als uw campagne bijvoorbeeld 7 dagen duurt, betekent het invoeren van &#39;3&#39; dat de actie op dag 3 van 7 wordt uitgevoerd, **niet **3 dagen later.
 
-1. Zorg ervoor dat u de opties voor planning en antwoord aanpast, zoals weekends overslaan (wat geweldig is) door het tabblad **Instellingen** voor uw campagne te bezoeken.
+1. Zorg ervoor u het plannen en antwoordopties aanpassen, zoals het overslaan van weekends (wat geweldig is) door **het Lusje van Montages** voor uw Campagne te bezoeken.
 
    ![](assets/seven.png)
 
