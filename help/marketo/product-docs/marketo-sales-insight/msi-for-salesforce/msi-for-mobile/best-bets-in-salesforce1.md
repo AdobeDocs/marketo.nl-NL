@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Beste ets in Salesforce1 {#best-bets-in-salesforce}
+# Beste eetgewoonten in Salesforce1 {#best-bets-in-salesforce}
 
-Uw [Beste Bets](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) zijn uw leads en contacten met de hoogste urgentie en relatieve score. Alleen de leads die u hebt, zijn zichtbaar in die lijst en de lijst wordt bijgewerkt als de doorloopscores veranderen.
+Uw [Best Bets](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) zijn uw leads en contacten met de hoogste urgentie en relatieve score. Alleen de leads die u hebt, zijn zichtbaar in die lijst en de lijst wordt bijgewerkt als de doorloopscores veranderen.
 
 1. Ga naar het gebied Marketo in de Salesforce-app.
 
