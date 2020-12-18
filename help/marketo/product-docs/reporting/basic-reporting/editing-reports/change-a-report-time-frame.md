@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Wijzig de periode die door het rapport wordt bestreken, zodat u zich op een bepaald tijdstip van activiteit kunt concentreren.
 
-1. Ga naar het gebied **Marketing Activities** (of **Analytics**).
+1. Ga naar het **Marketingactiviteiten** (of **Analytics**) gebied.
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Selecteer uw rapport van de navigatieboom en klik de **Opstelling** tabel.
+1. Selecteer uw rapport van de navigatieboom en klik **Opstelling** tabel.
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
@@ -33,7 +33,7 @@ Wijzig de periode die door het rapport wordt bestreken, zodat u zich op een bepa
 
    >[!NOTE]
    >
-   >**De persoon creeerde bij** verwijst naar het ogenblik de persoon in uw gegevensbestand gekend werd.
+   >**De persoon creeerde** Aanwezigheid verwijst naar het ogenblik de persoon in uw gegevensbestand gekend werd.
 
 1. Kies het aangewezen tijdkader van het drop-down menu.
 
@@ -41,9 +41,9 @@ Wijzig de periode die door het rapport wordt bestreken, zodat u zich op een bepa
 
    >[!TIP]
    >
-   >Als u specifieke datums wilt instellen, selecteert u **Aangepast** in het keuzemenu en voert u de datums in in de velden **Van** en **Naar** .
+   >Als u specifieke datums wilt instellen, selecteert u **Aangepast** in het vervolgkeuzemenu en voert u de datums in in de kalendervelden **Van** en **Naar**.
 
-   Klik op het tabblad **Rapport** om uw rapport voor het geselecteerde tijdkader weer te geven.\
+   Klik **Rapport** lusje om uw rapport voor het geselecteerde tijdkader te zien.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!NOTE]
@@ -51,12 +51,12 @@ Wijzig de periode die door het rapport wordt bestreken, zodat u zich op een bepa
    >**Verwante artikelen**
    >
    >
-   >Om uw rapport door specifieke persoonattributen te beperken, kunt u Mensen in een Rapport met een Slimme Lijst [](filter-people-in-a-report-with-a-smart-list.md)filtreren.
+   >Om uw rapport door specifieke persoonattributen te beperken, kunt u [Mensen in een Rapport met een Slimme Lijst](filter-people-in-a-report-with-a-smart-list.md) filtreren.
 
    >[!NOTE]
    >
    >**Diep duiken**
    >
    >
-   >Voor meer manieren om rapporten te gebruiken, zie de [Basis die diep duik meldt](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Voor meer manieren om rapporten te gebruiken, zie [Basis Rapportering](http://docs.marketo.com/display/docs/basic+reporting) diep duik.
 
