@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Standaardinstellingen algoritme {#algorithm-goal-settings}
+# Instellingen voor algoritmedoel {#algorithm-goal-settings}
 
 De Montages van het Doel van het Algoritme staat u toe om het einddoel van het kunstmatige van de Inhoudsintelligentie algoritme te plaatsen om zich aan uw bedrijfsdoelstellingen te richten.
 
-1. Klik op de naam van uw aanmeldingsnaam in het vak Voorspelende inhoud en selecteer **Inhoudinstellingen**.
+1. Klik in Voorspelende inhoud op de naam van uw aanmeldingsnaam en selecteer **Inhoudsinstellingen**.
 
    ![](assets/1.png)
 
-1. Selecteer **Algoritme onder Inhoudsinstellingen**.
+1. Selecteer **Algorithm** onder Inhoudsinstellingen.
 
    ![](assets/two-1.png)
 
@@ -31,7 +31,7 @@ De Montages van het Doel van het Algoritme staat u toe om het einddoel van het k
    |---|---|
    | **`Conversions`** | De inhoud weergeven die de persoon die de inhoud bekijkt het meest waarschijnlijk maakt om een formulier te verzenden |
 
-1. Klik op **Opslaan** als u klaar bent.
+1. Klik **Opslaan** wanneer gereed.
 
    ![](assets/four.png)
 
