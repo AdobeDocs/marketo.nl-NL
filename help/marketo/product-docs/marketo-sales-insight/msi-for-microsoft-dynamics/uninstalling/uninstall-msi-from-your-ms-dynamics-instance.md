@@ -23,31 +23,31 @@ Om MSI van uw instantie van de Dynamica van MS te desinstalleren, zult u stappen
 
    ![](assets/one-1.png)
 
-1. Klik op **Verkoopoverzicht**.
+1. Klik **Sales Insight**.
 
    ![](assets/six.png)
 
-1. Klik op Veldsynchronisatie **bewerken**.
+1. Klik **Veldsynchronisatie bewerken**.
 
    ![](assets/seven.png)
 
-1. Schakel het selectievakje Sync **** uitschakelen in en klik op **Opslaan**.
+1. Schakel het selectievakje **Sync uitschakelen** in en klik op **Opslaan**.
 
    >[!NOTE]
    >
    >**Herinnering**
    >
    >
-   >Zorg ervoor dat u de algemene MS Dynamics Sync [](http://docs.marketo.com/x/TAA6Ag) uitschakelt voordat u de veldsync uitschakelt.
+   >Zorg ervoor dat u [de algemene synchronisatie van MS Dynamics](http://docs.marketo.com/x/TAA6Ag) uitschakelt voordat u de veldsync uitschakelt.
 
    ![](assets/eight.png)
 
 ## De volgende stappen vinden plaats in uw instantie van de Dynamica van MS: {#the-following-steps-take-place-in-your-ms-dynamics-instance}
 
-1. Klik op **Geavanceerde instellingen**.
-1. Klik op **Oplossingen**.
+1. Klik **Geavanceerde instellingen**.
+1. Klik **Oplossingen**.
 1. Selecteer **Marketo Sales Insight** en klik op het verwijderpictogram.
-1. Klik op **OK** wanneer het modale venster Oplossing verwijderen wordt weergegeven.
+1. Wanneer de modale pop-up van de Oplossing van de Desinstallatie, klik **OK**.
 
    Het duurt meestal ongeveer 20 minuten voordat de MS Dynamics-oplossing volledig is verwijderd. Als u echter een grote MS Dynamics-instantie hebt, kan het iets langer duren.
 
