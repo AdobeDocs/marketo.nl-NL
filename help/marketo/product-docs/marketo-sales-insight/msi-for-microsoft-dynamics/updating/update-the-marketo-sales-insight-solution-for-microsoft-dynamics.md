@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Werk de Oplossing van het Inzicht van de Verkoop van de Marketo voor de Dynamica van Microsoft bij {#update-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# Update de Oplossing van het Inzicht van de Verkoop van de Marketo voor de Dynamica van Microsoft {#update-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
 Wanneer een nieuwe oplossing van de Dynamiek van Microsoft voor het Inzicht van de Verkoop wordt vrijgegeven, kunt u de update van het gebied Admin in uw rekening downloaden.
 
@@ -19,15 +19,15 @@ Wanneer een nieuwe oplossing van de Dynamiek van Microsoft voor het Inzicht van 
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar het gebied **Beheer** .
+1. Ga naar **Admin** gebied.
 
    ![](assets/mainnavhand.png)
 
-1. Klik op **Microsoft Dynamics**.
+1. Klik **Microsoft Dynamics**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Selecteer Marketo-oplossing **** downloaden.
+1. Selecteer **Marketo-oplossing downloaden**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
