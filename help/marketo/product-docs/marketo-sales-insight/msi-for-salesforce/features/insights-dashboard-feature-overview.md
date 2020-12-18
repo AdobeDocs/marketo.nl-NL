@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Overzicht van dashboardfuncties voor inzichten {#insights-dashboard-feature-overview}
+# Overzicht van dashboardfuncties {#insights-dashboard-feature-overview}
 
 Meer informatie over de functies die beschikbaar zijn op het dashboard Verkoopinzicht.
 
 >[!PREREQUISITES]
 >
->U moet beschikken over het nieuwste MSI SFDC-pakket en - [configuratie](http://docs.marketo.com/x/F4GMAg).
+>U moet het recentste pakket MSI SFDC en [configuration](http://docs.marketo.com/x/F4GMAg) hebben.
 
 ![](assets/one.png)
 
-## Contactlay-out {#contact-layout}
+## Contactlayout {#contact-layout}
 
 **Snelheidsraster voor betrokkenheid**
 
@@ -62,7 +62,7 @@ Gebeurtenis, tabblad:
 
 ![](assets/two.png)
 
-## Layout lead {#lead-layout}
+## Leidinglayout {#lead-layout}
 
 **Snelheidsraster voor betrokkenheid**
 
@@ -139,7 +139,7 @@ Gebeurtenis, tabblad:
 * Actiedetails-kaart in deze sectie bevat voorvertoningsoptie
 * Filter bevat &quot;Zoeken&quot;, &quot;Alleen uitgenodigde gebeurtenissen tonen&quot; en &quot;Datumbereik&quot;
 
-## Opportunity-indeling {#opportunity-layout}
+## Opportunity-layout {#opportunity-layout}
 
 **Snelheidsraster voor betrokkenheid**
 
@@ -156,7 +156,7 @@ Gebeurtenis, tabblad:
 * De Wekelijkse Summiere bar zal het Interesten Momenten, E-mail en Activiteit van het Web voor die week tonen. Op elk pictogram kan worden geklikt en het kan worden gebruikt als filters om specifieke activiteit weer te geven
 * Standaardweergave: Dit is een lijst met activiteiten van de huidige weergave
 
-**Het volgende tabblad E-mailcampagnes en e-mailcampagnes** voor gebeurtenissen:
+**Aanstaande e-mailcampagnes en** gebeurtenissenE-mailcampagnes tabblad:
 
 * Bevat campagnes die onderdeel zijn van e-mailprogramma&#39;s of standaardprogramma&#39;s die in de komende 90 dagen zijn gepland
 * Niet specifiek voor de contact/lood (d.w.z., is de lijst van campagnes een generische lijst van alle e-mailcampagnes die in de instantie Marketo worden gepland). De lijst met campagnes in alle deelvensters voor leads, contact, account en opportuniteiten is gelijk
