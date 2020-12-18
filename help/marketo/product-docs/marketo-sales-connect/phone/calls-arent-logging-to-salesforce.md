@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Als u uw vraag van de Telefoon van de Verkoop automatisch aan Salesforce wilt worden geregistreerd, zorg ervoor het volgende op zijn plaats is.
 
-U hebt uw Sales Connect-account nodig om via de API-verbinding verbinding verbinding te maken met uw [Salesforce-account](http://docs.marketo.com/x/q4LS) .
+U hebt uw Sales Connect-account nodig om via de API-verbinding verbinding verbinding te maken met uw [Salesforce-account](http://docs.marketo.com/x/q4LS).
 
-Als u vanuit de [webtoepassing](http://toutapp.com/login)belt, moet u een Salesforce-id opslaan in die contactpersoon. [Klik hier](http://docs.marketo.com/x/G4PS) om te zien hoe u ervoor kunt zorgen dat aan al uw Sales Connect-contactpersonen een Salesforce-id is gekoppeld.
+Als u van [Webtoepassing ](http://toutapp.com/login) roept, zult u een identiteitskaart Salesforce nodig hebben die aan dat contact wordt bewaard. [Klik ](http://docs.marketo.com/x/G4PS) hier om te zien hoe u ervoor kunt zorgen dat aan al uw Sales Connect-contactpersonen een Salesforce-id is gekoppeld.
 
 >[!NOTE]
 >
