@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren {#how-to-install-customizations-in-your-salesforce-sandbox}
+# Hoe te om Aanpassingen in Uw zandbak van Salesforce {#how-to-install-customizations-in-your-salesforce-sandbox} te installeren
 
 >[!NOTE]
 >
@@ -25,13 +25,13 @@ ht-degree: 0%
 
    ![](assets/one-3.png)
 
-1. Klik onder Instellingen Admin op **Salesforce.**
+1. Klik onder Beheerinstellingen op **Salesforce.**
 
    ![](assets/two-3.png)
 
-1. Klik op Aanpassingen **** installeren.
+1. Klik **Aanpassingen installeren**.
 
    ![](assets/three-3.png)
 
-   Ga vervolgens gewoon door met de stappen om de aanpassing te installeren zoals u zou doen op een gewone Salesforce-account. Ga verder met de markering van [deze video](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) van één minuut voor meer informatie.
+   Ga vervolgens gewoon door met de stappen om de aanpassing te installeren zoals u zou doen op een gewone Salesforce-account. U kunt de markering van [deze video ](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) van één minuut overslaan voor meer informatie.
 
