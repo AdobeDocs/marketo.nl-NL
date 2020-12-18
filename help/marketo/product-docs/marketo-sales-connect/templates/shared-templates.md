@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Als u één van onze teamrekeningen gebruikt, zijn al uw malplaatjes nog privé door gebrek. Klik op de groene knop **Delen** boven aan de sjabloon om deze te delen met de rest van uw team.
 
-## Gedeelde sjablonen zoeken  {#how-to-find-shared-templates}
+## Hoe te om Gedeelde Malplaatjes {#how-to-find-shared-templates} te vinden
 
 De malplaatjes die met u zijn gedeeld zullen omhoog onder de **Malplaatjes van het Team **kopbal op de linkerkant van de pagina van Malplaatjes verschijnen.
 
