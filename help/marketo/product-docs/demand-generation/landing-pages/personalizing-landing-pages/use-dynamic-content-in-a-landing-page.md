@@ -25,9 +25,9 @@ ht-degree: 0%
 
 Door dynamische inhoud te gebruiken op bestemmingspagina&#39;s, worden mensen met gerichte informatie ingeschakeld.
 
-## Segmentering toevoegen {#add-segmentation}
+## Segmentatie {#add-segmentation} toevoegen
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -57,13 +57,13 @@ Door dynamische inhoud te gebruiken op bestemmingspagina&#39;s, worden mensen me
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. U kunt elementen ook statisch of dynamisch maken vanuit de **instellingen** voor elementen.
+1. U kunt ook elementen statisch of dynamisch maken vanuit het element **Settings**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## Dynamische inhoud toepassen {#apply-dynamic-content}
 
-1. Selecteer een element onder een segment en klik op **Bewerken**. Herhaal dit voor elk segment.
+1. Selecteer een element onder een segment en klik vervolgens op **Bewerken**. Herhaal dit voor elk segment.
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 
