@@ -11,8 +11,8 @@ ht-degree: 0%
 ---
 
 
-# Tekstactiviteit niet weergegeven {#tracking-activity-not-showing}
+# Tekstactiviteit {#tracking-activity-not-showing} niet weergegeven
 
 Als uw traceringsactiviteit niet wordt weergegeven, controleert u of de velden met aangepaste activiteiten die Sales Connect biedt, zichtbaar/bewerkbaar zijn in Salesforce. Als u de velden hebt geïnstalleerd, maar deze niet invult, is er mogelijk Beveiliging op veldniveau om te voorkomen dat informatie wordt gevuld. Neem contact op met uw Salesforce-beheerder.
 
-Meer informatie over beveiliging [op](http://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) veldniveau in Salesforce.
+Meer informatie over [Beveiliging op veldniveau](http://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5) in Salesforce.
