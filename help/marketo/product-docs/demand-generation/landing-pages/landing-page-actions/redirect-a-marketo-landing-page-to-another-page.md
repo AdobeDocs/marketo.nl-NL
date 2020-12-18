@@ -19,15 +19,15 @@ Als u ooit de URL van een pagina bijwerkt en de oude URL nog wilt laten werken, 
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik onder **Beheer** op **Pagina** &#39;s **** landen.
+1. Klik onder **Admin** op **Landing** **Pagina&#39;s**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. Klik onder het tabblad **Regels** op **Nieuw** en vervolgens op **Nieuwe** **omleidingsregel******.
+1. Klik onder het tabblad **Regels** op **Nieuw** en vervolgens **Nieuw** **Omleiden** **Regel**.
 
    ![](assets/two-1.png)
 
-1. Klik op de **eerste** vervolgkeuzelijst **Originele** **URL** en selecteer Marketo [CNAME](customize-your-landing-page-urls-with-a-cname.md).
+1. Klik **first** **Origineel** **URL** drop-down en selecteer uw Marketo [CNAME](customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
@@ -36,9 +36,9 @@ Als u ooit de URL van een pagina bijwerkt en de oude URL nog wilt laten werken, 
    >**Herinnering**
    >
    >
-   >Herinner me, kunt u URLs slechts omleiden die met uw [NAAM](customize-your-landing-page-urls-with-a-cname.md)van het Teken beginnen.
+   >Herinner me, kunt u URLs slechts omleiden die met uw Marketo [CNAME](customize-your-landing-page-urls-with-a-cname.md) beginnen.
 
-1. Kies de landingspagina die u wilt omleiden in het **tweede veld Oorspronkelijke URL** .
+1. Kies de landingspagina die u wilt omleiden in het veld **second Original URL**.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -50,13 +50,13 @@ Als u ooit de URL van een pagina bijwerkt en de oude URL nog wilt laten werken, 
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/image2014-9-25-15-3a48-3a5.png)
 
    >[!TIP]
    >
-   >Klik op Openingspagina **niet-markeerteken** gebruiken om om te leiden naar een webpagina buiten Marketo.
+   >Als u wilt omleiden naar een webpagina buiten Marketo, klikt u op **Openingspagina van niet-Marketo gebruiken**.
 
    >[!NOTE]
    >
