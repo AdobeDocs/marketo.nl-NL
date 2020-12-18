@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Aangepaste velden toewijzen aan markeerteken {#map-custom-fields-to-marketo}
+# Aangepaste velden toewijzen aan markeerteken naar {#map-custom-fields-to-marketo}
 
-Mogelijk wilt u meer dan de standaardgegevens verzamelen die standaard in Facebook worden opgeslagen, bijvoorbeeld hoe vaak iemand uw onlinebezorgingsservice gebruikt. U kunt dit bereiken door aangepaste vragen [te](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) maken in uw lead advertenties op Facebook.
+Mogelijk wilt u meer dan de standaardgegevens verzamelen die standaard in Facebook worden opgeslagen, bijvoorbeeld hoe vaak iemand uw onlinebezorgingsservice gebruikt. U kunt dit bereiken door aangepaste vragen te maken[ in uw leidende advertenties op Facebook.](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink)
 
-Nochtans, zal **Marketo niet automatisch beginnen deze gegevens** te verzamelen.** ** Als u wilt dat Marketo aangepaste veldwaarden gaat vastleggen, **moet** u deze aangepaste velden toewijzen aan een veld in Marketo.
+**Marketo wordt echter niet automatisch gestart met het verzamelen van deze gegevens**.** * Opdat Marketo begint douanegebiedswaarden te vangen, moet u **must** die douanegebieden aan een gebied in Marketo in kaart brengen.
 
 Hieronder wordt beschreven hoe u dit instelt in het gebied LaunchPoint van Admin.
 
@@ -23,23 +23,23 @@ Hieronder wordt beschreven hoe u dit instelt in het gebied LaunchPoint van Admin
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar het gebied Admin en klik **LaunchPoint**. Zoek en bewerk **Facebook Lead Ads** onder Installed Services.
+1. Ga naar het gebied Admin en klik **LaunchPoint**. Zoek en bewerk **Advertenties voor Facebook-leads** onder Geïnstalleerde services.
 
    ![](assets/image2017-10-24-9-3a32-3a16.png)
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
    ![](assets/image2017-10-24-14-3a55-3a13.png)
 
-1. Laat het geoorloofde account ongewijzigd: breng **geen** wijzigingen aan. Klik op **Volgende**.
+1. Laat het geoorloofde account ongewijzigd: maak geen wijzigingen door **niet**. Klik **Volgende**.
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. Laat de geselecteerde pagina&#39;s net als voorheen ongewijzigd en breng **geen** wijzigingen aan. Klik op **Volgende**.
+1. Als vroeger, verlaat de geselecteerde pagina&#39;s zoals is-doe **geen** om het even welke veranderingen aanbrengen. Klik **Volgende**.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
-1. Hier is waar u het aangepaste Facebook-veld toewijst aan uw Marketo-veld. Klik op **Toevoegen.**
+1. Hier is waar u het aangepaste Facebook-veld toewijst aan uw Marketo-veld. Klik **Toevoegen.**
 
    ** ![](assets/image2017-10-24-9-3a33-3a49.png)
 
@@ -53,15 +53,15 @@ Hieronder wordt beschreven hoe u dit instelt in het gebied LaunchPoint van Admin
    >
    >Alleen velden die zijn opgeslagen in Facebook-formuliersjablonen worden hier weergegeven als opties.
 
-1. Klik in de kolom **Marketo-veld** . Typ om te zoeken naar het veld waaraan u wilt toewijzen. Als u een veld hebt geselecteerd, klikt u op **Opslaan**.
+1. Klik in **Marketo Field** kolom. Typ om te zoeken naar het veld waaraan u wilt toewijzen. Nadat u een veld hebt geselecteerd, klikt u op **Opslaan**.
 
    ![](assets/image2017-10-24-11-3a16-3a42.png)
 
    >[!NOTE]
    >
-   >Als u nog geen veld in Marketo hebt om het Facebook-veld toe te wijzen, leert u hoe u aangepaste velden [kunt](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)maken.
+   >Als u nog geen veld in Marketo hebt om het Facebook-veld toe te wijzen, leert u [aangepaste velden maken](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!CAUTION]
 >
->Dit proces **moet** worden doorlopen voor elk nieuw Facebook-veld, zodat Marketo de gegevens kan verzamelen.
+>U **must** doorloopt dit proces voor om het even welk nieuw gebied van Facebook om Marketo te hebben om de gegevens te verzamelen.
 
