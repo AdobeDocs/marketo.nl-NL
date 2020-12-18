@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Export Opportunity Influence Analyzer Data {#export-opportunity-influence-analyzer-data}
 
-Als u updates wilt ontvangen van uw [inkomstencyclusrapporten in de Verkenner](http://docs.marketo.com/display/docs/revenue+cycle+analytics) en deze wilt delen, kunt u elk e-mailadres op een bestaand rapport abonneren.
+Om updates van uw [Rapporten van de Cyclus van de Inkomsten te ontvangen ](http://docs.marketo.com/display/docs/revenue+cycle+analytics), en hen te delen, kunt u om het even welk e-mailadres aan een bestaand rapport intekenen.
 
-1. Ga naar **Analytics** en selecteer **New** **>** **New** **Report** **** Subscription.
+1. Ga naar **Analytics** en selecteer **New** **** **New** **Report** **Subscription**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Als u zich wilt abonneren op een basisrapport dat u in een programma hebt gemaakt, raadpleegt u [Abonneren op een basisrapport](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) .
+   >Om aan een basisrapport in te tekenen dat u in een programma creeerde, zie [Abonneren aan een Basis Rapport](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. Voor de Bron van het Rapport, uitgezochte Ontdekkingsreiziger van **Inkomsten.**
+1. Voor de Bron van het Rapport, uitgezochte **Ontdekkingsreiziger van de Ontvangsten.**
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,11 +45,11 @@ Als u updates wilt ontvangen van uw [inkomstencyclusrapporten in de Verkenner](h
 
 >[!MORELIKETHIS]
 >
->Leer hoe u al uw rapportabonnementen [op één plaats kunt](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) beheren.
+>Leer hoe te om [al uw rapportabonnementen ](../../../../product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats te beheren.
 
 >[!NOTE]
 >
 >**Diep duiken**
 >
->Bekijk meer van de dingen u met Marketo&#39;s geavanceerde analyses in de diepe duik van de [Ontdekkingsreiziger](http://docs.marketo.com/display/docs/revenue+cycle+analytics) van de Ontvangsten kunt doen.
+>Bekijk meer van de dingen u met Marketo&#39;s geavanceerde analyses in [de diepe duik van de Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) kunt doen.
 
