@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Hoe te om Contacten van Salesforce in te voeren {#how-to-import-contacts-from-salesforce}
+# Hoe te om Contacten van Salesforce {#how-to-import-contacts-from-salesforce} in te voeren
 
 Met onze knop &quot;Push to Sales Connect&quot; maakt u een lijst van uw leads/contactpersonen in Salesforce en plaatst u deze in een groep in Sales Connect. Vervolgens kunt u snel een aanpasbare groep e-mailen met de functie voor bijhouden van Sales Connect.
 
 1. In een lijst van Leads in Salesforce, selecteer de mensen u in de Groot van de Verkoop wilt duwen.
-1. Selecteer **Push to MSC**.
+1. Selecteer **Naar MSC** duwen.
 1. Er wordt een nieuw venster weergegeven waarin u de gewenste Leads kunt controleren.
-1. Selecteer **Ga door naar groep**. Sales Connect voegt deze groep met de naam &#39;SFDC-......*&#39;* naar de pagina Personen in de [webtoepassing](http://toutapp.com/).
-1. Selecteer Gehele groep **e-** mailen om deze groep contactpersonen een groep e-mailberichten te sturen.
+1. Selecteer **Ga aan Groep** te werk. Sales Connect voegt deze groep met de naam &#39;SFDC-......*&#39;* naar de pagina Personen in de  [webtoepassing](http://toutapp.com/).
+1. Selecteer **Gehele groep e-mailen** om deze groep contactpersonen een groep-e-mail te sturen.
 
