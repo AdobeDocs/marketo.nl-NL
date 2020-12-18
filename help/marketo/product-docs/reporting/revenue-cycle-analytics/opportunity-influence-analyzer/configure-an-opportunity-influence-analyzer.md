@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Een Opportunity Influence Analyzer configureren {#configure-an-opportunity-influence-analyzer}
+# Analysator van opportuniteit configureren {#configure-an-opportunity-influence-analyzer}
 
-Zodra u een Analysator [van de Invloed van de Mogelijkheid](create-an-opportunity-influence-analyzer.md)creeert, kunt u de types van [interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) vormen die inbegrepen zijn.
+Zodra u [een Analysator van de Invloed van de Mogelijkheid ](create-an-opportunity-influence-analyzer.md) creeert, kunt u de types van [interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) vormen die inbegrepen zijn.
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ Zodra u een Analysator [van de Invloed van de Mogelijkheid](create-an-opportunit
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   Als het analyseprogramma te veel interessante momenten bevat, kunt u deze reduceren door de selectie van personen in het deelvenster **Instellingen** op te heffen of door het aantal interessante momenten te verminderen.
+   Als de analysatorgrafiek te veel interessante momenten bevat, kunt u deze reduceren door de selectie van personen in het deelvenster **Instellingen** op te heffen of door het aantal interessante momenten te verminderen.
 
 1. Om te vormen welke soorten interessante momenten om te omvatten, ga naar het lusje van de Opstelling en sleep in het Interesten filter van Momenten.
 
