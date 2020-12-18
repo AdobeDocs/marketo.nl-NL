@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Een sjabloon voor een bestemmingspagina met instructies maken {#create-a-guided-landing-page-template}
+# Een sjabloon voor een doorvoerpagina met instructies maken {#create-a-guided-landing-page-template}
 
 >[!NOTE]
 >
->**Diep duiken:** Leestijd? [Bekijk deze coole video](https://youtu.be/3O7e4GdZKsM) met stapsgewijze instructies.
+>**Diep duik:** Geleidelijk aan lezen? [Bekijk deze coole ](https://youtu.be/3O7e4GdZKsM) video met stapsgewijze instructies.
 
 Sjablonen voor bestemmingspagina&#39;s met instructies hebben een speciale syntaxis. Gebruik deze syntaxis om op te geven wat aanpasbaar is en waar de inhoud terechtkomt op elke bestemmingspagina die op basis van uw sjabloon is gemaakt. Alleen de gebieden of variabelen die u als bewerkbaar opgeeft, kunnen worden aangepast in de landingspagina-editor &quot;Met instructies&quot;.
 
@@ -34,7 +34,7 @@ Elementen worden gedeclareerd door een normaal DOM-element aan de sjabloon toe t
 
 ## Tekst {#text}
 
-Als u een gebied definieert als RTF-tekst, kunnen gebruikers de inhoud van het gebied bewerken [met de Rich Text Editor](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)van Marketo.
+Als u een gebied als RTF bepaalt, zullen de gebruikers zijn inhoud [kunnen uitgeven gebruikend de Rich Text Editor van de Tekst van de Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
 Vereiste kenmerken:\
 **klasse**: &quot;mktoText&quot;\
@@ -50,7 +50,7 @@ Voorbeeld:
 
 ### Afbeelding {#image}
 
-U hebt twee opties om bewerkbare afbeeldingselementen te definiëren. U kunt een `<div>`, die een container opgeeft waarin de afbeelding wordt ingevoegd, of een `<img>` tag gebruiken.
+U hebt twee opties om bewerkbare afbeeldingselementen te definiëren. U kunt een `<div>` gebruiken, waarmee een container wordt opgegeven waarin de afbeelding wordt ingevoegd, of een `<img>`-tag.
 
 ## Optie 1 - Een <div> {#option-use-a-div}
 
@@ -67,7 +67,7 @@ Voorbeeld:
 
 `<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image"></div></pre>`
 
-## Optie 2 - Een `<img>` {#option-use-a-img}
+## Optie 2 - een `<img>` {#option-use-a-img} gebruiken
 
 Vereiste kenmerken:\
 klasse: &quot;mktoImg&quot;\
@@ -83,7 +83,7 @@ Voorbeeld:
 
 >[!NOTE]
 >
->Als u de `<img>` versie gebruikt, bevat de weergegeven HTML een gegenereerde div-wrapper rond de `<img>` tag. Deze wordt ingesteld op class.&quot;mktoImg.mktoGen&quot; en wordt weergegeven:inline-block.
+>Als u de `<img>`-versie gebruikt, bevat de weergegeven HTML een gegenereerde div-wrapper rondom de `<img>`-tag. Deze wordt ingesteld op class.&quot;mktoImg.mktoGen&quot; en wordt weergegeven:inline-block.
 
 ## Formulier {#form}
 
@@ -123,7 +123,8 @@ Voorbeeld:
 >Marketo ondersteunt alleen video&#39;s van YouTube wanneer het video-element op een openingspagina wordt gebruikt. Als u een andere service gebruikt, is het raadzaam een RTF-vak te gebruiken en in de insluitcode van de video te plakken.
 
 Vereiste kenmerken:
-**klasse**: &quot;mktoVideo&quot;**id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
+**klasse**: &quot;mktoVideo&quot;
+**id**: ID-tekenreeks. Bevat alleen letters, cijfers, streepje &quot;-&quot; en onderstrepingsteken &quot;_&quot;. Geen spaties toegestaan. Moet uniek zijn.
 **mktoName** : Tekenreeks. Dit is de vertoningsnaam die in de het landen paginaredacteur zal worden getoond. U kunt het beste een beschrijvende naam gebruiken.
 
 Voorbeeld:
@@ -152,7 +153,7 @@ Voorbeeld:
 
 `<pre data-theme="Confluence"><div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div></pre>`
 
-## Krenkte {#sweepstakes}
+## Krullen {#sweepstakes}
 
 Vereiste kenmerken:\
 **klasse**: &quot;mktoSweepstakes&quot;\
@@ -173,9 +174,9 @@ Voorbeeld:
 
 **Verklaring:**
 
-Variabelen worden gedeclareerd als metatags binnen het `<head>` element van de sjabloon. Er zijn drie typen variabelen beschikbaar voor gebruik: Tekenreeks, Kleur en Boolean.
+Variabelen worden gedeclareerd als metatags binnen het element `<head>` van de sjabloon. Er zijn drie typen variabelen beschikbaar voor gebruik: Tekenreeks, Kleur en Boolean.
 
-## String {#string}
+## Tekenreeks {#string}
 
 Vereiste kenmerken:\
 **klasse** : &quot;mktoString&quot;,\
@@ -212,7 +213,7 @@ Voorbeeld met alle kenmerken:
 
 `<pre data-theme="Confluence"><meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699"></pre>`
 
-## Boolean {#boolean}
+## Booleaans {#boolean}
 
 Vereiste kenmerken:\
 **klasse** : &quot;mktoBoolean&quot;,\
