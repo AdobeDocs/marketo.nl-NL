@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sociale prestaties weergeven {#view-social-performance}
 
-Bekijk de sociale activiteiten die worden gegenereerd door uw sociale apps. Het sociale dashboard geeft u inzicht in de verschillende sociale interacties die worden gegenereerd door uw sociale apps, en stelt u in staat de prestaties van een [sociale app](http://docs.marketo.com/display/docs/social)te volgen.
+Bekijk de sociale activiteiten die worden gegenereerd door uw sociale apps. Het sociale dashboard geeft u inzicht in de verschillende sociale interacties die door uw sociale apps worden geproduceerd, en staat u toe om de prestaties van een [sociale app](http://docs.marketo.com/display/docs/social) te volgen.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Bekijk de sociale activiteiten die worden gegenereerd door uw sociale apps. Het 
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ Bekijk de sociale activiteiten die worden gegenereerd door uw sociale apps. Het 
 
    ![](assets/image2014-9-23-17-3a10-3a13.png)
 
-1. Klik op **Datum** **van** **activiteit.**
+1. Klik **Datum** **van** **Activiteit.**
 
    ![](assets/image2014-9-23-17-3a10-3a22.png)
 
@@ -39,16 +39,16 @@ Bekijk de sociale activiteiten die worden gegenereerd door uw sociale apps. Het 
 
    >[!NOTE]
    >
-   >Als u **Laatste 24 uur** selecteert, worden meetgegevens per uur berekend, boven aan het uur. Voor alle andere intervallen, worden de metriek in werking gesteld dagelijks, om middernacht van de vorige dag.
+   >Als u **Laatste 24 uren** selecteert, worden de metriek berekend per uur, bij de bovenkant van het uur. Voor alle andere intervallen, worden de metriek in werking gesteld dagelijks, om middernacht van de vorige dag.
 
-1. Gebruik het **Sociaal** **Kanaal** om de sociale vooruitgang en effectiviteit van je promotie te beoordelen.
+1. Gebruik **Sociaal** **Trechter** om de sociale vooruitgang en doeltreffendheid van uw bevordering te herzien.
 
-   * **Campagne** **bezoeken**: Het aantal keren dat de vooruitzichten een pagina laden die uw sociale app bevat.
+   * **** **CampagneVisits**: Het aantal keren dat de vooruitzichten een pagina laden die uw sociale app bevat.
 
-   * **Interacties**: Het aantal keren dat de vooruitzichten hebben samengewerkt met uw sociale app, zoals het aanmelden voor een [verwijzingsaanbod](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), het stemmen in een [opiniepeiling](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), het [delen van een video](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), enz.
+   * **Interacties**: Het aantal keren dat de vooruitzichten hebben samengewerkt met uw sociale app, zoals het aanmelden voor een  [verwijzingsaanbod](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), het stemmen in een  [opiniepeiling](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), het  [delen van een video](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), enz.
 
    * **Aandelen**: Het aantal keren dat de vooruitzichten een bericht aan hun sociaal netwerk van uw sociale app delen.
-   * **Resulterende** **klikken**: Het aantal keren dat er op koppelingen in aandelen is geklikt vanuit uw sociale app.
+   * **** **ResulterendeKliks**: Het aantal keren dat er op koppelingen in aandelen is geklikt vanuit uw sociale app.
 
    * **Registratie**: Het aantal mogelijke gebruikers dat zich aanmeldt voor uw speciale actie na het volgen van een gedeelde koppeling naar uw app.
    >[!NOTE]
@@ -57,24 +57,24 @@ Bekijk de sociale activiteiten die worden gegenereerd door uw sociale apps. Het 
 
    ![](assets/image2014-9-23-17-3a11-3a16.png)
 
-1. Gebruik het deelvenster **Publiek** om te bekijken hoe uw vooruitzichten u helpen het woord uit te krijgen.
+1. Gebruik het **deelvenster Publiek** om te bekijken hoe uw vooruitzichten u helpen het woord uit krijgen.
 
-   * **Totaal** **profielen**: Het totale aantal toekomstverwachtingen dat vanuit uw sociale app is aangemeld bij sociale netwerken.
+   * **** **TotalProfiles**: Het totale aantal toekomstverwachtingen dat vanuit uw sociale app is aangemeld bij sociale netwerken.
 
    * **Influencers**: Het aantal perspectieven dat ten minste één klik heeft opgeleverd na het delen van een app.
-   * **Sociale** **resultaten**: De som van alle perspectiefverbindingen. Voor vooruitzichten die aan sociale netwerken delen, is dit het aantal vrienden die zij op het tijdstip hebben gehad zij van uw sociale app deelden. Voor het delen van e-mail is dit het aantal ontvangers van de e-mail die zij genereren via uw app.
+   * **** **SocialReach**: De som van alle perspectiefverbindingen. Voor vooruitzichten die aan sociale netwerken delen, is dit het aantal vrienden die zij op het tijdstip hebben gehad zij van uw sociale app deelden. Voor het delen van e-mail is dit het aantal ontvangers van de e-mail die zij genereren via uw app.
 
-   * **Sociale** **impressies**: Het totale aantal keren dat uw sociale app in de feeds van perspectiefverbindingen verscheen.
+   * **** **SocialeImpressies**: Het totale aantal keren dat uw sociale app in de feeds van perspectiefverbindingen verscheen.
 
    ![](assets/image2014-9-23-17-3a11-3a26.png)
 
-1. Met het deelvenster **Metriek** delen **** kunt u de geaggregeerde sociale activiteit bekijken die door uw sociale app is gegenereerd.
+1. Met het **Share** **Metrics** kunt u de geaggregeerde sociale activiteit controleren die door uw sociale app wordt gegenereerd.
 
-   * **Share** **Rate**: Het percentage bezoeken aan uw app dat een gedeelde site genereert.
+   * **** **ShareRate**: Het percentage bezoeken aan uw app dat een gedeelde site genereert.
 
-   * **Clickback** - **snelheid**: Het aantal resulterende klikken per aandeel.
+   * **** **ClickbackRate**: Het aantal resulterende klikken per aandeel.
 
-   * **Sociaal** **optillen**: De verhouding tussen bezoeken aan uw app (afkomstig van de koppeling in aandelen) en het aantal niet-sociale bezoeken (afkomstig van andere bronnen dan uw sociale app).
+   * **** **SocialLift**: De verhouding tussen bezoeken aan uw app (afkomstig van de koppeling in aandelen) en het aantal niet-sociale bezoeken (afkomstig van andere bronnen dan uw sociale app).
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 
