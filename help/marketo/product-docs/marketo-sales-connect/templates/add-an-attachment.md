@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een bijlage toevoegen {#add-an-attachment}
+# Een bijlage {#add-an-attachment} toevoegen
 
 >[!NOTE]
 >
@@ -19,13 +19,13 @@ ht-degree: 0%
 >
 >Bijlagen toevoegen is beschikbaar als u Marketo Sales Connect gebruikt. Deze optie is niet beschikbaar in de standaard-e-maileditor van Marketo.
 
-Als u bijlagen aan uw sjabloon wilt toevoegen, opent u de sjablooneditor en klikt u op Bestanden **** koppelen boven de teksteditor. Dan eenvoudig vind en upload de gehechtheid van uw computer.
+Als u bijlagen wilt toevoegen aan uw sjabloon, opent u de sjablooneditor en klikt u op **Bestanden koppelen** boven de teksteditor. Dan eenvoudig vind en upload de gehechtheid van uw computer.
 
-Als u wilt dat de bijlagen worden [bijgehouden wanneer ze worden geopend](http://docs.marketo.com/display/TEST/How+to+Track+Your+Email+Attachments), klikt u op **Inhoud** **toevoegen** en selecteert u een .doc-, PDF- of .ppt-bestand.
+Als u wilt dat de bijlagen worden [bijgehouden wanneer ze worden geopend](http://docs.marketo.com/display/TEST/How+to+Track+Your+Email+Attachments), klikt u op **Toevoegen** **Inhoud** en selecteert u een .doc-, PDF- of .ppt-bestand.
 
-Nadat deze bestanden naar een sjabloon zijn geüpload, worden ze opgeslagen in uw Sales Connect-inhoud. U kunt deze snel vanuit uw webbrowser of vanuit de [webtoepassing](http://toutapp.com/login) toevoegen aan e-mailberichten door in de sjablooneditor op Inhoud **** toevoegen te klikken.
+Nadat deze bestanden naar een sjabloon zijn geüpload, worden ze opgeslagen in uw Sales Connect-inhoud. U kunt deze snel toevoegen aan e-mailberichten vanuit uw webbrowser of vanuit de [webtoepassing](http://toutapp.com/login) door te klikken op **Inhoud toevoegen** in de sjablooneditor.
 
 >[!NOTE]
 >
->De formaatlimiet voor de knoppen **Inhoud** of Bestanden **** koppelen is 5 MB.
+>De formaatlimiet voor de knoppen **Inhoud** of **Bestanden koppelen** is 5 MB.
 
