@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een e-mailanalyserapport maken waarin programmagegevens worden weergegeven {#build-an-email-analysis-report-that-shows-program-information}
+# Een e-mailanalyserapport maken waarin de programmagegevens {#build-an-email-analysis-report-that-shows-program-information} worden weergegeven
 
 Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegevens worden gegroepeerd op programmakanalen.
 
@@ -21,19 +21,19 @@ Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegeve
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Start **Revenue Explorer**.
+1. Start **Ontdekkingsreiziger van inkomsten**.
 
    ![](assets/image2014-9-17-19-3a42-3a26.png)
 
-1. Klik op **Nieuw rapport**.
+1. Klik op **Nieuw Rapport**.
 
    ![](assets/image2014-9-17-19-3a42-3a32.png)
 
-1. Selecteer** E-mailanalyse** gebied en klik op **OK**.
+1. Selecteer** E-mailanalyse* gebied en klik **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Vind de **Verzonden (Week)** gele stip en klik het met de rechtermuisknop aan. Klik op **Filter**.
+1. De **Verzonden (Week)** gele punt zoeken en er met de rechtermuisknop op klikken. Klik **Filter**.
 
    >[!NOTE]
    >
@@ -41,7 +41,7 @@ Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegeve
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Schakel **Huidige week** verzenden in en klik op **OK**.
+1. Controleer **Huidige Verzonden week** en klik **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
@@ -49,11 +49,11 @@ Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegeve
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Dubbelklik op de gele stip **E-mailnaam** .
+1. Dubbelklik op **E-mailnaam** geel punt.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Dubbelklik op de **stippen Verzonden**, **Geopend** en **Geklikt** blauw.
+1. Zoek en dubbelklik op de **Verzonden**, **Geopende** en **Geklikte** blauwe stippen.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
@@ -66,5 +66,5 @@ Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegeve
    >**Diep duiken**
    >
    >
-   >Wilt u meer weten over [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics)?
+   >Wilt u meer informatie over [Inkoopcyclusverkenner](http://docs.marketo.com/display/docs/revenue+cycle+analytics)?
 
