@@ -11,27 +11,27 @@ ht-degree: 0%
 ---
 
 
-# Opportunity-kolommen toevoegen aan een lead-rapport {#add-opportunity-columns-to-a-lead-report}
+# Voeg de Kolommen van de Kans aan een Rapport {#add-opportunity-columns-to-a-lead-report} van de Leiding toe
 
-Om de statistieken over kansen in uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reporting)te zien, kunt u opportuniteitskolommen toevoegen.
+Om de statistieken over kansen in uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reporting) te zien, kunt u opportuniteitskolommen toevoegen.
 
-1. Ga naar het gebied **Marketingactiviteiten** .
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/ma.png)
 
-1. Selecteer uw rapport van de navigatieboom en klik de **Opstelling** tabel.
+1. Selecteer uw rapport van de navigatieboom en klik **Opstelling** tabel.
 
    ![](assets/two.png)
 
-1. Dubbelklik op Kolommen **Opportunity**.
+1. Dubbelklik **Opportunity Columns**.
 
    ![](assets/three.png)
 
-1. Selecteer **Weergegeven** in het keuzemenu.
+1. Selecteer **Getoonde** van het drop-down menu.
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Klik het lusje van het **Rapport** om uw rapport met opportuniteitsmetriek te zien.
+1. Klik **Rapport** lusje om uw rapport met opportuniteitsmetriek te zien.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ Om de statistieken over kansen in uw [persoonrapporten](http://docs.marketo.com/
    >
    >Schuif naar rechts om meer kolommen weer te geven.
 
-1. Als u kolommen wilt [toevoegen aan of verwijderen uit het rapport](select-report-columns.md), klikt u op een kolomkop en selecteert u **Kolommen**.
+1. Als u [kolommen wilt toevoegen aan of verwijderen uit het rapport](select-report-columns.md), klikt u op een kolomkop en selecteert u **Kolommen**.
 
    ![](assets/six.png)
 
@@ -51,8 +51,8 @@ Om de statistieken over kansen in uw [persoonrapporten](http://docs.marketo.com/
 
    | Kolom | Beschrijving |
    |---|---|
-   | Geen kans | Aantal personen dat *geen* eerste opportuniteitscontact is. |
-   | Dagen niet mogelijk | Gemiddelde leeftijd, in dagen, van mensen die *geen* primair contact zijn. |
+   | Geen kans | Aantal mensen die *niet* een primaire opportuniteitcontact zijn. |
+   | Dagen niet mogelijk | Gemiddelde leeftijd, in dagen, van personen die *geen* als primaire contactpersoon zijn. |
    | Heeft mogelijkheid | Aantal personen dat een primaire opportuniteitcontact is. |
    | Heeft opportunity % | Percentage van de personen die een eerste opportuniteitscontact zijn. |
    | Dagen tot opportuniteit | Gemiddeld aantal dagen voor conversie van persoon naar primaire opportuniteitscontact. |
@@ -71,12 +71,12 @@ Om de statistieken over kansen in uw [persoonrapporten](http://docs.marketo.com/
    >**Verwante artikelen**
    >
    >
-   >Leer hoe u de grootte van uw rapport [kunt](configure-report-size.md)beheren.
+   >Leer hoe te om [de grootte van uw rapport te beheren](configure-report-size.md).
 
    >[!NOTE]
    >
    >**Diep duiken**
    >
    >
-   >Zie wat u anders met rapporten in de [BasisRapporterend](http://docs.marketo.com/display/docs/basic+reporting) diepe duik kunt doen.
+   >Zie wat u anders met rapporten in [Basis het Melden](http://docs.marketo.com/display/docs/basic+reporting) diepe duik kunt doen.
 
