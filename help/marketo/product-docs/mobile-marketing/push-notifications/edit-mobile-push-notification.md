@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Melding van mobiel pushbericht bewerken {#edit-mobile-push-notification}
+# Melding van mobiele pushberichten bewerken {#edit-mobile-push-notification}
 
 1. Ga naar het gebied Marketingactiviteiten.
 
@@ -25,5 +25,5 @@ ht-degree: 0%
 >
 >**Diep duiken**
 >
->Meer informatie over het [configureren van pushmeldingen](configure-mobile-push-notification.md) hier.
+>Meer informatie over [het configureren van pushmeldingen](configure-mobile-push-notification.md) hier vindt u.
 
