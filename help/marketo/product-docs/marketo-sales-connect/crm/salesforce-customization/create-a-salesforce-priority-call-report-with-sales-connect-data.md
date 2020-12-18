@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een Salesforce Priority Call-rapport maken met Connect-gegevens voor verkoop {#create-a-salesforce-priority-call-report-with-sales-connect-data}
+# Creeer een Rapport van de Prioriteit van Salesforce met Verkoop Connect Gegevens {#create-a-salesforce-priority-call-report-with-sales-connect-data}
 
 Leer hoe u een Salesforce-rapport-/oproeplijst maakt met de gegevens over de service voor verkoop Connect-e-mailservice, zodat u zich kunt richten op mensen of kansen met een gedenktijd.
 
