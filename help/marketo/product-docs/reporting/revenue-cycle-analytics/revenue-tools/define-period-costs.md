@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Kosten voor een bepaalde periode {#define-period-costs}
+# Periode-kosten {#define-period-costs} definiëren
 
 >[!NOTE]
 >
@@ -25,21 +25,21 @@ De kosten voor het bijhouden en koppelen van de zorg voor leads en de aanschaf v
 >
 >Bij het begin van een programma worden de geraamde kosten vermeld. Zodra de periode in het Programma voltooit, kunt u de Kosten van de Periode uitgeven en in de daadwerkelijke kosten ingaan. Hiermee krijgt u nauwkeurige rapportresultaten.
 
-## Periode-kosten definiëren {#define-a-period-cost}
+## Periode-kosten {#define-a-period-cost} definiëren
 
-1. Open het tabblad **Setup** van uw programma of gebeurtenis.
+1. Heb toegang tot **Opstelling** tabel van uw Programma of Gebeurtenis.
 
    ![](assets/image2015-4-24-11-3a13-3a27.png)
 
-1. De belemmering en laat vallen de Kosten **van de** Periode aan het canvas en de **Nieuwe de dialoogdoos van Kosten** toont.
+1. Sleep **Periode kosten** naar het canvas en het dialoogvenster **Nieuwe kosten** wordt weergegeven.
 
    ![](assets/image2015-4-24-16-3a31-3a15.png)
 
-1. Ga de Maand **van het** Programma in u met de bepaalde kosten wilt associëren.
+1. Voer de **Programmamaand** in die u aan de gedefinieerde kosten wilt koppelen.
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. Voer een **Periode Kosten** in als een geheel getal zonder decimalen of komma&#39;s (maximale waarde: (99999999)
+1. Voer een **Periode Kosten** als geheel getal zonder decimalen of komma&#39;s (maximale limiet) in: (99999999)
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
@@ -47,13 +47,13 @@ De kosten voor het bijhouden en koppelen van de zorg voor leads en de aanschaf v
    >
    >De valuta (bv. USD, EUR enz.) is een globale instelling die door een Marketo-beheerder wordt beheerd
 
-1. Voer een beschrijvende **notitie** in (optioneel) en klik op **Opslaan**.
+1. Voer een beschrijvende **Notitie** (optioneel) in en klik op **Opslaan**.
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
-## Periode-kosten bewerken {#edit-a-period-cost}
+## Periode-kosten {#edit-a-period-cost} bewerken
 
-1. Klik met de rechtermuisknop op Kosten periode en selecteer **Bewerken **in het pop-upmenu om het dialoogvenster Kosten **** bewerken te openen.
+1. Klik met de rechtermuisknop op de kosten voor de periode en selecteer **Bewerken **in het pop-upmenu om het dialoogvenster **Kosten bewerken** te openen.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -61,13 +61,13 @@ De kosten voor het bijhouden en koppelen van de zorg voor leads en de aanschaf v
 
    ![](assets/image2015-4-24-16-3a27-3a38.png)
 
-## Periode-kosten verwijderen {#delete-a-period-cost}
+## Periode-kosten {#delete-a-period-cost} verwijderen
 
 1. Klik met de rechtermuisknop op de kosten voor de periode die u wilt verwijderen en selecteer **Verwijderen **Verwijderen in het pop-upmenu om de vraag **Kostprijs verwijderen **verwijderen weer te geven.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
-1. Klik op **Verwijderen** om de kosten van de periode definitief te verwijderen of op **Annuleren** om terug te gaan.
+1. Klik **Delete** om de Kosten van de Periode permanent te schrappen, of **Cancel** om terug te gaan.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
 
