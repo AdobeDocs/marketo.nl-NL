@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Schakel Call Recording in {#enable-call-recording}
+# Schakel Call Recording {#enable-call-recording} in
 
 Als beheerder kunt u vraagopname voor uw Verkoop toelaten Connect vraag. Het registreren van de vraag van uw team kan een grote manier zijn om uw verkoopvertegenwoordigers op de beste roepende praktijken te coderen.
 
@@ -19,15 +19,15 @@ Als beheerder kunt u vraagopname voor uw Verkoop toelaten Connect vraag. Het reg
 
    ![](assets/one.png)
 
-1. Klik onder Instellingen Admin op **Algemeen**.
+1. Klik onder Beheerinstellingen op **Algemeen**.
 
    ![](assets/two.png)
 
-1. Schuif omlaag naar Instellingen van telefoon voor verkoop Connect en selecteer de schakeloptie voor het opnemen **van oproepen** inschakelen.
+1. Schuif omlaag naar de instellingen van de Telefoon van Sales Connect en selecteer de schakeloptie **Opname van oproepen inschakelen**.
 
    ![](assets/three.png)
 
-1. Als u uw verkopers de capaciteit wilt geven om vraagopname voor zich in of onbruikbaar te maken, klik** Facultatieve opname voor alle teamleden. **Als u alle vraag wilt automatisch geregistreerd, klik** Verslag alle vraag.**
+1. Als u uw verkopers de capaciteit wilt geven om vraagopname voor zich in of onbruikbaar te maken, klik** Facultatieve opname voor alle teamleden. **Als u alle vraag wilt automatisch geregistreerd,** klikRecord alle vraag.**
 
    ![](assets/four.png)
 
