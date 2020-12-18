@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Kies de URL voor delen voor een sociale app {#choose-the-share-url-for-a-social-app}
+# Kies URL voor delen voor een sociale app {#choose-the-share-url-for-a-social-app}
 
 Wanneer u een sociale app maakt, kunt u kiezen welke URL door de deelnemers wordt gedeeld in de posts.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer de app en klik op Concept **** bewerken.
+1. Selecteer de app en klik op **Concept** bewerken.
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. Ga in de sociale app-editor naar **App Settings** en vervolgens naar **Advanced Options**.
+1. Ga in de sociale app-editor naar **App Settings** en vervolgens **Advanced Options**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
