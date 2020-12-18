@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aangepaste velden synchroniseren met de Indelingsverkenner {#sync-custom-fields-to-the-revenue-explorer}
+# Aangepaste velden synchroniseren met de Ontdekkingsreiziger van inkomsten {#sync-custom-fields-to-the-revenue-explorer}
 
 De Analyse van de Cyclus van opbrengsten kan op de gebieden van de douaneMarketo rapporteren, om dit te doen moet u de douanevelden plaatsen om worden gesynchroniseerd.
 
@@ -19,11 +19,11 @@ De Analyse van de Cyclus van opbrengsten kan op de gebieden van de douaneMarketo
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar de sectie **Beheer** .
+1. Ga naar **Admin** sectie.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Selecteer **Opbrengstcyclusanalyse**.
+1. Selecteer **Analyse van de opbrengstcyclus**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
@@ -31,15 +31,15 @@ De Analyse van de Cyclus van opbrengsten kan op de gebieden van de douaneMarketo
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
-1. Selecteer het veld waarvoor u synchronisatie wilt inschakelen en klik op **Synchronisatieoptie** bewerken.
+1. Selecteer het veld waarvoor u synchronisatie wilt inschakelen en klik op **Synchronisatieoptie bewerken**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Wijzig de **synchronisatiestatus** in **Ingeschakeld**.
+1. Wijzig de **Synchronisatiestatus** in **Ingeschakeld**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Selecteer het **RCA-type** van uw keuze en klik op **Opslaan**.
+1. Selecteer **RCA Type** van uw keus, dan klik **sparen**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
