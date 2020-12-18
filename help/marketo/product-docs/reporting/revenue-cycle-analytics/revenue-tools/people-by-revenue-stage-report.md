@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Rapport Personen op omzet {#people-by-revenue-stage-report}
+# Rapport Personen op basis van omzet {#people-by-revenue-stage-report}
 
-U kunt een rapport maken waarin wordt aangegeven in welke fase van het [inkomstencyclusmodel](http://docs.marketo.com/display/docs/revenue+cycle+models) uw personen zich bevinden. Het rapport bevat elke fase van het opgegeven model zolang er een persoonlijke balans is voor het gegeven datumbereik van het rapport.
+U kunt een rapport maken waarin wordt aangegeven in welk stadium van uw [Indelingscyclusmodel](http://docs.marketo.com/display/docs/revenue+cycle+models) uw personen zich bevinden. Het rapport bevat elke fase van het opgegeven model zolang er een persoonlijke balans is voor het gegeven datumbereik van het rapport.
 
 >[!NOTE]
 >
@@ -27,21 +27,21 @@ U kunt een rapport maken waarin wordt aangegeven in welke fase van het [inkomste
 
    **
 
-1. Klik op het rapport voor **Personen op omzettingsgebied**.
+1. Klik op het rapport voor **Personen op inkomstenwerkgebied**.
 
    ** ![](assets/image2017-3-27-15-3a46-3a27.png)
 
    **
 
-1. Klik op het tabblad **Setup** . Dubbelklik op het veld **Person gemaakt op** om het gewenste tijdframe in te stellen.
+1. Klik op het tabblad **Setup**. Dubbelklik op het veld **Persoon gemaakt bij** om het gewenste tijdframe in te stellen waarop u wilt rapporteren.
 
    ![](assets/image2017-3-28-8-3a6-3a23.png)
 
-1. Bewerk het tijdkader en klik op **Opslaan**.
+1. Bewerk het tijdframe en klik op **Opslaan**.
 
    ![](assets/image2015-4-29-12-3a11-3a31.png)
 
-1. Klik op het tabblad **Rapport** . Nu kunt u zien in welke fase van uw inkomstenmodel uw mensen zich bevinden, en zich op om het even welke knelpunten concentreren.
+1. Klik op het tabblad **Rapport**. Nu kunt u zien in welke fase van uw inkomstenmodel uw mensen zich bevinden, en zich op om het even welke knelpunten concentreren.
 
    ![](assets/image2017-3-28-8-3a6-3a48.png)
 
@@ -50,5 +50,5 @@ U kunt een rapport maken waarin wordt aangegeven in welke fase van het [inkomste
    >**Diep duiken**
    >
    >
-   >Leer hoe te om kolommen en meer in [BasisRapportering](http://docs.marketo.com/display/docs/basic+reporting)toe te voegen.
+   >Leer hoe te om kolommen en meer in [Basis toe te voegen Rapportering](http://docs.marketo.com/display/docs/basic+reporting).
 
