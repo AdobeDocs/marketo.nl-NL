@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Een segmentatie verwijderen {#delete-a-segmentation}
+# Een segmentatie {#delete-a-segmentation} verwijderen
 
 Een segmentatie kan worden verwijderd door de onderstaande stappen te volgen.
 
-1. Ga naar de **database**.
+1. Ga naar **Database**.
 
    ![](assets/image2017-3-28-14-3a55-3a26.png)
 
-1. Ga naar de segmentatie en klik op **Gebruikt door** om koppelingen te controleren.
+1. Ga naar uw segmentatie en klik op **Gebruikt door** om verenigingen te controleren.
 
    ![](assets/image2017-3-28-15-3a51-3a8.png)
 
    Als de segmentatie wordt gebruikt door andere elementen, verwijdert u al die koppelingen voordat u verdergaat.
 
-1. Verwijder alle koppelingen en klik vervolgens in **Segmentatiehandelingen** op **Onkeuren**.
+1. Verwijder alle koppelingen en klik vervolgens in **Segmenteringsacties** op **Niet goedkeuren**.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
