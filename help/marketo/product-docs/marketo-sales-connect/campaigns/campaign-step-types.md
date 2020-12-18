@@ -31,9 +31,9 @@ Stel een nieuw e-mailbericht samen of gebruik een bestaande sjabloon.
 
 >[!TIP]
 >
->Meer informatie over de [verzendopties](http://docs.marketo.com/x/7QDb).
+>Leer de details over uw [verzendende opties](http://docs.marketo.com/x/7QDb).
 
-## Bellen {#call}
+## {#call} aanroepen
 
 Plaats een herinnering aan follow-up met een contact via telefoon. U kunt nota&#39;s ook bewaren die als besprekingsspoor tijdens de vraag moeten worden gebruikt.
 
