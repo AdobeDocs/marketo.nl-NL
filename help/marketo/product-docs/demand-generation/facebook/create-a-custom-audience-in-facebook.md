@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Voeg Aangepast publiek voor Facebook toe als een opstartpuntservice](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) in de sectie Admin.
->* [Accepteer de voorwaarden](https://www.facebook.com/ads/manage/customaudiences/tos.php) voor aangepast publiek van Facebook in uw Facebook-account.
+>* [Voeg Aangepast publiek voor Facebook toe als een LaunchPoint-](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) service in de sectie Admin.
+>* [Accepteer de ](https://www.facebook.com/ads/manage/customaudiences/tos.php) voorwaarden voor aangepast publiek van Facebook in uw Facebook-account.
 
 >
 
@@ -24,25 +24,25 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Meer informatie over [aangepast publiek op Facebook](https://www.facebook.com/help/341425252616329).
+>Meer informatie over [aangepaste soorten publiek op Facebook](https://www.facebook.com/help/341425252616329).
 
 1. Zoek en selecteer de slimme of statische lijst met de leads waaruit u het publiek wilt maken.
 
    ![](assets/1.png)
 
-1. Selecteer het tabblad **Leads** en klik vervolgens op het pictogram **Verzenden via Adobe Bridge **onder aan het dialoogvenster.
+1. Selecteer het tabblad **Leads** en klik vervolgens op het pictogram **Verzenden via Adobe Bridge **aan de onderkant.
 
    ![](assets/222.png)
 
-1. Selecteer **Facebook **en klik **daarna**.
+1. Selecteer **Facebook **en klik **Next**.
 
    ![](assets/two.png)
 
-1. Klik op de vervolgkeuzelijst **Publiek** en selecteer **+ Nieuw publiek**.
+1. Klik **Publiek** drop-down en selecteer **+ Nieuwe Publiek**.
 
    ![](assets/four.png)
 
-1. Typ een **Audience Name**. Klik op **Bijwerken**.
+1. Typ een **Audience Name**. Klik **Update**.
 
    ![](assets/five.png)
 
@@ -52,13 +52,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Wilt u een nieuw publiek omwisselen met een bestaand publiek dat momenteel is gekoppeld aan een advertentieset of -groep? Schakel het selectievakje **Een bestaand publiek** vervangen in. Als u dit doet, wordt het vervangen publiek **niet** verwijderd.
+   >Wilt u een nieuw publiek omwisselen met een bestaand publiek dat momenteel is gekoppeld aan een advertentieset of -groep? Schakel het selectievakje **Een bestaand publiek vervangen** in. Als u dit doet, verwijdert u **niet** het publiek dat wordt vervangen.
 
 1. Als dit is voltooid, wordt het statusdialoogvenster bijgewerkt.
 
    ![](assets/six.png)
 
-   En dat is het! Op Facebook ziet u het nieuwe publiek in **AdvertentiManager > Soorten publiek**.
+   En dat is het! Op Facebook ziet u het nieuwe publiek in **Advertentiebeheer > Soorten publiek**.
 
    ![](assets/image2014-12-10-11-3a38-3a32.png)
 
