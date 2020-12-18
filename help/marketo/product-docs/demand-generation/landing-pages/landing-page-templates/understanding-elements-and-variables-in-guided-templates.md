@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Elementen en variabelen in Geleide sjablonen begrijpen {#understanding-elements-and-variables-in-guided-templates}
+# Elementen en variabelen begrijpen in Geleide sjablonen {#understanding-elements-and-variables-in-guided-templates}
 
 Sjablonen voor bestemmingspagina&#39;s met instructies hebben twee typen bewerkbare secties: elementen en variabelen.
 
-## Elementen  {#elements}
+## Elementen {#elements}
 
 Elementen zijn de verschillende stukken inhoud die een openingspagina vormen. Dit kunnen afbeeldingen, tekst of Marketo-elementen zijn.
 
@@ -27,7 +27,7 @@ Wanneer u een geleide het landen pagina uitgeeft, zullen de elementen verschijne
 * ![—](assets/image2015-5-20-12-3a31-3a33.png)Marketo-formulier
 * ![—](assets/image2015-5-20-12-3a41-3a21.png)Tekst
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)Video
-* ![—Knop](assets/image2015-5-20-12-3a44-3a17.png)Marketo Share
+* ![—Knop ](assets/image2015-5-20-12-3a44-3a17.png)Marketo Share
 * ![—](assets/image2015-5-20-12-3a43-3a21.png)Opiniepeiling Marketo
 * ![—](assets/image2015-5-20-12-3a43-3a2.png)Marketo-verwijzing
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo Sweepstakes
@@ -49,11 +49,11 @@ Er zijn drie typen variabelen: tekenreeksvariabelen, kleurvariabelen en Booleaan
   </tr> 
   <tr> 
    <td>Kleur</td> 
-   <td><p>Bewerkbare hexadecimale code voor kleur</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Voorbeeld: Achtergrondkleur, lettertypekleur, randkleur</p></td> 
+   <td><p>Bewerkbare hexadecimale code voor kleur</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Voorbeeld: Achtergrondkleur, lettertypekleur, randkleur</p></td> 
   </tr> 
   <tr> 
    <td>Boolean</td> 
-   <td><p>Een hendel die de statussen voor objecten of indelingen op de landingspagina in- of uitschakelt</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Voorbeelden: Voettekst tonen (Ja/Nee), Aantal kolommen (1/2), Google Analytics insluiten (waar/onwaar)</p></td> 
+   <td><p>Een hendel die de statussen voor objecten of indelingen op de landingspagina in- of uitschakelt</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="—"></p><p>Voorbeelden: Voettekst tonen (Ja/Nee), Aantal kolommen (1/2), Google Analytics insluiten (waar/onwaar)</p></td> 
   </tr> 
  </tbody> 
 </table>
