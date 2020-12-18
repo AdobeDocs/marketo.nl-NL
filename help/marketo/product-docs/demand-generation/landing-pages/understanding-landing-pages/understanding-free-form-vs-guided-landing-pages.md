@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Werken met vrije vorm en portaalpagina&#39;s met instructies {#understanding-free-form-vs-guided-landing-pages}
+# Werken met Free-form versus Guided Landing Pages {#understanding-free-form-vs-guided-landing-pages}
 
-De sjabloon die u kiest, bepaalt in welke bewerkingsmodus voor de openingspagina u gaat werken. Er zijn twee mogelijke paden: [vrije vorm](http://docs.marketo.com/display/docs/free-form+landing+pages) en [geleid](http://docs.marketo.com/display/docs/guided+landing+pages). Hieronder vindt u een korte samenvatting van de belangrijke verschillen.
+De sjabloon die u kiest, bepaalt in welke bewerkingsmodus voor de openingspagina u gaat werken. Er zijn twee mogelijke paden: [free-form](http://docs.marketo.com/display/docs/free-form+landing+pages) en [guided](http://docs.marketo.com/display/docs/guided+landing+pages). Hieronder vindt u een korte samenvatting van de belangrijke verschillen.
 
 ## Vrije-vormpagina&#39;s {#free-form-pages}
 
