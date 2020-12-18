@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een webcampagne archiveren {#archive-a-web-campaign}
 
-1. Ga naar **webcampagnes**.
+1. Ga naar **Webcampagnes**.
 
    ![](assets/one.jpg)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Gearchiveerde webcampagnes worden niet weergegeven in het standaardfilter. Als u deze wilt zien, klikt u op het pictogram Filter en onder **Status**, schakelt u het selectievakje **Gearchiveerd** in en klikt u op **Toepassen**.
+   >Gearchiveerde webcampagnes worden niet weergegeven in het standaardfilter. Als u deze wilt zien, klikt u op het pictogram Filter en onder **Status** selecteert u het selectievakje **Gearchiveerd** en klikt u op **Toepassen**.
 
 >[!MORELIKETHIS]
 >
