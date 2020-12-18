@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# LinkedIn Gen Forms instellen {#set-up-linkedin-lead-gen-forms}
+# LinkedIn Gen Forms {#set-up-linkedin-lead-gen-forms} instellen
 
 Gebruik LinkedIn Gen Forms om advertentiecampagnes in LinkedIn uit te voeren en leads voor Marketo te genereren.
 
@@ -23,11 +23,11 @@ Gebruik LinkedIn Gen Forms om advertentiecampagnes in LinkedIn uit te voeren en 
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Ga naar **LaunchPoint**, klik op **Nieuw** en selecteer **Nieuwe Dienst**.
+1. Ga naar **LaunchPoint**, klik op **New** en selecteer **New Service**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Voer een **weergavenaam** voor uw service in, selecteer de service **LinkedIn lead Gen **in in de vervolgkeuzelijst en klik op **Volgende**.
+1. Voer een **Weergavenaam** voor uw service in, selecteer de service **LinkedIn lead Gen **in in de vervolgkeuzelijst en klik op **Volgende**.
 
    ![](assets/linkedin-lead-gen.png)
 
@@ -39,7 +39,7 @@ Gebruik LinkedIn Gen Forms om advertentiecampagnes in LinkedIn uit te voeren en 
 
    ![](assets/linkedin-login.png)
 
-1. Nadat u in LinkedIn wordt geregistreerd, terugkeer aan Marketo en klik **machtigt**.
+1. Nadat u in LinkedIn wordt geregistreerd, terugkeer aan Marketo en klik **Autoriseren**.
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
@@ -47,15 +47,15 @@ Gebruik LinkedIn Gen Forms om advertentiecampagnes in LinkedIn uit te voeren en 
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. Je ziet dat je nu geautoriseerd bent. Klik op **Volgende**.
+1. Je ziet dat je nu geautoriseerd bent. Klik **Volgende**.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
    >[!CAUTION]
    >
-   >De dienst verloopt automatisch één jaar na vergunning. Klik gewoon op **Opnieuw autoriseren** om de toegang te herstellen. U kunt uw wachtwoord LinkedIn, afhankelijk van uw browser montages moeten opnieuw ingaan.
+   >De dienst verloopt automatisch één jaar na vergunning. Om toegang terug te winnen, eenvoudig **herautoriseer**. U kunt uw wachtwoord LinkedIn, afhankelijk van uw browser montages moeten opnieuw ingaan.
 
-1. Selecteer de account(s) waarvan u LinkedIn lead Gen wilt gebruiken om vanuit Marketo naar Marketo te komen en klik op **Volgende**.
+1. Selecteer de account(s) waarvan u wilt dat LinkedIn lead Gen vanuit Marketo naar Marketo gaat en klik op **Volgende**.
 
    >[!TIP]
    >
@@ -63,17 +63,17 @@ Gebruik LinkedIn Gen Forms om advertentiecampagnes in LinkedIn uit te voeren en 
 
    ![](assets/linkedin-pages-to-capture.png)
 
-1. Om standaard LinkedIn aan het gebiedsafbeeldingen van de Marketo goed te keuren, klik eenvoudig **creëren**. Als u de standaardveldtoewijzing wilt wijzigen, een veldtoewijzing wilt verwijderen of een nieuwe veldtoewijzing wilt toevoegen, kunt u dit per veld doen via de onderstaande modus.
+1. Om gebrek LinkedIn aan het gebiedsafbeeldingen van de Marketo goed te keuren, eenvoudig **creeer**. Als u de standaardveldtoewijzing wilt wijzigen, een veldtoewijzing wilt verwijderen of een nieuwe veldtoewijzing wilt toevoegen, kunt u dit per veld doen via de onderstaande modus.
 
    >[!CAUTION]
    >
-   >Marketo ondersteunt het toewijzen van twee LinkedIn-velden aan één Marketo-veld, **maar alleen wanneer** de twee LinkedIn-velden zich niet op hetzelfde formulier bevinden. Als u twee gebieden van het zelfde LinkedIn formulier aan één enkel gebied van het Marketo in kaart brengt, kunnen de mensen er niet in slagen om uw gegevensbestand van het Marketo in te gaan.
+   >Marketo ondersteunt het toewijzen van twee LinkedIn-velden aan één Marketo-veld, **maar alleen wanneer** de twee LinkedIn-velden zich niet op dezelfde vorm bevinden. Als u twee gebieden van het zelfde LinkedIn formulier aan één enkel gebied van het Marketo in kaart brengt, kunnen de mensen er niet in slagen om uw gegevensbestand van het Marketo in te gaan.
 
    ![](assets/linkedin-lead-gen-mapping.png)
 
    >[!NOTE]
    >
-   >Alleen LinkedIn-velden die al zijn opgeslagen in een [formuliersjabloon](https://www.linkedin.com/help/lms/answer/79634) in LinkedIn Campaign Manager worden weergegeven als LinkedIn-velden die kunnen worden toegewezen aan Marketo-velden.
+   >Alleen LinkedIn-velden die al zijn opgeslagen naar een [formuliersjabloon](https://www.linkedin.com/help/lms/answer/79634) in LinkedIn Campaign Manager worden weergegeven als LinkedIn-velden die kunnen worden toegewezen aan Marketo-velden.
 
    ![](assets/linkedin-installed-services.png)
 
