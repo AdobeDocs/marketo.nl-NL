@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Omlaag boven in een rapport over de prestaties van het volk {#drill-down-in-a-people-performance-report}
+# Omlaag boven in een Rapport van de Prestaties van Mensen {#drill-down-in-a-people-performance-report}
 
 Bor neer in een Rapport van de Prestaties van Mensen om extra persooninformatie te zien.
 
-1. Klik op het tabblad **Rapport** om een bestaand rapport weer te geven.
+1. Klik **Rapport** lusje om het even welk bestaand rapport te bekijken.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Bor neer in een Rapport van de Prestaties van Mensen om extra persooninformatie 
 
    ![](assets/two.png)
 
-1. Klik op **Boorknop**.
+1. Klik op **Drill-Down**.
 
    ![](assets/three.png)
 
-1. Selecteer in het pop-upvenster **Vervolgkeuzelijst** het kenmerk waarnaar u wilt dieper gaan. Klik vervolgens op** Drill-Down**.
+1. Selecteer in het pop-upvenster **Boor-omlaag** het kenmerk waarnaar u wilt dieper gaan. Klik vervolgens op** Drill-Down**.
 
    ![](assets/four.png)
 
