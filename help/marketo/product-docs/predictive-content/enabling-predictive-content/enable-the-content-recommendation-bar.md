@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De balk met aanbevelingen voor inhoud inschakelen {#enable-the-content-recommendation-bar}
+# De balk Aanbevolen inhoud {#enable-the-content-recommendation-bar} inschakelen
 
 De Content Recommendation Engine maakt gebruik van voorspellende analytische algoritmen en computerleeralgoritmen om relevante inhoud aan elke webbezoeker te leveren. De aanbevolen engine voorspelt welke inhoud het beste per bezoeker zou presteren. De inhoud voor de engine wordt gecontroleerd en beheerd onder de Recommendations-pagina, zodat u uw ROI voor inhoud kunt optimaliseren.
 
@@ -23,21 +23,21 @@ De Content Recommendation Engine maakt gebruik van voorspellende analytische alg
 >* [Een titel voor preventieve inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
-## De balk met aanbevelingen voor inhoud inschakelen en aanpassen {#enable-and-customize-the-content-recommendation-bar}
+## De balk Aanbevolen inhoud {#enable-and-customize-the-content-recommendation-bar} inschakelen en aanpassen
 
-1. Ga naar **Inhoud-instellingen**.
+1. Ga naar **Inhoudsinstellingen**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Klik op **Balk**.
+1. Klik **Bar**.
 
    ![](assets/content-settings-bar-hand.png)
 
-1. Om de bar van de Aanbeveling voor een URL toe te laten, klik eenvoudig **aan** en dan **sparen**.
+1. Om de bar van de Aanbeveling voor een URL toe te laten, klik eenvoudig **On** en dan **sparen**.
 
    ![](assets/bar-enable.png)
 
-1. Als u een URL wilt aanpassen, selecteert u kleuren, stijlen, opmaak, pijlen voor de aanbevolen balk en pagina&#39;s die u wilt opnemen in of uitsluiten van de balk. Aanpassen aan de branding van uw website. Klik op **Opslaan**.
+1. Als u een URL wilt aanpassen, selecteert u kleuren, stijlen, opmaak, pijlen voor de aanbevolen balk en pagina&#39;s die u wilt opnemen in of uitsluiten van de balk. Aanpassen aan de branding van uw website. Klik **Opslaan**.
 
    ![](assets/bar-customize-details-hands.png)
 
@@ -53,9 +53,9 @@ De Content Recommendation Engine maakt gebruik van voorspellende analytische alg
    * Dit veld is hoofdlettergevoelig
 
 
-## Overwegingen bij de aanbevolen balk {#recommendation-bar-considerations}
+## Overwegingen {#recommendation-bar-considerations} voor de aanbevolen balk
 
-* De aanbevolen balk kan alleen worden gebruikt als de engine voor aanbevelingen op de Recommendations-pagina is ingesteld op **Aan** ten minste één inhoudselement. Als geen inhoud is ingeschakeld en de balk is ingesteld op **Aan**, wordt het effect Pijl rechts onder op de webpagina weergegeven, maar wordt geen aanbevolen inhoud weergegeven.
+* U hebt minstens één inhoudsstuk voor de aanbevelingsbar nodig die aan **op** op de pagina van Recommendations wordt geplaatst voor de motor van de Aanbeveling om te werken. Als er geen inhoud is ingeschakeld en de balk is ingesteld op **Aan**, wordt het effect Pijl rechts onder op de webpagina weergegeven, maar wordt er geen aanbevolen inhoud weergegeven.
 
 * Hoe meer inhoud in de aanbevolen engine wordt uitgevoerd, hoe beter de algoritme kan testen en leren welke inhoud het beste werkt. We raden u aan om te beginnen met 10 tot 20 actieve inhoudsonderdelen en om nieuwe inhoud toe te voegen.
 * Het inhoudsstuk u voor aanbeveling toelaat zou de markering van Javascript RTP moeten omvatten. Hierdoor kan de algoritme aanbevolen inhoud bijhouden en optimaliseren.
