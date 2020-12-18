@@ -19,19 +19,19 @@ U kunt de invoer van de bezoeker beperken met behulp van een invoermasker. U wil
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Selecteer het veld en zorg ervoor dat het **veldtype** **is ingesteld op** Tekst ****.
+1. Selecteer uw veld en zorg ervoor dat **Field** **Type** is ingesteld op **Text**.
 
    >[!NOTE]
    >
-   >Invoermaskering werkt alleen met **tekstveldtypen**.
+   >Invoermaskering werkt alleen met **Tekstveldtypen**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Klik op de koppeling **Masker** **Invoer** .
+1. Klik op de koppeling **Masker** **Invoer**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
@@ -43,11 +43,11 @@ U kunt de invoer van de bezoeker beperken met behulp van een invoermasker. U wil
    >
    >Let op de maskeringsregels. U kunt invoer beperken tot getallen, letters, beide en/of zelfs het aantal ingevoerde tekens beperken.
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
