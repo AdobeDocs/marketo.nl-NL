@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten {#adding-custom-measures-to-a-revenue-explorer-report}
+# Aangepaste maatregelen toevoegen aan een opbrengstverkenner-rapport {#adding-custom-measures-to-a-revenue-explorer-report}
 
 Soms wilt u een aangepaste maatregel in een rapport. Het is eenvoudig om je eigen te maken.
 
@@ -21,8 +21,8 @@ In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte gre
 >
 >U hebt minstens één metrisch in uw rapport nodig, maar het moet niet één van de maatregelen zijn u gebruikt om uw douanemaatregel te bepalen.
 
-1. Trek over de gebieden u voor uw rapport nodig hebt. Zie Velden [toevoegen aan een rapport](adding-fields-to-a-revenue-explorer-report.md) van de Ontdekkingsreiziger van de Opbrengst voor details.
-1. Klik met de rechtermuisknop op een bestaande metrische waarde (blauwe cel), klik op Door **gebruiker gedefinieerde meetwaarde** en selecteer **Berekende meetwaarde**.
+1. Trek over de gebieden u voor uw rapport nodig hebt. Zie [Velden toevoegen aan een Rapport van de Ontdekkingsreiziger van de Ontvangsten](adding-fields-to-a-revenue-explorer-report.md) voor details.
+1. Klik met de rechtermuisknop op een bestaande metrische waarde (blauwe cel), klik op **Door gebruiker gedefinieerde maatregel** en selecteer **Berekende maatregel**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -38,7 +38,7 @@ In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte gre
    >
    >U kunt de wiskundige symbolen zelf typen of het selectievak gebruiken.
 
-1. Klik op **OK** als u klaar bent.
+1. Als u klaar bent, klikt u op **OK**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 
