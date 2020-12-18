@@ -11,14 +11,14 @@ ht-degree: 0%
 ---
 
 
-# SDK-code naar een ontwikkelaar verzenden {#send-sdk-code-to-a-developer}
+# SDK-code verzenden naar een ontwikkelaar {#send-sdk-code-to-a-developer}
 
 Voordat u berichten of pushmeldingen in de app kunt maken, moet de ontwikkelaar de SDK van de Mobile App voor de Android- en iOS-platforms hebben ingesteld en geïnitialiseerd.
 
 * [Instructies voor Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
 * [Instructies voor iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 
-## SDK-code naar een ontwikkelaar verzenden {#send-sdk-code-to-a-developer-1}
+## SDK-code verzenden naar een ontwikkelaar {#send-sdk-code-to-a-developer-1}
 
 Soms moet een beheerder enige SDK-code naar een ontwikkelaar verzenden.
 
@@ -38,11 +38,11 @@ Zo doe je het.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klik op **Mobile App Actions** en selecteer **Send to Developer**.
+1. Klik **Mobiele App-handelingen** en selecteer **Verzenden naar ontwikkelaar**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. Voer een e-mailadres in en klik op **VERZENDEN**.
+1. Voer een e-mailadres in en klik op **SEND**.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
