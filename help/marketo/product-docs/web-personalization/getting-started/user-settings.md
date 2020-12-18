@@ -33,7 +33,7 @@ Wijzig instellingen zoals tijdzone- of webpersonalisatie-e-mailrapporten.
       * Persoonlijke gegevens toevoegen (voornaam en achternaam, mobiel nummer en tijdzone)
       * Selecteer het aantal rijen dat u wilt exporteren bij het exporteren van tabellen in het platform. Zie veld: &quot;Max. aantal rijen in Excel-export (beperkt tot 10.000)&quot;
       * Selecteer uw mobiele meldingen voor een nieuwe persoon of lijst van te controleren personen voor de mobiele toepassing
-      * Pas de instellingen van Persoonlijk gebied aan door op Gebieden **** bewerken te klikken.
+      * Pas de instellingen van Persoonlijk gebied aan door te klikken op **Gebieden bewerken**.
       * Uw wachtwoord wijzigen
       * Selecteer de meldingsinstellingen voor e-mailrapporten voor organisaties, personen, campagnes en bedrijfsmiddelen
 
@@ -45,13 +45,13 @@ Wijzig instellingen zoals tijdzone- of webpersonalisatie-e-mailrapporten.
 
 ## E-mailrapporten selecteren {#select-email-reports}
 
-Selecteer welk [e-mailrapport](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) u aan uw gebruiker wilt koppelen en welke frequentie (dagelijks, wekelijks of driemaandelijks) het rapport wordt verzonden.
+Selecteer welk [e-mailrapport](../../../product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) aan uw gebruiker, en frequentie (dagelijks, wekelijks of driemaandelijks) associeert wanneer het rapport zal worden verzonden.
 
 ![](assets/three.png)
 
 >[!NOTE]
 >
->Als u op **Opslaan** klikt, wordt het dialoogvenster Gebruikersinstellingen niet verlaten. Als u wilt afsluiten, klikt u op het Marketo-logo linksboven en selecteert u de bestemming.
+>Als u op **Opslaan** klikt, wordt u niet afgesloten bij Gebruikersinstellingen. Als u wilt afsluiten, klikt u op het Marketo-logo linksboven en selecteert u de bestemming.
 
 >[!MORELIKETHIS]
 >
