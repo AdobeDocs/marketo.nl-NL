@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# De URL&#39;s van uw bestemmingspagina aanpassen met een CNAME {#customize-your-landing-page-urls-with-a-cname}
+# Pas Uw het Bestaan Pagina URLs met een CNAME {#customize-your-landing-page-urls-with-a-cname} aan
 
 Hoewel Marketo uw landingspagina&#39;s host, kan de URL volledig worden aangepast. Hoe ziet het eruit zonder een CNAME:
-`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>` De manier waarop het eruit moet zien:
+`<pre data-theme="Confluence">http://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html</pre>` De manier waarop het zou moeten kijken:
 `<pre data-theme="Confluence"> http://go.YourCompany.com/UnsubscribePage.html</pre>`
 
-## Een CNAME kiezen {#choose-a-cname}
+## Kies een CNAME {#choose-a-cname}
 
 Kies een woord om aan het begin van de URL te gaan voor de bestemmingspagina&#39;s. Het is maar één woord en zou relatief kort moeten zijn. Voorbeelden:
 
@@ -25,11 +25,11 @@ Kies een woord om aan het begin van de URL te gaan voor de bestemmingspagina&#39
 * info. [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
 * pagina&#39;s. [YourCompany.com/NameOfPage.html](http://YourCompany.com/NameOfPage.html)
 
-Het ene woord (plus [YourCompany.com](http://YourCompany.com)) wordt een CNAME genoemd. U hebt dit later nodig, dus noteer het.
+Het ene woord (plus [YourCompany.com](http://YourCompany.com)) wordt genoemd een NAAM. U hebt dit later nodig, dus noteer het.
 
-## De tekenreeks van uw account zoeken {#find-your-account-string}
+## Uw accounttekenreeks {#find-your-account-string} zoeken
 
-1. Ga naar het **beheergebied** en klik op Pagina&#39;s **landen.**
+1. Ga naar het **Admin** gebied en klik op **Landingspagina&#39;s.**
 
    ![](assets/image2014-9-18-16-3a2-3a45.png)
 
@@ -37,7 +37,7 @@ Het ene woord (plus [YourCompany.com](http://YourCompany.com)) wordt een CNAME g
    >
    >**Beheerdersmachtigingen vereist**
 
-1. Kopieer onder het tabblad **Landing** **Pages** de **Account** - **tekenreeks** uit de sectie **Instellingen** .
+1. Kopieer onder het tabblad **Landing** **Pagina&#39;s** de **Account** **String** vanuit de sectie **Settings**.
 
    ![](assets/image2014-9-18-16-3a44-3a12.png)
 
@@ -45,13 +45,13 @@ Het ene woord (plus [YourCompany.com](http://YourCompany.com)) wordt een CNAME g
 
 ## Verzoek verzenden naar IT {#send-request-to-it}
 
-Vraag uw personeel van IT om volgende CNAME te installeren: (Vervang het woord [CNAME] en REKENREEKS [] door de tekst uit de vorige stap.)
+Vraag uw personeel van IT om volgende CNAME te installeren: (Vervang het woord [CNAME] en [ACCOUNT STRING] door de tekst uit de vorige stap.)
 
-[CNAME]. [YourCompany.com](http://yourcompany.com/) > [ACCOUNT STRING]. [mktoweb.com](http://mktoweb.com/)
+[CNAME]. [YourCompany.com](http://yourcompany.com/) >  [ACCOUNT STRING]. [mktoweb.com](http://mktoweb.com/)
 
-## CNAME-instelling voltooien {#complete-cname-setup}
+## Volledige CNAME-instelling {#complete-cname-setup}
 
-1. Zodra uw IT CNAME heeft gecreeerd, ga naar **Admin** en klik op het **Landing** **Pagina**.
+1. Zodra uw IT CNAME heeft gecreeerd, ga naar **Admin** en klik op **Landing** **Pagina&#39;s**.
 
    ![](assets/image2014-9-18-17-3a15-3a11.png)
 
@@ -59,7 +59,7 @@ Vraag uw personeel van IT om volgende CNAME te installeren: (Vervang het woord [
 
    ![](assets/image2014-9-18-17-3a15-3a18.png)
 
-1. Ga uw NAAM in **Domein** **naam** **voor** het **Landen** **Pagina****** ******** **** in, ga uw Fallbackpage in, ga uwHomepage in en klikSave.
+1. Voer uw CNAME in **Domain** **name** **for** **Landing** **Pages** in, voer uw **Fallback** **page&lt;a13>, voert uw** Homepage **in en klikt** Save **.**
 
    ![](assets/image2014-9-18-17-3a15-3a25.png)
 
