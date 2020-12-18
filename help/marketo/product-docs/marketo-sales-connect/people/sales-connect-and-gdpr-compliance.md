@@ -41,7 +41,7 @@ De handelaars streven ernaar klantenervaringen tot stand te brengen die persoonl
 Hoe de marketers deze hogere verwachtingen rond de inzameling, het gebruik, en de veiligheid van de persoonlijke gegevens richten die routinematig in de loop van hun werk worden gebruikt is zeer belangrijk, en de Marketo kan helpen met het voldoen aan die verwachtingen.\
 Er zijn twee belangrijke aspecten van de GDPR waar marketers vroegere, huidige en toekomstige praktijken moeten herzien. Het eerste punt is de instemming van het individu om zijn persoonsgegevens te verwerken, en het tweede is de verantwoordingsplicht, namelijk het kunnen aantonen van de naleving van de beginselen van de GDPR.
 
-We verstrekken uitgebreide informatie over toestemming en verantwoordingsplicht binnen het Marketo-platform in ons e-boek, [GDPR en de Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In dit artikel zullen we ons echter specifiek richten op de nieuwe functies in Marketo Sales Connect die uw organisatie zullen helpen zich aan de GDPR-regels te houden.
+Wij verstrekken uitvoerige informatie over toestemming en verantwoordingsplicht binnen het platform van Marketo in ons e-boek, [GDPR en de Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In dit artikel zullen we ons echter specifiek richten op de nieuwe functies in Marketo Sales Connect die uw organisatie zullen helpen zich aan de GDPR-regels te houden.
 
 ## GDPR-compatibiliteit in Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -81,7 +81,7 @@ Ook hier hebben gebruikers een groot aantal keuzemogelijkheden waaruit ze kunnen
 
 De compatibiliteitskaart bewerken
 
-Als de weergave Details persoon is geopend, klikt u op **Bewerken** in de compatibiliteitskaart.
+Wanneer de weergave Details persoon is geopend, klikt u op **Bewerken** in de compatibiliteitskaart.
 
 ![](assets/four.png)
 
@@ -118,7 +118,7 @@ Na het selecteren van het correcte Brontype voor uw geselecteerde contacten, zal
 
 ![](assets/12.png)
 
-## Contactgegevens van Marketo Sales Connect exporteren {#exporting-contact-data-from-marketo-sales-connect}
+## Contactgegevens van Marketo Sales Connect {#exporting-contact-data-from-marketo-sales-connect} exporteren
 
 U hebt de capaciteit om contactinformatie van de Mening van het Detail van de Persoon uit te voeren. Bij het exporteren wordt een CSV-bestand met de volgende kolommen gedownload:
 
@@ -166,23 +166,23 @@ U hebt de capaciteit om contactinformatie van de Mening van het Detail van de Pe
 >
 >Dit kan slechts één contact tegelijkertijd worden gedaan. Er is momenteel geen functionaliteit die bulkexport van contacten toestaat.
 
-Als u contactgegevens wilt exporteren, klikt u op de drie verticale stippen in de koptekst van de Gedetailleerde weergave voor personen en selecteert u **Exporteren**. Het .CSV-bestand wordt automatisch gedownload.   ![](assets/thirteen.png)
+Als u contactgegevens wilt exporteren, klikt u op de drie verticale punten in de koptekst van de Gedetailleerde weergave voor personen en selecteert u **Exporteren**. Het .CSV-bestand wordt automatisch gedownload.   ![](assets/thirteen.png)
 
 >[!NOTE]
 >
 >De GDPR vereist ook de capaciteit om contacten van UI te schrappen, maar Marketo Sales Connect bezit reeds deze functionaliteit.
 
-## Abonnementen opzeggen {#unsubscribes}
+## Abonnement {#unsubscribes} opzeggen
 
 Een algemeen verkeerd begrepen gebied van GDPR omvat contacten die van het gegevensbestand van de organisatie afmelden. Om de nieuwe regels te respecteren met betrekking tot de bescherming van de gegevens van personen die zich afmelden, is de volgende functionaliteit opgenomen in Marketo Sales Connect:
 
-**Koppelingen opzeggen:** Koppelingen voor abonnementen worden automatisch toegevoegd aan alle e-mails die vanuit de webtoepassing Sales Connect worden verzonden om ervoor te zorgen dat contactpersonen een toegankelijke manier krijgen om te weigeren.\
-**Synchronisatie opzeggen:** Gebruikers kunnen hun abonnement op en van hun CRM (Salesforce) synchroniseren om ervoor te zorgen dat de opt-outs up-to-date zijn.\
-**Abonnementsgeschiedenis opzeggen:** Gebruikers kunnen historische opt-outs en opt-ins zien in de weergave Details persoon.\
-**Abonnement verwijderen opzeggen:** Als u een niet-geabonneerd contact weer wilt openen, moet de gebruiker beschikken over beheerdersrechten en aantonen dat het contact nieuwe toestemming heeft gegeven om contact met hen op te nemen.
+**Koppelingen voor abonnementen opzeggen:** Koppelingen voor abonnementen worden automatisch toegevoegd aan alle e-mails die vanuit de webtoepassing Sales Connect worden verzonden om ervoor te zorgen dat contactpersonen een toegankelijke manier krijgen om te weigeren.\
+**Abonnementssynchronisatie opzeggen:** gebruikers kunnen afmeldingsmeldingen synchroniseren met en van hun CRM (Salesforce) om ervoor te zorgen dat opt-outs up-to-date zijn.\
+**Abonnementsgeschiedenis opzeggen:** gebruikers kunnen historische opt-outs en opt-ins zien in de weergave Details persoon.\
+**Unsubscribe Removal:** Om een niet-geabonneerd contact terug te kiezen binnen vereist de gebruiker om admin voorrechten te hebben en aan te tonen dat het contact nieuwe toestemming heeft gegeven om hen te contacteren.
 
 ## Toekomstige updates {#future-updates}
 
 Als een enthousiast pleitbezorger van de macht en de klantgerichtheid van de betrokkenheidseconomie begrijpt Marketo het belang van het in handen brengen van de betrokkene van privacy en gegevensbescherming. Net als bij andere wetten inzake gegevensbescherming vereist GDPR-naleving een verbintenis van zowel Marketo als onze klanten. Dit artikel is bedoeld om u te helpen Marketo op een aangewezen manier gebruiken om de naleving van GDPR van uw organisatie te steunen.
 
-We zullen de toepasselijke GDPR-richtsnoeren van regelgevende instanties en aanverwante wetgeving op de voet blijven volgen. Updates worden gepost naar ons Trust Center op [trust.marketo.com](http://trust.marketo.com).
+We zullen de toepasselijke GDPR-richtsnoeren van regelgevende instanties en aanverwante wetgeving op de voet blijven volgen. De updates zullen aan ons Centrum van het Vertrouwen op [trust.marketo.com](http://trust.marketo.com) worden gepost.
