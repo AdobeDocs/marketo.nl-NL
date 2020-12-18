@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een rapport van de inkomstenverkenner maken {#create-a-revenue-explorer-report}
+# Een opbrengstverkennerrapport maken {#create-a-revenue-explorer-report}
 
 Het rapport van de Ontdekkingsreiziger van de Ontvangsten staat u toe om ROI op uw marketing initiatieven te volgen.
 
@@ -25,7 +25,7 @@ Het rapport van de Ontdekkingsreiziger van de Ontvangsten staat u toe om ROI op 
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Klik op **Nieuw** maken en selecteer **Rapport**.
+1. Klik op **Nieuw** en selecteer **Rapport**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
