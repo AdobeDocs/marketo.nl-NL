@@ -29,21 +29,21 @@ Gebruik een Analysator van de Gevolgen van de Kans om de rol van de marketing in
 
    De analyse van de Invloed van de Kans is een visuele vertegenwoordiging van de interactie en programma en gebeurtenissuccessen betrokken bij die kans. Laten we de grafiek verkennen:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**Oranje stippen** zijn [interessante momenten](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) in de gelegenheid (e-mails geopend, winkelwagentjes, whitepaper-downloads enz.). Grotere stippen geven meer interacties aan.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**Oranje** documenten geven  [interessante ](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) impulsen aan de kans (e-mails geopend, winkelbezoeken, downloads voor whitepaper, enz.). Grotere stippen geven meer interacties aan.
 
-   * ` ![--](assets/image2014-10-3-13-3a44-3a9.png)
+   * ` ![—](assets/image2014-10-3-13-3a44-3a9.png)
 
-      De pictogrammen **van de** Binder wijzen op [programmasuccessen](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM) .
+      ` **Bindingspictogrammen** wijzen op [succesvolle programma](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM).
 
-   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Kalenderpictogrammen** geven aan dat de [gebeurtenis](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) is gelukt.
+   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Kalenderpictogrammen** geven [gebeurtenis](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) als geslaagd aan.
 
    * **Opportuniteitsperiode**. Het groene gebied biedt de mogelijkheid zelf, van het creëren van kansen tot het sluiten van kansen (gewonnen of verloren).
    * **De levenscyclus** van de kans. De grijze gebieden voor en na de groene opportuniteitsperiode laten de interacties zien die tot de kans hebben geleid en deze hebben gevolgd.
 
-   In het deelvenster **Instellingen** worden de personen van het account weergegeven:
+   In het deelvenster **Instellingen** worden de personen van de account weergegeven:
 
    * Het **getal tussen haakjes** is het aantal interacties met die contactpersoon.
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)De **gele ster** geeft het primaire contact aan.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Het  **gele** zetje geeft het primaire contact aan.
 
 
 1. Houd de muisaanwijzer boven een naam om de functie van die persoon en de bron van zijn betrokkenheid bij de kans te zien.
