@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >Dit artikel laat zien hoe u de oude Google Standard Analytics kunt gebruiken, maar we raden u aan over te schakelen op Universal Analytics.
 >
->Als u de trackingcode [](https://developers.google.com/analytics/devguides/collection/analyticsjs/)analytics.js nog niet gebruikt, raadt Google u ten zeerste aan uw site opnieuw te labelen om deze te gebruiken. Google heeft het volgende verouderd:
+>Als u de [analytics.js tracking-code](https://developers.google.com/analytics/devguides/collection/analyticsjs/) nog niet gebruikt, raadt Google u ten zeerste aan uw site opnieuw te labelen om deze te gebruiken. Google heeft het volgende verouderd:
 >
 >* ga.js
 >* urchin.js
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-Zie hoe u [webpersonalisatie kunt integreren met Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+Zie hoe u [Web Personalization kunt integreren met Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 
 ## Inleiding {#introduction}
 
@@ -52,7 +52,7 @@ Focus op uw belangrijkste B2B-vooruitzichten. Kanalen door doelindustrieën en s
 
 Het dashboard van RTP B2B helpt u de uitsplitsing van uw bezoekers volgens verticals en segmentatie begrijpen RTP. Je kunt de prestaties van je bezoeker zien op basis van de financiële sector en volgens verschillende marketingcampagnes (betaald, biologisch, sociaal). Het dashboard verstrekt ook een overzicht op hoog niveau van hoe uw segmenten RTP presteren en oefeningen neer om de hoogste organisaties te tonen die uw plaats bezoeken.
 
-## Gedragstroming {#behavioral-flow}
+## Gedragsstroom {#behavioral-flow}
 
 ![](assets/image2014-11-28-16-3a40-3a43.png)
 
@@ -64,30 +64,30 @@ Meet uw campagnes RTP en correleer hen met uw algemeen plaatsgemiddelde. Leer ho
 
 ![](assets/image2014-11-28-16-3a47-3a0.png)
 
-## Het vestigen RTP met Google Analytics {#setting-up-rtp-with-google-analytics}
+## RTP instellen met Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Voeg het e-mailbericht [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b)als gebruiker voor lezen en analyseren toe aan uw GA-account. Zie [hier](https://support.google.com/analytics/answer/2884495?hl=en)voor meer informatie.
+1. Voeg het e-mailbericht [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) toe als een gebruiker voor lezen en analyseren aan uw GA-account. Zie [hier](https://support.google.com/analytics/answer/2884495?hl=en) voor meer informatie.
 1. In uw RTP-account. Ga naar **Accountinstellingen**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Onder **Accountinstellingen**, **Domein** en **Analyse**
+1. Onder **Accountinstellingen**, **Domein** en **Analytics**
 1. Klik op** Google Analytics.**
-1. Schakel de relevante **aangepaste variabelen** en **gebeurtenissen** in om deze gegevens van RTP aan Google Analytics toe te voegen.
-1. Voer het **Slot** -nummer in om aangepaste variabele gegevens te verzenden (de standaardwaarde is 1,2).
+1. Schakel de relevante **Aangepaste variabelen** en **Gebeurtenissen** in om deze gegevens van RTP aan Google Analytics toe te voegen.
+1. Voer het getal **Slot** in om aangepaste variabele gegevens te verzenden (de standaardwaarde is 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-Klik op **OPSLAAN**.
+Klik **OPSLAAN**.
 
 >[!NOTE]
 >
->Om segmentgegevens naar GA te verzenden, onder de pagina [Segment](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) bewerken in het RTP-platform, schakelt u het selectievakje Gebeurtenis **verzenden naar Google Analytics op segmentovereenkomst** in.
+>Als u segmentgegevens naar GA wilt verzenden, schakelt u onder [Segmentpagina bewerken](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) in het RTP-platform het selectievakje **Gebeurtenis verzenden naar Google Analytics op segmentovereenkomst** in.
 
 ## De Rapporten van Google Analytics van de vestiging met Gegevens RTP {#setting-up-google-analytics-reports-with-rtp-data}
 
 In Google Analytics kunt u dashboards, de segmentatie van GA, en het melden gebruiken om uw gegevens te bekijken RTP:
 
-* [De dashboards](https://support.google.com/analytics/answer/1068216?hl=en) verstrekken een overzicht van de websiteprestaties.
-* Een GA-segment is bedoeld om bezoekers in de GA-interface te filteren en het verkeer per segment weer te geven. Zie hoe u [hier](https://support.google.com/analytics/answer/3124493?hl=en)een segment bouwt.
-* Aangepaste [rapporten](https://support.google.com/analytics/answer/1033013?hl=en) maken om geplande e-mails weer te geven en/of in te stellen. Zie onder Aanpassing > Nieuw aangepast rapport.
+* [De ](https://support.google.com/analytics/answer/1068216?hl=en) dashboardslijst verstrekt een overzicht van de websiteprestaties.
+* Een GA-segment is bedoeld om bezoekers in de GA-interface te filteren en het verkeer per segment weer te geven. Zie hoe u een segment [hier](https://support.google.com/analytics/answer/3124493?hl=en) bouwt.
+* Het creëren van [aangepaste rapporten](https://support.google.com/analytics/answer/1033013?hl=en) aan mening en/of opstelling geplande e-mails. Zie onder Aanpassing > Nieuw aangepast rapport.
