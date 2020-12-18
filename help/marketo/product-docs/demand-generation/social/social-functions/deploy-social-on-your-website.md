@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sociaal op uw website implementeren {#deploy-social-on-your-website}
+# Sociaal implementeren op uw website {#deploy-social-on-your-website}
 
 Sociale apps insluiten op uw niet-Marketo-pagina&#39;s.
 
@@ -27,7 +27,7 @@ U kunt sociale apps op uw eigen website opstellen om uw publiek te betrekken en 
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Selecteer **Insluiten** **Code****** in Handelingen voor sociale toepassingen.
+1. Selecteer **Insluiten** **Code******* uit handelingen voor sociale toepassingen.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
@@ -43,7 +43,7 @@ U kunt sociale apps op uw eigen website opstellen om uw publiek te betrekken en 
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Als u de grootte van de sociale app wilt instellen op specifieke afmetingen op de pagina, voegt u de opties **outerHeight** en **outerWidth** toe aan het tweede codefragment. U kunt bijvoorbeeld options=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39; toevoegen, zoals in:
+1. Als u de grootte van de sociale app moet instellen op specifieke afmetingen op de pagina, voegt u de opties **outerHeight** en **outerWidth** toe aan het tweede codefragment. U kunt bijvoorbeeld options=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39; toevoegen, zoals in:
 
    ![](assets/socialonsite-resizewidget2.png)
 
