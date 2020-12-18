@@ -27,11 +27,11 @@ Hier is hoe te om een segment tot stand te brengen gebruikend een Lijst van de R
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Klik op **Nieuw** maken.
+1. Klik **Nieuw maken**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Voer een naam in voor het segment. Sleep en zet **de Lijsten** van de Rekening van de Rekening van de **Sectie Firmographics** neer.
+1. Voer een naam in voor het segment. Sleep **Accountlijsten** vanuit de sectie **Firmographics**.
 
    ![](assets/set-segment-hands.jpg)
 
@@ -43,7 +43,7 @@ Hier is hoe te om een segment tot stand te brengen gebruikend een Lijst van de R
    >
    >De Lijsten van de rekening worden gesynchroniseerd van ABM aan de Personalisatie van het Web voor gebruik in Segmentatie. Selecteer ze in de vervolgkeuzelijst. Het synchroniseren kan maximaal vijf minuten duren. Deze wordt alleen gesynchroniseerd als de accountlijst een of meer benoemde accounts bevat.
 
-1. Klik op **Opslaan** of klik op **Campagne** opslaan en definiëren om naar de pagina Campagnes te gaan.\
+1. Klik **Opslaan** of klik **Campagne opslaan en definiëren** om naar de pagina Campagnes te gaan.\
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
 Gefeliciteerd! U hebt nu een segment ingesteld dat zich richt op een accountlijst.
