@@ -15,15 +15,15 @@ ht-degree: 0%
 
 U kunt om het even welk rapport naar een dossier van Excel uitvoeren, om met de gegevens in andere software te werken.
 
-1. Ga naar het gebied **Marketingactiviteiten** .
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Selecteer uw rapport in de navigatiestructuur en klik op het tabblad **Rapport** .
+1. Selecteer uw rapport van de navigatieboom en klik **Report** tabel.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Klik op de knop **Exporteren** .
+1. Klik op de knop **Exporteren**.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
@@ -34,12 +34,12 @@ U kunt om het even welk rapport naar een dossier van Excel uitvoeren, om met de 
    >**Verwante artikelen**
    >
    >
-   >Als het gedownloade bestand te groot is, kunt u de rapportgrootte [](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md) wijzigen.
+   >Als het gedownloade bestand te groot is, kunt u [de rapportgrootte wijzigen](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
 
    >[!NOTE]
    >
    >**Diep duiken**
    >
    >
-   >Zie alle andere nuttige dingen u met rapporten in de [Basis meldt](http://docs.marketo.com/display/docs/basic+reporting) diep duik kunt doen.
+   >Zie alle andere nuttige dingen u met rapporten in [Basis het Melden](http://docs.marketo.com/display/docs/basic+reporting) diep duik kunt doen.
 
