@@ -25,11 +25,11 @@ Uw bezoekers toestaan het formulier in te vullen via hun sociale netwerk. U krij
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Klik onder **Formulierinstellingen** op **Instellingen** op **Instellingen**.
+1. Klik onder **Formulier** **Instellingen** op **Instellingen**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -39,9 +39,9 @@ Uw bezoekers toestaan het formulier in te vullen via hun sociale netwerk. U krij
 
    >[!TIP]
    >
-   >Kijk eens naar de [gegevensmarkeertekens die worden vastgelegd](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) als mensen de sociale knoppen gebruiken.
+   >Bekijk wat [data Marketo zal vangen](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) als mensen de sociale knopen gebruiken.
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
