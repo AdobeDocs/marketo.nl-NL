@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Filteren in prestatie-inzichten {#filtering-in-performance-insights}
+# Filteren in prestatieinzicht {#filtering-in-performance-insights}
 
 U kunt eenvoudig gegevens filteren om specifieke informatie op te vragen.
 
@@ -21,7 +21,7 @@ Klik op + om filters toe te voegen.
 
 >[!NOTE]
 >
->Momenteel zijn de Attributen van de Douane beschikbaar in filters slechts aan klanten die [RCA](http://docs.marketo.com/x/lwIk) hebben toegelaten.
+>Op dit moment zijn Aangepaste kenmerken alleen beschikbaar in filters voor klanten die [RCA](http://docs.marketo.com/x/lwIk) hebben ingeschakeld.
 
 Als u op een categorie klikt, worden meerdere subcategorieën weergegeven.
 
@@ -57,7 +57,7 @@ U kunt een filter op elk gewenst moment verwijderen door op de X naast het filte
   </tr> 
   <tr> 
    <td colspan="1"><strong>Aangepaste kenmerken</strong></td> 
-   <td colspan="1"><p>Deze worden door jou bepaald. Alle gebieden <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">u voor de opportuniteitsanalyse toelaat</a> kunnen op in de Inzichten van Prestaties worden gefiltreerd.</p></td> 
+   <td colspan="1"><p>Deze worden door jou bepaald. Alle gebieden <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">u laat </a> voor de opportuniteitsanalyse toe kan in de Inzichten van Prestaties worden gefiltreerd.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Beleggingsperiode</strong></p></td> 
