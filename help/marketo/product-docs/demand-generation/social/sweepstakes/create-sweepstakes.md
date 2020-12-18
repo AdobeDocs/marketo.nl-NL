@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Overtreklijnen maken {#create-sweepstakes}
+# Transparante aantekeningen maken {#create-sweepstakes}
 
 Een zweten geeft mensen de kans om een prijs te winnen in ruil voor het vertellen van hun vrienden over je. U kunt het op landingspagina&#39;s, uw website, en zelfs Facebook laten vallen.
 
@@ -21,11 +21,11 @@ Een zweten geeft mensen de kans om een prijs te winnen in ruil voor het vertelle
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Kies **Nieuw > Nieuw lokaal element** in uw programma.
+1. Selecteer **Nieuw > Nieuw lokaal element** in uw programma.
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
-1. Klik in de lokale middelengalerie op **Overvloeiingen**.
+1. Klik in de lokale middelengalerie op **Zoekopdrachten**.
 
    ![](assets/image2014-9-25-17-3a29-3a31.png)
 
@@ -35,9 +35,9 @@ Een zweten geeft mensen de kans om een prijs te winnen in ruil voor het vertelle
 
    >[!TIP]
    >
-   >Als u tijd wilt besparen, kunt u de optie **Klonen uit** gebruiken om alle instellingen te kopiëren van een bestaande reeks.
+   >Als u tijd wilt besparen, kunt u de optie **Klonen uit** gebruiken om alle instellingen van een bestaande reeks te kopiëren.
 
-1. Klik op **Overtrekdetails** **Details**.
+1. Klik op **Overbodige details** **Details**.
 
    ![](assets/image2014-9-25-17-3a32-3a37.png)
 
@@ -49,7 +49,7 @@ Een zweten geeft mensen de kans om een prijs te winnen in ruil voor het vertelle
    >
    >Voor dagelijkse en wekelijkse tekeningen worden de begin- en eindtijd vastgesteld op respectievelijk 12.00 uur en 11.59 uur. Voor een eenmalige tekening kunt u uw eigen begin- en eindtijd kiezen.
 
-1. Klik op **Geavanceerde** **opties**.
+1. Klik **Geavanceerd** **Opties**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -61,19 +61,19 @@ Een zweten geeft mensen de kans om een prijs te winnen in ruil voor het vertelle
 
    >[!NOTE]
    >
-   >Op dit scherm kunt u ook een koppeling naar het privacybeleid toevoegen. Zie Uw privacybeleid [toevoegen aan een sociale app](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >Op dit scherm kunt u ook een koppeling naar het privacybeleid toevoegen. Zie [Uw privacybeleid toevoegen aan een sociale app](../../../../product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. Klik op **Goedkeuren** **en op** **Sluiten**.
+1. Klik **Goedkeuren** **en** **Sluiten**.
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
    >[!TIP]
    >
-   >Als u de standaardinstellingen in uw transporten wilt wijzigen, klikt u op **Vorige**. Als u uw werk voor later wilt opslaan zonder het goed te keuren, klikt u op **Sluiten**.
+   >Als u de standaardinstellingen in uw transporten wilt wijzigen, klikt u op **Terug**. Als u uw werk voor later wilt opslaan zonder het goed te keuren, klikt u op **Sluiten**.
 
    Gefeliciteerd! U hebt een truc gemaakt.
 
@@ -81,6 +81,6 @@ Een zweten geeft mensen de kans om een prijs te winnen in ruil voor het vertelle
    >
    >**Verwante artikelen**
    >
-   >De volgende stap bestaat uit het [publiceren van uw transporten](publish-a-sweepstakes.md), maar u kunt de weergave en instellingen van uw transporten wijzigen. Begin met het [aanpassen van uw sweepstakes-stijlen](customize-sweepstakes-styles.md).
+   >De volgende stap is om [uw sweepstakes](publish-a-sweepstakes.md) te publiceren, maar u kunt de verschijning en de montages van uw transporten veranderen. Begin met [het aanpassen van uw trupstakes stijlen](customize-sweepstakes-styles.md).
 
 De sweepstakes-editor wordt in een nieuw venster geopend. De standaardmontages zijn allen goed, maar u moet nog een paar details vormen. In de volgende stappen wordt u uitgelegd hoe u dit doet.                    Als er problemen zijn in de transporten, wordt u gevraagd deze te verhelpen voordat de transpiratieaanvallen zijn goedgekeurd.
