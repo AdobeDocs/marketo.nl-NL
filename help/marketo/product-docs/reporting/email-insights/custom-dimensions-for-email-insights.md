@@ -21,17 +21,17 @@ Alle standaardafmetingen voor markeren zijn inbegrepen, maar u kunt maximaal 10 
 
 >[!CAUTION]
 >
->De aangepaste afmetingen **KUNNEN NIET** worden verwijderd of vervangen, dus kies zorgvuldig uw 10.
+>Aangepaste afmetingen **KAN NIET** worden verwijderd of vervangen, dus kies zorgvuldig uw 10.
 
 1. Klik in Email Insights op het tandwielpictogram rechtsboven op de pagina.
 
    ![](assets/cd1.png)
 
-1. Klik op **Systeem**.
+1. Klik **Systeem**.
 
    ![](assets/cd2.png)
 
-1. Klik op **+** naast Dimensie **toevoegen**.
+1. Klik op **+** naast **Dimensie toevoegen**.
 
    ![](assets/cd3.png)
 
