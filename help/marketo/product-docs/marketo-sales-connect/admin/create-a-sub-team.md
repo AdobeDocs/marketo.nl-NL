@@ -19,11 +19,11 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. Selecteer **Teambeheer** onder Beheer-instellingen.
+1. Selecteer **Teambeheer** onder Beheerinstellingen.
 
    ![](assets/two-1.png)
 
-1. Klik op **+** naast Alle teams.
+1. Naast Alle Teams, klik **+**.
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Personen toevoegen aan uw subteam {#add-people-to-your-sub-team}
 
-1. Nog in het Beheer van het Team, selecteer de **Iedereen** groep.
+1. Nog in het Beheer van het Team, selecteer **Iedereen** groep.
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Klik op Selectie **toevoegen aan teams**.
+1. Klik **Geselecteerde toevoegen aan Teams**.
 
    ![](assets/seven.png)
 
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Klik op **Toevoegen aan teams** als u klaar bent.
+1. Klik **Toevoegen aan teams** wanneer gereed.
 
    ![](assets/nine.png)
 
