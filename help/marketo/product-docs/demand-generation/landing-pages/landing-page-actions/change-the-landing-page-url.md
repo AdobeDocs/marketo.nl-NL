@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# De URL van de bestemmingspagina wijzigen {#change-the-landing-page-url}
+# De URL van de landingspagina wijzigen {#change-the-landing-page-url}
 
 U kunt de URL van een bestemmingspagina wijzigen**.** Hierdoor kan de URL gemakkelijker worden onthouden en kan SEO worden verbeterd.
 
-1. Selecteer de openingspagina. Klik op de vervolgkeuzelijst Handelingen **bestemmingspagina, blader naar** URL-gereedschappen **en selecteer URL-instellingen** **bewerken.**
+1. Selecteer de openingspagina. Klik op **Handelingen voor bestemmingspagina** vervolgkeuzelijst, blader naar **URL-gereedschappen** en selecteer **URL-instellingen bewerken.**
 
    ![](assets/one.png)
 
-1. Voer de **nieuwe URL** in, kies de oude URL die u wilt verwijderen of omleiden en klik op **Opslaan.**
+1. Voer de **Nieuwe URL** in, kies de oude URL verwijderen of omgeleid en klik op **Opslaan.**
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Als u besluit dat u beide URL&#39;s wilt behouden, wordt automatisch een omleidingsregel gemaakt. Meer weten over [URL-omleidingen](http://docs.marketo.com/display/public/DOCS/Redirect+a+URL+Path)?
+   >Als u besluit dat u beide URL&#39;s wilt behouden, wordt automatisch een omleidingsregel gemaakt. Meer informatie over [URL-omleidingen](http://docs.marketo.com/display/public/DOCS/Redirect+a+URL+Path).
 
