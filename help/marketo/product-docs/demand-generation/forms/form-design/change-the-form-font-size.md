@@ -23,23 +23,23 @@ Met Marketo kunt u het uiterlijk van uw formulieren eenvoudig aanpassen. U kunt 
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Selecteer **Instellingen** onder **Formulierinstellingen******.
+1. Onder **Formulier** **Instellingen** selecteert u **Instellingen**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Selecteer de **gewenste** tekengrootte **** .
+1. Selecteer **Font** **Grootte** u wilt.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    >[!NOTE]
    >
