@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De Opportunity Influence Analyzer begrijpen {#understanding-the-opportunity-influence-analyzer}
+# De analyse van opportuniteit beïnvloeden {#understanding-the-opportunity-influence-analyzer}
 
 Elke kans is een verhaal. Waar heb je de leiding ontmoet? Welke afzetmogelijkheden hadden zij tijdens het marketing-/verkoopproces?
 
@@ -27,7 +27,7 @@ Met de Opportunity Influence Analyzer kunt u het hele verhaal zien. Het is zelfs
 
 Gebruik de controles op het recht om mensen toe te voegen/te verwijderen uit de grafiek of op verschillende rekeningen of kansen over te schakelen.
 
-## Unieke accounts identificeren {#identifying-unique-accounts}
+## Unieke accounts {#identifying-unique-accounts} identificeren
 
 Marketo gebruikt de CRM-id om accounts op unieke wijze te identificeren.
 
