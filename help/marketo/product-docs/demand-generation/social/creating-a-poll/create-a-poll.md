@@ -23,13 +23,13 @@ Betaal mensen met een opiniepeiling die ze kunnen inbrengen en deel ze met hun v
 
 >[!PREREQUISITES]
 >
->Als u afbeeldingen in uw opiniepeiling wilt gebruiken, voegt u deze toe aan uw Marketo-bibliotheek met afbeeldingen en bestanden voordat u begint. Voeg een afbeelding van 60 x 60 px toe voor elk opiniepeilingitem. Zie Afbeeldingen en bestanden [toevoegen aan markeerteken](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Als u afbeeldingen in uw opiniepeiling wilt gebruiken, voegt u deze toe aan uw Marketo-bibliotheek met afbeeldingen en bestanden voordat u begint. Voeg een afbeelding van 60 x 60 px toe voor elk opiniepeilingitem. Zie [Afbeeldingen en bestanden toevoegen aan Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Kies **Nieuw** > **Nieuw lokaal element in uw programma.**
+1. Selecteer **Nieuw** > **Nieuw lokaal element.**
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. Klik in de **lokale middelengalerie** op **Opiniepeiling.**
+1. In **Lokale middelengalerie,** klik **Opiniepeiling.**
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -65,7 +65,7 @@ Betaal mensen met een opiniepeiling die ze kunnen inbrengen en deel ze met hun v
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
-1. Klik op **Goedkeuren** en **Sluiten.**
+1. Klik **Goedkeuren** en **Sluiten.**
 
    ![](assets/image2014-9-18-18-3a19-3a57.png)
 
@@ -73,7 +73,7 @@ De opiniepeilingseditor wordt in een nieuw venster geopend. De standaardinstelli
 
 >[!TIP]
 >
->Als u de standaardinstellingen in uw opiniepeiling wilt wijzigen, klikt u op **Vorige**. Als u uw werk voor later wilt opslaan zonder het goed te keuren, klikt u op **Sluiten**.
+>Om om het even welke gebreken in uw opiniepeiling te veranderen, klik **Terug**. Als u uw werk voor later wilt opslaan zonder het goed te keuren, klikt u op **Sluiten**.
 
 Als er problemen zijn in de opiniepeiling, wordt u gevraagd deze te verhelpen voordat de opiniepeiling wordt goedgekeurd. Gefeliciteerd! U hebt uw opiniepeiling gemaakt.
 
@@ -81,5 +81,5 @@ Als er problemen zijn in de opiniepeiling, wordt u gevraagd deze te verhelpen vo
 >
 >**Verwante artikelen**
 >
->De volgende stap bestaat uit het [publiceren van uw opiniepeiling](publish-a-poll.md), maar u kunt desgewenst de instellingen van uw opiniepeiling wijzigen. Begin met het [aanpassen van de opiniepeilingsinstellingen](customize-poll-settings.md).
+>De volgende stap is om uw opiniepeiling [te publiceren, maar u kunt de montages van uw opiniepeiling indien nodig veranderen. ](publish-a-poll.md) Begin met [het aanpassen van de opiniepeilingsmontages](customize-poll-settings.md).
 
