@@ -19,7 +19,7 @@ Met de controle Afmelden bij Marketo wordt de verbinding van uw team met Marketo
 >
 >**Beheerdersmachtigingen vereist**
 
-## Deze inschakelen {#turning-it-on}
+## {#turning-it-on} inschakelen
 
 1. Klik in de webtoepassing op het tandwielpictogram en selecteer **Instellingen**.
 
@@ -29,7 +29,7 @@ Met de controle Afmelden bij Marketo wordt de verbinding van uw team met Marketo
 
    ![](assets/two-3.png)
 
-1. Klik op **Integraties**.
+1. Klik **Integrations**.
 
    ![](assets/three-3.png)
 
@@ -37,7 +37,7 @@ Met de controle Afmelden bij Marketo wordt de verbinding van uw team met Marketo
 
    ![](assets/four-2.png)
 
-## Informatie over {#things-to-know}
+## Te kennen zaken {#things-to-know}
 
 De controle Afmelden bij Marketo...
 
