@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Aanpassing van Salesforce voor klanten van de Professional Edition installeren {#install-salesforce-customization-for-professional-edition-customers}
+# Aanpassing Salesforce voor klanten van de Professional Edition installeren {#install-salesforce-customization-for-professional-edition-customers}
 
 Klanten met Salesforce Professional Edition moeten deze stappen volgen om aanpassingen te installeren.
 
@@ -38,9 +38,9 @@ Klanten met Salesforce Professional Edition moeten deze stappen volgen om aanpas
 
    >[!CAUTION]
    >
-   >Als u verbonden bent, zult u een groene &quot;installeren&quot;knoop zien. **Klik NIET** op deze knop, ga verder met stap 4.
+   >Als u verbonden bent, zult u een groene &quot;installeren&quot;knoop zien. **Klik** NIET op deze knop, ga verder met stap 4.
 
-1. Meld u aan bij de Salesforce-account waarmee u verbinding hebt en klik op [deze koppeling](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Meld u aan bij de Salesforce-account waarmee u bent verbonden en klik op [deze koppeling](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. U wordt naar de pagina voor installatie van Sales Connect verzonden.
 
    ![](assets/install-package.png)
