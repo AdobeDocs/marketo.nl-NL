@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Automatisch afmelden aan een sjabloon toevoegen {#add-auto-unsubscribes-to-a-template}
+# Automatisch afmelden toevoegen aan een sjabloon {#add-auto-unsubscribes-to-a-template}
 
 1. Selecteer de sjabloon en klik op **Bewerken** in de sectie Abonnement opzeggen.
 1. Selecteer of u het automatisch opzeggen wilt toevoegen, automatisch afmelden wilt blokkeren, of allebei.
@@ -20,5 +20,5 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->U kunt ook aanpassen hoe deze afmeldingsberichten worden weergegeven op het tabblad **Tijdzone en Abonnementen** in **Instellingen**.
+>U kunt ook aanpassen hoe deze afmeldingsberichten worden weergegeven op het tabblad **Tijdzone &amp; Unsubscribes** in **Instellingen**.
 
