@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De insteekmodule Marketo Outlook autoriseren {#authorize-the-marketo-outlook-plugin}
+# De insteekmodule Marketo Outlook {#authorize-the-marketo-outlook-plugin} autoriseren
 
 Om de stop van Marketo MSI in Vooruitzichten te gebruiken, moet u het machtigen.
 
@@ -23,7 +23,7 @@ Om de stop van Marketo MSI in Vooruitzichten te gebruiken, moet u het machtigen.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Klik in het dialoogvenster Markeringsinsteekmodule autoriseren op Code **** aanvragen.
+1. Wanneer het dialoogvenster Markeringsinsteekmodule autoriseren wordt weergegeven, klikt u op **Code aanvragen**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
@@ -31,7 +31,7 @@ Om de stop van Marketo MSI in Vooruitzichten te gebruiken, moet u het machtigen.
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. Als het e-mailadres van uw standaard Outlook-account wordt uitgecheckt, ontvangt u een registratiesleutel. Voer deze in het pop-upmenu in en klik op **Verzenden**.
+1. Als het e-mailadres van uw standaard Outlook-account wordt uitgecheckt, ontvangt u een registratiesleutel. Voer het bestand in het pop-upmenu in en klik op **Verzenden**.
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 
