@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Het goedkeuren van Stages en het toewijzen van Leidingen aan een model van de Inkomsten {#approving-stages-and-assigning-leads-to-a-revenue-model}
+# Bezig met goedkeuren van Fases en toewijzen van leads aan een inkomstenmodel {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
-Krijg uw **Model** van de Inkomsten **** in werking door bestaande lood toe te voegen, die toewijzingsregels voor om het even welke nieuwe lood creëren.
+U kunt uw **Inkomsten** **Model** in gebruik nemen door bestaande leads toe te voegen, waardoor toewijzingsregels voor nieuwe leads worden gemaakt.
 
-## Fases goedkeuren {#approving-stages}
+## Fases {#approving-stages} goedkeuren
 
 Wij keuren de stadia van uw model goed alvorens u om het even welke lood toevoegt.
 
-1. Ga naar het **gebied **Analytics.** **
+1. Ga naar het gebied **Analytics **a1/> ****
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -27,33 +27,33 @@ Wij keuren de stadia van uw model goed alvorens u om het even welke lood toevoeg
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
-1. Selecteer onder **Modelhandelingen** de optie **Fases** **goedkeuren**.
+1. Selecteer **Goedkeuren** **Fases** onder **Modelhandelingen**.
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
-1. U zult met een alarm worden begroet; Klik op Leads **toewijzen**.
+1. U zult met een alarm worden begroet; Klik **Leads toewijzen**.
 
    ![](assets/image2015-4-28-17-3a5-3a39.png)
 
 Uitstekend! Laten we verder gaan en die leads toewijzen.
 
-## Bestaande leads toewijzen {#assigning-existing-leads}
+## Bestaande leads {#assigning-existing-leads} toewijzen
 
-[Creeer een Slimme Lijst](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) om de lood voor één stadium van uw model in uw gegevensbestand van de Leiding te identificeren.
+[Creeer een Slimme ](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) Lijst om de lood voor één stadium van uw model in uw gegevensbestand van de Lood te identificeren.
 
-1. Nadat u de slimme lijst [hebt](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)gemaakt, klikt u op het tabblad **Leads** .
+1. Zodra u [uw Slimme Lijst](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) hebt gecreeerd, klik **Leads** tabel.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
-1. Klik op Alles **** selecteren om de leads te selecteren.
+1. Klik **Selecteer allen** om de lood te selecteren.
 
    ![](assets/image2015-4-29-11-3a39-3a39.png)
 
-1. Open de vervolgkeuzelijst **Handelingen** voor lead en selecteer **Speciaal**. Klik op Werkgebied **** inkomsten wijzigen.
+1. Open de vervolgkeuzelijst **Lead Actions** en selecteer **Special**. Klik **Opbrengstwerkgebied wijzigen**.
 
    ![](assets/image2015-4-29-11-3a40-3a38.png)
 
-1. Selecteer het juiste **model** en het juiste **werkgebied**. Klik op **Nu** uitvoeren.
+1. Selecteer het juiste **Model** en het juiste **werkgebied**. Klik **Nu uitvoeren**.
 
    ![](assets/image2015-4-29-11-3a43-3a41.png)
 
@@ -65,9 +65,9 @@ Geweldig! Om te specificeren hoe de nieuwe lood aan stadia worden toegewezen, cr
 >
 >Als uw model in de Goedgekeurde staat van Stages is, zult u geen gebeurtenissen van het Stadium van de Opbrengst van de Verandering in de de activiteitenlogboeken van de lood zien. Als uw model volledig is goedgekeurd, wordt deze stap overgeslagen als u een lood in het zelfde stadium beweegt het momenteel in is.
 
-## Nieuwe leads: Toewijzingsregels maken  {#new-leads-create-assignment-rules}
+## Nieuwe leads: Toewijzingsregels maken {#new-leads-create-assignment-rules}
 
-1. Klik nogmaals op** Marketo Home* en selecteer vervolgens **Analytics**.
+1. Klik nogmaals op** Marketo Home** en selecteer **Analytics**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -83,16 +83,16 @@ Geweldig! Om te specificeren hoe de nieuwe lood aan stadia worden toegewezen, cr
 
 Creeer een regel van de Score van de Lood om de nieuwe lood met een minimumscore aan een aangewezen stap toe te wijzen.
 
-1. Selecteer onder **Indien** de optie **Loodscore**. Kies vervolgens ten **minste**.
+1. Selecteer onder **If** **Loodscore**. Kies vervolgens **ten minste**.
 ` ![](assets/image2015-4-29-13-3a27-3a8.png)
 
    `
 
-1. Voer **40** in het veld in en selecteer **Verkoopmanager** als werkgebied. Klik op **Opslaan** om te voltooien.
+1. Typ **40** in het veld en selecteer **Verkoopregel** als werkgebied. Klik **Opslaan** om te voltooien.
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 
 >[!MORELIKETHIS]
 >
->Om uw model goed te keuren, leest u onze Help-pagina op ** [Een inkomstenmodel](approve-unapprove-a-revenue-model.md)goedkeuren en opheffen**.
+>Om uw model goed te keuren, lees onze hulppagina op ** [Goedkeuring en Unapproval a Model](approve-unapprove-a-revenue-model.md)**.
 
