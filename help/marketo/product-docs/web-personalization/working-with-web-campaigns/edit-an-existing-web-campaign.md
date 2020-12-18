@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # Een bestaande webcampagne bewerken {#edit-an-existing-web-campaign}
 
-1. Ga naar **webcampagnes**.
+1. Ga naar **Webcampagnes**.
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. Voor de **pagina van de Campagnes** van het Web, klik **geef **op de campagne uit u wilt uitgeven.
+1. Voor **de pagina van de Campagnes van het Web**, klik **geef **op de campagne uit u wilt uitgeven.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >Met de [filterfunctie](filter-web-campaigns.md)kunt u gemakkelijker de gewenste webcampagne vinden.
+   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik [filtereigenschap](filter-web-campaigns.md).
 
 >[!MORELIKETHIS]
 >
 >* [Een webcampagne verwijderen](delete-a-web-campaign.md)
->* [Een](launch-pause-a-web-campaign.md) [campagne starten/pauzeren](launch-pause-a-web-campaign.md)
+>* [Campagne starten/](launch-pause-a-web-campaign.md) [pauzeren](launch-pause-a-web-campaign.md)
 
 >
 
