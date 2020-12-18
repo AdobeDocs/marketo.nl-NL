@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De weergave van uw webcampagne instellen {#set-how-your-web-campaign-displays}
+# Stel in hoe uw webcampagne {#set-how-your-web-campaign-displays} wordt weergegeven
 
 Er zijn verschillende methoden om te gebruiken wanneer en hoe uw webcampagne wordt weergegeven.
 
@@ -29,7 +29,7 @@ Geef een vertraging (in seconden) op waarmee webcampagnes op uw website kunnen r
 
    ![](assets/d1.png)
 
-1. Klik op de vervolgkeuzelijst **Wacht** en selecteer de gewenste tijd.
+1. Klik **Wacht** drop-down en selecteer de gewenste hoeveelheid tijd.
 
    ![](assets/d2.png)
 
@@ -39,7 +39,7 @@ Geef een vertraging (in seconden) op waarmee webcampagnes op uw website kunnen r
 
    ![](assets/s1.png)
 
-1. Klik op de vervolgkeuzelijst **Wanneer** en selecteer wanneer u uw webcampagne wilt weergeven.
+1. Klik **When** drop-down en selecteer wanneer u uw Webcampagne wilt tonen.
 
    ![](assets/s2.png)
 
@@ -60,11 +60,11 @@ Geef een vertraging (in seconden) op waarmee webcampagnes op uw website kunnen r
  </tbody> 
 </table>
 
-## Intentie afsluiten {#exit-intent}
+## Intentie {#exit-intent} afsluiten
 
 De intent van de uitgang zal de Webcampagne tonen wanneer de muiscurseuruitgang van browser.
 
-1. Klik op de vervolgkeuzelijst **Weergeven op** en selecteer **Intentie** afsluiten.
+1. Klik op de vervolgkeuzelijst **Weergeven op** en selecteer **Intentie afsluiten**.
 
    ![](assets/ei1.png)
 
@@ -74,5 +74,5 @@ De intent van de uitgang zal de Webcampagne tonen wanneer de muiscurseuruitgang 
 
 >[!TIP]
 >
->Wil je zien hoe je gekozen effecten er op de lange termijn uitzien? Bekijk ze via een [webcampagnevoorbeeld](preview-and-test-a-web-campaign.md).
+>Wil je zien hoe je gekozen effecten er op de lange termijn uitzien? Bekijk ze via een [Voorvertoning van een webcampagne](preview-and-test-a-web-campaign.md).
 
