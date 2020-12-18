@@ -23,15 +23,15 @@ Help uw verkoopteam succes te behalen door te voorkomen dat zij per ongeluk conc
 
    ![](assets/one-3.png)
 
-1. Klik onder Instellingen Admin op **Algemeen.**
+1. Klik onder Beheerinstellingen op **Algemeen.**
 
    ![](assets/two-3.png)
 
-1. Voer het domein in dat u wilt blokkeren en klik op **Blokdomein**.
+1. Ga het domein in u geblokkeerd wilt en **Blokkeer Domein**.
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >E-mailberichten die deel uitmaken van een [groep die per e-mail](http://docs.marketo.com/x/KAQ6Ag) is verzonden en die niet zijn verzonden omdat ze naar een geblokkeerd e-maildomein zijn verzonden, mislukken op de achtergrond en worden niet weergegeven in de mislukte e-mailmap.
+   >E-mailberichten die onderdeel zijn van een [E-mailbericht per groep](http://docs.marketo.com/x/KAQ6Ag) dat niet kan worden verzonden omdat ze naar een geblokkeerd e-maildomein zijn verzonden, mislukken op de achtergrond en worden niet weergegeven in de mislukte e-mailmap.
 
