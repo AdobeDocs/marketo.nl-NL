@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Template 16-B {#template-b}
+# Sjabloon 16-B {#template-b}
 
 [Sjabloon 16-B downloaden](http://docs.marketo.com/download/attachments/9437837/template-16b.html?version=1&amp;modificationdate=1438980690000&amp;api=v2)
 
