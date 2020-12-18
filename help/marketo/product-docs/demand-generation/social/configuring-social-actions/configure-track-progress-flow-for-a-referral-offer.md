@@ -11,29 +11,29 @@ ht-degree: 0%
 ---
 
 
-# Trackvoortgangsstroom configureren voor een verwijzingsaanbod {#configure-track-progress-flow-for-a-referral-offer}
+# Vorm de Stroom van de Voortgang van het Spoor voor een Verwijzing {#configure-track-progress-flow-for-a-referral-offer}
 
-Wanneer u een verwijzingsaanbieding [](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)creeert, kunt u de herinneringen vormen die deelnemers hun vooruitgang in de richting van de beloning tonen.
+Wanneer u [een verwijzingsaanbieding ](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) creeert, kunt u de herinneringen vormen die deelnemers hun vooruitgang in de richting van de beloning tonen.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecteer het verwijzingsvoorstel, en klik **uitgeven Ontwerp**.
+1. Selecteer de verwijzingsaanbieding, en klik **uitgeven Ontwerp**.
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. In de verwijzingsaanbiedingsredacteur, ga de Stroom **van de Voortgang van het** Spoor > **Sociale Netwerken**.
+1. Ga in de verwijzingsaanbiedingsredacteur, naar **Spoor de Stroom van de Voortgang** > **Sociale Netwerken**.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. Bewerk in het venster **Weergave** **&amp;** **Bewerken** de vraag waarmee deelnemers worden gewaarschuwd zich aan te melden bij hetzelfde sociale netwerk als voorheen voor uw aanbieding.
+1. Bewerk in het venster **Weergave** **&amp;** **Bewerken** de vraag die deelnemers eraan herinnert zich aan te melden bij hetzelfde sociale netwerk als waarmee ze zich voor uw aanbieding hebben aangemeld.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
    >[!NOTE]
    >
-   >Als u de tekst die u kunt bewerken wilt markeren, selecteert u Bewerken **** tonen in de rechterbovenhoek.
+   >Als u de tekst die u kunt bewerken wilt markeren, selecteert u **Bewerkingen tonen** in de rechterbovenhoek.
 
 1. Bewerk de vraag die de deelnemer aanmoedigt om de koppeling met meer vrienden te delen.
 
@@ -49,5 +49,5 @@ Wanneer u een verwijzingsaanbieding [](../../../../product-docs/demand-generatio
 
 >[!MORELIKETHIS]
 >
->Klik vervolgens op **Voltooien > Goedkeuren en Sluiten** en [publiceer uw verwijzingsvoorstel](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
+>Klik vervolgens op **Voltooien > Goedkeuren en Sluiten** en [publiceer uw verwijzingsaanbod](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
 
