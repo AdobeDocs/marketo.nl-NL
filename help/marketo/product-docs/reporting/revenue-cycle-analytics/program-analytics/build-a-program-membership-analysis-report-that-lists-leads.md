@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Landen opsomt {#build-a-program-membership-analysis-report-that-lists-leads}
+# Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat {#build-a-program-membership-analysis-report-that-lists-leads} een lijst maakt
 
 Ga als volgt te werk om een rapport van de Analyse van het Lidmaatschap van het Programma tot stand te brengen dat u alle namen van de programmaleden zal tonen.
 
@@ -49,7 +49,7 @@ Zie hoe gemakkelijk dat was?
 
 ![](assets/seven.png)
 
-U kunt snel een lead-kenmerk toevoegen, zoals **Volledige naam** , om te zien wie de leden zijn.
+U kunt snel een loodattribuut zoals **Volledige Naam** toevoegen om te zien wie de leden zijn.
 
 >[!TIP]
 >
