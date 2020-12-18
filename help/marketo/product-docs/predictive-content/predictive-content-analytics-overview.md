@@ -51,7 +51,7 @@ Hiermee geeft u de bovenste inhoudsonderdelen weer op basis van het aantal weerg
 
 ![](assets/new-6.png)
 
-## Top Content by Conversion Rate {#top-content-by-conversion-rate}
+## Bovenste inhoud volgens conversiesnelheid {#top-content-by-conversion-rate}
 
 Hiermee geeft u de bovenste conversie-inhoud weer aan de hand van de conversiesnelheid voor het geselecteerde datumbereik.
 
