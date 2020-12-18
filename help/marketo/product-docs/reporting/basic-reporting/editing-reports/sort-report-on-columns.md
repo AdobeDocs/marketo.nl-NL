@@ -19,7 +19,7 @@ Met kolommen kunt u de gegevens in uw rapport sorteren en de belangrijkste figur
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer uw rapport in de navigatiestructuur en klik op het tabblad **Rapport** .
+1. Selecteer uw rapport van de navigatieboom, en klik **Report** tabel.
 
    ![](assets/reports2.jpg)
 
@@ -45,5 +45,5 @@ Met kolommen kunt u de gegevens in uw rapport sorteren en de belangrijkste figur
    >**Diep duiken**
    >
    >
-   >Leer alle macht om met rapporten in [BasisRapportering](http://docs.marketo.com/display/docs/basic+reporting)te werken.
+   >Leer alle macht om met rapporten in [Basis Rapportering](http://docs.marketo.com/display/docs/basic+reporting) te werken.
 
