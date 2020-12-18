@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Een SMTP-server instellen {#setting-up-an-smtp-server}
+# Een SMTP-server {#setting-up-an-smtp-server} instellen
 
 ## Overzicht {#overview}
 
 **Wat is een server SMTP?**
 
-**** Eenvoudig **** Protocol van de ******** Overdracht van de Post, is dit de server verantwoordelijk voor het verzenden van uw uitgaande post. Wanneer u een e-mailbericht verzendt van uw e-mailclient, gebruikt u dezelfde service om uw e-mailbericht te verzenden.
+**** Eenvoudig  **** Protocol van de  ****  **** Overdracht van de Post, is dit de server verantwoordelijk voor het verzenden van uw uitgaande post. Wanneer u een e-mailbericht verzendt van uw e-mailclient, gebruikt u dezelfde service om uw e-mailbericht te verzenden.
 
 **Waarom wil ik mijn SMTP-server instellen met Sales Connect?**
 
@@ -25,7 +25,7 @@ Het staat u toe om de reputatie van het domein en de leverbaarheid van uw bedrij
 
 **Hoe verzendt Sales Connect met mijn SMTP-server?**
 
-Voer [deze stappen](http://docs.marketo.com/x/ZgPh)uit.
+Door [deze stappen](http://docs.marketo.com/x/ZgPh) te volgen.
 
 ![](assets/1.png)
 
@@ -58,7 +58,7 @@ Als u besluit om Office365 als uw leveringskanaal te gebruiken, zult u deze gelo
 
 Microsoft en bulksgewijs verzenden
 
-[Klik hier](http://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) voor meer informatie over bulkverzending in Office365.
+[Klik ](http://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) hier voor meer informatie over bulkverzending in Office365. 
 `<blockquote>  <p>“Exchange Online customers who need to send legitimate bulk commercial email (for example, customer newsletters) should use third-party providers that specialize in these services.”</p> </blockquote>`\
 **Wat als mijn bedrijf Gmail gebruikt?**
 
@@ -70,7 +70,7 @@ U hoeft geen SMTP-referenties op te halen als uw team Gmail wilt gebruiken als l
 
 Dit hangt van het leveringskanaal af u gebruikt. De diensten zoals Sparkpost staan de geloofsbrieven toe om op domein-gebaseerd te zijn, zodat wordt iedereen die met een specifiek domein verzendt voor authentiek verklaard om door die server te verzenden. Als dit het geval is, dan ja, kunt u de geloofsbrieven met het team delen.
 
-Als u verbinding maakt met Office365, zijn de gegevens gebaseerd op e-mailadressen. Dit betekent dat alleen het e-mailadres waarmee de verbinding tot stand is gebracht, wordt geverifieerd voor het verzenden van e-mails via dat leveringskanaal, zodat de gegevens **niet** mogen worden gedeeld.
+Als u verbinding maakt met Office365, zijn de gegevens gebaseerd op e-mailadressen. Dit betekent dat alleen het e-mailadres waarmee de verbinding tot stand is gebracht, wordt geverifieerd voor het verzenden van e-mails via dat leveringskanaal. De referenties moeten daarom **niet** worden gedeeld.
 
 ![](assets/3.png)
 
