@@ -17,7 +17,7 @@ Verken in Analytics geaggregeerde gegevens voor e-maillevering en betrokkenheid.
 
 ![](assets/emailanalytics-1.jpg)
 
-[Filteren](filtering-in-email-insights.md) is beschikbaar om u te helpen voor specifieke metriek naar beneden bogen.
+[U kunt ](filtering-in-email-insights.md) filteren om bepaalde metrieke gegevens bij u op te zoeken.
 
 ![](assets/filter-field.png)
 
@@ -50,7 +50,7 @@ De grafiek toont uw gefilterde criteria. Als u een van uw filters wilt verbergen
 ` ![](assets/chart2.png)  
 `
 
-Als u een grafiek creeert u wilt opnieuw gebruiken, maak het een [snelle grafiek](email-insights-quick-charts.md).
+Als u een grafiek creeert u zou willen opnieuw gebruiken, maak het een [snelle grafiek](email-insights-quick-charts.md).
 
 ` ![](assets/quick-chart.png)  
 `
