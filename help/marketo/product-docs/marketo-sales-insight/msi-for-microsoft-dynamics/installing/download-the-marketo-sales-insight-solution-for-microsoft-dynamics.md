@@ -19,11 +19,11 @@ ht-degree: 0%
 
 U zult een Oplossing van de Marketo voor de Inzicht van de Verkoop in uw rekening van de Dynamiek van Microsoft moeten downloaden en installeren om de synchronisatie begonnen te krijgen.
 
-1. Ga naar het gebied **Beheer** .
+1. Ga naar **Admin** gebied.
 
    ![](assets/mainnavhand.png)
 
-1. Klik op **CRM**.
+1. Klik **CRM**.
 
    ![](assets/image2015-3-11-13-3a7-3a11.png)
 
@@ -31,7 +31,7 @@ U zult een Oplossing van de Marketo voor de Inzicht van de Verkoop in uw rekenin
 
    ![](assets/image2016-5-3.png)
 
-1. Selecteer Marketo-oplossing **** downloaden.
+1. Selecteer **Marketo-oplossing downloaden**.
 
    ![](assets/image2015-3-11-13-3a10-3a4.png)
 
