@@ -34,17 +34,17 @@ Abonnementen zijn specifiek voor de werkruimte. Deze lijst met abonnementen bevi
 >
 >U bent beperkt tot 100 abonnementen en een maximum van 100.000 mensen per abonnement, over werkruimten, per instantie Marketo. Als de slimme lijst meer dan 100.000 namen bevat, zal Marketo het abonnement voor eerste 100.000 in werking stellen.
 
-## Een abonnement voor een slimme lijst maken {#create-a-smart-list-subscription}
+## Een abonnement op een slimme lijst maken {#create-a-smart-list-subscription}
 
-1. Ga naar het **Gegevensbestand** of de Activiteiten **** van de Marketing.
+1. Ga naar **Database** of **Marketing Activities**.
 
    ![](assets/db.png)
 
-1. Selecteer de slimme lijst waarvoor u een abonnement wilt maken. Klik op Handelingen **** weergeven en selecteer** Nieuw abonnement Slimme lijst**.
+1. Selecteer de slimme lijst waarvoor u een abonnement wilt maken. Klik **Handelingen weergeven** en selecteer** Nieuw abonnement slimme lijst**.
 
    ![](assets/three.png)
 
-1. Geef uw abonnement een **naam** en selecteer of voer de e-mailadressen van de **ontvangers** in.
+1. Geef uw abonnement een **Naam**, dan selecteer of ga de e-mailadressen van **Ontvangers** in.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
@@ -58,15 +58,15 @@ Abonnementen zijn specifiek voor de werkruimte. Deze lijst met abonnementen bevi
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Klik op **Opmaken** en kies een optie in de lijst.
+1. Klik **Formaat** en kies van de lijst.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. Uw nieuwe abonnement op de slimme lijst wordt boven aan de lijst weergegeven op het tabblad Abonnementen. Klik op **Verzenden** als u nu wilt verzenden en niet wilt wachten tot de geplande e-maillevering.
+1. Uw nieuwe abonnement op de slimme lijst wordt boven aan de lijst weergegeven op het tabblad Abonnementen. Klik **Send** als u nu wilt verzenden, en niet tot de geplande e-maillevering wachten.
 
    ![](assets/eight.png)
 
@@ -82,7 +82,7 @@ Ontvangers ontvangen een e-mail met de optie om het rapport te downloaden en een
 
 >[!NOTE]
 >
->Als het [Veilige plaatsen van Admin](secure-the-subscription-admin-setting.md) van het Abonnement aan **ja** wordt geplaatst, slechts zullen de mensen met toegang tot de instantie van het Marketo het rapport kunnen downloaden.
+>Als [Secure Subscription Admin](secure-the-subscription-admin-setting.md) wordt ingesteld op **Yes**, kunnen alleen mensen met toegang tot de instantie Marketo het rapport downloaden.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -96,7 +96,7 @@ Als een rapport 0 personen bevat, ontvangen ontvangers nog steeds een e-mail. In
 
 De e-mail bevat ook aanvullende informatie over de filters die zijn gebruikt om de lijst te maken.
 
-## Een abonnement verwijderen {#delete-a-subscription}
+## Abonnement {#delete-a-subscription} verwijderen
 
 Als u een abonnement wilt verwijderen, selecteert u het op het tabblad Abonnementen en klikt u op Abonnement verwijderen.
 
