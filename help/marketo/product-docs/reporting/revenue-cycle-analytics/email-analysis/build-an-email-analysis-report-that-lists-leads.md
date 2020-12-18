@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een e-mailanalyserapport maken waarin de leads worden vermeld {#build-an-email-analysis-report-that-lists-leads}
+# Een e-mailanalyserapport maken waarin de leads {#build-an-email-analysis-report-that-lists-leads} worden weergegeven
 
 >[!NOTE]
 >
