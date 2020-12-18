@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Optimaliseer de prestaties van uw slimme lijsten met behulp van Segmentfilters.
 
-1. Zoek in de slimme lijst die u hebt gemaakt het woord **Segment** en sleep het filter.
+1. Zoek in de slimme lijst die u hebt gemaakt naar het woord **Segment** en sleep het filter.
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 
