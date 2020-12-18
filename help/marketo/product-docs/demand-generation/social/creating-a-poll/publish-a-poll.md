@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Een opiniepeiling publiceren {#publish-a-poll}
 
-Nadat u een opiniepeiling [hebt](create-a-poll.md)gemaakt, kunt u deze publiceren op uw Marketo-bestemmingspagina&#39;s, op Facebook en op uw website.
+Nadat u een opiniepeiling [hebt gemaakt, kunt u deze publiceren op uw bestemmingspagina&#39;s van Marketo, op Facebook en op uw website.](create-a-poll.md)
 
 1. Navigeer naar de bestemmingspagina en open deze voor bewerking.
 
    ![](assets/image2014-9-19-10-3a45-3a23.png)
 
-1. Sleep over de **opiniepeiling** vanuit het palet aan de rechterkant.
+1. Sleep over **Opiniepeiling** vanuit het palet aan de rechterkant.
 
    ![](assets/image2014-9-19-10-3a45-3a50.png)
 
-1. Selecteer de opiniepeiling en klik op **Invoegen.**
+1. Selecteer uw opiniepeiling en klik **Invoegen.**
 
    ![](assets/image2014-9-19-10-3a45-3a58.png)
 
@@ -33,7 +33,7 @@ Nadat u een opiniepeiling [hebt](create-a-poll.md)gemaakt, kunt u deze publicere
 >
 >U moet uw opiniepeiling goedkeuren om het hier beschikbaar te maken.
 
-Gefeliciteerd! Goedkeuren van de bestemmingspagina en uw opiniepeiling is live. U kunt de openingspagina ook naar Facebook [](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) publiceren of de opiniepeiling [op uw website](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)plaatsen.
+Gefeliciteerd! Goedkeuren van de bestemmingspagina en uw opiniepeiling is live. U kunt de landingspagina ook [publiceren op Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [de opiniepeiling op uw website plaatsen](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
