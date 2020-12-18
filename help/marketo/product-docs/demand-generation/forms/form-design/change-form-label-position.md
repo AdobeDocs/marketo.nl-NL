@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Positie van formulierlabel wijzigen {#change-form-label-position}
 
-Wanneer u een formulier [](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md)maakt, kunt u de positie van de formulierveldlabels heel eenvoudig wijzigen. Zo gaat het.
+Als u [een formulier maakt](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md), kunt u de plaatsing van de formulierveldlabels zeer eenvoudig wijzigen. Zo gaat het.
 
 1. Ga naar **Marketing** **Activiteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
@@ -27,7 +27,7 @@ Wanneer u een formulier [](../../../../product-docs/demand-generation/forms/crea
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Selecteer de **gewenste** positie **van het Label** .
+1. Selecteer **Label** **Positie** u wilt.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -36,11 +36,11 @@ Wanneer u een formulier [](../../../../product-docs/demand-generation/forms/crea
    * Links (standaard)
    * Boven
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    >[!NOTE]
    >
