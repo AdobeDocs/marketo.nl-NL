@@ -20,7 +20,7 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
    1. Als u uw JavaScript-tag al hebt ontvangen van Support, gaat u verder met stap 3.\
       ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. Zoek onder Domein het relevante domein en klik op Tag **** genereren.
+1. Zoek onder Domein het relevante domein en klik op **Tag genereren**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
@@ -43,4 +43,4 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
    >    
    >Voeg ALLEEN het script in.
 
-1. Klik op **Bijwerken**.
+1. Klik **Update**.
