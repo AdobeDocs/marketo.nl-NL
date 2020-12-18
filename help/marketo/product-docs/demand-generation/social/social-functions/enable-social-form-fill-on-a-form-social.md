@@ -21,11 +21,11 @@ Uw bezoekers toestaan het formulier in te vullen via hun sociale netwerk. Je kri
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecteer het formulier en klik op Formulier **** bewerken.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -39,13 +39,13 @@ Uw bezoekers toestaan het formulier in te vullen via hun sociale netwerk. Je kri
 
    >[!TIP]
    >
-   >Kijk eens naar de [gegevensmarkeertekens die worden vastgelegd](manage-social-profile-data.md) als mensen de sociale knoppen gebruiken.
+   >Bekijk wat [data Marketo zal vangen](manage-social-profile-data.md) als mensen de sociale knopen gebruiken.
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
