@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Template 12-A {#template-a}
+# Sjabloon 12-A {#template-a}
 
 [Sjabloon 12-A downloaden](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
 
@@ -29,4 +29,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 Klik hieronder om deze sjabloon te downloaden:
 
-[Template12-A.html](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
+[Template11-A.html](http://docs.marketo.com/download/attachments/9437574/template-12a.html?version=1&amp;modificationdate=1438211507000&amp;api=v2)
