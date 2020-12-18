@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# Admins van de insteekmodule Marketo Sales Insight opgeven {#specify-marketo-sales-insight-plugin-admins}
+# Admins van de insteekmodule Marketo Sales Insight {#specify-marketo-sales-insight-plugin-admins} opgeven
 
 U kunt specificeren welke contacten u in het e-mailbericht wilt verschijnen u aan gebruikers verzendt wanneer u hen aan opstelling MSI in Vooruitzichten uitnodigt.
 
-1. In Mijn Marketo, klik **Admin** en dan **het Inzicht van de Verkoop.**
+1. In Mijn Marketo, klik **Admin** en toen **het Inzicht van de Verkoop.**
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Klik op het tabblad **E-mailinvoegtoepassing** .
+1. Klik op het tabblad **Invoegtoepassing e-mailen**.
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. Klik op Contactpersoon voor insteekmodule **opgeven**.
+1. Klik **Contactpersoon insteekmodule opgeven**.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +31,7 @@ U kunt specificeren welke contacten u in het e-mailbericht wilt verschijnen u aa
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 
