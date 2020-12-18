@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Het overzicht met voorspellende inhoud {#the-predictive-content-summary}
+# De samenvatting van de voorspellende inhoud {#the-predictive-content-summary}
 
 >[!NOTE]
 >
->Afhankelijk van de aankoopdatum kan uw abonnement op Marketo de optie Voorspelende inhoud of Inhoud`<sup>AI</sup>`markeren bevatten. Marketo schakelt de functie Content`<sup>AI</sup>` Analytics voor gebruikers die gebruikmaken van voorspellende inhoud in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager Succes bij Marketo-klanten om te upgraden naar Marketo-inhoud`<sup>AI</sup>`.
+>Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
 In het overzicht met voorspellende inhoud wordt in één oogopslag de informatie weergegeven die u nodig hebt over uw voorspellende inhoud, met tabellen, grafieken en huidige getallen.
 
@@ -37,13 +37,13 @@ Bekijk de conversiesnelheid door de totale kliks en directe leads te vergelijken
 
 ![](assets/predictive-engagement-actual.png)
 
-## Content Trend by Views  {#content-trend-by-views}
+## Content Trend by Views {#content-trend-by-views}
 
 Vergelijk hoe uw meningen van al inhoud met uw vooruitlopende inhoud aanpassen.
 
 ![](assets/4.png)
 
-## Toprubrieken op betrokkenheid {#top-categories-by-engagement}
+## Bovenste categorieën op betrokkenheid {#top-categories-by-engagement}
 
 Welke inhoudscategorieën zijn het meest aantrekkelijk? Zie het in deze grafiek.
 
