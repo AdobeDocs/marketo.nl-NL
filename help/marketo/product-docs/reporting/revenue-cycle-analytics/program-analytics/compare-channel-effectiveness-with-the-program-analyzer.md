@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Kanaaleffectiviteit vergelijken met de programmaanalyse {#compare-channel-effectiveness-with-the-program-analyzer}
+# Kanaaldoeltreffendheid vergelijken met de Analysator {#compare-channel-effectiveness-with-the-program-analyzer} van het Programma
 
 Gebruik Analyzer van het Programma om kanaalkosten, lidverwerving, pijpleiding, opbrengst en meer te vergelijken, om uw meest en minst efficiënte kanalen te identificeren.
 
@@ -24,15 +24,15 @@ Gebruik Analyzer van het Programma om kanaalkosten, lidverwerving, pijpleiding, 
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Selecteer de Analysator van het **Programma.**
+1. Selecteer uw **Programmaanalyse.**
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Wijzig de weergave in **Per** **kanaal**.
+1. Wijzig de weergave in **Door** **Kanaal**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
-1. Gebruik de vervolgkeuzelijst **X-as** om een metrische waarde voor de horizontale as te kiezen. Laten we beginnen met de **programmakosten**.
+1. Gebruik de vervolgkeuzelijst **X-as** om een metrische waarde voor de horizontale as te kiezen. Laten we beginnen met **Programmakosten**.
 
    ![](assets/image2014-9-17-18-3a37-3a7.png)
 
@@ -42,9 +42,9 @@ Gebruik Analyzer van het Programma om kanaalkosten, lidverwerving, pijpleiding, 
 
    >[!NOTE]
    >
-   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is van belang het [verschil tussen FT en MT te begrijpen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [verschil tussen FT en MT attributie](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
 
-1. Gebruik de drop-down van de As **van** Y om (MT) Gecreeerde **** Pijpleiding te kiezen.
+1. Met de vervolgkeuzelijst **Y-as** kunt u **(MT) Pipeline maken** kiezen.
 
    ![](assets/image2014-9-17-18-3a39-3a5.png)
 
@@ -52,7 +52,7 @@ Gebruik Analyzer van het Programma om kanaalkosten, lidverwerving, pijpleiding, 
 
    Laten we nu nog twee dimensies toevoegen!
 
-1. Gebruik de vervolgkeuzelijst **Bubbelgrootte** om een extra maatregel te selecteren, zoals **Nieuwe namen**.
+1. Gebruik de vervolgkeuzelijst **Bubbelgrootte** om een extra maat te selecteren, zoals **Nieuwe namen**.
 
    ![](assets/image2014-9-17-18-3a39-3a36.png)
 
@@ -62,7 +62,7 @@ Gebruik Analyzer van het Programma om kanaalkosten, lidverwerving, pijpleiding, 
 
    We zien dat het Webinar kanaal krimpt, zoals gemeten door **Nieuwe Namen**. We kunnen concluderen dat het, hoewel het veel leden heeft, minder effectief is in het genereren van nieuwe leads dan het Tradeshow-kanaal.
 
-1. Tot slot gebruik drop-down Kleur om de vierde dimensie toe te voegen. Laten we **(FT) Revenue** **Won** selecteren.
+1. Tot slot gebruik drop-down Kleur om de vierde dimensie toe te voegen. Selecteer **(FT) Revenue** **Won**.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -72,7 +72,7 @@ Gebruik Analyzer van het Programma om kanaalkosten, lidverwerving, pijpleiding, 
 
    Uit de kleuren leren we dat het Tradeshow-kanaal, de groenste bubbel, de grootste gewonnen omzet heeft beïnvloed, gemeten door first-touch attributie.
 
-1. Als we nu de norm Kleur veranderen in **(MT) Revenue Won**, zien we dat het online reclamekanaal, nu het groenste, meer inkomsten - over tijd_ beïnvloedde dan de kanalen Webinar en Tradeshow.
+1. Nu, als wij metrisch van de Kleur in **(MT) Won** veranderen, zien wij dat het Online Reclamekanaal, nu het groenste, meer opbrengst - over tijd_ dan de kanalen van Webinar en van de Verkoop beïnvloedde.
 
    ![](assets/image2014-9-17-18-3a41-3a40.png)
 
@@ -95,4 +95,4 @@ In ons voorbeeld zien we dat het Tradeshow-kanaal zowel het duurste (het verst n
 
 >[!NOTE]
 >
->Meer informatie over geavanceerde analyses vindt u in [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Meer informatie over geavanceerde analysemogelijkheden vindt u in [Indelingscyclusverkenner](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
