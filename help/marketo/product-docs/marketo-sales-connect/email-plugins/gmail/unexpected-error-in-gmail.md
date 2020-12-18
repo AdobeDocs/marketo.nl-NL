@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Als u een &quot;Onverwachte Fout&quot; ontvangt in Gmail wanneer u probeert een e-mail te verzenden, moet u waarschijnlijk een reset uitvoeren op uw Gmail-verbinding.
 
-1. Ga naar **Instellingen** > **E-mailbeheer** > **Beheren**.
-1. Klik op **Verbinding met Gmail** verbreken.
+1. Ga naar **Instellingen** > **E-mailtracking** > **Beheren**.
+1. Klik **Verbinding met Gmail** verbreken.
 1. Nadat u de verbinding hebt verbroken, klikt u op **Verbinding maken met Google**.
 
-   Als u weer verbinding hebt gemaakt, gaat u terug naar Gmail en vernieuwt u de pagina en probeert u uw e-mail opnieuw te verzenden. Als het nog steeds niet werkt, [stuur dan een ticket](http://nation.marketo.com/community/support_solutions) naar ons ondersteuningsteam.
+   Als u weer verbinding hebt gemaakt, gaat u terug naar Gmail en vernieuwt u de pagina en probeert u uw e-mail opnieuw te verzenden. Als het nog niet werkt, gelieve [een kaartje ](http://nation.marketo.com/community/support_solutions) aan ons Ondersteuningsteam voor te leggen.
 
