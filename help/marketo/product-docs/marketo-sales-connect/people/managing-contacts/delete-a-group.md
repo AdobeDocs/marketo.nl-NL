@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Een groep verwijderen {#delete-a-group}
+# Een groep {#delete-a-group} verwijderen
 
-1. Ga naar de groep die u wilt verwijderen en klik op **Handelingen**.
-1. Selecteer Groep **** verwijderen in de keuzelijst.
-1. Klik op de gele knop **Verwijderen** in het pop-upmenu.
+1. Ga in de groep u **Acties** schrappen en wilt klikken.
+1. Selecteer **Groep verwijderen** in de vervolgkeuzelijst.
+1. Klik op de gele **knop Verwijderen** in het pop-upvenster.
 
    Heb je je zorgen over het per ongeluk verwijderen van een groep? Het is oké, we zullen het nog eens controleren of je dit wilt doen!
 
