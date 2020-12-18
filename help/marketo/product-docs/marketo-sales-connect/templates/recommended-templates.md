@@ -17,15 +17,15 @@ Met de aanbevolen sjablonen van Sales Connect krijgt u de juiste boodschap en be
 
 1. Ga naar het tabblad Sjablonen.
 1. Selecteer de sjabloon die u wilt aanbevelen en klik op **Bewerken**.
-1. Als u de functie Aanbevolen sjabloon wilt inschakelen voor de sjablooncontrole, **moet u deze sjabloon automatisch voorstellen als** dat het geval is.
+1. Om de Aanbevolen functionaliteit van het Malplaatje op uw malplaatjecontrole **Auto-Suggest dit malplaatje wanneer** toe te laten.
 
-## Alle vs. alle {#all-vs-any}
+## Alle vs. elke {#all-vs-any}
 
-Het is nu tijd om de criteria te selecteren. Selecteer **Alles** als je wilt dat de template wordt aanbevolen als aan alle criteria wordt voldaan. Selecteer **Willekeurig** als je wilt dat de template wordt aanbevolen als aan een van de criteria wordt voldaan.
+Het is nu tijd om de criteria te selecteren. Selecteer **Alle** als u uw malplaatje zou willen worden geadviseerd wanneer aan alle criteria wordt voldaan. Selecteer **Willekeurig** als u wilt dat uw sjabloon wordt aanbevolen wanneer aan een van de criteria wordt voldaan.
 
 ## Criteria instellen {#setting-criteria}
 
-Aan de hand van uw criteria stelt u de voorwaarden in waarvoor sjablonen worden aanbevolen. U kunt maximaal drie criteria instellen. Selecteer eerst de [dynamische velden](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-) waarop u wilt wijzen in de sjabloon.
+Aan de hand van uw criteria stelt u de voorwaarden in waarvoor sjablonen worden aanbevolen. U kunt maximaal drie criteria instellen. Selecteer eerst de [Dynamische velden](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-) waarop u in uw sjabloon wilt wijzen.
 
 ## Voorwaarden {#conditions}
 
@@ -39,7 +39,7 @@ Selecteer nu uw voorwaarde. Als aan uw voorwaarden voor het dynamische veld is v
 
 **Bevat** niet: De waarde mag niet in het dynamische veld staan (bijvoorbeeld Marketo Rocks! bevat geen enkel (letter (f)
 
-## Hoe ziet een aanbevolen sjabloon eruit {#what-a-recommended-template-looks-like}
+## Hoe ziet een aanbevolen sjabloon eruit als {#what-a-recommended-template-looks-like}
 
 Sla de sjabloon op nu de criteria zijn ingesteld. Vanaf hier werkt Sales Connect aan zijn magie om de beste sjablonen voor u te presenteren.\
 Nu u uw eerste sjabloon hebt toegewezen, is het tijd om de rest in kaart te brengen. Doorloop je meest succesvolle templates en beveel deze aan. Vergeet niet de sjabloon ook met uw team te delen. Uw aanbevolen instellingen voor sjablonen worden ook door uw team gedeeld.
