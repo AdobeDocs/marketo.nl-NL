@@ -16,13 +16,13 @@ ht-degree: 0%
 Installeer eenvoudig Call met Marketo Sales Connect, verzend Marketo Sales Email en voeg toe aan Campagne. U hebt beheerdersrechten nodig in Salesforce om deze velden te installeren.
 
 1. Meld u aan bij [Salesforce.com.](http://Salesforce.com)
-1. Klik op **Aanpassen**.
-1. Klik op **Leads**.
-1. Klik op **Pagina-indelingen**.
+1. Klik **Aanpassen**.
+1. Klik **Leads**.
+1. Klik **Pagina-indelingen**.
 1. Klik op **Bewerken **naast de lay-out Lead waaraan u de knoppen wilt toevoegen.
-1. Klik op **Knoppen**.
+1. Klik **Knoppen**.
 1. Sleep de knop Sales Connect naar de sectie Lead Details.
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    >[!NOTE]
    >
