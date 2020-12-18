@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# .NET toe:voegen-in Overzicht {#net-add-in-overview}
+# .NET toe:voegen-binnen Overzicht {#net-add-in-overview}
 
 >[!NOTE]
 >
->Dit is onze oude add-in. Als u het reeds hebt geïnstalleerd, zal het tot 2020 blijven werken. Als u een nieuwe gebruiker bent, moet u onze nieuwe [Office 365-invoegtoepassing](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)installeren.
+>Dit is onze oude add-in. Als u het reeds hebt geïnstalleerd, zal het tot 2020 blijven werken. Als u een nieuwe gebruiker bent, moet u onze nieuwe [Office 365-invoegtoepassing](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf) installeren.
 
-## Een stuk inhoud bijvoegen {#attaching-a-piece-of-content}
+## Een stuk inhoud {#attaching-a-piece-of-content} bijvoegen
 
 U kunt traceerbare inhoud toevoegen door op de knop **Inhoud** te klikken en een bestand te uploaden.
 
@@ -29,12 +29,12 @@ Laat de ontvangers weten wanneer u beschikbaar bent door op de knop **Kalender**
 
 Zo wordt uw Outlook-agenda weergegeven en kunt u specifieke datums en tijden toevoegen die u gratis hebt, en de gegevens toevoegen aan uw e-mail.
 
-## Sjabloon aftrekken {#pulling-in-a-template}
+## Sjabloon {#pulling-in-a-template} wegtrekken
 
-Trek in een pre-made malplaatje van de Tout aan het bericht van Vooruitzichten door de knoop van **Malplaatjes** te drukken.
+Trek in een pre-made malplaatje van de Tout aan het bericht van Vooruitzichten door **Sjablonen** te drukken.
 
-Wij `sync with all of your personal templates and any shared templates` van het team. Wij trekken automatisch ook in het laatst gebruikte malplaatje en het vaakst gebruikte malplaatje voor gemakkelijke toegang.
+Wij `sync with all of your personal templates and any shared templates` onder het team. Wij trekken automatisch ook in het laatst gebruikte malplaatje en het vaakst gebruikte malplaatje voor gemakkelijke toegang.
 
-## De knop Tout it {#the-tout-it-button}
+## De knop Kleurtoon {#the-tout-it-button}
 
-Zodra je persoonlijke e-mail hebt ingevuld en klaar voor gebruik, moet je altijd op de knop **Tout It** klikken om de e-mail te volgen. Er verschijnt een vak met de tekst &quot;hang aan, we voegen een magische tracking toe.&quot;
+Zodra u uw gepersonaliseerde e-mail hebt ingevuld en klaar om te gaan, zorg ervoor u altijd de **Tout het** knoop om het volgen te krijgen. Er verschijnt een vak met de tekst &quot;hang aan, we voegen een magische tracking toe.&quot;
