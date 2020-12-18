@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een fragment goedkeuren {#approve-a-snippet}
+# Een fragment {#approve-a-snippet} goedkeuren
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ Een fragment moet vóór gebruik worden goedgekeurd.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Klik op uw **fragment** en klik vervolgens onder **Fragmenthandelingen** op **Goedkeuren**.
+1. Klik op uw **Fragment** en vervolgens onder **Fragmenthandelingen** op **Goedkeuren**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
