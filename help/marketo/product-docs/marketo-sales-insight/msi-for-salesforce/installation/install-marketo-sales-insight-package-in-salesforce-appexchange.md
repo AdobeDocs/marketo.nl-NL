@@ -23,18 +23,18 @@ U moet de app Marketo Sales Insight in uw abonnement op Salesforce installeren v
 >
 >Marketo Sales Insight is compatibel met Salesforce Platform (Shield) Encryption.
 
-1. Ga naar de pagina [AppExchange voor Marketo Sales Insight](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) en klik op **Get It Now**.
+1. Ga naar de [pagina van de AppExchange voor het Inzicht van de Verkoop van de Verkoop ](http://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) en klik **krijgen het nu**.
 
    ![](assets/one.png)
 
-1. Klik op **Aanmelden bij de knop AppExchange** en meld u aan met uw Salesforce-referenties.
+1. Klik **Login aan de knoop van AppExchange** en login met uw geloofsbrieven van Salesforce.
 1. Voer uw aanmelding voor de verbonden Salesforce-account in en klik op **Installeren in productie**.
 
    ![](assets/three.png)
 
    >[!TIP]
    >
-   >Kies **Installeren in sandbox** als u deze eerst in de sandbox wilt uittesten.
+   >Als u het uit in uw zandbak eerst wilt testen, kies **installeer in Sandbox**.
 
 1. Lees en accepteer de voorwaarden en klik vervolgens op** Bevestigen en installeren**.
 
@@ -44,7 +44,7 @@ U moet de app Marketo Sales Insight in uw abonnement op Salesforce installeren v
 
    ![](assets/five.png)
 
-1. Het volgende bericht wordt mogelijk weergegeven wanneer u het installatieproces start. U ontvangt een e-mail zodra de installatie is voltooid. Klik op **Gereed** om te sluiten.
+1. Het volgende bericht wordt mogelijk weergegeven wanneer u het installatieproces start. U ontvangt een e-mail zodra de installatie is voltooid. Klik **Done** om te sluiten.
 
    ![](assets/six.png)
 
@@ -52,7 +52,7 @@ U moet de app Marketo Sales Insight in uw abonnement op Salesforce installeren v
 
    ![](assets/seven.png)
 
-1. Klik naast uw naam op **Instellingen** .
+1. Klik **Setup** naast uw naam.
 
    ![](assets/image2015-5-22-14-3a40-3a39.png)
 
@@ -60,7 +60,7 @@ U moet de app Marketo Sales Insight in uw abonnement op Salesforce installeren v
 
    ![](assets/image2015-5-22-14-3a42-3a7.png)
 
-1. Controleer tweemaal dat **Gedistribueerd** voor alle punten van het Inzicht van de Verkoop van de Marketo wordt gecontroleerd.
+1. Controleer tweemaal dat **Ingevoerde** voor alle punten van het Inzicht van de Verkoop van de Marketo wordt gecontroleerd.
 
    ![](assets/image2015-5-27-16-3a15-3a58.png)
 
@@ -68,7 +68,7 @@ U moet de app Marketo Sales Insight in uw abonnement op Salesforce installeren v
 
    ![](assets/image2014-9-24-17-3a23-3a45.png)
 
-1. Onder de sectie van de Status **van de** Plaatsing, selecteert **Geïmporteerd**, en klikt **sparen**.
+1. Selecteer **Geïmporteerd** onder **Implementatiestatus** en klik op **Opslaan**.
 
    ![](assets/image2014-9-24-17-3a24-3a0.png)
 
