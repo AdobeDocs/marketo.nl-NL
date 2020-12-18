@@ -19,17 +19,17 @@ Als er een veld is dat u niet meer nodig hebt in het formulier, kunt u het gemak
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Selecteer het veld en klik op het pictogram **Verwijderen** .
+1. Selecteer het veld en klik op het pictogram **delete**.
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 Klik op Voltooien.
    ![](assets/image2014-9-15-15-3a44-3a16.png)
 
-1. Klik op **Goedkeuren en Sluiten.**
+1. Klik **Goedkeuren en Sluiten.**
 
    ![](assets/image2014-9-15-15-3a44-3a28.png)
 
@@ -37,6 +37,6 @@ Klik op Voltooien.
 >
 >**Herinnering**
 >
->Vergeet niet het concept [van de bestemmingspagina dat door de formulierwijzigingen is gemaakt,](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren.
+>Vergeet niet om [het concept van de bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren dat door de formulierwijzigingen is gemaakt.
 
 Hoe moeilijk vond u het verwijderen van een veld?
