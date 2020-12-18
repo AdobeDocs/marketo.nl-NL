@@ -11,21 +11,21 @@ ht-degree: 0%
 ---
 
 
-# Voeg het Lusje van het Inzicht van de Verkoop van de Marketo en Knopen aan Salesforce toe {#add-marketo-sales-insight-tab-and-buttons-to-salesforce}
+# Tabblad Marktverkoop en knoppen aan Salesforce toevoegen {#add-marketo-sales-insight-tab-and-buttons-to-salesforce}
 
 U kunt het lusje van het Inzicht van de Verkoop van de Aangepaste Marketo en knopen aan uw mening van Salesforce toevoegen voor gemakkelijke toegang. Geïnteresseerd? Zo gaat het.
 
-## Het tabblad Marketo toevoegen  {#adding-the-marketo-tab}
+## Het tabblad Marketo {#adding-the-marketo-tab} toevoegen
 
-1. Klik op** + **en klik op **Mijn tabbladen** aanpassen.
+1. Klik op** + **en klik op **Mijn tabbladen aanpassen**.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
-1. Selecteer Marketo in de linkerlijst. Klik vervolgens op **Toevoegen** om het toe te voegen aan de **geselecteerde tabbladen**.
+1. Selecteer Marketo in de linkerlijst. Klik vervolgens op **Toevoegen** om deze toe te voegen aan de **Geselecteerde tabbladen**.
 
    >[!TIP]
    >
-   >Gebruik de pijl- **omhoog** en de pijl- **omlaag** om de tabvolgorde te wijzigen.
+   >Gebruik **Omhoog** en **Omlaag** pijl om uw lusjes opnieuw in orde te brengen.
 
    ![](assets/image2015-5-27-13-3a42-3a59.png)
 
@@ -33,21 +33,21 @@ U kunt het lusje van het Inzicht van de Verkoop van de Aangepaste Marketo en kno
 
    ![](assets/three-1.png)
 
-## Marketo-knoppen toevoegen {#adding-marketo-buttons}
+## Markeringsknoppen {#adding-marketo-buttons} toevoegen
 
 U kunt de knopen van de Markeren aan uw Lay-outs Salesforce toevoegen. Hier volgt een voorbeeld:
 
 ![](assets/image2015-5-26-17-3a7-3a18.png)
 
-1. Klik op **Instellen**. Zoek naar &quot;onderzoekslay-out&quot;en klik de Schermindelingen **van het** Onderzoek onder **Leads**.
+1. Klik **Setup**. Zoek naar &quot;onderzoekslay-out&quot;en klik **Schermindelingen van het Onderzoek** onder **Leads**.
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. Klik op **Bewerken** in de **Lijstweergave voor leads **rij.
+1. Klik **Edit** in de **Leads Mening van de Lijst **row.
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
-1. Voeg **Toevoegen aan Marketo-campagne**, Marketo-e-mail **** verzenden en **Toevoegen aan de knoppen Controlelijst** aan de **geselecteerde knoppen** en **Opslaan** toe.
+1. Voeg **Toevoegen aan Marketo-campagne**, **Marketo-e-mail verzenden** en **Toevoegen aan controlelijst** knoppen toe aan **Geselecteerde knoppen** en **Opslaan**.
 
    ![](assets/image2015-5-26-16-3a59-3a34.png)
 
