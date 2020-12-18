@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Vulling van sociaal formulier uitschakelen {#disable-social-form-fill}
+# Vulling van sociaal formulier {#disable-social-form-fill} uitschakelen
 
 Soms wilt u niet langer dat sitebezoekers formulieren verzenden met een sociaal profiel. Hier is hoe u het kunt uitschakelen.
 
@@ -21,7 +21,7 @@ Soms wilt u niet langer dat sitebezoekers formulieren verzenden met een sociaal 
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-10.png)
 
@@ -37,11 +37,11 @@ Soms wilt u niet langer dat sitebezoekers formulieren verzenden met een sociaal 
 
    ![](assets/image2016-4-28-16-3a49-3a23.png)
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
