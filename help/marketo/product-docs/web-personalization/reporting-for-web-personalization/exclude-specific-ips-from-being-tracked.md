@@ -21,15 +21,15 @@ U kunt individuele IPs en geheel of een deel van een waaier van IPs uitsluiten.
 >
 >Dit proces kan maximaal vijf minuten duren.
 
-1. Meld u aan bij Persoonlijke instellingen voor web en klik onder uw aanmelding op **Accountinstellingen**.
+1. Meld u aan bij Persoonlijke instellingen voor het web en klik onder uw aanmelding op **Accountinstellingen**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Schuif omlaag naar het gebied met **IP-uitsluitingen** . Als u IP adressen voor het eerst sluit, klik op het lege **Exclude IP gebied van Adressen** .
+1. Schuif omlaag naar **IP exclude** gebied. Als u IP adressen voor het eerst exclusief, klik op leeg **IP Adressen** gebied uitsluiten.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
-1. Voer de afzonderlijke IP&#39;s of bereiken van IP&#39;s in die u wilt uitsluiten van bijhouden en rapporteren, en klik op **Opslaan**.
+1. Ga individuele IP(s) of waaiers van IPs in u van het volgen en het melden wilt uitsluiten, en klik **sparen**.
 
    ![](assets/exclude-ips-form-hands.png)
 
