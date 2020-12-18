@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Voorkomen dat Secundair Gmail-adres wordt geïntegreerd met Sales Connect {#preventing-secondary-gmail-address-from-integrating-with-sales-connect}
 
-## Gebroken Gmail-integratie (waarom verzendt mijn persoonlijke Gmail e-mail) {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}
+## Gebroken Gmail-integratie (waarom is mijn persoonlijke Gmail die e-mails verzendt) {#broken-gmail-integration-why-is-my-personal-gmail-sending-emails}
 
 De meest voorkomende reden voor een verbroken Gmail-verbinding is een onbedoelde integratie met de persoonlijke account van een gebruiker. Dit kan gebeuren wanneer een gebruiker op &quot;Verbinding maken&quot; klikt of wanneer hij of zij een e-mail probeert te verzenden via zijn of haar persoonlijke account. Dit kan erg verleidelijk zijn, omdat deze optie bestaat wanneer u uw Gmail-account opent in dezelfde versie van Chrome als uw werk-e-mail.
 
@@ -37,6 +37,6 @@ Andere browser gebruiken
 
 Een Incognito-venster gebruiken
 
-**Pros:** Een incognitovenster is als het openen van een naakte versie van Chrome. Dit betekent dat er geen extensies zijn geïnstalleerd en dat Sales Connect er niet is om verbinding te maken.
+**Pros:** Een incognitovenster is vergelijkbaar met het openen van een naakte versie van Chrome. Dit betekent dat er geen extensies zijn geïnstalleerd en dat Sales Connect er niet is om verbinding te maken.
 
 **Cons**: U moet zich telkens aanmelden bij Gmail wanneer u uw dag start en opnieuw wanneer u per ongeluk het venster sluit.
