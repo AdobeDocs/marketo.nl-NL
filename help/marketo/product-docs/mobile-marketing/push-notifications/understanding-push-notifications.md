@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Pushberichten {#understanding-push-notifications}
+# Inzicht in pushberichten {#understanding-push-notifications}
 
 >[!NOTE]
 >
@@ -23,17 +23,17 @@ Met Marketo mobile-service kunt u een melding maken, configureren en verzenden, 
 >
 >Pushmeldingen zijn een invoegtoepassing en moeten door een Marketo-beheerder worden ingeschakeld voordat u begint.
 
-## Stap 1: Aanvankelijke instellingen uitvoeren voor beheerders en ontwikkelaars {#step-admin-and-developer-perform-initial-setups}
+## Stap 1: Beheerder en ontwikkelaar voeren eerste instellingen uit {#step-admin-and-developer-perform-initial-setups}
 
-De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen. Zie [Voordat u pushberichten en In-App-berichten](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) maakt voor meer informatie.
+De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen. Zie [Voordat u pushberichten en In-App-berichten maakt](../../../product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor meer informatie.
 
 ## Stap 2: Een pushmelding maken {#step-create-a-push-notification}
 
-[Creëer uw berichten](create-a-push-notification.md) en voorproef hoe het op Android en iOS apparaten wordt getoond.
+[Creëer uw ](create-a-push-notification.md) boodschap en bekijk een voorvertoning van de weergave op Android- en iOS-apparaten.
 
 ## Stap 3: Verzenden! {#step-send}
 
-[Pushmeldingen kunnen worden verzonden](send-a-mobile-push-notification.md) met behulp van trigger- en batch-slimme campagnes. Mooi cool, hè?
+[Pushmeldingen kunnen worden ](send-a-mobile-push-notification.md) verzonden via trigger- en batch-slimme campagnes. Mooi cool, hè?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
