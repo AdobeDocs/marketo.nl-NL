@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Overzicht van de bijdrage van Performance Insights {#performance-insights-contribution-overview}
+# Overzicht van de bijdrage van prestatiegegevens {#performance-insights-contribution-overview}
 
 In de Inzichten van Prestaties van de Marketo, wordt de mening van de Bijdrage getoond door gebrek.
 
@@ -23,7 +23,7 @@ Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken
 
 >[!NOTE]
 >
->Meer informatie over [First Touch en Multi-Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Meer informatie over [First-Touch en Multi-Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 Kies voor welke periode u metriek wilt weergeven. In dit voorbeeld bekijken we het huidige jaar (van jaar tot dag).   ![](assets/3-1.png)
 
@@ -43,7 +43,7 @@ In het staafdiagram worden de programmaprestaties langs alle kanalen (tien progr
 
 >[!TIP]
 >
->Als u wilt dat de staven in de grafiek worden vergroot terwijl u door de groepen schuift, schakelt u het selectievakje Y-as **schalen om passend** te maken in.
+>Als u wilt dat de staven in de grafiek worden vergroot terwijl u door de groepen schuift, schakelt u het selectievakje **Y-as schalen om passend te maken** in.
 
 Plaats de muisaanwijzer op een balk voor meer informatie.   ![](assets/seven.png)
 
