@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Vorm Sociale Aanbevolen Stroom {#configure-social-recommend-flow}
+# De sociaal aanbevolen stroom configureren {#configure-social-recommend-flow}
 
 Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk configureren en aangeven dat een gebruiker een melding krijgt wanneer hij of zij zich aanmeldt.
 
@@ -19,17 +19,17 @@ Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk confi
 
 >[!NOTE]
 >
->Dit lijkt erg op het [configureren van de workflow](configure-social-sign-up-share-flow.md)voor sociale inloggen/delen, maar dit geldt voor de koppelingen voor delen *onder* de sociale app.
+>Dit lijkt erg op [het configureren van de flow voor aanmelden/delen via sociale media](configure-social-sign-up-share-flow.md), maar dit geldt voor de koppelingen *onder* in de sociale app.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer de app en klik op Concept **** bewerken*.**
+1. Selecteer de app en klik op **Concept bewerken****.**
 
    ![](assets/image2014-9-22-11-3a51-3a6.png)
 
-1. Ga in de sociale app-editor naar **Bewerken** aanbevelen > **Sociale netwerken****.**
+1. Ga in de sociale app-editor naar **Adend Flow** > **Social Networks***.**
 
    ![](assets/recommendedflow.png)
 
@@ -37,7 +37,7 @@ Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk confi
 
    ![](assets/socialnetworkschoose.png)
 
-## Het Facebook-bericht configureren {#configure-the-facebook-message}
+## Het Facebook-bericht {#configure-the-facebook-message} configureren
 
 1. Configureer het bericht dat in Facebook-berichten wordt weergegeven.
 
@@ -49,33 +49,33 @@ Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk confi
 
    **Dynamische** inhoud toevoegenAls u** Statische inhoud toevoegen** kiest, voert u de titel, het bijschrift en de beschrijving in en uploadt u een afbeelding. Zie de volgende twee stappen.
 
-1. Klik in het venster Beeld en bewerken op **Bewerken** tonen om de gedeelde vraag en het bericht dat in Facebook-berichten wordt weergegeven, aan te passen.
+1. Klik in het venster Beeld en bewerken op **Bewerkingen tonen** om de gedeelde vraag en het bericht dat in Facebook-berichten wordt weergegeven, aan te passen.
 
    >[!TIP]
    >
-   >Zie Instellingen [Facebook Rich Post](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)bewerken voor meer informatie.
+   >Zie [Instellingen voor Facebook Rich Post bewerken](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md) voor meer informatie.
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
    >[!NOTE]
    >
-   >De URL voor [delen](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) wordt automatisch toegevoegd aan alle gedeelde berichten.
+   >De [share URL](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) wordt automatisch toegevoegd aan alle gedeelde berichten.
 
-1. Als u hierboven Statische **** inhoud **** toevoegen kiest, bewerkt u de titel, het bijschrift en de beschrijving en uploadt u een aangepaste afbeelding (van de Afbeeldingen en bestanden markeren).
+1. Als u **Statische** **inhoud** hierboven kiest, bewerkt u de titel, het bijschrift en de beschrijving en uploadt u een aangepaste afbeelding (van uw Marketo-afbeeldingen en -bestanden).
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
-   Zie Afbeeldingen en bestanden [toevoegen aan markeerteken](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Zie [Afbeeldingen en bestanden toevoegen aan Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
    >Als u een afbeelding uploadt, wordt deze hier pas weergegeven wanneer u de editor voor de sociale app sluit en weer opent.
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
 Indien u dit wenst, worden de waarden van de OpenGraph-tags van de pagina (og:title, og:caption en og:description) en de miniaturen automatisch toegevoegd aan Facebook-berichten. Zie de volgende stap.
 
-## Twitter-bericht configureren {#configure-the-twitter-message}
+## Twitter-bericht {#configure-the-twitter-message} configureren
 
 1. Klik hierop om de gedeelde vraag en het bericht dat in Twitter-tweets wordt weergegeven, te bewerken.
 
@@ -85,7 +85,7 @@ Indien u dit wenst, worden de waarden van de OpenGraph-tags van de pagina (og:ti
    >
    >Gebruik {html_title} in de tweetekst om de titel van de pagina automatisch weer te geven.
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
 ## Vorm het Bericht LinkedIn {#configure-the-linkedin-message}
 
@@ -93,11 +93,11 @@ Indien u dit wenst, worden de waarden van de OpenGraph-tags van de pagina (og:ti
 
    ![](assets/image2014-9-22-12-3a3-3a21.png)
 
-   Als u Dynamische **inhoud** toevoegen kiest, worden de waarden van de paginatags (titel en beschrijving) en de miniatuur automatisch toegevoegd aan LinkedIn-posts. Zie de volgende stap.
+   Als u **Dynamische**-inhoud toevoegen kiest, worden de waarden van de paginatags (titel en beschrijving) en de miniatuur automatisch toegevoegd aan LinkedIn-posts. Zie de volgende stap.
 
-   Als u Statische **inhoud** toevoegen kiest, voert u de titel, het bijschrift en de beschrijving in en uploadt u een afbeelding. Zie de volgende twee stappen.
+   Als u **Statische**-inhoud toevoegt, voert u de titel, het bijschrift en de beschrijving in en uploadt u een afbeelding. Zie de volgende twee stappen.
 
-1. Klik in het venster **Weergave** en **Bewerken** op Bewerkingen **** tonen en bewerk de gedeelde vraag en het bericht dat in LinkedIn-berichten wordt weergegeven.
+1. Klik in het venster **Weergave** &amp; **Bewerken** op **Bewerkingen tonen** en bewerk de gedeelde vraag en het bericht dat wordt weergegeven in LinkedIn-posts.
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -105,29 +105,29 @@ Indien u dit wenst, worden de waarden van de OpenGraph-tags van de pagina (og:ti
    >
    >Gebruik {html_title} in de berichttekst om de titel van de pagina automatisch weer te geven.
 
-1. Als u hierboven Statische **inhoud** toevoegen kiest, bewerkt u de titel en beschrijving en uploadt u een aangepaste afbeelding (van de **** Afbeeldingen en bestanden markeren).
+1. Als u **Statische** inhoud hierboven kiest, bewerkt u de titel en beschrijving en uploadt u een aangepaste afbeelding (van uw Mark **e** naar Afbeeldingen en bestanden).
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
-   Zie Afbeeldingen en bestanden [toevoegen aan markeerteken](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Zie [Afbeeldingen en bestanden toevoegen aan Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
    >Als u een afbeelding uploadt, wordt deze hier pas weergegeven wanneer u de editor voor de sociale app sluit en weer opent.
 
-1. Klik op **Volgende**.
+1. Klik **Volgende**.
 
-## Het bevestigingsbericht configureren {#configure-the-confirmation-message}
+## Bevestigingsbericht {#configure-the-confirmation-message} configureren
 
 1. Bewerk de tekst van de deelbevestiging.
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 
-1. Klik op **Voltooien** > **Goedkeuren** en **Sluiten****.**
+1. Klik **Voltooien** > **Goedkeuren** en **Sluiten***.**
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
 >[!MORELIKETHIS]
 >
->De volgende stap bestaat uit het [toevoegen van uw videoshare](customize-video-share-flow.md) of [opiniepeiling](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) aan een openingspagina, Facebook of uw eigen website.
+>De volgende stap bestaat uit het toevoegen van [uw video delen](customize-video-share-flow.md) of [opiniepeiling](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) aan een openingspagina, Facebook of uw eigen website.
 
