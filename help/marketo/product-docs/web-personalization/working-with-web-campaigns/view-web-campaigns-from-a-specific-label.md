@@ -17,7 +17,7 @@ Uw campagnes bekijken en filteren volgens een specifiek etiket?
 
 ## Filteren op bestaande labels {#filter-by-existing-labels}
 
-1. Ga naar **webcampagnes** **voor meer informatie**.
+1. Ga naar **Web** **Campagnes**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
