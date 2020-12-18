@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De Telefoon van de verkoop geeft u de capaciteit om uw vraagopnamen te registreren en te bewaren. Als u een vraagopname met een ander lid van uw team zou willen delen, zijn er twee plaatsen u de verbinding van kunt kopiëren.
 
-## De Verbinding van de Opname van het exemplaar van de Details van de Persoon in de Toepassing van het Web {#copy-recording-link-from-the-person-details-in-the-web-application}
+## De Verbinding van de Opname van het exemplaar van de Details van de Persoon in de Toepassing {#copy-recording-link-from-the-person-details-in-the-web-application}
 
 1. Navigeer naar de [webtoepassing](http://toutapp.com/login).
 1. Open de persoonlijke gegevens.
