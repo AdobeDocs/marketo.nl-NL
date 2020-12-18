@@ -19,15 +19,15 @@ Met markeertekens kunt u een URL-pad gemakkelijk omleiden naar elke gewenste pag
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik onder **Beheer** op **Pagina&#39;s** landen.
+1. Onder **Admin,** klik **Landing Pages**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Klik op het tabblad **Regels** en klik vervolgens op **Nieuw **en **Nieuwe omleidingsregel**.
+1. Klik **Regels** tabel, dan klik **Nieuw **en **Nieuwe Redirect Regel**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. Klik op de eerste vervolgkeuzelijst **Oorspronkelijke URL** en selecteer Marketo CNAME.
+1. Klik eerste **Originele URL** drop-down en selecteer uw Marketo CNAME.
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
@@ -36,17 +36,17 @@ Met markeertekens kunt u een URL-pad gemakkelijk omleiden naar elke gewenste pag
    >**Herinnering**
    >
    >
-   >Herinner me, kunt u URLs slechts omleiden die met uw [NAAM](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md)van het Teken beginnen.
+   >Herinner me, kunt u URLs slechts omleiden die met uw Marketo [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
 
-1. Typ het URL-pad (of de specifieke pagina) dat u wilt omleiden in het tweede veld **Originele URL** rechts.
+1. Typ het URL-pad (of de specifieke pagina) dat u wilt omleiden in het tweede veld **Oorspronkelijke URL** aan de rechterkant.
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. Klik op Openingspagina **niet-markeerbaar** gebruiken, typ de pagina waarnaar u bezoekers wilt omleiden in het veld URL **** omleiden en klik op **Maken**.
+1. Klik **Niet-Marketo-landingspagina gebruiken**, typ de pagina waarnaar u bezoekers wilt omleiden in het veld **URL omleiden** en klik op **Maken**.
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   U kunt ook Marketo [gebruiken om pagina](https://docs.marketo.com/x/vAEk) &#39;s als doel te plaatsen.
+   U kunt [Marketo-landingspagina&#39;s](https://docs.marketo.com/x/vAEk) ook als doel gebruiken.
 
 Gefeliciteerd!  U hebt het URL-pad omgeleid.
 
