@@ -19,11 +19,11 @@ Hieronder vindt u de nieuwste versies voor alle Sales Connect-clients.
  <tbody> 
   <tr> 
    <td><strong>Gmail</strong></td> 
-   <td><p>8.6.19</p></td> 
+   <td><p>8.6.19.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Chroom</strong></td> 
-   <td><p>8.6.19</p></td> 
+   <td><p>8.6.19.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Outlook Windows</strong></td> 
@@ -31,11 +31,11 @@ Hieronder vindt u de nieuwste versies voor alle Sales Connect-clients.
   </tr> 
   <tr> 
    <td><strong>Outlook Mac</strong></td> 
-   <td>2.0.0.0</td> 
+   <td>2.0.0.0.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Outlook 365</strong></td> 
-   <td colspan="1">2.0.0.0</td> 
+   <td colspan="1">2.0.0.0.</td> 
   </tr> 
  </tbody> 
 </table>
