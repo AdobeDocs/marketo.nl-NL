@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Template 9-A {#template-a}
+# Sjabloon 9-A {#template-a}
 
 [Sjabloon 9-A downloaden](http://docs.marketo.com/download/attachments/8783981/template-9a.html?version=2&amp;modificationdate=1438210648000&amp;api=v2)
 
