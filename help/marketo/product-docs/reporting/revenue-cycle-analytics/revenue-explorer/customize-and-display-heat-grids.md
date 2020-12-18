@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Een warmteraster geeft uw gegevens visueel weer in een gekleurd raster, zodat u goede en slechte patronen gemakkelijker en sneller kunt herkennen.
 
-1. Klik in uw rapport op het diagrampictogram en **warm vervolgens raster**.
+1. In uw rapport, klik het grafiekpictogram en dan **Warmt Net**.
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. Ga naar het gebied **Eigenschappen ** **-eigenschappen als u wijzigingen wilt aanbrengen in het** warmteraster.
+1. Als u wijzigingen wilt aanbrengen in het **Warmteraster**, gaat u naar het gebied **Eigenschappen **.
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   Geweldig! U hebt nu uw **warmteraster**!
+   Geweldig! U hebt nu uw **Warmteraster**!
 
