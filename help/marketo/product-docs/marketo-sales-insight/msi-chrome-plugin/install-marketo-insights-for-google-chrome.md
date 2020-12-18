@@ -19,7 +19,7 @@ Voer de volgende stappen uit om te beginnen met het gebruik van de krachtige Chr
 >
 >U hoeft geen Marketo-beheerder te zijn om de extensie te installeren.
 
-1. Installeer de [Marketo Insights voor Google Chrome Add in extensie](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) vanuit de Chrome Web Store.
+1. Installeer [Marketo Insights for Google Chrome Add in extension](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb) vanuit de Chrome Web Store.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
@@ -27,17 +27,17 @@ Voer de volgende stappen uit om te beginnen met het gebruik van de krachtige Chr
 
    ![](assets/two.png)
 
-1. Voer uw **Reg-code**, **e-mailadres**, **Voornaam** en **Achternaam** in. Klik op **Verifiëren en Opslaan**.
+1. Voer uw **Reg-code**, **E-mailadres**, **Voornaam** en **Achternaam** in. Klik **Verifieer en sparen**.
 
    ![](assets/three.png)
 
    >[!CAUTION]
    >
-   >Vergeet niet uw **primaire e-mailaccount** te gebruiken wanneer u zich registreert, omdat we het gebruik van aliassen voor deze plug-in niet ondersteunen.
+   >Zorg ervoor dat u uw **primaire e-mailaccount** gebruikt wanneer u zich registreert, omdat wij het gebruik van aliassen voor deze plug-in niet ondersteunen.
 
    >[!NOTE]
    >
-   >De Reg-code wordt vermeld in de e-mail die wordt verzonden nadat een Marketo Admin [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) u een Marketo Email Add-in-licentie [](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [heeft verzonden.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Het vervalt na 14 dagen.**
+   >De Reg-code wordt verzonden in de e-mail die wordt verzonden nadat een Marketo Admin [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [een Marketo Email Add-in-licentie](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [ heeft verzonden.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Het vervalt na 14 dagen.**
 
 1. Klik op** Toestaan **om offline toegang toe te staan.
 
