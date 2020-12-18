@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Rapportabonnementen in-/uitschakelen {#enable-disable-report-subscriptions}
+# Rapportabonnementen {#enable-disable-report-subscriptions} in-/uitschakelen
 
 Web Personalization heeft verscheidene nuttige rapporten die via e-mail worden verzonden. Hier is hoe je je op hen kunt abonneren.
 
@@ -19,9 +19,9 @@ Web Personalization heeft verscheidene nuttige rapporten die via e-mail worden v
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 
-1. Selecteer het rapport u aan wilt intekenen en het is frequentie. Klik op **Opslaan**.
+1. Selecteer het rapport u aan wilt intekenen en het is frequentie. Klik **Opslaan**.
 
    ![](assets/email-settings.png)
 
-   Dat is het! Als u het abonnement op het rapport wilt opzeggen, schakelt u het selectievakje uit en klikt u op **Opslaan**.
+   Dat is het! Om van het rapport eenvoudig af te melden uncheck en te klikken **sparen**.
 
