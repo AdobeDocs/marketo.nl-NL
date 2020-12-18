@@ -11,40 +11,40 @@ ht-degree: 0%
 ---
 
 
-# Een gebeurtenis met zoomen maken {#create-an-event-with-zoom}
+# Een gebeurtenis maken met zoomen {#create-an-event-with-zoom}
 
 >[!PREREQUISITES]
 >
 >* [Zoomen toevoegen als een opstartpuntservice](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Stel de juiste [stroomhandelingen in om de betrokkenheid](http://docs.marketo.com/display/DOCS/Flow+Actions)bij te houden
+>* Stel de juiste [flowhandelingen](http://docs.marketo.com/display/DOCS/Flow+Actions)in om de betrokkenheid bij te houden
 
 
 Maak eerst uw webinar in Zoomen. Bepaalde instellingen bij het maken van zoomen worden gebruikt door Marketo en sommige worden alleen gebruikt door Zoomen.
 
-Nadat u een Marketo-gebeurtenis hebt gemaakt en een webinar met zoomen hebt gekoppeld, kunnen de systemen gegevens over registratie en aanwezigheid delen. Zie [Aan de slag met webinars](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar)voor hulp bij het maken van een webinar.
+Nadat u een Marketo-gebeurtenis hebt gemaakt en een webinar met zoomen hebt gekoppeld, kunnen de systemen gegevens over registratie en aanwezigheid delen. Zie [Aan de slag met webinars](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar) voor hulp bij het maken van een webinar.
 
 Voer de volgende informatie in voor uw webinar en deze wordt via de adapter in Marketo geplaatst. Als u wijzigingen aanbrengt aan deze gegevens, moet u onder Gebeurtenishandelingen op de koppeling &quot;Vernieuwen van webinar provider&quot; klikken om de wijzigingen te kunnen zien.
 
 **Titel en beschrijving**
 
-* **Webinar Naam** - ga de naam voor webinar in. Deze naam wordt weergegeven in Marketo.
+* **Webinar Naam**  - ga de naam voor webinar in. Deze naam wordt weergegeven in Marketo.
 
-* **Beschrijving** (optioneel) - Voer de beschrijving van het webinar in. De beschrijving is &#39;viewable in Marketo.
+* **Beschrijving**  (optioneel) - Voer de beschrijving van het webinar in. De beschrijving is &#39;viewable in Marketo.
 
 **Datum en tijd**
 
-* **Begindatum** - Voer uw begindatum in. Dit wordt weergegeven in Marketo.
+* **Begindatum**  - Voer uw begindatum in. Dit wordt weergegeven in Marketo.
 
-* **Begintijd** - Voer uw begintijd in. Dit wordt weergegeven in Marketo.
+* **Begintijd**  - Voer uw begintijd in. Dit wordt weergegeven in Marketo.
 
-* **Duur** - Voer de duur in. De begintijd en eindtijd kunnen worden weergegeven in Marketo.
+* **Duur**  - Voer de duur in. De begintijd en eindtijd kunnen worden weergegeven in Marketo.
 
-* **Tijdzone** - Selecteer de toepasselijke tijdzone. Dit wordt weergegeven in Marketo.
+* **Tijdzone**  - Selecteer de toepasselijke tijdzone. Dit wordt weergegeven in Marketo.
 
-* **Herhalend Webinar**- Laat het selectievakje los.
+* **Herhalend Webinar** - Laat het selectievakje los.
 
-* **Registratie** - Schakel dit selectievakje in om registratie verplicht te stellen. U gebruikt een Marketo-formulier-/landingspagina om registratiegegevens vast te leggen die naar Zoomen worden geduwd.
+* **Registratie**  - Schakel dit selectievakje in om registratie verplicht te stellen. U gebruikt een Marketo-formulier-/landingspagina om registratiegegevens vast te leggen die naar Zoomen worden geduwd.
 
 >[!NOTE]
 >
@@ -58,7 +58,7 @@ Voer de volgende informatie in voor uw webinar en deze wordt via de adapter in M
 
 Laten we nu naar Marketo springen!
 
-1. Selecteer een gebeurtenis. Klik op **Gebeurtenishandelingen** en kies **Gebeurtenisinstellingen**.
+1. Selecteer een gebeurtenis. Klik **Gebeurtenishandelingen** en kies **Gebeurtenisinstellingen**.
 
    ![](assets/image2015-5-14-14-3a53-3a10-1.png)
 
@@ -66,7 +66,7 @@ Laten we nu naar Marketo springen!
    >
    >Het kanaaltype van de geselecteerde gebeurtenis moet **webinar** zijn.
 
-1. Kies **Gezoem** van de Lijst van de **Partner** van de **Gebeurtenis** .
+1. Kies **Zoomen** in de lijst **Gebeurtenis** **Partner**.
 
    ![](assets/eventsettings1.png)
 
@@ -78,7 +78,7 @@ Laten we nu naar Marketo springen!
 
    ![](assets/selectevent.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/eventsettingssave.png)
 
@@ -92,9 +92,9 @@ Laten we nu naar Marketo springen!
    >
    >Gebruik de volgende token in uw e-mail om het bevestigingsbericht te vullen met deze unieke URL: `{{member.webinar url}}`. Wanneer de bevestiging-URL wordt verzonden, wordt deze token automatisch omgezet in de unieke bevestiging-URL van de persoon.
    >
-   >Stel het bevestigingsbericht in op **Operationeel** om ervoor te zorgen dat personen die zich registreren en mogelijk worden afgemeld, nog steeds hun bevestigingsgegevens ontvangen.
+   >Stel uw bevestigingsbericht in op **Operationeel** om ervoor te zorgen dat personen die zich registreren en mogelijk niet-geabonneerd zijn, nog steeds hun bevestigingsgegevens ontvangen.
 
-   Personen die zich aanmelden voor uw webinar, worden via de stap **Program Status** wijzigen aan uw webinar doorgegeven wanneer de Nieuwe status is ingesteld op &quot;Geregistreerd&quot;. Geen andere status zal de persoon over duwen. Zorg er ook voor dat u in stap 1 **Programmastatus** wijzigen de volgende stap uitvoert en **Stroom nr. 2 van e-mail** verzenden.
+   Personen die zich aanmelden voor uw webinar, worden via de stroomstap **Programmastatus wijzigen** doorgegeven aan uw webinar-provider wanneer de Nieuwe status is ingesteld op &quot;Geregistreerd.&quot; Geen andere status zal de persoon over duwen. Zorg er ook voor dat u **Programmastatus wijzigen** doorloopstap #1 en **E-mail verzenden** doorloopstap #2.
 
    ![](assets/goto-webinar-1.png)
 
@@ -104,4 +104,4 @@ Laten we nu naar Marketo springen!
 
    >[!TIP]
    >
-   >Het kan tot 48 uur duren voordat de gegevens in Marketo verschijnen. Als na het wachten dat lang u nog niets ziet, uitgezocht **verfrist zich van Leverancier** van de Gebeurtenis van het menu van de Acties van de Gebeurtenis in het **Samenvatting** lusje van uw gebeurtenis.
+   >Het kan tot 48 uur duren voordat de gegevens in Marketo verschijnen. Als na het wachten dat lang u nog niets ziet, uitgezocht **verfrist zich van Webinar Leverancier** van het menu van de Acties van de Gebeurtenis in **Samenvatting** lusje van uw gebeurtenis.
