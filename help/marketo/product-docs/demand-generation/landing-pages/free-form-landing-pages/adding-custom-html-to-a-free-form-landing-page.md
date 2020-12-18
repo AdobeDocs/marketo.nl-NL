@@ -19,11 +19,11 @@ U kunt aangepaste scripts, CSS of andere HTML toevoegen om pagina&#39;s te lande
 >
 >Marketo Support is niet ingesteld als hulp bij het oplossen van problemen met aangepaste HTML. Neem contact op met een webontwikkelaar voor HTML-ondersteuning.
 
-1. Selecteer de openingspagina en klik op Concept **bewerken.**
+1. Selecteer de bestemmingspagina en klik **Concept bewerken.**
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
-1. Sleep in de bestemmingspagina-editor in het **HTML** -element.
+1. Sleep in de bestemmingspagina-editor in het element **HTML**.
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
