@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Melding van mobiel pushbericht verwijderen {#delete-mobile-push-notification}
+# Melding van mobiele pushberichten verwijderen {#delete-mobile-push-notification}
 
 1. Ga naar het gebied Marketingactiviteiten.
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. Klik onder **Push Notification Actions** op **Delete**.
+1. Klik onder **Acties voor pushmeldingen** op **Verwijderen**.
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
