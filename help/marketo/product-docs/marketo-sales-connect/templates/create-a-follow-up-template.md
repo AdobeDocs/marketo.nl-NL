@@ -11,6 +11,6 @@ ht-degree: 0%
 ---
 
 
-# Een follow-upsjabloon maken {#create-a-follow-up-template}
+# Een opvolgsjabloon maken {#create-a-follow-up-template}
 
 Met onze functie Campagnes voegt u, wanneer u een nieuwe sjabloon maakt, gewoon het dynamische veld &quot;last_email_body&quot; toe aan de onderkant van uw sjabloon. Dat zal de e-mails automatisch samenvoegen in de campagne.
