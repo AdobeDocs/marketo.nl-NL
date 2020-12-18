@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Een nieuwe sjabloon maken {#create-a-new-template}
 
-1. Navigeer naar het tabblad **Sjablonen **en klik op **Sjabloon** maken.
-1. Kies een **rubriek** en een **naam***** ***voor uw e-mailsjabloon en klik op** Maken ***.*
+1. Navigeer naar het tabblad **Sjablonen **en klik op **Sjabloon maken**.
+1. Kies een **Categorie** en **Naam***** ***voor uw e-mailsjabloon en klik vervolgens op** Maken ***.*
 1. Maak in de sjablooneditor een onderwerpregel voor uw e-mail en typ het gewenste bericht. De bewerkingsgereedschappen gebruiken (lettertype, tekstgrootte, enz.) om de weergave aan te passen.
-1. Klik op **Opslaan** om de wijzigingen te voltooien.
+1. Klik **Opslaan** om uw wijzigingen te voltooien.
 
 >[!TIP]
 >
