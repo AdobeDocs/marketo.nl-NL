@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Template 14-A {#template-a}
+# Sjabloon 14-A {#template-a}
 
 [Sjabloon 14-A downloaden](http://docs.marketo.com/download/attachments/9437801/template-14a.html?version=1&amp;modificationdate=1438980173000&amp;api=v2)
 
