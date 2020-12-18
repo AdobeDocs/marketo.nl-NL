@@ -34,21 +34,21 @@ Wanneer u een standaard- of aangepast veld selecteert in de vervolgkeuzelijst Ve
 
 In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maakt voor een tekenreeks, geheel getal of datumtype.
 
-## Aangepaste veldgroep maken - tekenreekseditor {#create-custom-field-group-string-editor}
+## Aangepaste veldgroep maken - Tekenreekseditor {#create-custom-field-group-string-editor}
 
-1. Klik op Database **lead**.
+1. Klik **Lead Database**.
 
    ![](assets/one.png)
 
-1. Klik op **Nieuw** en selecteer **Nieuwe veldOrganizer**.
+1. Klik **Nieuw**, en selecteer **Nieuwe Organisator van het Gebied**.
 
    ![](assets/two.png)
 
-1. Klik op **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). Land wordt hier gebruikt.
+1. Klik **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). Land wordt hier gebruikt.
 
    ![](assets/three.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/four.png)
 
@@ -60,7 +60,7 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    ![](assets/five.png)
 
-1. Standaard worden alle gegevenswaarden in de subgroep &quot;Overige&quot; geplaatst. Als u de gegevenswaarden wilt categoriseren, klikt u op Groep **** toevoegen om een subgroep te maken en geeft u deze een naam.
+1. Standaard worden alle gegevenswaarden in de subgroep &quot;Overige&quot; geplaatst. Als u de gegevenswaarden wilt categoriseren, klikt u op **Groep toevoegen** om een subgroep te maken en geeft u deze een naam.
 
    >[!NOTE]
    >
@@ -92,19 +92,19 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
 ## Aangepaste veldgroep maken - Integer-editor {#create-custom-field-group-integer-editor}
 
-1. Klik op Database **lead**.
+1. Klik **Lead Database**.
 
    ![](assets/one.png)
 
-1. Klik op **Nieuw** en selecteer **Nieuwe veldOrganizer**.
+1. Klik **Nieuw**, en selecteer **Nieuwe Organisator van het Gebied**.
 
    ![](assets/two.png)
 
-1. Klik op **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). De jaarlijkse ontvangsten worden hier gebruikt.
+1. Klik **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). De jaarlijkse ontvangsten worden hier gebruikt.
 
    ![](assets/nine.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/9.5.png)
 
@@ -112,13 +112,13 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    ![](assets/9.6.png)
 
-1. Klik op de standaardnaam van de aangepaste groep boven de editor voor gehele getallen om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Jaarlijkse inkomstengroep&quot; wijzigen in &quot;Jaarlijkse inkomsten op grootte&quot;. Klik op **Opslaan**.
+1. Klik op de standaardnaam van de aangepaste groep boven de editor voor gehele getallen om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Jaarlijkse inkomstengroep&quot; wijzigen in &quot;Jaarlijkse inkomsten op grootte&quot;. Klik **Opslaan**.
 
    ![](assets/eleven.png)
 
    Met de editor voor gehele getallen kunt u meerdere subgroepen maken om elke subgroep op grootte te definiëren. In dit voorbeeld worden drie groepen gemaakt voor kleine, middelgrote en ondernemingen.
 
-1. Als u de eerste groep wilt toevoegen, voert u een naam in het veld **Groepsnaam** in (bijvoorbeeld: Klein) en ga een maximumwaarde op het gebied van de Waaier **van de** Groep in (voorbeeld: 200000). Klik op Groep **** toevoegen.
+1. Als u de eerste groep wilt toevoegen, voert u een naam in het veld **Groepsnaam** in (voorbeeld: Klein) en voer een maximumwaarde in het veld **Groepbereik** in (voorbeeld: 200000). Klik **Groep toevoegen**.
 
    ![](assets/twelve.png)
 
@@ -146,19 +146,19 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
 ## Aangepaste veldgroep maken - Datumeditor {#create-custom-field-group-date-editor}
 
-1. Klik op Database **lead**.
+1. Klik **Lead Database**.
 
    ![](assets/one.png)
 
-1. Klik op **Nieuw** en selecteer **Nieuwe veldOrganizer**.
+1. Klik **Nieuw**, en selecteer **Nieuwe Organisator van het Gebied**.
 
    ![](assets/two.png)
 
-1. Klik op **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). Aankoopdatum wordt hier gebruikt.
+1. Klik **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). Aankoopdatum wordt hier gebruikt.
 
    ![](assets/fourteen.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/14.5.png)
 
@@ -166,13 +166,13 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    ![](assets/14.6.png)
 
-1. Klik op de standaardnaam van de aangepaste groep boven de datumeditor om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Groep met overnamedatum&quot; wijzigen in &quot;Categorieën overnamedatum&quot;. Klik op **Opslaan**.
+1. Klik op de standaardnaam van de aangepaste groep boven de datumeditor om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Groep met overnamedatum&quot; wijzigen in &quot;Categorieën overnamedatum&quot;. Klik **Opslaan**.
 
    ![](assets/fifteen.png)
 
    Met de datumeditor kunt u meerdere subgroepen maken en elke subgroep op datum definiëren. In dit voorbeeld worden drie groepen gemaakt: Q1-15 Leads, Q2-15 Leads en Q3-15 Leads.
 
-1. Als u de eerste groep wilt toevoegen, voert u een naam in het veld **Groepsnaam** in (bijvoorbeeld: Q1-15 Leads) en voer in het datumveld een datum in die de datum vertegenwoordigt waarop de lead is verworven op of eerder (bijvoorbeeld: 3/31/2015 voor de laatste dag van het eerste kwartaal van 2015). Klik op Groep **** toevoegen.
+1. Als u de eerste groep wilt toevoegen, voert u een naam in het veld **Groepsnaam** in (voorbeeld: Q1-15 Leads) en voer in het datumveld een datum in die de datum vertegenwoordigt waarop de lead is verworven op of eerder (bijvoorbeeld: 3/31/2015 voor de laatste dag van het eerste kwartaal van 2015). Klik **Groep toevoegen**.
 
    ![](assets/sixteen.png)
 
