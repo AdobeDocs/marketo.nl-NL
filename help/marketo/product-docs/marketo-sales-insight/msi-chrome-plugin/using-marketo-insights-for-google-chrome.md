@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Marketo Insights gebruiken voor Google Chrome {#using-marketo-insights-for-google-chrome}
+# Marketo-inzichten gebruiken voor Google Chrome {#using-marketo-insights-for-google-chrome}
 
 Verzend en traceer alle Google-e-mails met Marketo Insights voor Google Chrome.
 
@@ -41,27 +41,27 @@ Verzend en traceer alle Google-e-mails met Marketo Insights voor Google Chrome.
    >
    >Klik indien nodig op de dubbele pijl om deze uit te breiden naar een volledige schermweergave.
 
-1. Als u uw e-mail vooraf wilt vullen met een gepubliceerde sjabloon Marketo, klikt u op **Meer opties** en selecteert **u Marketo-sjabloon laden.**
+1. Als u uw e-mail met een gepubliceerde malplaatje van Marketo wilt vooraf invullen, klik **Meer Opties** en selecteer **Sjabloon van Marketo van de Lading.**
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Selecteer een **beschikbare sjabloon** en klik op **OK.**
+1. Selecteer een **Beschikbare sjabloon** en klik op **OK.**
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
-1. Voer uw inhoud en e-mailadres in en klik op **Verzenden**.
+1. Voer uw inhoud, een e-mailadres en klik op **Verzenden**.
 
    ![](assets/image2015-10-6-14-3a37-3a32.png)
 
    >[!NOTE]
    >
-   >Berichten worden alleen bijgehouden wanneer de knop **Verzenden** paars is.
+   >Berichten worden alleen bijgehouden wanneer de knop **Send** paars is.
 
 1. Het e-mailbericht wordt binnenkort weergegeven in je Marktverkoopoverzicht. Eventuele geopende berichten en klikken worden bijgehouden.
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
-## Log E-mailreacties bij Marketo {#log-email-replies-with-marketo}
+## E-mailreacties in logboek opnemen bij Marketo {#log-email-replies-with-marketo}
 
 U kunt antwoorden en oude activiteit in de activiteitengeschiedenis van een lood registreren.
 
