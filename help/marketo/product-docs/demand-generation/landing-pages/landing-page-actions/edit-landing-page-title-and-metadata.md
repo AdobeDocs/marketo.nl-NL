@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Titel en metagegevens van bestemmingspagina bewerken {#edit-landing-page-title-and-metadata}
+# Titel en metagegevens {#edit-landing-page-title-and-metadata} van bestemmingspagina bewerken
 
-Met Marketo kunt u de [metatags van de openingspagina voor SEO-doeleinden](http://www.w3schools.com/tags/tag_meta.asp) bewerken en het `<head>` gedeelte van de HTML aanpassen.
+Met Marketo kunt u uw openingspagina [metatags voor SEO-doeleinden](http://www.w3schools.com/tags/tag_meta.asp) bewerken en het `<head>`-gedeelte van de HTML aanpassen.
 
-1. Selecteer een openingspagina en klik op **Concept** bewerken ****.
+1. Selecteer een landingspagina en klik **Edit** **Draft**.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
@@ -23,20 +23,20 @@ Met Marketo kunt u de [metatags van de openingspagina voor SEO-doeleinden](http:
    >
    >De ontwerpfunctie voor de bestemmingspagina wordt in een nieuw venster geopend.
 
-1. Klik onder Handelingen voor **bestemmingspagina** op **Paginametags** bewerken.
+1. Klik onder **Paginagehandelingen starten,** op **Paginametags bewerken**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Voer de **titel,** **trefwoorden** en **beschrijving** voor de pagina in. Selecteer de gewenste optie **Robots** en voer aangepaste inhoud in die u voor de HTML- `<head>` sectie wilt gebruiken. Klik op **Opslaan.**
+1. Voer de **Titel,** **Trefwoorden** en **Beschrijving** voor uw pagina in. Selecteer de gewenste optie **Robots** en voer de gewenste aangepaste inhoud in voor de HTML-sectie `<head>`. Klik **Opslaan.**
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
    >[!TIP]
    >
-   >**Wat betekent [robots](http://www.robotstxt.org/meta.html) ?**
+   >**Wat betekent  [](http://www.robotstxt.org/meta.html) robotslichaam?**
    >
    >
-   >**index:** kan op het web worden gezocht. **volgen:** zoekprogramma&#39;s kunnen koppelingen op geïndexeerde pagina&#39;s volgen.
+   >**index:** pagina kan worden doorzocht op het web. **volgen:** zoekprogramma&#39;s kunnen koppelingen op geïndexeerde pagina&#39;s volgen.
 
 1. Bewerk de labels op elk gewenst moment en keur de bestemmingspagina goed.
 
