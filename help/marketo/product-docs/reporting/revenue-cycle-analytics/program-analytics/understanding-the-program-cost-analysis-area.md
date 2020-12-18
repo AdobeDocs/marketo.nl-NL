@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Het begrip van het gebied van de Analyse van de Kosten van het Programma {#understanding-the-program-cost-analysis-area}
+# Het begrip van het Gebied van de Analyse van de Kosten van het Programma {#understanding-the-program-cost-analysis-area}
 
 In het gebied Kostenanalyse van het programma kunt u de doeltreffendheid van afzonderlijke programma&#39;s analyseren of de samengevatte resultaten gedurende een bepaalde periode per kanaal bekijken.
 
-## Voorbeelden van zakelijke vragen {#example-business-questions}
+## Voorbeeld van zakelijke vragen {#example-business-questions}
 
 Hoeveel nieuwe namen produceerde elk kanaal per maand?
 
@@ -39,7 +39,7 @@ Hoeveel heb ik per programma per maand uitgegeven?
 >
 >Gele stippen zijn afmetingen en blauwe stippen zijn maateenheden.
 
-## Investeringen {#investment}
+## Investering {#investment}
 
 | Meetlat | Beschrijving |
 |---|---|
@@ -79,7 +79,7 @@ Hoeveel heb ik per programma per maand uitgegeven?
 | Programmakanaal | Programmakanaal |
 | Programmanaam | Programmanaam |
 
-## Tijdslimiet voor programmakosten {#program-cost-timeframe}
+## Tijdschema voor programmakosten {#program-cost-timeframe}
 
 | Dimension | Beschrijving |
 |---|---|
@@ -87,7 +87,7 @@ Hoeveel heb ik per programma per maand uitgegeven?
 | Kwart | Tijdslimiet voor programmakosten |
 | Maand | Tijdschema voor programmakosten |
 
-## Programmatags {#program-tags}
+## Programmacodes {#program-tags}
 
 | Meetlat | Beschrijving |
 |---|---|
