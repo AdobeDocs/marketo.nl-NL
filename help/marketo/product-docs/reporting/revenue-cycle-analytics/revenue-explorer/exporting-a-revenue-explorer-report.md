@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Een rapport van de Ontdekkingsreiziger van de Opbrengst exporteren {#exporting-a-revenue-explorer-report}
+# Een rapport van de Ontdekkingsreiziger van de Opbrengst {#exporting-a-revenue-explorer-report} uitvoeren
 
 U kunt om het even welk rapport van de opbrengstontdekkingsreiziger uitvoeren en het met iedereen delen.
 
-1. Klik op het pictogram Vistuig, selecteer **Exporteren** en selecteer een bestandsindeling.
+1. Klik op het pictogram Verwerk, selecteer **Exporteren** en selecteer een bestandsindeling.
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -30,7 +30,7 @@ U kunt om het even welk rapport van de opbrengstontdekkingsreiziger uitvoeren en
    >    * CSV
 
 
-1. Selecteer de gewenste **paginaopmaak** en **afdrukstand** en klik op **Exporteren**.
+1. Selecteer de gewenste **Paginaformaat** en **Oriëntatie**, en klik **Exporteren**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
