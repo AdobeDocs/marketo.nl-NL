@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Kolommen met personenpagina&#39;s {#people-page-columns}
+# Kolommen {#people-page-columns} Personen
 
 U kunt aanpassen welke contactinformatie u ziet door te kiezen welke kolommen worden getoond.
 
-## Kolommen selecteren {#how-to-select-columns}
+## Hoe te om Kolommen {#how-to-select-columns} te selecteren
 
 1. Klik op het pictogram Lijstinstellingen op de pagina Personen.
 
    ![](assets/one-5.png)
 
-1. Blader door de gewenste kolommen en selecteer deze. (U kunt ook op Alles **selecteren** selecteren klikken als u elke kolom wilt.) Klik wanneer u klaar bent uit de lijst.
+1. Blader door de gewenste kolommen en selecteer deze. (U kunt ook op **Alles selecteren** klikken als u elke kolom wilt.) Klik wanneer u klaar bent uit de lijst.
 
    ![](assets/two-4.png)
 
