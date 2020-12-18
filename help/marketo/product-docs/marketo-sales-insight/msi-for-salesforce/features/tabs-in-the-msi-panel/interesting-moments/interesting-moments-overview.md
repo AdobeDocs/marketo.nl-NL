@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Interessant momentoverzicht {#interesting-moments-overview}
+# Overzicht van interessante momenten {#interesting-moments-overview}
 
 U kunt de interessante stap van de momentstroom gebruiken om uw verkoopteam zicht in de coole dingen te geven uw leiders in een Slimme Campagne doen.
 
