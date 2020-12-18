@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De taal van de berichten voor formuliervalidatie/foutmeldingen en de knop Verzenden wijzigen {#change-the-language-of-form-validation-error-messages-and-submit-button}
+# De taal van de berichten van de Bevestiging/van de Fout van het Vorm veranderen en de Knoop van de Verzending {#change-the-language-of-form-validation-error-messages-and-submit-button} indienen
 
 Wist u dat u het formulier kunt aanpassen om berichten in een andere taal te geven? Bekijk dit.
 
@@ -23,7 +23,7 @@ Wist u dat u het formulier kunt aanpassen om berichten in een andere taal te gev
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Selecteer het formulier en klik op Formulier **bewerken.**
+1. Selecteer het formulier en klik op **Formulier bewerken.**
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
@@ -31,15 +31,15 @@ Wist u dat u het formulier kunt aanpassen om berichten in een andere taal te gev
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. Selecteer de **gewenste** fouttaal **** .
+1. Selecteer **Error** **Taal** u nodig hebt.
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-12-3a48-3a43.png)
 
-1. Klik op **Goedkeuren en Sluiten** om de wijzigingen toe te passen en op te slaan.
+1. Klik **Goedkeuren en Sluiten** om wijzigingen toe te passen en op te slaan.
 
    >[!NOTE]
    >
@@ -52,7 +52,7 @@ Wist u dat u het formulier kunt aanpassen om berichten in een andere taal te gev
    >**Herinnering**
    >
    >
-   >Vergeet niet het concept van de bestemmingspagina [goed te](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) keuren dat door de formulierwijzigingen is gemaakt.
+   >Onthoud dat u [het concept van de bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dat door de formulierwijzigingen is gemaakt, goedkeurt.
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
