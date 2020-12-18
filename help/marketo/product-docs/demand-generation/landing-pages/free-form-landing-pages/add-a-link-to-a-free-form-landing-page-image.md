@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Voeg een Verbinding aan een Vrije Vorm het Bestaan Beeld van de Pagina toe {#add-a-link-to-a-free-form-landing-page-image}
+# Een koppeling toevoegen aan een afbeelding {#add-a-link-to-a-free-form-landing-page-image} voor vrije landingspagina
 
 >[!PREREQUISITES]
 >
@@ -25,11 +25,11 @@ ht-degree: 0%
 >
 >Dit geldt alleen voor landingspagina&#39;s met vrije vorm.
 
-1. Selecteer de afbeelding die u aan de bestemmingspagina hebt toegevoegd en vouw het **eigenschappenblad uit.**
+1. Selecteer de afbeelding die u aan de bestemmingspagina hebt toegevoegd en vouw het **Eigenschappenblad** uit.
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Typ uw mailto-koppeling in de URL van de **koppeling.**
+1. Typ uw mailto-koppeling in de **URL koppelen.**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
