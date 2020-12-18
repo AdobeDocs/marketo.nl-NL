@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Een veld verwijderen in een Indelingsverkenner-rapport {#deleting-a-field-in-a-revenue-explorer-report}
+# Een veld verwijderen in een opbrengstverkennerrapport {#deleting-a-field-in-a-revenue-explorer-report}
 
 Soms sleept u een verkeerd veld naar het rapport. Hieronder wordt beschreven hoe u dit kunt verwijderen:
 
-1. Sleep het veld dat u wilt verwijderen naar het **prullenbakpictogram** rechtsonder in het rapport.
+1. Sleep het veld dat u wilt verwijderen naar het **prullenmand**-pictogram rechtsonder in het rapport.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
