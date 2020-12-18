@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Mobile App iOS Push Access configureren {#configure-mobile-app-ios-push-access}
+# Mobile App iOS Push Access {#configure-mobile-app-ios-push-access} configureren
 
 1. Klik op Beheerder.
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >U hebt een **certificaat** en **wachtwoord** nodig van uw ontwikkelaar van mobiele apps. De ontwikkelaar ontvangt deze gegevens door u aan te melden bij het Apple Developer Member Center, een pushmeldingscertificaat voor uw app in te stellen en te downloaden en de inhoud te exporteren. De ontwikkelaar stelt het wachtwoord in bij het exporteren. **BELANGRIJK**: Het certificaat moet geschikt zijn voor de omgeving die u gebruikt: Sandbox of Production. Controleer dit met uw ontwikkelaar van Marketo Admin of mobiele apps.
+   >U hebt een **Certificate** en **Password** van uw ontwikkelaar van mobiele apps nodig. De ontwikkelaar ontvangt deze gegevens door u aan te melden bij het Apple Developer Member Center, een pushmeldingscertificaat voor uw app in te stellen en te downloaden en de inhoud te exporteren. De ontwikkelaar stelt het wachtwoord in bij het exporteren. **BELANGRIJK**: Het certificaat moet geschikt zijn voor de omgeving die u gebruikt: Sandbox of Production. Controleer dit met uw ontwikkelaar van Marketo Admin of mobiele apps.
 
 1. Selecteer uw Certificaat, ga uw Wachtwoord in, en klik sparen.
 
