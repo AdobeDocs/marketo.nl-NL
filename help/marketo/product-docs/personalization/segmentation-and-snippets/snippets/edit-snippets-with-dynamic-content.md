@@ -24,17 +24,17 @@ ht-degree: 0%
 
 Gebruik Segmentatie in fragmenten om dynamische inhoud op uw e-mails en landingspagina&#39;s eenvoudig te beheren.
 
-## Segmentering toevoegen {#add-segmentation}
+## Segmentatie {#add-segmentation} toevoegen
 
-1. Ga naar de **Studio** van het Ontwerp.
+1. Ga naar **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Klik op uw **Fragment **en **geef dan Ontwerp** uit.
+1. Klik op uw **Fragment **en dan **geef Ontwerp** uit.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. Klik op **Segment op**.
+1. Klik op **Segment door**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
