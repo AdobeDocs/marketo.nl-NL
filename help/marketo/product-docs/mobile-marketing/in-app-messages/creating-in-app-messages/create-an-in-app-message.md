@@ -14,9 +14,9 @@ ht-degree: 0%
 
 Er zijn verschillende stappen om het perfecte bericht in de app te maken. Begin hier, en volg dan de stappen in orde, in deze artikelen.
 
-Nadat u uw bericht in de app hebt gemaakt, gaat u [hier](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) om te zien hoe u het bericht kunt verzenden.
+Nadat u uw in-app bericht creeert, ga [hier](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) om te zien hoe te om het te verzenden.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![Afbeelding één](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-1.png)
 
@@ -24,7 +24,7 @@ Nadat u uw bericht in de app hebt gemaakt, gaat u [hier](/help/marketo/product-d
 
    ![Afbeelding twee](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-2.png)
 
-1. Selecteer Bericht **in de app**.
+1. Selecteer **Bericht in de toepassing**.
 
    ![Afbeelding drie](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-3.png)
 
@@ -36,4 +36,4 @@ Nadat u uw bericht in de app hebt gemaakt, gaat u [hier](/help/marketo/product-d
 >
 >De naam van het programma wordt automatisch weergegeven in de vervolgkeuzelijst, maar u kunt een andere naam selecteren.
 
-Kies vervolgens een lay-out [](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) voor uw bericht in de app.
+Kies vervolgens [een lay-out](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) voor uw in-app-bericht.
