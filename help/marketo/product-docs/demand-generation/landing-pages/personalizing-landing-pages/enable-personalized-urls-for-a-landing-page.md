@@ -23,11 +23,11 @@ Persoonlijke URL&#39;s zijn ideaal voor campagnes voor gedrukte post.
 
 
 
-1. Selecteer een openingspagina en klik op de instellingen voor **Persoonlijke URL**.
+1. Selecteer een openingspagina en klik op instellingen voor **Persoonlijke URL**.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Nu kunt u Persoonlijke URL&#39;s **inschakelen selecteren** en op **Opslaan** klikken.
+1. Nu kunt u **Persoonlijke URL&#39;s inschakelen** en **Opslaan** klikken.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
