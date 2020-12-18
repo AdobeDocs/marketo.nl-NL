@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Als u een veldtype [hebt](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) ingesteld op een keuzerondje of een type hebt geselecteerd, wilt u de waarden definiëren waaruit de gebruiker kan kiezen. Zo gaat het.
+Als u [een veldtype](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) hebt ingesteld als een keuzerondje of als u type selecteert, wilt u de waarden definiëren waaruit de gebruiker kan kiezen. Zo gaat het.
 
 1. Ga naar **Marketing** **Activiteiten**.
 
    ![](assets/ma.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -40,12 +40,12 @@ Als u een veldtype [hebt](../../../../product-docs/administration/field-manageme
    >**Definitie**
    >
    >
-   >**Weergavewaarde:** Wat wordt getoond aan de bezoeker.
+   >**Weergavewaarde:** wat wordt weergegeven aan de bezoeker.
    >
    >
    >**Opgeslagen waarde:** Wat wordt opgenomen in Marketo.
 
-1. Voeg zoveel waarden toe als u nodig hebt en klik op **Opslaan**.
+1. Voeg zoveel waarden toe als u nodig hebt en klik vervolgens op **Opslaan**.
 
    >[!NOTE]
    >
@@ -55,13 +55,13 @@ Als u een veldtype [hebt](../../../../product-docs/administration/field-manageme
 
    >[!TIP]
    >
-   >Klik op **Geavanceerde editor** om een lijst met waarden te kopiëren/plakken. Het kan in real-time besparen zijn.
+   >Klik **Geavanceerde Redacteur** om een lijst van waarden te kopiëren/te kleven als u wilt. Het kan in real-time besparen zijn.
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
