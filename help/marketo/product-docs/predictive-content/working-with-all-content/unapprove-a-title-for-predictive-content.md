@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Een titel voor voorspellende inhoud niet goedkeuren {#unapprove-a-title-for-predictive-content}
+# Een titel voor voorspellende inhoud {#unapprove-a-title-for-predictive-content} niet goedkeuren
 
 >[!NOTE]
 >
->Afhankelijk van de aankoopdatum kan uw abonnement op Marketo de optie Voorspelende inhoud of Inhoud`<sup>AI</sup>`markeren bevatten. Marketo schakelt de functie Content`<sup>AI</sup>` Analytics voor gebruikers die gebruikmaken van voorspellende inhoud in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager Succes bij Marketo-klanten om te upgraden naar Marketo-inhoud`<sup>AI</sup>`.
+>Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
 U kunt elke titel voor voorspellende inhoud op de pagina Alle inhoud of in het pop-upvenster Inhoud bewerken niet goedkeuren.
 
@@ -29,7 +29,7 @@ U kunt elke titel voor voorspellende inhoud op de pagina Alle inhoud of in het p
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
-## Pop-up Inhoud bewerken {#edit-content-pop-up}
+## Pop-up {#edit-content-pop-up} Inhoud bewerken
 
 U kunt een titel verwijderen terwijl u deze bewerkt.
 
@@ -37,7 +37,7 @@ U kunt een titel verwijderen terwijl u deze bewerkt.
 
    ![](assets/click-icon-hand.png)
 
-1. Schakel het vak **Goedkeuren voor voorspellende inhoud** uit en klik op **Opslaan**.
+1. Schakel het selectievakje **Goedkeuren voor voorspellende inhoud** uit en klik op **Opslaan**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 
