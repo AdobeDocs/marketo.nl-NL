@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Gebieden bewerken {#edit-regions}
+# Gebieden {#edit-regions} bewerken
 
 Wilt u de regionale instellingen van uw gebruikersregio wijzigen zodat alleen de gegevens voor uw specifieke regio worden weergegeven?
 
@@ -19,7 +19,7 @@ Wilt u de regionale instellingen van uw gebruikersregio wijzigen zodat alleen de
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Klik op Gebieden **** bewerken.
+1. Klik **Gebieden bewerken**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 
