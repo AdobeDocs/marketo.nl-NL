@@ -19,7 +19,7 @@ Als beheerder kunt u sjablonen weergeven als elke gebruiker.
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik op **Sjablonen**.
+1. Klik **Sjablonen**.
 
    ![](assets/one.png)
 
