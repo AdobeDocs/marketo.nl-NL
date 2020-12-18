@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # CSS van een formulierthema bewerken {#edit-the-css-of-a-form-theme}
 
-U hebt een paar vooraf gebouwde [thema&#39;s u enkel van](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)kunt kiezen. Maar als u graag CSS bewerkt, kunt u alle gewenste wijzigingen aanbrengen. Zo gaat het.
+U hebt een paar vooraf gebouwde [thema&#39;s u enkel van ](../../../../product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md) kunt kiezen. Maar als u graag CSS bewerkt, kunt u alle gewenste wijzigingen aanbrengen. Zo gaat het.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ U hebt een paar vooraf gebouwde [thema&#39;s u enkel van](../../../../product-do
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Ga naar **Formulier** - **instellingen**.
+1. Ga naar **Formulier** **Instellingen**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 
@@ -43,11 +43,11 @@ U hebt een paar vooraf gebouwde [thema&#39;s u enkel van](../../../../product-do
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
-1. Klik op **Sluiten**.
+1. Klik **Close**.
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Klik onder het tandwielpictogram op **Aangepaste** **CSS** bewerken ****.
+1. Klik onder het tandwielpictogram op **Bewerken** **Aangepast** **CSS**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
@@ -55,11 +55,11 @@ U hebt een paar vooraf gebouwde [thema&#39;s u enkel van](../../../../product-do
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 
-1. Klik op **Opslaan** als u klaar bent.
+1. Wanneer u wordt gedaan, klik **sparen**.
 
    ![](assets/image2014-9-15-14-3a39-3a30.png)
 
-1. Als u het aangepaste formulier wilt weergeven, klikt u op **Voorbeeld** van **concept**.
+1. Als u het aangepaste formulier wilt weergeven, klikt u op **Voorvertoning** **Concept**.
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
 
