@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# E-mail rapporteren, campagneprestaties in alle werkruimten {#report-email-campaign-performance-across-workspaces}
+# E-mail rapporteren, campagneprestaties op werkruimten {#report-email-campaign-performance-across-workspaces}
 
-Schakel Globale rapportage in om gegevens van al uw Marketo- [werkruimten](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) op te nemen in uw [e-mailprestaties](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), de prestaties [van de](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)e-mailkoppeling en de rapporten [Campagne Activity](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) .
+Schakel Global Reporting in om gegevens van al uw Marketo [werkruimten](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) op te nemen in uw [E-mailprestaties](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [E-mailkoppelingprestaties](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) en [Campagne Activity](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)-rapporten.
 
 1. Ga naar het gebied **Analytics** (of **Marketing Activities**).
 
@@ -23,7 +23,7 @@ Schakel Globale rapportage in om gegevens van al uw Marketo- [werkruimten](../..
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Klik op het tabblad **Setup** en dubbelklik op **Global Reporting**.
+1. Klik **Opstelling** tabel en dubbelklik **Globale Rapportering**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
@@ -31,7 +31,7 @@ Schakel Globale rapportage in om gegevens van al uw Marketo- [werkruimten](../..
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. Dat is alles! Klik op het tabblad **Rapport** om de gegevens in al uw werkruimten weer te geven.
+1. Dat is alles! Klik op het tabblad **Rapport** om de gegevens van al uw werkruimten weer te geven.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
@@ -49,5 +49,5 @@ Schakel Globale rapportage in om gegevens van al uw Marketo- [werkruimten](../..
    >**Diep duiken**
    >
    >
-   >Meer informatie over rapporten vindt u in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Meer informatie over rapporten vindt u in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
 
