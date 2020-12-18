@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een sjabloon voor vrije bestemmingspagina maken {#create-a-free-form-landing-page-template}
+# Een sjabloon voor vrije landingspagina maken {#create-a-free-form-landing-page-template}
 
 Voor vrije-vormbestemmingspagina&#39;s is minder technische kennis nodig dan voor de door hen geleide tegenhangers. Volg onderstaande stappen om een sjabloon voor toekomstige bestemmingspagina&#39;s te maken.
 
@@ -19,7 +19,7 @@ Voor vrije-vormbestemmingspagina&#39;s is minder technische kennis nodig dan voo
 
    ![](assets/one.png)
 
-1. Klik op **Nieuw** en selecteer vervolgens **Nieuw sjabloon** bestemmingspagina.
+1. Klik **Nieuw**, dan uitgezocht **Nieuwe het Bestanden van het Malplaatje van de Pagina**.
 
    ![](assets/two.png)
 
@@ -35,7 +35,7 @@ Voor vrije-vormbestemmingspagina&#39;s is minder technische kennis nodig dan voo
    >
    >Marketo Support is niet ingesteld als hulp bij het oplossen van problemen met aangepaste HTML. Neem contact op met een webontwikkelaar voor HTML-ondersteuning.
 
-1. Wanneer u klaar bent met het aanbrengen van uitgeeft, klik de Acties **van het** Malplaatje, dan selecteren **goedkeuren en sluit**.
+1. Wanneer u klaar bent met het aanbrengen van uitgeeft, klik **Sjabloonacties**, dan uitgezocht **goedkeuren en Sluiten**.
 
    ![](assets/five.png)
 
@@ -44,7 +44,7 @@ Voor vrije-vormbestemmingspagina&#39;s is minder technische kennis nodig dan voo
    >[!NOTE]
    >
    >Selecteer **Munchkin-tracking** uitschakelen als u wilt voorkomen dat formulieren vooraf worden ingevuld, of als u alleen het webgedrag op een bepaalde pagina wilt bijhouden.\
-   >Selecteer Mobiele compatibiliteit **valideren** om ervoor te zorgen dat uw code compatibel is met mobiele apparaten.
+   >Selecteer **Mobiele compatibiliteit valideren** om ervoor te zorgen dat uw code compatibel is met mobiele apparaten.
 
    >[!NOTE]
    >
