@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Rapport over e-mailprestaties voor campagne {#campaign-email-performance-report}
+# Rapport over e-mailprestaties campagne {#campaign-email-performance-report}
 
-Als u de prestatiestatistieken van uw e-mailprogramma wilt weergeven in groepen volgens een [slimme campagne](http://docs.marketo.com/display/docs/smart+campaigns), voert u een rapport E-mailprestaties voor campagne uit.
+Voer een rapport over de prestaties van een campagne-e-mail uit om uw e-mailprestatiestatistieken te bekijken die zijn gegroepeerd op [slimme campagne](http://docs.marketo.com/display/docs/smart+campaigns).
 
-1. [Maak een rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **rapporttype** Campagne-e-mailprestaties [](report-type-overview.md).
-1. [Plaats het tijdkader van uw rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **lusje van het Rapport** .
+1. [Maak een ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport en selecteer het  **type** [ Campagne-e-](report-type-overview.md)mailprestatierapport.
+1. [Stel het tijdkader van uw rapport in ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op het tabblad  **** Rapporten.
 1. Bekijk nu het rapport om te zien hoe elke e-mail in uw campagnes is uitgevoerd.
 
    ![](assets/image2014-9-16-16-3a19-3a59.png)
@@ -25,7 +25,7 @@ Als u de prestatiestatistieken van uw e-mailprogramma wilt weergeven in groepen 
    >
    >Klik op de naam van een e-mailbericht om het te openen in de e-mailvoorvertoning.
 
-   [De kolommen die u voor een Rapport van de Prestaties van e-mail van de Campagne kunt](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)selecteren omvatten:
+   [De kolommen die u voor een Rapport van de Prestaties van e-mail van de Campagne kunt ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)selecteren omvatten:
 
    | Kolom | Beschrijving |
    |---|---|
@@ -33,11 +33,11 @@ Als u de prestatiestatistieken van uw e-mailprogramma wilt weergeven in groepen 
    | Zacht gebogen | E-mail is geweigerd vanwege een tijdelijke voorwaarde, zoals het uitvallen van een server of een volledig inbox. |
    | In behandeling | E-mail wordt nog steeds verzonden. |
    | Klikte koppeling | Aantal e-mailontvangers dat op een koppeling in de e-mail heeft geklikt. |
-   | Abonnement opgezegd | Aantal e-mailontvangers dat op de koppeling **Abonnement opzeggen** in de e-mail heeft geklikt en het formulier heeft ingevuld. |
+   | Abonnement opgezegd | Aantal e-mailontvangers die op de koppeling **Abonnement opzeggen** in de e-mail hebben geklikt en het formulier hebben ingevuld. |
 
    >[!NOTE]
    >
-   >Over het algemeen proberen we het gezond verstand te gebruiken om deze statistieken op te nemen. Als iemand bijvoorbeeld op een koppeling in een e-mail heeft geklikt, heeft hij deze koppeling eerst geopend. Zie het [E-mailprestatierapport](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)voor de specifieke regels die we volgen.
+   >Over het algemeen proberen we het gezond verstand te gebruiken om deze statistieken op te nemen. Als iemand bijvoorbeeld op een koppeling in een e-mail heeft geklikt, heeft hij deze koppeling eerst geopend. Voor de specifieke regels die wij volgen, zie [E-mailprestatiesrapport](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
    >[!NOTE]
    >
@@ -54,5 +54,5 @@ Als u de prestatiestatistieken van uw e-mailprogramma wilt weergeven in groepen 
    >**Diep duiken**
    >
    >
-   >Meer weten over [Basisrapporten?](http://docs.marketo.com/display/docs/basic+reporting)
+   >Meer informatie vindt u in [Basisrapportage.](http://docs.marketo.com/display/docs/basic+reporting)
 
