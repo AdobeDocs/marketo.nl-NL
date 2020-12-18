@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Knoptekst voor verzenden van formulier wijzigen {#change-form-submit-button-text}
+# Tekst {#change-form-submit-button-text} van knop Formulier verzenden wijzigen
 
 U kunt snel en gemakkelijk een formulierknop wijzigen van &quot;Verzenden&quot; in een ander woord. Zo gaat het.
 
@@ -19,11 +19,11 @@ U kunt snel en gemakkelijk een formulierknop wijzigen van &quot;Verzenden&quot; 
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
-1. Selecteer de knop en wijzig het **label**.
+1. Selecteer de knop en wijzig **Label**.
 
    ![](assets/image2014-9-15-12-3a42-3a41.png)
 
@@ -31,11 +31,11 @@ U kunt snel en gemakkelijk een formulierknop wijzigen van &quot;Verzenden&quot; 
    >
    >U kunt ook het Wachten Label wijzigen. Dit wordt weergegeven nadat op de knop is geklikt en voordat de handeling voor het verzenden van het formulier is voltooid.
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-12-3a43-3a26.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-12-3a43-3a36.png)
 
