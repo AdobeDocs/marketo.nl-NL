@@ -5,13 +5,13 @@ title: Mobiele toepassing verwijderen
 translation-type: tm+mt
 source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
 
-# Mobiele toepassing verwijderen {#delete-mobile-app}
+# Mobiele app {#delete-mobile-app} verwijderen
 
 1. Klik op Beheer.
 
