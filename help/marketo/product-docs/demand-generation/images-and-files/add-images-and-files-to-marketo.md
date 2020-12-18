@@ -15,11 +15,11 @@ ht-degree: 0%
 
 U kunt eenvoudig meerdere afbeeldingen en bestanden tegelijk toevoegen.
 
-1. Ga naar de **Design** **Studio**.
+1. Ga naar **Design** **Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klik onder **Nieuw** op** Afbeelding* **of** **Bestand** uploaden.
+1. Klik onder **Nieuw** op** Afbeelding uploaden* **of** **Bestand**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -35,7 +35,7 @@ U kunt eenvoudig meerdere afbeeldingen en bestanden tegelijk toevoegen.
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
-1. Vouw de **bestandsdetails** uit om te controleren of u de juiste afbeeldingen hebt geselecteerd en klik vervolgens op **Uploaden**.
+1. Vouw **Bestandsdetails** uit om te controleren of u de juiste afbeeldingen hebt geselecteerd en klik vervolgens op **Uploaden**.
 
    ![](assets/image2014-9-15-18-3a7-3a22.png)
 
@@ -63,7 +63,7 @@ Echt waar!
 >
 >Marketo accepteert alle bestandstypen voor uploaden, maar alleen de belangrijkste afbeeldingstypen (JPG, PNG, GIF enzovoort) werkt in onze e-maileditor.
 
-## Een video bekijken {#watch-a-video}
+## Bekijk een video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/ZWBeQ5oiXRKG2QAP5E7g6Q.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
