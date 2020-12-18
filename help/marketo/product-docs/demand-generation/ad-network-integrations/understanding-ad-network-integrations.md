@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ![](assets/hith-golden-gate-144833144-e.jpeg)
 
-## Hoe de Integratie van het Netwerk van de Advertentie werkt {#how-ad-network-integrations-work}
+## Hoe de Integratie van het Netwerk van de Advertentie {#how-ad-network-integrations-work} werkt
 
 Dankzij netwerkintegratie kunt u de unieke publieksgegevens van Marketo aansluiten op uw betaalmediasystemen, zodat u doelgerichte, gepersonaliseerde digitale advertentiecampagnes kunt uitvoeren. Deze integratie werkt momenteel met Facebook, LinkedIn en Google.
 
@@ -36,7 +36,7 @@ Mogelijkheden zijn:
 
    * Bijvoorbeeld, zoekt een persoon, ziet en klikt een advertentie, dan vult een vorm online uit. Daarna, ontvangt hij een demo offline en wordt een kans van CRM. Dat is waar de adverteerder hem aanvalt
 
-* Websitebezoekers opnieuw rangschikken met [web-personalisatie](http://docs.marketo.com/display/docs/web+personalization)om ze terug te sturen naar uw website
+* Websitebezoekers opnieuw rangschikken met [Web Personalization](http://docs.marketo.com/display/docs/web+personalization), om ze terug te sturen naar uw website
 
    * Aanpassen aan segment of verticaal
 
@@ -52,11 +52,11 @@ U kunt integratie gebruiken aan:
 
 |  | Poortgegevens | Inname van lood | Offlineconversie |
 |---|---|---|---|
-| ![--](assets/facebook-logo-2-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25-1.png) |
-| ![--](assets/linkedin-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) |
-| ![--](assets/google-logo-150.jpg) | ![--](assets/checkmark-flat-25.png) | ![--](assets/x-mark-3-256-25.png) | ![--](assets/checkmark-flat-25.png) |
+| ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
+| ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
+| ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
 
-## Een video bekijken {#watch-a-video}
+## Bekijk een video {#watch-a-video}
 
 `<iframe width="630" height="470" src="//play.vidyard.com/y8xoFczdrKQzAfvnAkAUXH.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
 
