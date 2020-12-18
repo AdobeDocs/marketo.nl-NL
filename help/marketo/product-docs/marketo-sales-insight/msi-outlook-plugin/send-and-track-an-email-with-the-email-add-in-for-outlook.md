@@ -17,7 +17,7 @@ U kunt e-mails met Marketo rechtstreeks vanuit Outlook verzenden en volgen.
 
 >[!PREREQUISITES]
 >
->Installeer de add-in voor [Marketo voor Outlook](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)als u dat nog niet hebt gedaan.
+>Als u nog niet hebt, installeer [toe:voegen-binnen van de Marketo e-mail voor Vooruitzichten](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 1. Open Microsoft Outlook en maak een nieuwe e-mail.
 
@@ -27,7 +27,7 @@ U kunt e-mails met Marketo rechtstreeks vanuit Outlook verzenden en volgen.
    >
    >Als u meerdere ontvangers in de e-mail opneemt, worden alle activiteiten bijgehouden onder de eerste ontvanger.
 
-1. Stel uw e-mail samen zoals u normaal zou doen, dan klik **verzenden en Spoor**.
+1. Stel uw e-mail samen zoals u normaal zou doen, dan klik **verzend en Spoor**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -37,7 +37,7 @@ U kunt e-mails met Marketo rechtstreeks vanuit Outlook verzenden en volgen.
 
    >[!TIP]
    >
-   >Als u een malplaatje van het Marketo wilt gebruiken, zie [verzenden en Spoor van Vooruitzichten Gebruikend een Malplaatje](send-and-track-from-outlook-using-a-marketo-template.md).
+   >Als u een malplaatje van het Marketo wilt gebruiken, zie [verzenden en Spoor van Vooruitzichten gebruikend een Malplaatje](send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Bekijk de voorvertoning en klik op **Verzenden**.
 
