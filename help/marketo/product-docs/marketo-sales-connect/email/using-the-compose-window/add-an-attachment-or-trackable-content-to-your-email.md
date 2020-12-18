@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer u een e-mailbericht verzendt via Sales Connect, kunt u een bestand toevoegen als bijlage of een bestand downloaden (en trackable) koppeling maken.
 
-## Een bijlage toevoegen {#add-an-attachment}
+## Een bijlage {#add-an-attachment} toevoegen
 
 1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld kiezen we **Samenstellen** in de koptekst).
 
@@ -35,7 +35,7 @@ Wanneer u een e-mailbericht verzendt via Sales Connect, kunt u een bestand toevo
 
    >[!NOTE]
    >
-   >Als u een bestand moet uploaden, klikt u op de knop Inhoud **** uploaden rechtsboven in het venster.
+   >Als u een bestand moet uploaden, klikt u op de knop **Inhoud uploaden** rechtsboven in het venster.
 
    ![](assets/attach-five.png)
 
@@ -61,7 +61,7 @@ De bijlage wordt onder aan het e-mailbericht weergegeven.
 
    >[!NOTE]
    >
-   >Als u een bestand moet uploaden, klikt u op de knop Inhoud **** uploaden rechtsboven in het venster.
+   >Als u een bestand moet uploaden, klikt u op de knop **Inhoud uploaden** rechtsboven in het venster.
 
    De inhoud wordt als een koppeling in uw e-mail weergegeven. De ontvanger kan op de koppeling klikken om de inhoud te downloaden.
 
