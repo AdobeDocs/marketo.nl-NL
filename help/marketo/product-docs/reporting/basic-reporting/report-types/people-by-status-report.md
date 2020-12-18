@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Rapport Personen per status {#people-by-status-report}
+# Rapport Personen op status {#people-by-status-report}
 
-Controleer hoe goed u mensen door het proces beweegt door te controleren hoeveel van hen in elke waarde van de Status *van* Persoon verschijnen elke maand.
+Controleer hoe goed u mensen door het proces beweegt door te controleren hoeveel van hen in elke *Status van de Persoon* waarde elke maand verschijnen.
 
-1. [Maak een rapport](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteer het **rapporttype** [Personen op status](report-type-overview.md).
-1. [Plaats het tijdkader van uw rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik het **lusje van het Rapport** .
+1. [Maak een ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport en selecteer het rapporttype **** [Personen op ](report-type-overview.md)status.
+1. [Stel het tijdkader van uw rapport in ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op het tabblad  **** Rapporten.
 1. Geweldig! Nu kunt u zien hoeveel mensen in elke Status van Persoon waren, van maand tot maand.
 
    ` ![](assets/image2017-3-27-11-3a17-3a4.png)
@@ -32,12 +32,12 @@ Controleer hoe goed u mensen door het proces beweegt door te controleren hoeveel
    >**Verwante artikelen**
    >
    >
-   >[Gebruik een slimme lijst om uw rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) aan specifieke mensen te filtreren.
+   >[Gebruik een slimme lijst om uw ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) rapport te filteren op specifieke personen.
 
    >[!NOTE]
    >
    >**Diep duiken**
    >
    >
-   >Leer hoe te om kolommen en meer in de [Basis toe te voegen meldt](http://docs.marketo.com/display/docs/basic+reporting) diep duik.
+   >Leer hoe te om kolommen en meer in [Basis toe te voegen meldt](http://docs.marketo.com/display/docs/basic+reporting) diep duik.
 
