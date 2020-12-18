@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Weekends overslaan {#skip-weekends}
+# Weekends {#skip-weekends} overslaan
 
 Wanneer u een campagne automatiseert, wilt u waarschijnlijk niet dat uw e-mails op zaterdag of zondag verschijnen. Zo niet, dan kunt u weekends overslaan.
 
@@ -23,11 +23,11 @@ Wanneer u een campagne automatiseert, wilt u waarschijnlijk niet dat uw e-mails 
 
    ![](assets/two-2.png)
 
-1. Klik op **Instellingen**.
+1. Klik **Instellingen**.
 
    ![](assets/three-2.png)
 
-1. Schakel het selectievakje **Weekends** overslaan in.
+1. Schakel het selectievakje **Weekends overslaan** in.
 
    ![](assets/four-2.png)
 
