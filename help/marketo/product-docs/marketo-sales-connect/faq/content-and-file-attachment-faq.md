@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Een **bestandsbijlage** is net als een bestandsbijlage die u zou gebruiken in uw normale e-mailclient.
 
-**Inhoud** is wat we gebruiken om bestanden te beschrijven (PPT, PDF, Word-document, enz.) dat u wilt worden bijgehouden door Sales Connect.
+**** Inhoud die we gebruiken om bestanden te beschrijven (PPT, PDF, Word-document, enz.) dat u wilt worden bijgehouden door Sales Connect.
 
 Nadat u op die knop hebt geklikt, kunt u een bestand kiezen dat al is geüpload of een nieuw bestand uploadt om te worden bijgehouden. Vervolgens voegen we een koppeling in de e-mail of template in die u gebruikt.
 
