@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een sjabloon gebruiken in het venster Samenstellen {#using-a-template-in-the-compose-window}
 
-## Sjablonen zoeken en gebruiken {#finding-and-using-templates}
+## Sjablonen {#finding-and-using-templates} zoeken en gebruiken
 
 1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld kiezen we **Samenstellen** in de koptekst).
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 ## Sjablooncategorieën vastzetten in het venster Samenstellen {#pinning-template-categories-in-the-compose-window}
 
-Favoriet **maximaal vijf** specifieke sjablooncategorieën om snel toegang te krijgen tot de meest gebruikte sjablonen.
+Favoriete **tot vijf** specifieke malplaatjecategorieën om snelle toegang tot uw meest gebruikte malplaatjes te krijgen.
 
 1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld kiezen we **Samenstellen** in de koptekst).
 
@@ -51,11 +51,11 @@ Favoriet **maximaal vijf** specifieke sjablooncategorieën om snel toegang te kr
 
    ![](assets/pinning-two.png)
 
-1. Klik op de vervolgkeuzelijst **Een categorie** vastzetten en selecteer de gewenste categorie.
+1. Klik **Vastzetten een drop-down Categorie** en selecteer uw gewenste categorie.
 
    ![](assets/pinning-three.png)
 
-1. Klik op Wijzigingen **** opslaan als u klaar bent (optioneel): Herhaal Stap 3 om meer toe te voegen).
+1. Klik **Wijzigingen opslaan** wanneer gereed (optioneel): Herhaal Stap 3 om meer toe te voegen).
 
    ![](assets/pinning-four.png)
 
@@ -67,7 +67,7 @@ Favoriet **maximaal vijf** specifieke sjablooncategorieën om snel toegang te kr
 
    >[!NOTE]
    >
-   >**Favorieten** zijn er standaard. Deze bevat favoriete e-mailsjablonen, geen rubrieken.
+   >**** Favorieten zijn er standaard. Deze bevat favoriete e-mailsjablonen, geen rubrieken.
 
    >[!NOTE]
    >
