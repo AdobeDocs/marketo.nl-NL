@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Pre-fill voor een formulierveld uitschakelen {#disable-pre-fill-for-a-form-field}
+# Pre-fill voor een formulierveld {#disable-pre-fill-for-a-form-field} uitschakelen
 
 Wanneer een webbezoeker bekend (gekoeld) is, vullen Marketo-formulieren standaard velden met hun gegevens in. Als je dit wilt uitschakelen, is dit hoe je het moet doen.
 
 >[!NOTE]
 >
->**Formulier vooraf invullen** is standaard ingeschakeld. De instellingen voor het vooraf invullen van het paginaniveau en de instellingen voor het vooraf invullen van het beheerniveau gaan ten koste van de instelling voor het formulierniveau:
+>**Vooraf** invullen van formulier is standaard ingeschakeld. De instellingen voor het vooraf invullen van het paginaniveau en de instellingen voor het vooraf invullen van het beheerniveau gaan ten koste van de instelling voor het formulierniveau:
 >
 >Formulier &lt; bestemmingspagina &lt; beheerder
 
@@ -25,7 +25,7 @@ Wanneer een webbezoeker bekend (gekoeld) is, vullen Marketo-formulieren standaar
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -33,7 +33,7 @@ Wanneer een webbezoeker bekend (gekoeld) is, vullen Marketo-formulieren standaar
    >
    >Vooraf invullen van formulier werkt niet bij het insluiten van een formulier op uw eigen pagina&#39;s. Het werkt alleen op Marketo-landingspagina&#39;s.
 
-1. Selecteer een van de velden en stel **Formulier** **vóór****vulling** in op **Uitgeschakeld**.
+1. Selecteer een van de velden en stel **Formulier** **Pre**-**fill** in op **Uitgeschakeld**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -41,11 +41,11 @@ Wanneer een webbezoeker bekend (gekoeld) is, vullen Marketo-formulieren standaar
    >
    >U kunt het vooraf invullen van formulieren ook uitschakelen op het niveau van de bestemmingspagina of op het niveau van de beheerder.
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 
@@ -55,5 +55,5 @@ Mooi werk!
 >
 >**Diep duiken**
 >
->Meer informatie over [formulieren](http://docs.marketo.com/display/docs/forms)?
+>Wilt u meer informatie over [formulieren](http://docs.marketo.com/display/docs/forms)?
 
