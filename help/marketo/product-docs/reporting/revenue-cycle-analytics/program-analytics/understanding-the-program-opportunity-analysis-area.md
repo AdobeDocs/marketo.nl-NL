@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Het gebied van de Analyse van de Kans van het Programma {#understanding-the-program-opportunity-analysis-area}
+# Het begrip van het Gebied van de Analyse van de Kans van het Programma {#understanding-the-program-opportunity-analysis-area}
 
 ## Overzicht {#overview}
 
@@ -35,7 +35,7 @@ Welke Kansen beïnvloedden een bepaald Programma?
 
 ![](assets/four-1.png)
 
-## Analyse van kenmerken van programmamogelijkheid (blauwe stippen) {#program-opportunity-analysis-attribution-measures-blue-dots}
+## Analyse van de Kans van het programma Attributiemaatregelen (Blauwe Dots) {#program-opportunity-analysis-attribution-measures-blue-dots}
 
 De maatregelen die u in analyse kunt gebruiken zijn over het algemeen aantallen en worden vertegenwoordigd door blauwe punten. Dimension zijn kenmerken die verschillende weergaven van de meetwaarden geven en worden weergegeven door gele stippen.
 
@@ -169,15 +169,15 @@ Terwijl metingen (blauwe stippen) worden berekend en enige overweging en uitleg 
   </tr> 
   <tr> 
    <td>Opportuniteitskenmerken</td> 
-   <td><p>Opportunity<br>ClosedOpportunity Name*<br>Opportunity-eigenaar<br>NameOpportunity<br>StageOpportunity-type</p></td> 
+   <td><p>Opportunity Closed<br>Naam opportuniteit*<br>Naam opportuniteitseigenaar<br>Opportunity Stage<br>Type opportuniteit</p></td> 
   </tr> 
   <tr> 
    <td>Tijdskader voor opportunity</td> 
-   <td><p>Opportunity afgesloten jaar/kwartaal/<br>maandMogelijkheid gemaakt jaar/kwartaal/maand</p></td> 
+   <td><p>Opportunity closed year/Quarter/Month<br>Opportunity Created Year/Quarter/Month</p></td> 
   </tr> 
   <tr> 
    <td>Programmakenmerken</td> 
-   <td><p>Naam<br>van programmaChannelProgram</p></td> 
+   <td><p>Programmakanaal<br>Programmanaam</p></td> 
   </tr> 
   <tr> 
    <td>Tijdslimiet voor programmakosten</td> 
