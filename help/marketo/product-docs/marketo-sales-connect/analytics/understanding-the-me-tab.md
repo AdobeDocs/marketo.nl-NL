@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De tab Me {#understanding-the-me-tab}
+# De Tab {#understanding-the-me-tab}
 
 Op het tabblad Op mij geven we u het aantal verzonden e-mails weer, evenals het aantal e-mails dat via een sjabloon is verzonden met de e-mailactiviteit.
 
