@@ -17,15 +17,15 @@ Een doel-URL bevindt zich onder de pagina Campagne instellen en definieert de sp
 
 ## Een doel-URL toevoegen voor dialoogvenster- of widgetwebcampagnes {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. Ga naar **webcampagnes**.
+1. Ga naar **Webcampagnes**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Selecteer Nieuwe webcampagne **maken**.
+1. Selecteer **Nieuwe webcampagne maken**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Voeg een **campagnenaam** toe. Selecteer een **doelsegment**. Voeg **doel-URL** toe.
+1. Voeg een **Campagnenaam** toe. Selecteer een **Doelsegment**. Voeg **Doel-URL** toe.
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -50,7 +50,7 @@ Een doel-URL bevindt zich onder de pagina Campagne instellen en definieert de sp
 
 ## Meerdere URL&#39;s toevoegen aan doel-URL {#adding-multiple-urls-to-target-url}
 
-Als u op het plusteken klikt (![—](assets/image2015-2-18-8-3a40-3a59.png)), wordt het dialoogvenster Meerdere waarden invoeren geopend en worden meerdere URL&#39;s toegevoegd. Voeg één URL per regel toe.
+Als u op het plusteken (![—](assets/image2015-2-18-8-3a40-3a59.png)) klikt, wordt het dialoogvenster Meerdere waarden geopend om meerdere URL&#39;s toe te voegen. Voeg één URL per regel toe.
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
@@ -64,15 +64,15 @@ Als u op het plusteken klikt (![—](assets/image2015-2-18-8-3a40-3a59.png)), wo
 
 ## Een doel-URL toevoegen voor webcampagnes in zone {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. Ga naar **webcampagnes** **voor meer informatie**.
+1. Ga naar **Web** **Campagnes**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
-1. Selecteer Nieuwe webcampagne **maken**.
+1. Selecteer **Nieuwe webcampagne maken**.
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. Voeg een** Campagne Naam** toe. Selecteer een **doelsegment**. Voeg **doel-URL** toe.
+1. Voeg een** Campagne Naam** toe. Selecteer een **Doelsegment**. Voeg **Doel-URL** toe.
 
    >[!NOTE]
    Doel-URL met In zones moet een specifieke URL of URL&#39;s definiëren. In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
