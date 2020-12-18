@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# De knop Ontwerpen instellen en het bericht goedkeuren {#set-up-the-dismiss-button-and-approve-the-message}
+# De knop Ontwerpen instellen en het bericht {#set-up-the-dismiss-button-and-approve-the-message} goedkeuren
 
-## Eigenschappen van knop Afwijzen configureren  {#configure-dismiss-button-properties}
+## Eigenschappen van knop Afwijzen configureren {#configure-dismiss-button-properties}
 
 De knoop van de Ontkenning heeft vele opties om u het te laten vormen zoals u wilt.
 
@@ -45,7 +45,7 @@ De knoop van de Ontkenning heeft vele opties om u het te laten vormen zoals u wi
    >
    >U moet de knop Afwijzen een tikactie geven, dus er is geen selectievakje om deze in te schakelen. Bericht negeren is de (voor de hand liggende) standaardkeuze.
 
-## Omhoog plaatsen {#wrap-it-up}
+## {#wrap-it-up} omsluiten
 
 Alle selecties voor de afbeeldingen, tekst en knoppen zijn automatisch opgeslagen. Nu ben je klaar om het werk af te maken.
 
@@ -57,13 +57,13 @@ Alle selecties voor de afbeeldingen, tekst en knoppen zijn automatisch opgeslage
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. Als u tevreden bent met het bericht in de app, klikt u op **Goedkeuren en sluiten**.
+1. Als u tevreden bent met het in-app bericht, klik **Goedkeuren &amp; Sluiten**.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >U kunt ook rechtstreeks **Goedkeuren en sluiten** selecteren in de vervolgkeuzelijst Berichthandelingen (zie stap 1), maar waarom niet eerst een voorvertoning van het bericht weergeven, alleen om veilig te zijn?
+   >U kunt **Goedkeuren &amp; Sluiten** van de drop-down Acties van het Bericht ook selecteren (zie stap 1), maar waarom niet voorproef eerst het bericht, enkel om veilig te zijn?
 
 1. Als u de editor wilt sluiten zonder deze goed te keuren, sluit u gewoon het tabblad. Het wordt automatisch opgeslagen, zodat kunt u het later terugkeren en goedkeuren.
 
@@ -71,7 +71,7 @@ Alle selecties voor de afbeeldingen, tekst en knoppen zijn automatisch opgeslage
 
 Zoveel keuzes, maar nu heb je een geweldige boodschap in de app, klaar om te gaan!
 
-Nu is het tijd om je [bericht](http://docs.marketo.com/display/docs/send+your+in-app+message)te verzenden.
+Nu is het tijd om [uw bericht te verzenden](http://docs.marketo.com/display/docs/send+your+in-app+message).
 
 >[!MORELIKETHIS]
 >
