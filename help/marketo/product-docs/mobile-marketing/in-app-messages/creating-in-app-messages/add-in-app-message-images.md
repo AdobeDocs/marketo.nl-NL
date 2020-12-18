@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Berichtafbeeldingen in de app toevoegen {#add-in-app-message-images}
+# Voeg in-app berichtbeelden {#add-in-app-message-images} toe
 
 Hier kiest en past u uw in-app berichtafbeeldingen aan.
 
-1. Selecteer het bericht in de app en klik op Concept **** bewerken.
+1. Selecteer het bericht in de app en klik op **Concept bewerken**.
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
@@ -23,19 +23,19 @@ Hier kiest en past u uw in-app berichtafbeeldingen aan.
 
    >[!TIP]
    >
-   >Wat is het verschil tussen de sjablonen? Zie Een lay-out [kiezen voor uw bericht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) in de app voordat u aan de slag gaat.
+   >Wat is het verschil tussen de sjablonen? Zie [Kies een Lay-out voor Uw In-App Bericht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) alvorens u begint.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Klik op het tabblad **Stijl** en klik in het afbeeldingsgebied van de sjabloon.
+1. Klik op het tabblad **Stijl** en klik op het afbeeldingsgebied van de sjabloon.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. Klik op Afbeelding **** selecteren.
+1. Klik **Selecteer Afbeelding**.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. Selecteer uw afbeelding in de Design Studio en klik op **Selecteren**.
+1. Selecteer uw afbeelding in de Design Studio en klik op **Select**.
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -43,11 +43,11 @@ Hier kiest en past u uw in-app berichtafbeeldingen aan.
    >
    >Afbeeldingsgrootte is beperkt tot 1440 x 2560 px en 5 MB.
 
-1. Bent u van mening en wilt u een andere afbeelding gebruiken? Geen probleem. Klik op de **X** naast de bestandsnaam van de afbeelding.
+1. Bent u van mening en wilt u een andere afbeelding gebruiken? Geen probleem. Klik op **X** naast de bestandsnaam van de afbeelding.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. Klik op **Verwijderen**. Nu kun je een andere kiezen.
+1. Klik **Verwijderen**. Nu kun je een andere kiezen.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
@@ -67,7 +67,7 @@ Hier kiest en past u uw in-app berichtafbeeldingen aan.
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. Selecteer een marge (aan of uit). **Aan** is de standaardinstelling.
+1. Selecteer een marge (aan of uit). **** Onis de standaardinstelling.
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
@@ -85,9 +85,9 @@ Hier kiest en past u uw in-app berichtafbeeldingen aan.
 
    >[!NOTE]
    >
-   >Voor tikacties voor afbeeldingen, knoppen of achtergronden kunt u verschillende handelingen instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld op verschillende manieren afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, verlaat andere in het gebrek plaatsend of selecteer **niets**.
+   >Voor tikacties voor afbeeldingen, knoppen of achtergronden kunt u verschillende handelingen instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld op verschillende manieren afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, verlaat andere in het gebrek dat plaatst of **niets** selecteert.
 
-Geweldig werk! Het is nu tijd om de tekst voor uw bericht [in de app te](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)maken.
+Geweldig werk! Nu is het tijd om [de tekst voor uw in-app bericht te maken](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
 >[!MORELIKETHIS]
 >
