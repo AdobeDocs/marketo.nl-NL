@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een mobiel pushbericht verzenden {#send-a-mobile-push-notification}
+# Verzend een Mobiel Bericht van de Duw {#send-a-mobile-push-notification}
 
 Stuur een pushmelding naar mensen die uw mobiele app gebruiken.
 
@@ -24,19 +24,19 @@ Stuur een pushmelding naar mensen die uw mobiele app gebruiken.
 
 
 
-1. Ga naar het gebied **Marketingactiviteiten** .
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. Selecteer uw slimme campagne en klik op **Slimme lijst**.
+1. Selecteer uw slimme campagne en klik **Slimme Lijst**.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. Definieer de slimme lijst en klik op **STROMEN.**
+1. Definieer uw slimme lijst en klik vervolgens op **FLOW.**
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Selecteer een pushmelding. Klik op **Schema**
+1. Selecteer een pushmelding. Klik **Schema**
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -44,11 +44,11 @@ Stuur een pushmelding naar mensen die uw mobiele app gebruiken.
    >
    >De pushmelding moet worden goedgekeurd voordat deze op de vervolgkeuzelijst wordt weergegeven.
 
-1. Klik eenmaal **uitvoeren**
+1. Klik **Eenmaal uitvoeren**
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Kies een datum en tijd. Klik op **OPSLAAN.**
+1. Kies een datum en tijd. Klik **OPSLAAN.**
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 
