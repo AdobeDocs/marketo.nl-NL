@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Nadat u honderden campagnes van de Personalisatie van het Web hebt gecreeerd, helpt het echt om filters te kunnen gebruiken om slechts degenen te bekijken u in geinteresseerd bent.
 
-1. Ga naar **webcampagnes.**
+1. Ga naar **Webcampagnes.**
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Klik op de pagina Webcampagnes op **Filter**.
+1. Voor de pagina van de Campagnes van het Web, klik **Filter**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Schakel het selectievakje in voor de status en/of het type campagne waarvoor u wilt filteren, bijvoorbeeld **Gepauzeerd** of **Dialoogvenster**. Klik op **Toepassen**.
+1. Schakel het selectievakje in voor de status en/of het type campagne waarvoor u wilt filteren, bijvoorbeeld **Gepauzeerd** of **Dialoogvenster**. Klik **Toepassen**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
    >[!TIP]
    >
-   >Met het selectievakje Alles **** selecteren kiest u alles of met de koppeling **Wissen** wist u alle selectievakjes.
+   >Gebruik het selectievakje **Alles selecteren** om alles te kiezen of de koppeling **Wissen** om alle selectievakjes te wissen.
 
 1. Nu worden alleen campagnes weergegeven die overeenkomen met uw filter.
 
