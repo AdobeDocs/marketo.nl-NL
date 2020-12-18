@@ -19,7 +19,7 @@ Het is eenvoudig om velden op een Marketo-formulier opnieuw te ordenen. Zo gaat 
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/editform.png)
 
@@ -37,5 +37,5 @@ Geweldig werk! Je bent aan het roken.
 >
 >**Diep duiken**
 >
->Meer informatie over [formulieren](http://docs.marketo.com/display/docs/forms)?
+>Wilt u meer informatie over [formulieren](http://docs.marketo.com/display/docs/forms)?
 
