@@ -16,7 +16,7 @@ ht-degree: 0%
 Sales Connect wordt geleverd met twee standaardcategorieën voor het organiseren van uw sjablonen.
 
 1. Klik op het pictogram **+** naast **Categorieën**.
-1. Voer een naam in voor de nieuwe categorie en klik op **Maken**.
+1. Voer een naam voor de nieuwe categorie in en klik op **Maken**.
 
    De nieuwe categorie wordt nu weergegeven in het navigatiemenu.
 
