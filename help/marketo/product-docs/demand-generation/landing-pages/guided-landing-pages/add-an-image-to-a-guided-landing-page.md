@@ -15,7 +15,7 @@ ht-degree: 0%
 
 In tegenstelling tot de openstaande bestemmingspagina&#39;s, hebben de geleide landingspagina&#39;s vooraf gedefinieerde, vergrendelde ruimten waar u afbeeldingen toevoegt.
 
-1. Selecteer een geleide landingspagina. Klik op Concept **** bewerken.
+1. Selecteer een geleide landingspagina. Klik **Concept bewerken**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -31,7 +31,7 @@ In tegenstelling tot de openstaande bestemmingspagina&#39;s, hebben de geleide l
 
    >[!NOTE]
    >
-   >De manier waarop de afbeelding wordt vergroot of verkleind, is afhankelijk van de sjabloon. Meer informatie over sjablonen voor bestemmingspagina&#39;s met [instructies](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >De manier waarop de afbeelding wordt vergroot of verkleind, is afhankelijk van de sjabloon. Meer informatie over [Sjablonen voor bestemmingspagina met instructies](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
