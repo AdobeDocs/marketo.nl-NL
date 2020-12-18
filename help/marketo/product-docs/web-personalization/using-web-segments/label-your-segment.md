@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Uw segment labelen {#label-your-segment}
+# Label uw segment {#label-your-segment}
 
 Hebt u zoveel segmenten dat het schuiven omslachtig wordt? Gebruik labels om de segmenten te labelen, zodat u ze snel kunt vinden.
 
-## Een segment coderen {#tag-a-segment}
+## Een segment {#tag-a-segment} labelen
 
-1. Log in Web Personalization en ga naar **Segments**.
+1. Log in Web Personalization and go to **Segments**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -25,11 +25,11 @@ Hebt u zoveel segmenten dat het schuiven omslachtig wordt? Gebruik labels om de 
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Als u een bestaand label wilt gebruiken, klikt u op Label **** instellen, schakelt u een selectievakje in en klikt u op **Toepassen**.
+1. Als u een bestaand label wilt gebruiken, klikt u op **Label instellen**, schakelt u een selectievakje in en klikt u op **Toepassen**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. U kunt ook een nieuw label maken door op Label **** instellen te klikken, de nieuwe labelnaam in te voeren en op Nieuw **** maken te klikken.
+1. Als u een nieuw label wilt maken, klikt u op **Label instellen**, voert u de nieuwe labelnaam in en klikt u op **Nieuw** maken.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 
