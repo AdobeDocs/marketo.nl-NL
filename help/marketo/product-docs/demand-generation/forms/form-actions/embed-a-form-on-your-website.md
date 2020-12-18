@@ -23,22 +23,22 @@ Met Marketo kunt u uw formulieren insluiten op uw eigen website. Hieronder wordt
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. Klik onder **Formulierhandelingen** **op** Code **insluiten** ****.
+1. Klik onder **Formulier** **Handelingen** op **Insluiten** **Code**.
 
    >[!NOTE]
    >
    >**Herinnering**
    >
    >
-   >Het **item** Code **** insluiten kan alleen zichtbaar/bruikbaar zijn als het formulier is goedgekeurd.
+   >Het formulier moet worden goedgekeurd om het **Embed** **Code**-item zichtbaar/bruikbaar te maken.
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >** [Vooraf ingevuld](../../../../product-docs/administration/settings/edit-landing-page-settings.md)formulier** werkt niet als u de code voor het insluiten van formulieren op uw eigen pagina&#39;s *of* een bestemmingspagina van Marketo gebruikt. Vooraf invullen van formulier is alleen bedoeld om te werken wanneer het formulier wordt gebruikt in een bestemmingspagina voor Marketo via de optie Element invoegen.
+   >** [Formulier vooraf invullen](../../../../product-docs/administration/settings/edit-landing-page-settings.md)** werkt niet wanneer u de insluitcode van het formulier gebruikt op uw eigen pagina *of* een bestemmingspagina van Marketo. Vooraf invullen van formulier is alleen bedoeld om te werken wanneer het formulier wordt gebruikt in een bestemmingspagina voor Marketo via de optie Element invoegen.
 
-1. Selecteer/kopieer de insluitcode en klik vervolgens op **Sluiten**.
+1. Selecteer/kopieer de ingebedde code, dan klik **Close**.
 
    ![](assets/image2014-9-15-12-3a12-3a31.png)
 
@@ -50,6 +50,6 @@ Geef nu gewoon de insluitcode aan uw webontwikkelaar en laat deze deze toevoegen
 
 >[!NOTE]
 >
->Als uw ontwikkelaar het uiterlijk wil aanpassen of toegang wil krijgen tot geavanceerde API-functies, geeft u deze de [Forms 2.0 Developers Page](http://developers.marketo.com/documentation/websites/forms-2-0/)weer.
+>Als uw ontwikkelaar de blik of toegang tot geavanceerde API functies wilt aanpassen, toon hen [Forms 2.0 de Pagina van Ontwikkelaars](http://developers.marketo.com/documentation/websites/forms-2-0/).
 
-Geweldig werk! Wilt u dat de [insluitcode de lichtbakcode](use-a-form-in-a-lightbox.md)bevat? Dat is ook makkelijk!
+Geweldig werk! Wilt u de [insluitcode lichtbakcode](use-a-form-in-a-lightbox.md) opnemen? Dat is ook makkelijk!
