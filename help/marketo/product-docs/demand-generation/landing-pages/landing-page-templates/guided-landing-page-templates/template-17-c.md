@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Template 17-C {#template-c}
+# Sjabloon 17-C {#template-c}
 
 [Sjabloon 17-C downloaden](http://docs.marketo.com/download/attachments/9438197/template-17c.html?version=1&amp;modificationdate=1439843025000&amp;api=v2)
 
