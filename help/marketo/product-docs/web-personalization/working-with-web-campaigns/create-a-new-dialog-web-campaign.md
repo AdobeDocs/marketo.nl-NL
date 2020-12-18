@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Nieuwe webcampagne voor dialoog maken {#create-a-new-dialog-web-campaign}
+# Nieuwe webcampagne voor dialoogvenster maken {#create-a-new-dialog-web-campaign}
 
-## Een dialoogvenstercampagne maken {#create-a-dialog-web-campaign}
+## Een dialoogvensterwebcampagne maken {#create-a-dialog-web-campaign}
 
 Maak een webcampagne om uw webinhoud in real-time aan te passen en de juiste boodschap af te geven aan de juiste gebruiker op het juiste moment.
 
-Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek segment. De reactie kan een dialoogvenster op uw website zijn, een [functie voor het vervangen](create-a-new-in-zone-web-campaign.md)van een zone, een [widgetfunctie](create-a-new-widget-web-campaign.md)of een e-mailwaarschuwing.
+Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek segment. De reactie kan een dialoogdoos op uw website, een [in zonevervanging](create-a-new-in-zone-web-campaign.md), een [widgeteigenschap](create-a-new-widget-web-campaign.md)of een e-mailalarm zijn.
 
-1. Ga naar **webcampagnes**.
+1. Ga naar **Webcampagnes**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. Selecteer Nieuwe webcampagne **maken**.
+1. Selecteer **Nieuwe webcampagne maken**.
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. Selecteer het type **Dialog** -webcampagne. Ontwerp en voeg creatieve elementen toe in de editor. Klik op **Voorvertonen** om te zien hoe de webcampagne op uw site reageert.
+1. Selecteer het **Dialog** type van Webcampagne. Ontwerp en voeg creatieve elementen toe in de editor. Klik **Voorvertoning** om te zien hoe de webcampagne op uw site reageert.
 
    ![](assets/new-3.png)
 
@@ -41,7 +41,7 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Weergeven ingeschakeld</strong></td> 
-   <td colspan="1">Hiermee kunt u <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">aanpassen wanneer en hoe</a> uw webcampagne wordt weergegeven.</td> 
+   <td colspan="1">Hiermee kunt u <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">aanpassen wanneer en hoe</a> uw webcampagneweergaven worden weergegeven.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Dialoogvensterstijl</strong></td> 
@@ -111,7 +111,7 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
   </tr> 
   <tr> 
    <td colspan="1"><strong>RTF-editor</strong></td> 
-   <td colspan="1"><p>Met de RTF-editor kunt u tekst opmaken, koppelen en afbeeldingen invoegen. <a href="using-the-web-personalization-rich-text-editor.md">Lees hier</a>meer.</p></td> 
+   <td colspan="1"><p>Met de RTF-editor kunt u tekst opmaken, koppelen en afbeeldingen invoegen. <a href="using-the-web-personalization-rich-text-editor.md">Lees hier</a> meer.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Voorvertonen op site</strong></td> 
@@ -119,7 +119,7 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
     <ul> 
      <li>URL - Voer een voorbeeld-URL in waar de campagne wordt uitgevoerd om een voorbeeld te zien van hoe de campagne er live uitziet.</li> 
      <li>Apparaat - Voorproef hoe uw campagne door apparaat zal verschijnen: Desktop, mobiel portret, mobiel landschap, tablet-Staand, staand liggend.<br></li> 
-     <li>Voorvertoning - Klik op <strong>Voorvertoning </strong>om een nieuw venster met de voorbeeld-URL te openen om te zien hoe de campagne reageert. </li> 
+     <li>Voorvertoning - Klik <strong>Voorvertoning </strong>om een nieuw venster met de voorbeeld-URL te openen om te zien hoe de campagne reageert. </li> 
      <li>Delen - Gebruik de knop Delen om een e-mail te sturen naar een collega met een koppeling om de proxycampagne te bekijken.</li> 
     </ul></td> 
   </tr> 
@@ -128,29 +128,29 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
 
 >[!TIP]
 >
->Versnel en vereenvoudig het maken van uw campagne met onze [ingebouwde sjablonen](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) of door uw bestaande campagne [op te](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) slaan als een sjabloon voor hergebruik.
+>Versnel en vereenvoudig het maken van uw campagne door onze [ingebouwde sjablonen](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) of [uw bestaande campagne](../../../product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md) als sjabloon voor hergebruik op te slaan.
 
 ## Een webcampagne bewerken {#edit-a-web-campaign}
 
-1. Klik op de pagina **Webcampagnes** op **Bewerken** **** in de webcampagne.
+1. Van **Web** **Campagnes** pagina, klik **Edit** op de Webcampagne.
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
 >[!NOTE]
 >
->Met de [filterfunctie](filter-web-campaigns.md)kunt u gemakkelijker de gewenste webcampagne vinden.
+>Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik [filtereigenschap](filter-web-campaigns.md).
 
 ## Een webcampagne voorvertonen {#preview-a-web-campaign}
 
-1. Klik op de pagina **Webcampagnes** op **Voorvertoning** op de webcampagne die u wilt weergeven.
+1. Van **Webcampagnes** pagina, klik **Voorproef** op de Webcampagne u wenst om te bekijken.
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
 ## Een webcampagne klonen {#clone-a-web-campaign}
 
-Zie Een webcampagne [klonen](clone-a-web-campaign.md).
+Zie [Een webcampagne klonen](clone-a-web-campaign.md).
 
-## Een webcampagne verwijderen {#delete-a-web-campaign}
+## Een webcampagne {#delete-a-web-campaign} verwijderen
 
 1. Klik op de pagina **Webcampagnes** op **Verwijderen **op de webcampagne die u wilt verwijderen.
 
