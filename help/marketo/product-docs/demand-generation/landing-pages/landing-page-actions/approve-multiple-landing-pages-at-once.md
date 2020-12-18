@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
-1. Klik op Pagina&#39;s **landen.**
+1. Klik **Pagina&#39;s landen.**
 
    ![](assets/image2014-9-17-11-3a35-3a11.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >Klik niet op de werkelijke naam van de bestemmingspagina. Dit zijn koppelingen en u gaat naar de pagina zelf.
 
-1. Selecteer de bestemmingspagina&#39;s en ga naar Handelingen **voor** bestemmingspagina en klik op **Goedkeuren.**
+1. Als de bestemmingspagina&#39;s zijn geselecteerd, gaat u naar **Handelingen voor bestemmingspagina** en klikt u op **Goedkeuren.**
 
    ![](assets/image2014-9-17-11-3a35-3a27.png)
 
