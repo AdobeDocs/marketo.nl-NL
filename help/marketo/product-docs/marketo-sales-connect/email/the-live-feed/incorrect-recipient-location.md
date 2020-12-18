@@ -19,4 +19,4 @@ Als we de locatie verkeerd hebben voor de ontvangers, zijn er drie mogelijkheden
 
 - Als uw e-mail door iemand op CC of BCC gebied door:sturen of werd geopend, proberen wij om de plaats van die mensen nauwkeurig te tonen.
 
-Globaal, zullen wij plaatsen zo nauwkeurig bepalen zoals wij op IP het volgen kunnen baseren, maar jammer genoeg het `isn't an exact science`.
+Al met al, zullen wij plaatsen zo nauwkeurig bepalen zoals wij op IP het volgen kunnen baseren, maar jammer genoeg `isn't an exact science`.
