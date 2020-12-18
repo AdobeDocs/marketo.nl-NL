@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Een slimme lijst definiëren voor activiteiten van webpersonalisatie {#define-a-smart-list-for-web-personalization-activities}
+# Een slimme lijst definiëren voor de Personalisatieactiviteiten van het web {#define-a-smart-list-for-web-personalization-activities}
 
 U kunt de activiteiten van de Personalisatie van het Web in filters en trekkers gebruiken wanneer u een slimme lijst in een slimme campagne bepaalt. Hier, wilt u iedereen vangen die een vraag van de Personalisatie van het Web aan actie (campagne) klikte.
 
 Gebruik een trigger om een e-mail of waarschuwing te verzenden, of wijzig een waarde of score op basis van bezoekers die hebben geklikt en een webpersonalisatie-aanroep hebben geactiveerd. U kunt die lood ook filtreren en bekijken die op een vraag van de Personalisatie van het Web aan actie klikte.
 
-1. Klik in uw slimme campagne op het tabblad **Slimme lijst** .
+1. In uw slimme campagne, klik **Slimme Lijst** tabel.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
@@ -26,7 +26,7 @@ Gebruik een trigger om een e-mail of waarschuwing te verzenden, of wijzig een wa
    >**Diep duiken**
    >
    >
-   >Slimme lijsten kunnen verbazingwekkende dingen doen. Leer meer in de [Slimme Diepte van de Lijst](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Slimme lijsten kunnen verbazingwekkende dingen doen. Leer meer in [Slimme Deep van de Lijst Dive](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Zoek de trigger en sleep de trigger naar het canvas.
 
