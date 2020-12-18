@@ -11,45 +11,45 @@ ht-degree: 0%
 ---
 
 
-# Voer uw ON24-referenties in Marketo in {#enter-your-on-credentials-in-marketo}
+# Voer uw ON24 Credentials in Marketo {#enter-your-on-credentials-in-marketo} in
 
 Laten we aan de slag gaan met uw ON24-gebeurtenisintegratie. Als u ooit uw geloofsbrieven moet uitgeven of schrappen, zijn die stappen ook inbegrepen hieronder.
 
-## Credentials invoeren {#enter-credentials}
+## Credentials {#enter-credentials} invoeren
 
-1. Meld u aan bij Marketo en klik op **Beheer**.
+1. Meld u aan bij Marketo en klik op **Admin**.
 
    ![](assets/admin.png)
 
-1. Klik in Integratie op **LaunchPoint**.
+1. In Integratie, klik **LaunchPoint**.
 
    ![](assets/image2015-12-22-13-3a15-3a38.png)
 
-1. Klik onder Geïnstalleerde services op **Nieuw** en vervolgens op **Nieuwe service**.
+1. Klik onder Geïnstalleerde services op **Nieuw** en **Nieuwe service**.
 
    ![](assets/image2015-12-22-13-3a18-3a54.png)
 
 1. Voer in het dialoogvenster Nieuwe service de volgende gegevens in:
 
-   * **Weergavenaam** - Voer een naam in voor gebruik in Marketo. Dit kan uw naam of de naam van uw groep zijn als u geloofsbrieven deelt.
-   * **Service** - Selecteer **On24** in het keuzemenu.
+   * **Weergavenaam**  - Voer een naam in voor gebruik in Marketo. Dit kan uw naam of de naam van uw groep zijn als u geloofsbrieven deelt.
+   * **Service**  - Selecteer  **On24**  van het drop-down menu.
 
-   * **Client Key** - Voer de ON24 Client Key in die u gebruikt voor aanmelden. De clientsleutel is een tekenreeks van 32 cijfers met een combinatie van letters en cijfers.
-   * **Client ID** - Voer de 4-cijferige ON24-client-id in die u gebruikt voor aanmelden. U kunt de client-id en de clientsleutel rechtstreeks verkrijgen via uw ON24-accountmanager.
+   * **Client Key**  - Voer de ON24 Client Key in die u gebruikt voor aanmelden. De clientsleutel is een tekenreeks van 32 cijfers met een combinatie van letters en cijfers.
+   * **Client ID**  - Voer de 4-cijferige ON24-client-id in die u gebruikt voor aanmelden. U kunt de client-id en de clientsleutel rechtstreeks verkrijgen via uw ON24-accountmanager.
 
    ![](assets/image2015-12-22-13-3a38-3a52.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/image2015-12-22-13-3a28-3a55.png)
 
 1. Wanneer de geloofsbrieven met succes worden bevestigd, worden zij toegevoegd aan de Geïnstalleerde pagina van de Diensten. Als er een fout optreedt, kunt u de gegevens niet opslaan.
 
-## Credentials bewerken {#edit-credentials}
+## Referenties bewerken {#edit-credentials}
 
 U kunt uw referenties bewerken als uw wachtwoord verloopt of als u een bestaande referentie moet wijzigen.
 
-1. Selecteer op het tabblad Geïnstalleerde services de referentie die u wilt bewerken en klik op Service **** bewerken.
+1. Selecteer op het tabblad Geïnstalleerde services de referentie die u wilt bewerken en klik op **Service bewerken**.
 
    ![](assets/six.png)
 
@@ -57,17 +57,17 @@ U kunt uw referenties bewerken als uw wachtwoord verloopt of als u een bestaande
 
    ![](assets/seven.png)
 
-## Een service verwijderen {#delete-a-service}
+## Service {#delete-a-service} verwijderen
 
-1. Selecteer op het tabblad Geïnstalleerde services de service die u wilt verwijderen, klik op de vervolgkeuzelijst **Servicehandelingen** en selecteer Service **** verwijderen.
+1. Selecteer op het tabblad Geïnstalleerde services de service die u wilt verwijderen, klik op de vervolgkeuzelijst **Servicehandelingen** en selecteer **Service verwijderen**.
 
    ![](assets/eight.png)
 
-1. Klik op **Verwijderen**.
+1. Klik **Delete**.
 
    ![](assets/nine.png)
 
-De volgende stap bestaat uit het [maken van uw webinar-gebeurtenis in ON24](create-your-webinar-event-in-on24.md).
+Uw volgende stap is om [uw webinar gebeurtenis in ON24 te creëren](create-your-webinar-event-in-on24.md).
 
 >[!MORELIKETHIS]
 >
