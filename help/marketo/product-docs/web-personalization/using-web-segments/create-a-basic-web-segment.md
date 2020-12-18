@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een basiswebsegment maken {#create-a-basic-web-segment}
+# Een standaardwebsegment maken {#create-a-basic-web-segment}
 
 Laten we een basissegment maken voor alle webbezoekers uit de VS en de financiële-dienstenindustrie.
 
@@ -19,7 +19,7 @@ Laten we een basissegment maken voor alle webbezoekers uit de VS en de financië
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Klik op **Nieuw** maken.
+1. Klik **Nieuw maken**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -31,7 +31,7 @@ Laten we een basissegment maken voor alle webbezoekers uit de VS en de financië
 
    ![](assets/location-drag-hand.jpg)
 
-1. Selecteer een land dat u wilt toevoegen in de vervolgkeuzelijst. Selecteer de **Verenigde Staten**.
+1. Selecteer een land dat u wilt toevoegen in de vervolgkeuzelijst. Selecteer **United States**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -43,13 +43,13 @@ Laten we een basissegment maken voor alle webbezoekers uit de VS en de financië
 
    ![](assets/industries-hand.jpg)
 
-1. Selecteer in het keuzemenu Industrieën die u wilt toevoegen. Selecteer de **Financiële Diensten ****Industrie**.
+1. Selecteer in het keuzemenu Industrieën die u wilt toevoegen. Selecteer de **Financial Services ****Industrie**.
 
    ![](assets/segment-industries.png)
 
-   U hebt nu een basissegment opgezet voor alle vooruitzichten om uw website vanuit de VS en de financiële sector te bezoeken.
+   U hebt nu een basissegment opgezet voor alle vooruitzichten om uw website van de VS en de financiële industrie te bezoeken.
 
-1. Klik op** Opslaan ** om het segment op te slaan of Campagne **** opslaan en definiëren om naar de pagina Campagnes te gaan.
+1. Klik op** Opslaan **om het segment op te slaan of op **Campagne opslaan en definiëren** om naar de pagina Campagnes te gaan.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
