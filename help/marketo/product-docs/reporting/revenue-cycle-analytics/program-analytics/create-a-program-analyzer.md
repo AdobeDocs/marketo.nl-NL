@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een programmaanalyse maken {#create-a-program-analyzer}
+# Een Program Analyzer {#create-a-program-analyzer} maken
 
 Ontdek welke programma&#39;s en kanalen u de grootste waar voor uw marketinggeld geven. Gebruik de programmaanalysator om elke kosten te onderzoeken en te vergelijken en gedetailleerd, door programma of door kanaal terug te keren.
 
@@ -19,11 +19,11 @@ Ontdek welke programma&#39;s en kanalen u de grootste waar voor uw marketinggeld
 >
 >**Herinnering**
 >
->Om goede gegevens van een programmaanalysator te krijgen, zorg ervoor uw contacten van CRM rollen in de kansen hebben, en dat uw programma&#39;s van Marketo volledig opstelling zijn, met [periodekosten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), programmastatus, en bepaald succes.
+>Om goede gegevens van een programmaanalysator te krijgen, zorg ervoor uw contacten van CRM rollen in de kansen hebben, en dat uw programma&#39;s van de Marketo volledig opstelling zijn, met [punt kosten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md), programmastatus, en bepaald succes.
 
 >[!TIP]
 >
->Als u wilt dat programma&#39;s zonder kosten worden weergegeven in de programmaanalyse, [stelt u de kosten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) van de periode in op $0.
+>Als u wilt dat programma&#39;s zonder kosten worden weergegeven in de programmaanalyse, stelt u [de kosten van de periode in op $0.](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
 
 1. Klik op de tegel Analytics.
 
@@ -51,7 +51,7 @@ Ontdek welke programma&#39;s en kanalen u de grootste waar voor uw marketinggeld
 
    >[!TIP]
    >
-   >Als u een specifiek bereik wilt selecteren, selecteert u **Aangepast** en gebruikt u de velden **Van** en **Naar** .
+   >Als u een specifiek bereik wilt selecteren, selecteert u **Aangepast** en gebruikt u de velden **Van** en **Naar**.
 
 1. Als u de nieuwe aangepaste analysator wilt opslaan, selecteert u Opslaan als in de vervolgkeuzelijst Handelingen Analyzer.
 
@@ -75,8 +75,8 @@ Ontdek welke programma&#39;s en kanalen u de grootste waar voor uw marketinggeld
 
 >[!NOTE]
 >
->Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is van belang het [verschil tussen FT en MT te begrijpen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Veel van de metriek die u kunt kiezen in de programmaanalysator, zijn beschikbaar met first-touch (FT) en multi-touch (MT) berekeningen. Het is belangrijk om het [verschil tussen FT en MT attributie](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) te begrijpen.
 
 >[!NOTE]
 >
->Meer informatie vindt u in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) and [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Meer informatie vindt u in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting) en [Revenue Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
