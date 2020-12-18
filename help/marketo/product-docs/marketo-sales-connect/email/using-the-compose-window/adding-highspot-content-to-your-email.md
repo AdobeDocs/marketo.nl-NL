@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Inhoud markeren toevoegen aan uw e-mail {#adding-highspot-content-to-your-email}
+# Marktinhoud toevoegen aan uw e-mail {#adding-highspot-content-to-your-email}
 
 Als u een Highspot-klant bent, kunt u eenvoudig Highspot-inhoud invoegen in uw e-mails van Sales Connect.
 
@@ -23,7 +23,7 @@ Als u een Highspot-klant bent, kunt u eenvoudig Highspot-inhoud invoegen in uw e
 
    ![](assets/two-5.png)
 
-1. Klik op de plaats in de e-mail waar u de inhoud voor hooglichten wilt invoegen. Klik op de vervolgkeuzelijst met pijlen (naast het pictogram Bijlage) en selecteer **Markeren**.
+1. Klik op de plaats in de e-mail waar u de inhoud voor hooglichten wilt invoegen. Klik de pijldrop-down (naast het gehechepictogram) en selecteer **Highspot**.
 
    ![](assets/three-5.png)
 
@@ -31,7 +31,7 @@ Als u een Highspot-klant bent, kunt u eenvoudig Highspot-inhoud invoegen in uw e
 
    ![](assets/four-5.png)
 
-1. Selecteer de gewenste inhoud en klik op de knop Inhoud **** toevoegen.
+1. Selecteer de gewenste inhoud en klik op de knop **Inhoud toevoegen**.
 
    ![](assets/five-3.png)
 
