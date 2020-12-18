@@ -17,7 +17,7 @@ Op de pagina Content Analytics wordt weergegeven welke door u ontdekte bestaande
 
 ## Content Analytics weergeven {#view-content-analytics}
 
-Ga naar **Inhoud analyseren**.
+Ga naar **Content Analytics**.
 
 ![](assets/one.png)
 
@@ -45,11 +45,11 @@ De tabel Analytics bevat de volgende gegevens:
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Titel</strong></td> 
-   <td colspan="1" rowspan="1">Naam van het element voor digitale inhoud. Klik op <strong>Titel</strong> om de URL van de inhoud op een nieuw tabblad te openen.</td> 
+   <td colspan="1" rowspan="1">Naam van het element voor digitale inhoud. Klik <strong>Titel</strong> om de inhoud-URL in een nieuw tabblad te openen.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Pictogram </strong><strong>Aanbeveling</strong></p><p><strong><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">Geeft aan of het inhoudsonderdeel is toegevoegd voor <a href="#">Content Recommendations</a>.</td> 
+   <td colspan="1"><p><strong>Pictogram  </strong><strong>Aanbeveling</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
+   <td colspan="1">Geeft aan of het inhoudsonderdeel is toegevoegd voor <a href="#">Inhoud Recommendations</a>.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Weergaven</strong></p></td> 
@@ -60,17 +60,17 @@ De tabel Analytics bevat de volgende gegevens:
    <td colspan="1" rowspan="1">Webbezoekers die de inhoud hebben bekeken en een formulier hebben ingevuld tijdens hetzelfde bezoek</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Pictogram Analytics</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Pictogram Analytics</strong></p><p><strong><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
    <td colspan="1">Meer analyses bekijken op het inhoudsonderdeel</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Pictogram verwijderen</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
+   <td colspan="1"><p><strong>Pictogram verwijderen</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
    <td colspan="1">Hiermee wordt de inhoud verwijderd uit Content Analytics</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Aanvullende inhoudanalyse weergeven {#view-additional-content-analytics}
+## Aanvullende inhoudanalyse tonen {#view-additional-content-analytics}
 
 Klik op het pictogram Analytics van een inhoudsonderdeel.
 
@@ -90,9 +90,9 @@ De aanvullende inhoudanalyse omvat:
 
 **Trends**
 
-* Een **Trends** -grafiek die de laatste 30 dagen weergaven van het specifieke inhoudsstuk weergeeft. Houd de muisaanwijzer boven de lijngrafiek om het aantal inhoudsweergaven van een bepaalde dag weer te geven
+* Een **Trends** grafiek die de laatste 30 dagen van meningen van het specifieke inhoudsstuk toont. Houd de muisaanwijzer boven de lijngrafiek om het aantal inhoudsweergaven van een bepaalde dag weer te geven
 
-## Inhoud verwijderen {#delete-content}
+## Inhoud {#delete-content} verwijderen
 
 ![](assets/six.png)
 
