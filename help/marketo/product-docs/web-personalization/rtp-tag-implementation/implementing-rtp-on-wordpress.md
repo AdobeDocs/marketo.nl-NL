@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
 
-1. Open het bestand **header.php** van het **thema** WordPress.
+1. Open het **header.php**-bestand van uw **WordPress thema**.
 
-   U kunt een FTP-client gebruiken om toegang te krijgen tot uw server of de themabestanden rechtstreeks vanuit het WordPress-dashboard bewerken. De bestandseditor bevindt zich onder het tabblad **Weergave** in het zijbalkmenu.
+   U kunt een FTP-client gebruiken om toegang te krijgen tot uw server of de themabestanden rechtstreeks vanuit het WordPress-dashboard bewerken. De bestandseditor bevindt zich onder het tabblad **Vormgeving** in het zijbalkmenu.
 
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
@@ -28,17 +28,17 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
-1. Zoek onder Domein het relevante domein en klik op Tag **** genereren.
+1. Zoek onder Domein het relevante domein en klik op **Tag genereren**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-1.png)
 
 1. Kopieer de RTP JavaScript-tag en plak deze naar uw websitesjablonen.
 
-   Zorg ervoor dat dit het eerste script in de koptekst van de pagina is - tussen de **`<head> </head>`** tags.
+   Zorg ervoor dat dit het eerste script in de koptekst van de pagina is - tussen de **`<head> </head>`**-tags.
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
-1. Klik op Bestand **** bijwerken voor het bestand header.php.
-1. Controleer of het wordt weergegeven op alle `pages including` bestemmingspagina&#39;s en subdomeinen.
+1. Klik op **Bestand bijwerken** voor het bestand header.php.
+1. Controleer of het wordt weergegeven op alle `pages including`-bestemmingspagina&#39;s en subdomeinen.
 
-   U kunt dit doen door met de rechtermuisknop op uw `website’s` pagina te klikken. Ga naar Paginabron **weergeven.** Zoek naar **RTP** om van de markering de plaats te bepalen.
+   U kunt dit doen door met de rechtermuisknop op u `website’s` pagina te klikken. Ga naar **Paginabron weergeven.** Zoek naar  **** RTP om van de markering de plaats te bepalen.
