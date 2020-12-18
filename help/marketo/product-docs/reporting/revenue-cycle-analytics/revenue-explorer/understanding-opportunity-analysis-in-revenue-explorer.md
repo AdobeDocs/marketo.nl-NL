@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De Analyse van de Kans van het begrip in de Ontdekkingsreiziger van de Inkomsten {#understanding-opportunity-analysis-in-revenue-explorer}
+# De Analyse van de Kans van het begrip in Ontdekkingsreiziger {#understanding-opportunity-analysis-in-revenue-explorer}
 
 De Analyse van de kans in de Ontdekkingsreiziger van de Inkomsten staat u toe om uw kansen op een dieper niveau te onderzoeken. De gegevens segmenteren en scheiden op basis van alle kenmerken van leads/bedrijven, zoals de bron van leads, de industrie of de geografie. Analyseer opportuniteitsaanmaak en sluit deze op basis van naam, werkgebied of waarschijnlijkheid. Ontdek de marketingbijdragen aan de pijpleiding.
 
