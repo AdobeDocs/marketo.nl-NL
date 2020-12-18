@@ -23,7 +23,7 @@ U kunt kiezen welke kolommen wel en niet worden opgenomen in uw rapport.
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Klik op het tabblad **Rapport** , klik op een kolomkop en selecteer **Kolommen** en kies vervolgens de kolommen die u wilt opnemen.
+1. Klik **Rapport** tabel, klik dan om het even welke kolomrubriek en selecteer **Kolommen**, en kies dan de kolommen om te omvatten.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
