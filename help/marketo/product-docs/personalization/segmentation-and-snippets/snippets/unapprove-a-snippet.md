@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een fragment goedkeuren ongedaan maken {#unapprove-a-snippet}
+# Een fragment {#unapprove-a-snippet} niet goedkeuren
 
 Een niet-goedgekeurd fragment kan niet worden gebruikt in e-mails of landingspagina&#39;s.
 
@@ -19,13 +19,13 @@ Een niet-goedgekeurd fragment kan niet worden gebruikt in e-mails of landingspag
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Ga naar uw fragment en zorg ervoor dat dit niet wordt **gebruikt door** elementen.
+1. Ga naar uw fragment en zorg ervoor dat dit niet **Door** wordt gebruikt.
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
    Als uw fragment door andere elementen wordt gebruikt, verwijdert u deze koppelingen voordat u verdergaat.
 
-1. Klik in **Fragmenthandelingen** op **Onkeuren**.
+1. Klik in **Fragmenthandelingen** op **Niet goedkeuren**.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
