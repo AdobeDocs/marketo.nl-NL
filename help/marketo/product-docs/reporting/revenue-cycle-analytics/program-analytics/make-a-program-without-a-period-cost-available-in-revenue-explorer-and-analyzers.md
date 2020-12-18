@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Maak een Programma zonder een Periode Beschikbaar in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# Maak een Programma zonder een Periode Kosten beschikbaar in Ontdekkingsreiziger en Analysatoren {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Met de kosten voor de programmaperiode kunt u &quot;Hoeveel geld&quot; en &quot;Wanneer&quot; definiëren voor een programma. Dit komt voor in de [inkomstencyclusverkenner](http://docs.marketo.com/display/docs/revenue+cycle+analytics) en [analysatoren](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+Met de kosten voor de programmaperiode kunt u &quot;Hoeveel geld&quot; en &quot;Wanneer&quot; definiëren voor een programma. Dit wordt getoond in [de ontdekkingsreiziger van de opbrengstcyclus](http://docs.marketo.com/display/docs/revenue+cycle+analytics) en [analyzers](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
