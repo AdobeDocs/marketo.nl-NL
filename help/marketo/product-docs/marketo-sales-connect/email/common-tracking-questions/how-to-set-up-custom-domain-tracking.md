@@ -15,6 +15,6 @@ ht-degree: 0%
 
 U kunt aangepaste domeintracering configureren voor uw koppelingen. Als iemand de muis boven een koppeling houdt, wordt dan gelezen: &quot;go.yourcompany.com&quot; in plaats van &quot;go.toutapp.com&quot;.
 
-Uw IT-beheerder moet de stappen volgen die op onze [instellingenpagina](http://toutapp.com/custom_tracking_domain)staan.
+Om dit op te zetten, moet uw beheerder van IT de stappen volgen die in onze [montagespagina](http://toutapp.com/custom_tracking_domain) worden vermeld.
 
 Zodra u deze opstelling hebt, zullen wij lijst van gewenste personen om het even welke verbinding u in uw e-mail hebt om als &quot;go.yourcompany.com&quot;te verschijnen.
