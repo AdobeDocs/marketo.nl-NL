@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Opnieuw toewijzen met webpersonalisatiegegevens {#retargeting-with-web-personalization-data}
+# Opnieuw toewijzen met web-personalisatiegegevens {#retargeting-with-web-personalization-data}
 
 >[!NOTE]
 >
 >**Beschikbaarheid**
 >
->Het opnieuw plaatsen van websites valt nu onder de tegel voor webpersonalisatie. Als u alleen Retargeting hebt aangeschaft, wordt deze tegel weergegeven en hebt u toegang tot het webproduct voor personalisatie met **alleen** de functie Opnieuw rangschikken ingeschakeld. Op deze manier hebt u toegang tot accountinstellingen, de pagina Opnieuw rangschikken, segmenten en extra pagina&#39;s voor bijhouden.
+>Het opnieuw plaatsen van websites valt nu onder de tegel voor webpersonalisatie. Als u alleen Retargeting hebt aangeschaft, wordt deze tegel weergegeven en hebt u toegang tot het webproduct voor personalisatie met de functie **only** Retargeting ingeschakeld. Op deze manier hebt u toegang tot accountinstellingen, de pagina Opnieuw rangschikken, segmenten en extra pagina&#39;s voor bijhouden.
 
 Opmerkingen zijn gericht op de vooruitzichten die uw site in het verleden hebben bezocht, met behulp van weergaveadvertenties op basis van wie ze zijn en wat ze hebben gedaan. Speciale doelgroepen richten zich op specifieke doelgroepen met relevante advertenties op basis van de industrie, benoemde accounts en bekende persoongegevens.
 
@@ -56,7 +56,7 @@ De Personalisering van het Web verzendt de volgende gegevens door naar de remark
 
 ## Opmerking configuratie {#remarketing-configuration}
 
-1. Ga naar **Opnieuw rangschikken**.
+1. Ga naar **Opnieuw toewijzen**.
 
    ![](assets/one.png)
 
@@ -75,15 +75,15 @@ De Personalisering van het Web verzendt de volgende gegevens door naar de remark
 
    ![](assets/two.png)
 
-1. Activeer de configuratie voor Facebook. Klik op de Facebook-accordeon en vouw deze uit. Klik op **Op **om de desbetreffende gebeurtenis en gegevens naar de Facebook-Audience Manager te verzenden. Klik op **Opslaan**.
+1. Activeer de configuratie voor Facebook. Klik op de Facebook-accordeon en vouw deze uit. Klik op **Op **om de desbetreffende gebeurtenis en gegevens naar de Facebook-Audience Manager te verzenden. Klik **Opslaan**.
 
    >[!NOTE]
    >
-   >Deze functie werkt alleen als [Facebook Custom Audience](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)Pixel op uw website is geïnstalleerd.
+   >Deze functie werkt alleen als [Aangepast publicatiepixel](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)op Facebook is geïnstalleerd.
 
    ![](assets/three.png)
 
-## Gesegmenteerde doelgroep maken {#creating-segmented-audience}
+## Gesegmenteerd publiek maken {#creating-segmented-audience}
 
 Met een gesegmenteerd publiek kunt u een bestaand segment selecteren als een publiek dat u wilt gebruiken voor het opnieuw toewijzen van campagnes. U kunt bijvoorbeeld de segmenten van uw bekende persoon selecteren.
 
@@ -91,7 +91,7 @@ Met een gesegmenteerd publiek kunt u een bestaand segment selecteren als een pub
 >
 >Er is geen behoefte om een Gesegmenteerd Publiek voor de industrie of andere gegevens tot stand te brengen die reeds door in de Configuratie van het Domein zijn verzonden. Het is best om Gesegmenteerde Publiek voor segmenten te gebruiken die op bekende persoongegevens worden gebaseerd.
 
-1. Klik op **Gesegmenteerd publiek** maken.
+1. Klik **Gesegmenteerd publiek maken**.
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -99,7 +99,7 @@ Met een gesegmenteerd publiek kunt u een bestaand segment selecteren als een pub
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Klik op **OPSLAAN**.
+1. Klik **OPSLAAN**.
 
    U hebt nu de Opnieuw richtende Opstelling in de Personalisering van het Web voltooid, login aan uw het opnieuw richten platforms en creeer uw publiek dat op deze gegevens wordt gebaseerd en opstelling uw het opnieuw richten advertentiecampagnes.
 
