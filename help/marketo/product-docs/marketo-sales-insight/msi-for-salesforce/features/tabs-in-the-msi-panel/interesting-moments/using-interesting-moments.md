@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Interesserende momenten gebruiken {#using-interesting-moments}
+# Interesten {#using-interesting-moments} gebruiken
 
 Interesserende momenten zijn de sleutel tot het communiceren met uw verkoopteam via de app Marktkoopoverzicht.
 
 >[!AVAILABILITY]
 >
->Deze zijn alleen beschikbaar voor Marketo Sales Insight en [Marketo Sales Connect](http://docs.marketo.com/x/fgTLAQ) -klanten.
+>Deze zijn alleen beschikbaar voor Marketo Sales Insight en [Marketo Sales Connect](http://docs.marketo.com/x/fgTLAQ)-klanten.
 
 ## Wat is een interessant moment?  {#what-is-an-interesting-moment}
 
@@ -33,7 +33,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Sleep over de stap **Interesserende momenten** .
+1. Sleep over de **Interesserende momenten**-stroomstap.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
@@ -41,7 +41,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. Schrijf een bericht aan uw verkoopteam op het gebied van de **Beschrijving** dat verklaart waarom deze actie van belang is.
+1. Schrijf een bericht aan uw verkoopteam op **Beschrijving** gebied dat verklaart waarom deze actie van belang is.
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -51,7 +51,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe kan dit nog interessanter worden?  {#how-can-this-get-even-more-interesting}
 
-Tokens! Voeg ze toe in het beschrijvingsveld om uw verkoopteam meer specifieke informatie te geven, zoals de onderwerpregel van de e-mail die de lead heeft geopend of de persoon die de lead heeft verzonden. Controleer welke tokens beschikbaar zijn voor gebruik in de verklarende woordenlijst van [Tokens voor het Interesten van Momenten](tokens-for-interesting-moments.md) .
+Tokens! Voeg ze toe in het beschrijvingsveld om uw verkoopteam meer specifieke informatie te geven, zoals de onderwerpregel van de e-mail die de lead heeft geopend of de persoon die de lead heeft verzonden. Bekijk welke tokens beschikbaar zijn voor gebruik in de verklarende woordenlijst [Tokens voor Interesten Moments](tokens-for-interesting-moments.md).
 
 >[!TIP]
 >
@@ -59,13 +59,13 @@ Tokens! Voeg ze toe in het beschrijvingsveld om uw verkoopteam meer specifieke i
 
 ## Hoe ziet een interessant moment eruit in Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Interesserende momenten worden weergegeven in het activiteitenlogboek [van een](../../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)lead.
+Interesserende momenten worden weergegeven in het activiteitenlog van een [lead.](../../../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
 ## Hoe ziet een interessant moment eruit in Salesforce?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Nadat u de Marketo Sales Insight App [hebt](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)geïnstalleerd, worden interessante momenten weergegeven op de pagina&#39;s met leads, contactpersonen, accounts of opportuniteiten. Zij verschijnen ook in het dashboard van het Inzicht van de Verkoop in het voer van de Lood, Beste Bets, en de Bekijken Lijst.
+Zodra u [Marketo Sales Insight App](../../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) hebt geïnstalleerd, zullen de interessante momenten op de lood-, contact-, account- of opportuniteitspagina&#39;s tonen. Zij verschijnen ook in het dashboard van het Inzicht van de Verkoop in het voer van de Lood, Beste Bets, en de Bekijken Lijst.
 
 ![](assets/six.png)
 
