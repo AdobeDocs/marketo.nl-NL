@@ -19,21 +19,21 @@ De onderstaande velden en knoppen worden gemaakt met de metagegevens-API in Sale
 >
 >Dit is van invloed op zowel ToutApp- als Sales Connect-klanten.
 
-## Hoe te om Aanpassingen in Salesforce te installeren {#how-to-install-customizations-in-salesforce}
+## Hoe te om Aanpassingen in Salesforce {#how-to-install-customizations-in-salesforce} te installeren
 
 1. Klik in Sales Connect op het tandwielpictogram en selecteer **Instellingen**.
 
    ![](assets/one.png)
 
-1. Selecteer **Salesforce onder Instellingen voor beheer**.
+1. Selecteer **Salesforce** onder Beheerinstellingen.
 
    ![](assets/two.png)
 
-1. Klik op **Marketo Sales Connect Customizations**.
+1. Klik **Aanpassingen van de Verkoop van Marketo verbinden**.
 
    ![](assets/three.png)
 
-1. Klik op **Verbinden met Salesforce**.
+1. Klik **Verbinding maken met Salesforce**.
 
    ![](assets/four.png)
 
@@ -43,7 +43,7 @@ De onderstaande velden en knoppen worden gemaakt met de metagegevens-API in Sale
 
 ## Aangepaste activiteitsvelden {#custom-activity-fields}
 
-Marketo detecteert het maken van de nieuwe velden en voert vervolgens een eenmalige back-up van gegevens uit, wijst de gegevens opnieuw toe en synchroniseert de waarden voortdurend alleen in de **nieuwe** velden. Oude velden worden niet bijgewerkt.
+Marketo detecteert het maken van de nieuwe velden en voert vervolgens een eenmalige back-up van gegevens uit, wijst een nieuwe toewijzing toe en synchroniseert waarden voortdurend alleen in de velden **new**. Oude velden worden niet bijgewerkt.
 
 | **Veldnaam** | **Beschrijving** |
 |---|---|
@@ -61,7 +61,7 @@ Marketo detecteert het maken van de nieuwe velden en voert vervolgens een eenmal
 | URL MSE-e-mail | Als u op deze URL klikt, wordt Command Center in MSE geopend en wordt het tabblad Historie van Personendetails weergegeven waarop u het verzonden e-mailbericht kunt zien. |
 | MSE-e-mail weergegeven | Logs a checkmark wanneer de ontvanger een e-mail bekijkt. |
 
-## Logboekvelden oprollen {#roll-up-logging-fields}
+## Logboekvelden opheffen {#roll-up-logging-fields}
 
 <table> 
  <colgroup> 
@@ -125,7 +125,7 @@ Marketo detecteert het maken van de nieuwe velden en voert vervolgens een eenmal
 | Naar MSE duwen | Zet contact op van Salesforce naar MSE. |
 | Vraag met MSE | Maak de vraag van de Verkoop van Salesforce. |
 
-## Knoppen Handeling bulksgewijs {#bulk-action-buttons}
+## Knoppen voor handelingen met opsommingstekens {#bulk-action-buttons}
 
 | **Knopnaam** | **Beschrijving** |
 |---|---|
@@ -142,5 +142,6 @@ Marketo detecteert het maken van de nieuwe velden en voert vervolgens een eenmal
 
 ## Verwante video&#39;s {#related-videos}
 
-**Hoe te om aanpassingen in Salesforce**`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` te installeren ** De voordelen van het gebruiken van aanpassingen in Salesforce**
+**Hoe u aanpassingen installeert in Salesforce**
+`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** Het voordeel van het gebruik van aanpassingen in Salesforce** 
 `<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
