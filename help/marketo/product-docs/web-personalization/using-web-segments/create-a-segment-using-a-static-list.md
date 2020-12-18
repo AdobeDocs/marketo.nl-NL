@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Een segment maken met een statische lijst {#create-a-segment-using-a-static-list}
 
-Een segment van bekende webbezoekers wanneer ze uw website bezoeken, op basis van de vraag of ze zich al dan niet in een van uw [statische lijsten](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists)van Marketo bevinden.
+Een segment maken van bekende webbezoekers wanneer ze uw website bezoeken, op basis van de vraag of ze zich in een van uw Marketo [statische lijsten](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists) bevinden.
 
 1. Ga naar **Segmenten**.
 
    ![](assets/1.jpg)
 
-1. Klik op **Nieuw** maken.
+1. Klik **Nieuw maken**.
 
    ![](assets/two.png)
 
@@ -31,23 +31,23 @@ Een segment van bekende webbezoekers wanneer ze uw website bezoeken, op basis va
 
    ![](assets/four-2.png)
 
-1. Klik op de vervolgkeuzelijst die u wilt selecteren **is** of niet **** (afhankelijk van wat u wilt) en typ de naam van de statische lijst.
+1. Klik op de vervolgkeuzelijst om **is** of **is niet** (afhankelijk van wat u wilt) te selecteren en typ in de naam van uw statische lijst.
 
    ![](assets/five-2.png)
 
-1. Als u meerdere lijsten wilt toevoegen, moet u voor elke lijst een nieuwe regel maken door op **+** te klikken. Als u slechts één lijst wilt, sla aan [Stap 8](#eight)over.
+1. Als u veelvoudige lijsten wilt toevoegen, moet u een nieuwe lijn voor elk tot stand brengen door **+** te klikken. Als u slechts één lijst wilt, overslaan aan [Stap 8](#eight).
 
    ![](assets/six-1.png)
 
-1. Herhaal de stappen die u in [Stap 5](#five)hebt geleerd voor meerdere lijsten (of meerdere &quot;is niet&quot;-lijsten).
+1. Voor veelvoudige lijsten (of de veelvoudige &quot;is niet&quot;lijsten), herhaal de stappen u in [Stap 5](#five) leerde.
 
    ![](assets/seven-2.png)
 
    >[!NOTE]
    >
-   >De en/of vervolgkeuzelijst is dat. Klik erop om te selecteren **en**, **of**, of **en/of**.
+   >De en/of vervolgkeuzelijst is dat. Klik op het bestand om **en**, **of** of **and/or** te selecteren.
 
-1. Klik op **Opslaan** om het segment op te slaan of op **Campagne opslaan en definiëren **om het segment op te slaan en naar de pagina Campagnes te gaan.
+1. Klik **sparen** om het segment op te slaan of **sparen &amp; bepalen Campagne **om te bewaren en naar de pagina van Campagnes te gaan.
 
    ![](assets/eight-1.png)
 
