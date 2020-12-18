@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/two-2.png)
 
-1. Klik op **Meer informatie** op de Salesforce-kaart.
+1. Klik in de Salesforce-kaart op **Meer info**.
 
    ![](assets/three-2.png)
 
