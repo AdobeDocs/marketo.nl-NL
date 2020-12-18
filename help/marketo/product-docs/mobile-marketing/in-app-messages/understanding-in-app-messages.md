@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# In-app berichten begrijpen {#understanding-in-app-messages}
+# In-app berichten {#understanding-in-app-messages} begrijpen
 
 >[!NOTE]
 >
@@ -27,17 +27,17 @@ Gebruik in-app berichten om rechtstreeks contact op te nemen met uw klanten terw
 
 Voordat u in-app-berichten voor uw mobiele app kunt maken en verzenden, hebt u Marketo Admin en mobile apps-ontwikkelaar nodig om bepaalde instellingen uit te voeren.  Er zijn drie stappen om in-app berichten te produceren:
 
-## Stap 1: Aanvankelijke instellingen uitvoeren voor beheerders en ontwikkelaars {#step-admin-and-developer-perform-initial-setups}
+## Stap 1: Beheerder en ontwikkelaar voeren eerste instellingen uit {#step-admin-and-developer-perform-initial-setups}
 
-De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen. Zie [Voordat u pushberichten en In-App-berichten](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) maakt voor meer informatie.
+De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen. Zie [Voordat u pushberichten en In-App-berichten maakt](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor meer informatie.
 
 ## Stap 2: Een bericht in de app maken {#step-create-an-in-app-message}
 
-U [maakt een bericht](http://docs.marketo.com/display/docs/create+an+in-app+message) in de app met de online-editor.
+U [maakt een bericht in de app](http://docs.marketo.com/display/docs/create+an+in-app+message) met de online-editor.
 
 ## Stap 3: Verzenden! {#step-send}
 
-U maakt een programma om het bericht [te](http://docs.marketo.com/display/docs/send+your+in-app+message)verzenden.
+U creeert een programma aan [verzend het bericht](http://docs.marketo.com/display/docs/send+your+in-app+message).
 
 Je bent onderweg.
 
