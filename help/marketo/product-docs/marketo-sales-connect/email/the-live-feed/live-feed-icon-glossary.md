@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Woordenlijst van pictogram Live feed {#live-feed-icon-glossary}
+# Verklarende woordenlijst van pictogrammen voor live feed {#live-feed-icon-glossary}
 
-| ![--](assets/1.png) | Iemand heeft je e-mail bekeken. |
+| ![—](assets/1.png) | Iemand heeft je e-mail bekeken. |
 |---|---|
-| ![--](assets/2.png) | Iemand heeft op een koppeling in uw e-mail geklikt. |
-| ![--](assets/3.png) | Iemand heeft uw bijlage gevolgd of heeft uw website bezocht. |
+| ![—](assets/2.png) | Iemand heeft op een koppeling in uw e-mail geklikt. |
+| ![—](assets/3.png) | Iemand heeft uw bijlage gevolgd of heeft uw website bezocht. |
 
 Als je ziet dat iemand je e-mailbericht steeds opnieuw in je Live feed weergeeft, kunnen ze het e-mailbericht doorsturen naar andere ontvangers. Dit is meestal het geval als u ziet dat de locatie voor deze weergaven verandert.
