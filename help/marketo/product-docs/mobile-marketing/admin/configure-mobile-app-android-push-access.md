@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Android-pushtoegang voor mobiele app configureren {#configure-mobile-app-android-push-access}
+# Mobile App Android Push Access {#configure-mobile-app-android-push-access} configureren
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecteer **Mobiele apps**.
+1. Selecteer **Mobiele toepassingen**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -25,13 +25,13 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Selecteer **Android** onder Toegangstype **Push en klik op** **Configureren.**
+1. Selecteer **Android** onder **Push Access Type** en klik **Configure**.
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 
    >[!NOTE]
    >
-   >U hebt een API-sleutel **voor de** server en een **projectnummer** van uw ontwikkelaar van mobiele apps nodig. De ontwikkelaar ontvangt deze gegevens door u aan te melden bij de Google Play Developer Console om uw app te registreren en cloudberichten in te schakelen.
+   >U hebt een **Server-API-sleutel** en **Projectnummer** van uw ontwikkelaar van mobiele apps nodig. De ontwikkelaar ontvangt deze gegevens door u aan te melden bij de Google Play Developer Console om uw app te registreren en cloudberichten in te schakelen.
 
    Voer de sleutel voor de server-API en het projectnummer in. Klik op Opslaan.
 
