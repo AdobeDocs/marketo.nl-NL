@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Installatie van de Plug-in Marketo Outlook door IT {#marketo-outlook-plugin-installation-by-it}
+# Installatie van plug-in Marketo Outlook door IT {#marketo-outlook-plugin-installation-by-it}
 
 Soms vereisen bedrijfsbeleid dat hun Team van IT alle software op hun werknemers&#39; computers installeert. In deze gevallen doet IT dit vaak op afstand met behulp van hun eigen implementatiesoftware. Dit document verstrekt de bevellijnen u als input tijdens het plaatsingsproces zou gebruiken om de outlook stop-in ver te installeren.
 
 >[!PREREQUISITES]
 >
->[Stel](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) de toets Enterprise in.
+>[Stel ](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) de toets Enterprise in.
 
 Voer de volgende bevellijn als &quot;Systeem&quot;of een Administratieve gebruikersrekening met de /i schakelaar in werking om te installeren.  `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
@@ -44,7 +44,7 @@ Als u een locatie voor de logbestanden wilt opgeven, geeft u het bestandspad op 
 >
 >De opslaglocatie van het logbestand moet bestaan of de installatie wordt afgebroken.
 
-Gelieve te verwijzen naar de volledige lijst van schakelaars [van](https://support.microsoft.com/en-us/kb/227091) Microsoft als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
+Gelieve te verwijzen naar [de volledige lijst van Microsoft van schakelaars](https://support.microsoft.com/en-us/kb/227091) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
 
 >[!NOTE]
 >
