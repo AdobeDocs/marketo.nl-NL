@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Vereiste velden voor het synchroniseren van markeertekens met dynamiek {#required-fields-for-syncing-marketo-with-dynamics}
 
-Deze gebieden *moeten* met Marketo voor zowel Lood als Contact voor het Inzicht van de Verkoop worden gesynchroniseerd om te werken:
+Deze velden *must* moeten met Marketo worden gesynchroniseerd voor zowel Lead als Contact voor het Inzicht van de Verkoop om te werken:
 
 * Prioriteit
 * Urgentie
 * Relatieve score
 
-Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. U kunt dit corrigeren door in te checken of de velden zijn gesynchroniseerd voor zowel **lead** als **contact**. Zo niet, voegt u deze toe.
+Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, controleer uw instantie om ervoor te zorgen dat de gebieden voor zowel **Lood** als **Contact** worden gesynchroniseerd. Zo niet, voegt u deze toe.
 
 Hieronder wordt beschreven hoe u synchronisatievelden kunt verifiëren en toevoegen.
 
