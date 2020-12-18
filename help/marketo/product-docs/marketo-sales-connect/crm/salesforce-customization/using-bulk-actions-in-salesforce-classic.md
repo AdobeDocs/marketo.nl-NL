@@ -23,13 +23,13 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 >
 >Voordat u de beschreven stappen uitvoert, moet u zich aanmelden bij uw Marketo Sales Connect-account.
 
-## Bulkmail {#bulk-email}
+## E-mailadres {#bulk-email} opheffen
 
-1. Klik in Salesforce op het tabblad **Leads** en vervolgens op de knop **Ga** .
+1. Klik in Salesforce op het tabblad **Regelafstand** en vervolgens op de knop **Go**.
 
    ![](assets/one-5.png)
 
-1. Kies de gewenste leads en klik op de knop **E-mail met MSC (Classic)** .
+1. Kies de gewenste leads en klik op de knop **E-mailen met MSC (Classic)**.
 
    ![](assets/two-5.png)
 
@@ -45,11 +45,11 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 
 ## Toevoegen aan campagne {#add-to-campaign}
 
-1. Klik in Salesforce op het tabblad **Leads** en vervolgens op de knop **Ga** .
+1. Klik in Salesforce op het tabblad **Regelafstand** en vervolgens op de knop **Go**.
 
    ![](assets/four-3.png)
 
-1. Kies de gewenste lood en klik **toevoegen aan (Klassieke)** Campagne MSC.
+1. Kies de gewenste lood en klik **toevoegen aan Campagne MSC (Klassiek)** knoop.
 
    ![](assets/five-3.png)
 
@@ -57,17 +57,17 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 
    ![](assets/six.png)
 
-## Overstappen op Marketo Sales Connect {#push-to-marketo-sales-connect}
+## Druk op Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. Klik in Salesforce op het tabblad **Leads** en vervolgens op de knop **Ga** .
+1. Klik in Salesforce op het tabblad **Regelafstand** en vervolgens op de knop **Go**.
 
    ![](assets/seven-1.png)
 
-1. Kies de gewenste leads en klik op de knop **Push to MSC (Classic)** .
+1. Kies de gewenste lood en klik **duw aan MSC (Klassiek)** knoop.
 
    ![](assets/eight-1.png)
 
-1. Er wordt een nieuw tabblad met de naam &quot;Salesforce Bridge&quot; geopend. Klik op de **knop** Ga naar groep.
+1. Er wordt een nieuw tabblad met de naam &quot;Salesforce Bridge&quot; geopend. Klik op de knop **Ga naar groep →**.
 
    ![](assets/nine-1.png)
 
