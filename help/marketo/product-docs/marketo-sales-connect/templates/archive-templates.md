@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Archiveer inhoud om uw account voor verkoopinhoud op te schonen zonder sjabloongegevens te verliezen.
 
-Schakel het vakje naast een sjabloon in en klik op **Archiveren**.
+Schakel het vakje naast een sjabloon in en klik op **Archief**.
 
 >[!NOTE]
 >
