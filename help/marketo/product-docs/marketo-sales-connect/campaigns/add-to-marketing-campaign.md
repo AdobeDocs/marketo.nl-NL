@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >[Een campagne zichtbaar maken voor verkoopgebruikers](http://docs.marketo.com/x/NwDh)
 
-## Personen toevoegen aan een campagne {#add-individuals-to-a-campaign}
+## Individuen toevoegen aan een campagne {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Als u iemand vanuit Sales Connect wilt toevoegen aan een Marketo-campagne, moet Sales Connect de toonaangevende id van de persoon hebben. [Leer hier](http://docs.marketo.com/x/CQXLAQ)Marketo-id&#39;s vastleggen.
+>Als u iemand vanuit Sales Connect wilt toevoegen aan een Marketo-campagne, moet Sales Connect de toonaangevende id van de persoon hebben. [Leer hier](http://docs.marketo.com/x/CQXLAQ) Marketo-id&#39;s vastleggen.
 
-1. Klik op het tabblad **Personen** .
+1. Klik op het tabblad **Personen**.
 
    ![](assets/one-3.png)
 
@@ -35,15 +35,15 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-1. Klik op Geselecteerde **toevoegen aan campagne**.
+1. Klik **Geselecteerde toevoegen aan Campagne**.
 
    ![](assets/four-3.png)
 
-1. Aangezien u aan een campagne van de Marketing toevoegt, sla het selecteren van een &quot;van&quot;adres over. U kunt echter verkiezen om meer contacten toe te voegen. Als u dit wilt doen, klikt u op Individuen en typt u deze in. Klik op **Volgende** als u klaar bent.
+1. Aangezien u aan een campagne van de Marketing toevoegt, sla het selecteren van een &quot;van&quot;adres over. U kunt echter verkiezen om meer contacten toe te voegen. Als u dit wilt doen, klikt u op Individuen en typt u deze in. Klik **Volgende** wanneer gereed.
 
    ![](assets/five-2.png)
 
-1. Klik op **Marketingcampagne**.
+1. Klik **Marketingcampagne**.
 
    ![](assets/six-1.png)
 
@@ -55,17 +55,17 @@ ht-degree: 0%
    >
    >Als u niet de werkruimte ziet u wilt, zorg uw Admin bepalingen het door uw pagina van de Toegang van het Team van de Marketo.
 
-1. Selecteer de gewenste campagne en klik op **Volgende**.
+1. Selecteer de gewenste campagne en klik **Next**.
 
    ![](assets/eight.png)
 
-1. U wordt getoond de contacten die kwalificeren. Klik op **Start** om deze toe te voegen.
+1. U wordt getoond de contacten die kwalificeren. Klik **Begin** om hen toe te voegen.
 
    ![](assets/nine.png)
 
 ## Een groep toevoegen aan een campagne {#add-a-group-to-a-campaign}
 
-1. Klik op het tabblad **Personen** .
+1. Klik op het tabblad **Personen**.
 
    ![](assets/one-3.png)
 
@@ -73,11 +73,11 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. Klik op Groep **toevoegen aan campagne**.
+1. Klik **Groep toevoegen aan Campagne**.
 
    ![](assets/twelve.png)
 
-1. Aangezien u aan een campagne van de Marketing toevoegt, sla het selecteren van een &quot;van&quot;adres over. U kunt echter verkiezen om meer contacten toe te voegen. Als u dit wilt doen, klikt u op Individuen en typt u deze in. Klik op **Volgende** als u klaar bent.
+1. Aangezien u aan een campagne van de Marketing toevoegt, sla het selecteren van een &quot;van&quot;adres over. U kunt echter verkiezen om meer contacten toe te voegen. Als u dit wilt doen, klikt u op Individuen en typt u deze in. Klik **Volgende** wanneer gereed.
 
    ![](assets/thirteen.png)
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Als u iemand vanuit Sales Connect wilt toevoegen aan een Marketo-campagne, moet Sales Connect de toonaangevende id van de persoon hebben. [Leer hier](http://docs.marketo.com/x/CQXLAQ)Marketo-id&#39;s vastleggen.
+   >Als u iemand vanuit Sales Connect wilt toevoegen aan een Marketo-campagne, moet Sales Connect de toonaangevende id van de persoon hebben. [Leer hier](http://docs.marketo.com/x/CQXLAQ) Marketo-id&#39;s vastleggen.
 
 1. Klik op de vervolgkeuzelijst Werkruimten en kies de werkruimte die de campagne bevat waaraan de groep moet worden toegevoegd.
 
@@ -97,11 +97,11 @@ ht-degree: 0%
    >
    >Als u niet de werkruimte ziet u wilt, zorg uw Admin bepalingen het door uw pagina van de Toegang van het Team van de Marketo.
 
-1. Selecteer de gewenste campagne en klik op **Volgende**.
+1. Selecteer de gewenste campagne en klik **Next**.
 
    ![](assets/eight.png)
 
-1. U wordt getoond de contacten die kwalificeren. Klik op **Start** om deze toe te voegen.
+1. U wordt getoond de contacten die kwalificeren. Klik **Begin** om hen toe te voegen.
 
    ![](assets/nine.png)
 
