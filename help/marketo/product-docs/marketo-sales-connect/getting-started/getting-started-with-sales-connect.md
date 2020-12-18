@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aan de slag met Sales Connect {#getting-started-with-sales-connect}
 
-Als u deze stappen liever wilt bekijken dan deze te lezen, gaat u rechtstreeks naar de onderstaande [](#video)video-instructies.
+Als u deze stappen liever wilt bekijken dan deze te lezen, gaat u recht naar de [Video-instructies onder](#video).
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Als u deze stappen liever wilt bekijken dan deze te lezen, gaat u rechtstreeks n
 * Salesforce Admin
 * Connect-gebruikers verkopen
 
-## Verkoop Connect-beheerders {#sales-connect-admins}
+## Sales Connect Admins {#sales-connect-admins}
 
 U ontvangt een e-mail van Marketo met een koppeling om uw wachtwoord opnieuw in te stellen. Nadat u een nieuw wachtwoord hebt gemaakt, meldt u zich aan bij Sales Connect.
 
@@ -51,13 +51,13 @@ U kunt ook:
 
 ## Verbind Uw Verkoop Connect Rekening met Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Volg de stappen in [dit artikel](http://docs.marketo.com/x/JwDb)om uw Sales Connect-account aan te sluiten op uw Salesforce-account, als beheerder of als niet-beheerder.
+Als u uw Sales Connect-account wilt koppelen aan uw Salesforce-account, als beheerder of een niet-beheerder, voert u de stappen in [dit artikel](http://docs.marketo.com/x/JwDb) uit.
 
 >[!NOTE]
 >
 >De instantie van Salesforce waarmee u verbinding maakt, moet dezelfde instantie zijn die met Marketo is (of zal worden) verbonden.
 
-## Credentials aanschaffen voordat u verkoop verbindt met Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Credentials verkrijgen voorafgaand aan het verbinden van Verkoop verbindt met Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
 U zult een reeks geloofsbrieven van binnen Marketo moeten krijgen. Deze gegevens worden later gebruikt door de Sales Connect Admin om Marketo te verbinden met Sales Connect.
 
@@ -91,17 +91,17 @@ U zult een reeks geloofsbrieven van binnen Marketo moeten krijgen. Deze gegevens
 
    ![](assets/credentials.png)
 
-## Gebruikers uitnodigen/leveren {#invite-provision-users}
+## Gebruikers {#invite-provision-users} uitnodigen/voorzien
 
-Als er al gebruikers op uw account staan (voorheen van ToutApp), worden deze weergegeven op het tabblad **Teamtoegang** van het gedeelte Marketo van Sales Connect.
+Als er al gebruikers in uw account aanwezig zijn (voorheen van ToutApp), worden deze weergegeven op het tabblad **Teamtoegang** van het gedeelte Marketo van Sales Connect.
 
-U kunt uw team vanaf deze pagina instellen als een Connect-gebruiker van een Marketo-verkoop. Als u nog nooit ToutApp hebt gebruikt of nog gebruikers moet uitnodigen, voert u de stappen in [dit artikel](http://docs.marketo.com/display/TOUT/Invite+Team+Members)uit.
+U kunt uw team vanaf deze pagina instellen als een Connect-gebruiker van een Marketo-verkoop. Als u nog nooit ToutApp hebt gebruikt of nog gebruikers moet uitnodigen, voert u de stappen in [dit artikel](http://docs.marketo.com/display/TOUT/Invite+Team+Members) uit.
 
 >[!CAUTION]
 >
 >Wacht tien minuten nadat u Sales Connect met Marketo hebt verbonden voordat u deze stappen uitvoert.
 
-1. Selecteer een of meer gebruikers en klik op **Verbinden**.
+1. Selecteer een of meer gebruikers en klik op **Connect**.
 
    >[!NOTE]
    >
@@ -119,11 +119,11 @@ U kunt uw team vanaf deze pagina instellen als een Connect-gebruiker van een Mar
 
    >[!NOTE]
    >
-   >Als u nieuwe gebruikers wilt toevoegen, ga naar de sectie van het Beheer van het Team van Montages Admin en klik de **Invite Gebruikers** knoop.
+   >Als u nieuwe gebruikers wilt toevoegen, ga naar de sectie van het Beheer van het Team van Montages Admin en klik **Invite Users** knoop.
 
 U kunt extra gebruikers van de pagina van het Beheer van het Team en de stappen hierboven volgen om hen te krijgen verbonden.
 
-## Verkoopverbinding testen in uw sandbox {#test-sales-connect-in-your-sandbox}
+## Verkoop testen Connect in uw sandbox {#test-sales-connect-in-your-sandbox}
 
 Voor teams die Marketo Sales Connect willen testen met hun Marketo-sandbox, kan op verzoek een extra Sales Connect-account worden ingericht. Dit geldt alleen voor klanten die een Marketo-sandbox hebben aangeschaft of voor klanten die deze als onderdeel van hun Marketo-bundel hebben. Neem contact op met uw accountmanager van Marketo als u een sandbox wilt aanschaffen.
 
