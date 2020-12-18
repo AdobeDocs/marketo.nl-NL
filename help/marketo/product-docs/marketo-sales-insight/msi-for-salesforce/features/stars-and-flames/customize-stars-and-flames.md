@@ -29,25 +29,25 @@ Marketo Sales Insight gebruikt sterren en vlammen om leads een prioriteit te gev
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Klik onder de sectie Instellingen **voor scores** lead op **Bewerken**.
+1. Klik onder de sectie **Instellingen voor toonscore** op **Bewerken**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. Selecteer de **scoremethode** van uw keuze.
+1. Selecteer **Scoremethode** van uw keus.
 
    >[!NOTE]
    >
    >**Definitie**
    >
    >
-   >**Dynamisch** - is een percentagewaarde die van [relatieve gegevens](priority-urgency-relative-score-and-best-bets.md)wordt afgeleid. Geweldige dingen. Deze methode wordt aanbevolen.
+   >**Dynamisch**  - is een percentagewaarde die van  [relatieve gegevens](priority-urgency-relative-score-and-best-bets.md) wordt afgeleid. Geweldige dingen. Deze methode wordt aanbevolen.
    >
    >
-   >**Statisch** - Hiermee kunt u exacte muzieknummers definiëren - geen percentages meer, geen geheime sauzen meer.
+   >**Statisch**  - Hiermee kunt u exacte muzieknummers definiëren - geen percentages meer, geen geheime sauzen meer.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. Bewerk de percentagehaakjes voor uw eigen smaak en **sla** op.
+1. Bewerk de percentagehaakjes naar uw eigen smaak en **Opslaan**.
 
    >[!TIP]
    >
