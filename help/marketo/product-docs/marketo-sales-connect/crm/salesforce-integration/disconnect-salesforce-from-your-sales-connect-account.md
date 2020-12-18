@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Salesforce loskoppelen van uw Connect-account voor verkoop {#disconnect-salesforce-from-your-sales-connect-account}
+# Salesforce loskoppelen van uw Connect-account {#disconnect-salesforce-from-your-sales-connect-account}
 
 Soms moet u uw Salesforce-account loskoppelen van uw Sales Connect-account. Zo gaat het.
 
-## Hoe de verbinding met Salesforce als Admin te verbreken {#how-to-disconnect-from-salesforce-as-an-admin}
+## Hoe te om van Salesforce als Admin {#how-to-disconnect-from-salesforce-as-an-admin} los te maken
 
 1. Klik in Sales Connect op het tandwielpictogram rechtsboven en selecteer **Instellingen**.
 
@@ -29,13 +29,13 @@ Soms moet u uw Salesforce-account loskoppelen van uw Sales Connect-account. Zo g
 
    ![](assets/seven-1.png)
 
-## Hoe u losmaakt van Salesforce als niet-Admin {#how-to-disconnect-from-salesforce-as-a-non-admin}
+## Hoe te om van Salesforce als niet Admin {#how-to-disconnect-from-salesforce-as-a-non-admin} los te maken
 
 1. Klik in Sales Connect op het tandwielpictogram rechtsboven en selecteer **Instellingen**.
 
    ![](assets/one-1.png)
 
-1. Selecteer **Salesforce onder Mijn account**.
+1. Selecteer onder Mijn account **Salesforce**.
 
    ![](assets/two-1.png)
 
