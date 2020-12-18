@@ -28,36 +28,31 @@ Bij marketingactiviteiten moet u mappen gebruiken om uw programma&#39;s te organ
 >**Voorbeeld**
 >
 >* Actieve marketingprogramma&#39;s
-   >
-   >    
-   * E-mails
-   >    * Gebeurtenissen
-
-      >
-      >        
-      * Live gebeurtenissen/presentaties
-      >        * Tradeshows
-      >        * Webinars
-   >
-   * Nieuwsbrieven
-   * Verloop
-   * Webinhoud
-   * Webformulieren
-* Leren
-* Operationeel
-
-   * Levenscyclus
-   * Scores
-   * Gegevensbeheer
-* Sales Insight >
-   * Interesserende momenten
-   * Verkoop-e-mails
-   * Verkoop aangevraagde campagnes
-* **Archief** >
-   * Gebeurtenissen archiveren >
-      * Archief 2012
-      * Archief 2013
-
+>
+>    * E-mails
+>    * Gebeurtenissen
+>
+>        * Live gebeurtenissen/presentaties
+>        * Tradeshows
+>        * Webinars
+>   * Nieuwsbrieven
+>   * Verloop
+>   * Webinhoud
+>   * Webformulieren
+>* Leren
+>* Operationeel
+>
+>   * Levenscyclus
+>   * Scores
+>   * Gegevensbeheer
+>* Sales Insight
+>   * Interesserende momenten
+>   * Verkoop-e-mails
+>   * Verkoop aangevraagde campagnes
+>* **Archief**
+>   * Gebeurtenissen archiveren
+>      * Archief 2012
+>      * Archief 2013
 
 
 
