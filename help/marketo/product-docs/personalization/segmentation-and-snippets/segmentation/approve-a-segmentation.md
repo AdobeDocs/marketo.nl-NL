@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een segmentatie goedkeuren {#approve-a-segmentation}
+# Een segmentatie {#approve-a-segmentation} goedkeuren
 
 Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
 
@@ -24,11 +24,11 @@ Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
 
 
 
-1. Ga naar de **database**.
+1. Ga naar **Database**.
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. Klik in de Segmentatie op **Segmentatiehandelingen** en **keur** deze vervolgens goed.
+1. Klik in de segmentatie **Segmenteringsacties** en **Goedkeuren**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
@@ -47,7 +47,7 @@ Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
    >
    >Het aantal mensen in elk segment wordt getoond tussen haakjes naast de segmentnaam.
 
-1. Op het tabblad **Personen** in het **segment** wordt nu de definitieve lijst met personen voor het segment weergegeven.
+1. Het **lusje van Mensen** in **Segment** toont nu de definitieve lijst van mensen voor het segment.
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 
@@ -55,7 +55,7 @@ Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
 >
 >Het totale aantal segmenten dat u in een segmentatie kunt maken, is afhankelijk van het aantal en het type filters dat wordt gebruikt en ook van de complexiteit van de logica van de segmenten. Hoewel u tot 100 segmenten kunt tot stand brengen gebruikend standaardgebieden, kan het gebruiken van andere types van filters de ingewikkeldheid verhogen, en uw segmentatie zou kunnen niet goedkeuren. Enkele voorbeelden zijn: aangepaste velden, het lid van de lijst, de velden voor de eigenaar van leads en de inkomstenstadia.
 >
->Neem contact op met [Marketo Support](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe)als u tijdens de goedkeuring een foutbericht krijgt en hulp nodig hebt bij het verminderen van de complexiteit van de segmentatie.
+>Als u een foutenmelding tijdens goedkeuring krijgt en hulp bij het verminderen van de ingewikkeldheid van uw segmentatie vereist, gelieve [Marketo Steun](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe) te contacteren.
 
 >[!NOTE]
 >
