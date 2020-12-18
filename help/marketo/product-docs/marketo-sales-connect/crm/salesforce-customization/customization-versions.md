@@ -15,6 +15,8 @@ ht-degree: 0%
 
 Hieronder vindt u informatie over updates die worden aangebracht in de aanpassingen voor Salesforce in de Aanpassingen voor verkoop in Connect voor Marketo.
 
-**Versie 1** Activiteitenvelden, Contactvelden, Lead Fields, Account Fields, Opportunity Fields, Buttons, [deze Marketo Fields](http://docs.marketo.com/x/wQDh).
+**Versie 1**
+Activiteitenvelden, Contactvelden, Lead Fields, Account Fields, Opportunity Fields, Buttons,  [deze Marketo Fields](http://docs.marketo.com/x/wQDh).
 
-**Versie 1.1** Activiteitenvelden, Contactvelden, Lead Fields, Account Fields, Opportunity Fields, Buttons, Marketo Fields zijn nu beschikbaar in paginalay-out voor Salesforce Lightning.
+**Versie 1.1**
+Activiteitenvelden, Contactvelden, Lead Fields, Account Fields, Opportunity Fields, Buttons, Marketo Fields zijn nu beschikbaar in paginalay-out voor Salesforce Lightning.
