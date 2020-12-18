@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Uw bericht in de app selecteren {#select-your-in-app-message}
+# Uw bericht in de toepassing selecteren {#select-your-in-app-message}
 
 Hier selecteert u het bericht dat u hebt gemaakt voor gebruik in het programma.
 
@@ -31,4 +31,4 @@ Hier selecteert u het bericht dat u hebt gemaakt voor gebruik in het programma.
    >
    >Als u een ander bericht wilt selecteren, verwijdert u dit in het veld Bericht in de app. Vervolgens wordt de koppeling Nieuw bericht in de app geretourneerd. Klik erop en selecteer een ander bericht.
 
-Je bent op schema. Tijd om het verzenden [te](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)plannen.
+Je bent op schema. Tijd aan [planning send](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
