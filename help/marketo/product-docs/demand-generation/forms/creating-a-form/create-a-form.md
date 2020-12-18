@@ -17,7 +17,7 @@ Maak en gebruik een formulier op een openingspagina om nieuwe namen te genereren
 
 >[!NOTE]
 >
->Leer wat Marketo doet om uw formulieren [veilig](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)te houden.
+>Leer wat Marketo doet om uw formulieren veilig te houden[.](http://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)
 
 1. Ga naar **Marketing** **Activiteiten**.
 
@@ -27,7 +27,7 @@ Maak en gebruik een formulier op een openingspagina om nieuwe namen te genereren
 
    ![](assets/programseelct.png)
 
-1. Klik onder **Nieuw** op **Nieuw** **lokaal** **element**.
+1. Klik onder **Nieuw** op **Nieuw** **Lokaal** **Element**.
 
    ![](assets/newlocalasset.png)
 
@@ -35,7 +35,7 @@ Maak en gebruik een formulier op een openingspagina om nieuwe namen te genereren
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Voer een **naam** in voor het formulier en klik op **Maken**.
+1. Voer een formulier **Naam** in en klik op **Maken**.
 
    ![](assets/newformwithhands.png)
 
