@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een formulierveld instellen als verborgen {#set-a-form-field-as-hidden}
+# Een formulierveld instellen als Verborgen {#set-a-form-field-as-hidden}
 
 Verborgen formuliervelden kunnen zonder invoer van de bezoeker gegevens vastleggen. Zo werkt het.
 
@@ -19,11 +19,11 @@ Verborgen formuliervelden kunnen zonder invoer van de bezoeker gegevens vastlegg
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Selecteer het veld en stel het **veldtype** in op **Verborgen** **.**
+1. Selecteer het veld en stel het **Veld** **Type** in op **Verborgen.**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
