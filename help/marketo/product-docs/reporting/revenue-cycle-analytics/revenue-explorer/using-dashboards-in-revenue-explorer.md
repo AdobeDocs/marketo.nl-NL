@@ -11,17 +11,17 @@ ht-degree: 0%
 ---
 
 
-# Het gebruiken van Dashboards in de Ontdekkingsreiziger van de Opbrengst {#using-dashboards-in-revenue-explorer}
+# Het gebruiken van Dashboards in Ontdekkingsreiziger {#using-dashboards-in-revenue-explorer} van de Opbrengst
 
 Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontvangsten om een snel overzicht van uw lood, campagnes, kansen, en/of modellen te krijgen.
 
 ## Een nieuw dashboard maken {#creating-a-new-dashboard}
 
-1. Klik op **Ontdekkingsreiziger** inkomsten.
+1. Klik **Ontdekkingsreiziger van opbrengsten**.
 
    ![](assets/one.png)
 
-1. Klik op **Nieuw** maken en vervolgens op **dashboard**.
+1. Klik **Nieuw maken** en vervolgens **Dashboard**.
 
    ![](assets/two.png)
 
@@ -31,13 +31,13 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 
    >[!NOTE]
    >
-   >U kunt de weergave van het dashboard verder aanpassen door op **Thema** &#39;s te klikken en uw favoriet te kiezen.
+   >U kunt de weergave van het dashboard verder aanpassen door op **Thema&#39;s** te klikken en uw favoriet te kiezen.
 
-1. Klik in de eerste sectie van het dashboard op het pictogram **Invoegen** en selecteer **Bestand**.
+1. In de eerste sectie van uw dashboard, klik **Tussenvoegsel** pictogram en selecteer **Dossier**.
 
    ![](assets/four.png)
 
-1. Dubbelklik op **Opslagverkenner**.
+1. Dubbelklik **Ontdekkingsreiziger van opbrengsten**.
 
    ![](assets/five.png)
 
@@ -49,7 +49,7 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 
    ![](assets/seven.png)
 
-1. Kies uw rapport en klik op **Selecteren**.
+1. Kies uw rapport en klik **Select**.
 
    ![](assets/eight.png)
 
@@ -61,17 +61,17 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 
    ![](assets/ten.png)
 
-1. Als u het bestand wilt opslaan, klikt u op het pictogram Opslaan, voert u een bestandsnaam in, dubbelklikt u op de map Revenue Explorer totdat u naar de gewenste map voor het dashboard gaat en klikt u op **Opslaan**.
+1. Als u wilt opslaan, klikt u op het pictogram Opslaan, voert u een bestandsnaam in, dubbelklikt u op de map Revenue Explorer totdat u naar de gewenste map voor het dashboard gaat en klikt u op **Opslaan**.
 
    ![](assets/eleven.png)
 
-## Een dashboard bewerken {#editing-a-dashboard}
+## Een dashboard {#editing-a-dashboard} bewerken
 
-1. Klik op **Ontdekkingsreiziger** inkomsten.
+1. Klik **Ontdekkingsreiziger van opbrengsten**.
 
    ![](assets/one.png)
 
-1. Dubbelklik op de map **Revenue Explorer** . Navigeer naar de plaats waar uw dashboard woont.
+1. Dubbelklik op de map **Ontdekkingsreiziger van inkomsten**. Navigeer naar de plaats waar uw dashboard woont.
 
    ![](assets/thirteen.png)
 
@@ -79,13 +79,13 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 
    ![](assets/fourteen.png)
 
-## Een dashboard verwijderen {#deleting-a-dashboard}
+## Een dashboard {#deleting-a-dashboard} verwijderen
 
-1. Klik op **Ontdekkingsreiziger** inkomsten.
+1. Klik **Ontdekkingsreiziger van opbrengsten**.
 
    ![](assets/one.png)
 
-1. Dubbelklik op de map **Revenue Explorer** . Navigeer naar de plaats waar uw dashboard woont.
+1. Dubbelklik op de map **Ontdekkingsreiziger van inkomsten**. Navigeer naar de plaats waar uw dashboard woont.
 
    ![](assets/thirteen.png)
 
