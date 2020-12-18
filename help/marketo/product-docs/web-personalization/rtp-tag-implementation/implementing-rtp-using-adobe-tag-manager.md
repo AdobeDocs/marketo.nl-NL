@@ -22,7 +22,7 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
-1. Zoek onder Domein het relevante domein en klik op Tag **** genereren.
+1. Zoek onder Domein het relevante domein en klik op **Tag genereren**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
@@ -31,13 +31,13 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. Ga naar **Regels,** klik **Create Nieuwe Regel.**
+1. Ga naar **Regels,** klik **Nieuwe regel maken.**
 
 1. Vul het volgende in
 
    1. Naam: **Marketo RTP**
    1. Voorwaarden (samenvouwen): Triggerregel bij - **Boven aan pagina**
-   1. JavaScript (samenvouwen): Klik op Nieuw script **toevoegen**
+   1. JavaScript (samenvouwen): Klik **Nieuw script toevoegen**
 
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
@@ -53,11 +53,11 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
 
    >[!CAUTION]
    >
-   >Zorg ervoor dat u alle tags verwijdert en alleen het script zelf laat (geen `<script type='text/javascript'>` , `</script>` )
+   >Zorg ervoor u alle markeringen verwijdert en slechts het manuscript zelf verlaat (geen `<script type='text/javascript'>`, `</script>`)
 
-1. Klik op Code **** opslaan in de scripteditor en Regel **** opslaan in de regeleditor.
+1. Klik **sparen Code** in de manuscripteditor en **sparen Regel** in de regelredacteur.
 
-1. Zoek in het deelvenster Regels de regel voor het laden van de pagina Marketo RTP en selecteer in het vervolgkeuzemenu **Handelingen** de optie Regels **** activeren.
+1. Zoek in het deelvenster Regels de regel voor het laden van de pagina Marketo RTP en selecteer **Acties** vervolgkeuzelijst **Regels activeren**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
