@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een mobiele app toevoegen {#add-a-mobile-app}
+# Een mobiele toepassing toevoegen {#add-a-mobile-app}
 
 Verzend pushberichten naar uw klantenbasis door uw mobiele app aan te sluiten met Marketo.
 
@@ -23,7 +23,7 @@ Apps beginnen normaal uit in een zandbakmilieu, waar de aanvankelijke ontwikkeli
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -35,7 +35,7 @@ Apps beginnen normaal uit in een zandbakmilieu, waar de aanvankelijke ontwikkeli
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Voer een naam in. Selecteer in de vervolgkeuzelijst **Type** het type omgeving dat u gebruikt: Sandbox of Production. Klik op **Opslaan**.
+1. Voer een naam in. In **Type** drop-down, selecteer het type van milieu u gebruikt-zandbak of Productie. Klik **Opslaan**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
