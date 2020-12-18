@@ -17,12 +17,12 @@ U kunt uw e-mailsjablonen aanpassen met vooraf gedefinieerde kenmerken, zoals `{
 
 >[!TIP]
 >
->Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn het `only fields that will look to both Sales Connect and Salesforce.` Dat betekent dat als een contactpersoon niet bestaat in de [webtoepassing](http://toutapp.com/login), we in Salesforce kijken of we een contact-/lead-record met een overeenkomend e-mailadres kunnen vinden. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
+>Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn het veld `only fields that will look to both Sales Connect and Salesforce.` Dit betekent dat als een contactpersoon niet bestaat in de [webtoepassing](http://toutapp.com/login), we in Salesforce kijken of we een contact-/lograprecord kunnen vinden met een bijbehorend e-mailadres. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
 
 ## Een dynamisch veld invoegen in een sjabloon {#insert-a-dynamic-field-into-a-template}
 
-1. Zoek in **Sjablonen en campagnes** de sjabloon die u wilt bewerken en klik op Sjabloon **** bewerken.
-1. Klik op Dynamische **velden** tonen.
+1. Zoek in **Sjablonen en campagnes** de sjabloon die u wilt bewerken en klik op **Sjabloon bewerken**.
+1. Klik **Tout Dynamic Fields**.
 
    >[!NOTE]
    >
