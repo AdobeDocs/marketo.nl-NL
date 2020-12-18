@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Alle inhoud begrijpen {#understanding-all-content}
+# Alle inhoud {#understanding-all-content}
 
 >[!NOTE]
 >
->Afhankelijk van de aankoopdatum kan uw abonnement op Marketo de optie Voorspelende inhoud of Inhoud`<sup>AI</sup>`markeren bevatten. Marketo schakelt de functie Content`<sup>AI</sup>` Analytics voor gebruikers die gebruikmaken van voorspellende inhoud in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager Succes bij Marketo-klanten om te upgraden naar Marketo-inhoud`<sup>AI</sup>`.
+>Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
 Op de pagina Alle inhoud worden alle inhoud weergegeven die handmatig is ontdekt of toegevoegd.   ![](assets/image2017-10-3-9-3a4-3a56.png)
 
@@ -30,11 +30,11 @@ De paginavelden bevatten:
 
 U kunt nieuwe inhoud toevoegen en bijhouden, inhoud verwijderen of inhoud goedkeuren. Nadat u inhoud hebt goedgekeurd, kunt u deze bewerken op de pagina Voorspelende inhoud.
 
-## Inhoud filteren op categorieën  {#filter-content-by-categories}
+## Inhoud filteren op categorieën {#filter-content-by-categories}
 
 Filter de inhoud door een of meer categorieën te selecteren. Stel vervolgens de datum of het datumbereik voor de inhoudanalyse in met behulp van de standaard- of aangepaste instellingen.
 
-1. Klik op het filterpictogram op de pagina **Alle inhoud** en selecteer een of meer inhoudscategorieën onder **Categorie**.
+1. Klik op de pagina **All Content** op het filterpictogram en selecteer een of meer inhoudscategorieën onder **Categorie**.
 
    ![](assets/image2017-10-3-9-3a5-3a52.png)
 
@@ -44,7 +44,7 @@ Filter de inhoud door een of meer categorieën te selecteren. Stel vervolgens de
 
 ## Analyses weergeven voor een datum- of datumbereik {#display-analytics-for-a-date-or-date-range}
 
-1. Als u gegevens voor een bepaalde datum of een bepaald datumbereik wilt weergeven, klikt u op het kalenderpictogram en kiest u een optie in het linkerdeelvenster. Klik voor een aangepast datumbereik op de eerste en laatste dag van het datumbereik in de kalender (zoals weergegeven). Klik op **Toepassen**.
+1. Als u gegevens voor een bepaalde datum of een bepaald datumbereik wilt weergeven, klikt u op het kalenderpictogram en kiest u een optie in het linkerdeelvenster. Klik voor een aangepast datumbereik op de eerste en laatste dag van het datumbereik in de kalender (zoals weergegeven). Klik **Toepassen**.
 
    ![](assets/all-content-calendar-filter-hands.png)
 
