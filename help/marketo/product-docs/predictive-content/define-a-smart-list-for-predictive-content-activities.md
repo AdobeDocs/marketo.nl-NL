@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Een slimme lijst definiëren voor activiteiten met betrekking tot voorspellende inhoud {#define-a-smart-list-for-predictive-content-activities}
+# Een slimme lijst definiëren voor activiteiten met voorspellende inhoud {#define-a-smart-list-for-predictive-content-activities}
 
 >[!NOTE]
 >
->Afhankelijk van de aankoopdatum kan uw abonnement op Marketo de optie Voorspelende inhoud of Inhoud`<sup>AI</sup>`markeren bevatten. Marketo schakelt de functie Content`<sup>AI</sup>` Analytics voor gebruikers die gebruikmaken van voorspellende inhoud in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager Succes bij Marketo-klanten om te upgraden naar Marketo-inhoud`<sup>AI</sup>`.
+>Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
-U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wanneer u een slimme lijst definieert in een slimme campagne. U kunt een actie voor iedereen teweegbrengen die voorspelbare inhoud via het malplaatje [van de Media](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)Rich, de Bar [van de Aanbeveling van de](enabling-predictive-content/enable-the-content-recommendation-bar.md)Inhoud, of in een e-mail klikt.
+U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wanneer u een slimme lijst definieert in een slimme campagne. U kunt een actie voor iedereen teweegbrengen die voorspelbare inhoud via [Rich Media malplaatje](enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), [de Bar van de Aanbeveling van de Inhoud ](enabling-predictive-content/enable-the-content-recommendation-bar.md), of in een e-mail klikt.
 
-1. Navigeer in uw slimme campagne naar het tabblad **Slimme lijst** .
+1. Navigeer in uw slimme campagne naar het tabblad **Slimme lijst**.
 
    ![](assets/smart-list-1.png)
 
@@ -28,7 +28,7 @@ U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wa
    >**Diep duiken**
    >
    >
-   >Slimme lijsten kunnen verbazingwekkende dingen doen. Meer informatie vindt u in de diepe duik van de [slimme lijst](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Slimme lijsten kunnen verbazingwekkende dingen doen. Leer meer in [slimme lijst diep duik](../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Zoek de trigger en sleep deze naar het canvas.
 
@@ -54,7 +54,7 @@ U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wa
 
    ![](assets/pc-add-constraint.png)
 
-1. Als u de e-mailbron voor uw vooruitlopende inhoud gebruikt, voegt u de **Klik Verbinding in de trekker van E-mail **toe. Selecteer uw e-mail en voeg de restrictie **Is voorspelbaar** toe, die als **waar** wordt gedefinieerd.
+1. Als u de e-mailbron voor uw vooruitlopende inhoud gebruikt, voegt u de **Klik Verbinding in de trekker van E-mail **toe. Selecteer uw e-mail en voeg de **Is Predictive** beperking toe, die als **true** wordt bepaald.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
