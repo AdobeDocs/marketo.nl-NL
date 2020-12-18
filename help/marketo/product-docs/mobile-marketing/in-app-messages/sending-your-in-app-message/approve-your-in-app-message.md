@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Uw bericht in de app goedkeuren {#approve-your-in-app-message}
+# Uw bericht in de app {#approve-your-in-app-message} goedkeuren
 
 U moet de verzending goedkeuren voordat het bericht in de app wordt verzonden.
 
-1. Klik op **Goedkeuren en Starten** als alles er goed uitziet.
+1. Als alles O.K. kijkt, klik **goedkeuren en Lancering**.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm-281-29.png)
 
@@ -23,7 +23,7 @@ U moet de verzending goedkeuren voordat het bericht in de app wordt verzonden.
    >
    >Als een onderdeel van het verzendproces bijvoorbeeld onvolledig is, wordt het bericht in de app niet goedgekeurd, verschijnt er een waarschuwingsbericht waarin wordt aangegeven welk gebied uw aandacht verdient. Ga dat oplossen en u zou het bericht in stap 2 moeten zien.
 
-1. Klik op **Goedkeuren en Starten**.
+1. Klik **Goedkeuren en Starten**.
 
    ![](assets/pasted-image-at-2016-05-31-02-08-pm.png)
 
@@ -41,7 +41,7 @@ U moet de verzending goedkeuren voordat het bericht in de app wordt verzonden.
 
    U kunt een actief programma pauzeren of stoppen, maar er is een groot verschil tussen deze twee opties.
 
-1. Klik op Programma **** pauzeren als u het programma een tijdje moet stoppen maar het later moet hervatten. De status **Gepauzeerd** wordt gewijzigd.
+1. Klik **Programma onderbreken** als u het programma een tijdje moet tegenhouden maar het later moet hervatten. Het zal in **Gepauzeerde** status veranderen.
 
    ![](assets/image2016-5-12-13-3a50-3a26.png)
 
@@ -49,15 +49,15 @@ U moet de verzending goedkeuren voordat het bericht in de app wordt verzonden.
    >
    >De redenen voor het pauzeren zouden enkel kunnen zijn om het een tijdje tegen te houden, of als u het bericht wilt wijzigen of het programma aanpassen. U kunt echter niet naar een ander bericht gaan, alleen het bestaande bericht bewerken.
 
-1. Als u wilt dat het gepauzeerde programma doorgaat, klikt u op **Hervatten** **Programma**.
+1. Wanneer u wilt dat het gepauzeerde programma verder wordt uitgevoerd, klikt u op **Hervatten** **Programma**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
-1. Als u het programma volledig wilt stoppen, klikt u op **Stopprogramma**.
+1. Als u het programma volledig wilt stoppen, klikt u op **Programma stoppen**.
 
    ![](assets/image2016-5-24-13-3a29-3a35.png)
 
-1. Klik op **Stoppen** als u zeker weet dat u het programma wilt stoppen.
+1. Als u zeker bent u het programma wilt tegenhouden, klik **Stop**.
 
    ** ![](assets/image2016-5-24-13-3a31-3a22.png)
 
@@ -65,7 +65,7 @@ U moet de verzending goedkeuren voordat het bericht in de app wordt verzonden.
 
    >[!NOTE]
    >
-   >Wanneer u een programma tegenhoudt, loopt het niet meer en kan niet worden hervat. Als je het opnieuw wilt uitvoeren, moet je het opnieuw bouwen. Zorg er dus voor dat u klaar bent met een programma voordat u op **Programma** stoppen klikt!
+   >Wanneer u een programma tegenhoudt, loopt het niet meer en kan niet worden hervat. Als je het opnieuw wilt uitvoeren, moet je het opnieuw bouwen. Zo, zorg ervoor u met een programma wordt gedaan alvorens u **Programma van het Einde** klikt!
 
 ## In-app-dashboard {#in-app-dashboard}
 
