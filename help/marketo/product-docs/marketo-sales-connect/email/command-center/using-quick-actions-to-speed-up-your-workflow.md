@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Snelle acties gebruiken om uw workflow te versnellen {#using-quick-actions-to-speed-up-your-workflow}
+# Het gebruiken van Snelle Acties om Uw Werkschema {#using-quick-actions-to-speed-up-your-workflow} te versnellen
 
 Het e-mailraster bevat twee typen kolommen voor snelle acties. E-mailhandelingen, waarmee u actie kunt ondernemen op de e-mail en vervolghandelingen kunt uitvoeren. Hiermee kunt u met een paar klikken op de service acties uitvoeren.
 
@@ -39,7 +39,7 @@ Snelle acties via e-mail zijn dynamisch en worden bijgewerkt, afhankelijk van de
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
-   <td><p>Het e-mailbericht wordt verwijderd.<br><strong>Opmerking:</strong> E-mails die als onderdeel van een campagne zijn verzonden, kunnen niet worden verwijderd.</p></td> 
+   <td><p>Het e-mailbericht wordt verwijderd.<br><strong>Opmerking:</strong> e-mails die zijn verzonden als onderdeel van een campagne kunnen niet worden verwijderd.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -58,7 +58,7 @@ Snelle acties via e-mail zijn dynamisch en worden bijgewerkt, afhankelijk van de
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
-   <td><p>Het e-mailbericht wordt verwijderd.<br><strong>Opmerking:</strong> E-mails die als onderdeel van een campagne zijn verzonden, kunnen niet worden verwijderd.</p></td> 
+   <td><p>Het e-mailbericht wordt verwijderd.<br><strong>Opmerking:</strong> e-mails die zijn verzonden als onderdeel van een campagne kunnen niet worden verwijderd.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -77,7 +77,7 @@ Snelle acties via e-mail zijn dynamisch en worden bijgewerkt, afhankelijk van de
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
-   <td><p>Het e-mailbericht wordt verwijderd.<br><strong>Opmerking:</strong> E-mails die als onderdeel van een campagne zijn verzonden, kunnen niet worden verwijderd.</p></td> 
+   <td><p>Het e-mailbericht wordt verwijderd.<br><strong>Opmerking:</strong> e-mails die zijn verzonden als onderdeel van een campagne kunnen niet worden verwijderd.</p></td> 
   </tr> 
  </tbody> 
 </table>
