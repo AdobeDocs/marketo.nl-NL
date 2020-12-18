@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Template 4-C {#template-c}
+# Sjabloon 4-C {#template-c}
 
 [Sjabloon 4C downloaden](http://docs.marketo.com/download/attachments/8783906/template-4c.html?version=1&amp;modificationdate=1437692414000&amp;api=v2)
 
