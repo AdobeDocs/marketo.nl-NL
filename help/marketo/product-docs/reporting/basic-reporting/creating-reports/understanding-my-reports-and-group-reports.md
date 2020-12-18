@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Mijn rapporten en groepsrapporten begrijpen {#understanding-my-reports-and-group-reports}
 
-U kunt **Mijn Rapporten **en **Groeprapporten **van het Huis [van](navigating-the-analytics-home-page.md)Analytics tot stand brengen.
+U kunt **Mijn Rapporten **en **Groeprapporten **van [Analytics Huis](navigating-the-analytics-home-page.md) tot stand brengen.
 
-**Mijn rapporten** zijn alleen voor u zichtbaar.
+**Mijn** rapporten zijn alleen voor jou zichtbaar.
 
 **Groepsrapporten** zijn zichtbaar voor alle gebruikers in die werkruimte.
 
 >[!NOTE]
 >
->Elke werkruimte heeft een set **Mijn rapporten **en **Groeprapporten**.
+>Elke werkruimte heeft een reeks **Mijn Rapporten **en **Groeprapporten**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
