@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De landinstelling van een formulier wijzigen {#change-a-forms-locale}
+# Landinstelling van een formulier wijzigen {#change-a-forms-locale}
 
 Wanneer u werkt met internationale formulieren, wilt u datums/tijden in de juiste notatie weergeven. Marketo doet dit automatisch voor u. Je hoeft alleen maar de landinstelling van het formulier in te stellen en we zorgen voor de rest.
 
@@ -19,19 +19,19 @@ Wanneer u werkt met internationale formulieren, wilt u datums/tijden in de juist
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. Klik onder **Formulier** - **instellingen** op **Instellingen**.
+1. Klik onder **Formulier** **Instellingen** op **Instellingen**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Selecteer de **landinstelling** van uw keuze.
+1. Selecteer de **Landinstelling** van uw keuze.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
@@ -48,7 +48,7 @@ Wanneer u werkt met internationale formulieren, wilt u datums/tijden in de juist
    >**Herinnering**
    >
    >
-   >Vergeet niet het concept [van de bestemmingspagina dat door de formulierwijzigingen is gemaakt,](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren.
+   >Vergeet niet om [het concept van de bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren dat door de formulierwijzigingen is gemaakt.
 
 1. 
 1. Dat is dat! Mensen kunnen zien dat de datum/tijd wordt weergegeven in de juiste landinstelling.
