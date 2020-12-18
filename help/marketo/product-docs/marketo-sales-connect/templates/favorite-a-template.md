@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een sjabloon favorieten {#favorite-a-template}
+# Sjabloon {#favorite-a-template} favoriete
 
 U kunt sjablonen vanuit elke gewenste categorie toevoegen aan de lijst Favorieten. Hiermee wordt automatisch een nieuwe categorie boven aan de lijst gegenereerd, zodat u snel toegang kunt krijgen tot de sjablonen die u het meest gebruikt.
 
