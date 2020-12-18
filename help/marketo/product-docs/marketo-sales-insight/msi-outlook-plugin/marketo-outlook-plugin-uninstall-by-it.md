@@ -41,4 +41,4 @@ Als u een locatie voor de logbestanden wilt opgeven, geeft u het bestandspad op 
 >
 >Als u de plug-in extern verwijdert, worden Outlook op de computer van de gebruiker forceerd gesloten.
 
-Gelieve te verwijzen de volledige lijst van schakelaars [van](https://support.microsoft.com/en-us/kb/227091) Microsoft als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
+Gelieve te verwijzen [de volledige lijst van Microsoft van schakelaars](https://support.microsoft.com/en-us/kb/227091) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
