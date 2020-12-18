@@ -13,33 +13,33 @@ ht-degree: 0%
 
 # Knopinfo-instructies toevoegen aan een formulierveld {#add-tooltip-instructions-to-a-form-field}
 
-[Met tips](add-hint-text-to-a-form-field.md) en instructies kunnen mensen formulieren invullen. Hieronder wordt beschreven hoe u knopinfo-instructies kunt toevoegen.
+[Met ](add-hint-text-to-a-form-field.md) instructies en aanwijzingen kunnen mensen formulieren invullen. Hieronder wordt beschreven hoe u knopinfo-instructies kunt toevoegen.
 
 >[!NOTE]
 >
 >**Definitie**
 >
->Formulierhints **zijn** tekst die in het veld verdwijnt wanneer de bezoeker in het veld begint te typen.
+>Formulier **Tips** is tekst die in het veld verdwijnt wanneer de bezoeker in het veld begint te typen.
 >
->Formulierinstructies **** zijn kleine knopinfo die opduikt wanneer de bezoeker de muisaanwijzer op het veld plaatst.
+>Formulier **Instructies** zijn kleine knopinfo die opduikt wanneer de bezoeker het veld aanwijst.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Selecteer het **formulier** en klik op Formulier **** bewerken.
+1. Selecteer uw **formulier** en klik **Formulier bewerken**.
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Selecteer uw veld en voer **instructies** in.
+1. Selecteer uw veld en voer **Instructies** in.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 
@@ -48,7 +48,7 @@ ht-degree: 0%
    >**Herinnering**
    >
    >
-   >Vergeet niet het concept [van de bestemmingspagina dat door de formulierwijzigingen is gemaakt,](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren.
+   >Vergeet niet om [het concept van de bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren dat door de formulierwijzigingen is gemaakt.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
@@ -58,5 +58,5 @@ Geweldig werk! De knopinfo wordt weergegeven wanneer een bezoeker de cursor op h
 >
 >**Diep duiken**
 >
->Er is zoveel dat je met [formulieren](http://docs.marketo.com/display/docs/forms)kunt doen.
+>Er is zo veel dat u met [formulieren](http://docs.marketo.com/display/docs/forms) kunt doen.
 
