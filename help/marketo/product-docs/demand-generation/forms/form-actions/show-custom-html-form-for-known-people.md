@@ -19,19 +19,19 @@ Als een bezoeker is gekookt (bekende persoon die in het verleden een e-mailadres
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selecteer onder **Marketing** **Activiteiten** het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer onder **Marketing** **Activiteiten** uw formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Klik onder **Formulier** - **instellingen** op **Instellingen**.
+1. Klik onder **Formulier** **Instellingen** op **Instellingen**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Instellen indien **bekende** **bezoeker, tonen**: naar **Aangepaste** **HTML**.
+1. Stel Indien **Bekend** **Bezoeker, Tonen** in: tot **Aangepast** **HTML**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Klik op ![—](assets/image2014-9-25-14-3a1-3a26.png) om de **aangepaste** **HTML** te bewerken die aan bekende personen wordt weergegeven.
+1. Klik ![—](assets/image2014-9-25-14-3a1-3a26.png) om **Custom** **HTML** uit te geven die aan bekende mensen zal worden getoond.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -45,18 +45,18 @@ Als een bezoeker is gekookt (bekende persoon die in het verleden een e-mailadres
    |---|---|
    | `{{lead.FirstName}}` | Hierdoor wordt de voornaam van de persoon weergegeven. |
    | `{{lead.LastName}}` | Hierdoor wordt de achternaam van de persoon weergegeven. |
-   | `{{form.Button:default=Download}}` | Hiermee wordt de formulierknop weergegeven. Vervang het gebied na de knop `=` om de knoptekst te wijzigen. |
-   | `{{form.NotYou:default=Not you?}}` | Dit zal een verbinding tonen voor het geval dat de persoon iemand anders is. Vervang het gebied na de koppeling `=` om de koppelingstekst te wijzigen. |
+   | `{{form.Button:default=Download}}` | Hiermee wordt de formulierknop weergegeven. Vervang het gebied na `=` om de knooptekst te veranderen. |
+   | `{{form.NotYou:default=Not you?}}` | Dit zal een verbinding tonen voor het geval dat de persoon iemand anders is. Vervang het gebied na `=` om de verbindingstekst te veranderen. |
 
    >[!CAUTION]
    >
    >Alleen de vier bovenstaande tokens kunnen worden gebruikt. Een ander token werkt hier niet.
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ Als een bezoeker is gekookt (bekende persoon die in het verleden een e-mailadres
    >**Herinnering**
    >
    >
-   >Vergeet niet het concept [van de bestemmingspagina dat door de formulierwijzigingen is gemaakt,](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren.
+   >Vergeet niet om [het concept van de bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren dat door de formulierwijzigingen is gemaakt.
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
