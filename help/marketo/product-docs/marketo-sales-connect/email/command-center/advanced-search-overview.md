@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Door de geavanceerde zoekopdracht te gebruiken voor het zoeken naar vooruitzichten die e-mails hebben weergegeven, erop hebben geklikt of erop hebben gereageerd, kunt u een gerichte lijst met uw meest betrokken vooruitzichten maken.
 
-## Toegang tot geavanceerde zoekfunctie {#how-to-access-advanced-search}
+## Hoe te om tot Geavanceerd Onderzoek {#how-to-access-advanced-search} toegang te hebben
 
-1. Klik op **Opdrachtcentrum**.
+1. Klik **Command Center**.
 
    ![](assets/one.png)
 
-1. Klik op **E-mails**.
+1. Klik **E-mails**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Door de geavanceerde zoekopdracht te gebruiken voor het zoeken naar vooruitzicht
 
    ![](assets/three.png)
 
-1. Klik op **Geavanceerd zoeken**.
+1. Klik **Geavanceerd zoeken**.
 
    ![](assets/four.png)
 
@@ -102,11 +102,11 @@ Filters op e-mails die nooit zijn bezorgd.
 
 Hieronder wordt beschreven hoe u een opgeslagen zoekopdracht maakt.
 
-1. Klik op Filters **opslaan als nadat alle filters zijn geïnstalleerd**.
+1. Nadat al uw filters op zijn plaats zijn, klik **sparen Filters als**.
 
    ![](assets/save-search-1.png)
 
-1. Geef de zoekopdracht een naam en klik op **Opslaan**.
+1. Geef uw zoekopdracht een naam en klik op **Opslaan**.
 
    ![](assets/save-search-2.png)
 
