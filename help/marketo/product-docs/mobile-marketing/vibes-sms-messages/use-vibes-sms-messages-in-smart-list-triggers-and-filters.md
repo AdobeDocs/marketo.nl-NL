@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
+# SMS-berichten met kwasten gebruiken in Smart List-triggers en -filters {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Nadat u een SMS-bericht [van Vibes hebt](create-a-vibes-sms-message.md)gemaakt, wilt u triggers en filters voor slimme lijsten gebruiken in een slimme campagne om de voordelen te benutten. Zo gaat het.
+Nadat u [een SMS-bericht van Vibes](create-a-vibes-sms-message.md) creeert, zult u slimme lijsttrekkers en filters binnen een slimme campagne willen gebruiken om de voordelen te krijgen. Zo gaat het.
 
-1. Klik in Mijn Marketo op **Marketingactiviteiten**.
+1. In Mijn Marketo, klik **Marketing Activiteiten**.
 
    ![](assets/image2016-7-28-9-3a48-3a32.png)
 
-1. Kies een slimme campagne waarin u uw SMS-middel wilt gebruiken. Sleep over een trigger, zoals het veelgebruikte formulier **** Vult uit.
+1. Kies een slimme campagne waarin u uw SMS-middel wilt gebruiken. Sleep over een trigger, zoals het populaire **Formulier invullen**.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
@@ -35,7 +35,7 @@ Met de trigger voor SMS-berichtenbeloften wordt een stroom gestart, zoals het ve
 
 ![](assets/sms-message-bounces-real.jpg)
 
-De trigger **Abonneren op lijst** met Vibes leidt een flow in wanneer een persoon zich abonneert.
+Met de trigger **Abonneert u op Levenlijst** wordt een stroom gestart wanneer een persoon zich abonneert.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
@@ -45,19 +45,19 @@ De** klikt Verbinding in de trekker van SMS Bericht** initieert een stroom wanne
 
 ## SMS-filters {#sms-filters}
 
-U kunt ook Vibes-filters gebruiken in slimme lijsten. Met het filter **Geabonneerd op Lijst** met Vibes vindt u iedereen die zich *ooit* heeft geabonneerd op Vibes. Dit geldt zowel voor niet-geabonneerde als voor verwijderde personen, ook al worden verwijderde personen weggelaten uit de stroom. Dit filter is het meest geschikt voor rapportage.
+U kunt ook Vibes-filters gebruiken in slimme lijsten. Met het filter **Subscribed to Vibes List** vindt u iedereen die *ever* heeft geabonneerd op Vibes. Dit geldt zowel voor niet-geabonneerde als voor verwijderde personen, ook al worden verwijderde personen weggelaten uit de stroom. Dit filter is het meest geschikt voor rapportage.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Met het **filter** **Lid van lijst met virussen **vindt** u daarentegen **iedereen** ***die momenteel* op Vibes is geabonneerd en dat het meest geschikt is voor gebruik in slimme campagnes of lijsten.
+De **Lid van de Lijst van Levendigheden **filter** **vondst** **Iedereen** ***momenteel* geabonneerd op Levenben en is het meest geschikt voor gebruik in slimme campagnes of lijsten.
 
 ![](assets/image001.png)
 
 >[!NOTE]
 >
->Alle SMS-filters bevatten standaard de **beperking Datum van activiteit** .
+>Alle filters van SMS omvatten **de Datum van Activiteit** beperking door gebrek.
 
-Nadat u Vibes-triggers en -filters hebt ingesteld in uw slimme lijst, kunt u de flow [](add-a-flow-step-for-sms.md)definiëren.
+Nadat u de triggers en filters van Vibes in uw slimme lijst hebt ingesteld, kunt u [de flow](add-a-flow-step-for-sms.md) definiëren.
 
 >[!MORELIKETHIS]
 >
