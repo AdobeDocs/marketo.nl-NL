@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # Abonneren op een basisrapport {#subscribe-to-a-basic-report}
 
-Als u automatische updates van een [basisrapport](http://docs.marketo.com/display/docs/basic+reporting)wilt ontvangen of deze wilt delen, kunt u elk e-mailadres op een bestaand rapport abonneren.
+Om automatische updates van een [basisrapport te ontvangen](http://docs.marketo.com/display/docs/basic+reporting), of hen te delen, kunt u om het even welk e-mailadres aan een bestaand rapport intekenen.
 
 >[!NOTE]
 >
->Voor de [rapportabonnementen van de Ontdekkingsreiziger](http://docs.marketo.com/display/docs/revenue+cycle+analytics) van de Ontdekkingsreiziger van de Opbrengst, zie [Abonneren aan een Rapport](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)van de Ontdekkingsreiziger van de Ontvangsten.
+>Voor [Inkomenscyclusverkenner](http://docs.marketo.com/display/docs/revenue+cycle+analytics) rapportabonnementen, zie [Abonneren op een Rapport van de Ontdekkingsreiziger van de Ontvangsten](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Ga naar het **Marketing Activiteiten **gebied.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Selecteer uw rapport in de navigatiestructuur en klik op het tabblad **Abonnementen** .
+1. Selecteer uw rapport in de navigatiestructuur en klik op het tabblad **Abonnementen**.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >U kunt zich ook abonneren op rapporten via het tabblad **Analyse** .
+   >U kunt ook een abonnement nemen op rapporten via het tabblad **Analytics**.
 
-1. Klik op Abonnement op **nieuw rapport**.
+1. Klik **Nieuw Abonnement van het Rapport**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -52,12 +52,12 @@ Als u automatische updates van een [basisrapport](http://docs.marketo.com/displa
    >**Verwante artikelen**
    >
    >
-   >Leer hoe u al uw rapportabonnementen [op één plaats kunt](manage-report-subscriptions.md) beheren.
+   >Leer hoe te om [al uw rapportabonnementen ](manage-report-subscriptions.md) op één plaats te beheren.
 
    >[!NOTE]
    >
    >**Diep duiken**
    >
    >
-   >Zie wat u anders met rapporten in de [BasisRapporterend](http://docs.marketo.com/display/docs/basic+reporting) diepe duik kunt doen.
+   >Zie wat u anders met rapporten in [Basis het Melden](http://docs.marketo.com/display/docs/basic+reporting) diepe duik kunt doen.
 
