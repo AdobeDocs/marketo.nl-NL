@@ -11,12 +11,12 @@ ht-degree: 0%
 ---
 
 
-# Een contactgroep maken {#how-to-create-a-contact-group}
+# Hoe te om een Groep van het Contact {#how-to-create-a-contact-group} te creëren
 
 Met Sales Connect kunt u groepen contactpersonen maken, zodat u persoonlijke e-mails naar meerdere ontvangers kunt sturen.
 
-Als u een groep wilt maken, selecteert u gewoon **N***new Group**.
+Als u een groep wilt maken, selecteert u **N****new Group**.
 
-Van hier kunt u contacten [manueel](http://docs.marketo.com/x/IYTS) of [via CSV](http://docs.marketo.com/x/VADb)toevoegen.
+Van hier kunt u contacten [manueel](http://docs.marketo.com/x/IYTS) of [via CSV](http://docs.marketo.com/x/VADb) toevoegen.
 
-Klik [hier](http://docs.marketo.com/x/iADb)voor meer informatie over het verzenden van e-mails over groepen.
+[Klik hier](http://docs.marketo.com/x/iADb) voor meer informatie over het verzenden van e-mails over groepen.
