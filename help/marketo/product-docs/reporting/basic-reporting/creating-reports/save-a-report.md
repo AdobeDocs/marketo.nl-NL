@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Soms moet u een standaardrapport opslaan om het later opnieuw weer te geven. Zo kunt u dat doen:
 
-1. Ga naar het gebied **Analytics** .
+1. Ga naar het gebied **Analytics**.
 1. ![](assets/image2015-4-30-11-3a50-3a5.png)
 
 1. Selecteer een [rapporttype](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
@@ -26,11 +26,11 @@ Soms moet u een standaardrapport opslaan om het later opnieuw weer te geven. Zo 
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Opslaan naar** een locatie en een **map** selecteren.
+1. **Sla** de map op en selecteer een  **map**.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Geef** het rapport een naam en klik op **Opslaan**.
+1. **Geef** het rapport een naam en klik op  **Opslaan**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
@@ -40,5 +40,5 @@ Soms moet u een standaardrapport opslaan om het later opnieuw weer te geven. Zo 
 
 >[!MORELIKETHIS]
 >
->Leer hoe u een rapport naar groepsrapporten [kunt](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)klonen.
+>Leer hoe te [kloon een rapport aan groepsrapporten](../../../../product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
 
