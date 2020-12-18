@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een zweepslag publiceren {#publish-a-sweepstakes}
 
-Nadat u een [sweepstakes](create-sweepstakes.md)hebt gemaakt, kunt u deze publiceren op uw Marketo-bestemmingspagina&#39;s, op uw website en op uw Facebook.
+Nadat u [een sweepstakes](create-sweepstakes.md) hebt gemaakt, kunt u deze publiceren op uw bestemmingspagina&#39;s Marketo, op uw website en uw Facebook.
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ Nadat u een [sweepstakes](create-sweepstakes.md)hebt gemaakt, kunt u deze public
 >
 >Voordat je je voorstel publiceert, moet je bevestigen dat het voldoet aan alle toepasselijke wetten, regels en regels.
 
-1. Zoek de bestemmingspagina en klik op Concept **bewerken**.
+1. Zoek de bestemmingspagina en klik **Concept** bewerken.
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. Zoek de sectie Elementen invoegen aan de rechterkant van de pagina. Sleep over **Vegen**.
+1. Zoek de sectie Elementen invoegen aan de rechterkant van de pagina. Sleep over **Overtreklijnen**.
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
-1. Selecteer de overgangen en klik op **Invoegen**.
+1. Selecteer uw transporten en klik **Invoegen**.
 
    ![](assets/image2014-9-25-17-3a41-3a35.png)
 
@@ -46,7 +46,7 @@ Nadat u een [sweepstakes](create-sweepstakes.md)hebt gemaakt, kunt u deze public
    >
    >U moet uw transpiratieplaatsen goedkeuren om deze hier beschikbaar te maken.
 
-   [publiceer de openingspagina naar Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) en [plaats de zweepslagen op uw website](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [Publiceer de openingspagina naar ](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [Facebook om de zweepstakes op uw website te plaatsen](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
    >[!TIP]
    >
@@ -54,6 +54,6 @@ Nadat u een [sweepstakes](create-sweepstakes.md)hebt gemaakt, kunt u deze public
 
    >[!NOTE]
    >
-   >Wanneer mensen zich beginnen aan te melden, vergeet dan niet om terug te keren naar de app om de [zweepstakerwinnaars](select-sweepstakes-winners.md)te selecteren!
+   >Wanneer mensen zich beginnen aan te melden, vergeet dan niet om terug te keren naar de app naar [selecteer de zweepstakerwinnaars](select-sweepstakes-winners.md)!
 
 Gefeliciteerd! Goedkeuren van de landingspagina en uw transporten zijn live. U kunt ook of.
