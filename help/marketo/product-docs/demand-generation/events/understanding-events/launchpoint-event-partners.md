@@ -11,7 +11,7 @@ ht-degree: 1%
 ---
 
 
-# Gebeurtenispartners van LaunchPoint {#launchpoint-event-partners}
+# StartPoint-gebeurtenispartners {#launchpoint-event-partners}
 
 Verbind Marketo met een Partner van de Gebeurtenis van LaunchPoint om uw online gebeurtenissen te automatiseren. Wanneer u deze aansluit, kunt u:
 
