@@ -18,27 +18,27 @@ Met Sales Connect kunt u de antwoorden van uw vooruitzichten automatisch laten r
 ## Vereisten {#requirements}
 
 * E-mails via API-registratie moeten worden geregistreerd
-* Moet een antwoord kunnen [volgen](http://docs.marketo.com/x/BYPS)
+* Moet een antwoord [kunnen volgen](http://docs.marketo.com/x/BYPS)
 * Moet zijn aangesloten op Salesforce
 * Moet Salesforce [API-aanroepen](http://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) beschikbaar hebben
 
 ## Logboekregistratie voor reactie inschakelen {#enable-reply-logging}
 
-1. Om antwoordregistreren toe te laten kunt u over aan uw pagina van montages [van](http://docs.marketo.com/pages/assets/external-link.jspa) Salesforce leiden. Zodra het registreren van API wordt gecontroleerd zult u de optie zien om *Log antwoorden te controleren.\
+1. Om antwoordregistreren toe te laten kunt u over aan uw [pagina van Salesforce montages](http://docs.marketo.com/pages/assets/external-link.jspa) leiden. Zodra het registreren van API wordt gecontroleerd zult u de optie zien om *Log antwoorden te controleren.\
    *
 
    >[!NOTE]
    >
    >Voor het registreren van antwoorden gelden dezelfde regels als voor het registreren van e-mails die worden verzonden. Hieronder valt ook de manier waarop e-mails worden geregistreerd; op leads en contacten; wanneer er een dubbel record is; als er geen overeenkomende records worden gevonden.
 
-## Type instellen op Reactie in Salesforce {#setting-type-to-reply-in-salesforce}
+## Type instellen op Reageren in Salesforce {#setting-type-to-reply-in-salesforce}
 
-Het is belangrijk dat u zinvolle gegevens krijgt uit uw Salesforce-rapporten. Doordat het veld Type kan worden ingevuld als &#39;Reageren&#39;, kunt u die gegevens via uw rapporten ophalen. Partner omhoog met uw `Salesforce admin` om deze opstelling te krijgen.
+Het is belangrijk dat u zinvolle gegevens krijgt uit uw Salesforce-rapporten. Doordat het veld Type kan worden ingevuld als &#39;Reageren&#39;, kunt u die gegevens via uw rapporten ophalen. Partner up with your `Salesforce admin` to get this setup.
 
 1. Ga naar **Setup **> **Aanpassen **> **Activiteiten **> **Taakvelden**.
-1. Klik op **Tekst**.
-1. Klik onder Picklist voor taaktype op **Nieuw**.
-1. Typ &quot;Reageren&quot; in het lege vak. Geef een hoofdletter op voor de optie R en klik op **Opslaan**.
+1. Klik **Type**.
+1. Onder de Waarden van de Picklist van het Type van Taak, klik **Nieuw**.
+1. Typ &quot;Reageren&quot; in het lege vak. Zorg ervoor u &quot;R&quot;kapitaliseert en **sparen** klikt.
 
    >[!NOTE]
    >
