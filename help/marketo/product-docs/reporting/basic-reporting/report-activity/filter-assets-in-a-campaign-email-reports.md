@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Middelen in een campagne-e-mailrapporten filteren {#filter-assets-in-a-campaign-email-reports}
+# Elementen filteren in een campagne-e-mailrapport {#filter-assets-in-a-campaign-email-reports}
 
-Focus uw rapport [Campagne-e-mailprestaties](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md) op specifieke [slimme campagnes](http://docs.marketo.com/display/docs/smart+campaigns) in uw programma&#39;s (&#39;lokale middelen&#39;) of op de gearchiveerde campagnes.
+Focus uw [Campagne-e-mailprestaties](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)-rapport op specifieke [slimme campagnes](http://docs.marketo.com/display/docs/smart+campaigns) in uw programma&#39;s (&#39;lokale middelen&#39;) of op de gearchiveerde campagnes.
 
-1. Ga naar **Analytics **(of **Marketing Activity**) gebied.
+1. Ga naar **Analytics **(of **Marketing Activities**) gebied.
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -23,7 +23,7 @@ Focus uw rapport [Campagne-e-mailprestaties](../../../../product-docs/reporting/
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. Klik op het tabblad **Setup** en sleep over een filter.
+1. Klik op de tab **Setup** en sleep over een filter.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
@@ -38,7 +38,7 @@ Focus uw rapport [Campagne-e-mailprestaties](../../../../product-docs/reporting/
    >
    >Als u een map selecteert, bevat uw rapport alles wat de map bevat op het moment dat het rapport wordt uitgevoerd.
 
-1. Je bent klaar! Klik op het tabblad **Rapport** om uw gefilterde rapport weer te geven.
+1. Je bent klaar! Klik **Rapport** tabel om uw gefilterde rapport te zien.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
@@ -57,5 +57,5 @@ Focus uw rapport [Campagne-e-mailprestaties](../../../../product-docs/reporting/
    >**Diep duiken**
    >
    >
-   >Meer informatie over rapporten vindt u in [Basic Reporting](http://docs.marketo.com/display/docs/basic+reporting).
+   >Meer informatie over rapporten vindt u in [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
 
