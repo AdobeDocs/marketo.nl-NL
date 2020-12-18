@@ -23,7 +23,7 @@ Een lichtbak is een techniek waarmee een formulier vóór de inhoud wordt geopen
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Klik onder **Formulierhandelingen** **op** Code **insluiten** ****.
+1. Klik onder **Formulier** **Handelingen** op **Insluiten** **Code**.
 
    >[!NOTE]
    >
@@ -34,11 +34,11 @@ Een lichtbak is een techniek waarmee een formulier vóór de inhoud wordt geopen
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Stel **Codetype** **in op** Lichtbak ****.
+1. Stel **Code** **Type** in op **Lichtbak**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
-1. Selecteer/kopieer de code en klik op **Sluiten**.
+1. Selecteer/kopieer de code en klik **Close**.
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
