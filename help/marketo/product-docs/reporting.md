@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Rapportage {#reporting}
+# {#reporting} rapporteren
 
 Handelbare inzichten. Dat is wat je krijgt met Marketo-rapportage. Je kunt ze zelfs direct in de postbus laten.
-** ![Basic](assets/documents-bookmarks-17.png)ReportingBasic Reporting** [Basic Reporting wordt begonnen met de grondbeginselen. E-mail, het web en de persoon melden, oh mijn!](https://docs.marketo.com/display/DOCS/Basic+Reporting)     ** ![Revenue Cycle](assets/seo-08.png)AnalyticsRevenue Cycle Analytics** [Revenue Cycle Analytics Go hardcore met tijdreeksgegevensanalyse.](https://docs.marketo.com/display/DOCS/Revenue+Cycle+Analytics)     ** ![Performance](assets/mpi-for-docs-2x.png)InsightsPerformance Insights** [Performance Insights Bekijk al uw prestaties KPI&#39;s voor de campagne op één plaats.](https://docs.marketo.com/display/DOCS/Marketing+Performance+Insights)     ** ![Email](assets/email-insights.png)InsightsEmail Insights*** [Email Insights Ontdek krachtige inzichten met behulp van uw historische gegevens.](https://docs.marketo.com/display/DOCS/Email+Insights)
+** ![Basic Reporting](assets/documents-bookmarks-17.png)Basic Reporting** [Basic Reporting Get started with the basics. E-mail, het web en de persoon melden, oh mijn!](https://docs.marketo.com/display/DOCS/Basic+Reporting)     **  ![Revenue Cycle ](assets/seo-08.png)AnalyticsRevenue Cycle Analytics**  [Revenue Cycle Analytics Go hardcore met tijdreeksgegevensanalyse.](https://docs.marketo.com/display/DOCS/Revenue+Cycle+Analytics)     **  ![Performance ](assets/mpi-for-docs-2x.png)InsightsPerformance Insights**  [Performance Insights Bekijk al uw prestaties KPI&#39;s voor de campagne op één plaats.](https://docs.marketo.com/display/DOCS/Marketing+Performance+Insights)     **  ![Email ](assets/email-insights.png)InsightsEmail Insights***  [Email Insights Ontdek krachtige inzichten met behulp van uw historische gegevens.](https://docs.marketo.com/display/DOCS/Email+Insights)
