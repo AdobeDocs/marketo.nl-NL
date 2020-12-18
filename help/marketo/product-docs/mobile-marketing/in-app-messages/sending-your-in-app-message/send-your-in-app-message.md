@@ -10,7 +10,7 @@ ht-degree: 0%
 ---
 
 
-# Uw bericht in de app verzenden {#send-your-in-app-message}
+# Uw bericht in de app {#send-your-in-app-message} verzenden
 
 Nadat u uw in-app bericht hebt gecreeerd, is het tijd om het uit te zenden. Hier volgen de volgende stappen:
 
@@ -26,7 +26,7 @@ Nadat u uw in-app bericht hebt gecreeerd, is het tijd om het uit te zenden. Hier
 
    ![Afbeelding twee](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-2.png)
 
-1. Selecteer het programmatype In-App in de keuzelijst en klik op **Maken**.
+1. Selecteer het programmatype In-App in de vervolgkeuzelijst en klik op **Maken**.
 
    ![Afbeelding drie](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
 
@@ -34,4 +34,4 @@ Nadat u uw in-app bericht hebt gecreeerd, is het tijd om het uit te zenden. Hier
 
    ![Afbeelding vier](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-Klaar? Begin met het [instellen van het publiek](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+Klaar? Begin met [het plaatsen van het publiek](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
