@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Voer een rapport uit om mensen, uw programma&#39;s, bestemmingspagina&#39;s, e-mails en sociale middelen te analyseren.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 1. ![](assets/login-marketing-activities.png)
 
 1. Selecteer een programma.
@@ -24,17 +24,17 @@ Voer een rapport uit om mensen, uw programma&#39;s, bestemmingspagina&#39;s, e-m
 
    >[!NOTE]
    >
-   >U kunt ook rapporten maken op het tabblad **Analyse** .
+   >U kunt ook rapporten maken op het tabblad **Analytics**.
 
    Klik met de rechtermuisknop op het programma en selecteer Nieuw lokaal element.
 
    ![](assets/programrightclick-asset.png)
 
-1. Klik op **Rapport**.
+1. Klik **Rapport**.
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Selecteer het **rapporttype**.
+1. Selecteer het rapport **Type**.
 
    ![](assets/choosereport.png)
 
@@ -50,9 +50,9 @@ Voer een rapport uit om mensen, uw programma&#39;s, bestemmingspagina&#39;s, e-m
    >
    >Om het navigeren van uw rapporten later veel gemakkelijker te maken, omvat een verwijzing naar het rapporttype in de naam.
 
-   Plaats het tijdkader van uw rapport. Zie Een rapporttijdframe [](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) wijzigen voor meer informatie.
+   Plaats het tijdkader van uw rapport. Zie [Een frame van de Tijd van het Rapport wijzigen](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) voor meer details.
 
-1. Klik op het tabblad **Rapport** om uw statistieken weer te geven.
+1. Klik **Rapport** tabel om uw statistieken te zien.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 
@@ -61,19 +61,19 @@ Voer een rapport uit om mensen, uw programma&#39;s, bestemmingspagina&#39;s, e-m
    >**Diep duiken**
    >
    >
-   >Standaard worden in rapporten alle activiteiten in uw account, voor alle programma&#39;s, beschreven. Om de vele manieren te leren u uw rapport kunt filtreren, zie de [Basis die diep duik meldt](http://docs.marketo.com/display/docs/basic+reporting) .
+   >Standaard worden in rapporten alle activiteiten in uw account, voor alle programma&#39;s, beschreven. Om de vele manieren te leren u uw rapport kunt filtreren, zie [Basis het Melden](http://docs.marketo.com/display/docs/basic+reporting) diepe duik.
 
    >[!NOTE]
    >
    >**Herinnering**
    >
    >
-   >Je kunt snel met veel rapporten eindigen. Herinner me om een rapport [te](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) schrappen u niet meer nodig hebt.
+   >Je kunt snel met veel rapporten eindigen. Herinner me aan [schrapping een rapport](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) u niet meer nodig hebt.
 
    >[!NOTE]
    >
    >**Verwante artikelen**
    >
    >
-   >U kunt een kader [van de rapporttijd](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)veranderen, [aan een basisrapport](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)intekenen, een rapport [uitvoeren naar Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtermensen in een rapport met een slimme lijst](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), en [meer](http://docs.marketo.com/display/docs/basic+reporting).
+   >U kunt [een rapporttijdkader veranderen ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [onderteken aan een basisrapport](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [voer een rapport naar Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filter mensen in een rapport met een slimme lijst](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), en [more](http://docs.marketo.com/display/docs/basic+reporting).
 
