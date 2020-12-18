@@ -19,7 +19,7 @@ Campagnes kunnen alleen worden gedeeld als ze zichtbaar worden gemaakt. Zo doe j
 
    ![](assets/one.png)
 
-1. Klik op het tabblad **Slimme lijst** .
+1. Klik op het tabblad **Slimme lijst**.
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ Campagnes kunnen alleen worden gedeeld als ze zichtbaar worden gemaakt. Zo doe j
 
    ![](assets/three.png)
 
-1. Voor bron, kies &quot;is&quot; **de Dienst API** van het Web.
+1. Kies voor de bron &quot;is&quot; **Web Service API**.
 
    ![](assets/4.png)
 
-1. Klik op het tabblad **Stroom** .
+1. Klik op het tabblad **Stroom**.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ Campagnes kunnen alleen worden gedeeld als ze zichtbaar worden gemaakt. Zo doe j
 
    ![](assets/six.png)
 
-1. Selecteer bij Type de optie **Web**.
+1. Selecteer **Web** voor Type.
 
    ![](assets/seven.png)
 
@@ -47,7 +47,7 @@ Campagnes kunnen alleen worden gedeeld als ze zichtbaar worden gemaakt. Zo doe j
 
    ![](assets/eight.png)
 
-1. Klik op het tabblad **Planning** en **activeer** de campagne.
+1. Klik **Programma** tabel en **Activeer** de campagne.
 
    ![](assets/nine.png)
 
