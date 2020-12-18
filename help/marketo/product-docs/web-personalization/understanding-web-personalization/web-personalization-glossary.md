@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Woordenlijst voor webpersonalisatie {#web-personalization-glossary}
+# Web Personalization Glossary {#web-personalization-glossary}
 
 Sommige inzichten in de wereld en de taal van Marketo Web Personalization.
 
@@ -23,11 +23,11 @@ Sommige inzichten in de wereld en de taal van Marketo Web Personalization.
 | **ISP** | Internet Service Provider |
 | **Bekende bezoeker** | Een webbezoeker die een formulier heeft ingevuld en zijn gegevens (e-mailadres) op uw website heeft achtergelaten of op een koppeling in een e-mailbericht van Marketo heeft geklikt. |
 | **Accountlijst** | Een lijst met sleutelnamen voor accounts en organisaties. Wordt ook wel een ABM-lijst (Account-Based Marketing) genoemd. |
-| **Segmenten** | Een verzameling bezoekers die voldoen aan de opgegeven criteria die zijn gedefinieerd op de pagina [](../../../product-docs/web-personalization/using-web-segments/web-segments.md)&quot;Een segment instellen&quot;. |
+| **Segmenten** | Een verzameling bezoekers die voldoen aan de opgegeven criteria die zijn gedefinieerd op de pagina [&quot;Een segment instellen&quot;](../../../product-docs/web-personalization/using-web-segments/web-segments.md). |
 | **Gesplitste tests** | Een testexperiment met twee of meer varianten om het verschil in resultaten te meten. Het doel is om wijzigingen in webpagina&#39;s vast te stellen die het resultaat van interesse verhogen of maximaliseren. |
 | **Jokerteken** | Een jokerteken (* wordt gebruikt) dat voor of na een tekenreeks wordt gebruikt ter vervanging van andere tekens in een tekenreeks. Zie de onderstaande voorbeelden. |
 
-## Voorbeelden van jokertekens {#wildcard-examples}
+## Jokervoorbeelden {#wildcard-examples}
 
 Hier zijn drie manieren u een vervanging in de Personalisatie van het Web kunt gebruiken.
 
