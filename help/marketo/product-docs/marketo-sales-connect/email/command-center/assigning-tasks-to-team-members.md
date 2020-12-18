@@ -17,13 +17,13 @@ Als u met andere teamleden wilt samenwerken, kan het toewijzen van taken een gro
 
 >[!NOTE]
 >
->U kunt alleen taken toewijzen voor gedeelde contactpersonen. U zult een groep contacten [met uw teamleden willen](http://docs.marketo.com/x/fwDb) delen alvorens met gedeelde taken samen te werken.
+>U kunt alleen taken toewijzen voor gedeelde contactpersonen. U zult een groep contacten [met uw teamleden willen delen alvorens met gedeelde taken samen te werken.](http://docs.marketo.com/x/fwDb)
 
-1. Klik op het **Command Center**.
+1. Klik op **Command Center**.
 
    ![](assets/one-1.png)
 
-1. Klik op Taak **** toevoegen.
+1. Klik **Taak toevoegen**.
 
    ![](assets/two-1.png)
 
@@ -51,7 +51,7 @@ Als u met andere teamleden wilt samenwerken, kan het toewijzen van taken een gro
 
    ![](assets/eight.png)
 
-1. Voeg alle belangrijke gegevens toe die relevant zijn voor uw teamgenoot (optioneel) en klik op **Maken**.
+1. Voeg alle belangrijke details toe die relevant zijn voor uw teamgenoot (optioneel) en klik op **Maken**.
 
    ![](assets/nine.png)
 
