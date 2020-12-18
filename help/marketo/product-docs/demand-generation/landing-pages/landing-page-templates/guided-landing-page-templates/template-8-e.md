@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sjabloon 8-E {#template-e}
+# Template 8-E {#template-e}
 
 [Sjabloon 8-E downloaden](http://docs.marketo.com/download/attachments/8783972/template-8e.html?version=1&amp;modificationdate=1482175134000&amp;api=v2)
 
