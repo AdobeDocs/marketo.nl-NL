@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# De gebeurtenissen van de Adapter van Marketo On24 begrijpen {#understanding-marketo-on-adapter-events}
+# Het begrip van de Gebeurtenissen van de Adapter van Marketo On24 {#understanding-marketo-on-adapter-events}
 
 Als uw webinar ON24 niet met Marketo wordt verbonden, moet u deelnemersinformatie nemen die reeds in Marketo is en het ingaan in ON24. Na het webinar, moet u aanwezigheidsinformatie nemen die reeds in ON24 is en het ingaan terug in Marketo.
 
@@ -23,7 +23,7 @@ In de onderstaande afbeelding ziet u het integratieproces.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Klaar om te beginnen? Begin met [Create een Gebeurtenis met de Adapter](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)ON24.
+Klaar om te beginnen? Begin met [Creeer een Gebeurtenis met ON24 Adapter](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
 
 >[!MORELIKETHIS]
 >
