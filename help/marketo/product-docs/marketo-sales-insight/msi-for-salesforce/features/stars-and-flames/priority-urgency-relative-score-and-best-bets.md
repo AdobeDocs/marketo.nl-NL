@@ -37,13 +37,13 @@ De sterren vertegenwoordigen de relatieve score — een maat voor hoe de leadsco
 
 Als twee leiders de zelfde urgentie hebben, kunt u relatieve score gebruiken om te vertellen welke eerst een telefoongesprek verdient. De score met de hogere relatieve score kan gunstiger reageren op uw aanbod dan de lagere.
 
-## Beste bieten {#best-bets}
+## Beste ets {#best-bets}
 
 Uw Beste Bets zijn uw leads en contacten met de hoogste urgentie en de relatieve score. Alleen de leads die u hebt, zijn zichtbaar in die lijst en de lijst wordt bijgewerkt als de doorloopscores veranderen.
 
 >[!NOTE]
 >
->Als uw beste weddenschappen niet de beste lood en contacten aanpassen u bezit, praat met iemand bij uw bedrijf die toegang tot Marketo over het bijwerken van uw [het Scoren Regels](../../../../../getting-started/quick-wins/simple-scoring.md)heeft.
+>Als uw beste wedden niet de beste lood en contacten u bezit aanpassen, praat met iemand bij uw bedrijf die toegang tot Marketo over het bijwerken van uw [het Scoren Regels](../../../../../getting-started/quick-wins/simple-scoring.md) heeft.
 
 ### Hoe Urgentie en Relatieve Score worden berekend
 
