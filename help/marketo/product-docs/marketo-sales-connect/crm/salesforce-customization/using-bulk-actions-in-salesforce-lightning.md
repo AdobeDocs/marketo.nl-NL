@@ -23,9 +23,9 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 >
 >Controleer voordat u de onderstaande stappen uitvoert of u bent aangemeld bij uw Marketo Sales Connect-account.
 
-## Bulkmail {#bulk-email}
+## E-mailadres {#bulk-email} opheffen
 
-1. Klik in Salesforce op het tabblad **Leads** en kies vervolgens de lijst met de gewenste leads.
+1. Klik in Salesforce op het tabblad **Regelafstand** en kies vervolgens de lijst met gewenste leads.
 
    ![](assets/one-6.png)
 
@@ -33,7 +33,7 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
    >
    >Als u reeds op de lijst bent u zult gebruiken, zult u het opnieuw moeten uitvoeren door het van drop-down te kiezen om de MSC bulkactieknopen te verzekeren verschijnen. Dit is Salesforce-gedrag dat niet kan worden gewijzigd.
 
-1. Klik op de vervolgkeuzelijst met pijlen (uiterst rechts op het scherm) en selecteer **E-mail met MSC**.
+1. Klik de pijldrop-down (op uiterst rechts van het scherm) en selecteer **E-mail met MSC**.
 
    ![](assets/two-6.png)
 
@@ -48,11 +48,11 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 
 ## Toevoegen aan campagne {#add-to-campaign}
 
-1. Klik in Salesforce op het tabblad **Leads** en kies vervolgens de lijst met de gewenste leads.
+1. Klik in Salesforce op het tabblad **Regelafstand** en kies vervolgens de lijst met gewenste leads.
 
    ![](assets/four-4.png)
 
-1. Klik de pijldrop-down (op het meest rechtse van het scherm) en selecteer **toevoegen aan Campagne** MSC.
+1. Klik de pijldrop-down (op uiterst rechts van het scherm) en selecteer **toevoegen aan Campagne MSC**.
 
    ![](assets/five-4.png)
 
@@ -60,9 +60,9 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 
    ![](assets/six-1.png)
 
-## Overstappen op Marketo Sales Connect {#push-to-marketo-sales-connect}
+## Druk op Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. Klik in Salesforce op het tabblad **Leads** en kies vervolgens de lijst met de gewenste leads.
+1. Klik in Salesforce op het tabblad **Regelafstand** en kies vervolgens de lijst met gewenste leads.
 
    ![](assets/seven-2.png)
 
@@ -70,7 +70,7 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 
    ![](assets/eight-2.png)
 
-1. Er wordt een nieuw tabblad met de naam &quot;Salesforce Bridge&quot; geopend. Klik op de **knop** Ga naar groep.
+1. Er wordt een nieuw tabblad met de naam &quot;Salesforce Bridge&quot; geopend. Klik op de knop **Ga naar groep →**.
 
    ![](assets/nine-2.png)
 
