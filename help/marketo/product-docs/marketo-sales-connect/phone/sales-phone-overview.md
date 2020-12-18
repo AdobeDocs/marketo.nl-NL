@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Hoe kan ik snel aan de slag met de telefoon van de Verkoop? {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-**Telefoonnummer:** U hoeft dit alleen in één keer in te voeren. Sales Connect onthoudt uw nummer voor alle toekomstige aanroepen.
+**Telefoonnummer:** U hoeft dit slechts één keer in te voeren. Sales Connect onthoudt uw nummer voor alle toekomstige aanroepen.
 
-**Lokale aanwezigheid:** U zult slechts &quot;gebruik lokale aanwezigheid&quot;moeten controleren en de vraag voor uw eerste vraag registreren. Sales Connect onthoudt uw instellingen voor alle toekomstige aanroepen.
+**Lokale Aanwezigheid:** U zult slechts &quot;gebruik lokale aanwezigheid&quot;moeten controleren en de vraag voor uw eerste vraag registreren. Sales Connect onthoudt uw instellingen voor alle toekomstige aanroepen.
 
-Als u wilt dat Sales Connect automatisch een telefoonactiviteit maakt in Salesforce, checkt u [dit artikel](http://docs.marketo.com/x/joLS)uit.
+Als u wilt dat Sales Connect automatisch een vraagactiviteit in Salesforce tot stand brengt, controleer [dit artikel](http://docs.marketo.com/x/joLS).
 
 ## Hoe maak ik een vraag met de Telefoon van de Verkoop? {#how-do-i-make-a-call-with-sales-phone}
 
@@ -39,4 +39,4 @@ Wanneer u eenmaal hebt gebeld of gebeld, haalt Sales Connect het telefoonnummer 
 
 Voor teams die andere CRMS gebruiken, haalt Sales Connect het telefoonnummer uit het nummer in de record in Sales Connect. Deze gegevens kunnen eenvoudig beschikbaar zijn via een [CSV-upload](http://docs.marketo.com/x/HIPS).
 
-Hit de grote groene **knoop van de Vraag** . Uw telefoon zal dan beginnen te bellen. Neem telefonisch contact op en Sales Connect belt automatisch de lead/contactpersoon.
+Hit de grote groene **Call** knoop. Uw telefoon zal dan beginnen te bellen. Neem telefonisch contact op en Sales Connect belt automatisch de lead/contactpersoon.
