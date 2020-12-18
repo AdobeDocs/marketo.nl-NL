@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Fout bij verzenden vanuit de webtoepassing {#error-when-sending-from-the-web-application}
 
-Wanneer een fout wordt gegenereerd vanuit de [webtoepassing](http://toutapp.com/login), is deze meestal het gevolg van een uitgave met de opmaak van uw e-mail of de dynamische velden. Zorg ervoor dat alles correct wordt gevuld in het samenstellingsvenster en probeer het vervolgens opnieuw te verzenden.
+Wanneer een fout wordt gemaakt in de [webtoepassing](http://toutapp.com/login), is dit doorgaans het gevolg van een probleem met de opmaak van uw e-mail of de dynamische velden. Zorg ervoor dat alles correct wordt gevuld in het samenstellingsvenster en probeer het vervolgens opnieuw te verzenden.
