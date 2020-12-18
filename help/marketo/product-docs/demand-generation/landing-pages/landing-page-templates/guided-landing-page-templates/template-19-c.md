@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Template 19-C {#template-c}
+# Sjabloon 19-C {#template-c}
 
 [Sjabloon 19-C downloaden](http://docs.marketo.com/download/attachments/10092896/template-19c.html?version=1&amp;modificationdate=1441750440000&amp;api=v2)
 
