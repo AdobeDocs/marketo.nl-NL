@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Openingspagina&#39;s op Facebook publiceren {#publish-landing-pages-to-facebook}
+# Openingspagina&#39;s publiceren naar Facebook {#publish-landing-pages-to-facebook}
 
 U kunt uw bestemmingspagina&#39;s naar Facebook publiceren, uw publiek ontmoeten waar zij reeds hangen en meer verkeer aan uw programma&#39;s produceren.
 
@@ -31,7 +31,7 @@ Stel dat u een nieuw boek start, dan bereikt u mogelijk een deel van uw publiek 
 
    ![](assets/image2015-4-22-16-3a53-3a46.png)
 
-1. Selecteer **Publiceren op Facebook** bij Handelingen voor bestemmingspagina.
+1. Selecteer **Publiceren naar Facebook** bij Landing Page Actions.
 
    ![](assets/image2015-4-22-16-3a54-3a55.png)
 
@@ -51,13 +51,13 @@ Stel dat u een nieuw boek start, dan bereikt u mogelijk een deel van uw publiek 
    >
    >U moet een account gebruiken met beheerdersmachtigingen voor de Facebook-pagina waarop u de bestemmingspagina van Marketo wilt publiceren.
 
-1. Selecteer de **Facebook-pagina** waarop u de bestemmingspagina wilt publiceren en voer de naam in waarmee de bestemmingspagina van Marketo moet worden weergegeven.
+1. Selecteer de **Facebook-pagina** waar u de openingspagina wilt publiceren en voer de naam in waarmee de bestemmingspagina van Marketo moet worden weergegeven.
 
    ![](assets/image2015-4-22-18-3a31-3a39.png)
 
    >[!NOTE]
    >
-   >Als u Marketo-bestemmingspagina&#39;s wilt vervangen die u eerder op Facebook hebt gepubliceerd, selecteert u Bestaande tab **** vervangen en kiest u in de vervolgkeuzelijst de tab die u wilt vervangen. Niet-markeerbare tabs worden hierdoor niet vervangen.
+   >Als u Marketo-bestemmingspagina&#39;s wilt vervangen die u eerder op Facebook hebt gepubliceerd, selecteert u **Bestaande tab vervangen** en kiest u in de vervolgkeuzelijst de tab die u wilt vervangen. Niet-markeerbare tabs worden hierdoor niet vervangen.
 
 1. Leads kunnen nu uw openingspagina rechtstreeks op uw Facebook-pagina bezoeken. Klik gewoon op de tabnaam onder de omslagafbeelding.
 
