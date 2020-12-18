@@ -13,10 +13,10 @@ ht-degree: 0%
 
 # Een sjabloon of campagne toevoegen {#add-a-template-or-campaign}
 
-Als u een sjabloon of campagne wilt toevoegen aan een e-mailbericht, opent u een nieuw Compose-venster. Sjablonen en campagnes bevinden zich aan de rechterkant. Klik op de vervolgkeuzelijst **Categorieën** .
+Als u een sjabloon of campagne wilt toevoegen aan een e-mailbericht, opent u een nieuw Compose-venster. Sjablonen en campagnes bevinden zich aan de rechterkant. Klik op de vervolgkeuzelijst **Categorieën**.
 
 Als u een sjabloon wilt toevoegen, klikt u op **Sjabloon** en selecteert u de sjabloon die u wilt verzenden.
 
-Als u een campagne toevoegt, klikt u in plaats daarvan op het tabblad **Campagne** .
+Als u een campagne toevoegt, klikt u op het tabblad **Campagne**.
 
-Als u net uw overseinen in de [Webtoepassing](http://toutapp.com/login)hebt toegevoegd/uitgegeven, zorg ervoor om de **Refresh** knoop te klikken om ervoor te zorgen u in de meest recente versie trekt.
+Als u net uw overseinen in [Webtoepassing ](http://toutapp.com/login) toevoegde/uitgeeft, zorg ervoor om **te klikken verfrissen** knoop om ervoor te zorgen u in de meest recente versie trekt.
