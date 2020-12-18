@@ -13,5 +13,5 @@ ht-degree: 0%
 
 # Aanvullende beheerders {#additional-admins}
 
-Als u een teamlid wilt wijzigen of verwijderen, gaat u naar de pagina Instellingen en klikt u op **Teambeheer*** *in het navigatievenster aan de linkerkant.
+Als u een teamlid wilt wijzigen of verwijderen, gaat u naar de pagina Instellingen en klikt u op **Teambeheer*** *in het linkernavigatievenster.
 Als beheerder van een account kunt u hier beheren wie deel uitmaakt van uw team.
