@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst {#adding-fields-to-a-revenue-explorer-report}
+# Velden toevoegen aan een opbrengstverkennerrapport {#adding-fields-to-a-revenue-explorer-report}
 
 Pas de rapporten van de opbrengstontdekkingsreiziger door afmeting en metrische gebieden in het canvas te slepen en te laten vallen.
 
