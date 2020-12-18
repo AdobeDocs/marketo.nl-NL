@@ -21,15 +21,15 @@ Hier is een voorbeeldgebeurtenis, inclusief campagnes, voor een ON24 webinar. Wa
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Selecteer een **campagnemap** waarin de gebeurtenis wordt uitgevoerd.
+1. Selecteer een **Campagne Map** waar de gebeurtenis zal leven.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. Voer een **naam** in voor de gebeurtenis.
+1. Voer een **Naam** voor de gebeurtenis in.
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Selecteer **Event **als **programmatype**.
+1. Selecteer **Event **as **Program Type**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
@@ -37,57 +37,57 @@ Hier is een voorbeeldgebeurtenis, inclusief campagnes, voor een ON24 webinar. Wa
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
-## Uitnodigen (batchcampagne)  {#invite-batch-campaign}
+## Uitnodigen (Batch Campaign) {#invite-batch-campaign}
 
-* **Slimme lijst** - Definieer wie u wilt uitnodigen voor de gebeurtenis.
+* **Slimme lijst**  - Definieer wie u wilt uitnodigen voor de gebeurtenis.
 * **Stroom**
 
    * E-mail verzenden - Als dit een e-mail met lokale middelen is, is de volgende naamgevingsconventie van toepassing: EventName.EmailName. Je kunt ook wereldwijde e-mails gebruiken.
    * Status wijzigen in Progressie - Instellen op Webinar > Uitgenodigd.
 
-* **Planning** - Stel de datum in waarop de uitnodiging moet worden verzonden.
+* **Plan**  - Stel de datum in waarop de uitnodiging moet worden verzonden.
 
-## Registratie/bevestiging (Trigger-campagne) {#registration-confirmation-trigger-campaign}
+## Registratie/bevestiging (Trigger Campaign) {#registration-confirmation-trigger-campaign}
 
 * **Slimme lijst**
 
-   * De campagne activeren op basis van Formulier **** invullen. Zorg ervoor dat u de openingspagina van het formulier opneemt met Restrictie **** toevoegen, vooral als het formulier op meerdere bestemmingspagina&#39;s wordt gebruikt.
+   * Trigger de campagne die op **Vult Vorm** wordt gebaseerd. Zorg ervoor dat u de bestemmingspagina opneemt waarop het formulier zich bevindt met **Restrictie toevoegen**, vooral als het formulier op meerdere bestemmingspagina&#39;s wordt gebruikt.
 
 >[!CAUTION]
 >
->U moet een Marketo-formulier gebruiken om personen voor de gebeurtenis te registreren, of een niet-Marketo-formulier met de juiste API-integratie om registratiegegevens naar Marketo te verzenden. Dit is kritiek aan het succes van uw integratie van de Partner van de Gebeurtenis. **OPMERKING**: Als u een Marketo-formulier gebruikt op een landingspagina die geen Marketo is, wordt de trigger gevormd door Formulier **** invullen met de naam van het formulier.
+>U moet een Marketo-formulier gebruiken om personen voor de gebeurtenis te registreren, of een niet-Marketo-formulier met de juiste API-integratie om registratiegegevens naar Marketo te verzenden. Dit is kritiek aan het succes van uw integratie van de Partner van de Gebeurtenis. **OPMERKING**: Als u een Marketo-formulier gebruikt op een landingspagina die geen Marketo is, wordt de trigger  **Fills Out** Formulier met de naam van het formulier.
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 
 * **Stroom**
 
-   * **Status wijzigen in Progressie** - Instellen op Webinar > Geregistreerd. **VOORZIENING**: Deze stroomstap is vereist voor het instellen van uw onderliggende campagne. Wanneer de progressiestatus van een persoon verandert in **Geregistreerd**, drukt Marketo de registratieinformatie naar ON24.
+   * **Status wijzigen in Progressie**  - Instellen op Webinar > Geregistreerd. **VOORZIENING**: Deze stroomstap is vereist voor het instellen van uw onderliggende campagne. Wanneer de progressiestatus van een persoon verandert in **Geregistreerd**, drukt Marketo de registratieinformatie aan ON24.
 
-   * **E-mail** verzenden - Bevestigingse-mail (ingesteld op **Operationeel** zodat niet-geabonneerde personen die zich hebben geregistreerd deze nog ontvangen).
+   * **E-mail**  verzenden - Bevestiging e-mail (ingesteld op  **** Bewerking, ook dat niet-geabonneerde personen die zich hebben geregistreerd deze nog ontvangen).
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 
 **OPMERKING**: Als de persoon wordt geretourneerd met een registratiefout, wordt de e-mailbevestiging niet ontvangen.
 
-## Herinnering (batchcampagne) {#reminder-batch-campaign}
+## Herinnering (Batch Campaign) {#reminder-batch-campaign}
 
-* **Slimme lijst** - Filter met **lid van programma** en stel de status in op **Geregistreerd**.
+* **Slimme lijst**  - Filter met  **lid van** programma en stel de status in op  **Geregistreerd**.
 
-* **Stroom** - E-mail verzenden (e-mail herinnering).
+* **Stroom**  - E-mail verzenden (e-mail herinnering).
 
-**OPMERKING**: U kunt een vergelijkbare campagne gebruiken om een *andere* follow-upe-mail te sturen naar mensen die zijn uitgenodigd maar zich nog niet hebben geregistreerd.
+**OPMERKING**: U kunt een vergelijkbare campagne gebruiken om een  ** andere follow-upe-mail te sturen naar mensen die zijn uitgenodigd maar zich nog niet hebben geregistreerd.
 
 ## Follow-upcampagne (campagne voor batchverwerking of activering) {#follow-up-campaign-batch-or-trigger-campaign}
 
-* **Slimme lijst** - Trigger op basis van wijzigingen in de status van het programma.
+* **Slimme lijst**  - Trigger op basis van wijzigingen in de status van het programma.
 
 ![](assets/image2015-12-22-15-3a57-3a25.png)
 
-* **Stroom** - E-mail verzenden. Gebruik keuzen om verschillende e-mails te verzenden op basis van de status van het programma.
+* **Stroom**  - E-mail verzenden. Gebruik keuzen om verschillende e-mails te verzenden op basis van de status van het programma.
 
 ![](assets/ten.png)
 
