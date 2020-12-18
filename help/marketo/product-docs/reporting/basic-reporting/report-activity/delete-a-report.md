@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Een rapport verwijderen {#delete-a-report}
+# Een rapport {#delete-a-report} verwijderen
 
-Als u eenmaal rapporten [](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)maakt, kunt u er snel een hoop van maken. Vergeet niet rapporten te verwijderen die u niet meer nodig hebt.
+Zodra u [creërend rapporten](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) begint, kunt u snel met veel van hen eindigen. Vergeet niet rapporten te verwijderen die u niet meer nodig hebt.
 
-1. Klik met de rechtermuisknop op het ongewenste rapport in de structuur en selecteer Rapport **** verwijderen.
+1. Klik met de rechtermuisknop op het overbodige rapport in de structuur en selecteer **Rapport verwijderen**.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 
@@ -30,5 +30,5 @@ Als u eenmaal rapporten [](../../../../product-docs/reporting/basic-reporting/cr
    >**Diep duiken**
    >
    >
-   >Zie alle andere dingen u met rapporten in de [BasisRapporterend](http://docs.marketo.com/display/docs/basic+reporting) diepe duik kunt doen.
+   >Zie alle andere dingen u met rapporten in [Basis het Melden](http://docs.marketo.com/display/docs/basic+reporting) diep duik kunt doen.
 
