@@ -19,11 +19,11 @@ Gebruik RTF-tekst in een formulier om instructies of andere informatie tussen ve
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Klik op het **+** -teken.
+1. Klik op het **+**-teken.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
@@ -39,15 +39,15 @@ Gebruik RTF-tekst in een formulier om instructies of andere informatie tussen ve
    >
    >Als u een lijnscheidingsteken in het formulier nodig hebt, gebruikt u de knop Horizontale lijn.
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
@@ -61,4 +61,4 @@ Gebruik RTF-tekst in een formulier om instructies of andere informatie tussen ve
 >
 >Meer informatie over [formulieren](http://docs.marketo.com/display/docs/forms).
 
-Wist u dat u ook zichtbaarheidsregels [kunt](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) toevoegen aan een tekstblok met tekstopmaak?
+Wist u dat u ook [zichtbaarheidsregels](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) aan een rijk tekstblok kunt toevoegen?
