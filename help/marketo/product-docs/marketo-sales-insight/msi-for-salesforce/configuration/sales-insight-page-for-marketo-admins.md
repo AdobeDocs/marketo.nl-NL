@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Pagina met verkoopinzicht voor marktexploitanten {#sales-insight-page-for-marketo-admins}
+# Pagina met verkoopinzicht voor markeringsbeheerders {#sales-insight-page-for-marketo-admins}
 
 Marketo Admins heeft bepaalde rechten in Sales Insight. Leer hieronder wat ze zijn.
 
@@ -21,7 +21,7 @@ Deze gegevens worden gebruikt om uw Salesforce-account aan te sluiten op uw Mark
 
 ![](assets/one-1.png)
 
-## API-configuratie opnieuw instellen {#rest-api-configuration}
+## Configuratie {#rest-api-configuration} voor rest-API
 
 Deze gegevens worden gebruikt om uw Salesforce-account aan te sluiten op uw Marketo-instantie, zodat u het MSI Insights-dashboard in Salesforce kunt gebruiken.
 
@@ -31,7 +31,7 @@ U kunt ervoor kiezen om de Rest API-referenties te verwijderen in SFDC en alleen
 
 ![](assets/three-1.png)
 
-## Instellingen persoonlijke score {#person-score-settings}
+## Persoonlijke score-instellingen {#person-score-settings}
 
 | **Sterren:** | Sterren geven de totale loodscore aan in vergelijking met andere leads. |
 |---|---|
@@ -39,7 +39,7 @@ U kunt ervoor kiezen om de Rest API-referenties te verwijderen in SFDC en alleen
 
 Standaard gebruikt Marketo Sales Insight het veld Score voor het berekenen van sterren en vlammen. Maar als je een ander veld wilt kiezen, is dit hoe:
 
-1. Klik in het gebied **Beheer** van Marketo op **Verkoopoverzicht**.
+1. In **Admin** gebied van Marketo, klik **Inzicht van de Verkoop**.
 
    ![](assets/four.png)
 
@@ -55,13 +55,13 @@ Standaard gebruikt Marketo Sales Insight het veld Score voor het berekenen van s
 
    ![](assets/seven.png)
 
-1. Klik op **Opslaan**. Verkoopinzicht neemt enige tijd in beslag om opnieuw te berekenen. U kunt uw CRM later controleren om de sterren en de vlammen te zien.
+1. Klik **Opslaan**. Verkoopinzicht neemt enige tijd in beslag om opnieuw te berekenen. U kunt uw CRM later controleren om de sterren en de vlammen te zien.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Als u nog geen aangepaste score hebt, kunt u deze [maken](http://docs.marketo.com/x/3wMk).
+   >Als u uw gebieden van de douanescore nog niet hebt, is hier hoe te om [hen te creëren](http://docs.marketo.com/x/3wMk).
 
    >[!NOTE]
    >
@@ -89,4 +89,4 @@ Indien ingeschakeld, kunnen MSI-gebruikers geen sjablonen bewerken tijdens het v
 
 **RSS-feed inschakelen:**
 
-Als deze optie is ingeschakeld, kunnen MSI-gebruikers hun voer voor leads bekijken in een RSS-feed (in aanvulling op het voer voor leads in Salesforce)**.**
+Indien ingeschakeld, kunnen MSI-gebruikers hun Loodvoer bekijken in een RSS-feed (naast de Loodfeed in Salesforce)**.**
