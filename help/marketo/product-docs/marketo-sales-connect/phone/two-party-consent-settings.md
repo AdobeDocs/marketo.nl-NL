@@ -23,15 +23,15 @@ Om naleving van de de toestemmingswetten van twee partijen van de V.S. te verzek
 
    ![](assets/one-1.png)
 
-1. Klik onder Instellingen Admin op **Algemeen**.
+1. Klik onder Beheerinstellingen op **Algemeen**.
 
    ![](assets/two-1.png)
 
-1. Schuif omlaag naar Instellingen Telefoon van Sales Connect en klik op **Opnamebericht** beheren.
+1. Blader omlaag naar Instellingen Telefoon van Sales Connect en klik op **Opname beheren**.
 
    ![](assets/three-1.png)
 
-1. Klik op Opname **importeren**.
+1. Klik **Opname importeren**.
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ Om naleving van de de toestemmingswetten van twee partijen van de V.S. te verzek
 
    ![](assets/five.png)
 
-1. Nadat het uploaden is voltooid, selecteert u de gegevens (drie punten) in Bestandsbeheer en klikt u op **Selecteren als kennisgeving** van toestemming. Klik op **OK** als u klaar bent.
+1. Nadat het uploaden is voltooid, selecteert u de gegevens (drie punten) in het bestandsbeheer en klikt u op **Selecteren als kennisgeving van instemming**. Klik **OK** wanneer gereed.
 
    ![](assets/six.png)
 
