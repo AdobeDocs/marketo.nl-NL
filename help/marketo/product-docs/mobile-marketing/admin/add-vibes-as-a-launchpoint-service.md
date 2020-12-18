@@ -23,19 +23,19 @@ U kunt SMS-berichten verzenden naar de mensen in uw lijsten met Vibes en de SMS-
 >
 >U hebt zowel Marketo Admin-machtigingen als een actieve Vibes-account nodig om deze setup te voltooien. De referenties die in Stap 4 hieronder worden aangevraagd, zijn de referenties van uw Vibes-account.
 
-1. Klik in Mijn Marketo op **Admin** en vervolgens **LaunchPoint**.
+1. In Mijn Marketo, klik **Admin** en dan **LaunchPoint**.
 
    ![](assets/image2016-7-27-9-3a31-3a17.png)
 
-1. Klik op **Nieuwe** en **Nieuwe service**.
+1. Klik op **Nieuw** en **Nieuwe service**.
 
    ![](assets/image2016-7-27-9-3a34-3a25.png)
 
-1. Voer een weergavenaam in en selecteer **Vibes** in de vervolgkeuzelijst.
+1. Voer een weergavenaam in en selecteer **Vibes** in de keuzelijst.
 
    ![](assets/new-service-vibes.png)
 
-1. Voer onder Instellingen uw gebruikersnaam, wachtwoord en bedrijfssleutel voor de API in. Klik op **Maken**.
+1. Voer onder Instellingen uw gebruikersnaam, wachtwoord en bedrijfssleutel voor de API in. Klik **Maken**.
 
    ![](assets/new-service-vibes-settings-2.png)
 
