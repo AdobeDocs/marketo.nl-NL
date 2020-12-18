@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# De knop Sociale app aanpassen {#customize-social-app-button}
+# Knop Sociale app {#customize-social-app-button} aanpassen
 
-Wanneer u een [sociale knoop](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) of een [verwijzingsaanbieding](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)creeert, kunt u de verschijning van de knopen aanpassen.
+Wanneer u een [sociale knoop](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) of een [verwijzingsaanbieding](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) creeert, kunt u de verschijning van de knopen aanpassen.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer de app en klik op Concept **bewerken.**
+1. Selecteer de app en klik op **Concept bewerken.**
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
-1. Ga in de sociale app-editor naar **App Settings** > **Button Styling** (of **Sign-Up Style,** voor verwijzingen).
+1. Ga in de sociale app-editor naar **App Settings** > **Button Styling** (of **Sign-Up Style,** voor verwijzingsaanbiedingen).
 
    ![](assets/image2014-9-23-17-3a3-3a57.png)
 
@@ -45,19 +45,19 @@ Wanneer u een [sociale knoop](../../../../product-docs/demand-generation/landing
 
    >[!TIP]
    >
-   >Als u Afbeeldingen **uploaden onder Knopstijl** hierboven kiest, kunt u in de volgende secties knopafbeeldingen uploaden in plaats van de tekst te bewerken.
+   >Als u **Afbeeldingen uploaden onder Knopstijl** hierboven kiest, kunt u met de volgende secties knopafbeeldingen uploaden in plaats van de tekst te bewerken.
 
 1. Bewerk de labels voor de knop voordat en nadat u erop hebt geklikt.
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. Terwijl u elke keuze maakt, bekijkt u het resultaat in het venster **Weergeven en bewerken** .
+1. Terwijl u elke keuze maakt, bekijkt u het resultaat in het venster **Beeld en bewerken**.
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->In een verwijzingsvoorstel, kunt u de knoop van de Voortgang **van het** Spoor ook aanpassen. Ga naar **App Settings** > **Track Progress Style** en voer dezelfde stappen uit als hierboven.
+>In een verwijzingsaanbieding, kunt u **Voortgang van het Spoor** knoop ook aanpassen. Ga naar **Toepassingsinstellingen** > **Voortgangsstijl bijhouden** en voer dezelfde stappen uit als hierboven.
 
 >[!MORELIKETHIS]
 >
