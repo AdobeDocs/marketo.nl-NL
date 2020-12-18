@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# RSS inschakelen voor Sales Insight {#enable-rss-for-sales-insight}
+# RSS inschakelen voor verkoopinzicht {#enable-rss-for-sales-insight}
 
 >[!NOTE]
 >
@@ -19,19 +19,19 @@ ht-degree: 0%
 
 Als de gebruikers van Marketo hun loodvoer niet alleen in Salesforce, maar ook in een voer van RSS willen bekijken, moet een Admin van de Marketo het eerst toelaten. Het is gemakkelijk.
 
-1. In Mijn Marketo, klik **Admin** en dan het Inzicht **van de** Verkoop.
+1. In Mijn Marketo, klik **Admin** en toen **Inzicht van de Verkoop**.
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. Klik op **Bewerken** bij Instellingen. De RSS-feed wordt weergegeven als **Uitgeschakeld**.
+1. Klik op **Bewerken** bij Instellingen. Merk op dat RSS Feed als **Disabled** toont.
 
    ![](assets/rss-settings-tab.png)
 
-   Schakel in het dialoogvenster Instellingen bewerken het selectievakje **RSS-feed** in en klik op **Opslaan**.
+   Schakel in het dialoogvenster Instellingen bewerken het selectievakje **RSS feed** in en klik op **Save**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   De RSS-feed wordt nu weergegeven als **Ingeschakeld**.
+   De RSS-feed wordt nu weergegeven als **Enabled**.
 
    ![](assets/rss-final-box.png)
 
