@@ -25,7 +25,7 @@ Om de gebruikers van CRM te verhinderen verkoopmalplaatjes uit te geven, kunnen 
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Admin** en klik vervolgens op **Verkoopoverzicht**.
+1. Ga naar **Admin**, dan klik **Inzicht van de Verkoop**.
 
    ![](assets/1.png)
 
@@ -33,7 +33,7 @@ Om de gebruikers van CRM te verhinderen verkoopmalplaatjes uit te geven, kunnen 
 
    ![](assets/2.png)
 
-1. Schakel de optie **Sjablonen** vergrendelen in. Klik op **Opslaan**.
+1. Schakel **Mogelijkheid inschakelen om sjablonen te vergrendelen**. Klik **Opslaan**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -43,11 +43,11 @@ Om de gebruikers van CRM te verhinderen verkoopmalplaatjes uit te geven, kunnen 
 
 >[!NOTE]
 >
->Het wijzigen van deze instelling als beheerder heeft **geen** terugwerkende kracht op bestaande sjablonen; Dit betekent dat ze niet automatisch worden vergrendeld.
+>Als u deze instelling wijzigt als een beheerder, heeft dit retroactief invloed op bestaande sjablonen. Dit betekent dat ze niet automatisch worden vergrendeld.****
 
 ## Sjabloon vergrendelen in de e-maileditor {#lock-template-in-the-email-editor}
 
-1. Selecteer het e-mailbericht dat u wilt vergrendelen en klik op Concept **** bewerken.
+1. Selecteer het e-mailbericht dat u wilt vergrendelen en klik op **Concept bewerken**.
 
    ![](assets/5.png)
 
@@ -55,7 +55,7 @@ Om de gebruikers van CRM te verhinderen verkoopmalplaatjes uit te geven, kunnen 
 
    ![](assets/6.png)
 
-1. Schakel **Publiceren naar Verkoopoverzicht** als dit nog niet is gecontroleerd. U kunt nu de optie **CRM-gebruiker toestaan om e-mail** te bewerken uitschakelen om de sjabloon te vergrendelen. Klik op **Opslaan**.
+1. Schakel **Publiceren op Verkoopinzicht voor markeertekens** in als dit nog niet is gecontroleerd. U kunt nu **CRM-gebruiker toestaan om e-mail te bewerken** uitschakelen om de sjabloon te vergrendelen. Klik **Opslaan**.
 
    ![](assets/7.png)
 
