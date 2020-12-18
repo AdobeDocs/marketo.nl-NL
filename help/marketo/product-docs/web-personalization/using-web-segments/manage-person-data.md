@@ -18,12 +18,12 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
 1. Ga naar **Accountinstellingen**.\
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Ga naar **database**.\
+1. Ga naar **Database**.\
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## Een veld Nieuwe persoon toevoegen {#adding-a-new-person-field}
 
-1. Selecteer **Veld in de vervolgkeuzelijst om een gegevensveld voor personen aan de lijst toe te voegen** .
+1. Selecteer **Veld in de vervolgkeuzelijst om een veld met persoonsgegevens aan de lijst toe te voegen.**
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,9 +35,9 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
    >    * Er wordt een nieuw veld toegevoegd in een status die in behandeling is en het kan 24 uur duren om het veld te activeren.
 
 
-## Een persoonlijk veld verwijderen {#deleting-a-person-field}
+## Een personenveld {#deleting-a-person-field} verwijderen
 
-1. Klik op het verwijderpictogram ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) om een veld uit de lijst te verwijderen. Klik op **Ja** om te bevestigen dat u het veld wilt verwijderen.
+1. Klik op het verwijderpictogram ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) om een veld uit de lijst te verwijderen. Klik **Ja** om te bevestigen u het gebied wilt schrappen.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
