@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Overzicht van pagina Analytics {#analytics-page-overview}
+# Overzicht van pagina voor analyse {#analytics-page-overview}
 
 Op het tabblad Analyse vindt u gegevens over de betrokkenheid van uw e-mails. Zowel individuele gegevens als teamgegevens worden weergegeven. Beheerders kunnen ook filteren op het tabblad Ik.
 
@@ -21,9 +21,9 @@ De pagina Analytics wordt om de tien minuten bijgewerkt.
 
 ## Wat betekenen de getallen? {#what-do-the-numbers-mean}
 
-De nummers in de `radials` code berekenen het totale aantal gebeurtenissen op alle verzonden e-mails. Dus als `single same email is viewed five times, it will add five views`naar dit getal. Hetzelfde idee wordt toegepast op de klikken en antwoorden die binnen de cirkel worden geteld.
+De getallen in de `radials` berekenen het totale aantal gebeurtenissen op alle verzonden e-mails. Dus als een `single same email is viewed five times, it will add five views`op dit getal. Hetzelfde idee wordt toegepast op de klikken en antwoorden die binnen de cirkel worden geteld.
 
-Al onze status in de `table` website wordt berekend door de unieke weergaven, klikken en antwoorden op uw e-mails te bekijken. Als `one email is viewed five times, we will count that as one view.` dat de reden is waarom je een groot verschil ziet tussen de getallen in de tabellen en de getallen in de radiaal.
+Al onze status in `table` wordt berekend door de unieke weergaven, klikken en antwoorden op uw e-mails te bekijken. Als `one email is viewed five times, we will count that as one view.` dat is waarom u een groot verschil in de aantallen in de lijsten tegenover de aantallen in radiaal kunt zien.
 
 ## Analytische tabs {#analytic-tabs}
 
@@ -45,6 +45,6 @@ Hier zie je statistieken en classificaties van je hele team. U kunt ook filteren
 
 Het tabblad Inhoud bevat stats over sjablonen, inhoud en koppelingen. U kunt filteren op iedereen of op teams die uw beheerders hebben gemaakt.
 
-Als u blauwe tekst ziet onder de onderwerpregel, betekent dit dat de sjabloon `shared`staat. U kunt op de blauwe tekst klikken die naar die sjabloon moet worden doorgevoerd. Klik op **Sjabloonanalyse** om het gebruik weer te geven.
+Als u blauwe tekst ziet onder de onderwerpregel, betekent dit dat de sjabloon `shared` is. U kunt op de blauwe tekst klikken die naar die sjabloon moet worden doorgevoerd. Bekijk zijn gebruik door **Sjabloonanalyse** te klikken.
 
 &quot;Klikken op inhoud&quot; worden geteld wanneer een ontvanger op een koppeling in uw e-mail klikt.
