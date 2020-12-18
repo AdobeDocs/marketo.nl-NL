@@ -43,18 +43,18 @@ Google Universal Analytics met RTP-gegevens biedt u een beter inzicht in de mani
 
 1. In Google Analytics,
 
-   1. Ga naar **Beheer**
-   1. Selecteer het **account.**
-   1. Selecteer de **eigenschap.**
+   1. Naar **Admin**
+   1. Selecteer **Account.**
+   1. Selecteer **Eigenschap.**
    1. Selecteer **Aangepaste definities **en **Aangepaste Dimension.**
 
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
-1. Voeg een nieuwe aangepaste dimensie toe. Klikken **+Nieuwe aangepaste Dimension**
+1. Voeg een nieuwe aangepaste dimensie toe. Klik **+New Custom Dimension**
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. Voeg de volgende **aangepaste Dimension toe:**
+1. Voeg de volgende **Aangepaste Dimension toe:**
 
 <table> 
  <tbody> 
@@ -88,9 +88,9 @@ Google Universal Analytics met RTP-gegevens biedt u een beter inzicht in de mani
 
 >[!NOTE]
 >
->**Aangepaste Dimension-namen** moeten exact overeenkomen met de definitie in de bovenstaande tabel (anders worden aangepaste RTP-dashboards en -rapporten in GUA niet correct weergegeven)
+>**Aangepaste Dimension-** namen moeten exact overeenkomen met de definitie in de bovenstaande tabel (anders worden aangepaste RTP-dashboards en -rapporten in GUA niet correct weergegeven)
 
-1. Voeg de naam **toe. **Selecteer het bereik als **sessie.** Klik op **Maken.**
+1. Voeg de naam **toe. **Selecteer het bereik als **Sessie.** Klik op  **Maken.**
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -107,10 +107,10 @@ Zodra u de Dimension van de Douane in GUA hebt geactiveerd, ga naar het platform
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
 1. Klik onder **Accountinstellingen** op **Domein.**
-1. Klik onder **Analytics op **Google Universal Analytics**.
-1. Schakel **de relevante aangepaste Dimension en gebeurtenissen in** om deze gegevens van RTP aan Google Universal Analytics toe te voegen.
-1. Voer in GUA het **indexnummer** in van de dimensie die is uitgelijnd met het indexnummer.
-1. Klik op **Opslaan**.
+1. Klik onder **Analytics, **click **Google Universal Analytics**.
+1. Schakel **Aan** de relevante aangepaste Dimension en gebeurtenissen in om deze gegevens van RTP aan Google Universal Analytics toe te voegen.
+1. Voer het **Indexnummer** van de dimensie in, uitgelijnd op het indexnummer in GUA.
+1. Klik **Opslaan**.
 
 ![](assets/image2014-11-29-11-31-23-version-2.png)
 
@@ -123,9 +123,9 @@ Zodra u de Dimension van de Douane in GUA hebt geactiveerd, ga naar het platform
 ## Oude dashboards verwijderen in Google Analytics {#remove-old-dashboards-in-google-analytics}
 
 1. In Google Analytics. Ga naar **Rapportage.**
-1. Klik op **dashboards.**
+1. Klik op **Dashboards.**
 1. Selecteer een **dashboard **(RTP B2B of Prestaties RTP)
-1. Klik op **Dashboard** verwijderen.
+1. Klik **Dashboard verwijderen**.
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)
 
