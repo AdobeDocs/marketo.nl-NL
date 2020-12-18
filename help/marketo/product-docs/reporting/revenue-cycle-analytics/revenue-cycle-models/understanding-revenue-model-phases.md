@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Begrijpen van inkomstenmodelfasen {#understanding-revenue-model-phases}
+# Begrijpen van omzetmodelfasen {#understanding-revenue-model-phases}
 
 In fasen kunt u een aantal fasen groeperen. Soms weerspiegelen meerdere fasen in een model één fase van een trechter.
 
-![--](assets/image2015-6-12-16-3a56-3a40.png)
+![—](assets/image2015-6-12-16-3a56-3a40.png)
 
-## De fasen van het model definiëren {#define-the-phases-of-the-model}
+## Definieer de fasen van het model {#define-the-phases-of-the-model}
 
-1. Klik op **Fases.**
+1. Klik **Fases.**
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 
