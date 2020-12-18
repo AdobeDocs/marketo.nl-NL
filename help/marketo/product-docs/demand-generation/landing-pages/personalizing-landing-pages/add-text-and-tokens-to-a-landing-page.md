@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Rijke tekst toevoegen aan uw bestemmingspagina {#add-rich-text-to-your-landing-page}
 
-1. Selecteer de openingspagina en klik op Concept **** bewerken.
+1. Selecteer de bestemmingspagina en klik **Concept** bewerken.
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
    >
    >De landende paginaontwerper opent in een nieuw venster.
 
-1. Sleep over het element **Rich Text** .
+1. Sleep over het **Rich Text** element.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
@@ -45,7 +45,7 @@ Tokens zijn dynamische tekstfragmenten die uw openingspagina kunnen aanpassen.
 >
 >Dingen zoals Voornaam komen uit het persoonsdossier. Andere tokens komen van het Mijn lusje van Tokens in het programma.
 
-1. Selecteer de openingspagina en klik op Concept **** bewerken.
+1. Selecteer de bestemmingspagina en klik **Concept** bewerken.
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 
@@ -65,11 +65,11 @@ Tokens zijn dynamische tekstfragmenten die uw openingspagina kunnen aanpassen.
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Voer een **standaardwaarde** in en klik op **Invoegen**.
+1. Voer een **Standaardwaarde** in en klik op **Invoegen**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
