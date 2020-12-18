@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Een formulier goedkeuren {#approve-a-form}
+# Een formulier {#approve-a-form} goedkeuren
 
 Als u een formulier aan een van uw bestemmingspagina&#39;s wilt toevoegen, moet het zijn goedgekeurd. Zo doe je het.
 
-## Een formulier goedkeuren {#approve-a-form-1}
+## Een formulier {#approve-a-form-1} goedkeuren
 
 Hieronder wordt beschreven hoe u een bestaand formulier goedkeurt dat klaar is om te worden gebruikt.
 
@@ -35,7 +35,7 @@ Hieronder wordt beschreven hoe u een bestaand formulier goedkeurt dat klaar is o
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Het is goedgekeurd en kan worden [toegevoegd aan een bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+   Het is goedgekeurd en klaar om [aan een landingspagina ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) worden toegevoegd.
 
    >[!NOTE]
    >
@@ -53,11 +53,11 @@ Als u wijzigingen aanbrengt in een formulier, kunt u de pagina rechtstreeks vanu
 
 
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)
 
@@ -65,6 +65,6 @@ Als u wijzigingen aanbrengt in een formulier, kunt u de pagina rechtstreeks vanu
 >
 >**Herinnering**
 >
->Als u het formulier bewerkt nadat het is goedgekeurd, moet u de bestemmingspagina [](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goedkeuren om de wijzigingen te zien.
+>Herinner me, als u het formulier uitgeeft nadat het is goedgekeurd, zult u [de landende pagina ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) moeten goedkeuren om de veranderingen te zien.
 
 Dat is het! Gemakkelijk zoals kan.
