@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Template 18-A {#template-a}
+# Sjabloon 18-A {#template-a}
 
 [Sjabloon 18-A downloaden](http://docs.marketo.com/download/attachments/9438206/template-18a.html?version=1&amp;modificationdate=1439843149000&amp;api=v2)
 
