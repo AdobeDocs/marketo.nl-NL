@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Gegevens van sociaal profiel beheren {#manage-social-profile-data}
+# Gegevens sociaal profiel beheren {#manage-social-profile-data}
 
-Wanneer iemand communiceert met een [sociale app](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)Marketo of het sociale netwerk toestemming geeft om een Marketo-formulier vooraf in te vullen met een [sociale-formuliervulling](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), legt Marketo alle gegevens vast die beschikbaar zijn via het sociale profiel. U kunt deze informatie weergeven op de pagina [Details](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page)persoon of deze toevoegen als een kolom in een [aangepaste weergave van een slimme lijst](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List).
+Wanneer iemand met een Marketo [sociale app](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) in wisselwerking staat, of hun sociale netwerk machtigt om een Marketo-formulier vooraf in te vullen met [sociale notatie](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), legt Marketo alle gegevens vast die beschikbaar zijn vanuit hun sociale profiel. U kunt deze informatie op [Persoonsdetails pagina](http://docs.marketo.com/display/DOCS/Using+the+Person+Detail+Page) bekijken, of het toevoegen als kolom in een [douanemening van een slimme lijst](http://docs.marketo.com/display/DOCS/Create+and+Change+Views+for+Lists+and+Smart+List).
 
 In sociale formulieren en sociale toepassingen worden enigszins verschillende sets velden vastgelegd. zie de sectie voor elk hieronder.
 
@@ -23,7 +23,7 @@ In sociale formulieren en sociale toepassingen worden enigszins verschillende se
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-## Vastgelegd via sociale app {#captured-via-social-app}
+## Vastgelegd via Sociale app {#captured-via-social-app}
 
 Afhankelijk van de privacy-instellingen van het netwerk en de gebruiker worden een of meer van deze velden opgehaald:
 
@@ -58,7 +58,7 @@ Afhankelijk van de privacy-instellingen van het netwerk en de gebruiker worden e
 
 >[!CAUTION]
 >
->Met gegevens die door het invullen van een sociaal formulier worden vastgelegd, worden overeenkomstige velden overschreven, tenzij u updates van deze velden op formulierniveau [](../../../../product-docs/administration/field-management/block-updates-to-a-field.md)blokkeert.
+>Door het invullen van een sociaal formulier vastgelegde gegevens overschrijven overeenkomende velden, tenzij u [updates van deze velden op formulierniveau blokkeert](../../../../product-docs/administration/field-management/block-updates-to-a-field.md).
 
 ## Van Twitter: {#from-twitter-1}
 
@@ -77,15 +77,15 @@ Afhankelijk van de privacy-instellingen van het netwerk en de gebruiker worden e
 
 >[!NOTE]
 >
->Met het invullen van een sociaal formulier wordt het e-mailadres *alleen* vastgelegd als de persoon het in het formulier invoert. Als u het e-mailadres nodig hebt, [maakt u het een verplicht veld in uw formulier](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>Met het invullen van een sociaal formulier wordt het e-mailadres *alleen* vastgelegd als de persoon het in het formulier invoert. Als u het e-mailadres nodig hebt, moet u het [als vereist veld in uw formulier ](../../../../product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) instellen.
 
 >[!MORELIKETHIS]
 >
->Schakel het invullen van [sociale formulieren](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)in om deze gegevens van formulieren vast te leggen.
+>Schakel [Vulling van sociaal formulier](../../../../product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md) in om deze informatie uit formulieren vast te leggen.
 
 >[!NOTE]
 >
 >**Diep duiken**
 >
->Meer weten over het werken met formulieren in de diepe [Forms](http://docs.marketo.com/display/docs/forms) ?
+>Meer informatie over het werken met formulieren vindt u in de diepe duik [Forms](http://docs.marketo.com/display/docs/forms).
 
