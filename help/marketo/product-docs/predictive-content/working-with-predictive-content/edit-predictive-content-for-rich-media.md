@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Predictieve inhoud voor rijke media bewerken {#edit-predictive-content-for-rich-media}
+# Voorspelende inhoud voor rijke media {#edit-predictive-content-for-rich-media} bewerken
 
 >[!NOTE]
 >
->Afhankelijk van de aankoopdatum kan uw abonnement op Marketo-basis ofwel Voorspelende inhoud of<sup>ContentAI</sup>bevatten. Marketo schakelt de functie<sup>ContentAI</sup> Analytics voor gebruikers die gebruikmaken van voorspellende inhoud in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om een upgrade uit te voeren naar Marketo<sup>ContentAI</sup>.
+>Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud<sup>AI</sup> bevatten. Voor gebruikers die gebruikmaken van voorspellende inhoud schakelt Marketo de analysefuncties voor Inhoud<sup>AI</sup> in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content<sup>AI</sup>.
 
 Hier is hoe te opstelling uw vooruitlopende inhoud voor Rijke Media.
 
 >[!PREREQUISITES]
 >
->Inhoud moet worden [goedgekeurd voor voorspellende inhoud](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de pagina Alle inhoud.
+>Inhoud moet [goedgekeurd zijn voor voorspellende inhoud](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de pagina Alle inhoud.
 
-1. Klik op een titel op de pagina **Voorspellende inhoud** om de editor te openen.
+1. Klik op de pagina **Predictive Content** op een titel om de editor te openen.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Klik op **Rijke media**.
+1. Klik **Rijke media**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -35,11 +35,11 @@ Hier is hoe te opstelling uw vooruitlopende inhoud voor Rijke Media.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. Typ een **beschrijving**.
+1. Typ een **Beschrijving**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Klik op het vak **Categorieën** om [categorieën die u al hebt ingesteld](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) , te selecteren of toe te voegen (optioneel).
+1. Klik op het vak **Categorieën** om [categorieën te selecteren/toe te voegen die u al hebt ingesteld](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (optioneel).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -55,6 +55,6 @@ Hier is hoe te opstelling uw vooruitlopende inhoud voor Rijke Media.
 
    ![](assets/six-1.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/save.png)
