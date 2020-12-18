@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Een geüploade afbeelding of bestand vervangen {#replace-an-uploaded-image-or-file}
 
-1. Ga naar de **Design** **Studio**.
+1. Ga naar **Design** **Studio**.
 
    ![](assets/designstudio-6.png)
 
-1. Klik op **Afbeeldingen** **en** **Bestanden** en selecteer het bestand dat u wilt vervangen.
+1. Klik **Afbeeldingen** **en** **Bestanden** en selecteer vervolgens het bestand dat u wilt vervangen.
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
    >[!TIP]
    >
-   >U kunt ook geüploade afbeeldingen of bestanden [](search-uploaded-images-and-files.md)doorzoeken.
+   >U kunt ook [geüploade afbeeldingen of bestanden zoeken](search-uploaded-images-and-files.md).
 
-1. Klik op **Bestandsacties** en selecteer Afbeelding **vervangen of Bestand** vervangen.
+1. Klik **Bestandsacties** en selecteer **Afbeelding of Bestand** vervangen.
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
    >
    >Als u geen bestand uit een gedeelde map kunt selecteren, slaat u dat bestand op de vaste schijf op en kiest u het.
 
-1. Controleer of het bestand dat naast Bestand **** kiezen wordt weergegeven, juist is en klik op **Vervangen**.
+1. Controleer of het bestand dat naast **Kies Bestand** wordt weergegeven juist is en klik vervolgens op **Vervangen**.
 
    ![](assets/image2014-9-16-11-3a22-3a12.png)
 
