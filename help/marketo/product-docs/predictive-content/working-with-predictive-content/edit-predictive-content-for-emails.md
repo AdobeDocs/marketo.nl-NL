@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Afhankelijk van de aankoopdatum kan uw abonnement op Marketo de optie Voorspelende inhoud of Inhoud`<sup>AI</sup>`markeren bevatten. Marketo schakelt de functie Content`<sup>AI</sup>` Analytics voor gebruikers die gebruikmaken van voorspellende inhoud in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager Succes bij Marketo-klanten om te upgraden naar Marketo-inhoud`<sup>AI</sup>`.
+>Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
 Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
 
 >[!PREREQUISITES]
 >
->Inhoud moet worden [goedgekeurd voor voorspellende inhoud](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de pagina Alle inhoud.
+>Inhoud moet [goedgekeurd zijn voor voorspellende inhoud](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de pagina Alle inhoud.
 
 1. Klik op de pagina Voorspelende inhoud op een titel om de editor te openen.
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. De bewerkingspagina wordt geopend. **E-mailweergaven** worden standaard weergegeven.
+1. De bewerkingspagina wordt geopend. **Standaard** e-maildisplays.
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -43,7 +43,7 @@ Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
    >
    >Als u het knoplabel hebt gewijzigd, wordt dit bijgewerkt wanneer u de wijzigingen opslaat of een voorvertoning van de afbeelding weergeeft.
 
-1. Klik op Afbeelding **** bewerken om de URL van de afbeelding toe te voegen of te bewerken.
+1. Als u de URL van de afbeelding wilt toevoegen of bewerken, klikt u op **Afbeelding bewerken**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -51,7 +51,7 @@ Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
 
    ![](assets/five.png)
 
-1. Klik en sleep de schuifregelaar om de afbeeldingsgrootte te wijzigen. Klik en sleep het uitsnijdvak om het gewenste afbeeldingsgebied te isoleren. Klik op **Voorvertoning** als u klaar bent.
+1. Klik en sleep de schuifregelaar om de afbeeldingsgrootte te wijzigen. Klik en sleep het uitsnijdvak om het gewenste afbeeldingsgebied te isoleren. Klik **Voorvertoning** wanneer gereed.
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. Klik indien nodig op het veld **Categorieën** en voeg categorieën toe aan de inhoud. De opties zijn afkomstig uit de [categorieën die u al hebt ingesteld](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md).
+1. Klik optioneel op het veld **Categorieën** en voeg categorieën toe aan de inhoud. De opties zijn van de [categorieën u reeds opstelling](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) hebt.
 
    ![](assets/eight.png)
 
@@ -68,10 +68,10 @@ Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
 
    ![](assets/nine.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/save.png)
 
    >[!NOTE]
    >
-   >In Marketo Email Editor v2.0 kunt u ook de lay-outsjablonen [](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) weergeven terwijl u de inhoud inschakelt.
+   >In Marketo Email Editor v2.0 kunt u ook [de lay-outsjablonen weergeven](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) die u gebruikt terwijl u de inhoud inschakelt.
