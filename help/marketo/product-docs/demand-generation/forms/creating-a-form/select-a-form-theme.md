@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een formulierthema selecteren {#select-a-form-theme}
+# Selecteer een formulierthema {#select-a-form-theme}
 
 We maakten een hoop leuke thema&#39;s voor je formulieren. Welke vind je het beste?
 
@@ -19,15 +19,15 @@ We maakten een hoop leuke thema&#39;s voor je formulieren. Welke vind je het bes
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/editform.png)
 
-1. Ga naar **Formulier** - **instellingen**.
+1. Ga naar **Formulier** **Instellingen**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Schakel heen en weer om het **formulierthema** **van uw eigen smaak** te kiezen.
+1. Schakel heen en weer om het **Formulier** **Thema** van uw eigen smaak te kiezen.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -43,9 +43,9 @@ We maakten een hoop leuke thema&#39;s voor je formulieren. Welke vind je het bes
 
    >[!TIP]
    >
-   >U kunt ook de CSS van uw formulierthema [](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)bewerken.
+   >U kunt ook [de CSS van het formulierthema](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md) bewerken.
 
-1. Klik op **Volgende** om andere formulieropties te configureren of klik op **Voltooien** als u alleen het formulierthema wilt wijzigen.
+1. Klik **Volgende** om andere vormopties te vormen, of klik **Afwerking** als u slechts het Thema van de Vorm wilde veranderen.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 
