@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-mails naar spam {#emails-going-to-spam}
+# E-mails die naar spam {#emails-going-to-spam} gaan
 
 We werken heel hard om ervoor te zorgen dat onze leveringspercentages hoog blijven. Toch zijn er bepaalde gedragingen die e-mails naar de map Spam kunnen worden geleid.
 
