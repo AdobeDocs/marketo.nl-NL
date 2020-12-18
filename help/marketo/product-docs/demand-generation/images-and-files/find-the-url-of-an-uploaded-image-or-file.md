@@ -11,19 +11,19 @@ ht-degree: 0%
 ---
 
 
-# De URL van een geüploade afbeelding of bestand zoeken {#find-the-url-of-an-uploaded-image-or-file}
+# De URL zoeken van een geüploade afbeelding of bestand {#find-the-url-of-an-uploaded-image-or-file}
 
 Op zoek naar het webadres (URL) van een afbeelding of bestand dat u hebt geüpload? Marketo heeft je bedekt.
 
-1. Ga naar de **Studio** van het Ontwerp.
+1. Ga naar **Design Studio**.
 
    ![](assets/designstudio-4.png)
 
-1. Klik op **Afbeeldingen** **en** **Bestanden** in het linkermenu en selecteer het bestand waarvoor u de URL wilt gebruiken.
+1. Klik **Afbeeldingen** **en** **Bestanden** in het linkermenu en selecteer vervolgens het bestand waarvoor u de URL wilt gebruiken.
 
    ![](assets/image2014-9-25-14-3a47-3a53.png)
 
-1. De **URL** wordt weergegeven op de detailpagina. Klik met de rechtermuisknop op de **URL** en klik op **Kopiëren** in het menu dat wordt weergegeven.
+1. De **URL** wordt getoond op de detailpagina. Klik met de rechtermuisknop op **URL** en klik op **Copy** in het menu dat wordt weergegeven.
 
    ![](assets/image2014-9-25-14-3a48-3a16.png)
 
