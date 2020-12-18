@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Hoe te om een Groep te delen {#how-to-share-a-group}
+# Hoe te om een Groep {#how-to-share-a-group} te delen
 
 Het delen van een groep leads of contacten met uw team is vrij eenvoudig in Sales Connect.
 
-1. Ga naar het tabblad **Personen** .
+1. Ga naar het tabblad **Personen**.
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ Het delen van een groep leads of contacten met uw team is vrij eenvoudig in Sale
 
    ![](assets/two-1.png)
 
-1. Klik op de knop** Handelingen groeperen** en selecteer Groep **** delen.
+1. Klik op de knop** Groepacties** en selecteer **Groep delen**.
 
    ![](assets/three-1.png)
 
@@ -31,7 +31,7 @@ Het delen van een groep leads of contacten met uw team is vrij eenvoudig in Sale
 
    ![](assets/four-1.png)
 
-1. Klik op **Delen**.
+1. Klik **Delen**.
 
    ![](assets/five-1.png)
 
