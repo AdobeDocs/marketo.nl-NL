@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Waartot hebben Admins en niet-Admins toegang?
 
-## Beheerdersmachtigingen {#admin-user-permissions}
+## Beheerdersrechten {#admin-user-permissions}
 
-Beheerders kunnen alle sjablonen [](http://docs.marketo.com/x/OYAXAQ)weergeven.
+Beheerders kunnen alle sjablonen [weergeven](http://docs.marketo.com/x/OYAXAQ).
 
 ![](assets/templates.jpg)
 
-Beheerders kunnen alle campagnes [weergeven](http://docs.marketo.com/x/N4AXAQ).
+Beheerders kunnen [alle campagnes weergeven](http://docs.marketo.com/x/N4AXAQ).
 
 ![](assets/campaigns.jpg)
 
-Beheerders kunnen alle e-mailactiviteiten [](http://docs.marketo.com/x/SYAXAQ)weergeven.
+Beheerders kunnen [alle e-mailactiviteiten weergeven](http://docs.marketo.com/x/SYAXAQ).
 
 ![](assets/email-activity.png)
 
@@ -39,7 +39,7 @@ Alle personenverslagen kunnen in de Iedereen groep worden betreden.
 
 Beheerders kunnen campagnes namens gebruikers stoppen.
 
-## Rechten van gebruikers die geen beheerder zijn {#non-admin-user-permissions}
+## Gebruikersmachtigingen {#non-admin-user-permissions} voor niet-beheer
 
 * Analyse:
 
