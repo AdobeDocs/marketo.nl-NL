@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een koppeling toevoegen aan een afbeelding in een openstaande pagina {#add-a-link-to-an-image-in-a-free-form-landing-page}
+# Een koppeling toevoegen aan een afbeelding in een willekeurige landingspagina {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
 Wilt u een afbeelding op uw bestemmingspagina koppelen aan een andere pagina of site? Zo gaat het.
 
@@ -27,7 +27,7 @@ Wilt u een afbeelding op uw bestemmingspagina koppelen aan een andere pagina of 
 
    ![](assets/click-on-image.png)
 
-1. Vouw het **eigenschappenblad** uit.
+1. Vouw het **Eigenschappenblad** uit.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
@@ -35,7 +35,7 @@ Wilt u een afbeelding op uw bestemmingspagina koppelen aan een andere pagina of 
 
    ![](assets/add-link.png)
 
-   Gefeliciteerd! U hebt nu met succes een verbinding aan een beeld op uw landende pagina toegevoegd. U kunt nu een [voorvertoning van de pagina](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) weergeven om deze in actie te zien.
+   Gefeliciteerd! U hebt nu met succes een verbinding aan een beeld op uw landende pagina toegevoegd. U kunt de pagina [voorproef nu ](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) om het in actie te zien.
 
 >[!TIP]
 >
