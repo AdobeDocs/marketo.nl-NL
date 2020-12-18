@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Koppelingen in je e-mailberichten met je abonnement op rapporten verlopen na drie dagen. Voer de volgende stappen uit om de vervaltijd voor deze koppelingen te wijzigen.
 
-1. Klik onder **Beheerder** op **Aanmeldingsinstellingen**.
+1. Klik onder **Admin** op **Aanmeldingsinstellingen**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
@@ -27,7 +27,7 @@ Koppelingen in je e-mailberichten met je abonnement op rapporten verlopen na dri
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. Selecteer in het keuzemenu hoeveel dagen voordat de koppeling verloopt. Klik op **Opslaan**.
+1. Selecteer in het keuzemenu hoeveel dagen voordat de koppeling verloopt. Klik **Opslaan**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 
