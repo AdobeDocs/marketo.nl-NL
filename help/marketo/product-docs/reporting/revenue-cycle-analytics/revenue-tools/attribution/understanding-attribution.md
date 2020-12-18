@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Kenmerken {#understanding-attribution}
+# Kenmerk {#understanding-attribution}
 
 ## Wat is attributie? {#what-is-attribution}
 
@@ -21,13 +21,13 @@ Dit is hoe Marketo de programma&#39;s die de verkoop en kansen helpen beïnvloed
 
 Met kenmerk kunt u meten of het programma succesvol is. Sommige programma&#39;s zijn bedoeld om nieuwe namen te genereren, terwijl andere bedoeld zijn om de verkoop te sturen. Door een systeem van toerekening te hebben, kunt u opgeleide besluiten nemen over welke programma&#39;s om in te investeren.
 
-## Ft-kenmerk (First Touch) {#first-touch-ft-attribution}
+## First-Touch (FT) Attribution {#first-touch-ft-attribution}
 
-First-Touch (FT)-attributie beantwoordt een **eenvoudige zakelijke vraag**: &quot;Welke programma&#39;s zijn goed in het aanschaffen van winstgevende nieuwe namen?&quot;
+First-Touch (FT)-attributie beantwoordt een **eenvoudige zakelijke vraag**, &quot;Welke programma&#39;s zijn goed in het verwerven van winstgevende nieuwe namen?&quot;
 
-## Attributie met meerdere aanrakingen {#multi-touch-attribution}
+## Attributie met meerdere aanraakpunten {#multi-touch-attribution}
 
-Multi-Touch beantwoordt een **ingewikkelde bedrijfsvraag**, &quot;Welke programma&#39;s het meest invloedrijk in het bewegen van mensen in de verkoopcyclus in tijd zijn?&quot;
+Multi-Touch beantwoordt een **gecompliceerde bedrijfsvraag**, &quot;Welke programma&#39;s zijn het meest invloedrijk in het bewegen van mensen in de verkoopcyclus door tijd?&quot;
 
 ## Kenmerkregels {#rules-of-attribution}
 
