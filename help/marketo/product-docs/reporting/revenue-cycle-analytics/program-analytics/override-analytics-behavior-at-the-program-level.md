@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gedrag Analytics negeren op programmaniveau {#override-analytics-behavior-at-the-program-level}
 
-U kunt het [analytische gedrag op het beheerniveau op kanalen](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) instellen, maar u kunt het gedrag ook op programmaniveau overschrijven. Hieronder wordt beschreven hoe:
+U kunt het [analytische gedrag op het admin niveau op kanalen ](make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) plaatsen maar u kunt het op het programmaniveau ook met voeten treden. Hieronder wordt beschreven hoe:
 
 1. Ga naar het gebied Marketingactiviteiten.
 
@@ -33,13 +33,13 @@ U kunt het [analytische gedrag op het beheerniveau op kanalen](make-a-program-wi
    >
    >**Definitie**
    >
-   >* **Inclusief** - Deze optie zorgt ervoor dat het programma beschikbaar is voor rapportage in de inkomstenverkenner en analyseapparatuur, ongeacht of u een periode hebt opgenomen in de kosten.
-   >* **Operationeel** - Deze optie leidt ertoe dat het programma noch in de ontdekkingsreiziger van de opbrengst noch in analysatoren verschijnt.
+   >* **Inclusief**  - Deze optie zorgt ervoor dat het programma beschikbaar is voor rapportage in de inkomstenverkenner en analyseapparatuur, ongeacht of u een periode hebt opgenomen in de kosten.
+   >* **Operationeel**  - Deze optie leidt ertoe dat het programma noch in de ontdekkingsreiziger noch in analysatoren van de opbrengst verschijnt.
 
 
    >[!NOTE]
    >
-   >Het standaardgedrag (als deze instelling niet wordt toegepast) is dat het programma **ALLEEN in Analytics wordt opgenomen als er ten minste één punt kosten** zijn, zelfs als er nul dollar is toegewezen.
+   >Het standaardgedrag (als deze instelling niet wordt toegepast) is dat het programma alleen wordt opgenomen in Analytics **ALS er minstens één punt kostenloos is**, zelfs als er een periode met 0 dollar is toegewezen.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
