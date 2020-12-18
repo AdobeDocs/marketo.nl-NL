@@ -21,11 +21,11 @@ Sociale apps in Marketo hebben hun eigen speciale triggers en filters.
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Als u sociale *triggers* wilt gebruiken, selecteert u de slimme campagne en klikt u op het tabblad **Slimme lijst** . Klik rechts op + om **Triggers** uit te vouwen en klik vervolgens op **Sociaal**.
+1. Als u sociale *triggers* wilt gebruiken, selecteert u uw slimme campagne en klikt u op het tabblad **Slimme lijst**. Klik rechts op + om Triggers **Triggers** uit te vouwen en **Sociaal**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Als u sociale *filters* wilt gebruiken, klikt u op **+** om de **filters** uit te vouwen.
+1. Als u sociale *filters* wilt gebruiken, klikt u op **+** om de **Filters** uit te vouwen.
 
    ![](assets/two-282-29.png)
 
