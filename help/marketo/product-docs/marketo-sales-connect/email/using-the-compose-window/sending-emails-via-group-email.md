@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# E-mailberichten verzenden via e-mail voor groep {#sending-emails-via-group-email}
+# E-mailberichten verzenden via e-mail {#sending-emails-via-group-email} van groep
 
 Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie Groep-e-mail.
 
-## Groeps-e-mailberichten verzenden {#sending-a-group-email}
+## Groepse-e-mail {#sending-a-group-email} verzenden
 
-1. Klik op het tabblad **Personen** .
+1. Klik op het tabblad **Personen**.
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
    ![](assets/two-3.png)
 
-1. Klik op de knop Handelingen groeperen en selecteer **Groep** e-mailen.
+1. Klik op de knop Handelingen groeperen en selecteer **Groep e-mailen**.
 
    ![](assets/three-3.png)
 
@@ -33,9 +33,9 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
    ![](assets/four-3.png)
 
-## Een groepse-e-mail bewerken {#editing-a-group-email}
+## Een groepse-e-mail {#editing-a-group-email} bewerken
 
-1. Maak een groep-e-mailbericht met bovenstaande [](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail)stappen 1-3.
+1. Maak een groep-e-mailbericht met [Stap 1-3 hierboven](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
 1. Kies een sjabloon of vul uw e-mail in.
 
    ![](assets/edit-two.png)
@@ -48,7 +48,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
    ![](assets/edit-four.png)
 
-1. Klik op Dynamische velden **** voorvertonen en bekijk de voorvertoning aan de rechterkant.
+1. Klik **Dynamische velden voorvertonen** en bekijk de voorvertoning aan de rechterkant.
 
    ![](assets/edit-five.png)
 
