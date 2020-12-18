@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Voeg LinkedIn Gelijke Publiek als Dienst van LaunchPoint toe {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+# Voeg LinkedIn Gelijke Soorten publiek als Dienst van LaunchPoint {#add-linkedin-matched-audiences-as-a-launchpoint-service} toe
 
 >[!NOTE]
 >
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Sluit uw Marketo-account aan op LinkedIn Matched Publiek om een statische lijst of slimme lijst Marketo te gebruiken als een LinkedIn-publiekssegment.
 
-1. Ga naar de sectie **Beheer** .
+1. Ga naar **Admin** sectie.
 
    ![](assets/admin.png)
 
@@ -27,11 +27,11 @@ Sluit uw Marketo-account aan op LinkedIn Matched Publiek om een statische lijst 
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecteer **Nieuwe** en **Nieuwe Dienst**.
+1. Selecteer **Nieuw** en **Nieuwe service**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Ga een Naam van de **Vertoning in** en kies **LinkedIn Gelijke Publiek**. Klik op **Maken**.
+1. Voer een **Weergavenaam** in en kies **LinkedIn Matched Audiences**. Klik **Maken**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -41,17 +41,17 @@ Sluit uw Marketo-account aan op LinkedIn Matched Publiek om een statische lijst 
 
    >[!CAUTION]
    >
-   >Opdat Marketo publiek over veelvoudige LinkedIn Adaccounts verzendt, moet de gebruiker LinkedIn u in de volgende stappen goedkeurt toegang tot *elk* van deze Advertentieverslagen in hun Manager van de Campagne hebben.
+   >Opdat Marketo publiek over veelvoudige LinkedIn Adaccounts verzendt, moet de gebruiker LinkedIn u in de volgende stappen goedkeurt toegang hebben tot *all* van deze Advertentieverslagen in hun Manager van de Campagne.
 
 1. LinkedIn wordt geopend in een nieuw lusje. Van hier, login aan uw LinkedIn rekening.
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. Controleer de gewenste machtigingen en klik op **Toestaan**.
+1. Herzie de gevraagde toestemmingen, dan klik **Toestaan**.
 
    ![](assets/li-permissions.png)
 
-1. Uw LinkedIn-account is nu verbonden met Marketo. Klik op **Maken**.
+1. Uw LinkedIn-account is nu verbonden met Marketo. Klik **Maken**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
