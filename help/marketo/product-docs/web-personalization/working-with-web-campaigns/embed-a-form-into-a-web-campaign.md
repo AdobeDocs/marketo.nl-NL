@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenster, In Zone of Widget).
 
-1. Klik met de rechtermuisknop op een goedgekeurd formulier. Selecteer Code **** insluiten.
+1. Klik met de rechtermuisknop op een goedgekeurd formulier. Selecteer **Code insluiten**.
 
    ** ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -25,11 +25,11 @@ Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenste
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. Ga in de Personalisatie van het Web, naar de Campagnes van het **Web**.
+1. Ga in de Personalisering van het Web, naar **Campagnes van het Web**.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. Klik op Nieuwe campagne **maken**.
+1. Klik **Nieuwe campagne maken**.
 
    ** ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -39,12 +39,12 @@ Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenste
 
    ![](assets/five-1.png)
 
-1. Plak de insluitcode van het formulier in de HTML-broneditor. Klik op **Bijwerken**.
+1. Plak de insluitcode van het formulier in de HTML-broneditor. Klik **Update**.
 
    ![](assets/six-1.png)
 
 1. Het formulier wordt niet weergegeven in de editorweergave, maar u kunt het voorbeeld bekijken om te zien hoe het in een campagne wordt weergegeven.
-1. Klik op **Starten** om de campagne te starten.
+1. Klik **Launch** om de campagne te starten.
 
    >[!NOTE]
    >
@@ -58,11 +58,11 @@ Als u een achtergrondafbeelding aan het formulier wilt toevoegen, kunt u:
 * Dialoogvenster- of widgetkleuren wijzigen in Campagne instellen
 * CSS-code toevoegen aan het script
 
-Zie [dit artikel](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)als u de CSS van een formulierthema wilt bewerken.
+Zie [dit artikel](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md) als u de CSS van een formulierthema wilt bewerken.
 
 U wijzigt als volgt de kleur van het dialoogvenster of de widget in de campagne Set:
 
-1. Selecteer in de Rich Text Editor een type dialoogvenster en een dialoogstijl, koptekstkleur en achtergrondkleur om de achtergrondkleuren van het formulier aan te passen. Klik op **Opslaan**.
+1. Selecteer in de Rich Text Editor een type dialoogvenster en een dialoogstijl, koptekstkleur en achtergrondkleur om de achtergrondkleuren van het formulier aan te passen. Klik **Opslaan**.
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -76,11 +76,11 @@ CSS-code toevoegen aan het script:
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. Plak de insluitcode van het formulier met de achtergrondstijlcode in de HTML-broneditor. Klik op **Bijwerken**.
+1. Plak de insluitcode van het formulier met de achtergrondstijlcode in de HTML-broneditor. Klik **Update**.
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Klik op **Voorvertonen** om te zien hoe het formulier in een campagne wordt weergegeven (het formulier wordt niet weergegeven in de editorweergave). Hier volgt een voorbeeld van hoe de bovenstaande formuliercode wordt weergegeven in een campagne met een achtergrondafbeelding.
+1. Klik **Voorvertoning** om te zien hoe het in een campagne wordt weergegeven (het formulier wordt niet weergegeven in de editorweergave). Hier volgt een voorbeeld van hoe de bovenstaande formuliercode wordt weergegeven in een campagne met een achtergrondafbeelding.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
