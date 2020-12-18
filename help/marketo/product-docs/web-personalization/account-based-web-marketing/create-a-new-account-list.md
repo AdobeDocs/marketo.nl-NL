@@ -17,19 +17,19 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
 
 >[!NOTE]
 >
->Dit artikel is erfenisWeb ABM slechts klanten van toepassing. Als u Web ABM na september 2016 hebt aangeschaft, volgt u in plaats daarvan de stappen in [dit artikel](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) .
+>Dit artikel is erfenisWeb ABM slechts klanten van toepassing. Als u Web ABM na September 2016 verwierf, te volgen gelieve de stappen in [dit artikel](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) in plaats daarvan.
 
 ## Een nieuwe accountlijst maken {#create-a-new-account-list-1}
 
-1. Ga naar **accountlijsten**.
+1. Ga naar **Accountlijsten**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Selecteer **Nieuw** maken.
+1. Selecteer **Nieuw maken**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Selecteer **Bladeren** en upload uw CSV-bestand (controleer of het CSV-bestand voldoet aan de criteria). Voeg een **Naam** en een **Beschrijving** toe. Klik op **Opslaan**.
+1. Selecteer **Bladeren** en upload uw CSV-bestand (controleer of het CSV-bestand voldoet aan de criteria). Voeg een **Naam** en **Beschrijving** toe. Klik **Opslaan**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -71,11 +71,11 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
 
 ## Een accountlijst bewerken {#edit-an-account-list}
 
-Klik op de pagina **Accountlijsten** op het pictogram **Bewerken **Bewerken in de lijst.
+Klik op de pagina **Accountlijsten** op het pictogram **Bewerken **in de lijst.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Selecteer **Bladeren** en upload uw nieuwe CSV-bestand. Dit bestand vervangt het oorspronkelijke bestand. Klik op **Opslaan**. Het nieuwe geüploade bestand bevindt zich in de wachtrij totdat het is goedgekeurd door Marketo Support. In een status in behandeling blijft het oorspronkelijke bestand actief.
+Selecteer **Bladeren** en upload uw nieuwe CSV-bestand. Dit bestand vervangt het oorspronkelijke bestand. Klik **Opslaan**. Het nieuwe geüploade bestand bevindt zich in de wachtrij totdat het is goedgekeurd door Marketo Support. In een status in behandeling blijft het oorspronkelijke bestand actief.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
@@ -87,7 +87,7 @@ Het bestaande bestand wordt vervangen door het CSV-bestand. De bestaande lijst b
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. Er wordt een bericht weergegeven ter bevestiging dat u de lijst wilt verwijderen. Klik op **OK**.
+1. Er wordt een bericht weergegeven ter bevestiging dat u de lijst wilt verwijderen. Klik **OK**.
 
    ![](assets/delete-notification-hand.jpg)
 
