@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Een e-mail verzenden vanuit een verkoopafdeling {#how-to-send-an-email-from-sales-engage}
+# Hoe te om een E-mail van de Ingenieur van de Verkoop te verzenden {#how-to-send-an-email-from-sales-engage}
 
-1. Klik op de knop **Samenstellen** rechtsboven in het Command Center.
+1. Klik **stellen** knoop bij het hoger-recht van het Centrum van het Bevel samen.
 1. Typ het e-mailadres en de naam van de ontvanger.
 1. Voer het onderwerp van de e-mail in.
 1. Selecteer een e-mailsjabloon of schrijf een nieuw bericht.
-1. Klik op **Verzenden** als uw e-mailbericht gereed is. We volgen wanneer je e-mail wordt geopend en wanneer iemand op een koppeling klikt.
+1. Als uw e-mail gereed is, klikt u op **Verzenden**. We volgen wanneer je e-mail wordt geopend en wanneer iemand op een koppeling klikt.
 
