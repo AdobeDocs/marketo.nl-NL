@@ -21,7 +21,7 @@ Leer hoe u een e-mail naar een volledige groep verzendt of een groep aan een cam
 
    ![](assets/one-6.png)
 
-1. Klik op de knop Handelingen **** groeperen en selecteer **Groep** e-mailen.
+1. Klik op de knop **Handelingen groeperen** en selecteer **Groep e-mailen**.
 
    ![](assets/two-5.png)
 
@@ -37,7 +37,7 @@ Leer hoe u een e-mail naar een volledige groep verzendt of een groep aan een cam
 
    ![](assets/one-6.png)
 
-1. Klik op de knop Handelingen **** groeperen en selecteer Groep **toevoegen aan campagne**.
+1. Klik op de knop **Handelingen groeperen** en selecteer **Groep toevoegen aan campagne**.
 
    ![](assets/four-4.png)
 
@@ -49,7 +49,7 @@ Leer hoe u een e-mail naar een volledige groep verzendt of een groep aan een cam
    >
    >Mogelijk ziet u een optie om toe te voegen aan een Marketo-campagne. [Dat is een ander artikel](http://docs.marketo.com/x/CwDh).
 
-1. Selecteer een campagne (u kunt een categorie selecteren om uw resultaten te beperken) en klik op **Volgende**.
+1. Selecteer een campagne (u kunt een categorie selecteren om uw resultaten te verfijnen) en klik **Volgende**.
 
    ![](assets/seven-1.png)
 
@@ -57,7 +57,7 @@ Leer hoe u een e-mail naar een volledige groep verzendt of een groep aan een cam
 
    ![](assets/eight-1.png)
 
-1. Plan de campagne en klik op **Start**.
+1. Plan de campagne en klik **Start**.
 
    ![](assets/nine-1.png)
 
