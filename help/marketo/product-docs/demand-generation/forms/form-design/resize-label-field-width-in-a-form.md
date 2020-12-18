@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# De grootte van Label/veldbreedte in een formulier wijzigen {#resize-label-field-width-in-a-form}
+# Grootte van label/veldbreedte in een formulier wijzigen {#resize-label-field-width-in-a-form}
 
 Er zijn twee manieren om zowel de breedte van het veldlabel als de breedte van het veld zelf te vergroten of te verkleinen.
 
-## De breedte slepen en neerzetten {#drag-and-drop-the-width}
+## De breedte {#drag-and-drop-the-width} slepen en neerzetten
 
-1. Selecteer in de [formuliereditor](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)het veld waarvan u het formaat wilt wijzigen.
+1. Selecteer in de [formuliereditor](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md) het veld waarvan u het formaat wilt wijzigen.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
