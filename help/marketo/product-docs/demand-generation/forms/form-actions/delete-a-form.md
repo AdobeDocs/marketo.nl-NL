@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een formulier verwijderen {#delete-a-form}
+# Een formulier {#delete-a-form} verwijderen
 
 Als u een formulier hebt dat u niet nodig hebt en niet gebruikt, kunt u het verwijderen. Zo gaat het.
 
@@ -23,7 +23,7 @@ Als u een formulier hebt dat u niet nodig hebt en niet gebruikt, kunt u het verw
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Klik onder **Formulierhandelingen** **op** Formulier **verwijderen** ****.
+1. Klik onder **Formulier** **Handelingen** op **Verwijderen** **Formulier**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -34,7 +34,7 @@ Als u een formulier hebt dat u niet nodig hebt en niet gebruikt, kunt u het verw
    >
    >Vergeet niet het formulier te verwijderen van alle/willekeurige bestemmingspagina&#39;s die het gebruiken. Bevestig ook dat het formulier niet wordt gebruikt op een openbare website.
 
-1. Bevestig door op **Verwijderen** te klikken.
+1. Bevestig door te klikken op **Delete**.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
@@ -44,5 +44,5 @@ Als u een formulier hebt dat u niet nodig hebt en niet gebruikt, kunt u het verw
 
 >[!CAUTION]
 >
->Als u een formulier verwijdert dat wordt gebruikt door uw openbare website, wordt er geen waarschuwing weergegeven en wordt het formulier verbroken. Overweeg het [archiveren](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) .
+>Als u een formulier verwijdert dat wordt gebruikt door uw openbare website, wordt er geen waarschuwing weergegeven en wordt het formulier verbroken. Overweeg [archivering in plaats daarvan](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
 
