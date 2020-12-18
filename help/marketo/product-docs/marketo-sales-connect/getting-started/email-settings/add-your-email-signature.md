@@ -19,15 +19,15 @@ Wij willen dat de e-mail van Sales Connect u een naadloze ervaring geeft wanneer
 
    ![](assets/add-your-email-signature-1.png)
 
-1. Selecteer onder Mijn account de optie **E-mailinstellingen**.
+1. Selecteer **E-mailinstellingen** onder Mijn account.
 
    ![](assets/add-your-email-signature-2.png)
 
-1. Klik op **Adres en handtekening** en selecteer de e-mailidentiteit waarvoor u een handtekening wilt maken.
+1. Klik **Adres en handtekening** en selecteer de e-mailidentiteit waarvoor u een handtekening wilt maken.
 
    ![](assets/add-your-email-signature-3.png)
 
-1. Klik op **Bewerken** op de handtekeningkaart.
+1. Klik in de handtekeningkaart op **Bewerken**.
 
    ![](assets/add-your-email-signature-4.png)
 
