@@ -19,7 +19,7 @@ De eerste stap voor alle beschikbare bulkacties is twee of meer contacten te sel
 
 ![](assets/one-3.png)
 
-## Personen aan groep toevoegen {#add-people-to-group}
+## Personen toevoegen aan groep {#add-people-to-group}
 
 Meerdere personen tegelijk aan een groep toevoegen.
 
@@ -37,19 +37,19 @@ Wij wijzen automatisch een bron aan elk contact toe dat het gegevensbestand inga
 
 ## Toestemming {#authorization}
 
-In overeenstemming met [GDPR](http://eugdpr.org/), gebruik vergunning om erop te wijzen hoe u toestemming om met deze contacten in dienst te nemen ontving.
+In overeenstemming met [GDPR](http://eugdpr.org/), gebruik vergunning om erop te wijzen hoe u toestemming om met deze contacten in werking te stellen ontving.
 
 ![](assets/authorization.png)
 
-## Abonnement opzeggen {#unsubscribe}
+## Abonnement {#unsubscribe} opzeggen
 
 Voer een bulksgewijs abonnement op contacten uit die niet meer correspondentie van u wensen te ontvangen.
 
 ![](assets/unsubscribe.png)
 
-## Verwijderen {#delete}
+## {#delete} verwijderen
 
-Contactpersonen bulksgewijs verwijderen. U vindt [hier](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts)alle stappen.
+Contactpersonen bulksgewijs verwijderen. U vindt alle stappen [hier](http://docs.marketo.com/display/DOCS/How+to+Add+or+Delete+Contacts#HowtoAddorDeleteContacts-DeletingContacts).
 
 ![](assets/delete.png)
 
