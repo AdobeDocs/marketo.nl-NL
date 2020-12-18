@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-mailadres voor groep verzenden {#how-to-send-a-group-email}
+# Hoe te om een Groep E-mail {#how-to-send-a-group-email} te verzenden
 
 Als u een groepse-mail verzendt met Sales Connect, kunt u met hetzelfde bericht contact opnemen met meerdere ontvangers tegelijk. Zo voorkomt u de vervelende taak om dezelfde informatie steeds weer over en weer in meerdere e-mails te kopiëren en te plakken.
 
@@ -19,7 +19,7 @@ Als u een groepse-mail verzendt met Sales Connect, kunt u met hetzelfde bericht 
 >
 >Groepeer e-mailontvangers ontvangen elk hun eigen gepersonaliseerde bericht. Wij leveren ook individuele volgstatistieken voor elke ontvanger.
 
-Klik [hier](http://docs.marketo.com/x/JITS) voor een geleidelijke gids bij het creëren van een nieuwe contactgroep (die wordt vereist om veelvoudige contacten een groep e-mail te verzenden).
+Klik [hier](http://docs.marketo.com/x/JITS) voor een geleidelijke gids bij het creëren van een nieuwe contactgroep (vereist om veelvoudige contacten een groep e-mail te verzenden).
 
 ## Een e-mail naar een groep sturen {#tout-an-email-to-a-group}
 
@@ -30,17 +30,17 @@ Klik [hier](http://docs.marketo.com/x/JITS) voor een geleidelijke gids bij het c
    >Als u de insteekmodule Gmail of Outlook gebruikt, moet u naar de webtoepassing navigeren om een groep-e-mail te verzenden.
 
 1. Selecteer de groep die u per e-mail wilt verzenden.
-1. Klik op de knop **E-mailgroep** .
+1. Klik op de knop **E-mailgroep**.
 1. Kies een e-mailsjabloon.
 
    >[!TIP]
    >
-   >Elk lid van de groep zal de zelfde e-mail ontvangen, zodat zeker ben de malplaatje [dynamische gebieden](http://docs.marketo.com/x/QITS) omvat om het bericht van elke ontvanger te personaliseren.
+   >Elk lid van de groep zal de zelfde e-mail ontvangen, zodat zeker is het malplaatje [dynamische gebieden](http://docs.marketo.com/x/QITS) omvat om het bericht van elke ontvanger te personaliseren.
 
-1. Klik op **Voorvertoning** om het e-mailbericht te bekijken voordat u het verzendt.
-1. Klik op **Verzenden** als het e-mailbericht gereed is.
+1. Klik **Voorvertoning** om het e-mailbericht te bekijken voordat u het verzendt.
+1. Als de e-mail gereed is, klikt u op **Verzenden**.
 
-Open nu uw Sales Connect [Live-feed](http://toutapp.com/next#live) en kijk hoe de ontvangers uw e-mail beginnen te ontvangen.
+Open nu uw Sales Connect [Live Feed](http://toutapp.com/next#live) en kijk hoe uw ontvangers uw e-mail beginnen te gebruiken.
 
 >[!NOTE]
 >
