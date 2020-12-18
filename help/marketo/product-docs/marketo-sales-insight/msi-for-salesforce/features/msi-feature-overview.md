@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Overzicht van MSI-functies {#msi-feature-overview}
+# Overzicht MSI-functies {#msi-feature-overview}
 
 MSI heeft de volgende eigenschappen beschikbaar in Salesforce Lightning en Classic.
 
-## Visualforce-deelvenster {#visualforce-panel}
+## Deelvenster Visualforce {#visualforce-panel}
 
 Het deelvenster MSI Visualforce bevat de volgende functies:
 
@@ -35,7 +35,7 @@ Het deelvenster MSI Visualforce bevat de volgende functies:
 
 * Sterren en lamellen
 
-## Layout lead {#lead-layout}
+## Leidinglayout {#lead-layout}
 
 Pagina&#39;s visualiseren:
 
@@ -60,7 +60,7 @@ Velden:
 * Weergeven in Marketo - Klik op dit veld om een niet-bewerkbare weergave van de lead te openen in Marketo. Omvat: Informatie over leads, bedrijfsinfo, SFDC-leidende informatie, aangepaste SFDC-velden, activiteitenlog
 * MSI-contact-id - Voeg een Salesforce-contactpersoon toe aan dit veld en neem het deelvenster &quot;Lood Contact Bridge&quot; op in de hoofdlay-out om het MSI-deelvenster van de contactpersoon weer te geven
 
-## Contactlay-out {#contact-layout}
+## Contactlayout {#contact-layout}
 
 Pagina&#39;s visualiseren:
 
@@ -102,7 +102,7 @@ De volgende functies zijn **niet beschikbaar** op de pagina Account Layout:
 * Handelingen: Toevoegen aan Marketo-campagne, Marketo-e-mail verzenden, Toevoegen/verwijderen uit controlelijst
 * Sterren en lamellen
 
-## Opportunity-indeling {#opportunity-layout}
+## Opportunity-layout {#opportunity-layout}
 
 Pagina&#39;s visualiseren:
 
@@ -115,12 +115,12 @@ Velden:
 * Verkoopinzicht - Opent contact met volledige lijstpagina
 * Marketo Opportunity Analysis - Opent Opportunity Influence Analyzer in Marketo
 
-De volgende functies zijn **niet beschikbaar** op de pagina Opportunity Layout:
+De volgende functies zijn **niet beschikbaar** in de pagina van de Lay-out van de Mogelijkheid:
 
 * Handelingen: Toevoegen aan Marketo-campagne, Marketo-e-mail verzenden, Toevoegen/verwijderen uit controlelijst
 * Sterren en lamellen
 
-## De mening van de Lood en van de Lijst van het Contact (Bulk Acties) {#lead-and-contact-list-view-bulk-actions}
+## Lead en de mening van de Lijst van het Contact (Bulkacties) {#lead-and-contact-list-view-bulk-actions}
 
 Salesforce Lightning: Voeg toe aan Controlelijst, voeg aan de Campagne van het Marketo toe en verzend Marketo de knopen van de bulkactie van het E-mail in Lood en de lijstmening van het Contact.
 
@@ -162,7 +162,7 @@ Salesforce Classic: Voeg toe aan Controlelijst, voeg aan Marketo Campaign toe, e
    * Optie Abonneren om e-mailmelding voor dit type gebeurtenis te ontvangen
    * Pictogram met hoge prioriteit waarmee deze persoon wordt getoond is een Best Bet
 
-## Tab Configuratie markketo-verkoopoverzicht {#marketo-sales-insight-configuration-tab}
+## Tab {#marketo-sales-insight-configuration-tab} voor configuratie van markketo-verkoopinzicht
 
 * Operationele instellingen: Bevat de Soap- en Rest API-referenties die nodig zijn voor het instellen van MSI in SFDC
 * MSI-configuratie: Omvat configuratie van Marketo tabel en MSI visualforce paneel
@@ -172,11 +172,11 @@ Salesforce Classic: Voeg toe aan Controlelijst, voeg aan Marketo Campaign toe, e
 >
 >[Het lusje van de Configuratie van het Inzicht van de Verkoop van de Marketo in Salesforce](http://docs.marketo.com/x/UoCMAg)
 
-## Rapporten over prestaties van verkoopinzicht {#sales-insight-performance-reports}
+## Rapporten van de Prestaties van het Inzicht van de verkoop {#sales-insight-performance-reports}
 
 Geef de prestaties weer van e-mailberichten die via Salesforce, Microsoft Dynamics of een Gmail- of Outlook-plug-in worden verzonden
 
-## MSI voor mobiele apparaten {#msi-for-mobile}
+## MSI voor mobiel {#msi-for-mobile}
 
 MSI-functies worden ondersteund in de mobiele toepassing van Salesforce
 
