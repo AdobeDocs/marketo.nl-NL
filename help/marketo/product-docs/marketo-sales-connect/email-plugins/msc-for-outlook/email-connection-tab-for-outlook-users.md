@@ -19,7 +19,7 @@ Leer hoe u uw Sales Connect-account kunt verbinden met Outlook.
 >
 >Elke gebruiker moet verbinding maken met Outlook vanuit zijn Sales Connect-account.
 
-## Verbinding maken met Outlook Online {#connecting-to-outlook-online}
+## Online verbinding maken met Outlook {#connecting-to-outlook-online}
 
 Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het de leveringskanaal van Vooruitzichten, de capaciteit zult ontvangen om e-mails in Vooruitzichten te plannen, en naleving te verzenden.
 
@@ -27,23 +27,23 @@ Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het
 
    ![](assets/one.png)
 
-1. Selecteer onder Mijn account de optie **E-mailinstellingen**.
+1. Selecteer **E-mailinstellingen** onder Mijn account.
 
    ![](assets/two.png)
 
-1. Klik op het tabblad **E-mailverbinding** .
+1. Klik op het tabblad **E-mailverbinding**.
 
    ![](assets/three.png)
 
-1. Klik op **Aan de slag**.
+1. Klik **Aan de slag**.
 
    ![](assets/four.png)
 
-1. Selecteer **ik Outlook om e-mailberichten** te verzenden en klik op **Volgende**.
+1. Selecteer **Ik gebruik Outlook om e-mails te verzenden** en klik **Volgende**.
 
    ![](assets/five-a.png)
 
-1. Selecteer de versie van Vooruitzichten u gebruikt en klik **daarna**. In dit voorbeeld kiezen we Outlook Online.
+1. Selecteer de versie van Vooruitzichten u gebruikt en klik **Next**. In dit voorbeeld kiezen we Outlook Online.
 
    ![](assets/six-a.png)
 
@@ -51,19 +51,19 @@ Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het
    |---|---|
    | **Exchange op locatie** | Inclusief Exchange 2013 en 2016 |
 
-1. Klik op **OK**.
+1. Klik **OK**.
 
    ![](assets/seven-a.png)
 
-1. Als u niet aan Vooruitzichten het programma wordt geopend, ga uw login info in en klik **daarna**. Kies in dat geval de account waarmee u verbinding wilt maken en klik op **Volgende**. In dit voorbeeld zijn we al aangemeld.
+1. Als u niet aan Vooruitzichten het programma wordt geopend, ga uw login info in en klik **Next**. Kies in dat geval de account waarmee u verbinding wilt maken en klik op **Volgende**. In dit voorbeeld zijn we al aangemeld.
 
    ![](assets/eight-a.png)
 
-1. Klik op **Accepteren**.
+1. Klik **Accepteren**.
 
    ![](assets/nine-a.png)
 
-   U kunt deze verbinding gebruiken om e-mails bij te houden en ook [als een leveringskanaal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
+   U kunt deze verbinding gebruiken om e-mails bij te houden en ook [als leveringskanaal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
 
    >[!NOTE]
    >
@@ -77,23 +77,23 @@ Het verbinden met Uitwisseling op locatie betekent u antwoord het volgen, toegan
 
    ![](assets/one.png)
 
-1. Selecteer onder Mijn account de optie **E-mailinstellingen**.
+1. Selecteer **E-mailinstellingen** onder Mijn account.
 
    ![](assets/two.png)
 
-1. Klik op het tabblad **E-mailverbinding** .
+1. Klik op het tabblad **E-mailverbinding**.
 
    ![](assets/three.png)
 
-1. Klik op **Aan de slag**.
+1. Klik **Aan de slag**.
 
    ![](assets/four.png)
 
-1. Selecteer **ik Outlook om e-mailberichten** te verzenden en klik op **Volgende**.
+1. Selecteer **Ik gebruik Outlook om e-mails te verzenden** en klik **Volgende**.
 
    ![](assets/five-a.png)
 
-1. Selecteer de versie van Vooruitzichten u gebruikt en klik **daarna**. In dit voorbeeld kiezen wij Uitwisseling op-gebouw.
+1. Selecteer de versie van Vooruitzichten u gebruikt en klik **Next**. In dit voorbeeld kiezen wij Uitwisseling op-gebouw.
 
    ![](assets/six-b.png)
 
@@ -101,7 +101,7 @@ Het verbinden met Uitwisseling op locatie betekent u antwoord het volgen, toegan
    |---|---|
    | **Exchange op locatie** | Inclusief Exchange 2013 en 2016 |
 
-1. Voer uw referenties in en klik op **Verbinden**.
+1. Voer uw referenties in en klik op **Connect**.
 
    ![](assets/seven-b.png)
 
