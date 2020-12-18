@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-mailinzichten, snelle grafieken {#email-insights-quick-charts}
+# Snelle grafieken voor e-mailinzichten {#email-insights-quick-charts}
 
 Snelle grafieken zijn miniaturen die u kunt aanpassen en opslaan, zodat u snel kunt zien welke diagrammen u het meest gebruikt.
 
@@ -27,7 +27,7 @@ In dit voorbeeld kiezen we voor de eerste drie weken van februari 2016, in de st
 
    ![](assets/two-2.png)
 
-1. Klik op **Toepassen** wanneer het datumbereik is geselecteerd.
+1. Wanneer uw datumbereik is geselecteerd, klikt u op **Toepassen**.
 
    ![](assets/three-2.png)
 
@@ -43,7 +43,7 @@ In dit voorbeeld kiezen we voor de eerste drie weken van februari 2016, in de st
 
    ![](assets/six.png)
 
-1. Geef een naam op voor het Snelle diagram en klik op **Opslaan**.
+1. Geef een naam op voor de Snelle grafiek en klik op **Opslaan**.
 
    ![](assets/seven.png)
 
@@ -61,19 +61,19 @@ In dit voorbeeld kiezen we voor de eerste drie weken van februari 2016, in de st
    >
    >U verplaatst een snel diagram door erop te klikken en het naar de gewenste positie te slepen.
 
-## Een snelle grafiek verwijderen {#delete-a-quick-chart}
+## Een snel diagram verwijderen {#delete-a-quick-chart}
 
 Wilt u een van uw snelle grafieken verwijderen? Het is gemakkelijk!
 
-1. Klik op het pictogram **Snelle grafieken** .
+1. Klik op het pictogram **Snelle grafieken**.
 
    ![](assets/nine.png)
 
-1. Houd de cursor boven het gewenste diagram, maar klik er niet op. Bij het aanwijzen wordt een X weergegeven. Klik op de **X**.
+1. Houd de cursor boven het gewenste diagram, maar klik er niet op. Bij het aanwijzen wordt een X weergegeven. Klik **X**.
 
    ![](assets/ten.png)
 
-1. Klik op **OK**.
+1. Klik **Ok**.
 
    ![](assets/eleven.png)
 
