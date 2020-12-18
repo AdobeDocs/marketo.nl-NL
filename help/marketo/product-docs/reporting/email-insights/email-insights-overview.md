@@ -23,25 +23,25 @@ Als u e-mailinzichten wilt openen, klikt u gewoon op de tegel in Mijn markeertek
 
 ## Analyse {#analytics}
 
-Gebruik [Analytics](email-insights-analytics-overview.md) om de geaggregeerde tijdreeksgegevens voor e-maillevering en betrokkenheidsmetriek te verkennen.
+Gebruik [Analytics](email-insights-analytics-overview.md) om de geaggregeerde gegevens uit de tijdreeks voor e-maillevering en betrokkenheidsmetriek te verkennen.
 
 ![](assets/emailanalytics.jpg)
 
 **Filters **
 
-Gebruikt geavanceerde [filters](filtering-in-email-insights.md) om resultaten door Publiek, Inhoud, of Platform te onderbreken. Dezelfde filters zijn van toepassing op zowel Analytics als Send.
+Gebruikt geavanceerd [filters](filtering-in-email-insights.md) om resultaten door Publiek, Inhoud, of Platform te onderbreken. Dezelfde filters zijn van toepassing op zowel Analytics als Send.
 
 ![](assets/filter.png)
 
 **Snelle grafieken**
 
-[Snelle grafieken](email-insights-quick-charts.md) zijn miniaturen die u maakt en opslaat en bieden een snelle weergave van grafieken die voor u van belang zijn.
+[Snelle ](email-insights-quick-charts.md) grafieken zijn miniaturen die u maakt en opslaat en bieden een snelle weergave van grafieken die voor u van belang zijn.
 
 ![](assets/three.png)
 
-## Verzenden {#sends}
+## Verzendt {#sends}
 
-Controleer op de pagina [Verzenden](email-insights-sends-overview.md) de kenmerken van recente e-mailcommunicatie.
+Onderzoek in [Verzendt ](email-insights-sends-overview.md) pagina, de kenmerken van recente e-mailmededeling.
 
 ![](assets/two.png)
 
@@ -57,7 +57,7 @@ Klik op Metrische balken om de kleuren in getallen om te zetten.
 
 ## Aangepaste Dimension {#custom-dimensions}
 
-Alle standaardafmetingen voor markeren zijn inbegrepen, maar u kunt maximaal 10 aangepaste afmetingen toevoegen. [Aangepaste afmetingen](custom-dimensions-for-email-insights.md) bestaan uit segmentaties en programmatags.
+Alle standaardafmetingen voor markeren zijn inbegrepen, maar u kunt maximaal 10 aangepaste afmetingen toevoegen. [Aangepaste ](custom-dimensions-for-email-insights.md) afmetingen bestaan uit segmentaties en programmatags.
 
 >[!MORELIKETHIS]
 >
