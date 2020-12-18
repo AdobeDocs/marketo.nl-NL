@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De modellen van de opbrengstcyclus nemen marketing op het volgende niveau. Zij modelleren alle stadia van uw volledige opbrengsttrechter-van wanneer u eerst met een lood in wisselwerking staat al manier tot de lood een gewonnen klant is.
 
-## Mental Model (hoe hierover na te denken) {#mental-model-how-to-think-about-this-thing}
+## Mental Model (hoe te om over dit ding te denken) {#mental-model-how-to-think-about-this-thing}
 
 De Modeler is als een serie emmers met water erin. Er zitten gaten in de bodem van de emmers.
 
@@ -37,9 +37,9 @@ Door gebrek, begint een nieuw model u met zes opbrengststadia. Dit model is op z
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Merk op dat ze allemaal op een groene achtergrond staan. Dit wordt het **Succespad** genoemd. Begrijp meer over de succesweg [hier](understanding-revenue-model-success-path.md).
+Merk op dat ze allemaal op een groene achtergrond staan. Dit wordt genoemd **Succesweg**. Meer informatie over het succespad [hier](understanding-revenue-model-success-path.md).
 
-**De fasen** zijn de mijlpalen op een vooruitgang in de richting van hun doelstellingen.
+**** Stages zijn de mijlpalen op weg naar de verwezenlijking van hun doelstellingen.
 
 **Overgangen **worden getoond als pijlen en zij controleren hoe de wegen zich tussen stadia bewegen.
 
@@ -53,13 +53,13 @@ Elk bedrijf is anders. U kunt dingen aan het model toevoegen door van bovenrecht
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
-## Voorraadfase {#inventory-stage}
+## Voorraadwerkgebied {#inventory-stage}
 
 Dit ziet eruit als een doos en is de meest elementaire van stadia. Analytics zal de instroom, de uitstroom en de balans van dit stadium volgen.
 
 ## SLA-werkgebied {#sla-stage}
 
-Dit is kort voor de **fase van de Overeenkomst** van het Niveau van de Dienst. Het is de bedoeling dat u in bepaalde fasen een tijdslimiet wilt handhaven.
+Dit is kort voor **Service Level Agreement**-werkgebied. Het is de bedoeling dat u in bepaalde fasen een tijdslimiet wilt handhaven.
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Een Gate-werkgebied is bedoeld voor situaties waarin u leads wilt filteren in ee
 >
 >**Voorbeeld**
 >
->Een poort kan worden gebruikt voor leads die onderdeel zijn van een **benoemde accountlijst** om dit te scheiden van het normale proces.
+>Een poort kan worden gebruikt voor leads die onderdeel zijn van een **accountlijst** om dit te scheiden van het normale proces.
 
 ## Overgangen {#transitions}
 
