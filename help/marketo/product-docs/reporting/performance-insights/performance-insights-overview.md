@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Overzicht van prestatiegegevens {#performance-insights-overview}
+# Overzicht van prestatie-inzichten {#performance-insights-overview}
 
 De Inzichten van de Prestaties van de Marketo helpen u uw kanaalmengeling voor maximumdoeltreffendheid optimaliseren, evenals langetermijntendensen aan vlek verenigbare het winnen strategieën ontdekken.
 
@@ -29,7 +29,7 @@ Klik op het pictogram op het beginscherm van Analytics voor toegang tot prestati
 
 ## Bijdrage {#contribution}
 
-Evalueer de [bijdrage van Marketing aan](http://docs.marketo.com/x/QAvG)inkomsten als functie van de verwerving van klanten, invloed, omzetting, zelfs geïnstalleerde basisgroei.
+Evalueer de [bijdrage van de Marketing aan opbrengst](http://docs.marketo.com/x/QAvG)als functie van klantenverwerving, invloed, omzetting, zelfs geïnstalleerde basisgroei.
 
 ![](assets/two.png)
 
@@ -39,19 +39,19 @@ Standaard weerspiegelen de weergegeven gegevens de prestaties van Betrokkenheid.
 
 ## Trend {#trend}
 
-Ontdek [langetermijntrends](http://docs.marketo.com/x/QgvG) om consistente winnende strategieën te ondersteunen.
+Ontdek [langetermijntrends](http://docs.marketo.com/x/QgvG) om consistente winnende strategieën te ontdekken.
 
 ![](assets/4.png)
 
 ## Instellingen {#settings}
 
-Klik op het pictogram [Instellingen](http://docs.marketo.com/x/pIDS) in het dashboard Opbrengst en Pipet om aanvullende parameters in te stellen.
+Klik in de dashboards van de Opbrengst en van de Pijl, [Settings](http://docs.marketo.com/x/pIDS) pictogram om extra parameters te plaatsen.
 
 ![](assets/5.png)
 
 ## Gegevens exporteren {#export-data}
 
-U kunt de gegevens en grafieken in of PowerPoint of Excel uitvoeren. U kunt deze ook opslaan als een [snelle grafiek](https://docs.marketo.com/x/iRLG).
+U kunt de gegevens en grafieken in of PowerPoint of Excel uitvoeren. U kunt hen als [Snelle Grafiek ](https://docs.marketo.com/x/iRLG) ook bewaren.
 
 ![](assets/6.png)
 
