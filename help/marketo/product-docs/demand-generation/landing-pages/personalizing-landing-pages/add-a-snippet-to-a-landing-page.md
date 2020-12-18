@@ -23,11 +23,11 @@ Fragmenten zijn kleine stukjes HTML die regels kunnen volgen en gepersonaliseerd
 
 
 
-1. Selecteer de openingspagina en klik op Concept **** bewerken.
+1. Selecteer de bestemmingspagina en klik **Concept** bewerken.
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. Sleep in de editor voor de bestemmingspagina over het **fragmentelement** .
+1. Sleep in de bestemmingspagina-editor over het element **Fragment**.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
@@ -41,6 +41,6 @@ Fragmenten zijn kleine stukjes HTML die regels kunnen volgen en gepersonaliseerd
 
    >[!NOTE]
    >
-   >Zie [dit artikel](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template)als u een fragment wilt toevoegen aan een pagina met instructies.
+   >Zie [dit artikel](https://docs.marketo.com/display/public/DOCS/Create+a+Guided+Landing+Page+Template) als u een fragment wilt toevoegen aan een pagina met instructies.
 
 Geweldig werk! Nu weet u hoe u fragmenten kunt toevoegen aan uw bestemmingspagina&#39;s.
