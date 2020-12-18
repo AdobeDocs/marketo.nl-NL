@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een e-mail plannen {#scheduling-an-email}
+# Een e-mail {#scheduling-an-email} plannen
 
 Volg deze eenvoudige stappen om een e-mail te plannen.
 
@@ -23,7 +23,7 @@ Volg deze eenvoudige stappen om een e-mail te plannen.
 
    ![](assets/one-1.png)
 
-1. Als u klaar bent met het samenstellen van uw e-mail, klikt u rechtsonder op **Planning** .
+1. Wanneer u klaar bent met het samenstellen van uw e-mail, klikt u op **Schedule** rechtsonder
 
    ![](assets/two-1.png)
 
@@ -31,11 +31,11 @@ Volg deze eenvoudige stappen om een e-mail te plannen.
 
    ![](assets/three-1.png)
 
-1. Voer de tijd in waarop het e-mailbericht moet verschijnen. Selecteer de gewenste tijdzone en klik op **Opslaan**. Sluit de planner wanneer gedaan.
+1. Voer de tijd in waarop het e-mailbericht moet verschijnen. Selecteer de gewenste tijdzone en klik **Opslaan**. Sluit de planner wanneer gedaan.
 
    ![](assets/four-1.png)
 
-1. Nu de geplande datum/tijd is geselecteerd, klikt u op **Verzenden** om het e-mailbericht te plannen.
+1. Nu uw geplande datum/tijd wordt geselecteerd, klik **verzend** om e-mail te plannen.
 
    ![](assets/five-1.png)
 
