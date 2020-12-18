@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Rapportgrootte configureren {#configure-report-size}
+# Rapportgrootte {#configure-report-size} configureren
 
 Standaard zijn Marketo-rapporten beperkt tot maximaal 5000 rijen, maar u kunt die limiet wijzigen.
 
@@ -19,11 +19,11 @@ Standaard zijn Marketo-rapporten beperkt tot maximaal 5000 rijen, maar u kunt di
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Selecteer uw rapport van de navigatieboom en klik de **Opstelling** tabel.
+1. Selecteer uw rapport van de navigatieboom en klik **Opstelling** tabel.
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-   Dubbelklik op **Rijen exporteren beschikbaar**.
+   Dubbelklik **Beschikbare rijen exporteren**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -35,7 +35,7 @@ Standaard zijn Marketo-rapporten beperkt tot maximaal 5000 rijen, maar u kunt di
    >
    >Het veranderen van de grens verandert de rapportgrootte zelf, niet alleen het uitgevoerde dossier van Excel, zodat als uw rapport te lang duurt om te produceren, verminder de grens!
 
-1. Klik op **Opslaan** om de nieuwe limiet te bevestigen.
+1. Klik **Opslaan** om de nieuwe limiet te bevestigen.
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 
@@ -46,7 +46,7 @@ Standaard zijn Marketo-rapporten beperkt tot maximaal 5000 rijen, maar u kunt di
    >**Verwante artikelen**
    >
    >
-   >Nu kunt u uw rapport [met de nieuwe grens](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) uitvoeren.
+   >Nu kunt u [uw rapport](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) met de nieuwe grens uitvoeren.
 
-   Zie meer manieren om uw rapporten in de [Basis te vormen die diep duik meldt](http://docs.marketo.com/display/docs/basic+reporting) .
+   Zie meer manieren om uw rapporten in [Basis het Melden](http://docs.marketo.com/display/docs/basic+reporting) te vormen diepe duik.
 
