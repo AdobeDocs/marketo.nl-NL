@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Lokale aanwezigheid op verkooptelefoon {#sales-phone-local-presence}
 
-Wanneer u wilt kijken als u van het zelfde gebiedscode van iemand roept, controleer eenvoudig de **Lokale doos van de Aanwezigheid** alvorens de vraag te maken.
+Wanneer u als u wilt kijken zoals u van zelfde gebiedscode van iemand roept, controleer eenvoudig de **Lokale Aanwezigheid** doos alvorens de vraag te maken.
 
 ## Veelgestelde vragen over lokale aanwezigheid {#local-presence-faq}
 
