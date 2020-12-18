@@ -20,6 +20,6 @@ Voer de volgende eenvoudige stappen uit om een sjabloon te verwijderen.
 >Als u een sjabloon verwijdert, worden ook ALLE bijgehouden en bijbehorende analyses verwijderd.
 
 1. Selecteer de sjabloon die u wilt verwijderen.
-1. Klik op de vervolgkeuzelijst in het menu rechtsboven en klik vervolgens op **Verwijderen**.
-1. Klik op **Verwijderen** om te bevestigen.
+1. Klik op de vervolgkeuzelijst in het menu rechtsboven en klik vervolgens op **Delete**.
+1. Klik **Verwijderen** om te bevestigen.
 
