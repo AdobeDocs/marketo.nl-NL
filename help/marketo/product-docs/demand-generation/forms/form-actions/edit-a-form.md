@@ -19,7 +19,7 @@ Als u wijzigingen wilt aanbrengen in een bestaand formulier, gaat u als volgt te
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/editform.png)
 
@@ -27,5 +27,5 @@ Als u wijzigingen wilt aanbrengen in een bestaand formulier, gaat u als volgt te
 >
 >**Diep duiken**
 >
->Meer informatie over het bewerken en aanpassen van [formulieren](http://docs.marketo.com/display/docs/forms) vindt u hier.
+>Meer informatie over het bewerken en aanpassen van [formulieren](http://docs.marketo.com/display/docs/forms) hier.
 
