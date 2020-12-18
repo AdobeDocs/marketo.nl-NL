@@ -17,15 +17,15 @@ Nadat een groep is gemaakt en contactpersonen zijn toegevoegd, kunt u twee optie
 
 ## Geselecteerde e-mail {#email-selected}
 
-Als e-mail is geselecteerd, kunt u `select specific recipients in the group` contact opnemen met. Deze methode is ook `allows you to edit each email before they get sent out`van toepassing.
+Als e-mail is geselecteerd, kunt u `select specific recipients in the group` waarmee u contact wilt opnemen. Deze methode is ook `allows you to edit each email before they get sent out`.
 
 >[!NOTE]
 >
 >Deze methode wordt aanbevolen als u ongeveer 15 ontvangers wilt e-mailen en elke e-mail wilt bewerken.
 
-U kunt `add specific content` relevant zijn voor elke ontvanger voordat de e-mail voor de groep wordt verzonden.
+U kunt `add specific content` relevant voor elke ontvanger alvorens de groep e-mail wordt verzonden.
 
-## Gehele groep e-mailen {#email-entire-group}
+## Volledige groep {#email-entire-group} e-mailen
 
 U kunt ook een e-mail sturen naar iedereen in deze groep en deze persoonlijke gegevens invullen voor elke ontvanger.
 
@@ -33,4 +33,4 @@ U kunt ook een e-mail sturen naar iedereen in deze groep en deze persoonlijke ge
 >
 >Deze methode wordt geadviseerd wanneer u grotere groep leidt verzendt.
 
-Selecteer **E-mailgroep** in de groep. Dat zal het `pull in everyone in the group for you to email`doen.  Hier kunt u een toegewezen sjabloon gebruiken en voorvertoning selecteren om een glimp te krijgen van hoe de e-mail eruit zal zien voordat deze wordt verzonden. Als alles er goed uitziet, klikt u gewoon op verzenden!
+Selecteer **Groep e-mailen** in de groep. Het zal `pull in everyone in the group for you to email`.  Hier kunt u een toegewezen sjabloon gebruiken en voorvertoning selecteren om een glimp te krijgen van hoe de e-mail eruit zal zien voordat deze wordt verzonden. Als alles er goed uitziet, klikt u gewoon op verzenden!
