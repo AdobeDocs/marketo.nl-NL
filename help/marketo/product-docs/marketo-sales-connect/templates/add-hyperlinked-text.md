@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Hyperlinktekst toevoegen {#add-hyperlinked-text}
+# Hyperlinktekst {#add-hyperlinked-text} toevoegen
 
 1. Typ de tekst die u aan hyperlinks wilt koppelen (klik hier dus).
 1. Selecteer de tekst.
 1. Klik op de koppelingsknop in de editor.
 1. Voer de URL in waarnaar u een koppeling wilt maken (bijvoorbeeld http://www.mywebsite.com).
-1. Klik op **OK**.
+1. Klik **OK**.
 
