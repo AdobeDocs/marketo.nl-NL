@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Dynamische inhoud gebruiken in een openingspagina met vrije vorm {#use-dynamic-content-in-a-free-form-landing-page}
+# Dynamische inhoud gebruiken in een vrije landingspagina {#use-dynamic-content-in-a-free-form-landing-page}
 
 Wanneer u dynamische inhoud gebruikt in bestemmingspagina&#39;s, krijgt uw publiek gerichte informatie.
 
@@ -25,9 +25,9 @@ Wanneer u dynamische inhoud gebruikt in bestemmingspagina&#39;s, krijgt uw publi
 
 
 
-## Segmentering toevoegen {#add-segmentation}
+## Segmentatie {#add-segmentation} toevoegen
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -53,17 +53,17 @@ Wanneer u dynamische inhoud gebruikt in bestemmingspagina&#39;s, krijgt uw publi
 
 ## Element dynamisch maken {#make-element-dynamic}
 
-1. Sleep de dynamische inhoudselementen van onder **Statisch** aan **Dynamisch.**
+1. Sleep de dynamische inhoudselementen van onder **Static** naar **Dynamisch.**
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. U kunt elementen ook **Statisch** of **Dynamisch** maken van de **Montages van het element.**
+1. U kunt ook elementen **Statisch** of **Dynamisch** maken vanuit het element **Instellingen.**
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
 ## Dynamische inhoud toepassen {#apply-dynamic-content}
 
-1. Selecteer een element onder een segment, klik op het instellingenpictogram en klik op **Bewerken**. Herhaal dit voor elk segment.
+1. Selecteer een element onder een segment, klik het montagespictogram, dan klik **uitgeven**. Herhaal dit voor elk segment.
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 
