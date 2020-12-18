@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Handelingen Marketo en Campagne en Controlelijst verzenden in Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# Handelingen Marketo verzenden via e-mail, campagne en controlelijst in Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Ga naar het gebied Details lead in Salesforce1 en klik op het tabblad **Verwante** .
+1. Ga naar het gebied van het Detail van de Lood in Salesforce1 en klik **Verwante** tabel.
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Welke slimme campagnes verschijnen? De triggers met &quot;Campagne is aangevraagd&quot;. Leer hoe u een [getriggerde campagne instelt met &quot;Campagne is aangevraagd](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Welke slimme campagnes verschijnen? De triggers met &quot;Campagne is aangevraagd&quot;. Leer hoe u een [getriggerde campagne instelt met &quot;Campagne is Requested](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Koel, nu kunnen je verkopers actief deelnemen aan de marketingactiviteiten.
 
