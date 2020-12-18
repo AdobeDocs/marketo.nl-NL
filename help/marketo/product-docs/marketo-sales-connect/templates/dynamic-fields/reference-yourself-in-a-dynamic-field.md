@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Verwijzing zelf in een dynamisch veld {#reference-yourself-in-a-dynamic-field}
+# Verwijzen naar uzelf in een dynamisch veld {#reference-yourself-in-a-dynamic-field}
 
 Dynamische velden zijn de vorm van samenvoeging.
 
