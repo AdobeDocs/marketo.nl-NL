@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Winners van overvloeiingen selecteren {#select-sweepstakes-winners}
+# Selecteer Zwevende winnaars {#select-sweepstakes-winners}
 
-Wanneer u een [sweepstakes](publish-a-sweepstakes.md)publiceert, moet u voor elke tekening winnaars selecteren. Wanneer je dat doet, wordt je [e-mail](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) automatisch naar hen verzonden.
+Wanneer u [een slagslag](publish-a-sweepstakes.md) publiceert, moet u winnaars voor elke tekening selecteren. Als u dat doet, wordt uw [e-mailadres voor vervulling](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) automatisch naar hen verzonden.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Wanneer u een [sweepstakes](publish-a-sweepstakes.md)publiceert, moet u voor elk
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ Wanneer u een [sweepstakes](publish-a-sweepstakes.md)publiceert, moet u voor elk
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Klik op **Kies** **winnaars**.
+1. Klik **Kies** **Winners**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
@@ -37,15 +37,15 @@ Wanneer u een [sweepstakes](publish-a-sweepstakes.md)publiceert, moet u voor elk
    >
    >Als u een lijst wilt weergeven met personen die zich hebben aangemeld voor uw transporten, klikt u op het tabblad **Deelnemers **.
 
-1. Kies het aantal winnaars, selecteer **ik klaar ben om te kiezen** en klik op **Volgende**.
+1. Kies het aantal winnaars, selecteer **Ik ben klaar om te kiezen**, en klik **Volgende**.
 
    ![](assets/image2014-9-25-17-3a49-3a2.png)
 
    >[!NOTE]
    >
-   >Als u voor een bepaalde tekening 0 winnaars kiest, wordt die informatie niet weergegeven op het tabblad **Winners** .
+   >Als u 0 winnaars voor een bepaalde tekening kiest, wordt die informatie niet getoond op **Winners** tabel.
 
-1. Klik op **Voltooien** om de [uitvoeringsmail](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) naar de vermelde winnaars te sturen.
+1. Klik **Finalize** om [fulfillment email](https://community.marketo.com/MarketoArticle?id=kA050000000L8A6) naar de vermelde winnaars te verzenden.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 
