@@ -15,11 +15,11 @@ ht-degree: 0%
 
 U kunt de volgorde van de kolommen in een rapport wijzigen.
 
-1. Ga naar het gebied **Marketing Activities** (of **Analytics**).
+1. Ga naar het **Marketingactiviteiten** (of **Analytics**) gebied.
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Selecteer uw rapport in de navigatiestructuur en klik op het tabblad **Rapport** .
+1. Selecteer uw rapport van de navigatieboom, en klik **Report** tabel.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -47,5 +47,5 @@ U kunt de volgorde van de kolommen in een rapport wijzigen.
    >**Diep duiken**
    >
    >
-   >Leer alle macht om met rapporten in [BasisRapportering](http://docs.marketo.com/display/docs/basic+reporting)te werken.
+   >Leer alle macht om met rapporten in [Basis Rapportering](http://docs.marketo.com/display/docs/basic+reporting) te werken.
 
