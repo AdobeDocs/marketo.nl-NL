@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Een webcampagne verwijderen {#delete-a-web-campaign}
+# Een webcampagne {#delete-a-web-campaign} verwijderen
 
-1. Ga naar **webcampagnes**.
+1. Ga naar **Webcampagnes**.
 
    ![](assets/web-campaigns-hand-3.jpg)
 
    >[!NOTE]
    >
-   >Met de [filterfunctie](filter-web-campaigns.md)kunt u gemakkelijker de gewenste webcampagne vinden.
+   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik [filtereigenschap](filter-web-campaigns.md).
 
 1. Voor de pagina van de Campagnes van het Web, klik **Schrapping **op de campagne u wilt schrappen.
 
