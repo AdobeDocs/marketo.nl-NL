@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Webcampagnes maken met sjablonen {#using-templates-to-create-web-campaigns}
+# Sjablonen gebruiken om webcampagnes te maken {#using-templates-to-create-web-campaigns}
 
-Versnel en vereenvoudig het maken van uw webcampagne met onze ingebouwde sjablonen of door uw eigen [sjablonen op te](save-your-campaign-as-a-template.md)slaan.
+Versnel en vereenvoudig het maken van uw webcampagne met onze ingebouwde sjablonen of door uw eigen [ op te slaan.](save-your-campaign-as-a-template.md)
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ Versnel en vereenvoudig het maken van uw webcampagne met onze ingebouwde sjablon
 
    >[!TIP]
    >
-   >Voor mobiele campagnes selecteert u een sjabloon in de sectie **Mobiele** apparaten.
+   >Voor mobiele campagnes selecteert u een sjabloon in de sectie **mobile**.
 
 1. Pas de sjabloon aan.
 
