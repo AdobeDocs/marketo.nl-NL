@@ -19,11 +19,11 @@ Als u afbeeldingen van een webpagina wilt toevoegen, kopieert u het webadres (UR
 
    ![](assets/designstudio-2.png)
 
-1. Klik op **Nieuwe** afbeeldingen en **Afbeeldingen ophalen van web**.
+1. Klik op **New** en **Grab Images from Web**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Selecteer de map **Afbeeldingen en bestanden** , plak het webadres (URL) in het tekstvak URL en klik op **Volgende.**
+1. Selecteer de map **Afbeeldingen en bestanden**, plak het webadres (URL) in het tekstvak URL en klik op **Volgende.**
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
