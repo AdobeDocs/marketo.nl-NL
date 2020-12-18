@@ -34,7 +34,7 @@ Een campagne In Zone en een campagne (Widget of Dialog) kunnen op dezelfde pagin
 
    >[!NOTE]
    >
-   >Met de [filterfunctie](filter-web-campaigns.md)kunt u gemakkelijker de gewenste webcampagne vinden.
+   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik [filtereigenschap](filter-web-campaigns.md).
 
 1. Stel in de pagina Campagne bewerken de prioriteitsscore in (9999 = Hoogste prioriteit 1 = Laagste prioriteit).
 
