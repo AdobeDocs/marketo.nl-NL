@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Abonnement opzeggen {#resubscribing-an-unsubscribe}
+# Abonnement op opzeggen {#resubscribing-an-unsubscribe} herschrijven
 
 Soms willen mensen ervoor kiezen om e-mails te ontvangen. Dit is hoe je afmeldingsberichten weer mailbaar kunt maken.
 
@@ -27,16 +27,16 @@ Soms willen mensen ervoor kiezen om e-mails te ontvangen. Dit is hoe je afmeldin
 >
 >Als u synchronisatie hebt afgebroken, moet u het afmelden van ToutApp verwijderen en de optie om te weigeren in Salesforce uitschakelen, zodat de persoonrecord niet opnieuw kan worden gesynchroniseerd.
 
-1. Ga naar de [webtoepassing](http://toutapp.com/login) en klik op **Personen**.
+1. Ga naar [webtoepassing](http://toutapp.com/login) en klik **Personen**.
 1. Selecteer de persoon om de weergave van de persoondetails te openen.
 
    ![](assets/two.png)
 
-1. Klik op de drie stippen in de weergave met persoonlijke details en selecteer Afmelden **verwijderen**.
+1. Klik op de drie stippen in de weergave met persoonlijke details en selecteer **Unsubscribe** verwijderen.
 
    ![](assets/three.png)
 
-1. Selecteer de reden waarom de persoon weer wordt aangemeld om e-mailberichten te ontvangen en klik vervolgens op Abonnement **verwijderen**.
+1. Selecteer de reden waarom de persoon weer wordt binnengeklikt om e-mails te ontvangen en klik vervolgens op **Abonnement verwijderen**.
 
    ![](assets/four.png)
 
