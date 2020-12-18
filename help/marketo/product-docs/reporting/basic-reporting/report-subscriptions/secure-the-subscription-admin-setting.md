@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Admin kan verkiezen om login te vereisen om een rapport te bekijken.
 
-1. Klik op **Beheerder** en vervolgens op **Aanmeldingsinstellingen**.
+1. Klik **Admin**, en dan **Login Montages**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Klik op **Bewerken** voor Rapportinstellingen van slimme lijsten.
+1. Klik **geef** voor de Slimme Montages van het Rapport van de Lijst uit.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Selecteer **Ja** als u een aanmeldingsnaam wilt opgeven om rapporten te downloaden.
+1. Selecteer **Yes** om een login te vereisen om rapporten te downloaden.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 
