@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Een formulierveld vereist maken {#make-a-form-field-required}
+# Formulierveld vereist maken {#make-a-form-field-required}
 
-Als u velden [toevoegt aan een formulier](add-a-field-to-a-form.md) , is het verstandig een aantal velden verplicht te stellen voor degene die ze invult. Zo gaat het.
+Als u [velden toevoegt aan een formulier](add-a-field-to-a-form.md), kunt u een aantal velden nodig maken voor degene die het formulier invult. Zo gaat het.
 
 1. Ga naar **Marketing** **Activiteiten**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/editform-2.png)
 
@@ -27,11 +27,11 @@ Als u velden [toevoegt aan een formulier](add-a-field-to-a-form.md) , is het ver
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. Echt waar! Klik op **Voltooien**.
+1. Echt waar! Klik **Voltooien**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
@@ -39,6 +39,6 @@ Als u velden [toevoegt aan een formulier](add-a-field-to-a-form.md) , is het ver
 >
 >**Herinnering**
 >
->Vergeet niet om het even welke [landingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren dit formulier leeft voor de veranderingen om live te gaan.
+>Vergeet niet om [landingspagina&#39;s goed te keuren](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dit formulier blijft bestaan voordat de wijzigingen live gaan.
 
-Moet u de velden die u aan het formulier [hebt toegevoegd, opnieuw](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)ordenen?
+Moet u de velden die u aan uw formulier hebt toegevoegd [opnieuw ordenen?](../../../../product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)
