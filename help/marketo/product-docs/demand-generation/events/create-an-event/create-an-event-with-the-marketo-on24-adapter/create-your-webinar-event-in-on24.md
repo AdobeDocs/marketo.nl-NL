@@ -27,7 +27,7 @@ Er zijn bepaalde montages in de verwezenlijking van uw webinar ON24 die door Mar
 * Start Live-gebeurtenis - De begindatum en -tijd. Dit wordt weergegeven in Marketo.
 * Live eindtijd - De einddatum en -tijd. Dit wordt weergegeven in Marketo.
 
-In de volgende stap moet u een gebeurtenis [maken in Marketo](create-an-event-in-marketo.md).
+Uw volgende stap is een gebeurtenis in Marketo [ te creëren.](create-an-event-in-marketo.md)
 
 >[!MORELIKETHIS]
 >
