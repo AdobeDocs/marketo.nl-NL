@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Bericht voor opzeggen van koppeling aanpassen {#customize-unsubscribe-link-message}
+# Koppelingsbericht {#customize-unsubscribe-link-message} voor opzeggen aanpassen
 
 Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan te passen, maar nu kunnen beheerders het unsubscribe verbindingsoverseinen voor hun volledig team plaatsen om verenigbaar overseinen te verzekeren.
 
@@ -25,7 +25,7 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
 
    ![](assets/one.png)
 
-1. Selecteer onder Mijn account de optie **Abonnementen** opzeggen.
+1. Selecteer **Abonnementen** onder Mijn account.
 
    ![](assets/two-1.png)
 
@@ -41,7 +41,7 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
    >
    >Het maakt niet uit wat de URL is die aan hyperlinks wordt gekoppeld. Wanneer het e-mailbericht wordt verzonden, wordt die hyperlink geconverteerd naar onze afmeldingskoppeling.
 
-1. Klik op **OK**.
+1. Klik **OK**.
 
    ![](assets/five.png)
 
@@ -51,7 +51,7 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
 
    ![](assets/six.png)
 
-1. Selecteer **Abonnementen** opheffen onder Beheer-instellingen.
+1. Selecteer **Abonnementen** onder Beheerinstellingen.
 
    ![](assets/eight.png)
 
@@ -59,7 +59,7 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
 
    ![](assets/seven.png)
 
-1. Selecteer **ik plaats het standaardoverseinen voor mijn team** om het overseinen te hebben op alle gebruikers van toepassing zijn.
+1. Selecteer **Ik plaats het standaardoverseinen voor mijn team** om het overseinen op alle gebruikers van toepassing te hebben.
 
    ![](assets/eleven.png)
 
