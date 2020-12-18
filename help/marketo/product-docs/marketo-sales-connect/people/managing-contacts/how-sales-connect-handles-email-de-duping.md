@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Hoe Verkoop Connect het uit-duwen van e-mail behandelt {#how-sales-connect-handles-email-de-duping}
+# Hoe Verkoop Connect het uit-duwen van e-mail {#how-sales-connect-handles-email-de-duping} behandelt
 
-Wanneer u een CSV [-bestand](http://docs.marketo.com/x/VADb) uploadt naar Sales Connect, voegen we alles samen zoals contactpersonen in de CSV voordat het importeren plaatsvindt.
+Wanneer u [een CSV](http://docs.marketo.com/x/VADb) dossier in Verkoop verbindt uploadt, voegen wij allen als contacten in CSV samen alvorens de invoer plaatsvindt.
 
 Dit doen we op basis van hetzelfde e-mailadres. Dus als er twee identieke e-mailadressen zijn, voegen we deze samen tot één contactpersoon.
 
