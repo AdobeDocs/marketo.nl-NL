@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# E-mail testen niet weergegeven als weergegeven {#test-email-not-showed-as-viewed}
+# E-mailadres testen niet weergegeven als {#test-email-not-showed-as-viewed}
 
 Zelfs als u uw bericht naar een ander e-mailadres hebt verzonden, worden er geen e-mails weergegeven die u in Live feed hebt verzonden. Onze tracering is gebaseerd op apparaten. zolang u een computer gebruikt waarmee u zich hebt aangemeld bij Sales Connect, zullen wij deze activiteit uitfilteren.
 
@@ -19,7 +19,7 @@ De reden? Sales Connect is slim en onze actieve gebruikers zullen het ons nooit 
 
 Zo ga je naar de enige plek waar we zelfcontrole laten zien.
 
-1. Ga naar het [Command Center](http://toutapp.com/next#emails/command_center).
+1. Ga naar [Command Center](http://toutapp.com/next#emails/command_center).
 1. Zoek het e-mailbericht dat u zelf hebt verzonden in de map Verzonden en selecteer het.
-1. Klik op de knop **Details** . Je zou je eigen standpunten moeten zien verschijnen.
+1. Klik op de knop **Details**. Je zou je eigen standpunten moeten zien verschijnen.
 
