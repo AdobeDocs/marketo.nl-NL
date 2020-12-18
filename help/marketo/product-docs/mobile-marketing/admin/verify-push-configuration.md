@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Pushconfiguratie verifiëren {#verify-push-configuration}
+# Pushconfiguratie {#verify-push-configuration} controleren
 
 >[!PREREQUISITES]
 >
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Verifieer dupconfiguratie om ervoor te zorgen alles behoorlijk wordt gesynchroniseerd.
 
-1. Klik op **Beheerder**.
+1. Klik op **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecteer **Mobiele apps**.
+1. Selecteer **Mobiele toepassingen**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
