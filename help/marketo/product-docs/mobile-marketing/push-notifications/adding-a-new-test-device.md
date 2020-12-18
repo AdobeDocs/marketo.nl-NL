@@ -19,10 +19,10 @@ U kunt eenvoudig een nieuw testapparaat toevoegen waarop u pushmeldingen kunt ui
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik op **Admin **en vervolgens op de koppeling **Mobiele apps** .\
+1. Klik **Admin **en dan **Mobiele Apps** verbinding.\
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Klik op het tabblad **Testapparaten** en op **Nieuw testapparaat**.
+1. Klik op de tab **Testapparaten** en **Nieuw testapparaat**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
@@ -40,7 +40,7 @@ U kunt eenvoudig een nieuw testapparaat toevoegen waarop u pushmeldingen kunt ui
 
    ![](assets/image2015-7-17-17-3a9-3a54.png)
 
-1. De app wordt geopend. Geef het apparaat een naam en tik op **Ja**.
+1. De app wordt geopend. Geef het apparaat een naam en tik **Ja**.
 
    ![](assets/image2015-7-17-17-3a31-3a23.png)
 
