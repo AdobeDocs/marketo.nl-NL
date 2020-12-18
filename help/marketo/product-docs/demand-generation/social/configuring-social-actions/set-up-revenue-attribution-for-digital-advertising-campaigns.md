@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Ontvangsten toewijzen voor digitale reclamecampagnes instellen {#set-up-revenue-attribution-for-digital-advertising-campaigns}
+# Ontvangsten toewijzen voor digitale reclamecampagnes {#set-up-revenue-attribution-for-digital-advertising-campaigns} instellen
 
 Hieronder wordt beschreven hoe u inkomstentoewijzing voor digitale reclamekanalen en campagnes instelt. Nadat u het hebt opgezet, kunt u eerste-aanraak en multi-aanraking opbrengstattributie voor digitale advertenties doen het zelfde als in andere programma&#39;s van de Marketo.
 
@@ -33,15 +33,15 @@ Met afzonderlijke programma&#39;s, kunt u dan het aantal omzettingen van elkaar 
 
 In tegenstelling tot sommige programma&#39;s (zoals e-mail) die periodiek voor een bepaalde periode kunnen lopen, zijn de standaardprogramma&#39;s altijd ingeschakeld.
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Klik op **Nieuw** en selecteer **Nieuw programma**.
+1. Klik **Nieuw** en selecteer **Nieuw Programma**.
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Als u al een programma hebt, kunt u het [klonen](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md).
+1. Als u al een programma op zijn plaats hebt, kunt u [het ](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) klonen.
 
    >[!TIP]
    >
@@ -73,19 +73,19 @@ In tegenstelling tot sommige programma&#39;s (zoals e-mail) die periodiek voor e
 
    >[!NOTE]
    >
-   >De querytekenreeks die wordt gebruikt in de twee triggers en het filter **Program that Captured Name** is uniek voor u. De hier weergegeven querytekenreeksen zijn bijvoorbeeld alleen. Als u het veld hebt gekloond, vervangt u deze velden gewoon.
+   >De vraagtekenreeks die in de twee triggers wordt gebruikt en het filter **Programma met vastgelegde naam** is uniek voor u. De hier weergegeven querytekenreeksen zijn bijvoorbeeld alleen. Als u het veld hebt gekloond, vervangt u deze velden gewoon.
 
-1. Creeer een stroomstap om de attributen in het Programma **van de** Aankoop te veranderen en de Nieuwe Waarde te plaatsen aan de waarde u voor betaalde sociale campagnes hebt bepaald.
+1. Creeer een stroomstap om de attributen in **Programma van de Aankoop te veranderen** en de Nieuwe Waarde te plaatsen aan de waarde u voor betaalde sociale campagnes hebt bepaald.
 
    ![](assets/image2016-3-14-14-3a58-3a6.png)
 
 1. Plan en activeer de campagne.
 
-## Een slimme campagne maken voor status/succes van programma {#create-a-smart-campaign-for-status-program-success}
+## Creeer een Slimme Campagne voor Status/het Succes van het Programma {#create-a-smart-campaign-for-status-program-success}
 
 U hebt een tweede slimme campagne nodig om de status van mensen te wijzigen, zodat ze het succes van het programma kunnen bereiken en kunnen worden opgenomen in berekeningen voor inkomstentoewijzing.
 
-1. Voer in de trigger Formulier **** invullen de naam van het programma in de queryreeks in. Als u het programma kloont, vervang enkel de oude naam van het vraagkoord met nieuwe.
+1. Voer in de trigger **Formulier** invullen de naam van het programma in de queryreeks in. Als u het programma kloont, vervang enkel de oude naam van het vraagkoord met nieuwe.
 
    ![](assets/image2016-3-23-14-3a7-3a20.png)
 
@@ -99,7 +99,7 @@ U hebt een tweede slimme campagne nodig om de status van mensen te wijzigen, zod
 
 1. Plan en activeer de campagne.
 
-## Je advertentie maken {#create-your-ad}
+## Advertentie {#create-your-ad} maken
 
 Nadat u het programma en de campagnes hebt ingesteld, maakt u de nieuwe advertentie.
 
@@ -120,16 +120,16 @@ Nadat u het programma en de campagnes hebt ingesteld, maakt u de nieuwe adverten
    >
    >    
    >    
-   >    * **bron** is de Persbron die als kanaal-id wordt gebruikt
-   >    * **opmerking** is de unieke id die voor elk programma is gemaakt
-   >    * **kamp** is de campagne in Facebook, LinkedIn of Google
-   >    * **k** is de trefwoord- of elementnaam die u wilt vastleggen
+   >    * **De bron** is de Persbron die als kanaal-id wordt gebruikt
+   >    * **plaatst** opmerkingen bij de unieke id die voor elk programma is gemaakt
+   >    * **De** campis de campagne in Facebook, LinkedIn of Google
+   >    * **** weet het trefwoord of de elementnaam die u wilt vastleggen
 
    >    
    >    
    >**Deze vier termen moeten allemaal in kleine letters staan en de URL mag geen spaties bevatten om deze gegevens vast te leggen.**
 
-## Aanbevolen werkwijzen {#best-practices}
+## Aanbevolen procedures {#best-practices}
 
 Gebruik één kanaalmarkering om alle digitale reclame te vertegenwoordigen, of gebruik veelvoudige kanaalmarkeringen als u meer korrelige vergelijkingen met uw andere marketing kanalen (bijvoorbeeld, sociaal-Betaalde, Onderzoek-Betaalde, Vertoning, het Terugkeren) wilt.
 
