@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Een webcampagne starten/pauzeren {#launch-pause-a-web-campaign}
 
-Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek segment en kan een [dialoogvenster](create-a-new-dialog-web-campaign.md) zijn op uw website, een [in-zone vervanging](create-a-new-in-zone-web-campaign.md), een widgetfunctie of een e-mailwaarschuwing.
+Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek segment en kan een [dialoogvenster](create-a-new-dialog-web-campaign.md) op uw website zijn, een [in zone replacement](create-a-new-in-zone-web-campaign.md), een widgetfunctie of een e-mailwaarschuwing.
 
 U kunt een Webcampagne op twee manieren van de pagina van de Campagnes van het Web lanceren of pauzeren of de Vastgestelde pagina van de Campagnes van het Web.
 
-1. Klik op **Webpersonalisatie**.
+1. Klik **Web Personalization**.
 
    ![](assets/one-1.png)
 
-1. Ga naar **webcampagnes**.
+1. Ga naar **Webcampagnes**.
 
    ![](assets/two-1.png)
 
@@ -41,7 +41,7 @@ U kunt een Webcampagne op twee manieren van de pagina van de Campagnes van het W
 
    ![](assets/image2014-11-26-17-3a31-3a37.png)
 
-1. Klik op **Opslaan** om de campagne op te slaan en te pauzeren. Klik op **Starten** om de campagne te starten en te activeren.
+1. Klik **Opslaan** om de campagne op te slaan en te pauzeren. Klik **Launch** om de campagne te starten en te activeren.
 
    ![](assets/image2014-11-26-17-3a32-3a48.png)
 
