@@ -53,7 +53,7 @@ In de sectie E-mail krijgt u een vogeloogweergave in al uw e-mails en wordt de o
   <tr> 
    <td title="Achtergrondkleur: Grijs"><br></td> 
    <td title="Achtergrondkleur: Grijs">Concept</td> 
-   <td title="Achtergrondkleur: Grijs"><p>E-mails die zijn opgeslagen als concept.<br><strong>Opmerking:</strong> U kunt slechts één e-mail opslaan als concepten. E-mails met opsommingstekens (e-mails selecteren en verzenden en e-mails per groep) worden niet opgeslagen als concepten.</p></td> 
+   <td title="Achtergrondkleur: Grijs"><p>E-mails die zijn opgeslagen als concept.<br><strong>Opmerking: </strong> Alleen enkele e-mails kunnen als concepten worden opgeslagen. E-mails met opsommingstekens (e-mails selecteren en verzenden en e-mails per groep) worden niet opgeslagen als concepten.</p></td> 
   </tr> 
   <tr> 
    <td title="Achtergrondkleur: Grijs"><br></td> 
@@ -68,12 +68,12 @@ In de sectie E-mail krijgt u een vogeloogweergave in al uw e-mails en wordt de o
   <tr> 
    <td title="Achtergrondkleur: Blauw"><br></td> 
    <td title="Achtergrondkleur: Blauw">Afgekeerd</td> 
-   <td title="Achtergrondkleur: Blauw"><p>E-mails die van de e-mailserver van de ontvangers zijn geweigerd. <br><strong>Opmerking:</strong> Dit wordt alleen gedetecteerd als u een oudere ToutApp-gebruiker bent en als leveringskanaal toegang hebt tot MSC-servers.</p></td> 
+   <td title="Achtergrondkleur: Blauw"><p>E-mails die van de e-mailserver van de ontvangers zijn geweigerd. <br><strong>Opmerking: </strong> dit wordt alleen gedetecteerd als u een verouderde ToutApp-gebruiker bent en als leveringskanaal toegang hebt tot MSC-servers.</p></td> 
   </tr> 
   <tr> 
    <td title="Achtergrondkleur: Blauw"><br></td> 
    <td title="Achtergrondkleur: Blauw">Spam</td> 
-   <td title="Achtergrondkleur: Blauw"><p>E-mails die door de ontvanger handmatig als spam zijn gemarkeerd.<br><strong>Opmerking:</strong> Dit wordt alleen gedetecteerd als u een oudere ToutApp-gebruiker bent en als leveringskanaal toegang hebt tot MSC-servers.</p></td> 
+   <td title="Achtergrondkleur: Blauw"><p>E-mails die door de ontvanger handmatig als spam zijn gemarkeerd.<br><strong>Opmerking: </strong> dit wordt alleen gedetecteerd als u een verouderde ToutApp-gebruiker bent en als leveringskanaal toegang hebt tot MSC-servers.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -84,7 +84,7 @@ De taaksectie is uw one-stop shop voor het beheren van en het voltooien van take
 
 ![](assets/command-center-overview-2.png)
 
-## Follow-up met vooruitzichten voor deelnemers {#follow-up-with-engaged-prospects}
+## Follow-up met vooruitzichten voor betrokkenheid {#follow-up-with-engaged-prospects}
 
 Zodra u met uw vooruitzichten via samenstellen venster of campagnes bent begonnen in dienst te nemen, kunt u beginnen om de meest betrokken vooruitzichten opnieuw te richten door de geavanceerde onderzoeksfunctionaliteit te gebruiken.
 
