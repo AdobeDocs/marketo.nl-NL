@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een rapport vernieuwen {#refresh-a-report}
+# Een rapport {#refresh-a-report} vernieuwen
 
 Na het bekijken van een rapport, slaat Marketo het in uw gegevensbestand op zodat het snel na uw volgende het bekijken laadt. Na uw eerste mening, verfrist de rapporten automatisch om de 24 uur zodat zij altijd bijgewerkt zijn. Maar u kunt ze op elk gewenst moment handmatig vernieuwen.
 
@@ -23,7 +23,7 @@ Na het bekijken van een rapport, slaat Marketo het in uw gegevensbestand op zoda
 
    ![](assets/two.png)
 
-1. U kunt het rapport ook verfrissen door op het menu van de Acties **van het** Rapport te klikken, en het selecteren **verfrist Rapport**.
+1. U kunt het rapport ook verfrissen door op **het menu van de Acties van het Rapport** te klikken, en **te selecteren verfrist Rapport**.
 
    ![](assets/three.png)
 
