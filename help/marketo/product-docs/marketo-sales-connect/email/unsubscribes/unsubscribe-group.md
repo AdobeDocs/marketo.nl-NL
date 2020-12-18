@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Groep afmelden {#unsubscribe-group}
+# Groep {#unsubscribe-group} opzeggen
 
 Alle geabonneerde personen op één locatie bekijken en beheren.
 
