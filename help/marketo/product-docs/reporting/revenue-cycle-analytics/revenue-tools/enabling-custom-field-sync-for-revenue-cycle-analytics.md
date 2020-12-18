@@ -11,23 +11,23 @@ ht-degree: 0%
 ---
 
 
-# Aangepaste veldsynchronisatie inschakelen voor inkomstencyclusanalyse {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# Aangepaste veldsynchronisatie inschakelen voor conjunctuuranalyse {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 De volgende stappen zullen u toestaan om douanevelden in RCA- rapporten te gebruiken.
 
-1. Klik op **Beheerder**.
+1. Klik **Admin**.
 
    ![](assets/one.png)
 
-1. Klik op **Opslagcyclusanalyse** en vervolgens op **Aangepaste veldsynchronisatie**.
+1. Klik **Analyse omzetcyclus**, dan **Aangepaste gebiedssynchronisatie**.
 
    ![](assets/two.png)
 
-1. Selecteer de **veldnaam** en klik op **Synchronisatieoptie** bewerken.
+1. Selecteer uw **Veldnaam** en klik vervolgens op **Synchronisatieoptie bewerken**.
 
    ![](assets/three.png)
 
-1. Selecteer **Ingeschakeld** onder Synchronisatiestatus en klik op **Opslaan**.
+1. Selecteer **Ingeschakeld** onder Synchronisatiestatus en klik vervolgens op **Opslaan**.
 
    ![](assets/four.png)
 
