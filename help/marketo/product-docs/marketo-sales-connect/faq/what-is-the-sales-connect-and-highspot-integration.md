@@ -31,9 +31,9 @@ Naast het werken in Verkoop Connect in browser, is de integratie van de Highspot
 
 ## De integratie van Sales Connect en Highspot inschakelen {#enabling-the-sales-connect-and-highspot-integration}
 
-Als u in het toelaten van de Integratie van de Marktplaats voor uw team geinteresseerd bent, gelieve te contacteren [Marketo Steun](http://support.marketo.com).
+Neem contact op met [Marketo Support](http://support.marketo.com) als u geïnteresseerd bent in het inschakelen van de Highspot Integration voor uw team.
 
-## Hoe te om de Integratie te gebruiken {#how-to-use-the-integration}
+## Hoe te om de Integratie {#how-to-use-the-integration} te gebruiken
 
 Als deze optie eenmaal is ingeschakeld, ziet u hoe u toegang krijgt tot uw Highspot-inhoud in Sales Connect.
 
