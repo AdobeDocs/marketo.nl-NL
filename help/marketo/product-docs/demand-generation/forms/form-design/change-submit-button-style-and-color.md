@@ -19,11 +19,11 @@ Als u de standaard verzendknop smal vindt of als u iets mooier nodig hebt, kunt 
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Selecteer de knop **Verzenden** en klik op **Bewerken** naast Knopstijl.
+1. Selecteer de **Submit** knoop en klik **Edit** naast de Stijl van de Knoop.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -43,15 +43,15 @@ Als u de standaard verzendknop smal vindt of als u iets mooier nodig hebt, kunt 
    >
    >U kunt de kleurcode ook handmatig invoeren.
 
-1. Klik op **Selecteren**.
+1. Klik **Select**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 
