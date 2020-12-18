@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Log inkomende post van je leads in Marketo {#log-inbound-mail-from-your-leads-in-marketo}
+# Log inkomende mail van je leads in Marketo {#log-inbound-mail-from-your-leads-in-marketo}
 
 U kunt antwoorden van uw lood in Vooruitzichten met Marketo e-mail toe:voegen-binnen registreren.
 
@@ -23,7 +23,7 @@ U kunt antwoorden van uw lood in Vooruitzichten met Marketo e-mail toe:voegen-bi
 
 >[!TIP]
 >
->U kunt ook met de rechtermuisknop op een bericht klikken en op **Log met markering** klikken.
+>U kunt ook met de rechtermuisknop op een bericht klikken en **Log met Marketo** klikken.
 
 Je moet een bevestiging zien.
 
