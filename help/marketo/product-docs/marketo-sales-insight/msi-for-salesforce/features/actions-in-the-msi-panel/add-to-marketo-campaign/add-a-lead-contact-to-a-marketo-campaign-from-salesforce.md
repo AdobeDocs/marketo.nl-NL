@@ -19,7 +19,7 @@ U kunt vanuit Salesforce gemakkelijk leads of contactpersonen toevoegen aan slim
 
    ![](assets/image2016-3-22-9-3a18-3a36.png)
 
-1. Selecteer in de vervolgkeuzelijst de lijst met personen die u wilt weergeven en klik op **Ga**.
+1. Selecteer in de vervolgkeuzelijst de lijst met personen die u wilt weergeven en klik op **Go**.
 
    ![](assets/image2016-3-22-9-3a24-3a6.png)
 
@@ -31,16 +31,16 @@ U kunt vanuit Salesforce gemakkelijk leads of contactpersonen toevoegen aan slim
 
    ![](assets/three.png)
 
-1. Blader in de record omlaag naar het gebied Marktkoopoverzicht, klik op de vervolgkeuzelijst **Handelingen** , selecteer **Toevoegen aan Marketo-campagne** en klik **op Ga.**
+1. Schuif in de record omlaag naar het gebied Marktverkoopinzicht, klik op de vervolgkeuzelijst **Acties**, selecteer **Toevoegen aan Marketo-campagne,** en klik op **Go.**
 
    ![](assets/four.png)
 
-1. Klik op het vervolgkeuzemenu **Campagnenaam** , selecteer de gewenste Marketo-campagne en klik op **Toevoegen aan Marketo-campagne**.
+1. Klik **De drop-down Naam van de Campagne**, selecteer de gewenste Marketo campagne, en klik **toevoegen aan Marketo Campaign**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Voor de campagne om in drop-down te verschijnen, gebruik de [**Campagne wordt Gevraagd** trekker](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), met het Inzicht **van de** Verkoop als bron, wanneer u opstelling de campagne.
+   >Voor de campagne om in drop-down te verschijnen, gebruik [**De Campagne wordt Gevraagd** trekker](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), met **Inzicht van de Verkoop** als bron, wanneer u opstelling de campagne.
 
 En dat is het! De persoon wordt toegevoegd aan uw Marketo-campagne.
