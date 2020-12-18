@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een lijst met landen toevoegen aan uw formulier {#add-a-country-picklist-to-your-form}
+# Voeg een lijst van de Bestelwagen van het Land aan uw Vorm {#add-a-country-picklist-to-your-form} toe
 
 Volg deze instructies om het landveld om te zetten in een vervolgkeuzelijst met een lijst van alle landen.
 
@@ -19,7 +19,7 @@ Volg deze instructies om het landveld om te zetten in een vervolgkeuzelijst met 
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Selecteer het formulier en klik op **Formulier** bewerken ****.
+1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
 
    ![](assets/editform-1.png)
 
@@ -27,19 +27,19 @@ Volg deze instructies om het landveld om te zetten in een vervolgkeuzelijst met 
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Zoek en selecteer **Land**.
+1. **Land** zoeken en selecteren.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Selecteer het veld **Land** en wijzig het **veldtype** in **Type** **Selecteren**.
+1. Met het **Land** geselecteerde gebied veranderen **Veld** **Type** in **Select**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Bewerk** de **waarden** om de lijst met landen toe te voegen waaruit gebruikers kunnen kiezen.
+1. **** Bewerk de  **** waarde om de lijst met landen toe te voegen waaruit gebruikers kunnen kiezen.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Klik op **Geavanceerde** **Editor**.
+1. Klik **Geavanceerd** **Editor**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -55,15 +55,15 @@ Volg deze instructies om het landveld om te zetten in een vervolgkeuzelijst met 
    >
    >U kunt de lijst bewerken of een andere lijst gebruiken.
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Klik op **Voltooien**.
+1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Klik op **Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
