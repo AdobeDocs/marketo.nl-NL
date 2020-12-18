@@ -11,9 +11,9 @@ ht-degree: 0%
 ---
 
 
-# Een prestatierapport voor de bestemmingspagina filteren {#filter-a-landing-page-performance-report}
+# Een prestatierapport voor landingspagina filteren {#filter-a-landing-page-performance-report}
 
-Focus het prestatierapport [van de](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) bestemmingspagina op het landen van pagina&#39;s in uw programma&#39;s (lokale activa), op die in de Studio van het Ontwerp (globale activa), of op die die zijn gearchiveerd.
+Focus uw [rapport over de prestaties van de bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) op het landen van pagina&#39;s in uw programma&#39;s (lokale activa), op die in de Studio van het Ontwerp (globale activa), of op die die zijn gearchiveerd.
 
 1. Ga naar **Analytics** (of **Marketing Activities**).
 
@@ -23,13 +23,13 @@ Focus het prestatierapport [van de](../../../../product-docs/demand-generation/l
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. Klik op het tabblad **Setup** en sleep in een filter.
+1. Klik op de tab **Setup** en sleep in een filter.
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Openingspagina&#39;s van Design Studio:** Globale activa, die in de Studio van het Ontwerp worden beheerd.
-   * **Openingspagina&#39;s voor marketingactiviteiten:** Lokale elementen in programma&#39;s op het tabblad Marketingactiviteiten.
-   * **Gearchiveerde bestemmingspagina&#39;s:** Inactieve, gepensioneerde bestemmingspagina&#39;s.
+   * **Openingspagina&#39;s van de Studio van het ontwerp:** Globale activa, die in de Studio van het Ontwerp worden beheerd.
+   * **Aanlandingspagina&#39;s voor marketingactiviteiten:** lokale middelen in programma&#39;s op het tabblad Marketingactiviteiten.
+   * **Gearchiveerde bestemmingspagina&#39;s:** inactieve, gepensioneerde bestemmingspagina&#39;s.
 
 1. Kies de mappen en specifieke bestemmingspagina&#39;s die u in uw rapport wilt opnemen.
 
@@ -39,7 +39,7 @@ Focus het prestatierapport [van de](../../../../product-docs/demand-generation/l
    >
    >Als u een map selecteert, bevat uw rapport alles wat de map bevat op het moment dat het rapport wordt uitgevoerd.
 
-1. Je bent klaar! Klik op het tabblad **Rapport** om uw gefilterde rapport weer te geven.
+1. Je bent klaar! Klik **Rapport** tabel om uw gefilterde rapport te zien.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
 
@@ -47,5 +47,5 @@ Focus het prestatierapport [van de](../../../../product-docs/demand-generation/l
 >
 >**Diep duiken**
 >
->Alles over rapporten in [standaardrapporten](http://docs.marketo.com/display/docs/basic+reporting).
+>Meer informatie over rapporten vindt u in [basisrapporten](http://docs.marketo.com/display/docs/basic+reporting).
 
