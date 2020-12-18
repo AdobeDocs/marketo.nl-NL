@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Hoe het Volgen van de Mening werkt {#how-view-tracking-works}
+# Hoe het Volgen van de Mening {#how-view-tracking-works} werkt
 
 We houden het openen van e-mailberichten bij door een onzichtbare afbeelding in de e-mails te plaatsen die u verzendt.
 
-Als iemand op uw e-mail reageert maar Sales Connect zegt dat deze niet is bekeken, is de kans ondenkbaar dat de ontvanger `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
+Als iemand op uw e-mail reageert maar Sales Connect zegt dat deze niet is weergegeven, doet de ontvanger dit `not enable images within their email client (i.e. click on the "click here to download images" message in the email).`
 
 Enkele tips voor het volgen van statistieken in je e-mails:
 
