@@ -18,7 +18,7 @@ Hebt u al een aangepast publiek op Facebook en wilt u er meer leads aan toevoege
 >[!PREREQUISITES]
 >
 >* [Een aangepast publiek maken op Facebook](create-a-custom-audience-in-facebook.md)
->* [Accepteer de aangepaste publieksvoorwaarden](https://www.facebook.com/ads/manage/customaudiences/tos.php) van Facebook in uw Facebook-account.
+>* [Accepteer de aangepaste ](https://www.facebook.com/ads/manage/customaudiences/tos.php) publiekstermen van Facebook in uw Facebook-account.
 
 >
 
@@ -28,15 +28,15 @@ Hebt u al een aangepast publiek op Facebook en wilt u er meer leads aan toevoege
 
    ![](assets/one.png)
 
-1. Selecteer het tabblad **Leads** en klik vervolgens op het pictogram **Verzenden via Adobe Bridge **onder aan het dialoogvenster.
+1. Selecteer het tabblad **Leads** en klik vervolgens op het pictogram **Verzenden via Adobe Bridge **aan de onderkant.
 
    ![](assets/two-1.png)
 
-1. Selecteer **Facebook **en klik **daarna**.
+1. Selecteer **Facebook **en klik **Next**.
 
    ![](assets/three.png)
 
-1. Klik op de vervolgkeuzelijst **Publiek** , selecteer het publiek waaraan u de leads wilt toevoegen en klik op **Bijwerken**.
+1. Klik **Publiek** drop-down, selecteer het publiek u de lood aan wilt toevoegen, en **Update** klikken.
 
    ![](assets/4.png)
 
