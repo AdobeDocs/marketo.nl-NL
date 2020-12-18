@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Voer de volgende eenvoudige stappen uit om Sales Connect te verbinden met Salesforce.
 
-## Verbinding maken als beheerder {#how-to-connect-as-an-admin}
+## Hoe te om als Admin {#how-to-connect-as-an-admin} te verbinden
 
 1. Klik in Sales Connect op het tandwielpictogram rechtsboven en selecteer **Instellingen**.
 
@@ -29,19 +29,19 @@ Voer de volgende eenvoudige stappen uit om Sales Connect te verbinden met Salesf
 
    ![](assets/seven.png)
 
-1. Klik op **OK**.
+1. Klik **OK**.
 
    ![](assets/four.png)
 
 1. Als u al bent aangemeld bij Salesforce, hebt u verbinding. Als u dat niet doet, wordt u gevraagd u aan te melden.
 
-## Verbinding maken als niet-beheerder {#how-to-connect-as-a-non-admin}
+## Hoe te om als niet Admin {#how-to-connect-as-a-non-admin} te verbinden
 
 1. Klik in Sales Connect op het tandwielpictogram en selecteer **Instellingen**.
 
    ![](assets/one.png)
 
-1. Selecteer **Salesforce onder Mijn account**.
+1. Selecteer onder Mijn account **Salesforce**.
 
    ![](assets/two.png)
 
@@ -49,7 +49,7 @@ Voer de volgende eenvoudige stappen uit om Sales Connect te verbinden met Salesf
 
    ![](assets/three.png)
 
-1. Klik op **OK**.
+1. Klik **OK**.
 
    ![](assets/four.png)
 
