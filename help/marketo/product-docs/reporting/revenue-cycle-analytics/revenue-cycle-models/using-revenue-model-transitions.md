@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Overgangen met inkomstenmodellen gebruiken {#using-revenue-model-transitions}
+# Overgangen naar inkomstenmodel gebruiken {#using-revenue-model-transitions}
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ Wanneer u uw model creeert en uw inventarisstadia selecteert en organiseert, is 
 
 ![](assets/one-2.png)
 
-1. Klik met de rechtermuisknop (u kunt ook dubbelklikken) op een van de pijlen om aan de slag te gaan en selecteer Overgang **bewerken**.
+1. Klik met de rechtermuisknop (u kunt ook dubbelklikken) op een van de pijlen om aan de slag te gaan en selecteer **Overgang bewerken**.
 
    ![](assets/two-2.png)
 
@@ -42,7 +42,7 @@ Wanneer u uw model creeert en uw inventarisstadia selecteert en organiseert, is 
 
    ![](assets/five-2.png)
 
-1. Klik op **Modellen** om terug te keren naar uw model.
+1. Om terug naar uw model te krijgen, klik **Modelleur**.
 
    ![](assets/six.png)
 
@@ -50,7 +50,7 @@ Wanneer u uw model creeert en uw inventarisstadia selecteert en organiseert, is 
 
    ![](assets/seven.png)
 
-1. Zodra u regels voor al uw overgangen hebt gevormd, klik **bevestigen** om te verifiëren.
+1. Zodra u regels voor al uw overgangen hebt gevormd, klik **Valideren** om te verifiëren.
 
    ![](assets/eight.png)
 
