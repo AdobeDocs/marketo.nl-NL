@@ -11,15 +11,15 @@ ht-degree: 0%
 ---
 
 
-# Navigeren door de startpagina van Analytics {#navigating-the-analytics-home-page}
+# Navigeren door de startpagina voor Analytics {#navigating-the-analytics-home-page}
 
-1. Ga naar het gebied **Analytics** .
+1. Ga naar het gebied **Analytics**.
 1. ![](assets/image2015-4-27-8-3a38-3a10.png)
 
 1. Selecteer een [rapporttype](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. ![](assets/image2015-4-27-8-3a38-3a22.png)
 
-1. Nadat u uw rapport hebt uitgevoerd, klikt u op de werkruimte om terug te gaan naar de startpagina **van** Analytics.
+1. Nadat u uw rapport hebt uitgevoerd, klikt u op de werkruimte om terug te gaan naar **Analytics Home**.
 
    ![](assets/image2015-4-27-8-3a38-3a34.png)
 
