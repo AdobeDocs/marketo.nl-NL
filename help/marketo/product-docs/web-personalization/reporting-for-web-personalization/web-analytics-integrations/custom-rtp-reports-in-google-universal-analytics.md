@@ -26,7 +26,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
 
 1. Meld u aan bij Google Analytics.
 1. Klik op **Aanpassing **in het hoogste menu.
-1. Klik op **+Nieuw aangepast rapport.**
+1. Klik **+Nieuw Rapport van de Douane.**
 
 ** ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -34,10 +34,10 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
 
 ## RTP B2B-rapport {#rtp-b-b-report}
 
-1. Geef het rapport de naam **RTP B2B Report**.
+1. Geef het rapport **RTP B2B Report** een naam.
 1. Naam van het eerste tabblad **Industrie **
 
-   1. (Opmerking: u gaat dit tabblad **** dupliceren en aanvullende vergelijkbare tabbladen maken (stap 5)
+   1. (Opmerking: u **Dit tabblad dupliceert** en maakt extra vergelijkbare tabbladen - stap 5)
 
 1. Selecteer het rapporttype** Verkenner**.\
    ** ![](assets/image2015-3-22-16-3a15-3a25.png)
@@ -61,7 +61,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. In de sectie **Dimension boor** stelt u de relevante afmetingen voor elk tabblad in, zoals hieronder.
+1. In **Dimension boor downs** sectie plaats de relevante afmetingen voor elk lusje zoals hieronder.
 
 <table> 
  <thead> 
@@ -101,17 +101,17 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
 </table>
 
 1. Stel geen filters in en stel dit rapport in op beschikbaar voor **Alle gegevens van de website ** (of wijzig indien van toepassing voor de specifieke account Analytics).
-1. Klik op **Opslaan**.\
+1. Klik **Opslaan**.\
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## RTP-betrokkenheidsrapport {#rtp-engagement-report}
 
-1. Geef het rapport de naam **RTP Engagement Report.**
-1. De eerste tabnaam instellen op **Alle betrokkenheid**
+1. Geef het rapport een naam **RTP-betrokkenheidsrapport.**
+1. Stel de eerste tabnaam in op **Alle betrokkenheid**
 
    1. (Opmerking: u gaat dit tabblad dupliceren en aanvullende vergelijkbare tabbladen maken (stap 5)
 
-1. Selecteer het rapporttype van de **Ontdekkingsreiziger** .\
+1. Selecteer **Ontdekkingsreiziger** rapporttype.\
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
 1. Selecteer in de sectie Metrische groepen de maatstaven die relevant zijn voor uw bedrijf. Hier volgt een aanbeveling:\
@@ -125,9 +125,9 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
    1. **Betrokkenheid per rubriek**
    1. **Betrokkenheid van ABM**
 
-   ** ![](assets/image2015-3-22-16-3a26-3a21.png)\**
+   ** ![](assets/image2015-3-22-16-3a26-3a21.png)\*
 
-1. In de sectie **Dimension boor** stelt u de relevante afmetingen voor elk tabblad als volgt in:
+1. Stel in de sectie **Dimension boor downs** de relevante afmetingen voor elk tabblad als volgt in:
 
 <table> 
  <thead> 
@@ -206,7 +206,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
    <td>Uitsluiten</td> 
    <td>Gebeurtenislabel</td> 
    <td>Regex</td> 
-   <td>#</td> 
+   <td>Aantal</td> 
    <td colspan="1">Hiermee kunt u vanuit uw rapportencampagne filteren met # in de naam van de campagne</td> 
   </tr> 
  </tbody> 
@@ -216,7 +216,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
