@@ -21,20 +21,20 @@ U kunt bestemmingspagina CNAMEs willen toevoegen om verschillende URLs toe te st
 
 >[!TIP]
 >
->**Hetzelfde topniveaudomein - Goed! Cookies zijn shared.go**.mijnbedrijf.com > **info**.mijnbedrijf.**comVerschillende domeinen op hoofdniveau - Slecht! Cookies worden niet gedeeld.**
+>**Hetzelfde topniveaudomein - Goed! Cookies zijn shared.go**.mijnbedrijf.com > **info**.mijnbedrijf.com **Verschillende topniveaudomeinen - Slecht! Cookies worden niet gedeeld.**
 >gaan.**mijnbedrijf**.com > ga.**mijnbedrijf**.com
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-## De tekenreeks van uw account zoeken {#find-your-account-string}
+## Uw accounttekenreeks zoeken {#find-your-account-string}
 
-1. Ga naar het **beheergebied** en klik op **Pagina&#39;s** landen.
+1. Ga naar **Admin** gebied en klik **Landing Pages**.
 
    ![](assets/image2014-9-16-15-3a19-3a54.png)
 
-1. Kopieer de **accounttekenreeks** uit de sectie **Instellingen** .
+1. Kopieer **Account String** van de sectie **Settings**.
 
    ![](assets/image2014-9-16-15-3a20-3a2.png)
 
@@ -42,21 +42,21 @@ U kunt bestemmingspagina CNAMEs willen toevoegen om verschillende URLs toe te st
 
 ## Verzoek verzenden naar IT {#send-request-to-it}
 
-1. Vraag uw afdeling van IT om volgende CNAME te installeren: (Vervang het woord [CNAME] door de CNAME van uw keuze en de TEKENREEKS [van de] ACCOUNT met de tekst van de vorige stap).
+1. Vraag uw afdeling van IT om volgende CNAME te installeren: (Vervang het woord [CNAME] met de NAAM van uw keus en [ACCOUNT STRING] met de tekst van de vorige stap).
 
-   [CNAME].YourCompany.com > [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
 
-## Een nieuwe NAAM toevoegen {#add-a-new-cname}
+## Nieuwe CNAME {#add-a-new-cname} toevoegen
 
-1. Nadat uw IT-afdeling de CNAME heeft gemaakt, gaat u naar **Admin** en klikt u op **Pagina&#39;s** landen.
+1. Zodra uw afdeling van IT CNAME heeft gecreeerd, ga naar **Admin** dan **Landing Pages** klikken.
 
    ![](assets/image2014-9-16-15-3a20-3a20.png)
 
-1. Klik op **Nieuw** en selecteer **Nieuwe domeinalias**.
+1. Klik **Nieuw** dan uitgezocht **Nieuwe Alias van het Domein**.
 
    ![](assets/image2014-9-16-15-3a20-3a28.png)
 
-1. Voer uw **domeinalias in.** De **standaardpagina** wordt weergegeven als de bezoeker geen URL plaatst. Voer in dat geval in waar ze naartoe moeten.
+1. Voer uw **Domeinalias in.** De  **standaardpagina** wordt weergegeven als de bezoeker geen URL plaatst. Voer in dat geval in waar ze naartoe moeten.
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ U kunt bestemmingspagina CNAMEs willen toevoegen om verschillende URLs toe te st
 
    ![](assets/image2014-9-16-15-3a20-3a36.png)
 
-1. Voer de **standaardpagina** in en klik op **Maken**.
+1. Voer uw **Standaardpagina** in en klik op **Maken**.
 
    ![](assets/image2014-9-16-15-3a20-3a43.png)
 
