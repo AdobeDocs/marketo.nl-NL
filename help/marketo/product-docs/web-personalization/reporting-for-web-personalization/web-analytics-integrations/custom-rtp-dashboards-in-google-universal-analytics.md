@@ -28,9 +28,9 @@ In dit artikel wordt uitgelegd hoe u RTP-dashboards kunt instellen in Google Uni
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. Selecteer **Leeg canvas**, voeg een naam **van het** dashboard toe en klik op **Dashboard** maken.
+1. Selecteer **Leeg canvas**, voeg een **Naam dashboard** toe en klik **Dashboard maken**.
 
-1. Klik op Widget **toevoegen** om een nieuwe widget te maken.\
+1. Klik op **Widget toevoegen** om een nieuwe widget te maken.\
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## RTP B2B-dashboard {#rtp-b-b-dashboard}
@@ -179,24 +179,24 @@ Maak een nieuw dashboard met de naam **RTP Engagement Dashboard** en definieer d
   <tr> 
    <td> 
     <ul> 
-     <li>Naam: <strong>Totale TCLP (Betrokkenheid)</strong></li> 
+     <li>Naam: <strong>Totale CTA (Betrokkenheid)</strong></li> 
      <li>Type: <strong>2.1 Metrisch </strong></li> 
      <li>De volgende metrische waarde tonen: <strong>Totaal aantal gebeurtenissen</strong></li> 
-     <li>Filters:<br><strong>[alleen tonen] Event-categorie (bevat): RTP-Campagnes</strong><br><strong>[slechts toon] de Actie van de Gebeurtenis (precies die met elkaar in overeenstemming brengt): Gebeurtenislabel voor Impression</strong><strong>[niet tonen] (met: Aantal</strong></li> 
+     <li>Filters:<br><strong>[alleen tonen] Gebeurteniscategorie (bevat): RTP-Campaigns</strong><br><strong>[alleen tonen] Gebeurtenisactie (exact overeenkomend): Impressie</strong><strong>[niet tonen] Gebeurtenislabel (met: #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
-     <li>Naam: <strong>Totale TCLP (doorklikken)</strong></li> 
+     <li>Naam: <strong>Totale CTA (doorklikken)</strong></li> 
      <li>Type: <strong>2.1 Metrisch </strong></li> 
      <li>De volgende metrische waarde tonen: <strong>Totaal aantal gebeurtenissen</strong></li> 
-     <li>Filters:<br><strong>[alleen tonen] Event-categorie (bevat): RTP-Campaigns</strong><br><strong>[only show] Event-actie (exact overeenkomend): Klik</strong><strong>op Gebeurtenislabel [niet tonen] (met): Aantal</strong></li> 
+     <li>Filters:<br><strong>[alleen tonen] Gebeurteniscategorie (bevat): RTP-Campaigns</strong><br><strong>[alleen tonen] Gebeurtenisactie (exact overeenkomend): Klik op Gebeurtenislabel</strong><strong>[niet tonen] (met daarin): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
      <li>Naam: <strong>CRE - Totaal aantal klikken</strong></li> 
      <li>Type: <strong>2.1 Metrisch</strong><br></li> 
      <li>De volgende metrische waarde tonen: <strong>Pageviews</strong></li> 
-     <li>Filter: <strong>[alleen tonen] Pagina (met): rcmd</strong></li> 
+     <li>Filter: <strong>[alleen tonen] Pagina (met: rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a30.png" data-linked-resource-id="7504262" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
@@ -205,39 +205,39 @@ Maak een nieuw dashboard met de naam **RTP Engagement Dashboard** en definieer d
      <li>Naam: <strong>Gem. Sessieduur (betrokkenheid)</strong></li> 
      <li>Type: <strong>2.1 Metrisch </strong></li> 
      <li>De volgende metrische waarde tonen: <strong>Gem. Sessieduur</strong></li> 
-     <li>Filters:<br><strong>[alleen tonen] Event-categorie (exact overeenkomend): RTP-Campaigns</strong><br><strong>[only show] Event-actie (exact overeenkomend): Importeren</strong><strong>[niet weergeven] Gebeurtenislabel (met): Aantal</strong></li> 
+     <li>Filters:<br><strong>[alleen tonen] Gebeurteniscategorie (exact overeenkomend): RTP-Campaigns</strong><br><strong>[alleen tonen] Gebeurtenisactie (exact overeenkomend): Impressie</strong><strong>[niet tonen] Gebeurtenislabel (met: #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>Naam: <strong>Gem. Sessieduur (doorklikken)</strong></li> 
      <li>Type: <strong>2.1 Metrisch </strong></li> 
      <li>De volgende metrische waarde tonen: <strong>Gem. Sessieduur</strong></li> 
-     <li>Filters:<br><strong>[alleen tonen] Event-categorie (exact overeenkomend): RTP-Campaigns</strong><br><strong>[only show] Event-actie (exact overeenkomend): klikt</strong><strong>[niet tonen] Gebeurtenislabel (met): Aantal</strong></li> 
+     <li>Filters:<br><strong>[alleen tonen] Gebeurteniscategorie (exact overeenkomend): RTP-Campaigns</strong><br><strong>[alleen tonen] Gebeurtenisactie (exact overeenkomend): klikt</strong><strong>[niet tonen] het Etiket van de Gebeurtenis (die bevat): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
-     <li>Naam: <strong>CRE - aanbevolen inhoud bovenaan</strong></li> 
+     <li>Naam: <strong>CRE - Top Recommended Content</strong></li> 
      <li>Type: <strong>Tabel</strong><br></li> 
      <li>De volgende kolommen weergeven: <br><strong>Paginatitel | Pageviews</strong><br></li> 
-     <li>filters:<br>filter: <strong>[alleen tonen] Pagina (met): rcmd</strong></li> 
+     <li>Filters:<br>Filter: <strong>[alleen tonen] Pagina (met: rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <td> 
     <ul> 
-     <li>Naam: <strong>Pagina's/sessie (betrokkenheid)</strong></li> 
+     <li>Naam: <strong>Pagina's / Sessie (Betrokkenheid)</strong></li> 
      <li>Type: <strong>2.1 Metrisch </strong></li> 
      <li>De volgende metrische waarde tonen: <strong>Pagina's/sessie</strong></li> 
-     <li>Filters:<br><strong>[alleen tonen] Event-categorie (exact overeenkomend): RTP-Campaigns</strong></li> 
+     <li>Filters:<br><strong>[alleen tonen] Gebeurteniscategorie (exact overeenkomend): RTP-campagnes</strong></li> 
      <li><strong>[alleen weergeven] Gebeurtenisactie (exact overeenkomend): indruk</strong></li> 
      <li><strong>[niet tonen] Gebeurtenislabel (met): Aantal</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>Naam: <strong>Pagina's/sessie (klikken via)</strong></li> 
+     <li>Naam: <strong>Pagina's / Sessie (doorklikken)</strong></li> 
      <li>Type: <strong>2.1 Metrisch </strong></li> 
      <li>De volgende metrische waarde tonen: <strong>Pagina's/sessie</strong></li> 
-     <li>Filters:<br><strong>[alleen tonen] Event-categorie (exact overeenkomend): RTP-Campaigns</strong></li> 
+     <li>Filters:<br><strong>[alleen tonen] Gebeurteniscategorie (exact overeenkomend): RTP-campagnes</strong></li> 
      <li><strong>[alleen weergeven] Gebeurtenisactie (exact overeenkomend): klikken</strong></li> 
      <li><strong>[niet tonen] Gebeurtenislabel (met): Aantal</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
@@ -249,14 +249,14 @@ Maak een nieuw dashboard met de naam **RTP Engagement Dashboard** en definieer d
      <li>Naam: <strong>Impressies door CTA</strong></li> 
      <li>Type: <strong>Tabel</strong></li> 
      <li>De volgende kolommen weergeven: <strong>Gebeurtenislabel | Totaal aantal gebeurtenissen | Gebruikers</strong></li> 
-     <li>Filters:<br><strong>[alleen tonen] Event-categorie (exact overeenkomend): RTP-Campaigns</strong><br><strong>[only show] Event-actie (exact overeenkomend): Importeren</strong><strong>[niet weergeven] Gebeurtenislabel (met): Aantal</strong></li> 
+     <li>Filters:<br><strong>[alleen tonen] Gebeurteniscategorie (exact overeenkomend): RTP-Campaigns</strong><br><strong>[alleen tonen] Gebeurtenisactie (exact overeenkomend): Impressie</strong><strong>[niet tonen] Gebeurtenislabel (met: #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Naam: <strong>Klikken door CTA</strong></li> 
      <li>Type: <strong>Tabel</strong></li> 
      <li>De volgende kolommen weergeven: <strong>Gebeurtenislabel | Totaal aantal gebeurtenissen | Gebruikers</strong></li> 
-     <li>Filters:<br><strong>[alleen tonen] Event-categorie (exact overeenkomend): RTP-Campaigns</strong><br><strong>[only show] Event-actie (exact overeenkomend): klikken</strong></li> 
+     <li>Filters:<br><strong>[alleen tonen] Gebeurteniscategorie (exact overeenkomend): RTP-Campaigns</strong><br><strong>[alleen tonen] Gebeurtenisactie (exact overeenkomend): klikt</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 
