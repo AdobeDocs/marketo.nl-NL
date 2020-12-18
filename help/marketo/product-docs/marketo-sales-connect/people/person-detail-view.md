@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Persoonsgegevens weergeven {#person-detail-view}
+# Persoonsdetailweergave {#person-detail-view}
 
 De de detailmening van de persoon verstrekt een gedetailleerd profiel van elke persoon in uw rekening MSC.
 
-## Toegang verkrijgen {#how-to-access}
+## Hoe te om tot {#how-to-access} toegang te hebben
 
-1. Klik op het tabblad **Personen** voor toegang tot de gedetailleerde weergave van personen.
+1. Klik op het tabblad **Personen** voor toegang tot de weergave Personen.
 
    ![](assets/people-tab.png)
 
