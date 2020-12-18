@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Hoe te om Uw Prioritaire Lijst van de Vraag in Verkoop te creëren Connect {#how-to-create-your-priority-call-list-in-sales-connect}
+# Hoe te om Uw Prioritaire Lijst van de Vraag in Verkoop te creëren verbindt {#how-to-create-your-priority-call-list-in-sales-connect}
 
 Leer hoe u een prioriteitsrapport-/oproeplijst maakt met ToutApp-servicegegevens voor e-mail om uw tijd te richten op mensen of kansen met een impuls.
 
