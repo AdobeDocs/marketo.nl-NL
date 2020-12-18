@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Opbrengstmodelstatussen gebruiken {#using-revenue-model-gate-stages}
+# Opbrengstmodelkleurfasen gebruiken {#using-revenue-model-gate-stages}
 
 Een gate-werkgebied fungeert als kwalificatiecontrole.
 
@@ -21,7 +21,7 @@ Een gate-werkgebied fungeert als kwalificatiecontrole.
 
 ## Een gatwerkgebied toevoegen {#add-a-gate-stage}
 
-1. Ga naar het gebied **Analytics** .
+1. Ga naar het gebied **Analytics**.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
@@ -29,11 +29,11 @@ Een gate-werkgebied fungeert als kwalificatiecontrole.
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klik op **Concept** bewerken ****.
+1. Klik **Bewerken** **Concept**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Klik op de knop **Gate** en sleep en zet de muisknop vervolgens ergens op het canvas neer.
+1. Klik op de knop **Gate** en sleep vervolgens naar een willekeurige locatie op het canvas.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
@@ -41,41 +41,41 @@ Een gate-werkgebied fungeert als kwalificatiecontrole.
 
    >[!NOTE]
    >
-   >Selecteer Op dit moment [Beginnen met bijhouden via account](start-tracking-by-account-in-the-revenue-modeler.md) om inzicht te krijgen in de prestaties van je accounts terwijl ze door uw model gaan.
+   >Selecteer [Beginnen met bijhouden via account](start-tracking-by-account-in-the-revenue-modeler.md) op dit moment om inzicht te krijgen in de prestaties van uw accounts terwijl deze uw model doorlopen.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
 >[!NOTE]
 >
->In het werkgebied Gate worden leads gesplitst op basis van criteria die u in de overgangsregels invoert. **er zijn geen aanwijzingen**. Een standaardovergang is vereist, zodat leads die niet door de andere overgangen worden gekozen, de standaardovergang doorlopen.
+>In het werkgebied Gate worden leads gesplitst op basis van criteria die u in de overgangsregels invoert. **het bevat geen leads**. Een standaardovergang is vereist, zodat leads die niet door de andere overgangen worden gekozen, de standaardovergang doorlopen.
 
-## Een Gate-werkgebied bewerken {#edit-a-gate-stage}
+## Een gatwerkgebied bewerken {#edit-a-gate-stage}
 
-Bewerk de naam, de beschrijving en pas het type van het Gate-werkgebied aan. U kunt ook Opvolgen op account [](start-tracking-by-account-in-the-revenue-modeler.md)starten.
+Bewerk de naam, de beschrijving en pas het type van het Gate-werkgebied aan. U kunt er ook voor kiezen om [Bijhouden starten via account](start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Klik op het pictogram van een **Gate** -werkgebied.
+1. Klik op het werkgebiedpictogram **Gate**.
 
    ![](assets/image2015-4-27-17-3a11-3a41.png)
 
-1. Klik in de velden **Naam** en **Beschrijving** om de inhoud ervan te bewerken.
+1. Klik binnen **Naam** en **Beschrijving** gebieden om hun inhoud uit te geven.
 
    ![](assets/image2015-4-28-12-3a17-3a22.png)
 
-1. Selecteer de vervolgkeuzelijst **Type** die u wilt bewerken.
+1. Selecteer de vervolgkeuzelijst **Type** om te bewerken.
 
    ![](assets/image2015-4-27-17-3a14-3a7.png)
 
 ## Een gatwerkgebied verwijderen {#delete-a-gate-stage}
 
-1. U kunt een Gate-werkgebied verwijderen door met de rechtermuisknop op het pictogram Gate-werkgebied te klikken en **Verwijderen** te selecteren.
+1. U kunt een Gate-werkgebied verwijderen door met de rechtermuisknop op het pictogram Gate-werkgebied te klikken en **Delete** te selecteren.
 
    ![](assets/image2015-4-28-12-3a30-3a19.png)
 
-1. U kunt ook een Gate-werkgebied verwijderen door erop te klikken en vervolgens in de vervolgkeuzelijst **Werkgebiedhandelingen** de optie **Verwijderen** te kiezen.
+1. U kunt ook een Gate-werkgebied verwijderen door erop te klikken en vervolgens in de vervolgkeuzelijst **Werkgebiedhandelingen** **Verwijderen** te selecteren.
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
-1. Beide methodes van schrapping vragen u om uw keus te bevestigen. Klik op **Verwijderen**.
+1. Beide methodes van schrapping vragen u om uw keus te bevestigen. Klik **Delete**.
 
    ![](assets/image2015-4-28-12-3a52-3a22.png)
 
