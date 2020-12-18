@@ -41,7 +41,7 @@ Hierdoor worden uw B2B-gegevens verbeterd en kunt u zich richten op relevante be
 
 Het dashboard RTP helpt u de verdeling van uw bezoekers volgens verticals en segmenten begrijpen RTP. Je kunt de prestaties van je bezoeker bekijken op basis van de branche en verschillende marketingcampagnes (betaald, organisch, sociaal) in verband met die branche. Het dashboard biedt ook een overzicht op hoog niveau van de sitesecties die uw bezoekers bekijken op basis van hun branchetype.
 
-## Gedragsrapport {#behavioral-report}
+## Gedragrapport {#behavioral-report}
 
 Verschillende gedragsrapporten kunnen in Adobe Analytics worden gecreeerd die op organisatie, industrie en RTP segmentgegevens wordt gebaseerd. Deze stroomrapporten visualiseren het pad dat bezoekers volgen van de ene pagina of gebeurtenis naar de volgende. Dit rapport kan u helpen ontdekken wat de inhoud houdt bezoekers betrokken bij uw site.
 
@@ -51,21 +51,21 @@ De campagnebeelden van RTP van de mening en omzettingen onder de Verbindingen va
 
 Dit rapport van de Verbinding van Douane zal beelden en omzettingen van campagnes onder het volgende noemende formaat tonen:
 
-* Impressie ISegment: [Naam]RTP-segment, ICampaign: [Naam RTP-campagne]
-* Conversie ISegment: [Naam]RTP-segment, ICampaign: [Naam RTP-campagne]
+* Impressie ISegment: [RTP-segmentnaam], ICampaign: [Naam van RTP-campagne]
+* Conversie ISegment: [RTP-segmentnaam], ICampaign: [Naam van RTP-campagne]
 
 ![](assets/custom-links-report.png)
 
-## Instellen in Adobe Analytics {#set-up-in-adobe-analytics}
+## In Adobe Analytics {#set-up-in-adobe-analytics} instellen
 
 De integratie maakt gebruik van de JavaScript API die Adobe Analytics biedt. Aangepaste conversievariabelen (eVar), aangepaste gebeurtenissen (gebeurtenis) en verkeersvariabelen worden in de integratie gebruikt. Alles moet zijn ingeschakeld vanuit AA-beheer. U moet de conversievariabelen, aangepaste gebeurtenissen en verkeersvariabelen instellen in AA, anders kunt u de gegevens in de suite niet zien, zelfs niet als u deze in RTP hebt ingeschakeld.
 
 Voer de volgende stappen uit om deze variabelen in te stellen in AA:
 
 1. Ga naar **Admin Tools** in uw AA-account.
-1. Selecteer de **rapportsuite** die bij de integratie moet worden gebruikt.
-1. Ga onder Instellingen **bewerken naar** Conversie **en selecteer **** Variabelen [](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)conversie**.\
-   Selecteer het aantal van de Variabele [van de](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) Omzetting (wij adviseren):
+1. Selecteer **Rapportsuite** om te gebruiken met de integratie.
+1. Onder **Instellingen bewerken gaat** naar **Conversie** en selecteert ** [Conversievariabelen](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)*.\
+   Selecteer [Conversievariabele](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aantal (wij adviseren):
 
    1. 
 
@@ -82,7 +82,7 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
 
          1. Wijzig Verlopen na veld in **Bezoek.**
 
-1. Onder **Instellingen bewerken **gaat u naar** Conversie **en selecteert u ** [Gebeurtenissen](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)** met succes.
+1. Onder **Instellingen bewerken **ga naar** Conversie **en selecteer ** [Gebeurtenissen met succes](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
 1. Selecteer het gebeurtenisnummer Aangepaste succesgebeurtenissen (aanbevolen):
 
@@ -93,11 +93,11 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
       >
       >Als deze # worden genomen, selecteer een ander beschikbaar aantal. Lijn dit aantal met het groefaantal in de Montages van de Rekening RTP uit.
 
-   1. Verander de twee gebeurtenisnamen in Campagnes **RTP** en Segmenten **RTP**. Dit is de naam die wordt weergegeven in de rapportsuite.
+   1. Wijzig de twee namen van gebeurtenissen in **RTP Campaigns** en **RTP Segments**. Dit is de naam die wordt weergegeven in de rapportsuite.
 
-1. Selecteer het veld Type* *dat **tellerveld moet zijn (geen subrelaties)**
+1. Selecteer het veld Type* *om **Teller (geen subrelaties)** te zijn
 
-1. Onder **Edit Montages** ga naar ** [Verkeer](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **en selecteer ** de Variabelen [van het](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)** Verkeer.
+1. Onder **Instellingen bewerken** ga naar ** [Verkeer](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **en selecteer ** [Verkeersvariabelen](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Selecteer het bezit van de Variabele van het Verkeer # (wij adviseren):
 
@@ -111,21 +111,21 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
          >Als deze # worden genomen, selecteer een ander beschikbaar aantal. Dit nummer uitlijnen met het sleufnummer in de instellingen voor RTP-account)
 
       1. Wijzig de 4 eigenschapnamen. Dit is de naam die wordt weergegeven in de rapportsuite.
-   1. Veld voor Ingeschakeld selecteren om **in te schakelen**
-   1. Veld voor padrapporten selecteren die moet worden **ingeschakeld**
+   1. Ingeschakeld veld selecteren voor **Ingeschakeld**
+   1. Selecteer het gebied van de Rapporten van de Weg aan **Ingeschakeld**
 
 
 ## Opstelling in Marketo Real-Time Personalization (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 
-1. Ga in het RTP-platform naar **Accountinstellingen**.
+1. Ga in het platform RTP naar **Accountinstellingen**.
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
 1. Klik onder **Accountinstellingen** op **Domein**.
 1. Klik onder **Analytics op** **Adobe Analytics**.
 1. Draai **On **de de veranderlijke knevels van de Omzetting, van de Douane en van het Verkeer.
-1. Wijs de de **groefaantallen** van de Variabelen van de Omzetting, van de Gebeurtenis en van het Verkeer toe om de groefaantallen aan te passen die in AA worden gecreeerd
-1. Klik op **OPSLAAN**.
+1. Wijs de conversie-, gebeurtenis- en verkeersvariabelen **sleufnummers** toe om overeen te komen met de sleufnummers die in AA zijn gemaakt
+1. Klik **OPSLAAN**.
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -183,35 +183,35 @@ Voorbeelden van aangepaste rapporten en dashboards in AA zijn:
 
 **Het RTP-dashboard maken**
 
-Creeer een [nieuw dashboard](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), genoemd **Dashboard** RTP. Dit dashboard zal helpen de verdeling van uw bezoekers volgens verticals en segmenten begrijpen RTP.
+Creeer een [nieuw dashboard](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), genoemd **RTP Dashboard**. Dit dashboard zal helpen de verdeling van uw bezoekers volgens verticals en segmenten begrijpen RTP.
 
-1. Klik op **dashboard,** klik op** Dashboard toevoegen**
+1. Klik op **Dashboard,** klik** Dashboard toevoegen**
 
-1. Geef het dashboard **RTP-dashboard een naam**
-1. Selecteer de **dashboardgrootte** 3 x 2, 2 x 2
-1. Maak het [rapport](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) en voeg [inhoud toe aan het dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
+1. Geef het dashboard een naam **RTP-dashboard**
+1. Selecteer **dashboardgrootte** 3 x 2, 2 x 2
+1. Maak het [reportlet](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) en voeg [inhoud toe aan het dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
 
 Het rapport Industrieën toevoegen aan het dashboard
 
 1. Ga naar **Aangepaste conversies**, klik op **Industrie**
 
-1. Grafiek configureren naar **schijfdiagram**
-1. Klik op **dashboard**, voeg **Rapporlet toe**
+1. Grafiek aan **Schijfdiagram** vormen
+1. Klik op **Dashboard**, voeg **ReportLet** toe
 
-1. Geef een naam aan het rapport **Top Industries**
-1. Plaatsen in Dashboard **RTP-dashboard**
-1. Maak **nieuw**.
+1. Geef het rapport een naam **Top Industries**
+1. Plaatsen in dashboard **RTP-dashboard**
+1. Maak **Nieuw**.
 
 De Segmentrapporten toevoegen aan het dashboard
 
-1. Ga naar **Metriek van de Plaats, **Klik op **Aangepaste Gebeurtenissen, Segmenten**
+1. Ga naar **Sitemetriek, **Klik op **Aangepaste Gebeurtenissen, Segmenten**
 
-1. Grafiek configureren naar **verticale balk**
-1. Klik op **dashboard**, voeg **Rapporlet toe**
+1. Grafiek configureren naar **Verticale balk**
+1. Klik op **Dashboard**, voeg **ReportLet** toe
 
-1. Geef de **bovenste segmenten van het rapport een naam**
-1. Plaatsen in Dashboard **RTP-dashboard**
-1. Maak **nieuw.**
+1. Geef het rapport **Top Segments** een naam
+1. Plaatsen in dashboard **RTP-dashboard**
+1. **Nieuw.**
 
 Uw rapporten worden weergegeven op het dashboard.
 
