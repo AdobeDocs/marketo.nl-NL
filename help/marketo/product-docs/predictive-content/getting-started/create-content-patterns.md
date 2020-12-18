@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Afhankelijk van de aankoopdatum kan uw abonnement op Marketo de optie Voorspelende inhoud of Inhoud`<sup>AI</sup>`markeren bevatten. Marketo schakelt de functie Content`<sup>AI</sup>` Analytics voor gebruikers die gebruikmaken van voorspellende inhoud in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager Succes bij Marketo-klanten om te upgraden naar Marketo-inhoud`<sup>AI</sup>`.
+>Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
-Wanneer u inhoudspatronen instelt, wordt de inhoud automatisch gedetecteerd wanneer een webbezoeker op de HTML-webpagina klikt die relevant is voor het inhoudspatroon. Hiermee worden HTML-pagina&#39;s (blogberichten, persberichten, nieuwsartikelen) toegevoegd als inhoudsonderdelen op de pagina Alle inhoud. Wanneer automatisch detecteren is gebaseerd op inhoudspatronen, worden HTML-pagina&#39;s gedetecteerd en bijgehouden die verwant zijn aan het gedefinieerde URL-patroon wanneer een webbezoeker een koppeling naar de pagina weergeeft of klikt. Dit inhoudsonderdeel (de URL, de paginanaam en de metagegevens inclusief de URL en beschrijving van de afbeelding) wordt toegevoegd aan de pagina Alle inhoud om voorspellende inhoud voor te bereiden. Als u andere inhoud automatisch wilt detecteren, zoals PDF&#39;s en ingesloten video, moet u [detectie](enable-content-discovery.md)van inhoud inschakelen.
+Wanneer u inhoudspatronen instelt, wordt de inhoud automatisch gedetecteerd wanneer een webbezoeker op de HTML-webpagina klikt die relevant is voor het inhoudspatroon. Hiermee worden HTML-pagina&#39;s (blogberichten, persberichten, nieuwsartikelen) toegevoegd als inhoudsonderdelen op de pagina Alle inhoud. Wanneer automatisch detecteren is gebaseerd op inhoudspatronen, worden HTML-pagina&#39;s gedetecteerd en bijgehouden die verwant zijn aan het gedefinieerde URL-patroon wanneer een webbezoeker een koppeling naar de pagina weergeeft of klikt. Dit inhoudsonderdeel (de URL, de paginanaam en de metagegevens inclusief de URL en beschrijving van de afbeelding) wordt toegevoegd aan de pagina Alle inhoud om voorspellende inhoud voor te bereiden. Voor automatische detectie van andere inhoud, zoals PDF&#39;s en ingesloten video, moet u [detectie van inhoud inschakelen](enable-content-discovery.md).
 
-1. Ga naar **Inhoud-instellingen**.
+1. Ga naar **Inhoudsinstellingen**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. Klik op **URL-patronen**.
+1. Klik **URL-patronen**.
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -37,17 +37,17 @@ Wanneer u inhoudspatronen instelt, wordt de inhoud automatisch gedetecteerd wann
 
    >[!NOTE]
    >
-   >De items in de vervolgkeuzelijst aan de rechterkant weerspiegelen de categorieën die u hebt ingesteld toen u categorieën [](set-up-categories.md)maakte.
+   >De punten in de drop-down lijst op het recht wijzen op de categorieën u opstelling wanneer u [categorieën ](set-up-categories.md) creeerde.
 
 1. Klik op **+ ** om een ander pad toe te voegen.
 
    ![](assets/url-patterns-add2.png)
 
-1. Voeg de extensie en categorie voor het extra pad toe en klik op **Opslaan**.
+1. Voeg de extensie en de categorie voor het extra pad toe en klik op **Opslaan**.
 
    ![](assets/url-patterns-save.png)
 
-## Regels voor inhoudspatronen {#content-pattern-rules}
+## Regels voor inhoudspatroon {#content-pattern-rules}
 
 * U kunt een jokerteken overal in een expressie gebruiken (voorbeeld: *domain.com/**, *domain.com/*blog**)
 
@@ -75,7 +75,7 @@ Voor *domain.com*:
    <td><p>Hiermee wordt alle inhoud gevonden die overeenkomt met het patroon domain.com/article/2017/:</p><p>domain.com/article/2017/5-top-tricks</p></td> 
   </tr> 
   <tr> 
-   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
+   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="—"></td> 
    <td><p>Ontdekt om het even welke URL die het woord "datasheets bevat:"</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
   </tr> 
   <tr> 
