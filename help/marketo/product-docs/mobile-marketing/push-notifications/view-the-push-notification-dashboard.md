@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Het is eenvoudig te zien hoe uw pushmeldingen werken.
 
-1. Ga naar het gebied **Marketingactiviteiten** .
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,7 +23,7 @@ Het is eenvoudig te zien hoe uw pushmeldingen werken.
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Klik op **Weergave: Samenvatting** en selecteer **dashboard**.
+1. Klik op **Weergave: Samenvatting** en selecteer **Dashboard**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
@@ -33,7 +33,7 @@ Het is eenvoudig te zien hoe uw pushmeldingen werken.
 
    >[!NOTE]
    >
-   >De **Verzonden** metrische waarde kan meer wijzen verzendt dan het nauwkeurige aantal mensen aan wie het dupbericht werd verzonden. Dat komt omdat het berekend is op basis van het *aantal apparaten* dat in aanmerking komt voor je push. Bijvoorbeeld, als één enkele persoon drie apparaten heeft, het dashboardregister drie verzendt, niet één.
+   >De **Verzonden** metrische waarde kan meer wijzen verzendt dan het nauwkeurige aantal mensen aan wie het dupbericht werd verzonden. Dat komt omdat het berekend is op basis van het *aantal apparaten* dat in aanmerking komt om uw push te ontvangen. Bijvoorbeeld, als één enkele persoon drie apparaten heeft, het dashboardregister drie verzendt, niet één.
 
    >[!NOTE]
    >
