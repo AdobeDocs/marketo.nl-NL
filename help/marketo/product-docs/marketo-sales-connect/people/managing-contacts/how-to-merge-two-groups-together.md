@@ -14,7 +14,7 @@ ht-degree: 0%
 # Twee groepen samenvoegen {#how-to-merge-two-groups-together}
 
 1. Ga in één van de groepen u wilt samenvoegen en alle contacten selecteren.
-1. Selecteer Personen **toevoegen aan groep**.
+1. Selecteer **Personen toevoegen aan groep**.
 1. Er wordt een venster weergegeven waarin de samenvoeging wordt gecontroleerd. Selecteer de groep u de contacten aan wilt bewegen.
 
    >[!NOTE]
