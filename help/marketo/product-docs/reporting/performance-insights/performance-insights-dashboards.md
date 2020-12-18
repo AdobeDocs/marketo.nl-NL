@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Dashboards met prestatie-inzichten {#performance-insights-dashboards}
+# Prestatie-inhouds-dashboards {#performance-insights-dashboards}
 
 Meer informatie over de beschikbare dashboards in MPI.
 
@@ -25,7 +25,7 @@ Met het dashboard Betrokkenheid kunt u de effectiviteit van uw programma&#39;s v
 
 Maatschappelijke betrokkenheid
 
-Kies de metrische waarde voor **Succes** om de betrokkenheid van het publiek in uw programma&#39;s voor het opvoeden te meten. Succes is een maatstaf voor betekenisvolle interactie in Marketo.
+Kies **Successen** metrisch om publieksbetrokkenheid in uw programma&#39;s van de Zorg te meten. Succes is een maatstaf voor betekenisvolle interactie in Marketo.
 
 ![](assets/3-4.png)
 
@@ -39,7 +39,7 @@ Het doel van een programma is een zinvolle interactie met de persoon of het voor
 
 Nieuwe naamverwerving meten
 
-Kies metrisch **Nieuwe Namen** om de doeltreffendheid van uw nieuwe programma&#39;s van de naamverwerving te meten.
+Kies **Nieuwe Namen** metrisch om de doeltreffendheid van uw nieuwe programma&#39;s van de naamverwerving te meten.
 
 ![](assets/4-3.png)
 
@@ -82,7 +82,7 @@ Het Pipeline dashboard toont kanaalprestaties door eerste-aanraak en multi-aanra
  </tbody> 
 </table>
 
-## Ontvangsten {#revenue}
+## Opbrengst {#revenue}
 
 Het belastingdashboard laat kanaalprestaties zien door middel van &#39;first-touch&#39; en multi-touch metriek.
 
