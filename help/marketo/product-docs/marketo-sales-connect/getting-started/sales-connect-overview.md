@@ -21,19 +21,19 @@ Marketo Sales Connect is een veelzijdige oplossing voor verkoopondersteuning met
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
 
-## De Live feed {#the-live-feed}
+## Live feed {#the-live-feed}
 
-Vertegenwoordigers kunnen de [real-time betrokkenheid](http://docs.marketo.com/x/d4TS) van zowel marketing als verkoopinhoud bekijken.
+Verkoopvertegenwoordigers kunnen [real-time betrokkenheid](http://docs.marketo.com/x/d4TS) van zowel marketing- als verkoopinhoud weergeven.
 
 ![](assets/engagement.jpg)
 
-## Persoonsgegevens weergeven {#person-detail-view}
+## Persoonsdetailweergave {#person-detail-view}
 
-Toegang tot [gedetailleerde persoonstatistieken](http://docs.marketo.com/x/e4TS).
+Toegang [gedetailleerde status van personen](http://docs.marketo.com/x/e4TS).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## Resultaten bekijken in uw logboek Marktactiviteiten {#see-results-in-your-marketo-activity-log}
+## Zie Resultaten in uw Marketo Activity Log {#see-results-in-your-marketo-activity-log}
 
 Zie hoe je verkoopkansen in huis hebben.
 
@@ -63,7 +63,7 @@ Zie hoe je verkoopkansen in huis hebben.
   </tr> 
   <tr> 
    <td colspan="1"><p>Verkoper ontvangen</p></td> 
-   <td colspan="1"><p>De leider ontving een vraag van een verkoper gebruikend de Telefoon <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">van de</a>Verkoop.</p></td> 
+   <td colspan="1"><p>De lood ontving een vraag van een verkoper gebruikend <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">Telefoon </a> van de Verkoop.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Toevoegen aan verkoopcampagne</p></td> 
@@ -80,7 +80,7 @@ Zie hoe je verkoopkansen in huis hebben.
  </tbody> 
 </table>
 
-## Marketing-campagnes delen {#share-marketing-campaigns}
+## Marketingcampagnes delen {#share-marketing-campaigns}
 
 Maak een eenvoudige slimme campagne om uw verkoopgebruikers toegang te geven tot [Marketo-campagnegegevens](http://docs.marketo.com/x/NwDh).
 
