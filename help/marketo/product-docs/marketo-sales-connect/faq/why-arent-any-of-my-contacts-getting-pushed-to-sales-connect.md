@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Waarom worden mijn contacten niet geduwd op Sales Connect? {#why-arent-any-of-my-contacts-getting-pushed-to-sales-connect}
 
-Als geen contacten werden geduwd over, is het mogelijk u een ongeldige verbinding Salesforce hebt. Ga naar uw [Salesforce-instellingen](http://toutapp.com/next#settings/crm/salesforce/configure) en verbreek de verbinding en maak vervolgens opnieuw verbinding. Geef het ongeveer 20 minuten om volledig opnieuw in te stellen. Als het daarna nog steeds nul is, [dient u een zaak](http://nation.marketo.com/community/support_solutions) in bij Support.
+Als geen contacten werden geduwd over, is het mogelijk u een ongeldige verbinding Salesforce hebt. Ga naar uw [Salesforce-instellingen](http://toutapp.com/next#settings/crm/salesforce/configure) en verbreek de verbinding en maak vervolgens opnieuw verbinding. Geef het ongeveer 20 minuten om volledig opnieuw in te stellen. Als het na dat nog nul is, gelieve [een geval ](http://nation.marketo.com/community/support_solutions) aan Steun voor te leggen.
