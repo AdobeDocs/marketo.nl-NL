@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Overzicht rapporttype {#report-type-overview}
 
-Wanneer u een rapport in een programma [](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)creeert, kies welk type van rapport u wilt.
+Wanneer u [een rapport in een programma ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) creeert, kies welk type van rapport u wilt.
 
 ## Meest gebruikte rapporten {#most-used-reports}
 
@@ -47,7 +47,7 @@ Wanneer u een rapport in een programma [](../../../../product-docs/reporting/bas
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Rapport Personen op omzet</a>  </strong></td> 
-   <td>Basisrapportage voor uw <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">inkomstenmodel</a>. Zie <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Revenue Cycle Analytics</a> voor diepere rapportering.</td> 
+   <td>Basisrapportage voor uw <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">inkomstenmodel</a>. Zie <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Analyse van de conjunctuurcyclus</a> voor diepere rapportering.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestaties van bestemmingspagina</a>  </strong></td> 
@@ -55,7 +55,7 @@ Wanneer u een rapport in een programma [](../../../../product-docs/reporting/bas
   </tr> 
   <tr> 
    <td><strong>  <a href="../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programmaprestaties</a>  </strong></td> 
-   <td>Elementaire programma's zoals leden en succes. Zie <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Revenue Cycle Analytics</a> voor diepere rapportering.</td> 
+   <td>Elementaire programma's zoals leden en succes. Zie <a href="http://docs.marketo.com/display/docs/revenue+cycle+analytics">Analyse van de conjunctuurcyclus</a> voor diepere rapportering.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">Webactiviteit bedrijf</a>  </strong></td> 
@@ -71,7 +71,7 @@ Wanneer u een rapport in een programma [](../../../../product-docs/reporting/bas
   </tr> 
   <tr> 
    <td><strong> <a href="../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Prestatierapport voor betrokkenheidsstream</a> </strong></td> 
-   <td><p>Kijk hoe goed uw <a href="http://docs.marketo.com/display/docs/drip+nurturing">serviceprogramma</a> werkt.</p></td> 
+   <td><p>Zie hoe goed uw <a href="http://docs.marketo.com/display/docs/drip+nurturing">betrokkenheidsprogramma</a> werkt.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -83,11 +83,11 @@ Niet zo nuttig zoals de rapporttypes hierboven, maar nog beschikbaar.
 | Rapport | Beschrijving |
 |---|---|
 | ** [Campagne-activiteit](campaign-activity-report.md) ** | Verwerkingsstatus van slimme campagnes. |
-| ** [Campagne-e-mailprestaties](campaign-email-performance-report.md) ** | E-mailprestaties, gegroepeerd op slimme campagnes. |
+| ** [E-mailprestaties campagne](campaign-email-performance-report.md) ** | E-mailprestaties, gegroepeerd op slimme campagnes. |
 
 >[!NOTE]
 >
 >**Diep duiken**
 >
->Om alle dingen te zien u met deze rapporten kunt doen, zie de [Basis die diep duik meldt](http://docs.marketo.com/display/docs/basic+reporting) .
+>Om alle dingen te zien u met deze rapporten kunt doen, zie [Basis Rapportering](http://docs.marketo.com/display/docs/basic+reporting) diep duik.
 
