@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een segment maken met bekende persoongegevens {#create-a-segment-using-known-person-data}
+# Een segment maken met behulp van bekende persoongegevens {#create-a-segment-using-known-person-data}
 
 Hier is hoe te om een segment tot stand te brengen gebruikend Bekende waarden van de Gegevens van de Persoon.
 
@@ -23,7 +23,7 @@ Hier is hoe te om een segment tot stand te brengen gebruikend Bekende waarden va
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Klik op **Nieuw** maken.
+1. Klik **Nieuw maken**.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -47,9 +47,9 @@ Hier is hoe te om een segment tot stand te brengen gebruikend Bekende waarden va
 
    ![](assets/seven-1.png)
 
-## Meerdere gegevensvelden selecteren {#selecting-multiple-person-data-fields}
+## Gegevensvelden van meerdere personen selecteren {#selecting-multiple-person-data-fields}
 
-1. Klik **+** om een ander gegevensveld voor personen toe te voegen.
+1. Klik **+** om een ander gebied van persoongegevens toe te voegen.
 
    ![](assets/eight.png)
 
@@ -57,7 +57,7 @@ Hier is hoe te om een segment tot stand te brengen gebruikend Bekende waarden va
 
    ![](assets/nine.png)
 
-1. Klik op **Opslaan** om het segment op te slaan of op **Campagne opslaan en definiëren **om het segment op te slaan en naar de pagina Campagnes te gaan.
+1. Klik **sparen** om het segment op te slaan of **sparen &amp; bepalen Campagne **om te bewaren en naar de pagina van Campagnes te gaan.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
