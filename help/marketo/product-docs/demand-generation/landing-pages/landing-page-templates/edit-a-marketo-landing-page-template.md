@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een sjabloon voor een bestemmingspagina markeren bewerken {#edit-a-marketo-landing-page-template}
+# Sjabloon {#edit-a-marketo-landing-page-template} voor bestemmingspagina markeren bewerken
 
 U kunt elke sjabloon van een openingspagina bewerken in Marketo.
 
@@ -19,11 +19,11 @@ U kunt elke sjabloon van een openingspagina bewerken in Marketo.
 
    ![](assets/designstudio.png)
 
-1. Vouw de **bestemmingspagina** uit om de sjablonen weer te geven.
+1. Vouw **Landing Pages** uit om de sjablonen weer te geven.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Selecteer de **sjabloon** die u wilt bewerken. Klik op** Concept bewerken**.
+1. Selecteer **Sjabloon** u wilt bewerken. Klik op** Concept bewerken**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
