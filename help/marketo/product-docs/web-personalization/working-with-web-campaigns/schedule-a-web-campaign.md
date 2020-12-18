@@ -23,15 +23,15 @@ U kunt de webcampagne plannen op basis van de tijd van de webbezoeker of een ges
 >
 >Het plannen van begin en einddata is groot voor een geplande gebeurtenis, zoals een Webinar, die voor een specifieke periode loopt. Herhalingen zijn perfect voor een speciale aanbieding die elke week maar op een bepaalde dag loopt.
 
-1. Ga naar **webcampagnes**.
+1. Ga naar **Webcampagnes**.
 
    ![](assets/image2016-8-18-16-3a38-3a47.png)
 
    >[!NOTE]
    >
-   >Met de [filterfunctie](filter-web-campaigns.md)kunt u gemakkelijker de gewenste campagne vinden.
+   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik [filtereigenschap](filter-web-campaigns.md).
 
-1. Open het menu Campagnestatus en selecteer **Planning**.
+1. Open het menu Campagnestatus en selecteer **Schema**.
 
    ![](assets/image2016-8-18-16-3a41-3a45.png)
 
@@ -51,11 +51,11 @@ U kunt de webcampagne plannen op basis van de tijd van de webbezoeker of een ges
    >
    >U kunt de datum en tijd selecteren in het keuzemenu en de kalender of ze handmatig invoeren. De tijden zijn in 12 uur AM/PM tijd.
 
-1. Standaard wordt de campagne elke dag tussen de begin- en einddatum uitgevoerd. Als u de campagne alleen op specifieke dagen of op specifieke tijdstippen wilt uitvoeren, gebruikt u de instellingen voor **Herhalen** . Selecteer de dag en de begin- en eindtijd om de campagne weer te geven. Gebruik het plusteken + om extra dagen toe te voegen.
+1. Standaard wordt de campagne elke dag tussen de begin- en einddatum uitgevoerd. Als u de campagne alleen op specifieke dagen of op specifieke tijdstippen wilt uitvoeren, gebruikt u de instellingen **Herhalen**. Selecteer de dag en de begin- en eindtijd om de campagne weer te geven. Gebruik het plusteken + om extra dagen toe te voegen.
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. Klik op **Schema**.
+1. Klik **Schema**.
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
@@ -65,5 +65,5 @@ U kunt de webcampagne plannen op basis van de tijd van de webbezoeker of een ges
 
    >[!NOTE]
    >
-   >De campagnestatus blijft zoals **Gepland** zelfs wanneer de campagne tijdens de geselecteerde geplande tijden loopt. Wanneer een geplande einddatum is overgegaan, verandert de campagnestatus in **Gepauzeerd**.
+   >De campagnestatus blijft als **Gepland** zelfs wanneer de campagne tijdens de geselecteerde geplande tijden loopt. Wanneer een geplande einddatum is overgegaan, verandert de campagnestatus in **Gepauzeerd**.
 
