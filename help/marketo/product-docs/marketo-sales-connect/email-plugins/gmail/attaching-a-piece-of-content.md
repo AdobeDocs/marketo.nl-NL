@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Een stuk inhoud bijvoegen {#attaching-a-piece-of-content}
+# Een stuk inhoud {#attaching-a-piece-of-content} bijvoegen
 
 U kunt traceerbare inhoud toevoegen door op de knop **Inhoud** te klikken en een bestand te uploaden. Eerder bijgehouden inhoud wordt weergegeven, zodat u deze in het pop-upvenster kunt selecteren zonder dat u de inhoud opnieuw hoeft te uploaden.
 
