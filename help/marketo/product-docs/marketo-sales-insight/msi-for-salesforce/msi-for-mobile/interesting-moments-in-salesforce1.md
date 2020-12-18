@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Interesserende momenten in Salesforce1 {#interesting-moments-in-salesforce}
 
-[Het gebruik van interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) is de sleutel tot communicatie met uw verkoopteam via de app Marktverkoopinzicht. Met Marketo Sales Insight voor Salesforce1 kunt u hetzelfde doen met uw smartphone!
+[Het gebruiken van Interessant ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) Momentsis de sleutel aan het communiceren met uw verkoopteam door Marketo de app van het Inzicht van de Verkoop. Met Marketo Sales Insight voor Salesforce1 kunt u hetzelfde doen met uw smartphone!
 
 >[!AVAILABILITY]
 >
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Klik op het tabblad **Verwante** informatie om Interesserende momenten, Webactiviteit, E-mail en Score weer te geven.
+1. Klik op het tabblad **Verwant** om Interesserende momenten, Webactiviteit, E-mail en Score weer te geven.
 
    ![](assets/two.png)
 
