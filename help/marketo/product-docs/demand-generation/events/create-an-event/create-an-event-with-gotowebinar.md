@@ -17,36 +17,36 @@ ht-degree: 0%
 >
 >* [GoToWebinar toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Stel de juiste [stroomhandelingen in om de betrokkenheid](http://docs.marketo.com/display/DOCS/Flow+Actions)bij te houden
+>* Stel de juiste [flowhandelingen](http://docs.marketo.com/display/DOCS/Flow+Actions)in om de betrokkenheid bij te houden
 
 
 Maak eerst uw webinar in GoToWebinar. Bepaalde instellingen bij het maken van uw GoToWebinar worden gebruikt door Marketo en sommige worden alleen gebruikt door GoToWebinar.
 
-Nadat u een Marketo-gebeurtenis hebt gemaakt en de GoToWebinar hieraan hebt gekoppeld, kunnen de systemen gegevens over registratie en aanwezigheid delen. Zie de [GoToWebinar User Guide](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf)voor hulp bij het maken van een GoToWebinar.
+Nadat u een Marketo-gebeurtenis hebt gemaakt en de GoToWebinar hieraan hebt gekoppeld, kunnen de systemen gegevens over registratie en aanwezigheid delen. Zie de [GoToWebinar User Guide](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf) voor hulp bij het maken van een GoToWebinar.
 
 Hieronder ziet u een lijst met de instellingen die Marketo gebruikt.
 
 ## Titel en beschrijving {#title-and-description}
 
-**Webinar Naam** - ga de naam voor webinar in. Deze naam wordt weergegeven in Marketo.
+**Webinar Naam**  - ga de naam voor webinar in. Deze naam wordt weergegeven in Marketo.
 
-**Beschrijving** (optioneel) - voer de beschrijving van het webinar in. De beschrijving is &#39;viewable in Marketo.
+**Beschrijving**  (optioneel) - voer de beschrijving van het webinar in. De beschrijving is &#39;viewable in Marketo.
 
 ![](assets/image2015-5-28-15-3a1-3a36.png)
 
 ## Datum en tijd {#date-time}
 
-`Enter the following information for your webinar and it will be pulled into Marketo via the`-adapter. Als u wijzigingen aanbrengt in deze gegevens, moet u op de koppeling &quot;**Vernieuwen vanaf webinar provider**&quot; onder **Gebeurtenishandelingen** klikken om de wijzigingen te kunnen zien.
+`Enter the following information for your webinar and it will be pulled into Marketo via the`-adapter. Als u om het even welke veranderingen in deze informatie aanbrengt, moet u de verbinding &quot;**verfrissen van Webinar Leverancier**&quot;onder **Gebeurtenisacties**, opdat Marketo de veranderingen ziet.
 
-**Begindatum** - voer uw begindatum in. Dit wordt weergegeven in Marketo.
+**Begindatum**  - voer uw begindatum in. Dit wordt weergegeven in Marketo.
 
-**Begintijd** - voer uw begintijd in. Dit wordt weergegeven in Marketo.
+**Begintijd** : voer uw begintijd in. Dit wordt weergegeven in Marketo.
 
-**Eindtijd** - voer uw eindtijd in. Dit wordt weergegeven in Marketo.
+**Eindtijd**  - voer uw eindtijd in. Dit wordt weergegeven in Marketo.
 
-**Tijdzone** - selecteer de toepasselijke tijdzone. Het zal in Marketo kunnen worden bekeken.
+**Tijdzone**  - selecteer de toepasselijke tijdzone. Het zal in Marketo kunnen worden bekeken.
 
-**Type -** is ingesteld op **Eén sessie**.
+**Type -** set aan  **Eén sessie**.
 
 ![](assets/image2015-5-28-15-3a7-3a1.png)
 
@@ -56,11 +56,11 @@ Hieronder ziet u een lijst met de instellingen die Marketo gebruikt.
 
 >[!TIP]
 >
->Er zijn extra gebieden die u in GoToWebinar zult vormen die NIET de integratie zullen beïnvloeden. Raadpleeg de [GoToWebinar User Guide](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf) voor aanvullende informatie over deze velden, omdat deze niet in dit artikel worden behandeld. Ga naar de [Help-site](http://support.logmeininc.com/gotowebinar)als u meer hulp van GoToWebinar nodig hebt.
+>Er zijn extra gebieden die u in GoToWebinar zult vormen die NIET de integratie zullen beïnvloeden. Raadpleeg de [GoToWebinar User Guide](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf) voor aanvullende informatie over deze velden, omdat deze niet in dit artikel worden behandeld. Als u extra hulp GoToWebinar nodig hebt, gelieve hun [Hulp Plaats](http://support.logmeininc.com/gotowebinar) te bezoeken.
 
 Laten we nu naar Marketo springen!
 
-1. Selecteer een gebeurtenis. Klik op **Gebeurtenishandelingen** en kies **Gebeurtenisinstellingen**.
+1. Selecteer een gebeurtenis. Klik **Gebeurtenishandelingen** en kies **Gebeurtenisinstellingen**.
 
    ![](assets/image2015-5-14-14-3a53-3a10.png)
 
@@ -68,7 +68,7 @@ Laten we nu naar Marketo springen!
    >
    >Het kanaaltype van de geselecteerde gebeurtenis moet **webinar** zijn.
 
-1. Kies **GoToWebinar** van de Lijst van de **Partner** van de **Gebeurtenis** .
+1. Kies **GoToWebinar** uit **Event** **Partner** Lijst.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -80,7 +80,7 @@ Laten we nu naar Marketo springen!
 
    ![](assets/image2015-5-14-14-3a57-3a31.png)
 
-1. Klik op **Opslaan**.
+1. Klik **Opslaan**.
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
@@ -96,7 +96,7 @@ Laten we nu naar Marketo springen!
    >
    >Gebruik de volgende token in uw e-mail om het bevestigingsbericht te vullen met deze unieke URL: `{{member.webinar url}}`. Wanneer de bevestiging-URL wordt verzonden, wordt deze token automatisch omgezet in de unieke bevestiging-URL van de persoon.
    >
-   >Stel het bevestigingsbericht in op **Operationeel** om ervoor te zorgen dat personen die zich registreren en mogelijk worden afgemeld, nog steeds hun bevestigingsgegevens ontvangen.
+   >Stel uw bevestigingsbericht in op **Operationeel** om ervoor te zorgen dat personen die zich registreren en mogelijk niet-geabonneerd zijn, nog steeds hun bevestigingsgegevens ontvangen.
 
    ![](assets/goto-webinar.png)
 
@@ -106,13 +106,13 @@ Laten we nu naar Marketo springen!
 
    >[!TIP]
    >
-   >Het kan tot 48 uur duren voordat de gegevens in Marketo verschijnen. Als na het wachten dat lang u nog niets ziet, uitgezocht **verfrist zich van Leverancier** van de Gebeurtenis van het menu van de Acties van de Gebeurtenis in het **Samenvatting** lusje van uw gebeurtenis.
+   >Het kan tot 48 uur duren voordat de gegevens in Marketo verschijnen. Als na het wachten dat lang u nog niets ziet, uitgezocht **verfrist zich van Webinar Leverancier** van het menu van de Acties van de Gebeurtenis in **Samenvatting** lusje van uw gebeurtenis.
 
 Personen die zich aanmelden voor uw webinar, worden via de stap Program Status wijzigen naar uw webinar geduwd wanneer de Nieuwe status is ingesteld op &quot;Geregistreerd&quot;. Geen andere status zal de persoon over duwen. Zorg er ook voor dat u in stap 1 van de statusstroom van het programma Wijzigen en stap 2 in de E-mailflow verzendt.
 
-## Het overzicht weergeven  {#viewing-the-schedule}
+## Het schema {#viewing-the-schedule} weergeven
 
-Klik in de [programmaweergave](http://docs.marketo.com/display/docs/program+schedule+view)van het programma op de kalendervermelding voor de gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien.
+In [programmamening ](http://docs.marketo.com/display/docs/program+schedule+view), klik de kalenderingang voor uw gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien.
 
 >[!NOTE]
 >
