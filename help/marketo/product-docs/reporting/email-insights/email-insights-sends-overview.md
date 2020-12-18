@@ -17,7 +17,7 @@ Controleer op de pagina Verzenden de kenmerken van recente e-mailcommunicatie.
 
 ![](assets/one.png)
 
-Gebruik [filters](filtering-in-email-insights.md) om op te geven welke e-mails u wilt zien.
+Gebruik [filteren](filtering-in-email-insights.md) om op te geven welke e-mails u wilt zien.
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ Rechts op de pagina vind je verschillende informatie over je verzonden e-mails.
 
 ![](assets/two-1.png)
 
-**Type** geeft het type element aan dat wordt gebruikt.\
-**Het nummer van de ontvanger** is hoeveel personen het e-mailbericht hebben ontvangen.\
-**Met de maatstaven** voor levering kunt u snel zien hoeveel e-mails zijn bezorgd, in behandeling zijn of zijn teruggestuurd.\
-**Met Betrokkenheidsgegevens** kunt u snel zien hoeveel ontvangers een e-mail hebben geopend, erop hebben geklikt en het abonnement hebben opgezegd.\
-**Score** is de [betrokkenheidsscore](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)van je e-mail.
+**Met** Typeaanduiding wordt het gebruikte element aangegeven.\
+**Het** nummer van de ontvanger is het aantal personen dat de e-mail heeft ontvangen.\
+**Met** de leveringsmetagegevens kunt u snel zien hoeveel e-mails zijn bezorgd, in behandeling zijn of zijn teruggestuurd.\
+**Met** de metrieke weergave van betrokkenheid kunt u snel zien hoeveel ontvangers een e-mail hebben geopend, erop hebben geklikt en het abonnement hebben opgezegd.\
+**** Scores zijn de  [Engagement Score](../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) van je e-mail.
 
 Uw e-mails worden standaard gesorteerd op de meest recente, maar u kunt ze sorteren op elke beschikbare metrische waarde.
 
