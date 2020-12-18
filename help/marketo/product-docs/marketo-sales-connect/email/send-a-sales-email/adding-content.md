@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Inhoud toevoegen {#adding-content}
+# Inhoud {#adding-content} toevoegen
 
-Als u traceerbare inhoud aan uw e-mailberichten wilt toevoegen, opent u een nieuw venster Samenstellen. Klik op **Inhoud**.
+Als u traceerbare inhoud aan uw e-mailberichten wilt toevoegen, opent u een nieuw venster Samenstellen. Klik **Inhoud**.
 
-Als u eerder inhoud hebt toegevoegd, worden deze bestanden weergegeven. Als dat niet het geval is, klikt u op **Uploaden** om inhoud van uw computer toe te voegen.
+Als u eerder inhoud hebt toegevoegd, worden deze bestanden weergegeven. Als niet, klik **Upload** om inhoud van uw computer toe te voegen.
 
 >[!NOTE]
 >
