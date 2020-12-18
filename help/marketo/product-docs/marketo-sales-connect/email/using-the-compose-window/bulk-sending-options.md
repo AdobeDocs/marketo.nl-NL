@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Opties voor bulkverzending {#bulk-sending-options}
 
-Het bulksgewijs verzenden van e-mails is een geweldige manier om uw betrokkenheid bij het vooruitzicht te versnellen. Sales Connect biedt twee manieren om e-mailberichten bulksgewijs te verzenden: **Groepeer e-mails** en **selecteer en verzend**. Groepse e-mailberichten zijn een uitstekende manier om honderden e-mails snel naar een bepaalde groep te sturen. Het gebruiken van Uitgezocht en verzendt betekent lagere e-mailgrenzen, maar het biedt meer aanpassingsmogelijkheden aan de gebruiker.
+Het bulksgewijs verzenden van e-mails is een geweldige manier om uw betrokkenheid bij het vooruitzicht te versnellen. Sales Connect biedt twee manieren om e-mailberichten bulksgewijs te verzenden: **E-mails groeperen** en **Selecteren en verzenden**. Groepse e-mailberichten zijn een uitstekende manier om honderden e-mails snel naar een bepaalde groep te sturen. Het gebruiken van Uitgezocht en verzendt betekent lagere e-mailgrenzen, maar het biedt meer aanpassingsmogelijkheden aan de gebruiker.
 
 Groep e-mail vs. selecteren en verzenden
 
@@ -28,25 +28,25 @@ Groep e-mail vs. selecteren en verzenden
  </colgroup> 
  <tbody> 
   <tr> 
-   <th><p><span>Verzendtype</span><span></span> </p></th> 
-   <th><p><span>Max. aantal </span><span></span><span>e-mails</span> </p></th> 
-   <th><p><span>Gestart </span><span>Verzenden door</span></p></th> 
-   <th><p><span>E-mails </span><span>bewerken in bulk</span> </p></th> 
-   <th><p><span>Elke e-mail</span><span> </span><span>uniek bewerken</span> </p></th> 
-   <th><p><span>Ondersteuning voor sjabloon en </span><span>dynamisch veld</span> </p></th> 
+   <th><p><span></span><span> SendType</span> </p></th> 
+   <th><p><span>Max. aantal  </span><span></span><span>e-mails</span> </p></th> 
+   <th><p><span>Gestart  </span><span>Verzenden door</span></p></th> 
+   <th><p><span>E-mails  </span><span>bewerken in bulk</span> </p></th> 
+   <th><p><span>E-mail </span><span> uniek  </span><span>bewerken</span> </p></th> 
+   <th><p><span>Ondersteuning voor sjabloon en  </span><span>dynamisch veld</span> </p></th> 
   </tr> 
   <tr> 
    <td><p><span>Groep-e-mail</span> </p></td> 
-   <td><p><span>1,000</span> </p></td> 
-   <td><p><span>Selecteer een groep en klik</span><span> op de knop </span><span></span><span>Handelingen groeperen of typ de naam van de groep in het veld Aan. </span> </p></td> 
+   <td><p><span>1 000</span> </p></td> 
+   <td><p><span>Selecteer een groep en </span><span> klik op de knop  </span><span> </span><span>"Handelingen groeperen" of typ de naam van de groep in het veld Aan.  </span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
    <td><p><span>Nee</span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
   </tr> 
   <tr> 
-   <td><p><span>Selecteren </span><span>en </span><span>verzenden</span> </p></td> 
+   <td><p><span>Selecteren  </span><span>en  </span><span>verzenden</span> </p></td> 
    <td><p><span>200</span> </p></td> 
-   <td><p><span>Selecteer personen in het raster en klik op de knop "Geselecteerde e-mail" op de actiebalk</span><span></span><span>of typ ontvangers in de </span><span>zijbalk</span><span>van de grote hoeveelheid e-mail.</span></p></td> 
+   <td><p><span>Selecteer personen in het raster en klik op de knop "Geselecteerde e-mail" op de actiebalk</span><span> </span><span>of typ ontvangers in de  </span><span>zijbalk</span><span> van de grote hoeveelheid e-mail.</span></p></td> 
    <td><p><span>Ja</span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
