@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Bouw een Rapport van de Prestaties van Mensen met Mobiele Kolommen van het Platform {#build-a-people-performance-report-with-mobile-platform-columns}
+# Bouw een Rapport van de Prestaties van Mensen met Mobiele Kolommen {#build-a-people-performance-report-with-mobile-platform-columns} van het Platform
 
 Ga als volgt te werk om een People Performance Report met kolommen voor mobiele platforms (iOS/Android) te maken.
 
 ## Mobiele slimme lijsten maken {#create-mobile-smart-lists}
 
-1. Ga naar **marketingactiviteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma.png)
 
@@ -25,11 +25,11 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
 
    ![](assets/two-1.png)
 
-1. Selecteer onder **Nieuw** de optie **Nieuw lokaal element**.
+1. Onder **Nieuw** selecteert u **Nieuw lokaal element**.
 
    ![](assets/three-1.png)
 
-1. Klik op **Slimme lijst**.
+1. Klik **Slimme lijst**.
 
    ![](assets/four-1.png)
 
@@ -41,11 +41,11 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
 
    ![](assets/six-1.png)
 
-1. Stel de e-mail in op **een willekeurige** e-mail.
+1. Stel de e-mail in op **is een willekeurige**.
 
    ![](assets/seven.png)
 
-1. Klik op Restrictie **toevoegen** en selecteer **Platform**.
+1. Klik op **Restrictie toevoegen** en selecteer **Platform**.
 
    ![](assets/eight.png)
 
@@ -65,23 +65,23 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
 
 ## Een prestatierapport voor mensen maken {#create-a-people-performance-report}
 
-1. Selecteer onder Marketingactiviteiten het programma waarin uw slimme lijsten voor **iOS** en **Android** zijn opgeslagen.
+1. Selecteer onder Marketingactiviteiten het programma waarin uw **iOS** en **Android** slimme lijsten zijn ondergebracht.
 
    ![](assets/ten.png)
 
-1. Selecteer onder **Nieuw** de optie **Nieuw lokaal element**.
+1. Onder **Nieuw** selecteert u **Nieuw lokaal element**.
 
    ![](assets/eleven.png)
 
-1. Klik op **Rapport**.
+1. Klik **Rapport**.
 
    ![](assets/twelve.png)
 
-1. Stel Type in op Prestaties **van** personen.
+1. Stel Type in op **Prestaties van personen**.
 
    ![](assets/thirteen.png)
 
-1. Klik op **Maken**.
+1. Klik **Maken**.
 
    ![](assets/fourteen.png)
 
@@ -89,7 +89,7 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
 
 ## Mobiele slimme lijsten toevoegen als kolommen {#add-mobile-smart-lists-as-columns}
 
-1. In het rapport u enkel creeerde, klik **Opstelling**, dan sleep de Kolommen **van de** Douane in het canvas.
+1. In het rapport u enkel creeerde, klik **Opstelling**, dan sleep **Douane Kolommen** in het canvas.
 
    ![](assets/fifteen.png)
 
@@ -101,7 +101,7 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
 
    ![](assets/sixteen.png)
 
-1. Klik op **Rapport** om het rapport uit te voeren en uw gegevens te bekijken.
+1. Klik **Rapport** om het rapport in werking te stellen en uw gegevens te zien.
 
    ![](assets/seventeen.png)
 
