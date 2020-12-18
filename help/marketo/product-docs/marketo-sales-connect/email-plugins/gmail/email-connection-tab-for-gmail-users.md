@@ -19,27 +19,27 @@ Als u verbinding maakt met Gmail, ontvangt u het bijhouden van antwoorden, toega
 
    ![](assets/one.png)
 
-1. Selecteer onder Mijn account de optie **E-mailinstellingen**.
+1. Selecteer **E-mailinstellingen** onder Mijn account.
 
    ![](assets/two.png)
 
-1. Klik op het tabblad **E-mailverbinding** .
+1. Klik op het tabblad **E-mailverbinding**.
 
    ![](assets/three.png)
 
-1. Klik op **Aan de slag**.
+1. Klik **Aan de slag**.
 
    ![](assets/four.png)
 
-1. Selecteer **Ik gebruik Gmail om e-mails** te verzenden en klik op **Volgende**.
+1. Selecteer **Ik gebruik Gmail om e-mails te verzenden** en **Volgende** te klikken.
 
    ![](assets/five.png)
 
-1. Klik op **OK**.
+1. Klik **OK**.
 
    ![](assets/six.png)
 
-1. Als u zich al hebt aangemeld bij Gmail, kiest u de account waarmee u verbinding wilt maken. Als dat niet het geval is, voert u uw Gmail-adres in en klikt u op **Volgende**. In dit voorbeeld zijn we nog niet aangemeld.
+1. Als u zich al hebt aangemeld bij Gmail, kiest u de account waarmee u verbinding wilt maken. Als niet, ga uw Gmail adres in en klik **Next**. In dit voorbeeld zijn we nog niet aangemeld.
 
    ![](assets/seven.png)
 
@@ -47,9 +47,9 @@ Als u verbinding maakt met Gmail, ontvangt u het bijhouden van antwoorden, toega
 
    ![](assets/eight.png)
 
-1. Klik op **Toestaan**.
+1. Klik **Toestaan**.
 
    ![](assets/nine.png)
 
-   U kunt deze verbinding gebruiken om e-mails bij te houden en ook [als een leveringskanaal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
+   U kunt deze verbinding gebruiken om e-mails bij te houden en ook [als leveringskanaal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
 
