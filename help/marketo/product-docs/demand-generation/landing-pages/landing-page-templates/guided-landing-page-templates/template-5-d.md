@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Sjabloon 5-D {#template-d}
+# Template 5-D {#template-d}
 
 [Sjabloon 5-D downloaden](http://docs.marketo.com/download/attachments/8783923/template-5d.html?version=1&amp;modificationdate=1437693023000&amp;api=v2)
 
