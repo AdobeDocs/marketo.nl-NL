@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# Tabblad Instellingen beheerder {#admin-settings-tab}
+# Tabblad Admin-instellingen {#admin-settings-tab}
 
 Op het tabblad Beheerinstellingen kan de beheerder voor elke account de instellingen van zijn team zien (voor wat betreft het inplannen van limieten), maar ook de manier waarop de e-mails van zijn team in Salesforce worden aangemeld.
 
-Als u het selectievakje Alle synchronisatieinstellingen van Salesforce **overschrijven voor mijn team** inschakelt, wordt de optie weergegeven waarmee u alleen registratie via BCC of alleen via API toestaat.
+Als u **Alle synchronisatie-instellingen van Salesforce voor mijn team overschrijven** inschakelt, wordt de optie weergegeven waarmee u alleen registratie via BCC of alleen via API toestaat.
 
-Als u **API registreren** kiest, alle montages die voor Kansen, Leads, Contacten worden geselecteerd `will be set for the entire team after you click **Save Changes**.`
+Als u **API registreren** kiest, alle montages die voor Kansen, Leads, Contacten `will be set for the entire team after you click **Save Changes**.` worden geselecteerd
 
 Van hier, zult u ook aan massa-toelaat Kansen en de Synchronisatie van de Taak over het team kunnen.
 
