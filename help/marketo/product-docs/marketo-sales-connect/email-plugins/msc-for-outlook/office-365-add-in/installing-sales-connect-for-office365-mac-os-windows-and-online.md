@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Sales Connect voor Office365 Mac OS, Windows en Online installeren {#installing-sales-connect-for-office-mac-os-windows-and-online}
+# Sales Connect installeren voor Office365 Mac OS, Windows en Online {#installing-sales-connect-for-office-mac-os-windows-and-online}
 
 Wij hebben een integratie met de Apps van het Web van Vooruitzichten gecreeerd. De Apps van het Web van vooruitzichten is een versie van Vooruitzichten die van het Bureau 365 abonnement worden voorzien. Aangezien het op browser-gebaseerd is, zal de integratie op zowel MAC als Vensters werken. [Klik hier voor de volledige installatiehandleiding](http://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-Als beheerder kunt u dit namens uw gehele team [](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)installeren.
+Als Admin, kunt u [dit namens uw volledig team installeren](http://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide).
 
 >[!NOTE]
 >
