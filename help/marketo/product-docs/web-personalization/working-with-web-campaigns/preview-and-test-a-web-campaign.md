@@ -17,7 +17,7 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
 ## Een webcampagne voorvertonen op de ontwerppagina {#preview-a-web-campaign-on-the-creation-page}
 
-1. Ga naar **webcampagnes** **voor meer informatie**.
+1. Ga naar **Web** **Campagnes**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
@@ -25,30 +25,30 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. Voeg de pagina-URL toe in Voorvertonen op de site en klik op **Voorvertoning**. Er wordt een nieuw venster of tabblad geopend met de voorvertoning van de campagne.
+1. Voeg in Voorvertoning op site de pagina-URL toe en klik op **Voorvertoning**. Er wordt een nieuw venster of tabblad geopend met de voorvertoning van de campagne.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >Klik op **Delen** om een e-mail te openen met een vaste URL van de voorvertoning van de campagne.
+   >Klik **Delen** om een e-mail met een vaste URL van de campagnevoorproef te openen.
 
    >[!NOTE]
    >
-   >U kunt ook een browserplug-in ( [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) of [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) installeren voor een optimale ervaring bij het voorvertonen van uw campagne. Zie de onderstaande paragraaf.
+   >U kunt ook een browserplug-in installeren (of [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) of [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) voor de beste ervaring bij het voorvertonen van uw campagne. Zie de onderstaande paragraaf.
 
-## Een webcampagne voorvertonen op de pagina Maken met de plug-in Browser {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
+## Voorproef een Campagne van het Web op de Aanmaakpagina die Browser Plug-in {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in} gebruikt
 
-1. Voer stap 1 en 2 uit het `section above`deelvenster uit.
+1. Voer stap 1 en 2 uit `section above` uit.
 1. Klik op de koppeling naar de browserplug-in (in dit geval gebruiken we Chrome).
 
    ![](assets/4-1.png)
 
-1. Er wordt een nieuw venster/tabblad geopend. Klik op **Toevoegen aan chroom**.
+1. Er wordt een nieuw venster/tabblad geopend. Klik **Toevoegen aan Chrome**.
 
    ![](assets/five.png)
 
-1. Klik op Extensie **toevoegen**.
+1. Klik **Extensie toevoegen**.
 
    ![](assets/six.png)
 
@@ -60,9 +60,9 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
    ![](assets/campaign-preview.png)
 
-## Een webcampagne voorvertonen op de webpagina Campagnes {#preview-a-web-campaign-on-the-web-campaigns-page}
+## Een webcampagne voorvertonen op de webpagina voor campagnes {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Als u de lijst met uw webcampagnes bekijkt, kiest u gewoon een campagne en klikt u op het pictogram **Voorvertoning** .
+1. Als u de lijst met uw webcampagnes bekijkt, kiest u gewoon een campagne en klikt u op het pictogram **Voorvertoning**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -76,7 +76,7 @@ Maak een sandboxsegment en -campagne.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Klik op **Nieuw** maken.
+1. Klik **Nieuw maken**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
@@ -89,7 +89,7 @@ Maak een sandboxsegment en -campagne.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Voltooi de creatieve campagne en klik op **Starten**.\
+1. Voltooi de campagne creatief en klik **Launch**.\
    ![](assets/click-launch.jpg)
 
 1. Ga naar uw website en voeg de URL-parameter &quot;?sandbox=1&quot; toe aan het einde van de URL. Voorbeeld: [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
