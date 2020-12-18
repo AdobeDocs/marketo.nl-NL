@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Leer hoe u de [interrustende stroomstap](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)voor momenten gebruikt.
->* Meer weten over [tokens](http://docs.marketo.com/display/docs/tokens)?
+>* Leer om [Interesserende de stroomstap van het Moment te gebruiken](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>* Meer informatie over [tokens](http://docs.marketo.com/display/docs/tokens).
 
 >
 
@@ -24,9 +24,9 @@ ht-degree: 0%
 
 ## Beschikbare tokens {#available-tokens}
 
-Bekijk het [Tokens Overzicht](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om alle tokens te zien die u in een interessant moment kunt zetten.
+Bekijk [Tokens Overzicht](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om alle tokens te zien u in een interessant moment kunt zetten.
 
-## Tokens activeren {#trigger-tokens}
+## Tokens {#trigger-tokens} activeren
 
 Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra triggertokens beschikbaar gesteld.
 
@@ -236,9 +236,9 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
 
 >[!NOTE]
 >
->Als het geen controle heeft ![(tik)](assets/check.svg) dan zou het een lege koord (niets) op het interessante ogenblik terugkeren.
+>Als er geen controle ![(tik)](assets/check.svg) is, wordt er op het interessante moment een lege tekenreeks (niets) geretourneerd.
 
-*De webpagina **van Trigger-** bezoeken bevat een aantal extra tokens:
+*Trigger **Bezoekt Web-pagina** heeft een paar extra tokens:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
