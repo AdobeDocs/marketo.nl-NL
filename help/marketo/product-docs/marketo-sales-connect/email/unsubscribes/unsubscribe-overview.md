@@ -11,7 +11,7 @@ ht-degree: 0%
 ---
 
 
-# Overzicht van abonnement opzeggen {#unsubscribe-overview}
+# Overzicht {#unsubscribe-overview} opzeggen
 
 Het wordt steeds belangrijker dat organisaties zich houden aan de privacywetgeving voor e-mail. Om dit te helpen, hebben we een aantal verbeteringen aangebracht in onze ervaring voor afmelden.
 
