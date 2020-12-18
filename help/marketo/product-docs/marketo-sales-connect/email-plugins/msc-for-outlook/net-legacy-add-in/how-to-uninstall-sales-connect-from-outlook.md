@@ -15,12 +15,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->De .NET Add-In wordt niet meer ondersteund vanaf 19 mei 2019. [Klik hier](http://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) voor meer informatie.
+>De .NET Add-In wordt niet meer ondersteund vanaf 19 mei 2019. [Klik ](http://nation.marketo.com/docs/DOC-7028-end-of-life-outlook-net-add-in-for-toutappmarketo-sales-connect) hier voor meer informatie.
 
-1. Klik op het menu **Start** .
-1. Zoek **ToutApp** in de lijst Programma&#39;s.
-1. Klik erop en kies **Registratie** ongedaan maken.
+1. Klik op het menu **Start**.
+1. Zoek **ToutApp** in de lijst van Programma&#39;s.
+1. Klik erop en kies **Registratie ongedaan maken**.
 1. Navigeer naar het regelpaneel.
 1. Trek omhoog &quot;voeg/verwijder een Programma toe.&quot;
-1. Selecteer ToutApp in de lijst en kies **Verwijderen**.
+1. Selecteer ToutApp in de lijst en kies **Verwijder het**.
 
