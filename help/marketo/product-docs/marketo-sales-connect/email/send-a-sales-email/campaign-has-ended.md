@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Campagne is beëindigd {#campaign-has-ended}
+# De campagne is beëindigd {#campaign-has-ended}
 
 Als u een e-mail ziet in uw map Mislukte levering met de melding &quot;De campagne is beëindigd&quot;, betekent dit dat dit specifieke e-mailbericht een gepland e-mailbericht in uw campagne was.
 
-## Mogelijke redenen waarom dit is mislukt {#possible-reasons-it-failed}
+## Mogelijke redenen voor mislukte {#possible-reasons-it-failed}
 
 * Het e-mailbericht is verzonden
 * Een contactpersoon antwoordde en beëindigde de campagne
