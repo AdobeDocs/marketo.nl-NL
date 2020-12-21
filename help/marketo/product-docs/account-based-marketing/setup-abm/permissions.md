@@ -3,9 +3,9 @@ unique-page-id: 11380778
 description: Machtigingen - Marketo Docs - Productdocumentatie
 title: Machtigingen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ U moet machtigingen instellen zodat uw gebruikers ABM kunnen gebruiken. Zo gaat 
 
    ![](assets/four-1.png)
 
-1. Als u *alle* machtigingen wilt selecteren, schakelt u gewoon het selectievakje **Op account gebaseerde marketing benaderen** in.
+1. Als u _alle_ machtigingen wilt selecteren, schakelt u gewoon het selectievakje **Op account gebaseerde marketing benaderen** in.
 
    ![](assets/five-1.png)
 
@@ -45,8 +45,8 @@ U moet machtigingen instellen zodat uw gebruikers ABM kunnen gebruiken. Zo gaat 
 
 1. Klik **+** om het menu van Admin van de Toegang te openen. Schakel het selectievakje **Access ABM Admin** in.
 
-   ![](assets/six-1.png)\
-   Uw nieuwe ABM-rol is nu klaar om [te worden toegewezen aan een gebruiker](http://docs.marketo.com/display/public/DOCS/Managing+User+Roles+and+Permissions#ManagingUserRolesandPermissions-AssignRolestoaUser)!
+   ![](assets/six-1.png)
+
+   Uw nieuwe ABM-rol is nu klaar om [te worden toegewezen aan een gebruiker](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!
 
    ![](assets/seven.png)
-
