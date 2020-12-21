@@ -3,7 +3,7 @@ unique-page-id: 17727818
 description: Het gebruiken van Persona's - Marketo Docs - de Documentatie van het Product
 title: Persoonlijke gegevens gebruiken
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -70,4 +70,3 @@ Bekijk uw persoonlijke gegevens door een specifiek Benoemd account te bezoeken.
 1. Gebruik persona-filters in een slimme lijst om op de markt te brengen voor een specifieke groep personen.
 
 ![](assets/one-b.png)
-
