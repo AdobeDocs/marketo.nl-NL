@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: Accountfilters - Marketo Docs - Productdocumentatie
 title: Accountfilters
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Klik op de vervolgkeuzelijst met accounts om dit filter te gebruiken...
 
    ![](assets/eight.png)
 
-1. Als u &quot;is om het even welk&quot;bepalend gebruikt, kunt u [beperkingen ](http://docs.marketo.com/display/DOCS/Add+a+Constraint+to+a+Smart+List+Filter) willen gebruiken om uw onderzoeksresultaten te beperken. Voeg zoveel toe als u wilt!
+1. Als u &quot;is om het even welk&quot;bepalend gebruikt, kunt u [beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) willen gebruiken om uw onderzoeksresultaten te beperken. Voeg zoveel toe als u wilt!
 
    ![](assets/nine.png)
 
@@ -67,5 +67,4 @@ Klik op de vervolgkeuzelijst met accounts om dit filter te gebruiken...
 
 >[!MORELIKETHIS]
 >
->* [Accounttriggers](account-triggers.md)
-
+>[Accounttriggers](/help/marketo/product-docs/account-based-marketing/engage/account-triggers.md)
