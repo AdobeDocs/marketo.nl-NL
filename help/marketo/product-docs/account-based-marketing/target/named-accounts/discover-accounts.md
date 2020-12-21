@@ -3,9 +3,9 @@ unique-page-id: 11378812
 description: Accounts ontdekken - Marketo Docs - Productdocumentatie
 title: Accounts detecteren
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '585'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,11 @@ Identificeer potentiële doelrekeningen van uw CRM.
 >
 >Nadat u uw CRM met Marketo ABM verbindt, **ontdekt CRM Rekeningen** zal alle rekeningen van CRM en relevante informatie tonen om u te helpen de juiste genoemde rekeningen kiezen. Marketo voegt extra informatie toe bovenop wat van CRM wordt ontvangen.
 
-**Personen**  (in het geval van CRM-accounts en markttoegang ontdekken): Omvat zowel Contacten als Leads. Leads kunnen worden gedetecteerd met behulp van [lead-to-account matching](http://docs.marketo.com/display/DOCS/Lead+to+Account+Matching) van Marketo. **Potentiële personen**  (bij het ontdekken van CRM-accounts en het ontdekken van marktobedrijven): Toont hoeveel lood Marketo vond die tot een rekening van CRM kon behoren.
+**Personen**  (in het geval van CRM-accounts en markttoegang ontdekken): Omvat zowel Contacten als Leads. Leads kunnen worden gedetecteerd met behulp van [lead-to-account matching](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md) van Marketo.
 
-**Aangepast CRM-veld**  (alleen in CRM-rekeningen ontdekken): Op deze manier kunt u uw verkoop- en marketingorganisatie beter afstemmen op de juiste doelaccounts. Als u [het aangepaste CRM-veld](http://docs.marketo.com/x/1wnG) hebt toegewezen aan Marketo ABM, geven we u de toegewezen gegevens weer om u te helpen uw doelaccounts te identificeren.
+**Potentiële personen**  (bij het ontdekken van CRM-accounts en het ontdekken van marktobedrijven): Toont hoeveel lood Marketo vond die tot een rekening van CRM kon behoren.
+
+**Aangepast CRM-veld**  (alleen in CRM-rekeningen ontdekken): Op deze manier kunt u uw verkoop- en marketingorganisatie beter afstemmen op de juiste doelaccounts. Als u [het aangepaste CRM-veld](/help/marketo/product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md) hebt toegewezen aan Marketo ABM, geven we u de toegewezen gegevens weer om u te helpen uw doelaccounts te identificeren.
 
 1. Klik in Benoemde accounts op de vervolgkeuzelijst **Nieuw** en selecteer **CRM-accounts detecteren**.
 
@@ -63,17 +65,17 @@ Identificeer de juiste bedrijven voor het richten.
    >
    >In Discover Marketo Companies en Discover CRM, Marketo automatisch:
    >
-   > * Vindt mensen van uw gegevensbestand van Marketo die dat bedrijf in hun verslag hebben vermeld. Als u meerdere waarden ziet voor sommige kenmerken (bijvoorbeeld de industrie), komt dat doordat Marketo verschillende waarden heeft gevonden die voor die individuele personen zijn vermeld. Het kenmerk met de meest treffers wint
+   >* Vindt mensen van uw gegevensbestand van Marketo die dat bedrijf in hun verslag hebben vermeld. Als u meerdere waarden ziet voor sommige kenmerken (bijvoorbeeld in de industrie), komt dat doordat Marketo verschillende waarden heeft gevonden die voor die individuele personen zijn vermeld. Het kenmerk met de meest treffers wint
    >
    >Alleen in **CRM** detecteren, markeert automatisch:
    >
-   > * Syncs and associates CRM Contact with the Named Account
+   >* Syncs and associates CRM Contact with the Named Account
    >
    >In **Alleen Marketo Companies** detecteren, markeert u automatisch:
    >
-   > * Filters uit de meeste Dienstverleners van Internet en Openbare Domeinen (b.v. [Yahoo.com](https://yahoo.com), [Gmail.com](https://gmail.com)) als bedrijfsnamen
+   >* Filters uit de meeste Dienstverleners van Internet en Openbare Domeinen (b.v., yahoo.com, gmail.com) als bedrijfnamen
       >
-      > 
+      >
    * Deupes CRM accounts. Als u Acme in één record hebt en Acme Inc (of een van de volgende achtervoegsels): Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), zullen wij hen in ABM als enkel &quot;Acme&quot; samenvoegen
    >
    >Als u Marketo-accounts wilt dedupliceren door CRM-id of rekeningeigenaar in plaats van door bedrijfsnaam, neemt u contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support).
@@ -116,5 +118,4 @@ Identificeer de juiste bedrijven voor het richten.
 
 >[!MORELIKETHIS]
 >
->* [Lood naar overeenkomst met account](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-
+>[Lood naar overeenkomst met account](/help/marketo/product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
