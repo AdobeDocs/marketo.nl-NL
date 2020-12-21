@@ -3,7 +3,7 @@ unique-page-id: 12978647
 description: Een aangepast veld maken voor CRM-detectie - Marketo Docs - Productdocumentatie
 title: Een aangepast veld maken voor CRM-detectie
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -46,4 +46,3 @@ Voeg aangepaste velden toe aan accounts, wijs deze toe aan uw CRM en gebruik ze 
    Zodra gesynchroniseerd, zal uw nieuw gebied op uiterst rechts in uw Ontdek het net van CRM verschijnen.
 
    ![](assets/eight.png)
-
