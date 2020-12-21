@@ -3,9 +3,9 @@ unique-page-id: 17432598
 description: Accountprofilering instellen - Marketo Docs - Productdocumentatie
 title: Accountprofielen instellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -45,5 +45,4 @@ Voer de volgende stappen uit om accountprofielen te gebruiken.
 
    >[!TIP]
    >
-   >Nu uw model wordt gecreeerd, leer hoe te om het in [het Profileren Overzicht van de Rekening ](http://docs.marketo.com/x/NIDv) te stemmen.
-
+   >Nu uw model wordt gecreeerd, [leer hoe te om het ](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md) te stemmen.
