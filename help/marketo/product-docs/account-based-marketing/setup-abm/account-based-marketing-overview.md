@@ -3,9 +3,9 @@ unique-page-id: 11381917
 description: Account based Marketing Overview - Marketo Docs - Productdocumentatie
 title: Overzicht van accountgebaseerde marketing
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ Marketo verenigt ABM en leidt management in één oplossing, waardoor het voor m
 
 Marketo ABM bestaat uit drie componenten:
 
-**1)  [Doel](http://docs.marketo.com/display/docs/target)**
+**1) Doel**
 
 * Account-detectie
 * Lood-aan-Account-overeenkomst
 * Lijsten met benoemde accounts
 
-**2)  [Inschakelen](http://docs.marketo.com/display/docs/engage)**
+**2) Betrokkenheid**
 
 * Persoonlijke account
 * Betrokkenheid tussen kanalen
 * Accountspecifieke workflows
 
-**3)  [Maatregel](http://docs.marketo.com/display/docs/measure)**
+**3) Maatregel**
 
 * Inzichten op account- en lijstniveau
 * Score voor accountbetrokkenheid
@@ -47,18 +47,18 @@ Marketo ABM bestaat uit drie componenten:
 
 Marketo Account Based Marketing biedt ook diverse tools om de ervaring met benoemde accounts aan te passen aan de verschillende kanalen.
 
-* Pagina voor e-mail en landing [Personalisatie](http://docs.marketo.com/display/DOCS/Personalization)
-* Web [Personalisatie](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)
-* URL [Personalisatie](http://docs.marketo.com/display/DOCS/Enable+Personalized+URLs+for+Your+Account)
-* Advertentie [Personalisatie](http://docs.marketo.com/display/DOCS/Create+a+Custom+Audience+in+Facebook)
-* [](http://docs.marketo.com/display/DOCS/Website+Retargeting) Persoonlijk markeren
+* Aanpassing van e-mail- en landingspagina
+* Webpersonalisatie
+* URL [Personalisatie](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+* Advertentie [Personalisatie](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Persoonlijk markeren
 
 Ik ben in! Hoe begin ik?
 
-We dachten dat je het nooit zou vragen! ABM is beschikbaar als een add-on bij uw abonnement op Marketo. Neem daarom contact op met uw verkoper om het te laten implementeren. Kijk eens naar dit artikel: [Aan de slag met ABM](getting-started-with-abm.md).
+We dachten dat je het nooit zou vragen! ABM is beschikbaar als een add-on bij uw abonnement op Marketo. Neem daarom contact op met uw verkoper om het te laten implementeren. Kijk eens naar dit artikel: [Aan de slag met ABM](/help/marketo/product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md).
 
 >[!NOTE]
 >
->Benoemde die Rekeningen in Marketo ABM worden beheerd kunnen direct van Web ABM voor de behoeften van de Webverpersoonlijking worden betreden. Meer [hier](http://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM).
+>Benoemde die Rekeningen in Marketo ABM worden beheerd kunnen direct van Web ABM voor de behoeften van de Webverpersoonlijking worden betreden. Meer [hier](/help/marketo/product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md).
 
 Welkom bij Marketo ABM en geniet van gerichte marketing!
