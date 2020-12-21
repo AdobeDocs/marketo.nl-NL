@@ -3,7 +3,7 @@ unique-page-id: 11378809
 description: Overzicht benoemde account - Marketo Docs - Productdocumentatie
 title: Overzicht benoemde account
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -101,4 +101,3 @@ De genoemde Rekeningen houden de mensen van de bedrijven u richt. Het dashboard 
   </tr> 
  </tbody> 
 </table>
-
