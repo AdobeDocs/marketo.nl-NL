@@ -3,9 +3,9 @@ unique-page-id: 11380789
 description: Benoemde Account Dimension in RCA - Marketo Docs - Productdocumentatie
 title: Dimension van benoemde account in RCA
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Bouw op opbrengst-gebaseerde rapporten gebruikend de ABM-specifieke Benoemde dim
 
 >[!NOTE]
 >
->**Definitie**
->
->**Dimension **- kenmerken (weergegeven door gele stippen) die een verschillend beeld geven van de maateenheden.
+>**Dimension** -kenmerken (weergegeven door gele stippen) die verschillende weergaven van de meetwaarden geven.
 
 ![](assets/one-2.png)
 
@@ -35,8 +33,6 @@ De volgende rapporten hebben toegang tot de dimensie Benoemd account:
 * Analyse van het lidmaatschap van het programma
 
 >[!NOTE]
->
->**Voorbeeld**
 >
 >Hieronder volgen enkele voorbeelden van Marketo ABM in de Analytics van de Belastingcyclus.
 
@@ -55,12 +51,3 @@ Doeltreffendheid van het programma en impact op de bodem
 Dekking van kwaliteitsleads en betrokkenheid binnen benoemde accounts
 
 ![](assets/five-2.png)
-
->[!MORELIKETHIS]
->
->* [Analyse van inkomstencyclus](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
-
->
-
-
-
