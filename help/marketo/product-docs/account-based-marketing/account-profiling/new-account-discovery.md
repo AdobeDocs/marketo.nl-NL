@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Nieuwe accountdetectie - Marketo Docs - Productdocumentatie
 title: Nieuwe accountdetectie
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te
 
 >[!PREREQUISITES]
 >
->[Accountprofielen instellen](http://docs.marketo.com/x/FgAKAQ)
+>[Accountprofielen instellen](/help/marketo/product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
 >
@@ -73,5 +73,4 @@ De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te
 
    >[!TIP]
    >
-   >Nadat uw rekeningen worden bewaard, kunt u een [aangepast publiek op LinkedIn](http://docs.marketo.com/x/rYGZAQ) gebruiken om hen te richten.
-
+   >Nadat uw rekeningen worden bewaard, kunt u een [aangepast publiek op LinkedIn](/help/marketo/product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md) gebruiken om hen te richten.
