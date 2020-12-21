@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: Accountlijstinzichten - Marketo Docs - Productdocumentatie
 title: Accountlijstinzichten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -57,4 +57,3 @@ Klik op het tabblad **Benoemde accounts** om te zien welke benoemde accounts bij
 Klik op het tabblad **Gebruikt door** om te zien welke elementen verwijzen naar die accountlijst.
 
 ![](assets/four-2.png)
-
