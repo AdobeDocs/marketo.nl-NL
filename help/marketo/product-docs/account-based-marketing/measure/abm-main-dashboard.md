@@ -3,9 +3,9 @@ unique-page-id: 11380783
 description: ABM Main Dashboard - Marketo Docs - Productdocumentatie
 title: ABM hoofddashboard
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Als u wilt filteren op accountlijst, klikt u op de vervolgkeuzelijst Weergave..
 
 ![](assets/three.png)
 
-Als u het [Accountlijstdashboard](http://docs.marketo.com/display/DOCS/Account+List+Insights#AccountListInsights-AccountListDashboard) wilt weergeven, klikt u op de naam van de accountlijst die u hebt geselecteerd..
+Als u het [Accountlijstdashboard](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md#account-list-dashboard) wilt weergeven, klikt u op de naam van de accountlijst die u hebt geselecteerd..
 
 ![](assets/four.png)
 
@@ -37,7 +37,6 @@ Als u in plaats van het dashboard Accountlijst weer te geven een account met een
 
 ![](assets/six.png)
 
-...en bekijk de [inzichten van een benoemde account](http://docs.marketo.com/display/DOCS/Named+Account+Insights).
+...en bekijk de [inzichten van een benoemde account](/help/marketo/product-docs/account-based-marketing/measure/named-account-insights.md).
 
 ![](assets/seven.png)
-
