@@ -3,7 +3,7 @@ unique-page-id: 12615804
 description: Filteren in benoemde accounts - Marketo Docs - Productdocumentatie
 title: Filteren in benoemde accounts
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Filteren is een geweldige manier om gegevens snel omlaag te brengen.
 
    >[!NOTE]
    >
-   >Er zijn verschillende combinaties van zoekparameters. In dit voorbeeld vinden we het volgende: *Industrie = Bankwezen, Land = Verenigde Staten, Max. werknemers = 10000*.
+   >Er zijn verschillende combinaties van zoekparameters. In dit voorbeeld vinden we het volgende: _Industrie = Bankwezen, Land = Verenigde Staten, Max. werknemers = 10000_.
 
 1. Klik op de vervolgkeuzelijst **Industrie** en selecteer **Bankwezen**.
 
@@ -44,4 +44,3 @@ Filteren is een geweldige manier om gegevens snel omlaag te brengen.
    >[!NOTE]
    >
    >Als u meer filters wilt toevoegen waaruit u kunt kiezen, klikt u op **Filter toevoegen** linksonder in het formulier.
-
