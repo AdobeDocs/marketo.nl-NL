@@ -3,9 +3,9 @@ unique-page-id: 12979223
 description: Account Insight instellen - Marketo Docs - Productdocumentatie
 title: Account Insight instellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Hier is hoe te opstellingsRekening Inzicht.
 
 >[!PREREQUISITES]
 >
->ABM de rekeningsscore [moet eerst worden gevormd](http://docs.marketo.com/display/DOCS/Account+Score).
+>ABM de rekeningsscore [moet eerst worden gevormd](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md).
 
 1. Klik **Admin**.
 
@@ -37,9 +37,8 @@ Hier is hoe te opstellingsRekening Inzicht.
 
    >[!NOTE]
    >
-   >Als de [Accountscore-instellingen](http://docs.marketo.com/display/DOCS/Account+Score) op een gegeven moment worden bijgewerkt, moet de configuratie onder ABM-verkoop door een beheerder worden bijgewerkt om ervoor te zorgen dat de scores de voorkeuren van de gebruiker nauwkeurig weerspiegelen. De gebruiker moet zich afmelden en zich opnieuw aanmelden om de veranderingen te zien.
+   >Als de [Accountscore-instellingen](/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md) op een gegeven moment worden bijgewerkt, moet de configuratie onder ABM-verkoop door een beheerder worden bijgewerkt om ervoor te zorgen dat de scores de voorkeuren van de gebruiker nauwkeurig weerspiegelen. De gebruiker moet zich afmelden en zich opnieuw aanmelden om de veranderingen te zien.
 
 1. Klik **Opslaan**.
 
    ![](assets/five-4.png)
-
