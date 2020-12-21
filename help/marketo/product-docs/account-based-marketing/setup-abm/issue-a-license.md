@@ -3,9 +3,9 @@ unique-page-id: 11380771
 description: Een licentie afgeven - Marketo Docs - Productdocumentatie
 title: Een licentie afgeven
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 55375469516d10c03d936abaed1e9177e578e2ec
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,4 @@ U moet gebruikers instellen met een licentie om ABM te gebruiken. Zo doe je dat.
 
    >[!NOTE]
    >
-   >Als u een gebruikerslicentie wilt verwijderen, volgt u stap 1 en *un* schakelt u het selectievakje in en klikt u op **Opslaan**.
-
+   >Als u de licentie van een gebruiker wilt verwijderen, volgt u stap 1 en schakelt u het selectievakje uit en klikt u op **Opslaan**.
