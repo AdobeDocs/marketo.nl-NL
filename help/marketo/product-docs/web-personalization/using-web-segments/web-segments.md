@@ -90,12 +90,12 @@ Van **Segmenten** pagina, klik **Nieuw** onder de grafiek creëren. Het volgende
 
 Definieer algemene parameters voor uw segment:
 
-1. 
+1. &#x200B;
 
    * **Naam:**  Geef uw segment een naam.
-   * **Beschrijving:**  Geef een gedetailleerdere uitleg van de segmentcriteria.
-   * **Domeinen:**  selecteer het domein of de domeinen die u in het segment wilt opnemen.
-   * **Segmentregellogica:**  selecteer een AND/OR-logica om elk segmenteringskenmerk te maken
+   * **Omschrijving:**  Geef een gedetailleerdere uitleg van de segmentcriteria.
+   * **Domeinen:**  Selecteer het domein of de domeinen u in het segment wilt omvatten.
+   * **Segmentregellogica:**  Selecteer een EN/OR-logica om elk segmenteringskenmerk te maken
    * **Timing:** Bepaal het niveau van bezoekersbetrokkenheid u in uw campagne wilt
 
       * **Bij binnenkomst**: Inschakelen van de bezoeker komt op de website
@@ -109,24 +109,22 @@ Definieer algemene parameters voor uw segment:
 >
 >1. Alle filters gebruiken (1 en 2 en 3...)
 >1. Alle filters gebruiken (1, 2 of 3...)
->1. Geavanceerde filters (met en/of expressies) >
-   >    1. >    
-   >       
-
-      >Met geavanceerde filters kunt u de segmentvoorwaarde bepalen. Voer de filternummers in, gescheiden door &quot;en&quot; en &quot;of&quot;.  >
-      >        * 1, 2 en 3
-      >        * 1 of 2 of 3
-
-      >
-      Het mengen van &quot;en&quot; en &quot;of&quot; vereist haakjes om logische intentie te verduidelijken. bijv. &quot;1 of 2 and 3&quot; moet worden geschreven als een van de volgende vermeldingen:  >
-      * 1 en (2 of 3)
-      * (1 en 2) of 3
-
-      Geneste haakjes worden geaccepteerd voor complexere logica, bijvoorbeeld  >
-      * (1 en 2) of (3 en 4)
-      * 1 en (2 of (3 en 4))
-
-      Controleer uw logica na het invoegen, verwijderen of opnieuw rangschikken.
+>1. Geavanceerde filters (met en/of expressies)
+>    1. &#x200B;
+>
+>       Met geavanceerde filters kunt u de segmentvoorwaarde bepalen. Voer de filternummers in, gescheiden door &quot;en&quot; en &quot;of&quot;.
+>       * 1, 2 en 3
+>       * 1 of 2 of 3
+>
+>       Het mengen van &quot;en&quot; en &quot;of&quot; vereist haakjes om logische intentie te verduidelijken. bijv. &quot;1 of 2 and 3&quot; moet worden geschreven als een van de volgende vermeldingen:
+>       * 1 en (2 of 3)
+>       * (1 en 2) of 3
+>
+>       Geneste haakjes worden geaccepteerd voor complexere logica, bijvoorbeeld
+>       * (1 en 2) of (3 en 4)
+>       * 1 en (2 of (3 en 4))
+>
+>       Controleer uw logica na het invoegen, verwijderen of opnieuw rangschikken.
 
 
 
