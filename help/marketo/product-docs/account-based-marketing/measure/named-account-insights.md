@@ -3,9 +3,9 @@ unique-page-id: 11380785
 description: Benoemde accountinzichten - Marketo Docs - Productdocumentatie
 title: Benoemde accountgegevens
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Het dashboard Benoemde account biedt een weergave van 360 graden van een doelacc
 
 ## Dashboard {#dashboard}
 
-Het dashboard bundelt belangrijke inzichten op rekeningniveau van alle mensen binnen een genoemde rekening, zodat het niet nodig is naar elke persoon te gaan om hun vooruitgang te evalueren. U kunt dieper naar de e-mailactiviteit gaan met [Email Insights](http://docs.marketo.com/display/DOCS/Filtering+in+Email+Insights#FilteringinEmailInsights-AccountBasedMarketing).
+Het dashboard bundelt belangrijke inzichten op rekeningniveau van alle mensen binnen een genoemde rekening, zodat het niet nodig is naar elke persoon te gaan om hun vooruitgang te evalueren. U kunt dieper naar de e-mailactiviteit gaan met [Email Insights](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing).
 
 >[!NOTE]
 >
@@ -52,13 +52,13 @@ Het dashboard bundelt belangrijke inzichten op rekeningniveau van alle mensen bi
 
 **Interesserende momenten**
 
-Beschikbaar voor gebruikers van [Marketo Sales Insight](http://docs.marketo.com/display/DOCS/Marketo+Sales+Insight), zie de interessante momenten die op accountniveau worden opgerold.
+Beschikbaar aan gebruikers van het Inzicht van de Verkoop van de Marketo, zie de interessante momenten opgerold op rekeningsniveau.
 
 ![](assets/int-mom.png)
 
 **Bovenste personen**
 
-Deze personen worden berekend op basis van prioriteiten die zijn gebaseerd op de frequentie of de urgentie die wordt getoond door personen met benoemde accounts (dezelfde als [Best Bets](http://docs.marketo.com/display/DOCS/Priority,+Urgency,+Relative+Score,+and+Best+Bets) in Sales Insight) of Scores die zijn gedefinieerd door de gebruiker. **De** Prioriteit is slechts beschikbaar aan gebruikers van het Inzicht van de Verkoop van de Marketo.
+Deze personen worden berekend op basis van prioriteiten die zijn gebaseerd op de frequentie of de urgentie die wordt getoond door personen met benoemde accounts (dezelfde als [Best Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) in Sales Insight) of Scores die zijn gedefinieerd door de gebruiker. **De** Prioriteit is slechts beschikbaar aan gebruikers van het Inzicht van de Verkoop van de Marketo.
 
 ![](assets/top-ten.png)
 
@@ -112,7 +112,6 @@ Accountteamleden weergeven, leden toevoegen/verwijderen en zelfs een accounteige
 
 ## ICP-indicatoren {#icp-indicators}
 
-Bekijk de Indicatoren ICP u selecteerde om uit te voeren wanneer u [uw model](http://docs.marketo.com/display/DOCS/Account+AI+Overview#AccountAIOverview-ModelTuning) richtte.
+Bekijk de Indicatoren ICP u selecteerde om uit te voeren wanneer u [uw model](/help/marketo/product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) richtte.
 
 ![](assets/eight.png)
-
