@@ -3,7 +3,7 @@ unique-page-id: 11384438
 description: ABM Report Setup - Marketo Docs - Productdocumentatie
 title: ABM Report Setup
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -78,4 +78,3 @@ Elk rapport wordt geleverd met de optie om te weigeren. Om dit eenvoudig te doen
 1. Selecteer opnieuw de gebruiker u e-mails wilt ontvangen en **Opnieuw inschrijven** klikken.
 
    ![](assets/eleven.png)
-
