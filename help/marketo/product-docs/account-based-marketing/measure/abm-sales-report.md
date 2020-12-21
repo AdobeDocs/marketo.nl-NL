@@ -3,9 +3,9 @@ unique-page-id: 11385183
 description: Verkooprapport ABM - Marketo Docs - Productdocumentatie
 title: ABM-verkooprapport
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ontvang wekelijks een e-mail met je topaccounts en hun wekelijkse trends.
 
 >[!NOTE]
 >
->Leer hoe u dit rapport [hier](https://docs.marketo.com/x/drat) instelt.
+>Leer hoe u dit rapport [hier](/help/marketo/product-docs/account-based-marketing/measure/abm-report-setup.md) instelt.
 
 Het verslag deelt:
 
@@ -30,8 +30,35 @@ Het verslag deelt:
 
 ## Verkooprapportsleutel {#sales-report-key}
 
-| **Accountscore** | Wekelijkse trend naar accountscore (geselecteerd in setup), gevolgd door huidige accountscore |
-|---|---|
-| **Verkooppijpleiding** | Wekelijkse trend per pijpleiding, gevolgd door de totale huidige pijpleiding en het aantal open kansen |
-| **Paginaweergaven** | Wekelijkse trend van paginaweergaven, gevolgd door totale paginaweergaven en aantal unieke bezoekers |
-| **Interesserende momenten** | Totaal aantal interessante momenten die zich tijdens de week hebben voorgedaan |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Accountscore</strong></td> 
+   <td> 
+    <div>
+      Wekelijkse trend naar accountscore (geselecteerd in setup), gevolgd door huidige accountscore 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Verkooppijpleiding</strong></td> 
+   <td> 
+    <div>
+      Wekelijkse trend per pijpleiding, gevolgd door de totale huidige pijpleiding en het aantal open kansen 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Paginaweergaven</strong></td> 
+   <td> 
+    <div>
+      Wekelijkse trend van paginaweergaven, gevolgd door totale paginaweergaven en aantal unieke bezoekers 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Interesserende momenten</strong></td> 
+   <td> 
+    <div>
+      Totaal aantal interessante momenten die zich tijdens de week hebben voorgedaan 
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
