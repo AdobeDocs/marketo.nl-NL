@@ -3,9 +3,9 @@ unique-page-id: 13795510
 description: ABM-hiërarchieën - Marketo-documenten - Productdocumentatie
 title: ABM-hiërarchie
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,6 @@ Hiërarchie gebruiken
 >
 >De interface Marketo wordt slechts weergegeven tot 10 niveaus omlaag (onderliggende en onderliggende accounts van de bovenliggende account), maar er is geen limiet aan het aantal onderliggende accounts dat u kunt maken.
 
-Doel en rapport over volledige hiërarchieën met [één klik](http://docs.marketo.com/display/DOCS/Account+Filters#AccountFilters-MemberofNamedAccount).
+Doel en rapport over volledige hiërarchieën met [één klik](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)
-
