@@ -3,9 +3,9 @@ unique-page-id: 15695924
 description: Accountprofilering, rangschikking en afstemming - Marketo Docs - Productdocumentatie
 title: Volgorde en afstemming van accountprofielen
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Alle bekende accounts zijn uitgesplitst naar rang. A is de hoogste graad, D is d
 
 ![](assets/results.png)
 
-We raden u aan om het selectievakje Automatisch bevorderen in te schakelen, maar dit bespaart u veel tijd. Nochtans, als u door elk rekening wilt gaan en [voeg hen manueel ](http://docs.marketo.com/display/DOCS/Discover+Accounts#DiscoverAccounts-DiscoverCRMAccounts) toe, verlaat eenvoudig de doos ongecontroleerd.
+We raden u aan om het selectievakje Automatisch bevorderen in te schakelen, maar dit bespaart u veel tijd. Nochtans, als u door elk rekening wilt gaan en [voeg hen manueel ](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md#discover-crm-accounts) toe, verlaat eenvoudig de doos ongecontroleerd.
 
 <table> 
  <tbody> 
@@ -66,20 +66,89 @@ U kunt uit verschillende tabbladen kiezen, zodat u deze grondig kunt aanpassen.
 
 ![](assets/tuning-page.png)
 
-Indicatorcategorieën
+**Indicatorcategorieën**
 
-| **Compatibiliteit** | Certificeringen, op naleving betrekking hebbende posities/huur. |
-|---|---|
-| **Bewerkingen** | Aan activiteiten gerelateerde posities/huur. |
-| **HR** | HR- of loonsoftware, HR-gerelateerde posities/huur. |
-| **Engineering** | Technologieën, raamwerken, met engineering verband houdende posities/huur. |
-| **Verkoop** | Oplossingen en software voor verkoop, verkoopgerelateerde posities/huur. |
-| **Intentie** | Intentie-indicatoren. |
-| **IT** | Hardware- en softwareoplossingen, technologieën, IT-gerelateerde posities/huur. |
-| **Financiën** | Financieringssoftware, financiële posities/huur. |
-| **Marketing** | Marketing technologieën en software, marketinggerelateerde posities/huur. |
-| **Zakelijk** | Forbes or Inc aanbiedingen of business partnership. |
-| **Klantervaring en -relaties** | Het succes van de klant en de posities/de huur van klantenverhoudingen. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Compatibiliteit</strong></td> 
+   <td> 
+    <div>
+      Certificeringen, op naleving betrekking hebbende posities/huur. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Bewerkingen</strong></td> 
+   <td> 
+    <div>
+      Aan activiteiten gerelateerde posities/huur. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>HR</strong></td> 
+   <td> 
+    <div>
+      HR- of loonsoftware, HR-gerelateerde posities/huur.
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Engineering</strong></td> 
+   <td> 
+    <div>
+      Technologieën, raamwerken, met engineering verband houdende posities/huur. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Verkoop</strong></td> 
+   <td> 
+    <div>
+      Oplossingen en software voor verkoop, verkoopgerelateerde posities/huur. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Intentie</strong></td> 
+   <td> 
+    <div>
+      Intentie-indicatoren. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>IT</strong></td> 
+   <td> 
+    <div>
+      Hardware- en softwareoplossingen, technologieën, IT-gerelateerde posities/huur.
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Financiën</strong></td> 
+   <td> 
+    <div>
+      Financieringssoftware, financiële posities/huur. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Marketing</strong></td> 
+   <td> 
+    <div>
+      Marketing technologieën en software, marketinggerelateerde posities/huur. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Zakelijk</strong></td> 
+   <td> 
+    <div>
+      Forbes or Inc aanbiedingen of business partnership. 
+    </div></td> 
+  </tr> 
+  <tr> 
+   <td><strong>Klantervaring en -relaties</strong></td> 
+   <td> 
+    <div>
+      Het succes van de klant en de posities/de huur van klantenverhoudingen.
+    </div></td> 
+  </tr> 
+ </tbody> 
+</table>
 
 Houd de muisaanwijzer boven de knopinfo voor een beschrijving van elke kolom.
 
@@ -89,7 +158,7 @@ Klik Add ICP Indicator drop-down om extra indicatoren in uw model op te nemen.
 
 ![](assets/add-icp.png)
 
-Als u het vak Exporteren inschakelt, kunt u de ICP-indicator op de pagina met gegevens over benoemde accounts zien en de geselecteerde ICP-indicator gebruiken als beperkingen in [benoemde accountfilters](http://docs.marketo.com/display/DOCS/Account+Filters).
+Als u het vak Exporteren inschakelt, kunt u de ICP-indicator op de pagina met gegevens over benoemde accounts zien en de geselecteerde ICP-indicator gebruiken als beperkingen in [benoemde accountfilters](/help/marketo/product-docs/account-based-marketing/engage/account-filters.md).
 
 ![](assets/export.png)
 
@@ -108,4 +177,3 @@ Klik op Model vernieuwen om deze wijzigingen van kracht te laten worden.
 Wanneer u klaar bent met het stemmen van uw model (nadat u het verfrist), ga terug naar het Modellusje van Resultaten en klik **sparen &amp; toepassen Ranks**.
 
 ![](assets/ranks.png)
-
