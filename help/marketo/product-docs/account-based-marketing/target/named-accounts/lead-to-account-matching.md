@@ -3,7 +3,7 @@ unique-page-id: 11381156
 description: Lood tot afstemmen van account - Marketo Docs - Productdocumentatie
 title: Lood naar overeenkomst met account
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -25,17 +25,17 @@ Marketo-overeenkomst tussen leads en accounts volgt een proces van vier stappen:
 
 * E-maildomein (bijvoorbeeld acme.com)
 * De naam van het bedrijf van IP adres wordt afgeleid
-* Bedrijfsnaam - Dit kan de naam van een CRM-account of het kenmerk van een leidende bedrijfsnaam zijn, bijvoorbeeld afkomstig van een formulier dat moet worden ingevuld
+* Bedrijfsnaam - Dit kan het kenmerk CRM-accountnaam of lead company name (afkomstig van het invullen van het formulier) zijn
 
-**Stap 2 -** wij normaliseren de bedrijfsnamen die wij gebaseerd op diverse loodattributen (b.v. Acme Inc. en Acme Corp worden automatisch genormaliseerd aan Acme) vinden. Deze stap zorgt ervoor dat we één enkele representatie hebben van de benoemde account in Marketo en alle leads binnen één benoemde account kunnen zien.
+**Stap 2 -** wij normaliseren de bedrijfsnamen die wij gebaseerd op diverse loodattributen (b.v., Acme Inc. en Acme Corp worden automatisch genormaliseerd aan Acme) vinden. Deze stap zorgt ervoor dat we één enkele representatie hebben van de benoemde account in Marketo en alle leads binnen één benoemde account kunnen zien.
 
 **Stap 3 -** Wij verdelen gelijke lood in 2 emmers: Sterke overeenkomst en zwakke overeenkomst.
 
 * Zwak overeenkomende leads worden weergegeven op de benoemde accounts die vervolgens handmatig kunnen worden opgelost.
 
-**Stap 4 -** Wij presenteren een lijst van voorgestelde bedrijven met sterke en zwakke overeenkomsten. Wanneer een benoemde account wordt gemaakt op basis van een van de voorgestelde bedrijven, maken we matchingsregels om automatisch nieuwe leads (bijvoorbeeld lead completed a form) te koppelen die naar de juiste benoemde accounts gaan. Op deze manier kunt u zich minder zorgen maken over overeenkomende leads en meer over het verkrijgen van inkomsten.
+**Stap 4 -** Wij presenteren een lijst van voorgestelde bedrijven met sterke en zwakke overeenkomsten. Wanneer een benoemde account wordt gemaakt op basis van een van de voorgestelde bedrijven, maken we matchingsregels om automatisch nieuwe leads (bijvoorbeeld een ingevuld formulier) te koppelen die naar de juiste benoemde accounts gaan. Op deze manier kunt u zich minder zorgen maken over overeenkomende leads en meer over het verkrijgen van inkomsten.
 
-Aangezien Marketo Lead-to-Account matching een ingebouwde functie is van Marketo Account Based Marketing, vindt matching van accounts plaats in bijna realtime (bijvoorbeeld wanneer een lead een Marketo-formulier invult, wordt gezegd dat lead met de rechteraccount is gekoppeld). Deze gebeurtenis kan worden gebruikt om waarschuwingen te activeren en rekeninghouders op de hoogte te stellen van de nieuwe leads die vanuit hun benoemde accounts worden ontvangen.
+Aangezien Marketo Lead-to-Account matching een ingebouwde functie is van Marketo Account Based Marketing, vindt matching van accounts plaats in bijna realtime (wanneer een lead bijvoorbeeld een Marketo-formulier invult, wordt gezegd dat lead met de rechteraccount is gekoppeld). Deze gebeurtenis kan worden gebruikt om waarschuwingen te activeren en rekeninghouders op de hoogte te stellen van de nieuwe leads die vanuit hun benoemde accounts worden ontvangen.
 
 >[!NOTE]
 >
@@ -43,5 +43,4 @@ Aangezien Marketo Lead-to-Account matching een ingebouwde functie is van Marketo
 
 >[!MORELIKETHIS]
 >
->* [Accounts detecteren](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-
+>[Accounts detecteren](/help/marketo/product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
