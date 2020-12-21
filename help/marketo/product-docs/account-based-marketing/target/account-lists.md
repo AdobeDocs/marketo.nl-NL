@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Accountlijsten - Marketo Docs - Productdocumentatie
 title: Accountlijsten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 
 >[!NOTE]
 >
->Accountlijsten die zijn gemaakt in Marketo Account Based Marketing zijn automatisch beschikbaar wanneer u slimme lijsten en webcampagnes maakt in [Webpersonalisatie](http://docs.marketo.com/display/DOCS/RTP+Segments).
+>Accountlijsten die zijn gemaakt in Marketo Account Based Marketing zijn automatisch beschikbaar wanneer u slimme lijsten en webcampagnes maakt in [Webpersonalisatie](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Een nieuwe accountlijst maken {#create-a-new-account-list}
 
@@ -33,7 +33,7 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 
    ![](assets/three-0.png)
 
-1. Nadat u uw rekeningslijst creeert, begin op [toevoegend genoemde rekeningen aan het](http://docs.marketo.com/display/DOCS/Add+an+Existing+Named+Account+to+an+Account+List)!
+1. Nadat u uw rekeningslijst creeert, begin op [toevoegend genoemde rekeningen aan het](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)!
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 
 >[!NOTE]
 >
->Deze stappen zijn alleen van toepassing op accountlijsten. *In de lijst* Dynamicaccount wordt de naam van de bijbehorende CRM-accountweergaven gebruikt.
+>Deze stappen zijn alleen van toepassing op accountlijsten. _In de lijst_ Dynamicaccount wordt de naam van de bijbehorende CRM-accountweergaven gebruikt.
 
 1. Selecteer de account waarvan u de naam wilt wijzigen, klik op de vervolgkeuzelijst **Accountlijst Handelingen** en selecteer **Naam van accountlijst wijzigen**.
 
@@ -91,10 +91,6 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 
 >[!MORELIKETHIS]
 >
->* [Een bestaand benoemd account toevoegen aan een accountlijst](named-accounts/add-an-existing-named-account-to-an-account-list.md)
->* [Accountlijstinzichten](../../../product-docs/account-based-marketing/measure/account-list-insights.md)
-
->
-
-
+>* [Een bestaand benoemd account toevoegen aan een accountlijst](/help/marketo/product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [Accountlijstinzichten](/help/marketo/product-docs/account-based-marketing/measure/account-list-insights.md)
 
