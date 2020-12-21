@@ -3,9 +3,9 @@ unique-page-id: 26837421
 description: Creeer een Gelijke Publiek op LinkedIn - Marketo Docs - de Documentatie van het Product
 title: Een passend publiek maken op LinkedIn
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Maak overeenkomende soorten publiek op basis van uw ABM-accountlijsten voor Link
 
 >[!PREREQUISITES]
 >
->[Voeg LinkedIn Gelijke Publiek als Dienst van LaunchPoint toe](http://docs.marketo.com/x/I4Fy)
+>[Voeg LinkedIn Gelijke Publiek als Dienst van LaunchPoint toe](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. Klik in ABM op het tabblad **Accountlijsten**.
 
@@ -49,13 +49,6 @@ Maak overeenkomende soorten publiek op basis van uw ABM-accountlijsten voor Link
 
    Dat is het. Uw publiek is naar LinkedIn geduwd.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [Een lijst met markeertekens of een slimme lijst gebruiken als een segment voor LinkedIn-publiek](http://docs.marketo.com/x/NIFy)
-
->
-
-
-
+>[Een lijst met markeertekens of een slimme lijst gebruiken als een segment voor LinkedIn-publiek](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
