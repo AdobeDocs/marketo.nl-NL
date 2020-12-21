@@ -3,9 +3,9 @@ unique-page-id: 11380774
 description: Accountscore - Marketo Docs - Productdocumentatie
 title: Accountscore
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e125f8469239a026aefb703fdb6ba99c32e33565
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -32,9 +32,7 @@ In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één persoon
 
 >[!NOTE]
 >
->**Toelichting**
->
->Als u accountscores wilt berekenen, moet u eerst loodscores maken. Marketo ABM aggregeert automatisch leadscores naar accountscores. Als voorbeeld, zullen wij twee van de bovengenoemde voorbeelden (*Account **Score van de Rente van het Product* en *de Score van de Betrokkenheid van het Web van de Rekening*) nemen.
+>Als u accountscores wilt berekenen, moet u eerst loodscores maken. Marketo ABM aggregeert automatisch leadscores naar accountscores. Als voorbeeld, zullen wij twee van de bovengenoemde voorbeelden (_Score van de Rente van het Product van de Rekening_ en _Score van de Betrokkenheid van het Web van de Rekening_) nemen.
 >
 >Maak eerst loodscore-velden waarin relevante details van elke lead van een doelaccount worden vastgelegd.\
 >Wijs vervolgens die leadscores toe aan hun respectievelijke accountscores:\
@@ -61,17 +59,16 @@ Nadat u de hoofdscore hebt geconfigureerd, voert u de onderstaande stappen uit.
 
    >[!NOTE]
    >
-   >U kunt maximaal **5 **velden kiezen om de accountscore te berekenen.
+   >U kunt maximaal **vijf** velden kiezen om de accountscore te berekenen.
 
 1. Ga de naam van de Score van de Rekening in, klik **Uitgezochte Score** drop-down en selecteer de overeenkomstige score.
 
    ![](assets/four.png)
 
-1. Klik op **+Toevoegen ** om meer scores toe te voegen.
+1. Klik **+Add** om meer scores toe te voegen.
 
    ![](assets/five.png)
 
 1. Voeg alle gewenste scores toe. Klik **Opslaan** wanneer gereed.
 
    ![](assets/six.png)
-
