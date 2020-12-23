@@ -3,9 +3,9 @@ unique-page-id: 2949253
 description: SEO - verwijder/schrap een Binnenkomende Verbinding URL - Marketo Docs - de Documentatie van het Product
 title: SEO - verwijder/verwijder een Binnenkomende Verbinding URL
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,9 @@ Soms wilt u binnenkomende koppelingen verwijderen. Hieronder wordt beschreven ho
 1. Houd de muisaanwijzer boven de URL van de binnenkomende koppeling die u wilt verwijderen.
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
-Klik op VERWIJDEREN.
+
+1. Klik **Verwijderen**.
+
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 
-   Niveau up! U hebt deze binnenkomende koppeling nu verwijderd.
-
+U hebt deze binnenkomende koppeling nu verwijderd.
