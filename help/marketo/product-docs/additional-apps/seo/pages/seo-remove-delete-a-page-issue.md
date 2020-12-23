@@ -3,9 +3,9 @@ unique-page-id: 2949264
 description: SEO - Een pagina-probleem verwijderen/verwijderen - Marketo Docs - Productdocumentatie
 title: SEO - Een pagina-probleem verwijderen/verwijderen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Een pagina-probleem verwijderen/verwijderen {#seo-remove-delete-a-page-issue}
 
-Mogelijk zijn niet alle pagina-problemen nuttig voor u. Hieronder wordt beschreven hoe u een sjabloon kunt verwijderen:
+Mogelijk zijn niet alle pagina-problemen nuttig voor u. Zo verwijder je er een.
 
 1. Ga naar de sectie **Pagina&#39;s**.
 
@@ -23,11 +23,11 @@ Mogelijk zijn niet alle pagina-problemen nuttig voor u. Hieronder wordt beschrev
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen. Klik **VERWIJDEREN**.
+1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen. Klik **Verwijderen**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Als u op **DELETE** klikt, wordt dit pagina-probleem permanent verwijderd.
+1. Als u op **Delete** klikt, wordt dit pagina-probleem permanent verwijderd.
 
    >[!CAUTION]
    >
@@ -35,5 +35,4 @@ Mogelijk zijn niet alle pagina-problemen nuttig voor u. Hieronder wordt beschrev
 
    ![](assets/image2014-9-18-14-3a1-3a28.png)
 
-   Zoet! Uw pagina-uitgave is nu verwijderd.
-
+Zoet! Uw pagina-uitgave is nu verwijderd.
