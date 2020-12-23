@@ -3,9 +3,9 @@ unique-page-id: 2949251
 description: SEO - voeg/verwijder een Binnenkomende Verbinding URL van een Lijst toe - Marketo Docs - de Documentatie van het Product
 title: SEO - voeg/verwijder een Binnenkomende Verbinding URL van een Lijst toe
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ U kunt uw binnenkomende verbinding URLs aan de inhoud van uw hart organiseren.
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Houd de muisaanwijzer boven de binnenkomende URL van de koppeling die u wilt indelen. Klik op Toevoegen/Verwijderen uit lijst.
+1. Houd de muisaanwijzer boven de binnenkomende URL van de koppeling die u wilt indelen. Klik **Toevoegen/verwijderen uit lijst**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -35,15 +35,17 @@ U kunt uw binnenkomende verbinding URLs aan de inhoud van uw hart organiseren.
 
 ## Een binnenkomende URL van een koppeling verwijderen uit een lijst {#remove-an-inbound-link-url-from-a-list}
 
-1. Soms zult u een binnenkomende verbinding URL&#39;s uit een lijst willen verwijderen.
+Soms zult u een binnenkomende verbinding URL&#39;s uit een lijst willen verwijderen.
+
+1. Klik **Binnenkomende Verbindingen**.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Klik op Filteren op keuzelijst. Klik op de lijst die u wilt opruimen.
+1. Klik op de vervolgkeuzelijst **Filteren op lijst**. Klik op de lijst die u wilt opruimen.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Houd de muisaanwijzer boven de URL van de binnenkomende koppeling die u wilt verwijderen. Klik op Toevoegen/Verwijderen uit lijst.
+1. Houd de muisaanwijzer boven de URL van de binnenkomende koppeling die u wilt verwijderen. Klik **Toevoegen/verwijderen uit lijst**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 
