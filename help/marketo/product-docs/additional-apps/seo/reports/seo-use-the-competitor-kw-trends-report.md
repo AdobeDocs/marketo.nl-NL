@@ -3,7 +3,7 @@ unique-page-id: 2949270
 description: SEO - gebruik het Concurrentie KW rapport van de Trends - Marketo Docs - de Documentatie van het Product
 title: SEO - Gebruik van het rapport KW-trends voor de concurrent
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -59,4 +59,3 @@ In deze grafiek kunt u zien welk percentage van uw trefwoorden in een opgegeven 
    ![](assets/image2014-9-18-14-3a9-3a49.png)
 
    Een+ werk!
-
