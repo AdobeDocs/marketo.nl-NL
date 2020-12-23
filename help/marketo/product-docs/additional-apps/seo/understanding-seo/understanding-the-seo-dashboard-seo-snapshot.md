@@ -3,7 +3,7 @@ unique-page-id: 2949178
 description: Begrijpen van het SEO-dashboard - SEO-momentopname - Marketo-documenten - Productdocumentatie
 title: SEO-dashboard begrijpen - SEO-momentopname
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Gebruik het dashboard om een mening op hoog niveau van te krijgen hoe de sleutelwoordrang trending is en hoe goed uw plaats voor SEO wordt geoptimaliseerd.
 
-Als u wilt weten waarop u zich moet concentreren om uw SEO-inspanningen te verbeteren, gebruikt u de sectie [Recommendations](understanding-the-seo-dashboard-seo-recommendations.md) van dit dashboard.
+Als u wilt weten waarop u zich moet concentreren om uw SEO-inspanningen te verbeteren, gebruikt u de sectie [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) van dit dashboard.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## Samenvatting trefwoordgroep {#keyword-rank-summary}
 
-In deze sectie ziet u hoe uw site wordt gerangschikt voor de [trefwoorden waarop u zich richt](../../../../product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+In deze sectie ziet u hoe uw site wordt gerangschikt voor de [trefwoorden waarop u zich richt](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ In deze sectie ziet u hoe uw site wordt gerangschikt voor de [trefwoorden waarop
 
 >[!TIP]
 >
->U kunt ook bekijken hoe een [specifieke lijst](../../../../product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) van sleutelwoorden uitvoert. Klik op de vervolgkeuzelijst en selecteer welke voor u van belang is.
+>U kunt ook bekijken hoe een [specifieke lijst](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) van sleutelwoorden uitvoert. Klik op de vervolgkeuzelijst en selecteer welke voor u van belang is.
 
 Roteren! Laten we doorgaan.
 
@@ -63,9 +63,4 @@ Eenvoudig, toch? Laten we nu eens kijken naar de Recommendations-sectie van dit 
 
 >[!MORELIKETHIS]
 >
->* [Het dashboard begrijpen: SEO Recommendations](understanding-the-seo-dashboard-seo-recommendations.md)
-
->
-
-
-
+>[Het dashboard begrijpen: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
