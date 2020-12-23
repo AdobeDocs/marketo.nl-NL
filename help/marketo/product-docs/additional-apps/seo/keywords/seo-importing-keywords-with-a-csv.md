@@ -3,9 +3,9 @@ unique-page-id: 2949206
 description: SEO - Het invoeren van Sleutelwoorden met CSV - Marketo Docs - de Documentatie van het Product
 title: SEO - Trefwoorden importeren met een CSV
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # SEO - Het invoeren van Sleutelwoorden met CSV {#seo-importing-keywords-with-a-csv}
 
-1. U kunt [trefwoorden toevoegen](seo-add-keywords.md) handmatig, [trefwoordsuggesties ophalen](seo-get-suggested-keywords.md) en zelfs trefwoorden importeren uit een CSV-bestand. Hieronder wordt beschreven hoe u het bestand importeert.
+1. U kunt [trefwoorden toevoegen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) handmatig, [trefwoordsuggesties ophalen](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) en zelfs trefwoorden importeren uit een CSV-bestand. Hieronder wordt beschreven hoe u het bestand importeert.
+
 1. Ga naar de **sectie Keywords**.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
@@ -34,7 +35,7 @@ ht-degree: 0%
    >
    >De importbeperkingen zijn afhankelijk van uw abonnement. Neem contact op met je verkoper voor meer informatie.
 
-1. Klik **IMPORTEREN**.
+1. Klik **Importeren**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
@@ -44,13 +45,8 @@ ht-degree: 0%
 
    Het kan een paar minuten duren om alle gegevens te laden die aan elk trefwoord zijn gekoppeld. Meditate over de betekenis van het leven.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Trefwoorden begrijpen (overzichtsweergave)](seo-understanding-keywords.md)
-   >    * [Trefwoorden toevoegen aan of verwijderen uit een lijst](seo-add-remove-keywords-from-a-list.md)
-
+   >* [Trefwoorden begrijpen (overzichtsweergave)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Trefwoorden toevoegen aan of verwijderen uit een lijst](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 
