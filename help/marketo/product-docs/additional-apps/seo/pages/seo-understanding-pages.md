@@ -3,9 +3,9 @@ unique-page-id: 2949184
 description: SEO - Pagina's begrijpen - Marketo Docs - Productdocumentatie
 title: SEO - Pagina's begrijpen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ ht-degree: 0%
 
 De score voor Paginaoptimalisatie is een algemene rangschikking van hoe goed uw pagina is geoptimaliseerd voor zoeken, op een schaal van 1 tot 100. Het is gebaseerd op tientallen beste praktijken in SEO.
 
-* ~ 00 - 35 = Niet goed geoptimaliseerd
-* ~ 35 - 70 = Op de rechterbaan
-* ~ 70 - 100 = geweldig doen!
+* 0 - 35 = Niet goed geoptimaliseerd
+* 35 - 70 = Op de rechterbaan
+* 70 - 100 = geweldig doen!
 
 >[!TIP]
 >
@@ -38,7 +38,7 @@ Op het tabblad Pagina&#39;s ziet u hoe goed afzonderlijke pagina&#39;s op uw sit
 | Titel | Titel en URL van alle pagina&#39;s in uw domein. Verifieer uw domein. |
 | Optimalisatiescore | De geheime saus die wordt gebruikt om u te tonen hoe goed uw pagina voor onderzoek op een schaal van 1 tot 100 wordt geoptimaliseerd. |
 | Koppelingen | Aantal verschillende domeinen met minstens 1 inkomende verbinding aan uw plaats. |
-| Doeltrefwoorden | De trefwoorden waarvoor u elke pagina optimaliseert. [Hiervoor is uw invoer](seo-using-the-page-detail-drill-down.md) vereist. |
+| Doeltrefwoorden | De trefwoorden waarvoor u elke pagina optimaliseert. [Hiervoor is uw invoer](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) vereist. |
 
 ## Tabblad Problemen {#issues-tab}
 
@@ -53,7 +53,4 @@ Op het tabblad Problemen wordt aangegeven welke verbeteringen u kunt doorvoeren 
 | Categorie | Het type emissie dat wordt gerapporteerd. |
 | Status | Is de taak voltooid of nog open. Nadat u en uw webstramien het probleem op uw site hebben verholpen, verandert de status in opgelost (groene controle). |
 
-Geweldig, nu u de basisprincipes van pagina&#39;s kent, bekijk het artikel van de Brijver van het Detail van de Pagina neer om meer coole dingen te leren u kunt doen.
-
-* [De boor Page Detail Down gebruiken](seo-using-the-page-detail-drill-down.md)
-
+Geweldig, nu u de grondbeginselen van pagina&#39;s kent, bekijk [het artikel ](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) van de Boordetails van de Pagina neer om meer coole dingen te leren u kunt doen.
