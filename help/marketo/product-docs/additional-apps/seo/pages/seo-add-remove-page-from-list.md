@@ -3,9 +3,9 @@ unique-page-id: 2949218
 description: SEO - Pagina toevoegen/verwijderen uit lijst - Marketo Docs - Productdocumentatie
 title: SEO - Pagina toevoegen/verwijderen uit lijst
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Wilt u uw pagina&#39;s beheren? Dat kunt u eenvoudig doen door een lijst te make
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Houd de muisaanwijzer boven de pagina die u aan een lijst wilt toevoegen. Klik **TOEVOEGEN/VERWIJDEREN UIT LIJST**.
+1. Houd de muisaanwijzer boven de pagina die u aan een lijst wilt toevoegen. Klik **Toevoegen/verwijderen uit lijst**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -37,7 +37,7 @@ Wilt u uw pagina&#39;s beheren? Dat kunt u eenvoudig doen door een lijst te make
 
    ![](assets/image2014-9-18-13-3a3-3a40.png)
 
-1. Yay! Nu wordt de pagina aan de lijst toegevoegd.
+Yay! Nu wordt de pagina aan de lijst toegevoegd.
 
 ## Pagina verwijderen uit een lijst {#remove-page-from-a-list}
 
@@ -45,11 +45,11 @@ Wilt u uw pagina&#39;s beheren? Dat kunt u eenvoudig doen door een lijst te make
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. Klik op het tabblad Pagina&#39;s op de lijst die u wilt opruimen.
+1. Klik op de lijst die u wilt opruimen op het tabblad Pagina&#39;s.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen. Klik **TOEVOEGEN/VERWIJDEREN UIT LIJST**.
+1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen. Klik **Toevoegen/verwijderen uit lijst**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
@@ -61,5 +61,4 @@ Wilt u uw pagina&#39;s beheren? Dat kunt u eenvoudig doen door een lijst te make
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-1. Boom. Gereed. De pagina wordt verwijderd uit de lijst.
-
+Gereed. De pagina wordt uit de lijst verwijderd.
