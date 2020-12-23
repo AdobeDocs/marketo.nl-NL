@@ -3,7 +3,7 @@ unique-page-id: 2949186
 description: SEO - Het gebruiken van de boor van het Detail van de Pagina neer - Marketo DOS - de Documentatie van het Product
 title: SEO - De boor Page Detail Down gebruiken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -46,7 +46,7 @@ U kunt veel informatie over uw pagina&#39;s zien met de diepteboor van de pagina
 
 ## Trefwoord(en) waarvoor de pagina is geoptimaliseerd voor {#keyword-s-that-page-is-optimized-for}
 
-In dit geval [selecteert u welk trefwoord u wilt optimaliseren voor de pagina voor](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+In dit geval [selecteert u welk trefwoord u wilt optimaliseren voor de pagina voor](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >
@@ -64,9 +64,4 @@ Mooi zoet, toch? Meer weten over Pagina&#39;s hier?
 
 >[!MORELIKETHIS]
 >
->* [Specifieke pagina&#39;s met doeltrefwoorden optimaliseren](../../../../product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-
->
-
-
-
+>[Specifieke pagina&#39;s met doeltrefwoorden optimaliseren](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
