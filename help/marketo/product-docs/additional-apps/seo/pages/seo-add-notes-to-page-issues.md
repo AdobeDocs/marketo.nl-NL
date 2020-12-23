@@ -3,9 +3,9 @@ unique-page-id: 2949220
 description: SEO - Notities toevoegen aan paginaproblemen - Marketo Docs - Productdocumentatie
 title: SEO - Notities toevoegen aan pagina-problemen
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Wist u dat u notities kunt toevoegen aan paginaproblemen als persoonlijke herinn
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. Klik op het tabblad Pagina&#39;s op Problemen.
+1. Klik op **Issues** op het tabblad Pagina&#39;s.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Houd de muisaanwijzer boven het probleem waaraan u een notitie wilt toevoegen. Klik op NOTITIE STICKY TOEVOEGEN.
+1. Houd de muisaanwijzer boven het probleem waaraan u een notitie wilt toevoegen. Klik **Notitie toevoegen**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -35,7 +35,7 @@ Wist u dat u notities kunt toevoegen aan paginaproblemen als persoonlijke herinn
 
 >[!TIP]
 >
->U kunt de notitie verwijderen door op de kleine x in de linkerbovenhoek te klikken.
+>U kunt uw nota schrappen door kleine **x** in de hogere linkerhoek te klikken.
 
 ## Notities toevoegen in opboeking van paginadetails {#add-notes-in-page-detail-drill-down}
 
@@ -47,15 +47,14 @@ Wist u dat u notities kunt toevoegen aan paginaproblemen als persoonlijke herinn
 
    ![](assets/image2014-9-18-13-3a13-3a42.png)
 
-1. Houd de muis boven de pagina-uitgave waaraan u een notitie wilt toevoegen en klik op **NOTITIE TOEVOEGEN**.
+1. Houd de muis boven de pagina-uitgave waaraan u een notitie wilt toevoegen en klik op **Notitie toevoegen**.
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Voer uw notitie in. Klik **OPSLAAN**.
+1. Voer uw notitie in. Klik **Opslaan**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 
-   Groovy. Uw opmerking is toegevoegd.
+   Uw opmerking is toegevoegd!
 
    ![](assets/image2014-9-18-13-3a14-3a20.png)
-
