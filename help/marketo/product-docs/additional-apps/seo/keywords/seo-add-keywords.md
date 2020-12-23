@@ -3,9 +3,9 @@ unique-page-id: 2949204
 description: SEO - Trefwoorden toevoegen - Marketo Docs - Productdocumentatie
 title: SEO - Trefwoorden toevoegen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Trefwoorden zijn zinnen die mensen typen in zoekmachines. Voeg de trefwoorden to
 
 >[!NOTE]
 >
->Als u veel trefwoorden hebt, kunt u deze [importeren met een CSV-bestand](seo-importing-keywords-with-a-csv.md).
+>Als u veel trefwoorden hebt, kunt u deze [importeren met een CSV-bestand](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
 
 1. Ga naar de **sectie Keywords**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Voer de trefwoorden in die u wilt gebruiken en klik op **OPSLAAN**.
+1. Voer de trefwoorden in die u wilt gebruiken en klik op **Opslaan**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 
@@ -33,13 +33,8 @@ Trefwoorden zijn zinnen die mensen typen in zoekmachines. Voeg de trefwoorden to
 
    ![](assets/image2014-9-18-11-3a29-3a12.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Trefwoorden begrijpen (overzichtsweergave)](seo-understanding-keywords.md)
-
+   >[Trefwoorden begrijpen (overzichtsweergave)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
 
 Goed gedaan! De nieuwe toevoegingen aan de lijst met trefwoorden worden nu weergegeven.
