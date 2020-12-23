@@ -3,9 +3,9 @@ unique-page-id: 2949678
 description: SEO - voeg/verwijder Sleutelwoorden uit een Lijst toe - Marketo Docs - de Documentatie van het Product
 title: SEO - Trefwoorden toevoegen/verwijderen uit een lijst
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ U kunt al uw trefwoorden mooi houden en ordenen met behulp van lijsten. Zo kunt 
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Houd de muisaanwijzer boven het trefwoord dat u aan een lijst wilt toevoegen. Klik **TOEVOEGEN/VERWIJDEREN UIT LIJST**.
+1. Houd de muisaanwijzer boven het trefwoord dat u aan een lijst wilt toevoegen. Klik **Toevoegen/verwijderen uit lijst**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -35,7 +35,7 @@ U kunt al uw trefwoorden mooi houden en ordenen met behulp van lijsten. Zo kunt 
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
-Wehoo! Selecteer de lijst om de nieuwe trefwoorden weer te geven.
+Woo hoo! Selecteer de lijst om de nieuwe trefwoorden weer te geven.
 
 ## Trefwoord verwijderen uit lijst {#remove-keyword-from-list}
 
@@ -45,7 +45,7 @@ U kunt ook trefwoorden uit een lijst verwijderen.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Houd de muisaanwijzer boven het trefwoord dat u uit een lijst wilt verwijderen. Klik **TOEVOEGEN/VERWIJDEREN UIT LIJST**.
+1. Houd de muisaanwijzer boven het trefwoord dat u uit een lijst wilt verwijderen. Klik **Toevoegen/verwijderen uit lijst**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -53,15 +53,12 @@ U kunt ook trefwoorden uit een lijst verwijderen.
 
    >[!NOTE]
    >
-   >Alle lijsten waartoe het trefwoord momenteel behoort, hebben een vinkje. Zodra u de controle uit de lijst hebt verwijderd, verdwijnt deze. Magisch!
+   >Alle lijsten waartoe het trefwoord momenteel behoort, hebben een vinkje. Zodra u de controle uit de lijst hebt verwijderd, verdwijnt deze.
 
    ![](assets/image2014-9-18-11-3a50-3a41.png)
 
    Perfect, het sleutelwoord is niet meer op deze lijst. Vernieuw de pagina om de weergave bij te werken.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >    
-   >* [Trefwoorden begrijpen (overzichtsweergave)](seo-understanding-keywords.md)
-
+   >[Trefwoorden begrijpen (overzichtsweergave)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
