@@ -3,9 +3,9 @@ unique-page-id: 2949243
 description: SEO - voeg/verwijder Kolommen toe uit uw sleutelwoordenmening - Marketo Docs - de Documentatie van het Product
 title: SEO - Kolommen toevoegen/verwijderen uit uw trefwoordenweergave
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ U kunt uw sleutelwoordmening aanpassen om de gegevens te tonen u het interessant
 
    Dit zijn de standaardkolommen:
 
-1. ![](assets/image2014-9-18-13-3a37-3a36.png)
+   ![](assets/image2014-9-18-13-3a37-3a36.png)
 
 1. Klik op het tandwielpictogram.
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Selecteer of maak de kolommen ongedaan u wilt zien. Klik **OPSLAAN**.
+1. Selecteer of maak de kolommen ongedaan u wilt zien. Klik **Opslaan**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
@@ -35,12 +35,6 @@ U kunt uw sleutelwoordmening aanpassen om de gegevens te tonen u het interessant
 
    ![](assets/image2014-9-18-13-3a37-3a46.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Trefwoorden begrijpen - Samenvattingsweergave](seo-understanding-keywords.md)
-
-
+   >[Trefwoorden begrijpen - Samenvattingsweergave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
