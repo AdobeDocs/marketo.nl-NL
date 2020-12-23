@@ -3,7 +3,7 @@ unique-page-id: 2949180
 description: Werken met het SEO-dashboard - SEO Recommendations - Marketo Docs - Productdocumentatie
 title: Het SEO-dashboard begrijpen - SEO Recommendations
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -21,7 +21,7 @@ U kunt ook nagaan hoe u het gebruik van de sectie Recommendations kunt verbetere
 
 ## Problemen bij optimalisatie van de bovenste pagina {#top-page-optimization-issues}
 
-Zo ziet u vijf belangrijke manieren om uw site meteen te optimaliseren! Klik enkel op om het even welke verbindingen om volledige [boor van het Detail van de Pagina neer](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) te bekijken.
+Zo ziet u vijf belangrijke manieren om uw site meteen te optimaliseren! Klik enkel op om het even welke verbindingen om volledige [boor van het Detail van de Pagina neer](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) te bekijken.
 
 >[!TIP]
 >
@@ -43,5 +43,4 @@ Rechts! Duik hier dieper.
 
 >[!MORELIKETHIS]
 >
->* [Pagina-detailpagina omlaag](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-
+>[Pagina-detailpagina omlaag](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
