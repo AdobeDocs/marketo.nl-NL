@@ -3,7 +3,7 @@ unique-page-id: 2949212
 description: SEO - Specifieke pagina's optimaliseren met doeltrefwoorden - Marketo Docs - Productdocumentatie
 title: SEO - Specifieke pagina's optimaliseren met doeltrefwoorden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sommige trefwoorden gaan heel goed met bepaalde pagina&#39;s. Zo past u het perf
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Selecteer voor welk trefwoord u de pagina wilt optimaliseren. Klik **UPDATE**.
+1. Selecteer voor welk trefwoord u de pagina wilt optimaliseren. Klik **Update**.
 
    >[!TIP]
    >
@@ -32,4 +32,3 @@ Sommige trefwoorden gaan heel goed met bepaalde pagina&#39;s. Zo past u het perf
    ![](assets/image2014-9-18-12-3a52-3a46.png)
 
    Rechts! Doe dit voor zoveel mogelijk pagina&#39;s en trefwoorden.
-
