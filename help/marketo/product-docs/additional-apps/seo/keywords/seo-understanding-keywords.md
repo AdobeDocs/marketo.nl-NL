@@ -3,7 +3,7 @@ unique-page-id: 2949182
 description: SEO - Trefwoorden begrijpen - Marketo Docs - Productdocumentatie
 title: SEO - Trefwoorden begrijpen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Trefwoorden zijn de ruggengraat van uw SEO-strategie. Je doel is om op de eerste pagina te staan, zo dicht mogelijk bij #1 voor trefwoorden die relevant zijn voor je bedrijf.
 
-In de trefwoordensectie ziet u hoe succesvol uw site is om dit te bereiken en hoe u uw concurrentie opstapelt tot [a1/>.](../../../../product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+In de sectie Trefwoorden ziet u hoe succesvol uw site is om dit te bereiken en hoe u uw wedstrijd [opstart tot ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
 ## Trefwoorden - Samenvattingsweergave {#keywords-summary-view}
 
@@ -62,10 +62,6 @@ Geweldig! Nu u de sleutelwoordensectie begrijpt, leren wij over pagina&#39;s en 
 
 >[!MORELIKETHIS]
 >
->* [Pagina&#39;s begrijpen](../../../../product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
->* [Inkomende koppelingen begrijpen](../../../../product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
-
->
-
-
+>* [Pagina&#39;s begrijpen](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
+>* [Inkomende koppelingen begrijpen](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
 
