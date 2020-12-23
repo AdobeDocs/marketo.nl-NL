@@ -3,9 +3,9 @@ unique-page-id: 2949680
 description: SEO - Trefwoordtrends Grafiek - Marketo Docs - Productdocumentatie
 title: SEO - Trefwoordtrends grafiek
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - Trefwoordtrends grafiek {#seo-keyword-trends-chart}
 
-Het is belangrijk om te controleren hoe uw sleutelwoord [SERP Ranks](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) in tijd trending. Controleer dit coole diagram om de voortgang te controleren.
+Het is belangrijk om te controleren hoe uw sleutelwoord [SERP Ranks](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) in tijd trending. Controleer dit coole diagram om de voortgang te controleren.
 
 1. Ga naar de **sectie Keywords**.
 
@@ -23,18 +23,12 @@ Het is belangrijk om te controleren hoe uw sleutelwoord [SERP Ranks](../../../..
 
    ![](assets/image2014-9-18-12-3a5-3a11.png)
 
-   Zie? Het toont uw [SERP Rank](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) voor de afgelopen 30 dagen:
+   Zie? Het toont uw [SERP Rank](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) voor de afgelopen 30 dagen:
 
    ![](assets/image2014-9-18-12-3a5-3a14.png)
 
    Mooi nihil, hè? Meer informatie over de positie van trefwoorden vindt u in het rapport Trefwoordtrends.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Het rapport Trefwoordtrends gebruiken](../../../../product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
-
-
+   >[Het rapport Trefwoordtrends gebruiken](../../../../product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
