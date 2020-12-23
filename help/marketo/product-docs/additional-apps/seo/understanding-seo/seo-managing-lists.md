@@ -3,7 +3,7 @@ unique-page-id: 2949232
 description: SEO - Lists beheren - Marketo Docs - Productdocumentatie
 title: SEO - Lijsten beheren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt dingen aan lijsten toevoegen wanneer u sleutelwoorden, pagina&#39;s, paginakwesties, of binnenkomende verbindingen toevoegt. Lijsten helpen u georganiseerd blijven en laten u rapporten filtreren om slechts gegevens op die lijst te zien. Zo maak je ze:
 
-1. Klik **TREFWOORDEN TOEVOEGEN**.
+1. Klik **Trefwoorden toevoegen**.
 
    >[!NOTE]
    >
@@ -29,11 +29,10 @@ U kunt dingen aan lijsten toevoegen wanneer u sleutelwoorden, pagina&#39;s, pagi
 
    >[!TIP]
    >
-   >In de vervolgkeuzelijst kunt u een nieuwe lijst maken. Voer een titel in en druk op Enter.  ![—](assets/image2014-9-18-13-3a25-3a8.png)   >
+   >In de vervolgkeuzelijst kunt u een nieuwe lijst maken. Voer een titel in en druk op Enter.
 
-1. Klik **OPSLAAN**.
+1. Klik **Opslaan**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)
 
    Gelukkig organiseren!
-
