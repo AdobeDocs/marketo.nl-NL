@@ -3,9 +3,9 @@ unique-page-id: 2949208
 description: SEO - de Resultaten van het Trefwoord van de Filter - Marketo Dos - de Documentatie van het Product
 title: SEO - Trefwoordresultaten filteren
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SEO - de Resultaten van het Trefwoord van de Filter {#seo-filter-keyword-results}
 
-U zou veel [sleutelwoorden](seo-understanding-keywords.md) kunnen hebben. U kunt deze op verschillende manieren filteren:
+U zou veel [sleutelwoorden](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md) kunnen hebben. U kunt deze op verschillende manieren filteren:
 
 ## Filteren op lijst {#filter-by-list}
 
@@ -27,7 +27,7 @@ U zou veel [sleutelwoorden](seo-understanding-keywords.md) kunnen hebben. U kunt
 
    >[!NOTE]
    >
-   >Als u geen lijsten ziet, [l](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) [leer hoe te om een sleutelwoordlijst te maken](../../../../product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
+   >Als u geen lijsten ziet, [leer hoe te om een sleutelwoordlijst te maken](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md).
 
 Zoet! U zult nu slechts sleutelwoorden op die lijst bekijken.
 
@@ -37,7 +37,7 @@ Zoet! U zult nu slechts sleutelwoorden op die lijst bekijken.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
-   De oranje vierkantjes bepalen de bovenste (linker) en onderste (rechter) limiet. Het filter werkt op [SERP rank](../../../../product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) van het sleutelwoord.
+   De oranje vierkantjes bepalen de bovenste (linker) en onderste (rechter) limiet. Het filter werkt op [SERP rank](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md) van het sleutelwoord.
 
 1. Schuif de oranje vierkanten naar links/rechts om de resultaten te filteren.
 
@@ -54,6 +54,3 @@ U kunt ook de trefwoorden die u zoekt, vinden met het zoekveld in de rechterbove
 1. Voer het trefwoord in het zoekveld in.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)
-
-   Gefeliciteerd! U bent nu een sleutelwoord het filtreren samurai krijger!
-
