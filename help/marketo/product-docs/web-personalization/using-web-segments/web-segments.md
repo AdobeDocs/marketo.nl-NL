@@ -3,9 +3,9 @@ unique-page-id: 4719093
 description: Websegmenten - Marketo Docs - Productdocumentatie
 title: Websegmenten
 translation-type: tm+mt
-source-git-commit: f1fb2de271660904b8504e929f1428831e7188c1
+source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
 workflow-type: tm+mt
-source-wordcount: '2024'
+source-wordcount: '2031'
 ht-degree: 0%
 
 ---
@@ -101,32 +101,38 @@ Definieer algemene parameters voor uw segment:
 
 >[!TIP]
 >
->**Segmentregelgellogik**
+>**Logica voor segmentregels**
 >
->Es gibt drei Filteroptionen:
+>Er zijn drie filteropties:
 >
->1. Alle Filter verwenden (1, 2 en 3...)
->1. Alle Filter verwenden (1 oder 2 oder 3...)
->1. Erweiterte-filter (mit und/oder Ausdrücken)
+>1. Alle filters gebruiken (1 en 2 en 3...)
+>1. Alle filters gebruiken (1, 2 of 3...)
+>1. Geavanceerde filters (met en/of expressies)
 
    >
    >    
-   Mit erweiterten Filtern können Sie die Segmentbedingung steuern. Geben Sie die Filternumern getrennt durch &quot;und&quot;und &quot;oder&quot;ein.
-
+   Met geavanceerde filters kunt u de segmentvoorwaarde bepalen. Voer de filternummers in, gescheiden door &quot;en&quot; en &quot;of&quot;.
+   >
+   >    
    * 1, 2 en 3
-   * 1 oader 2 oader 3
+   >    * 1 of 2 of 3
 
-   Das Mischen von &quot;and&quot;und &quot;of&quot;erfordert Klammern, um die Logikabsicht zu Verutlichen. z. B. &quot;1 oder 2 und 3&quot; muss wie folgt geschrieben sein:
+   >
+   Het mengen van &quot;en&quot; en &quot;of&quot; vereist haakjes om logische intentie te verduidelijken. bijv. &quot;1 of 2 and 3&quot; moet worden geschreven als een van de volgende vermeldingen:
 
-   * 1 und (2° 3)
-   * (1 en 2) volgorde 3
+   * 1 en (2 of 3)
+   * (1 en 2) of 3
 
-   Verschachtelte Klammern werden für eine kompliziertere Logik, z.
+   Geneste haakjes worden geaccepteerd voor complexere logica, bijvoorbeeld
 
-   * (1 en 2) oder (3 en 4)
-   * 1 en 2, onder 3 en 4)
+   * (1 en 2) of (3 en 4)
+   * 1 en (2 of (3 en 4))
 
-   Überprüfen Sie Ihre Logik nach Einfügen, Löschen oder Neuanordnen.
+   Controleer uw logica na het invoegen, verwijderen of opnieuw rangschikken.
+
+
+
+
 
 
 De attributen van het Segment van de belemmering en van het daling van de rechterzijkolom in de segmentredacteur op de linkerkant:
@@ -151,7 +157,8 @@ Zodra het land wordt toegevoegd, kunt u de staat, de plaats en de postcode van h
 * **Steden** : ga naar de stad of steden die u wilt opnemen. Gebruik een puntkomma tussen steden.
 
 >[!TIP]
-**Welke segmentvoorwaarden kies ik? &quot;AND&quot; of &quot;OR&quot;?** OR werkt als een extra optie binnen elk gebied. De vooruitzichten behoeven slechts aan één criterium van de veelvoudige criteria te voldoen die binnen elk gebied worden geselecteerd om voor het segment in aanmerking te komen. (De vooruitzichten kunnen bijvoorbeeld van de V.S. zijn. *of* van de defensie-industrie). EN functioneert als een aanvullende verplichte parameter waaraan voor dit segment moet worden voldaan. (De vooruitzichten moeten bijvoorbeeld zowel vanuit de VS als vanuit de defensie-industrie liggen). Binnen elk segmentatieprofiel kan elk afzonderlijk veld functioneren als zowel &quot;AND&quot; als &quot;OR&quot;, afhankelijk van de geselecteerde segmentvoorwaarde.
+>
+>**Welke segmentvoorwaarden kies ik? &quot;AND&quot; of &quot;OR&quot;?** OR werkt als een extra optie binnen elk gebied. De vooruitzichten behoeven slechts aan één criterium van de veelvoudige criteria te voldoen die binnen elk gebied worden geselecteerd om voor het segment in aanmerking te komen. (De vooruitzichten kunnen bijvoorbeeld van de V.S. zijn. *of* van de defensie-industrie). EN functioneert als een aanvullende verplichte parameter waaraan voor dit segment moet worden voldaan. (De vooruitzichten moeten bijvoorbeeld zowel vanuit de VS als vanuit de defensie-industrie liggen). Binnen elk segmentatieprofiel kan elk afzonderlijk veld functioneren als zowel &quot;AND&quot; als &quot;OR&quot;, afhankelijk van de geselecteerde segmentvoorwaarde.
 
 **** IndustriesSchakel onder de sectie  **Profielsegmentatie het selectievakje naast** Industrie **** in.
 
@@ -188,7 +195,8 @@ Selecteer uit een [Benoemde Lijst van de Rekening](../../../product-docs/web-per
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
 >[!NOTE]
-Het aantal tussen de haakjes naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor de Personalisering van het Web [Lees API](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+>
+>Het aantal tussen de haakjes naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor de Personalisering van het Web [Lees API](http://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **ISP uitsluiten**
 
@@ -207,8 +215,10 @@ Selecteer Gegevensbestand, en selecteer een gebied van persoongegevens van drop-
 U kunt gegevensvelden voor personen toevoegen of verwijderen uit Account Settings > Database
 
 >[!TIP]
-De criteria voor het segment maken op basis van alle gegevensvelden voor personen van Marketo, zoals Functie; Score; Rol; enz.
-Eg. &quot;Functie is gelijk aan GMO&quot; en &quot;Score is kleiner dan of gelijk aan 50&quot;
+>
+>De criteria voor het segment maken op basis van alle gegevensvelden voor personen van Marketo, zoals Functie; Score; Rol; enz.
+>
+>Eg. &quot;Functie is gelijk aan GMO&quot; en &quot;Score is kleiner dan of gelijk aan 50&quot;
 
 **Marketo-e-** mailcampagneSegment maken en campagnes personaliseren door een bezoeker die op een Marketo-e-mail klikt en op de site arriveert via e-mail te verwijzen. Segment door de Naam van het Programma van Marketo of de Naam van de Campagne en vervolg het gesprek van e-mail aan Web. Selecteer + om gebieden van drop-down toe te voegen.
 
@@ -289,7 +299,8 @@ Voeg de waarde van de Gebeurtenis toe u wilt richten. Bijvoorbeeld uit gegevensb
 Web Personalization API call [read meer over het hier.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
-**Met jokertekens -** Wanneer u een zoekterm of URL wilt opnemen die iets in de naam bevat, dat wil zeggen: &quot;[google.com](http://google.com)&quot; of &quot;zoekterm product&quot;, noemen wij dit een jokerteken en het zou met een asterisk - deze kleine kerel* - op elk eind moeten worden ingevoerd. Daarom moet alles wat afkomstig is van [google.com](http://google.com) worden ingevoerd als * [google.com](http://google.com)*
+>
+>**Met jokertekens -** Wanneer u een zoekterm of URL wilt opnemen die iets in de naam bevat, dat wil zeggen: &quot;[google.com](http://google.com)&quot; of &quot;zoekterm product&quot;, noemen wij dit een jokerteken en het zou met een asterisk - deze kleine kerel* - op elk eind moeten worden ingevoerd. Daarom moet alles wat afkomstig is van [google.com](http://google.com) worden ingevoerd als * [google.com](http://google.com)*
 
 ## Segmenten {#edit-segments} bewerken
 
