@@ -3,7 +3,7 @@ unique-page-id: 6848705
 description: Beste praktijken - hoe te om uw Programma's te organiseren - Marketo Docs - de Documentatie van het Product
 title: Beste praktijken - hoe te om uw Programma's te organiseren
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 9a1713920e8d755ca77838896cdc5094f23fed09
 workflow-type: tm+mt
 source-wordcount: '859'
 ht-degree: 0%
@@ -28,35 +28,28 @@ Bij marketingactiviteiten moet u mappen gebruiken om uw programma&#39;s te organ
 >**Voorbeeld**
 >
 >* Actieve marketingprogramma&#39;s
->
->    * E-mails
->    * Gebeurtenissen
->
->        * Live gebeurtenissen/presentaties
->        * Tradeshows
->        * Webinars
->   * Nieuwsbrieven
->   * Verloop
->   * Webinhoud
->   * Webformulieren
+   >   * E-mails
+   >   * Gebeurtenissen
+      >      * Live gebeurtenissen/presentaties
+      >      * Tradeshows
+      >      * Webinars
+   >   * Nieuwsbrieven
+   >   * Verloop
+   >   * Webinhoud
+   >   * Webformulieren
 >* Leren
 >* Operationeel
->
->   * Levenscyclus
->   * Scores
->   * Gegevensbeheer
->* Sales Insight
->   * Interesserende momenten
->   * Verkoop-e-mails
->   * Verkoop aangevraagde campagnes
+   >   * Levenscyclus
+   >   * Scores
+   >   * Gegevensbeheer
+>* Verkoopoverzicht
+   >   * Interesserende momenten
+   >   * Verkoop-e-mails
+   >   * Verkoop aangevraagde campagnes
 >* **Archief**
->   * Gebeurtenissen archiveren
->      * Archief 2012
->      * Archief 2013
-
-
-
-
+   >   * Gebeurtenissen archiveren
+      >      * Archief 2012
+      >      * Archief 2013
 
 
 Elk van deze die in het voorbeeld worden vermeld is een omslag. U ziet hoe ze allemaal een unieke naam hebben. U kunt dubbele (eenvoudigere) namen van omslagen hebben INSIDE programma&#39;s, maar niet bij de wortel van de boom.
