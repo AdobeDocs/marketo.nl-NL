@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Websegmenten - Marketo Docs - Productdocumentatie
 title: Websegmenten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 44e4fd230bb1e997700f6b31290d224899561f9a
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -90,16 +90,14 @@ Van **Segmenten** pagina, klik **Nieuw** onder de grafiek creëren. Het volgende
 
 Definieer algemene parameters voor uw segment:
 
-1. &#x200B;
+* **Naam:**  Geef uw segment een naam.
+* **Beschrijving:**  Geef een gedetailleerdere uitleg van de segmentcriteria.
+* **Domeinen:**  selecteer het domein of de domeinen die u in het segment wilt opnemen.
+* **Segmentregellogica:**  selecteer een AND/OR-logica om elk segmenteringskenmerk te maken
+* **Timing:** Bepaal het niveau van bezoekersbetrokkenheid u in uw campagne wilt
 
-   * **Naam:**  Geef uw segment een naam.
-   * **Omschrijving:**  Geef een gedetailleerdere uitleg van de segmentcriteria.
-   * **Domeinen:**  Selecteer het domein of de domeinen u in het segment wilt omvatten.
-   * **Segmentregellogica:**  Selecteer een EN/OR-logica om elk segmenteringskenmerk te maken
-   * **Timing:** Bepaal het niveau van bezoekersbetrokkenheid u in uw campagne wilt
-
-      * **Bij binnenkomst**: Inschakelen van de bezoeker komt op de website
-      * **Na de eerste tot de negende klik**: De bezoeker inschakelen na een bepaalde hoeveelheid klikken op de website
+   * **Bij binnenkomst**: Inschakelen van de bezoeker komt op de website
+   * **Na de eerste tot de negende klik**: De bezoeker inschakelen na een bepaalde hoeveelheid klikken op de website
 
 >[!TIP]
 >
@@ -110,21 +108,27 @@ Definieer algemene parameters voor uw segment:
 >1. Alle filters gebruiken (1 en 2 en 3...)
 >1. Alle filters gebruiken (1, 2 of 3...)
 >1. Geavanceerde filters (met en/of expressies)
->    1. &#x200B;
->
->       Met geavanceerde filters kunt u de segmentvoorwaarde bepalen. Voer de filternummers in, gescheiden door &quot;en&quot; en &quot;of&quot;.
->       * 1, 2 en 3
->       * 1 of 2 of 3
->
->       Het mengen van &quot;en&quot; en &quot;of&quot; vereist haakjes om logische intentie te verduidelijken. bijv. &quot;1 of 2 and 3&quot; moet worden geschreven als een van de volgende vermeldingen:
->       * 1 en (2 of 3)
->       * (1 en 2) of 3
->
->       Geneste haakjes worden geaccepteerd voor complexere logica, bijvoorbeeld
->       * (1 en 2) of (3 en 4)
->       * 1 en (2 of (3 en 4))
->
->       Controleer uw logica na het invoegen, verwijderen of opnieuw rangschikken.
+
+   >
+   >    
+   Met geavanceerde filters kunt u de segmentvoorwaarde bepalen. Voer de filternummers in, gescheiden door &quot;en&quot; en &quot;of&quot;.
+   >
+   >    
+   * 1, 2 en 3
+   >    * 1 of 2 of 3
+
+   >
+   Het mengen van &quot;en&quot; en &quot;of&quot; vereist haakjes om logische intentie te verduidelijken. bijv. &quot;1 of 2 and 3&quot; moet worden geschreven als een van de volgende vermeldingen:
+
+   * 1 en (2 of 3)
+   * (1 en 2) of 3
+
+   Geneste haakjes worden geaccepteerd voor complexere logica, bijvoorbeeld
+
+   * (1 en 2) of (3 en 4)
+   * 1 en (2 of (3 en 4))
+
+   Controleer uw logica na het invoegen, verwijderen of opnieuw rangschikken.
 
 
 
@@ -139,12 +143,12 @@ De attributen van het Segment van de belemmering en van het daling van de rechte
 
 **Locatie**
 
-Sleep **Locatie **naar de segmenteditor.
+Sleep **Location** in de segmentredacteur.
 
 * Selecteer een van de volgende parameters:
 
-   * **Opnemen **- Selecteer of u een locatie in de campagne wilt opnemen of uitsluiten.
-   * **Selecteer land om toe te voegen**  - Van de drop-down doos, selecteer het land u in het segment wenst te omvatten. De landnaam wordt rechts weergegeven. U kunt meerdere landen kiezen.
+   * **Opnemen**  - Selecteer of u een locatie in de campagne wilt opnemen of uitsluiten.
+   * **Selecteer land om toe te voegen** - Van de drop-down doos, selecteer het land u in het segment wenst te omvatten. De landnaam wordt rechts weergegeven. U kunt meerdere landen kiezen.
 
 Zodra het land wordt toegevoegd, kunt u de staat, de plaats en de postcode van het segment ook specificeren.
 
@@ -154,7 +158,7 @@ Zodra het land wordt toegevoegd, kunt u de staat, de plaats en de postcode van h
 
 >[!TIP]
 >
->**Welke segmentvoorwaarden kies ik? &quot;AND&quot; of &quot;OR&quot;? **OR werkt als een extra optie binnen elk gebied. De vooruitzichten behoeven slechts aan één criterium van de veelvoudige criteria te voldoen die binnen elk gebied worden geselecteerd om voor het segment in aanmerking te komen. (De vooruitzichten kunnen bijvoorbeeld van de V.S. zijn. *of* van de defensie-industrie). EN functioneert als een aanvullende verplichte parameter waaraan voor dit segment moet worden voldaan. (De vooruitzichten moeten bijvoorbeeld zowel vanuit de VS als vanuit de defensie-industrie liggen). Binnen elk segmentatieprofiel kan elk afzonderlijk veld functioneren als zowel &quot;AND&quot; als &quot;OR&quot;, afhankelijk van de geselecteerde segmentvoorwaarde.
+>**Welke segmentvoorwaarden kies ik? &quot;AND&quot; of &quot;OR&quot;?** OR werkt als een extra optie binnen elk gebied. De vooruitzichten behoeven slechts aan één criterium van de veelvoudige criteria te voldoen die binnen elk gebied worden geselecteerd om voor het segment in aanmerking te komen. (De vooruitzichten kunnen bijvoorbeeld van de V.S. zijn. *of* van de defensie-industrie). EN functioneert als een aanvullende verplichte parameter waaraan voor dit segment moet worden voldaan. (De vooruitzichten moeten bijvoorbeeld zowel vanuit de VS als vanuit de defensie-industrie liggen). Binnen elk segmentatieprofiel kan elk afzonderlijk veld functioneren als zowel &quot;AND&quot; als &quot;OR&quot;, afhankelijk van de geselecteerde segmentvoorwaarde.
 
 **** IndustriesSchakel onder de sectie  **Profielsegmentatie het selectievakje naast** Industrie **** in.
 
@@ -179,12 +183,10 @@ Schakel onder de sectie **Profielsegmentatie** het vakje naast **Organisatie-gro
 
 **Organisaties**
 
-* 
+* **Is afkomstig van deze ondernemingen (specifieke namen)**
 
-   * **Is afkomstig van deze ondernemingen (specifieke namen)**
-
-      * Selecteer een bedrijf dat u als doel wilt instellen in de vervolgkeuzelijst &#39;Bedrijf selecteren om toe te voegen&#39;.
-      * U kunt de exacte organisatienaam typen waarop u zich wilt richten. *Het is *always *geadviseerd om de Lijsten van de Benoemde Rekening te gebruiken in plaats van de namen manueel voor betere gelijken (zie hieronder) te typen.*
+   * Selecteer een bedrijf dat u als doel wilt instellen in de vervolgkeuzelijst &#39;Bedrijf selecteren om toe te voegen&#39;.
+   * U kunt de exacte organisatienaam typen waarop u zich wilt richten. *Het is *always *geadviseerd om de Lijsten van de Benoemde Rekening te gebruiken in plaats van de namen manueel voor betere gelijken (zie hieronder) te typen.*
 
 **Lijst met benoemde accounts**
 
@@ -226,10 +228,8 @@ U kunt gegevensvelden voor personen toevoegen of verwijderen uit Account Setting
 
 Bepaal uw segment volgens de status van een vooruitzicht: bekend of anoniem.
 
-* 
-
-   * Bekend - selecteer deze optie van de drop-down doos voor bekende bezoekers. Een bezoeker is bekend wanneer hij of zij een formulier op uw website indient en op de pagina Personen voor webpersonalisatie wordt weergegeven.
-   * Anoniem - Selecteer deze optie in het keuzemenu voor anonieme bezoekers.
+* Bekend - selecteer deze optie van de drop-down doos voor bekende bezoekers. Een bezoeker is bekend wanneer hij of zij een formulier op uw website indient en op de pagina Personen voor webpersonalisatie wordt weergegeven.
+* Anoniem - Selecteer deze optie in het keuzemenu voor anonieme bezoekers.
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
@@ -237,41 +237,29 @@ Bepaal uw segment volgens de status van een vooruitzicht: bekend of anoniem.
 
 **Bezoekingen -** Definieer het segment op basis van het gedrag van de bezoeker of identificeer het.
 
-* 
+* Aantal bezoeken - Selecteer deze optie in het keuzemenu om het aantal bezoeken voor vooruitzichten op de website te specificeren.
 
-   * Aantal bezoeken - Selecteer deze optie in het keuzemenu om het aantal bezoeken voor vooruitzichten op de website te specificeren.
+   * Selecteer Gelijk aan, Gelijk aan of Groter dan, of Gelijk aan of minder dan van de drop-down doos.
 
-      * Selecteer Gelijk aan, Gelijk aan of Groter dan, of Gelijk aan of minder dan van de drop-down doos.
-   * Specifieke bezoeken - Selecteer deze optie in het keuzemenu om een specifieke bezoeker op te geven.
+* Specifieke bezoeken - Selecteer deze optie in het keuzemenu om een specifieke bezoeker op te geven.
 
-      * Voer in het tekstvak rechts het bezoekersnummer in dat u wilt bijhouden. Het unieke identificatienummer van de bezoeker van de Personalisatie van het Web kan worden gevonden wanneer het klikken op een bezoeker (op de bezoekerspagina) en de Vastgestelde Campagne op het juiste zijpaneel. De bezoeker-id bevindt zich in het gedeelte Geavanceerde instellingen. De bezoekersidentiteitskaart kan ook in URL (b.v. VISITOR=JZJIFJNUI60PZ8Y97BHTY9BL8PKWS) worden gevonden.
-
+   * Voer in het tekstvak rechts het bezoekersnummer in dat u wilt bijhouden. Het unieke identificatienummer van de bezoeker van de Personalisatie van het Web kan worden gevonden wanneer het klikken op een bezoeker (op de bezoekerspagina) en de Vastgestelde Campagne op het juiste zijpaneel. De bezoeker-id bevindt zich in het gedeelte Geavanceerde instellingen. De bezoekersidentiteitskaart kan ook in URL (b.v. VISITOR=JZJIFJNUI60PZ8Y97BHTY9BL8PKWS) worden gevonden.
 
 **Zoektermen**  - Definieer een segment volgens de zoektermen van een perspectief.
 
-* 
-
-   * De bezoeker heeft gezocht naar - Van de drop-down lijst, selecteer de termijnen u van uw bezoekersonderzoek wilt volgen, of uw eigen onderzoekstermijnen toevoegen. (Het jokerteken * is niet nodig voor zoektermen omdat dit standaard is ingesteld om woordgroepen met de zoekterm op te nemen.)
+* De bezoeker heeft gezocht naar - Van de drop-down lijst, selecteer de termijnen u van uw bezoekersonderzoek wilt volgen, of uw eigen onderzoekstermijnen toevoegen. (Het jokerteken * is niet nodig voor zoektermen omdat dit standaard is ingesteld om woordgroepen met de zoekterm op te nemen.)
 
 **Verwijzingen**  - URL&#39;s toevoegen waarnaar de bezoeker heeft verwezen.
 
-* 
-
-   * Selecteer verwijzingen die u wilt toevoegen - Selecteer in de vervolgkeuzelijst de verwijzingssites die u wilt bijhouden of voeg uw eigen verwijzing toe. Als deze optie is geselecteerd, worden de verwijzingen weergegeven in het onderstaande vak. (Het gebruik van * als jokerteken is toegestaan)
+* Selecteer verwijzingen die u wilt toevoegen - Selecteer in de vervolgkeuzelijst de verwijzingssites die u wilt bijhouden of voeg uw eigen verwijzing toe. Als deze optie is geselecteerd, worden de verwijzingen weergegeven in het onderstaande vak. (Het gebruik van * als jokerteken is toegestaan)
 
 **Inclusief pagina** &#39;s - Houd rekening met de vooruitzichten voor specifieke pagina&#39;s die op uw website worden bezocht.
 
-* 
-
-   * URL-overeenkomsten - Voeg de URL toe van specifieke webpagina&#39;s die u wilt bijhouden. U kunt meerdere URL&#39;s toevoegen door deze te scheiden met een puntkomma. (Het gebruik van * als jokerteken is toegestaan.)
+* URL-overeenkomsten - Voeg de URL toe van specifieke webpagina&#39;s die u wilt bijhouden. U kunt meerdere URL&#39;s toevoegen door deze te scheiden met een puntkomma. (Het gebruik van * als jokerteken is toegestaan.)
 
 **Pagina&#39;s**  uitsluiten - Sluit specifieke pagina&#39;s uit die u niet wilt afstemmen in het segment. (Het gebruik van * als jokerteken is toegestaan.)
 
-* 
-
-   * 
-
-      * URL komt niet overeen - Voeg de URL toe van specifieke webpagina&#39;s die u wilt uitsluiten van bijhouden. U kunt meerdere URL&#39;s toevoegen door deze te scheiden met een puntkomma
+* URL komt niet overeen - Voeg de URL toe van specifieke webpagina&#39;s die u wilt uitsluiten van bijhouden. U kunt meerdere URL&#39;s toevoegen door deze te scheiden met een puntkomma
 
 ![](assets/segment-extra.png)
 
@@ -283,10 +271,11 @@ Het mobiele besturingssysteem naar de Segment-editor slepen
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Type bezoeker **
+* **Type bezoeker**
+
    **Mobiel besturingssysteem** : selecteer in de keuzelijst een of meer vermelde mobiele besturingssystemen. Het geselecteerde mobiele besturingssysteem wordt hieronder weergegeven.
 
-   * De bezoeker gebruikt een mobiel apparaat ***
+   * De bezoeker gebruikt elk mobiel apparaat
    * De bezoeker gebruikt dit specifieke apparaat/besturingssysteem
    * De bezoeker gebruikt geen mobiel apparaat
 
@@ -296,10 +285,8 @@ Het mobiele besturingssysteem naar de Segment-editor slepen
 
 Doelbezoeker die specifieke browsertypen en/of versies gebruikt.
 
-* 
-
-   * Browsertype - Selecteer een of meer internetbrowsers in het keuzemenu. De geselecteerde browsers worden hieronder weergegeven.
-   * Browserversie - voer de browserversie in die u aan het segment wilt toevoegen. U kunt meerdere versies selecteren door elke versie te scheiden met een komma. (Het gebruik van * als jokerteken is toegestaan.)
+* Browsertype - Selecteer een of meer internetbrowsers in het keuzemenu. De geselecteerde browsers worden hieronder weergegeven.
+* Browserversie - voer de browserversie in die u aan het segment wilt toevoegen. U kunt meerdere versies selecteren door elke versie te scheiden met een komma. (Het gebruik van * als jokerteken is toegestaan.)
 
 ### API {#api}
 
@@ -313,7 +300,7 @@ Web Personalization API call [read meer over het hier.](http://developers.market
 
 >[!TIP]
 >
->**Met jokertekens - **Wanneer u een zoekterm of URL wilt opnemen die iets in de naam bevat, dat wil zeggen: &quot;[google.com](http://google.com)&quot;of &quot;onderzoek term product&quot;, noemen wij dit een vervangingskaart en het zou met een asterisk - deze kleine kerel* - op elk eind moeten worden ingevoerd. Daarom moet alles wat afkomstig is van [google.com](http://google.com) worden ingevoerd als * [google.com](http://google.com)*
+>**Met jokertekens -** Wanneer u een zoekterm of URL wilt opnemen die iets in de naam bevat, dat wil zeggen: &quot;[google.com](http://google.com)&quot; of &quot;zoekterm product&quot;, noemen wij dit een jokerteken en het zou met een asterisk - deze kleine kerel* - op elk eind moeten worden ingevoerd. Daarom moet alles wat afkomstig is van [google.com](http://google.com) worden ingevoerd als * [google.com](http://google.com)*
 
 ## Segmenten {#edit-segments} bewerken
 
@@ -332,7 +319,7 @@ U kunt een segment bewerken dat is gemaakt.
 U kunt segmenten verwijderen die u hebt gemaakt.
 
 1. Selecteer een segment op de bovenstaande pagina **Segmenten**.
-1. Klik op het verwijderpictogram ( ![](assets/segment-delete.png)) van het segment***** dat u wilt verwijderen.
+1. Klik op het verwijderpictogram ( ![](assets/segment-delete.png)) van het segment dat u wilt verwijderen.
 1. Er wordt een bevestigingsbericht weergegeven waarin wordt bevestigd dat u op het punt staat het **Segment** te verwijderen.
 
 >[!NOTE]
