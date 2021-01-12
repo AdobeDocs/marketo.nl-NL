@@ -3,9 +3,9 @@ unique-page-id: 2360354
 description: Munchkin-trackingcode toevoegen aan uw website - Marketo Docs - Productdocumentatie
 title: Munchkin-trackingcode toevoegen aan uw website
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Munchkin-trackingcode toevoegen aan uw website {#add-munchkin-tracking-code-to-your-website}
 
-Marketo&#39;s aangepaste JavaScript-trackingcode, Munchkin, volgt alle personen die uw website bezoeken, zodat u op hun bezoeken kunt reageren met geautomatiseerde marketingcampagnes. Zelfs worden de anonieme bezoekers gevolgd samen met hun IP adressen en andere informatie. ** Zonder deze code kunt u geen bezoeken of andere activiteiten op uw website volgen.**
+Marketo&#39;s aangepaste JavaScript-trackingcode, Munchkin, volgt alle personen die uw website bezoeken, zodat u op hun bezoeken kunt reageren met geautomatiseerde marketingcampagnes. Zelfs worden de anonieme bezoekers gevolgd samen met hun IP adressen en andere informatie. **Zonder deze code kunt u geen bezoeken of andere activiteiten op uw website** volgen.
 
 >[!PREREQUISITES]
 >
@@ -54,39 +54,39 @@ Marketo&#39;s aangepaste JavaScript-trackingcode, Munchkin, volgt alle personen 
 
 >[!TIP]
 >
->Voor plaatsen die een hoog volume van verkeer (d.w.z., honderdduizenden bezoeken per maand) zien, adviseren wij u niet om anonieme mensen te volgen. [Meer weten?](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/)
+>Voor plaatsen die een hoog volume van verkeer (d.w.z., honderdduizenden bezoeken per maand) zien, adviseren wij u niet om anonieme mensen te volgen. [Meer](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) informatie.
 
 ## Trackingcode toevoegen bij gebruik van meerdere werkruimten {#add-tracking-code-when-using-multiple-workspaces}
 
 Als u Werkruimten gebruikt in uw Marketo-account, hebt u waarschijnlijk ook aparte webvoorkeuren die overeenkomen met uw werkruimten. In dat geval, kunt u Munchkin gebruiken die Javascript volgen om uw anonieme mensen aan de correcte werkruimte en de verdeling toe te wijzen.
 
-1. Ga naar Admin en klik op Munchkin in de structuur aan de linkerkant.
+1. Ga naar **Admin** en klik **Munchkin** in de boom op de linkerzijde.
 
 ![](assets/image2015-8-25-16-3a28-3a41.png)
 
 1. Selecteer de juiste werkruimte voor de webpagina&#39;s die u wilt bijhouden.
 
-![](assets/image2015-8-25-16-3a30-3a32.png)
+   ![](assets/image2015-8-25-16-3a30-3a32.png)
 
 >[!NOTE]
 >
 >Als u de speciale werkruimte Munchkin-code niet gebruikt, worden de personen toegewezen aan de standaardpartitie die is gemaakt toen uw account werd ingesteld. Het heet &quot;Standaard&quot;aanvankelijk, maar u zou dat in uw eigen Marketo rekening kunnen veranderd hebben.
 
-1. Selecteer Asynchroon bij Type code bijhouden.
+1. Selecteer **Asynchroon** voor het Volgen van het Type van Code.
 
    ![](assets/image2015-8-25-16-3a32-3a42.png)
 
 1. Klik en kopieer de code voor het bijhouden van JavaScript die u op uw website wilt plaatsen.
 
-![](assets/image2015-8-25-16-3a34-3a7.png)
+   ![](assets/image2015-8-25-16-3a34-3a7.png)
 
->[!CAUTION]
->
->Gebruik niet de code die in deze schermafbeelding wordt weergegeven. U moet de unieke code gebruiken die in uw account wordt weergegeven!
+   >[!CAUTION]
+   >
+   >Gebruik niet de code die in deze schermafbeelding wordt weergegeven. U moet de unieke code gebruiken die in uw account wordt weergegeven!
 
 1. Plaats de volgcode op uw webpagina&#39;s in het element `<head>`. Nieuwe personen die deze pagina bezoeken, worden toegewezen aan deze partitie.
 
-![](assets/image2015-8-25-16-3a5-3a20.png)
+   ![](assets/image2015-8-25-16-3a5-3a20.png)
 
 >[!CAUTION]
 >
@@ -98,7 +98,7 @@ Als u Werkruimten gebruikt in uw Marketo-account, hebt u waarschijnlijk ook apar
 
 ## Typen Munchkin-trackingcodes {#types-of-munchkin-tracking-codes}
 
-U kunt kiezen uit drie typen Münchkin-trackingcodes. Elke keer dat de laadtijd van de webpagina anders wordt beïnvloed.
+U kunt kiezen uit drie typen codes voor het bijhouden van Munchkin. Elke keer dat de laadtijd van de webpagina anders wordt beïnvloed.
 
 1. **Eenvoudig**: heeft de minste coderegels, maar is niet geoptimaliseerd voor het laden van webpagina&#39;s. Deze code laadt de jQuery-bibliotheek telkens wanneer een webpagina wordt geladen.
 1. **Asynchroon**: verkort de laadtijd van de webpagina.
@@ -109,6 +109,7 @@ U kunt kiezen uit drie typen Münchkin-trackingcodes. Elke keer dat de laadtijd 
 U kunt als volgt controleren of uw Munchkin-code werkt nadat u deze hebt toegevoegd:
 
 1. Ga naar uw webpagina.
+
 1. Ga naar **Analytics**.
 
    ![](assets/mainnav-analytics-hand.png)
@@ -124,4 +125,3 @@ U kunt als volgt controleren of uw Munchkin-code werkt nadat u deze hebt toegevo
    ![](assets/activitysource.png)
 
 1. Klik op het tabblad **Rapport**. Als u geen gegevens ziet, wacht u een paar minuten en klikt u op het pictogram Vernieuwen onder aan het scherm.
-
