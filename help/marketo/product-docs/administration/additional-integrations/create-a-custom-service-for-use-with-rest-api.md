@@ -3,9 +3,9 @@ unique-page-id: 2360350
 description: Een aangepaste service maken voor gebruik met de ReST API - Marketo Docs - Productdocumentatie
 title: Een aangepaste service maken voor gebruik met de ReST-API
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Als u met Marketo via de ReST API wilt integreren, zult u een douanedienst wille
 
 >[!PREREQUISITES]
 >
->* [Een gebruikersrol maken die alleen een API is](../../../product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [Alleen een API-gebruiker maken](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [Een gebruikersrol maken die alleen een API is](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [Alleen een API-gebruiker maken](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 
 >
 
@@ -28,9 +28,7 @@ Als u met Marketo via de ReST API wilt integreren, zult u een douanedienst wille
 >
 >**Beheerdersmachtigingen vereist**
 
->[!NOTE]
->
->**Diep duiken**
+>[!TIP]
 >
 >Raadpleeg de documentatie van onze ontwikkelaars voor meer informatie over de [ReST API](http://developers.marketo.com/documentation/rest/). We hebben ook de [SOAP API](http://developers.marketo.com/documentation/soap/) als dat is wat u nodig hebt.
 
@@ -48,11 +46,9 @@ Als u met Marketo via de ReST API wilt integreren, zult u een douanedienst wille
 
    ![](assets/image2014-9-19-10-3a38-3a22.png)
 
-1. Voer een **Weergavenaam** voor de service in. Selecteer **Alleen API Gebruiker** [eerder gemaakt](../../../product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Voer een **Weergavenaam** voor de service in. Selecteer **Alleen API Gebruiker** [eerder gemaakt](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    >[!NOTE]
-   >
-   >**Herinnering**
    >
    >Merk op dat wij reeds inheemse integratie voor populaire webinardiensten hebben.
 
@@ -78,11 +74,10 @@ Als u met Marketo via de ReST API wilt integreren, zult u een douanedienst wille
 
    ![](assets/image2014-9-19-10-3a42-3a24.png)
 
-1. Geef de ** Client ID**, **Client Secret**, **Authorized User** en **Token** op aan de persoon die verantwoordelijk is voor het tot stand brengen van de verbinding.
+1. Geef **Client ID**, **Client Secret**, **Authorized User** en **Token** op aan de persoon die verantwoordelijk is voor het tot stand brengen van de verbinding.
 
    ![](assets/image2014-9-19-10-3a42-3a38.png)
 
 >[!CAUTION]
 >
 >Deze gegevens niet delen; het is de achterdeur naar je data . Houd het veilig!
-
