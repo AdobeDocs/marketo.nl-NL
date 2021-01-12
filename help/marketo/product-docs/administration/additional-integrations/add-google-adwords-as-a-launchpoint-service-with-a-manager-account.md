@@ -3,9 +3,9 @@ unique-page-id: 7504893
 description: Google AdWords toevoegen als een opstartservice met een beheerdersaccount - Marketo Docs - Productdocumentatie
 title: Google AdWords toevoegen als opstartservice met een beheerdersaccount
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Meer informatie over de functie voor het importeren van offlineconversies van Go
 
 >[!NOTE]
 >
->U kunt een [stand-alone Google AdWords-account ook integreren als Launchpoint-service](add-google-adwords-as-a-launchpoint-service.md).
+>U kunt een [stand-alone Google AdWords-account ook integreren als Launchpoint-service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md).
 
 1. Ga naar **Admin** sectie.
 
@@ -63,7 +63,7 @@ Meer informatie over de functie voor het importeren van offlineconversies van Go
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Upload uw offlineconversies van Marketo naar Google AdWords **Wekelijks **of **Dagelijks**.
+1. Upload uw offlineconversies van Marketo naar Google AdWords **Weekly** of **Daily**.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
@@ -88,14 +88,8 @@ Meer informatie over de functie voor het importeren van offlineconversies van Go
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
-   Yippee! Zie nu het Verwante Artikel hieronder voor hoe te om AdWords off-line omzettingen in uw opbrengstmodel in kaart te brengen.
+   Zie nu het Verwante Artikel hieronder voor hoe te om AdWords off-line omzettingen in uw opbrengstmodel in kaart te brengen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Google AdWords-conversies in het inkomstenmodel instellen met een beheerdersaccount](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-
-
+   >[Google AdWords-conversies in het inkomstenmodel instellen met een beheerdersaccount](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
