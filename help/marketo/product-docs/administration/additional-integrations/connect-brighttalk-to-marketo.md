@@ -3,9 +3,9 @@ unique-page-id: 15695874
 description: BrightStor EnterpriseTALK verbinden met Marketo - Marketo Docs - Productdocumentatie
 title: BrightStorTALK verbinden met Marketo
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -31,8 +31,8 @@ Leer hoe u het BrightStor ARCserve-kanaal koppelt aan uw Marketo-instantie. Hier
 >
 >Op dit moment moet u een gebruikers- en API-gebruikersrol (alleen API) instellen om te beperken welke machtigingen BrightTALK in uw Marketo-instantie heeft. Omdat we al artikelen voor die stappen hebben, koppelen we u aan deze stappen.
 
-1. Maak een [Alleen API-gebruikersrol](http://docs.marketo.com/x/iwMk).
-1. [Maak een API-gebruiker](http://docs.marketo.com/x/jwMk) met behulp van de BrightStor API Role die u tijdens stap 4 hebt gemaakt.
+1. Maak een [Alleen API-gebruikersrol](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
+1. [Maak een API-gebruiker](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) met behulp van de BrightStor API Role die u tijdens stap 4 hebt gemaakt.
 1. Ga terug naar het beheergebied.
 
    ![](assets/one.png)
@@ -45,7 +45,7 @@ Leer hoe u het BrightStor ARCserve-kanaal koppelt aan uw Marketo-instantie. Hier
 
    ![](assets/three.png)
 
-1. Voer een weergavenaam van uw keuze in. Klik op de vervolgkeuzelijst Service en selecteer **Custom** (doe **not** select BrightTALK).
+1. Voer een weergavenaam van uw keuze in. Klik op de vervolgkeuzelijst Service en selecteer **Custom** (doe _not_ select BrightTALK).
 
    ![](assets/four.png)
 
@@ -73,9 +73,8 @@ Leer hoe u het BrightStor ARCserve-kanaal koppelt aan uw Marketo-instantie. Hier
 
    ![](assets/ten.png)
 
-## Stappen in BrightStor {#steps-in-brighttalk-1}
+## Extra stappen in BrightStor {#additional-steps-in-brighttalk}
 
 1. Keer terug naar het scherm van de de schakelaaropstelling van BrightTALK van Stap 3, en ga de geloofsbrieven in u van Stappen 12 en 14 bewaarde.
 
    Nadat de referenties zijn geverifieerd, hebt u BrightStor ARCserve Backup officieel verbonden met Marketo. De volgende stap is [te bepalen welke gegevensgebieden u ](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync) wilt synchroniseren.
-
