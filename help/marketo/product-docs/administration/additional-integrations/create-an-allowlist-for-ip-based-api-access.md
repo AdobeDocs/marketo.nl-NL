@@ -3,7 +3,7 @@ unique-page-id: 10098433
 description: Creeer een Lijst van gewenste personen voor IP-Gebaseerde API Toegang - Marketo Docs - de Documentatie van het Product
 title: Creeer een Lijst van gewenste personen voor IP-Gebaseerde Toegang API
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Soms wilt u API-toegang alleen verlenen aan een specifiek IP-adres of een reeks 
 
    ![](assets/image2016-2-25-9-3a12-3a48.png)
 
-1. In het IP gebied van Beperkingen, klik **geef uit, **of klik** geef IP Beperkingen **in de hogere linkerzijde uit.
+1. Klik in het gebied IP-beperkingen op **Bewerken,** of klik op **IP-beperkingen bewerken** linksboven.
 
    ![](assets/image2016-2-25-9-3a15-3a30.png)
 
@@ -42,4 +42,3 @@ Soms wilt u API-toegang alleen verlenen aan een specifiek IP-adres of een reeks 
 1. Klik **Opslaan**.
 
    ![](assets/image2016-2-25-9-3a28-3a21.png)
-
