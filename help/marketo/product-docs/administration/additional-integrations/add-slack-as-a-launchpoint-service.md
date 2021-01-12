@@ -3,9 +3,9 @@ unique-page-id: 12983619
 description: Voeg Slack als Dienst van LaunchPoint toe - Marketo Docs - de Documentatie van het Product
 title: Slack toevoegen als een LaunchPoint-service
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ De Slack-integratie bevat twee meldingstypen:
 
 >[!PREREQUISITES]
 >
->Als u de Berichten van het Systeem van de Slack reeds hebt toegelaten, gelieve [contact Steun](http://docs.marketo.com/cdn-cgi/l/email-protection#1d6e686d6d726f695d707c6f76786972337e7270).
+>Als u Slack System Notifications already enabled niet hebt, gelieve [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
 
 1. Ga naar **LaunchPoint**, dan onder **New** klik **New Service**.
 
@@ -61,4 +61,3 @@ De Slack-integratie bevat twee meldingstypen:
    Meldingen worden nu gepost naar het kanaal dat u in stap 6 hebt geselecteerd. Ze zullen er ongeveer zo uitzien:
 
    ![](assets/samplenotification.png)
-
