@@ -3,9 +3,9 @@ unique-page-id: 17728028
 description: Zoomen toevoegen als een opstartpuntservice - Marketo Docs - Productdocumentatie
 title: Zoomen toevoegen als een opstartpuntservice
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,17 @@ Marketo beheert uw zoomregistratie en aanwezigheid.
 
 >[!NOTE]
 >
->**Herinnering**
->
 >Voor deze stap is een bestaand abonnement op Zoomen en beheerrechten vereist. U moet beschikken over het e-mailadres en wachtwoord waarmee u zich kunt aanmelden bij Zoomen.
 
 1. Ga naar **Admin** gebied en klik **LaunchPoint**.
 
    ![](assets/launchpoint.png)
 
-1. Klik op de vervolgkeuzelijst **New **en selecteer **New Service**.
+1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer **Nieuwe service**.
 
    ![](assets/newservicelp.png)
 
-1. `Enter a **Display Name**. Under **Service**, select`**Zoomen**.
+1. Voer een **Weergavenaam** in. Selecteer **Zoomen** onder **Service**.
 
    ![](assets/newservice-1.png)
 
@@ -57,5 +55,4 @@ Marketo beheert uw zoomregistratie en aanwezigheid.
 
 >[!MORELIKETHIS]
 >
->Leer hoe u [een gebeurtenis maakt met Zoom](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
-
+>Leer hoe u [een gebeurtenis maakt met Zoom](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
