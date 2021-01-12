@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: Een webhaak maken - Marketo Docs - Productdocumentatie
 title: Webhaak maken
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,11 @@ ht-degree: 0%
 
 Gebruik websites om gebruik te maken van externe webservices voor het verzenden van tekstberichten, het uitbreiden van persoonlijke gegevens en nog veel meer.
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Ga naar **Admin **en klik **Webhooks**.
+1. Ga naar **Admin** en klik **Webhooks**.
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
@@ -51,7 +49,4 @@ Gebruik websites om gebruik te maken van externe webservices voor het verzenden 
 
 >[!NOTE]
 >
->**Diep duiken**
->
 >Leer meer in de [grote duik](http://developers.marketo.com/documentation/webhooks/).
-
