@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie - Marketo Docs - Productdocumentatie
 title: Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '743'
+source-wordcount: '733'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,9 @@ Als u dit filter al in een Slimme Lijst (bijvoorbeeld, in een Slimme Campagne of
 
 >[!NOTE]
 >
->**Voorbeeld**
->
 >**Trigger**: Bezoekt de Web-pagina, de Web-pagina is Prijspagina\
->**Stroom**: Score +10 en interessant moment wijzigen,  **web**: Weergegeven prijspagina
+>**Stroom**: Score +10 en interessant moment wijzigen
+>**Web**: Weergegeven prijspagina
 >
 >Als een anonieme persoon met Munchkin V2 de prijspagina bezoekt, neemt hij niet onmiddellijk deel aan de campagne. Op het moment dat de anonieme persoon bekend wordt, voeren we deze campagne op haar. Ze zal:
 >
@@ -60,9 +59,6 @@ Als u dit filter al in een Slimme Lijst (bijvoorbeeld, in een Slimme Campagne of
    >
    >
 * Heb een &quot;Nieuwe Persoon&quot;activiteit het programma wordt geopend aangezien het vandaag is
-
->
-
 
 
 ## Wat gebeurt er met mijn slimme lijsten die al het filter &quot;Is Anoniem&quot; hebben? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -98,4 +94,4 @@ Bekijk de volgende koppelingen:
 
 ## Ik heb nog meer vragen! Hoe krijg ik antwoord? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Spreek uit op de [community](https://nation.marketo.com/welcome). U kunt ook een e-mail verzenden naar [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4c3f393c3c233e380c212d3e27293823622f232162) Ze zullen graag uw vragen beantwoorden.
+Spreek uit op de [community](https://nation.marketo.com/welcome). U kunt ook contact opnemen met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). Ze zullen graag je vragen beantwoorden.
