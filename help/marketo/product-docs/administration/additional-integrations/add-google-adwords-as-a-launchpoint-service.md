@@ -3,9 +3,9 @@ unique-page-id: 6095008
 description: Google AdWords toevoegen als een LaunchPoint-service - Marketo Docs - Productdocumentatie
 title: Google AdWords toevoegen als een LaunchPoint-service
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Meer informatie over de functie voor het importeren van offlineconversies van Go
 
 >[!NOTE]
 >
->U kunt een [Google AdWords als dienst van het Lanceerpunt met een managerrekening](add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md) ook integreren.
+>U kunt een [Google AdWords als dienst van het Lanceerpunt met een managerrekening](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md) ook integreren.
 
 1. Ga naar **Admin** sectie.
 
@@ -61,7 +61,7 @@ Meer informatie over de functie voor het importeren van offlineconversies van Go
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Upload uw offlineconversies van Marketo naar Google AdWords **Wekelijks **of **Dagelijks**.
+1. Upload uw offlineconversies van Marketo naar Google AdWords **Weekly** of **Daily**.
 
    ![](assets/image2015-2-23-16-3a53-3a4.png)
 
@@ -86,13 +86,8 @@ Meer informatie over de functie voor het importeren van offlineconversies van Go
    >
    >[Deze functie werkt alleen als Automatisch ](https://support.google.com/adwords/answer/1752125?hl=en) labelen is geselecteerd. Deactivering moet plaatsvinden in Advertentiewoorden.
 
-   >[!NOTE]
-   >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Google AdWords-conversies instellen in het inkomstenmodel](../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-
-
 Geweldig! Zie nu het Verwante Artikel hieronder om te leren hoe te om AdWords off-line omzettingen in uw opbrengstmodel in kaart te brengen.
+
+>[!MORELIKETHIS]
+>
+>[Google AdWords-conversies instellen in het inkomstenmodel](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
