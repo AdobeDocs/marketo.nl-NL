@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: Eén aanmelding toevoegen aan een portal - Marketo Docs - Productdocumentatie
 title: Eén aanmelding toevoegen aan een portal
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,13 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 
 SSO is standaard uitgeschakeld. Volg deze stappen om SAML toe te laten en het te vormen.
 
-1. Ga naar **Admin **en klik **Enige Sign-On**.
+1. Ga naar **Admin** en klik **Single Sign-On**.
 
    ![](assets/image2014-9-24-14-3a36-3a50.png)
 
    >[!NOTE]
    >
-   >Als u **Single Sign-On** onder **Admin** niet ziet, contacteer [`[email protected]`](http://mailto:support@marketo.com).
+   >Als u **Single Sign-On** onder **Admin** niet ziet, contacteer [[Marketo Support]](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Klik onder de sectie **SAML Settings** op **Edit**.
 
@@ -102,4 +102,3 @@ SSO is standaard uitgeschakeld. Volg deze stappen om SAML toe te laten en het te
    >[!NOTE]
    >
    >Beide pagina&#39;s moeten openbaar zijn.
-
