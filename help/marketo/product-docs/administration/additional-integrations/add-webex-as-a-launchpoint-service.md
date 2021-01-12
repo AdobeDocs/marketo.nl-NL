@@ -3,9 +3,9 @@ unique-page-id: 7512272
 description: Voeg WebEx als Dienst van LaunchPoint toe - Marketo Docs - de Documentatie van het Product
 title: WebEx toevoegen als een LaunchPoint-service
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ Marketo beheert uw WebEx webinar registratie en aanwezigheid.
 
 >[!NOTE]
 >
->**Herinnering**
->
 >Een bestaand abonnement op WebEx en beheersrechten zijn noodzakelijk voor deze stap. Zorg dat u de volgende instellingen hebt: Gebruikersnaam, wachtwoord en sitenaam.
 
 >[!NOTE]
 >
 >De plaatsnaam kan aan het eind van URL worden gevonden die wordt gebruikt om in WebEx te registreren. Bijvoorbeeld:
 >
->`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=**mycompa**`**nihil**
+>`https://mycompany.webex.com/mw0300lc/mywebex/default.do?siteurl=mycompany`
 >
 >Let op: Voer in dit veld niet de volledige URL in. Voer alleen de naam van de site in!
 
@@ -49,7 +47,7 @@ Marketo beheert uw WebEx webinar registratie en aanwezigheid.
 
    ![](assets/image2015-4-24-18-3a56-3a56.png)
 
-1. Voltooi het proces door uw** Naam van de Plaats in te gaan* dan **creeer**.
+1. Voltooi het proces door uw **Sitenaam** in te voeren en dan **Create** te klikken.
 
    ![](assets/image2015-4-24-18-3a58-3a43.png)
 
@@ -59,5 +57,4 @@ Marketo beheert uw WebEx webinar registratie en aanwezigheid.
 
 >[!MORELIKETHIS]
 >
->Leer hoe te om [een gebeurtenis met WebEx](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md) tot stand te brengen.
-
+>Leer hoe te om [een gebeurtenis met WebEx](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md) tot stand te brengen.
