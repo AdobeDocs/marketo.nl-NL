@@ -3,9 +3,9 @@ unique-page-id: 11377958
 description: Aanmeldingsgeschiedenis gebruiker - Marketo Docs - Productdocumentatie
 title: Aanmeldingsgeschiedenis gebruiker
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,9 @@ De aanmeldingsgeschiedenis van de gebruiker weergeven:
 
    ![](assets/filter-select-from-dropdown.jpg)
 
-1. Selecteer gebruikers in de vervolgkeuzelijst **Gebruikers**.***
+1. Selecteer de gebruikers van **Gebruikers** drop-down.
 
-   ** ![](assets/user-dropdown.jpg)
-
-   **
+   ![](assets/user-dropdown.jpg)
 
 1. Schakel het selectievakje **Alleen mislukte aanmeldingen** in om alleen mislukte aanmeldingen in uw zoekopdracht weer te geven.
 
@@ -69,10 +67,4 @@ De aanmeldingsgeschiedenis van de gebruiker weergeven:
 
    >[!NOTE]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Overzicht van audittrail](audit-trail-overview.md)
-
-
+   >[Overzicht van audittrail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
