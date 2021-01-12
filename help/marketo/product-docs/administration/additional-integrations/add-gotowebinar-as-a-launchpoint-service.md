@@ -3,9 +3,9 @@ unique-page-id: 7512289
 description: GoToWebinar toevoegen als LaunchPoint-service - Marketo Docs - Productdocumentatie
 title: GoToWebinar toevoegen als een LaunchPoint-service
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ Marketo beheert uw registratie en aanwezigheid van GoToWebinar.
 
 >[!NOTE]
 >
->**Herinnering**
->
 >Voor deze stap is een bestaand abonnement op GoToWebinar en beheerrechten vereist. U moet beschikken over het e-mailadres en wachtwoord waarmee u zich bij GoToWebinar kunt aanmelden.
 
 >[!NOTE]
@@ -37,11 +35,11 @@ Marketo beheert uw registratie en aanwezigheid van GoToWebinar.
 
    ![](assets/new-service-gotowebinar.png)
 
-1. `Enter a **Display Name**. Under **Service**, select`**GoToWebinar**.
+1. Voer een **Weergavenaam** in. Selecteer **GoToWebinar** onder **Service**.
 
    ![](assets/new-service-goto-webinar1.png)
 
-1. Klik vervolgens op **Log in** **GoToWebinar**.
+1. Klik vervolgens op **Log in GoToWebinar**.
 
    ![](assets/image2015-4-22-15-3a57-3a59.png)
 
@@ -67,5 +65,4 @@ Marketo beheert uw registratie en aanwezigheid van GoToWebinar.
 
 >[!MORELIKETHIS]
 >
->Leer hoe u [een gebeurtenis maakt met GotoWebinar](../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
-
+>Leer hoe u [een gebeurtenis maakt met GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
