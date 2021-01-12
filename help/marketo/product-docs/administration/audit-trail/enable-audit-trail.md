@@ -3,9 +3,9 @@ unique-page-id: 11382122
 description: Audittrail inschakelen - Marketo Docs - Productdocumentatie
 title: Audittrail inschakelen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -45,17 +45,15 @@ Audittrail is beschikbaar voor alle klanten en wordt beheerd door twee beheerder
    >
    >**Definitie**
    >
-   >
    >**Access Audit Trail:** geeft gebruikers toegang tot zowel Asset Audit Trail als Admin Audit Trail.
    >
-   >
-   >**Toegang tot aanmeldingsgeschiedenis:** geeft gebruikers toegang tot  [gebruikersaanmeldingsgeschiedenis](user-login-history.md).
+   >**Toegang tot aanmeldingsgeschiedenis:** geeft gebruikers toegang tot  [gebruikersaanmeldingsgeschiedenis](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
 
 ## Roll audittrail toewijzen aan een gebruiker {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
->[](http://docs.marketo.com/display/DOCS/Create,+Delete,+Edit+and+Change+a+User+Role#Create,Delete,EditandChangeaUserRole-CreateaRole) Creëer of  [](#Enable) laat bestaande rol toe, die het de toestemmingen van het Spoor van de Controle geeft.
+>[](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) Creëer of  [](#enable-audit-trail) laat bestaande rol toe, die het de toestemmingen van het Spoor van de Controle geeft.
 
 1. Klik in **Gebruikers &amp; rollen** op **Gebruikers**.
 
@@ -75,9 +73,8 @@ Audittrail is beschikbaar voor alle klanten en wordt beheerd door twee beheerder
 
    >[!CAUTION]
    >
-   >Als u werkruimten hebt ingeschakeld, schakelt u het selectievakje voor de rol in, waarmee alle werkruimten worden geselecteerd. Als u de selectie van een afzonderlijke werkruimte opheft, wordt Audittrail verborgen. Dit betekent u de gegevens van het Spoor van de Controle voor elke werkruimte zult zien. U kunt werkruimten verbergen wanneer [filteren](http://docs.marketo.com/display/DOCS/Filtering+in+Audit+Trail).
+   >Als u werkruimten hebt ingeschakeld, schakelt u het selectievakje voor de rol in, waarmee alle werkruimten worden geselecteerd. Als u de selectie van een afzonderlijke werkruimte opheft, wordt Audittrail verborgen. Dit betekent u de gegevens van het Spoor van de Controle voor elke werkruimte zult zien. U kunt werkruimten verbergen wanneer [filteren](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Klik **Opslaan**.
 
    ![](assets/eight-1.png)
-
