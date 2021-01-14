@@ -3,7 +3,7 @@ unique-page-id: 5472615
 description: Begrijpend Systeem Beheerde Gebieden - Marketo Docs - de Documentatie van het Product
 title: Werken met door het systeem beheerde velden
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Werken met systeembeheerde velden {#understanding-system-managed-fields}
 
-U zou kunnen opgemerkt hebben dat [persoondetailpagina](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) een reeks niet-editable gebieden heeft die door Marketo worden gecreeerd. Deze gegevens zijn afkomstig uit verschillende bronnen en er zijn talloze waarden die kunnen worden weergegeven.
+U zou kunnen opgemerkt hebben dat [persoondetailpagina](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) een reeks niet-editable gebieden heeft die door Marketo worden gecreeerd. Deze gegevens zijn afkomstig uit verschillende bronnen en er zijn talloze waarden die kunnen worden weergegeven.
 
 ## Veldtypen {#field-types}
 
@@ -67,4 +67,3 @@ Hieronder staan enkele mogelijke waarden en wat ze betekenen.
 | Munchkin-API | Iemand worden via de Munchkin-API van Marketo |
 | Sociale app | Een persoon worden via een sociale widget |
 | Gebeurtenispartner | Een persoon worden via een gekoppelde webinar-service |
-
