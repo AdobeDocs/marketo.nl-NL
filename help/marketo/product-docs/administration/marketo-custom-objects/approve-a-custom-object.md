@@ -3,7 +3,7 @@ unique-page-id: 10094188
 description: Een aangepast object goedkeuren - Marketo Docs - Productdocumentatie
 title: Een aangepast object goedkeuren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -33,16 +33,13 @@ U hebt een gloednieuw aangepast object gemaakt. Hier is hoe je het goedkeurt.
 
    >[!NOTE]
    >
-   >Een aangepast object dat wordt gebruikt in een *een-op-een-structuur* moet ten minste één dedupliceerveld, een koppelingsveld, een naam van een gekoppeld object en een gekoppelde veldnaam hebben die moeten worden goedgekeurd.
+   >Een aangepast object dat wordt gebruikt in een _een-op-een-structuur_ moet ten minste één dedupliceerveld, een koppelingsveld, een naam van een gekoppeld object en een gekoppelde veldnaam hebben die moeten worden goedgekeurd.
    >
+   >Een aangepast object dat wordt gebruikt in een _veel-naar-veel-structuur_ **heeft geen koppelingsveld, gekoppelde objectnaam of een gekoppelde veldnaam nodig wanneer u het goedkeurt (omdat ze in het intermediaire object leven).**
    >
-   >Een aangepast object dat wordt gebruikt in een *veel-naar-veel-structuur* **heeft geen koppelingsveld, gekoppelde objectnaam of een gekoppelde veldnaam nodig wanneer u het goedkeurt (omdat ze in het intermediaire object leven).**
+   >Een douanevoorwerp dat als _intermediair voorwerp_ wordt gebruikt vereist een verbindingsgebied, een verbonden objecten naam, en een verbonden gebiedsnaam maar **vereist geen** een deduplicaatgebied.
    >
-   >
-   >Een douanevoorwerp dat als *intermediair voorwerp* wordt gebruikt vereist een verbindingsgebied, een verbonden objecten naam, en een verbonden gebiedsnaam maar **vereist geen** een deduplicaatgebied.
-   >
-   >
-   >Zie [Inzicht in aangepaste objecten markeren](understanding-marketo-custom-objects.md) voor meer informatie.
+   >Zie [Inzicht in aangepaste objecten markeren](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
 
 Dat is het! U kunt nu uw aangepaste object selecteren met de beperkingen van de filters en triggers die u in uw campagnes wilt gebruiken.
 
@@ -61,4 +58,3 @@ Nadat u een goedgekeurd aangepast object hebt bewerkt, moet u het concept goedke
 1. In een voorvertoning worden de gewijzigde items in het concept weergegeven. Klik **Goedkeuren**.
 
    ![](assets/six-1.png)
-
