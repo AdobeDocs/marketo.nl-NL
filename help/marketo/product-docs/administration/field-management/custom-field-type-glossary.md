@@ -3,9 +3,9 @@ unique-page-id: 2951259
 description: Aangepaste woordenlijst veldtype - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst Type aangepast veld
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,11 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 >[!PREREQUISITES]
 >
->* [Een aangepast veld maken in Marketo](create-a-custom-field-in-marketo.md)
-
->
-
-
+>[Een aangepast veld maken in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->Afhankelijk van het veldtype zullen filter/trigger [operators](https://docs.marketo.com/display/public/DOCS/Smart+List+Filter+Operators+Glossary) verschillend zijn.
+>Afhankelijk van het veldtype zullen filter/trigger [operators](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) verschillend zijn.
 
 >[!NOTE]
 >
@@ -67,7 +63,7 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 **Voorbeeld Naam:** Alternatieve e-mail - Houd een alternatief e-mailadres voor uw mensen (kan geen e-mails naar dit veld verzenden zoals het standaard e-mailadresveld, dat is speciaal)
 
-**Voorbeelden:** [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#335d525e5673505c5e43525d4a1d505c5e)
+**voorbeeldwaarden:** name@company.com
 
 **Operatoren**: is, is niet, begint met, begint niet met, bevat, bevat, is leeg, is niet leeg
 
@@ -81,7 +77,7 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 ## Formule {#formula}
 
-**Voorbeeldnaam:** Salutaties - gebruik dit speciale veld in een  [oplossing om de juiste ](create-and-use-a-concatenated-string-formula-field.md) salutatie op basis van geslacht te krijgen
+**Voorbeeldnaam:** Salutaties - gebruik dit speciale veld in een  [oplossing om de juiste ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) salutatie op basis van geslacht te krijgen
 
 **Voorbeeldwaarden:gekoppelde oplossing** controleren
 
