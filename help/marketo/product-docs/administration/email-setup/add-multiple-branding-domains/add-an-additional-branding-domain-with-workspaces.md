@@ -3,9 +3,9 @@ unique-page-id: 11377408
 description: Een extra brandingdomein met werkruimten toevoegen - Marketo Docs - Productdocumentatie
 title: Een extra brandingdomein toevoegen met werkruimten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Als u werkruimten hebt, kunt u extra brandingdomeinen toevoegen.
 
 >[!PREREQUISITES]
 >
->U moet [uw standaardbrandingsdomein](edit-your-default-branding-domain.md) eerst uitgeven.
+>U moet [uw standaardbrandingsdomein](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) eerst uitgeven.
 >
->U moet eerst [de generische volgende verbinding](edit-your-default-branding-domain-with-workspaces.md) met een brandend domein vervangen alvorens extra branding domeinen toe te voegen.
+>U moet eerst [de generische volgende verbinding](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) met een brandend domein vervangen alvorens extra branding domeinen toe te voegen.
 
-1. Ga naar **Admin **en klik dan **Email**.
+1. Ga naar **Admin** en klik **E-mail**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. Klik op **Toevoegen **om een extra brandingdomein toe te voegen.
+1. Klik **Add** om een extra brandingsdomein toe te voegen.
 
    ![](assets/branding-domains-add-workspaces.png)
 
@@ -40,4 +40,3 @@ Als u werkruimten hebt, kunt u extra brandingdomeinen toevoegen.
 1. Selecteer het nieuwe brandingdomein en klik **Save**.
 
    ![](assets/image2016-8-12-10-3a52-3a44.png)
-
