@@ -3,7 +3,7 @@ unique-page-id: 45417092
 description: Exporteren Gebruikt door gegevens voor een veld - Marketo Docs - Productdocumentatie
 title: Gebruikt door gegevens exporteren voor een veld
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Als Admin, hebt u de capaciteit om verwante activa van een gebied uit te voeren 
    >[!TIP]
    >
    >Elk verwant element is een koppeling waarop kan worden geklikt en die wordt geopend in Marketo.
-
