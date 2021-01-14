@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: Markeren toevoegen aan aangepaste objectvelden - Marketo Docs - Productdocumentatie
 title: Markeren toevoegen aan aangepaste objectvelden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nadat u een douanevoorwerp hebt gecreeerd, moet u gebieden aan het toevoegen om aan uw bedrijfsbehoeften te voldoen.
 
-Velden definiëren de specifieke informatie die door een aangepast object wordt gebruikt. De gebieden van de verbinding hebben een speciale baan, om douanevoorwerpen aan te sluiten, en zijn behandeld in [afzonderlijk artikel](add-marketo-custom-object-link-fields.md).
+Velden definiëren de specifieke informatie die door een aangepast object wordt gebruikt. De gebieden van de verbinding hebben een speciale baan, om douanevoorwerpen aan te sluiten, en zijn behandeld in [afzonderlijk artikel](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
 1. Klik **Admin**, en in **Databasebeheer**, selecteer **Marketo Custom Objects**.
 
@@ -25,7 +25,7 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
 
    ![](assets/image2016-1-18-9-3a5-3a3.png)
 
-1. Klik op het tabblad **Fields **op **Nieuw veld**.
+1. Klik op het tabblad **Velden** op **Nieuw veld**.
 
    ![](assets/image2015-9-15-16-3a53-3a40.png)
 
@@ -45,7 +45,7 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
 
    ![](assets/image2015-10-5-11-3a37-3a24.png)
 
-1. Trek de schuifregelaar Dedupe over als u het nieuwe veld als een unieke id wilt gebruiken. Klik op **Opslaan **om te voltooien.
+1. Trek de schuifregelaar Dedupe over als u het nieuwe veld als een unieke id wilt gebruiken. Klik **Opslaan** om te voltooien.
 
    ![](assets/image2015-10-5-11-3a40-3a12.png)
 
@@ -57,19 +57,12 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Als u een een-op-vele structuur bouwt, moet u een gebied van de Verbinding aan uw douanevoorwerp toevoegen. Voor een vele-aan-vele structuur, hebt u geen verbindingsgebied in het douanevoorwerp nodig, maar u moet twee verbindingsgebieden in het intermediaire voorwerp toevoegen. Zie [Markeren toevoegen aan aangepaste objectkoppelingsvelden](add-marketo-custom-object-link-fields.md) om de koppelingsvelden te maken en [Inzicht in aangepaste objecten markeren](understanding-marketo-custom-objects.md) voor meer informatie over typen aangepaste objecten.
+   >Als u een een-op-vele structuur bouwt, moet u een gebied van de Verbinding aan uw douanevoorwerp toevoegen. Voor een vele-aan-vele structuur, hebt u geen verbindingsgebied in het douanevoorwerp nodig, maar u moet twee verbindingsgebieden in het intermediaire voorwerp toevoegen. Zie [Markeren toevoegen aan aangepaste objectkoppelingsvelden](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) om de koppelingsvelden te maken en [Inzicht in aangepaste objecten markeren](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie over typen aangepaste objecten.
 
 >[!MORELIKETHIS]
 >
->* [Markeren toevoegen aan aangepaste objectkoppelingsvelden](add-marketo-custom-object-link-fields.md)
->* [Een aangepast markeerobject bewerken en verwijderen](edit-and-delete-a-marketo-custom-object.md)
->* [Aangepaste objecten markeren](understanding-marketo-custom-objects.md)
->* [Markeren naar aangepaste objectvelden bewerken en verwijderen](edit-and-delete-marketo-custom-object-fields.md)
-
->
-
-
+>* [Markeren toevoegen aan aangepaste objectkoppelingsvelden](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Een aangepast markeerobject bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Aangepaste objecten markeren](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Markeren naar aangepaste objectvelden bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 
