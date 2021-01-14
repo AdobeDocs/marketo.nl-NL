@@ -3,9 +3,9 @@ unique-page-id: 11377406
 description: Uw standaardbrandingdomein met werkruimten bewerken - Marketo Docs - Productdocumentatie
 title: Uw standaardbrandingdomein met werkruimten bewerken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Toevoegen****  **werkt pas nadat u het algemene domein hebt bewerkt.** Verwijderen ******werkt pas wanneer u een tweede domein toevoegt.
+   >**Het** invoegpunt werkt pas nadat u het algemene domein hebt bewerkt. **** Verwijderen werkt pas wanneer u een tweede domein toevoegt.
    >
    >U kunt geen extra domein toevoegen tot u eerst het generische domein uitgeeft.
 
-1. Voer de naam van uw standaarddomein in en klik op Volgende.
+1. Ga de naam van uw standaarddomein in en klik **Next**.
 
    ![](assets/image2016-8-12-10-3a32-3a31.png)
 
-1. Klik op Opslaan.
+1. Klik **Opslaan**.
 
    ![](assets/edit-branding-domain-9-12-16-hand.png)
 
@@ -39,9 +39,4 @@ ht-degree: 0%
 >
 >Wanneer u aanvullende brandingdomeinen toevoegt, kunt u ervoor kiezen dit als primair domein voor een of meer werkruimten te gebruiken. Alle bestaande niet-verzonden e-mails die op &quot;Standaard&quot; zijn ingesteld en alle nieuwe e-mails die u hebt gemaakt, worden standaard ingesteld op het primaire domein. U kunt dit per e-mail overschrijven.
 
-Nu, kunt u [extra branding domeinen](add-an-additional-branding-domain-with-workspaces.md) toevoegen u voor de werkruimten nodig hebt.
-
->[!MORELIKETHIS]
->
->* [Een extra brandingdomein toevoegen met werkruimten](add-an-additional-branding-domain-with-workspaces.md)
-
+Nu, kunt u [extra branding domeinen](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) toevoegen u voor de werkruimten nodig hebt.
