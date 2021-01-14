@@ -3,9 +3,9 @@ unique-page-id: 4720461
 description: HTML-coderingstokens in e-mails - Marketo Docs - Productdocumentatie
 title: HTML-coderingstokens in e-mails
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Tokens voor personen en bedrijven die in e-mailberichten worden gebruikt, in- en
 
 >[!NOTE]
 >
->**Definitie**
->
->Bij codering worden tekens omgezet in de HTML-codeversies om te voorkomen dat er verwarring ontstaat wanneer ze worden verzonden (dat wil zeggen: &quot;&amp;&quot; is gewijzigd in &quot;&amp;&quot;). Raadpleeg uw webontwikkelaar voor meer informatie.
+>Bij codering worden tekens omgezet in de HTML-codeversies om te voorkomen dat er verwarring ontstaat wanneer ze worden verzonden (dat wil zeggen: &quot;&amp;&quot; is gewijzigd in `&amp;`). Raadpleeg uw webontwikkelaar voor meer informatie.
 
 1. Ga naar **Admin**.
 
@@ -42,4 +40,3 @@ Tokens voor personen en bedrijven die in e-mailberichten worden gebruikt, in- en
    ![](assets/six.png)
 
    En dat is het! U kunt dat voor zoveel afzonderlijke velden doen als u wilt.
-
