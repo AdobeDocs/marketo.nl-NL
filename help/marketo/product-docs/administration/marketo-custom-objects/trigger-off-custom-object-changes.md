@@ -3,9 +3,9 @@ unique-page-id: 11378713
 description: Aangepaste objectwijzigingen activeren - Marketo Docs - Productdocumentatie
 title: Aangepaste objectwijzigingen activeren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >
 >
-Neem contact op met [Marketo-ondersteuning](http://support.marketo.com) om Aangepaste objectwijzigingstriggers in te schakelen.
+Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) om Aangepaste objectwijzigingstriggers in te schakelen.
 
 In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen wanneer een douanevoorwerp aan een persoon of een bedrijf wordt toegevoegd. U kunt ook een slimme lijst maken die een *change* in een aangepast object als trigger gebruikt. U kunt deze bijvoorbeeld gebruiken om een e-mail te verzenden wanneer de naam van een cursus wordt bijgewerkt.
 
@@ -57,11 +57,6 @@ In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen
 
    >[!NOTE]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Een slimme lijst maken](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >    * [Aangepaste objecten markeren](understanding-marketo-custom-objects.md)
-
+   >* [Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+   >* [Aangepaste objecten markeren](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
