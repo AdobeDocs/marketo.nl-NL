@@ -3,9 +3,9 @@ unique-page-id: 10095453
 description: Marketo-velden voor aangepaste objecten bewerken en verwijderen - Marketo Docs - Productdocumentatie
 title: Markeren naar aangepaste objectvelden bewerken en verwijderen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -49,14 +49,10 @@ Wanneer u geen gebied in een douanevoorwerp meer nodig hebt, kunt u het schrappe
 
    ![](assets/image2015-10-2-11-3a14-3a5.png)
 
-1. Het is weg!
+   Het is weg!
 
    ![](assets/image2015-10-2-11-3a15-3a48.png)
 
    >[!NOTE]
    >
-   >**Verwante artikelen**
-   >
-   >
-   >[Markeren toevoegen aan aangepaste objectvelden](add-marketo-custom-object-fields.md)
-
+   >[Markeren toevoegen aan aangepaste objectvelden](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
