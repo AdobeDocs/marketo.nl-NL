@@ -3,7 +3,7 @@ unique-page-id: 2360337
 description: Creeer en gebruik een Samengevoegd gebied van het Koord (Formule) - Marketo Docs - de Documentatie van het Product
 title: Een samengevoegd veld String (Formule) maken en gebruiken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -39,7 +39,7 @@ U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde make
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Meer informatie over [tokens voor flowstappen](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   Meer informatie over [tokens voor flowstappen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Nu kunt u het formules gebied als teken in een e-mail toevoegen.
 
@@ -50,4 +50,3 @@ Goed werk! Nu heb je een slim veld dat weet welke aanhef je moet opnemen op basi
 >[!NOTE]
 >
 >Formulervelden kunnen worden gebruikt bij het landen van pagina&#39;s, e-mails en kolommen met slimme lijsten; zij worden niet uitgevoerd. E-mails met formule-velden kunnen niet via batchcampagnes worden verzonden
-
