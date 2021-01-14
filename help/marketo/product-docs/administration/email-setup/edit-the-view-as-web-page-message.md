@@ -3,9 +3,9 @@ unique-page-id: 2360253
 description: Bewerk het bericht "Weergeven als webpagina" - Marketo Docs - Productdocumentatie
 title: Het bericht "Weergeven als webpagina" bewerken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Bewerk het bericht &quot;Weergeven als webpagina&quot; {#edit-the-view-as-web-page-message}
 
-Als u de tekst &quot; [View as a Webpage](../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;moet uitgeven, is hier hoe.
+Als u &quot;[View als WebPage](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;tekst moet uitgeven, is hier hoe.
 
 >[!NOTE]
 >
@@ -29,14 +29,11 @@ Als u de tekst &quot; [View as a Webpage](../../../product-docs/email-marketing/
    >
    >De volgende variabelen zijn essentieel. Verwijder ze niet!
    >
-   >    
-   >    
-   >    * %mkt_webview_url%?mkt_tok=##MKT_TOK#
-   >    
-   >    
-   >Het tweede deel ##MKT_TOK### is het ingewanden cookie van die persoon. Het zorgt ervoor dat ze op de juiste wijze worden gekookt wanneer ze op de koppeling klikken.
+   >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
+   >
+   >Het tweede deel `##MKT_TOK##` is het ingewanden koekje van die persoon. Het zorgt ervoor dat ze op de juiste wijze worden gekookt wanneer ze op de koppeling klikken.
 
-1. Bewerk de **Weergave als webpagina HTML** en **Weergeven als webpaginatekst **versies naar uw eigen smaak en klik **Wijzigingen opslaan**.
+1. Bewerk de **Weergave als webpagina HTML** en **Weergeven als webpaginatekst** versies naar wens en klik op **Wijzigingen opslaan**.
 
    ![](assets/image2016-8-26-14-3a40-3a29.png)
 
@@ -47,9 +44,6 @@ Als u de tekst &quot; [View as a Webpage](../../../product-docs/email-marketing/
 >* Extra URL&#39;s toevoegen aan een van de HTML-vakken
 >* HTML in de tekstversie plaatsen
 
->
-
-
 
 Daar heb je het. Test-e-mails verzenden om de opmaak te controleren.
 
@@ -57,8 +51,11 @@ Daar heb je het. Test-e-mails verzenden om de opmaak te controleren.
 
 Als u ooit aan standaardsysteem &quot;Mening als Web-pagina&quot;moet terugkeren, kopieer/kleef het volgende:
 
-**Weergeven als webpagina-HTML:**
-`<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>` **Weergeven als webpaginatekst:**
+**Weergeven als HTML van webpagina:**
+
+`<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>`
+
+**Weergeven als tekst op webpagina:**
 
 Ga naar het volgende adres om deze e-mail als webpagina weer te geven:
 `<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>` Zoomen! Je bent klaar.
