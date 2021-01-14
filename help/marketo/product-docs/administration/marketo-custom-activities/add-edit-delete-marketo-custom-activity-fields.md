@@ -3,7 +3,7 @@ unique-page-id: 10100275
 description: Markeringsvelden toevoegen/bewerken/verwijderen - Markeringsdocumenten - Productdocumentatie
 title: Markeertekens toevoegen/bewerken/verwijderen aan aangepaste activiteitenvelden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
    >[!TIP]
    >
-   >Weet u niet zeker wat u moet selecteren? We hebben je bedekt! Alle beschikbare gegevenstypen worden gedefinieerd in [dit artikel](../../../product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Weet u niet zeker wat u moet selecteren? We hebben je bedekt! Alle beschikbare gegevenstypen worden gedefinieerd in [dit artikel](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 1. Geef het veld een naam. De api-naam wordt automatisch ingevuld. Wanneer u wordt gedaan, klik **sparen**.
 
@@ -94,4 +94,3 @@ Uw veld wordt nu bewerkt.
    ![](assets/thirteen.png)
 
    Het is gewoon zo gemakkelijk!
-
