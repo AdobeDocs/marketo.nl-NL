@@ -3,9 +3,9 @@ unique-page-id: 10100266
 description: Aangepaste activiteiten begrijpen - Marketo Docs - Productdocumentatie
 title: Aangepaste activiteiten begrijpen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -27,14 +27,14 @@ Met aangepaste activiteiten kunt u een activiteit bijhouden die niet gerelateerd
 >
 >Aangepaste activiteiten verschillen van aangepaste objecten. Gebruik aangepaste objecten wanneer de waarde kan worden gewijzigd (d.w.z. &quot;autokleur&quot; verandert van blauw in rood). Gebruik aangepaste activiteiten wanneer u momenten bijhoudt die zijn opgetreden en de details ervan kunnen niet worden gewijzigd (dat wil zeggen: &quot;gekochte auto&quot;).
 
-**** FieldsU kunt  [ ](https://docs.marketo.com/x/Mx6a) extra gebieden toevoegen die u aan uw activiteit wenst te associëren. Net als het primaire veld kunnen ze worden gebruikt als filtercriteria in een slimme lijst.
+**** FieldsU kunt  [ ](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) extra gebieden toevoegen die u aan uw activiteit wenst te associëren. Net als het primaire veld kunnen ze worden gebruikt als filtercriteria in een slimme lijst.
 
 **Aan de slag**
 
 Aangepaste activiteiten functioneren net als standaardactiviteiten. Het opzetten ervan is echter een tweeledig proces.
 
-Stap 1: [Een aangepaste activiteit maken](create-a-custom-activity.md) in uw Marketo-account
+Stap 1: [Een aangepaste activiteit maken](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) in uw Marketo-account
 
-Stap 2: De werknemer in uw organisatie die met onze API werkt kan dan met de implementatie beginnen. Meer informatie vindt u hier: [Aangepaste activiteit-API](http://developers.marketo.com/documentation/rest/add-custom-activities/)
+Stap 2: De werknemer in uw organisatie die met onze API werkt kan dan met de implementatie beginnen. Meer informatie vindt u hier: [Aangepaste activiteit-API](https://developers.marketo.com/documentation/rest/add-custom-activities/)
 
 Veel plezier!
