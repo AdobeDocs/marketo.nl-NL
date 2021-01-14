@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Inzicht in aangepaste Marketo-objecten - Marketo Docs - Productdocumentatie
 title: Aangepaste objecten markeren
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '679'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Gebruik aangepaste objecten om metrische gegevens bij te houden die specifiek zijn voor uw bedrijf.
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
@@ -45,7 +43,7 @@ Vele-aan-vele douanevoorwerpen gebruiken twee verbindingsgebieden, deel van een 
 
 ## Markering openen voor aangepaste objecten {#accessing-marketo-custom-objects}
 
-1. Als u aangepaste Marketo-objecten wilt maken of bewerken, klikt u op **Admin **en vervolgens op de koppeling **Marketo Custom Object** s.
+1. Als u aangepaste Marketo-objecten wilt maken of bewerken, klikt u op **Admin** en vervolgens op de koppeling **Marketo Custom Objects**.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
@@ -91,18 +89,14 @@ Als u veelvoudige mensen in Marketo hebt die verslagen in CRM of Marketo-slechts
 
 Aangepaste objecten kunnen alleen rechtstreeks aan één record worden gekoppeld. Dit betekent dat wanneer uw type van douaneobjecten door bedrijfgebied wordt verbonden, u zou moeten ervoor zorgen dat uw persoonverslagen aan een bedrijf of gebruikend contactomzetting in uw CRM, of gebruikend het externalCompanyId gebied worden geassocieerd, als u bedrijven beheert die REST APIs van Marketo gebruiken. Voor persoonrecords die niet expliciet aan bedrijfsrecords zijn gekoppeld, worden aangepaste objecten die met bedrijf zijn gekoppeld, willekeurig gekoppeld aan één record, zelfs als de waarde van het bedrijfsveld door veel personen wordt gedeeld.
 
-Zie [Aangepaste objectgegevens importeren](import-custom-object-data.md) voor meer informatie.
+Zie [Aangepaste objectgegevens importeren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) voor meer informatie.
 
 >[!MORELIKETHIS]
 >
->* [Aangepaste objecten markeren](create-marketo-custom-objects.md)
->* [Een aangepast object goedkeuren](approve-a-custom-object.md)
->* [Een aangepast markeerobject bewerken en verwijderen](edit-and-delete-a-marketo-custom-object.md)
->* [Markeren toevoegen aan aangepaste objectvelden](add-marketo-custom-object-fields.md)
->* [Markeren naar aangepaste objectvelden bewerken en verwijderen](edit-and-delete-marketo-custom-object-fields.md)
->* [Aangepaste objectgegevens importeren](import-custom-object-data.md)
-
->
-
-
+>* [Aangepaste objecten markeren](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [Een aangepast object goedkeuren](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>* [Een aangepast markeerobject bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Markeren toevoegen aan aangepaste objectvelden](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Markeren naar aangepaste objectvelden bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Aangepaste objectgegevens importeren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
