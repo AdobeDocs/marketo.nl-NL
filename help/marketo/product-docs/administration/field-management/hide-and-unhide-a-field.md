@@ -3,9 +3,9 @@ unique-page-id: 2360333
 description: Een veld verbergen en verbergen - Marketo Docs - Productdocumentatie
 title: Een veld verbergen en verbergen opheffen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,10 @@ Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruik
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
    >Als u een veld wilt verbergen, mag het niet worden gekoppeld aan andere elementen (inclusief gearchiveerde elementen). Verwijder het veld uit alle slimme lijsten, stapsgewijze keuzes, formulieren, e-mails enzovoort voordat u het verbergt.
 
-   Klik ter bevestiging op Verbergen.
+1. Klik **Verbergen** om te bevestigen.
+
    ![](assets/image2014-9-18-13-3a10-3a36.png)
 
    Mooi werk! Nu weet u hoe u een veld in de gebruikersinterface Marketo kunt verbergen.
@@ -48,7 +47,7 @@ Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruik
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 
-1. Zoek en selecteer het veld en klik vervolgens onder **Veldhandelingen** op **`Unhide Field`**.
+1. Het veld zoeken en selecteren. Klik in de vervolgkeuzelijst Veldhandelingen op **Veld verbergen**.
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
@@ -56,5 +55,4 @@ Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruik
 
    >[!TIP]
    >
-   >Wilt u dat een massa voor verbergen/verbergen wordt uitgevoerd? Contact opnemen met Marketo Professional Services: [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#4d3e283f3b242e283e0d202c3f26283922632e222063)
-
+   >Wilt u dat een massa voor verbergen/verbergen wordt uitgevoerd? Contact opnemen met Marketo Professional Services: services@marketo.com.
