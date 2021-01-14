@@ -3,9 +3,9 @@ unique-page-id: 2360331
 description: Het type Marketo-aangepast veld - Marketo Docs - Productdocumentatie wijzigen
 title: Het type van een Marketo-aangepast veld wijzigen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
 
-1. Ga naar **Admin **en klik **Veld Management**.
+1. Ga naar **Admin** en klik **Veld Management**.
 
    ![](assets/image2014-9-18-13-3a4-3a39.png)
 
@@ -35,7 +35,7 @@ Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
 
    ![](assets/image2015-4-22-9-3a39-3a3.png)
 
-1. Lees de waarschuwing en klik op **Wijzigen **om te bevestigen.
+1. Lees de waarschuwing en klik vervolgens op **Wijzigen** om te bevestigen.
 
    ![](assets/image2014-9-18-13-3a5-3a23.png)
 
@@ -43,13 +43,6 @@ Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
    >
    >Het waarschuwingsbericht dat u ziet, is afhankelijk van het veldtype dat u wilt wijzigen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Een aangepast veld maken in Marketo](create-a-custom-field-in-marketo.md)
-
-
-Het aangepaste veld heeft nu een ander type. Hurray!
+   >[Een aangepast veld maken in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
