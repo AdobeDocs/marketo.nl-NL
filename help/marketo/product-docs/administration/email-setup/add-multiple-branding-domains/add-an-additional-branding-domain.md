@@ -3,9 +3,9 @@ unique-page-id: 11377395
 description: Een extra brandingdomein toevoegen - Marketo Docs - Productdocumentatie
 title: Een extra brandingdomein toevoegen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Voeg een extra branding domein toe wanneer u veelvoudige merken uit één enkele
 
 >[!PREREQUISITES]
 >
->U moet [de generische volgende verbinding](edit-your-default-branding-domain.md) met een branded domein vervangen alvorens extra branded domeinen toe te voegen.
+>U moet [de generische volgende verbinding](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) met een branded domein vervangen alvorens extra branded domeinen toe te voegen.
 
-1. In Mijn Marketo, klik **Admin **en toen **e-mail** verbinding.
+1. In Mijn Marketo, klik **Admin** en toen **Email** verbinding.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
-1. Klik op **Toevoegen **om een extra brandingdomein toe te voegen.
+1. Klik **Add** om een extra brandingsdomein toe te voegen.
 
    ![](assets/two.png)
 
@@ -33,15 +33,8 @@ Voeg een extra branding domein toe wanneer u veelvoudige merken uit één enkele
 
 >[!NOTE]
 >
->U kunt ervoor kiezen om dit uw primaire domein te maken, en alle bestaande niet-verzonden e-mails die zijn ingesteld op Standaard en alle nieuwe e-mailberichten die zijn gemaakt, worden standaard ingesteld op het primaire domein. U kunt [dit per e-mail overschrijven](overwrite-primary-domain-for-emails.md).
+>U kunt ervoor kiezen om dit uw primaire domein te maken, en alle bestaande niet-verzonden e-mails die zijn ingesteld op Standaard en alle nieuwe e-mailberichten die zijn gemaakt, worden standaard ingesteld op het primaire domein. U kunt [dit per e-mail overschrijven](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [Uw standaardbrandingdomein bewerken](edit-your-default-branding-domain.md)
-
->
-
-
-
+>[Uw standaardbrandingdomein bewerken](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)
