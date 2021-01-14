@@ -3,9 +3,9 @@ unique-page-id: 6848782
 description: Je abonnement voor talen dynamisch maken - Marketo Docs - Productdocumentatie
 title: Bericht voor opzeggen dynamisch maken voor talen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,19 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 >
 >We hebben hieronder een mooie kleine zelfstudie voor je opgezet. Het vertegenwoordigt een beste praktijk, maar dit kan andere manieren worden verwezenlijkt.
 
-1. Uw gegevens voorbereiden
-1. [Maak een aangepast ](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)veld met de naam &quot;Voorkeurstaal&quot;. (Stel deze in uw CRM in als u wilt dat dit veld wordt gesynchroniseerd).
+## Uw gegevens {#prepare-your-data} voorbereiden
+
+1. [Maak een aangepast ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) veld met de naam &quot;Voorkeurstaal&quot;. (Stel deze in uw CRM in als u wilt dat dit veld wordt gesynchroniseerd).
 
    >[!TIP]
    >
-   >Gebruik dit veld in de toekomst wanneer u [een formulier maakt](../../../../product-docs/demand-generation/forms/creating-a-form/create-a-form.md) om taalvoorkeur vast te leggen.
+   >Gebruik dit veld in de toekomst wanneer u [een formulier maakt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) om taalvoorkeur vast te leggen.
 
-1. Segmentatie maken
+## Segmentatie {#create-segmentation} maken
+
 1. Ga naar **Database**.
-** ![](assets/db.png)
 
-   **
+   ![](assets/db.png)
 
 1. Klik in de vervolgkeuzelijst **Nieuw** op **Nieuwe segmentatie**.
 
@@ -64,16 +65,15 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 
    ![](assets/image2015-3-9-8-3a39-3a36.png)
 
-1. Een fragment maken
+## Een fragment maken {#create-a-snippet}
+
 1. Ga naar **Design Studio**.
 
    ![](assets/ds.png)
 
 1. Klik in het vervolgkeuzemenu **Nieuw** op **Nieuw fragment**.
 
-   ** ![](assets/ten.png)
-
-   **
+   ![](assets/ten.png)
 
 1. Geef het fragment **Abonnement op bericht opzeggen** een naam. Klik **Maken**.
 
@@ -83,7 +83,7 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 
    ![](assets/image2015-3-9-8-3a41-3a47.png)
 
-1. Kopieer en plak deze token: **`{{system.unsubscribeLink}}`** in het **veld URL koppelen**. Klik **Invoegen**.
+1. Kopieer en plak deze token: `{{system.unsubscribeLink}}` in het **veld URL koppelen**. Klik **Invoegen**.
 
    ![](assets/image2015-3-9-8-3a43-3a17.png)
 
@@ -99,7 +99,7 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 
    ![](assets/image2015-3-9-8-3a45-3a43.png)
 
-1. Hetzelfde token kopiëren en plakken: **`{{system.unsubscribeLink}}`** in het **veld URL koppelen**. Klik **Invoegen**.
+1. Hetzelfde token kopiëren en plakken: `{{system.unsubscribeLink}}` in het **veld URL koppelen**. Klik **Invoegen**.
 
    ![](assets/image2015-3-9-8-3a47-3a4.png)
 
@@ -109,7 +109,8 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 
    Geweldig. Bijna.
 
-1. Fragment gebruiken in een e-mail
+## Fragment gebruiken in een e-mail {#use-snippet-in-an-email}
+
 1. Klik in de e-maileditor op het bewerkbare element. Klik vervolgens op het tandwielpictogram en selecteer **Vervangen door fragment**. Als u een bewerkbaar fragmentelement selecteert, klikt u op het tandwielpictogram en selecteert u **Bewerken**.
 
    ![](assets/4.1.png)
@@ -134,27 +135,27 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
    >
    >Natuurlijk kunt u de rest van uw e-mail ook voor dynamische taal bewerken. Voer dezelfde techniek uit op de pagina voor het opzeggen van het abonnement terwijl u er bent.
 
-1. Je abonnementspagina aanpassen met dynamische inhoud
+## Uw abonnementspagina aanpassen met dynamische inhoud {#customizing-your-unsubscribe-page-with-dynamic-content}
 
-   Als u wilt dat de mensen naar een pagina komen die hun abonnement opzegt in de taal van hun voorkeur, kunt u dynamische inhoud op de landingspagina en de bevestigingspagina gebruiken.
+Als u wilt dat de mensen naar een pagina komen die hun abonnement opzegt in de taal van hun voorkeur, kunt u dynamische inhoud op de landingspagina en de bevestigingspagina gebruiken.
 
-   Navigeer naar de Design Studio.
+1. Navigeer naar de Design Studio.
 
    ![](assets/ds.png)
 
-   Typ Afmelden in het zoekveld. Je moet je afmeldingspagina&#39;s vinden.
+1. Typ _Abonnement opzeggen_ in het zoekveld. Je moet je afmeldingspagina&#39;s vinden.
 
    ![](assets/image2015-3-9-8-3a51-3a53.png)
 
-   Klik op Concept bewerken.
+1. Klik **Concept bewerken**.
 
    ![](assets/image2015-3-9-8-3a52-3a23.png)
 
-   Selecteer Segment op.
+1. Selecteer **Segment door**.
 
    ![](assets/image2015-3-9-8-3a52-3a57.png)
 
-   Zoek het segment Voorkeurstaal. Klik op Opslaan.
+1. Zoek het segment Voorkeurstaal. Klik **Opslaan**.
 
    ![](assets/image2015-3-9-8-3a53-3a54.png)
 
@@ -162,8 +163,4 @@ Het standaardbericht en de koppeling voor afmelden zijn in het Engels beschikbaa
 
    >[!NOTE]
    >
-   >**Diep duiken**
-   >
-   >
-   >Meer informatie over [dynamische inhoud](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) en alle leuke dingen die u kunt doen.
-
+   >Meer informatie over [dynamische inhoud](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) en alle leuke dingen die u kunt doen.
