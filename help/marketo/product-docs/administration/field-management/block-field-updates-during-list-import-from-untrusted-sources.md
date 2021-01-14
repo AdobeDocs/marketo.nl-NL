@@ -3,7 +3,7 @@ unique-page-id: 2360335
 description: De Updates van het Gebied van het blok tijdens de Invoer van de Lijst van Onbetrouwbare Bronnen - Marketo Docs - de Documentatie van het Product
 title: Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -41,10 +41,10 @@ Herhaal bovenstaande stappen voor alle andere velden die u wilt beveiligen tegen
 
 ## Importeren van niet-vertrouwde lijsten {#running-an-untrusted-list-import} uitvoeren
 
-1. Wanneer u de lijst wilt importeren, moet u **Niet-vertrouwde **selecteren als u wilt dat alle velden die u in de vorige stap hebt ingesteld, veilig zijn.
+1. Wanneer u de lijst wilt importeren, moet u **Niet-vertrouwd** selecteren als u wilt dat alle velden die u in de vorige stap hebt ingesteld, veilig zijn.
 
    ![](assets/importpersondetails.jpg)
 
-Zie [Een lijst met personen importeren](../../../getting-started/quick-wins/import-a-list-of-people.md) voor gedetailleerde instructies voor het importeren van lijsten.
+Zie [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) voor gedetailleerde instructies voor het importeren van lijsten.
 
 Mooi werk! Nu weet u hoe u sleutelvelden veilig kunt houden voor niet-vertrouwde lijsten.
