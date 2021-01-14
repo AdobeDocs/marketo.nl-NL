@@ -3,7 +3,7 @@ unique-page-id: 10093690
 description: Een aangepast Marketo-object - Marketo Docs - Productdocumentatie bewerken en verwijderen
 title: Een aangepast markeerobject bewerken en verwijderen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Met het menu Acties voor aangepaste objecten kunt u een aangepast object bewerke
 
    ![](assets/image2015-9-15-16-3a48-3a39.png)
 
-1. Vergeet niet [het bewerkte object](approve-a-custom-object.md) goed te keuren.
+1. Vergeet niet [het bewerkte object](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md) goed te keuren.
 
 ## Een aangepast object {#delete-a-custom-object} verwijderen
 
@@ -81,5 +81,4 @@ Het is gemakkelijk om een douanevoorwerp te schrappen, maar u moet voorzichtig z
 
 >[!MORELIKETHIS]
 >
->[Een aangepast object goedkeuren](approve-a-custom-object.md)
-
+>[Een aangepast object goedkeuren](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
