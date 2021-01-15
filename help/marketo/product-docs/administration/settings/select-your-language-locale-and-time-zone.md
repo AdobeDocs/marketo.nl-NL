@@ -3,9 +3,9 @@ unique-page-id: 2359904
 description: Selecteer uw taal, landinstelling en tijdzone - Marketo Docs - Productdocumentatie
 title: Taal, landinstelling en tijdzone selecteren
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -26,15 +26,15 @@ Engels is niet jouw eerste taal? Maak je geen zorgen, we hebben je bedekt. Hier 
 
 ## Taal, landinstelling en tijdzone van gebruiker wijzigen {#change-user-language-locale-and-time-zone}
 
-1. Meld u aan bij Marketo en selecteer Mijn account onder uw naam.
+1. Meld u aan bij Marketo en selecteer **Mijn account** onder uw naam.
 
    ![](assets/myaccount.png)
 
-1. Klik onder Mijn account op Locatie-instellingen bewerken.
+1. Klik onder Mijn account op **Locatie-instellingen bewerken**.
 
    ![](assets/image2014-9-9-11-3a9-3a47.png)
 
-1. Wijzig uw taal.
+1. Wijzig uw **Taal**.
 
    ![](assets/image2014-9-9-11-3a10-3a4.png)
 
@@ -42,15 +42,15 @@ Engels is niet jouw eerste taal? Maak je geen zorgen, we hebben je bedekt. Hier 
    >
    >U kunt ook alleen de taal wijzigen door op de vervolgkeuzelijst voor de taal boven aan de aanmeldingspagina te klikken.
 
-1. Wijzig uw landinstelling.
+1. Wijzig uw **Landinstelling**.
 
    ![](assets/image2014-9-9-11-3a10-3a29.png)
 
-1. Wijzig de tijdzone.
+1. Wijzig uw **Tijdzone**.
 
    ![](assets/image2014-9-9-11-3a10-3a56.png)
 
-1. Klik op Opslaan.
+1. Klik **Opslaan**.
 
    ![](assets/image2014-9-9-11-3a11-3a18.png)
 
