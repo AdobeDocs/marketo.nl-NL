@@ -3,7 +3,7 @@ unique-page-id: 2360327
 description: Personen partities toewijzen met toewijzingsregels - Marketo Docs - Productdocumentatie
 title: Personen partities toewijzen met toewijzingsregels
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een personenpartitie maken](create-a-person-partition.md)
-
->
-
-
+>[Een personenpartitie maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak om mensen die van uw CRM aan hun respectieve verdelingen worden gecreeerd te leiden.
 
@@ -33,13 +29,13 @@ Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak o
 
 1. Klik onder Beheer op Werkruimten en partities.
 
-![](assets/image2014-9-17-10-3a32-3a55.png)
+   ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. Klik onder het tabblad **Personen-partities **op **Toewijzingsregels**.
+1. Klik onder **Personenpartities** tabblad op **Toewijzingsregels**.
 
    ![](assets/two-6.png)
 
-1. Klik **Voeg Keuze **toevoegen om voorwaarden toe te voegen voor het verpletteren van mensen in persoonlijke verdelingen.
+1. Klik **Voeg Keuze** toe om voorwaarden voor het verpletteren van mensen in persoonverdelingen toe te voegen.
 
    ![](assets/three-6.png)
 
@@ -48,7 +44,8 @@ Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak o
    ![](assets/four-5.png)
 
 1. Kies de keuzeoperator en voer een waarde in.
-1. ![](assets/five-1.png)
+
+   ![](assets/five-1.png)
 
 1. Selecteer de Partitie Personen waarin u de personen wilt opnemen die aan de voorwaarden voldoen.
 
@@ -56,10 +53,10 @@ Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak o
 
    >[!NOTE]
    >
-   >
    >U kunt zoveel opties toevoegen als u wilt.
 
-   Klik op Opslaan.
+1. Klik **Opslaan**.
+
    ![](assets/seven.png)
 
 En daar heb je het! U hebt regels toegewezen voor het vullen van uw persoonlijke partities met mensen!
@@ -67,4 +64,3 @@ En daar heb je het! U hebt regels toegewezen voor het vullen van uw persoonlijke
 >[!NOTE]
 >
 >De standaardkeuze wordt toegepast als aan geen van de vorige voorwaarden is voldaan.
-
