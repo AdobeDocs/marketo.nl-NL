@@ -3,9 +3,9 @@ unique-page-id: 2360276
 description: Een programmakanaal verbergen/verbergen - Marketo Docs - Productdocumentatie
 title: Een programmakanaal verbergen/verbergen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-U kunt [een programmakanaal](delete-a-program-channel.md) schrappen als het niet door enige programma&#39;s wordt gebruikt.  Maar als het eenmaal wordt gebruikt, moeten we het rond houden.  U kunt de component echter verbergen als u deze niet meer nodig hebt.
+U kunt [een programmakanaal](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) schrappen als het niet door enige programma&#39;s wordt gebruikt.  Maar als het eenmaal wordt gebruikt, moeten we het rond houden.  U kunt de component echter verbergen als u deze niet meer nodig hebt.
 
 ## Programmakanaal {#hide-a-program-channel} verbergen
 
@@ -25,7 +25,7 @@ U kunt [een programmakanaal](delete-a-program-channel.md) schrappen als het niet
 
    ![](assets/image2014-9-24-15-3a45-3a7.png)
 
-1. Klik op **Kanaal** drop-down en selecteer **Kanaal **om te verbergen.
+1. Klik op **Kanaal** drop-down en selecteer **Kanaal** om te verbergen.
 
    ![](assets/image2014-9-24-15-3a45-3a41.png)
 
@@ -41,4 +41,3 @@ Gemakkelijk komen, eenvoudig gaan!
 
    ![](assets/image2014-9-24-15-3a47-3a24.png)
 
-Eenvoudig gaan, komstig! (Is dat een echte uitdrukking?)
