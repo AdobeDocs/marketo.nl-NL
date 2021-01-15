@@ -3,9 +3,9 @@ unique-page-id: 2359909
 description: Gebruikersrollen en -machtigingen beheren - Marketo Docs - Productdocumentatie
 title: Gebruikersrollen en -machtigingen beheren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
@@ -23,17 +23,17 @@ Een marketinggebruiker heeft bijvoorbeeld doorgaans brede toegang nodig in de to
 
 Marketo biedt verschillende ingebouwde rollen met verschillende toegangsniveaus:
 
-* **Admin **- alle onderdelen van de toepassing, inclusief de sectie Admin
-* **Standaardgebruiker **- alle onderdelen van de toepassing, behalve de sectie Admin
+* **Admin**  - alle onderdelen van de toepassing, inclusief de sectie Admin
+* **Standaardgebruiker** : alle onderdelen van de toepassing, behalve de sectie Admin
 * **Gebruiker**  voor het in de handel brengen - alle delen van de toepassing, behalve de Admin sectie
-* **Webontwerper **- alleen de Design Studio
-* **Analytics-gebruiker **- alleen de sectie Analytics
+* **De Ontwerper**  van het Web - slechts de Studio van het Ontwerp
+* **Gebruiker**  analyseren - alleen de sectie Analytics
 
 U kunt de rollen Admin en Standaard van de Gebruiker niet uitgeven, maar u kunt anderen uitgeven. U kunt nieuwe douanerollen ook tot stand brengen om de bepaalde organisatorische structuren in uw bedrijf aan te passen.
 
 ## Rollen toewijzen aan een gebruiker {#assign-roles-to-a-user}
 
-U kunt rollen aan een gebruiker toewijzen wanneer u [gebruikers voor het eerst creeert ](http://docs.marketo.com/display/DOCS/Create%2C+Delete%2C+Edit+and+Change+a+User+Role) of door [het uitgeven van een bestaande gebruiker](managing-marketo-users.md).
+U kunt rollen aan een gebruiker toewijzen wanneer u [gebruikers voor het eerst creeert ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) of door [het uitgeven van een bestaande gebruiker](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
 1. Als u een bestaande gebruiker wilt bewerken, gaat u naar **Admin** en klikt u op **Gebruikers &amp; rollen**.
 
@@ -49,25 +49,25 @@ U kunt rollen aan een gebruiker toewijzen wanneer u [gebruikers voor het eerst c
 
    >[!NOTE]
    >
-   >Om over elke rol te leren, zie [Beschrijvingen van Roltoestemmingen](managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
+   >Om over elke rol te leren, zie [Beschrijvingen van Roltoestemmingen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md).
 
 ## Een nieuwe rol maken {#create-a-new-role}
 
 Soms, heeft uw organisatie werknemers in zeer specifieke rollen die een douanecombinatie van toestemmingen vereisen.
 
-1. Als u een nieuwe gebruikersrol wilt maken, gaat u naar Beheer en klikt u op Gebruikers en rollen.
+1. Als u een nieuwe gebruikersrol wilt maken, gaat u naar Admin en klikt u op **Gebruikers &amp; rollen**.
 
    ![](assets/image2014-9-9-18-3a8-3a12.png)
 
-1. Klik op het tabblad Rollen.
+1. Klik op het tabblad **Rollen**.
 
    ![](assets/image2014-9-9-18-3a8-3a22.png)
 
-1. Klik op Nieuwe rol.
+1. Klik **Nieuwe rol**.
 
    ![](assets/image2014-9-9-18-3a8-3a38.png)
 
-1. Voer een rolnaam, een beschrijving (optioneel) in en selecteer de machtigingen die gebruikers in deze rol nodig hebben.
+1. Voer een **Rolnaam**, een **Beschrijving** (optioneel) in en selecteer de machtigingen die gebruikers in deze rol nodig hebben.
 
    ![](assets/image2014-9-9-18-3a9-3a3.png)
 
@@ -79,7 +79,7 @@ Als u de toestemmingen moet veranderen die met een bestaande rol worden geassoci
 
    ![](assets/image2014-9-9-18-3a9-3a15.png)
 
-1. Klik op het tabblad **Rollen **tab.
+1. Klik op het tabblad **Rollen**.
 
    ![](assets/image2014-9-9-18-3a9-3a26.png)
 
@@ -87,7 +87,7 @@ Als u de toestemmingen moet veranderen die met een bestaande rol worden geassoci
 
    ![](assets/image2014-9-9-18-3a9-3a40.png)
 
-1. Wijzig **Rolnaam** en **Beschrijving **indien nodig, en wijzig vervolgens de selectie van de bijbehorende **Machtigingen**.
+1. Wijzig de **Rolnaam** en **Beschrijving** indien nodig, en wijzig vervolgens de selectie van gekoppelde **Machtigingen**.
 
    ![](assets/image2014-9-9-18-3a10-3a3.png)
 
@@ -99,28 +99,18 @@ Als u de toestemmingen moet veranderen die met een bestaande rol worden geassoci
 
 Als een rol onnodig wordt, kunt u deze verwijderen.
 
-1. Ga naar Beheer en klik op Gebruikers en rollen.
+1. Ga naar Admin en klik **Gebruikers &amp; Rollen**.
 
    ![](assets/image2014-9-9-18-3a10-3a15.png)
 
-1. Klik op het tabblad Rollen.
+1. Klik op het tabblad **Rollen**.
 
    ![](assets/image2014-9-9-18-3a10-3a27.png)
 
-1. Selecteer in de lijst de rol die u wilt verwijderen en klik op Rol verwijderen.
+1. Selecteer in de lijst de rol die u wilt verwijderen en klik op **Rol verwijderen**.
 
    ![](assets/image2014-9-9-18-3a10-3a39.png)
 
-1. Klik ter bevestiging op Verwijderen.
+1. Klik **Verwijderen** om te bevestigen.
 
    ![](assets/image2014-9-9-18-3a10-3a50.png)
-
->[!MORELIKETHIS]
->
->Meer informatie over het creëren van extra gebruikers en het toewijzen van hen rollen in [Begonnen het worden met Marketo](../../../getting-started.md).
-
->[!NOTE]
->
->**Diep duiken**
->
->Leer over andere administratieve taken in [Admin](http://docs.marketo.com/display/docs/administration) diep duik.
