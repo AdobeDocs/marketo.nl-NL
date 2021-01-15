@@ -3,7 +3,7 @@ unique-page-id: 2360274
 description: Tagwaarden beheren - Marketo Docs - Productdocumentatie
 title: Tagwaarden beheren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Tagwaarden beheren {#managing-tag-values}
 
-[Tagsare ](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) wordt gebruikt om programma&#39;s te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. Hieronder wordt beschreven hoe u deze waarden beheert.
+[Tagsare ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) wordt gebruikt om programma&#39;s te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. Hieronder wordt beschreven hoe u deze waarden beheert.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Nieuwe programmatag- en tagwaarden maken](create-a-new-program-tag-and-tag-values.md)
+>[Nieuwe programmatag- en tagwaarden maken](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
 ## Tagwaarden {#adding-tag-values} toevoegen
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-24-12-3a24-3a55.png)
 
-1. Klik op** Nieuw** en vervolgens op **Nieuwe tagwaarde**.
+1. Klik **Nieuw**, dan **Nieuwe tagwaarde**.
 
    ![](assets/image2014-9-24-12-3a25-3a23.png)
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
 1. U moet de wijzigingen direct zien!
 
-![](assets/image2014-9-24-12-3a27-3a34.png)
+   ![](assets/image2014-9-24-12-3a27-3a34.png)
 
 ## Tagwaarden {#hiding-tag-values} verbergen
 
 Tags kunnen door oude programma&#39;s worden gebruikt. U kunt deze vervangen voor toekomstig gebruik door het type code te verbergen.
 
-1. Selecteer de tag** ****Tag** en selecteer de **Waarde** die u wilt verbergen.
+1. Selecteer **Tag** en selecteer **Waarde** u wilt verbergen.
 
    ![](assets/image2014-9-24-12-3a28-3a25.png)
 
@@ -69,5 +69,4 @@ Ga als volgt te werk als u de verborgen waarden weer wilt zien:
 
    ![](assets/image2014-9-24-12-3a29-3a58.png)
 
-   Vervolgens kunt u de waarden die u in de toekomst wilt gebruiken, zichtbaar maken.
-
+Vervolgens kunt u de waarden die u in de toekomst wilt gebruiken, zichtbaar maken.
