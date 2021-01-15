@@ -3,7 +3,7 @@ unique-page-id: 2360272
 description: Een nieuwe programmatag en tagwaarden maken - Marketo Docs - Productdocumentatie
 title: Nieuwe programmatag- en tagwaarden maken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-U kunt aangepaste [tags](../../../product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor uw programma&#39;s maken en waarden aan de tag toewijzen.
+U kunt aangepaste [tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor uw programma&#39;s maken en waarden aan de tag toewijzen.
 
 >[!NOTE]
 >
