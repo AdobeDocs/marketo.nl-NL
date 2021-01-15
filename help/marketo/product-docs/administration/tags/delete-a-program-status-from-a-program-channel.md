@@ -3,9 +3,9 @@ unique-page-id: 2360278
 description: Een programmastatus verwijderen uit een programmakanaal - Marketo Docs - Productdocumentatie
 title: De status van een programma verwijderen uit een programmakanaal
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ De status van het programma is de controlepunten door een programmaweg (kanaal).
 
    ![](assets/image2014-9-24-15-3a51-3a45.png)
 
-1. Klik ![—](assets/image2014-9-24-15-3a52-3a39.png) om de status te verwijderen, dan klik **SAVE**.
+1. Klik ![X pictogram](assets/image2014-9-24-15-3a52-3a39.png) om de status te verwijderen, dan klik **sparen**.
 
    >[!TIP]
    >
@@ -35,4 +35,4 @@ De status van het programma is de controlepunten door een programmaweg (kanaal).
 
    ![](assets/image2014-9-24-15-3a57-3a53.png)
 
-Echt waar! U kunt een volledig kanaal [ook schrappen ](delete-a-program-channel.md) als u nodig hebt.
+Echt waar! U kunt een volledig kanaal [ook schrappen ](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) als u nodig hebt.
