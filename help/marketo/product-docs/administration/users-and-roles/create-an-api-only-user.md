@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: Alleen een gebruiker voor API maken - Marketo Docs - Productdocumentatie
 title: Alleen een API-gebruiker maken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,11 @@ ht-degree: 0%
 
 # Alleen een API-gebruiker maken {#create-an-api-only-user}
 
-Als u met Marketo via [REST API](http://developers.marketo.com/documentation/rest/) wilt integreren, zult u een slechts gebruiker moeten creëren API. Zo gaat het.
+Als u met Marketo via [REST API](https://developers.marketo.com/documentation/rest/) wilt integreren, zult u een slechts gebruiker moeten creëren API. Zo gaat het.
 
 >[!PREREQUISITES]
 >
->* [Een gebruikersrol maken die alleen een API is](create-an-api-only-user-role.md)
-
->
-
+>[Een gebruikersrol maken die alleen een API is](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 
 
 >[!NOTE]
@@ -57,13 +54,6 @@ Als u met Marketo via [REST API](http://developers.marketo.com/documentation/res
 
 Aldus terecht! Laten we nu de aangepaste service maken.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [Een aangepaste service maken voor gebruik met de ReST-API](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
-
->
-
-
-
+>[Een aangepaste service maken voor gebruik met de ReST-API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
