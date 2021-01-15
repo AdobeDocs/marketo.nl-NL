@@ -3,9 +3,9 @@ unique-page-id: 2360281
 description: Een programmakanaal verwijderen - Marketo Docs - Productdocumentatie
 title: Een programmakanaal verwijderen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Programmakanalen zijn een verzameling statussen of controlepunten die door een p
 
 Als u per ongeluk een foto maakt of deze niet meer nodig hebt, kunt u deze verwijderen.
 
-1. Ga naar de sectie** Admin**.
+1. Ga naar **Admin** sectie.
 
    ![](assets/image2014-9-24-16-3a6-3a41.png)
 
@@ -33,13 +33,4 @@ Als u per ongeluk een foto maakt of deze niet meer nodig hebt, kunt u deze verwi
 
    ![](assets/image2014-9-24-16-3a10-3a59.png)
 
-Bam! U kunt ook [specifieke statussen verwijderen uit kanalen](delete-a-program-status-from-a-program-channel.md).
-
->[!MORELIKETHIS]
->
->* [De status van een programma verwijderen uit een programmakanaal](delete-a-program-status-from-a-program-channel.md)
-
->
-
-
-
+Bam! U kunt ook [specifieke statussen verwijderen uit kanalen](/help/marketo/product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md).
