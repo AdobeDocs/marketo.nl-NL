@@ -3,9 +3,9 @@ unique-page-id: 2359916
 description: Uw Marketo-wachtwoord wijzigen - Marketo Docs - Productdocumentatie
 title: Wachtwoord voor markeren wijzigen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Wijzig uw Marketo-wachtwoord met deze eenvoudige stappen.
 
    ![](assets/image2014-9-10-9-3a43-3a47.png)
 
-1. Voer het oude wachtwoord en het nieuwe wachtwoord in en klik op **Opslaan **wanneer uw nieuwe wachtwoord aan alle vereisten voldoet.
+1. Ga het Oude Wachtwoord en Nieuw Wachtwoord in, dan klik **sparen** wanneer uw nieuw wachtwoord alle vereisten past.
 
    ![](assets/image2014-9-10-9-3a44-3a2.png)
 
@@ -31,5 +31,4 @@ Wijzig uw Marketo-wachtwoord met deze eenvoudige stappen.
 
    >[!TIP]
    >
-   >Wat is een goed wachtwoord? Iets met veel letters, cijfers en symbolen, zoals &quot; [[email protected]](http://docs.marketo.com/cdn-cgi/l/email-protection) !$ [[e-mail protected]](http://docs.marketo.com/cdn-cgi/l/email-protection)&quot;. Behalve dat niet. Wees creatief en maak je eigen.
-
+   >Wat is een goed wachtwoord? Iets met veel letters, cijfers en symbolen zoals &quot;M@rk3to!$ Gre@t&quot;. Behalve dat niet. Wees creatief en maak je eigen.
