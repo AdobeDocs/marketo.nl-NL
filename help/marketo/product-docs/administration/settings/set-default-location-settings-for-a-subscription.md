@@ -3,7 +3,7 @@ unique-page-id: 2359902
 description: Standaardinstellingen voor locatie instellen voor een abonnement - Marketo Docs - Productdocumentatie
 title: Standaardinstellingen voor locatie instellen voor een abonnement
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -21,9 +21,9 @@ In dit artikel wordt beschreven hoe een beheerder de standaardlocatie-instelling
 
 ## Standaardinstellingen voor locatie instellen voor een abonnement {#set-default-location-settings-for-a-subscription-1}
 
-Wanneer een beheerder de standaardlocatie-instellingen wijzigt, nemen nieuwe gebruikers deze instellingen over. Gebruikers kunnen hun taal-, landinstelling- en tijdzonevoorkeuren altijd [ wijzigen in hun afzonderlijke accounts.](select-your-language-locale-and-time-zone.md)
+Wanneer een beheerder de standaardlocatie-instellingen wijzigt, nemen nieuwe gebruikers deze instellingen over. Gebruikers kunnen hun taal-, landinstelling- en tijdzonevoorkeuren altijd ](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) wijzigen in hun afzonderlijke accounts.[
 
-1. Onder **Admin**,** **klik **Location**.
+1. Klik onder **Admin** op **Locatie**.
 
    ![](assets/image2014-11-7-11-3a39-3a17.png)
 
@@ -43,7 +43,7 @@ Wanneer een beheerder de standaardlocatie-instellingen wijzigt, nemen nieuwe geb
 
    >[!NOTE]
    >
-   >Marketo Sales Insight voor [Salesforce.com](http://salesforce.com/) biedt ondersteuning voor Frans, Duits, Japans, Portugees en Spaans.
+   >Marketo Sales Insight voor [Salesforce.com](https://salesforce.com/) biedt ondersteuning voor Frans, Duits, Japans, Portugees en Spaans.
 
 ## De standaardinstellingen voor valuta instellen voor een abonnement {#set-the-default-currency-settings-for-a-subscription}
 
@@ -61,9 +61,5 @@ Als u de standaardlandinstelling voor uw gebruikers wijzigt, kunt u ook de inste
 
 >[!MORELIKETHIS]
 >
->* [Taal, landinstelling en tijdzone selecteren](select-your-language-locale-and-time-zone.md)
-
->
-
-
+>* [Taal, landinstelling en tijdzone selecteren](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
 
