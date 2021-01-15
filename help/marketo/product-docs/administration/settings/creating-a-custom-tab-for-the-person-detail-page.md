@@ -3,7 +3,7 @@ unique-page-id: 2360305
 description: Een aangepast tabblad maken voor de persoonlijke detailpagina - Marketo Docs - Productdocumentatie
 title: Een aangepast tabblad maken voor de detailpagina voor personen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -35,10 +35,10 @@ Als u steeds weer op zoek bent naar een specifieke set velden in de details van 
    >
    >U hebt twee kolommen om mee te werken.
 
-   Als u een veld wilt verwijderen, klikt u met de rechtermuisknop op het veld dat u wilt verwijderen en klikt u op Verwijderen.
+   Als u besluit dat u een veld wilt verwijderen, klikt u met de rechtermuisknop op het veld dat u wilt verwijderen en klikt u op **Verwijderen**.
+
    ![](assets/image2014-9-16-16-3a43-3a56.png)
 
    Geweldig werk! Wanneer u nu de gegevens van een persoon laadt, kunt u de aangepaste layout gebruiken om toegang te krijgen tot de informatie die voor u van belang is.
 
    ![](assets/six-1.png)
-
