@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: Een programmakanaal maken - Marketo Docs - Productdocumentatie
 title: Een programmakanaal maken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
 
 >[!NOTE]
 >
->**Diep duiken**
->
->Meer informatie over [programma&#39;s](http://docs.marketo.com/display/docs/programs), het belangrijkste element in Marketo.
+>Meer informatie over [programma&#39;s](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), het belangrijkste element in Marketo.
 
 1. Klik onder de sectie **Admin** op **Codes**.
 
@@ -45,27 +43,20 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
    >
    >**Voorbeeld**
    >
-   >
    >Kanaal: Billboard
    >
-   >    
-   >    
-   >    * Toepassen op: Standaard
-   >    * Progressie: Lid, Betrokken (bij twijfel werken deze prima)
-   >    * Geslaagd: Betrokken
+   >* Toepassen op: Standaard
+   >* Progressie: Lid, Betrokken (bij twijfel werken deze prima)
+   >* Geslaagd: Betrokken
 
-   >    
-   >    
+   >
    >Kanaal: Feest
    >
-   >    
-   >    
-   >    * Toepassen op: Gebeurtenis
-   >    * Progressie: Uitgenodigd, Geregistreerd, Geen Show en Bijgewoond
-   >    * Geslaagd: Bijgewoond
+   >* Toepassen op: Gebeurtenis
+   >* Progressie: Uitgenodigd, Geregistreerd, Geen Show en Bijgewoond
+   >* Geslaagd: Bijgewoond
 
-   >    
-   >    
+   >
    >Bekijk de Progressies van bestaande kanalen om een idee te krijgen van hoe u ze kunt gebruiken.
 
 1. Laten we het kanaalvoorbeeld van de Partij volgen. Noem uw nieuw **Kanaal** en selecteer het programmatype het op zal van toepassing zijn.
@@ -109,14 +100,11 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
 
    >[!NOTE]
    >
-   >**De status** van de Mobile Check-in** **opties zal slechts beschikbaar zijn als het kanaal voor gebeurtenisprogramma&#39;s zal zijn.
+   >**De status** van de mobiele inchecken**** opties zijn alleen beschikbaar als het kanaal bestemd is voor gebeurtenisprogramma&#39;s.
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Alleen personen met de status **Mobiele inchecken****** van **Geregistreerd** en **Bijgevoegd** zijn zichtbaar in [Mobiele inchecken-apps](http://docs.marketo.com/display/docs/events).
+   >Alleen personen met een **Mobiele incheckstatus** van **Geregistreerde** en **Bijgewoonde** zijn zichtbaar in de [Mobiele incheckapps](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
 
    >[!TIP]
    >
@@ -127,4 +115,3 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
    ![](assets/image2014-9-24-15-3a42-3a54.png)
 
    Echt waar! Wanneer u een nieuw programma van dat type maakt, zal dit nieuwe kanaal één van de keuzen zijn.
-
