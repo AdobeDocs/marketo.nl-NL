@@ -3,7 +3,7 @@ unique-page-id: 2360203
 description: Alleen een gebruikersrol voor API maken - Marketo Docs - Productdocumentatie
 title: Een gebruikersrol maken die alleen een API is
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Alleen een gebruikersrol voor API maken {#create-an-api-only-user-role}
 
-Als u met Marketo via [REST API](http://developers.marketo.com/documentation/rest/) wilt integreren, is het aan [een gebruiker toe te wijzen slechts API rol](create-an-api-only-user.md) en dan [een douanedienst voor gebruik met ReST API te creëren](../../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Hieronder wordt beschreven hoe u de alleen-API-gebruikersrol maakt.
+Als u met Marketo via [REST API](https://developers.marketo.com/documentation/rest/) wilt integreren, is het aan [een gebruiker toe te wijzen slechts API rol](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) en dan [een douanedienst voor gebruik met ReST API te creëren](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Hieronder wordt beschreven hoe u de alleen-API-gebruikersrol maakt.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Als u met Marketo via [REST API](http://developers.marketo.com/documentation/res
 
    ![](assets/two.png)
 
-1. Klik **Rollen **lusje en dan **Nieuwe Rol**.
+1. Klik op het tabblad **Rollen** en vervolgens **Nieuwe rol**.
 
    ![](assets/image2014-9-16-13-3a47-3a12.png)
 
@@ -41,5 +41,4 @@ Als u met Marketo via [REST API](http://developers.marketo.com/documentation/res
 
 >[!MORELIKETHIS]
 >
->Goed gedaan! Laten we nu [een gebruiker met alleen API maken](create-an-api-only-user.md).
-
+>Goed gedaan! Laten we nu [een gebruiker met alleen API maken](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
