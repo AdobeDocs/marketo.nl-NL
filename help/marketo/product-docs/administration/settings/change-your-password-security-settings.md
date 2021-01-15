@@ -3,9 +3,9 @@ unique-page-id: 2360185
 description: Wijzig uw beveiligingsinstellingen voor wachtwoorden - Marketo Docs - Productdocumentatie
 title: Beveiligingsinstellingen voor wachtwoord wijzigen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -31,9 +31,6 @@ Het wachtwoordbeleid voor uw abonnement bepalen. Zo gaat het.
 
    >[!NOTE]
    >
-   >**Definitie**
-   >
-   >
    >Een sjabloon is slechts een vooraf gebouwde configuratie. Standaard is goed. Hoge veiligheid is de sterkste. Met Aangepast kunt u uw eigen product maken.
 
    ![](assets/passwordstrength.png)
@@ -42,11 +39,11 @@ Het wachtwoordbeleid voor uw abonnement bepalen. Zo gaat het.
    >
    >Schakel in **Aangepast** de selectievakjes in om aan te geven welke kenmerken gebruikers moeten opnemen wanneer zij wachtwoorden maken.
 
-1. Stel de **Vervaldatum** in.**** Deze functie vereist automatisch dat gebruikers hun wachtwoorden na een bepaalde tijd opnieuw instellen. Dit geldt ook voor de Admin-gebruiker.
+1. Stel de **Vervaldatum** in. Deze functie vereist automatisch dat gebruikers hun wachtwoorden na een bepaalde tijd opnieuw instellen. Dit geldt ook voor de Admin-gebruiker.
 
    >[!CAUTION]
    >
-   >Bestaande gebruikers worden niet op de hoogte gesteld van de wijzigingen. Stel **Vervaldatum **op 30 dagen eerst in om ervoor te zorgen dat iedereen de nieuwe instellingen heeft bijgewerkt en verander deze vervolgens weer in de oorspronkelijke volgorde.
+   >Bestaande gebruikers worden niet op de hoogte gesteld van de wijzigingen. Stel **Vervaldatum** in op 30 dagen om ervoor te zorgen dat iedereen de nieuwe instellingen heeft bijgewerkt en verander deze vervolgens terug naar de oorspronkelijke frequentie.
 
    ![](assets/expiration.png)
 
@@ -55,4 +52,3 @@ Het wachtwoordbeleid voor uw abonnement bepalen. Zo gaat het.
    ![](assets/inactivesession.png)
 
    Veiligheid is een serieuze zaak. We hebben je rug.
-
