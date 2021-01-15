@@ -3,9 +3,9 @@ unique-page-id: 10617187
 description: Privacy-instellingen begrijpen - Marketo Docs - Productdocumentatie
 title: Privacy-instellingen begrijpen
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '534'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Deze methoden kunnen de waarde en functionaliteit van Marketo op specifieke gebi
 
 Webbezoekers kunnen hun browser zo instellen dat websites niet kunnen worden bijgehouden door &#39;&#39;Niet bijhouden&#39;&#39; (DNT) te kiezen. Hierdoor wordt het bijhouden van gegevens voor deze browser en dit apparaat voorkomen. Zie de privacyinstellingen van de browser voor meer informatie.
 
-In Munchkin kan een markeerteken [beslissen of de DNT-instelling van de browser wordt ondersteund of genegeerd.](edit-do-not-track-browser-support-settings.md)
+In Munchkin kan een markeerteken [beslissen of de DNT-instelling van de browser wordt ondersteund of genegeerd.](/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
 
 In de Personalisering van het Web, kan een teller beslissen of om [het plaatsen van DNT van browser te steunen of te negeren ](/help/marketo/product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md).
 
@@ -76,5 +76,4 @@ Marketers kunnen de privacy beschermen door gebruikers met een geanonimiseerd IP
 
 * Voor Personalisatie van het Web (RTP), voeg dit aan javascript toe:
 
-IP anonymize: voordat rtp(&#39;send&#39;,&#39;view&#39;) wordt aangeroepen; add rtp(&#39;set&#39;, &#39;settings&#39;, {&#39;anonymizeIP&#39;: true});
-
+`anonymize IP : before calling rtp('send','view'); add rtp('set', 'settings', {'anonymizeIP' : true});`
