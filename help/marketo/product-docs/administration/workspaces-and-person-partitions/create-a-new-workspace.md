@@ -3,9 +3,9 @@ unique-page-id: 2360311
 description: Een nieuwe werkruimte maken - Marketo Docs - Productdocumentatie
 title: Een nieuwe werkruimte maken
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,11 @@ Zo maakt u een nieuwe werkruimte.
 
 >[!NOTE]
 >
->**Diep duiken**
->
->Begrijp eerst met [het Begrijpen van Werkruimten en Partities van de Persoon](understanding-workspaces-and-person-partitions.md).
+>Begrijp eerst met [het Begrijpen van Werkruimten en Partities van de Persoon](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Neem contact op met [Marketo Professional Services](http://docs.marketo.com/cdn-cgi/l/email-protection#55263027233c363026153834273e30213a7b363a38) voor meer informatie over aanbevolen werkruimten.
+>Neem contact op met [Marketo Professional Services](mailto:services@marketo.com) voor meer informatie over aanbevolen werkruimten.
 
 1. Klik onder **Admin** op **Werkruimten en partities**.
 
@@ -42,33 +40,25 @@ Zo maakt u een nieuwe werkruimte.
 
    ![](assets/two-1.png)
 
-1. Voer een** naam** in en selecteer de **Personpartitie(s)** die u wilt gebruiken. Kies een **Primaire Person Partition**.
+1. Voer een **Naam** in en selecteer **Personpartitie(s)** die u wilt gebruiken. Kies een **Primaire Person Partition**.
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Zorg ervoor om [persoonlijke verdelingen te creëren](create-a-person-partition.md) als u niet reeds hebt.
+   >Zorg ervoor om [persoonlijke verdelingen te creëren](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) als u niet reeds hebt.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Het selectievakje **Alle persoonlijke partities******* betekent dat deze werkruimte alle persoonlijke partities in het systeem kan gebruiken.
-
-   >[!NOTE]
+   >Het selectievakje **Alle persoonlijke partities** betekent dat deze werkruimte alle persoonlijke partities in het systeem kan gebruiken.
    >
-   >**Herinnering**
-   >
-   >
-   >De *** primaire persoonpartitie** fungeert als standaard en is waar alle mensen worden toegewezen.
+   >De **primaire persoonpartitie** fungeert als standaard en is de locatie waar alle personen worden toegewezen.
 
    Als u veelvoudige branded domeinen toeliet, moet u een primair branded domein kiezen.
 
    ![](assets/four-1.png)
 
-   Selecteer de werkruimtetaal.
+1. Selecteer de werkruimtetaal.
 
    >[!NOTE]
    >
@@ -85,4 +75,3 @@ Zo maakt u een nieuwe werkruimte.
    Nadat u de werkruimte hebt gemaakt, wordt de update weergegeven.
 
    ![](assets/image2014-9-17-15-3a39-3a10.png)
-
