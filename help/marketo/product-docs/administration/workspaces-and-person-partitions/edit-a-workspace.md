@@ -3,9 +3,9 @@ unique-page-id: 11380986
 description: Een werkruimte bewerken - Marketo Docs - Productdocumentatie
 title: Een werkruimte bewerken
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,7 @@ Soms moet u wijzigingen aanbrengen in een werkruimte. Het is gemakkelijk.
 
 >[!NOTE]
 >
->**Diep duiken**
->
->Penseel omhoog op werkruimten met [Werkruimten en Personen Partities](understanding-workspaces-and-person-partitions.md).
+>Penseel omhoog op werkruimten met [Werkruimten en Personen Partities](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Klik onder **Admin** op **Werkruimten en partities**.
 
@@ -37,25 +35,19 @@ Soms moet u wijzigingen aanbrengen in een werkruimte. Het is gemakkelijk.
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >U kunt [meer persoonverdelingen tot stand brengen](create-a-person-partition.md) als u hen nodig hebt.
+   >U kunt [meer persoonverdelingen tot stand brengen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) als u hen nodig hebt.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >Het selectievakje **Alle persoonlijke partities******* betekent dat deze werkruimte alle leadpartities in het systeem kan gebruiken.
+   >Het selectievakje **Alle persoonlijke partities** betekent dat deze werkruimte alle leadpartities in het systeem kan gebruiken.
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >De *** primaire persoonpartitie** fungeert als standaard en is waar alle mensen worden toegewezen.
+   >De **primaire persoonpartitie** fungeert als standaard en is de locatie waar alle personen worden toegewezen.
 
-   Als u meerdere domeinen met branding hebt ingeschakeld, kunt u overschakelen op een ander domein met primaire branding. Klik op Opslaan.
+   Als u meerdere domeinen met branding hebt ingeschakeld, kunt u overschakelen op een ander domein met primaire branding. Klik **Opslaan**.
 
    ![](assets/four-6.png)
 
@@ -65,10 +57,6 @@ Soms moet u wijzigingen aanbrengen in een werkruimte. Het is gemakkelijk.
 
 >[!MORELIKETHIS]
 >
->* [Een nieuwe werkruimte maken](create-a-new-workspace.md)
->* [Werken- en personenpartities begrijpen](understanding-workspaces-and-person-partitions.md)
-
->
-
-
+>* [Een nieuwe werkruimte maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+>* [Werken- en personenpartities begrijpen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
 
