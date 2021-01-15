@@ -3,7 +3,7 @@ unique-page-id: 2360297
 description: Beperk Marketo Logins die op IP - Marketo Docs - Documentatie van het Product worden gebaseerd
 title: Beperk Marketo Logins die op IP worden gebaseerd
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -31,25 +31,21 @@ U kunt gebruikers beperken of toelaten om tot Marketo toegang te hebben die op h
 
    ![](assets/image2014-9-16-12-3a58-3a13.png)
 
-1. Kies of u **Toestaan **of **Blok** specifieke adressen wilt, ingaan het adres(sen), dan klik **sparen**.
+1. Kies of u **Allow** of **Block** specifieke adressen wilt, ga het adres(sen) in, dan klik **Save**.
 
    >[!NOTE]
    >
    >**Definitie**
    >
-   >    
-   >    
-   >    * **Toegestane IP-adressen**: Toegestane IP-adressen worden ook toegevoegd. Het zal alle IP gespecificeerde adressen omvatten en zal alles anders uitsluiten.
-   >    * **IP-adressen** blokkeren: Voorkomt dat specifieke IPs tot Marketo toegang heeft.
-   >    * **IP-beperkingen** uitschakelen: Als u dit controleert, werken er geen/alle beperkingsregels meer. Gebruik dit voor testdoeleinden.
+   >* **Toegestane IP-adressen**: Toegestane IP-adressen worden ook toegevoegd. Het zal alle IP gespecificeerde adressen omvatten en zal alles anders uitsluiten.
+   >* **IP-adressen** blokkeren: Voorkomt dat specifieke IPs tot Marketo toegang heeft.
+   >* **IP-beperkingen** uitschakelen: Als u dit controleert, werken er geen/alle beperkingsregels meer. Gebruik dit voor testdoeleinden.
 
 
    >[!NOTE]
-   >
    >
    >U kunt meerdere beperkingen toevoegen, maar deze kunnen ALLES zijn toegestaan of ALLES geblokkeerd. Je kunt niet mixen en overeenkomen met toegestaan en geblokkeerd.
 
    ![](assets/image2014-9-16-13-3a9-3a40.png)
 
    Je marketinggegevens zijn nu veiliger dan ooit!
-
