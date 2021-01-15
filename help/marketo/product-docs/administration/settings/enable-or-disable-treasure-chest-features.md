@@ -3,7 +3,7 @@ unique-page-id: 2360307
 description: Functies voor schatkistcontrole in- of uitschakelen - Marketo Docs - Productdocumentatie
 title: Functies voor schatkist in- of uitschakelen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -19,7 +19,7 @@ De Treasure Chest bevat leuke experimentele functies die niet volledig worden on
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik onder **Admin **click **Treasure Chest**.
+1. Klik onder **Admin** op **Schaaltest**.
 
    ![](assets/image2014-9-16-17-3a0-3a36.png)
 
@@ -33,6 +33,4 @@ De Treasure Chest bevat leuke experimentele functies die niet volledig worden on
 
    >[!TIP]
    >
-   >
    >Mogelijk moet u zich afmelden bij Marketo om te zien dat de wijzigingen van kracht worden.
-
