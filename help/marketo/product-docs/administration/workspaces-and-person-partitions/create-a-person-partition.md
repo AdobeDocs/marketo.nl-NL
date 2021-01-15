@@ -3,9 +3,9 @@ unique-page-id: 2360315
 description: Een personenpartitie maken - Marketo Docs - Productdocumentatie
 title: Een personenpartitie maken
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,13 @@ Creeer een nieuwe persoonverdeling na deze stappen.
 
 >[!NOTE]
 >
->**Diep duiken**
->
->Begrijp eerst met [het Begrijpen van Werkruimten en Partities van de Persoon](understanding-workspaces-and-person-partitions.md).
+>Begrijp eerst met [het Begrijpen van Werkruimten en Partities van de Persoon](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!CAUTION]
 >
->Personpartities kunnen complex zijn. Neem contact op met [Marketo-ondersteuning](http://support.marketo.com/) voor hulp bij het instellen van deze bestanden.
+>Personpartities kunnen complex zijn. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) voor hulp bij het instellen van deze bestanden.
 
-1. Selecteer Werkruimten en partities onder Beheer.
+1. Selecteer **Werkruimten en partities** onder Beheer.
 
 ![](assets/image2014-9-17-11-3a32-3a12.png)
 
@@ -37,7 +35,7 @@ Creeer een nieuwe persoonverdeling na deze stappen.
 
    ![](assets/two-2.png)
 
-1. Geef uw partitie een naam, kies **Werkruimte(n)** waar deze wordt weergegeven en klik op **Maken.**
+1. Geef de partitie een naam, kies de **Werkruimte(n)** waar deze wordt weergegeven en klik op **Maken**.
 
    ![](assets/three-2.png)
 
@@ -46,4 +44,3 @@ Creeer een nieuwe persoonverdeling na deze stappen.
    ![](assets/four-2.png)
 
    Daar heb je het! U weet nu hoe u een personenpartitie kunt maken.
-
