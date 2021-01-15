@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Beschrijvingen van Rolmachtigingen - Marketo Docs - Productdocumentatie
 title: Beschrijvingen van rolmachtigingen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '1154'
+source-wordcount: '1144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Aanvullende informatie over machtigingen:
 
 ## Beschikbare machtigingen {#available-permissions}
 
-Wanneer u [een rol creeert of uitgeeft ](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), kunt u selecteren welke van de volgende toestemmingen om voor die rol toe te staan door de aangewezen vakjes te controleren.
+Wanneer u [een rol creeert of uitgeeft ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), kunt u selecteren welke van de volgende toestemmingen om voor die rol toe te staan door de aangewezen vakjes te controleren.
 
 ![](assets/createnewrole.png)
 
@@ -35,7 +35,7 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 * Toegang tot kanalen - Gebruikers hebben alleen toegang om de Kanaaltag te wijzigen, niet andere aangepaste tags
 * Toegang tot communicatielimiet - geeft gebruikers toegang om een communicatielimiet in Admin in te schakelen
 * Toegang CRM - geeft gebruikers toegang tot CRM, zoals Salesforce of de Dynamica van Microsoft, in Admin
-* Toegang [Data.com](http://Data.com) - Biedt gebruikers toegang tot de Data.com-stroomactie
+* Toegang [Data.com](https://Data.com) - Biedt gebruikers toegang tot de Data.com-stroomactie
 * Toegang tot e-mailbeheerder - Gebruikers krijgen toegang tot e-mailbeheerder om de standaardinstellingen te wijzigen, zoals het afmelden en brandmerken van domeinen
 * Access Event Partners - Biedt gebruikers toegang tot LaunchPoint in Admin
 * Toegangsveldbeheer - geeft gebruikers toegang tot veldbeheer in Admin
@@ -105,14 +105,12 @@ Biedt gebruikers toegang tot de presentaties van de Kalender ?? - de vertoning v
 Biedt gebruikers toegang tot het lusje van de Studio van het Ontwerp en mening van de boom, maar niet tot details.
 
 * Toegang tot e-mail
-
    * E-mail bewerken - Hiermee geeft u gebruikers toestemming om e-mailberichten te bewerken, te maken en te klonen
+      * E-mail operationeel maken - Hiermee geeft u gebruikers toestemming om een e-mail operationeel te maken. Zie: [Een e-mail operationeel maken](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
-      * E-mail operationeel maken - Hiermee geeft u gebruikers toestemming om een e-mail operationeel te maken. Zie: [Een e-mail operationeel maken](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
-   * E-mail goedkeuren - Hiermee kunnen gebruikers e-mailberichten goedkeuren.
-   * E-mail verwijderen - Hiermee kunnen gebruikers e-mailberichten verwijderen.
-   * Stel het brandingdomein in. Hiermee kunnen gebruikers met brandingdomeinen werken. Zie: [Meerdere brandingdomeinen toevoegen](http://docs.marketo.com/display/docs/add+multiple+branding+domains)
-
+      * E-mail goedkeuren - Hiermee kunnen gebruikers e-mailberichten goedkeuren.
+      * E-mail verwijderen - Hiermee kunnen gebruikers e-mailberichten verwijderen.
+      * Stel het brandingdomein in. Hiermee kunnen gebruikers met brandingdomeinen werken. Zie: [Voeg een extra brandingdomein toe](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Toegang tot e-mailsjabloon
 
@@ -220,5 +218,3 @@ Werkruimtebeheer
 
 * Beheerderstoegang voor een specifieke werkruimte (alleen als Workspaces is ingeschakeld)
 * Elementen verplaatsen tussen werkruimten (alleen als Werkruimten is ingeschakeld)
-
-Toegang tot mobiele toepassing
