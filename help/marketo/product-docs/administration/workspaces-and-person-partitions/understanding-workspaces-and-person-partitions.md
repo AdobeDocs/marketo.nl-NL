@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Werken- en personenpartities begrijpen - Marketo Docs - Productdocumentatie
 title: Werken- en personenpartities begrijpen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Werkruimten kunnen complex zijn om in te stellen.  Neem contact op met [Marketo-ondersteuning](http://support.marketo.com/) om te weten te komen of ze bij u passen.
+>Werkruimten kunnen complex zijn om in te stellen. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) om te weten te komen of ze bij u passen.
 
 De werkruimten zijn afzonderlijke gebieden in Marketo die marketingmiddelen zoals programma&#39;s, landingspagina&#39;s, e-mails en meer bevatten. Ze kunnen door meerdere mensen worden gebruikt. Elke gebruiker heeft toegang tot een of meer werkruimten.
 
@@ -36,9 +36,7 @@ In elk geval is de scheiding omdat de marketingactiva totaal verschillend zijn. 
 
 >[!NOTE]
 >
->**Diep duiken**
->
->Leer hoe u [een nieuwe werkruimte maakt](create-a-new-workspace.md).
+>Leer hoe u [een nieuwe werkruimte maakt](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Delen over werkruimten {#sharing-across-workspaces}
 
@@ -78,8 +76,8 @@ U kunt deze items delen in verschillende werkruimten.
 * Sjablonen voor bestemmingspagina
 * Modellen
 * Slimme campagnes
-* [Slimme lijsten](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
-* [Segmentaties](share-segmentations-across-workspaces-and-partitions.md)
+* [Slimme lijsten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
+* [Segmentaties](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * Fragmenten
 
 ## Klonen over werkruimten {#cloning-across-workspaces}
@@ -105,7 +103,7 @@ Als u elementen naar een nieuwe werkruimte wilt verplaatsen, plaatst u ze in een
 
 ## Personpartities {#person-partitions}
 
-Personverdelingen fungeren als aparte databases. Elke verdeling heeft zijn eigen mensen die niet ontdupe of mengen met andere verdelingen. Neem contact op met [Marketo-ondersteuning](http://support.marketo.com) als u van mening bent dat u een bedrijfscase hebt waarvoor dubbele records met hetzelfde e-mailadres nodig kunnen zijn.
+Personverdelingen fungeren als aparte databases. Elke verdeling heeft zijn eigen mensen die niet ontdupe of mengen met andere verdelingen. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) als u van mening bent dat u een bedrijfscase hebt waarvoor dubbele records met hetzelfde e-mailadres nodig kunnen zijn.
 
 U kunt persoonlijke verdelingen toewijzen aan [werkruimten](create-a-new-workspace.md) in de volgende configuraties:
 
@@ -115,15 +113,10 @@ U kunt persoonlijke verdelingen toewijzen aan [werkruimten](create-a-new-workspa
 
 >[!NOTE]
 >
->**Voorbeeld**
->
 >Redenen waarop u een partitie voor personen wilt gebruiken:
 >
 >* Uw werkruimten hebben niet alleen verschillende middelen, maar delen ook geen personen
 >* U wilt duplicaten om andere zakelijke redenen
-
->
-
 
 
 >[!CAUTION]
@@ -132,7 +125,4 @@ U kunt persoonlijke verdelingen toewijzen aan [werkruimten](create-a-new-workspa
 
 >[!NOTE]
 >
->**Diep duiken**
->
-> Leer hoe te om [een persoonverdeling te creëren](create-a-person-partition.md).
-
+>Leer hoe te om [een persoonverdeling te creëren](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
