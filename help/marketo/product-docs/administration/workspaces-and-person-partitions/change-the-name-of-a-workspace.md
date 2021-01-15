@@ -3,9 +3,9 @@ unique-page-id: 2360321
 description: De naam van een werkruimte wijzigen - Marketo Docs - Productdocumentatie
 title: De naam van een werkruimte wijzigen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Een nieuwe werkruimte maken](create-a-new-workspace.md)
+>[Een nieuwe werkruimte maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
 Gebruikers kunnen de naam van een werkruimte wijzigen. Het is vrij eenvoudig.
 
 >[!NOTE]
 >
->**Diep duiken**
->
->Begrijp eerst met [het Begrijpen van Werkruimten en Partities van de Persoon](understanding-workspaces-and-person-partitions.md).
+>Begrijp eerst met [het Begrijpen van Werkruimten en Partities van de Persoon](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Klik onder **Admin** op **Werkruimten en partities.**
 
@@ -44,4 +42,3 @@ Gebruikers kunnen de naam van een werkruimte wijzigen. Het is vrij eenvoudig.
 1. Nadat u het bestand hebt opgeslagen, ziet u de wijzigingen.
 
    ![](assets/image2014-9-17-11-3a9-3a9.png)
-
