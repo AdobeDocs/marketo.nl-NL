@@ -3,7 +3,7 @@ unique-page-id: 2359906
 description: Marketo-gebruikers beheren - Marketo Docs - Productdocumentatie
 title: Marketo-gebruikers beheren
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -23,11 +23,9 @@ ht-degree: 0%
 
    ![](assets/image2014-9-9-11-3a35-3a15.png)
 
-1. Voer het **e-mailadres**, **Voornaam** en **Achternaam in. **
+1. Voer het **e-mailadres**, **Voornaam** en **Achternaam** in.
 
-   ** ![](assets/image2016-5-24-9-3a45-3a30.png)
-
-   **
+   ![](assets/image2016-5-24-9-3a45-3a30.png)
 
 1. Naar keuze, ga een reden voor de uitnodiging in en selecteer een vervaldatum in **Toegang verloopt** gebied gebruikend de datumkiezer.
 
@@ -45,7 +43,7 @@ ht-degree: 0%
    >
    >Wanneer de vervaldatum aankomt, ontvangt de gebruiker een vervalmelding en is zijn account vergrendeld.
 
-1. Selecteer de **Rol **van uw keus en klik **Volgende**.
+1. Selecteer **Rol** van uw keus en klik **Volgende**.
 
    ![](assets/image2016-5-24-10-3a1-3a33.png)
 
@@ -67,29 +65,29 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
 ## Gebruikers {#delete-users} verwijderen
 
-1. Ga naar Beheer en klik op Gebruikers en rollen.
+1. Ga naar Admin en klik **Gebruikers &amp; Rollen**.
 
    ![](assets/image2014-9-9-11-3a36-3a21.png)
 
-1. Selecteer de gebruiker die u wilt verwijderen en klik op Gebruiker verwijderen.
+1. Selecteer de gebruiker die u wilt verwijderen en klik **Gebruiker verwijderen**.
 
    ![](assets/image2014-9-9-11-3a36-3a36.png)
 
-1. Bevestig door op OK te klikken.
+1. Bevestig door op **OK** te klikken.
 
    ![](assets/image2014-9-9-11-3a36-3a51.png)
 
 ## Gebruikerswachtwoorden {#reset-user-passwords} opnieuw instellen
 
-1. Ga naar Beheer en klik op Gebruikers en rollen.
+1. Ga naar Admin en klik **Gebruikers &amp; Rollen**.
 
    ![](assets/image2014-9-9-11-3a41-3a0.png)
 
-1. Selecteer een gebruiker en klik op Wachtwoord opnieuw instellen.
+1. Selecteer een gebruiker en klik **Wachtwoord opnieuw instellen**.
 
    ![](assets/image2014-9-9-11-3a41-3a19.png)
 
-1. Klik op Sluiten om de vraag te sluiten.
+1. Klik **Close** om de herinnering te sluiten.
 
    ![](assets/image2014-9-9-11-3a41-3a50.png)
 
