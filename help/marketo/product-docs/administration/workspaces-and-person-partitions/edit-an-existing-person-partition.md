@@ -3,7 +3,7 @@ unique-page-id: 2360323
 description: Een bestaande personenpartitie bewerken - Marketo Docs - Productdocumentatie
 title: Een bestaande personenpartitie bewerken
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -21,11 +21,7 @@ Een persoonsverdeling is als het hebben van een tweede (of derde) gegevensbestan
 
 >[!PREREQUISITES]
 >
->* [Een personenpartitie maken](create-a-person-partition.md)
-
->
-
-
+>[Een personenpartitie maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 1. Klik onder **Admin** op **Werkruimten en partities**.
 
@@ -35,7 +31,7 @@ Een persoonsverdeling is als het hebben van een tweede (of derde) gegevensbestan
 
    ![](assets/two-5.png)
 
-1. Voer de Person Partition **Name**, de **Workspaces **they behoren tot in, en klik **Save**.
+1. Voer de Person Partition **Name**, de **Workspaces** tot behoren, in en klik **Save**.
 
    ![](assets/three-5.png)
 
@@ -43,9 +39,8 @@ Een persoonsverdeling is als het hebben van een tweede (of derde) gegevensbestan
 
    ![](assets/four-4.png)
 
-   Dat is het. Het lijkt erop dat zo&#39;n krachtige functie complex zou moeten zijn, maar dat is het niet.
+Dat is het. Het lijkt erop dat zo&#39;n krachtige functie complex zou moeten zijn, maar dat is het niet.
 
-   >[!CAUTION]
-   >
-   >Meet tweemaal en knip één keer. U wilt geen verdeling aan de verkeerde werkruimte toewijzen.
-
+>[!CAUTION]
+>
+>Meet tweemaal en knip één keer. U wilt geen verdeling aan de verkeerde werkruimte toewijzen.
