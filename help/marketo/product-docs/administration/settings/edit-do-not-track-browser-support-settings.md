@@ -3,9 +3,9 @@ unique-page-id: 6095047
 description: Browserondersteuningsinstellingen niet bijhouden bewerken - Marketo Docs - Productdocumentatie
 title: Browserondersteuningsinstellingen "Niet bijhouden" bewerken
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >&quot;Niet bijhouden&quot; wordt standaard ingesteld op Negeren, dus als u dat wilt, hoeft u geen stappen te ondernemen.
 
-1. Klik op** Beheerder*.
+1. Klik **Admin**.
 
    ![](assets/one.png)
 
@@ -36,7 +36,8 @@ ht-degree: 0%
    ![](assets/three-2.png)
 
 1. Selecteer **Ondersteuning** en klik op **Opslaan**.
-1. ![](assets/four-1.png)
+
+   ![](assets/four-1.png)
 
    Nadat u de wijzigingen hebt opgeslagen, wordt de update weergegeven.
 
@@ -49,4 +50,3 @@ ht-degree: 0%
    >[!TIP]
    >
    >Als u meer wilt weten over &quot;Niet bijhouden&quot; en hoe het werkt, gaat u naar [deze pagina](https://en.wikipedia.org/wiki/Do_Not_Track).
-
