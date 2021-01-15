@@ -3,9 +3,9 @@ unique-page-id: 2360198
 description: Een gebruikersrol maken, verwijderen, bewerken en wijzigen - Marketo Docs - Productdocumentatie
 title: Een gebruikersrol maken, verwijderen, bewerken en wijzigen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Een rol maken {#create-a-role}
 
-1. Ga naar **Admin **en klik **Gebruikers &amp; Rollen**.
+1. Ga naar **Admin** en klik **Gebruikers &amp; rollen**.
 
    ![](assets/image2014-9-16-13-3a29-3a48.png)
 
-1. Ga naar het** tabblad Rollen** en klik op **Nieuwe rol**.
+1. Ga naar **Tabblad Rollen** en klik **Nieuwe rol**.
 
    ![](assets/image2014-9-16-13-3a30-3a0.png)
 
@@ -35,11 +35,11 @@ ht-degree: 0%
 
 ## Een rol verwijderen {#delete-a-role}
 
-1. Onder Admin,** **klik **Gebruikers &amp; Rollen**.
+1. Klik onder **Admin** op **Gebruikers &amp; rollen**.
 
    ![](assets/image2014-9-16-13-3a31-3a42.png)
 
-1. Selecteer onder het tabblad **Rollen **een rol en klik op **Rol verwijderen**.
+1. Selecteer onder het tabblad **Rollen** een rol en klik op **Rol verwijderen**.
 
    ![](assets/image2014-9-16-13-3a31-3a56.png)
 
@@ -61,11 +61,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-16-13-3a34-3a2.png)
 
-1. Klik op het tabblad **Rollen **tab.
+1. Klik op het tabblad **Rollen**.
 
    ![](assets/image2014-9-16-13-3a34-3a22.png)
 
-1. Selecteer de rol die u wilt bewerken en klik op** Rol bewerken**.
+1. Selecteer de rol die u wilt bewerken en klik op **Rol bewerken**.
 
    ![](assets/image2014-9-16-13-3a34-3a37.png)
 
@@ -79,7 +79,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Wilt u het e-mailadres van uw account bijwerken? [Leer hier](http://docs.marketo.com/x/3wFI) hoe.
+   >Wilt u het e-mailadres van uw account bijwerken? [Leer hier](/help/marketo/product-docs/administration/settings/edit-account-settings.md) hoe.
 
 ## De rol van een gebruiker wijzigen {#change-a-users-role}
 
@@ -98,5 +98,3 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Als u veelvoudige rollen geselecteerd verlaat, zal Marketo aan de meest beperkende toestemming in gebreke blijven.
-
-Geweldig, nu ben je echt op de rol!  (Ophalen?)
