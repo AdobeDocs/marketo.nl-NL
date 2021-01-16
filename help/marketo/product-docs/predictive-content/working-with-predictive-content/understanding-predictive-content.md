@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: Predictieve inhoud begrijpen - Marketo Docs - Productdocumentatie
 title: Voorspelende inhoud
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
-Nadat u [een titel voor vooruitlopende inhoud ](//help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goedkeurt, werkt u hier aan het. Op de pagina Voorspelende inhoud worden alle titels weergegeven die u hebt goedgekeurd voor voorspellende inhoud.
+Nadat u [een titel voor vooruitlopende inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goedkeurt, werkt u hier aan het. Op de pagina Voorspelende inhoud worden alle titels weergegeven die u hebt goedgekeurd voor voorspellende inhoud.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
