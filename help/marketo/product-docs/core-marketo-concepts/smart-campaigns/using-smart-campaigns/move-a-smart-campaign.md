@@ -3,7 +3,7 @@ unique-page-id: 6094949
 description: Een slimme campagne verplaatsen - Marketo Docs - Productdocumentatie
 title: Een slimme campagne verplaatsen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -54,4 +54,3 @@ U kunt slimme campagnes ook verplaatsen met de functie Verplaatsen in de boomstr
    Hoogste vijf! Deze slimme campagne is verplaatst.
 
    ![](assets/image2015-2-25-13-39-51-copy-281-29.png)
-
