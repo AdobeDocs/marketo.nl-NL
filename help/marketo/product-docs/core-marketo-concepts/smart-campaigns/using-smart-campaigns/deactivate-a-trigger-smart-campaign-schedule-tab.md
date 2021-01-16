@@ -3,7 +3,7 @@ unique-page-id: 1146991
 description: Een slimme campagne activeren uitschakelen | Tabblad Planning - Marketo Docs - Productdocumentatie
 title: Een slimme campagne activeren uitschakelen | Tabblad Planning
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -19,15 +19,14 @@ Voer de volgende stappen uit als u een oude triggercampagne hebt die u moet deac
 
    ![](assets/selectprogram-hands.png)
 
-1. Klik op Deactiveren op het tabblad Planning.
+1. Klik op **Deactiveren** op het tabblad Schema.
 
    ![](assets/deactivateprogram-hands.png)
 
-1. Bevestig door op Deactiveren te klikken.
+1. Bevestig door te klikken op **Deactiveren**.
 
    ![](assets/image2014-9-22-13-3a59-3a6.png)
 
 >[!NOTE]
 >
 >Dit zal *new* mensen van het ingaan van de stroom tegenhouden, maar de mensen in wachtende stappen of een andere stroomstap zullen zich door de stroom blijven bewegen tot gedaan.
-
