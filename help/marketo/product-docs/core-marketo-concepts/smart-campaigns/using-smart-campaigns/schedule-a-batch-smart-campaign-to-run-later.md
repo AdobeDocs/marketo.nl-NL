@@ -3,9 +3,9 @@ unique-page-id: 1146970
 description: Plan een slimme campagne van de Partij om later - Marketo Docs - de Documentatie van het Product in werking te stellen
 title: Een slimme batchcampagne plannen om later uit te voeren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Als je een &#39;batch smart&#39; campagne wilt instellen om op een bepaald momen
 
 >[!TIP]
 >
->U kunt een batch smart campagne in de mening van het programmaprogramma [ook opnieuw plannen.](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)
+>U kunt een batch smart campagne in de mening van het programmaprogramma [ook opnieuw plannen.](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/reschedule-a-batch-smart-campaign-in-the-program-schedule-view.md)
 
 1. Selecteer de batch smart campagne u wilt in werking stellen, naar **Schema** tabel gaan, en **Looppas Eenmaal** klikken.
 
@@ -41,10 +41,4 @@ Als je een &#39;batch smart&#39; campagne wilt instellen om op een bepaald momen
 
    >[!NOTE]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Een terugkerende batchcampagne plannen](schedule-a-recurring-batch-campaign.md)
-
-
+   >[Een terugkerende batchcampagne plannen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
