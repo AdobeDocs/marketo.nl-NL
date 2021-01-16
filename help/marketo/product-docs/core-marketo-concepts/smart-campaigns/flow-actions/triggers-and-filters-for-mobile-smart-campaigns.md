@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: Triggers en filters voor mobiele slimme campagnes - Marketo Docs - Productdocumentatie
 title: Triggers en filters voor mobiele slimme campagnes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -103,7 +103,7 @@ Mobiele app is/is geopend
 
 Heeft/heeft mobiele toepassingsactiviteiten
 
-Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U dient met uw ontwikkelaar te werken aan het bijhouden van [voor Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android) en [voor iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U dient met uw ontwikkelaar te werken aan het bijhouden van [voor Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) en [voor iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
 * Heeft mobiele toepassingsactiviteit - trigger
 
@@ -132,12 +132,14 @@ Met de actievereisten kunt u de trigger en filters gebruiken om mobiele activite
 >Onder het handelingstype van *Shopping*, is hier een zeer specifieke actie, met de andere beperkingen die het bepalen:
 >
 >* Een shirt kopen
->  * Het was rood
->  * Dat kost $30
->  * Het kostte 20 seconden om te kopen
+   >   * Het was rood
+   >   * Dat kost $30
+   >   * Het kostte 20 seconden om te kopen
 
 
-Zo ziet het filter eruit in Marketo:   ![](assets/image2015-8-17-13-3a16-3a12.png)
+Zo ziet het filter eruit in Marketo:
+
+![](assets/image2015-8-17-13-3a16-3a12.png)
 
 >[!NOTE]
 >
@@ -192,6 +194,6 @@ Taps/Tapping Push Notification
 
 >[!MORELIKETHIS]
 >
->* [Een restrictie toevoegen aan een slim lijstfilter](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
->* [Inactiviteitsfilters gebruiken in een slimme lijst](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
+>* [Een restrictie toevoegen aan een slim lijstfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
+>* [Inactiviteitsfilters gebruiken in een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
 
