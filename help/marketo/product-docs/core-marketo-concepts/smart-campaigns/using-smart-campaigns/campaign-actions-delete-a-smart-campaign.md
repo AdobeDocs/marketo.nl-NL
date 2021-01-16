@@ -3,9 +3,9 @@ unique-page-id: 1147055
 description: Campagne Handelingen - Schrap een Slimme Campagne - Marketo Docs - de Documentatie van het Product
 title: Campagnehandelingen - Een slimme campagne verwijderen
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Als je een oude slimme campagne hebt die je niet meer nodig hebt, kun je deze ve
 
    >[!TIP]
    >
-   >Als u de verwerking van een actieve slimme campagne wilt annuleren zonder deze helemaal te verwijderen, leert u hoe u een slimme campagne [kunt afbreken.](abort-a-smart-campaign.md)
+   >Als u de verwerking van een actieve slimme campagne wilt annuleren zonder deze helemaal te verwijderen, leert u hoe u een slimme campagne [kunt afbreken.](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
 
    ![](assets/image2014-9-22-16-3a41-3a55.png)
 
@@ -38,5 +38,3 @@ Als je een oude slimme campagne hebt die je niet meer nodig hebt, kun je deze ve
    >[!CAUTION]
    >
    >Verwijder **NOT** een actieve slimme campagne met mensen in de flowstappen. De campagne wordt waarschijnlijk nog steeds uitgevoerd.
-
-Mooi!
