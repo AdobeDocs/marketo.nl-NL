@@ -3,7 +3,7 @@ unique-page-id: 1147082
 description: Persoon verwijderen - Marketo Docs - Productdocumentatie
 title: Persoon verwijderen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -38,4 +38,3 @@ U kunt van Marketo en niet van uw CRM schrappen, als zo:
 >[!NOTE]
 >
 >Het verwijderen van de persoon uit uw CRM **werkt slechts met Salesforce**. Als u een persoon van Marketo schrapt en verkiest om hen in Salesforce te houden, zullen zij in Marketo worden ontspannen als hun verslag van Salesforce ooit wordt bijgewerkt.
-
