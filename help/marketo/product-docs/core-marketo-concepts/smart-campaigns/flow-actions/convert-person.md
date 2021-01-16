@@ -3,7 +3,7 @@ unique-page-id: 1147019
 description: Persoon omzetten - Marketo Docs - Productdocumentatie
 title: Persoon omzetten
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -41,5 +41,4 @@ Gebruik deze stroomstap om een persoon om te zetten in een contact in Salesforce
 
    ![](assets/four-3.png)
 
-   En daar ga je!
-
+En daar ga je!
