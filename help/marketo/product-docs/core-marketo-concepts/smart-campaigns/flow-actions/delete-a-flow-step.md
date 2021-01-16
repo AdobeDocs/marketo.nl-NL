@@ -3,9 +3,9 @@ unique-page-id: 1146987
 description: Een stap voor de stroom verwijderen - Marketo Docs - Productdocumentatie
 title: Een stroomstap verwijderen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Het verwijderen van stroomstappen, *vooral wachtstappen* van actieve slimme campagnes, kan onverwachte resultaten hebben. **Lees dit artikel zorgvuldig door.**
+>Het verwijderen van stroomstappen, _vooral wachtstappen_ van actieve slimme campagnes, kan onverwachte resultaten hebben. **Lees dit artikel zorgvuldig door.**
 
 Laten we eerst de basisbeginselen doen. Hier is hoe te om een ongewenste stroomstap uit een slimme campagne te verwijderen. 1. Klik in de slimme-campagnestroom op het X-pictogram om een flowstap te verwijderen.
 
@@ -40,7 +40,7 @@ Laten we eerst de basisbeginselen doen. Hier is hoe te om een ongewenste strooms
    1. **Nooit rennen.** Breng alle gewenste wijzigingen aan. Het zal niemand beïnvloeden tot je die campagne voert.
    1. **Dit is een terugkerende slimme campagne.** De wijzigingen zijn van invloed op mensen in de toekomst, niet op vorige versies.
    1. **Reeds gestart ZONDER stappen te wachten.** Er zullen geen mensen worden beïnvloed omdat de campagne na de uitvoering slapend is.
-   1. **Wordt nu uitgevoerd.** Wijzigingen kunnen onverwacht gedrag veroorzaken, afhankelijk van de timing en de details van de verwijdering. We raden u sterk aan GEEN batchcampagne te bewerken die actief wordt uitgevoerd. Leer voor noodgevallen hoe u een actieve slimme campagne [ kunt afbreken.](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)
+   1. **Wordt nu uitgevoerd.** Wijzigingen kunnen onverwacht gedrag veroorzaken, afhankelijk van de timing en de details van de verwijdering. We raden u sterk aan GEEN batchcampagne te bewerken die actief wordt uitgevoerd. Leer voor noodgevallen hoe u een actieve slimme campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) kunt afbreken.[
 
    1. **Reeds gestart MET wachtstappen.** Hierover zijn verschillende details te vinden.\
       Wanneer een persoon een wachttijdstap ingaat, sluit de persoon zich aan bij de duur en welke STEP van het GETAL om aan terug te keren. Zie het onderstaande voorbeeld.
@@ -54,13 +54,10 @@ Laten we eerst de basisbeginselen doen. Hier is hoe te om een ongewenste strooms
    >
    >**Voorbeeld**
    >
-   >    
-   >    
    >1. Een slimme campagne bestaat uit drie stappen.
-   >
-   >   * STAP 1. E-mailadres 1 verzenden
-   >   * STAP 2. Wacht 1 week
-   >   * STAP 3. E-mailadres 2 verzenden
+      >    * STAP 1. E-mailadres 1 verzenden
+      >    * STAP 2. Wacht 1 week
+      >    * STAP 3. E-mailadres 2 verzenden
    >
    >1. Personen die **Stap 2** raken, wachten één week voordat ze verdergaan naar **Stap 3**.
    >1. U schrapt **Stap 2** tijdens de week.
@@ -71,4 +68,4 @@ Laten we eerst de basisbeginselen doen. Hier is hoe te om een ongewenste strooms
 
 Wijzigingen aanbrengen in een actieve campagne
 
-Begrijp deze functie en u zult slimme campagnes master. Wooh!
+Begrijp deze functie en u zult slimme campagnes master.
