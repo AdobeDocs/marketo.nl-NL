@@ -3,9 +3,9 @@ unique-page-id: 2953120
 description: Slimme campagnes begrijpen - Marketo Docs - Productdocumentatie
 title: Slimme campagnes
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Als Marketo een krachtige auto is, is de slimme campagne echt de motor. Het is eenvoudig om aan de slag te gaan, maar kan bijna alles doen wat je ervan vraagt.
 
-De slimme campagne heeft drie hoofdgebieden: De tabbladen [Smart List](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flow](http://docs.marketo.com/display/DOCS/Flow+Actions) en [Schedule](using-smart-campaigns/schedule-a-recurring-batch-campaign.md).
+De slimme campagne heeft drie hoofdgebieden: De tabbladen [Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md), [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) en [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md).
 
 ## Slimme lijst {#smart-list}
 
@@ -53,11 +53,8 @@ De stroom omvat de stappen u de slimme campagne wilt uitvoeren, met inbegrip van
 
 Tot slot controleert dit wanneer u uw slimme campagne in werking stelt. U kunt zelfs terugkerende opstelling zodat loopt het op een herhalend programma.
 
-<br> 
-
 Er is een enorme hoeveelheid dingen die de slimme campagne kan doen. Zorg ervoor dat je er zo aan vastzit en je zult vinden dat alles in Marketo veel eenvoudiger te begrijpen is.
 
 >[!MORELIKETHIS]
 >
->* [Nieuwe slimme campagne maken](creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
+>[Nieuwe slimme campagne maken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
