@@ -3,9 +3,9 @@ unique-page-id: 1146980
 description: Gebruik Keuze toevoegen in een stroomstap - Marketo Docs - Productdocumentatie
 title: Kies toevoegen in een stroomstap gebruiken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een stroomstap toevoegen aan een slimme campagne](add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>[Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
 **Voeg** Choicelets toe u een stroomstap gebruikt en &quot;het hangt&quot;zegt wanneer u de details kiest.
 
@@ -53,15 +49,10 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Alleen de eerste passende keuze wordt toegepast op de stap Stroom. Leer hoe te [reorder &quot;Keuze&quot;in een stroomactie ](reorder-add-choice-in-a-flow-step.md).
+   >Alleen de eerste passende keuze wordt toegepast op de stap Stroom. Leer hoe te [reorder &quot;Keuze&quot;in een stroomactie ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md).
 
-   >[!NOTE]
+   Geweldig! U kunt nu één slimme campagne maken met keuzemogelijkheden voor stap doorlopen in plaats van meerdere slimme campagnes voor elke keuze te maken.
+
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [&quot;Keuze toevoegen&quot; opnieuw ordenen in een stroomstap](reorder-add-choice-in-a-flow-step.md)
-
-
-Geweldig! U kunt nu één slimme campagne maken met keuzemogelijkheden voor stap doorlopen in plaats van meerdere slimme campagnes voor elke keuze te maken.
+   >[Opnieuw rangschikken Keuze toevoegen in een stroomstap](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md)
