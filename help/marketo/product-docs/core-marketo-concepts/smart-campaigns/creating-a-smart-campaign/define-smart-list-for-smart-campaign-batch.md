@@ -3,9 +3,9 @@ unique-page-id: 1146940
 description: Slimme lijst definiëren voor slimme campagne | Batch - Marketo Docs - Productdocumentatie
 title: Slimme lijst definiëren voor slimme campagne | Batch
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,6 @@ De slimme lijsten zijn het mechanisme door Marketo om &quot;te bepalen wie&quot;
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
    >U kunt een slimme campagne maken die op één persoon tegelijkertijd op levende gebeurtenissen wordt gebaseerd door trekkers toe te voegen, die de slimme campagne in **Trigger** wijze plaatst.
 
 1. Klik op de vervolgkeuzelijst en kies een filteroperator voor het filter dat u hebt gekozen.
@@ -48,17 +45,12 @@ De slimme lijsten zijn het mechanisme door Marketo om &quot;te bepalen wie&quot;
 
    >[!NOTE]
    >
-   >Standaard zijn personen die voldoen aan ALLE slimme-lijstregels gekwalificeerd. Deze kan worden aangepast aan uw campagnebehoeften. Bekijk [Slimme lijstregels voor complexe logica](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) voor meer informatie.
+   >Standaard zijn personen die voldoen aan ALLE slimme-lijstregels gekwalificeerd. Deze kan worden aangepast aan uw campagnebehoeften. Bekijk [Slimme lijstregels voor complexe logica](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md) voor meer informatie.
 
-   Als u live gebeurtenissen wilt activeren, leert u hoe u [Slimme lijst definiëren voor slimme campagne | Trigger](define-smart-list-for-smart-campaign-trigger.md).
+   Als u live gebeurtenissen wilt activeren, leert u hoe u [Slimme lijst definiëren voor slimme campagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Slimme lijst definiëren voor slimme campagne | Trigger](define-smart-list-for-smart-campaign-trigger.md)
-   >    * [Een stroomstap toevoegen aan een slimme campagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
+   >* [Slimme lijst definiëren voor slimme campagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+   >* [Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
