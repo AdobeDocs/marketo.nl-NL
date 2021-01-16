@@ -3,9 +3,9 @@ unique-page-id: 1146958
 description: Waarschuwing verzenden - Marketo Docs - Productdocumentatie
 title: Waarschuwing verzenden
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ Marketo kan een e-mailwaarschuwing met persoonlijke gegevens naar iedereen sture
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
    >Uw e-mailwaarschuwing moet alle koptekstgegevens bevatten en de status **Goedgekeurd** hebben.
 
 1. U kunt op het voorvertoningspictogram klikken om te controleren of u het juiste e-mailadres hebt geselecteerd.
@@ -36,8 +34,6 @@ Marketo kan een e-mailwaarschuwing met persoonlijke gegevens naar iedereen sture
    ![](assets/three-1.png)
 
    >[!NOTE]
-   >
-   >**Herinnering**
    >
    >Zorg ervoor dat u de token **Waarschuwingsgegevens verzenden** in uw e-mail gebruikt.
 
@@ -57,5 +53,4 @@ Dat is het! Nu weet u hoe te om **Send Alert** stroomstap te gebruiken.
 
 >[!MORELIKETHIS]
 >
->[Een e-mail maken](../../../../product-docs/email-marketing/general/creating-an-email/create-an-email.md)
-
+>[Een e-mail maken](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
