@@ -3,9 +3,9 @@ unique-page-id: 1146956
 description: Interessant moment - Marketo Docs - Productdocumentatie
 title: Interessant moment
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ## Overzicht {#overview}
 
-Als u [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-insight.php) hebt, kunt u de **Interessant Moment** stap gebruiken om uw verkoopteam zichtbaarheid te geven in de coole dingen die uw mensen doen.
+Als u het Inzicht van de Verkoop van de Marketo hebt, kunt u **Interessant Moment** debietstap gebruiken om uw verkoopteam zicht in de koele dingen te geven uw mensen doen.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
@@ -33,16 +33,10 @@ Als u [Marketo Sales Insight](http://docs.marketo.com/display/docs/assets/sales-
    >
    >**Minder is meer**. Werk samen met uw verkoopteam om ervoor te zorgen dat interessante momenten eigenlijk interessant zijn.
 
-   [tokens in interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+U kunt [tokens in interessante momenten ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) ook gebruiken om werkelijk nuttige dynamische beschrijvingen te maken.
 
-   >[!NOTE]
-   >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Interesserende momenten gebruiken](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
-   >    * [Tokens voor interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>[!MORELIKETHIS]
+>
+>* [Interesserende momenten gebruiken](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
+>* [Tokens voor interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
 
-
-U kunt ook echt nuttige dynamische beschrijvingen maken.
