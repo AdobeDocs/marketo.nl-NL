@@ -3,7 +3,7 @@ unique-page-id: 1147080
 description: Opbrengstfase wijzigen - Marketo Docs - Productdocumentatie
 title: Opbrengstfase wijzigen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -32,4 +32,3 @@ Als u de Modellen van de Cyclus van de Opbrengst gebruikt en een goedgekeurd mod
    >[!CAUTION]
    >
    >Het gegevenspakhuis besteedt bijzondere aandacht aan wanneer de wegen tussen stadia bewegen. Dit kan tot slechte gegevens leiden als verkeerd gebruikt.
-
