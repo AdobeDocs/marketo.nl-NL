@@ -3,9 +3,9 @@ unique-page-id: 1146942
 description: Slimme lijst definiëren voor slimme campagne | Trigger - Marketo Docs - Productdocumentatie
 title: Slimme lijst definiëren voor slimme campagne | Trigger
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd die op levende gebeurtenissen wordt gebaseerd door trekkers toe te voegen.
 
-1. In uw slimme campagne, klik de **Slimme Lijst **tabel.
+1. In uw slimme campagne, klik **Slimme Lijst** tabel.
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
@@ -47,16 +47,8 @@ Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd di
    >
    >Met veelvoudige trekkers, gaat een persoon door de stroom als **ANY** één van de trekkers wordt geactiveerd.
 
-   [Slimme lijst definiëren voor slimme campagne | Batch](define-smart-list-for-smart-campaign-batch.md)
+Als u de campagne op een set mensen tegelijk wilt uitvoeren, leert u hoe u [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
-   >[!NOTE]
-   >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Slimme lijst definiëren voor slimme campagne | Batch](define-smart-list-for-smart-campaign-batch.md)
-   >    * [Een stroomstap toevoegen aan een slimme campagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
-
-Leer hoe u de campagne op een aantal mensen tegelijk kunt uitvoeren.
+>[!MORELIKETHIS]
+>
+>[Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
