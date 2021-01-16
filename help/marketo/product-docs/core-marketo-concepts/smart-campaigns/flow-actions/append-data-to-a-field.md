@@ -3,7 +3,7 @@ unique-page-id: 1147042
 description: Gegevens toevoegen aan een veld - Marketo Docs - Productdocumentatie
 title: Gegevens toevoegen aan een veld
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Er is een eenvoudige manier om gegevens aan een veld toe te voegen. Zo gaat het.
 
 >[!PREREQUISITES]
 >
->* [Een campagne maken](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-
->
-
-
+>[Een campagne maken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 
 1. Onder **Flow** tabel sleept u in de **Gegevenswaarde wijzigen** stap Stroom.
 
@@ -39,5 +35,4 @@ Er is een eenvoudige manier om gegevens aan een veld toe te voegen. Zo gaat het.
 
    ![](assets/image2014-9-22-16-3a5-3a12.png)
 
-   Dat is het! U kunt creatieve projecten maken en daar meerdere tokens aan toevoegen.
-
+Dat is het! U kunt creatieve projecten maken en daar meerdere tokens aan toevoegen.
