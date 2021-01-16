@@ -3,7 +3,7 @@ unique-page-id: 1146962
 description: Score wijzigen - Marketo Docs - Productdocumentatie
 title: Score wijzigen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Het noteren van mensen is gemakkelijk en krachtig om uw verkoopteam te helpen vo
 
    >[!TIP]
    >
-   >U kunt meerdere scorevelden maken. Zie [Een aangepast veld maken in Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md) voor meer informatie.
+   >U kunt meerdere scorevelden maken. Zie [Een aangepast veld maken in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) voor meer informatie.
 
 1. Voer de gewenste score in.
 
@@ -39,6 +39,4 @@ Het noteren van mensen is gemakkelijk en krachtig om uw verkoopteam te helpen vo
    * **-5** wordt verlaagd (negatieve getallen zijn toegestaan)
    * **=5** maakt de score precies dat aantal
    * **=-5** maakt de score exact een negatief getal
-
    U kunt snel basisscoring instellen en de resultaten na verloop van tijd aanpassen. Dat is wat we deden!
-
