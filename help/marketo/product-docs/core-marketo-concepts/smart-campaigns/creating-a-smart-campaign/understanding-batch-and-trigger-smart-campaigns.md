@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Slimme campagnes in batch en trigger - Marketo Docs - Productdocumentatie
 title: Slimme campagnes in batch en trigger
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,7 @@ Als u op het tabblad **Schema** klikt, wordt bevestigd dat de slimme campagne is
 **Slimme batch-campagnes**
 
 * Kan worden gepland voor terugkerende acties, zoals dagelijks, wekelijks, en maandelijks. Je kunt ze ook één keer laten draaien.
-* Deze zijn zichtbaar op de [programmaweergave van het programma](../../../../product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md).\
-   *Opmerking: alles na een stap &quot;Wacht&quot; in de slimme campagne wordt niet in de weergave opgenomen.
+* Deze zijn zichtbaar op de [programmaweergave van het programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md). Alles na een stap &quot;Wacht&quot; in de slimme campagne wordt niet in de weergave opgenomen.
 
 <br> 
 
@@ -60,11 +59,6 @@ Als u op het tabblad **Schema** klikt, wordt bevestigd dat de slimme campagne is
 * Kan niet worden gepland voor herhalingen. Deze kunnen alleen op actief of inactief worden ingesteld.
 * U kunt meerdere trigger instellen. Als er echter een trigger wordt geactiveerd, worden de campagneacties uitgevoerd.
 
-## Bekijk een video over het maken van geactiveerde e-mailcampagnes {#watch-a-video-on-creating-triggered-email-campaigns}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/6zNazwTgt2LNeCjPAt3W9K.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 >[!TIP]
 >
->Gebruik [activiteitenlogboek](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) om te zien wat stapsgewijs binnen uw slimme campagnes voorkwam. U kunt het activiteitenlogboek in het laatste lusje van de detailpagina van een persoon vinden.
-
+>Gebruik [activiteitenlogboek](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md) om te zien wat stapsgewijs binnen uw slimme campagnes voorkwam. U kunt het activiteitenlogboek in het laatste lusje van de detailpagina van een persoon vinden.
