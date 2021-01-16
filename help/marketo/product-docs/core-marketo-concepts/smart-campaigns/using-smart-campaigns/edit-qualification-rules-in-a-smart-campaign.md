@@ -3,9 +3,9 @@ unique-page-id: 1146974
 description: Bewerk kwalificatieregels in een slimme campagne - Marketo Docs - Productdocumentatie
 title: Kwalificatieregels bewerken in een slimme campagne
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -33,18 +33,10 @@ De regels van de erkenning bepalen hoe vaak iemand door de stroom in een slimme 
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Communicatielimieten worden standaard niet toegepast op slimme campagnes. Leer hoe u communicatielimieten [toepast op een slimme campagne](apply-communication-limits-to-smart-campaign.md).
+   >Communicatielimieten worden standaard niet toegepast op slimme campagnes. Leer hoe u communicatielimieten [toepast op een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md).
 
    >[!NOTE]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Communicatielimieten toepassen op slimme campagnes](apply-communication-limits-to-smart-campaign.md)
-
+   >[Communicatielimieten toepassen op slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
 
 Opdracht voltooid! U weet nu hoe u kwalificatieregels kunt beheren in een slimme campagne.
