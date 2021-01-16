@@ -3,9 +3,9 @@ unique-page-id: 1146931
 description: Nieuwe slimme campagne maken - Marketo Docs - Productdocumentatie
 title: Nieuwe slimme campagne maken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Slimme campagnes zijn het belangrijkste instrument in Marketo. Ze kunnen op éé
 
 >[!NOTE]
 >
->**Diep duiken**
->
->Slimme campagnes zijn supercool. Meer informatie hierover [hier](../../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+>Slimme campagnes zijn supercool. Meer informatie hierover [hier](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -43,13 +41,8 @@ Slimme campagnes zijn het belangrijkste instrument in Marketo. Ze kunnen op éé
 
    Koel! Leer vervolgens hoe u definieert welke mensen de slimme campagne moeten doorlopen met een slimme lijst.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Slimme lijst definiëren voor slimme campagne | Batch](define-smart-list-for-smart-campaign-batch.md)
-   >    * [Slimme lijst definiëren voor slimme campagne | Trigger](define-smart-list-for-smart-campaign-trigger.md)
-
+   >* [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Slimme lijst definiëren voor slimme campagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 
