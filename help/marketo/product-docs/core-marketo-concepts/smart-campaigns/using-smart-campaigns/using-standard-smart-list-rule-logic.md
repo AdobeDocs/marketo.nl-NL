@@ -3,7 +3,7 @@ unique-page-id: 1147001
 description: Werken met Standard Smart List Rule Logic - Marketo Docs - Productdocumentatie
 title: Werken met Standard Smart List Rule Logic
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -26,13 +26,20 @@ Triggers worden altijd geëvalueerd als OR, zelfs als de bovenstaande instelling
 ![](assets/image2014-9-22-14-3a12-3a57.png)
 
 De bovenstaande slimme lijst in woorden:
-`<pre data-theme="Confluence">IF person fills out My Form OR IF person visits My Page AND Industry is Marketing AND Country is USA THEN follow the campaign's flow step(s)</pre>` Dus als een persoon het formulier **of** invult, bezoekt de campagne de pagina, dan evalueert de campagne die persoon op basis van **all **or **any **of de volgende filters, afhankelijk van de gebruikte instelling.
+
+```box
+IF person fills out My Form
+OR
+IF person visits My Page 
+AND 
+Industry is Marketing 
+AND 
+Country is USA 
+THEN follow the campaign's flow step(s)
+```
+
+Dus als een persoon het formulier **of** naar de pagina vult, wordt die persoon door de campagne geëvalueerd op basis van **all** of **any** van de volgende filters, afhankelijk van de gebruikte instelling.
 
 >[!MORELIKETHIS]
 >
->* [Advanced Smart List Rule Logic gebruiken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
-
->
-
-
-
+>[Advanced Smart List Rule Logic gebruiken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
