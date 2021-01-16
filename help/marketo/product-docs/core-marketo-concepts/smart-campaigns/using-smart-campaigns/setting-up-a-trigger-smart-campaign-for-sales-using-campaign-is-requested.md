@@ -3,9 +3,9 @@ unique-page-id: 7514898
 description: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die "Campagne gebruikt wordt gevraagd" - Marketo Docs - de Documentatie van het Product
 title: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die "de Campagne wordt gevraagd"
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,6 @@ ht-degree: 0%
 Een van de mooiste kenmerken van Marketo is de mogelijkheid om verkoopmedewerkers te laten deelnemen aan de marketingactiviteiten. Ze staan op de voorgrond, communiceren met mensen. Verkoopvertegenwoordigers moeten de mogelijkheid hebben om de marketing in de juiste richting te sturen.
 
 >[!NOTE]
->
->**Voorbeeld**
 >
 >Voorbeelden van op te vragen slimme campagnes:
 >
@@ -32,7 +30,7 @@ Wees creatief. Wat wil de verkoper automatiseren? Vraag het hen gewoon en doe he
 
    ![](assets/image2015-5-20-16-3a3-3a25.png)
 
-1. **Campagne** **is** **Gevraagd **naar het canvas slepen.
+1. **Campagne wordt aangevraagd** naar het canvas slepen.
 
    ![](assets/campaignfilterdrag.png)
 
@@ -41,7 +39,6 @@ Wees creatief. Wat wil de verkoper automatiseren? Vraag het hen gewoon en doe he
    >[!TIP]
    >
    >De bronoperatoren zijn bedoeld voor beveiliging. U kunt de campagne beperken tot verzoeken die alleen door specifieke bronnen worden gedaan, zoals andere slimme campagnes of ontwikkelaars. Kies **Is om het even welk** in het eerste vakje als u verzoeken van alle bronnen wilt toestaan.
-   >
    >
    >**Herinner me**, door het Inzicht van de Verkoop te kiezen, zal het magisch in de doos voor verkoop verschijnen. Overdoe het niet. Te veel worden genegeerd.
 
@@ -52,4 +49,3 @@ Dit is een goede manier om uw marketing bereik tot andere afdelingen uit te brei
 >[!TIP]
 >
 >Vergeet niet uw slimme campagnes duidelijk te noemen. Ze worden precies in Verkoopcontrole weergegeven.
-
