@@ -3,7 +3,7 @@ unique-page-id: 2951703
 description: Campagne aanvragen - Marketo Docs - Productdocumentatie
 title: Campagne aanvragen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -17,7 +17,7 @@ U kunt mensen in een specifieke campagne plaatsen door **Campagne** enige debiet
 
 >[!NOTE]
 >
->De campagne u de persoon in plaatst moet actief zijn en ** [De campagne wordt Gevraagd](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** trekker hebben.
+>De campagne u de persoon in plaatst moet actief zijn en **[Campagne hebben wordt Gevraagd](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)** trekker.
 
 1. Zoek en selecteer de gewenste persoon/personen in de **Database**.
 
@@ -44,4 +44,3 @@ U kunt mensen in een specifieke campagne plaatsen door **Campagne** enige debiet
 >[!TIP]
 >
 >Gebruik **Campagne wordt Gevraagd** trekker of filter om mensen te vinden die door deze stroomstap worden beïnvloed.
-
