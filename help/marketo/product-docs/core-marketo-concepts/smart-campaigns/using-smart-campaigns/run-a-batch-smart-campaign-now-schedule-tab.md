@@ -3,9 +3,9 @@ unique-page-id: 1146933
 description: Een slimme batchcampagne nu uitvoeren | Tabblad Planning - Marketo Docs - Productdocumentatie
 title: Een slimme batchcampagne nu uitvoeren | Tabblad Planning
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Nadat u de batchcampagne hebt gemaakt, kunt u deze nu of later uitvoeren. Hier i
 
    ![](assets/runcampaignnow-hands.png)
 
-1. Zorg **Nu uitvoeren **is geselecteerd en klik **Looppas**.
+1. Zorg ervoor **Nu uitvoeren** is geselecteerd en klik **Run**.
 
    ![](assets/image2014-9-19-15-3a57-3a4.png)
 
@@ -27,15 +27,10 @@ Nadat u de batchcampagne hebt gemaakt, kunt u deze nu of later uitvoeren. Hier i
 
    ![](assets/image2014-9-19-15-3a57-3a19.png)
 
-   Eenvoudig! U kunt ook [plannen uitvoeren voor later](schedule-a-batch-smart-campaign-to-run-later.md) als u verkiest.
+   Eenvoudig! U kunt ook [plannen uitvoeren voor later](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md) als u verkiest.
 
    >[!NOTE]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Een slimme batchcampagne plannen om later uit te voeren](schedule-a-batch-smart-campaign-to-run-later.md)
-   >    * [Een terugkerende batchcampagne plannen](schedule-a-recurring-batch-campaign.md)
-
+   >* [Een slimme batchcampagne plannen om later uit te voeren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
+   >* [Een terugkerende batchcampagne plannen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
 
