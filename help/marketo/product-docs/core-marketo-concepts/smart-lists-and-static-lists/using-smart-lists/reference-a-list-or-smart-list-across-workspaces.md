@@ -3,7 +3,7 @@ unique-page-id: 4720377
 description: Verwijzing naar een lijst of slimme lijst in werkruimten - Marketo Docs - Productdocumentatie
 title: Verwijzen naar een lijst of slimme lijst in werkruimten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Lijsten en slimme lijsten kunnen worden gedeeld en van verwijzingen voorzien ove
 
    ![](assets/four-3.png)
 
-1. Kies een **Werkruimte **delen met. Selecteer **Opslaan**.
+1. Kies een **Werkruimte** om mee te delen. Selecteer **Opslaan**.
 
    ![](assets/image2014-12-9-15-3a37-3a25.png)
 
@@ -50,4 +50,3 @@ Lijsten en slimme lijsten kunnen worden gedeeld en van verwijzingen voorzien ove
    >[!NOTE]
    >
    >Bij marketingactiviteiten kunt u alleen mappen op hoofdniveau delen. In het Gegevensbestand, kunt u top-level omslagen evenals één niveau neer delen.
-
