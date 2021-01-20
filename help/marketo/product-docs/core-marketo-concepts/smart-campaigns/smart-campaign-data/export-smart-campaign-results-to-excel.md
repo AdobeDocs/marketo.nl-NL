@@ -3,7 +3,7 @@ unique-page-id: 1147070
 description: Resultaten van slimme campagnes exporteren naar Excel - Marketo Docs - Productdocumentatie
 title: Resultaten van slimme campagnes exporteren naar Excel
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -24,4 +24,3 @@ Exporteer de resultaten van uw slimme campagne naar Excel voor gebruik buiten Ma
    >[!NOTE]
    >
    >De exportbewerking is beperkt tot 20.000 rijen. Het Excel-bestand wordt opgeslagen in de standaarddownloadmap van uw browser.
-
