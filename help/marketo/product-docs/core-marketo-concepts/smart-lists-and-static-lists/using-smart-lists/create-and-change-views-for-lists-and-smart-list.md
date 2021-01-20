@@ -3,7 +3,7 @@ unique-page-id: 557337
 description: Weergaven voor lijsten en slimme lijsten maken en wijzigen - Marketo Docs - Productdocumentatie
 title: Weergaven voor lijsten en slimme lijsten maken en wijzigen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -18,13 +18,14 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 ## Een weergave maken {#create-a-view}
 
 1. Ga naar een lijst of slimme lijst, klik **Mensen** tabel, en klik **Create** **View** onder **View** drop-down.
-1. ![](assets/smartlist-createview.png)
+
+   ![](assets/smartlist-createview.png)
 
 1. Geef een naam op voor de weergave en zoek naar de kolom die u wilt toevoegen of verwijderen.
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-   Voeg/verwijder uw gewenste kolommen toe, dan leidt de klik tot.
+1. Voeg/verwijder uw gewenste kolommen toe, dan klik **creëren**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
@@ -56,8 +57,6 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-
-
 ## Een weergave {#delete-a-view} verwijderen
 
 1. Selecteer de optie **Bewerken** voor de weergave die u wilt verwijderen uit de vervolgkeuzelijst **Weergave**.
@@ -72,10 +71,6 @@ Alleen u kunt de aangepaste weergaven zien die u maakt in de vervolgkeuzelijst W
 
 >[!MORELIKETHIS]
 >
->* [Ingebouwde/systeemslimme lijsten gebruiken](use-built-in-system-smart-lists.md)
->* [Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>* [Ingebouwde/systeemslimme lijsten gebruiken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+>* [Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
