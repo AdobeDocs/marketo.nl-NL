@@ -3,9 +3,9 @@ unique-page-id: 557154
 description: Een slimme lijst maken - Marketo Docs - Productdocumentatie
 title: Een slimme lijst maken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,8 @@ Met slimme lijsten kunt u specifieke groepen mensen zoeken aan de hand van eenvo
    ![](assets/login-marketing-activities.png)
 
 1. Selecteer het programma waarin u de slimme lijst wilt maken.
-1. ![Dit is een test](assets/image2014-8-11-10-3a17-3a8.png)
+
+   ![](assets/image2014-8-11-10-3a17-3a8.png)
 
 1. Klik onder **Nieuw** op **Nieuw lokaal element**.
 
@@ -34,13 +35,8 @@ Met slimme lijsten kunt u specifieke groepen mensen zoeken aan de hand van eenvo
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 
-   >[!NOTE]
-   >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Filters zoeken en toevoegen aan een slimme lijst](find-and-add-filters-to-a-smart-list.md)
+   Ta-da, geweldig werk! Laten we nu enkele filters toevoegen en definiëren.
 
-
-Ta-da, geweldig werk! Laten we nu enkele filters toevoegen en definiëren.
+   >[!MORELIKETHIS]
+   >
+   >[Filters zoeken en toevoegen aan een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
