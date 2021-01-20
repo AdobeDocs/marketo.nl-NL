@@ -3,7 +3,7 @@ unique-page-id: 1147031
 description: Persoon verwijderen uit SFDC - Marketo Docs - Productdocumentatie
 title: Persoon verwijderen uit SFDC
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Als u een specifieke reeks lood uit Salesforce moet verwijderen maar hen als men
    >[!CAUTION]
    >
    >Als u **Delete in Marketo** aan **true** plaatst en de mensen van Marketo en de lood van Salesforce schrapt, zijn zij voorgoed gegaan. Dit kan niet ongedaan worden gemaakt.
-
