@@ -3,7 +3,7 @@ unique-page-id: 557322
 description: Voer een enkele stroomstap uit vanuit een slimme lijst - Marketo Docs - Productdocumentatie
 title: Eén stroomstap uitvoeren vanuit een slimme lijst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Als u een stap wilt uitvoeren die slechts eenmalig is, kunt u één stap voor de
 
 >[!PREREQUISITES]
 >
->* [Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -35,7 +31,7 @@ Als u een stap wilt uitvoeren die slechts eenmalig is, kunt u één stap voor de
    >
    >Zowel statische lijsten als slimme lijsten hebben deze functionaliteit.
 
-1. Klik op **Alles selecteren**. U kunt ook** Ctrl/Cmd** gebruiken en klikken om een paar records handmatig te selecteren.
+1. Klik op **Alles selecteren**. U kunt **Ctrl/Cmd** ook gebruiken en klikken om een paar verslagen manueel te selecteren.
 
    ![](assets/smartlist-selectallhand.png)
 
@@ -43,7 +39,7 @@ Als u een stap wilt uitvoeren die slechts eenmalig is, kunt u één stap voor de
    >
    >Als de resultaten zich over veelvoudige pagina&#39;s uitstrekken, zal het klikken **selecteert allen** alle mensen over alle pagina&#39;s selecteren.
 
-1. Selecteer onder **Person** **Acties** de stap voor de stroom van uw keuze. In dit voorbeeld gebruiken we [Gegevenswaarde wijzigen](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. Selecteer onder **Person** **Acties** de stap voor de stroom van uw keuze. In dit voorbeeld gebruiken we [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
