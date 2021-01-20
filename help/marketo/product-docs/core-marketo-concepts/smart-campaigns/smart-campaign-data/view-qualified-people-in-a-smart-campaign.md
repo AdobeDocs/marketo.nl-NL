@@ -3,7 +3,7 @@ unique-page-id: 1146966
 description: Gekwalificeerde personen weergeven in een slimme campagne - Marketo Docs - Productdocumentatie
 title: Gekwalificeerde personen weergeven in een slimme campagne
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -33,17 +33,13 @@ Bekijk mensen die in aanmerking komen om door de stroom te gaan wanneer u een sl
 
    >[!NOTE]
    >
-   >Het aantal gekwalificeerde mensen hangt ook af van de kwalificatieregels voor slimme campagnes. Leer hoe u kwalificatieregels [bewerkt](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
+   >Het aantal gekwalificeerde mensen hangt ook af van de kwalificatieregels voor slimme campagnes. Leer hoe u kwalificatieregels [bewerkt](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md).
 
 Zoet! U kunt deze lijst gebruiken om te controleren welke mensen door de stroom zouden kunnen gaan alvorens u een slimme campagne in werking stelt.
 
 >[!MORELIKETHIS]
 >
->* [Leden van slimme campagnes weergeven](view-smart-campaign-members.md)
->* [Geblokkeerde personen weergeven in een slimme campagne](view-blocked-people-in-a-smart-campaign.md)
->* [Een stroomstap toevoegen aan een slimme campagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-
->
-
-
+>* [Leden van slimme campagnes weergeven](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
+>* [Geblokkeerde personen weergeven in een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
+>* [Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
