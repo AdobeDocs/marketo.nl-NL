@@ -3,9 +3,9 @@ unique-page-id: 37356429
 description: Taak maken in Microsoft - Marketo Docs - Productdocumentatie
 title: Taak maken in Microsoft
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,17 @@ Creeer Taak in Microsoft leidt tot een taak onder Activiteiten met betrekking to
 >
 >Deze flowstap werkt alleen als u triggers **gebruikt, niet als filters in uw slimme campagne.**
 
-Standaard ziet de flowstap er als volgt uit:   ![](assets/msd1.png)
+Standaard ziet de flowstap er als volgt uit:
+
+![](assets/msd1.png)
 
 >[!NOTE]
 >
->Wanneer de Gebruiker van de Synchronisatie van het Marketo taken creeert, **Wdankzij in **is een vereist gebied voor de taak die in Microsoft moet worden gecreeerd. Marketo voert standaard vijf dagen in als er geen waarde wordt ingevoerd.
+>Wanneer de Gebruiker van de Synchronisatie van het Marketo taken creeert, **wegens In** is een vereist gebied voor de taak die in Microsoft moet worden gecreeerd. Marketo voert standaard vijf dagen in als er geen waarde wordt ingevoerd.
 
-Pas alle velden aan om de taak op de gewenste manier te maken.   ![](assets/msd2.png)
+Pas alle velden aan om de taak op de gewenste manier te maken.
+
+![](assets/msd2.png)
 
 >[!NOTE]
 >
@@ -35,5 +39,4 @@ Pas alle velden aan om de taak op de gewenste manier te maken.   ![](assets/msd2
 
 >[!TIP]
 >
->U kunt `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` en `{{system.tokens}}` in **Onderwerp** en **Beschrijving** gebruiken. Zie [Tokens voor Flow Steps](http://docs.marketo.com/x/c4AR) voor meer informatie.
-
+>U kunt `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` en `{{system.tokens}}` in **Onderwerp** en **Beschrijving** gebruiken. Zie [Tokens voor Flow Steps](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md) voor meer informatie.
