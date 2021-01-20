@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: De slimme Lijst de Verklarende woordenlijst van de Exploitanten van de Filter van de Lijst - Marketo Docs - de Documentatie van het Product
 title: Verklarende woordenlijst voor slimme-lijstfilteroperatoren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,8 @@ ht-degree: 0%
 
 # Woordenlijst slimme-lijstfilteroperatoren {#smart-list-filter-operators-glossary}
 
-Een exploitant is een deel van [slimme lijst](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) dat u helpt specifiek worden. Hiermee kunt u het filter of de trigger in een eenvoudige taal beschrijven. De beschikbare operatoren zijn verschillend voor elk type veld.\
+Een operator maakt deel uit van de slimme lijst om u te helpen specifieke taken uit te voeren. Hiermee kunt u het filter of de trigger in een eenvoudige taal beschrijven. De beschikbare operatoren zijn verschillend voor elk type veld.
+
 Hier volgt een verklarende woordenlijst die elke reeks exploitanten beschrijft.
 
 ## Datumvelden {#date-fields}
@@ -51,7 +52,7 @@ Typ gewoon het nummer en de eenheid en het werkt!
 
 >[!NOTE]
 >
->In het verleden **omvat** de dag (tot de tijd, niet na) u creeert uw slimme lijst.
+>&quot;In het verleden&quot; **omvat** de dag (tot de tijd, niet na) u creeert uw slimme lijst.
 
 >[!CAUTION]
 >
@@ -102,7 +103,7 @@ Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrij
  <thead> 
   <tr> 
    <th colspan="1" rowspan="1">Operator</th> 
-   <th colspan="1" rowspan="1"><p>Beschrijving</p></th> 
+   <th colspan="1" rowspan="1">Beschrijving</th> 
   </tr> 
  </thead> 
  <tbody> 
