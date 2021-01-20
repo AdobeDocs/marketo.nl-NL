@@ -3,7 +3,7 @@ unique-page-id: 1147021
 description: Eigenaar wijzigen - Marketo Docs - Productdocumentatie
 title: Eigenaar wijzigen
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Als u bestaande mensen hebt die reeds aan een eigenaar worden toegewezen, kunt u
    >1. Marketo maakt een gedupliceerde lead **only** wanneer de contactpersoon wordt gesynchroniseerd met Salesforce. Met andere woorden, als u **[Persoon synchroniseren met SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** stap voor stroom met `AssignTo=<a lead queue>` gebruikt, maakt Marketo een dubbele lead in Salesforce en wijst u deze toe aan de hoofdwachtrij.
       >
       >
-   2. Als u probeert om **de debietstap van de Eigenaar van de Verandering** op een contact te gebruiken, zal geen duplicaat in Salesforce worden gecreeerd.
+   1. Als u probeert om **de debietstap van de Eigenaar van de Verandering** op een contact te gebruiken, zal geen duplicaat in Salesforce worden gecreeerd.
 
 
    >[!NOTE]
