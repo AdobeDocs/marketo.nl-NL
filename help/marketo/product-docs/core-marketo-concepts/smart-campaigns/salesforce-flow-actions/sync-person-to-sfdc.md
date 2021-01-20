@@ -3,7 +3,7 @@ unique-page-id: 1147027
 description: Persoon synchroniseren naar SFDC - Marketo Docs - Productdocumentatie
 title: Persoon synchroniseren naar SFDC
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Met deze stroomstap worden personen die door Marketo zijn gemaakt als leads in u
    >[!CAUTION]
    >
    >Salesforce staat niet toe dat &quot;Contacten&quot;worden toegewezen aan loodrijen. In dit geval maakt Marketo een duplicaat van &quot;Lead&quot; in Salesforce.
-
