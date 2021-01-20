@@ -3,9 +3,9 @@ unique-page-id: 1146978
 description: Gebruik een Duur in een Stap van de Stroom van de Wacht - Marketo Docs - de Documentatie van het Product
 title: Gebruik een Duur in een Stap van de Stroom van de Wacht
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ U kunt de stap van de Wachtrij gebruiken om de reis van een persoon door een sli
    >
    >**Voorbeeld**
    >
-   >
    >Op vrijdag om 17.00 uur start iemand een slimme campagne. De wachttijdstap is gevorderd: 48 uur en moet om 9.00 uur eindigen op maandag-vrijdag.
-   >
    >
    >Het resultaat zou zijn dat de persoon in de stroom op **Maandag, 9am** zou voortzetten. Dit is de eerste M-F-datum na 48 uur.
 
@@ -49,13 +47,8 @@ U kunt de stap van de Wachtrij gebruiken om de reis van een persoon door een sli
    >
    >De duur, de data, de tijden, en de gebruikte dagen zijn allen gebaseerd op de tijdzone van uw abonnement.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht](use-a-specific-date-in-a-wait-flow-step.md)
-   >    * [Een Date Token gebruiken in een Wachten Flow-stap](use-a-date-token-in-a-wait-flow-step.md)
-
+   >* [Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+   >* [Een Date Token gebruiken in een Wachten Flow-stap](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
 
