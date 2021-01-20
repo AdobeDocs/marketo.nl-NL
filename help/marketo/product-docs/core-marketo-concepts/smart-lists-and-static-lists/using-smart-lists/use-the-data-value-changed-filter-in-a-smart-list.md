@@ -3,9 +3,9 @@ unique-page-id: 557324
 description: Gebruik het Gewijzigde Filter van de Waarde van Gegevens in een Slimme Lijst - Marketo Docs - de Documentatie van het Product
 title: Het filter Gewijzigde gegevenswaarde gebruiken in een slimme lijst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,9 @@ De waarden veranderen constant en worden bijgewerkt in uw gegevensbestand Market
 
 >[!PREREQUISITES]
 >
->* [Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Ga naar het **Marketing Activiteiten **gebied.
+1. Ga naar **Marketing Activities** gebied.
 
    ![](assets/ma.png)
 
@@ -39,15 +35,4 @@ De waarden veranderen constant en worden bijgewerkt in uw gegevensbestand Market
 
    ![](assets/four.png)
 
-Dit filter zoekt naar alle personen die een wijziging (een wijziging) in hun status hebben ondergaan. Als u even verfijnder wilt worden, probeer [toevoegend een beperking aan een slimme lijstfilter](add-a-constraint-to-a-smart-list-filter.md).
-
->[!NOTE]
->
->**Verwante artikelen**
->
->* [Een restrictie toevoegen aan een slim lijstfilter](add-a-constraint-to-a-smart-list-filter.md)
-
->
-
-
-
+Dit filter zoekt naar alle personen die een wijziging (een wijziging) in hun status hebben ondergaan. Als u even verfijnder wilt worden, probeer [toevoegend een beperking aan een slimme lijstfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md).
