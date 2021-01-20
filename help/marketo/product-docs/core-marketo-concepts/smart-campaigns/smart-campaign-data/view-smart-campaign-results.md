@@ -3,9 +3,9 @@ unique-page-id: 1146968
 description: Resultaten slimme campagne weergeven - Marketo Docs - Productdocumentatie
 title: Resultaten slimme campagne weergeven
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Wil je een einde zien aan alles wat er gebeurd is in een slimme campagne? Het is
 
    >[!TIP]
    >
-   >U kunt de lijst zien van mensen die door de slimme campagne werden verwerkt door [de Leden van de Campagne van de Mening ](view-smart-campaign-members.md) te klikken.
+   >U kunt de lijst zien van mensen die door de slimme campagne werden verwerkt door [de Leden van de Campagne van de Mening ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md) te klikken.
 
    ![](assets/image2014-9-22-11-38-10.jpg)
 
    >[!TIP]
    >
-   >U kunt de resultaten ook filteren op basis van het type activiteit. Leer hoe u slimme-campagneresultaten [filtreert](filter-smart-campaign-results.md).
+   >U kunt de resultaten ook filteren op basis van het type activiteit. Leer hoe u slimme-campagneresultaten [filtreert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md).
 
 1. Klik op een **ID** om meer details over die bepaalde activiteit weer te geven.
 
@@ -35,16 +35,8 @@ Wil je een einde zien aan alles wat er gebeurd is in een slimme campagne? Het is
    >
    >Persoonsgegevens weergeven door op de naam van de persoon te klikken.
 
-   [resultaten van slimme campagnes exporteren naar Excel](export-smart-campaign-results-to-excel.md)
+   Dig in de resultaten om te zien wat uw campagne eigenlijk deed, of eenvoudig [voer slimme campagneresultaten naar Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md) uit.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Resultaten van slimme campagnes filteren](filter-smart-campaign-results.md)
-   >    * [Resultaten van slimme campagnes exporteren naar Excel](export-smart-campaign-results-to-excel.md)
-
-
-Dig in de resultaten om te zien wat je campagne eigenlijk deed, of gewoon.
+   >[Resultaten van slimme campagnes filteren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md)
