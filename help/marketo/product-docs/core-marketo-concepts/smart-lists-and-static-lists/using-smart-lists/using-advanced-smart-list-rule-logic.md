@@ -3,7 +3,7 @@ unique-page-id: 1146901
 description: Geavanceerde logica voor slimme-lijstregels gebruiken - Marketo Docs - Productdocumentatie
 title: Advanced Smart List Rule Logic gebruiken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -17,11 +17,8 @@ U kunt precies de mensen vinden u door slimme lijstregellogica op veelvoudige fi
 
 >[!PREREQUISITES]
 >
->* [Filters zoeken en toevoegen aan een slimme lijst](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Slimme lijstfilters definiëren](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
-
->
-
+>* [Filters zoeken en toevoegen aan een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [Slimme lijstfilters definiëren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
 
 
 >[!NOTE]
@@ -30,11 +27,11 @@ U kunt precies de mensen vinden u door slimme lijstregellogica op veelvoudige fi
 
 ## Logica toevoegen aan een slimme lijst {#add-logic-to-a-smart-list}
 
-Standaard vindt uw slimme lijst de personen die overeenkomen met **ALL** filters (filters 1 *en* 2 *en* 3). U kunt de regellogica veranderen om mensen te vinden die **ANY** van de bepaalde filters (filters 1 *of* 2 *of* 3) aanpassen, of geavanceerde filters (filters 1 *en* 2 *of *3) gebruiken.
+Standaard vindt uw slimme lijst de personen die overeenkomen met **ALL** filters (filters 1 _en_ 2 _en_ 3). U kunt de regellogica veranderen om mensen te vinden die **ANY** van de bepaalde filters (filters 1 _of_ 2 _of_ 3) aanpassen, of geavanceerde filters (filters 1 _en_ 2 _of_ 3) gebruiken.
 
-In dit voorbeeld, zeggen wij u mensen in Californië *en* met een score van minstens 50 punten *of* met een status van &quot;Verkoop Gekwalificeerd.&quot;
+In dit voorbeeld, zeggen wij u mensen in Californië _en_ met een score van minstens 50 punten _of_ met een status van &quot;Verkoop Gekwalificeerd.&quot;
 
-1. Selecteer **Gebruik** **Geavanceerd** **filters** in de keuzelijst.
+1. Selecteer **Geavanceerde filters gebruiken** in de vervolgkeuzelijst.
 
    ![](assets/one.png)
 
@@ -42,7 +39,7 @@ In dit voorbeeld, zeggen wij u mensen in Californië *en* met een score van mins
    >
    >Door het gebruik van **Geavanceerde** filters vermindert u de noodzaak om slimme lijsten te maken met het lid van het filter Slimme lijst. Hierdoor worden de prestaties geoptimaliseerd.
 
-1. In het tekstvak **Geavanceerd** **filters** wordt &quot;en&quot; weergegeven als standaardwaarde tussen al uw filters.
+1. In het tekstvak **Geavanceerde filters** wordt &quot;en&quot; weergegeven als de standaardwaarde tussen al uw filters.
 
    ![](assets/two-2.png)
 
@@ -73,4 +70,3 @@ Afhankelijk van uw bedoeling, kunt u genestelde haakjes moeten toevoegen wanneer
 >[!TIP]
 >
 >Als u een ongeldige regel ingaat, zult u een rode lijn zien onder de regel wordt getoond. Schuif over de tekst om het bijbehorende foutbericht weer te geven.
-
