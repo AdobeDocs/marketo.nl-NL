@@ -3,7 +3,7 @@ unique-page-id: 8159286
 description: Opportuniteitsfilters en -triggers - Marketo Docs - Productdocumentatie
 title: Opportuniteitsfilters en -triggers
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -80,4 +80,3 @@ U kunt deze slimme lijst bijvoorbeeld gebruiken om te activeren wanneer een lead
 Als u aangepaste opportuniteitsvelden wilt uitschakelen, gebruikt u de trigger **Opportunity is Updated** en kiest u het veld in de keuzelijst:
 
 ![](assets/image2015-6-11-12-3a33-3a34.png)
-
