@@ -3,7 +3,7 @@ unique-page-id: 1147034
 description: Toevoegen aan SFDC-campagne - Marketo Docs - Productdocumentatie
 title: Toevoegen aan SFDC-campagne
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -33,15 +33,13 @@ Deze flowstap kan worden gebruikt in Marketo-campagnes of als een enkele flowsta
    >
    >Als u geen Salesforce-campagne kunt zien in de lijst Campagne:
    >
-   >    
-   >    
-   >    1. Zorg ervoor [campagnecsync wordt toegelaten](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
-   >    1. Bevestig dat uw [Marketo Sync User](../../../../product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) een [Marketing User](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) in Salesforce is.
+   >  1. Zorg ervoor [campagnecsync wordt toegelaten](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
+   >  1. Bevestig dat uw [Marketo Sync User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) een [Marketing User](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) in Salesforce is.
 
 
    >[!TIP]
    >
-   >U kunt de campagne van Salesforce [Mijn Tokens](../../../../product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) gebruiken om programma het klonen gemakkelijker te maken.
+   >U kunt de campagne van Salesforce [Mijn Tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md) gebruiken om programma het klonen gemakkelijker te maken.
 
 1. Selecteer de status van het lid van de Salesforce-campagne dat u wilt toewijzen aan leads wanneer deze worden toegevoegd.
 
@@ -49,5 +47,4 @@ Deze flowstap kan worden gebruikt in Marketo-campagnes of als een enkele flowsta
 
    >[!CAUTION]
    >
-   >Als een persoon al een leidinggevend lid is van de Salesforce-campagne, worden ze overgeslagen en wordt hun status NIET bijgewerkt. U kunt [hun status in een campagne gebruiken SFDC](change-status-in-sfdc-campaign.md) in plaats daarvan veranderen.
-
+   >Als een persoon al een leidinggevend lid is van de Salesforce-campagne, worden ze overgeslagen en wordt hun status NIET bijgewerkt. U kunt [hun status in een campagne gebruiken SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-status-in-sfdc-campaign.md) in plaats daarvan veranderen.
