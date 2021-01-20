@@ -3,7 +3,7 @@ unique-page-id: 1147009
 description: Programma succesvol wijzigen - Marketo Docs - Productdocumentatie
 title: Programma is gewijzigd
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Als u ooit een groep mensen hebt die toevallig met het Succes van het Programma 
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Selecteer **Success** of** Succesdatum** als attribuut.
+1. Selecteer **Success** of **Success Date** als Attribuut.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
