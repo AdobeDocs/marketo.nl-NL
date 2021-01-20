@@ -3,7 +3,7 @@ unique-page-id: 1147068
 description: Resultaten slimme campagne filteren - Marketo Docs - Productdocumentatie
 title: Resultaten van slimme campagnes filteren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Resultaten slimme campagne weergeven](view-smart-campaign-results.md)
-
->
-
-
+>[Resultaten slimme campagne weergeven](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
 
 Filter slimme campagneresultaten om specifieke activiteiten te zien die voor u van belang zijn.
 
@@ -51,9 +47,8 @@ Filter slimme campagneresultaten om specifieke activiteiten te zien die voor u v
 
    ![](assets/saveasfilter-hands.png)
 
-1. Het aangepaste filter wordt toegepast op de resultaten en is nu beschikbaar in de vervolgkeuzelijst. (Mogelijk moet u de pagina vernieuwen om deze weer te geven in de vervolgkeuzelijst.)
+1. Het aangepaste filter wordt toegepast op de resultaten en is nu beschikbaar in de vervolgkeuzelijst (u moet de pagina mogelijk vernieuwen om deze weer te geven in de vervolgkeuzelijst.)
 
    ![](assets/customfilter-hands.png)
 
    Is dat niet cool? Uw aangepaste filter is nu beschikbaar voor gebruik in alle activiteitenlogboeken.
-
