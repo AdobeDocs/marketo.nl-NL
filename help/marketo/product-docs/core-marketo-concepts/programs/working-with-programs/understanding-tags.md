@@ -3,9 +3,9 @@ unique-page-id: 1147112
 description: Tags - Marketo Docs - Productdocumentatie
 title: Tags begrijpen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -23,16 +23,13 @@ Tagtypen geven het soort informatie aan waarop u wilt sorteren.
 
 >[!TIP]
 >
->Bespreek met uw [Marketo Admin](http://docs.marketo.com/display/DOCS/Create+Custom+Tags) als u douanetags wilt creëren.
+>Bespreek met uw [Marketo Admin](/help/marketo/product-docs/administration/tags/create-custom-tags.md) als u douanetags wilt creëren.
 
 >[!NOTE]
 >
 >**Voorbeeld**
 >
 >* Tagtype = programmaeigenaar
-
->
-
 
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
@@ -47,38 +44,26 @@ Elk labeltype heeft waarden waaruit u kunt kiezen.
 >
 >* Tagwaarden = Anna, Arun, Reza
 
->
-
-
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
 ## Kanaal {#channel}
 
-Kanalen worden gebruikt om te rapporteren hoe uw [leden](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) door uw programma bewogen. Elk kanaal heeft een reeks progressiestatus en één status die aan gelijk succes wordt geplaatst.
+Kanalen worden gebruikt om te rapporteren hoe uw [leden](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) door uw programma bewogen. Elk kanaal heeft een reeks progressiestatus en één status die aan gelijk succes wordt geplaatst.
 
 >[!NOTE]
 >
 >**Voorbeeld**
 >
 >* Kanaal = Roadshow
-   >
-   >
-* Progressiestatus = Uitgenodigd, Geregistreerd, Bijgewoond, Geen Show
+>* Progressiestatus = Uitgenodigd, Geregistreerd, Bijgewoond, Geen Show
 >* Succes = bijgewoond
-
->
-
 
 
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
 >[!MORELIKETHIS]
 >
->* [Aangepaste tags maken](../../../../product-docs/administration/tags/create-custom-tags.md)
->* [Een programmakanaal maken](../../../../product-docs/administration/tags/create-a-program-channel.md)
-
->
-
-
+>* [Aangepaste tags maken](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
+>* [Een programmakanaal maken](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
 
