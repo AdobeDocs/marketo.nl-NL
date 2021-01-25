@@ -3,7 +3,7 @@ unique-page-id: 1146897
 description: Personen in een slimme lijst of lijst verwijderen - Marketo Docs - Productdocumentatie
 title: Personen in een slimme lijst of lijst verwijderen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -17,13 +17,9 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
 
 >[!PREREQUISITES]
 >
->* [Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma-1.png)
 
@@ -35,19 +31,19 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
    >
    >Wanneer u een persoon verwijdert, verwijdert u deze niet alleen uit de lijst, maar wordt deze volledig uit de database verwijderd.
 
-1. Klik **Select** **All**. U kunt ook een paar records selecteren door op Ctrl/Cmd te klikken.
+1. Klik op **Alles selecteren**. U kunt ook een paar records selecteren door op Ctrl/Cmd te klikken.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Als de resultaten zich over veelvoudige pagina&#39;s uitstrekken, zal het klikken **Select** **Al** alle mensen over alle pagina&#39;s selecteren.
+   >Als de resultaten zich over veelvoudige pagina&#39;s uitstrekken, zal het klikken **selecteert allen** alle mensen over alle pagina&#39;s selecteren.
 
-1. Om de mensen van Marketo volledig te verwijderen, klik **Schrapping** **Persoon**.
+1. Als u de personen volledig wilt verwijderen uit Marketo, klikt u op **Persoon verwijderen**.
 
    ![](assets/four-1.png)
 
-1. Stel **Remove** **from** **CRM** in op **true** als u de records ook uit uw CRM wilt verwijderen.
+1. Stel **Verwijderen uit CRM** in op **true** als u de records ook uit uw CRM wilt verwijderen.
 
    ![](assets/five.png)
 
@@ -59,7 +55,7 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
    >
    >Als uw Marketo niet aan uw CRM wordt gebonden is de optie grayed uit als in het schermafbeelding.
 
-1. Klik **Run** **Now**.
+1. Klik **Nu uitvoeren**.
 
    ![](assets/image2014-9-24-13-3a0-3a3.png)
 
@@ -72,4 +68,3 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
    >Als u de resultaten van de massale verwijdering wilt weergeven, klikt u op **Resultaten weergeven** in het pop-upvenster Handeling voor één stroom rechtsboven in het scherm. De tijden van schrapping kunnen zeer variëren, afhankelijk van veelvoudige factoren.
 
    Dit is een fantastische functie, maar wees voorzichtig als je het gebruikt!
-
