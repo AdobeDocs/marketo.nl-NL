@@ -3,9 +3,9 @@ unique-page-id: 7504676
 description: Begrijpen van de kosten van de periode - Marketo Docs - de Documentatie van het Product
 title: Kosten voor tijdrekening
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,9 @@ Periode-kosten hebben betrekking op het geld dat u in een bepaalde maand aan een
 
 >[!NOTE]
 >
->**Diep duiken**
+>[Programma&#39;s begrijpen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Programma&#39;s begrijpen](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
->
->[Werken met het lidmaatschap van het programma](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[Werken met het lidmaatschap van het programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Hoe de Kosten van de Periode {#how-period-costs-are-calculated} worden berekend
 
@@ -63,18 +61,10 @@ Stel je een gebeurtenis voor, zoals een webinar, die in maart plaatsvindt. Nieuw
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Samengevat: maanden zonder bepaalde periode zullen de kosten teruglopen tot de laatste die is gedefinieerd. Als er geen kosten voor de voorgaande periode zijn, worden de maanden &quot;voorwaarts&quot; doorgestuurd naar de volgende periode die is gedefinieerd. Als er voor *om het even welke* maanden geen periode is bepaald, zal de rapportering in RCE niet voor het programma beschikbaar zijn.
+   >Samengevat: maanden zonder bepaalde periode zullen de kosten teruglopen tot de laatste die is gedefinieerd. Als er geen kosten voor de voorgaande periode zijn, worden de maanden &quot;voorwaarts&quot; doorgestuurd naar de volgende periode die is gedefinieerd. Als er voor _om het even welke_ maanden geen periode is bepaald, zal de rapportering in RCE niet voor het programma beschikbaar zijn.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Periode-kosten in een programma gebruiken](using-period-costs-in-a-program.md)
-   >    * [Een programmarapport filteren op kosten van periode](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
+   >* [Periode-kosten in een programma gebruiken](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
+   >* [Een programmarapport filteren op kosten van periode](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
