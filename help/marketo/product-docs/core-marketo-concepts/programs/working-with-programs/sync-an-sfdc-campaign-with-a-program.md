@@ -3,7 +3,7 @@ unique-page-id: 1147154
 description: Een SFDC-campagne synchroniseren met een programma - Marketo Docs - Productdocumentatie
 title: Een SFDC-campagne synchroniseren met een programma
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Met Marketo kunt u uw programma&#39;s synchroniseren met Salesforce-campagnes om
 
 >[!PREREQUISITES]
 >
->U moet eerst [de campagnecsync](../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) van Salesforce inschakelen.
+>U moet eerst [de campagnecsync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) van Salesforce inschakelen.
 
 >[!CAUTION]
 >
@@ -35,11 +35,11 @@ Met Marketo kunt u uw programma&#39;s synchroniseren met Salesforce-campagnes om
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Selecteer **Nieuw maken **of kies een bestaande Salesforce-campagne.
+1. Selecteer **Nieuw maken** of kies een bestaande Salesforce-campagne.
 
    >[!TIP]
    >
-   >Als u een bestaande Salesforce-campagne selecteert, moet u [de status van het programma van de Salesforce-campagne en het Marketo-programma](../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md) aanpassen.
+   >Als u een bestaande Salesforce-campagne selecteert, moet u [de status van het programma van de Salesforce-campagne en het Marketo-programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md) aanpassen.
 
 1. Voer een naam in voor de nieuwe campagne en klik op **Opslaan**.
 
@@ -50,4 +50,3 @@ Met Marketo kunt u uw programma&#39;s synchroniseren met Salesforce-campagnes om
    ![](assets/image2015-7-22-8-3a59-3a33.png)
 
    Uitstekend! Alle statuswijzigingen van programma&#39;s in Marketo worden nu gesynchroniseerd met de SFDC-campagne en andersom.
-
