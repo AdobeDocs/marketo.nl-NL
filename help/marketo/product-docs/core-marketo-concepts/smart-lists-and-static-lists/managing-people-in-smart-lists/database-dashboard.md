@@ -3,7 +3,7 @@ unique-page-id: 10097447
 description: Databasedashboard - Marketo Docs - Productdocumentatie
 title: Databasedashboard
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -19,7 +19,9 @@ Het databasedashboard fungeert als momentopname om u te helpen snel belangrijke 
 >
 >Elke werkruimte heeft een eigen database.
 
-Om daar te krijgen, kunt u **de tegel van het Gegevensbestand** op uw huisscherm klikken...   ![](assets/db-3.png)
+Om daar te krijgen, kunt u **de tegel van het Gegevensbestand** op uw huisscherm klikken...
+
+![](assets/db-3.png)
 
 U kunt ook op het Marketo-logo klikken en **Database** selecteren.
 
@@ -31,7 +33,6 @@ De grafieken geven het totale aantal personen, het aantal verhandelbare personen
 
 >[!TIP]
 >
->Wilt u meer specifieke of actuele informatie over uw mensen opvragen? Probeer een [Rapport van de Prestaties van Mensen](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
+>Wilt u meer specifieke of actuele informatie over uw mensen opvragen? Probeer een [Rapport van de Prestaties van Mensen](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Totaal aantal personen:** het aantal personen in alle tijd voor die werkruimte.  **Verhandelbare personen:** het aantal personen dat zich in de werkruimte bevindt,  *min het volgende*: mensen zonder e-mailadres, mensen met een moeilijk te ontvangen e-mailadres, mensen die zijn op de lijst met ongewenste personen staan, mensen die zich niet hebben geabonneerd, mensen die momenteel op Marketing zijn geschorst.
-
+**Totaal aantal personen:** het aantal personen in alle tijd voor die werkruimte.  **Verhandelbare personen:** het aantal personen dat zich in de werkruimte bevindt,  _min het volgende_: mensen zonder e-mailadres, mensen met een moeilijk te ontvangen e-mailadres, mensen die zijn op de lijst met ongewenste personen staan, mensen die zich niet hebben geabonneerd, mensen die momenteel op Marketing zijn geschorst.
