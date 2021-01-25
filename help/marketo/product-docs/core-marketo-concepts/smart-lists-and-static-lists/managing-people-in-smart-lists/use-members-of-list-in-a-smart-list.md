@@ -3,7 +3,7 @@ unique-page-id: 2953173
 description: Leden van lijst in een slimme lijst gebruiken - Marketo Docs - Productdocumentatie
 title: Leden van lijst gebruiken in een slimme lijst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->U kunt mensen aan een lijst toevoegen gebruikend [Invoer](../../../../getting-started/quick-wins/import-a-list-of-people.md) of [toevoegen aan de debietstap van de Lijst](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
+>U kunt mensen aan een lijst toevoegen gebruikend [Invoer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) of [toevoegen aan de debietstap van de Lijst](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
 Met dit filter kunt u leden uit een andere lijst trekken door ernaar te verwijzen in de slimme-lijstregels. Zo gaat het.
 
@@ -31,5 +31,4 @@ Met dit filter kunt u leden uit een andere lijst trekken door ernaar te verwijze
 
    ![](assets/memberoflist.png)
 
-   **Gereed!** In dit voorbeeld richt de slimme lijst zich nu alleen op leden van die lijst en evalueert ze op basis van andere regels die u opneemt.
-
+   Gereed! In dit voorbeeld richt de slimme lijst zich nu alleen op leden van die lijst en evalueert ze op basis van andere regels die u opneemt.
