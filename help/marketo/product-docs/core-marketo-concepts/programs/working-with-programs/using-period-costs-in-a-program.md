@@ -3,9 +3,9 @@ unique-page-id: 1147118
 description: Het gebruiken van de Kosten van de Periode in een Programma - Marketo Docs - de Documentatie van het Product
 title: Periode-kosten in een programma gebruiken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # Kosten van perioden gebruiken in een programma {#using-period-costs-in-a-program}
 
-Een [punt kosten](understanding-period-costs.md) is het bedrag u aan een programma uitgeeft. Het kan één of meerdere maanden zijn en wordt gebruikt voor het melden van ROI.
-
->[!NOTE]
->
->**Diep duiken**
->
-> Meer informatie over [Analyse van de opbrengstcyclus](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+Een [punt kosten](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md) is het bedrag u aan een programma uitgeeft. Het kan één of meerdere maanden zijn en wordt gebruikt voor het melden van ROI.
 
 ## Kosten voor periode {#add-a-period-cost} toevoegen
 
@@ -54,7 +48,8 @@ Een [punt kosten](understanding-period-costs.md) is het bedrag u aan een program
 ## Periode-kosten {#edit-a-period-cost} bewerken
 
 1. Als u meer of minder geld uitgeeft dan oorspronkelijk gepland, kunt u de periodekosten uitgeven.
-1. Ga naar het **Opstelling **lusje van uw programma.
+
+1. Ga naar **Opstelling** lusje van uw programma.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
@@ -76,17 +71,12 @@ Een [punt kosten](understanding-period-costs.md) is het bedrag u aan een program
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Klik op **Verwijderen **om te bevestigen.
+1. Klik **Verwijderen** om te bevestigen.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [Kosten voor tijdrekening](understanding-period-costs.md)
->* [Analyse van inkomstencyclus](http://docs.marketo.com/display/docs/revenue+cycle+analytics)
->* [Een programmarapport filteren op kosten van periode](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-
->
-
-
+>* [Kosten voor tijdrekening](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
+>* [Een programmarapport filteren op kosten van periode](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
 
