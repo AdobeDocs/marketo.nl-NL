@@ -3,9 +3,9 @@ unique-page-id: 1147122
 description: Leden beheren en weergeven - Marketo-documenten - Productdocumentatie
 title: Leden beheren en weergeven
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ U kunt uw leden in uw programma&#39;s beheren en bekijken gebruikend het lusje v
 
 >[!NOTE]
 >
->**Diep duiken**
->
-> Diveer dieper in [programmalidmaatschap](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Diveer dieper in [programmalidmaatschap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Zoeken naar een lid {#search-for-a-member}
 
@@ -41,21 +39,21 @@ U kunt de lijst met leden exporteren door op het Excel-pictogram naast het zoekv
 
 ## Kolommen beheren in het raster Leden {#manage-columns-in-the-members-grid}
 
-* Sleep kolommen om de volgorde te wijzigen. Het paar blauwe pijlen geven aan waar de kolom naartoe gaat.
+Sleep kolommen om de volgorde te wijzigen. Het paar blauwe pijlen geven aan waar de kolom naartoe gaat.
 
-   ![](assets/image2014-10-1-16-3a25-3a30.png)
+![](assets/image2014-10-1-16-3a25-3a30.png)
 
-* Klik met de rechtermuisknop op de kolomkop om alfabetisch te sorteren, in oplopende of aflopende volgorde.
+Klik met de rechtermuisknop op de kolomkop om alfabetisch te sorteren, in oplopende of aflopende volgorde.
 
-   ![](assets/image2014-10-1-17-3a3-3a28.png)
+![](assets/image2014-10-1-17-3a3-3a28.png)
 
 ## Kies welke kolommen zichtbaar zijn in het raster {#choose-which-columns-are-visible-in-the-grid}
 
-1. Klik op de vervolgkeuzelijst **Weergave **en selecteer **Weergave maken**.
+1. Klik op de vervolgkeuzelijst **Weergave** en selecteer **Weergave maken**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Geef een naam op voor de aangepaste weergave. Selecteer kolomtitels. Klik op** Toevoegen **en** Verwijderen **om kolommen te verplaatsen en een weergave te maken.
+1. Geef een naam op voor de aangepaste weergave. Selecteer kolomtitels. Klik **Add** en **Remove** om kolommen te verplaatsen en een mening tot stand te brengen.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -89,9 +87,4 @@ Zoveel functies, maar ze zijn allemaal vrij eenvoudig. Veel plezier!
 
 >[!MORELIKETHIS]
 >
->* [Een voortgangsrapport voor het programma maken](../../../../product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
-
->
-
-
-
+>[Een voortgangsrapport voor het programma maken](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
