@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Gebruikend de Persoonsdetailpagina - Marketo Docs - de Documentatie van het Product
 title: De detailpagina voor personen gebruiken
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,15 @@ De pagina met persoonlijke details bevat alle informatie die Marketo over een pe
 
 ## Aan persoonlijke detailpagina {#getting-to-person-detail-page} ophalen
 
-Er zijn veel manieren om specifieke mensen te openen. Enkele voorbeelden worden hieronder weergegeven.
+Er zijn veel manieren om specifieke mensen te openen. Enkele voorbeelden zijn:
 
->[!NOTE]
->
->**Voorbeeld**
->
->* Van **Database**, kunt u in de Snelle Vondst zoeken
->* Willekeurige slimme **lijst** of lijst
->* **** Programmalid
->* **Campagne-** leden weergeven in een slimme campagne
->* Sommige **rapporten**
+* Van **Database**, kunt u in de Snelle Vondst zoeken
+* Willekeurige slimme **lijst** of lijst
+* **** Programmalid
+* **Campagne-** leden weergeven in een slimme campagne
+* Sommige **rapporten**
 
->
-
-
+   <br> 
 
 1. Dubbelklik op een willekeurige persoon of klik op de id aan de linkerkant.
 
@@ -96,9 +90,7 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 
 >[!NOTE]
 >
->**Diep duiken**
->
->Sommige velden zijn *niet* bewerkbaar:
+>Sommige velden zijn _niet_ bewerkbaar:
 >
 >* Bedrijfsgegevens
 >* Mogelijkheden voor SFDC-contactpersonen
@@ -107,13 +99,8 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 
 >
 >
-Meer informatie over [Door het systeem beheerde velden](../../../../product-docs/administration/field-management/understanding-system-managed-fields.md).
+Meer informatie over [Door het systeem beheerde velden](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >
->* [Een aangepast tabblad maken voor de detailpagina voor personen](../../../../product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-
->
-
-
-
+>[Een aangepast tabblad maken voor de detailpagina voor personen](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
