@@ -3,7 +3,7 @@ unique-page-id: 1147150
 description: Tags gebruiken in een programma - Marketo Docs - Productdocumentatie
 title: Tags gebruiken in een programma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -61,7 +61,7 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
-1. Klik op **Verwijderen **om te bevestigen.
+1. Klik **Verwijderen** om te bevestigen.
 
    ![](assets/image2014-9-23-15-3a47-3a8.png)
 
