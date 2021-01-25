@@ -3,7 +3,7 @@ unique-page-id: 9438139
 description: Persoon toevoegen aan Lijst van afgewezen personen - Marketo Docs - Productdocumentatie
 title: Persoon toevoegen aan Lijst van afgewezen personen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -19,7 +19,8 @@ Als u mensen aan uw Lijst van afgewezen personen toevoegt, kunnen ze uw correspo
 >
 >Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van afgewezen personen en Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
 
-1. [Creeer een nieuw standaardprogramma ](../../../../product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) en noem het  **Toevoegen aan Lijst van afgewezen personen**.
+1. [Creeer een nieuw standaardprogramma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) en noem het  **Toevoegen aan Lijst van afgewezen personen**.
+
 1. Klik **Nieuw** en selecteer **Nieuw Lokaal element**.
 
    ![](assets/image2015-8-14-11-3a0-3a46.png)
@@ -72,5 +73,4 @@ Als u mensen aan uw Lijst van afgewezen personen toevoegt, kunnen ze uw correspo
 
    >[!TIP]
    >
-   >Maak een [trigger smart campagne](../../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) met **Gegevenswaarde wijzigen** met **Blok in de lijst is true** voor alle mensen in de toekomst die kenmerken hebben die geschikt zijn voor lijst van afgewezen personen.
-
+   >Maak een [trigger smart campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) met **Gegevenswaarde wijzigen** met **Blok in de lijst is true** voor alle mensen in de toekomst die kenmerken hebben die geschikt zijn voor lijst van afgewezen personen.
