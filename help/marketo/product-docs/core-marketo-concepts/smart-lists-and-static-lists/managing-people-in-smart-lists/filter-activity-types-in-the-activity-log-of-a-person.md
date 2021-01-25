@@ -3,9 +3,9 @@ unique-page-id: 2952402
 description: Typen filteractiviteiten in het activiteitenlog van een persoon - Marketo-documenten - Productdocumentatie
 title: De Types van Activiteit van de filter in het Activiteitenlogboek van een Persoon
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Zoek naar activiteiten die het belangrijkst voor u in het activiteitenlogboek zi
 
 >[!NOTE]
 >
->**Diep duiken**
->
->Meer informatie over [het activiteitenlog](locate-the-activity-log-for-a-person.md).
+>Meer informatie over [het activiteitenlog](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md).
 
 1. Ga naar de pagina **Details persoon**. Klik op het tabblad **Activiteitenlog**.
 
@@ -58,4 +56,3 @@ Opgeslagen filters zijn toegankelijk via de vervolgkeuzelijst **Filter**.
 1. Klik **Opgeslagen filters**. Opgeslagen filters worden hieronder weergegeven.
 
    ![](assets/eight.png)
-
