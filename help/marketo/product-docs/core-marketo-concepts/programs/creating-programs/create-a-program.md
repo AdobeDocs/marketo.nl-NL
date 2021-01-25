@@ -3,9 +3,9 @@ unique-page-id: 1147095
 description: Een programma maken - Marketo Docs - Productdocumentatie
 title: Een programma maken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,14 @@ Programma&#39;s zijn een van de belangrijkste elementen van Marketo. Je gebruikt
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer de map voor het nieuwe programma. Selecteer **Nieuw** en klik **Nieuw Programma****.**
+1. Selecteer de map voor het nieuwe programma. Selecteer **Nieuw** en klik **Nieuw Programma**.
 
    ![](assets/leadlifecycle.jpg)
 
-1. Voer een **Naam****,** een ** [Kanaal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** in de vervolgkeuzelijst in en klik op **Maken.**
+1. Voer een **Naam** in, selecteer een **[Kanaal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** in de vervolgkeuzelijst en klik op **Maken**.
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Diep duiken**
->
->Meer informatie over [programma&#39;s](http://docs.marketo.com/display/docs/programs).
-
+>[Programmen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) begrijpen.
