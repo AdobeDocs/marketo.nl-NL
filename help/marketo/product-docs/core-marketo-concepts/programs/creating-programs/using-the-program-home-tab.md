@@ -3,9 +3,9 @@ unique-page-id: 1147126
 description: Het gebruiken van het Lusje van het Huis van het Programma - Marketo Dos - de Documentatie van het Product
 title: Het tabblad Start van het programma gebruiken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
    >
    >Dit is uw standaardweergave. Het verstrekt informatie over uw Montages, Programma, Resultaten, en Status van het Programma van Leden.
 
-   Klik op onderstreepte elementen om wijzigingen aan te brengen of meer informatie weer te geven.
+1. Klik op onderstreepte elementen om wijzigingen aan te brengen of meer informatie weer te geven.
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-   Klik op Exporteren onder aan het rapport Overzicht om het te downloaden.
+1. Klik **Exporteren** bij de bodem van het Samenvatting om rapport te downloaden.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -69,12 +69,6 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
    >
    >**Met** Historie wordt iedereen bedoeld die het programma ooit heeft doorlopen, terwijl  **** momenteel alleen mensen in het programma zijn opgenomen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Werken met het lidmaatschap van het programma](understanding-program-membership.md)
-
-
+   >[Werken met het lidmaatschap van het programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
