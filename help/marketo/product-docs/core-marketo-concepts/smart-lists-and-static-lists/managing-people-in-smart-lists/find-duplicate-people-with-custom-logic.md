@@ -3,7 +3,7 @@ unique-page-id: 2952636
 description: Zoek naar dubbele mensen met aangepaste logica - Marketo Docs - Productdocumentatie
 title: Dubbele mensen zoeken met aangepaste logica
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -17,21 +17,17 @@ Marketo heeft een systeem slimme lijst die dubbele mensen door hun e-mailadresse
 
 >[!PREREQUISITES]
 >
->* [Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
->
-
-
-
-1. Ga naar het gebied Marketingactiviteiten.
+1. Ga naar **Marketing Activities** gebied.
 
 ![](assets/ma-2.png)
 
-1. Selecteer de slimme lijst en klik op het tabblad Slimme lijst.
+1. Selecteer uw slimme lijst, klik op **Slimme Lijst** tabel.
 
    ![](assets/two-4.png)
 
-1. Zoek en sleep het filter Velden dupliceren naar het canvas.
+1. Zoek en sleep het filter **Velden dupliceren** naar het canvas.
 
    ![](assets/three-4.png)
 
@@ -45,4 +41,3 @@ Marketo heeft een systeem slimme lijst die dubbele mensen door hun e-mailadresse
    ![](assets/four-2.png)
 
    Gereed! Voer de slimme lijst uit om mensen met dezelfde waarde te zoeken in het eerder geselecteerde veld.
-
