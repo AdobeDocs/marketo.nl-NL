@@ -3,9 +3,9 @@ unique-page-id: 2953405
 description: Instellingen voor analysegedrag bewerken - Marketo Docs - Productdocumentatie
 title: Instellingen van gedrag voor analyse bewerken
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Instellingen voor gedrag van analyse bewerken {#edit-analytics-behavior-settings}
 
-U kunt het [analytische gedrag op het admin niveau op kanalen ](../../../../product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) plaatsen, maar u kunt het ook op het programmaniveau uitgeven. Zo gaat het.
+U kunt het [analytische gedrag op het admin niveau op kanalen ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) plaatsen, maar u kunt het ook op het programmaniveau uitgeven. Zo gaat het.
 
-1. Ga naar Marketing Activiteiten.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ U kunt het [analytische gedrag op het admin niveau op kanalen ](../../../../prod
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Sleep Gedrag Analytics onder het tabblad Setup naar het canvas.
+1. Sleep Analysegedrag onder het tabblad Setup naar het canvas.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -35,18 +35,15 @@ U kunt het [analytische gedrag op het admin niveau op kanalen ](../../../../prod
 >
 >**Definitie**
 >
->* Inclusief - Deze optie zorgt ervoor dat het programma beschikbaar is voor rapportage in de belastingverkenner en -analyseapparatuur, ongeacht of u kosten voor een periode hebt opgenomen.
->* Operationeel - Deze optie leidt ertoe dat het programma noch in de ontdekkingsreiziger van de opbrengst noch in analysatoren verschijnt.
-
+>**Inclusief**  - Deze optie zorgt ervoor dat het programma beschikbaar is voor rapportage in de inkomstenverkenner en analyseapparatuur, ongeacht of u een periode hebt opgenomen of niet.
 >
-
-
+>**Operationeel**  - Deze optie leidt ertoe dat het programma noch in de ontdekkingsreiziger noch in analysatoren van de opbrengst verschijnt.
 
 >[!NOTE]
 >
 >Het standaardgedrag (als deze instelling niet wordt toegepast) is dat het programma ALLEEN in Analytics wordt opgenomen als er ten minste één periode is, zelfs als er een periode is toegewezen die nul dollar bevat.
 
-1. Klik op Opslaan.
+1. Klik **Opslaan**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
@@ -54,7 +51,4 @@ Echt waar! Nu weet u hoe u het analysegedrag op programmaniveau kunt negeren.
 
 >[!NOTE]
 >
->**Herinnering**
->
 >De wijzigingen worden de volgende dag van kracht en het programma wordt ofwel beschikbaar gesteld ofwel uit de inkomstenverkenner en -analysatoren gehaald.
-
