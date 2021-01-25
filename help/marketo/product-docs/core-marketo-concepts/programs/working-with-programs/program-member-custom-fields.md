@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Aangepaste velden voor programmalid - Marketo Docs - Productdocumentatie
 title: Aangepaste velden voor programmalid
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens vo
 
    >[!NOTE]
    >
-   >Ondersteunde typen voor aangepaste velden voor programmaleden zijn: boolean, date, datetime, float, integer, string, URL. [Meer informatie over veldtypen](http://docs.marketo.com/x/Wwgt).
+   >Ondersteunde typen voor aangepaste velden voor programmaleden zijn: boolean, date, datetime, float, integer, string, URL. [Meer informatie over veldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
 ## Objectbeschrijvingen {#object-descriptions}
 
@@ -56,7 +56,7 @@ Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens vo
 
 ## Triggers en filters {#triggers-and-filters}
 
-U kunt deze programmaspecifieke gegevens in slimme lijsten gebruiken via [triggers](http://docs.marketo.com/x/PoAR)en/of [filters](http://docs.marketo.com/x/2YAI).
+U kunt deze programmaspecifieke gegevens in slimme lijsten gebruiken via [triggers](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md) en/of [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md).
 
 ![](assets/six.png)
 
@@ -68,10 +68,9 @@ U kunt deze programmaspecifieke gegevens in slimme lijsten gebruiken via [trigge
 * Het programmalidobject kan maximaal 20 aangepaste velden hebben. Deze velden zijn beschikbaar voor elk programma.
 * Wanneer u een lid van een programma verwijdert, als zij om het even welke gegevens op hun de douanegebied van het Lid van het Programma hebben, zullen de gegevens van dat gebied worden geschaad.
 * Als u de gegevens wilt weergeven, klikt u op het tabblad Leden in het programma en maakt u een aangepaste weergave met de desbetreffende velden.
-* Importeren en exporteren via [list](http://docs.marketo.com/x/egAk)en [API](http://developers.marketo.com/)worden ondersteund.
+* Importeren en exporteren via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)en [API](https://developers.marketo.com/) worden ondersteund.
 * Wanneer u twee personen samenvoegt, worden de aangepaste veldgegevens van het Lid van het Programma van de winnaar gebruikt. Maar als de winnaar er geen heeft, wordt de waarde van de verliezer gebruikt.
 
 >[!MORELIKETHIS]
 >
->[Een aangepast veld maken in Marketo](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
-
+>[Een aangepast veld maken in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
