@@ -3,9 +3,9 @@ unique-page-id: 1147152
 description: Element klonen in een programma - Marketo Docs - Productdocumentatie
 title: Element klonen in een programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Element klonen in een programma {#clone-an-asset-in-a-program}
 
-Door een programma te klonen wordt *alles* gekloond. Soms wilt u maar één element klonen. Zo gaat het.
+Door een programma te klonen wordt _alles_ gekloond. Soms wilt u maar één element klonen. Zo gaat het.
 
 >[!NOTE]
 >
->U zult extra stappen moeten uitvoeren om [een de testgroep van de landingspagina te klonen](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
+>U zult extra stappen moeten uitvoeren om [een de testgroep van de landingspagina te klonen](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md).
 
 ## Een lokaal element klonen {#clone-a-local-asset}
 
@@ -33,7 +33,7 @@ Door een programma te klonen wordt *alles* gekloond. Soms wilt u maar één elem
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Elk type element heeft een ander dialoogvenster. Vul eenvoudig de info in en klik **Klonen.**
+1. Elk type element heeft een ander dialoogvenster. Vul eenvoudig de info in en klik **Klonen**.
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
@@ -47,10 +47,4 @@ Door een programma te klonen wordt *alles* gekloond. Soms wilt u maar één elem
 
    >[!NOTE]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Een programma klonen](clone-a-program.md)
-
-
+   >[Een programma klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md)
