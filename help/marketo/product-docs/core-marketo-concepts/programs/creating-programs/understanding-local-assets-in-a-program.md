@@ -3,9 +3,9 @@ unique-page-id: 1147093
 description: Lokale elementen in een programma begrijpen - Marketo Docs - Productdocumentatie
 title: Lokale elementen in een programma begrijpen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -21,20 +21,19 @@ Lokale elementen zijn de inhoud die deel uitmaakt van uw programma. De activa zi
 >
 >Niet alle klanten hebben toegang tot elk beschikbaar middel. Neem contact op met uw accountvertegenwoordiger voor meer informatie.
 
-* [Slimme campagnes](http://docs.marketo.com/display/docs/smart+campaigns)
-* [Lijsten](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
-* [Slimme lijsten en statische lijsten](http://docs.marketo.com/display/docs/smart+lists+and+static+lists)
-* [Rapport](http://docs.marketo.com/display/docs/basic+reporting)
-* [E-mailprogramma&#39;s](http://docs.marketo.com/display/docs/email+programs)
-* [E-mail](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-* [Pushmeldingen](http://docs.marketo.com/display/docs/push+notifications)
-* [Openingspagina](http://docs.marketo.com/display/docs/landing+pages)
-* [Forms](http://docs.marketo.com/display/docs/forms)
-* [Testgroep](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
-* [Sociale knop](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
-* [Youtube-video](../../../../product-docs/demand-generation/social/social-functions/add-a-video.md)
-* [Opiniepeiling](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
-* [Verwijzingsvoorstel](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-* [Krenkte](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
-* [SMS-berichten van Vibes](http://docs.marketo.com/display/docs/vibes+sms+messages)
-
+* [Slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
+* [Lijsten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
+* [Slimme lijsten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+* [Rapport](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+* [E-mailprogramma&#39;s](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)
+* [E-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+* [Pushmeldingen](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+* [Openingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
+* [Forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
+* [Testgroep](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
+* [Sociale knop](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
+* [Youtube-video](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md)
+* [Opiniepeiling](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
+* [Verwijzingsvoorstel](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+* [Krenkte](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
+* [SMS-berichten van Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
