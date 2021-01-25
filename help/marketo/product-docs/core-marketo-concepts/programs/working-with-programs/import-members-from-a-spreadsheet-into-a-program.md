@@ -3,7 +3,7 @@ unique-page-id: 1147120
 description: Leden uit een werkblad importeren in een programma - Marketo Docs - Productdocumentatie
 title: Leden uit een werkblad importeren in een programma
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -23,7 +23,7 @@ U kunt een lijst importeren van personen die automatisch lid worden van een prog
 
    >[!CAUTION]
    >
-   >Wanneer u een datum in een datumveld importeert, gebruikt u de volgende notatie: 23-09-13 (maand/dag/jaar).
+   >Wanneer u een datum in een datumveld importeert, gebruikt u de volgende notatie: 29-09-13 (maand/dag/jaar).
 
 ## CSV importeren in markeerteken {#import-your-csv-into-marketo}
 
@@ -65,9 +65,4 @@ U kunt een lijst importeren van personen die automatisch lid worden van een prog
 
 >[!MORELIKETHIS]
 >
->* [Leden beheren en weergeven](manage-and-view-members.md)
-
->
-
-
-
+>[Leden beheren en weergeven](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
