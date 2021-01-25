@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Een programma importeren - Marketo Docs - Productdocumentatie
 title: Een programma importeren
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -21,16 +21,15 @@ Een programma kan van één abonnement van Marketo in een andere worden ingevoer
 
    ![](assets/ma.png)
 
-1. Klik **Nieuw **drop-down. Selecteer **Programma importeren**.
+1. Klik **Nieuw** drop-down. Selecteer **Programma importeren**.
 
    ![](assets/image2014-9-17-12-3a15-3a4.png)
 
    >[!NOTE]
    >
-   >De Invoer van het programma is slechts beschikbaar voor gebruikers die rollen hebben met toegelaten de toestemming van het Programma van de Invoer. Meer informatie over [het beheren van gebruikersrollen en toestemmingen](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+   >De Invoer van het programma is slechts beschikbaar voor gebruikers die rollen hebben met toegelaten de toestemming van het Programma van de Invoer. Meer informatie over [het beheren van gebruikersrollen en toestemmingen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >
-   >Neem contact op met [Marketo Support](http://www.marketo.com/services/support/) om een sandboxaccount te verbinden met uw live abonnement.
+   >Neem contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om een sandboxaccount te verbinden met uw live abonnement.
 
 1. Selecteer een Marketo **Abonnement** en een programma om in te voeren. Klik **Volgende**.
 
@@ -42,7 +41,7 @@ Een programma kan van één abonnement van Marketo in een andere worden ingevoer
 
    >[!NOTE]
    >
-   >Zorg ervoor ** ****De standaard collisieregels van het gebruik** wordt geselecteerd. Conflictregels zijn nodig wanneer u programma&#39;s importeert in een instantie met elementen met dezelfde naam.
+   >Zorg ervoor **De standaardcollisieregels van het gebruik** wordt geselecteerd. Conflictregels zijn nodig wanneer u programma&#39;s importeert in een instantie met elementen met dezelfde naam.
 
 1. Geef een voorvertoning weer van details en **Importeer** het programma.
 
@@ -77,7 +76,7 @@ De Marketo-programmabibliotheek bevat vooraf gebouwde, geteste programma&#39;s d
 1. **Synchroniseer Nieuwe personen met CRM.** De campagne die nieuwe mensen aan uw systeem van CRM synchroniseert. Het wijst een persoonstatus toe zodat het als niet verkoopklaar wordt erkend.
 1. **Webinar met de Adapter van de Gebeurtenis.** Een volledige reeks e-mailberichten - zoals uitnodigingen en herinneringen - plus landingspagina&#39;s met formulieren en campagnes om mensen door het programma te bewegen. Dit programma krijgt updates over registratie, aanwezigheid, enz. van online gebeurtenisleveranciers zoals WebEx.
 1. **Webinar zonder gebeurtenisadapter.** Hetzelfde als hierboven, maar met handmatige registratieprocedures, aanwezigheid enz.
-1. **Scoreprogramma** voor Sirius-besluiten. Dit programma is opgezet ter ondersteuning van het standaardmodel voor Sirius-besluiten met score, inclusief de impliciete en expliciete scores en de gematrixeerde personentaak. Deze PDF [weergeven](http://docs.marketo.com/display/docs/assets/sirius-decisions-scoring-program-overview.pdf)voor meer informatie.
+1. **Scoreprogramma** voor Sirius-besluiten. Dit programma is opgezet ter ondersteuning van het standaardmodel voor Sirius-besluiten met score, inclusief de impliciete en expliciete scores en de gematrixeerde personentaak.
 
 >[!CAUTION]
 >
@@ -87,24 +86,20 @@ De Marketo-programmabibliotheek bevat vooraf gebouwde, geteste programma&#39;s d
 
 De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, landende paginasjablonen, beelden, vormen, tekenen, en programmalabels. U hebt de capaciteit om te vormen hoe het landen paginasjablonen en programmamarkeringen worden behandeld, en Marketo beheert automatisch de rest.
 
-**E-mailsjablonen: **E-mailsjablonen worden automatisch geïmporteerd en gemaakt, tenzij er een sjabloon met dezelfde naam bestaat.
+**E-mailsjablonen:** E-mailsjablonen worden automatisch geïmporteerd en gemaakt, tenzij er een sjabloon met dezelfde naam bestaat.
 
-**Templates voor bestemmingspagina: **Sjablonen voor de landingspagina worden geïmporteerd in de ontwerpstudio. U kunt collisieregels gebruiken om gedrag te vormen wanneer een malplaatje met de zelfde naam bestaat. Gebruikend de standaardregel, zal een aantal aan een het landen paginamalplaatje worden toegevoegd als één met de zelfde naam bestaat. Er wordt bijvoorbeeld een sjabloon voor een landingspagina met de naam Standaardsjabloon 1 gemaakt als er een sjabloon met de naam Standaardsjabloon bestaat.
+**Landingspaginasjablonen:sjablonen voor** landingspagina&#39;s worden geïmporteerd in de ontwerpstudio. U kunt collisieregels gebruiken om gedrag te vormen wanneer een malplaatje met de zelfde naam bestaat. Gebruikend de standaardregel, zal een aantal aan een het landen paginamalplaatje worden toegevoegd als één met de zelfde naam bestaat. Er wordt bijvoorbeeld een sjabloon voor een landingspagina met de naam Standaardsjabloon 1 gemaakt als er een sjabloon met de naam Standaardsjabloon bestaat.
 
-**Afbeeldingen: **Afbeeldingen die door bestemmingspagina&#39;s worden gebruikt, worden ingevoerd in de ontwerpstudio tenzij er één met dezelfde naam bestaat.
+**Afbeeldingen:** Afbeeldingen die door bestemmingspagina&#39;s worden gebruikt, worden geïmporteerd in de ontwerpstudio, tenzij er een met dezelfde naam bestaat.
 
-**Tokens: **Tokens die buiten een programma wonen zullen in lokale tokens tijdens het de invoerproces worden omgezet.
-
->[!CAUTION]
->
->Afbeeldingstype mijn tokens worden niet ondersteund voor het importeren van programma&#39;s. Als een programma met beeldtype mijn tokens wordt ingevoerd, **no **tokens zal door komen.
-
-**Programmatags: **U kunt collisieregels gebruiken om te controleren hoe de programmamarkeringen die niet in de bestemmingsrekening bestaan zullen worden behandeld. Als u de standaardregel gebruikt, worden de programmacodes gemaakt of kunt u de codes negeren.  **Forms: **Externe formulieren worden automatisch in de ontwerpstudio geïmporteerd, tenzij er een met dezelfde naam bestaat.
+**Tokens:** tokens die buiten een programma leven, worden tijdens het importeren naar lokale tokens geconverteerd.
 
 >[!CAUTION]
 >
->Tijdens het importeren van een programma worden bestemmingspagina&#39;s/e-mails met [dynamische inhoud](http://docs.marketo.com/x/yRAt) overgeslagen.
+>Afbeeldingstype mijn tokens worden niet ondersteund voor het importeren van programma&#39;s. Als een programma met beeldtype mijn tokens wordt ingevoerd, **geen** tokens zullen door komen.
 
-## Bekijk een video {#watch-a-video}
+**Programmatags:** u kunt conflictregels gebruiken om te bepalen hoe programmalabels die niet in de doelaccount bestaan, worden behandeld. Als u de standaardregel gebruikt, worden de programmacodes gemaakt of kunt u de codes negeren. **Forms:** Externe formulieren worden automatisch geïmporteerd in de ontwerpstudio, tenzij er een formulier met dezelfde naam bestaat.
 
-`<iframe width="630" height="470" src="//play.vidyard.com/KgvZssZ9WRkZgDsY1yZfms.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+>[!CAUTION]
+>
+>Tijdens het importeren van een programma worden bestemmingspagina&#39;s/e-mails met [dynamische inhoud](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) overgeslagen.
