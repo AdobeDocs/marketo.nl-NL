@@ -3,7 +3,7 @@ unique-page-id: 557331
 description: Alle mensen zoeken in een inkomstenpodium - Marketo Docs - Productdocumentatie
 title: Alle personen zoeken in een omzettingsfase
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-
->
-
-
+>[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 ## Alle leden van een specifieke inkomstenwerkgebied zoeken {#find-all-members-of-a-specific-revenue-stage}
 
-1. Klik in een slimme lijst op het tabblad **Slimme lijst **, zoek het filter **Werkgebied ophalen** en sleep het naar het canvas.
+1. Klik in een slimme lijst op het tabblad **Slimme lijst**, zoek het filter **Werkgebied ophalen** en sleep het naar het canvas.
 
    ![](assets/draginrevenuefilter.png)
 
@@ -44,4 +40,3 @@ Nu u weet in welke inkomstenstadia de mensen zich bevinden, kunt u ze rechtstree
    ![](assets/six.png)
 
    Van daar kunt u kiezen welke leden door welk aspect van de stroomstap worden beïnvloed. Plezier!
-
