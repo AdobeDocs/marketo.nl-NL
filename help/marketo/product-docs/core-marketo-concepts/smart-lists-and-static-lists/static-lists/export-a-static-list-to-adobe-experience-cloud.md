@@ -3,9 +3,9 @@ unique-page-id: 37356194
 description: Een statische lijst exporteren naar Adobe Experience Cloud - Marketo Docs - Productdocumentatie
 title: Een statische lijst exporteren naar Adobe Experience Cloud
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Adobe Experience Cloud-publiek delen instellen](http://docs.marketo.com/x/D4GMAg)
+>[Adobe Experience Cloud-publiek delen instellen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## Ondersteunde doeltoepassingen {#supported-destination-applications}
 
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **Delen naar Adobe Analytics**
 
-Voor klanten die zowel Adobe Audience Manager als Adobe Analytics bezitten, zal deze integratie toelaten om publiek van Marketo aan uw Suites van het Rapport van Adobe Analytics te delen, nochtans zijn er sommige extra configuratiestappen die in Adobe Audience Manager moeten worden genomen om dit toe te laten. Raadpleeg de documentatie bij Adobe Audience Manager voor meer informatie over het instellen van deze instelling: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](http://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Voor klanten die zowel Adobe Audience Manager als Adobe Analytics bezitten, zal deze integratie toelaten om publiek van Marketo aan uw Suites van het Rapport van Adobe Analytics te delen, nochtans zijn er sommige extra configuratiestappen die in Adobe Audience Manager moeten worden genomen om dit toe te laten. Raadpleeg de documentatie bij Adobe Audience Manager voor meer informatie over het instellen van deze instelling: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Trait-gebruik voor Adobe Audience Manager-klanten**
 
@@ -80,4 +80,4 @@ Onder de kap werkt de publieksintegratie door Marketo Munchkin-cookies te synchr
 
 Wanneer de cookiesync voor uw Abonnement van het Marketo wordt toegelaten, zal Marketo&#39;s munchkin.js proberen om Adobe ECIDs voor de Adobe IMS van de Org te vangen en op te slaan u tijdens de integratieopstelling specificeerde en deze ECIDs aan het overeenkomstige koekjesherkenningsteken van het Marketo aanpas. Hierdoor kunnen de anonieme gebruikersprofielen van Marketo worden verrijkt met Adobe ECID&#39;s.
 
-Een volgende stap is vereist om het anonieme gebruikersprofiel aan een Profiel van de Lood te associëren, dat gebruikend een gewone tekst e-mail wordt geïdentificeerd. Hier wordt precies beschreven hoe dit werkt: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](http://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
+Een volgende stap is vereist om het anonieme gebruikersprofiel aan een Profiel van de Lood te associëren, dat gebruikend een gewone tekst e-mail wordt geïdentificeerd. Hier wordt precies beschreven hoe dit werkt: [https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People](https://docs.marketo.com/display/public/DOCS/Tracking+Anonymous+Activity+and+People).
