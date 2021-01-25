@@ -3,9 +3,9 @@ unique-page-id: 5472404
 description: Zoek het activiteitenlog voor een persoon - Marketo Docs - Productdocumentatie
 title: Zoek het activiteitenlog voor een persoon
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Het activiteitenlogboek is de ultieme bron van waarheid. Dit is het complete verhaal van de reis van een persoon in Marketo.
 
-1. Ga naar de** Database*.
+1. Ga naar **Database**.
 
    ![](assets/db-2.png)
 
@@ -35,10 +35,6 @@ Het activiteitenlogboek is de ultieme bron van waarheid. Dit is het complete ver
 
    ![](assets/five-2.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >
-   >Meer informatie over [het filtreren van het activiteitenlogboek](filter-activity-types-in-the-activity-log-of-a-person.md)om specifieke persoonactiviteiten te zien.
-
+   >Meer informatie over [het filtreren van het activiteitenlogboek](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md)om specifieke persoonactiviteiten te zien.
