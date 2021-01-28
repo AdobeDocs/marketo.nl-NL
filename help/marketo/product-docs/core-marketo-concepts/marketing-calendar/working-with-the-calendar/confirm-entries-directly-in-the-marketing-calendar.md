@@ -3,7 +3,7 @@ unique-page-id: 2953362
 description: Vermeldingen rechtstreeks bevestigen in de marketingkalender - Marketo Docs - Productdocumentatie
 title: Vermeldingen rechtstreeks bevestigen in de marketingkalender
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Slimme campagnes en e-mailprogramma&#39;s kunnen worden gecreëerd als tijdelijk
    Met Bevestigen wordt een reeks validatieprocessen uitgevoerd en als alles wordt uitgecheckt, wordt de vermelding bevestigd.
 
    ![](assets/image2014-10-20-13-3a22-3a36.png)
-
