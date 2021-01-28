@@ -3,9 +3,9 @@ unique-page-id: 1147100
 description: Navigeren in de overzichtsweergave van het programma - Marketo Docs - Productdocumentatie
 title: Navigeren door de programmaweergave
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Hier zijn de grondbeginselen om u te helpen de mening van het programmaprogramma
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   Groovy. Nu bekijkt u de planningsmening van uw programma.
+   Nu bekijkt u de planningsmening van uw programma.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -33,7 +33,8 @@ Hier zijn de grondbeginselen om u te helpen de mening van het programmaprogramma
 >
 >De programmaweergave blijft ongewijzigd. Nadat u deze hebt ingesteld, worden alle programma&#39;s standaard ingesteld op de overzichtsweergave.
 
-1. Schakelen tussen ingangen
+## Schakelen tussen items {#switching-between-entries}
+
 1. Klik in de invoerdetails op de pijlen om naar de volgende geplande invoer te gaan.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
@@ -42,7 +43,8 @@ Hier zijn de grondbeginselen om u te helpen de mening van het programmaprogramma
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
-1. Contextmenu weergeven
+## Contextmenu weergeven {#view-context-menu}
+
 1. Klik met de rechtermuisknop op een programma om wijzigingen aan te brengen in Programma, Slimme lijst, Setup, Mijn tokens of Leden.
 
    ![](assets/image2014-9-17-11-3a39-3a59.png)
@@ -63,9 +65,4 @@ Geweldig! Nu je weet hoe je je programma kunt bekijken, leren we de andere coole
 
 >[!MORELIKETHIS]
 >
->* [Het creëren van een Ingang in de Mening van het Programma](creating-an-entry-in-the-program-schedule-view.md)
-
->
-
-
-
+>[Het creëren van een Ingang in de Mening van het Programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md)
