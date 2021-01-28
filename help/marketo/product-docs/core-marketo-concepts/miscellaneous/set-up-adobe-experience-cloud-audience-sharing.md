@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Adobe Experience Cloud Audience Sharing instellen - Marketo Docs - Productdocumentatie
 title: Adobe Experience Cloud-publiek delen instellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Als u publieksgegevens wilt delen met uw Adobe-toepassingen, moet u eerst uw Ado
 
    ![](assets/three-2.png)
 
-1. Voer uw Adobe IMS-organisatie-id in (leer hoe u dat [hier](http://docs.adobe.com/content/help/en/control-panel/using/faq.html) vindt) en klik op **OK**.
+1. Voer uw Adobe IMS-organisatie-id in (leer hoe u dat [hier](https://docs.adobe.com/content/help/en/control-panel/using/faq.html) vindt) en klik op **OK**.
 
    ![](assets/four-2.png)
 
@@ -47,7 +47,6 @@ Als u publieksgegevens wilt delen met uw Adobe-toepassingen, moet u eerst uw Ado
    >
    >Om veiligheidsredenen, moet u een Admin van de Org voor de Organisatie van de Adobe zijn die u aan in kaart wilt brengen. Als je dat niet bent, zal de actie mislukken.
 
-1. Als u *niet* reeds het programma wordt geopend, zal pop-up in een nieuw lusje/venster verschijnen. Meld u aan bij uw Adobe org (deze bewerking valideert de toegang tot de org).
+1. Als u _niet_ reeds het programma wordt geopend, zal pop-up in een nieuw lusje/venster verschijnen. Meld u aan bij uw Adobe org (deze bewerking valideert de toegang tot de org).
 
-   En dat is het! U kunt nu [beginnen publieksgegevens te delen](http://docs.marketo.com/x/ogI6Ag).
-
+   En dat is het! U kunt nu [beginnen publieksgegevens te delen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md).
