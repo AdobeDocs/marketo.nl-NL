@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: Kennisgevingen - Marketo Docs - Productdocumentatie
 title: Kennisgevingen
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -35,7 +35,7 @@ U kunt zich abonneren op meldingen om deze in uw e-mail te ontvangen.
 
 1. Selecteer het berichttype en voer het e-mailadres of de e-mailadressen in waarnaar meldingen moeten worden verzonden.
 
-![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/image2014-10-10-13-3a0-3a37.png)
 
 >[!NOTE]
 >
@@ -44,4 +44,3 @@ U kunt zich abonneren op meldingen om deze in uw e-mail te ontvangen.
 >[!TIP]
 >
 >Wil je je niet meer abonneren op e-mailberichten? Geen probleem. Klik eenvoudig **unsubscribe van Notifications** verbinding bij de bodem van e-mail.
-
