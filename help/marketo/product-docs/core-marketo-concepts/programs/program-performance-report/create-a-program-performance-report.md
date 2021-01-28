@@ -3,9 +3,9 @@ unique-page-id: 1147129
 description: Maak een rapport over de prestaties van het programma - Marketo Docs - Productdocumentatie
 title: Een voortgangsrapport voor het programma maken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Bekijk de grote statistieken over uw programma&#39;s met dit rapport.
 
-1. [Maak een rapport in een ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programma en selecteer het type **** [Program ](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md)PerformanceReport.
+1. [Maak een rapport in een ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programma en selecteer het type **** [Program ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)PerformanceReport.
 1. Klik op het tabblad **Rapport**.
 1. Je bent er! Verken uw rapport om te zien hoe uw programma&#39;s werken.
 
@@ -23,7 +23,7 @@ Bekijk de grote statistieken over uw programma&#39;s met dit rapport.
 
 >[!TIP]
 >
->Als u de programma&#39;s wilt zoeken met de laagste *Kosten per succes*, sorteert u bijvoorbeeld [rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) op die kolom en kiest u **Sorteren in oplopende**.
+>Als u de programma&#39;s wilt zoeken met de laagste *Kosten per succes*, sorteert u bijvoorbeeld [rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) op die kolom en kiest u **Sorteren in oplopende**.
 
 De kolommen in een rapport van de Prestaties van het Programma omvatten:
 
@@ -53,10 +53,3 @@ De kolommen in een rapport van de Prestaties van het Programma omvatten:
   </tr> 
  </tbody> 
 </table>
-
->[!NOTE]
->
->**Diep duiken**
->
->Meer informatie vindt u in [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
-
