@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: Navigeren door de marketingkalender - Marketo Docs - Productdocumentatie
 title: Navigeren door de marketingkalender
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ U kunt gemakkelijk in de marketingkalender navigeren, maar dan wel één, twee, 
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u een [licentie van de Kalender van de Marketing](issue-revoke-a-marketing-calendar-license.md) - anders zal de tegel van de Kalender van de Marketing niet in Mijn Marketo verschijnen.
+>Zorg ervoor u een [licentie van de Kalender van de Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - anders zal de tegel van de Kalender van de Marketing niet in Mijn Marketo verschijnen.
 
 1. Ga naar **Marketingkalender**.
 
@@ -39,9 +39,7 @@ In de weergave Agenda worden al uw items als een lijst weergegeven.
 
 1. Klik op de vervolgkeuzelijst **Filter**.
 
-   ` ![](assets/image2014-9-26-10-3a29-3a6.png)
-
-   `
+   ![](assets/image2014-9-26-10-3a29-3a6.png)
 
 1. Selecteer de weergave **Agenda**.
 
@@ -67,9 +65,6 @@ U kunt ook deze sneltoetsen gebruiken.
 
 Geweldig! Dit zijn de basisbeginselen. U kunt de weergave ook met filters aanpassen.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [De marketingkalender filteren](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
-
+>[De marketingkalender filteren](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
