@@ -3,7 +3,7 @@ unique-page-id: 10093348
 description: Slimme camerakaarten begrijpen - Marketo Docs - Productdocumentatie
 title: Slimme camerakaarten
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
@@ -26,6 +26,7 @@ Voor toekomstige slimme campagnes die gepland maar nog niet in werking zijn gest
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
 1. Met de detailkaart hebt u toegang tot informatie over de filters Slimme lijst, Stroom en E-mailoverzicht.
+
 1. Tik **Slimme lijst**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
@@ -66,7 +67,7 @@ Het is een goed idee om een e-mail te bekijken voordat het naar buiten gaat. Of 
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tik [Voorbeeld verzenden](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) of [Voorbeeld van e-mail](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klik op deze koppelingen voor meer informatie).
+1. Tik [Voorbeeld verzenden](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) of [Voorbeeld van e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (klik op deze koppelingen voor meer informatie).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -128,9 +129,9 @@ U kunt een bevestigde slimme campagne opnieuw plannen die nog niet is gestart.
 
 Net als bij andere Marketo Moments-kaarten kunt u op de drie punten op elke Smart Campagne-kaart of op de detailkaart tikken:
 
-* [Maak er een favoriet van](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Markeren als voltooid](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Delen](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Maak er een favoriet van](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Markeren als voltooid](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Delen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 ![](assets/image2015-9-21-14-3a38-3a19.png)
 
