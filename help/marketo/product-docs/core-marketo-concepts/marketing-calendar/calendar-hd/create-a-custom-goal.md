@@ -3,7 +3,7 @@ unique-page-id: 7504130
 description: Een aangepast doel maken - Marketo Docs - Productdocumentatie
 title: Een aangepast doel maken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De doelstellingen zijn manieren om vooruitgang te volgen en uw team te motiveren. Nadat u ze hebt gemaakt, moeten ze handmatig worden bijgewerkt.
 
-Net als presentaties zijn de doelstellingen [werkruimte](../../../../product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifiek.
+Net als presentaties zijn de doelstellingen [werkruimte](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifiek.
 
 1. Ga naar **Kalender**.
 
@@ -25,7 +25,7 @@ Net als presentaties zijn de doelstellingen [werkruimte](../../../../product-doc
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Selecteer de tab** Goals**.
+1. Selecteer het tabblad **Doelen**.
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
@@ -48,4 +48,3 @@ Net als presentaties zijn de doelstellingen [werkruimte](../../../../product-doc
    Uw aangepaste doel is gemaakt!
 
    ![](assets/image2015-3-24-12-3a41-3a43.png)
-
