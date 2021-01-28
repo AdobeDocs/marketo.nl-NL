@@ -3,9 +3,9 @@ unique-page-id: 1147239
 description: Voeg de Kolommen van de Status van het Programma aan een Rapport van het Programma toe - Marketo Docs - de Documentatie van het Product
 title: De Kolommen van de Status van het Programma aan een Rapport van het Programma toevoegen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # De Kolommen van de Status van het Programma aan een Rapport van het Programma {#add-program-status-columns-to-a-program-report} toevoegen
 
-Voeg statistieken over programmastatus aan uw [rapport van programmaprestaties](create-a-program-performance-report.md) toe.
+Voeg statistieken over programmastatus aan uw [rapport van programmaprestaties](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) toe.
 
 1. Ga naar Marketing Activiteiten (of Analytics).
 
@@ -23,7 +23,7 @@ Voeg statistieken over programmastatus aan uw [rapport van programmaprestaties](
 
    ![](assets/emailperformance.jpg)
 
-1. Klik op het tabblad Setup en sleep over de tag Channel.
+1. Klik op de tab **Setup** en sleep over de tag Channel.
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -33,9 +33,9 @@ Voeg statistieken over programmastatus aan uw [rapport van programmaprestaties](
 
    >[!TIP]
    >
-   >Om de kolommen van de programmastatus te tonen, moet uw rapport door *enkel één* kanaal worden gefiltreerd.
+   >Om de kolommen van de programmastatus te tonen, moet uw rapport door _enkel één_ kanaal worden gefiltreerd.
 
-1. Schakel de optie voor het weergeven van programmastatuskolommen in. Klik op Toepassen.
+1. Schakel de optie voor het weergeven van programmastatuskolommen in. Klik **Toepassen**.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
@@ -45,19 +45,8 @@ Voeg statistieken over programmastatus aan uw [rapport van programmaprestaties](
 
 >[!NOTE]
 >
->Als u geen kolom voor elke status in het programma ziet, zorg ervoor u [de kolommen hebt geselecteerd om ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) in het rapport te tonen.
+>Als u geen kolom voor elke status in het programma ziet, zorg ervoor u [de kolommen hebt geselecteerd om ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) in het rapport te tonen.
 
 >[!MORELIKETHIS]
 >
->* [Een programmarapport filteren op tag](filter-a-program-report-by-tag.md)
-
->
-
-
-
->[!NOTE]
->
->**Diep duiken**
->
->Meer informatie vindt u in [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
-
+>[Een programmarapport filteren op tag](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md)
