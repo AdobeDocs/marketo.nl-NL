@@ -3,9 +3,9 @@ unique-page-id: 1147296
 description: Een filterdefinitie opslaan in de marketingkalender - Marketo Docs - Productdocumentatie
 title: Een filterdefinitie opslaan in de marketingkalender
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Door een filter op te slaan kunt u schakelen tussen verschillende filterdefiniti
 
 >[!PREREQUISITES]
 >
->* [De marketingkalender filteren](filtering-the-marketing-calendar.md)
-
->
-
-
+>[De marketingkalender filteren](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
 
 1. Definieer het filter.
 
@@ -39,14 +35,8 @@ Door een filter op te slaan kunt u schakelen tussen verschillende filterdefiniti
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Als u wilt, kunt u [een exemplaar](sharing-a-filter-definition-in-the-marketing-calendar.md) van de definitie naar andere gebruikers van Marketo verzenden.
+   Als u wilt, kunt u [een exemplaar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md) van de definitie naar andere gebruikers van Marketo verzenden.
 
    >[!NOTE]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Een filterdefinitie delen in de marketingkalender](sharing-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[Een filterdefinitie delen in de marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
