@@ -3,9 +3,9 @@ unique-page-id: 8783563
 description: Een voorbeeld bekijken van een e-mail - Marketo Docs - Productdocumentatie
 title: Een voorbeeld van een e-mail weergeven
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,8 @@ Klik met de rechtermuisknop op een e-mailkaart om deze voor te vertonen voordat 
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-1. U kunt de e-mail op uw apparaat weergeven.\
+1. U kunt de e-mail op uw apparaat weergeven.
+
    ![](assets/image2015-9-25-11-3a23-3a42.png)
 
    >[!NOTE]
@@ -31,4 +32,3 @@ Klik met de rechtermuisknop op een e-mailkaart om deze voor te vertonen voordat 
    >Tik op het papieren vliegtuigpictogram rechtsboven om een voorbeeld rechtstreeks vanaf de pagina E-mailvoorbeeld te verzenden.
 
    Uitstekend!
-
