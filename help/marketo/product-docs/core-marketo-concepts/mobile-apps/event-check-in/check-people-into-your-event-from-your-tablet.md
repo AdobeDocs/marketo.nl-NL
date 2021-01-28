@@ -3,7 +3,7 @@ unique-page-id: 2949839
 description: Bekijk de personen die u via uw tablet in uw gebeurtenis hebt opgenomen - Marketo Docs - Productdocumentatie
 title: Personen in uw gebeurtenis controleren via uw tablet
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -22,13 +22,11 @@ De app werkt op zowel de iPad als op Android hetzelfde, behalve voor kleine layo
 >* Maak een gebeurtenis in Marketo en vul deze met Uitgenodigde en geregistreerde personen.
 >* Download de tablet-app voor [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) of [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
 
->
-
-
 
 ## Geregistreerde gasten inchecken {#check-in-registered-guests}
 
 1. Tik op het app-pictogram op uw iPad- of Android-tablet.
+
 1. Tik op **Aanmelden** om de app Marketo-gebeurtenis te starten.
 
    ![](assets/1.jpg)
@@ -57,7 +55,9 @@ De app werkt op zowel de iPad als op Android hetzelfde, behalve voor kleine layo
    >
    >Het proces is hetzelfde op iPad en Android, maar de schermen verschillen en de items kunnen zich op verschillende locaties bevinden. Dit artikel heeft de iPad-interface. Vergelijk het Android-scherm in deze sectie ter referentie.
 
-   **iPad** ![](assets/image2016-4-15-11-3a55-3a11.png)
+   **iPad**
+
+   ![](assets/image2016-4-15-11-3a55-3a11.png)
 
    **Android**
 
@@ -111,7 +111,7 @@ De nieuwe persoon is geregistreerd als ingecheckt bij uw gebeurtenis en wordt to
 
 ## Inchecken omkeren {#reverse-a-check-in}
 
-Als u per ongeluk een persoon hebt ingecheckt, *voordat u hebt gesynchroniseerd met Marketo*, kunt u de status Bijgevoegd omkeren.
+Als u per ongeluk een persoon hebt ingecheckt, _voordat u hebt gesynchroniseerd met Marketo_, kunt u de status Bijgevoegd omkeren.
 
 1. Tik op de naam in de lijst en tik in de persoonlijke record op **Ongedaan maken**.
 
@@ -146,6 +146,7 @@ De app Marketo Events werkt onafhankelijk totdat u uw activiteit weer synchronis
 >Nadat u hebt gesynchroniseerd, kunt u een inchecken niet meer omkeren vanuit de app.
 
 1. Open de app op uw tablet en navigeer naar de gebeurtenis.
+
 1. Tik **Sync**.
 
    Uw gebeurtenis wordt bijgewerkt met nieuwe controles in het gegevensbestand van de Marketo. De rode teller op de knoop van de Synchronisatie ontruimt, tot u iemand anders binnen controleert.
@@ -170,4 +171,3 @@ Als u zich zorgen maakt over internettoegang op de locatie, kunt u zich aanmelde
 >[!NOTE]
 >
 >De app meldt u automatisch af na acht uur inactiviteit.
-
