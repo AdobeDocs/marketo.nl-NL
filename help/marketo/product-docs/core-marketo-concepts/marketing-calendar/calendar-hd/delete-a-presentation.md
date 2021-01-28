@@ -3,7 +3,7 @@ unique-page-id: 7504060
 description: Een presentatie verwijderen - Marketo Docs - Productdocumentatie
 title: Een presentatie verwijderen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Soms heb je te veel van een goede zaak. Verwijder oude presentaties om ruimte te
    ![](assets/image2015-3-20-16-3a21-3a10.png)
 
    Poof! Buiten het zicht, uit het hoofd.
-
