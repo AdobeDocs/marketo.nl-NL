@@ -3,9 +3,9 @@ unique-page-id: 8781988
 description: Analysecards - Marketo Docs - Productdocumentatie
 title: Analysecards
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Aan het begin van elke maand, verstrekt Marketo Moments drie verschillende rappo
 
 ## Analysecards {#analytics-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/OA5yfBkaNck" frameborder="0" allowfullscreen></iframe>` Als u op een analysekaart tikt, kunt u:
+Als u op een analysekaart tikt, kunt u:
 
-* [Maak er een favoriet van](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Markeren als voltooid](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Delen](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Maak er een favoriet van](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Markeren als voltooid](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Delen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Tik op de analytische kaart die u wilt weergeven:
 
@@ -37,7 +37,7 @@ In dit voorbeeld geeft rood aan dat de waarde is verlaagd over het geselecteerde
 
 ## Opgehaalde regelafstand {#acquired-leads}
 
-Op de kaart **Opgehaalde leads **toont u een trending month-over-month rapport van het aantal nieuwe leads.
+Op de **Opgehaalde Leads**-kaart ziet u een trending month-over-month rapport van het aantal nieuwe leads.
 
 >[!NOTE]
 >
@@ -61,12 +61,7 @@ Nu weet je het.
 
 >[!MORELIKETHIS]
 >
->* [Marketo-momenten begrijpen](understanding-marketo-moments.md)
->* [Gebeurteniskaarten](understanding-event-cards.md)
->* [E-mailprogrammakaarten](understanding-email-program-cards.md)
+>* [Marketo-momenten begrijpen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Gebeurteniskaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [E-mailprogrammakaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 
->
-
-
-
-Feit: Het eerste e-mailbericht dat ooit werd verzonden, was van Ray Tomlinson in 1971.
