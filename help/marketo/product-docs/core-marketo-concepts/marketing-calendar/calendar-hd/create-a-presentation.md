@@ -3,7 +3,7 @@ unique-page-id: 7503971
 description: Een presentatie maken - Marketo Docs - Productdocumentatie
 title: Een presentatie maken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Maak een presentatie om de kalenderweergaven en -doelen van uw team te projecter
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Ga naar de** Kalender**.
+1. Ga naar **Kalender**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -41,9 +41,4 @@ Maak een presentatie om de kalenderweergaven en -doelen van uw team te projecter
 
 >[!MORELIKETHIS]
 >
->* [Een presentatie aanpassen](customize-a-presentation.md)
-
->
-
-
-
+>[Een presentatie aanpassen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
