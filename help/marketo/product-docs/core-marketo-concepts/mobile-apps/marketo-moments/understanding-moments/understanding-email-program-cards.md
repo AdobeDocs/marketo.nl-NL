@@ -3,9 +3,9 @@ unique-page-id: 8781911
 description: Werken met e-mailprogrammakaarten - Marketo Docs - Productdocumentatie
 title: E-mailprogrammakaarten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Gebruik Marketo-momenten om uw e-mailprogramma&#39;s vanaf uw telefoon of iPad w
 
 ## E-mailprogrammakaarten {#email-program-cards}
 
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/n8JTSZI22Do" frameborder="0" allowfullscreen></iframe>` Wanneer u op een e-mailprogrammakaart tikt, kunt u:
+Wanneer u op een e-mailprogrammakaart tikt, kunt u:
 
-* [Een e-mailadres als favoriet instellen](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
-* [Een e-mail markeren zoals deze is voltooid](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
-* [Een e-mailmomentkaart delen](../../../../../product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
+* [Een e-mailadres als favoriet instellen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
+* [Een e-mail markeren zoals deze is voltooid](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
+* [Een e-mailmomentkaart delen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
 Op een e-mailprogrammakaart voor een e-mailbericht dat nog niet is verzonden, vindt u informatie over de status en het publiek van dat e-mailprogramma.
 
@@ -41,7 +41,7 @@ Nadat de e-mail is verzonden, geeft de kaart andere waardevolle informatie weer,
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tik **Bevestig **om de baan te beëindigen, of **nooit Mind** als u tweede gedachten had.
+1. Tik **Bevestig** om de taak te voltooien, of **Nooit denken** als u tweede gedachten had.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -105,7 +105,8 @@ Klik met de rechtermuisknop op een e-mailkaart om deze voor te vertonen.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   Op deze manier weet je dat je e-mail perfect is voordat je de trigger haalt!\
+   Op deze manier weet je dat je e-mail perfect is voordat je de trigger haalt!
+
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 
    Uitstekend!
@@ -114,12 +115,7 @@ En dat is de les bij het bekijken van je e-mailcampagnes. Nu ben je een pro!
 
 >[!MORELIKETHIS]
 >
->* [Marketo-momenten begrijpen](understanding-marketo-moments.md)
->* [Gebeurteniskaarten](understanding-event-cards.md)
->* [Analysecards](understanding-analytics-cards.md)
->* [E-mailprogramma&#39;s](http://docs.marketo.com/display/docs/email+programs)
-
->
-
-
+>* [Marketo-momenten begrijpen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
+>* [Gebeurteniskaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Analysecards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 
