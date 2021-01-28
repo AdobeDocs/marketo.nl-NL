@@ -3,7 +3,7 @@ unique-page-id: 2953325
 description: Invoergegevens weergeven - Marketo-documenten - Productdocumentatie
 title: Details van item weergeven
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -23,10 +23,6 @@ Wanneer u ingangsdetails in de Kalender van de Marketing bekijkt, kunt u alle so
 
    ![](assets/image2014-9-26-10-3a31-3a1.png)
 
-   `  
-`
-
 >[!TIP]
 >
 >Klik met de rechtermuisknop op de details aan de rechterkant. U kunt menu&#39;s zien om door de editors te navigeren of omhoog te duwen. Mooi, toch?
-
