@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Middelen importeren bij Adobe Experience Manager - Marketo Docs - Productdocumentatie
 title: Middelen importeren met Adobe Experience Manager
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Met de Asset Picker kunnen klanten van Marketo toegang krijgen tot AEM middelen 
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u reeds [AEM Configuratie](https://docs.marketo.com/x/FwPLAQ) hebt uitgevoerd.
+>Zorg ervoor u reeds [AEM Configuratie](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) hebt uitgevoerd.
 
 >[!CAUTION]
 >
