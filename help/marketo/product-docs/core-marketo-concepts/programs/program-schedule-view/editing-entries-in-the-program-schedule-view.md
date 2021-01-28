@@ -3,7 +3,7 @@ unique-page-id: 1147136
 description: Bewerkingangen in de overzichtsweergave van het programma - Marketo Docs - Productdocumentatie
 title: Bewerkingangen in de programmaweergave
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -54,4 +54,3 @@ Je steekt! Nu is de datum van je invoer verplaatst naar een nieuwe datum.
 >[!NOTE]
 >
 > Invoer van slimme campagnes en e-mailprogramma&#39;s die al zijn gestart, kan niet naar het verleden worden verplaatst.
-
