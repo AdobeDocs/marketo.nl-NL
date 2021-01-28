@@ -3,7 +3,7 @@ unique-page-id: 2952484
 description: De naam van een Marketo-middel wijzigen - Marketo Docs - Productdocumentatie
 title: De naam van een Marketo-element wijzigen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -26,4 +26,3 @@ U kunt de namen van mappen, programma&#39;s en lokale elementen gemakkelijk wijz
    >[!NOTE]
    >
    >U kunt de namen van geüploade bestanden en afbeeldingen of elementen waarnaar momenteel wordt verwezen in een slimme lijst of slimme campagne (in filters, triggers, flowstappen, enzovoort) niet wijzigen.
-
