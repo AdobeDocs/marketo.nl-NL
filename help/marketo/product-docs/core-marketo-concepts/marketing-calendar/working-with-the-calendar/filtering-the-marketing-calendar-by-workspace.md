@@ -3,9 +3,9 @@ unique-page-id: 1147306
 description: Het filteren van de Kalender van de Marketing door Werkruimte - Marketo Docs - de Documentatie van het Product
 title: De marketingkalender filteren op werkruimte
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,4 @@ De marketingkalender kan worden gefilterd door objecten in specifieke werkruimte
 
    >[!NOTE]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Een filterdefinitie opslaan in de marketingkalender](saving-a-filter-definition-in-the-marketing-calendar.md)
-
-
+   >[Een filterdefinitie opslaan in de marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
