@@ -3,7 +3,7 @@ unique-page-id: 8783561
 description: Een voorbeeld verzenden - Marketo Docs - Productdocumentatie
 title: Een voorbeeld verzenden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -31,7 +31,8 @@ U kunt een voorbeeld van een e-mailmoment rechtstreeks met iemand delen. Er zijn
 
 ## De snelle weg {#the-quick-way}
 
-1. Tik op het papieren vliegtuigpictogram op het scherm E-mailvoorvertoning om een voorbeeld rechtstreeks vanuit de voorvertoning te verzenden.\
+1. Tik op het papieren vliegtuigpictogram op het scherm E-mailvoorvertoning om een voorbeeld rechtstreeks vanuit de voorvertoning te verzenden.
+
    ![](assets/image2015-9-25-10-3a28-3a47.png)
 
 Opdracht voltooid!
