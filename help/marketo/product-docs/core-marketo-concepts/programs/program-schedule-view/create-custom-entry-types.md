@@ -3,7 +3,7 @@ unique-page-id: 1147245
 description: Aangepaste invoertypen maken - Marketo Docs - Productdocumentatie
 title: Aangepaste invoertypen maken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -44,4 +44,3 @@ Geweldig! Wanneer u nu een nieuwe ingang in uw planningsmening creeert, zal dit 
 >[!NOTE]
 >
 >U kunt tot 100 types van douaneingang tot stand brengen.
-
