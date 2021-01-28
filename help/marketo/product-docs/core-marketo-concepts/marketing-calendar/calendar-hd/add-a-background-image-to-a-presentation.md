@@ -3,7 +3,7 @@ unique-page-id: 7504437
 description: Een achtergrondafbeelding toevoegen aan een presentatie - Marketo Docs - Productdocumentatie
 title: Een achtergrondafbeelding aan een presentatie toevoegen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Pas een presentatie aan door een achtergrondafbeelding te selecteren.
 
 >[!PREREQUISITES]
 >
->* [Een presentatie maken](create-a-presentation.md)
-
->
-
-
+>[Een presentatie maken](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 1. Klik met de rechtermuisknop op een presentatie en selecteer **Setup weergeven**.
 
@@ -31,7 +27,7 @@ Pas een presentatie aan door een achtergrondafbeelding te selecteren.
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. Sleep **Achtergrondafbeelding **vanuit de rechterstructuur naar het canvas.
+1. Sleep **Achtergrondafbeelding** van de rechterboomstructuur naar het canvas.
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -48,4 +44,3 @@ Pas een presentatie aan door een achtergrondafbeelding te selecteren.
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 
    En dat is het!
-
