@@ -3,9 +3,9 @@ unique-page-id: 1147140
 description: Inzicht in voorlopige/bevestigde datums - Marketo Docs - Productdocumentatie
 title: Inzicht krijgen in voorlopige/bevestigde datums
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Slimme campagnes en e-mailprogramma&#39;s hebben een krachtige mogelijkheid om t
 
 ## Tentatief {#tentative}
 
-Met negatieve datums wordt de intentie overgebracht. Beschouw dit als *prullenbak *iets in de kalender. Alternatieve items worden niet uitgevoerd. Het zijn alleen plaatsaanduidingen.
+Met negatieve datums wordt de intentie overgebracht. Beschouw dit als _penciling_ iets in de kalender. Alternatieve items worden niet uitgevoerd. Het zijn alleen plaatsaanduidingen.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -29,11 +29,15 @@ Met negatieve datums wordt de intentie overgebracht. Beschouw dit als *prullenba
 
 Dit is net als het goedkeuren van een middel, zodat moeten de ingangen volledig opstelling zijn alvorens u hen kunt bevestigen. Als alle eenden in een rij staan, kunt u vermeldingen bevestigen door de tijdelijke tab naar rechts te schuiven.
 
-![](assets/image2014-9-23-15-3a23-3a2.png)  ![](assets/image2014-9-23-15-3a23-3a8.png) ![](assets/image2014-9-23-15-3a23-3a12.png)
+![](assets/image2014-9-23-15-3a23-3a2.png)
+
+![](assets/image2014-9-23-15-3a23-3a8.png)
+
+![](assets/image2014-9-23-15-3a23-3a12.png)
 
 >[!NOTE]
 >
->Waarom de hond? Hij is Golden Retriever. Hij haalt je gegevens op.
+>Waarom de hond? Hij is een &#39;Retriever&#39;. Hij haalt je gegevens op.
 
 ## Bevestigd {#confirmed}
 
