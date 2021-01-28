@@ -3,9 +3,9 @@ unique-page-id: 2953358
 description: Items rechtstreeks verwijderen in de marketingkalender - Marketo Docs - Productdocumentatie
 title: Items rechtstreeks in de marketingkalender verwijderen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Items rechtstreeks in de marketingkalender verwijderen {#delete-entries-directly-in-the-marketing-calendar}
 
-Naast [het creëren van ](create-entries-directly-in-the-marketing-calendar.md) en [het uitgeven van ](edit-entries-directly-in-the-marketing-calendar.md) ingangen, kunt u hen direct in de Kalender van de Marketing schrappen. Zo gaat het.
+Naast [het creëren van ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) en [het uitgeven van ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) ingangen, kunt u hen direct in de Kalender van de Marketing schrappen. Zo gaat het.
 
 1. Ga naar **Kalender**.
 
@@ -23,7 +23,7 @@ Naast [het creëren van ](create-entries-directly-in-the-marketing-calendar.md) 
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
-1. Klik op het pictogram van de prullenbak.
+1. Klik op het prullenbakpictogram.
 
    ![](assets/image2014-10-20-13-3a20-3a42.png)
 
@@ -31,9 +31,4 @@ Afhankelijk van de vermelding moet u mogelijk de verwijdering bevestigen. Maar d
 
 >[!MORELIKETHIS]
 >
->* [Vermeldingen rechtstreeks bevestigen in de marketingkalender](confirm-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
-
+>[Vermeldingen rechtstreeks bevestigen in de marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
