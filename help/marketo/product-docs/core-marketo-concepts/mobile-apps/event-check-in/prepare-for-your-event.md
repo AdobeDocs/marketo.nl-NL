@@ -3,9 +3,9 @@ unique-page-id: 10099360
 description: Voorbereiden op uw gebeurtenis - Marketo Docs - Productdocumentatie
 title: Voorbereiden op uw gebeurtenis
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '342'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Er zijn verschillende dingen die u moet doen om klaar te zijn voor de gebeurteni
 
 ## Een nieuwe marktoprol maken {#create-a-new-marketo-role}
 
-Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebeurtenissen.  [Maak een nieuwe Marketo-](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) rol voor iPad- of Android-gebruikers met toestemming om de mobiele toepassing te openen.
+Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebeurtenissen. [Maak een nieuwe Marketo-](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) rol voor iPad- of Android-gebruikers met toestemming om de mobiele toepassing te openen.
 
 ## Nieuwe tabletgebruikers uitnodigen voor de gebeurtenis {#invite-new-tablet-users-to-the-event}
 
-[Nieuwe tabletgebruikers uitnodigen voor de ](https://docs.marketo.com/display/DOCS/Grant+User+Access+to+the+Check-in+App) gebeurtenis en hun de nieuwe rol toewijzen.
+[Nieuwe tabletgebruikers uitnodigen voor de ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) gebeurtenis en hun de nieuwe rol toewijzen.
 
 ## Nieuw Marketo-gebeurtenisprogramma maken {#create-a-new-marketo-event-program}
 
