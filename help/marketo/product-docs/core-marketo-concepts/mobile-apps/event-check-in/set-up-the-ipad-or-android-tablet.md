@@ -3,7 +3,7 @@ unique-page-id: 10099363
 description: De iPad of Android-tablet instellen - Marketo Docs - Productdocumentatie
 title: De iPad of Android-tablet instellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Als de app Marketo Events nog niet op uw iPad is geïnstalleerd, gaat u als volg
 
 Als op uw Android-tablet de toepassing Marketo Events nog niet is geïnstalleerd, gaat u als volgt te werk:
 
-1. Open uw tablet en tik op de** Google Play Store** app.
+1. Open uw tablet en tik op de **Google Play Store**-app.
 1. Typ **Marketo** in het vak Zoeken en tik **Return**.
 1. Tik in de zoekresultaten op de **Marketo Events**-app.
 
@@ -69,7 +69,7 @@ Voordat u iPads of tablets toewijst aan &#39;trade show&#39;-medewerkers, moet u
 Synchroniseren om er zeker van te zijn dat de toegevoegde personen aanwezig zijn.
 
 1. Open uw gebeurtenis in de iPad- of Android-app.
-1. Zoek naar de mensen. Tik op **Synchroniseren **om de app te synchroniseren en laad de lijst met personen voor gebeurtenissen opnieuw als u deze niet ziet.
+1. Zoek naar de mensen. Als u ze niet ziet, tikt u op **Sync** om de app te synchroniseren en de lijst met personen voor gebeurtenissen opnieuw te laden.
 
    **iPad**
 
@@ -83,7 +83,7 @@ Synchroniseren om er zeker van te zijn dat de toegevoegde personen aanwezig zijn
 
 Controleer voordat de gebeurtenis plaatsvindt of inchecken werkt vanaf de iPad of het tablet.
 
-1. Controleer in de app [een testlead in](check-people-into-your-event-from-your-tablet.md).
+1. Controleer in de app [een testlead in](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Tik op het pictogram **Sync** om de app te synchroniseren.
 1. Open in Marketo de gebeurtenis en klik op **Leden**.
 
@@ -96,4 +96,3 @@ Controleer voordat de gebeurtenis plaatsvindt of inchecken werkt vanaf de iPad o
    >[!TIP]
    >
    >Gebruik uzelf als de testpersoon.
-
