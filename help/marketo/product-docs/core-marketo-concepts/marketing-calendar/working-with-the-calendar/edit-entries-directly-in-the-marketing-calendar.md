@@ -3,9 +3,9 @@ unique-page-id: 2953352
 description: Vermeldingen rechtstreeks bewerken in de marketingkalender - Marketo Docs - Productdocumentatie
 title: Items rechtstreeks in de marketingkalender bewerken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -45,8 +45,7 @@ In de focusmodus van het programma kunt u snel wijzigingen aanbrengen in agenda-
    >
    >U kunt de beschrijving ook bewerken.
    >
-   >
-   >![—](assets/image2014-10-20-13-3a16-3a56.png)   >
+   >![](assets/image2014-10-20-13-3a16-3a56.png)
 
 ## Invoertype converteren {#convert-entry-type}
 
@@ -68,9 +67,4 @@ Dat is het! Aangezien u kunt zien zijn er veel dingen u direct van de Kalender v
 
 >[!MORELIKETHIS]
 >
->* [Items rechtstreeks in de marketingkalender verwijderen](https://community.marketo.com/MarketoArticle?id=kA050000000LPDyCAO)
-
->
-
-
-
+>[Items rechtstreeks in de marketingkalender verwijderen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
