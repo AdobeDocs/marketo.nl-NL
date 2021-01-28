@@ -3,7 +3,7 @@ unique-page-id: 1147247
 description: Aangepaste invoertypen verbergen en verbergen - Marketo Docs - Productdocumentatie
 title: Aangepaste invoertypen verbergen en verbergen
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Aangepaste invoertypen kunnen worden verborgen in de sectie Beheer. Als het invo
 
 ## Een aangepast invoertype verbergen {#hide-a-custom-entry-type}
 
-1. Ga naar **Admin** sectie en klik **Kalender** **Ingang** **Types**.
+1. Ga naar **Admin** sectie en klik **Kalenderingang** **Types**.
 
    ![](assets/image2014-9-24-10-3a11-3a49.png)
 
@@ -38,4 +38,3 @@ Als u een type van douaneingang wilt losmaken, is dat ook gemakkelijk.
    Ta-da! Het type aangepaste invoer is nu niet meer verborgen.
 
    ![](assets/image2014-9-24-10-3a12-3a19.png)
-
