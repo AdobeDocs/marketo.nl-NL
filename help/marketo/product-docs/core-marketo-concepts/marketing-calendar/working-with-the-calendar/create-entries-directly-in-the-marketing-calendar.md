@@ -3,7 +3,7 @@ unique-page-id: 2953348
 description: Berichten rechtstreeks maken in de marketingkalender - Marketo Docs - Productdocumentatie
 title: Items rechtstreeks maken in de marketingkalender
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -26,7 +26,8 @@ Zo gaat het.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-   Selecteer een vorige ingang en klik tonen de Focus van het Programma.
+1. Selecteer een vorige ingang en klik **Toon de Nadruk van het Programma**.
+
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
 1. Selecteer in de focusmodus van het programma de dag van uw keuze om een item toe te voegen.
@@ -47,9 +48,4 @@ Zo gaat het.
 
 >[!MORELIKETHIS]
 >
->* [Items rechtstreeks in de marketingkalender bewerken](edit-entries-directly-in-the-marketing-calendar.md)
-
->
-
-
-
+>[Items rechtstreeks in de marketingkalender bewerken](edit-entries-directly-in-the-marketing-calendar.md)
