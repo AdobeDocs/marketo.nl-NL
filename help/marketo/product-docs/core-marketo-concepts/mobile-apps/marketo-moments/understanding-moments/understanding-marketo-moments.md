@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Marketo-momenten begrijpen - Marketo-documenten - Productdocumentatie
 title: Marketo-momenten begrijpen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ De kracht van Marketo ligt nu letterlijk in uw handen! U kunt e-mails direct van
 >
 >**Beschikbaarheid**
 >
->Toegang tot mobiele apps is vereist. Neem contact op met uw Marketo-beheerder om uw rol [bij te werken.](../../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-
-## Introductie van momenten {#introducing-moments}
-
-`<iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/IJfpzE8l73E" frameborder="0" allowfullscreen></iframe>`
+>Toegang tot mobiele apps is vereist. Neem contact op met uw Marketo-beheerder om uw rol [bij te werken.](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
 
 ## Streams {#streams}
 
@@ -35,13 +31,11 @@ Hier zijn de verschillende stromen in Moments.
 >
 >**Definitie**
 >
->Momenten - Alles wat net liep, of op het punt staat te lopen, gaat hier.
->
->Favorieten - Alles wat je een favoriet maakt, komt hier.
->
->Later - alles wat later dan dit moment plaatsvindt, komt hier binnen.
->
->Gereed - Alles wat klaar is met uitvoeren of zoals u hebt gemarkeerd, gaat hier.
+>* Momenten: Alles wat net liep of op het punt staat te lopen, gaat hier.
+>* Favorieten: Alles wat je een favoriet maakt, komt hier.
+>* Later: Alles wat later dan dit moment plaatsvindt, komt hier binnen.
+>* Gereed: Alles wat klaar is met rennen of u hebt gemarkeerd als voltooid, gaat hier.
+
 
 Oké, nu we dat uit de weg hebben, laten we een kijkje nemen bij Marketo Moments op een telefoon!
 
@@ -53,7 +47,7 @@ Marketo Moments geeft u drie verschillende kaarten om de voortgang van uw e-mail
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**Hé, deze e-mail wordt nu geleverd** ! En hier zijn ook stats. Ga door en deel het.
+**Hart** -beklets - Hé, deze e-mail wordt nu geleverd! En hier zijn ook stats. Ga door en deel het.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
@@ -93,19 +87,12 @@ Geweldig! Nu kunt u iets doen door te tikken:
 >* Voorbeeld verzenden (alleen e-mail): Gebruik deze optie om anderen te laten zien hoe je e-mails eruitzien voordat je ze verstuurt.
 >* Voorbeeld-e-mail (alleen e-mails): Het is altijd een goed idee om je e-mails vooraf te bekijken.
 
->
-
-
 
 ## Later momenten {#later-moments}
 
 In het gedeelte Later worden toekomstige activiteiten weergegeven.
 
 1. Begin door op het hamburgermenu te tikken.
-
-   >[!NOTE]
-   >
-   >Volgens het [Guinness Book of World Records](http://www.guinnessworldrecords.com/world-records/largest-hamburger) heeft &#39;s werelds grootste hamburger een gewicht van 2.014 lbs.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -151,23 +138,19 @@ Elke stap van de manier, kunt u een actie bevestigen of annuleren. Tik **Nooit M
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-Klaar om meer te leren?
-
->[!MORELIKETHIS]
->
->* [E-mailprogrammakaarten](understanding-email-program-cards.md)
->* [Gebeurteniskaarten](understanding-event-cards.md)
->* [Analysecards](understanding-analytics-cards.md)
->* [Slimme camerakaarten](understanding-smart-campaign-cards.md)
-
->
-
-
-
 ## Ondersteunde versies {#supported-versions}
 
 Marketo Moments ondersteunt de volgende versies van het besturingssysteem:
 
 * Apple iOS 8.0 en hoger.
 * Android versie 4.1 en hoger (in feite Jellybean en hoger).
+
+Klaar om meer te leren?
+
+>[!MORELIKETHIS]
+>
+>* [E-mailprogrammakaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Gebeurteniskaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Analysecards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
+>* [Slimme camerakaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
 
