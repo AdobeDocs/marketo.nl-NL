@@ -3,7 +3,7 @@ unique-page-id: 7504120
 description: Een presentatie starten - Marketo Docs - Productdocumentatie
 title: Een presentatie starten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -23,11 +23,8 @@ Als u de weergaven en de rotatiefrequentie voor uw presentatie hebt ingesteld, i
 
 >[!PREREQUISITES]
 >
->* [Een presentatie maken](create-a-presentation.md)
->* [Een presentatie aanpassen](customize-a-presentation.md)
-
->
-
+>* [Een presentatie maken](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [Een presentatie aanpassen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 
 >[!TIP]
@@ -44,5 +41,4 @@ Als u de weergaven en de rotatiefrequentie voor uw presentatie hebt ingesteld, i
 
    >[!TIP]
    >
-   >Uw presentatie wordt op een nieuw tabblad gestart. Verplaats indien nodig de tab naar een externe monitor of tv voor weergave en klik op **Volledig scherm** (of druk op **F11 **op het toetsenbord als u Internet Explorer gebruikt).
-
+   >Uw presentatie wordt op een nieuw tabblad gestart. Verplaats indien nodig de tab naar een externe monitor of tv voor weergave en klik op **Volledig scherm** (of druk op **F11** op uw toetsenbord als u Internet Explorer gebruikt).
