@@ -3,7 +3,7 @@ unique-page-id: 7516639
 description: Gebruikers toegang verlenen tot de check-in-app - Marketo Docs - Productdocumentatie
 title: Gebruikers toegang verlenen tot de Check-in-app
 translation-type: tm+mt
-source-git-commit: 95ca406109e04f56c9846f83cb2c4202bf606518
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebe
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Klik op** Nieuwe gebruiker uitnodigen**.
+1. Klik **Nieuwe gebruiker uitnodigen**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
