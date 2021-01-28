@@ -3,7 +3,7 @@ unique-page-id: 2953243
 description: Meldingstypen - Marketo Docs - Productdocumentatie
 title: Typen meldingen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Als u leads naar Facebook probeert te verzenden zonder de servicevoorwaarden te 
 
 Opruimen van campagne voor inactieve Trigger
 
-Deactivate teweeggebrachte Slimme Campagnes die geen activiteit meer krijgen. Meer informatie over [opruimen van automatische triggercampagnes](../../../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Deactivate teweeggebrachte Slimme Campagnes die geen activiteit meer krijgen. Meer informatie over [opruimen van automatische triggercampagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 LinkedIn
 
@@ -61,5 +61,4 @@ U wordt op de hoogte gesteld wanneer u uw dagelijkse quotum bereikt. De quota wo
 
 >[!NOTE]
 >
->Sommige foutcodes die u ontvangt, worden beschreven in onze [documentatie voor ontwikkelaars](http://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
-
+>Sommige foutcodes die u ontvangt, worden beschreven in onze [documentatie voor ontwikkelaars](https://developers.marketo.com/rest-api/error-codes/#response_level_error_codes).
