@@ -3,9 +3,9 @@ unique-page-id: 30081815
 description: Adobe Experience Manager-integratie configureren - Marketo Docs - Productdocumentatie
 title: Adobe Experience Manager-integratie configureren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Vorm AEM zodat kunt u, AEM activa in de Studio van het Ontwerp van Marketo toega
 
    ![](assets/four.png)
 
-1. Typ in het tekstvak **Toegestane oorsprong (Regexp)** &quot;https://.*\.marketo\.com&quot; (zonder de citaten) en klik **Save**.
+1. Typ in het tekstvak **Toegestane oorsprong (Regexp)** de tekst `https://.*\.marketo\.com` en klik op **Opslaan**.
 
    ![](assets/five-psd.png)
 
@@ -75,5 +75,4 @@ Vorm AEM zodat kunt u, AEM activa in de Studio van het Ontwerp van Marketo toega
 
    ![](assets/twelve.png)
 
-   U bent klaar! U kunt nu [AEM activa in de Studio van het Ontwerp in Marketo Sky ](http://help.marketo.com/hc/en-us/articles/360036765993) invoeren.
-
+   U bent klaar! U kunt nu [AEM activa in de Studio van het Ontwerp in Marketo Sky ](https://help.marketo.com/hc/en-us/articles/360036765993) invoeren.
