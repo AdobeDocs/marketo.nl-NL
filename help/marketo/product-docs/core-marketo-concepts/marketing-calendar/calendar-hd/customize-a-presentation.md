@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: Een presentatie aanpassen - Marketo Docs - Productdocumentatie
 title: Een presentatie aanpassen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -23,18 +23,15 @@ Opstelling uw kalenderpresentatie om op de doelstellingen en de activiteiten te 
 
 >[!PREREQUISITES]
 >
->* [Aangepaste ](create-a-custom-goal.md) doelen of doelen voor  [slimme lijsten maken](create-a-smart-list-goal.md)
+>* [Aangepaste ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) doelen of doelen voor  [slimme lijsten maken](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md)
    >
    >
-* [Een presentatie maken](create-a-presentation.md)
-
->
-
+* [Een presentatie maken](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
 
 ## Weergaven kiezen {#choosing-the-views}
 
-Presentations doorloopt de verschillende [filterdefinities](../../../../product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) die u kiest. Trek zoveel weergaven in als u wilt en pas de frequentie aan.
+Presentations doorloopt de verschillende [filterdefinities](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md) die u kiest. Trek zoveel weergaven in als u wilt en pas de frequentie aan.
 
 1. Sleep in de rechterstructuur in de verschillende weergaven die u wilt roteren in de presentatie.
 
@@ -42,7 +39,7 @@ Presentations doorloopt de verschillende [filterdefinities](../../../../product-
 
 ## Een doel toevoegen {#add-a-goal}
 
-Presentations is het meest fantastisch wanneer ze uw teamdoelen weergeven. Sleep gewoon over verschillende [aangepaste doelen](create-a-custom-goal.md) of [slimme lijstdoelen](create-a-smart-list-goal.md). U kunt maximaal 10 gebruiken.
+Presentations is het meest fantastisch wanneer ze uw teamdoelen weergeven. Sleep gewoon over verschillende [aangepaste doelen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md) of [slimme lijstdoelen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md). U kunt maximaal 10 gebruiken.
 
 1. Sleep vanuit de rechterstructuur in de verschillende doelen die u in uw presentatie wilt weergeven.
 
@@ -52,7 +49,7 @@ Presentations is het meest fantastisch wanneer ze uw teamdoelen weergeven. Sleep
 
 Als u de gewenste weergaven voor de presentatie hebt weergegeven, stelt u de frequentie in waarmee de presentatie wordt geroteerd tussen de verschillende weergaven.
 
-1. Klik op** 5 minuten** (dit is de standaard cadence).
+1. Klik **5 minuten** (dit is het standaardritme).
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
@@ -76,7 +73,7 @@ De kalenderweergave kan worden gewijzigd in een weergave van 3 weken of per maan
 
 >[!TIP]
 >
->Stel een [achtergrondafbeelding](add-a-background-image-to-a-presentation.md) in voor uw presentatie. We stellen katjes of regenbogen voor.
+>Stel een [achtergrondafbeelding](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md) in voor uw presentatie. We stellen katjes of regenbogen voor.
 
 ## Een presentatie voorvertonen {#preview-a-presentation}
 
@@ -92,14 +89,8 @@ Nadat de presentatie is geconfigureerd, kunt u deze voorvertonen en starten.
 
    Hou je niet van wat je ziet? Ga terug en gebruik verschillende filterdefinities om de mening tot stand te brengen u houdt van.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [Een achtergrondafbeelding aan een presentatie toevoegen](add-a-background-image-to-a-presentation.md)
->* [Een presentatie starten](launch-a-presentation.md)
-
->
-
-
+>* [Een achtergrondafbeelding aan een presentatie toevoegen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md)
+>* [Een presentatie starten](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md)
 
