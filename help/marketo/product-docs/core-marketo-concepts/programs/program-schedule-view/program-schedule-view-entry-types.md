@@ -3,9 +3,9 @@ unique-page-id: 1147243
 description: De Invoertypes van de Mening van het Programma van het programma - Marketo Dos - de Documentatie van het Product
 title: Invoertypen voor programmaplanning
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Invoertypen voor programmaplanningweergave {#program-schedule-view-entry-types}
 
-Er zijn acht verschillende ingebouwde ingangstypes die zichtbaar en beschikbaar voor gebruik in uw mening van het programmaprogramma zullen zijn. U kunt ook [aangepaste invoertypen maken](create-custom-entry-types.md) in de sectie Admin.
+Er zijn acht verschillende ingebouwde ingangstypes die zichtbaar en beschikbaar voor gebruik in uw mening van het programmaprogramma zullen zijn. U kunt ook [aangepaste invoertypen maken](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) in de sectie Admin.
 
 <table> 
  <thead> 
@@ -57,12 +57,3 @@ Er zijn acht verschillende ingebouwde ingangstypes die zichtbaar en beschikbaar 
   </tr> 
  </tbody> 
 </table>
-
->[!MORELIKETHIS]
->
->* [Een type aangepaste invoer maken](create-custom-entry-types.md)
-
->
-
-
-
