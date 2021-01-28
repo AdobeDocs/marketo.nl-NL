@@ -3,9 +3,9 @@ unique-page-id: 1147255
 description: Een licentie voor een marketingkalender uitgeven/intrekken - Marketo Docs - Productdocumentatie
 title: Licentie voor een marketingkalender uitgeven/intrekken
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-Als u uw [Marketing Calendar](http://docs.marketo.com/display/docs/marketing+calendar) licenties wilt gebruiken, moet u licenties uitgeven voor gebruikers die toegang nodig hebben. Zo gaat het.
+Als u uw [Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) licenties wilt gebruiken, moet u licenties uitgeven voor gebruikers die toegang nodig hebben. Zo gaat het.
 
 1. Ga naar **Admin** sectie.
 
    ![](assets/adminhand.png)
 
-1. Klik op **Gebruikers &amp; rollen**.
+1. Klik **Gebruikers &amp; rollen**.
 
    ![](assets/2.png)
 
@@ -43,7 +43,7 @@ Als u uw [Marketing Calendar](http://docs.marketo.com/display/docs/marketing+cal
 
    ![](assets/4.png)
 
-   Echt waar! Zie het groene vinkje onder **Kalender**?
+   Echt waar! Zie het groene vinkje onder &#39;Kalender?
 
    ![](assets/5.png)
 
