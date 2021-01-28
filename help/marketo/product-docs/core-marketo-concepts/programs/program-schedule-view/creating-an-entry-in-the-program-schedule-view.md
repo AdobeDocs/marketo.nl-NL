@@ -3,7 +3,7 @@ unique-page-id: 1147102
 description: Het creëren van een Ingang in de Mening van het Programma van het Programma - Marketo Docs - de Documentatie van het Product
 title: Het creëren van een Ingang in de Mening van het Programma
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -29,7 +29,7 @@ U kunt items maken vanuit de programmaweergave van het programma als aanvulling 
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. Geef de vermelding een naam. Druk op **Enter **om de naam te bevestigen.
+1. Geef de vermelding een naam. Druk **Enter** om de naam te bevestigen.
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -59,7 +59,7 @@ U kunt items maken vanuit de programmaweergave van het programma als aanvulling 
 
    >[!NOTE]
    >
-   >To-do is een [aangepaste ingang](create-custom-entry-types.md). U kunt een &#39;to-do&#39; en andere aangepaste items maken om niet-Marketo-agendapunten bij te houden.
+   >To-do is een [aangepaste ingang](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). U kunt een &#39;to-do&#39; en andere aangepaste items maken om niet-Marketo-agendapunten bij te houden.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,5 +69,4 @@ U kunt items maken vanuit de programmaweergave van het programma als aanvulling 
 
 >[!NOTE]
 >
-> U kunt ook een [slimme campagne](creating-a-batch-smart-campaign-in-the-program-schedule-view.md) of [e-mailprogramma](creating-a-new-email-program-in-the-schedule-view.md) vanuit de planningsweergave maken.
-
+> U kunt ook een [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) of [e-mailprogramma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) vanuit de planningsweergave maken.
