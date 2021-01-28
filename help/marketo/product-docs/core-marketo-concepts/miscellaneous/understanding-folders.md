@@ -3,7 +3,7 @@ unique-page-id: 4720779
 description: Mappen begrijpen - Marketo Docs - Productdocumentatie
 title: Mappen begrijpen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mappen {#understanding-folders}
 
-Mappen in een programma kunnen worden gebruikt om slimme campagnes en middelen te organiseren. Deze zijn verschillend van [campagnemappen](create-new-campaign-folder.md).
+Mappen in een programma kunnen worden gebruikt om slimme campagnes en middelen te organiseren. Deze zijn verschillend van [campagnemappen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Een map maken {#create-a-folder}
 
@@ -76,4 +76,3 @@ Functionaliteit die **niet** zal veranderen tijdens archivering:
 * Een actief dat in gebruik is, blijft werken zelfs nadat het is gearchiveerd
 * U kunt een filter gebruiken om gearchiveerde elementen te selecteren voor gebruik in rapporten
 * Gearchiveerde elementen worden niet gedeactiveerd. Ze moeten ook worden gedeactiveerd als u wilt dat ze niet meer worden uitgevoerd
-
