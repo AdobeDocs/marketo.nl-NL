@@ -3,7 +3,7 @@ unique-page-id: 10095429
 description: Problemen met validatie synchroniseren van dynamiek verhelpen - Marketo Docs - Productdocumentatie
 title: Problemen met validatie synchroniseren van dynamiek verhelpen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
@@ -79,7 +79,7 @@ Als u ![—](assets/delete.png) hier hebt, ga naar de Dynamiek van Microsoft om 
 
    ![](assets/one.png)
 
-1. Klik **Instellingen **en selecteer **Oplossingen.**
+1. Klik **Instellingen** en selecteer **Oplossingen.**
 
    ![](assets/eleven.png)
 
@@ -99,7 +99,7 @@ Als u ![—](assets/delete.png) hier hebt, zorg ervoor de gebruiker van de Synch
 
    ![](assets/one.png)
 
-1. Klik **Instellingen **en selecteer **Marketo Config**.
+1. Klik **Instellingen** en selecteer **Marketo Config**.
 
    ![](assets/thirteen.png)
 
@@ -113,5 +113,4 @@ Als u ![—](assets/delete.png) hier hebt, ben zeker om de juiste synchronisatie
 
 >[!MORELIKETHIS]
 >
->[Synchronisatie van Microsoft-dynamiek valideren](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
-
+>[Synchronisatie van Microsoft-dynamiek valideren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
