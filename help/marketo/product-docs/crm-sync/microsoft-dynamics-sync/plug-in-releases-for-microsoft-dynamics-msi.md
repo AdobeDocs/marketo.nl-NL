@@ -3,9 +3,9 @@ unique-page-id: 10099102
 description: Plug-inreleases voor Microsoft Dynamics MSI - Marketo Docs - Productdocumentatie
 title: Plug-inreleases voor Microsoft Dynamics MSI
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '203'
 ht-degree: 4%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt en installeert u de nieuwste versie van de plug-ins voor Marketo Sales Insight (MSI). Deze plug-ins worden regelmatig door Marketo bijgewerkt, zodat u naar dezelfde locatie kunt terugkeren om de nieuwe versie te downloaden.
 
-Download [de nieuwste plug-in](http://docs.marketo.com/x/LoJo) die overeenkomt met uw release Dynamics.
+Download [de nieuwste plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) die overeenkomt met uw release Dynamics.
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Download [de nieuwste plug-in](http://docs.marketo.com/x/LoJo) die overeenkomt m
 
 ## Uw MSI-oplossing {#updating-your-msi-solution} bijwerken
 
-1. Importeer de nieuwste versie van de oplossing over de bestaande versie van uw Dynamics CRM (bijvoorbeeld: als uw Dynamische CRM versie 1.4 heeft en de recentste versie 1.5 is, zou u *over* versie 1.4) invoeren.
+1. Importeer de nieuwste versie van de oplossing over de bestaande versie van uw Dynamics CRM (bijvoorbeeld: als uw Dynamische CRM versie 1.4 heeft en de recentste versie 1.5 is, zou u _over_ versie 1.4) invoeren.
 1. De volgende pop-up wordt weergegeven. Selecteer **Update** en **Overschrijf aanpassing** opties, dan klik **Import**.
 
    ![](assets/one.png)
@@ -69,4 +69,3 @@ Download [de nieuwste plug-in](http://docs.marketo.com/x/LoJo) die overeenkomt m
   </tr> 
  </tbody> 
 </table>
-
