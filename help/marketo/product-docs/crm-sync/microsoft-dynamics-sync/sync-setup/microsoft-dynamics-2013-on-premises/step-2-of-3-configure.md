@@ -3,7 +3,7 @@ unique-page-id: 3571816
 description: Stap 2 van 3 - vorm de Gebruiker van de Synchronisatie voor Marketo (2013 op-Woonplaatsen) - Marketo Docs - de Documentatie van het Product
 title: Stap 2 van 3 - vorm de Gebruiker van de Synchronisatie voor Marketo (2013 op-gebouw)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Wijs de rol Marketo Sync User alleen toe aan Marketo Sync user. U hoeft het niet
 
 >[!NOTE]
 >
->Dit geldt voor Marketo-plug-in versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om Marketo te bevorderen, zie [Upgrade de Oplossing van de Marketo voor de Dynamica van Microsoft](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Dit geldt voor Marketo-plug-in versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om Marketo te bevorderen, zie [Upgrade de Oplossing van de Marketo voor de Dynamica van Microsoft](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Klik onder **Instellingen** op **Beheer**.
 
