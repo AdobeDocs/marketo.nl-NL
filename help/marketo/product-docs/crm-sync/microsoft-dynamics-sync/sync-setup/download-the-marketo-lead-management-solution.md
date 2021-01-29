@@ -3,7 +3,7 @@ unique-page-id: 6848922
 description: Download de Marketo Lead Management Solution - Marketo Docs - Productdocumentatie
 title: Download de oplossing Marketo Lead Management
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -21,7 +21,7 @@ U zult een Oplossing van de Marketo in uw rekening van de Dynamiek van Microsoft
 
 >[!CAUTION]
 >
->Het is absoluut noodzakelijk dat u de nieuwste Marketo-oplossing *downloadt voordat* een upgrade uitvoert.
+>Het is absoluut noodzakelijk dat u de nieuwste Marketo-oplossing _downloadt voordat_ een upgrade uitvoert.
 
 >[!NOTE]
 >
@@ -29,7 +29,7 @@ U zult een Oplossing van de Marketo in uw rekening van de Dynamiek van Microsoft
 
 1. Ga naar **Admin** gebied.
 
-   ![](assets/admin.png)
+   ![](assets/admin-1.png)
 
 1. Klik op **CRM**.
 
@@ -45,7 +45,6 @@ U zult een Oplossing van de Marketo in uw rekening van de Dynamiek van Microsoft
 
 1. Selecteer de aangewezen oplossing voor uw versie van de Dynamica van Microsoft.
 
-   ![](assets/msd-online.png)
+   ![](assets/msd-online-1.png)
 
    Geweldig! Een ZIP-bestand van de oplossing wordt nu naar het apparaat gedownload.
-
