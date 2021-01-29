@@ -3,7 +3,7 @@ unique-page-id: 6095037
 description: Opmerkingen bij de release - maart 2015 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -maart 2015
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -43,7 +43,7 @@ We hebben nu ondersteuning voor het maken en bewerken van e-mails, sjablonen, mi
 
 ## Microsoft Dynamics 2015 on Premise {#microsoft-dynamics-on-premise}
 
-Ondersteund met het nieuwste installatieprogramma dat nu [toegankelijk is via de app](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+Ondersteund met het nieuwste installatieprogramma dat nu [toegankelijk is via de app](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
