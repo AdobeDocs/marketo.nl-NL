@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Validatie Microsoft Dynamics Sync - Marketo Docs - Productdocumentatie
 title: Synchronisatie van Microsoft-dynamiek valideren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Als u Multi-Factor Authentificatie (MFA) hebt toegelaten voor uw Synchronisatie van de Dynamiek, moet u het onbruikbaar maken opdat de Dynamica behoorlijk met Marketo synchroniseert. Neem voor meer informatie contact op met [Marketo Support](http://nation.marketo.com/community/support_solutions).
+>Als u Multi-Factor Authentificatie (MFA) hebt toegelaten voor uw Synchronisatie van de Dynamiek, moet u het onbruikbaar maken opdat de Dynamica behoorlijk met Marketo synchroniseert. Neem voor meer informatie contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 ## Sync valideren in markeerteken {#run-validate-sync-in-marketo}
 
@@ -45,7 +45,7 @@ Het is zeer belangrijk om het Validate hulpmiddel van de Synchronisatie in werki
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. Als u ![—](assets/delete.png) ziet, dan heeft die stap een kwestie. Zie [Problemen met validatie van dynamiek corrigeren](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) om het probleem op te sporen en te verhelpen. Voer vervolgens de validatiestappen voor synchroniseren opnieuw uit totdat het resultaat eruit ziet zoals in de bovenstaande afbeelding.
+1. Als u ![—](assets/delete.png) ziet, dan heeft die stap een kwestie. Zie [Problemen met validatie van dynamiek corrigeren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) om het probleem op te sporen en te verhelpen. Voer vervolgens de validatiestappen voor synchroniseren opnieuw uit totdat het resultaat eruit ziet zoals in de bovenstaande afbeelding.
 
    >[!CAUTION]
    >
@@ -53,5 +53,4 @@ Het is zeer belangrijk om het Validate hulpmiddel van de Synchronisatie in werki
 
 >[!MORELIKETHIS]
 >
->[Problemen met validatie synchroniseren van dynamiek verhelpen](validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
-
+>[Problemen met validatie synchroniseren van dynamiek verhelpen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
