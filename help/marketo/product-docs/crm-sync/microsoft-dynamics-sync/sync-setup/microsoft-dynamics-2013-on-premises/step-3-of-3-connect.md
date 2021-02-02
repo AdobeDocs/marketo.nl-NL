@@ -3,9 +3,9 @@ unique-page-id: 3571819
 description: Stap 3 van 3 -Connect Marketo and Dynamics (2013 op locatie) - Marketo Docs - Productdocumentatie
 title: Stap 3 van 3 -Connect Marketo and Dynamics (2013 op locatie)
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 
 >[!PREREQUISITES]
 >
->* [Stap 1 van 3: De Marketo-oplossing in Dynamics installeren (2013 op locatie)](step-1-of-3-install.md)
->* [Stap 2 van 3: Sync User for Marketo configureren (2013 op locatie)](step-2-of-3-configure.md)
-
->
-
+>* [Stap 1 van 3: De Marketo-oplossing in Dynamics installeren (2013 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+>* [Stap 2 van 3: Sync User for Marketo configureren (2013 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
 
 
 >[!NOTE]
@@ -42,7 +39,7 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Klik **EDIT** in **Stap 1: Voer referenties in**.
+1. Klik **Bewerken** in **Stap 1: Voer referenties in**.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -50,23 +47,23 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
    >
    >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw abonnement op Marketo aanvragen.
 
-1. Voer **Gebruikersnaam**, **Wachtwoord** en de Dynamiek van Microsoft **URL** in dan klik **SLA**.
+1. Voer **Gebruikersnaam**, **Wachtwoord** en de Dynamiek van Microsoft **URL** in dan klik **sparen**.
 
    ![](assets/image2015-3-26-11-3a47-3a59.png)
 
    >[!NOTE]
    >
-   >De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#631610061123070c0e020a0d4d000c0e) of DOMAIN\user zijn.
+   >De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan user@domain.com of DOMAIN\user zijn.
 
    >[!TIP]
    >
-   >Kent u de URL niet? Wij zullen u tonen hoe te om [de Dienst URL van de Organisatie van de Dynamiek ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) hier te vinden.
+   >Kent u de URL niet? Wij zullen u tonen hoe te om [de Dienst URL van de Organisatie van de Dynamiek ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) hier te vinden.
 
 ## Te synchroniseren velden {#select-fields-to-sync} selecteren
 
 Nu moeten we de velden selecteren waarover we willen synchroniseren.
 
-1. Klik **EDIT **in **Stap 2: Selecteer Te synchroniseren velden**.
+1. Klik **Bewerken** in **Stap 2: Selecteer te synchroniseren velden**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -92,7 +89,7 @@ Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe ve
 
 ## Sync {#enable-sync} inschakelen
 
-1. Klik **EDIT **in **Stap 3: Sync inschakelen**.
+1. Klik **Bewerken** in **Stap 3: Sync inschakelen**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -100,7 +97,7 @@ Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe ve
    >
    >Marketo wordt niet automatisch gededupliceerd bij een synchronisatie met Microsoft Dynamics, of wanneer u handmatig personen of leads invoert.
 
-1. Lees alles in pop-up, ga uw e-mail in, en klik **START SYNC**.
+1. Lees alles in pop-up, ga uw e-mail in, en klik **Begin Synchronisatie**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
@@ -110,13 +107,6 @@ Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe ve
 
 Uitstekend werk! U hebt net de kracht van de bidirectionele synchronisatie tussen Marketo en de Dynamica van Microsoft ontketend. Als je Marketo Sales Insight hebt aangeschaft, is het meer leuk om te hebben:
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [Het Inzicht van de Verkoop van de Marketo in de Dynamica 2013 van Microsoft installeren en vormen](../../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
-
->
-
-
-
+>[Het Inzicht van de Verkoop van de Marketo in de Dynamica 2013 van Microsoft installeren en vormen](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
