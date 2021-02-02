@@ -3,9 +3,9 @@ unique-page-id: 3571800
 description: Stap 3 van 3 -Connect Marketo en Salesforce (Professional) - Marketo Docs - Productdocumentatie
 title: Stap 3 van 3 - Connect Marketo en Salesforce (Professional)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ In dit artikel, zult u Marketo aan synchronisatie met uw gevormde instantie vorm
 
 >[!PREREQUISITES]
 >
->* [Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
->* [Stap 2 van 3: Een Salesforce-gebruiker voor markeertekens maken (Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-
->
-
+>* [Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
+>* [Stap 2 van 3: Een Salesforce-gebruiker voor markeertekens maken (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
 
 
 ## Symbool {#retrieve-sync-user-security-token} voor gebruikersbeveiliging synchroniseren ophalen
@@ -46,18 +43,15 @@ In dit artikel, zult u Marketo aan synchronisatie met uw gevormde instantie vorm
 
 ## Gebruikersreferenties synchroniseren instellen {#set-sync-user-credentials}
 
-1. Ga in Marketo naar **Admin**, selecteer **CRM** en klik **Synchroniseren met [Salesforce.com](http://Salesforce.com)**
+1. Ga in Marketo naar **Admin**, selecteer **CRM** en klik **Synchroniseren met [Salesforce.com](https://Salesforce.com)**.
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Zorg dat u [alle velden die u niet nodig hebt ](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo voor de synchronisatiegebruiker verbergt voordat u **Velden synchroniseren** klikt. Als u op Velden synchroniseren klikt, worden alle velden die de gebruiker kan zien, permanent gemaakt in Marketo en kunnen deze niet worden verwijderd.
+   >Zorg dat u [alle velden die u niet nodig hebt ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo voor de synchronisatiegebruiker verbergt voordat u **Velden synchroniseren** klikt. Als u op Velden synchroniseren klikt, worden alle velden die de gebruiker kan zien, permanent gemaakt in Marketo en kunnen deze niet worden verwijderd.
 
-1. Voer de Salesforce Sync gebruikersgegevens in die zijn gemaakt in deel 2 van de Salesforce-configuratie ([Professional](https://community.marketo.com/MarketoArticle?id=kA050000000LJ3QCAW), [Enterprise](https://community.marketo.com/MarketoArticle?id=kA050000000LIwKCAW)) en klik op **Velden synchroniseren**.
+1. Voer de Salesforce Sync gebruikersgegevens in die zijn gemaakt in deel 2 van de Salesforce-configuratie ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) en klik op **Velden synchroniseren**.
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
@@ -71,7 +65,7 @@ In dit artikel, zult u Marketo aan synchronisatie met uw gevormde instantie vorm
 
    >[!CAUTION]
    >
-   >Als u over [afbeeldingen wilt kijken en hen ](../../../../../product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md) wilt aanpassen, is dit uw enige kans om dit te doen! Als u eenmaal op Salesforce Sync starten hebt geklikt, is het gelukt.
+   >Als u over [afbeeldingen wilt kijken en hen ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md) wilt aanpassen, is dit uw enige kans om dit te doen! Als u eenmaal op Salesforce Sync starten hebt geklikt, is het gelukt.
 
 ## Salesforce Sync starten {#start-salesforce-sync}
 
@@ -83,7 +77,7 @@ In dit artikel, zult u Marketo aan synchronisatie met uw gevormde instantie vorm
    >
    >Marketo wordt niet automatisch gededupliceerd bij een Salesforce-synchronisatie of wanneer u handmatig leads invoert.
 
-1. Klik **START SYNC**.
+1. Klik **Sync starten**.
 
    ![](assets/image2014-12-9-9-3a53-3a32.png)
 
@@ -109,15 +103,8 @@ Marketo bevat statusberichten voor de Salesforce-synchronisatie in het beheergeb
 
 Wow, je hebt net een van de krachtigste functies van Marketo geconfigureerd, ga je!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [Pakket met marketinggegevens in Salesforce AppExchange installeren](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
->* [Marktverkoopinzicht configureren in Salesforce Professional Edition](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->* [Optionele stappen](http://docs.marketo.com/display/docs/optional+steps)
-
->
-
-
+>* [Pakket met marketinggegevens in Salesforce AppExchange installeren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Marktverkoopinzicht configureren in Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 
