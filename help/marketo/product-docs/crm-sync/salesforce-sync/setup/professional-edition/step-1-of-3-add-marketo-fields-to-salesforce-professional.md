@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: Stap 1 van 3 - voeg de Gebieden van de Marketo aan Salesforce (Beroeps) toe - Marketo Docs - de Documentatie van het Product
 title: Stap 1 van 3 - voeg de Gebieden van de Marketo aan Salesforce (Beroeps) toe
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
 1. Log in Salesforce en klik **Setup.**
 
-   ** ![](assets/image2016-5-23-13-3a15-3a21.png)
-
-   **
+   ![](assets/image2016-5-23-13-3a15-3a21.png)
 
 1. Klik in het menu Build aan de linkerkant op **Customize** en selecteer **Leads**. Klik **Velden**.
 
@@ -114,13 +112,13 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
 1. Geef de toegangsinstellingen op en klik op **Volgende**:
 
-   * Alle rollen instellen op **Visible **and **Read-Only**
+   * Alle rollen instellen op **Zichtbaar** en **Alleen-lezen**
 
    * Schakel het selectievakje **Alleen-lezen** voor het profiel van de synchronisatiegebruiker uit:
 
-      * Als u een gebruiker met het profiel van een *Systeembeheerder* als synchronisatiegebruiker hebt, schakelt u het selectievakje **Alleen-lezen** voor het beheerprofiel van het systeem uit (zoals hieronder wordt weergegeven).
+      * Als u een gebruiker met het profiel van een _Systeembeheerder_ als synchronisatiegebruiker hebt, schakelt u het selectievakje **Alleen-lezen** voor het beheerprofiel van het systeem uit (zoals hieronder wordt weergegeven).
 
-      * Als u een *aangepast profiel* voor de synchronisatiegebruiker hebt gemaakt, schakelt u het selectievakje **Alleen-lezen** voor dat aangepaste profiel uit
+      * Als u een _aangepast profiel_ voor de synchronisatiegebruiker hebt gemaakt, schakelt u het selectievakje **Alleen-lezen** voor dat aangepaste profiel uit
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -132,7 +130,7 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. In het menu van de Bouwstijl op de linkerzijde, klik **Customize **en selecteer **Contacten**. Klik **Velden**.
+1. In het menu van de Bouwstijl op de linkerzijde, klik **pas** aan en selecteer **Contacten**. Klik **Velden**.
 1. Voer stap 3 tot en met 10 voor de gebieden van de Score, van de Verwervingsdatum, en van het Programma van de Verwerving op het contactvoorwerp uit, enkel zoals u voor het loodvoorwerp deed.
 1. U kunt de bovenstaande procedure ook gebruiken voor extra aangepaste velden uit deze tabel.
 
@@ -256,17 +254,8 @@ Gemakkelijk genoeg, toch?
 
 >[!NOTE]
 >
->**Diep duiken**
->
 >Hier is een [video van het volledige proces](https://nation.marketo.com/videos/1475) die het kristalhelder zou moeten maken!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [Stap 2 van 3: Een Salesforce-gebruiker voor markeertekens maken (Professional)](step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-
->
-
-
-
+>[Stap 2 van 3: Een Salesforce-gebruiker voor markeertekens maken (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
