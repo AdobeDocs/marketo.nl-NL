@@ -3,7 +3,7 @@ unique-page-id: 10097584
 description: Synchronisatiestatus - Marketo Docs - Productdocumentatie
 title: Synchronisatiestatus
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -35,7 +35,7 @@ U kunt tabs op de tabbladen Synchronisatiestatus en Fouten synchroniseren gebrui
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Klik op de weergave **: **dropdown** **en selecteer **Last Hour **om productieinformatie te bekijken.
+1. Klik op de vervolgkeuzelijst **Weergave:** en selecteer **Laatste uur** om de doorvoergegevens weer te geven.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -55,5 +55,4 @@ Blader, zoek of exporteer leads (en andere objecten) die niet konden worden gesy
 
 >[!MORELIKETHIS]
 >
->* [Typen meldingen](../../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-
+>[Typen meldingen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
