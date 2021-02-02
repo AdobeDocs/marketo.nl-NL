@@ -3,7 +3,7 @@ unique-page-id: 13795802
 description: E-mailberichten uitschakelen voor de eigenaar van de lead - Marketo Docs - Productdocumentatie
 title: E-mailberichten uitschakelen naar eigenaar van lead
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -30,4 +30,3 @@ U kunt de automatische e-mailmeldingen uitschakelen die naar Lead-eigenaars in S
 1. Schakel het selectievakje **E-mailmelding verzenden naar eigenaar in Salesforce bij toewijzing van lead** uit. Klik **Opslaan**.
 
    ![](assets/new-screen.png)
-
