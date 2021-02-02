@@ -3,9 +3,9 @@ unique-page-id: 3571813
 description: Stap 1 van 3 - installeer de Oplossing van de Marketo in Dynamiek (2013 On-Premises) - Marketo Docs - de Documentatie van het Product
 title: Stap 1 van 3 - installeer de Oplossing van de Marketo in Dynamiek (2013 On-Premises)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
 >[!PREREQUISITES]
 >
->U moet [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) hebben met [de Actieve Diensten van de Federatie van de Folder](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 of 3.0 (ADFS) gevormd. Opmerking: Het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
+>U moet [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) hebben met [de Actieve Diensten van de Federatie van de Folder](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 of 3.0 (ADFS) gevormd. Opmerking: Het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
 >
->[Download de Marketo-](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) oplossing voordat u begint.
+>[Download de Marketo-](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) oplossing voordat u begint.
 
 >[!NOTE]
 >
@@ -31,11 +31,11 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 >
 >U hebt CRM-beheerdersrechten nodig om deze synchronisatie uit te voeren.
 
-1. Log in **Dynamics**. Klik **Microsoft Dynamics CRM** drop-down menu en selecteer **SETTINGS**.
+1. Log in **Dynamics**. Klik **Microsoft Dynamics CRM** drop-down menu en selecteer **Montages**.
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
-1. Selecteer **OPLOSSINGEN** onder **INSTELLINGEN**.
+1. Selecteer **Oplossingen** onder **Instellingen**.
 
    ![](assets/image2014-12-11-10-3a39-3a51.png)
 
@@ -43,7 +43,7 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. Klik **Bladeren** en selecteer [gedownloade oplossing](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik **Volgende**.
+1. Klik **Bladeren** en selecteer [gedownloade oplossing](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik **Volgende**.
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
@@ -93,13 +93,6 @@ Was het niet zo erg? Kom op, ik zal je door de rest blijven lopen.
 >
 >Het onbruikbaar maken van om het even welke processen van het Overseinen van SDK van de Marketo zal in gebroken installeren resulteren!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [Stap 2 van 3: Sync User for Marketo configureren (2013 op locatie)](step-2-of-3-configure.md)
-
->
-
-
-
+>[Stap 2 van 3: Sync User for Marketo configureren (2013 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
