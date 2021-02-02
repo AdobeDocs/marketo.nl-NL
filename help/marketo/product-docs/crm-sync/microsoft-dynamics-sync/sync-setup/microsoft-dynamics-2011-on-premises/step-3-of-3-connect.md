@@ -3,9 +3,9 @@ unique-page-id: 3571809
 description: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (2011 op-Premises) - Marketo Docs - de Documentatie van het Product
 title: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (2011 op-Premises)
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 
 >[!PREREQUISITES]
 >
->* [Stap 1 van 3: De Marketo-oplossing installeren (2011 op locatie)](step-1-of-3-install.md)
->* [Stap 2 van 3: Marketo Sync User in Dynamics (2011 op locatie) instellen](step-2-of-3-set-up.md)
+>* [Stap 1 van 3: De Marketo-oplossing installeren (2011 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
+>* [Stap 2 van 3: Marketo Sync User in Dynamics (2011 op locatie) instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -53,17 +53,17 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 
    >[!NOTE]
    >
-   >De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#a0d5d3c5d2e0c4cfcdc1c9ce8ec3cfcd) of DOMAIN\user zijn.
+   >De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan user@domain.com of DOMAIN\user zijn.
 
    >[!TIP]
    >
-   >Kent u de URL niet? Wij zullen u tonen hoe te om [de Dienst URL van de Organisatie van de Dynamiek ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) hier te vinden.
+   >Kent u de URL niet? Wij zullen u tonen hoe te om [de Dienst URL van de Organisatie van de Dynamiek ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) hier te vinden.
 
 ## Te synchroniseren velden {#select-fields-to-sync} selecteren
 
 Nu moeten we de velden selecteren waarover we willen synchroniseren.
 
-1. Klik **Bewerk** in **Stap 2: Selecteer te synchroniseren velden.**
+1. Klik **Bewerken** in **Stap 2: Selecteer te synchroniseren velden.**
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
