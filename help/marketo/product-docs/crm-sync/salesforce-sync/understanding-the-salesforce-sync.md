@@ -3,9 +3,9 @@ unique-page-id: 4719283
 description: De Salesforce Sync - Marketo Docs - Productdocumentatie begrijpen
 title: Werken met Salesforce Sync
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -29,28 +29,17 @@ De synchronisatie tussen Salesforce en Marketo is bidirectioneel slechts voor lo
 
 ## Wat is Synced tussen Marketo en Salesforce? {#what-is-synced-between-marketo-and-salesforce}
 
-* [Leads](sfdc-sync-details/sfdc-sync-lead-sync.md)
-* [Contactpersonen](sfdc-sync-details/sfdc-sync-contact-sync.md)
-* [Accounts](sfdc-sync-details/sfdc-sync-account-sync.md)
-* [Gebruikers](sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-* [Kansen](sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-* [Salesforce-campagnes](sfdc-sync-details/sfdc-sync-campaign-sync.md)
-* [Aangepaste objecten](sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-* [Activiteit](sfdc-sync-details/sfdc-sync-activity-sync.md)
+* [Leads](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+* [Contactpersonen](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+* [Accounts](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+* [Gebruikers](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+* [Kansen](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+* [Salesforce-campagnes](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+* [Aangepaste objecten](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+* [Activiteit](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
 
 >[!NOTE]
 >
->De [geloofsbrieven u in Marketo voor Salesforce](setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) ingaat worden gebruikt om gegevens over te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
+>De [geloofsbrieven u in Marketo voor Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) ingaat worden gebruikt om gegevens over te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
 
-Er zijn veel nuances en functies over de Salesforce-synchronisatie. Bekijk de details in de sectie [SFDC-synchronisatiedetails](http://docs.marketo.com/display/docs/sfdc+sync+details).
-
->[!MORELIKETHIS]
->
->* [Salesforce Sync Setup](http://docs.marketo.com/display/docs/setup)
->* [SFDC-synchronisatiedetails](http://docs.marketo.com/display/docs/sfdc+sync+details)
-
->
-
-
-
-Marketo&#39;s synchronisatie met Salesforce is de krachtigste van zijn soort ter wereld. Het voelt als magie - er wordt een verandering aangebracht en het andere systeem is binnenkort up-to-date.
+Marketo&#39;s synchronisatie met Salesforce is de krachtigste van zijn soort ter wereld. Het voelt als magie; er wordt een wijziging aangebracht en het andere systeem is binnenkort bijgewerkt.
