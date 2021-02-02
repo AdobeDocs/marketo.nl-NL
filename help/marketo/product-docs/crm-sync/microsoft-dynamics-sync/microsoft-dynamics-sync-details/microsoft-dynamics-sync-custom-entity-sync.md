@@ -3,7 +3,7 @@ unique-page-id: 3571846
 description: Microsoft Dynamics Sync - Custom Entity Sync - Marketo Docs - Productdocumentatie
 title: Microsoft Dynamics Sync - Custom Entity Sync
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Als u de aanvankelijke synchronisatie van de douaneentiteit moet toelaten om geg
 
 >[!PREREQUISITES]
 >
->Als u een aangepast object wilt gebruiken, moet het worden gekoppeld aan een [lead](microsoft-dynamics-sync-lead-sync.md), [contact](microsoft-dynamics-sync-contact-sync.md) of [account](microsoft-dynamics-sync-account-sync.md)object in Dynamics.
+>Als u een aangepast object wilt gebruiken, moet het worden gekoppeld aan een [lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md), [contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md) of [account](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)object in Dynamics.
 
 >[!CAUTION]
 >
@@ -35,9 +35,11 @@ Als u de aanvankelijke synchronisatie van de douaneentiteit moet toelaten om geg
 
    ![](assets/image2015-11-10-9-3a0-3a6.png)
 
-1. Installeer een versie van de Dynamica van Microsoft die douanefunctionaliteit (na 2_0_0_2) steunt. Zie [Marketo Plugin-releases voor Microsoft Dynamics](../../../../product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+1. Installeer een versie van de Dynamica van Microsoft die douanefunctionaliteit (na 2_0_0_2) steunt. Zie [Marketo Plugin-releases voor Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
+
 1. Geef de gebruiker van het Marketo synchroon toegang tot om het even welke entiteiten u van plan bent te synchroniseren.
-1. Klik onder Databasebeheer op de koppeling* Dynamische entiteiten synchroniseren**.
+
+1. Klik onder Databasebeheer op de koppeling **Dynamics Entities Sync**.
 
    ![](assets/image2015-11-10-9-3a6-3a55.png)
 
@@ -45,7 +47,7 @@ Als u de aanvankelijke synchronisatie van de douaneentiteit moet toelaten om geg
 
    ![](assets/image2015-11-10-9-3a41-3a37.png)
 
-1. Nadat de lijst synchroniseert, selecteer de gebieden u en degenen wilt synchroniseren u als [beperkingen](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) en/of trekkers in slimme lijsten wilt gebruiken. Wanneer gedaan, klik **toelaten Synchronisatie**.
+1. Nadat de lijst synchroniseert, selecteer de gebieden u en degenen wilt synchroniseren u als [beperkingen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) en/of trekkers in slimme lijsten wilt gebruiken. Wanneer gedaan, klik **toelaten Synchronisatie**.
 
    ![](assets/image2014-10-20-14-3a32-3a55.png)
 
@@ -59,6 +61,6 @@ Als u de aanvankelijke synchronisatie van de douaneentiteit moet toelaten om geg
 
    >[!NOTE]
    >
-   >Entiteitsnamen mogen maximaal** 33 tekens** hebben.
+   >Entiteitsnamen mogen maximaal **33 tekens** bevatten.
 
 Je bent goed!
