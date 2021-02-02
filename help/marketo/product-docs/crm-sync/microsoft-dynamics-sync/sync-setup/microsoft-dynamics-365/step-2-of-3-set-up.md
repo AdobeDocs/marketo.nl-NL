@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: Stap 2 van 3 - de Marketo van de opstelling om Gebruiker in Dynamiek te synchroniseren - Marketo Docs - de Documentatie van het Product
 title: Stap 2 van 3 - Opstelling Marketo om Gebruiker in Dynamiek te synchroniseren
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Laten we beginnen met het maken van een gebruikersaccount.
 
 >[!PREREQUISITES]
 >
->[Stap 1 van 3: De Marketo-oplossing installeren (online)](step-1-of-3-install.md)
+>[Stap 1 van 3: De Marketo-oplossing installeren (online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
 
 ## Nieuwe gebruiker {#create-a-new-user} maken
 
@@ -25,7 +25,7 @@ Laten we beginnen met het maken van een gebruikersaccount.
 
    ![](assets/one.png)
 
-1. Klik op** Instellingen** en selecteer **Beveiliging**.
+1. Klik **Instellingen** en selecteer **Beveiliging**.
 
    ![](assets/two.png)
 
@@ -67,7 +67,7 @@ Wijs de rol Marketo Sync User alleen toe aan Marketo Sync user. U hoeft het niet
 
 >[!NOTE]
 >
->Dit geldt voor Marketo versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om Marketo te bevorderen, zie [Oplossing van de Marketo van de Verbetering voor de Dynamica van Microsoft](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Dit geldt voor Marketo versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om Marketo te bevorderen, zie [Oplossing van de Marketo van de Verbetering voor de Dynamica van Microsoft](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Ga terug naar het Toegelaten lusje van Gebruikers en vernieuw de gebruikerslijst.
 
@@ -93,13 +93,13 @@ Wijs de rol Marketo Sync User alleen toe aan Marketo Sync user. U hoeft het niet
 
 Bijna daar! We hebben alleen nog maar Marketo Solution op de hoogte gebracht van de nieuwe gebruiker die is gemaakt.
 
-1. Ga terug naar de Geavanceerde sectie van Montages, klik ![](assets/image2015-5-13-15-3a49-3a19.png)pictogram naast Montages, en selecteer **Marketo Config**.
+1. Ga terug naar de Geavanceerde sectie van Montages, klik ![](assets/image2015-5-13-15-3a49-3a19.png) pictogram naast Montages, en selecteer **Marketo Config**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Als u **Marketo Config** in het menu van Montages niet ziet, vernieuw de pagina. Als dat niet werkt, probeer om [de Oplossing van de Marketo ](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) [](https://docs.marketo.com/pages/viewpage.action?pageId=3571822#publish-customizations) opnieuw te publiceren of logout en terug binnen.
+   >Als u **Marketo Config** in het menu van Montages niet ziet, vernieuw de pagina. Als dat niet werkt, probeer om [de Oplossing van het Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md) opnieuw te publiceren of logout en terug binnen.
 
 1. Klik **Standaard**.
 
@@ -109,7 +109,7 @@ Bijna daar! We hebben alleen nog maar Marketo Solution op de hoogte gebracht van
 
    ![](assets/sixteen.png)
 
-1. Klik op het pictogram ![](assets/image2015-3-13-15-3a10-3a11.png)in de rechterbenedenhoek om de wijzigingen op te slaan.
+1. Klik op het pictogram ![](assets/image2015-3-13-15-3a10-3a11.png) in de rechterbenedenhoek om de wijzigingen op te slaan.
 
    ![](assets/image2015-3-13-15-3a3-3a3.png)
 
@@ -117,7 +117,7 @@ Bijna daar! We hebben alleen nog maar Marketo Solution op de hoogte gebracht van
 
    ![](assets/seventeen.png)
 
-1. Klik op het pictogram ![](assets/image2015-5-13-15-3a49-3a19-1.png)naast Instellingen en selecteer **Oplossingen**.
+1. Klik op het pictogram ![](assets/image2015-5-13-15-3a49-3a19-1.png) naast Instellingen en selecteer **Oplossingen**.
 
    ![](assets/eighteen.png)
 
@@ -127,13 +127,10 @@ Bijna daar! We hebben alleen nog maar Marketo Solution op de hoogte gebracht van
 
 ## Voordat u doorgaat naar stap 3 {#before-proceeding-to-step}
 
-    * Als u het aantal records dat u synchroniseert wilt beperken, moet u [een aangepast synchronisatiefilter instellen] (../../../../../product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
-    * Voer het proces [Validate Microsoft Dynamics Sync] (../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) uit. Hierbij wordt gecontroleerd of de eerste instellingen correct zijn uitgevoerd.
+    * Als u het aantal records dat u synchroniseert wilt beperken, moet u [een aangepast synchronisatiefilter instellen] (/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
+    * Voer het proces [Validate Microsoft Dynamics Sync] (/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) uit. Hierbij wordt gecontroleerd of de eerste instellingen correct zijn uitgevoerd.
     * Login in de Marketo Sync Gebruiker in de Dynamica CRM van Microsoft.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->
->[Stap 3 van 3: Microsoft Dynamics verbinden met Marketo (online)](step-3-of-3-connect.md)
+>[Stap 3 van 3: Microsoft Dynamics verbinden met Marketo (online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
