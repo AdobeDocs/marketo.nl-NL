@@ -3,7 +3,7 @@ unique-page-id: 4719291
 description: Standaardnaam persoon en bedrijfsnaam instellen - Marketo Docs - Productdocumentatie
 title: Achternaam en bedrijfsnaam voor standaardpersoon instellen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Salesforce vereist (minimale) achternaam en bedrijfsnaam voor de bijbehorende le
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Voer een **achternaam standaardpersoon** en een **Standaard ****Personenbedrijf** in en klik vervolgens op **Opslaan**.
+1. Voer een **achternaam standaardpersoon** en een **Standaardpersonenbedrijf** in en klik vervolgens op **Opslaan**.
 
    ![](assets/sync-options-hands.png)
 
