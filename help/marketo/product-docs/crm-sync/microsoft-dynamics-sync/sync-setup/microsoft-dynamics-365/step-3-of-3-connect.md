@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (Online) - Marketo Docs - de Documentatie van het Product
 title: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (Online)
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
 >[!PREREQUISITES]
 >
->* [Stap 1 van 3: De Marketo-oplossing installeren (online)](step-1-of-3-install.md)
+>* [Stap 1 van 3: De Marketo-oplossing installeren (online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
    >
    >
-* [Stap 2 van 3: Marketo synchroniseren van gebruiker in dynamiek instellen](step-2-of-3-set-up.md)
-
->
-
+* [Stap 2 van 3: Marketo synchroniseren van gebruiker in dynamiek instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -58,7 +55,7 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
    >[!NOTE]
    >
-   >De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#bcc9cfd9cefcd8d3d1ddd5d292dfd3d1) of DOMAIN\user zijn.
+   >De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan user@domain.com of DOMAIN\user zijn.
 
 ## Te synchroniseren velden {#select-fields-to-sync} selecteren
 
