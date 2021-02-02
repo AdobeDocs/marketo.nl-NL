@@ -3,9 +3,9 @@ unique-page-id: 2360364
 description: Stap 2 van 3 - creeer een Gebruiker Salesforce voor Marketo (Onderneming/Onbeperkt) - Marketo Docs - de Documentatie van het Product
 title: Stap 2 van 3 - creeer een Gebruiker Salesforce voor Marketo (Onderneming/Onbeperkt)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt)](step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
-
->
-
-
+>[Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
 In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en maakt u een Marketo-Salesforce-integratieaccount.
 
@@ -100,10 +96,10 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
 1. Ga op de pagina met profieldetails naar **Field-Level Security**. Klik **Weergave** om de toegankelijkheid voor de objecten te bewerken:
 
-   * `Lead`
-   * `Contact`
-   * `Account`
-   * `Opportunity`
+   * Lood
+   * Contact
+   * Account
+   * Opportunity
 
    >[!TIP]
    >
@@ -115,18 +111,15 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Zoek de overbodige velden en zorg ervoor dat **Leestoegang **en** Toegang bewerken **niet is ingeschakeld. Klik **Opslaan** wanneer u klaar bent.
+1. Zoek de overbodige velden en zorg ervoor dat **Leestoegang** en **Toegang bewerken** niet is ingeschakeld. Klik **Opslaan** wanneer u klaar bent.
 
    >[!NOTE]
-   >
-   >**Herinnering**
-   >
    >
    >Bewerk alleen de toegankelijkheid voor de aangepaste velden.
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Nadat u alle onnodige velden hebt uitgeschakeld, moet u **Toegang lezen en Toegang **bewerken voor de volgende objectvelden inschakelen. Klik **Opslaan** wanneer u klaar bent.
+1. Nadat u alle onnodige gebieden hebt onbruikbaar gemaakt, moet u **Toegang lezen en Toegang** voor de volgende objecten gebieden uitgeven. Klik **Opslaan** wanneer u klaar bent.
 
 <table> 
  <tbody> 
@@ -155,7 +148,7 @@ In dit artikel stelt u gebruikersmachtigingen in in het Salesforce-profiel en ma
 
 >[!TIP]
 >
->Een speciale Salesforce-account maken (bijvoorbeeld [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#89e4e8fbe2ecfde6c9f0e6fcfbeae6e4f9e8e7f0a7eae6e4)) om de veranderingen te onderscheiden die door Marketo tegenover andere gebruikers Salesforce worden aangebracht.
+>Maak een speciale Salesforce-account (bijv. marketo@yourcompany.com) om onderscheid te maken tussen de wijzigingen die door Marketo en andere Salesforce-gebruikers zijn aangebracht.
 
 1. Typ &quot;Gebruikers beheren&quot; in de zoekbalk Nav en klik op **Gebruikers**. Klik op **Nieuwe Gebruiker**.
 
@@ -169,11 +162,4 @@ Stap 2 van 2 is voltooid.
 
 >[!NOTE]
 >
->**Verwante artikelen**
->
->* [Stap 3 van 3: Connect Marketo en Salesforce (Enterprise/Onbeperkt)](step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
-
->
-
-
-
+>[Stap 3 van 3: Connect Marketo en Salesforce (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
