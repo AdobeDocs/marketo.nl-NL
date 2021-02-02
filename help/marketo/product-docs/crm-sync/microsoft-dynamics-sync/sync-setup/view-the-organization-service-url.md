@@ -3,7 +3,7 @@ unique-page-id: 7504770
 description: Bekijk de URL van de Dienst van de Organisatie - Marketo Docs - de Documentatie van het Product
 title: De URL van de organisatieservice weergeven
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Marketo heeft de URL van de Dienst van de Organisatie nodig om met de instanties
 
    ![](assets/one.png)
 
-1. Klik op** Instellingen** en selecteer **Aanpassingen**.
+1. Klik **Instellingen** en selecteer **Aanpassingen**.
 
    ![](assets/two.png)
 
@@ -27,9 +27,8 @@ Marketo heeft de URL van de Dienst van de Organisatie nodig om met de instanties
 
    ![](assets/three.png)
 
-1. De URL van de Organisatie Service is te vinden onder** Service Endpoints**.
+1. De URL van de Service van de Organisatie kan onder **de Eindpunten van de Dienst** worden gevonden.
 
    ![](assets/four.png)
 
 1. Kopieer en plak deze URL naar Marketo en profiteer van de rest van de synchronisatie.
-
