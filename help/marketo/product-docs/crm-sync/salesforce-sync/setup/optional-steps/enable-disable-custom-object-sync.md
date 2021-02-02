@@ -3,7 +3,7 @@ unique-page-id: 4719297
 description: Aangepaste objectsynchronisatie inschakelen/uitschakelen - Marketo Docs - Productdocumentatie
 title: Aangepaste objectsynchronisatie inschakelen/uitschakelen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,11 +23,9 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook onde
 
 1. Klik **Admin**.
 
-   ** ![](assets/one.png)
+   ![](assets/one.png)
 
-   **
-
-1. Klik in het menu Databasebeheer op **Salesforce** **Objects Sync**.
+1. Klik in het menu Databasebeheer op **Synchronisatie Salesforce-objecten**.
 
    ![](assets/two-2.png)
 
@@ -57,9 +55,7 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook onde
 
 1. Klik **Schakel Sync** opnieuw in.
 
-   ** ![](assets/image2014-12-10-10-3a15-3a40.png)
-
-   **
+   ![](assets/image2014-12-10-10-3a15-3a40.png)
 
 1. Ga terug naar **Salesforce** tabel en klik **Sync inschakelen**.
 
@@ -71,7 +67,7 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook onde
 >
 >U kunt aangepaste objecten niet gebruiken in slimme campagnes met triggers.
 
-1. Sleep in uw slimme lijst over het filter **Heeft opportuniteit** en stel dit in op **true**.
+1. Sleep in uw slimme lijst over het filter **Heeft Opportunity** en ingesteld op **true**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -83,9 +79,4 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook onde
 
 >[!MORELIKETHIS]
 >
->* [Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen](add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-
->
-
-
-
+>[Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
