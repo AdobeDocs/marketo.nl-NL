@@ -3,7 +3,7 @@ unique-page-id: 4719289
 description: Campagne synchroniseren inschakelen/uitschakelen - Marketo Docs - Productdocumentatie
 title: Campagnesynchronisatie inschakelen/uitschakelen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -15,15 +15,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Beheerdersrechten vereist.
+>**Beheerdersmachtigingen vereist**
 
 Met deze optie kan Marketo zijn lidmaatschap en status van het programma synchroniseren met Salesforce-campagnes en andersom.
 
-1. Ga naar **Admin, **klik **Salesforce.**
+1. Ga naar **Admin**, klik **Salesforce**.
 
-   ** ![](assets/image2014-12-9-13-3a36-3a49.png)
-
-   **
+   ![](assets/image2014-12-9-13-3a36-3a49.png)
 
 1. Klik **Synchronisatie-instellingen bewerken**.
 
@@ -37,11 +35,7 @@ Daar heb je het. Geef de synchronisatie gewoon wat tijd om de gegevens van Sales
 
 >[!MORELIKETHIS]
 >
->* [SFDC-synchronisatie: Campagne synchroniseren](../../../../../product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
->* [Standaardvoorloopachternaam en bedrijfswaarden instellen](set-default-person-last-name-and-company-name.md)
->* [Activiteiten synchroniseren aanpassen](customize-activities-sync.md)
-
->
-
-
+>* [SFDC-synchronisatie: Campagne synchroniseren](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+>* [Standaardvoorloopachternaam en bedrijfswaarden instellen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
+>* [Activiteiten synchroniseren aanpassen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
 
