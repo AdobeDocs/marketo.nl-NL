@@ -3,9 +3,9 @@ unique-page-id: 3571838
 description: Microsoft Dynamics Sync -Field Sync - Marketo Docs - Productdocumentatie
 title: Microsoft Dynamics Sync - Field Sync
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -31,21 +31,12 @@ Nee, dit wordt momenteel niet ondersteund.
 
 ## Ik creëerde een veld in Dynamics. Kan ik het synchroniseren met Marketo? {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-Ja, u kunt [het veld ](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync) synchroniseren zolang uw synchronisatiegebruiker er toegang toe heeft in Dynamics.
+Ja, u kunt [het veld ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync) synchroniseren zolang uw synchronisatiegebruiker er toegang toe heeft in Dynamics.
 
 Welke velden worden gesynchroniseerd met Marketo?
 
-Tijdens de installatie kunt u [velden selecteren om te synchroniseren](https://docs.marketo.com/pages/viewpage.action?pageId=3571830#Step3of3:ConnectMicrosoftDynamicswithMarketo(Online)-SelectFieldstoSync).
+Tijdens de installatie kunt u [velden selecteren om te synchroniseren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync).
 
 ## Wat als ik een douanegebied moet toevoegen nadat de Marketo en de Dynamica worden gesynchroniseerd? {#what-if-i-need-to-add-a-custom-field-after-marketo-and-dynamics-are-synced}
 
-U kunt velden op elk gewenst moment toevoegen en verwachten dat de gegevens worden vernieuwd van Dynamiek naar Marketo. Zie [Snelle Synchronisatie met de Dynamica van Microsoft voor een Nieuw Geëigend Gebied ](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) voor details gebruiken.
-
->[!MORELIKETHIS]
->
->* [Snelle synchronisatie gebruiken met Microsoft Dynamics voor een nieuw aangepast veld](microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
-
->
-
-
-
+U kunt velden op elk gewenst moment toevoegen en verwachten dat de gegevens worden vernieuwd van Dynamiek naar Marketo. Zie [Snelle Synchronisatie met de Dynamica van Microsoft voor een Nieuw Geëigend Gebied ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md) voor details gebruiken.
