@@ -3,9 +3,9 @@ unique-page-id: 3571805
 description: Stap 1 van 3 - installeer de Oplossing van de Marketo (2011 On-Premises) - Marketo Docs - de Documentatie van het Product
 title: Stap 1 van 3 - installeer de Oplossing van de Marketo (2011 On-Premises)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
 >[!PREREQUISITES]
 >
->U moet [Internet Facing Deployment](http://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) hebben met [de Actieve Diensten van de Federatie van de Folder](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 of 3.0 (ADFS) gevormd. **Opmerking**: Het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
+>U moet [Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) (IFD) hebben met [de Actieve Diensten van de Federatie van de Folder](https://msdn.microsoft.com/en-us/library/bb897402.aspx) 2.0, 2.1 of 3.0 (ADFS) gevormd. **Opmerking**: Het IFD-document wordt automatisch gedownload wanneer u op de koppeling klikt.
 >
->[Download de ](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Oplossing van het Beheer van de Lood van het Marketo alvorens u begint.
+>[Download de ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Oplossing van het Beheer van de Lood van het Marketo alvorens u begint.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Klik **Bladeren**. Selecteer de Marketo Lead Management-oplossing die u [hebt gedownload](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik **Volgende**.
+1. Klik **Bladeren**. Selecteer de Marketo Lead Management-oplossing die u [hebt gedownload](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik **Volgende**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -93,8 +93,6 @@ Was het niet zo erg? Kom op, ik zal je door de rest blijven lopen.
 >
 >Het onbruikbaar maken van om het even welke processen van het Overseinen van SDK van de Marketo zal in gebroken installeren resulteren!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->[Stap 2 van 3: Marketo Sync User in Dynamics (2011 op locatie) instellen](step-2-of-3-set-up.md)
+>[Stap 2 van 3: Marketo Sync User in Dynamics (2011 op locatie) instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
