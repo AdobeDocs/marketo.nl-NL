@@ -3,9 +3,9 @@ unique-page-id: 3571822
 description: Stap 1 van 3 - installeer de Oplossing van de Marketo (Online) - Marketo Docs - de Documentatie van het Product
 title: Stap 1 van 3 - installeer de Oplossing van de Marketo (Online)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Alvorens u de Dynamica 365 en Marketo van Microsoft kunt synchroniseren, moet u 
 
 >[!CAUTION]
 >
->* `Do not enable custom entity sync before the initial sync is completed. You will be notified via email once the initial sync is completed.`
->* Als u Multi-Factor Authentificatie (MFA) hebt toegelaten voor uw Synchronisatie van de Dynamiek, moet u het onbruikbaar maken opdat de Dynamica behoorlijk met Marketo synchroniseert. Neem voor meer informatie contact op met [Marketo Support](http://nation.marketo.com/community/support_solutions).
-
->
-
+>* Schakel aangepaste entiteitssynchronisatie niet in voordat de eerste synchronisatie is voltooid. U wordt via e-mail op de hoogte gesteld zodra de eerste synchronisatie is voltooid.
+>* Als u Multi-Factor Authentificatie (MFA) hebt toegelaten voor uw Synchronisatie van de Dynamiek, moet u het onbruikbaar maken opdat de Dynamica behoorlijk met Marketo synchroniseert. Neem voor meer informatie contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 
 >[!NOTE]
@@ -30,27 +27,25 @@ Alvorens u de Dynamica 365 en Marketo van Microsoft kunt synchroniseren, moet u 
 
 >[!PREREQUISITES]
 >
->[Download de oplossing Marketo Lead Management](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Download de oplossing Marketo Lead Management](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
 
-1. Meld u aan bij ** [Microsoft Office 365](https://login.microsoftonline.com/) **.
+1. Meld u aan bij **[Microsoft Office 365](https://login.microsoftonline.com/)**.
 
    ![](assets/image2015-3-16-15-3a58-3a55.png)
 
-1. Klik ![](assets/image2015-3-16-16-3a1-3a13.png)menu en selecteer **CRM**.
+1. Klik ![](assets/image2015-3-16-16-3a1-3a13.png) menu en selecteer **CRM**.
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. Klik op ![](assets/image2015-5-13-10-3a5-3a8.png). Selecteer in het vervolgkeuzemenu **Instellingen **Selecteer vervolgens **Oplossingen**.
+1. Klik op ![](assets/image2015-5-13-10-3a5-3a8.png). Selecteer **Instellingen** in het vervolgkeuzemenu en selecteer vervolgens **Oplossingen**.
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
 1. Klik **Importeren.**
 
-   ** ![](assets/image2015-3-19-8-3a34-3a8.png)
+   ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-   **
-
-1. Klik **Kies Bestand.** Selecteer de oplossing Marketo Lead Management die u hebt  [gedownload](../../../../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik **Volgende**.
+1. Klik **Kies Bestand.** Selecteer de oplossing Marketo Lead Management die u hebt  [gedownload](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Klik **Volgende**.
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -98,4 +93,4 @@ Alvorens u de Dynamica 365 en Marketo van Microsoft kunt synchroniseren, moet u 
 
    >[!MORELIKETHIS]
    >
-   >[Stap 2 van 3: Marketo synchroniseren van gebruiker in dynamiek instellen](step-2-of-3-set-up.md)
+   >[Stap 2 van 3: Marketo synchroniseren van gebruiker in dynamiek instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
