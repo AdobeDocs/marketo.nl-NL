@@ -3,9 +3,9 @@ unique-page-id: 12983390
 description: Registreer een app bij Azure om uw client-id/app-id aan te schaffen - Marketo Docs - Productdocumentatie
 title: Registreer een app bij Azure om uw client-id/app-id op te halen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Azure Active Directory breidt uw directories op locatie uit naar de cloud en bie
 
    ![](assets/three.png)
 
-1. Klik op **Nieuwe registratie **boven aan de pagina.
+1. Klik **Nieuwe registratie** bij de bovenkant van de pagina.
 
    ![](assets/four.png)
 
