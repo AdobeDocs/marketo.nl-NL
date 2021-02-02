@@ -3,7 +3,7 @@ unique-page-id: 10098379
 description: Snelle synchronisatie met Microsoft Dynamics gebruiken voor een nieuw aangepast veld - Marketo Docs - Productdocumentatie
 title: Snelle synchronisatie gebruiken met Microsoft Dynamics voor een nieuw aangepast veld
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '355'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Hieronder wordt beschreven hoe u Snelle synchronisatie gebruikt om te resynchron
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Klik op** Microsoft Dynamics**.
+1. Klik **Microsoft Dynamics**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -67,7 +67,7 @@ Wat gebeurt er als u een bestaand veld wilt synchroniseren, maar dit alleen wilt
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
-1. Kies **Bijgewerkt **en selecteer een datumwaaier gebruikend de datumkiezers. Klik **Opslaan**.
+1. Kies **Bijgewerkt** en selecteer een datumbereik met de datumkiezers. Klik **Opslaan**.
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
@@ -86,4 +86,3 @@ In het zeldzame geval dat een veld Dynamiek en Marketo niet meer synchroon is, i
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 
    Dat zou het moeten oplossen!
-
