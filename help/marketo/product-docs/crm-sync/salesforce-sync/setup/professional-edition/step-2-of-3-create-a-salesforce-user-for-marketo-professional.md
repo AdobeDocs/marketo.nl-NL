@@ -3,9 +3,9 @@ unique-page-id: 3571797
 description: Stap 2 van 3 - creeer een Gebruiker Salesforce voor Marketo (Beroeps) - Marketo Docs - de Documentatie van het Product
 title: Stap 2 van 3 - creeer een Gebruiker Salesforce voor Marketo (Beroeps)
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional)](step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-
->
-
-
+>[Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
 In dit artikel past u de veldmachtigingen aan met een Salesforce Page Layout en maakt u een synchronisatiegebruiker Marketo-Salesforce.
 
@@ -92,9 +88,6 @@ Salesforce Professional stelt toegankelijkheid op veldniveau in met paginalay-ou
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
    >Zorg ervoor dat het veld **All-Day Event** is toegevoegd aan **Layout gebeurtenispagina**.
 
 ## Synchronisatiegebruiker {#create-sync-user} maken
@@ -123,13 +116,6 @@ Marketo heeft referenties nodig om toegang te krijgen tot Salesforce. Dit kunt u
 
 Uitstekend! Nu hebt u een account dat Marketo kan gebruiken om verbinding te maken met Salesforce. Laten we het doen.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [Stap 3 van 3: Connect Marketo en Salesforce (Professional)](step-3-of-3-connect-marketo-and-salesforce-professional.md)
-
->
-
-
-
+>[Stap 3 van 3: Connect Marketo en Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
