@@ -3,7 +3,7 @@ unique-page-id: 10095307
 description: Aangepaste filterregels voor synchronisatie voor een e-mailadres - Marketo Docs - Productdocumentatie
 title: Aangepaste filterregels voor synchronisatie voor een e-mailadres
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -21,4 +21,3 @@ Volg deze regels om te voorkomen dat records zonder e-mailadres worden gesynchro
 
 * Wanneer het gebied van de Naam van het Bedrijf van het contact (ouderlijkeId) wordt bijgewerkt, controleer of de Synchronisatie van het contact aan het gebied van Mkto waar is. Als dit het geval is, wijzigt u Sync in Mkto op de account in **True** ook
 * Wanneer het veld Potentiële klant (klant) of Contact (bovenliggende contactpersoon) van de opportuniteit wordt bijgewerkt, controleert u of het veld Synchroniseren met Mkto van de account waar is of of het veld Synchroniseren met Mkto van de contactpersoon waar is. Als dit zo is, wijzigt u Sync in Mkto bij de gelegenheid in **True** ook
-
