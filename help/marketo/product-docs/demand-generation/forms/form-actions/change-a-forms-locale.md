@@ -3,9 +3,9 @@ unique-page-id: 2359657
 description: Landinstelling van een formulier wijzigen - Marketo Docs - Productdocumentatie
 title: De landinstelling van een formulier wijzigen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Wanneer u werkt met internationale formulieren, wilt u datums/tijden in de juiste notatie weergeven. Marketo doet dit automatisch voor u. Je hoeft alleen maar de landinstelling van het formulier in te stellen en we zorgen voor de rest.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. Klik onder **Formulier** **Instellingen** op **Instellingen**.
+1. Klik onder **Formulierinstellingen** op **Instellingen**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
@@ -35,7 +35,7 @@ Wanneer u werkt met internationale formulieren, wilt u datums/tijden in de juist
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Klik op **Goedkeuren en Sluiten **om de wijzigingen toe te passen en op te slaan.
+1. Klik **Goedkeuren en Sluiten** om wijzigingen toe te passen en op te slaan.
 
    >[!NOTE]
    >
@@ -45,13 +45,8 @@ Wanneer u werkt met internationale formulieren, wilt u datums/tijden in de juist
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Vergeet niet om [het concept van de bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren dat door de formulierwijzigingen is gemaakt.
+   >Vergeet niet om [het concept van de bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren dat door de formulierwijzigingen is gemaakt.
 
-1. 
-1. Dat is dat! Mensen kunnen zien dat de datum/tijd wordt weergegeven in de juiste landinstelling.
+   Dat is dat! Mensen kunnen zien dat de datum/tijd wordt weergegeven in de juiste landinstelling.
 
    ![](assets/image2014-9-15-12-3a53-3a59.png)
-
