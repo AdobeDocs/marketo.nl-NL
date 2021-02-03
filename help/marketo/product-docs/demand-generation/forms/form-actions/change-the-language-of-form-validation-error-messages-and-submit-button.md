@@ -3,9 +3,9 @@ unique-page-id: 2359654
 description: De taal van de validatie-/foutberichten van formulieren wijzigen en de knop Verzenden - Marketo Docs - Productdocumentatie
 title: De taal van de berichten voor formuliervalidatie/foutmeldingen en de knop Verzenden wijzigen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Wist u dat u het formulier kunt aanpassen om berichten in een andere taal te gev
 >
 >Hierdoor verandert ook de taal van de verzendknop.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Selecteer het formulier en klik op **Formulier bewerken.**
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-12-3a47-3a46.png)
 
@@ -31,7 +31,7 @@ Wist u dat u het formulier kunt aanpassen om berichten in een andere taal te gev
 
    ![](assets/image2014-9-15-12-3a48-3a5.png)
 
-1. Selecteer **Error** **Taal** u nodig hebt.
+1. Selecteer de **Fouttaal** die u nodig hebt.
 
    ![](assets/image2014-9-15-12-3a48-3a26.png)
 
@@ -49,10 +49,7 @@ Wist u dat u het formulier kunt aanpassen om berichten in een andere taal te gev
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Onthoud dat u [het concept van de bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dat door de formulierwijzigingen is gemaakt, goedkeurt.
+   >Onthoud dat u [het concept van de bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) dat door de formulierwijzigingen is gemaakt, goedkeurt.
 
    ![](assets/image2014-9-15-12-3a50-3a11.png)
 
