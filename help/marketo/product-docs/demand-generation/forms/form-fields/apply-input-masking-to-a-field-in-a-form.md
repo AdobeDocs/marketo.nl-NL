@@ -3,7 +3,7 @@ unique-page-id: 2359667
 description: Invoermaskering toepassen op een veld in een formulier - Marketo Docs - Productdocumentatie
 title: Invoermaskering toepassen op een veld in een formulier
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 U kunt de invoer van de bezoeker beperken met behulp van een invoermasker. U wilt bezoekers bijvoorbeeld wellicht alleen telefoonnummers invoeren in een specifieke notatie.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Selecteer uw veld en zorg ervoor dat **Field** **Type** is ingesteld op **Text**.
+1. Selecteer uw veld en zorg ervoor dat **Veldtype** is ingesteld op **Tekst**.
 
    >[!NOTE]
    >
@@ -31,7 +31,7 @@ U kunt de invoer van de bezoeker beperken met behulp van een invoermasker. U wil
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Klik op de koppeling **Masker** **Invoer**.
+1. Klik op de koppeling **Maskerinvoer**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
