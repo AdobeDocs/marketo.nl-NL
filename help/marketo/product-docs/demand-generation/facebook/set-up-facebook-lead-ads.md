@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Advertenties voor Facebook-leads instellen - Marketo Docs - Productdocumentatie
 title: Advertenties voor Facebook-leads instellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -19,9 +19,7 @@ Gebruik [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) om adv
 >
 >**Beheerdersmachtigingen vereist**
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Neem contact op met Customer Success Manager om Facebook Lead Ads aan uw exemplaar toe te voegen.
 
@@ -37,7 +35,7 @@ Gebruik [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) om adv
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Open een nieuw tabblad in dezelfde browser en ga naar [www.facebook.com.](http://www.facebook.com.) Meld u aan bij Facebook met het account dat u voor de integratie wilt gebruiken.
+1. Open een nieuw tabblad in dezelfde browser en ga naar [facebook.com](http://www.facebook.com). Meld u aan bij Facebook met het account dat u voor de integratie wilt gebruiken.
 
    >[!NOTE]
    >
@@ -69,7 +67,7 @@ Gebruik [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) om adv
 
    >[!TIP]
    >
-   >Door de toewijzingen te wijzigen, kunt u aanpassen waar de gegevens van de lood-advertenties in Marketo worden opgeslagen. U kunt ook [gegevens ophalen uit Aangepaste vragen voor Advertenties voor lead](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
+   >Door de toewijzingen te wijzigen, kunt u aanpassen waar de gegevens van de lood-advertenties in Marketo worden opgeslagen. U kunt ook [gegevens ophalen uit Aangepaste vragen voor Advertenties voor lead](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md).
 
    >[!CAUTION]
    >
@@ -83,10 +81,6 @@ Gebruik [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) om adv
 
 >[!MORELIKETHIS]
 >
->* [Filters en triggers voor advertenties gebruiken in een slimme campagne](use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
->* [Aangepaste velden toewijzen aan markeerteken](set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-
->
-
-
+>* [Filters en triggers voor advertenties gebruiken in een slimme campagne](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
+>* [Aangepaste velden toewijzen aan markeerteken](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
 
