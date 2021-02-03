@@ -3,7 +3,7 @@ unique-page-id: 10096681
 description: Werken met de status van het Webinar-programma - Marketo Docs - Productdocumentatie
 title: Werken met de status van het Webinar-programma
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -27,9 +27,9 @@ Hier volgt een korte beschrijving van de programmastatussen die zijn gekoppeld a
 
 **Niet in Programma**  - Gebruik deze status om mensen uit de gebeurtenis te verwijderen.
 
-** Uitgenodigd** - Gebruik deze status om personen aan de gebeurtenis toe te voegen.
+**Uitgenodigd**  - Gebruik deze status om personen aan de gebeurtenis toe te voegen.
 
-**In afwachting van goedkeuring**  - Gebruik deze status om het verzenden van een bevestigingsbericht aan uw mensen uit te stellen. Zie &quot;Handmatig Registrerende Registranten&quot;in [ON24 Updates van de Registratie van de Gebeurtenis](on24-event-registration-updates.md) voor meer informatie goedkeuren.
+**In afwachting van goedkeuring**  - Gebruik deze status om het verzenden van een bevestigingsbericht aan uw mensen uit te stellen. Zie &quot;Handmatig Registrerende Registranten&quot;in [ON24 Updates van de Registratie van de Gebeurtenis](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) voor meer informatie goedkeuren.
 
 **Wacht op aanbieding**  - Gebruik deze status om te wachten tot er meer licenties beschikbaar zijn.
 
@@ -43,7 +43,7 @@ Hier volgt een korte beschrijving van de programmastatussen die zijn gekoppeld a
 >
 >Als er een registratiefout optreedt, kunt u aanvullende informatie voor die persoon opvragen door de kolom Reden van status te bekijken op het tabblad Leden van uw programma. Nadat de fout is opgelost, kunt u de programmastatus van de gebruiker handmatig wijzigen in Geregistreerd binnen Marketo.
 
-**Bijgewoond** - Aan het eind van het webinar, keert ON24 een lijst van mensen terug die bijwoonden. Deze status wordt automatisch naar Marketo getrokken.
+**Bijgewoond**  - Aan het eind van het webinar, keert ON24 een lijst van mensen terug die bijwoonden. Deze status wordt automatisch naar Marketo getrokken.
 
 **Bijgewoond op bestelling**  - Mensen die de gearchiveerde versie van webinar bijwoonden ontvangen deze status.
 
@@ -55,9 +55,4 @@ Hier volgt een korte beschrijving van de programmastatussen die zijn gekoppeld a
 
 >[!MORELIKETHIS]
 >
->* [Inzicht in Marketo ON24-adaptergebeurtenissen](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Inzicht in Marketo ON24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
