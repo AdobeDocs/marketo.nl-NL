@@ -3,9 +3,9 @@ unique-page-id: 2359663
 description: Een waarde voor een verborgen formulierveld instellen - Marketo Docs - Productdocumentatie
 title: De waarde van een verborgen formulierveld instellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Verborgen velden worden gewoonlijk dynamisch gevuld. Zij worden niet getoond aan
 
 >[!PREREQUISITES]
 >
->[Een formulierveld instellen als verborgen](set-a-form-field-as-hidden.md)
+>[Een formulierveld instellen als verborgen](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
 
 ## Selecteer het veld {#select-the-field}
 
@@ -33,11 +33,11 @@ Als u Standaardwaarde gebruiken selecteert, kunt u code toepassen op een specifi
 
 ## URL-parameter {#url-parameter}
 
-Als u URL-parameters (Query-tekenreeksen) wilt vastleggen vanaf de pagina waarop de persoon zich bevindt bij het invullen van het formulier, kunt u **URL** **Parameters** gebruiken om het verborgen veld te vullen.
+Als u URL-parameters (Query-tekenreeksen) wilt vastleggen vanaf de pagina waarop de persoon zich bevindt bij het invullen van het formulier, kunt u **URL-parameters** gebruiken om het verborgen veld te vullen.
 
 >[!NOTE]
 >
->Parameters zijn nogal technisch, niet? Maar als je ze krijgt, zijn ze machtig. Deze [Wikipedia-pagina op Query-tekenreeksen](http://en.wikipedia.org/wiki/Query_string) is enigszins handig.
+>Parameters zijn nogal technisch, niet? Maar als je ze krijgt, zijn ze machtig. Deze [Wikipedia-pagina op Query-tekenreeksen](https://en.wikipedia.org/wiki/Query_string) is enigszins handig.
 
 1. Selecteer **URL Parameter** voor **Waardetype ophalen**.
 
@@ -53,9 +53,9 @@ Als u URL-parameters (Query-tekenreeksen) wilt vastleggen vanaf de pagina waarop
 
 ## Koekjeswaarde {#cookie-value}
 
-Als u gegevens opslaat in cookies, kunt u **Cookie** **Value** gebruiken om gegevens op te halen wanneer het formulier wordt verzonden.
+Als u gegevens opslaat in cookies, kunt u **Cookie-waarde** gebruiken om gegevens op te halen wanneer het formulier wordt verzonden.
 
-1. Selecteer **Cookie** **Waarde** voor **Get** **Value** **From**.
+1. Selecteer **Koekjeswaarde** voor **Waarde ophalen van**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
@@ -69,9 +69,9 @@ Als u gegevens opslaat in cookies, kunt u **Cookie** **Value** gebruiken om gege
 
 ## Refererparameter {#referrer-parameter}
 
-Als u gegevens wilt vastleggen van de pagina waarvan de bezoeker afkomstig is voordat u het formulier invult, kunt u **Referrer** **Parameter** gebruiken.
+Als u gegevens wilt vastleggen van de pagina waarvan de bezoeker afkomstig is voordat u het formulier invult, kunt u **Parameter Referrer** gebruiken.
 
-1. Stel **Get** **Value** **From** to **Referrer** **Parameter** in.
+1. Stel **Waarde ophalen van** in op **Referrer-parameter**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
@@ -81,7 +81,7 @@ Als u gegevens wilt vastleggen van de pagina waarvan de bezoeker afkomstig is vo
 
    >[!TIP]
    >
-   >U kunt een **Standaard** **Waarde** invoeren voor het geval dat de referentieparameter niet wordt gevonden.
+   >U kunt een **Standaardwaarde** invoeren voor het geval dat de referentieparameter niet wordt gevonden.
 
 1. Klik **Voltooien**.
 
@@ -90,5 +90,3 @@ Als u gegevens wilt vastleggen van de pagina waarvan de bezoeker afkomstig is vo
 1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)
-
-Zoet! Je doet het behoorlijk goed. Er is meer over [vormen](http://docs.marketo.com/display/docs/forms) te leren.
