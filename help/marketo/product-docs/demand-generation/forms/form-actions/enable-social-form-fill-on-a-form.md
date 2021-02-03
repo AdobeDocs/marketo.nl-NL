@@ -3,9 +3,9 @@ unique-page-id: 2359616
 description: Vulling van sociaal formulier inschakelen op een formulier - Marketo Docs - Productdocumentatie
 title: Vulling van sociaal formulier inschakelen op een formulier
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,15 @@ ht-degree: 0%
 
 Uw bezoekers toestaan het formulier in te vullen via hun sociale netwerk. U krijgt automatisch extra gegevens en u krijgt een snellere ervaring.
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -39,13 +37,13 @@ Uw bezoekers toestaan het formulier in te vullen via hun sociale netwerk. U krij
 
    >[!TIP]
    >
-   >Bekijk wat [data Marketo zal vangen](../../../../product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) als mensen de sociale knopen gebruiken.
+   >Bekijk wat [data Marketo zal vangen](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) als mensen de sociale knopen gebruiken.
 
 1. Klik **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Klik op** Goedkeuren en Sluiten**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
