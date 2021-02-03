@@ -3,7 +3,7 @@ unique-page-id: 2953457
 description: SFDC Sync - Contact Sync - Marketo Docs - Productdocumentatie
 title: SFDC-synchronisatie - Contactsynchronisatie
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -25,7 +25,7 @@ We zijn aardig en laten Salesforce winnen. Het is zeldzaam dat dit soort botsing
 
 ## Kan ik een persoon omzetten in een contactpersoon in Marketo? {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-Ja, gebruik de stroomactie ** [Persoon omzetten](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)**.
+Ja, gebruik **[Persoon omzetten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)** stroomactie.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Ja, gebruik de stroomactie ** [Persoon omzetten](../../../../product-docs/core-m
 
 ## Kan ik een synchronisatie van een contact manueel dwingen? {#can-i-manually-force-a-sync-of-a-contact}
 
-Ja, gebruik ** [Persoon synchroniseren naar SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) **flow actie en het zal in real time synchroniseren.
+Ja, gebruik **[Persoon synchroniseren naar SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** stroomactie en het zal in real time synchroniseren.
 
 ## Synchroniseert elke standaard veld met Marketo? {#does-every-single-standard-field-sync-to-marketo}
 
