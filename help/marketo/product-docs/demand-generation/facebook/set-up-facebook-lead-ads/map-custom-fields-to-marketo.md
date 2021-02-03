@@ -3,7 +3,7 @@ unique-page-id: 12983101
 description: Aangepaste velden toewijzen aan Marketo - Marketo Docs - Productdocumentatie
 title: Aangepaste velden toewijzen aan markeerteken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Aangepaste velden toewijzen aan markeerteken naar {#map-custom-fields-to-marketo}
 
-Mogelijk wilt u meer dan de standaardgegevens verzamelen die standaard in Facebook worden opgeslagen, bijvoorbeeld hoe vaak iemand uw onlinebezorgingsservice gebruikt. U kunt dit bereiken door aangepaste vragen te maken[ in uw leidende advertenties op Facebook.](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink)
+Mogelijk wilt u meer dan de standaardgegevens verzamelen die standaard in Facebook worden opgeslagen, bijvoorbeeld hoe vaak iemand uw onlinebezorgingsservice gebruikt. U kunt dit bereiken door aangepaste vragen te maken](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) in uw leidende advertenties op Facebook.[
 
-**Marketo wordt echter niet automatisch gestart met het verzamelen van deze gegevens**.** * Opdat Marketo begint douanegebiedswaarden te vangen, moet u **must** die douanegebieden aan een gebied in Marketo in kaart brengen.
+**Marketo wordt echter niet automatisch gestart met het verzamelen van deze gegevens**. Marketo kan pas aangepaste veldwaarden vastleggen wanneer u **must** deze aangepaste velden toewijst aan een veld in Marketo.
 
 Hieronder wordt beschreven hoe u dit instelt in het gebied LaunchPoint van Admin.
 
@@ -41,9 +41,7 @@ Hieronder wordt beschreven hoe u dit instelt in het gebied LaunchPoint van Admin
 
 1. Hier is waar u het aangepaste Facebook-veld toewijst aan uw Marketo-veld. Klik **Toevoegen.**
 
-   ** ![](assets/image2017-10-24-9-3a33-3a49.png)
-
-   **
+   ![](assets/image2017-10-24-9-3a33-3a49.png)
 
 1. Voer in de nieuwe rij de naam in van het aangepaste Facebook-veld.
 
@@ -59,9 +57,8 @@ Hieronder wordt beschreven hoe u dit instelt in het gebied LaunchPoint van Admin
 
    >[!NOTE]
    >
-   >Als u nog geen veld in Marketo hebt om het Facebook-veld toe te wijzen, leert u [aangepaste velden maken](../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Als u nog geen veld in Marketo hebt om het Facebook-veld toe te wijzen, leert u [aangepaste velden maken](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!CAUTION]
 >
 >U **must** doorloopt dit proces voor om het even welk nieuw gebied van Facebook om Marketo te hebben om de gegevens te verzamelen.
-
