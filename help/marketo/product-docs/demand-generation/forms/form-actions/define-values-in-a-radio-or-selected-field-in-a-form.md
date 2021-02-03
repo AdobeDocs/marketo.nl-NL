@@ -3,9 +3,9 @@ unique-page-id: 2359614
 description: Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier - Marketo Docs - Productdocumentatie
 title: Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Als u [een veldtype](../../../../product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) hebt ingesteld als een keuzerondje of als u type selecteert, wilt u de waarden definiëren waaruit de gebruiker kan kiezen. Zo gaat het.
+Als u [een veldtype](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) hebt ingesteld als een keuzerondje of als u type selecteert, wilt u de waarden definiëren waaruit de gebruiker kan kiezen. Zo gaat het.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma.png)
 
-1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -39,9 +39,7 @@ Als u [een veldtype](../../../../product-docs/administration/field-management/ch
    >
    >**Definitie**
    >
-   >
    >**Weergavewaarde:** wat wordt weergegeven aan de bezoeker.
-   >
    >
    >**Opgeslagen waarde:** Wat wordt opgenomen in Marketo.
 
@@ -65,4 +63,4 @@ Als u [een veldtype](../../../../product-docs/administration/field-management/ch
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-Super werk! Je doet het heel goed. Meer informatie over [formulieren](http://docs.marketo.com/display/docs/forms).
+Super werk! Je doet het heel goed.
