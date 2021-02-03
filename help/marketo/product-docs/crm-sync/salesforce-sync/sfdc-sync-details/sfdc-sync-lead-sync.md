@@ -3,7 +3,7 @@ unique-page-id: 2953455
 description: SFDC Sync -Lead Sync - Marketo Docs - Productdocumentatie
 title: SFDC Sync - Lead Sync
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Marketo wint. Het is zeldzaam dat dit soort botsing van gegevens voorkomt.
 
 ## Kan ik een lead maken in Salesforce met Marketo? {#can-i-create-a-lead-in-salesforce-using-marketo}
 
-Ja, gebruik [Persoon synchroniseren naar SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) flowactie. Dit zal een lood in Salesforce creëren als de lood niet bestaat.
+Ja, gebruik [Persoon synchroniseren naar SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) flowactie. Dit zal een lood in Salesforce creëren als de lood niet bestaat.
 
 ## Kan ik handmatig een synchronisatie van een persoon in Marketo naar een lead in Salesforce forceren? {#can-i-manually-force-a-sync-of-a-person-in-marketo-to-a-lead-in-salesforce}
 
-Ja, gebruik [Persoon synchroniseren naar SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) stroomactie en het zal in real time synchroniseren.
+Ja, gebruik [Persoon synchroniseren naar SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) stroomactie en het zal in real time synchroniseren.
 
 ## Synchroniseert elke standaard veld met Marketo? {#does-every-single-standard-field-sync-to-marketo}
 
