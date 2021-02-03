@@ -3,9 +3,9 @@ unique-page-id: 2359573
 description: Een formulier instellen met dank aan uw pagina - Marketo Docs - Productdocumentatie
 title: Een pagina voor bedankt formulier instellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Wat gebeurt er als iemand een formulier invult? Waar worden ze doorgestuurd naar
 
 ## Formulier {#edit-form} bewerken
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -25,17 +25,17 @@ Wat gebeurt er als iemand een formulier invult? Waar worden ze doorgestuurd naar
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Klik onder **Formulier** **Instellingen** op **Instellingen**.
+1. Klik onder **Formulierinstellingen** op **Instellingen**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Schuif omlaag naar de sectie **Dank** **U** **Pagina**.
+1. Schuif omlaag naar de sectie **Dankuwel pagina**.
 
 ## Op pagina {#stay-on-page} blijven
 
 Met de optie Op pagina blijven houdt u de bezoeker op dezelfde pagina wanneer het formulier is verzonden.
 
-1. Selecteer **Verblijven** **On** **Pagina** voor **Follow** **Up** **With**.
+1. Selecteer **Op pagina blijven** voor **Opvolgen met**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -43,7 +43,7 @@ Met de optie Op pagina blijven houdt u de bezoeker op dezelfde pagina wanneer he
 
 Met de instelling Externe URL kunt u elke URL definiëren als de vervolgpagina. Nadat de gebruiker het formulier heeft verzonden, wordt deze naar de opgegeven URL geleid.
 
-1. Selecteer **Extern** **URL** voor **Follow** **Up** **With**.
+1. Selecteer **Externe URL** voor **Opvolgen met**.
 
    ![](assets/image2014-9-15-17-3a34-3a45.png)
 
@@ -71,7 +71,7 @@ U kunt elke goedgekeurde bestemmingspagina van Marketo selecteren als follow-up.
 
 U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende follow-ups te laten zien, afhankelijk van hun reacties.
 
-1. Klik **Add** **Keuze**.
+1. Klik **Keuze toevoegen**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Kies de aangewezen pagina voor **Follow** **Up** **Met type**.
+1. Kies de aangewezen pagina voor **Follow-up met** type.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -100,9 +100,6 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
    ![](assets/image2014-9-15-17-3a39-3a3.png)
 
    >[!NOTE]
-   >
-   >**Herinnering**
-   >
    >
    >U moet deze bestemmingspagina&#39;s voor tijd hebben gecreeerd/goedgekeurd.
 
@@ -114,7 +111,7 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
    >
    >U kunt verschillende opties toevoegen. Als u echter te veel toevoegt, kan dit van invloed zijn op de laadsnelheid van het formulier. Voeg dus alleen toe wat u nodig hebt.
 
-1. Doorgaan en instellen **Keuze** **2**.
+1. Doorgaan en instellen **Keuze 2**.
 
    ![](assets/image2014-9-15-17-3a39-3a44.png)
 
@@ -143,3 +140,4 @@ U kunt meerdere opties toevoegen en keuzes inbouwen om mensen verschillende foll
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
 Geweldig werk!
+
