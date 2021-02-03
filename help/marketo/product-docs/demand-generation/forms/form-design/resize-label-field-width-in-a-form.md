@@ -3,7 +3,7 @@ unique-page-id: 2359604
 description: De grootte van Label/veldbreedte in een formulier wijzigen - Marketo Docs - Productdocumentatie
 title: De grootte van Label/veldbreedte in een formulier wijzigen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Er zijn twee manieren om zowel de breedte van het veldlabel als de breedte van h
 
 ## De breedte {#drag-and-drop-the-width} slepen en neerzetten
 
-1. Selecteer in de [formuliereditor](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md) het veld waarvan u het formaat wilt wijzigen.
+1. Selecteer in de [formuliereditor](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md) het veld waarvan u het formaat wilt wijzigen.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 
