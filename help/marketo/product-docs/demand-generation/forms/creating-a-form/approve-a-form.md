@@ -3,9 +3,9 @@ unique-page-id: 2359578
 description: Een formulier goedkeuren - Marketo Docs - Productdocumentatie
 title: Een formulier goedkeuren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Als u een formulier aan een van uw bestemmingspagina&#39;s wilt toevoegen, moet 
 
 Hieronder wordt beschreven hoe u een bestaand formulier goedkeurt dat klaar is om te worden gebruikt.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -35,7 +35,7 @@ Hieronder wordt beschreven hoe u een bestaand formulier goedkeurt dat klaar is o
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Het is goedgekeurd en klaar om [aan een landingspagina ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) worden toegevoegd.
+   Het is goedgekeurd en klaar om [aan een landingspagina ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) worden toegevoegd.
 
    >[!NOTE]
    >
@@ -47,10 +47,7 @@ Als u wijzigingen aanbrengt in een formulier, kunt u de pagina rechtstreeks vanu
 
 >[!PREREQUISITES]
 >
->* [Een formulier bewerken](../../../../product-docs/demand-generation/forms/form-actions/edit-a-form.md)
-
->
-
+>* [Een formulier bewerken](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
 
 1. Klik **Voltooien**.
@@ -63,8 +60,6 @@ Als u wijzigingen aanbrengt in een formulier, kunt u de pagina rechtstreeks vanu
 
 >[!NOTE]
 >
->**Herinnering**
->
->Herinner me, als u het formulier uitgeeft nadat het is goedgekeurd, zult u [de landende pagina ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) moeten goedkeuren om de veranderingen te zien.
+>Herinner me, als u het formulier uitgeeft nadat het is goedgekeurd, zult u [de landende pagina ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) moeten goedkeuren om de veranderingen te zien.
 
 Dat is het! Gemakkelijk zoals kan.
