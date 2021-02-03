@@ -3,7 +3,7 @@ unique-page-id: 10098238
 description: Veelgestelde vragen over invullen van sociale formulieren - Marketo Docs - Productdocumentatie
 title: Veelgestelde vragen over LinkedIn sociale formulieren invullen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '558'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Het herziene API-beleid van LinkedIn vereiste dat we LinkedIn sociale vorm invul
 
 ## Belangrijke zaken om te weten {#important-things-to-know}
 
-* De knoppen LinkedIn sociale vorm vullen zijn niet langer een optie om vanaf 28 april 2016 aan Marketo toe te voegen
+* De knoppen LinkedIn sociale vorm vullen waren op 28 april 2016 niet langer een optie om aan Marketo toe te voegen
 
 * We hebben de knop LinkedIn sociale vorm invullen verwijderd uit alle formulieren waarvoor deze was ingeschakeld
 
