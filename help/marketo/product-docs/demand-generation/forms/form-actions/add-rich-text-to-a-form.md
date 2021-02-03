@@ -3,9 +3,9 @@ unique-page-id: 2359618
 description: Rijke tekst toevoegen aan een formulier - Marketo Docs - Productdocumentatie
 title: Rijke tekst toevoegen aan een formulier
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Gebruik RTF-tekst in een formulier om instructies of andere informatie tussen velden toe te voegen. Bekijk het.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -55,10 +55,6 @@ Gebruik RTF-tekst in een formulier om instructies of andere informatie tussen ve
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 
->[!NOTE]
+>[!TIP]
 >
->**Diep duiken**
->
->Meer informatie over [formulieren](http://docs.marketo.com/display/docs/forms).
-
-Wist u dat u ook [zichtbaarheidsregels](../../../../product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) aan een rijk tekstblok kunt toevoegen?
+>Wist u dat u ook [zichtbaarheidsregels](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) aan een rijk tekstblok kunt toevoegen?
