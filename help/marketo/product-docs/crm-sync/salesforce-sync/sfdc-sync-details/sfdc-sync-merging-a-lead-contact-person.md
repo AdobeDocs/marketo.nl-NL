@@ -3,9 +3,9 @@ unique-page-id: 7515133
 description: SFDC-synchronisatie - Een lead/contactpersoon/persoon samenvoegen - Marketo-documenten - Productdocumentatie
 title: SFDC-synchronisatie - Een lead/contactpersoon/persoon samenvoegen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,6 @@ Soms is het beter om alleen de regels te vermelden. Hier gaan we:
 
 >[!NOTE]
 >
->**Voorbeeld**
->
 >Wanneer 3 leads (mensen) worden samengevoegd met scores van elk 10, levert dit het resultaat op van 1 lead (persoon) met een score van 30.
 
 * Conflicterende veldwaarden worden opgehaald uit de &quot;winnende record&quot;. (Record = de resulterende lood of contactpersoon)
@@ -32,7 +30,4 @@ Soms is het beter om alleen de regels te vermelden. Hier gaan we:
 
 >[!NOTE]
 >
->**Diep duiken**
->
->Diep duik voor meer informatie over [het samenvoegen van mensen in Marketo](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
-
+>Diep duik voor meer informatie over [het samenvoegen van mensen in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
