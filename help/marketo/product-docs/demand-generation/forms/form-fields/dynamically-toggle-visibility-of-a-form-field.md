@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: Zichtbaarheid van een formulierveld dynamisch in-/uitschakelen - Marketo Docs - Productdocumentatie
 title: De zichtbaarheid van een formulierveld dynamisch in-/uitschakelen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,10 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een lijst met landen toevoegen aan uw formulier](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
-
->
+>* [Een lijst met landen toevoegen aan uw formulier](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
 
 
-
-Een echt coole functie van Marketo-formulieren is dat u formuliervelden of [veldsets](add-a-fieldset-to-a-form.md) dynamisch kunt verbergen/weergeven.
+Een echt coole functie van Marketo-formulieren is dat u formuliervelden of [veldsets](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md) dynamisch kunt verbergen/weergeven.
 
 >[!NOTE]
 >
@@ -29,15 +26,15 @@ Een echt coole functie van Marketo-formulieren is dat u formuliervelden of [veld
 >
 >In dit voorbeeld verbergen we het veld **State**, tenzij **Land** is geselecteerd als &quot;United States.&quot;
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/editform-1.png)
 
-1. Selecteer het veld dat u dynamisch wilt verbergen/weergeven en klik op de koppeling voor **Zichtbaarheid** **Regels**.
+1. Selecteer het veld dat u dynamisch wilt verbergen/weergeven en klik op de koppeling voor **Visibility Rules**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -63,17 +60,10 @@ Een echt coole functie van Marketo-formulieren is dat u formuliervelden of [veld
 
    >[!NOTE]
    >
-   >We hebben eerder een land omgezet in een veldtype voor een keuzelijst en [hebben alle landen toegevoegd als waarden](../../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
+   >We hebben eerder een land omgezet in een veldtype voor een keuzelijst en [hebben alle landen toegevoegd als waarden](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
 1. Klik **Opslaan**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 En dat is het! Wanneer mensen dit formulier nu invullen en Verenigde Staten voor land selecteren, wordt het veld Staat dynamisch weergegeven met de opgegeven opties.
-
->[!NOTE]
->
->**Diep duiken**
->
->Wilt u meer informatie over [formulieren](http://docs.marketo.com/display/docs/forms)?
-
