@@ -3,9 +3,9 @@ unique-page-id: 2359823
 description: Openingspagina's op Facebook publiceren - Marketo Docs - Productdocumentatie
 title: Openingspagina's op Facebook publiceren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 U kunt uw bestemmingspagina&#39;s naar Facebook publiceren, uw publiek ontmoeten waar zij reeds hangen en meer verkeer aan uw programma&#39;s produceren.
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >SMB Spark, Standard &amp; Select. Ondernemingen met een aparte licentie.
 
@@ -65,8 +63,4 @@ Stel dat u een nieuw boek start, dan bereikt u mogelijk een deel van uw publiek 
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
    >Als u de openingspagina van Facebook wilt verwijderen, heft u de gegevens op in Marketo en selecteert u desgevraagd de optie om het tabblad Facebook te verwijderen.
-
