@@ -3,7 +3,7 @@ unique-page-id: 7516241
 description: SFDC Sync -Lead Queue - Marketo Docs - Productdocumentatie
 title: SFDC-synchronisatie - Wachtrij voor lead
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -19,8 +19,8 @@ Marketo staat u toe om mensen aan [Salesforce lood rijen](https://help.salesforc
 
 U kunt een persoon aan een Salesforce lood rij toewijzen gebruikend één van beiden van deze stroomacties:
 
-* [Persoon synchroniseren naar SFDC](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
-* [Eigenaar wijzigen](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
+* [Persoon synchroniseren naar SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)
+* [Eigenaar wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
 
 >[!NOTE]
 >
@@ -35,4 +35,3 @@ Als een lood door een rij in Salesforce wordt bezeten, worden deze gebieden van 
 * Titel van verkoopeigenaar
 * Telefoonnummer verkoopeigenaar
 * E-mailadres van verkoopeigenaar
-
