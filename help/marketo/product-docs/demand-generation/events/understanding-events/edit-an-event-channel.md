@@ -3,9 +3,9 @@ unique-page-id: 2949857
 description: Een gebeurteniskanaal bewerken - Marketo Docs - Productdocumentatie
 title: Een gebeurteniskanaal bewerken
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ U kunt het kanaaltype van de **Summiere** tabel van de gebeurtenis of van zijn *
 
 >[!NOTE]
 >
->Een programma is een specifiek marketinginitiatief. Het **kanaal** is bedoeld om het leveringsmechanisme, zoals Webinar, Tradeshow, of Online Advertentie te zijn. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook [uw eigen kanaal maken.](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)
+>Een programma is een specifiek marketinginitiatief. Het **kanaal** is bedoeld om het leveringsmechanisme, zoals Webinar, Tradeshow, of Online Advertentie te zijn. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt [ook uw eigen kanaal ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) tot stand brengen.
 
 ## Van het Summiere Lusje {#from-the-summary-tab}
 
@@ -61,7 +61,7 @@ Een nieuw kanaaltype kan ook van de **Opstelling** tabel van de gebeurtenis word
 
    ![](assets/tradeshowchange.png)
 
-1. Klik **Opslaan.**
+1. Klik **Opslaan**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
