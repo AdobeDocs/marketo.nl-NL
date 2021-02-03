@@ -3,7 +3,7 @@ unique-page-id: 2359661
 description: Een formulierveld instellen als verborgen - Marketo Docs - Productdocumentatie
 title: Een formulierveld instellen als verborgen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Verborgen formuliervelden kunnen zonder invoer van de bezoeker gegevens vastleggen. Zo werkt het.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Selecteer het veld en stel het **Veld** **Type** in op **Verborgen.**
+1. Selecteer het veld en stel het **Veldtype** in op **Verborgen.**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
@@ -33,5 +33,4 @@ Verborgen formuliervelden kunnen zonder invoer van de bezoeker gegevens vastlegg
 
 >[!MORELIKETHIS]
 >
->[De waarde van een verborgen formulierveld instellen](set-a-hidden-form-field-value.md)
-
+>[De waarde van een verborgen formulierveld instellen](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
