@@ -3,9 +3,9 @@ unique-page-id: 2359673
 description: Knopinfo-instructies toevoegen aan een formulierveld - Marketo Docs - Productdocumentatie
 title: Knopinfo-instructies toevoegen aan een formulierveld
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Knopinfo-instructies toevoegen aan een formulierveld {#add-tooltip-instructions-to-a-form-field}
 
-[Met ](add-hint-text-to-a-form-field.md) instructies en aanwijzingen kunnen mensen formulieren invullen. Hieronder wordt beschreven hoe u knopinfo-instructies kunt toevoegen.
+[Met ](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md) instructies en aanwijzingen kunnen mensen formulieren invullen. Hieronder wordt beschreven hoe u knopinfo-instructies kunt toevoegen.
 
 >[!NOTE]
 >
@@ -45,18 +45,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Vergeet niet om [het concept van de bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren dat door de formulierwijzigingen is gemaakt.
+   >Vergeet niet om [het concept van de bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren dat door de formulierwijzigingen is gemaakt.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
 Geweldig werk! De knopinfo wordt weergegeven wanneer een bezoeker de cursor op het veld plaatst.
-
->[!NOTE]
->
->**Diep duiken**
->
->Er is zo veel dat u met [formulieren](http://docs.marketo.com/display/docs/forms) kunt doen.
-
