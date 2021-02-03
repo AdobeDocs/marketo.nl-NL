@@ -3,7 +3,7 @@ unique-page-id: 2359620
 description: De stijl en kleur van de knop Verzenden wijzigen - Marketo Docs - Productdocumentatie
 title: De stijl en kleur van de knop Verzenden wijzigen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Als u de standaard verzendknop smal vindt of als u iets mooier nodig hebt, kunt u kiezen uit een groot aantal gebruiksklare knopstijlen.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
@@ -62,4 +62,3 @@ Als u de standaard verzendknop smal vindt of als u iets mooier nodig hebt, kunt 
    >[!NOTE]
    >
    >De knop ziet er net als veel grafische elementen anders uit, afhankelijk van de browser die u gebruikt.
-
