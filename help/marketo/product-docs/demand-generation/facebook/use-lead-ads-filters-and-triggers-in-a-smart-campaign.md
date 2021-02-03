@@ -3,7 +3,7 @@ unique-page-id: 10095239
 description: Filters en triggers voor advertenties gebruiken in een slimme campagne - Marketo Docs - Productdocumentatie
 title: Filters en triggers voor advertenties gebruiken in een slimme campagne
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -22,4 +22,3 @@ Als je Facebook Lead Ads hebt ingeschakeld, kun je ze gebruiken in je slimme cam
 1. Voeg beperkingen toe om het aan te passen.
 
    ![](assets/image2016-8-5-11-3a19-3a27.png)
-
