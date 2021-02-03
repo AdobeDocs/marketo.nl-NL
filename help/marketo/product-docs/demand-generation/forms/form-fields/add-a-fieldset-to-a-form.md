@@ -3,7 +3,7 @@ unique-page-id: 2359594
 description: Een veldenset toevoegen aan een formulier - Marketo Docs - Productdocumentatie
 title: Een veldset toevoegen aan een formulier
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Veldsets zijn cool. Ze groeperen een hoop velden samen. U kunt ook een heel blok tegelijk beheren!
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
@@ -43,5 +43,4 @@ Daar heb je het!
 
 >[!TIP]
 >
->Afhankelijk van een ander veld kunt u de hele veldset dynamisch verbergen/weergeven. Meer informatie over [zichtbaarheidsregels](dynamically-toggle-visibility-of-a-form-field.md).
-
+>Afhankelijk van een ander veld kunt u de hele veldset dynamisch verbergen/weergeven. Meer informatie over [zichtbaarheidsregels](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
