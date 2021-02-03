@@ -3,7 +3,7 @@ unique-page-id: 7504163
 description: Voeg LinkedIn Gelijke Publiek als Dienst van LaunchPoint toe - Marketo Dos - de Documentatie van het Product
 title: Voeg LinkedIn Gelijke Publiek als Dienst van LaunchPoint toe
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Sluit uw Marketo-account aan op LinkedIn Matched Publiek om een statische lijst 
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Voer een **Weergavenaam** in en kies **LinkedIn Matched Audiences**. Klik **Maken**.
+1. Voer een **Weergavenaam** in en kies **Gekoppeld publiek**. Klik **Maken**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -61,9 +61,4 @@ Sluit uw Marketo-account aan op LinkedIn Matched Publiek om een statische lijst 
 
 >[!MORELIKETHIS]
 >
->* [Een lijst met markeertekens of een slimme lijst gebruiken als een segment voor LinkedIn-publiek](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-
->
-
-
-
+>[Een lijst met markeertekens of een slimme lijst gebruiken als een segment voor LinkedIn-publiek](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
