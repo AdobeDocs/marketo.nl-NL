@@ -3,9 +3,9 @@ unique-page-id: 2949874
 description: Een gebeurtenis maken met GotoWebinar - Marketo Docs - Productdocumentatie
 title: Een gebeurtenis maken met GotoWebinar
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >* [GoToWebinar toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Stel de juiste [flowhandelingen](http://docs.marketo.com/display/DOCS/Flow+Actions)in om de betrokkenheid bij te houden
+>* Stel de juiste [flowhandelingen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)in om de betrokkenheid bij te houden
 
 
 Maak eerst uw webinar in GoToWebinar. Bepaalde instellingen bij het maken van uw GoToWebinar worden gebruikt door Marketo en sommige worden alleen gebruikt door GoToWebinar.
 
-Nadat u een Marketo-gebeurtenis hebt gemaakt en de GoToWebinar hieraan hebt gekoppeld, kunnen de systemen gegevens over registratie en aanwezigheid delen. Zie de [GoToWebinar User Guide](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf) voor hulp bij het maken van een GoToWebinar.
+Nadat u een Marketo-gebeurtenis hebt gemaakt en de GoToWebinar hieraan hebt gekoppeld, kunnen de systemen gegevens over registratie en aanwezigheid delen.
 
 Hieronder ziet u een lijst met de instellingen die Marketo gebruikt.
 
@@ -36,7 +36,7 @@ Hieronder ziet u een lijst met de instellingen die Marketo gebruikt.
 
 ## Datum en tijd {#date-time}
 
-`Enter the following information for your webinar and it will be pulled into Marketo via the`-adapter. Als u om het even welke veranderingen in deze informatie aanbrengt, moet u de verbinding &quot;**verfrissen van Webinar Leverancier**&quot;onder **Gebeurtenisacties**, opdat Marketo de veranderingen ziet.
+Voer de volgende informatie in voor uw webinar en deze wordt via de adapter in Marketo geplaatst. Als u om het even welke veranderingen in deze informatie aanbrengt, moet u de verbinding &quot;**verfrissen van Webinar Leverancier**&quot;onder **Gebeurtenisacties**, opdat Marketo de veranderingen ziet.
 
 **Begindatum**  - voer uw begindatum in. Dit wordt weergegeven in Marketo.
 
@@ -56,7 +56,7 @@ Hieronder ziet u een lijst met de instellingen die Marketo gebruikt.
 
 >[!TIP]
 >
->Er zijn extra gebieden die u in GoToWebinar zult vormen die NIET de integratie zullen beïnvloeden. Raadpleeg de [GoToWebinar User Guide](http://docs.marketo.com/display/docs/assets/gotowebinar-user-guide.pdf) voor aanvullende informatie over deze velden, omdat deze niet in dit artikel worden behandeld. Als u extra hulp GoToWebinar nodig hebt, gelieve hun [Hulp Plaats](http://support.logmeininc.com/gotowebinar) te bezoeken.
+>Als u extra hulp GoToWebinar nodig hebt, gelieve hun [Hulp Plaats](https://support.logmeininc.com/gotowebinar) te bezoeken.
 
 Laten we nu naar Marketo springen!
 
@@ -68,7 +68,7 @@ Laten we nu naar Marketo springen!
    >
    >Het kanaaltype van de geselecteerde gebeurtenis moet **webinar** zijn.
 
-1. Kies **GoToWebinar** uit **Event** **Partner** Lijst.
+1. Kies **GoToWebinar** van de **Lijst van de Partner van de Gebeurtenis**.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -112,7 +112,7 @@ Personen die zich aanmelden voor uw webinar, worden via de stap Program Status w
 
 ## Het schema {#viewing-the-schedule} weergeven
 
-In [programmamening ](http://docs.marketo.com/display/docs/program+schedule+view), klik de kalenderingang voor uw gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien.
+Klik in de programmaweergave van het programma op de kalendervermelding voor de gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien.
 
 >[!NOTE]
 >
