@@ -3,9 +3,9 @@ unique-page-id: 11376700
 description: Leads toevoegen aan een aangepast publiek op Facebook - Marketo Docs - Productdocumentatie
 title: Leads toevoegen aan een aangepast publiek op Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Hebt u al een aangepast publiek op Facebook en wilt u er meer leads aan toevoege
 
 >[!PREREQUISITES]
 >
->* [Een aangepast publiek maken op Facebook](create-a-custom-audience-in-facebook.md)
+>* [Een aangepast publiek maken op Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >* [Accepteer de aangepaste ](https://www.facebook.com/ads/manage/customaudiences/tos.php) publiekstermen van Facebook in uw Facebook-account.
 
 >
@@ -28,11 +28,11 @@ Hebt u al een aangepast publiek op Facebook en wilt u er meer leads aan toevoege
 
    ![](assets/one.png)
 
-1. Selecteer het tabblad **Leads** en klik vervolgens op het pictogram **Verzenden via Adobe Bridge **aan de onderkant.
+1. Selecteer het tabblad **Leads** en klik vervolgens op het pictogram **Verzenden via ad Bridge** onderaan.
 
    ![](assets/two-1.png)
 
-1. Selecteer **Facebook **en klik **Next**.
+1. Selecteer **Facebook** en klik **Volgende**.
 
    ![](assets/three.png)
 
@@ -42,7 +42,7 @@ Hebt u al een aangepast publiek op Facebook en wilt u er meer leads aan toevoege
 
    >[!NOTE]
    >
-   >**Voeg leads toe aan publiek:** alleen Facebook-publiek met een aangepast subtype is beschikbaar.\
+   >**Voeg leads toe aan publiek**: alleen Facebook-publiek met een aangepast subtype is beschikbaar.\
    >**Leden uit het publiek** verwijderen: Hiermee verwijdert u de leads in uw statische of slimme lijst van een Facebook-publiek.
 
 1. Als u klaar bent, wordt de status bijgewerkt.
@@ -53,10 +53,4 @@ Hebt u al een aangepast publiek op Facebook en wilt u er meer leads aan toevoege
 
    >[!NOTE]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Een aangepast publiek maken op Facebook](create-a-custom-audience-in-facebook.md)
-
-
+   >[Een aangepast publiek maken op Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
