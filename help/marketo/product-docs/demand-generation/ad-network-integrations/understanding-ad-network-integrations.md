@@ -3,9 +3,9 @@ unique-page-id: 11382858
 description: Het begrip van de Integratie van het Netwerk Ad - Marketo Docs - de Documentatie van het Product
 title: Inzicht in ad-netwerkintegratie
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Mogelijkheden zijn:
 
    * Bijvoorbeeld, zoekt een persoon, ziet en klikt een advertentie, dan vult een vorm online uit. Daarna, ontvangt hij een demo offline en wordt een kans van CRM. Dat is waar de adverteerder hem aanvalt
 
-* Websitebezoekers opnieuw rangschikken met [Web Personalization](http://docs.marketo.com/display/docs/web+personalization), om ze terug te sturen naar uw website
+* Websitebezoekers opnieuw rangschikken met [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md), om ze terug te sturen naar uw website
 
    * Aanpassen aan segment of verticaal
 
@@ -44,19 +44,14 @@ Mogelijkheden zijn:
 
 U kunt integratie gebruiken aan:
 
-* [Google AdWords toevoegen als een LaunchPoint-service](../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [Leads toevoegen aan een aangepast publiek op Facebook](../../../product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [Een aangepast publiek maken op Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [Offlineconversies van Facebook instellen](../../../product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [Een lijst met markeertekens of een slimme lijst gebruiken als een segment voor LinkedIn-publiek](../../../product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [Google AdWords toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+* [Leads toevoegen aan een aangepast publiek op Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [Een aangepast publiek maken op Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [Offlineconversies van Facebook instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [Een lijst met markeertekens of een slimme lijst gebruiken als een segment voor LinkedIn-publiek](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |  | Poortgegevens | Inname van lood | Offlineconversie |
 |---|---|---|---|
 | ![—](assets/facebook-logo-2-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25-1.png) |
 | ![—](assets/linkedin-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) |
 | ![—](assets/google-logo-150.jpg) | ![—](assets/checkmark-flat-25.png) | ![—](assets/x-mark-3-256-25.png) | ![—](assets/checkmark-flat-25.png) |
-
-## Bekijk een video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/y8xoFczdrKQzAfvnAkAUXH.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
