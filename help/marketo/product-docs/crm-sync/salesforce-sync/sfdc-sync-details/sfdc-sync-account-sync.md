@@ -3,7 +3,7 @@ unique-page-id: 2953459
 description: SFDC Sync - Account Sync - Marketo Docs - Productdocumentatie
 title: SFDC Sync - Account Sync
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Nee. Een account kan vele contactpersonen hebben, een contactpersoon kan slechts
 
 ## Kan ik accounts maken van Marketo? {#can-i-create-accounts-from-marketo}
 
-Meestal nee. Nochtans, als u [de stroomstap van de Persoon van de Bekeerling ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) op een persoon gebruikt, zal het tot een nieuw Contact, een nieuw Rekening, en een nieuwe Kans leiden.
+Meestal nee. Nochtans, als u [de stroomstap van de Persoon van de Bekeerling ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md) op een persoon gebruikt, zal het tot een nieuw Contact, een nieuw Rekening, en een nieuwe Kans leiden.
 
 >[!CAUTION]
 >
