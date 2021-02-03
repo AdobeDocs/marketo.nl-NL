@@ -3,9 +3,9 @@ unique-page-id: 2949841
 description: Gebeurtenisprogramma's begrijpen - Marketo Docs - Productdocumentatie
 title: Gebeurtenisprogramma's
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Gebeurtenisprogramma&#39;s {#understanding-event-programs}
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
@@ -32,26 +30,13 @@ Een gebeurtenisprogramma is een type programma dat kan worden gebruikt om uw off
 >* Tradeshows
 >* Vergaderingen
 
->
 
-
-
-Gebeurtenissen kunnen automatisch verbinding maken met uw [webinar provider](launchpoint-event-partners.md) en synchroniseren met een [iPad check-in app](../../../../product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
-
-## Bekijk een video {#watch-a-video}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/rvsNpqTUpsPd7KxCovVVva.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+Gebeurtenissen kunnen automatisch verbinding maken met uw [webinar provider](launchpoint-event-partners.md) en synchroniseren met een [iPad check-in app](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >
->Ga vandaag aan de slag met deze handige koppelingen:
->
->* [Een nieuw gebeurtenisprogramma maken](create-a-new-event-program.md)
+>* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
    >
    >
-* [Gebeurtenispartners van LaunchPoint](launchpoint-event-partners.md)
-
->
-
-
+* [Gebeurtenispartners van LaunchPoint](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md)
 
