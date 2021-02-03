@@ -3,9 +3,9 @@ unique-page-id: 7512328
 description: Creeer een Gebeurtenis met Niveau 3 Vergadering van het Web - Marketo Docs - de Documentatie van het Product
 title: Een gebeurtenis maken met een webvergadering van niveau 3
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,10 @@ ht-degree: 0%
 >
 >* [Niveau 3 Webvergadering als Dienst van LaunchPoint toevoegen](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Stel de juiste [flowhandelingen](https://docs.marketo.com/x/k8Kt)in om de betrokkenheid bij te houden
-
->
+>* Stel de juiste [flowhandelingen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)in om de betrokkenheid bij te houden
 
 
-
-Maak eerst uw webinar in Niveau 3. Als u hulp nodig hebt, controleer [Niveau 3 Bibliotheek van het Middel](http://www.level3.com/en/resource-library/). U zult vinden dat het erg lijkt op BrightStor.  Marketo gebruikt een kleine subset van Niveau 3-velden:
+Maak eerst uw webinar in Niveau 3. Als u hulp nodig hebt, controleer [Niveau 3 Bibliotheek van het Middel](https://www.level3.com/en/resource-library/). U zult vinden dat het erg lijkt op BrightStor.  Marketo gebruikt een kleine subset van Niveau 3-velden:
 
 * **Naam**  - De naam van de webcast.
 * **Begindatum**  - De begindatum voor de webcast.
@@ -55,6 +52,6 @@ Maak eerst uw webinar in Niveau 3. Als u hulp nodig hebt, controleer [Niveau 3 B
 
 ## Het schema {#viewing-the-schedule} weergeven
 
-In [programmamening ](http://docs.marketo.com/display/docs/program+schedule+view), klik de kalenderingang voor uw gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien!
+Klik in de programmaweergave van het programma op de kalendervermelding voor de gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien!
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)
