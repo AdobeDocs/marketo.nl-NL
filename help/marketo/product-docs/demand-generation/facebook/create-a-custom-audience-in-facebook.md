@@ -3,9 +3,9 @@ unique-page-id: 4720275
 description: Een aangepast publiek maken op Facebook - Marketo Docs - Productdocumentatie
 title: Een aangepast publiek maken op Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Voeg Aangepast publiek voor Facebook toe als een LaunchPoint-](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) service in de sectie Admin.
+>* [Voeg Aangepast publiek voor Facebook toe als een LaunchPoint-](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) service in de sectie Admin.
 >* [Accepteer de ](https://www.facebook.com/ads/manage/customaudiences/tos.php) voorwaarden voor aangepast publiek van Facebook in uw Facebook-account.
 
 >
@@ -30,11 +30,11 @@ ht-degree: 0%
 
    ![](assets/1.png)
 
-1. Selecteer het tabblad **Leads** en klik vervolgens op het pictogram **Verzenden via Adobe Bridge **aan de onderkant.
+1. Selecteer het tabblad **Leads** en klik vervolgens op het pictogram **Verzenden via ad Bridge** onderaan.
 
    ![](assets/222.png)
 
-1. Selecteer **Facebook **en klik **Next**.
+1. Selecteer **Facebook** en klik **Volgende**.
 
    ![](assets/two.png)
 
@@ -72,10 +72,4 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Leads toevoegen aan een aangepast publiek op Facebook](add-leads-to-a-custom-audience-in-facebook.md)
-
-
+   >[Leads toevoegen aan een aangepast publiek op Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
