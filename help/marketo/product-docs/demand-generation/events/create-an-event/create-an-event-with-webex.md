@@ -3,9 +3,9 @@ unique-page-id: 2949863
 description: Een gebeurtenis maken met WebEx - Marketo Docs - Productdocumentatie
 title: Een gebeurtenis maken met WebEx
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '927'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [WebEx toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Stel de juiste [flowhandelingen](http://docs.marketo.com/display/DOCS/Flow+Actions)in om de betrokkenheid bij te houden
+>* Stel de juiste [flowhandelingen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)in om de betrokkenheid bij te houden
 
 
-Maak eerst een Webex-gebeurtenis in het WebEx-gebeurteniscentrum. Marketo gebruikt alleen specifieke instellingen en velden voor uw integratie, die we binnenkort zullen doorlopen. Andere gebieden die u voor WebEx zou kunnen willen vormen worden verklaard in [WebEx de Gids van de Gebruiker van het Centrum van de Gebeurtenis ](http://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+Maak eerst een Webex-gebeurtenis in het WebEx-gebeurteniscentrum. Marketo gebruikt alleen specifieke instellingen en velden voor uw integratie, die we binnenkort zullen doorlopen. Andere gebieden die u voor WebEx zou kunnen willen vormen worden verklaard in [WebEx de Gids van de Gebruiker van het Centrum van de Gebeurtenis ](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
 ## Basisinformatie {#basic-information}
 
@@ -140,7 +140,7 @@ Zoet! Uw WebEx-gebeurtenis wordt nu gesynchroniseerd met uw Marketo-gebeurtenis.
 
 ## Het schema {#viewing-the-schedule} weergeven
 
-In [programmamening ](http://docs.marketo.com/display/docs/program+schedule+view), klik de kalenderingang voor uw gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien!
+Klik in de programmaweergave van het programma op de kalendervermelding voor de gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien!
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 
