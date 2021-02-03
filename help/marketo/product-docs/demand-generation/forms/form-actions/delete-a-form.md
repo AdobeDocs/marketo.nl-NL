@@ -3,9 +3,9 @@ unique-page-id: 2359637
 description: Een formulier verwijderen - Marketo Docs - Productdocumentatie
 title: Een formulier verwijderen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Als u een formulier hebt dat u niet nodig hebt en niet gebruikt, kunt u het verwijderen. Zo gaat het.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,14 +23,11 @@ Als u een formulier hebt dat u niet nodig hebt en niet gebruikt, kunt u het verw
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Klik onder **Formulier** **Handelingen** op **Verwijderen** **Formulier**.
+1. Klik onder **Formulierhandelingen** op **Formulier** verwijderen.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
    >[!NOTE]
-   >
-   >**Herinnering**
-   >
    >
    >Vergeet niet het formulier te verwijderen van alle/willekeurige bestemmingspagina&#39;s die het gebruiken. Bevestig ook dat het formulier niet wordt gebruikt op een openbare website.
 
@@ -44,5 +41,4 @@ Als u een formulier hebt dat u niet nodig hebt en niet gebruikt, kunt u het verw
 
 >[!CAUTION]
 >
->Als u een formulier verwijdert dat wordt gebruikt door uw openbare website, wordt er geen waarschuwing weergegeven en wordt het formulier verbroken. Overweeg [archivering in plaats daarvan](../../../../product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
-
+>Als u een formulier verwijdert dat wordt gebruikt door uw openbare website, wordt er geen waarschuwing weergegeven en wordt het formulier verbroken. Overweeg [archivering in plaats daarvan](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
