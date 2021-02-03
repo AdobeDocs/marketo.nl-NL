@@ -3,7 +3,7 @@ unique-page-id: 4719312
 description: Picklist-waarden toevoegen/verwijderen - Marketo Docs - Productdocumentatie
 title: Picklist-waarden toevoegen/verwijderen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,11 +17,11 @@ Hier volgen een paar zaken over het toevoegen en verwijderen van picklist-waarde
 
 ## Picklist-waarden {#adding-picklist-values} toevoegen
 
-1. Als een extra waarde in Salesforce aan een picklist gebiedtype wordt toegevoegd, zult u [bericht](../../../product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identificerend ontvangen welke vormen dit zal beïnvloeden.
+1. Als een extra waarde in Salesforce aan een picklist gebiedtype wordt toegevoegd, zult u [bericht](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) identificerend ontvangen welke vormen dit zal beïnvloeden.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Ga naar de formuliereditor en [voeg de extra waarde](../../../product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) toe aan de lijst met suggesties.
+1. Ga naar de formuliereditor en [voeg de extra waarde](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md) toe aan de lijst met suggesties.
 
 ## Picklist-waarden {#remove-picklist-values} verwijderen
 
