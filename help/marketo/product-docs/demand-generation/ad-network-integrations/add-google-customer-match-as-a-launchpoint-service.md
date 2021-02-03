@@ -3,7 +3,7 @@ unique-page-id: 12980661
 description: Google Customer Match toevoegen als een opstartpuntservice - Marketo Docs - Productdocumentatie
 title: Google Customer Match toevoegen als een LaunchPoint-service
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -27,11 +27,11 @@ Met deze integratie kunt u een Marketo-publiek naar Google sturen om als doelgro
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecteer **Nieuwe** dan** Nieuwe service**.
+1. Selecteer **Nieuw** dan **Nieuwe service**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Voer een **Weergavenaam **in en selecteer** Google Customer Match **vanuit de vervolgkeuzelijst **Service**. Klik **Maken**.
+1. Voer een **Weergavenaam** in en selecteer **Google Customer Match** in de vervolgkeuzelijst **Service**. Klik **Maken**.
 
    ![](assets/chooseservice.png)
 
@@ -43,7 +43,7 @@ Met deze integratie kunt u een Marketo-publiek naar Google sturen om als doelgro
 
    >[!CAUTION]
    >
-   >Als u wilt dat Marketo een publiek naar meerdere AdWords-accounts stuurt, moet de Google-gebruiker die u in de volgende stappen autoriseert toegang hebben tot *all* van deze accounts.
+   >Als u wilt dat Marketo een publiek naar meerdere AdWords-accounts stuurt, moet de Google-gebruiker die u in de volgende stappen autoriseert toegang hebben tot _all_ van deze accounts.
 
    ![](assets/chooseaccount.png)
 
@@ -56,4 +56,3 @@ Met deze integratie kunt u een Marketo-publiek naar Google sturen om als doelgro
    ![](assets/authorizesuccess.png)
 
    Geweldig! U ziet nu Google Matched Audiences die als dienst LaunchPoint op het Geïnstalleerde lusje van de Diensten worden vermeld.
-
