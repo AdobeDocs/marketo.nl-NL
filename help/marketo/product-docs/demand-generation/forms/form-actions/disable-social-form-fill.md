@@ -3,9 +3,9 @@ unique-page-id: 10098242
 description: Vulling van sociaal formulier uitschakelen - Marketo Docs - Productdocumentatie
 title: Vulling van sociaal formulier uitschakelen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Soms wilt u niet langer dat sitebezoekers formulieren verzenden met een sociaal profiel. Hier is hoe u het kunt uitschakelen.
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft.
 
@@ -25,7 +23,7 @@ Soms wilt u niet langer dat sitebezoekers formulieren verzenden met een sociaal 
 
    ![](assets/login-marketing-activities-10.png)
 
-1. Selecteer het formulier en klik op **Bewerken ****Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
@@ -46,4 +44,3 @@ Soms wilt u niet langer dat sitebezoekers formulieren verzenden met een sociaal 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 
    Dat is alles wat je moet doen.
-
