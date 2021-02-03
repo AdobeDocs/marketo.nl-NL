@@ -3,9 +3,9 @@ unique-page-id: 2359677
 description: Een formulier gebruiken in een lichtbak - Marketo Docs - Productdocumentatie
 title: Een formulier gebruiken in een lichtbak
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Een lichtbak is een techniek waarmee een formulier vóór de inhoud wordt geopend wanneer u het wilt weergeven. Zo gaat het.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,18 +23,15 @@ Een lichtbak is een techniek waarmee een formulier vóór de inhoud wordt geopen
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Klik onder **Formulier** **Handelingen** op **Insluiten** **Code**.
+1. Klik onder **Formulierhandelingen** op **Code insluiten**.
 
    >[!NOTE]
-   >
-   >**Herinnering**
-   >
    >
    >Het insluitcode-item kan alleen zichtbaar/gebruikt worden als het formulier is goedgekeurd.
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Stel **Code** **Type** in op **Lichtbak**.
+1. Stel **Type code** in op **Lichtbak**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
