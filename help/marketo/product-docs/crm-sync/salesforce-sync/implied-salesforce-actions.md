@@ -3,9 +3,9 @@ unique-page-id: 4719304
 description: Impliciete Salesforce-acties - Marketo Docs - Productdocumentatie
 title: Impliciete Salesforce-acties
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer een salesforce-specifieke stroomstap wordt uitgevoerd, worden soms extra stappen automatisch uitgevoerd. Hier zijn de regels, dus weet u:
 
-Deze regels zijn van toepassing *wanneer de persoon momenteel niet in [Salesforce.com](http://Salesforce.com)* als contact of lood is.
+Deze regels zijn van toepassing _wanneer de persoon momenteel niet in [Salesforce.com](http://Salesforce.com)_ als contact of lood is.
 
 <table> 
  <thead> 
@@ -50,6 +50,4 @@ Deze regels zijn van toepassing *wanneer de persoon momenteel niet in [Salesforc
 
 U kunt SFDC-records in een slimme lijst uitfilteren met het filter **SFDC Type** met de operator ingesteld op &quot;is niet leeg&quot;. Alle SFDC-records hebben een waarde in dit veld.
 
-Onthoud dat deze automatische handelingen alleen plaatsvinden als de lead zich momenteel niet in [Salesforce.com](http://Salesforce.com) bevindt
-
-De Salesforce-synchronisatie is cool, toch?
+Onthoud dat deze automatische handelingen alleen plaatsvinden als de lead zich momenteel niet in [Salesforce.com](https://salesforce.com) bevindt
