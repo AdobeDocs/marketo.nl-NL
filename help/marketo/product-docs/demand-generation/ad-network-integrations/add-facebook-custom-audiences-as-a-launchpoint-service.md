@@ -3,9 +3,9 @@ unique-page-id: 4720257
 description: Aangepast publiek voor Facebook toevoegen als een opstartpuntservice - Marketo Docs - Productdocumentatie
 title: Aangepast publiek voor Facebook toevoegen als een opstartpuntservice
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Met deze integratie kunt u publieksgegevens van de statische en slimme lijsten v
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Open een nieuw tabblad in dezelfde browser en ga naar [www.facebook.com.](http://www.facebook.com./) Meld u aan bij Facebook met het account dat u voor de integratie wilt gebruiken.
+1. Open een nieuw tabblad in dezelfde browser en ga naar [facebook.com](http://www.facebook.com/). Meld u aan bij Facebook met het account dat u voor de integratie wilt gebruiken.
 
    >[!CAUTION]
    >
@@ -45,9 +45,9 @@ Met deze integratie kunt u publieksgegevens van de statische en slimme lijsten v
 
    >[!NOTE]
    >
-   >U *moet* een Facebook Business Manager-account gebruiken om de integratie van Aangepast publiek te laten werken. Raadpleeg [Facebook Help](https://www.facebook.com/business/help/1710077379203657) voor meer informatie over het instellen van een Business Manager-account.
+   >U _moet_ een Facebook Business Manager-account gebruiken om de integratie van Aangepast publiek te laten werken. Raadpleeg [Facebook Help](https://www.facebook.com/business/help/1710077379203657) voor meer informatie over het instellen van een Business Manager-account.
 
-1. Klik desgevraagd op **OK **om de installatie van de Marketo-app in Facebook te accepteren.
+1. Klik desgevraagd op **OK** om de installatie van de Marketo-app in Facebook te accepteren.
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
@@ -55,7 +55,7 @@ Met deze integratie kunt u publieksgegevens van de statische en slimme lijsten v
 
    >[!NOTE]
    >
-   >**Standaard afstemmen** gebruikt alleen e-mailadressen.**Bij Geavanceerde** overeenkomsten worden zeven extra velden gebruikt, waardoor de overeenkomende snelheid toeneemt, voor meer conversie. Nochtans, als het de privacybeleid van uw bedrijf het delen van extra gebieden niet toelaat, of als uw gegevens hen niet omvat, uitgezochte BasisGelijke.
+   >**Standaard** afstemming gebruikt alleen e-mailadressen. **Bij Geavanceerde** overeenkomsten worden zeven extra velden gebruikt, waardoor de overeenkomende snelheid toeneemt, voor meer conversie. Nochtans, als het de privacybeleid van uw bedrijf het delen van extra gebieden niet toelaat, of als uw gegevens hen niet omvat, uitgezochte BasisGelijke.
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -67,12 +67,8 @@ Met deze integratie kunt u publieksgegevens van de statische en slimme lijsten v
 
 >[!MORELIKETHIS]
 >
->* [Een aangepast publiek maken op Facebook](../../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Een aangepast publiek maken op Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
    >
    >
-* [Advertenties voor Facebook-leads instellen](../../../product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-
->
-
-
+* [Advertenties voor Facebook-leads instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
