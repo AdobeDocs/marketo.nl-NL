@@ -3,7 +3,7 @@ unique-page-id: 10096712
 description: Uw webinar-gebeurtenis maken in ON24 - Marketo Docs - Productdocumentatie
 title: Uw webinar-gebeurtenis maken in ON24
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -17,23 +17,18 @@ Nadat u uw webinar hebt gemaakt in ON24, kunt u een Marketo-gebeurtenis maken en
 
 Er zijn bepaalde montages in de verwezenlijking van uw webinar ON24 die door Marketo en anderen worden gebruikt die slechts door ON24 worden gebruikt. Marketo gebruikt de volgende instellingen:
 
-**Titel en beschrijving ***
+**Titel en beschrijving**
 
 * Titel van gebeurtenis - De naam voor het webinar. Dit wordt weergegeven in Marketo.
 * Abstract voor gebeurtenis (optioneel) - De beschrijving voor het webinar. Dit wordt weergegeven in Marketo.
 
-**Datum en tijd **
+**Datum en tijd**
 
 * Start Live-gebeurtenis - De begindatum en -tijd. Dit wordt weergegeven in Marketo.
 * Live eindtijd - De einddatum en -tijd. Dit wordt weergegeven in Marketo.
 
-Uw volgende stap is een gebeurtenis in Marketo [ te creëren.](create-an-event-in-marketo.md)
+Uw volgende stap is een gebeurtenis in Marketo ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md) te creëren.[
 
 >[!MORELIKETHIS]
 >
->* [Inzicht in Marketo ON24-adaptergebeurtenissen](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Inzicht in Marketo ON24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
