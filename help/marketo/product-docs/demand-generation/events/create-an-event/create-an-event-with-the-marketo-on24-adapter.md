@@ -3,9 +3,9 @@ unique-page-id: 10096656
 description: Creeer een Gebeurtenis met de Adapter van Marketo ON24 - Marketo Docs - de Documentatie van het Product
 title: Creeer een Gebeurtenis met de Adapter Marketo ON24
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 U zou met de bouwstenen en de geadviseerde opeenvolging voor het creëren van Gebeurtenissen in Marketo vertrouwd moeten zijn. U zou ook werkende kennis van de volgende concepten Marketo moeten hebben:
 
-* [Marketo-](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) programma&#39;s en gebeurtenissen en de verschillen tussen deze
-* [Kanalen](../../../../product-docs/administration/tags/create-a-program-channel.md)
-* [Lokale elementen](../../../../product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
-* [Onderliggende ](https://docs.marketo.com/x/IRCa) campagnes en  [programmastatussen](../../../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
+* [Marketo-](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md) programma&#39;s en gebeurtenissen en de verschillen tussen deze
+* [Kanalen](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
+* [Lokale elementen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
+* [Onderliggende ](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md) campagnes en  [programmastatussen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
 
 >[!NOTE]
 >
->Raadpleeg de [Marketo API-documentatie](http://developers.marketo.com/documentation/rest/) voor meer informatie over Marketo API&#39;s.
+>Raadpleeg de [Marketo API-documentatie](https://developers.marketo.com/documentation/rest/) voor meer informatie over Marketo API&#39;s.
 
 ## Vereisten {#prerequisites}
 
@@ -35,26 +35,17 @@ Voor de integratie Marketo ON24 is het volgende vereist:
 * **Beheerdersrechten voor ON24**  - Dit is nodig om deze connector te gebruiken en gasten te maken in het ON24-systeem.
 * **ON24 verbindingsgeloofsbrieven**  - U zult deze informatie in Marketo moeten ingaan om de integratie toe te laten: Gebruikersnaam, Wachtwoord, Client-id en Client-sleutel. Neem contact op met uw ON24-accountmanager of ON24-support als u hulp nodig hebt met uw gegevens.
 * **Registratieformulier**  - Gebruik een Marketo-formulier of een niet-Marketo-formulier samen met de juiste API om ervoor te zorgen dat registratiegegevens en informatie over de registrant worden doorgegeven aan Marketo.
-* **De kindcampagne van de registratie - **Een campagne van het registratiekind in uw Gebeurtenis van het Marketo moet behoorlijk voor uw integratie van de Partner van de Gebeurtenis worden gecreeerd en worden gevormd om te werken.
+* **De kindcampagne**  van de registratie - een campagne van het registratiekind in uw Gebeurtenis Marketo moet behoorlijk voor uw integratie van de Partner van de Gebeurtenis worden gecreeerd en worden gevormd om te werken.
 
 ## Processtroom {#process-flow}
 
 Ga als volgt te werk om een gebeurtenis te maken met de adapter Marketo On24:
 
-1. [Voer uw ON24-referenties in Marketo in](create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
-1. [Uw webinar-gebeurtenis maken in ON24](create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-1. [Gebeurtenisinstellingen configureren en markering synchroniseren met uw webinar](create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
-1. [Onderliggende campagnes en lokale elementen maken](create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
-1. [ON24-gebeurtenisintegratie testen](create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
-1. [Voorbeeld ON24-gebeurtenisintegratie](create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
-1. [Werken met de status van het Webinar-programma](create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
-1. [ON24 Updates voor gebeurtenisregistratie](create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
-
->[!MORELIKETHIS]
->
->* [Inzicht in Marketo ON24-adaptergebeurtenissen](create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+1. [Voer uw ON24-referenties in Marketo in](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/enter-your-on24-credentials-in-marketo.md)
+1. [Uw webinar-gebeurtenis maken in ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
+1. [Gebeurtenisinstellingen configureren en markering synchroniseren met uw webinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
+1. [Onderliggende campagnes en lokale elementen maken](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
+1. [ON24-gebeurtenisintegratie testen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
+1. [Voorbeeld ON24-gebeurtenisintegratie](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
+1. [Werken met de status van het Webinar-programma](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
+1. [ON24 Updates voor gebeurtenisregistratie](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
