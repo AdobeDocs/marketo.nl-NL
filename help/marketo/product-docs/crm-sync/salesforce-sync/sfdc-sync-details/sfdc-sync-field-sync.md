@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2953461
-description: SFDC-synchronisatie -Field Sync - Marketo Docs - Productdocumentatie
+description: SFDC Sync - Field Sync - Marketo Docs - Productdocumentatie
 title: SFDC Sync - Field Sync
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -61,4 +61,4 @@ Formulervelden worden echter gesynchroniseerd. Updates van de verwijzingen in de
 
 ## Wat gebeurt er als ik een veld uit Salesforce verwijder dat eerder synchroniseerde met Marketo? {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
-Als u een veld verwijdert in SFDC, wordt het veld niet automatisch verwijderd in Marketo, wordt de synchronisatie gewoon gestopt.
+Als u een veld verwijdert in SFDC, wordt het veld niet automatisch verwijderd in Marketo, wordt de synchronisatie gestopt.
