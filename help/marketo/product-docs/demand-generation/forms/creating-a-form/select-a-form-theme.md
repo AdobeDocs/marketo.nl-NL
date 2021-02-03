@@ -3,7 +3,7 @@ unique-page-id: 2359400
 description: Selecteer een formulierthema - Marketo Docs - Productdocumentatie
 title: Een formulierthema selecteren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 We maakten een hoop leuke thema&#39;s voor je formulieren. Welke vind je het beste?
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/editform.png)
 
-1. Ga naar **Formulier** **Instellingen**.
+1. Ga naar **Formulierinstellingen**.
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Schakel heen en weer om het **Formulier** **Thema** van uw eigen smaak te kiezen.
+1. Schakel heen en weer om het **Formulierthema** van uw eigen smaak te kiezen.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -43,7 +43,7 @@ We maakten een hoop leuke thema&#39;s voor je formulieren. Welke vind je het bes
 
    >[!TIP]
    >
-   >U kunt ook [de CSS van het formulierthema](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md) bewerken.
+   >U kunt ook [de CSS van het formulierthema](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md) bewerken.
 
 1. Klik **Volgende** om andere vormopties te vormen, of klik **Afwerking** als u slechts het Thema van de Vorm wilde veranderen.
 
@@ -53,10 +53,6 @@ Hoe makkelijk was dat?! U kunt uw HTML/CSS-boek nu wat stof laten verzamelen.
 
 >[!MORELIKETHIS]
 >
->* [CSS van een formulierthema bewerken](../../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [Een veld toevoegen aan een formulier](add-a-field-to-a-form.md)
-
->
-
-
+>* [CSS van een formulierthema bewerken](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [Een veld toevoegen aan een formulier](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
 
