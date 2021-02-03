@@ -3,7 +3,7 @@ unique-page-id: 4719316
 description: Personen gebruiken - Marketo Docs - Productdocumentatie
 title: Persoonlijke accounts gebruiken
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -41,7 +41,7 @@ De activiteiten met betrekking tot persoonrekeningen worden getoond in **Account
 
 >[!NOTE]
 >
->Marketo Sales Insight **Add to Marketo Campaign **and **Send Email **Options zijn momenteel niet beschikbaar voor persoonlijke accounts.
+>De opties **Toevoegen aan Marketo-campagne** en **E-mail verzenden** zijn momenteel niet beschikbaar voor persoonlijke accounts.
 
 ## Hoe associeer ik kansen aan een persoonrekening? {#how-do-i-associate-opportunities-to-a-person-account}
 
