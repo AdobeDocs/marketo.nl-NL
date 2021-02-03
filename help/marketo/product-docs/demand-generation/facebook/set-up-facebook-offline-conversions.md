@@ -3,9 +3,9 @@ unique-page-id: 11383953
 description: Offlineconversies van Facebook instellen - Marketo Docs - Productdocumentatie
 title: Offlineconversies van Facebook instellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zij
 
 >[!PREREQUISITES]
 >
->* U moet [Facebook Lead Ads](set-up-facebook-lead-ads.md) instellen.
->* U moet een goedgekeurd model in [Modelleerprogramma](http://docs.marketo.com/display/docs/revenue+cycle+models) hebben.
-
->
-
+>* U moet [Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) instellen.
+>* U moet een goedgekeurd model in [Modelleerprogramma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) hebben.
 
 
 ## Beheerdersconfiguratie {#admin-configuration}
@@ -34,7 +31,7 @@ Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zij
 
    >[!NOTE]
    >
-   >Als je dat nog niet hebt gedaan, ga dan door en [Stel Facebook Lead Ads](set-up-facebook-lead-ads.md) in en kom dan terug hier.
+   >Als je dat nog niet hebt gedaan, ga dan door en [Stel Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) in en kom dan terug hier.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
@@ -72,18 +69,16 @@ Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zij
    >
    >Momenteel zijn er 10 Facebook-gebeurtenissen waaraan u de Fase-cyclusfasen kunt toewijzen:
    >
-   >    
-   >    
-   >    * Toevoegen van betalingsgegevens
-   >    * Toevoegen aan winkelwagentje
-   >    * Toevoegen aan lijst met wensen
-   >    * Registraties voltooid
-   >    * Afhandelingen gestart
-   >    * Persoon
-   >    * Overige
-   >    * Aanschaffen
-   >    * Zoekopdrachten
-   >    * Weergaven van inhoud
+   >* Toevoegen van betalingsgegevens
+   >* Toevoegen aan winkelwagentje
+   >* Toevoegen aan lijst met wensen
+   >* Registraties voltooid
+   >* Afhandelingen gestart
+   >* Persoon
+   >* Overige
+   >* Aanschaffen
+   >* Zoekopdrachten
+   >* Weergaven van inhoud
 
 
 1. Selecteer het werkgebied dat u wilt toewijzen en selecteer vervolgens in de vervolgkeuzelijst **Facebook-conversie** de Facebook-gebeurtenis waaraan u de conversie wilt toewijzen. Herhaal deze stap om alle stadia in uw RCM aan off-line omzettingsstadia op Facebook in kaart te brengen.
@@ -108,13 +103,6 @@ Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zij
    >
    >Offline conversiegegevens worden verschillende keren per dag van Marketo naar Facebook verzonden.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [Offlineconversies van Facebook](understanding-facebook-offline-conversions.md)
-
->
-
-
-
+>[Offlineconversies van Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
