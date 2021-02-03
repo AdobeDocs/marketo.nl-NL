@@ -3,7 +3,7 @@ unique-page-id: 11383945
 description: Offlineconversies van Facebook - Marketo Docs - Productdocumentatie
 title: Offlineconversies van Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
@@ -40,17 +40,12 @@ Dat betekent dat Advertentie 1, ondanks het genereren van minder leads, een succ
 >
 >Zonder offline conversies zou de adverteerder waarschijnlijk meer geld investeren in advertentie 3. Met offlineconversiegegevens zal de adverteerder waarschijnlijker investeren in advertentie 1.
 
-U kunt [Offlineconversies van Facebook instellen](set-up-facebook-offline-conversions.md) om offline en prestaties naar Facebook te verzenden.
+U kunt [Offlineconversies van Facebook instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) om offline en prestaties naar Facebook te verzenden.
 
-1. Zorg ervoor dat uw [integratie met Facebook LaunchPoint](../../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) up-to-date is.
+1. Zorg ervoor dat uw [integratie met Facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) up-to-date is.
 1. Wijs fasen in uw model van de conjunctuurcyclus aan off-line omzettingsstadia op Facebook toe.
 1. Wanneer een Facebook-lead wordt gegenereerd vanuit een Facebook-advertentie en een toegewezen podium bereikt, stuurt Marketo de gegevens voor offline conversie een aantal keren per dag terug naar Facebook via een beveiligde, geautomatiseerde API. De gegevens worden weergegeven in het rapport Advertentiebeheer op Facebook.
 
 >[!MORELIKETHIS]
 >
->* [Offlineconversies van Facebook instellen](set-up-facebook-offline-conversions.md)
-
->
-
-
-
+>[Offlineconversies van Facebook instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
