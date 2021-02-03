@@ -3,9 +3,9 @@ unique-page-id: 2949870
 description: Een gebeurtenis maken met ReadyTalk - Marketo Docs - Productdocumentatie
 title: Een gebeurtenis maken met ReadyTalk
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ ht-degree: 0%
 >
 >* [ReadyTalk toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Stel de juiste [flowhandelingen](http://docs.marketo.com/display/DOCS/Flow+Actions)in om de betrokkenheid bij te houden
+>* Stel de juiste [flowhandelingen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)in om de betrokkenheid bij te houden
 
 
-Stel eerst uw gebeurtenis in het ReadyTalk-conferentiecentrum in. Als u hulp nodig hebt, controleer het [ReadyTalk Resource Center.](https://www.readytalk.com/resources/readytalk)  Wanneer u het registratietype kiest, selecteert u  **preregistreren vóór de vergadering**. Als u *registreert op het tijdstip van vergadering* selecteert, zal Marketo **not** een Geregistreerde status voor uw mensen vangen en zal slechts een persoonstatus van *na* trekken webinar.
+Stel eerst uw gebeurtenis in het ReadyTalk-conferentiecentrum in. Als u hulp nodig hebt, controleer [ReadyTalk Resource Center](https://www.readytalk.com/resources/readytalk). Wanneer het kiezen van het registratietype, uitgezocht **pre-register vóór de vergadering**. Als u _registreert op het tijdstip van vergadering_ selecteert, zal Marketo **not** een Geregistreerde status voor uw mensen vangen en zal slechts een persoonstatus van _na_ trekken webinar.
 
 Laat **mij via e-mail** oningeschakeld op de hoogte stellen van nieuwe registraties.
 
@@ -78,7 +78,7 @@ Nu kunt u uw gebeurtenis koppelen aan Marketo.
 
 ## Het schema {#viewing-the-schedule} weergeven
 
-In [programmamening ](http://docs.marketo.com/display/docs/program+schedule+view), klik de kalenderingang voor uw gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien!
+Klik in de programmaweergave van het programma op de kalendervermelding voor de gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien!
 
 ![](assets/image2015-5-18-12-9-58.png)
 
