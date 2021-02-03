@@ -3,9 +3,9 @@ unique-page-id: 10096671
 description: Voer uw ON24-referenties in in Marketo - Marketo Docs - Productdocumentatie
 title: Voer uw ON24-referenties in Marketo in
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,6 @@ Laten we aan de slag gaan met uw ON24-gebeurtenisintegratie. Als u ooit uw geloo
 
    * **Weergavenaam**  - Voer een naam in voor gebruik in Marketo. Dit kan uw naam of de naam van uw groep zijn als u geloofsbrieven deelt.
    * **Service**  - Selecteer  **On24**  van het drop-down menu.
-
    * **Client Key**  - Voer de ON24 Client Key in die u gebruikt voor aanmelden. De clientsleutel is een tekenreeks van 32 cijfers met een combinatie van letters en cijfers.
    * **Client ID**  - Voer de 4-cijferige ON24-client-id in die u gebruikt voor aanmelden. U kunt de client-id en de clientsleutel rechtstreeks verkrijgen via uw ON24-accountmanager.
 
@@ -67,13 +66,8 @@ U kunt uw referenties bewerken als uw wachtwoord verloopt of als u een bestaande
 
    ![](assets/nine.png)
 
-Uw volgende stap is om [uw webinar gebeurtenis in ON24 te creëren](create-your-webinar-event-in-on24.md).
+Uw volgende stap is om [uw webinar gebeurtenis in ON24 te creëren](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md).
 
 >[!MORELIKETHIS]
 >
->* [Inzicht in Marketo ON24-adaptergebeurtenissen](understanding-marketo-on24-adapter-events.md)
-
->
-
-
-
+>[Inzicht in Marketo ON24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
