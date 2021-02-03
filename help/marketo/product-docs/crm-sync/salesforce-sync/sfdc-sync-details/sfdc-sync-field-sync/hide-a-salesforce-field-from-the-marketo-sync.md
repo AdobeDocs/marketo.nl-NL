@@ -3,9 +3,9 @@ unique-page-id: 4719306
 description: Een Salesforce-veld verbergen voor Marketo Sync - Marketo Docs - Productdocumentatie
 title: Een Salesforce-veld verbergen voor synchronisatie
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -49,12 +49,6 @@ Niet elk veld in Salesforce is nuttig voor marketing. U kunt de synchronisatiepr
 
    Dat is het! Dit veld wordt niet meer weergegeven in Marketo nadat de volgende synchronisatie is voltooid.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Een veld verbergen en verbergen opheffen](../../../../../product-docs/administration/field-management/hide-and-unhide-a-field.md)
-
-
+   >[Een veld verbergen en verbergen opheffen](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md)
