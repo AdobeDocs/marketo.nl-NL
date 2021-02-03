@@ -3,7 +3,7 @@ unique-page-id: 2359649
 description: Tekst knop Formulier verzenden wijzigen - Marketo Docs - Productdocumentatie
 title: Knoptekst voor verzenden van formulier wijzigen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 U kunt snel en gemakkelijk een formulierknop wijzigen van &quot;Verzenden&quot; in een ander woord. Zo gaat het.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
@@ -42,4 +42,3 @@ U kunt snel en gemakkelijk een formulierknop wijzigen van &quot;Verzenden&quot; 
    Bam!
 
    ![](assets/image2014-9-15-12-3a44-3a7.png)
-
