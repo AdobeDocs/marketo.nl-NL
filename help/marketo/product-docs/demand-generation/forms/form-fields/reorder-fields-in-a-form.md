@@ -3,9 +3,9 @@ unique-page-id: 2359592
 description: Velden opnieuw ordenen in een formulier - Marketo Docs - Productdocumentatie
 title: Velden opnieuw ordenen in een formulier
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Het is eenvoudig om velden op een Marketo-formulier opnieuw te ordenen. Zo gaat het.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/editform.png)
 
@@ -32,10 +32,3 @@ Het is eenvoudig om velden op een Marketo-formulier opnieuw te ordenen. Zo gaat 
 >U kunt de velden ook naast elkaar slepen en neerzetten. Zo kunt u kolommen maken!
 
 Geweldig werk! Je bent aan het roken.
-
->[!NOTE]
->
->**Diep duiken**
->
->Wilt u meer informatie over [formulieren](http://docs.marketo.com/display/docs/forms)?
-
