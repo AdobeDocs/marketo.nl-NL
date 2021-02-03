@@ -3,9 +3,9 @@ unique-page-id: 2359641
 description: Een formulier insluiten op uw website - Marketo Docs - Productdocumentatie
 title: Een formulier insluiten op uw website
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Met Marketo kunt u uw formulieren insluiten op uw eigen website. Hieronder wordt beschreven hoe u toegang krijgt tot de insluitcode.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,20 +23,17 @@ Met Marketo kunt u uw formulieren insluiten op uw eigen website. Hieronder wordt
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. Klik onder **Formulier** **Handelingen** op **Insluiten** **Code**.
+1. Klik onder **Formulierhandelingen** op **Code insluiten**.
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Het formulier moet worden goedgekeurd om het **Embed** **Code**-item zichtbaar/bruikbaar te maken.
+   >Het formulier moet worden goedgekeurd om het **Code insluiten**-item zichtbaar/bruikbaar te maken.
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
    >[!CAUTION]
    >
-   >** [Formulier vooraf invullen](../../../../product-docs/administration/settings/edit-landing-page-settings.md)** werkt niet wanneer u de insluitcode van het formulier gebruikt op uw eigen pagina *of* een bestemmingspagina van Marketo. Vooraf invullen van formulier is alleen bedoeld om te werken wanneer het formulier wordt gebruikt in een bestemmingspagina voor Marketo via de optie Element invoegen.
+   >**[Formuliervoorinvullen](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)** werkt niet wanneer u de code voor het insluiten van formulieren gebruikt op uw eigen pagina&#39;s  __ of de bestemmingspagina Marketo. Vooraf invullen van formulier is alleen bedoeld om te werken wanneer het formulier wordt gebruikt in een bestemmingspagina voor Marketo via de optie Element invoegen.
 
 1. Selecteer/kopieer de ingebedde code, dan klik **Close**.
 
@@ -50,6 +47,6 @@ Geef nu gewoon de insluitcode aan uw webontwikkelaar en laat deze deze toevoegen
 
 >[!NOTE]
 >
->Als uw ontwikkelaar de blik of toegang tot geavanceerde API functies wilt aanpassen, toon hen [Forms 2.0 de Pagina van Ontwikkelaars](http://developers.marketo.com/documentation/websites/forms-2-0/).
+>Als uw ontwikkelaar de blik of toegang tot geavanceerde API functies wilt aanpassen, toon hen [Forms 2.0 de Pagina van Ontwikkelaars](https://developers.marketo.com/documentation/websites/forms-2-0/).
 
-Geweldig werk! Wilt u de [insluitcode lichtbakcode](use-a-form-in-a-lightbox.md) opnemen? Dat is ook makkelijk!
+Geweldig werk! Wilt u de [insluitcode lichtbakcode](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md) opnemen? Dat is ook makkelijk!
