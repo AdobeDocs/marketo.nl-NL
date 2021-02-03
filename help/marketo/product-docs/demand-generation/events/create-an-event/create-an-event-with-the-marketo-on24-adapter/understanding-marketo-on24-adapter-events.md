@@ -3,7 +3,7 @@ unique-page-id: 10096658
 description: Begrijpen van Marketo On24 adaptergebeurtenissen - Marketo Docs - Productdocumentatie
 title: De gebeurtenissen van de Adapter van Marketo On24 begrijpen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -23,13 +23,8 @@ In de onderstaande afbeelding ziet u het integratieproces.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Klaar om te beginnen? Begin met [Creeer een Gebeurtenis met ON24 Adapter](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
+Klaar om te beginnen? Begin met [Creeer een Gebeurtenis met ON24 Adapter](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
 
 >[!MORELIKETHIS]
 >
->* [Creeer een Gebeurtenis met de Adapter Marketo ON24](../../../../../product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
-
->
-
-
-
+>[Creeer een Gebeurtenis met de Adapter Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
