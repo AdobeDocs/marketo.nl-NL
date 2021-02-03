@@ -3,9 +3,9 @@ unique-page-id: 2359671
 description: Hinttekst toevoegen aan een formulierveld - Marketo Docs - Productdocumentatie
 title: Hinttekst toevoegen aan een formulierveld
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Tekst van tip toevoegen aan een formulierveld {#add-hint-text-to-a-form-field}
 
-Met de aanwijzingen en [instructies](add-tooltip-instructions-to-a-form-field.md) kunnen mensen formulieren invullen. Hieronder wordt beschreven hoe u een tip toevoegt.
+Met de aanwijzingen en [instructies](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) kunnen mensen formulieren invullen. Hieronder wordt beschreven hoe u een tip toevoegt.
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ Met de aanwijzingen en [instructies](add-tooltip-instructions-to-a-form-field.md
 >
 >Formulier **Instructies** zijn kleine knopinfo die wordt weergegeven wanneer de bezoeker de cursor op het veld plaatst.
 
-1. Ga naar **Marketing** **Activiteiten**.
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Selecteer het formulier en klik op **Bewerken** **Formulier**.
+1. Selecteer het formulier en klik op **Formulier bewerken**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Selecteer het veld en voer uw **Hint** **Tekst** in.
+1. Selecteer het veld en voer uw **Tekst hint** in.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
@@ -45,20 +45,8 @@ Met de aanwijzingen en [instructies](add-tooltip-instructions-to-a-form-field.md
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Vergeet niet om [het concept van de bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren dat door de formulierwijzigingen is gemaakt.
+   >Vergeet niet om [het concept van de bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren dat door de formulierwijzigingen is gemaakt.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
 Kijk eens! Laten we nu enkele [instructies](add-tooltip-instructions-to-a-form-field.md) toevoegen.
-
->[!MORELIKETHIS]
->
->* [Knopinfo-instructies toevoegen aan een formulierveld](add-tooltip-instructions-to-a-form-field.md)
-
->
-
-
-
