@@ -3,7 +3,7 @@ unique-page-id: 2359703
 description: Een afbeelding toevoegen aan een vrije landingspagina - Marketo Docs - Productdocumentatie
 title: Een afbeelding toevoegen aan een openingspagina met vrije vorm
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Afbeeldingen en bestanden toevoegen aan markeerteken](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
-
->
-
-
+>[Afbeeldingen en bestanden toevoegen aan markeerteken](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
 1. Selecteer uw vrije-vormlandingspagina en klik **Edit** **Draft**.
 
@@ -40,4 +36,3 @@ ht-degree: 0%
    Geweldig werk! U hebt zojuist een afbeelding toegevoegd aan de landingspagina in vrije vorm.
 
    ![](assets/image2015-5-21-15-3a40-3a11.png)
-
