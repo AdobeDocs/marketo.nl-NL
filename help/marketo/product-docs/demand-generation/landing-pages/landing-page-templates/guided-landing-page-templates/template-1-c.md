@@ -3,9 +3,9 @@ unique-page-id: 7515993
 description: Template 1-C - Marketo Docs - Productdocumentatie
 title: Template 1-C
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 7f1b281d918f8a8c68fc0a3605f88de717b3cf64
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 1-C {#template-c}
 
-[Sjabloon 1-C downloaden](http://docs.marketo.com/download/attachments/7515993/template1-c.html?version=1&amp;modificationdate=1432836776000&amp;api=v2)
+Klik met de rechtermuisknop om [Sjabloon 1-C](https://docs.marketo.com/download/attachments/7515993/Template1-C.html?version=1&amp;modificationDate=1432836776000&amp;api=v2) te downloaden
 
 ![](assets/image2015-5-28-13-3a18-3a56.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Drie carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder om deze sjabloon te downloaden:**
+**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
-[Template1-C.html](http://docs.marketo.com/download/attachments/7515993/template1-c.html?version=1&amp;modificationdate=1432836776000&amp;api=v2)
+[Template1-C.html](https://docs.marketo.com/download/attachments/7515993/Template1-C.html?version=1&amp;modificationDate=1432836776000&amp;api=v2)
