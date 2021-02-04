@@ -3,7 +3,7 @@ unique-page-id: 2359701
 description: Een vrije bestemmingspagina maken - Marketo Docs - Productdocumentatie
 title: Een vrije bestemmingspagina maken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Vrije-vormlandingspagina&#39;s kunnen als lokale activa van een programma of in 
 
 >[!NOTE]
 >
->De modi van de bestemmingspagina worden bepaald door hun sjabloon. [Meer ](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) informatie over sjablonen voor vrije en geleide landingspagina&#39;s.
+>De modi van de bestemmingspagina worden bepaald door hun sjabloon. [Meer ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) informatie over sjablonen voor vrije en geleide landingspagina&#39;s.
 
 ## Een vrije landingspagina maken in een programma {#create-a-free-form-landing-page-in-a-program}
 
@@ -55,11 +55,11 @@ Vrije-vormlandingspagina&#39;s kunnen als lokale activa van een programma of in 
 
 ## Creeer een Vrije Vorm het Bestaan Pagina in de Studio {#create-a-free-form-landing-page-in-design-studio} van het Ontwerp
 
-1. Ga naar **Design** **Studio**.
+1. Ga naar **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klik **Nieuw**, dan **Nieuwe Openingspagina.**
+1. Klik **Nieuw**, dan **Nieuwe het Bestanden Pagina**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -74,4 +74,3 @@ Vrije-vormlandingspagina&#39;s kunnen als lokale activa van een programma of in 
 >[!TIP]
 >
 >Schakel &quot;Openende openingspagina-editor voor nieuwe pagina&quot; uit als u niet wilt dat de editor direct wordt geopend nadat u op **Maken** hebt geklikt.
-
