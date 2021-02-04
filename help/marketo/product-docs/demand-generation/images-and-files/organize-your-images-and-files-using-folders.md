@@ -3,7 +3,7 @@ unique-page-id: 2359880
 description: Uw afbeeldingen en bestanden ordenen met mappen - Marketo Docs - Productdocumentatie
 title: Uw afbeeldingen en bestanden ordenen met mappen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Als u mappen maakt, kunt u afbeeldingen en bestanden verplaatsen, alleen de gewenste set afbeeldingen bekijken en rechtstreeks naar een specifieke map uploaden.
 
-1. Ga naar **Design** **Studio**.
+1. Ga naar **Design Studio**.
 
    ![](assets/designstudio-7.png)
 
-1. Klik met de rechtermuisknop op** Afbeeldingen en bestanden** in het linkermenu en selecteer **Nieuwe map**.
+1. Klik met de rechtermuisknop op **Afbeeldingen en bestanden** in het linkermenu en selecteer **Nieuwe map**.
 
    ![](assets/image2014-9-16-11-3a25-3a45.png)
 
@@ -35,9 +35,4 @@ Hoogste vijf! U bent allen geplaatst voor omslag utopia.
 
 >[!MORELIKETHIS]
 >
->* [Geüploade afbeeldingen en bestanden zoeken](search-uploaded-images-and-files.md)
-
->
-
-
-
+>[Geüploade afbeeldingen en bestanden zoeken](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
