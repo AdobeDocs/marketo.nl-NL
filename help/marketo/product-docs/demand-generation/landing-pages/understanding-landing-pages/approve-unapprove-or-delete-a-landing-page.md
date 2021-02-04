@@ -3,9 +3,9 @@ unique-page-id: 2359710
 description: Een bestemmingspagina goedkeuren, goedkeuren of verwijderen - Marketo Docs - Productdocumentatie
 title: Een bestemmingspagina goedkeuren, goedkeuren of verwijderen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '290'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ De bestemmingspagina&#39;s zijn in ontwerpwijze tot u hen goedkeurt. Met Goedkeu
 
    >[!TIP]
    >
-   >U kunt [meerdere pagina&#39;s tegelijk goedkeuren](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) om uw leven gemakkelijker te maken.
+   >U kunt [meerdere pagina&#39;s tegelijk goedkeuren](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) om uw leven gemakkelijker te maken.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
@@ -31,12 +31,10 @@ De bestemmingspagina&#39;s zijn in ontwerpwijze tot u hen goedkeurt. Met Goedkeu
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
    >Na goedkeuring staat op het pictogram van de bestemmingspagina een groen vinkje.
 
-1. Aanvoerpagina verwijderen
+## Een landingspagina {#unapprove-a-landing-page} niet goedkeuren
+
 1. Selecteer een landingspagina, ga naar **Landing Page Actions** en klik **Unapproval**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
@@ -47,7 +45,7 @@ De bestemmingspagina&#39;s zijn in ontwerpwijze tot u hen goedkeurt. Met Goedkeu
 
 >[!NOTE]
 >
->De niet-goedgekeurde bestemmingspagina wordt niet meer gepubliceerd op het web en genereert geen extra activiteiten. Bezoekers van niet-goedgekeurde bestemmingspagina&#39;s en hun Facebook-tabs zien de [Fallback Page](../../../../product-docs/administration/settings/set-a-fallback-page.md).
+>De niet-goedgekeurde bestemmingspagina wordt niet meer gepubliceerd op het web en genereert geen extra activiteiten. Bezoekers van niet-goedgekeurde bestemmingspagina&#39;s en hun Facebook-tabs zien de [Fallback Page](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Een bestemmingspagina {#delete-a-landing-page} verwijderen
 
