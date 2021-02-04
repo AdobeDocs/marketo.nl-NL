@@ -3,9 +3,9 @@ unique-page-id: 2359826
 description: Een URL-pad omleiden - Marketo Docs - Productdocumentatie
 title: Een URL-pad omleiden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Met markeertekens kunt u een URL-pad gemakkelijk omleiden naar elke gewenste pag
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Onder **Admin,** klik **Landing Pages**.
+1. Klik onder **Admin** op **Pagina&#39;s laden**.
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. Klik **Regels** tabel, dan klik **Nieuw **en **Nieuwe Redirect Regel**.
+1. Klik **Regels** tabel, dan klik **Nieuw** en **Nieuwe Redirect Regel**.
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
@@ -33,10 +33,7 @@ Met markeertekens kunt u een URL-pad gemakkelijk omleiden naar elke gewenste pag
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Herinner me, kunt u URLs slechts omleiden die met uw Marketo [CNAME](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
+   >Herinner me, kunt u URLs slechts omleiden die met uw Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
 
 1. Typ het URL-pad (of de specifieke pagina) dat u wilt omleiden in het tweede veld **Oorspronkelijke URL** aan de rechterkant.
 
@@ -46,15 +43,10 @@ Met markeertekens kunt u een URL-pad gemakkelijk omleiden naar elke gewenste pag
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 
-   U kunt [Marketo-landingspagina&#39;s](https://docs.marketo.com/x/vAEk) ook als doel gebruiken.
+   U kunt [Marketo-landingspagina&#39;s](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md) ook als doel gebruiken.
 
-Gefeliciteerd!  U hebt het URL-pad omgeleid.
+Gefeliciteerd! U hebt het URL-pad omgeleid.
 
 >[!MORELIKETHIS]
 >
->* [Een bestemmingspagina van Marketo omleiden naar een andere pagina](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-
->
-
-
-
+>[Een bestemmingspagina van Marketo omleiden naar een andere pagina](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
