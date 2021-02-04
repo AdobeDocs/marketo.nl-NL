@@ -3,9 +3,9 @@ unique-page-id: 7515401
 description: Een sjabloon voor een bestemmingspagina met instructies maken - Marketo Docs - Productdocumentatie
 title: Een sjabloon voor een bestemmingspagina met instructies maken
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1269'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Diep duik:** Geleidelijk aan lezen? [Bekijk deze coole ](https://youtu.be/3O7e4GdZKsM) video met stapsgewijze instructies.
+>Leestijd? [Bekijk deze coole ](https://youtu.be/3O7e4GdZKsM) video met stapsgewijze instructies.
 
 Sjablonen voor bestemmingspagina&#39;s met instructies hebben een speciale syntaxis. Gebruik deze syntaxis om op te geven wat aanpasbaar is en waar de inhoud terechtkomt op elke bestemmingspagina die op basis van uw sjabloon is gemaakt. Alleen de gebieden of variabelen die u als bewerkbaar opgeeft, kunnen worden aangepast in de landingspagina-editor &quot;Met instructies&quot;.
 
@@ -46,13 +46,13 @@ De inhoud van een element met de klasse mktoText (indien opgegeven) wordt gebrui
 
 Voorbeeld:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area.</div></pre>`
 
 ### Afbeelding {#image}
 
 U hebt twee opties om bewerkbare afbeeldingselementen te definiëren. U kunt een `<div>` gebruiken, waarmee een container wordt opgegeven waarin de afbeelding wordt ingevoegd, of een `<img>`-tag.
 
-## Optie 1 - Een <div> {#option-use-a-div}
+## Optie 1 - Gebruik een `<div>` {#option-use-a-div}
 
 Vereiste kenmerken:
 
