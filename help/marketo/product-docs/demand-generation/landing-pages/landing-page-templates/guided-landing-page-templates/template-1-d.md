@@ -3,9 +3,9 @@ unique-page-id: 7516002
 description: Sjabloon 1-D - Marketo Docs - Productdocumentatie
 title: Sjabloon 1-D
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 7f1b281d918f8a8c68fc0a3605f88de717b3cf64
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 1-D {#template-d}
 
-[Sjabloon 1-D downloaden](http://docs.marketo.com/download/attachments/7516002/template1-d.html?version=1&amp;modificationdate=1432838102000&amp;api=v2)
+Klik met de rechtermuisknop op [Sjabloon 1-D downloaden](https://docs.marketo.com/download/attachments/7516002/Template1-D.html?version=1&amp;modificationDate=1432838102000&amp;api=v2)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Drie carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-Klik hieronder om deze sjabloon te downloaden:
+Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:
 
-[Template1-D.html](http://docs.marketo.com/download/attachments/7516002/template1-d.html?version=1&amp;modificationdate=1432838102000&amp;api=v2)
+[Template1-D.html](https://docs.marketo.com/download/attachments/7516002/Template1-D.html?version=1&amp;modificationDate=1432838102000&amp;api=v2)
