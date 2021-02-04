@@ -3,9 +3,9 @@ unique-page-id: 5472283
 description: Mobiele weergave aanpassen voor uw gratis landingspagina - Marketo Docs - Productdocumentatie
 title: De mobiele weergave aanpassen voor uw openingspagina
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een mobiele weergave toevoegen voor uw openingsbestemmingspagina](add-a-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
+>[Een mobiele weergave toevoegen voor uw openingsbestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 De mobiele weergave van de openstaande landingspagina is meestal automatisch, maar u kunt de weergave aanpassen. Zo gaat het.
 
@@ -49,11 +45,12 @@ Standaard wordt alles in de bureaubladweergave weergegeven in de mobiele weergav
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Belangrijke dingen die u moet weten:  {#important-things-to-know}
+## Belangrijke dingen die u moet weten: {#important-things-to-know}
 
 * Afbeeldingen worden breder dan uw mobiele apparaat. Als u kleinere afbeeldingen wilt, trekt u het tekstelement met tekstopmaak in en voegt u de afbeelding daar toe.
 * Gebruik alleen Forms 2.0-formulieren. Ze reageren en passen zich automatisch aan.
-* Slechts één malplaatjeelement is editable, BODY#body (Mobiel). U kunt dit gebruiken om de achtergrondkleur te veranderen.\
+* Slechts één malplaatjeelement is editable, BODY#body (Mobiel). U kunt dit gebruiken om de achtergrondkleur te veranderen.
+
    ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## Een element verbergen in de mobiele weergave {#hide-an-element-from-the-mobile-view}
@@ -112,13 +109,6 @@ Standaard wordt alles in de bureaubladweergave weergegeven in de mobiele weergav
 
 Veel plezier!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [Een bestaande landingspaginasjabloon in vrije vorm geschikt maken voor mobiele apparaten](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
-
->
-
-
-
+>[Een bestaande landingspaginasjabloon in vrije vorm geschikt maken voor mobiele apparaten](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
