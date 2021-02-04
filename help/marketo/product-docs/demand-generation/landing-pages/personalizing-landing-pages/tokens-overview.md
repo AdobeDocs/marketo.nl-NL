@@ -3,9 +3,9 @@ unique-page-id: 2950799
 description: Overzicht van tokens - Marketo Docs - Productdocumentatie
 title: Overzicht van tokens
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Overzicht van tokens {#tokens-overview}
 
-Een token is een variabele die kan worden gebruikt in Marketo [smart campagne](http://docs.marketo.com/display/DOCS/Smart+Campaigns)-flowstappen, [e-mails](http://docs.marketo.com/display/DOCS/General), [landingspagina&#39;s](http://docs.marketo.com/display/DOCS/Landing+Pages), [fragmenten](http://docs.marketo.com/display/DOCS/Segmentation+and+Snippets) en [webcampagnes](http://docs.marketo.com/display/public/DOCS/Using+the+Web+Personalization+Rich+Text+Editor).
+Een token is een variabele die kan worden gebruikt in de stappen voor slimme campagnestromen, e-mails, landingspagina&#39;s, fragmenten en webcampagnes van Marketo.
 
 ## Standaardwaarden {#understanding-default-values} begrijpen
 
@@ -154,9 +154,7 @@ In dit voorbeeld wordt in de e-mail het woord &quot;Groetings, (voornaam)&quot; 
 ## Programmatokens {#program-tokens}
 
 * `{{program.Name}}`
-
 * `{{program.Description}}`
-
 * `{{program.id}}`
 
 ## Mijn tokens {#my-tokens}
