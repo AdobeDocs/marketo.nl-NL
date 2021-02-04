@@ -3,9 +3,9 @@ unique-page-id: 10097969
 description: Een landingspaginasjabloon in vrije vorm maken - Marketo Docs - Productdocumentatie
 title: Een sjabloon voor vrije bestemmingspagina maken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -46,14 +46,9 @@ Voor vrije-vormbestemmingspagina&#39;s is minder technische kennis nodig dan voo
    >Selecteer **Munchkin-tracking** uitschakelen als u wilt voorkomen dat formulieren vooraf worden ingevuld, of als u alleen het webgedrag op een bepaalde pagina wilt bijhouden.\
    >Selecteer **Mobiele compatibiliteit valideren** om ervoor te zorgen dat uw code compatibel is met mobiele apparaten.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >    * [Een vrije bestemmingspagina maken](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-   >    * [Een sjabloon voor een bestemmingspagina met instructies maken](create-a-guided-landing-page-template.md)
-   >    * [Werken met vrije vorm en portaalpagina&#39;s met instructies](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-
+   >* [Een vrije bestemmingspagina maken](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [Een sjabloon voor een bestemmingspagina met instructies maken](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
+   >* [Werken met vrije vorm en portaalpagina&#39;s met instructies](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
 
