@@ -3,7 +3,7 @@ unique-page-id: 7515027
 description: Een afbeelding toevoegen aan een bestemmingspagina met instructies - Marketo Docs - Productdocumentatie
 title: Een afbeelding toevoegen aan een bestemmingspagina met instructies
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -31,11 +31,10 @@ In tegenstelling tot de openstaande bestemmingspagina&#39;s, hebben de geleide l
 
    >[!NOTE]
    >
-   >De manier waarop de afbeelding wordt vergroot of verkleind, is afhankelijk van de sjabloon. Meer informatie over [Sjablonen voor bestemmingspagina met instructies](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+   >De manier waarop de afbeelding wordt vergroot of verkleind, is afhankelijk van de sjabloon. Meer informatie over [Sjablonen voor bestemmingspagina met instructies](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
    ![](assets/image2015-5-20-10-3a39-3a34.png)
 
    >[!TIP]
    >
    >Het opgeven van een koppeling voor een afbeelding in de editor wordt momenteel niet ondersteund. Gebruik in plaats hiervan een tekstelement met tekstopmaak.
-
