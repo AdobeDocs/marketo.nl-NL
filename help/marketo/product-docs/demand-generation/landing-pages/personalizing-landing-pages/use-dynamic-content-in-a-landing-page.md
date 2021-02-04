@@ -3,9 +3,9 @@ unique-page-id: 2359532
 description: Dynamische inhoud gebruiken in een bestemmingspagina - Marketo Docs - Productdocumentatie
 title: Dynamische inhoud gebruiken in een bestemmingspagina
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een segmentatie maken](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Een vrije bestemmingspagina maken](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
->* [Een nieuw formulier toevoegen aan een openingspagina met vrije vorm](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-
->
-
+>* [Een segmentatie maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Een vrije bestemmingspagina maken](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Een nieuw formulier toevoegen aan een openingspagina met vrije vorm](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
 Door dynamische inhoud te gebruiken op bestemmingspagina&#39;s, worden mensen met gerichte informatie ingeschakeld.
@@ -81,14 +78,8 @@ Door dynamische inhoud te gebruiken op bestemmingspagina&#39;s, worden mensen me
 
 Voila! U kunt nu de doelinhoud verzenden.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [Een voorvertoning van een bestemmingspagina weergeven met dynamische inhoud](../../../../product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
->* [Dynamische inhoud gebruiken in een e-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-
->
-
-
+>* [Een voorvertoning van een bestemmingspagina weergeven met dynamische inhoud](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
+>* [Dynamische inhoud gebruiken in een e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
 
