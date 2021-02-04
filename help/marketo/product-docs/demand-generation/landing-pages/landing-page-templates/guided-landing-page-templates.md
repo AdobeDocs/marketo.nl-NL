@@ -3,7 +3,7 @@ unique-page-id: 7515616
 description: Sjablonen voor bestemmingspagina met instructies - Marketo Docs - Productdocumentatie
 title: Sjablonen voor bestemmingspagina met instructies
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjablonen {#guided-landing-page-templates} voor gestuurde landingspagina
 
-Blader door onze verzameling voorbeeldsjablonen, voor gebruik met de [Guided Landing Page Editor](../../../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Elke sjabloon is volledig responsief en is gebaseerd op het raamwerk van Bootstrap.
+Blader door onze verzameling voorbeeldsjablonen, voor gebruik met de [Guided Landing Page Editor](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Elke sjabloon is volledig responsief en is gebaseerd op het raamwerk van Bootstrap.
 
 >[!NOTE]
 >
@@ -73,7 +73,7 @@ Een sjabloon importeren in Marketo:
 | ![](assets/11f.jpg) | ![](assets/12a.jpg) | ![](assets/12b.jpg) |
 | [Template 12-C](guided-landing-page-templates/template-12-c.md) | [Sjabloon 12-D](guided-landing-page-templates/template-12-d.md) | [Sjabloon 12-E](guided-landing-page-templates/template-12-e.md) |
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
-| [Sjabloon 12-F](guided-landing-page-templates/template-12-f.md) | [Template 13-A](guided-landing-page-templates/template-13-a.md) | [Sjabloon 13-B](guided-landing-page-templates/template-13-b.md) |
+| [Sjabloon 12-F](guided-landing-page-templates/template-12-f.md) | [Template 13-C](guided-landing-page-templates/template-13-a.md) | [Sjabloon 13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
 | [Template 13-A](guided-landing-page-templates/template-13-c.md) | [Sjabloon 13-D](guided-landing-page-templates/template-13-d.md) | [Sjabloon 13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
