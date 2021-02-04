@@ -3,9 +3,9 @@ unique-page-id: 2359801
 description: Het gebruiken van de Bouwer URL - Marketo Dos - de Documentatie van het Product
 title: De URL Builder gebruiken
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Met de URL Builder kunt u URL&#39;s maken die de markering voor verborgen formul
 
 >[!PREREQUISITES]
 >
->Leer hoe u verborgen velden in formulieren maakt en de instellingen ervan bewerkt in [Een formulierveld instellen als Verborgen](../../../../product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
+>Leer hoe u verborgen velden in formulieren maakt en de instellingen ervan bewerkt in [Een formulierveld instellen als Verborgen](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
 1. Selecteer een landingspagina, klik op **Landing Page Actions**, houd over **URL Tools**, dan klik op **URL Builder**.
 
@@ -29,6 +29,6 @@ Met de URL Builder kunt u URL&#39;s maken die de markering voor verborgen formul
 
    >[!NOTE]
    >
-   >Als er geen velden beschikbaar zijn in de builder, controleert u of uw formulier verborgen velden heeft en of deze [zijn ingesteld op het accepteren van URL-parameters](http://docs.marketo.com/display/DOCS/Set+a+Hidden+Form+Field+Value#SetaHiddenFormFieldValue-URLParameter).
+   >Als er geen velden beschikbaar zijn in de builder, controleert u of uw formulier verborgen velden heeft en of deze [zijn ingesteld op het accepteren van URL-parameters](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
 Geweldig werk! U kunt nu de URL kopiëren en plakken en deze op het web gebruiken.
