@@ -3,7 +3,7 @@ unique-page-id: 7515069
 description: Elementen en variabelen begrijpen in Geleide sjablonen - Marketo Docs - Productdocumentatie
 title: Elementen en variabelen in Geleide sjablonen begrijpen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Wanneer u een geleide het landen pagina uitgeeft, zullen de elementen verschijne
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo Sweepstakes
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Marketo-fragment
 
-Variabelen
+## Variabelen {#variables}
 
 Variabelen zijn tokenachtige kenmerken die kunnen worden aangepast vanuit de editor voor bestemmingspagina&#39;s met instructies, zoals hieronder wordt weergegeven.
 
@@ -60,5 +60,4 @@ Er zijn drie typen variabelen: tekenreeksvariabelen, kleurvariabelen en Booleaan
 
 >[!MORELIKETHIS]
 >
->[Een sjabloon voor een bestemmingspagina met instructies maken](create-a-guided-landing-page-template.md)
-
+>[Een sjabloon voor een bestemmingspagina met instructies maken](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
