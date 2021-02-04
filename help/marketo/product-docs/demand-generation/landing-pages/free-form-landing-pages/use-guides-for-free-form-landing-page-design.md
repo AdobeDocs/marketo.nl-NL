@@ -3,9 +3,9 @@ unique-page-id: 2359728
 description: Hulplijnen gebruiken voor Landing Page Design - Marketo Docs - Productdocumentatie
 title: Hulplijnen gebruiken voor ontwerpen vrije bestemmingspagina
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Bij het ontwerpen van een openstaande landingspagina kunt u hulplijnen gebruiken
 
 >[!NOTE]
 >
->Hulplijnen zijn alleen beschikbaar in de **Free**-**form**-bestemmingspagina-editor.
+>Hulplijnen zijn alleen beschikbaar in de **Free-form**-bestemmingspagina-editor.
 
 1. Selecteer een **Openingspagina** en klik **Concept** bewerken.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Klik op **Handelingen voor bestemmingspagina **en selecteer **Hulplijnen tonen**.
+1. Klik op **Handelingen voor paginanummering** en selecteer **Hulplijnen tonen**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 
@@ -36,4 +36,3 @@ Bij het ontwerpen van een openstaande landingspagina kunt u hulplijnen gebruiken
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 
    Uitgelijnde objecten zijn gemakkelijk in de ogen!
-
