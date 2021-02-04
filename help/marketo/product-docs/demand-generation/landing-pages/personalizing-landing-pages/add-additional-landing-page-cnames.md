@@ -3,9 +3,9 @@ unique-page-id: 2359798
 description: Aanvullende landingspaginanamen toevoegen - Marketo Docs - Productdocumentatie
 title: Aanvullende landingspaginanamen toevoegen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ U kunt bestemmingspagina CNAMEs willen toevoegen om verschillende URLs toe te st
 
 >[!TIP]
 >
->**Hetzelfde topniveaudomein - Goed! Cookies zijn shared.go**.mijnbedrijf.com > **info**.mijnbedrijf.com **Verschillende topniveaudomeinen - Slecht! Cookies worden niet gedeeld.**
->gaan.**mijnbedrijf**.com > ga.**mijnbedrijf**.com
+>**Hetzelfde topniveaudomein - Goed! Cookies worden gedeeld**.<br/> **go**.mijnbedrijf.com >  **info**.mijnbedrijf.nl
+>
+>**Verschillende topniveaudomeinen - Slecht! Cookies worden _niet_ gedeeld**.<br/> gaan.**mijnbedrijf**.com > ga.**mijnbedrijf**.com
 
 >[!NOTE]
 >
