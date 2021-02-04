@@ -3,9 +3,9 @@ unique-page-id: 2359540
 description: Neem een ICS-bestand voor kalendergebeurtenissen op in een bestemmingspagina - Marketo Docs - Productdocumentatie
 title: Een ICS-bestand voor kalendergebeurtenissen opnemen in een bestemmingspagina
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,7 @@ Met de token **Kalenderbestand** kunt u een agendagebeurtenis (.ics) toevoegen a
 
 >[!PREREQUISITES]
 >
->* [Een agendagebeurtenbestand (.ics) maken](../../../../product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
-
->
-
+>* [Een agendagebeurtenbestand (.ics) maken](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 
 1. Klik in de bestemmingspagina-editor op **{...}** om een token in te voegen.
@@ -33,26 +30,19 @@ Met de token **Kalenderbestand** kunt u een agendagebeurtenis (.ics) toevoegen a
    >
    >De volgende tokens worden niet ondersteund op bestemmingspagina&#39;s:
    >
-   >    
-   >    
-   >    * member.webinar URL
+   >* member.webinar URL
 
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
 1. Klik **Opslaan**.
 
-   De mensen zullen een landingspagina zien die als dit kijkt:   ![](assets/image2015-1-6-16-3a42-3a51.png)
+   De mensen zullen een landingspagina zien die als dit kijkt:
+
+   ![](assets/image2015-1-6-16-3a42-3a51.png)
 
 Zoet! Alles moet nu goed werken. Zorg ervoor dat u test.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->* [Een agendagebeurtenis (.ics) opnemen in een e-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
-
->
-
-
-
+>[Een agendagebeurtenis (.ics) opnemen in een e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
