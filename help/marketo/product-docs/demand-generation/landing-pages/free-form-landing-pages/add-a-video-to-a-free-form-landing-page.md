@@ -3,9 +3,9 @@ unique-page-id: 2359722
 description: Een video toevoegen aan een vrij toegankelijke landingpagina - Marketo Docs - Productdocumentatie
 title: Een video toevoegen aan een openingspagina met vrije vorm
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Plaats video&#39;s met opties voor sociaal delen op de bestemmingspagina&#39;s.
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
@@ -35,9 +33,9 @@ Plaats video&#39;s met opties voor sociaal delen op de bestemmingspagina&#39;s.
 
    >[!NOTE]
    >
-   >De functie **Nieuw maken** wordt alleen weergegeven bij marketingactiviteiten. is niet beschikbaar in Design Studio. Alleen al gemaakte video&#39;s zijn beschikbaar in Design Studio. U kunt echter een videoshare *binnen een programma* maken door **New** > **New Local Asset te selecteren.** U kunt het dan van drop-down selecteren, zoals hier getoond.
+   >De functie **Nieuw maken** wordt alleen weergegeven bij marketingactiviteiten. is niet beschikbaar in Design Studio. Alleen al gemaakte video&#39;s zijn beschikbaar in Design Studio. U kunt echter een video-share _maken in een programma_ door **New** > **New Local Asset** te selecteren. U kunt het dan van drop-down selecteren, zoals hier getoond.
 
-1. Voer de URL van de YouTube-video in en geef uw video een naam. Selecteer **Geen onder Klonen uit vervolgkeuzelijst en klik vervolgens** Invoegen.****
+1. Voer de URL van de YouTube-video in en geef uw video een naam. Selecteer **Geen** onder de vervolgkeuzelijst Klonen uit en klik vervolgens op **Invoegen**.
 
    ![](assets/image2014-9-17-11-3a29-3a15.png)
 
@@ -45,9 +43,8 @@ Plaats video&#39;s met opties voor sociaal delen op de bestemmingspagina&#39;s.
 >
 >Als u tijd wilt besparen, kunt u de optie **Klonen uit** gebruiken om alle instellingen van een bestaande gedeelde video te kopiëren.
 
-Gefeliciteerd! U hebt een gedeelde video toegevoegd aan de openingspagina. Goedkeuren van de bestemmingspagina en uw video delen is live. U kunt de bestemmingspagina ook [publiceren aan Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [zet het videoaandeel op uw website](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Gefeliciteerd! U hebt een gedeelde video toegevoegd aan de openingspagina. Goedkeuren van de bestemmingspagina en uw video delen is live. U kunt de bestemmingspagina ook [publiceren aan Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [zet het videoaandeel op uw website](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!MORELIKETHIS]
 >
->U bent klaar, maar u kunt de montages van uw videoaandeel indien nodig veranderen. Begin met [het aanpassen van de aandeelstroom](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (wanneer en waar de aandeelherinnering opent).
-
+>U bent klaar, maar u kunt de montages van uw videoaandeel indien nodig veranderen. Begin met [het aanpassen van de aandeelstroom](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (wanneer en waar de aandeelherinnering opent).
