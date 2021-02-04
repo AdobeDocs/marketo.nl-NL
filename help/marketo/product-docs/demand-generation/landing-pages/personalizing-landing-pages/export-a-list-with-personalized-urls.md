@@ -3,9 +3,9 @@ unique-page-id: 2359815
 description: Een lijst met gepersonaliseerde URL's exporteren - Marketo Docs - Productdocumentatie
 title: Een lijst met gepersonaliseerde URL's exporteren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Persoonlijke URL&#39;s voor uw account inschakelen](enable-personalized-urls-for-your-account.md)
->* [Persoonlijke URL&#39;s inschakelen voor een bestemmingspagina](enable-personalized-urls-for-a-landing-page.md)
-
->
+>* [Persoonlijke URL&#39;s voor uw account inschakelen](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [Persoonlijke URL&#39;s inschakelen voor een bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
 
-
-1. Selecteer uw lijst of slimme lijst, klik op **Leads** lusje om de resultaten te krijgen en dan op het excel pictogram te klikken. INLINE zorg ervoor u **Marketo Unieke Code **en **Marketo Unieke Naam** [kolommen zichtbaar](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md) hebt.
+1. Selecteer uw lijst of slimme lijst, klik op **Leads** lusje om de resultaten te krijgen en dan op het excel pictogram te klikken. INLINE Zorg ervoor u **Marketo Unieke Code** en **Marketo Unieke Naam** [kolommen zichtbaar](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md) hebt.
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -53,4 +50,3 @@ ht-degree: 0%
    >[!NOTE]
    >
    >Als er leads zijn met dezelfde voornaam en achternaam, worden getallen automatisch toegevoegd om ervoor te zorgen dat de URL&#39;s uniek blijven.
-
