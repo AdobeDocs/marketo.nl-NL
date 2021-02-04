@@ -3,7 +3,7 @@ unique-page-id: 2949904
 description: Testgroepen voor landingspagina - Marketo-documenten - Productdocumentatie
 title: Testgroepen voor landingspagina
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke getes
 
 >[!PREREQUISITES]
 >
->[Twee of meer bestemmingspagina](../../../../getting-started/quick-wins/landing-page-with-a-form.md)&#39;s samenstellen, bij voorkeur met een formulier.
+>[Twee of meer bestemmingspagina](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)&#39;s samenstellen, bij voorkeur met een formulier.
 
 1. In de Studio van het Ontwerp, klik **Nieuw**. Selecteer **Nieuwe testgroep** in het vervolgkeuzemenu.
 
@@ -27,10 +27,8 @@ Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke getes
    >
    >De andere manieren om een Groep van de Test tot stand te brengen zijn:
    >
-   >    
-   >    
-   >    * Klik met de rechtermuisknop op een landingspagina in de structuur en selecteer **Omzetten in testgroep**
-   >    * Maak een testgroep voor landingspagina in een programma door **AB Test Group** te kiezen in het menu **New Local Asset**
+   >* Klik met de rechtermuisknop op een landingspagina in de structuur en selecteer **Omzetten in testgroep**
+   >* Maak een testgroep voor landingspagina in een programma door **AB Test Group** te kiezen in het menu **New Local Asset**
 
 
 1. Voer een naam en een optionele beschrijving in. Selecteer de bestemmingspagina&#39;s u wilt testen en **creëren** klikken.
@@ -56,4 +54,3 @@ Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke getes
    >[!TIP]
    >
    >Als u ooit de Groep van de Test wilt schrappen, eenvoudig **de Acties van de Groep van de Test** klikken en **testgroep schrappen** selecteren.
-
