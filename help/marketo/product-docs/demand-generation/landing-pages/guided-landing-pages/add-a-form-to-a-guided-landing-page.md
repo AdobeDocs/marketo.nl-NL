@@ -3,7 +3,7 @@ unique-page-id: 7515107
 description: Een formulier toevoegen aan een bestemmingspagina met instructies - Marketo Docs - Productdocumentatie
 title: Een formulier toevoegen aan een bestemmingspagina met instructies
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
 >[!PREREQUISITES]
 >
->* [Een bestemmingspagina met instructies maken](create-a-guided-landing-page.md)
-
->
-
-
+>[Een bestemmingspagina met instructies maken](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 1. Ga naar **Marketing Activities** gebied.
 
@@ -61,4 +57,4 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Sluit nu gewoon de bestemmingspagina-editor en [keur het concept van de bestemmingspagina goed](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Sluit nu gewoon de bestemmingspagina-editor en [keur het concept van de bestemmingspagina goed](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
