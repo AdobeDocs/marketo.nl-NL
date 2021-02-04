@@ -3,9 +3,9 @@ unique-page-id: 2359742
 description: Een prestatierapport voor landingspagina filteren - Marketo Docs - Productdocumentatie
 title: Een prestatierapport voor de bestemmingspagina filteren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een prestatierapport voor landingspagina filteren {#filter-a-landing-page-performance-report}
 
-Focus uw [rapport over de prestaties van de bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) op het landen van pagina&#39;s in uw programma&#39;s (lokale activa), op die in de Studio van het Ontwerp (globale activa), of op die die zijn gearchiveerd.
+Focus uw [rapport over de prestaties van de bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) op het landen van pagina&#39;s in uw programma&#39;s (lokale activa), op die in de Studio van het Ontwerp (globale activa), of op die die zijn gearchiveerd.
 
 1. Ga naar **Analytics** (of **Marketing Activities**).
 
@@ -42,10 +42,3 @@ Focus uw [rapport over de prestaties van de bestemmingspagina](../../../../produ
 1. Je bent klaar! Klik **Rapport** tabel om uw gefilterde rapport te zien.
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)
-
->[!NOTE]
->
->**Diep duiken**
->
->Meer informatie over rapporten vindt u in [basisrapporten](http://docs.marketo.com/display/docs/basic+reporting).
-
