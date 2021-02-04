@@ -3,9 +3,9 @@ unique-page-id: 8159309
 description: Template 3-A - Marketo Docs - Productdocumentatie
 title: Template 3-A
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 3-A {#template-a}
 
-[Sjabloon 3-A downloaden](http://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&amp;modificationdate=1434057345000&amp;api=v2)
+Klik met de rechtermuisknop op [Sjabloon 3-A downloaden](http://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&amp;modificationdate=1434057345000&amp;api=v2)
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 
@@ -27,6 +27,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Drie carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder om deze sjabloon te downloaden:**
+**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
 [Template3-A.html](http://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&amp;modificationdate=1434057345000&amp;api=v2)
