@@ -3,9 +3,9 @@ unique-page-id: 4720738
 description: Een sjabloon voor de landingspagina van Marketo bewerken - Marketo Docs - Productdocumentatie
 title: Een sjabloon voor een bestemmingspagina markeren bewerken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ U kunt elke sjabloon van een openingspagina bewerken in Marketo.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Selecteer **Sjabloon** u wilt bewerken. Klik op** Concept bewerken**.
+1. Selecteer **Sjabloon** u wilt bewerken. Klik **Concept bewerken**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
@@ -32,4 +32,3 @@ U kunt elke sjabloon van een openingspagina bewerken in Marketo.
    >[!NOTE]
    >
    >Wanneer u een sjabloon voor een bestemmingspagina bewerkt, wordt met behulp van die sjabloon een concept van een ander element van de bestemmingspagina gemaakt.
-
