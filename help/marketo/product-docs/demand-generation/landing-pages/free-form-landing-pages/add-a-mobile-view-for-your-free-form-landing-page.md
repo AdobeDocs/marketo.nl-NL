@@ -3,9 +3,9 @@ unique-page-id: 4720856
 description: Een mobiele weergave toevoegen voor uw gratis landingspagina - Marketo Docs - Productdocumentatie
 title: Een mobiele weergave toevoegen voor uw openingsbestemmingspagina
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Het is eenvoudig om uw gratis bestemmingspagina&#39;s er goed uit te laten zien 
 
 >[!NOTE]
 >
->De mobiele weergave werkt op schermen met een breedte van 480 px (of minder). Met andere woorden: smartphones. Hier is meer [informatie over apparatenresoluties](http://mydevice.io/devices/.).
+>De mobiele weergave werkt op schermen met een breedte van 480 px (of minder). Met andere woorden: smartphones. Hier is meer [informatie over apparatenresoluties](https://mydevice.io/devices/).
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -41,21 +41,12 @@ Het is eenvoudig om uw gratis bestemmingspagina&#39;s er goed uit te laten zien 
 
    >[!CAUTION]
    >
-   >Mogelijk moet de sjabloon met de vrije vorm worden bijgewerkt. Als u dat bericht ziet, kunt u snel lezen over hoe u een bestaande sjabloon voor een openstaande landingspagina compatibel kunt maken[.](../../../../product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
+   >Mogelijk moet de sjabloon met de vrije vorm worden bijgewerkt. Als u dat bericht ziet, kunt u snel lezen over hoe u een bestaande sjabloon voor een openstaande landingspagina compatibel kunt maken](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).[
 
-1. Geweldig! U hebt nu de mobiele versie van uw bestemmingspagina geactiveerd. Klik op **Sluiten. **
+1. Geweldig! U hebt nu de mobiele versie van uw bestemmingspagina geactiveerd. Klik **Close**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 
-   U kunt nu [uw mobiele weergave aanpassen](customize-mobile-view-for-your-free-form-landing-page.md).
+   U kunt nu [uw mobiele weergave aanpassen](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md).
 
    ![](assets/image2015-1-22-16-3a47-3a16.png)
-
->[!MORELIKETHIS]
->
->* [De mobiele weergave aanpassen voor uw openingspagina](customize-mobile-view-for-your-free-form-landing-page.md)
-
->
-
-
-
