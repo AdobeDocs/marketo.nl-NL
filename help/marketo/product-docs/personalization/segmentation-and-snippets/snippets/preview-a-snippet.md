@@ -3,9 +3,9 @@ unique-page-id: 2359498
 description: Een voorbeeld van een fragment bekijken - Marketo Docs - Productdocumentatie
 title: Een voorvertoning van een fragment weergeven
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,7 @@ Fragmenten zijn blokken dynamische inhoud die worden gewijzigd op basis van segm
 
 Voorvertoning is ideaal om ervoor te zorgen dat de inhoud er voor elk segment goed uitziet.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een fragment goedkeuren](approve-a-snippet.md)
 
