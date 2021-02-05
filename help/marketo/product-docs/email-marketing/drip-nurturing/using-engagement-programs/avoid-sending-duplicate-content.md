@@ -3,7 +3,7 @@ unique-page-id: 10096409
 description: Vermijd het verzenden van dubbele inhoud - Marketo Docs - Productdocumentatie
 title: Dubbele inhoud niet verzenden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Een persoon ontvangt een e-mail die van de Motor van de Betrokkenheid van de Kla
 | Een campagne binnen een standaardprogramma dat van een gietvorm binnen een **verschillend** CEE programma wordt teweeggebracht | Een lid van het standaardprogramma | Nee |
 | Een campagne binnen een standaardprogramma dat van een gietvorm binnen een **verschillend** CEE programma wordt teweeggebracht | Geen lid van het standaardprogramma | Ja |
 | A **different** CEE program using a smart stream | Een lid van beide CEE-programma&#39;s | Nee |
-
