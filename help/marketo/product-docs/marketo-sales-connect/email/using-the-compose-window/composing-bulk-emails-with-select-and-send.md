@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: Bulke-mails samenstellen met Selecteren en verzenden - Marketo Docs - Productdocumentatie
 title: Bulke-mails samenstellen met Selecteren en Verzenden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -93,9 +93,8 @@ Voltooi Bulk Updates voordat u elke e-mail aanpast. Als u een bulkupdate aanbren
 
    ![](assets/each-four.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >    
    >    
