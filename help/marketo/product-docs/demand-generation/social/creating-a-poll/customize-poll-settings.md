@@ -3,7 +3,7 @@ unique-page-id: 2359774
 description: Opiniepeilingsinstellingen aanpassen - Marketo Docs - Productdocumentatie
 title: Opiniepeilingsinstellingen aanpassen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Opiniepeilingsinstellingen aanpassen {#customize-poll-settings}
 
-Als u [een opiniepeiling](create-a-poll.md) maakt, kunt u het toegestane aantal stemmen per sociaal profiel beperken.
+Als u [een opiniepeiling](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) maakt, kunt u het toegestane aantal stemmen per sociaal profiel beperken.
 
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer de opiniepeiling en klik op **Concept bewerken.**
+1. Selecteer de opiniepeiling en klik op **Concept** bewerken.
 
    ![](assets/image2014-9-19-10-3a56-3a37.png)
 
-1. Ga in de opiniepeilingseditor naar **App Settings** > **Geavanceerde opties.**
+1. Ga in de opiniepeilingseditor naar **App Settings** > **Advanced Options**.
 
    ![](assets/image2014-9-19-10-3a56-3a44.png)
 
@@ -33,5 +33,4 @@ Als u [een opiniepeiling](create-a-poll.md) maakt, kunt u het toegestane aantal 
 
 >[!TIP]
 >
->U kunt **Voltooien > goedkeuren en sluiten** aan [publiceren uw opiniepeiling](publish-a-poll.md), of u kunt het blijven aanpassen. Bijvoorbeeld, probeer [vormend de na-aandeel herinneringen](../../../../product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
-
+>U kunt **Voltooien** > **Goedkeuren en Sluiten** aan [publiceren uw opiniepeiling](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), of u kunt het blijven aanpassen. Bijvoorbeeld, probeer [vormend de na-aandeel herinneringen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
