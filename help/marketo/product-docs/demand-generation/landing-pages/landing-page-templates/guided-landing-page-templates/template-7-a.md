@@ -3,9 +3,9 @@ unique-page-id: 8783941
 description: Template 7-A - Marketo Docs - Productdocumentatie
 title: Template 7-A
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 7-A {#template-a}
 
-Klik met de rechtermuisknop om [Sjabloon 7-A](http://docs.marketo.com/download/attachments/8783941/template-7a.html?version=1&amp;modificationdate=1437693282000&amp;api=v2) te downloaden
+[Sjabloon 7-A downloaden](https://docs.marketo.com/download/attachments/8783941/template-7a.html?version=1&amp;modificationdate=1437693282000&amp;api=v2)
 
 ![](assets/image2015-7-29-14-3a22-3a54.png)
 
@@ -27,6 +27,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vier carrosseriesegmenten (optioneel)
 * Een voettekst (optioneel)
 
-Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:
+**Klik hieronder om deze sjabloon te downloaden:**
 
-[Template7-A.html](http://docs.marketo.com/download/attachments/8783941/template-7a.html?version=1&amp;modificationdate=1437693282000&amp;api=v2)
+[Template7-A.html](https://docs.marketo.com/download/attachments/8783941/template-7a.html?version=1&amp;modificationdate=1437693282000&amp;api=v2)
