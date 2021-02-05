@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Plan de A/B-test - Marketo Docs - Productdocumentatie
 title: De A/B-test plannen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,8 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
    Ervan uitgaande dat u al uw publiek hebt gedefinieerd en een e-mail hebt gekozen, bestaat de enige resterende stap uit het goedkeuren van het programma.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >    
    >    
