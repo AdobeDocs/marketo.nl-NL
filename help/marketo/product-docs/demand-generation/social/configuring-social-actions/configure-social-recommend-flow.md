@@ -3,9 +3,9 @@ unique-page-id: 2950549
 description: Vorm sociaal Aanbevolen Stroom - Marketo Docs - de Documentatie van het Product
 title: Vorm Sociale Aanbevolen Stroom
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk confi
 
 >[!NOTE]
 >
->Dit lijkt erg op [het configureren van de flow voor aanmelden/delen via sociale media](configure-social-sign-up-share-flow.md), maar dit geldt voor de koppelingen *onder* in de sociale app.
+>Dit lijkt erg op [het configureren van de flow voor aanmelden/delen via sociale media](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md), maar dit geldt voor de koppelingen _onder_ in de sociale app.
 
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer de app en klik op **Concept bewerken****.**
+1. Selecteer de app en klik op **Concept** bewerken.
 
    ![](assets/image2014-9-22-11-3a51-3a6.png)
 
-1. Ga in de sociale app-editor naar **Adend Flow** > **Social Networks***.**
+1. Ga in de sociale app-editor naar **Aanbevolen stroom** > **Sociale netwerken**.
 
    ![](assets/recommendedflow.png)
 
@@ -47,25 +47,27 @@ Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk confi
    >
    >In een gedeelde video wordt de miniatuur automatisch gegenereerd.
 
-   **Dynamische** inhoud toevoegenAls u** Statische inhoud toevoegen** kiest, voert u de titel, het bijschrift en de beschrijving in en uploadt u een afbeelding. Zie de volgende twee stappen.
+   Als u **Dynamische inhoud toevoegen** kiest, worden de waarden van de OpenGraph-tags van de pagina (og:title, og:caption en og:description) en de miniaturen automatisch toegevoegd aan Facebook-berichten. Zie de volgende stap.
+
+   Als u **Statische inhoud toevoegen** kiest, ga de titel, de titel, de titel, en de beschrijving in, en upload een beeld. Zie de volgende twee stappen.
 
 1. Klik in het venster Beeld en bewerken op **Bewerkingen tonen** om de gedeelde vraag en het bericht dat in Facebook-berichten wordt weergegeven, aan te passen.
 
    >[!TIP]
    >
-   >Zie [Instellingen voor Facebook Rich Post bewerken](../../../../product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md) voor meer informatie.
+   >Zie [Instellingen voor Facebook Rich Post bewerken](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md) voor meer informatie.
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
    >[!NOTE]
    >
-   >De [share URL](../../../../product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) wordt automatisch toegevoegd aan alle gedeelde berichten.
+   >De [share URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) wordt automatisch toegevoegd aan alle gedeelde berichten.
 
-1. Als u **Statische** **inhoud** hierboven kiest, bewerkt u de titel, het bijschrift en de beschrijving en uploadt u een aangepaste afbeelding (van uw Marketo-afbeeldingen en -bestanden).
+1. Als u **Statische inhoud toevoegen** hierboven kiest, bewerkt u de titel, het bijschrift en de beschrijving en uploadt u een aangepaste afbeelding (van uw Marketo-afbeeldingen en -bestanden).
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
-   Zie [Afbeeldingen en bestanden toevoegen aan Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Zie [Afbeeldingen en bestanden toevoegen aan Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
@@ -97,7 +99,7 @@ Indien u dit wenst, worden de waarden van de OpenGraph-tags van de pagina (og:ti
 
    Als u **Statische**-inhoud toevoegt, voert u de titel, het bijschrift en de beschrijving in en uploadt u een afbeelding. Zie de volgende twee stappen.
 
-1. Klik in het venster **Weergave** &amp; **Bewerken** op **Bewerkingen tonen** en bewerk de gedeelde vraag en het bericht dat wordt weergegeven in LinkedIn-posts.
+1. Klik in het venster **Weergave &amp; bewerking** op **Bewerkingen tonen** en bewerk de gedeelde vraag en het bericht dat wordt weergegeven in LinkedIn-posts.
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -105,11 +107,11 @@ Indien u dit wenst, worden de waarden van de OpenGraph-tags van de pagina (og:ti
    >
    >Gebruik {html_title} in de berichttekst om de titel van de pagina automatisch weer te geven.
 
-1. Als u **Statische** inhoud hierboven kiest, bewerkt u de titel en beschrijving en uploadt u een aangepaste afbeelding (van uw Mark **e** naar Afbeeldingen en bestanden).
+1. Als u **Statische**-inhoud toevoegen hebt gekozen, bewerkt u de titel en beschrijving en uploadt u een aangepaste afbeelding (van uw Marketo-afbeeldingen en -bestanden).
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
-   Zie [Afbeeldingen en bestanden toevoegen aan Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+   Zie [Afbeeldingen en bestanden toevoegen aan Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
    >[!NOTE]
    >
@@ -123,11 +125,10 @@ Indien u dit wenst, worden de waarden van de OpenGraph-tags van de pagina (og:ti
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 
-1. Klik **Voltooien** > **Goedkeuren** en **Sluiten***.**
+1. Klik **Voltooien** > **Goedkeuren** en **Sluiten**.
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
 >[!MORELIKETHIS]
 >
->De volgende stap bestaat uit het toevoegen van [uw video delen](customize-video-share-flow.md) of [opiniepeiling](../../../../product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) aan een openingspagina, Facebook of uw eigen website.
-
+>De volgende stap bestaat uit het toevoegen van [uw video delen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) of [opiniepeiling](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) aan een openingspagina, Facebook of uw eigen website.
