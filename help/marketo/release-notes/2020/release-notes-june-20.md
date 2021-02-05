@@ -3,9 +3,9 @@ unique-page-id: 37357276
 description: Opmerkingen bij de release - Juni '20 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni '20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '1091'
+source-wordcount: '1090'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 De volgende functies zijn opgenomen in de release van 20 juni. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Door een ster aangegeven functies ( ![(star)](assets/star-yellow.svg)) kunnen invoegtoepassingen worden betaald. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
@@ -62,7 +61,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 * **Integratie** van Marketo Engage-programma&#39;s: Trek programmagegevens rechtstreeks van Marketo Engage om aanraakpunten te maken langs de attributietraject in Bizible om e-mail- en betrokkenheidsprogramma&#39;s op de juiste wijze te crediteren. Verbetering van onze Marketo Engage-integratie.
 * **Integratie`<sup>BETA</sup>`** van Marketo Engage-activiteiten: Breng de gegevens van de Marketo Engage activiteit rechtstreeks in Bizible aan om aanraakpunten over de klantenreis en alle attributiemodellen tot stand te brengen. Voorbeelden zijn wijzigingen in de leadscore, interessante momenten, klikken via e-mail of aangepaste activiteiten. Verbetering van onze Marketo Engage-integratie.
-* **Bizible B2B Customer Attributes Integration`<sup>BETA</sup>`**: Dit is een Adobe Experience Cloud-integratie met Adobe Analytics die u in staat stelt om bepaalde Bizible-gegevens rechtstreeks naar Adobe Analytics te brengen voor een diepgaande analyse. Voorbeelden zijn op account gebaseerde analyse van het siteverkeer en de inhoud per bedrijfsnaam, accountkenmerken, CRM-mogelijkheden en personen met een hoge waarde, zoals gedefinieerd door de Bizible-fase van de toegewezen inkomsten en trechter.
+* **Bizible B2B Customer Attributes Integration`<sup>BETA</sup>`**: Dit is een Adobe Experience Cloud-integratie met Adobe Analytics waarmee u bepaalde Bizible-gegevens rechtstreeks naar Adobe Analytics kunt brengen voor een diepgaande analyse. Voorbeelden zijn op account gebaseerde analyse van het siteverkeer en de inhoud per bedrijfsnaam, accountkenmerken, CRM-mogelijkheden en personen met een hoge waarde, zoals gedefinieerd door de Bizible-fase van de toegewezen inkomsten en trechter.
 * **Bizible Discover Filters and Enhancements:** Analyseer uw gegevens met kanaal-, subkanaal-, campagne- en segmentfilters over dashboards. Verbeter de zichtbaarheid van gegevens met meer boor-down kenmerken. Dit is een verbetering van onze Discover Boards.
 * **Activiteiten synchroniseren voor Microsoft Dynamics**: De verkoopinteractie van attributen door de activiteiten van CRM van de Dynamica van Microsoft aan de tochpoint reis en spoorgebeurtenissen zoals vraag, benoemingen, of taken te brengen verbonden aan uw lood of contacten. Verbetering aan onze integratie van CRM van de Dynamica van Microsoft.
 
