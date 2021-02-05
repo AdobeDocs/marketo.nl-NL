@@ -3,7 +3,7 @@ unique-page-id: 2359819
 description: Promo-codes gebruiken voor het uitvoeren van aanbiedingen - Marketo-documenten - Productdocumentatie
 title: Promo-codes gebruiken voor afhandeling van voorstellen
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Wanneer u een verwijzingsvoorstel of een zweepslag maakt, kunt u elke winnaar ee
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. Ga in de verwijzingsaanbiedingsredacteur, naar **App Montages** en dan **de Details van de aanbieding.**
+1. Ga in de verwijzingsaanbiedingsredacteur, naar **App Montages** en dan **de Details van de aanbieding**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
@@ -39,7 +39,6 @@ Wanneer u een verwijzingsvoorstel of een zweepslag maakt, kunt u elke winnaar ee
 
    >[!CAUTION]
    >
-   >
    >Elke witruimte in het bestand met promcodes wordt beschouwd als onderdeel van de code op die regel. Wees vooral voorzichtig en vermijd navolgende spaties aan het einde van elke regel.
 
 1. Wanneer het uploaden is voltooid, wordt het totale aantal geüploade codes weergegeven.
@@ -52,7 +51,7 @@ Als deelnemers eenmaal beginnen met het verdienen van je aanbiedingsuitkering, k
 
 >[!NOTE]
 >
->Alleen Marketo-gebruikers met *Access Awards*-machtiging hebben toegang tot deze informatie. Zie [Gebruikersrollen en -machtigingen beheren](../../../../product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Alleen Marketo-gebruikers met _Access Awards_-machtiging hebben toegang tot deze informatie. Zie [Gebruikersrollen en -machtigingen beheren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. Ga naar **Marketingactiviteiten**.
 
