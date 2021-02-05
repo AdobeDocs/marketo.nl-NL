@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Hoe te om Verkoop aan Uw zandbak van Salesforce aan te sluiten - Marketo DOS - de Documentatie van het Product
 title: Verkoopverbinding maken met uw Salesforce-sandbox
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,7 @@ ht-degree: 0%
 
    ![](assets/five-2.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren](http://docs.marketo.com/x/EIDq)
 
