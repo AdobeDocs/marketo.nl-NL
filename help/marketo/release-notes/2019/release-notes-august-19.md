@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: Opmerkingen bij de release - August 19 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - augustus 19
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en zullen
 * **Onboarding:** Step-by-step analyse maakt aan boord gemakkelijker en efficiënter door nieuwe gebruikers door instantieopstelling te leiden.
 * **Personen pagina-indelingsverbetering:** Beheer uw personen en groepen via het importeren van lijsten en bulkacties in de nieuwe pagina-indeling Personen.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Functies die door een ster worden aangeduid ( ![(star)](assets/star-yellow.svg)), worden tegen betaling aangeboden. Neem contact op met uw Marketo-vertegenwoordiger voor meer informatie.
 
