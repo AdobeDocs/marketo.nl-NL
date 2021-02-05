@@ -3,9 +3,9 @@ unique-page-id: 2360219
 description: Een aangepaste DKIM-handtekening instellen - Marketo Docs - Productdocumentatie
 title: Een aangepaste DKIM-handtekening instellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze
 
    >[!NOTE]
    >
-   >
    >Als u een aangepaste DKIM-handtekening op de ouderwetse manier instelt, blijft deze werken en wordt deze hier weergegeven.
 
 1. Klik **E-mail**, dan **DKIM** tabel, en tenslotte **Add Domein**.
@@ -37,7 +36,6 @@ U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze
 1. Ga het domein in u in Marketo e-mails als Van Adres zult gebruiken en **Add** klikt.
 
    >[!TIP]
-   >
    >
    >Als u een verschillend domein in uw Van Adres gebruikt, zullen wij de Marketo gedeelde handtekening DKIM gebruiken.
 
@@ -53,14 +51,10 @@ U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
    >Als de bevestiging ontbreekt en uw IT het verslag correct heeft gecreeerd, kan het een kwestie van DNS propagatie zijn. Probeer het later opnieuw.
 
    >[!CAUTION]
    >
-   >
    >Als u het overeenkomstige DNS-record wijzigt of verwijdert, resulteert dit in beschadigde prestaties. Zorg ervoor dat u de vermelding in Marketo verwijdert voordat u DNS-wijzigingen aanbrengt.
 
    Dit helpt absoluut bij je e-mailleverbaarheid. U zou bevestiging moeten krijgen dat het verslag daar en correct is.
-
