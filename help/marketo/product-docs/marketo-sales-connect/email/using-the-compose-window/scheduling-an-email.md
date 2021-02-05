@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: Een e-mail plannen - Marketo Docs - Productdocumentatie
 title: Een e-mail plannen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -43,9 +43,8 @@ Volg deze eenvoudige stappen om een e-mail te plannen.
    >
    >Gepland e-mailbericht kan worden weergegeven/bewerkt in de sectie voor geplande mappen van het Opdrachtcentrum.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >
    >[Overzicht van Command Center](http://docs.marketo.com/x/kgDb)
