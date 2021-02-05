@@ -3,9 +3,9 @@ unique-page-id: 7504047
 description: Creeer een Rapport van de Ontdekkingsreiziger van de Inkomsten - MarketoDocs - de Documentatie van het Product
 title: Een rapport van de inkomstenverkenner maken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Het rapport van de Ontdekkingsreiziger van de Ontvangsten staat u toe om ROI op uw marketing initiatieven te volgen.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
