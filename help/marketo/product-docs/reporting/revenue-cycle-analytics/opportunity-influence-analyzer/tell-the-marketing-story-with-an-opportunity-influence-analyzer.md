@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: Vertel het Marketing Story met een Analysator van de Invloed van de Mogelijkheid - Marketo Docs - de Documentatie van het Product
 title: Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,8 @@ Gebruik een Analysator van de Gevolgen van de Kans om de rol van de marketing in
 
    Klik op meer oranje stippen in de tijdlijn om het verhaal van de gebeurtenissen, programma&#39;s en interessante momenten die hebben bijgedragen tot het creëren en sluiten van de kans te vullen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >
    >    
