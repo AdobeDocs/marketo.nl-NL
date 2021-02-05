@@ -3,7 +3,7 @@ unique-page-id: 2359813
 description: After-Share Prompts configureren - Marketo Docs - Productdocumentatie
 title: After-Share-vragen configureren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -23,7 +23,7 @@ In apps voor sociale knoppen, video delen en opiniepeilingen kunt u kiezen wat e
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. Ga in de sociale app-editor naar **App Settings**** **and then **Advanced Options**.
+1. Ga in de sociale app-editor naar **App Settings** en vervolgens **Advanced Options**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
@@ -57,4 +57,3 @@ In apps voor sociale knoppen, video delen en opiniepeilingen kunt u kiezen wat e
 1. Bewerk het verzoek om e-mailadres en de marketingvraag (als u deze hebt opgenomen).
 
    ![](assets/image2015-4-21-12-3a52-3a49.png)
-
