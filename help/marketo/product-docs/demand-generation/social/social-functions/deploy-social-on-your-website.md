@@ -3,9 +3,9 @@ unique-page-id: 2950524
 description: Sociaal implementeren op uw website - Marketo Docs - Productdocumentatie
 title: Sociaal op uw website implementeren
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Sociale apps insluiten op uw niet-Marketo-pagina&#39;s.
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Neem contact op met je verkoper voor meer informatie.
 
@@ -27,7 +25,7 @@ U kunt sociale apps op uw eigen website opstellen om uw publiek te betrekken en 
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Selecteer **Insluiten** **Code******* uit handelingen voor sociale toepassingen.
+1. Selecteer **Code insluiten** in Handelingen voor sociale toepassingen.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
@@ -43,19 +41,15 @@ U kunt sociale apps op uw eigen website opstellen om uw publiek te betrekken en 
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Als u de grootte van de sociale app moet instellen op specifieke afmetingen op de pagina, voegt u de opties **outerHeight** en **outerWidth** toe aan het tweede codefragment. U kunt bijvoorbeeld options=&#39;{&quot;outerHeight&quot;:400, &quot;outerWidth&quot;:600}&#39; toevoegen, zoals in:
+1. Als u de grootte van de sociale app moet instellen op specifieke afmetingen op de pagina, voegt u de opties **outerHeight** en **outerWidth** toe aan het tweede codefragment. U kunt bijvoorbeeld `options='{"outerHeight":400, "outerWidth":600}'` toevoegen, zoals in:
 
    ![](assets/socialonsite-resizewidget2.png)
 
    Met de sociale app Marketo voegt u nu inhoud en interactiviteit toe aan uw website, waarin u fans, bezoekers en bestaande klanten uitnodigt om het woord over u te verspreiden. Tegelijkertijd worden hun profielgegevens toegevoegd aan uw database en worden de maatstaven voor sociale invloed bijgehouden.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >    
-   >    
-   >* [De knop Sociale app aanpassen](../../../../product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [Vereiste voor sociaal delen instellen](set-social-share-requirement.md)
-   >* [Openingspagina&#39;s op Facebook publiceren](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [De knop Sociale app aanpassen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
+   >* [Vereiste voor sociaal delen instellen](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [Openingspagina&#39;s op Facebook publiceren](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
 
