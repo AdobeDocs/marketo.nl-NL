@@ -3,9 +3,9 @@ unique-page-id: 30082174
 description: Interesserende momenten in MSC - Marketo Docs - Productdocumentatie
 title: Interesserende momenten in MSC
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Interesserende momenten zijn de sleutel tot communicatie met uw verkoopteam via Marketo Sales Connect.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Deze zijn alleen beschikbaar voor [Marketo Sales Insight](http://docs.marketo.com/x/2Akt) en Marketo Sales Connect-klanten.
 
