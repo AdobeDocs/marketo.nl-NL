@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: Rapport Campagneactiviteiten - Marketo Docs - Productdocumentatie
 title: Rapport Campagneactiviteiten
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,8 @@ Zie hoe uw [slimme campagnes](http://docs.marketo.com/display/docs/smart+campaig
    | geactiveerd (actief) | Huidige getriggerde campagnes op het tabblad **Marketingactiviteiten**. |
    | Teweeggebracht (inactief) | Inactieve getriggerde campagnes op het tabblad **Marketingactiviteiten**. |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >    
    >    
