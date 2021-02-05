@@ -3,9 +3,9 @@ unique-page-id: 2360052
 description: Bekeken de Pagina's van het Web, het Rapport van de Activiteit van de Web-pagina - Marketo Docs - de Documentatie van het Product
 title: Bekeken de Pagina's van het Web, het Rapport van de Activiteit van de Web-pagina
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Van een [Rapport van de Activiteit van de Pagina van het Web](../../../../../pro
 
 >[!PREREQUISITES]
 >
->Als u activiteiten wilt vastleggen vanaf uw website in Marketo, moet u eerst Munchkin instellen op uw site[.](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>Als u activiteiten wilt vastleggen vanaf uw website in Marketo, moet u eerst Munchkin instellen op uw site](../../../../../product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).[
 
 1. Klik in uw [Web Page Activity report](../../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) op het nummer in de kolom Paginaweergaven.
 
@@ -27,9 +27,8 @@ Van een [Rapport van de Activiteit van de Pagina van het Web](../../../../../pro
 
    ![](assets/image2014-9-16-14-3a54-3a12.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >
    >Creeer een [Rapport van de Activiteit van het Web van het Bedrijf](../../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) om te zien welke bedrijven uw plaats bezoeken.
