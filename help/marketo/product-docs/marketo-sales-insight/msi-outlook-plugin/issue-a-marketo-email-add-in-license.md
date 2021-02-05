@@ -3,9 +3,9 @@ unique-page-id: 2949281
 description: Een licentie voor een Marketo-e-mailinvoegtoepassing uitgeven - Marketo Docs - Productdocumentatie
 title: Een licentie voor een Marketo-e-mailinvoegtoepassing uitgeven
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,8 @@ Iedereen die de toe:voegen-binnen van de Vooruitzichten van de Marketo E-mail wi
 * **[Installatie](install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)** van bedrijfs-sleutelcode: Gebruik deze methode als de vertegenwoordigers van de verkoopafdeling geen beheerrechten hebben voor hun zakelijke laptops en geen plug-ins, software, enz. kunnen installeren. er op. In dit geval geeft de beheerder van de Marketo licenties af aan een lijst met geautoriseerde gebruikers. Vervolgens implementeert het IT-team de insteekmodule op afstand op de computers van alle geautoriseerde gebruikers met de Enterprise Key. De gebruiker van de insteekmodule autoriseert deze vervolgens.
 * **[Installatie](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)** van registratiecode: Gebruik deze methode wanneer verkoopvertegenwoordigers beheerdersrechten hebben voor hun laptop en plug-ins, software, enz. kunnen installeren. er op. Voor dit proces geeft de beheerder van de Marketo licenties af aan een lijst met geautoriseerde gebruikers en stuurt hij hen een e-mail met de registratie rechtstreeks met downloadkoppelingen. De verkoper ontvangt een e-mail met een insteekmodule downloadkoppeling en een unieke registratie-URL.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
