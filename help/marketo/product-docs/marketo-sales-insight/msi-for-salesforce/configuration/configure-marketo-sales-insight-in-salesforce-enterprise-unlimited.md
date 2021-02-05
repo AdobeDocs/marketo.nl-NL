@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Marktverkoopinzicht configureren in Salesforce Enterprise/Onbeperkt - Marketo Docs - Productdocumentatie
 title: Marktverkoopinzicht configureren in Salesforce Enterprise/Onbeperkt
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
@@ -281,7 +281,7 @@ Marketo-persoonvelden moeten worden toegewezen aan Salesforce-contactvelden om e
 
    >[!NOTE]
    >
-   >Als de diagnostische test mislukt, moet u mogelijk meer velden toevoegen aan uw paginalay-out[.](http://nation.marketo.com/docs/DOC-1115)
+   >Als de diagnostische test mislukt, moet u mogelijk meer velden toevoegen aan uw paginalay-out](http://nation.marketo.com/docs/DOC-1115).[
 
 En dat is het! U zou de gebieden van het Inzicht van de Verkoop van de Marketo voor Leads, Contacten, Rekeningen en Kansen moeten kunnen zien.
 
@@ -300,9 +300,7 @@ En dat is het! U zou de gebieden van het Inzicht van de Verkoop van de Marketo v
 
    ![](assets/access-msi.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Prioriteit, Urgentie, Relatieve Score en Beste Bets](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [Voeg het Lusje van het Inzicht van de Verkoop van de Marketo en Knopen aan Salesforce toe](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
