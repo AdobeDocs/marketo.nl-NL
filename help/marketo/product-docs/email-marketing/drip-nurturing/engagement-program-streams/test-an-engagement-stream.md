@@ -3,7 +3,7 @@ unique-page-id: 2359839
 description: Een betrokkenheidsstream testen - Marketo Docs - Productdocumentatie
 title: Een betrokkenheidsstream testen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Wanneer u alle inhoud aan een stream hebt toegevoegd, kunt u deze één keer tes
 
    ![](assets/two.png)
 
-1. Klik op** Program Actions** en selecteer **Test Stream**.
+1. Klik **Program Actions** en selecteer **Test Stream**.
 
    ![](assets/three.png)
 
-1. Selecteer uw persoon uit de **Persoon van de Test **drop-down. Onthoud dat de inhoud daadwerkelijk wordt uitgepakt, dus houd daar rekening mee wanneer u kiest.
+1. Selecteer uw persoon in de vervolgkeuzelijst **Testpersoon**. Onthoud dat de inhoud daadwerkelijk wordt uitgepakt, dus houd daar rekening mee wanneer u kiest.
 
    ![](assets/four-rubix.png)
 
@@ -42,7 +42,7 @@ Wanneer u alle inhoud aan een stream hebt toegevoegd, kunt u deze één keer tes
    Klik op Beginstream, selecteer de stream die u wilt testen en klik op Cast uitvoeren.
    ![](assets/five-rubiks.png)
 
-1. Nadat de persoon door [overgangsregels](transition-people-between-engagement-streams.md) eerder opstelling gaat, klik het Refresh pictogram.
+1. Nadat de persoon door [overgangsregels](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) eerder opstelling gaat, klik het Refresh pictogram.
 
    ![](assets/six-rubiks.png)
 
@@ -54,5 +54,4 @@ Wanneer u alle inhoud aan een stream hebt toegevoegd, kunt u deze één keer tes
 
    >[!NOTE]
    >
-   >Er wordt geen andere inhoud verzonden, tenzij u nogmaals op **Cast uitvoeren ** klikt.
-
+   >Er wordt geen andere inhoud verzonden, tenzij u nogmaals **Cast uitvoeren** klikt.
