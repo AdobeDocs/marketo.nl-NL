@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: E-maillevering Power Pack - Hoe een zaadlijst importeren - Marketo Docs - Productdocumentatie
 title: E-maillevering Power Pack - Hoe een zaadlijst importeren
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbusleveranciers, met inbegrip van de Apps van Google, Hotmail, Yahoo!, enz., die worden gebruikt om het tarief van inbox tegenover spamomslagleveringscapaciteit te benaderen. Hieronder wordt beschreven hoe u die lijst ophaalt in uw Marketo-instantie.
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
@@ -41,9 +39,9 @@ Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbuslevera
 
    >[!NOTE]
    >
-   >Kies **Lijst optimaliseren** als u 250ok aan [optimaliseer uw lijst](http://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) voor u wilt. Kies** Lijst aanpassen* als u de gebieden in de lijst wilt selecteren die u wilt opnemen.
+   >Kies **Lijst optimaliseren** als u 250ok aan [optimaliseer uw lijst](https://support.250ok.com/hc/en-us/articles/216763528-What-is-the-list-optimizer-and-why-should-I-use-it-) voor u wilt. Kies **Lijst aanpassen** als u de gebieden van de zaadlijst wilt selecteren u zou willen omvatten.
 
-1. Na het exporteren wordt de lijst weergegeven als een .txt-bestand in de downloadmap van uw browser. Haal het terug, en [import](../../../getting-started/quick-wins/import-a-list-of-people.md) het in uw instantie van Marketo als statische lijst.
+1. Na het exporteren wordt de lijst weergegeven als een .txt-bestand in de downloadmap van uw browser. Haal het terug, en [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) het in uw instantie van Marketo als statische lijst.
 
    ![](assets/five.png)
 
