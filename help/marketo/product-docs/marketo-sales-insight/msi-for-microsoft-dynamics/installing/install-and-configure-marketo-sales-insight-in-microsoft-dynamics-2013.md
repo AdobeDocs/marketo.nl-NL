@@ -3,9 +3,9 @@ unique-page-id: 3571737
 description: Installeer en vorm het Inzicht van de Verkoop van de Marketo in de Dynamica 2013 van Microsoft - Marketo Docs - de Documentatie van het Product
 title: Het Inzicht van de Verkoop van de Marketo in de Dynamica 2013 van Microsoft installeren en vormen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '444'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -156,9 +156,7 @@ Tot slot kunt u specifieke gebruikers toegang tot het Inzicht van de Verkoop van
 
 U hebt nu de macht van het Inzicht van de Verkoop van de Marketo voor uw verkoopteam ontgrendeld.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Sterren en vlammen instellen voor lead/contact-records](http://docs.marketo.com/x/BICMAg)
 
