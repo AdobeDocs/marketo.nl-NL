@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: Verifieer de Push Configuratie - Marketo Docs - de Documentatie van het Product
 title: Pushconfiguratie verifiëren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,7 @@ Verifieer dupconfiguratie om ervoor te zorgen alles behoorlijk wordt gesynchroni
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)   Alles klaar! Nu kunt u beginnen met het verzenden van pushmeldingen ![(glimlach)](assets/smile.svg)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een pushmelding maken](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
