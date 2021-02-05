@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Vergelijk de doeltreffendheid van het programma met de Analysator van het Programma - Marketo Docs - de Documentatie van het Product
 title: De doeltreffendheid van het Programma met de Analysator van het Programma vergelijken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -90,9 +90,7 @@ We zien dat het programma &quot;Paper Fest 12&quot; niet alleen van invloed is o
 >
 >U kunt de programma&#39;s in één kanaal snel vergelijken met de programma&#39;s in een ander kanaal. Gebruik **Kanaalfilter** boven in het venster om meer kanalen toe te voegen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Programma- en kanaalgegevens verkennen met de Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [Kanaaleffectiviteit vergelijken met de programmaanalyse](compare-channel-effectiveness-with-the-program-analyzer.md)
