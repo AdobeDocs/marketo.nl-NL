@@ -3,9 +3,9 @@ unique-page-id: 12976798
 description: LinkedIn-leadgen Forms - Marketo Docs - Productdocumentatie instellen
 title: LinkedIn Gen Forms instellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Gebruik LinkedIn Gen Forms om advertentiecampagnes in LinkedIn uit te voeren en 
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Voer een **Weergavenaam** voor uw service in, selecteer de service **LinkedIn lead Gen **in in de vervolgkeuzelijst en klik op **Volgende**.
+1. Voer een **Weergavenaam** voor uw service in, selecteer de service **LinkedIn Gen** in de vervolgkeuzelijst en klik op **Volgende**.
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketo opent een nieuw tabblad in dezelfde browser naar [www.linkedin.com](http://www.linkedin.com). Login in LinkedIn gebruikend de rekening u voor de integratie wilt gebruiken.
+1. Marketo opent een nieuw tabblad in dezelfde browser naar [linkedin.com](https://www.linkedin.com). Meld u aan bij LinkedIn met het account dat u voor de integratie wilt gebruiken.
 
    >[!NOTE]
    >
@@ -43,7 +43,7 @@ Gebruik LinkedIn Gen Forms om advertentiecampagnes in LinkedIn uit te voeren en 
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. Klik desgevraagd op **Toestaan **om de installatie van de Marketo-app in LinkedIn te accepteren.
+1. Wanneer ertoe aangezet, klik **Toestaan** om de de toepassingsinstallatie van Marketo in LinkedIn goed te keuren.
 
    ![](assets/linkedin-marketo-allow.png)
 
@@ -85,9 +85,4 @@ Echt waar! Personen die LinkedIn Gen-formulieren indienen, gaan naar Marketo wan
 
 >[!MORELIKETHIS]
 >
->* [LinkedIn Gen-formulierfilters en -triggers gebruiken in een slimme campagne](use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
-
->
-
-
-
+>[LinkedIn Gen-formulierfilters en -triggers gebruiken in een slimme campagne](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
