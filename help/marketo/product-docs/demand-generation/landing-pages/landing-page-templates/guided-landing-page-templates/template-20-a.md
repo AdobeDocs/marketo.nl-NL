@@ -3,9 +3,9 @@ unique-page-id: 10092905
 description: Sjabloon 20-A - Marketo Docs - Productdocumentatie
 title: Template 20-A
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 20-A {#template-a}
 
-Klik met de rechtermuisknop om [Sjabloon 20-A](http://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&amp;modificationdate=1441750550000&amp;api=v2) te downloaden
+[Sjabloon 20-A downloaden](https://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&amp;modificationdate=1441750550000&amp;api=v2)
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vier carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:
+**Klik hieronder om deze sjabloon te downloaden:**
 
-[Template20-A.html](http://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&amp;modificationdate=1441750550000&amp;api=v2)
+[Template20-A.html](https://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&amp;modificationdate=1441750550000&amp;api=v2)
