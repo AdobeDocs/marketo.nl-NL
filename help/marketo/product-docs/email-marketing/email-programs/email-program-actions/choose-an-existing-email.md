@@ -3,9 +3,9 @@ unique-page-id: 2359451
 description: Kies een bestaande e-mail - Marketo Docs - Productdocumentatie
 title: Bestaande e-mail kiezen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Als u [een e-mailprogramma](../../../../product-docs/email-marketing/email-progr
 
 Nu we hebben besloten welke e-mail we moeten verzenden, kunnen we een A/B-test instellen, of dat overslaan en het e-mailprogramma plannen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een A/B-test toevoegen](email-test-a-b-test/add-an-a-b-test.md)
 >* [Uw e-mailprogramma plannen](schedule-your-email-program.md)
