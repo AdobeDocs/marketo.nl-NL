@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Vergelijk de doeltreffendheid van het Kanaal met de Analysator van het Programma - Marketo Docs - de Documentatie van het Product
 title: Kanaaleffectiviteit vergelijken met de programmaanalyse
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -82,9 +82,7 @@ In ons voorbeeld zien we dat het Tradeshow-kanaal zowel het duurste (het verst n
 >
 >De voorbeelden in deze stappen meten doeltreffendheid die op gecreeerde pijpleiding wordt gebaseerd. Gebruik de vervolgkeuzelijst Y-as om andere manieren te selecteren om de doeltreffendheid van kanalen te meten, zoals Nieuwe namen, leden, Kosten per succes, enz.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Programma- en kanaalgegevens verkennen met de Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
 >* [De doeltreffendheid van het Programma met de Analysator van het Programma vergelijken](compare-program-effectiveness-with-the-program-analyzer.md)
