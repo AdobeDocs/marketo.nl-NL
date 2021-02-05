@@ -3,7 +3,7 @@ unique-page-id: 2359856
 description: Een betrokkenheidsprogramma in- en uitschakelen - Marketo Docs - Productdocumentatie
 title: Een betrokkenheidsprogramma in- en uitschakelen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -35,5 +35,4 @@ U kunt een betrokkenheidsprogramma uitschakelen met de klik op een switch. Hierm
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 
-   Daar ga je! U kunt deze functie weer inschakelen door dezelfde stappen uit te voeren.
-
+Daar ga je! U kunt deze functie weer inschakelen door dezelfde stappen uit te voeren.
