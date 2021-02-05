@@ -3,9 +3,9 @@ unique-page-id: 2359785
 description: Verzenden van e-mail met afhandeling van een verwijzingsvoorstel - Marketo-documenten - Productdocumentatie
 title: Verzenden van e-mail met uitvoeringsvoorstel voor verwijzing
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Geef uw klanten coupons en kortingscodes terug met behulp van het e-mailbericht 
 
 >[!PREREQUISITES]
 >
->* [E-mails gebruiken in sociale aanbiedingen](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
->* [Verwijzingsvoorstel maken](create-a-referral-offer.md)
-
->
-
+>* [E-mails gebruiken in sociale aanbiedingen](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
+>* [Verwijzingsvoorstel maken](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
 
 
 ## Afhandeling {#set-up-fulfillment-delivery} instellen
@@ -30,11 +27,9 @@ Geef uw klanten coupons en kortingscodes terug met behulp van het e-mailbericht 
 
    ![](assets/image2015-4-20-16-3a3-3a14.png)
 
-1. Selecteer **Details van aanbieding onder** App-instellingen **.**
+1. Selecteer **Details aanbieden** onder **App-instellingen**.
 
-   ** ![](assets/image2015-4-23-12-3a53-3a16.png)
-
-   **
+   ![](assets/image2015-4-23-12-3a53-3a16.png)
 
 1. Selecteer een **Aanmelden-E-mail**.
 
@@ -46,10 +41,7 @@ Geef uw klanten coupons en kortingscodes terug met behulp van het e-mailbericht 
 
    >[!NOTE]
    >
-   >**Diep duiken**
-   >
-   >
-   >Meer informatie over [e-mails gebruiken in sociale aanbiedingen](../../../../product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Meer informatie over [e-mails gebruiken in sociale aanbiedingen](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
 
 1. Klik op de vervolgkeuzelijst **Aflevering van tegoeden** en selecteer **Automatisch op doel**.
 
@@ -65,7 +57,7 @@ U kunt een e-mailbericht voor vervulling handmatig naar een persoon sturen zodra
 
    ![](assets/image2015-4-20-15-3a37-3a14.png)
 
-1. Klik op de optie **Filteren op **en selecteer **Doel**.
+1. Klik op de optie **Filteren op** en selecteer **Doel**.
 
    >[!NOTE]
    >
