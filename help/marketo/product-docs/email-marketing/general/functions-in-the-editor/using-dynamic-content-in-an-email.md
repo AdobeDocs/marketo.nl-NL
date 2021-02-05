@@ -3,9 +3,9 @@ unique-page-id: 2950617
 description: Dynamische inhoud gebruiken in een e-mail - Marketo Docs - Productdocumentatie
 title: Dynamische inhoud gebruiken in een e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -73,9 +73,7 @@ Gebruik Dynamische inhoud in e-mails om de beoogde gegevens voor leads te verzen
 
 Zoet! Nu kunt u flexibele e-mails naar uw doelgroep sturen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een voorbeeld van een e-mailbericht weergeven met dynamische inhoud](preview-an-email-with-dynamic-content.md)
 >* [Dynamische inhoud gebruiken in een bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
