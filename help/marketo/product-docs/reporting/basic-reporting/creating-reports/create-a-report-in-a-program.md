@@ -3,9 +3,9 @@ unique-page-id: 2359963
 description: Een rapport maken in een programma - Marketo Docs - Productdocumentatie
 title: Een rapport maken in een programma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -70,9 +70,8 @@ Voer een rapport uit om mensen, uw programma&#39;s, bestemmingspagina&#39;s, e-m
    >
    >Je kunt snel met veel rapporten eindigen. Herinner me aan [schrapping een rapport](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) u niet meer nodig hebt.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >
    >U kunt [een rapporttijdkader veranderen ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [onderteken aan een basisrapport](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [voer een rapport naar Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filter mensen in een rapport met een slimme lijst](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), en [more](http://docs.marketo.com/display/docs/basic+reporting).
