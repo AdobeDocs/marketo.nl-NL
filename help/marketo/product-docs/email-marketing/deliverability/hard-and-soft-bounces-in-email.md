@@ -3,7 +3,7 @@ unique-page-id: 1147328
 description: Harde en zachte grenzen in e-mail - Marketo Docs - Productdocumentatie
 title: Harde en zachte grenzen in e-mail
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Harde en zachte grenzen in e-mail {#hard-and-soft-bounces-in-email}
 
-Een harde stuit kan het e-mailadres van een persoon ongeldig verklaren wanneer een postserver Marketo vertelt dat de e-mail van de persoon niet kan worden geleverd. Een zachte stuit betekent dat er iets fout is gegaan bij het verzenden van de e-mail aan de persoon; dit wordt automatisch opgelost en kan soms dagen duren . Zowel hard als zachte grenzen bestaan uit [veelvoudige categorieën](http://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
+Een harde stuit kan het e-mailadres van een persoon ongeldig verklaren wanneer een postserver Marketo vertelt dat de e-mail van de persoon niet kan worden geleverd. Een zachte stuit betekent dat er iets fout is gegaan bij het verzenden van de e-mail aan de persoon; dit wordt automatisch opgelost en kan soms dagen duren . Zowel hard als zachte grenzen bestaan uit [veelvoudige categorieën](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
 
 ## Stuitclassificatie {#bounce-classification}
 
@@ -21,7 +21,7 @@ Er zijn vijf tekenreeksen in Marketo die verwant zijn aan problemen met het verz
 
 1. **E-mail opgeschort**  - Ingesteld op Waar wanneer een bepaald type harde stuit voorkomt.
 1. **Opgeschorte oorzaak**  via e-mail - Er kunnen vele redenen zijn. In dit veld wordt geprobeerd de oorzaak uit te leggen.
-1. **E-mail opgeschort om **- Wanneer de beledigende stuit voorkomt, zal Marketo het versturen aan de persoon voor 24 uur van dit timestamp opschorten.
+1. **E-mail opgeschort om** - Wanneer de beledigende stuit voorkomt, zal Marketo het versturen naar de persoon gedurende 24 uur na deze tijdstempel opschorten.
 1. **Ongeldig**  e-mailadres - Ingesteld op Waar wanneer een bepaald type harde stuit voorkomt.
 1. **Ongeldige oorzaak**  e-mail - De reden voor de harde stuit.
 
@@ -33,11 +33,12 @@ Er zijn vijf tekenreeksen in Marketo die verwant zijn aan problemen met het verz
 
 >[!PREREQUISITES]
 >
->Voer [deze stappen](../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) uit om een e-mailprestatierapport te maken dat stuitergegevens genereert.
+>Voer [deze stappen](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) uit om een e-mailprestatierapport te maken dat stuitergegevens genereert.
 
-Nadat u uw e-mailprestatierapport hebt gemaakt, moet uw scherm er ongeveer als volgt uitzien: ![](assets/soft-hard-bounce.png)
+Nadat u uw e-mailprestatierapport hebt gemaakt, moet uw scherm er ongeveer als volgt uitzien:
+
+![](assets/soft-hard-bounce.png)
 
 >[!NOTE]
 >
 >Spam-filters maken soms harde golven. Deze &quot;vals-positieven&quot; zijn geen aanwijzing van de ware geldigheid van het e-mailadres van de persoon.
-
