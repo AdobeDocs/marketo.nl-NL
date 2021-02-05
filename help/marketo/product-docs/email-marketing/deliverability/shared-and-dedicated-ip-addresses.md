@@ -3,7 +3,7 @@ unique-page-id: 10912085
 description: Gedeelde en Specifieke IP Adressen - Marketo Docs - de Documentatie van het Product
 title: Gedeelde en Specifieke IP Adressen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
@@ -31,13 +31,13 @@ Zoals gewoonlijk zijn er voor- en nadelen voor beide opties.
 
 **Pros en Kons van een Specifieke IP**
 
-*Pros*
+_Pros_
 
 **Reputatie**  - Je hebt volledig je reputatie en leverbaarheid.\
 **Controle**  - het controleren van uw leverbaarheidsrapportering laat u toe om aan veranderingen in uw leveringsmetriek snel te antwoorden.\
 **Probleemoplossing**  - Het is eenvoudiger om leveringsproblemen te onderzoeken, te begrijpen en op te lossen.
 
-*Cons*
+_Cons_
 
 **Volume verandert**  - De pieken in volume kunnen uw reputatie negatief beïnvloeden en moeten worden beheerd.\
 **IP opwarmen proces**  - de Reputatie wordt gebouwd in tijd. Sommige leveranciers van de Dienst van Internet (ISPs) throttle IP adressen zonder volumegeschiedenis, zodat zult u een reputatie over de eerste weken moeten bouwen (Marketo kan helpen u begeleiden).\
@@ -45,17 +45,17 @@ Zoals gewoonlijk zijn er voor- en nadelen voor beide opties.
 
 **Pros en Kons van een Gedeelde IP**
 
-*Pros*
+_Pros_
 
-**Goede kamergenoten **- als de mensen u uw IP met het volgen beste verzenden praktijken deelt, zou u profiteren.\
-**Mailingfrequentie **- Er is geen minimale mailingfrequentie nodig om in aanmerking te komen voor een gedeeld IP, in tegenstelling tot specifieke IP&#39;s.\
-**Kosten **- Er is nooit een extra last om van Gedeelde IP te verzenden.
+**Goede kamergenoten**  - als de mensen u uw IP met het volgen beste verzenden praktijken deelt, zou u profiteren.\
+**Mailingfrequentie** : er is geen minimale mailingfrequentie nodig om in aanmerking te komen voor een gedeeld IP, in tegenstelling tot specifieke IP&#39;s.\
+**Kosten**  - Er is nooit een extra last om van Gedeelde IP te verzenden.
 
-*Cons*
+_Cons_
 
 **Onjuiste kamergenoten**  - als de mensen u uw IP met in dienst nemen van slechte verzendende praktijken deelt, zouden uw e-mailcampagnes negatief kunnen worden beïnvloed.\
-**Besturing **- U hebt veel minder controle over de reputatie van de afzender.\
-**De Resolutie van de kwestie **- Het kan vaak moeilijker zijn om een kwestie op te lossen wanneer het verzenden van Gedeelde IPs.
+**Controle**  - U hebt veel minder controle over uw afzenderreputatie.\
+**Probleemoplossing**  - Het kan vaak moeilijker zijn om een probleem op te lossen bij het verzenden van gedeelde IP&#39;s.
 
 >[!NOTE]
 >
