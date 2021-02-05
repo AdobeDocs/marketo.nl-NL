@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: Sterren en vlammen aanpassen - Marketo Docs - Productdocumentatie
 title: Sterren en vlammen aanpassen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Marketo Sales Insight gebruikt sterren en vlammen om leads een prioriteit te geven. Marketo bepaalt automatisch wie 1-2-3 sterren/vlammen krijgt. U kunt de formule echter wijzigen. Hieronder wordt beschreven hoe:
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
