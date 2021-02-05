@@ -3,9 +3,9 @@ unique-page-id: 2359466
 description: Fragmenten bewerken met dynamische inhoud - Marketo Docs - Productdocumentatie
 title: Fragmenten bewerken met dynamische inhoud
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -56,9 +56,7 @@ Gebruik Segmentatie in fragmenten om dynamische inhoud op uw e-mails en landings
 
 Was dat niet eenvoudig? U bent nu allemaal ingesteld op het gebruik van deze fragmenten op e-mails en bestemmingspagina&#39;s.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een fragment toevoegen aan een e-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [Een fragment toevoegen aan een bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
