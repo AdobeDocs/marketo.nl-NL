@@ -3,9 +3,9 @@ unique-page-id: 7504120
 description: Een presentatie starten - Marketo Docs - Productdocumentatie
 title: Een presentatie starten
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Als u de weergaven en de rotatiefrequentie voor uw presentatie hebt ingesteld, is het tijd om af te blazen!
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
