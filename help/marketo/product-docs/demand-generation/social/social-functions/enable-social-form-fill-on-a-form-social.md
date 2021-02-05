@@ -3,9 +3,9 @@ unique-page-id: 2359829
 description: Vulling van sociaal formulier inschakelen op een formulier (sociaal) - Marketo Docs - Productdocumentatie
 title: Vulling van sociaal formulier inschakelen op een formulier (sociaal)
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,7 @@ ht-degree: 0%
 
 Uw bezoekers toestaan het formulier in te vullen via hun sociale netwerk. Je krijgt automatisch extra gegevens en ze krijgen een snellere ervaring. Zo gaat het.
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
@@ -39,7 +37,7 @@ Uw bezoekers toestaan het formulier in te vullen via hun sociale netwerk. Je kri
 
    >[!TIP]
    >
-   >Bekijk wat [data Marketo zal vangen](manage-social-profile-data.md) als mensen de sociale knopen gebruiken.
+   >Bekijk wat [data Marketo zal vangen](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) als mensen de sociale knopen gebruiken.
 
 1. Klik **Voltooien**.
 
