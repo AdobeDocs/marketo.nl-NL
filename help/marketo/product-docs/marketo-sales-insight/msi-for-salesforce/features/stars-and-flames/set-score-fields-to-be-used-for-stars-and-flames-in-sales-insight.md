@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: De Gebieden van de Score plaatsen die voor Sterren en Vlammen in het Inzicht van de Verkoop - Marketo Docs - de Documentatie van het Product moeten worden gebruikt
 title: De Gebieden van de Score plaatsen die voor Sterren en Vlamjes in het Inzicht van de Verkoop moeten worden gebruikt
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,8 @@ Standaard gebruikt Marketo Sales Insight het veld **Loodscore** om sterren en vl
    >
    >Verkoopinzicht neemt enige tijd in beslag om opnieuw te berekenen. U kunt uw CRM later controleren om de sterren en de vlammen te zien.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >
    >[Prioriteit, Urgentie, Relatieve Score en Beste Bets](priority-urgency-relative-score-and-best-bets.md)
