@@ -3,9 +3,9 @@ unique-page-id: 7503973
 description: Een presentatie aanpassen - Marketo Docs - Productdocumentatie
 title: Een presentatie aanpassen
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Opstelling uw kalenderpresentatie om op de doelstellingen en de activiteiten te wijzen die het belangrijkst aan uw team zijn.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
