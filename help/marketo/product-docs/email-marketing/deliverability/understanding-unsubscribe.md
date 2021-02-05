@@ -3,9 +3,9 @@ unique-page-id: 7514918
 description: Inzicht in afmelden - Marketo Docs - Productdocumentatie
 title: Abonnement begrijpen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ In Marketo zijn er eigenlijk verschillende soorten ingebouwd afmelden. Ze worden
 >
 >Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van afgewezen personen en Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
 
-Al deze velden zijn ingebouwd in uw abonnement op Marketo. Ze zijn allemaal van het type Boolean (selectievakje). Ze kunnen worden gebruikt in Forms- of [Gegevenswaarde wijzigen](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)-stroomstappen.
+Al deze velden zijn ingebouwd in uw abonnement op Marketo. Ze zijn allemaal van het type Boolean (selectievakje). Ze kunnen worden gebruikt in Forms- of [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)-stroomstappen.
 
 ## Afgemeld {#unsubscribed}
 
-Deze wordt gebruikt op de standaard pagina voor afmelden. Als iemand dit selectievakje inschakelt of op de koppeling Abonnement opzeggen klikt in een e-mail, ontvangen hij of zij geen e-mails over marketing meer. Ze zullen echter [operationele e-mails](../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) ontvangen.
+Deze wordt gebruikt op de standaard pagina voor afmelden. Als iemand dit selectievakje inschakelt of op de koppeling Abonnement opzeggen klikt in een e-mail, ontvangen hij of zij geen e-mails over marketing meer. Ze zullen echter [operationele e-mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) ontvangen.
 
 ## Marketing opgeschort {#marketing-suspended}
 
@@ -39,7 +39,6 @@ Deze status verhindert een persoon 24 uur na een harde stuit te zenden. Na 24 uu
 
 ## Toegevoegd op lijst van gewenste personen {#blocklisted}
 
-[Gebruik dit voor mensen zoals concurrenten](http://docs.marketo.com/x/uwOQ). Iedereen u **no** e-mail-operationeel wilt ontvangen, marketing, etc. Ze krijgen niets!
+[Gebruik dit voor mensen zoals concurrenten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Iedereen u **no** e-mail-operationeel wilt ontvangen, marketing, etc. Ze krijgen niets!
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)
-
