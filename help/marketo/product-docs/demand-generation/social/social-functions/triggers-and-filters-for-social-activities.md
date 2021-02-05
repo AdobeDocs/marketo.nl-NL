@@ -3,9 +3,9 @@ unique-page-id: 2359837
 description: Triggers en filters voor sociale activiteiten - Marketo Docs - Productdocumentatie
 title: Triggers en filters voor sociale activiteiten
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,15 @@ ht-degree: 0%
 
 Sociale apps in Marketo hebben hun eigen speciale triggers en filters.
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Als u sociale *triggers* wilt gebruiken, selecteert u uw slimme campagne en klikt u op het tabblad **Slimme lijst**. Klik rechts op + om Triggers **Triggers** uit te vouwen en **Sociaal**.
+1. Als u sociale _triggers_ wilt gebruiken, selecteert u uw slimme campagne en klikt u op het tabblad **Slimme lijst**. Klik rechts op + om Triggers **Triggers** uit te vouwen en **Sociaal**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Als u sociale *filters* wilt gebruiken, klikt u op **+** om de **Filters** uit te vouwen.
+1. Als u sociale _filters_ wilt gebruiken, klikt u op **+** om de **Filters** uit te vouwen.
 
    ![](assets/two-282-29.png)
 
@@ -44,9 +42,6 @@ Sociale apps in Marketo hebben hun eigen speciale triggers en filters.
    | Stemmen in opiniepeiling |  | ![(tik)](assets/check.svg) |  |  |  |
    | Wins Sweepstakes |  |  |  |  | ![(tik)](assets/check.svg) |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
-   >
-   >* [Sociale prestaties weergeven](view-social-performance.md)
-
+   >[Sociale prestaties weergeven](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)
