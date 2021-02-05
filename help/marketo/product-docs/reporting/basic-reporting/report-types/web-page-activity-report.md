@@ -3,9 +3,9 @@ unique-page-id: 2359971
 description: Rapport over de activiteiten op de webpagina - Marketo Docs - Productdocumentatie
 title: Rapport over activiteiten op webpagina
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ U kunt ervoor kiezen om bekende personen of anonieme personen weer te geven, maa
 
    >[!TIP]
    >
-   >Als u wilt weten wie uw site het meest bezoekt, sorteert u uw rapport[ ](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)in de kolom [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)Paginaweergaven *en kiest u Sorteren in aflopende volgorde.*
+   >Als u wilt weten wie uw site het meest bezoekt, sorteert u uw rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) [](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)in de kolom *Paginaweergaven* en kiest u Sorteren in aflopende volgorde.[
 
    [Marketo voegt ](../../../../product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md) anonieme websitebezoekers toe aan uw database en u kunt ervoor kiezen deze in dit rapport weer te geven. Het biedt een schat aan informatie, ook al zijn ze anoniem.\
    [De kolommen die u voor een rapport van de Activiteit van de Pagina van het Web kunt ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) selecteren omvatten:
@@ -83,9 +83,8 @@ U kunt ervoor kiezen om bekende personen of anonieme personen weer te geven, maa
 >
 >Schrijf je verkoopvertegenwoordigers! [Filter het ](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)rapport voor hun grondgebied en  [onderschrijf het](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)!
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
 >
 >* [Bekeken de Pagina&#39;s van het Web, het Rapport van de Activiteit van de Web-pagina](web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [Personen of anonieme bezoekers weergeven in webrapporten](../../../../product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
