@@ -3,9 +3,9 @@ unique-page-id: 8781845
 description: Marketo-momenten begrijpen - Marketo-documenten - Productdocumentatie
 title: Marketo-momenten begrijpen
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 De kracht van Marketo ligt nu letterlijk in uw handen! U kunt e-mails direct vanaf uw telefoon of iPad bekijken en opnieuw plannen.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Toegang tot mobiele apps is vereist. Neem contact op met uw Marketo-beheerder om uw rol [bij te werken.](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
 
