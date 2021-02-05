@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Segmentregels definiëren - Marketo Docs - Productdocumentatie
 title: Segmentregels definiëren
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,7 @@ Goed werk! Deze segmenten zullen op veel plaatsen in Marketo in de hand komen.
 >
 >In het scherm Personen (concept) worden alle personen weergegeven die in aanmerking komen om lid te zijn en dit is niet altijd de uiteindelijke lijst met personen. Goedkeuren van het segment om de definitieve lijst weer te geven.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Een segmentatie goedkeuren](approve-a-segmentation.md)
 
