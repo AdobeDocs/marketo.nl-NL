@@ -3,9 +3,9 @@ unique-page-id: 2360405
 description: Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Leidt - Marketo DOS - de Documentatie van het Product
 title: Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Landen opsomt
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Ga als volgt te werk om een rapport van de Analyse van het Lidmaatschap van het Programma tot stand te brengen dat u alle namen van de programmaleden zal tonen.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
