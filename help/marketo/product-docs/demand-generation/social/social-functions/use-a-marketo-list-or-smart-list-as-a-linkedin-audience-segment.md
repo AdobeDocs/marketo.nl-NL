@@ -3,7 +3,7 @@ unique-page-id: 7504180
 description: Een lijst met markeertekens of een slimme lijst gebruiken als een LinkedIn Audience-segment - Marketo Docs - Productdocumentatie
 title: Een lijst met markeertekens of een slimme lijst gebruiken als een segment voor LinkedIn-publiek
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Integreer uw Marketo-mensen met uw LinkedIn-publiek.
 
 >[!PREREQUISITES]
 >
->* [Voeg LinkedIn Gelijke Publiek als Dienst van LaunchPoint toe](../../../../product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[Voeg LinkedIn Gelijke Publiek als Dienst van LaunchPoint toe](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
->
-
-
-
-1. Ga naar de** Database*.
+1. Ga naar **Database**.
 
    ![](assets/db.png)
 
@@ -35,7 +31,7 @@ Integreer uw Marketo-mensen met uw LinkedIn-publiek.
 
    ![](assets/three-1.png)
 
-1. Klik op het pictogram** Verzenden via Adobe Bridge **pictogram ![—](assets/image2015-4-20-18-3a18-3a41.png) onder aan de lijst.
+1. Klik op het pictogram **Verzenden via ad Bridge** ![—](assets/image2015-4-20-18-3a18-3a41.png) onder aan de lijst.
 
    ![](assets/four-1.png)
 
@@ -43,7 +39,7 @@ Integreer uw Marketo-mensen met uw LinkedIn-publiek.
    >
    >Wanneer het gebruiken van de integratie van het advertentienetwerk om een publiek naar LinkedIn te verzenden, verzendt Marketo slechts het e-mailadres over.
 
-1. Selecteer** LinkedIn** en klik **Next**.
+1. Selecteer **LinkedIn** en klik **Volgende**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
@@ -67,6 +63,4 @@ Integreer uw Marketo-mensen met uw LinkedIn-publiek.
    >
    >De synchronisatie kan 15 minuten duren.
 
-   [Het de hulpcentrum van de Oplossingen van de Marketing van LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)
-
-Hoogste vijf! Uw gegevens gaan nu samen met het publiek van LinkedIn. Voor informatie over het uploaden van lijsten naar LinkedIn voor account en het richten van het Contact, bezoek.
+Hoogste vijf! Uw gegevens gaan nu samen met het publiek van LinkedIn. Voor informatie over het uploaden van lijsten aan LinkedIn voor Rekening en het richten van het Contact, bezoek [het Hulp centrum van de Oplossingen van de Marketing van LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).
