@@ -3,9 +3,9 @@ unique-page-id: 7512252
 description: Een mobiele app toevoegen - Marketo Docs - Productdocumentatie
 title: Een mobiele app toevoegen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,8 @@ Verzend pushberichten naar uw klantenbasis door uw mobiele app aan te sluiten me
 
 Apps beginnen normaal uit in een zandbakmilieu, waar de aanvankelijke ontwikkeling en het testen worden uitgevoerd. Ontwikkelaars gebruiken vervolgens een productieomgeving om de uiteindelijke app te maken die door klanten wordt gebruikt. U moet het juiste berichtcertificaat selecteren wanneer u een mobiele app toevoegt (zie stap 4 hieronder).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
