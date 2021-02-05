@@ -3,7 +3,7 @@ unique-page-id: 12976776
 description: Gebruik LinkedIn Gen Form Filters en Triggers in een slimme campagne - Marketo Docs - Productdocumentatie
 title: LinkedIn Gen-formulierfilters en -triggers gebruiken in een slimme campagne
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -26,4 +26,3 @@ Wanneer u LinkedIn Gen Forms hebt ingeschakeld, kunt u deze als filters en trigg
 1. Voeg beperkingen toe om uw resultaten verder te beperken.
 
    ![](assets/lead-gen-constraints.png)
-
