@@ -3,9 +3,9 @@ unique-page-id: 2359455
 description: Uw e-mailprogramma plannen - Marketo Docs - Productdocumentatie
 title: Uw e-mailprogramma plannen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -48,11 +48,9 @@ Als uw e-mailprogramma is gemaakt, het publiek is gedefinieerd en e-mail is gese
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   Hoe makkelijk was dat? Het enige wat er nog over is, is om een e-mailprogramma [ goed te keuren en u kunt er goed aan doen.](approve-unapprove-an-email-program.md)
+   Hoe makkelijk was dat? Het enige wat er nog over is, is om een e-mailprogramma ](approve-unapprove-an-email-program.md) goed te keuren en u kunt er goed aan doen.[
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [E-mailprogramma&#39;s met tijdzone voor ontvangers plannen](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Begin voor e-mailprogramma&#39;s](head-start-for-email-programs.md)
