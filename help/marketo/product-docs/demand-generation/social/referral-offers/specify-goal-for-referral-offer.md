@@ -3,9 +3,9 @@ unique-page-id: 2359791
 description: Doel voor doorverwijzing opgeven - Marketo Docs - Productdocumentatie
 title: Doel voor doorverwijzing opgeven
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Doel opgeven voor doorverwijzing {#specify-goal-for-referral-offer}
 
-Wanneer u [een verwijzingsaanbieding ](create-a-referral-offer.md) creeert, moet u het nalevingsdoel bepalen. Het doel kan worden gedefinieerd door persoonlijke activiteiten op de webpagina, zoals paginabezoeken of aanmelden. U kunt zelfs een [aangepaste JavaScript-gebeurtenis](../../../../product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md) gebruiken.
+Wanneer u [een verwijzingsaanbieding ](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) creeert, moet u het nalevingsdoel bepalen. Het doel kan worden gedefinieerd door persoonlijke activiteiten op de webpagina, zoals paginabezoeken of aanmelden. U kunt zelfs een [aangepaste JavaScript-gebeurtenis](/help/marketo/product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md) gebruiken.
 
-Alternatief, kunt u een [slimme lijsttrekker](specify-goal-for-referral-offer.md) in Marketo gebruiken om op om het even welke mijlpaal te wachten, zoals een kans die voor de genoemde persoon wordt gecreeerd.
+Alternatief, kunt u een slimme lijsttrekker in Marketo gebruiken om op om het even welke mijlpaal te wachten, zoals een kans die voor de genoemde persoon wordt gecreeerd.
 
 Voorbeelden van doelen:
 
@@ -29,11 +29,11 @@ Voorbeelden van doelen:
 
    ![](assets/ma.png)
 
-1. Selecteer het verwijzingsaanbod en klik op **Concept bewerken.**
+1. Selecteer de verwijzingsaanbieding, en klik **uitgeven Ontwerp**.
 
    ![](assets/image2014-9-19-15-3a6-3a35.png)
 
-1. In de verwijzingsaanbiedingsredacteur, ga **App Montages** > **Details van de aanbieding.**
+1. In de verwijzingsaanbiedingsredacteur, ga **App Montages** > **Details van de aanbieding**.
 
    ![](assets/image2014-9-19-15-3a6-3a44.png)
 
@@ -47,15 +47,14 @@ Voorbeelden van doelen:
 
 * Bezoeken waarnaar wordt verwezen: De deelnemers van de aanbieding krijgen krediet voor elk bezoek van een vriend aan de pagina die uw voorstel ontvangt.
 * Aanwijzingen waarnaar wordt verwezen: De deelnemers van de aanbieding krijgen krediet voor elke vriend die zich voor de aanbieding aantekent.
-* Trigger voor slimme lijst: De deelnemers van de aanbieding krijgen krediet voor elke vriend die aan de voorwaarden van een [slimme lijst](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) trekker in een [slimme campagne](http://docs.marketo.com/display/docs/smart+campaigns) voldoet. U kunt bijvoorbeeld een trigger gebruiken die wordt geactiveerd wanneer een doorverwezen vooruitzicht zich aanmeldt voor een webinar.
+* Trigger voor slimme lijst: De deelnemers van de aanbieding krijgen krediet voor elke vriend die aan de voorwaarden van een [slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) trekker in een [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) voldoet. U kunt bijvoorbeeld een trigger gebruiken die wordt geactiveerd wanneer een doorverwezen vooruitzicht zich aanmeldt voor een webinar.
 
-* Aangepaste JavaScript-gebeurtenis: De deelnemers van de aanbieding krijgen krediet voor elke vriend die een bepaalde gebeurtenis JavaScript op uw pagina teweegbrengt. Zie [Conversiescript voor Aangepaste gebeurtenissen](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+* Aangepaste JavaScript-gebeurtenis: De deelnemers van de aanbieding krijgen krediet voor elke vriend die een bepaalde gebeurtenis JavaScript op uw pagina teweegbrengt. Zie [Conversiescript voor Aangepaste gebeurtenissen](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!NOTE]
 >
->Er zijn nieuwe filters en triggers beschikbaar in slimme campagnes om sociale activiteit te controleren. Zie [gebruik triggers en filters voor sociale activiteiten](../../../../product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
+>Er zijn nieuwe filters en triggers beschikbaar in slimme campagnes om sociale activiteit te controleren. Zie [gebruik triggers en filters voor sociale activiteiten](/help/marketo/product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md).
 
 >[!MORELIKETHIS]
 >
->Vervolgens kunt u [de e-mails voor aanmelding en afhandeling selecteren](send-referral-offer-fulfillment-email.md) die u vanuit uw verwijzingsaanbod wilt verzenden.
-
+>Vervolgens kunt u [de e-mails voor aanmelding en afhandeling selecteren](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) die u vanuit uw verwijzingsaanbod wilt verzenden.
