@@ -3,9 +3,9 @@ unique-page-id: 37356593
 description: Een sjabloon gebruiken in het venster Samenstellen - Marketo Docs - Productdocumentatie
 title: Een sjabloon gebruiken in het venster Samenstellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,8 @@ Favoriete **tot vijf** specifieke malplaatjecategorieën om snelle toegang tot u
    >
    >**** Favorieten zijn er standaard. Deze bevat favoriete e-mailsjablonen, geen rubrieken.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >    
    >    
