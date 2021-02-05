@@ -3,9 +3,9 @@ unique-page-id: 37355534
 description: Opmerkingen bij de release - jan 2020 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - jan 2020
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '846'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 De volgende functies zijn opgenomen in de release van 20 januari. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Functies die door een ster worden aangeduid ( ![(star)](assets/star-yellow.svg)), worden tegen betaling aangeboden. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
