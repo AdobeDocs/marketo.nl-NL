@@ -3,7 +3,7 @@ unique-page-id: 2359955
 description: Prestatierapport voor betrokkenheidsstroom - Marketo Docs - Productdocumentatie
 title: Prestatierapport voor betrokkenheidsstream
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -60,8 +60,6 @@ Wilt u weten hoe de inhoud van uw service presteert? Probeer het prestatierappor
 
    >[!TIP]
    >
-   >
-   >Hoewel niet geïllustreerd, is de Score van de Betrokkenheid een kolom in dit rapport. Zie [De Engagement Score](understanding-the-engagement-score.md) voor meer informatie over wat het is.
+   >Hoewel niet geïllustreerd, is de Score van de Betrokkenheid een kolom in dit rapport. Zie [De Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) voor meer informatie over wat het is.
 
    Geweldig werk! Het rapport is gegroepeerd op betrokkenheidsprogramma.
-
