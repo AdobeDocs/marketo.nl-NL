@@ -3,9 +3,9 @@ unique-page-id: 3571735
 description: Installeer en vorm het Inzicht van de Verkoop van de Marketo in de Dynamica 2011 van Microsoft - Marketo Docs - de Documentatie van het Product
 title: Het Inzicht van de Verkoop van de Marketo in de Dynamica 2011 van Microsoft installeren en vormen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -158,9 +158,7 @@ De gebruikersrollen van de opstelling om specifieke gebruikers toegang tot het I
 
    Gefeliciteerd. Je hebt nu de kracht van Marketo Sales Insight vrijgemaakt.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Sterren en vlammen instellen voor lead/contact-records](http://docs.marketo.com/x/BICMAg)
 
