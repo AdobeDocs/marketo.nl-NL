@@ -3,9 +3,9 @@ unique-page-id: 11382815
 description: Installatie van de Plug-in Marketo Outlook door IT - Marketo Docs - Productdocumentatie
 title: Installatie van de Plug-in Marketo Outlook door IT
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,7 @@ Als u een locatie voor de logbestanden wilt opgeven, geeft u het bestandspad op 
 
 Gelieve te verwijzen naar [de volledige lijst van Microsoft van schakelaars](https://support.microsoft.com/en-us/kb/227091) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Marketo Outlook-insteekmodule verwijderd door IT](marketo-outlook-plugin-uninstall-by-it.md)
 
