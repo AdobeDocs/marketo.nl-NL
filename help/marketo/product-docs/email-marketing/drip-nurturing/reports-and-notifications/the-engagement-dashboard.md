@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: Het betrokkenheidsdashboard - Marketo Docs - Productdocumentatie
 title: Het betrokkenheidsdashboard
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Het betrokkenheidsdashboard {#the-engagement-dashboard}
 
-Het betrokkenheidsdashboard is de eenvoudigste manier om te zien hoe de inhoud in uw [betrokkenheidsprogramma&#39;s](http://docs.marketo.com/display/docs/drip+nurturing) presteert.
+Het betrokkenheidsdashboard is de eenvoudigste manier om te zien hoe de inhoud in uw betrokkenheidsprogramma wordt uitgevoerd.
 
 >[!NOTE]
 >
->De betrokkenheidsscore wordt 72 uur na elke cast berekend. Meer informatie over de [betrokkenheidsscore](understanding-the-engagement-score.md).
+>De betrokkenheidsscore wordt 72 uur na elke cast berekend. Meer informatie over de [betrokkenheidsscore](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Het dashboard Betrokkenheid weergeven {#view-the-engagement-dashboard}
 
-Selecteer uw betrokkenheidsprogramma en klik op **Weergave > Dashboard**.
+Selecteer uw betrokkenheidsprogramma en klik op **Weergave** > **Dashboard**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
 >[!TIP]
 >
->Bekijk het [rapport over de prestaties van de betrokkenheidsstream](engagement-stream-performance-report.md) voor gedetailleerdere statistieken.
+>Bekijk het [rapport over de prestaties van de betrokkenheidsstream](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) voor gedetailleerdere statistieken.
 
 ## De extrusiewidget {#understand-the-exhaustion-widget} begrijpen
 
@@ -47,9 +47,7 @@ Met deze widget kunt u anticiperen wanneer leads alle inhoud bevatten. De uitput
 
 Geeft de gemiddelde betrokkenheidsscore over een bepaalde periode weer en de impact van inhoudsbewerkingen.
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Deze eigenschap is beschikbaar als toe:voegen-op voor klanten die de Ontdekkingsreiziger van de Cyclus van de Opbrengst van Marketo gebruiken. Neem contact op met de succesmanager van de klant voor meer informatie.
 
@@ -69,11 +67,8 @@ Als u het sorteren wilt wijzigen, klikt u op het tandwielpictogram en selecteert
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-** Newestand  ** Oldestare is gebaseerd op het tijdstip van de laatste goedkeuring.
+__ Newestand  __ Oldestare is gebaseerd op het tijdstip van de laatste goedkeuring.
 
 >[!NOTE]
 >
->**Diep duiken**
->
->Leer meer in [Creeer een Programma van de Betrokkenheid](../../../../product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) diep duik.
-
+>Leer meer in [Creeer een Programma van de Betrokkenheid](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) diep duik.
