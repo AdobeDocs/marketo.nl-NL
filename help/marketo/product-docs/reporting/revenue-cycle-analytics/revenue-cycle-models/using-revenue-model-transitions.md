@@ -3,9 +3,9 @@ unique-page-id: 4718672
 description: Met behulp van inkomstenmodelovergangen - Marketo-documenten - productdocumentatie
 title: Overgangen met inkomstenmodellen gebruiken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -60,8 +60,6 @@ Wanneer u uw model creeert en uw inventarisstadia selecteert en organiseert, is 
 
 Goed gedaan! U hebt met succes uw modelovergangen gewijzigd.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[Een inkomstenmodel goedkeuren/goedkeuren](approve-unapprove-a-revenue-model.md)
