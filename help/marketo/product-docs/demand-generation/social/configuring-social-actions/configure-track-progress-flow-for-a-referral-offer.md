@@ -3,7 +3,7 @@ unique-page-id: 2950573
 description: Vorm de Voortgang van het Spoor voor een Verwijzingsaanbod - Marketo Docs - de Documentatie van het Product
 title: Trackvoortgangsstroom configureren voor een verwijzingsaanbod
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vorm de Stroom van de Voortgang van het Spoor voor een Verwijzing {#configure-track-progress-flow-for-a-referral-offer}
 
-Wanneer u [een verwijzingsaanbieding ](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) creeert, kunt u de herinneringen vormen die deelnemers hun vooruitgang in de richting van de beloning tonen.
+Wanneer u [een verwijzingsaanbieding ](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) creeert, kunt u de herinneringen vormen die deelnemers hun vooruitgang in de richting van de beloning tonen.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -27,7 +27,7 @@ Wanneer u [een verwijzingsaanbieding ](../../../../product-docs/demand-generatio
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. Bewerk in het venster **Weergave** **&amp;** **Bewerken** de vraag die deelnemers eraan herinnert zich aan te melden bij hetzelfde sociale netwerk als waarmee ze zich voor uw aanbieding hebben aangemeld.
+1. Bewerk in het venster **Weergave &amp; bewerking** de vraag die deelnemers eraan herinnert zich aan te melden bij hetzelfde sociale netwerk als waarmee ze zich voor uw aanbieding hebben aangemeld.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
@@ -49,5 +49,4 @@ Wanneer u [een verwijzingsaanbieding ](../../../../product-docs/demand-generatio
 
 >[!MORELIKETHIS]
 >
->Klik vervolgens op **Voltooien > Goedkeuren en Sluiten** en [publiceer uw verwijzingsaanbod](../../../../product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
-
+>Klik vervolgens op **Voltooien** > **Goedkeuren en Sluiten** en [publiceer uw verwijzingsaanbod](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
