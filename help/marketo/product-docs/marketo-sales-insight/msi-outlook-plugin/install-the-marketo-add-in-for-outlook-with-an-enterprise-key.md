@@ -3,9 +3,9 @@ unique-page-id: 11377488
 description: Installeer de toe:voegen-binnen Marketo voor Vooruitzichten met een Sleutel van de Onderneming - Marketo Docs - de Documentatie van het Product
 title: De invoegtoepassing Marketo voor Outlook installeren met een Enterprise-sleutel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,8 @@ Vaak hebben verkopers geen beheerrechten op hun laptops en zijn hun IT-teams ver
 
    Dat is alles! Vervolgens doorloopt de verkoopvertegenwoordiger het [registratieproces](authorize-the-marketo-outlook-plugin.md). U kunt hen een verbinding naar de instructies (zie **Verwante artikelen** van het Marketo) verzenden.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >    
    >    
