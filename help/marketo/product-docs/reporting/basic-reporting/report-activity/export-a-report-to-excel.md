@@ -3,9 +3,9 @@ unique-page-id: 2360020
 description: Een rapport exporteren naar Excel - Marketo Docs - Productdocumentatie
 title: Een rapport exporteren naar Excel
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,8 @@ U kunt om het even welk rapport naar een dossier van Excel uitvoeren, om met de 
 
    Dat is alles! Uw browser vraagt u om het dossier van Excel aan uw systeem op te slaan.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >
    >Als het gedownloade bestand te groot is, kunt u [de rapportgrootte wijzigen](../../../../product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
