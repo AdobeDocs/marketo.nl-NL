@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: Bouw een E-mailanalyserapport dat van Leads - Marketo Docs - de Documentatie van het Product een lijst maakt
 title: Een e-mailanalyserapport maken waarin de leads worden vermeld
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Een e-mailanalyserapport maken waarin de leads {#build-an-email-analysis-report-that-lists-leads} worden weergegeven
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
