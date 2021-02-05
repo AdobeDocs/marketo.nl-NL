@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Wederopneming met de Gegevens van de Personalisatie van het Web - Marketo Docs - de Documentatie van het Product
 title: Opnieuw toewijzen met webpersonalisatiegegevens
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,8 @@ ht-degree: 0%
 
 # Opnieuw toewijzen met web-personalisatiegegevens {#retargeting-with-web-personalization-data}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Het opnieuw plaatsen van websites valt nu onder de tegel voor webpersonalisatie. Als u alleen Retargeting hebt aangeschaft, wordt deze tegel weergegeven en hebt u toegang tot het webproduct voor personalisatie met de functie **only** Retargeting ingeschakeld. Op deze manier hebt u toegang tot accountinstellingen, de pagina Opnieuw rangschikken, segmenten en extra pagina&#39;s voor bijhouden.
 
