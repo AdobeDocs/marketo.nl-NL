@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: Campagne-e-mailprestatierapport - Marketo Docs - Productdocumentatie
 title: Rapport over e-mailprestaties voor campagne
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,8 @@ Voer een rapport over de prestaties van een campagne-e-mail uit om uw e-mailpres
    >
    >Over het algemeen proberen we het gezond verstand te gebruiken om deze statistieken op te nemen. Als iemand bijvoorbeeld op een koppeling in een e-mail heeft geklikt, heeft hij deze koppeling eerst geopend. Voor de specifieke regels die wij volgen, zie [E-mailprestatiesrapport](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >    
    >    
