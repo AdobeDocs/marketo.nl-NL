@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Bouw een E-mailanalyserapport dat de Informatie van het Programma - Marketo Docs - de Documentatie van het Product toont
 title: Een e-mailanalyserapport maken waarin programmagegevens worden weergegeven
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegevens worden gegroepeerd op programmakanalen.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
