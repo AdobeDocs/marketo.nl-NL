@@ -3,9 +3,9 @@ unique-page-id: 1900597
 description: Bepaal een Publiek door een Lijst - Marketo Docs - de Documentatie van het Product in te voeren
 title: Een publiek definiëren door een lijst te importeren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -78,9 +78,7 @@ Klik op het nummer voor een gedetailleerde lijst met personen die zijn geblokkee
 
 Fantastisch! Nu is het tijd om een bestaande e-mail te kiezen of een nieuwe e-mail te maken om naar deze mensen te verzenden.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Bestaande e-mail kiezen](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [Een e-mail maken voor een e-mailprogramma](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
