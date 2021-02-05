@@ -3,9 +3,9 @@ unique-page-id: 2359553
 description: Voeg een e-mailkampioen/challenger toe - Marketo Docs - Productdocumentatie
 title: Een e-mailkampioen/challenger toevoegen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,8 @@ Zo ga je aan de slag.
 
 1. Er wordt een nieuw venster geopend met verschillende opties voor het type test. Lees de verwante artikelen hieronder voor meer informatie.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >    
    >    
