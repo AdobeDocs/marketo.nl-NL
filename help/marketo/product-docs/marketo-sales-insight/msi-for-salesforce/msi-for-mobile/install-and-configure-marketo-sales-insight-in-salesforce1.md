@@ -3,9 +3,9 @@ unique-page-id: 7511512
 description: Het Inzicht van de Verkoop van de Marketo in Salesforce1 - Marketo Docs - de Documentatie van het Product installeren en vormen
 title: Het Inzicht van de Verkoop van de Marketo installeren en vormen in Salesforce1
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -168,9 +168,7 @@ Als u Salesforce Professional heeft:
 
 Phew! U bent eindelijk klaar met het installeren van het Inzicht van de Verkoop van Marketo voor Salesforce1! Ga je gang en geef jezelf een stukje op de rug.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Beste ets in Salesforce1](best-bets-in-salesforce1.md)
 >* [Interesserende momenten in Salesforce1](interesting-moments-in-salesforce1.md)
