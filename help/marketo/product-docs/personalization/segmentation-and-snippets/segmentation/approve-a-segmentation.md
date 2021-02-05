@@ -3,9 +3,9 @@ unique-page-id: 2359457
 description: Een segmentatie goedkeuren - Marketo Docs - Productdocumentatie
 title: Een segmentatie goedkeuren
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -57,9 +57,7 @@ Een segmentatie moet worden goedgekeurd voordat deze kan worden gebruikt.
 >
 >Als u een foutenmelding tijdens goedkeuring krijgt en hulp bij het verminderen van de ingewikkeldheid van uw segmentatie vereist, gelieve [Marketo Steun](http://docs.marketo.com/cdn-cgi/l/email-protection#93e0e6e3e3fce1e7d3fef2e1f8f6e7fcbdf0fcfe) te contacteren.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Segmentfilters gebruiken in een slimme lijst](use-segment-filters-in-a-smart-list.md)
 
