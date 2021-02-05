@@ -3,9 +3,9 @@ unique-page-id: 2360418
 description: Personen op basis van omzet - Verslag over Marketo Docs - Productdocumentatie
 title: Rapport Personen op omzet
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 U kunt een rapport maken waarin wordt aangegeven in welk stadium van uw [Indelingscyclusmodel](http://docs.marketo.com/display/docs/revenue+cycle+models) uw personen zich bevinden. Het rapport bevat elke fase van het opgegeven model zolang er een persoonlijke balans is voor het gegeven datumbereik van het rapport.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Deze functie is niet in alle Marketo-edities opgenomen. Neem contact op met uw accountmanager voor meer informatie.
 
