@@ -3,9 +3,9 @@ unique-page-id: 7504218
 description: Aangepaste RTP-rapporten in Google Universal Analytics - Marketo Docs - Productdocumentatie
 title: Aangepaste RTP-rapporten in Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -220,9 +220,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >[RTP integreren met Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
 >
