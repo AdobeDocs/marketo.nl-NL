@@ -3,9 +3,9 @@ unique-page-id: 2359659
 description: Inhoud toevoegen aan een stream - Marketo Docs - Productdocumentatie
 title: Inhoud toevoegen aan een stream
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,6 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud toevoegen aan de 
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
    >De slimme campagne moet **Lid van het Programma van de Betrokkenheid** hebben filter in het om dit behoorlijk te laten werken.
 
 **Stream + pictogram**
@@ -118,9 +115,4 @@ Geweldig werk! U kent nu verschillende manieren om inhoud toe te voegen aan uw p
 
 >[!MORELIKETHIS]
 >
->* [Een programma toevoegen aan een betrokkenheidsprogramma](adding-a-program-to-an-engagement-program-stream.md)
-
->
-
-
-
+>[Een programma toevoegen aan een betrokkenheidsprogramma](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
