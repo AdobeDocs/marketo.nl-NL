@@ -3,9 +3,9 @@ unique-page-id: 2359520
 description: '"Datum/tijd" A/B testen - Marketo Docs - Productdocumentatie'
 title: Datum-/tijdtest gebruiken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -61,9 +61,8 @@ U kunt uw e-mailberichten eenvoudig testen. Eén test is de **Datum/tijd **test.
 
    [criteria voor de A/B-testwinnaars definiëren](define-the-a-b-test-winner-criteria.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >    
    >    
