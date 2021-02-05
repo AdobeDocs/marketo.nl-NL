@@ -3,9 +3,9 @@ unique-page-id: 2360181
 description: Anonieme activiteiten en personen volgen - Marketo Docs - Productdocumentatie
 title: Anonieme activiteiten en personen volgen
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,8 @@ De eerste keer dat iemand een Marketo [landingspagina](../../../../product-docs/
    >
    >Wanneer anonieme records worden samengevoegd in een nieuw of bestaand persoonrecord, worden aangepaste veldwaarden **niet** overgedragen.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >    
    >    
