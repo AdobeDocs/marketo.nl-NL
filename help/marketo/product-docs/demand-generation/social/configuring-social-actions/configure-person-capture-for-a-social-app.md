@@ -3,7 +3,7 @@ unique-page-id: 2950547
 description: Vastleggen van persoon configureren voor een sociale app - Marketo Docs - Productdocumentatie
 title: Vastleggen van persoon configureren voor een sociale app
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Vastleggen van persoon configureren voor een sociale toepassing {#configure-person-capture-for-a-social-app}
 
-Wanneer u een [verwijzingsaanbod](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of [sweepstakes](../../../../product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) creeert, kunt u vormen welke informatie u verzoekt en welke informatie u van mensen vereist om aan deel te nemen.
+Wanneer u een [verwijzingsaanbod](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) of [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) creeert, kunt u vormen welke informatie u verzoekt en welke informatie u van mensen vereist om aan deel te nemen.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Wanneer u een [verwijzingsaanbod](../../../../product-docs/demand-generation/soc
 
    ![](assets/ma-2.png)
 
-1. Selecteer de app en klik op **Concept bewerken.**
+1. Selecteer de app en klik op **Concept** bewerken.
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. Ga in de sociale app-editor naar **Aanmeldingsstroom** > **Vastleggen persoon.**
+1. Ga in de sociale app-editor naar **Aanmeldingsstroom** > **Vastleggen persoon**.
 
    ![](assets/three-1.png)
 
@@ -42,7 +42,7 @@ Wanneer u een [verwijzingsaanbod](../../../../product-docs/demand-generation/soc
 
    >[!NOTE]
    >
-   >In beide gevallen ontvangen deelnemers nog steeds de [*operationele* e-mails](../../../../product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) van uw aanbieding.
+   >In beide gevallen ontvangen deelnemers nog steeds de [_operationele_ e-mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) van uw aanbieding.
 
 1. Klik in het venster Weergave en bewerken op **Bewerkingen tonen** en bewerk de berichten in de gedeelde vraag.
 
@@ -50,5 +50,4 @@ Wanneer u een [verwijzingsaanbod](../../../../product-docs/demand-generation/soc
 
 >[!MORELIKETHIS]
 >
->Nu kunt u [de social sign-up flow](configure-social-sign-up-share-flow.md) vormen en de aandeelberichten uitgeven die aan elk sociaal netwerk zullen worden gepost.
-
+>Nu kunt u [de social sign-up flow](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) vormen en de aandeelberichten uitgeven die aan elk sociaal netwerk zullen worden gepost.
