@@ -3,9 +3,9 @@ unique-page-id: 42762794
 description: Het gebruiken van Bulk Acties in Salesforce Klassiek - Marketo Docs - de Documentatie van het Product
 title: Bulkhandelingen gebruiken in Salesforce Classic
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -79,9 +79,7 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 >
 >U kunt de zelfde stappen volgen om bulkacties in de Mening van de Lijst van het Contact eveneens te gebruiken.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [E-mailberichten verzenden via e-mail voor groep](http://docs.marketo.com/x/KAQ6Ag)
 >* [Bulke-mails samenstellen met Selecteren en Verzenden](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
