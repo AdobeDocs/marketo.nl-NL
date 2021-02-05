@@ -3,9 +3,9 @@ unique-page-id: 2360201
 description: Aangepaste kolommen toevoegen aan een persoonlijk rapport - Marketo Docs - Productdocumentatie
 title: Aangepaste kolommen toevoegen aan een Persrapport
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -42,9 +42,8 @@ U kunt de metriek in uw [persoonrapporten ](http://docs.marketo.com/display/docs
 
    ![](assets/five-1.png)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >
    >U kunt [de Kolommen van de Opportunity aan een Lead ook toevoegen Report](add-opportunity-columns-to-a-lead-report.md).
