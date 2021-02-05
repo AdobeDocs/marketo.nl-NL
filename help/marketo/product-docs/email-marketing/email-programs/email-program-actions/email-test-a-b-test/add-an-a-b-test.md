@@ -3,9 +3,9 @@ unique-page-id: 2359491
 description: Een A/B-test toevoegen - Marketo Docs - Productdocumentatie
 title: Een A/B-test toevoegen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -50,9 +50,7 @@ Testen is een uitstekende manier om uw e-mails te optimaliseren voor een betere 
    >
    >Als u dubbele verslagen in uw gegevensbestand hebt, zullen die verslagen **zowel** de test en het winnen e-mails ontvangen. Om dit te voorkomen, zorg ervoor u [dubbele mensen](http://docs.marketo.com/x/G4EI) in uw gegevensbestand vindt en samenvoegt.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Testen van &quot;onderwerpregel&quot; A/B gebruiken](use-subject-line-a-b-testing.md)
 >* [A/B-tests met &quot;Hele e-mail&quot; gebruiken](use-whole-email-a-b-testing.md)
