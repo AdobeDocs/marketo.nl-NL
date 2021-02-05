@@ -3,7 +3,7 @@ unique-page-id: 2359910
 description: Beschikbaarheid van stroominhoud bewerken - Marketo Docs - Productdocumentatie
 title: Beschikbaarheid van stroominhoud bewerken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -23,7 +23,7 @@ U kunt een tijdframe instellen waarin de inhoud actief wordt in uw stream. Zo ga
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Selecteer uw **Actieve datum van**, dan **Actief door **datum en klik **sparen**.
+1. Selecteer uw **Actieve datum van**, dan **Actieve door** datum en klik **sparen**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
@@ -31,5 +31,6 @@ U kunt een tijdframe instellen waarin de inhoud actief wordt in uw stream. Zo ga
    >
    >U kunt **Actief door** leeg verlaten om inhoud voor altijd beschikbaar te maken.
 
-   Perfect! Het klokpictogram wordt weergegeven naast de geplande inhoud. Het wordt actief en inactief volgens het schema dat u instelt.   ![](assets/image2014-9-15-17-3a36-3a4.png)
+   Perfect! Het klokpictogram wordt weergegeven naast de geplande inhoud. Het wordt actief en inactief volgens het schema dat u instelt.
 
+   ![](assets/image2014-9-15-17-3a36-3a4.png)
