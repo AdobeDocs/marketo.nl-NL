@@ -3,9 +3,9 @@ unique-page-id: 2359845
 description: Een verwijzingsaanbod publiceren - Marketo Docs - Productdocumentatie
 title: Een verwijzingsvoorstel publiceren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een verwijzingsvoorstel {#publish-a-referral-offer} publiceren
 
-Nadat u [een verwijzingsaanbieding ](create-a-referral-offer.md) creeert, kunt u het op uw Marketo landende pagina&#39;s, op Facebook, en op uw website publiceren.
+Nadat u [een verwijzingsaanbieding ](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) creeert, kunt u het op uw Marketo landende pagina&#39;s, op Facebook, en op uw website publiceren.
 
 1. Navigeer naar de bestemmingspagina en open deze voor bewerking.
 
@@ -29,13 +29,10 @@ Nadat u [een verwijzingsaanbieding ](create-a-referral-offer.md) creeert, kunt u
 
 >[!NOTE]
 >
->**Herinnering**
->
 >Je moet je verwijzingsvoorstel goedkeuren om het hier beschikbaar te maken.
 
-Gefeliciteerd! Goedkeuren van de bestemmingspagina en uw doorverwijzing is live. U kunt de openingspagina ook [publiceren op Facebook](../../../../product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [plaatst de aanbieding op uw website](../../../../product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Gefeliciteerd! Goedkeuren van de bestemmingspagina en uw doorverwijzing is live. U kunt de openingspagina ook [publiceren op Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) of [plaatst de aanbieding op uw website](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >
 >Test en verfijn uw verwijzingsaanbod. Ga naar de aanbieding op uw webpagina en meld u aan met testgegevens. Let op alles wat u wilt wijzigen over de gebruikerservaring.
-
