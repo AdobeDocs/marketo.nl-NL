@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Een opiniepeiling maken - Marketo Docs - Productdocumentatie
 title: Een opiniepeiling maken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,19 @@ ht-degree: 0%
 
 Betaal mensen met een opiniepeiling die ze kunnen inbrengen en deel ze met hun vrienden op sociale netwerken. U kunt deze toevoegen aan plaatsen als uw bestemmingspagina&#39;s, uw website en Facebook.
 
->[!NOTE]
->
->**Beschikbaarheid**
+>[!AVAILABILITY]
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
 >[!PREREQUISITES]
 >
->Als u afbeeldingen in uw opiniepeiling wilt gebruiken, voegt u deze toe aan uw Marketo-bibliotheek met afbeeldingen en bestanden voordat u begint. Voeg een afbeelding van 60 x 60 px toe voor elk opiniepeilingitem. Zie [Afbeeldingen en bestanden toevoegen aan Marketo](../../../../product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Als u afbeeldingen in uw opiniepeiling wilt gebruiken, voegt u deze toe aan uw Marketo-bibliotheek met afbeeldingen en bestanden voordat u begint. Voeg een afbeelding van 60 x 60 px toe voor elk opiniepeilingitem. Zie [Afbeeldingen en bestanden toevoegen aan Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Selecteer **Nieuw** > **Nieuw lokaal element.**
+1. Selecteer **Nieuw** > **Nieuw lokaal element** in uw programma.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. In **Lokale middelengalerie,** klik **Opiniepeiling.**
+1. Klik in **Local Asset Gallery** op **Poll**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -57,11 +55,11 @@ Betaal mensen met een opiniepeiling die ze kunnen inbrengen en deel ze met hun v
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Selecteer de afbeelding die u nodig hebt en klik op **Selecteren.**
+1. Selecteer de afbeelding die u nodig hebt en klik op **Select**.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
-1. Wanneer u de miniatuur, titel en beschrijving voor alle items hebt ingesteld, klikt u op **Voltooien.**
+1. Wanneer u de miniatuur, titel en beschrijving voor alle items hebt ingesteld, klikt u op **Voltooien**.
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
@@ -77,9 +75,6 @@ De opiniepeilingseditor wordt in een nieuw venster geopend. De standaardinstelli
 
 Als er problemen zijn in de opiniepeiling, wordt u gevraagd deze te verhelpen voordat de opiniepeiling wordt goedgekeurd. Gefeliciteerd! U hebt uw opiniepeiling gemaakt.
 
->[!NOTE]
+>[!MORELIKETHIS]
 >
->**Verwante artikelen**
->
->De volgende stap is om uw opiniepeiling [te publiceren, maar u kunt de montages van uw opiniepeiling indien nodig veranderen. ](publish-a-poll.md) Begin met [het aanpassen van de opiniepeilingsmontages](customize-poll-settings.md).
-
+>De volgende stap is om uw opiniepeiling [te publiceren, maar u kunt de montages van uw opiniepeiling indien nodig veranderen. ](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md) Begin met [het aanpassen van de opiniepeilingsmontages](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
