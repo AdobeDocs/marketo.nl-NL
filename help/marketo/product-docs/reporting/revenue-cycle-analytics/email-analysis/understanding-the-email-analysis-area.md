@@ -3,9 +3,9 @@ unique-page-id: 4718651
 description: Inzicht in het gebied voor e-mailanalyse - Marketo Docs - Productdocumentatie
 title: Het e-mailanalysegebied
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 Het gebied van de Analyse E-mail concentreert zich op e-mailmetriek. In dit artikel worden alle rapporten geïntroduceerd die in het artikel beschikbaar zijn.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Dit is beschikbaar voor gebruikers met de Select Edition- of [Inkoopcyclusanalyse](http://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)-invoegtoepassing. Neem contact op met je verkoper voor meer informatie.
 
