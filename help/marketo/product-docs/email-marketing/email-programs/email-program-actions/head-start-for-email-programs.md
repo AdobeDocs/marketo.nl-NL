@@ -3,9 +3,9 @@ unique-page-id: 10097202
 description: Start voor e-mailprogramma's - Marketo Docs - Productdocumentatie
 title: Begin voor e-mailprogramma's
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,7 @@ Dit betekent dat als u in Amerika/Los Angeles bent en zowel HoofdBegin als Ontva
 
 [Leer ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) meer over hoe te om e-mailprogramma&#39;s met Ontvankelijke Tijdzone te plannen.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Uw e-mailprogramma plannen](schedule-your-email-program.md)
 >* [E-mailprogramma&#39;s met tijdzone voor ontvangers plannen](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
