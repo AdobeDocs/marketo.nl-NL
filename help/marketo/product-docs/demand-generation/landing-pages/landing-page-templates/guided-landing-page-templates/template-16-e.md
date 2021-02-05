@@ -3,9 +3,9 @@ unique-page-id: 9437846
 description: Sjabloon 16-E - Marketo Docs - Productdocumentatie
 title: Sjabloon 16-E
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sjabloon 16-E {#template-e}
 
-Klik met de rechtermuisknop op [Sjabloon 16-E downloaden](http://docs.marketo.com/download/attachments/9437846/template-16e.html?version=1&amp;modificationdate=1438980814000&amp;api=v2)
+[Sjabloon 16-E downloaden](https://docs.marketo.com/download/attachments/9437846/template-16e.html?version=1&amp;modificationdate=1438980814000&amp;api=v2)
 
 ![](assets/image2015-8-14-13-3a27-3a39.png)
 
@@ -27,6 +27,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Zes carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:
+**Klik hieronder om deze sjabloon te downloaden:**
 
-[Template16-E.html](http://docs.marketo.com/download/attachments/9437846/template-16e.html?version=1&amp;modificationdate=1438980814000&amp;api=v2)
+[Template16-E.html](https://docs.marketo.com/download/attachments/9437846/template-16e.html?version=1&amp;modificationdate=1438980814000&amp;api=v2)
