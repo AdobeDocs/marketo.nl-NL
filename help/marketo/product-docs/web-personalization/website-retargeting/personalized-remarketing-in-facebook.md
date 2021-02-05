@@ -3,9 +3,9 @@ unique-page-id: 4720917
 description: Persoonlijke opmerkingen op Facebook - Marketo Docs - Productdocumentatie
 title: Persoonlijke opmerkingen op Facebook
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -130,9 +130,7 @@ Zie [Documentatie van Facebook](https://developers.facebook.com/docs/ads-for-web
 
 1. U bent nu allemaal ingesteld met een persoonlijke marketingcampagne op Facebook.
 
->[!NOTE]
->
->**Verwante artikelen**
+>[!MORELIKETHIS]
 >
 >* [Opnieuw toewijzen met webpersonalisatiegegevens](retargeting-with-web-personalization-data.md)
 >* [Persoonlijke opmerkingen in Google](personalized-remarketing-in-google.md)
