@@ -3,9 +3,9 @@ unique-page-id: 10097873
 description: Een slimme lijst definiëren voor activiteiten met betrekking tot preventieve inhoud - Marketo Docs - Productdocumentatie
 title: Een slimme lijst definiëren voor activiteiten met betrekking tot voorspellende inhoud
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -72,9 +72,8 @@ U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wa
 
    [een slimme lijst definiëren voor een &#39;batch smart&#39;-campagne](../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >    
    >    
