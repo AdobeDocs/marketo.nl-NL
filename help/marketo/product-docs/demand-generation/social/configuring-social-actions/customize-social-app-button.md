@@ -3,7 +3,7 @@ unique-page-id: 2359759
 description: Knop Sociale app aanpassen - Marketo Docs - Productdocumentatie
 title: De knop Sociale app aanpassen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Knop Sociale app {#customize-social-app-button} aanpassen
 
-Wanneer u een [sociale knoop](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) of een [verwijzingsaanbieding](../../../../product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) creeert, kunt u de verschijning van de knopen aanpassen.
+Wanneer u een [sociale knoop](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) of een [verwijzingsaanbieding](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) creeert, kunt u de verschijning van de knopen aanpassen.
 
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer de app en klik op **Concept bewerken.**
+1. Selecteer de app en klik op **Concept** bewerken.
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
@@ -61,5 +61,4 @@ Wanneer u een [sociale knoop](../../../../product-docs/demand-generation/landing
 
 >[!MORELIKETHIS]
 >
->Voor een sociale knoop, [vorm wanneer het opent](configure-when-social-button-opens.md). Voor een verwijzingsaanbieding, [specificeer het aanbiedingsdoel](../../../../product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
-
+>Voor een sociale knoop, [vorm wanneer het opent](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Voor een verwijzingsaanbieding, [specificeer het aanbiedingsdoel](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
