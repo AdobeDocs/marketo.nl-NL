@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: Voeg de Kolommen van de Kans aan een Loodrapport toe - Marketo Docs - de Documentatie van het Product
 title: Opportunity-kolommen toevoegen aan een lead-rapport
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -66,9 +66,8 @@ Om de statistieken over kansen in uw [persoonrapporten](http://docs.marketo.com/
    | Te sluiten dagen | Gemiddeld aantal dagen om kansen te sluiten. |
    | Dagen in verkoop | Gemiddelde lengte van de verkoopcyclus (dagen tot opportunity + dagen om te sluiten). |
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >
    >Leer hoe te om [de grootte van uw rapport te beheren](configure-report-size.md).
