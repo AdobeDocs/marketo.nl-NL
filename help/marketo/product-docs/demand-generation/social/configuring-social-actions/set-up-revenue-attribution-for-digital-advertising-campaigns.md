@@ -3,9 +3,9 @@ unique-page-id: 10098812
 description: Ontvangsten toewijzen voor digitale reclamecampagnes - Marketo Docs - Productdocumentatie
 title: Ontvangsten toewijzen voor digitale reclamecampagnes instellen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,6 @@ Met afzonderlijke programma&#39;s, kunt u dan het aantal omzettingen van elkaar 
 >* Een formulier maken of bewerken om een queryreeks door te geven aan de persoon
 >* Zorg ervoor dat u toegang hebt tot bepaalde mogelijkheden voor de analyse van de opbrengstcyclus om te rapporteren over uw advertentiekanalen en campagnes
 
->
-
-
 
 ## Een standaardprogramma maken {#create-a-default-program}
 
@@ -41,7 +38,7 @@ In tegenstelling tot sommige programma&#39;s (zoals e-mail) die periodiek voor e
 
    ![](assets/image2016-3-14-15-52-0.png)
 
-1. Als u al een programma op zijn plaats hebt, kunt u [het ](../../../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) klonen.
+1. Als u al een programma op zijn plaats hebt, kunt u [het ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) klonen.
 
    >[!TIP]
    >
@@ -53,15 +50,11 @@ In tegenstelling tot sommige programma&#39;s (zoals e-mail) die periodiek voor e
    >
    >**Voorbeeld**
    >
-   >
    >Een queryreeks die via de URL wordt doorgegeven, helpt Marketo te weten op welke advertentiecampagne iemand klikte toen hij een persoon werd in Marketo.
-   >
    >
    >U kunt een methodologie van het vraagkoord tot stand brengen die alle variabelen omvat u wilt meten. Marketo gebruikt deze variabelen om mensen aan uw verschillende programma&#39;s toe te voegen.
    >
-   >
    >U kunt bijvoorbeeld Kanaaltype_Channel__Asset__Region gebruiken. Dat zou er als volgt kunnen uitzien: SP_FB_NewGuide_US. **Opmerking**: afkortingen besparen ruimte.
-   >
    >
    >Of stel de waarde in als Channel_Adsource_AssetName_Region_UniqueIdNumber. Dat zou er als volgt kunnen uitzien: Social-Paid_Facebook_NewGuide_NA_123.
 
@@ -95,7 +88,7 @@ U hebt een tweede slimme campagne nodig om de status van mensen te wijzigen, zod
 
    >[!NOTE]
    >
-   >Het bovenstaande voorbeeld toont **Omgezet, **maar dit hangt van uw status/succeswaarden af.
+   >Het bovenstaande voorbeeld toont **Omgezet**, maar dit hangt van uw status/succeswaarden af.
 
 1. Plan en activeer de campagne.
 
@@ -112,21 +105,16 @@ Nadat u het programma en de campagnes hebt ingesteld, maakt u de nieuwe adverten
    >
    >**Voorbeeld**
    >
-   >
    >Hieronder wordt beschreven hoe u alle informatie die u hebt ingesteld, kunt toevoegen aan een werkelijke URL. De items worden gescheiden door een en-teken (&amp;):
    >
+   >`www.marketo.com?**source**=Social-Paid&**comment**=Social-Paid_Facebook_NewGuide_NA&**camp**=abc&**kk=**xyz`
    >
-   >[www.marketo.com?**source**=Social-Paid&amp;**comment**=Social-Paid_Facebook_NewGuide_NA&amp;**amp**=abc&amp;**kk=**xyz](http://www.marketo.com?source=Social-Paid&amp;comment=Social-Paid_Facebook_NewGUide_NA&amp;camp=abc&amp;kk+xyz)
-   >
-   >    
-   >    
-   >    * **De bron** is de Persbron die als kanaal-id wordt gebruikt
-   >    * **plaatst** opmerkingen bij de unieke id die voor elk programma is gemaakt
-   >    * **De** campis de campagne in Facebook, LinkedIn of Google
-   >    * **** weet het trefwoord of de elementnaam die u wilt vastleggen
+   >* **De bron** is de Persbron die als kanaal-id wordt gebruikt
+   >* **plaatst** opmerkingen bij de unieke id die voor elk programma is gemaakt
+   >* **De** campis de campagne in Facebook, LinkedIn of Google
+   >* **** weet het trefwoord of de elementnaam die u wilt vastleggen
 
-   >    
-   >    
+   >
    >**Deze vier termen moeten allemaal in kleine letters staan en de URL mag geen spaties bevatten om deze gegevens vast te leggen.**
 
 ## Aanbevolen procedures {#best-practices}
