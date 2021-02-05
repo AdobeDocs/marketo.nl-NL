@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: Opmerkingen bij de release - juli 2010 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - juli '20
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,8 @@ ht-degree: 0%
 
 De volgende functies zijn opgenomen in de release van juli 2010. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->**Beschikbaarheid**
 >
 >Houd er rekening mee dat, afhankelijk van het huidige pakket, items met een ster ( ![(star)](assets/star-yellow.svg)) mogelijk de aanschaf van een toegevoegde waarde vereisen. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
