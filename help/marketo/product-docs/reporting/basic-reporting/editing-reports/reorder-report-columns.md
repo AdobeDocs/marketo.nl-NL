@@ -3,9 +3,9 @@ unique-page-id: 2359999
 description: Rapportkolommen opnieuw ordenen - Marketo Docs - Productdocumentatie
 title: Rapportkolommen opnieuw ordenen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -33,9 +33,8 @@ U kunt de volgorde van de kolommen in een rapport wijzigen.
 
    U kunt deze stappen herhalen tot de kolommen in de voor u beste volgorde worden weergegeven.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
-   >**Verwante artikelen**
    >
    >    
    >    
