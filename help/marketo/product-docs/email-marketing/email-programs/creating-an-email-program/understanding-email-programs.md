@@ -3,7 +3,7 @@ unique-page-id: 2953572
 description: E-mailprogramma's begrijpen - Marketo Docs - Productdocumentatie
 title: E-mailprogramma's
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -27,10 +27,10 @@ Met A/B-tests kunt u aantonen welke e-mail het beste is.
 
 Meer informatie over de volgende A/B-tests:
 
-* [Testen van &quot;onderwerpregel&quot; A/B](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
-* [A/B testen van het &quot;hele e-mailadres&quot;](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
-* [&quot;Van adres&quot; A/B testen](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
-* [&quot;Datum/tijd&quot; A/B-test](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
+* [Testen van &quot;onderwerpregel&quot; A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+* [A/B testen van het &quot;hele e-mailadres&quot;](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+* [&quot;Van adres&quot; A/B testen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+* [&quot;Datum/tijd&quot; A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 
 ![](assets/abtesthighlight.png)
 
@@ -40,7 +40,9 @@ Meer informatie over de volgende A/B-tests:
 >
 >Sommigen gebruiken e-mailprogramma&#39;s liever dan een e-mail via een slimme campagne te verzenden vanwege het gedetailleerde rapporteringsdashboard van het programma.
 
-Geniet van de vruchten van je werk. De dashboards tonen u e-mailprogramma en A/B testprestaties in een oogopslag.   ![](assets/image2015-4-27-11-3a38-3a41.png)
+Geniet van de vruchten van je werk. De dashboards tonen u e-mailprogramma en A/B testprestaties in een oogopslag.
+
+![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
@@ -62,7 +64,7 @@ Gebruik een e-mailprogramma in een standaardprogramma om de zaken te organiseren
 
 >[!NOTE]
 >
->E-mailprogramma&#39;s kunnen niet worden genest in [betrokkenheidsprogramma&#39;s](../../../../getting-started/quick-wins/drip-drip-nurture.md). Ze kunnen ook niet opnieuw worden verzonden en kunnen slechts één test tegelijk uitvoeren.
+>E-mailprogramma&#39;s kunnen niet worden genest in [betrokkenheidsprogramma&#39;s](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Ze kunnen ook niet opnieuw worden verzonden en kunnen slechts één test tegelijk uitvoeren.
 
 ## Schema-instellingen {#schedule-settings}
 
@@ -70,14 +72,10 @@ Nu u e-mailprogramma&#39;s begrijpt, kunt u beginnen met een van de verwante art
 
 >[!MORELIKETHIS]
 >
->* [Een e-mailprogramma maken](create-an-email-program.md)
+>* [Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
    >
    >
-* [Een publiek definiëren met een slimme lijst](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Een e-mail maken voor een e-mailprogramma](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [Uw e-mailprogramma plannen](../../../../product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-
->
-
-
+* [Een publiek definiëren met een slimme lijst](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Uw e-mailprogramma plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
