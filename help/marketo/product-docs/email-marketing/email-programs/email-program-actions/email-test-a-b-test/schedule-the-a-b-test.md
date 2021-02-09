@@ -3,9 +3,9 @@ unique-page-id: 2359547
 description: Plan de A/B-test - Marketo Docs - Productdocumentatie
 title: De A/B-test plannen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
 >[!PREREQUISITES]
 >
->* [Een A/B-test toevoegen](add-an-a-b-test.md)
-
->
-
-
+>[Een A/B-test toevoegen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >Voor Datum-/tijdtests hoeft u alleen in te stellen wanneer u de samenvatting van de testresultaten ontvangt.
 
-1. Selecteer de verzendtestdatum.
+1. Selecteer de datum **Test verzenden**.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
@@ -43,9 +39,6 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
    >Alleen de testgroep ontvangt de testvarianten.
 
    ![](assets/image2014-9-12-16-3a0-3a12.png)
@@ -55,6 +48,7 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
    >Als u een winnaar handmatig wilt declareren, definieert u **Rapport verzenden** datum/tijd in plaats van **Mailing** datum/tijd voltooien.
 
    Super! U bent klaar, bekijk enkel de samenvatting en klik Sluiten.
+
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
    De **Schedule**-tegel is nu bijgewerkt.
@@ -69,9 +63,4 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Een e-mailprogramma goedkeuren/goedkeuren](../../../../../product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
-
-
+   >[Een e-mailprogramma goedkeuren/goedkeuren](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
