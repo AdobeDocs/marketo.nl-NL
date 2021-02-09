@@ -3,9 +3,9 @@ unique-page-id: 2359462
 description: Een e-mailprogramma goedkeuren/goedkeuren — Marketo Docs — Productdocumentatie
 title: Een e-mailprogramma goedkeuren/goedkeuren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -15,18 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een e-mailprogramma maken](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Bepaal een Publiek met een Slimme ](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) Lijst door een Publiek te  [bepalen door een Lijst in te voeren](../../../../product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Een publiek definiëren met een slimme ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) listener  [Een publiek definiëren door een lijst te importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
    >
    >
-* [Kies een bestaande ](choose-an-existing-email.md) e-mailprovider  [Een e-mailbericht maken voor een e-mailprogramma](create-an-email-for-an-email-program.md)
+* [Kies een bestaande ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) e-mailprovider  [Een e-mailbericht maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
    >
    >
-* [Uw e-mailprogramma plannen](schedule-your-email-program.md)
-
->
-
+* [Uw e-mailprogramma plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 
 ## Uw e-mailprogramma {#approve-your-email-program} goedkeuren
@@ -52,7 +49,7 @@ Nu uw programma klaar is om te starten, moet u het goedkeuren. Hieronder wordt b
 
    ![](assets/image2014-9-12-13-3a43-3a44.png)
 
-   Perfect! Je bent klaar. Je e-mail wordt verzonden op het geplande tijdstip.
+   Perfect! Je bent klaar. Je e-mailbericht wordt verzonden op het geplande tijdstip.
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
