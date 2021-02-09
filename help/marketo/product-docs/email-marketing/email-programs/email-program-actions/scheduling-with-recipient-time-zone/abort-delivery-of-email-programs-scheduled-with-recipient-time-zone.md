@@ -3,7 +3,7 @@ unique-page-id: 13795727
 description: Afbreken van de levering van e-mailprogramma's die zijn gepland met de tijdzone van de ontvanger - Marketo Docs - Productdocumentatie
 title: Aflevering van e-mailprogramma's afbreken die zijn gepland met de tijdzone van de ontvanger
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
@@ -39,10 +39,6 @@ Aangezien e-mailprogramma&#39;s die zijn gepland met de tijdzone van de ontvange
 
 >[!MORELIKETHIS]
 >
->* [Tijdzone van ontvanger](understanding-recipient-time-zone.md)
->* [E-mailprogramma&#39;s met tijdzone voor ontvangers plannen](schedule-email-programs-with-recipient-time-zone.md)
-
->
-
-
+>* [Tijdzone van ontvanger](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
+>* [E-mailprogramma&#39;s met tijdzone voor ontvangers plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 
