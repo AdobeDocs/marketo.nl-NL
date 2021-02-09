@@ -3,7 +3,7 @@ unique-page-id: 10097202
 description: Start voor e-mailprogramma's - Marketo Docs - Productdocumentatie
 title: Begin voor e-mailprogramma's
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een e-mailprogramma maken](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 Wanneer u een datum/tijd voor een E-mailprogramma kiest, bepaalt het wanneer het programma met de verwerking begint. Als u wilt dat uw e-mails op het geselecteerde tijdstip worden gestart, kunt u deze optie kiezen door het programma vooraf te verwerken.
 
@@ -74,15 +70,11 @@ Dit betekent dat als u in Amerika/Los Angeles bent en zowel HoofdBegin als Ontva
 
 ![](assets/image2017-12-5-13-3a11-3a46.png)
 
-[Leer ](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) meer over hoe te om e-mailprogramma&#39;s met Ontvankelijke Tijdzone te plannen.
+[Leer ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) meer over hoe te om e-mailprogramma&#39;s met Ontvankelijke Tijdzone te plannen.
 
 >[!MORELIKETHIS]
 >
->* [Uw e-mailprogramma plannen](schedule-your-email-program.md)
->* [E-mailprogramma&#39;s met tijdzone voor ontvangers plannen](scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Tijdzone van ontvanger](scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-
->
-
-
+>* [Uw e-mailprogramma plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [E-mailprogramma&#39;s met tijdzone voor ontvangers plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Tijdzone van ontvanger](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
