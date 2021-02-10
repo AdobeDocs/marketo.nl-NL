@@ -3,7 +3,7 @@ unique-page-id: 1147344
 description: Systeemtokens Verklarende woordenlijst - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst systeemtokens
 translation-type: tm+mt
-source-git-commit: 1c4c4c62215550a09125f76fb76017348aba2bdf
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -25,9 +25,9 @@ Met het token `{{system.date}}` wordt de huidige datum bij uitvoering als volgt 
 
 **Werkt in:**
 
-* [De stap Gegevenswaarde ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) wijzigen
-* [Interessante ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) momentflowstap
-* [Taakstroom ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) maken
+* [De stap Gegevenswaarde ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) wijzigen
+* [Interessante ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) momentflowstap
+* [Taakstroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) maken
 * De hoofdtekst van een e-mail of sjabloon
 
 ## system.time {#system-time}
@@ -36,9 +36,9 @@ Met de token `{{system.time}}` wordt de huidige tijd bij uitvoering als volgt ge
 
 **Werkt in:**
 
-* [De stap Gegevenswaarde ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) wijzigen
-* [Interessante ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) momentflowstap
-* [Taakstroom ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) maken
+* [De stap Gegevenswaarde ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) wijzigen
+* [Interessante ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) momentflowstap
+* [Taakstroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) maken
 * De hoofdtekst van een e-mail of sjabloon
 
 ## system.dateTime {#system-datetime}
@@ -47,18 +47,18 @@ Met de token `{{system.dateTime}}` worden de huidige datum en tijd als volgt bij
 
 **Werkt in:**
 
-* [De stap Gegevenswaarde ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) wijzigen
-* [Interessante ](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) momentflowstap
-* [Taakstroom ](../../../../product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) maken
+* [De stap Gegevenswaarde ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) wijzigen
+* [Interessante ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md) momentflowstap
+* [Taakstroom ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) maken
 * De hoofdtekst van een e-mail of sjabloon
 
 ## system.forwardToFriendLink {#system-forwardtofriendlink}
 
-Met de token `{{system.forwardToFriendLink}}` kunt u de plaatsing van de [&#39;Forward to a Friend Link&#39; in e-mails](../../../../product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md) beheren.
+Met de token `{{system.forwardToFriendLink}}` kunt u de plaatsing van de [&#39;Forward to a Friend Link&#39; in e-mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md) beheren.
 
 **Werkt in:**
 
-* [Een systeemtoken toevoegen als een koppeling in een ](add-a-system-token-as-a-link-in-an-email.md) e-mailor-sjabloon
+* [Een systeemtoken toevoegen als een koppeling in een ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) e-mailor-sjabloon
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
@@ -66,7 +66,7 @@ Met de token `{{system.unsubscribLink}}` kunt u de plaatsing van de koppeling vo
 
 **Werkt in:**
 
-* [Een systeemtoken toevoegen als een koppeling in een ](add-a-system-token-as-a-link-in-an-email.md) e-mailor-sjabloon
+* [Een systeemtoken toevoegen als een koppeling in een ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) e-mailor-sjabloon
 
 ## system.viewAsWebpageLink {#system-viewaswebpagelink}
 
@@ -74,4 +74,4 @@ Met de token `{{system.viewAsWebpageLink}}` kunt u de plaatsing van de koppeling
 
 **Werkt met:**
 
-* [Een systeemtoken toevoegen als een koppeling in een ](add-a-system-token-as-a-link-in-an-email.md) e-mailor-sjabloon
+* [Een systeemtoken toevoegen als een koppeling in een ](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md) e-mailor-sjabloon
