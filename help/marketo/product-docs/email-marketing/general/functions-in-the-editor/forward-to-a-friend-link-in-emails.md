@@ -3,9 +3,9 @@ unique-page-id: 1900581
 description: Door:sturen aan een Verbinding van de Vriend in E-mail - Marketo Dos - de Documentatie van het Product
 title: Doorsturen naar een vriendenkoppeling in e-mails
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -50,11 +50,10 @@ Stel bijvoorbeeld dat Keith de koppeling &quot;Doorsturen naar vriend&quot; gebr
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
    >Vergeet niet het sjabloonconcept goed te keuren om de wijzigingen toe te passen.
 
    Alle e-mails die van die sjabloon gebruikmaken, hebben nu de koppeling Doorsturen naar vriend. Wanneer de e-mailontvanger erop klikt, wordt hij of zij doorgestuurd naar een webversie van het e-mailbericht met het vak &quot;Doorsturen naar een vriend&quot;:
+
    ![](assets/f2afbox.png)
 
 ## De koppeling toevoegen aan een afzonderlijke e-mail {#add-the-link-to-an-individual-email}
@@ -85,7 +84,7 @@ U kunt ook de koppeling Doorsturen naar vriend rechtstreeks toevoegen aan een e-
 
    ![](assets/eight-1.png)
 
-1. Plak de token **`{{system.forwardToFriendLink}}`** in het vak **URL** met Ctrl/Cmd+V en klik vervolgens op** Invoegen**.
+1. Plak de token **`{{system.forwardToFriendLink}}`** in het vak **URL** met Ctrl/Cmd+V en klik vervolgens op **Insert**.
 
    ![](assets/nine.png)
 
@@ -99,7 +98,7 @@ U kunt ook de koppeling Doorsturen naar vriend rechtstreeks toevoegen aan een e-
 
 ## Door:sturen activiteit {#view-forwarding-activity} weergeven
 
-U kunt zien wie de e-mails in het activiteitenlog van de persoon heeft doorgestuurd en ontvangen.
+U kunt zien wie de e-mails heeft doorgestuurd en ontvangen in het activiteitenlog van de persoon.
 
 1. Ga naar **`Database`**.
 
@@ -117,15 +116,13 @@ U kunt zien wie de e-mails in het activiteitenlog van de persoon heeft doorgestu
    >
    >**Definitie**
    >
-   >
    >Voor Doorsturen naar e-mail vriend is de persoon-id de persoon die het e-mailbericht heeft doorgestuurd.
-   >
    >
    >Voor Doorsturen naar e-mail vriend is de persoon-id de persoon die het e-mailbericht heeft ontvangen.
 
    ![](assets/sixteen.png)
 
-1. Als u een persoon op ID wilt weergeven, kopieert en plakt u de** Person ID** naar het einde van de URL (het begin van de URL hangt af van uw Marketo-instantie):
+1. Als u een persoon op ID wilt weergeven, kopieert en plakt u de **Persoon-id** naar het einde van de URL (het begin van de opgegeven URL is afhankelijk van uw Marketo-instantie):
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
@@ -137,7 +134,7 @@ U kunt zien wie de e-mails in het activiteitenlog van de persoon heeft doorgestu
 
    >[!NOTE]
    >
-   >Als de vriend die voorwaarts ontvangt een onbekende persoon is, wordt een nieuwe persoon gecreeerd met &quot;Vooruit aan Vriend&quot;duidelijk als **Bron**.\
+   >Als de vriend die voorwaarts ontvangt een onbekende persoon is, wordt een nieuwe persoon gecreeerd met &quot;Vooruit aan Vriend&quot;duidelijk als **Bron**.
    >Als de e-mail een lokaal middel van een programma is, wordt het programma gemarkeerd als **Overnameprogramma** van de persoon.
 
 ## Trigger of filter die door:sturen activiteit {#trigger-or-filter-using-forwarding-activity} gebruiken
