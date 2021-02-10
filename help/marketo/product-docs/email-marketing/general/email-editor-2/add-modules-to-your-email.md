@@ -3,9 +3,9 @@ unique-page-id: 11371065
 description: Modules toevoegen aan uw e-mail - Marketo Docs - Productdocumentatie
 title: Modules toevoegen aan uw e-mail
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ In E-maileditor 2.0 is een module een sectie van uw e-mailbericht die in de sjab
 
    >[!NOTE]
    >
-   >De meeste Malplaatjes van de Aanzet van de Marketo bevatten Modules. U kunt ook [uw eigen ](http://docs.marketo.com/display/DOCS/Email+Template+Syntax#EmailTemplateSyntax-Modules) creëren.
+   >De meeste Malplaatjes van de Aanzet van de Marketo bevatten Modules. U kunt ook [uw eigen ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules) creëren.
 
 1. Helemaal rechts van de e-mail klikt u op **Modules**.
 
@@ -67,5 +67,4 @@ Dat is alles wat er aan te pas komt.
 
 >[!MORELIKETHIS]
 >
->[E-mailsjabloonsyntaxis](email-template-syntax.md)
-
+>[E-mailsjabloonsyntaxis](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
