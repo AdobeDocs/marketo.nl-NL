@@ -3,7 +3,7 @@ unique-page-id: 1900579
 description: Bijhouden uitschakelen voor een e-mailkoppeling - Marketo Docs - Productdocumentatie
 title: Bijhouden uitschakelen voor een e-mailkoppeling
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Soms wilt u **Marketo Tracking URL** op een koppeling in een e-mail niet inschakelen. Dit is nuttig wanneer de bestemmingspagina geen parameters URL steunt en in een gebroken verbinding kan resulteren.
 
-1. Selecteer uw e-mail en klik **Edit** **Draft**.
+1. Selecteer uw e-mail en klik **Concept** uitgeven.
 
    ![](assets/one-7.png)
 
