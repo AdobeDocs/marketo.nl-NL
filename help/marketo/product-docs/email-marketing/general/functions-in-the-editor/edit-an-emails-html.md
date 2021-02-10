@@ -3,9 +3,9 @@ unique-page-id: 1900554
 description: HTML van e-mail bewerken - Marketo Docs - Productdocumentatie
 title: HTML van een e-mail bewerken
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,6 @@ Met de functie Code zoeken kunt u op efficiënte wijze inhoud in de HTML-code va
 
    >[!NOTE]
    >
-   >Zoekcode is ook beschikbaar in de [E-mailsjablooneditor](http://docs.marketo.com/display/DOCS/Create+a+New+Email+Template).
+   >Zoekcode is ook beschikbaar in de [E-mailsjablooneditor](/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md).
 
 We raden u aan uw e-mailberichten te blijven bewerken met de ingebouwde functionaliteit van Marketo, maar deze code-editor biedt wel flexibiliteit als dat nodig is.
