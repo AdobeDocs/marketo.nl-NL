@@ -3,7 +3,7 @@ unique-page-id: 1900560
 description: Een koppeling Weergeven als webpagina toevoegen aan een e-mail - Marketo Docs - Productdocumentatie
 title: Een koppeling Weergeven als webpagina toevoegen aan een e-mailbericht
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -39,4 +39,4 @@ Hier is een voorbeeld van hoe het eruit ziet:
 >
 >De koppeling Weergeven als webpagina wordt pas weergegeven nadat u het e-mailbericht hebt verzonden. Stuur uzelf een test om te bekijken.
 
-Als u de standaardtekst wilt wijzigen, raadpleegt u [Bericht &quot;Weergeven als webpagina&quot;](../../../../product-docs/administration/email-setup/edit-the-view-as-web-page-message.md) bewerken.
+Als u de standaardtekst wilt wijzigen, raadpleegt u [Bericht &quot;Weergeven als webpagina&quot;](/help/marketo/product-docs/administration/email-setup/edit-the-view-as-web-page-message.md) bewerken.
