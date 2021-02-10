@@ -3,7 +3,7 @@ unique-page-id: 1900556
 description: Een e-mail met alleen tekst maken - Marketo Docs - Productdocumentatie
 title: Een e-mail met alleen tekst maken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Als u ooit alleen tekst wilt verzenden, gaat u als volgt te werk om een e-mail t
 
    >[!CAUTION]
    >
-   >Koppelingen worden niet automatisch bijgehouden in e-mails met alleen tekst. Zie hoe u [Bijgehouden koppelingen toevoegen aan een tekste-mail](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >Koppelingen worden niet automatisch bijgehouden in e-mails met alleen tekst. Zie hoe u [Bijgehouden koppelingen toevoegen aan een tekste-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
