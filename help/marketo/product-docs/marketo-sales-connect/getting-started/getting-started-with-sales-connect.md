@@ -3,9 +3,9 @@ unique-page-id: 13796466
 description: Aan de slag met Sales Connect - Marketo Docs - Productdocumentatie
 title: Aan de slag met Sales Connect
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 Als u deze stappen liever wilt bekijken dan deze te lezen, gaat u recht naar de [Video-instructies onder](#video).
 
 >[!AVAILABILITY]
->
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
 
@@ -129,7 +128,3 @@ Voor teams die Marketo Sales Connect willen testen met hun Marketo-sandbox, kan 
 >[!NOTE]
 >
 >U kunt een Sales Connect-account met dezelfde e-mailid niet op meerdere exemplaren instellen. Dit betekent dat als u een extra Sales Connect-account wilt hebben om te testen met uw Marketo Sandbox-exemplaar, u in elk van de accounts een andere e-mailid moet gebruiken.
-
-## Video-instructies {#video-instructions}
-
-`<iframe width="630" height="470" src="//play.vidyard.com/w5RY7iMPpEfUYQ4Fp8WUKR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
