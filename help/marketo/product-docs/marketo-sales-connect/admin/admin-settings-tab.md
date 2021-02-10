@@ -3,9 +3,9 @@ unique-page-id: 14352404
 description: Het lusje van Montages Admin - Marketo Docs - de Documentatie van het Product
 title: Tabblad Instellingen beheerder
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Op het tabblad Beheerinstellingen kan de beheerder voor elke account de instelli
 
 Als u **Alle synchronisatie-instellingen van Salesforce voor mijn team overschrijven** inschakelt, wordt de optie weergegeven waarmee u alleen registratie via BCC of alleen via API toestaat.
 
-Als u **API registreren** kiest, alle montages die voor Kansen, Leads, Contacten `will be set for the entire team after you click **Save Changes**.` worden geselecteerd
+Als u **API registreren** kiest, zullen alle montages die voor Kansen, Leads, Contacten worden geselecteerd voor het volledige team worden geplaatst nadat u **sparen Veranderingen** klikt.
 
 Van hier, zult u ook aan massa-toelaat Kansen en de Synchronisatie van de Taak over het team kunnen.
 
@@ -25,12 +25,14 @@ Van hier, zult u ook aan massa-toelaat Kansen en de Synchronisatie van de Taak o
 >
 >Massa-toelatend deze montages zullen een hoog aantal API vraag over de montages van Salesforce van uw team gebruiken.
 
-1 - Schakel &quot;Instellingen van mijn team configureren&quot; in
+1. Schakel &quot;De instellingen van mijn team configureren&quot; in.
 
-2 - Instellingen voor synchronisatie voor het hele team inschakelen
+1. Schakel Instellingen voor synchronisatie voor het hele team in.
 
-3 - Configureer hoe u uw e-mailactiviteit en de meest recente MSE-activiteit wilt laten registreren bij SFDC
+1. Vorm hoe u uw e-mailactiviteit en de meest recente activiteit van MSE aan SFDC zou willen worden geregistreerd.
 
-4 - &quot;Synchronisatie van Sales Connect-taken inschakelen&quot; is optioneel
+1. Schakel &quot;Synchroniseren van Sales Connect-taken&quot; in is optioneel.
 
-(opmerking: MSE staat u toe om taken over te slaan terwijl SFDC niet - zodat moet u beslissen hoe SFDC behandelt die taak) overslaat
+>[!NOTE]
+>
+>MSC staat u toe om taken over te slaan terwijl SFDC niet - zodat moet u beslissen hoe SFDC behandelt die taak overslaat.
