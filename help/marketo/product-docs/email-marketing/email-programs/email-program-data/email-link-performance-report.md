@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: E-mailkoppelingprestatie - Marketo Docs - Productdocumentatie
 title: E-mailkoppelingsprestatierapport
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in uw e-mails functioneren.
 
-1. [Maak een rapport in een ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programma en selecteer  **E-** mailkoppelingprestaties als rapporttype.
+1. [Maak een rapport in een ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) programma en selecteer  **E-** mailkoppelingprestaties als rapporttype.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
@@ -27,7 +27,7 @@ Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in u
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Plaats een aangewezen tijdkader voor uw rapport. Klik op **Opslaan. **
+1. Plaats een aangewezen tijdkader voor uw rapport. Klik **Opslaan**.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
@@ -39,7 +39,7 @@ Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in u
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
-[De kolommen ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) beschikbaar voor een E-mailrapport van de Prestaties van de Verbinding omvatten:
+[De kolommen ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) beschikbaar voor een E-mailrapport van de Prestaties van de Verbinding omvatten:
 
 <table> 
  <thead> 
@@ -74,20 +74,10 @@ Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in u
 
 >[!TIP]
 >
->Als u precies wilt weten wat een individuele persoon deed, kunt u [Activiteitenlogboek](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) in [Persondetail](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) pagina van het Ledenlusje in het programma openen.
+>Als u precies wilt weten wat een individuele persoon deed, kunt u [Activiteitenlogboek](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) in [Persondetail](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) pagina van het Ledenlusje in het programma openen.
 
 >[!MORELIKETHIS]
 >
->* [E-mailprestatierapport](email-performance-report.md)
->* [Middelen in een e-mailrapport filteren](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
->[!NOTE]
->
->**Diep duiken**
->
->Meer informatie over [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
+>* [E-mailprestatierapport](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+>* [Middelen in een e-mailrapport filteren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
 
