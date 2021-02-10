@@ -3,9 +3,9 @@ unique-page-id: 1900558
 description: Elementen bewerken in een e-mail - Marketo Docs - Productdocumentatie
 title: Elementen bewerken in een e-mail
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -35,10 +35,7 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >U kunt ook afbeeldingen, tokens, tabellen en andere elementen toevoegen. Zie [De rijke Redacteur van de Tekst gebruiken](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >U kunt ook afbeeldingen, tokens, tabellen en andere elementen toevoegen. Zie [De rijke Redacteur van de Tekst gebruiken](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -70,7 +67,9 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
    >
    >Gebruik deze optie als u een token Marketo wilt gebruiken. Houd er rekening mee dat wanneer u een token gebruikt, de afbeelding wordt afgebroken in de editor, maar wordt weergegeven in de modus Voorbeeld en in het e-mailbericht Voorbeeld verzenden.
 
-   **Wisselen** ![](assets/eight.png)
+   Als u een externe URL wilt gebruiken, plakt u eerst in de URL van de afbeelding. Pas de afmetingen aan uw wensen aan en voeg alternatieve tekst (optioneel) toe. Druk vervolgens op **Wisselen**.
+
+   ![](assets/eight.png)
 
    **Deze computer**
 
@@ -90,14 +89,15 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
    >
    >Als u een afbeelding vervangt, moet u het selectievakje **Bestaande afbeelding overschrijven** onder de URL/naam van de afbeelding inschakelen.
 
-   **Ontwerp** StudioTo neem een beeld van de Studio van het Ontwerp op, bepaal de plaats eenvoudig van het...
+   **Design Studio**
+
+   Om een beeld van de Studio van het Ontwerp op te nemen, bepaal de plaats eenvoudig van het...
 
    ![](assets/twelve.png)
 
-   **Wisselen**
-   ![](assets/thirteen.png)
+   ...en voeg het in. Wijzig de afmetingen naar wens en wijzig de alternatieve tekst (optioneel). Druk vervolgens op **Omwisselen**.
 
-Als u een externe URL wilt gebruiken, plakt u eerst in de URL van de afbeelding. Pas de afmetingen aan uw wensen aan en voeg alternatieve tekst (optioneel) toe. Druk vervolgens op .               ...en voeg het in. Wijzig de afmetingen naar wens, wijzig de Alt-tekst (optioneel) en druk op.
+   ![](assets/thirteen.png)
 
 ## Het fragmentelement bewerken {#how-to-edit-the-snippet-element}
 
