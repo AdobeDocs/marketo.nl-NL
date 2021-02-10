@@ -3,7 +3,7 @@ unique-page-id: 2359584
 description: Champion/Challenger - Declare a Champion - Marketo Docs - Product Documentation
 title: Champion/Challenger — Declare a Champion
 translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -17,8 +17,7 @@ Als je klaar bent, kun je een kampioen voor je e-mailtest declareren.
 
 >[!MORELIKETHIS]
 >
->* [Champion/Challenger: Uw e-mailtest goedkeuren](champion-challenger-approve-your-email-test.md)
-
+>[Champion/Challenger: Uw e-mailtest goedkeuren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -44,7 +43,7 @@ Als je klaar bent, kun je een kampioen voor je e-mailtest declareren.
    >
    >Merk op dat het gebrek **Declare Datum** morgen is, niet vandaag.
 
-   Selecteer een tijd en klik **Save**.
+1. Selecteer een tijd en klik **Save**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 
