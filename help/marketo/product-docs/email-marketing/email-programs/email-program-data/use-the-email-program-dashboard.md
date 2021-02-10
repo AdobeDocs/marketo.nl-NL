@@ -3,9 +3,9 @@ unique-page-id: 2359476
 description: Het dashboard voor het e-mailprogramma gebruiken - Marketo Docs - Productdocumentatie
 title: Het dashboard voor het e-mailprogramma gebruiken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Het dashboard voor het e-mailprogramma gebruiken {#use-the-email-program-dashboard}
 
-Bekijk hoe uw [e-mailprogramma&#39;s](http://docs.marketo.com/display/docs/email+programs) met deze dashboardweergave presteren.
+Kijk hoe uw e-mailprogramma&#39;s met deze dashboardweergave presteren.
 
 >[!NOTE]
 >
->Als uw programma een A/B test heeft, controleer [Het dashboard van het E-mailprogramma - A/B Mening van de Test](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>Als uw programma een A/B test heeft, controleer [Het dashboard van het E-mailprogramma - A/B Mening van de Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +47,7 @@ In dit diagram ziet u het aantal e-mailberichten dat tijdens bepaalde perioden n
 
 ## Samenvatting - Betrokkenheid {#summary-engagement}
 
-Dit toont u de algemene [betrokkenheidsscore](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Dit toont u de algemene [betrokkenheidsscore](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -65,7 +65,7 @@ In de rest van de gegevens worden Opens, Clicks, Click/Open Ratio en Unsubscribe
 >
 >**Definitie**
 >
->**Opens **wordt geteld wanneer de e-mailontvanger de afbeeldingen van de e-mail downloadt, waaronder een pixel voor het bijhouden van de gegevens in een markeerteken. Als de ontvanger het e-mailbericht weergeeft maar ervoor kiest de afbeeldingen niet te downloaden, telt dat niet als een geopend bericht. Als de afbeeldingen worden geladen in het voorvertoningsvenster van de ontvanger, wordt dit meestal beschouwd als een geopend bestand, maar het wordt afhankelijk van de e-mailclient gewijzigd.
+>**** Opensare wordt meegeteld wanneer de e-mailontvanger de afbeeldingen van de e-mail downloadt, inclusief een pixel voor het bijhouden van een markeerteken. Als de ontvanger het e-mailbericht weergeeft maar ervoor kiest de afbeeldingen niet te downloaden, telt dat niet als een geopend bericht. Als de afbeeldingen worden geladen in het voorvertoningsvenster van de ontvanger, wordt dit meestal beschouwd als een geopend bestand, maar het wordt afhankelijk van de e-mailclient gewijzigd.
 >
 >**Klik om het percentage e-mails te** openen dat is geopend en waarop op een koppeling in de e-mail is geklikt. We nemen het aantal unieke klikken gedeeld door het aantal unieke open klikken en vermenigvuldigen het vervolgens met 100 om het weer te geven als een percentage.
 
@@ -77,9 +77,4 @@ Als u de meest actuele gegevens wilt zien, klikt u op het pictogram Vernieuwen o
 
 >[!MORELIKETHIS]
 >
->* [Het dashboard voor het e-mailprogramma gebruiken - A/B-testweergave](../../../../product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
-
->
-
-
-
+>[Het dashboard voor het e-mailprogramma gebruiken - A/B-testweergave](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
