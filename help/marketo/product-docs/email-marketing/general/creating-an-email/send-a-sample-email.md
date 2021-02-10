@@ -3,9 +3,9 @@ unique-page-id: 1147352
 description: Een voorbeeld-e-mail verzenden - Marketo Docs - Productdocumentatie
 title: Een e-mailvoorbeeld verzenden
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een voorbeeld-e-mail verzenden {#send-a-sample-email}
 
-Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een e-mail met dynamische inhoud voorvertonen](../../../../product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md) als u een e-mailbericht met dynamische inhoud wilt verzenden.
+Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een e-mail met dynamische inhoud voorvertonen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md) als u een e-mailbericht met dynamische inhoud wilt verzenden.
 
 >[!NOTE]
 >
@@ -33,9 +33,6 @@ Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een 
    ![](assets/two.png)
 
    >[!NOTE]
-   >
-   >**Herinnering**
-   >
    >
    >Als u meerdere e-mailadressen wilt invoeren, scheidt u deze met komma&#39;s.
 
@@ -59,13 +56,13 @@ Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een 
 
    >[!NOTE]
    >
-   >Het triggerveld is alleen van toepassing op gebruikers die [e-mailscripting](http://developers.marketo.com/documentation/velocity-script/) gebruiken.
+   >Het triggerveld is alleen van toepassing op gebruikers die [e-mailscripting](https://developers.marketo.com/documentation/velocity-script/) gebruiken.
 
 ## Een voorbeeld-e-mail verzenden op basis van een segment {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[Pas segmentatie toe op uw e-mail](http://docs.marketo.com/display/public/DOCS/Using+Dynamic+Content+in+an+Email).
+>[Pas segmentatie toe op uw e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
 1. Zoek uw e-mail, selecteer het en klik **uitgeven Ontwerp** tabel.
 
