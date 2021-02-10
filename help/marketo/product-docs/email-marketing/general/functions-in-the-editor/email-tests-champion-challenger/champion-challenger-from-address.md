@@ -3,7 +3,7 @@ unique-page-id: 2359559
 description: Champion/Challenger - Van adres - Marketo Docs - Productdocumentatie
 title: Champion/Challenger - Van adres
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
 
 >[!PREREQUISITES]
 >
->* [Een e-mailkampioen/challenger toevoegen](add-an-email-champion-challenger.md)
+>[Een e-mailkampioen/challenger toevoegen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. Selecteer **Van adres** in de e-mailtesteditor in de vervolgkeuzelijst **Test Type **Testen.
+1. Selecteer **Van adres** in de vervolgkeuzelijst **Type testen** in de e-mailtesteditor.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
@@ -31,7 +27,7 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
    >
    >Het eerste Van Adres wordt aangewezen als **Champion**. Volgende van adressen worden genoemd **Challengers**.
 
-1. Typ de naam Van (links) en Van adres**** (rechts) voor de technici.
+1. Typ **Van naam** (links) en **Van adres** (rechts) voor de uitdagers.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -47,10 +43,9 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
    >
    >**Voorbeeld**
    >
-   >
    >In de hierboven getoonde distributie, krijgt 15% van het totale publiek in de slimme lijst één van de e-mails met een bezoeker van Adres en 85% ontvangt de e-mail met de kampioen van Adres. E-mails voor meerdere challenger Van adressen hebben dezelfde waarde als 15%. Wanneer de test voorbij is, kunt u een winnaar handmatig declareren. Vanaf dat moment krijgen alle toekomstige mensen de beter presterende inhoud.
 
-   Om statistisch vertrouwen te winnen, zeker bent u een percentage kiest dat genoeg mensen omvat dat uw test geldig is. Wees niet misleid door onovertuigende resultaten.  [Meer informatie dan je ooit wilde over statistisch vertrouwen](http://en.wikipedia.org/wiki/Confidence_interval).
+   Om statistisch vertrouwen te winnen, zeker bent u een percentage kiest dat genoeg mensen omvat dat uw test geldig is. Wees niet misleid door onovertuigende resultaten. [Meer informatie dan je ooit wilde over statistisch vertrouwen](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Klik **Volgende**.
 
@@ -60,9 +55,4 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Champion-criteria definiëren](champion-challenger-define-champion-criteria.md)
-
-
+   >[Champion/Challenger: Champion-criteria definiëren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
