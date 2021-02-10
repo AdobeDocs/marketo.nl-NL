@@ -3,9 +3,9 @@ unique-page-id: 11372299
 description: E-maileditor v2.0 - Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht E-maileditor v2.0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Wanneer u besluit de E-maileditor v2.0 te activeren, zult u verschillende nieuwe
 
 **E-mailsjabloonkiezer**
 
-Als u een nieuwe e-mail maakt, gaat u naar de [E-mailsjabloonkiezer](email-template-picker-overview.md).
+Als u een nieuwe e-mail maakt, gaat u naar de [E-mailsjabloonkiezer](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +29,19 @@ Wanneer u uw e-mail gaat bewerken, ziet u dat de editor een geheel nieuw uiterli
 
 **Modules**
 
-Die dingen aan de rechterkant van de redacteur worden genoemd modules. Leer hoe u modules [toevoegt aan uw e-mail](add-modules-to-your-email.md).
+Die dingen aan de rechterkant van de redacteur worden genoemd modules. Leer hoe u modules [toevoegt aan uw e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/three-4.png)
 
 **Tekstversie**
 
-Het schakelen tussen de HTML-versie en de tekstversie van uw e-mail staat nu op een handig tabblad onderaan. Leer hoe u de tekstversie van een e-mail [bewerkt.](../../../../product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)
+Het schakelen tussen de HTML-versie en de tekstversie van uw e-mail staat nu op een handig tabblad onderaan. Leer hoe u de tekstversie van een e-mail [bewerkt.](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)
 
 ![](assets/four-3.png)
 
 **E-mailkoptekst**
 
-Wilt u meer ontwerpruimte? De e-mailkoptekst kan worden verborgen nadat u [het hebt bewerkt](../../../../product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klik gewoon op dit pictogram...
+Wilt u meer ontwerpruimte? De e-mailkoptekst kan worden verborgen nadat u [het hebt bewerkt](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klik gewoon op dit pictogram...
 
 ![](assets/five-4.png)
 
@@ -69,7 +69,7 @@ De standaardweergave daar is bureaublad...
 
 ...maar u kunt ook zien hoe het er op een mobiel apparaat uitziet. U kunt ook een voorvertoning van de tekstversie weergeven. Klik **Concept** in het hoger-recht bewerken om het bewerken te hervatten.
 
-[![](assets/preview3.png)](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
+![](assets/preview3.png)
 
 **E-mailhandelingen**
 
@@ -83,7 +83,7 @@ Onder **E-mailhandelingen** ziet u enkele nieuwe functies. **Upload een afbeeldi
 
 >[!NOTE]
 >
->** [Afbeeldingen ophalen van web](../../../../product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** werkt net zoals in de Design Studio.
+>**[Grab Images from](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** Webworks, net als in de Design Studio.
 
 **Schakel** Tekstspatiëring openen uit onder  **E-mailinstellingen**. U kunt het openen van bijhouden indien nodig uitschakelen.
 
@@ -103,15 +103,8 @@ Veel geweldige nieuwe functies! Veel plezier!
 
 >[!NOTE]
 >
->**Diep duiken**
->
 >Als u nog dieper wilt verwijderen, bekijkt u deze [nuttige video](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
->* [E-mailsjabloonsyntaxis](email-template-syntax.md)
-
->
-
-
-
+>[E-mailsjabloonsyntaxis](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
