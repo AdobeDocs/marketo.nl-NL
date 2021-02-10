@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: Champion/Challenger - Onderwerpregel - Marketo Docs - Productdocumentatie
 title: Champion/Challenger — Onderwerpregel
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -17,13 +17,9 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
 
 >[!PREREQUISITES]
 >
->* [Een e-mailkampioen/challenger toevoegen](add-an-email-champion-challenger.md)
+>[Een e-mailkampioen/challenger toevoegen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. Selecteer **Onderwerpregel** in de e-mailtesteditor in de vervolgkeuzelijst **Type test **Testen.
+1. Selecteer **Onderwerpregel** in de vervolgkeuzelijst **Type testen** in de e-mailtesteditor.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
@@ -47,10 +43,9 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
    >
    >**Voorbeeld**
    >
-   >
    >In de bovenstaande verdeling krijgt 10% van het totale publiek dat in de slimme lijst is opgegeven een van de e-mails met de onderwerpregel van de uitdager en 90% ontvangt e-mails met de onderwerpregel van de kampioen. E-mails met meerdere onderwerpreeksen voor passagiers hebben dezelfde 10%. Wanneer de test voorbij is, kunt u een winnaar handmatig declareren. Vanaf dat moment krijgen alle toekomstige mensen de beter presterende inhoud.
 
-   Om statistisch vertrouwen te winnen, zorg ervoor het percentage u kiest genoeg mensen omvat, zodat uw test geldig is. Wees niet misleid door onovertuigende resultaten.  [Meer informatie dan je ooit wilde over statistisch vertrouwen](http://en.wikipedia.org/wiki/Confidence_interval).
+   Om statistisch vertrouwen te winnen, zorg ervoor het percentage u kiest genoeg mensen omvat, zodat uw test geldig is. Wees niet misleid door onovertuigende resultaten. [Meer informatie dan je ooit wilde over statistisch vertrouwen](http://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Klik **Volgende**.
 
@@ -60,7 +55,4 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Champion/Challenger: Champion-criteria definiëren](champion-challenger-define-champion-criteria.md)
-
+   >[Champion/Challenger: Champion-criteria definiëren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
