@@ -3,7 +3,7 @@ unique-page-id: 2359567
 description: Champion/Challenger - Configureer rapportwaarschuwingen - Marketo Docs - Productdocumentatie
 title: Champion/Challenger - Rapportwaarschuwingen configureren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Marketo stuurt u rapporten over de manier waarop de e-mailtest verloopt. Hier is
 
 >[!PREREQUISITES]
 >
->* [Champion/Challenger: Champion-criteria definiëren](champion-challenger-define-champion-criteria.md)
-
->
-
-
+>[Champion/Challenger: Champion-criteria definiëren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. Laten we het rapport plannen om vrijdag om 9.00 uur eenmaal per week te verzenden.
 
@@ -47,9 +43,4 @@ Marketo stuurt u rapporten over de manier waarop de e-mailtest verloopt. Hier is
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Uw e-mailtest goedkeuren](champion-challenger-approve-your-email-test.md)
-
-
+   >[Champion/Challenger: Uw e-mailtest goedkeuren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
