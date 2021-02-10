@@ -3,9 +3,9 @@ unique-page-id: 1900577
 description: E-mailscripttoken maken - Marketo Docs - Productdocumentatie
 title: Een e-mailscripttoken maken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een e-mailscripttoken maken {#create-an-email-script-token}
 
-Voor gevorderde ontwikkelaars, kunt u [manuscripten ](http://velocity.apache.org/engine/1.7/user-guide.html) in uw e-mail gebruiken. Zo doe je het.
+Voor gevorderde ontwikkelaars, kunt u [manuscripten ](https://velocity.apache.org/engine/1.7/user-guide.html) in uw e-mail gebruiken. Zo doe je het.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -45,17 +45,14 @@ Voor gevorderde ontwikkelaars, kunt u [manuscripten ](http://velocity.apache.org
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
    >Als u tokens typt, moet u ervoor zorgen dat alle corresponderende tokens in de structuur worden gecontroleerd/geactiveerd. Als u dit niet doet, worden deze ook beschouwd als normale tekst en werken ze niet.
 
 1. Schrijf uw script in Snelheid. Hier volgen enkele nuttige bronnen:
 
-   * [Documenten met e-mailscripts voor Marketo Developers](http://developers.marketo.com/email-scripting/)
-   * [Gebruikershandleiding voor snelheid](http://velocity.apache.org/engine/devel/user-guide.html)
-   * [Snelheidsnaslaggids](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [Velocity Tools Javadoc](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [Documenten met e-mailscripts voor Marketo Developers](https://developers.marketo.com/email-scripting/)
+   * [Gebruikershandleiding voor snelheid](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [Snelheidsnaslaggids](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. Zodra uw manuscript wordt voltooid, klik **sparen**.
 
@@ -69,9 +66,4 @@ Nu kunt u deze token gebruiken in uw e-mails. Het script wordt uitgevoerd telken
 
 >[!MORELIKETHIS]
 >
->* [Een e-mailscripttoken toevoegen aan uw e-mail](add-an-email-script-token-to-your-email.md)
-
->
-
-
-
+>[Een e-mailscripttoken toevoegen aan uw e-mail](/help/marketo/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
