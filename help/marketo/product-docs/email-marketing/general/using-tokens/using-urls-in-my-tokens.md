@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: URL's gebruiken in Mijn tokens - Marketo Docs - Productdocumentatie
 title: URL's gebruiken in Mijn tokens
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
    ![](assets/twelve.png)
 
    En je bent klaar! Uw URL wordt na het verzenden gevuld en dankzij het feit dat u http:// voor het token plaatst, wordt er een trackable link gemaakt.
-
