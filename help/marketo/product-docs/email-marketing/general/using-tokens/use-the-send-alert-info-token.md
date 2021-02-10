@@ -3,9 +3,9 @@ unique-page-id: 2952678
 description: Het token voor waarschuwinggegevens verzenden gebruiken {SP_Send_Alert_Info} - Marketo Docs - Productdocumentatie
 title: Het token voor waarschuwinggegevens verzenden gebruiken
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,15 @@ De token `{{SP_Send_Alert_Info}}` is een speciaal token dat moet worden gebruikt
 
 >[!TIP]
 >
->Dit token werkt alleen zoals bedoeld wanneer het e-mailbericht met het bericht [Send Alert](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) wordt verzonden. Het werkt niet als het wordt gebruikt in een stap E-mail verzenden.
+>Dit token werkt alleen zoals bedoeld wanneer het e-mailbericht met het bericht [Send Alert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) wordt verzonden. Het werkt niet als het wordt gebruikt in een stap E-mail verzenden.
 
-Voorbeeld, waarschuwing:   ![](assets/image2014-9-25-15-3a17-3a58.png)
+Voorbeeld, waarschuwing:
+
+![](assets/image2014-9-25-15-3a17-3a58.png)
 
 >[!NOTE]
 >
->Koppen omhoog! URL&#39;s in waarschuwingen hebben vervaldatums, zodat ze beschikken over een interface die deze berichttypen ondersteunt. Vervaldatums worden [geconfigureerd door een beheerder](../../../../product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>Koppen omhoog! URL&#39;s in waarschuwingen hebben vervaldatums, zodat ze beschikken over een interface die deze berichttypen ondersteunt. Vervaldatums worden [geconfigureerd door een beheerder](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
 De volgende informatie maakt deel uit van `{{SP_Send_Alert_Info}}`:
 
@@ -59,8 +61,6 @@ De volgende informatie maakt deel uit van `{{SP_Send_Alert_Info}}`:
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 
 >[!NOTE]
->
->**Herinnering**
 >
 >Vergeet niet uw e-mail goed te keuren.
 
