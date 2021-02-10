@@ -3,9 +3,9 @@ unique-page-id: 1900595
 description: Een publiek definiëren met een slimme lijst - Marketo Docs - Productdocumentatie
 title: Een publiek definiëren met een slimme lijst
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -13,19 +13,13 @@ ht-degree: 0%
 
 # Een publiek definiëren met een slimme lijst {#define-an-audience-with-a-smart-list}
 
-Als u [een e-mailprogramma](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) hebt gemaakt, kunt u aangeven naar wie u de e-mail wilt verzenden. U kunt dit doen door [een lijst van mensen ](define-an-audience-by-importing-a-list.md) of met een slimme lijst in te voeren. Hieronder wordt beschreven hoe u dit kunt bereiken met een slimme lijst.
+Als u [een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) hebt gemaakt, kunt u aangeven naar wie u de e-mail wilt verzenden. U kunt dit doen door [een lijst van mensen ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) of met een slimme lijst in te voeren. Hieronder wordt beschreven hoe u dit kunt bereiken met een slimme lijst.
 
 >[!PREREQUISITES]
 >
->* [Een e-mailprogramma maken](../../../../product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-
->
-
-
+>[Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 >[!NOTE]
->
->**Herinnering**
 >
 >Het definiëren van uw publiek werkt alleen wanneer het e-mailprogramma niet is goedgekeurd.
 
@@ -49,18 +43,11 @@ Als u [een e-mailprogramma](../../../../product-docs/email-marketing/email-progr
 
    ![](assets/image2014-9-12-11-3a1-3a14.png)
 
-   >[!NOTE]
-   >
-   >**Diep duiken**
-   >
-   >
-   >Schakel [slimme lijsten en statische lijsten](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) uit voor meer informatie over het gebruik en het definiëren van filters.
-
 1. Wanneer u klaar bent met het toevoegen en definiëren van filters, gaat u terug naar het hoofdtabblad van het programma. U zult zien hoeveel mensen in aanmerking komen.
 
    ![](assets/myemailprogram.jpg)
 
-   Uitstekend werk! Nu is het tijd om [een bestaande e-mail te kiezen](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of [een e-mail te creëren](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) om naar deze mensen te verzenden.
+   Uitstekend werk! Nu is het tijd om [een bestaande e-mail te kiezen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of [een e-mail te creëren](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) om naar deze mensen te verzenden.
 
 >[!NOTE]
 >
@@ -82,10 +69,6 @@ Klik op het nummer voor een gedetailleerde lijst met personen die zijn geblokkee
 
 >[!MORELIKETHIS]
 >
->* [Bestaande e-mail kiezen](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Een e-mail maken voor een e-mailprogramma](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [Bestaande e-mail kiezen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [Een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
