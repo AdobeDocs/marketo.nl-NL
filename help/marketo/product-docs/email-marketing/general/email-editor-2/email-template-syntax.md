@@ -3,9 +3,9 @@ unique-page-id: 11371040
 description: E-mailsjabloonsyntaxis - Marketo Docs - Productdocumentatie
 title: E-mailsjabloonsyntaxis
 translation-type: tm+mt
-source-git-commit: f27e2bac90570f9f795dc6bdd5fcf208c446be14
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '2397'
+source-wordcount: '2395'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Elementen zijn inhoudsgebieden die u in uw e-mailsjabloon definieert als bewerkb
 
 ## RTF {#rich-text}
 
-Als u een gebied als RTF bepaalt, zullen de gebruikers zijn inhoud [kunnen uitgeven gebruikend de Rich Text Editor van de Tekst van de Marketo](../../../../product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Er zijn twee manieren om een Rich Text-element binnen een e-mailsjabloon te definiëren: mktEditable en mktoText. Een Rich Text-element kan altijd vanuit de e-maileditor worden omgezet in een fragment.
+Als u een gebied als RTF bepaalt, zullen de gebruikers zijn inhoud [kunnen uitgeven gebruikend de Rich Text Editor van de Tekst van de Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md). Er zijn twee manieren om een Rich Text-element binnen een e-mailsjabloon te definiëren: mktEditable en mktoText. Een Rich Text-element kan altijd vanuit de e-maileditor worden omgezet in een fragment.
 
 ### Optie 1 - MktEditable {#option-mkteditable}
 
@@ -81,7 +81,7 @@ Voorbeeld:
 
 U hebt twee opties om bewerkbare afbeeldingselementen te definiëren. U kunt een `<div>` gebruiken, die een container specificeert dat `<img>` in, of een `<img>` markering zal worden opgenomen. Als de eindgebruiker gewoon een afbeelding wil kiezen die de afbeeldings-URL retourneert (in tegenstelling tot het DOM), raadpleegt u &quot;afbeeldingsvariabelen&quot; in de onderstaande sectie. Met de volgende twee opties wordt een HTML `<img>`-element ingevoegd.
 
-### Option 1 - Use a \&lt;div\> {#option-use-a-div}
+### Optie 1 - Gebruik een `<div>` {#option-use-a-div}
 
 Vereiste kenmerken
 
@@ -128,7 +128,7 @@ Voorbeeld:
 
 ## Fragmenten {#snippets}
 
-Als u een gebied definieert als een fragment, kunnen eindgebruikers kiezen welk goedgekeurd [Fragment](../../../../product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)zij in dit gebied willen invoegen. Hoewel RTF-elementen vanuit de e-maileditor kunnen worden omgezet in fragmenten, kan een gebied dat u specifiek als een fragment definieert, niet worden omgezet in RTF-tekst. U kunt een fragmentgebied opgeven met een `<div>` met class=&quot;mktoSnippet&quot;
+Als u een gebied definieert als een fragment, kunnen eindgebruikers kiezen welk goedgekeurd [Fragment](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)zij in dit gebied willen invoegen. Hoewel RTF-elementen vanuit de e-maileditor kunnen worden omgezet in fragmenten, kan een gebied dat u specifiek als een fragment definieert, niet worden omgezet in RTF-tekst. U kunt een fragmentgebied opgeven met een `<div>` met class=&quot;mktoSnippet&quot;
 
 Vereiste kenmerken
 
@@ -351,8 +351,6 @@ Optionele kenmerken
 * **mktoAddByDefault:** Hiermee wordt bepaald of deze module zich op het canvas bevindt van een nieuwe e-mail waarin deze sjabloon bij het maken wordt gebruikt. De standaardwaarde is true (als mktoActive false is, wordt deze waarde genegeerd).
 
 >[!NOTE]
->
->**Herinnering**
 >
 >Klassewaarden met de syntaxis Marketo (d.w.z. mktoModule, mktoContainer, mktoText) zijn hoofdlettergevoelig. Namen van aangepaste kenmerken (mktoimgwidth, mktoname) zijn dit niet.
 
