@@ -3,7 +3,7 @@ unique-page-id: 2359453
 description: Uw e-mailkoptekst bewerken - Marketo Docs - Productdocumentatie
 title: Uw e-mailkoptekst bewerken
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -50,5 +50,4 @@ Als u meer dan 50 tekens gebruikt, wordt de teller rood om u te waarschuwen.
 
 >[!MORELIKETHIS]
 >
->* [Overzicht E-maileditor v2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
-
+>[Overzicht E-maileditor v2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
