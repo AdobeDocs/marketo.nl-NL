@@ -3,7 +3,7 @@ unique-page-id: 2950617
 description: Dynamische inhoud gebruiken in een e-mail - Marketo Docs - Productdocumentatie
 title: Dynamische inhoud gebruiken in een e-mail
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
@@ -15,11 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een segmentatie maken](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
-
->
-
-
+>[Een segmentatie maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Gebruik Dynamische inhoud in e-mails om de beoogde gegevens voor leads te verzenden.
 
@@ -39,9 +35,9 @@ Gebruik Dynamische inhoud in e-mails om de beoogde gegevens voor leads te verzen
 
    >[!NOTE]
    >
-   >U kunt een element binnen e-mail dynamisch maken. Selecteer hiertoe het gebied, klik het tandwielpictogram en selecteer **Dynamisch maken** (of [Vervangen door fragment](../../../../product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), afhankelijk van wat u doet).
+   >U kunt een element binnen e-mail dynamisch maken. Selecteer hiertoe het gebied, klik het tandwielpictogram en selecteer **Dynamisch maken** (of [Vervangen door fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), afhankelijk van wat u doet).
 
-   Voer de naam van de segmentatie in, selecteer deze en klik op Opslaan.
+1. Voer de naam van de segmentatie in, selecteer deze en klik op **Opslaan**.
 
    ![](assets/1.4.png)
 
@@ -75,10 +71,6 @@ Zoet! Nu kunt u flexibele e-mails naar uw doelgroep sturen.
 
 >[!MORELIKETHIS]
 >
->* [Een voorbeeld van een e-mailbericht weergeven met dynamische inhoud](preview-an-email-with-dynamic-content.md)
->* [Dynamische inhoud gebruiken in een bestemmingspagina](../../../../product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
-
->
-
-
+>* [Een voorbeeld van een e-mailbericht weergeven met dynamische inhoud](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [Dynamische inhoud gebruiken in een bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
 
