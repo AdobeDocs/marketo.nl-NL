@@ -3,7 +3,7 @@ unique-page-id: 2953419
 description: Het gebruiken van de Rich Tekstredacteur - Marketo Dos - de Documentatie van het Product
 title: De Rich Text Editor gebruiken
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%
@@ -17,7 +17,7 @@ De Rich Text Editor (RTE) wordt in Marketo weergegeven en is beschikbaar wanneer
 
 ## Editor-instellingen {#editor-settings}
 
-De instelling van het basisblokelement definieert welke tags de inhoud omlopen. Standaard gebruikt het element voor het basisblok van de e-mail <p> -tags. U kunt dit wijzigen door de onderstaande stappen te volgen.
+De instelling van het basisblokelement definieert welke tags de inhoud omlopen. Standaard gebruikt het element voor het basisblok van de e-mail `<p>` -tags. U kunt dit wijzigen door de onderstaande stappen te volgen.
 
 >[!TIP]
 >
@@ -35,11 +35,11 @@ De instelling van het basisblokelement definieert welke tags de inhoud omlopen. 
 
    ![](assets/three.png)
 
-1. Selecteer in de vervolgkeuzelijst **E-mail / Fragmenteditor** de optie <div> of Geen en klik **Opslaan**. <div> wordt gebruikt in dit voorbeeld.
+1. Selecteer `<div>` of Geen in de vervolgkeuzelijst **E-mail / Fragmenteditor** en klik op **Opslaan**. `<div>` wordt gebruikt in dit voorbeeld.
 
    ![](assets/four.png)
 
-   Als u <div class="&ldquo;mktEditable&rdquo;"></div> in een E-mailsjabloon ziet u het volgende gedrag HTML-bron wanneer u de sectie opent en &quot;Tekst gaat hier&quot; in de editor typt:
+   Als u `<div class=“mktEditable”></div>` in een E-mailmalplaatje hebt, zult u het volgende gedrag van de Bron van HTML zien wanneer u de sectie opent en &quot;Tekst gaat hier&quot;in de redacteur typt:
 
 <table> 
  <tbody> 
@@ -62,7 +62,7 @@ De instelling van het basisblokelement definieert welke tags de inhoud omlopen. 
 
 >[!NOTE]
 >
->Het basisblokelement is altijd <p> voor RTF-tokens.
+>Het basisblokelement is altijd `<p>` voor rijke-tekstprogrammeertokens.
 
 ## Functies {#features}
 
@@ -109,7 +109,7 @@ Hier zijn de eigenschappen u in RTE zult vinden.
 
 ## Openingspagina&#39;s {#landing-pages}
 
-De instelling van het basisblokelement definieert welke tags de inhoud omlopen. Standaard gebruikt het basisblokelement van de landingspagina <div> -tags. U kunt dit wijzigen door de onderstaande stappen te volgen.
+De instelling van het basisblokelement definieert welke tags de inhoud omlopen. Standaard gebruikt het basisblokelement van de landingspagina `<div>`-tags. U kunt dit wijzigen door de onderstaande stappen te volgen.
 
 >[!TIP]
 >
@@ -127,9 +127,8 @@ De instelling van het basisblokelement definieert welke tags de inhoud omlopen. 
 
    ![](assets/three.png)
 
-1. Selecteer in de vervolgkeuzelijst **Landing Page Editor** de optie <p> of Geen en klik **Opslaan**. <p> wordt gebruikt in dit voorbeeld.
+1. Selecteer `<p>` of Geen in de vervolgkeuzelijst **Landing Page Editor** en klik op **Save**. `<p>` wordt gebruikt in dit voorbeeld.
 
    ![](assets/five.png)
 
    En dat is het!
-
