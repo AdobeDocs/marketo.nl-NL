@@ -3,7 +3,7 @@ unique-page-id: 1147356
 description: Inzicht in loggen van e-mailgebeurtenissen - Marketo Docs - Productdocumentatie
 title: Logboekregistratie van e-mailgebeurtenissen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -28,4 +28,3 @@ Bij het verzenden van e-mails registreert Marketo verschillende gegevenspunten n
 >[!CAUTION]
 >
 >Als dezelfde e-mail twee keer vanuit dezelfde campagne naar dezelfde persoon wordt verzonden, wordt de gebeurtenis **Geopend** maximaal één keer geregistreerd.
-
