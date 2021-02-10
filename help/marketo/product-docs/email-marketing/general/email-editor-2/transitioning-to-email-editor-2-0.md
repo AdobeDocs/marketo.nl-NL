@@ -3,7 +3,7 @@ unique-page-id: 11373011
 description: Overschakelen naar e-maileditor 2.0 - Marketo Docs - Productdocumentatie
 title: Overschakelen naar e-maileditor 2.0
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Overschakelen naar e-maileditor 2.0 {#transitioning-to-email-editor}
 
-Vanaf [June &#39;19 release](../../../../release-notes/2016/release-notes-spring-16.md) zijn alle Marketo-abonnementen overgezet naar E-maileditor 2.0. [Meer informatie](https://nation.marketo.com/docs/DOC-7038) over de e-maileditor 1.0-afleiding.
+Vanaf [June &#39;19 release](/help/marketo/release-notes/2016/release-notes-spring-16.md) zijn alle Marketo-abonnementen overgezet naar E-maileditor 2.0. [Meer informatie](https://nation.marketo.com/docs/DOC-7038) over de e-maileditor 1.0-afleiding.
 
 E-mails en e-mailsjablonen in uw abonnement moeten een versienummer hebben. De versie staat op de overzichtspagina van het element.
 
@@ -27,13 +27,13 @@ Standaard worden al uw bestaande e-mails en e-mailsjablonen gemarkeerd als v1.0 
 Als uw abonnement v1.0-e-mails heeft voordat u naar de e-maileditor 2.0 gaat, wordt het volgende gedrag ervaren op basis van de huidige status van het element:
 
 **Goedgekeurd**  - Als u op Concept bewerken klikt, wordt een v2.0-concept van de goedgekeurde e-mail gemaakt. Als u vervolgens het concept v2.0 goedkeurt, wordt de goedgekeurde status van de e-mail v2.0 en kan niet worden teruggezet naar v1.0.\
-**Concept**  - Als u op Concept bewerken klikt, wordt dat concept automatisch gemarkeerd als v2.0. Op dit moment is het niet mogelijk om versie 1.0 te verwijderen en terug te keren omdat er geen goedgekeurde versie van het element is.\
+**Concept**  - Als u op Concept bewerken klikt, wordt dat concept automatisch gemarkeerd als v2.0. Op dit moment is het niet mogelijk om versie 1.0 te verwijderen en terug te keren omdat er geen goedgekeurde versie van het element is.
 **Goedgekeurd met concept**  - Als u op Concept bewerken klikt, wordt dat concept automatisch gemarkeerd als v2.0. Daarom is er ook geen manier om het concept terug te zetten naar versie 1.0.
 
 Als uw abonnement e-mailsjablonen van versie 1.0 heeft voordat u naar de e-maileditor 2.0 gaat, functioneert het volgende:
 
-**Goedgekeurd**  - Als u op Concept bewerken klikt, wordt een v2.0-concept van de bestaande e-mailsjabloon gemaakt.\
-**Concept**  - Als u op Concept bewerken klikt, wordt dat concept automatisch gemarkeerd als v2.0. Op dit moment is het niet mogelijk om versie 1.0 te verwijderen en terug te keren omdat er geen goedgekeurde versie van het element is.\
+**Goedgekeurd**  - Als u op Concept bewerken klikt, wordt een v2.0-concept van de bestaande e-mailsjabloon gemaakt.
+**Concept**  - Als u op Concept bewerken klikt, wordt dat concept automatisch gemarkeerd als v2.0. Op dit moment is het niet mogelijk om versie 1.0 te verwijderen en terug te keren omdat er geen goedgekeurde versie van het element is.
 **Goedgekeurd met concept**  - Als u op Concept bewerken klikt, wordt dat concept automatisch gemarkeerd als v2.0. Daarom is er ook geen manier om het concept terug te zetten naar versie 1.0.
 
 Als u een e-mailsjabloon goedkeurt die eerder v1.0 was (in een van de bovenstaande staten), ziet u het volgende gedrag:
@@ -62,10 +62,6 @@ Notities
 
 >[!MORELIKETHIS]
 >
->* [E-maileditor 2.0 - Overzicht](email-editor-v2-0-overview.md)
->* [E-mailsjabloonsyntaxis](email-template-syntax.md)
-
->
-
-
+>* [E-maileditor 2.0 - Overzicht](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>* [E-mailsjabloonsyntaxis](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 
