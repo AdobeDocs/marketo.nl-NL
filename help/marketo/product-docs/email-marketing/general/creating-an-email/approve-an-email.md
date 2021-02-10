@@ -3,7 +3,7 @@ unique-page-id: 1147342
 description: Een e-mail goedkeuren - Marketo Docs - Productdocumentatie
 title: Een e-mail goedkeuren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -19,8 +19,7 @@ E-mails beginnen in concept. Deze zijn over het algemeen niet beschikbaar in het
 
 1. Zoek en selecteer uw e-mail, klik **E-mailacties** drop-down en selecteer **Goedkeuren**.
 
-   ` ![](assets/one.png)  
-`
+   ![](assets/one.png)
 
 ## Direct goedkeuren in de boom {#approve-it-directly-in-the-tree}
 
