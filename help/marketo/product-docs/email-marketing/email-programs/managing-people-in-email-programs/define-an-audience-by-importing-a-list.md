@@ -3,7 +3,7 @@ unique-page-id: 1900597
 description: Bepaal een Publiek door een Lijst - Marketo Docs - de Documentatie van het Product in te voeren
 title: Een publiek definiëren door een lijst te importeren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Een e-mail maken voor een e-mailprogramma](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[Een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Als u eenmaal een e-mailprogramma hebt gemaakt, wilt u het weten naar wie de e-mail moet worden verzonden. U kunt dit doen door [een slimme lijst te creëren](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) of door een lijst in te voeren. Hieronder wordt beschreven hoe u dit kunt bereiken door een lijst te importeren.
+Als u eenmaal een e-mailprogramma hebt gemaakt, wilt u het weten naar wie de e-mail moet worden verzonden. U kunt dit doen door [een slimme lijst te creëren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) of door een lijst in te voeren. Hieronder wordt beschreven hoe u dit kunt bereiken door een lijst te importeren.
 
 >[!NOTE]
 >
@@ -29,17 +29,20 @@ Als u eenmaal een e-mailprogramma hebt gemaakt, wilt u het weten naar wie de e-m
 
    ![](assets/login-marketing-activities-1.png)
 
-   Selecteer het e-mailprogramma en klik vervolgens op Lijst importeren onder de tegel Publiek.
+1. Selecteer het e-mailprogramma en klik vervolgens op Lijst importeren onder de tegel Publiek.
+
    ![](assets/importlist.png)
 
-1. Het venster voor het importeren van lijsten wordt geopend, u klikt op **Bladeren** en u selecteert het bestand dat u wilt importeren. Klik op Volgende als u de lijst met personen hebt geselecteerd.
-1. ![](assets/importlist1.png)
+1. Het venster voor het importeren van lijsten wordt geopend, u klikt op **Bladeren** en u selecteert het bestand dat u wilt importeren. Als u de lijst met personen hebt geselecteerd, klikt u op **Volgende**.
+
+   ![](assets/importlist1.png)
 
    >[!CAUTION]
    >
    >Controleer of de lijst UTF-8, UTF-16, Shift-JIS of EUC-JP heeft gecodeerd en of de bestandsgrootte niet groter is dan 50 MB.
 
-   Controleer of de velden in het bestand correct zijn toegewezen en klik op Volgende.
+1. Controleer of de velden in het bestand correct zijn toegewezen en klik op **Next**.
+
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
    >[!TIP]
@@ -80,10 +83,6 @@ Fantastisch! Nu is het tijd om een bestaande e-mail te kiezen of een nieuwe e-ma
 
 >[!MORELIKETHIS]
 >
->* [Bestaande e-mail kiezen](../../../../product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Een e-mail maken voor een e-mailprogramma](../../../../product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
->
-
-
+>* [Bestaande e-mail kiezen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [Een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
