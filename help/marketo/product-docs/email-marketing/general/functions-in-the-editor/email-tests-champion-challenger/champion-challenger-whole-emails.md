@@ -3,7 +3,7 @@ unique-page-id: 2359555
 description: Champion/Challenger - Hele e-mails - Marketo Docs - Productdocumentatie
 title: Champion/Challenger — Hele e-mails
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -17,13 +17,9 @@ Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoe
 
 >[!PREREQUISITES]
 >
->* [Een e-mailkampioen/challenger toevoegen](add-an-email-champion-challenger.md)
+>[Een e-mailkampioen/challenger toevoegen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
->
-
-
-
-1. Selecteer **Hele e-mails** in de testeditor **Test Type **dropdown.
+1. Selecteer **Hele e-mails** in de vervolgkeuzelijst **Type testen** in de e-mailtesteditor.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -47,10 +43,11 @@ Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoe
    >
    >**Voorbeeld**
    >
-   >
    >In de bovenstaande distributie krijgt 15% van het totale publiek dat in de slimme lijst is opgegeven, een van de e-mails van de uitdager en 85% ontvangt de champion-e-mail. Meerdere e-mails van meervoudige meerijders delen de 15% gelijkelijk. Wanneer de test voorbij is, kunt u een winnaar handmatig declareren. Vanaf dat moment krijgen alle toekomstige mensen de beter presterende inhoud.
 
-   [Meer informatie dan je ooit wilde over statistisch vertrouwen](http://en.wikipedia.org/wiki/Confidence_interval).
+   Om statistisch vertrouwen te winnen, zeker ben dat het percentage u aan bezoekers toewijst genoeg mensen omvat dat uw test geldig is. Wees niet misleid door onovertuigende resultaten.
+
+   [Meer informatie dan je ooit wilde over statistisch vertrouwen](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Klik **Volgende**.
 
@@ -60,10 +57,4 @@ Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoe
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Champion-criteria definiëren](champion-challenger-define-champion-criteria.md)
-
-
-Om statistisch vertrouwen te winnen, zeker ben dat het percentage u aan bezoekers toewijst genoeg mensen omvat dat uw test geldig is. Wees niet misleid door onovertuigende resultaten.
+   >[Champion/Challenger: Champion-criteria definiëren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
