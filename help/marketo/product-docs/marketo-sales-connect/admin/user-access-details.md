@@ -3,9 +3,9 @@ unique-page-id: 14352623
 description: Toegangsgegevens gebruiker - Marketo Docs - Productdocumentatie
 title: Toegangsgegevens gebruiker
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Waartot hebben Admins en niet-Admins toegang?
 
 ## Beheerdersrechten {#admin-user-permissions}
 
-Beheerders kunnen alle sjablonen [weergeven](http://docs.marketo.com/x/OYAXAQ).
+Beheerders kunnen alle sjablonen [weergeven](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
 
 ![](assets/templates.jpg)
 
-Beheerders kunnen [alle campagnes weergeven](http://docs.marketo.com/x/N4AXAQ).
+Beheerders kunnen [alle campagnes weergeven](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 
-Beheerders kunnen [alle e-mailactiviteiten weergeven](http://docs.marketo.com/x/SYAXAQ).
+Beheerders kunnen alle e-mailactiviteiten weergeven.
 
 ![](assets/email-activity.png)
 
@@ -70,4 +70,3 @@ Beheerders kunnen campagnes namens gebruikers stoppen.
    * Gebruikers kunnen sjablonen delen in categorieën die hun beheerders toestaan
    * Wanneer een gebruiker uit een team wordt verwijderd, worden hun sjablonen niet gedeeld met dat team
    * Wanneer een gebruiker uit een team wordt verwijderd, wordt de eigendom van de sjablonen overgedragen aan de Master beheerder die de gebruiker heeft verwijderd
-
