@@ -3,7 +3,7 @@ unique-page-id: 1147340
 description: E-mails verzenden van de eigenaar van de lead - Marketo Docs - Productdocumentatie
 title: E-mails verzenden vanuit de eigenaar van de lead
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -47,7 +47,8 @@ Wat als u een e-mail naar een lead namens de Lead Owner wilt sturen?  Zo gaat he
    >
    >Zorg ervoor dat u ruimte hebt toegevoegd tussen de tokens voor de voornaam en achternaam.
 
-   Klik in het veld Van e-mail (verwijder een bestaand e-mailadres) en klik op de knop Token invoegen.
+1. Klik in het veld Van e-mail (verwijder een bestaand e-mailadres) en klik op de knop Token invoegen.
+
    ![](assets/eight.png)
 
 1. Typ &quot;`{{lead.Lead Owner`&quot; en selecteer het token **`{{lead.Lead Owner Email Address}}`**.
@@ -61,4 +62,3 @@ Wat als u een e-mail naar een lead namens de Lead Owner wilt sturen?  Zo gaat he
 1. Zorg ervoor **Reageren-aan** en **Onderwerp** gebieden bevolkt zijn, en u wordt gedaan!
 
    ![](assets/eleven.png)
-
