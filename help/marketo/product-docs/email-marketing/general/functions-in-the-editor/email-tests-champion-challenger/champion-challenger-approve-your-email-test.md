@@ -3,9 +3,9 @@ unique-page-id: 2359581
 description: Champion/Challenger - Goedkeuren van uw e-mailtest - Marketo Docs - Productdocumentatie
 title: Champion/Challenger - Uw e-mailtest goedkeuren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ De laatste stap bij het instellen van uw e-mailtest om deze goed te keuren. Zo g
 
 >[!PREREQUISITES]
 >
->* [Champion/Challenger: Rapportwaarschuwingen configureren](champion-challenger-configure-report-alerts.md)
-
->
-
-
+>[Champion/Challenger: Rapportwaarschuwingen configureren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -33,10 +29,7 @@ De laatste stap bij het instellen van uw e-mailtest om deze goed te keuren. Zo g
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Bij het goedkeuren van een **Volledige e-mail**** **test, keur eerst de bezoekersmail goed.
+   >Als u een **Volledige e-mailtest** goedkeurt, moet u eerst de e-mail voor de uitdager goedkeuren.
 
    >[!NOTE]
    >
@@ -46,10 +39,6 @@ De laatste stap bij het instellen van uw e-mailtest om deze goed te keuren. Zo g
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Champion/Challenger: Een Champion declareren](champion-challenger-declare-a-champion.md)
-   >    * [Champion/Challenger: Een e-mailtest negeren](champion-challenger-discard-an-email-test.md)
-
+   >* [Champion/Challenger: Een Champion declareren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [Champion/Challenger: Een e-mailtest negeren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
 
