@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Overzicht van Sales Connect - Marketo Docs - Productdocumentatie
 title: Overzicht van Sales Connect
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Marketo Sales Connect is een veelzijdige oplossing voor verkoopondersteuning met
 
 >[!AVAILABILITY]
 >
->
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
 
 ## Live feed {#the-live-feed}
 
-Verkoopvertegenwoordigers kunnen [real-time betrokkenheid](http://docs.marketo.com/x/d4TS) van zowel marketing- als verkoopinhoud weergeven.
+Verkoopvertegenwoordigers kunnen [real-time betrokkenheid](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) van zowel marketing- als verkoopinhoud weergeven.
 
 ![](assets/engagement.jpg)
 
 ## Persoonsdetailweergave {#person-detail-view}
 
-Toegang [gedetailleerde status van personen](http://docs.marketo.com/x/e4TS).
+Toegang [gedetailleerde status van personen](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -62,7 +61,7 @@ Zie hoe je verkoopkansen in huis hebben.
   </tr> 
   <tr> 
    <td colspan="1"><p>Verkoper ontvangen</p></td> 
-   <td colspan="1"><p>De lood ontving een vraag van een verkoper gebruikend <a href="http://docs.marketo.com/x/NgDb" rel="nofollow">Telefoon </a> van de Verkoop.</p></td> 
+   <td colspan="1"><p>De lood ontving een vraag van een verkoper gebruikend <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Telefoon </a> van de Verkoop.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Toevoegen aan verkoopcampagne</p></td> 
@@ -81,7 +80,7 @@ Zie hoe je verkoopkansen in huis hebben.
 
 ## Marketingcampagnes delen {#share-marketing-campaigns}
 
-Maak een eenvoudige slimme campagne om uw verkoopgebruikers toegang te geven tot [Marketo-campagnegegevens](http://docs.marketo.com/x/NwDh).
+Maak een eenvoudige slimme campagne om uw verkoopgebruikers toegang te geven tot [Marketo-campagnegegevens](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 
@@ -89,9 +88,4 @@ Klaar om aan de slag te gaan? Klik op de onderstaande koppeling voor installatie
 
 >[!MORELIKETHIS]
 >
->* [Aan de slag met Sales Connect](http://docs.marketo.com/x/coTS)
-
->
-
-
-
+>[Aan de slag met Sales Connect](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
