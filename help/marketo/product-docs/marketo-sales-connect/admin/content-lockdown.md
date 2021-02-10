@@ -3,7 +3,7 @@ unique-page-id: 37355755
 description: Vergrendeling van inhoud - Marketo Docs - Productdocumentatie
 title: Inhoud vergrendelen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -27,7 +27,6 @@ Als u de inhoud vergrendelt, voorkomt u dat gebruikers van andere leveranciers s
 
    ![](assets/two-4.png)
 
-1. Schuif omlaag naar Vergrendeling van inhoud. Als u een van beide schuifregelaars inschakelt, wordt *de mogelijkheid voor uw teamleden om sjablonen en/of campagnes te maken/bewerken uitgeschakeld.*
+1. Schuif omlaag naar Vergrendeling van inhoud. Als u een van beide schuifregelaars inschakelt, wordt _de mogelijkheid voor uw teamleden om sjablonen en/of campagnes te maken/bewerken uitgeschakeld._
 
    ![](assets/three-4.png)
-
