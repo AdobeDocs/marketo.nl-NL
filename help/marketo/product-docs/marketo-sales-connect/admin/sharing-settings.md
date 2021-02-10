@@ -3,7 +3,7 @@ unique-page-id: 14746143
 description: Instellingen voor delen - Marketo Docs - Productdocumentatie
 title: Instellingen voor delen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Wanneer het Delen van Montages wordt toegelaten, slechts zullen de beheerders in
 
 ## Uw instellingen voor delen configureren {#configure-your-sharing-settings}
 
-1. Ga in [Webtoepassing](http://toutapp.com/login), naar de pagina van Montages.
+1. Ga in [Webtoepassing](https://toutapp.com/login), naar de pagina van Montages.
 
    ![](assets/one-2.png)
 
@@ -58,4 +58,3 @@ Wanneer het Delen van Montages wordt toegelaten, slechts zullen de beheerders in
 1. Nu uw team is toegevoegd, kunt u selecteren om alleen teambeheerders toe te staan om te delen of alle gebruikers in dat team. In dit voorbeeld hebben we alle gebruikers van het SDR-team toegang gegeven.
 
    ![](assets/eight-1.png)
-
