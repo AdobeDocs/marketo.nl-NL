@@ -3,9 +3,9 @@ unique-page-id: 1900573
 description: Een systeemtoken toevoegen als een koppeling in een e-mail - Marketo Docs - Productdocumentatie
 title: Een systeemtoken toevoegen als een koppeling in een e-mailbericht
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,6 @@ Hieronder wordt beschreven hoe u ze aan een e-mail kunt toevoegen:
 
 >[!NOTE]
 >
->**Herinnering**
->
->Vergeet niet [uw e-mail](../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goed te keuren wanneer u klaar bent.
+>Vergeet niet [uw e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md) goed te keuren wanneer u klaar bent.
 
 Echt waar! Nu weet u hoe u een systeemtoken als een koppeling in een e-mail kunt toevoegen.
