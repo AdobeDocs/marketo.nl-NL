@@ -3,7 +3,7 @@ unique-page-id: 14352591
 description: Inhoud toevoegen - Marketo Docs - Productdocumentatie
 title: Inhoud toevoegen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Als u eerder inhoud hebt toegevoegd, worden deze bestanden weergegeven. Als niet
 >[!NOTE]
 >
 >Het bestand wordt geplaatst op de plaats waar de cursor zich in de e-mail bevindt en u moet op ‘Tout It’ klikken wanneer u de e-mail verzendt om de inhoud in uw live feed bij te houden.
-
