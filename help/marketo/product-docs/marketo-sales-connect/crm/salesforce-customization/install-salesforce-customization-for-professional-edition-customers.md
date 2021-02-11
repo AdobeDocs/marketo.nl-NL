@@ -3,9 +3,9 @@ unique-page-id: 27656223
 description: Aanpassing Salesforce voor klanten van de Professional Edition installeren - Marketo-documenten - Productdocumentatie
 title: Aanpassing van Salesforce voor klanten van de Professional Edition installeren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,6 @@ Klanten met Salesforce Professional Edition moeten deze stappen volgen om aanpas
 >
 >* Sales Connect Admin moet hun Salesforce- en Sales Connect-accounts verbinden.
 >* Er moet ruimte zijn voor de installatie van Salesforce Instance om dertien aangepaste activiteitsvelden te kunnen installeren.
-
->
-
 
 
 ## Installatie {#installation}
@@ -40,7 +37,7 @@ Klanten met Salesforce Professional Edition moeten deze stappen volgen om aanpas
    >
    >Als u verbonden bent, zult u een groene &quot;installeren&quot;knoop zien. **Klik** NIET op deze knop, ga verder met stap 4.
 
-1. Meld u aan bij de Salesforce-account waarmee u bent verbonden en klik op [deze koppeling](http://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Meld u aan bij de Salesforce-account waarmee u bent verbonden en klik op [deze koppeling](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. U wordt naar de pagina voor installatie van Sales Connect verzonden.
 
    ![](assets/install-package.png)
@@ -58,7 +55,8 @@ Klanten met Salesforce Professional Edition moeten deze stappen volgen om aanpas
    >
    >Sales Engage is de vorige naam voor Sales Connect.
 
-   [Installatiehandleiding voor Salesforce Classic](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+## Hulplijnen {#guides}
 
-   [Installatiehandleiding voor Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Installatiehandleiding voor Salesforce Classic](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
+[Installatiehandleiding voor Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
