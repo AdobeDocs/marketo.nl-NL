@@ -3,9 +3,9 @@ unique-page-id: 14352618
 description: Een campagne maken - Marketo Docs - Productdocumentatie
 title: Een campagne maken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Hoe zet je een campagne op?
 
    >[!NOTE]
    >
-   >Maak een nieuwe categorie door te klikken op de ** +** naast **Categorieën**.
+   >Maak een nieuwe categorie door op **+** naast **Categorieën** te klikken.
 
 1. De gekozen rubriek wordt geselecteerd. Als u van mening verandert, klikt u op de vervolgkeuzelijst en selecteert u een andere. Als u klaar bent, klikt u op **Doorgaan**.
 
@@ -44,7 +44,7 @@ Hoe zet je een campagne op?
 
    ![](assets/four-1.png)
 
-1. Kies tussen: E-mail, Vraag, InMail, of de Taak van de Douane. In dit voorbeeld kiezen we [Email](http://docs.marketo.com/display/DOCS/Campaign+Step+Types#CampaignStepTypes-Email).
+1. Kies tussen: E-mail, Vraag, InMail, of de Taak van de Douane. In dit voorbeeld kiezen we [Email](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email).
 
    ![](assets/five-1.png)
 
@@ -54,11 +54,10 @@ Hoe zet je een campagne op?
 
    >[!NOTE]
    >
-   >&quot;Dagen&quot; zijn niet het aantal dagen tussen handelingen, maar de dag binnen de reeks. Als uw campagne bijvoorbeeld 7 dagen duurt, betekent het invoeren van &#39;3&#39; dat de actie op dag 3 van 7 wordt uitgevoerd, **niet **3 dagen later.
+   >&quot;Dagen&quot; zijn niet het aantal dagen tussen handelingen, maar de dag binnen de reeks. Als uw campagne bijvoorbeeld 7 dagen duurt, betekent het invoeren van &#39;3&#39; dat de actie op dag 3 van 7 wordt uitgevoerd, **niet** 3 dagen later.
 
 1. Zorg ervoor u het plannen en antwoordopties aanpassen, zoals het overslaan van weekends (wat geweldig is) door **het Lusje van Montages** voor uw Campagne te bezoeken.
 
    ![](assets/seven.png)
 
    Nu is het tijd om mensen aan uw campagne toe te voegen!
-
