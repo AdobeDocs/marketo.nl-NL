@@ -3,9 +3,9 @@ unique-page-id: 37356575
 description: Opties voor bulkverzending - Marketo Docs - Productdocumentatie
 title: Opties voor bulkverzending
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Het bulksgewijs verzenden van e-mails is een geweldige manier om uw betrokkenheid bij het vooruitzicht te versnellen. Sales Connect biedt twee manieren om e-mailberichten bulksgewijs te verzenden: **E-mails groeperen** en **Selecteren en verzenden**. Groepse e-mailberichten zijn een uitstekende manier om honderden e-mails snel naar een bepaalde groep te sturen. Het gebruiken van Uitgezocht en verzendt betekent lagere e-mailgrenzen, maar het biedt meer aanpassingsmogelijkheden aan de gebruiker.
 
-Groep e-mail vs. selecteren en verzenden
+**Groep e-mail vs. selecteren en verzenden**
 
 <table> 
  <colgroup> 
@@ -54,20 +54,16 @@ Groep e-mail vs. selecteren en verzenden
  </tbody> 
 </table>
 
-Groepse-e-mail gebruiken
+**Groepse-e-mail gebruiken**
 
 U kunt elke e-mail in de lijst voorvertonen om te zien of de dynamische velden correct worden ingevuld en u kunt de sjabloon die u wilt verzenden bulksgewijs bewerken. U kunt echter geen unieke bewerkingen &quot;per gebruiker&quot; uitvoeren.
 
-Selecteren en verzenden gebruiken
+**Selecteren en verzenden gebruiken**
 
 Standaard bewerkt u de gegevens voor alle ontvangers. Maar u kunt ook elke afzonderlijke e-mail selecteren om aangepaste bewerkingen uit te voeren. Dit kan ideaal zijn voor het toevoegen van één of meerdere unieke lijn(en) van aanpassing aan ontvangers u een meer gepersonaliseerde benadering met wilt nemen.
 
 >[!MORELIKETHIS]
 >
->* [Bulke-mails samenstellen met Selecteren en Verzenden](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
->* [E-mailberichten verzenden via e-mail voor groep](http://docs.marketo.com/x/KAQ6Ag)
-
->
-
-
+>* [Bulke-mails samenstellen met Selecteren en Verzenden](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
+>* [E-mailberichten verzenden via e-mail voor groep](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 
