@@ -3,9 +3,9 @@ unique-page-id: 37356584
 description: E-mailberichten verzenden via e-mail voor groep - Marketo Docs - Productdocumentatie
 title: E-mailberichten verzenden via e-mail voor groep
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,8 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 ## Een groepse-e-mail {#editing-a-group-email} bewerken
 
-1. Maak een groep-e-mailbericht met [Stap 1-3 hierboven](https://docs.marketo.com/display/DOCS/Sending+Emails+via+Group+Email#SendingEmailsviaGroupEmail-SendingaGroupEmail).
+1. Maak een groep-e-mailbericht met [Stap 1-3 hierboven](#sending-a-group-email).
+
 1. Kies een sjabloon of vul uw e-mail in.
 
    ![](assets/edit-two.png)
@@ -58,11 +59,6 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 >[!MORELIKETHIS]
 >
->* [Opties voor bulkverzending](http://docs.marketo.com/x/HwQ6Ag)
->* [Een sjabloon gebruiken in het venster Samenstellen](http://docs.marketo.com/x/MQQ6Ag)
->* [Dynamische velden](http://docs.marketo.com/x/wwDb)
-
->
-
-
+>* [Opties voor bulkverzending](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+>* [Een sjabloon gebruiken in het venster Samenstellen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
