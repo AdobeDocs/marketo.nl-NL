@@ -3,9 +3,9 @@ unique-page-id: 14352609
 description: Een campagne uitschakelen - Marketo Docs - Productdocumentatie
 title: Een campagne uitschakelen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Moet een Campagne automatisch beëindigen wanneer een ontvanger antwoordt? Zo ga
 
 >[!NOTE]
 >
->Dit is slechts beschikbaar voor klanten die met [Gmail of Uitwisseling](https://toutapp.com/next#settings/email-tracking) geïntegreerd zijn en toegelaten antwoord het volgen hebben.
+>Dit is slechts beschikbaar voor klanten die met Gmail of Uitwisseling geïntegreerd zijn en toegelaten antwoord het volgen hebben.
 
 ## Schakel een campagne voor één persoon {#turn-off-a-campaign-for-one-person} uit
 
