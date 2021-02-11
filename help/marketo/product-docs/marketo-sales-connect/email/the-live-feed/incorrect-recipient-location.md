@@ -3,9 +3,9 @@ unique-page-id: 14352543
 description: Onjuiste ontvangerlocatie - Marketo Docs - Productdocumentatie
 title: Onjuiste locatie ontvanger
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ Als we de locatie verkeerd hebben voor de ontvangers, zijn er drie mogelijkheden
 
 - Als uw e-mail door iemand op CC of BCC gebied door:sturen of werd geopend, proberen wij om de plaats van die mensen nauwkeurig te tonen.
 
-Al met al, zullen wij plaatsen zo nauwkeurig bepalen zoals wij op IP het volgen kunnen baseren, maar jammer genoeg `isn't an exact science`.
+Al met al, zullen wij plaatsen zo nauwkeurig bepalen zoals wij op IP het volgen kunnen baseren, maar helaas is het geen nauwkeurige wetenschap.
