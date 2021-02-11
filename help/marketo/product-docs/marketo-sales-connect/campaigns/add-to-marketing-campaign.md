@@ -3,9 +3,9 @@ unique-page-id: 14745611
 description: Toevoegen aan marketingcampagne - Marketo Docs - Productdocumentatie
 title: Toevoegen aan marketingcampagne
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Een campagne zichtbaar maken voor verkoopgebruikers](http://docs.marketo.com/x/NwDh)
+>[Een campagne zichtbaar maken voor verkoopgebruikers](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## Individuen toevoegen aan een campagne {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Als u iemand vanuit Sales Connect wilt toevoegen aan een Marketo-campagne, moet Sales Connect de toonaangevende id van de persoon hebben. [Leer hier](http://docs.marketo.com/x/CQXLAQ) Marketo-id&#39;s vastleggen.
+>Als u iemand vanuit Sales Connect wilt toevoegen aan een Marketo-campagne, moet Sales Connect de toonaangevende id van de persoon hebben. [Leer hier](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md) Marketo-id&#39;s vastleggen.
 
 1. Klik op het tabblad **Personen**.
 
@@ -87,7 +87,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Als u iemand vanuit Sales Connect wilt toevoegen aan een Marketo-campagne, moet Sales Connect de toonaangevende id van de persoon hebben. [Leer hier](http://docs.marketo.com/x/CQXLAQ) Marketo-id&#39;s vastleggen.
+   >Als u iemand vanuit Sales Connect wilt toevoegen aan een Marketo-campagne, moet Sales Connect de toonaangevende id van de persoon hebben. [Leer hier](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md) Marketo-id&#39;s vastleggen.
 
 1. Klik op de vervolgkeuzelijst Werkruimten en kies de werkruimte die de campagne bevat waaraan de groep moet worden toegevoegd.
 
@@ -104,4 +104,3 @@ ht-degree: 0%
 1. U wordt getoond de contacten die kwalificeren. Klik **Begin** om hen toe te voegen.
 
    ![](assets/nine.png)
-
