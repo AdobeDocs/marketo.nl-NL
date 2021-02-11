@@ -3,9 +3,9 @@ unique-page-id: 37356329
 description: Overzicht van geavanceerd zoeken - Marketo Docs - Productdocumentatie
 title: Overzicht van geavanceerd zoeken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -47,8 +47,9 @@ Filter op e-mailontvanger/afzender in de sectie Who.
 
 ![](assets/who.png)
 
-| **Weergeven als** | Filter op een specifieke afzender in uw exemplaar van Sales Connect (deze optie is alleen beschikbaar voor Admins). |
+| Vervolgkeuzelijst | Beschrijving |
 |---|---|
+| **Weergeven als** | Filter op een specifieke afzender in uw exemplaar van Sales Connect (deze optie is alleen beschikbaar voor Admins). |
 | **Op groep** | E-mailberichten filteren op een specifieke groep ontvangers. |
 | **Op persoon** | Filteren op een specifieke ontvanger. |
 
@@ -82,8 +83,9 @@ Filters op basis van de verzonden e-mailactiviteit. U kunt weergaven/geen weerga
 
 Filtert op alle e-mails die in behandeling zijn.
 
-| **Gepland** | E-mails die zijn gepland vanuit het samenstellingsvenster (Salesforce of de Web App), e-mailplug-ins of een campagne. |
+| Status | Beschrijving |
 |---|---|
+| **Gepland** | E-mails die zijn gepland vanuit het samenstellingsvenster (Salesforce of de Web App), e-mailplug-ins of een campagne. |
 | **Concepten** | E-mails die zich momenteel in de conceptstatus bevinden. E-mails vereisen een onderwerpregel en een ontvanger om als concept te worden opgeslagen. |
 | **In uitvoering** | E-mails die worden verzonden. E-mails mogen niet langer dan een paar seconden in deze status blijven. |
 
@@ -93,8 +95,9 @@ Filtert op alle e-mails die in behandeling zijn.
 
 Filters op e-mails die nooit zijn bezorgd.
 
-| **Mislukt** | Wanneer een e-mailbericht niet wordt verzonden vanuit Sales Connect (algemene redenen zijn onder andere: e-mails die worden verzonden naar contactpersonen die niet zijn geabonneerd of geblokkeerd, of als er een probleem is met het vullen van dynamische velden). |
+| Status | Beschrijving |
 |---|---|
+| **Mislukt** | Wanneer een e-mailbericht niet wordt verzonden vanuit Sales Connect (algemene redenen zijn onder andere: e-mails die worden verzonden naar contactpersonen die niet zijn geabonneerd of geblokkeerd, of als er een probleem is met het vullen van dynamische velden). |
 | **Afgekeerd** | Een e-mailbericht wordt gemarkeerd als teruggestuurd wanneer het wordt afgewezen door de server van de ontvanger. Hier worden alleen e-mails weergegeven die via Sales Connect-servers zijn verzonden. |
 | **Spam** | Wanneer het e-mailbericht door de ontvanger is gemarkeerd als spam (algemene term voor ongevraagde e-mail). Hier worden alleen e-mails weergegeven die via Sales Connect-servers zijn verzonden. |
 
@@ -113,4 +116,3 @@ Hieronder wordt beschreven hoe u een opgeslagen zoekopdracht maakt.
    De opgeslagen zoekopdrachten staan op de zijbalk links.
 
    ![](assets/advanced-search-overview-15.png)
-
