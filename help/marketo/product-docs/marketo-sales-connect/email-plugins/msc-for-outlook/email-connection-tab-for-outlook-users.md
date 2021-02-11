@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: Het Lusje van de Verbinding van e-mail voor de Gebruikers van Vooruitzichten - Marketo Dos - de Documentatie van het Product
 title: Tabblad E-mailverbinding voor Outlook-gebruikers
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het
 
    ![](assets/nine-a.png)
 
-   U kunt deze verbinding gebruiken om e-mails bij te houden en ook [als leveringskanaal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
+   U kunt deze verbinding gebruiken om e-mailberichten en ook als leveringskanaal bij te houden.
 
    >[!NOTE]
    >
@@ -97,8 +97,9 @@ Het verbinden met Uitwisseling op locatie betekent u antwoord het volgen, toegan
 
    ![](assets/six-b.png)
 
-   | **Outlook Online** | Ook bekend als Office Online |
+   | Versie | Beschrijving |
    |---|---|
+   | **Outlook Online** | Ook bekend als Office Online |
    | **Exchange op locatie** | Inclusief Exchange 2013 en 2016 |
 
 1. Voer uw referenties in en klik op **Connect**.
@@ -109,10 +110,8 @@ Het verbinden met Uitwisseling op locatie betekent u antwoord het volgen, toegan
    >
    >Als u Autodiscover in de drop-down van de Versie van de Uitwisseling uitzet, zult u uw afdeling van IT voor de Uitwisseling URL moeten vragen.
 
-   [als leveringskanaal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail)
+   U kunt deze verbinding gebruiken om e-mailberichten en ook als leveringskanaal bij te houden.
 
    >[!NOTE]
    >
    >Wanneer u Outlook als leveringskanaal gebruikt, kunt u niet meer dan 300 grote e-mails tegelijk verzenden.
-
-U kunt deze verbinding gebruiken om e-mails bij te houden en ook.
