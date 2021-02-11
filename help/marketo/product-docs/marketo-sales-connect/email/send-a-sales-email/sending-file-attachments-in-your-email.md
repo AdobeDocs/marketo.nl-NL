@@ -3,9 +3,9 @@ unique-page-id: 14352523
 description: Bestandsbijlagen verzenden in uw e-mail - Marketo Docs - Productdocumentatie
 title: Bestandsbijlagen verzenden in uw e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Gewoonlijk zijn bestanden van meer dan 20 MB te groot om te worden geleverd. De 
 >
 >Als u Tout gebruikt als uw e-mailleveringskanaal, raden we bestanden van 19 MB of minder aan wanneer we e-mailberichten verzenden.
 
-Als u absoluut een groot dossier moet verzenden, probeer eerst het of upload het als [trackable gehechtheid](http://docs.marketo.com/x/3oPS) in [Webtoepassing](http://toutapp.com/login).
+Als u absoluut een groot dossier moet verzenden, probeer eerst het of upload het als [trackable gehechtheid](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md) in [Webtoepassing](https://toutapp.com/login).
