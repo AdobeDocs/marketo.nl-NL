@@ -3,9 +3,9 @@ unique-page-id: 14746594
 description: Een SMTP-server instellen - Marketo Docs - Productdocumentatie
 title: Een SMTP-server instellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '655'
 ht-degree: 0%
 
 ---
@@ -53,13 +53,17 @@ Cons
 * Het wijzigen van het O365-wachtwoord van een gebruiker leidt tot een verbroken verbinding
 
 Als u Office365 of Uitwisseling Online gebruikt, kunt u met uw server verbinden SMTP gebruikend een standaardreeks geloofsbrieven. Houd er rekening mee dat Office365 geen service voor het leveren van grote hoeveelheden e-mail is, hoewel dit goed werkt bij het verzenden van eenmalige e-mails. Bij het verzenden van grote e-mailberichten kan Office365 uw e-mails vertragen, wat tot mislukte bezorging kan leiden. Meer over deze controle uit het artikel van Microsoft op [hoe te opstelling SMTP cliëntvoorlegging](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
-`<blockquote>  <p>“You can only send from one email address unless your device can store login credentials for multiple Office 365 mailboxes. Office 365 imposes a limit of 30 messages sent per minute, and a limit of 10,000 recipients per day.”</p> </blockquote>`\
+
+&quot;U kunt slechts van één e-mailadres verzenden tenzij uw apparaat login geloofsbrieven voor veelvoudige Office 365 brievenbussen kan opslaan. Office 365 legt een grens van 30 berichten per minuut, en een grens van 10.000 ontvangers per dag op.&quot;
+
 Als u besluit om Office365 als uw leveringskanaal te gebruiken, zult u deze geloofsbrieven moeten ingaan. De zelfde geloofsbrieven kunnen niet over het team worden gebruikt omdat Office365 e-mail en het wachtwoord van de gebruiker gebruikt om verbinding te maken.
 
 Microsoft en bulksgewijs verzenden
 
-[Klik ](http://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) hier voor meer informatie over bulkverzending in Office365. 
-`<blockquote>  <p>“Exchange Online customers who need to send legitimate bulk commercial email (for example, customer newsletters) should use third-party providers that specialize in these services.”</p> </blockquote>`\
+[Klik ](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx#RecipientLimits) hier voor meer informatie over bulkverzending in Office365.
+
+De Online klanten van de uitwisseling die legitieme bulkcommerciële e-mail (bijvoorbeeld, klantennieuwsbrieven) moeten verzenden zouden derdeleveranciers moeten gebruiken die in deze diensten specialiseren.&quot;
+
 **Wat als mijn bedrijf Gmail gebruikt?**
 
 U hoeft geen SMTP-referenties op te halen als uw team Gmail wilt gebruiken als leveringskanaal met Sales Connect. Met Sales Connect kunnen gebruikers via onze OAuth-integratie toegang krijgen tot hun Gmail-leveringskanaal. Gebruikers kunnen dit inschakelen door hun Sales Connect-account te integreren met Gmail.
@@ -73,4 +77,3 @@ Dit hangt van het leveringskanaal af u gebruikt. De diensten zoals Sparkpost sta
 Als u verbinding maakt met Office365, zijn de gegevens gebaseerd op e-mailadressen. Dit betekent dat alleen het e-mailadres waarmee de verbinding tot stand is gebracht, wordt geverifieerd voor het verzenden van e-mails via dat leveringskanaal. De referenties moeten daarom **niet** worden gedeeld.
 
 ![](assets/3.png)
-
