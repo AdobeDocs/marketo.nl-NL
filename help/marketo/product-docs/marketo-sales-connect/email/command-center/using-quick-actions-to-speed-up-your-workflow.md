@@ -3,9 +3,9 @@ unique-page-id: 37357306
 description: Het gebruiken van Snelle Acties om Uw Werkschema - Marketo Docs - de Documentatie van het Product te versnellen
 title: Snelle acties gebruiken om uw workflow te versnellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,9 @@ Snelle acties via e-mail zijn dynamisch en worden bijgewerkt, afhankelijk van de
 
 **Geleverd**
 
-| Archief | Hiermee voegt u het e-mailbericht toe aan de gearchiveerde map en stopt u de weergave Uitschakelen en klikt u op Bijhouden voor dat e-mailbericht. |
+| Status | Beschrijving |
 |---|---|
+| Archief | Hiermee voegt u het e-mailbericht toe aan de gearchiveerde map en stopt u de weergave Uitschakelen en klikt u op Bijhouden voor dat e-mailbericht. |
 | Succes | Het e-mailbericht wordt gemarkeerd als succesvol om in sjabloonanalyses te worden gerapporteerd. |
 
 **Gearchiveerd**
@@ -84,13 +85,11 @@ Snelle acties via e-mail zijn dynamisch en worden bijgewerkt, afhankelijk van de
 
 **Follow-upacties**
 
-** ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
+![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-**
-
-| Vervolgmail verzenden | Hiermee opent u het samenstellingsvenster met de geselecteerde inline-e-mailtekst, die klaar is om naar de ontvanger te worden verzonden. |
+| Functie | Beschrijving |
 |---|---|
+| Vervolgmail verzenden | Hiermee opent u het samenstellingsvenster met de geselecteerde inline-e-mailtekst, die klaar is om naar de ontvanger te worden verzonden. |
 | Vraag maken | Opent de verkooptelefoon om een vraag aan de e-mailontvanger te maken. |
 | InMail verzenden | Omleidt aan LinkedIn om de persoon een InMail- bericht te verzenden. |
 | Taak maken | Hiermee opent u het pop-upvenster Taak maken om een herinneringstaak te maken. |
-
