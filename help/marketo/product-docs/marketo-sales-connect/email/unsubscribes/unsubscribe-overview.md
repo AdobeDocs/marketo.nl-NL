@@ -3,7 +3,7 @@ unique-page-id: 14746161
 description: Abonnementsoverzicht opzeggen - Marketo Docs - Productdocumentatie
 title: Overzicht van abonnement opzeggen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Het wordt steeds belangrijker dat organisaties zich houden aan de privacywetgevi
 * Afmeldingsgegevens worden opgeslagen in PDV
 * Abonnementen kunnen handmatig worden uitgevoerd: Klik op Koppeling, Salesforce Sync en Bounce
 * Nieuwe bestemmingspagina voor afmelding van koppeling
-
