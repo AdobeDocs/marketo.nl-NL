@@ -3,7 +3,7 @@ unique-page-id: 14352546
 description: Voorkomen dat Secundair Gmail-adres wordt geïntegreerd met Sales Connect - Marketo Docs - Productdocumentatie
 title: Voorkomen dat Secundair Gmail-adres wordt geïntegreerd met Sales Connect
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sales Connect kan met Gmail worden geïntegreerd via een extensie die in de Chro
 
 Aanmelden als een andere Chrome-gebruiker (aanbevolen)
 
-Klik op [deze koppeling](http://support.google.com/chrome/answer/2364824?hl=en) om te lezen hoe u een ander Chrome-profiel kunt maken.
+Klik op [deze koppeling](https://support.google.com/chrome/answer/2364824?hl=en) om te lezen hoe u een ander Chrome-profiel kunt maken.
 
 **Pros**: Als u zich aanmeldt als een andere gebruiker, wordt een nieuwe instantie van Chrome geopend. Dit exemplaar is een gloednieuw venster van Chrome, en geen van uw oude uitbreidingen zal in dit bestaan. Het houdt ook cookies bij zodat u zich niet telkens bij Gmail hoeft aan te melden.
 
