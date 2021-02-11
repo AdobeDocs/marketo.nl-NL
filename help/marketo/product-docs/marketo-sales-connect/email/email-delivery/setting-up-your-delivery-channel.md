@@ -3,9 +3,9 @@ unique-page-id: 14746470
 description: Uw leveringskanaal instellen - Marketo Docs - Productdocumentatie
 title: Uw leveringskanaal instellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Wanneer u Marketo Sales Connect gaat gebruiken, moet u een SMTP-server instellen
 
 >[!NOTE]
 >
->Naast het opzetten van uw SMTP-server, moet uw [e-mailidentiteit worden geverifieerd](http://docs.marketo.com/x/ewPh) voordat u e-mailberichten kunt verzenden.
+>Naast het opzetten van uw SMTP-server, moet uw [e-mailidentiteit worden geverifieerd](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) voordat u e-mailberichten kunt verzenden.
 
 U kunt verkiezen om e-mails te verzenden gebruikend een Server van de Douane SMTP, een Server van het Team SMTP, of Gmail als leveringskanaal. Laten we elke optie overslaan.
 
 ## Aangepaste SMTP {#custom-smtp}
 
-1. Meld u aan bij de [webtoepassing](http://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
+1. Meld u aan bij de [webtoepassing](https://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
 
    ![](assets/one.png)
 
@@ -63,15 +63,13 @@ U kunt verkiezen om e-mails te verzenden gebruikend een Server van de Douane SMT
    >
    >Als uw teambeheerder omhoog de Server van het Team SMTP plaatst, zal het automatisch slechts op uw standaard e-mailidentiteit van toepassing zijn, en beschikbaar als optie voor uw andere e-mailidentiteiten.
 
-   **Een video bekijken**`<iframe width="630" height="470" src="//play.vidyard.com/YWKSgZvBEjUU8FrXZ5hdYR.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Team SMTP-server {#team-smtp-server}
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Meld u aan bij de [webtoepassing](http://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
+1. Meld u aan bij de [webtoepassing](https://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
 
    ![](assets/nine.png)
 
@@ -87,11 +85,9 @@ U kunt verkiezen om e-mails te verzenden gebruikend een Server van de Douane SMT
    >
    >De server van Team SMTP zal het standaardleveringskanaal van de standaard e-mailidentiteit voor alle teamleden zijn. Bovendien is deze beschikbaar als optie voor het leveringskanaal voor alle andere e-mailidentiteiten.
 
-   ** Bekijk een video**`<iframe width="630" height="470" src="//play.vidyard.com/Ky9EwGmLcgvsMpFq3H8Y6n.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
-
 ## Gmail {#gmail}
 
-1. Meld u aan bij de [webtoepassing](http://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
+1. Meld u aan bij de [webtoepassing](https://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
 
    ![](assets/twelve.png)
 
@@ -108,6 +104,7 @@ U kunt verkiezen om e-mails te verzenden gebruikend een Server van de Douane SMT
    ![](assets/fifteen.png)
 
 1. Meld u aan met uw Google-referenties.
+
 1. Wanneer u aan dit scherm krijgt, klik **Toestaan**.
 
    ![](assets/sixteen.png)
@@ -135,4 +132,3 @@ U kunt verkiezen om e-mails te verzenden gebruikend een Server van de Douane SMT
    >[!NOTE]
    >
    >Als uw teambeheerder omhoog de Server van het Team SMTP plaatst, zal het automatisch slechts op uw standaard e-mailidentiteit van toepassing zijn, en beschikbaar als optie voor uw andere e-mailidentiteiten.
-
