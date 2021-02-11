@@ -3,7 +3,7 @@ unique-page-id: 14352472
 description: Toegankelijkheid Salesforce-veld bewerken - Marketo-documenten - Productdocumentatie
 title: Toegankelijkheid Salesforce-veld bewerken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Als u geen logboek van de e-mailactiviteit aan Salesforce ziet, zou het wegens b
 * Werk samen met uw Salesforce-beheerder om ervoor te zorgen dat deze beveiligingsinstellingen geen invloed hebben op Sales Connect.
 
 * Als u een Salesforce-beheerder bent, kunt u de toegankelijkheid van het veld zien onder het tabblad Beveiligingsinstellingen. De belangrijkste velden waarmee Sales Connect werkt, zijn: Account, Contacten, Opportunity, Lead en Taak.
-
