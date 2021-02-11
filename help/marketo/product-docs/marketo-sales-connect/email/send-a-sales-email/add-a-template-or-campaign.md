@@ -3,7 +3,7 @@ unique-page-id: 14352589
 description: Een sjabloon of campagne toevoegen - Marketo Docs - Productdocumentatie
 title: Een sjabloon of campagne toevoegen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -19,4 +19,4 @@ Als u een sjabloon wilt toevoegen, klikt u op **Sjabloon** en selecteert u de sj
 
 Als u een campagne toevoegt, klikt u op het tabblad **Campagne**.
 
-Als u net uw overseinen in [Webtoepassing ](http://toutapp.com/login) toevoegde/uitgeeft, zorg ervoor om **te klikken verfrissen** knoop om ervoor te zorgen u in de meest recente versie trekt.
+Als u net uw overseinen in [Webtoepassing ](https://toutapp.com/login) toevoegde/uitgeeft, zorg ervoor om **te klikken verfrissen** knoop om ervoor te zorgen u in de meest recente versie trekt.
