@@ -3,9 +3,9 @@ unique-page-id: 14746186
 description: Pas het Bericht van de Verbinding van Unsubscribe - Marketo DOS - de Documentatie van het Product aan
 title: Bericht voor opzeggen van koppeling aanpassen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
 
 ## Overseinen aanpassen voor uzelf {#customize-messaging-for-yourself}
 
-1. Meld u aan bij de [webtoepassing](http://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
+1. Meld u aan bij de [webtoepassing](https://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
 
    ![](assets/one.png)
 
@@ -47,7 +47,7 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
 
 ## Abonnementsberichten voor uw team instellen {#set-unsubscribe-messaging-for-your-team}
 
-1. Meld u aan bij de [webtoepassing](http://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
+1. Meld u aan bij de [webtoepassing](https://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
 
    ![](assets/six.png)
 
@@ -62,4 +62,3 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
 1. Selecteer **Ik plaats het standaardoverseinen voor mijn team** om het overseinen op alle gebruikers van toepassing te hebben.
 
    ![](assets/eleven.png)
-
