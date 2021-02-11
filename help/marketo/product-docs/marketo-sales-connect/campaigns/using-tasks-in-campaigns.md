@@ -3,7 +3,7 @@ unique-page-id: 14352619
 description: Het gebruiken van Taken in Campagnes - Marketo Docs - de Documentatie van het Product
 title: Taken gebruiken in campagnes
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
