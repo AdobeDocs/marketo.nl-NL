@@ -3,9 +3,9 @@ unique-page-id: 14746188
 description: Abonnementen synchroniseren met Salesforce - Marketo Docs - Productdocumentatie
 title: Abonnementen synchroniseren met Salesforce
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Wanneer u de synchronisatie voor afmelden hebt ingeschakeld (stap 3 hieronder), 
 
 Gebruikers kunnen beslissen of ze hun afmeldingsgegevens willen synchroniseren met het standaardveld Afmelden via e-mail dat Marketo ook kan synchroniseren met, of ze kunnen synchroniseren met het veld Afmelden bij markt, zodat Afmelden bij verkoop en Afmelden bij marketing kunnen worden gedifferentieerd.
 
-1. Ga naar [webtoepassing](http://toutapp.com/login), klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Ga naar [webtoepassing](https://toutapp.com/login), klik op het tandwielpictogram en selecteer **Instellingen**.
 
    ![](assets/one-1.png)
 
@@ -47,8 +47,9 @@ Gebruikers kunnen beslissen of ze hun afmeldingsgegevens willen synchroniseren m
 
    ![](assets/4.png)
 
-   | **Sync to Salesforce Opt Out field** | Hiermee wordt het veld Salesforce Opt Out standaard alleen bijgewerkt. |
+   | Veld | Beschrijving |
    |---|---|
+   | **Sync to Salesforce Opt Out field** | Hiermee wordt het veld Salesforce Opt Out standaard alleen bijgewerkt. |
    | **Sync to Marketo Sales Opt Out field** | Als u verkoop en Marketing wilt scheiden unsubscribes, verkies deze optie om extra [van de Verkoop van de Marketo uit gebied bij te werken.](#msoo) |
 
 ## Het veld Weigeren installeren in de paginalayout {#installing-the-opt-out-field-in-the-page-layout}
@@ -57,7 +58,7 @@ Gebruikers kunnen beslissen of ze hun afmeldingsgegevens willen synchroniseren m
 
 Email Opt Out is een standaardveld in Salesforce dat beschikbaar is om te installeren vanaf Salesforce. U moet een Salesforce Admin zijn om het te installeren.
 
-1. Ga naar [Salesforce.com](http://Salesforce.com) en meld u aan.
+1. Ga naar [Salesforce.com](https://salesforce.com) en meld u aan.
 
    ![](assets/five-1.png)
 
