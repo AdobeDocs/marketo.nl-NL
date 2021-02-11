@@ -3,9 +3,9 @@ unique-page-id: 18317669
 description: Salesforce Sync Settings - Marketo Docs - Productdocumentatie
 title: Instellingen voor Salesforce Sync
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -86,12 +86,12 @@ Als Mijn e-mail naar Salesforce niet wordt weergegeven onder de instellingen, is
 >
 >U hebt beheerdersrechten nodig om dit in te stellen.
 
-1. Klik **Setup *.* **
-1. Klik **E-mailbeheer *.* **
-1. Klik **E-mailen naar Salesforce *.* **
+1. Klik **Setup**.
+1. Klik **E-mailbeheer**.
+1. Klik **E-mail aan Salesforce**.
 1. Klik **Bewerken**.
-1. Schakel het selectievakje naast &quot;Actief*&quot; in.*
-1. Klik **Opslaan ** **
+1. Schakel het selectievakje naast Actief in.
+1. Klik **Opslaan**.
 
 ## De Taken/Herinneringen van de Verkoop van de synchronisatie aan Taken Salesforce {#sync-sales-engage-tasks-reminders-to-salesforce-tasks}
 
@@ -114,4 +114,3 @@ Als Mijn e-mail naar Salesforce niet wordt weergegeven onder de instellingen, is
 1. Kies de gewenste optie (Synchroniseren met Salesforce-taken is standaard ingeschakeld).
 
    ![](assets/eight.png)
-
