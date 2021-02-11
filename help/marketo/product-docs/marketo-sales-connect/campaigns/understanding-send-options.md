@@ -3,7 +3,7 @@ unique-page-id: 14352621
 description: Begrijpen met verzendopties - Marketo Docs - Productdocumentatie
 title: Opties voor verzenden
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 0%
@@ -59,4 +59,3 @@ Een taak creëren; Ik stuur deze e-mail zelf
 Deze e-mail naar de vorige e-mail verzenden
 
 * Deze verzendoptie zal een &quot;follow-up&quot;aan uw vorige e-mail zijn en zal de vorige e-maillichaam aan de bodem van deze e-mail toevoegen.
-
