@@ -3,9 +3,9 @@ unique-page-id: 14746690
 description: Typen de Stap van de campagne - Marketo Docs - de Documentatie van het Product
 title: Typen campagneringstap
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Stel een nieuw e-mailbericht samen of gebruik een bestaande sjabloon.
 
 >[!TIP]
 >
->Leer de details over uw [verzendende opties](http://docs.marketo.com/x/7QDb).
+>Leer de details over uw [verzendende opties](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## {#call} aanroepen
 
@@ -50,4 +50,3 @@ Het volgen op veelvoudige kanalen is een uitstekende manier om met lood te verbi
 Gebruik aangepaste taken als de bovenstaande opties niet van toepassing zijn. U kunt bijvoorbeeld een collega uitnodigen om via e-mail een lead te volgen.
 
 ![](assets/custom.png)
-
