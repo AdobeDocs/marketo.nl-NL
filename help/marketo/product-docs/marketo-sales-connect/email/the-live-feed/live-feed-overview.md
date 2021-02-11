@@ -3,7 +3,7 @@ unique-page-id: 13796471
 description: Overzicht van Live Feed - Marketo Docs - Productdocumentatie
 title: Overzicht van Live feed
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -33,9 +33,6 @@ Personen met een blauwe lijn vertegenwoordigen de betrokkenheid met e-mails die 
 >
 >* Als uw ontvanger aan het draadloze netwerk voor een bedrijf het programma werd geopend dat zijn hoofdkwartier van IT in een andere stad of een land heeft, zouden wij die plaats eerder dan de huidige scène van de ontvanger registreren.
 >* Als uw e-mail door iemand in het gebied CC/BCC door:sturen of werd geopend, proberen wij om de plaats van die mensen nauwkeurig te tonen.
-
->
-
 
 
 ## Tabblad Taken {#tasks-tab}
@@ -106,4 +103,3 @@ Zie de bovenste mensen (geordend van het hoogste naar het laagste) op basis van 
 >[!NOTE]
 >
 >Als je ziet dat iemand je e-mailbericht steeds opnieuw in je Live feed weergeeft, kunnen ze het e-mailbericht doorsturen naar andere ontvangers. Dit is meestal het geval als u ziet dat de locatie voor deze weergaven verandert.
-
