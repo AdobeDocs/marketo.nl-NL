@@ -3,9 +3,9 @@ unique-page-id: 15368208
 description: Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren - Marketo Dos - de Documentatie van het Product
 title: Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Verkoop verbinden met uw Salesforce-sandbox](http://docs.marketo.com/x/DYDq)
+>[Verkoop verbinden met uw Salesforce-sandbox](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
 1. Klik in Sales Connect op het tandwielpictogram rechtsboven en selecteer **Instellingen**.
 
@@ -33,5 +33,4 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-   Ga vervolgens gewoon door met de stappen om de aanpassing te installeren zoals u zou doen op een gewone Salesforce-account. U kunt de markering van [deze video ](http://docs.marketo.com/display/DOCS/Quick+Start+Videos+and+Tutorials#QuickStartVideosandTutorials-InstallingCustomizationsinSalesforce) van één minuut overslaan voor meer informatie.
-
+   Ga vervolgens gewoon door met de stappen om de aanpassing te installeren zoals u zou doen op een gewone Salesforce-account.
