@@ -3,9 +3,9 @@ unique-page-id: 15368205
 description: Hoe te om Verkoop aan Uw zandbak van Salesforce aan te sluiten - Marketo DOS - de Documentatie van het Product
 title: Verkoopverbinding maken met uw Salesforce-sandbox
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Uw Sales Connect-account kan nog geen verbinding maken met Salesforce wanneer u een verbinding tot stand brengt met de sandbox. Als dit het geval is, [zorg ervoor u losmaakt](http://docs.marketo.com/x/FoDq) alvorens de stappen in dit artikel te volgen.
+>Uw Sales Connect-account kan nog geen verbinding maken met Salesforce wanneer u een verbinding tot stand brengt met de sandbox. Als dit het geval is, [zorg ervoor u losmaakt](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) alvorens de stappen in dit artikel te volgen.
 
 1. Klik in Sales Connect op het tandwielpictogram rechtsboven en selecteer **Instellingen**.
 
@@ -43,5 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren](http://docs.marketo.com/x/EIDq)
-
+>[Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
