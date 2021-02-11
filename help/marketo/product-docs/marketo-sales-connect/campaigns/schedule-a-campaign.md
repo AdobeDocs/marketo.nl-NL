@@ -3,7 +3,7 @@ unique-page-id: 14352612
 description: Een campagne plannen - Marketo Docs - Productdocumentatie
 title: Een campagne plannen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -23,4 +23,4 @@ Open Add aan de modaal van de Campagne, of door individuen, een groep, of gesele
 
 Nadat u **Volgende** klikt, kunt u voorproef eerste e-mail.
 
-Nadat u opnieuw op **Volgende **klikt, zult u aan een optie voor worden genomen wanneer u uw campagne uit wilt gaan. U kunt het nu laten beginnen, of een tijd voor later plannen om de campagne te beginnen.
+Nadat u nogmaals op **Volgende** hebt geklikt, gaat u naar een optie voor wanneer u uw campagne wilt laten uitvoeren. U kunt het nu laten beginnen, of een tijd voor later plannen om de campagne te beginnen.
