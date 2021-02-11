@@ -3,7 +3,7 @@ unique-page-id: 14352470
 description: Een Salesforce Priority Call-rapport maken met Sales Connect Data - Marketo Docs - Productdocumentatie
 title: Een Salesforce Priority Call-rapport maken met Connect-gegevens voor verkoop
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -20,4 +20,3 @@ Leer hoe u een Salesforce-rapport-/oproeplijst maakt met de gegevens over de ser
 1. Stel de filters in en kies een datumbereik.
 1. Sleep de gegevens van de Verkoop Connect in uw kolommen door &quot;Verkoop van de Marketo&quot;in het gebiedsonderzoek te typen. Zodra u de gegevens van de Verkoop Connect toevoegt, voeg een kolom voor Aantal van de Telefoon toe zodat kunt u actie op dit rapport voeren en het als vraaglijst gebruiken.
 1. Voer het rapport uit en sorteer het op Gebeurtenissen van Verbinding van de Verkoop volgde. Dit zal de mensen met de meeste activiteit op je e-mails opblazen. Zorg ervoor dat u de volgende stappen met deze topmensen hebt gepland of maak van hen een prioriteit die dag. Er is waarschijnlijk een dynamiek met een hoog aantal.
-
