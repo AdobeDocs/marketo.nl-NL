@@ -3,7 +3,7 @@ unique-page-id: 14352540
 description: Zelf weergaven voorkomen - Marketo Docs - Productdocumentatie
 title: Zelf weergaven voorkomen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te dow
 1. Klik onder Beveiliging op het keuzerondje **Nooit**.
 
    ![](assets/mac-3.png)
-
