@@ -3,9 +3,9 @@ unique-page-id: 14352416
 description: Overzicht van pagina Analytics - Marketo Docs - Productdocumentatie
 title: Overzicht van pagina Analytics
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ De pagina Analytics wordt om de tien minuten bijgewerkt.
 
 ## Wat betekenen de getallen? {#what-do-the-numbers-mean}
 
-De getallen in de `radials` berekenen het totale aantal gebeurtenissen op alle verzonden e-mails. Dus als een `single same email is viewed five times, it will add five views`op dit getal. Hetzelfde idee wordt toegepast op de klikken en antwoorden die binnen de cirkel worden geteld.
+De getallen binnen de radialen berekenen het totale aantal gebeurtenissen op alle verzonden e-mails. Als één e-mail vijf keer wordt weergegeven, worden er vijf weergaven aan dit nummer toegevoegd. Hetzelfde idee wordt toegepast op de klikken en antwoorden die binnen de cirkel worden geteld.
 
-Al onze status in `table` wordt berekend door de unieke weergaven, klikken en antwoorden op uw e-mails te bekijken. Als `one email is viewed five times, we will count that as one view.` dat is waarom u een groot verschil in de aantallen in de lijsten tegenover de aantallen in radiaal kunt zien.
+Alle stats die in de tabel staan, worden berekend door de unieke weergaven, klikken en antwoorden op uw e-mails te bekijken. Als één e-mail vijf keer wordt bekeken, tellen wij dat als één mening. Daarom kan je een groot verschil zien tussen de getallen in de tabellen en de getallen in het radiaal.
 
 ## Analytische tabs {#analytic-tabs}
 
@@ -45,6 +45,6 @@ Hier zie je statistieken en classificaties van je hele team. U kunt ook filteren
 
 Het tabblad Inhoud bevat stats over sjablonen, inhoud en koppelingen. U kunt filteren op iedereen of op teams die uw beheerders hebben gemaakt.
 
-Als u blauwe tekst ziet onder de onderwerpregel, betekent dit dat de sjabloon `shared` is. U kunt op de blauwe tekst klikken die naar die sjabloon moet worden doorgevoerd. Bekijk zijn gebruik door **Sjabloonanalyse** te klikken.
+Als u blauwe tekst ziet onder de onderwerpregel, betekent dit dat de sjabloon wordt gedeeld. U kunt op de blauwe tekst klikken die naar die sjabloon moet worden doorgevoerd. Bekijk zijn gebruik door **Sjabloonanalyse** te klikken.
 
 &quot;Klikken op inhoud&quot; worden geteld wanneer een ontvanger op een koppeling in uw e-mail klikt.
