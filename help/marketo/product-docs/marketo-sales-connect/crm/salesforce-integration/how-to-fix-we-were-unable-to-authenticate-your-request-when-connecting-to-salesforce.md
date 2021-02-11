@@ -3,7 +3,7 @@ unique-page-id: 14352484
 description: Hoe te om "wij konden niet uw verzoek"bevestigen wanneer het verbinden met Salesforce - Marketo Docs - de Documentatie van het Product bevestigen
 title: Hoe te om "Wij konden niet uw verzoek voor authentiek verklaren"wanneer het verbinden met Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -31,4 +31,3 @@ Als u het foutbericht &quot;We konden uw verzoek niet verifiëren&quot; ontvangt
 1. Selecteer **Apps beheren**.
 1. Selecteer **OAuth-gebruik van aangesloten apps**.
 1. Zorg ervoor dat in Sales Connect naast de optie Blok wordt weergegeven. Als u &quot;Unblock&quot; ziet, klikt u op de knop om de toegang van Sales Connect tot Salesforce te blokkeren.
-
