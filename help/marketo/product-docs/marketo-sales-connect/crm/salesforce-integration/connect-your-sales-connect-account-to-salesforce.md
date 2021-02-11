@@ -3,9 +3,9 @@ unique-page-id: 14352423
 description: Verbind Uw Verkoop Connect Rekening met Salesforce - Marketo Docs - de Documentatie van het Product
 title: Verbind Uw Verkoop Connect Rekening met Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -54,4 +54,3 @@ Voer de volgende eenvoudige stappen uit om Sales Connect te verbinden met Salesf
    ![](assets/four.png)
 
 1. Als u al bent aangemeld bij Salesforce, hebt u verbinding. Als u dat niet doet, wordt u gevraagd u aan te melden.
-
