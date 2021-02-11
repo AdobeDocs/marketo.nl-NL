@@ -3,9 +3,9 @@ unique-page-id: 14745793
 description: Aanpassingen voor verkoop Connect voor CRM - Marketo Docs - Productdocumentatie
 title: Aanpassingen voor verkoop Connect voor CRM
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '626'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aanpassingen voor verkoop Connect voor CRM {#sales-connect-customizations-for-crm}
 
-De onderstaande velden en knoppen worden gemaakt met de metagegevens-API in Salesforce CRM. Zodra de gebieden worden gecreeerd, moeten de beheerders de paginalay-outs in hun CRM vormen om hen bloot te stellen. Instructies vindt u [hier](http://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
+De onderstaande velden en knoppen worden gemaakt met de metagegevens-API in Salesforce CRM. Zodra de gebieden worden gecreeerd, moeten de beheerders de paginalay-outs in hun CRM vormen om hen bloot te stellen. Instructies vindt u [hier](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
 
 >[!NOTE]
 >
@@ -134,14 +134,8 @@ Marketo detecteert het maken van de nieuwe velden en voert vervolgens een eenmal
 
 ## Gebruikershandleidingen {#user-guides}
 
-[Aangepaste MSE-rapporten in Salesforce](http://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Aangepaste MSE-rapporten in Salesforce](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
 
-[MSE voor Salesforce](http://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[MSE voor Salesforce](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[MSE voor Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
-
-## Verwante video&#39;s {#related-videos}
-
-**Hoe u aanpassingen installeert in Salesforce**
-`<iframe width="630" height="470" src="//play.vidyard.com/YEPWYBfFEa4nKCo2F6bKKc.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>` ** Het voordeel van het gebruik van aanpassingen in Salesforce** 
-`<iframe width="630" height="470" src="//play.vidyard.com/4PzSDb6o8Qg8WbvBsq8wJD.html?v=3.1.1" frameborder="0" allowfullscreen></iframe>`
+[MSE voor Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
