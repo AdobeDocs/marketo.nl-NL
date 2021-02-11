@@ -3,7 +3,7 @@ unique-page-id: 14746177
 description: Abonnement opzeggen - Marketo Docs - Productdocumentatie
 title: Abonnement opzeggen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -27,7 +27,8 @@ Soms willen mensen ervoor kiezen om e-mails te ontvangen. Dit is hoe je afmeldin
 >
 >Als u synchronisatie hebt afgebroken, moet u het afmelden van ToutApp verwijderen en de optie om te weigeren in Salesforce uitschakelen, zodat de persoonrecord niet opnieuw kan worden gesynchroniseerd.
 
-1. Ga naar [webtoepassing](http://toutapp.com/login) en klik **Personen**.
+1. Ga naar [webtoepassing](https://toutapp.com/login) en klik **Personen**.
+
 1. Selecteer de persoon om de weergave van de persoondetails te openen.
 
    ![](assets/two.png)
@@ -39,4 +40,3 @@ Soms willen mensen ervoor kiezen om e-mails te ontvangen. Dit is hoe je afmeldin
 1. Selecteer de reden waarom de persoon weer wordt binnengeklikt om e-mails te ontvangen en klik vervolgens op **Abonnement verwijderen**.
 
    ![](assets/four.png)
-
