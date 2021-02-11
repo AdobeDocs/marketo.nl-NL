@@ -3,7 +3,7 @@ unique-page-id: 14352608
 description: Personen verwijderen uit een campagne - Marketo Docs - Productdocumentatie
 title: Personen uit een campagne verwijderen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -72,4 +72,3 @@ Bovendien kunt u personen uit de campagne zelf verwijderen, personen uit een cam
 1. Klik **Acties** en kies **Geselecteerde verwijderen uit campagne**.
 
    ![](assets/four-b.png)
-
