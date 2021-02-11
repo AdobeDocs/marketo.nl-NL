@@ -3,9 +3,9 @@ unique-page-id: 42762825
 description: Het gebruiken van Bulkacties in Salesforce Bliksem - Marketo Docs - de Documentatie van het Product
 title: Bulkhandelingen gebruiken in Salesforce Lightning
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 
 >[!PREREQUISITES]
 >
->Update naar de nieuwste versie van het Sales Connect-pakket en installeer de bulkactieknoppen in de weergave voor lead/contact. [Klik hier voor instructies](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
+>Update naar de nieuwste versie van het Sales Connect-pakket en installeer de bulkactieknoppen in de weergave voor lead/contact. [Klik hier voor instructies](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 
 >[!NOTE]
 >
@@ -84,10 +84,6 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 
 >[!MORELIKETHIS]
 >
->* [E-mailberichten verzenden via e-mail voor groep](http://docs.marketo.com/x/KAQ6Ag)
->* [Bulke-mails samenstellen met Selecteren en Verzenden](http://docs.marketo.com/display/public/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
-
->
-
-
+>* [E-mailberichten verzenden via e-mail voor groep](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
+>* [Bulke-mails samenstellen met Selecteren en Verzenden](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 
