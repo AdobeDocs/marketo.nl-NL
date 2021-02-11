@@ -3,9 +3,9 @@ unique-page-id: 14352538
 description: Test-e-mail niet weergegeven als weergegeven - Marketo Docs - Productdocumentatie
 title: E-mail testen niet weergegeven als weergegeven
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,8 @@ De reden? Sales Connect is slim en onze actieve gebruikers zullen het ons nooit 
 
 Zo ga je naar de enige plek waar we zelfcontrole laten zien.
 
-1. Ga naar [Command Center](http://toutapp.com/next#emails/command_center).
-1. Zoek het e-mailbericht dat u zelf hebt verzonden in de map Verzonden en selecteer het.
-1. Klik op de knop **Details**. Je zou je eigen standpunten moeten zien verschijnen.
+1. Ga naar [Command Center](https://toutapp.com/).
 
+1. Zoek het e-mailbericht dat u zelf hebt verzonden in de map Verzonden en selecteer het.
+
+1. Klik op de knop **Details**. Je zou je eigen standpunten moeten zien verschijnen.
