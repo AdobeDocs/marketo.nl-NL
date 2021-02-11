@@ -3,9 +3,9 @@ unique-page-id: 17728401
 description: Tabblad E-mailverbinding voor Gmail-gebruikers - Marketo Docs - Productdocumentatie
 title: Tabblad E-mailverbinding voor Gmail-gebruikers
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -51,5 +51,4 @@ Als u verbinding maakt met Gmail, ontvangt u het bijhouden van antwoorden, toega
 
    ![](assets/nine.png)
 
-   U kunt deze verbinding gebruiken om e-mails bij te houden en ook [als leveringskanaal](http://docs.marketo.com/display/public/DOCS/Setting+up+Your+Delivery+Channel#SettingupYourDeliveryChannel-Gmail).
-
+   U kunt deze verbinding gebruiken om e-mailberichten en ook als leveringskanaal bij te houden.
