@@ -3,7 +3,7 @@ unique-page-id: 37356587
 description: Voeg een bijlage of traceerbare inhoud toe aan uw e-mail - Marketo Docs - Productdocumentatie
 title: Een bijlage of traceerbare inhoud toevoegen aan uw e-mail
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -70,4 +70,3 @@ De bijlage wordt onder aan het e-mailbericht weergegeven.
    >[!NOTE]
    >
    >Gebruikers worden op de hoogte gesteld in Live feed wanneer mensen hun bijgehouden inhoud bekijken. Gebruikers kunnen ook de inhoud zien die het best wordt uitgevoerd in de inhoudsectie van de pagina Analytics.
-
