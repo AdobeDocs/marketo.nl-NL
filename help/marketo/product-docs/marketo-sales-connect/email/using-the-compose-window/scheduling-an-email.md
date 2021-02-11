@@ -3,9 +3,9 @@ unique-page-id: 37356568
 description: Een e-mail plannen - Marketo Docs - Productdocumentatie
 title: Een e-mail plannen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,4 @@ Volg deze eenvoudige stappen om een e-mail te plannen.
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Overzicht van Command Center](http://docs.marketo.com/x/kgDb)
-
+   >[Overzicht van Command Center](/help/marketo/product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
