@@ -3,9 +3,9 @@ unique-page-id: 14352476
 description: Veld voor activiteitstypen op taken (SFDC) - Marketo Docs - Productdocumentatie
 title: Veld voor activiteitstypen op taken (Activity Type Field on Tasks — SFDC)
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Met de hulp van Sales Connect kunt u uw e-mails en gesprekken laten registreren 
 * Verbinding met Salesforce
 * Er is geen standaardwaarde voor Standaardtype geselecteerd in de keuzelijst Taaktype
 * De vraag, het Antwoord, en E-mail moeten allen onder de picklist van het Type van Taak (kapitalisatiekwesties) bestaan
-* Geen `Workflows` of `Triggers` die actie ondernemen op de waarde van het gebied van het Type
+* Geen Workflows of Triggers die actie ondernemen op de waarde van het veld Type
 
 ## {#setup} instellen
 
 Controleer eerst of u de juiste waarden voor de keuzelijst hebt. U hebt de hulp van uw Admin van Salesforce nodig om om het even welke veranderingen in uw picklist aan te brengen.
 
-1. Navigeer naar [Salesforce.com](http://Salesforce.com) en klik op Setup in de rechterbovenhoek.
+1. Navigeer naar [Salesforce.com](https://salesforce.com) en klik op Setup in de rechterbovenhoek.
 1. Klik op Aanpassen.
 1. Klik op Activiteiten.
 1. Klik op Taakvelden.
