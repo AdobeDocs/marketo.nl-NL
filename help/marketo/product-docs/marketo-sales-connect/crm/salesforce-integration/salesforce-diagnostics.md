@@ -3,9 +3,9 @@ unique-page-id: 14745730
 description: Salesforce Diagnostics - Marketo Docs - Productdocumentatie
 title: Salesforce Diagnostics
 translation-type: tm+mt
-source-git-commit: 44ed91b485b52173922c709de63a4353e16c5072
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1427'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 **Categorie:** Overige\
 **Bericht:** kan niet verwijzen naar omgezette lead\
 **Wat gebeurt er:** We proberen ons te aanmelden bij een geconverteerde lead tijdens de meest recente activiteitenregistratie voor contactpersonen en leads. Ook een paar van deze voor toonhoogte.\
-**Stappen voor het oplossen van problemen:** Meld om het even welke instanties van dit aan ons  [ondersteuningsteam](http://nation.marketo.com/community/support_solutions).
+**Stappen voor het oplossen van problemen:** Meld om het even welke instanties van dit aan ons  [ondersteuningsteam](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 <br> 
 
@@ -65,7 +65,7 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 **Fout:** EXPIRED_ACCESS-
 **categorie:** verificatiebericht 
 **:** invalid_Grant: verlopen toegang/verfrist symbolische 
-**wat gebeurt:** de toegang of verfrist symbolische teken is verlopen. De tokens verlopen gebaseerd op [zittingsmontages in Salesforce](http://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
+**wat gebeurt:** de toegang of verfrist symbolische teken is verlopen. De tokens verlopen gebaseerd op [zittingsmontages in Salesforce](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via).
 **Stappen voor het oplossen van problemen:** U moet opnieuw verifiëren. Maak de verbinding met Salesforce los en maak opnieuw verbinding.
 
 <br> 
@@ -129,9 +129,9 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 <br> 
 
 **Fout:** INSUFFICIENT_ACCESS_OR_READONLY\
-**Categorie:** Toegang/Bevestiging*** 
-**Bericht:** ontoereikende toegangsrechten op objecten identiteitskaart** ** 
-**wat gebeurt:het** meest Recente registreren van de Activiteit kan niet het specifieke verslag uitgeven omdat de gebruiker geen schrijven-aan toegang heeft.\
+**Categorie:** Toegang/
+**Bericht van de Bevestiging:** ontoereikende toegangsrechten op objecten identiteitskaart 
+**wat gebeurt:Het** meest Recente registreren van de Activiteit kan niet het specifieke verslag uitgeven omdat de gebruiker geen schrijven-aan toegang heeft.\
 **Stappen voor het oplossen van problemen:** verstrek de gebruikerstoegang in Salesforce OF maak het Meest recente registreren van de Activiteit voor dat voorwerp voor die gebruiker onbruikbaar.
 
 **Fout:** INVALID_FIELD\
@@ -142,7 +142,7 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 
 **Fout:** INVALID_FIELD_FOR_INSERT_UPDATE\
 **Categorie:** Toegang/Validatie\
-**Bericht:** Kan geen velden maken/bijwerken: ToutApp__Tout_Last_Replied__c. Controleer de beveiligingsinstellingen van dit veld.\
+**Bericht:** Kan geen velden maken/bijwerken: ToutApp__Tout_Last_Replied__c. Controleer de beveiligingsinstellingen van dit veld.
 **Wat gebeurt er:** Gebruikers hebben geen schrijftoegang tot de aangepaste Tout-velden die nodig zijn om de meest recente transactie in het activiteitenlogbestand uit te voeren. Team heeft mogelijk pakket geïnstalleerd, maar heeft de juiste velden voor de gebruikers niet ingeschakeld.\
 **De Stappen van het oplossen van problemen:** Salesforce Admin moet toegang tot de douanevelden verlenen OF het Meest recente logboek van de Activiteit uitzetten.
 
@@ -154,8 +154,8 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 
 **Fout:** INVALID_TYPE\
 **Categorie:** Toegang/Validatie\
-**Bericht:** GemaaktDatum, (UITGEZOCHT identiteitskaart VAN Taken) VAN Lood WAAR E-mail=&#39;emailid&#39;^ERROR bij Rij:1:Kolom:53sObjecttype &quot;Lood&quot;wordt niet gesteund. Als u een aangepast object wilt gebruiken, moet u &#39;__c&#39; achter de naam van de entiteit plaatsen. Gelieve te verwijzen uw WSDL of beschrijf vraag naar de aangewezen namen\
-**Wat gebeurt er?** We proberen een objecttype van Salesforce te benaderen waartoe de gebruiker geen toegang heeft. Dit heeft waarschijnlijk te maken met het feit dat de gebruiker niet de juiste toegang heeft tot het object Lead.\
+**Bericht:** GemaaktDatum, (UITGEZOCHT identiteitskaart VAN Taken) VAN Lood WAAR E-mail=&#39;emailid&#39;^ERROR bij Rij:1:Kolom:53sObjecttype &quot;Lood&quot;wordt niet gesteund. Als u een aangepast object wilt gebruiken, moet u &#39;__c&#39; achter de naam van de entiteit plaatsen. Gelieve te verwijzen uw WSDL of beschrijf vraag naar de aangewezen namen
+**Wat gebeurt er?** We proberen een objecttype van Salesforce te vragen waartoe de gebruiker geen toegang heeft. Dit heeft waarschijnlijk te maken met het feit dat de gebruiker niet de juiste toegang heeft tot het object Lead.\
 **De Stappen van het oplossen van problemen:** Of verlenen Gelezen en Update toegang tot het voorwerp van de Lood in Salesforce, of zetten e-mailregistreren en het Meest Recente registreren van de Activiteit uit om verslagen te leiden.
 
 **Fout:** QUERY_TIMEOUT\
@@ -174,12 +174,12 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 1 - Gelijktijdige aanvraaglimiet is overschreden, waarschijnlijk als gevolg van inefficiënte triggercode.\
 2 - Te veel integraties zetten de org voorbij het rolvenster van 24 uur.\
 **Stappen voor het oplossen van problemen:**
-1 - herzie bestaande trekkers op de beïnvloede voorwerpen. U kunt roll-uplogboekregistratie voor een of meer objecten uitschakelen.\
+1 - controleer bestaande trekkers op de beïnvloede voorwerpen. U kunt roll-uplogboekregistratie voor een of meer objecten uitschakelen.\
 2 - Koop meer API-oproepen van Salesforce. U kunt roll-uplogboekregistratie voor een of meer objecten uitschakelen.
 
 **Fout:** REQUIRED_FIELD_MISSING\
 **Categorie:** Toegang/Validatie\
-**Bericht:** Vereiste velden ontbreken:  [Bedrag_vastgelegd_Private_Capital__c]\
+**Bericht:** Vereiste velden ontbreken:  `[Amount_Committed_Private_Capital__c]`
 **Wat gebeurt er?** Dit gebeurt gewoonlijk voor het meest recente activiteitenlogboek. Er zijn aangepaste velden ingesteld die verplicht zijn, maar er staan lege waarden in. Dit kan gebeuren als de record is gemaakt met een lege waarde van het aangepaste veld en vervolgens verplicht is gesteld. Vereiste wordt afgedwongen wanneer we proberen de record bij te werken, ook al raken we het aangepaste veld niet aan.\
 **Stappen voor het oplossen van problemen:** Werk manueel de waarden van de ontbrekende gebieden bij. U kunt het bericht vervolgens opnieuw proberen vanuit ToutApp.
 
@@ -191,8 +191,8 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 
 **Fout:** TXN_SECURITY_NO_ACCESS\
 **Categorie:** Toegang/Validatie\
-**Bericht:** de verrichting u vroeg wordt niet toegestaan toe te schrijven aan een veiligheidsbeleid in uw organisatie. Neem contact op met de beheerder.\
-**Wat gebeurt er?:** Er is een soort beveiligingsbeperking ingesteld - zie  `https://developer.salesforce.com/forums/?id="record` ID&quot;\
+**Bericht:** de verrichting u vroeg wordt niet toegestaan toe te schrijven aan een veiligheidsbeleid in uw organisatie. Neem contact op met de beheerder.<br/>
+**Wat gebeurt er?:** Er is een soort beveiligingsbeperking ingesteld - zie https://developer.salesforce.com/forums/?id=&quot;record-id&quot;\
 **Stappen van het oplossen van problemen:** Bespreek met uw Admin van Salesforce en zie wat de specifieke beperking zou kunnen zijn.
 
 **Fout:** UNABLE_TO_LOCK_ROW\
@@ -201,8 +201,8 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 **Wat gebeurt er?** Waarschijnlijk is er een trigger die meerdere pogingen tot toegang tot dezelfde record veroorzaakt, mogelijk in het geval van een groepse-mail.\
 **Stappen voor probleemoplossing:dit moet worden verwerkt door de logica** Opnieuw proberen. Als het nog niet werkt, werk met uw Admin van Salesforce om een problematische trekker problemen op te lossen.
 
-**Fout:** UNKNOWN_EXCEPTION\
-**Categorie:** Overige\
+**Fout:** UNKNOWN_EXCEPTION, 
+**categorie:** Overige\
 **Bericht:** onbekende uitzondering opgetreden\
 **Wat gebeurt er?:** Onverwerkte uitzondering in Salesforce.\
 **Stappen voor het oplossen van problemen:** Bestel een geval met Salesforce en kopieer de numerieke waarden in het foutenbericht. Dit is Salesforce-code die een fout niet correct afhandelt.
