@@ -3,9 +3,9 @@ unique-page-id: 37356578
 description: Bulke-mails samenstellen met Selecteren en verzenden - Marketo Docs - Productdocumentatie
 title: Bulke-mails samenstellen met Selecteren en Verzenden
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie S
 
    ![](assets/three-2.png)
 
-1. Voer een onderwerpregel in, selecteer een sjabloon (of stel de e-mail helemaal opnieuw samen) en verzend/ [planning](http://docs.marketo.com/x/GAQ6Ag)de e-mail.
+1. Voer een onderwerpregel in, selecteer een sjabloon (of stel de e-mail helemaal opnieuw samen) en verzend/[planning](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) de e-mail.
 
    ![](assets/four-2.png)
 
@@ -45,7 +45,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie S
 
 **Bulkbewerkingen**
 
-1. Voer stap 1-3 uit de sectie [E-mails verzenden](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails) uit.
+1. Voer stap 1-3 uit de sectie [E-mails verzenden](#sending-emails) uit.
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie S
    >
    >U kunt op een specifieke e-mailontvanger klikken om de wijzigingen te zien die aan die e-mail zijn doorgegeven.
 
-1. Klik **Verzenden** (of [Schema](http://docs.marketo.com/x/GAQ6Ag)) om de bulkmail-updates die u hebt aangebracht naar alle ontvangers te verzenden.
+1. Klik **Verzenden** (of [Schema](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) om de bulkmail-updates die u hebt aangebracht naar alle ontvangers te verzenden.
 
    ![](assets/bulk-four.png)
 
@@ -67,7 +67,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie S
 
 Voltooi Bulk Updates voordat u elke e-mail aanpast. Als u een bulkupdate aanbrengt, worden de wijzigingen in elke e-mail in het bulkcompositiezijpaneel overschreven.
 
-1. Volg stap 1-4 van de sectie [E-mails verzenden.](http://docs.marketo.com/display/DOCS/Composing+Bulk+Emails+with+Select+and+Send#ComposingBulkEmailswithSelectandSend-SendingEmails)
+1. Voer stap 1-4 uit de sectie [E-mails verzenden](#sending-emails) uit.
 
    >[!NOTE]
    >
@@ -89,17 +89,13 @@ Voltooi Bulk Updates voordat u elke e-mail aanpast. Als u een bulkupdate aanbren
    >
    >U kunt op andere ontvangers klikken om te zien dat de wijzigingen die u in de eerder geselecteerde ontvanger hebt aangebracht, niet zichtbaar zijn.
 
-1. Klik **Verzenden** (of [Schema](http://docs.marketo.com/x/GAQ6Ag)) om de bulkmail-updates die u hebt aangebracht naar alle ontvangers te verzenden.
+1. Klik **Verzenden** (of [Schema](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) om de bulkmail-updates die u hebt aangebracht naar alle ontvangers te verzenden.
 
    ![](assets/each-four.png)
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Opties voor bulkverzending](http://docs.marketo.com/x/HwQ6Ag)
-   >    * [Een sjabloon gebruiken in het venster Samenstellen](http://docs.marketo.com/x/MQQ6Ag)
-   >    * [Dynamische velden](http://docs.marketo.com/x/wwDb)
-
+   >* [Opties voor bulkverzending](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
+   >* [Een sjabloon gebruiken in het venster Samenstellen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [Dynamische velden](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
 
