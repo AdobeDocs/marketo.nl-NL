@@ -3,7 +3,7 @@ unique-page-id: 2359449
 description: Segmentregels definiëren - Marketo Docs - Productdocumentatie
 title: Segmentregels definiëren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -48,7 +48,7 @@ Door segmentregels te definiëren kunt u uw personen indelen in verschillende gr
    >**Diep duiken**
    >
    >
-   >Slimme lijsten zijn geweldig. Leer alles u met [Slimme Lijsten en Statische Lijsten](http://docs.marketo.com/display/docs/smart+lists+and+static+lists) kunt doen.
+   >Slimme lijsten zijn geweldig. Leer alles u met [Slimme Lijsten en Statische Lijsten](https://docs.marketo.com/display/docs/smart+lists+and+static+lists) kunt doen.
 
 1. Klik op het **tabblad Personen (Concept)** om de personen weer te geven die mogelijk in aanmerking komen om lid te zijn van dit segment.
 
@@ -63,7 +63,7 @@ Door segmentregels te definiëren kunt u uw personen indelen in verschillende gr
    >Het totale aantal segmenten dat u in een segmentatie kunt maken, is afhankelijk van het aantal en het type filters dat wordt gebruikt en ook van de complexiteit van de logica van de segmenten. Hoewel u tot 100 segmenten kunt tot stand brengen gebruikend standaardgebieden, kan het gebruiken van andere types van filters de ingewikkeldheid verhogen, en uw segmentatie zou kunnen niet goedkeuren. Enkele voorbeelden zijn: aangepaste velden, het lid van de lijst, de velden voor de eigenaar van leads en de inkomstenstadia.
    >
    >
-   >Als u een foutenmelding tijdens goedkeuring krijgt en hulp bij het verminderen van de ingewikkeldheid van uw segmentatie vereist, gelieve [Marketo Steun](http://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
+   >Als u een foutenmelding tijdens goedkeuring krijgt en hulp bij het verminderen van de ingewikkeldheid van uw segmentatie vereist, gelieve [Marketo Steun](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
 
 1. Bekijk het dashboard voor een snel overzicht van de segmenten in een cirkeldiagram en de toegepaste regels.
 
