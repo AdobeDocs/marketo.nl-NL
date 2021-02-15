@@ -3,7 +3,7 @@ unique-page-id: 10097199
 description: Opmerkingen bij de release - Winter '16 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -Winter '16
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -49,13 +49,13 @@ Als u deze functie wilt gebruiken, moet het e-mailprogramma minimaal 12 uur van 
 
 ## [Verbeteringen voor mobiele marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-ondersteuning:** We bieden nu PhoneGap-ondersteuning voor uw mobiele app. [Meer](http://developers.marketo.com/documentation/mobile/phonegap-plugin/) informatie.
+**PhoneGap-ondersteuning:** We bieden nu PhoneGap-ondersteuning voor uw mobiele app. [Meer](https://developers.marketo.com/documentation/mobile/phonegap-plugin/) informatie.
 
 **Ondersteuning voor Sandbox-apps**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [Program API](http://developers.marketo.com/documentation/programs/) {#program-api}
+## [Program API](https://developers.marketo.com/documentation/programs/) {#program-api}
 
 U kunt programma&#39;s maken, bijwerken en klonen via de REST API. Hieronder vallen niet het maken of bijwerken van slimme lijsten en slimme campagnes binnen een programma.
 
