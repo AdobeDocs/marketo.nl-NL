@@ -3,7 +3,7 @@ unique-page-id: 2953338
 description: Verstuur een E-mail van de Verkoop van de Marketo van de Dynamica van Microsoft - Marketo Docs - de Documentatie van het Product
 title: E-mail met marketinggegevens van Microsoft Dynamics verzenden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Uw verkoopteam kan e-mails verzenden en deze laten volgen voor openen en rechtst
 
    >[!TIP]
    >
-   >U kunt [e-mails publiceren als sjablonen](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) voor uw verkoopteam.
+   >U kunt [e-mails publiceren als sjablonen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) voor uw verkoopteam.
 
 1. Voeg een onderwerp toe, stel uw e-mail samen en klik **E-mail verzenden**. (Kies een sjabloon als u die nodig hebt.)
 
@@ -45,9 +45,4 @@ Echt waar! Nu weet u hoe u Marketo bijgehouden e-mails rechtstreeks vanuit Micro
 
 >[!MORELIKETHIS]
 >
->* [Voeg een Lood/Contact aan een Campagne van de Marketo van de Dynamiek van Microsoft toe](add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
-
->
-
-
-
+>[Voeg een Lood/Contact aan een Campagne van de Marketo van de Dynamiek van Microsoft toe](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
