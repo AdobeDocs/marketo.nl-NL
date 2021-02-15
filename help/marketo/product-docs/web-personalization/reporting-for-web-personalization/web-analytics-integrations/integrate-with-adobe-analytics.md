@@ -3,7 +3,7 @@ unique-page-id: 2949160
 description: Integreren met Adobe Analytics - Marketo Docs - Productdocumentatie
 title: Integreren met Adobe Analytics
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -64,8 +64,8 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
 
 1. Ga naar **Admin Tools** in uw AA-account.
 1. Selecteer **Rapportsuite** om te gebruiken met de integratie.
-1. Onder **Instellingen bewerken gaat** naar **Conversie** en selecteert ** [Conversievariabelen](http://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)*.\
-   Selecteer [Conversievariabele](http://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aantal (wij adviseren):
+1. Onder **Instellingen bewerken gaat** naar **Conversie** en selecteert ** [Conversievariabelen](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)*.\
+   Selecteer [Conversievariabele](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) aantal (wij adviseren):
 
    1. 
 
@@ -82,7 +82,7 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
 
          1. Wijzig Verlopen na veld in **Bezoek.**
 
-1. Onder **Instellingen bewerken **ga naar** Conversie **en selecteer ** [Gebeurtenissen met succes](http://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
+1. Onder **Instellingen bewerken **ga naar** Conversie **en selecteer ** [Gebeurtenissen met succes](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
 1. Selecteer het gebeurtenisnummer Aangepaste succesgebeurtenissen (aanbevolen):
 
@@ -97,7 +97,7 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
 
 1. Selecteer het veld Type* *om **Teller (geen subrelaties)** te zijn
 
-1. Onder **Instellingen bewerken** ga naar ** [Verkeer](http://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **en selecteer ** [Verkeersvariabelen](http://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
+1. Onder **Instellingen bewerken** ga naar ** [Verkeer](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable) **en selecteer ** [Verkeersvariabelen](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
    1. Selecteer het bezit van de Variabele van het Verkeer # (wij adviseren):
 
@@ -183,13 +183,13 @@ Voorbeelden van aangepaste rapporten en dashboards in AA zijn:
 
 **Het RTP-dashboard maken**
 
-Creeer een [nieuw dashboard](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), genoemd **RTP Dashboard**. Dit dashboard zal helpen de verdeling van uw bezoekers volgens verticals en segmenten begrijpen RTP.
+Creeer een [nieuw dashboard](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html), genoemd **RTP Dashboard**. Dit dashboard zal helpen de verdeling van uw bezoekers volgens verticals en segmenten begrijpen RTP.
 
 1. Klik op **Dashboard,** klik** Dashboard toevoegen**
 
 1. Geef het dashboard een naam **RTP-dashboard**
 1. Selecteer **dashboardgrootte** 3 x 2, 2 x 2
-1. Maak het [reportlet](http://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) en voeg [inhoud toe aan het dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
+1. Maak het [reportlet](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add_report.html#task_EC3AFBBAA51C45CEBAF632F841C305B3) en voeg [inhoud toe aan het dashboard](https://docs.marketo.com/Add%2520content%2520to%2520a%2520dashboard)
 
 Het rapport Industrieën toevoegen aan het dashboard
 
