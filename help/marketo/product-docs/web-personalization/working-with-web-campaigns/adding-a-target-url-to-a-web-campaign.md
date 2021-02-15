@@ -3,7 +3,7 @@ unique-page-id: 6094879
 description: Een doel-URL toevoegen aan een webcampagne - Marketo Docs - Productdocumentatie
 title: Een doel-URL toevoegen aan een webcampagne
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Als u op het plusteken (![—](assets/image2015-2-18-8-3a40-3a59.png)) klikt, wo
 >
 >
 >* Dialoog- en widgetwebcampagnes kunnen gebruikmaken van de opties Pagina en Jokerteken (*).
-* In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+* In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 * URL is hoofdlettergevoelig
 
 
@@ -75,7 +75,7 @@ Als u op het plusteken (![—](assets/image2015-2-18-8-3a40-3a59.png)) klikt, wo
 1. Voeg een** Campagne Naam** toe. Selecteer een **Doelsegment**. Voeg **Doel-URL** toe.
 
    >[!NOTE]
-   Doel-URL met In zones moet een specifieke URL of URL&#39;s definiëren. In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [www.marketo.com/software/personalization/*](http://www.marketo.com/software/personalization/*)
+   Doel-URL met In zones moet een specifieke URL of URL&#39;s definiëren. In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/personalization/*)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 
