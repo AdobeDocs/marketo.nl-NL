@@ -3,7 +3,7 @@ unique-page-id: 2360014
 description: Rapport over prestaties van mensen - Marketo Docs - Productdocumentatie
 title: Rapport over prestaties van mensen
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -41,12 +41,12 @@ U kunt:
 
 >[!TIP]
 >
->Vergeet niet dat rapporten eenvoudig zijn om [te maken](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [te configureren](http://docs.marketo.com/display/docs/basic+reporting) en [delete](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Ga door en speel met de vele manieren u hen kunt manipuleren, om de beste manieren te leren om zich op zeer belangrijke gegevens te concentreren.
+>Vergeet niet dat rapporten eenvoudig zijn om [te maken](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), [te configureren](https://docs.marketo.com/display/docs/basic+reporting) en [delete](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Ga door en speel met de vele manieren u hen kunt manipuleren, om de beste manieren te leren om zich op zeer belangrijke gegevens te concentreren.
 
 >[!NOTE]
 >
 >**Diep duiken**
 >
 >
->Leer meer in [Basisrapportering](http://docs.marketo.com/display/docs/basic+reporting)diepe duik.
+>Leer meer in [Basisrapportering](https://docs.marketo.com/display/docs/basic+reporting)diepe duik.
 
