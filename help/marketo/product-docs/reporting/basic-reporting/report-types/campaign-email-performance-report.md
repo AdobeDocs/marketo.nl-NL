@@ -3,7 +3,7 @@ unique-page-id: 2360188
 description: Campagne-e-mailprestatierapport - Marketo Docs - Productdocumentatie
 title: Rapport over e-mailprestaties voor campagne
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapport over e-mailprestaties campagne {#campaign-email-performance-report}
 
-Voer een rapport over de prestaties van een campagne-e-mail uit om uw e-mailprestatiestatistieken te bekijken die zijn gegroepeerd op [slimme campagne](http://docs.marketo.com/display/docs/smart+campaigns).
+Voer een rapport over de prestaties van een campagne-e-mail uit om uw e-mailprestatiestatistieken te bekijken die zijn gegroepeerd op [slimme campagne](https://docs.marketo.com/display/docs/smart+campaigns).
 
 1. [Maak een ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport en selecteer het  **type** [ Campagne-e-](report-type-overview.md)mailprestatierapport.
 1. [Stel het tijdkader van uw rapport in ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op het tabblad  **** Rapporten.
@@ -53,5 +53,5 @@ Voer een rapport over de prestaties van een campagne-e-mail uit om uw e-mailpres
    >**Diep duiken**
    >
    >
-   >Meer informatie vindt u in [Basisrapportage.](http://docs.marketo.com/display/docs/basic+reporting)
+   >Meer informatie vindt u in [Basisrapportage.](https://docs.marketo.com/display/docs/basic+reporting)
 
