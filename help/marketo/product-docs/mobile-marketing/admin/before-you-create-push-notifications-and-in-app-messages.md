@@ -3,7 +3,7 @@ unique-page-id: 11376159
 description: Voordat u pushmeldingen en in-app berichten maakt - Marketo Docs - Productdocumentatie
 title: Voordat u pushberichten en in-app-berichten maakt
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Het is niet moeilijk om pushmeldingen en in-app-berichten te maken, maar u moet 
 
 1. Eerst voegt Marketo Admin [een mobiele app toe](add-a-mobile-app.md)
 1. Marketo Admin verzendt dan [een codefragment naar de ontwikkelaar](send-sdk-code-to-a-developer.md)
-1. De ontwikkelaar downloadt de SDK en bevat fragmenten en andere methoden voor [Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) of [iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
+1. De ontwikkelaar downloadt de SDK en bevat fragmenten en andere methoden voor [Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/) of [iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 1. Standaard worden in-app berichten geactiveerd wanneer uw app wordt geopend. Als u berichten voor andere gebeurtenissen wilt teweegbrengen, zoals wanneer een bepaalde pagina wordt bekeken of een specifieke knoop wordt geduwd, moet de ontwikkelaar douanegebeurtenissen aan de code toevoegen (zie [Aangepaste Gebeurtenissen voor Berichten In-App ](#CustomEvents) hieronder)
-1. De ontwikkelaar [genereert de server-API-sleutel en het projectnummer voor Android](http://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) of [de certificering en het wachtwoord voor iOS](http://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/) en verzendt deze naar de Marketo-beheerder
+1. De ontwikkelaar [genereert de server-API-sleutel en het projectnummer voor Android](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-android/) of [de certificering en het wachtwoord voor iOS](https://developers.marketo.com/documentation/mobile/enabling-push-notifications-on-ios/) en verzendt deze naar de Marketo-beheerder
 1. De Marketo-beheerder configureert de toegang tot pushberichten [met de Server API-sleutel (Android)](configure-mobile-app-android-push-access.md) of [met het certificaat (iOS)](configure-mobile-app-ios-push-access.md)
 
 >[!TIP]
@@ -34,7 +34,7 @@ Nadat u al uw voorbereidingen voor in-app berichten en dupmeldingen hebt gedaan,
 
 >[!MORELIKETHIS]
 >
->* [Een bericht in de app maken](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Een bericht in de app maken](https://docs.marketo.com/display/docs/create+an+in-app+message)
    >
    >
 * [Een pushmelding maken](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
