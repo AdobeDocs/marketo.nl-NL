@@ -3,7 +3,7 @@ unique-page-id: 2951099
 description: Opmerkingen bij de release - april 2013 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -april 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: April 2013 {#release-notes-april}
 
-De volgende functies zijn opgenomen in de release van april. Controleer [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van april. Controleer [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
 
 Na de release moet u het tabblad [Nieuwe release](release-notes-december-2013.md) in de Gemeenschap uitchecken voor gedetailleerde artikelen in de Knowledge Base voor elke functie!
 
@@ -31,7 +31,7 @@ Als u Marketo Sales Insight en Gmail gebruikt, kunt u onze nieuwe Gmail-plug-in 
 
 ## E-mailanalyse {#email-analysis}
 
-Creeer geavanceerde e-mailrapporten in de Ontdekkingsreiziger van de Ontvangsten zoals het rapport van het Net van de Verwarming van de Activiteit van de Klik. Dit rapport geeft inzicht in de dag en tijd waarop mensen op links in je e-mails klikken.
+Creeer geavanceerde e-mailrapporten in de Ontdekkingsreiziger van de Ontvangsten zoals het rapport van het Net van de Verwarming van de Activiteit van de Klik. Dit rapport geeft inzicht in de dag en tijd waarop mensen op links in uw e-mails klikken.
 
 De e-mailanalyse-functie als geheel wordt tijdens de maanden april en mei in fasen ingeschakeld bij het migreren van uw e-mailgegevens voor 2012 en 2013. Met andere woorden, sommige klanten hebben eerder toegang tot deze functie dan andere.
 
