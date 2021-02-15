@@ -3,7 +3,7 @@ unique-page-id: 2360184
 description: Een campagneactiviteitenrapport filteren - Marketo Docs - Productdocumentatie
 title: Een campagneactiviteitenrapport filteren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een campagneactiviteitenrapport filteren {#filter-a-campaign-activity-report}
 
-Focus uw [Rapport Campagneactiviteit](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)op specifieke [slimme campagnes](http://docs.marketo.com/display/docs/smart+campaigns).
+Focus uw [Rapport Campagneactiviteit](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)op specifieke [slimme campagnes](https://docs.marketo.com/display/docs/smart+campaigns).
 
 1. Ga naar **Marketingactiviteiten** (of **Analytics**) en selecteer uw rapport van de campagneactiviteit.
 
@@ -47,5 +47,5 @@ Focus uw [Rapport Campagneactiviteit](../../../../product-docs/reporting/basic-r
 >
 >**Diep duiken**
 >
->Meer informatie over rapporten vindt u in [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
+>Meer informatie over rapporten vindt u in [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting).
 
