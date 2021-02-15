@@ -3,7 +3,7 @@ unique-page-id: 2949865
 description: Een gebeurtenis maken met Adobe Connect - Marketo Docs - Productdocumentatie
 title: Een gebeurtenis maken met Adobe Connect
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Door te synchroniseren met Adobe Connect kunt u uw webinar-registratie en -aanwe
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-Controleer eerst of u een vergadering of seminar in Adobe Connect hebt gemaakt. Raadpleeg voor hulp de [Adobe Connect User Guide](http://help.adobe.com/en_US/connect/9.0/using/index.html). De vergaderingen en seminars die u in Adobe Connect maakt, moeten worden gemaakt in de map die u hebt opgegeven bij het invoeren van uw referenties in Marketo. Nadat u uw vergadering of seminar hebt gemaakt, moet u alle relevante logistieke informatie (zoals het telefoonnummer) noteren die u in het bevestigingsbericht en het ICS-bestand kunt gebruiken.
+Controleer eerst of u een vergadering of seminar in Adobe Connect hebt gemaakt. Raadpleeg voor hulp de [Adobe Connect User Guide](https://help.adobe.com/en_US/connect/9.0/using/index.html). De vergaderingen en seminars die u in Adobe Connect maakt, moeten worden gemaakt in de map die u hebt opgegeven bij het invoeren van uw referenties in Marketo. Nadat u uw vergadering of seminar hebt gemaakt, moet u alle relevante logistieke informatie (zoals het telefoonnummer) noteren die u in het bevestigingsbericht en het ICS-bestand kunt gebruiken.
 
 >[!NOTE]
 >
