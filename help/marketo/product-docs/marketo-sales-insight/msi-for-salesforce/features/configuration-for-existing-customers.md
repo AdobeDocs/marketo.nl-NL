@@ -3,7 +3,7 @@ unique-page-id: 42762519
 description: Configuratie voor bestaande klanten - Marketo Docs - Productdocumentatie
 title: Configuratie voor bestaande klanten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -22,6 +22,7 @@ Stel de volgende configuratie in om te beginnen met het gebruik van het nieuwe d
 ## Het Inzicht van de Verkoop in Marketo {#configure-sales-insight-in-marketo} vormen
 
 1. Open een nieuw tabblad in uw browser om de gegevens van Marketo Sales Insights van uw Marketo-account op te halen.
+
 1. Ga naar **Admin** gebied.
 
    ![](assets/configure-1.png)
@@ -63,7 +64,7 @@ Stel de volgende configuratie in om te beginnen met het gebruik van het nieuwe d
 ## Access Marketo Sales Insight {#access-marketo-sales-insight}
 
 1. Kopieer de gegevens vanuit het venster Rest API in de pagina Sales Insight Admin van Marketo. Plak ze in de sectie Rest API in de pagina Configuration van het Inzicht van de Verkoop van Salesforce.
+
 1. Voer de geheime API-sleutel in.
 
    ![](assets/config.png)
-
