@@ -3,7 +3,7 @@ unique-page-id: 2359492
 description: Groepeer Persrapporten door Segment - Marketo Docs - Productdocumentatie
 title: Groepperingspersoonrapporten per segment
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Groepeer Personen rapporteren per segment {#group-person-reports-by-segment}
 
-U kunt uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reporting) door om het even welke [segment](http://docs.marketo.com/display/docs/basic+reporting) groeperen die u [in uw segmentaties](create-a-segmentation.md) hebt bepaald.
+U kunt uw [persoonrapporten](https://docs.marketo.com/display/docs/basic+reporting) door om het even welke [segment](https://docs.marketo.com/display/docs/basic+reporting) groeperen die u [in uw segmentaties](create-a-segmentation.md) hebt bepaald.
 
 1. Ga naar **Marketingactiviteiten** (of **Analytics**) sectie.
 
@@ -28,7 +28,7 @@ U kunt uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reportin
    >**Diep duiken**
    >
    >
-   >Leer meer over persoonrapporten en andere rapporttypes in [Basis Rapportering](http://docs.marketo.com/display/docs/basic+reporting) diep duik.
+   >Leer meer over persoonrapporten en andere rapporttypes in [Basis Rapportering](https://docs.marketo.com/display/docs/basic+reporting) diep duik.
 
 1. Klik **Opstelling** tabel en dubbelklik **Mensen groeperen door**.
 
@@ -36,7 +36,7 @@ U kunt uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reportin
 
    >[!NOTE]
    >
-   >U kunt uw persoonrapporten ook [groeperen door persoon of bedrijfattribuut](http://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute).
+   >U kunt uw persoonrapporten ook [groeperen door persoon of bedrijfattribuut](https://docs.marketo.com/display/DOCS/Group+Person+Reports+by+Attribute).
 
 1. In **Groepeer Mensen door** dialoog, begin &quot;Segmentatie&quot;in het tekstvakje te typen. Wanneer de koptekst **Segmentaties** wordt weergegeven, selecteert u een optie in de lijst onder de kop.
 
@@ -50,7 +50,7 @@ U kunt uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reportin
 >
 >**Diep duiken**
 >
->Voor meer informatie over segmenten en hoe te om hen tot stand te brengen en te leiden, zie [Segmentation](http://docs.marketo.com/display/docs/segmentation+and+snippets) diep duiken.
+>Voor meer informatie over segmenten en hoe te om hen tot stand te brengen en te leiden, zie [Segmentation](https://docs.marketo.com/display/docs/segmentation+and+snippets) diep duiken.
 
 >[!MORELIKETHIS]
 >
