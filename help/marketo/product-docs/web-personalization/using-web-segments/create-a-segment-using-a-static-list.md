@@ -3,7 +3,7 @@ unique-page-id: 13795536
 description: Een segment maken met een statische lijst - Marketo Docs - Productdocumentatie
 title: Een segment maken met een statische lijst
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een segment maken met een statische lijst {#create-a-segment-using-a-static-list}
 
-Een segment maken van bekende webbezoekers wanneer ze uw website bezoeken, op basis van de vraag of ze zich in een van uw Marketo [statische lijsten](http://docs.marketo.com/display/DOCS/Understanding+Static+Lists) bevinden.
+Een segment maken van bekende webbezoekers wanneer ze uw website bezoeken, op basis van de vraag of ze zich in een van uw Marketo [statische lijsten](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists) bevinden.
 
 1. Ga naar **Segmenten**.
 
