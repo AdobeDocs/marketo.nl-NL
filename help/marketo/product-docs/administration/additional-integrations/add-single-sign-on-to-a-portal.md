@@ -3,7 +3,7 @@ unique-page-id: 2360356
 description: Eén aanmelding toevoegen aan een portal - Marketo Docs - Productdocumentatie
 title: Eén aanmelding toevoegen aan een portal
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
@@ -30,9 +30,9 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 ## Hoe te om het Verzoek {#how-to-send-the-request} te verzenden
 
 * Verzend het verzoek SSO, dat een reactie van SAML is, naar `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Als Publiek URL van SP. [http://saml.marketo.com/sp](http://saml.marketo.com/sp) gebruiken
-* Als u het SPNameQualifier attribuut gebruikt, plaats het element NameID voor Onderwerp aan [http://saml.marketo.com/sp](http://saml.marketo.com/sp)
-* Als u veelvoudige abonnementen van de Marketo aan de zelfde leverancier SSO federaliseert, kunt u unieke URL van SP voor elke Marketo gebruiken sub met het formaat `http://saml.marketo.com/sp/<munchkin_id>`
+* Als Publiek URL van SP. [https://saml.marketo.com/sp](https://saml.marketo.com/sp) gebruiken
+* Als u het SPNameQualifier attribuut gebruikt, plaats het element NameID voor Onderwerp aan [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* Als u veelvoudige abonnementen van de Marketo aan de zelfde leverancier SSO federaliseert, kunt u unieke URL van SP voor elke Marketo gebruiken sub met het formaat `https://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
