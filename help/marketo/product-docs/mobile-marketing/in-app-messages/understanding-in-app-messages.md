@@ -3,7 +3,7 @@ unique-page-id: 10100397
 description: Begrijpen in-app berichten - Marketo Docs - Productdocumentatie
 title: In-app berichten begrijpen
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,18 +33,18 @@ De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen
 
 ## Stap 2: Een bericht in de app maken {#step-create-an-in-app-message}
 
-U [maakt een bericht in de app](http://docs.marketo.com/display/docs/create+an+in-app+message) met de online-editor.
+U [maakt een bericht in de app](https://docs.marketo.com/display/docs/create+an+in-app+message) met de online-editor.
 
 ## Stap 3: Verzenden! {#step-send}
 
-U creeert een programma aan [verzend het bericht](http://docs.marketo.com/display/docs/send+your+in-app+message).
+U creeert een programma aan [verzend het bericht](https://docs.marketo.com/display/docs/send+your+in-app+message).
 
 Je bent onderweg.
 
 >[!MORELIKETHIS]
 >
->* [Een bericht in de app maken](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Een bericht in de app maken](https://docs.marketo.com/display/docs/create+an+in-app+message)
    >
    >
-* [Uw bericht in de app verzenden](http://docs.marketo.com/display/docs/send+your+in-app+message)
+* [Uw bericht in de app verzenden](https://docs.marketo.com/display/docs/send+your+in-app+message)
 
