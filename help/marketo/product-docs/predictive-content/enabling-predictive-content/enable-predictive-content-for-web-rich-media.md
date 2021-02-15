@@ -3,7 +3,7 @@ unique-page-id: 7514956
 description: Voorspelende inhoud voor webrijke media - Marketo Docs - Productdocumentatie inschakelen
 title: Voorspelende inhoud voor web-rijke media inschakelen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Met voorspellende inhoud hebben uw webbezoekers de meest relevante inhoud, aange
 >
 >Voordat u voorspellende inhoud inschakelt, moet u:
 >
->* [Voorspelende inhoud voorbereiden](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Voorspelende inhoud voorbereiden](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Een titel voor preventieve inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 >
@@ -42,7 +42,7 @@ Nadat u de titel, beschrijving en afbeelding van de inhoud hebt voorbereid voor 
 
 ## Pas de Javascript-code aan en sluit deze in op uw website {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Raadpleeg de documentatie voor de sjabloon [Rich Media Recommendation op de site Marketo Developers.](http://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
+Raadpleeg de documentatie voor de sjabloon [Rich Media Recommendation op de site Marketo Developers.](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
 
 Plak de JavaScript-code in uw website op de locatie waar u de sjabloon wilt weergeven.
 
@@ -62,5 +62,5 @@ Hier is een voorbeeld van Rich Media Recommendation Template2:
 >[!MORELIKETHIS]
 >
 >* [De balk met aanbevelingen voor inhoud inschakelen](enable-the-content-recommendation-bar.md)
->* [Voorspelende inhoud in e-mails inschakelen](http://docs.marketo.com/x/vLit)
+>* [Voorspelende inhoud in e-mails inschakelen](https://docs.marketo.com/x/vLit)
 
