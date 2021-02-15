@@ -3,7 +3,7 @@ unique-page-id: 2359968
 description: Een rapporttijdkader wijzigen - Marketo Docs - Productdocumentatie
 title: Een rapporttijdframe wijzigen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -57,5 +57,5 @@ Wijzig de periode die door het rapport wordt bestreken, zodat u zich op een bepa
    >**Diep duiken**
    >
    >
-   >Voor meer manieren om rapporten te gebruiken, zie [Basis Rapportering](http://docs.marketo.com/display/docs/basic+reporting) diep duik.
+   >Voor meer manieren om rapporten te gebruiken, zie [Basis Rapportering](https://docs.marketo.com/display/docs/basic+reporting) diep duik.
 
