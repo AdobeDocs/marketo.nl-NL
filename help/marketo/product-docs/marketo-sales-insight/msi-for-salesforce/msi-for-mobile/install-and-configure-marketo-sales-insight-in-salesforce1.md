@@ -3,7 +3,7 @@ unique-page-id: 7511512
 description: Het Inzicht van de Verkoop van de Marketo in Salesforce1 - Marketo Docs - de Documentatie van het Product installeren en vormen
 title: Het Inzicht van de Verkoop van de Marketo installeren en vormen in Salesforce1
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Herinnering**
 >
->Bestaande klanten, [Upgrade uw MSI-pakket](http://docs.marketo.com/x/_gU6Ag) voordat u verdergaat!
+>Bestaande klanten, [Upgrade uw MSI-pakket](https://docs.marketo.com/x/_gU6Ag) voordat u verdergaat!
 
 >[!PREREQUISITES]
 >
