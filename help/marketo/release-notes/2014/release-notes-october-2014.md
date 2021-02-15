@@ -3,7 +3,7 @@ unique-page-id: 2953334
 description: Opmerkingen bij de release - Oktober 2014 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - oktober 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Gebruik de API om nieuwe activiteiten of wijzigingen aan leads aan te brengen:
 * Activiteitstypen ophalen
 * Paginasken ophalen
 
-Alle details zijn beschikbaar na de release op [developers.marketo.com](http://developers.marketo.com/documentation/rest/).
+Alle details zijn beschikbaar na de release op [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 ## MSI - E-mail verzenden voor Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,5 +70,5 @@ Gebruik een nieuwe vraag die de geschiedenis van het bezoek van de bezoeker volg
 * Producten die geïnteresseerd zijn in
 * Welke campagnes RTP hebben gezien
 
-Bezoek [developers.marketo.com](http://developers.marketo.com/documentation/websites/rtp-js-api/) voor meer informatie.
+Bezoek [developers.marketo.com](https://developers.marketo.com/documentation/websites/rtp-js-api/) voor meer informatie.
 
