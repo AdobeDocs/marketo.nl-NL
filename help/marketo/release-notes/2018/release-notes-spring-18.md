@@ -3,7 +3,7 @@ unique-page-id: 14745959
 description: Opmerkingen bij de release - lente 18 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - lente '18
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -81,12 +81,12 @@ Stel het doel van het optimalisatiealgoritme Inhoud<sup>AI</sup> in om meer weer
 
 Verzend systeemmeldingen en interessante momenten naar Facebook Workplace.
 
-[Statische lijst-API&#39;s](http://developers.marketo.com/rest-api/assets/static-lists/)
+[Statische lijst-API&#39;s](https://developers.marketo.com/rest-api/assets/static-lists/)
 
 Beheer lijsten tussen Marketo en andere systemen gemakkelijker met nieuwe bidirectionele APIs voor het creëren van, het lezen van, het bijwerken van, en het schrappen van statische lijsten ver zonder enige actie in Marketo UI te ondernemen.
 
 ## Verbeteringen op gebied van privacy {#privacy-enhancements}
 
-[Privacy voor webtracering](http://developers.marketo.com/javascript-api/lead-tracking/)
+[Privacy voor webtracering](https://developers.marketo.com/javascript-api/lead-tracking/)
 
 Verbeterde Munchkin-tracking voldoet aan de lokale en internationale privacyregels door de IP-adressen van webbezoekers te anonimiseren en hen in staat te stellen zich permanent af te melden voor webtracering.
