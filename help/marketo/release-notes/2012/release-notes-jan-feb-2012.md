@@ -3,7 +3,7 @@ unique-page-id: 2951124
 description: Opmerkingen bij de release - jan/feb 2012 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - jan/feb 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -19,7 +19,7 @@ De volgende functies zijn opgenomen in de jan/feb-release. Controleer uw uitgave
 >
 >**Diep duiken**
 >
->Voor andere versies, zie [Nota&#39;s van de Versie](http://docs.marketo.com/display/docs/release+notes) diepe duik.
+>Voor andere versies, zie [Nota&#39;s van de Versie](https://docs.marketo.com/display/docs/release+notes) diepe duik.
 
 ## Geavanceerde dynamische inhoud {#advanced-dynamic-content}
 
