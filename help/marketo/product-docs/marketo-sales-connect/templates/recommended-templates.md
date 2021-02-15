@@ -3,9 +3,9 @@ unique-page-id: 14352510
 description: Aanbevolen sjablonen - Marketo Docs - Productdocumentatie
 title: Aanbevolen sjablonen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,9 @@ ht-degree: 0%
 Met de aanbevolen sjablonen van Sales Connect krijgt u de juiste boodschap en bespaart u tijd. Dit geeft u meer stroom bij het verzenden van e-mails en vermindert de onzekerheid bij het zoeken naar de juiste e-mail voor de juiste persoon.
 
 1. Ga naar het tabblad Sjablonen.
+
 1. Selecteer de sjabloon die u wilt aanbevelen en klik op **Bewerken**.
+
 1. Om de Aanbevolen functionaliteit van het Malplaatje op uw malplaatjecontrole **Auto-Suggest dit malplaatje wanneer** toe te laten.
 
 ## Alle vs. elke {#all-vs-any}
@@ -25,7 +27,7 @@ Het is nu tijd om de criteria te selecteren. Selecteer **Alle** als u uw malplaa
 
 ## Criteria instellen {#setting-criteria}
 
-Aan de hand van uw criteria stelt u de voorwaarden in waarvoor sjablonen worden aanbevolen. U kunt maximaal drie criteria instellen. Selecteer eerst de [Dynamische velden](https://nation.marketo.com/hc/en-us/articles/203348440-What-Are-Dynamic-Fields-) waarop u in uw sjabloon wilt wijzen.
+Aan de hand van uw criteria stelt u de voorwaarden in waarvoor sjablonen worden aanbevolen. U kunt maximaal drie criteria instellen. Selecteer eerst de dynamische velden waarop u wilt wijzen in de sjabloon.
 
 ## Voorwaarden {#conditions}
 
@@ -41,6 +43,6 @@ Selecteer nu uw voorwaarde. Als aan uw voorwaarden voor het dynamische veld is v
 
 ## Hoe ziet een aanbevolen sjabloon eruit als {#what-a-recommended-template-looks-like}
 
-Sla de sjabloon op nu de criteria zijn ingesteld. Vanaf hier werkt Sales Connect aan zijn magie om de beste sjablonen voor u te presenteren.\
-Nu u uw eerste sjabloon hebt toegewezen, is het tijd om de rest in kaart te brengen. Doorloop je meest succesvolle templates en beveel deze aan. Vergeet niet de sjabloon ook met uw team te delen. Uw aanbevolen instellingen voor sjablonen worden ook door uw team gedeeld.
+Sla de sjabloon op nu de criteria zijn ingesteld. Vanaf hier werkt Sales Connect aan zijn magie om de beste sjablonen voor u te presenteren.
 
+Nu u uw eerste sjabloon hebt toegewezen, is het tijd om de rest in kaart te brengen. Doorloop je meest succesvolle templates en beveel deze aan. Vergeet niet de sjabloon ook met uw team te delen. Uw aanbevolen instellingen voor sjablonen worden ook door uw team gedeeld.
