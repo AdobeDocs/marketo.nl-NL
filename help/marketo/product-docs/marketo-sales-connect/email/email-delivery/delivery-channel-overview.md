@@ -3,7 +3,7 @@ unique-page-id: 14352407
 description: Overzicht van het leveringskanaal - Marketo Docs - Productdocumentatie
 title: Overzicht van leveringskanaal
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -47,4 +47,4 @@ In de webtoepassing wordt uw identiteit weergegeven zoals u deze hebt gemaakt (h
 
 ## Aangepaste SMTP-server {#custom-smtp-server}
 
-Betaal voor je eigen server? Een Microsoft Exchange-omgeving gebruiken? Dit is een optie voor u. Raadpleeg [deze instructies](http://docs.marketo.com/x/zYTS) bij het starten. Net als Gmail-servers kunnen we, aangezien Sales Connect uw server niet rechtstreeks beheert, geen teruggestuurde e-mailgebeurtenissen opnemen in de webtoepassing.
+Betaal voor je eigen server? Een Microsoft Exchange-omgeving gebruiken? Dit is een optie voor u. Raadpleeg [deze instructies](https://docs.marketo.com/x/zYTS) bij het starten. Net als Gmail-servers kunnen we, aangezien Sales Connect uw server niet rechtstreeks beheert, geen teruggestuurde e-mailgebeurtenissen opnemen in de webtoepassing.
