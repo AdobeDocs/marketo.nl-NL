@@ -3,7 +3,7 @@ unique-page-id: 4720108
 description: De balk met aanbevelingen voor inhoud - Marketo Docs - Productdocumentatie inschakelen
 title: De balk met aanbevelingen voor inhoud inschakelen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -19,7 +19,7 @@ De Content Recommendation Engine maakt gebruik van voorspellende analytische alg
 >
 >Voordat u voorspellende inhoud inschakelt, moet u:
 >
->* [Voorspelende inhoud voorbereiden](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Voorspelende inhoud voorbereiden](https://docs.marketo.com/display/docs/edit+predictive+content)
 >* [Een titel voor preventieve inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -46,7 +46,7 @@ De Content Recommendation Engine maakt gebruik van voorspellende analytische alg
    >**Weergave-URL opnemen/uitsluiten**
    >
    >    * De weergave-URL moet het pad van het domein zijn
-   >    * Geen http:// of https:// opnemen
+   >    * Geen https:// of https:// opnemen
    >    * Gebruik * voor jokertekens
    * Een puntkomma als scheidingsteken gebruiken
    * Voorbeeld: /contact_us*; *action=logout*
