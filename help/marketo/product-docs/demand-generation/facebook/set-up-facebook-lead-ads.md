@@ -3,7 +3,7 @@ unique-page-id: 11379622
 description: Advertenties voor Facebook-leads instellen - Marketo Docs - Productdocumentatie
 title: Advertenties voor Facebook-leads instellen
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Gebruik [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) om adv
 
    ![](assets/image2016-11-29-10-3a51-3a47.png)
 
-1. Open een nieuw tabblad in dezelfde browser en ga naar [facebook.com](http://www.facebook.com). Meld u aan bij Facebook met het account dat u voor de integratie wilt gebruiken.
+1. Open een nieuw tabblad in dezelfde browser en ga naar [facebook.com](https://www.facebook.com). Meld u aan bij Facebook met het account dat u voor de integratie wilt gebruiken.
 
    >[!NOTE]
    >
