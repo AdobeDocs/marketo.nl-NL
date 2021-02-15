@@ -3,7 +3,7 @@ unique-page-id: 2360012
 description: Rapport Personen op status - Marketo Docs - Productdocumentatie
 title: Rapport Personen per status
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -38,5 +38,5 @@ Controleer hoe goed u mensen door het proces beweegt door te controleren hoeveel
    >**Diep duiken**
    >
    >
-   >Leer hoe te om kolommen en meer in [Basis toe te voegen meldt](http://docs.marketo.com/display/docs/basic+reporting) diep duik.
+   >Leer hoe te om kolommen en meer in [Basis toe te voegen meldt](https://docs.marketo.com/display/docs/basic+reporting) diep duik.
 
