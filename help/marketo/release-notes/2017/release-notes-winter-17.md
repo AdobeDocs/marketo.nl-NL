@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: Opmerkingen bij de release - Winter '17 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - Winter '17
 translation-type: tm+mt
-source-git-commit: 8c4f0985e11ed85a9f696ac2ff89c089aa9184c3
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Bij Standaard afstemmen worden alleen e-mailadressen gebruikt, maar bij nieuwe g
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API voor importeren van aangepaste objecten](http://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [API voor importeren van aangepaste objecten](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 Deze API biedt een snellere interface voor het synchroniseren van aangepaste objecten in Marketo. U kunt CSV-, TSV- of SSV-spreadsheetbestanden als aangepaste objecten importeren in Marketo.
 
@@ -37,7 +37,7 @@ Exporteer alle details en analyses van uw webcampagne in CSV-indeling. Vervolgen
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [Lokalisatie](http://docs.marketo.com/display/docs/web+personalization) {#localization}
+## [Lokalisatie](https://docs.marketo.com/display/docs/web+personalization) {#localization}
 
 De apps Web Personalization, Predictive Content en Email Insights zijn nu beschikbaar in het Japans, Duits en Spaans. U [selecteert uw taal en landinstelling](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) om uw inhoud in deze talen weer te geven.
 
@@ -71,7 +71,7 @@ Analyses van voorspellende inhoud filteren voor specifieke bronnen — E-mail, R
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Redacteur voor voorspellende inhoud](http://docs.marketo.com/display/docs/edit+predictive+content)**
+**[Redacteur voor voorspellende inhoud](https://docs.marketo.com/display/docs/edit+predictive+content)**
 
 Er is een verbeterde bewerkingservaring en lay-out waarmee de voorbereiding van inhoud wordt gesplitst naar bron — E-mail, Rijke media of Aanbevelingenbalk.
 
@@ -81,7 +81,7 @@ Er is een verbeterde bewerkingservaring en lay-out waarmee de voorbereiding van 
 
 URL en metagegevens van afbeeldingen worden nu gebruikt in het proces voor automatische detectie van inhoud.
 
-## [Verbeteringen voor SDK](http://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [Verbeteringen voor SDK](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 Ontwikkelaars hebben nu extra controle over de levering van pushberichten met toevoeging van een nieuwe SDK API-aanroep waarmee ontwikkelaars pushtokens kunnen verwijderen.
 
