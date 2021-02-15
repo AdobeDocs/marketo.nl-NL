@@ -3,7 +3,7 @@ unique-page-id: 2359971
 description: Rapport over de activiteiten op de webpagina - Marketo Docs - Productdocumentatie
 title: Rapport over activiteiten op webpagina
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -94,4 +94,4 @@ U kunt ervoor kiezen om bekende personen of anonieme personen weer te geven, maa
 >
 >**Diep duiken**
 >
->Meer informatie over andere interessante rapporten vindt u in [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
+>Meer informatie over andere interessante rapporten vindt u in [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting).
