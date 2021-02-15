@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst
 translation-type: tm+mt
-source-git-commit: 29eb4c833c128c37849260f0c554144c237ab28e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -106,11 +106,11 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
    <td colspan="1">Een puntwaarde die aan een persoon wordt toegewezen op basis van zijn handelingen/gedrag (bijvoorbeeld een webpagina bezoeken, op een koppeling in een e-mail klikken, een formulier invullen, enz.). Meestal gebruikt om de interesse van een persoon in uw product of bedrijf te meten.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Lijst van afgewezen personen</strong></td> 
+   <td colspan="1"><strong>Lijst van gewezen personen</strong></td> 
    <td colspan="1">Een lijst van IP adressen of domeinen verbonden aan het verzenden <strong>spam</strong>.</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" rel="nofollow"><strong>Toegevoegd op lijst van gewenste personen</strong></a></td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" rel="nofollow"><strong>Gevoegd op lijst van gewenste personen</strong></a></td> 
    <td> Een veld voor een Marketo-persoon die u niet uw marketingmateriaal wilt ontvangen (bijvoorbeeld een concurrent). Wanneer u het Op de lijst met ongewenste personen staan veld instelt op true, ontvangt de persoon geen e-mails van uw Marketo-exemplaar, inclusief operationele e-mails.</td> 
   </tr> 
   <tr> 
@@ -125,7 +125,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
 
 >[!NOTE]
 >
->Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van afgewezen personen en Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
+>Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van gewezen personen en Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
 
 ## C {#c}
 
@@ -446,7 +446,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  </tbody> 
 </table>
 
-## I {#k}
+## K {#k}
 
 <table> 
  <colgroup> 
@@ -456,7 +456,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Bekende persoon</strong></a></td> 
-   <td><p>Om het even welke persoongegevens in Marketo <strong>database</strong> wordt beschouwd als bekende persoongegevens. Er zijn verschillende manieren waarop iemand uw database kan invoeren, zoals: CRM-synchronisatie, een formulier invullen, een lijst importeren/handmatig invoeren, programmatisch (rest-API/partnerintegratie) en meer. Webbezoekers worden aanvankelijk <strong>gekookt</strong> (en zijn anoniem) via het web-tracking van Marketo <strong>Munchkin</strong> en worden vervolgens toegewezen aan de overeenkomstige bekende persoonrecord wanneer identificeerbare actie plaatsvindt (klik bijvoorbeeld op een bijgehouden koppeling in een e-mailbericht Marketo, vul een formulier in met hun e-mailadres of gebruik handmatig via de koppeling Marketo API's voor leads in zowel <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> als <a href="http://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociatedLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Om het even welke persoongegevens in Marketo <strong>database</strong> wordt beschouwd als bekende persoongegevens. Er zijn verschillende manieren waarop iemand uw database kan invoeren, zoals: CRM-synchronisatie, een formulier invullen, een lijst importeren/handmatig invoeren, programmatisch (rest-API/partnerintegratie) en meer. Webbezoekers worden aanvankelijk <strong>gekookt</strong> (en zijn anoniem) via het web-tracking van Marketo <strong>Munchkin</strong> en worden vervolgens toegewezen aan de overeenkomstige bekende persoonrecord wanneer identificeerbare actie plaatsvindt (klik bijvoorbeeld op een bijgehouden koppeling in een e-mailbericht Marketo, vul een formulier in met hun e-mailadres of gebruik handmatig via de koppeling Marketo API's voor leads in zowel <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> als <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociatedLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -555,7 +555,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
    <td>Ook bekend als MSD. Één van de twee Marketo van CRMs heeft een inheemse integratie met (zie <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="http://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://developers.marketo.com/javascript-api/lead-tracking/" rel="nofollow">Munchkin</a></strong></td> 
    <td>Aangepaste JavaScript-trackingcode van Marketo. Het volgt alle personen die uw website bezoeken. Dit omvat anonieme bezoekers (samen met hun IP adressen en andere informatie). </td> 
   </tr> 
   <tr> 
@@ -759,7 +759,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
    <td colspan="1"><p>Een verificatiemechanisme dat aangeeft welke e-mailservers e-mailberichten voor een bepaald domein mogen verzenden.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="http://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Slimme campagne</strong></a></td> 
+   <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Slimme campagne</strong></a></td> 
    <td colspan="1">Een van de belangrijkste instrumenten in Marketo. Ze voeren handelingen uit die u aanwijst op basis van criteria die u bepaalt. (zie ook <strong><a href="#b">Batchcampagne</a></strong> en <strong><a href="#t">Triggercampagne</a></strong>)</td> 
   </tr> 
   <tr> 
