@@ -3,9 +3,9 @@ unique-page-id: 14352516
 description: Contacten maken en verwijderen - Marketo Docs - Productdocumentatie
 title: Contactpersonen maken en verwijderen
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Wilt u meerdere contactpersonen tegelijk toevoegen? [Klik ](http://docs.marketo.com/x/VADb) hier om te leren hoe u contactpersonen kunt importeren via CSV.
+   >Wilt u meerdere contactpersonen tegelijk toevoegen? [Klik ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) hier om te leren hoe u contactpersonen kunt importeren via CSV.
 
 ## Contactpersonen {#deleting-contacts} verwijderen
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >Om veelvoudige contacten te schrappen, selecteer eenvoudig veelvoudige mensen. De overige stappen zouden hetzelfde zijn.
 
-1. Klik op de gegevens (drie verticale stippen) en selecteer Verwijderen.
+1. Klik op de gegevens (drie verticale punten) en selecteer **Delete**.
 
    ![](assets/four-2.png)
 
-1. Klik op Contactpersoon verwijderen om te bevestigen.
+1. Klik **Contactpersoon verwijderen** om te bevestigen.
 
    ![](assets/five-2.png)
