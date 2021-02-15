@@ -3,9 +3,9 @@ unique-page-id: 2953373
 description: Abonnement op voetteksten opzeggen in Marktverkoopinzicht - Marketo Docs - Productdocumentatie configureren
 title: Abonnement op voetteksten opzeggen in Marktverkoopoverzicht configureren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ E-mails over verkopen plaatsen automatisch de voettekst voor het afmelden van ab
 >
 >**Definitie**
 >
->**Verkoop** e-mails zijn de e-mails die vanuit Sales Insight worden verzonden. (Het omvat niet die verzonden van de Insteekmodule van Vooruitzichten van de Marketo.)
+>**De e-** mails van de verkoop zijn die die van het Inzicht van de Verkoop worden verzonden (het omvat niet die verzonden van de Insteekmodule van Vooruitzichten van de Marketo).
 
 1. Ga naar **Admin** gebied.
 
    ![](assets/one-1.png)
 
-1. Klik **het Inzicht van de Verkoop, **dan **geef Montages** uit.
+1. Klik **Sales Insight**, dan **Edit Settings**.
 
    ![](assets/two-1.png)
 
@@ -37,20 +37,19 @@ E-mails over verkopen plaatsen automatisch de voettekst voor het afmelden van ab
 
    ![](assets/three-1.png)
 
-   * **Geen sjabloon **- Handmatig samengesteld door verkoopgebruiker.
+   * **Geen sjabloon**  - Handmatig samengesteld door verkoopgebruiker.
    * **Standaard-e-mail**  - E-mails op basis van een sjabloon.
-   * **Operationele e-mail**  - e-mails die Unsubscribed, Marketing Suspended, en Communicatie Limieten negeren (zij verzenden geen kwestie wat).
+   * **Operationele e-mail**  - e-mails die Geabonneerde, Verpakte Verkoop, en Communicatie Limieten negeren (zij verzenden geen kwestie wat).
 
    U kunt voor elk type een ander gedrag instellen.
 
    >[!CAUTION]
    >
-   >**Abonnementsinstellingen respecteren: **niet-geabonneerde leads ontvangen de e-mail NIET, zelfs niet als de gepubliceerde e-mail &quot;operationeel&quot; is
+   >**Abonnementsinstellingen** respecteren: niet-geabonneerde leads ontvangen de e-mail NIET, zelfs niet als de gepubliceerde e-mail &quot;operationeel&quot; is
    >
-   >
-   >**Abonnementsinstellingen negeren:** niet-geabonneerde leads ontvangen het e-mailbericht
+   >**Abonnementsinstellingen** negeren: niet-geabonneerde leads WILL ontvangen de e-mail
 
-   Breng de gewenste wijzigingen aan en klik op Opslaan.
+1. Breng de gewenste wijzigingen aan en klik op **Opslaan**.
 
    >[!TIP]
    >
@@ -59,10 +58,3 @@ E-mails over verkopen plaatsen automatisch de voettekst voor het afmelden van ab
    ![](assets/four-1.png)
 
 Waar! Een beetje gecompliceerd, maar behoorlijk flexibel, toch?
-
->[!NOTE]
->
->**Diep duiken**
->
->Meer informatie over [Marketo Sales Insight](http://docs.marketo.com/display/docs/marketo+sales+insight).
-
