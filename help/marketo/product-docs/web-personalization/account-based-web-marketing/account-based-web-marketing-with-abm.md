@@ -3,7 +3,7 @@ unique-page-id: 11381689
 description: Op account gebaseerde webmarketing met ABM - Marketo Docs - Productdocumentatie
 title: Account-based Web Marketing met ABM
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Account-based Web Marketing met ABM {#account-based-web-marketing-with-abm}
 
-Marketo heeft een nieuwe [Account Based Marketing](http://docs.marketo.com/display/docs/account+based+marketing) (ABM)-toepassing geïntroduceerd.
+Marketo heeft een nieuwe [Account Based Marketing](https://docs.marketo.com/display/docs/account+based+marketing) (ABM)-toepassing geïntroduceerd.
 
 Wanneer u Marketo Web Personalization en de nieuwe Account Based Marketing (ABM) gebruikt:
 
