@@ -2,7 +2,7 @@
 title: add-a-flow-step-to-a-smart-campagne
 description: Een stroomstap toevoegen aan een slimme campagne
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -26,7 +26,7 @@ De stappen van de stroom vertellen Marketo wat u met een groep mensen wilt gebeu
 
 **Diep duiken**
 
-Meer informatie over de verschillende [flowstappen](http://docs.marketo.com/display/DOCS/Flow+Actions).
+Meer informatie over de verschillende [flowstappen](https://docs.marketo.com/display/DOCS/Flow+Actions).
 
 1. Klik op de vervolgkeuzelijst en kies een geschikte optie.
 
