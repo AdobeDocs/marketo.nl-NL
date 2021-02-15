@@ -3,7 +3,7 @@ unique-page-id: 11382815
 description: Installatie van de Plug-in Marketo Outlook door IT - Marketo Docs - Productdocumentatie
 title: Installatie van de Plug-in Marketo Outlook door IT
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Soms vereisen bedrijfsbeleid dat hun Team van IT alle software op hun werknemers
 
 >[!PREREQUISITES]
 >
->[Stel ](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) de toets Enterprise in.
+>[Stel ](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key) de toets Enterprise in.
 
 Voer de volgende bevellijn als &quot;Systeem&quot;of een Administratieve gebruikersrekening met de /i schakelaar in werking om te installeren.  `<pre>msiexec.exe /i [File Name] /qn REG=[Enterprise Key]</pre>`
 
