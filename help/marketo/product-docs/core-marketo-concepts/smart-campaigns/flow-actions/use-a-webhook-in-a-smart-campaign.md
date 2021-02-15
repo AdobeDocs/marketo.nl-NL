@@ -3,7 +3,7 @@ unique-page-id: 1147025
 description: Gebruik een Webhaak in een Slimme Campagne - Marketo Docs - de Documentatie van het Product
 title: Een webhaak gebruiken in een slimme campagne
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een webhaak gebruiken in een slimme campagne {#use-a-webhook-in-a-smart-campaign}
 
-Als u een [webhaak](http://developers.marketo.com/documentation/webhooks/) wilt gebruiken, voegt u deze toe aan een [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) als een flowactie.
+Als u een [webhaak](https://developers.marketo.com/documentation/webhooks/) wilt gebruiken, voegt u deze toe aan een [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) als een flowactie.
 
 >[!AVAILABILITY]
 >
