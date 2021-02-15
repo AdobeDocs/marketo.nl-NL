@@ -3,7 +3,7 @@ unique-page-id: 12979010
 description: Overzicht van trends voor prestaties - Marketo Docs - Productdocumentatie
 title: Overzicht van trends voor prestaties
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Klik op het tabblad **Trend** om deze weergave te openen.
 
 ![](assets/2-1.png)
 
-Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken we de mogelijkheden die via [First Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution) zijn verkregen.
+Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken we de mogelijkheden die via [First Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution) zijn verkregen.
 
 ![](assets/3-2.png)
 
