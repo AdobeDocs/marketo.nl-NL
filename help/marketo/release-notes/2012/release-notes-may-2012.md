@@ -3,7 +3,7 @@ unique-page-id: 2951117
 description: Opmerkingen bij de release - mei 2012 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2012
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '658'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Diep duiken**
 >
->Voor andere versies, zie [Nota&#39;s van de Versie](http://docs.marketo.com/display/docs/release+notes) diepe duik.
+>Voor andere versies, zie [Nota&#39;s van de Versie](https://docs.marketo.com/display/docs/release+notes) diepe duik.
 
 ## E-mailprestatierapport Opnieuw ontwerpen {#email-performance-report-redesign}
 
