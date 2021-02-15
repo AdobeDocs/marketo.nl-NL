@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Opmerkingen bij de release - Winter '18 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - Winter '18
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -86,7 +86,7 @@ Inhoud aanbevolen via de geoptimaliseerde inhoud`<sup>AI </sup>`algoritmen van M
 
 ## Integratie {#integration}
 
-** [Campagne-API activeren/deactiveren](http://developers.marketo.com/rest-api/assets/campaigns/)**
+** [Campagne-API activeren/deactiveren](https://developers.marketo.com/rest-api/assets/campaigns/)**
 
 Met deze nieuwe API kunt u triggercampagnes op afstand activeren en deactiveren, zodat u nu volledig geautomatiseerde programmasjablonen kunt maken. Maak één keer een programmasjabloon, automatiseer het klonen, verhandel zakelijke updates en activering/planning van slimme campagnes.
 
@@ -94,7 +94,7 @@ Met deze nieuwe API kunt u triggercampagnes op afstand activeren en deactiveren,
 
 **Abonnement bijwerken opzeggen**
 
-Vanaf 1 maart 2018 wordt aan alle e-mails die worden verzonden van [ToutApp.com](http://ToutApp.com) (en met de knop &quot;E-mail met tout&quot; in Salesforce) een link toegevoegd die het abonnement opzegt.
+Vanaf 1 maart 2018 wordt aan alle e-mails die worden verzonden van [ToutApp.com](https://ToutApp.com) (en met de knop &quot;E-mail met tout&quot; in Salesforce) een link toegevoegd die het abonnement opzegt.
 
 **Update van live feed**
 
