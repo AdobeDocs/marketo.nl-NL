@@ -3,7 +3,7 @@ unique-page-id: 2360240
 description: Een opportuniteitsanalyse voor invloed configureren - Marketo Docs - Productdocumentatie
 title: Een Opportunity Influence Analyzer configureren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -49,7 +49,7 @@ Zodra u [een Analysator van de Invloed van de Mogelijkheid ](create-an-opportuni
 
 >[!NOTE]
 >
->Voor andere analysatoren, zie [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
+>Voor andere analysatoren, zie [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting).
 
 >[!MORELIKETHIS]
 >
