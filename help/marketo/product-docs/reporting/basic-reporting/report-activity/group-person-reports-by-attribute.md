@@ -3,7 +3,7 @@ unique-page-id: 2360199
 description: Groepeer Persrapporten door Attribuut - Marketo Docs - de Documentatie van het Product
 title: Personen groeperen op basis van kenmerk
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personen groeperen rapporteert op kenmerk {#group-person-reports-by-attribute}
 
-U kunt uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reporting) door om het even welke persoon of bedrijfattributen groeperen.
+U kunt uw [persoonrapporten](https://docs.marketo.com/display/docs/basic+reporting) door om het even welke persoon of bedrijfattributen groeperen.
 
 1. Ga naar het **Marketingactiviteiten** (of **Analytics**) gebied.
 
@@ -48,7 +48,7 @@ U kunt uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reportin
    >**Diep duiken**
    >
    >
-   >Leer meer over persoonrapporten en andere rapporttypes in [Basis het Melden](http://docs.marketo.com/display/docs/basic+reporting)diepe duik.
+   >Leer meer over persoonrapporten en andere rapporttypes in [Basis het Melden](https://docs.marketo.com/display/docs/basic+reporting)diepe duik.
 
    >[!MORELIKETHIS]
    >
