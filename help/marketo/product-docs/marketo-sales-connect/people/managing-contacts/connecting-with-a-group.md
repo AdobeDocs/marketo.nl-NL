@@ -3,9 +3,9 @@ unique-page-id: 30081318
 description: Verbinding maken met een groep - Marketo Docs - Productdocumentatie
 title: Verbinding maken met een groep
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Leer hoe u een e-mail naar een volledige groep verzendt of een groep aan een cam
 
    >[!NOTE]
    >
-   >Mogelijk ziet u een optie om toe te voegen aan een Marketo-campagne. [Dat is een ander artikel](http://docs.marketo.com/x/CwDh).
+   >Mogelijk ziet u een optie om toe te voegen aan een Marketo-campagne. [Dat is een ander artikel](/help/marketo/product-docs/marketo-sales-connect/campaigns/add-to-marketing-campaign.md).
 
 1. Selecteer een campagne (u kunt een categorie selecteren om uw resultaten te verfijnen) en klik **Volgende**.
 
@@ -60,4 +60,3 @@ Leer hoe u een e-mail naar een volledige groep verzendt of een groep aan een cam
 1. Plan de campagne en klik **Start**.
 
    ![](assets/nine-1.png)
-
