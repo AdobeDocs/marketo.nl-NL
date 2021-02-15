@@ -3,7 +3,7 @@ unique-page-id: 14352436
 description: Lokale aanwezigheid op de verkooptelefoon - Marketo Docs - Productdocumentatie
 title: Lokale aanwezigheid op verkooptelefoon
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Nr, werkt de lokale aanwezigheid slechts voor Uitgaande vraag. De bezoeker kan u
 
 Wij bieden alle functionaliteit van de Telefoon van de Verkoop voor vraag in de V.S. slechts aan.
 
-**Is het lokale aanwezigheidsaantal altijd het zelfde wanneer ik een gebiedscode roep? **
+**Is het lokale aanwezigheidsaantal altijd het zelfde wanneer ik een gebiedscode roep?**
 
 Het aantal zal waarschijnlijk altijd het zelfde zijn wanneer u in een gebiedscode roept.
 
