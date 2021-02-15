@@ -3,7 +3,7 @@ unique-page-id: 2360016
 description: Filter Mensen in een Rapport met een Slimme Lijst - Marketo Docs - de Documentatie van het Product
 title: Personen in een rapport filteren met een slimme lijst
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -19,7 +19,7 @@ U kunt slimme lijsten met deze rapporttypes gebruiken:
 
 * [Prestaties van mensen](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [Personen op status](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Personen op basis van omzet](http://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
+* [Personen op basis van omzet](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
 * [E-mailprestaties](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Prestaties van e-mailkoppelingen](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Betrokkenheidsstreamprestaties](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
@@ -55,5 +55,5 @@ U kunt slimme lijsten met deze rapporttypes gebruiken:
    >**Diep duiken**
    >
    >
-   >Voor meer manieren om rapporten te gebruiken, zie [Basis Rapportering](http://docs.marketo.com/display/docs/basic+reporting) diep duik.
+   >Voor meer manieren om rapporten te gebruiken, zie [Basis Rapportering](https://docs.marketo.com/display/docs/basic+reporting) diep duik.
 
