@@ -3,9 +3,9 @@ unique-page-id: 11375827
 description: Vereiste velden voor het synchroniseren van markeertekens met dynamiek - Marketo Docs - Productdocumentatie
 title: Vereiste velden voor het synchroniseren van markeertekens met dynamiek
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven 
 
 Hieronder wordt beschreven hoe u synchronisatievelden kunt verifiëren en toevoegen.
 
-1. Ga naar Admin en klik de Dynamica van Microsoft.
+1. Ga naar Admin en klik **de Dynamica van Microsoft**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klik op Bewerken op Veldsynchronisatiedetails.
+1. Klik op **Bewerken** op Details van veldsynchronisatie.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +47,7 @@ Hieronder wordt beschreven hoe u synchronisatievelden kunt verifiëren en toevoe
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. Klik op Opslaan.
+1. Klik **Opslaan**.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 
@@ -57,5 +57,4 @@ Hieronder wordt beschreven hoe u synchronisatievelden kunt verifiëren en toevoe
 
 >[!MORELIKETHIS]
 >
->[Sterren en vlammen instellen voor lead/contact-records](http://docs.marketo.com/x/BICMAg)
-
+>[Sterren en vlammen instellen voor lead/contact-records](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
