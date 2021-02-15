@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: Web Personalization Glossary - Marketo Docs - Productdocumentatie
 title: Woordenlijst voor webpersonalisatie
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Sommige inzichten in de wereld en de taal van Marketo Web Personalization.
 
 Hier zijn drie manieren u een vervanging in de Personalisatie van het Web kunt gebruiken.
 
-Alle bezoekers op pagina-URL&#39;s die eindigen op basis van prijzen (bijvoorbeeld [www.marketo.com/pricing):](http://www.marketo.com/pricing):)
+Alle bezoekers op pagina-URL&#39;s die eindigen op basis van prijzen (bijvoorbeeld [www.marketo.com/pricing):](https://www.marketo.com/pricing):)
 
 ![](assets/wildcard-example-1.png)
 
