@@ -3,7 +3,7 @@ unique-page-id: 7511815
 description: Opmerkingen bij de release -April 2015 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -april 2015
 translation-type: tm+mt
-source-git-commit: 728066ab05de82f6123bfaa1f0b05af8632e32b2
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -29,9 +29,9 @@ Bovendien is de privé versus gedeelde rapportorganisatie nu beschikbaar. Maak o
 
 ## Marketo Mobile Engagement {#marketo-mobile-engagement}
 
-[Marketo Mobile Engagement](http://docs.marketo.com/display/docs/mobile+marketing)
+[Marketo Mobile Engagement](https://docs.marketo.com/display/docs/mobile+marketing)
 
-Met [Marketo Mobile Engagement](http://docs.marketo.com/display/docs/mobile+marketing) is het eenvoudig om aantrekkelijke mobiele ervaringen te bieden. Maak zeer persoonlijke campagnes die aansprekende inhoud leveren zonder ooit te hoeven vertrouwen op een ontwikkelingsteam voor apps. Met nieuwe filters en triggers kunt u luisteren naar en reageren op het mobiele kanaal via pushberichten.
+Met [Marketo Mobile Engagement](https://docs.marketo.com/display/docs/mobile+marketing) is het eenvoudig om aantrekkelijke mobiele ervaringen te bieden. Maak zeer persoonlijke campagnes die aansprekende inhoud leveren zonder ooit te hoeven vertrouwen op een ontwikkelingsteam voor apps. Met nieuwe filters en triggers kunt u luisteren naar en reageren op het mobiele kanaal via pushberichten.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -51,8 +51,8 @@ Uw favoriete functies in het venster Verkoopoverzicht - voer voor leads, beste w
 
 ## RTP - op rekening-gebaseerde Marketing Analytics {#rtp-account-based-marketing-analytics}
 
-RTP - [Account-Based Marketing Analytics](http://docs.marketo.com/pages/viewpage.action?pageid=7511515)
+RTP - [Account-Based Marketing Analytics](https://docs.marketo.com/pages/viewpage.action?pageid=7511515)
 
-Onmiddellijk inzicht krijgen in de [prestaties van uw belangrijkste benoemde accountlijsten](http://docs.marketo.com/pages/viewpage.action?pageid=7511515) op basis van elk stadium in de aankoopcyclus, met de nieuwe prestatiesgrafiek voor uw lijst van benoemde accounts. De grafiek toont het stadium van het bezoek van de belangrijkste organisatie, vanaf het bewustzijn tot aan de actie, op basis van het aantal bezoeken en de status van de bezoeker.
+Onmiddellijk inzicht krijgen in de [prestaties van uw belangrijkste benoemde accountlijsten](https://docs.marketo.com/pages/viewpage.action?pageid=7511515) op basis van elk stadium in de aankoopcyclus, met de nieuwe prestatiesgrafiek voor uw lijst van benoemde accounts. De grafiek toont het stadium van het bezoek van de belangrijkste organisatie, vanaf het bewustzijn tot aan de actie, op basis van het aantal bezoeken en de status van de bezoeker.
 
 ![](https://lh3.googleusercontent.com/ZipQutmNTRxkWdr_zzdatg31w7xmQ0xkniez-qf2X784MO-0AoHfKE0ltYSeaHU73KxyZc3s0Oklfig_v6bpN7tKnrrX6hHcMs44RFgtUb1qOf_Y5uhKedyHi6tQv3KhUHaCmIc)
