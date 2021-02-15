@@ -3,7 +3,7 @@ unique-page-id: 2360389
 description: Maak een programma zonder een Periode Beschikbaar in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren - Marketo Docs - de Documentatie van het Product
 title: Maak een Programma zonder een Periode Beschikbaar in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Maak een Programma zonder een Periode Kosten beschikbaar in Ontdekkingsreiziger en Analysatoren {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-Met de kosten voor de programmaperiode kunt u &quot;Hoeveel geld&quot; en &quot;Wanneer&quot; definiëren voor een programma. Dit wordt getoond in [de ontdekkingsreiziger van de opbrengstcyclus](http://docs.marketo.com/display/docs/revenue+cycle+analytics) en [analyzers](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+Met de kosten voor de programmaperiode kunt u &quot;Hoeveel geld&quot; en &quot;Wanneer&quot; definiëren voor een programma. Dit wordt getoond in [de ontdekkingsreiziger van de opbrengstcyclus](https://docs.marketo.com/display/docs/revenue+cycle+analytics) en [analyzers](../../../../product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
