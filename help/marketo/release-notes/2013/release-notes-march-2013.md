@@ -3,7 +3,7 @@ unique-page-id: 2951101
 description: Opmerkingen bij de release - maart 2013 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -maart 2013
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: Maart 2013 {#release-notes-march}
 
-De volgende functies zijn opgenomen in de release van maart. Controleer [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van maart. Controleer [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
 
 Na de release moet u het tabblad [Nieuwe release](release-notes-december-2013.md) in de Gemeenschap uitchecken voor gedetailleerde artikelen in de Knowledge Base voor elke functie!
 
