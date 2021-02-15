@@ -2,7 +2,7 @@
 title: my-token-link
 description: Mijn token-koppeling
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Hier is hoe te opstelling een teken van de Verbinding voor gebruik in uw program
 
    >[!NOTE]
    >
-   >Als Include mkt_tok wordt gecontroleerd, toont Marketo een verbindingsvoorproef van het branded volgende domein (b.v., http://mkto-sjqe3355.com/mn/...). Als u dit selectievakje uitschakelt, wordt de koppeling gewijzigd. Als u het bijhouden van koppelingen voor e-mails of bestemmingspagina&#39;s uitschakelt, wordt >de URL ingekort tot de standaardlengte (bijvoorbeeld www.examplepage.com).
+   >Als Include mkt_tok wordt gecontroleerd, toont Marketo een verbindingsvoorproef van het branded volgende domein (b.v., https://mkto-sjqe3355.com/mn/...). Als u dit selectievakje uitschakelt, wordt de koppeling gewijzigd. Als u het bijhouden van koppelingen voor e-mails of bestemmingspagina&#39;s uitschakelt, wordt >de URL ingekort tot de standaardlengte (bijvoorbeeld www.examplepage.com).
 
 1. U kunt desgewenst onder [!UICONTROL Advanced] de koppeling aanpassen met CSS. Klik op **[!UICONTROL Save]**.
 
