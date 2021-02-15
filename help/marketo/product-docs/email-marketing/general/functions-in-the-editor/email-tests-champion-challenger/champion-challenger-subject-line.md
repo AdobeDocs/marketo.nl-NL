@@ -3,7 +3,7 @@ unique-page-id: 2359557
 description: Champion/Challenger - Onderwerpregel - Marketo Docs - Productdocumentatie
 title: Champion/Challenger — Onderwerpregel
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -45,7 +45,7 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
    >
    >In de bovenstaande verdeling krijgt 10% van het totale publiek dat in de slimme lijst is opgegeven een van de e-mails met de onderwerpregel van de uitdager en 90% ontvangt e-mails met de onderwerpregel van de kampioen. E-mails met meerdere onderwerpreeksen voor passagiers hebben dezelfde 10%. Wanneer de test voorbij is, kunt u een winnaar handmatig declareren. Vanaf dat moment krijgen alle toekomstige mensen de beter presterende inhoud.
 
-   Om statistisch vertrouwen te winnen, zorg ervoor het percentage u kiest genoeg mensen omvat, zodat uw test geldig is. Wees niet misleid door onovertuigende resultaten. [Meer informatie dan je ooit wilde over statistisch vertrouwen](http://en.wikipedia.org/wiki/Confidence_interval).
+   Om statistisch vertrouwen te winnen, zorg ervoor het percentage u kiest genoeg mensen omvat, zodat uw test geldig is. Wees niet misleid door onovertuigende resultaten. [Meer informatie dan je ooit wilde over statistisch vertrouwen](https://en.wikipedia.org/wiki/Confidence_interval).
 
 1. Klik **Volgende**.
 
