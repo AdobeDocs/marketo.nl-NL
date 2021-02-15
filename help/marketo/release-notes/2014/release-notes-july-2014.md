@@ -3,7 +3,7 @@ unique-page-id: 2951040
 description: Opmerkingen bij de release - juli 2014 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juli 2014
 translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Naast de marketingkalender waarmee u uw gebeurtenissen en standaardprogramma&#39
 
 ## Bewerkingen weergeven in de ReST-API {#list-operations-in-the-rest-api}
 
-Hieronder staan de aanroepen die betrekking hebben op lijstbewerkingen in ReST. Zie [developers.marketo.com](http://developers.marketo.com/documentation/rest/) voor de volledige documentatie.
+Hieronder staan de aanroepen die betrekking hebben op lijstbewerkingen in ReST. Zie [developers.marketo.com](https://developers.marketo.com/documentation/rest/) voor de volledige documentatie.
 
 * Lijst ophalen op ID
 * Meerdere lijsten ophalen
@@ -78,7 +78,7 @@ De RTP Vastgestelde pagina van de Campagne nu [omvat kant-en-klare malplaatjes](
 
 ## RTP: Verbeteringen voor JavaScript API {#rtp-javascript-api-enhancements}
 
-De nieuwe vraag van RTP API om bezoekersgegevens in real time zoals organisatie, industrie, plaats en segmentcodegelijke te krijgen. Als u de cursor boven een segmentnaam op de pagina Segmenten houdt, wordt bovendien knopinfo met de segmentcode weergegeven. Raadpleeg onze [site voor ontwikkelaars](http://developers.marketo.com/documentation/websites/rtp-js-api/) voor volledige documentatie.
+De nieuwe vraag van RTP API om bezoekersgegevens in real time zoals organisatie, industrie, plaats en segmentcodegelijke te krijgen. Als u de cursor boven een segmentnaam op de pagina Segmenten houdt, wordt bovendien knopinfo met de segmentcode weergegeven. Raadpleeg onze [site voor ontwikkelaars](https://developers.marketo.com/documentation/websites/rtp-js-api/) voor volledige documentatie.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
