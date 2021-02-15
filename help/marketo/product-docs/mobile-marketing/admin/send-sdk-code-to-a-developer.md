@@ -3,7 +3,7 @@ unique-page-id: 7512448
 description: SDK-code verzenden naar een ontwikkelaar - Marketo Docs - Productdocumentatie
 title: SDK-code naar een ontwikkelaar verzenden
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Voordat u berichten of pushmeldingen in de app kunt maken, moet de ontwikkelaar de SDK van de Mobile App voor de Android- en iOS-platforms hebben ingesteld en geïnitialiseerd.
 
-* [Instructies voor Android](http://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
-* [Instructies voor iOS](http://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
+* [Instructies voor Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
+* [Instructies voor iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 
 ## SDK-code verzenden naar een ontwikkelaar {#send-sdk-code-to-a-developer-1}
 
