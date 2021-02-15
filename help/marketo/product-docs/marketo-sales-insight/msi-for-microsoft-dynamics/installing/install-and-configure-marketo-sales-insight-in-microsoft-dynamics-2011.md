@@ -3,9 +3,9 @@ unique-page-id: 3571735
 description: Installeer en vorm het Inzicht van de Verkoop van de Marketo in de Dynamica 2011 van Microsoft - Marketo Docs - de Documentatie van het Product
 title: Het Inzicht van de Verkoop van de Marketo in de Dynamica 2011 van Microsoft installeren en vormen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Marketo Sales Insight is een fantastisch hulpmiddel voor uw verkoopteam. Hier is
 
 >[!PREREQUISITES]
 >
->Voltooi uw [Marketo-Microsoft integratie](http://docs.marketo.com/x/DoA2).
+>Voltooi uw integratie van Marketo-Microsoft.
 >
->[Download de correcte ](http://docs.marketo.com/x/LoJo) oplossing voor uw versie van CRM van de Dynamica van Microsoft.
+>[Download de correcte ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) oplossing voor uw versie van CRM van de Dynamica van Microsoft.
 
 ## Oplossing {#import-solution} importeren
 
@@ -37,12 +37,9 @@ Marketo Sales Insight is een fantastisch hulpmiddel voor uw verkoopteam. Hier is
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >U zou [reeds moeten hebben geïnstalleerd en gevormd ](install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) de oplossing van het Marketo alvorens zich vooruit te bewegen.
+   >U zou [reeds moeten hebben geïnstalleerd en gevormd ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md) de oplossing van het Marketo alvorens zich vooruit te bewegen.
 
-1. Klik **Bladeren**. Selecteer de oplossing van het Inzicht van de Verkoop van de Marketo u [downloadde](download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Klik **Volgende**.
+1. Klik **Bladeren**. Selecteer de oplossing van het Inzicht van de Verkoop van de Marketo u [downloadde](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md). Klik **Volgende**.
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -80,11 +77,11 @@ Marketo Sales Insight is een fantastisch hulpmiddel voor uw verkoopteam. Hier is
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Onder **het Inzicht van de Verkoop **sectie klikt **geef API Configuratie** uit.
+1. Klik onder **Sales Insight** op **API-configuratie bewerken**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Kopieer **Marketo Host**, **API URL**, en **API Gebruiker ID** voor gebruik in een recentere stap. Voer een **API-beveiligingssleutel** van uw keuze in en klik op **OPSLAAN**.
+1. Kopieer **Marketo Host**, **API URL**, en **API Gebruiker ID** voor gebruik in een recentere stap. Voer een **API-beveiligingssleutel** van uw keuze in en klik op **Opslaan**.
 
    >[!CAUTION]
    >
@@ -94,17 +91,14 @@ Marketo Sales Insight is een fantastisch hulpmiddel voor uw verkoopteam. Hier is
 
    >[!NOTE]
    >
-   >De volgende gebieden moeten met Marketo voor *zowel Lood als Contact* voor het Inzicht van de Verkoop worden gesynchroniseerd om te werken:
+   >De volgende gebieden moeten met Marketo voor _zowel Lood als Contact_ voor het Inzicht van de Verkoop worden gesynchroniseerd om te werken:
    >
-   >    
-   >    
-   >    * Prioriteit
-   >    * Urgentie
-   >    * Relatieve score
+   >* Prioriteit
+   >* Urgentie
+   >* Relatieve score
 
-   >    
-   >    
-   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [deze procedure](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
+   >
+   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [deze procedure](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
 
 1. Ga terug naar Dynamiek, uitgezochte **Montages**.
 
@@ -122,11 +116,9 @@ Marketo Sales Insight is een fantastisch hulpmiddel voor uw verkoopteam. Hier is
 
    ![](assets/image2015-5-4-11-3a27-3a16.png)
 
-1. Klik **Opslaan.**
+1. Klik **Opslaan**.
 
-   ** ![](assets/image2015-5-4-11-3a28-3a13.png)
-
-   **
+   ![](assets/image2015-5-4-11-3a28-3a13.png)
 
 ## Gebruikerstoegang {#set-user-access} instellen
 
@@ -160,5 +152,4 @@ De gebruikersrollen van de opstelling om specifieke gebruikers toegang tot het I
 
 >[!MORELIKETHIS]
 >
->[Sterren en vlammen instellen voor lead/contact-records](http://docs.marketo.com/x/BICMAg)
-
+>[Sterren en vlammen instellen voor lead/contact-records](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
