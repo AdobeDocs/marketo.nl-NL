@@ -3,7 +3,7 @@ unique-page-id: 4720232
 description: Een nieuwe accountlijst maken - Marketo Docs - Productdocumentatie
 title: Een nieuwe accountlijst maken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
 
 >[!NOTE]
 >
->Dit artikel is erfenisWeb ABM slechts klanten van toepassing. Als u Web ABM na September 2016 verwierf, te volgen gelieve de stappen in [dit artikel](http://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) in plaats daarvan.
+>Dit artikel is erfenisWeb ABM slechts klanten van toepassing. Als u Web ABM na September 2016 verwierf, te volgen gelieve de stappen in [dit artikel](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) in plaats daarvan.
 
 ## Een nieuwe accountlijst maken {#create-a-new-account-list-1}
 
@@ -94,5 +94,5 @@ Het bestaande bestand wordt vervangen door het CSV-bestand. De bestaande lijst b
 >[!MORELIKETHIS]
 >
 >* [Een segment maken met een accountlijst](create-a-segment-using-an-account-list.md)
->* [Een lijst met benoemde accounts weergeven](http://docs.marketo.com/pages/viewpage.action?pageid=4720244)
+>* [Een lijst met benoemde accounts weergeven](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
 
