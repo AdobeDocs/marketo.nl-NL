@@ -3,7 +3,7 @@ unique-page-id: 2360403
 description: Vergelijk de doeltreffendheid van het programma met de Analysator van het Programma - Marketo Docs - de Documentatie van het Product
 title: De doeltreffendheid van het Programma met de Analysator van het Programma vergelijken
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -98,4 +98,4 @@ We zien dat het programma &quot;Paper Fest 12&quot; niet alleen van invloed is o
 
 >[!NOTE]
 >
->Meer informatie over geavanceerde analysemogelijkheden vindt u in [Indelingscyclusverkenner](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Meer informatie over geavanceerde analysemogelijkheden vindt u in [Indelingscyclusverkenner](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
