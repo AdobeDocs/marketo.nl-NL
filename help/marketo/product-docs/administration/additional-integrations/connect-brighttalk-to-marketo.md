@@ -3,7 +3,7 @@ unique-page-id: 15695874
 description: BrightStor EnterpriseTALK verbinden met Marketo - Marketo Docs - Productdocumentatie
 title: BrightStorTALK verbinden met Marketo
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Leer hoe u het BrightStor ARCserve-kanaal koppelt aan uw Marketo-instantie. Hier
 
 ## Stappen in BrightStor {#steps-in-brighttalk}
 
-1. Meld u aan bij [business.brighttalk.com/demandcentral](http://business.brighttalk.com/demandcentral/login) en klik op **Nu verbinden**.
+1. Meld u aan bij [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login) en klik op **Nu verbinden**.
 1. Klik onder Geavanceerde markeringsverbinding op **Verbinden**.
 1. U komt naar het aanmeldingsscherm en vraagt om: Client ID, Client Secret, Identity Service URL en Rest Service URL. Meld u aan bij Marketo om deze gegevens op te halen.
 
@@ -77,4 +77,4 @@ Leer hoe u het BrightStor ARCserve-kanaal koppelt aan uw Marketo-instantie. Hier
 
 1. Keer terug naar het scherm van de de schakelaaropstelling van BrightTALK van Stap 3, en ga de geloofsbrieven in u van Stappen 12 en 14 bewaarde.
 
-   Nadat de referenties zijn geverifieerd, hebt u BrightStor ARCserve Backup officieel verbonden met Marketo. De volgende stap is [te bepalen welke gegevensgebieden u ](http://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync) wilt synchroniseren.
+   Nadat de referenties zijn geverifieerd, hebt u BrightStor ARCserve Backup officieel verbonden met Marketo. De volgende stap is [te bepalen welke gegevensgebieden u ](https://support.brighttalk.com/hc/en-us/articles/115005131274-BrightTALK-Connector-for-Marketo-Choose-the-Fields-to-Sync) wilt synchroniseren.
