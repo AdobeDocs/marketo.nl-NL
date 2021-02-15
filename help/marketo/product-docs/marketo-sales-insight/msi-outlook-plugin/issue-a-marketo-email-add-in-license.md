@@ -3,7 +3,7 @@ unique-page-id: 2949281
 description: Een licentie voor een Marketo-e-mailinvoegtoepassing uitgeven - Marketo Docs - Productdocumentatie
 title: Een licentie voor een Marketo-e-mailinvoegtoepassing uitgeven
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Iedereen die de toe:voegen-binnen van de Vooruitzichten van de Marketo E-mail wi
 
    >[!NOTE]
    >
-   >Als u de plug-in op afstand wilt installeren, schakelt u het selectievakje uit en verzendt u uw IT-team uw [Enterprise Key](http://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
+   >Als u de plug-in op afstand wilt installeren, schakelt u het selectievakje uit en verzendt u uw IT-team uw [Enterprise Key](https://docs.marketo.com/display/DOCS/Install+the+Marketo+Add-in+for+Outlook+with+an+Enterprise+Key).
    >
    >Als uw verkopers beheerderstoegang tot hun computers hebben, controleer de doos en u wordt gedaan!
 
