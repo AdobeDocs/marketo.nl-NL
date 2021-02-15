@@ -3,9 +3,9 @@ unique-page-id: 2953342
 description: Voeg een Lood/Contact aan een Campagne van de Marketo van de Dynamiek van Microsoft toe - Marketo Docs - de Documentatie van het Product
 title: Voeg een Lood/Contact aan een Campagne van de Marketo van de Dynamiek van Microsoft toe
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ U kunt snel en gemakkelijk lood/contacten aan Marketo slimme campagnes direct va
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Klik**..** en selecteer **Toevoegen aan Marketo-campagne**.
+1. Klik **..** en selecteer **Toevoegen aan Marketo-campagne**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -37,6 +37,6 @@ U kunt snel en gemakkelijk lood/contacten aan Marketo slimme campagnes direct va
 
    >[!NOTE]
    >
-   >Voor de campagne om in drop-down te verschijnen, gebruik [**De Campagne wordt Gevraagd** trekker](http://docs.marketo.com/pages/viewpage.action?pageId=7514898), met het Inzicht van de Verkoop als bron, wanneer u opstelling de campagne.
+   >Voor de campagne om in drop-down te verschijnen, gebruik [**De Campagne wordt Gevraagd** trekker](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), met het Inzicht van de Verkoop als bron, wanneer u opstelling de campagne.
 
 En dat zijn allemaal mensen! U hebt nu de macht van Marketo slimme campagnes in uw handen direct van Dynamica.
