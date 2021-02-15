@@ -3,7 +3,7 @@ unique-page-id: 2951046
 description: Opmerkingen bij de release - maart 2014 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -maart 2014
 translation-type: tm+mt
-source-git-commit: 3c24395e55c756184615941327e15e050fa7d0ac
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
@@ -41,7 +41,7 @@ U kunt nu [programma&#39;s zonder punt kosten](/help/marketo/product-docs/report
 
 ## Hybride en impliciete Opties voor de Omzetting van de Lood {#hybrid-and-implicit-options-for-lead-conversion}
 
-U kunt de manier veranderen Marketo verbindt contacten en de kansen voor de metriek van de loodomzetting in Lead Analyse. U kunt de attributie-instelling [wijzigen in een van de drie opties. ](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) Als u deze instelling wijzigt, worden er geen Marketo- of CRM-gegevens gewijzigd. het verandert eenvoudig de manier waarop uw rapporten lopen en het kan op elk ogenblik worden teruggedraaid.
+U kunt de manier veranderen Marketo verbindt contacten en kansen voor de metriek van de loodomzetting in Loodanalyse. U kunt de attributie-instelling [wijzigen in een van de drie opties. ](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md) Als u deze instelling wijzigt, worden er geen Marketo- of CRM-gegevens gewijzigd. het verandert eenvoudig de manier waarop uw rapporten lopen en het kan op elk ogenblik worden teruggedraaid.
 
 Expliciet het plaatsen zal contacten met rollen in een kans slechts behandelen zoals omgezette lood (standaardgedrag). Impliciet behandelt alle contacten verbonden aan de rekening in de kans, ongeacht rol, zoals omgezet. Hybride behandelt contacten met rollen zoals omgezet indien beschikbaar; als geen, behandelen wij alle contacten in de rekening zoals omgezet.
 
@@ -57,6 +57,6 @@ Selecteer uw [Marketo-toepassingstaal](/help/marketo/product-docs/administration
 
 ## Marketo Developer Blog {#marketo-developer-blog}
 
-Het [Marketo Developer-blog](http://developers.marketo.com/blog/) is gewijd aan webontwikkelaars en software-engineers die de snel evoluerende behoeften van de moderne markator ondersteunen. U kunt zich abonneren op aankondigingen over nieuwe integratieopties, updates van API-versies en een nieuwe reeks &#39;Hoe kan ik&#39;-artikelen die codevoorbeelden en aanbevolen procedures voor integratie met het Marketo-platform bevatten.
+Het [Marketo Developer-blog](https://developers.marketo.com/blog/) is gewijd aan webontwikkelaars en software-engineers die de snel evoluerende behoeften van de moderne markator ondersteunen. U kunt zich abonneren op aankondigingen over nieuwe integratieopties, updates van API-versies en een nieuwe reeks &#39;Hoe kan ik&#39;-artikelen die codevoorbeelden en aanbevolen procedures voor integratie met het Marketo-platform bevatten.
 
-Het [eerste artikel](http://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) in deze reeks zal u door hoe te om informatie over de mensen (klanten/contacten/lood) efficiënt terug te winnen die binnen Marketo gebruikend API worden opgeslagen.
+Het [eerste artikel](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/) in deze reeks zal u door hoe te om informatie over de mensen (klanten/contacten/lood) efficiënt terug te winnen die binnen Marketo gebruikend API worden opgeslagen.
