@@ -3,7 +3,7 @@ unique-page-id: 2360401
 description: Vergelijk de doeltreffendheid van het Kanaal met de Analysator van het Programma - Marketo Docs - de Documentatie van het Product
 title: Kanaaleffectiviteit vergelijken met de programmaanalyse
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -93,4 +93,4 @@ In ons voorbeeld zien we dat het Tradeshow-kanaal zowel het duurste (het verst n
 
 >[!NOTE]
 >
->Meer informatie over geavanceerde analysemogelijkheden vindt u in [Indelingscyclusverkenner](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+>Meer informatie over geavanceerde analysemogelijkheden vindt u in [Indelingscyclusverkenner](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
