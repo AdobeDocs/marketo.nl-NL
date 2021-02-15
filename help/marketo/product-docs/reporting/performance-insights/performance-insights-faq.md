@@ -3,7 +3,7 @@ unique-page-id: 12979858
 description: Veelgestelde vragen over prestaties - Marketo Docs - Productdocumentatie
 title: Veelgestelde vragen over prestaties
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1404'
 ht-degree: 0%
@@ -37,11 +37,11 @@ Nee. MPI produceert gegevens van het zelfde gegevenspakhuis zoals RCA. Daarom zu
 
 ## Ik wil niet dat sommige van mijn programma&#39;s (bijvoorbeeld Operationeel) in MPI worden weergegeven. Hoe kan ik de zichtbaarheid van specifieke programma&#39;s controleren? {#i-don-t-want-some-of-my-programs-e-g-operational-to-show-up-in-mpi-how-do-i-control-the-visibility-of-specific-programs}
 
-U kunt de zichtbaarheid van uw programma&#39;s bepalen door het analysegedrag van uw programma&#39;s in te stellen op Operationeel. Hierdoor wordt het programma uitgesloten van analytische berekeningen.
+U kunt de zichtbaarheid van uw programma&#39;s bepalen door het gedrag Analytics van uw programma&#39;s in te stellen op Operationeel. Hierdoor wordt het programma uitgesloten van analytische berekeningen.
 
 >[!NOTE]
 >
->Meer informatie over het instellen van het analysegedrag [hier](http://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
+>Meer informatie over het instellen van het analysegedrag [hier](https://docs.marketo.com/display/public/DOCS/Edit+Analytics+Behavior+Settings).
 
 ## Ik voer een multikanaalcampagne voor een nieuwe productlancering. Hoe kan ik de prestaties voor deze campagne op alle verschillende kanalen op één plaats bekijken? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -59,7 +59,7 @@ Mogelijk ontbreken er ook kansen omdat de programmakosten ontbreken in uw progra
 
 1. Standaard - Het standaardgedrag is dat het programma ALLEEN in MPI wordt opgenomen als er ten minste één periode kosten zijn, zelfs als er nul dollar is toegewezen.
 1. Inclusief - Met deze optie zorgt u ervoor dat het programma beschikbaar is in MPI, ongeacht of u kosten voor een periode hebt opgenomen.
-1. [Operationeel](http://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  - Deze optie leidt ertoe dat het programma niet in MPI verschijnt.
+1. [Operationeel](https://docs.marketo.com/display/DOCS/Best+Practice%3A+How+to+Organize+your+Programs#BestPractice:HowtoOrganizeyourPrograms-OperationalPrograms)  - Deze optie leidt ertoe dat het programma niet in MPI verschijnt.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ Aangepaste velden, opportuniteitstype en ABM-filters zijn allemaal kenmerken die
 
 ## Ik wil een gebied van de Kans van de Kans van de Douane van Salesforce voor opbrengstrapportering in plaats van het standaardgebied van het Bedrag van de Kans van Salesforce gebruiken. Zal MPI mij toestaan dat te doen? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Ja. [Marketo ](http://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) Support kan het veld Opportunity van Marketo opnieuw toewijzen aan een aangepast veld Salesforce Opportunity zolang het veldtype een valuta is. Aangezien MPI naar het de reeksgebied van de Kanaal van de Marketo wijst, kan MPI de gegevens van het opnieuw in kaart gebrachte gebied van Salesforce gebruiken.
+Ja. [Marketo ](https://docs.marketo.com/cdn-cgi/l/email-protection#b5c6c0c5c5dac7c1f5d8d4c7ded0c1da9bd6dad8) Support kan het veld Opportunity van Marketo opnieuw toewijzen aan een aangepast veld Salesforce Opportunity zolang het veldtype een valuta is. Aangezien MPI naar het de reeksgebied van de Kanaal van de Marketo wijst, kan MPI de gegevens van het opnieuw in kaart gebrachte gebied van Salesforce gebruiken.
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ MPI is ontworpen om u toe te staan om programmaprestaties van de bovenkant van d
 
 ## Kan ik het succes van op rekening-gebaseerde strategieën in MPI meten? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Ja. MPI integreert met [Marketo ABM](http://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) om lijsten met ABM-accounts naadloos in MPI te plaatsen. U kunt het ABM filter van de Lijst van de Rekening gebruiken om de gewenste ABM lijst te kiezen om gegevens door te filtreren.
+Ja. MPI integreert met [Marketo ABM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) om lijsten met ABM-accounts naadloos in MPI te plaatsen. U kunt het ABM filter van de Lijst van de Rekening gebruiken om de gewenste ABM lijst te kiezen om gegevens door te filtreren.
 
 ## Is de toewijzing onmiddellijk beschikbaar wanneer ik MPI aanschaf? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-De mogelijkheden voor Marketo Attribution zijn beschikbaar voor onze klanten wanneer zij MPI aanschaffen. [juiste setup](http://docs.marketo.com/x/mRPG) is echter vereist om ervoor te zorgen dat de mogelijkheden en programmagegevens correct in MPI stromen.
+De mogelijkheden voor Marketo Attribution zijn beschikbaar voor onze klanten wanneer zij MPI aanschaffen. [juiste setup](https://docs.marketo.com/x/mRPG) is echter vereist om ervoor te zorgen dat de mogelijkheden en programmagegevens correct in MPI stromen.
 
 ## Wat moet ik doen om attributie in te stellen? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ De mogelijkheden voor Marketo Attribution zijn beschikbaar voor onze klanten wan
 
 >[!TIP]
 >
->Alle vereiste installatiestappen worden beschreven in [dit artikel](http://docs.marketo.com/x/mRPG).
+>Alle vereiste installatiestappen worden beschreven in [dit artikel](https://docs.marketo.com/x/mRPG).
 
 ## Wat is het verschil tussen MPI en de Analysator van het Programma? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 
@@ -137,4 +137,4 @@ De Geavanceerde Report Builder (die soms als RCE wordt bedoeld), wordt ontworpen
 
 ## Wat is er gebeurd met de optie Vorig jaar in het datumfilter van de bijdrage? {#what-happened-to-the-previous-year-option-in-contributions-date-filter}
 
-We hebben tijdelijk de selectie van het vorige jaar verwijderd. U kunt de prestatiegegevens van het hele jaar nog steeds bekijken met de selectie Aangepast datumbereik.
+We hebben tijdelijk de selectie van het vorige jaar verwijderd. U kunt de prestatiegegevens van het hele jaar nog bekijken met de selectie Aangepast datumbereik.
