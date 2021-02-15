@@ -3,7 +3,7 @@ unique-page-id: 7512454
 description: Mobiele pushmeldingen configureren - Marketo Docs - Productdocumentatie
 title: Melding van mobiele pushberichten configureren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -99,7 +99,7 @@ Een diepe verbinding URI bestaat uit drie delen: schemanaam, weg, en herkennings
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-De structuur van de diepe koppeling in uw app kan echter afwijken van het bovenstaande voorbeeld. Uw ontwikkelaar heeft vele opties in het bepalen van diepe verbinding URI&#39;s, zodat vraag uw ontwikkelaar om u URIs (verbindingen) voor de pagina&#39;s te verzenden u geinteresseerd bent in het gebruiken. Zo zorgt u ervoor dat de URI&#39;s die u invoert in de pushberichten naar de juiste plaatsen verwijzen. Uw ontwikkelaar kan [hier meer informatie ](http://developers.marketo.com/mobile/enabling-deep-links-in-your-app/) vinden.
+De structuur van de diepe koppeling in uw app kan echter afwijken van het bovenstaande voorbeeld. Uw ontwikkelaar heeft vele opties in het bepalen van diepe verbinding URI&#39;s, zodat vraag uw ontwikkelaar om u URIs (verbindingen) voor de pagina&#39;s te verzenden u geinteresseerd bent in het gebruiken. Zo zorgt u ervoor dat de URI&#39;s die u invoert in de pushberichten naar de juiste plaatsen verwijzen. Uw ontwikkelaar kan [hier meer informatie ](https://developers.marketo.com/mobile/enabling-deep-links-in-your-app/) vinden.
 
 >[!MORELIKETHIS]
 >
