@@ -3,9 +3,9 @@ unique-page-id: 30081250
 description: Groepen beheren - Marketo Docs - Productdocumentatie
 title: Groepen beheren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
 ## Een groep maken {#create-a-group}
 
-1. Klik op de pagina Personen op het plusteken **naast Groepen.**
+1. Klik op de pagina Personen op **+** naast Groepen.
 
    ![](assets/one-4.png)
 
@@ -39,7 +39,7 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
    >[!NOTE]
    >
-   >Hiermee voegt u één contactpersoon tegelijk toe. Om veelvoudige contacten tezelfdertijd toe te voegen, volg [deze stappen](http://docs.marketo.com/x/VADb).
+   >Hiermee voegt u één contactpersoon tegelijk toe. Om veelvoudige contacten tezelfdertijd toe te voegen, volg [deze stappen](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 1. Vul de informatie van de contactpersoon in en klik **Maken** (of **Nieuw maken en toevoegen** om een andere toe te voegen).
 
@@ -114,4 +114,3 @@ Leer hoe u uw groepen beheert in Sales Connect.
 1. Klik **Verwijderen** om te bevestigen.
 
    ![](assets/seventeen.png)
-
