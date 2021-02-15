@@ -3,7 +3,7 @@ unique-page-id: 14746432
 description: Aangepaste velden synchroniseren naar prestatieinzicht - Marketo Docs - Productdocumentatie
 title: Aangepaste velden synchroniseren met prestatieinzicht
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Met MPI-inkomsten en Pipeline-dashboards kunt u filteren op aangepaste Marketo-v
 
 >[!NOTE]
 >
->Dit artikel is alleen bedoeld voor gebruikers die **geen** hebben [RCA](http://docs.marketo.com/x/lwIk). Als u RCA hebt, volg de stappen in [dit artikel](http://docs.marketo.com/x/FQQk).
+>Dit artikel is alleen bedoeld voor gebruikers die **geen** hebben [RCA](https://docs.marketo.com/x/lwIk). Als u RCA hebt, volg de stappen in [dit artikel](https://docs.marketo.com/x/FQQk).
 
 1. Ga naar **Admin** sectie.
 
