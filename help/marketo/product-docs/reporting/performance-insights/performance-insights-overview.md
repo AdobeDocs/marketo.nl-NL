@@ -3,7 +3,7 @@ unique-page-id: 12979006
 description: Overzicht van prestatiegegevens - Marketo Docs - Productdocumentatie
 title: Overzicht van prestatiegegevens
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Klik op het pictogram op het beginscherm van Analytics voor toegang tot prestati
 
 ## Bijdrage {#contribution}
 
-Evalueer de [bijdrage van de Marketing aan opbrengst](http://docs.marketo.com/x/QAvG)als functie van klantenverwerving, invloed, omzetting, zelfs geïnstalleerde basisgroei.
+Evalueer de [bijdrage van de Marketing aan opbrengst](https://docs.marketo.com/x/QAvG)als functie van klantenverwerving, invloed, omzetting, zelfs geïnstalleerde basisgroei.
 
 ![](assets/two.png)
 
@@ -38,13 +38,13 @@ Standaard weerspiegelen de weergegeven gegevens de prestaties van Betrokkenheid.
 
 ## Trend {#trend}
 
-Ontdek [langetermijntrends](http://docs.marketo.com/x/QgvG) om consistente winnende strategieën te ontdekken.
+Ontdek [langetermijntrends](https://docs.marketo.com/x/QgvG) om consistente winnende strategieën te ontdekken.
 
 ![](assets/4.png)
 
 ## Instellingen {#settings}
 
-Klik in de dashboards van de Opbrengst en van de Pijl, [Settings](http://docs.marketo.com/x/pIDS) pictogram om extra parameters te plaatsen.
+Klik in de dashboards van de Opbrengst en van de Pijl, [Settings](https://docs.marketo.com/x/pIDS) pictogram om extra parameters te plaatsen.
 
 ![](assets/5.png)
 
