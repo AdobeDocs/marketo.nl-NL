@@ -3,7 +3,7 @@ unique-page-id: 18874822
 description: Opmerkingen bij de release - Juni '19 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni '19
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -26,7 +26,7 @@ De volgende functies zijn uitgebracht op 14 juni 2019.
 
 >[!CAUTION]
 >
->Vanaf 18 juni 2019 is e-mail 1.0 niet meer beschikbaar. U kunt meer leren over E-mail 2.0 en de veroudering van E-mail 1.0 [hier](http://nation.marketo.com/docs/DOC-7038).
+>Vanaf 18 juni 2019 is e-mail 1.0 niet meer beschikbaar. U kunt meer leren over E-mail 2.0 en de veroudering van E-mail 1.0 [hier](https://nation.marketo.com/docs/DOC-7038).
 
 ## Op account gebaseerde marketing {#account-based-marketing}
 
