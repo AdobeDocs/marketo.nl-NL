@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Opmerkingen bij de release - Lente 2019 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - voorjaar 2019
 translation-type: tm+mt
-source-git-commit: 6f49037bf698b1646004720815897f992911f716
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -25,7 +25,7 @@ De volgende functies zijn gepubliceerd op 15 maart 2019.
 
 * **Waitlijst:** Nieuw programma/status van gebeurtenis om te wachten tot een lid op de  [ ](../../product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) wachtlijst staat totdat een vacature wordt geopend. Dit is van toepassing op kanalen die zijn gekoppeld aan gebeurtenisprogramma&#39;s in Marketo Classic en zowel Gebeurtenis als Gebeurtenis met Webinar-programma&#39;s in Marketo Sky. Standaard heeft Waitlist dezelfde stapwaarde als Geregistreerd.
 * ** [Aangepaste communicatielimiet](../../product-docs/administration/email-setup/enable-communication-limits.md)**: Beheerders kunnen nu aangepaste dagelijkse of wekelijkse communicatielimieten instellen.
-* ** [Smart Campagne Asset API&#39;s](http://developers.marketo.com/rest-api/assets/campaigns/)**: Verrijk uw analyses buiten Marketo met slimme opvraging van campagnemerbestanden op bijgewerkte datum en id.
+* ** [Smart Campagne Asset API&#39;s](https://developers.marketo.com/rest-api/assets/campaigns/)**: Verrijk uw analyses buiten Marketo met slimme opvraging van campagnemerbestanden op bijgewerkte datum en id.
 * **Koppelingen voor het bijhouden van HTTPS-koppelingen voor e-mail:** Voor klanten die &quot;Beveiligde domeinen voor het bijhouden van koppelingen&quot; hebben aangeschaft, kunnen koppelingen voor het bijhouden van tags nu in uw e-mails worden weergegeven als HTTPS.
 * **Powerpack-updates** voor e-maillevering: De mogelijkheid om specifieke testresultaten te markeren en er opmerkingen over te maken, resultaten te delen met belanghebbenden via een URL en wijzigingen bij te houden om de ontwikkeling van een e-mail te bekijken terwijl belanghebbenden inhoud bewerken.
 
