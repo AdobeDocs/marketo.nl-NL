@@ -3,7 +3,7 @@ unique-page-id: 27656223
 description: Aanpassing Salesforce voor klanten van de Professional Edition installeren - Marketo-documenten - Productdocumentatie
 title: Aanpassing van Salesforce voor klanten van de Professional Edition installeren
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -57,6 +57,6 @@ Klanten met Salesforce Professional Edition moeten deze stappen volgen om aanpas
 
 ## Hulplijnen {#guides}
 
-[Installatiehandleiding voor Salesforce Classic](http://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[Installatiehandleiding voor Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
-[Installatiehandleiding voor Salesforce Lightning](http://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Installatiehandleiding voor Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
