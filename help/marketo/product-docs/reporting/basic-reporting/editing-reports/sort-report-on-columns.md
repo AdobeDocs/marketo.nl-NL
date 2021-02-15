@@ -3,7 +3,7 @@ unique-page-id: 2359996
 description: Rapport sorteren op kolommen - Marketo Docs - Productdocumentatie
 title: Rapport sorteren op kolommen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -44,5 +44,5 @@ Met kolommen kunt u de gegevens in uw rapport sorteren en de belangrijkste figur
    >**Diep duiken**
    >
    >
-   >Leer alle macht om met rapporten in [Basis Rapportering](http://docs.marketo.com/display/docs/basic+reporting) te werken.
+   >Leer alle macht om met rapporten in [Basis Rapportering](https://docs.marketo.com/display/docs/basic+reporting) te werken.
 
