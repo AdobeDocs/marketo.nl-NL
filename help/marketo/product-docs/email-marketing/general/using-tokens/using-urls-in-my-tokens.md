@@ -3,7 +3,7 @@ unique-page-id: 11382535
 description: URL's gebruiken in Mijn tokens - Marketo Docs - Productdocumentatie
 title: URL's gebruiken in Mijn tokens
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -23,13 +23,13 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
 
    ![](assets/two-4.png)
 
-1. Geef het token een unieke naam, voer een URL in (zonder de map http://) en klik op **Save**.
+1. Geef het token een unieke naam, voer een URL in (zonder de map https://) en klik op **Save**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Om ervoor te zorgen dat kliks in uw e-mail worden gevolgd, doe **not** http:// binnen de waarde van het teken ingaan.
+   >Om ervoor te zorgen dat kliks in uw e-mail worden gevolgd, doe **not** https:// binnen de waarde van het teken ingaan.
 
 1. Selecteer de e-mail in uw programma.
 
@@ -43,7 +43,7 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
 
    ![](assets/six-1.png)
 
-1. Typ overal in uw e-mail &quot;http://&quot; (zonder ruimte na te laten) en klik op het pictogram Token invoegen.
+1. Typ overal in uw e-mail &quot;https://&quot; (zonder ruimte na te laten) en klik op het pictogram Token invoegen.
 
    ![](assets/seven.png)
 
@@ -55,7 +55,7 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
 
    ![](assets/eight.png)
 
-1. Markeer http:// en token en druk vervolgens op Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) om de tekst te knippen.
+1. Markeer https:// en token en druk vervolgens op Ctrl/Cmd+X (Ctrl = Windows/Cmd = Mac) om de tekst te knippen.
 
    ![](assets/nine.png)
 
@@ -71,4 +71,4 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
 
    ![](assets/twelve.png)
 
-   En je bent klaar! Uw URL wordt na het verzenden gevuld en dankzij het feit dat u http:// voor het token plaatst, wordt er een trackable link gemaakt.
+   En je bent klaar! Uw URL wordt na het verzenden gevuld en dankzij het feit dat u https:// voor het token plaatst, wordt er een trackable link gemaakt.
