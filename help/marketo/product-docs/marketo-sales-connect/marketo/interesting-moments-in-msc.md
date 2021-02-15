@@ -3,9 +3,9 @@ unique-page-id: 30082174
 description: Interesserende momenten in MSC - Marketo Docs - Productdocumentatie
 title: Interesserende momenten in MSC
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,9 @@ Interesserende momenten zijn de sleutel tot communicatie met uw verkoopteam via 
 
 >[!AVAILABILITY]
 >
->
->Deze zijn alleen beschikbaar voor [Marketo Sales Insight](http://docs.marketo.com/x/2Akt) en Marketo Sales Connect-klanten.
+>Deze zijn alleen beschikbaar voor [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) en Marketo Sales Connect-klanten.
 
-## Wat is een interessant moment?  {#what-is-an-interesting-moment}
+## Wat is een interessant moment? {#what-is-an-interesting-moment}
 
 Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw verkoopteam zou willen weten wanneer een lood:
 
@@ -30,7 +29,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe maak ik een interessant moment? {#how-do-i-create-an-interesting-moment}
 
-1. Kies een [s](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) [slimme campagne](http://docs.marketo.com/display/docs/smart+campaigns), bij voorkeur één uw verkoopteam interessant zou vinden indien teweeggebracht.
+1. Kies een [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), bij voorkeur één uw verkoopteam interessant zou vinden indien teweeggebracht.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
@@ -52,7 +51,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe ziet een interessant moment eruit in Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Interesserende momenten worden weergegeven in het activiteitenlog van een [lead.](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)
+Interesserende momenten worden weergegeven in het activiteitenlog van een [lead.](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
@@ -61,4 +60,3 @@ Interesserende momenten worden weergegeven in het activiteitenlog van een [lead.
 Interesserende momenten worden in real-time weergegeven in de live feed van een gebruiker. We gebruiken de id van de hoofdeigenaar in Salesforce om de interessante momenten van relevante leads van gebruikers te laten zien waarvan ze de eigenaar zijn. Gebruikers kunnen snel contact opnemen met leads via e-mail/telefoon/verkoopcampagne door op de vervolgkeuzelijst naast de naam van de lead te klikken.
 
 ![](assets/engagement.jpg)
-
