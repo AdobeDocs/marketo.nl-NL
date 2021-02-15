@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: Privacy-instellingen begrijpen - Marketo Docs - Productdocumentatie
 title: Privacy-instellingen begrijpen
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -72,7 +72,7 @@ Marketers kunnen de privacy beschermen door gebruikers met een geanonimiseerd IP
 
    >[!NOTE]
    >
-   >Wanneer deze parameter wordt gebruikt, moet Munchkin V2 zijn ingeschakeld. Neem contact op met [Marketo Support](http://nation.marketo.com/community/support_solutions) om deze functie in te schakelen voor uw abonnement.
+   >Wanneer deze parameter wordt gebruikt, moet Munchkin V2 zijn ingeschakeld. Neem contact op met [Marketo Support](https://nation.marketo.com/community/support_solutions) om deze functie in te schakelen voor uw abonnement.
 
 * Voor Personalisatie van het Web (RTP), voeg dit aan javascript toe:
 
