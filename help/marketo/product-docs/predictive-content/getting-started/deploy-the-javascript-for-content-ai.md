@@ -3,7 +3,7 @@ unique-page-id: 11385053
 description: JavaScript implementeren voor Content-AI - Marketo Docs - Productdocumentatie
 title: JavaScript implementeren voor Content-AI
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Als u voorspellende inhoud wilt gebruiken, moet u de RTP (Web Personalization) `
 
    >[!NOTE]
    >
-   >Kopieer de JavaScript-tag Web Personalization en plak deze als het eerste script in de koptekst van uw pagina&#39;s, tussen de `<head> </head>`-tags. Zie meer gedetailleerde [implementatieinstructies hier](http://docs.marketo.com/display/docs/rtp+tag+implementation) [](http://pages2.marketo.com/rtp-implementation.html)
+   >Kopieer de JavaScript-tag Web Personalization en plak deze als het eerste script in de koptekst van uw pagina&#39;s, tussen de `<head> </head>`-tags. Zie meer gedetailleerde [implementatieinstructies hier](https://docs.marketo.com/display/docs/rtp+tag+implementation) [](https://pages2.marketo.com/rtp-implementation.html)
 
 1. Controleer of de tag op alle pagina&#39;s wordt weergegeven, inclusief bestemmingspagina&#39;s en subdomeinen. Controleer dit door met de rechtermuisknop op uw `website’s` pagina te klikken. Ga naar **Paginabron weergeven** in een webbrowser. Zoeken: &quot;RTP&quot;.
 1. Bevestig dat de Tagknevel aan **ON** wordt geplaatst.
