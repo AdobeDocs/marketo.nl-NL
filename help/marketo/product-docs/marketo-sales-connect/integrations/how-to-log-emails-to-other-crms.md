@@ -3,9 +3,9 @@ unique-page-id: 14352430
 description: Hoe te om e-mails aan Andere CRMs te registreren - Marketo Docs - de Documentatie van het Product
 title: Hoe te om E-mails aan Andere CRMs te registreren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Als uw CRM u van een adres BCC voorziet, kunt u de &quot;andere&quot;sectie van 
 
 ## CRMs wij integreren met {#crms-we-integrate-with}
 
-**`Almost every CRM`**:
+**Bijna elke CRM**:
 
-* Onze `auto-BCC`* *functie werkt met bijna alle CRM-recordberichten die u met Sales Connect naar uw leads hebt verzonden. Zorg enkel uw CRM van keus u van een adres BCC voorziet om uit dit voordeel te halen.
+* Onze functie voor automatische back-ups werkt met bijna alle e-mails die u met Sales Connect naar uw leads hebt verzonden voor CRM&#39;s record. Zorg enkel uw CRM van keus u van een adres BCC voorziet om uit dit voordeel te halen.
 
-**`Salesforce`**:
+**Salesforce**:
 
 * We doen al het bovenstaande en meer!
 
@@ -34,4 +34,3 @@ Als uw CRM u van een adres BCC voorziet, kunt u de &quot;andere&quot;sectie van 
 1. Klik op **Opslaan** en uw BCC-adres wordt opgeslagen in Sales Connect.
 
    E-mails worden nu aangemeld bij uw CRM via BCC.
-
