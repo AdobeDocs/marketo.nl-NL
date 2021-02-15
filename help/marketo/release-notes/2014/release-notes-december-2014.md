@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: Opmerkingen bij de release -December 2014 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -december 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Drie nieuwe aanroepen voor de API voor leidende informatie en activiteiten:
 
 ・ Lead samenvoegen
 
-Alle details zijn beschikbaar na de release op [developers.marketo.com](http://developers.marketo.com/)
+Alle details zijn beschikbaar na de release op [developers.marketo.com](https://developers.marketo.com/)
 
 ## Verbeteringen voor compatibiliteit met Munchkin JavaScript {#munchkin-javascript-compatibility-enhancements}
 
