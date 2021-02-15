@@ -3,7 +3,7 @@ unique-page-id: 2360181
 description: Anonieme activiteiten en personen volgen - Marketo Docs - Productdocumentatie
 title: Anonieme activiteiten en personen volgen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -28,8 +28,8 @@ De eerste keer dat iemand een Marketo [landingspagina](../../../../product-docs/
    Een anonieme activiteit wordt samengevoegd in een nieuwe of bestaande persoon wanneer iemand:
 
    * Klik op een [koppeling in een Marketo-e-mail](../../../../product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
-   * Vult een Marketo [form](http://docs.marketo.com/display/docs/forms) uit.
-   * Gebruikt de [REST API](http://developers.marketo.com/rest-api/lead-database/leads/) of [Munchkin](http://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API (voor ontwikkelaars) van Marketo om een anonieme activiteit met een bekende verslag te associëren.
+   * Vult een Marketo [form](https://docs.marketo.com/display/docs/forms) uit.
+   * Gebruikt de [REST API](https://developers.marketo.com/rest-api/lead-database/leads/) of [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API (voor ontwikkelaars) van Marketo om een anonieme activiteit met een bekende verslag te associëren.
 
    Eén naam in de database kan aan veel cookies zijn gekoppeld, omdat mensen vaak verschillende apparaten en browsers gebruiken om uw site te bezoeken.
 
@@ -50,5 +50,5 @@ De eerste keer dat iemand een Marketo [landingspagina](../../../../product-docs/
    >**Diep duiken**
    >
    >
-   >Meer informatie over [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
+   >Meer informatie over [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting).
 
