@@ -3,7 +3,7 @@ unique-page-id: 8783189
 description: Opmerkingen bij de release - juli 2015 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juli 2015
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Bij de lunch maar moet u een e-mail opnieuw plannen? De app Marketo Moments, die
 ## Update {#rich-text-editor-update} voor rijke teksteditor
 
 Bijgewerkte teksteditor met moderne vormgeving, zoals gestroomlijnde tekstopmaak, beeldbewerking, invoegen van koppelingen en HTML-bewerking. De HTML-editor beschikt nu over minimale validatie, waardoor code minder restrictief kan worden bewerkt.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Deze update wordt automatisch uitgevoerd binnen een paar dagen na de release van juli. Daarna kunt u schakelen tussen de nieuwe en oudere versies van de editor via **Beheer > E-mail > Editor-instellingen bewerken**. Als u problemen opmerkt met de nieuwe versie van de teksteditor, willen we dat weten! Stuur een korte beschrijving naar [`[email protected]`](http://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Deze update wordt automatisch uitgevoerd binnen een paar dagen na de release van juli. Daarna kunt u schakelen tussen de nieuwe en oudere versies van de editor via **Beheer > E-mail > Editor-instellingen bewerken**. Als u problemen opmerkt met de nieuwe versie van de teksteditor, willen we dat weten! Stuur een korte beschrijving naar [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#d0bab3bfbfa0b5a2bdb1be90bdb1a2bbb5a4bffeb3bfbd).
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -50,7 +50,7 @@ Hebt u opstelling verscheidene gepersonaliseerde campagnes RTP en opgemerkt dat 
 
 **Toegang tot bedrijfsobjecten via de REST API**: De REST API biedt nu toegang tot Marketo Company (ook wel bekend als Account). Dit betekent dat u bedrijfsobjecten die u in Marketo hebt gemaakt, kunt lezen, bijwerken en verwijderen en dat u leads aan dergelijke bedrijven kunt koppelen met behulp van de bijgewerkte API voor leads.
 
-Leer [meer](http://developers.marketo.com/documentation/company-api/) in onze verwijzingsgids voor het Bedrijf API.
+Leer [meer](https://developers.marketo.com/documentation/company-api/) in onze verwijzingsgids voor het Bedrijf API.
 
 ## Toegang tot e-maillevering {#access-email-deliverability}
 
