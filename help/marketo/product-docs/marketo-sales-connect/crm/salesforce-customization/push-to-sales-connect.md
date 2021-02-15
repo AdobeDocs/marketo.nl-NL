@@ -3,7 +3,7 @@ unique-page-id: 14352477
 description: Overstappen op Sales Connect - Marketo Docs - Productdocumentatie
 title: Push to Sales Connect
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Met onze knop Push to Tout maakt u een lijst met uw leads/contactpersonen in Sal
 
    >[!NOTE]
    >
-   >Sales Connect voegt deze groep met de naam &quot;SFDC-...&quot; toe op de pagina Relaties op de [webtoepassing](http://toutapp.com/login).
+   >Sales Connect voegt deze groep met de naam &quot;SFDC-...&quot; toe op de pagina Relaties op de [webtoepassing](https://toutapp.com/login).
 
 1. Selecteer **Gehele groep e-mailen** om deze groep e-mail te verzenden.
