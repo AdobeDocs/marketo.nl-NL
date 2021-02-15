@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Opmerkingen bij de release - lente 17 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - lente '17
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
@@ -45,11 +45,11 @@ Breng eenvoudig grote hoeveelheden personen- en activiteitsgegevens over van Mar
 
 Met Marketo ABM kunt u nu maximaal 10 aangepaste velden maken op uw benoemde accounts. U kunt deze Aangepaste velden toewijzen aan velden in uw CRM-accountobject en Marketo ABM synchroniseert de gegevens, zodat u uw ABM-benoemde accounts kunt uitbreiden en uw marketing kunt stimuleren.
 
-** [Percentiele scores op ABM Benoemde accounts](http://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+** [Percentiele scores op ABM Benoemde accounts](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 De score voor benoemde accounts kan sterk variëren. Marketo ABM berekent nu automatisch een percentiel voor elk van uw scores, zodat u in een oogopslag kunt zien waar elke Benoemde Rekening onder uw andere Benoemde Rekeningen rangschikt.
 
-** [ABM-accountlijst-API&#39;s](http://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+** [ABM-accountlijst-API&#39;s](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Profiteer van uitgebreide en robuuste integratie van ABM-partners met verbeterde API-ondersteuning voor benoemde accountlijsten.
 
