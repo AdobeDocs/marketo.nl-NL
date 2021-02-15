@@ -3,7 +3,7 @@ unique-page-id: 14745655
 description: Een campagne zichtbaar maken voor Connect-gebruikers - Marketo Docs - Productdocumentatie
 title: Een campagne zichtbaar maken voor Connect-gebruikers
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -50,4 +50,3 @@ Campagnes kunnen alleen worden gedeeld als ze zichtbaar worden gemaakt. Zo doe j
 1. Klik **Programma** tabel en **Activeer** de campagne.
 
    ![](assets/nine.png)
-
