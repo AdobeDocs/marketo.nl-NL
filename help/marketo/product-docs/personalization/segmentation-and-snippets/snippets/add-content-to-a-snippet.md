@@ -3,7 +3,7 @@ unique-page-id: 2359496
 description: Inhoud toevoegen aan een fragment - Marketo Docs - Productdocumentatie
 title: Inhoud toevoegen aan een fragment
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -51,7 +51,7 @@ U kunt drie typen inhoud aan een fragment toevoegen.
 
    >[!NOTE]
    >
-   >U kunt uw eigen afbeeldingen of bestanden toevoegen aan Marketo. Meer informatie over [afbeeldingen en bestanden](http://docs.marketo.com/display/docs/images+and+files).
+   >U kunt uw eigen afbeeldingen of bestanden toevoegen aan Marketo. Meer informatie over [afbeeldingen en bestanden](https://docs.marketo.com/display/docs/images+and+files).
 
 1. Selecteer **Afbeelding** die u wilt gebruiken en klik op **Invoegen**.
 
