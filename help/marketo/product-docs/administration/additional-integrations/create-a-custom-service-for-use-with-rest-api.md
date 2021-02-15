@@ -3,7 +3,7 @@ unique-page-id: 2360350
 description: Een aangepaste service maken voor gebruik met de ReST API - Marketo Docs - Productdocumentatie
 title: Een aangepaste service maken voor gebruik met de ReST-API
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Als u met Marketo via de ReST API wilt integreren, zult u een douanedienst wille
 
 >[!TIP]
 >
->Raadpleeg de documentatie van onze ontwikkelaars voor meer informatie over de [ReST API](http://developers.marketo.com/documentation/rest/). We hebben ook de [SOAP API](http://developers.marketo.com/documentation/soap/) als dat is wat u nodig hebt.
+>Raadpleeg de documentatie van onze ontwikkelaars voor meer informatie over de [ReST API](https://developers.marketo.com/documentation/rest/). We hebben ook de [SOAP API](https://developers.marketo.com/documentation/soap/) als dat is wat u nodig hebt.
 
 >[!NOTE]
 >
