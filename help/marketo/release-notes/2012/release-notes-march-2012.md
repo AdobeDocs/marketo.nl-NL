@@ -3,7 +3,7 @@ unique-page-id: 2951122
 description: Opmerkingen bij de release - maart 2012 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -maart 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Diep duiken**
 >
->Voor andere versies, zie [Nota&#39;s van de Versie](http://docs.marketo.com/display/docs/release+notes) diepe duik.
+>Voor andere versies, zie [Nota&#39;s van de Versie](https://docs.marketo.com/display/docs/release+notes) diepe duik.
 >
 >## Mijn tokens oplossen {#resolve-my-tokens}>
 
@@ -37,7 +37,7 @@ Voorvertoning aan Editor:
 
 ## Fragmentvoorvertoning {#snippet-previewer}
 
-Als u &quot;Voorvertoningsfragment&quot; in het menu selecteert, kunt u een fragment weergeven zonder dit een concept te maken. Bovendien kunt u het fragment met deze handeling bekijken als u alleen-lezen toegang hebt tot een gedeeld fragment (via werkruimten)
+Als u &quot;Voorbeeldfragment&quot; in het menu selecteert, kunt u een fragment weergeven zonder dit een concept te maken. Als u bovendien alleen-lezen toegang tot een gedeeld fragment hebt (via werkruimten), kunt u het fragment met deze handeling bekijken
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 
