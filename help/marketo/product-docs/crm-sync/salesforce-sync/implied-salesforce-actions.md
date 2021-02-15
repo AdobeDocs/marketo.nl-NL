@@ -3,7 +3,7 @@ unique-page-id: 4719304
 description: Impliciete Salesforce-acties - Marketo Docs - Productdocumentatie
 title: Impliciete Salesforce-acties
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Wanneer een salesforce-specifieke stroomstap wordt uitgevoerd, worden soms extra stappen automatisch uitgevoerd. Hier zijn de regels, dus weet u:
 
-Deze regels zijn van toepassing _wanneer de persoon momenteel niet in [Salesforce.com](http://Salesforce.com)_ als contact of lood is.
+Deze regels zijn van toepassing _wanneer de persoon momenteel niet in [Salesforce.com](https://Salesforce.com)_ als contact of lood is.
 
 <table> 
  <thead> 
