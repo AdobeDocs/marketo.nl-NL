@@ -3,7 +3,7 @@ unique-page-id: 11384665
 description: Predictieve inhoud begrijpen - Marketo Docs - Productdocumentatie
 title: Voorspelende inhoud
 translation-type: tm+mt
-source-git-commit: 40f08784ee6f7ac105ed027963c0d5a7ea812808
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Door de analyse van ingeschakelde inhoud te filteren, kunt u zien hoe elke bron 
 
 ## Tabelgegevens weergeven voor voorspellende inhoud {#view-table-data-for-predictive-content}
 
-In de tabel kunt u zien welke bronnen zijn ingeschakeld voor voorspellende inhoud, van links naar rechts: De Bar van de aanbeveling, e-mail, en rijke Media. Ingeschakelde bronnen worden groen weergegeven. U laat deze toe wanneer u [de inhoud ](http://docs.marketo.com/display/docs/edit+predictive+content) uitgeeft.
+In de tabel kunt u zien welke bronnen zijn ingeschakeld voor voorspellende inhoud, van links naar rechts: De Bar van de aanbeveling, e-mail, en rijke Media. Ingeschakelde bronnen worden groen weergegeven. U laat deze toe wanneer u [de inhoud ](https://docs.marketo.com/display/docs/edit+predictive+content) uitgeeft.
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
@@ -78,6 +78,6 @@ Houd de muisaanwijzer boven de balk in de kolom Conversiesnelheid om de conversi
 
 >[!MORELIKETHIS]
 >
->* [Voorspelende inhoud](http://docs.marketo.com/display/docs/predictive+content)
->* [Voorspelende inhoud bewerken](http://docs.marketo.com/display/docs/edit+predictive+content)
+>* [Voorspelende inhoud](https://docs.marketo.com/display/docs/predictive+content)
+>* [Voorspelende inhoud bewerken](https://docs.marketo.com/display/docs/edit+predictive+content)
 
