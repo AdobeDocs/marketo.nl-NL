@@ -3,7 +3,7 @@ unique-page-id: 2360237
 description: Vertel het Marketing Story met een Analysator van de Invloed van de Mogelijkheid - Marketo Docs - de Documentatie van het Product
 title: Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '371'
 ht-degree: 0%
@@ -83,6 +83,6 @@ Gebruik een Analysator van de Gevolgen van de Kans om de rol van de marketing in
 
 
 
-   * [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting)
+   * [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting)
 
 
