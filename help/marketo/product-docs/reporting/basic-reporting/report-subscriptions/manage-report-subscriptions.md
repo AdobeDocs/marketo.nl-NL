@@ -3,7 +3,7 @@ unique-page-id: 2359991
 description: Rapportabonnementen beheren - Marketo Docs - Productdocumentatie
 title: Rapportabonnementen beheren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Configureer en verwijder rapportabonnementen.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Deze pagina toont de abonnementen op alle rapporten in uw rekening, die door [rapporttype](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md) wordt gegroepeerd. Dit omvat [abonnementen op basisrapporten](subscribe-to-a-basic-report.md) en aan [Rapporten van de Cyclus van de Opbrengst](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+   Deze pagina toont de abonnementen op alle rapporten in uw rekening, die door [rapporttype](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md) wordt gegroepeerd. Dit omvat [abonnementen op basisrapporten](subscribe-to-a-basic-report.md) en aan [Rapporten van de Cyclus van de Opbrengst](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
    >[!TIP]
    >
@@ -73,5 +73,5 @@ Configureer en verwijder rapportabonnementen.
    >    * [Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
 
-   Meer informatie vindt u in de [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting) en [Indelingscyclusverkenner](http://docs.marketo.com/display/docs/revenue+cycle+analytics) diepe duiken.
+   Meer informatie vindt u in de [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting) en [Indelingscyclusverkenner](https://docs.marketo.com/display/docs/revenue+cycle+analytics) diepe duiken.
 
