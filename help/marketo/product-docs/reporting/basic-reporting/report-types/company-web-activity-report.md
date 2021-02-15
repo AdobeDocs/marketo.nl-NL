@@ -3,7 +3,7 @@ unique-page-id: 2360005
 description: Het Rapport van de Activiteit van het Web van het bedrijf - Marketo Dos - de Documentatie van het Product
 title: Webactiviteitenrapport van bedrijf
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -78,4 +78,4 @@ Maak een [Web Page Activity report](web-page-activity-report.md) om de afzonderl
 >
 >**Diep duiken**
 >
->Leer over andere interessante rapporten in [Basisrapportering](http://docs.marketo.com/display/docs/basic+reporting) diep duik.
+>Leer over andere interessante rapporten in [Basisrapportering](https://docs.marketo.com/display/docs/basic+reporting) diep duik.
