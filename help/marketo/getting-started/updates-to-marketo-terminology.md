@@ -3,7 +3,7 @@ unique-page-id: 11387674
 description: Updates van Marketo Terminology - Marketo Docs - Productdocumentatie
 title: Updates van marktoterminologie
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
@@ -139,11 +139,11 @@ Velden die de term lead bevatten, zijn vervangen door Person of het woord Lead i
 
 Naast de naamwijziging bestaat de toepassing nu uit vier verschillende apps:
 
-| ** [Web Personalization](http://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Heeft eigen tegel op thuisscherm |
+| ** [Web Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Heeft eigen tegel op thuisscherm |
 |---|---|
-| ** [Account-based Web Marketing](http://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Toegankelijk via web Personalization tile |
-| ** [Persoonlijk opnieuw oprichten](http://docs.marketo.com/display/DOCS/Website+Retargeting)** | Toegankelijk via web Personalization tile |
-| ** [Predictieve inhoud](http://docs.marketo.com/display/DOCS/Predictive+Content)** | Heeft eigen tegel op thuisscherm |
+| ** [Account-based Web Marketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Toegankelijk via web Personalization tile |
+| ** [Persoonlijk opnieuw oprichten](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Toegankelijk via web Personalization tile |
+| ** [Predictieve inhoud](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Heeft eigen tegel op thuisscherm |
 
 >[!NOTE]
 >
