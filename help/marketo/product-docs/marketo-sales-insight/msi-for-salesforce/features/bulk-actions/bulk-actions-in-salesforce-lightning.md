@@ -3,7 +3,7 @@ unique-page-id: 37356282
 description: Bulkacties in Salesforce Lightning - Marketo Docs - Productdocumentatie
 title: Bulkacties in Salesforce Lightning
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -48,4 +48,3 @@ Hier is hoe u bulkacties kunt instellen in Salesforce Lightning.
    >[!NOTE]
    >
    >Herhaal dezelfde stappen om acties voor grote hoeveelheden toe te voegen in de lijstweergave van uw contactpersoon.
-
