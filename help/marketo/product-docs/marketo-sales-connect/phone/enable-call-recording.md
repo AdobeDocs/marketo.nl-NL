@@ -3,9 +3,9 @@ unique-page-id: 45416564
 description: Laat Opname van de Vraag toe - Marketo Docs - de Documentatie van het Product
 title: Schakel Call Recording in
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ Als beheerder kunt u vraagopname voor uw Verkoop toelaten Connect vraag. Het reg
 
    ![](assets/three.png)
 
-1. Als u uw verkopers de capaciteit wilt geven om vraagopname voor zich in of onbruikbaar te maken, klik** Facultatieve opname voor alle teamleden. **Als u alle vraag wilt automatisch geregistreerd,** klikRecord alle vraag.**
+1. Als u uw verkopers de capaciteit wilt geven om vraagopname voor zich toe te laten of onbruikbaar te maken, klik **Facultatieve opname voor alle teamleden**. Als u alle vraag wilt automatisch geregistreerd, klik **Verslag alle vraag**.
 
    ![](assets/four.png)
 
 >[!MORELIKETHIS]
 >
->[Instellingen voor twee partijen voor toestemming](http://docs.marketo.com/x/dgC1Ag)
-
+>[Instellingen voor twee partijen voor toestemming](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
