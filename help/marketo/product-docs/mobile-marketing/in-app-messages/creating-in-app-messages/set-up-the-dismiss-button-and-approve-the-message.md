@@ -3,7 +3,7 @@ unique-page-id: 10912178
 description: De knop Ontwerpen instellen en het bericht - Marketo Docs - Productdocumentatie goedkeuren
 title: De knop Ontwerpen instellen en het bericht goedkeuren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '366'
 ht-degree: 0%
@@ -71,12 +71,12 @@ Alle selecties voor de afbeeldingen, tekst en knoppen zijn automatisch opgeslage
 
 Zoveel keuzes, maar nu heb je een geweldige boodschap in de app, klaar om te gaan!
 
-Nu is het tijd om [uw bericht te verzenden](http://docs.marketo.com/display/docs/send+your+in-app+message).
+Nu is het tijd om [uw bericht te verzenden](https://docs.marketo.com/display/docs/send+your+in-app+message).
 
 >[!MORELIKETHIS]
 >
 >* [In-app berichten begrijpen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Uw bericht in de app verzenden](http://docs.marketo.com/display/docs/send+your+in-app+message)
+>* [Uw bericht in de app verzenden](https://docs.marketo.com/display/docs/send+your+in-app+message)
 >* [Kies een lay-out voor uw bericht in de app](choose-a-layout-for-your-in-app-message.md)
 
 >
