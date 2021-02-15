@@ -3,7 +3,7 @@ unique-page-id: 2360028
 description: Een rapport klonen - Marketo Docs - Productdocumentatie
 title: Een rapport klonen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een rapport klonen {#clone-a-report}
 
-Maak een kopie van uw rapport om het verder aan te passen zonder het origineel te wijzigen.
+Maak een duplicaat van uw rapport om het verder aan te passen zonder het origineel te wijzigen.
 
 1. Ga naar **Marketingactiviteiten** (of **Analytics**) gebied.
 
@@ -41,5 +41,5 @@ Maak een kopie van uw rapport om het verder aan te passen zonder het origineel t
    >    * [Personen in een rapport filteren met een slimme lijst](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md)
 
 
-   Doe nog veel meer om uw rapport aan te passen! Zie [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
+   Doe nog veel meer om uw rapport aan te passen! Zie [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting).
 
