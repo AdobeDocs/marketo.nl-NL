@@ -3,7 +3,7 @@ unique-page-id: 2951093
 description: Opmerkingen bij de release - juli 2013 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juli 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: Juli 2013 {#release-notes-july}
 
-De volgende functies zijn opgenomen in de release van juli die gepland is voor een introductie op vrijdag 26 juli.  Controleer [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van juli die gepland is voor een introductie op vrijdag 26 juli.  Controleer [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
 
 Na de release moet u het tabblad [Nieuwe release](release-notes-december-2013.md) in de Community uitchecken voor gedetailleerde Help-artikelen voor elke functie!
 
