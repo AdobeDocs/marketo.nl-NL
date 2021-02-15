@@ -3,7 +3,7 @@ unique-page-id: 2360225
 description: Middelen filteren in een e-mailrapport - Marketo Docs - Productdocumentatie
 title: Middelen in een e-mailrapport filteren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -55,5 +55,5 @@ Focus uw [E-mailprestaties](../../../../product-docs/email-marketing/email-progr
 >
 >**Diep duiken**
 >
->Meer informatie over rapporten vindt u in [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
+>Meer informatie over rapporten vindt u in [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting).
 
