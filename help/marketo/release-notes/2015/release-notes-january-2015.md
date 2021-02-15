@@ -3,7 +3,7 @@ unique-page-id: 4720758
 description: Opmerkingen bij de release - januari 2015 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - januari 2015
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Drie nieuwe aanroepen voor de API voor leidende informatie en activiteiten:
 * Leads ophalen op basis van programma-id
 * Verwijderde leads ophalen
 
-Er is ook een nieuwe optie voor Synchroniseren van lead, waarmee de lead-wijziging asynchroon kan worden geschreven voor een snellere API-aanroep. Alle details zijn beschikbaar na de release op [developers.marketo.com](http://developers.marketo.com)
+Er is ook een nieuwe optie voor Synchroniseren van lead, waarmee de lead-wijziging asynchroon kan worden geschreven voor een snellere API-aanroep. Alle details zijn beschikbaar na de release op [developers.marketo.com](https://developers.marketo.com)
 
 **Ondersteuning voor aangepaste objecten voor e-mailscripts**
 
@@ -59,13 +59,13 @@ De verbeteringen aan de module Benoemde accounts zullen de percentages en valida
 
 Bijgewerkte opties voor RTP-tags
 
-[De Tagoptions van RTP ](http://docs.marketo.com/display/docs/rtp+tag+implementation) onder de Montages van de Rekening zijn bijgewerkt om te omvatten:
+[De Tagoptions van RTP ](https://docs.marketo.com/display/docs/rtp+tag+implementation) onder de Montages van de Rekening zijn bijgewerkt om te omvatten:
 
 1. CDN en Asynchroon (aanbevolen tag)
 1. CDN en synchroon (hoge snelheid)
 1. Asynchrone tag zonder CDN
 1. Synchrone tag zonder CDN
 
-Voor de beste prestaties verdient het aanbeveling de tag boven aan de koptekst op de webpagina na `<head>` te plaatsen. Alle markeringen staan voor gebruik van [RTP API](http://developers.marketo.com/documentation/websites/rtp-js-api/) toe. Voor informatie over hoe te om de markering op te stellen RTP zie [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Voor de beste prestaties verdient het aanbeveling de tag boven aan de koptekst op de webpagina na `<head>` te plaatsen. Alle markeringen staan voor gebruik van [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/) toe. Voor informatie over hoe te om de markering op te stellen RTP zie [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)
