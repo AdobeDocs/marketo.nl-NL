@@ -3,7 +3,7 @@ unique-page-id: 10092925
 description: Een webcampagne voorvertonen en testen - Marketo Docs - Productdocumentatie
 title: Een webcampagne voorvertonen en testen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -35,7 +35,7 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
    >[!NOTE]
    >
-   >U kunt ook een browserplug-in installeren (of [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) of [Firefox](http://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) voor de beste ervaring bij het voorvertonen van uw campagne. Zie de onderstaande paragraaf.
+   >U kunt ook een browserplug-in installeren (of [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) of [Firefox](https://docs.marketo.com/display/docs/assets/mwp-0.0.0.8.xpi)) voor de beste ervaring bij het voorvertonen van uw campagne. Zie de onderstaande paragraaf.
 
 ## Voorproef een Campagne van het Web op de Aanmaakpagina die Browser Plug-in {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in} gebruikt
 
@@ -92,7 +92,7 @@ Maak een sandboxsegment en -campagne.
 1. Voltooi de campagne creatief en klik **Launch**.\
    ![](assets/click-launch.jpg)
 
-1. Ga naar uw website en voeg de URL-parameter &quot;?sandbox=1&quot; toe aan het einde van de URL. Voorbeeld: [www.marketo.com?sandbox=1](http://www.marketo.com/?sandbox=1)
+1. Ga naar uw website en voeg de URL-parameter &quot;?sandbox=1&quot; toe aan het einde van de URL. Voorbeeld: [www.marketo.com?sandbox=1](https://www.marketo.com/?sandbox=1)
 1. Bekijk de campagnereactie op uw website.
 
 >[!NOTE]
