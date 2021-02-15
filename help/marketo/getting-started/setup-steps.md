@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Stappen voor installatie - Marketo Docs - Productdocumentatie
 title: Stappen instellen
 translation-type: tm+mt
-source-git-commit: 0a4050545c5c956001c9c299cfbcf59e9cffd39c
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2143'
 ht-degree: 0%
@@ -159,7 +159,7 @@ Vorm uw domeinmontages zodat gebruiken de het landen pagina&#39;s het domein van
    Er zijn verschillende maatregelen die u kunt nemen om ervoor te zorgen dat de e-mails zoveel mogelijk van uw mensen bereiken.
 
    1. **Geef de koppelingen** voor reeksspatiëring weer. U kunt een CNAME kiezen om uw eigen domein (in plaats van Marketo&#39;s) te gebruiken in de koppelingen die u in e-mails van Marketo opneemt. Dit versterkt uw domeinbranding en verhoogt vertrouwen en leverbaarheid met uw ontvangers.
-   1. **Voeg Marketo toe aan uw bedrijfs-e-maillijst van gewenste personen.** Het is gebruikelijk om teste-mails naar uw testaccounts te sturen voordat u e-mails naar de werkelijke gebruikers stuurt. Als u Marketo toe_voegt op lijst van gewenste personen, kunt u voorkomen dat deze teste-mails worden geblokkeerd of gemarkeerd als spam.
+   1. **Voeg Marketo toe aan uw bedrijfs-e-maillijst van gewenste personen.** Het is gebruikelijk om teste-mails naar uw testaccounts te sturen voordat u e-mails naar de werkelijke gebruikers stuurt. Als u Marketo voegt op lijst van gewenste personen, kunt u voorkomen dat deze teste-mails worden geblokkeerd of gemarkeerd als spam.
    1. **Stel SPF en DKIM in.** Deze technologieën verzekeren uw ontvangers dat uw Marketo e-mails geen spam zijn. Om te helpen voorkomen dat spamfilters van ontvangers u Marketo-e-mails afwijzen, voert u de volgende stappen uit naar [Een SPF en DKIM instellen voor uw e-mailleverbaarheid](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
    1. **Stel een MX-record in voor uw domein.** Met een MX-record kunt u e-mail ontvangen naar het domein waarvan u e-mail verzendt om reacties en auto-responders te verwerken. Als u vanuit uw bedrijfsdomein verzendt, is dit waarschijnlijk al geconfigureerd. Als niet, kunt u opstelling gewoonlijk aan kaart aan het MX verslag van uw collectief domein.
    1. **Aanbevolen instellingen voor Van adres.** U moet een geldig, bestaand en werkend e-maildomein in Van Adres in alle e-mailcampagnes gebruiken. Het kan nuttig zijn om subdomain van uw collectief domein eerder dan het verzenden van uw collectief domein te vormen. Dit zal ervoor zorgen de kwesties van uw collectieve brievenstroom niet uw Marketo mailstream en vice versa beïnvloeden. Bovendien zal het verzenden van post van something@nonexistentdomain.com e-mail veroorzaken om worden gefiltreerd of worden geblokkeerd. Elk domein dat in het Van Adres van de afzender wordt gebruikt, moet een geldige en werkende postmaster@ en een misbruikaccount hebben.
@@ -330,7 +330,7 @@ Stuur de e-mail naar de IT-afdeling. We begrijpen dat het enige tijd kan duren v
    >
    >Deze aangepaste sjablonen zijn alleen beschikbaar voor klanten van Launch Pack.
 
-   Ga naar [Sjabloonontwerp markeren en bouwen](http://pages2.marketo.com/CESubmit-URL-ForTemplates.html) vorm. Vul uw bedrijfsgegevens in.
+   Ga naar [Sjabloonontwerp markeren en bouwen](https://pages2.marketo.com/CESubmit-URL-ForTemplates.html) vorm. Vul uw bedrijfsgegevens in.
 
    ![](assets/image2014-9-12-11-3a4-3a55.png)
 
