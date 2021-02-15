@@ -3,7 +3,7 @@ unique-page-id: 7512944
 description: Marketo Insights gebruiken voor Google Chrome - Marketo Docs - Productdocumentatie
 title: Marketo Insights gebruiken voor Google Chrome
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Verzend en traceer alle Google-e-mails met Marketo Insights voor Google Chrome.
 
 >[!PREREQUISITES]
 >
->* [Marketo Insights installeren voor Google Chrome](install-marketo-insights-for-google-chrome.md)
-
->
-
-
+>[Marketo Insights installeren voor Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 ## E-mail verzenden met marktoverzichten {#send-an-email-with-marketo-insights}
 
@@ -41,11 +37,11 @@ Verzend en traceer alle Google-e-mails met Marketo Insights voor Google Chrome.
    >
    >Klik indien nodig op de dubbele pijl om deze uit te breiden naar een volledige schermweergave.
 
-1. Als u uw e-mail met een gepubliceerde malplaatje van Marketo wilt vooraf invullen, klik **Meer Opties** en selecteer **Sjabloon van Marketo van de Lading.**
+1. Als u uw e-mail met een gepubliceerde malplaatje van de Marketo vooraf wilt vullen, klik **Meer Opties** en selecteer **Marketo Template** laden.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Selecteer een **Beschikbare sjabloon** en klik op **OK.**
+1. Selecteer een **Beschikbare sjabloon** en klik **Ok**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -75,10 +71,6 @@ U kunt antwoorden en oude activiteit in de activiteitengeschiedenis van een lood
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Marketo Insights installeren voor Google Chrome](install-marketo-insights-for-google-chrome.md)
-   >    * [Personen- en accountgegevens en -activiteiten weergeven in Google Mail](view-person-and-account-information-and-activities-in-google-mail.md)
-
+   >* [Marketo Insights installeren voor Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [Personen- en accountgegevens en -activiteiten weergeven in Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
 
