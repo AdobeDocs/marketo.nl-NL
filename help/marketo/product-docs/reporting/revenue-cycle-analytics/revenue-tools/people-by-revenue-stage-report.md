@@ -3,7 +3,7 @@ unique-page-id: 2360418
 description: Personen op basis van omzet - Verslag over Marketo Docs - Productdocumentatie
 title: Rapport Personen op omzet
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapport Personen op basis van omzet {#people-by-revenue-stage-report}
 
-U kunt een rapport maken waarin wordt aangegeven in welk stadium van uw [Indelingscyclusmodel](http://docs.marketo.com/display/docs/revenue+cycle+models) uw personen zich bevinden. Het rapport bevat elke fase van het opgegeven model zolang er een persoonlijke balans is voor het gegeven datumbereik van het rapport.
+U kunt een rapport maken waarin wordt aangegeven in welk stadium van uw [Indelingscyclusmodel](https://docs.marketo.com/display/docs/revenue+cycle+models) uw personen zich bevinden. Het rapport bevat elke fase van het opgegeven model zolang er een persoonlijke balans is voor het gegeven datumbereik van het rapport.
 
 >[!AVAILABILITY]
 >
@@ -49,5 +49,5 @@ U kunt een rapport maken waarin wordt aangegeven in welk stadium van uw [Indelin
    >**Diep duiken**
    >
    >
-   >Leer hoe te om kolommen en meer in [Basis toe te voegen Rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   >Leer hoe te om kolommen en meer in [Basis toe te voegen Rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
