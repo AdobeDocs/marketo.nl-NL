@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Websegmenten - Marketo Docs - Productdocumentatie
 title: Websegmenten
 translation-type: tm+mt
-source-git-commit: e3f4eb27d30887ef53d6636a6bd2929bc8f43a88
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -108,23 +108,27 @@ Definieer algemene parameters voor uw segment:
 >1. Alle filters gebruiken (1 en 2 en 3...)
 >1. Alle filters gebruiken (1, 2 of 3...)
 >1. Geavanceerde filters (met en/of expressies)
->
->    Met geavanceerde filters kunt u de segmentvoorwaarde bepalen. Voer de filternummers in, gescheiden door &quot;en&quot; en &quot;of&quot;.
->
->    * 1, 2 en 3
->    * 1 of 2 of 3
->
->    Het mengen van &quot;en&quot; en &quot;of&quot; vereist haakjes om logische intentie te verduidelijken. bijv. &quot;1 of 2 and 3&quot; moet worden geschreven als een van de volgende vermeldingen:
->
->    * 1 en (2 of 3)
->    * (1 en 2) of 3
->
->    Geneste haakjes worden geaccepteerd voor complexere logica, bijvoorbeeld
->
->    * (1 en 2) of (3 en 4)
->    * 1 en (2 of (3 en 4))
->
->    Controleer uw logica na het invoegen, verwijderen of opnieuw rangschikken.
+
+   >
+   >    
+   Met geavanceerde filters kunt u de segmentvoorwaarde bepalen. Voer de filternummers in, gescheiden door &quot;en&quot; en &quot;of&quot;.
+   >
+   >    
+   * 1, 2 en 3
+   >    * 1 of 2 of 3
+
+   >
+   Het mengen van &quot;en&quot; en &quot;of&quot; vereist haakjes om logische intentie te verduidelijken. bijv. &quot;1 of 2 and 3&quot; moet worden geschreven als een van de volgende vermeldingen:
+
+   * 1 en (2 of 3)
+   * (1 en 2) of 3
+
+   Geneste haakjes worden geaccepteerd voor complexere logica, bijvoorbeeld
+
+   * (1 en 2) of (3 en 4)
+   * 1 en (2 of (3 en 4))
+
+   Controleer uw logica na het invoegen, verwijderen of opnieuw rangschikken.
 
 
 
@@ -192,7 +196,7 @@ Selecteer uit een [Benoemde Lijst van de Rekening](../../../product-docs/web-per
 
 >[!NOTE]
 >
->Het aantal tussen de haakjes naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor de Personalisering van het Web [Lees API](http://developers.marketo.com/documentation/websites/rtp-js-api/).
+>Het aantal tussen de haakjes naast de Benoemde naam van de Lijst van de Rekening wordt gebruikt als indexverwijzing voor de lijst voor de Personalisering van het Web [Lees API](https://developers.marketo.com/documentation/websites/rtp-js-api/).
 
 **ISP uitsluiten**
 
@@ -292,11 +296,11 @@ Voeg de waarde van de Gebeurtenis toe u wilt richten. Bijvoorbeeld uit gegevensb
 
 **Context-API van gebruiker**
 
-Web Personalization API call [read meer over het hier.](http://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Web Personalization API call [read meer over het hier.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
 
 >[!TIP]
 >
->**Met jokertekens -** Wanneer u een zoekterm of URL wilt opnemen die iets in de naam bevat, dat wil zeggen: &quot;[google.com](http://google.com)&quot; of &quot;zoekterm product&quot;, noemen wij dit een jokerteken en het zou met een asterisk - deze kleine kerel* - op elk eind moeten worden ingevoerd. Daarom moet alles wat afkomstig is van [google.com](http://google.com) worden ingevoerd als * [google.com](http://google.com)*
+>**Met jokertekens -** Wanneer u een zoekterm of URL wilt opnemen die iets in de naam bevat, dat wil zeggen: &quot;[google.com](https://google.com)&quot; of &quot;zoekterm product&quot;, noemen wij dit een jokerteken en het zou met een asterisk - deze kleine kerel* - op elk eind moeten worden ingevoerd. Daarom moet alles wat afkomstig is van [google.com](https://google.com) worden ingevoerd als * [google.com](https://google.com)*
 
 ## Segmenten {#edit-segments} bewerken
 
