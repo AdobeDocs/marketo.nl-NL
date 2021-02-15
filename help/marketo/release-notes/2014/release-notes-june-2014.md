@@ -3,7 +3,7 @@ unique-page-id: 2951042
 description: Opmerkingen bij de release - Juni 2014 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Wanneer u een test-e-mail verzendt vanuit Sales Insight, worden de tokens in de 
 
 ## ReST-API voor lead {#lead-rest-api}
 
-Met de nieuwe ReST-API kunt u met programmacode leads maken, lezen en bijwerken. Om met ReST te beginnen moet u [een douanedienst ](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo creëren. Ga vervolgens naar de [site voor ontwikkelaars](http://developers.marketo.com/documentation/rest/) voor meer informatie over het gebruik van deze API.
+Met de nieuwe ReST-API kunt u met programmacode leads maken, lezen en bijwerken. Om met ReST te beginnen moet u [een douanedienst ](../../product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo creëren. Ga vervolgens naar de [site voor ontwikkelaars](https://developers.marketo.com/documentation/rest/) voor meer informatie over het gebruik van deze API.
 
 ## Marketo Real-Time Personalization (RTP) zoekt Pagina-update {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
