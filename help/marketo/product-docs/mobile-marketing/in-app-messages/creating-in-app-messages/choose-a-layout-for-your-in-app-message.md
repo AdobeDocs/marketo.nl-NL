@@ -3,7 +3,7 @@ unique-page-id: 10100434
 description: Kies een lay-out voor uw bericht in de app - Marketo Docs - Productdocumentatie
 title: Kies een lay-out voor uw bericht in de app
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 0%
@@ -62,7 +62,7 @@ Nu u over de malplaatjes weet, het tijd om te kiezen wanneer u [creeer uw in-app
 
 >[!MORELIKETHIS]
 >
->* [Een bericht in de app maken](http://docs.marketo.com/display/docs/create+an+in-app+message)
+>* [Een bericht in de app maken](https://docs.marketo.com/display/docs/create+an+in-app+message)
 >* [In-app berichten begrijpen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 
 >
