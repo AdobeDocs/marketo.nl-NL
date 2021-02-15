@@ -3,7 +3,7 @@ unique-page-id: 12979008
 description: Overzicht van de bijdrage van prestatieonderzoeken - Marketo-documenten - productdocumentatie
 title: Overzicht van de bijdrage van Performance Insights
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken
 
 >[!NOTE]
 >
->Meer informatie over [First-Touch en Multi-Touch](http://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Meer informatie over [First-Touch en Multi-Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
 
 Kies voor welke periode u metriek wilt weergeven. In dit voorbeeld bekijken we het huidige jaar (van jaar tot dag).   ![](assets/3-1.png)
 
