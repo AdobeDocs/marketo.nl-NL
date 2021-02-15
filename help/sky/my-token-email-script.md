@@ -2,7 +2,7 @@
 title: my-token-email-script
 description: Mijn token-e-mailscript
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <br> 
 
-Voor gevorderde ontwikkelaars kunt u [Snelheidsscripts](http://velocity.apache.org/engine/1.7/user-guide.html) in uw e-mails gebruiken door een token voor e-mailscripts in te stellen. Zo doe je het.
+Voor gevorderde ontwikkelaars kunt u [Snelheidsscripts](https://velocity.apache.org/engine/1.7/user-guide.html) in uw e-mails gebruiken door een token voor e-mailscripts in te stellen. Zo doe je het.
 
 1. Sleep op het tabblad [!UICONTROL My Tokens] van uw programma of map een **[!UICONTROL Email Script]**-token naar het canvas [!UICONTROL Local Tokens].
 
@@ -34,10 +34,10 @@ Voor gevorderde ontwikkelaars kunt u [Snelheidsscripts](http://velocity.apache.o
 
 1. Schrijf uw script in Snelheid. Hier volgen enkele handige bronnen die u helpen:
 
-   * [Documenten met e-mailscripts voor Marketo Developers](http://developers.marketo.com/email-scripting/)
-   * [Gebruikershandleiding voor snelheid](http://velocity.apache.org/engine/devel/user-guide.html)
-   * [Snelheidsnaslaggids](http://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [VelocityTools 2.0 Documentation](http://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [Documenten met e-mailscripts voor Marketo Developers](https://developers.marketo.com/email-scripting/)
+   * [Gebruikershandleiding voor snelheid](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [Snelheidsnaslaggids](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [VelocityTools 2.0 Documentation](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. Wanneer uw script is voltooid, klikt u op **[!UICONTROL Save]**.
 
