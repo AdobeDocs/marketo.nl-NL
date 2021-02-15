@@ -3,9 +3,9 @@ unique-page-id: 14352509
 description: Dynamische woordenlijst velden - Marketo Docs - Productdocumentatie
 title: Woordenlijst Dynamische velden
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -24,18 +24,16 @@ Dit hulpmiddel wordt gebruikt aan `auto-personalize your email` en sparen u tonn
 | `{{first_name}}` | Keith |
 | `{{friendly_unsubscribe}}` | Als je niet meer van mij wilt horen, laat het me hier weten |
 | `{{my_name}}` | Alan Bradley |
-| `{{personal_email}}` | [[beveiligd via e-mail]](http://docs.marketo.com/cdn-cgi/l/email-protection) |
+| `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | Senior Technical Writer |
 | `{{work_website}}` | https://www.marketo.com |
 
 **Notities**:
 
-* Als een contact `information is entered incorrectly` of van de pagina van Mensen mist, `will not pull over correctly` in uw malplaatje.
-
-* Het verschil tussen `{{company}}` en `{{company_friendly}}` is dat `{{company_friendly}}` `remove any formal title`, zoals Inc., LLC., etc., van de naam van het bedrijf van uw contact zal.
+* Als de contactgegevens onjuist zijn ingevoerd of ontbreken op de pagina Personen, worden deze niet correct in de sjabloon ingevoerd.
+* Het verschil tussen `{{company}}` en `{{company_friendly}}` is dat `{{company_friendly}}` om het even welke formele titel, zoals Inc., LLC., enz., uit de naam van het bedrijf van uw contact zal verwijderen.
 * Wanneer het gebruiken van `{{company_friendly}}`, zorg ervoor u Inc. scheidt of met een komma in de contactdetails. Zo weet Sales Connect wat er moet worden verwijderd wanneer u de waarde opgeeft.
 
 >[!TIP]
 >
->U kunt uw eigen [aangepast dynamisch veld maken](http://docs.marketo.com/x/fADb) voor alles wat u automatisch in uw e-mails wilt opnemen
-
+>U kunt uw eigen [aangepast dynamisch veld maken](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md) voor alles wat u automatisch in uw e-mails wilt opnemen
