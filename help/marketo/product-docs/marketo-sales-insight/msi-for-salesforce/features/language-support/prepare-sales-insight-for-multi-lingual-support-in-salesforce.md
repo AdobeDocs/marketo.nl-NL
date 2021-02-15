@@ -3,9 +3,9 @@ unique-page-id: 7516460
 description: Verkoopoverzicht voorbereiden voor meertalige ondersteuning in Salesforce - Marketo Docs - Productdocumentatie
 title: Verkoopoverzicht voorbereiden voor meertalige ondersteuning in Salesforce
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -31,12 +31,13 @@ Marketo Sales Insight wordt per taal opgeslagen. Dus als u wilt dat het voor mee
 >
 Elke andere taal wordt standaard ingesteld op Engels.
 
-1. Een nieuwe taal toevoegen voor Marktverkoop Insight
+## Een nieuwe taal voor Marktverkoop toevoegen {#adding-a-new-language-for-marketo-sales-insight}
+
 1. Meld u aan bij Salesforce. Klik in de vervolgkeuzelijst onder uw naam in de rechterbovenhoek op **Setup**.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Onder** Mijn Persoonlijke Informatie**, klik **Persoonlijke Informatie**.
+1. Onder **Mijn Persoonlijke Informatie**, klik **Persoonlijke Informatie**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
@@ -52,11 +53,11 @@ Elke andere taal wordt standaard ingesteld op Engels.
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. Klik **Vorm het Inzicht van de Verkoop van de Marketo ** (in de geselecteerde taal).
+1. Klik **Het Inzicht van de Verkoop van de Marketo vormen** (in de geselecteerde taal).
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Ga naar Marketo. Zoek uw [Marketo Sales Insight **API-configuratie** details](https://docs.marketo.com/pages/viewpage.action?pageId=2360368#ConfigureMarketoSalesInsightinSalesforceEnterprise/Unlimited-ConfigureMarketoSalesInsight).
+1. Ga naar Marketo. Zoek uw [Marketo Sales Insight **API-configuratie** details](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
@@ -72,7 +73,7 @@ Wanneer u klaar bent met het aanpassen van uw organisatie Salesforce, is hier ho
 >
 >De volgende screenshots zijn in het Frans met instructies in het Engels.  U ziet dezelfde schermen met tekst in de taal die u in de vorige stap hebt geselecteerd.
 
-1. Klik onder uw naam op Instellen.
+1. Klik onder uw naam op **Setup**.
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
@@ -89,4 +90,3 @@ Wanneer u klaar bent met het aanpassen van uw organisatie Salesforce, is hier ho
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 
    Nu is je Salesforce weer in het Engels!
-
