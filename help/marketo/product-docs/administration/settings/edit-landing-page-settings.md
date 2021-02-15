@@ -3,7 +3,7 @@ unique-page-id: 2359918
 description: Instellingen voor openingspagina bewerken - Marketo-documenten - Productdocumentatie
 title: Instellingen openingspagina bewerken
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -31,7 +31,7 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
 
    | Term | Definitie |
    |---|---|
-   | Domeinnaam voor bestemmingspagina&#39;s | Dit is uw NAAM. Een CNAME is het eerste deel van URL u mensen voor het landen van pagina&#39;s geeft. In `http://go.yourCompany.com` is het woord &quot;go&quot; bijvoorbeeld de CNAME. Je kan meerdere, maar de meeste mensen gebruiken gewoon het ene. |
+   | Domeinnaam voor bestemmingspagina&#39;s | Dit is uw NAAM. Een CNAME is het eerste deel van URL u mensen voor het landen van pagina&#39;s geeft. In `https://go.yourCompany.com` is het woord &quot;go&quot; bijvoorbeeld de CNAME. Je kan meerdere, maar de meeste mensen gebruiken gewoon het ene. |
    | Pagina voor alternatieven | Dit is waar je naartoe moet als de landingspagina niet bestaat of omlaag is. Meer informatie over [fallback-pagina&#39;s](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Homepage | Voer de URL van uw bedrijfssite in. |
 
