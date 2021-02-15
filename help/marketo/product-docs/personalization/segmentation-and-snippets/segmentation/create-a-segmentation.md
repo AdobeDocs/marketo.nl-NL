@@ -3,7 +3,7 @@ unique-page-id: 2359447
 description: Een segmentatie maken - Marketo Docs - Productdocumentatie
 title: Een segmentatie maken
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Met segmentatie kunt u personen groeperen in afzonderlijke profielen voor rappor
    >Het totale aantal segmenten dat u in een segmentatie kunt maken, is afhankelijk van het aantal en het type filters dat wordt gebruikt en ook van de complexiteit van de logica van de segmenten. Hoewel u tot 100 segmenten kunt tot stand brengen gebruikend standaardgebieden, kan het gebruiken van andere types van filters de ingewikkeldheid verhogen, en uw segmentatie zou kunnen niet goedkeuren. Enkele voorbeelden zijn: aangepaste velden, het lid van de lijst, de velden voor de eigenaar van leads en de inkomstenstadia.
    >
    >
-   >Als u een foutenmelding tijdens goedkeuring krijgt en hulp bij het verminderen van de ingewikkeldheid van uw segmentatie vereist, gelieve [Marketo Steun](http://docs.marketo.com/cdn-cgi/l/email-protection#e794929797889593a78a86958c829388c984888a) te contacteren.
+   >Als u een foutenmelding tijdens goedkeuring krijgt en hulp bij het verminderen van de ingewikkeldheid van uw segmentatie vereist, gelieve [Marketo Steun](https://docs.marketo.com/cdn-cgi/l/email-protection#e794929797889593a78a86958c829388c984888a) te contacteren.
 
 1. Sleep de segmenten en zet ze neer om de volgorde te wijzigen. Klik eenmaal op **Maken**.
 
