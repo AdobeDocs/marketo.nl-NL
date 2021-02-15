@@ -3,7 +3,7 @@ unique-page-id: 11384634
 description: Predictive Content Summary - Marketo Docs - Productdocumentatie
 title: Het overzicht met voorspellende inhoud
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -55,8 +55,8 @@ Welke inhoudscategorieën zijn het meest aantrekkelijk? Zie het in deze grafiek.
 
 >[!MORELIKETHIS]
 >
->* [Werken met alle inhoud](http://docs.marketo.com/display/docs/working+with+all+content)
->* [Werken met voorspellende inhoud](http://docs.marketo.com/display/docs/working+with+predictive+content)
+>* [Werken met alle inhoud](https://docs.marketo.com/display/docs/working+with+all+content)
+>* [Werken met voorspellende inhoud](https://docs.marketo.com/display/docs/working+with+predictive+content)
 
 >
 
