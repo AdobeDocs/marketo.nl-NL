@@ -3,7 +3,7 @@ unique-page-id: 18317369
 description: Sjabloonlijst weergeven als een andere gebruiker - Marketo Docs - Productdocumentatie
 title: Sjabloonlijst weergeven als een andere gebruiker
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Als beheerder kunt u sjablonen weergeven als elke gebruiker.
    >[!NOTE]
    >
    >U kunt filters of de onderzoeksfunctie samen met Mening ook gebruiken om te bekijken wat voor u het meest relevant is.
-
