@@ -3,7 +3,7 @@ unique-page-id: 2359474
 description: Een segmentatie bewerken - Marketo Docs - Productdocumentatie
 title: Een segmentatie bewerken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Het is eenvoudig om wijzigingen aan te brengen in uw bestaande segmentaties. Hie
 
 ## Segmentregels bewerken {#edit-segment-rules}
 
-1. In uw Ontwerp **Segment**, ga naar **Slimme Lijst**. Pas regels toe gelijkend op [Bepalend Regels van het Segment](http://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
+1. In uw Ontwerp **Segment**, ga naar **Slimme Lijst**. Pas regels toe gelijkend op [Bepalend Regels van het Segment](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
