@@ -3,7 +3,7 @@ unique-page-id: 12979012
 description: Filteren in prestatiegegevens - Marketo Docs - Productdocumentatie
 title: Filteren in prestatie-inzichten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Klik op + om filters toe te voegen.
 
 >[!NOTE]
 >
->Op dit moment zijn Aangepaste kenmerken alleen beschikbaar in filters voor klanten die [RCA](http://docs.marketo.com/x/lwIk) hebben ingeschakeld.
+>Op dit moment zijn Aangepaste kenmerken alleen beschikbaar in filters voor klanten die [RCA](https://docs.marketo.com/x/lwIk) hebben ingeschakeld.
 
 Als u op een categorie klikt, worden meerdere subcategorieën weergegeven.
 
@@ -53,11 +53,11 @@ U kunt een filter op elk gewenst moment verwijderen door op de X naast het filte
   </tr> 
   <tr> 
    <td colspan="1"><strong>Benoemd ABM-account</strong></td> 
-   <td colspan="1">Als u Marketo ABM gebruikt, worden al uw benoemde accounts gesynchroniseerd met MPI en zijn deze zichtbaar via het filter ABM Named Account. U kunt een benoemde account selecteren om de resultaten naar die accounts te filteren.<a href="http://docs.marketo.com/x/eaCt" rel="nofollow">Meer weten over ABM-accounts?</a></td> 
+   <td colspan="1">Als u Marketo ABM gebruikt, worden al uw benoemde accounts gesynchroniseerd met MPI en zijn deze zichtbaar via het filter ABM Named Account. U kunt een benoemde account selecteren om de resultaten naar die accounts te filteren.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Meer weten over ABM-accounts?</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Aangepaste kenmerken</strong></td> 
-   <td colspan="1"><p>Deze worden door jou bepaald. Alle gebieden <a href="http://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">u laat </a> voor de opportuniteitsanalyse toe kan in de Inzichten van Prestaties worden gefiltreerd.</p></td> 
+   <td colspan="1"><p>Deze worden door jou bepaald. Alle gebieden <a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">u laat </a> voor de opportuniteitsanalyse toe kan in de Inzichten van Prestaties worden gefiltreerd.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Beleggingsperiode</strong></p></td> 
