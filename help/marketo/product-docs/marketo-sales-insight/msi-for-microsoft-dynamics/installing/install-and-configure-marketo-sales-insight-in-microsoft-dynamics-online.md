@@ -3,9 +3,9 @@ unique-page-id: 37355602
 description: Het Inzicht van de Verkoop van de Marketo in de Dynamica van Microsoft online installeren en vormen - Marketo Docs - de Documentatie van het Product
 title: Het Inzicht van de Verkoop van de Marketo in de Dynamica van Microsoft online installeren en vormen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Marketo Sales Insight is een fantastisch hulpmiddel om uw verkoopteam een &quot;
 
 >[!PREREQUISITES]
 >
->Voltooi uw [Marketo-Microsoft integratie](http://docs.marketo.com/x/E4A2).
+>Voltooi uw integratie van Marketo-Microsoft.
 >
->[Download de correcte ](http://docs.marketo.com/x/LoJo) oplossing voor uw versie van CRM van de Dynamica van Microsoft.
+>[Download de correcte ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) oplossing voor uw versie van CRM van de Dynamica van Microsoft.
 
 ## Oplossing {#import-solution} importeren
 
@@ -31,7 +31,7 @@ Marketo Sales Insight is een fantastisch hulpmiddel om uw verkoopteam een &quot;
 
    ![](assets/image2014-12-12-9-3a4-3a56-1.png)
 
-1. Klik onder INSTELLINGEN op **Aanpassingen**.
+1. Klik onder Instellingen op **Aanpassingen**.
 
    ![](assets/image2015-4-29-14-3a22-3a1-1.png)
 
@@ -40,9 +40,6 @@ Marketo Sales Insight is een fantastisch hulpmiddel om uw verkoopteam een &quot;
    ![](assets/image2014-12-12-9-3a5-3a17-1.png)
 
    >[!NOTE]
-   >
-   >**Herinnering**
-   >
    >
    >U zou reeds de oplossing van het Marketo geïnstalleerd en gevormd moeten hebben alvorens zich vooruit te bewegen.
 
@@ -55,6 +52,7 @@ Marketo Sales Insight is een fantastisch hulpmiddel om uw verkoopteam een &quot;
    ![](assets/image2014-12-12-9-3a5-3a36-1.png)
 
 1. Zoek en installeer de zojuist gedownloade oplossing op uw computer.
+
 1. Klik **Volgende**.
 
    ![](assets/seven.png)
@@ -89,7 +87,7 @@ Laten we je Marketo-instantie aan Sales Insight in Dynamics koppelen. Hieronder 
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Meld u aan bij Marketo en ga naar de sectie **Admin **.
+1. Meld u aan bij Marketo en ga naar de sectie **Admin**.
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
@@ -107,17 +105,14 @@ Laten we je Marketo-instantie aan Sales Insight in Dynamics koppelen. Hieronder 
 
    >[!NOTE]
    >
-   >De volgende gebieden moeten met Marketo voor *zowel Lood als Contact* voor het Inzicht van de Verkoop worden gesynchroniseerd om te werken:
+   >De volgende gebieden moeten met Marketo voor _zowel Lood als Contact_ voor het Inzicht van de Verkoop worden gesynchroniseerd om te werken:
    >
-   >    
-   >    
-   >    * Prioriteit
-   >    * Urgentie
-   >    * Relatieve score
+   >* Prioriteit
+   >* Urgentie
+   >* Relatieve score
 
-   >    
-   >    
-   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [deze procedure](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
+   >
+   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [deze procedure](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
 
 1. Terug in de Dynamiek van Microsoft, ga naar **Montages**.
 
@@ -153,7 +148,7 @@ Laten we je Marketo-instantie aan Sales Insight in Dynamics koppelen. Hieronder 
 
    ![](assets/enable-four.png)
 
-1. Dit zal *automatisch* uitgezochte gebieden MSI die eerder onbruikbaar werden gemaakt (Urgentie, Relatieve Score, en Prioriteit). Klik **Opslaan** om te beginnen met het synchroniseren van gegevens.
+1. Dit zal _automatisch_ uitgezochte gebieden MSI die eerder onbruikbaar werden gemaakt (Urgentie, Relatieve Score, en Prioriteit). Klik **Opslaan** om te beginnen met het synchroniseren van gegevens.
 
    ![](assets/enable-five.png)
 
@@ -187,5 +182,4 @@ Tot slot moet u specifieke gebruikers toegang geven om het Inzicht van de Verkoo
 
 >[!MORELIKETHIS]
 >
->[Sterren en vlammen instellen voor lead/contact-records](http://docs.marketo.com/x/BICMAg)
-
+>[Sterren en vlammen instellen voor lead/contact-records](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
