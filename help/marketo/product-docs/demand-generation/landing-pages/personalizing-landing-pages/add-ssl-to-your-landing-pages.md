@@ -3,7 +3,7 @@ unique-page-id: 2359828
 description: SSL toevoegen aan uw bestemmingspagina's - Marketo Docs - Productdocumentatie
 title: SSL toevoegen aan uw bestemmingspagina's
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Met SSL-codering (Secure Socket Layer) kunt u al uw openingspagina&#39;s voor een Marketo-instantie beveiligen.
 
-Wanneer u een webformulier invult of een bestemmingspagina bezoekt die wordt gehost door Marketo, wordt de informatie standaard verzonden via een niet-beveiligd protocol (HTTP). Conform het beleid van uw bedrijf wilt u mogelijk de gegevens beveiligen die aan Marketo over (HTTPS) worden verzonden. Wanneer u bijvoorbeeld `http://info.mydomain.com/` bezoekt, wordt deze nu `https://info.mydomain.com/`.
+Wanneer u een webformulier invult of een bestemmingspagina bezoekt die wordt gehost door Marketo, wordt de informatie standaard verzonden via een niet-beveiligd protocol (HTTP). Conform het beleid van uw bedrijf wilt u mogelijk de gegevens beveiligen die aan Marketo over (HTTPS) worden verzonden. Wanneer u bijvoorbeeld `https://info.mydomain.com/` bezoekt, wordt deze nu `https://info.mydomain.com/`.
 
 Marketo houdt &quot;Bezochte Web-pagina&quot;en &quot;Klik Verbinding op Web-pagina&quot;door gebrek over het niet veilige protocol van HTTP bij. Als u uw volgkoppelingen wilt beveiligen met hun eigen certificaat, moet u Marketo hebben om een afzonderlijke, niet-gedeelde server te maken om deze in te schakelen. Om alle aspecten van de interactie van een contact met u te beveiligen betekent typisch het beveiligen van zowel het landen pagina&#39;s als het volgen verbindingen.
 
