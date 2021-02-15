@@ -3,7 +3,7 @@ unique-page-id: 14746661
 description: Veelgestelde vragen over inhoud en bestandsbijlage - Marketo Docs - Productdocumentatie
 title: Veelgestelde vragen over inhoud en bestandsbijlage
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
@@ -34,4 +34,3 @@ Inhoud kan naar de Sales Connect-opslagplaats worden geüpload door elke gebruik
 De gebruikers kunnen hun eigen malplaatjes tot stand brengen en zij kunnen door het team worden georganiseerd. Om dit te doen, creeer een team via de pagina van het Beheer van het Team. Wanneer uw team vervolgens sjablonen/afspeelboeken/groepen deelt, kunnen deze met alleen die groepen delen in tegenstelling tot het volledige abonnement op gebruikers.
 
 Inhoud kan in de hele organisatie worden gedeeld.
-
