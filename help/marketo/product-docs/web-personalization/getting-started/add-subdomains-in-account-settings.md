@@ -3,7 +3,7 @@ unique-page-id: 17727870
 description: Subdomeinen toevoegen in accountinstellingen - Marketo Docs - Productdocumentatie
 title: Subdomeinen toevoegen aan accountinstellingen
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -37,5 +37,5 @@ Hier is hoe te om subdomeinen aan uw primaire domeinen in de Montages van de Rek
 
    >[!NOTE]
    >
-   >Neem contact op met [Marketo Support](http://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133) als u *primaire* domeinen aan uw account wilt toevoegen.
+   >Neem contact op met [Marketo Support](https://docs.marketo.com/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e333f2c353b2a31703d3133) als u *primaire* domeinen aan uw account wilt toevoegen.
 
