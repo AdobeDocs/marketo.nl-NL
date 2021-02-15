@@ -3,7 +3,7 @@ unique-page-id: 7516419
 description: Het lusje van het Inzicht van de Verkoop van de Marketo en Knopen aan Salesforce - Marketo Docs - de Documentatie van het Product toevoegen
 title: Voeg het Lusje van het Inzicht van de Verkoop van de Marketo en Knopen aan Salesforce toe
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -17,7 +17,7 @@ U kunt het lusje van het Inzicht van de Verkoop van de Aangepaste Marketo en kno
 
 ## Het tabblad Marketo {#adding-the-marketo-tab} toevoegen
 
-1. Klik op** + **en klik op **Mijn tabbladen aanpassen**.
+1. Klik **+** en klik **Mijn Lusjes** aanpassen.
 
    ![](assets/image2014-9-24-17-3a38-3a25.png)
 
@@ -43,7 +43,7 @@ U kunt de knopen van de Markeren aan uw Lay-outs Salesforce toevoegen. Hier volg
 
    ![](assets/image2015-5-26-14-3a59-3a53.png)
 
-1. Klik **Edit** in de **Leads Mening van de Lijst **row.
+1. Klik **Bewerken** in de rij **Lijstweergave voor leads**.
 
    ![](assets/image2015-5-26-16-3a7-3a24.png)
 
