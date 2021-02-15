@@ -3,9 +3,9 @@ unique-page-id: 45416566
 description: Instellingen voor tweeledige toestemming - Marketo Docs - Productdocumentatie
 title: Instellingen voor tweeledige toestemming
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Om naleving van de de toestemmingswetten van twee partijen van de V.S. te verzek
 
 >[!PREREQUISITES]
 >
->Alvorens de stappen hieronder te volgen, moet u vraagopname eerst [toelaten.](http://docs.marketo.com/x/dAC1Ag)
+>Voordat u de onderstaande stappen uitvoert, moet u eerst [call opnemen](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) inschakelen.
 
 1. Klik op het pictogram Instellingen en selecteer **Instellingen**.
 
@@ -50,4 +50,3 @@ Om naleving van de de toestemmingswetten van twee partijen van de V.S. te verzek
 1. Klik knevel om het geselecteerde bericht toe te laten aan het begin van uw geregistreerde vraag worden gespeeld.
 
    ![](assets/seven.png)
-
