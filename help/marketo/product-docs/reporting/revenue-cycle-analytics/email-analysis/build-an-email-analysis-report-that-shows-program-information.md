@@ -3,7 +3,7 @@ unique-page-id: 2360409
 description: Bouw een E-mailanalyserapport dat de Informatie van het Programma - Marketo Docs - de Documentatie van het Product toont
 title: Een e-mailanalyserapport maken waarin programmagegevens worden weergegeven
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -65,5 +65,5 @@ Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegeve
    >**Diep duiken**
    >
    >
-   >Wilt u meer informatie over [Inkoopcyclusverkenner](http://docs.marketo.com/display/docs/revenue+cycle+analytics)?
+   >Wilt u meer informatie over [Inkoopcyclusverkenner](https://docs.marketo.com/display/docs/revenue+cycle+analytics)?
 
