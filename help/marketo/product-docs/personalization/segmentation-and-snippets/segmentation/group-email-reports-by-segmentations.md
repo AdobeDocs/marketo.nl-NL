@@ -3,7 +3,7 @@ unique-page-id: 2359488
 description: E-mailrapporten groeperen per segment - Marketo Docs - Productdocumentatie
 title: E-mailrapporten groeperen per segment
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # E-mailrapporten groeperen per segment {#group-email-reports-by-segmentations}
 
-Segmentaties gelden niet alleen voor dynamische inhoud. U kunt uw [e-mailprestatierapport](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ook door [segmentaties](http://docs.marketo.com/display/docs/segmentation+and+snippets) groeperen.
+Segmentaties gelden niet alleen voor dynamische inhoud. U kunt uw [e-mailprestatierapport](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ook door [segmentaties](https://docs.marketo.com/display/docs/segmentation+and+snippets) groeperen.
 
 >[!PREREQUISITES]
 >
