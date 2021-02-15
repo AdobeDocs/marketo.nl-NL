@@ -3,7 +3,7 @@ unique-page-id: 4719398
 description: Een nieuwe webcampagne voor dialoog maken - Marketo Docs - Productdocumentatie
 title: Nieuwe webcampagne voor dialoog maken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '760'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Weergeven ingeschakeld</strong></td> 
-   <td colspan="1">Hiermee kunt u <a href="http://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">aanpassen wanneer en hoe</a> uw webcampagneweergaven worden weergegeven.</td> 
+   <td colspan="1">Hiermee kunt u <a href="https://docs.marketo.com/display/DOCS/Set+How+Your+Web+Campaign+Displays" rel="nofollow">aanpassen wanneer en hoe</a> uw webcampagneweergaven worden weergegeven.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Dialoogvensterstijl</strong></td> 
