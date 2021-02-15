@@ -3,7 +3,7 @@ unique-page-id: 2951054
 description: Opmerkingen bij de release - Oktober 2013 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - oktober 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: Oktober 2013 {#release-notes-october}
 
-De volgende functies zijn opgenomen in de release van oktober 2013. Controleer [Marketo Edition](http://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van oktober 2013. Controleer [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.](http://templates.marketo.com) comshowcases e-mail en landende paginasjablonen (inclusief responsieve mobiele e-mailsjablonen) die u kunt downloaden uit de Marketo-programmabibliotheek. We voegen maandelijks templates toe, vaak terugchecken!
+[Templates.marketo.](https://templates.marketo.com) comshowcases e-mail en landende paginasjablonen (inclusief responsieve mobiele e-mailsjablonen) die u kunt downloaden uit de Marketo-programmabibliotheek. We voegen maandelijks templates toe, vaak terugchecken!
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.](http://developers.marketo.com) comis for developers that want to build integration into Marketo. U kunt naar verschillende integratieopties verwijzen, zoals Munchkin JavaScript API&#39;s, SOAP API-codevoorbeelden, Webhooks en e-mailscripting. Een Java SDK is ook beschikbaar op [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developers.marketo.](https://developers.marketo.com) comis for developers that want to build integration into Marketo. U kunt naar verschillende integratieopties verwijzen, zoals Munchkin JavaScript API&#39;s, SOAP API-codevoorbeelden, Webhooks en e-mailscripting. Een Java SDK is ook beschikbaar op [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Bijgewerkt BrightTALK-gebeurtenisadapter {#updated-brighttalk-event-adapter}
 
