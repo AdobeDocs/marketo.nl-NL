@@ -3,7 +3,7 @@ unique-page-id: 2359987
 description: Abonneren op een basisrapport - Marketo Docs - Productdocumentatie
 title: Abonneren op een basisrapport
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Abonneren op een basisrapport {#subscribe-to-a-basic-report}
 
-Om automatische updates van een [basisrapport te ontvangen](http://docs.marketo.com/display/docs/basic+reporting), of hen te delen, kunt u om het even welk e-mailadres aan een bestaand rapport intekenen.
+Om automatische updates van een [basisrapport te ontvangen](https://docs.marketo.com/display/docs/basic+reporting), of hen te delen, kunt u om het even welk e-mailadres aan een bestaand rapport intekenen.
 
 >[!NOTE]
 >
->Voor [Inkomenscyclusverkenner](http://docs.marketo.com/display/docs/revenue+cycle+analytics) rapportabonnementen, zie [Abonneren op een Rapport van de Ontdekkingsreiziger van de Ontvangsten](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Voor [Inkomenscyclusverkenner](https://docs.marketo.com/display/docs/revenue+cycle+analytics) rapportabonnementen, zie [Abonneren op een Rapport van de Ontdekkingsreiziger van de Ontvangsten](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Ga naar het **Marketing Activiteiten **gebied.
 
@@ -58,5 +58,5 @@ Om automatische updates van een [basisrapport te ontvangen](http://docs.marketo.
    >**Diep duiken**
    >
    >
-   >Zie wat u anders met rapporten in [Basis het Melden](http://docs.marketo.com/display/docs/basic+reporting) diepe duik kunt doen.
+   >Zie wat u anders met rapporten in [Basis het Melden](https://docs.marketo.com/display/docs/basic+reporting) diepe duik kunt doen.
 
