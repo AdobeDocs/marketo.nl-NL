@@ -3,7 +3,7 @@ unique-page-id: 6849099
 description: Werk de Oplossing van het Inzicht van de Verkoop van de Marketo voor de Dynamiek van Microsoft bij - Marketo Docs - de Documentatie van het Product
 title: Werk de Oplossing van het Inzicht van de Verkoop van de Marketo voor de Dynamica van Microsoft bij
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -36,4 +36,3 @@ Wanneer een nieuwe oplossing van de Dynamiek van Microsoft voor het Inzicht van 
    ![](assets/image2015-3-16-16-3a29-3a32.png)
 
    Geweldig! Een ZIP-bestand van de oplossing wordt nu naar het apparaat gedownload.
-
