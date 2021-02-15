@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Opmerkingen bij de release - Winter '19 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -Winter '19
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1112'
 ht-degree: 0%
@@ -40,11 +40,11 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 * **Multi-Branding Domain Support for Asset API:** Goedkeuring en klonen van elementen leveren dezelfde resultaten op in de API en de UI.
 * **E-mailCC-ondersteuning voor de API** voor middelen: Gebruikers die e-mailberichten klonen, goedkeuren en verwerken via de API, behouden de pariteit met de instellingen voor de gebruikersinterface.
 
-** [Munchkin v155 (bèta)](http://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+** [Munchkin v155 (bèta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Modus** Alleen API: Gebruikers kunnen nu bepalen wanneer en hoe ze leden van hun database kunnen bijhouden door webapps van één pagina expliciet te laten bellen wanneer ze een bezoek aan een webpagina willen opnemen in plaats van te vertrouwen op de automatische tracering van Marketo.
 * **Uitschakelen-beheer**: Beheer opt-outs eenvoudig door het uitschakelcookie-domein aan te passen aan het Cookie-domein van Munchkin.
-* **Parameter** voor decider op domeinniveau: Domeinen met twee letters (d.w.z. &quot;  [website.io](http://website.io)&quot;) volgt automatisch Marketo zonder extra instellingsvereisten.
+* **Parameter** voor decider op domeinniveau: Domeinen met twee letters (d.w.z. &quot;  [website.io](https://website.io)&quot;) volgt automatisch Marketo zonder extra instellingsvereisten.
 
 ## Marketo Sales Engineering {#marketo-sales-engage}
 
@@ -72,7 +72,7 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 
 * **OntwerpStudio List Views &amp; Detail Pages**: Geniet van een hogere mate van organisatie en nauwkeurigheid met filterbare en doorzoekbare lijstweergaven van e-mails, landingspagina&#39;s en formulieren. De Pagina&#39;s van het Detail van activa verstrekken zeer belangrijke informatie rond elk middel, met inbegrip van welke programma&#39;s het middel door wordt gebruikt, het aantal fragmenten die, en meer worden gebruikt.
 
-* **Globale zoekopdracht**: Marketo biedt nu een snellere en robuustere wereldwijde zoekfunctie voor het hele platform. Zoekopdrachten worden nu uitgevoerd in alle toegankelijke werkruimten en kunnen bestanden (zowel actief als gearchiveerd), labels, campagnes en programma&#39;s zoeken. De zoekresultaten worden via een overlay geleverd en elk resultaat bevat het pad naar de bestandslocatie om aan te geven waar het element zich bevindt.
+* **Globale zoekopdracht**: Marketo biedt nu een snellere en robuustere algemene zoekfunctie voor het hele platform. Zoekopdrachten worden nu uitgevoerd in alle toegankelijke werkruimten en kunnen bestanden (zowel actief als gearchiveerd), labels, campagnes en programma&#39;s zoeken. De zoekresultaten worden via een overlay geleverd en elk resultaat bevat het pad naar de bestandslocatie om aan te geven waar het element zich bevindt.
 
 * **Verbeterde gebruikersinterface**: Nieuwe pictogrammen, modaliteiten en knoppen, samen met een nieuw kleurenpalet om onze merkvernieuwing te weerspiegelen en Marketo Sky nog verbluffender en functioneler te maken.
 
@@ -103,10 +103,10 @@ Gebruikers kunnen nu subdomeinen toevoegen aan hun RTP-accountinstellingen om do
 
 **Bijgewerkte MME Software Development Kit (SDK) voor Android**
 
-We hebben onze SDK voor Android bijgewerkt naar een modern, stabiel en schaalbaar framework dat meer flexibiliteit en nieuwe technische functies bevat. Ontwikkelaars van Android-apps kunnen nu direct gebruikmaken van het [Firebase Cloud Messaging](http://firebase.google.com/docs/cloud-messaging/) (FCM) van Google met deze nieuwe SDK.
+We hebben onze SDK voor Android bijgewerkt naar een modern, stabiel en schaalbaar framework dat meer flexibiliteit en nieuwe technische functies bevat. Ontwikkelaars van Android-apps kunnen nu direct gebruikmaken van het [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) van Google met deze nieuwe SDK.
 
-* [Instructies voor ontwikkelaars](http://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [Veelgestelde vragen over ontwikkelaars](http://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [Instructies voor ontwikkelaars](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [Veelgestelde vragen over ontwikkelaars](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >
