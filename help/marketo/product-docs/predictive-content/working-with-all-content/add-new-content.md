@@ -3,7 +3,7 @@ unique-page-id: 11384651
 description: Nieuwe inhoud toevoegen - Marketo Docs - Productdocumentatie
 title: Nieuwe inhoud toevoegen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -39,5 +39,5 @@ U kunt eenvoudig handmatig inhoud toevoegen aan de pagina Alle inhoud.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Hier is hoe te om het aan [Voorspelende Inhoud ](http://docs.marketo.com/x/Vbet) toe te voegen.
+1. Hier is hoe te om het aan [Voorspelende Inhoud ](https://docs.marketo.com/x/Vbet) toe te voegen.
 
