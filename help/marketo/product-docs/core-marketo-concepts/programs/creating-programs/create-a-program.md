@@ -3,7 +3,7 @@ unique-page-id: 1147095
 description: Een programma maken - Marketo Docs - Productdocumentatie
 title: Een programma maken
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Programma&#39;s zijn een van de belangrijkste elementen van Marketo. Je gebruikt
 
    ![](assets/leadlifecycle.jpg)
 
-1. Voer een **Naam** in, selecteer een **[Kanaal](http://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** in de vervolgkeuzelijst en klik op **Maken**.
+1. Voer een **Naam** in, selecteer een **[Kanaal](https://docs.marketo.com/display/DOCS/Create+a+Program+Channel)** in de vervolgkeuzelijst en klik op **Maken**.
 
    ![](assets/image2015-2-5-16-3a33-3a23.png)
 
