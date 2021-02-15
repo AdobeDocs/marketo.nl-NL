@@ -3,7 +3,7 @@ unique-page-id: 14745825
 description: Verkoop Connect en GDPR-compatibiliteit - Marketo Docs - Productdocumentatie
 title: Sales Connect en GDPR-compatibiliteit
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1387'
 ht-degree: 0%
@@ -17,7 +17,7 @@ De algemene gegevensbeschermingsverordening (GDPR) is wetgeving van de Europese 
 
 ## Overzicht {#overview}
 
-Het doel van de richtlijn is de rechten van betrokkenen binnen de Europese Unie (EU) en de Europese Economische Ruimte (EER) te versterken met betrekking tot de wijze waarop hun persoonsgegevens worden gebruikt en beschermd. &quot;Persoonsgegevens&quot; zijn gegevens die betrekking hebben op een geïdentificeerde of identificeerbare natuurlijke persoon.
+Het doel is de rechten van betrokkenen binnen de Europese Unie (EU) en de Europese Economische Ruimte (EER) te versterken met betrekking tot de wijze waarop hun persoonsgegevens worden gebruikt en beschermd. &quot;Persoonsgegevens&quot; zijn gegevens die betrekking hebben op een geïdentificeerde of identificeerbare natuurlijke persoon.
 
 De GDPR is gestructureerd rond zes basisbeginselen (nader omschreven in artikel 5 van de wetgeving):
 
@@ -38,10 +38,11 @@ De GDPR is van toepassing op elke organisatie binnen of buiten de EU die goedere
 
 De handelaars streven ernaar klantenervaringen tot stand te brengen die persoonlijk en menselijk voelen, gebaseerd op vertrouwen en met zorg geleverd. Hoewel de GDPR deze termen niet gebruikt, zijn de doelen hetzelfde: de rechten van klanten respecteren en hun vertrouwen verdienen. Om dat vertrouwen te kunnen opbouwen en behouden, moeten marketers zich houden aan de manier waarop, wanneer en waarom hun klanten betrokken willen zijn. Het is van essentieel belang dat de voorkeuren van de klant worden gerespecteerd, niet alleen als een wettelijke vereiste, maar ook als de basis van klantgerichte betrokkenheidspraktijken.
 
-Hoe de marketers deze hogere verwachtingen rond de inzameling, het gebruik, en de veiligheid van de persoonlijke gegevens richten die routinematig in de loop van hun werk worden gebruikt is zeer belangrijk, en de Marketo kan helpen met het voldoen aan die verwachtingen.\
+Hoe de marketers deze hogere verwachtingen rond de inzameling, het gebruik, en de veiligheid van de persoonlijke gegevens richten die routinematig in de loop van hun werk worden gebruikt is zeer belangrijk, en de Marketo kan helpen met het voldoen aan die verwachtingen.
+
 Er zijn twee belangrijke aspecten van de GDPR waar marketers vroegere, huidige en toekomstige praktijken moeten herzien. Het eerste punt is de instemming van het individu om zijn persoonsgegevens te verwerken, en het tweede is de verantwoordingsplicht, namelijk het kunnen aantonen van de naleving van de beginselen van de GDPR.
 
-Wij verstrekken uitvoerige informatie over toestemming en verantwoordingsplicht binnen het platform van Marketo in ons e-boek, [GDPR en de Marketer](http://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In dit artikel zullen we ons echter specifiek richten op de nieuwe functies in Marketo Sales Connect die uw organisatie zullen helpen zich aan de GDPR-regels te houden.
+Wij verstrekken uitvoerige informatie over toestemming en verantwoordingsplicht binnen het platform van Marketo in ons e-boek, [GDPR en de Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In dit artikel zullen we ons echter specifiek richten op de nieuwe functies in Marketo Sales Connect die uw organisatie zullen helpen zich aan de GDPR-regels te houden.
 
 ## GDPR-compatibiliteit in Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -94,9 +95,10 @@ Als u &quot;Toestemming&quot;als Type van Vergunning kiest, twee verplichte gebi
 ![](assets/6.png)
 
 Als &quot;Andere&quot;voor of het Type van Vergunning of het Type Bron wordt gekozen, kunt u tekst ingaan om het Type Bron te beschrijven.
-** ![](assets/7.png)
 
-Bulk Acties** de Verkoop van de Marketo staat ook voor het bijwerken van de Vergunning van een contact en de types van Bron in bulk toe, die kostbare tijd in het nalevingsproces besparen.
+![](assets/7.png)
+
+Bulk Acties** Marketo Sales Connect staat ook toe om de toestemmings en de types van Bron van een contact in bulk bij te werken, die kostbare tijd in het nalevingsproces besparen.
 
 Wanneer u één of meerdere contacten van de pagina van Mensen selecteert, verschijnen de Authorization en de Bronknopen in de hoogste container. Gebruikend deze knopen, kunt u de Vergunning of Bron van veelvoudige contacten gelijktijdig plaatsen.
 
@@ -166,7 +168,9 @@ U hebt de capaciteit om contactinformatie van de Mening van het Detail van de Pe
 >
 >Dit kan slechts één contact tegelijkertijd worden gedaan. Er is momenteel geen functionaliteit die bulkexport van contacten toestaat.
 
-Als u contactgegevens wilt exporteren, klikt u op de drie verticale punten in de koptekst van de Gedetailleerde weergave voor personen en selecteert u **Exporteren**. Het .CSV-bestand wordt automatisch gedownload.   ![](assets/thirteen.png)
+Als u contactgegevens wilt exporteren, klikt u op de drie verticale punten in de koptekst van de Gedetailleerde weergave voor personen en selecteert u **Exporteren**. Het .CSV-bestand wordt automatisch gedownload.
+
+![](assets/thirteen.png)
 
 >[!NOTE]
 >
@@ -185,4 +189,4 @@ Een algemeen verkeerd begrepen gebied van GDPR omvat contacten die van het gegev
 
 Als een enthousiast pleitbezorger van de macht en de klantgerichtheid van de betrokkenheidseconomie begrijpt Marketo het belang van het in handen brengen van de betrokkene van privacy en gegevensbescherming. Net als bij andere wetten inzake gegevensbescherming vereist GDPR-naleving een verbintenis van zowel Marketo als onze klanten. Dit artikel is bedoeld om u te helpen Marketo op een aangewezen manier gebruiken om de naleving van GDPR van uw organisatie te steunen.
 
-We zullen de toepasselijke GDPR-richtsnoeren van regelgevende instanties en aanverwante wetgeving op de voet blijven volgen. De updates zullen aan ons Centrum van het Vertrouwen op [trust.marketo.com](http://trust.marketo.com) worden gepost.
+We zullen de toepasselijke GDPR-richtsnoeren van regelgevende instanties en aanverwante wetgeving op de voet blijven volgen. De updates zullen aan ons Centrum van het Vertrouwen op [trust.marketo.com](https://trust.marketo.com) worden gepost.
