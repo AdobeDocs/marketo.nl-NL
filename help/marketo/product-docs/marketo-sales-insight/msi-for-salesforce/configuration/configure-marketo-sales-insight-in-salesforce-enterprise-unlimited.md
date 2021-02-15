@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Marktverkoopinzicht configureren in Salesforce Enterprise/Onbeperkt - Marketo Docs - Productdocumentatie
 title: Marktverkoopinzicht configureren in Salesforce Enterprise/Onbeperkt
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '920'
+source-wordcount: '906'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Hier zijn de stappen u moet nemen om het Inzicht van de Verkoop van de Marketo i
 
 >[!PREREQUISITES]
 >
->* [Configureer Marktsynchronisatie in uw Salesforce Enterprise/Unlimited Edition](http://docs.marketo.com/pages/viewpage.action?pageid=2360372)
->* [Pakket met marketinggegevens in Salesforce AppExchange installeren](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
->
-
+>* [Configureer Marktsynchronisatie in uw Salesforce Enterprise/Unlimited Edition](https://docs.marketo.com/pages/viewpage.action?pageid=2360372)
+>* [Pakket met marketinggegevens in Salesforce AppExchange installeren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 
 >[!NOTE]
@@ -31,6 +28,7 @@ Hier zijn de stappen u moet nemen om het Inzicht van de Verkoop van de Marketo i
 ## Het Inzicht van de Verkoop in Marketo {#configure-sales-insight-in-marketo} vormen
 
 1. Open een nieuw browservenster om de gegevens van het Inzicht van de Verkoop van de Marketo van uw Marketo-account op te halen.
+
 1. Ga naar het gebied Admin en selecteer **Sales Insight**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
@@ -85,7 +83,7 @@ Hier zijn de stappen u moet nemen om het Inzicht van de Verkoop van de Marketo i
 
    ![](assets/login-admin.png)
 
-1. Klik op** Verkoopoverzicht*.
+1. Klik **Sales Insight**.
 
    ![](assets/image2015-5-22-15-3a12-3a33.png)
 
@@ -135,7 +133,7 @@ Hier zijn de stappen u moet nemen om het Inzicht van de Verkoop van de Marketo i
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. Klik op **Pagina&#39;s visueel forceren **aan de linkerkant. Sleep **Sectie** naar de layout onder de sectie Aangepaste koppelingen.
+1. Klik **Visuale Pagina&#39;s** op de linkerzijde. Sleep **Sectie** naar de layout onder de sectie Aangepaste koppelingen.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
@@ -163,7 +161,7 @@ Hier zijn de stappen u moet nemen om het Inzicht van de Verkoop van de Marketo i
    >
    >We raden een hoogte van 410 pixels aan voor de objecten Accounts en Opportunity.
 
-1. Klik op **Velden **op de linkerzijde. Vervolgens zoekt en sleept u het label **Betrokkenheid** naar de lay-out **Marketo Sales Insight**.
+1. Klik op **Fields** op de linkerzijde. Vervolgens zoekt en sleept u het label **Betrokkenheid** naar de lay-out **Marketo Sales Insight**.
 
    ![](assets/image2015-5-22-16-3a32-3a46.png)
 
@@ -200,6 +198,7 @@ Hier zijn de stappen u moet nemen om het Inzicht van de Verkoop van de Marketo i
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
 1. Herhaal dit proces om pagina secties Visualforce en de gebieden van het Inzicht van de Verkoop voor **Contact**, **Account** en **Opportunity** toe te voegen.
+
 1. Herhaal stap 5-7 om Visualforce-paginagedeelten toe te voegen voor Contactpersoon, Account en Opportunity. Herhaal vervolgens stap 8-10 om de velden Verkoopinzicht toe te voegen voor **Contact**. Sla het bestand op nadat u wijzigingen hebt aangebracht.
 
 ## Aangepaste persoonlijke velden toewijzen {#map-custom-person-fields}
@@ -216,15 +215,13 @@ Marketo-persoonvelden moeten worden toegewezen aan Salesforce-contactvelden om e
 
 1. Klik **Velden voor regelafstand toewijzen**.
 
-   ** ![](assets/image2015-6-1-9-3a58-3a48.png)
-
-   **
+   ![](assets/image2015-6-1-9-3a58-3a48.png)
 
 1. Klik op het vervolgkeuzemenu rechts voor **Betrokkenheid**.
 
    ![](assets/image2015-6-1-10-3a9-3a53.png)
 
-1. Selecteer **Contact.Betrokkenheid **in de lijst.
+1. Selecteer **Contact.Engagement** in de lijst.
 
    ![](assets/image2015-6-1-10-3a12-3a11.png)
 
@@ -267,21 +264,21 @@ Marketo-persoonvelden moeten worden toegewezen aan Salesforce-contactvelden om e
  </tbody> 
 </table>
 
-1. Klik op **Opslaan **wanneer u klaar bent.
+1. Klik **Opslaan** wanneer u klaar bent.
 
 ## Config {#marketo-sales-insight-config} Marktinformatie
 
-1. Klik **+ * en selecteer dan **Config van het Inzicht van de Verkoop van de Marketo**.
+1. Klik **+** en selecteer dan **Config van het Inzicht van de Verkoop van de Marketo**.
 
    ![](assets/image2014-9-24-17-3a37-3a45.png)
 
-1. Schakel **Marketo-API** in. Vul vervolgens de [API-configuratiegegevens in Marketo Admin](http://docs.marketo.com/display/DOCS/Configure+Marketo+Sales+Insight+in+Salesforce+Professional+Edition#ConfigureMarketoSalesInsightinSalesforceProfessionalEdition-SetupMarketoSalesInsight) in. Klik op **Wijzigingen opslaan **wanneer u klaar bent.
+1. Schakel **Marketo-API** in. Vul vervolgens de [API-configuratiegegevens in Marketo Admin](#set-up-marketo-sales-insight) in. Klik **Wijzigingen opslaan** wanneer u klaar bent.
 
    ![](assets/image2014-9-24-17-3a38-3a0.png)
 
    >[!NOTE]
    >
-   >Als de diagnostische test mislukt, moet u mogelijk meer velden toevoegen aan uw paginalay-out](http://nation.marketo.com/docs/DOC-1115).[
+   >Als de diagnostische test mislukt, moet u mogelijk meer velden toevoegen aan uw paginalay-out](https://nation.marketo.com/docs/DOC-1115).[
 
 En dat is het! U zou de gebieden van het Inzicht van de Verkoop van de Marketo voor Leads, Contacten, Rekeningen en Kansen moeten kunnen zien.
 
@@ -294,18 +291,17 @@ En dat is het! U zou de gebieden van het Inzicht van de Verkoop van de Marketo v
 ## Access Marketo Sales Insight {#access-marketo-sales-insight}
 
 1. In Salesforce, klik **+** aan het eind van de lusjbar en klik **Config van het Inzicht van de Verkoop van de Marketo**.
+
 1. Schakel het selectievakje **Marketo API** inschakelen in.
+
 1. Kopieer de gegevens van het Soap API-deelvenster op de pagina Sales Insight Admin van Marketo en plak ze in de sectie Soap API van de pagina Salesforce Sales Insight Configuration.
+
 1. Kopieer de gegevens van het Rest API paneel in Admin van het Inzicht van de Verkoop van Marketo pagina en plak hen in de Rest API sectie van de pagina van de Configuratie van het Inzicht van de Verkoop Salesforce.
 
    ![](assets/access-msi.png)
 
 >[!MORELIKETHIS]
 >
->* [Prioriteit, Urgentie, Relatieve Score en Beste Bets](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Voeg het Lusje van het Inzicht van de Verkoop van de Marketo en Knopen aan Salesforce toe](../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
-
->
-
-
+>* [Prioriteit, Urgentie, Relatieve Score en Beste Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+>* [Voeg het Lusje van het Inzicht van de Verkoop van de Marketo en Knopen aan Salesforce toe](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
 
