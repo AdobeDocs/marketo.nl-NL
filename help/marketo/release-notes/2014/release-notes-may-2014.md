@@ -3,7 +3,7 @@ unique-page-id: 2951044
 description: Opmerkingen bij de release - mei 2014 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '476'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Nu krijgt iedereen meerdere programma&#39;s, streams en communicatielimieten.
 >
 >**Voorbeeld**
 >
->[[[http://www.marketo.com](http://www.marketo.com)]]
+>[[[https://www.marketo.com](https://www.marketo.com)]]
 
 Standaard worden geen koppelingen bijgehouden in de tekstversie van e-mails. Voeg deze nieuwe syntaxis toe om aan te geven wanneer een koppeling moet worden geconverteerd naar een koppeling voor reeksspatiëring. Het gedrag van HTML-koppelingen is ongewijzigd.  Bijgehouden koppelingen toevoegen aan uw e-mails:
 
@@ -85,5 +85,5 @@ Revenue Cycle Modeler and Success Path Analyzer is nu inbegrepen in MA Standard 
 
 >[!NOTE]
 >
->Vorige [Marketo Release Notes](http://docs.marketo.com/display/docs/release+notes) uitchecken
+>Vorige [Marketo Release Notes](https://docs.marketo.com/display/docs/release+notes) uitchecken
 
