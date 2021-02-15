@@ -3,9 +3,9 @@ unique-page-id: 3571737
 description: Installeer en vorm het Inzicht van de Verkoop van de Marketo in de Dynamica 2013 van Microsoft - Marketo Docs - de Documentatie van het Product
 title: Het Inzicht van de Verkoop van de Marketo in de Dynamica 2013 van Microsoft installeren en vormen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Marketo Sales Insight is een fantastisch hulpmiddel om uw verkoopteam een &quot;
 
 >[!PREREQUISITES]
 >
->Voltooi uw [Marketo-Microsoft integratie](http://docs.marketo.com/x/EIA2).
+>Voltooi uw integratie van Marketo-Microsoft.
 >
->[Download de correcte ](http://docs.marketo.com/x/LoJo) oplossing voor uw versie van CRM van de Dynamica van Microsoft.
+>[Download de correcte ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) oplossing voor uw versie van CRM van de Dynamica van Microsoft.
 
 ## Oplossing {#import-solution} importeren
 
@@ -38,9 +38,6 @@ OK, nu is het tijd om de oplossing van het Inzicht van de Verkoop van de Marketo
    ![](assets/image2014-12-12-9-3a5-3a17.png)
 
    >[!NOTE]
-   >
-   >**Herinnering**
-   >
    >
    >U had Marketo al geïnstalleerd en geconfigureerd moeten hebben voordat u verdergaat
 
@@ -92,7 +89,7 @@ Laten we je Marketo-instantie aan Sales Insight in Dynamics koppelen.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Kopieer **Marketo Host**, **API URL**, en **API Gebruiker ID** voor gebruik in een recentere stap. Voer een **API-beveiligingssleutel** van uw keuze in en klik op **OPSLAAN**.
+1. Kopieer **Marketo Host**, **API URL**, en **API Gebruiker ID** voor gebruik in een recentere stap. Voer een **API-beveiligingssleutel** van uw keuze in en klik op **Opslaan**.
 
    >[!CAUTION]
    >
@@ -102,17 +99,14 @@ Laten we je Marketo-instantie aan Sales Insight in Dynamics koppelen.
 
    >[!NOTE]
    >
-   >De volgende gebieden moeten met Marketo voor *zowel Lood als Contact* voor het Inzicht van de Verkoop worden gesynchroniseerd om te werken:
+   >De volgende gebieden moeten met Marketo voor _zowel Lood als Contact_ voor het Inzicht van de Verkoop worden gesynchroniseerd om te werken:
    >
-   >    
-   >    
-   >    * Prioriteit
-   >    * Urgentie
-   >    * Relatieve score
+   >* Prioriteit
+   >* Urgentie
+   >* Relatieve score
 
-   >    
-   >    
-   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [deze procedure](../../../../product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
+   >
+   >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, voer [deze procedure](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md) uit.
 
 1. Terug in de Dynamiek van Microsoft, ga naar **Montages**.
 
@@ -158,5 +152,4 @@ U hebt nu de macht van het Inzicht van de Verkoop van de Marketo voor uw verkoop
 
 >[!MORELIKETHIS]
 >
->[Sterren en vlammen instellen voor lead/contact-records](http://docs.marketo.com/x/BICMAg)
-
+>[Sterren en vlammen instellen voor lead/contact-records](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
