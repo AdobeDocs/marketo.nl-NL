@@ -3,7 +3,7 @@ unique-page-id: 2360366
 description: Stap 3 van 3 -Connect Marketo en Salesforce (Enterprise/Unlimited) - Marketo Docs - Productdocumentatie
 title: Stap 3 van 3 - de Marketo en Salesforce van Connect (Onderneming/Onbeperkt)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 0%
@@ -43,7 +43,7 @@ In dit artikel, zult u Marketo aan synchronisatie met uw gevormde instantie vorm
 
 ## Gebruikersreferenties synchroniseren instellen {#set-sync-user-credentials}
 
-1. Ga in Marketo naar **Admin**, selecteer **CRM** en klik **Synchroniseren met [Salesforce.com](http://Salesforce.com)**
+1. Ga in Marketo naar **Admin**, selecteer **CRM** en klik **Synchroniseren met [Salesforce.com](https://Salesforce.com)**
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
