@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Overzicht van dashboardfuncties voor inzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van dashboardfuncties voor inzichten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '1465'
+source-wordcount: '1460'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Meer informatie over de functies die beschikbaar zijn op het dashboard Verkoopin
 
 >[!PREREQUISITES]
 >
->U moet het recentste pakket MSI SFDC en [configuration](http://docs.marketo.com/x/F4GMAg) hebben.
+>U moet het recentste pakket MSI SFDC en [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md) hebben.
 
 ![](assets/one.png)
 
@@ -172,4 +172,3 @@ Gebeurtenis, tabblad:
 * Als u alle gebeurtenissen selecteert, wordt de lijst met gebeurtenissen weergegeven die in de komende 90 dagen zijn gepland
 * Actiedetails-kaart in deze sectie bevat voorvertoningsoptie
 * Filter bevat &quot;Zoeken&quot;, &quot;Alleen uitgenodigde gebeurtenissen tonen&quot; en &quot;Datumbereik&quot;
-
