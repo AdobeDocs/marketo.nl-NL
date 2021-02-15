@@ -3,7 +3,7 @@ unique-page-id: 2949844
 description: Een nieuw gebeurtenisprogramma maken - Marketo Docs - Productdocumentatie
 title: Een nieuw gebeurtenisprogramma maken
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Met gebeurtenissen kunt u online en offline gebeurtenissen automatiseren! Leg de
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Wanneer uw gebeurtenis is gemaakt, maakt u de [landingspagina&#39;s](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulieren](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) en [e-mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) om uw gasten uit te nodigen! U zult ook met [programmamening ](http://docs.marketo.com/display/docs/program+schedule+view) vertrouwd willen worden.
+Wanneer uw gebeurtenis is gemaakt, maakt u de [landingspagina&#39;s](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulieren](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) en [e-mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) om uw gasten uit te nodigen! U zult ook met [programmamening ](https://docs.marketo.com/display/docs/program+schedule+view) vertrouwd willen worden.
 
 >[!MORELIKETHIS]
 >
