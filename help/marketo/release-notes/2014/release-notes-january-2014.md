@@ -3,7 +3,7 @@ unique-page-id: 2951050
 description: Opmerkingen bij de release - januari 2014 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - januari 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: januari 2014 {#release-notes-january}
 
-De volgende functies zijn opgenomen in de release van januari 2014. Controleer [Marketo Edition](http://www.marketo.com/pricing/) op beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van januari 2014. Controleer [Marketo Edition](https://www.marketo.com/pricing/) op beschikbaarheid van functies.
 
 ## Forms 2.0 {#forms}
 
-Kop omhoog: De documentatie voor Forms 2.0 komt binnenkort. In de tussentijd leert u meer onder en in de video [intro](http://docs.marketo.com/display/docs/forms)!
+Kop omhoog: De documentatie voor Forms 2.0 komt binnenkort. In de tussentijd leert u meer onder en in de video [intro](https://docs.marketo.com/display/docs/forms)!
 
-U kunt het maken van formulieren besturen en webontwikkelaars een onderbreking geven. [Forms](http://docs.marketo.com/display/docs/forms) 2.0 is ontworpen om Marktdeelnemers in staat te stellen zowel visueel als functioneel robuuste formulieren te maken zonder dat ze programmeerkennis nodig hebben.
+U kunt het maken van formulieren besturen en webontwikkelaars een onderbreking geven. [Forms](https://docs.marketo.com/display/docs/forms) 2.0 is ontworpen om Marktdeelnemers in staat te stellen zowel visueel als functioneel robuuste formulieren te maken zonder dat ze programmeerkennis nodig hebben.
 
 **Geef uw Forms de visuele controle die zij verdienen:**
 
@@ -38,7 +38,7 @@ Gone is het aantal dagen dat HTML-code wordt opgehaald uit formulieren die op Ma
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Leer meer van [Forms 2.0 intro video](http://docs.marketo.com/display/docs/forms). (Documentatie die binnenkort naar de diepe duik [Forms](http://docs.marketo.com/display/docs/forms) komt!)
+Leer meer van [Forms 2.0 intro video](https://docs.marketo.com/display/docs/forms). (Documentatie die binnenkort naar de diepe duik [Forms](https://docs.marketo.com/display/docs/forms) komt!)
 
 ## Communicatielimieten voor e-mailprogramma {#communication-limits-for-email-program}
 
