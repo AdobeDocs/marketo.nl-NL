@@ -3,7 +3,7 @@ unique-page-id: 2359500
 description: Prioriteit segmentatievolgorde - Marketo Docs - Productdocumentatie
 title: Prioriteit segmentvolgorde
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -49,5 +49,5 @@ Het is belangrijk om te begrijpen hoe **order** de prioriteit voor evaluatie van
 
 
 
-Cool, hè? U kunt segmenten gebruiken voor dynamische inhoud, [rapportering](http://docs.marketo.com/display/docs/basic+reporting) en zelfs in [slimme lijsten](http://docs.marketo.com/display/docs/smart+lists+and+static+lists).
+Cool, hè? U kunt segmenten gebruiken voor dynamische inhoud, [rapportering](https://docs.marketo.com/display/docs/basic+reporting) en zelfs in [slimme lijsten](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
 
