@@ -3,7 +3,7 @@ unique-page-id: 2360235
 description: Creeer een Analysator van de Invloed van de Kanans - Marketo Docs - de Documentatie van het Product
 title: Een Opportunity Influence Analyzer maken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -75,5 +75,5 @@ Gebruik de Analysator van de Invloed van de Kans om de bijdrage van de marketing
 >
 >**Diep duiken**
 >
->Voor andere analysatoren, zie [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
+>Voor andere analysatoren, zie [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting).
 
