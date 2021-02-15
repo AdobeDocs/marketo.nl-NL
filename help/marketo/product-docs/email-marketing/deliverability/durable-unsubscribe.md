@@ -3,7 +3,7 @@ unique-page-id: 10094576
 description: Duurzaam abonnement - Marketo Docs - Productdocumentatie
 title: Duurzaam abonnement opzeggen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Net zoals een abonnement ertoe zou leiden dat alle mensen met hetzelfde e-mailad
 
 ## Activiteitenlogboek {#activity-log}
 
-De definities van de Verandering van de Waarde van gegevens voor _updateLeadEmailStatus_ en _resetLeadEmailStatus_ kunnen in [dit Communautair artikel](http://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688) worden gevonden.
+De definities van de Verandering van de Waarde van gegevens voor _updateLeadEmailStatus_ en _resetLeadEmailStatus_ kunnen in [dit Communautair artikel](https://nation.marketo.com/t5/Knowledgebase/Durable-Unsubscribe-Activity-Log/ta-p/252688) worden gevonden.
 
 >[!MORELIKETHIS]
 >
