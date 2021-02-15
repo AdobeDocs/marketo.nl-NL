@@ -3,7 +3,7 @@ unique-page-id: 2360411
 description: Een padanalyse met succes maken - Marketo Docs - Productdocumentatie
 title: Een padanalyse met succes maken
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een padanalyse met succes maken {#create-a-success-path-analyzer}
 
-Bekijk een visuele weergave van snelheid en stroom via uw [Indelingscyclusmodel](http://docs.marketo.com/display/docs/revenue+cycle+analytics).
+Bekijk een visuele weergave van snelheid en stroom via uw [Indelingscyclusmodel](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
 
 >[!PREREQUISITES]
 >
