@@ -3,7 +3,7 @@ unique-page-id: 2951119
 description: Opmerkingen bij de release - april 2012 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -april 2012
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >**Diep duiken**
 >
->Voor andere versies, zie [Nota&#39;s van de Versie](http://docs.marketo.com/display/docs/release+notes) diepe duik.
+>Voor andere versies, zie [Nota&#39;s van de Versie](https://docs.marketo.com/display/docs/release+notes) diepe duik.
 
 Doet u dezelfde groep leads consistent als doel? Als zo, gebruik segmentatie in uw slimme lijsten voor het richten van lood. Met segmentatie, wordt uw volledige loodgegevensbestand altijd gesegmenteerd en het kan over uw programma&#39;s voor consistentie opnieuw worden gebruikt. De resultaten van de segmentatie worden snel getrokken omdat zij niet de slimme lijst vereisen om op het tijdstip van het verzoek te lopen.
 
