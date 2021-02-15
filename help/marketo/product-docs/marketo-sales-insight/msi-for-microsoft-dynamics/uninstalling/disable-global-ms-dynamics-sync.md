@@ -3,9 +3,9 @@ unique-page-id: 37355596
 description: Global MS Dynamics Sync uitschakelen - Marketo Docs - Productdocumentatie
 title: Global MS Dynamics Sync uitschakelen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,4 @@ Voer de volgende eenvoudige stappen uit om de synchronisatie van MS Dynamics uit
 
    >[!NOTE]
    >
-   >Neem contact op met [Marketo-ondersteuning](http://nation.marketo.com/community/support_solutions) als er in uw instantie geen knop Sync uitschakelen wordt weergegeven.
-
+   >Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) als er in uw instantie geen knop Sync uitschakelen wordt weergegeven.
