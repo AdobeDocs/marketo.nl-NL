@@ -3,7 +3,7 @@ unique-page-id: 2949718
 description: Een e-mail naar Verkoopinzicht publiceren - Marketo Docs - Productdocumentatie
 title: Een e-mail naar Verkoopoverzicht publiceren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -43,9 +43,8 @@ Mooi werk! Nu weet u hoe te om e-mails ter beschikking te stellen voor uw verkoo
 
 >[!NOTE]
 >
->[Mijn ](../../../../../../product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) Tokenswill lost niet op wanneer het verzenden van een e-mail van het Inzicht van de Verkoop op of de Dynamica van Microsoft of Salesforce; alleen standaardtokens worden gevuld (Lead, Company, enz.). Standaardwaarden voor tokens werken echter wel.
+>[Mijn ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) Tokenswill lost niet op wanneer het verzenden van een e-mail van het Inzicht van de Verkoop op of de Dynamica van Microsoft of Salesforce; alleen standaardtokens worden gevuld (Lead, Company, enz.). Standaardwaarden voor tokens werken echter wel.
 
 >[!TIP]
 >
->Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe u [Een e-mail goedkeuren](../../../../../../product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
-
+>Vergeet niet deze e-mail goed te keuren om de wijzigingen van kracht te laten worden. Leer hoe u [Een e-mail goedkeuren](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
