@@ -3,7 +3,7 @@ unique-page-id: 14352468
 description: Contacten importeren via CSV - Marketo Docs - Productdocumentatie
 title: Contacten importeren via CSV
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -40,4 +40,3 @@ Het is belangrijk dat u contacten hebt op de pagina Personen, omdat wij hier aut
 1. Wijs de kolommen in uw CSV aan hun respectieve gebieden in Verkoop toe verbindt. Klik **Volgende** wanneer gereed.
 
    ![](assets/five.png)
-
