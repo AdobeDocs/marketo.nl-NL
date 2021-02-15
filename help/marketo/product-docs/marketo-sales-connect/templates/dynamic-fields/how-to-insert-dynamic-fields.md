@@ -3,9 +3,9 @@ unique-page-id: 14352592
 description: Dynamische velden invoegen - Marketo Docs - Productdocumentatie
 title: Dynamische velden invoegen
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,12 @@ U kunt uw e-mailsjablonen aanpassen met vooraf gedefinieerde kenmerken, zoals `{
 
 >[!TIP]
 >
->Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn het veld `only fields that will look to both Sales Connect and Salesforce.` Dit betekent dat als een contactpersoon niet bestaat in de [webtoepassing](http://toutapp.com/login), we in Salesforce kijken of we een contact-/lograprecord kunnen vinden met een bijbehorend e-mailadres. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
+>Het veld &quot;first_name&quot; en &quot;bedrijf&quot; zijn de enige velden die zowel op Sales Connect als op Salesforce worden weergegeven. Dat betekent als een contact niet in [Webtoepassing ](https://toutapp.com/login) bestaat, kijken wij in Salesforce om te zien of kunnen wij een contact/loodverslag met een passend e-mailadres vinden. Vervolgens gebruiken we informatie uit die record om het veld te vullen.
 
 ## Een dynamisch veld invoegen in een sjabloon {#insert-a-dynamic-field-into-a-template}
 
 1. Zoek in **Sjablonen en campagnes** de sjabloon die u wilt bewerken en klik op **Sjabloon bewerken**.
+
 1. Klik **Tout Dynamic Fields**.
 
    >[!NOTE]
