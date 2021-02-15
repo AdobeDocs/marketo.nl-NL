@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Overzicht van MSI-functies - Marketo Docs - Productdocumentatie
 title: Overzicht van MSI-functies
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Het deelvenster MSI Visualforce bevat de volgende functies:
 
 * Tabs
 
-   * [Insights-dashboard](http://docs.marketo.com/x/EoGMAg)
+   * [Insights-dashboard](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
    * Interessant moment
    * Webactiviteit
    * E-mail
@@ -170,7 +170,7 @@ Salesforce Classic: Voeg toe aan Controlelijst, voeg aan Marketo Campaign toe, e
 
 >[!MORELIKETHIS]
 >
->[Het lusje van de Configuratie van het Inzicht van de Verkoop van de Marketo in Salesforce](http://docs.marketo.com/x/UoCMAg)
+>[Het lusje van de Configuratie van het Inzicht van de Verkoop van de Marketo in Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
 
 ## Rapporten van de Prestaties van het Inzicht van de verkoop {#sales-insight-performance-reports}
 
