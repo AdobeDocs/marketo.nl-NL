@@ -3,7 +3,7 @@ unique-page-id: 10094114
 description: Opmerkingen bij de release - herfst 2015 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - herfst 2015
 translation-type: tm+mt
-source-git-commit: 48330e8f6f1ad8883d74d80e6f64faba4fdfa52e
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '1026'
 ht-degree: 0%
@@ -31,7 +31,7 @@ U kunt meerdere abonnementen maken op een slimme lijst. Er geldt een beperking v
 
 ## Aangepaste objecten markeren {#marketo-custom-objects}
 
-[Markeren naar aangepaste objecten](http://docs.marketo.com/display/docs/marketo+custom+objects)
+[Markeren naar aangepaste objecten](https://docs.marketo.com/display/docs/marketo+custom+objects)
 
 Maak eenvoudig aangepaste objecten via de interface voor beheerders. Momenteel ondersteunen we de mogelijkheid om een aangepast object van 1:N te maken in Marketo en dit aan te sluiten op een lead of bedrijf.
 
@@ -121,7 +121,7 @@ We maken verschillende verbeteringen in de rijke teksteditor. Nadat wij de bijge
    ```
 
    ```
-   <v:fill type="tile" src="<a href="http://i.imgur.com/YJOX1PC.png" rel="nofollow">http://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
+   <v:fill type="tile" src="<a href="https://i.imgur.com/YJOX1PC.png" rel="nofollow">https://i.imgur.com/YJOX1PC.png</a>" color="#7bceeb"/>
    ```
 
    ```
