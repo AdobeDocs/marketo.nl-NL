@@ -3,7 +3,7 @@ unique-page-id: 6095037
 description: Opmerkingen bij de release - maart 2015 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -maart 2015
 translation-type: tm+mt
-source-git-commit: 309f299275bfe75e8af0150be0a5ffdf28a54cf8
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van maart 2015. Controleer uw 
 
 ## Kalender HD {#calendar-hd}
 
-[Toon de marketing van uw team ](http://docs.marketo.com/display/docs/calendar+hd) activiteiten met de nieuwe presentatiemodus van de kalender. Dit is geweldig voor tv&#39;s of reuzenmonitoren op kantoor! Stel doelen in en geeft deze weer op basis van een slimme lijst of aangepaste meetgegevens.
+[Toon de marketing van uw team ](https://docs.marketo.com/display/docs/calendar+hd) activiteiten met de nieuwe presentatiemodus van de kalender. Dit is geweldig voor tv&#39;s of reuzenmonitoren op kantoor! Stel doelen in en geeft deze weer op basis van een slimme lijst of aangepaste meetgegevens.
 
 >[!NOTE]
 >
@@ -33,13 +33,13 @@ Koppel uw [Google AdWords-account aan Marketo](../../product-docs/administration
 
 ## Ontvangsten verkenner opnieuw ontwerpen {#revenue-explorer-redesign}
 
-[De ](http://docs.marketo.com/display/docs/revenue+explorer) Exploratie van de opbrengst heeft een gloednieuwe blik en voelt, evenals het nieuwe type van de Zonneburst grafiek! We gaan dit uitrollen in de eerste twee weken van april.
+[De ](https://docs.marketo.com/display/docs/revenue+explorer) Exploratie van de opbrengst heeft een gloednieuwe blik en voelt, evenals het nieuwe type van de Zonneburst grafiek! We gaan dit uitrollen in de eerste twee weken van april.
 
 ## Nieuwe REST-API&#39;s voor middelen {#new-asset-rest-apis}
 
-[Nieuwe REST-API&#39;s voor middelen](http://developers.marketo.com/)
+[Nieuwe REST-API&#39;s voor middelen](https://developers.marketo.com/)
 
-We hebben nu ondersteuning voor het maken en bewerken van e-mails, sjablonen, mijn tokens, bestanden en fragmenten [via de API](http://developers.marketo.com/documentation/asset-api)!
+We hebben nu ondersteuning voor het maken en bewerken van e-mails, sjablonen, mijn tokens, bestanden en fragmenten [via de API](https://developers.marketo.com/documentation/asset-api)!
 
 ## Microsoft Dynamics 2015 on Premise {#microsoft-dynamics-on-premise}
 
