@@ -3,7 +3,7 @@ unique-page-id: 2360397
 description: Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten - Marketo Docs - de Documentatie van het Product
 title: Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Abonneren op een rapport van de Ontdekkingsreiziger van de Opbrengst {#subscribe-to-a-revenue-explorer-report}
 
-Om updates van uw [Rapporten van de Cyclus van de Inkomsten te ontvangen ](http://docs.marketo.com/display/docs/revenue+cycle+analytics), en hen te delen, kunt u om het even welk e-mailadres aan een bestaand rapport intekenen.
+Om updates van uw [Rapporten van de Cyclus van de Inkomsten te ontvangen ](https://docs.marketo.com/display/docs/revenue+cycle+analytics), en hen te delen, kunt u om het even welk e-mailadres aan een bestaand rapport intekenen.
 
 1. Ga naar **Analytics** en selecteer **New > New Report Subscription.**
 
@@ -51,5 +51,5 @@ Om updates van uw [Rapporten van de Cyclus van de Inkomsten te ontvangen ](http:
 >
 >**Diep duiken**
 >
->Bekijk meer van de dingen u met Marketo&#39;s geavanceerde analyses in [de diepe duik van de Cycle Explorer](http://docs.marketo.com/display/docs/revenue+cycle+analytics) kunt doen.
+>Bekijk meer van de dingen u met Marketo&#39;s geavanceerde analyses in [de diepe duik van de Cycle Explorer](https://docs.marketo.com/display/docs/revenue+cycle+analytics) kunt doen.
 
