@@ -3,7 +3,7 @@ unique-page-id: 2359994
 description: Selecteer Rapportkolommen - Marketo Docs - Productdocumentatie
 title: Rapportkolommen selecteren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -35,5 +35,5 @@ U kunt kiezen welke kolommen wel en niet worden opgenomen in uw rapport.
    >    * [Rapport sorteren op kolommen](sort-report-on-columns.md)
 
 
-   Doe meer met rapporten! Zie [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
+   Doe meer met rapporten! Zie [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting).
 
