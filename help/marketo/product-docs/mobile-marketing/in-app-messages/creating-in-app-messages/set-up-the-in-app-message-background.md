@@ -3,7 +3,7 @@ unique-page-id: 10100649
 description: De achtergrond voor berichten in de app instellen - Marketo Docs - Productdocumentatie
 title: De achtergrond voor berichten in de app instellen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
@@ -75,7 +75,7 @@ Het selecteren van een berichtachtergrond is een belangrijke stap in het voltooi
    >    
    >    
    >    * [In-app berichten begrijpen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [Een bericht in de app verzenden](http://docs.marketo.com/pages/viewpage.action?pageid=10617378)
+   >    * [Een bericht in de app verzenden](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
    >    * [Kies een lay-out voor uw bericht in de app](choose-a-layout-for-your-in-app-message.md)
 
 
