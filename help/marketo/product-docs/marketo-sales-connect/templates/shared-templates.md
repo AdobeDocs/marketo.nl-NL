@@ -3,7 +3,7 @@ unique-page-id: 14352503
 description: Gedeelde sjablonen - Marketo Docs - Productdocumentatie
 title: Gedeelde sjablonen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
@@ -19,9 +19,8 @@ Als u één van onze teamrekeningen gebruikt, zijn al uw malplaatjes nog privé 
 
 ## Hoe te om Gedeelde Malplaatjes {#how-to-find-shared-templates} te vinden
 
-De malplaatjes die met u zijn gedeeld zullen omhoog onder de **Malplaatjes van het Team **kopbal op de linkerkant van de pagina van Malplaatjes verschijnen.
+De malplaatjes die met u zijn gedeeld zullen verschijnen onder **de kopbal van Malplaatjes van het Team** op de linkerkant van de pagina van Malplaatjes.
 
 >[!NOTE]
 >
 >Teams zijn alleen beschikbaar voor Premium-gebruikers.
-
