@@ -3,7 +3,7 @@ unique-page-id: 42762322
 description: Het Lusje van de Configuratie van het Inzicht van de Verkoop van de Marketo in Salesforce - Marketo Docs - de Documentatie van het Product
 title: Het lusje van de Configuratie van het Inzicht van de Verkoop van de Marketo in Salesforce
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -58,4 +58,3 @@ Configuraties zijn van toepassing op alle MSI-gebruikers en zijn niet specifiek 
 Als u dit doet, worden al uw configuraties in SFDC gewist en kunnen deze niet worden hersteld. U zult alles opnieuw moeten vormen.
 
 ![](assets/three.png)
-
