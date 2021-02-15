@@ -3,7 +3,7 @@ unique-page-id: 14746594
 description: Een SMTP-server instellen - Marketo Docs - Productdocumentatie
 title: Een SMTP-server instellen
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '655'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Het staat u toe om de reputatie van het domein en de leverbaarheid van uw bedrij
 
 **Hoe verzendt Sales Connect met mijn SMTP-server?**
 
-Door [deze stappen](http://docs.marketo.com/x/ZgPh) te volgen.
+Door [deze stappen](https://docs.marketo.com/x/ZgPh) te volgen.
 
 ![](assets/1.png)
 
@@ -52,7 +52,7 @@ Cons
 * Elke gebruiker moet dit zelf instellen
 * Het wijzigen van het O365-wachtwoord van een gebruiker leidt tot een verbroken verbinding
 
-Als u Office365 of Uitwisseling Online gebruikt, kunt u met uw server verbinden SMTP gebruikend een standaardreeks geloofsbrieven. Houd er rekening mee dat Office365 geen service voor het leveren van grote hoeveelheden e-mail is, hoewel dit goed werkt bij het verzenden van eenmalige e-mails. Bij het verzenden van grote e-mailberichten kan Office365 uw e-mails vertragen, wat tot mislukte bezorging kan leiden. Meer over deze controle uit het artikel van Microsoft op [hoe te opstelling SMTP cliëntvoorlegging](http://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
+Als u Office365 of Uitwisseling Online gebruikt, kunt u met uw server verbinden SMTP gebruikend een standaardreeks geloofsbrieven. Houd er rekening mee dat Office365 geen service voor het leveren van grote hoeveelheden e-mail is, hoewel dit goed werkt bij het verzenden van eenmalige e-mails. Bij het verzenden van grote e-mailberichten kan Office365 uw e-mails vertragen, wat tot mislukte bezorging kan leiden. Meer over deze controle uit het artikel van Microsoft op [hoe te opstelling SMTP cliëntvoorlegging](https://support.office.com/en-us/article/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-office-365-69f58e99-c550-4274-ad18-c805d654b4c4).
 
 &quot;U kunt slechts van één e-mailadres verzenden tenzij uw apparaat login geloofsbrieven voor veelvoudige Office 365 brievenbussen kan opslaan. Office 365 legt een grens van 30 berichten per minuut, en een grens van 10.000 ontvangers per dag op.&quot;
 
