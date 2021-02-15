@@ -3,7 +3,7 @@ unique-page-id: 2950396
 description: Prioriteit, Urgentie, Relatieve Score en Beste Bets - Marketo Docs - de Documentatie van het Product
 title: Prioriteit, Urgentie, Relatieve Score en Beste Bets
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -57,5 +57,5 @@ Naarmate de scores veranderen, worden de waarden voor urgentie, prioriteit en re
 
 >[!MORELIKETHIS]
 >
->* [Marktverkoopoverzicht](http://docs.marketo.com/display/docs/marketo+sales+insight)
+>* [Marktverkoopoverzicht](https://docs.marketo.com/display/docs/marketo+sales+insight)
 
