@@ -3,7 +3,7 @@ unique-page-id: 2360227
 description: Middelen filteren in een campagne-e-mailrapport - Marketo Docs - Productdocumentatie
 title: Middelen in een campagne-e-mailrapporten filteren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Elementen filteren in een campagne-e-mailrapport {#filter-assets-in-a-campaign-email-reports}
 
-Focus uw [Campagne-e-mailprestaties](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)-rapport op specifieke [slimme campagnes](http://docs.marketo.com/display/docs/smart+campaigns) in uw programma&#39;s (&#39;lokale middelen&#39;) of op de gearchiveerde campagnes.
+Focus uw [Campagne-e-mailprestaties](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)-rapport op specifieke [slimme campagnes](https://docs.marketo.com/display/docs/smart+campaigns) in uw programma&#39;s (&#39;lokale middelen&#39;) of op de gearchiveerde campagnes.
 
 1. Ga naar **Analytics **(of **Marketing Activities**) gebied.
 
@@ -56,5 +56,5 @@ Focus uw [Campagne-e-mailprestaties](../../../../product-docs/reporting/basic-re
    >**Diep duiken**
    >
    >
-   >Meer informatie over rapporten vindt u in [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting).
+   >Meer informatie over rapporten vindt u in [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting).
 
