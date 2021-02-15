@@ -3,9 +3,9 @@ unique-page-id: 1147326
 description: Marketo Insights installeren voor Google Chrome - Marketo Docs - Productdocumentatie
 title: Marketo Insights installeren voor Google Chrome
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 7952f5069ed641e2b5ca329c69f4e3f237e2c43e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Voer de volgende stappen uit om te beginnen met het gebruik van de krachtige Chr
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
-1. Klik met de rechtermuisknop op het Marketo-logo in Chrome en selecteer** Opties**.
+1. Klik met de rechtermuisknop op het Marketo-logo in Chrome en selecteer **Opties**.
 
    ![](assets/two.png)
 
@@ -37,13 +37,12 @@ Voer de volgende stappen uit om te beginnen met het gebruik van de krachtige Chr
 
    >[!NOTE]
    >
-   >De Reg-code wordt verzonden in de e-mail die wordt verzonden nadat een Marketo Admin [i](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) [een Marketo Email Add-in-licentie](../../../product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [ heeft verzonden.](http://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Het vervalt na 14 dagen.**
+   >De Reg-code wordt vermeld in de e-mail die wordt verzonden nadat een Marketo Admin [u een licentie voor een Marketo-e-mailinvoegtoepassing heeft uitgegeven](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) [.](https://docs.marketo.com/pages/viewpage.action?pageid=7510848) **Het vervalt na 14 dagen**.
 
-1. Klik op** Toestaan **om offline toegang toe te staan.
+1. Klik **Toestaan** om offline toegang toe te staan.
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 
 >[!MORELIKETHIS]
 >
->[Marketo Insights gebruiken voor Google Chrome](using-marketo-insights-for-google-chrome.md)
-
+>[Marketo Insights gebruiken voor Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
