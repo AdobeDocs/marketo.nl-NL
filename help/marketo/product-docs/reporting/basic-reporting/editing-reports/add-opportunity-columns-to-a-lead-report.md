@@ -3,7 +3,7 @@ unique-page-id: 2360018
 description: Voeg de Kolommen van de Kans aan een Loodrapport toe - Marketo Docs - de Documentatie van het Product
 title: Opportunity-kolommen toevoegen aan een lead-rapport
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Voeg de Kolommen van de Kans aan een Rapport {#add-opportunity-columns-to-a-lead-report} van de Leiding toe
 
-Om de statistieken over kansen in uw [persoonrapporten](http://docs.marketo.com/display/docs/basic+reporting) te zien, kunt u opportuniteitskolommen toevoegen.
+Om de statistieken over kansen in uw [persoonrapporten](https://docs.marketo.com/display/docs/basic+reporting) te zien, kunt u opportuniteitskolommen toevoegen.
 
 1. Ga naar **Marketing Activities** gebied.
 
@@ -77,5 +77,5 @@ Om de statistieken over kansen in uw [persoonrapporten](http://docs.marketo.com/
    >**Diep duiken**
    >
    >
-   >Zie wat u anders met rapporten in [Basis het Melden](http://docs.marketo.com/display/docs/basic+reporting) diepe duik kunt doen.
+   >Zie wat u anders met rapporten in [Basis het Melden](https://docs.marketo.com/display/docs/basic+reporting) diepe duik kunt doen.
 
