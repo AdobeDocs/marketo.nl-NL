@@ -3,9 +3,9 @@ unique-page-id: 14352634
 description: Een bijlage toevoegen - Marketo Docs - Productdocumentatie
 title: Een bijlage toevoegen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,14 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >Bijlagen toevoegen is beschikbaar als u Marketo Sales Connect gebruikt. Deze optie is niet beschikbaar in de standaard-e-maileditor van Marketo.
 
 Als u bijlagen wilt toevoegen aan uw sjabloon, opent u de sjablooneditor en klikt u op **Bestanden koppelen** boven de teksteditor. Dan eenvoudig vind en upload de gehechtheid van uw computer.
 
-Als u wilt dat de bijlagen worden [bijgehouden wanneer ze worden geopend](http://docs.marketo.com/display/TEST/How+to+Track+Your+Email+Attachments), klikt u op **Toevoegen** **Inhoud** en selecteert u een .doc-, PDF- of .ppt-bestand.
+Als u wilt dat de bijlagen [worden bijgehouden wanneer ze worden geopend](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-to-track-your-email-attachments.md), klikt u op **Inhoud toevoegen** en selecteert u een .doc-, PDF- of .ppt-bestand.
 
-Nadat deze bestanden naar een sjabloon zijn geüpload, worden ze opgeslagen in uw Sales Connect-inhoud. U kunt deze snel toevoegen aan e-mailberichten vanuit uw webbrowser of vanuit de [webtoepassing](http://toutapp.com/login) door te klikken op **Inhoud toevoegen** in de sjablooneditor.
+Nadat deze bestanden naar een sjabloon zijn geüpload, worden ze opgeslagen in uw Sales Connect-inhoud. U kunt deze snel toevoegen aan e-mailberichten vanuit uw webbrowser of vanuit de [webtoepassing](https://toutapp.com/login) door te klikken op **Inhoud toevoegen** in de sjablooneditor.
 
 >[!NOTE]
 >
 >De formaatlimiet voor de knoppen **Inhoud** of **Bestanden koppelen** is 5 MB.
-
