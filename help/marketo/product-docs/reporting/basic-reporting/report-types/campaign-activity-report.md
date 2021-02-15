@@ -3,7 +3,7 @@ unique-page-id: 2360057
 description: Rapport Campagneactiviteiten - Marketo Docs - Productdocumentatie
 title: Rapport Campagneactiviteiten
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rapport voor campagneactiviteit {#campaign-activity-report}
 
-Zie hoe uw [slimme campagnes](http://docs.marketo.com/display/docs/smart+campaigns) presteren.
+Zie hoe uw [slimme campagnes](https://docs.marketo.com/display/docs/smart+campaigns) presteren.
 
 1. [Maak een ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport en selecteer het rapporttype **** [Campagne ](report-type-overview.md)Activity.
 1. [Stel het tijdkader van uw rapport in ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op het tabblad  **** Rapporten.
@@ -54,5 +54,5 @@ Zie hoe uw [slimme campagnes](http://docs.marketo.com/display/docs/smart+campaig
    >    * [Een campagneactiviteitenrapport filteren](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
 
 
-   Zie meer rapporten in [Basis Rapportering](http://docs.marketo.com/display/docs/basic+reporting).
+   Zie meer rapporten in [Basis Rapportering](https://docs.marketo.com/display/docs/basic+reporting).
 
