@@ -3,7 +3,7 @@ unique-page-id: 10095358
 description: Personen- en accountgegevens en -activiteiten weergeven in Google Mail - Marketo Docs - Productdocumentatie
 title: Personen- en accountgegevens en -activiteiten weergeven in Google Mail
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -49,5 +49,4 @@ Klik op het pictogram Markeren om het deelvenster te openen.
 
 >[!MORELIKETHIS]
 >
->[Marketo Insights gebruiken voor Google Chrome](using-marketo-insights-for-google-chrome.md)
-
+>[Marketo Insights gebruiken voor Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
