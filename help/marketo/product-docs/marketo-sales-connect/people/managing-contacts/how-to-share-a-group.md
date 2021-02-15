@@ -3,7 +3,7 @@ unique-page-id: 14352511
 description: Hoe te om een Groep te delen - Marketo Docs - de Documentatie van het Product
 title: Hoe te om een Groep te delen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Het delen van een groep leads of contacten met uw team is vrij eenvoudig in Sale
 
    ![](assets/two-1.png)
 
-1. Klik op de knop** Groepacties** en selecteer **Groep delen**.
+1. Klik op de knop **Handelingen groeperen** en selecteer **Groep delen**.
 
    ![](assets/three-1.png)
 
@@ -34,4 +34,3 @@ Het delen van een groep leads of contacten met uw team is vrij eenvoudig in Sale
 1. Klik **Delen**.
 
    ![](assets/five-1.png)
-
