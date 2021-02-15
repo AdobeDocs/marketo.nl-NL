@@ -3,7 +3,7 @@ unique-page-id: 2360002
 description: Rapportgrootte configureren - Marketo Docs - Productdocumentatie
 title: Rapportgrootte configureren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -47,5 +47,5 @@ Standaard zijn Marketo-rapporten beperkt tot maximaal 5000 rijen, maar u kunt di
    >
    >Nu kunt u [uw rapport](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md) met de nieuwe grens uitvoeren.
 
-   Zie meer manieren om uw rapporten in [Basis het Melden](http://docs.marketo.com/display/docs/basic+reporting) te vormen diepe duik.
+   Zie meer manieren om uw rapporten in [Basis het Melden](https://docs.marketo.com/display/docs/basic+reporting) te vormen diepe duik.
 
