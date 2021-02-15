@@ -3,7 +3,7 @@ unique-page-id: 2360052
 description: Bekeken de Pagina's van het Web, het Rapport van de Activiteit van de Web-pagina - Marketo Docs - de Documentatie van het Product
 title: Bekeken de Pagina's van het Web, het Rapport van de Activiteit van de Web-pagina
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -38,5 +38,5 @@ Van een [Rapport van de Activiteit van de Pagina van het Web](../../../../../pro
    >**Diep duiken**
    >
    >
-   >Doe meer met rapporten! Zie [Basisrapportage](http://docs.marketo.com/display/docs/basic+reporting) diep duiken.
+   >Doe meer met rapporten! Zie [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting) diep duiken.
 
