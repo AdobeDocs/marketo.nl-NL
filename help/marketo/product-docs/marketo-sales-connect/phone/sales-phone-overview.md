@@ -3,9 +3,9 @@ unique-page-id: 14352438
 description: Overzicht van de telefoon van de verkoop - Marketo Docs - de Documentatie van het Product
 title: Overzicht van verkooptelefonie
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 0%
 
 **Lokale Aanwezigheid:** U zult slechts &quot;gebruik lokale aanwezigheid&quot;moeten controleren en de vraag voor uw eerste vraag registreren. Sales Connect onthoudt uw instellingen voor alle toekomstige aanroepen.
 
-Als u wilt dat Sales Connect automatisch een vraagactiviteit in Salesforce tot stand brengt, controleer [dit artikel](http://docs.marketo.com/x/joLS).
+Als u wilt dat Sales Connect automatisch een vraagactiviteit in Salesforce tot stand brengt, controleer [dit artikel](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
 
 ## Hoe maak ik een vraag met de Telefoon van de Verkoop? {#how-do-i-make-a-call-with-sales-phone}
 
@@ -37,6 +37,6 @@ In het Centrum van het Bevel, kunt u uw &quot;vraaglijst&quot;van het verzonden 
 
 Wanneer u eenmaal hebt gebeld of gebeld, haalt Sales Connect het telefoonnummer van uw lead/contactpersoon bij Salesforce in. Als er geen nummer in Salesforce wordt vermeld, haalt Sales Connect het telefoonnummer van de accountrecord in.
 
-Voor teams die andere CRMS gebruiken, haalt Sales Connect het telefoonnummer uit het nummer in de record in Sales Connect. Deze gegevens kunnen eenvoudig beschikbaar zijn via een [CSV-upload](http://docs.marketo.com/x/HIPS).
+Voor teams die andere CRMS gebruiken, haalt Sales Connect het telefoonnummer uit het nummer in de record in Sales Connect. Deze gegevens kunnen eenvoudig beschikbaar zijn via een [CSV-upload](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
 Hit de grote groene **Call** knoop. Uw telefoon zal dan beginnen te bellen. Neem telefonisch contact op en Sales Connect belt automatisch de lead/contactpersoon.
