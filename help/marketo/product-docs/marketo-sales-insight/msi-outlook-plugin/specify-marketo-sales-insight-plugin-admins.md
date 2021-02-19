@@ -3,7 +3,7 @@ unique-page-id: 11377552
 description: Admins van de Inzicht van de Inzicht van de Verkoop van de Marketo - Marketo Docs - de Documentatie van het Product specificeren
 title: Admins van de insteekmodule Marketo Sales Insight opgeven
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 U kunt specificeren welke contacten u in het e-mailbericht wilt verschijnen u aan gebruikers verzendt wanneer u hen aan opstelling MSI in Vooruitzichten uitnodigt.
 
-1. In Mijn Marketo, klik **Admin** en toen **het Inzicht van de Verkoop.**
+1. In Mijn Marketo, klik **Admin** en toen **Inzicht van de Verkoop**.
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
@@ -40,4 +40,3 @@ U kunt specificeren welke contacten u in het e-mailbericht wilt verschijnen u aa
    ![](assets/image2016-8-25-11-3a33-3a33.png)
 
    Perfect!
-
