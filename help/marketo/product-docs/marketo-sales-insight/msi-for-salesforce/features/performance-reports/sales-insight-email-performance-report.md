@@ -3,7 +3,7 @@ unique-page-id: 4720314
 description: E-mailprestatierapport over verkoopinzicht - Marketo Docs - Productdocumentatie
 title: E-mailprestatierapport voor verkoopinzicht
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -64,4 +64,3 @@ Je kunt dit rapport gegroepeerd op Verkoopvertegenwoordiger bekijken door je ins
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
    Mooi cool, hè? Je ziet nu de prestaties van e-mails gegroepeerd op verkoper.
-
