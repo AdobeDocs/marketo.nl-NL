@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: Tokens voor interessante momenten - Marketo Docs - Productdocumentatie
 title: Tokens voor interessante momenten
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -15,16 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Leer om [Interesserende de stroomstap van het Moment te gebruiken](../../../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
->* Meer informatie over [tokens](https://docs.marketo.com/display/docs/tokens).
-
->
-
-
+>Leer om [Interesserende de stroomstap van het Moment te gebruiken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Beschikbare tokens {#available-tokens}
 
-Bekijk [Tokens Overzicht](../../../../../../product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om alle tokens te zien u in een interessant moment kunt zetten.
+Bekijk [Tokens Overzicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om alle tokens te zien u in een interessant moment kunt zetten.
 
 ## Tokens {#trigger-tokens} activeren
 
@@ -249,4 +244,3 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
 >Test altijd uw interessante momenten uit om ervoor te zorgen dat ze de gewenste manier weergeven.
 >
 >Zorg er ook voor dat het interessant is voor de verkoper, niet alleen voor jou. ![(wink)](assets/wink.svg)>
-
