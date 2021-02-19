@@ -3,7 +3,7 @@ unique-page-id: 11377640
 description: Autoriseer de Insteekmodule Marketo Outlook - Marketo Docs - Productdocumentatie
 title: De insteekmodule Marketo Outlook autoriseren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -42,4 +42,3 @@ Om de stop van Marketo MSI in Vooruitzichten te gebruiken, moet u het machtigen.
 1. Als het e-mailadres niet is geautoriseerd, ontvang je deze minder gelukkige e-mail. Neem contact op met uw Marketo-beheerder om het probleem op te lossen.
 
    ![](assets/image2016-8-24-16-3a25-3a27.png)
-
