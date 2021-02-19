@@ -3,9 +3,9 @@ unique-page-id: 7512979
 description: Het gebruiken van het Lead voer - Marketo Docs - de Documentatie van het Product
 title: De Lead Feed gebruiken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '332'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,8 @@ De Lead Feed is een actuele lijst met interessante gebeurtenissen die door uw le
 
 ## Wat zit er in de Loodfeed? {#whats-in-the-lead-feed}
 
-![](assets/one.png)\
+![](assets/one.png)
+
 Elk item in de hoofdfeed is een interessant moment - een opmerkelijke activiteit of gebeurtenis in de marketinggeschiedenis van deze lead.
 
 Als u deze in Salesforce weergeeft, heeft elk item de volgende opties:
@@ -73,17 +74,19 @@ Als u deze in Salesforce weergeeft, heeft elk item de volgende opties:
 
 U kunt ook updates voor Diervoeder voor leads ophalen via RSS-feed.  Met een RSS-feed kunt u updates op uw leads ontvangen, zelfs als u niet bent verbonden met Salesforce. Het diervoeder heeft dezelfde informatie als het voeder voor lood in Salesforce en de volgende informatie (indien beschikbaar):
 
-* `email address`
-* `phone number`
-* `mobile number`
-* `fax number`
-* `company address`
-* `company URL`
+* e-mailadres
+* telefoonnummer
+* mobiel nummer
+* faxnummer
+* bedrijfsadres
+* bedrijfs-URL
 
 >[!NOTE]
 >
->De beheerder van de Marketo van uw bedrijf moet [RSS voer ](../../../../../product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) voor dit toelaten om te werken.
+>De beheerder van de Marketo van uw bedrijf moet [RSS voer ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) voor dit toelaten om te werken.
 
-Voor RSS-updates hebt u twee dingen nodig: de RSS-koppeling en een RSS-voederlezer. U kunt de RSS-koppeling ophalen door op het RSS-pictogram in de lead feed te klikken:   ![](assets/three.png)
+Voor RSS-updates hebt u twee dingen nodig: de RSS-koppeling en een RSS-voederlezer. U kunt de RSS-koppeling ophalen door op het RSS-pictogram in de lead feed te klikken:
+
+![](assets/three.png)
 
 De RSS-feed wordt in een nieuw venster weergegeven. Vervolgens kunt u de URL voor de RSS-feed kopiëren en in een RSS-lezer gebruiken. De meeste browsers hebben een ingebouwde RSS-lezer, of u kunt een RSS-lezer gebruiken die specifiek is voor uw platform.
