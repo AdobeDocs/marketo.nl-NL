@@ -3,9 +3,9 @@ unique-page-id: 2950396
 description: Prioriteit, Urgentie, Relatieve Score en Beste Bets - Marketo Docs - de Documentatie van het Product
 title: Prioriteit, Urgentie, Relatieve Score en Beste Bets
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Uw Beste Bets zijn uw leads en contacten met de hoogste urgentie en de relatieve
 
 >[!NOTE]
 >
->Als uw beste wedden niet de beste lood en contacten u bezit aanpassen, praat met iemand bij uw bedrijf die toegang tot Marketo over het bijwerken van uw [het Scoren Regels](../../../../../getting-started/quick-wins/simple-scoring.md) heeft.
+>Als uw beste wedden niet de beste lood en contacten u bezit aanpassen, praat met iemand bij uw bedrijf die toegang tot Marketo over het bijwerken van uw [het Scoren Regels](/help/marketo/getting-started/quick-wins/simple-scoring.md) heeft.
 
 ### Hoe Urgentie en Relatieve Score worden berekend
 
@@ -54,8 +54,3 @@ Naarmate de scores veranderen, worden de waarden voor urgentie, prioriteit en re
 >[!NOTE]
 >
 >De relatieve Urgentie (vlammen) en de Relatieve (sterren) telling van de Score zijn gehelen in Marketo. Mogelijke waarden voor elk zijn 0-3.
-
->[!MORELIKETHIS]
->
->* [Marktverkoopoverzicht](https://docs.marketo.com/display/docs/marketo+sales+insight)
-
