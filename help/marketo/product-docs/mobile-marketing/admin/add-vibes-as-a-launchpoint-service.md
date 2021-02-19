@@ -3,7 +3,7 @@ unique-page-id: 11378845
 description: Levendigheid toevoegen als dienst van LaunchPoint - Marketo Docs - de Documentatie van het Product
 title: Vibes toevoegen als een LaunchPoint-service
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -42,4 +42,3 @@ U kunt SMS-berichten verzenden naar de mensen in uw lijsten met Vibes en de SMS-
    De nieuwe SMS-service wordt nu weergegeven in de lijst Geïnstalleerde services.
 
    ![](assets/image2016-7-27-9-3a45-3a1.png)
-
