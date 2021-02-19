@@ -3,7 +3,7 @@ unique-page-id: 11377005
 description: RSS inschakelen voor Sales Insight - Marketo Docs - Productdocumentatie
 title: RSS inschakelen voor Sales Insight
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Als de gebruikers van Marketo hun loodvoer niet alleen in Salesforce, maar ook i
 
    ![](assets/rss-settings-tab.png)
 
-   Schakel in het dialoogvenster Instellingen bewerken het selectievakje **RSS feed** in en klik op **Save**.
+1. Schakel in het dialoogvenster Instellingen bewerken het selectievakje **RSS feed** in en klik op **Save**.
 
    ![](assets/rss-edit-settings-2-hands.png)
 
@@ -36,4 +36,3 @@ Als de gebruikers van Marketo hun loodvoer niet alleen in Salesforce, maar ook i
    ![](assets/rss-final-box.png)
 
    Stukje cake!
-
