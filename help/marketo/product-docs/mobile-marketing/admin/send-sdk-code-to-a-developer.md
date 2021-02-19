@@ -3,9 +3,9 @@ unique-page-id: 7512448
 description: SDK-code verzenden naar een ontwikkelaar - Marketo Docs - Productdocumentatie
 title: SDK-code naar een ontwikkelaar verzenden
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Soms moet een beheerder enige SDK-code naar een ontwikkelaar verzenden.
 
 Zo doe je het.
 
-1. Klik op Beheer.
+1. Klik **Admin**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecteer Mobiele apps.
+1. Selecteer **Mobiele toepassingen**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -42,9 +42,8 @@ Zo doe je het.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. Voer een e-mailadres in en klik op **SEND**.
+1. Voer een e-mailadres in en klik op **Verzenden**.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 
    De SDK-code wordt nu naar de ontwikkelaar verzonden.
-
