@@ -3,7 +3,7 @@ unique-page-id: 2949279
 description: Upgrade uw Marketo-e-mailinvoegtoepassing voor Outlook - Marketo Docs - Productdocumentatie
 title: Upgrade uw Marketo-e-mailinvoegtoepassing voor Outlook
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 0%
@@ -119,7 +119,8 @@ Download het installatieprogramma dat geschikt is voor uw versie van Microsoft O
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-   Klik op Volgende.
+1. Klik **Volgende**.
+
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
    >[!NOTE]
@@ -138,7 +139,7 @@ Download het installatieprogramma dat geschikt is voor uw versie van Microsoft O
    >
    >Als de installatie mislukt, werkt u samen met uw IT-afdeling om ervoor te zorgen dat HTTPS-verkeer niet wordt geblokkeerd. Het installatieprogramma vereist dat HTTPS-verkeer is geopend.
 
-   Klik op Volgende om te installeren op de standaardlocatie.
+1. Klik **Volgende** om op de standaardlocatie te installeren.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
@@ -156,10 +157,6 @@ Download het installatieprogramma dat geschikt is voor uw versie van Microsoft O
 
 >[!MORELIKETHIS]
 >
->* [E-mail verzenden en bijhouden met de Marketo-e-mailinvoegtoepassing voor Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Verzenden en volgen vanuit Outlook met behulp van een Marketo-sjabloon](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [E-mail verzenden en bijhouden met de Marketo-e-mailinvoegtoepassing voor Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Verzenden en volgen vanuit Outlook met behulp van een Marketo-sjabloon](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
