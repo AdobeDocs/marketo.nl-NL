@@ -3,7 +3,7 @@ unique-page-id: 7512252
 description: Een mobiele app toevoegen - Marketo Docs - Productdocumentatie
 title: Een mobiele app toevoegen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -26,11 +26,11 @@ Apps beginnen normaal uit in een zandbakmilieu, waar de aanvankelijke ontwikkeli
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Klik op** Mobiele apps en apparaten**.
+1. Klik **Mobiele toepassingen en apparaten**.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-   Klik op Nieuwe mobiele toepassing.
+1. Klik **Nieuwe mobiele toepassing**.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
@@ -46,10 +46,6 @@ Apps beginnen normaal uit in een zandbakmilieu, waar de aanvankelijke ontwikkeli
 
 >[!MORELIKETHIS]
 >
->* [Android-pushtoegang voor mobiele app configureren](configure-mobile-app-android-push-access.md)
->* [Mobile App iOS Push Access configureren](configure-mobile-app-ios-push-access.md)
-
->
-
-
+>* [Android-pushtoegang voor mobiele app configureren](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+>* [Mobile App iOS Push Access configureren](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
 
