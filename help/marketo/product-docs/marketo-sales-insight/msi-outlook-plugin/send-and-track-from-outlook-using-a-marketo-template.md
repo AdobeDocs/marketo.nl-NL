@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: Verzenden en volgen vanuit Outlook met behulp van een Marketo-sjabloon - Marketo Docs - Productdocumentatie
 title: Verzenden en volgen vanuit Outlook met behulp van een Marketo-sjabloon
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,6 @@ Als uw marketingteam sjablonen voor u beschikbaar heeft gesteld, kunt u deze geb
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
    >Tokens worden niet gesteund met toe:voegen-binnen. Verwijder eventuele sjablonen uit de sjabloon.
 
 1. Controleer de voorvertoning, zorg ervoor dat het er goed uitziet en klik op **Verzenden**.
@@ -42,9 +39,4 @@ Als uw marketingteam sjablonen voor u beschikbaar heeft gesteld, kunt u deze geb
 
 >[!MORELIKETHIS]
 >
->* [Log inkomende post van je leads in Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[Log inkomende post van je leads in Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
