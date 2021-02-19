@@ -3,7 +3,7 @@ unique-page-id: 2949711
 description: Installeer de toe:voegen-binnen E-mail van de Marketo voor Vooruitzichten met een Code van de Registratie - Marketo Docs - de Documentatie van het Product
 title: De invoegtoepassing Marketo E-mail voor Outlook installeren met een registratiecode
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
@@ -19,15 +19,12 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
 
 >[!PREREQUISITES]
 >
->* U moet [uitgegeven een vergunning van de Toevoeging van de Marketo E-mail ](issue-a-marketo-email-add-in-license.md) zijn.
-
->
-
-
+>U moet [uitgegeven een vergunning van de Toevoeging van de Marketo E-mail ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) zijn.
 
 ## Installatieprogramma {#download-installer} downloaden
 
 1. Uw [Microsoft Outlook-versie](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c) identificeren
+
 1. Klik op de koppeling om het installatieprogramma te downloaden dat geschikt is voor uw versie van Microsoft Outlook.
 
    >[!NOTE]
@@ -71,7 +68,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Vul **Voornaam**, **Achternaam**, **E-mailadres** in, kopieer en plak de **Registratiecode **van de e-mail in het formulier en klik **Volgende**.
+1. Vul **Voornaam**, **Achternaam**, **E-mailadres** in, kopieer en plak de **Registratiecode** van de e-mail naar het formulier en klik **Volgende**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -79,7 +76,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
    >
    >Als de installatie mislukt, raadpleegt u uw IT-afdeling om ervoor te zorgen dat HTTPS-verkeer niet wordt geblokkeerd. Het installatieprogramma vereist dat HTTPS-verkeer is geopend.
 
-1. Klik op** Volgende** om te installeren op de standaardlocatie.
+1. Klik **Volgende** om op de standaardlocatie te installeren.
 
    ![](assets/select-installation-folder-hand.png)
 
@@ -105,10 +102,6 @@ Meer informatie over het gebruik van Marketo Message and Log With Marketo action
 
 >[!MORELIKETHIS]
 >
->* [E-mail verzenden en bijhouden met de Marketo-e-mailinvoegtoepassing voor Outlook](send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Verzenden en volgen vanuit Outlook met behulp van een Marketo-sjabloon](send-and-track-from-outlook-using-a-marketo-template.md)
-
->
-
-
+>* [E-mail verzenden en bijhouden met de Marketo-e-mailinvoegtoepassing voor Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Verzenden en volgen vanuit Outlook met behulp van een Marketo-sjabloon](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
