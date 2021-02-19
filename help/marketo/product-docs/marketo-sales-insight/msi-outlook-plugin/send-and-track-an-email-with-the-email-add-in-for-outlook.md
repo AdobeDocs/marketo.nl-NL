@@ -3,7 +3,7 @@ unique-page-id: 2949716
 description: E-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor Outlook - Marketo Docs - Productdocumentatie
 title: E-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor Outlook
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -11,13 +11,13 @@ ht-degree: 0%
 ---
 
 
-# E-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# Een e-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
 U kunt e-mails met Marketo rechtstreeks vanuit Outlook verzenden en volgen.
 
 >[!PREREQUISITES]
 >
->Als u nog niet hebt, installeer [toe:voegen-binnen van de Marketo e-mail voor Vooruitzichten](install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Als u nog niet hebt, installeer [toe:voegen-binnen van de Marketo e-mail voor Vooruitzichten](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 1. Open Microsoft Outlook en maak een nieuwe e-mail.
 
@@ -37,7 +37,7 @@ U kunt e-mails met Marketo rechtstreeks vanuit Outlook verzenden en volgen.
 
    >[!TIP]
    >
-   >Als u een malplaatje van het Marketo wilt gebruiken, zie [verzenden en Spoor van Vooruitzichten gebruikend een Malplaatje](send-and-track-from-outlook-using-a-marketo-template.md).
+   >Als u een malplaatje van het Marketo wilt gebruiken, zie [verzenden en Spoor van Vooruitzichten gebruikend een Malplaatje](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Bekijk de voorvertoning en klik op **Verzenden**.
 
@@ -55,9 +55,4 @@ Zo eenvoudig is het! Hoewel deze e-mail door de Vooruitzichten van een verkoper 
 
 >[!MORELIKETHIS]
 >
->* [Log inkomende post van je leads in Marketo](../../../product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-
->
-
-
-
+>[Log inkomende post van je leads in Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
