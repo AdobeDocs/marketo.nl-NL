@@ -3,9 +3,9 @@ unique-page-id: 2360301
 description: De Gebieden van de Score plaatsen die voor Sterren en Vlammen in het Inzicht van de Verkoop - Marketo Docs - de Documentatie van het Product moeten worden gebruikt
 title: De Gebieden van de Score plaatsen die voor Sterren en Vlamjes in het Inzicht van de Verkoop moeten worden gebruikt
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Standaard gebruikt Marketo Sales Insight het veld **Loodscore** om sterren en vl
 
 >[!TIP]
 >
->Als u uw gebieden van de douanescore nog niet hebt, is hier hoe te [creeer ](../../../../../product-docs/administration/field-management/create-a-custom-field-in-marketo.md)hen.
+>Als u uw gebieden van de douanescore nog niet hebt, is hier hoe te [creeer ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) hen.
 
 >[!NOTE]
 >
 >**Definitie**
 >
->* **Sterren: **Sterren geven de totale loodscore aan in vergelijking met andere leads.
+>* **Sterren**: Sterren geven de totale loodscore aan in vergelijking met andere leads.
 >* **Vlamjes**: Flames geven de urgentie weer - hoeveel de score van een lead de laatste tijd is veranderd.
 
 >
@@ -50,7 +50,8 @@ Standaard gebruikt Marketo Sales Insight het veld **Loodscore** om sterren en vl
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-   Klik op Opslaan.
+1. Klik **Opslaan**.
+
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
@@ -59,7 +60,4 @@ Standaard gebruikt Marketo Sales Insight het veld **Loodscore** om sterren en vl
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >[Prioriteit, Urgentie, Relatieve Score en Beste Bets](priority-urgency-relative-score-and-best-bets.md)
-
+   >[Prioriteit, Urgentie, Relatieve Score en Beste Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
