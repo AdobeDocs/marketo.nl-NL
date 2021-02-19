@@ -3,9 +3,9 @@ unique-page-id: 7512445
 description: Verifieer de Push Configuratie - Marketo Docs - de Documentatie van het Product
 title: Pushconfiguratie verifiëren
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -27,23 +27,20 @@ Verifieer dupconfiguratie om ervoor te zorgen alles behoorlijk wordt gesynchroni
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
-   Selecteer de gewenste mobiele app.
+1. Selecteer de gewenste mobiele app.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-   Klik op Mobile App Actions en selecteer Verify Push Configuration.
+1. Klik **Mobile App Actions** en selecteer **Verify Push Configuration**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-   Bevestig de gecontroleerde gewenste platforms en klik op SLUITEN.
+1. Bevestig de gewenste gecontroleerde platforms en klik **Close**.
 
-   ![](assets/image2015-4-22-18-3a52-3a38.png)   Alles klaar! Nu kunt u beginnen met het verzenden van pushmeldingen ![(glimlach)](assets/smile.svg)
+   ![](assets/image2015-4-22-18-3a52-3a38.png)
+
+Alles klaar! Nu kunt u beginnen met het verzenden van pushberichten.
 
 >[!MORELIKETHIS]
 >
->* [Een pushmelding maken](../../../product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
-
->
-
-
-
+>[Een pushmelding maken](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
