@@ -3,7 +3,7 @@ unique-page-id: 45417125
 description: Verkoopoverzicht voor niet-native Salesforce-integratie - Marketo Docs - Productdocumentatie
 title: Verkoopoverzicht voor niet-native Salesforce-integratie
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '1269'
 ht-degree: 0%
@@ -22,9 +22,6 @@ Als uw Marketo-account via een aangepaste of niet-native integratie is verbonden
 >* Marketo REST API [met succes opstelling](https://developers.marketo.com/rest-api/). De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
 >* Lees [dit blogbericht](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) om meer inzicht te krijgen in het object en de relaties.
 >* Stel Salesforce-objecten in om de algemeen unieke id weer te geven voor 18 hoofdletters en kleine letters in plaats van voor 15 hoofdletters en kleine letters.
-
->
-
 
 
 >[!NOTE]
@@ -62,7 +59,7 @@ API-documentatie voor het synchroniseren van de verkoper: [https://developers.ma
 
 1. Synchroniseer de Salesforce-accounts met Marketo.
 
-   Een Marketo Company zal voor de Rekening van Salesforce moeten worden opgenomen. De *externalCompanyId* en *externalSalesPersonId* gebieden worden verplicht voor de opnemer van het Bedrijf.
+   Een Marketo Company zal voor de Rekening van Salesforce moeten worden opgenomen. De _externalCompanyId_ en _externalSalesPersonId_ gebieden worden verplicht voor de opnemer van het Bedrijf.
 
 <table> 
  <colgroup> 
@@ -94,7 +91,7 @@ API-documentatie voor bedrijven: [https://developers.marketo.com/rest-api/lead-d
 
 1. Synchroniseer de Salesforce-contacten met Marketo.
 
-   U moet een Marketo-lead bijwerken voor de Salesforce-lead/contactpersoon. De *externalPersonId*, *externalSalesPersonId*, en *externalCompanyId* gebieden zijn verplicht voor de bovenkant van de Lood.
+   U moet een Marketo-lead bijwerken voor de Salesforce-lead/contactpersoon. De _externalPersonId_, _externalSalesPersonId_, en _externalCompanyId_ gebieden zijn verplicht voor de bovenkant van de Lood.
 
 <table> 
  <colgroup> 
@@ -131,7 +128,7 @@ API-documentatie voor het synchroniseren van leads:  [https://developers.marketo
 
 1. Synchroniseer Salesforce Opportunity op Marketo.
 
-   U moet een Marketo Opportunity voor de Salesforce Opportunity handhaven. De *externalOpportunityId*, *externalCompanyId*, en *externalSalesPersonId* gebieden zijn verplicht voor de controle van de Opportunity.
+   U moet een Marketo Opportunity voor de Salesforce Opportunity handhaven. De _externalOpportunityId_, _externalCompanyId_, en _externalSalesPersonId_ gebieden zijn verplicht voor de controle van de Opportunity.
 
 <table> 
  <colgroup> 
@@ -168,7 +165,7 @@ API-documentatie voor Opportunity: [`https://developers.marketo.com/rest-api/lea
 
 1. Synchroniseer Salesforce-contactrollen naar Marketo.
 
-   De Rollen van het Contact van Salesforce voor een Kans van Salesforce kunnen dan via de Rol van de Kans van de Marketo worden gesynchroniseerd. In de opportunityrolrecord worden de velden *externalOpportunityId*, *rol* en *leadId* verplicht.
+   De Rollen van het Contact van Salesforce voor een Kans van Salesforce kunnen dan via de Rol van de Kans van de Marketo worden gesynchroniseerd. In de opportunityrolrecord worden de velden _externalOpportunityId_, _rol_ en _leadId_ verplicht.
 
 <table> 
  <colgroup> 
@@ -207,7 +204,7 @@ API-documentatie voor Opportunity: [`https://developers.marketo.com/rest-api/lea
 
    Zodra uw voorwerpen Salesforce correct aan Marketo worden gesynchroniseerd, kunt u uit de eigenschappen MSI voordeel halen. De velden MSI Last Interesting Moment/Scoring worden weergegeven in de REST API voor leads. Deze velden worden berekend door MSI en zijn alleen-lezen.
 
-   De velden Laatste interessante momenten/Scores van een Marketo Lead moeten regelmatig worden gesynchroniseerd met Salesforce met behulp van het REST API Lead-eindpunt. Vraag dit eindpunt voor een Lood van de Marketo gebruikend *externalPersonId* als filterType en het overgaan in Salesforce leiden GUID als filterValue.
+   De velden Laatste interessante momenten/Scores van een Marketo Lead moeten regelmatig worden gesynchroniseerd met Salesforce met behulp van het REST API Lead-eindpunt. Vraag dit eindpunt voor een Lood van de Marketo gebruikend _externalPersonId_ als filterType en het overgaan in Salesforce leiden GUID als filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -264,7 +261,6 @@ API-documentatie voor Opportunity: [`https://developers.marketo.com/rest-api/lea
  </tbody> 
 </table>
 
-Documentatie voor de LEIDREST API:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
+Documentatie voor de LEIDREST API: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET).
 
 Een correct gebruik van de externe velden is van wezenlijk belang voor een geslaagde niet-native synchronisatie. Als u gegevens in sommige weergaven niet ziet, is het waarschijnlijk dat een bepaald veld niet correct is gesynchroniseerd. Als de activiteiten en interessante momenten van een lead bijvoorbeeld niet worden weergegeven wanneer u de MSI-widget onder hun account bekijkt, is het waarschijnlijk dat het bedrijf van de lead of de account niet correct is gesynchroniseerd. Als u een GET-aanvraag voor deze lead uitvoert terwijl u de externe velden opgeeft, kunt u controleren of de lead correct is gesynchroniseerd. Bovendien moet de e-mail voor de externe verkoper in Marketo overeenkomen met de e-mail voor die gebruiker in Salesforce. Gegevens worden mogelijk niet weergegeven op het tabblad Marketo in Salesforce als de e-mails niet overeenkomen.
-
