@@ -3,9 +3,9 @@ unique-page-id: 2360303
 description: Sterren en vlammen aanpassen - Marketo Docs - Productdocumentatie
 title: Sterren en vlammen aanpassen
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,13 @@ Marketo Sales Insight gebruikt sterren en vlammen om leads een prioriteit te gev
 
 >[!AVAILABILITY]
 >
->
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik onder Beheer op Verkoopoverzicht.
+1. Klik onder Beheer op **Verkoopinzicht**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
@@ -38,9 +37,7 @@ Marketo Sales Insight gebruikt sterren en vlammen om leads een prioriteit te gev
    >
    >**Definitie**
    >
-   >
-   >**Dynamisch**  - is een percentagewaarde die van  [relatieve gegevens](priority-urgency-relative-score-and-best-bets.md) wordt afgeleid. Geweldige dingen. Deze methode wordt aanbevolen.
-   >
+   >**Dynamisch**  - is een percentagewaarde die van  [relatieve gegevens](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) wordt afgeleid. Geweldige dingen. Deze methode wordt aanbevolen.
    >
    >**Statisch**  - Hiermee kunt u exacte muzieknummers definiëren - geen percentages meer, geen geheime sauzen meer.
 
@@ -50,14 +47,11 @@ Marketo Sales Insight gebruikt sterren en vlammen om leads een prioriteit te gev
 
    >[!TIP]
    >
-   >
    >Bewerk gewoon het beginpercentage. Marketo berekent het eindpercentage voor u!
 
    ![](assets/image2014-9-16-13-3a38-3a49.png)
 
 >[!NOTE]
->
->**Herinnering**
 >
 >Als er eenmaal wijzigingen zijn aangebracht, duurt het enige tijd voordat de sterren en vlammen opnieuw worden berekend. Patientie is een deugd.
 
