@@ -3,7 +3,7 @@ unique-page-id: 7511931
 description: Handelingen in Salesforce1 - Marketo Docs - Productdocumentatie verzenden voor het verzenden van Marketo-e-mail, campagne en controlelijst
 title: Handelingen Marketo en Campagne en Controlelijst verzenden in Salesforce1
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Welke slimme campagnes verschijnen? De triggers met &quot;Campagne is aangevraagd&quot;. Leer hoe u een [getriggerde campagne instelt met &quot;Campagne is Requested](../../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Welke slimme campagnes verschijnen? De triggers met &quot;Campagne is aangevraagd&quot;. Leer hoe u een [getriggerde campagne instelt met &quot;Campagne is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Koel, nu kunnen je verkopers actief deelnemen aan de marketingactiviteiten.
 
@@ -39,4 +39,3 @@ Koel, nu kunnen je verkopers actief deelnemen aan de marketingactiviteiten.
 >
 >
 Wees creatief. Wat wil de verkoper automatiseren? Vraag het hen gewoon en doe het op!
-
