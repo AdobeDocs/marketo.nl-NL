@@ -3,9 +3,9 @@ unique-page-id: 2359518
 description: Een fragment verwijderen - Marketo Docs - Productdocumentatie
 title: Een fragment verwijderen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Een fragment goedkeuren ongedaan maken](unapprove-a-snippet.md)
-
->
-
-
+>[Een fragment goedkeuren ongedaan maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
 
 Verwijder een fragment dat u niet meer nodig hebt.
 
-1. Ga naar **Design Studio.**
+1. Ga naar **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
@@ -31,14 +27,11 @@ Verwijder een fragment dat u niet meer nodig hebt.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. Klik op **Delete **om te bevestigen of enkel **Cancel**.
+1. Klik op **Delete** om te bevestigen of enkel **Cancel**.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 
    >[!NOTE]
-   >
-   >**Herinnering**
-   >
    >
    >U kunt alleen fragmenten verwijderen die niet zijn goedgekeurd en niet worden gebruikt door elementen.
 
