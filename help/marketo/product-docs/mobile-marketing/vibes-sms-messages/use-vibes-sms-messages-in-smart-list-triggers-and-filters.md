@@ -3,9 +3,9 @@ unique-page-id: 11378871
 description: SMS-berichten gebruiken in Smart List Triggers and Filters - Marketo Docs - Productdocumentatie
 title: SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # SMS-berichten met kwasten gebruiken in Smart List-triggers en -filters {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Nadat u [een SMS-bericht van Vibes](create-a-vibes-sms-message.md) creeert, zult u slimme lijsttrekkers en filters binnen een slimme campagne willen gebruiken om de voordelen te krijgen. Zo gaat het.
+Nadat u [een SMS-bericht van Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) creeert, zult u slimme lijsttrekkers en filters binnen een slimme campagne willen gebruiken om de voordelen te krijgen. Zo gaat het.
 
 1. In Mijn Marketo, klik **Marketing Activiteiten**.
 
@@ -29,17 +29,17 @@ Er zijn andere SMS-triggers beschikbaar. De triggers van SMS worden alleen weerg
 
 ![](assets/new-sms-search2.png)
 
-Hier zijn een paar voorbeelden.
+Hier volgen enkele voorbeelden:
 
 Met de trigger voor SMS-berichtenbeloften wordt een stroom gestart, zoals het verzenden van een e-mail, wanneer een SMS-bericht beweegt.
 
 ![](assets/sms-message-bounces-real.jpg)
 
-Met de trigger **Abonneert u op Levenlijst** wordt een stroom gestart wanneer een persoon zich abonneert.
+Met de trigger **Abonneren op Levenlijst** wordt een flow gestart wanneer een persoon zich abonneert.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-De** klikt Verbinding in de trekker van SMS Bericht** initieert een stroom wanneer een persoon op een verbinding in het SMS bericht klikt.
+De **Klik Verbinding in SMS Message** trekker in werking stelt een stroom in werking wanneer een persoon op een verbinding in het bericht van SMS klikt.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
@@ -49,7 +49,7 @@ U kunt ook Vibes-filters gebruiken in slimme lijsten. Met het filter **Subscribe
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-De **Lid van de Lijst van Levendigheden **filter** **vondst** **Iedereen** ***momenteel* geabonneerd op Levenben en is het meest geschikt voor gebruik in slimme campagnes of lijsten.
+Met het filter **Lid van lijst met Vibes** vindt u _Iedereen_ die momenteel is geabonneerd op Vibes en die het meest geschikt is voor gebruik in slimme campagnes of lijsten.
 
 ![](assets/image001.png)
 
@@ -57,15 +57,10 @@ De **Lid van de Lijst van Levendigheden **filter** **vondst** **Iedereen** ***mo
 >
 >Alle filters van SMS omvatten **de Datum van Activiteit** beperking door gebrek.
 
-Nadat u de triggers en filters van Vibes in uw slimme lijst hebt ingesteld, kunt u [de flow](add-a-flow-step-for-sms.md) definiëren.
+Nadat u de triggers en filters van Vibes in uw slimme lijst hebt ingesteld, kunt u [de flow](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md) definiëren.
 
 >[!MORELIKETHIS]
 >
->* [Slimme lijst definiëren voor slimme campagne | Trigger](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Filters zoeken en toevoegen aan een slimme lijst](../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
->* [Voeg een Stap van de Stroom voor SMS toe](add-a-flow-step-for-sms.md)
-
->
-
-
+>* [Slimme lijst definiëren voor slimme campagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Filters zoeken en toevoegen aan een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
 
