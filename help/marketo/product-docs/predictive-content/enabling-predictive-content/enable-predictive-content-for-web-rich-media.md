@@ -3,9 +3,9 @@ unique-page-id: 7514956
 description: Voorspelende inhoud voor webrijke media - Marketo Docs - Productdocumentatie inschakelen
 title: Voorspelende inhoud voor web-rijke media inschakelen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,14 @@ Met voorspellende inhoud hebben uw webbezoekers de meest relevante inhoud, aange
 >
 >Voordat u voorspellende inhoud inschakelt, moet u:
 >
->* [Voorspelende inhoud voorbereiden](https://docs.marketo.com/display/docs/edit+predictive+content)
->* [Een titel voor preventieve inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
-
+>* **Voorspelende inhoud voorbereiden**
+   >
+   >   
+   * [Voorspelende inhoud voor ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) e-mailprogramma bewerken
+   >   * [Predictieve inhoud voor rijke ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) media bewerken
+   >   * [Voorspelende inhoud voor de balk met aanbevelingen bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
 >
-
+>* [Een titel voor preventieve inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
 Nadat u de titel, beschrijving en afbeelding van de inhoud hebt voorbereid voor veelzijdige media, kunt u afzonderlijke of meerdere inhoudsonderdelen inschakelen.
@@ -58,9 +61,3 @@ Hier is een voorbeeld van Rich Media Recommendation Template1:
 Hier is een voorbeeld van Rich Media Recommendation Template2:
 
 ![](assets/image2015-12-20-10-3a35-3a12.png)
-
->[!MORELIKETHIS]
->
->* [De balk met aanbevelingen voor inhoud inschakelen](enable-the-content-recommendation-bar.md)
->* [Voorspelende inhoud in e-mails inschakelen](https://docs.marketo.com/x/vLit)
-
