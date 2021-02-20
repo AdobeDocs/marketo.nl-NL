@@ -3,7 +3,7 @@ unique-page-id: 2359498
 description: Een voorbeeld van een fragment bekijken - Marketo Docs - Productdocumentatie
 title: Een voorvertoning van een fragment weergeven
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
@@ -15,15 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Inhoud toevoegen aan een fragment](add-content-to-a-snippet.md)
-
->
-
-
+>[Inhoud toevoegen aan een fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 Fragmenten zijn blokken dynamische inhoud die worden gewijzigd op basis van segmentatieregels.
 
-1. Ga naar **Design Studio.**
+1. Ga naar **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
@@ -35,9 +31,4 @@ Voorvertoning is ideaal om ervoor te zorgen dat de inhoud er voor elk segment go
 
 >[!MORELIKETHIS]
 >
->* [Een fragment goedkeuren](approve-a-snippet.md)
-
->
-
-
-
+>[Een fragment goedkeuren](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
