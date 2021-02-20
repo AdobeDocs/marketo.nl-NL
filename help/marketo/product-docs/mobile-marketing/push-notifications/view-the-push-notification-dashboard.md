@@ -3,7 +3,7 @@ unique-page-id: 10096523
 description: Het dashboard voor pushmeldingen weergeven - Marketo Docs - Productdocumentatie
 title: Het dashboard voor pushmeldingen weergeven
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -33,14 +33,10 @@ Het is eenvoudig te zien hoe uw pushmeldingen werken.
 
    >[!NOTE]
    >
-   >De **Verzonden** metrische waarde kan meer wijzen verzendt dan het nauwkeurige aantal mensen aan wie het dupbericht werd verzonden. Dat komt omdat het berekend is op basis van het *aantal apparaten* dat in aanmerking komt om uw push te ontvangen. Bijvoorbeeld, als één enkele persoon drie apparaten heeft, het dashboardregister drie verzendt, niet één.
+   >De _Verzonden_ metrische waarde kan meer wijzen verzendt dan het nauwkeurige aantal mensen aan wie het dupbericht werd verzonden. Dat komt omdat het berekend is op basis van het *aantal apparaten* dat in aanmerking komt om uw push te ontvangen. Bijvoorbeeld, als één enkele persoon drie apparaten heeft, het dashboardregister drie verzendt, niet één.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Pushberichten](understanding-push-notifications.md)
-   >    * [Een mobiel pushbericht verzenden](send-a-mobile-push-notification.md)
-
+   >* [Pushberichten](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
+   >* [Een mobiel pushbericht verzenden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
 
