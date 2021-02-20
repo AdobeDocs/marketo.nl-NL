@@ -3,7 +3,7 @@ unique-page-id: 2359516
 description: Een fragment goedkeuren - Marketo Docs - Productdocumentatie
 title: Een fragment goedkeuren ongedaan maken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Een niet-goedgekeurd fragment kan niet worden gebruikt in e-mails of landingspagina&#39;s.
 
-1. Ga naar **Design Studio.**
+1. Ga naar **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
@@ -30,4 +30,3 @@ Een niet-goedgekeurd fragment kan niet worden gebruikt in e-mails of landingspag
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
 Dat is het! Uw fragment bevindt zich nu in de conceptstatus zodat u het kunt wijzigen of verwijderen.
-
