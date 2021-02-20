@@ -3,7 +3,7 @@ unique-page-id: 11384653
 description: Inhoud bewerken - Marketo Docs - Productdocumentatie
 title: Inhoud bewerken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -30,4 +30,3 @@ Je kunt enkele wijzigingen aanbrengen in aanbiedingen op de pagina Alle inhoud.
 1. Schakel het selectievakje **Goedkeuren voor voorspellende inhoud** in om goed te keuren of schakel het selectievakje uit om niet goed te keuren. Klik **Opslaan** wanneer gereed.
 
    ![](assets/edit-content-4.png)
-
