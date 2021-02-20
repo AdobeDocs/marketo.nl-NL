@@ -3,7 +3,7 @@ unique-page-id: 7512457
 description: Een mobiele pushmelding verzenden - Marketo Docs - Productdocumentatie
 title: Een mobiel pushbericht verzenden
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -17,11 +17,8 @@ Stuur een pushmelding naar mensen die uw mobiele app gebruiken.
 
 >[!PREREQUISITES]
 >
->* [Nieuwe slimme campagne maken](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
->* [Een pushmelding maken](create-a-push-notification.md)
-
->
-
+>* [Nieuwe slimme campagne maken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Een pushmelding maken](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
 
 1. Ga naar **Marketing Activities** gebied.
@@ -32,11 +29,11 @@ Stuur een pushmelding naar mensen die uw mobiele app gebruiken.
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
-1. Definieer uw slimme lijst en klik vervolgens op **FLOW.**
+1. Definieer de slimme lijst en klik op **Flow**.
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. Selecteer een pushmelding. Klik **Schema**
+1. Selecteer een pushmelding. Klik **Schema**.
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -44,11 +41,11 @@ Stuur een pushmelding naar mensen die uw mobiele app gebruiken.
    >
    >De pushmelding moet worden goedgekeurd voordat deze op de vervolgkeuzelijst wordt weergegeven.
 
-1. Klik **Eenmaal uitvoeren**
+1. Klik **Eenmaal uitvoeren**.
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. Kies een datum en tijd. Klik **OPSLAAN.**
+1. Kies een datum en tijd. Klik **Opslaan**.
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 
