@@ -3,7 +3,7 @@ unique-page-id: 8783146
 description: Een nieuw testapparaat toevoegen - Marketo Docs - Productdocumentatie
 title: Een nieuw testapparaat toevoegen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -19,7 +19,8 @@ U kunt eenvoudig een nieuw testapparaat toevoegen waarop u pushmeldingen kunt ui
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik **Admin **en dan **Mobiele Apps** verbinding.\
+1. Klik **Admin** en dan de **Mobiele Apps** verbinding.
+
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
 1. Klik op de tab **Testapparaten** en **Nieuw testapparaat**.
@@ -51,4 +52,3 @@ U kunt eenvoudig een nieuw testapparaat toevoegen waarop u pushmeldingen kunt ui
 1. De status wordt bijgewerkt om te tonen dat het apparaat is toegevoegd. Gefeliciteerd!
 
    ![](assets/image2015-7-17-17-3a14-3a32.png)
-
