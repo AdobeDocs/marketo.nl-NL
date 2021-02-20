@@ -3,19 +3,15 @@ unique-page-id: 11385938
 description: Predictieve inhoud voor e-mails bewerken - Marketo Docs - Productdocumentatie
 title: Voorspelende inhoud voor e-mails bewerken
 translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 
 # Voorspelende inhoud voor e-mails bewerken {#edit-predictive-content-for-emails}
-
->[!NOTE]
->
->Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
 Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
 
