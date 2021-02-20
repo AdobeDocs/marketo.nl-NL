@@ -3,9 +3,9 @@ unique-page-id: 11384645
 description: Alle inhoud begrijpen - Marketo Docs - Productdocumentatie
 title: Alle inhoud begrijpen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 # Alle inhoud {#understanding-all-content}
 
->[!NOTE]
->
->Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
+Op de pagina Alle inhoud worden alle inhoud weergegeven die handmatig is ontdekt of toegevoegd.
 
-Op de pagina Alle inhoud worden alle inhoud weergegeven die handmatig is ontdekt of toegevoegd.   ![](assets/image2017-10-3-9-3a4-3a56.png)
+![](assets/image2017-10-3-9-3a4-3a56.png)
 
 De paginavelden bevatten:
 
@@ -52,12 +50,8 @@ Filter de inhoud door een of meer categorieën te selecteren. Stel vervolgens de
 
 >[!MORELIKETHIS]
 >
->* [Nieuwe inhoud toevoegen](add-new-content.md)
->* [Inhoud verwijderen](delete-content.md)
->* [Een titel voor preventieve inhoud goedkeuren](approve-a-title-for-predictive-content.md)
->* [Een titel voor voorspellende inhoud niet goedkeuren](unapprove-a-title-for-predictive-content.md)
-
->
-
-
+>* [Nieuwe inhoud toevoegen](/help/marketo/product-docs/predictive-content/working-with-all-content/add-new-content.md)
+>* [Inhoud verwijderen](/help/marketo/product-docs/predictive-content/working-with-all-content/delete-content.md)
+>* [Een titel voor preventieve inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [Een titel voor voorspellende inhoud niet goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/unapprove-a-title-for-predictive-content.md)
 
