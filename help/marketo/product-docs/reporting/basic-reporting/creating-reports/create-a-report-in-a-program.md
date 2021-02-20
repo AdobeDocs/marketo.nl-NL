@@ -3,9 +3,9 @@ unique-page-id: 2359963
 description: Een rapport maken in een programma - Marketo Docs - Productdocumentatie
 title: Een rapport maken in een programma
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 0%
 Voer een rapport uit om mensen, uw programma&#39;s, bestemmingspagina&#39;s, e-mails en sociale middelen te analyseren.
 
 1. Ga naar **Marketingactiviteiten**.
-1. ![](assets/login-marketing-activities.png)
+
+   ![](assets/login-marketing-activities.png)
 
 1. Selecteer een programma.
 
@@ -26,7 +27,7 @@ Voer een rapport uit om mensen, uw programma&#39;s, bestemmingspagina&#39;s, e-m
    >
    >U kunt ook rapporten maken op het tabblad **Analytics**.
 
-   Klik met de rechtermuisknop op het programma en selecteer Nieuw lokaal element.
+1. Klik met de rechtermuisknop op het programma en selecteer **Nieuw lokaal element**.
 
    ![](assets/programrightclick-asset.png)
 
@@ -40,9 +41,9 @@ Voer een rapport uit om mensen, uw programma&#39;s, bestemmingspagina&#39;s, e-m
 
    >[!TIP]
    >
-   >Zie [`Report Type Overview`](https://docs.marketo.com/display/DOCS/Report+Type+Overview) voor een korte beschrijving van elk.
+   >Zie [Overzicht van het Type van rapport](https://docs.marketo.com/display/DOCS/Report+Type+Overview) voor een korte beschrijving van elk.
 
-   Geef uw rapport een naam.
+1. Geef uw rapport een naam.
 
    ![](assets/namereport.png)
 
@@ -50,7 +51,7 @@ Voer een rapport uit om mensen, uw programma&#39;s, bestemmingspagina&#39;s, e-m
    >
    >Om het navigeren van uw rapporten later veel gemakkelijker te maken, omvat een verwijzing naar het rapporttype in de naam.
 
-   Plaats het tijdkader van uw rapport. Zie [Een frame van de Tijd van het Rapport wijzigen](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) voor meer details.
+1. Plaats het tijdkader van uw rapport. Zie [Een frame van de Tijd van het Rapport wijzigen](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) voor meer details.
 
 1. Klik **Rapport** tabel om uw statistieken te zien.
 
@@ -58,21 +59,12 @@ Voer een rapport uit om mensen, uw programma&#39;s, bestemmingspagina&#39;s, e-m
 
    >[!NOTE]
    >
-   >**Diep duiken**
-   >
-   >
-   >Standaard worden in rapporten alle activiteiten in uw account, voor alle programma&#39;s, beschreven. Om de vele manieren te leren u uw rapport kunt filtreren, zie [Basis het Melden](https://docs.marketo.com/display/docs/basic+reporting) diepe duik.
+   >Standaard worden in rapporten alle activiteiten in uw account, voor alle programma&#39;s, beschreven.
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
-   >Je kunt snel met veel rapporten eindigen. Herinner me aan [schrapping een rapport](../../../../product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) u niet meer nodig hebt.
+   >Je kunt snel met veel rapporten eindigen. Herinner me aan [schrapping een rapport](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) u niet meer nodig hebt.
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >U kunt [een rapporttijdkader veranderen ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [onderteken aan een basisrapport](../../../../product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [voer een rapport naar Excel](../../../../product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filter mensen in een rapport met een slimme lijst](../../../../product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), en [more](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >U kunt [een rapporttijdkader veranderen ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [aan een basisrapport intekenen](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [een rapport uitvoeren naar Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filter mensen in een rapport met een slimme lijst](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), en meer.
