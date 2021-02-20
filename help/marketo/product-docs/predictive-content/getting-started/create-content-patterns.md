@@ -3,9 +3,9 @@ unique-page-id: 11385579
 description: Inhoudspatronen maken - Marketo Docs - Productdocumentatie
 title: Inhoudspatronen maken
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,7 @@ ht-degree: 0%
 
 # Inhoudspatronen maken {#create-content-patterns}
 
->[!NOTE]
->
->Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
-
-Wanneer u inhoudspatronen instelt, wordt de inhoud automatisch gedetecteerd wanneer een webbezoeker op de HTML-webpagina klikt die relevant is voor het inhoudspatroon. Hiermee worden HTML-pagina&#39;s (blogberichten, persberichten, nieuwsartikelen) toegevoegd als inhoudsonderdelen op de pagina Alle inhoud. Wanneer automatisch detecteren is gebaseerd op inhoudspatronen, worden HTML-pagina&#39;s gedetecteerd en bijgehouden die verwant zijn aan het gedefinieerde URL-patroon wanneer een webbezoeker een koppeling naar de pagina weergeeft of klikt. Dit inhoudsonderdeel (de URL, de paginanaam en de metagegevens inclusief de URL en beschrijving van de afbeelding) wordt toegevoegd aan de pagina Alle inhoud om voorspellende inhoud voor te bereiden. Voor automatische detectie van andere inhoud, zoals PDF&#39;s en ingesloten video, moet u [detectie van inhoud inschakelen](enable-content-discovery.md).
+Wanneer u inhoudspatronen instelt, wordt de inhoud automatisch gedetecteerd wanneer een webbezoeker op de HTML-webpagina klikt die relevant is voor het inhoudspatroon. Hiermee worden HTML-pagina&#39;s (blogberichten, persberichten, nieuwsartikelen) toegevoegd als inhoudsonderdelen op de pagina Alle inhoud. Wanneer automatisch detecteren is gebaseerd op inhoudspatronen, worden HTML-pagina&#39;s gedetecteerd en bijgehouden die verwant zijn aan het gedefinieerde URL-patroon wanneer een webbezoeker een koppeling naar de pagina weergeeft of klikt. Dit inhoudsonderdeel (de URL, de paginanaam en de metagegevens inclusief de URL en beschrijving van de afbeelding) wordt toegevoegd aan de pagina Alle inhoud om voorspellende inhoud voor te bereiden. Voor automatische detectie van andere inhoud, zoals PDF&#39;s en ingesloten video, moet u [detectie van inhoud inschakelen](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
 1. Ga naar **Inhoudsinstellingen**.
 
@@ -27,7 +23,7 @@ Wanneer u inhoudspatronen instelt, wordt de inhoud automatisch gedetecteerd wann
 
    ![](assets/click-url-patterns-hand.png)
 
-1. Klik op **+ ** om een rij te openen waarin u uw gegevens kunt invoeren.
+1. Klik **+** om een rij te openen waar u uw informatie kunt ingaan.
 
    ![](assets/content-settings-create-patterns-hand.png)
 
@@ -37,9 +33,9 @@ Wanneer u inhoudspatronen instelt, wordt de inhoud automatisch gedetecteerd wann
 
    >[!NOTE]
    >
-   >De punten in de drop-down lijst op het recht wijzen op de categorieën u opstelling wanneer u [categorieën ](set-up-categories.md) creeerde.
+   >De punten in de drop-down lijst op het recht wijzen op de categorieën u opstelling wanneer u [categorieën ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) creeerde.
 
-1. Klik op **+ ** om een ander pad toe te voegen.
+1. Klik **+** om een ander pad toe te voegen.
 
    ![](assets/url-patterns-add2.png)
 
@@ -49,16 +45,16 @@ Wanneer u inhoudspatronen instelt, wordt de inhoud automatisch gedetecteerd wann
 
 ## Regels voor inhoudspatroon {#content-pattern-rules}
 
-* U kunt een jokerteken overal in een expressie gebruiken (voorbeeld: *domain.com/**, *domain.com/*blog**)
+* U kunt een jokerteken overal in een expressie gebruiken (voorbeeld: _domain.com/*_, _domain.com/*blog*_)
 
-* We raden aan /* aan het einde van een expressie te gebruiken om de detectie van patronen voort te zetten (bijvoorbeeld: *domain.com/blog/** ontdekt alle berichten in de omslag van Blog)
-* Inhoudspatronen zijn niet hoofdlettergevoelig (bijvoorbeeld: *domain.com/Blog/** ontdekt alle HTML-pagina&#39;s op *domain.com/Blog* en *domain.com/blog*)
+* We raden aan /* aan het einde van een expressie te gebruiken om de detectie van patronen voort te zetten (bijvoorbeeld: _domain.com/blog/*_ ontdekt alle berichten in de omslag van Blog)
+* Inhoudspatronen zijn niet hoofdlettergevoelig (bijvoorbeeld: _domain.com/Blog/*_ ontdekt alle HTML-pagina&#39;s op _domain.com/Blog_ en _domain.com/blog_)
 
 * URL-parameters worden niet gedetecteerd (dit voorkomt het detecteren van meerdere items met dezelfde URL voor inhoud, maar met verschillende parameters)
 
 ## Voorbeelden {#examples}
 
-Voor *domain.com*:
+Voor _domain.com_:
 
 <table> 
  <tbody> 
@@ -88,4 +84,3 @@ Voor *domain.com*:
   </tr> 
  </tbody> 
 </table>
-
