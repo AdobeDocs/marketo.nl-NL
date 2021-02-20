@@ -3,9 +3,9 @@ unique-page-id: 14745750
 description: Algorithm Goal Settings - Marketo Docs - Productdocumentatie
 title: Standaardinstellingen algoritme
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,10 @@ De Montages van het Doel van het Algoritme staat u toe om het einddoel van het k
 
    ![](assets/three-new.png)
 
-   | **`Clicks`** | De inhoud weergeven die de persoon die de inhoud bekijkt het meest waarschijnlijk zal maken om erop te klikken |
+   | **Klikken** | De inhoud weergeven die de persoon die de inhoud bekijkt het meest waarschijnlijk zal maken om erop te klikken |
    |---|---|
-   | **`Conversions`** | De inhoud weergeven die de persoon die de inhoud bekijkt het meest waarschijnlijk maakt om een formulier te verzenden |
+   | **Conversies** | De inhoud weergeven die de persoon die de inhoud bekijkt het meest waarschijnlijk maakt om een formulier te verzenden |
 
 1. Klik **Opslaan** wanneer gereed.
 
    ![](assets/four.png)
-
