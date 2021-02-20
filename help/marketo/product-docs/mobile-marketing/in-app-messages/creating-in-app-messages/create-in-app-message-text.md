@@ -3,7 +3,7 @@ unique-page-id: 10100642
 description: Berichttekst in de app maken - Marketo Docs - Productdocumentatie
 title: Berichttekst in de app maken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
    >
    >Als u een te grote tekstgrootte hebt, kan de inhoud langer worden dan de maximaal drie zichtbare tekstregels.
 
-1. Kies een optionele tekststijl voor de accenten: **Vet**, *Cursief* of Onderstrepen.
+1. Kies een optionele tekststijl voor de accenten: **Vet**, _Cursief_ of Onderstrepen.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -77,14 +77,10 @@ Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
 
    Wijzigingen die u aanbrengt in tokens die worden gebruikt in een goedgekeurd berichtprogramma in de app, worden pas van kracht in het bericht in de app nadat het programma is gepauzeerd en vervolgens wordt hervat.
 
-Je bent gouden. Vervolgens moet u [de berichtknop in de app ](set-up-the-in-app-message-button.md) instellen.
+Je bent gouden. Vervolgens moet u [de berichtknop in de app ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md) instellen.
 
 >[!MORELIKETHIS]
 >
->* [In-app berichten begrijpen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Kies een lay-out voor uw bericht in de app](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [In-app berichten begrijpen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Kies een lay-out voor uw bericht in de app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
