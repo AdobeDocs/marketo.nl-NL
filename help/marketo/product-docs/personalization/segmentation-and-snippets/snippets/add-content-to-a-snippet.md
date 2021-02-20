@@ -3,9 +3,9 @@ unique-page-id: 2359496
 description: Inhoud toevoegen aan een fragment - Marketo Docs - Productdocumentatie
 title: Inhoud toevoegen aan een fragment
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Een fragment maken](create-a-snippet.md)
+>[Een fragment maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 U kunt tokens, afbeeldingen, bestanden of tekst met opmaak toevoegen aan een fragment.
 
@@ -23,7 +23,7 @@ U kunt tokens, afbeeldingen, bestanden of tekst met opmaak toevoegen aan een fra
 >
 >U kunt geen [Marketo-e-mailsyntaxis](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in fragmenten insluiten. het zal **niet** in een e-mail werken. Fragmenten moeten alleen body-inhoud zijn (HTML + TEXT).
 
-1. Ga naar **Design Studio.**
+1. Ga naar **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
@@ -51,7 +51,7 @@ U kunt drie typen inhoud aan een fragment toevoegen.
 
    >[!NOTE]
    >
-   >U kunt uw eigen afbeeldingen of bestanden toevoegen aan Marketo. Meer informatie over [afbeeldingen en bestanden](https://docs.marketo.com/display/docs/images+and+files).
+   >U kunt uw eigen afbeeldingen of bestanden toevoegen aan Marketo. Meer informatie over [afbeeldingen en bestanden](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
 1. Selecteer **Afbeelding** die u wilt gebruiken en klik op **Invoegen**.
 
@@ -87,6 +87,6 @@ Koel! Nu kunt u diverse soorten inhoud voor uw fragment maken.
 
 >[!MORELIKETHIS]
 >
->* [Een voorvertoning van een fragment weergeven](preview-a-snippet.md)
->* [Een fragment goedkeuren](approve-a-snippet.md)
+>* [Een voorvertoning van een fragment weergeven](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/preview-a-snippet.md)
+>* [Een fragment goedkeuren](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md)
 
