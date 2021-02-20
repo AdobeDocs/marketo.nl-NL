@@ -3,9 +3,9 @@ unique-page-id: 7512454
 description: Mobiele pushmeldingen configureren - Marketo Docs - Productdocumentatie
 title: Melding van mobiele pushberichten configureren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Mobiele pushmelding configureren {#configure-mobile-push-notification}
 
-1. Ga naar het gebied Marketingactiviteiten.
+1. Ga naar **Marketing Activities** gebied.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -29,11 +29,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a53-3a33.png)
 
-   Als uw pushbericht slechts op één platform van toepassing is (bijvoorbeeld voor iPhones), kunt u het andere platform uitsluiten door de kiezer naar Uitgeschakeld te schuiven.
+1. Als uw pushbericht slechts op één platform van toepassing is (bijvoorbeeld voor iPhones), kunt u het andere platform uitsluiten door de kiezer naar Uitgeschakeld te schuiven.
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-   Klik op Volgende.
+1. Klik **Volgende**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
@@ -47,25 +47,19 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Definitie**
-   >
-   >
-   >Er zijn drie typen** Tikacties:**
-   >
+   >Er zijn drie typen Tap-handelingen:
    >
    >**Start app**  -  **Deze** app opent de startpagina van uw app wanneer op het bericht wordt getikt. **De** klant gebruikt een diepe koppeling om andere delen van uw app of een andere app te openen waarnaar u de koppeling hebt (zie  [Diep koppeling ](#Deeplink) URIsonderaan voor meer informatie).
    >
-   >
    >**Openingspagina**  - hiermee gaat u naar een opgegeven bestemmingspagina van Marketo.
-   >
    >
    >**Externe URL** : hiermee gaat u naar een landingspagina die niet van markeertekens is.
 
-   Als u een diepe koppeling wilt invoegen voor een aangepaste tikactie, klikt u op Aangepast en voert u de [diepe koppeling URI](#Deeplink) in het veld in.
+1. Als u een diepe koppeling wilt invoegen voor een aangepaste tikactie, klikt u op Aangepast en voert u de [diepe koppeling URI](#Deeplink) in het veld in.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
-   Als u tokens wilt invoegen, selecteert u een token, voert u een standaardwaarde in en klikt u op Invoegen.
+1. Als u tokens wilt invoegen, selecteert u een token, voert u een standaardwaarde in en klikt u op Invoegen.
 
    >[!NOTE]
    >
@@ -77,15 +71,15 @@ ht-degree: 0%
    >
    >Berichten en Tap-handelingen zien er op beide platforms hetzelfde uit.
 
-   Alleen voor iOS: schakel het selectievakje in om de app te vertellen dat een geluid moet worden afgespeeld wanneer het bericht arriveert. Android speelt het geluid automatisch af.
+1. Alleen voor iOS: schakel het selectievakje in om de app te vertellen dat een geluid moet worden afgespeeld wanneer het bericht arriveert. Android speelt het geluid automatisch af.
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-   Geef een voorvertoning van het andere platform weer en klik op Voltooien.
+1. Geef een voorvertoning van het andere platform weer en klik op **Voltooien**.
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Klik **GOEDKEUREN EN SLUITEN**.
+1. Klik **Goedkeuren en Sluiten**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -103,9 +97,4 @@ De structuur van de diepe koppeling in uw app kan echter afwijken van het bovens
 
 >[!MORELIKETHIS]
 >
->* [Een mobiel pushbericht verzenden](send-a-mobile-push-notification.md)
-
->
-
-
-
+>[Een mobiel pushbericht verzenden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
