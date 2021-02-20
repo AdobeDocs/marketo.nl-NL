@@ -3,9 +3,9 @@ unique-page-id: 2359500
 description: Prioriteit segmentatievolgorde - Marketo Docs - Productdocumentatie
 title: Prioriteit segmentvolgorde
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,8 @@ Het is belangrijk om te begrijpen hoe **order** de prioriteit voor evaluatie van
 
 >[!PREREQUISITES]
 >
->* [Een segmentatie maken](create-a-segmentation.md)
->* [Segmentregels definiëren](define-segment-rules.md)
-
->
-
-
+>[Een segmentatie maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[Segmentregels definiëren](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 1. Ga naar **Database**.
 
@@ -37,6 +33,7 @@ Het is belangrijk om te begrijpen hoe **order** de prioriteit voor evaluatie van
    >U kunt alleen een concept van uw segmentatie bewerken.
 
    U kunt de volgorde van de segmenten vanuit dit scherm controleren of bewerken.
+
    ![](assets/image2014-9-16-10-3a12-3a3.png)
 
 >[!NOTE]
@@ -45,9 +42,5 @@ Het is belangrijk om te begrijpen hoe **order** de prioriteit voor evaluatie van
 >* Wanneer een persoon voor twee segmenten in aanmerking komt, behoren zij slechts tot eerste in de lijst.
 >* Als een persoon niet voor om het even welk Segment in aanmerking komt, zullen zij een lid van het StandaardSegment worden.
 
->
 
-
-
-Cool, hè? U kunt segmenten gebruiken voor dynamische inhoud, [rapportering](https://docs.marketo.com/display/docs/basic+reporting) en zelfs in [slimme lijsten](https://docs.marketo.com/display/docs/smart+lists+and+static+lists).
-
+Cool, hè? U kunt segmenten gebruiken voor dynamische inhoud, rapportage en zelfs in slimme lijsten.
