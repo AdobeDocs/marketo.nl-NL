@@ -3,7 +3,7 @@ unique-page-id: 10092730
 description: Een voorbeeld van een pushmelding bekijken - Marketo Docs - Productdocumentatie
 title: Een voorbeeld van een pushmelding bekijken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Klik in de navigatiestructuur met de rechtermuisknop op het bestand voor de meld
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Of klik op **Push Notifications Actions** op de pagina Push Notification view en vervolgens **Preview**. Of klik op **Voorvertoning **uiterst rechts.** **
+Of klik op **Push Notifications Actions** op de pagina Push Notification view en vervolgens **Preview**. Of klik op **Voorvertoning** helemaal rechts.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
@@ -67,10 +67,6 @@ Met de voorvertoning van pushberichten weet u dus altijd wat uw klanten gaan zie
 
 >[!MORELIKETHIS]
 >
->* [Een pushmelding maken](create-a-push-notification.md)
->* [Melding van mobiele pushberichten configureren](configure-mobile-push-notification.md)
-
->
-
-
+>* [Een pushmelding maken](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
+>* [Melding van mobiele pushberichten configureren](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 
