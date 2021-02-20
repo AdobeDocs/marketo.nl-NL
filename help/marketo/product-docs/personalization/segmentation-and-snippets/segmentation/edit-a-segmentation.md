@@ -3,9 +3,9 @@ unique-page-id: 2359474
 description: Een segmentatie bewerken - Marketo Docs - Productdocumentatie
 title: Een segmentatie bewerken
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Het is eenvoudig om wijzigingen aan te brengen in uw bestaande segmentaties. Hie
 
    ![](assets/two.png)
 
-1. De **Status **verandert in Goedgekeurd met Ontwerp. Er wordt een map **Draft **gemaakt in de segmentatie.
+1. De **Status** verandert in Goedgekeurd met Ontwerp. Een **Laag** omslag wordt gecreeerd in uw segmentatie.
 
    ![](assets/three.png)
 
@@ -39,7 +39,7 @@ Het is eenvoudig om wijzigingen aan te brengen in uw bestaande segmentaties. Hie
    >
    >U kunt alleen segmenten van een concept bewerken en niet de goedgekeurde segmentatie.
 
-1. **Segment** toevoegen, **Bewerken **bestaande (naam wijzigen of volgorde wijzigen) of **Segmenten verwijderen **Eventuele segmenten.
+1. **Segment** toevoegen, bestaande segmenten  **** bewerken (de volgorde wijzigen of de naam ervan wijzigen) of segmenten  **** verwijderen.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -53,7 +53,7 @@ Het is eenvoudig om wijzigingen aan te brengen in uw bestaande segmentaties. Hie
 
 ## Segmentregels bewerken {#edit-segment-rules}
 
-1. In uw Ontwerp **Segment**, ga naar **Slimme Lijst**. Pas regels toe gelijkend op [Bepalend Regels van het Segment](https://docs.marketo.com/display/public/DOCS/Define+Segment+Rules).
+1. In uw Ontwerp **Segment**, ga naar **Slimme Lijst**. Pas regels toe gelijkend op [Bepalend Regels van het Segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
@@ -63,18 +63,10 @@ Het is eenvoudig om wijzigingen aan te brengen in uw bestaande segmentaties. Hie
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
    >Vergeet niet uw segmentatieconcept goed te keuren.
 
 U kunt experimenteren met segmentaties die niet worden gebruikt in dynamische inhoud.
 
 >[!MORELIKETHIS]
 >
->* [Een segmentatie verwijderen](delete-a-segmentation.md)
-
->
-
-
-
+>[Een segmentatie verwijderen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/delete-a-segmentation.md)
