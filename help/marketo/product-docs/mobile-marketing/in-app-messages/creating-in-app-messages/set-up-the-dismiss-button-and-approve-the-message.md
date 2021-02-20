@@ -3,9 +3,9 @@ unique-page-id: 10912178
 description: De knop Ontwerpen instellen en het bericht - Marketo Docs - Productdocumentatie goedkeuren
 title: De knop Ontwerpen instellen en het bericht goedkeuren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -71,15 +71,10 @@ Alle selecties voor de afbeeldingen, tekst en knoppen zijn automatisch opgeslage
 
 Zoveel keuzes, maar nu heb je een geweldige boodschap in de app, klaar om te gaan!
 
-Nu is het tijd om [uw bericht te verzenden](https://docs.marketo.com/display/docs/send+your+in-app+message).
+Nu is het tijd om [uw bericht te verzenden](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >
->* [In-app berichten begrijpen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Uw bericht in de app verzenden](https://docs.marketo.com/display/docs/send+your+in-app+message)
->* [Kies een lay-out voor uw bericht in de app](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [In-app berichten begrijpen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Kies een lay-out voor uw bericht in de app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
