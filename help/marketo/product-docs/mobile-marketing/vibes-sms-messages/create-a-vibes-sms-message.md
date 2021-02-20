@@ -3,7 +3,7 @@ unique-page-id: 11378869
 description: Maak een SMS-bericht over Vibes - Marketo Docs - Productdocumentatie
 title: Een SMS-bericht voor Vibes maken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hier is hoe u een SMS-bericht van Vibes kunt maken.
 
-1. Ga naar Marketing Activiteiten en klik met de rechtermuisknop op een programma.
+1. Ga naar **Marketingactiviteiten** en klik met de rechtermuisknop op een programma.
 
    ![](assets/mobile-right-click-hand.jpg)
 
