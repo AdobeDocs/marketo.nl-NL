@@ -3,19 +3,15 @@ unique-page-id: 11384663
 description: Een titel voor preventieve inhoud - Marketo Docs - Productdocumentatie niet goedkeuren
 title: Een titel voor voorspellende inhoud niet goedkeuren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 
 # Een titel voor voorspellende inhoud {#unapprove-a-title-for-predictive-content} niet goedkeuren
-
->[!NOTE]
->
->Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
 U kunt elke titel voor voorspellende inhoud op de pagina Alle inhoud of in het pop-upvenster Inhoud bewerken niet goedkeuren.
 
@@ -44,4 +40,3 @@ U kunt een titel verwijderen terwijl u deze bewerkt.
 Ongeacht de methode die u gebruikt, gaat het pictogram Goedkeuren naar de pagina Alle inhoud en verdwijnt de titel van de pagina Voorspelende inhoud.
 
 ![](assets/unapprove-content-no-icon.png)
-
