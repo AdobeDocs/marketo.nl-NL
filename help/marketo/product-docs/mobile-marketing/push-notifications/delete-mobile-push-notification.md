@@ -3,7 +3,7 @@ unique-page-id: 7512463
 description: Mobiele pushmelding verwijderen - Marketo Docs - Productdocumentatie
 title: Melding van mobiel pushbericht verwijderen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Melding van mobiele pushberichten verwijderen {#delete-mobile-push-notification}
 
-1. Ga naar het gebied Marketingactiviteiten.
+1. Ga naar **Marketing Activities** gebied.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -25,11 +25,10 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-   Bevestig door op DELETE te klikken.
+1. Bevestig door te klikken op **Delete**.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 
    >[!NOTE]
    >
    >Als het Mobiele pushbericht door andere middelen wordt gebruikt, kunt u het niet verwijderen. U moet het uit de elementen verwijderen.
-
