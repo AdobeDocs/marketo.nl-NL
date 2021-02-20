@@ -3,19 +3,15 @@ unique-page-id: 11385057
 description: Categorieën instellen - Marketo Docs - Productdocumentatie
 title: Categorieën instellen
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 
 # Categorieën {#set-up-categories} instellen
-
->[!NOTE]
->
->Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
 Maak categorieën in voorspellende inhoud om uw voorspellende resultaten te groeperen op internet of in e-mail. U kunt bijvoorbeeld alleen werken met blogs of met inhoud in een bepaalde taal. U kunt hiermee ook de paginaweergave zoeken en filteren.  Categorieën worden ter referentie weergegeven op de pagina&#39;s Alle inhoud en Voorspelende inhoud.
 
@@ -54,4 +50,3 @@ Hieronder wordt beschreven hoe u categorietags maakt.
    ![](assets/save-new.png)
 
    Heel eenvoudig.
-
