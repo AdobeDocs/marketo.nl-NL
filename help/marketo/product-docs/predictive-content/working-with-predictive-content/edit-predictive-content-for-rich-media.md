@@ -3,19 +3,15 @@ unique-page-id: 11385940
 description: Voorspelende inhoud voor rijke media bewerken - Marketo Docs - Productdocumentatie
 title: Predictieve inhoud voor rijke media bewerken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
 
 # Voorspelende inhoud voor rijke media {#edit-predictive-content-for-rich-media} bewerken
-
->[!NOTE]
->
->Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud<sup>AI</sup> bevatten. Voor gebruikers die gebruikmaken van voorspellende inhoud schakelt Marketo de analysefuncties voor Inhoud<sup>AI</sup> in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content<sup>AI</sup>.
 
 Hier is hoe te opstelling uw vooruitlopende inhoud voor Rijke Media.
 
