@@ -3,9 +3,9 @@ unique-page-id: 4720108
 description: De balk met aanbevelingen voor inhoud - Marketo Docs - Productdocumentatie inschakelen
 title: De balk met aanbevelingen voor inhoud inschakelen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,13 @@ De Content Recommendation Engine maakt gebruik van voorspellende analytische alg
 >
 >Voordat u voorspellende inhoud inschakelt, moet u:
 >
->* [Voorspelende inhoud voorbereiden](https://docs.marketo.com/display/docs/edit+predictive+content)
+>* **Voorspelende inhoud voorbereiden**
+   >
+   >   
+   * [Voorspelende inhoud voor ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) e-mailprogramma bewerken
+   >   * [Predictieve inhoud voor rijke ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) media bewerken
+   >   * [Voorspelende inhoud voor de balk met aanbevelingen bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Een titel voor preventieve inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -45,9 +51,9 @@ De Content Recommendation Engine maakt gebruik van voorspellende analytische alg
    >
    >**Weergave-URL opnemen/uitsluiten**
    >
-   >    * De weergave-URL moet het pad van het domein zijn
-   >    * Geen https:// of https:// opnemen
-   >    * Gebruik * voor jokertekens
+   >* De weergave-URL moet het pad van het domein zijn
+   >* Geen https:// of https:// opnemen
+   >* Gebruik * voor jokertekens
    * Een puntkomma als scheidingsteken gebruiken
    * Voorbeeld: /contact_us*; *action=logout*
    * Dit veld is hoofdlettergevoelig
@@ -61,5 +67,4 @@ De Content Recommendation Engine maakt gebruik van voorspellende analytische alg
 * Het inhoudsstuk u voor aanbeveling toelaat zou de markering van Javascript RTP moeten omvatten. Hierdoor kan de algoritme aanbevolen inhoud bijhouden en optimaliseren.
 
 >[!MORELIKETHIS]
-* [Voorspelende inhoud voor web-rijke media inschakelen](enable-predictive-content-for-web-rich-media.md)
-
+[Voorspelende inhoud voor web-rijke media inschakelen](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
