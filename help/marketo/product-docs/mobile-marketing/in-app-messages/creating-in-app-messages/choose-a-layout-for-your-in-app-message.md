@@ -3,9 +3,9 @@ unique-page-id: 10100434
 description: Kies een lay-out voor uw bericht in de app - Marketo Docs - Productdocumentatie
 title: Kies een lay-out voor uw bericht in de app
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
@@ -58,14 +58,8 @@ De derde lay-out Volledig scherm is gelijk aan de tweede, behalve de tweede. Dit
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Nu u over de malplaatjes weet, het tijd om te kiezen wanneer u [creeer uw in-app berichtbeelden](add-in-app-message-images.md).
+Nu u over de malplaatjes weet, het tijd om te kiezen wanneer u [creeer uw in-app berichtbeelden](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >
->* [Een bericht in de app maken](https://docs.marketo.com/display/docs/create+an+in-app+message)
->* [In-app berichten begrijpen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-
->
-
-
-
+>[In-app berichten begrijpen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
