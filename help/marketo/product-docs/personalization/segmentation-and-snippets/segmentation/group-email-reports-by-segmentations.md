@@ -3,9 +3,9 @@ unique-page-id: 2359488
 description: E-mailrapporten groeperen per segment - Marketo Docs - Productdocumentatie
 title: E-mailrapporten groeperen per segment
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -13,15 +13,11 @@ ht-degree: 0%
 
 # E-mailrapporten groeperen per segment {#group-email-reports-by-segmentations}
 
-Segmentaties gelden niet alleen voor dynamische inhoud. U kunt uw [e-mailprestatierapport](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) ook door [segmentaties](https://docs.marketo.com/display/docs/segmentation+and+snippets) groeperen.
+Segmentaties gelden niet alleen voor dynamische inhoud. U kunt uw e-mailprestatierapport ook groeperen per segment.
 
 >[!PREREQUISITES]
 >
->* [Een segmentatie goedkeuren](approve-a-segmentation.md)
-
->
-
-
+>[Een segmentatie goedkeuren](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
 1. Ga naar het **Marketingactiviteiten** (of **Analytics**) gebied.
 
@@ -35,7 +31,7 @@ Segmentaties gelden niet alleen voor dynamische inhoud. U kunt uw [e-mailprestat
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Kies een of twee segmentaties die u wilt gebruiken voor het groeperen van uw rapport. Klik **APPLY**.
+1. Kies een of twee segmentaties die u wilt gebruiken voor het groeperen van uw rapport. Klik **Toepassen**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
@@ -43,15 +39,10 @@ Segmentaties gelden niet alleen voor dynamische inhoud. U kunt uw [e-mailprestat
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
-1. Als u twee segmentaties gebruikt, toont het één rij voor elke *combinatie* van segmenten.
+1. Als u twee segmentaties gebruikt, toont het één rij voor elke _combinatie_ van segmenten.
 
    ![](assets/image2014-9-16-9-3a17-3a26.png)
 
 >[!MORELIKETHIS]
 >
->* [Middelen in een e-mailrapport filteren](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-
->
-
-
-
+>[Middelen in een e-mailrapport filteren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
