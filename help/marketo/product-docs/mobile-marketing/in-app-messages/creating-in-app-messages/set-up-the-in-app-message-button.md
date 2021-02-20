@@ -3,9 +3,9 @@ unique-page-id: 10100644
 description: De knop Bericht in de app instellen - Marketo Docs - Productdocumentatie
 title: De knop Bericht in de app instellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste k
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. Kies een lettertypestijl voor de nadruk: **Vet**, *Cursief* of Onderstrepen.
+1. Kies een lettertypestijl voor de nadruk: **Vet**, _Cursief_ of Onderstrepen.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -63,27 +63,18 @@ U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste k
 
    ![](assets/image2016-5-6-16-3a47-3a54.png)
 
-   Klik op de vervolgkeuzelijst voor elk platform en selecteer een tikactie.
+1. Klik op de vervolgkeuzelijst voor elk platform en selecteer een tikactie.
 
    ![](assets/image2016-5-6-16-3a49-3a40.png)
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
    >De knop heeft altijd een tikactie, zodat het selectievakje Actie tikken automatisch is ingeschakeld, met het standaardbericht &quot;Bericht negeren&quot;.
 
-   [de achtergrond van uw bericht in de app configureren en de knop Afwijzen](set-up-the-in-app-message-background.md)
-
-Bijna. Je laatste stap is naar .
+Bijna. Uw laatste stap bestaat uit het configureren van [de achtergrond van uw bericht in de app en het negeren van de knop](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
->* [In-app berichten begrijpen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Kies een lay-out voor uw bericht in de app](choose-a-layout-for-your-in-app-message.md)
-
->
-
-
+>* [In-app berichten begrijpen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+>* [Kies een lay-out voor uw bericht in de app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
