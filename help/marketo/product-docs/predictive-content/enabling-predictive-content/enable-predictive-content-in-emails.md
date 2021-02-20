@@ -3,9 +3,9 @@ unique-page-id: 11385020
 description: Predictieve inhoud in e-mails inschakelen - Marketo Docs - Productdocumentatie
 title: Voorspelende inhoud in e-mails inschakelen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,15 @@ Maak een of meer afbeeldingen in uw e-mailvoorspellend, waarbij u de ervaring vo
 
 >[!PREREQUISITES]
 >
->Voordat u voorspellende inhoud inschakelt. u moet:
+>Voordat u voorspellende inhoud inschakelt, moet u:
 >
->* [Voorspelende inhoud voorbereiden](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
+>* **Voorspelende inhoud voorbereiden**
+   >
+   >   
+   * [Voorspelende inhoud voor ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) e-mailprogramma bewerken
+   >   * [Predictieve inhoud voor rijke ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) media bewerken
+   >   * [Voorspelende inhoud voor de balk met aanbevelingen bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+>
 >* [Een titel voor preventieve inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
 
 
@@ -37,7 +43,7 @@ Maak een of meer afbeeldingen in uw e-mailvoorspellend, waarbij u de ervaring vo
 
    ![](assets/two.png)
 
-1. Klik op de afbeelding die u voorspelbaar wilt maken. Wanneer het tandwielpictogram verschijnt, klikt u erop en selecteert u **Inhoud inschakelen`AI`** (Inhoud`AI` is de vroegere naam voor voorspellende inhoud).
+1. Klik op de afbeelding die u voorspelbaar wilt maken. Wanneer het tandwielpictogram verschijnt, klikt u erop en selecteert u **ContentAI** inschakelen (ContentAI is de vroegere naam voor voorspellende inhoud).
 
    ![](assets/three.png)
 
