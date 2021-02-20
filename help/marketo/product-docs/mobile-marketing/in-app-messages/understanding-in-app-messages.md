@@ -3,9 +3,9 @@ unique-page-id: 10100397
 description: Begrijpen in-app berichten - Marketo Docs - Productdocumentatie
 title: In-app berichten begrijpen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Gebruik in-app berichten om rechtstreeks contact op te nemen met uw klanten terw
 
 >[!NOTE]
 >
->Voorbeeld 1: Bij het openen van de app wordt de promotie &#39;Summer Sale&#39; weergegeven.
+>**Voorbeeld 1**: Bij het openen van de app wordt de promotie &#39;Summer Sale&#39; weergegeven.
 >
->Voorbeeld 2: Wanneer u een medische video bekijkt, plant u een bezoek van een arts en activeert u een coupon van 40 dollar.
+>**Voorbeeld 2**: Wanneer u een medische video bekijkt, plant u een bezoek van een arts en activeert u een coupon van 40 dollar.
 
 Voordat u in-app-berichten voor uw mobiele app kunt maken en verzenden, hebt u Marketo Admin en mobile apps-ontwikkelaar nodig om bepaalde instellingen uit te voeren.  Er zijn drie stappen om in-app berichten te produceren:
 
@@ -33,18 +33,10 @@ De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen
 
 ## Stap 2: Een bericht in de app maken {#step-create-an-in-app-message}
 
-U [maakt een bericht in de app](https://docs.marketo.com/display/docs/create+an+in-app+message) met de online-editor.
+U [maakt een bericht in de app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) met de online-editor.
 
 ## Stap 3: Verzenden! {#step-send}
 
-U creeert een programma aan [verzend het bericht](https://docs.marketo.com/display/docs/send+your+in-app+message).
+U creeert een programma aan [verzend het bericht](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 Je bent onderweg.
-
->[!MORELIKETHIS]
->
->* [Een bericht in de app maken](https://docs.marketo.com/display/docs/create+an+in-app+message)
-   >
-   >
-* [Uw bericht in de app verzenden](https://docs.marketo.com/display/docs/send+your+in-app+message)
-
