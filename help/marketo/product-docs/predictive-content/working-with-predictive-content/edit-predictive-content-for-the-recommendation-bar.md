@@ -3,19 +3,15 @@ unique-page-id: 11385942
 description: Voorspelende inhoud voor de adviesbalk bewerken - Marketo Docs - Productdocumentatie
 title: Voorspelende inhoud voor de balk met aanbevelingen bewerken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
 
 # Voorspelende inhoud bewerken voor de adviesbalk {#edit-predictive-content-for-the-recommendation-bar}
-
->[!NOTE]
->
->Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud<sup>AI</sup> bevatten. Voor gebruikers die gebruikmaken van voorspellende inhoud schakelt Marketo de analysefuncties voor Inhoud<sup>AI</sup> in tot 30 april 2018. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content<sup>AI</sup>.
 
 Hier is hoe te opstelling uw vooruitlopende inhoud voor de Bar van de Aanbeveling.
 
