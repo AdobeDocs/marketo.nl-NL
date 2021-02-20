@@ -3,7 +3,7 @@ unique-page-id: 10617440
 description: Uw bericht in de app goedkeuren - Marketo Docs - Productdocumentatie
 title: Uw bericht in de app goedkeuren
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -49,7 +49,7 @@ U moet de verzending goedkeuren voordat het bericht in de app wordt verzonden.
    >
    >De redenen voor het pauzeren zouden enkel kunnen zijn om het een tijdje tegen te houden, of als u het bericht wilt wijzigen of het programma aanpassen. U kunt echter niet naar een ander bericht gaan, alleen het bestaande bericht bewerken.
 
-1. Wanneer u wilt dat het gepauzeerde programma verder wordt uitgevoerd, klikt u op **Hervatten** **Programma**.
+1. Wanneer u het gepauzeerde programma wilt blijven lopend, klik **Programma hervatten**.
 
    ![](assets/image2016-5-24-13-3a26-3a43.png)
 
@@ -59,9 +59,7 @@ U moet de verzending goedkeuren voordat het bericht in de app wordt verzonden.
 
 1. Als u zeker bent u het programma wilt tegenhouden, klik **Stop**.
 
-   ** ![](assets/image2016-5-24-13-3a31-3a22.png)
-
-   **
+   ![](assets/image2016-5-24-13-3a31-3a22.png)
 
    >[!NOTE]
    >
@@ -72,4 +70,3 @@ U moet de verzending goedkeuren voordat het bericht in de app wordt verzonden.
 Nadat het programma is uitgevoerd, kunt u de prestaties controleren met het dashboard in de app. Dit wordt automatisch weergegeven nadat u het programma hebt goedgekeurd. Als u wilt terugkeren naar het programma, klikt u op de koppeling in de rechterbovenhoek en selecteert u **Configuratiescherm**.
 
 Dat is alles, mensen!
-
