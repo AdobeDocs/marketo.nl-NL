@@ -3,9 +3,9 @@ unique-page-id: 10100649
 description: De achtergrond voor berichten in de app instellen - Marketo Docs - Productdocumentatie
 title: De achtergrond voor berichten in de app instellen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -67,16 +67,11 @@ Het selecteren van een berichtachtergrond is een belangrijke stap in het voltooi
    >
    >Voor tikacties voor achtergronden kunt u verschillende acties instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld op verschillende manieren afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, verlaat andere in het gebrek dat plaatst of **niets** selecteert.
 
-   [De knop Afwijzen instellen](set-up-the-dismiss-button-and-approve-the-message.md)
+   Als u de taak wilt voltooien, dient u [de knop Afwijzen in te stellen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [In-app berichten begrijpen](../../../../product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
-   >    * [Een bericht in de app verzenden](https://docs.marketo.com/pages/viewpage.action?pageid=10617378)
-   >    * [Kies een lay-out voor uw bericht in de app](choose-a-layout-for-your-in-app-message.md)
+   >* [In-app berichten begrijpen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
+   >* [Een bericht in de app verzenden](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)
+   >* [Kies een lay-out voor uw bericht in de app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
 
-
-Als u de taak wilt voltooien, moet u de laatste stap uitvoeren.
