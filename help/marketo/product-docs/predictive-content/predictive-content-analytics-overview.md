@@ -3,9 +3,9 @@ unique-page-id: 12981204
 description: Analyse van voorspellende inhoud - Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van voorspellende inhoudanalyse
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Gebruik de inhoudanalyse om meer inzicht te krijgen in uw bestaande inhoud, om t
 
 ## Overzicht {#overview}
 
-Klik op Analytics op de pagina Summary.
+Voor de Summiere pagina, klik **Analytics**.
 
 ![](assets/one.png)
 
@@ -81,8 +81,6 @@ Houd de muisaanwijzer boven een afbeelding in Inhoud met suggesties om de beschi
 
 >[!NOTE]
 >
->**Toelichting**
->
 >Zie je die pictogrammen onderaan? Van links naar rechts zijn ze: Inhoud weergeven, exporteren naar CSV, Inhoud goedkeuren.
 
 ## Inhoud {#content}
@@ -96,4 +94,3 @@ Zoek naar het gewenste inhoudsstuk en klik het om extra details, met inbegrip va
 >[!NOTE]
 >
 >De gelijkaardige inhoud wordt gebaseerd op het geselecteerde inhoudsstuk en door een algoritme van de verenigingsregels berekend. De resultaten vertegenwoordigen inhoudsonderdelen waarop bezoekers waarschijnlijk zullen klikken, afhankelijk van het geselecteerde stuk en het gedrag van de bezoeker. Hierbij wordt geen rekening gehouden met het filter of datumbereik.
-
