@@ -3,19 +3,15 @@ unique-page-id: 11384661
 description: Een titel goedkeuren voor preventieve inhoud - Marketo Docs - Productdocumentatie
 title: Een titel voor preventieve inhoud goedkeuren
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
 
 # Een titel voor voorspellende inhoud goedkeuren {#approve-a-title-for-predictive-content}
-
->[!NOTE]
->
->Afhankelijk van de aankoopdatum kan uw Marketo-abonnement ofwel Voorspelende inhoud markeren of Inhoud`<sup>AI</sup>` bevatten. Voor degenen die Voorspelende Inhoud gebruiken, maakt Marketo tot 30 april 2018 de eigenschappen van de Analyse van de Inhoud`<sup>AI</sup>` toe. Als u deze functies na die datum wilt behouden, neemt u contact op met de manager succes van de klant van Marketo om te upgraden naar Marketo Content`<sup>AI</sup>`.
 
 U kunt elke gewenste titel op de pagina Alle inhoud toevoegen aan voorspellende inhoud door deze goed te keuren op de pagina Alle inhoud of het pop-upmenu Inhoud bewerken.
 
@@ -48,4 +44,3 @@ Welke manier u ook gebruikt, het pictogram Goedkeuren voor voorspellende inhoud 
 En u kunt nu de titel zien die op de Predictive Content pagina wordt getoond.
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)
-
