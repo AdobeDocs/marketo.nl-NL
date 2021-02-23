@@ -3,9 +3,9 @@ unique-page-id: 2360018
 description: Voeg de Kolommen van de Kans aan een Loodrapport toe - Marketo Docs - de Documentatie van het Product
 title: Opportunity-kolommen toevoegen aan een lead-rapport
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Voeg de Kolommen van de Kans aan een Rapport {#add-opportunity-columns-to-a-lead-report} van de Leiding toe
 
-Om de statistieken over kansen in uw [persoonrapporten](https://docs.marketo.com/display/docs/basic+reporting) te zien, kunt u opportuniteitskolommen toevoegen.
+Om de statistieken over kansen in uw persoonrapporten te zien, kunt u opportuniteitskolommen toevoegen.
 
 1. Ga naar **Marketing Activities** gebied.
 
@@ -39,7 +39,7 @@ Om de statistieken over kansen in uw [persoonrapporten](https://docs.marketo.com
    >
    >Schuif naar rechts om meer kolommen weer te geven.
 
-1. Als u [kolommen wilt toevoegen aan of verwijderen uit het rapport](select-report-columns.md), klikt u op een kolomkop en selecteert u **Kolommen**.
+1. Als u [kolommen wilt toevoegen aan of verwijderen uit het rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), klikt u op een kolomkop en selecteert u **Kolommen**.
 
    ![](assets/six.png)
 
@@ -68,14 +68,4 @@ Om de statistieken over kansen in uw [persoonrapporten](https://docs.marketo.com
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >Leer hoe te om [de grootte van uw rapport te beheren](configure-report-size.md).
-
-   >[!NOTE]
-   >
-   >**Diep duiken**
-   >
-   >
-   >Zie wat u anders met rapporten in [Basis het Melden](https://docs.marketo.com/display/docs/basic+reporting) diepe duik kunt doen.
-
+   >Leer hoe te om [de grootte van uw rapport te beheren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
