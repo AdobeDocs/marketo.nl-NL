@@ -3,9 +3,9 @@ unique-page-id: 2360227
 description: Middelen filteren in een campagne-e-mailrapport - Marketo Docs - Productdocumentatie
 title: Middelen in een campagne-e-mailrapporten filteren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Elementen filteren in een campagne-e-mailrapport {#filter-assets-in-a-campaign-email-reports}
 
-Focus uw [Campagne-e-mailprestaties](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)-rapport op specifieke [slimme campagnes](https://docs.marketo.com/display/docs/smart+campaigns) in uw programma&#39;s (&#39;lokale middelen&#39;) of op de gearchiveerde campagnes.
+Focus uw [Campagne-e-mailprestaties](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)-rapport op specifieke [slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) in uw programma&#39;s (&#39;lokale middelen&#39;) of op de gearchiveerde campagnes.
 
-1. Ga naar **Analytics **(of **Marketing Activities**) gebied.
+1. Ga naar het gebied **Analytics** (of **Marketing Activities**).
 
    ![](assets/image2014-9-16-15-3a57-3a27.png)
 
@@ -44,17 +44,5 @@ Focus uw [Campagne-e-mailprestaties](../../../../product-docs/reporting/basic-re
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Rapport over e-mailprestaties voor campagne](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-   >    * [Middelen in een e-mailrapport filteren](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**Diep duiken**
-   >
-   >
-   >Meer informatie over rapporten vindt u in [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Rapport over e-mailprestaties voor campagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[Middelen in een e-mailrapport filteren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
