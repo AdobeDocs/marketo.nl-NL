@@ -3,7 +3,7 @@ unique-page-id: 10093041
 description: Een abonnement voor een slimme lijst bewerken - Marketo Docs - Productdocumentatie
 title: Een abonnement voor een slimme lijst bewerken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
@@ -52,4 +52,3 @@ U kunt deze kolommen rechtstreeks bewerken op het tabblad Abonnementen, dat word
 1. Het laatste stukje van de puzzel is de indeling. Klik op de kolom **Indeling** en selecteer de gewenste kolom. CSV is de standaardwaarde.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)
-
