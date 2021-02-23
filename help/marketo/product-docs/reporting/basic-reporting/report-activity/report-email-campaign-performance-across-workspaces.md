@@ -3,9 +3,9 @@ unique-page-id: 2360055
 description: E-mail rapporteren, campagneresultaten in verschillende werkruimten - Marketo Docs - Productdocumentatie
 title: E-mail rapporteren, campagneprestaties in alle werkruimten
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # E-mail rapporteren, campagneprestaties op werkruimten {#report-email-campaign-performance-across-workspaces}
 
-Schakel Global Reporting in om gegevens van al uw Marketo [werkruimten](../../../../product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) op te nemen in uw [E-mailprestaties](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [E-mailkoppelingprestaties](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) en [Campagne Activity](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)-rapporten.
+Schakel Global Reporting in om gegevens van al uw Marketo [werkruimten](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) op te nemen in uw [E-mailprestaties](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [E-mailkoppelingprestaties](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) en [Campagne Activity](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)-rapporten.
 
 1. Ga naar het gebied **Analytics** (of **Marketing Activities**).
 
@@ -37,16 +37,4 @@ Schakel Global Reporting in om gegevens van al uw Marketo [werkruimten](../../..
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Middelen in een e-mailrapport filteren](filter-assets-in-an-email-report.md)
-
-
-   >[!NOTE]
-   >
-   >**Diep duiken**
-   >
-   >
-   >Meer informatie over rapporten vindt u in [Basic Reporting](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Middelen in een e-mailrapport filteren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
