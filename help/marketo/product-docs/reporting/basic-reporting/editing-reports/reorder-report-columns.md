@@ -3,9 +3,9 @@ unique-page-id: 2359999
 description: Rapportkolommen opnieuw ordenen - Marketo Docs - Productdocumentatie
 title: Rapportkolommen opnieuw ordenen
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -35,16 +35,4 @@ U kunt de volgorde van de kolommen in een rapport wijzigen.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Rapportkolommen selecteren](select-report-columns.md)
-
-
-   >[!NOTE]
-   >
-   >**Diep duiken**
-   >
-   >
-   >Leer alle macht om met rapporten in [Basis Rapportering](https://docs.marketo.com/display/docs/basic+reporting) te werken.
-
+   >[Rapportkolommen selecteren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
