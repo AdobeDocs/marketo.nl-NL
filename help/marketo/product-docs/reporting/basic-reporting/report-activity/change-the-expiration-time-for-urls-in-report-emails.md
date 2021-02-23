@@ -3,9 +3,9 @@ unique-page-id: 2360032
 description: Verander de Vervaltijd voor URL's in de E-mail van het Rapport - Marketo Docs - de Documentatie van het Product
 title: Verander de Vervaltijd voor URLS in de E-mail van het Rapport
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Koppelingen in je e-mailberichten met je abonnement op rapporten verlopen na dri
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Klik op de knop **URL-vervaldatum bewerken **.
+1. Klik op de **URL-vervaldatum bewerken** knop.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
@@ -35,8 +35,4 @@ Koppelingen in je e-mailberichten met je abonnement op rapporten verlopen na dri
 
    >[!NOTE]
    >
-   >**Herinnering**
-   >
-   >
    >Deze zijn alleen van toepassing op koppelingen in rapporten en waarschuwingen, niet op marketingberichten.
-
