@@ -3,7 +3,7 @@ unique-page-id: 2951220
 description: Bouw een Rapport van de Prestaties van Mensen met Mobiele Kolommen van het Platform - Marketo Docs - de Documentatie van het Product
 title: Bouw een Rapport van de Prestaties van Mensen met Mobiele Kolommen van het Platform
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -106,4 +106,3 @@ Ga als volgt te werk om een People Performance Report met kolommen voor mobiele 
    ![](assets/seventeen.png)
 
    Mooi cool, toch? Echt waar!
-
