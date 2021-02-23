@@ -3,9 +3,9 @@ unique-page-id: 2360225
 description: Middelen filteren in een e-mailrapport - Marketo Docs - Productdocumentatie
 title: Middelen in een e-mailrapport filteren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Elementen in een e-mailrapport filteren {#filter-assets-in-an-email-report}
 
-Focus uw [E-mailprestaties](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) of [E-mailkoppelingprestaties](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) op e-mails in uw programma&#39;s (&#39;lokale middelen&#39;), op de e-mailberichten in Design Studio (&#39;globale elementen&#39;) of op de gearchiveerde e-mailberichten.
+Focus uw [E-mailprestaties](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) of [E-mailkoppelingprestaties](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) op e-mails in uw programma&#39;s (&#39;lokale middelen&#39;), op de e-mailberichten in Design Studio (&#39;globale elementen&#39;) of op de gearchiveerde e-mailberichten.
 
 1. Ga naar het gebied **Analytics** (of **Marketing Activities**).
 
@@ -45,15 +45,4 @@ Focus uw [E-mailprestaties](../../../../product-docs/email-marketing/email-progr
 
 >[!MORELIKETHIS]
 >
->* [Middelen in een campagne-e-mailrapporten filteren](filter-assets-in-a-campaign-email-reports.md)
-
->
-
-
-
->[!NOTE]
->
->**Diep duiken**
->
->Meer informatie over rapporten vindt u in [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting).
-
+>[Middelen in een campagne-e-mailrapporten filteren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
