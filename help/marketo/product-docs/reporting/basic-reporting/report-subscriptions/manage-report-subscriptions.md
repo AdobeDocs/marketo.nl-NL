@@ -3,9 +3,9 @@ unique-page-id: 2359991
 description: Rapportabonnementen beheren - Marketo Docs - Productdocumentatie
 title: Rapportabonnementen beheren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Configureer en verwijder rapportabonnementen.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Deze pagina toont de abonnementen op alle rapporten in uw rekening, die door [rapporttype](../../../../product-docs/reporting/basic-reporting/report-types/report-type-overview.md) wordt gegroepeerd. Dit omvat [abonnementen op basisrapporten](subscribe-to-a-basic-report.md) en aan [Rapporten van de Cyclus van de Opbrengst](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
+   Deze pagina toont de abonnementen op alle rapporten in uw rekening, die door [rapporttype](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) wordt gegroepeerd. Dit omvat [abonnementen aan basisrapporten](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) en aan de rapporten van de Ontdekkingsreiziger van de Ontdekkingsreiziger van de Ontvangsten.
 
    >[!TIP]
    >
@@ -39,11 +39,8 @@ Configureer en verwijder rapportabonnementen.
 
    >[!TIP]
    >
-   >
-   >    
-   >    
-   >    * Gebruik komma&#39;s tussen e-mailadressen.
-   >    * Als u uw bewerkingen wilt opslaan, klikt u in een gebied *buiten* in de lijst met abonnementen.
+   >* Gebruik komma&#39;s tussen e-mailadressen.
+   >* Als u uw bewerkingen wilt opslaan, klikt u in een gebied _buiten_ in de lijst met abonnementen.
 
 
    U kunt ook:
@@ -53,8 +50,6 @@ Configureer en verwijder rapportabonnementen.
    * Klik en bewerk het **Summiere** gebied om te veranderen hoeveel voorproefrijen in e-mail verschijnen.
    * Schakel het selectievakje **Excel** uit om rapportsamenvattingen zonder de spreadsheetbijlage te verzenden.
    * Klik **Send** knoop om het rapport e-mail onmiddellijk te verzenden.
-
-
 
 1. Als u een abonnement wilt verwijderen, selecteert u de rij en klikt u op **Abonnement verwijderen**.
 
@@ -66,12 +61,6 @@ Configureer en verwijder rapportabonnementen.
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Abonneren op een basisrapport](subscribe-to-a-basic-report.md)
-   >    * [Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-
-
-   Meer informatie vindt u in de [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting) en [Indelingscyclusverkenner](https://docs.marketo.com/display/docs/revenue+cycle+analytics) diepe duiken.
+   >* [Abonneren op een basisrapport](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
