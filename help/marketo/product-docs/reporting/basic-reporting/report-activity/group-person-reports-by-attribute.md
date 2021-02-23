@@ -3,9 +3,9 @@ unique-page-id: 2360199
 description: Groepeer Persrapporten door Attribuut - Marketo Docs - de Documentatie van het Product
 title: Personen groeperen op basis van kenmerk
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personen groeperen rapporteert op kenmerk {#group-person-reports-by-attribute}
 
-U kunt uw [persoonrapporten](https://docs.marketo.com/display/docs/basic+reporting) door om het even welke persoon of bedrijfattributen groeperen.
+U kunt uw persoonrapporten door om het even welke persoon of bedrijfattributen groeperen.
 
 1. Ga naar het **Marketingactiviteiten** (of **Analytics**) gebied.
 
@@ -29,7 +29,7 @@ U kunt uw [persoonrapporten](https://docs.marketo.com/display/docs/basic+reporti
 
    >[!NOTE]
    >
-   >U kunt uw persoonrapporten ook [groeperen door segment](../../../../product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+   >U kunt uw persoonrapporten ook [groeperen door segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
    Selecteer in het dialoogvenster Personen groeperen op de persoon die of het bedrijfskenmerk dat u wilt gebruiken voor groeperen.
 
@@ -37,24 +37,12 @@ U kunt uw [persoonrapporten](https://docs.marketo.com/display/docs/basic+reporti
 
    >[!TIP]
    >
-   >Als u een attribuut kiest dat een numerieke waarde heeft, zoals *Gemaakt bij* of *Jaaromzet*, selecteer de metriek van **Units** drop-down op het recht.
+   >Als u een attribuut kiest dat een numerieke waarde heeft, zoals _Gemaakt bij_ of _Jaaromzet_, selecteer de metriek van **Units** drop-down op het recht.
 
    Dat is het! Klik op het tabblad Rapport om uw rapport dienovereenkomstig te groeperen.
 
    ![](assets/image2017-3-28-11-3a35-3a0.png)
 
-   >[!NOTE]
-   >
-   >**Diep duiken**
-   >
-   >
-   >Leer meer over persoonrapporten en andere rapporttypes in [Basis het Melden](https://docs.marketo.com/display/docs/basic+reporting)diepe duik.
-
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Aangepaste kolommen toevoegen aan een Persrapport](../../../../product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
-
-
+   >[Aangepaste kolommen toevoegen aan een Persrapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
