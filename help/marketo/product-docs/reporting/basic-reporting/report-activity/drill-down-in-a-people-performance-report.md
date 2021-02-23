@@ -3,7 +3,7 @@ unique-page-id: 2360035
 description: Een onderaan opzoeken in een rapport over de prestaties van mensen - Marketo Docs - Productdocumentatie
 title: Omlaag boven in een rapport over de prestaties van het volk
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Bor neer in een Rapport van de Prestaties van Mensen om extra persooninformatie 
 
    ![](assets/three.png)
 
-1. Selecteer in het pop-upvenster **Boor-omlaag** het kenmerk waarnaar u wilt dieper gaan. Klik vervolgens op** Drill-Down**.
+1. Selecteer in het pop-upvenster **Boor-omlaag** het kenmerk waarnaar u wilt dieper gaan. Klik vervolgens op **Boor-omlaag**.
 
    ![](assets/four.png)
 
@@ -42,4 +42,3 @@ Bor neer in een Rapport van de Prestaties van Mensen om extra persooninformatie 
 1. Als u de resultaten wilt opslaan (optioneel), klikt u op het pictogram **Exporteren** linksonder.
 
    ![](assets/six.png)
-
