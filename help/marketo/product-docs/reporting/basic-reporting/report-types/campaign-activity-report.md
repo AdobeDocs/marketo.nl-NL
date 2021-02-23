@@ -3,9 +3,9 @@ unique-page-id: 2360057
 description: Rapport Campagneactiviteiten - Marketo Docs - Productdocumentatie
 title: Rapport Campagneactiviteiten
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Rapport voor campagneactiviteit {#campaign-activity-report}
 
-Zie hoe uw [slimme campagnes](https://docs.marketo.com/display/docs/smart+campaigns) presteren.
+Zie hoe uw [slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) presteren.
 
-1. [Maak een ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport en selecteer het rapporttype **** [Campagne ](report-type-overview.md)Activity.
-1. [Stel het tijdkader van uw rapport in ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op het tabblad  **** Rapporten.
+1. [Maak een ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport en selecteer het rapporttype **** [Campagne ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)Activity.
+
+1. [Stel het tijdkader van uw rapport in ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op het tabblad  **** Rapporten.
+
 1. Geweldig! Verken uw rapport om uw meest efficiënte campagnes te identificeren, gegroepeerd op type campagne.
 
-   ` ![](assets/image2014-9-16-16-3a8-3a45.png)
-
-   `
+   ![](assets/image2014-9-16-16-3a8-3a45.png)
 
    >[!TIP]
    >
-   >Om de campagnes te vinden die de meeste mensen verwerkte, bijvoorbeeld, [sorteer uw rapport](../../../../product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)op *Totale Bewerkte Mensen* en kies **Aflopend sorteren**.
+   >Om de campagnes te vinden die de meeste mensen verwerkte, bijvoorbeeld, [sorteer uw rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) op _Totale Bewerkte Mensen_ en kies **Aflopend sorteren**.
 
-   Klik op de naam van een slimme campagne om deze te openen.  [De kolommen die u voor een rapport van de Activiteit van de Campagne kunt ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) selecteren omvatten:
+   Klik op de naam van een slimme campagne om deze te openen.  [De kolommen die u voor een rapport van de Activiteit van de Campagne kunt ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) selecteren omvatten:
 
    | Kolom | Beschrijving |
    |---|---|
@@ -48,11 +48,4 @@ Zie hoe uw [slimme campagnes](https://docs.marketo.com/display/docs/smart+campai
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Een campagneactiviteitenrapport filteren](../../../../product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
-
-
-   Zie meer rapporten in [Basis Rapportering](https://docs.marketo.com/display/docs/basic+reporting).
-
+   >[Een campagneactiviteitenrapport filteren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
