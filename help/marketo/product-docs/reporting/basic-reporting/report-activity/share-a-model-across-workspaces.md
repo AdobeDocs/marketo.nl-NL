@@ -3,9 +3,9 @@ unique-page-id: 2360205
 description: Een model delen over werkruimten - Marketo Docs - Productdocumentatie
 title: Een model delen over werkruimten
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,10 @@ Marketo biedt u de mogelijkheid om een model of modellen te delen met verschille
 
    >[!NOTE]
    >
-   >
    >Als u een model deelt met een andere werkruimte, kunnen die gebruikers rapporten uitvoeren op basis van het model.
 
 1. Selecteer de werkruimten waarmee u de map wilt delen en klik op **Opslaan**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-Zo eenvoudig is het! Mensen uit andere werkruimten kunnen nu door het gedeelde model navigeren. U kunt persoonstaak in die werkruimte willen in werking stellen, zie [Uw Model van de Cyclus van de Opbrengst lanceren](https://community.marketo.com/MarketoArticle?id=kA050000000KyvQCAS) voor details.
+Zo eenvoudig is het! Mensen uit andere werkruimten kunnen nu door het gedeelde model navigeren.
