@@ -3,9 +3,9 @@ unique-page-id: 2360016
 description: Filter Mensen in een Rapport met een Slimme Lijst - Marketo Docs - de Documentatie van het Product
 title: Personen in een rapport filteren met een slimme lijst
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -17,16 +17,16 @@ Gebruik slimme lijsten om uw rapporten te filteren op specifieke persoonattribut
 
 U kunt slimme lijsten met deze rapporttypes gebruiken:
 
-* [Prestaties van mensen](../../../../product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-* [Personen op status](../../../../product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Personen op basis van omzet](https://docs.marketo.com/display/DOCS/People+by+Revenue+Stage+Report)
-* [E-mailprestaties](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-* [Prestaties van e-mailkoppelingen](../../../../product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-* [Betrokkenheidsstreamprestaties](../../../../product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [Campagne](../../../../product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-* [Campagne-e-mailprestaties](../../../../product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-* [Webactiviteit bedrijf](../../../../product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
-* [Activiteit webpagina](../../../../product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+* [Prestaties van mensen](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+* [Personen op status](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
+* [Personen op basis van omzet](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
+* [E-mailprestaties](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+* [Prestaties van e-mailkoppelingen](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+* [Betrokkenheidsstreamprestaties](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
+* [Campagne](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+* [Campagne-e-mailprestaties](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+* [Webactiviteit bedrijf](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+* [Activiteit webpagina](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
 1. Ga naar **Marketing Activities** gebied.
 
@@ -49,11 +49,3 @@ U kunt slimme lijsten met deze rapporttypes gebruiken:
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
    Geweldig! Nu toont uw rapport u gegevens voor enkel de mensen die de slimme lijst aanpassen.
-
-   >[!NOTE]
-   >
-   >**Diep duiken**
-   >
-   >
-   >Voor meer manieren om rapporten te gebruiken, zie [Basis Rapportering](https://docs.marketo.com/display/docs/basic+reporting) diep duik.
-
