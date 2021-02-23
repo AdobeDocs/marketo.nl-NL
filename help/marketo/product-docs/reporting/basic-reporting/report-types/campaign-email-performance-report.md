@@ -3,9 +3,9 @@ unique-page-id: 2360188
 description: Campagne-e-mailprestatierapport - Marketo Docs - Productdocumentatie
 title: Rapport over e-mailprestaties voor campagne
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,12 @@ ht-degree: 0%
 
 # Rapport over e-mailprestaties campagne {#campaign-email-performance-report}
 
-Voer een rapport over de prestaties van een campagne-e-mail uit om uw e-mailprestatiestatistieken te bekijken die zijn gegroepeerd op [slimme campagne](https://docs.marketo.com/display/docs/smart+campaigns).
+Voer een rapport over de prestaties van een campagne-e-mail uit om uw e-mailprestatiestatistieken te bekijken die zijn gegroepeerd op [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
 
-1. [Maak een ](../../../../product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport en selecteer het  **type** [ Campagne-e-](report-type-overview.md)mailprestatierapport.
-1. [Stel het tijdkader van uw rapport in ](../../../../product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op het tabblad  **** Rapporten.
+1. [Maak een ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport en selecteer het  **type** [ Campagne-e-](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)mailprestatierapport.
+
+1. [Stel het tijdkader van uw rapport in ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op het tabblad  **** Rapporten.
+
 1. Bekijk nu het rapport om te zien hoe elke e-mail in uw campagnes is uitgevoerd.
 
    ![](assets/image2014-9-16-16-3a19-3a59.png)
@@ -25,7 +27,7 @@ Voer een rapport over de prestaties van een campagne-e-mail uit om uw e-mailpres
    >
    >Klik op de naam van een e-mailbericht om het te openen in de e-mailvoorvertoning.
 
-   [De kolommen die u voor een Rapport van de Prestaties van e-mail van de Campagne kunt ](../../../../product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)selecteren omvatten:
+   [De kolommen die u voor een Rapport van de Prestaties van e-mail van de Campagne kunt ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)selecteren omvatten:
 
    | Kolom | Beschrijving |
    |---|---|
@@ -37,21 +39,10 @@ Voer een rapport over de prestaties van een campagne-e-mail uit om uw e-mailpres
 
    >[!NOTE]
    >
-   >Over het algemeen proberen we het gezond verstand te gebruiken om deze statistieken op te nemen. Als iemand bijvoorbeeld op een koppeling in een e-mail heeft geklikt, heeft hij deze koppeling eerst geopend. Voor de specifieke regels die wij volgen, zie [E-mailprestatiesrapport](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+   >Over het algemeen proberen we het gezond verstand te gebruiken om deze statistieken op te nemen. Als iemand bijvoorbeeld op een koppeling in een e-mail heeft geklikt, heeft hij deze koppeling eerst geopend. Voor de specifieke regels die wij volgen, zie [E-mailprestatiesrapport](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Middelen in een campagne-e-mailrapport filteren](../../../../product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-   >    * [E-mailprestatierapport](../../../../product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
-
-
-   >[!NOTE]
-   >
-   >**Diep duiken**
-   >
-   >
-   >Meer informatie vindt u in [Basisrapportage.](https://docs.marketo.com/display/docs/basic+reporting)
+   >* [Middelen in een campagne-e-mailrapport filteren](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+   >* [E-mailprestatierapport](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 
