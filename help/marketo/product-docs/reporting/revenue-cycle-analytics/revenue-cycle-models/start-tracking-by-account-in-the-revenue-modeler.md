@@ -3,7 +3,7 @@ unique-page-id: 4718681
 description: Beginnen met bijhouden op rekening in de Revenue Modeler - Marketo Docs - Productdocumentatie
 title: Beginnen met bijhouden via rekening in de inkomstenmodellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Met de Modelleur en de Ontdekkingsreiziger van de Opbrengst van het Stadium, kri
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. Als u een nieuw rapport wilt maken, klikt u op **File** en selecteert u **New** then **Report**.
+1. Als u een nieuw rapport wilt maken, klikt u op **Bestand** en selecteert u **Nieuw** dan **Rapport**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
@@ -44,4 +44,3 @@ Met de Modelleur en de Ontdekkingsreiziger van de Opbrengst van het Stadium, kri
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
 1. In uw rapport worden nu alleen de stappen weergegeven die u via account wilt bijhouden. Sla uw rapport op zodat u het in de toekomst kunt gebruiken. Nu kunt u dit als een andere maatstaf voor het succes van uw marketinginspanningen gebruiken.
-
