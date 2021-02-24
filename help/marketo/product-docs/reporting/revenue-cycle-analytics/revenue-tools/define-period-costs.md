@@ -3,7 +3,7 @@ unique-page-id: 2953444
 description: Periode bepalen kosten - Marketo Docs - de Documentatie van het Product
 title: Kosten voor een bepaalde periode
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
@@ -53,7 +53,7 @@ De kosten voor het bijhouden en koppelen van de zorg voor leads en de aanschaf v
 
 ## Periode-kosten {#edit-a-period-cost} bewerken
 
-1. Klik met de rechtermuisknop op de kosten voor de periode en selecteer **Bewerken **in het pop-upmenu om het dialoogvenster **Kosten bewerken** te openen.
+1. Klik met de rechtermuisknop op Kosten periode en selecteer **Bewerken** in het pop-upmenu om het dialoogvenster **Kosten bewerken** te openen.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -63,11 +63,10 @@ De kosten voor het bijhouden en koppelen van de zorg voor leads en de aanschaf v
 
 ## Periode-kosten {#delete-a-period-cost} verwijderen
 
-1. Klik met de rechtermuisknop op de kosten voor de periode die u wilt verwijderen en selecteer **Verwijderen **Verwijderen in het pop-upmenu om de vraag **Kostprijs verwijderen **verwijderen weer te geven.
+1. Klik met de rechtermuisknop op de kosten voor de periode die u wilt verwijderen en selecteer **Delete** in het pop-upmenu om de vraag **Kosten verwijderen** weer te geven.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
 1. Klik **Delete** om de Kosten van de Periode permanent te schrappen, of **Cancel** om terug te gaan.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)
-
