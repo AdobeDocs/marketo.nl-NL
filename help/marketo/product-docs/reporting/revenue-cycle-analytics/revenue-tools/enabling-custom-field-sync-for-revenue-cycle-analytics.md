@@ -3,7 +3,7 @@ unique-page-id: 3571888
 description: Aangepaste veldsynchronisatie inschakelen voor conjunctuuranalyse - Marketo Docs - Productdocumentatie
 title: Aangepaste veldsynchronisatie inschakelen voor inkomstencyclusanalyse
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -40,4 +40,3 @@ De volgende stappen zullen u toestaan om douanevelden in RCA- rapporten te gebru
    >[!NOTE]
    >
    >Nadat het veld is ingeschakeld, zijn de gegevens de volgende dag beschikbaar in de Analyse van de inkomstencyclus.
-
