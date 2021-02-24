@@ -3,7 +3,7 @@ unique-page-id: 2953136
 description: Kenmerk - Marketo Docs - Productdocumentatie
 title: Kenmerken
 translation-type: tm+mt
-source-git-commit: c8a77dc84c023e05fbb442f575269aac108ffb29
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -41,10 +41,10 @@ In de volgende voorbeelden kunt u deze regels toepassen en alles begrijpen wat u
 
 >[!MORELIKETHIS]
 >
->1. [Attributievoorbeeld 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
->1. [Attributievoorbeeld 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
->1. [Attributievoorbeeld 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
->1. [Attributievoorbeeld 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
+>* [Attributievoorbeeld 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+>* [Attributievoorbeeld 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [Attributievoorbeeld 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [Attributievoorbeeld 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
 
 Als u deze functie gebruikt, haalt u zeker het meeste uit uw investering in Marketo.
