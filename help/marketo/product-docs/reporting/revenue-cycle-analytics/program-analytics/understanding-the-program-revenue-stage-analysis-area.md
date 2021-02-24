@@ -3,7 +3,7 @@ unique-page-id: 7514009
 description: Begrijpen van het gebied van de Analyse van het Stadium van de Opbrengst van het Programma - Marketo Docs - de Documentatie van het Product
 title: Werken met het analysegebied van de programmainkomstenfase
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Het onderzoeksgebied {#understanding-the-program-revenue-stage-analysis-area} van het Stadium van de Opbrengst van het Programma begrijpen
 
-Op dit analysegebied kunt u de doeltreffendheid van afzonderlijke programma&#39;s analyseren of de resultaten per kanaal samengevat bekijken. Het verstrekt inzicht in hoeveel van de nieuwe geproduceerde namen bijzondere succeswegstadia binnen uw model van de opbrengstcyclus hebben bereikt.
+Op dit analysegebied kunt u de doeltreffendheid van afzonderlijke programma&#39;s analyseren of de samengevatte resultaten per kanaal bekijken. Het verstrekt inzicht in hoeveel van de nieuwe geproduceerde namen bijzondere succeswegstadia binnen uw model van de opbrengstcyclus hebben bereikt.
 
-**Voorbeelden van zakelijke vragen die u kunt beantwoorden met behulp van dit analysegebied zijn:**
+**Voorbeeld van zakelijke vragen die u kunt beantwoorden met behulp van dit analysegebied zijn**:
 
 Hoeveel nieuwe namen van een bepaald programma hebben ooit een specifieke fase in mijn model bereikt?
 
@@ -153,4 +153,4 @@ Als u de beschikbare afmetingen of maateenheden in een categorie wilt weergeven,
 
 >[!MORELIKETHIS]
 >
->[Een rapport van de inkomstenverkenner maken](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Een rapport van de inkomstenverkenner maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
