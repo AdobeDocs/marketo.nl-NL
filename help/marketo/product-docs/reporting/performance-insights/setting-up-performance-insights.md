@@ -3,7 +3,7 @@ unique-page-id: 12981145
 description: Prestatieinzichten instellen - Marketo Docs - Productdocumentatie
 title: Prestatie-inzichten instellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -45,14 +45,12 @@ Voer de onderstaande stappen uit om MPI in te stellen.
    >
    >Zorg ervoor dat alle mogelijkheden de juiste velden hebben:
    >
-   >    
-   >    
-   >    * Aantal kansen
-   >    * Is gesloten
-   >    * Is Won
-   >    * Aanmaakdatum (deze wordt mogelijk niet ingesteld in uw geval)
-   >    * Gesloten datum (dit wordt mogelijk niet ingesteld in je geval)
-   >    * Type opportunity
+   >* Aantal kansen
+   >* Is gesloten
+   >* Is Won
+   >* Aanmaakdatum (deze wordt mogelijk niet ingesteld in uw geval)
+   >* Gesloten datum (dit wordt mogelijk niet ingesteld in je geval)
+   >* Type opportunity
 
 
 ## Programma-instelling {#program-setup}
@@ -121,4 +119,3 @@ Controleer vervolgens het analysegedrag om aan te geven of een bepaald kanaal mo
 >[!NOTE]
 >
 >Wijzigingen worden niet onmiddellijk doorgevoerd. Een overnight-periode is vereist voordat wijzigingen van kracht worden.
-
