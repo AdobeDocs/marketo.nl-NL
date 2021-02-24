@@ -3,7 +3,7 @@ unique-page-id: 10099798
 description: Filteren in e-mailinzichten - Marketo Docs - Productdocumentatie
 title: Filteren in e-mailinzichten
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -63,7 +63,6 @@ Kies uit gangbare, vooraf ingestelde datumbereiken, selecteer specifieke datums 
 
 ## Op account gebaseerde marketing {#account-based-marketing}
 
-Als u [Account Based Marketing](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) gebruikt, zijn er filters specifiek voor u.
+Als u [Het Beheer van de Rekening van het Doel ](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) gebruikt, zijn er filters specifiek voor u.
 
 ![](assets/abm.png)
-
