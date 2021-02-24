@@ -3,9 +3,9 @@ unique-page-id: 12979012
 description: Filteren in prestatiegegevens - Marketo Docs - Productdocumentatie
 title: Filteren in prestatie-inzichten
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Klik op + om filters toe te voegen.
 
 >[!NOTE]
 >
->Op dit moment zijn Aangepaste kenmerken alleen beschikbaar in filters voor klanten die [RCA](https://docs.marketo.com/x/lwIk) hebben ingeschakeld.
+>Op dit moment zijn Aangepaste kenmerken alleen beschikbaar in filters voor klanten die de functie Analyse van de inkomstencyclus hebben ingeschakeld.
 
 Als u op een categorie klikt, worden meerdere subcategorieën weergegeven.
 
@@ -57,7 +57,7 @@ U kunt een filter op elk gewenst moment verwijderen door op de X naast het filte
   </tr> 
   <tr> 
    <td colspan="1"><strong>Aangepaste kenmerken</strong></td> 
-   <td colspan="1"><p>Deze worden door jou bepaald. Alle gebieden <a href="https://docs.marketo.com/display/public/DOCS/Enabling+Custom+Field+Sync+for+Revenue+Cycle+Analytics" rel="nofollow">u laat </a> voor de opportuniteitsanalyse toe kan in de Inzichten van Prestaties worden gefiltreerd.</p></td> 
+   <td colspan="1"><p>Deze worden door jou bepaald. Alle gebieden <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">u laat </a> voor de opportuniteitsanalyse toe kan in de Inzichten van Prestaties worden gefiltreerd.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Beleggingsperiode</strong></p></td> 
@@ -69,11 +69,11 @@ U kunt een filter op elk gewenst moment verwijderen door op de X naast het filte
   </tr> 
   <tr> 
    <td><p><strong>Programmatag</strong></p></td> 
-   <td><p>Tags worden gebruikt om programma's te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. <a href="https://docs.marketo.com/display/public/DOCS/Tags" rel="nofollow">Leer hier hoe u met programmatags kunt werken.</a></p></td> 
+   <td><p>Tags worden gebruikt om programma's te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. <a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">Leer hier hoe u met programmatags kunt werken.</a></p></td> 
   </tr> 
   <tr> 
    <td><strong>Werkruimte</strong></td> 
-   <td><p>De werkruimten zijn afzonderlijke gebieden in Marketo die marketing activa houden, zoals: programma's, landingspagina's, e-mails en nog veel meer. <a href="https://docs.marketo.com/display/public/DOCS/Understanding+Workspaces+and+Person+Partitions" rel="nofollow">Meer informatie over werkruimten vindt u hier.</a></p></td> 
+   <td><p>De werkruimten zijn afzonderlijke gebieden in Marketo die marketing activa houden, zoals: programma's, landingspagina's, e-mails en nog veel meer. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Meer informatie over werkruimten vindt u hier.</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -81,4 +81,3 @@ U kunt een filter op elk gewenst moment verwijderen door op de X naast het filte
 >[!NOTE]
 >
 >In het dashboard Betrokkenheid zijn alleen programmatags en werkruimtefilters beschikbaar.
-
