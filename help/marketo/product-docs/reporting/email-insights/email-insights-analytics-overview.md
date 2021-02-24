@@ -3,9 +3,9 @@ unique-page-id: 10099411
 description: Overzicht van e-mailinzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van e-mailinzichten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Verken in Analytics geaggregeerde gegevens voor e-maillevering en betrokkenheid.
 
 ![](assets/emailanalytics-1.jpg)
 
-[U kunt ](filtering-in-email-insights.md) filteren om bepaalde metrieke gegevens bij u op te zoeken.
+[U kunt ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) filteren om bepaalde metrieke gegevens bij u op te zoeken.
 
 ![](assets/filter-field.png)
 
@@ -27,14 +27,11 @@ De belangrijkste punten van Interesse (KPI) tegels geven u een snel overzicht va
 
 Houd de KPI-tegels boven voor meer informatie...
 
-` ![](assets/kpi-hover.png)  
-`
+![](assets/kpi-hover.png)
 
 ...of zie details zonder het moeten bewegen door uw browser venster (op grotere schermen) uit te breiden.
 
-` ![](assets/kpi-wide.png)
-
-`
+![](assets/kpi-wide.png)
 
 >[!TIP]
 >
@@ -42,18 +39,15 @@ Houd de KPI-tegels boven voor meer informatie...
 
 De grafiek toont uw gefilterde criteria. Als u een van uw filters wilt verbergen, klikt u gewoon op de kleurenbalk...
 
-` ![](assets/chart1.png)  
-`
+![](assets/chart1.png)
 
 ...en de metrische waarde verdwijnt uit het diagram. Klik nogmaals op de kleurenbalk om deze opnieuw weer te geven.
 
-` ![](assets/chart2.png)  
-`
+![](assets/chart2.png)
 
-Als u een grafiek creeert u zou willen opnieuw gebruiken, maak het een [snelle grafiek](email-insights-quick-charts.md).
+Als u een grafiek creeert u zou willen opnieuw gebruiken, maak het een [snelle grafiek](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
-` ![](assets/quick-chart.png)  
-`
+![](assets/quick-chart.png)
 
 Aan de rechterkant van de pagina helpen geleide meetgegevens u relevante stuurprogramma&#39;s te detecteren. Klik om het even welke metrisch om het in de grafiek op de linkerkant van de pagina te zien.
 
@@ -63,12 +57,10 @@ Aan de rechterkant van de pagina helpen geleide meetgegevens u relevante stuurpr
 >
 >Zie je dat Vernieuwen in de rechterbovenhoek? Wanneer u het ziet, zult u het moeten manueel klikken om de module van Inzichten te verfrissen. Dit wordt alleen weergegeven wanneer u een wijziging in filters hebt aangebracht waardoor de huidige waarden ongeldig worden.
 
-`  
-You can also specify what you see (left to right): All, Audience, Content, and Platform.  
-`  ` ![](assets/guided-bar.png)  
-`
+U kunt ook opgeven wat u ziet (van links naar rechts): Alles, Publiek, Inhoud en Platform.
+
+![](assets/guided-bar.png)
 
 >[!MORELIKETHIS]
 >
->[E-mailinzichten verzenden overzicht](email-insights-sends-overview.md)
-
+>[E-mailinzichten verzenden overzicht](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
