@@ -3,9 +3,9 @@ unique-page-id: 2360437
 description: Programma- en kanaalgegevens verkennen met Program Analyzer - Marketo Docs - Productdocumentatie
 title: Programma- en kanaalgegevens verkennen met de Program Analyzer
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,13 @@ U kunt gedetailleerde programma en kanaalstatistieken in de Analysator van het P
 
 >[!PREREQUISITES]
 >
->* [Een programmaanalyse maken](create-a-program-analyzer.md)
-
+>[Een programmaanalyse maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
->
 >Deze functie is niet in alle Marketo-edities opgenomen. Neem contact op met uw accountmanager voor meer informatie.
 
-1. Klik op **Analytics**.
+1. Klik **Analytics**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -56,7 +54,3 @@ U kunt gedetailleerde programma en kanaalstatistieken in de Analysator van het P
 1. Om de Ontdekkingsreiziger van de Cyclus van Ontvangsten te openen om nog dieper in een statistiek te graven, klik dat aantal in de pop-up dialoog.
 
    ![](assets/image2015-4-28-13-3a1-3a35.png)
-
-   >[!NOTE]
-   >
-   >Meer informatie over geavanceerde analyses vindt u in [Ontdekkingsreiziger voor inkomsten](https://docs.marketo.com/display/docs/revenue+explorer).
