@@ -3,9 +3,9 @@ unique-page-id: 4718654
 description: Inzicht in inkomstenmodellen - Marketo-documenten - productdocumentatie
 title: Inkoopmodellen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ Door gebrek, begint een nieuw model u met zes opbrengststadia. Dit model is op z
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Merk op dat ze allemaal op een groene achtergrond staan. Dit wordt genoemd **Succesweg**. Meer informatie over het succespad [hier](understanding-revenue-model-success-path.md).
+Merk op dat ze allemaal op een groene achtergrond staan. Dit wordt genoemd **Succesweg**. Meer informatie over het succespad [hier](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
 **** Stages zijn de mijlpalen op weg naar de verwezenlijking van hun doelstellingen.
 
-**Overgangen **worden getoond als pijlen en zij controleren hoe de wegen zich tussen stadia bewegen.
+**Overgangen** worden als pijlen weergegeven en bepalen hoe de leads tussen de verschillende stadia bewegen.
 
 >[!NOTE]
 >
@@ -85,27 +85,30 @@ Geef aan hoe een lead precies van het ene stadium naar het andere gaat met behul
 >
 >**Voorbeeld**
 >
->Een overgang kan worden gedefinieerd door een lead **die een formulier invult. **
+>Een overgang kan worden gedefinieerd door een lead die een formulier invult.
 
-Hier zijn een paar verbindingen die nuttig kunnen zijn hoopvol. (of hopelijk nuttig - neem uw keuze!)
+Een werkgebied toevoegen van het pad voor blijvend succes
 
->[!MORELIKETHIS]
->
->[Een nieuw inkomstenmodel maken](create-a-new-revenue-model.md)
->
->[Opbrengstmodelinventarisatiestadia gebruiken](using-revenue-model-inventory-stages.md)
->
->[Opbrengstmodelstatussen gebruiken](using-revenue-model-gate-stages.md)
->
->[SLA-fasen van inkomstenmodel gebruiken](using-revenue-model-sla-stages.md)
-
-Een werkgebied toevoegen van het pad voor blijvend succes   ![](assets/image2015-6-12-10-3a10-3a26.png)
+![](assets/image2015-6-12-10-3a10-3a26.png)
 
 Verloren is een goede om toe te voegen, maar u ziet dat het niet op het groene pad staat. Dat komt omdat het geen &quot;succes&quot; is.
 
 >[!MORELIKETHIS]
 >
->[Rapport over uw inkomstenmodel](report-on-your-revenue-model.md)
->
->[Een inkomstenmodel goedkeuren/goedkeuren](approve-unapprove-a-revenue-model.md)
+>* [Een nieuw inkomstenmodel maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+   >
+   >
+* [Opbrengstmodelinventarisatiestadia gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+   >
+   >
+* [Opbrengstmodelstatussen gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+   >
+   >
+* [SLA-fasen van inkomstenmodel gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+   >
+   >
+* [Rapport over uw inkomstenmodel](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+   >
+   >
+* [Een inkomstenmodel goedkeuren/goedkeuren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
 
