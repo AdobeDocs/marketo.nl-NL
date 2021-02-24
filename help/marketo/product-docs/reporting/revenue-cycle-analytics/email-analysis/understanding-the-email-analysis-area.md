@@ -3,7 +3,7 @@ unique-page-id: 4718651
 description: Inzicht in het gebied voor e-mailanalyse - Marketo Docs - Productdocumentatie
 title: Het e-mailanalysegebied
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -16,7 +16,6 @@ ht-degree: 0%
 Het gebied van de Analyse E-mail concentreert zich op e-mailmetriek. In dit artikel worden alle rapporten geïntroduceerd die in het artikel beschikbaar zijn.
 
 >[!AVAILABILITY]
->
 >
 >Dit is beschikbaar voor gebruikers met de Select Edition- of [Inkoopcyclusanalyse](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)-invoegtoepassing. Neem contact op met je verkoper voor meer informatie.
 
@@ -61,4 +60,3 @@ Dit rapport toont u het percentage van totale e-mail opent voor elke tijd van de
 In dit rapport ziet u welke dag van de week en het tijdstip van de dag u uw e-mails verzendt. Hoe groener de doos, des te meer verzonden e-mails op die specifieke dag en tijd. Het huidige filter bevat alle e-mails die in de laatste 7 dagen zijn verzonden. De tijd is in CST.
 
 ![](assets/seven.png)
-
