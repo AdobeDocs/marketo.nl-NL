@@ -3,7 +3,7 @@ unique-page-id: 13795492
 description: Instellingen voor veeleisende informatie - Marketo Docs - Productdocumentatie
 title: Instellingen voor prestatie-inzichten
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -25,17 +25,35 @@ Meer informatie over de verschillende instellingsopties in MPI.
 
 **Betrokkenheidsdashboard - Bijdrage en trends**
 
-| **Kostperiode** | Wanneer u dit controleert, zullen de Inzichten van Prestaties alle nieuwe namen en successen terug naar de maand samenvoegen die als kostenperiode wordt opgezet. |
-|---|---|
-| **Activiteitsperiode** | Wanneer u dit controleert, zullen de Inzichten van Prestaties alle nieuwe namen, successen, en lidmaatschap door activiteitendatum, ongeacht de periode van de programmakosten bijeenvoegen. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Kostperiode</strong></td> 
+   <td>Wanneer u dit controleert, zullen de Inzichten van Prestaties alle nieuwe namen en successen terug naar de maand samenvoegen die als kostenperiode wordt opgezet.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Activiteitsperiode</strong></td> 
+   <td>Wanneer u dit controleert, zullen de Inzichten van Prestaties alle nieuwe namen, successen, en lidmaatschap door activiteitendatum, ongeacht de periode van de programmakosten bijeenvoegen.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Configuratie vorige periode {#previous-period-configuration}
 
 **Betrokkenheid, pijpleiding, belastingdashboards - alleen Bijdrage**
 
-| **Kalenderperiode** | Stel de vorige periode in op: vorige kalendermaand, kwartaal, of jaar. |
-|---|---|
-| **JUISTIJD** | Stel de vorige periode in op dezelfde maand of hetzelfde kwartaal in het voorgaande jaar. |
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Kalenderperiode</strong></td> 
+   <td>Stel de vorige periode in op: vorige kalendermaand, kwartaal, of jaar.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>JUISTIJD</strong></td> 
+   <td>Stel de vorige periode in op dezelfde maand of hetzelfde kwartaal in het voorgaande jaar.</td> 
+  </tr> 
+ </tbody> 
+</table>
 
 ## Marketinggebonden kansen {#marketing-influenced-opportunities}
 
@@ -54,7 +72,7 @@ Meer informatie over de verschillende instellingsopties in MPI.
  </tbody> 
 </table>
 
-Inkomstendashboard - Bijdrage en ontwikkeling
+**Inkomstendashboard - Bijdrage en ontwikkeling**
 
 <table> 
  <tbody> 
@@ -73,7 +91,15 @@ Inkomstendashboard - Bijdrage en ontwikkeling
 
 **Pijpleiding- en inkomstendashboards - Bijdrage en trends**
 
-| **Gebaseerd op investeringsperiode** | De investeringskosten worden eenvoudig berekend als de som van de maandelijkse programmakosten die door het filter van de investeringsperiode worden bepaald. |
-|---|---|
-| **Gebaseerd op programmakenmerken** | De toegerekende Kosten zijn gebaseerd op een deel van programmakosten die door lood of contacten worden bepaald die, of succes, in het programma werden verworven en uiteindelijk in een gewonnen kans resulteerden. |
-
+<table> 
+ <tbody> 
+  <tr> 
+   <td><strong>Gebaseerd op investeringsperiode</strong></td> 
+   <td>De investeringskosten worden eenvoudig berekend als de som van de maandelijkse programmakosten die door het filter van de investeringsperiode worden bepaald.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Gebaseerd op programmakenmerken</strong></td> 
+   <td>De toegerekende Kosten zijn gebaseerd op een deel van programmakosten die door lood of contacten worden bepaald die, of succes, in het programma werden verworven en uiteindelijk in een gewonnen kans resulteerden.</td> 
+  </tr> 
+ </tbody> 
+</table>
