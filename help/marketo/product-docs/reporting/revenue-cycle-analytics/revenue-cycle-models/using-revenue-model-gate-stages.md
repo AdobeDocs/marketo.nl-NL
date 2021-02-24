@@ -3,7 +3,7 @@ unique-page-id: 4718670
 description: Gebruikend de Stages van de Datum van het Model van de Opbrengst - Marketo Docs - de Documentatie van het Product
 title: Opbrengstmodelstatussen gebruiken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -25,11 +25,11 @@ Een gate-werkgebied fungeert als kwalificatiecontrole.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Selecteer een bestaand model of [maak een nieuw model](create-a-new-revenue-model.md).
+1. Selecteer een bestaand model of [maak een nieuw model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Klik **Bewerken** **Concept**.
+1. Klik **Concept bewerken**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,11 +37,11 @@ Een gate-werkgebied fungeert als kwalificatiecontrole.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
-1. Bewerk de **Naam **en selecteer een **Type**.
+1. Bewerk de **Naam** en selecteer een **Type**.
 
    >[!NOTE]
    >
-   >Selecteer [Beginnen met bijhouden via account](start-tracking-by-account-in-the-revenue-modeler.md) op dit moment om inzicht te krijgen in de prestaties van uw accounts terwijl deze uw model doorlopen.
+   >Selecteer [Beginnen met bijhouden via account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) op dit moment om inzicht te krijgen in de prestaties van uw accounts terwijl deze uw model doorlopen.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
@@ -51,7 +51,7 @@ Een gate-werkgebied fungeert als kwalificatiecontrole.
 
 ## Een gatwerkgebied bewerken {#edit-a-gate-stage}
 
-Bewerk de naam, de beschrijving en pas het type van het Gate-werkgebied aan. U kunt er ook voor kiezen om [Bijhouden starten via account](start-tracking-by-account-in-the-revenue-modeler.md).
+Bewerk de naam, de beschrijving en pas het type van het Gate-werkgebied aan. U kunt er ook voor kiezen om [Bijhouden starten via account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Klik op het werkgebiedpictogram **Gate**.
 
@@ -83,11 +83,7 @@ Gefeliciteerd! Nu begrijp je de prachtige wereld van Gate Stages.
 
 >[!MORELIKETHIS]
 >
->* [Opbrengstmodelinventarisatiestadia gebruiken](using-revenue-model-inventory-stages.md)
->* [SLA-fasen van inkomstenmodel gebruiken](using-revenue-model-sla-stages.md)
->* [Maak een nieuw inkomstenmodel](create-a-new-revenue-model.md).
-
->
-
-
+>* [Opbrengstmodelinventarisatiestadia gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [SLA-fasen van inkomstenmodel gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Maak een nieuw inkomstenmodel](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
