@@ -3,7 +3,7 @@ unique-page-id: 4718675
 description: De naam van een werkgebied wijzigen - Marketo Docs - Productdocumentatie
 title: De naam van een werkgebied wijzigen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # De naam van een werkgebied wijzigen {#changing-the-name-of-a-stage}
 
-Je geest veranderen? Geen probleem. Het is eenvoudig de naam te wijzigen van een fase in de inkomstencyclusmodellen.
+Je geest veranderen? Geen probleem. De naam van een fase in de inkomstencyclusmodellener wijzigen is eenvoudig.
 
 1. Ga naar het gebied **Analytics**.
 
@@ -27,8 +27,8 @@ Je geest veranderen? Geen probleem. Het is eenvoudig de naam te wijzigen van een
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-   Klik op Sluiten.
+1. Klik **Close**.
+
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Zie? Eenvoudig! Vergeet niet om [Uw model](approve-unapprove-a-revenue-model.md) goed te keuren.
-
+   Zie? Eenvoudig! Vergeet niet om [Uw model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md) goed te keuren.
