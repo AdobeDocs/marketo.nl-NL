@@ -3,7 +3,7 @@ unique-page-id: 4718666
 description: Het gebruiken van de Fantasiestappen van het Model van de Inkomsten - Marketo DOS - de Documentatie van het Product
 title: Opbrengstmodelinventarisatiestadia gebruiken
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Alle bekende leads en accounts bevinden zich aanvankelijk in de voorraadfase. De
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Selecteer in de sectie **Analytics** het bestaande model of [maak een nieuw model](create-a-new-revenue-model.md).
+1. Selecteer in de sectie **Analytics** het bestaande model of [maak een nieuw model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
@@ -37,13 +37,13 @@ Alle bekende leads en accounts bevinden zich aanvankelijk in de voorraadfase. De
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. U kunt de naam bewerken, een beschrijving toevoegen en het type aanpassen nadat u een werkgebied hebt toegevoegd. U kunt ook ** [Bijhouden via account starten](start-tracking-by-account-in-the-revenue-modeler.md)** op dit moment selecteren.
+1. U kunt de naam bewerken, een beschrijving toevoegen en het type aanpassen nadat u een werkgebied hebt toegevoegd. U kunt **[Beginnen met bijhouden via account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** op dit moment ook selecteren.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Een inventarisgebied {#edit-an-inventory-stage} bewerken
 
-Als u een inventarisatiepictogram selecteert, kunt u de **Naam** bewerken, een **Beschrijving** toevoegen of het **Type** aanpassen. U kunt [Beginnen met bijhouden via account](start-tracking-by-account-in-the-revenue-modeler.md) ook selecteren.
+Als u een inventarisatiepictogram selecteert, kunt u de **Naam** bewerken, een **Beschrijving** toevoegen of het **Type** aanpassen. U kunt [Beginnen met bijhouden via account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) ook selecteren.
 
 1. Klik op het pictogram Overzicht.
 
