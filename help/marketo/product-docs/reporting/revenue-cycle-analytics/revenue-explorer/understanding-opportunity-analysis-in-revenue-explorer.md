@@ -3,7 +3,7 @@ unique-page-id: 2951884
 description: De Analyse van de Kans in de Ontdekkingsreiziger van de Inkomsten - Marketo DOS - de Documentatie van het Product
 title: De Analyse van de Kans van het begrip in de Ontdekkingsreiziger van de Inkomsten
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 0%
@@ -25,13 +25,15 @@ Hier zijn een paar rapporten u in het gebied van de Analyse van de Kans kunt tot
 
    ![](assets/image2015-7-21-16-3a21-3a4.png)
 
-1. Marketing Invloed op kansen gesloten en gewonnen
-1. Dit verslag laat zien hoeveel inkomsten zijn verworven en beïnvloed door marketing, aantal en bedrag.
+1. De invloed van de marketing op Kansen gesloten en Won.
+
+   Dit verslag laat zien hoeveel inkomsten zijn verworven en beïnvloed door marketing, aantal en bedrag.
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
 1. Opportunity gesloten door bron van lead
-1. In dit rapport worden alle mogelijkheden die door de loodbron zijn gesloten, verdeeld en krijgt u een duidelijk overzicht van welke bronnen wel en welke niet werken.
+
+   In dit rapport worden alle mogelijkheden die door de loodbron zijn gesloten, verdeeld en krijgt u een duidelijk overzicht van welke bronnen wel en welke niet werken.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
@@ -75,7 +77,7 @@ De Analyse van de kansen geeft u toegang tot alle lood, bedrijf en opportuniteit
 
    | Dimension | Beschrijving |
    |---|---|
-   | Toegevoegd op lijst van gewenste personen | De lead is toegevoegd op lijst van gewenste personen |
+   | Gevoegd op lijst van gewenste personen | De lead is gevoegd op lijst van gewenste personen |
    | Omgezet in opportunity | De lead wordt omgezet in een opportunity |
    | E-mail ongeldig | Of de lead een geldig e-mailadres heeft |
    | Marketing opgeschort | Is de lead geschorst voor het in de handel brengen van e-mails |
@@ -151,11 +153,7 @@ De Analyse van de kansen geeft u toegang tot alle lood, bedrijf en opportuniteit
 
 >[!MORELIKETHIS]
 >
->* [Een rapport van de inkomstenverkenner maken](create-a-revenue-explorer-report.md)
->* [Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](adding-fields-to-a-revenue-explorer-report.md)
->* [Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
+>* [Een rapport van de inkomstenverkenner maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
 
