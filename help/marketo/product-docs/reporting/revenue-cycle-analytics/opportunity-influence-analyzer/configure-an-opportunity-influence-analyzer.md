@@ -3,9 +3,9 @@ unique-page-id: 2360240
 description: Een opportuniteitsanalyse voor invloed configureren - Marketo Docs - Productdocumentatie
 title: Een Opportunity Influence Analyzer configureren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -13,14 +13,13 @@ ht-degree: 0%
 
 # Analysator van opportuniteit configureren {#configure-an-opportunity-influence-analyzer}
 
-Zodra u [een Analysator van de Invloed van de Mogelijkheid ](create-an-opportunity-influence-analyzer.md) creeert, kunt u de types van [interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) vormen die inbegrepen zijn.
+Zodra u [een Analysator van de Invloed van de Mogelijkheid ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md) creeert, kunt u de types van [interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md) vormen die inbegrepen zijn.
 
 >[!PREREQUISITES]
 >
->* [Een Opportunity Influence Analyzer maken](create-an-opportunity-influence-analyzer.md)
+>[Een Opportunity Influence Analyzer maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-
-1. Klik op Analytics.
+1. Klik **Analytics**.
 
    ![](assets/login-to-analytics.png)
 
@@ -42,16 +41,12 @@ Zodra u [een Analysator van de Invloed van de Mogelijkheid ](create-an-opportuni
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. Klik op elk gewenste type interessant moment. Klik vervolgens op Opslaan.
+1. Klik op elk gewenste type interessant moment. Klik vervolgens op **Opslaan**.
+
 1. Klik op het hoofdtabblad om de geschiedenis van de opportuniteit weer te geven met alleen de geselecteerde soorten interessante momenten.
 
    ![](assets/image2014-9-17-12-3a29-3a58.png)
 
->[!NOTE]
->
->Voor andere analysatoren, zie [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting).
-
 >[!MORELIKETHIS]
 >
->* [Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
-
+>[Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
