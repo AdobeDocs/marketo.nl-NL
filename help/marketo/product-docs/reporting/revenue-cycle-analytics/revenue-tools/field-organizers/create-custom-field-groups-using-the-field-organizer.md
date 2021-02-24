@@ -3,7 +3,7 @@ unique-page-id: 10094404
 description: Aangepaste veldgroepen maken met de veldOrganizer - Marketo Docs - Productdocumentatie
 title: Aangepaste veldgroepen maken met de veldOrganizer
 translation-type: tm+mt
-source-git-commit: f28ff1acb0090892bdb92b75ef90d489db7abf20
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 0%
@@ -180,8 +180,8 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
    >
    >U kunt maximaal tien subgroepen toevoegen om de gegevenswaarden te categoriseren. Elke ingang van de Waaier van de Groep bouwt op de vorige ingang voort. Als u de laatste ingang van de Waaier van de Groep voor de laatste douanesubgroep leeg verlaat u creeert, wordt een waarde van de einddatum niet geplaatst.
 
+   In het onderstaande voorbeeld ziet u een vermelding voor de leads van het eerste kwartaal van 2015 tot en met het derde kwartaal.
+
    ![](assets/16.5.png)
 
    En dat is het! Goed werk.
-
-In het onderstaande voorbeeld ziet u een vermelding voor de leads van het eerste kwartaal van 2015 tot en met het derde kwartaal.
