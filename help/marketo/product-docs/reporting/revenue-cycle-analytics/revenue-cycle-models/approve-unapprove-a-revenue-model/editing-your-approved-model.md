@@ -3,7 +3,7 @@ unique-page-id: 5472402
 description: Uw goedgekeurde model bewerken - Marketo Docs - Productdocumentatie
 title: Uw goedgekeurde model bewerken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/two.png)
 
-1. Kies het nieuwe werkgebied voor leads die momenteel in de geselecteerde worden weergegeven of selecteer **Geen **om de leads uit uw model te verwijderen. Wanneer u wordt gedaan, klik **Fusie**.
+1. Kies het nieuwe werkgebied voor leads die momenteel in de geselecteerde worden weergegeven of selecteer **Geen** om de leads uit uw model te verwijderen. Wanneer u wordt gedaan, klik **Fusie**.
 
    ![](assets/three.png)
 
@@ -59,5 +59,4 @@ U kunt slechts één goedgekeurd model tegelijk hebben. Als u een model wilt goe
 
 >[!MORELIKETHIS]
 >
->[Een nieuw inkomstenmodel maken](../../../../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-
+>[Een nieuw inkomstenmodel maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
