@@ -3,7 +3,7 @@ unique-page-id: 3571886
 description: Het gebruiken van de Analysator van de Weg van het Succes - Marketo Dos - de Documentatie van het Product
 title: De Padanalyse met succes gebruiken
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Het gebruiken van de Analysator van de Weg van het Succes {#using-the-success-path-analyzer}
 
-Gebruik een Analysator van de Weg van het Succes om de specifieke details te onderzoeken die zowel stroom (hoeveelheid) als snelheid (snelheid, in termen van dagen) van mensen door de stadia van uw [Model van de Cyclus van de Opbrengst ](understanding-revenue-models.md) weerspiegelen.
+Gebruik een Analysator van de Weg van het Succes om de specifieke details te onderzoeken die zowel stroom (hoeveelheid) als snelheid (snelheid, in termen van dagen) van mensen door de stadia van uw [Model van de Cyclus van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) weerspiegelen.
 
 >[!PREREQUISITES]
 >
->[Een padanalyse met succes maken](create-a-success-path-analyzer.md)
+>[Een padanalyse met succes maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
 1. Ga naar **Analytics** en selecteer **Success Path Analyzer**.
 
@@ -55,7 +55,7 @@ Gebruik een Analysator van de Weg van het Succes om de specifieke details te ond
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Voor stadia met SLAs (dienst-Vlakke Overeenkomsten), klik **Grafiek Acties** ** toont SLA Vereist** om elke persoon te tonen die ooit een SLA doel binnen het gespecificeerde tijdkader heeft gemist.
+1. Voor stadia met SLAs (dienst-Vlakke Overeenkomsten), klik **Grafiekacties** > **SLA Verwant** tonen om elke persoon te tonen die ooit een doel van SLA binnen het gespecificeerde tijdkader heeft gemist.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -65,7 +65,7 @@ Gebruik een Analysator van de Weg van het Succes om de specifieke details te ond
 
    De mensen die in oranje worden getoond zouden *of niet* nog in het SLA stadium kunnen zijn.
 
-1. Klik **Grafiekacties**** SLA achterstallig tonen** om alle mensen met verlopen SLA-doelen weer te geven die zich aan het einde van de opgegeven periode nog in het SLA-werkgebied bevinden.
+1. Klik **Grafiekacties** > **SLA-achterstallig tonen** om alle mensen met verlopen SLA-doelen weer te geven die zich aan het einde van de opgegeven tijdsperiode nog in het SLA-werkgebied bevinden.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +77,7 @@ Gebruik een Analysator van de Weg van het Succes om de specifieke details te ond
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Klik op******Diagram-handelingen** > **Afdrukgrafiek** om de grafiek af te drukken.
+1. Als u de grafiek wilt afdrukken, klikt u op **Grafiekhandelingen** > **Afdrukgrafiek**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 
