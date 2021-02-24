@@ -3,9 +3,9 @@ unique-page-id: 2360407
 description: Bouw een E-mailanalyserapport dat van Leads - Marketo Docs - de Documentatie van het Product een lijst maakt
 title: Een e-mailanalyserapport maken waarin de leads worden vermeld
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,26 +15,25 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
 Voer de volgende stappen uit om een e-mailanalyserapport te maken waarin elke lead wordt weergegeven die een specifieke e-mail heeft verzonden. Dit rapport bevat ook de status Klik en Openen. 1. Start Revenue Explorer.
 
 ![](assets/image2014-9-17-19-3a12-3a54.png)
 
-1. Klik op Nieuw rapport.
+1. Klik **Nieuw Rapport**.
 
    ![](assets/image2014-9-17-19-3a13-3a1.png)
 
-1. Selecteer het gebied E-mailanalyse en klik op OK.
+1. Selecteer het gebied E-mailanalyse en klik op **OK**.
 
    ![](assets/image2014-9-17-19-3a14-3a0.png)
 
-1. Vind de gele punt van de Naam E-mail, klik het met de rechtermuisknop aan en selecteer Filter.
+1. Vind de gele punt van de Naam E-mail, klik het met de rechtermuisknop aan en selecteer **Filter**.
 
    ![](assets/image2014-9-17-19-3a14-3a6.png)
 
-1. Dubbelklik in de lijst op de gewenste e-mail en klik op OK.
+1. Dubbelklik in de lijst op de gewenste e-mail en klik op **OK**.
 
    ![](assets/image2014-9-17-19-3a14-3a11.png)
 
@@ -50,7 +49,7 @@ Voer de volgende stappen uit om een e-mailanalyserapport te maken waarin elke le
 
    ![](assets/image2014-9-17-19-3a15-3a32.png)
 
-1. Voeg nu de gewenste maatregelen toe door erop te dubbelklikken.
+1. Voeg nu de maatregelen toe u in door hen te tweemaal klikken geinteresseerd bent.
 
    ![](assets/image2014-9-17-19-3a15-3a47.png)
 
@@ -58,6 +57,8 @@ Voer de volgende stappen uit om een e-mailanalyserapport te maken waarin elke le
 >
 >Afhankelijk van de hoeveelheid gegevens hebt u dit rapport hebt, kan het even duren om te vernieuwen.
 
-Nu u klaar bent, moet uw verslag er ongeveer als volgt uitzien:   ![](assets/image2014-9-17-19-3a16-3a39.png)
+Nu u klaar bent, moet uw verslag er ongeveer als volgt uitzien:
+
+![](assets/image2014-9-17-19-3a16-3a39.png)
 
 Opdracht voltooid!
