@@ -3,7 +3,7 @@ unique-page-id: 2951877
 description: Begrijpen van het Gebied van de Analyse van de Kans van het Programma - Marketo Docs - de Documentatie van het Product
 title: Het gebied van de Analyse van de Kans van het Programma
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Op het gebied van de Analyse van de Kans van het Programma kunt u de doeltreffendheid van individuele Programma&#39;s analyseren of samengevatte resultaten zien door het Kanaal van het Programma.
 
-**Voorbeelden van zakelijke vragen die u kunt beantwoorden met behulp van dit analysegebied zijn:**
+**Voorbeeld van zakelijke vragen die u kunt beantwoorden met behulp van dit analysegebied zijn**:
 
 Hoeveel kansen zijn er verbonden aan een bepaald programma en hoeveel daarvan hebben we gewonnen?
 
@@ -67,11 +67,11 @@ Net als bij de overname verandert de waarde van de bijdrage aan de verkoop van e
   </tr> 
   <tr> 
    <td>Kosten van opportuniteit</td> 
-   <td><p>Het deel van de kosten van het programma dat de kansen beïnvloedde. De kosten kunnen worden opgesplitst als het om meerdere leads gaat.</p></td> 
+   <td>Het deel van de kosten van het programma dat de kansen beïnvloedde. De kosten kunnen worden opgesplitst als het om meerdere leads gaat.</td> 
   </tr> 
   <tr> 
    <td>Gemaakte kansen</td> 
-   <td><p>Het deel van de kredieten dat het programma heeft ontvangen voor het beïnvloeden van de schepping van de kans. Het kan een fractie zijn als er meerdere leads bij betrokken waren.</p></td> 
+   <td>Het deel van de kredieten dat het programma heeft ontvangen voor het beïnvloeden van de schepping van de kans. Het kan een fractie zijn als er meerdere leads bij betrokken waren.</td> 
   </tr> 
   <tr> 
    <td>Opportunity Won</td> 
@@ -79,28 +79,28 @@ Net als bij de overname verandert de waarde van de bijdrage aan de verkoop van e
   </tr> 
   <tr> 
    <td>Pipet gemaakt</td> 
-   <td><p>Het deel van de kredieten (in monetaire waarde) dat het programma ontving om de schepping van de kans te beïnvloeden. Het kan een fractie zijn als er meerdere leads bij betrokken waren.</p></td> 
+   <td>Het deel van de kredieten (in monetaire waarde) dat het programma ontving om de schepping van de kans te beïnvloeden. Het kan een fractie zijn als er meerdere leads bij betrokken waren.</td> 
   </tr> 
   <tr> 
    <td>Pipet gemaakt - nog geopend</td> 
    <td>Het deel van de kredieten (in monetaire waarde) dat het programma heeft ontvangen om de creatie van de momenteel open mogelijkheid te beïnvloeden. Het kan een fractie zijn als er meerdere leads bij betrokken waren.</td> 
   </tr> 
   <tr> 
-   <td><p>Verwachte inkomsten</p></td> 
+   <td>Verwachte inkomsten</td> 
    <td>Het deel van de kredieten (in monetaire waarde) dat het programma ontving om de schepping van de kans te beïnvloeden. Verwachte opbrengsten zijn de opportuniteitswaarschijnlijkheid vermenigvuldigd met de opportuniteitswaarde. Het kan een fractie zijn als er meerdere leads bij betrokken waren.</td> 
   </tr> 
   <tr> 
-   <td><p>Opbrengsten van beleggingen</p></td> 
-   <td><p>Dit is de verhouding tussen het deel van het krediet (in monetaire waarde) dat het programma heeft ontvangen om de eigen kansen en de kosten van het programma te beïnvloeden.</p></td> 
+   <td>Opbrengsten van beleggingen</td> 
+   <td>Dit is de verhouding tussen het deel van het krediet (in monetaire waarde) dat het programma heeft ontvangen om de eigen kansen en de kosten van het programma te beïnvloeden.</td> 
   </tr> 
   <tr> 
    <td>Won-inkomsten</td> 
-   <td><p>Het deel van de kredieten (in monetaire waarde) dat het programma heeft ontvangen om de eigen kans te beïnvloeden. Het kan een fractie zijn als er meerdere leads bij betrokken waren.</p></td> 
+   <td>Het deel van de kredieten (in monetaire waarde) dat het programma heeft ontvangen om de eigen kans te beïnvloeden. Het kan een fractie zijn als er meerdere leads bij betrokken waren.</td> 
   </tr> 
  </tbody> 
 </table>
 
-** (FT) = First-Touch Attribution, gebruikt voor metingen van de verwerving van lood; (MT) = Multi-Touch Attribution, gebruikt voor het meten van het succes van lead*
+_* (FT) = First-Touch Attribution, gebruikt voor metingen van de verwerving van lood; (MT) = Multi-Touch Attribution, gebruikt voor het meten van het succes van lead_
 
 Hieronder volgt een scenario dat beschrijft hoe de Eenheden van de Kans worden berekend wanneer er twee Programma&#39;s zijn die lood produceerden, maar die tot één Kans van de zelfde rekening leiden.
 
@@ -165,19 +165,19 @@ Terwijl metingen (blauwe stippen) worden berekend en enige overweging en uitleg 
  <tbody> 
   <tr> 
    <th>Categorie</th> 
-   <th><p>Weergavelabel</p></th> 
+   <th>Weergavelabel</th> 
   </tr> 
   <tr> 
    <td>Opportuniteitskenmerken</td> 
-   <td><p>Opportunity Closed<br>Naam opportuniteit*<br>Naam opportuniteitseigenaar<br>Opportunity Stage<br>Type opportuniteit</p></td> 
+   <td>Opportunity Closed<br>Naam opportuniteit*<br>Naam opportuniteitseigenaar<br>Opportunity Stage<br>Type opportuniteit</td> 
   </tr> 
   <tr> 
    <td>Tijdskader voor opportunity</td> 
-   <td><p>Opportunity closed year/Quarter/Month<br>Opportunity Created Year/Quarter/Month</p></td> 
+   <td>Opportunity closed year/Quarter/Month<br>Opportunity Created Year/Quarter/Month</td> 
   </tr> 
   <tr> 
    <td>Programmakenmerken</td> 
-   <td><p>Programmakanaal<br>Programmanaam</p></td> 
+   <td>Programmakanaal<br>Programmanaam</td> 
   </tr> 
   <tr> 
    <td>Tijdslimiet voor programmakosten</td> 
@@ -190,4 +190,4 @@ Terwijl metingen (blauwe stippen) worden berekend en enige overweging en uitleg 
 
 >[!MORELIKETHIS]
 >
->[Een rapport van de inkomstenverkenner maken](../../../../product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Een rapport van de inkomstenverkenner maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
