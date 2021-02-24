@@ -3,7 +3,7 @@ unique-page-id: 7504725
 description: Een rapport van de Ontdekkingsreiziger van de Opbrengst opslaan - Marketo Docs - de Documentatie van het Product
 title: Een rapport van de Ontdekkingsreiziger van de Opbrengst opslaan
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 De rapporten van de Ontdekkingsreiziger van de opbrengst kunnen aan het dossier van uw keus worden bewaard.
 
-1. Klik op het pictogram **Save **Save.
+1. Klik op het pictogram Opslaan.
 
    ![](assets/image2015-3-25-17-3a8-3a49.png)
 
@@ -33,9 +33,4 @@ De rapporten van de Ontdekkingsreiziger van de opbrengst kunnen aan het dossier 
 
 >[!MORELIKETHIS]
 >
->* [Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten](subscribe-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
