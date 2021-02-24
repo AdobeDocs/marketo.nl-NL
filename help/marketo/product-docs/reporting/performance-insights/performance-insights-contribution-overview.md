@@ -3,9 +3,9 @@ unique-page-id: 12979008
 description: Overzicht van de bijdrage van prestatieonderzoeken - Marketo-documenten - productdocumentatie
 title: Overzicht van de bijdrage van Performance Insights
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,19 @@ Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken
 
 >[!NOTE]
 >
->Meer informatie over [First-Touch en Multi-Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution).
+>Meer informatie over [First-Touch en Multi-Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
-Kies voor welke periode u metriek wilt weergeven. In dit voorbeeld bekijken we het huidige jaar (van jaar tot dag).   ![](assets/3-1.png)
+Kies voor welke periode u metriek wilt weergeven. In dit voorbeeld bekijken we het huidige jaar (van jaar tot dag).
+
+![](assets/3-1.png)
 
 >[!NOTE]
 >
 >We hebben tijdelijk de selectie van het vorige jaar verwijderd. U hebt nog steeds de mogelijkheid om de volledige prestatiegegevens van het voorgaande jaar weer te geven met de selectie Aangepast bereik.
 
-Metrische gegevens worden via twee grafieken weergegeven: doughnut en bar.   ![](assets/four.png)
+Metrische gegevens worden via twee grafieken weergegeven: doughnut en bar.
+
+![](assets/four.png)
 
 In het donutdiagram worden de tien bovenste kanalen weergegeven voor de metrische waarde die u hebt geselecteerd.
 
@@ -45,7 +49,9 @@ In het staafdiagram worden de programmaprestaties langs alle kanalen (tien progr
 >
 >Als u wilt dat de staven in de grafiek worden vergroot terwijl u door de groepen schuift, schakelt u het selectievakje **Y-as schalen om passend te maken** in.
 
-Plaats de muisaanwijzer op een balk voor meer informatie.   ![](assets/seven.png)
+Plaats de muisaanwijzer op een balk voor meer informatie.
+
+![](assets/seven.png)
 
 Selecteer een of meer kanalen in het donutdiagram en alle programma&#39;s die bij die kanalen horen, worden in het staafdiagram rechts weergegeven. Klik nogmaals op het kanaal of de kanalen om de selectie op te heffen.
 
@@ -69,4 +75,3 @@ Breid een kanaal uit om zijn hoogste tien programma&#39;s te zien, met de rester
 >[!NOTE]
 >
 >Als u op het selectievakje naast een kanaal klikt, wordt het kanaal in de bovenstaande donutgrafiek geactiveerd of gedeactiveerd.
-
