@@ -3,7 +3,7 @@ unique-page-id: 12980873
 description: Prestatie-inzichten, snel overzicht - Marketo-documenten - productdocumentatie
 title: Prestatie-inzichten, snelle grafieken
 translation-type: tm+mt
-source-git-commit: 07ae1b3f3ee3e9d7f35373eea039d336bd786f97
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -68,4 +68,3 @@ Als u een Snelle Grafiek moet schrappen, volg deze eenvoudige stappen.
 1. Klik **Delete**.
 
    ![](assets/10-1.png)
-
