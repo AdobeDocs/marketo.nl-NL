@@ -3,7 +3,7 @@ unique-page-id: 2953144
 description: Het geavanceerde Overzicht van de Rapportering van het Programma - Marketo Docs - de Documentatie van het Product
 title: Advanced Program Reporting Overview
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -27,13 +27,13 @@ De gebieden van de analyse elk bevatten verschillende gegevensreeksen en metriek
 
 ## Programmaanalysegebieden {#program-analysis-areas}
 
-* ** [Kostenanalyse van het programma](understanding-the-program-cost-analysis-area.md) **- zie ROI voor al uw programma&#39;s.
+* **[Analyse](understanding-the-program-cost-analysis-area.md)**  van de Kosten van het programma - zie ROI voor al uw programma&#39;s.
 
-* ** [Analyse van het lidmaatschap van het programma](understanding-the-program-membership-analysis-area.md) **- Zie resultaten per kanaal, participatie, succescriteria, enz.
+* **[Analyse](understanding-the-program-membership-analysis-area.md)**  van het lidmaatschap van het programma - Zie resultaten door kanaal, participatie, succescriteria, enz.
 
-* ** [De Analyse van de Kans van het Programma](understanding-the-program-opportunity-analysis-area.md) **- Kansen die op distributie, hun opbrengst, en ROI worden geproduceerd.
+* **[De Analyse](understanding-the-program-opportunity-analysis-area.md)**  van de Kans van het programma - Geproduceerde kansen op distributie, hun opbrengst, en ROI.
 
-* ** [Analyse van het werkgebied van de Inkomsten van het programma](understanding-the-program-revenue-stage-analysis-area.md) **- Nieuwe namen die bepaalde successtadia binnen uw model van de opbrengstcyclus hebben bereikt.
+* **[Analyse](understanding-the-program-revenue-stage-analysis-area.md)**  van de Fase van de Opbrengst van het programma - Nieuwe namen die bepaalde successtadia binnen uw model van de opbrengstcyclus hebben bereikt.
 
 ## Programmaanalysatoren {#program-analyzers}
 
