@@ -3,7 +3,7 @@ unique-page-id: 4718636
 description: Begrijpen van het gebied van de Kostenanalyse van het Programma - Marketo Docs - de Documentatie van het Product
 title: Het begrip van het gebied van de Analyse van de Kosten van het Programma
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Hoeveel heb ik per programma per maand uitgegeven?
    <th>Beschrijving</th> 
   </tr> 
   <tr> 
-   <td><p>% nieuwe namen</p></td> 
+   <td>% nieuwe namen</td> 
    <td>Percentage van de door een programma verworven leads</td> 
   </tr> 
   <tr> 
@@ -104,4 +104,3 @@ Hoeveel heb ik per programma per maand uitgegeven?
 | % geslaagd (totaal) | Percentage voorsprong die succes heeft geboekt bij de voortgang van een programma |
 | Succes (nieuwe namen) | Totaal aantal nieuwe namen dat succes heeft geboekt bij de voortgang van een programma |
 | Geslaagd (totaal) | Totaal aantal leads dat succes heeft geboekt bij de voortgang van een programma |
-
