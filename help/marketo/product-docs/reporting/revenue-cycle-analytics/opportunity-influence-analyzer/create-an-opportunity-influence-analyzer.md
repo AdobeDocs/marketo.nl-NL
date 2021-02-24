@@ -3,9 +3,9 @@ unique-page-id: 2360235
 description: Creeer een Analysator van de Invloed van de Kanans - Marketo Docs - de Documentatie van het Product
 title: Een Opportunity Influence Analyzer maken
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,6 @@ ht-degree: 0%
 Gebruik de Analysator van de Invloed van de Kans om de bijdrage van de marketing aan een belangrijke overeenkomst te tonen. Bekijk uw programma- en gebeurtenissuccessen en interessante momenten in het leven van een kans.
 
 >[!NOTE]
->
->**Herinnering**
 >
 >Om goede informatie van een Analysator van de Invloed van de Mogelijkheid te krijgen, zorg ervoor dat uw contacten aan de kansen in uw CRM in bijlage zijn.
 
@@ -64,16 +62,6 @@ Gebruik de Analysator van de Invloed van de Kans om de bijdrage van de marketing
 
 >[!MORELIKETHIS]
 >
->* [Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Een Opportunity Influence Analyzer configureren](configure-an-opportunity-influence-analyzer.md)
-
->
-
-
-
->[!NOTE]
->
->**Diep duiken**
->
->Voor andere analysatoren, zie [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting).
+>* [Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Een Opportunity Influence Analyzer configureren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
 
