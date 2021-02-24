@@ -3,9 +3,9 @@ unique-page-id: 13795534
 description: Prestatie-inzichten dashboards - Marketo Docs - productdocumentatie
 title: Dashboards met prestatie-inzichten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,13 @@ Met het dashboard Betrokkenheid kunt u de effectiviteit van uw programma&#39;s v
 
 Maatschappelijke betrokkenheid
 
-Kies **Successen** metrisch om publieksbetrokkenheid in uw programma&#39;s van de Zorg te meten. Succes is een maatstaf voor betekenisvolle interactie in Marketo.
+Kies **Successen** metrisch om publieksbetrokkenheid in uw borstelprogramma&#39;s te meten. Succes is een maatstaf voor betekenisvolle interactie in Marketo.
 
 ![](assets/3-4.png)
 
 Het doel van een programma is een zinvolle interactie met de persoon of het vooruitzicht tot stand te brengen. Het succes wordt duidelijk wanneer een persoon de status bereikt die dat doel bereikt. Het kan een webinar bijwonen, op een koppeling in een e-mail klikken of een webformulier invullen. Het succes hangt af van het programmakanaal.
 
 >[!NOTE]
->
->**Voorbeeld**
 >
 >In een webinar programma, kunnen er veelvoudige statussen zijn, zoals: Uitgenodigd, geregistreerd en bijgewoond. Uitgenodigde of Geregistreerd zijn geen zinvolle interacties omdat mensen niet echt naar het webinar kijken. Bijgewoond wordt beschouwd als succes in dit geval.
 
@@ -108,4 +106,3 @@ Het belastingdashboard laat kanaalprestaties zien door middel van &#39;first-tou
   </tr> 
  </tbody> 
 </table>
-
