@@ -3,9 +3,9 @@ unique-page-id: 2360237
 description: Vertel het Marketing Story met een Analysator van de Invloed van de Mogelijkheid - Marketo Docs - de Documentatie van het Product
 title: Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,7 @@ Gebruik een Analysator van de Gevolgen van de Kans om de rol van de marketing in
 
 >[!PREREQUISITES]
 >
->* [Een Opportunity Influence Analyzer maken](create-an-opportunity-influence-analyzer.md)
-
->
-
-
+>[Een Opportunity Influence Analyzer maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
 1. Ga naar **Analytics** en selecteer **Opportunity Influence Analyzer**.
 
@@ -29,20 +25,20 @@ Gebruik een Analysator van de Gevolgen van de Kans om de rol van de marketing in
 
    De analyse van de Invloed van de Kans is een visuele vertegenwoordiging van de interactie en programma en gebeurtenissuccessen betrokken bij die kans. Laten we de grafiek verkennen:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png)**Oranje** documenten geven  [interessante ](https://community.marketo.com/MarketoArticle?id=kA050000000LA1oCAG) impulsen aan de kans (e-mails geopend, winkelbezoeken, downloads voor whitepaper, enz.). Grotere stippen geven meer interacties aan.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Oranje** documenten geven  [interessante ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) impulsen aan de kans (e-mails geopend, winkelbezoeken, downloads voor whitepaper, enz.). Grotere stippen geven meer interacties aan.
 
-   * ` ![—](assets/image2014-10-3-13-3a44-3a9.png)
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Bindingspictogrammen geven** aan dat het programma succesvol is.
 
-      ` **Bindingspictogrammen** wijzen op [succesvolle programma](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QO6CAM).
-
-   * ** ![—](assets/image2014-10-3-13-3a44-3a40.png) Kalenderpictogrammen** geven [gebeurtenis](https://community.marketo.com/MarketoDeepDive?id=kA5500000008QNwCAM) als geslaagd aan.
+   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Kalenderpictogrammen geven de** successen van gebeurtenissen aan.
 
    * **Opportuniteitsperiode**. Het groene gebied biedt de mogelijkheid zelf, van het creëren van kansen tot het sluiten van kansen (gewonnen of verloren).
+
    * **De levenscyclus** van de kans. De grijze gebieden voor en na de groene opportuniteitsperiode laten de interacties zien die tot de kans hebben geleid en deze hebben gevolgd.
 
    In het deelvenster **Instellingen** worden de personen van de account weergegeven:
 
    * Het **getal tussen haakjes** is het aantal interacties met die contactpersoon.
+
    * ![—](assets/image2014-10-3-13-3a45-3a9.png)Het  **gele** zetje geeft het primaire contact aan.
 
 
@@ -66,23 +62,4 @@ Gebruik een Analysator van de Gevolgen van de Kans om de rol van de marketing in
 
    >[!MORELIKETHIS]
    >
-   >
-   >
-   >    
-   >    
-   >    * [Een Opportunity Influence Analyzer configureren](configure-an-opportunity-influence-analyzer.md)
-      >    
-      >    
-      >
-      >
-      >    
-      >    
-      >    
-
-
-
-
-
-   * [Basisrapportage](https://docs.marketo.com/display/docs/basic+reporting)
-
-
+   >[Een Opportunity Influence Analyzer configureren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
