@@ -3,7 +3,7 @@ unique-page-id: 4718640
 description: Het begrip van het Gebied van de Analyse van het Lidmaatschap van het Programma - Marketo Docs - de Documentatie van het Product
 title: Inzicht in het analysegebied van het lidmaatschap van het programma
 translation-type: tm+mt
-source-git-commit: 313266a67243f0c70c25010cb4825efb7f3db0ab
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -68,4 +68,3 @@ Hoeveel nieuwe namen produceerde elk programma/kanaal per maand?
 | % geslaagd (totaal) | Percentage voorsprong die succes heeft geboekt bij de voortgang van een programma |
 | Succes (nieuwe namen) | Totaal aantal nieuwe namen dat succes heeft geboekt bij de voortgang van een programma |
 | Geslaagd (totaal) | Totaal aantal leads dat succes heeft geboekt bij de voortgang van een programma |
-
