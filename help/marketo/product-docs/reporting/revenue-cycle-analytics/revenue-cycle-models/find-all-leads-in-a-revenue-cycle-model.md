@@ -3,7 +3,7 @@ unique-page-id: 2360423
 description: Alle leads zoeken in een Revenue Cycle Model - Marketo Docs - Productdocumentatie
 title: Alle leads zoeken in een inkomstencyclusmodel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Door slimme lijsten te gebruiken, kunt u alle leden van het model van de opbreng
 
 >[!PREREQUISITES]
 >
->[Een slimme lijst maken](../../../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
 1. Selecteer de slimme lijst en klik op het tabblad **Slimme lijst**.
 
@@ -33,11 +33,11 @@ Door slimme lijsten te gebruiken, kunt u alle leden van het model van de opbreng
 
    Dit zou je alle leads in dat model geven, ongeacht het werkgebied. Meestal wilt u een specifiek werkgebied. Gebruik in plaats hiervan het volgende filter.
 
-1. Zoek het filter **Opbrengstwerkgebied **en sleep het naar het canvas.
+1. Zoek het filter **Opbrengstwerkgebied** en sleep het naar het canvas.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Selecteer een **werkgebied.**
+1. Selecteer een **werkgebied**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
@@ -47,9 +47,8 @@ Door slimme lijsten te gebruiken, kunt u alle leden van het model van de opbreng
 
    >[!TIP]
    >
-   >U hebt beide filters niet nodig, maar kies de gewenste filters. We laten u alleen maar zien dat u allebei grondig te werk gaat. ![(glimlach)](assets/smile.svg)   >
+   >U hebt beide filters niet nodig, maar kies de gewenste filters. We laten u alleen maar zien dat u allebei grondig te werk gaat. ![(glimlach)](assets/smile.svg)
 
    >[!CAUTION]
    >
    >Als het stadium van een lood door een externe campagne tijdens de aanvankelijke verwezenlijking van lood wordt veranderd, dan wordt een activiteit niet het programma geopend in het gegevensbestand. Dit betekent dat de lead niet wordt opgenomen in het filter voor de slimme lijst.
-
