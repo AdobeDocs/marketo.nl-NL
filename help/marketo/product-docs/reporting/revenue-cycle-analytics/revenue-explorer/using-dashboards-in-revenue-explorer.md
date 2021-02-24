@@ -3,7 +3,7 @@ unique-page-id: 10094959
 description: Het gebruiken van Dashboards in de Ontdekkingsreiziger van de Ontvangsten - Marketo Dos - de Documentatie van het Product
 title: Het gebruiken van Dashboards in de Ontdekkingsreiziger van de Opbrengst
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 
    ![](assets/nine.png)
 
-1. Als u de naam van een sectie wilt wijzigen, klikt u op de sectie om deze te selecteren, typt u de gewenste naam onder Titel en klikt u op** Toepassen**. Herhaal deze bewerking voor elke sectie.
+1. Als u de naam van een sectie wilt wijzigen, klikt u op de sectie om deze te selecteren, typt u de gewenste naam onder Titel en klikt u op **Toepassen**. Herhaal deze bewerking voor elke sectie.
 
    ![](assets/ten.png)
 
@@ -92,4 +92,3 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 1. Selecteer het dashboard dat u wilt verwijderen en klik op **Verplaatsen naar prullenmand**.
 
    ![](assets/fifteen.png)
-
