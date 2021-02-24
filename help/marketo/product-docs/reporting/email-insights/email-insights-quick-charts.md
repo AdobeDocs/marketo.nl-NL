@@ -3,7 +3,7 @@ unique-page-id: 10099415
 description: E-mailinzichten, snelle grafieken - Marketo-documenten - productdocumentatie
 title: E-mailinzichten, snelle grafieken
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
@@ -78,4 +78,3 @@ Wilt u een van uw snelle grafieken verwijderen? Het is gemakkelijk!
    ![](assets/eleven.png)
 
    Uw snelle diagram wordt nu verwijderd. Ik vertelde je dat het makkelijk was.
-
