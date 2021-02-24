@@ -3,7 +3,7 @@ unique-page-id: 10095084
 description: Afbeeldingsresultaten van de Ontdekkingsreiziger van de Inkomsten - Marketo DOS - de Documentatie van het Product
 title: Grafiekresultaten van de Ontdekkingsreiziger van de Inkomsten
 translation-type: tm+mt
-source-git-commit: 23428a6e0ba9b2108a8f2f7dd6a69929dd069834
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -76,4 +76,3 @@ Standaard worden rapporten in Indelingsverkenner weergegeven als een tabel. U ku
 1. Klik op de tabelknop om terug te gaan naar de tabelweergave.
 
    ![](assets/two-1.png)
-
