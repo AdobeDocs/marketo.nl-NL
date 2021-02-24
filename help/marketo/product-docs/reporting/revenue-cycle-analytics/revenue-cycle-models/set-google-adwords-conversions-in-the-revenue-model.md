@@ -3,7 +3,7 @@ unique-page-id: 6095029
 description: Google AdWords-conversies instellen in het inkomstenmodel - Marketo Docs - Productdocumentatie
 title: Google AdWords-conversies instellen in het inkomstenmodel
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%
@@ -17,9 +17,9 @@ Koppel uw Google AdWords-account aan Marketo om offline conversiegegevens van Ma
 
 >[!NOTE]
 >
->Dit is een push-integratie van Marketo in Google AdWords. Conversiegegevens worden *alleen* weergegeven in uw Google AdWords-portal,** niet in de Marketo-gebruikersinterface. **
+>Dit is een push-integratie van Marketo in Google AdWords. Conversiegegevens worden _alleen_ weergegeven in uw Google AdWords-portal, _niet in de Marketo-gebruikersinterface_.
 
-Meer informatie over de functie voor het importeren van offlineconversies van Google[.  ](https://support.google.com/adwords/answer/2998031?hl=en)  Wijs AdWords off-line omzettingen aan één of meerdere stadia in een model van de Inkomsten toe. U kunt de toewijzing op drie manieren uitvoeren:
+Meer informatie over de functie voor het importeren van offlineconversies van Google](https://support.google.com/adwords/answer/2998031?hl=en). [ Wijs AdWords off-line omzettingen aan één of meerdere stadia in een model van de Inkomsten toe. U kunt de toewijzing op drie manieren uitvoeren:
 
 * Advertentieconversie
 * Werkgebiedactie
@@ -29,11 +29,7 @@ U kunt nieuwe AddWords off-line omzetting van Marketo tot stand brengen als u de
 
 >[!PREREQUISITES]
 >
->* [Google AdWords toevoegen als een LaunchPoint-service](../../../../product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-
->
-
-
+>[Google AdWords toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
 ## Advertentieconversie {#use-adwords-conversion} gebruiken
 
