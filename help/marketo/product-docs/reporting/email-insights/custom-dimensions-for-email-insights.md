@@ -3,7 +3,7 @@ unique-page-id: 11375276
 description: Aangepaste Dimension voor e-mailinzicht - Marketo Docs - Productdocumentatie
 title: Aangepaste Dimension voor e-mailinzichten
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Alle standaardafmetingen voor markeren zijn inbegrepen, maar u kunt maximaal 10 
 
 >[!CAUTION]
 >
->Aangepaste afmetingen **KAN NIET** worden verwijderd of vervangen, dus kies zorgvuldig uw 10.
+>Aangepaste afmetingen **kunnen niet** worden verwijderd of vervangen, dus kies zorgvuldig uw 10.
 
 1. Klik in Email Insights op het tandwielpictogram rechtsboven op de pagina.
 
@@ -43,6 +43,4 @@ Alle standaardafmetingen voor markeren zijn inbegrepen, maar u kunt maximaal 10 
    >
    >**Op publiek**: Toont alle goedgekeurde Segmentaties (van binnen het Gegevensbestand)
    >
-   >
    >**Op inhoud**: Alle programmalabels weergeven
-
