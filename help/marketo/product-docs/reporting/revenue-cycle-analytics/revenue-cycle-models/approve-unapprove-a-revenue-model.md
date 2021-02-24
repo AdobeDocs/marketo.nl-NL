@@ -3,7 +3,7 @@ unique-page-id: 4718687
 description: Goedkeuren/goedkeuren van een inkomstenmodel - Marketo Docs - Productdocumentatie
 title: Een inkomstenmodel goedkeuren/goedkeuren
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -17,7 +17,7 @@ U kunt op elk moment slechts één goedgekeurd model hebben.
 
 >[!CAUTION]
 >
->[De individuele stadia moeten worden ](approving-stages-and-assigning-leads-to-a-revenue-model.md) goedgekeurd en de mensen worden toegevoegd alvorens u een volledig model goedkeurt.
+>[De individuele stadia moeten worden ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) goedgekeurd en de mensen worden toegevoegd alvorens u een volledig model goedkeurt.
 
 ## {#approve} goedkeuren
 
@@ -66,4 +66,3 @@ Gefeliciteerd! Uw model is nu niet goedgekeurd.
 >[!CAUTION]
 >
 >Als u een model goedkeurt, verwijdert u al uw mensen uit het model en verwijdert u hun geschiedenis in het model uit de database.
-
