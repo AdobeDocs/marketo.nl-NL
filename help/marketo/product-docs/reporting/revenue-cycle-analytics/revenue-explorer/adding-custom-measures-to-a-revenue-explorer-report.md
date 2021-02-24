@@ -3,7 +3,7 @@ unique-page-id: 10097747
 description: Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten - Marketo Docs - de Documentatie van het Product
 title: Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,7 +21,8 @@ In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte gre
 >
 >U hebt minstens één metrisch in uw rapport nodig, maar het moet niet één van de maatregelen zijn u gebruikt om uw douanemaatregel te bepalen.
 
-1. Trek over de gebieden u voor uw rapport nodig hebt. Zie [Velden toevoegen aan een Rapport van de Ontdekkingsreiziger van de Ontvangsten](adding-fields-to-a-revenue-explorer-report.md) voor details.
+1. Trek over de gebieden u voor uw rapport nodig hebt. Zie [Velden toevoegen aan een Rapport van de Ontdekkingsreiziger van de Ontvangsten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) voor details.
+
 1. Klik met de rechtermuisknop op een bestaande metrische waarde (blauwe cel), klik op **Door gebruiker gedefinieerde maatregel** en selecteer **Berekende maatregel**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
@@ -48,9 +49,4 @@ In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte gre
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](adding-fields-to-a-revenue-explorer-report.md)
-
-
+   >[Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
