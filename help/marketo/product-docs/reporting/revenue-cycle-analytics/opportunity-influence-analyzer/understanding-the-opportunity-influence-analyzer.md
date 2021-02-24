@@ -3,7 +3,7 @@ unique-page-id: 4718648
 description: Kennis van de Opportunity Influence Analyzer - Marketo Docs - Productdocumentatie
 title: De Opportunity Influence Analyzer begrijpen
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Met de Opportunity Influence Analyzer kunt u het hele verhaal zien. Het is zelfs
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**Let op de groene controles.** Zij wijzen op programmasucces voor één van de namen die op het recht worden gecontroleerd. Het groene gebied geeft het begin en einde van de opportuniteit aan.
+**Let op de groene controles**. Zij wijzen op programmasucces voor één van de namen die op het recht worden gecontroleerd. Het groene gebied geeft het begin en einde van de opportuniteit aan.
 
 >[!NOTE]
 >
@@ -41,10 +41,6 @@ Als u dit gedrag wilt behouden, kunt u overwegen uw gegevens te dedupliceren in 
 
 >[!MORELIKETHIS]
 >
->* [Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid](tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Een Opportunity Influence Analyzer maken](create-an-opportunity-influence-analyzer.md)
-
->
-
-
+>* [Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Een Opportunity Influence Analyzer maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
