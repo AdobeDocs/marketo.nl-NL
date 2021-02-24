@@ -3,7 +3,7 @@ unique-page-id: 7504047
 description: Creeer een Rapport van de Ontdekkingsreiziger van de Inkomsten - MarketoDocs - de Documentatie van het Product
 title: Een rapport van de inkomstenverkenner maken
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -17,10 +17,9 @@ Het rapport van de Ontdekkingsreiziger van de Ontvangsten staat u toe om ROI op 
 
 >[!AVAILABILITY]
 >
->
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Ga naar de **Ontdekkingsreiziger van de Ontvangsten **gebied.
+1. Ga naar **Indelingsverkenner** gebied.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
@@ -38,10 +37,5 @@ Het rapport van de Ontdekkingsreiziger van de Ontvangsten staat u toe om ROI op 
 
 >[!MORELIKETHIS]
 >
->* [Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](adding-fields-to-a-revenue-explorer-report.md)
->* [Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten](adding-custom-measures-to-a-revenue-explorer-report.md)
-
->
-
-
-
+>[Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>[Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
