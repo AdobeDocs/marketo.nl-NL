@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Bouw een E-mailanalyserapport dat de Informatie van het Programma - Marketo Docs - de Documentatie van het Product toont
 title: Een e-mailanalyserapport maken waarin programmagegevens worden weergegeven
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,6 @@ Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegeve
 
 >[!AVAILABILITY]
 >
->
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
 1. Start **Ontdekkingsreiziger van inkomsten**.
@@ -28,7 +27,7 @@ Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegeve
 
    ![](assets/image2014-9-17-19-3a42-3a32.png)
 
-1. Selecteer** E-mailanalyse* gebied en klik **OK**.
+1. Selecteer **E-mailanalyse** gebied en klik **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
@@ -44,7 +43,7 @@ Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegeve
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Dubbelklik op de gele punt van het ** Program Channel**.
+1. Dubbelklik op de gele punt **Programmakanaal**.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
@@ -59,11 +58,3 @@ Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegeve
    Geweldig werk! U zou een verslag moeten hebben dat ongeveer als dit kijkt:
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)
-
-   >[!NOTE]
-   >
-   >**Diep duiken**
-   >
-   >
-   >Wilt u meer informatie over [Inkoopcyclusverkenner](https://docs.marketo.com/display/docs/revenue+cycle+analytics)?
-
