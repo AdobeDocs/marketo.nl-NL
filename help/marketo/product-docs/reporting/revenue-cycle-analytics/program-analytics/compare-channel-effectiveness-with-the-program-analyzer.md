@@ -3,9 +3,9 @@ unique-page-id: 2360401
 description: Vergelijk de doeltreffendheid van het Kanaal met de Analysator van het Programma - Marketo Docs - de Documentatie van het Product
 title: Kanaaleffectiviteit vergelijken met de programmaanalyse
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -17,18 +17,17 @@ Gebruik Analyzer van het Programma om kanaalkosten, lidverwerving, pijpleiding, 
 
 >[!PREREQUISITES]
 >
->* [Een programmaanalyse maken](create-a-program-analyzer.md)
+>[Een programmaanalyse maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. Klik op **Analytics** in **My Marketo.**
+1. Klik op **Analytics** in **My Marketo**.
 
    ![](assets/image2014-9-17-18-3a36-3a13.png)
 
-1. Selecteer uw **Programmaanalyse.**
+1. Selecteer uw **Programmaanalyse**.
 
    ![](assets/image2014-9-17-18-3a36-3a40.png)
 
-1. Wijzig de weergave in **Door** **Kanaal**.
+1. Wijzig de weergave in **Door kanaal**.
 
    ![](assets/image2014-9-17-18-3a36-3a59.png)
 
@@ -62,7 +61,7 @@ Gebruik Analyzer van het Programma om kanaalkosten, lidverwerving, pijpleiding, 
 
    We zien dat het Webinar kanaal krimpt, zoals gemeten door **Nieuwe Namen**. We kunnen concluderen dat het, hoewel het veel leden heeft, minder effectief is in het genereren van nieuwe leads dan het Tradeshow-kanaal.
 
-1. Tot slot gebruik drop-down Kleur om de vierde dimensie toe te voegen. Selecteer **(FT) Revenue** **Won**.
+1. Tot slot gebruik drop-down Kleur om de vierde dimensie toe te voegen. Laten we **(FT) Revenue Won** selecteren.
 
    ![](assets/image2014-9-17-18-3a41-3a7.png)
 
@@ -84,13 +83,6 @@ In ons voorbeeld zien we dat het Tradeshow-kanaal zowel het duurste (het verst n
 
 >[!MORELIKETHIS]
 >
->* [Programma- en kanaalgegevens verkennen met de Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [De doeltreffendheid van het Programma met de Analysator van het Programma vergelijken](compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Programma- en kanaalgegevens verkennen met de Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [De doeltreffendheid van het Programma met de Analysator van het Programma vergelijken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
 
->
-
-
-
->[!NOTE]
->
->Meer informatie over geavanceerde analysemogelijkheden vindt u in [Indelingscyclusverkenner](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
