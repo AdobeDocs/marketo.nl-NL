@@ -3,9 +3,9 @@ unique-page-id: 4718685
 description: Het samenvoegen van twee Stages in de Modelleur van de Inkomsten - Marketo Docs - de Documentatie van het Product
 title: Twee fasen samenvoegen in de inkomstenmodellen
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Nadat u het model hebt goedgekeurd, kunt u geen stadia schrappen wanneer het uit
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
-1. `Right click the stage you want to merge and select`**`Merge Stage`**`in the menu.`
+1. Klik met de rechtermuisknop op het werkgebied dat u wilt samenvoegen en selecteer **Werkgebied samenvoegen** in het menu.
 
    ![](assets/image2015-4-29-15-3a10-3a6.png)
 
@@ -35,13 +35,10 @@ Nadat u het model hebt goedgekeurd, kunt u geen stadia schrappen wanneer het uit
 
    ![](assets/image2015-4-29-15-3a52-3a5.png)
 
-1. `You can re-approve the model by selecting`**`Approve Model Draft`**` in the **Model Actions** menu.`
+1. U kunt het model opnieuw goedkeuren door **ModelOntwerp** in **ModelActies** te selecteren menu.
 
-   ` ![](assets/image2015-4-29-16-3a5-3a53.png)
-
-   `
+   ![](assets/image2015-4-29-16-3a5-3a53.png)
 
 >[!NOTE]
 >
 >Kies **Geen** in het werkgebied Samenvoegen om de leads uit uw model te verwijderen
-
