@@ -3,9 +3,9 @@ unique-page-id: 12979010
 description: Overzicht van trends voor prestaties - Marketo Docs - Productdocumentatie
 title: Overzicht van trends voor prestaties
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Klik op het tabblad **Trend** om deze weergave te openen.
 
 ![](assets/2-1.png)
 
-Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken we de mogelijkheden die via [First Touch](https://docs.marketo.com/display/DOCS/Understanding+Attribution) zijn verkregen.
+Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken we de mogelijkheden die via [First Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) zijn verkregen.
 
 ![](assets/3-2.png)
 
@@ -54,4 +54,3 @@ Breid een kanaal uit om zijn hoogste tien programma&#39;s te zien, met de rester
 >[!NOTE]
 >
 >Als u op het selectievakje naast een kanaal klikt, wordt het kanaal in het donutdiagram geactiveerd of gedeactiveerd.
-
