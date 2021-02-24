@@ -3,9 +3,9 @@ unique-page-id: 2360403
 description: Vergelijk de doeltreffendheid van het programma met de Analysator van het Programma - Marketo Docs - de Documentatie van het Product
 title: De doeltreffendheid van het Programma met de Analysator van het Programma vergelijken
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,9 @@ Gebruik Analyzer van het Programma om uw meest en minst efficiënte programma&#3
 
 >[!PREREQUISITES]
 >
->* [Een programmaanalyse maken](create-a-program-analyzer.md)
+>[Een programmaanalyse maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-
-1. Klik op Analytics.
+1. Klik **Analytics**.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -38,7 +37,7 @@ Gebruik Analyzer van het Programma om uw meest en minst efficiënte programma&#3
 
    >[!TIP]
    >
-   >Een snelle manier om programma&#39;s aan enkel één kanaal te filtreren is **Mening > door Kanaal** te selecteren, de bel voor dat kanaal te klikken, en dan de kanaalnaam in pop-up dialoog te klikken.
+   >Een snelle manier om programma&#39;s aan enkel één kanaal te filtreren is **Mening** > **Door Kanaal**, de bel voor dat kanaal te selecteren, en dan de kanaalnaam in de pop-up dialoog te klikken.
 
 1. Gebruik de vervolgkeuzelijst X-as om een metrische waarde voor de horizontale as te kiezen. We beginnen met de programmakosten.
 
@@ -92,10 +91,6 @@ We zien dat het programma &quot;Paper Fest 12&quot; niet alleen van invloed is o
 
 >[!MORELIKETHIS]
 >
->* [Programma- en kanaalgegevens verkennen met de Program Analyzer](explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Kanaaleffectiviteit vergelijken met de programmaanalyse](compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [Programma- en kanaalgegevens verkennen met de Program Analyzer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Kanaaleffectiviteit vergelijken met de programmaanalyse](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
 
-
->[!NOTE]
->
->Meer informatie over geavanceerde analysemogelijkheden vindt u in [Indelingscyclusverkenner](https://docs.marketo.com/display/docs/revenue+cycle+analytics).
