@@ -3,7 +3,7 @@ unique-page-id: 11382593
 description: Het plaatsen van de Personalisatie van het Web om niet te volgen - Marketo Docs - de Documentatie van het Product
 title: Aanpassing van webpagina's niet bijhouden instellen
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -34,4 +34,3 @@ In de Personalisatie van het Web en de Voorspelende Inhoud, kan een telleraar ee
    >Als u de schakeloptie instelt op Aan, kan dit van invloed zijn op de waarde en functionaliteit van Marketo in specifieke gebieden.
 
 1. Selecteer **Uit** onder Honor DNT om de wissel-DNT-schakeloptie uit te schakelen en de DNT-instelling (Do No Track) van de browser te negeren.
-
