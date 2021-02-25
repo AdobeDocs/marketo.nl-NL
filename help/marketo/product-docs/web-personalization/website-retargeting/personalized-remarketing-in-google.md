@@ -3,9 +3,9 @@ unique-page-id: 4720810
 description: Persoonlijke opmerkingen in Google - Marketo Docs - Productdocumentatie
 title: Persoonlijke opmerkingen in Google
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,8 @@ Met gepersonaliseerde marketing kunt u opnieuw contact opnemen met uw gebruikers
 
 >[!PREREQUISITES]
 >
->* Voltooi [Opnieuw richtend met de Configuratie van de Personalisatie van het Web ](retargeting-with-web-personalization-data.md)
->* Revisie [Opmerkingen plaatsen met Google Analytics Help](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645)-documentatie
-
->
-
+>* Voltooi [Opnieuw richtend met de Configuratie van de Personalisatie van het Web ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* Bekijk [Opmerking met Google Analytics Help](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) documentatie.
 
 
 ## Een opmerkelijk publiek maken in Google {#creating-a-remarketing-audience-in-google}
@@ -34,8 +31,7 @@ Met gepersonaliseerde marketing kunt u opnieuw contact opnemen met uw gebruikers
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
-1. **Configuratie** koppeling: Link naar uw Google Adwords-account
-1. **Publiek** definiëren: Klik op  **Nieuw** maken.
+1. **Configuratie** koppeling: Link naar uw Google Adwords-account. **Publiek** definiëren: Klik op  **Nieuw** maken.
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
@@ -59,9 +55,6 @@ In Google Universal Analytics:
 >* Gebeurteniscategorie: RTP-Segment, RTP-Campagne RTP-Markketing
 >* Gebeurtenislabel: Segmentnaam, naam campagne, segmentnaam publiek
 
->
-
-
 
 **Voorbeeld van het opmerken Publiek van RTP Gesegmenteerde Gegevens van het Publiek**
 
@@ -77,7 +70,7 @@ In Google Universal Analytics:
 ![](assets/image2015-1-15-17-3a36-3a5.png)
 
 1. Klik **Reeksen**.
-1. Selecteer** RTP-Industry*.
+1. Selecteer **RTP-Industry**.
 1. Voer **Naam van industrie** in (bijv. Financiële diensten, onderwijs...).
 1. Klik **Toepassen**.
 1. Voer een **Audience Name** in. Klik **Opslaan**.
@@ -105,6 +98,6 @@ In Google Universal Analytics:
 
 >[!MORELIKETHIS]
 >
->* [Opnieuw toewijzen met webpersonalisatiegegevens](retargeting-with-web-personalization-data.md)
->* [Persoonlijke opmerkingen op Facebook](personalized-remarketing-in-facebook.md)
+>* [Opnieuw toewijzen met webpersonalisatiegegevens](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Persoonlijke opmerkingen op Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
