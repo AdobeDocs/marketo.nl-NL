@@ -3,9 +3,9 @@ unique-page-id: 7513771
 description: Aanmelden en gebruikersbeheer - Marketo-documenten - Productdocumentatie
 title: Aanmelding en gebruikersbeheer
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -31,13 +31,13 @@ ht-degree: 0%
 
    ![](assets/three-1.png)
 
-1. Voer een rolnaam in en selecteer Machtigingen. Klik **Maken** (deze rol moet [van toepassing zijn op alle werkruimten](https://docs.marketo.com/display/DOCS/Managing+Marketo+Users#ManagingMarketoUsers-CreateUsers)).
+1. Voer een rolnaam in en selecteer Machtigingen. Klik **Maken** (deze rol moet [van toepassing zijn op alle werkruimten](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Om gebruikers toestemming te geven om tot alles in het richten en Personalisatie toegang te hebben, ben zeker om *all* checkboxes te selecteren.
+   >Om gebruikers toestemming te geven om tot alles in het richten en Personalisatie toegang te hebben, ben zeker om _all_ checkboxes te selecteren.
 
 ## Rechten van gebruikers voor webpersonalisatie en voorspellende inhoud {#web-personalization-and-predictive-content-user-permissions}
 
