@@ -3,7 +3,7 @@ unique-page-id: 2949162
 description: Rapportabonnementen inschakelen/uitschakelen - Marketo Docs - Productdocumentatie
 title: Rapportabonnementen in-/uitschakelen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -24,4 +24,3 @@ Web Personalization heeft verscheidene nuttige rapporten die via e-mail worden v
    ![](assets/email-settings.png)
 
    Dat is het! Om van het rapport eenvoudig af te melden uncheck en te klikken **sparen**.
-
