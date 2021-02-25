@@ -3,7 +3,7 @@ unique-page-id: 3571927
 description: Web Personalization Glossary - Marketo Docs - Productdocumentatie
 title: Woordenlijst voor webpersonalisatie
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Sommige inzichten in de wereld en de taal van Marketo Web Personalization.
 | **ISP** | Internet Service Provider |
 | **Bekende bezoeker** | Een webbezoeker die een formulier heeft ingevuld en zijn gegevens (e-mailadres) op uw website heeft achtergelaten of op een koppeling in een e-mailbericht van Marketo heeft geklikt. |
 | **Accountlijst** | Een lijst met sleutelnamen voor accounts en organisaties. Wordt ook wel een ABM-lijst (Account-Based Marketing) genoemd. |
-| **Segmenten** | Een verzameling bezoekers die voldoen aan de opgegeven criteria die zijn gedefinieerd op de pagina [&quot;Een segment instellen&quot;](../../../product-docs/web-personalization/using-web-segments/web-segments.md). |
+| **Segmenten** | Een verzameling bezoekers die voldoen aan de opgegeven criteria die zijn gedefinieerd op de pagina [&quot;Een segment instellen&quot;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
 | **Gesplitste tests** | Een testexperiment met twee of meer varianten om het verschil in resultaten te meten. Het doel is om wijzigingen in webpagina&#39;s vast te stellen die het resultaat van interesse verhogen of maximaliseren. |
 | **Jokerteken** | Een jokerteken (* wordt gebruikt) dat voor of na een tekenreeks wordt gebruikt ter vervanging van andere tekens in een tekenreeks. Zie de onderstaande voorbeelden. |
 
@@ -42,4 +42,3 @@ Alle bezoekers op pagina-URL&#39;s die beginnen met https:// (bijvoorbeeld [http
 Alle bezoekers op pagina-URL&#39;s afstemmen die het woord back-up bevatten (bijvoorbeeld [https://www.marketo.com/backup/pricing.html):](https://www.marketo.com/backup/pricing.html):)
 
 ![](assets/wildcard-example-3.png)
-
