@@ -3,7 +3,7 @@ unique-page-id: 7504051
 description: Persoonlijke gegevens beheren - Marketo Docs - Productdocumentatie
 title: Persoonlijke gegevens beheren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -15,10 +15,12 @@ ht-degree: 0%
 
 De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het Web door persoongebieden te selecteren in uw segmentatie te gebruiken.
 
-1. Ga naar **Accountinstellingen**.\
+1. Ga naar **Accountinstellingen**.
+
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Ga naar **Database**.\
+1. Ga naar **Database**.
+
    ![](assets/account-settings-dropdown-database.jpg)
 
 ## Een veld Nieuwe persoon toevoegen {#adding-a-new-person-field}
@@ -29,11 +31,7 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
 
    >[!NOTE]
    >
-   >
-   >    
-   >    
-   >    * Er wordt een nieuw veld toegevoegd in een status die in behandeling is en het kan 24 uur duren om het veld te activeren.
-
+   >Er wordt een nieuw veld toegevoegd in een status die in behandeling is en het kan 24 uur duren om het veld te activeren.
 
 ## Een personenveld {#deleting-a-person-field} verwijderen
 
@@ -45,13 +43,11 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
    >
    >**De gegevensvelden van uw persoon beheren**
    >
-   >    
-   >    
-   >    * Alleen velden met persoonlijke gegevens kunnen worden opgenomen
-   >    * U kunt maximaal 30 gegevensvelden voor personen toevoegen
-   >    * Het toevoegen van nieuwe velden kan tot 24 uur duren om te activeren
-   >    * Maximale lengte van tekenreekstypen is 255 tekens
-   >    * Verborgen velden worden automatisch verwijderd
+   >* Alleen velden met persoonlijke gegevens kunnen worden opgenomen
+   >* U kunt maximaal 30 gegevensvelden voor personen toevoegen
+   >* Het toevoegen van nieuwe velden kan tot 24 uur duren om te activeren
+   >* Maximale lengte van tekenreekstypen is 255 tekens
+   >* Verborgen velden worden automatisch verwijderd
 
 
 <table> 
@@ -108,9 +104,4 @@ De volgende belangrijke gebieden worden verstrekt uit de doos voor nieuwe rekeni
 
 >[!MORELIKETHIS]
 >
->* [Een segment maken met bekende persoongegevens](create-a-segment-using-known-person-data.md)
-
->
-
-
-
+>[Een segment maken met bekende persoongegevens](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
