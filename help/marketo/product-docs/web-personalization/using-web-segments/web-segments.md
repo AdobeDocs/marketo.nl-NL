@@ -3,7 +3,7 @@ unique-page-id: 4719093
 description: Websegmenten - Marketo Docs - Productdocumentatie
 title: Websegmenten
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '2031'
 ht-degree: 0%
@@ -54,7 +54,7 @@ In Personalisatie van het Web, kan een bezoeker meer dan één segment aanpassen
  </tbody> 
 </table>
 
-Zie [Segmentlabels maken en weergeven](label-your-segment.md)
+Zie [Segmentlabels maken en weergeven](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
 **Segmenten - Rechterdeelvenster**
 
@@ -108,23 +108,32 @@ Definieer algemene parameters voor uw segment:
 >1. Alle filters gebruiken (1 en 2 en 3...)
 >1. Alle filters gebruiken (1, 2 of 3...)
 >1. Geavanceerde filters (met en/of expressies)
->
->    Met geavanceerde filters kunt u de segmentvoorwaarde bepalen. Voer de filternummers in, gescheiden door &quot;en&quot; en &quot;of&quot;.
->
->    * 1, 2 en 3
->    * 1 of 2 of 3
->
->    Het mengen van &quot;en&quot; en &quot;of&quot; vereist haakjes om logische intentie te verduidelijken. bijv. &quot;1 of 2 and 3&quot; moet worden geschreven als een van de volgende vermeldingen:
->
->    * 1 en (2 of 3)
->    * (1 en 2) of 3
->
->    Geneste haakjes worden geaccepteerd voor complexere logica, bijvoorbeeld
->
->    * (1 en 2) of (3 en 4)
->    * 1 en (2 of (3 en 4))
->
->    Controleer uw logica na het invoegen, verwijderen of opnieuw rangschikken.
+
+   >
+   >    
+   Met geavanceerde filters kunt u de segmentvoorwaarde bepalen. Voer de filternummers in, gescheiden door &quot;en&quot; en &quot;of&quot;.
+   >
+   >    
+   * 1, 2 en 3
+   >    * 1 of 2 of 3
+
+   >
+   >    Het mengen van &quot;en&quot; en &quot;of&quot; vereist haakjes om logische intentie te verduidelijken. bijv. &quot;1 of 2 and 3&quot; moet worden geschreven als een van de volgende vermeldingen:
+   >
+   >    
+   * 1 en (2 of 3)
+   >    * (1 en 2) of 3
+
+   >
+   >    Geneste haakjes worden geaccepteerd voor complexere logica, bijvoorbeeld
+   >
+   >    
+   * (1 en 2) of (3 en 4)
+   >    * 1 en (2 of (3 en 4))
+
+   >
+   >    Controleer uw logica na het invoegen, verwijderen of opnieuw rangschikken.
+
 
 De attributen van het Segment van de belemmering en van het daling van de rechterzijkolom in de segmentredacteur op de linkerkant:
 
@@ -170,18 +179,18 @@ Schakel onder de sectie **Profielsegmentatie** het vakje naast **Organisatie-gro
    * Ondernemingen - Omvat organisaties met meer dan 1.000 werknemers en inkomsten van meer dan 250 miljoen dollar
    * SMB - omvat slechts kleine en middelgrote ondernemingen in dit segment
 
-**Benoemde accounts**
+**-Benoemde accounts-**
 
 **Organisaties**
 
 * **Is afkomstig van deze ondernemingen (specifieke namen)**
 
    * Selecteer een bedrijf dat u als doel wilt instellen in de vervolgkeuzelijst &#39;Bedrijf selecteren om toe te voegen&#39;.
-   * U kunt de exacte organisatienaam typen waarop u zich wilt richten. *Het is *always *geadviseerd om de Lijsten van de Benoemde Rekening te gebruiken in plaats van de namen manueel voor betere gelijken (zie hieronder) te typen.*
+   * U kunt de exacte organisatienaam typen waarop u zich wilt richten. *Het is _always_ geadviseerd om de Lijsten van de Benoemde Rekening in plaats van het typen van de namen manueel voor betere gelijken (zie hieronder) te gebruiken.
 
 **Lijst met benoemde accounts**
 
-Selecteer uit een [Benoemde Lijst van de Rekening](../../../product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) om zeer belangrijke gerichte rekeningen te segmenteren
+Selecteer een [Benoemde lijst van de Rekening](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) om zeer belangrijke gerichte rekeningen te segmenteren.
 
 ![](assets/image2015-5-27-17-3a14-3a8.png)
 
@@ -199,7 +208,7 @@ Sluit de Dienstverleners van Internet (ISPs) van het segment uit.
 
 De Personalisatie van het Web integreert met uw Gegevensbestand van het Marketo, toestaand u om campagnes door bekende persoonattributen en gegevens te segmenteren en te personaliseren.
 
-Selecteer Gegevensbestand, en selecteer een gebied van persoongegevens van drop-down. Selecteer   **+** om gebieden van drop-down toe te voegen.
+Selecteer Gegevensbestand, en selecteer een gebied van persoongegevens van drop-down. Selecteer **+** om gebieden van drop-down toe te voegen.
 
 ![](assets/seven.png)
 
@@ -262,7 +271,7 @@ Het mobiele besturingssysteem naar de Segment-editor slepen
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
-* **Type bezoeker**
+* **Type bezoeker**<br />
 
    **Mobiel besturingssysteem** : selecteer in de keuzelijst een of meer vermelde mobiele besturingssystemen. Het geselecteerde mobiele besturingssysteem wordt hieronder weergegeven.
 
@@ -319,8 +328,8 @@ U kunt geen segment verwijderen dat aan een campagne is gekoppeld. Eerst moet u 
 Geweldig! Nu u de sectie van Segmenten begrijpt, leren wij over campagnes.
 
 >[!MORELIKETHIS]
-* [Een basiswebsegment maken](create-a-basic-web-segment.md)
-* [Nieuwe webcampagne voor dialoog maken](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
-* [Nieuwe webcampagne maken in zone](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
-* [Nieuwe widgetwebcampagne maken](../../../product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Een basiswebsegment maken](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [Nieuwe webcampagne voor dialoog maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Nieuwe webcampagne maken in zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Nieuwe widgetwebcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
