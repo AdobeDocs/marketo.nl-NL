@@ -3,7 +3,7 @@ unique-page-id: 4720236
 description: Een segment maken met een accountlijst - Marketo Docs - Productdocumentatie
 title: Een segment maken met een accountlijst
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -17,11 +17,7 @@ Hier is hoe te om een segment tot stand te brengen gebruikend een Lijst van de R
 
 >[!PREREQUISITES]
 >
->* [Een nieuwe accountlijst maken](../../../product-docs/account-based-marketing/target/account-lists.md)
-
->
-
-
+>[Een nieuwe accountlijst maken](/help/marketo/product-docs/account-based-marketing/target/account-lists.md)
 
 1. Ga naar **Segmenten**.
 
@@ -43,7 +39,8 @@ Hier is hoe te om een segment tot stand te brengen gebruikend een Lijst van de R
    >
    >De Lijsten van de rekening worden gesynchroniseerd van ABM aan de Personalisatie van het Web voor gebruik in Segmentatie. Selecteer ze in de vervolgkeuzelijst. Het synchroniseren kan maximaal vijf minuten duren. Deze wordt alleen gesynchroniseerd als de accountlijst een of meer benoemde accounts bevat.
 
-1. Klik **Opslaan** of klik **Campagne opslaan en definiëren** om naar de pagina Campagnes te gaan.\
+1. Klik **Opslaan** of klik **Campagne opslaan en definiëren** om naar de pagina Campagnes te gaan.
+
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
 Gefeliciteerd! U hebt nu een segment ingesteld dat zich richt op een accountlijst.
