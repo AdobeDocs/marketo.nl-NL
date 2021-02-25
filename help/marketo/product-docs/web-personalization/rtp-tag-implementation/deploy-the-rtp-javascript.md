@@ -3,9 +3,9 @@ unique-page-id: 4719332
 description: Implementeer de RTP JavaScript - Marketo Docs - Productdocumentatie
 title: De RTP JavaScript implementeren
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Volg onderstaande installatie-instructies om uw RTP-tag te genereren en in te st
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Zoek in **Domein** en **Domeinconfiguratie** het relevante domein en klik op **Label genereren.**
+1. Zoek in **Domein** en **Domeinconfiguratie** het relevante domein en klik op **Label genereren**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -42,8 +42,3 @@ Volg onderstaande installatie-instructies om uw RTP-tag te genereren en in te st
    U bent nu opstelling met de markering RTP en klaar om [het creëren van segmenten](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) en campagnes in real time te beginnen!
 
 1. Verifieer de markering op alle pagina&#39;s is.
-
->[!MORELIKETHIS]
->
->* [Implementatie RTP-tag](https://docs.marketo.com/display/docs/rtp+tag+implementation)
-
