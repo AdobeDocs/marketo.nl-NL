@@ -3,9 +3,9 @@ unique-page-id: 2949158
 description: Integreer RTP met Google Analytics - Marketo Docs - de Documentatie van het Product
 title: Integreer RTP met Google Analytics
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '608'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 >
 >
-Zie hoe u [Web Personalization kunt integreren met Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+Zie hoe u [Web Personalization kunt integreren met Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
 ## Inleiding {#introduction}
 
@@ -66,19 +66,23 @@ Meet uw campagnes RTP en correleer hen met uw algemeen plaatsgemiddelde. Leer ho
 
 ## RTP instellen met Google Analytics {#setting-up-rtp-with-google-analytics}
 
-1. Voeg het e-mailbericht [`[email protected]`](https://docs.marketo.com/cdn-cgi/l/email-protection#0674727628616734466b67746d6372692865696b) toe als een gebruiker voor lezen en analyseren aan uw GA-account. Zie [hier](https://support.google.com/analytics/answer/2884495?hl=en) voor meer informatie.
+1. Voeg het e-mailadres rtp.ga2@gmail.com als een gebruiker voor lezen en analyseren toe aan uw GA-account. Zie [hier](https://support.google.com/analytics/answer/2884495?hl=en) voor meer informatie.
+
 1. In uw RTP-account. Ga naar **Accountinstellingen**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. Onder **Accountinstellingen**, **Domein** en **Analytics**
-1. Klik op** Google Analytics.**
+1. Onder **Accountinstellingen**, **Domein** en **Analytics**.
+
+1. Klik op **Google Analytics**.
+
 1. Schakel de relevante **Aangepaste variabelen** en **Gebeurtenissen** in om deze gegevens van RTP aan Google Analytics toe te voegen.
+
 1. Voer het getal **Slot** in om aangepaste variabele gegevens te verzenden (de standaardwaarde is 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-Klik **OPSLAAN**.
+1. Klik **Opslaan**.
 
 >[!NOTE]
 >
