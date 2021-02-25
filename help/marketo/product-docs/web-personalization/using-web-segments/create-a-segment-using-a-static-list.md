@@ -3,9 +3,9 @@ unique-page-id: 13795536
 description: Een segment maken met een statische lijst - Marketo Docs - Productdocumentatie
 title: Een segment maken met een statische lijst
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een segment maken met een statische lijst {#create-a-segment-using-a-static-list}
 
-Een segment maken van bekende webbezoekers wanneer ze uw website bezoeken, op basis van de vraag of ze zich in een van uw Marketo [statische lijsten](https://docs.marketo.com/display/DOCS/Understanding+Static+Lists) bevinden.
+Een segment maken van bekende webbezoekers wanneer ze uw website bezoeken, op basis van de vraag of ze zich in een van uw Marketo [statische lijsten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) bevinden.
 
 1. Ga naar **Segmenten**.
 
@@ -27,7 +27,7 @@ Een segment maken van bekende webbezoekers wanneer ze uw website bezoeken, op ba
 
    ![](assets/three.png)
 
-1. Sleep **Statische lijsten **over in bekende leads naar het canvas.
+1. In Bekende Leads, sleep **Statische Lijsten** over aan het canvas.
 
    ![](assets/four-2.png)
 
@@ -45,9 +45,8 @@ Een segment maken van bekende webbezoekers wanneer ze uw website bezoeken, op ba
 
    >[!NOTE]
    >
-   >De en/of vervolgkeuzelijst is dat. Klik op het bestand om **en**, **of** of **and/or** te selecteren.
+   >De en/of drop-down is enkel dat. Klik op het bestand om **en**, **of** of **and/or** te selecteren.
 
-1. Klik **sparen** om het segment op te slaan of **sparen &amp; bepalen Campagne **om te bewaren en naar de pagina van Campagnes te gaan.
+1. Klik **Opslaan** om het segment op te slaan of **Campagne opslaan en definiëren** om op te slaan en naar de pagina Campagnes te gaan.
 
    ![](assets/eight-1.png)
-
