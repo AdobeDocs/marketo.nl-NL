@@ -3,9 +3,9 @@ unique-page-id: 4719344
 description: Creeer een BasisSegment van het Web - Marketo Docs - de Documentatie van het Product
 title: Een basiswebsegment maken
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Laten we een basissegment maken voor alle webbezoekers uit de VS en de financië
 
    ![](assets/segment-name.png)
 
-1. Sleep **Locatie **vanuit het rechtermenu en zet deze neer in de segmenteditor.
+1. Sleep **Location** van het juiste menu en laat vallen het in de segmentredacteur.
 
    ![](assets/location-drag-hand.jpg)
 
@@ -39,17 +39,17 @@ Laten we een basissegment maken voor alle webbezoekers uit de VS en de financië
    >
    >Het aantal steden is beperkt tot 300 per segment.
 
-1. Sleep **Industries **van het juiste menu en laat vallen het in de segmentredacteur.
+1. Sleep **Industries** van het juiste menu en laat vallen het in de segmentredacteur.
 
    ![](assets/industries-hand.jpg)
 
-1. Selecteer in het keuzemenu Industrieën die u wilt toevoegen. Selecteer de **Financial Services ****Industrie**.
+1. Selecteer in het keuzemenu Industrieën die u wilt toevoegen. Selecteer **Financial Services Industry**.
 
    ![](assets/segment-industries.png)
 
    U hebt nu een basissegment opgezet voor alle vooruitzichten om uw website van de VS en de financiële industrie te bezoeken.
 
-1. Klik op** Opslaan **om het segment op te slaan of op **Campagne opslaan en definiëren** om naar de pagina Campagnes te gaan.
+1. Klik **Opslaan** om het segment op te slaan of **Campagne opslaan en definiëren** om naar de pagina Campagnes te gaan.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
@@ -57,9 +57,4 @@ Nu hebt u uw bezoekers uit de Verenigde Staten gesegmenteerd, ga door en voeg de
 
 >[!MORELIKETHIS]
 >
->* [Websegmenten](https://docs.marketo.com/x/9QFI)
-
->
-
-
-
+>[Websegmenten](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
