@@ -3,9 +3,9 @@ unique-page-id: 4720232
 description: Een nieuwe accountlijst maken - Marketo Docs - Productdocumentatie
 title: Een nieuwe accountlijst maken
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,6 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
    >
    >**Wat is de indeling voor het CSV-bestand?**
    >
-   >
    >Zorg ervoor dat het CSV-bestand van de benoemde account aan de volgende vereisten voldoet:
    >
    >* Opgeslagen als CSV-indeling
@@ -50,8 +49,6 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
 
    >[!NOTE]
    >
-   >**Voorbeeld**
-   >
    >**Voorbeeld van het CSV-bestand**
    >
    >* Rij 1 kolom A waarde = Organisatie
@@ -62,16 +59,16 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
    >* Land en staat zijn optionele waarden.
 
       >
-      >  
-   * Gebruik voor de naam van het land de volledige naam van het land of de afkorting. Eg. Verenigde Staten of VS.
-   >  * Voor een Amerikaanse staat gebruikt u de 2-letterige afkorting code, d.w.z. CA. Alleen staten in de VS worden herkend.
+      >   
+      * Gebruik voor de naam van het land de volledige naam van het land of de afkorting. Eg. Verenigde Staten of VS.
+      >   * Voor een Amerikaanse staat gebruikt u de 2-letterige afkorting code, d.w.z. CA. Alleen staten in de VS worden herkend.
 
-   >    
+   >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 
 ## Een accountlijst bewerken {#edit-an-account-list}
 
-Klik op de pagina **Accountlijsten** op het pictogram **Bewerken **in de lijst.
+Klik op de pagina **Accountlijsten** op het pictogram **Bewerken** in de lijst.
 
 ![](assets/create-new-account-list-edit.jpg)
 
@@ -83,7 +80,7 @@ Het bestaande bestand wordt vervangen door het CSV-bestand. De bestaande lijst b
 
 ## Een lijst met benoemde accounts verwijderen {#delete-a-named-account-list}
 
-1. Klik op de pagina **Accountlijsten **op het pictogram **Verwijderen **van de lijst die u wilt verwijderen.
+1. Klik op de pagina **Accountlijsten** op het pictogram Verwijderen van de lijst die u wilt verwijderen.
 
    ![](assets/create-new-account-list-delete.jpg)
 
@@ -93,6 +90,4 @@ Het bestaande bestand wordt vervangen door het CSV-bestand. De bestaande lijst b
 
 >[!MORELIKETHIS]
 >
->* [Een segment maken met een accountlijst](create-a-segment-using-an-account-list.md)
->* [Een lijst met benoemde accounts weergeven](https://docs.marketo.com/pages/viewpage.action?pageid=4720244)
-
+>[Een segment maken met een accountlijst](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
