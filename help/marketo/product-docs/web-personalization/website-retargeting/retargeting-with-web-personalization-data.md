@@ -3,9 +3,9 @@ unique-page-id: 4720796
 description: Wederopneming met de Gegevens van de Personalisatie van het Web - Marketo Docs - de Documentatie van het Product
 title: Opnieuw toewijzen met webpersonalisatiegegevens
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,14 @@ ht-degree: 0%
 
 >[!AVAILABILITY]
 >
->
 >Het opnieuw plaatsen van websites valt nu onder de tegel voor webpersonalisatie. Als u alleen Retargeting hebt aangeschaft, wordt deze tegel weergegeven en hebt u toegang tot het webproduct voor personalisatie met de functie **only** Retargeting ingeschakeld. Op deze manier hebt u toegang tot accountinstellingen, de pagina Opnieuw rangschikken, segmenten en extra pagina&#39;s voor bijhouden.
 
 Opmerkingen zijn gericht op de vooruitzichten die uw site in het verleden hebben bezocht, met behulp van weergaveadvertenties op basis van wie ze zijn en wat ze hebben gedaan. Speciale doelgroepen richten zich op specifieke doelgroepen met relevante advertenties op basis van de industrie, benoemde accounts en bekende persoongegevens.
 
 De Personalisering van het Web voegt momenteel gegevens aan de volgende remarketing platforms toe:
 
-* [Google](personalized-remarketing-in-google.md)
-* [Facebook](personalized-remarketing-in-facebook.md)
+* [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
+* [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
 De Personalisering van het Web verzendt de volgende gegevens door naar de remarketing platforms om publiek tot stand te brengen en remarketing ad campagnes in werking te stellen:
 
@@ -69,12 +68,11 @@ De Personalisering van het Web verzendt de volgende gegevens door naar de remark
    >
    >De Google-tag voor opnieuw plaatsen moet op uw website worden geïmplementeerd.
    >
-   >
    >Als u reeds uw Integratie met de Personalisering van het Web en Google Analytics opstelde, te hoeven u niet om dit deel uit te geven aangezien het de zelfde configuratie onder de Montages van de Rekening is.
 
    ![](assets/two.png)
 
-1. Activeer de configuratie voor Facebook. Klik op de Facebook-accordeon en vouw deze uit. Klik op **Op **om de desbetreffende gebeurtenis en gegevens naar de Facebook-Audience Manager te verzenden. Klik **Opslaan**.
+1. Activeer de configuratie voor Facebook. Klik op de Facebook-accordeon en vouw deze uit. Klik op **On** om de desbetreffende gebeurtenis en gegevens naar de Facebook-Audience Manager te verzenden. Klik **Opslaan**.
 
    >[!NOTE]
    >
@@ -98,12 +96,6 @@ Met een gesegmenteerd publiek kunt u een bestaand segment selecteren als een pub
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Klik **OPSLAAN**.
+1. Klik **Opslaan**.
 
    U hebt nu de Opnieuw richtende Opstelling in de Personalisering van het Web voltooid, login aan uw het opnieuw richten platforms en creeer uw publiek dat op deze gegevens wordt gebaseerd en opstelling uw het opnieuw richten advertentiecampagnes.
-
->[!MORELIKETHIS]
->
->* [Persoonlijke opmerkingen in Google](personalized-remarketing-in-google.md)
->* [Persoonlijke opmerkingen op Facebook](personalized-remarketing-in-facebook.md)
-
