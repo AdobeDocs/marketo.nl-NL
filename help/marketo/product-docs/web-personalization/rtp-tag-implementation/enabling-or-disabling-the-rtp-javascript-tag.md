@@ -3,7 +3,7 @@ unique-page-id: 10097163
 description: Het toelaten van of het onbruikbaar maken van de Markering JavaScript van RTP - de Documentatie van het Product
 title: De RTP JavaScript-tag in- of uitschakelen
 translation-type: tm+mt
-source-git-commit: d88fb92a00e4c20509617e6ef8b2e51b66cc085b
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -34,4 +34,3 @@ De tag RTP JavaScript bepaalt of Web Personalization de webactiviteit bijhoudt o
 1. Om de markering RTP, in de Configuratie van het Domein en van het Domein, onder Markering toe te laten, selecteer **On** knevel.
 
    Eenvoudig.
-
