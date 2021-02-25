@@ -3,9 +3,9 @@ unique-page-id: 7504238
 description: Aangepaste RTP-dashboards in Google Universal Analytics - Marketo Docs - Productdocumentatie
 title: Aangepaste RTP-dashboards in Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '748'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[RTP integreren met Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[RTP integreren met Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-In dit artikel wordt uitgelegd hoe u RTP-dashboards kunt instellen in Google Universal Analytics (GUA).  De gegevens die van RTP naar GUA worden verzonden kunnen opstelling als twee afzonderlijke geroepen douanedashboards zijn:
+In dit artikel wordt uitgelegd hoe u RTP-dashboards kunt instellen in Google Universal Analytics (GUA). De gegevens die van RTP naar GUA worden verzonden kunnen opstelling als twee afzonderlijke geroepen douanedashboards zijn:
 
 * RTP B2B
 * RTP-betrokkenheid
 
 ## Een aangepast dashboard instellen {#setting-up-a-custom-dashboard}
 
-1. Meld u aan bij Google Analytics. Klik op **Rapportage **in het hoogste menu. Klik op **Dashboards **and **+New Custom Dashboard.**
+1. Meld u aan bij Google Analytics. Klik op **Rapportage** in het hoogste menu. Klik op **Dashboards** en **+New Custom Dashboard**.
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
 1. Selecteer **Leeg canvas**, voeg een **Naam dashboard** toe en klik **Dashboard maken**.
 
-1. Klik op **Widget toevoegen** om een nieuwe widget te maken.\
+1. Klik op **Widget toevoegen** om een nieuwe widget te maken.
+
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
 ## RTP B2B-dashboard {#rtp-b-b-dashboard}
@@ -45,7 +46,7 @@ Het dashboard bestaat uit drie kolommen
 * Segmentering
 * Ingebouwde boor omlaag
 
-1. Maak een nieuw dashboard met de naam **RTP B2B-dashboard **en definieer de volgende widgets:
+1. Maak een nieuw dashboard met de naam **RTP B2B Dashboard** en definieer de volgende widgets:
 
 ![](assets/image2015-3-22-16-3a50-3a3.png)
 
@@ -54,7 +55,7 @@ Het dashboard bestaat uit drie kolommen
   <tr> 
    <th> 
     <div>
-      Kolom 1 - Verkeersbronnen 
+      Kolom 1 - Verkeersbronnen
     </div></th> 
    <th> 
     <div> <strong>Kolom 2 - Segmentering</strong> 
@@ -151,11 +152,9 @@ Het dashboard bestaat uit drie kolommen
 
 Met dit dashboard kunnen gebruikers hun RTP-prestaties en aanbevelingen voor de engine voor services analyseren. Het biedt een vergelijking van avg. sessieduur en pagina&#39;s per sessie tussen:
 
-* 
-
-   * Niet-actief
-   * Gecentreerd (impressies en klikken op een gepersonaliseerde campagne)
-   * Klik op de engine voor aanbevelingen en de aanbevolen inhoud als eerste
+* Niet-actief
+* Gecentreerd (impressies en klikken op een gepersonaliseerde campagne)
+* Klik op de engine voor aanbevelingen en de aanbevolen inhoud als eerste
 
 Maak een nieuw dashboard met de naam **RTP Engagement Dashboard** en definieer de volgende widgets:
 
@@ -265,7 +264,6 @@ Maak een nieuw dashboard met de naam **RTP Engagement Dashboard** en definieer d
 
 >[!MORELIKETHIS]
 >
->[RTP integreren met Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[RTP integreren met Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
 >
->[Aangepaste RTP-rapporten in Google Universal Analytics](custom-rtp-reports-in-google-universal-analytics.md)
-
+>[Aangepaste RTP-rapporten in Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
