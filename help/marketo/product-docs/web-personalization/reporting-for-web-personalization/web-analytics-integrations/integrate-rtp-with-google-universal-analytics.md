@@ -3,9 +3,9 @@ unique-page-id: 4720125
 description: RTP integreren met Google Universal Analytics - Marketo Docs - Productdocumentatie
 title: RTP integreren met Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -25,18 +25,15 @@ Google Universal Analytics met RTP-gegevens biedt u een beter inzicht in de mani
 
 >[!NOTE]
 >
->**`For Google Tag Manager Users Only`**
+>**Alleen voor gebruikers van Google Tag Manager**
 >
 >Er hoeft geen codering of speciale configuratie te worden uitgevoerd. Controleer of u de volgende checklist invult:
 >
->* `RTP dimensions are created in Google Universal Analytics`
+>* RTP-afmetingen worden gemaakt in Google Universal Analytics
 >* [De RTP-tag is correct geïnstalleerd in Google Tag Manager](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
->* `Google Universal Analytics Integration is enabled in the RTP's Account Settings`
+>* De integratie van Google Universal Analytics is ingeschakeld in de accountinstellingen van RTP
 >* [De Google Universal Analytics-tag is correct geconfigureerd in Google Tag Manager](https://support.google.com/tagmanager/answer/6107124?hl=en)
 >* [De tag Google Tag Manager is op de juiste wijze op uw website geïnstalleerd](https://developers.google.com/tag-manager/quickstart)
-
->
-
 
 
 ## Aangepaste Dimension instellen in GUA {#set-up-custom-dimensions-in-gua}
@@ -46,8 +43,7 @@ Google Universal Analytics met RTP-gegevens biedt u een beter inzicht in de mani
    1. Naar **Admin**
    1. Selecteer **Account.**
    1. Selecteer **Eigenschap.**
-   1. Selecteer **Aangepaste definities **en **Aangepaste Dimension.**
-
+   1. Selecteer **Aangepaste definities** en **Aangepaste Dimension**.
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Voeg een nieuwe aangepaste dimensie toe. Klik **+New Custom Dimension**
@@ -90,7 +86,7 @@ Google Universal Analytics met RTP-gegevens biedt u een beter inzicht in de mani
 >
 >**Aangepaste Dimension-** namen moeten exact overeenkomen met de definitie in de bovenstaande tabel (anders worden aangepaste RTP-dashboards en -rapporten in GUA niet correct weergegeven)
 
-1. Voeg de naam **toe. **Selecteer het bereik als **Sessie.** Klik op  **Maken.**
+1. Voeg **Naam** toe. Selecteer het bereik als **Sessie**. Klik **Maken**.
 
    ![](assets/image2014-11-29-11-3a12-3a51.png)
 
@@ -106,8 +102,8 @@ Zodra u de Dimension van de Douane in GUA hebt geactiveerd, ga naar het platform
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. Klik onder **Accountinstellingen** op **Domein.**
-1. Klik onder **Analytics, **click **Google Universal Analytics**.
+1. Klik onder **Accountinstellingen** op **Domein**.
+1. Klik onder **Analytics** op **Google Universal Analytics**.
 1. Schakel **Aan** de relevante aangepaste Dimension en gebeurtenissen in om deze gegevens van RTP aan Google Universal Analytics toe te voegen.
 1. Voer het **Indexnummer** van de dimensie in, uitgelijnd op het indexnummer in GUA.
 1. Klik **Opslaan**.
@@ -124,8 +120,7 @@ Zodra u de Dimension van de Douane in GUA hebt geactiveerd, ga naar het platform
 
 1. In Google Analytics. Ga naar **Rapportage.**
 1. Klik op **Dashboards.**
-1. Selecteer een **dashboard **(RTP B2B of Prestaties RTP)
+1. Selecteer een **dashboard** (RTP B2B- of RTP-prestaties)
 1. Klik **Dashboard verwijderen**.
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)
-
