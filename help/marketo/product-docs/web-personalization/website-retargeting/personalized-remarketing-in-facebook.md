@@ -3,7 +3,7 @@ unique-page-id: 4720917
 description: Persoonlijke opmerkingen op Facebook - Marketo Docs - Productdocumentatie
 title: Persoonlijke opmerkingen op Facebook
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -17,16 +17,14 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 
 >[!PREREQUISITES]
 >
->* Voltooi [Opnieuw rangschikken met de Gegevens van de Personalisatie van het Web](retargeting-with-web-personalization-data.md) opstelling
->* Bekijk de [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-documentatie over Aangepast publiek](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)en Opmerking
-
->
-
+>* Voltooi [Opnieuw rangschikken met de Gegevens van de Personalisatie van het Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) opstelling
+>* Raadpleeg de [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-documentatie over Aangepast publiek](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en Opmerking.
 
 
 ## Een publiek maken op Facebook {#creating-an-audience-in-facebook}
 
 1. Ga op Facebook naar het tabblad [Publiek](https://www.facebook.com/ads/audience_manager) in Advertentiebeheer.
+
 1. Klik **Gereedschappen** en selecteer **Soorten publiek**.
 
    ![](assets/one-1.png)
@@ -39,7 +37,7 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Selecteer** Aangepaste combinatie* in de lijst Verkeer website.
+1. Selecteer **Aangepaste combinatie** in de lijst Verkeer website.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
@@ -47,7 +45,7 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. Selecteer **RTP-markering **in de lijst Gebeurtenis en selecteer een parameter.
+1. Selecteer **RTP-markering** in de lijst Gebeurtenis en selecteer een parameter.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
@@ -132,10 +130,6 @@ Zie [Documentatie van Facebook](https://developers.facebook.com/docs/ads-for-web
 
 >[!MORELIKETHIS]
 >
->* [Opnieuw toewijzen met webpersonalisatiegegevens](retargeting-with-web-personalization-data.md)
->* [Persoonlijke opmerkingen in Google](personalized-remarketing-in-google.md)
-
->
-
-
+>* [Opnieuw toewijzen met webpersonalisatiegegevens](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Persoonlijke opmerkingen in Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 
