@@ -3,7 +3,7 @@ unique-page-id: 4719340
 description: Sluit specifieke IPs van het worden gevolgd uit - Marketo Docs - de Documentatie van het Product
 title: Specifieke IP's uitsluiten van bijhouden
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -42,4 +42,3 @@ U kunt individuele IPs en geheel of een deel van een waaier van IPs uitsluiten.
    ![](assets/exclude-ips-after.png)
 
    Heb je gezien hoe gemakkelijk dat was? Nu kunt u alle gegevens van IPs uitsluiten, of individueel of door waaier wordt toegevoegd.
-
