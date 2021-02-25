@@ -3,9 +3,9 @@ unique-page-id: 7504218
 description: Aangepaste RTP-rapporten in Google Universal Analytics - Marketo Docs - Productdocumentatie
 title: Aangepaste RTP-rapporten in Google Universal Analytics
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[RTP integreren met Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[RTP integreren met Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Universal Analytics (GUA) kunt instellen.  De gegevens die van RTP naar GUA worden verzonden kunnen opstelling als twee afzonderlijke geroepen douanerapporten zijn:
+In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Universal Analytics (GUA) instelt.  De gegevens die van RTP naar GUA worden verzonden kunnen opstelling als twee afzonderlijke geroepen douanerapporten zijn:
 
 * RTP B2B
 * RTP-betrokkenheid
@@ -25,31 +25,32 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
 ## Een aangepast rapport instellen {#setting-up-a-custom-report}
 
 1. Meld u aan bij Google Analytics.
-1. Klik op **Aanpassing **in het hoogste menu.
-1. Klik **+Nieuw Rapport van de Douane.**
 
-** ![](assets/image2015-3-22-16-3a10-3a48.png)
+1. Klik op **Customization** in het hoogste menu.
 
-**
+1. Klik **+New Custom Report**.
+
+![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## RTP B2B-rapport {#rtp-b-b-report}
 
 1. Geef het rapport **RTP B2B Report** een naam.
-1. Naam van het eerste tabblad **Industrie **
 
-   1. (Opmerking: u **Dit tabblad dupliceert** en maakt extra vergelijkbare tabbladen - stap 5)
+1. Geef het eerste tabblad **Industrie** een naam.
 
-1. Selecteer het rapporttype** Verkenner**.\
-   ** ![](assets/image2015-3-22-16-3a15-3a25.png)
+>[!NOTE]
+>
+>U **Dit tabblad dupliceren** en aanvullende vergelijkbare tabbladen maken - stap 5)
 
-   **
+1. Selecteer **Ontdekkingsreiziger** rapporttype.
+
+   ![](assets/image2015-3-22-16-3a15-3a25.png)
 
 1. Selecteer in de sectie **Metrische groepen** de maatstaven die relevant zijn voor uw bedrijf.
 
-   1. We raden het volgende aan:\
-      ** ![](assets/image2015-3-22-16-3a16-3a40.png)
+   a. We raden het volgende aan:
 
-      **
+   ![](assets/image2015-3-22-16-3a16-3a40.png)
 
 1. Dit tabblad 4 keer dupliceren en een naam geven:
 
@@ -72,7 +73,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
     </div></th> 
    <th> 
     <div>
-      Dimension boor downs 
+      Dimension boor downs
     </div></th> 
   </tr> 
  </thead> 
@@ -100,21 +101,28 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
  </tbody> 
 </table>
 
-1. Stel geen filters in en stel dit rapport in op beschikbaar voor **Alle gegevens van de website ** (of wijzig indien van toepassing voor de specifieke account Analytics).
-1. Klik **Opslaan**.\
+1. Stel geen filters in en stel dit rapport in op beschikbaar voor **Alle gegevens van de website** (of wijzig indien van toepassing voor specifieke account Analytics).
+
+1. Klik **Opslaan**.
+
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## RTP-betrokkenheidsrapport {#rtp-engagement-report}
 
-1. Geef het rapport een naam **RTP-betrokkenheidsrapport.**
-1. Stel de eerste tabnaam in op **Alle betrokkenheid**
+1. Geef het rapport **RTP Engagement Report** een naam.
 
-   1. (Opmerking: u gaat dit tabblad dupliceren en aanvullende vergelijkbare tabbladen maken (stap 5)
+1. Stel de eerste tabnaam in op **Alle betrokkenheid**.
 
-1. Selecteer **Ontdekkingsreiziger** rapporttype.\
+>[!NOTE]
+>
+>U dupliceert dit tabblad en maakt aanvullende, vergelijkbare tabbladen (stap 5)
+
+1. Selecteer **Ontdekkingsreiziger** rapporttype.
+
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Selecteer in de sectie Metrische groepen de maatstaven die relevant zijn voor uw bedrijf. Hier volgt een aanbeveling:\
+1. Selecteer in de sectie Metrische groepen de maatstaven die relevant zijn voor uw bedrijf. Hier volgt een aanbeveling:
+
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
 1. Dit tabblad 4 keer dupliceren en een naam geven:
@@ -125,7 +133,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
    1. **Betrokkenheid per rubriek**
    1. **Betrokkenheid van ABM**
 
-   ** ![](assets/image2015-3-22-16-3a26-3a21.png)\*
+   ![](assets/image2015-3-22-16-3a26-3a21.png)
 
 1. Stel in de sectie **Dimension boor downs** de relevante afmetingen voor elk tabblad als volgt in:
 
@@ -167,7 +175,6 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
 </table>
 
 1. Stel de volgende filters in:
-1. 
 
 <table> 
  <thead> 
@@ -212,7 +219,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
  </tbody> 
 </table>
 
-1. Stel dit rapport in op beschikbaar voor **Alle gegevens van de website **(of wijzig indien nodig)
+1. Plaats dit rapport om voor **Alle Gegevens van de Website** (of verandering indien nodig) beschikbaar te zijn.
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
@@ -222,7 +229,6 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
 
 >[!MORELIKETHIS]
 >
->[RTP integreren met Google Universal Analytics](integrate-rtp-with-google-universal-analytics.md)
+>[RTP integreren met Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 >
->[Aangepaste RTP-dashboards in Google Universal Analytics](custom-rtp-dashboards-in-google-universal-analytics.md)
-
+>[Aangepaste RTP-dashboards in Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
