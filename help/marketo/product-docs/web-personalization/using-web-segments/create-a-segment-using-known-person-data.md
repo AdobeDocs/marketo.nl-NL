@@ -3,7 +3,7 @@ unique-page-id: 7504343
 description: Een segment maken met behulp van bekende persoonlijke gegevens - Marketo Docs - Productdocumentatie
 title: Een segment maken met bekende persoongegevens
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Hier is hoe te om een segment tot stand te brengen gebruikend Bekende waarden va
 
 >[!PREREQUISITES]
 >
->[Persoonlijke gegevens beheren](manage-person-data.md)
+>[Persoonlijke gegevens beheren](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
 1. Ga naar **Segmenten**.
 
@@ -31,7 +31,7 @@ Hier is hoe te om een segment tot stand te brengen gebruikend Bekende waarden va
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. Sleep **Database **over in Profielsegmentatie naar het canvas.
+1. In de Segmentatie van het Profiel, sleep **Gegevensbestand** over aan het canvas.
 
    ![](assets/four-1.png)
 
@@ -53,13 +53,12 @@ Hier is hoe te om een segment tot stand te brengen gebruikend Bekende waarden va
 
    ![](assets/eight.png)
 
-1. Selecteer de operator AND / OR. Selecteer het veld dat u wilt toevoegen. Selecteer een gegevensveld voor een persoon. Voer de waarde van de persoonlijke gegevens in.
+1. Selecteer de operator AND/OR. Selecteer het veld dat u wilt toevoegen. Selecteer een gegevensveld voor een persoon. Voer de waarde van de persoonlijke gegevens in.
 
    ![](assets/nine.png)
 
-1. Klik **sparen** om het segment op te slaan of **sparen &amp; bepalen Campagne **om te bewaren en naar de pagina van Campagnes te gaan.
+1. Klik **Opslaan** om het segment op te slaan of **Campagne opslaan en definiëren** om op te slaan en naar de pagina Campagnes te gaan.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
    U hebt nu een segment voor bekende gegevens ingesteld.
-
