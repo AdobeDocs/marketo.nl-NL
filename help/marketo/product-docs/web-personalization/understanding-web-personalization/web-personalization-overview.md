@@ -3,7 +3,7 @@ unique-page-id: 3571900
 description: Overzicht van de Personalisatie van het Web - Marketo Docs - de Documentatie van het Product
 title: Overzicht van webpersonalisatie
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -15,34 +15,34 @@ ht-degree: 0%
 
 ## Inleiding {#introduction}
 
-Voor nieuwe klanten van Marketo, in real time Personalization wordt verdeeld in vier apps, betreden gebruikend deze twee tegels: Web Personalization and Content`<sup>AI</sup>`.
+Voor nieuwe klanten van Marketo, in real time Personalization wordt verdeeld in vier apps, betreden gebruikend deze twee tegels: Web Personalization and ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
 >[!NOTE]
 >
->Web Personalization and Content`<sup>AI</sup>` is beschikbaar in alle door Marketo ondersteunde talen (Engels, Frans, Duits, Japans, Portugees, Spaans).
+>Web Personalization and ContentAI is beschikbaar in alle door Marketo ondersteunde talen (Engels, Frans, Duits, Japans, Portugees, Spaans).
 
 Bestaande klanten blijven toegang krijgen tot de apps via de &#39;Real-Time Personalization tile&#39; tot de vernieuwing, waarna ze de bovenstaande aanmelding gebruiken.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Wanneer u op de tegel voor webpersonalisatie klikt, wordt de pagina Dashboard weergegeven. Klik op de tegel Inhoud`<sup>AI</sup>` en ga rechtstreeks naar de pagina Content Recommendations.
+Wanneer u op de tegel voor webpersonalisatie klikt, wordt de pagina Dashboard weergegeven. Klik op de ContentAI-tegel en ga rechtstreeks naar de Recommendations-pagina Inhoud.
 
 De vier toepassingen zijn:
 
 * Webpersonalisatie
 * Webmarketing op basis van account
 * Opnieuw plaatsen van website
-* Inhoud`<sup>AI</sup>`
+* ContentAI
 
-De** Web Personalization **tegel is uw toegangspunt voor** **het creëren van gepersonaliseerde Webcampagnes.** **Account-based Web Marketing en Web Retargeting. U kunt inhoud toevoegen op de pagina Inhoud analyseren.
+De **Web Personalization** tegel is uw toegangspunt voor het creëren van gepersonaliseerde Webcampagnes. Op account-gebaseerde webmarketing en het opnieuw samenstellen van het web. U kunt inhoud toevoegen op de pagina Inhoud analyseren.
 
 **Account-based Web** Marketingworks met webpersonalisatie en functies met de naam Accounts. De pagina Benoemde accounts biedt grafische informatie over bestaande klanten, totale contracten en trends in de organisatie, en een lijst met accounts. U kunt daar ook nieuwe benoemde accounts maken.
 
 **Met Website** Retargetinging kunt u opnieuw markten openen voor gesegmenteerde doelgroepen. U kunt segmenten instellen, maar u kunt benoemde accounts niet gebruiken in het filter.
 
-**Inhoud`<sup>AI</sup>`** geeft de plaats waar u inhoudaanbevelingen kunt doen. U kunt inhoud eenvoudig toevoegen aan de Recommendations-pagina Inhoud.
+**** ContentAI is de plaats om inhoudaanbevelingen te geven. U kunt inhoud eenvoudig toevoegen aan de Recommendations-pagina Inhoud.
 
 >[!NOTE]
 >
@@ -61,9 +61,6 @@ Op het tabblad Organisaties worden alle gegevens (naam, locatie, activiteit en t
 >* Meest actief: de meest actieve organisaties in de tabel, op basis van het aantal paginaweergaven
 >* Laatste: de meest recente organisaties in de tabel (standaard)
 >* Voor waardevolle inzichten, filter volgens het meest actieve
-
->
-
 
 
 **Organisaties - Rechterdeelvenster**
@@ -172,4 +169,3 @@ De pagina In real time wordt gesplitst in zes informatieve tabellen met gegevens
   </tr> 
  </tbody> 
 </table>
-
