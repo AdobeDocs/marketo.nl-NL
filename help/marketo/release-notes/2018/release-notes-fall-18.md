@@ -3,7 +3,7 @@ unique-page-id: 15695939
 description: Opmerkingen bij de release - herfst '18 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - herfst '18
 translation-type: tm+mt
-source-git-commit: dc20aede0894a09e6c0bcd3d1580859b5fecb5f1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
@@ -74,7 +74,7 @@ Raadpleeg onze [Opmerkingen bij de release Sky](https://help.marketo.com) voor m
 
    * Klanten kunnen zich nu aanmelden bij de Bizible-webtoepassing met de identiteitsprovider en aanmeldingsgegevens van hun bedrijf, die voldoen aan de beveiligingsvereisten voor bedrijven.
 
-**[Verbeteringen op gebied van marktprestaties](../../product-docs/reporting/performance-insights/performance-insights-overview.md)**
+**[Verbeteringen op gebied van marktprestaties](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)**
 
 * **Verbeterde bruikbaarheid**
 
@@ -88,7 +88,7 @@ Raadpleeg onze [Opmerkingen bij de release Sky](https://help.marketo.com) voor m
 
 ## Netwerken toevoegen {#ad-networks}
 
-**[Token vernieuwen](../../product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
+**[Token vernieuwen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
 We hebben een vernieuwingstoken geïmplementeerd in onze oplossingen voor opnieuw toewijzen en LinkedIn Lead Gen Form, waarmee de toegangstijd wordt verlengd tot één jaar voordat opnieuw verificatie is vereist.
 
