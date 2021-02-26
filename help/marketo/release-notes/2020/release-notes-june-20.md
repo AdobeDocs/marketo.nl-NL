@@ -3,9 +3,9 @@ unique-page-id: 37357276
 description: Opmerkingen bij de release - Juni '20 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni '20
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '1090'
+source-wordcount: '1073'
 ht-degree: 0%
 
 ---
@@ -17,32 +17,25 @@ De volgende functies zijn opgenomen in de release van 20 juni. Controleer uw uit
 
 >[!AVAILABILITY]
 >
->
 >Door een ster aangegeven functies ( ![(star)](assets/star-yellow.svg)) kunnen invoegtoepassingen worden betaald. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
-***Driemaandelijkse*** releasesDe volgende functies worden op 5  **juni 2020** gepubliceerd.
+**_Driemaandelijkse_** releasesDe volgende functies worden op 5  **juni 2020** gepubliceerd.
 
 ## Core Marketo Engage {#core-marketo-engage}
 
-* ** [Predictief publiek](https://help.marketo.com/hc/en-us/articles/360045746253) ![(ster)](assets/star-yellow.svg)
-
-   **: Met de nieuwe filters Slimme lijst en Slimme campagne van Adobe Sensei kunt u op AI gebaseerde publiekssegmenten voor e-mail-, gebeurtenis- en webinar marketingprogramma&#39;s maken. Gebruik AI om u te helpen het publiek segmenteren op basis van de kans dat u zich registreert voor een gebeurtenis, een gebeurtenis bijwoont of uw abonnement opzegt. Maak publiek op basis van eerdere programma&#39;s zodat eerdere successen efficiënt kunnen worden gerepliceerd. Bereik omzettingsdoelstellingen met vooruitlopende doel-volgen en krijg aanbevelingen voor hoe te om uw publiekssegmenten voor gebeurtenisprogramma&#39;s te verfijnen.
-* **Batch-e-mailBoost ![(star)](assets/star-yellow.svg): ** Verbetering van onze e-mailmarketingmogelijkheden waarmee u tot 3 miljoen batch-e-mails per uur kunt verzenden. We hebben onze batch- en e-mailrapportverwerking opnieuw ontworpen om de prestaties van e-mailprogramma&#39;s en batch-e-mailcampagnes te verbeteren. Dit resulteert in kortere doorlooptijd om te verzenden, evenals betere voltooiingstijd. Stel uw e-mail in zoals u dat normaal zou doen. Er is geen extra complexiteit. Deze verbetering is beschikbaar als product toe:voegen-op die ook een Pak van de Lancering van de Diensten van de Levering, de Hulpmiddelen van de E-mail van de Levering, en veelvoudige Speciale IP adressen omvat.
-* ** [Integratie van publiek met Adobe Experience Cloud (AEC)](https://docs.marketo.com/x/ogI6Ag): **Nieuwe integratie van Adobe Experience Cloud (AEC) die u toestaat om statische lijsten van bekende lood van Marketo Engage met veelvoudige toepassingen te synchroniseren AEC om bestaande programma&#39;s te verbeteren, nieuwe gebruiksgevallen te ontgrendelen, en multi-kanaalcampagnes te ordenen. Deze integratie omvat Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager en Adobe Advertising Cloud.
-* ** [Aangepaste velden voor programmalid](https://docs.marketo.com/x/MQA6Ag)**: Leg aangepaste velden voor een programmalid vast en gebruik deze. Gebruik deze nieuwe gebieden in uw Marketo Engage vormen, bekijk hen in de lijst van een programmalid, hefboomwerking hen in Slimme filters en trekkers van de Lijst, en omvat hen in een nieuwe Slimme Actie van de Stroom van de Campagne voor verbeterde automatisering en meer korrelige verpersoonlijking. Deze bestanden kunnen ook worden geïmporteerd en geëxporteerd via de gebruikersinterface en API&#39;s. Verbetering van de functionaliteit voor aangepaste gegevensobjecten en velden.
-* **Beschrijf programmalid**: Haal de metagegevens van het programmalid op, zodat u de aangepaste veldgegevens van het programmalid kunt importeren en exporteren met REST API. Verbetering van onze API*. *
-
-* ** [Taak maken in Microsoft Dynamics](https://docs.marketo.com/x/jQM6Ag)**: Creeer taken voor Verkoop binnen de Dynamiek van Microsoft gebruikend een nieuwe Actie van de Stroom die op klantengedrag wordt gebaseerd in Marketo Engage wordt gevangen. Verbetering voor onze eigen integratie van Microsoft Dynamics CRM*. *
-
-* **Formulier ophalen dat wordt gebruikt door eindpunt** van de API van List-element: Hiermee haalt u een lijst met elementen op die afhankelijk zijn van een formulier. Verbetering van onze API*.*
-
-* **E-mailvoorheader instellen via API**: Schakel de automatische vertaling en lokalisatie van e-mailvoorkoptekstvelden in. Verbetering van onze API*.*
-
+* **[Voorspelend publiek](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![ (ster)](assets/star-yellow.svg): Met de nieuwe filters Slimme lijst en Slimme campagne van Adobe Sensei kunt u op AI gebaseerde publiekssegmenten voor e-mail-, gebeurtenis- en webinar marketingprogramma&#39;s maken. Gebruik AI om u te helpen het publiek segmenteren op basis van de kans dat u zich registreert voor een gebeurtenis, een gebeurtenis bijwoont of uw abonnement opzegt. Maak publiek op basis van eerdere programma&#39;s zodat eerdere successen efficiënt kunnen worden gerepliceerd. Bereik omzettingsdoelstellingen met vooruitlopende doel-volgen en krijg aanbevelingen voor hoe te om uw publiekssegmenten voor gebeurtenisprogramma&#39;s te verfijnen.
+* **Batch-e-mailBoost** ![ (ster)](assets/star-yellow.svg): Verbetering van onze e-mailmarketingmogelijkheden waarmee u tot 3 miljoen batch-e-mails per uur kunt verzenden. We hebben onze batch- en e-mailrapportverwerking opnieuw ontworpen om de prestaties van e-mailprogramma&#39;s en batch-e-mailcampagnes te verbeteren. Dit resulteert in kortere doorlooptijd om te verzenden, evenals betere voltooiingstijd. Stel uw e-mail in zoals u dat normaal zou doen. Er is geen extra complexiteit. Deze verbetering is beschikbaar als product toe:voegen-op die ook een Pak van de Lancering van de Diensten van de Levering, de Hulpmiddelen van de E-mail van de Levering, en veelvoudige Speciale IP adressen omvat.
+* **[Integratie van het publiek met Adobe Experience Cloud (AEC)](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: De nieuwe integratie van Adobe Experience Cloud (AEC) die u toestaat om statische lijsten van bekende lood van Marketo Engage met veelvoudige toepassingen te synchroniseren AEC om bestaande programma&#39;s te verbeteren, nieuwe gebruiksgevallen te ontgrendelen, en multi-kanaalcampagnes te ordenen. Deze integratie omvat Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager en Adobe Advertising Cloud.
+* **[Aangepaste velden](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)** voor programmalid: Leg aangepaste velden voor een programmalid vast en gebruik deze. Gebruik deze nieuwe gebieden in uw Marketo Engage vormen, bekijk hen in de lijst van een programmalid, hefboomwerking hen in Slimme filters en trekkers van de Lijst, en omvat hen in een nieuwe Slimme Actie van de Stroom van de Campagne voor verbeterde automatisering en meer korrelige verpersoonlijking. Deze bestanden kunnen ook worden geïmporteerd en geëxporteerd via de gebruikersinterface en API&#39;s. Verbetering van de functionaliteit voor aangepaste gegevensobjecten en velden.
+* **Beschrijf programmalid**: Haal de metagegevens van het programmalid op, zodat u de aangepaste veldgegevens van het programmalid kunt importeren en exporteren met REST API. Verbetering van onze API.
+* **[Taak maken in Microsoft Dynamics](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)**: Creeer taken voor Verkoop binnen de Dynamiek van Microsoft gebruikend een nieuwe Actie van de Stroom die op klantengedrag wordt gebaseerd in Marketo Engage wordt gevangen. Verbetering aan onze inheemse integratie van CRM van de Dynamica van Microsoft.
+* **Formulier ophalen dat wordt gebruikt door eindpunt** van de API van List-element: Hiermee haalt u een lijst met elementen op die afhankelijk zijn van een formulier. Verbetering van onze API.
+* **E-mailvoorheader instellen via API**: Schakel de automatische vertaling en lokalisatie van e-mailvoorkoptekstvelden in. Verbetering van onze API.
 * **Afbeelding en bestanden in cache plaatsen**: We verbeteren de stabiliteit van de Marketo Engage-server door afbeeldings- en bestandsmiddelen uit te voeren vanuit een cache van 60 seconden.
 
-**Account-Based Marketing ![(star)](assets/star-yellow.svg)
+## Op account gebaseerde marketing {#account-based-marketing}
 
-**
+![(ster)](assets/star-yellow.svg)
 
 * **Nieuwe accountdetectie algemeen beschikbaar**
 
@@ -50,26 +43,25 @@ De volgende functies zijn opgenomen in de release van 20 juni. Controleer uw uit
 
 <br> 
 
-**
-
-***Vrijgeven door het Kwartaal***
+**_Vrijgeven door het Kwartaal_**
 
 De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden de komende maanden vrijgegeven.
-**Bizible ![(star)](assets/star-yellow.svg)
 
-**
+## Bizibel {#bizible}
+
+![(ster)](assets/star-yellow.svg)
 
 * **Integratie** van Marketo Engage-programma&#39;s: Trek programmagegevens rechtstreeks van Marketo Engage om aanraakpunten te maken langs de attributietraject in Bizible om e-mail- en betrokkenheidsprogramma&#39;s op de juiste wijze te crediteren. Verbetering van onze Marketo Engage-integratie.
-* **Integratie`<sup>BETA</sup>`** van Marketo Engage-activiteiten: Breng de gegevens van de Marketo Engage activiteit rechtstreeks in Bizible aan om aanraakpunten over de klantenreis en alle attributiemodellen tot stand te brengen. Voorbeelden zijn wijzigingen in de leadscore, interessante momenten, klikken via e-mail of aangepaste activiteiten. Verbetering van onze Marketo Engage-integratie.
-* **Bizible B2B Customer Attributes Integration`<sup>BETA</sup>`**: Dit is een Adobe Experience Cloud-integratie met Adobe Analytics waarmee u bepaalde Bizible-gegevens rechtstreeks naar Adobe Analytics kunt brengen voor een diepgaande analyse. Voorbeelden zijn op account gebaseerde analyse van het siteverkeer en de inhoud per bedrijfsnaam, accountkenmerken, CRM-mogelijkheden en personen met een hoge waarde, zoals gedefinieerd door de Bizible-fase van de toegewezen inkomsten en trechter.
-* **Bizible Discover Filters and Enhancements:** Analyseer uw gegevens met kanaal-, subkanaal-, campagne- en segmentfilters over dashboards. Verbeter de zichtbaarheid van gegevens met meer boor-down kenmerken. Dit is een verbetering van onze Discover Boards.
+* **Integratie van Marketo Engage-activiteiten (BETA)**: Breng de gegevens van de Marketo Engage activiteit rechtstreeks in Bizible aan om aanraakpunten over de klantenreis en alle attributiemodellen tot stand te brengen. Voorbeelden zijn wijzigingen in de leadscore, interessante momenten, klikken via e-mail of aangepaste activiteiten. Verbetering van onze Marketo Engage-integratie.
+* **Bizible B2B Customer Attributes Integration (BETA)**: Dit is een Adobe Experience Cloud-integratie met Adobe Analytics die u in staat stelt om bepaalde Bizible-gegevens rechtstreeks naar Adobe Analytics te brengen voor een diepgaande analyse. Voorbeelden zijn op account gebaseerde analyse van het siteverkeer en de inhoud per bedrijfsnaam, accountkenmerken, CRM-mogelijkheden en personen met een hoge waarde, zoals gedefinieerd door de Bizible-fase van de toegewezen inkomsten en trechter.
+* **Bizible Discover Filters and Enhancements**: Analyseer uw gegevens met kanaal, subchannel, campagne, en segmentfilters over dashboards. Verbeter de zichtbaarheid van gegevens met meer boor-down kenmerken. Dit is een verbetering van onze Discover Boards.
 * **Activiteiten synchroniseren voor Microsoft Dynamics**: De verkoopinteractie van attributen door de activiteiten van CRM van de Dynamica van Microsoft aan de tochpoint reis en spoorgebeurtenissen zoals vraag, benoemingen, of taken te brengen verbonden aan uw lood of contacten. Verbetering aan onze integratie van CRM van de Dynamica van Microsoft.
 
-**Sales Insight ![(star)](assets/star-yellow.svg)
+## Verkoopinzicht {#sales-insight}
 
-**
+![(ster)](assets/star-yellow.svg)
 
-* ** [Inhoudsdashboard voor Salesforce CRM](https://docs.marketo.com/x/EoGMAg)**: We stellen ons de mogelijkheden van het Verkoopinzicht met nieuwe zichtbaarheid voor in toekomstige marketingevenementen en campagnes om verkopers de mogelijkheid te geven om aanbevelingen die meer relevant zijn voor klanten en vooruitzichten te doen op basis van hun behoeften en belangen. Verkopers kunnen ook zowel de activiteit van de contactpersoon als de account binnen de tijdlijn bekijken en eenvoudig toegang krijgen tot aanvullende activiteitengegevens. Meer informatie over het upgraden van uw pakket [hier](https://docs.marketo.com/x/F4GMAg).
+* **[Insights Dashboard voor Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: We stellen ons de mogelijkheden van het Verkoopinzicht met nieuwe zichtbaarheid voor in toekomstige marketingevenementen en campagnes om verkopers de mogelijkheid te geven om aanbevelingen die meer relevant zijn voor klanten en vooruitzichten te doen op basis van hun behoeften en belangen. Verkopers kunnen ook zowel de activiteit van de contactpersoon als de account binnen de tijdlijn bekijken en eenvoudig toegang krijgen tot aanvullende activiteitengegevens. Meer informatie over het upgraden van uw pakket [hier](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
 
 <br> 
 
@@ -81,6 +73,6 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Afwijkingen {#deprecations}
 
-* ** [Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/):** Vanaf versie 159 van Munchkin JS wordt in de browserconsole een waarschuwing voor de vervanging weergegeven wanneer de Associate Lead-methode wordt aangeroepen, om aan te geven dat de functie in een toekomstige versie wordt verwijderd.  Het volledige schema voor de afschrijving wordt op een latere datum bekendgemaakt.
+* **[Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Vanaf versie 159 van Munchkin JS, zal een afgekeuringswaarschuwing in de browser console worden geregistreerd wanneer de Associate methode van de Leiding wordt aangehaald, erop wijzend dat de eigenschap in een toekomstige versie zal worden verwijderd.  Het volledige schema voor de afschrijving wordt op een latere datum bekendgemaakt.
 
-***Productrelease*** [WebinarBekijk de ](https://engage.marketo.com/June-Release-2020-On-Demand.html) opnamen van ons webinar over productrelease van 20 juni.
+**_Productrelease_** [WebinarBekijk de ](https://engage.marketo.com/June-Release-2020-On-Demand.html) opnamen van ons webinar over productrelease van 20 juni.
