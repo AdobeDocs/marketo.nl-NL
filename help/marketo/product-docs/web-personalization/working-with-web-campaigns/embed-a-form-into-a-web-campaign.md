@@ -3,9 +3,9 @@ unique-page-id: 10095554
 description: Een formulier insluiten in een webcampagne - Marketo Docs - Productdocumentatie
 title: Een formulier insluiten in een webcampagne
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,7 @@ Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenste
 
 1. Klik met de rechtermuisknop op een goedgekeurd formulier. Selecteer **Code insluiten**.
 
-   ** ![](assets/image2015-12-16-10-3a58-3a39.png)
-
-   **
+   ![](assets/image2015-12-16-10-3a58-3a39.png)
 
 1. Kopieer de code.
 
@@ -31,9 +29,7 @@ Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenste
 
 1. Klik **Nieuwe campagne maken**.
 
-   ** ![](assets/create-new-web-campaign-hand-1.jpg)
-
-   **
+   ![](assets/create-new-web-campaign-hand-1.jpg)
 
 1. Klik in de Rich Text Editor op het HTML-pictogram.
 
@@ -44,6 +40,7 @@ Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenste
    ![](assets/six-1.png)
 
 1. Het formulier wordt niet weergegeven in de editorweergave, maar u kunt het voorbeeld bekijken om te zien hoe het in een campagne wordt weergegeven.
+
 1. Klik **Launch** om de campagne te starten.
 
    >[!NOTE]
@@ -58,7 +55,7 @@ Als u een achtergrondafbeelding aan het formulier wilt toevoegen, kunt u:
 * Dialoogvenster- of widgetkleuren wijzigen in Campagne instellen
 * CSS-code toevoegen aan het script
 
-Zie [dit artikel](../../../product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md) als u de CSS van een formulierthema wilt bewerken.
+Zie [dit artikel](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md) als u de CSS van een formulierthema wilt bewerken.
 
 U wijzigt als volgt de kleur van het dialoogvenster of de widget in de campagne Set:
 
@@ -86,11 +83,7 @@ CSS-code toevoegen aan het script:
 
 >[!MORELIKETHIS]
 >
->* [CSS van een formulierthema bewerken](https://docs.marketo.com/display/public/DOCS/Edit+the+CSS+of+a+Form+Theme)
+>* [CSS van een formulierthema bewerken](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Bericht met dank weergeven zonder opvolgingspagina](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
-
->
-
-
 
