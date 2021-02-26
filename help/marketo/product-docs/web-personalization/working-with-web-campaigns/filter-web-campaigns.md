@@ -3,7 +3,7 @@ unique-page-id: 10098884
 description: Webcampagnes filteren - Marketo Docs - Productdocumentatie
 title: Webcampagnes filteren
 translation-type: tm+mt
-source-git-commit: 00887ea53e395bea3a11fd28e0ac98b085ef6ed8
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Nadat u honderden campagnes van de Personalisatie van het Web hebt gecreeerd, helpt het echt om filters te kunnen gebruiken om slechts degenen te bekijken u in geinteresseerd bent.
 
-1. Ga naar **Webcampagnes.**
+1. Ga naar **Webcampagnes**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
@@ -36,4 +36,3 @@ Nadat u honderden campagnes van de Personalisatie van het Web hebt gecreeerd, he
    ![](assets/web-campaigns-filter-only-paused.jpg)
 
    Stukje cake!
-
