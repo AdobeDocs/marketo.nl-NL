@@ -3,9 +3,9 @@ unique-page-id: 4719406
 description: Een webcampagne starten/pauzeren - Marketo Docs - Productdocumentatie
 title: Een webcampagne starten/pauzeren
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een webcampagne starten/pauzeren {#launch-pause-a-web-campaign}
 
-Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek segment en kan een [dialoogvenster](create-a-new-dialog-web-campaign.md) op uw website zijn, een [in zone replacement](create-a-new-in-zone-web-campaign.md), een widgetfunctie of een e-mailwaarschuwing.
+Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek segment en kan een [dialoogvenster](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) op uw website zijn, een [in zone replacement](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), een widgetfunctie of een e-mailwaarschuwing.
 
 U kunt een Webcampagne op twee manieren van de pagina van de Campagnes van het Web lanceren of pauzeren of de Vastgestelde pagina van de Campagnes van het Web.
 
@@ -25,7 +25,7 @@ U kunt een Webcampagne op twee manieren van de pagina van de Campagnes van het W
 
    ![](assets/two-1.png)
 
-1. Als de campagne wordt gestart, klikt u op **Gestart** om de status van de campagne te wijzigen in **Gepauzeerd, **om de campagne te pauzeren.
+1. Als de campagne wordt gestart, klikt u op **Gestart** om de status van de campagne te wijzigen in **Gepauzeerd** om de campagne te pauzeren.
 
    ![](assets/image2014-11-26-17-3a26-3a38.png)
 
@@ -47,11 +47,7 @@ U kunt een Webcampagne op twee manieren van de pagina van de Campagnes van het W
 
 >[!MORELIKETHIS]
 >
->* [Nieuwe webcampagne voor dialoog maken](create-a-new-dialog-web-campaign.md)
->* [Nieuwe webcampagne maken in zone](create-a-new-in-zone-web-campaign.md)
->* [Een widgetwebcampagne maken](create-a-new-widget-web-campaign.md)
-
->
-
-
+>* [Een dialoogcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Een RTP maken in een zonecampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Een RTP-widgetcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
