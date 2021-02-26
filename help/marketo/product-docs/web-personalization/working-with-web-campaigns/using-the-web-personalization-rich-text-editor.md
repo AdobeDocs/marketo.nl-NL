@@ -3,9 +3,9 @@ unique-page-id: 4719179
 description: Het gebruiken van de Redacteur van de Tekst van de Personalisatie van het Web Rich - Marketo Docs - de Documentatie van het Product
 title: Het gebruiken van de Redacteur van de Tekst van de Personalisatie Rich
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,8 @@ De belangrijke pictogrammen in de rijke tekstredacteur omvatten:
 
 >[!NOTE]
 >
->Webtokens gebruiken [personeels gegevens](https://docs.marketo.com/display/DOCS/Manage+Person+Data) van uw Gegevensbestand van Marketo die in Personalisatie van het Web onder de Montages van de Rekening > Gegevensbestand wordt beheerd. Als het webtoken een nieuw databaseveld is dat nog niet voorkomt in Account Settings > Database, wordt het automatisch toegevoegd en kan het 24 uur duren om het te activeren.
+>Webtokens gebruiken [personeels gegevens](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) van uw Gegevensbestand van Marketo die in Personalisatie van het Web onder de Montages van de Rekening > Gegevensbestand wordt beheerd. Als het webtoken een nieuw databaseveld is dat nog niet voorkomt in Account Settings > Database, wordt het automatisch toegevoegd en kan het 24 uur duren om het te activeren.
 
 >[!MORELIKETHIS]
 >
->[De Rich Text Editor gebruiken](https://docs.marketo.com/display/docs/using+the+rich+text+editor#usingtherichtexteditor-features)
-
+>[De Rich Text Editor gebruiken](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
