@@ -3,9 +3,9 @@ unique-page-id: 4719404
 description: AB Test Uw Campagne van het Web - Marketo Docs - de Documentatie van het Product
 title: AB Test Uw Campagne van het Web
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Om A/B uw gepersonaliseerde campagnes te testen, kunt u twee of meer campagnes s
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik [filtereigenschap](filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik [filtereigenschap](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Selecteer de eerste campagne u aan test A/B wilt. Klik **Bewerken**.
 
@@ -39,30 +39,31 @@ Om A/B uw gepersonaliseerde campagnes te testen, kunt u twee of meer campagnes s
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Voer de **Naam van de Testgroep splitsen** in en klik op **Maken.****Selecteer Automatisch afstemmen.**
+1. Voer de **Naam van de Testgroep splitsen** in en klik op **Maken**. Selecteer **Auto-Tune**.
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Sla **of** Start **de campagne op.
+1. **** Saveor  **** Launchthe campagne.
 
    >[!TIP]
    >
    >Als u **Auto-Tune** selecteert, kan het webpersonalisatie-platform automatisch de beter presterende gesplitste testcampagne herkennen en gaat u verder met de hoogste conversiecampagne terwijl de andere platformen worden gepauzeerd.
 
 1. Herhaal dit proces met de tweede campagne.
+
 1. Selecteer de tweede campagne die u wilt testen A/B. Klik **Bewerken**.
 
-   ** ![](assets/image2016-11-4-13-3a51-3a39.png)
+   ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-   **
-
-1. Selecteer **S****Testen splitsen** op de pagina **Campagne instellen** en kies **Groep** in de vervolgkeuzelijst. Selecteer** Automatisch afstemmen**.
+1. Selecteer **Splitsen testen** op de pagina **Campagne instellen** en kies **Groep** in de vervolgkeuzelijst. Selecteer **Auto-Tune**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
-1. **Opslaan **of **Starten **de campagne.
+1. **** Saveor  **** Launchthe campagne.
+
 1. Herhaal dit proces voor een derde of vierde campagne om te testen.
-1. In **Web** **Campagnes** kunt u de gesplitste testcampagnes zien die door het pictogram A/B worden aangeduid.
+
+1. In **Webcampagnes** kunt u de gesplitste testcampagnes zien die door het pictogram A/B worden aangeduid.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
@@ -73,17 +74,10 @@ Om A/B uw gepersonaliseerde campagnes te testen, kunt u twee of meer campagnes s
 >1. Probeer verschillende inhoudsonderdelen (casestudy A vs. casestudy B), verander het overseinen en creatieve elementen, kleuren, grootte of vraag aan acties.
 >1. Optimaliseer en geniet van uw persoonlijke inhoud!
 
->
-
-
 
 >[!MORELIKETHIS]
 >
->* [Een dialoogcampagne maken](create-a-new-dialog-web-campaign.md)
->* [Een RTP maken in een zonecampagne](create-a-new-in-zone-web-campaign.md)
->* [Een RTP-widgetcampagne maken](create-a-new-widget-web-campaign.md)
-
->
-
-
+>* [Een dialoogcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Een RTP maken in een zonecampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Een RTP-widgetcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
 
