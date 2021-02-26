@@ -3,7 +3,7 @@ unique-page-id: 8782266
 description: Prioriteit geven aan webcampagnes - Marketo Docs - Productdocumentatie
 title: Prioriteit geven aan webcampagnes
 translation-type: tm+mt
-source-git-commit: c33b7ab59e612f37d3f64bb954579700dc574068
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Een campagne In Zone en een campagne (Widget of Dialog) kunnen op dezelfde pagin
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik [filtereigenschap](filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik [filtereigenschap](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Stel in de pagina Campagne bewerken de prioriteitsscore in (9999 = Hoogste prioriteit 1 = Laagste prioriteit).
 
