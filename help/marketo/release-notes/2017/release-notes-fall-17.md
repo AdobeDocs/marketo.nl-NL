@@ -3,9 +3,9 @@ unique-page-id: 12983280
 description: Opmerkingen bij de release - herfst '17 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - herfst '17
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '597'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Profiteer van rijkere en snellere synchronisatie tussen Marketo en Salesforce. G
 
 De recente infrastructuurverbeteringen bieden verhoogde uptime en stabiliteit binnen Marketo rapportering en analysehulpmiddelen, die u toestaan om ad hoc rapporten sneller te bouwen.
 
-## [Tijdzone ontvanger](https://docs.marketo.com/x/_xvG) {#recipient-time-zone}
+## [Tijdzone ontvanger](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
 
 Met deze nieuwe functie kunt u nu een e-mail verzenden volgens de lokale tijdzones. De e-mail en de betrokkenheidsprogramma&#39;s kunnen worden gevormd om in de tijdstreken van de ontvangers te worden geleverd, eliminerend de behoefte om veelvoudige programma&#39;s-verzendt eens en Marketo automatisch zal e-mail tot de correcte lokale tijd houden. Haal de metriek van e-mail op, houd lokale praktijken in acht, en bespaar tijd door één enkel programma globaal te gebruiken.
 
@@ -39,15 +39,15 @@ Met deze nieuwe functie kunt u nu een e-mail verzenden volgens de lokale tijdzon
 >
 >Als u de tijdzone voor ontvangers nog niet kunt inschakelen voor uw e-mail- en betrokkenheidsprogramma&#39;s, hoeft u niet te paniek! Deze functie wordt geleidelijk aan voor alle klanten beschikbaar gesteld.
 
-## [Voorbeelde-mails per segment controleren](https://docs.marketo.com/x/2IER) {#review-sample-emails-by-segment}
+## [Voorbeelde-mails per segment controleren](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
 Marketo heeft een nieuwe optie om een segment te kiezen wanneer u voorbeelde-mails ter controle verzendt. U hoeft niet meer handmatig te bepalen tot welk segment een lead behoort, waardoor het eenvoudiger wordt om e-mails met dynamische inhoud naar verschillende segmenten te verzenden.
 
-## [Aangepaste vragen voor LinkedInLead Gen](https://docs.marketo.com/x/ngLG) {#linkedin-lead-gen-custom-questions}
+## [Aangepaste vragen voor LinkedInLead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-Pas uw LinkedIn Gen-formulieren aan om aangepaste hoofdkenmerken te verzamelen. U kunt nu maximaal drie aangepaste vragen per formulier stellen, kiezen uit tekstinvoer van één regel of meerkeuzevragen en terugkoppelen naar loodvelden voor Marketo.
+Pas uw LinkedIn Gen-formulieren aan om aangepaste hoofdkenmerken te verzamelen. U kunt nu maximaal drie aangepaste vragen per formulier stellen, kiezen uit tekstinvoer die uit één regel bestaat of meerkeuzevragen, en terugkoppelen naar loodvelden die u wilt markeren.
 
-## [Slack-integratie](../../product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## [Slack-integratie](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
 
 We hebben twee functies uitgebracht als onderdeel van onze nieuwe Slack-integratie:
 
@@ -56,15 +56,15 @@ We hebben twee functies uitgebracht als onderdeel van onze nieuwe Slack-integrat
 
 ## Verbeteringen voor ABM {#abm-enhancements}
 
-** [Accounts weergeven zonder contactpersonen](https://docs.marketo.com/x/fKCt)**
+**[Accounts weergeven zonder contactpersonen](https://docs.marketo.com/x/fKCt)**
 
 Marketo ABM synchroniseert nu CRM-accounts en geeft deze weer zonder contactpersonen. Neem nieuwe accounts op zonder verkoopgeschiedenis of marketinggeschiedenis en volg de vorderingen door de volgende resultaten af te stemmen op de accounts.
 
-## Inhoud`<sup>AI </sup>`Analyse {#contentai-analytics}
+## ContentAI-analysemogelijkheden {#contentai-analytics}
 
-** [Nieuw ABM-accountlijstfilter](https://docs.marketo.com/x/1BPG) **
+**[Nieuw ABM-accountlijstfilter](https://docs.marketo.com/x/1BPG)**
 
-De prestaties van inhoud in ABM-accountlijsten bekijken en vergelijken om bestaande inhoud te optimaliseren. Inhoud`<sup>AI</sup>` toont u:
+De prestaties van inhoud in ABM-accountlijsten bekijken en vergelijken om bestaande inhoud te optimaliseren. ContentAI laat u zien:
 
 * bovenste inhoud weergegeven
 * geconverteerde inhoud boven
@@ -72,13 +72,13 @@ De prestaties van inhoud in ABM-accountlijsten bekijken en vergelijken om bestaa
 
 ## Verbeteringen voor webpersonalisatie {#web-personalization-enhancements}
 
-** [Tokens voor webcampagnes](https://docs.marketo.com/x/SwJI)**
+**[Tokens voor webcampagnes](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Tokens zijn nu beschikbaar voor gebruik in webcampagnes. Gebruik tokens om gepersonaliseerde berichten en inhoud te leveren om de betrokkenheid bij uw webcampagnes te vergroten.
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-** [Studio-afbeeldingen ontwerpen in de webcampagneeditor](https://docs.marketo.com/x/SwJI)**
+**[Studio-afbeeldingen ontwerpen in de webcampagneeditor](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Bespaar tijd door creatieve elementen en afbeeldingen op meerdere kanalen in Marketo opnieuw te gebruiken.
 
@@ -86,10 +86,10 @@ Bespaar tijd door creatieve elementen en afbeeldingen op meerdere kanalen in Mar
 
 ## Integratie {#integration}
 
-** [E-mailvoorbeeld-API](https://developers.marketo.com/rest-api/assets/emails/)**
+**[E-mailvoorbeeld-API](https://developers.marketo.com/rest-api/assets/emails/)**
 
 U kunt nu op afstand een voorbeeld van een e-mailbericht weergeven buiten Marketo, het lokalisatieproces voor e-mailinhoud vereenvoudigen en fouten verminderen.
 
-** [HTML API vervangen](https://developers.marketo.com/rest-api/assets/emails/)**
+**[HTML-API vervangen](https://developers.marketo.com/rest-api/assets/emails/)**
 
 Ontwikkelaars kunnen HTML-inhoud van e-mailmiddelen op afstand bijwerken, zodat ze binnen één systeem kunnen werken om elementen te onderhouden.
