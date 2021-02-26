@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: Opmerkingen bij de release - Juni '19 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni '19
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,14 @@ ht-degree: 0%
 
 De volgende functies zijn opgenomen in de release van 19 juni. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
 
-***Kwartaalreleases***
+**_Kwartaalreleases_**
 
 De volgende functies zijn uitgebracht op 14 juni 2019.
 
 ## Marketo Core Services {#marketo-core-services}
 
 * **Controlesom** bestand bulksgewijs extraheren: Controleer of een volledig bestand is opgehaald door de hash van het bestand te vergelijken met de controlesom van de voltooide extractietaken.
-* **Geautomatiseerde migratie van e-mail 1.0 naar e-mail 2.0:** e-mail 2.0 is volledig compatibel met e-mails en sjablonen van e-mail 1.0. Geniet van nieuwe mogelijkheden, zoals de mogelijkheid om inhoudselementen (afbeeldingen, tekst, enz.) te groeperen in modules definieert u variabelen zoals String, Color, Image, enzovoort. in sjablonen en gebruiken volledig responsieve startsjablonen. Bevat ook een visuele e-mailsjabloonkiezer.
+* **Geautomatiseerde migratie van e-mail 1.0 naar e-mail 2.0**: E-mail 2.0 is volledig compatibel met e-mails en sjablonen van e-mail 1.0. Geniet van nieuwe mogelijkheden, zoals de mogelijkheid om inhoudselementen (afbeeldingen, tekst, enz.) te groeperen in modules definieert u variabelen zoals String, Color, Image, enzovoort. in sjablonen en gebruiken volledig responsieve startsjablonen. Bevat ook een visuele e-mailsjabloonkiezer.
 
 >[!CAUTION]
 >
@@ -30,11 +30,11 @@ De volgende functies zijn uitgebracht op 14 juni 2019.
 
 ## Op account gebaseerde marketing {#account-based-marketing}
 
-* **Overeenkomende`<sup>BETA</sup>`**  LinkedIn-account: Een nieuw ABM vermogen is nu beschikbaar in bèta, die u de capaciteit biedt om lijsten van bekende en whitespace rekeningen rechtstreeks van Marketo naar LinkedIn te verzenden. Deze functionaliteit wordt automatisch opgenomen voor alle klanten van Marketo ABM.
+* **LinkedIn Account Matching (BETA)** : Een nieuw ABM vermogen is nu beschikbaar in bèta, die u de capaciteit biedt om lijsten van bekende en whitespace rekeningen rechtstreeks van Marketo naar LinkedIn te verzenden. Deze functionaliteit wordt automatisch opgenomen voor alle klanten van Marketo ABM.
 
 <br> 
 
-***Vrijgeven door het Kwartaal***
+**_Vrijgeven door het Kwartaal_**
 
 De volgende functies zullen naar verwachting gedurende het tweede kalenderkwartaal en tot het begin van het derde kwartaal van 2019 beschikbaar komen.
 
@@ -47,13 +47,13 @@ De volgende functies zullen naar verwachting gedurende het tweede kalenderkwarta
 
 * **Volledige navigatiekoppelingen**: We hebben navigatie ingeschakeld voor alle toegestane toepassingen, zoals Hootsuite, Kalender en meer.
 * **Weergaven** E-mail, Openingspagina, Fragment, Formulier, Afbeelding en Bestandslijst: Bekijk, zoek, en neem massaacties op om het even welk van uw activa in de Studio van het Ontwerp.
-* **Pagina met details over afbeeldingen, bestanden en fragmenten**: U kunt snelle informatie over uw middelen verkrijgen met metagegevens, zoals  *gemaakt op/* byand-handelingen, zoals  ** verwijderen en  *goedkeuren*.
+* **Pagina met details over afbeeldingen, bestanden en fragmenten**: U kunt snelle informatie over uw middelen verkrijgen met metagegevens, zoals  _gemaakt op/_ byand-handelingen, zoals  __ verwijderen en  _goedkeuren_.
 * **Widget** Communityblogberichten: Toegang tot recente posten van de Gemeenschap in Mijn Marketo.
 * **Widget** Soon vervalt: Voeg de widget &quot;Binnenkort vervallen&quot; toe aan het dashboard Mijn Marketo om te zien welke campagnes en bestemmingspagina&#39;s volgende verlopen.
 * **Meer slimme lijstkaarten**: Segment en doel geschikt met extra slimme lijstkaarten, met inbegrip van de de stroomstap van de &quot;Taak&quot;van de Maken, de slimme lijstregels van CRM, en meer.
 * **Pagina** met details over e-mailkampioenschappen/challenger: Zie gegevens zoals winnende criteria, gemaakt op, enz. van uw e-mailkampioen/challenger testen.
 
-Marketo Sales Connect
+## Marketo Sales Connect {#marketo-sales-connect}
 
 * **Bulkacties in Salesforce-aanpassing**: Maximaliseer productiviteit door e-mail te verzenden en contacten aan campagnes in bulk met de Aanpassing van Salesforce toe te voegen.
 * **Selecteren, slepen en neerzetten**: Organiseer eenvoudig uw exemplaar van Sales Connect met de capaciteit om malplaatjes in intuïtieve categorieën te slepen en te laten vallen.
