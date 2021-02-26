@@ -3,7 +3,7 @@ unique-page-id: 12978906
 description: Stel hoe uw webcampagne wordt weergegeven - Marketo Docs - Productdocumentatie
 title: De weergave van uw webcampagne instellen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -74,5 +74,4 @@ De intent van de uitgang zal de Webcampagne tonen wanneer de muiscurseuruitgang 
 
 >[!TIP]
 >
->Wil je zien hoe je gekozen effecten er op de lange termijn uitzien? Bekijk ze via een [Voorvertoning van een webcampagne](preview-and-test-a-web-campaign.md).
-
+>Wil je zien hoe je gekozen effecten er op de lange termijn uitzien? Bekijk ze via een [Voorvertoning van een webcampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
