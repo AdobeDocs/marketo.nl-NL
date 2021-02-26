@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Opmerkingen bij de release - lente 18 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - lente '18
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ U kunt meer pijpleidingen en inkomsten aansturen door verkoop meer mogelijkheden
 
 ## Bèta {#marketo-sky-open-beta} openen Marketo Sky
 
-[Marketo Sky Open bèta](https://help.marketo.com/hc/en-us)
+[Marketo Sky Open bèta](https://help.marketo.com/)
 
 Open de Marketo Sky-bèta om toegang te krijgen tot meer dan 100 nieuwe productiviteitsverhogende mogelijkheden, waaronder:
 
@@ -69,11 +69,11 @@ Deel uw snelle grafieken eenvoudig met andere gebruikers van Performance Insight
 
 Geoptimaliseerde navigatie en verbeterde workflows geven u inzicht in de criteria voor het succes van het programma en in de toegang tot de programmagegevens.
 
-## Inhoud<sup>AI</sup> {#contentai}
+## ContentAI {#contentai}
 
 [Doelinstelling](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
-Stel het doel van het optimalisatiealgoritme Inhoud<sup>AI</sup> in om meer weergaven, klikken of conversies te sturen.
+Stel het doel van het optimalisatiealgoritme voor ContentAI in om meer weergaven, klikken of conversies te sturen.
 
 ## Integratie en API&#39;s {#integration-and-apis}
 
