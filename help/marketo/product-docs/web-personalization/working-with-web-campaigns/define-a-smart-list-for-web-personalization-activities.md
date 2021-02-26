@@ -3,9 +3,9 @@ unique-page-id: 10097867
 description: Definieer een slimme lijst voor de Personalisatieactiviteiten van het Web - Marketo Docs - de Documentatie van het Product
 title: Een slimme lijst definiëren voor activiteiten van webpersonalisatie
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,10 +23,7 @@ Gebruik een trigger om een e-mail of waarschuwing te verzenden, of wijzig een wa
 
    >[!NOTE]
    >
-   >**Diep duiken**
-   >
-   >
-   >Slimme lijsten kunnen verbazingwekkende dingen doen. Leer meer in [Slimme Deep van de Lijst Dive](../../../product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Slimme lijsten kunnen verbazingwekkende dingen doen. Leer meer in [Slimme Deep van de Lijst Dive](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Zoek de trigger en sleep de trigger naar het canvas.
 
@@ -60,16 +57,11 @@ Gebruik een trigger om een e-mail of waarschuwing te verzenden, of wijzig een wa
    >
    >Bij meerdere triggers gaat een persoon door naar de flow als een van de triggers wordt geactiveerd.
 
-   [Slimme lijst definiëren voor slimme campagne | Batch](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   Als u de campagne op een set mensen tegelijk wilt uitvoeren, leert u hoe u [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >
-   >    
-   >    
-   >    * [Slimme lijst definiëren voor slimme campagne | Batch](../../../product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >    * [Een stroomstap toevoegen aan een slimme campagne](../../../product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >    * [Een slimme lijst definiëren voor activiteiten met betrekking tot voorspellende inhoud](../../../product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+   >* [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+   >* [Een slimme lijst definiëren voor activiteiten met betrekking tot voorspellende inhoud](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
 
-
-Leer hoe u de campagne op een aantal mensen tegelijk kunt uitvoeren.
