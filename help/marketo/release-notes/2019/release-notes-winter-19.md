@@ -3,9 +3,9 @@ unique-page-id: 17727823
 description: Opmerkingen bij de release - Winter '19 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -Winter '19
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
-source-wordcount: '1112'
+source-wordcount: '1109'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 >[!NOTE]
 >
->Microsoft duwt alle online klanten aan om aan de recentste versie van de Dynamica van Microsoft te bevorderen. Als u uw instantie van Marketo met Dynamica Online integreert, zult u aan [verbetering aan de recentste versie van de Oplossing van de Marketo ](../../product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) vóór **31 Januari, 2019** moeten verzekeren om ervoor te zorgen dat uw integratie zal blijven werken.
+>Microsoft duwt alle online klanten aan om aan de recentste versie van de Dynamica van Microsoft te bevorderen. Als u uw instantie van Marketo met Dynamica Online integreert, zult u aan [verbetering aan de recentste versie van de Oplossing van de Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) vóór **31 Januari, 2019** moeten verzekeren om ervoor te zorgen dat uw integratie zal blijven werken.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 ## Verbeteringen voor kernPlatform {#core-platform-enhancements}
 
-** [E-mail CC voor Marketo-e-mails](../../product-docs/email-marketing/general/email-cc.md)**
+**[E-mail CC voor Marketo-e-mails](/help/marketo/product-docs/email-marketing/general/email-cc.md)**
 
 Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worden verzonden.
 
@@ -40,7 +40,7 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 * **Multi-Branding Domain Support for Asset API:** Goedkeuring en klonen van elementen leveren dezelfde resultaten op in de API en de UI.
 * **E-mailCC-ondersteuning voor de API** voor middelen: Gebruikers die e-mailberichten klonen, goedkeuren en verwerken via de API, behouden de pariteit met de instellingen voor de gebruikersinterface.
 
-** [Munchkin v155 (bèta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155 (bèta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **Modus** Alleen API: Gebruikers kunnen nu bepalen wanneer en hoe ze leden van hun database kunnen bijhouden door webapps van één pagina expliciet te laten bellen wanneer ze een bezoek aan een webpagina willen opnemen in plaats van te vertrouwen op de automatische tracering van Marketo.
 * **Uitschakelen-beheer**: Beheer opt-outs eenvoudig door het uitschakelcookie-domein aan te passen aan het Cookie-domein van Munchkin.
@@ -54,8 +54,8 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 * **E-mailservice**: Geniet van betere leverbaarheid plus verbeterde functionaliteit voor het bijhouden van antwoorden, geplande e-mailadressen en functies voor het bulkmail door verbinding te maken met Microsoft Outlook (via Office365 of On-Prem via het tabblad E-mailverbinding).
 * **Nieuwe beheerinstellingen**: Er zijn twee beheerpagina&#39;s toegevoegd om uw exemplaar van Sales Engage te optimaliseren
 
-   * *Teambeheer* ondersteunt een naadloos proces voor het instellen van accounts door beheerders toe te staan abonnementen en teams te bewerken.
-   * *Salesforce Admin* Settingshelps-teams zetten hun SFDC-synchronisatie sneller en eenvoudiger dan ooit in.
+   * _Teambeheer_ ondersteunt een naadloos proces voor het instellen van accounts door beheerders toe te staan abonnementen en teams te bewerken.
+   * _Salesforce Admin_ Settingshelps-teams zetten hun SFDC-synchronisatie sneller en eenvoudiger dan ooit in.
 
 * **OWA-insteekmodule voor Windows**: Met één enkele toe:voegen-binnen, zullen alle cliënten van Windows Office365 in de Ingenieur van de Verkoop worden gesteund, die de capaciteit verstrekken om Levende Diervoeders in Vooruitzichten te gebruiken. De nieuwe insteekmodule is beschikbaar in de Microsoft Store.
 * **Activiteitenbuffer**: Synchroniseer Verkoopservice naar het core Marketo-platform om inzicht in real-time marketing te benutten.
@@ -64,7 +64,7 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 
 >[!NOTE]
 >
->Marketo Sky-releases komen vaker voor. De volgende functies en verbeteringen zullen naar verwachting beschikbaar komen in het laatste kwartaal van 2004 en begin van het eerste kwartaal. Raadpleeg onze [Sky-documentatie](https://help.marketo.com/hc/en-us/articles/360012858573) voor meer informatie en updates.
+>Marketo Sky-releases komen vaker voor. De volgende functies en verbeteringen zullen naar verwachting beschikbaar komen in het laatste kwartaal van 2004 en begin van het eerste kwartaal. Raadpleeg onze [Sky-documentatie](https://help.marketo.com/) voor meer informatie en updates.
 
 * **Optionele standaardervaring**: Marketo-gebruikers kunnen Marketo Sky instellen als hun standaardervaring als ze toegang hebben gekregen van een beheerder.
 
@@ -81,7 +81,7 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 
 ## Op account gebaseerde marketing {#account-based-marketing}
 
-** [Op persoon gebaseerde segmentatie en filteren van ABM](../../product-docs/account-based-marketing/using-personas.md)**
+**[Segmentering en filteren op basis van ABM Persona](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
 
 Pas uw ABM-campagnes aan voor specifieke personen binnen benoemde accounts. Met de functie ABM Persona maakt u een standaardfunctie op basis van hoofdsegmentatie en kunt u aanvullende persoonlijke segmentaties configureren.
 
