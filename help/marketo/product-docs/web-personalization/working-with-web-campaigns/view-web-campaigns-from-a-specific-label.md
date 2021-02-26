@@ -3,7 +3,7 @@ unique-page-id: 4720075
 description: Webcampagnes weergeven van een specifiek label - Marketo Docs - Productdocumentatie
 title: Webcampagnes weergeven op basis van een specifiek label
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Uw campagnes bekijken en filteren volgens een specifiek etiket?
 
 ## Filteren op bestaande labels {#filter-by-existing-labels}
 
-1. Ga naar **Web** **Campagnes**.
+1. Ga naar **Webcampagnes**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,11 +31,7 @@ Uw campagnes bekijken en filteren volgens een specifiek etiket?
 
 >[!MORELIKETHIS]
 >
->* [Webcampagnes labelen](label-your-web-campaigns.md)
->* [Segmenten van een specifiek label weergeven](../../../product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
->* [Segmenten labelen](../../../product-docs/web-personalization/using-web-segments/label-your-segment.md)
-
->
-
-
+>* [Webcampagnes labelen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Segmenten van een specifiek label weergeven](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Segmenten labelen](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)
 
