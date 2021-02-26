@@ -3,7 +3,7 @@ unique-page-id: 10097100
 description: Een webcampagne plannen - Marketo Docs - Productdocumentatie
 title: Een webcampagne plannen
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -29,7 +29,7 @@ U kunt de webcampagne plannen op basis van de tijd van de webbezoeker of een ges
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik [filtereigenschap](filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik [filtereigenschap](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Open het menu Campagnestatus en selecteer **Schema**.
 
@@ -59,11 +59,10 @@ U kunt de webcampagne plannen op basis van de tijd van de webbezoeker of een ges
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. De status van de campagne op de pagina Campagnes verandert in **Gepland **en het klok/kalenderpictogram toont. Klik op dit pictogram om het campagnereschema te bewerken.
+1. De status van de campagne op de pagina Campagnes verandert in **Scheduled** en het klok/kalenderpictogram toont. Klik op dit pictogram om het campagnereschema te bewerken.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
    >De campagnestatus blijft als **Gepland** zelfs wanneer de campagne tijdens de geselecteerde geplande tijden loopt. Wanneer een geplande einddatum is overgegaan, verandert de campagnestatus in **Gepauzeerd**.
-
