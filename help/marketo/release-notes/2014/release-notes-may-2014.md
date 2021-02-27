@@ -3,9 +3,9 @@ unique-page-id: 2951044
 description: Opmerkingen bij de release - mei 2014 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2014
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ De volgende functies zijn opgenomen in de release van mei 2014. Controleer uw Ma
 
 ## Werkruimte {#delete-workspace} verwijderen
 
-Nu kunt u [een ongebruikte werkruimte](../../product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md) schrappen. Verplaats alle elementen naar een andere werkruimte voordat u de werkruimte verwijdert.
+Nu kunt u [een ongebruikte werkruimte](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md) schrappen. Verplaats alle elementen naar een andere werkruimte voordat u de werkruimte verwijdert.
 
 ## Eerste gegoten planning {#schedule-first-cast}
 
-In betrokkenheidsprogramma&#39;s kunt u de datum voor de [eerste cast plannen om](../../product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) uit te voeren. Bijvoorbeeld, specificeer de kadentie om twee weken moet zijn en selecteer de datum van de eerste gietvorm.
+In betrokkenheidsprogramma&#39;s kunt u de datum voor de [eerste cast plannen om](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) uit te voeren. Bijvoorbeeld, specificeer de kadentie om twee weken moet zijn en selecteer de datum van de eerste gietvorm.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -33,13 +33,13 @@ Nu krijgt iedereen meerdere programma&#39;s, streams en communicatielimieten.
 
 ## Koppeling bijhouden in tekste-mails {#link-tracking-in-text-emails}
 
-[Dubbele vierkante ](../../product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) haakjes toevoegen rondom URL&#39;s in de tekstversie van uw e-mails om aan te geven wanneer koppelingen moeten worden omgezet in doorgestuurde Marketo-trackingkoppelingen
+[Dubbele vierkante ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) haakjes toevoegen rondom URL&#39;s in de tekstversie van uw e-mails om aan te geven wanneer koppelingen moeten worden omgezet in doorgestuurde Marketo-trackingkoppelingen
 
 >[!NOTE]
 >
 >**Voorbeeld**
 >
->[[[https://www.marketo.com](https://www.marketo.com)]]
+>`[[https://www.marketo.com]]`
 
 Standaard worden geen koppelingen bijgehouden in de tekstversie van e-mails. Voeg deze nieuwe syntaxis toe om aan te geven wanneer een koppeling moet worden geconverteerd naar een koppeling voor reeksspatiëring. Het gedrag van HTML-koppelingen is ongewijzigd.  Bijgehouden koppelingen toevoegen aan uw e-mails:
 
@@ -59,7 +59,7 @@ Bekijk hoe je links zich in e-mails zullen gedragen. Voorbeelde-mails geven nu k
 
 ## Campagne {#abort-campaign} afbreken
 
-Geen paniek! Als u een fout vindt, gebruikt u de nieuwe [abort campagne](../../product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) knoop om campagnes in hun sporen onmiddellijk tegen te houden. U ontvangt een melding waarin wordt aangegeven hoeveel leads in elke flowstap waren verwerkt toen de campagne werd gestopt.
+Geen paniek! Als u een fout vindt, gebruikt u de nieuwe [abort campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) knoop om campagnes in hun sporen onmiddellijk tegen te houden. U ontvangt een melding waarin wordt aangegeven hoeveel leads in elke flowstap waren verwerkt toen de campagne werd gestopt.
 
 ## Verkoopinzicht in Japans, Portugees en Spaans {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -69,11 +69,11 @@ Download de nieuwste versie van Sales Insight van AppExchange, zodat uw Japans, 
 
 ## Tijdschema voor status en succes van programma in analyse {#program-status-and-success-timeframe-in-program-membership-analysis} van het Lidmaatschap van het Programma
 
-Bekijk hoeveel [leden in elke Status van het Programma](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) en wanneer zij in elke status, met inbegrip van de datum zijn veranderd toen zij het Succes van het Programma bereikten.
+Bekijk hoeveel [leden in elke Status van het Programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) en wanneer zij in elke status, met inbegrip van de datum zijn veranderd toen zij het Succes van het Programma bereikten.
 
 ## A/B-teste-mails in e-mailanalyse {#a-b-test-emails-in-email-analysis}
 
-Rapport over elk van uw [A/B test e-mailvarianten](../../product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in E-mailanalyse.
+Rapport over elk van uw [A/B test e-mailvarianten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in E-mailanalyse.
 
 ## Wijzigingen in analysepakketten {#analytics-packaging-changes}
 
@@ -81,9 +81,4 @@ Revenue Cycle Modeler and Success Path Analyzer is nu inbegrepen in MA Standard 
 
 ## Info over mobiel Platform {#mobile-platform-info}
 
-[Segmenteer en ](../../product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) activeer de e-mails van leads die u opent en klik op hun mobiele apparaten.
-
->[!NOTE]
->
->Vorige [Marketo Release Notes](https://docs.marketo.com/display/docs/release+notes) uitchecken
-
+[Segmenteer en ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) activeer de e-mails van leads die u opent en klik op hun mobiele apparaten.
