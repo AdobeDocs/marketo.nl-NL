@@ -3,7 +3,7 @@ unique-page-id: 4720253
 description: Opmerkingen bij de release -December 2014 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -december 2014
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van december 2014. Controleer 
 
 ## Verkooprapporten {#sales-insight-reports}
 
-Met het [Rapport E-mailprestaties van verkoopinzicht](../../product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) kunt u e-mailgegevens bekijken per e-mail en een vertegenwoordiger. Het steunt e-mails die door Salesforce, de Dynamica van Microsoft, de stop van Vooruitzichten en de stop van Gmail worden verzonden.
+Met het [Rapport E-mailprestaties van verkoopinzicht](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) kunt u e-mailgegevens bekijken per e-mail en een vertegenwoordiger. Het steunt e-mails die door Salesforce, de Dynamica van Microsoft, de stop van Vooruitzichten en de stop van Gmail worden verzonden.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ Met het [Rapport E-mailprestaties van verkoopinzicht](../../product-docs/marketo
 
 ## Aangepast publiek Facebook {#facebook-custom-audiences}
 
-Als uw Marketo-beheerder [Facebook via Admin > Launchpoint](../../product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) heeft toegevoegd, kunt u eenvoudig een aangepast publiek van Facebook maken, bijwerken of [vervangen door leads van een statische of slimme lijst van Marketo](../../product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Zoek het nieuwe Facebook-pictogram onder aan het lead grid van een statische of slimme lijst.
+Als uw Marketo-beheerder [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) heeft toegevoegd, kunt u eenvoudig een aangepast publiek van Facebook maken, bijwerken of [vervangen door leads van een statische of slimme lijst van Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Zoek het nieuwe Facebook-pictogram onder aan het lead grid van een statische of slimme lijst.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Verbeterde klonen in werkruimten {#improved-cloning-across-workspaces}
 
-[Het klonen van een ](../../product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) programma naar een andere werkruimte is nooit eenvoudiger geweest! Wanneer u op Klonen klikt, selecteert u de doelwerkruimte. Klonen niet meer naar een map en verplaatsen vervolgens de map!
+[Het klonen van een ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) programma naar een andere werkruimte is nooit eenvoudiger geweest! Wanneer u op Klonen klikt, selecteert u de doelwerkruimte. Klonen niet meer naar een map en verplaatsen vervolgens de map!
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ Als uw Marketo-beheerder [Facebook via Admin > Launchpoint](../../product-docs/d
 
 ## Verwijzing naar slimme lijst {#reference-smart-list}
 
-[Er kan worden ](../../product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)verwezen naar slimme lijsten die worden gedeeld met een andere werkruimte bij het maken van een slimme lijst of flow.
+[Er kan worden ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) verwezen naar slimme lijsten die worden gedeeld met een andere werkruimte bij het maken van een slimme lijst of flow.
 
 ## Verbeteringen bij importeren weergeven {#list-import-improvements}
 
-[Import ](../../getting-started/quick-wins/import-a-list-of-people.md) filesencoded in UTF-16, Shift-JIS, of EUC-JP. Wij blijven UTF-8-gecodeerde bestanden ondersteunen.
+[Import ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) filesencoded in UTF-16, Shift-JIS, of EUC-JP. Wij blijven UTF-8-gecodeerde bestanden ondersteunen.
 
 ## Koppeling bijhouden in e-mailscripting {#link-tracking-in-email-scripting}
 
@@ -94,4 +94,3 @@ Beheer en controleer uw belangrijkste hoog-rendementsrekeningen op de nieuwe Ben
 Er is een nieuw effect Schuivend toegevoegd voor InZone-campagnes, zodat uw persoonlijke inhoud tijdens het laden van de pagina op de juiste plaats kan worden geplaatst.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
-
