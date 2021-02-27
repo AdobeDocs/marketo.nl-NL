@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Markeringsproductdocumentatie
 translation-type: tm+mt
-source-git-commit: 6b15e601b1c6e424d10f702f35233b499660611f
+source-git-commit: 8bde41ab77661487bc220c3c4ec52c9be3b09fd0
 workflow-type: tm+mt
-source-wordcount: '7828'
+source-wordcount: '7833'
 ht-degree: 0%
 
 ---
@@ -366,7 +366,7 @@ ht-degree: 0%
             + [Het filter Gewijzigde gegevenswaarde gebruiken in een slimme lijst](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
             + [Advanced Smart List Rule Logic gebruiken](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
          + Personen in slimme lijsten beheren {#managing-people-in-smart-lists}
-            + [Persoon toevoegen aan Lijst van afgewezen personen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)
+            + [Persoon toevoegen aan Lijst van gewezen personen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)
             + [Handmatig een persoon maken](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/create-a-person-manually.md)
             + [Databasedashboard](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)
             + [Personen in een slimme lijst of lijst verwijderen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/delete-people-in-a-smart-list-or-list.md)
@@ -716,6 +716,7 @@ ht-degree: 0%
             + [Een sjabloon voor een bestemmingspagina markeren bewerken](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
             + [Een bestaande landingspaginasjabloon in vrije vorm geschikt maken voor mobiele apparaten](product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
             + [Elementen en variabelen in Geleide sjablonen begrijpen](product-docs/demand-generation/landing-pages/landing-page-templates/understanding-elements-and-variables-in-guided-templates.md)
+            + [Sjabloonlijst met geleide landingspagina](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md)
             + Sjablonen {#guided-landing-page-templates} voor gestuurde landingspagina
                + [Sjabloon 1-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-a.md)
                + [Sjabloon 1-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-1-b.md)
@@ -1075,7 +1076,7 @@ ht-degree: 0%
          + Salesforce-integratie {#salesforce-integration}
             + [Verbind Uw Verkoop Connect Rekening met Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Salesforce loskoppelen van uw Connect-account voor verkoop](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
-            + [Hoe te om &quot;Wij konden niet uw verzoek voor authentiek verklaren&quot;wanneer het verbinden met Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
+            + [Hoe te om &quot;Wij konden niet uw verzoek&quot;voor authentiek verklaren wanneer het verbinden met Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Logboekregistratie beantwoorden](product-docs/marketo-sales-connect/crm/salesforce-integration/reply-logging.md)
             + [Salesforce Diagnostics](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-diagnostics.md)
             + [Instellingen voor Salesforce Sync](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
