@@ -3,9 +3,9 @@ unique-page-id: 2951122
 description: Opmerkingen bij de release - maart 2012 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -maart 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: Maart 2012 {#release-notes-march}
 
->[!NOTE]
->
->**Diep duiken**
->
->Voor andere versies, zie [Nota&#39;s van de Versie](https://docs.marketo.com/display/docs/release+notes) diepe duik.
->
->## Mijn tokens oplossen {#resolve-my-tokens}>
+## Mijn tokens oplossen {#resolve-my-tokens}
 
 Mijn tokens (Program Tokens) worden verwerkt wanneer een voorbeeld van een e-mail wordt weergegeven, een teste-mail wordt verzonden en een lokale e-mail wordt verzonden via één flowactie. U hoeft niet langer een slimme campagne in het programma te maken om uw My Tokens te testen!
 
