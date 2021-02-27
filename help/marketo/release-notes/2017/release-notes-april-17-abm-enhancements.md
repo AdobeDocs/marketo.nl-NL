@@ -3,7 +3,7 @@ unique-page-id: 12977326
 description: Opmerkingen bij de release - April '17 ABM Enhancements - Marketo Docs - Product Documentation
 title: Opmerkingen bij de release - april '17 Verbeteringen ABM
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -30,4 +30,3 @@ U kunt nu aangepaste velden toevoegen aan accounts, deze toewijzen aan uw CRM en
 U kunt nu eenvoudig uw benoemde accounts filteren op basis van een accountlijst.
 
 ![](assets/named-account-filters.png)
-
