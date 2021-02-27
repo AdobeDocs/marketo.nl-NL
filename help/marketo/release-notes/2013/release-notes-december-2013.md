@@ -3,9 +3,9 @@ unique-page-id: 2951052
 description: Opmerkingen bij de release -December 2013 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -december 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,9 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: December 2013 {#release-notes-december}
 
-De volgende functies zijn opgenomen in de release van december. Controleer [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van december.
 
 Na de release moet u het tabblad Nieuwe release in de Gemeenschap bekijken voor gedetailleerde artikelen in de Knowledge Base voor elke functie.
-
-## Foto&#39;s {#sweet-background-photos} op achtergrond
-
-We zijn begonnen onze creatieve flair in de toepassing uit te drukken. Elk kwartaal wordt er een nieuwe kunstenaar weergegeven. Om ons weg te schoppen, selecteerden wij [Trey Ratcliff](https://stuckincustoms.smugmug.com/).
 
 ## E-mailprogramma {#email-program}
 
