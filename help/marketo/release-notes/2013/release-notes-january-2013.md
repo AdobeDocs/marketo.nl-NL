@@ -3,7 +3,7 @@ unique-page-id: 2951105
 description: Opmerkingen bij de release - januari 2013 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - januari 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -62,4 +62,3 @@ In veldweergavenamen kan tekst in verschillende talen worden weergegeven (zo wor
 De de stroomstap van de Gegevens van het Programma van de Verandering staat u toe om de Status van het Succes en de Datum van het Succes van een programmalid manueel door een campagne te veranderen. U kunt deze stroomstap gebruiken om een fout te corrigeren of om handmatig een lid te wijzigen dat mogelijk niet naar wens aan het programma heeft deelgenomen.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)
-
