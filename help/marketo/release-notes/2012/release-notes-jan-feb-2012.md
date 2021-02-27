@@ -3,9 +3,9 @@ unique-page-id: 2951124
 description: Opmerkingen bij de release - jan/feb 2012 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - jan/feb 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,9 @@ ht-degree: 0%
 
 De volgende functies zijn opgenomen in de jan/feb-release. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid. Kom terug na de release voor koppelingen naar gedetailleerde functiedocumentatie.
 
->[!NOTE]
->
->**Diep duiken**
->
->Voor andere versies, zie [Nota&#39;s van de Versie](https://docs.marketo.com/display/docs/release+notes) diepe duik.
-
 ## Geavanceerde dynamische inhoud {#advanced-dynamic-content}
 
-*Beschikbaar voor Pro- en Enterprise-versies*
+_Beschikbaar voor Pro- en Enterprise-versies_
 
 Met geavanceerde dynamische inhoud kunt u aansprekende e-mailcommunicatie en bestemmingspagina&#39;s creëren relevant voor uw publiek zonder het moeten veelvoudige activa voor het zelfde bericht tot stand brengen. Met de bijgewerkte voorvertoningen kunt u elke unieke versie in één scherm bekijken.
 
@@ -31,7 +25,7 @@ Met geavanceerde dynamische inhoud kunt u aansprekende e-mailcommunicatie en bes
 
 ## Segmentering {#segmentation}
 
-*Beschikbaar voor Pro- en Enterprise-versies*
+_Beschikbaar voor Pro- en Enterprise-versies_
 
 De segmentatie is een groep segmenten, die een gerichte groep individuen zijn aan wie u markt. De segmenten worden bepaald door regels die door filtercriteria gelijkend op slimme lijsten worden gedreven. Uw segmenten kunnen worden gebaseerd op demografische gegevens, zoals functie of industrie, of op gedrag zoals bezochte webpagina&#39;s of aangeklikte koppelingen.
 
@@ -39,7 +33,7 @@ De segmentatie is een groep segmenten, die een gerichte groep individuen zijn aa
 
 ## Fragmenten {#snippets}
 
-*Beschikbaar voor Pro- en Enterprise-versies*
+_Beschikbaar voor Pro- en Enterprise-versies_
 
 Sla rijke inhoud op die u telkens opnieuw kunt gebruiken om statische of dynamische e-mails en bestemmingspagina&#39;s te maken.
 
@@ -47,7 +41,7 @@ Sla rijke inhoud op die u telkens opnieuw kunt gebruiken om statische of dynamis
 
 ## PURL&#39;s {#purls}
 
-*Beschikbaar voor Pro- en Enterprise-versies*
+_Beschikbaar voor Pro- en Enterprise-versies_
 
 Het gebruiken van Persoonlijke URLs (PURLs) marketers kan nu contact-specifieke URLs tot stand brengen, om verpersoonlijking, meetbaarheid en liftreacties in multi-aanraak marketing programma&#39;s voor zowel direct mail als e-mailcampagnes te drijven.
 
@@ -105,4 +99,3 @@ Begrijp marketing bijdrage aan individuele opportuniteitsopbrengst
 Verbeter inzicht in de snelheid van de programmaleiding door te begrijpen welke programma&#39;s de fast movers verwierven
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)
-
