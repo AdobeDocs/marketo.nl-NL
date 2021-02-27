@@ -3,9 +3,9 @@ unique-page-id: 12255606
 description: Opmerkingen bij de release - Winter '17 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - Winter '17
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Exporteer alle details en analyses van uw webcampagne in CSV-indeling. Vervolgen
 
 ![](assets/web-personalization-csv-download-hand.png)
 
-## [Lokalisatie](https://docs.marketo.com/display/docs/web+personalization) {#localization}
+## Lokalisatie {#localization}
 
 De apps Web Personalization, Predictive Content en Email Insights zijn nu beschikbaar in het Japans, Duits en Spaans. U [selecteert uw taal en landinstelling](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) om uw inhoud in deze talen weer te geven.
 
@@ -71,7 +71,7 @@ Analyses van voorspellende inhoud filteren voor specifieke bronnen — E-mail, R
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[Redacteur voor voorspellende inhoud](https://docs.marketo.com/display/docs/edit+predictive+content)**
+**Redacteur voor voorspellende inhoud**
 
 Er is een verbeterde bewerkingservaring en lay-out waarmee de voorbereiding van inhoud wordt gesplitst naar bron — E-mail, Rijke media of Aanbevelingenbalk.
 
