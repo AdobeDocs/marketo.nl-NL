@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2951101
 description: Opmerkingen bij de release - maart 2013 - Marketo Docs - Productdocumentatie
-title: Release-aantekeningen -maart 2013
+title: Opmerkingen bij de release - maart 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,11 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: Maart 2013 {#release-notes-march}
 
-De volgende functies zijn opgenomen in de release van maart. Controleer [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
-
-Na de release moet u het tabblad [Nieuwe release](release-notes-december-2013.md) in de Gemeenschap uitchecken voor gedetailleerde artikelen in de Knowledge Base voor elke functie!
+De volgende functies zijn opgenomen in de release van maart.
 
 ## Kalenderbestanden markeren {#marketo-calendar-files}
 
-Maak een kalenderbestand als een **Mijn token** dat moet worden gebruikt in e-mails voor bevestiging en herinnering van gebeurtenissen. Dit geïntegreerde kalenderbestand (bijvoorbeeld .ics het dossier) zal alle tokens, met inbegrip van Mijn Tokens en het `{{member.webinar URL}}` teken teruggeven.
+Maak een kalenderbestand als een **Mijn token** dat moet worden gebruikt in e-mails voor bevestiging en herinnering van gebeurtenissen. Dit geïntegreerde kalenderbestand (bijvoorbeeld het .ics-bestand) rendert alle tokens, inclusief Mijn tokens en de `{{member.webinar URL}}`-token.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 
