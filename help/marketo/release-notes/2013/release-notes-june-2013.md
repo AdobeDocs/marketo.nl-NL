@@ -3,9 +3,9 @@ unique-page-id: 2951095
 description: Opmerkingen bij de release - juni 2013 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: Juni 2013 {#release-notes-june}
 
-De volgende functies zijn opgenomen in de release van juni. Controleer [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
-
-Na de release moet u het tabblad [Nieuwe release](release-notes-december-2013.md) in de Gemeenschap uitchecken voor gedetailleerde artikelen in de Knowledge Base voor elke functie!
+De volgende functies zijn opgenomen in de release van juni.
 
 ## Aanvullende gebruikerstalen {#additional-user-languages}
 
@@ -42,4 +40,3 @@ Een bovenliggend idee voor de Analytics van de Cyclus van de Opbrengst (RCA) in 
 Standaard zijn er twee modellen beschikbaar voor Select SMB Edition en vijftien modellen voor Enterprise Edition. U kunt ook extra modellen aanschaffen.
 
 ![](assets/image2014-9-22-16-3a26-3a59.png)
-
