@@ -3,9 +3,9 @@ unique-page-id: 2951050
 description: Opmerkingen bij de release - januari 2014 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - januari 2014
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ De volgende functies zijn opgenomen in de release van januari 2014. Controleer [
 
 ## Forms 2.0 {#forms}
 
-Kop omhoog: De documentatie voor Forms 2.0 komt binnenkort. In de tussentijd leert u meer onder en in de video [intro](https://docs.marketo.com/display/docs/forms)!
+Kop omhoog: Documentatie voor Forms 2.0 komt binnenkort beschikbaar!
 
-U kunt het maken van formulieren besturen en webontwikkelaars een onderbreking geven. [Forms](https://docs.marketo.com/display/docs/forms) 2.0 is ontworpen om Marktdeelnemers in staat te stellen zowel visueel als functioneel robuuste formulieren te maken zonder dat ze programmeerkennis nodig hebben.
+U kunt het maken van formulieren besturen en webontwikkelaars een onderbreking geven. Forms 2.0 is ontworpen om Marktdeelnemers in staat te stellen zowel visueel als functioneel robuuste formulieren te maken zonder dat ze programmeerkennis nodig hebben.
 
 **Geef uw Forms de visuele controle die zij verdienen:**
 
@@ -27,7 +27,8 @@ Met themaontwerpen, knopaanpassing en flexibele indelingen kunt u moderne, uitzi
 
 **Logica voorwaardelijke zichtbaarheid en opvolgingspagina:**
 
-![](assets/image2014-9-22-10-3a30-3a52.png)\
+![](assets/image2014-9-22-10-3a30-3a52.png)
+
 Wilt u dat de status alleen wordt weergegeven als een gebruiker de Verenigde Staten als hun &quot;Land&quot; selecteert? Hoe kunt u verschillende whitepapers presenteren aan klanten op basis van hoe ze vragen op uw formulier beantwoorden? Bouw voorwaardelijke logica in uw vormen recht van de redacteur. Geen javascript vereist!
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
@@ -38,17 +39,14 @@ Gone is het aantal dagen dat HTML-code wordt opgehaald uit formulieren die op Ma
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
-Leer meer van [Forms 2.0 intro video](https://docs.marketo.com/display/docs/forms). (Documentatie die binnenkort naar de diepe duik [Forms](https://docs.marketo.com/display/docs/forms) komt!)
-
 ## Communicatielimieten voor e-mailprogramma {#communication-limits-for-email-program}
 
-[Stel Communicatielimieten in voor een e-](../../product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) mailprogramma om ervoor te zorgen dat u niet te veel communiceert met uw database. Als een persoon de gedefinieerde limiet overschrijdt, ontvangt ze geen e-mail.
+[Stel Communicatielimieten in voor een e-](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) mailprogramma om ervoor te zorgen dat u niet te veel communiceert met uw database. Als een persoon de gedefinieerde limiet overschrijdt, ontvangt ze geen e-mail.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Extra velden in de analyse {#additional-fields-in-program-membership-analysis} van het programmamandschap
 
-Nu kunt u uw [Analyse van het Lidmaatschap van het Programma](../../product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) metriek door lood en bedrijfattributen toevoegen en groeperen. Bijvoorbeeld, kunt u het gebied van de Industrie toevoegen om de splitsing van uw programmaleden en successen te zien.
+Nu kunt u uw [Analyse van het Lidmaatschap van het Programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) metriek door lood en bedrijfattributen toevoegen en groeperen. Bijvoorbeeld, kunt u het gebied van de Industrie toevoegen om de splitsing van uw programmaleden en successen te zien.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)
-
