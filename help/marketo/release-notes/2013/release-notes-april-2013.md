@@ -3,9 +3,9 @@ unique-page-id: 2951099
 description: Opmerkingen bij de release - april 2013 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -april 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: April 2013 {#release-notes-april}
 
-De volgende functies zijn opgenomen in de release van april. Controleer [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
-
-Na de release moet u het tabblad [Nieuwe release](release-notes-december-2013.md) in de Gemeenschap uitchecken voor gedetailleerde artikelen in de Knowledge Base voor elke functie!
+De volgende functies zijn opgenomen in de release van april.
 
 ## Box Integration {#box-integration}
 
