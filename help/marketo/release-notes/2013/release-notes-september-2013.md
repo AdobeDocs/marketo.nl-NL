@@ -3,9 +3,9 @@ unique-page-id: 2951056
 description: Opmerkingen bij de release - september 2013 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -september 2013
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: September 2013 {#release-notes-september}
 
-De volgende functies zijn opgenomen in de release van september. Controleer [Marketo Edition](https://docs.marketo.com/display/docs/assets/pricing.php) op beschikbaarheid van functies.
-
-Na de release moet u het tabblad [Nieuwe release](release-notes-december-2013.md) in de Gemeenschap uitchecken voor gedetailleerde artikelen in de Knowledge Base voor elke functie!
+De volgende functies zijn opgenomen in de release van september.
 
 ## Kortere URL&#39;s {#shorter-urls}
 
