@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2951109
-description: Opmerkingen bij de release - Oktober 2012 - Marketo Docs - Productdocumentatie
+description: Opmerkingen bij de release - oktober 2012 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - oktober 2012
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 0%
@@ -58,4 +58,3 @@ Maak rapportabonnementen en verzend regelmatig de rapporten van de Ontdekkingsre
 >[!NOTE]
 >
 >Alleen beschikbaar voor gebruikers met Revenue Explorer door de Revenue Cycle Analytics te kopen bij de Enterprise of de Select Edition.
-
