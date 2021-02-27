@@ -3,9 +3,9 @@ unique-page-id: 11380218
 description: Opmerkingen bij de release - zomer 16 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - zomer 16
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Marketo Account Based Marketing biedt alle essentiële elementen in één unifor
 >
 >ABM is beschikbaar als een invoegtoepassing voor uw abonnement op Marketo. Neem daarom contact op met uw vertegenwoordiger om het te laten implementeren.
 
-## [Audittrail](https://docs.marketo.com/display/docs/audit+trail) {#audit-trail}
+## [Audittrail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
 Het spoor van de controle verstrekt een uitvoerige geschiedenis van de veranderingen die binnen uw abonnement van Marketo worden aangebracht. Het zal verantwoordingsplicht onder gebruikers en beheerders tot stand brengen, hulp de oorzaak van onverwacht gedrag identificeren, en de veiligheid van het weten verstrekken wie doet wat en wanneer. Deze informatie zal op elk ogenblik beschikbaar zijn en kan worden gebruikt om vragen zoals te beantwoorden:
 
@@ -39,7 +39,7 @@ Het spoor van de controle verstrekt een uitvoerige geschiedenis van de veranderi
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint Integration](https://docs.marketo.com/display/docs/vibes+sms+messages) {#marketo-vibes-sms-launchpoint-integration}
+## [Marketo-Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
 Maak eenvoudig sms-berichten rechtstreeks in Marketo. Personaliseer en richt uw bericht gebruikend uw rijke gegevens van de Marketo, en controleer gemakkelijk zijn prestaties gebruikend het het berichtdashboard van SMS.
 
@@ -72,7 +72,7 @@ Gebruik de nieuwe zoekfunctionaliteit om op efficiënte wijze inhoud in de code 
 
 Tokens kunnen nu worden gebruikt in het gebied Externe URL van de ervaring bij het invoegen van afbeeldingen! Als u afbeeldingen hebt opgegeven met `{{my.tokens}}`, kunt u nu naar deze tokens verwijzen in e-maileditor 2.0. De afbeelding wordt nog steeds verbroken weergegeven in het canvas van de e-maileditor 2.0. U ziet ze echter wel weergegeven in Voorbeeld en Voorbeeld verzenden voordat u uw e-mail verzendt.
 
-## [Meerdere merkdomeinen](https://docs.marketo.com/display/docs/add+multiple+branding+domains) {#multiple-branding-domains}
+## Meerdere brandingdomeinen {#multiple-branding-domains}
 
 Gone is de dagen waarin koppelingen voor het bijhouden van e-mails alleen met één merkdomein kunnen worden gemarkeerd. U kunt nu meerdere brandingdomeinen toevoegen om het vertrouwen van de consument te vergroten, een gestroomlijnder uiterlijk te creëren om de aandacht op merken te richten, de e-mailleverbaarheid te verbeteren en per e-mail te kiezen welk brandingdomein moet worden gebruikt voor de trackingkoppelingen van elke e-mail.
 
