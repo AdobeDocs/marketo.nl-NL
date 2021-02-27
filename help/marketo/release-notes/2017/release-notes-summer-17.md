@@ -3,9 +3,9 @@ unique-page-id: 12980993
 description: Opmerkingen bij de release - Summer '17 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - zomer '17
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ De volgende functies zijn opgenomen in de release van zomer 17. Controleer uw ui
 
 Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. Opmerking: Aan sommige functies in deze release zijn geen artikelen gekoppeld. Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
 
-## [Extra offlineomzettingsfasen van Facebook](https://docs.marketo.com/x/kbSt) {#additional-facebook-offline-conversion-stages}
+## [Extra offlineomzettingsfasen van Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
 Kies maximaal 7 extra offlineconversiefasen om toe te wijzen aan uw fasen van de Marketo-levenscyclus (boven de 3 die momenteel beschikbaar zijn). Optimaliseer uw Facebook-advertentie op basis van omzettingen op de hele reis van uw klant om een beter investeringsrendement te behalen.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [Sjabloon Verkoopoverzicht vergrendelen](https://docs.marketo.com/x/OhPG) {#lock-sales-insight-template}
+## [Sjabloon Verkoopoverzicht vergrendelen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
 
 Zorg voor consistentie van berichten en inhoud door bewerkingen in uw verkoopsjablonen te voorkomen. Dit helpt malplaatjes standaardiseren en professionele mededelingen handhaven.
 
@@ -35,17 +35,17 @@ Zorg voor consistentie van berichten en inhoud door bewerkingen in uw verkoopsja
 
 Personen afstemmen op Japanse bedrijfsnamen in de lokale taal.
 
-** [ABM en LeanData Integration](https://docs.marketo.com/x/pKmt)**
+**[Integratie van ABM en LeanData](https://docs.marketo.com/x/pKmt)**
 
 Dankzij de integratie met LeanData is nu &#39;lead-to-account&#39;-matching in Marketo mogelijk. Houd marketing en verkoop op één lijn door het zelfde lood verbonden aan rekeningen binnen de verkoop en marketing systemen van verslag te hebben. De flexibelere opties geven Marketing en Verkoop Verrichtingen meer controle over lood-aan-rekening passende regels, zodat kunnen zij hun gewenste niveau van precisie bereiken.
 
 ## Verbeteringen voor webpersonalisatie {#web-personalization-enhancements}
 
-** [Verbeteringen voor voorvertoning van campagne](https://docs.marketo.com/x/fQGa)**
+**[Verbeteringen voor Campagnevoorvertoning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
 De artsen van de marketing kunnen nu ervoor zorgen hun Webcampagnes over om het even welk apparaat *groot zullen kijken alvorens* hen lanceert. Met deze verbeteringen kunt u zien hoe uw webcampagnes worden gerenderd op verschillende desktops, mobiele apparaten en tablets. De nieuwe insteekmodule voor Chrome biedt ook consistentere en nauwkeurigere voorvertoningen.
 
-** [Verbeteringen voor widgetcampagne](https://docs.marketo.com/x/KgNI)**
+**[Verbeteringen voor widgetcampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
 Nieuwe opties voor widgetcampagnes zijn nu beschikbaar, waaronder:
 
@@ -53,11 +53,11 @@ Nieuwe opties voor widgetcampagnes zijn nu beschikbaar, waaronder:
 * Campagnes weergeven (elke positie rond het scherm)
 * De pijl uitbreiden/minimaliseren in om het even welke tekst CTA
 
-## Inhoud`<sup>AI</sup>` {#contentai}
+## ContentAI {#contentai}
 
-** [Inhoud`<sup>AI </sup>`Analyse en suggesties](https://docs.marketo.com/x/1BPG)**
+**[ContentAI-analysemogelijkheden en suggesties](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
 
-Verhoog het rendement van uw contentmarketing met diepere analyses en suggesties voor inhoud op basis van AI om de betrokkenheid te verhogen.** * Krachtige analyses laten zien hoe aanbevolen inhoud presteert, inclusief populaire, trending- en publieksgerichte weergaven. U ziet ook suggesties voor extra inhoud die u wilt opnemen.
+Verhoog het rendement van uw contentmarketing met diepere analyses en suggesties voor inhoud op basis van AI om de betrokkenheid te verhogen. Krachtige analyses laten zien hoe aanbevolen inhoud presteert, inclusief populaire, trending- en publieksgerichte weergaven. U ziet ook suggesties voor extra inhoud die u wilt opnemen.
 
 ## Analyse {#analytics}
 
@@ -65,6 +65,6 @@ Verhoog het rendement van uw contentmarketing met diepere analyses en suggesties
 
 Haal nog meer uit uw e-mailvisie met nieuwe manieren om gegevens voor te bereiden en te delen. U kunt nu de resultaten van uw e-mailinzichten downloaden naar Microsoft Excel en PowerPoint om met de gegevens buiten Marketo te werken.
 
-## [Ondersteuning voor federatieve identiteitsconfiguratie](https://docs.marketo.com/x/XhzG) {#federated-identity-configuration-support}
+## Ondersteuning voor federatieve identiteitsconfiguratie {#federated-identity-configuration-support}
 
 Houd authentificatie (Actieve Folder) achter uw firewall op-gebouw terwijl het blijven gebruiken van CRM van de Dynamica van Microsoft in de wolk.
