@@ -3,7 +3,7 @@ unique-page-id: 2951103
 description: Opmerkingen bij de release - februari 2013 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - februari 2013
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Facebook-tabs die van Marketo worden gepubliceerd, detecteren mobiele apparaten 
 
 ## Binnenkort beschikbaar: Ondersteuning voor meerdere modellen {#coming-soon-support-for-multiple-models}
 
-We leggen de basis voor de ondersteuning van meerdere modellen voor inkomstencycli, en hebben in een toekomstige release het #1-idee voor RCA in de Gemeenschap goedgekeurd. In deze versie zult u enkele wijzigingen opmerken, waaronder [Slimme lijstfilters en Keuzen toevoegen in Stappen](../../product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) om de selectie van een model en werkgebied te ondersteunen. Ook verplaatsen we de velden Opbrengstgebied lead en Opbrengstcyclusmodel lead uit het tabblad Lead-raster van slimme lijst.
+We leggen de basis voor de ondersteuning van meerdere modellen voor inkomstencycli, en hebben in een toekomstige release het #1-idee voor RCA in de Gemeenschap goedgekeurd. In deze versie zult u enkele wijzigingen opmerken, waaronder [Slimme lijstfilters en Keuzen toevoegen in Stappen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) om de selectie van een model en werkgebied te ondersteunen. Ook verplaatsen we de velden Opbrengstgebied lead en Opbrengstcyclusmodel lead uit het tabblad Lead-raster van slimme lijst.
