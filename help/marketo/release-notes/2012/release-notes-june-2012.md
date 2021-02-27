@@ -3,21 +3,15 @@ unique-page-id: 2951114
 description: Opmerkingen bij de release - juni 2012 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
 
 # Opmerkingen bij de release: Juni 2012 {#release-notes-june}
-
->[!NOTE]
->
->**Diep duiken**
->
->Voor andere versies, zie [Nota&#39;s van de Versie](https://docs.marketo.com/display/docs/release+notes) diepe duik.
 
 ## Verbeteringen in markttoonbeheer {#marketo-lead-management-enhancements}
 
