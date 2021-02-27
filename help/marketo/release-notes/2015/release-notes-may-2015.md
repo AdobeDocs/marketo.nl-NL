@@ -3,9 +3,9 @@ unique-page-id: 7514821
 description: Opmerkingen bij de release - mei 2015 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2015
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van mei 2015. Controleer uw Ma
 
 ## Volledig responsieve landingspagina&#39;s
 
-[Volledig responsieve landingspagina&#39;s](../../product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+[Volledig responsieve landingspagina&#39;s](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
 We geven een nieuwe bewerkingsmodus voor de bestemmingspagina en de sjabloonsyntaxis vrij. In tegenstelling tot onze bestemmingspagina-editor met de &quot;Vrije vorm&quot;, biedt de nieuwe bestemmingspagina-editor met de &quot;Met instructies&quot; een gestructureerde bewerkingservaring voor volledig reagerende bestemmingspagina&#39;s.
 
@@ -25,7 +25,7 @@ We geven een nieuwe bewerkingsmodus voor de bestemmingspagina en de sjabloonsynt
 
 ## E-mailprogramma afbreken
 
-[E-mailprogramma afbreken](../../product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
+[E-mailprogramma afbreken](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
 Hebt u op de knop Verzenden geklikt voordat een e-mailprogramma klaar was om uit te gaan? Trek de remmen met de nieuwe knop voor het afbreken van e-mailprogramma. Hiermee stopt u de e-mailprogramma&#39;s tijdens de vlucht direct in hun sporen.
 
@@ -39,15 +39,12 @@ Vanaf deze release zijn geldige HTML-opmerkingen nu toegestaan en niet verwijder
 
 ## RTP: De redacteur van het Segment van de belemmering en van de Daling {#rtp-drag-and-drop-segment-editor}
 
-RTP: [Editor van segment slepen en neerzetten](https://docs.marketo.com/display/public/DOCS/RTP+Segments)
+RTP: [Editor van segment slepen en neerzetten](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Sleep de criteria naar de gesegmenteerde builder, definieer de waarde en u bent op weg naar het maken van een real-time segment.
 
 ## RTP: Voorspelende inhoud Recommendations {#rtp-predictive-content-recommendations}
 
-[Predictive Content Recommendations](https://docs.marketo.com/display/DOCS/Enabling+the+Rich+Media+Recommendation+Engine)
+[Predictive Content Recommendations](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
 De machine van RTP van het gebruik het leren en voorspellende analysealgoritmen om de juiste inhoud aan het juiste vooruitzicht aan te bevelen. Verbeter uw inhoudselementen visueel met beelden en tekstbeschrijvingen en adviseer meer dan één inhoudsmiddel.
-
-![](https://lh6.googleusercontent.com/yZhSkWzW3BES9hSTUirKxM5BENG6c1kuYoclQaSY49UZpjF0s4llnshW4DV-vp4myucgOH9IJ3SqyNdy-nc38Xgy-43IY3QblAS1jY5N8GcP4xgTD1Nbp7ibfZV4yc4PM6AHqt4)
-
