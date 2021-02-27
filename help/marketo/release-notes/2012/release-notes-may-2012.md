@@ -3,21 +3,15 @@ unique-page-id: 2951117
 description: Opmerkingen bij de release - mei 2012 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
 
 # Opmerkingen bij de release: Mei 2012 {#release-notes-may}
-
->[!NOTE]
->
->**Diep duiken**
->
->Voor andere versies, zie [Nota&#39;s van de Versie](https://docs.marketo.com/display/docs/release+notes) diepe duik.
 
 ## E-mailprestatierapport Opnieuw ontwerpen {#email-performance-report-redesign}
 
@@ -47,7 +41,9 @@ Vereenvoudig het inchecken van gebeurtenissen met onze nieuwe iPad-app! De app v
 
 Vereist iOS 5.1 of hoger; Alleen iPad.
 
-![](assets/image2014-9-23-10-3a14-3a46.png)Figuur 3. Startpagina voor inchecken van gebeurtenissen
+![](assets/image2014-9-23-10-3a14-3a46.png)
+
+Figuur 3. Startpagina voor inchecken van gebeurtenissen
 
 ![](assets/image2014-9-23-10-3a15-3a6.png)
 
@@ -142,4 +138,3 @@ Figuur 15. Zie Anonieme webactiviteit
 ## Uitgebreide lead en contactpersoon abonneren {#enhanced-lead-and-contact-subscribe}
 
 Volg een lead of neem op elk gewenst moment contact op met de nieuwe knop Abonneren op de pagina met recorddetails.
-
