@@ -3,9 +3,9 @@ unique-page-id: 4720758
 description: Opmerkingen bij de release - januari 2015 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - januari 2015
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,13 @@ De volgende functies zijn opgenomen in de release van januari 2015. Controleer u
 
 ## Updates voor marketingautomatisering {#marketing-automation-updates}
 
-**Nieuwe foto&#39;s van Rick DeCosta!**
-
-Rick is een Marketo-klant van SmartBear en heeft een [ongelooflijke verzameling foto&#39;s](https://www.flickr.com/photos/rickdecosta). Bekijk ze!
-
-## Mobiele vriendelijke landingspagina&#39;s {#mobile-friendly-landing-pages}
+**Mobiele, vriendelijke landingspagina&#39;s**
 
 U kunt nu [mobiele weergaven maken voor het landen van pagina&#39;s](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) vanuit de bestemmingspagina-editor. Geef uw boodschap effectief, ongeacht het apparaat, en vergroot de betrokkenheid door uw inhoud onderweg op maat te maken voor eenvoudig verbruik. Deze functie wordt geleidelijk uitgevoerd in de hele week na de release.
 
-`<iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/aPQHlG2X6c0" frameborder="0" allowfullscreen></iframe>`
+[-Landing Page Walkthrough Video-](https://youtu.be/aPQHlG2X6c0)
 
-**Nieuwe aanroepen van ReST API**
+**Nieuwe Rest API-aanroepen**
 
 Drie nieuwe aanroepen voor de API voor leidende informatie en activiteiten:
 
@@ -57,9 +53,9 @@ De verbeteringen aan de module Benoemde accounts zullen de percentages en valida
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
-Bijgewerkte opties voor RTP-tags
+**Bijgewerkte opties voor RTP-tags**
 
-[De Tagoptions van RTP ](https://docs.marketo.com/display/docs/rtp+tag+implementation) onder de Montages van de Rekening zijn bijgewerkt om te omvatten:
+De opties voor de RTP-tag onder Accountinstellingen zijn zo bijgewerkt dat:
 
 1. CDN en Asynchroon (aanbevolen tag)
 1. CDN en synchroon (hoge snelheid)
