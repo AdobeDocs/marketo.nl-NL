@@ -3,7 +3,7 @@ unique-page-id: 2950212
 description: Opmerkingen bij de release - Augustus 2014 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -augustus 2014
 translation-type: tm+mt
-source-git-commit: 96cc6a30c63c8e8dca793a52e4bf7ecaef8c08dc
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van augustus 2014. Controleer 
 
 ## Licenties {#marketing-calendar-licenses} voor marketingkalender
 
-Na 5 september 2014 hebben slechts vijf gebruikers vrije toegang tot de marketingkalender. Zorg ervoor dat u [Licentie voor een marketingkalender ](../../product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) vóór dan aan de gebruikers van uw keuze doorgeeft/intrekt voor ononderbroken toegang.
+Na 5 september 2014 hebben slechts vijf gebruikers vrije toegang tot de marketingkalender. Zorg ervoor dat u [Licentie voor een marketingkalender ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) vóór dan aan de gebruikers van uw keuze doorgeeft/intrekt voor ononderbroken toegang.
 
 ![—](assets/image2014-9-16-9-3a45-3a52.png)
 
@@ -35,7 +35,7 @@ De volgende nieuwe gebruikersmachtigingen zijn toegevoegd:
 
 ## Gebruikers en rollen exporteren vanuit beheerder {#export-users-and-roles-from-admin}
 
-U kunt [een Lijst van Gebruikers en Rollen ](../../product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) van Marketo nu uitvoeren. U kunt ook een tijdstempel &#39;Laatste aanmelding&#39; opnemen die bij het exporteren moet worden opgenomen.
+U kunt [een Lijst van Gebruikers en Rollen ](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) van Marketo nu uitvoeren. U kunt ook een tijdstempel &#39;Laatste aanmelding&#39; opnemen die bij het exporteren moet worden opgenomen.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -96,4 +96,3 @@ Beheerdergebruikers kunnen gebruikers nu vergrendelen vanwege meerdere mislukte 
 U kunt specifieke IPs van al het volgen en het melden in Echt - tijd Personalisatie nu uitsluiten.
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)
-
