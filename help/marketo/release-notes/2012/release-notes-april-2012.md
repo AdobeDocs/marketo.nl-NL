@@ -3,9 +3,9 @@ unique-page-id: 2951119
 description: Opmerkingen bij de release - april 2012 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -april 2012
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,6 @@ ht-degree: 0%
 # Opmerkingen bij de release: April 2012 {#release-notes-april}
 
 ## Segmenteringsfilters en -triggers {#segmentation-filters-and-triggers}
-
->[!NOTE]
->
->**Diep duiken**
->
->Voor andere versies, zie [Nota&#39;s van de Versie](https://docs.marketo.com/display/docs/release+notes) diepe duik.
 
 Doet u dezelfde groep leads consistent als doel? Als zo, gebruik segmentatie in uw slimme lijsten voor het richten van lood. Met segmentatie, wordt uw volledige loodgegevensbestand altijd gesegmenteerd en het kan over uw programma&#39;s voor consistentie opnieuw worden gebruikt. De resultaten van de segmentatie worden snel getrokken omdat zij niet de slimme lijst vereisen om op het tijdstip van het verzoek te lopen.
 
@@ -63,4 +57,3 @@ Als u uw abonnement niet synchroniseert met Salesforce, ziet u dat alle mappen e
 Staat gebruikers toe om een orde voor hun overgangsregels te bepalen.
 
 ![](assets/image2014-9-23-10-3a5-3a17.png)
-
