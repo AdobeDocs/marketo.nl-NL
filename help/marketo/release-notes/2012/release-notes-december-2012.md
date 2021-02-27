@@ -1,9 +1,9 @@
 ---
 unique-page-id: 2951107
-description: Opmerkingen bij de release -December 2012 - Marketo Docs - Productdocumentatie
-title: Release-aantekeningen -december 2012
+description: Opmerkingen bij de release - December 2012 - Marketo Docs - Productdocumentatie
+title: Opmerkingen bij de release - december 2012
 translation-type: tm+mt
-source-git-commit: 5c9683c6b00ccbf9e9d606fd4513432c9872ad00
+source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -70,7 +70,6 @@ Voeg de gebieden van de douanemogelijkheid toe om uw rapporten van de Analyse va
 
 Hebt u zich ooit afgevraagd welke campagnes een specifieke stroomactie, zoals de Score van de Verandering of Campagne van het Verzoek gebruiken? Of waar wordt een bepaald filter gebruikt? Met de nieuwe Campagne Inspector (beschikbaar op de Treasure Chest) kunt u deze campagnes identificeren en kunt u actieve campagnes en campagnes met fouten herkennen.
 
-Ga naar **Admin** > **Treasure Chest** om de** Campagne Inspector* in te schakelen.
+Ga naar **Admin** > **Treasure Chest** om **Campagne Inspector** in te schakelen.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)
-
