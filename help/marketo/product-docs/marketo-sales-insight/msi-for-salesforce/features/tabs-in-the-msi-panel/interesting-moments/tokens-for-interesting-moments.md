@@ -3,9 +3,9 @@ unique-page-id: 1146999
 description: Tokens voor interessante momenten - Marketo Docs - Productdocumentatie
 title: Tokens voor interessante momenten
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,9 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
 
 * `{{trigger.Trigger Name}}` dat altijd de eigenlijke trigger zelf is. Bijvoorbeeld: Klik op Koppelen in e-mail.
 * `{{trigger.Name}}` Dit is de naam van het element dat de campagne heeft gestart. Bijvoorbeeld: Klik op Koppeling op webpagina is de URL zelf, afhankelijk van Salesforce-triggers, enzovoort.
-* Aanvullende triggers zijn beschikbaar op basis van beperkingen, die hieronder worden weergegeven:
+* Aanvullende triggers zijn beschikbaar op basis van beperkingen, die hieronder worden weergegeven.
+
+**E-mailtriggers**
 
 <table> 
  <colgroup> 
@@ -41,6 +43,9 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   <col> 
   <col> 
   <col> 
+  <col>
+  <col>
+  <col>
   <col> 
  </colgroup> 
  <tbody> 
@@ -56,6 +61,10 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <th><code>{{trigger.Client IP Address}}</code></th> 
    <th><code>{{trigger.Sent By}}</code></th> 
    <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>Klik op Koppeling in e-mail</td> 
@@ -69,6 +78,10 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Bounces per e-mail hard</td> 
@@ -82,6 +95,10 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Bounces zacht e-mailen</td> 
@@ -95,6 +112,10 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>E-mail is bezorgd</td> 
@@ -108,6 +129,10 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Hiermee opent u e-mail</td> 
@@ -121,6 +146,44 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>E-mail doorgestuurd naar vriend</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Verzonden naar e-mail voor vriend</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td>
   </tr> 
   <tr> 
    <td>Abonnement op e-mail opzeggen</td> 
@@ -130,10 +193,54 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><br></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Salesforce Triggers**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>Klik op Koppeling in e-mail Verkoop</td> 
@@ -141,64 +248,505 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><br></td> 
+   <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>E-mail over verkoop verzonden</td> 
+   <td>Verzende-mail</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
    <td>Verkoopbericht openen</td> 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td>
    <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td>Verkoop-e-mail ontvangen</td> 
+   <td>Bounces verkoope-mail</td> 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">Verkoop-e-mail teruggestuurd</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(tik)"></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(tik)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>Verkoop-e-mail is ontvangen</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Opportunity is bijgewerkt</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+    <tr> 
+   <td>Wijzigingen eigenaar</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Persoon is omgezet</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Persoon wordt verwijderd uit SFDC</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Persoon is gesynchroniseerd met SFDC</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Verwijderd uit opportunity</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Verwijderd uit SFDC-campagne</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>De activiteit is geregistreerd</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Activiteit is bijgewerkt</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Toegevoegd aan opportunity</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Toegevoegd aan SFDC-campagne</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Status is gewijzigd in SFDC-campagne</td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Verkoop Connect-triggers**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Klik op Koppeling in e-mail Verkoop</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Verzende-mail</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Verkoopbericht openen</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Bounces verkoope-mail</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Verkoop-e-mail is ontvangen</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td>
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Wordt toegevoegd aan verkoopcampagne</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr>
+   <td>Wijzigingen eigenaar</td> 
+   <td>Is verwijderd uit verkoopcampagne</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Ontvangen verkoopoproep</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+ </tbody> 
+</table>
+
+**Diversen**
+
+<table> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Link}}</code></th> 
+   <th><code>{{trigger.Subject}}</code></th> 
+   <th><code>{{trigger.Category}}</code></th> 
+   <th><code>{{trigger.Details}}</code></th> 
+   <th><code>{{trigger.Web Page}}</code></th> 
+   <th><code>{{trigger.Client IP Address}}</code></th> 
+   <th><code>{{trigger.Sent By}}</code></th> 
+   <th><code>{{trigger.Received By}}</code></th> 
+   <th><code>{{trigger.Referrer}}</code></th>
+   <th><code>{{trigger.Search Engine}}</code></th>
+   <th><code>{{trigger.Search Query}}</code></th>
+   <th><code>{{trigger.Browser}}</code></th>
   </tr> 
   <tr> 
    <td>Formulier wordt ingevuld</td> 
@@ -211,20 +759,45 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><img src="assets/check.svg" alt="(tik)"></td> 
    <td><br></td> 
-   <td><p><br></p></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
   <tr> 
-   <td colspan="1">Bezoek de webpagina*</td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(tik)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><img src="assets/check.svg" alt="(tik)"></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
-   <td colspan="1"><br></td> 
+   <td>Bezoek de webpagina</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Klik op Koppeling op webpagina</td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
   </tr> 
  </tbody> 
 </table>
