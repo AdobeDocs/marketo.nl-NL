@@ -3,7 +3,7 @@ unique-page-id: 6848747
 description: Beschrijvingen van Rolmachtigingen - Marketo Docs - Productdocumentatie
 title: Beschrijvingen van rolmachtigingen
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
@@ -50,7 +50,7 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 * De Analyse van de Cyclus van de Opbrengst van de toegang - geeft gebruikers toegang tot de Analytics van de Cyclus van de Opbrengst in Admin, voor het plaatsen van Samenvatting en Attributie van de Synchronisatie
 * De Rollen van de toegang - verleent gebruikers toegang om rollen te beheren en uit te geven, maar niet gebruikers
 * Access Sales Insight - geeft gebruikers toegang tot het beheer van Sales Insight in Admin, voor het instellen van Status, API-configuratie, Person Scores en andere instellingen
-* Toegang tot Single Sign-On - geeft gebruikers toegang tot Single Sign-On in Admin, voor het inschakelen van SAML en het werken met SAML-instellingen en het omleiden van Pagina-URL&#39;s
+* Toegang Single Sign-On - Gebruikers krijgen toegang om Single Sign-On te beheren in Admin, om SAML in te schakelen en met SAML-instellingen te werken en pagina-URL&#39;s om te leiden
 * Toegang tot slimme campagne - geeft gebruikers toegang tot slimme campagne in Admin, voor het beperken van limieten voor gekwalificeerde personen
 * Toegang tot SOAP API: geeft gebruikers toegang tot het beheer van SOAP API&#39;s in webservices in Admin
 * Toegangstcodes - Hiermee geeft u gebruikers toegang tot alle aangepaste tags behalve de Kanaaltag
@@ -86,7 +86,7 @@ Biedt gebruikers alleen de **API** **Role** toegang tot de hieronder vermelde af
 * Opportunity voor lezen/schrijven
 * Verkooppersoon voor lezen/schrijven
 
-Access Analytics
+## Access Analytics {#access-analytics}
 
 Biedt gebruikers toegang tot de tabbladen Analytics, Email Insights, Reports en de drie onderstaande items, tenzij deze zijn uitgeschakeld.
 
@@ -96,7 +96,7 @@ Biedt gebruikers toegang tot de tabbladen Analytics, Email Insights, Reports en 
 
 ## Presentations {#access-calendar-presentations} openen
 
-Biedt gebruikers toegang tot de presentaties van de Kalender ?? - de vertoning van de knoop van Presentations bij de bodem toelaat?
+Biedt gebruikers toegang tot kalenderpresentaties - maakt het mogelijk de Presentations-knop onderaan weer te geven.
 
 * Kalender Presentations bewerken - Hiermee kunnen gebruikers presentaties bewerken in de agenda
 
