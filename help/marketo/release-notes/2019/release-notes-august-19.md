@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: Opmerkingen bij de release - August 19 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - augustus 19
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,6 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en zullen
 
 **Marketo Sales Connect** ![ (ster)](assets/star-yellow.svg)
 
-* **Aan boord**: De geleidelijke analyse maakt aan boord gemakkelijker en efficiënter door nieuwe gebruikers door instantieopstelling te leiden.
 * **Personen pagina-indelingsverbetering:** Beheer uw personen en groepen via het importeren van lijsten en bulkacties in de nieuwe pagina-indeling Personen.
 
 >[!AVAILABILITY]
