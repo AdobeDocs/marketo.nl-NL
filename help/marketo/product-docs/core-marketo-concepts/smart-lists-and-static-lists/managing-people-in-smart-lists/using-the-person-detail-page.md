@@ -3,9 +3,9 @@ unique-page-id: 2953415
 description: Gebruikend de Persoonsdetailpagina - Marketo Docs - de Documentatie van het Product
 title: De detailpagina voor personen gebruiken
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -59,6 +59,10 @@ Persoonsgegevens worden gecategoriseerd in de volgende tabbladen:
 | Microsoft Lead Field | Ingebouwde Microsoft-velden. |
 | Activiteitenlogboek | Alle activiteiten met betrekking tot de persoon. |
 
+>[!NOTE]
+>
+>U kunt de informatie van de Kans [ook zien die via API](http://developers.marketo.com/rest-api/lead-database/opportunities/) voor instanties wordt opgenomen die niet met een CRM worden gesynchroniseerd.
+
 ## Een veld bewerken {#editing-a-field}
 
 Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwerken, typt u een nieuwe waarde en klikt u buiten het veld dat u wilt opslaan.
@@ -92,10 +96,10 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 >
 >Sommige velden zijn _niet_ bewerkbaar:
 >
+>* Activiteitenlogboek
 >* Bedrijfsgegevens
 >* Mogelijkheden voor SFDC-contactpersonen
 >* Bepaalde Marketo-specifieke velden, zoals Aanmaakdatum en Oorspronkelijk brontype.
->* Activiteitenlogboek
 
 >
 >
