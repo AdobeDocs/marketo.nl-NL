@@ -3,9 +3,9 @@ unique-page-id: 14746177
 description: Abonnement opzeggen - Marketo Docs - Productdocumentatie
 title: Abonnement opzeggen
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,7 @@ Soms willen mensen ervoor kiezen om e-mails te ontvangen. Dit is hoe je afmeldin
 1. Selecteer de reden waarom de persoon weer wordt binnengeklikt om e-mails te ontvangen en klik vervolgens op **Abonnement verwijderen**.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>Als u de synchronisatie voor afmelden hebt ingeschakeld, moet u ook de optie Weigeren uitschakelen in de record in Salesforce. Als u de synchronisatie &#39;s nachts hebt uitgeschakeld, wordt de afmelding van de persoon in Sales Connect geannuleerd, omdat de persoon in Salesforce niet is aangemeld. Als een van de records de optie Weigeren/afmelden heeft, markeert de synchronisatie de gekoppelde record als zodanig.
