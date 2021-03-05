@@ -3,9 +3,9 @@ unique-page-id: 18874822
 description: Opmerkingen bij de release - Juni '19 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni '19
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '631'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,6 @@ De volgende functies zullen naar verwachting gedurende het tweede kalenderkwarta
 ## Marketo Sales Connect {#marketo-sales-connect}
 
 * **Bulkacties in Salesforce-aanpassing**: Maximaliseer productiviteit door e-mail te verzenden en contacten aan campagnes in bulk met de Aanpassing van Salesforce toe te voegen.
-* **Selecteren, slepen en neerzetten**: Organiseer eenvoudig uw exemplaar van Sales Connect met de capaciteit om malplaatjes in intuïtieve categorieën te slepen en te laten vallen.
 * **Instellingen - Salesforce-pagina voor beheer en niet-beheerder**: Beheer uw exemplaar van Sales Connect met een duidelijke mening van de instantie Salesforce verbonden aan Sales Connect evenals Mijn E-mail aan updates Salesforce. De verbeterde synchronisatiemontages voor Admins, niet Admins, en de Brede Synchronisatie van het Team komen de komende maanden vrij.
 * **Instellingen - integratiepagina**: Een one-stop shop voor al uw integraties, zodat u het meeste uit ons open ecosysteem kunt krijgen.
 * **Instellingen - profielpagina**: Bekijk en werk uw accountgegevens bij, wijzig uw wachtwoord en controleer de status van de implementatie van uw exemplaar op deze nieuwe profielpagina.
