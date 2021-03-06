@@ -3,7 +3,7 @@ unique-page-id: 2360237
 description: Vertel het Marketing Story met een Analysator van de Invloed van de Mogelijkheid - Marketo Docs - de Documentatie van het Product
 title: Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Gebruik een Analysator van de Gevolgen van de Kans om de rol van de marketing in
 
    De analyse van de Invloed van de Kans is een visuele vertegenwoordiging van de interactie en programma en gebeurtenissuccessen betrokken bij die kans. Laten we de grafiek verkennen:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Oranje** documenten geven  [interessante ](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) impulsen aan de kans (e-mails geopend, winkelbezoeken, downloads voor whitepaper, enz.). Grotere stippen geven meer interacties aan.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Oranje** puntjes vertegenwoordigen interessante momenten in de kans (e-mails geopend, bezoeken aan winkelwagentjes, downloads voor whitepaper, enz.). Grotere stippen geven meer interacties aan.
 
    * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Bindingspictogrammen geven** aan dat het programma succesvol is.
 
