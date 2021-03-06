@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Markeringsproductdocumentatie
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
 workflow-type: tm+mt
-source-wordcount: '7857'
+source-wordcount: '7875'
 ht-degree: 0%
 
 ---
@@ -187,6 +187,7 @@ ht-degree: 0%
          + [Verklarende woordenlijst Type aangepast veld](product-docs/administration/field-management/custom-field-type-glossary.md)
          + [Een aangepast veld in Marketo verwijderen](product-docs/administration/field-management/delete-a-custom-field-in-marketo.md)
          + [Veldaliassen bewerken voor het importeren van lijsten](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
+         + [Alle metagegevens van object exporteren](product-docs/administration/field-management/export-all-object-metadata.md)
          + [Een lijst met alle markeringsnamen naar API-velden exporteren](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [Gebruikt door gegevens exporteren voor een veld](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Een veld verbergen en verbergen opheffen](product-docs/administration/field-management/hide-and-unhide-a-field.md)
@@ -246,6 +247,7 @@ ht-degree: 0%
          + [Een lijst met gebruikers en rollen exporteren](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Marketo-gebruikers beheren](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gebruikersrollen en -machtigingen beheren](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
+         + [Rollen en machtigingen exporteren](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Beschrijvingen van rolmachtigingen](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
          + [Niet-concept inschakelen voor fragmenten](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
       + Werkruimten en Personpartities {#workspaces-and-person-partitions}
@@ -434,6 +436,7 @@ ht-degree: 0%
          + Tokens {#tokens}
             + [Mijn tokens beheren](product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
             + [Mijn tokens in een programma begrijpen](product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
+            + [Aangepaste veldtokens voor programmaleden](product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)
       + Marketingkalender {#marketing-calendar}
          + De kalender {#understanding-the-calendar} begrijpen
             + [Licentie voor een marketingkalender uitgeven/intrekken](product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md)
@@ -787,9 +790,9 @@ ht-degree: 0%
                + [Sjabloon 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Sjabloon 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Sjabloon 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Sjabloon 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Sjabloon 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Sjabloon 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Template 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1027,6 +1030,7 @@ ht-degree: 0%
          + [Overzicht van Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Aan de slag met Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [Video&#39;s en Tutorials snel starten](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
+         + [Je wachtwoord voor verkoopverbinding wijzigen](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + E-mailinstellingen {#email-settings}
             + [Identiteit toevoegen](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
             + [Uw e-mailhandtekening toevoegen](product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md)
