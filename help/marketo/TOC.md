@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Markeringsproductdocumentatie
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '7875'
+source-wordcount: '7885'
 ht-degree: 0%
 
 ---
@@ -491,7 +491,8 @@ ht-degree: 0%
             + [Verklarende woordenlijst Sneltoetsen](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
             + [Marketo-sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
             + [De naam van een Marketo-element wijzigen](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-            + [Adobe Experience Cloud-publiek delen instellen](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+            + [Adobe Experience Cloud-publiek delen instellen](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
+            + [Een publiek synchroniseren vanuit Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
             + [Mappen begrijpen](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
             + [Kennisgevingen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
             + [Typen meldingen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
@@ -1028,7 +1029,8 @@ ht-degree: 0%
    + Marketo Sales Connect {#marketo-sales-connect}
       + Aan de slag {#getting-started}
          + [Overzicht van Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Aan de slag met Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Aan de slag met Sales Connect](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
+         + [Mijn profielpagina](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
          + [Video&#39;s en Tutorials snel starten](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Je wachtwoord voor verkoopverbinding wijzigen](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + E-mailinstellingen {#email-settings}
