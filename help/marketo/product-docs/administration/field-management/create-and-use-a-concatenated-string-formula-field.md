@@ -3,9 +3,9 @@ unique-page-id: 2360337
 description: Creeer en gebruik een Samengevoegd gebied van het Koord (Formule) - Marketo Docs - de Documentatie van het Product
 title: Een samengevoegd veld String (Formule) maken en gebruiken
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -39,14 +39,16 @@ U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde make
 
    ![](assets/image2014-9-19-9-3a46-3a25.png)
 
-   Meer informatie over [tokens voor flowstappen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >[!TIP]
+   >
+   >Meer informatie over [tokens voor flowstappen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Nu kunt u het formules gebied als teken in een e-mail toevoegen.
 
    ![](assets/seven.png)
 
-Goed werk! Nu heb je een slim veld dat weet welke aanhef je moet opnemen op basis van geslacht. Maak hier plezier mee en maak creatief.
-
 >[!NOTE]
 >
->Formulervelden kunnen worden gebruikt bij het landen van pagina&#39;s, e-mails en kolommen met slimme lijsten; zij worden niet uitgevoerd. E-mails met formule-velden kunnen niet via batchcampagnes worden verzonden
+>Formulervelden kunnen worden gebruikt bij het landen van pagina&#39;s, e-mails en kolommen met slimme lijsten (deze worden niet geëxporteerd). E-mails met formule-velden kunnen **niet** worden verzonden via een batchcampagne. Gebruik een [e-mailscripttoken](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in dit scenario.
+
+Goed werk! Nu heb je een slim veld dat weet welke aanhef je moet opnemen op basis van geslacht. Maak hier plezier mee en maak creatief.
