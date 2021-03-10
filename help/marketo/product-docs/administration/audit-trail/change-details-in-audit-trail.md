@@ -3,9 +3,9 @@ unique-page-id: 11379928
 description: Details wijzigen in Audittrail - Marketo Docs - Productdocumentatie
 title: Details wijzigen in audittrail
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '1889'
+source-wordcount: '1913'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
    <th colspan="1">Details wijzigen</th> 
   </tr> 
   <tr> 
-   <td rowspan="15">Standaardprogramma<br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="15"><strong>Standaardprogramma</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Maken</td> 
    <td>Kanaaltype "kanaaltype"<br>of<br>Uitgekloond uit "programmenaam"</td> 
   </tr> 
@@ -91,7 +91,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
    <td>N.v.t.</td> 
   </tr> 
   <tr> 
-   <td rowspan="18">E-mail<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
+   <td rowspan="19"><strong>E-mail</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Maken</td> 
    <td>Gemaakt met behulp van sjabloon "sjabloonnaam" <br>of <br>Uitgekloond met "elementnaam"</td> 
   </tr> 
@@ -132,16 +132,20 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
    <td>Hiermee bewerkt u e-mailberichten uit de sjabloon "template_naam" (OPMERKING: dit gebeurt vandaag als u de code rechtstreeks bewerkt)</td> 
   </tr> 
   <tr> 
+   <td>Bewerken</td> 
+   <td>Nieuwe beschrijving "nieuwe beschrijving" oude beschrijving "oude beschrijving"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Module bewerken <module name><attribute> naar "value"</td> 
+  </tr> 
+  <tr> 
    <td>Verwijderen</td> 
    <td>N.v.t.</td> 
   </tr> 
   <tr> 
    <td>Naam wijzigen</td> 
    <td>Nieuwe naam "nieuwe naam", vorige naam "vorige naam"</td> 
-  </tr> 
-  <tr> 
-   <td>Bewerken</td> 
-   <td>Nieuwe beschrijving "nieuwe beschrijving" oude beschrijving "oude beschrijving"</td> 
   </tr> 
   <tr> 
    <td>Klonen</td> 
@@ -163,7 +167,6 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
    <td>Concept</td> 
    <td>De e-mail is opgesteld omdat het fragment "fragmentname" is goedgekeurd<br>or<br>Email is geschreven omdat de sjabloon "sjabloonnaam" is goedgekeurd</td> 
   </tr> 
-  <tr> 
    <td rowspan="17">E-mailprogramma</td> 
    <td>Maken</td> 
    <td>Kanaaltype "kanaaltype"<br>of<br>Uitgekloond uit "programmenaam"</td> 
@@ -506,6 +509,14 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   <tr> 
    <td>Bewerken</td> 
    <td>Nieuwe beschrijving "nieuwe beschrijving" Vorige "vorige beschrijving"</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Toegevoegd "Afbeelding", Verwijderd "Afbeelding", bewerkte afbeeldingscomponent</td> 
+  </tr> 
+  <tr> 
+   <td>Bewerken</td> 
+   <td>Toegevoegd "Rich Text", Verwijderd "Rich Text", bewerkte Rich Text Component</td> 
   </tr> 
   <tr> 
    <td>Klonen</td> 
