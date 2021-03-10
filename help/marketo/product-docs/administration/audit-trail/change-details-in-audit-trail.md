@@ -137,7 +137,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Bewerken</td> 
-   <td>Module bewerken <module name><attribute> naar "value"</td> 
+   <td>Module bewerken <code>"<module name>" <attribute></code> naar "value"</td> 
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
