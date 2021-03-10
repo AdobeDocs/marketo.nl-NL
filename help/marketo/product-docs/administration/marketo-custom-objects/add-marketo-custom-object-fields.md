@@ -3,9 +3,9 @@ unique-page-id: 10093688
 description: Markeren toevoegen aan aangepaste objectvelden - Marketo Docs - Productdocumentatie
 title: Markeren toevoegen aan aangepaste objectvelden
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
 
    >[!TIP]
    >
-   >Wanneer u een deduplicatieveld maakt, kunt u dit gebruiken om dubbele velden in uw database te verwijderen.
+   >Met deduplicatievelden kunt u aangepaste objecten ophalen, bijwerken of verwijderen. Elke definitie van een aangepast object moet ten minste één (en ten hoogste drie) gededupliceerde veld bevatten.
 
 1. Voeg andere velden toe die u nodig hebt.
 
@@ -63,6 +63,6 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
 >
 >* [Markeren toevoegen aan aangepaste objectkoppelingsvelden](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
 >* [Een aangepast markeerobject bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Aangepaste objecten markeren](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 >* [Markeren naar aangepaste objectvelden bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Aangepaste objecten markeren](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
