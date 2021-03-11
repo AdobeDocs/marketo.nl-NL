@@ -3,9 +3,9 @@ unique-page-id: 7504770
 description: Bekijk de URL van de Dienst van de Organisatie - Marketo Docs - de Documentatie van het Product
 title: De URL van de organisatieservice weergeven
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # De URL van de organisatieservice weergeven {#view-the-organization-service-url}
 
-Marketo heeft de URL van de Dienst van de Organisatie nodig om met de instanties van de Dynamiek te synchroniseren On-Premises. Zo vind je het in Dynamics.
+Marketo heeft de URL van de Dienst van de Organisatie nodig om met instanties van de Dynamiek te synchroniseren. Zo vind je het in Dynamics.
 
 1. Meld u aan bij Dynamiek. Klik op het pictogram Instellingen en selecteer **Geavanceerde instellingen**.
 
@@ -31,4 +31,4 @@ Marketo heeft de URL van de Dienst van de Organisatie nodig om met de instanties
 
    ![](assets/four.png)
 
-1. Kopieer en plak deze URL naar Marketo en profiteer van de rest van de synchronisatie.
+1. Kopieer en plak die URL naar Marketo en profiteer van de rest van de synchronisatie.
