@@ -3,9 +3,9 @@ unique-page-id: 2360356
 description: Eén aanmelding toevoegen aan een portal - Marketo Docs - Productdocumentatie
 title: Eén aanmelding toevoegen aan een portal
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,8 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 ## Hoe te om het Verzoek {#how-to-send-the-request} te verzenden
 
 * Verzend het verzoek SSO, dat een reactie van SAML is, naar `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Als Publiek URL van SP. [https://saml.marketo.com/sp](https://saml.marketo.com/sp) gebruiken
-* Als u het SPNameQualifier attribuut gebruikt, plaats het element NameID voor Onderwerp aan [https://saml.marketo.com/sp](https://saml.marketo.com/sp)
+* Als Publiek URL van SP. `https://saml.marketo.com/sp` gebruiken
+* Als u het SPNameQualifier attribuut gebruikt, plaats het element NameID voor Onderwerp aan `https://saml.marketo.com/sp`
 * Als u veelvoudige abonnementen van de Marketo aan de zelfde leverancier SSO federaliseert, kunt u unieke URL van SP voor elke Marketo gebruiken sub met het formaat `https://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
@@ -44,6 +44,8 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 * **Gebruikersinrichting**  - Gebruikers worden handmatig geleverd door Marketo.
 * **Autorisatie**  - Gebruikersmachtigingen blijven behouden in Marketo.
 * **OAuth-ondersteuning**  - Marketo biedt momenteel geen ondersteuning voor OAuth.
+* **Automatische doorgave**  van de Gebruiker - ook gekend als &quot;enkel in de Levering van de Tijd,&quot;is dit wanneer eerste login van SAML van een gebruiker in staat is om de gebruiker in om het even welke Webtoepassing tot stand te brengen zij (b.v., Marketo) toegang hebben en geen handbeheeractie wordt vereist. Dit wordt momenteel niet ondersteund door Marketo.
+* **Codering**  - Marketo biedt momenteel geen ondersteuning voor codering.
 
 >[!NOTE]
 >
@@ -59,7 +61,7 @@ SSO is standaard uitgeschakeld. Volg deze stappen om SAML toe te laten en het te
 
    >[!NOTE]
    >
-   >Als u **Single Sign-On** onder **Admin** niet ziet, contacteer [[Marketo Support]](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Als u **Single Sign-On** onder **Admin** niet ziet, contacteer [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Klik onder de sectie **SAML Settings** op **Edit**.
 
@@ -102,3 +104,10 @@ SSO is standaard uitgeschakeld. Volg deze stappen om SAML toe te laten en het te
    >[!NOTE]
    >
    >Beide pagina&#39;s moeten openbaar zijn.
+
+>[!MORELIKETHIS]
+>
+>* [Een universele id gebruiken voor aanmelding bij een abonnement](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
+>* [Alleen gebruikersaanmelding beperken tot SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Marketo-gebruikers uitnodigen voor twee instanties met Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+
