@@ -3,9 +3,9 @@ unique-page-id: 45416698
 description: Opmerkingen bij de release - juli 2010 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - juli '20
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,11 @@ De volgende functies zijn opgenomen in de release van juli 2010. Controleer uw u
 De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden de komende maanden vrijgegeven.
 
 * **Forms-service**: We introduceren een sterkere validatie van formulierveldsyntaxis en de mogelijkheid om gemeenschappelijke botpatronen te blokkeren met nieuwe functies voor beveiligde domeinen voor het laden van pagina&#39;s. Door het blokkeren van botpatronen kunt u de verzending van spamformulieren verminderen en de databasekwaliteit verbeteren.
+
+>[!NOTE]
+>
+>De volledige implementatie van de uitgebreide validatie van de formulierveldsyntaxis is uitgesteld tot na onze release van januari 2021.
+
 * **Verhoogde URI-groottebeperking** voor element-API: De de formaatgrens van het uniforme middel herkenningsteken (URI) wordt verhoogd van 8KB aan 65KB alvorens &quot;_method&quot;parameter te schrappen. Bij het uitvoeren van lange vraagkoorden, zal deze groottebeperking de gegevens toestaan om gemakkelijker over te gaan. De verwijdering van de parameter &quot;_method&quot; maakt deel uit van een aanstaande veiligheidsverbetering.
 
 ## Verkoopinzicht {#sales-insight}
