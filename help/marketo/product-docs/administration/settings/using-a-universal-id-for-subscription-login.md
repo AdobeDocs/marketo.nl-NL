@@ -3,9 +3,9 @@ unique-page-id: 10100311
 description: Gebruikend een Universele identiteitskaart voor Aanmelden van het Abonnement - Marketo Docs - de Documentatie van het Product
 title: Een universele id gebruiken voor aanmelding bij een abonnement
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,10 @@ Als u meerdere abonnementen hebt, hebt u mogelijk meerdere gemeenschapsprofielen
 ## Mobiel Platform {#mobile-platform}
 
 Gebruikers met een universele id kunnen hun gegevens bekijken op Marketo Moments en de toepassing voor het inchecken van iPad-gebeurtenissen vanuit het abonnement waarin zij zich het laatst hebben aangemeld. U kunt geen abonnementen van het Mobiele platform zelf veranderen.
+
+>[!MORELIKETHIS]
+>
+>* [Eén aanmelding toevoegen aan een portal](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
+>* [Alleen gebruikersaanmelding beperken tot SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
+>* [Marketo-gebruikers uitnodigen voor twee instanties met Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122)
+
