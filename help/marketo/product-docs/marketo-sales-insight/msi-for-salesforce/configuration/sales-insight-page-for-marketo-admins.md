@@ -3,9 +3,9 @@ unique-page-id: 42762409
 description: De Pagina van het Inzicht van de verkoop voor Marketo Admins - Marketo Docs - de Documentatie van het Product
 title: Pagina met verkoopinzicht voor marktexploitanten
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -85,4 +85,14 @@ Indien ingeschakeld, kunnen MSI-gebruikers geen sjablonen bewerken tijdens het v
 
 **RSS-feed inschakelen:**
 
-Als deze optie is ingeschakeld, kunnen MSI-gebruikers hun voer voor leads bekijken in een RSS-feed (in aanvulling op het voer voor leads in Salesforce).
+Als deze optie is ingeschakeld, kunnen MSI-gebruikers hun voer voor leads bekijken in een RSS-feed (in aanvulling op het voer voor leads in Salesforce). RSS-feed kan alleen functioneren als de functie &quot;Symbolische vervaldatum&quot; is uitgeschakeld.
+
+**Vervaldatum token:**
+
+De Symbolische Vervaldatum wordt gecontroleerd in de Manager van de Eigenschap. Als u de functie wilt in-/uitschakelen, bereikt u [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). Als deze optie is ingeschakeld, verlopen alle markeertokens binnen 10 minuten. Als markeertokens zijn uitgeschakeld, verlopen deze niet.
+
+Tokens die vóór het toelaten van de Symbolische Vervalsing worden geproduceerd zullen geen verlooptijd hebben om tegen te bevestigen, zodat zullen zij niet verlopen zelfs als de eigenschap momenteel wordt toegelaten.
+
+Tokens die na het toelaten van Symbolische Vervaltijd worden geproduceerd zullen een vervaltijd van 10 minuten hebben, zodat zullen zij nog over 10 minuten verlopen zelfs nadat de eigenschap wordt onbruikbaar gemaakt.
+
+Tokengedrag wordt gebaseerd op het tijdstip waarop het is gegenereerd (wanneer de functie Symbolische vervaldatum is in-/uitgeschakeld in plaats van de huidige status van de functie).
