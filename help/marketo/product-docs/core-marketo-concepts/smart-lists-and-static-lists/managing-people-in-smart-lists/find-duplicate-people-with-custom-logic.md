@@ -3,9 +3,9 @@ unique-page-id: 2952636
 description: Zoek naar dubbele mensen met aangepaste logica - Marketo Docs - Productdocumentatie
 title: Dubbele mensen zoeken met aangepaste logica
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,10 @@ Marketo heeft een systeem slimme lijst die dubbele mensen door hun e-mailadresse
    * Volledige naam
    * Achternaam
    * Bijgewerkt op
+
+   >[!NOTE]
+   >
+   >Alle velden, met uitzondering van E-mailadres, zijn hoofdlettergevoelig. Zo zou het gebruiken van &quot;john doe&quot;op het Volledige gebied van de Naam _not_ resultaten voor Jan Smit terugkeren.
 
    ![](assets/four-2.png)
 
