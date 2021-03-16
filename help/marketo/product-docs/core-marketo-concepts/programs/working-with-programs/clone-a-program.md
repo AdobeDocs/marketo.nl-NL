@@ -3,9 +3,9 @@ unique-page-id: 1147110
 description: Een programma klonen - Marketo Docs - Productdocumentatie
 title: Een programma klonen
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,13 @@ ht-degree: 0%
 
 # Een programma klonen {#clone-a-program}
 
-U kunt snel en gemakkelijk een volledig programma en al zijn activa klonen in plaats van manueel alles te herbouwen. Zo gaat het.
+Snel en gemakkelijk een volledig programma en al zijn activa klonen in plaats van manueel alles te herbouwen.
 
-1. Zoek en selecteer het programma dat u wilt klonen en klik vervolgens onder **Programmaacties** op **Klonen.**
+>[!PREREQUISITES]
+>
+>Voordat u gaat duiken, moet u meer weten over de [aanbevolen procedures om beschadiging in gekloonde elementen te voorkomen.](https://nation.marketo.com/t5/Knowledgebase/Avoiding-Corruption-in-Cloned-Assets/ta-p/249729)
+
+1. Zoek en selecteer het programma dat u wilt klonen en klik vervolgens onder **Programmaacties** op **Klonen**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
