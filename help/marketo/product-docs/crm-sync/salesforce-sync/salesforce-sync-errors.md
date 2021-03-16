@@ -1,0 +1,57 @@
+---
+description: Salesforce-synchronisatiefouten - Marketo-documenten - Productdocumentatie
+title: Salesforce-synchronisatiefouten
+translation-type: tm+mt
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+workflow-type: tm+mt
+source-wordcount: '181'
+ht-degree: 0%
+
+---
+
+
+# Salesforce-synchronisatiefouten {#salesforce-sync-errors}
+
+Bekijk een overzicht van de fouten die tijdens het synchronisatieproces optreden. Dit geldt ook voor fouten die worden veroorzaakt door het niet synchroniseren van incompatibele gegevens.
+
+>[!NOTE]
+>
+>**Beheerdersmachtigingen vereist**
+
+## Synchronisatiefouten weergeven {#view-sync-errors}
+
+1. Klik **Admin**.
+
+   ![](assets/salesforce-sync-errors-1.png)
+
+1. Klik onder Integratie op **Salesforce** en vervolgens op de tab **Fouten synchroniseren**.
+
+   ![](assets/salesforce-sync-errors-2.png)
+
+>[!NOTE]
+>
+>De vermelde fouten lopen van de huidige tijd tot vijf dagen vóór de huidige synchronisatie.
+
+| Veld | Beschrijving |
+|---|---|
+| Mislukt | Recordniveau _of_ Taakniveau |
+| Datum/tijd van de storing | Foutgegevens |
+| Fouttype | SFDC Return-bericht |
+
+>[!TIP]
+>
+>Wanneer u op de record op recordniveau klikt, worden de Marketo- en Salesforce-id&#39;s van het verwante object weergegeven. In sommige gevallen is de melding in de record en de fout op het taakniveau rechtstreeks afkomstig van Salesforce. Als u online naar deze bestanden zoekt, kunt u meer details opgeven.
+
+## Fouten bij synchroniseren van filter {#filter-sync-errors}
+
+1. Als u de gegevens wilt filteren, klikt u op het filterpictogram helemaal rechts van de pagina.
+
+   ![](assets/salesforce-sync-errors-3.png)
+
+1. Selecteer uw datum- en tijdbereik en filtreer vervolgens op Fouttype (Taakniveau of Recordniveau). Klik **Toepassen** wanneer gereed.
+
+   ![](assets/salesforce-sync-errors-4.png)
+
+**Optionele stap**: Als u synchronisatiefouten wilt exporteren, klikt u op  **Exporteren**. De gegevens worden geëxporteerd als een CSV-bestand.
+
+![](assets/salesforce-sync-errors-5.png)
