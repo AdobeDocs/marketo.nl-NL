@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '4225'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
    <td colspan="1">Deze term kan verschillende betekenissen hebben:<br>-Uw instantie van Marketo kan als uw rekening van Marketo worden bedoeld.<br>-In  <strong>ABM</strong>, een  <strong>Benoemde </strong> Rekening en een rekening die de gebruiker heeft bepaald is een doelrekening zij willen nastreven.<br>-In ABM is een CRM-account een account die is toegewezen aan uw gekoppelde  <strong>CRM</strong>  (account in  <strong>Salesforce</strong>,  <strong>MS </strong> Dynamic  <strong>API</strong>).<br>- In uw CRM, zijn de rekeningen de zaken/het bedrijf dat leidt en de contacten worden geassocieerd aan.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md" rel="nofollow">Account-based Marketing</a>  (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-based-marketing-overview.md" rel="nofollow">Account-based Marketing</a>  (ABM)</strong></td> 
    <td colspan="1">Een add-on functie waarmee u belangrijke accounts op een zeer gecoördineerde manier als doel kunt instellen en inschakelen.</td> 
   </tr> 
   <tr> 
@@ -48,7 +48,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
    <td colspan="1">(voorheen AccountAI) In <strong>ABM</strong>, gebruikend uw Ideaal Profiel van de Klant (ICP), zullen de bestaande bedrijven in uw gegevensbestand worden gerangschikt, en de rangschikkingen worden toegevoegd als scores op uw rekeningen.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/account-based-marketing/setup-abm/account-score.md" rel="nofollow">Accountscore</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Accountscore</a></strong></td> 
    <td colspan="1">In <strong>ABM</strong>, is het een score die aan een rekening wordt toegewezen om u te helpen zijn niveau van overeenkomst bepalen.</td> 
   </tr> 
   <tr> 
@@ -431,7 +431,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  </tbody> 
 </table>
 
-## I {#i}
+## K {#i}
 
 <table> 
  <colgroup> 
@@ -651,7 +651,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
    <td colspan="1">Personverdelingen fungeren als aparte <strong>databases</strong>. Elke verdeling heeft zijn eigen mensen die niet ontdupe of mengen met andere verdelingen.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/account-based-marketing/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
    <td colspan="1">In <strong>Account-based Marketing</strong> van Marketo, zijn de karakters een ondergroep van een publiek, die voor specifiekere het richten toestaat.</td> 
   </tr> 
   <tr> 
