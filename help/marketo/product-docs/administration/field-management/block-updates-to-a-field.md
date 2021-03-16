@@ -3,9 +3,9 @@ unique-page-id: 2360291
 description: Updates van een veld blokkeren - Marketo Docs - Productdocumentatie
 title: Updates van een veld blokkeren
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,10 @@ Door het blokkeren van updates van een veld kunt u één keer naar het veld schr
 1. Zoek het veld, selecteer het en klik onder **Veldhandelingen** op **Veldupdates blokkeren**.
 
    ![](assets/two-1.png)
+
+   >[!NOTE]
+   >
+   >U kunt updates aan [De Aangepaste Gebieden van het Lid van het Programma ook blokkeren](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md).
 
 1. Selecteer **Invoerbronnen** die u wilt blokkeren en klik op **Toepassen**.
 
