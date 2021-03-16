@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Opmerkingen bij de release - Winter '19 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -Winter '19
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -81,7 +81,7 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 
 ## Op account gebaseerde marketing {#account-based-marketing}
 
-**[Segmentering en filteren op basis van ABM Persona](/help/marketo/product-docs/account-based-marketing/using-personas.md)**
+**[Segmentering en filteren op basis van ABM Persona](/help/marketo/product-docs/target-account-management/using-personas.md)**
 
 Pas uw ABM-campagnes aan voor specifieke personen binnen benoemde accounts. Met de functie ABM Persona maakt u een standaardfunctie op basis van hoofdsegmentatie en kunt u aanvullende persoonlijke segmentaties configureren.
 
