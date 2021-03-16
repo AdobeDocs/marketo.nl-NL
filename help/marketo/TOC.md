@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Markeringsproductdocumentatie
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
-source-wordcount: '7923'
+source-wordcount: '7949'
 ht-degree: 0%
 
 ---
@@ -44,48 +44,48 @@ ht-degree: 0%
       + [Te beoordelen handelingen: Kernvaardigheden](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Manieren om hulp te krijgen](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + Productdocumenten {#product-docs}
-   + Op account gebaseerde marketing {#account-based-marketing}
+   + Doelaccountbeheer {#target-account-management}
       + {#setup} instellen
-         + [Overzicht van accountgebaseerde marketing](product-docs/account-based-marketing/setup-abm/account-based-marketing-overview.md)
-         + [Aan de slag met ABM](product-docs/account-based-marketing/setup-abm/getting-started-with-abm.md)
-         + [Een licentie afgeven](product-docs/account-based-marketing/setup-abm/issue-a-license.md)
-         + [Machtigingen](product-docs/account-based-marketing/setup-abm/permissions.md)
-         + [Accountscore](product-docs/account-based-marketing/setup-abm/account-score.md)
-         + [Account Team Setup](product-docs/account-based-marketing/setup-abm/account-team-setup.md)
-         + [Een aangepast veld maken voor CRM-detectie](product-docs/account-based-marketing/setup-abm/create-a-custom-field-for-crm-discovery.md)
-         + [Account Insight instellen](product-docs/account-based-marketing/setup-abm/set-up-account-insight.md)
-         + [Overzicht van de plug-in Account Insight](product-docs/account-based-marketing/setup-abm/account-insight-plug-in-overview.md)
-         + [Gebruikers uitnodigen om accountgegevens te openen](product-docs/account-based-marketing/setup-abm/invite-users-to-access-account-insight.md)
+         + [Overzicht van accountgebaseerde marketing](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [Aan de slag met ABM](product-docs/target-account-management/setup-tam/getting-started-with-abm.md)
+         + [Een licentie afgeven](product-docs/target-account-management/setup-tam/issue-a-license.md)
+         + [Machtigingen](product-docs/target-account-management/setup-tam/permissions.md)
+         + [Accountscore](product-docs/target-account-management/setup-tam/account-score.md)
+         + [Account Team Setup](product-docs/target-account-management/setup-tam/account-team-setup.md)
+         + [Een aangepast veld maken voor CRM-detectie](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
+         + [Account Insight instellen](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [Overzicht van de plug-in Account Insight](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [Gebruikers uitnodigen om accountgegevens te openen](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
       + Doel {#target}
          + Benoemde accounts {#named-accounts}
-            + [Overzicht benoemde account](product-docs/account-based-marketing/target/named-accounts/named-account-overview.md)
-            + [Benoemde accounts importeren](product-docs/account-based-marketing/target/named-accounts/import-named-accounts.md)
-            + [Een bestaand benoemd account toevoegen aan een accountlijst](product-docs/account-based-marketing/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [Een benoemd account maken](product-docs/account-based-marketing/target/named-accounts/create-a-named-account.md)
-            + [Personen toevoegen aan een benoemde account](product-docs/account-based-marketing/target/named-accounts/add-people-to-a-named-account.md)
-            + [Accounts detecteren](product-docs/account-based-marketing/target/named-accounts/discover-accounts.md)
-            + [Lood naar overeenkomst met account](product-docs/account-based-marketing/target/named-accounts/lead-to-account-matching.md)
-            + [Filteren in benoemde accounts](product-docs/account-based-marketing/target/named-accounts/filtering-in-named-accounts.md)
-            + [Een benoemde account verwijderen](product-docs/account-based-marketing/target/named-accounts/delete-a-named-account.md)
-            + [ABM-hiërarchie](product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)
-            + [Een hiërarchie maken](product-docs/account-based-marketing/target/named-accounts/create-a-hierarchy.md)
-         + [Accountlijsten](product-docs/account-based-marketing/target/account-lists.md)
-         + [Een passend publiek maken op LinkedIn](product-docs/account-based-marketing/target/create-a-matched-audience-on-linkedin.md)
+            + [Overzicht benoemde account](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
+            + [Benoemde accounts importeren](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
+            + [Een bestaand benoemd account toevoegen aan een accountlijst](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+            + [Een benoemd account maken](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [Personen toevoegen aan een benoemde account](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Accounts detecteren](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [Lood naar overeenkomst met account](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+            + [Filteren in benoemde accounts](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [Een benoemde account verwijderen](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+            + [ABM-hiërarchie](product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)
+            + [Een hiërarchie maken](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
+         + [Accountlijsten](product-docs/target-account-management/target/account-lists.md)
+         + [Een passend publiek maken op LinkedIn](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
       + {#engage} inschakelen
-         + [Accountfilters](product-docs/account-based-marketing/engage/account-filters.md)
-         + [Accounttriggers](product-docs/account-based-marketing/engage/account-triggers.md)
+         + [Accountfilters](product-docs/target-account-management/engage/account-filters.md)
+         + [Accounttriggers](product-docs/target-account-management/engage/account-triggers.md)
       + {#measure} meten
-         + [ABM hoofddashboard](product-docs/account-based-marketing/measure/abm-main-dashboard.md)
-         + [ABM Report Setup](product-docs/account-based-marketing/measure/abm-report-setup.md)
-         + [ABM-verkooprapport](product-docs/account-based-marketing/measure/abm-sales-report.md)
-         + [Accountlijstinzichten](product-docs/account-based-marketing/measure/account-list-insights.md)
-         + [Dimension van benoemde account in RCA](product-docs/account-based-marketing/measure/named-account-dimension-in-rca.md)
-         + [Benoemde accountgegevens](product-docs/account-based-marketing/measure/named-account-insights.md)
-         + [Persoonlijke gegevens gebruiken](product-docs/account-based-marketing/using-personas.md)
+         + [ABM hoofddashboard](product-docs/target-account-management/measure/abm-main-dashboard.md)
+         + [ABM Report Setup](product-docs/target-account-management/measure/abm-report-setup.md)
+         + [ABM-verkooprapport](product-docs/target-account-management/measure/abm-sales-report.md)
+         + [Accountlijstinzichten](product-docs/target-account-management/measure/account-list-insights.md)
+         + [Dimension van benoemde account in RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [Benoemde accountgegevens](product-docs/target-account-management/measure/named-account-insights.md)
+         + [Persoonlijke gegevens gebruiken](product-docs/target-account-management/using-personas.md)
    + Accountprofilering {#account-profiling}
-      + [Accountprofielen instellen](product-docs/account-based-marketing/account-profiling/setting-up-account-profiling.md)
-      + [Volgorde en afstemming van accountprofielen](product-docs/account-based-marketing/account-profiling/account-profiling-ranking-and-tuning.md)
-      + [Nieuwe accountdetectie](product-docs/account-based-marketing/account-profiling/new-account-discovery.md)
+      + [Accountprofielen instellen](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+      + [Volgorde en afstemming van accountprofielen](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+      + [Nieuwe accountdetectie](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + Aanvullende toepassingen {#additional-apps}
       + SEO {#seo}
          + SEO {#understanding-seo}
@@ -527,7 +527,9 @@ ht-degree: 0%
                + [Stap 3 van 3: Microsoft Dynamics verbinden met Marketo (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + OAuth-verificatie instellen voor dynamiek {#set-up-oauth-authentication-for-dynamics}
                + [Toestemming verlenen voor client-id en toepassingsregistratie](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
+               + [Microsoft Dynamics CRM-app instellen voor online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-online.md)
                + [Microsoft Dynamics CRM-app instellen voor On-prem](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-microsoft-dynamics-crm-app-for-on-prem.md)
+               + [MSD instellen voor Azure AD Federated met AD FS On-prem, Tenant en Microsoft Online](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online.md)
          + Gegevens Microsoft Dynamics Sync {#microsoft-dynamics-sync-details}
             + [Standaarddynamische veldtoewijzing](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics Sync: Account synchroniseren](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
@@ -594,6 +596,7 @@ ht-degree: 0%
          + [Picklist-waarden toevoegen/verwijderen](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
          + [De Salesforce-synchronisatie inschakelen/uitschakelen](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [Impliciete Salesforce-acties](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Salesforce-synchronisatiefouten](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Status Salesforce-synchronisatie](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
    + Demand Generation {#demand-generation}
       + Netwerkintegratie toevoegen {#ad-network-integrations}
@@ -799,7 +802,7 @@ ht-degree: 0%
                + [Sjabloon 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Sjabloon 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Sjabloon 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Sjabloon 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Template 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
