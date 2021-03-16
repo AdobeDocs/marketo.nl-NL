@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Opmerkingen bij de release - Winter '18 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - Winter '18
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Onderzoek hoe uw campagnes en kanalen bedrijfsresultaten met attributieanalyses,
 
 ## Op account gebaseerde marketingverbeteringen {#account-based-marketing-enhancements}
 
-**[ABM-hiërarchie](/help/marketo/product-docs/account-based-marketing/target/named-accounts/abm-hierarchies.md)**
+**[ABM-hiërarchie](/help/marketo/product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)**
 
 Voor klanten ABM met Salesforce of de Dynamica van Microsoft, zal ABM nu automatisch de ouder-kind verhoudingen erven (en tonen) die in CRM worden gevestigd. U zult deze verhoudingen in zowel roll-up rapportering als campagneuitvoering kunnen gebruiken.
 
