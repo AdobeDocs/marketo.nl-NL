@@ -3,7 +3,7 @@ unique-page-id: 11380789
 description: Benoemde Account Dimension in RCA - Marketo Docs - Productdocumentatie
 title: Dimension van benoemde account in RCA
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Benoemde Account Dimension in RCA {#named-account-dimension-in-rca}
 
-Bouw op opbrengst-gebaseerde rapporten gebruikend de ABM-specifieke Benoemde dimensie van de Rekening in de Analyse van de Cyclus van de Inkomsten.
+Bouw op opbrengst-gebaseerde rapporten gebruikend de TAM-specifieke Benoemde dimensie van de Rekening in de Analyse van de Cyclus van de Ontvangsten.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ De volgende rapporten hebben toegang tot de dimensie Benoemd account:
 
 >[!NOTE]
 >
->Hieronder volgen enkele voorbeelden van Marketo ABM in de Analytics van de Belastingcyclus.
+>Hieronder volgen enkele voorbeelden van Marketo TAM in Revenue Cycle Analytics.
 
 Pipetversnelling binnen benoemde accounts
 
