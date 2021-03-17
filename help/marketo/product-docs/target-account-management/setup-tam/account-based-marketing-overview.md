@@ -3,7 +3,7 @@ unique-page-id: 11381917
 description: Account based Marketing Overview - Marketo Docs - Productdocumentatie
 title: Overzicht van accountgebaseerde marketing
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Marketo Account Based Marketing biedt ook diverse tools om de ervaring met benoe
 
 Ik ben in! Hoe begin ik?
 
-We dachten dat je het nooit zou vragen! ABM is beschikbaar als een add-on bij uw abonnement op Marketo. Neem daarom contact op met uw verkoper om het te laten implementeren. Kijk eens naar dit artikel: [Aan de slag met ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-abm.md).
+We dachten dat je het nooit zou vragen! ABM is beschikbaar als een add-on bij uw abonnement op Marketo. Neem daarom contact op met uw verkoper om het te laten implementeren. Kijk eens naar dit artikel: [Aan de slag met ABM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >
