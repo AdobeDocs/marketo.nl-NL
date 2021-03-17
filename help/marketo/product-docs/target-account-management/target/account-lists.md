@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: Accountlijsten - Marketo Docs - Productdocumentatie
 title: Accountlijsten
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 
 >[!NOTE]
 >
->Accountlijsten die zijn gemaakt in Marketo Account Based Marketing zijn automatisch beschikbaar wanneer u slimme lijsten en webcampagnes maakt in [Webpersonalisatie](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>Accountlijsten die zijn gemaakt in Marketo Target Account Management zijn automatisch beschikbaar wanneer u slimme lijsten en webcampagnes maakt in [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Een nieuwe accountlijst maken {#create-a-new-account-list}
 
@@ -61,9 +61,9 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 
 >[!NOTE]
 >
->Deze stappen zijn alleen van toepassing op accountlijsten. _In de lijst_ Dynamicaccount wordt de naam van de bijbehorende CRM-accountweergaven gebruikt.
+>Deze stappen zijn alleen van toepassing op accountlijsten. _In_ dynamische accountlijsten wordt de naam van de bijbehorende CRM-accountweergaven gebruikt.
 
-1. Selecteer de account waarvan u de naam wilt wijzigen, klik op de vervolgkeuzelijst **Accountlijst Handelingen** en selecteer **Naam van accountlijst wijzigen**.
+1. Selecteer de account waarvan u de naam wilt wijzigen, klik op de vervolgkeuzelijst **Accountlijsthandelingen** en selecteer **Naam van accountlijst wijzigen**.
 
    ![](assets/three.png)
 
@@ -73,7 +73,7 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 
    >[!NOTE]
    >
-   >De weergave CRM-account wordt om de 8 uur gesynchroniseerd met de lijst met dynamische accounts. Als ze nog niet zijn gesynchroniseerd, synchroniseert Marketo ze tijdens de volgende cyclus.
+   >De CRM-accountweergave wordt om de 8 uur gesynchroniseerd met de dynamische accountlijst. Als ze nog niet zijn gesynchroniseerd, synchroniseert Marketo ze tijdens de volgende cyclus.
 
 ## Een accountlijst verwijderen {#delete-an-account-list}
 
@@ -81,11 +81,11 @@ Naast accountlijsten kunt u ook dynamische accountlijsten maken die worden gegen
 >
 >Deze stappen zijn hetzelfde voor zowel accountlijsten als dynamische accountlijsten.
 
-1. Selecteer de account die u wilt verwijderen, klik op de vervolgkeuzelijst **Accountlijsthandelingen** en selecteer **Accountlijst verwijderen**.
+1. Selecteer het account dat u wilt verwijderen, klik op de vervolgkeuzelijst **Accountlijsthandelingen** en selecteer **Accountlijst verwijderen**.
 
    ![](assets/five.png)
 
-1. Klik **Delete**.
+1. Klik op **Verwijderen**.
 
    ![](assets/six.png)
 
