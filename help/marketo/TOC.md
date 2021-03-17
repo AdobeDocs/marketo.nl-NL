@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Markeringsproductdocumentatie
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '7949'
+source-wordcount: '7952'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
    + Doelaccountbeheer {#target-account-management}
       + {#setup} instellen
          + [Overzicht van accountgebaseerde marketing](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
-         + [Aan de slag met ABM](product-docs/target-account-management/setup-tam/getting-started-with-abm.md)
+         + [Aan de slag met TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [Een licentie afgeven](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [Machtigingen](product-docs/target-account-management/setup-tam/permissions.md)
          + [Accountscore](product-docs/target-account-management/setup-tam/account-score.md)
@@ -67,17 +67,18 @@ ht-degree: 0%
             + [Lood naar overeenkomst met account](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
             + [Filteren in benoemde accounts](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
             + [Een benoemde account verwijderen](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
-            + [ABM-hiërarchie](product-docs/target-account-management/target/named-accounts/abm-hierarchies.md)
+            + [TAM-hiërarchie](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
             + [Een hiërarchie maken](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [Accountlijsten](product-docs/target-account-management/target/account-lists.md)
+         + [Slimme accountlijsten](product-docs/target-account-management/target/account-smart-lists.md)
          + [Een passend publiek maken op LinkedIn](product-docs/target-account-management/target/create-a-matched-audience-on-linkedin.md)
       + {#engage} inschakelen
          + [Accountfilters](product-docs/target-account-management/engage/account-filters.md)
          + [Accounttriggers](product-docs/target-account-management/engage/account-triggers.md)
       + {#measure} meten
-         + [ABM hoofddashboard](product-docs/target-account-management/measure/abm-main-dashboard.md)
-         + [ABM Report Setup](product-docs/target-account-management/measure/abm-report-setup.md)
-         + [ABM-verkooprapport](product-docs/target-account-management/measure/abm-sales-report.md)
+         + [TAM-hoofddashboard](product-docs/target-account-management/measure/tam-main-dashboard.md)
+         + [TAM Report Setup](product-docs/target-account-management/measure/tam-report-setup.md)
+         + [TAM-verkooprapport](product-docs/target-account-management/measure/tam-sales-report.md)
          + [Accountlijstinzichten](product-docs/target-account-management/measure/account-list-insights.md)
          + [Dimension van benoemde account in RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [Benoemde accountgegevens](product-docs/target-account-management/measure/named-account-insights.md)
