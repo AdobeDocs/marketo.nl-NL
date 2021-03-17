@@ -3,9 +3,9 @@ unique-page-id: 11384433
 description: Opstelling van het Team van de rekening - Marketo Docs - de Documentatie van het Product
 title: Account Team Setup
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Een accountteam is een groep belanghebbenden die samenwerken aan een benoemde ac
 
    ![](assets/one-3.png)
 
-1. Klik **ABM**.
+1. Klik **Doelaccountbeheer**.
 
-   ![](assets/two-3.png)
+   ![](assets/account-team-setup-2.png)
 
 1. Klik onder Accountteamleden op **Bewerken**.
 
@@ -45,10 +45,12 @@ Een accountteam is een groep belanghebbenden die samenwerken aan een benoemde ac
 
    >[!CAUTION]
    >
-   >Als u een update uitvoert, kan het enige tijd duren voordat de wijzigingen worden weerspiegeld in ABM.
+   >Als u een update aanbrengt, kan het enige tijd duren voordat de wijzigingen in TAM worden weerspiegeld.
 
    >[!NOTE]
    >
-   >Als Meerdere CRM-accounts met verschillende rekeningeigenaren worden samengevoegd tot een Benoemde account, kiest Marketo één &quot;Rekeningeigenaar&quot; en voegt het andere rekeningeigenaren toe als &quot;Rekeningeigenaren&quot;
-   >
-   >Als de naam van een CRM-veld &quot;Role&quot; later wordt gewijzigd of verwijderd, stopt Marketo ABM met het synchroniseren van de bijgewerkte waarden totdat de gebruiker de instellingen in ABM handmatig bijwerkt
+   >* Als Meerdere CRM-accounts met verschillende rekeningeigenaren worden samengevoegd tot een Benoemde account, kiest Marketo één &quot;Rekeningeigenaar&quot; en voegt het andere rekeningeigenaren toe als &quot;Rekeningeigenaren&quot;
+      >
+      >
+   * Als een gebied van CRM &quot;Rol&quot;later anders wordt genoemd of geschrapt, zal Marketo TAM ophouden synchroniserend de bijgewerkte waarden tot de gebruiker manueel de opstelling in TAM bijwerkt
+
