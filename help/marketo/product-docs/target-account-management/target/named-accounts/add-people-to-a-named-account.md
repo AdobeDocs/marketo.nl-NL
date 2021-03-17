@@ -3,7 +3,7 @@ unique-page-id: 11378816
 description: Personen toevoegen aan een Benoemd account - Marketo Docs - Productdocumentatie
 title: Personen toevoegen aan een benoemde account
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Personen toevoegen aan een benoemde account {#add-people-to-a-named-account}
 
-Er zijn drie verschillende manieren om handmatig personen toe te voegen aan een benoemde account in ABM.
+Er zijn drie verschillende manieren om mensen aan een genoemde rekening in TAM manueel toe te voegen.
 
 ## Single Flow-actie {#single-flow-action}
 
