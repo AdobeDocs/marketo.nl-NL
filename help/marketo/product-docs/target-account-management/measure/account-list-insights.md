@@ -3,7 +3,7 @@ unique-page-id: 11380787
 description: Accountlijstinzichten - Marketo Docs - Productdocumentatie
 title: Accountlijstinzichten
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Het dashboard Accountlijst biedt een weergave van geaggregeerde inzichten van al
 
 >[!NOTE]
 >
->Marketo ABM bepaalt automatisch de hoogste genoemde rekeningen binnen een rekeningslijst die op pijpleiding wordt gebaseerd geproduceerde of de scores van de rekeningsovereenkomst van de rekening.
+>Marketo TAM bepaalt automatisch de hoogste genoemde rekeningen binnen een rekeningslijst die op pijpleiding wordt gebaseerd geproduceerde of de scores van de rekeningsovereenkomst van de rekening.
 
 ## Accountlijstdashboard {#account-list-dashboard}
 
