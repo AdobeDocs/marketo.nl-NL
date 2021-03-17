@@ -3,9 +3,9 @@ unique-page-id: 37355609
 description: Nieuwe accountdetectie - Marketo Docs - Productdocumentatie
 title: Nieuwe accountdetectie
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te
 >
 >Het wordt aanbevolen op de knop **Bestaande accounts bijwerken** te drukken voordat u een nieuwe zoekopdracht uitvoert om te controleren of u de meest recente gegevens bekijkt. Deze update kan maximaal 24 uur in beslag nemen.
 
-1. In Mijn Marketo, klik **ABM**.
+1. In Mijn Marketo, klik **het Beheer van de Rekening van het Doel**.
 
-   ![](assets/one-1.png)
+   ![](assets/new-account-discovery-1.png)
 
 1. Klik op het tabblad **Accountprofilering**.
 
@@ -37,7 +37,7 @@ De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te
 
    >[!NOTE]
    >
-   >Nieuwe accounts bevatten een lijst met accounts die nog niet van u zijn in ABM. Het zijn accounts die mogelijk nieuw voor u zijn op basis van filters die u selecteert.
+   >De nieuwe Rekeningen toont een lijst van rekeningen die niet van u in TAM zijn, nog. Het zijn accounts die mogelijk nieuw voor u zijn op basis van filters die u selecteert.
 
 1. Selecteer alle toepasselijke filters (dit deel is hoogst aanpasbaar, het volgende is enkel één voorbeeld om het filtreren aan te tonen).
 
