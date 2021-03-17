@@ -3,7 +3,7 @@ unique-page-id: 12615802
 description: Een benoemde account verwijderen - Marketo Docs - Productdocumentatie
 title: Een benoemde account verwijderen
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Voer de volgende snelle stappen uit om een benoemde account te verwijderen.
 
    >[!NOTE]
    >
-   >Accounts die zijn gesynchroniseerd met uw CRM, kunnen niet worden verwijderd in ABM. Als de schrappingsoptie niet beschikbaar is, of als u een &quot;Deze rekeningen kan niet worden geschrapt omdat één of meerdere rekeningen van CRM wordt geselecteerd&quot;bericht ontvangt, moeten zij direct in CRM worden geschrapt.
+   >Accounts die zijn gesynchroniseerd met uw CRM, kunnen niet in TAM worden verwijderd. Als de schrappingsoptie niet beschikbaar is, of als u een &quot;Deze rekeningen kan niet worden geschrapt omdat één of meerdere rekeningen van CRM wordt geselecteerd&quot;bericht ontvangt, moeten zij direct in CRM worden geschrapt.
