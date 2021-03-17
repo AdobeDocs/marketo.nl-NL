@@ -3,7 +3,7 @@ unique-page-id: 12979282
 description: Overzicht van de plug-in Account Insight - Marketo Docs - Productdocumentatie
 title: Overzicht van de plug-in Account Insight
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Overzicht van de insteekmodule Account Insight {#account-insight-plug-in-overview}
 
-Account Insight is een Chrome-plug-in die actionable ABM en accountinzichten voor uw verkoopteams bevat, zodat zij accounts effectiever kunnen gebruiken.
+Account Insight is een Chrome-plug-in die actionable TAM en accountinzichten voor uw verkoopteams bevat, zodat zij accounts effectiever kunnen gebruiken.
 
 >[!AVAILABILITY]
 >
->Het Inzicht van de Rekening is inbegrepen voor alle klanten die zowel ABM als het Inzicht van de Verkoop van de Marketo hebben. Voor klanten die alleen ABM hebben, is Account Insight beschikbaar als een aangeschafte add-on. Elke klant heeft maximaal 250 accountlicenties voor Insight. Neem contact op met je verkoper voor meer informatie. Het is niet beschikbaar voor klanten die geen ABM hebben.
+>Het Inzicht van de Rekening is inbegrepen voor alle klanten die zowel TAM als het Inzicht van de Verkoop van de Marketo hebben. Voor klanten die alleen TAM hebben, is Account Insight beschikbaar als een aangeschafte add-on. Elke klant heeft maximaal 250 accountlicenties voor Insight. Neem contact op met je verkoper voor meer informatie. Het is niet beschikbaar voor klanten die geen TAM hebben.
 
 >[!CAUTION]
 >
