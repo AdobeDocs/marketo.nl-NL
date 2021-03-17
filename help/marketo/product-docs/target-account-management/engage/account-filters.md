@@ -3,9 +3,9 @@ unique-page-id: 11380732
 description: Accountfilters - Marketo Docs - Productdocumentatie
 title: Accountfilters
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Benoemde accounts en de personen binnen deze accounts identificeren en inschakelen met behulp van nieuwe op account gerichte filters.
 
-## ABM-filters {#abm-filters}
+## TAM-filters {#tam-filters}
 
 1. Selecteer uw slimme campagne en klik **Slimme Lijst**.
 
@@ -45,25 +45,25 @@ Klik op de vervolgkeuzelijst met accounts om dit filter te gebruiken...
 
 ## Lid van benoemde rekening {#member-of-named-account}
 
-1. Kies een kwalificatie. Is bestemd voor een specifieke benoemde account(s) of is een account voor een benoemde account.
+Kies eerst een kwalificatie. **** Isfor a specific named account(s) or  **is** any for any named account.
 
-   ![](assets/six.png)
+![](assets/six.png)
 
-1. Klik op de vervolgkeuzelijst benoemde account.
+Klik op de vervolgkeuzelijst benoemde account...
 
-   ![](assets/seven.png)
+![](assets/seven.png)
 
-1. Kies de gewenste benoemde account(s).
+...en kiest u de gewenste benoemde account(s).
 
-   ![](assets/eight.png)
+![](assets/eight.png)
 
-1. Als u &quot;is om het even welk&quot;bepalend gebruikt, kunt u [beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) willen gebruiken om uw onderzoeksresultaten te beperken. Voeg zoveel toe als u wilt!
+Als u &quot;is om het even welk&quot;bepalend gebruikt, kunt u [beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) willen gebruiken om uw onderzoeksresultaten te beperken. Voeg zoveel toe als u wilt!
 
-   ![](assets/nine.png)
+![](assets/nine.png)
 
-1. Stel &#39;Onderliggende niveaus opnemen&#39; in op false als u alleen leden van het enkelvoudige, bovenste account wilt opnemen. Selecteer waar als u leden van alle kindrekeningen wilt.
+Stel &#39;Onderliggende niveaus opnemen&#39; in op false als u alleen leden van het enkelvoudige, bovenste account wilt opnemen. Selecteer waar als u leden van alle kindrekeningen wilt.
 
-   ![](assets/ten.png)
+![](assets/ten.png)
 
 >[!MORELIKETHIS]
 >
