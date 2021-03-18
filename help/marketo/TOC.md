@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Markeringsproductdocumentatie
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '7952'
+source-wordcount: '7967'
 ht-degree: 0%
 
 ---
@@ -507,7 +507,7 @@ ht-degree: 0%
          + [Problemen met validatie synchroniseren van dynamiek verhelpen](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + Instellingen synchroniseren {#sync-setup}
             + [Download de oplossing Marketo Lead Management](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [Upgrade de Marketo-oplossing voor Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Update de Oplossing van de Marketo voor de Dynamica van Microsoft](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Synchronisatie van Microsoft-dynamiek valideren](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [De URL van de organisatieservice weergeven](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011 On-Premises {#microsoft-dynamics-2011-on-premises}
@@ -1036,6 +1036,11 @@ ht-degree: 0%
             + [Het token voor waarschuwinggegevens verzenden gebruiken](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [URL&#39;s gebruiken in Mijn tokens](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [E-mail CC](product-docs/email-marketing/general/email-cc.md)
+   + Marketo Engage-ervaring van volgende generatie {#marketo-engage-next-generation-experience}
+      + [Overzicht](product-docs/marketo-engage-next-generation-experience/overview.md)
+      + [Nieuwe woordenlijst voor pictogrammen](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [Elementen verplaatsen](product-docs/marketo-engage-next-generation-experience/moving-assets.md)
+      + [De algemene zoekopdracht gebruiken](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Aan de slag {#getting-started}
          + [Overzicht van Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -1292,7 +1297,7 @@ ht-degree: 0%
             + [Global MS Dynamics Sync uitschakelen](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [MSI verwijderen uit de instantie van MS Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + {#updating} bijwerken
-            + [Werk de Oplossing van het Inzicht van de Verkoop van de Marketo voor de Dynamica van Microsoft bij](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/update-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [Verbetering de Oplossing van het Inzicht van de Verkoop van de Marketo voor de Dynamica van Microsoft](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + MSI voor Salesforce {#msi-for-salesforce}
          + Installatie {#installation}
             + [Pakket met marketinggegevens in Salesforce AppExchange installeren](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
@@ -1392,8 +1397,8 @@ ht-degree: 0%
          + [Pushberichten](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
          + [Het dashboard voor pushmeldingen weergeven](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
       + SMS-berichten weergeven {#vibes-sms-messages}
-         + [Voeg een Stap van de Stroom voor SMS toe](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [Een SMS-bericht voor Vibes maken](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
+         + [Voeg een Stap van de Stroom voor SMS toe](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
          + [Het SMS-berichtendashboard](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
          + [SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + Personalisatie {#personalization}
