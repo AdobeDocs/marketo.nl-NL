@@ -3,10 +3,10 @@ unique-page-id: 10099389
 description: Marketo-plug-ins voor Microsoft Dynamics - Marketo Docs - Productdocumentatie
 title: Marketo Plugin-releases voor Microsoft Dynamics
 translation-type: tm+mt
-source-git-commit: 3deb7e1c435368533222ddedf064d2d87fa75c5f
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 7%
+source-wordcount: '401'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,15 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
 
 ![](assets/lead-management-solution.png)
 
-In de onderstaande tabel worden de meest recente versies weergegeven.
+## Uw Dynamische Oplossing {#updating-your-dynamics-solution} bijwerken
+
+1. Importeer de nieuwste versie van de oplossing over de bestaande versie van uw Dynamics CRM (bijvoorbeeld: als uw Dynamische CRM versie 1.4 heeft en de recentste versie 1.5 is, zou u _over_ versie 1.4) invoeren.
+
+1. De volgende pop-up wordt weergegeven. Selecteer **Bijwerken** en **Aanpassingen bijhouden** en klik vervolgens op **Importeren**.
+
+![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
+
+## Laatste versies {#latest-versions}
 
 >[!NOTE]
 >
@@ -31,6 +39,11 @@ In de onderstaande tabel worden de meest recente versies weergegeven.
    <th colspan="1">Versie</th> 
    <th colspan="1">Releasedatum</th> 
    <th>Notities</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">16-10-20</td> 
+   <td colspan="1">Toegevoegde ondersteuning voor Campagne Sync met MS Dynamics.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.24</td> 
@@ -73,7 +86,7 @@ In de onderstaande tabel worden de meest recente versies weergegeven.
    <td colspan="1">Opgeloste problemen: Wanneer voor de lead een synchronisatiefilter was ingesteld op NO, en de opportunity en de contactpersoon geen synchronisatiefilter hadden, werd het logbestand maken niet gegenereerd voor de contactpersoon en de opportuniteit toen de lead werd gekwalificeerd.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.16</td> 
+   <td colspan="1">2.0.0.16</td> 
    <td colspan="1">29-03-16</td> 
    <td>Opgeloste problemen: Er is een toewijzingsgebeurtenis geregistreerd toen het synchronisatiefilter was uitgeschakeld.</td> 
   </tr> 
