@@ -3,9 +3,9 @@ unique-page-id: 10099102
 description: Plug-inreleases voor Microsoft Dynamics MSI - Marketo Docs - Productdocumentatie
 title: Plug-inreleases voor Microsoft Dynamics MSI
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '258'
 ht-degree: 4%
 
 ---
@@ -21,12 +21,33 @@ Download [de nieuwste plug-in](/help/marketo/product-docs/marketo-sales-insight/
 >
 >Deze versies werken voor zowel on-premise als online versies van Dynamiek.
 
-## Uw MSI-oplossing {#updating-your-msi-solution} bijwerken
+## De verbetering van uw Oplossing MSI {#upgrading-your-msi-solution}
 
-1. Importeer de nieuwste versie van de oplossing over de bestaande versie van uw Dynamics CRM (bijvoorbeeld: als uw Dynamische CRM versie 1.4 heeft en de recentste versie 1.5 is, zou u _over_ versie 1.4) invoeren.
-1. De volgende pop-up wordt weergegeven. Selecteer **Update** en **Overschrijf aanpassing** opties, dan klik **Import**.
+1. Importeer de nieuwste versie van de oplossing _over de bestaande versie_ van uw Dynamics CRM door op de knop **Importeren** in Dynamiek te drukken.
 
-   ![](assets/one.png)
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
+
+>[!NOTE]
+>
+>Voorbeeld: als uw Dynamica CRM versie 2.0.0.20 heeft en de recentste versie 2.0.0.21 is, zou u _over_ versie 2.0.0.20 invoeren.
+
+1. Klik **Volgende**.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
+
+1. Selecteer **Werkgebied voor upgrade** en **Aanpassingen behouden** en klik vervolgens op **Importeren**.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
+
+1. Klik **Volgende**.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
+
+1. Na een succesvolle invoer zult u twee oplossingen MSI zien: MarketoSalesInsight en MarketoSalesInsight_Upgrade. Selecteer de oudere oplossing en klik op Upgrade van oplossing toepassen.
+
+   ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
+
+En dat is het! Na de verbetering zult u slechts één Oplossing MSI zien.
 
 ## Updates van versie {#version-updates}
 
@@ -38,9 +59,14 @@ Download [de nieuwste plug-in](/help/marketo/product-docs/marketo-sales-insight/
  </colgroup> 
  <tbody> 
   <tr> 
-   <th colspan="1">Versie</th> 
    <th colspan="1">Releasedatum</th> 
+   <th colspan="1">Versie</th> 
    <th colspan="1">Notities</th> 
+  </tr> 
+  <tr> 
+   <td colspan="1">01-10-20</td> 
+   <td colspan="1">2.0.0.21</td> 
+   <td colspan="1">Opgeloste problemen: Toegang toewijzen aan configuratievelden van MSI API voor gebruikers met de rol van Inzicht in verkoop</td> 
   </tr> 
   <tr> 
    <td colspan="1">20-07-20</td> 
@@ -50,22 +76,22 @@ Download [de nieuwste plug-in](/help/marketo/product-docs/marketo-sales-insight/
   <tr> 
    <td colspan="1">12-06-20</td> 
    <td colspan="1">2.0.0.19.</td> 
-   <td colspan="1"><p>Opgeloste problemen: MSI-wachtwoord verbergen in MSD API-configuratie</p></td> 
+   <td colspan="1">Opgeloste problemen: MSI-geheim wachtwoord verbergen in MSD API Config</td> 
   </tr> 
   <tr> 
    <td colspan="1">26-05-20</td> 
    <td colspan="1">2.0.0.18</td> 
-   <td colspan="1"><p>Opgeloste problemen: De MSI rol-id-validatie wijzigen voor het weergeven van MSI-knoppen</p></td> 
+   <td colspan="1">Opgeloste problemen: De validatie van de MSI-rol-id wijzigen voor het weergeven van MSI-knoppen</td> 
   </tr> 
   <tr> 
    <td colspan="1">21-05-20</td> 
    <td colspan="1">2.0.0.17</td> 
-   <td colspan="1"><p>Opgeloste problemen: Het veld Eigenaar zichtbaar maken en velden niet verplicht maken</p></td> 
+   <td colspan="1">Opgeloste problemen: Het veld Eigenaar zichtbaar maken en velden niet verplicht maken</td> 
   </tr> 
   <tr> 
    <td colspan="1">28-04-20</td> 
    <td colspan="1">2.0.0.16</td> 
-   <td colspan="1"><p>Opgeloste problemen: Koppelingsafhankelijkheid voor MSD CRM-sitemap verwijderen</p></td> 
+   <td colspan="1">Opgeloste problemen: Koppelingsafhankelijkheid voor MSD CRM-sitemap verwijderen</td> 
   </tr> 
  </tbody> 
 </table>
