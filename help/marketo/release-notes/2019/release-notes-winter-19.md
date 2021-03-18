@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Opmerkingen bij de release - Winter '19 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -Winter '19
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 >[!NOTE]
 >
->Microsoft duwt alle online klanten aan om aan de recentste versie van de Dynamica van Microsoft te bevorderen. Als u uw instantie van Marketo met Dynamica Online integreert, zult u aan [verbetering aan de recentste versie van de Oplossing van de Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md) vóór **31 Januari, 2019** moeten verzekeren om ervoor te zorgen dat uw integratie zal blijven werken.
+>Microsoft duwt alle online klanten aan om aan de recentste versie van de Dynamica van Microsoft te bevorderen. Als u uw instantie van Marketo met Dynamica Online integreert, zult u aan [verbetering aan de recentste versie van de Oplossing van de Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) vóór **31 Januari, 2019** moeten verzekeren om ervoor te zorgen dat uw integratie zal blijven werken.
 
 >[!NOTE]
 >
