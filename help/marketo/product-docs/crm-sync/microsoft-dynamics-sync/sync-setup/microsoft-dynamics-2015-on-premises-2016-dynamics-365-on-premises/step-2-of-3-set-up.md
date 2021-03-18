@@ -3,7 +3,7 @@ unique-page-id: 7504739
 description: Marketo installeren voor Dynamics 2015 On-Prem en 2016 365 On-Prem Stap 2 van 3 - Marketo Docs - Productdocumentatie
 title: Marketo installeren voor Dynamics 2015 On-Prem en 2016 365 On-Prem Step 2 of 3
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Wijs de rol Marketo Sync User alleen toe aan Marketo Sync user. U hoeft het niet
 
 >[!NOTE]
 >
->Dit geldt voor Marketo versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om uw Marketo te bevorderen, zie [Upgrade de Oplossing van de Marketo voor de Dynamica van Microsoft](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/upgrade-the-marketo-solution-for-microsoft-dynamics.md).
+>Dit geldt voor Marketo versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om uw Marketo te bevorderen, zie [Upgrade de Oplossing van de Marketo voor de Dynamica van Microsoft](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 1. Klik onder **Instellingen** op **Beveiliging**.
 
