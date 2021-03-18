@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: Maak een SMS-bericht over Vibes - Marketo Docs - Productdocumentatie
 title: Een SMS-bericht voor Vibes maken
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,14 @@ ht-degree: 0%
 # Een SMS-bericht voor Vibes maken {#create-a-vibes-sms-message}
 
 Hier is hoe u een SMS-bericht van Vibes kunt maken.
+
+>[!AVAILABILITY]
+>
+>Deze functie is beschikbaar als een invoegtoepassing voor uw Marketo Engage-account. Voor een correcte levering moet het via Adobe worden aangekocht. Neem voor meer informatie contact op met uw Adobe Customer Success Manager.
+
+>[!NOTE]
+>
+>SMS-tekstberichten voldoen niet aan HIPAA.
 
 1. Ga naar **Marketingactiviteiten** en klik met de rechtermuisknop op een programma.
 
