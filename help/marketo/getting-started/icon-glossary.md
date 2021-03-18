@@ -3,15 +3,17 @@ unique-page-id: 4720476
 description: Woordenlijst pictogrammen - Marketo Docs - Productdocumentatie
 title: Woordenlijst met pictogrammen
 translation-type: tm+mt
-source-git-commit: 0ec525defbefe610f0bd1227b1c8f8e125d8e362
+source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '568'
 ht-degree: 0%
 
 ---
 
 
 # Woordenlijst met pictogrammen {#icon-glossary}
+
+Hieronder ziet u de pictogrammen voor de Marketo Classic. Als u aan de nieuwe interface van Marketo Engage bent geschakeld, uw pictogramverklarende woordenlijst [kan hier worden gevonden](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
 **Algemene pictogrammen**
 
