@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Markeringsproductdocumentatie
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 26453778ee3988b52e57fdf16205b93edbbaa771
 workflow-type: tm+mt
-source-wordcount: '7967'
+source-wordcount: '7971'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 0%
 + Productdocumenten {#product-docs}
    + Doelaccountbeheer {#target-account-management}
       + {#setup} instellen
-         + [Overzicht van accountgebaseerde marketing](product-docs/target-account-management/setup-tam/account-based-marketing-overview.md)
+         + [Overzicht van accountbeheer](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [Aan de slag met TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [Een licentie afgeven](product-docs/target-account-management/setup-tam/issue-a-license.md)
          + [Machtigingen](product-docs/target-account-management/setup-tam/permissions.md)
@@ -803,7 +803,7 @@ ht-degree: 0%
                + [Sjabloon 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Sjabloon 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Sjabloon 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Sjabloon 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Template 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1322,6 +1322,7 @@ ht-degree: 0%
             + Taalondersteuning {#language-support}
                + [Verkoopoverzicht voorbereiden voor meertalige ondersteuning in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Tab markeren {#marketo-tab}
+               + [Beste bieten](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [De Lead Feed gebruiken](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + MSI-configuratietab {#msi-configuration-tab}
                + [RSS inschakelen voor Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
@@ -1332,6 +1333,7 @@ ht-degree: 0%
                + [Prioriteit, Urgentie, Relatieve Score en Beste Bets](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
                + [De Gebieden van de Score plaatsen die voor Sterren en Vlamjes in het Inzicht van de Verkoop moeten worden gebruikt](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight.md)
             + Tabs in het deelvenster MSI {#tabs-in-the-msi-panel}
+               + [E-mailtabblad](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + Interesserende momenten {#interesting-moments}
                   + [Interessant momentoverzicht](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
                   + [Tokens voor interessante momenten](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
@@ -1594,7 +1596,7 @@ ht-degree: 0%
                + [Aangepaste veldgroepen maken met de veldOrganizer](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
    + Webpersonalisatie {#web-personalization}
       + Account gebaseerde webmarketing {#account-based-web-marketing}
-         + [Account-based Web Marketing met ABM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-abm.md)
+         + [Account gebaseerde webmarketing met TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Een nieuwe accountlijst maken](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [Een segment maken met een accountlijst](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
       + Aan de slag {#getting-started}
