@@ -3,7 +3,7 @@ unique-page-id: 37356893
 description: Overzicht van MSI-functies - Marketo Docs - Productdocumentatie
 title: Overzicht van MSI-functies
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ad69776dc366f3b1feba550158bea834bb755beb
 workflow-type: tm+mt
 source-wordcount: '908'
 ht-degree: 0%
@@ -97,9 +97,14 @@ Velden:
 
 * Verkoopinzicht - Opent contact met volledige lijstpagina
 
+Handelingen:
+
+* Toevoegen aan Marketo-campagne
+* Markeren naar e-mail verzenden
+* Toevoegen/verwijderen uit lijst van te controleren items
+
 De volgende functies zijn **niet beschikbaar** op de pagina Account Layout:
 
-* Handelingen: Toevoegen aan Marketo-campagne, Marketo-e-mail verzenden, Toevoegen/verwijderen uit controlelijst
 * Sterren en lamellen
 
 ## Opportunity-layout {#opportunity-layout}
@@ -115,9 +120,14 @@ Velden:
 * Verkoopinzicht - Opent contact met volledige lijstpagina
 * Marketo Opportunity Analysis - Opent Opportunity Influence Analyzer in Marketo
 
+Handelingen:
+
+* Toevoegen aan Marketo-campagne
+* Markeren naar e-mail verzenden
+* Toevoegen/verwijderen uit lijst van te controleren items
+
 De volgende functies zijn **niet beschikbaar** in de pagina van de Lay-out van de Mogelijkheid:
 
-* Handelingen: Toevoegen aan Marketo-campagne, Marketo-e-mail verzenden, Toevoegen/verwijderen uit controlelijst
 * Sterren en lamellen
 
 ## Lead en de mening van de Lijst van het Contact (Bulkacties) {#lead-and-contact-list-view-bulk-actions}
