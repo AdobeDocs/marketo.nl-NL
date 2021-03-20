@@ -3,7 +3,7 @@ unique-page-id: 37356565
 description: Een bijgehouden e-mail verzenden - Marketo Docs - Productdocumentatie
 title: Een bijgehouden e-mail verzenden
 translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Wanneer u een e-mail verzendt met Marketo Sales Connect, worden de weergaven (e-
 >U moet een identiteit laten verifiëren en een e-mailleveringskanaal instellen voordat u een bijgehouden e-mail verzendt.
 >
 >* [Verifieer uw e-mailadres](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* Stel een leveringskanaal in voor [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-tab-for-outlook-users.md) of [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-tab-for-gmail-users.md)
+>* Stel een leveringskanaal in voor [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) of [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
 
 1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld kiezen we **Samenstellen** in de koptekst).
