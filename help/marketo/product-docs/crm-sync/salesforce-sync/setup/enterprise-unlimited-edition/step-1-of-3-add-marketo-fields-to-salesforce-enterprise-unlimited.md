@@ -3,9 +3,9 @@ unique-page-id: 2360362
 description: Stap 1 van 3 - voeg de Gebieden van de Marketo aan Salesforce (Onderneming/Onbeperkt) toe - Marketo Docs - de Documentatie van het Product
 title: Stap 1 van 3 - voeg de Gebieden van de Marketo aan Salesforce (Onderneming/Onbeperkt) toe
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '731'
 ht-degree: 0%
 
 ---
@@ -265,10 +265,6 @@ Een aangepast veld op het hoofdobject in Salesforce moet worden toegewezen aan e
 1. Klik **Opslaan** wanneer u klaar bent.
 
    Gemakkelijk genoeg, toch?
-
->[!NOTE]
->
->Hier is een verbinding aan een [video van de volledige procedure](https://nation.marketo.com/videos/1475) die het kristalhelder zou moeten maken!
 
 >[!MORELIKETHIS]
 >
