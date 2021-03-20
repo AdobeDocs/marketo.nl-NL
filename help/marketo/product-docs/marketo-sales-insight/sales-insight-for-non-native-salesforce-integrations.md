@@ -3,9 +3,9 @@ unique-page-id: 45417125
 description: Verkoopoverzicht voor niet-native Salesforce-integratie - Marketo Docs - Productdocumentatie
 title: Verkoopoverzicht voor niet-native Salesforce-integratie
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
-source-wordcount: '1269'
+source-wordcount: '1277'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Als uw Marketo-account via een aangepaste of niet-native integratie is verbonden
 
 >[!PREREQUISITES]
 >
->* Bereik uit aan uw Manager van het Succes van de Klant om de &quot;niet-inheemse eigenschap MSI&quot;voor uw instantie van het Marketo toe te laten.
->* Een Salesforce-account met MSI Package-up.
+>* De markering van de &quot;niet-inheemse MSI&quot;eigenschap die voor uw instantie van Marketo wordt toegelaten alvorens u opstelling MSI (als het niet is, contacteer uw Manager van het Succes van de Klant).
+>* Een Salesforce-account met [MSI Package set up](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
 >* Marketo REST API [met succes opstelling](https://developers.marketo.com/rest-api/). De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
 >* Lees [dit blogbericht](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) om meer inzicht te krijgen in het object en de relaties.
 >* Stel Salesforce-objecten in om de algemeen unieke id weer te geven voor 18 hoofdletters en kleine letters in plaats van voor 15 hoofdletters en kleine letters.
