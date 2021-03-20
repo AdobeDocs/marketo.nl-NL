@@ -3,7 +3,7 @@ unique-page-id: 37355534
 description: Opmerkingen bij de release - jan 2020 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - jan 2020
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -19,7 +19,9 @@ De volgende functies zijn opgenomen in de release van 20 januari. Controleer uw 
 >
 >Functies die door een ster worden aangeduid ( ![(star)](assets/star-yellow.svg)), worden tegen betaling aangeboden. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
-**_Driemaandelijkse_** releasesDe volgende functies worden gepubliceerd op 17  **januari 2020**.
+**_Kwartaalreleases_**
+
+De volgende functies worden vrijgegeven op **17 januari 2020**.
 
 ## Core Marketo Engage Adobe-toepassing {#core-marketo-engage-adobe-application}
 
