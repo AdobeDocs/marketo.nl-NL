@@ -2,9 +2,9 @@
 description: OAuth 2.0 instellen - Marketo Docs - Productdocumentatie
 title: OAuth 2.0 instellen
 translation-type: tm+mt
-source-git-commit: 2301452683880a621e6c8a999adc750027a885ce
+source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
 workflow-type: tm+mt
-source-wordcount: '14'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -12,4 +12,85 @@ ht-degree: 0%
 
 # OAuth 2.0 {#setting-up-oauth-2-0} instellen
 
-text
+Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te staan om tot gegevens veilig toegang te hebben (de toepassing voor authentiek te verklaren gebruikend OAuth 2.0) via REST API vraag zonder het moeten login geloofsbrieven openbaren. Hieronder staan de stappen die moeten worden uitgevoerd om Marketo veilig te verbinden en te synchroniseren met Salesforce.
+
+## Aangesloten app {#set-up-connected-app} instellen
+
+1. In Salesforce, onder Opstelling, binnen de Hulpmiddelen van het Platform, navigeer aan Apps, Manager van de Toepassing, en klik **Nieuwe Verbonden App**.
+
+   ![](assets/setting-up-oauth-2-1.png)
+
+1. Vul de details in en klik **Save**.
+
+   ![](assets/setting-up-oauth-2-2.png)
+
+1. Klik op het selectievakje **OAuth-instellingen inschakelen**. Voor Callback URL, ga `https://app.marketo.com/salesforce/getSfdcOAuthTokensRedirect` in. Selecteer alle beschikbare OAuth-bereiken en klik op **Toevoegen**.
+
+   ![](assets/setting-up-oauth-2-3.png)
+
+1. Klik **Opslaan**.
+
+   ![](assets/setting-up-oauth-2-4.png)
+
+1. Klik **Doorgaan**.
+
+   ![](assets/setting-up-oauth-2-5.png)
+
+1. Kopieer de Consumentensleutel en Consumentengeheim.
+
+   ![](assets/setting-up-oauth-2-6.png)
+
+>[!NOTE]
+>
+>Sla de informatie Consumentencode en Consumentengeheim op voor later gebruik in Marketo.
+
+## Markering instellen {#set-up-marketo}
+
+>[!PREREQUISITES]
+>
+>* API-toegang moet zijn ingeschakeld voor de Salesforce Sync-gebruiker (als u een Salesforce Professional Edition-gebruiker bent, is deze toegang standaard niet beschikbaar. Neem contact op met uw Salesforce Account Executive).
+>* De gebruiker Marketo Sync moet in Salesforce worden gemaakt.
+>* Voor bestaande klanten, wordt de Eigenschap om &quot;OAuth voor synchronisatie toe te laten SFDC&quot;toegelaten op het abonnement van de klant.
+>* Pop-upblokkeerders zijn uitgeschakeld.
+>* Connected App is gemaakt en we hebben de Consumer Key en Consumer Secret beschikbaar voor gebruik.
+
+
+1. Klik in de sectie Marketo Admin op **CRM** en **Synchroniseren met Salesforce**.
+
+   ![](assets/setting-up-oauth-2-7.png)
+
+1. Voeg de gegevens Consumentencode en Consumentengeheim toe die u eerder hebt opgenomen en klik en **Opslaan**.
+
+   ![](assets/setting-up-oauth-2-8.png)
+
+1. Klik op de synchronisatiepagina van Marketo Salesforce op de knop **Aanmelden met Salesforce**.
+
+   ![](assets/setting-up-oauth-2-9.png)
+
+1. Er wordt een pop-up weergegeven met de aanmeldingspagina voor verkopers. Sleutel in uw &quot;Marketo Sync User&quot; geloofsbrieven en login.
+
+   ![](assets/setting-up-oauth-2-10.png)
+
+1. Voer de verificatiecode in die u hebt ontvangen via e-mail (verzonden door Salesforce) en klik op **Verifiëren**.
+
+   ![](assets/setting-up-oauth-2-11.png)
+
+1. Na succesvolle verificatie wordt de toegangspagina weergegeven met het verzoek om toegang. Klik **Toestaan**.
+
+   ![](assets/setting-up-oauth-2-12.png)
+
+1. Over een paar minuten verschijnt er een pop-up in Marketo. Klik **Credentials bevestigen**.
+
+   ![](assets/setting-up-oauth-2-13.png)
+
+1. Klik op **Salesforce Sync starten** wanneer de veldsynchronisatie is voltooid.
+
+   ![](assets/setting-up-oauth-2-14.png)
+
+1. Klik **Sync starten**.
+
+   ![](assets/setting-up-oauth-2-15.png)
+
+Uw Synchronisatie tussen Marketo en Salesforce is nu in uitvoering.
+
+![](assets/setting-up-oauth-2-16.png)
