@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Aangepaste velden voor programmalid - Marketo Docs - Productdocumentatie
 title: Aangepaste velden voor programmalid
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Aangepaste velden voor programmalid {#program-member-custom-fields}
 
 Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens voor elk lid verzamelen. Zij kunnen worden gebruikt in: Marketo-formulieren, filters en triggers van slimme lijsten en handelingen voor de stroom van slimme campagnes. De gegevens kunnen worden weergegeven op het tabblad Leden van het programma.
+
+>[!NOTE]
+>
+>Aangepaste velden voor programmaleden zijn momenteel niet geïntegreerd met de velden Lid van de Salesforce-campagne.
 
 ## Een aangepast veld voor programmalid maken {#create-a-program-member-custom-field}
 
@@ -64,11 +68,10 @@ U kunt deze programmaspecifieke gegevens in slimme lijsten gebruiken via [trigge
 
 * Aangepaste velden voor programmaleden zijn alleen beschikbaar in lokale middelen. Zij worden niet gesteund in de Studio van het Ontwerp omdat er geen manier is om het aan een specifiek programma te binden.
 * U kunt een formulier (of een landingspagina met een formulier) dat aangepaste velden voor programmaleden bevat, niet klonen of verplaatsen naar de Design Studio.
-* Aangepaste velden voor programmaleden kunnen niet worden gebruikt als tokens.
 * Het programmalidobject kan maximaal 20 aangepaste velden hebben. Deze velden zijn beschikbaar voor elk programma.
 * Wanneer u een lid van een programma verwijdert, als zij om het even welke gegevens op hun de douanegebied van het Lid van het Programma hebben, zullen de gegevens van dat gebied worden geschaad.
 * Als u de gegevens wilt weergeven, klikt u op het tabblad Leden in het programma en maakt u een aangepaste weergave met de desbetreffende velden.
-* Importeren en exporteren via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)en [API](https://developers.marketo.com/) worden ondersteund.
+* Importeren en exporteren via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) en [API](https://developers.marketo.com/) worden ondersteund.
 * Wanneer u twee personen samenvoegt, worden de aangepaste veldgegevens van het Lid van het Programma van de winnaar gebruikt. Maar als de winnaar er geen heeft, wordt de waarde van de verliezer gebruikt.
 
 >[!MORELIKETHIS]
