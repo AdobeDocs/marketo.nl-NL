@@ -3,9 +3,9 @@ unique-page-id: 11385938
 description: Predictieve inhoud voor e-mails bewerken - Marketo Docs - Productdocumentatie
 title: Voorspelende inhoud voor e-mails bewerken
 translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,10 @@ Hier volgt hoe u uw voorspellende inhoud instelt voor e-mails.
 1. Als u de URL van de afbeelding wilt toevoegen of bewerken, klikt u op **Afbeelding bewerken**.
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
+
+   >[!CAUTION]
+   >
+   >Voor de beste kwaliteit moet de afbeelding 400 x 400 pixels of kleiner zijn.
 
 1. Voeg de URL van de afbeelding in en klik op **Toevoegen**.
 
