@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: Vrijgaveoverzicht - Marketo Docs - Productdocumentatie
 title: Releaseplanning
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 * Bezig - We zijn bezig met het ontwikkelen en documenteren van de inhoud die op de aangegeven datum wordt vrijgegeven
 * Verzonden - De release is voltooid
 
-Releasedatums kunnen worden gewijzigd.
+_Releasedatums kunnen worden gewijzigd_
 
 <table> 
  <colgroup> 
