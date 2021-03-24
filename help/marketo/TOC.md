@@ -5,9 +5,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Markeringsproductdocumentatie
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '7986'
+source-wordcount: '8002'
 ht-degree: 0%
 
 ---
@@ -539,6 +539,7 @@ ht-degree: 0%
             + [Sync inschakelen voor een aangepaste entiteit](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync/enable-sync-for-a-custom-entity.md)
             + [Microsoft Dynamics Sync: Veldsynchronisatie](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync.md)
             + [Snelle synchronisatie gebruiken met Microsoft Dynamics voor een nieuw aangepast veld](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field.md)
+            + [Te synchroniseren velden bewerken voordat deze worden verwijderd in Dynamiek](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)
             + [Microsoft Dynamics Sync: Synchronisatie van lead](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
             + [Een contactpersoon maken in Microsoft Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync/create-a-contact-in-microsoft-dynamics.md)
             + [Microsoft Dynamics Sync: Opportunity synchroniseren](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
@@ -1308,6 +1309,7 @@ ht-degree: 0%
             + [Marktverkoopinzicht configureren in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [Het lusje van de Configuratie van het Inzicht van de Verkoop van de Marketo in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Pagina met verkoopinzicht voor marktexploitanten](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
+            + [Het Inzicht van de Verkoop van de Opstelling voor uw Team](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + Functies {#features}
             + [Overzicht van MSI-functies](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + Handelingen in het deelvenster MSI {#actions-in-the-msi-panel}
