@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Het Inzicht van de Verkoop van de Marketo in de Professionele Uitgave van Salesforce - Marketo Docs - de Documentatie van het Product vormen
 title: Marktverkoopinzicht configureren in Salesforce Professional Edition
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '905'
 ht-degree: 0%
 
 ---
@@ -306,4 +306,5 @@ En dat is het! U zou de gebieden van het Inzicht van de Verkoop van de Marketo v
 >
 >* [Prioriteit, Urgentie, Relatieve Score en Beste Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
 >* [Voeg het Lusje van het Inzicht van de Verkoop van de Marketo en Knopen aan Salesforce toe](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
+>* [Het Inzicht van de Verkoop van de Opstelling voor uw Team](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
 
