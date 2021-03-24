@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (Online) - Marketo Docs - de Documentatie van het Product
 title: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (Online)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,7 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 >[!PREREQUISITES]
 >
 >* [Stap 1 van 3: De Marketo-oplossing installeren (online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
-   >
-   >
-* [Stap 2 van 3: Marketo synchroniseren van gebruiker in dynamiek instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+>* [Stap 2 van 3: Marketo synchroniseren van gebruiker in dynamiek instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -49,13 +47,16 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
    >
    >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw abonnement op Marketo aanvragen.
 
-1. Voer de **Gebruikersnaam**, **Wachtwoord** en de Dynamica **URL** van Microsoft in (Client ID en Client Secret zijn optioneel). Klik **Opslaan** wanneer gereed.
+1. Voer **Gebruikersnaam**, **Wachtwoord** en de Dynamica van Microsoft **URL** in. Klik **Opslaan** wanneer gereed.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
    >
-   >De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan user@domain.com of DOMAIN\user zijn.
+   >* Als uw Marketo vóór Oktober 2020 was provisioned, zijn identiteitskaart van de Cliënt en Geheim facultatieve gebieden. Anders zijn ze verplicht. Het verkrijgen van deze informatie zal afhangen van welke versie van MSD u gebruikt.
+   >* De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan `user@domain.com` of DOMAIN\user zijn.
+   >* Als u URL niet kent, [leer hoe te om het hier te vinden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+
 
 ## Te synchroniseren velden {#select-fields-to-sync} selecteren
 
@@ -66,6 +67,10 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 1. Selecteer de velden die u wilt synchroniseren met Marketo, zodat deze vooraf worden geselecteerd. Klik **Opslaan**.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
+
+>[!NOTE]
+>
+>Marketo slaat een verwijzing naar de te synchroniseren velden op. Als u een gebied in Dynamiek schrapt, adviseren wij dit met [sync gehandicapt](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Vernieuw vervolgens het schema in Marketo door de [Selecteer te synchroniseren velden ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) te bewerken en op te slaan.
 
 ## Velden synchroniseren voor een aangepast filter {#sync-fields-for-a-custom-filter}
 
