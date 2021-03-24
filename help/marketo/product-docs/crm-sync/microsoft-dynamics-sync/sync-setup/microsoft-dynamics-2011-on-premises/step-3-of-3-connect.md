@@ -3,9 +3,9 @@ unique-page-id: 3571809
 description: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (2011 op-Premises) - Marketo Docs - de Documentatie van het Product
 title: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (2011 op-Premises)
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 20eb3389b267101fb277152f150c2119a5be65a8
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -53,11 +53,9 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 
    >[!NOTE]
    >
-   >De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan user@domain.com of DOMAIN\user zijn.
+   >* De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan `user@domain.com` of DOMAIN\user zijn.
+   >* Als u URL niet kent, [leer hoe te om het hier te vinden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-   >[!TIP]
-   >
-   >Kent u de URL niet? Wij zullen u tonen hoe te om [de Dienst URL van de Organisatie van de Dynamiek ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) hier te vinden.
 
 ## Te synchroniseren velden {#select-fields-to-sync} selecteren
 
@@ -70,6 +68,10 @@ Nu moeten we de velden selecteren waarover we willen synchroniseren.
 1. Er zijn vooraf geselecteerde velden die worden gesynchroniseerd. Voeg desgewenst meer toe en klik op **Opslaan**.
 
    ![](assets/image2016-8-25-13-3a26-3a14.png)
+
+   >[!NOTE]
+   >
+   >Marketo slaat een verwijzing naar de te synchroniseren velden op. Als u een gebied in Dynamiek schrapt, adviseren wij dit met [sync gehandicapt](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Vernieuw vervolgens het schema in Marketo door de [Selecteer te synchroniseren velden ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) te bewerken en op te slaan.
 
 ## Velden synchroniseren voor een aangepast filter {#sync-fields-for-a-custom-filter}
 
