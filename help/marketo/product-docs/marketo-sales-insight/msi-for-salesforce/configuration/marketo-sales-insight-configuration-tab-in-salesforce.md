@@ -3,9 +3,9 @@ unique-page-id: 42762322
 description: Het Lusje van de Configuratie van het Inzicht van de Verkoop van de Marketo in Salesforce - Marketo Docs - de Documentatie van het Product
 title: Het lusje van de Configuratie van het Inzicht van de Verkoop van de Marketo in Salesforce
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ Configuraties zijn van toepassing op alle MSI-gebruikers en zijn niet specifiek 
 
 * Komende gebeurtenissen: Mogelijkheid om uitgenodigde gebeurtenissen, alle gebeurtenissen aan gebruikers te tonen of dit tabblad volledig te verbergen
 * Opkomende campagnes: Mogelijkheid om alle e-mailcampagnes weer te geven of dit tabblad volledig te verbergen
+* Laad volgende campagnes en gebeurtenissen: Capaciteit om het aantal vraag van de Rest API te verminderen die door gebruikers wordt gemaakt door gebeurtenissen en campagnes lusje achter een op bestelling &quot;Laad Opkomende Punten&quot;knoop te plaatsen
 * Tabinstellingen - Alle vijf tabbladen zijn standaard beschikbaar. Alle vijf tabbladen zijn standaard beschikbaar. U kunt de tabvolgorde kiezen in het deelvenster Verkoopcontrole. Dezelfde volgorde geldt voor alle lay-outs (lead, contact, account, opportunity)
 
 ![](assets/two.png)
@@ -58,3 +59,7 @@ Configuraties zijn van toepassing op alle MSI-gebruikers en zijn niet specifiek 
 Als u dit doet, worden al uw configuraties in SFDC gewist en kunnen deze niet worden hersteld. U zult alles opnieuw moeten vormen.
 
 ![](assets/three.png)
+
+>[!MORELIKETHIS]
+>
+>[Het Inzicht van de Verkoop van de Opstelling voor uw Team](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
