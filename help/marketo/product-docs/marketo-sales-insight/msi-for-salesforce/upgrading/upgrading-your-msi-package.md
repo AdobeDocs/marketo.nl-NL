@@ -3,9 +3,9 @@ unique-page-id: 37357050
 description: Een upgrade uitvoeren van uw MSI-pakket - Marketo Docs - Productdocumentatie
 title: Een upgrade uitvoeren van uw MSI-pakket
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -26,3 +26,7 @@ ht-degree: 0%
 1. U kunt het pakket upgraden door &quot;Alleen installeren voor beheerders&quot; te kiezen (en later MSI-toegang tot specifieke profielen te verlenen), &quot;Installeren voor alle gebruikers&quot; of &quot;Installeren voor specifieke profielen&quot; te kiezen. In dit voorbeeld kiezen we Alleen beheerders. Wanneer u uw selectie hebt gemaakt, klikt u op **Upgrade**.
 
    ![](assets/four.png)
+
+>[!NOTE]
+>
+>U wordt aangeraden het pakket alleen voor beheerders bij te werken en vervolgens [specifieke gebruikers toegang te bieden](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md) op basis van het aantal gekochte MSI-licenties. U kunt ook een specifiek Salesforce-profiel maken voor MSI-gebruikers en het pakket alleen voor die gebruikers installeren of upgraden.
