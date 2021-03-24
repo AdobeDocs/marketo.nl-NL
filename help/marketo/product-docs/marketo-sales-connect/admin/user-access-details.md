@@ -3,7 +3,7 @@ unique-page-id: 14352623
 description: Toegangsgegevens gebruiker - Marketo Docs - Productdocumentatie
 title: Toegangsgegevens gebruiker
 translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Beheerders kunnen [alle campagnes weergeven](/help/marketo/product-docs/marketo-
 
 Beheerders kunnen alle e-mailactiviteiten weergeven.
 
-![](assets/email-activity.png)
+![](assets/user-access-details-3.png)
 
 Admins kunnen alle mensen op een lopende campagne zien.
 
