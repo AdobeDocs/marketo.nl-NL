@@ -3,9 +3,9 @@ unique-page-id: 7504744
 description: Marketo installeren voor Dynamics 2015 On-Prem en 2016 365 On-Prem Stap 3 van 3 - Marketo Docs - Productdocumentatie
 title: Marketo installeren voor Dynamics 2015 On-Prem en 2016 365 On-Prem Step 3 van 3
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,16 @@ ht-degree: 0%
    >
    >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw abonnement op Marketo aanvragen.
 
-1. Voer de **Gebruikersnaam**, **Wachtwoord** een Microsoft Dynamics **URL** en een optionele **Client Id** in. Klik **Opslaan** wanneer gereed.
+1. Voer **Gebruikersnaam**, **Wachtwoord** een Dynamiek van Microsoft **URL**, en een **Cliënt ID/Geheim** in. Klik **Opslaan** wanneer gereed.
 
-   ![](assets/client-id.png)
+   ![](assets/step-3-of-3-5.png)
 
    >[!NOTE]
    >
-   >De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan user@domain.com of DOMAIN\user zijn.
+   >* Als uw Marketo vóór Oktober 2020 was provisioned, zijn identiteitskaart van de Cliënt en Geheim facultatieve gebieden. Anders zijn ze verplicht. Het verkrijgen van deze informatie zal afhangen van welke versie van MSD u gebruikt.
+   >* De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan `user@domain.com` of DOMAIN\user zijn.
+   >* Als u URL niet kent, [leer hoe te om het hier te vinden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+
 
    >[!TIP]
    >
@@ -66,6 +69,10 @@ ht-degree: 0%
 1. Selecteer de velden die u wilt synchroniseren met Marketo, zodat deze vooraf worden geselecteerd. Klik **Opslaan**.
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
+
+>[!NOTE]
+>
+>Marketo slaat een verwijzing naar de te synchroniseren velden op. Als u een gebied in Dynamiek schrapt, adviseren wij dit met [sync gehandicapt](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Vernieuw vervolgens het schema in Marketo door de [Selecteer te synchroniseren velden ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md) te bewerken en op te slaan.
 
 ## Velden synchroniseren voor een aangepast filter {#sync-fields-for-a-custom-filter}
 
