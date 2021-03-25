@@ -2,9 +2,9 @@
 description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '470'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ De nieuwe interfaceeigenschappen verbeteren en breidden iconografie uit. Meer in
 
 **Boom**
 
-De boom is ook geüpgraded. Op dit moment is slepen en neerzetten echter niet beschikbaar. U kunt echter wel elementen verplaatsen. Leer hoe: [Elementen verplaatsen](/help/marketo/product-docs/marketo-engage-next-generation-experience/moving-assets.md).
+De boom is ook geüpgraded.
 
 ![](assets/overview-4.png)
 
@@ -97,12 +97,12 @@ Er zijn veel nieuwe boomfuncties beschikbaar.
   <tr>
    <td>Slepen en neerzetten van boom naar betrokkenheidsstroom</td> 
    <td><strong>X</strong></td> 
-   <td>hhhhhhhhhh</td> 
+   <td></td> 
   </tr>
   <tr>
    <td>Slepen en neerzetten in de boomstructuur</td> 
    <td><strong>X</strong></td> 
-   <td></td> 
+   <td><strong>X</strong></td> 
   </tr>
   <tr>
    <td>Filteren op elementtype en statussen</td> 
@@ -186,7 +186,7 @@ Kijk eens naar de nieuwe Global Nav.
 <table> 
  <tbody>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>Geen superball drop-down meer</td> 
   </tr>
   <tr>
@@ -194,7 +194,7 @@ Kijk eens naar de nieuwe Global Nav.
    <td>Alle vorige superbalkobjecten weergegeven</td> 
   </tr>
   <tr>
-   <td>3</td> 
+   <td>1</td> 
    <td>Op deze manier kun je feedback geven over je MEUE-ervaring</td> 
   </tr>
   <tr>
