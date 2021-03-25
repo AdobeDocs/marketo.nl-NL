@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: Installeer de toe:voegen-binnen E-mail van de Marketo voor Vooruitzichten met een Code van de Registratie - Marketo Docs - de Documentatie van het Product
 title: De invoegtoepassing Marketo E-mail voor Outlook installeren met een registratiecode
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
 >
 >U moet [uitgegeven een vergunning van de Toevoeging van de Marketo E-mail ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) zijn.
 
+>[!NOTE]
+>
+>Vanaf 10/1/20, steunt de recentste versie van de stop van Vooruitzichten niet meer off-line wijze. Dit wordt van kracht na de installatie/upgrade op of na 10/1.
+
 ## Installatieprogramma {#download-installer} downloaden
 
 1. Uw [Microsoft Outlook-versie](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c) identificeren
@@ -29,7 +33,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
 
    >[!NOTE]
    >
-   >De onderstaande koppelingen werken momenteel alleen in Chrome. Sorry voor enig ongemak.
+   >Op dit moment werken de koppelingen hieronder alleen in Microsoft Edge of door met de rechtermuisknop in Chrome te klikken. Sorry voor enig ongemak.
 
    | Outlook-versie | 32-bits Outlook | 64-bits Outlook |
    |---|---|---|
@@ -40,9 +44,11 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
    | Outlook 2013 | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2016 | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook 2019 | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook O365 (alleen Windows) | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
    | Outlook voor Mac | Niet ondersteund | Niet ondersteund |
    | Outlook Web App | Niet ondersteund | Niet ondersteund |
+   | Office 365* | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [Downloaden](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+
+   *Office 365-versie: Alleen Windows-client (in Windows 10, Enterprise of Pro).
 
 ## Uw registratiecode kopiëren {#copy-your-registration-code}
 
