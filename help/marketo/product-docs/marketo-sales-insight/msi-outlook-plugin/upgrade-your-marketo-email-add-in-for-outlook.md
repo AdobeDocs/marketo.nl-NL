@@ -3,9 +3,9 @@ unique-page-id: 2949279
 description: Upgrade uw Marketo-e-mailinvoegtoepassing voor Outlook - Marketo Docs - Productdocumentatie
 title: Upgrade uw Marketo-e-mailinvoegtoepassing voor Outlook
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Upgrade uw Marketo-e-mailinvoegtoepassing voor Outlook {#upgrade-your-marketo-email-add-in-for-outlook}
 
 Wanneer een nieuwe versie van Marketo E-mail toe:voegen-binnen voor Vooruitzichten beschikbaar is, volg deze instructies om te bevorderen.
+
+>[!NOTE]
+>
+>Vanaf 10/1/20, steunt de recentste versie van de stop van Vooruitzichten niet meer off-line wijze. Dit wordt van kracht na de installatie/upgrade op of na 10/1.
 
 ## Installatieprogramma {#download-installer} downloaden
 
@@ -90,13 +94,6 @@ Download het installatieprogramma dat geschikt is voor uw versie van Microsoft O
    <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
   </tr> 
   <tr> 
-   <td colspan="1">Outlook O365 (alleen Windows)</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
-  </tr> 
-  <tr> 
    <td>Outlook voor Mac</td> 
    <td>Niet ondersteund</td> 
    <td>Niet ondersteund</td> 
@@ -110,10 +107,23 @@ Download het installatieprogramma dat geschikt is voor uw versie van Microsoft O
    <td colspan="1">Niet ondersteund</td> 
    <td colspan="1">Niet ondersteund</td> 
   </tr> 
+  <tr> 
+   <td colspan="1">Office 365*</td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Downloaden</a></td> 
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Downloaden</a></td> 
+  </tr> 
  </tbody> 
 </table>
 
+*Office 365-versie: Alleen Windows-client (in Windows 10, Enterprise of Pro).
+
 ## Upgrade {#upgrade}
+
+1. Identificeer uw [versie van Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+
+1. Selecteer uw versie in de bovenstaande lijst.
 
 1. Voer het installatieprogramma uit.
 
