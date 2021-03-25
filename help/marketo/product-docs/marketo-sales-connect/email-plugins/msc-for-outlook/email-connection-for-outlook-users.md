@@ -3,9 +3,9 @@ unique-page-id: 17727591
 description: E-mailverbinding voor Outlook-gebruikers - Marketo Docs - Productdocumentatie
 title: E-mailverbinding voor Outlook-gebruikers
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,22 @@ Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het
 
    ![](assets/six-a.png)
 
-   | **Outlook Online** | Ook bekend als Office Online |
-   |---|---|
-   | **Exchange op locatie** | Inclusief Exchange 2013 en 2016 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Wordt ook online genoemd als Exchange</td> 
+     </tr>
+     <tr>
+      <td><strong>Exchange op locatie</strong></td> 
+      <td>Inclusief Exchange 2013 en 2016</td> 
+     </tr>
+    </tbody>
+   </table>
+
+   >[!NOTE]
+   >
+   >Marketo biedt momenteel geen ondersteuning voor Exchange Hybrid-accounts.
 
 1. Klik **OK**.
 
@@ -67,7 +80,7 @@ Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het
 
    >[!NOTE]
    >
-   >Wanneer u Outlook als leveringskanaal gebruikt, kunt u niet meer dan 300 grote e-mails tegelijk verzenden.
+   >De vooruitzichten online (Office365) dwingen zijn eigen verzendende grenzen af. [Klik hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits) voor meer informatie.
 
 ## Verbinding maken met Exchange op locatie {#connecting-to-exchange-on-premise}
 
@@ -97,10 +110,18 @@ Het verbinden met Uitwisseling op locatie betekent u antwoord het volgen, toegan
 
    ![](assets/six-b.png)
 
-   | Versie | Beschrijving |
-   |---|---|
-   | **Outlook Online** | Ook bekend als Office Online |
-   | **Exchange op locatie** | Inclusief Exchange 2013 en 2016 |
+   <table> 
+    <tbody>
+     <tr>
+      <td><strong>Outlook Online</strong></td> 
+      <td>Wordt ook online genoemd als Exchange</td> 
+     </tr>
+     <tr>
+      <td><strong>Exchange op locatie</strong></td> 
+      <td>Inclusief Exchange 2013 en 2016</td> 
+     </tr>
+    </tbody>
+   </table>
 
 1. Voer uw referenties in en klik op **Connect**.
 
@@ -114,4 +135,4 @@ Het verbinden met Uitwisseling op locatie betekent u antwoord het volgen, toegan
 
    >[!NOTE]
    >
-   >Wanneer u Outlook als leveringskanaal gebruikt, kunt u niet meer dan 300 grote e-mails tegelijk verzenden.
+   >Wanneer het gebruiken van Uitwisseling On-prem, zal uw Team van IT uw e-mail verzendende grens vestigen.
