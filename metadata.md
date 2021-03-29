@@ -1,15 +1,15 @@
 ---
-cloud: experience-cloud
-solution: Experience Cloud
-product: experience cloud
-type: Documentation
+cloud: Experience Cloud
+solution: Marketo Engage
+product: marketo
+type: Documentatie
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/marketo.nl-NL
 index: false
 translation-type: tm+mt
-source-git-commit: 0dbdb1f26a4dcf59f351511b072a6385935de86f
+source-git-commit: e51d81dbf27bea8667ffafdcc356cf3f6b70c2b1
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
