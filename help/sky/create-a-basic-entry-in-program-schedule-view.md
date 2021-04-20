@@ -1,14 +1,14 @@
 ---
 title: creëren-a-basis-ingang-in-programma-programma-mening
 description: Creeer een BasisIngang in de Mening van het Programma
+exl-id: c4b089f0-aaaa-42e8-8eb9-8b53dbd6a2d5
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # Creeer een BasisIngang in de Mening van het Programma
 
@@ -28,7 +28,7 @@ U kunt nieuwe basisingangen direct van de mening van het programmaprogramma tot 
    >
    >U kunt ook vergelijkbare stappen uitvoeren om een basisitem te maken in de weergaven Dag, Week of Agenda.
 
-1. Voer een naam in voor uw nieuwe basisitem en wijzig **[!UICONTROL Type]** indien nodig in [!UICONTROL Basic Entry]. U kunt **[!UICONTROL Start & End Date]** ook wijzigen, en **[!UICONTROL Open In Agenda View]** schrappen als u in de kalender wilt blijven na het creëren van de ingang. Klik op **[!UICONTROL Save]**.
+1. Voer een naam in voor uw nieuwe basisitem en wijzig **[!UICONTROL Type]** indien nodig in [!UICONTROL Basic Entry]. U kunt **[!UICONTROL Start & End Date]** ook wijzigen, en **[!UICONTROL Open In Agenda View]** schrappen als u in de kalender wilt blijven na het creëren van de ingang. Klikken **[!UICONTROL Save]**.
 
    ![Afbeelding drie](/help/sky/assets/program-schedule-view/create-a-basic-entry-in-program-schedule-view/create-a-basic-entry-in-program-schedule-view-3.png)
 
