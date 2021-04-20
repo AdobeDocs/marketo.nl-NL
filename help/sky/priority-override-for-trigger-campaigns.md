@@ -1,20 +1,20 @@
 ---
 title: priority-override-for-trigger-campagnes
 description: Prioriteit overschrijven voor triggercampagnes
+exl-id: 4468868c-33d7-4b5e-b524-bfcc2785c8ce
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
-
 # Prioriteit overschrijven voor triggercampagnes
 
 <br> 
 
-Beheerders kunnen de vastgestelde prioriteit van Marketo voor triggercampagnes negeren om prioriteiten in te stellen die beter aansluiten op bedrijfsdoelstellingen.
+Beheerders kunnen de door Marketo bepaalde prioriteit voor triggercampagnes overschrijven om prioriteiten in te stellen die beter op de bedrijfsdoelstellingen zijn afgestemd.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Beheerders kunnen de vastgestelde prioriteit van Marketo voor triggercampagnes n
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-1.png)
 
-1. Kies een nieuw prioriteitsniveau in het keuzemenu. Klik op **[!UICONTROL Confirm]**.
+1. Kies een nieuw prioriteitsniveau in het keuzemenu. Klikken **[!UICONTROL Confirm]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-2.png)
 
@@ -70,7 +70,7 @@ Beheerders kunnen de vastgestelde prioriteit van Marketo voor triggercampagnes n
 
    ![Afbeelding zeven](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-7.png)
 
-1. Controleer **[!UICONTROL Edit Trigger Campaign Priority]** onder [!UICONTROL Access Marketing Activities]. Klik op **[!UICONTROL Save]**.
+1. Controleer **[!UICONTROL Edit Trigger Campaign Priority]** onder [!UICONTROL Access Marketing Activities]. Klikken **[!UICONTROL Save]**.
 
    ![Afbeelding acht](/help/sky/assets/smart-campaigns/priority-override-for-trigger-campaigns/priority-override-for-trigger-campaigns-8.png)
 
