@@ -1,14 +1,14 @@
 ---
 title: using-the-program-overview-tab
 description: Het tabblad Programmaoverzicht gebruiken
+exl-id: 85193e27-5f49-4db9-88f5-99ec5f8bbec8
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
-
 
 # Het tabblad Programmaoverzicht gebruiken
 
