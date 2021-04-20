@@ -1,14 +1,14 @@
 ---
 title: edit-Qualification-rules-in-a-smart-campagne
 description: Kwalificatieregels bewerken in een slimme campagne
+exl-id: a76c1fbb-9f12-40be-bf88-4c194231f5a8
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
-
 
 # Kwalificatieregels bewerken in een slimme campagne
 
@@ -20,7 +20,7 @@ De regels van de erkenning bepalen hoe vaak iemand door de stroom in een slimme 
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-1.png)
 
-1. Klik op **[!UICONTROL Edit Recurrence]**.
+1. Klikken **[!UICONTROL Edit Recurrence]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/edit-qualification-rules-in-a-smart-campaign/edit-qualification-rules-in-a-smart-campaign-2.png)
 
