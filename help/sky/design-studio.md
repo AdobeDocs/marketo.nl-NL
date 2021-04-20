@@ -13,4 +13,4 @@ ht-degree: 0%
 # Design Studio
 
 * [Middelen importeren met Adobe Experience Manager](importing-assets-with-adobe-experience-manager.md)
-* [Markeren naar afbeeldingseditor](marketo-image-editor.md)
+* [Marketo Image Editor](marketo-image-editor.md)
