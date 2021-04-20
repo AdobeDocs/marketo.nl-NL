@@ -1,14 +1,14 @@
 ---
 title: define-a-smart-list-for-a-trigger-campagne
 description: Een slimme lijst definiëren voor een triggercampagne
+exl-id: d5231df9-2b5b-40cc-b4f3-a43100abdc1e
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
-
 
 # Een slimme lijst definiëren voor een triggercampagne
 
@@ -26,7 +26,7 @@ Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd di
 
    >[!NOTE]
    >
-   >Een slimme campagne met triggers wordt uitgevoerd in de triggermodus. Deze wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en eventuele aanvullende filters.
+   >Een slimme campagne met triggers wordt uitgevoerd in de triggermodus. De functie wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en eventuele aanvullende filters.
 
 1. Klik op de vervolgkeuzelijst en kies een operator (bijvoorbeeld **[!UICONTROL is]**, **[!UICONTROL is not]**, enz.) voor de trigger die u hebt gekozen.
 
