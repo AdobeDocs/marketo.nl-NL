@@ -1,14 +1,14 @@
 ---
 title: edit-availability-of-stream-content
 description: Beschikbaarheid van stroominhoud bewerken
+exl-id: b5624780-fae0-456b-a709-cb3c71c49757
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Beschikbaarheid van stroominhoud bewerken
 
@@ -36,7 +36,7 @@ U kunt een tijdframe instellen waarin de inhoud actief wordt in uw stream.
 
    ![Afbeelding vijf](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-5.png)
 
-1. Klik op **[!UICONTROL Save]**.
+1. Klikken **[!UICONTROL Save]**.
 
    ![Afbeelding zes](/help/sky/assets/engagement-programs/edit-availability-of-stream-content/edit-availability-of-stream-content-6.png)
 
