@@ -1,14 +1,14 @@
 ---
 title: delete-a-program
 description: Een programma verwijderen
+exl-id: 1ef0b6d8-5a3e-4dff-a3ad-26874906e2bf
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Een programma verwijderen
 
@@ -20,7 +20,7 @@ Hier is hoe u een programma kunt verwijderen.
 
    ![Afbeelding één](/help/sky/assets/programs/delete-a-program/delete-a-program-1.png)
 
-1. Controleer de bijwerkingen van de verwijdering van het programma en controleer vervolgens **[!UICONTROL Delete all the items listed above]**. Klik op **[!UICONTROL Submit]**.
+1. Controleer de bijwerkingen van de verwijdering van het programma en controleer vervolgens **[!UICONTROL Delete all the items listed above]**. Klikken **[!UICONTROL Submit]**.
 
    ![Afbeelding twee](/help/sky/assets/programs/delete-a-program/delete-a-program-2.png)
 
