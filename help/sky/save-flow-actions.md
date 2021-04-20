@@ -1,20 +1,20 @@
 ---
 title: save-flow-acties
 description: Stroomhandelingen opslaan
+exl-id: a359466a-2484-4538-a0d7-29d9a5606786
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
-
 # Stroomhandelingen opslaan
 
 <br> 
 
-De stappen van de stroom vertellen Marketo wat u met een groep mensen wilt hebben gebeuren die (de mensen die u in de slimme lijst verkoos) kwalificeren. Als u een specifieke flow opslaat, bespaart u tijd.
+De stappen van de stroom vertellen Marketo wat u met een groep mensen wilt gebeuren die kwalificeren (de mensen u in de slimme lijst koos). Als u een specifieke flow opslaat, bespaart u tijd.
 
 ## Stroomhandelingen opslaan
 
@@ -48,7 +48,7 @@ En je bent klaar. De volgende keer dat u een slimme campagne maakt, hebt u toega
 
    ![Afbeelding zeven](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-7.png)
 
-1. Klik op **[!UICONTROL Flow]**.
+1. Klikken **[!UICONTROL Flow]**.
 
    ![Afbeelding acht](/help/sky/assets/smart-lists-and-static-lists/save-flow-actions/save-flow-actions-8.png)
 
