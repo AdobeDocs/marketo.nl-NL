@@ -1,14 +1,14 @@
 ---
 title: create-a-campagne-folder
 description: Een campagnemap maken
+exl-id: b6687385-2f45-4946-98d2-88138e1e2875
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # Een campagnemap maken
 
@@ -24,7 +24,7 @@ Campagnemappen helpen u een moeilijke werkruimte te houden. Volg deze eenvoudige
 
    ![Afbeelding één](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-2.png)
 
-1. U kunt desgewenst een beschrijving toevoegen en/of labels toevoegen aan uw campagnemap. Als u uw campagnemap binnen een bestaande map maakt, kunt u ook de labels uit het bovenliggende element kopiëren. Klik op **[!UICONTROL Create]**.
+1. U kunt desgewenst een beschrijving toevoegen en/of labels toevoegen aan uw campagnemap. Als u uw campagnemap binnen een bestaande map maakt, kunt u ook de labels uit het bovenliggende element kopiëren. Klikken **[!UICONTROL Create]**.
 
    ![Afbeelding één](/help/sky/assets/campaign-folders/create-a-campaign-folder/create-a-campaign-folder-3.png)
 
