@@ -1,14 +1,14 @@
 ---
 title: save-smart-list-rules
 description: Slimme-lijstregels opslaan
+exl-id: dabfcba3-a3fb-4d25-8ace-b569c4952eab
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Slimme-lijstregels opslaan
 
@@ -22,7 +22,7 @@ Het opslaan van regels voor slimme lijsten is een uitstekende manier om kostbare
 
    ![Afbeelding één](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-1.png)
 
-1. Klik op **[!UICONTROL Smart List]**.
+1. Klikken **[!UICONTROL Smart List]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-2.png)
 
@@ -48,7 +48,7 @@ En dat is het! De volgende keer dat u een slimme campagne maakt, hebt u toegang 
 
    ![Afbeelding zeven](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-7.png)
 
-1. Klik op **[!UICONTROL Smart List]**.
+1. Klikken **[!UICONTROL Smart List]**.
 
    ![Afbeelding acht](/help/sky/assets/smart-lists-and-static-lists/save-smart-list-rules/save-smart-list-rules-8.png)
 
