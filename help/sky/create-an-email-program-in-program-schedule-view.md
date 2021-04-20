@@ -1,14 +1,14 @@
 ---
 title: Maak-een-e-mail-programma-in-programma-programma-mening
 description: Een e-mailprogramma maken in de overzichtsweergave van het programma
+exl-id: f3538412-8ece-411c-a1ac-6c082088190a
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
-
 
 # Een e-mailprogramma maken in de overzichtsweergave van het programma
 
@@ -28,7 +28,7 @@ U kunt nieuwe e-mailprogramma&#39;s rechtstreeks in de programmaweergave van het
    >
    >U kunt ook vergelijkbare stappen uitvoeren om een e-mailprogramma te maken vanuit de weergaven Dag, Week of Agenda.
 
-1. Voer een naam in voor uw nieuwe slimme campagne en wijzig **[!UICONTROL Type]** in [!UICONTROL Email Program]. U kunt **[!UICONTROL Start Date]** ook wijzigen, en **[!UICONTROL Open In Agenda View]** schrappen als u in de kalender wilt blijven na het creëren van de ingang. Klik op **[!UICONTROL Save]**.
+1. Voer een naam in voor uw nieuwe slimme campagne en wijzig **[!UICONTROL Type]** in [!UICONTROL Email Program]. U kunt **[!UICONTROL Start Date]** ook wijzigen, en **[!UICONTROL Open In Agenda View]** schrappen als u in de kalender wilt blijven na het creëren van de ingang. Klikken **[!UICONTROL Save]**.
 
    ![Afbeelding drie](/help/sky/assets/program-schedule-view/create-an-email-program-in-program-schedule-view/create-an-email-program-in-program-schedule-view-3.png)
 
