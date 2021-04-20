@@ -1,14 +1,14 @@
 ---
 title: programma's voor wederzijds begrip en engagement
 description: Betrokkenheidsprogramma's
+exl-id: 15627752-8246-44fa-9293-2f97849635fc
 translation-type: tm+mt
-source-git-commit: 96839c20e8d6adf2dc87ae050decc73ecb5052e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
 
 ---
-
 
 # Betrokkenheidsprogramma&#39;s
 
@@ -86,4 +86,4 @@ Zodra een persoon elk stuk van inhoud in een stroom heeft ontvangen, noemen wij 
 
 ## Niveau van betrokkenheid bij inhoud
 
-Het niveau van de Aanwezigheid van de inhoud is een 0 tot 100 puntscore die Marketo uw inhoud zal geven. Dit aantal wordt bepaald door een verfijnde formule gebruikend opent, klikt, unsubscribes, programmasucces, en andere factoren.
+Het niveau van de betrokkenheid bij inhoud is een score van 0 tot 100 punten die Marketo aan uw inhoud zal geven. Dit aantal wordt bepaald door een verfijnde formule gebruikend opent, klikt, unsubscribes, programmasucces, en andere factoren.
