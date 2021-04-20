@@ -1,14 +1,14 @@
 ---
 title: my-token-email-script
 description: Mijn token-e-mailscript
+exl-id: 8dd28274-578a-4184-b7bb-b46b59ebe410
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # Mijn token: E-mailscript
 
@@ -34,7 +34,7 @@ Voor gevorderde ontwikkelaars kunt u [Snelheidsscripts](https://velocity.apache.
 
 1. Schrijf uw script in Snelheid. Hier volgen enkele handige bronnen die u helpen:
 
-   * [Documenten met e-mailscripts voor Marketo Developers](https://developers.marketo.com/email-scripting/)
+   * [Marketo Developers Email Scripting Documentation](https://developers.marketo.com/email-scripting/)
    * [Gebruikershandleiding voor snelheid](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Snelheidsnaslaggids](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [VelocityTools 2.0 Documentation](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
