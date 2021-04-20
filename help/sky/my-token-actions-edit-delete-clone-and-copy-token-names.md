@@ -1,14 +1,14 @@
 ---
 title: my-token-actions-edit-delete-clone-and-copy-token-names
 description: Mijn token-handelingen bewerken, verwijderen, klonen en tokennamen kopiëren
+exl-id: 5ef1ac8b-a7a3-4106-a72f-ce6de8b1bc0d
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
-
 
 # Mijn token-handelingen: Tokennamen bewerken, verwijderen, klonen en kopiëren
 
@@ -30,7 +30,7 @@ Klik op het tabblad [!UICONTROL My Tokens] van de campagnemap of het programma o
 
    ![Afbeelding drie](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-3.png)
 
-1. Klik op **[!UICONTROL Confirm]**.
+1. Klikken **[!UICONTROL Confirm]**.
 
    ![Afbeelding vier](/help/sky/assets/my-tokens/my-token-actions-edit-delete-clone-and-copy-token-names/my-token-actions-edit-delete-clone-and-copy-token-names-4.png)
 
