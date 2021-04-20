@@ -1,14 +1,14 @@
 ---
 title: my-token-image
 description: Mijn token-afbeelding
+exl-id: d939db6f-224e-47af-96b2-6bcaf243d51f
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Mijn token: Afbeelding
 
@@ -20,10 +20,10 @@ Hieronder wordt beschreven hoe u een afbeeldingstoken instelt voor gebruik in uw
 
    ![Afbeelding één](/help/sky/assets/my-tokens/my-token-image/my-token-image-1.png)
 
-1. Voer een naam in voor het afbeeldingstoken en voer vervolgens de URL van de afbeelding in. Klik op **[!UICONTROL Save]**.
+1. Voer een naam in voor het afbeeldingstoken en voer vervolgens de URL van de afbeelding in. Klikken **[!UICONTROL Save]**.
 
    ![Afbeelding twee](/help/sky/assets/my-tokens/my-token-image/my-token-image-2.png)
 
-U kunt ook een bestaande afbeelding kiezen in de map [!UICONTROL Design Studio]. Klik op **[!UICONTROL Save]**.
+U kunt ook een bestaande afbeelding kiezen in de map [!UICONTROL Design Studio]. Klikken **[!UICONTROL Save]**.
 
 ![Afbeelding drie](/help/sky/assets/my-tokens/my-token-image/my-token-image-3.png)
