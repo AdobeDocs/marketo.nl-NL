@@ -1,24 +1,24 @@
 ---
 title: understanding-target-tracking-and-projected-registrations
 description: Begrijpen van Goal Tracking en Geprojecteerde Registraties
+exl-id: 65064cbd-2ed7-45d5-aab9-4fc865e2bed6
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '969'
 ht-degree: 0%
 
 ---
 
-
 # Begrijpen van Goal Tracking en Geprojecteerde Registraties
 
 <br> 
 
-Na [het plaatsen van gebeurtenisdoelstellingen](/help/sky/setting-event-goals.md) en het verzenden van uitnodigingen door een [slimme campagne](/help/sky/create-a-smart-campaign.md), is hier hoe te om uw doelvooruitgang te volgen en de voorspellingen van Marketo te begrijpen.
+Na [het plaatsen van gebeurtenisdoelstellingen](/help/sky/setting-event-goals.md) en het verzenden van uitnodigingen door een [slimme campagne](/help/sky/create-a-smart-campaign.md), is hier hoe te om uw doelvooruitgang te volgen en Marketo te begrijpen voorspellingen.
 
 >[!NOTE]
 >
->Wanneer een gebeurtenisprogramma in de Klassieke ervaring van Marketo wordt gecreeerd, blijft de datum van de gebeurtenisaanvang momenteel aan de datum van de gebeurtenisverwezenlijking in gebreke. Aangezien bij geplande registraties rekening wordt gehouden met de hoeveelheid tijd die voor de begindatum van een gebeurtenis valt, is het mogelijk dat deze getallen niet accuraat zijn als de begindatum en de aanmaakdatum gelijk zijn (tenzij dit opzettelijk is ingesteld).
+>Wanneer een gebeurtenisprogramma in de Marketo Classic-ervaring wordt gemaakt, wordt de begindatum van de gebeurtenis momenteel standaard ingesteld op de aanmaakdatum van de gebeurtenis. Aangezien bij geplande registraties rekening wordt gehouden met de hoeveelheid tijd die voor de begindatum van een gebeurtenis valt, is het mogelijk dat deze getallen niet accuraat zijn als de begindatum en de aanmaakdatum gelijk zijn (tenzij dit opzettelijk is ingesteld).
 
 ## Goederenregistratie en verwachte registratie
 
