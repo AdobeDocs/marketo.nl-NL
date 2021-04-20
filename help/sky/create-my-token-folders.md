@@ -1,14 +1,14 @@
 ---
 title: create-my-token-folders
 description: Mijn token-mappen maken
+exl-id: 52e18c74-613a-4964-9005-2375e249cdbb
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # Mijn token-mappen maken
 
@@ -20,7 +20,7 @@ Zo kunt u Mijn tokens sorteren in mappen.
 
    ![Afbeelding één](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-1.png)
 
-1. Voer een naam voor de nieuwe map in en selecteer **[!UICONTROL Local Tokens]** of **[!UICONTROL Overridden Tokens]** in de vervolgkeuzelijst met bestemming. Klik op **[!UICONTROL Save]**.
+1. Voer een naam voor de nieuwe map in en selecteer **[!UICONTROL Local Tokens]** of **[!UICONTROL Overridden Tokens]** in de vervolgkeuzelijst met bestemming. Klikken **[!UICONTROL Save]**.
 
    ![Afbeelding twee](/help/sky/assets/my-tokens/create-my-token-folders/create-my-token-folders-2.png)
 
