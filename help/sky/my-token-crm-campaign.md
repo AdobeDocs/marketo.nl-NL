@@ -1,14 +1,14 @@
 ---
 title: my-token-crm-campagne
 description: Mijn token CRM-campagne
+exl-id: 1763700c-3de0-41bf-8fef-906b4ba82414
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Mijn token: CRM-campagne
 
@@ -24,7 +24,7 @@ Hier is hoe te opstelling een teken van de Campagne van CRM voor gebruik in uw p
 
    ![Afbeelding één](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-1.png)
 
-2. Ga een naam voor uw nieuw teken in, dan selecteer een campagne van CRM van drop-down. Klik op **[!UICONTROL Save]**.
+2. Ga een naam voor uw nieuw teken in, dan selecteer een campagne van CRM van drop-down. Klikken **[!UICONTROL Save]**.
 
    ![Afbeelding twee](/help/sky/assets/my-tokens/my-token-crm-campaign/my-token-crm-campaign-2.png)
 
