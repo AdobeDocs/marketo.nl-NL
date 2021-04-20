@@ -29,7 +29,7 @@ ht-degree: 0%
    + [Een campagnemap maken](create-a-campaign-folder.md)
 + Design Studio {#design-studio}
    + [Middelen importeren met Adobe Experience Manager](importing-assets-with-adobe-experience-manager.md)
-   + [Markeren naar afbeeldingseditor](marketo-image-editor.md)
+   + [Marketo Image Editor](marketo-image-editor.md)
 + Betrokkenheidsprogramma&#39;s {#engagement-programs}
    + [Stream-inhoud activeren en deactiveren](activate-and-deactivate-stream-content.md)
    + [Een stream toevoegen aan een betrokkenheidsprogramma](add-a-stream-to-an-engagement-program.md)
