@@ -1,14 +1,14 @@
 ---
 title: het gebruiken van-programma-opstelling-lusje
 description: Het tabblad Program Setup gebruiken
+exl-id: fe3c092f-aeb1-4450-9827-b4b8f6163196
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 0%
 
 ---
-
 
 # Het tabblad Program Setup gebruiken
 
@@ -34,7 +34,7 @@ Als u het programmakanaal wilt wijzigen, selecteert u een ander kanaal in de ver
 
    ![Afbeelding drie](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-3.png)
 
-1. Klik op de vervolgkeuzelijst **[!UICONTROL Value]** en kies een tagwaarde in de beschikbare opties. Klik op **[!UICONTROL Add]**.
+1. Klik op de vervolgkeuzelijst **[!UICONTROL Value]** en kies een tagwaarde in de beschikbare opties. Klikken **[!UICONTROL Add]**.
 
    ![Afbeelding vier](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-4.png)
 
@@ -48,7 +48,7 @@ Als u het programmakanaal wilt wijzigen, selecteert u een ander kanaal in de ver
 
 ## Kosten voor periode toevoegen
 
-1. Selecteer onder de sectie [!UICONTROL Period Costs] een maand, voer een kostprijs in en voeg een korte naam of beschrijving toe. Klik op **[!UICONTROL Add]**.
+1. Selecteer onder de sectie [!UICONTROL Period Costs] een maand, voer een kostprijs in en voeg een korte naam of beschrijving toe. Klikken **[!UICONTROL Add]**.
 
    ![Afbeelding zes](/help/sky/assets/programs/using-the-program-setup-tab/using-the-program-setup-tab-6.png)
 
