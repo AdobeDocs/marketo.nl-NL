@@ -1,14 +1,14 @@
 ---
 title: een slimme campagne
 description: Een slimme campagne verplaatsen
+exl-id: e06f188d-1b65-4167-868f-d33fbffb6b74
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Een slimme campagne verplaatsen
 
@@ -28,6 +28,6 @@ Verplaats een slimme campagne naar een ander programma of een andere map.
 
    ![Afbeelding drie](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-3.png)
 
-1. Klik op **[!UICONTROL Move]**.
+1. Klikken **[!UICONTROL Move]**.
 
    ![Afbeelding vier](/help/sky/assets/smart-campaigns/move-a-smart-campaign/move-a-smart-campaign-4.png)
