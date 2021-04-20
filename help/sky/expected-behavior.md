@@ -1,14 +1,14 @@
 ---
 title: verwacht gedrag
 description: Verwacht gedrag
+exl-id: 8f6d12e4-851c-43d8-a5cf-053887517aaa
 translation-type: tm+mt
-source-git-commit: 642fd57105afff1031f18883c5809206f136b7c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # Verwacht gedrag
 
@@ -23,7 +23,7 @@ In dit artikel vindt u informatie over het verwachte gedrag dat is gekoppeld aan
 
 ## Voor voorspellende doelgroepen kunt u het volgende gedrag verwachten:
 
-* PA is toegankelijk in zowel Marketo Sky als de Klassieke ervaring van Marketo. De beschikbaarheid van specifieke functies is als volgt:
+* PA is zowel in Marketo Sky als in Marketo Classic toegankelijk. De beschikbaarheid van specifieke functies is als volgt:
    * Predictieve filters - [!DNL Sky/Classic]
    * Geprojecteerde registraties - [!DNL Sky/Classic]
    * Prognoses waarschijnlijkheid op regelniveau - [!DNL Sky/Classic]
