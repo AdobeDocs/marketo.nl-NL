@@ -1,14 +1,14 @@
 ---
 title: archive-a-program
 description: Een programma archiveren
+exl-id: 35e456d1-4a0a-4526-828f-bad434c5137c
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
 
 ---
-
 
 # Een programma archiveren
 
@@ -18,7 +18,7 @@ Als u een programma wilt archiveren, moet u het naar een aparte archiefmap verpl
 
    ![Afbeelding één](/help/sky/assets/programs/archive-a-program/archive-a-program-1.png)
 
-1. Voer een naam in voor de nieuwe map en voeg vervolgens een optionele beschrijving toe. Klik op **[!UICONTROL Create]**.
+1. Voer een naam in voor de nieuwe map en voeg vervolgens een optionele beschrijving toe. Klikken **[!UICONTROL Create]**.
 
    ![Afbeelding twee](/help/sky/assets/programs/archive-a-program/archive-a-program-2.png)
 
@@ -26,7 +26,7 @@ Als u een programma wilt archiveren, moet u het naar een aparte archiefmap verpl
 
    ![Afbeelding drie](/help/sky/assets/programs/archive-a-program/archive-a-program-3.png)
 
-1. Typ om naar de nieuwe map te zoeken en selecteer deze in de vervolgkeuzelijst. Klik op **[!UICONTROL Move]**.
+1. Typ om naar de nieuwe map te zoeken en selecteer deze in de vervolgkeuzelijst. Klikken **[!UICONTROL Move]**.
 
    ![Afbeelding vier](/help/sky/assets/programs/archive-a-program/archive-a-program-4.png)
 
