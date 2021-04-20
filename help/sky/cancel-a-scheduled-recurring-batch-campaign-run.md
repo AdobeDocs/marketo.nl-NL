@@ -1,14 +1,14 @@
 ---
 title: cancel-a-scheduled-repeat-batch-campagne-run
 description: Een geplande batchcampagne annuleren
+exl-id: 64f1aba4-1a37-45b6-a4e8-b1d57365cdb7
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Een geplande batchcampagne annuleren
 
@@ -22,7 +22,7 @@ Als u een terugkerende partijcampagne hebt die u niet meer wilt, kunt u de toeko
 
    ![Afbeelding één](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Klik op **[!UICONTROL Edit Recurrence]**.
+1. Klikken **[!UICONTROL Edit Recurrence]**.
 
    ![Afbeelding twee](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
@@ -40,7 +40,7 @@ Als u een terugkerende partijcampagne hebt die u niet meer wilt, kunt u de toeko
 
    ![Afbeelding vier](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
-1. Klik op **[!UICONTROL Scheduled Runs]**.
+1. Klikken **[!UICONTROL Scheduled Runs]**.
 
    ![Afbeelding vijf](/help/sky/assets/smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run/cancel-a-scheduled-recurring-batch-campaign-run-5.png)
 
