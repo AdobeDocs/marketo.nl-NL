@@ -2,18 +2,18 @@
 unique-page-id: 37355826
 description: Opmerkingen bij de release - Feb '20 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - feb '20
+exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Feb &#39;20 {#release-notes-feb}
 
-De volgende functies zijn opgenomen in de release van 20 februari. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van 20 februari. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -52,7 +52,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Aankondigingen {#announcements}
 
-* **Marketo Engage Succescentrum**: We lanceren het Marketo Success Center in februari 2020. Het Succescentrum is een centrum van de hulp binnen-product dat u toelaat om de Docs van het Product en de Gemeenschap te zoeken, te lanceren hoe te gidsen, toegang tot adoptie inhoud zoals Marketo Universiteit en peer beste praktijkvideo&#39;s, en meer - van uw instantie van de Marketo Engage. **Opmerking**: Deze functie wordt gestart als een bètaversie in ANZ en wordt later in het kwartaal uitgezonden naar Noord-Amerika.
+* **Marketo Engage Succescentrum**: We lanceren het Marketo Success Center in februari 2020. Het Succescentrum is een binnen-product hulpcentrum dat u toelaat om ProductDocs en de Gemeenschap te zoeken, hoe te gidsen lanceren, toegang tot adoptie inhoud zoals de Universiteit van Marketo en peer beste praktijkvideo&#39;s, en meer - van uw Marketo Engage instantie. **Opmerking**: Deze functie wordt gestart als een bètaversie in ANZ en wordt later in het kwartaal uitgezonden naar Noord-Amerika.
 
 ## Afwijkingen {#deprecations}
 
