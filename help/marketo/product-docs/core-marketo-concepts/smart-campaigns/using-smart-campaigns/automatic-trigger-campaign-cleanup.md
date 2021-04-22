@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147074
-description: Automatische opruiming van campagnes voor activering - Marketo Docs - Productdocumentatie
+description: Automatisch opruimen van campagne starten - Marketo Docs - Productdocumentatie
 title: Opruimen van campagne voor automatische activering
+exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 0%
 
 ---
 
-
 # Opruimen van campagne voor automatische activering {#automatic-trigger-campaign-cleanup}
 
-Marketo heeft een leuke/gratis service om getriggerde slimme campagnes die geen activiteit meer krijgen, te deactiveren. Dit versnelt de algemene systeemprestaties en bespaart u tijd.
+Marketo heeft een leuke/gratis service voor het deactiveren van getriggerde slimme campagnes die geen activiteit meer krijgen. Dit versnelt de algemene systeemprestaties en bespaart u tijd.
 
 ## Wat gebeurt er? {#what-happens}
 
-Eenmaal per kwartaal vindt Marketo slimme campagnes die al zes maanden lang (geen mensen) stilzitten en ze deactiveren.
+Eenmaal per kwartaal zal Marketo slimme campagnes vinden die al zes maanden lang (geen mensen) slapend zijn en ze deactiveren.
 
 ## Stuur je me eerst een melding? {#will-you-notify-me-first}
 
