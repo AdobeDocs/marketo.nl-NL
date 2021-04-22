@@ -2,14 +2,14 @@
 unique-page-id: 5472404
 description: Zoek het activiteitenlog voor een persoon - Marketo Docs - Productdocumentatie
 title: Zoek het activiteitenlog voor een persoon
+exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Zoek het activiteitenlog voor een persoon {#locate-the-activity-log-for-a-person}
 
