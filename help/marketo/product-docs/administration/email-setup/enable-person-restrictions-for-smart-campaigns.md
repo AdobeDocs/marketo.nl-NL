@@ -2,18 +2,18 @@
 unique-page-id: 2360243
 description: Personenbeperkingen voor slimme campagnes inschakelen - Marketo Docs - Productdocumentatie
 title: Personenbeperkingen voor slimme campagnes inschakelen
+exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-
 # Personenbeperkingen inschakelen voor slimme campagnes {#enable-person-restrictions-for-smart-campaigns}
 
-Er is een eigenschap in Marketo om het _maximum_ aantal mensen te beperken die voor een slimme campagne kunnen kwalificeren. Zo voorkomt u dat per ongeluk uw gehele database wordt gemaild.
+Er is een functie in Marketo om het _maximum_ aantal mensen te beperken dat voor een slimme campagne in aanmerking kan komen. Zo voorkomt u dat per ongeluk uw gehele database wordt gemaild.
 
 >[!NOTE]
 >
