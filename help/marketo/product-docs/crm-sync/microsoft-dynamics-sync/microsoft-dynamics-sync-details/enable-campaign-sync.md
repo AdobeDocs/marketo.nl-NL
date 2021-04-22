@@ -1,14 +1,14 @@
 ---
 description: Campagne synchroniseren inschakelen - Marketo Docs - Productdocumentatie
 title: Campagne synchroniseren inschakelen
+exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
-
 
 # Campagnesynchronisatie inschakelen {#enable-campaign-sync}
 
@@ -16,13 +16,13 @@ Met deze optie kan Marketo leden toevoegen aan en verwijderen uit de campagne vo
 
 >[!PREREQUISITES]
 >
->Update aan de recentste versie van het elektrische toestel van de Dynamiek voor Marketo.
+>Update naar de nieuwste versie van de insteekmodule Dynamics voor Marketo.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. In uw Mijn Marketo, klik **Admin**.
+1. Klik in Mijn Marketo op **Admin**.
 
    ![](assets/enable-campaign-sync-1.png)
 
