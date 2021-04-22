@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512272
-description: Voeg WebEx als Dienst van LaunchPoint toe - Marketo Docs - de Documentatie van het Product
+description: WebEx toevoegen als een LaunchPoint-service - Marketo Docs - Productdocumentatie
 title: WebEx toevoegen als een LaunchPoint-service
+exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # WebEx toevoegen als een LaunchPoint-service {#add-webex-as-a-launchpoint-service}
 
