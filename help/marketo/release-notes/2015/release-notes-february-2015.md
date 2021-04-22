@@ -2,18 +2,18 @@
 unique-page-id: 6094890
 description: Opmerkingen bij de release - februari 2015 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - februari 2015
+exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: februari 2015 {#release-notes-february}
 
-De volgende functies zijn opgenomen in de release van februari 2015. Controleer uw Marketo Edition voor de beschikbaarheid van functies. Na de release wilt u koppelingen naar gedetailleerde artikelen voor elke functie zoeken. Trommelrol...
+De volgende functies zijn opgenomen in de release van februari 2015. Controleer of de Marketo Edition beschikbaar is. Na de release wilt u koppelingen naar gedetailleerde artikelen voor elke functie zoeken. Trommelrol...
 
 ## Verbeteringen voor marketingautomatisering {#marketing-automation-enhancements}
 
@@ -25,7 +25,7 @@ Veel plezier! Nu kunt u slimme campagnes in en uit programma&#39;s bewegen gebru
 
 **Wijzigingen in HTTPS-certificaat**
 
-Om vertrouwelijkheid en integriteit van klantengegevens en de diensten van SaaS te beschermen, volgt Marketo de industrie van SaaS beste praktijken
+Om de vertrouwelijkheid en integriteit van klantgegevens en SaaS-services te beschermen, volgt Marketo best practices uit de SaaS-branche
 
 en vervangt momenteel gebruikte beveiligingsprotocollen (SHA-1 en SSL) door veiligere versies (SHA-2 (ook bekend als (SHA-256) en TLS) voor de volgende domeinen:
 
