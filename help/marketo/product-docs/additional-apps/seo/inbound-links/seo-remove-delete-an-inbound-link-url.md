@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949253
-description: SEO - verwijder/schrap een Binnenkomende Verbinding URL - Marketo Docs - de Documentatie van het Product
+description: SEO - Een binnenkomende URL van een koppeling verwijderen/verwijderen - Marketo Docs - Productdocumentatie
 title: SEO - verwijder/verwijder een Binnenkomende Verbinding URL
+exl-id: 102a483f-0bbd-4bac-8e63-278024d32cbf
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
-
 
 # SEO - verwijder/schrap een Binnenkomende Verbinding URL {#seo-remove-delete-an-inbound-link-url}
 
