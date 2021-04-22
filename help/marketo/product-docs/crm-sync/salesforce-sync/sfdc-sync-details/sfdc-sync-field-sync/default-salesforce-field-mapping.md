@@ -1,26 +1,26 @@
 ---
 unique-page-id: 4719314
-description: Standaard Salesforce-veldtoewijzing - Marketo Docs - Productdocumentatie
+description: Standaard Salesforce-veldtoewijzing - Marketo-documenten - productdocumentatie
 title: Standaardtoewijzing Salesforce-veld
+exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 translation-type: tm+mt
-source-git-commit: 1a29614ec938074902af201b2ffc11cfaa625f7a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '362'
-ht-degree: 0%
+ht-degree: 33%
 
 ---
 
-
 # Standaard Salesforce-veldtoewijzing {#default-salesforce-field-mapping}
 
-Wanneer u uw Marketo-account eerst synchroniseert met Salesforce, maakt Marketo automatisch deze koppelingen tussen uw ingebouwde Salesforce- en Marketo-velden. Marketo synchroniseert ook uw aangepaste velden op uw leads, accounts, opportunity en contactpersonen.
+Als u uw Marketo-account voor het eerst synchroniseert met Salesforce, maakt Marketo automatisch de koppelingen tussen uw ingebouwde Salesforce- en Marketo-velden. Marketo synchroniseert ook uw aangepaste velden op uw leads, accounts, opportunity en contactpersonen.
 
 ## Regelvelden {#lead-fields}
 
-| SFDC-veld | Markeringsveld |
+| SFDC-veld | Marketo-veld |
 |---|---|
-| Jaarlijkse inkomsten | Jaarlijkse inkomsten |
-| Plaats | Plaats |
+| Jaaromzet | Jaaromzet |
+| Stad | Stad |
 | Bedrijf | Bedrijfsnaam |
 | Omgezette datum | Omgezette SFDC-datum |
 | Land | Land |
@@ -29,68 +29,68 @@ Wanneer u uw Marketo-account eerst synchroniseert met Salesforce, maakt Marketo 
 | E-mail | E-mailadres |
 | Fax | Faxnummer |
 | Voornaam | Voornaam |
-| E-mail uitschakelen | Abonnement opgezegd |
-| Industrie | Industrie |
+| E-mail uitschakelen | Niet geabonneerd |
+| Marktsegment | Marktsegment |
 | Omgezet | SFDC is geconverteerd |
 | Verwijderd | SFDC wordt verwijderd |
 | Achternaam | Achternaam |
-| Bron lood | Bron |
-| Loodscore | Score |
-| Mobiele telefoon | Mobiel telefoonnummer |
+| Leadbron | Bron |
+| Leadscore | Score |
+| Mobiele telefoon | Mobiel |
 | Werknemers | Aantal werknemers |
-| Telefoon | Telefoonnummer |
+| Telefoonnummer | Telefoonnummer |
 | Postcode | Postcode |
 | Classificatie | Classificatie |
 | Aanhef | Aanhef |
 | Staat/provincie | Staat |
 | Status | Status |
 | Straat | Adres |
-| Titel | Functie |
+| Titel | Beroep |
 | Website | Website |
 
 ## Contactvelden {#contact-fields}
 
-| SFDC-veld | Markeringsveld |
+| SFDC-veld | Marketo-veld |
 |---|---|
-| Geboortedatum | Geboortedatum |
+| Verjaardag | Geboortedatum |
 | Aanmaakdatum | Aanmaakdatum SFDC |
 | Beschrijving contactpersoon | Personen |
 | E-mail | E-mailadres |
 | Zakelijke fax | Faxnummer |
 | Voornaam | Voornaam |
-| E-mail uitschakelen | Abonnement opgezegd |
+| E-mail uitschakelen | Niet geabonneerd |
 | Verwijderd | SFDC wordt verwijderd |
 | Achternaam | Achternaam |
-| Bron lood | Bron |
-| Loodscore | Score |
-| MailingCity | Plaats |
+| Leadbron | Bron |
+| Leadscore | Score |
+| MailingCity | Stad |
 | MailingLand | Land |
 | Postcode | Postcode |
 | MailingState | Staat |
 | MailingStreet | Adres |
-| Mobiele telefoon | Mobiel telefoonnummer |
+| Mobiele telefoon | Mobiel |
 | Zakelijke telefoon | Telefoonnummer |
 | Aanhef | Aanhef |
-| Titel | Functie |
+| Titel | Beroep |
 
 ## Accountvelden {#account-fields}
 
-| SFDC-veld | Markeringsveld |
+| SFDC-veld | Marketo-veld |
 |---|---|
-| Jaarlijkse inkomsten | Jaarlijkse inkomsten |
-| Factureringsplaats | Factureringsplaats |
-| Factureringsland | Factureringsland |
-| Postcode facturering | Postcode facturering |
-| Factureringsstaat/provincie | Factureringsstatus |
+| Jaaromzet | Jaaromzet |
+| Factuurstad | Factuurstad |
+| Factuurland | Factuurland |
+| Postcode facturering | Factuurpostcode |
+| Factureringsstaat/provincie | Factuurstaat |
 | Factureringsstraat | Factuuradres |
 | Accountbeschrijving | Bedrijfsnotities |
-| Industrie | Industrie |
+| Marktsegment | Marktsegment |
 | Verwijderd | SFDC wordt verwijderd |
 | Accountnaam | Bedrijfsnaam |
 | Werknemers | Aantal werknemers |
-| Account-telefoon | Hoofdtelefoon |
+| Account-telefoon | Telefoon |
 | SIC-code | SIC-code |
-| Accountsite | Site |
+| Accountsite | Vestiging |
 | Accounttype | SFDC-type |
 | Website | Website |
 
@@ -101,6 +101,6 @@ Deze velden worden gemaakt in Marketo, maar kunnen niet worden aangepast door kl
 | Veld | Beschrijving |
 |---|---|
 | SFDC-id | Salesforce-id van 18 tekens |
-| SFDC-type | Lood of contactpersoon. Indien leeg, bestaat de lead alleen als een persoon in Marketo |
-| Aanmaakdatum SFDC | Datum gemaakt in SFDC (kan verschillen van Gemaakt in Marketo) |
+| SFDC-type | Lood of contactpersoon. Als de lead leeg is, bestaat deze alleen als een persoon in Marketo |
+| Aanmaakdatum SFDC | Datum gemaakt in SFDC (kan anders zijn dan Gemaakt in Marketo) |
 | SFDC is verwijderd | Persoon was in SFDC maar werd verwijderd en woont nu alleen in Marketo |
