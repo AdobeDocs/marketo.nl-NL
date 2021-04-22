@@ -2,14 +2,14 @@
 unique-page-id: 2360305
 description: Een aangepast tabblad maken voor de persoonlijke detailpagina - Marketo Docs - Productdocumentatie
 title: Een aangepast tabblad maken voor de detailpagina voor personen
+exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # Een aangepast tabblad maken voor de pagina Personen {#creating-a-custom-tab-for-the-person-detail-page}
 
