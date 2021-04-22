@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571797
-description: Stap 2 van 3 - creeer een Gebruiker Salesforce voor Marketo (Beroeps) - Marketo Docs - de Documentatie van het Product
-title: Stap 2 van 3 - creeer een Gebruiker Salesforce voor Marketo (Beroeps)
+description: Stap 2 van 3 - een Salesforce-gebruiker voor Marketo maken (Professional) - Marketo Docs - Productdocumentatie
+title: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Professional)
+exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '423'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
-# Stap 2 van 3: Een Salesforce-gebruiker maken voor markeren (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
+# Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >[Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 
-In dit artikel past u de veldmachtigingen aan met een Salesforce Page Layout en maakt u een synchronisatiegebruiker Marketo-Salesforce.
+In dit artikel past u veldmachtigingen aan met een Salesforce Page Layout en maakt u een Marketo-Salesforce synchronisatiegebruiker.
 
 ## Paginalay-outs {#set-page-layouts} instellen
 
-Salesforce Professional stelt toegankelijkheid op veldniveau in met paginalay-outs, in tegenstelling tot de profielen van Salesforce Enterprise/Unlimited. Als u deze stappen uitvoert, kan de Marketo de gebruiker synchroniseren om de aangepaste velden bij te werken.
+Salesforce Professional stelt toegankelijkheid op veldniveau in met paginalay-outs, in tegenstelling tot de profielen van Salesforce Enterprise/Unlimited. Als u deze stappen uitvoert, kan de Marketo-synchronisatiegebruiker de aangepaste velden bijwerken.
 
 1. Typ **paginalay-outs** in de zoekbalk Nav zonder op **Enter** te drukken en klik **Paginalay-out** onder **Leads**.
 
@@ -43,7 +43,7 @@ Salesforce Professional stelt toegankelijkheid op veldniveau in met paginalay-ou
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Klik en sleep het gebied **Verwervingsdatum** in **Marketo** sectie.
+1. Klik en sleep het veld **Opnamedatum** naar de sectie **Marketo**.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -53,13 +53,13 @@ Salesforce Professional stelt toegankelijkheid op veldniveau in met paginalay-ou
    * Id van overnameprogramma
    * E-mail uitschakelen
    * Overgenomen stad
-   * Overgenomen onderneming
-   * Overgenomen land
+   * Afgeleid bedrijf
+   * Afgeleid land
    * Overgenomen metropolitaans gebied
    * Gebiedscode afgeleide telefoon
    * Postcode
    * Gebied van de betrokken staat
-   * Loodscore
+   * Leadscore
    * Oorspronkelijke verwijzing
    * Originele zoekengine
    * Oorspronkelijke zoekterm
@@ -92,7 +92,7 @@ Salesforce Professional stelt toegankelijkheid op veldniveau in met paginalay-ou
 
 ## Synchronisatiegebruiker {#create-sync-user} maken
 
-Marketo heeft referenties nodig om toegang te krijgen tot Salesforce. Dit kunt u het beste doen met een toegewijde gebruiker die is gemaakt met de onderstaande stappen.
+Marketo heeft aanmeldingsgegevens nodig om toegang te krijgen tot Salesforce. Dit kunt u het beste doen met een toegewijde gebruiker die is gemaakt met de onderstaande stappen.
 
 >[!NOTE]
 >
