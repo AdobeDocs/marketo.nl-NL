@@ -2,18 +2,18 @@
 unique-page-id: 2951044
 description: Opmerkingen bij de release - mei 2014 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2014
+exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Mei 2014 {#release-notes-may}
 
-De volgende functies zijn opgenomen in de release van mei 2014. Controleer uw Marketo Edition voor de beschikbaarheid van functies. Na de release wilt u koppelingen naar gedetailleerde artikelen in de Knowledge Base zoeken voor elke functie.
+De volgende functies zijn opgenomen in de release van mei 2014. Controleer of de Marketo Edition beschikbaar is. Na de release wilt u koppelingen naar gedetailleerde artikelen in de Knowledge Base zoeken voor elke functie.
 
 ## Werkruimte {#delete-workspace} verwijderen
 
@@ -33,7 +33,7 @@ Nu krijgt iedereen meerdere programma&#39;s, streams en communicatielimieten.
 
 ## Koppeling bijhouden in tekste-mails {#link-tracking-in-text-emails}
 
-[Dubbele vierkante ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) haakjes toevoegen rondom URL&#39;s in de tekstversie van uw e-mails om aan te geven wanneer koppelingen moeten worden omgezet in doorgestuurde Marketo-trackingkoppelingen
+[Dubbele vierkante ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) haakjes toevoegen rondom URL&#39;s in de tekstversie van uw e-mails om aan te geven wanneer koppelingen moeten worden geconverteerd naar doorgestuurde Marketo-volgkoppelingen
 
 >[!NOTE]
 >
