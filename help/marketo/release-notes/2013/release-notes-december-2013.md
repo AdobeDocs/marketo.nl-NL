@@ -2,14 +2,14 @@
 unique-page-id: 2951052
 description: Opmerkingen bij de release -December 2013 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -december 2013
+exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
 
 ---
-
 
 # Opmerkingen bij de release: December 2013 {#release-notes-december}
 
@@ -45,4 +45,4 @@ Wij introduceerden extra lood en bedrijfattributen in E-mailanalyse. U kunt nu u
 
 ## Verbeterde BrightStor Event Adapter {#enhanced-brighttalk-event-adapter}
 
-Nu kunt u geregistreerde personen vanuit uw BrightStor-kanaal en -gebeurtenis naar Marketo trekken. U kunt deze informatie gebruiken om andere marketingcampagnes te informeren!
+Nu kunt u geregistreerde personen vanuit uw BrightStor-kanaal en -gebeurtenis naar Marketo halen. U kunt deze informatie gebruiken om andere marketingcampagnes te informeren!
