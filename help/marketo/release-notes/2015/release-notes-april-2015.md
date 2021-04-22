@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7511815
-description: Opmerkingen bij de release -April 2015 - Marketo Docs - Productdocumentatie
+description: Opmerkingen bij de release - april 2015 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -april 2015
+exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: April 2015 {#release-notes-april}
 
-De volgende functies zijn opgenomen in de release van april 2015. Controleer uw Marketo Edition voor de beschikbaarheid van functies. Na de release wilt u koppelingen naar gedetailleerde artikelen voor elke functie zoeken.
+De volgende functies zijn opgenomen in de release van april 2015. Controleer of de Marketo Edition beschikbaar is. Na de release wilt u koppelingen naar gedetailleerde artikelen voor elke functie zoeken.
 
 ## Analyse Home Redesign
 
@@ -33,21 +33,21 @@ Bovendien is de privé versus gedeelde rapportorganisatie nu beschikbaar. Maak o
 
 **Marketo Mobile Engagement**
 
-Met Marketo Mobile Engagement is het gemakkelijk om aantrekkelijke mobiele ervaringen te bieden. Maak zeer persoonlijke campagnes die aansprekende inhoud leveren zonder ooit te hoeven vertrouwen op een ontwikkelingsteam voor apps. Met nieuwe filters en triggers kunt u luisteren naar en reageren op het mobiele kanaal via pushberichten.
+Met Marketo Mobile Engagement is het gemakkelijk om aantrekkelijke mobiele belevenissen te bieden. Maak zeer persoonlijke campagnes die aansprekende inhoud leveren zonder ooit te hoeven vertrouwen op een ontwikkelingsteam voor apps. Met nieuwe filters en triggers kunt u luisteren naar en reageren op het mobiele kanaal via pushberichten.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
-## Integratie van LinkedIn Lead Accelerator
+## Integratie van linkedIn Lead Accelerator
 
-[Integratie van LinkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+[Integratie van linkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Breid uw beleid voor het koesteren van leads uit naar betaalde schermen en sociale advertenties. Met de [netwerkintegratie toevoegen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) met LinkedIn Lead Accelerator kunt u veilig een publiekssegment binnen LinkedIn maken op basis van de leden van een slimme of statische lijst. Leden in een LinkedIn-publiekssegment kunnen vervolgens worden opgeleid met een reeks relevante advertenties.
+Breid uw beleid voor het koesteren van leads uit naar betaalde schermen en sociale advertenties. Met de [netwerkintegratie toevoegen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) met LinkedIn Lead Accelerator kunt u veilig een publiekssegment maken in LinkedIn op basis van de leden van een slimme of statische lijst. Leden in een LinkedIn-publiekssegment kunnen dan worden opgeleid met een reeks relevante advertenties.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
 ## Marketo Sales Insight voor Salesforce1 {#marketo-sales-insight-for-salesforce}
 
-Uw favoriete functies in het venster Verkoopoverzicht - voer voor leads, beste weddenschappen, interessante momenten en toevoeging aan de Marketo-campagne - allemaal beschikbaar in de Salesforce1-app.
+Uw favoriete functies in het venster Verkoopoverzicht - hoofdfeed, beste weddenschappen, interessante momenten en toevoeging aan de Marketo-campagne - allemaal beschikbaar in de Salesforce1-app.
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
