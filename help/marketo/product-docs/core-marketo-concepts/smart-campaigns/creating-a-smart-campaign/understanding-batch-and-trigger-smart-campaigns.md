@@ -2,14 +2,14 @@
 unique-page-id: 2953132
 description: Slimme campagnes in batch en trigger - Marketo Docs - Productdocumentatie
 title: Slimme campagnes in batch en trigger
+exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
-
 
 # Slimme campagnes voor batchverwerking en triggers {#understanding-batch-and-trigger-smart-campaigns}
 
