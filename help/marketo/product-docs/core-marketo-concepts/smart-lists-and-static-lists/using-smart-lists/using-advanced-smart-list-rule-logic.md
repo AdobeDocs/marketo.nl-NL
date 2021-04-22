@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146901
-description: Geavanceerde logica voor slimme-lijstregels gebruiken - Marketo Docs - Productdocumentatie
+description: Advanced Smart List Rule Logic - Marketo Docs - Productdocumentatie gebruiken
 title: Advanced Smart List Rule Logic gebruiken
+exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
-
 
 # Advanced Smart List Rule Logic {#using-advanced-smart-list-rule-logic} gebruiken
 
