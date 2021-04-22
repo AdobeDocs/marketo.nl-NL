@@ -1,24 +1,24 @@
 ---
 unique-page-id: 3571830
-description: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (Online) - Marketo Docs - de Documentatie van het Product
-title: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (Online)
+description: Stap 3 van 3 - Connect Microsoft Dynamics met Marketo (Online) - Marketo Docs - Productdocumentatie
+title: Stap 3 van 3 - Connect Microsoft Dynamics met Marketo (Online)
+exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
 
 ---
 
-
-# Stap 3 van 3: Microsoft Dynamics verbinden met Marketo (online) {#step-of-connect-microsoft-dynamics-with-marketo-online}
+# Stap 3 van 3: Microsoft Dynamics verbinden met Marketo (Online) {#step-of-connect-microsoft-dynamics-with-marketo-online}
 
 Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
 >[!PREREQUISITES]
 >
 >* [Stap 1 van 3: De Marketo-oplossing installeren (online)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
->* [Stap 2 van 3: Marketo synchroniseren van gebruiker in dynamiek instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+>* [Stap 2 van 3: Marketo Sync User instellen in Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -45,7 +45,7 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
    >[!CAUTION]
    >
-   >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw abonnement op Marketo aanvragen.
+   >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw Marketo-abonnement aanvragen.
 
 1. Voer **Gebruikersnaam**, **Wachtwoord** en de Dynamica van Microsoft **URL** in. Klik **Opslaan** wanneer gereed.
 
@@ -53,7 +53,7 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
    >[!NOTE]
    >
-   >* Als uw Marketo vóór Oktober 2020 was provisioned, zijn identiteitskaart van de Cliënt en Geheim facultatieve gebieden. Anders zijn ze verplicht. Het verkrijgen van deze informatie zal afhangen van welke versie van MSD u gebruikt.
+   >* Als uw Marketo vóór oktober 2020 is ingericht, zijn Client ID en Secret optionele velden. Anders zijn ze verplicht. Het verkrijgen van deze informatie zal afhangen van welke versie van MSD u gebruikt.
    >* De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan `user@domain.com` of DOMAIN\user zijn.
    >* Als u URL niet kent, [leer hoe te om het hier te vinden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
@@ -96,7 +96,7 @@ Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe ve
 
    >[!CAUTION]
    >
-   >Marketo wordt niet automatisch gededupliceerd bij een synchronisatie met Microsoft Dynamics, of wanneer u handmatig personen of leads invoert.
+   >Marketo wordt niet automatisch gededupliceerd bij een Microsoft Dynamics-synchronisatie of wanneer u handmatig personen of leads invoert.
 
 1. Lees alles in pop-up, ga uw e-mailadres in, en klik **Begin Synchronisatie**.
 
