@@ -1,15 +1,15 @@
 ---
 unique-page-id: 5472615
-description: Begrijpend Systeem Beheerde Gebieden - Marketo Docs - de Documentatie van het Product
+description: Werken met systeembeheerde velden - Marketo Docs - Productdocumentatie
 title: Werken met door het systeem beheerde velden
+exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '522'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Werken met systeembeheerde velden {#understanding-system-managed-fields}
 
@@ -26,14 +26,14 @@ U zou kunnen opgemerkt hebben dat [persoondetailpagina](/help/marketo/product-do
 | Oorspronkelijke verwijzing | URL die de oorspronkelijke invoerbron heeft gehost |
 | Brontype van registratie | De locatie waar een activiteit voor het eerst een persoon werd (voorbeeld: Importeren van lijst, webpaginabezoek) |
 | Informatie over registratiefron | Specificaties over die locatie (voorbeeld: Naam van de lijst, URL van de webpagina) |
-| Anonieme IP | Geeft het IP-adres van een persoon aan |
-| Overgenomen onderneming | De beste raad van de markt (gebaseerd op IP) van het bedrijf van de persoon |
-| Overgenomen stad | Marketo&#39;s beste schatting (gebaseerd op IP) van de stad van de persoon |
-| Gebied van de betrokken staat | De beste raad van de markt (gebaseerd op IP) van de staat of de regio van de persoon |
-| Postcode | De beste schatting van de markt (gebaseerd op IP) van de postcode van de persoon |
-| Overgenomen land | Marketo&#39;s beste schatting (gebaseerd op IP) van het land van de persoon |
-| Overgenomen metropolitaans gebied | Marketo&#39;s beste schatting (gebaseerd op IP) van het metropolitane gebied van de persoon |
-| Gebiedscode afgeleide telefoon | De beste raad van de markt (gebaseerd op IP) van het het gebiedscode van de persoon |
+| Anoniem IP-adres | Geeft het IP-adres van een persoon aan |
+| Afgeleid bedrijf | Marketo raadt het bedrijf van de persoon het beste raden (op basis van IP) |
+| Overgenomen stad | De beste schatting van de stad van de persoon (op basis van IP) door Marketo |
+| Gebied van de betrokken staat | Marketo kan het beste raden (op basis van IP) van de staat of regio van de persoon |
+| Postcode | Marketo geeft de beste schatting (op basis van IP) van de postcode van de persoon |
+| Afgeleid land | Marketo geeft de beste schatting (gebaseerd op IP) van het land van de persoon |
+| Overgenomen metropolitaans gebied | Marketo geeft de beste schatting (gebaseerd op IP) van het metropolitane gebied van de persoon |
+| Gebiedscode afgeleide telefoon | Marketo kan het beste raden (op basis van IP) van de gebiedscode van de persoon |
 
 ## Mogelijke waarden voor het brontype Origineel en Registratie {#possible-values-for-original-and-registration-source-type}
 
@@ -50,7 +50,7 @@ Hieronder staan enkele mogelijke waarden en wat ze betekenen.
 | Verkoope-mail | De persoon is per e-mail verzonden via de e-mailinvoegtoepassing voor het verkoopinzicht |
 | Persoon | Persoon is als persoon gesynchroniseerd van Salesforce |
 | Contact | De persoon is als contactpersoon via Salesforce gesynchroniseerd |
-| Munchkin-API | Persoon is ontdekt door de Munchkin-API van Marketo |
+| Munchkin-API | Persoon is aangetroffen door Marketo Munchkin API |
 | Sociale app | Persoon is ontdekt door een sociale widget |
 | Webservice-API | Persoon is aangetroffen door een webservice-API |
 | Gebeurtenispartner | Persoon is ontdekt via een gesynchroniseerde webinarservice |
@@ -64,6 +64,6 @@ Hieronder staan enkele mogelijke waarden en wat ze betekenen.
 | Verkoope-mail | De persoon is per e-mail verzonden via de e-mailinvoegtoepassing voor het verkoopinzicht |
 | Webservice-API | De persoon is gemaakt via de API SOAP/REST |
 | Nieuwe persoon | De persoon is handmatig in de database ingevoerd |
-| Munchkin-API | Iemand worden via de Munchkin-API van Marketo |
+| Munchkin-API | Word een persoon via de Marketo Munchkin-API |
 | Sociale app | Een persoon worden via een sociale widget |
 | Gebeurtenispartner | Een persoon worden via een gekoppelde webinar-service |
