@@ -2,18 +2,18 @@
 unique-page-id: 4719291
 description: Standaardnaam persoon en bedrijfsnaam instellen - Marketo Docs - Productdocumentatie
 title: Achternaam en bedrijfsnaam voor standaardpersoon instellen
+exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-
 # Standaardnaam persoon en bedrijfsnaam {#set-default-person-last-name-and-company-name} instellen
 
-Salesforce vereist (minimale) achternaam en bedrijfsnaam voor de bijbehorende leads en contactpersonen. Onvolledige records worden niet gesynchroniseerd met Salesforce. Als u gedeeltelijke verslagen wilt synchroniseren, moet u standaardwaarden voor Marketo voor gebruik met Salesforce plaatsen.
+Salesforce vereist (minimale) achternaam en bedrijfsnaam voor de bijbehorende leads en contactpersonen. Onvolledige records worden niet gesynchroniseerd met Salesforce. Als u deelrecords wilt synchroniseren, moet u standaardwaarden instellen voor Marketo die u met Salesforce wilt gebruiken.
 
 1. Ga naar **Admin** en klik **Salesforce**.
 
@@ -29,6 +29,6 @@ Salesforce vereist (minimale) achternaam en bedrijfsnaam voor de bijbehorende le
 
    >[!NOTE]
    >
-   >Marketo wijst alleen een standaardwaarde toe wanneer de record eerst wordt gesynchroniseerd met Salesforce en alleen als een van de vereiste velden leeg is.
+   >Marketo wijst alleen een standaardwaarde toe als de record voor het eerst wordt gesynchroniseerd met Salesforce en alleen als een van de vereiste velden leeg is.
 
-En dat is dat! Telkens wanneer een persoon een achternaam en/of bedrijfsnaam mist, zal Marketo de standaardwaarde toevoegen aangezien het het verslag over synchroniseert.
+En dat is dat! Elke keer dat een persoon een achternaam en/of bedrijfsnaam mist, voegt Marketo de standaardwaarde toe bij het synchroniseren van de record.
