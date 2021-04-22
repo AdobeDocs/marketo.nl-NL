@@ -2,18 +2,18 @@
 unique-page-id: 3571846
 description: Microsoft Dynamics Sync - Custom Entity Sync - Marketo Docs - Productdocumentatie
 title: Microsoft Dynamics Sync - Custom Entity Sync
+exl-id: 1e175bd4-509f-4c1f-a41d-456629e4a8fb
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics Sync: Aangepaste entiteitssynchronisatie {#microsoft-dynamics-sync-custom-entity-sync}
 
-Als u de aanvankelijke synchronisatie van de douaneentiteit moet toelaten om gegevens van Dynamiek beschikbaar te maken in Marketo, is hier hoe te om het te doen.
+Als u de aanvankelijke synchronisatie van de douaneentiteit moet toelaten om gegevens van Dynamica beschikbaar te maken in Marketo, is hier hoe te om het te doen.
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ Als u de aanvankelijke synchronisatie van de douaneentiteit moet toelaten om geg
 
 1. Installeer een versie van de Dynamica van Microsoft die douanefunctionaliteit (na 2_0_0_2) steunt. Zie [Marketo Plugin-releases voor Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
-1. Geef de gebruiker van het Marketo synchroon toegang tot om het even welke entiteiten u van plan bent te synchroniseren.
+1. Leestoegang tot alle entiteiten die u wilt synchroniseren door de Marketo Sync-gebruiker.
 
 1. Klik onder Databasebeheer op de koppeling **Dynamics Entities Sync**.
 
