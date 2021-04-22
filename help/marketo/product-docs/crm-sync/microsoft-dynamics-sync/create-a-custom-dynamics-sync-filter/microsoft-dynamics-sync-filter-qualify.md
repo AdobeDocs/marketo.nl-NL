@@ -2,14 +2,14 @@
 unique-page-id: 10092977
 description: Microsoft Dynamics Sync Filter -Qualify - Marketo Docs - Productdocumentatie
 title: Microsoft Dynamics Sync Filter -Qualify
+exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
 
 ---
-
 
 # Microsoft Dynamics Sync Filter: {#microsoft-dynamics-sync-filter-qualify} kwalificeren
 
@@ -23,8 +23,8 @@ Hieronder wordt beschreven hoe de filters werken tijdens het conversieproces.
 |---|---|---|
 | Onwaar | Onwaar | Er wordt niets gesynchroniseerd in Marketo |
 | Waar | Waar | De contactpersoon wordt gesynchroniseerd in Marketo |
-| Onwaar | Waar | Nieuwe contactrecord gemaakt in Marketo |
-| Waar | Onwaar | De updates van de Dynamica van MS leiden info in Marketo maar het contactverslag is niet gesynchroniseerd |
+| Onwaar | Waar | Nieuwe contactrecord wordt gemaakt in Marketo |
+| Waar | Onwaar | Hoofdgegevens van updates voor MS Dynamics in Marketo, maar contactrecord is niet gesynchroniseerd |
 
 >[!CAUTION]
 >
