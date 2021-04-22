@@ -2,14 +2,14 @@
 unique-page-id: 7504130
 description: Een aangepast doel maken - Marketo Docs - Productdocumentatie
 title: Een aangepast doel maken
+exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # Een aangepast doel maken {#create-a-custom-goal}
 
