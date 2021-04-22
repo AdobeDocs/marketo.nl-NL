@@ -2,14 +2,14 @@
 unique-page-id: 2953463
 description: SFDC Sync -Lead/Account Owner Sync - Marketo Docs - Productdocumentatie
 title: SFDC Sync - Lead/Account Owner Sync
+exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
-
 
 # SFDC-synchronisatie: Sync {#sfdc-sync-lead-account-owner-sync}
 
@@ -17,7 +17,7 @@ Hiermee wordt de tabel &quot;gebruiker&quot; in Salesforce technisch gesynchroni
 
 ## Welke velden worden gesynchroniseerd met Marketo? {#which-fields-will-sync-to-marketo}
 
-Voor elke persoon die met Marketo wordt gesynchroniseerd, synchroniseren wij ook de volgende eigenaargebieden:
+Voor elke persoon die naar Marketo wordt gesynchroniseerd, synchroniseren we ook de volgende eigenaarvelden:
 
 * Voornaam verkoopeigenaar
 * Achternaam verkoopeigenaar
@@ -45,7 +45,7 @@ Er zijn veel redenen om deze gegevens te gebruiken, zoals
 
 * Een persoonlijke e-mail verzenden met een handtekening van de eigenaar van de verkoop
 * Filter op specifieke verkoopvertegenwoordigers voor marketing of zelfs om doeltreffendheid te analyseren
-* Regels voor toewijzing (en opnieuw toewijzen) in Marketo
+* Regels voor toewijzing (en hertoewijzing) in Marketo
 * Gebruik ze in de [Eigenaar wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md), [Persoon synchroniseren naar SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) en [Taak maken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)-stroomhandelingen
 
-Marketo heeft zeker een fantastische Salesforce-synchronisatie. Niemand anders doet het zo goed!
+Marketo heeft zeker een geweldige Salesforce-synchronisatie. Niemand anders doet het zo goed!
