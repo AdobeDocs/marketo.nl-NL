@@ -2,16 +2,16 @@
 unique-page-id: 2359906
 description: Marketo-gebruikers beheren - Marketo Docs - Productdocumentatie
 title: Marketo-gebruikers beheren
+exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-
-# Markeringsgebruikers {#managing-marketo-users} beheren
+# Marketo-gebruikers {#managing-marketo-users} beheren
 
 ## Gebruikers {#create-users} maken
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Een vervaldatum is ideaal voor externe belanghebbenden op korte termijn of consultants die Marketo slechts voor een korte tijd nodig hebben.
+   >Een vervaldatum is ideaal voor externe belanghebbenden of consultants voor de korte termijn die slechts voor een korte tijd toegang tot Marketo nodig hebben.
 
    >[!NOTE]
    >
