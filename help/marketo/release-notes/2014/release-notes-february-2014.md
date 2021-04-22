@@ -2,18 +2,18 @@
 unique-page-id: 2951048
 description: Opmerkingen bij de release - februari 2014 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - februari 2014
+exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: februari 2014 {#release-notes-february}
 
-De volgende functies zijn opgenomen in de release van februari 2014. Controleer uw Marketo Edition voor de beschikbaarheid van functies. Na de release wilt u koppelingen naar gedetailleerde artikelen in de Knowledge Base zoeken voor elke functie.
+De volgende functies zijn opgenomen in de release van februari 2014. Controleer of de Marketo Edition beschikbaar is. Na de release wilt u koppelingen naar gedetailleerde artikelen in de Knowledge Base zoeken voor elke functie.
 
 ## Engagement Score als wentelcriteria {#engagement-score-as-winning-criteria}
 
