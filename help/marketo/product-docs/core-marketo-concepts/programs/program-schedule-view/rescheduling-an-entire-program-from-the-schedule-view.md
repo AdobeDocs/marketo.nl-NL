@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147138
-description: Het opnieuw bepalen van een Hele Programma van de Mening van het Programma - Marketo Docs - de Documentatie van het Product
+description: Een volledig programma opnieuw instellen vanuit de overzichtsweergave - Marketo-documenten - Productdocumentatie
 title: Het opnieuw bepalen van een Hele Programma van de Mening van het Programma
+exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # Het opnieuw bepalen van een Hele Programma van de Mening {#rescheduling-an-entire-program-from-the-schedule-view} van het Programma
 
