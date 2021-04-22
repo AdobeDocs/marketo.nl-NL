@@ -1,18 +1,18 @@
 ---
 description: OAuth 2.0 instellen - Marketo Docs - Productdocumentatie
 title: OAuth 2.0 instellen
+exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
 # OAuth 2.0 {#setting-up-oauth-2-0} instellen
 
-Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te staan om tot gegevens veilig toegang te hebben (de toepassing voor authentiek te verklaren gebruikend OAuth 2.0) via REST API vraag zonder het moeten login geloofsbrieven openbaren. Hieronder staan de stappen die moeten worden uitgevoerd om Marketo veilig te verbinden en te synchroniseren met Salesforce.
+Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te staan om tot gegevens veilig toegang te hebben (de toepassing voor authentiek te verklaren gebruikend OAuth 2.0) via REST API vraag zonder het moeten login geloofsbrieven openbaren. Hieronder vindt u de stappen die moeten worden uitgevoerd om Marketo veilig te verbinden en te synchroniseren met Salesforce.
 
 ## Aangesloten app {#set-up-connected-app} instellen
 
@@ -42,14 +42,14 @@ Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te sta
 
 >[!NOTE]
 >
->Sla de informatie Consumentencode en Consumentengeheim op voor later gebruik in Marketo.
+>Sla de Consumentencode en Consumentengeheim informatie op voor later gebruik in Marketo.
 
-## Markering instellen {#set-up-marketo}
+## Marketo {#set-up-marketo} instellen
 
 >[!PREREQUISITES]
 >
 >* API-toegang moet zijn ingeschakeld voor de Salesforce Sync-gebruiker (als u een Salesforce Professional Edition-gebruiker bent, is deze toegang standaard niet beschikbaar. Neem contact op met uw Salesforce Account Executive).
->* De gebruiker Marketo Sync moet in Salesforce worden gemaakt.
+>* Marketo Sync-gebruiker moet worden gemaakt in Salesforce.
 >* Voor bestaande klanten, wordt de Eigenschap om &quot;OAuth voor synchronisatie toe te laten SFDC&quot;toegelaten op het abonnement van de klant.
 >* Pop-upblokkeerders zijn uitgeschakeld.
 >* Connected App is gemaakt en we hebben de Consumer Key en Consumer Secret beschikbaar voor gebruik.
@@ -67,7 +67,7 @@ Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te sta
 
    ![](assets/setting-up-oauth-2-9.png)
 
-1. Er wordt een pop-up weergegeven met de aanmeldingspagina voor verkopers. Sleutel in uw &quot;Marketo Sync User&quot; geloofsbrieven en login.
+1. Er wordt een pop-up weergegeven met de aanmeldingspagina voor verkopers. Sleutel in uw aanmeldingsgegevens voor &quot;Marketo Sync User&quot; (Gebruiker synchroniseren) en meld u aan.
 
    ![](assets/setting-up-oauth-2-10.png)
 
@@ -91,6 +91,6 @@ Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te sta
 
    ![](assets/setting-up-oauth-2-15.png)
 
-Uw Synchronisatie tussen Marketo en Salesforce is nu in uitvoering.
+Uw Synchronisatie tussen Marketo en Salesforce is nu aan de gang.
 
 ![](assets/setting-up-oauth-2-16.png)
