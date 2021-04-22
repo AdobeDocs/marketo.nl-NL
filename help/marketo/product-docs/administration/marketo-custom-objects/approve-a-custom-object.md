@@ -2,14 +2,14 @@
 unique-page-id: 10094188
 description: Een aangepast object goedkeuren - Marketo Docs - Productdocumentatie
 title: Een aangepast object goedkeuren
+exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
-
 
 # Een aangepast object {#approve-a-custom-object} goedkeuren
 
@@ -19,7 +19,7 @@ U moet een aangepast object goedkeuren voordat u het kunt gebruiken. Het proces 
 
 U hebt een gloednieuw aangepast object gemaakt. Hier is hoe je het goedkeurt.
 
-1. Klik in Admin op **Aangepaste objecten markeren** en selecteer een object in de status Concept.
+1. Klik in Admin op **Aangepaste objecten van Marketo** en selecteer een object in de status Concept.
 
    ![](assets/one.png)
 
@@ -39,7 +39,7 @@ U hebt een gloednieuw aangepast object gemaakt. Hier is hoe je het goedkeurt.
    >
    >Een douanevoorwerp dat als _intermediair voorwerp_ wordt gebruikt vereist een verbindingsgebied, een verbonden objecten naam, en een verbonden gebiedsnaam maar **vereist geen** een deduplicaatgebied.
    >
-   >Zie [Inzicht in aangepaste objecten markeren](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
+   >Zie [Inzicht in aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
 
 Dat is het! U kunt nu uw aangepaste object selecteren met de beperkingen van de filters en triggers die u in uw campagnes wilt gebruiken.
 
