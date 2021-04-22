@@ -1,7 +1,7 @@
 ---
 audience: end-user
 user-guide-title: Marketo Guide
-user-guide-description: Markeringsproductdocumentatie
+user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
@@ -13,13 +13,13 @@ ht-degree: 0%
 ---
 
 
-# Markeringsgids {#using}
+# Marketo Guide {#using}
 
 + [Home](home.md)
 + Aan de slag met Marketo {#getting-started-with-marketo}
    + [Aan de slag](getting-started.md)
    + [Wat is Marketo?](getting-started/what-is-marketo.md)
-   + [Verklarende woordenlijst](getting-started/marketo-glossary.md)
+   + [Marketo Verklarende woordenlijst](getting-started/marketo-glossary.md)
    + [Woordenlijst met pictogrammen](getting-started/icon-glossary.md)
    + {#setup} instellen
       + [Stappen instellen](getting-started/setup-steps.md)
@@ -39,7 +39,7 @@ ht-degree: 0%
       + [Een bestemmingspagina omleiden](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Een waarschuwing automatiseren voor mogelijke dubbele personen](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Een Marketo-instantie {#inheriting-a-marketo-instance} overnemen
-      + [Help! Ik heb een Bestaande Ingeërfte Instantie van Marketo](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
+      + [Help! Ik heb een Bestaande Ingeerte Instantie van Marketo](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Te controleren items](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Te beoordelen handelingen: Kernvaardigheden](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Manieren om hulp te krijgen](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
@@ -149,7 +149,7 @@ ht-degree: 0%
          + [Eén aanmelding toevoegen aan een portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Slack toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md)
          + [WebEx toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
-         + [Workplace van Facebook toevoegen als een opstartpuntservice](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
+         + [Workplace door Facebook toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Zoomen toevoegen als een opstartpuntservice](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [Uw SOAP API-instellingen configureren](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
          + [BrightStorTALK verbinden met Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
@@ -183,40 +183,40 @@ ht-degree: 0%
       + Veldbeheer {#field-management}
          + [Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [Updates van een veld blokkeren](product-docs/administration/field-management/block-updates-to-a-field.md)
-         + [Het type van een Marketo-aangepast veld wijzigen](product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)
+         + [Het type van een aangepast Marketo-veld wijzigen](product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)
          + [Een aangepast veld maken in Marketo](product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
          + [Een samengevoegd veld String (Formule) maken en gebruiken](product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md)
          + [Verklarende woordenlijst Type aangepast veld](product-docs/administration/field-management/custom-field-type-glossary.md)
          + [Een aangepast veld in Marketo verwijderen](product-docs/administration/field-management/delete-a-custom-field-in-marketo.md)
          + [Veldaliassen bewerken voor het importeren van lijsten](product-docs/administration/field-management/edit-field-aliases-for-list-import.md)
          + [Alle metagegevens van object exporteren](product-docs/administration/field-management/export-all-object-metadata.md)
-         + [Een lijst met alle markeringsnamen naar API-velden exporteren](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
+         + [Een lijst met alle Marketo API-veldnamen exporteren](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [Gebruikt door gegevens exporteren voor een veld](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Een veld verbergen en verbergen opheffen](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [HTML-coderingstokens in e-mails](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [De naam van een veld wijzigen](product-docs/administration/field-management/rename-a-field.md)
          + [Werken met door het systeem beheerde velden](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Veldtoewijzingen weergeven tussen Marketo en Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
-      + Aangepaste activiteiten markeren {#marketo-custom-activities}
+      + Aangepaste Marketo-activiteiten {#marketo-custom-activities}
          + [Aangepaste activiteiten begrijpen](product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)
-         + [Markeertekens toevoegen/bewerken/verwijderen aan aangepaste activiteitenvelden](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
+         + [Aangepaste activiteitsvelden van Marketo toevoegen/bewerken/verwijderen](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
          + [Een aangepaste activiteit maken](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Een aangepaste activiteit bewerken](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [Een aangepaste activiteit publiceren](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
-      + Aangepaste objecten markeren {#marketo-custom-objects}
-         + [Aangepaste objecten markeren](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
-         + [Markeren toevoegen aan aangepaste objectvelden](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
-         + [Markeren toevoegen aan aangepaste objectkoppelingsvelden](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+      + Aangepaste Marketo-objecten {#marketo-custom-objects}
+         + [Aangepaste Marketo-objecten begrijpen](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+         + [Aangepaste Marketo-objectvelden toevoegen](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+         + [Aangepaste Marketo-objectkoppelingsvelden toevoegen](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
          + [Een aangepast object goedkeuren](product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
-         + [Aangepaste objecten markeren](product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
-         + [Een aangepast markeerobject bewerken en verwijderen](product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
-         + [Markeren naar aangepaste objectvelden bewerken en verwijderen](product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+         + [Aangepaste Marketo-objecten maken](product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+         + [Een aangepast Marketo-object bewerken en verwijderen](product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+         + [Aangepaste Marketo-objectvelden bewerken en verwijderen](product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
          + [Aangepaste objectgegevens importeren](product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
          + [Aangepaste objectwijzigingen activeren](product-docs/administration/marketo-custom-objects/trigger-off-custom-object-changes.md)
          + [Metagegevens van aangepast object exporteren](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Instellingen {#settings}
          + [Kenmerkinstellingen wijzigen voor Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
-         + [Wachtwoord voor markeren wijzigen](product-docs/administration/settings/change-your-marketo-password.md)
+         + [Je Marketo-wachtwoord wijzigen](product-docs/administration/settings/change-your-marketo-password.md)
          + [Beveiligingsinstellingen voor wachtwoord wijzigen](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Een aangepast tabblad maken voor de detailpagina voor personen](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
          + [De URL&#39;s van uw bestemmingspagina aanpassen met een CNAME (Beheer)](product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md)
@@ -227,7 +227,7 @@ ht-degree: 0%
          + [Abonnementsinstellingen bewerken](product-docs/administration/settings/edit-subscription-settings.md)
          + [Functies voor schatkist in- of uitschakelen](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Persoonlijke URL&#39;s voor uw account inschakelen (beheer)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
-         + [Beperk Marketo Logins die op IP worden gebaseerd](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
+         + [Marketo-aanmeldingen beperken op basis van IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Taal, landinstelling en tijdzone selecteren](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Een terugvalpagina instellen](product-docs/administration/settings/set-a-fallback-page.md)
          + [Standaardinstellingen voor locatie instellen voor een abonnement](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
@@ -506,25 +506,25 @@ ht-degree: 0%
          + [Plug-inreleases voor Microsoft Dynamics MSI](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
          + [Problemen met validatie synchroniseren van dynamiek verhelpen](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + Instellingen synchroniseren {#sync-setup}
-            + [Download de oplossing Marketo Lead Management](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [Update de Oplossing van de Marketo voor de Dynamica van Microsoft](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Download de Marketo Lead Management Solution](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+            + [Update de Oplossing van Marketo voor de Dynamica van Microsoft](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Synchronisatie van Microsoft-dynamiek valideren](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [De URL van de organisatieservice weergeven](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011 On-Premises {#microsoft-dynamics-2011-on-premises}
                + [Stap 1 van 3: De Marketo-oplossing installeren (2011 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
-               + [Stap 2 van 3: Marketo Sync User in Dynamics (2011 op locatie) instellen](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
-               + [Stap 3 van 3: Microsoft Dynamics verbinden met Marketo (2011 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
+               + [Stap 2 van 3: Marketo Sync User in Dynamics instellen (2011 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+               + [Stap 3 van 3: Connect Microsoft Dynamics met Marketo (2011 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 2013 On-Premises {#microsoft-dynamics-2013-on-premises}
-               + [Stap 1 van 3: De Marketo-oplossing in Dynamics installeren (2013 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
-               + [Stap 2 van 3: Sync User for Marketo configureren (2013 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+               + [Stap 1 van 3: De Marketo-oplossing installeren in Dynamics (2013 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+               + [Stap 2 van 3: Synchronisatiegebruiker voor Marketo configureren (2013 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
                + [Stap 3 van 3: Connect Marketo en Dynamics (2013 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 2015 On-Premises/2016 Dynamics 365 On-Premises {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
                + [Stap 1 van 3: Installeer de Marketo-oplossing - 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
-               + [Stap 2 van 3: Marketo Sync User in Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+               + [Stap 2 van 3: Marketo Sync User instellen in Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [Stap 3 van 3: Connect Marketo en Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
             + Microsoft Dynamics 365 {#microsoft-dynamics-365}
                + [Stap 1 van 3: De Marketo-oplossing installeren (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-1-of-3-install.md)
-               + [Stap 2 van 3: Marketo synchroniseren van gebruiker in dynamiek instellen](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
+               + [Stap 2 van 3: Marketo Sync User instellen in Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md)
                + [Stap 3 van 3: Microsoft Dynamics verbinden met Marketo (online)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md)
             + OAuth-verificatie instellen voor dynamiek {#set-up-oauth-authentication-for-dynamics}
                + [Toestemming verlenen voor client-id en toepassingsregistratie](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md)
@@ -560,18 +560,18 @@ ht-degree: 0%
       + {#setup} instellen
          + Enterprise/Unlimited Edition {#enterprise-unlimited-edition}
             + [Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
-            + [Stap 2 van 3: Een Salesforce-gebruiker voor markeren maken (Enterprise/Onbeperkt)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+            + [Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
             + [Stap 3 van 3: Connect Marketo en Salesforce (Enterprise/Onbeperkt)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
          + Professional Edition {#professional-edition}
             + [Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
-            + [Stap 2 van 3: Een Salesforce-gebruiker voor markeertekens maken (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
+            + [Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
             + [Stap 3 van 3: Connect Marketo en Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
          + Optionele stappen {#optional-steps}
             + [Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen](product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
             + [Activiteiten synchroniseren aanpassen](product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)
             + [Aanvankelijke veldtoewijzingen bewerken](product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)
             + [Campagnesynchronisatie inschakelen/uitschakelen](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md)
-            + [Een marketinggebruiker synchroniseren met Marketo](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)
+            + [Marketo Sync gebruiker instellen als marketinggebruiker](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md)
             + [Aangepaste objectsynchronisatie inschakelen/uitschakelen](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md)
             + [Niet-Engelse aangepaste objectsynchronisatie inschakelen](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
             + [Achternaam en bedrijfsnaam voor standaardpersoon instellen](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
@@ -587,9 +587,9 @@ ht-degree: 0%
             + [SFDC-synchronisatie: Aangepaste objectsynchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
             + [SFDC-synchronisatie: Een lead/contactpersoon verwijderen](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
             + [SFDC-synchronisatie: Veldsynchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
-            + [Voeg een bestaand Salesforce-veld toe aan Marketo Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/add-an-existing-salesforce-field-to-the-marketo-sync.md)
+            + [Een bestaand Salesforce-veld toevoegen aan Marketo Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/add-an-existing-salesforce-field-to-the-marketo-sync.md)
             + [Standaardtoewijzing Salesforce-veld](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/default-salesforce-field-mapping.md)
-            + [Een Salesforce-veld verbergen voor synchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)
+            + [Een Salesforce-veld verbergen voor Marketo-synchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)
             + [SFDC-synchronisatie: Synchronisatie van leider/eigenaar account](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
             + [SFDC-synchronisatie: Wachtrij voor lead](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
             + [SFDC-synchronisatie: Synchronisatie van lead](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
@@ -606,7 +606,7 @@ ht-degree: 0%
          + [Inzicht in ad-netwerkintegratie](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [Aangepast publiek voor Facebook toevoegen als een opstartpuntservice](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
          + [Google Customer Match toevoegen als een LaunchPoint-service](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
-         + [Voeg LinkedIn Gelijke Publiek als Dienst van LaunchPoint toe](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+         + [Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Een lijst verzenden naar een advertentienetwerk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Gebeurtenissen {#events}
          + Gebeurtenissen {#understanding-events}
@@ -620,8 +620,8 @@ ht-degree: 0%
             + [Een gebeurtenis maken met GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Een gebeurtenis maken met een webvergadering van niveau 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Een gebeurtenis maken met ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
-            + [Creeer een Gebeurtenis met de Adapter Marketo ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
-            + [Gebeurtenisinstellingen configureren en markering synchroniseren met uw webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
+            + [Een gebeurtenis maken met de Marketo ON24-adapter](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
+            + [Gebeurtenisinstellingen configureren en Marketo synchroniseren met uw webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
             + [Een gebeurtenis maken in Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
             + [Onderliggende campagnes en lokale elementen maken](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
             + [Uw webinar-gebeurtenis maken in ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
@@ -629,21 +629,21 @@ ht-degree: 0%
             + [Voorbeeld ON24-gebeurtenisintegratie](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
             + [ON24 Updates voor gebeurtenisregistratie](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
             + [ON24-gebeurtenisintegratie testen](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
-            + [De gebeurtenissen van de Adapter van Marketo On24 begrijpen](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+            + [Marketo On24-adaptergebeurtenissen](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
             + [Werken met de status van het Webinar-programma](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
             + [Een gebeurtenis maken met WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
             + [Een gebeurtenis met zoomen maken](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
       + Facebook {#facebook}
-         + [Leads toevoegen aan een aangepast publiek op Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-         + [Een aangepast publiek maken op Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-         + [Instellingen Facebook Rich Post bewerken](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
-         + [Openingspagina&#39;s op Facebook publiceren](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
-         + [Advertenties voor Facebook-leads instellen](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
-         + [Aangepaste velden toewijzen aan markeerteken](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
-         + [Offlineconversies van Facebook instellen](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-         + [Advertenties voor Facebook-leads testen voor Desktopintegratie met Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
-         + [Advertenties van Facebook-leads testen voor mobiele integratie met Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
-         + [Offlineconversies van Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+         + [Leads toevoegen aan een aangepast publiek in Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+         + [Een aangepast publiek maken in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+         + [Facebook Rich Post-instellingen bewerken](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
+         + [Openingspagina&#39;s naar Facebook publiceren](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+         + [Facebook Lead Ads instellen](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+         + [Aangepaste velden toewijzen aan Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
+         + [Facebook-offlineconversies instellen](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+         + [Facebook Lead Ads testen voor desktopintegratie met Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-desktop-integration-with-marketo.md)
+         + [Facebook Lead Ads testen voor mobiele integratie met Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
+         + [Facebook Offline conversies begrijpen](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Filters en triggers voor advertenties gebruiken in een slimme campagne](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
       + Forms {#forms}
          + Een formulier maken {#creating-a-form}
@@ -667,7 +667,7 @@ ht-degree: 0%
             + [Een formulier bewerken](product-docs/demand-generation/forms/form-actions/edit-a-form.md)
             + [Een formulier insluiten op uw website](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
             + [Vulling van sociaal formulier inschakelen op een formulier](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
-            + [Veelgestelde vragen over LinkedIn sociale formulieren invullen](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
+            + [Veelgestelde vragen over het invullen van sociale formulieren in linkedIn](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
             + [Aangepast HTML-formulier tonen voor bekende personen](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
             + [Een formulier gebruiken in een lichtbak](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
          + Formulierontwerp {#form-design}
@@ -690,7 +690,7 @@ ht-degree: 0%
             + [Een formulierveld instellen als verborgen](product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
             + [De waarde van een verborgen formulierveld instellen](product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
       + Afbeeldingen en bestanden {#images-and-files}
-         + [Afbeeldingen en bestanden toevoegen aan markeerteken](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+         + [Afbeeldingen en bestanden toevoegen aan Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + [Een geüploade afbeelding of bestand verwijderen](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [De URL van een geüploade afbeelding of bestand zoeken](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
          + [De afbeeldingen ophalen van een webpagina](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
@@ -698,7 +698,7 @@ ht-degree: 0%
          + [Een geüploade afbeelding of bestand vervangen](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Geüploade afbeeldingen en bestanden zoeken](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Afbeeldingen en bestanden uploaden uit vak](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
-      + Openingspagina&#39;s {#landing-pages}
+      + Landingspagina&#39;s {#landing-pages}
          + Landingspagina&#39;s {#understanding-landing-pages}
             + [Een bestemmingspagina goedkeuren, goedkeuren of verwijderen](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Prestatierapport voor bestemmingspagina](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
@@ -731,11 +731,11 @@ ht-degree: 0%
             + [Een prestatierapport voor de bestemmingspagina filteren](product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md)
             + [Een voorvertoning van een bestemmingspagina weergeven met dynamische inhoud](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [Een voorvertoning van een bestemmingspagina weergeven](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
-            + [Een bestemmingspagina van Marketo omleiden naar een andere pagina](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
+            + [Marketo-landingspagina omleiden naar een andere pagina](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
          + Bezig met het landen van paginasjablonen {#landing-page-templates}
             + [Een sjabloon voor vrije bestemmingspagina maken](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [Een sjabloon voor een bestemmingspagina met instructies maken](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
-            + [Een sjabloon voor een bestemmingspagina markeren bewerken](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
+            + [Een Marketo-sjabloon voor openingspagina bewerken](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
             + [Een bestaande landingspaginasjabloon in vrije vorm geschikt maken voor mobiele apparaten](product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
             + [Elementen en variabelen in Geleide sjablonen begrijpen](product-docs/demand-generation/landing-pages/landing-page-templates/understanding-elements-and-variables-in-guided-templates.md)
             + [Sjabloonlijst met geleide landingspagina](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md)
@@ -889,14 +889,14 @@ ht-degree: 0%
             + [Vulling van sociaal formulier inschakelen op een formulier (sociaal)](product-docs/demand-generation/social/social-functions/enable-social-form-fill-on-a-form-social.md)
             + [Gegevens van sociaal profiel beheren](product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
             + [Vereiste voor sociaal delen instellen](product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-            + [LinkedIn Gen Forms instellen](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
+            + [LinkedIn-leadgen. Forms instellen](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [Triggers en filters voor sociale activiteiten](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
-            + [Een lijst met markeertekens of een slimme lijst gebruiken als een segment voor LinkedIn-publiek](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+            + [Een Marketo-lijst of slimme lijst gebruiken als een LinkedIn Audience Segment](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [E-mails gebruiken in sociale aanbiedingen](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
-            + [LinkedIn Gen-formulierfilters en -triggers gebruiken in een slimme campagne](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+            + [LinkedIn Lead Gen Form Filters and Triggers gebruiken in een slimme campagne](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
             + [Promo-codes gebruiken voor afhandeling van voorstellen](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
             + [Sociale prestaties weergeven](product-docs/demand-generation/social/social-functions/view-social-performance.md)
-         + Krullen {#sweepstakes}
+         + Sweepstake {#sweepstakes}
             + [Overtreklijnen maken](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [Overtrekstijlen aanpassen](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
             + [Een zweepslag publiceren](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
@@ -1179,7 +1179,7 @@ ht-degree: 0%
             + [Overzicht van Live feed](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + Abonnement {#unsubscribes} opzeggen
             + [Bericht voor opzeggen van koppeling aanpassen](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
-            + [Marketo Unsubscribe-controle](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
+            + [Marketo Unsubscribe Check](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
             + [Abonnement opzeggen](product-docs/marketo-sales-connect/email/unsubscribes/resubscribing-an-unsubscribe.md)
             + [Abonnementen synchroniseren met Salesforce](product-docs/marketo-sales-connect/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
             + [Groep afmelden](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-group.md)
@@ -1218,7 +1218,7 @@ ht-degree: 0%
          + [Sales Connect en GDPR-compatibiliteit](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Contacten {#managing-contacts} beheren
             + [Bulkacties op personen](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
-            + [Verbind uw Marketo Leads met Verkoop Connect Leads](product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)
+            + [Verbind uw Marketo-leads met Sales Connect Leads](product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)
             + [Verbinding maken met een groep](product-docs/marketo-sales-connect/people/managing-contacts/connecting-with-a-group.md)
             + [Contactpersonen maken en verwijderen](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [Een groep verwijderen](product-docs/marketo-sales-connect/people/managing-contacts/delete-a-group.md)
@@ -1232,7 +1232,7 @@ ht-degree: 0%
             + [Contacten importeren via CSV](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [Groepen beheren](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [Kolommen met personenpagina&#39;s](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
-      + Telefoon {#phone}
+      + Telefoonnummer {#phone}
          + [De vraag registreert niet aan Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
          + [Niet aanmelden bij activiteitenoverzicht](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Niet aangemeld bij Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
@@ -1275,9 +1275,9 @@ ht-degree: 0%
             + [Dynamische velden invoegen](product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
             + [Mijn dynamische velden worden niet ingevuld](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [Verwijzing zelf in een dynamisch veld](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
-   + Marktverkoopinzicht {#marketo-sales-insight}
+   + Marketo Sales Insight {#marketo-sales-insight}
       + MSI {#using-msi} gebruiken
-         + [Log inkomende post van je leads in Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+         + [Inkomende e-mail van uw leads aanmelden in Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome-insteekmodule {#msi-chrome-plugin}
          + [Marketo Insights installeren voor Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
          + [Marketo Insights gebruiken voor Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
@@ -1285,48 +1285,48 @@ ht-degree: 0%
       + MSI voor de Dynamica van Microsoft {#msi-for-microsoft-dynamics}
          + [Overzicht van functies](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
          + {#installing} installeren
-            + [Download de Oplossing van het Inzicht van de Verkoop van de Marketo voor de Dynamica van Microsoft](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
-            + [Het Inzicht van de Verkoop van de Marketo in de Dynamica 2011 van Microsoft installeren en vormen](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
-            + [Het Inzicht van de Verkoop van de Marketo in de Dynamica 2013 van Microsoft installeren en vormen](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
-            + [Het Inzicht van de Verkoop van de Marketo in de Dynamica 2015 van Microsoft installeren en vormen](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
-            + [Het Inzicht van de Verkoop van de Marketo in de Dynamica 365 van Microsoft installeren en vormen](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
-            + [Het Inzicht van de Verkoop van de Marketo in de Dynamica van Microsoft online installeren en vormen](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
+            + [Download de Marketo Sales Insight Solution voor Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2011](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
+            + [Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2013](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
+            + [Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2015](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
+            + [Marketo Sales Insight installeren en configureren in Microsoft Dynamics 365](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
+            + [Marketo Sales Insight installeren en configureren in Microsoft Dynamics Online](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
          + {#setting-up-and-using} instellen en gebruiken
-            + [Voeg een Lood/Contact aan een Campagne van de Marketo van de Dynamiek van Microsoft toe](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
-            + [Vereiste velden voor het synchroniseren van markeertekens met dynamiek](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
-            + [E-mail met marketinggegevens van Microsoft Dynamics verzenden](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
+            + [Een lead/contact toevoegen aan een Marketo-campagne vanuit Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+            + [Vereiste velden voor het synchroniseren van Marketo met dynamiek](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
+            + [Een Marketo Sales-e-mail verzenden vanuit Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [Sterren en vlammen instellen voor lead/contact-records](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
          + {#uninstalling} verwijderen
             + [Global MS Dynamics Sync uitschakelen](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [MSI verwijderen uit de instantie van MS Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + {#updating} bijwerken
-            + [Verbetering de Oplossing van het Inzicht van de Verkoop van de Marketo voor de Dynamica van Microsoft](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [Upgrade de Marketo Sales Insight Solution voor Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
       + MSI voor Salesforce {#msi-for-salesforce}
          + Installatie {#installation}
-            + [Pakket met marketinggegevens in Salesforce AppExchange installeren](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+            + [Marketo Sales Insight Package installeren in Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + Configuratie {#configuration}
-            + [Marktverkoopinzicht configureren in Salesforce Enterprise/Onbeperkt](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-            + [Marktverkoopinzicht configureren in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
-            + [Het lusje van de Configuratie van het Inzicht van de Verkoop van de Marketo in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
-            + [Pagina met verkoopinzicht voor marktexploitanten](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
+            + [Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+            + [Marketo Sales Insight configureren in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+            + [Marketo Sales Insight Configuration Tab in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Sales Insight Page voor Marketo Admins](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [Het Inzicht van de Verkoop van de Opstelling voor uw Team](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + Functies {#features}
             + [Overzicht van MSI-functies](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + Handelingen in het deelvenster MSI {#actions-in-the-msi-panel}
-               + [Voeg een Lood/Contact aan een Campagne van de Marketo van Salesforce toe](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/add-to-marketo-campaign/add-a-lead-contact-to-a-marketo-campaign-from-salesforce.md)
-               + [Abonnement op voetteksten opzeggen in Marktverkoopoverzicht configureren](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
+               + [Een lead/contact vanuit Salesforce toevoegen aan een Marketo-campagne](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/add-to-marketo-campaign/add-a-lead-contact-to-a-marketo-campaign-from-salesforce.md)
+               + [Abonnement op voetteksten opzeggen in Marketo Sales Insight configureren](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [Verkoopsjabloon vergrendelen](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Een e-mail naar Verkoopoverzicht publiceren](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Test-e-mail verzenden](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Bulkhandelingen {#bulk-actions}
-               + [Voeg het Lusje van het Inzicht van de Verkoop van de Marketo en Knopen aan Salesforce toe](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
+               + [Het tabblad Marketo Sales Insight en de knoppen aan Salesforce toevoegen](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Bulkacties in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
-               + [E-mail naar meerdere records verzenden in Marktinformatie](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
+               + [E-mail naar meerdere records in Marketo Sales Insight verzenden](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
                + [Configuratie voor bestaande klanten](product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md)
                + [Overzicht van dashboardfuncties voor inzichten](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + Taalondersteuning {#language-support}
                + [Verkoopoverzicht voorbereiden voor meertalige ondersteuning in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
-            + Tab markeren {#marketo-tab}
+            + Marketo Tab {#marketo-tab}
                + [Beste bieten](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [De Lead Feed gebruiken](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + MSI-configuratietab {#msi-configuration-tab}
@@ -1345,23 +1345,23 @@ ht-degree: 0%
                   + [Interesserende momenten gebruiken](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
          + MSI voor mobiel {#msi-for-mobile}
             + [Beste ets in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
-            + [Het Inzicht van de Verkoop van de Marketo installeren en vormen in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/install-and-configure-marketo-sales-insight-in-salesforce1.md)
+            + [Marketo Sales Insight installeren en configureren in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/install-and-configure-marketo-sales-insight-in-salesforce1.md)
             + [Interesserende momenten in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
             + [Diervoeders voor voorloopvogels in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/seeing-lead-feed-in-salesforce1.md)
-            + [Handelingen Marketo en Campagne en Controlelijst verzenden in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+            + [Handelingen voor Marketo-e-mail, -campagne en -controlelijst verzenden in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
          + {#upgrading} bijwerken
             + [Een upgrade uitvoeren van uw MSI-pakket](product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)
       + Insteekmodule MSI Outlook {#msi-outlook-plugin}
-         + [De insteekmodule Marketo Outlook autoriseren](product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)
-         + [De invoegtoepassing Marketo voor Outlook installeren met een Enterprise-sleutel](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
-         + [De invoegtoepassing Marketo E-mail voor Outlook installeren met een registratiecode](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
-         + [Een licentie voor een Marketo-e-mailinvoegtoepassing uitgeven](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
-         + [Installatie van de Plug-in Marketo Outlook door IT](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)
+         + [De Marketo Outlook-insteekmodule autoriseren](product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)
+         + [De Marketo Add-in voor Outlook installeren met een Enterprise Key](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
+         + [De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
+         + [Een Marketo-licentie voor e-mailinvoegtoepassingen uitgeven](product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md)
+         + [Installatie van Marketo Outlook-insteekmodule door IT](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)
          + [Marketo Outlook-insteekmodule verwijderd door IT](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
          + [E-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
-         + [Verzenden en volgen vanuit Outlook met behulp van een Marketo-sjabloon](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-         + [Admins van de insteekmodule Marketo Sales Insight opgeven](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
-         + [Upgrade uw Marketo-e-mailinvoegtoepassing voor Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
+         + [Verzenden en volgen vanuit Outlook met een Marketo-sjabloon](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+         + [Admins voor Marketo Sales Insight-plug-ins opgeven](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
+         + [Upgrade uw Marketo-invoegtoepassing voor e-mail voor Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
       + [Verkoopoverzicht voor niet-native Salesforce-integratie](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [Rollen inschakelen voor Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
@@ -1410,7 +1410,7 @@ ht-degree: 0%
          + [SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + Personalisatie {#personalization}
       + Segmentatie en fragmenten {#segmentation-and-snippets}
-         + Segmentering {#segmentation}
+         + Segmentatie {#segmentation}
             + [Een segmentatie goedkeuren](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
             + [Een segmentatie maken](product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
             + [Segmentregels definiëren](product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
@@ -1554,7 +1554,7 @@ ht-degree: 0%
             + [Uw goedgekeurde model bewerken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model/editing-your-approved-model.md)
             + [Het goedkeuren van Stages en het toewijzen van Leidingen aan een model van de Inkomsten](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
             + [De naam van een werkgebied wijzigen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/changing-the-name-of-a-stage.md)
-            + [Het klonen van een Model van de Inkomsten van het Marketo Voorbeeld](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/cloning-a-marketo-example-revenue-model.md)
+            + [Een Marketo-model met voorbeeldopbrengsten klonen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/cloning-a-marketo-example-revenue-model.md)
             + [Een nieuw inkomstenmodel maken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
             + [Een padanalyse met succes maken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
             + [Aangepaste veldgroepen inschakelen voor analyse van modelprestaties (lead)](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/enable-custom-field-groups-for-model-performance-analysis-leads.md)
@@ -1614,7 +1614,7 @@ ht-degree: 0%
       + Implementatie RTP-tag {#rtp-tag-implementation}
          + [De RTP JavaScript implementeren](product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)
          + [De RTP JavaScript-tag in- of uitschakelen](product-docs/web-personalization/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
-         + [Implementatie van RTP op bestemmingspagina&#39;s van markeertekens](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
+         + [RTP implementeren op Marketo-landingspagina&#39;s](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-marketo-landing-pages.md)
          + [RTP implementeren op Wordpress Enterprise](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
          + [RTP implementeren op Wordpress](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress.md)
          + [RTP implementeren met Adobe Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
@@ -1649,7 +1649,7 @@ ht-degree: 0%
          + [Segmenten van een specifiek label weergeven](product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
          + [Websegmenten](product-docs/web-personalization/using-web-segments/web-segments.md)
       + Opnieuw plaatsen van website {#website-retargeting}
-         + [Persoonlijke opmerkingen op Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
+         + [Persoonlijke opmerkingen in Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Persoonlijke opmerkingen in Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
          + [Opnieuw toewijzen met webpersonalisatiegegevens](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Werken met webcampagnes {#working-with-web-campaigns}
