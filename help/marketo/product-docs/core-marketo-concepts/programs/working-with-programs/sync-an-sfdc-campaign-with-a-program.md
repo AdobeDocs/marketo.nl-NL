@@ -2,14 +2,14 @@
 unique-page-id: 1147154
 description: Een SFDC-campagne synchroniseren met een programma - Marketo Docs - Productdocumentatie
 title: Een SFDC-campagne synchroniseren met een programma
+exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
-
 
 # Een SFDC-campagne synchroniseren met een programma {#sync-an-sfdc-campaign-with-a-program}
 
@@ -21,7 +21,7 @@ Met Marketo kunt u uw programma&#39;s synchroniseren met Salesforce-campagnes om
 
 >[!CAUTION]
 >
->Wanneer een SFDC-campagne wordt gesynchroniseerd met een Marketo-programma, worden de geïmpliceerde SFDC-acties (bijv. toevoegen aan SFDC-campagne, synchroniseren met SFDC) uitgeschakeld voor onderliggende campagnes van het programma.
+>Bij het synchroniseren van een SFDC-campagne met een Marketo-programma worden de geïmpliceerde SFDC-acties (bijv. toevoegen aan SFDC-campagne, synchroniseren met SFDC) uitgeschakeld voor onderliggende campagnes van het programma.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -39,7 +39,7 @@ Met Marketo kunt u uw programma&#39;s synchroniseren met Salesforce-campagnes om
 
    >[!TIP]
    >
-   >Als u een bestaande Salesforce-campagne selecteert, moet u [de status van het programma van de Salesforce-campagne en het Marketo-programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md) aanpassen.
+   >Als u een bestaande Salesforce-campagne selecteert, moet u [de status van het programma van de Salesforce-campagne en het Marketo-programma ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md) aanpassen.
 
 1. Voer een naam in voor de nieuwe campagne en klik op **Opslaan**.
 
