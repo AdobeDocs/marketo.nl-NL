@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2953473
-description: SFDC Sync - Activity Sync - Marketo Docs - Productdocumentatie
+description: SFDC Sync -Activity Sync - Marketo Docs - Productdocumentatie
 title: SFDC Sync - Activity Sync
+exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-
 # SFDC-synchronisatie: Activiteitensynchronisatie {#sfdc-sync-activity-sync}
 
-Marketo synchroniseert ook de gegevens van de Salesforce-activiteiten. Hier zijn een paar vragen en antwoorden.
+Marketo synchroniseert ook de gegevens over de Salesforce-activiteiten. Hier zijn een paar vragen en antwoorden.
 
-## Welke soorten activiteitsgegevens synchroniseert Marketo? {#what-types-of-activity-data-does-marketo-sync-over}
+## Over welke soorten activiteitsgegevens synchroniseert Marketo? {#what-types-of-activity-data-does-marketo-sync-over}
 
-Marketo synchroniseert over zowel gebeurtenissen als taken die aan een lead of contactpersoon zijn gekoppeld.
+Marketo synchroniseert zowel gebeurtenissen als taken die aan een lead of contactpersoon zijn gekoppeld.
 
 ## Hoe worden de activiteitsgegevens gesynchroniseerd tussen de twee systemen? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
