@@ -2,18 +2,18 @@
 unique-page-id: 4719300
 description: Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen - Marketo Docs - Productdocumentatie
 title: Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen
+exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-
 # Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo biedt fijnkorrelige controle over de synchronisatie van aangepaste objecten Salesforce. Op deze manier kunt u de velden selecteren die beschikbaar zijn als beperkingen in aangepaste objectfilters en deze als triggers gebruiken in slimme campagnes.
+Marketo biedt fijnkorrelige controle over het synchroniseren van aangepaste objecten Salesforce. Op deze manier kunt u de velden selecteren die beschikbaar zijn als beperkingen in aangepaste objectfilters en deze als triggers gebruiken in slimme campagnes.
 
 >[!NOTE]
 >
