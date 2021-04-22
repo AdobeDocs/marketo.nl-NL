@@ -2,28 +2,28 @@
 unique-page-id: 2360354
 description: Munchkin-trackingcode toevoegen aan uw website - Marketo Docs - Productdocumentatie
 title: Munchkin-trackingcode toevoegen aan uw website
+exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%
 
 ---
 
-
 # Munchkin-trackingcode toevoegen aan uw website {#add-munchkin-tracking-code-to-your-website}
 
-Marketo&#39;s aangepaste JavaScript-trackingcode, Munchkin, volgt alle personen die uw website bezoeken, zodat u op hun bezoeken kunt reageren met geautomatiseerde marketingcampagnes. Zelfs worden de anonieme bezoekers gevolgd samen met hun IP adressen en andere informatie. **Zonder deze code kunt u geen bezoeken of andere activiteiten op uw website** volgen.
+Marketo houdt aangepaste JavaScript-trackingcode, Munchkin genaamd, bij welke personen uw website bezoeken, zodat u op hun bezoeken kunt reageren met geautomatiseerde marketingcampagnes. Zelfs worden de anonieme bezoekers gevolgd samen met hun IP adressen en andere informatie. **Zonder deze code kunt u geen bezoeken of andere activiteiten op uw website** volgen.
 
 >[!PREREQUISITES]
 >
->Zorg ervoor dat u toegang hebt tot een ervaren JavaScript-ontwikkelaar. Marketo Technical Support is niet ingesteld als hulp bij het oplossen van problemen met aangepaste JavaScript.
+>Zorg ervoor dat u toegang hebt tot een ervaren JavaScript-ontwikkelaar. Marketo Technical Support is niet ingesteld als hulp bij het oplossen van aangepaste JavaScript-problemen.
 
 ## Trackingcode toevoegen aan uw website {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
->Adobe Experience Cloud-klanten kunnen ook gebruikmaken van de integratie van Marketo in Adobe Launch om Munchkin-script op hun webpagina&#39;s op te nemen. Download de app [hier](https://www.adobeexchange.com/experiencecloud.details.101054.html).
+>Adobe Experience Cloud-klanten kunnen ook gebruikmaken van Marketo-integratie in Adobe Launch om Munchkin-script op hun webpagina&#39;s op te nemen. Download de app [hier](https://www.adobeexchange.com/experiencecloud.details.101054.html).
 
 1. Ga naar **Admin** en klik **Munchkin** in de boom op de linkerzijde.
 
@@ -58,7 +58,7 @@ Marketo&#39;s aangepaste JavaScript-trackingcode, Munchkin, volgt alle personen 
 
 ## Trackingcode toevoegen bij gebruik van meerdere werkruimten {#add-tracking-code-when-using-multiple-workspaces}
 
-Als u Werkruimten gebruikt in uw Marketo-account, hebt u waarschijnlijk ook aparte webvoorkeuren die overeenkomen met uw werkruimten. In dat geval, kunt u Munchkin gebruiken die Javascript volgen om uw anonieme mensen aan de correcte werkruimte en de verdeling toe te wijzen.
+Als u Workspaces gebruikt in uw Marketo-account, hebt u waarschijnlijk ook aparte webvoorkeuren die overeenkomen met uw werkruimten. In dat geval, kunt u Munchkin gebruiken die Javascript volgen om uw anonieme mensen aan de correcte werkruimte en de verdeling toe te wijzen.
 
 1. Ga naar **Admin** en klik **Munchkin** in de boom op de linkerzijde.
 
@@ -70,7 +70,7 @@ Als u Werkruimten gebruikt in uw Marketo-account, hebt u waarschijnlijk ook apar
 
 >[!NOTE]
 >
->Als u de speciale werkruimte Munchkin-code niet gebruikt, worden de personen toegewezen aan de standaardpartitie die is gemaakt toen uw account werd ingesteld. Het heet &quot;Standaard&quot;aanvankelijk, maar u zou dat in uw eigen Marketo rekening kunnen veranderd hebben.
+>Als u de speciale werkruimte Munchkin-code niet gebruikt, worden de personen toegewezen aan de standaardpartitie die is gemaakt toen uw account werd ingesteld. Het heet aanvankelijk &quot;Standaard&quot;, maar je hebt dat wellicht gewijzigd in je eigen Marketo-account.
 
 1. Selecteer **Asynchroon** voor het Volgen van het Type van Code.
 
@@ -94,7 +94,7 @@ Als u Werkruimten gebruikt in uw Marketo-account, hebt u waarschijnlijk ook apar
 
 >[!NOTE]
 >
->Op Marketo gemaakte bestemmingspagina&#39;s bevatten automatisch code voor bijhouden, dus u hoeft deze code niet op deze pagina&#39;s te plaatsen.
+>De landingspagina&#39;s die in Marketo zijn gemaakt, bevatten automatisch trackingcode. U hoeft deze code dus niet op de pagina&#39;s te plaatsen.
 
 ## Typen Munchkin-trackingcodes {#types-of-munchkin-tracking-codes}
 
