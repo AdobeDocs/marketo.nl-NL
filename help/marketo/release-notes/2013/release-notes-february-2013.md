@@ -2,14 +2,14 @@
 unique-page-id: 2951103
 description: Opmerkingen bij de release - februari 2013 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - februari 2013
+exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
 
 ---
-
 
 # Opmerkingen bij de release: Februari 2013 {#release-notes-february}
 
@@ -21,15 +21,15 @@ De nieuwste versies van Apple Safari voor Mac en Windows worden volledig onderst
 
 ## Verbeteringen voor webhooks {#webhooks-enhancements}
 
-Webhooks wordt uitgebreid om tokens in de URL/lading te laten ontsnappen en kan Marketo-loodvelden ook bijwerken door XML/JSON-reacties van systemen van derden te parseren (niet beschikbaar in de Uitgave van SMB van de Vonk).
+Webhooks wordt uitgebreid om tokens in de URL/payload te laten ontsnappen en kan Marketo-hoofdvelden ook bijwerken door XML/JSON-reacties van systemen van derden te parseren (niet beschikbaar in de Spark SMB Edition).
 
 ## Bijgewerkt eindpunt SOAP API {#updated-soap-api-endpoint}
 
 Het voorkeurseindpunt voor SOAP API is bijgewerkt, dat wordt weergegeven in Admin -> SOAP API. Gelieve bij te werken uw vraag bij om dit nieuwe eindpunt te gebruiken. API-aanroepen naar het oude eindpunt zijn afgekeurd, maar blijven functioneren. (SOAP API niet beschikbaar in de Uitgave van SMB van de Vonk)
 
-## Mobiele ondersteuning voor Facebook-tabbladen {#mobile-support-for-facebook-tabs}
+## Mobiele ondersteuning voor Facebook-tabs {#mobile-support-for-facebook-tabs}
 
-Facebook-tabs die van Marketo worden gepubliceerd, detecteren mobiele apparaten en sturen deze naar een openingspagina. Op deze manier zorgt u ervoor dat de gebruiker de juiste inhoud krijgt op mobiele apparaten waarop Facebook-tabbladen niet worden ondersteund (beschikbaar in Spark, Standard, SMB Editions en Marketo Social Marketing selecteren).
+Facebook-tabs die vanuit Marketo worden gepubliceerd, detecteren mobiele apparaten en leiden deze naar een landingspagina. Op deze manier zorgt u ervoor dat de gebruiker de juiste inhoud krijgt op mobiele apparaten waarop Facebook-tabbladen niet worden ondersteund (beschikbaar in Spark, Standard, SMB Editions en Marketo Social Marketing).
 
 ## Binnenkort beschikbaar: Ondersteuning voor meerdere modellen {#coming-soon-support-for-multiple-models}
 
