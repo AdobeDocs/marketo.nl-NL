@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10100275
-description: Markeringsvelden toevoegen/bewerken/verwijderen - Markeringsdocumenten - Productdocumentatie
-title: Markeertekens toevoegen/bewerken/verwijderen aan aangepaste activiteitenvelden
+description: Aangepaste activiteitsvelden van Marketo toevoegen/bewerken/verwijderen - Marketo Docs - Productdocumentatie
+title: Aangepaste activiteitsvelden van Marketo toevoegen/bewerken/verwijderen
+exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
-
-# Markeringsvelden toevoegen/bewerken/verwijderen {#add-edit-delete-marketo-custom-activity-fields}
+# Aangepaste activiteitsvelden voor Marketo toevoegen/bewerken/verwijderen {#add-edit-delete-marketo-custom-activity-fields}
 
 Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwijderen. Zo gaat het.
 
 ## Een aangepast activiteitsveld toevoegen {#add-a-custom-activity-field}
 
-1. Klik in Aangepaste activiteiten markeren op **Fields**.
+1. In de Activiteiten van de Douane van Marketo, klik **Gebieden**.
 
    ![](assets/one-3.png)
 
@@ -45,7 +45,7 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
 ## Een aangepast activiteitsveld bewerken {#edit-a-custom-activity-field}
 
-1. Klik in Aangepaste activiteiten markeren op **Fields**.
+1. In de Activiteiten van de Douane van Marketo, klik **Gebieden**.
 
    ![](assets/one-3.png)
 
@@ -81,7 +81,7 @@ Uw veld wordt nu bewerkt.
 
 ## Een aangepast activiteitsveld {#delete-a-custom-activity-field} verwijderen
 
-1. Klik in Aangepaste activiteiten markeren op **Fields**.
+1. In de Activiteiten van de Douane van Marketo, klik **Gebieden**.
 
    ![](assets/one-3.png)
 
