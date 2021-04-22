@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146980
-description: Gebruik Keuze toevoegen in een stroomstap - Marketo Docs - Productdocumentatie
+description: Kies Toevoegen in een stroomstap - Marketo-documenten - Productdocumentatie
 title: Kies toevoegen in een stroomstap gebruiken
+exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # Gebruik Keuze toevoegen in een stroomstap {#use-add-choice-in-a-flow-step}
 
