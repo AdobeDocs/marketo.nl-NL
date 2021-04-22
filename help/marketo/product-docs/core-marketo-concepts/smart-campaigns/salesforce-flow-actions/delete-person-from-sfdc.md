@@ -2,18 +2,18 @@
 unique-page-id: 1147031
 description: Persoon verwijderen uit SFDC - Marketo Docs - Productdocumentatie
 title: Persoon verwijderen uit SFDC
+exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # Persoon verwijderen uit SFDC {#delete-person-from-sfdc}
 
-Als u een specifieke reeks lood uit Salesforce moet verwijderen maar hen als mensen in Marketo verlaat, kunt u de Persoon van de Schrapping van SFDC stroomactie gebruiken.
+Als u een specifieke reeks leads uit Salesforce moet verwijderen maar deze als personen in Marketo wilt behouden, kunt u de actie Person verwijderen uit SFDC-flow gebruiken.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Als u een specifieke reeks lood uit Salesforce moet verwijderen maar hen als men
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Zorg ervoor dat de **Delete in Marketo**-instelling **false** is en klik vervolgens op **Nu uitvoeren**.
+1. Zorg ervoor dat de **Delete-instelling in Marketo** **false** is en klik vervolgens op **Nu uitvoeren**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
@@ -35,4 +35,4 @@ Als u een specifieke reeks lood uit Salesforce moet verwijderen maar hen als men
 
    >[!CAUTION]
    >
-   >Als u **Delete in Marketo** aan **true** plaatst en de mensen van Marketo en de lood van Salesforce schrapt, zijn zij voorgoed gegaan. Dit kan niet ongedaan worden gemaakt.
+   >Als u **Delete in Marketo** aan **true** plaatst en de mensen uit Marketo en de lood van Salesforce schrapt, zijn zij voorgoed gegaan. Dit kan niet ongedaan worden gemaakt.
