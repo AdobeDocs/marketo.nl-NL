@@ -2,18 +2,18 @@
 unique-page-id: 8781911
 description: Werken met e-mailprogrammakaarten - Marketo Docs - Productdocumentatie
 title: E-mailprogrammakaarten
+exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
-
 # Werken met e-mailprogrammakaarten {#understanding-email-program-cards}
 
-Gebruik Marketo-momenten om uw e-mailprogramma&#39;s vanaf uw telefoon of iPad weer te geven.
+Gebruik Marketo Moments om uw e-mailprogramma&#39;s vanaf uw telefoon of iPad weer te geven.
 
 ## E-mailprogrammakaarten {#email-program-cards}
 
