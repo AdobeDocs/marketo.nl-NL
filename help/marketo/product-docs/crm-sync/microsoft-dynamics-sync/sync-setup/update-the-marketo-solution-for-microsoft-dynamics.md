@@ -2,16 +2,16 @@
 unique-page-id: 6849029
 description: Upgrade de Marketo-oplossing voor Microsoft Dynamics - Marketo Docs - Productdocumentatie
 title: Upgrade de Marketo-oplossing voor Microsoft Dynamics
+exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
-
-# Update de Oplossing van de Marketo voor de Dynamica van Microsoft {#update-the-marketo-solution-for-microsoft-dynamics}
+# Update de Oplossing van Marketo voor de Dynamica van Microsoft {#update-the-marketo-solution-for-microsoft-dynamics}
 
 Wanneer een nieuwe oplossing van de Dynamiek van Microsoft wordt vrijgegeven, kunt u de verbetering van het gebied Admin in uw rekening downloaden.
 
@@ -21,7 +21,7 @@ Wanneer een nieuwe oplossing van de Dynamiek van Microsoft wordt vrijgegeven, ku
 
 >[!CAUTION]
 >
->Het is noodzakelijk u de recentste Oplossing van Marketo _vóór_ het uitvoeren van om het even welke verbetering downloadt.
+>U moet de nieuwste Marketo-oplossing _downloaden voordat_ een upgrade uitvoert.
 
 1. Ga naar **Admin** gebied.
 
