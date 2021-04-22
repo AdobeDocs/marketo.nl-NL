@@ -2,14 +2,14 @@
 unique-page-id: 2360253
 description: Bewerk het bericht "Weergeven als webpagina" - Marketo Docs - Productdocumentatie
 title: Het bericht "Weergeven als webpagina" bewerken
+exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Bewerk het bericht &quot;Weergeven als webpagina&quot; {#edit-the-view-as-web-page-message}
 
