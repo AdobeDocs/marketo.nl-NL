@@ -1,6 +1,6 @@
 ---
 unique-page-id: 10098962
-description: Begrijpen en het gebruiken van het Pak van de Lancering - Marketo Docs - de Documentatie van het Product
+description: Inzicht in en gebruik van het Launch Pack - Marketo Docs - Productdocumentatie
 title: Het begrijpen van en het Gebruiken van de Pak van de Lancering
 translation-type: tm+mt
 source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
