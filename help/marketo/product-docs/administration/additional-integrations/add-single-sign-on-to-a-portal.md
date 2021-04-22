@@ -2,22 +2,22 @@
 unique-page-id: 2360356
 description: Eén aanmelding toevoegen aan een portal - Marketo Docs - Productdocumentatie
 title: Eén aanmelding toevoegen aan een portal
+exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
 
 ---
 
-
 # Eén aanmelding toevoegen aan een portal {#add-single-sign-on-to-a-portal}
 
-Als u een directoryservice hebt die gebruikers verifieert, kunt u SSO (Single Sign-On) in Marketo toestaan. Wij steunen deze eigenschap gebruikend de Taal van de Prijsverhoging van de Veiligheid (SAML) versie 2.0 en hoger.
+Als u een directoryservice hebt waarmee gebruikers worden geverifieerd, kunt u SSO (Single Sign-On) in Marketo toestaan. Wij steunen deze eigenschap gebruikend de Taal van de Prijsverhoging van de Veiligheid (SAML) versie 2.0 en hoger.
 
-Marketo werkt als SAML Service Provider (SP) en is afhankelijk van een externe identiteitsprovider (IdP) om gebruikers te verifiëren.
+Marketo functioneert als SAML Service Provider (SP) en is afhankelijk van een externe identiteitsprovider (IdP) om gebruikers te verifiëren.
 
-Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestigen. Wanneer een gebruiker de software van het Marketo wenst te gebruiken, verzendt IdP dan een ondertekend bericht van SAML naar Marketo, handelend als SP. Dit bericht vouwt aan Marketo dat de gebruiker wordt gemachtigd om de software van Marketo te gebruiken.
+Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestigen. Wanneer een gebruiker de software van Marketo wil gebruiken, verzendt IdP dan een ondertekend bericht van SAML naar Marketo, handelend als SP. Dit bericht vouwt aan Marketo dat de gebruiker wordt gemachtigd om de software van Marketo te gebruiken.
 
 >[!NOTE]
 >
@@ -32,19 +32,19 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 * Verzend het verzoek SSO, dat een reactie van SAML is, naar `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
 * Als Publiek URL van SP. `https://saml.marketo.com/sp` gebruiken
 * Als u het SPNameQualifier attribuut gebruikt, plaats het element NameID voor Onderwerp aan `https://saml.marketo.com/sp`
-* Als u veelvoudige abonnementen van de Marketo aan de zelfde leverancier SSO federaliseert, kunt u unieke URL van SP voor elke Marketo gebruiken sub met het formaat `https://saml.marketo.com/sp/<munchkin_id>`
+* Als u meerdere Marketo-abonnementen aan dezelfde SSO-provider koppelt, kunt u unieke SP-URL&#39;s gebruiken voor elk Marketo-sub met de notatie `https://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
->Marketo ondersteunt alleen Identiteitsprovider-gestarte (ook wel IdP-gestarte genoemd), waarin de gebruiker eerst de aanmeldingspagina IDP start, verifieert en vervolgens naar Mijn Marketo navigeert.
+>Marketo ondersteunt alleen door Identity Provider geïnitieerde (ook wel IdP-geïnitieerd genoemd), waarbij de gebruiker eerst de aanmeldingspagina IDP start, verifieert en vervolgens naar My Marketo navigeert.
 
 ## Aanvullende notities {#additional-notes}
 
 * **Synchronisatietijd**  - Voor een nieuwe gebruiker is er ongeveer een vertraging van 10 minuten voordat een eerste SSO-aanvraag wordt verwerkt.
-* **Gebruikersinrichting**  - Gebruikers worden handmatig geleverd door Marketo.
+* **Gebruikersinrichting**  - Gebruikers worden handmatig door Marketo ingericht.
 * **Autorisatie**  - Gebruikersmachtigingen blijven behouden in Marketo.
 * **OAuth-ondersteuning**  - Marketo biedt momenteel geen ondersteuning voor OAuth.
-* **Automatische doorgave**  van de Gebruiker - ook gekend als &quot;enkel in de Levering van de Tijd,&quot;is dit wanneer eerste login van SAML van een gebruiker in staat is om de gebruiker in om het even welke Webtoepassing tot stand te brengen zij (b.v., Marketo) toegang hebben en geen handbeheeractie wordt vereist. Dit wordt momenteel niet ondersteund door Marketo.
+* **Automatische gebruikersdoorgave**  - Wordt ook wel &#39;&#39;Just in Time Provisioning&#39;&#39; genoemd. Dit is wanneer de eerste SAML-aanmelding van een gebruiker de gebruiker kan maken in elke webtoepassing die hij of zij benadert (bijvoorbeeld Marketo) en er geen handmatige beheeractie is vereist. Dit wordt momenteel niet ondersteund door Marketo.
 * **Codering**  - Marketo biedt momenteel geen ondersteuning voor codering.
 
 >[!NOTE]
@@ -61,7 +61,7 @@ SSO is standaard uitgeschakeld. Volg deze stappen om SAML toe te laten en het te
 
    >[!NOTE]
    >
-   >Als u **Single Sign-On** onder **Admin** niet ziet, contacteer [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Als u **Single Sign-On** niet ziet onder **Admin**, contacteer [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Klik onder de sectie **SAML Settings** op **Edit**.
 
