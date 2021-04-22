@@ -2,14 +2,14 @@
 unique-page-id: 1147027
 description: Persoon synchroniseren naar SFDC - Marketo Docs - Productdocumentatie
 title: Persoon synchroniseren naar SFDC
+exl-id: 4284ec35-6ac5-4084-beb7-976eb6fd7e3c
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
-
 
 # Persoon synchroniseren naar SFDC {#sync-person-to-sfdc}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Overzicht {#overview}
 
-Met deze stroomstap worden personen die door Marketo zijn gemaakt als leads in uw Salesforce CRM ingevoegd.
+Deze stroomstap zal Marketo-gecreeerde mensen als lood in uw Salesforce CRM opnemen.
 
 ![](assets/sync-person-to-sfdc.png)
 
