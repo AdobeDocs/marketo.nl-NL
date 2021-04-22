@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949220
-description: SEO - Notities toevoegen aan paginaproblemen - Marketo Docs - Productdocumentatie
+description: SEO - Opmerkingen toevoegen aan pagina-problemen - Marketo Docs - Productdocumentatie
 title: SEO - Notities toevoegen aan pagina-problemen
+exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Notities toevoegen aan pagina-problemen {#seo-add-notes-to-page-issues}
 
