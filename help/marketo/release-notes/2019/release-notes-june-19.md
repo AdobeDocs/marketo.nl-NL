@@ -1,19 +1,19 @@
 ---
 unique-page-id: 18874822
-description: Opmerkingen bij de release - Juni '19 - Marketo Docs - Productdocumentatie
+description: Opmerkingen bij de release - 19 juni - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni '19
+exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '631'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: 19 juni {#release-notes-june}
 
-De volgende functies zijn opgenomen in de release van 19 juni. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van 19 juni. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 **_Kwartaalreleases_**
 
@@ -30,7 +30,7 @@ De volgende functies zijn uitgebracht op 14 juni 2019.
 
 ## Op account gebaseerde marketing {#account-based-marketing}
 
-* **LinkedIn Account Matching (BETA)** : Een nieuw ABM vermogen is nu beschikbaar in bèta, die u de capaciteit biedt om lijsten van bekende en whitespace rekeningen rechtstreeks van Marketo naar LinkedIn te verzenden. Deze functionaliteit wordt automatisch opgenomen voor alle klanten van Marketo ABM.
+* **Overeenkomende linkedIn-account (BETA)** : Er is nu een nieuwe ABM-functie beschikbaar in de bètaversie, waarmee u lijsten met bekende accounts en accounts voor witruimte rechtstreeks van Marketo naar LinkedIn kunt verzenden. Deze functionaliteit wordt automatisch opgenomen voor alle Marketo ABM-klanten.
 
 <br> 
 
@@ -49,7 +49,7 @@ De volgende functies zullen naar verwachting gedurende het tweede kalenderkwarta
 * **Weergaven** E-mail, Openingspagina, Fragment, Formulier, Afbeelding en Bestandslijst: Bekijk, zoek, en neem massaacties op om het even welk van uw activa in de Studio van het Ontwerp.
 * **Pagina met details over afbeeldingen, bestanden en fragmenten**: U kunt snelle informatie over uw middelen verkrijgen met metagegevens, zoals  _gemaakt op/_ byand-handelingen, zoals  __ verwijderen en  _goedkeuren_.
 * **Widget** Communityblogberichten: Toegang tot recente posten van de Gemeenschap in Mijn Marketo.
-* **Widget** Soon vervalt: Voeg de widget &quot;Binnenkort vervallen&quot; toe aan het dashboard Mijn Marketo om te zien welke campagnes en bestemmingspagina&#39;s volgende verlopen.
+* **Widget** Soon vervalt: Voeg de widget &quot;Binnenkort vervallen&quot; toe aan het dashboard van Mijn Marketo om te zien welke campagnes en bestemmingspagina&#39;s volgende verlopen.
 * **Meer slimme lijstkaarten**: Segment en doel geschikt met extra slimme lijstkaarten, met inbegrip van de de stroomstap van de &quot;Taak&quot;van de Maken, de slimme lijstregels van CRM, en meer.
 * **Pagina** met details over e-mailkampioenschappen/challenger: Zie gegevens zoals winnende criteria, gemaakt op, enz. van uw e-mailkampioen/challenger testen.
 
