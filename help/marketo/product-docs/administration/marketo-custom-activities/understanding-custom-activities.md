@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10100266
-description: Aangepaste activiteiten begrijpen - Marketo Docs - Productdocumentatie
+description: Inzicht krijgen in aangepaste activiteiten - Marketo Docs - Productdocumentatie
 title: Aangepaste activiteiten begrijpen
+exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
-
 
 # Aangepaste activiteiten {#understanding-custom-activities}
 
@@ -17,11 +17,11 @@ Houd een actie bij die iemand specifiek voor uw bedrijf heeft ondernomen met aan
 
 **Wat zijn activiteiten?**
 
-Er zijn verschillende manieren waarop een persoon kan communiceren met uw organisatie. Ze kunnen de website van uw bedrijf bezoeken, een van uw winkels bijwonen of op een koppeling klikken in een e-mail die u ze hebt verzonden. Deze acties zijn activiteiten, en welke actie zij, Marketo nemen vangen het zodat kan uw Team van de Marketing beter begrijpen hoe te om hen te verzenden geschikte en relevante mededeling.
+Er zijn verschillende manieren waarop een persoon kan communiceren met uw organisatie. Ze kunnen de website van uw bedrijf bezoeken, een van uw winkels bijwonen of op een koppeling klikken in een e-mail die u ze hebt verzonden. Deze acties zijn activiteiten, en welke actie zij ook nemen, Marketo vangt het zodat kan uw Marketing Team beter begrijpen hoe te om hen te verzenden geschikte en relevante mededeling.
 
 **Aangepaste activiteiten**
 
-Met aangepaste activiteiten kunt u een activiteit bijhouden die niet gerelateerd is aan een Marketo-formulier, e-mail of landingspagina. Wil je volgen wanneer iemand een cheque opslaat? Gebruik een aangepaste activiteit. Wilt u tabs bijhouden wanneer iemand een webinar bijwoont? Gebruik een aangepaste activiteit.
+Met aangepaste activiteiten kunt u een activiteit volgen die niet gerelateerd is aan een Marketo-formulier, e-mail of landingspagina. Wil je volgen wanneer iemand een cheque opslaat? Gebruik een aangepaste activiteit. Wilt u tabs bijhouden wanneer iemand een webinar bijwoont? Gebruik een aangepaste activiteit.
 
 >[!NOTE]
 >
