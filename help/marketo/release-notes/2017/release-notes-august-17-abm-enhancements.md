@@ -2,18 +2,18 @@
 unique-page-id: 12980785
 description: Opmerkingen bij de release -August '17 ABM Enhancements - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - Verbeteringen voor ABM in augustus '17
+exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Augustus &#39;17 ABM Verbeteringen {#release-notes-august-abm-enhancements}
 
-De volgende functies zijn opgenomen in de ABM-verbeteringsrelease van augustus 17. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de ABM-verbeteringsrelease van augustus 17. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven.
 
