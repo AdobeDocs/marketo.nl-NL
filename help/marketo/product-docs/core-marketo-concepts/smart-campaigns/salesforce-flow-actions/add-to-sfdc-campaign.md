@@ -2,14 +2,14 @@
 unique-page-id: 1147034
 description: Toevoegen aan SFDC-campagne - Marketo Docs - Productdocumentatie
 title: Toevoegen aan SFDC-campagne
+exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
-
 
 # Toevoegen aan SFDC-campagne {#add-to-sfdc-campaign}
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ## Overzicht {#overview}
 
-Deze flowstap kan worden gebruikt in Marketo-campagnes of als een enkele flowstap om mensen als leider toe te voegen in een Salesforce-campagne. Als de lead nog niet bestaat in Salesforce, wordt deze automatisch gesynchroniseerd en met de opgegeven status toegevoegd aan de campagne.
+Deze flowstap kan worden gebruikt in Marketo-campagnes of als een enkele flowstap om mensen toe te voegen als leider in een Salesforce-campagne. Als de lead nog niet bestaat in Salesforce, wordt deze automatisch gesynchroniseerd en met de opgegeven status toegevoegd aan de campagne.
 
 ![](assets/image2014-9-22-15-3a43-3a36.png)
 
