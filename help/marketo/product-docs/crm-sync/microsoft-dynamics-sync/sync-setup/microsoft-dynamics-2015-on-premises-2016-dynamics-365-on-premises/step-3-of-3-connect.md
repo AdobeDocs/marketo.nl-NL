@@ -1,22 +1,22 @@
 ---
 unique-page-id: 7504744
-description: Marketo installeren voor Dynamics 2015 On-Prem en 2016 365 On-Prem Stap 3 van 3 - Marketo Docs - Productdocumentatie
-title: Marketo installeren voor Dynamics 2015 On-Prem en 2016 365 On-Prem Step 3 van 3
+description: Marketo for Dynamics 2015 On-Prem en 2016 365 On-Prem Stap 3 van 3 - Marketo Docs - Productdocumentatie installeren
+title: Marketo for Dynamics 2015 On-Prem en 2016 365 On-Prem Step 3 van 3 installeren
+exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
 
 ---
 
-
 # Stap 3 van 3: Connect Marketo Dynamics (2015 On-Prem en 2016 365 On-Prem) {#step-of-connect-marketo-dynamics-on-premises-and-365}
 
 >[!PREREQUISITES]
 >
->* [Marketo installeren voor Dynamics 2015 On-Prem en 2016 365 On-Prem Stap 1 van 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
->* [Marketo installeren voor Dynamics 2015 On-Prem en 2016 365 On-Prem Step 2 of 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+>* [Marketo for Dynamics 2015 On-Prem en 2016 365 On-Prem Stap 1 van 3 installeren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [Marketo for Dynamics 2015 On-Prem en 2016 365 On-Prem Step 2 of 3 installeren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -43,7 +43,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw abonnement op Marketo aanvragen.
+   >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw Marketo-abonnement aanvragen.
 
 1. Voer **Gebruikersnaam**, **Wachtwoord** een Dynamiek van Microsoft **URL**, en een **Cliënt ID/Geheim** in. Klik **Opslaan** wanneer gereed.
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >* Als uw Marketo vóór Oktober 2020 was provisioned, zijn identiteitskaart van de Cliënt en Geheim facultatieve gebieden. Anders zijn ze verplicht. Het verkrijgen van deze informatie zal afhangen van welke versie van MSD u gebruikt.
+   >* Als uw Marketo vóór oktober 2020 is ingericht, zijn Client ID en Secret optionele velden. Anders zijn ze verplicht. Het verkrijgen van deze informatie zal afhangen van welke versie van MSD u gebruikt.
    >* De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan `user@domain.com` of DOMAIN\user zijn.
    >* Als u URL niet kent, [leer hoe te om het hier te vinden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
@@ -98,7 +98,7 @@ Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe ve
 
    >[!CAUTION]
    >
-   >Marketo wordt niet automatisch gedecomprimeerd tegen een synchronisatie van Microsoft Dynamics of wanneer u handmatig personen invoert.
+   >Marketo wordt niet automatisch gedegradeerd tegen een synchronisatie van Microsoft Dynamics of wanneer u handmatig personen invoert.
 
 1. Lees alles in pop-up, ga uw e-mail in, en klik **Begin Synchronisatie**.
 
