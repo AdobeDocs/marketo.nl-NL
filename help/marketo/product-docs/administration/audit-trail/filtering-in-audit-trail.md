@@ -2,14 +2,14 @@
 unique-page-id: 11378468
 description: Filteren in audittrail - Marketo Docs - Productdocumentatie
 title: Filteren in audittrail
+exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Filteren in audittrail {#filtering-in-audit-trail}
 
@@ -55,7 +55,7 @@ Filter op tijdkader, type element, gebruikers, actie uitgevoerd en meer.
 
    >[!NOTE]
    >
-   >Als u werkruimten hebt ingeschakeld, ziet u controlegegevens voor alle werkruimten. Als u een werkruimtfilter toepast, onthoudt Marketo de vorige werkruimtewaarde telkens als u audittrail gebruikt. Werkruimtemachtigingen op elementniveau worden afgedwongen.
+   >Als u werkruimten hebt ingeschakeld, ziet u controlegegevens voor alle werkruimten. Als u een werkruimtefilter toepast, onthoudt Marketo de vorige werkruimtewaarde telkens als u audittrail gebruikt. Werkruimtemachtigingen op elementniveau worden afgedwongen.
 
    >[!MORELIKETHIS]
    >
