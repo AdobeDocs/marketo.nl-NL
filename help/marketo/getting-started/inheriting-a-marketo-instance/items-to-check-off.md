@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7516605
-description: Te controleren items - Marketo Docs - Productdocumentatie
+description: Te controleren items - Marketo-documenten - Productdocumentatie
 title: Te controleren items
+exl-id: fd20fbcf-3690-41da-94fa-b40f32a0b251
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # Uit te checken items {#items-to-check-off}
 
@@ -23,7 +23,7 @@ Zorg ervoor u behoorlijk opstelling met de juiste soorten toegang en informatie 
 
 * Leer hoe te met [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community) gemeenschap in dienst te nemen om antwoorden op uw vragen te krijgen.
 
-* Klik **Uw Plaatsen** op uw de communautaire profiel van de Natie van het Marketo om de Pagina van de Rekening van uw bedrijf uit te checken.
+* Klik op **Uw plaatsen** in het profiel van de Marketo Nation-community om de accountpagina van uw bedrijf uit te checken.
 
 * Leer hoe te [**een steungeval**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201) indienen (en bevestig u [**opstelling als geoorloofde steuncontact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341)) bent.
 
