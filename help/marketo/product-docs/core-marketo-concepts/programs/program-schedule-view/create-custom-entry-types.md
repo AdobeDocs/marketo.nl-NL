@@ -2,18 +2,18 @@
 unique-page-id: 1147245
 description: Aangepaste invoertypen maken - Marketo Docs - Productdocumentatie
 title: Aangepaste invoertypen maken
+exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-
 # Aangepaste invoertypen maken {#create-custom-entry-types}
 
-U kunt de types van douaneingang tot stand brengen in uw Mening van het Programma te gebruiken. Hierdoor kunt u alle agendapunten bijhouden die niet van invloed zijn op uw programma.
+U kunt de types van douaneingang tot stand brengen in uw Mening van het Programma te gebruiken. Hierdoor kun je alle agendapunten volgen die niet van invloed zijn op je programma.
 
 1. Ga naar **Admin** sectie en klik **Markeringen**.
 
