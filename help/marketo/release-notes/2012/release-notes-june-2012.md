@@ -2,18 +2,18 @@
 unique-page-id: 2951114
 description: Opmerkingen bij de release - juni 2012 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni 2012
+exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Juni 2012 {#release-notes-june}
 
-## Verbeteringen in markttoonbeheer {#marketo-lead-management-enhancements}
+## Verbeteringen voor Marketo-beheer van leads {#marketo-lead-management-enhancements}
 
 ### Naam wijzigen {#rename}
 
@@ -25,9 +25,9 @@ En als bonus verbeterden we het invoeren en bekijken van beschrijvende tekst voo
 
 ## Veld-toewijzing importeren {#import-field-mapping}
 
-We hebben het importeren van een lijst in Marketo veel eenvoudiger gemaakt! Tijdens het importeren kunt u de naam van het veld Marketo toewijzen aan de kolomkopnaam in het importbestand. Bovendien kunt u in Admin aliasnamen instellen die zijn toegewezen aan de veldnaam in Marketo, zodat uw gebruikers altijd het juiste veld selecteren.
+We hebben het importeren van een lijst naar Marketo veel eenvoudiger gemaakt! Tijdens het importeren kunt u de naam van het Marketo-veld toewijzen aan de kolomkopnaam in het importbestand. Bovendien kunt u in Admin aliasnamen instellen die zijn toegewezen aan de veldnaam in Marketo, zodat uw gebruikers altijd het juiste veld selecteren.
 
-Als u door gaat met het importeren en toewijzen van velden, onthoudt en toont Marketo de toewijzingen tijdens het importeren, voor meer gebruiksgemak. En om het leven nog gemakkelijker te maken, kunt u de kopbal van de Waarde van de Steekproef klikken om de verschillende waarden te zien die op het gebied zouden bevolken. Zo weet u zeker dat u het juiste veld steeds in kaart brengt!
+Als u door gaat met het importeren en toewijzen van velden, onthoudt Marketo de toewijzingen en geeft het deze weer tijdens het importeren, voor meer gebruiksgemak. En om het leven nog gemakkelijker te maken, kunt u de kopbal van de Waarde van de Steekproef klikken om de verschillende waarden te zien die op het gebied zouden bevolken. Zo weet u zeker dat u het juiste veld steeds in kaart brengt!
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
@@ -79,7 +79,7 @@ Opmerking: Vanaf deze release wordt vorige sortering op slimme-lijstrasters niet
 
 Herinnering: E-mailprestatierapport wordt bijgewerkt.
 
-## Verbeteringen voor analyse van Marketo-omzetcyclus {#marketo-revenue-cycle-analytics-enhancements}
+## Verbeteringen voor Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics-enhancements}
 
 ### Nieuwe metriek in de Analyse van de Kans van het Programma {#new-metrics-in-program-opportunity-analysis}
 
