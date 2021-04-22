@@ -2,14 +2,14 @@
 unique-page-id: 7515767
 description: Segmenten delen op werkruimten en partities - Marketo Docs - Productdocumentatie
 title: Segmenten delen over werkruimten en partities
+exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
 
 ---
-
 
 # Segmenten delen over werkruimten en partities {#share-segmentations-across-workspaces-and-partitions}
 
@@ -29,7 +29,7 @@ Zodra u deze persona opstelling (_en_ hebt u werkruimten gebruikt), zult u hen o
 
 ## Regels en tips {#rules-tips}
 
-* Elk Marketo-abonnement kan maximaal 20 segmenten &quot;totaal&quot; bevatten in meerdere werkruimten (**niet 20 per werkruimte**).
+* Elk Marketo-abonnement kan maximaal 20 segmenten &quot;totaal&quot; bevatten voor meerdere werkruimten (**niet 20 per werkruimte**).
 * U kunt een Segmentatie met werkruimten slechts delen die u toegang tot hebt.
 * Zorg ervoor om een **Standaardwerkruimte te creëren en te gebruiken die zicht in alle verdelingen** heeft.
 
@@ -82,6 +82,6 @@ Zodra u deze persona opstelling (_en_ hebt u werkruimten gebruikt), zult u hen o
 
    >[!NOTE]
    >
-   >In het dialoogvenster worden de werkruimten weergegeven die u kunt weergeven. Marketo raadt u daarom aan om Segmentaties te maken en te delen vanuit de werkruimte Standaard die zichtbaar is in alle werkruimten en partities.
+   >In het dialoogvenster worden de werkruimten weergegeven die u kunt weergeven. Daarom wordt u aangeraden om in de werkruimte Standaard segmentaties te maken en te delen die zichtbaar zijn in alle werkruimten en partities.
 
 De voortkomende omslag toont in de boom van het Gegevensbestand met een pijl erop wijst die dat het met andere werkruimten wordt gedeeld. Vanuit de gedeelde werkruimte wordt in de map een vergrendeling weergegeven om aan te geven dat de inhoud van de map is gedeeld vanuit een andere werkruimte en alleen-lezen is.
