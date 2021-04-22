@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6848747
-description: Beschrijvingen van Rolmachtigingen - Marketo Docs - Productdocumentatie
+description: Beschrijvingen van roltoestemmingen - de Documenten van Marketo - de Documentatie van het Product
 title: Beschrijvingen van rolmachtigingen
+exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 0%
 
 ---
 
-
 # Beschrijvingen van roltoestemmingen {#descriptions-of-role-permissions}
 
-Hieronder volgt een lijst van alle beschikbare toestemmingen die u aan uw rollen kunt toewijzen. Machtigingen zijn over het algemeen gekoppeld aan specifieke functionele gebieden binnen Marketo en kunnen u helpen bepalen tot welke gebieden en functionaliteit verschillende gebruikers toegang hebben.
+Hieronder volgt een lijst van alle beschikbare toestemmingen die u aan uw rollen kunt toewijzen. Machtigingen zijn over het algemeen gekoppeld aan specifieke functionele gebieden in Marketo en kunnen u helpen bepalen tot welke gebieden en functionaliteit verschillende gebruikers toegang hebben.
 
 Aanvullende informatie over machtigingen:
 
@@ -44,8 +44,8 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 * Toegangslocatie - Gebruikers hebben toegang tot de locatie in Admin voor het instellen van de standaardtaal, -landinstelling, -tijdzone en -valuta
 * Toegangsgeschiedenis voor aanmelding - geeft gebruikers toegang tot registratiegeschiedenis van gebruiker in audittrail
 * De Montages van de Login van de toegang - verleent gebruikers toegang tot Login Montages in Admin voor Veiligheid, IP Beperkingen, en de Slimme montages van het Rapport van de Lijst
-* Toegang tot aangepaste markttoegang - geeft gebruikers toegang tot aangepaste marktactiviteiten in Admin
-* Toegang tot aangepast object markeren - geeft gebruikers toegang tot aangepaste objecten Marketo in Admin
+* Toegang tot aangepaste Marketo-activiteiten - geeft gebruikers toegang tot aangepaste Marketo-activiteiten in Admin
+* Toegang tot aangepast Marketo-object - geeft gebruikers toegang tot aangepaste Marketo-objecten in Admin
 * Toegang tot Munchkin - Met GI krijgen gebruikers toegang tot Munchkin in Admin, voor het instellen van trackingcode, het bijhouden van personen en het inschakelen van API-configuratie
 * De Analyse van de Cyclus van de Opbrengst van de toegang - geeft gebruikers toegang tot de Analytics van de Cyclus van de Opbrengst in Admin, voor het plaatsen van Samenvatting en Attributie van de Synchronisatie
 * De Rollen van de toegang - verleent gebruikers toegang om rollen te beheren en uit te geven, maar niet gebruikers
