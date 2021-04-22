@@ -1,14 +1,14 @@
 ---
 description: Overzicht van de synchronisatie van campagnes - Marketo Docs - Productdocumentatie
 title: Overzicht Campagne Sync
+exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 translation-type: tm+mt
-source-git-commit: c68fe240d9447f9c217dcb258f0dae63c17d37f9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # Overzicht van de synchronisatie van campagnes {#campaign-sync-overview}
 
@@ -16,7 +16,7 @@ Als onderdeel van Campagne Sync, kunnen de gebruikers opstelling automatisering 
 
 >[!PREREQUISITES]
 >
->Update aan de recentste versie van het elektrische toestel van de Dynamiek voor Marketo.
+>Update naar de nieuwste versie van de insteekmodule Dynamics voor Marketo.
 
 De volgende stroomhandelingen zijn beschikbaar:
 
@@ -25,14 +25,14 @@ De volgende stroomhandelingen zijn beschikbaar:
 
 >[!NOTE]
 >
->**Verwijderen uit Microsoft** Campaignement zal slechts mensen verwijderen die gebruikend stroomacties in Marketo werden toegevoegd.
+>**Verwijderen uit Microsoft** Campaignement verwijdert alleen mensen die zijn toegevoegd met behulp van flowhandelingen in Marketo.
 
 Er zijn ook twee triggers:
 
 * Toegevoegd aan Microsoft-campagne
 * Verwijderd uit Microsoft-campagne
 
-De triggers worden uitgevoerd op basis van acties van de actie Marketo Flow &quot;Add to Microsoft Campaign&quot; en &quot;Removed from Microsoft Campaign&quot;.
+De triggers worden uitgevoerd op basis van acties van de Marketo Flow Action &quot;Add to Microsoft Campaign&quot; en &quot;Removed from Microsoft Campaign&quot;.
 
 >[!NOTE]
 >
