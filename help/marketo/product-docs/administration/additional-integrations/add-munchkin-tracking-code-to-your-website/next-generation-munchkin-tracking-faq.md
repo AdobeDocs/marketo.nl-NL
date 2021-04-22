@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10096583
-description: Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie - Marketo Docs - Productdocumentatie
+description: Veelgestelde vragen over MUNCHKkin-tracking van de volgende generatie - Marketo-documenten - Productdocumentatie
 title: Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie
+exl-id: 283189ac-c817-479a-b896-91233980608c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '733'
 ht-degree: 0%
 
 ---
-
 
 # Veelgestelde vragen {#next-generation-munchkin-tracking-faq} over het bijhouden van Munchkin van de volgende generatie
 
@@ -37,7 +37,7 @@ Nee. De code voor het bijhouden van de Munchkin-code blijft ongewijzigd. U hoeft
 
 We veranderden hoe anonieme mensen interageren met slimme campagnes. Vroeger gingen ze door een slimme campagne, net als bekende mensen. Het filter &quot;Is Anoniem&quot;werd gebruikt om te specificeren dat slechts bekende of slechts anonieme mensen door de campagne stromen.
 
-Met Munchkin V2 zullen we alle anonieme activiteiten blijven volgen. u kunt echter geen filters meer toepassen op anonieme personen . Op het punt van omzetting (wanneer de persoon in Marketo gekend wordt), worden alle activiteiten die plaatsvonden toen de persoon anoniem was toegevoegd aan het activiteitenlogboek van de persoon en op dit ogenblik stromen zij door de campagnes die zij voor kwalificeren.
+Met Munchkin V2 zullen we alle anonieme activiteiten blijven volgen. u kunt echter geen filters meer toepassen op anonieme personen . Op het moment van omzetting (wanneer de persoon in Marketo bekend wordt) worden alle activiteiten die plaatsvonden toen de persoon anoniem was, toegevoegd aan het activiteitenlogboek van de persoon en op dit moment stromen zij door de campagnes waarvoor zij in aanmerking komen.
 
 Als u dit filter al in een Slimme Lijst (bijvoorbeeld, in een Slimme Campagne of een Rapport) gebruikt, wordt het niet automatisch verwijderd uit de Slimme Lijst. Zie hieronder voor meer informatie.
 
@@ -80,7 +80,7 @@ Bekijk de volgende koppelingen:
 
 [Overzicht van anonieme leads](https://nation.marketo.com/docs/DOC-2937)
 
-[Anonieme lead-upgrades - wijzigingen in gebruikersinterface van Marketo](https://nation.marketo.com/docs/DOC-2938)
+[Anonieme lead-upgrades - Wijzigingen in Marketo-gebruikersinterface](https://nation.marketo.com/docs/DOC-2938)
 
 [Anonieme hoofdupgrades - actie van de klant vereist](https://nation.marketo.com/docs/DOC-2939)
 
