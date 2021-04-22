@@ -2,14 +2,14 @@
 unique-page-id: 4719287
 description: Aanvankelijke veldtoewijzingen bewerken - Marketo Docs - Productdocumentatie
 title: Aanvankelijke veldtoewijzingen bewerken
+exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
-
 
 # Eerste veldtoewijzingen bewerken {#edit-initial-field-mappings}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Deze functie is alleen toegankelijk voor de eerste synchronisatie met Salesforce. Wanneer op de knop **Nu synchroniseren** is gedrukt, kan dit niet meer worden gedaan.
 
-Tijdens de eerste synchronisatie met Salesforce combineert Marketo automatisch aangepaste velden met dezelfde naam tot één veld aan de kant Marketo om ervoor te zorgen dat de gegevens kunnen worden uitgewisseld met objecten Lead en Contact in de CRM. In dit artikel wordt uitgelegd hoe u deze toewijzingen kunt aanpassen.
+Tijdens de eerste synchronisatie met Salesforce combineert Marketo automatisch aangepaste velden met dezelfde naam tot één veld aan Marketo-zijde, zodat de gegevens kunnen worden uitgewisseld met objecten Lead en Contact in de CRM. In dit artikel wordt uitgelegd hoe u deze toewijzingen kunt aanpassen.
 
 ## Niet-toegewezen velden toewijzen {#map-unmapped-fields}
 
@@ -45,7 +45,7 @@ Wanneer u een veld ziet in de map Niet-toegewezen velden, betekent dit dat het v
 
 ## Bestaande toewijzing {#break-existing-mapping} verbreken
 
-Als u velden met dezelfde naam op de lead en het contactobject Marketo hebt, worden deze automatisch aan elkaar toegewezen. U kunt ze anders vinden en verschillende gegevens bevatten. Breek de afbeelding zo uit.
+Als u velden met dezelfde naam op de lead en het contactobject hebt, wijst Marketo deze automatisch toe. U kunt ze anders vinden en verschillende gegevens bevatten. Breek de afbeelding zo uit.
 
 1. Klik **Toewijzingen bewerken**.
 
