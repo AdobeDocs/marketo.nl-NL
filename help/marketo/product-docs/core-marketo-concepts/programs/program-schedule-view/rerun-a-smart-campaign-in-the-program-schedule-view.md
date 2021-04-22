@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953331
-description: Voer een slimme campagne opnieuw uit in de overzichtsweergave van het programma - Marketo Docs - Productdocumentatie
+description: Voer een slimme campagne opnieuw uit in de programmaweergave - Marketo Docs - Productdocumentatie
 title: Voer een slimme campagne opnieuw uit in de overzichtsweergave van het programma
+exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # Voer een slimme campagne opnieuw uit in de Mening {#rerun-a-smart-campaign-in-the-program-schedule-view} van het Programma
 
