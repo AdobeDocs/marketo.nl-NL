@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359918
-description: Instellingen voor openingspagina bewerken - Marketo-documenten - Productdocumentatie
+description: Instellingen voor openingspagina bewerken - Marketo Docs - Productdocumentatie
 title: Instellingen openingspagina bewerken
+exl-id: 019b4651-3a66-46f9-8722-66af30194380
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
 
 ---
-
 
 # Instellingen voor openingspagina {#edit-landing-page-settings} bewerken
 
@@ -41,7 +41,7 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
 
    ![](assets/four.png)
 
-1. Als u wilt voorkomen dat een kwaadaardige site uw inhoud lijkt te hosten, schakelt u het selectievakje **Marketo-pagina&#39;s niet insluiten in externe webpagina&#39;s** in.
+1. Als u wilt voorkomen dat een kwaadaardige site uw inhoud lijkt te hosten, schakelt u het selectievakje **Marketo-pagina&#39;s niet mogen worden ingesloten in externe webpagina&#39;s** in.
 
    ![](assets/five.png)
 
@@ -49,7 +49,7 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
    >
    >Als u wilt dat de prefill `<script>` markering aan het eind van `<head>` markering in de code verschijnt, controleer **Spuit Prefill Script aan Eind van Hoofd** doos. Laat deze optie uitgeschakeld als u deze aan het begin wilt weergeven.
    >
-   >Schakel **Standaardfavicon-koppelingen verwijderen** in om te voorkomen dat Marketo-koppelingen in de code invoegt.
+   >Schakel **Standaardfavicon-koppelingen verwijderen** in om te voorkomen dat Marketo onderliggende koppelingen invoegt in de code.
 
 1. Na het maken van uw selecties klikt u op **Opslaan.**
 
