@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11380218
-description: Opmerkingen bij de release - zomer 16 - Marketo Docs - Productdocumentatie
+description: Opmerkingen bij de release - zomer 16 - Marketo Docs - productdocumentatie
 title: Opmerkingen bij de release - zomer 16
+exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Zomer &#39;16 {#release-notes-summer}
 
-De volgende functies zijn opgenomen in de release van zomer 16. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid. Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven.
+De volgende functies zijn opgenomen in de release van zomer 16. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies. Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven.
 
 ## [Op account gebaseerde marketing](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
 
-Marketo Account Based Marketing biedt alle essentiële elementen in één uniform platform:
+Op Marketo-account gebaseerde marketing biedt alle basisprincipes in één uniform platform:
 
 * **Doel**  - Accountdetectie, &#39;lead-to-account&#39;-overeenkomst en accountlijsten met namen
 * **Betrokkenheid**  - Op account-gebaseerde personalisatie, de betrokkenheid tussen verschillende kanalen en accountspecifieke workflows
@@ -27,11 +27,11 @@ Marketo Account Based Marketing biedt alle essentiële elementen in één unifor
 
 >[!NOTE]
 >
->ABM is beschikbaar als een invoegtoepassing voor uw abonnement op Marketo. Neem daarom contact op met uw vertegenwoordiger om het te laten implementeren.
+>ABM is beschikbaar als een invoegtoepassing voor uw Marketo-abonnement. Neem daarom contact op met uw verkoper om het te laten implementeren.
 
 ## [Audittrail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
-Het spoor van de controle verstrekt een uitvoerige geschiedenis van de veranderingen die binnen uw abonnement van Marketo worden aangebracht. Het zal verantwoordingsplicht onder gebruikers en beheerders tot stand brengen, hulp de oorzaak van onverwacht gedrag identificeren, en de veiligheid van het weten verstrekken wie doet wat en wanneer. Deze informatie zal op elk ogenblik beschikbaar zijn en kan worden gebruikt om vragen zoals te beantwoorden:
+Het audittrail biedt een uitgebreide geschiedenis van de wijzigingen die zijn aangebracht in uw Marketo-abonnement. Het zal verantwoordingsplicht onder gebruikers en beheerders tot stand brengen, hulp de oorzaak van onverwacht gedrag identificeren, en de veiligheid van het weten verstrekken wie doet wat en wanneer. Deze informatie zal op elk ogenblik beschikbaar zijn en kan worden gebruikt om vragen zoals te beantwoorden:
 
 * Wat is er gebeurd met dit middel of deze instelling en wie heeft deze voor het laatst bijgewerkt?
 * Wat heeft gebruiker X bereikt?
@@ -41,7 +41,7 @@ Het spoor van de controle verstrekt een uitvoerige geschiedenis van de veranderi
 
 ## [Marketo-Vibes SMS LaunchPoint Integration](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
 
-Maak eenvoudig sms-berichten rechtstreeks in Marketo. Personaliseer en richt uw bericht gebruikend uw rijke gegevens van de Marketo, en controleer gemakkelijk zijn prestaties gebruikend het het berichtdashboard van SMS.
+Maak eenvoudig SMS-berichten in Marketo. Pas uw bericht aan met uw rijke Marketo-gegevens en controleer de prestaties eenvoudig met het SMS-berichtendashboard.
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ Gebruik de nieuwe zoekfunctionaliteit om op efficiënte wijze inhoud in de code 
 
 **Tokenondersteuning in afbeeldingselementen**
 
-Tokens kunnen nu worden gebruikt in het gebied Externe URL van de ervaring bij het invoegen van afbeeldingen! Als u afbeeldingen hebt opgegeven met `{{my.tokens}}`, kunt u nu naar deze tokens verwijzen in e-maileditor 2.0. De afbeelding wordt nog steeds verbroken weergegeven in het canvas van de e-maileditor 2.0. U ziet ze echter wel weergegeven in Voorbeeld en Voorbeeld verzenden voordat u uw e-mail verzendt.
+Tokens kunnen nu worden gebruikt in het gebied Externe URL van de ervaring bij het invoegen van afbeeldingen. Als u afbeeldingen hebt opgegeven met `{{my.tokens}}`, kunt u nu naar deze tokens verwijzen in e-maileditor 2.0. De afbeelding wordt nog steeds verbroken weergegeven in het canvas van de e-maileditor 2.0. U ziet ze echter wel weergegeven in Voorbeeld en Voorbeeld verzenden voordat u uw e-mail verzendt.
 
 ## Meerdere brandingdomeinen {#multiple-branding-domains}
 
@@ -86,7 +86,7 @@ We hebben een nieuw tokentype voor programma&#39;s gemaakt. U kunt de Naam, de B
 
 ## [Enterprise Key](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-Het kan vervelend zijn elke persoon op uw verkoopteam te vereisen om onze Inzicht van de Verkoop voor Vooruitzichten te installeren. We hebben een nieuwe manier geïntroduceerd om de insteekmodule voor Outlook extern te installeren met behulp van een bedrijfssleutel. Stuur uw IT-team de unieke sleutel die u vindt in het gedeelte Marktgegevens voor verkoopgegevens van Admin en laat ze de rest uitvoeren.
+Het kan vervelend zijn elke persoon op uw verkoopteam te vereisen om onze Inzicht van de Verkoop voor Vooruitzichten te installeren. We hebben een nieuwe manier geïntroduceerd om de insteekmodule voor Outlook extern te installeren met behulp van een bedrijfssleutel. Stuur uw IT-team de unieke sleutel die u vindt in de sectie Marketo Sales Insight van Admin en laat ze de rest uitvoeren.
 
 ![](assets/enterprise-key.png)
 
@@ -110,6 +110,6 @@ Nieuw en verbeterd!
 
 ## [Privacy-instellingen](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Marketers kunnen privacy-instellingen gebruiken om te beslissen of ze bezoekers willen volgen met Munchkin en Web Personalization-functies. Het niveau van het volgen wordt gecontroleerd door browser te gebruiken niet het volgen plaatsen, een opt-out koekje, of een niet-specifieke IP. Deze methoden kunnen van invloed zijn op de waarde en functionaliteit van Marketo in bepaalde gebieden, maar als de markeerteken niets verandert, blijft de Marketo-functionaliteit ongewijzigd.
+Marketers kunnen privacy-instellingen gebruiken om te beslissen of ze bezoekers willen volgen met Munchkin en Web Personalization-functies. Het niveau van het volgen wordt gecontroleerd door browser te gebruiken niet het volgen plaatsen, een opt-out koekje, of een niet-specifieke IP. Deze methoden kunnen van invloed zijn op de waarde en functionaliteit van Marketo in bepaalde gebieden, maar als de markering niets verandert, blijft de Marketo-functionaliteit ongewijzigd.
 
-Dit onderdeel wordt geleidelijk aan over een periode van zes weken aan klanten vrijgegeven. Neem contact op met de afdeling Marketo-ondersteuning als u dit meteen nodig hebt.
+Dit onderdeel wordt geleidelijk aan over een periode van zes weken aan klanten vrijgegeven. Neem contact op met Marketo Support als je dit meteen nodig hebt.
