@@ -2,20 +2,20 @@
 unique-page-id: 2359909
 description: Gebruikersrollen en -machtigingen beheren - Marketo Docs - Productdocumentatie
 title: Gebruikersrollen en -machtigingen beheren
+exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
 
 ---
 
-
 # Rollen en machtigingen van gebruikers beheren {#managing-user-roles-and-permissions}
 
-U kunt gebruikersrollen instellen, maken en bewerken en deze aan gebruikers toewijzen. Dit staat u toe om de gebieden en de functionaliteit te controleren die elke gebruiker van het Markeren toegang heeft tot.
+U kunt gebruikersrollen instellen, maken en bewerken en deze aan gebruikers toewijzen. Op deze manier kunt u de gebieden en functionaliteit bepalen waartoe elke Marketo-gebruiker toegang heeft.
 
-Een marketinggebruiker heeft bijvoorbeeld doorgaans brede toegang nodig in de toepassing om e-mails, landingspagina&#39;s en programma&#39;s te maken, te wijzigen en te implementeren. Een webontwerper daarentegen besteedt bijna al zijn tijd in de Design Studio aan het maken van elementen voor gebruik in e-mails en landingspagina&#39;s. En hoewel de bedrijfsleiders uitgebreid gebruik maken van de rapporten van Marketo op het gebied van Analytics, kunnen zij niet de activa of de programma&#39;s zelf moeten creëren of drijven.
+Een marketinggebruiker heeft bijvoorbeeld doorgaans brede toegang nodig in de toepassing om e-mails, landingspagina&#39;s en programma&#39;s te maken, te wijzigen en te implementeren. Een webontwerper daarentegen besteedt bijna al zijn tijd in de Design Studio aan het maken van elementen voor gebruik in e-mails en landingspagina&#39;s. En terwijl de bedrijfsleiders uitgebreide gebruik maken van de rapporten van Marketo op het gebied van Analytics, kunnen zij niet de activa of de programma&#39;s zelf moeten creëren of drijven.
 
 >[!NOTE]
 >
