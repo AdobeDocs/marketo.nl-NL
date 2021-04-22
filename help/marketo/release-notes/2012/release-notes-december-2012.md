@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951107
-description: Opmerkingen bij de release - December 2012 - Marketo Docs - Productdocumentatie
+description: Opmerkingen bij de release - december 2012 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - december 2012
+exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
-
 
 # Opmerkingen bij de release: December 2012 {#release-notes-december}
 
@@ -29,7 +29,7 @@ Gebruik de overeenkomstige triggers en filters om gebruikers te identificeren di
 
 ## Machtigingen voor granulair beheer {#granular-admin-permissions}
 
-Onze nieuwste versie geeft u meer toegang en controle over beheerdersrollen, doordat u de toegang tot verschillende functies in het gebied Marketo Admin voor elke rol beheert. Wanneer u een nieuwe rol creeert, kunt u specifieke functies toewijzen Admin die de rol kan toegang hebben.
+Onze nieuwste release geeft u meer toegang tot en controle over beheerdersrollen door de toegang tot verschillende functies in het Marketo-beheergebied voor elke rol te beheren. Wanneer u een nieuwe rol creeert, kunt u specifieke functies toewijzen Admin die de rol kan toegang hebben.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
@@ -39,11 +39,11 @@ Onze nieuwste versie geeft u meer toegang en controle over beheerdersrollen, doo
 
 ## BrightStor {#brighttalk-adapter}
 
-Met de Marketo BrightStor kunt u aanwezigheidsgegevens van een live of on-demand webcast rechtstreeks vastleggen in een Marketo-gebeurtenis!
+Met de Marketo BrightStor-adapter kunt u aanwezigheidsgegevens van een live of on-demand webcast rechtstreeks vastleggen in een Marketo-gebeurtenis!
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Marketo Sales Insight for Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
+## Marketo Sales Insight voor Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
 
 Het Inzicht van de verkoop is nu beschikbaar aan de klanten van de Dynamica van Microsoft!
 
