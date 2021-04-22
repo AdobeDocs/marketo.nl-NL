@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951259
-description: Aangepaste woordenlijst veldtype - Marketo Docs - Productdocumentatie
+description: Verklarende woordenlijst Type aangepast veld - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst Type aangepast veld
+exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 0%
 
 ---
-
 
 # Verklarende woordenlijst voor aangepaste veldtype {#custom-field-type-glossary}
 
@@ -97,7 +97,7 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 **Operatoren**: is, is niet, tussen, groter dan, minstens, is leeg, is niet leeg
 
-## Telefoon {#phone}
+## Telefoonnummer {#phone}
 
 **Voorbeeld Naam:** Alternatieve Telefoon - sla een extra telefoonaantal voor uw mensen op
 
