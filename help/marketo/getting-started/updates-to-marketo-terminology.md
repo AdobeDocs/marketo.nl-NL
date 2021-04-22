@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11387674
 description: Updates van Marketo Terminology - Marketo Docs - Productdocumentatie
-title: Updates van marktoterminologie
+title: Updates van Marketo Terminology
 translation-type: tm+mt
 source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
 workflow-type: tm+mt
@@ -11,11 +11,11 @@ ht-degree: 0%
 ---
 
 
-# Updates voor marktoterminologie {#updates-to-marketo-terminology}
+# Updates voor Marketo-terminologie {#updates-to-marketo-terminology}
 
-We brengen een aantal wijzigingen aan in ons platform, wat van invloed zal zijn op wat sommige dingen worden genoemd. Als u vanaf maart 2016 een nieuwe instantie Marketo hebt, of als uw bedrijf na juli 2016 is verlengd, ziet u de nieuwe terminologie nu misschien.
+We brengen een aantal wijzigingen aan in ons platform, wat van invloed zal zijn op wat sommige dingen worden genoemd. Als u vanaf maart 2016 een nieuwe Marketo-instantie hebt, of als uw bedrijf na juli 2016 is vernieuwd, ziet u wellicht de nieuwe terminologie nu.
 
-Hoewel u verschillende terminologie in de documentatie van Marketo ziet, ben zeker dat elk artikel spoedig zal worden bijgewerkt om deze veranderingen te weerspiegelen. Alle instructies zijn hetzelfde.
+Hoewel u verschillende terminologie in de documentatie van Marketo kunt zien, ben zeker dat elk artikel spoedig zal worden bijgewerkt om deze veranderingen te weerspiegelen. Alle instructies zijn hetzelfde.
 
 Wat is er veranderd?
 
