@@ -2,20 +2,20 @@
 unique-page-id: 8783189
 description: Opmerkingen bij de release - juli 2015 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juli 2015
+exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Juli 2015 {#release-notes-july}
 
 ## Marketo-momenten {#marketo-moments}
 
-Bij de lunch maar moet u een e-mail opnieuw plannen? De app Marketo Moments, die beschikbaar is in de App Store of Google Play, geeft u de kracht om te zien hoe uw e-mail- en gebeurteniscampagnes in real-time worden uitgevoerd en wat er in de toekomst gebeurt, vanaf uw iPhone-, iPad- of Android-telefoon.
+Bij de lunch maar moet u een e-mail opnieuw plannen? De Marketo Moments-app, die beschikbaar is in de App Store of Google Play, geeft u de kracht om te zien hoe uw e-mail- en gebeurtenissencampagnes in real-time presteren en wat er in de toekomst gebeurt, vanaf uw iPhone-, iPad- of Android-telefoon.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
@@ -48,7 +48,7 @@ Hebt u opstelling verscheidene gepersonaliseerde campagnes RTP en opgemerkt dat 
 
 ## Bedrijfs-API {#company-api}
 
-**Toegang tot bedrijfsobjecten via de REST API**: De REST API biedt nu toegang tot Marketo Company (ook wel bekend als Account). Dit betekent dat u bedrijfsobjecten die u in Marketo hebt gemaakt, kunt lezen, bijwerken en verwijderen en dat u leads aan dergelijke bedrijven kunt koppelen met behulp van de bijgewerkte API voor leads.
+**Toegang tot bedrijfsobjecten via de REST API**: De REST API biedt nu toegang tot de Marketo Company (ook wel bekend als Account). Dit betekent dat u in Marketo gemaakte bedrijfsobjecten kunt lezen, bijwerken en verwijderen en dat u leads aan dergelijke bedrijven kunt koppelen met de bijgewerkte API voor leads.
 
 Leer [meer](https://developers.marketo.com/documentation/company-api/) in onze verwijzingsgids voor het Bedrijf API.
 
