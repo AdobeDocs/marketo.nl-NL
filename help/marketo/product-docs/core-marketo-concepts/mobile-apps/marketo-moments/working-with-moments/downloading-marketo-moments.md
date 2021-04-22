@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8782024
-description: Marketo-momenten downloaden - Marketo-documenten - productdocumentatie
+description: Marketo-momenten downloaden - Marketo Docs - Productdocumentatie
 title: Marketo-momenten downloaden
+exl-id: ccd8cb58-f2ae-478d-a3c4-fbc713e3c22a
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-
 # Marketo-momenten {#downloading-marketo-moments} downloaden
 
-Download Marketo Moments van de App Store of Google Play en voila! Marketo-magie in de palm van je hand.
+Download Marketo Moments van de App Store of Google Play en voila! Marketo magie in de palm van je hand.
 
 ## Voor iPhone {#for-iphone}
 
@@ -21,7 +21,7 @@ Download Marketo Moments van de App Store of Google Play en voila! Marketo-magie
 
    ![](assets/image2015-7-15-14-3a52-3a13.png)
 
-1. Zoek naar Momenten van de Marketo en selecteer het.
+1. Zoek naar Marketo Moments en selecteer het.
 
    ![](assets/image2015-7-7-17-3a19-3a7.png)
 
@@ -49,9 +49,9 @@ Veel plezier!
 
 >[!NOTE]
 >
->Meld u aan met uw normale Marketo-aanmelding en wachtwoord.
+>Meld u aan met uw normale Marketo-aanmelding en -wachtwoord.
 >
->Single Sign-On met de Taal van de Prijsverhoging van de Veiligheid (SAML) wordt niet gesteund voor Marketo Moments.
+>Single Sign-On met Security Assertion Markup Language (SAML) wordt niet ondersteund voor Marketo Moments.
 
 >[!MORELIKETHIS]
 >
