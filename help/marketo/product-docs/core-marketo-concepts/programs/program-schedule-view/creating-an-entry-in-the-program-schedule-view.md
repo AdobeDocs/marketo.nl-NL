@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147102
-description: Het creëren van een Ingang in de Mening van het Programma van het Programma - Marketo Docs - de Documentatie van het Product
+description: Een vermelding maken in de programmaplanningweergave - Marketo Docs - Productdocumentatie
 title: Het creëren van een Ingang in de Mening van het Programma
+exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # Het creëren van een Ingang in de Mening van het Programma {#creating-an-entry-in-the-program-schedule-view}
 
@@ -59,7 +59,7 @@ U kunt items maken vanuit de programmaweergave van het programma als aanvulling 
 
    >[!NOTE]
    >
-   >To-do is een [aangepaste ingang](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). U kunt een &#39;to-do&#39; en andere aangepaste items maken om niet-Marketo-agendapunten bij te houden.
+   >To-do is een [aangepaste ingang](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). U kunt een &#39;to-do&#39; en andere aangepaste items maken om niet-Marketo agendapunten bij te houden.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
