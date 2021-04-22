@@ -2,22 +2,22 @@
 unique-page-id: 12977326
 description: Opmerkingen bij de release - April '17 ABM Enhancements - Marketo Docs - Product Documentation
 title: Opmerkingen bij de release - april '17 Verbeteringen ABM
+exl-id: 2b8b1ed2-de57-42c2-a3f5-3b49895d7595
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: April 17 ABM Verbeteringen {#release-notes-april-abm-enhancements}
 
-De volgende functies zijn opgenomen in de ABM-verbeteringsrelease van april 17. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de ABM-verbeteringsrelease van april 17. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 ## Synchroon standaardvelden waarvoor CRM-toewijzing geldt {#synching-of-crm-mapped-standard-fields}
 
-Marketo ABM verandert gedrag met betrekking tot CRM&#39;s. Op de langere termijn onderhoudt Marketo ABM een 1-op-1 relatie tussen ABM-rekeningen en rekeningen in de CRM. Hierdoor kan Marketo toegewezen accountvelden synchroon houden met de CRM.
+Marketo ABM wijzigt het gedrag met betrekking tot CRM&#39;s. Marketo ABM creëert en onderhoudt een 1-op-1 relatie tussen ABM-rekeningen en rekeningen in de CRM. Zo kan Marketo de velden voor toegewezen accounts synchroon houden met de CRM.
 
 ## Aangepaste velden voor CRM-detectie {#custom-fields-for-crm-discovery}
 
