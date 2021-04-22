@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147140
-description: Inzicht in voorlopige/bevestigde datums - Marketo Docs - Productdocumentatie
+description: Inzicht krijgen in voorlopige/bevestigde datums - Marketo Docs - Productdocumentatie
 title: Inzicht krijgen in voorlopige/bevestigde datums
+exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
-
 
 # Tijdelijke/bevestigde datums {#understanding-tentative-confirmed-dates}
 
