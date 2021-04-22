@@ -2,14 +2,14 @@
 unique-page-id: 557154
 description: Een slimme lijst maken - Marketo Docs - Productdocumentatie
 title: Een slimme lijst maken
+exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # Een slimme lijst maken {#create-a-smart-list}
 
