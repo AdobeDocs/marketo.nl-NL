@@ -2,14 +2,14 @@
 unique-page-id: 10099680
 description: Aangepaste objectgegevens importeren - Marketo Docs - Productdocumentatie
 title: Aangepaste objectgegevens importeren
+exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
-
 
 # Aangepaste objectgegevens importeren {#import-custom-object-data}
 
@@ -39,7 +39,7 @@ Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren
    >
    >Gebruik het (de) Dedupeveld(en) als unieke herkenningstekens wanneer u douaneobjecten verslagen creeert of bijwerkt. In dit voorbeeld wordt het veld Dedupe van het aangepaste object **car** - vin (ID-nummer van voertuig) gebruikt. Als u alleen aangepaste objectrecords bijwerkt, kunt u de Marketo-hulplijn selecteren als de deduplicatiemodus.
 
-1. Wijs elke kolom aan een Marketo gebied toe, die het van drop-down selecteren.
+1. Wijs elke kolom aan een gebied van Marketo toe, dat het van drop-down selecteert.
 
    ![](assets/image2016-4-13-14-3a36-3a57.png)
 
@@ -71,4 +71,4 @@ Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren
 
 >[!MORELIKETHIS]
 >
->[Aangepaste objecten markeren](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>[Aangepaste Marketo-objecten begrijpen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
