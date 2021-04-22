@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147060
-description: Annuleer een geplande terugkerende looppas van de Campagne van de Partij - Marketo Dos - de Documentatie van het Product
+description: Een geplande batchcampagne annuleren - Marketo Docs - Productdocumentatie
 title: Een geplande batchcampagne annuleren
+exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # Een geplande batchcampagne voor terugkeren annuleren {#cancel-a-scheduled-recurring-batch-campaign-run}
 
