@@ -2,14 +2,14 @@
 unique-page-id: 1147249
 description: Een algemene overlay gebruiken - Marketo Docs - Productdocumentatie
 title: Een algemene overlay gebruiken
+exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # Globale overlay {#using-a-global-overlay} gebruiken
 
@@ -45,7 +45,7 @@ Als u een filter in de Kalender van de Marketing [hebt bewaard, kunt u het als b
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
-   Dat is makkelijk! Er wordt nu een bedekking weergegeven die is gedefinieerd door het filter dat u hebt opgeslagen en geselecteerd.
+   Dat is makkelijk! Nu ziet u een bedekking die wordt gedefinieerd door het filter dat u hebt opgeslagen en geselecteerd.
 
    ![](assets/image2014-9-24-10-3a16-3a31.png)
 
