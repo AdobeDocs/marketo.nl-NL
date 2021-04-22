@@ -2,14 +2,14 @@
 unique-page-id: 1147017
 description: Taak maken - Marketo Docs - Productdocumentatie
 title: Taak maken
+exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Taak {#create-task} maken
 
@@ -19,7 +19,7 @@ Als markator, hebt u informatie die verkoop in het sluiten van overeenkomsten ka
 
 >[!NOTE]
 >
->Wanneer de Gebruiker van de Synchronisatie van het Marketo taken creeert, **wegens In** is een vereist gebied voor de taak die in Salesforce moet worden gecreeerd. Marketo voert standaard vijf dagen in als er geen waarde is.
+>Wanneer de gebruiker van de Synchronisatie van Marketo taken creeert, **wegens In** is een vereist gebied voor de taak die in Salesforce moet worden gecreeerd. Marketo voert standaard vijf dagen in als er geen waarde is.
 
 Standaard ziet de flowstap er als volgt uit:
 
