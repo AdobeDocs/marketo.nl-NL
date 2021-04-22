@@ -2,20 +2,20 @@
 unique-page-id: 10099360
 description: Voorbereiden op uw gebeurtenis - Marketo Docs - Productdocumentatie
 title: Voorbereiden op uw gebeurtenis
+exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-
 # Voorbereiden voor uw gebeurtenis {#prepare-for-your-event}
 
 Er zijn verschillende dingen die u moet doen om klaar te zijn voor de gebeurtenis.
 
-## Een nieuwe marktoprol maken {#create-a-new-marketo-role}
+## Nieuwe Marketo-rol maken {#create-a-new-marketo-role}
 
 Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebeurtenissen. [Maak een nieuwe Marketo-](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) rol voor iPad- of Android-gebruikers met toestemming om de mobiele toepassing te openen.
 
@@ -25,7 +25,7 @@ Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebe
 
 ## Nieuw Marketo-gebeurtenisprogramma maken {#create-a-new-marketo-event-program}
 
-[Maak een nieuw Marketo-](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) gebeurtenisprogramma waarin de status van uw mensen wordt vastgelegd terwijl ze verschillende fasen doorlopen en waarin u nauwkeurige maatstaven voor het rendement van uw marketinginitiatieven krijgt.
+[Maak een nieuw Marketo-](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) gebeurtenissenprogramma waarin de status van uw volk wordt vastgelegd terwijl het verschillende fasen doorloopt en waarin u nauwkeurige maatstaven voor het rendement van uw marketinginitiatieven krijgt.
 
 ## Geef de gebeurtenisdatums op {#specify-the-event-dates}
 
@@ -47,7 +47,7 @@ Het is een momentopname om uw gebeurtenisdata in te stellen.
 
 Nu u *when* kent, is het tijd om *who* toe te voegen.
 
-1. Als u reeds een lijst van mensen, in Mijn Marketo hebt, klik **Gegevensbestand** tegel.
+1. Als u reeds een lijst van mensen, in Mijn Marketo hebt, klik **de tegel van het Gegevensbestand**.
 
    ![](assets/db.png)
 
