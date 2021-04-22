@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359412
-description: Openingspagina met formulier - Marketo Docs - Productdocumentatie
+description: Openingspagina met een formulier - Marketo Docs - Productdocumentatie
 title: Openingspagina met formulier
+exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
 
 ---
-
 
 # Openingspagina met een formulier {#landing-page-with-a-form}
 
