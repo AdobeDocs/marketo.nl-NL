@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949678
-description: SEO - voeg/verwijder Sleutelwoorden uit een Lijst toe - Marketo Docs - de Documentatie van het Product
+description: SEO - Trefwoorden toevoegen/verwijderen uit een lijst - Marketo Docs - Productdocumentatie
 title: SEO - Trefwoorden toevoegen/verwijderen uit een lijst
+exl-id: c03416b6-796b-4255-8f19-2087b215be05
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # SEO - voeg/verwijder Sleutelwoorden toe uit een Lijst {#seo-add-remove-keywords-from-a-list}
 
