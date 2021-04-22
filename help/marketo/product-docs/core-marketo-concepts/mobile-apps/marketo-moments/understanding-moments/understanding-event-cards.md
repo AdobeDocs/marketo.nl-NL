@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8781974
-description: Werken met gebeurteniskaarten - Marketo-documenten - productdocumentatie
+description: Werken met gebeurtenissenkaarten - Marketo Docs - Productdocumentatie
 title: Gebeurteniskaarten
+exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-
 # Werken met gebeurteniskaarten {#understanding-event-cards}
 
-Gebruik Marketo-momenten om uw gebeurtenisprogramma&#39;s weer te geven op uw telefoon of iPad.
+Gebruik Marketo Moments om uw gebeurtenisprogramma&#39;s weer te geven op uw telefoon of iPad.
 
 Wanneer u op een e-mailprogrammakaart tikt, kunt u:
 
