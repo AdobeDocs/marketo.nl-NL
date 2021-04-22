@@ -2,22 +2,22 @@
 unique-page-id: 14745959
 description: Opmerkingen bij de release - lente 18 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - lente '18
+exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Lente &#39;18 {#release-notes-spring}
 
-De volgende functies zijn opgenomen in de release van het voorjaar van 18. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van het voorjaar van 18. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. Opmerking: Aan sommige functies in deze release zijn geen artikelen gekoppeld. Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
 
-## Marketo Sales Engage, Launch en ToutApp Updates {#marketo-sales-engage-launch-and-toutapp-updates}
+## Marketo Sales Engage-, Launch- en ToutApp-updates {#marketo-sales-engage-launch-and-toutapp-updates}
 
 * [Marketo Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [Starten](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
@@ -25,7 +25,7 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 >[!AVAILABILITY]
 >
->Sales Engage is een invoegtoepassing. Neem contact op met de manager succes van de Marketo-klant of de accountmanager voor een prijsopgave.
+>Sales Engage is een invoegtoepassing. Neem contact op met uw Marketo Customer Success Manager of Account Executive voor een prijsopgave.
 
 U kunt meer pijpleidingen en inkomsten aansturen door verkoop meer mogelijkheden te bieden met de intelligentie, de inhoud, de playbooks en de analysemogelijkheden om meer van uw leads om te zetten in verkoopmogelijkheden. Verkoop Ingenieur voorziet verkoop en marketing van een verenigd platform voor overeenkomst over de klantenreis en laat betere coördinatie door een gedeelde mening van klant toe touchpoints.
 
@@ -77,13 +77,13 @@ Stel het doel van het optimalisatiealgoritme voor ContentAI in om meer weergaven
 
 ## Integratie en API&#39;s {#integration-and-apis}
 
-[Integratie van Facebook Workplace](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
+[Facebook Workplace-integratie](/help/marketo/product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
 
 Verzend systeemmeldingen en interessante momenten naar Facebook Workplace.
 
 [Statische lijst-API&#39;s](https://developers.marketo.com/rest-api/assets/static-lists/)
 
-Beheer lijsten tussen Marketo en andere systemen gemakkelijker met nieuwe bidirectionele APIs voor het creëren van, het lezen van, het bijwerken van, en het schrappen van statische lijsten ver zonder enige actie in Marketo UI te ondernemen.
+U kunt lijsten tussen Marketo en andere systemen eenvoudiger beheren met nieuwe bidirectionele API&#39;s voor het op afstand maken, lezen, bijwerken en verwijderen van statische lijsten zonder actie te ondernemen in de Marketo-gebruikersinterface.
 
 ## Verbeteringen op gebied van privacy {#privacy-enhancements}
 
