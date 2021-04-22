@@ -2,14 +2,14 @@
 unique-page-id: 2360198
 description: Een gebruikersrol maken, verwijderen, bewerken en wijzigen - Marketo Docs - Productdocumentatie
 title: Een gebruikersrol maken, verwijderen, bewerken en wijzigen
+exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
 
 ---
-
 
 # Een gebruikersrol maken, verwijderen, bewerken en wijzigen {#create-delete-edit-and-change-a-user-role}
 
