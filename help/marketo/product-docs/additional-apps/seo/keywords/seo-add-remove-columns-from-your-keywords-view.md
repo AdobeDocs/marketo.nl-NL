@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949243
-description: SEO - voeg/verwijder Kolommen toe uit uw sleutelwoordenmening - Marketo Docs - de Documentatie van het Product
+description: SEO - Kolommen toevoegen/verwijderen uit uw trefwoordenweergave - Marketo-documenten - productdocumentatie
 title: SEO - Kolommen toevoegen/verwijderen uit uw trefwoordenweergave
+exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # SEO - voeg/verwijder Kolommen toe uit uw sleutelwoordenmening {#seo-add-remove-columns-from-your-keywords-view}
 
