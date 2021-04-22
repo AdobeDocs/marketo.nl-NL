@@ -2,14 +2,14 @@
 unique-page-id: 2951054
 description: Opmerkingen bij de release - oktober 2013 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - oktober 2013
+exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 translation-type: tm+mt
-source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
 
 ---
-
 
 # Opmerkingen bij de release: Oktober 2013 {#release-notes-october}
 
@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van oktober 2013.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Templates.marketo.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) comshowcases e-mail en landende paginasjablonen (inclusief responsieve mobiele e-mailsjablonen) die u kunt downloaden uit de Marketo-programmabibliotheek. We voegen maandelijks templates toe, vaak terugchecken!
+[Sjablonen.marketo.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) comshowcases e-mail- en landingspaginesjablonen (inclusief responsieve mobiele e-mailsjablonen) die u kunt downloaden uit de Marketo Program Library. We voegen maandelijks templates toe, vaak terugchecken!
 
 ## developers.marketo.com {#developers-marketo-com}
 
@@ -25,7 +25,7 @@ De volgende functies zijn opgenomen in de release van oktober 2013.
 
 ## Bijgewerkt BrightTALK-gebeurtenisadapter {#updated-brighttalk-event-adapter}
 
-Synchroniseer extra velden van BrightStor EnterpriseTALK naar Marketo, waaronder bedrijfsnaam, functie, industrie en bedrijfsomvang.
+Synchroniseer extra velden van BrightStor EnterpriseLink naar Marketo, zoals bedrijfsnaam, functie, industrie en bedrijfsomvang.
 
 ## Gebeurteniscontrole Android-tablet {#android-tablet-event-check-in-app}
 
