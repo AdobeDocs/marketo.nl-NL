@@ -2,14 +2,14 @@
 unique-page-id: 2949467
 description: Wat is Marketo? - Marketo Docs - Productdocumentatie
 title: Wat is Marketo?
+exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
-
 
 # Wat is Marketo? {#what-is-marketo}
 
@@ -17,7 +17,7 @@ Dit is marketingsoftware, ook wel marketingautomatisering genoemd. Het is cool.
 
 ## Is het een gereedschap voor het blazen van e-mail? {#is-it-a-mail-blast-tool}
 
-Dat is één ding dat je kunt doen in Marketo. Maar er is zoveel meer.
+Dat is één ding dat je in Marketo kunt doen. Maar er is zoveel meer.
 
 ## Oké, kom maar op het punt, wat heeft het? {#ok-get-to-the-point-whats-it-got}
 
@@ -39,7 +39,7 @@ Dat is één ding dat je kunt doen in Marketo. Maar er is zoveel meer.
 
 ## Heilige koe! Moet ik dat allemaal leren? {#holy-cow-do-i-need-to-learn-all-that}
 
-Nee, helemaal niet. Marketo is eenvoudig aan de slag en zal met u evolueren. U kunt stukken in de loop der tijd toevoegen.
+Nee, helemaal niet. Marketo is eenvoudig aan de slag te gaan en zal met u evolueren. U kunt stukken in de loop der tijd toevoegen.
 
 ## Moet ik om het even welke opstelling doen? {#do-i-need-to-do-any-setup}
 
