@@ -2,18 +2,18 @@
 unique-page-id: 2951105
 description: Opmerkingen bij de release - januari 2013 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - januari 2013
+exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: januari 2013 {#release-notes-january}
 
-De release van januari breidt ons sociale aanbod uit met **Referral-aanbiedingen**. Bovendien kunnen gebruikers van Beheer van leads voor markttoegang hun tijdzone, taal en landinstellingen instellen. Functies die zijn gemarkeerd met een * zijn alleen beschikbaar in de Select Edition.
+De release van januari breidt ons sociale aanbod uit met **Referral-aanbiedingen**. Bovendien kunnen gebruikers van Marketo Lead Management hun tijdzone, taal en landinstellingen instellen. Functies die zijn gemarkeerd met een * zijn alleen beschikbaar in de Select Edition.
 
 ## Referral-aanbiedingen {#referral-offers}
 
@@ -29,7 +29,7 @@ U kunt de standaardtijdzone voor uw persoonlijke Marketo-account wijzigen. Zelfs
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## Selecteer uw beheertaal voor marktleider {#select-your-marketo-lead-management-language}
+## Selecteer uw Marketo-beheertaal voor leads {#select-your-marketo-lead-management-language}
 
 U kunt de standaardtaal voor uw Marketo-gebruikersaccount wijzigen. Zelfs als het standaardabonnement Engels is, kunt u het in het Duits of Frans voor eigen gebruik wijzigen.
 
