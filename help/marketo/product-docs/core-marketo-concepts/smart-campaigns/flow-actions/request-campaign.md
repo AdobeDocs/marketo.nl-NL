@@ -2,14 +2,14 @@
 unique-page-id: 2951703
 description: Campagne aanvragen - Marketo Docs - Productdocumentatie
 title: Campagne aanvragen
+exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # Campagne {#request-campaign} aanvragen
 
