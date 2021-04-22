@@ -2,16 +2,16 @@
 unique-page-id: 2360287
 description: Een aangepast veld maken in Marketo - Marketo Docs - Productdocumentatie
 title: Een aangepast veld maken in Marketo
+exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-
-# Een aangepast veld maken in markeerteken {#create-a-custom-field-in-marketo}
+# Een aangepast veld maken in Marketo {#create-a-custom-field-in-marketo}
 
 Als u een nieuw aangepast veld in Marketo nodig hebt om gegevens op te slaan/vast te leggen, gaat u als volgt te werk:
 
@@ -27,7 +27,7 @@ Als u een nieuw aangepast veld in Marketo nodig hebt om gegevens op te slaan/vas
 
    ![](assets/two.png)
 
-1. Kies het veldtype. Hierdoor wordt de weergave van slimme lijsten en formulieren in Marketo gewijzigd.
+1. Kies het veldtype. Hiermee wijzigt u de weergave in slimme lijsten en formulieren in Marketo.
 
    >[!TIP]
    >
