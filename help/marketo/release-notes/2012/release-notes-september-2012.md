@@ -2,20 +2,20 @@
 unique-page-id: 2951111
 description: Opmerkingen bij de release - september 2012 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -september 2012
+exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: September 2012 {#release-notes-september}
 
 Deze release bevat zeer vooruitstrevende, geïntegreerde sociale kenmerken en toonaangevende managementtools! Opmerking: sociale functies zijn beschikbaar als invoegtoepassing of als onderdeel van geselecteerde bundels.
 
-## Een YouTube-video met sociaal delen publiceren {#publish-a-youtube-video-with-social-sharing}
+## Een YouTube-video publiceren met sociaal delen {#publish-a-youtube-video-with-social-sharing}
 
 Vergroot het publiek voor uw video&#39;s door uw bezoekers aan te moedigen om hen sociaal te delen, gebruikend het nieuwe VideoAandeel op uw landingspagina&#39;s.
 
@@ -35,11 +35,11 @@ Verbeter inzicht en verminder wrijving door toe te staan leidt tot prefill vorme
 
 ## Openingspagina&#39;s publiceren naar Facebook {#publish-landing-pages-to-facebook}
 
-Vergroot het bereik van uw bestemmingspagina&#39;s door deze rechtstreeks op Facebook te publiceren, compleet met sociale apps, formulieren en de volledige functionaliteit van de bestemmingspagina&#39;s van Marketo.
+Vergroot het bereik van uw bestemmingspagina&#39;s door deze rechtstreeks naar Facebook te publiceren, compleet met sociale apps, formulieren en de volledige functionaliteit van de bestemmingspagina&#39;s van Marketo.
 
 ## ReadyTalk-gebeurtenisadapter {#readytalk-event-adapter}
 
-Sluit naadloos een Marketo-gebeurtenis aan op een ReadyTalk-vergadering. Gebruik een Marketo-formulier om geregistreerde personen vast te leggen en deze automatisch te registreren in ReadyTalk. Bij een bidirectionele synchronisatie kunnen aanwezigheidsgegevens in Marketo worden ingevuld.
+Sluit naadloos een Marketo-gebeurtenis aan op een ReadyTalk-vergadering. Gebruik een Marketo-formulier om geregistreerde personen vast te leggen en deze automatisch te registreren in ReadyTalk. Met een bidirectionele synchronisatie kunnen aanwezigheidsgegevens in Marketo worden ingevuld.
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
