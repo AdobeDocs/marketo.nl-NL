@@ -2,18 +2,18 @@
 unique-page-id: 2950212
 description: Opmerkingen bij de release - Augustus 2014 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -augustus 2014
+exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Augustus 2014 {#release-notes-august}
 
-De volgende functies zijn opgenomen in de release van augustus 2014. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid. Kom terug na de release voor koppelingen naar gedetailleerde functiedocumentatie.
+De volgende functies zijn opgenomen in de release van augustus 2014. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies. Kom terug na de release voor koppelingen naar gedetailleerde functiedocumentatie.
 
 ## Licenties {#marketing-calendar-licenses} voor marketingkalender
 
@@ -35,7 +35,7 @@ De volgende nieuwe gebruikersmachtigingen zijn toegevoegd:
 
 ## Gebruikers en rollen exporteren vanuit beheerder {#export-users-and-roles-from-admin}
 
-U kunt [een Lijst van Gebruikers en Rollen ](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) van Marketo nu uitvoeren. U kunt ook een tijdstempel &#39;Laatste aanmelding&#39; opnemen die bij het exporteren moet worden opgenomen.
+U kunt nu [Een lijst met gebruikers en rollen](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) exporteren uit Marketo. U kunt ook een tijdstempel &#39;Laatste aanmelding&#39; opnemen die bij het exporteren moet worden opgenomen.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -49,7 +49,7 @@ U kunt nu alle ongebruikte kanalen en statussen verwijderen. Zoals altijd, kunt 
 
 ## Geautomatiseerde DKIM {#automated-dkim}
 
-Voor een betere leverbaarheid worden alle uitgaande e-mails ondertekend door DKIM (DomainKeys Identified Mail). Standaard wordt in e-mailberichten de gedeelde DKIM-handtekening van Marketo gebruikt. U kunt deze handtekening aanpassen.
+Voor een betere leverbaarheid worden alle uitgaande e-mails ondertekend door DKIM (DomainKeys Identified Mail). Standaard wordt voor e-mailberichten een gedeelde DKIM-handtekening van Marketo gebruikt. U kunt deze handtekening aanpassen.
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
