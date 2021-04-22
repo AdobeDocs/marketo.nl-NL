@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512524
-description: Beste praktijken voor Slimme Lijsten - Marketo Docs - de Documentatie van het Product
+description: Beste praktijken voor Slimme Lijsten - de Documenten van Marketo - de Documentatie van het Product
 title: Beste praktijken voor Slimme Lijsten
+exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
 
 ---
-
 
 # Beste praktijken voor Slimme Lijsten {#best-practices-for-smart-lists}
 
@@ -36,4 +36,4 @@ Om hen gemakkelijk te maken om met en prestaties te werken te optimaliseren, heb
 
 >[!TIP]
 >
->Marketo kan op vele manieren worden gebruikt en bepaalde technieken zijn beter voor u en uw zaken. Overweeg [Marketo professional services](https://pages2.marketo.com/72-hour-survival-guide.html) om uw investering te doen krimpen.
+>Marketo kan op vele manieren worden gebruikt en bepaalde technieken zijn beter voor u en uw bedrijf. Overweeg [Professionele services van Marketo](https://pages2.marketo.com/72-hour-survival-guide.html) om uw investering te doen schijnen.
