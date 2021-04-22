@@ -2,14 +2,14 @@
 unique-page-id: 45417322
 description: Een lead of contactpersoon verwijderen - Marketo Docs - Productdocumentatie
 title: Een lead of contactpersoon verwijderen
+exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
-
 
 # Een lead of contactpersoon verwijderen {#deleting-a-lead-or-contact}
 
