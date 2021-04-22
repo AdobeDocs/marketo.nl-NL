@@ -1,18 +1,18 @@
 ---
 description: Opmerkingen bij de release - jan 2021 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - jan 2021
+exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 073b73255d49f859c32c8b4793e6798f02f7a5c4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: jan 2021 {#release-notes-jan-21}
 
-De volgende functies zijn opgenomen in de release van 21 januari. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van 21 januari. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -29,12 +29,12 @@ De volgende functies worden vrijgegeven op **15 januari 2021**.
 ## Aanpassing van meerdere kanalen {#multi-channel-personalization}
 
 * **[Adobe Experience Cloud Audience Sync Fase 3](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: De bestaande Adobe Experience Cloud (AEC) Audience Sync mogelijkheid biedt nu ondersteuning voor continue, bidirectionele B2B-publiekssynchronisatie van Marketo Engage naar andere AEC-toepassingen, waaronder Adobe Experience Platform (AEP)-aanbiedingen zoals Real-time Customer Data Platform en Adobe Experience Platform Activation.  Als leads worden toegevoegd en verwijderd naar uw publiekssegmenten, synchroniseert Marketo Engage automatisch het bijgewerkte publiek in uw verbonden AEC-apps. Gebruik dit programma om te profiteren van de meerkanaals orkest van Adobe, heroriëntering, onderdrukking van het publiek, personalisatie en rapportering van gebruiksgevallen in uw AEC-technische stack.
-* **[Continuous Audience Sync to Google, Facebook, and LinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)**: Doorlopend geautomatiseerde synchronisatie met een advertentienetwerk kan op een statische lijst worden toegelaten, bijwerkt het advertentienetwerk aangezien de veranderingen van het lijstlidmaatschap zonder gebruikersinterventie vereisen.
+* **[Continuous Audience Sync to Google, Facebook en LinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)**: Doorlopend geautomatiseerde synchronisatie met een advertentienetwerk kan op een statische lijst worden toegelaten, bijwerkt het advertentienetwerk aangezien de veranderingen van het lijstlidmaatschap zonder gebruikersinterventie vereisen.
 * **[Tokens voor aangepaste velden](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/program-member-custom-field-tokens.md)** voor programmalid: Wij hebben de eigenschappen van het programmalid van het douanegebied uitgebreid om het symbolische kader te steunen. Marketers kunnen tokens voor aangepaste velden voor programmaleden invoegen in e-mails, bestemmingspagina&#39;s, SMS-berichten, pushberichten en webhaken. Gebruik nieuwe tokens in de acties van de campagnestroom om gegevenswaarden te veranderen, een taak, of een interessant moment tot stand te brengen.
 
 ## Openingspagina&#39;s en Forms {#landing-pages-and-forms}
 
-* **Formulier-API**: Trek informatie over lood in of activeer de aanplant terwijl u gegevens van niet-Marketo-formulieren haalt. Niet-Marketo-formulieren kunnen worden geïntegreerd met Marketo Engage via REST API. De nieuwe API biedt de mogelijkheid om het verzenden van Marketo Engage-formulieren te simuleren met alle bijbehorende functies.
+* **Formulier-API**: Trek informatie over lood in of activeer de aanplant terwijl u gegevens uit niet-Marketo-formulieren haalt. Niet-Marketo-formulieren kunnen met Marketo Engage worden geïntegreerd via REST API. De nieuwe API biedt de mogelijkheid om het verzenden van Marketo Engage-formulieren te simuleren met alle bijbehorende functies.
 * **Landing Pages API**: Workflows voor bewerken en vertalen stroomlijnen in geïntegreerde toepassingen met de nieuwe API voor het voorvertonen van landingspagina. Externe leveranciers kunnen nu volledig persoonlijke voorvertoningen van bestemmingspagina&#39;s weergeven zonder zich aan te melden bij Marketo Engage.  Met de API voor het voorvertonen van landingspagina kunt u end-to-end bewerkings- en lokalisatieworkflows in geïntegreerde toepassingen van derden inschakelen.
 
 ## E-mailmarketing {#email-marketing}
@@ -43,7 +43,7 @@ De volgende functies worden vrijgegeven op **15 januari 2021**.
 
 ## Salesforce CRM-integratie {#salesforce-crm-integration}
 
-* [Salesforce CRM-verificatie](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md): Het protocol van OAuth 2.0 is beschikbaar voor het synchroniseren van verrichtingen tussen Marketo Engage en Salesforce CRM. Voor nieuwe abonnees is deze optie standaard ingeschakeld. Huidige abonnees kunnen deze functie aanvragen door contact op te nemen met Marketo Support.
+* [Salesforce CRM-verificatie](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md): Het protocol van OAuth 2.0 is beschikbaar voor het synchroniseren van verrichtingen tussen Marketo Engage en Salesforce CRM. Voor nieuwe abonnees is deze optie standaard ingeschakeld. Huidige abonnees kunnen deze functie aanvragen via Marketo Support.
 * [Salesforce CRM-synchronisatiedashboard](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md): Beheerders kunnen de synchronisatiestatus van Salesforce CRM snel controleren vanaf het dashboard. De tijdsduur van het synchronisatierapport is verhoogd van 2 uur tot 5 dagen.
 * **Metagegevens exporteren**: Verbeterd voor ondersteuning van opportuntobjectkenmerken, benoemde accounts, de standaard- en aangepaste velden van het programmalid.
 
