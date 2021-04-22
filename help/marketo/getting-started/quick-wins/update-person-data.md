@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359426
-description: Persgegevens bijwerken - Marketo Docs - Productdocumentatie
+description: Persgegevens bijwerken - Marketo-documenten - Productdocumentatie
 title: Persoonsgegevens bijwerken
+exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # Persoonlijke gegevens {#update-person-data} bijwerken
 
@@ -43,7 +43,7 @@ Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens
 
    >[!TIP]
    >
-   >Er zijn vele manieren om persoongegevens in Marketo bij te werken. Zie [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) en [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >Er zijn veel manieren om persoongegevens bij te werken in Marketo. Zie [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) en [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## De personengegevens {#update-the-person-data} bijwerken
 
