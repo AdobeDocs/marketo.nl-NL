@@ -2,38 +2,38 @@
 unique-page-id: 10094114
 description: Opmerkingen bij de release - herfst 2015 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - herfst 2015
+exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '995'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Herfst 2015 {#release-notes-fall}
 
-De volgende functies zijn opgenomen in de Fall &#39;15-release. Controleer uw Marketo Edition voor de beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de Fall &#39;15-release. Controleer of de Marketo Edition beschikbaar is.
 
 ## Abonneren op een slimme lijst {#subscribe-to-a-smart-list}
 
 [Abonneren op een slimme lijst](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
-Schrijf u in voor Slimme lijst zodat marketers een slimme lijst kunnen exporteren en deze via e-mail kunnen versturen naar belanghebbenden die Marketo niet gebruiken, bijvoorbeeld Sales- of Telemarketing-teams.
+Met Abonneren op slimme lijst kunnen marketers een slimme lijst exporteren en deze via e-mail versturen naar de belanghebbenden die Marketo niet gebruiken, zoals Sales- of Telemarketing-teams.
 
 De uitvoer kan dagelijks, wekelijks of maandelijks worden gepland, kan eindleveringsdatum hebben en kan worden aangepast om beperkt aantal kolommen te delen.
 
 ![](assets/image2015-10-1-17-3a12-3a50.png)
 
-U kunt meerdere abonnementen maken op een slimme lijst. Er geldt een beperking van 100 abonnementen met 100.000 leads per abonnement, voor verschillende werkruimten, per Marketo-instantie.
+U kunt meerdere abonnementen maken op een slimme lijst. Per Marketo-exemplaar zijn er maximaal 100 abonnementen met 100 kB leads per abonnement, in verschillende werkruimten.
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## Aangepaste objecten markeren {#marketo-custom-objects}
+## Aangepaste Marketo-objecten {#marketo-custom-objects}
 
-[Markeren naar aangepaste objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+[Aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-Maak eenvoudig aangepaste objecten via de interface voor beheerders. Momenteel ondersteunen we de mogelijkheid om een aangepast object van 1:N te maken in Marketo en dit aan te sluiten op een lead of bedrijf.
+Maak eenvoudig aangepaste objecten via de interface voor beheerders. Momenteel ondersteunen we de mogelijkheid om een aangepast 1:N-object te maken in Marketo en dit aan te sluiten op een lead of een bedrijf.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Maak eenvoudig aangepaste objecten via de interface voor beheerders. Momenteel o
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Marketo Insights for Google Chrome {#marketo-insights-for-google-chrome}
+## Marketo Insights voor Google Chrome {#marketo-insights-for-google-chrome}
 
 [Marketo Insights voor Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
@@ -49,13 +49,13 @@ We zijn blij dat we de release van een update van onze Google Mail Sales Insight
 
 Deze update bevat veel nieuwe functies en functies:
 
-* Voordat ze gaan samenwerken, kunnen verkopers relevante informatie over hun vooruitzichten direct in Google Mail bekijken, zoals functies, twitter-profielen, bedrijfsinformatie, foto&#39;s en meer.
+* Voordat ze gaan samenwerken, kunnen verkopers relevante informatie over hun vooruitzichten direct in Google Mail bekijken, zoals functies, twitter-profielen, bedrijfsinformatie, foto&#39;s en nog veel meer.
 * Salespeople kunnen in real time zien met welke inhoudsperspectieven over kanalen, zoals e-mails die worden geopend of geklikt, online of persoonlijk bijgewoonde gebeurtenissen, bezochte webpagina&#39;s, gedownloade eBooks en nog veel meer te maken hebben.
-* E-mails die via Google Mail worden verzonden, worden in Marketo aangemeld en in real-time bijgehouden. Dit laat verkopers zien wanneer de vooruitzichten hun e-mails bekijken zodat zij op enkel de juiste tijd kunnen volgen. Marketo Sales Insight voor Google Mail maakt het voor verkopers ook gemakkelijk om sjablonen die door marketing zijn gemaakt te gebruiken om mooie uitnodigingen, aanbiedingen en andere soorten inhoud te verzenden.
+* E-mails die via Google Mail worden verzonden, worden in Marketo aangemeld en in real-time bijgehouden. Dit laat verkopers zien wanneer de vooruitzichten hun e-mails bekijken zodat zij op enkel de juiste tijd kunnen volgen. Met Marketo Sales Insight voor Google Mail kunnen verkopers bovendien eenvoudig sjablonen gebruiken die door marketing zijn gemaakt om prachtige uitnodigingen, aanbiedingen en andere soorten inhoud te verzenden.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketo Mobile Engagement - Tokens, Send Sample en Voorvertoning {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo Mobile Engagement - Tokens, Send Sample en Preview {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Voorbeeld verzenden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
