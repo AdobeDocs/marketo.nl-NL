@@ -2,14 +2,14 @@
 unique-page-id: 2360311
 description: Een nieuwe werkruimte maken - Marketo Docs - Productdocumentatie
 title: Een nieuwe werkruimte maken
+exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
-
 
 # Nieuwe werkruimte maken {#create-a-new-workspace}
 
@@ -62,7 +62,7 @@ Zo maakt u een nieuwe werkruimte.
 
    >[!NOTE]
    >
-   >Bij het maken verzendt Marketo voorbeeldbestanden in de werkruimte. In taal kunnen de ingezaaide objecten in een niet-Engelse taal worden geschreven.
+   >Marketo stuurt voorbeeldbestanden na het maken door naar de werkruimte. In taal kunnen de ingezaaide objecten in een niet-Engelse taal worden geschreven.
 
    ![](assets/five.png)
 
