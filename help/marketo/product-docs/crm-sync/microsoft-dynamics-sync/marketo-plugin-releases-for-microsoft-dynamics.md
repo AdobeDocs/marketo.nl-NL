@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10099389
-description: Marketo-plug-ins voor Microsoft Dynamics - Marketo Docs - Productdocumentatie
+description: Marketo Plugin-releases voor Microsoft Dynamics - Marketo Docs - Productdocumentatie
 title: Marketo Plugin-releases voor Microsoft Dynamics
+exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 6%
 
 ---
-
 
 # Marketo Plugin-releases voor Microsoft Dynamics {#marketo-plugin-releases-for-microsoft-dynamics}
 
@@ -53,7 +53,7 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
   <tr> 
    <td colspan="1">4.0.0.23</td> 
    <td colspan="1">27-06-18</td> 
-   <td colspan="1">Opgeloste problemen: Fout in bedrijfsproces tijdens het installeren van de Marketo Solutions for Dynamics 2013.</td> 
+   <td colspan="1">Opgeloste problemen: Fout tijdens het bedrijfsproces bij het installeren van de Marketo Solutions for Dynamics 2013.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.22</td> 
@@ -93,7 +93,7 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
   <tr> 
    <td colspan="1">4.0.0.15</td> 
    <td colspan="1">03-03-16</td> 
-   <td colspan="1">Opgeloste problemen: De klant kon geen lood in CRM tot stand brengen omdat de login gebruiker geen toestemming Marketo Config had.</td> 
+   <td colspan="1">Opgeloste problemen: De klant kon geen lead in CRM maken omdat de aanmeldingsgebruiker geen Marketo Config-toestemming had.</td> 
   </tr> 
   <tr> 
    <td colspan="1">4.0.0.14</td> 
@@ -108,11 +108,11 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
   <tr> 
    <td colspan="1">4.0.0.12</td> 
    <td colspan="1">12-11-15</td> 
-   <td colspan="1">Opgeloste problemen: Regeleinden worden gesynchroniseerd met Marketo wanneer het synchronisatiefilter is ingesteld op false.</td> 
+   <td colspan="1">Opgeloste problemen: Regelrecords worden gesynchroniseerd met Marketo wanneer het synchronisatiefilter is ingesteld op false.</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!MORELIKETHIS]
 >
->[Download de oplossing Marketo Lead Management](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
+>[Download de Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
