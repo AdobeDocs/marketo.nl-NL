@@ -2,14 +2,14 @@
 unique-page-id: 10098625
 description: Werken met Microsoft Dynamics Sync - Marketo Docs - Productdocumentatie
 title: Werken met Microsoft Dynamics Sync
+exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
 
 ---
-
 
 # Werken met Microsoft Dynamics Sync {#understanding-the-microsoft-dynamics-sync}
 
@@ -21,15 +21,15 @@ Marketo en Microsoft Dynamics gaan samen. We houden je verkoop- en marketinggege
 
 ## Hoe synchroniseren werkt {#how-sync-works}
 
-Marketo synchroniseert voortdurend gegevens met de Dynamica van Microsoft de hele dag, elke dag. Het is klaar met achtergrondsynchronisatie, in batches, niet in real time.
+Marketo synchroniseert voortdurend gegevens met Microsoft Dynamics de hele dag, elke dag. Het is klaar met achtergrondsynchronisatie, in batches, niet in real time.
 
 >[!NOTE]
 >
->De allereerste synchronisatie in uw abonnement neemt minuten tot uren in beslag, afhankelijk van de grootte van uw database. Marketo kopieert de volledige database van Dynamics. Daarna neemt elke synchronisatie doorgaans seconden of minuten in beslag en worden alleen gegevens gesynchroniseerd die zijn gewijzigd.
+>De allereerste synchronisatie in uw abonnement neemt minuten tot uren in beslag, afhankelijk van de grootte van uw database. Marketo kopieert de gehele database van Dynamics. Daarna neemt elke synchronisatie doorgaans seconden of minuten in beslag en worden alleen gegevens gesynchroniseerd die zijn gewijzigd.
 
-De synchronisatie tussen Marketo en Dynamics is bidirectioneel voor leads en contacten. Als u veranderingen in of Marketo of Dynamiek aanbrengt, zullen uw updates in beide systemen worden weerspiegeld. Alle andere gebieden, zoals rekeningen en kansen, worden slechts één manier gesynchroniseerd, van Dynamiek aan Marketo.
+De synchronisatie tussen Marketo en Dynamics is bidirectioneel voor leads en contacten. Als u wijzigingen aanbrengt in Marketo of Dynamics, worden de updates weerspiegeld in beide systemen. Alle andere gebieden, zoals rekeningen en kansen, zijn slechts één manier, van Dynamiek aan Marketo gesynchroniseerd.
 
-## Wat is Gesynchroniseerd tussen Marketo en de Dynamica van Microsoft? {#what-is-synced-between-marketo-and-microsoft-dynamics}
+## Wat is gesynchroniseerd tussen Marketo en de Dynamica van Microsoft? {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
 * [Leads](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
 * [Contactpersonen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
@@ -41,8 +41,8 @@ De synchronisatie tussen Marketo en Dynamics is bidirectioneel voor leads en con
 
 >[!NOTE]
 >
->De [geloofsbrieven u in Marketo voor Dynamiek ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) ingaat worden gebruikt om gegevens over te synchroniseren.
+>De [referenties die u invoert in Marketo for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) worden gebruikt om gegevens te synchroniseren.
 
 >[!CAUTION]
 >
->Momenteel ondersteunen we sandbox-vernieuwing voor Marketo Dynamics Sync niet. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van de Marketo worden vereist. Neem contact op met de succesmanager van de klant voor meer informatie.
+>Sandboxvernieuwing voor Marketo Dynamics Sync wordt momenteel niet ondersteund. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van Marketo worden vereist. Neem contact op met de succesmanager van de klant voor meer informatie.
