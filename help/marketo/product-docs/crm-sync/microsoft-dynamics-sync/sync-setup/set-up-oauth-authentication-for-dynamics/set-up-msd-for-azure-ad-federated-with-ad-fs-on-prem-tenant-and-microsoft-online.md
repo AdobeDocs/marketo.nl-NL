@@ -1,14 +1,14 @@
 ---
 description: MSD instellen voor Azure AD Federated met AD FS On-prem, Tenant en Microsoft Online - Marketo Docs - Productdocumentatie
 title: MSD instellen voor Azure AD Federated met AD FS On-prem, Tenant en Microsoft Online
+exl-id: b6c10048-d27e-4135-beef-232deddc2984
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 0%
 
 ---
-
 
 # MSD instellen voor Azure AD Federated met AD FS On-prem, Tenant en Microsoft Online {#set-up-msd-for-azure-ad-federated-with-ad-fs-on-prem-tenant-and-microsoft-online}
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 1. Voer alle stappen uit. Voer bij Stap 3 een relevante toepassingsnaam in (bijvoorbeeld &quot;Marketo Integration&quot;). Selecteer onder Ondersteunde accounttypen alleen Account in deze organisatiemap.
 
-1. Schrijf de toepassings-id (ClientId) op. U zult het in Marketo later moeten ingaan.
+1. Schrijf de toepassings-id (ClientId) op. Je moet het later in Marketo invoeren.
 
 1. De toestemming van de Admin van de subsidie door de stappen in [dit artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md) te volgen.
 
@@ -46,7 +46,7 @@ Aanvullende verwijzingen [zijn hier te vinden](https://docs.microsoft.com/en-us/
 
 Wanneer u wordt gedaan, is het tijd om **de Dynamica in te gaan CRM Gegenereerde identiteitskaart van de Cliënt en Geheim in Marketo**.
 
-## Voer de door CRM gegenereerde client-id voor Dynamics CRM in en geheim in Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
+## Voer de door CRM gegenereerde client-id voor Dynamics CRM in en geheim naar Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
 1. Klik in Marketo op **Admin**.
 
