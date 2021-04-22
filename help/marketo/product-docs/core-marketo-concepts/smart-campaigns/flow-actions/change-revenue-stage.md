@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147080
-description: Opbrengstfase wijzigen - Marketo Docs - Productdocumentatie
+description: Opbrengstfase wijzigen - Marketo-documenten - productdocumentatie
 title: Opbrengstfase wijzigen
+exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
-
 
 # Werkgebied {#change-revenue-stage} wijzigen
 
