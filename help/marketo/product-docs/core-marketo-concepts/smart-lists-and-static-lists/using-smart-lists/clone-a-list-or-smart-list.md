@@ -2,14 +2,14 @@
 unique-page-id: 557320
 description: Een lijst of slimme lijst klonen - Marketo Docs - Productdocumentatie
 title: Een lijst of slimme lijst klonen
+exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # Een lijst of slimme lijst klonen {#clone-a-list-or-smart-list}
 
