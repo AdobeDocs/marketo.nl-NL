@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11377406
-description: Uw standaardbrandingdomein met werkruimten bewerken - Marketo Docs - Productdocumentatie
+description: Uw standaardbrandingdomein bewerken met Workspaces - Marketo Docs - Productdocumentatie
 title: Uw standaardbrandingdomein met werkruimten bewerken
+exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # Uw standaardbrandingdomein bewerken met werkruimten {#edit-your-default-branding-domain-with-workspaces}
 
