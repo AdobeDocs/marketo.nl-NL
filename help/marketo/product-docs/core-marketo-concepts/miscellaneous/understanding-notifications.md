@@ -2,22 +2,22 @@
 unique-page-id: 2952292
 description: Kennisgevingen - Marketo Docs - Productdocumentatie
 title: Kennisgevingen
+exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-
 # Kennisgevingen {#understanding-notifications}
 
-Meldingen houden u bijgewerkt op systeemgebeurtenissen die in uw abonnement van Marketo plaatsvinden. Bijvoorbeeld, informeren de mislukkingsberichten van de Campagne u over fouten in uw slimme campagnes, en de synchronisatieberichten van CRM waarschuwen u aan kritieke kwesties die met de synchronisatie van CRM worden gevonden, zoals onjuiste toestemmingen of de synchronisatie die neer zijn.
+Meldingen houden je up-to-date over systeemgebeurtenissen die plaatsvinden in je Marketo-abonnement. Bijvoorbeeld, informeren de mislukkingsberichten van de Campagne u over fouten in uw slimme campagnes, en de synchronisatieberichten van CRM waarschuwen u aan kritieke kwesties die met de synchronisatie van CRM worden gevonden, zoals onjuiste toestemmingen of de synchronisatie die neer zijn.
 
 ## Overzicht {#overview}
 
-1. Nieuwe meldingen worden rechtsboven in Marketo weergegeven.
+1. Rechtsboven in Marketo worden nieuwe meldingen weergegeven.
 
    ![](assets/image2014-10-10-11-3a32-3a48.png)
 
