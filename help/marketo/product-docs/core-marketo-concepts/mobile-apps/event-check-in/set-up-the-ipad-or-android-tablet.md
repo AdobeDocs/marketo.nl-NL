@@ -2,20 +2,20 @@
 unique-page-id: 10099363
 description: De iPad of Android-tablet instellen - Marketo Docs - Productdocumentatie
 title: De iPad of Android-tablet instellen
+exl-id: ccfd48dc-ca8d-442f-87fd-f16b34d1a76c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-
 # iPad of Android-tablet {#set-up-the-ipad-or-android-tablet} instellen
 
-Voor een vloeiende ervaring op de dag van de gebeurtenis bereidt u uw iPad- of Android-tablet voor en test u de app Marketo Events voor de gebeurtenis.
+Voor een vloeiende ervaring op de dag van de gebeurtenis bereidt u uw iPad of Android-tablet voor en test u de Marketo Events-app vóór de gebeurtenis.
 
-Nadat u de gebeurtenis hebt gemaakt in Marketo, wordt deze bij het aanmelden geladen in de iPad of de Android-app Marketo Events (Marketo Events) als:
+Nadat u de gebeurtenis hebt gemaakt in Marketo, wordt deze bij het aanmelden geladen in de iPad of Android-app voor Marketo Events als:
 
 * De account heeft toegang tot uw database
 * De gebeurtenis is gepland op een datum in de periode die één week voor begint en één week na de huidige datum beëindigt
@@ -25,9 +25,9 @@ Nadat u de gebeurtenis hebt gemaakt in Marketo, wordt deze bij het aanmelden gel
 >
 >U moet verbinding hebben met internet om apps te downloaden.
 
-## Download en installeer de iPad-app {#download-and-install-the-marketo-events-ipad-app} voor Marketo Events
+## Download en installeer de Marketo Events iPad-app {#download-and-install-the-marketo-events-ipad-app}
 
-Als de app Marketo Events nog niet op uw iPad is geïnstalleerd, gaat u als volgt te werk:
+Als de Marketo Events-app nog niet op uw iPad is geïnstalleerd, gaat u als volgt te werk:
 
 1. Open uw iPad en start de App Store.
 
@@ -39,9 +39,9 @@ Als de app Marketo Events nog niet op uw iPad is geïnstalleerd, gaat u als volg
 
 1. Volg de procedures om de app te downloaden en installeren op uw iPad.
 
-## De Android-toepassing markeergebeurtenissen downloaden en installeren {#download-and-install-the-marketo-events-android-app}
+## De Marketo Events Android-app {#download-and-install-the-marketo-events-android-app} downloaden en installeren
 
-Als op uw Android-tablet de toepassing Marketo Events nog niet is geïnstalleerd, gaat u als volgt te werk:
+Als op uw Android-tablet de Marketo Events-app nog niet is geïnstalleerd, gaat u als volgt te werk:
 
 1. Open uw tablet en tik op de **Google Play Store**-app.
 1. Typ **Marketo** in het vak Zoeken en tik **Return**.
