@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949186
-description: SEO - Het gebruiken van de boor van het Detail van de Pagina neer - Marketo DOS - de Documentatie van het Product
+description: SEO - Het gebruiken van de boor van het Detail van de Pagina neer - de Documenten van Marketo - de Documentatie van het Product
 title: SEO - De boor Page Detail Down gebruiken
+exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
 
 ---
-
 
 # SEO - De boor van het Detail van de Pagina onderaan {#seo-using-the-page-detail-drill-down} gebruiken
 
@@ -40,9 +40,9 @@ U kunt veel informatie over uw pagina&#39;s zien met de diepteboor van de pagina
 | Totaal binnenkomende koppelingen | Het totale aantal inkomende koppelingen naar uw website. |
 | Binnenkomende koppelingen (unieke domeinen) | Het aantal andere websites met ten minste één inkomende koppeling naar uw site. |
 | Uitgaande koppelingen | Het aantal koppelingen dat van deze specifieke pagina naar andere websites gaat. |
-| Facebook Shares | Aantal keren dat deze pagina op Facebook is gedeeld. |
-| Facebook Likes | Het aantal keren dat deze pagina-share is gevonden op Facebook. |
-| Facebook Clicks | Aantal klikken van het aandeel Facebook. |
+| Facebook-aandelen | Aantal malen dat deze pagina is gedeeld op Facebook. |
+| Facebook Likes | Aantal keren dat deze pagina-share is gevonden op Facebook. |
+| Facebook Kliks | Aantal klikken van het aandeel van Facebook. |
 
 ## Trefwoord(en) waarvoor de pagina is geoptimaliseerd voor {#keyword-s-that-page-is-optimized-for}
 
