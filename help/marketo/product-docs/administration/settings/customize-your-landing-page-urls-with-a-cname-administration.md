@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360189
-description: De URL's van uw bestemmingspagina aanpassen met een CNAME (Beheer) - Marketo Docs - Productdocumentatie
+description: De URL's van uw bestemmingspagina aanpassen met een CNAME (Administration) - Marketo Docs - Productdocumentatie
 title: De URL's van uw bestemmingspagina aanpassen met een CNAME (Beheer)
+exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%
 
 ---
 
-
 # Pas uw het landen pagina URLs met een CNAME (Beleid) {#customize-your-landing-page-urls-with-a-cname-administration} aan
 
-Alhoewel Marketo uw landingspagina&#39;s bewaart, zou URL voor uw bedrijf moeten worden aangepast.
+Hoewel Marketo uw landingspagina&#39;s host, moet de URL voor uw bedrijf worden aangepast.
 
 >[!NOTE]
 >
@@ -73,6 +73,6 @@ Laten we je oprichten!
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 
-Je fallback-pagina is waar mensen omgeleid worden als je bestemmingspagina Marketo niet beschikbaar is.
+Je fallback-pagina is waar mensen worden omgeleid als je Marketo-landingspagina niet beschikbaar is.
 
 Mooi werk! De landingspagina&#39;s zijn nu gecodeerd met uw bedrijfsdomein.
