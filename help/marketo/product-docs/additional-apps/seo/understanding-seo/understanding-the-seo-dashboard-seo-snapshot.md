@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949178
-description: Begrijpen van het SEO-dashboard - SEO-momentopname - Marketo-documenten - Productdocumentatie
+description: Werken met het SEO-dashboard -SEO Snapshot - Marketo Docs - Productdocumentatie
 title: SEO-dashboard begrijpen - SEO-momentopname
+exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
 
 ---
-
 
 # Het SEO-dashboard begrijpen: SEO-opname {#understanding-the-seo-dashboard-seo-snapshot}
 
@@ -39,7 +39,7 @@ Roteren! Laten we doorgaan.
 
 ## Gemiddelde score voor optimalisatie van pagina {#average-page-optimization-score}
 
-De gemiddelde score voor Paginaoptimalisatie is een merkgebonden Marketo-score die alle pagina&#39;s op uw site op een schaal van 1 tot 100 meet.
+De gemiddelde score voor paginamoptimalisatie is een eigen Marketo-score die alle pagina&#39;s op uw site op een schaal van 1 tot 100 meet.
 
 Het is gebaseerd op een compilatie van tientallen beste praktijken. Een score van 70 of hoger geeft een goed geoptimaliseerde site aan.
 
