@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949216
-description: SEO - Pagina's toevoegen - Marketo Docs - Productdocumentatie
+description: SEO - Pagina's toevoegen - Marketo-documenten - Productdocumentatie
 title: SEO - Pagina's toevoegen
+exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # SEO - Pagina&#39;s toevoegen {#seo-add-pages}
 
-Je hebt pagina&#39;s! Marketo SEO kruipt automatisch uw site en volgt deze. Als we er een paar gemist hebben, haal ze dan als volgt in de SEO-app:
+Je hebt pagina&#39;s! Marketo SEO doorloopt automatisch uw site en volgt deze. Als we er een paar gemist hebben, haal ze dan als volgt in de SEO-app:
 
 1. Ga naar de sectie **Pagina&#39;s**.
 
@@ -29,7 +29,7 @@ Je hebt pagina&#39;s! Marketo SEO kruipt automatisch uw site en volgt deze. Als 
 
    >[!TIP]
    >
-   >Wist u dat u uw pagina aan een nieuwe of bestaande lijst kunt [ toevoegen? ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) Kijk eens!
+   >Wist u dat u uw pagina aan een nieuwe of bestaande lijst kunt ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) toevoegen? [ Kijk eens!
 
    Het kan even duren voordat de paginagegevens zijn geladen. Wacht op het groene waarschuwingsbericht en vernieuw uw pagina om de weergave bij te werken.
 
