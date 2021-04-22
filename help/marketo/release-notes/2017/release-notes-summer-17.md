@@ -1,25 +1,25 @@
 ---
 unique-page-id: 12980993
-description: Opmerkingen bij de release - Summer '17 - Marketo Docs - Productdocumentatie
+description: Opmerkingen bij de release - zomer 17 - Marketo Docs - productdocumentatie
 title: Opmerkingen bij de release - zomer '17
+exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Zomer &#39;17 {#release-notes-summer}
 
-De volgende functies zijn opgenomen in de release van zomer 17. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van zomer 17. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. Opmerking: Aan sommige functies in deze release zijn geen artikelen gekoppeld. Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
 
-## [Extra offlineomzettingsfasen van Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## [Extra offlineconversiestappen voor Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
-Kies maximaal 7 extra offlineconversiefasen om toe te wijzen aan uw fasen van de Marketo-levenscyclus (boven de 3 die momenteel beschikbaar zijn). Optimaliseer uw Facebook-advertentie op basis van omzettingen op de hele reis van uw klant om een beter investeringsrendement te behalen.
+Kies tot 7 extra offlineconversiefasen om toe te wijzen aan uw de levenscyclusstadia van Marketo (voorbij de 3 vandaag beschikbare). Optimaliseer uw Facebook en gebruik uw uitgaven op basis van conversies over de hele reis van uw klant om een beter investeringsrendement te behalen.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
@@ -37,7 +37,7 @@ Personen afstemmen op Japanse bedrijfsnamen in de lokale taal.
 
 **[Integratie van ABM en LeanData](https://docs.marketo.com/x/pKmt)**
 
-Dankzij de integratie met LeanData is nu &#39;lead-to-account&#39;-matching in Marketo mogelijk. Houd marketing en verkoop op één lijn door het zelfde lood verbonden aan rekeningen binnen de verkoop en marketing systemen van verslag te hebben. De flexibelere opties geven Marketing en Verkoop Verrichtingen meer controle over lood-aan-rekening passende regels, zodat kunnen zij hun gewenste niveau van precisie bereiken.
+Dankzij de LeanData-integratie is er nu een &#39;lead-to-account&#39;-overeenkomst in Marketo mogelijk. Houd marketing en verkoop op één lijn door het zelfde lood verbonden aan rekeningen binnen de verkoop en marketing systemen van verslag te hebben. De flexibelere opties geven Marketing en Verkoop Verrichtingen meer controle over lood-aan-rekening passende regels, zodat kunnen zij hun gewenste niveau van precisie bereiken.
 
 ## Verbeteringen voor webpersonalisatie {#web-personalization-enhancements}
 
@@ -63,7 +63,7 @@ Verhoog het rendement van uw contentmarketing met diepere analyses en suggesties
 
 **Verbeteringen voor e-mailinzicht**
 
-Haal nog meer uit uw e-mailvisie met nieuwe manieren om gegevens voor te bereiden en te delen. U kunt nu de resultaten van uw e-mailinzichten downloaden naar Microsoft Excel en PowerPoint om met de gegevens buiten Marketo te werken.
+Haal nog meer uit uw e-mailvisie met nieuwe manieren om gegevens voor te bereiden en te delen. U kunt nu de resultaten van uw e-mailinzichten downloaden naar Microsoft Excel en PowerPoint om te werken met de gegevens buiten Marketo.
 
 ## Ondersteuning voor federatieve identiteitsconfiguratie {#federated-identity-configuration-support}
 
