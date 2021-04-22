@@ -2,14 +2,14 @@
 unique-page-id: 1146931
 description: Nieuwe slimme campagne maken - Marketo Docs - Productdocumentatie
 title: Nieuwe slimme campagne maken
+exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
-
 
 # Nieuwe slimme campagne maken {#create-a-new-smart-campaign}
 
