@@ -2,14 +2,14 @@
 unique-page-id: 1146897
 description: Personen in een slimme lijst of lijst verwijderen - Marketo Docs - Productdocumentatie
 title: Personen in een slimme lijst of lijst verwijderen
+exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
-
 
 # Personen in een slimme lijst of lijst verwijderen {#delete-people-in-a-smart-list-or-list}
 
@@ -39,7 +39,7 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
    >
    >Als de resultaten zich over veelvoudige pagina&#39;s uitstrekken, zal het klikken **selecteert allen** alle mensen over alle pagina&#39;s selecteren.
 
-1. Als u de personen volledig wilt verwijderen uit Marketo, klikt u op **Persoon verwijderen**.
+1. Als u de personen volledig uit Marketo wilt verwijderen, klikt u op **Persoon verwijderen**.
 
    ![](assets/four-1.png)
 
@@ -49,11 +49,11 @@ U kunt snel en gemakkelijk sommige/alle mensen schrappen die in een lijst of een
 
    >[!CAUTION]
    >
-   >Door Marketo en uw CRM te verwijderen, kunt u nooit in een van beide systemen herstellen. De mensen en hun geschiedenis zullen voor altijd verdwenen zijn. Als u ze later weer toevoegt, worden ze behandeld als gloednieuwe records.
+   >Als u Marketo en uw CRM verwijdert, kunt u nooit in een van beide systemen herstellen. De mensen en hun geschiedenis zullen voor altijd verdwenen zijn. Als u ze later weer toevoegt, worden ze behandeld als gloednieuwe records.
 
    >[!NOTE]
    >
-   >Als uw Marketo niet aan uw CRM wordt gebonden is de optie grayed uit als in het schermafbeelding.
+   >Als uw Marketo niet is gekoppeld aan uw CRM, wordt de optie grijs weergegeven als in de schermafbeelding.
 
 1. Klik **Nu uitvoeren**.
 
