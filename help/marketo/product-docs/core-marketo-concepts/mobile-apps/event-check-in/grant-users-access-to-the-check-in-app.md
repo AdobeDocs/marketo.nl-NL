@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7516639
-description: Gebruikers toegang verlenen tot de check-in-app - Marketo Docs - Productdocumentatie
+description: Gebruikers toegang geven tot de check-in-app - Marketo Docs - Productdocumentatie
 title: Gebruikers toegang verlenen tot de Check-in-app
+exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
 
 ---
-
 
 # Gebruikers toegang verlenen tot de Check-in-app {#grant-users-access-to-the-check-in-app}
 
