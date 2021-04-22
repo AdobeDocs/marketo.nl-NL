@@ -2,14 +2,14 @@
 unique-page-id: 1146942
 description: Slimme lijst definiëren voor slimme campagne | Trigger - Marketo Docs - Productdocumentatie
 title: Slimme lijst definiëren voor slimme campagne | Trigger
+exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
-
 
 # Slimme lijst definiëren voor slimme campagne | Trigger {#define-smart-list-for-smart-campaign-trigger}
 
@@ -25,7 +25,7 @@ Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd di
 
    >[!NOTE]
    >
-   >Een slimme campagne met triggers wordt uitgevoerd in de modus **Trigger**. Deze wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en eventuele aanvullende filters.
+   >Een slimme campagne met triggers wordt uitgevoerd in de modus **Trigger**. De functie wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en eventuele aanvullende filters.
 
 1. Klik op de vervolgkeuzelijst en kies een operator.
 
