@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359351
-description: Opzetten en een persoon toevoegen - Marketo Docs - Productdocumentatie
+description: Stel een persoon in en voeg deze toe - Marketo Docs - Productdocumentatie
 title: Instellen en een persoon toevoegen
+exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
-
 
 # Instellen en een persoon toevoegen {#get-set-up-and-add-a-person}
 
@@ -43,7 +43,7 @@ Laten we een map maken voor alles wat u in de missies gaat maken.
 
 ## Stap 3: Uzelf toevoegen als een persoon {#step-add-yourself-as-a-person}
 
-Voeg uzelf toe als een persoon in Marketo, zodat u later teste-mails naar uzelf kunt sturen.
+Voeg uzelf toe als persoon in Marketo zodat u later teste-mails naar uzelf kunt sturen.
 
 1. Ga naar **Database** gebied.
 
