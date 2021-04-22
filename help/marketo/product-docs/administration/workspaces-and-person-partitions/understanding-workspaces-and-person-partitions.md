@@ -2,14 +2,14 @@
 unique-page-id: 2360309
 description: Werken- en personenpartities begrijpen - Marketo Docs - Productdocumentatie
 title: Werken- en personenpartities begrijpen
+exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
-
 
 # Werken- en personenpartities {#understanding-workspaces-and-person-partitions}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Werkruimten kunnen complex zijn om in te stellen. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) om te weten te komen of ze bij u passen.
+>Werkruimten kunnen complex zijn om in te stellen. Neem contact op met de [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) om te weten te komen of deze geschikt zijn voor u.
 
 De werkruimten zijn afzonderlijke gebieden in Marketo die marketingmiddelen zoals programma&#39;s, landingspagina&#39;s, e-mails en meer bevatten. Ze kunnen door meerdere mensen worden gebruikt. Elke gebruiker heeft toegang tot een of meer werkruimten.
 
@@ -86,7 +86,7 @@ Voor activa die geen malplaatjes zijn, zijn best om hen als lokale activa binnen
 
 * Programma&#39;s
 * E-mails
-* Openingspagina&#39;s
+* Landingspagina&#39;s
 * Forms
 
 >[!NOTE]
@@ -103,7 +103,7 @@ Als u elementen naar een nieuwe werkruimte wilt verplaatsen, plaatst u ze in een
 
 ## Personpartities {#person-partitions}
 
-Personverdelingen fungeren als aparte databases. Elke verdeling heeft zijn eigen mensen die niet ontdupe of mengen met andere verdelingen. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) als u van mening bent dat u een bedrijfscase hebt waarvoor dubbele records met hetzelfde e-mailadres nodig kunnen zijn.
+Personverdelingen fungeren als aparte databases. Elke verdeling heeft zijn eigen mensen die niet ontdupe of mengen met andere verdelingen. Neem contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) als u een bedrijfs-gebruikscase hebt waarvoor dubbele records met hetzelfde e-mailadres nodig kunnen zijn.
 
 U kunt persoonlijke verdelingen toewijzen aan [werkruimten](create-a-new-workspace.md) in de volgende configuraties:
 
