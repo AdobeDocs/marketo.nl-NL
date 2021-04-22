@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359898
-description: Ontdek welke machtigingen u hebt - Marketo Docs - Productdocumentatie
+description: Ontdek welke machtigingen u hebt - Marketo-documenten - productdocumentatie
 title: Controleren welke machtigingen u hebt
+exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-
 # Ontdek welke machtigingen u hebt {#find-out-what-permissions-you-have}
 
-Als u zich afvraagt welke toestemmingen u hebt of niet in Marketo hebt, is er een gemakkelijke manier voor u om te weten te komen.
+Als je je afvraagt welke machtigingen je hebt of niet in Marketo, dan is er een eenvoudige manier om uit te zoeken.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -27,4 +27,4 @@ U zult de toestemmingen zien die uit worden vermeld.
 
 ![](assets/image2014-9-8-17-3a45-3a23.png)
 
-Als u om het even welke toestemmingen nodig hebt die voor u worden toegelaten, spreek aan uw beheerder van het Marketo.
+Neem contact op met uw Marketo-beheerder als u machtigingen voor u nodig hebt.
