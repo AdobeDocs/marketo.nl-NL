@@ -2,14 +2,14 @@
 unique-page-id: 11382122
 description: Audittrail inschakelen - Marketo Docs - Productdocumentatie
 title: Audittrail inschakelen
+exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
-
 
 # Audittrail {#enable-audit-trail} inschakelen
 
@@ -49,7 +49,7 @@ Audittrail is beschikbaar voor alle klanten en wordt beheerd door twee beheerder
    >
    >**Toegang tot aanmeldingsgeschiedenis:** geeft gebruikers toegang tot  [gebruikersaanmeldingsgeschiedenis](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
 
-## Roll audittrail toewijzen aan een gebruiker {#assign-audit-trail-role-to-a-user}
+## Taak audittrail toewijzen aan een gebruiker {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
