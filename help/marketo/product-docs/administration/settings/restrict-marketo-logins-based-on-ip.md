@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360297
-description: Beperk Marketo Logins die op IP - Marketo Docs - Documentatie van het Product worden gebaseerd
-title: Beperk Marketo Logins die op IP worden gebaseerd
+description: Marketo-aanmeldingen beperken op basis van IP - Marketo Docs - Productdocumentatie
+title: Marketo-aanmeldingen beperken op basis van IP
+exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-
 # Marketo-aanmeldingen beperken op basis van IP {#restrict-marketo-logins-based-on-ip}
 
-U kunt gebruikers beperken of toelaten om tot Marketo toegang te hebben die op hun IP adressen wordt gebaseerd. Zo gaat het.
+U kunt gebruikers beperken of toestaan om tot Marketo toegang te hebben die op hun IP adressen wordt gebaseerd. Zo gaat het.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ U kunt gebruikers beperken of toelaten om tot Marketo toegang te hebben die op h
    >**Definitie**
    >
    >* **Toegestane IP-adressen**: Toegestane IP-adressen worden ook toegevoegd. Het zal alle IP gespecificeerde adressen omvatten en zal alles anders uitsluiten.
-   >* **IP-adressen** blokkeren: Voorkomt dat specifieke IPs tot Marketo toegang heeft.
+   >* **IP-adressen** blokkeren: Voorkomt dat specifieke IP&#39;s toegang krijgen tot Marketo.
    >* **IP-beperkingen** uitschakelen: Als u dit controleert, werken er geen/alle beperkingsregels meer. Gebruik dit voor testdoeleinden.
 
 
