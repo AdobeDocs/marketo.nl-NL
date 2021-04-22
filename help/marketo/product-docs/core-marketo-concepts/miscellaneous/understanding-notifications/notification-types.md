@@ -2,14 +2,14 @@
 unique-page-id: 2953243
 description: Meldingstypen - Marketo Docs - Productdocumentatie
 title: Typen meldingen
+exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # Typen meldingen {#notification-types}
 
@@ -51,7 +51,7 @@ Deactivate teweeggebrachte Slimme Campagnes die geen activiteit meer krijgen. Me
 
 LinkedIn
 
-Wanneer Marketo geen nieuw publiek kan maken, meldt u zich aan of stuurt u e-mails naar LinkedIn na drie pogingen.
+Als Marketo na drie pogingen geen nieuw publiek kan maken, meldt u zich aan of stuurt u per e-mail naar LinkedIn.
 
 ![](assets/linkedin.png)
 
