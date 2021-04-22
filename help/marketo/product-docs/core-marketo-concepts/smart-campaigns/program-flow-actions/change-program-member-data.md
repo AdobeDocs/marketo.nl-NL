@@ -1,14 +1,14 @@
 ---
-description: Gegevens van programmalid wijzigen - Marketo Docs - Productdocumentatie
+description: Gegevens voor leden van het programma wijzigen - Marketo Docs - Productdocumentatie
 title: Gegevens van programmalid wijzigen
+exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Gegevens van programmalid wijzigen {#change-program-member-data}
 
