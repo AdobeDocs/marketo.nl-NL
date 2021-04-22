@@ -1,18 +1,18 @@
 ---
-description: Microsoft Dynamics CRM-app instellen voor on-prem - Marketo Docs - Productdocumentatie
+description: Microsoft Dynamics CRM App instellen voor On-Prem - Marketo Docs - Productdocumentatie
 title: Microsoft Dynamics CRM-app instellen voor On-prem
+exl-id: 50d41d0a-0c3b-43b8-8117-d91903e74699
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-
 # Microsoft Dynamics CRM App instellen voor On-Prem {#set-up-microsoft-dynamics-crm-app-for-on-prem}
 
-De op geheim-gebaseerde opstelling van de identiteitskaart/van de Cliënt in Marketo kan voor op-prem met AD FS (ver. worden gedaan. 2016 of hoger). Voor oudere versies van On-prem, gelieve te reiken aan [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om de authentificatiemethode te veranderen om slechts op gebruiker te worden gebaseerd - identiteitskaart en Wachtwoord.
+De client-id/client-beveiligingsinstallatie in Marketo kan worden uitgevoerd voor on-prem met AD FS (ver. 2016 of hoger). Voor oudere versies van On-prem, gelieve te reiken aan [Marketo Steun](https://nation.marketo.com/t5/Support/ct-p/Support) om de authentificatiemethode te veranderen om slechts op gebruiker te worden gebaseerd - identiteitskaart en Wachtwoord.
 
 ## Microsoft Dynamics CRM App {#set-up-microsoft-dynamics-crm-app} instellen
 
@@ -20,7 +20,7 @@ Voer de stappen in [dit Microsoft-artikel](https://docs.microsoft.com/en-us/wind
 
 Wanneer u wordt gedaan, is de volgende stap **ga de Dynamica CRM Gegenereerde identiteitskaart van de Cliënt en Geheim in Marketo** in.
 
-## Voer de door CRM gegenereerde client-id voor Dynamics CRM in en geheim in Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
+## Voer de door CRM gegenereerde client-id voor Dynamics CRM in en geheim naar Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
 De volgende stappen zijn van toepassing op online en op prem versies.
 
