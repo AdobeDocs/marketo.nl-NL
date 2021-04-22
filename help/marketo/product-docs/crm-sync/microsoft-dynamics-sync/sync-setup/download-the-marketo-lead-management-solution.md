@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6848922
 description: Download de Marketo Lead Management Solution - Marketo Docs - Productdocumentatie
-title: Download de oplossing Marketo Lead Management
+title: Download de Marketo Lead Management Solution
+exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # Download de Marketo Lead Management Solution {#download-the-marketo-lead-management-solution}
 
@@ -17,11 +17,11 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-U zult een Oplossing van de Marketo in uw rekening van de Dynamiek van Microsoft moeten downloaden en installeren om de synchronisatie begonnen te krijgen.
+U moet een Marketo-oplossing downloaden en installeren in uw Microsoft Dynamics-account om de synchronisatie te starten.
 
 >[!CAUTION]
 >
->Het is absoluut noodzakelijk dat u de nieuwste Marketo-oplossing _downloadt voordat_ een upgrade uitvoert.
+>U moet de nieuwste Marketo-oplossing _downloaden voordat_ een upgrade uitvoert.
 
 >[!NOTE]
 >
