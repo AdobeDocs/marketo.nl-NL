@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10094647
-description: Een standaardvoorvoegsel voor aangepast veld instellen - Marketo Docs - Productdocumentatie
+description: Een standaardvoorvoegsel voor een aangepast veld instellen - Marketo Docs - Productdocumentatie
 title: Een standaardvoorvoegsel voor een aangepast veld instellen
+exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
 # Een standaardvoorvoegsel voor aangepast veld instellen {#set-a-default-custom-field-prefix}
 
-Uw standaard prefix van de Dynamiek van Microsoft voor douanevelden moet **new** zijn opdat de merkgebonden gebieden van het Marketo correct synchroniseren. Hier is hoe te om het standaardvoorvoegsel te veranderen.
+Uw standaard prefix van de Dynamiek van Microsoft voor douanevelden moet **new** zijn opdat de merkgebonden gebieden van Marketo correct synchroniseren. Hier is hoe te om het standaardvoorvoegsel te veranderen.
 
 1. Ga naar Instellingen en selecteer **Aanpassingen.**
 
