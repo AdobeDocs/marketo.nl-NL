@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147091
-description: Het begrip van het Lidmaatschap van het Programma - Marketo Docs - de Documentatie van het Product
+description: Werken met het programmamandschap - Marketo Docs - Productdocumentatie
 title: Werken met het lidmaatschap van het programma
+exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
 
 ---
 
-
 # Program Membership {#understanding-program-membership}
 
 >[!NOTE]
 >
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk leads/leads in uw abonnement en personen/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md) informatie.
+>Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk lead/lead in uw abonnement en persoon/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md) informatie.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 1. U gebruikt [de stroomstap ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) van het veranderingsprogramma.
 1. Een persoon registreert of woont een [webinar bij die met een gebeurtenisprogramma](/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md) wordt gesynchroniseerd.
-1. Een persoon wordt [gemaakt met de toepassing Marketo iPad check-in](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+1. Een persoon wordt [gemaakt met de Marketo iPad check-in toepassing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Een persoon wordt toegevoegd aan een campagne SFDC, die [aan het programma wordt gesynchroniseerd](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
 >[!NOTE]
