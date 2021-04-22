@@ -2,24 +2,24 @@
 unique-page-id: 11377395
 description: Een extra brandingdomein toevoegen - Marketo Docs - Productdocumentatie
 title: Een extra brandingdomein toevoegen
+exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # Een extra brandingdomein toevoegen {#add-an-additional-branding-domain}
 
-Voeg een extra branding domein toe wanneer u veelvoudige merken uit één enkele instantie van Marketo in werking stelt en wil hen elk hun eigen merked het volgen verbindingen hebben.
+Voeg een extra branding domein toe wanneer u veelvoudige merken uit één enkel geval van Marketo in werking stelt en hen elk hun eigen merked het volgen verbindingen wilt hebben.
 
 >[!PREREQUISITES]
 >
 >U moet [de generische volgende verbinding](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) met een branded domein vervangen alvorens extra branded domeinen toe te voegen.
 
-1. In Mijn Marketo, klik **Admin** en toen **Email** verbinding.
+1. Klik in Mijn Marketo op **Admin** en vervolgens op de koppeling **Email**.
 
    ![](assets/image2016-6-29-16-3a42-3a20.png)
 
