@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512289
-description: GoToWebinar toevoegen als LaunchPoint-service - Marketo Docs - Productdocumentatie
+description: GoToWebinar toevoegen als een LaunchPoint-service - Marketo Docs - Productdocumentatie
 title: GoToWebinar toevoegen als een LaunchPoint-service
+exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 
 ---
-
 
 # GoToWebinar toevoegen als een LaunchPoint-service {#add-gotowebinar-as-a-launchpoint-service}
 
@@ -45,7 +45,7 @@ Marketo beheert uw registratie en aanwezigheid van GoToWebinar.
 
    >[!NOTE]
    >
-   >Als u de Naam van het Bedrijf en Titel van de Baan van uw Vorm van Marketo aan GoToWebinar wilt synchroniseren, selecteer **toelaten Extra Gebieden** doos.
+   >Als u de Naam van het Bedrijf en Titel van de Baan van uw vorm van Marketo aan GoToWebinar wilt synchroniseren, selecteer **de doos van de Inschakelen Extra Velden**.
 
 1. Voer in het pop-upvenster Aanmelden bij GoToWebinar uw **GoToWebinar** e-mail en wachtwoord in en klik op **Aanmelden**.
 
@@ -55,13 +55,13 @@ Marketo beheert uw registratie en aanwezigheid van GoToWebinar.
 
    ![](assets/image2015-4-22-15-3a57-3a43.png)
 
-1. Geweldig! Uw **GoToWebinar** account is nu gesynchroniseerd met Marketo.
+1. Geweldig! Uw **GoToWebinar**-account is nu gesynchroniseerd met Marketo.
 
    ![](assets/goto-webinar.png)
 
 >[!CAUTION]
 >
->Wanneer u uw wachtwoord in GoToWebinar bijwerkt, moet u uw wachtwoord in Marketo ook bijwerken.
+>Wanneer u uw wachtwoord in GoToWebinar bijwerkt, moet u uw wachtwoord ook in Marketo bijwerken.
 
 >[!MORELIKETHIS]
 >
