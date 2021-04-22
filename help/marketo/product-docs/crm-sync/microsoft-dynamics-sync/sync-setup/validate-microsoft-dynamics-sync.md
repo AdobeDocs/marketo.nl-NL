@@ -1,23 +1,23 @@
 ---
 unique-page-id: 8783322
-description: Validatie Microsoft Dynamics Sync - Marketo Docs - Productdocumentatie
+description: Microsoft Dynamics Sync valideren - Marketo Docs - Productdocumentatie
 title: Synchronisatie van Microsoft-dynamiek valideren
+exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 translation-type: tm+mt
-source-git-commit: 20d4c8a079916f47267df3dab5a8e663f6eb019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-
 # Synchronisatie van Microsoft Dynamics {#validate-microsoft-dynamics-sync} valideren
 
 >[!CAUTION]
 >
->Als u Multi-Factor Authentificatie (MFA) hebt toegelaten voor uw Synchronisatie van de Dynamiek, moet u het onbruikbaar maken opdat de Dynamica behoorlijk met Marketo synchroniseert. Neem voor meer informatie contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Als u Multi-Factor Authentication (MFA) hebt ingeschakeld voor uw Dynamics Sync, moet u deze uitschakelen om Dynamics correct te synchroniseren met Marketo. Neem voor meer informatie contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-## Sync valideren in markeerteken {#run-validate-sync-in-marketo}
+## Sync uitvoeren in Marketo {#run-validate-sync-in-marketo}
 
 Het is zeer belangrijk om het Validate hulpmiddel van de Synchronisatie in werking te stellen om ervoor te zorgen uw Synchronisatie van de Dynamiek van Microsoft met Marketo correct opstelling alvorens de definitieve verbinding tussen hen te maken. Het proces produceert een controlelijst van zeven opstellingsstappen die waar de kwesties bestaan. Als u controleert of deze correct zijn uitgevoerd, bespaart u later veel tijd.
 
@@ -49,7 +49,7 @@ Het is zeer belangrijk om het Validate hulpmiddel van de Synchronisatie in werki
 
    >[!CAUTION]
    >
-   >Momenteel ondersteunen we sandbox-vernieuwing voor Marketo Dynamics Sync niet. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van de Marketo worden vereist. Neem contact op met de succesmanager van de klant voor meer informatie.
+   >Sandboxvernieuwing voor Marketo Dynamics Sync wordt momenteel niet ondersteund. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van Marketo worden vereist. Neem contact op met de succesmanager van de klant voor meer informatie.
 
 >[!MORELIKETHIS]
 >
