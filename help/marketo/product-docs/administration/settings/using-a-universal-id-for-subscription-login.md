@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100311
-description: Gebruikend een Universele identiteitskaart voor Aanmelden van het Abonnement - Marketo Docs - de Documentatie van het Product
+description: Een universele id gebruiken voor aanmelding bij een abonnement - Marketo Docs - Productdocumentatie
 title: Een universele id gebruiken voor aanmelding bij een abonnement
+exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 0%
 
 ---
 
-
 # Een universele id gebruiken voor aanmelding bij een abonnement {#using-a-universal-id-for-subscription-login}
 
-Met een universele id hebt u toegang tot meerdere Marketo-abonnementen met één aanmelding en kunt u snel schakelen tussen abonnementen. U kunt echter desgewenst verschillende aanmeldingen voor uw abonnementen gebruiken.
+Met een Universal ID hebt u toegang tot meerdere Marketo-abonnementen met één aanmelding en kunt u snel schakelen tussen abonnementen. U kunt echter desgewenst verschillende aanmeldingen voor uw abonnementen gebruiken.
 
 Met Universal ID maakt u nog steeds ondersteuningstickets voor elk van uw individuele abonnementen.
 
@@ -21,7 +21,7 @@ De het niveaumontages van het abonnement worden gerespecteerd voor gebruikers di
 
 ## Een universele id instellen {#setting-up-a-universal-id}
 
-Van elke afzonderlijke instantie, moet uw beheerder van de Marketo u aan elk van uw verschillende abonnementen met zelfde login uitnodigen. Marketo kan uw bestaande aanmeldingen niet automatisch samenvoegen. Als u de Universal ID hebt ingeschakeld, is **uw Marketo-instantie maximaal 30 minuten niet beschikbaar**. Als u een grotere gebruikersbasis hebt, zou het een beetje langer kunnen zijn.
+Van elk afzonderlijk exemplaar, moet uw beheerder van Marketo u aan elk van uw verschillende abonnementen met de zelfde login uitnodigen. Marketo kan uw bestaande aanmeldingen niet automatisch samenvoegen. Als u de Universal ID hebt ingeschakeld, is **uw Marketo-instantie maximaal 30 minuten niet beschikbaar**. Als u een grotere gebruikersbasis hebt, zou het een beetje langer kunnen zijn.
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ Van elke afzonderlijke instantie, moet uw beheerder van de Marketo u aan elk van
 
 ## Aanmelden {#logging-in}
 
-Wanneer u zich aanmeldt om een uitnodiging voor een tweede abonnement met een Universal-id te accepteren, wordt de aanmeldingspagina van Inschakelen weergegeven. Hier moet u een selectievakje inschakelen om de voorwaarden te accepteren. Nadat u hebt goedgekeurd, zult u de normale terugstellingspagina, niet deze, voor om het even welke verdere logins zien. Door de voorwaarden te accepteren, staat u Marketo toe om uw basisprofielgegevens (zoals voornaam, achternaam en e-mailadres) naar de datacenters te distribueren op verschillende locaties waar uw abonnement wordt gehost.
+Wanneer u zich aanmeldt om een uitnodiging voor een tweede abonnement met een Universal-id te accepteren, wordt de aanmeldingspagina van Inschakelen weergegeven. Hier moet u een selectievakje inschakelen om de voorwaarden te accepteren. Nadat u hebt goedgekeurd, zult u de normale terugstellingspagina, niet deze, voor om het even welke verdere logins zien. Door de voorwaarden en bepalingen te accepteren, staat u Marketo toe om uw basisprofielgegevens (zoals voornaam, achternaam en e-mailadres) naar de datacenters te distribueren op verschillende locaties waar uw abonnement wordt gehost.
 
 ![](assets/new-login-reduced-hands-name.png)
 
@@ -43,13 +43,13 @@ Wanneer u zich aanmeldt om een uitnodiging voor een tweede abonnement met een Un
 
 ## Wachtwoorden {#passwords}
 
-Met Universele identiteitskaart voor veelvoudige abonnementen, dwingt de Marketo automatisch het strengste wachtwoordbeleid af. Bijvoorbeeld, als sommige abonnementen een minimumwachtwoordlengte vereisen en anderen niet, zal de minimumlengte voor alle abonnementen worden afgedwongen.
+Met Universal ID voor meerdere abonnementen past Marketo automatisch het strengste wachtwoordbeleid toe. Bijvoorbeeld, als sommige abonnementen een minimumwachtwoordlengte vereisen en anderen niet, zal de minimumlengte voor alle abonnementen worden afgedwongen.
 
 Met een universele id voor meerdere abonnementen kunt u alleen het wachtwoord wijzigen.
 
 >[!NOTE]
 >
->Marketo vraagt gebruikers die de Universal-id willen gebruiken om hun wachtwoord opnieuw in te stellen als het wachtwoord van het huidige abonnement niet voldoet aan het wachtwoordbeleid van het tweede abonnement waarvoor ze worden uitgenodigd.
+>Marketo zal gebruikers die de Universal-id willen gebruiken, vragen hun wachtwoord opnieuw in te stellen als het wachtwoord van het huidige abonnement niet voldoet aan het wachtwoordbeleid van het tweede abonnement waarvoor ze worden uitgenodigd.
 
 ## Schakelen tussen abonnementen {#switching-between-subscriptions}
 
@@ -57,7 +57,7 @@ Gebruikend een Universele identiteitskaart, kunt u het abonnement zien u wordt g
 
 ![](assets/image2016-11-3-15-3a10-3a16.png)
 
-Wanneer u logout en terug binnen, Marketo registreert u automatisch in het abonnement u het laatst werd geregistreerd in. U kunt desgewenst overschakelen naar een ander abonnement.
+Wanneer u zich afmeldt en weer inlogt, meldt Marketo u automatisch aan bij het abonnement waar u het laatst bent aangemeld. U kunt desgewenst overschakelen naar een ander abonnement.
 
 ## Community-profielen {#community-profiles}
 
@@ -65,7 +65,7 @@ Als u meerdere abonnementen hebt, hebt u mogelijk meerdere gemeenschapsprofielen
 
 ## Mobiel Platform {#mobile-platform}
 
-Gebruikers met een universele id kunnen hun gegevens bekijken op Marketo Moments en de toepassing voor het inchecken van iPad-gebeurtenissen vanuit het abonnement waarin zij zich het laatst hebben aangemeld. U kunt geen abonnementen van het Mobiele platform zelf veranderen.
+Gebruikers met een Universal ID kunnen hun gegevens op Marketo Moments en de toepassing voor het inchecken van iPad-gebeurtenissen bekijken via het abonnement waarin zij zich het laatst hebben aangemeld. U kunt geen abonnementen van het Mobiele platform zelf veranderen.
 
 >[!MORELIKETHIS]
 >
