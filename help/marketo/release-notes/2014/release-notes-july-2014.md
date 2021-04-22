@@ -2,18 +2,18 @@
 unique-page-id: 2951040
 description: Opmerkingen bij de release - juli 2014 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juli 2014
+exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Juli 2014 {#release-notes-july}
 
-De volgende functies zijn opgenomen in de release van juli 2014. Controleer uw Marketo Edition voor de beschikbaarheid van functies. Kom terug na de release voor koppelingen naar gedetailleerde functiedocumentatie.
+De volgende functies zijn opgenomen in de release van juli 2014. Controleer of de Marketo Edition beschikbaar is. Kom terug na de release voor koppelingen naar gedetailleerde functiedocumentatie.
 
 ## Marketingkalender {#marketing-calendar}
 
@@ -27,7 +27,7 @@ Documentatie over de marketingkalender is beschikbaar op het moment van de relea
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-Marketo Lead Management wordt bijgewerkt met een nieuwe vormgeving die modern en gestroomlijnd is en die een bijgewerkte navigatie bevat.
+Marketo Lead Management wordt bijgewerkt met een nieuwe vormgeving die modern en stijlvol is en een bijgewerkte navigatie bevat.
 
 ## Datumoperatoren {#date-operators}
 
