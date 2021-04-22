@@ -2,18 +2,18 @@
 unique-page-id: 12255606
 description: Opmerkingen bij de release - Winter '17 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - Winter '17
+exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Winter &#39;17 {#release-notes-winter}
 
-De volgende functies zijn opgenomen in de release van Winter &#39;17. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van Winter &#39;17. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven.
 
@@ -21,7 +21,7 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 >
 >Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
 
-## [Geavanceerde overeenkomst voor aangepast publiek Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## [Geavanceerde overeenkomsten voor aangepaste Facebook-soorten publiek](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
 
 Bij Standaard afstemmen worden alleen e-mailadressen gebruikt, maar bij nieuwe geavanceerde afstemming worden nog zeven velden gebruikt, waardoor de afstemmingsfrequentie voor meer conversie toeneemt.
 
@@ -95,4 +95,4 @@ Vanaf 1 augustus 2017 zullen klanten die nog steeds de oude Rich Text Editor en 
 
 ## [Marketo Activity API&#39;s](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-Een belangrijke verandering komt aan de activiteit APIs van Marketo. Bent u voorbereid?
+Een belangrijke wijziging is de activiteit-API&#39;s van Marketo. Bent u voorbereid?
