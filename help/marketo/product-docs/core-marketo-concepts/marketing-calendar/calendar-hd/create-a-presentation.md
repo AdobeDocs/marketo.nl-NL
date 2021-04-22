@@ -2,14 +2,14 @@
 unique-page-id: 7503971
 description: Een presentatie maken - Marketo Docs - Productdocumentatie
 title: Een presentatie maken
+exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
-
 
 # Een presentatie maken {#create-a-presentation}
 
