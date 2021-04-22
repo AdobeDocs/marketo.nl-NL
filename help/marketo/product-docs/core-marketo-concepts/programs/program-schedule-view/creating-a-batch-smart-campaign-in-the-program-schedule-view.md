@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147142
-description: Het creëren van een Partij Slimme Campagne in de Mening van het Programma - Marketo Docs - de Documentatie van het Product
+description: Een batchslimme campagne maken in de programmaweergave - Marketo Docs - Productdocumentatie
 title: Het creëren van een Partij Slimme Campagne in de Mening van het Programma
+exl-id: 8baf07c5-d45f-4b17-9c9c-45063dd95aac
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-
 # Het creëren van een Partij Slimme Campagne in de Mening van het Programma {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-U kunt nieuwe slimme campagnes tot stand brengen en [reun bestaande degenen](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md) binnen uw programma van de mening van het programmaprogramma opnieuw.
+U kunt nieuwe slimme campagnes tot stand brengen en [bestaande degenen ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md) binnen uw programma van de mening van het programmaprogramma opnieuw uitvoeren.
 
 >[!NOTE]
 >
