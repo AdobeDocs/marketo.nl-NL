@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557312
-description: De slimme Lijst de Verklarende woordenlijst van de Exploitanten van de Filter van de Lijst - Marketo Docs - de Documentatie van het Product
+description: Verklarende woordenlijst van slimme-lijstfilteroperatoren - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst voor slimme-lijstfilteroperatoren
+exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%
 
 ---
-
 
 # Woordenlijst slimme-lijstfilteroperatoren {#smart-list-filter-operators-glossary}
 
@@ -56,7 +56,7 @@ Typ gewoon het nummer en de eenheid en het werkt!
 
 >[!CAUTION]
 >
->Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, Aanmaakdatum van SFDC) en de **before** of **on of before**-beperkingen gebruikt, bevat de slimme lijst ook personen die geen waarde hebben in het datumveld.
+>Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, datum van aanmaak van SFDC) en de **before** of **on of before**-beperkingen gebruikt, bevat de slimme lijst ook personen die geen waarde hebben in het datumveld.
 
 Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrijpen.
 
@@ -146,4 +146,4 @@ Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrij
  </tbody> 
 </table>
 
-Zoals u ziet, maken deze operatoren het gemakkelijk om met soepelheid te spreken!
+Zoals u ziet, maken deze operatoren het gemakkelijk om Marketo-ese met soepelheid te spreken!
