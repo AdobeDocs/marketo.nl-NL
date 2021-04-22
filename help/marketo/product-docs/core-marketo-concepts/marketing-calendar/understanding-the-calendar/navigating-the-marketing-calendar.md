@@ -2,14 +2,14 @@
 unique-page-id: 1147257
 description: Navigeren door de marketingkalender - Marketo Docs - Productdocumentatie
 title: Navigeren door de marketingkalender
+exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
-
 
 # Navigeren in de marketingkalender {#navigating-the-marketing-calendar}
 
@@ -17,13 +17,13 @@ U kunt gemakkelijk in de marketingkalender navigeren, maar dan wel één, twee, 
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u een [licentie van de Kalender van de Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - anders zal de tegel van de Kalender van de Marketing niet in Mijn Marketo verschijnen.
+>Zorg ervoor dat u een [licentie voor marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) hebt, anders verschijnt het element voor marketingkalender niet in Mijn Marketo.
 
 1. Ga naar **Marketingkalender**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Dit is een vogeloogweergave van elementen die in uw Marketo-instantie zijn gepland.
+1. Dit is een vogeloogweergave van middelen die zijn gepland in je Marketo-instantie.
 
    ![](assets/image2014-9-15-16-3a44-3a22.png)
 
