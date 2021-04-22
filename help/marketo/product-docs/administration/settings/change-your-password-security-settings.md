@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360185
-description: Wijzig uw beveiligingsinstellingen voor wachtwoorden - Marketo Docs - Productdocumentatie
+description: Wijzig uw wachtwoordbeveiligingsinstellingen - Marketo Docs - Productdocumentatie
 title: Beveiligingsinstellingen voor wachtwoord wijzigen
+exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
 
 ---
-
 
 # Wijzig uw beveiligingsinstellingen voor wachtwoord {#change-your-password-security-settings}
 
@@ -47,7 +47,7 @@ Het wachtwoordbeleid voor uw abonnement bepalen. Zo gaat het.
 
    ![](assets/expiration.png)
 
-1. Stel de **Inactieve time-out sessie** in. Dit bepaalt hoe lang een gebruiker voor inactief kan zijn alvorens zij aan Marketo opnieuw moeten inloggen.
+1. Stel de **Inactieve time-out sessie** in. Hiermee bepaalt u hoe lang een gebruiker inactief kan zijn voordat hij of zij opnieuw moet aanmelden bij Marketo.
 
    ![](assets/inactivesession.png)
 
