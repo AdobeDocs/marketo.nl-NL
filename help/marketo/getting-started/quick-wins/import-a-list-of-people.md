@@ -2,14 +2,14 @@
 unique-page-id: 2359418
 description: Een lijst met personen importeren - Marketo Docs - Productdocumentatie
 title: Een lijst met personen importeren
+exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
 
 ---
-
 
 # Een lijst met personen {#import-a-list-of-people} importeren
 
@@ -65,7 +65,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 >
 >Gebeurtenisprogramma&#39;s vinden plaats op specifieke datums. Meer informatie over [**Gebeurtenissen**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md).
 
-## Stap 3: Spreadsheet importeren in markeerteken naar {#step-import-your-spreadsheet-into-marketo}
+## Stap 3: Uw spreadsheet importeren in Marketo {#step-import-your-spreadsheet-into-marketo}
 
 1. Klik in **Mijn handelsprogramma** op **Nieuw** en selecteer **Nieuw lokaal element**.
 
@@ -104,7 +104,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
    > * Activiteitenregistratie overslaan
 
 
-1. Wijs de gebieden van de Kolom van de Lijst aan hun respectieve Gebied van de Markering toe en klik **Volgende**.
+1. Wijs de gebieden van de Kolom van de Lijst aan hun respectieve Gebied van Marketo toe en klik **Volgende**.
 
    ![](assets/image2014-9-24-12-3a24-3a49.png)
 
@@ -134,7 +134,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
 ## Opdracht voltooid {#mission-complete}
 
-Uw deelnemers aan de presentatie zijn nu lid van uw Marketo-programma!
+Uw deelnemers aan de beurs zijn nu lid van uw Marketo-programma!
 
 <br> 
 
