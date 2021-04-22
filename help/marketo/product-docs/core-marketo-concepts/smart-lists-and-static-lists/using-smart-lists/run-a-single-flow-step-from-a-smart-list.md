@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557322
-description: Voer een enkele stroomstap uit vanuit een slimme lijst - Marketo Docs - Productdocumentatie
+description: Eén stroomstap uitvoeren vanuit een slimme lijst - Marketo Docs - Productdocumentatie
 title: Eén stroomstap uitvoeren vanuit een slimme lijst
+exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
 
 ---
-
 
 # Eén stroomstap uitvoeren vanuit een slimme lijst {#run-a-single-flow-step-from-a-smart-list}
 
