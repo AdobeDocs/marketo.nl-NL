@@ -2,22 +2,22 @@
 unique-page-id: 1147062
 description: Geblokkeerde personen weergeven in een slimme campagne - Marketo Docs - Productdocumentatie
 title: Geblokkeerde personen weergeven in een slimme campagne
+exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-
 # Geblokkeerde personen weergeven in een slimme campagne {#view-blocked-people-in-a-smart-campaign}
 
-Geblokkeerde personen in de Marketo-database worden gemarkeerd als toegevoegd op lijst van gewenste personen, afgemeld, marketing opgeschort en/of hebben een ongeldig of leeg e-mailbericht.
+Geblokkeerde personen in de Marketo-database worden gemarkeerd als op de lijst met ongewenste personen staan, afgemeld, marketing opgeschort en/of hebben een ongeldig of leeg e-mailbericht.
 
 >[!NOTE]
 >
->Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van afgewezen personen en Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
+>Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van gewezen personen en de Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
 
 1. In uw slimme campagne, klik op **Programma**. Klik onder **Status slimme lijst** op de tweede koppeling.
 
