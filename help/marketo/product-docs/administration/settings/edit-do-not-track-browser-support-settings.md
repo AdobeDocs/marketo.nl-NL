@@ -2,18 +2,18 @@
 unique-page-id: 6095047
 description: Browserondersteuningsinstellingen niet bijhouden bewerken - Marketo Docs - Productdocumentatie
 title: Browserondersteuningsinstellingen "Niet bijhouden" bewerken
+exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
 
-
 # Instellingen voor browserondersteuning {#edit-do-not-track-browser-support-settings} bewerken
 
-&quot;Niet bijhouden&quot; is een verzoek van een browser om niet te worden bijgehouden in systemen als Marketo. U kunt dit verzoek uitvoeren met de volgende stappen.
+&quot;Niet bijhouden&quot; is een verzoek van een browser om niet te worden bijgehouden in systemen zoals Marketo. U kunt dit verzoek uitvoeren met de volgende stappen.
 
 >[!NOTE]
 >
