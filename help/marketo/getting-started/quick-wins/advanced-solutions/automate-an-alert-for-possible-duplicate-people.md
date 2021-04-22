@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7513680
-description: Een waarschuwing automatiseren voor mogelijk dubbele personen - Marketo Docs - Productdocumentatie
+description: Automatiseer een waarschuwing voor mogelijke dubbele personen - Marketo Docs - Productdocumentatie
 title: Een waarschuwing automatiseren voor mogelijke dubbele personen
+exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # Een waarschuwing automatiseren voor mogelijk dubbele personen {#automate-an-alert-for-possible-duplicate-people}
 
@@ -44,7 +44,7 @@ Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaa
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
-Dat is het! Deze slimme campagne wordt elke keer geactiveerd wanneer een nieuwe persoon met een bestaande volledige naam in Marketo wordt gemaakt.
+Dat is het! Deze slimme campagne wordt elke keer gestart wanneer er in Marketo een nieuwe persoon met een bestaande volledige naam wordt gemaakt.
 
 >[!MORELIKETHIS]
 >
