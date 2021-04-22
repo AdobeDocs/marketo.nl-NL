@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360335
-description: De Updates van het Gebied van het blok tijdens de Invoer van de Lijst van Onbetrouwbare Bronnen - Marketo Docs - de Documentatie van het Product
+description: Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen - Marketo Docs - Productdocumentatie
 title: Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen
+exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
-
 
 # Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen {#block-field-updates-during-list-import-from-untrusted-sources}
 
