@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719294
-description: Activiteiten synchroniseren - Marketo Docs - Productdocumentatie aanpassen
+description: Activiteitssynchronisatie aanpassen - Marketo-documenten - productdocumentatie
 title: Activiteiten synchroniseren aanpassen
+exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
-
 # Activiteitssynchronisatie aanpassen {#customize-activities-sync}
 
-Als u het Inzicht van de Verkoop van de Marketo niet gebruikt, kan de Marketo Verslagen van de Geschiedenis van de Activiteit Salesforce voor bepaalde gebeurtenissen tot stand brengen. Hier is hoe je ze kunt inschakelen.
+Als u Marketo Sales Insight niet gebruikt, kan Marketo voor bepaalde gebeurtenissen een Salesforce Activity History-overzicht maken. Hier is hoe je ze kunt inschakelen.
 
 1. Ga naar **Admin**.
 
@@ -23,13 +23,13 @@ Als u het Inzicht van de Verkoop van de Marketo niet gebruikt, kan de Marketo Ve
 
    ![](assets/two-1.png)
 
-1. Schakel de selectievakjes in naast de activiteiten die u wilt uitvoeren door Marketo op Salesforce en klik op **Opslaan**.
+1. Schakel de selectievakjes in naast de activiteiten die door Marketo naar Salesforce moeten worden uitgevoerd en klik op **Opslaan**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Als Marketo eenmaal is ingeschakeld, wordt de activiteithistorie van drie maanden verlengd. Afhankelijk van de hoeveelheid gegevens kan _dit enkele dagen duren om te voltooien_. Updates die plaatsvinden tijdens de eerste activiteitenpush kunnen worden uitgesteld tot nadat de eerste activiteitensynchronisatie is voltooid.
+   >Als Marketo eenmaal ingeschakeld is, wordt de activiteithistorie van drie maanden verlengd. Afhankelijk van de hoeveelheid gegevens kan _dit enkele dagen duren om te voltooien_. Updates die plaatsvinden tijdens de eerste activiteitenpush kunnen worden uitgesteld tot nadat de eerste activiteitensynchronisatie is voltooid.
 
 <table> 
  <colgroup> 
@@ -65,7 +65,7 @@ Als u het Inzicht van de Verkoop van de Marketo niet gebruikt, kan de Marketo Ve
   </tr> 
   <tr> 
    <td>Op koppeling in e-mail klikken</td> 
-   <td>Klik op een koppeling in een e-mailbericht dat Marketo heeft verzonden</td> 
+   <td>Klik op een koppeling in een e-mailbericht van Marketo</td> 
   </tr> 
   <tr> 
    <td>Verwijderd uit lijst</td> 
@@ -100,4 +100,4 @@ Als u het Inzicht van de Verkoop van de Marketo niet gebruikt, kan de Marketo Ve
 
 >[!TIP]
 >
->Als u in het krijgen van meer informatie van de Marketo in Salesforce geinteresseerd bent, controleer ons [product van het Inzicht van de Verkoop van de Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
+>Als u meer Marketo-informatie in Salesforce wilt opnemen, bekijkt u ons [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)-product.
