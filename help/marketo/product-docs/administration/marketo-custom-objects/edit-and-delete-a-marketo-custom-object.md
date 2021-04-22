@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093690
-description: Een aangepast Marketo-object - Marketo Docs - Productdocumentatie bewerken en verwijderen
-title: Een aangepast markeerobject bewerken en verwijderen
+description: Een aangepast Marketo-object bewerken en verwijderen - Marketo Docs - Productdocumentatie
+title: Een aangepast Marketo-object bewerken en verwijderen
+exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
 
 ---
 
-
-# Een aangepast markeerobject {#edit-and-delete-a-marketo-custom-object} bewerken en verwijderen
+# Een aangepast Marketo-object {#edit-and-delete-a-marketo-custom-object} bewerken en verwijderen
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Met het menu Acties voor aangepaste objecten kunt u een aangepast object bewerken of verwijderen.
 
-1. Klik **Admin**, en in **Databasebeheer**, selecteer **Marketo Custom Objects**.
+1. Klik **Admin**, en in **Databasebeheer**, selecteer **Aangepaste objecten van Marketo**.
 
    ![](assets/image2016-1-18-13-3a31-3a51.png)
 
@@ -45,13 +45,13 @@ Met het menu Acties voor aangepaste objecten kunt u een aangepast object bewerke
 
 ## Een aangepast object {#delete-a-custom-object} verwijderen
 
-Het is gemakkelijk om een douanevoorwerp te schrappen, maar u moet voorzichtig zijn. Aangepaste objecten kunnen worden verbonden met andere objecten of met slimme lijsten. Marketo waarschuwt u dus voordat u **Delete** laat klikken.
+Het is gemakkelijk om een douanevoorwerp te schrappen, maar u moet voorzichtig zijn. Aangepaste objecten kunnen worden verbonden met andere objecten of met slimme lijsten. Zo, waarschuwt Marketo u alvorens u **Schrapping** te laten klikken.
 
 >[!CAUTION]
 >
 >U kunt een aangepast object niet meer herstellen nadat u het hebt verwijderd.
 
-1. Klik **Admin**, en in **Databasebeheer**, selecteer **Marketo Custom Objects**.
+1. Klik **Admin**, en in **Databasebeheer**, selecteer **Aangepaste objecten van Marketo**.
 
    ![](assets/image2016-1-18-13-3a36-3a0.png)
 
