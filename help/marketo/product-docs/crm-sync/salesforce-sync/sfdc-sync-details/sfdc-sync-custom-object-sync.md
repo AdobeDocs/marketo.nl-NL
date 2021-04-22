@@ -2,18 +2,18 @@
 unique-page-id: 2953471
 description: SFDC Sync - Custom Object Sync - Marketo Docs - Productdocumentatie
 title: SFDC-synchronisatie - Aangepaste objectsynchronisatie
+exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-
 # SFDC-synchronisatie: Aangepaste objectsync {#sfdc-sync-custom-object-sync}
 
-Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook onderdeel zijn van Marketo.  Hier is hoe je het instelt.
+Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook deel uitmaken van Marketo.  Hier is hoe je het instelt.
 
 >[!NOTE]
 >
