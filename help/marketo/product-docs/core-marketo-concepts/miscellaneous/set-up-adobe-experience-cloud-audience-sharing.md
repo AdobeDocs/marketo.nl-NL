@@ -2,22 +2,22 @@
 unique-page-id: 42762511
 description: Adobe Experience Cloud Audience Sharing instellen - Marketo Docs - Productdocumentatie
 title: Adobe Experience Cloud-publiek delen instellen
+exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Experience Cloud-publiek delen instellen {#set-up-adobe-experience-cloud-audience-sharing}
 
-Als u publieksgegevens wilt delen met uw Adobe-toepassingen, moet u eerst uw Adobe-IMS-gegevens voor de organisatie invoeren in Marketo. Zo gaat het.
+Als u publieksgegevens wilt delen met uw Adobe-toepassingen, moet u eerst uw Adobe IMS-gegevens (Org) invoeren in Marketo. Zo gaat het.
 
 >[!NOTE]
 >
->Een plaatsing HIPAA-klaar van een instantie van Marketo kan deze integratie niet gebruiken.
+>Een HIPAA-klaar plaatsing van een instantie van Marketo kan deze integratie niet gebruiken.
 
 1. Klik in Marketo op **Admin**.
 
