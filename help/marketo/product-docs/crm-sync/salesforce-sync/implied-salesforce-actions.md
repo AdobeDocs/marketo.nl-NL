@@ -2,14 +2,14 @@
 unique-page-id: 4719304
 description: Impliciete Salesforce-acties - Marketo Docs - Productdocumentatie
 title: Impliciete Salesforce-acties
+exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # Impliciete Salesforce-handelingen {#implied-salesforce-actions}
 
@@ -20,7 +20,7 @@ Deze regels zijn van toepassing _wanneer de persoon momenteel niet in [Salesforc
 <table> 
  <thead> 
   <tr> 
-   <th>Stap Markeren naar stroom</th> 
+   <th>Marketo Flow-stap</th> 
    <th>Automatische actie</th> 
   </tr> 
  </thead> 
