@@ -2,26 +2,26 @@
 unique-page-id: 12977439
 description: Opmerkingen bij de release - lente 17 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - lente '17
+exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Lente &#39;17 {#release-notes-spring}
 
-De volgende functies zijn opgenomen in de release van het voorjaar van 17. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van het voorjaar van 17. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. **Opmerking**: Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
 
-## [LinkedIn Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [linkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn Gen ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Formsare een directere manier voor een bedrijf om de generatiecampagnes van de lood op LinkedIn in werking te stellen. Mensen kunnen formulieren invullen om belangstelling voor een product of service uit te drukken, zodat het bedrijf de details van de persoon kan vastleggen en deze kan synchroniseren met Marketo, waar geautomatiseerde follow-upprocessen en routering van leads kunnen plaatsvinden.
+[linkedIn-leider-generaal ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Formsare is een directere manier voor een bedrijf om leidende generatiecampagnes op LinkedIn te voeren. Mensen kunnen formulieren invullen om belangstelling voor een product of service uit te drukken, zodat het bedrijf de gegevens van de persoon kan vastleggen en deze kan synchroniseren met Marketo, waar geautomatiseerde follow-upprocessen en routering van leads kunnen plaatsvinden.
 
-De integratie van Marketo met LinkedIn Gen Forms legt automatisch de informatie vast die een lead verschaft in het Gen-leadformulier. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe trigger en het filter **LinkedIn Lead Gen Form** invullen.
+De Marketo-integratie met LinkedIn Lead Gen Forms legt automatisch de informatie vast die een lead verschaft in het Lead Gen-formulier. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe **trigger en filter van LinkedIn Lead Gen Form** invullen.
 
 ![](assets/release-notes-image.png)
 
@@ -43,7 +43,7 @@ Breng eenvoudig grote hoeveelheden personen- en activiteitsgegevens over van Mar
 
 **[Aangepaste velden op ABM-benoemde accounts](https://docs.marketo.com/x/1wnG)**
 
-Met Marketo ABM kunt u nu maximaal 10 aangepaste velden maken op uw benoemde accounts. U kunt deze Aangepaste velden toewijzen aan velden in uw CRM-accountobject en Marketo ABM synchroniseert de gegevens, zodat u uw ABM-benoemde accounts kunt uitbreiden en uw marketing kunt stimuleren.
+Met Marketo ABM kunt u nu maximaal 10 aangepaste velden maken op uw benoemde accounts. U kunt deze aangepaste velden toewijzen aan velden in uw CRM-accountobject en Marketo ABM synchroniseert de gegevens, zodat u ABM Named Accounts kunt uitbreiden en uw marketing kunt stimuleren.
 
 **[Percentage scores op ABM-benoemde accounts](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
