@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557339
-description: Dupliceren personen zoeken en samenvoegen - Marketo Docs - Productdocumentatie
+description: Dubbele personen zoeken en samenvoegen - Marketo Docs - Productdocumentatie
 title: Dubbele personen zoeken en samenvoegen
+exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
 
 ---
-
 
 # Dubbele personen zoeken en samenvoegen {#find-and-merge-duplicate-people}
 
@@ -17,7 +17,7 @@ Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. U
 
 >[!NOTE]
 >
->Marketo wordt niet automatisch gededupliceerd bij een synchronisatie met Salesforce of Microsoft Dynamics, of wanneer u handmatig personen invoert.
+>Marketo wordt niet automatisch gededupliceerd bij een synchronisatie met Salesforce of Microsoft Dynamics of wanneer u handmatig personen invoert.
 
 >[!PREREQUISITES]
 >
@@ -45,7 +45,7 @@ Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. U
 
 >[!CAUTION]
 >
->Wanneer het samenvoegen van mensen, als de verliezende persoon een Marketo douanevoorwerp heeft, zal het **niet** aan de winnende persoon worden opnieuw geassocieerd. Geef het aangepaste object opnieuw het bovenliggende element voordat u het samenvoegt.
+>Wanneer het samenvoegen van mensen, als de verliezende persoon een douanevoorwerp van Marketo heeft, zal het **niet** aan de winnende persoon worden opnieuw geassocieerd. Geef het aangepaste object opnieuw het bovenliggende element voordat u het samenvoegt.
 
 1. Selecteer de duplicaten door Ctrl/Cmd ingedrukt te houden en te klikken en klik vervolgens op **Personen samenvoegen**.
 
