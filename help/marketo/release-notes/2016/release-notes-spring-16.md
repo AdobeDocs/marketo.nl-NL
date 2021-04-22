@@ -2,14 +2,14 @@
 unique-page-id: 11370952
 description: Opmerkingen bij de release - lente 16 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - lente '16
+exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 translation-type: tm+mt
-source-git-commit: 9dd108de97be01acf00d42be90b2661d153a4265
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 0%
 
 ---
-
 
 # Opmerkingen bij de release: Lente &#39;16 {#release-notes-spring}
 
@@ -55,11 +55,11 @@ Gone is de dagen waarin u alles opnieuw moet goedkeuren telkens als een fragment
 
 ## [Openingspagina, sjabloon voor bestemmingspagina en formulier-API&#39;s](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
 
-De Marketo REST APIs steunt nu controle over Marketo landende pagina&#39;s, landende paginasjablonen, en vormen. Gebruikers kunnen deze middelen nu rechtstreeks via de Marketo REST-API maken, bijwerken, goedkeuren en verwijderen.
+De Marketo REST API&#39;s bieden nu ondersteuning voor het beheer van Marketo-bestemmingspagina&#39;s, landingspaginasjablonen en -formulieren. Gebruikers kunnen deze middelen nu rechtstreeks via de Marketo REST API maken, bijwerken, goedkeuren en verwijderen.
 
 ## [IP Voegende op lijst van gewenste personen  voor API Toegang](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Gelijkaardig aan de IP voegende op lijst van gewenste personen eigenschap voor de gebruikerslogins van Marketo, kunnen de beheerders van Marketo opstelling nu een lijst van gewenste personen van IP adressen die tot de ZEEP van de Marketo en REST APIs kunnen toegang hebben, daardoor blokkerend toegang van niet-gemachtigde IP adressen. Dit verstrekt een toegevoegde laag van veiligheid aan uw instantie Marketo, en zorgt ervoor dat API toegang slechts van binnen het netwerk van uw organisatie kan voorkomen. Details over het instellen van deze instelling zijn beschikbaar op de [Marketo-documentatiesite](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Vergelijkbaar met de IP voegende op lijst van gewenste personen eigenschap voor de gebruikerslogins van Marketo, kunnen de beheerders van Marketo een lijst van gewenste personen van IP adressen nu opstelling die tot de de ZEEP van Marketo en REST APIs kunnen toegang hebben, daardoor blokkerend toegang van niet-gemachtigde IP adressen. Dit biedt een extra beveiligingslaag voor uw Marketo-instantie en zorgt ervoor dat API-toegang alleen kan plaatsvinden vanuit het netwerk van uw organisatie. Details over het instellen van deze instelling zijn beschikbaar op de [Marketo-documentatiesite](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Nieuwe snelle Microsoft Dynamics Sync Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -81,13 +81,13 @@ De nieuwe, snelle dynamische connector, die op Orion-architectuur is gebouwd, bi
 
 ## [Naam van vriendelijke instantie](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
-Het is vandaag moeilijk onderscheid te maken tussen instanties Marketo, bijvoorbeeld sandbox- en productieinstanties. Met deze functie weet u aan welke instanties u momenteel werkt.
+Het is tegenwoordig moeilijk onderscheid te maken tussen Marketo-instanties, bijvoorbeeld sandbox en productie-instanties. Met deze functie weet u aan welke instanties u momenteel werkt.
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
 ## [Beperkte toegang voor abonnementen](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
 
-Vandaag, worden de gebruikers uitgenodigd aan abonnement Marketo voor onbepaalde tijd. Met deze functie kunnen beheerders gebruikers uitnodigen voor abonnementen voor een beperkte periode, bijvoorbeeld 2 weken of 1 maand.
+Gebruikers worden vandaag uitgenodigd voor een abonnement op Marketo voor onbepaalde tijd. Met deze functie kunnen beheerders gebruikers uitnodigen voor abonnementen voor een beperkte periode, bijvoorbeeld 2 weken of 1 maand.
 
 ![](assets/image2016-5-16-15-3a59-3a52.png)
 
@@ -99,4 +99,4 @@ U kunt nu het aantal records en velden voor alle gepubliceerde aangepaste object
 
 ## Aangepaste activiteiten {#custom-activities}
 
-Marketo-beheerders kunnen hun aangepaste activiteitstypen nu definiëren en beheren via het Marketo Custom Activity Definition-model. Net als (en in combinatie met) Marketo Custom Object Modeler kunnen beheerders het gegevensmodel nu uitbreiden zodat deze precies aan hun bedrijfsbehoeften voldoen. Nadere gegevens over het gebruik van deze functionaliteit zijn beschikbaar op de [Marketo-documentatiesite](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
+Marketo-beheerders kunnen hun aangepaste activiteitstypen nu definiëren en beheren via het Marketo Custom Activity Definition-model. Beheerders kunnen het gegevensmodel net als (en in combinatie met) de Marketo Custom Object Modeler nu uitbreiden om precies aan hun zakelijke behoeften te voldoen. Meer informatie over het gebruik van deze functionaliteit vindt u op de [Marketo-documentatiesite](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
