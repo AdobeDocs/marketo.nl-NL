@@ -2,14 +2,14 @@
 unique-page-id: 2360317
 description: Personen partities toewijzen aan werkruimten - Marketo Docs - Productdocumentatie
 title: Personen partities toewijzen aan werkruimten
+exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Personen partities toewijzen aan werkruimten {#assign-person-partitions-to-workspaces}
 
@@ -25,7 +25,7 @@ Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt b
 
 >[!CAUTION]
 >
->Werkruimten en Personen-partities kunnen complex zijn. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) voor hulp bij het instellen van deze bestanden.
+>Werkruimten en Personen-partities kunnen complex zijn. Neem contact op met de [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) voor hulp bij het instellen van deze bestanden.
 
 1. Klik onder Beheer op **Werkruimten en partities**.
 
@@ -53,7 +53,7 @@ Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt b
 
    ![](assets/image2014-9-17-11-3a14-3a53.png)
 
-Gefeliciteerd! U hebt uw werkruimte bewerkt.
+Gefeliciteerd.  U hebt uw werkruimte bewerkt.
 
 >[!MORELIKETHIS]
 >
