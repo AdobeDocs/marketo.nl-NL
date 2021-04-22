@@ -2,18 +2,18 @@
 unique-page-id: 37355534
 description: Opmerkingen bij de release - jan 2020 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - jan 2020
+exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: jan 2020 {#release-notes-jan}
 
-De volgende functies zijn opgenomen in de release van 20 januari. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van 20 januari. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -32,7 +32,7 @@ De volgende functies worden vrijgegeven op **17 januari 2020**.
 >Momenteel wordt AEM Asset Selector alleen volledig ondersteund in Firefox. Deze functie wordt niet ondersteund in Safari en werkt mogelijk niet in de nieuwste versie van Chrome (v. 80), afhankelijk van de cookie-instellingen van SameSite.
 
 * **Microsoft Dynamics - Synchronisatie van lead to CRM in Real Time**: Synchronisatie in realtime van leads en contacten tussen Marketo Engage en Microsoft Dynamics. Creeer lood of contacten en zie hen in de Dynamica van Microsoft onmiddellijk met de &quot;Persoon van de Synchronisatie aan Microsoft&quot;stroomactie.
-* **Aanvullende veldtoewijzing** voor LinkedInLead Gen Forms: Leg loodgegevens van LinkedIn Gen Forms vast om relevantere ervaringen te creëren voor zowel verkoop- als marketingaanraakpunten. Trek in verborgen gebieden, toestemmingsgebieden, en de test leidt gebied in Marketo Engage.
+* **Aanvullende veldtoewijzing** voor linkedIn Lead Gen Forms: Leg leidende gegevens van LinkedIn Gen Forms vast om relevantere ervaringen te creëren voor zowel verkoop- als marketingaanraakpunten. Trek in verborgen gebieden, toestemmingsgebieden, en de test leidt gebied in Marketo Engage.
 * **E-mailsjabloonafhankelijke API**: Krijg een lijst van activa die van een e-mailmalplaatje afhangen om werkingsgebied van potentiële veranderingen te begrijpen en adresgebiedsdelen aan malplaatjes kan sneller worden veranderd en worden geschrapt.
 * **Verbeteringen** in beheer van meerdere instanties: Navigeer snel naar de gewenste instantie met een schuifbaar en alfabetisch vervolgkeuzemenu met uw abonnementen.
 
