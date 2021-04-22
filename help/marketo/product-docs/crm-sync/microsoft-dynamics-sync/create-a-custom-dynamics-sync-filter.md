@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437903
-description: Een aangepaste filter voor het synchroniseren van dynamiek maken - Marketo Docs - Productdocumentatie
+description: Een aangepast synchronisatiefilter voor dynamiek maken - Marketo Docs - Productdocumentatie
 title: Een filter voor aangepaste dynamicasynchronisatie maken
+exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 0%
 
 ---
 
-
 # Een filter voor aangepaste dynamicasynchronisatie maken {#create-a-custom-dynamics-sync-filter}
 
-Wilt u niet alles in uw Dynamische CRM in Marketo synchroniseren? Maak je geen zorgen! Met Marketo kunt u een synchronisatiefilter instellen en slechts een deel van uw records synchroniseren.
+Wilt u niet alles in uw Dynamics CRM synchroniseren naar Marketo? Maak je geen zorgen! Met Marketo kunt u een synchronisatiefilter instellen en slechts een deel van uw records synchroniseren.
 
 ## Overzicht {#overview}
 
@@ -26,7 +26,7 @@ Een filter voor het synchroniseren van dynamiek instellen:
 >
 >U moet deze veranderingen in Dynamica CRM, niet uw gegevensbestand of Marketo aanbrengen.
 
-Marketo zoekt dit veld tijdens de automatische achtergrondsynchronisatie en bepaalt op basis van deze logica welke records moeten worden gesynchroniseerd:
+Marketo zoekt naar dit veld tijdens de automatische achtergrondsynchronisatie en bepaalt op basis van deze logica welke records moeten worden gesynchroniseerd:
 
 | Veldwaarde | Synchroniseren met Marketo? |
 |---|---|
@@ -37,11 +37,11 @@ Marketo zoekt dit veld tijdens de automatische achtergrondsynchronisatie en bepa
 
 >[!CAUTION]
 >
->De enige manier om Marketo te vertellen om een verslag over te slaan is de gebiedswaarde uitdrukkelijk te plaatsen om **No** te zijn. Marketo synchroniseert nog steeds records, zelfs als de veldwaarden leeg zijn.
+>De enige manier om Marketo te vertellen een verslag over te slaan is de gebiedswaarde uitdrukkelijk te plaatsen om **nr** te zijn. Marketo synchroniseert nog steeds records, zelfs als de veldwaarden leeg zijn.
 
 >[!PREREQUISITES]
 >
->Installeer de nieuwste versie van de plug-in Marketo (3.0.0.1 of hoger). Ga naar Marketo > Admin > Microsoft Dynamics > Download Marketo Solution.
+>Installeer de nieuwste versie van de Marketo-plug-in (3.0.0.1 of hoger). Ga naar Marketo > Admin > Microsoft Dynamics > Download Marketo Solution.
 
 ## SyncToMkto-veld {#create-synctomkto-field} maken
 
@@ -77,7 +77,7 @@ Marketo zoekt dit veld tijdens de automatische achtergrondsynchronisatie en bepa
 
 ## Selecteer het filter in Marketo {#select-the-filter-in-marketo}
 
-Zelfs als u uw eerste synchronisatie al hebt uitgevoerd, gaat u binnen en selecteert u de velden die u wilt synchroniseren met Marketo.
+Zelfs als u uw eerste synchronisatie al hebt uitgevoerd, gaat u binnen en selecteert u de velden die met Marketo moeten worden gesynchroniseerd.
 
 1. Ga naar Admin en selecteer **MIcrosoft Dynamics**.
 
@@ -137,15 +137,15 @@ Hier volgen enkele implementatiedetails die u volgens ons moet weten:
 
 1. Synchronisatiebewerking starten
 
-   Wanneer de **SyncToMkto** waarde van **No** in **Yes** verandert, richt de Dynamiek Marketo onmiddellijk om met het synchroniseren van dit verslag te beginnen. Als de record al bestaat, wordt deze bijgewerkt door Marketo. Anders maakt Marketo de record.
+   Wanneer de **SyncToMkto** waarde van **No** in **Yes** verandert, richt de Dynamiek Marketo onmiddellijk om met het synchroniseren van dit verslag te beginnen. Als de record al bestaat, wordt deze door Marketo bijgewerkt. Anders maakt Marketo de record.
 
    >[!TIP]
    >
-   >Wanneer dit gebeurt, wordt een bewerking `Create [StartSync]` toegevoegd aan het markeerteken.
+   >Wanneer dit gebeurt, wordt een bewerking `Create [StartSync]` toegevoegd aan het Marketo-logboek.
 
 1. Synchronisatiebewerking stoppen
 
-   Wanneer een record de waarde SyncToMkto wijzigt van Ja in Nee, wordt Marketo een melding gestuurd om de synchronisatie van deze record te stoppen. De record wordt echter niet verwijderd, maar houdt op met het ophalen van updates en wordt &#39;stale&#39;.
+   Wanneer een record de waarde SyncToMkto wijzigt van Ja in Nee, wordt Marketo een melding gestuurd dat de synchronisatie van deze record moet worden gestopt. De record wordt echter niet verwijderd, maar houdt op met het ophalen van updates en wordt &#39;stale&#39;.
 
 >[!MORELIKETHIS]
 >
