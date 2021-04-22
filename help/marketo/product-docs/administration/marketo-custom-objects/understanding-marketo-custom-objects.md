@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093188
-description: Inzicht in aangepaste Marketo-objecten - Marketo Docs - Productdocumentatie
-title: Aangepaste objecten markeren
+description: Marketo Custom Objects - Marketo Docs - Productdocumentatie
+title: Aangepaste Marketo-objecten begrijpen
+exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '679'
 ht-degree: 0%
 
 ---
 
-
-# Aangepaste objecten markeren {#understanding-marketo-custom-objects}
+# Aangepaste Marketo-objecten {#understanding-marketo-custom-objects}
 
 Gebruik aangepaste objecten om metrische gegevens bij te houden die specifiek zijn voor uw bedrijf.
 
@@ -41,13 +41,13 @@ Vele-aan-vele douanevoorwerpen gebruiken twee verbindingsgebieden, deel van een 
 >
 >U kunt aangepaste objecten niet herstellen, dus zorg dat u ze niet meer nodig hebt voordat u ze verwijdert.
 
-## Markering openen voor aangepaste objecten {#accessing-marketo-custom-objects}
+## Aangepaste Marketo-objecten openen {#accessing-marketo-custom-objects}
 
-1. Als u aangepaste Marketo-objecten wilt maken of bewerken, klikt u op **Admin** en vervolgens op de koppeling **Marketo Custom Objects**.
+1. Als u aangepaste Marketo-objecten wilt maken of bewerken, klikt u op **Admin** en vervolgens op de koppeling **Aangepaste Marketo-objecten**.
 
    ![](assets/image2016-5-18-16-3a59-3a30.png)
 
-1. In de weergave Aangepaste objecten markeren worden alle aangepaste objecten rechts weergegeven, maar alleen de goedgekeurde objecten in het hoofdraster.
+1. In de weergave Aangepaste objecten van Marketo worden al uw aangepaste objecten rechts weergegeven, maar alleen de goedgekeurde objecten in het hoofdraster.
 
    ![](assets/image2016-6-10-15-3a14-3a18.png)
 
@@ -85,18 +85,18 @@ Nadat u de structuur van het douanevoorwerp hebt gecreeerd, wanneer u de specifi
 
 Een douanevoorwerp dat met het bedrijf verbonden is werkt het best als u bedrijven van CRM synchroniseert of als u uitdrukkelijk bedrijven creeert gebruikend API. Wij adviseren ook dat u identiteitskaart van het Bedrijf als verbindingsgebied gebruikt.
 
-Als u veelvoudige mensen in Marketo hebt die verslagen in CRM of Marketo-slechts verslagen zijn, zal een douanevoorwerp verbonden aan een bedrijf niet verbonden worden met meer dan één individueel verslag. Dit komt omdat een bedrijf met veelvoudige mensen eronder het wordt gesteund slechts wanneer de bedrijven van CRM worden gesynchroniseerd of als u een API gebruikt om bedrijven uitdrukkelijk tot stand te brengen.
+Als u veelvoudige mensen in Marketo hebt die verslagen in CRM of Marketo-slechts verslagen zijn, zal een douanevoorwerp verbonden aan een bedrijf niet met meer dan één individueel verslag worden geassocieerd. Dit komt omdat een bedrijf met veelvoudige mensen eronder het wordt gesteund slechts wanneer de bedrijven van CRM worden gesynchroniseerd of als u een API gebruikt om bedrijven uitdrukkelijk tot stand te brengen.
 
-Aangepaste objecten kunnen alleen rechtstreeks aan één record worden gekoppeld. Dit betekent dat wanneer uw type van douaneobjecten door bedrijfgebied wordt verbonden, u zou moeten ervoor zorgen dat uw persoonverslagen aan een bedrijf of gebruikend contactomzetting in uw CRM, of gebruikend het externalCompanyId gebied worden geassocieerd, als u bedrijven beheert die REST APIs van Marketo gebruiken. Voor persoonrecords die niet expliciet aan bedrijfsrecords zijn gekoppeld, worden aangepaste objecten die met bedrijf zijn gekoppeld, willekeurig gekoppeld aan één record, zelfs als de waarde van het bedrijfsveld door veel personen wordt gedeeld.
+Aangepaste objecten kunnen alleen rechtstreeks aan één record worden gekoppeld. Dit betekent dat wanneer uw type van douaneobjecten door bedrijfgebied wordt verbonden, u zou moeten ervoor zorgen dat uw persoonverslagen aan een bedrijf of gebruikend contactomzetting in uw CRM worden geassocieerd, of gebruikend het externalCompanyId gebied, als u bedrijven beheert die REST APIs van Marketo gebruiken. Voor persoonrecords die niet expliciet aan bedrijfsrecords zijn gekoppeld, worden aangepaste objecten die met bedrijf zijn gekoppeld, willekeurig gekoppeld aan één record, zelfs als de waarde van het bedrijfsveld door veel personen wordt gedeeld.
 
 Zie [Aangepaste objectgegevens importeren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) voor meer informatie.
 
 >[!MORELIKETHIS]
 >
->* [Aangepaste objecten markeren](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [Aangepaste Marketo-objecten maken](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
 >* [Een aangepast object goedkeuren](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
->* [Een aangepast markeerobject bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
->* [Markeren toevoegen aan aangepaste objectvelden](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [Markeren naar aangepaste objectvelden bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Een aangepast Marketo-object bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Aangepaste Marketo-objectvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Aangepaste Marketo-objectvelden bewerken en verwijderen](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 >* [Aangepaste objectgegevens importeren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)
 
