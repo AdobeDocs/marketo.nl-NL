@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2951042
-description: Opmerkingen bij de release - Juni 2014 - Marketo Docs - Productdocumentatie
+description: Opmerkingen bij de release - juni 2014 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni 2014
+exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Juni 2014 {#release-notes-june}
 
-De volgende functies zijn opgenomen in de release van juni 2014. Controleer uw Marketo Edition voor de beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van juni 2014. Controleer of de Marketo Edition beschikbaar is.
 
 ## Bijgewerkte gebruikersinterface - binnenkort beschikbaar! {#updated-ui-coming-soon}
 
@@ -37,7 +37,7 @@ Wanneer u een test-e-mail verzendt vanuit Sales Insight, worden de tokens in de 
 
 Met de nieuwe ReST-API kunt u met programmacode leads maken, lezen en bijwerken. Om met ReST te beginnen moet u [een douanedienst ](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo creëren. Ga vervolgens naar de [site voor ontwikkelaars](https://developers.marketo.com/documentation/rest/) voor meer informatie over het gebruik van deze API.
 
-## Marketo Real-Time Personalization (RTP) zoekt Pagina-update {#marketo-real-time-personalization-rtp-campaigns-page-update}
+## Marketo Real-Time Personalization (RTP) campagnes Pagina Update {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
 De Campagnes RTP omvatten nu een nieuw ontwerp met duimnagelmeningen en campagneprestaties. Daarnaast kunt u [uw campagnes ordenen](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md) op basis van datum of topprestaties.
 
