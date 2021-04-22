@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512292
-description: Voeg Niveau 3 Vergadering van het Web als Dienst van LaunchPoint toe - Marketo Dos - de Documentatie van het Product
+description: Niveau 3-webvergadering toevoegen als een opstartpuntservice - Marketo Docs - Productdocumentatie
 title: Niveau 3 Webvergadering als Dienst van LaunchPoint toevoegen
+exl-id: f419b019-33bb-446d-baf5-55393770a703
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-
 # Niveau 3-webvergadering toevoegen als een LaunchPoint-service {#add-level-web-meeting-as-a-launchpoint-service}
 
-Marketo beheert uw Level 3 Web Meeting-registratie en -aanwezigheid.
+Marketo beheert de registratie en aanwezigheid van Level 3-webvergaderingen.
 
 >[!NOTE]
 >
