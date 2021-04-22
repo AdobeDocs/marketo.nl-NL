@@ -2,14 +2,14 @@
 unique-page-id: 1147226
 description: Aan de slag - Marketo Docs - Productdocumentatie
 title: Aan de slag
+exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 7%
 
 ---
-
 
 # Aan de slag {#getting-started}
 
@@ -17,7 +17,7 @@ ht-degree: 7%
 
 Wat vraagt Marketo u? Geweldige vraag!
 
-[Meer informatie over markeren](/help/marketo/getting-started/what-is-marketo.md)
+[Meer informatie over Marketo](/help/marketo/getting-started/what-is-marketo.md)
 
 ## STAP 2 Opzetten {#get-set-up}
 
@@ -27,7 +27,7 @@ Met een beetje hulp van uw IT-team kunt u het snel doen.
 
 ## STAP 3 Snel gewonnen {#get-some-quick-wins}
 
-Voltooi deze missies om de kerneigenschappen van Marketo te leren.
+Voltooi deze missies om de kernfuncties van Marketo te leren.
 
 [![](/help/marketo/getting-started/assets/getting-started-1.png) 1. Opzetten en een persoon toevoegen](https://docs.marketo.com/pages/viewpage.action?pageId=2359351)
 
