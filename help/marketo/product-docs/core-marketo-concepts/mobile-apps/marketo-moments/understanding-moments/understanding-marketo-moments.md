@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8781845
-description: Marketo-momenten begrijpen - Marketo-documenten - Productdocumentatie
+description: Marketo-momenten begrijpen - Marketo-documenten - productdocumentatie
 title: Marketo-momenten begrijpen
+exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
 
 ---
-
 
 # Marketo-momenten {#understanding-marketo-moments}
 
@@ -18,7 +18,7 @@ De kracht van Marketo ligt nu letterlijk in uw handen! U kunt e-mails direct van
 >[!AVAILABILITY]
 >
 >
->Toegang tot mobiele apps is vereist. Neem contact op met uw Marketo-beheerder om uw rol [bij te werken.](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
+>Toegang tot mobiele apps is vereist. Neem contact op met uw Marketo-beheerder om uw rol [bij te werken](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 
@@ -36,11 +36,11 @@ Hier zijn de verschillende stromen in Moments.
 >* Gereed: Alles wat klaar is met rennen of u hebt gemarkeerd als voltooid, gaat hier.
 
 
-Oké, nu we dat uit de weg hebben, laten we een kijkje nemen bij Marketo Moments op een telefoon!
+Oké, nu we dat uit de weg hebben, laten we even kijken op Marketo Moments aan de telefoon!
 
 ## Drie soorten kaarten {#three-kinds-of-cards}
 
-Marketo Moments geeft u drie verschillende kaarten om de voortgang van uw e-mail te volgen:
+Marketo Moments geeft je drie verschillende kaarten om de voortgang van je e-mail te volgen:
 
 **On-Deck**  - Deze e-mail staat op het punt uit te gaan. Het is je laatste kans om het voor te vertonen, een voorbeeld te verzenden of zelfs te annuleren als je het nodig hebt.
 
@@ -81,7 +81,7 @@ Geweldig! Nu kunt u iets doen door te tikken:
 >**Definitie**
 >
 >* Favoriet: Het is gemakkelijk om aandacht te besteden aan dingen die het meest geschikt en belangrijk zijn als je ze favorieten maakt.
->* Gereed: Gereed maakt het uit de weergave Marketo-momenten (maar laat het in Marketo, safe en sound).
+>* Gereed: Gereed maakt het uit de weergave Marketo Moments (maar laat het in Marketo, veilig en geluid).
 >* Delen: Stuur een afbeelding om uw team te motiveren of te feliciteren.
 >* Voorbeeld verzenden (alleen e-mail): Gebruik deze optie om anderen te laten zien hoe je e-mails eruitzien voordat je ze verstuurt.
 >* Voorbeeld-e-mail (alleen e-mails): Het is altijd een goed idee om je e-mails vooraf te bekijken.
