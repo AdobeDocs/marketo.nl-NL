@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2951058
-description: Opmerkingen bij de release -August 2013 - Marketo Docs - Productdocumentatie
+description: Opmerkingen bij de release - Augustus 2013 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -augustus 2013
+exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
-
 
 # Opmerkingen bij de release: Augustus 2013 {#release-notes-august}
 
@@ -49,11 +49,11 @@ Gebruik deze [nieuwe tokens](/help/marketo/product-docs/email-marketing/general/
 
 ## Opruimen van campagne voor automatische activering {#automatic-trigger-campaign-cleanup}
 
-Marketo geeft u nu periodiek een melding en [deactiveert automatisch triggercampagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) die de afgelopen zes maanden niet zijn uitgevoerd.
+Marketo stelt u nu periodiek op de hoogte en [deactiveert automatisch triggercampagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) die de afgelopen zes maanden niet zijn uitgevoerd.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 
-## Verbetering van markto-financieel beheer {#marketo-financial-management-enhancement}
+## Verbetering van Marketo-financieel beheer {#marketo-financial-management-enhancement}
 
 ### Update {#program-cost-update} voor programmakosten
 
