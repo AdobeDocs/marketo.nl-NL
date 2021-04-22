@@ -1,23 +1,23 @@
 ---
 unique-page-id: 3571813
-description: Stap 1 van 3 - installeer de Oplossing van de Marketo in Dynamiek (2013 On-Premises) - Marketo Docs - de Documentatie van het Product
-title: Stap 1 van 3 - installeer de Oplossing van de Marketo in Dynamiek (2013 On-Premises)
+description: Stap 1 van 3 - Installeer de Marketo-oplossing in Dynamics (2013 op locatie) - Marketo Docs - Productdocumentatie
+title: Stap 1 van 3 - Installeer de Marketo-oplossing in Dynamics (2013 op locatie)
+exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
 
 ---
 
+# Stap 1 van 3: Installeer de Marketo-oplossing in Dynamics (2013 op locatie) {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
-# Stap 1 van 3: De Marketo-oplossing in Dynamics (2013 op locatie) {#step-of-install-the-marketo-solution-in-dynamics-on-premises} installeren
-
-Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u eerst de oplossing Marketo in Dynamics installeren.
+Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u eerst de Marketo-oplossing installeren in Dynamics.
 
 >[!NOTE]
 >
->Nadat u Marketo aan CRM synchroniseert, kunt u geen nieuwe synchronisatie uitvoeren zonder de instantie te vervangen.
+>Nadat u Marketo synchroniseert met een CRM, kunt u geen nieuwe synchronisatie uitvoeren zonder de instantie te vervangen.
 
 >[!PREREQUISITES]
 >
@@ -75,7 +75,7 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
    >[!NOTE]
    >
-   >Je ziet mogelijk een bericht met de melding &quot;Beheer van leads markeren voltooid met waarschuwing&quot;. Dat wordt volledig verwacht.
+   >Je ziet mogelijk een bericht met de melding &quot;Marketo Lead Management completed with warning&quot; (Beheer van leads is voltooid met een waarschuwing). Dat wordt volledig verwacht.
 
    ![](assets/image2014-12-11-10-3a41-3a14.png)
 
@@ -83,7 +83,7 @@ Voordat u Microsoft Dynamics On-Premises en Marketo kunt synchroniseren, moet u 
 
    ![](assets/image2015-3-26-10-3a1-3a21.png)
 
-1. Selecteer de oplossing Marketo en klik **Alle aanpassingen publiceren**.
+1. Selecteer de Marketo-oplossing en klik op **Alle aanpassingen publiceren**.
 
    ![](assets/image2014-12-11-10-3a41-3a32.png)
 
@@ -91,8 +91,8 @@ Was het niet zo erg? Kom op, ik zal je door de rest blijven lopen.
 
 >[!CAUTION]
 >
->Het onbruikbaar maken van om het even welke processen van het Overseinen van SDK van de Marketo zal in gebroken installeren resulteren!
+>Als u een van de Marketo SDK Messaging Processes uitschakelt, wordt de installatie verbroken!
 
 >[!MORELIKETHIS]
 >
->[Stap 2 van 3: Sync User for Marketo configureren (2013 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>[Stap 2 van 3: Synchronisatiegebruiker voor Marketo configureren (2013 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
