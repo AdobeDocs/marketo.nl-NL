@@ -2,14 +2,14 @@
 unique-page-id: 2360323
 description: Een bestaande personenpartitie bewerken - Marketo Docs - Productdocumentatie
 title: Een bestaande personenpartitie bewerken
+exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
-
 
 # Een bestaande personenpartitie bewerken {#edit-an-existing-person-partition}
 
