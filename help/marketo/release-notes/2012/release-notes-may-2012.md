@@ -2,14 +2,14 @@
 unique-page-id: 2951117
 description: Opmerkingen bij de release - mei 2012 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2012
+exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
-
 
 # Opmerkingen bij de release: Mei 2012 {#release-notes-may}
 
@@ -37,7 +37,7 @@ Figuur 2. Voorbeeld van het gearchiveerde e-mailfilter
 
 ## New Event Check-in App for iPad {#new-event-check-in-app-for-ipad}
 
-Vereenvoudig het inchecken van gebeurtenissen met onze nieuwe iPad-app! De app voor gebeurtenisinchecken synchroniseert met uw Marketo-programma en kunt u eenvoudig geregistreerde personen in een gebeurtenis inchecken en direct nieuwe leads toevoegen.
+Vereenvoudig het inchecken van gebeurtenissen met onze nieuwe iPad-app! De app voor gebeurtenisinchecken synchroniseert met uw Marketo-programma en kunt u eenvoudig geregistreerde personen in een gebeurtenis controleren en nieuwe leads toevoegen.
 
 Vereist iOS 5.1 of hoger; Alleen iPad.
 
@@ -83,7 +83,7 @@ Figuur 9. Instelling voor vooraf invullen van formulier bewerken op een bestemmi
 
 ## Marketo Treasure Chest {#marketo-treasure-chest}
 
-Verbeter toegang tot experimentele functies die zijn ontwikkeld door Marketo Engineers om uw gebruikerservaring te verbeteren. Deze release bevat E-mail Ongedaan maken, plus de mogelijkheid om opmerkingen in te voeren en met andere gebruikers samen te werken op uw bestemmingspagina&#39;s.
+Verbeter toegang tot experimentele functies die door Marketo Engineers zijn ontwikkeld om uw gebruikerservaring te verbeteren. Deze release bevat E-mail Ongedaan maken, plus de mogelijkheid om opmerkingen in te voeren en met andere gebruikers samen te werken op uw bestemmingspagina&#39;s.
 
 ![](assets/image2014-9-23-10-3a16-3a51.png)\
 
@@ -97,7 +97,7 @@ Synchroniseer accounts, contactpersonen en leads tussen Marketo en Microsoft Dyn
 
 Figuur 11. Configuratie Microsoft Dynamics
 
-## Verbeteringen van marktoverzicht voor verkoop {#marketo-sales-insight-enhancements}
+## Verbeteringen voor Marketo-verkoopinzicht {#marketo-sales-insight-enhancements}
 
 **Abonnement op voettekstopties opzeggen**
 
@@ -109,7 +109,7 @@ Figuur 12. Instellingen voor verkoopinzicht in Admin
 
 ## Mappen voor e-mailsjablonen voor verkoop {#folders-for-sales-email-templates}
 
-U kunt de e-mailsjablonen die worden gedeeld met Marketo Sales Insight nu in specifieke mappen ordenen, zodat uw vertegenwoordigers het juiste e-mailadres gemakkelijker kunnen vinden.
+U kunt de e-mailsjablonen die met Marketo Sales Insight worden gedeeld, nu in specifieke mappen ordenen, zodat uw verkopers het juiste e-mailadres gemakkelijker kunnen vinden.
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
@@ -117,7 +117,7 @@ Figuur 13. Kies een map voor uw e-mails
 
 ## De Analyse van de Kanaal van de toegang van het Inzicht van de Verkoop {#access-opportunity-analyzer-from-sales-insight}
 
-Verstrek uw Vertegenwoordigers van Verkoop inzicht in welke marketing activiteiten drijven overeenkomst, gebruikend directe toegang tot de Analysator van de Kans van het Inzicht van de Verkoop van de Marketo. Opmerking. Vereist een licentie voor conjunctuuranalyse.
+Geef uw verkopers inzicht in welke marketingactiviteiten de betrokkenheid stimuleren, en gebruik daarbij rechtstreeks toegang tot de Opportunity Analyzer van Marketo Sales Insight. Opmerking. Vereist een licentie voor conjunctuuranalyse.
 
 ## Aangepast veld voor contactstatus {#custom-field-for-contact-status}
 
