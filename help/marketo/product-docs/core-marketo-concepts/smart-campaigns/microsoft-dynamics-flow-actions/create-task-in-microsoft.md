@@ -2,14 +2,14 @@
 unique-page-id: 37356429
 description: Taak maken in Microsoft - Marketo Docs - Productdocumentatie
 title: Taak maken in Microsoft
+exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 
 ---
-
 
 # Taak maken in Microsoft {#create-task-in-microsoft}
 
@@ -27,7 +27,7 @@ Standaard ziet de flowstap er als volgt uit:
 
 >[!NOTE]
 >
->Wanneer de Gebruiker van de Synchronisatie van het Marketo taken creeert, **wegens In** is een vereist gebied voor de taak die in Microsoft moet worden gecreeerd. Marketo voert standaard vijf dagen in als er geen waarde wordt ingevoerd.
+>Wanneer de gebruiker van de Synchronisatie van Marketo taken creeert, **wegens In** is een vereist gebied voor de taak die in Microsoft moet worden gecreeerd. Marketo voert standaard vijf dagen in als er geen waarde wordt opgegeven.
 
 Pas alle velden aan om de taak op de gewenste manier te maken.
 
