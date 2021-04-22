@@ -2,14 +2,14 @@
 unique-page-id: 2953207
 description: Nieuwe campagnemap maken - Marketo Docs - Productdocumentatie
 title: Nieuwe campagnemap maken
+exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
 translation-type: tm+mt
-source-git-commit: d4c7832c4f2b1dbc74bdbb2f3b52df905e0cb7d3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
-
 
 # Nieuwe campagnemap maken {#create-new-campaign-folder}
 
