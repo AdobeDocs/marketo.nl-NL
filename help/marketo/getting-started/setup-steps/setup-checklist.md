@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949471
-description: Checklist instellen - Marketo Docs - Productdocumentatie
+description: Controlelijst voor installatie - Marketo Docs - Productdocumentatie
 title: Controlelijst instellen
+exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 translation-type: tm+mt
-source-git-commit: aff16097f274ade1aa3877c9bba6080a87d22bc0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
-
 
 # Checklist {#setup-checklist} instellen
 
@@ -32,7 +32,7 @@ Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst
 
 1. Een e-mailNAAM selecteren voor koppelingen met branding
 1. Vraag IT om opstelling een DNS verslag voor uw e-mailNAAM
-1. IT vragen om lijst van gewenste personen Marketo
+1. IT vragen om Marketo te lijsten van gewenste personen
 1. DKIM en SPF instellen in het beheergebied
 1. MX instellen voor `[FromDomain1]`
 1. Als u klaar bent met de e-mailNAAM, stelt u uw e-mailNAAM in Marketo in
@@ -43,7 +43,7 @@ Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst
 
 ## CRM-synchronisatie {#crm-sync}
 
-1. Werk met uw beheerder van CRM om alle contacten van CRM met Marketo te synchroniseren
+1. Werk met uw CRM-beheerder om alle CRM-contactpersonen te synchroniseren met Marketo
 
 ## Trackingcode toevoegen aan uw website {#add-tracking-code-to-your-website}
 
