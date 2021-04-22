@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949202
-description: SEO - Vraag voorgestelde trefwoorden aan - Marketo Docs - Productdocumentatie
+description: SEO - Suggesties voor trefwoorden ophalen - Marketo Docs - Productdocumentatie
 title: SEO - Suggesties voor trefwoorden ophalen
+exl-id: 6631b389-039a-40f1-8445-3971576e9f65
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 
 ---
 
-
 # SEO - voorgestelde trefwoorden ophalen {#seo-get-suggested-keywords}
 
-Marketo SEO kan aangeven welke trefwoorden u wilt bijhouden. We kunnen suggesties doen op basis van een trefwoord of de URL van een site. Geef het een keer!
+Marketo SEO kan voorstellen welke trefwoorden je moet volgen. We kunnen suggesties doen op basis van een trefwoord of de URL van een site. Geef het een keer!
 
 ## Trefwoordsuggesties ophalen met een trefwoord {#get-keyword-suggestions-using-a-keyword}
 
@@ -31,7 +31,7 @@ Marketo SEO kan aangeven welke trefwoorden u wilt bijhouden. We kunnen suggestie
 
    >[!TIP]
    >
-   >Wist u dat u uw sleutelwoord aan een nieuwe of bestaande lijst [ hier kunt toevoegen?](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
+   >Wist u dat u uw sleutelwoord aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hier kunt toevoegen?[
 
 1. Selecteer voorgestelde trefwoorden. Klik **Geselecteerde toevoegen**.
 
@@ -63,7 +63,7 @@ Marketo SEO kan aangeven welke trefwoorden u wilt bijhouden. We kunnen suggestie
 
    >[!TIP]
    >
-   >Wist u dat u uw sleutelwoord aan een nieuwe of bestaande lijst [ hier kunt toevoegen?](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
+   >Wist u dat u uw sleutelwoord aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hier kunt toevoegen?[
 
 1. Selecteer voorgestelde trefwoorden. Klik **Geselecteerde toevoegen**.
 
