@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10095636
-description: No-Draft inschakelen voor fragmenten - Marketo Docs - Productdocumentatie
+description: Geen concept voor fragmenten inschakelen - Marketo Docs - Productdocumentatie
 title: Niet-concept inschakelen voor fragmenten
+exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
-
 
 # Geen concept inschakelen voor fragmenten {#enable-no-draft-for-snippets}
 
