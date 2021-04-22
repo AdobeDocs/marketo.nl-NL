@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7504893
-description: Google AdWords toevoegen als een opstartservice met een beheerdersaccount - Marketo Docs - Productdocumentatie
+description: Google AdWords toevoegen als een opstartservice met een beheeraccount - Marketo Docs - Productdocumentatie
 title: Google AdWords toevoegen als opstartservice met een beheerdersaccount
+exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
-
 # Google AdWords toevoegen als een opstartservice met een beheeraccount {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Koppel uw Google AdWords-account aan Marketo om offline conversiegegevens van Marketo automatisch te uploaden naar Google AdWords. Dan, van AdWords UI, zult u gemakkelijk kunnen zien welke klikken in gekwalificeerde lood, kansen en nieuwe klanten (of welke opbrengststadia u wilt volgen) nadat u [douanekolommen](https://support.google.com/adwords/answer/3073556) in AdWords toevoegt. Deze informatie wordt niet weergegeven in de gebruikersinterface van Marketo.
+Koppel uw Google AdWords-account aan Marketo om offline conversiegegevens automatisch te uploaden van Marketo naar Google AdWords. Dan, van AdWords UI, zult u gemakkelijk kunnen zien welke klikken in gekwalificeerde lood, kansen en nieuwe klanten (of welke opbrengststadia u wilt volgen) nadat u [douanekolommen](https://support.google.com/adwords/answer/3073556) in AdWords toevoegt. Deze informatie wordt niet weergegeven in de gebruikersinterface van Marketo.
 
-Als u meerdere Google Adwords-accounts hebt, kunt u een [Google AdWords Manager-account](https://www.google.com/adwords/manager-accounts/) (voorheen bekend als My Client Center) gebruiken om deze te integreren met Marketo.
+Als u meerdere Google Adwords-accounts hebt, kunt u deze integreren met Marketo met een [Google AdWords Manager-account](https://www.google.com/adwords/manager-accounts/) (voorheen bekend als My Client Center).
 
-Meer informatie over de functie voor het importeren van offlineconversies van Google[.](https://support.google.com/adwords/answer/2998031?hl=en)
+Meer informatie over de functie voor het importeren van offlineconversies van Google](https://support.google.com/adwords/answer/2998031?hl=en).[
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Meer informatie over de functie voor het importeren van offlineconversies van Go
 
    ![](assets/new-service-google-1.png)
 
-1. Selecteer **Markering autoriseren**.
+1. Selecteer **Marketo autoriseren**.
 
    >[!NOTE]
    >
