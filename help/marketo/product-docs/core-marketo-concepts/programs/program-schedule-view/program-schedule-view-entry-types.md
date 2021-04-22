@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147243
-description: De Invoertypes van de Mening van het Programma van het programma - Marketo Dos - de Documentatie van het Product
+description: Invoertypen voor programmaplanningen - Marketo-documenten - Productdocumentatie
 title: Invoertypen voor programmaplanning
+exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # Invoertypen voor programmaplanningweergave {#program-schedule-view-entry-types}
 
