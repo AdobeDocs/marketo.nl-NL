@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7514898
-description: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die "Campagne gebruikt wordt gevraagd" - Marketo Docs - de Documentatie van het Product
+description: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die "Campagne wordt gevraagd" - Marketo Docs - de Documentatie van het Product
 title: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die "de Campagne wordt gevraagd"
+exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
 
 ---
-
 
 # Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die &quot;Campagne gebruikt wordt gevraagd&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
