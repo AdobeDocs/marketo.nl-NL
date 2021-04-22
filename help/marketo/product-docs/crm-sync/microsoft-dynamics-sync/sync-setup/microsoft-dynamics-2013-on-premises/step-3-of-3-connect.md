@@ -1,24 +1,24 @@
 ---
 unique-page-id: 3571819
-description: Stap 3 van 3 -Connect Marketo and Dynamics (2013 op locatie) - Marketo Docs - Productdocumentatie
-title: Stap 3 van 3 -Connect Marketo and Dynamics (2013 op locatie)
+description: Stap 3 van 3 - Connect Marketo en Dynamics (2013 op locatie) - Marketo Docs - Productdocumentatie
+title: Stap 3 van 3 - Connect Marketo en Dynamics (2013 op locatie)
+exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
+# Stap 3 van 3: Connect Marketo en Dynamics (2013 on-Premises) {#step-of-connect-marketo-and-dynamics-on-premises}
 
-# Stap 3 van 3: Marketo en dynamiek verbinden (2013 op locatie) {#step-of-connect-marketo-and-dynamics-on-premises}
-
-Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconfigureerd. Daarna, moeten wij Marketo en Dynamiek verbinden.
+Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconfigureerd. Vervolgens moeten we Marketo en Dynamics verbinden.
 
 >[!PREREQUISITES]
 >
->* [Stap 1 van 3: De Marketo-oplossing in Dynamics installeren (2013 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
->* [Stap 2 van 3: Sync User for Marketo configureren (2013 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>* [Stap 1 van 3: De Marketo-oplossing installeren in Dynamics (2013 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
+>* [Stap 2 van 3: Synchronisatiegebruiker voor Marketo configureren (2013 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
 
 
 >[!NOTE]
@@ -45,7 +45,7 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 
    >[!CAUTION]
    >
-   >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw abonnement op Marketo aanvragen.
+   >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw Marketo-abonnement aanvragen.
 
 1. Voer **Gebruikersnaam**, **Wachtwoord** en de Dynamiek van Microsoft **URL** in dan klik **sparen**.
 
@@ -97,7 +97,7 @@ Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe ve
 
    >[!CAUTION]
    >
-   >Marketo wordt niet automatisch gededupliceerd bij een synchronisatie met Microsoft Dynamics, of wanneer u handmatig personen of leads invoert.
+   >Marketo wordt niet automatisch gededupliceerd bij een Microsoft Dynamics-synchronisatie of wanneer u handmatig personen of leads invoert.
 
 1. Lees alles in pop-up, ga uw e-mail in, en klik **Begin Synchronisatie**.
 
@@ -107,8 +107,8 @@ Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe ve
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-Uitstekend werk! U hebt net de kracht van de bidirectionele synchronisatie tussen Marketo en de Dynamica van Microsoft ontketend. Als je Marketo Sales Insight hebt aangeschaft, is het meer leuk om te hebben:
+Uitstekend werk! U hebt zojuist de kracht van de bidirectionele synchronisatie tussen Marketo en Microsoft Dynamics ontketend. Als je Marketo Sales Insight hebt aangeschaft, is het meer leuk om te hebben:
 
 >[!MORELIKETHIS]
 >
->[Het Inzicht van de Verkoop van de Marketo in de Dynamica 2013 van Microsoft installeren en vormen](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
+>[Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2013](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
