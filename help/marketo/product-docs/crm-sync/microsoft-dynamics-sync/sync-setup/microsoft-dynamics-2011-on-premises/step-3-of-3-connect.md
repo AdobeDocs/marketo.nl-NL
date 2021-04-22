@@ -1,24 +1,24 @@
 ---
 unique-page-id: 3571809
-description: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (2011 op-Premises) - Marketo Docs - de Documentatie van het Product
-title: Stap 3 van 3 - de Dynamiek van Microsoft van Connect met Marketo (2011 op-Premises)
+description: Stap 3 van 3 - Connect Microsoft Dynamics met Marketo (2011 op locatie) - Marketo Docs - Productdocumentatie
+title: Stap 3 van 3 - Connect Microsoft Dynamics met Marketo (2011 op locatie)
+exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 translation-type: tm+mt
-source-git-commit: 20eb3389b267101fb277152f150c2119a5be65a8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 0%
 
 ---
 
+# Stap 3 van 3: Microsoft Dynamics verbinden met Marketo (2011 op locatie) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
-# Stap 3 van 3: Connect Microsoft Dynamics with Marketo (2011 op locatie) {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
-
-Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconfigureerd. Daarna, moeten wij Marketo en Dynamiek verbinden.
+Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconfigureerd. Vervolgens moeten we Marketo en Dynamics verbinden.
 
 >[!PREREQUISITES]
 >
 >* [Stap 1 van 3: De Marketo-oplossing installeren (2011 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
->* [Stap 2 van 3: Marketo Sync User in Dynamics (2011 op locatie) instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
+>* [Stap 2 van 3: Marketo Sync User in Dynamics instellen (2011 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
 
 
 >[!NOTE]
@@ -45,7 +45,7 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 
    >[!CAUTION]
    >
-   >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw abonnement op Marketo aanvragen.
+   >Controleer of uw gegevens juist zijn omdat de volgende schemawijzigingen na verzending niet kunnen worden hersteld. Als onjuiste gegevens worden opgeslagen, moet u een nieuw Marketo-abonnement aanvragen.
 
 1. Voer **Gebruikersnaam**, **Wachtwoord** en CRM **URL** in en klik vervolgens **Opslaan**.
 
@@ -97,7 +97,7 @@ Als u een aangepast filter hebt gemaakt, moet u naar binnen gaan en de nieuwe ve
 
    >[!CAUTION]
    >
-   >Marketo wordt niet automatisch gededupliceerd bij een synchronisatie met Microsoft Dynamics, of wanneer u handmatig personen of leads invoert.
+   >Marketo wordt niet automatisch gededupliceerd bij een Microsoft Dynamics-synchronisatie of wanneer u handmatig personen of leads invoert.
 
 1. Lees alles in pop-up, ga uw e-mail in, en klik **Begin Synchronisatie**.
 
