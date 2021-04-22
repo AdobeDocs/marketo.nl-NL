@@ -1,20 +1,20 @@
 ---
 description: Een publiek synchroniseren vanuit Adobe Experience Cloud - Marketo Docs - Productdocumentatie
 title: Een publiek synchroniseren vanuit Adobe Experience Cloud
+exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 translation-type: tm+mt
-source-git-commit: 05c2e89222f9316241a3929642998bddb02ff7a5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-
 # Een publiek synchroniseren vanuit Adobe Experience Cloud {#sync-an-audience-from-adobe-experience-cloud}
 
 >[!NOTE]
 >
->Een plaatsing HIPAA-klaar van een instantie van Marketo kan deze integratie niet gebruiken.
+>Een HIPAA-klaar plaatsing van een instantie van Marketo kan deze integratie niet gebruiken.
 
 >[!PREREQUISITES]
 >
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Een publiek synchroniseren {#how-to-sync-an-audience}
 
-1. Klik in Mijn markeerteken op de tegel **Database**.
+1. Klik in Mijn Marketo op de tegel **Database**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
@@ -50,13 +50,13 @@ ht-degree: 0%
 
 **Hoe werkt de cookiesync?**
 
-Wanneer de cookiesync voor uw Abonnement van het Marketo wordt toegelaten, zal Marketo&#39;s munchkin.js proberen om Adobe ECIDs voor de Adobe IMS van de Org te vangen en op te slaan u tijdens de integratieopstelling specificeerde en deze ECIDs aan het overeenkomstige koekjesherkenningsteken van het Marketo aanpas. Hierdoor kunnen de anonieme gebruikersprofielen van Marketo worden verrijkt met Adobe ECID&#39;s.
+Wanneer de cookiesync voor uw Marketo Abonnement wordt toegelaten, zal Marketo munchkin.js proberen om Adobe ECIDs voor de Adobe IMS Org te vangen en op te slaan u tijdens de integratieopstelling specificeerde en deze ECIDs aan het overeenkomstige koekjesherkenningsteken van Marketo aanpast. Hierdoor kunnen de anonieme gebruikersprofielen van Marketo worden verrijkt met Adobe-ECID&#39;s.
 
 Een volgende stap is vereist om het anonieme gebruikersprofiel aan een Profiel van de Lood te associëren, dat gebruikend een gewone tekst e-mail wordt geïdentificeerd. Precies hoe dit [werkt wordt hier beschreven](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
-**Waarom verschilt de lijstgrootte in Marketo van die in Adobe?**
+**Waarom is de lijstgrootte in Marketo anders dan die in Adobe?**
 
-Een persoon synchroniseert ook niet als we een ECID cookie ID niet aan een bekende persoon in Marketo kunnen koppelen.
+Een persoon synchroniseert ook niet als we een ECID-cookie-id niet aan een bekende persoon in Marketo kunnen koppelen.
 
 **Is dit een eenmalige synchronisatie?**
 
