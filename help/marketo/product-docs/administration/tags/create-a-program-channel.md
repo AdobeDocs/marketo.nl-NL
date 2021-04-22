@@ -2,14 +2,14 @@
 unique-page-id: 2950682
 description: Een programmakanaal maken - Marketo Docs - Productdocumentatie
 title: Een programmakanaal maken
+exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
 
 ---
-
 
 # Programmakanaal {#create-a-program-channel} maken
 
