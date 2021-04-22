@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2953415
-description: Gebruikend de Persoonsdetailpagina - Marketo Docs - de Documentatie van het Product
+description: De persoonlijke detailpagina gebruiken - Marketo Docs - Productdocumentatie
 title: De detailpagina voor personen gebruiken
+exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '550'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
-
 
 # De detailpagina {#using-the-person-detail-page} gebruiken
 
@@ -73,23 +73,23 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 
 |  |  |  |  |  |
 |---|---|---|---|---|
-| Adres | Jaarlijkse inkomsten | Anonieme IP | Factuuradres | Factureringsplaats |
-| Factureringsland | Postcode facturering | Factureringsstatus | Plaats | Bedrijfsnaam |
+| Adres | Jaaromzet | Anoniem IP-adres | Factuuradres | Factuurstad |
+| Factuurland | Factuurpostcode | Factuurstaat | Stad | Bedrijfsnaam |
 | Land | Gemaakt op | Geboortedatum | Afdeling | Niet bellen |
-| Geen oorzaak aanroepen | Reden niet aanroepen | E-mailadres | E-mail ongeldig | Ongeldige oorzaak e-mail |
+| Geen oorzaak aanroepen | Reden voor niet bellen | E-mailadres | E-mail ongeldig | Ongeldige oorzaak e-mail |
 | Externe bedrijfs-id | Id externe verkoper | Faxnummer | Voornaam | Volledige naam |
-| Industrie | Overgenomen stad | Overgenomen onderneming | Overgenomen land | Overgenomen metropolitaans gebied |
+| Marktsegment | Overgenomen stad | Afgeleid bedrijf | Afgeleid land | Overgenomen metropolitaans gebied |
 | Gebiedscode afgeleide telefoon | Postcode | Gebied van de betrokken staat | Is anoniem | Is klant |
-| Is partner | Functie | Achternaam | Classificatie | Score |
-| Bron persoon | Status | Hoofdtelefoon | Marketo Social Facebook Display Name | Marketo Social Facebook-id |
-| Foto-URL Marketo Social | URL Marketo Social Facebook-profiel | Marketo Social Facebook Reach | Marketo Social Facebook-inschrijvingen | Marketo Social Facebook bezoeken |
-| Marketo Social Gender | Marketo Social laatst vermelde inschrijving | Marketo Social (laatst) bezoeken | Weergavenaam Marketo Social LinkedIn | Marketo Social LinkedIn-id |
-| URL van Marketo Social LinkedIn-foto | URL Marketo Social LinkedIn-profiel | Marketo Social LinkedIn Reach | Marketo Social LinkedIn-inschrijvingen waarnaar wordt verwezen | Marketo Social LinkedIn bezoeken waarnaar wordt verwezen |
-| Marketo Social Syndication ID | Marketo Social Total Verwezen inschrijvingen | Marketo Social Total Verwezen bezoeken | Weergavenaam Marketo Social Twitter | Marketo Social Twitter-id |
-| Foto-URL Marketo Social Twitter | URL Marketo Social Twitter-profiel | Marketo Social Twitter Reach | Inschrijvingen op Marketo Social Twitter | Bezoeken op Marketo Social Twitter |
-| Tweede voornaam | Mobiel telefoonnummer | Aantal werknemers | Telefoonnummer | Postcode |
-| Prioriteit | Relatieve score | Rol | Aanhef | SIC-code |
-| Site | Staat | Abonnement opgezegd | Reden waarop geen abonnement is genomen | Bijgewerkt op |
+| Is partner | Beroep | Achternaam | Classificatie | Score |
+| Bron persoon | Status | Telefoon | Marketo Social Facebook Display Name | Marketo Social Facebook ID |
+| Marketo Social Facebook Foto-URL | Marketo Social Facebook Profile URL | Marketo Social Facebook Reach | Inschrijvingen verwezen naar Marketo Social Facebook | Bezoeken verwezen naar Marketo Social Facebook |
+| Marketo Social Gender | Inschrijving als laatste verwijzing voor Marketo Social | Bezoek van laatst vermelde Marketo Social | Marketo Social LinkedIn Display Name | Marketo Social LinkedIn ID |
+| Marketo Social LinkedIn Foto-URL | Marketo Social LinkedIn Profile URL | Marketo Social LinkedIn Reach | Inschrijvingen verwezen naar Marketo Social LinkedIn | Bezoeken verwezen naar Marketo Social LinkedIn |
+| Marketo Social Syndication ID | Marketo Social Total Vermeld inschrijvingen | Marketo Sociale Totaal bezoeken | Marketo Social Twitter Display Name | Marketo Social Twitter ID |
+| Marketo Social Twitter Foto-URL | Marketo Social Twitter Profile URL | Marketo Social Twitter Reach | Inschrijvingen verwezen naar Marketo Social Twitter | Bezoeken verwezen naar Marketo Social Twitter |
+| Tussenvoegsel | Mobiel | Aantal werknemers | Telefoonnummer | Postcode |
+| Prioriteit | Relatieve score | Functie | Aanhef | SIC-code |
+| Vestiging | Staat | Niet geabonneerd | Reden voor niet geabonneerd | Bijgewerkt op |
 | Urgentie | Website |  |  |  |
 
 >[!NOTE]
