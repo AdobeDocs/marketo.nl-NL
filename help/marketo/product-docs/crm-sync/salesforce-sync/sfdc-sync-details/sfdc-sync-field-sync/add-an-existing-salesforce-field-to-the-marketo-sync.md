@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4719308
-description: Voeg een bestaand Salesforce-veld toe aan Marketo Sync - Marketo Docs - Productdocumentatie
-title: Voeg een bestaand Salesforce-veld toe aan Marketo Sync
+description: Een bestaand Salesforce-veld toevoegen aan de Marketo Sync - Marketo Docs - Productdocumentatie
+title: Een bestaand Salesforce-veld toevoegen aan Marketo Sync
+exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
-
-# Voeg een bestaand Salesforce-veld toe aan Marketo Sync {#add-an-existing-salesforce-field-to-the-marketo-sync}
+# Een bestaand Salesforce-veld toevoegen aan de Marketo Sync {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-Gewoonlijk worden nieuwe aangepaste velden in Salesforce automatisch gesynchroniseerd met Marketo. Als dat niet het geval is, zijn de velden mogelijk niet zichtbaar voor de gebruiker Marketo Sync. Zo kunt u dit oplossen.
+Gewoonlijk worden nieuwe aangepaste velden in Salesforce automatisch gesynchroniseerd met Marketo. Als dat niet het geval is, zijn de velden mogelijk niet zichtbaar voor de Marketo Sync gebruiker. Zo kunt u dit oplossen.
 
 1. Klik uw naam en selecteer dan **Opstelling**.
 
@@ -43,8 +43,8 @@ Gewoonlijk worden nieuwe aangepaste velden in Salesforce automatisch gesynchroni
 
    ![](assets/image2015-6-30-14-3a24-3a49.png)
 
-   Zoet! Bij de volgende synchronisatiecyclus ziet Marketo het veld en begint de magie.
+   Zoet! Bij de volgende synchronisatiecyclus zal Marketo het veld zien en de magie starten.
 
    >[!NOTE]
    >
-   > Als het veld al waarden in Salesforce heeft, worden deze waarden pas gesynchroniseerd met Marketo wanneer de volgende record wordt bijgewerkt.
+   > Als het veld al waarden heeft in Salesforce, worden deze waarden pas gesynchroniseerd met Marketo als de volgende record wordt bijgewerkt.
