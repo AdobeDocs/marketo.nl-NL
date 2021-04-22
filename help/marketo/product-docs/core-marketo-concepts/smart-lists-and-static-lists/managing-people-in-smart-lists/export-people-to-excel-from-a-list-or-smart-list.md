@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557329
-description: Exporteer mensen naar Excel vanuit een lijst of slimme lijst - Marketo Docs - Productdocumentatie
+description: Personen vanuit een lijst of slimme lijst naar Excel exporteren - Marketo Docs - Productdocumentatie
 title: Personen vanuit een lijst of slimme lijst exporteren naar Excel
+exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
-
 # Personen naar Excel exporteren vanuit een lijst of slimme lijst {#export-people-to-excel-from-a-list-or-smart-list}
 
-Als u resultaten voor lijsten of slimme lijsten buiten Marketo nodig hebt, kunt u gemakkelijk exporteren naar Excel. Zo gaat het.
+Als u resultaten met lijsten of slimme lijsten buiten Marketo nodig hebt, kunt u eenvoudig exporteren naar Excel. Zo gaat het.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -47,7 +47,7 @@ Als u resultaten voor lijsten of slimme lijsten buiten Marketo nodig hebt, kunt 
    >
    >Als het exporteren enige tijd in beslag neemt, kunt u zich altijd afmelden en later terugkeren. De **Download nu** verbinding kan worden betreden door **de Status van de Uitvoer van de Show te selecteren** in **de Handelingen van de Lijst** menu, en is geldig voor één week.
 
-   Nadat u een slimme lijst naar Excel uitvoert, zal Marketo automatisch de lijst in het voorgeheugen onderbrengen. De volgende keer dat u zich aanmeldt of uw browser vernieuwt, ziet u een kleine paperclip en notitie op het pictogram van de slimme lijst.
+   Nadat u een slimme lijst naar Excel hebt geëxporteerd, plaatst Marketo de lijst automatisch in cache. De volgende keer dat u zich aanmeldt of uw browser vernieuwt, ziet u een kleine paperclip en notitie op het pictogram van de slimme lijst.
 
    ![](assets/cached.png)
 
