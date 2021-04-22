@@ -2,14 +2,14 @@
 unique-page-id: 2360293
 description: De naam van een veld wijzigen - Marketo Docs - Productdocumentatie
 title: De naam van een veld wijzigen
+exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
-
 
 # De naam van een veld wijzigen {#rename-a-field}
 
@@ -41,4 +41,4 @@ Mooi werk! U weet nu hoe u de namen van velden in Marketo kunt wijzigen.
 
 >[!CAUTION]
 >
->Als u de naam van de API wijzigt in Salesforce, maakt Marketo een gloednieuw veld en laat u de oude veld achter!
+>Als u de naam van de API wijzigt in Salesforce, maakt Marketo een gloednieuw veld en laat het oude veld achter!
