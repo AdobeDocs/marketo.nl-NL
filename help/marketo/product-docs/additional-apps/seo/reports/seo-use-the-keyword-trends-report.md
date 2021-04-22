@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949273
-description: SEO - gebruik het Rapport van de Trends van het Sleutelwoord - Marketo Docs - de Documentatie van het Product
+description: SEO - Use the Keyword Trends Report - Marketo Docs - Product Documentation
 title: SEO - het Rapport van de Trends van het Sleutelwoord gebruiken
+exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
 
 ---
-
 
 # SEO - gebruik het Rapport van de Trends van het Sleutelwoord {#seo-use-the-keyword-trends-report}
 
@@ -63,4 +63,3 @@ In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerang
    >[!NOTE]
    >
    >[Het rapport Concurrerende KW Rank Trends gebruiken](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
-
