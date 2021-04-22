@@ -2,18 +2,18 @@
 unique-page-id: 13795395
 description: Opmerkingen bij de release - Winter '18 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - Winter '18
+exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 translation-type: tm+mt
-source-git-commit: d68eba976d0b71339fc5b70b3c035641d9e81d44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Winter &#39;18 {#release-notes-winter}
 
-De volgende functies zijn opgenomen in de release van Winter &#39;18. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van Winter &#39;18. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven. **Opmerking**: Aan sommige functies in deze release zijn geen artikelen gekoppeld. Als een onderwerp veelvoudige onderverdelingen heeft, worden de verbindingen daar geplaatst.
 
@@ -25,17 +25,17 @@ Marketo maakt gebruik van onze grote gegevensarchitectuur om de productie van ca
 
 Wij hebben twee verhogingen aan onze integratie van Salesforce CRM:
 
-* [Marketo Admin-](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) meldingen voor bepaalde CRM-synchronisatiefouten (verlopen referenties, API-limieten bereikt enz.)
+* [Marketo Admin-](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) meldingen voor bepaalde CRM-synchronisatiefouten (verlopen aanmeldingsgegevens, API-limieten bereikt enz.)
 
 * [Mogelijkheid om e-](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) mailmeldingen naar eigenaars van leads uit te schakelen bij toewijzing van leads
 
 Deze verbeteringen zullen in de loop van 2018 worden doorgevoerd.
 
-## [Marktprestaties, inzicht](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
+## [Marketo Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md) {#marketo-performance-insights}
 
 >[!AVAILABILITY]
 >
->Performance Insights is een add-on product. Neem contact op met de manager succes van de Marketo-klant of de accountmanager voor een prijsopgave.
+>Performance Insights is een add-on product. Neem contact op met uw Marketo Customer Success Manager of Account Executive voor een prijsopgave.
 
 Onderzoek hoe uw campagnes en kanalen bedrijfsresultaten met attributieanalyses, interactieve visualisaties, en een gedetailleerde gegevenslijst beïnvloeden.
 
@@ -63,17 +63,17 @@ Het scripting van de snelheid wordt nu gesteund in e-mail gebruikend dynamische 
 
 **[Integratie van Google Customer Match](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-Met deze integratie kunt u een Marketo-publiek naar Google sturen om als doelgroep Google AdWords te gebruiken en een publiek op YouTube, Search en Gmail te richten.
+Met deze integratie kunt u een Marketo-publiek naar Google sturen om op Google AdWords te worden gericht, en publiek opnieuw richten over YouTube, Search en Gmail.
 
-**[API-verbetering voor LinkedIn-overeenkomende soorten publiek](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[Verbetering voor API voor passend publiek in linkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-Met onze nieuwe LinkedIn-API kunt u nu personen in uw Marketo-database opnieuw toewijzen via meerdere LinkedIn Campaign Manager-accounts.
+Met onze nieuwe LinkedIn API kunt u nu personen in uw Marketo-database heroriënteren op meerdere LinkedIn Campaign Manager-accounts.
 
 ## Webpersonalisatie {#web-personalization}
 
 **Japanse gegevensbron voor webpersonalisatie**
 
-Marketo voegt een extra Japanse gegevensbron voor de Personalisatie van het Web toe om Webbezoekersidentificatie (omgekeerde IP raadpleging) en verpersoonlijking voor bezoekers te verbeteren die uit Japan komen. Organisatie-namen worden in het Japans weergegeven.
+Marketo voegt een extra Japanse gegevensbron voor het Personaliseren van het Web toe om Webbezoekersidentificatie (omgekeerde IP raadpleging) en verpersoonlijking voor bezoekers te verbeteren die uit Japan komen. Organisatie-namen worden in het Japans weergegeven.
 
 **[Creeer een Segment van het Web Gebruikend Statische Lijsten](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
@@ -83,7 +83,7 @@ De Personalisering van het Web kan inhoud aan een bekende Webbezoeker nu persona
 
 **Predictive Algorithm Improvement**
 
-Inhoud die wordt aanbevolen via de geoptimaliseerde ContentAI-algoritmen van Marketo, genereert maximaal tweemaal zoveel klikken als willekeurige inhoud.
+Inhoud die wordt aanbevolen via Marketo-algoritmen voor geoptimaliseerde ContentAI genereert maximaal tweemaal zoveel klikken als willekeurige inhoud.
 
 ## Integratie {#integration}
 
