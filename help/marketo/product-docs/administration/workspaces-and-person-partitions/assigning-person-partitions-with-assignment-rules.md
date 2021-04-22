@@ -2,14 +2,14 @@
 unique-page-id: 2360327
 description: Personen partities toewijzen met toewijzingsregels - Marketo Docs - Productdocumentatie
 title: Personen partities toewijzen met toewijzingsregels
+exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Personen toewijzen aan partities met toewijzingsregels {#assigning-person-partitions-with-assignment-rules}
 
@@ -25,7 +25,7 @@ Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak o
 
 >[!NOTE]
 >
->Alleen op personen die in Marketo zijn gemaakt vanuit uw CRM en via de SOAP API worden toewijzingsregels toegepast.
+>Alleen voor personen die in Marketo zijn gemaakt vanuit uw CRM en via de SOAP API, worden toewijzingsregels toegepast.
 
 1. Klik onder Beheer op Werkruimten en partities.
 
