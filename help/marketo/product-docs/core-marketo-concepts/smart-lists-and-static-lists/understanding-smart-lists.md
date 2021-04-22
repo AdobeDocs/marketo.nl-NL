@@ -2,18 +2,18 @@
 unique-page-id: 557130
 description: Slimme lijsten begrijpen - Marketo Docs - Productdocumentatie
 title: Slimme lijsten
+exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 translation-type: tm+mt
-source-git-commit: 23339f1ffbe09e68143f3da963852b1347d5088a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-
 # Slimme lijsten {#understanding-smart-lists}
 
-Met slimme lijsten kunt u specifieke groepen mensen zoeken aan de hand van eenvoudige filters. Ze worden overal op Marketo gebruikt, zoals in slimme campagnes, programma&#39;s, rapporten, segmentaties, bedrijfsmodellen, betrokkenheidsprogramma&#39;s, dynamische inhoud en nog veel meer. Afhankelijk van uw behoeften, kunnen de slimme lijsten in twee plaatsen binnen Marketo worden gecreeerd:
+Met slimme lijsten kunt u specifieke groepen mensen zoeken aan de hand van eenvoudige filters. Ze worden overal in Marketo gebruikt, zoals in slimme campagnes, programma&#39;s, rapporten, segmentaties, bedrijfsmodellen, serviceprogramma&#39;s, dynamische inhoud en nog veel meer. Afhankelijk van uw behoeften kunnen slimme lijsten op twee plaatsen in Marketo worden gemaakt:
 
 1. In **Database**, waar zij voor gedeeld/globaal gebruik (b.v., &quot;Alle Unsubscribed Mensen&quot;) beschikbaar zijn.
 1. In **programma&#39;s** als lokale activa, waar zij een groep mensen vinden die voor dat specifieke programma relevant zijn (b.v. &quot;Bijgewoonde Vertaling&quot;).
