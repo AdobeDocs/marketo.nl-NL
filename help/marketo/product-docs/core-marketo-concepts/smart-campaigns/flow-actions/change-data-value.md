@@ -2,14 +2,14 @@
 unique-page-id: 1146960
 description: Gegevenswaarde wijzigen - Marketo Docs - Productdocumentatie
 title: Gegevenswaarde wijzigen
+exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Gegevenswaarde {#change-data-value} wijzigen
 
