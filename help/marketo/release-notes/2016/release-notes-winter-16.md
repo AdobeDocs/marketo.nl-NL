@@ -2,16 +2,16 @@
 unique-page-id: 10097199
 description: Opmerkingen bij de release - Winter '16 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -Winter '16
+exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
 
 ---
 
-
-# Opmerkingen bij de release: Winter &#39;16 {#release-notes-winter}
+# Opmerkingen bij de release: Winter &#39;17 {#release-notes-winter}
 
 De volgende functies zijn opgenomen in de release van Winter &#39;16. Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven.
 
@@ -75,9 +75,9 @@ U kunt nu vele-aan-vele verhoudingen tussen Leads/Rekeningen en een douanevoorwe
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [Advertenties Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## [Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook Lead ](https://www.facebook.com/business/a/lead-ads) adsare a directer way for a business to run lead generation campagnes op Facebook. Personen vullen een formulier in om hun belangstelling voor een product of service kenbaar te maken, zodat het bedrijf hierop kan reageren. Bij de integratie van Marketo met Facebook Lead Ads worden automatisch de gegevens vastgelegd die via een lead in het advertentieformulier worden verstrekt. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe trigger Facebook Lead Ads invullen.
+[Facebook Lead ](https://www.facebook.com/business/a/lead-ads) is een directere manier voor een bedrijf om leidende generatiecampagnes op Facebook te voeren. Personen vullen een formulier in om hun belangstelling voor een product of service kenbaar te maken, zodat het bedrijf hierop kan reageren. De Marketo-integratie met Facebook Lead Ads legt automatisch de informatie vast die via een lead in het advertentieformulier wordt verschaft. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe trigger Facebook Lead Ads invullen.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
