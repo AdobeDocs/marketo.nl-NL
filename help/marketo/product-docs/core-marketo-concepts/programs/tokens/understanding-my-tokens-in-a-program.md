@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147114
-description: Mijn tokens in een Programma begrijpen - Marketo Docs - de Documentatie van het Product
+description: Mijn tokens in een programma begrijpen - Marketo Docs - Productdocumentatie
 title: Mijn tokens in een programma begrijpen
+exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
 
 ---
-
 
 # Mijn tokens in een Programma {#understanding-my-tokens-in-a-program} begrijpen
 
