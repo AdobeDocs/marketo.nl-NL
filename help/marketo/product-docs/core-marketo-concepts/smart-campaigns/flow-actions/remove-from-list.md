@@ -2,14 +2,14 @@
 unique-page-id: 1146954
 description: Verwijderen uit lijst - Marketo Docs - Productdocumentatie
 title: Verwijderen uit lijst
+exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
-
 
 # Verwijderen uit lijst {#remove-from-list}
 
