@@ -2,14 +2,14 @@
 unique-page-id: 2951056
 description: Opmerkingen bij de release - september 2013 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -september 2013
+exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
 
 ---
-
 
 # Opmerkingen bij de release: September 2013 {#release-notes-september}
 
@@ -23,7 +23,7 @@ E-mailURL&#39;s hebben een snijpunt gekregen voor het aanklikken van gebruikers,
 >
 >Als we overschakelen op korte URL&#39;s, verlopen koppelingen in e-mailberichten die vóór de release van september zijn verzonden 90 dagen na deze release.
 
-Gebruik gegevens van Marketo-aangepaste objecten of voeg voorwaardelijke logica toe aan uw e-mailinhoud met de sjabloontaal Snelheid.
+Gebruik gegevens van aangepaste Marketo-objecten of voeg voorwaardelijke logica toe aan uw e-mailinhoud met de sjabloontaal Snelheid.
 
 ![](assets/image2014-9-22-17-3a10-3a56.png)
 
@@ -39,13 +39,13 @@ Wanneer u een e-mailvoorbeeld verzendt, kunt u de naam van een lead selecteren o
 
 ## Aanvullende veldsynchronisatie voor GoToWebinar {#additional-field-sync-for-gotowebinar}
 
-U kunt de Naam van het Bedrijf en de Titel van de Baan van uw vorm Marketo aan GoToWebinar synchroniseren. Als u deze extra velden wilt inschakelen, gaat u naar Gebeurtenispartners en schakelt u &quot;Aanvullende velden inschakelen&quot; in.
+U kunt bedrijfsnaam en functie synchroniseren van uw Marketo-formulier naar GoToWebinar. Als u deze extra velden wilt inschakelen, gaat u naar Gebeurtenispartners en schakelt u &quot;Aanvullende velden inschakelen&quot; in.
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
 ## Alleen aanmelding door gebruiker beperken tot SSO {#restrict-user-login-to-sso-only}
 
-Abonnementen configureren om Marketo-gebruikers alleen toe te staan zich aan te melden via SSO en niet via het normale aanmeldingsscherm
+Abonnementen configureren zodat Marketo-gebruikers zich alleen via SSO kunnen aanmelden en niet via het normale aanmeldingsscherm
 
 ## Virusscan van geüploade bestanden {#virus-scan-of-uploaded-files}
 
@@ -59,9 +59,9 @@ U kunt de gegevens in de Analysator van de Invloed van de Mogelijkheid nu uitvoe
 
 ## Instellingen voor programmakenmerken {#program-attribution-settings}
 
-U kunt de manier veranderen Marketo verbindt contacten en kansen voor eerste en multi aanraakattributie metriek, met inbegrip van de capaciteit om op rekening-gebaseerde attributie te doen. Deze montages zullen attributie metriek in de rapporten van de Ontdekkingsreiziger van de Ontvangsten onder het gebied van de Analyse van de Kans van het Programma en het gebied van de Analyse van de Kans beïnvloeden. Dit zal ook de attributiemetriek in de Analysator van het Programma beïnvloeden.
+U kunt de manier wijzigen waarop Marketo contactpersonen en mogelijkheden voor maateenheden voor eerste en multi-aanraakkenmerken met elkaar verbindt, inclusief de mogelijkheid om accountgebaseerde attributie uit te voeren. Deze montages zullen attributie metriek in de rapporten van de Ontdekkingsreiziger van de Ontvangsten onder het gebied van de Analyse van de Kans van het Programma en het gebied van de Analyse van de Kans beïnvloeden. Dit zal ook de attributiemetriek in de Analysator van het Programma beïnvloeden.
 
-U kunt de toewijzingsinstellingen van het programma wijzigen in een van de drie opties. Als u deze instelling wijzigt, worden er geen Marketo- of CRM-gegevens gewijzigd. het verandert eenvoudig de manier waarop uw rapporten lopen en het kan op elk ogenblik worden teruggedraaid.
+U kunt de toewijzingsinstellingen van het programma wijzigen in een van de drie opties. Als u deze instelling wijzigt, worden Marketo- of CRM-gegevens niet gewijzigd. het verandert eenvoudig de manier waarop uw rapporten lopen en het kan op elk ogenblik worden teruggedraaid.
 
 Expliciet het plaatsen zal slechts contacten met rollen (huidig gedrag) onderzoeken. Impliciet zal alle contacten verbonden aan de rekening ongeacht rol onderzoeken. We raden u ten zeerste aan indien mogelijk de expliciete modus te gebruiken. Het gebruik van Impliciet kan leiden tot valse positieven, mensen die een kans verdienen ondanks het feit dat ze geen echte invloed hebben op de kans.
 
@@ -69,7 +69,7 @@ Expliciet het plaatsen zal slechts contacten met rollen (huidig gedrag) onderzoe
 
 ## Verkoopoverzicht beschikbaar in het Frans en Duits (alleen Salesforce) {#sales-insight-available-in-french-and-german-salesforce-only}
 
-Download de nieuwste versie van Marketo Lead Management en Marketo Sales Insight van AppExchange, zodat uw Franse en Duitse verkopers de inhoud van het Sales Insight in hun voorkeurstaal kunnen zien.
+Download de nieuwste versie van Marketo Lead Management en Marketo Sales Insight van AppExchange zodat uw Franse en Duitse verkopers de inhoud van Sales Insight in hun voorkeurstaal kunnen bekijken.
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 
