@@ -2,20 +2,20 @@
 unique-page-id: 2951101
 description: Opmerkingen bij de release - maart 2013 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - maart 2013
+exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Maart 2013 {#release-notes-march}
 
 De volgende functies zijn opgenomen in de release van maart.
 
-## Kalenderbestanden markeren {#marketo-calendar-files}
+## Marketo-kalenderbestanden {#marketo-calendar-files}
 
 Maak een kalenderbestand als een **Mijn token** dat moet worden gebruikt in e-mails voor bevestiging en herinnering van gebeurtenissen. Dit geïntegreerde kalenderbestand (bijvoorbeeld het .ics-bestand) rendert alle tokens, inclusief Mijn tokens en de `{{member.webinar URL}}`-token.
 
@@ -43,4 +43,4 @@ Er zijn meer dan een dozijn talen toegevoegd aan de foutberichten van het formul
 
 ## Ondersteuningsnieuws en waarschuwingen {#support-news-and-alerts}
 
-Blijf verbonden met de Klantenondersteuning van Marketo door u te abonneren op Support News and Alerts voor P1-waarschuwingen, bekende problemen, tips en tips van onze ondersteuningsexperts en updates van Marketo Customer Support.
+Blijf verbonden met de klantenondersteuning van Marketo door u te abonneren op Support News and Alerts for P1 Alerts, Known Issues, Hints and Tips van onze supportexperts en updates van de klantenondersteuning van Marketo.
