@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2953457
-description: SFDC Sync - Contact Sync - Marketo Docs - Productdocumentatie
+description: SFDC Sync -Contact Sync - Marketo Docs - Productdocumentatie
 title: SFDC-synchronisatie - Contactsynchronisatie
+exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-
 # SFDC-synchronisatie: Contactsynchronisatie {#sfdc-sync-contact-sync}
 
-Wist u dat Marketo uw gehele database synchroniseert met Salesforce? Het synchroniseert, wacht dan 5 minuten en synchroniseert dan opnieuw, de hele dag, elke dag. Hier zijn sommige details over hoe Marketo Contacten Salesforce specifiek behandelt.
+Wist je dat Marketo je hele database synchroniseert met Salesforce? Het synchroniseert, wacht dan 5 minuten en synchroniseert dan opnieuw, de hele dag, elke dag. Hier zijn een paar details over hoe Marketo Salesforce Contacten specifiek behandelt.
 
 ## Richting {#sync-direction} synchroniseren
 
-De contactsynchronisatie is bidirectioneel. Als u wijzigingen aanbrengt in een contactpersoon in Salesforce of Marketo, worden de updates weerspiegeld in beide systemen.
+De contactsynchronisatie is bidirectioneel. Als u wijzigingen aanbrengt in een contactpersoon in Salesforce of Marketo, worden uw updates weerspiegeld in beide systemen.
 
 ## Wat gebeurt er als beide systemen tegelijkertijd worden gewijzigd? {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
@@ -41,8 +41,8 @@ Nee, niet alle standaardvelden zijn nuttig. Alle aangepaste velden kunnen onderd
 
 >[!NOTE]
 >
->Marketo synchroniseert alleen de velden waartoe uw Marketo Sync User toegang heeft.
+>Marketo synchroniseert alleen de velden waartoe uw Marketo Sync-gebruiker toegang heeft.
 
-## Zal Marketo de validatieregels van Salesforce respecteren? {#will-marketo-respect-the-salesforce-validation-rules}
+## Zal Marketo de regels voor de validatie van Salesforce naleven? {#will-marketo-respect-the-salesforce-validation-rules}
 
 Ja, als er een conflict is zal het het resultaat in het Logboek van de activiteit van de leads registreren.
