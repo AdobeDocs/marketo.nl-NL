@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147093
-description: Lokale elementen in een programma begrijpen - Marketo Docs - Productdocumentatie
+description: Een goed begrip van lokale middelen in een programma - Marketo Docs - Productdocumentatie
 title: Lokale elementen in een programma begrijpen
+exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Lokale elementen in een programma {#understanding-local-assets-in-a-program}
 
@@ -33,7 +33,7 @@ Lokale elementen zijn de inhoud die deel uitmaakt van uw programma. De activa zi
 * [Testgroep](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
 * [Sociale knop](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
 * [Youtube-video](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md)
-* [Opiniepeiling](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
-* [Verwijzingsvoorstel](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-* [Krenkte](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
+* [Pollen](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
+* [Aanbieding via verwijzing](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+* [Sweepstake](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
 * [SMS-berichten van Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
