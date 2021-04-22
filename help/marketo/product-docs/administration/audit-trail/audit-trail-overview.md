@@ -2,18 +2,18 @@
 unique-page-id: 11377945
 description: Overzicht audittrail - Marketo Docs - Productdocumentatie
 title: Overzicht van audittrail
+exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
-
 # Overzicht van audittrail {#audit-trail-overview}
 
-Met Audittrail beschikt u over de mogelijkheid om een complete geschiedenis (van zes maanden) met wijzigingen te verkrijgen die in uw Marketo-instantie zijn aangebracht.
+Met Audittrail hebt u de mogelijkheid om een complete geschiedenis (van zes maanden) met wijzigingen te verkrijgen die in uw Marketo-exemplaar zijn aangebracht.
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ Marketo controleert de [acties maken, bewerken en verwijderen van](/help/marketo
 
 >[!NOTE]
 >
->Marketo is _niet_ controleveranderingen die binnen Personalisatie van het Web, Voorspelende Inhoud, of het Inzicht van de Verkoop op dit ogenblik worden aangebracht.
+>Marketo is _niet_ controleveranderingen die binnen de Personalisatie van het Web, Voorspelende Inhoud, of het Inzicht van de Verkoop op dit ogenblik worden aangebracht.
 
 ## Componenten {#audit-trail-components} van audittrail
 
@@ -78,7 +78,7 @@ U kunt slechts gegevens van 30 dagen in uw exemplaar bekijken. Gebruik de export
 >
 >**Definitie**
 >
->**Onbekend:** In audittrail ziet u mogelijk de naam en het e-mailadres van een gebruiker die worden vermeld als &quot;Onbekend&quot;. Dit gebeurt wanneer u een verandering in uw picklist waarden in uw CRM aanbrengt. Deze waarden worden weergegeven op Marketo-formulieren en landingspagina&#39;s. Als u deze update uitvoert aan de CRM-zijde, worden uw bestemmingspagina&#39;s die verwijzen naar het formulier automatisch geprogrammeerd. In audittrail, zullen wij vangen dat de het landen pagina werd opgesteld, maar de naam en e-mail van de gebruiker zullen tonen als &quot;Onbekend,&quot;aangezien wij niet de gebruikersinformatie van de kant van CRM kunnen vangen.
+>**Onbekend:** In audittrail ziet u mogelijk de naam en het e-mailadres van een gebruiker die worden vermeld als &quot;Onbekend&quot;. Dit gebeurt wanneer u een verandering in uw picklist waarden in uw CRM aanbrengt. Deze waarden worden weergegeven in Marketo-formulieren en bestemmingspagina&#39;s. Als u deze update uitvoert aan de CRM-zijde, worden uw bestemmingspagina&#39;s die verwijzen naar het formulier automatisch geprogrammeerd. In audittrail, zullen wij vangen dat de het landen pagina werd opgesteld, maar de naam en e-mail van de gebruiker zullen tonen als &quot;Onbekend,&quot;aangezien wij niet de gebruikersinformatie van de kant van CRM kunnen vangen.
 
 >[!MORELIKETHIS]
 >
