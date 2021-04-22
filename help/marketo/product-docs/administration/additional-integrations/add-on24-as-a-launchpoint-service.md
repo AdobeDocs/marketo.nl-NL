@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7512276
-description: ON24 als Dienst van LaunchPoint toevoegen - Marketo Docs - de Documentatie van het Product
+description: ON24 toevoegen als een LaunchPoint-service - Marketo Docs - Productdocumentatie
 title: ON24 toevoegen als een LaunchPoint-service
+exl-id: 562d6091-8a24-4625-b728-ada52d869f0c
 translation-type: tm+mt
-source-git-commit: 78961a3e163ce903facf955a9dda6909b5e85bad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
-
 
 # ON24 toevoegen als een LaunchPoint-service {#add-on-as-a-launchpoint-service}
 
