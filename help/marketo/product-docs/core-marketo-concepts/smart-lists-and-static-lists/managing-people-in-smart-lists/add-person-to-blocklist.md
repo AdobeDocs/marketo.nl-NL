@@ -1,25 +1,25 @@
 ---
 unique-page-id: 9438139
-description: Persoon toevoegen aan Lijst van afgewezen personen - Marketo Docs - Productdocumentatie
-title: Persoon toevoegen aan Lijst van afgewezen personen
+description: Persoon toevoegen aan Lijst van gewezen personen - Marketo Docs - Productdocumentatie
+title: Persoon toevoegen aan Lijst van gewezen personen
+exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
+# Persoon toevoegen aan Lijst van gewezen personen {#add-person-to-blocklist}
 
-# Persoon toevoegen aan Lijst van afgewezen personen {#add-person-to-blocklist}
-
-Als u mensen aan uw Lijst van afgewezen personen toevoegt, kunnen ze uw correspondentie niet ontvangen.
+Als u mensen aan uw Lijst van gewezen personen toevoegt, kunnen ze uw correspondentie niet ontvangen.
 
 >[!NOTE]
 >
->Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van afgewezen personen en Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
+>Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van gewezen personen en de Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
 
-1. [Creeer een nieuw standaardprogramma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) en noem het  **Toevoegen aan Lijst van afgewezen personen**.
+1. [Creeer een nieuw standaardprogramma ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md) en noem het  **Toevoegen aan Lijst van gewezen personen**.
 
 1. Klik **Nieuw** en selecteer **Nieuw Lokaal element**.
 
@@ -29,11 +29,11 @@ Als u mensen aan uw Lijst van afgewezen personen toevoegt, kunnen ze uw correspo
 
    ![](assets/image2015-8-14-11-3a2-3a26.png)
 
-1. Voeg alle mensen aan uw **Slimme Lijst** toe u aan uw Lijst van afgewezen personen wilt toevoegen.
+1. Voeg alle mensen aan uw **Slimme Lijst** toe u aan uw Lijst van gewezen personen wilt toevoegen.
 
    >[!NOTE]
    >
-   >Personen op je Lijst van afgewezen personen ontvangen geen e-mails met een normale werking.
+   >Personen op je Lijst van gewezen personen ontvangen geen e-mails met een normale werking.
 
    ![](assets/three-6.png)
 
@@ -73,4 +73,4 @@ Als u mensen aan uw Lijst van afgewezen personen toevoegt, kunnen ze uw correspo
 
    >[!TIP]
    >
-   >Maak een [trigger smart campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) met **Gegevenswaarde wijzigen** met **Blok in de lijst is true** voor alle mensen in de toekomst die kenmerken hebben die geschikt zijn voor lijst van afgewezen personen.
+   >Maak een [trigger smart campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md) met **Gegevenswaarde wijzigen** met **Blok in de lijst is true** voor alle mensen in de toekomst die kenmerken hebben die geschikt zijn voor lijst van gewezen personen.
