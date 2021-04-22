@@ -1,14 +1,14 @@
 ---
-description: Rollen en machtigingen exporteren - Marketo Docs - Productdocumentatie
+description: Rollen en machtigingen exporteren - Marketo-documenten - Productdocumentatie
 title: Rollen en machtigingen exporteren
+exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
-
 
 # Rollen en machtigingen {#export-roles-and-permissions} exporteren
 
@@ -18,7 +18,7 @@ Hier is hoe te om alle rollen en hun toestemmingen uit te voeren.
 >
 >Beheerdersmachtigingen vereist
 
-1. In uw Mijn Marketo, klik **Admin**.
+1. Klik in Mijn Marketo op **Admin**.
 
    ![](assets/export-roles-and-permissions-1.png)
 
@@ -36,7 +36,7 @@ Hier is hoe te om alle rollen en hun toestemmingen uit te voeren.
 
 >[!NOTE]
 >
->Controleer of uw browser pop-ups van Marketo niet blokkeert.
+>Zorg ervoor dat uw browser pop-ups van Marketo niet blokkeert.
 
 De gegevens zullen als CSV uitvoeren en bevatten rollen, toestemmingen, en een telling van hoeveel toestemmingen per groep zijn toegelaten.
 
