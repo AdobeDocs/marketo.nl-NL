@@ -2,18 +2,18 @@
 unique-page-id: 2952636
 description: Zoek naar dubbele mensen met aangepaste logica - Marketo Docs - Productdocumentatie
 title: Dubbele mensen zoeken met aangepaste logica
+exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-
 # Dubbele personen zoeken met aangepaste logica {#find-duplicate-people-with-custom-logic}
 
-Marketo heeft een systeem slimme lijst die dubbele mensen door hun e-mailadressen te passen vindt. Als u een ander veld wilt gebruiken om duplicaten te zoeken, gaat u als volgt te werk.
+Marketo heeft een slimme lijst van het systeem die dubbele mensen door hun e-mailadressen te ontmoeten vindt. Als u een ander veld wilt gebruiken om duplicaten te zoeken, gaat u als volgt te werk.
 
 >[!PREREQUISITES]
 >
