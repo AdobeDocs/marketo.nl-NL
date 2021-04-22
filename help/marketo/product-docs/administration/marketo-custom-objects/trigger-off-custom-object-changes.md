@@ -2,14 +2,14 @@
 unique-page-id: 11378713
 description: Aangepaste objectwijzigingen activeren - Marketo Docs - Productdocumentatie
 title: Aangepaste objectwijzigingen activeren
+exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # Aangepaste objectwijzigingen activeren {#trigger-off-custom-object-changes}
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >Deze functie is alleen beschikbaar:
 >
 >* Voor klanten op de Orion-infrastructuur
->* Alleen voor gebruik met aangepaste Marketo-objecten, niet aangepaste objecten die zijn gesynchroniseerd via de integratie met Salesforce of Microsoft Dynamics
+>* Alleen voor gebruik met aangepaste Marketo-objecten, niet met aangepaste objecten die zijn gesynchroniseerd via de integratie met Salesforce of Microsoft Dynamics
 >* Als trigger, geen filter
 
 >
@@ -58,5 +58,5 @@ In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen
    >[!NOTE]
    >
    >* [Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
-   >* [Aangepaste objecten markeren](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+   >* [Aangepaste Marketo-objecten begrijpen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
