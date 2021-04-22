@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360364
-description: Stap 2 van 3 - creeer een Gebruiker Salesforce voor Marketo (Onderneming/Onbeperkt) - Marketo Docs - de Documentatie van het Product
-title: Stap 2 van 3 - creeer een Gebruiker Salesforce voor Marketo (Onderneming/Onbeperkt)
+description: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt) - Marketo Docs - Productdocumentatie
+title: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)
+exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 0%
 
 ---
 
-
-# Stap 2 van 3: Een Salesforce-gebruiker maken voor markeren (Enterprise/Onbeperkt) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt) {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
