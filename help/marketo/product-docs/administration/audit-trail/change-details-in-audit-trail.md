@@ -2,18 +2,18 @@
 unique-page-id: 11379928
 description: Details wijzigen in Audittrail - Marketo Docs - Productdocumentatie
 title: Details wijzigen in audittrail
+exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1913'
 ht-degree: 0%
 
 ---
 
-
 # Details wijzigen in audittrail {#change-details-in-audit-trail}
 
-Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zijn de details.
+Audittrail biedt veel inzicht in wie wat doet in uw Marketo-abonnement. Hier zijn de details.
 
 ## Asset Audit Trail {#asset-audit-trail}
 
@@ -137,7 +137,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
   </tr> 
   <tr> 
    <td>Bewerken</td> 
-   <td>Module bewerken <code>"<module name>" <attribute></code> naar "value"</td> 
+   <td>Module bewerken <module name><attribute> naar "value"</td> 
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
@@ -752,7 +752,7 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
    <td>Wachtwoordbeveiliging gewijzigd in sjabloon: Standaardbeveiliging, minimumlengte: #, onderste boven: #, nummer: #, gemengd geval: #, vervaldatum: #, sessietime-out: Aantal</td> 
   </tr> 
   <tr> 
-   <td rowspan="3">Rol<br><br></td> 
+   <td rowspan="3">Functie<br><br></td> 
    <td>Maken</td> 
    <td>Rol die met "rolnaam"wordt gecreeerd (NOTA: als u details over toegevoegde toestemmingen nodig hebt, gelieve steun) te contacteren - <br>toont momentopname van toestemmingen die aan de rol worden toegewezen</td> 
   </tr> 
@@ -813,4 +813,3 @@ Audittrail biedt veel inzicht in wie doet wat in uw abonnement Marketo. Hier zij
 >[!MORELIKETHIS]
 >
 >[Filteren in audittrail](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
-
