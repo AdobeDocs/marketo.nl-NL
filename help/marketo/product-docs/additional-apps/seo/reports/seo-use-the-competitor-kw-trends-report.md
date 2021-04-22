@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949270
-description: SEO - gebruik het Concurrentie KW rapport van de Trends - Marketo Docs - de Documentatie van het Product
+description: SEO - Gebruik het Concurrentie KW Trends Report - Marketo Docs - de Documentatie van het Product
 title: SEO - Gebruik van het rapport KW-trends voor de concurrent
+exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Gebruik het rapport KW-trends voor concurrent {#seo-use-the-competitor-kw-trends-report}
 
