@@ -2,14 +2,14 @@
 unique-page-id: 2360325
 description: Gebruikerstoegang tot een werkruimte toestaan - Marketo Docs - Productdocumentatie
 title: Toegang van gebruikers tot een werkruimte toestaan
+exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # Toegang van gebruikers tot een werkruimte toestaan {#allow-user-access-to-a-workspace}
 
