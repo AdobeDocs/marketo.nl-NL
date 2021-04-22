@@ -2,18 +2,18 @@
 unique-page-id: 4720253
 description: Opmerkingen bij de release -December 2014 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -december 2014
+exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: December 2014 {#release-notes-december}
 
-De volgende functies zijn opgenomen in de release van december 2014. Controleer uw Marketo Edition voor de beschikbaarheid van functies. Na de release wilt u koppelingen naar gedetailleerde artikelen voor elke functie zoeken.
+De volgende functies zijn opgenomen in de release van december 2014. Controleer of de Marketo Edition beschikbaar is. Na de release wilt u koppelingen naar gedetailleerde artikelen voor elke functie zoeken.
 
 ## Verkooprapporten {#sales-insight-reports}
 
@@ -23,9 +23,9 @@ Met het [Rapport E-mailprestaties van verkoopinzicht](/help/marketo/product-docs
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Aangepast publiek Facebook {#facebook-custom-audiences}
+## Aangepast publiek voor facebook {#facebook-custom-audiences}
 
-Als uw Marketo-beheerder [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) heeft toegevoegd, kunt u eenvoudig een aangepast publiek van Facebook maken, bijwerken of [vervangen door leads van een statische of slimme lijst van Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Zoek het nieuwe Facebook-pictogram onder aan het lead grid van een statische of slimme lijst.
+Als uw Marketo-beheerder [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) heeft toegevoegd, kunt u eenvoudig een aangepast publiek van Facebook maken, bijwerken of [vervangen door leads van een statische of slimme Marketo-lijst](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Zoek het nieuwe Facebook-pictogram onder aan het hoofdraster van een statische of slimme lijst.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
