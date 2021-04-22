@@ -1,15 +1,15 @@
 ---
 unique-page-id: 4719289
-description: Campagne synchroniseren inschakelen/uitschakelen - Marketo Docs - Productdocumentatie
+description: Campagne Sync inschakelen/uitschakelen - Marketo Docs - Productdocumentatie
 title: Campagnesynchronisatie inschakelen/uitschakelen
+exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
 
 ---
-
 
 # Campagne-synchronisatie inschakelen/uitschakelen {#enable-disable-campaign-sync}
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-Met deze optie kan Marketo zijn lidmaatschap en status van het programma synchroniseren met Salesforce-campagnes en andersom.
+Met deze optie kan Marketo het lidmaatschap en de status van zijn programma synchroniseren met Salesforce-campagnes en andersom.
 
 1. Ga naar **Admin**, klik **Salesforce**.
 
