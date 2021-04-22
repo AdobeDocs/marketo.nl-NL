@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360295
-description: Een lijst met alle veldnamen van Marketo API exporteren - Marketo Docs - Productdocumentatie
-title: Een lijst met alle markeringsnamen naar API-velden exporteren
+description: Een lijst met alle Marketo API-veldnamen exporteren - Marketo Docs - Productdocumentatie
+title: Een lijst met alle Marketo API-veldnamen exporteren
+exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# Een lijst met alle markeringsnamen naar API-velden exporteren {#export-a-list-of-all-marketo-api-field-names}
+# Een lijst met alle Marketo API-veldnamen exporteren {#export-a-list-of-all-marketo-api-field-names}
 
 Als u onze SOAP API of Munchkin API gebruikt, hebt u een lijst met al uw velden en hun API-namen nodig. Zo krijg je deze lijst.
 
