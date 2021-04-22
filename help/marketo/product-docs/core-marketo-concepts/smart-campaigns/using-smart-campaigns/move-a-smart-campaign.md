@@ -2,14 +2,14 @@
 unique-page-id: 6094949
 description: Een slimme campagne verplaatsen - Marketo Docs - Productdocumentatie
 title: Een slimme campagne verplaatsen
+exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Een slimme campagne verplaatsen {#move-a-smart-campaign}
 
