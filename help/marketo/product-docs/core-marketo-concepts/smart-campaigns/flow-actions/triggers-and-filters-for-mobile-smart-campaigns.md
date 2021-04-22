@@ -2,14 +2,14 @@
 unique-page-id: 9437991
 description: Triggers en filters voor mobiele slimme campagnes - Marketo Docs - Productdocumentatie
 title: Triggers en filters voor mobiele slimme campagnes
+exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
 
 ---
-
 
 # Triggers en filters voor slimme mobiele campagnes {#triggers-and-filters-for-mobile-smart-campaigns}
 
@@ -67,7 +67,7 @@ Gebruik dit filter om te zien wie uw app ooit heeft geïnstalleerd. Deze optie i
 
 >[!NOTE]
 >
->Het filter vindt zowel de huidige als de vorige installatie omdat Marketo het verwijderen van de app niet bijhoudt.
+>Het filter vindt zowel de huidige als de vorige installatie, omdat Marketo het verwijderen van apps niet bijhoudt.
 
 **Restricties**: Apparaattype, Platform, mobiele toepassing, mobiele toepassingsversie, apparaattype, bron installeren, is pushingeschakeld en landinstelling
 
@@ -137,7 +137,7 @@ Met de actievereisten kunt u de trigger en filters gebruiken om mobiele activite
    >   * Het kostte 20 seconden om te kopen
 
 
-Zo ziet het filter eruit in Marketo:
+Zo ziet het filter er in Marketo uit:
 
 ![](assets/image2015-8-17-13-3a16-3a12.png)
 
