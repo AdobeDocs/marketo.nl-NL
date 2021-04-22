@@ -1,18 +1,18 @@
 ---
 description: Te synchroniseren velden bewerken voordat deze in Dynamics worden verwijderd - Marketo Docs - Productdocumentatie
 title: Te synchroniseren velden bewerken voordat deze worden verwijderd in Dynamiek
+exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
 
 ---
 
-
 # Te synchroniseren velden bewerken voordat deze worden verwijderd in dynamiek {#editing-fields-to-sync-before-deleting-them-in-dynamics}
 
-Soms wilt u wellicht velden verwijderen in Dynamiek. Marketo houdt de veldlijst als een referentie waarop de synchronisatie wordt gebaseerd. Als een veld wordt verwijderd in Dynamiek terwijl de synchronisatie is ingeschakeld, kunnen er fouten optreden bij de synchronisatie. Volg onderstaande stappen voordat u velden verwijdert.
+Soms wilt u wellicht velden verwijderen in Dynamiek. Marketo houdt de veldlijst bij als een referentie waarop de synchronisatie wordt gebaseerd. Als een veld wordt verwijderd in Dynamiek terwijl de synchronisatie is ingeschakeld, kunnen er fouten optreden bij de synchronisatie. Volg onderstaande stappen voordat u velden verwijdert.
 
 1. Klik in Marketo op **Admin**.
 
@@ -42,6 +42,6 @@ Soms wilt u wellicht velden verwijderen in Dynamiek. Marketo houdt de veldlijst 
 
 >[!NOTE]
 >
->Als de synchronisatie niet wordt gestopt voordat een veld in Dynamiek wordt verwijderd, kan de synchronisatie fouten tegenkomen. Als dit het geval is, wordt de synchronisatie gestopt. Alvorens te hervatten, zou Admin van de Marketo &quot;Uitgezochte Te synchroniseren Gebieden moeten herzien (hierboven besproken) en **sparen** klikken om de schemaveranderingen goed te keuren.
+>Als de synchronisatie niet wordt gestopt voordat een veld in Dynamiek wordt verwijderd, kan de synchronisatie fouten tegenkomen. Als dit het geval is, wordt de synchronisatie gestopt. Alvorens te hervatten, zou de Admin van Marketo &quot;Uitgezochte Te synchroniseren Gebieden moeten herzien (hierboven besproken) en **sparen** klikken om de schemaveranderingen goed te keuren.
 
 Vergeet niet de synchronisatie in te schakelen nadat de wijzigingen zijn opgeslagen.
