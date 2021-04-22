@@ -1,19 +1,19 @@
 ---
 unique-page-id: 15695874
-description: BrightStor EnterpriseTALK verbinden met Marketo - Marketo Docs - Productdocumentatie
+description: BrightStor TALK verbinden met Marketo - Marketo Docs - Productdocumentatie
 title: BrightStorTALK verbinden met Marketo
+exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 0%
 
 ---
 
-
 # BrightStorTALK verbinden met Marketo {#connect-brighttalk-to-marketo}
 
-Leer hoe u het BrightStor ARCserve-kanaal koppelt aan uw Marketo-instantie. Hiervoor moet u een beheerder voor beide zijn.
+Leer hoe u het BrightStor ARCserve-kanaal koppelt aan uw Marketo-exemplaar. Hiervoor moet u een beheerder voor beide zijn.
 
 >[!NOTE]
 >
@@ -22,14 +22,14 @@ Leer hoe u het BrightStor ARCserve-kanaal koppelt aan uw Marketo-instantie. Hier
 ## Stappen in BrightStor {#steps-in-brighttalk}
 
 1. Meld u aan bij [business.brighttalk.com/demandcentral](https://business.brighttalk.com/demandcentral/login) en klik op **Nu verbinden**.
-1. Klik onder Geavanceerde markeringsverbinding op **Verbinden**.
-1. U komt naar het aanmeldingsscherm en vraagt om: Client ID, Client Secret, Identity Service URL en Rest Service URL. Meld u aan bij Marketo om deze gegevens op te halen.
+1. Klik onder Geavanceerde Marketo-connector op **Connect**.
+1. U komt naar het aanmeldingsscherm en vraagt om: Client ID, Client Secret, Identity Service URL en Rest Service URL. Meld u aan bij Marketo voor deze informatie.
 
 ## Stappen in Marketo {#steps-in-marketo}
 
 >[!NOTE]
 >
->Op dit moment moet u een gebruikers- en API-gebruikersrol (alleen API) instellen om te beperken welke machtigingen BrightTALK in uw Marketo-instantie heeft. Omdat we al artikelen voor die stappen hebben, koppelen we u aan deze stappen.
+>Op dit moment moet u een gebruiker met alleen de API en een gebruikersrol instellen om te beperken welke machtigingen BrightTALK in uw Marketo-instantie heeft. Omdat we al artikelen voor die stappen hebben, koppelen we u aan deze stappen.
 
 1. Maak een [Alleen API-gebruikersrol](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
 1. [Maak een API-gebruiker](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) met behulp van de BrightStor API Role die u tijdens stap 4 hebt gemaakt.
