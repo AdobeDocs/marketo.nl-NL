@@ -2,14 +2,14 @@
 unique-page-id: 10097447
 description: Databasedashboard - Marketo Docs - Productdocumentatie
 title: Databasedashboard
+exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 
 ---
-
 
 # Databasedashboard {#database-dashboard}
 
@@ -23,7 +23,7 @@ Om daar te krijgen, kunt u **de tegel van het Gegevensbestand** op uw huisscherm
 
 ![](assets/db-3.png)
 
-U kunt ook op het Marketo-logo klikken en **Database** selecteren.
+Of klik het embleem van Marketo en selecteer **Gegevensbestand**.
 
 ![](assets/db2.png)
 
