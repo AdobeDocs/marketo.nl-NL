@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360358
-description: Gebruikeraanmelding beperken tot SSO - Marketo Docs - Productdocumentatie
+description: Alleen aanmelding door gebruiker beperken tot SSO - Marketo Docs - Productdocumentatie
 title: Alleen gebruikersaanmelding beperken tot SSO
+exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
-
 
 # Alleen gebruikersaanmelding beperken tot SSO {#restrict-user-login-to-sso-only}
 
@@ -37,7 +37,7 @@ Als u [SSO](/help/marketo/product-docs/administration/additional-integrations/ad
 
 >[!TIP]
 >
->Als u **SSO** vereist selecteert, kunt u [gebruikersrol](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking uitsluiten door **Enkelvoudige Sign-On** te omzeilen terwijl het plaatsen van de rol. Hierdoor kunnen gebruikers zich normaal aanmelden. Het is bijvoorbeeld mogelijk dat Admin-gebruikers zich nog steeds moeten aanmelden bij Marketo via het aanmeldingsscherm.
+>Als u **SSO** vereist selecteert, kunt u [gebruikersrol](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking uitsluiten door **Enkelvoudige Sign-On** te omzeilen terwijl het plaatsen van de rol. Hierdoor kunnen gebruikers zich normaal aanmelden. Admin-gebruikers moeten zich bijvoorbeeld nog steeds via het aanmeldingsscherm aanmelden bij Marketo.
 
 >[!CAUTION]
 >
