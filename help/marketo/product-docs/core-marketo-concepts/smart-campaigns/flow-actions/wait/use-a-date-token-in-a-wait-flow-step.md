@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146997
-description: Gebruik een Datumtoken in een Stapsgewijze wachtstand - Marketo Docs - Productdocumentatie
+description: Een Date Token gebruiken in een Wachten Flow-stap - Marketo Docs - Productdocumentatie
 title: Een Date Token gebruiken in een Wachten Flow-stap
+exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # Een Date Token gebruiken in een Wachten Flow Step {#use-a-date-token-in-a-wait-flow-step}
 
