@@ -2,18 +2,18 @@
 unique-page-id: 45416698
 description: Opmerkingen bij de release - juli 2010 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - juli '20
+exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: 20 juli{#release-notes-july}
 
-De volgende functies zijn opgenomen in de release van juli 2010. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van juli 2010. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -64,5 +64,5 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 * **Parameter &#39;_method&#39;-parameter voor element-API verwijderen**: Na september 2020, zullen de eindpunten van activa API niet meer &quot;_method&quot;goedkeuren om de Parameters van de Vraag in het lichaam van een POST over te gaan om de lengtebeperkingen van URI te omzeilen. Om tegemoet te komen aan verzoeken die deze parameter vereisen, worden de URI-limieten voor de bron-API&#39;s verhoogd van 8 kB naar 65 kB.
 * **[Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: Met deze versie van Munchkin JavaScript Client, versie 159, beginnen we met het vervangen van de Munchkin Associate Lead-methode. Als deze wordt aangeroepen, wordt er een waarschuwing weergegeven dat de methode in een toekomstige versie wordt verwijderd. Nadat de methode is verwijderd, is deze niet meer functioneel en wordt geprobeerd deze te gebruiken. Marketo Engage klanten die deze methode onlangs hebben gebruikt, zullen individueel van hun gebruik op de hoogte worden gesteld.
 * **Ondersteuning voor Internet Explorer**: Zoals eerder aangekondigd, loopt de ondersteuning van Marketo Engage voor Internet Explorer 11 af op 31  **juli 2020**. We blijven Google Chrome, Mozilla Firefox, Apple Safari en Microsoft Edge ondersteunen.
-* **Standaardervaring** voor lucht: De optie die beheerders of gebruikers kunnen instellen als de standaardeleving, wordt in deze release verwijderd ter voorbereiding op een update van de primaire gebruikerservaring. Meer informatie over de update van de primaire ervaring, die voor later dit jaar is gepland, zal in juli beschikbaar zijn. De gebruikers die Marketo Sky als hun standaardervaring hebben geplaatst, of toegang tot Marketo Sky verleend, kunnen tot Marketo Sky van een tegel op de Mijn homepage van Marketo blijven toegang hebben.
+* **Standaardervaring** voor lucht: De optie die beheerders of gebruikers kunnen instellen als de standaardeleving, wordt in deze release verwijderd ter voorbereiding op een update van de primaire gebruikerservaring. Meer informatie over de update van de primaire ervaring, die voor later dit jaar is gepland, zal in juli beschikbaar zijn. Gebruikers die Marketo Sky als hun standaardervaring hebben geplaatst, of toegang tot Marketo Sky hebben gekregen, kunnen tot Marketo Sky van een tegel op de Mijn homepage van Marketo blijven toegang hebben.
 * **EdgeHTML (non-Chromium) Microsoft Edge-ondersteuning**: Marketo Engage biedt eind 2020 geen ondersteuning meer voor EdgeHTML-versies van Microsoft Edge. Vanaf 1 januari 2021 ondersteunen we alleen de nieuwste Chromium-versie van Microsoft Edge.
