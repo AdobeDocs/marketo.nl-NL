@@ -2,18 +2,18 @@
 unique-page-id: 2949222
 description: SEO - Problemen exporteren naar CSV - Marketo Docs - Productdocumentatie
 title: SEO - Problemen exporteren naar CSV
+exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
-
 # SEO - Problemen exporteren naar CSV {#seo-export-issues-to-csv}
 
-U kunt uw [paginauitgave](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) gegevens naar een Csv- dossier uitvoeren als u die informatie met mensen buiten Marketo wilt delen. Zo gaat het.
+U kunt uw [paginagebeurtenis](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md) gegevens naar een Csv- dossier uitvoeren als u die informatie met mensen buiten Marketo wilt delen. Zo gaat het.
 
 1. Ga naar de sectie **Pagina&#39;s**.
 
