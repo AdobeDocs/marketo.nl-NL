@@ -1,15 +1,15 @@
 ---
 unique-page-id: 6848705
-description: Beste praktijken - hoe te om uw Programma's te organiseren - Marketo Docs - de Documentatie van het Product
+description: Best Practice - Hoe kan ik uw programma's organiseren - Marketo Docs - Productdocumentatie
 title: Beste praktijken - hoe te om uw Programma's te organiseren
+exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 0%
 
 ---
-
 
 # Beste praktijken: Hoe te om uw Programma&#39;s {#best-practice-how-to-organize-your-programs} te organiseren
 
@@ -62,7 +62,7 @@ U kunt zeker meer mappen toevoegen als u dat wilt. Houd er rekening mee dat toek
 
 ## Naamgevingsschema&#39;s {#naming-schemes}
 
-Naamgeving is essentieel, omdat de functies van Marketo allemaal een gemeenschappelijke taal gebruiken om te communiceren. Voor programma&#39;s, zou u hen iets uniek moeten noemen. **Geen twee programma&#39;s kunnen de zelfde naam** hebben. U kunt het beste de volgende indeling gebruiken:
+Naamgeving is essentieel, omdat Marketo-functies allemaal een gemeenschappelijke taal gebruiken om te communiceren. Voor programma&#39;s, zou u hen iets uniek moeten noemen. **Geen twee programma&#39;s kunnen de zelfde naam** hebben. U kunt het beste de volgende indeling gebruiken:
 
 [Afkorting van Program ] [TypeYYYY]-[MM]-[Optional ] [DDBrief Beschrijving]
 
@@ -123,4 +123,4 @@ Sommige mensen onttrekken zelfs het grootste deel van de tekst in de e-mails en 
 
 ## Samenvatting {#summary}
 
-Zoals je ziet, is er veel macht in Marketo. We hebben de basisbeginselen hier besproken, maar overwegen enkele [extra services van Marketo Experts](https://www.marketo.com/services/) om u te perfectioneren en in te stellen voor succes.
+Zoals je ziet, is er veel macht in Marketo. We hebben de basisbeginselen hier besproken, maar overwegen een aantal [extra services van Marketo Experts](https://www.marketo.com/services/) om u te perfectioneren en in te stellen voor succes.
