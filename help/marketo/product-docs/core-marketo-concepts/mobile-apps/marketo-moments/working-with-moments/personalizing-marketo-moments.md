@@ -1,15 +1,15 @@
 ---
 unique-page-id: 8782021
-description: Marketo-momenten aanpassen - Marketo-documenten - Productdocumentatie
+description: Marketo Moments aanpassen - Marketo Docs - Productdocumentatie
 title: Marketo-momenten aanpassen
+exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
 
 ---
-
 
 # Marketo-momenten aanpassen {#personalizing-marketo-moments}
 
