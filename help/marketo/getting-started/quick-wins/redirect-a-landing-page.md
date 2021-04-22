@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359428
-description: Een landingspagina omleiden - Marketo Docs - Productdocumentatie
+description: Een bestemmingspagina omleiden - Marketo Docs - Productdocumentatie
 title: Een bestemmingspagina omleiden
+exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
-
 
 # Een bestemmingspagina omleiden {#redirect-a-landing-page}
 
@@ -41,13 +41,13 @@ ht-degree: 0%
 
 ## Stap 2: De omleidingsregel {#step-define-the-redirect-rule} definiëren
 
-1. Klik eerste **Originele URL** drop-down en selecteer uw Marketo CNAME.
+1. Klik eerste **Originele URL** drop-down en selecteer uw NAAM van Marketo.
 
    ![](assets/image2014-9-24-13-3a30-3a33.png)
 
    >[!NOTE]
    >
-   >Herinner me, kunt u landende pagina&#39;s slechts omleiden die met uw Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
+   >Herinner me, kunt u landingspagina&#39;s slechts omleiden die met uw Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
 
 1. Klik op de tweede **Originele URL** vervolgkeuzelijst en selecteer de bestemmingspagina die u wilt omleiden.
 
@@ -59,7 +59,7 @@ ht-degree: 0%
 
 ## Opdracht voltooid {#mission-complete}
 
-Gefeliciteerd! U hebt een bestemmingspagina omgeleid.
+Gefeliciteerd.  U hebt een bestemmingspagina omgeleid.
 
 <br> 
 
