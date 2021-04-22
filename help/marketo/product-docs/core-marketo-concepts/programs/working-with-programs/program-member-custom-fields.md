@@ -2,18 +2,18 @@
 unique-page-id: 37355569
 description: Aangepaste velden voor programmalid - Marketo Docs - Productdocumentatie
 title: Aangepaste velden voor programmalid
+exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
 
 ---
 
-
 # Aangepaste velden voor programmalid {#program-member-custom-fields}
 
-Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens voor elk lid verzamelen. Zij kunnen worden gebruikt in: Marketo-formulieren, filters en triggers van slimme lijsten en handelingen voor de stroom van slimme campagnes. De gegevens kunnen worden weergegeven op het tabblad Leden van het programma.
+Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens voor elk lid verzamelen. Zij kunnen worden gebruikt in: Marketo-formulieren, slimme lijstfilters en -triggers en slimme-campagnestroomacties. De gegevens kunnen worden weergegeven op het tabblad Leden van het programma.
 
 >[!NOTE]
 >
@@ -54,8 +54,8 @@ Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens vo
 | Object | Beschrijving |
 |---|---|
 | Bedrijf | De naam van de met de persoon verbonden onderneming. |
-| Opportunity | Een mogelijkheid kan met een persoon of account worden geassocieerd als een potentiële toekomstige verkoop. Zij gaan gewoonlijk Marketo door CRM, of via API in. |
-| Persoon | Een individu in uw gegevensbestand van de Marketo dat u door marketing campagnes aangaat. |
+| Opportunity | Een mogelijkheid kan met een persoon of account worden geassocieerd als een potentiële toekomstige verkoop. Ze betreden Marketo meestal via een CRM of via API. |
+| Persoon | Een individu in uw Marketo-database waarmee u werkt via marketingcampagnes. |
 | Programmalid | Persoon die ook lid is van een programma |
 
 ## Triggers en filters {#triggers-and-filters}
