@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147296
-description: Een filterdefinitie opslaan in de marketingkalender - Marketo Docs - Productdocumentatie
+description: Een filterdefinitie opslaan in de marketingagenda - Marketo Docs - Productdocumentatie
 title: Een filterdefinitie opslaan in de marketingkalender
+exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # Een filterdefinitie opslaan in de marketingkalender {#saving-a-filter-definition-in-the-marketing-calendar}
 
