@@ -2,18 +2,18 @@
 unique-page-id: 10099785
 description: Abonnementsinstellingen bewerken - Marketo Docs - Productdocumentatie
 title: Abonnementsinstellingen bewerken
+exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-
 # Abonnementsinstellingen {#edit-subscription-settings} bewerken
 
-Als u toegang tot veelvoudige abonnementen van de Marketo hebt en zeker wilt zijn welke u gebruikt, probeer die elk een unieke naam geeft. Die naam wordt vervolgens boven aan de abonnementspagina weergegeven.
+Als u toegang hebt tot meerdere Marketo-abonnementen en u zeker wilt weten welke abonnementen u gebruikt, probeert u elke abonnement een unieke naam te geven. Die naam wordt vervolgens boven aan de abonnementspagina weergegeven.
 
 Als u bijvoorbeeld zowel in productie- als in sandboxinstanties werkt, kunt u een abonnement **Marketo Production** en de andere **Marketo Sandbox** een naam geven.
 
