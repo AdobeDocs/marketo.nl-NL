@@ -2,14 +2,14 @@
 unique-page-id: 8781988
 description: Analysecards - Marketo Docs - Productdocumentatie
 title: Analysecards
+exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
 
 ---
-
 
 # Analysecards {#understanding-analytics-cards}
 
