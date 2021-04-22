@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4719306
-description: Een Salesforce-veld verbergen voor Marketo Sync - Marketo Docs - Productdocumentatie
-title: Een Salesforce-veld verbergen voor synchronisatie
+description: Een Salesforce-veld verbergen in de Marketo Sync - Marketo Docs - Productdocumentatie
+title: Een Salesforce-veld verbergen voor Marketo-synchronisatie
+exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-
-# Een Salesforce-veld verbergen voor synchronisatie {#hide-a-salesforce-field-from-the-marketo-sync}
+# Een Salesforce-veld verbergen voor de Marketo-synchronisatie {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-Niet elk veld in Salesforce is nuttig voor marketing. U kunt de synchronisatieprestaties optimaliseren door alleen velden op te nemen die u nodig hebt. Zo kunt u een veld verbergen voor Marketo.
+Niet elk veld in Salesforce is nuttig voor marketing. U kunt de synchronisatieprestaties optimaliseren door alleen velden op te nemen die u nodig hebt. Zo kun je een veld verbergen voor Marketo.
 
 1. Klik op het naammenu en selecteer **Setup**.
 
