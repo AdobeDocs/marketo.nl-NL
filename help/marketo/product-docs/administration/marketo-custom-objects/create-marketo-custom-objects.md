@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10093192
-description: Aangepaste objecten Marketo maken - Marketo Docs - Productdocumentatie
-title: Aangepaste objecten markeren
+description: Aangepaste Marketo-objecten maken - Marketo Docs - Productdocumentatie
+title: Aangepaste Marketo-objecten maken
+exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '710'
 ht-degree: 0%
 
 ---
 
+# Aangepaste Marketo-objecten maken {#create-marketo-custom-objects}
 
-# Aangepaste objecten markeren {#create-marketo-custom-objects}
-
-Gebruik aangepaste objecten in Marketo om metrische gegevens bij te houden die specifiek zijn voor uw bedrijf. Dit kan van alles zijn, van auto&#39;s tot cursussen, wat u ook maar wilt modelleren in Marketo om uw campagnes uit te voeren.
+Gebruik aangepaste objecten in Marketo om metrische gegevens bij te houden die specifiek zijn voor uw bedrijf. Dit kan van alles zijn, van auto&#39;s tot cursussen, wat u ook in Marketo wilt modelleren om uw campagnes uit te voeren.
 
 >[!NOTE]
 >
->U kunt aangepaste objecten zo instellen dat deze werken op een-op-veel- of een-op-veel-basis. U maakt het oorspronkelijke object op dezelfde manier, maar de stappen verschillen wanneer u velden aan het object toevoegt. Zie [Inzicht in aangepaste objecten markeren](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
+>U kunt aangepaste objecten zo instellen dat deze werken op een-op-veel- of een-op-veel-basis. U maakt het oorspronkelijke object op dezelfde manier, maar de stappen verschillen wanneer u velden aan het object toevoegt. Zie [Inzicht in aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Gebruik aangepaste objecten in Marketo om metrische gegevens bij te houden die s
 
 In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur van één op vele. Later maakt u een aangepast cursusobject en een tussenliggend object voor gebruik in een veel-op-veel-structuur.
 
-1. Klik **Admin**, en in **Databasebeheer** selecteer **Marketo Custom Objects**.
+1. Klik op **Admin** en selecteer **Marketo Custom Objects** in **Databasebeheer**.
 
    ![](assets/image2016-1-18-13-3a12-3a19.png)
 
@@ -37,7 +37,7 @@ In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur v
 
    >[!NOTE]
    >
-   >Op het tabblad Aangepaste objecten markeren worden alle aangepaste objecten aan de rechterkant weergegeven, evenals details voor goedgekeurde objecten, zoals het aantal records en velden bij de meest recente update.
+   >Op het tabblad Aangepaste objecten van Marketo worden alle aangepaste objecten aan de rechterkant weergegeven, evenals details voor goedgekeurde objecten, zoals het aantal records en velden bij de meest recente update.
 
 1. Voer een weergavenaam in. De API-naam en de meervoudige naam worden automatisch ingevuld. Voer een beschrijving in (optioneel).
 
@@ -59,7 +59,7 @@ In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur v
 
    >[!NOTE]
    >
-   >U kunt Marketo-aangepaste objecten alleen vullen met een lijstimport of de [API](https://developers.marketo.com/documentation/rest/).
+   >U kunt aangepaste objecten van Marketo alleen vullen via een lijstimport of de [API](https://developers.marketo.com/documentation/rest/).
 
 ## Een aangepast object maken voor een veel-op-veel-structuur {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -69,7 +69,7 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 >
 >Voor een veel-aan-vele verhouding, te hoeven u om geen verbinding in het douanevoorwerp tot stand te brengen. In plaats daarvan voegt u twee koppelingen toe aan het intermediaire object (zie hieronder).
 
-1. Klik **Admin**, en in **Databasebeheer** selecteer **Marketo Custom Objects**.
+1. Klik op **Admin** en selecteer **Marketo Custom Objects** in **Databasebeheer**.
 
    ![](assets/image2016-1-18-13-3a16-3a25.png)
 
@@ -95,7 +95,7 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 
    >[!NOTE]
    >
-   >U kunt Marketo-aangepaste objecten alleen vullen met een lijstimport of de [API](https://developers.marketo.com/documentation/rest/).
+   >U kunt aangepaste objecten van Marketo alleen vullen via een lijstimport of de [API](https://developers.marketo.com/documentation/rest/).
 
 De volgende stap is dat u een tussenliggend object maakt (zie hieronder). Maar daarvoor moet u een veld maken om er een koppeling naar te maken.
 
@@ -107,7 +107,7 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
 >
 >U hoeft geen tussenliggend object te maken voor een aangepaste objectstructuur van een-op-veel.
 
-1. Klik **Admin**, en in **Databasebeheer**, selecteer **Marketo Custom Objects**.
+1. Klik **Admin**, en in **Databasebeheer**, selecteer **Aangepaste objecten van Marketo**.
 
    ![](assets/image2016-1-18-13-3a17-3a40.png)
 
@@ -133,7 +133,7 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
 
 >[!MORELIKETHIS]
 >
->* [Markeren toevoegen aan aangepaste objectvelden](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [Markeren toevoegen aan aangepaste objectkoppelingsvelden](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
->* [Aangepaste objecten markeren](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+>* [Aangepaste Marketo-objectvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
+>* [Aangepaste Marketo-objectkoppelingsvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)
+>* [Aangepaste Marketo-objecten begrijpen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
