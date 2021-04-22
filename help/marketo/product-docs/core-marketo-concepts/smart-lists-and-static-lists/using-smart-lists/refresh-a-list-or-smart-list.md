@@ -2,14 +2,14 @@
 unique-page-id: 557318
 description: Een lijst of slimme lijst vernieuwen - Marketo Docs - Productdocumentatie
 title: Lijst of slimme lijst vernieuwen
+exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
 
 ---
-
 
 # Een lijst of slimme lijst vernieuwen {#refresh-a-list-or-smart-list}
 
