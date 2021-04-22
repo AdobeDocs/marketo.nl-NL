@@ -1,15 +1,15 @@
 ---
 unique-page-id: 557331
-description: Alle mensen zoeken in een inkomstenpodium - Marketo Docs - Productdocumentatie
+description: Zoeken naar alle mensen in een belastingfase - Marketo Docs - Productdocumentatie
 title: Alle personen zoeken in een omzettingsfase
+exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
-
 
 # Alle personen zoeken in een inkomstenwerkgebied {#find-all-people-in-a-revenue-stage}
 
