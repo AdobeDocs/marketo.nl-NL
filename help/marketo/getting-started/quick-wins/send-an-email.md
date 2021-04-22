@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359410
-description: E-mail verzenden - Marketo Docs - Productdocumentatie
+description: Een e-mail verzenden - Marketo Docs - Productdocumentatie
 title: E-mail verzenden
+exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 0%
 
 ---
 
-
 # E-mail {#send-an-email} verzenden
 
-Het is het eerste wat iedereen wil doen. We sturen een e-mail van Marketo!
+Het is het eerste wat iedereen wil doen. We sturen een e-mail vanuit Marketo!
 
 >[!PREREQUISITES]
 >
