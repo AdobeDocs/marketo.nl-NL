@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147066
-description: De Beperkingen van de Persoon in een Slimme Campagne met voeten treden - Marketo Docs - de Documentatie van het Product
+description: Persoonlijke beperkingen in een slimme campagne negeren - Marketo Docs - Productdocumentatie
 title: Persoonlijke beperkingen in een slimme campagne negeren
+exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
-
 # Persoonlijke beperkingen in een slimme campagne {#override-person-restrictions-in-a-smart-campaign} overschrijven
 
-Marketo stelt het maximumaantal personen in dat in aanmerking komt voor een slimme campagne. dit helpt u te voorkomen dat u per ongeluk uw gehele database per e-mail verzendt. Als u _override_ deze limiet wilt, is dit hoe.
+Met Marketo kunt u het maximumaantal personen instellen dat in aanmerking komt voor een slimme campagne. dit helpt u te voorkomen dat u per ongeluk uw gehele database per e-mail verzendt. Als u _override_ deze limiet wilt, is dit hoe.
 
 >[!PREREQUISITES]
 >
