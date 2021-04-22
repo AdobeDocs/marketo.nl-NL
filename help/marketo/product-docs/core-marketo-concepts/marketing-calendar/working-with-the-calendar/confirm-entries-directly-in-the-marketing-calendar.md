@@ -2,14 +2,14 @@
 unique-page-id: 2953362
 description: Vermeldingen rechtstreeks bevestigen in de marketingkalender - Marketo Docs - Productdocumentatie
 title: Vermeldingen rechtstreeks bevestigen in de marketingkalender
+exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # Vermeldingen rechtstreeks bevestigen in de marketingkalender {#confirm-entries-directly-in-the-marketing-calendar}
 
