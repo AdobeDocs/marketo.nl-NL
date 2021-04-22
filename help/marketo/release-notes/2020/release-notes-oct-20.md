@@ -2,18 +2,18 @@
 unique-page-id: 45416698
 description: Opmerkingen bij de release - oktober 20 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - okt. 20
+exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '959'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: okt &#39;20 {#release-notes-oct}
 
-De volgende functies zijn opgenomen in de release van oktober 2010. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van oktober 2010. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -33,7 +33,7 @@ De volgende functies zijn opgenomen in de release van oktober 2010. Controleer u
 
 ## Websitemarkering {#website-marketing}
 
-* **Automatisering** van formuliercode insluiten: Verkrijg meer leads met Marketo Engage-formulieren ingesloten in de beveiligde bestemmingspagina&#39;s die buiten Marketo worden gehost. De insluitcode van het formulier wordt automatisch bijgewerkt zodat deze de domeinnaam van de openingspagina bevat en handmatige taken voor webontwikkelaars worden verwijderd. Het aangepaste domein in de coderingskoppeling verbetert de ervaring met websitenavigatie en het gebruik van formulieren.
+* **Automatisering** van formuliercode insluiten: Verkrijg meer leads met Marketo Engage-formulieren ingesloten in uw beveiligde bestemmingspagina&#39;s die buiten Marketo worden gehost. De insluitcode van het formulier wordt automatisch bijgewerkt zodat deze de domeinnaam van de openingspagina bevat en handmatige taken voor webontwikkelaars worden verwijderd. Het aangepaste domein in de coderingskoppeling verbetert de ervaring met websitenavigatie en het gebruik van formulieren.
 
 ## Experience Cloud-integratie {#experience-cloud-integration}
 
@@ -47,7 +47,7 @@ De volgende functies zijn opgenomen in de release van oktober 2010. Controleer u
 
 ## Doelstelling voor betaalde media {#paid-media-targeting}
 
-* **Integratie** van advertenties op Facebook: Parameters voor het bijhouden van Facebook-formulieren kunnen nu worden vastgelegd via de LaunchPoint-service voor kopadvertenties in Facebook. Deze verborgen velden kunnen nu worden toegewezen aan Marketo-velden, zodat marketers waardevolle gegevens voor het bijhouden van campagnes kunnen opslaan en gebruiken.
+* **Integratie van facebook-advertenties**: Facebook-parameters voor het bijhouden van formulieren kunnen nu worden vastgelegd via de LaunchPoint-service voor Facebook-leads. Deze verborgen velden kunnen nu worden toegewezen aan Marketo-velden, zodat marketers waardevolle gegevens voor het bijhouden van campagnes kunnen opslaan en gebruiken.
 
 ## Beheer {#administration}
 
