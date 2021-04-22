@@ -2,18 +2,18 @@
 unique-page-id: 2951124
 description: Opmerkingen bij de release - jan/feb 2012 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - jan/feb 2012
+exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: jan/feb 2012 {#release-notes-jan-feb}
 
-De volgende functies zijn opgenomen in de jan/feb-release. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid. Kom terug na de release voor koppelingen naar gedetailleerde functiedocumentatie.
+De volgende functies zijn opgenomen in de jan/feb-release. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies. Kom terug na de release voor koppelingen naar gedetailleerde functiedocumentatie.
 
 ## Geavanceerde dynamische inhoud {#advanced-dynamic-content}
 
@@ -23,7 +23,7 @@ Met geavanceerde dynamische inhoud kunt u aansprekende e-mailcommunicatie en bes
 
 ![](assets/image2014-9-23-9-3a50-3a27.png)
 
-## Segmentering {#segmentation}
+## Segmentatie  {#segmentation}
 
 _Beschikbaar voor Pro- en Enterprise-versies_
 
@@ -55,7 +55,7 @@ De nieuwe eigenschappen om browser te respecteren &quot;volgen&quot;montages omv
 
 ## Single Sign-On {#single-sign-on}
 
-Organisaties hebben nu de mogelijkheid om een naadloze aanmelding bij de toepassing Marketo te ondersteunen met SAML 2.0 voor Single Sign-On vanuit een bedrijfsportaal.
+Organisaties kunnen nu een naadloze aanmelding bij de Marketo-toepassing ondersteunen met SAML 2.0 voor Single Sign-On via een bedrijfsportaal.
 
 ## Bijgewerkte e-mail- en bestemmingspagina-editors {#updated-email-and-landing-page-editors}
 
