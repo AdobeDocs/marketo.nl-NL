@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147294
-description: Filteren van de Marketing Kalender - Marketo Docs - de Documentatie van het Product
+description: Filteren van de marketingkalender - Marketo Docs - Productdocumentatie
 title: De marketingkalender filteren
+exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # De marketingkalender filteren {#filtering-the-marketing-calendar}
 
@@ -23,7 +23,7 @@ Met invoertypen, programmalabels of werkruimten kunt u de informatie filteren di
 
    >[!NOTE]
    >
-   >De standaard ingangstypen zijn **E-mail** **Programma&#39;s** en **Smart** **Campagnes** **met** **E-mail**.
+   >De standaardingangen zullen **Email** **Programma&#39;s** en **Smart** **Campagnes** **met** **Email** zijn.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
