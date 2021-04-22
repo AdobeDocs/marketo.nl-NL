@@ -2,14 +2,14 @@
 unique-page-id: 4719283
 description: De Salesforce Sync - Marketo Docs - Productdocumentatie begrijpen
 title: Werken met Salesforce Sync
+exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 translation-type: tm+mt
-source-git-commit: 2b5ccd7220557a5e966d33436d0f0d2a65e4589d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 0%
 
 ---
-
 
 # De Salesforce Sync {#understanding-the-salesforce-sync} begrijpen
 
@@ -17,7 +17,7 @@ Marketo en Salesforce gaan samen als erwten en wortelen. We houden je verkoop- e
 
 ## Hoe synchroniseren werkt {#how-sync-works}
 
-Marketo synchroniseert de hele dag met Salesforce. Elke synchronisatie neemt wat tijd in beslag en pauzeert vervolgens 5 minuten en start vervolgens opnieuw.
+Marketo synchroniseert de hele dag met Salesforce, elke dag. Elke synchronisatie neemt wat tijd in beslag en pauzeert vervolgens 5 minuten en start vervolgens opnieuw.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Marketo synchroniseert de hele dag met Salesforce. Elke synchronisatie neemt wat
 
 ![](assets/sync-illustration.png)
 
-De synchronisatie tussen Salesforce en Marketo is bidirectioneel slechts voor lood, contacten, en campagnes Salesforce. In deze gevallen, wanneer u veranderingen in of Salesforce of Marketo aanbrengt, zullen uw updates in beide systemen worden weerspiegeld. Alle andere syncs zijn van Salesforce aan Marketo slechts. Klik op de onderstaande koppelingen voor meer informatie.
+De synchronisatie tussen Salesforce en Marketo is bidirectioneel alleen voor leads, contacten en Salesforce-campagnes. In deze gevallen, wanneer u veranderingen in of Salesforce of Marketo aanbrengt, zullen uw updates in beide systemen worden weerspiegeld. Alle andere syncs zijn van Salesforce aan Marketo slechts. Klik op de onderstaande koppelingen voor meer informatie.
 
 ## Wat is Synced tussen Marketo en Salesforce? {#what-is-synced-between-marketo-and-salesforce}
 
@@ -40,6 +40,6 @@ De synchronisatie tussen Salesforce en Marketo is bidirectioneel slechts voor lo
 
 >[!NOTE]
 >
->De [geloofsbrieven u in Marketo voor Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) ingaat worden gebruikt om gegevens over te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
+>De [referenties die u in Marketo voor Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) invoert, worden gebruikt om gegevens te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
 
-Marketo&#39;s synchronisatie met Salesforce is de krachtigste van zijn soort ter wereld. Het voelt als magie; er wordt een wijziging aangebracht en het andere systeem is binnenkort bijgewerkt.
+Marketo sync met Salesforce is het krachtigste van zijn soort ter wereld. Het voelt als magie; er wordt een wijziging aangebracht en het andere systeem is binnenkort bijgewerkt.
