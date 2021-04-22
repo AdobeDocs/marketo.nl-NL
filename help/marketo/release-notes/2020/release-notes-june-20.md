@@ -2,18 +2,18 @@
 unique-page-id: 37357276
 description: Opmerkingen bij de release - Juni '20 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni '20
+exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1073'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Juni &#39;20 {#release-notes-june}
 
-De volgende functies zijn opgenomen in de release van 20 juni. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van 20 juni. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
