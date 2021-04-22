@@ -2,14 +2,14 @@
 unique-page-id: 1146978
 description: Gebruik een Duur in een Stap van de Stroom van de Wacht - Marketo Docs - de Documentatie van het Product
 title: Gebruik een Duur in een Stap van de Stroom van de Wacht
+exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
-
 
 # Gebruik een Duur in een Stap {#use-a-duration-in-a-wait-flow-step} van de Stroom van de Wacht
 
