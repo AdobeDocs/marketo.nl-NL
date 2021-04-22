@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147112
-description: Tags - Marketo Docs - Productdocumentatie
+description: Tags begrijpen - Marketo Docs - Productdocumentatie
 title: Tags begrijpen
+exl-id: af74aec2-096f-489f-adf8-388da3867fae
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
 # Tags {#understanding-tags}
 
-U weet waarschijnlijk dat programma&#39;s als bouwstenen zijn in Marketo. Door tags en kanalen te gebruiken, kunt u gegevens filteren voor rapportagedoeleinden.
+Je weet waarschijnlijk dat programma&#39;s als bouwstenen in Marketo zijn. Door tags en kanalen te gebruiken, kunt u gegevens filteren voor rapportagedoeleinden.
 
 Tags worden gebruikt om programma&#39;s te beschrijven. U kunt zo veel maken als u nodig hebt, elk met unieke waarden. De kanalen identificeren het leveringsmechanisme in een programma, zoals webinar, sponsoring, of online advertentie.
 
