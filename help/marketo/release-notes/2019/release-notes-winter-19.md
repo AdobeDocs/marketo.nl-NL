@@ -2,18 +2,18 @@
 unique-page-id: 17727823
 description: Opmerkingen bij de release - Winter '19 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -Winter '19
+exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
 translation-type: tm+mt
-source-git-commit: 9d8a6d9880de5d2af211906c2410f2057c1f454d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Winter &#39;19 {#release-notes-winter}
 
-De volgende functies zijn opgenomen in de release van Winter &#39;19. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid.
+De volgende functies zijn opgenomen in de release van Winter &#39;19. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
 Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven, indien beschikbaar.
 
@@ -23,11 +23,11 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 >[!NOTE]
 >
->Microsoft duwt alle online klanten aan om aan de recentste versie van de Dynamica van Microsoft te bevorderen. Als u uw instantie van Marketo met Dynamica Online integreert, zult u aan [verbetering aan de recentste versie van de Oplossing van de Marketo ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) vóór **31 Januari, 2019** moeten verzekeren om ervoor te zorgen dat uw integratie zal blijven werken.
+>Microsoft duwt alle online klanten aan om aan de recentste versie van de Dynamica van Microsoft te bevorderen. Als u uw Marketo-instantie integreert met Dynamics Online, moet u [upgraden naar de nieuwste versie van de Marketo Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) vóór **31 januari 2019** om ervoor te zorgen dat uw integratie doorgaat met werken.
 
 >[!NOTE]
 >
->Marketo werkt aan een upgrade van de OAuth-versie voor GoToWebinar van 1.0 naar 2.0. De steun voor OAuth 1.0 wordt in januari 2019 afgekeurd. Als u een klant van GoToWebinar bent, zult u uw logins door LaunchPoint (in het Admin gebied) tegen **Januari 31, 2019** moeten opnieuw voor authentiek verklaren om ervoor te zorgen dat uw integratie zal blijven werken. Raadpleeg onze [Community-pagina](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019) voor meer informatie.
+>Marketo voert een upgrade uit van de OAuth-versie voor GoToWebinar van 1.0 naar 2.0. De steun voor OAuth 1.0 wordt in januari 2019 afgekeurd. Als u een klant van GoToWebinar bent, zult u uw logins door LaunchPoint (in het Admin gebied) tegen **Januari 31, 2019** moeten opnieuw voor authentiek verklaren om ervoor te zorgen dat uw integratie zal blijven werken. Raadpleeg onze [Community-pagina](https://nation.marketo.com/docs/DOC-6739-gotowebinar-authentication-change-take-action-before-1312019) voor meer informatie.
 
 ## Verbeteringen voor kernPlatform {#core-platform-enhancements}
 
@@ -42,11 +42,11 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 
 **[Munchkin v155 (bèta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
-* **Modus** Alleen API: Gebruikers kunnen nu bepalen wanneer en hoe ze leden van hun database kunnen bijhouden door webapps van één pagina expliciet te laten bellen wanneer ze een bezoek aan een webpagina willen opnemen in plaats van te vertrouwen op de automatische tracering van Marketo.
+* **Modus** Alleen API: Gebruikers kunnen nu bepalen wanneer en hoe ze leden van hun database kunnen bijhouden door webapps van één pagina expliciet te laten bellen wanneer ze een bezoek aan een webpagina willen opnemen in plaats van te vertrouwen op automatische tracering door Marketo.
 * **Uitschakelen-beheer**: Beheer opt-outs eenvoudig door het uitschakelcookie-domein aan te passen aan het Cookie-domein van Munchkin.
 * **Parameter** voor decider op domeinniveau: Domeinen met twee letters (d.w.z. &quot;  [website.io](https://website.io)&quot;) volgt automatisch Marketo zonder extra instellingsvereisten.
 
-## Marketo Sales Engineering {#marketo-sales-engage}
+## Marketo Sales Engage {#marketo-sales-engage}
 
 * **Aangepast profiel** Salesforce: Verkoopservice biedt nu ondersteuning voor onbeperkte aangepaste profielen.
 
@@ -58,7 +58,7 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
    * _Salesforce Admin_ Settingshelps-teams zetten hun SFDC-synchronisatie sneller en eenvoudiger dan ooit in.
 
 * **OWA-insteekmodule voor Windows**: Met één enkele toe:voegen-binnen, zullen alle cliënten van Windows Office365 in de Ingenieur van de Verkoop worden gesteund, die de capaciteit verstrekken om Levende Diervoeders in Vooruitzichten te gebruiken. De nieuwe insteekmodule is beschikbaar in de Microsoft Store.
-* **Activiteitenbuffer**: Synchroniseer Verkoopservice naar het core Marketo-platform om inzicht in real-time marketing te benutten.
+* **Activiteitenbuffer**: Synchroniseer verkoopmogelijkheden met het centrale Marketo-platform om inzicht in real-time marketing te benutten.
 
 ## Marketo Sky {#marketo-sky}
 
@@ -72,11 +72,11 @@ Neem maximaal vijf CC-adressen per ontvanger op in e-mails die via Marketo worde
 
 * **OntwerpStudio List Views &amp; Detail Pages**: Geniet van een hogere mate van organisatie en nauwkeurigheid met filterbare en doorzoekbare lijstweergaven van e-mails, landingspagina&#39;s en formulieren. De Pagina&#39;s van het Detail van activa verstrekken zeer belangrijke informatie rond elk middel, met inbegrip van welke programma&#39;s het middel door wordt gebruikt, het aantal fragmenten die, en meer worden gebruikt.
 
-* **Globale zoekopdracht**: Marketo biedt nu een snellere en robuustere algemene zoekfunctie voor het hele platform. Zoekopdrachten worden nu uitgevoerd in alle toegankelijke werkruimten en kunnen bestanden (zowel actief als gearchiveerd), labels, campagnes en programma&#39;s zoeken. De zoekresultaten worden via een overlay geleverd en elk resultaat bevat het pad naar de bestandslocatie om aan te geven waar het element zich bevindt.
+* **Globale zoekopdracht**: Marketo biedt nu een snellere en robuustere wereldwijde zoekfunctie voor het hele platform. Zoekopdrachten worden nu uitgevoerd in alle toegankelijke werkruimten en kunnen bestanden (zowel actief als gearchiveerd), labels, campagnes en programma&#39;s zoeken. De zoekresultaten worden via een overlay geleverd en elk resultaat bevat het pad naar de bestandslocatie om aan te geven waar het element zich bevindt.
 
 * **Verbeterde gebruikersinterface**: Nieuwe pictogrammen, modaliteiten en knoppen, samen met een nieuw kleurenpalet om onze merkvernieuwing te weerspiegelen en Marketo Sky nog verbluffender en functioneler te maken.
 
-* **Verbeteringen** voor de bruikbaarheid van e-mailprogramma: We blijven streven naar pariteit in de functionaliteit van het e-mailprogramma tussen ons klassieke marktleidende managementplatform en de nieuwe Marketo Sky-ervaring.
+* **Verbeteringen** voor de bruikbaarheid van e-mailprogramma: We blijven streven naar pariteit in de functionaliteit van het e-mailprogramma tussen ons klassieke Marketo Lead Management-platform en de nieuwe Marketo Sky-ervaring.
 * **Gebeurtenis-met-webinar programma&#39;s**: Gebeurtenis-met-webinar programma&#39;s zijn nu beschikbaar in Marketo Sky (opmerking: Alleen GoToWebinar wordt in deze release ondersteund, waarbij verdere integratie in de loop der tijd tot stand is gebracht.)
 
 ## Op account gebaseerde marketing {#account-based-marketing}
@@ -116,6 +116,6 @@ We hebben onze SDK voor Android bijgewerkt naar een modern, stabiel en schaalbaa
 
 **Extensible Webinar Platform**
 
-Naast onze productrelease werkt ons partnerteam aan een nieuw kader dat webinar leveranciers toestaat om hun eigen integratie met Marketo te bouwen en te handhaven, die meer flexibiliteit in het bijwerken en verbeteren van hun oplossingen verstrekken terwijl het toelaten van marketeers om het beste uit hun gekozen integratie te halen.
+Naast onze productrelease werkt ons partnerteam aan een nieuw kader dat webinar leveranciers toestaat om hun eigen integraties met Marketo te bouwen en te handhaven, die meer flexibiliteit in het bijwerken en verbeteren van hun oplossingen verstrekken terwijl het toelaten van marketeers om het beste uit hun gekozen integraties te halen.
 
-We zijn van plan om ons nieuwe platform per geval uit te rollen met aanbieders. Voor meer informatie, zie onze [programmadetails](https://www.marketo.com/why-marketo/partners/technology/) of reik uit aan uw contact van de Marketo.
+We zijn van plan om ons nieuwe platform per geval uit te rollen met aanbieders. Voor meer informatie, zie onze [programmadetails](https://www.marketo.com/why-marketo/partners/technology/) of reik aan uw contact van Marketo.
