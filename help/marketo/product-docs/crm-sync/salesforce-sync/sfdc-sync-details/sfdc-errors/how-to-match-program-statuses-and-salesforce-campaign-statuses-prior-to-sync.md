@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360370
-description: Hoe te om de Statussen van het Programma en de statussen van de Campagne Salesforce voorafgaand aan synchronisatie - Marketo Docs - de Documentatie van het Product aan te passen
+description: Hoe te om de Statussen van het Programma en de statussen van de Campagne van Salesforce voorafgaand aan synchronisatie - Marketo Docs - de Documentatie van het Product aan te passen
 title: Hoe te om de Statussen van het Programma en de Status van de Campagne Salesforce voorafgaand aan Synchronisatie aan te passen
+exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
 
 ---
-
 
 # Hoe te om de Statussen van het Programma en de Status van de Campagne Salesforce voorafgaand aan Synchronisatie {#how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync} aan te passen
 
@@ -27,4 +27,4 @@ Vanuit dit foutbericht kunt u kiezen voor:
 1. U kunt de fout annuleren, de statusfouten herstellen en proberen te synchroniseren zodra de fouten zijn hersteld. Voer een van de volgende handelingen uit om de statusfouten te corrigeren:
 
    * Meld u aan bij Salesforce en verwijder of wijzig de naam van de incompatibele campagnelidstaten om de status van het Marketo-programma toe te wijzen die wordt gebruikt voor het kanaaltype dat is gekoppeld aan uw Marketo-programma.
-   * Wijzig de Status van het Programma in Marketo om aan de lidstaten van de Campagne Salesforce in kaart te brengen u op zijn plaats hebt. Dit is een functie Marketo Admin. Zie [Programmakanaal maken](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) voor meer informatie.
+   * Wijzig de status van het Programma in Marketo om aan de lidstaten van de Campagne Salesforce in kaart te brengen u op zijn plaats hebt. Dit is een Marketo Admin-functie. Zie [Programmakanaal maken](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) voor meer informatie.
