@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146956
-description: Interessant moment - Marketo Docs - Productdocumentatie
+description: Interessant moment - Marketo-documenten - productdocumentatie
 title: Interessant moment
+exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-
 # Interessant moment {#interesting-moment}
 
 ## Overzicht {#overview}
 
-Als u het Inzicht van de Verkoop van de Marketo hebt, kunt u **Interessant Moment** debietstap gebruiken om uw verkoopteam zicht in de koele dingen te geven uw mensen doen.
+Als u het Inzicht van de Verkoop van Marketo hebt, kunt u **Interessant Moment** debietstap gebruiken om uw verkoopteam zicht in de koele dingen te geven uw mensen doen.
 
 ![](assets/image2016-1-27-11-3a0-3a21.png)
 
