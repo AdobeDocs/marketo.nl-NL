@@ -2,18 +2,18 @@
 unique-page-id: 2951050
 description: Opmerkingen bij de release - januari 2014 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - januari 2014
+exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: januari 2014 {#release-notes-january}
 
-De volgende functies zijn opgenomen in de release van januari 2014. Controleer [Marketo Edition](https://www.marketo.com/pricing/) op beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van januari 2014. Controleer uw [Marketo Edition](https://www.marketo.com/pricing/) op beschikbaarheid van functies.
 
 ## Forms 2.0 {#forms}
 
@@ -35,7 +35,7 @@ Wilt u dat de status alleen wordt weergegeven als een gebruiker de Verenigde Sta
 
 **Forms eenvoudig insluiten op uw eigen bestemmingspagina&#39;s:**
 
-Gone is het aantal dagen dat HTML-code wordt opgehaald uit formulieren die op Marketo zijn geplaatst om pagina&#39;s te landen en deze in een iFrame te zetten. Pak gewoon de insluitcode en plaats deze op de bestemmingspagina waar u het formulier wilt weergeven. Twee modi - normaal en lichter - bieden u nog meer flexibiliteit met Marketo-formulieren op uw site.
+Gone is het aantal dagen dat HTML-code wordt opgehaald uit formulieren die op Marketo-landingspagina&#39;s zijn geplaatst en in een iFrame wordt geplaatst. Pak gewoon de insluitcode en plaats deze op de bestemmingspagina waar u het formulier wilt weergeven. Twee modi - normaal en lichter - bieden u nog meer flexibiliteit met Marketo-formulieren op uw site.
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 
