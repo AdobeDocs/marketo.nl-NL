@@ -2,14 +2,14 @@
 unique-page-id: 2360281
 description: Een programmakanaal verwijderen - Marketo Docs - Productdocumentatie
 title: Een programmakanaal verwijderen
+exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
-
 
 # Programmakanaal {#delete-a-program-channel} verwijderen
 
