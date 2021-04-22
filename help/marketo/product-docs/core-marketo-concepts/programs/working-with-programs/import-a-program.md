@@ -2,18 +2,18 @@
 unique-page-id: 1147108
 description: Een programma importeren - Marketo Docs - Productdocumentatie
 title: Een programma importeren
+exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
 
 ---
 
-
 # Een programma {#import-a-program} importeren
 
-Een programma kan van één abonnement van Marketo in een andere worden ingevoerd. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. U kunt ook een vooraf gebouwd programma importeren vanuit de Marketo-programmabibliotheek.
+Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het andere. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. Bovendien kunt u een vooraf gebouwd programma importeren uit de Marketo Program Library.
 
 ## Een programma {#import-a-program-1} importeren
 
@@ -29,9 +29,9 @@ Een programma kan van één abonnement van Marketo in een andere worden ingevoer
    >
    >De Invoer van het programma is slechts beschikbaar voor gebruikers die rollen hebben met toegelaten de toestemming van het Programma van de Invoer. Meer informatie over [het beheren van gebruikersrollen en toestemmingen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
    >
-   >Neem contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om een sandboxaccount te verbinden met uw live abonnement.
+   >Neem contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) om een sandboxaccount te verbinden met uw liveabonnement.
 
-1. Selecteer een Marketo **Abonnement** en een programma om in te voeren. Klik **Volgende**.
+1. Selecteer een Marketo **Subscription** en een programma om te importeren. Klik **Volgende**.
 
    ![](assets/image2014-9-17-12-3a20-3a13.png)
 
@@ -57,9 +57,9 @@ U ontvangt een e-mailbevestiging nadat het importeren is voltooid.
 >
 >U moet geïmporteerde batchcampagnes opnieuw plannen en triggercampagnes activeren. Het systeem deactiveert automatisch campagnematerialen en activeert campagnes in het geïmporteerde programma.
 
-## Pre-Built Programma&#39;s in de Bibliotheek van het Programma van de Marketo {#identify-pre-built-programs-in-the-marketo-program-library} identificeren
+## Pre-Built Programma&#39;s identificeren in de Marketo Program Library {#identify-pre-built-programs-in-the-marketo-program-library}
 
-De Marketo-programmabibliotheek bevat vooraf gebouwde, geteste programma&#39;s die u kunt importeren in uw abonnement. Beschikbare programma&#39;s zijn:
+De Marketo Program Library bevat vooraf gebouwde, geteste programma&#39;s die u kunt importeren in uw abonnement. Beschikbare programma&#39;s zijn:
 
 1. **Standaard druppelcursus.** Verstuurt een reeks e-mailberichten gescheiden door wachtstappen.
 1. **Gegevensbeheer.** Behoudt gegevensintegriteit met behulp van slimme campagnes.
@@ -70,7 +70,7 @@ De Marketo-programmabibliotheek bevat vooraf gebouwde, geteste programma&#39;s d
 1. **Levenscyclus 2.** Gebruikt score om een persoon van nieuw aan marketing gekwalificeerd te bewegen.
 1. **Mobiele e-mailsjabloon.** Een responsieve e-mailsjabloon die is getest op iPhone en Android. Bepaalde versies van Android-, MS Outlook-, Exchange- en apps van derden, zoals Gmail en Yahoo! Mobiele apps voor e-mail bieden geen ondersteuning voor de CSS die vereist is voor responsieve sjablonen. We raden je aan te testen voordat je e-mailberichten verzendt.
 1. **Programma Import Sweepstakes.** Zoek naar een programma voor degenen die de programmabibliotheek proberen! Goedkeuren van de e-mails en de bestemmingspagina en activeren de slimme campagne. Geef vervolgens de goedgekeurde bestemmingspagina weer, vul het formulier in en u bent ingegaan!
-1. **Beschikbare verkoopcampagnes.** Geeft uw verkoopvertegenwoordigers een manier om Marketo slimme campagnes van een Dashboard in uw CRM uit te voeren.
+1. **Beschikbare verkoopcampagnes.** Biedt uw verkopers een manier om slimme campagnes van Marketo van een Dashboard in uw CRM uit te voeren.
 1. **Scoring - Spark Edition.** Demografische en gedragsscoring die in één enkel scoreveld is vastgelegd. Bevat meer dan twee dozijn scoring-campagnes.
 1. **Muziek - Standaard en selecteer edities.** Demografische en gedragsscoring is vastgelegd in afzonderlijke scoringvelden. Bevat meer dan twee dozijn scoring-campagnes.
 1. **Synchroniseer Nieuwe personen met CRM.** De campagne die nieuwe mensen aan uw systeem van CRM synchroniseert. Het wijst een persoonstatus toe zodat het als niet verkoopklaar wordt erkend.
@@ -84,7 +84,7 @@ De Marketo-programmabibliotheek bevat vooraf gebouwde, geteste programma&#39;s d
 
 ## Gevolgen voor externe activa tijdens programmainvoer {#impact-on-external-assets-during-program-imports}
 
-De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, landende paginasjablonen, beelden, vormen, tekenen, en programmalabels. U hebt de capaciteit om te vormen hoe het landen paginasjablonen en programmamarkeringen worden behandeld, en Marketo beheert automatisch de rest.
+De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, landende paginasjablonen, beelden, vormen, tekenen, en programmalabels. U kunt configureren hoe sjablonen voor landingspagina&#39;s en programmacodes worden verwerkt, en Marketo beheert automatisch de rest.
 
 **E-mailsjablonen:** E-mailsjablonen worden automatisch geïmporteerd en gemaakt, tenzij er een sjabloon met dezelfde naam bestaat.
 
