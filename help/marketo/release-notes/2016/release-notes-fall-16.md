@@ -2,18 +2,18 @@
 unique-page-id: 11384018
 description: Opmerkingen bij de release - herfst '16 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - herfst '16
+exl-id: da935951-162e-426c-acf2-12c55ff706b4
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: &#39;16 {#release-notes-fall}
 
-De volgende functies zijn opgenomen in de Fall &#39;16-release. Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid. Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven.
+De volgende functies zijn opgenomen in de Fall &#39;16-release. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies. Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer te geven.
 
 ## Voorspelende inhoud in e-mail {#predictive-content-in-email}
 
@@ -29,23 +29,23 @@ U kunt nu voorspellende inhoud aan uw e-mail toevoegen. Wanneer de e-mail wordt 
 
 ![](assets/predictive.png)
 
-## [Offlineconversies van Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## [Facebook Offline conversies](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-Met de integratie van offlineconversies op Facebook worden conversiegegevens in Marketo (voor leads voor advertentie) automatisch teruggestuurd naar Facebook, zodat uw advertentieteam de advertentieuitgaven beter kan optimaliseren. In dit rapport van AdvertentiManager Facebook worden de offlineconversies gemarkeerd.
+Met de integratie van Facebook Offline conversies worden conversiegegevens in Marketo (voor leads voor advertentie) automatisch teruggestuurd naar Facebook, zodat uw advertentieteam de advertentiefondsen beter kan optimaliseren. In dit Facebook Ad Manager-rapport worden de offlineconversies gemarkeerd.
 
 ![](assets/facebook.png)
 
 ## [Universele id](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
 
-Met een universele id hebt u toegang tot meerdere Marketo-abonnementen met één aanmelding en kunt u snel schakelen tussen abonnementen. U kunt één communautair profiel voor al uw abonnementen gebruiken.
+Met een Universal ID hebt u toegang tot meerdere Marketo-abonnementen met één aanmelding en kunt u snel schakelen tussen abonnementen. U kunt één communautair profiel voor al uw abonnementen gebruiken.
 
 ![](assets/image2016-11-3-15-3a10-3a16.png)
 
 >[!NOTE]
 >
->Neem contact op met de ondersteuning van Marketo om deze functie in te schakelen.
+>Neem contact op met Marketo Support om deze functie in te schakelen.
 
-## Marketo-account-gebaseerde marketingverbeteringen {#marketo-account-based-marketing-enhancements}
+## Op Marketo-account gebaseerde marketingverbeteringen {#marketo-account-based-marketing-enhancements}
 
 Nu, kunt u rekeningsteams aan genoemde rekeningen in Account Based Marketing (ABM), bijvoorbeeld, rekeningseigenaar, verkoopontwikkelingsvertegenwoordiger, bedrijfsontwikkelingsvertegenwoordiger, en manager van het klantensucces toewijzen. U kunt ook accountspecifieke accountlijsten samenstellen en gepersonaliseerde wekelijkse ABM-rapporten naar het accountteam sturen.
 
@@ -53,11 +53,11 @@ Nu, kunt u rekeningsteams aan genoemde rekeningen in Account Based Marketing (AB
 
 **REST API**
 
-Met deze release kunt u ook benoemde accountkenmerken en accountscores in ABM beheren met de Marketo REST-API. Ga voor meer informatie over de API-bewerkingen naar de website [Marketo Developers](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+Met deze release kunt u ook benoemde accountkenmerken en accountscores in ABM beheren met de Marketo REST API. Meer informatie over de API-bewerkingen vindt u op de [Marketo Developers-website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Verbeteringen audittrail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
-Het spoor van de controle verstrekt een uitvoerige geschiedenis van de veranderingen die binnen uw abonnement van Marketo worden aangebracht. We hebben extra mogelijkheden voor het bijhouden van programma&#39;s toegevoegd en belangrijke wijzigingsdetails voor slimme campagnes, slimme lijsten en wijzigingen aan gebruikers en rollen nader toegelicht.
+Het audittrail biedt een uitgebreide geschiedenis van de wijzigingen die zijn aangebracht in uw Marketo-abonnement. We hebben extra mogelijkheden voor het bijhouden van programma&#39;s toegevoegd en belangrijke wijzigingsdetails voor slimme campagnes, slimme lijsten en wijzigingen aan gebruikers en rollen nader toegelicht.
 
 ## [Nieuwe machtigingen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
 
@@ -91,8 +91,8 @@ Met deze release kunnen Marketo ABM-gebruikers benoemde accounts beheren via de 
 
 ## [E-maileditor v2.0 API-ondersteuning](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
-Variabelen en modules voor e-mailberichten in v2.0-indeling beheren met de Marketo REST API.
+U kunt variabelen en modules voor e-mailberichten in v2.0-indeling beheren met de Marketo REST API.
 
 ## [Wijzigingen in Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-De Salesforce-integratie van Marketo is in ontwikkeling om de manier waarop Marketo-velden worden gesynchroniseerd met Salesforce te verbeteren. In plaats van een grote groep velden te moeten synchroniseren die u wellicht nodig hebt, kunt u nu kiezen welke velden u wilt opnemen. Raadpleeg onze documentatie voor meer informatie: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+De integratie van Marketo in Salesforce is in ontwikkeling om de manier waarop Marketo-velden worden gesynchroniseerd met Salesforce te verbeteren. In plaats van een grote groep velden te moeten synchroniseren die u wellicht nodig hebt, kunt u nu kiezen welke velden u wilt opnemen. Raadpleeg onze documentatie voor meer informatie: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
