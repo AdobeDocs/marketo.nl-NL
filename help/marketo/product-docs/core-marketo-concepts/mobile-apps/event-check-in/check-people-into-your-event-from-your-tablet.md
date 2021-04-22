@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949839
-description: Bekijk de personen die u via uw tablet in uw gebeurtenis hebt opgenomen - Marketo Docs - Productdocumentatie
+description: Personen in uw gebeurtenis inchecken via uw tablet - Marketo Docs - Productdocumentatie
 title: Personen in uw gebeurtenis controleren via uw tablet
+exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
 
 ---
 
-
 # Personen in uw gebeurtenis inchecken via uw tablet {#check-people-into-your-event-from-your-tablet}
 
-Wanneer mensen bij de gebeurtenis verschijnen, kunt u hun informatie in de app vinden. Na inchecken krijgen ze de status Bijgewoond wanneer u ze synchroniseert met Marketo.
+Wanneer mensen bij de gebeurtenis verschijnen, kunt u hun informatie in de app vinden. Na de inchecking wordt de status Bijgewoond bevorderd wanneer u synchroniseert met Marketo.
 
 De app werkt op zowel de iPad als op Android hetzelfde, behalve voor kleine layout- en ontwerpverschillen.
 
@@ -27,11 +27,11 @@ De app werkt op zowel de iPad als op Android hetzelfde, behalve voor kleine layo
 
 1. Tik op het app-pictogram op uw iPad- of Android-tablet.
 
-1. Tik op **Aanmelden** om de app Marketo-gebeurtenis te starten.
+1. Tik op **Aanmelden** om de Marketo Event-app te starten.
 
    ![](assets/1.jpg)
 
-1. Voer uw gebruikersnaam en wachtwoord voor Marketo in en klik op **Aanmelden**.
+1. Voer uw Marketo-gebruikersnaam en -wachtwoord in en klik op **Aanmelden**.
 
    >[!NOTE]
    >
@@ -83,7 +83,7 @@ De gast heeft nu de status Bijgewoond, en ontvangt een vinkje. De persoonrecord 
 
 ## Een nieuwe persoon op de tablet maken {#create-a-new-person-on-the-tablet}
 
-U kunt gasten manueel toevoegen die geen bestaande mensen in uw gegevensbestand Marketo zijn. Deze worden automatisch ingecheckt en toegevoegd aan uw database wanneer u synchroniseert met Marketo.
+U kunt gasten handmatig toevoegen die geen bestaande personen zijn in uw Marketo-database. Deze worden automatisch ingecheckt en toegevoegd aan uw database wanneer u synchroniseert met Marketo.
 
 1. Klik **Add**.
 
@@ -107,7 +107,7 @@ U kunt gasten manueel toevoegen die geen bestaande mensen in uw gegevensbestand 
    >
    >Controleer het e-mailadres. Andere gebieden kunnen later worden verbeterd, maar het e-mailadres is de primaire methode om de gast te contacteren.
 
-De nieuwe persoon is geregistreerd als ingecheckt bij uw gebeurtenis en wordt toegevoegd aan de database Marketo met de status Bijgevoegd wanneer u synchroniseert met Marketo.
+De nieuwe persoon is geregistreerd als ingecheckt bij uw gebeurtenis en wordt toegevoegd aan de Marketo-database met de status Bijgevoegd wanneer u synchroniseert met Marketo.
 
 ## Inchecken omkeren {#reverse-a-check-in}
 
@@ -137,9 +137,9 @@ U kunt gastinformatie, juist bij de gebeurtenis toevoegen en wijzigen!
 
 De informatie wordt bijgewerkt wanneer u de app synchroniseert met Marketo.
 
-## App synchroniseren met Marketo {#sync-the-app-with-marketo}
+## De toepassing synchroniseren met Marketo {#sync-the-app-with-marketo}
 
-De app Marketo Events werkt onafhankelijk totdat u uw activiteit weer synchroniseert met de Marketo-database. Synchroniseer zo snel mogelijk na de laatste inchecking. Uw tablet moet zijn verbonden met internet.
+De Marketo Events-app werkt onafhankelijk totdat u uw activiteit weer synchroniseert met de Marketo-database. Synchroniseer zo snel mogelijk na de laatste inchecking. Uw tablet moet zijn verbonden met internet.
 
 >[!CAUTION]
 >
@@ -149,9 +149,9 @@ De app Marketo Events werkt onafhankelijk totdat u uw activiteit weer synchronis
 
 1. Tik **Sync**.
 
-   Uw gebeurtenis wordt bijgewerkt met nieuwe controles in het gegevensbestand van de Marketo. De rode teller op de knoop van de Synchronisatie ontruimt, tot u iemand anders binnen controleert.
+   Uw gebeurtenis wordt bijgewerkt met nieuwe inchecken in de Marketo-database. De rode teller op de knoop van de Synchronisatie ontruimt, tot u iemand anders binnen controleert.
 
-   Om veiligheidsredenen moet u de app Marketo Events afsluiten nadat u de synchronisatie hebt voltooid.
+   Om veiligheidsredenen moet u de Marketo Events-app afsluiten nadat u de synchronisatie hebt voltooid.
 
 ## Werken met beperkte internettoegang {#working-with-limited-internet-access}
 
@@ -160,9 +160,9 @@ Sommige locaties hebben slechte internettoegang. U hebt een goede verbinding nod
 * De app downloaden en installeren
 * Aanmelden
 * Een gebeurtenis selecteren
-* App synchroniseren met Marketo
+* De app synchroniseren met Marketo
 
-Als u zich zorgen maakt over internettoegang op de locatie, kunt u zich aanmelden bij de app Marketo Events en uw gebeurtenis vooraf selecteren op een locatie met sterke internettoegang. Op die manier kunt u de app nog steeds offline gebruiken. Wanneer u vervolgens weer een internetverbinding maakt, synchroniseert u onmiddellijk naar de Marketo-database.
+Als u zich zorgen maakt over internettoegang op de locatie, kunt u zich aanmelden bij de Marketo Events-app en uw gebeurtenis vooraf selecteren op een locatie met sterke internettoegang. Op die manier kunt u de app nog steeds offline gebruiken. Wanneer u vervolgens weer een internetverbinding maakt, moet u deze meteen synchroniseren met de Marketo-database.
 
 >[!TIP]
 >
