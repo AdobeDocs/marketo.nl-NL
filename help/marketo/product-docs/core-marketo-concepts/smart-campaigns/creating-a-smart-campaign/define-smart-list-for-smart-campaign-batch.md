@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1146940
-description: Slimme lijst definiëren voor slimme campagne | Batch - Marketo Docs - Productdocumentatie
+description: Slimme lijst definiëren voor slimme campagne | Batch - Marketo-documenten - productdocumentatie
 title: Slimme lijst definiëren voor slimme campagne | Batch
+exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '250'
 ht-degree: 0%
 
 ---
-
 
 # Slimme lijst definiëren voor slimme campagne | Batch {#define-smart-list-for-smart-campaign-batch}
 
@@ -25,7 +25,7 @@ De slimme lijsten zijn het mechanisme door Marketo om &quot;te bepalen wie&quot;
 
    >[!NOTE]
    >
-   >Een slimme campagne met alleen filters wordt uitgevoerd in de modus **Batch**. Het vindt mensen in het gegevensbestand die kwalificeren gebaseerd op de filters en stelt alle hen door de stroom in werking tegelijkertijd.
+   >Een slimme campagne met alleen filters wordt uitgevoerd in de modus **Batch**. Het vindt mensen in het gegevensbestand die op de filters worden gekwalificeerd en stelt alle hen door de stroom in werking tegelijkertijd.
 
    >[!NOTE]
    >
