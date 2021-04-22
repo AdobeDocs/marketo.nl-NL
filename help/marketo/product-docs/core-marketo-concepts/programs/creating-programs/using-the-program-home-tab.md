@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147126
-description: Het gebruiken van het Lusje van het Huis van het Programma - Marketo Dos - de Documentatie van het Product
+description: Het programma Home Tab - Marketo Docs - Productdocumentatie gebruiken
 title: Het tabblad Start van het programma gebruiken
+exl-id: 04c36190-d853-4900-b566-973d08316e37
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # Het gebruiken van het Lusje van het Huis van het Programma {#using-the-program-home-tab}
 
