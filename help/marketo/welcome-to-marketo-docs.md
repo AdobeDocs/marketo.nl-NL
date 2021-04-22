@@ -23,4 +23,4 @@ Marketo-productdocumentatie
 
 [Aan de slag met Marketo](getting-started.md)
 
-[Productdocumenten Alles over Marketo](product-docs.md)
+[Productdocumentatie Alles over Marketo](product-docs.md)
