@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360362
-description: Stap 1 van 3 - voeg de Gebieden van de Marketo aan Salesforce (Onderneming/Onbeperkt) toe - Marketo Docs - de Documentatie van het Product
-title: Stap 1 van 3 - voeg de Gebieden van de Marketo aan Salesforce (Onderneming/Onbeperkt) toe
+description: Stap 1 van 3 - Voeg Marketo-velden toe aan Salesforce (Enterprise/Unlimited) - Marketo Docs - Productdocumentatie
+title: Stap 1 van 3 - Voeg Marketo-velden toe aan Salesforce (Enterprise/Onbeperkt)
+exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '731'
 ht-degree: 0%
 
 ---
-
 
 # Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
@@ -23,9 +23,9 @@ Marketo gebruikt een set velden om bepaalde soorten marketinggerelateerde inform
 1. Wijs deze douanevelden tussen lood en contacten toe zodat bij omzetting in Salesforce, de waarden zich overbrengen.
 1. U kunt desgewenst andere aanvullende velden maken (zie de tabel hieronder).
 
-Al deze aangepaste velden zijn optioneel en zijn niet vereist voor het synchroniseren van Marketo en Salesforce. Als beste praktijken, adviseren wij dat u gebieden voor Score, het Programma van de Aankoop, en de Datum van de Aankoop creeert.
+Al deze aangepaste velden zijn optioneel en zijn niet vereist voor synchronisatie tussen Marketo en Salesforce. Als beste praktijken, adviseren wij dat u gebieden voor Score, het Programma van de Aankoop, en de Datum van de Aankoop creeert.
 
-## Markeringsvelden toevoegen aan Salesforce {#add-marketo-fields-to-salesforce}
+## Marketo-velden toevoegen aan Salesforce {#add-marketo-fields-to-salesforce}
 
 Voeg drie aangepaste velden toe aan de lead- en contactobjecten in de bovenstaande Salesforce-lijst. Zie de tabel met beschikbare velden aan het einde van deze sectie voor meer informatie.
 
@@ -198,13 +198,13 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
    <td>Lengte 255</td> 
   </tr> 
   <tr> 
-   <td>Overgenomen onderneming</td> 
+   <td>Afgeleid bedrijf</td> 
    <td>mkto71_Inferred_Company</td> 
    <td>Tekst</td> 
    <td>Lengte 255</td> 
   </tr> 
   <tr> 
-   <td>Overgenomen land</td> 
+   <td>Afgeleid land</td> 
    <td>mkto71_Inferred_Country</td> 
    <td>Tekst</td> 
    <td>Lengte 255</td> 
@@ -268,4 +268,4 @@ Een aangepast veld op het hoofdobject in Salesforce moet worden toegewezen aan e
 
 >[!MORELIKETHIS]
 >
->[Stap 2 van 3: Een Salesforce-gebruiker voor markeren maken (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
