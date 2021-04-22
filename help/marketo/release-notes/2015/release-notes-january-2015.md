@@ -2,18 +2,18 @@
 unique-page-id: 4720758
 description: Opmerkingen bij de release - januari 2015 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - januari 2015
+exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '361'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: januari 2015 {#release-notes-january}
 
-De volgende functies zijn opgenomen in de release van januari 2015. Controleer uw Marketo Edition voor de beschikbaarheid van functies. Na de release wilt u koppelingen naar gedetailleerde artikelen voor elke functie zoeken.
+De volgende functies zijn opgenomen in de release van januari 2015. Controleer of de Marketo Edition beschikbaar is. Na de release wilt u koppelingen naar gedetailleerde artikelen voor elke functie zoeken.
 
 ## Updates voor marketingautomatisering {#marketing-automation-updates}
 
@@ -39,9 +39,9 @@ Open nu aangepaste objecten die aan het object Account zijn gekoppeld vanuit e-m
 
 ## Aanpassing in realtime {#real-time-personalization}
 
-**Persoonlijke opmerkingen voor Google en Facebook**
+**Speciale opmerkingen voor Google en Facebook**
 
-In de toelichting worden advertenties getoond aan mensen die uw website hebben bezocht. U kunt uw marketingcampagnes nu aanpassen op [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) en [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) met gegevens van Real-Time Personalization. Markten voor publiek uit verschillende bedrijfstakken, accountlijsten, bedrijfsgrootten of gegevens van bekende aanbieders.
+In de toelichting worden advertenties getoond aan mensen die uw website hebben bezocht. U kunt uw marketingcampagnes nu personaliseren op [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) en [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) met behulp van gegevens van Real-Time Personalisatie. Markten voor publiek uit verschillende bedrijfstakken, accountlijsten, bedrijfsgrootten of gegevens van bekende aanbieders.
 
 [Module lijst met benoemde accounts](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
