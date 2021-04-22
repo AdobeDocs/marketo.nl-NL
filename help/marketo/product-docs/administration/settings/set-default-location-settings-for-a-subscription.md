@@ -2,14 +2,14 @@
 unique-page-id: 2359902
 description: Standaardinstellingen voor locatie instellen voor een abonnement - Marketo Docs - Productdocumentatie
 title: Standaardinstellingen voor locatie instellen voor een abonnement
+exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 translation-type: tm+mt
-source-git-commit: f79909ce8f2e37bf0748596774fe47ac03618696
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # Standaardinstellingen voor locatie instellen voor een abonnement {#set-default-location-settings-for-a-subscription}
 
@@ -57,7 +57,7 @@ Als u de standaardlandinstelling voor uw gebruikers wijzigt, kunt u ook de inste
 
    ![](assets/image2014-11-7-15-3a58-3a21.png)
 
-   Gefeliciteerd! U hebt de locatie-instellingen voor het abonnement gewijzigd.
+   Gefeliciteerd.  U hebt de locatie-instellingen voor het abonnement gewijzigd.
 
 >[!MORELIKETHIS]
 >
