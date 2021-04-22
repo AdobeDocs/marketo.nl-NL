@@ -2,14 +2,14 @@
 unique-page-id: 30081815
 description: Adobe Experience Manager-integratie configureren - Marketo Docs - Productdocumentatie
 title: Adobe Experience Manager-integratie configureren
+exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 translation-type: tm+mt
-source-git-commit: cfefff241b34571b9778cbd827f45d1b468d121e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Experience Manager-integratie configureren {#configuring-adobe-experience-manager-integration}
 
