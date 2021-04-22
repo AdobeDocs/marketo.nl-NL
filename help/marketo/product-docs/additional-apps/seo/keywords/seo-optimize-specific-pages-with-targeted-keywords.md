@@ -2,14 +2,14 @@
 unique-page-id: 2949212
 description: SEO - Specifieke pagina's optimaliseren met doeltrefwoorden - Marketo Docs - Productdocumentatie
 title: SEO - Specifieke pagina's optimaliseren met doeltrefwoorden
+exl-id: 5f36c1c5-be76-419e-a9e0-c180ce7bf2ed
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # SEO - Specifieke pagina&#39;s optimaliseren met doeltrefwoorden {#seo-optimize-specific-pages-with-targeted-keywords}
 
