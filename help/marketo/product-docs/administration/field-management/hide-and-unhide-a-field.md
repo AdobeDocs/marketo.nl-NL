@@ -2,14 +2,14 @@
 unique-page-id: 2360333
 description: Een veld verbergen en verbergen - Marketo Docs - Productdocumentatie
 title: Een veld verbergen en verbergen opheffen
+exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
-
 
 # Veld {#hide-and-unhide-a-field} verbergen en verbergen
 
@@ -37,7 +37,7 @@ Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruik
 
    ![](assets/image2014-9-18-13-3a10-3a36.png)
 
-   Mooi werk! Nu weet u hoe u een veld in de gebruikersinterface Marketo kunt verbergen.
+   Mooi werk! Nu weet u hoe u een veld kunt verbergen in de gebruikersinterface van Marketo.
 
    ![](assets/image2014-9-18-13-3a10-3a45.png)
 
@@ -51,7 +51,7 @@ Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruik
 
    ![](assets/image2014-9-18-13-3a11-3a46.png)
 
-   Geweldig werk! Nu weet u hoe u de velden kunt verbergen en weer zichtbaar kunt maken in de gebruikersinterface Marketo.
+   Geweldig werk! Nu weet u hoe u de velden kunt verbergen en weer zichtbaar kunt maken in de gebruikersinterface van Marketo.
 
    >[!TIP]
    >
