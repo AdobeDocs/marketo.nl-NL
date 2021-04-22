@@ -2,18 +2,18 @@
 unique-page-id: 2949176
 description: Optimalisatie van zoekprogramma's - Marketo Docs - Productdocumentatie
 title: Optimalisatie van zoekprogramma's begrijpen
+exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 translation-type: tm+mt
-source-git-commit: 37697e2d6f1d86a6cd1de5d567a3d384160415cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
 
 ---
 
-
 # Optimalisatie van zoekprogramma {#understanding-search-engine-optimization}
 
-SEO (Search Engine Optimization, optimalisatie van zoekprogramma&#39;s) is een verzameling aanbevolen procedures die u helpen uw pagina&#39;s voor mensen te laten verschijnen met zoekprogramma&#39;s. De SEO-app van Marketo helpt u te verbeteren.
+SEO (Search Engine Optimization, optimalisatie van zoekprogramma&#39;s) is een verzameling aanbevolen procedures die u helpen uw pagina&#39;s voor mensen te laten verschijnen met zoekprogramma&#39;s. De Marketo SEO-app helpt u bij het verbeteren.
 
 Eerst, zou u de grondbeginselen met deze handige verklarende woordenlijst moeten leren.
 
@@ -29,7 +29,7 @@ Eerst, zou u de grondbeginselen met deze handige verklarende woordenlijst moeten
 
 **Weergave** Zoekmachine: De manier waarop een computer van een zoekmachine uw site ziet in tegenstelling tot de manier waarop een mens dat doet.
 
-**Zoekvoorwaarden voor** voettekst: Algemene trefwoorden die een zeer groot net uitwerpen. Ze vertegenwoordigen ongeveer 19% van alle gebruikte zoektermen.
+**Zoekvoorwaarden voor** voettekst: Algemene trefwoorden die een zeer groot net uitwerpen. Zij vertegenwoordigen ongeveer 19% van alle gebruikte zoektermen.
 
 (Voorbeeld: Schoenen)
 
@@ -41,7 +41,7 @@ Eerst, zou u de grondbeginselen met deze handige verklarende woordenlijst moeten
 
 (Voorbeeld: Minimale vrouwen met schoenen (9)
 
-**Optimalisatiescore**: De optimalisatiescore is een merkgebonden Marketo-score die alle pagina&#39;s op uw site op een schaal van 1 tot 100 meet. Het is gebaseerd op een verzameling van tientallen beste praktijken. Een score van 70 of hoger geeft een site aan die goed is geoptimaliseerd.
+**Optimalisatiescore**: De optimalisatiescore is een eigen Marketo-score die alle pagina&#39;s op uw site op een schaal van 1 tot 100 meet. Het is gebaseerd op een verzameling van tientallen beste praktijken. Een score van 70 of hoger geeft een site aan die goed is geoptimaliseerd.
 
 **Optimalisatie** van pagina&#39;s: Maatregelen die rechtstreeks op uw website zelf kunnen worden genomen om zijn positie op de pagina&#39;s van de onderzoeksmachinesultaten te verbeteren.
 
