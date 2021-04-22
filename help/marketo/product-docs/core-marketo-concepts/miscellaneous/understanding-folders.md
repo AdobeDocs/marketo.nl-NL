@@ -2,14 +2,14 @@
 unique-page-id: 4720779
 description: Mappen begrijpen - Marketo Docs - Productdocumentatie
 title: Mappen begrijpen
+exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 
 ---
-
 
 # Mappen {#understanding-folders}
 
