@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2360247
-description: De standaardinstelling wijzigen vanuit e-mail en vanuit label - Marketo Docs - Productdocumentatie
+description: De standaardinstelling wijzigen vanuit e-mail en vanuit Label - Marketo Docs - Productdocumentatie
 title: De standaardinstelling wijzigen van e-mail en van label
+exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # De standaardinstelling wijzigen vanuit e-mail en vanuit label {#change-the-default-from-email-and-from-label}
 
@@ -33,6 +33,6 @@ Elke Admin-gebruiker heeft de mogelijkheid om de standaardwaarden voor **From Em
 
 >[!NOTE]
 >
->De wijziging geldt alleen voor u en niet voor andere Marketo-gebruikers.
+>De wijziging geldt alleen voor jou en niet voor andere Marketo-gebruikers.
 
 Goed gedaan! Telkens wanneer u een nieuwe e-mail maakt, worden de standaardwaarden gebruikt die u instelt.
