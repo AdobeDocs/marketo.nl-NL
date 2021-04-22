@@ -2,14 +2,14 @@
 unique-page-id: 11377392
 description: Uw standaardbrandingdomein bewerken - Marketo Docs - Productdocumentatie
 title: Uw standaardbrandingdomein bewerken
+exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 translation-type: tm+mt
-source-git-commit: f865630638e7c0fe6ac2a449e196a7de4fbfeea1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
-
 
 # Uw standaardbrandingdomein {#edit-your-default-branding-domain} bewerken
 
@@ -17,7 +17,7 @@ Het bewerken van uw standaardbrandingdomein is de eerste stap bij het werken met
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u [opstelling een NAAM in uw DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md) hebt alvorens u uw brandende domeinen in Marketo toevoegt.
+>Zorg ervoor u [opstelling een NAAM in uw DNS](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md) hebt alvorens u uw brandingdomeinen in Marketo toevoegt.
 
 1. Ga naar **Admin** en klik **E-mail**.
 
