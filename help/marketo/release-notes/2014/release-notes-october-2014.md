@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953334
-description: Opmerkingen bij de release - Oktober 2014 - Marketo Docs - Productdocumentatie
+description: Opmerkingen bij de release - oktober 2014 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - oktober 2014
+exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 translation-type: tm+mt
-source-git-commit: 029d8b419ba5078980b4fde9890bdb35194bf264
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-
 # Opmerkingen bij de release: Oktober 2014 {#release-notes-october}
 
-Controleer uw uitgave van de Marketo voor eigenschapbeschikbaarheid. De documentatie zal op tijd van versie komen.
+Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies. De documentatie zal op tijd van versie komen.
 
 ## Programmafocus in marketingkalender {#program-focus-in-marketing-calendar}
 
@@ -32,7 +32,7 @@ Gebruik de API om nieuwe activiteiten of wijzigingen aan leads aan te brengen:
 
 Alle details zijn beschikbaar na de release op [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
-## MSI - E-mail verzenden voor Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
+## MSI - Marketo-e-mail verzenden voor Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
 
 [Verzend en spoor verkoope-](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) mails aan lood en contacten van de Dynamiek van Microsoft.
 
