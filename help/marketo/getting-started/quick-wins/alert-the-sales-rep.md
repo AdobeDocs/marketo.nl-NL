@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359424
-description: Waarschuwing bij verkoper - Marketo Docs - Productdocumentatie
+description: Waarschuwing bij verkoper - Marketo-documenten - productdocumentatie
 title: Waarschuwing voor verkoper
+exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 translation-type: tm+mt
-source-git-commit: d7d6aee63144c472e02fe0221c4a164183d04dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
-
 
 # De verkoopvertegenwoordiger waarschuwen {#alert-the-sales-rep}
 
@@ -135,7 +135,7 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    >[!NOTE]
    >
-   >Klik op het tabblad **Persoonsgegevens** in Marketo om de contactinfo weer te geven.
+   >Klik op het tabblad **Personinfo** in Marketo om de contactinfo weer te geven.
 
 ## Opdracht voltooid! {#mission-complete}
 
