@@ -1,15 +1,15 @@
 ---
 unique-page-id: 1147007
-description: Programmastatus wijzigen - Marketo Docs - Productdocumentatie
+description: Program Status wijzigen - Marketo Docs - Productdocumentatie
 title: Programmastatus wijzigen
+exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 translation-type: tm+mt
-source-git-commit: 5b9f48c98464c79bcdca2e335f6a4a2edce98ce4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
-
 
 # Programmastatus wijzigen {#change-program-status}
 
@@ -35,6 +35,6 @@ Keuzen zijn beperkt tot geldige statussen voor dat programma.
 
 >[!NOTE]
 >
->Een persoon kan niet achterwaarts naar een eerdere programmastatus gaan, zoals gedefinieerd in de Kanaaleditor in Admin.
+>Een persoon kan niet achterwaarts naar een eerdere programmastatus gaan, zoals die is gedefinieerd in de Kanaaleditor in Admin.
 
 Statussen zijn krachtige instrumenten om mensen bij te houden en om te rapporteren. Het is je tijd waard.
