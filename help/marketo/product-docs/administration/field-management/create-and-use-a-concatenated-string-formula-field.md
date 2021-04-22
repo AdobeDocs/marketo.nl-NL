@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360337
-description: Creeer en gebruik een Samengevoegd gebied van het Koord (Formule) - Marketo Docs - de Documentatie van het Product
+description: Een samengevoegd tekenreeksveld (Formule) maken en gebruiken - Marketo Docs - Productdocumentatie
 title: Een samengevoegd veld String (Formule) maken en gebruiken
+exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 translation-type: tm+mt
-source-git-commit: 7b18fee7e376d6101cbeec45a3fcbaf1104c1bd0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-
 # Een samengevoegd veld String (Formule) {#create-and-use-a-concatenated-string-formula-field} maken en gebruiken
 
-U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde maken met een veld Marketo-formule.
+U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde maken met een veld met Marketo-formule.
 
 1. Ga naar **Admin** en klik **Veld Management**.
 
