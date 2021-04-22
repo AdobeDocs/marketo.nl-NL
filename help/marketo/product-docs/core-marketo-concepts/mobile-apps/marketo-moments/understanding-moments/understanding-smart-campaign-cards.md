@@ -2,20 +2,20 @@
 unique-page-id: 10093348
 description: Slimme camerakaarten begrijpen - Marketo Docs - Productdocumentatie
 title: Slimme camerakaarten
+exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 translation-type: tm+mt
-source-git-commit: e5050328cbddaf072dd60ddd8d7363a704e720b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
 
 ---
 
-
 # Slimme camerakaarten {#understanding-smart-campaign-cards}
 
-Gebruik Marketo-momenten om elke uitvoering van uw slimme campagnes vanaf uw smartphone of iPad weer te geven. De smartcardlezer Marketo Moments vertegenwoordigt één enkele campagne. telkens wanneer de slimme campagne wordt uitgevoerd, wordt een nieuwe kaart weergegeven. De slimme campagnerekaarten zijn duidelijk met een gloeilamp bij de hogere linkerzijde.
+Gebruik Marketo-momenten om elke uitvoering van uw slimme campagnes vanaf uw smartphone of iPad weer te geven. De Marketo Moments Smart Campagne-kaart is één enkele serie campagnes. telkens wanneer de slimme campagne wordt uitgevoerd, wordt een nieuwe kaart weergegeven. De slimme campagnerekaarten zijn duidelijk met een gloeilamp bij de hogere linkerzijde.
 
-Voor toekomstige slimme campagnes die gepland maar nog niet in werking zijn gesteld, toont de kaart van de Momenten van de Marketo geen campagnestatistieken nog. Ze verschijnen in een toekomstige release.
+Voor toekomstige slimme campagnes die gepland zijn maar nog niet zijn uitgevoerd, geeft de Marketo Moments-kaart nog geen campagnestatistieken weer. Ze verschijnen in een toekomstige release.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
