@@ -2,14 +2,14 @@
 unique-page-id: 2953173
 description: Leden van lijst in een slimme lijst gebruiken - Marketo Docs - Productdocumentatie
 title: Leden van lijst gebruiken in een slimme lijst
+exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 translation-type: tm+mt
-source-git-commit: 07f713ece9832b7696451001f61c6a3b45b4a94a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # Leden van lijst gebruiken in een slimme lijst {#use-members-of-list-in-a-smart-list}
 
