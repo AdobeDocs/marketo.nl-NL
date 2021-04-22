@@ -2,14 +2,14 @@
 unique-page-id: 1147064
 description: Communicatielimieten toepassen op slimme campagne - Marketo Docs - Productdocumentatie
 title: Communicatielimieten toepassen op slimme campagne
+exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 translation-type: tm+mt
-source-git-commit: 4a0bd2efe99284807a46d07ffef0070d9a303631
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
-
 
 # Communicatielimieten toepassen op slimme campagne {#apply-communication-limits-to-smart-campaign}
 
