@@ -2,30 +2,36 @@
 unique-page-id: 2949865
 description: Een gebeurtenis maken met Adobe Connect - Marketo Docs - Productdocumentatie
 title: Een gebeurtenis maken met Adobe Connect
+exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
 
-
 # Een gebeurtenis maken met Adobe Connect {#create-an-event-with-adobe-connect}
 
-Door te synchroniseren met Adobe Connect kunt u uw webinar-registratie en -aanwezigheid beheren in Marketo, zodat de betrokkenheid niet wordt losgekoppeld.
+Door te synchroniseren met Adobe Connect kunt u uw webinar-registratie en -aanwezigheid in Marketo beheren, zodat de betrokkenheid niet wordt losgekoppeld.
 
 >[!PREREQUISITES]
 >
->* [Adobe Connect en Marketo koppelen](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+>* [Koppeling Adobe Connect en Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
 
-Controleer eerst of u een vergadering of seminar in Adobe Connect hebt gemaakt. Raadpleeg voor hulp de [Adobe Connect User Guide](https://help.adobe.com/en_US/connect/9.0/using/index.html). De vergaderingen en seminars die u in Adobe Connect maakt, moeten worden gemaakt in de map die u hebt opgegeven bij het invoeren van uw referenties in Marketo. Nadat u uw vergadering of seminar hebt gemaakt, moet u alle relevante logistieke informatie (zoals het telefoonnummer) noteren die u in het bevestigingsbericht en het ICS-bestand kunt gebruiken.
+Controleer eerst of u een vergadering of seminar in Adobe Connect hebt gemaakt. Raadpleeg voor hulp de [Adobe Connect User Guide](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+
+De vergaderingen en seminars die u in Adobe Connect maakt, moeten worden gemaakt in de map die u hebt opgegeven bij het invoeren van uw referenties in Marketo. Nadat u uw vergadering of seminar hebt gemaakt, moet u alle relevante logistieke informatie (zoals het telefoonnummer) noteren die u in het bevestigingsbericht en het ICS-bestand kunt gebruiken.
+
+>[!CAUTION]
+>
+>Als gastheer van de gebeurtenis moet u zich aanmelden vanuit de app en **niet** via de koppeling die naar de deelnemers wordt verzonden.
 
 >[!NOTE]
 >
->Wij **bieden momenteel geen ondersteuning voor Adobe Connect On-Site.**
+>Adobe Connect On-Site wordt momenteel niet ondersteund.
 
 1. Selecteer **Gebeurtenishandelingen** thuis van een nieuwe gebeurtenis en **Gebeurtenisinstellingen**.
 
@@ -59,6 +65,8 @@ Controleer eerst of u een vergadering of seminar in Adobe Connect hebt gemaakt. 
    >
    >Stel uw bevestigingsbericht in op **Operationeel** om ervoor te zorgen dat personen die zich registreren en mogelijk niet-geabonneerd zijn, nog steeds hun bevestigingsgegevens ontvangen.
 
+   Personen die zich aanmelden voor uw webinar, worden via de stap Program Status wijzigen naar uw webinar geduwd wanneer de Nieuwe status is ingesteld op &quot;Geregistreerd&quot;. Geen andere status zal de persoon over duwen. Zorg er ook voor dat u in stap 1 van de statusstroom van het programma Wijzigen en stap 2 in de E-mailflow verzendt.
+
    ![](assets/adobe.png)
 
    >[!CAUTION]
@@ -71,8 +79,6 @@ Controleer eerst of u een vergadering of seminar in Adobe Connect hebt gemaakt. 
 
    >[!MORELIKETHIS]
    >
-   > * [Adobe Connect toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
-   > * [Een gebeurteniskanaal bewerken](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
+   >* [Adobe Connect toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   >* [Een gebeurteniskanaal bewerken](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
 
-
-Personen die zich aanmelden voor uw webinar, worden via de stap Program Status wijzigen naar uw webinar geduwd wanneer de Nieuwe status is ingesteld op &quot;Geregistreerd&quot;. Geen andere status zal de persoon over duwen. Zorg er ook voor dat u in stap 1 van de statusstroom van het programma Wijzigen en stap 2 in de E-mailflow verzendt.
