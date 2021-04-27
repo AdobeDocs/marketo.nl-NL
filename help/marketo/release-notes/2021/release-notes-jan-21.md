@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - jan 2021 - Marketo Docs - Productdocum
 title: Opmerkingen bij de release - jan 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -43,7 +43,7 @@ De volgende functies worden vrijgegeven op **15 januari 2021**.
 
 ## Salesforce CRM-integratie {#salesforce-crm-integration}
 
-* [Salesforce CRM-verificatie](/help/marketo/product-docs/crm-sync/salesforce-sync/setting-up-oauth-2-0.md): Het protocol van OAuth 2.0 is beschikbaar voor het synchroniseren van verrichtingen tussen Marketo Engage en Salesforce CRM. Voor nieuwe abonnees is deze optie standaard ingeschakeld. Huidige abonnees kunnen deze functie aanvragen via Marketo Support.
+* [Salesforce CRM-verificatie](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md): Het protocol van OAuth 2.0 is beschikbaar voor het synchroniseren van verrichtingen tussen Marketo Engage en Salesforce CRM. Voor nieuwe abonnees is deze optie standaard ingeschakeld. Huidige abonnees kunnen deze functie aanvragen via Marketo Support.
 * [Salesforce CRM-synchronisatiedashboard](/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md): Beheerders kunnen de synchronisatiestatus van Salesforce CRM snel controleren vanaf het dashboard. De tijdsduur van het synchronisatierapport is verhoogd van 2 uur tot 5 dagen.
 * **Metagegevens exporteren**: Verbeterd voor ondersteuning van opportuntobjectkenmerken, benoemde accounts, de standaard- en aangepaste velden van het programmalid.
 
