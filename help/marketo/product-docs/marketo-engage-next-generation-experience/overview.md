@@ -1,22 +1,22 @@
 ---
 description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
+exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '463'
 ht-degree: 1%
 
 ---
 
-
 # Overzicht {#overview}
 
-Welkom bij de Marketo Engage-ervaring van de volgende generatie, een nieuwe interface die de bruikbaarheid en een nieuwe look en feel biedt voor het hele Marketo-platform.
+Welkom bij de Marketo Engage-ervaring van de volgende generatie, een nieuwe interface die meer bruikbaarheid en een nieuwe look &amp; feel biedt op het hele Marketo-platform.
 
 >[!PREREQUISITES]
 >
->Als uw team van IT Webtoegang gebruikend een lijst van gewenste personen beperkt, vraag hen om de volgende domeinen (met inbegrip van de asterisk) toe te voegen om alle middelen en websockets van de Marketo toe te staan:
+>Als uw team van IT Webtoegang gebruikend een lijst van gewenste personen beperkt, vraag hen om de volgende domeinen (met inbegrip van de asterisk) toe te voegen om alle middelen en websockets van Marketo toe te staan:
 >
 >* *.marketo.com
 >* *.marketodesigner.com
@@ -41,17 +41,11 @@ Er is veel nieuwe functionaliteit in deze volgende-gen ervaring, die allen wordt
 
 De nieuwe interfaceeigenschappen verbeteren en breidden iconografie uit. Meer informatie hierover vindt u hier: [Nieuwe woordenlijst van pictogrammen](/help/marketo/product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md).
 
-![](assets/overview-3.png)
-
-**Boom**
-
-De boom is ook geüpgraded.
-
-![](assets/overview-4.png)
+![](assets/overview-new-icons.png)
 
 **Algemene navigatie**
 
-Tot ziens superbal. U hebt nu snel toegang tot alle belangrijke secties van de Marketo.
+Tot ziens superbal. Je hebt nu snel toegang tot alle belangrijkste Marketo-secties.
 
 ![](assets/overview-5.png)
 
@@ -65,7 +59,7 @@ U hebt ook snel toegang tot uw insteekmodule-id, die nu wordt weergegeven in de 
 
 Er zijn veel nieuwe boomfuncties beschikbaar.
 
-**Marketo Classic vs. de nieuwe markt**
+**Marketo Classic versus de nieuwe Marketo**
 
 <table> 
  <tbody>
@@ -210,7 +204,7 @@ Kijk eens naar de nieuwe Global Nav.
 
 >[!NOTE]
 >
->Alles wat vroeger in de superball drop-down leefde, is nog beschikbaar als tegels in Mijn Marketo.
+>Alles wat vroeger in de superball drop-down leefde, is nog steeds beschikbaar als een tegel in je Mijn Marketo.
 
 >[!TIP]
 >
