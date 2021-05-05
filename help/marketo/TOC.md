@@ -5,9 +5,9 @@ user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: 21934ae633cf3d81ab763decfcaa353deabb8c18
+source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
 workflow-type: tm+mt
-source-wordcount: '8009'
+source-wordcount: '8024'
 ht-degree: 0%
 
 ---
@@ -179,6 +179,7 @@ ht-degree: 0%
          + [Het bericht &quot;Weergeven als webpagina&quot; bewerken](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [Communicatielimieten inschakelen](product-docs/administration/email-setup/enable-communication-limits.md)
          + [Personenbeperkingen voor slimme campagnes inschakelen](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+         + [Activiteit e-mailvak filteren](product-docs/administration/email-setup/filtering-email-bot-activity.md)
          + [Tekst voor abonnement verwijderen uit de sectie &quot;Beheer -> E-mail&quot;](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + Veldbeheer {#field-management}
          + [Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
@@ -194,6 +195,7 @@ ht-degree: 0%
          + [Gebruikt door gegevens exporteren voor een veld](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Een veld verbergen en verbergen opheffen](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [HTML-coderingstokens in e-mails](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [Een veld markeren als gevoelig](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [De naam van een veld wijzigen](product-docs/administration/field-management/rename-a-field.md)
          + [Werken met door het systeem beheerde velden](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Veldtoewijzingen weergeven tussen Marketo en Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -227,6 +229,7 @@ ht-degree: 0%
          + [Abonnementsinstellingen bewerken](product-docs/administration/settings/edit-subscription-settings.md)
          + [Functies voor schatkist in- of uitschakelen](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Persoonlijke URL&#39;s voor uw account inschakelen (beheer)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [Spam-formulierverzendingen blokkeren](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
          + [Marketo-aanmeldingen beperken op basis van IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Taal, landinstelling en tijdzone selecteren](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Een terugvalpagina instellen](product-docs/administration/settings/set-a-fallback-page.md)
@@ -805,7 +808,7 @@ ht-degree: 0%
                + [Sjabloon 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Sjabloon 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Sjabloon 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Sjabloon 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Sjabloon 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
