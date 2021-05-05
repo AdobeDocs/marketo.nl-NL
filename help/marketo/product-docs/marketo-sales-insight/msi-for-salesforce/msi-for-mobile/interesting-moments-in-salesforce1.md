@@ -2,22 +2,22 @@
 unique-page-id: 7511877
 description: Interessant momenten in Salesforce1 - Marketo Docs - Productdocumentatie
 title: Interesserende momenten in Salesforce1
+exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-
 # Interesserende momenten in Salesforce1 {#interesting-moments-in-salesforce}
 
-[Het gebruiken van Interessant ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) Momentsis de sleutel aan het communiceren met uw verkoopteam door Marketo de app van het Inzicht van de Verkoop. Met Marketo Sales Insight voor Salesforce1 kunt u hetzelfde doen met uw smartphone!
+[Met Interessant ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) Momentsis kunt u via de Marketo Sales Insight-app communiceren met uw verkoopteam. Met Marketo Sales Insight voor Salesforce1 kunt u hetzelfde doen met uw smartphone!
 
 >[!AVAILABILITY]
 >
->Deze zijn alleen beschikbaar voor klanten van het Inzicht van de Verkoop van Marketo.
+>Deze zijn alleen beschikbaar voor Marketo Sales Insight-klanten.
 
 1. Open de Salesforce-app op uw smartphone.
 
@@ -32,5 +32,5 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [Interessant moment](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
->* [Tokens voor interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>* [Tokens voor interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
 
