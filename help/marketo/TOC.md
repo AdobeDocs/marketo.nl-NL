@@ -5,9 +5,9 @@ user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
 hide: true
 translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 21934ae633cf3d81ab763decfcaa353deabb8c18
 workflow-type: tm+mt
-source-wordcount: '8006'
+source-wordcount: '8009'
 ht-degree: 0%
 
 ---
@@ -306,6 +306,7 @@ ht-degree: 0%
             + [Persoon omzetten](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)
             + [Een stroomstap verwijderen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
             + [Persoon verwijderen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
+            + [Campagne uitvoeren](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
             + [Crediteren aan referentie](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [Interessant moment](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [Verwijderen uit stroom](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
@@ -806,7 +807,7 @@ ht-degree: 0%
                + [Sjabloon 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Sjabloon 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Sjabloon 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Sjabloon 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Template 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1341,7 +1342,7 @@ ht-degree: 0%
                + [E-mailtabblad](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)
                + Interesserende momenten {#interesting-moments}
                   + [Interessant momentoverzicht](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)
-                  + [Tokens voor interessante momenten](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+                  + [Tokens activeren voor interessante momenten](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
                   + [Interesserende momenten gebruiken](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
          + MSI voor mobiel {#msi-for-mobile}
             + [Beste ets in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
