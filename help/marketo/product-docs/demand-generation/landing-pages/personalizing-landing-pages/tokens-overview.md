@@ -2,18 +2,18 @@
 unique-page-id: 2950799
 description: Overzicht van tokens - Marketo Docs - Productdocumentatie
 title: Overzicht van tokens
+exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-
 # Overzicht van tokens {#tokens-overview}
 
-Een token is een variabele die kan worden gebruikt in de stappen voor slimme campagnestromen, e-mails, landingspagina&#39;s, fragmenten en webcampagnes van Marketo.
+Een token is een variabele die kan worden gebruikt in Marketo-stappen voor slimme-campagnestromen, e-mails, landingspagina&#39;s, fragmenten en webcampagnes.
 
 ## Standaardwaarden {#understanding-default-values} begrijpen
 
@@ -31,7 +31,7 @@ In dit voorbeeld wordt in de e-mail het woord &quot;Groetings, (voornaam)&quot; 
 
 >[!NOTE]
 >
->Deze lijst is niet limitatief. Tokens worden ook gecreeerd voor elk douaneveld dat u in Marketo hebt.
+>Deze lijst is niet limitatief. Tokens worden ook gemaakt voor elk aangepast veld dat u in Marketo hebt.
 
 ## Persontokens {#person-tokens}
 
@@ -149,7 +149,7 @@ In dit voorbeeld wordt in de e-mail het woord &quot;Groetings, (voornaam)&quot; 
 
 >[!NOTE]
 >
->Meer informatie over [tokens voor interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md) vindt op basis van triggers die in een slimme campagne worden gebruikt.
+>Meer informatie over [tokens voor interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) vindt op basis van triggers die in een slimme campagne worden gebruikt.
 
 ## Programmatokens {#program-tokens}
 
