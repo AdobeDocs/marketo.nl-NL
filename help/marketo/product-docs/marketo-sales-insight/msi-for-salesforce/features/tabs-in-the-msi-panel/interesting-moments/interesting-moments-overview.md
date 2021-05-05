@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949720
-description: Interessant momentoverzicht - Marketo Docs - Productdocumentatie
+description: Interessant momentoverzicht - Marketo-documenten - productdocumentatie
 title: Interessant momentoverzicht
+exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
 translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Overzicht van interessante momenten {#interesting-moments-overview}
 
@@ -34,5 +34,5 @@ U kunt tokens ook gebruiken in interessante momenten om werkelijk nuttige dynami
 >[!MORELIKETHIS]
 >
 >* [Interesserende momenten gebruiken](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
->* [Tokens voor interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/tokens-for-interesting-moments.md)
+>* [Tokens voor interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
 
