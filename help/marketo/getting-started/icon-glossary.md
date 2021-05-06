@@ -4,7 +4,7 @@ description: Woordenlijst pictogrammen - Marketo Docs - Productdocumentatie
 title: Woordenlijst met pictogrammen
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
 translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 609e0d95820fc84eca341916f0767d0d94c4e2ef
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Hieronder staan de pictogrammen voor de Marketo Classic. Als u aan de nieuwe int
 
 **Algemene pictogrammen**
 
-<table> 
+<table style="table-layout:auto"> 
  <colgroup> 
   <col> 
   <col> 
@@ -144,7 +144,7 @@ Hieronder staan de pictogrammen voor de Marketo Classic. Als u aan de nieuwe int
 
 ## Beheerpictogrammen {#admin-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Pictogram</th> 
@@ -316,7 +316,7 @@ Hieronder staan de pictogrammen voor de Marketo Classic. Als u aan de nieuwe int
 
 ### Pictogrammen voor marketingactiviteiten {#marketing-activities-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Pictogram</th> 
@@ -684,7 +684,7 @@ Hieronder staan de pictogrammen voor de Marketo Classic. Als u aan de nieuwe int
 
 ### Design Studio-pictogrammen {#design-studio-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Pictogram</th> 
@@ -870,7 +870,7 @@ Hieronder staan de pictogrammen voor de Marketo Classic. Als u aan de nieuwe int
 
 ### Analysepictogrammen {#analytics-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Pictogram</th> 
@@ -979,7 +979,7 @@ Hieronder staan de pictogrammen voor de Marketo Classic. Als u aan de nieuwe int
 
 ### Mijn tokens-pictogrammen {#my-tokens-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Pictogram</th> 
@@ -1046,7 +1046,7 @@ Hieronder staan de pictogrammen voor de Marketo Classic. Als u aan de nieuwe int
 
 ### Campagnemenu&#39;s {#campaign-menus}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Pictogram</th> 
@@ -1120,7 +1120,7 @@ Hieronder staan de pictogrammen voor de Marketo Classic. Als u aan de nieuwe int
 
 ### Databasepictogrammen {#database-icons}
 
-<table> 
+<table style="table-layout:auto"> 
  <tbody> 
   <tr> 
    <th>Pictogram</th> 
