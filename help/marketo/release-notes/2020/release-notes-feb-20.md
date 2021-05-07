@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - Feb '20 - Marketo Docs - Productdocume
 title: Opmerkingen bij de release - feb '20
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van 20 februari. Raadpleeg de 
 
 >[!AVAILABILITY]
 >
->Functies die door een ster worden aangeduid ( ![(star)](assets/star-yellow.svg)), worden tegen betaling aangeboden. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+>Functies die door een ster worden aangeduid ( ![(star)](assets/yellow-star.png)), worden tegen betaling aangeboden. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Driemaandelijkse_** releasesDe volgende functies zijn op 21  **februari 2020** gepubliceerd.
 
@@ -37,7 +37,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Bizibel {#bizible}
 
-![(ster)](assets/star-yellow.svg)
+![(ster)](assets/yellow-star.png)
 
 * **Segmentatie** op basis van account: Analyseer de attributie op het niveau van de Rekening met de capaciteit om segmenten en filters voor te creëren Discover boards die op de attributen van de Rekening worden gebaseerd. Gebruik deze segmenten om verder te gaan naar de marketingprestaties op basis van uw account.
 * **Filters** opslaan: Sla dashboardspecifieke filters op die uniek zijn voor elke gebruiker en die uw dashboards snel en consistent kunnen analyseren.
