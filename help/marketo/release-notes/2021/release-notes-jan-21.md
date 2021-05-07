@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - jan 2021 - Marketo Docs - Productdocum
 title: Opmerkingen bij de release - jan 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: 7566581555eb95564b9f69884190dd987e123dbe
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -16,7 +16,7 @@ De volgende functies zijn opgenomen in de release van 21 januari. Raadpleeg de M
 
 >[!AVAILABILITY]
 >
->Functies die door een ster worden aangeduid ( ![(star)](assets/star-yellow.svg)), worden tegen betaling aangeboden. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+>Functies die door een ster worden aangeduid ( ![(star)](assets/yellow-star.png)), worden tegen betaling aangeboden. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Kwartaalreleases_**
 
@@ -57,7 +57,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Verkoopinzicht {#sales-insight}
 
-![(ster)](assets/star-yellow.svg)
+![(ster)](assets/yellow-star.png)
 
 * **[Verbeterde e-mailworkflows voor testen (Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**: Verhoog de efficiëntie van uw verkoopteam met de verbeterde e-mailworkflows voor het testen van het verkoopinzicht. Verkopers kunnen teste-mails naar gekozen e-mailadressen verzenden voordat ze bulksgewijze e-mails naar maximaal 200 ontvangers verzenden.
 * **[Inzichten in e-mailstatus (Salesforce CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: Gebruikers zien een waarschuwingsbericht wanneer ze een e-mail proberen te verzenden naar een ongeldige e-mail-id of een niet-geabonneerd e-mailadres voordat ze een e-mail verzenden.  De leveringsstatus van e-mails kan worden gecontroleerd op het tabblad E-mail van Verkoopoverzicht.
@@ -67,7 +67,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Sales Connect {#sales-connect}
 
-![(ster)](assets/star-yellow.svg)
+![(ster)](assets/yellow-star.png)
 
 * **E-mailverbindingsrotatie (BETA)**: Verbeter uw e-mailprestaties en schaalt uw 1:1-verkoopcommunicatie met de Throttling van de E-mailverbinding voor Sales Connect. Met onze nieuwe vertragingstechnologie wordt het verzenden van e-mail automatisch beheerd, zodat Exchange- en Gmail-gebruikers probleemloos kunnen genieten van hun ervaringen. Verlaag of elimineer het gebruik van externe toepassingen voor het verzenden van grote hoeveelheden e-mail.
 * **Bounce voor e-mailverbinding bijhouden**: Bekijk meer inzicht in de kwaliteit van leads en de prestaties van e-mailsjablonen met het nieuwe e-mailstuitrapport. Gebruikers van Exchange en Gmail kunnen ervoor kiezen om stuiteringsberichten te ontvangen die worden weergegeven bij Live Feed, E-mailmappen, Sjabloonanalyse en Campagneanalyse.
