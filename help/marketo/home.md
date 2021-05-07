@@ -3,16 +3,16 @@ title: Marketo-productdocumenten
 description: Marketo-productdocumenten
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
 translation-type: tm+mt
-source-git-commit: 0d2482ca080bbc38e12de391fb2d179b43046bcf
+source-git-commit: 3f8cebecc479c5e051aa1067a5b6bd9d40521eb2
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # Marketo-productdocumenten
 
-banner
+![](assets/marketo-docs-banner.jpg)
 
 ## Aan de slag
 
@@ -33,3 +33,7 @@ banner
 * [Slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
 * [Adobe Marketo Engage Next Gen UX-ervaring - Overzicht](/help/marketo/product-docs/marketo-engage-next-generation-experience/overview.md)
+
+## Opmerkingen bij de huidige release
+
+* [mei 2021](/help/marketo/release-notes/2021/release-notes-may-21.md)
