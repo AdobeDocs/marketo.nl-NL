@@ -2,14 +2,14 @@
 unique-page-id: 2359837
 description: Triggers en filters voor sociale activiteiten - Marketo Docs - Productdocumentatie
 title: Triggers en filters voor sociale activiteiten
+exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
 translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # Triggers en filters voor sociale activiteiten {#triggers-and-filters-for-social-activities}
 
@@ -29,18 +29,18 @@ Sociale apps in Marketo hebben hun eigen speciale triggers en filters.
 
 1. Verwijs in de onderstaande tabel naar de triggers en filters die bij elke sociale app worden gebruikt.
 
-   | Triggers/filters | Sociale knoppen | Opiniepeilingen | Video&#39;s | Verwijzingsvoorstellen | Krenkte |
+   | Triggers/filters | Sociale knoppen | Opiniepeilingen | Video&#39;s | Verwijzingsvoorstellen | Sweepstake |
    |---|---|---|---|---|---|
-   | Resultaat van de verwijzing |  |  |  | ![(tik)](assets/check.svg) |  |
-   | Inhoud delen | ![(tik)](assets/check.svg) | ![(tik)](assets/check.svg) | ![(tik)](assets/check.svg) | ![(tik)](assets/check.svg) | ![(tik)](assets/check.svg) |
-   | Klik op Gedeelde koppeling | ![(tik)](assets/check.svg) | ![(tik)](assets/check.svg) | ![(tik)](assets/check.svg) | ![(tik)](assets/check.svg) | ![(tik)](assets/check.svg) |
-   | Egaliseert items |  |  |  |  | ![(tik)](assets/check.svg) |
-   | Verkrijgt ingang in sociale app |  |  |  |  | ![(tik)](assets/check.svg) |
-   | Hiermee wordt veiling gestart |  |  |  |  | ![(tik)](assets/check.svg) |
-   | Verwijst naar de sociale app |  |  |  | ![(tik)](assets/check.svg) | ![(tik)](assets/check.svg) |
-   | Aanmeldt zich aan voor een doorverwijzing |  |  |  | ![(tik)](assets/check.svg) |  |
-   | Stemmen in opiniepeiling |  | ![(tik)](assets/check.svg) |  |  |  |
-   | Wins Sweepstakes |  |  |  |  | ![(tik)](assets/check.svg) |
+   | Resultaat van de verwijzing |  |  |  | ![(tik)](assets/check.png) |  |
+   | Inhoud delen | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) |
+   | Klik op Gedeelde koppeling | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) |
+   | Egaliseert items |  |  |  |  | ![(tik)](assets/check.png) |
+   | Verkrijgt ingang in sociale app |  |  |  |  | ![(tik)](assets/check.png) |
+   | Hiermee wordt veiling gestart |  |  |  |  | ![(tik)](assets/check.png) |
+   | Verwijst naar de sociale app |  |  |  | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) |
+   | Aanmeldt zich aan voor een doorverwijzing |  |  |  | ![(tik)](assets/check.png) |  |
+   | Stemmen in opiniepeiling |  | ![(tik)](assets/check.png) |  |  |  |
+   | Wins Sweepstakes |  |  |  |  | ![(tik)](assets/check.png) |
 
    >[!MORELIKETHIS]
    >
