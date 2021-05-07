@@ -4,9 +4,9 @@ description: Tokens voor interessante momenten activeren - Marketo Docs - Produc
 title: Tokens activeren voor interessante momenten
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -68,10 +68,10 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Klik op Koppeling in e-mail</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -85,12 +85,12 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Bounces per e-mail hard</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -102,12 +102,12 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Bounces zacht e-mailen</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -119,10 +119,10 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>E-mail is bezorgd</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -136,10 +136,10 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Hiermee opent u e-mail</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -153,8 +153,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
     <tr> 
    <td>E-mail doorgestuurd naar vriend</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -170,8 +170,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
     <tr> 
    <td>Verzonden naar e-mail voor vriend</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -180,21 +180,21 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td>
+   <td><img src="assets/check.png" alt="controleren"></td>
   </tr> 
   <tr> 
    <td>Abonnement op e-mail opzeggen</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -244,16 +244,16 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Klik op Koppeling in e-mail Verkoop</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -261,16 +261,16 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Verzende-mail</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -278,16 +278,16 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Verkoopbericht openen</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -295,8 +295,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Bounces verkoope-mail</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -312,16 +312,16 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Verkoop-e-mail is ontvangen</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -329,8 +329,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
     <tr> 
    <td>Opportunity is bijgewerkt</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -346,8 +346,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
     <tr> 
    <td>Wijzigingen eigenaar</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -363,8 +363,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Persoon is omgezet</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -380,8 +380,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Persoon wordt verwijderd uit SFDC</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -397,8 +397,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Persoon is gesynchroniseerd met SFDC</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -414,8 +414,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Verwijderd uit opportunity</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -431,8 +431,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Verwijderd uit SFDC-campagne</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -448,8 +448,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>De activiteit is geregistreerd</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -465,8 +465,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Activiteit is bijgewerkt</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -482,8 +482,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Toegevoegd aan opportunity</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -499,8 +499,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Toegevoegd aan SFDC-campagne</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -573,16 +573,16 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Klik op Koppeling in e-mail Verkoop</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -590,16 +590,16 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Verzende-mail</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -607,16 +607,16 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Verkoopbericht openen</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -624,8 +624,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Bounces verkoope-mail</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -641,16 +641,16 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Verkoop-e-mail is ontvangen</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td>
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -658,8 +658,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Wordt toegevoegd aan verkoopcampagne</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -676,8 +676,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   <tr>
    <td>Wijzigingen eigenaar</td> 
    <td>Is verwijderd uit verkoopcampagne</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -693,8 +693,8 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Ontvangen verkoopoproep</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -750,14 +750,14 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Formulier wordt ingevuld</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
@@ -767,34 +767,34 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
   </tr> 
   <tr> 
    <td>Bezoek de webpagina</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td>
   </tr> 
   <tr> 
    <td>Klik op Koppeling op webpagina</td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
-   <td><img src="assets/check.svg" alt="(tik)"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
    <td><br></td> 
    <td><br></td>
@@ -804,7 +804,7 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
 
 >[!NOTE]
 >
->Als er geen controle ![(tik)](assets/check.svg) is, wordt er op het interessante moment een lege tekenreeks (niets) geretourneerd.
+>Als er geen controle ![(tik)](assets/) is, wordt er op het interessante moment een lege tekenreeks (niets) geretourneerd.
 
 *Trigger **Bezoekt Web-pagina** heeft een paar extra tokens:
 
@@ -816,4 +816,4 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
 >
 >Test altijd uw interessante momenten uit om ervoor te zorgen dat ze de gewenste manier weergeven.
 >
->Zorg er ook voor dat het interessant is voor de verkoper, niet alleen voor jou. ![(wink)](assets/wink.svg)>
+>Zorg er ook voor dat het interessant is voor de verkoper, niet alleen voor jou!
