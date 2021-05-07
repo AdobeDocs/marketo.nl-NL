@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - jan 2020 - Marketo Docs - Productdocum
 title: Opmerkingen bij de release - jan 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van 20 januari. Raadpleeg de M
 
 >[!AVAILABILITY]
 >
->Functies die door een ster worden aangeduid ( ![(star)](assets/star-yellow.svg)), worden tegen betaling aangeboden. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+>Functies die door een ster worden aangeduid ( ![(star)](assets/yellow-star.png)), worden tegen betaling aangeboden. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Kwartaalreleases_**
 
@@ -38,9 +38,9 @@ De volgende functies worden vrijgegeven op **17 januari 2020**.
 
 ## Op account gebaseerde marketing {#account-based-marketing}
 
-![(ster)](assets/star-yellow.svg)
+![(ster)](assets/yellow-star.png)
 
-* **[New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/star-yellow.svg)**: Gebruik Account Profiling om nieuwe doelaccounts voor uw ABM-strategie te zoeken op basis van uw door AI aangedreven ideale klantprofielmodel. Geef aanbevolen nieuwe accounts weer, selecteer ze en importeer ze, samen met hun op AI gebaseerde indicatoren voor geschiktheid en intent-gegevens, die nog niet bestaan binnen de database voor Marketo Engage-leads en -accounts voor ABM-doelframes. Direct beschikbaar voor in aanmerking komende klanten die een accountprofiel opstellen.
+* **[New Account Discovery (BETA)](https://docs.marketo.com/x/WQA6Ag) ![(star)](assets/yellow-star.png)**: Gebruik Account Profiling om nieuwe doelaccounts voor uw ABM-strategie te zoeken op basis van uw door AI aangedreven ideale klantprofielmodel. Geef aanbevolen nieuwe accounts weer, selecteer ze en importeer ze, samen met hun op AI gebaseerde indicatoren voor geschiktheid en intent-gegevens, die nog niet bestaan binnen de database voor Marketo Engage-leads en -accounts voor ABM-doelframes. Direct beschikbaar voor in aanmerking komende klanten die een accountprofiel opstellen.
 
 <br> 
 
@@ -50,7 +50,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Bizibel {#bizible}
 
-![(ster)](assets/star-yellow.svg)
+![(ster)](assets/yellow-star.png)
 
 * **Marketo Engage leidt integratie**: Breng de Verkoop en de Marketing samen met een verenigde mening van lood over Bizible en Marketo Engage. Met deze update kunt u nu Marketo Engage gebruiken als extra bron voor lead-gegevens. U hoeft dus niet meer te wachten tot leads worden gesynchroniseerd met de CRM om lood te genereren.
 * **Verbeteringen** ontdekken: Krijg meer van onze Discover Boards in Bizible met verhogingen die van klant worden ontwikkeld terugkoppelt, zoals de capaciteit om neer aan transactieregisters van tegels en attributen te boren, essentiële verslagtellingen en overeenkomstige kosten-per metriek toe te voegen, en dashboardfilters voor veelvoudige dashboards toe te voegen/te verwijderen. U wordt ook rechtstreeks naar het standaarddashboard geleid bij het aanmelden.
