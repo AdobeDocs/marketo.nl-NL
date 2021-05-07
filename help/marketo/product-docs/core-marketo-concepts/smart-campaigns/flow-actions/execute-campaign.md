@@ -2,9 +2,9 @@
 description: Campagne uitvoeren - Marketo Docs - Productdocumentatie
 title: Campagne uitvoeren
 translation-type: tm+mt
-source-git-commit: 20a3bee9973340d7b772532d1be31fe745e5ffd7
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Campagne {#execute-campaign} uitvoeren
 
 Een uitvoerbare Campagne, zoals andere campagnes, bevat een Slimme Lijst, Stroom, en Programma. In tegenstelling tot andere campagnes, plant of activeert u het eigenlijk niet. Het kan slechts door een andere campagne via de Uitvoeren de debietstap van de Campagne worden geroepen. De stroomstappen in de Uitvoerbare Campagne worden in serie in werking gesteld met de oudercampagne (in tegenstelling tot de Campagne van het Verzoek, die parallel in een afzonderlijke Campagne van de Trekker loopt).
+
+>[!NOTE]
+>
+>Deze functie wordt ingeschakeld voor alle Marketo-instanties op de avond van dinsdag 11 mei.
 
 >[!NOTE]
 >
