@@ -2,14 +2,14 @@
 unique-page-id: 2360423
 description: Alle leads zoeken in een Revenue Cycle Model - Marketo Docs - Productdocumentatie
 title: Alle leads zoeken in een inkomstencyclusmodel
+exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Alle leads zoeken in een inkomstencyclusmodel {#find-all-leads-in-a-revenue-cycle-model}
 
@@ -47,7 +47,7 @@ Door slimme lijsten te gebruiken, kunt u alle leden van het model van de opbreng
 
    >[!TIP]
    >
-   >U hebt beide filters niet nodig, maar kies de gewenste filters. We laten u alleen maar zien dat u allebei grondig te werk gaat. ![(glimlach)](assets/smile.svg)
+   >U hebt beide filters niet nodig, maar kies de gewenste filters. We laten u alleen maar zien dat u allebei grondig te werk gaat.
 
    >[!CAUTION]
    >
