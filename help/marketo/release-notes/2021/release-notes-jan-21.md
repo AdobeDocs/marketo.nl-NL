@@ -3,7 +3,7 @@ description: Opmerkingen bij de release - jan 2021 - Marketo Docs - Productdocum
 title: Opmerkingen bij de release - jan 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '1268'
 ht-degree: 0%
@@ -16,7 +16,7 @@ De volgende functies zijn opgenomen in de release van 21 januari. Raadpleeg de M
 
 >[!AVAILABILITY]
 >
->Functies die door een ster worden aangeduid ( ![(star)](assets/yellow-star.png)), worden tegen betaling aangeboden. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+>Functies die door een ster (![(star)](assets/yellow-star.png)) worden aangeduid, worden betaalde invoegtoepassingen. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Kwartaalreleases_**
 
