@@ -4,9 +4,9 @@ description: Marketo Glossary - Marketo Docs - Productdocumentatie
 title: Marketo Verklarende woordenlijst
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '4225'
+source-wordcount: '4231'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Accountscore</a></strong></td> 
-   <td colspan="1">In <strong>ABM</strong>, is het een score die aan een rekening wordt toegewezen om u te helpen zijn niveau van overeenkomst bepalen.</td> 
+   <td colspan="1">In <strong>TAM</strong>, is het een score die aan een rekening wordt toegewezen om u te helpen zijn niveau van overeenkomst bepalen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Aankoopdatum</strong></td> 
@@ -62,6 +62,10 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>Integratie van advertentienetwerken </strong></a></td> 
    <td colspan="1">(voorheen Ad Bridge) Een manier om Marketo-gegevens over unieke doelgroepen aan te sluiten op uw betaalmediasystemen, zodat u doelgerichte, gepersonaliseerde digitale advertentiecampagnes kunt uitvoeren.</td> 
+  </tr> 
+  <tr> 
+   <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
+   <td colspan="1">De officiële merknaam voor het totaal van alle Marketo-productaanbiedingen in de Adobe Experience Cloud.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" rel="nofollow">Waarschuwing</a></strong></td> 
@@ -242,7 +246,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
     <div> 
      <p><strong> Database</strong></p> 
     </div></td> 
-   <td>Een van de kernsecties van <strong>Marketo Engage</strong>. De database bevindt zich thuis in al uw <strong>persoonrecords</strong>.</td> 
+   <td>Een van de kernsecties van <strong>Adobe Marketo Engage</strong>. De database bevindt zich thuis in al uw <strong>persoonrecords</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>Dupliceren</strong></td> 
@@ -269,7 +273,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
-   <td colspan="1">Een van de kernsecties van <strong>Marketo Engage</strong>. De Studio van het ontwerp is huis aan uw <strong>activa</strong>, zoals: <strong>pagina's</strong>, formulieren, <strong>e-mails</strong>, <strong>fragmenten</strong> en afbeeldingen/bestanden plaatsen.</td> 
+   <td colspan="1">Een van de kernsecties van <strong>Adobe Marketo Engage</strong>. De Studio van het ontwerp is huis aan uw <strong>activa</strong>, zoals: <strong>pagina's</strong>, formulieren, <strong>e-mails</strong>, <strong>fragmenten</strong> en afbeeldingen/bestanden plaatsen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Docs</strong></td> 
@@ -482,7 +486,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td><strong>Lood</strong></td> 
-   <td>In <strong>Marketo Engage</strong>, is lood de vorige termijn (die door <strong>person</strong> wordt vervangen) die wordt gebruikt om een individu in uw Marketo <strong>gegevensbestand</strong> te beschrijven dat u door uw marketing campagnes aangaat. In uw <strong>CRM</strong>, kan een lood een verschillend concept (d.w.z., een individu verbonden aan een <strong>opportunity</strong>) onafhankelijk van de functionaliteit van Marketo vertegenwoordigen.</td> 
+   <td>In <strong>Adobe Marketo Engage</strong>, is lood de vorige termijn (vervangen door <strong>person</strong>) die wordt gebruikt om een individu in uw Marketo <strong>gegevensbestand</strong> te beschrijven dat u door uw marketing campagnes aangaat. In uw <strong>CRM</strong>, kan een lood een verschillend concept (d.w.z., een individu verbonden aan een <strong>opportunity</strong>) onafhankelijk van de functionaliteit van Marketo vertegenwoordigen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Database lead</strong></td> 
@@ -512,7 +516,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td><strong>Marketingactiviteiten</strong></td> 
-   <td><p>Een van de kernsecties van Marketo Engage. Dit is waar uw <strong>campagne</strong> organisatie voorkomt. Al uw <strong>programma's</strong>, campagnes, en <strong>campagnemappen</strong> (evenals hun <strong>lokale activa</strong>) leven hier.</p></td> 
+   <td><p>Een van de kernsecties van Adobe Marketo Engage. Dit is waar uw <strong>campagne</strong> organisatie voorkomt. Al uw <strong>programma's</strong>, campagnes, en <strong>campagnemappen</strong> (evenals hun <strong>lokale activa</strong>) leven hier.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Marketingautomatisering</strong></a></td> 
@@ -525,10 +529,6 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Marketing opgeschort</strong></a></td> 
    <td colspan="1">Dit gebied wordt manueel geplaatst door <strong>gebruiker</strong> om iemand in hun <strong>gegevensbestand</strong> tijdelijk unmailable te maken.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Marketo Engage</strong></td> 
-   <td colspan="1">De officiële merknaam voor het totaal van alle Marketo-productaanbiedingen in de Adobe Experience Cloud.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Lead Management (MLM)</strong></td> 
@@ -560,7 +560,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Mijn Marketo</strong></td> 
-   <td colspan="1">Een van de standaardsecties van Marketo Engage. Deze sjabloon fungeert als de "homepage" van de Marketo en geeft tegels weer voor alle secties van Marketo waartoe u toegang hebt.</td> 
+   <td colspan="1">Een van de standaardsecties van Adobe Marketo Engage. Deze sjabloon fungeert als de "homepage" van de Marketo en geeft tegels weer voor alle secties van Marketo waartoe u toegang hebt.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Mijn tokens</strong></a></td> 
