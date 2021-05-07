@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11378869
-description: Maak een SMS-bericht over Vibes - Marketo Docs - Productdocumentatie
+description: Een SMS-bericht over Vibes maken - Marketo Docs - Productdocumentatie
 title: Een SMS-bericht voor Vibes maken
+exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
 translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # Een SMS-bericht voor Vibes maken {#create-a-vibes-sms-message}
 
@@ -17,7 +17,7 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
 
 >[!AVAILABILITY]
 >
->Deze functie is beschikbaar als een invoegtoepassing voor uw Marketo Engage-account. Voor een correcte levering moet het via Adobe worden aangekocht. Neem voor meer informatie contact op met uw Adobe Customer Success Manager.
+>Deze functie is beschikbaar als een invoegtoepassing voor uw Adobe Marketo Engage-account. Voor een correcte levering moet het via Adobe worden aangekocht. Neem voor meer informatie contact op met uw Adobe Customer Success Manager.
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Selecteer een koppelingstype. Openingspagina markeren is de standaardinstelling. Als u hiermee werkt, moet u de bestemmingspagina selecteren in de vervolgkeuzelijst en op **Invoegen** klikken.
+1. Selecteer een koppelingstype. Marketo Landing Page is de standaard. Als u hiermee werkt, moet u de bestemmingspagina selecteren in de vervolgkeuzelijst en op **Invoegen** klikken.
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -85,7 +85,7 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
 
    >[!NOTE]
    >
-   >Marketo geeft een voorvertoning weer van de koppeling van het merkspatiëringsdomein. Als u het selectievakje Markt_tok uitschakelt, wordt de koppeling gewijzigd. Schakel ook het selectievakje Koppeling bijhouden uit en de URL wordt ingekort tot de standaardlengte (bijvoorbeeld www.mygooglepage.com).
+   >Marketo geeft een voorvertoning weer van de koppelingen naar het trackingdomein van de merken. Als u het selectievakje Markt_tok uitschakelt, wordt de koppeling gewijzigd. Schakel ook het selectievakje Koppeling bijhouden uit en de URL wordt ingekort tot de standaardlengte (bijvoorbeeld www.mygooglepage.com).
 
    ![](assets/image2016-7-27-16-3a20-3a16.png)
 
