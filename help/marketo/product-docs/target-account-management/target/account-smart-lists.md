@@ -2,14 +2,14 @@
 unique-page-id: 11378814
 description: Slimme accountlijsten - Marketo Docs - Productdocumentatie
 title: Slimme accountlijsten
+exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
 
 ---
-
 
 # Slimme accountlijsten {#account-smart-lists}
 
@@ -17,7 +17,11 @@ Hieronder wordt beschreven hoe u uw hoogwaardige accounts snel en nauwkeurig kun
 
 >[!NOTE]
 >
->Deze functie bevindt zich in een open bètaversie en is beschikbaar voor iedereen die zowel TAM als de gebruikerservaring van de volgende generatie heeft ingeschakeld. Neem contact op met uw CSM als u wilt deelnemen aan de bètaversie.
+>Deze functie wordt ingeschakeld voor alle in aanmerking komende Marketo-instanties op de avond van dinsdag 11 mei.
+
+>[!NOTE]
+>
+>Deze functie is alleen beschikbaar voor gebruikers met zowel TAM als de Adobe Marketo Engage Next-Gen gebruikerservaring ingeschakeld.
 
 ## Een slimme lijst voor een account maken {#create-an-account-smart-list}
 
@@ -87,7 +91,7 @@ Op het tabblad Overzicht van de slimme lijst met accounts ziet u enkele actieopt
 
 **Klonen**: Hiermee maakt u een kopie van de slimme lijst voor uw account.
 
-**Verzenden naar advertentienetwerk**: Verzendt de lijst naar LinkedIn als nieuw Gelijke Publiek.
+**Verzenden naar advertentienetwerk**: Hiermee verzendt u de lijst naar LinkedIn als een nieuw gekoppeld publiek.
 
 U kunt ook verwijzen naar uw slimme lijst van de Rekening in een standaard Slimme Campagne/Lijst door _Personenlid van Slimme Lijst_ filter te gebruiken.
 
