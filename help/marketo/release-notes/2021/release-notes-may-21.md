@@ -2,9 +2,9 @@
 description: Opmerkingen bij de release - mei 2021 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2021
 translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '1490'
+source-wordcount: '1510'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,23 @@ De volgende functies zijn opgenomen in de release van mei 1921. Raadpleeg de Mar
 
 >[!AVAILABILITY]
 >
->Functies die door een ster (![(star)](assets/star-yellow.svg)) worden aangeduid, worden betaalde invoegtoepassingen. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+>Functies die door een ster ![](assets/star.png) worden aangeduid, worden betaalde invoegtoepassingen. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Kwartaalreleases_**
 
 De volgende functies worden vrijgegeven op **7 mei 2021**.
 
+>[!NOTE]
+>
+>Deze drie kenmerken zijn beschikbaar op de avond van dinsdag 11 mei:
+
+* **Slimme accountlijsten**
+* **Stappen voor campagnestroom uitvoeren**
+* **Filter E-mailboxactiviteit**
+
 ## Op account gebaseerde ervaringen {#Account-based-eaperiences}
 
-* **Slimme accountlijsten (algemene beschikbaarheid)** (![(ster)](assets/star-yellow.svg)): Zoek en kwalificeer accounts met de gewenste account- en persoonkenmerken om ze te kunnen gebruiken in marketingcampagnes tussen kanalen en verstuur tijdige waarschuwingen naar Sales om deals sneller te sluiten. Dankzij deze nieuwe functie kunnen marketingstrategieën op basis van account robuust worden geautomatiseerd. De slimme Lijsten van de Rekening zijn beschikbaar voor klanten met het Beheer van de Rekening van het Doel die op de volgende generatie gebruikerservaring zijn.
+* **Slimme accountlijsten (algemene beschikbaarheid)** ![](assets/star.png): Zoek en kwalificeer accounts met de gewenste account- en persoonkenmerken om ze te kunnen gebruiken in marketingcampagnes tussen kanalen en verstuur tijdige waarschuwingen naar Sales om deals sneller te sluiten. Dankzij deze nieuwe functie kunnen marketingstrategieën op basis van account robuust worden geautomatiseerd. De slimme Lijsten van de Rekening zijn beschikbaar voor klanten met het Beheer van de Rekening van het Doel die op de volgende generatie gebruikerservaring zijn.
 
 ## Volgende generatie gebruikerservaring {#next-generation-user-experience}
 
@@ -75,7 +83,7 @@ Verscheidene kritieke updates aan Bulk en Lood APIs, met inbegrip van de capacit
 
 ## Bizibel {#bizible}
 
-(![(ster)](assets/star-yellow.svg))
+![](assets/star.png)
 
 * **Integratie met LinkedIn Lead Gen Forms (Beta)**: Vergroot de zichtbaarheid van uw LinkedIn-kanaaluitgaven en ROI met Bizible premium attribution-oplossing. Dankzij de meest recente integratie met LinkedIn&#39;s leider-gen Forms krijgt Bizible inzicht in formulieren die zijn ingediend binnen het LinkedIn-platform. Deze formuliervullingen worden vergeleken met leads van uw CRM-instantie (Customer Relationship Management) of Adobe Marketo Engage-instantie, zodat ze in aanmerking komen voor toewijzing en kunnen worden bijgehouden op basis van uw andere marketingafspraken.
 
