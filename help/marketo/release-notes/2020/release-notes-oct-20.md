@@ -4,9 +4,9 @@ description: Opmerkingen bij de release - oktober 20 - Marketo Docs - Productdoc
 title: Opmerkingen bij de release - okt. 20
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
-source-wordcount: '959'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ De volgende functies zijn opgenomen in de release van oktober 2010. Raadpleeg de
 
 >[!AVAILABILITY]
 >
->Door een ster aangegeven functies ( ![(star)](assets/star-yellow.svg)) kunnen invoegtoepassingen worden betaald. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+>Functies die door een ster (![](assets/yellow-star.png)) worden aangeduid, worden betaalde invoegtoepassingen. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Driemaandelijkse_** releasesDe volgende functies worden op 16  **oktober 2020** gepubliceerd.
 
 ## Doelaccountbeheer {#target-account-management}
 
-![(ster)](assets/star-yellow.svg)
+![(ster)](assets/yellow-star.png)
 
 * **Slimme lijst account (bèta)**: Verbeter uw ABM-strategie met de nieuwe functie voor Smart List voor account. Rekeningen met gewenste rekening en persoonattributen dynamisch identificeren om kanaalcampagnes in werking te stellen en tijdige alarm naar Verkoop te verzenden om overeenkomsten sneller te sluiten. Opmerking: dit is alleen beschikbaar voor klanten van Target Account Management die zijn aangemeld bij de [gebruikerservaring van de volgende generatie](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
 ## E-mailmarketing {#email-marketing}
 
-* **Batch-e-mailBoost  ![(ster)](assets/star-yellow.svg)**: Stuur meer e-mails met een verhoogde doorvoer van maximaal 5 miljoen batch-e-mails per uur. Met de uitgebreide opties voor e-maillevering hoeft u niet te wachten tussen batches per e-mail. U kunt alle e-mails op tijd en volgens uw planning verzenden.
+* **Batch-e-mailBoost  ![(ster)](assets/yellow-star.png)**: Stuur meer e-mails met een verhoogde doorvoer van maximaal 5 miljoen batch-e-mails per uur. Met de uitgebreide opties voor e-maillevering hoeft u niet te wachten tussen batches per e-mail. U kunt alle e-mails op tijd en volgens uw planning verzenden.
 
 ## Websitemarkering {#website-marketing}
 
@@ -67,7 +67,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Verkoopinzicht {#sales-insight}
 
-![(ster)](assets/star-yellow.svg)
+![(ster)](assets/yellow-star.png)
 
 * **Opties voor** API-optimalisatie en nieuwe beheerconfiguratie: Verbeter de gebruikerservaring van het Inzicht van de Verkoop door verbeterde API optimalisering en toegevoegde bestuurseigenschappen. De montages van de configuratie laten beheerders toe om te bepalen hoe de campagnes en de gebeurtenissen aan het dashboard van het Inzicht van de Verkoop worden geladen. Met de opties voor de weergave van flexibele kalenderactiviteiten wordt het gebruik van de API verminderd en de algehele ervaring verbeterd.
 
