@@ -2,9 +2,9 @@
 description: Een veld markeren als gevoelig - Marketo Docs - Productdocumentatie
 title: Een veld markeren als gevoelig
 translation-type: tm+mt
-source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Een veld markeren als gevoelig {#mark-a-field-as-sensitive}
 
 Als Marketo-beheerder kunt u een bepaald veld als &#39;gevoelig&#39; markeren, zodat de waarden ervan nooit vooraf in formulieren worden ingevuld, waardoor de vertrouwelijke gegevens van gebruikers worden beschermd.
+
+>[!NOTE]
+>
+>Deze functie wordt ingeschakeld voor alle Marketo-instanties op de avond van dinsdag 11 mei.
 
 1. Klik **Admin**.
 
