@@ -4,7 +4,7 @@ description: Opmerkingen bij de release -August 19 - Marketo Docs - Productdocum
 title: Opmerkingen bij de release - augustus 19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -25,7 +25,7 @@ De volgende functies zijn uitgebracht op 16 augustus 2019.
 * **Update** voor Smart Campagne-API: De mogelijkheden van de slimme-campagnelevenscyclus beheren terwijl we de CRUD-interface (maken, lezen, bijwerken, verwijderen) afronden.
 * **API-wijziging** voor e-mailheaders bijwerken: Voor het bijwerken van de e-mailkoptekst-API is niet langer een e-mail vereist met een gekoppelde sjabloon om koptekstvelden, zoals een onderwerpregel, bij te werken.
 
-**Account-based Marketing** ![ (ster)](assets/star-yellow.svg)
+**Account-based Marketing** ![ (ster)](assets/yellow-star.png)
 
 * **linkedIn Account Matching**, voorheen in bèta, is nu algemeen beschikbaar.
 * **** AccountAI wordt officieel herbrandd als  **Accountprofilering**.
@@ -36,13 +36,13 @@ De volgende functies zijn uitgebracht op 16 augustus 2019.
 
 De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en zullen in het gehele derde kalenderkwartaal en tot het begin van het vierde kwartaal van 2019 worden gepubliceerd.
 
-**Marketo Sales Connect** ![ (ster)](assets/star-yellow.svg)
+**Marketo Sales Connect** ![ (ster)](assets/yellow-star.png)
 
 * **Personen pagina-indelingsverbetering:** Beheer uw personen en groepen via het importeren van lijsten en bulkacties in de nieuwe pagina-indeling Personen.
 
 >[!AVAILABILITY]
 >
->Functies die door een ster worden aangeduid ( ![(star)](assets/star-yellow.svg)), worden tegen betaling aangeboden. Neem contact op met je Marketo-vertegenwoordiger voor meer informatie.
+>Functies die door een ster worden aangeduid ( ![(star)](assets/yellow-star.png)), worden tegen betaling aangeboden. Neem contact op met je Marketo-vertegenwoordiger voor meer informatie.
 
 >[!NOTE]
 >
