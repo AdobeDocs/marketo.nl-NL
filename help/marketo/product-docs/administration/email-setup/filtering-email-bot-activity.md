@@ -2,9 +2,9 @@
 description: Filteren van e-mailboxactiviteiten - Marketo-documenten - Productdocumentatie
 title: Activiteit e-mailvak filteren
 translation-type: tm+mt
-source-git-commit: 35ab8d353a2518a1603cb508a6f8c0ea650483e4
+source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Activiteit van e-mailvak filteren {#filtering-email-bot-activity}
 
 Soms kan e-mailactiviteit je e-mail abusievelijk opblazen en op gegevens klikken. Zo los je dat op.
+
+>[!NOTE]
+>
+>Deze functie wordt ingeschakeld voor alle Marketo-instanties op de avond van dinsdag 11 mei.
 
 >[!NOTE]
 >
