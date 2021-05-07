@@ -4,7 +4,7 @@ description: Opmerkingen bij de release - juli 2010 - Marketo Docs - Productdocu
 title: Opmerkingen bij de release - juli '20
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
 workflow-type: tm+mt
 source-wordcount: '653'
 ht-degree: 0%
@@ -17,7 +17,7 @@ De volgende functies zijn opgenomen in de release van juli 2010. Raadpleeg de Ma
 
 >[!AVAILABILITY]
 >
->Houd er rekening mee dat, afhankelijk van het huidige pakket, items met een ster ( ![(star)](assets/star-yellow.svg)) mogelijk de aanschaf van een toegevoegde waarde vereisen. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+>Houd er rekening mee dat, afhankelijk van het huidige pakket, items met een ster ( ![(star)](assets/yellow-star.png)) mogelijk de aanschaf van een toegevoegde waarde vereisen. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Driemaandelijkse_** releasesDe volgende functies worden op 31  **juli 2020** gepubliceerd.
 
@@ -27,7 +27,7 @@ De volgende functies zijn opgenomen in de release van juli 2010. Raadpleeg de Ma
 
 ## Op account gebaseerde marketing {#account-based-marketing}
 
-![(ster)](assets/star-yellow.svg)
+![(ster)](assets/yellow-star.png)
 
 * **Bijgewerkte gebruikersinterface voor accountprofilering**: Vereenvoudig het maken van uw doelaccountlijst in Accountprofilering met gestroomlijnde stappen in één scherm.
 
@@ -47,13 +47,13 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Verkoopinzicht {#sales-insight}
 
-![(ster)](assets/star-yellow.svg)
+![(ster)](assets/yellow-star.png)
 
 * **[Het Inzicht van de verkoop dat voor Klanten met Niet-inheemse Integratie](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)  van Salesforce CRM (bèta)** wordt toegelaten: De klanten van de Marketo Engage met niet-inheemse integratie van Salesforce CRM kunnen de Inzicht van de Verkoop nu gebruiken om hun verkoopteams te helpen begrijpen, voorrang geven, en met de meest betrokken lood en de kansen in wisselwerking staan om slimme verkoop en snellere overeenkomsten toe te laten.
 
 ## Sales Connect {#sales-connect}
 
-![(ster)](assets/star-yellow.svg)
+![(ster)](assets/yellow-star.png)
 
 * **[Verbeterde Tweepartijgoedkeuring voor de Vraag van de Verkoop:](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)** Admins heeft nu grotere controle over de configuraties van de vraagopname. [Laat vraag ](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) opname toe met vertrouwen dat u de twee-partij toestemmingswet naleeft. Automatiseer het bericht van de vraag die wordt geregistreerd en activeer audioclips om vóór de vraag worden gespeeld.
 
