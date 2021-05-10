@@ -4,7 +4,7 @@ user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
 translation-type: tm+mt
-source-git-commit: 77c1a3ddf700fd86da0f439c4a67ae4ed33a49df
+source-git-commit: ab9d2cbb58c32335d70d3c1fc6a75db37426018c
 workflow-type: tm+mt
 source-wordcount: '8024'
 ht-degree: 0%
@@ -809,7 +809,7 @@ ht-degree: 0%
                + [Sjabloon 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Sjabloon 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Sjabloon 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Sjabloon 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Template 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1050,8 +1050,8 @@ ht-degree: 0%
    + Marketo Sales Connect {#marketo-sales-connect}
       + Aan de slag {#getting-started}
          + [Overzicht van Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Aan de slag met Sales Connect](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
-         + [Mijn profielpagina](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Aan de slag met Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Mijn profielpagina](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [Video&#39;s en Tutorials snel starten](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Je wachtwoord voor verkoopverbinding wijzigen](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + E-mailinstellingen {#email-settings}
