@@ -2,9 +2,9 @@
 description: Opmerkingen bij de release - mei 2021 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2021
 translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
-source-wordcount: '1510'
+source-wordcount: '1557'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ Verscheidene kritieke updates aan Bulk en Lood APIs, met inbegrip van de capacit
 
 ## Aankondigingen {#announcements}
 
-* **Marketo Product Docs Switching Platforms**: We zijn blij te kunnen aankondigen dat de Marketo Product Docs vrijdag 7 mei lid zal worden van de Adobe Experience League. U kunt de URL nog steeds gebruiken: docs.marketo.com. Als u bestaande artikelen hebt gemarkeerd als bladwijzer, wordt u omgeleid. Alle huidige productdocumenten zullen beschikbaar zijn op het nieuwe platform, met verbeteringen gepland voor later dit jaar.
+* **Marketo Product Docs Switching Platforms**: We zijn blij te kunnen aankondigen dat de Marketo Product Docs op vrijdag 7 mei is toegetreden tot de Adobe Experience League. U kunt de URL nog steeds gebruiken: docs.marketo.com. Als u bestaande artikelen hebt gemarkeerd als bladwijzer, wordt u omgeleid. Alle productdocumenten zijn beschikbaar op het nieuwe platform, met verbeteringen gepland voor later dit jaar.
 
 * **Gestroomlijnd gebruikersbeheer en Single Sign-On met Adobe Identity System**: Vanaf juli 2021 worden de nieuwe Adobe Marketo Engage-klanten met gebruikersgegevens voor Adobe ingeschakeld. De migratie van huidige klanten naar het geïntegreerde identiteitssysteem zal pas medio 2022 plaatsvinden en er is geen actie van de klant nodig tot nader order. Single Sign-On stelt IT/Security-beheerders in staat om meerdere Adobe Marketo Engage-productinstanties samen met andere Experience Cloud-oplossingen te beheren en SSO (Shared Services Organisation) via een gemeenschappelijke console te configureren. Beheerders kunnen gebruikersgroepen en gebruikersrechten eenvoudig beheren via een algemene Admin Console.
+
+**_Webinar productrelease_**
+
+Wilt u meer weten over deze functies en verbeteringen? Vergeet niet om [nu te registreren](https://engage.marketo.com/May_21_Release_webinar_RegistrationPage.html) om 13 mei om 9:00 uur PT/12:00 PM ET voor een live webinar met ons productteam om een diepere duik in deze innovaties te nemen.
