@@ -3,10 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '8023'
+source-wordcount: '8038'
 ht-degree: 0%
 
 ---
@@ -38,7 +37,7 @@ ht-degree: 0%
       + [Een bestemmingspagina omleiden](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Een waarschuwing automatiseren voor mogelijke dubbele personen](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Een Marketo-instantie {#inheriting-a-marketo-instance} overnemen
-      + [Help! Ik heb een Bestaande Ingeerte Instantie van Marketo](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
+      + [Help! Ik heb een bestaande Marketo-instantie overgenomen](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Te controleren items](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Te beoordelen handelingen: Kernvaardigheden](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Manieren om hulp te krijgen](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
@@ -807,9 +806,9 @@ ht-degree: 0%
                + [Sjabloon 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Sjabloon 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Sjabloon 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Sjabloon 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Sjabloon 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Sjabloon 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Template 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1050,7 +1049,8 @@ ht-degree: 0%
    + Marketo Sales Connect {#marketo-sales-connect}
       + Aan de slag {#getting-started}
          + [Overzicht van Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-         + [Aan de slag met Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-with-sales-connect.md)
+         + [Toegang tot uw nieuwe Sales Connect-instantie](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
+         + [Sales Connect instellen](product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)
          + [Mijn profielpagina](product-docs/marketo-sales-connect/getting-started/my-profile-page.md)
          + [Video&#39;s en Tutorials snel starten](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Je wachtwoord voor verkoopverbinding wijzigen](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
@@ -1214,6 +1214,8 @@ ht-degree: 0%
       + Integratie {#integrations}
          + [Hoe te om E-mails aan Andere CRMs te registreren](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
+         + [Marketo-verbinding handmatig instellen](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [Toegang verlenen aan gebruikers](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interesserende momenten in MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [Een campagne zichtbaar maken voor Connect-gebruikers](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
       + Personen {#people}
