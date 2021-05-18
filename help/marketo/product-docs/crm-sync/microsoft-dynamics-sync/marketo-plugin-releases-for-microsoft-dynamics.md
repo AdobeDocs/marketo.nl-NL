@@ -3,8 +3,7 @@ unique-page-id: 10099389
 description: Marketo Plugin-releases voor Microsoft Dynamics - Marketo Docs - Productdocumentatie
 title: Marketo Plugin-releases voor Microsoft Dynamics
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 6%
@@ -41,7 +40,7 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
    <th>Notities</th> 
   </tr> 
   <tr> 
-   <td colspan="1">4.0.0.0</td> 
+   <td colspan="1">4.2.0.0</td> 
    <td colspan="1">16-10-20</td> 
    <td colspan="1">Toegevoegde ondersteuning voor Campagne Sync met MS Dynamics.</td> 
   </tr> 
@@ -86,7 +85,7 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
    <td colspan="1">Opgeloste problemen: Wanneer voor de lead een synchronisatiefilter was ingesteld op NO, en de opportunity en de contactpersoon geen synchronisatiefilter hadden, werd het logbestand maken niet gegenereerd voor de contactpersoon en de opportuniteit toen de lead werd gekwalificeerd.</td> 
   </tr> 
   <tr> 
-   <td colspan="1">2.0.0.16</td> 
+   <td colspan="1">4.0.0.16</td> 
    <td colspan="1">29-03-16</td> 
    <td>Opgeloste problemen: Er is een toewijzingsgebeurtenis geregistreerd toen het synchronisatiefilter was uitgeschakeld.</td> 
   </tr> 
@@ -114,5 +113,5 @@ Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt u de n
 </table>
 
 >[!MORELIKETHIS]
+[Download de Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)>
 >
->[Download de Marketo Lead Management Solution](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
