@@ -3,10 +3,9 @@ unique-page-id: 11378814
 description: Slimme accountlijsten - Marketo Docs - Productdocumentatie
 title: Slimme accountlijsten
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -14,10 +13,6 @@ ht-degree: 0%
 # Slimme accountlijsten {#account-smart-lists}
 
 Hieronder wordt beschreven hoe u uw hoogwaardige accounts snel en nauwkeurig kunt identificeren.
-
->[!NOTE]
->
->Deze functie wordt ingeschakeld voor alle in aanmerking komende Marketo-instanties op de avond van dinsdag 11 mei.
 
 >[!NOTE]
 >
