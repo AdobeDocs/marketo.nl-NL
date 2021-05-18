@@ -1,10 +1,9 @@
 ---
 description: Opmerkingen bij de release - mei 2021 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2021
-translation-type: tm+mt
-source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
+source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
 workflow-type: tm+mt
-source-wordcount: '1557'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -20,15 +19,6 @@ De volgende functies zijn opgenomen in de release van mei 1921. Raadpleeg de Mar
 **_Kwartaalreleases_**
 
 De volgende functies worden vrijgegeven op **7 mei 2021**.
-
->[!NOTE]
->
->Deze drie kenmerken zijn beschikbaar op de avond van dinsdag 11 mei:
->
->* **Slimme accountlijsten**
->* **Stappen voor campagnestroom uitvoeren**
->* **Filter E-mailboxactiviteit**
-
 
 ## Op account gebaseerde ervaringen {#Account-based-eaperiences}
 
@@ -82,7 +72,7 @@ Verscheidene kritieke updates aan Bulk en Lood APIs, met inbegrip van de capacit
 
 * **Zoeken op lead-id**: Open snel toegang tot het zoeken van lead records door de Adobe Marketo Engage lood-id te gebruiken in de hoofddatabase of in de statische lijst. Typ `[id]` in het venster Snel zoeken gewoon met het corresponderende nummer, waarna de informatie over de lead wordt weergegeven. Gebruikers kunnen snel de hoofd-, bedrijf- of opportuniteitsgegevens controleren.
 
-## Bizibel {#bizible}
+## Bizible {#bizible}
 
 ![](assets/yellow-star.png)
 
