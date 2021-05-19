@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '8038'
+source-wordcount: '8037'
 ht-degree: 0%
 
 ---
@@ -808,7 +808,7 @@ ht-degree: 0%
                + [Sjabloon 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Sjabloon 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Sjabloon 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Sjabloon 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Template 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
@@ -1214,7 +1214,7 @@ ht-degree: 0%
       + Integratie {#integrations}
          + [Hoe te om E-mails aan Andere CRMs te registreren](product-docs/marketo-sales-connect/integrations/how-to-log-emails-to-other-crms.md)
       + Marketo {#marketo}
-         + [Marketo-verbinding handmatig instellen](product-docs/marketo-sales-connect/marketo/manually-set-up-your-marketo-connection.md)
+         + [Uw Marketo-verbinding instellen](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Toegang verlenen aan gebruikers](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interesserende momenten in MSC](product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)
          + [Een campagne zichtbaar maken voor Connect-gebruikers](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
