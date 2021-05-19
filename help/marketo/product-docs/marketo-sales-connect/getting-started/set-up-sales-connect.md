@@ -1,9 +1,9 @@
 ---
 description: Verkoopverbinding instellen - Marketo-documenten - productdocumentatie
 title: Sales Connect instellen
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -12,9 +12,13 @@ ht-degree: 0%
 
 Dit document begeleidt u door de eerste stappen voor het instellen van uw nieuwe exemplaar van Sales Connect. Voor sommige van deze stappen is toegang vereist als Marketo-beheerder, Salesforce-beheerder en Sales Connect-beheerder. Volg de onderstaande hulplijnen om de installatie van de instantie te voltooien.
 
+>[!NOTE]
+>
+>**Beheerdersmachtigingen vereist.**
+
 ## Toegang tot uw nieuwe Marketo Sales Connect-account {#accessing-your-new-marketo-sales-connect-account}
 
-Als u Marketo Sales Connect hebt aangeschaft, wordt de toegang tot uw exemplaar ingericht via de beheersectie van Marketo. Klik hier voor instructies over hoe een Marketo-beheerder toegang kan verlenen tot uw nieuwe exemplaar.
+Als u Marketo Sales Connect hebt aangeschaft, wordt de toegang tot uw exemplaar ingericht via de beheersectie van Marketo. [Klik ](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md) hier voor instructies over hoe een Marketo-beheerder toegang kan verlenen tot uw nieuwe exemplaar.
 
 ![](assets/set-up-sales-connect-1.png)
 
