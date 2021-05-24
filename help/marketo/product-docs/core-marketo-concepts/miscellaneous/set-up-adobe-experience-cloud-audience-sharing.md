@@ -3,10 +3,9 @@ unique-page-id: 42762511
 description: Adobe Experience Cloud Audience Sharing instellen - Marketo Docs - Productdocumentatie
 title: Adobe Experience Cloud-publiek delen instellen
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 760e39e662f361831eed63d424b74dc90bbfd2e2
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,27 +20,27 @@ Als u publieksgegevens wilt delen met uw Adobe-toepassingen, moet u eerst uw Ado
 
 1. Klik in Marketo op **Admin**.
 
-   ![](assets/one-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-1.png)
 
-1. Klik onder Integratie op **Experience Cloud Audience Sharing**.
+1. Klik onder Integratie op **Adobe Organisatie toewijzen**.
 
-   ![](assets/two-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-2.png)
 
 1. Klik **Bewerken**.
 
-   ![](assets/three-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
 1. Voer uw Adobe IMS-organisatie-id in (leer hoe u dat [hier](https://docs.adobe.com/content/help/en/control-panel/using/faq.html) vindt) en klik op **OK**.
 
-   ![](assets/four-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
 1. Klik **Bevestigen**.
 
-   ![](assets/five-1.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-5.png)
 
 1. Klik **Close**.
 
-   ![](assets/six-2.png)
+   ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
    >[!NOTE]
    >
