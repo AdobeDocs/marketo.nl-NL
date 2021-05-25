@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Overzicht van Sales Connect - Marketo-documenten - Productdocumentatie
 title: Overzicht van Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-source-git-commit: b52765f3549615aa68789dfbd8376044bcd02b3f
+source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -86,5 +86,5 @@ Maak een eenvoudige slimme campagne om uw verkoopgebruikers toegang te geven tot
 Klaar om aan de slag te gaan? Klik op de onderstaande koppeling voor installatie-instructies.
 
 >[!MORELIKETHIS]
-[Sales Connect instellen](/help/marketo/product-docs/marketo-sales-connect/getting-started/set-up-sales-connect.md)>
+[Aan de slag voor Connect-beheerders](/help/marketo/product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)>
 >
