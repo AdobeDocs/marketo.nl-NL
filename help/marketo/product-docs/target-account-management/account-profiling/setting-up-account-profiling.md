@@ -2,18 +2,30 @@
 unique-page-id: 17432598
 description: Accountprofilering instellen - Marketo Docs - Productdocumentatie
 title: Accountprofielen instellen
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
+source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 0%
+source-wordcount: '150'
+ht-degree: 2%
 
 ---
-
 
 # Accountprofilering {#setting-up-account-profiling} instellen
 
 Voer de volgende stappen uit om accountprofielen te gebruiken.
+
+>[!CAUTION]
+>
+>De volgende velden moeten **not** zijn verborgen om Accountprofilering correct te laten werken.
+>
+>* Website
+>* Bedrijf
+>* E-mail
+>* Land
+
+>
+>
+Leer hoe u [hier een veld zichtbaar maakt](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
 1. Open **Doelaccountbeheer** in Mijn Marketo.
 
