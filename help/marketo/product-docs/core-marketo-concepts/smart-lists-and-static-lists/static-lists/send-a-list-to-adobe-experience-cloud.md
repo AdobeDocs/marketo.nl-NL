@@ -3,10 +3,9 @@ unique-page-id: 37356194
 description: Een lijst verzenden naar Adobe Experience Cloud - Marketo Docs - Productdocumentatie
 title: Een lijst naar Adobe Experience Cloud verzenden
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '783'
 ht-degree: 0%
 
 ---
@@ -18,8 +17,8 @@ ht-degree: 0%
 >Een implementatie van een Marketo-instantie die klaar is voor HIPAA, kan deze functie niet gebruiken.
 
 >[!PREREQUISITES]
+[Adobe Experience Cloud-publiek delen instellen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)>
 >
->[Adobe Experience Cloud-publiek delen instellen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## Ondersteunde doeltoepassingen {#supported-destination-applications}
 
@@ -55,8 +54,7 @@ Een statische lijst is dat, statisch. De lijst wordt alleen gewijzigd in Adobe E
    ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
 
    >[!NOTE]
-   >
-   >Het kan tot 6-8 uur duren voor het publiekslidmaatschap volledig in Adobe bevolkt.
+   Het kan tot 6-8 uur duren voor het publiekslidmaatschap volledig in Adobe bevolkt.
 
 ## Hoe te om een Gesynchroniseerde Lijst {#how-to-send-a-synced-list} te verzenden
 
@@ -106,7 +104,7 @@ U kunt voorkomen dat uw lijst op elk gewenst moment wordt gesynchroniseerd.
 
 **Delen naar Adobe Analytics**
 
-Voor klanten die zowel Adobe Audience Manager als Adobe Analytics bezitten, zal deze integratie toelaten om publiek van Marketo aan uw Suites van het Rapport van Adobe Analytics te delen, nochtans zijn er sommige extra configuratiestappen die in Adobe Audience Manager moeten worden genomen om dit toe te laten. Raadpleeg de documentatie bij Adobe Audience Manager voor meer informatie over het instellen van deze instelling: [https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html](https://docs.adobe.com/content/help/en/analytics/integration/audience-analytics/mc-audiences-aam.html).
+Voor klanten die zowel Adobe Audience Manager als Adobe Analytics bezitten, zal deze integratie toelaten om publiek van Marketo aan uw Suites van het Rapport van Adobe Analytics te delen, nochtans zijn er sommige extra configuratiestappen die in Adobe Audience Manager moeten worden genomen om dit toe te laten. Raadpleeg de documentatie bij Adobe Audience Manager voor meer informatie over het instellen van deze instelling: [https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 **Trait-gebruik voor Adobe Audience Manager-klanten**
 
