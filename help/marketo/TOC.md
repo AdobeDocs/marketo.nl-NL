@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 08afc55a09ac6577b4f8c0a64a1c0150b7d09a49
+source-git-commit: 394ababd11b39abc23f7761f3c91f03ca3778435
 workflow-type: tm+mt
-source-wordcount: '8040'
+source-wordcount: '8030'
 ht-degree: 0%
 
 ---
@@ -806,7 +806,7 @@ ht-degree: 0%
                + [Sjabloon 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Sjabloon 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Sjabloon 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Sjabloon 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
                + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Sjabloon 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
@@ -1242,7 +1242,6 @@ ht-degree: 0%
          + [Niet aanmelden bij activiteitenoverzicht](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Niet aangemeld bij Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Schakel Call Recording in](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [Hoe te om Uw Prioritaire Lijst van de Vraag in Verkoop te creëren Connect](product-docs/marketo-sales-connect/phone/how-to-create-your-priority-call-list-in-sales-connect.md)
          + [Hoe te om de Uitkomsten van de Vraag in Telefoon van de Verkoop aan te passen](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
          + [Telefoonnummer internationale oproep](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [Lokale aanwezigheid op verkooptelefoon](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
