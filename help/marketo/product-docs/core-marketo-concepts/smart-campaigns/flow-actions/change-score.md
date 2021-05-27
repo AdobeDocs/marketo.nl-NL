@@ -3,10 +3,9 @@ unique-page-id: 1146962
 description: Score wijzigen - Marketo Docs - Productdocumentatie
 title: Score wijzigen
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0b1c7c7f7cd0becc17ec7636977f34a7d23ca448
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -39,4 +38,5 @@ Het noteren van mensen is gemakkelijk en krachtig om uw verkoopteam te helpen vo
    * **-5** wordt verlaagd (negatieve getallen zijn toegestaan)
    * **=5** maakt de score precies dat aantal
    * **=-5** maakt de score exact een negatief getal
-   U kunt snel basisscoring instellen en de resultaten na verloop van tijd aanpassen. Dat is wat we deden!
+
+U kunt snel basisscoring instellen en de resultaten na verloop van tijd aanpassen. Dat is wat we deden!
