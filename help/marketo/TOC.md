@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 1c08cbd1bb7f7b3b7b6b12bb21a6eb35ee43c0e1
+source-git-commit: 3c4300d1d574ab779b32f7550dc2df2e5d3afe07
 workflow-type: tm+mt
-source-wordcount: '8028'
+source-wordcount: '8023'
 ht-degree: 0%
 
 ---
@@ -1051,7 +1051,6 @@ ht-degree: 0%
          + [Toegang tot uw nieuwe Sales Connect-instantie](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Aan de slag voor Connect-beheerders](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
          + [Uw profiel beheren](product-docs/marketo-sales-connect/getting-started/manage-your-profile.md)
-         + [Video&#39;s en Tutorials snel starten](product-docs/marketo-sales-connect/getting-started/quick-start-videos-and-tutorials.md)
          + [Je wachtwoord voor verkoopverbinding wijzigen](product-docs/marketo-sales-connect/getting-started/change-your-sales-connect-password.md)
          + E-mailinstellingen {#email-settings}
             + [Identiteit toevoegen](product-docs/marketo-sales-connect/getting-started/email-settings/add-identity.md)
