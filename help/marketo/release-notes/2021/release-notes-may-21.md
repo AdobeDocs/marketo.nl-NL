@@ -1,9 +1,9 @@
 ---
 description: Opmerkingen bij de release - mei 2021 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2021
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 813f06e6b54c8fb2f3029f92d642d25e39424b5e
 workflow-type: tm+mt
-source-wordcount: '1534'
+source-wordcount: '1481'
 ht-degree: 0%
 
 ---
@@ -39,8 +39,6 @@ Met algemene zoekvoorvertoning kunnen marketers snel zien waar een gedeeld eleme
 * **Spam-formulierverzendingen** blokkeren: Protect uw Adobe Marketo Engage-database van junk-gegevens die tot ongeldige waarschuwingen bij verkoop kunnen leiden, campagneruglogs kunnen activeren en ongewenste activiteiten kunnen maken. Het nieuwe validatiemechanisme wijst ongeldige formulierverzendingen af en stopt beide aanvallen. Uw gegevens zijn schoner en uw marketingcampagnes worden op de beoogde wijze uitgevoerd, waardoor het risico dat ongekwalificeerde leads naar verkoop worden verzonden, tot een minimum wordt beperkt.
 
 * **Waarschuwing** voor goedkeuring e-mailprogramma: Voorkomen dat onjuiste e-mailberichten worden verzonden wanneer de nieuwe bewerkingen zijn aangebracht in een eerder goedgekeurd programma.  De waarschuwing fungeert als leidraad wanneer een markeerteken wijzigingen toepast op een e-mailbericht dat al is goedgekeurd, maar vervolgens vergeet de laatste wijzigingen goed te keuren en het e-mailbericht verstuurt naar een groot publiek zonder inhoud, slechte inhoud of oude inhoud.
-
-* **Single Flow-actie in detailpagina** voor lead: Gebruikers toestaan stroomhandelingen uit te voeren, zoals het verzenden van e-mail, het wijzigen van de eigenaar van de lead of een andere slimme campagneactie voor afzonderlijke leads via het menu voor stroomactie. Marketers kunnen stroomhandelingen uitvoeren op leads zonder over te schakelen op de rasterweergave van de hoofddatabase.
 
 * **Filter E-mailboxactiviteit**: Voorkom onbedoelde verkoopwaarschuwingen en onjuiste e-mailrapportage via de nieuwe functie voor het filteren van bestandsactiviteiten via e-mail. Identificeer en filter uit opent en klikt die met e-mailbots kunnen worden geassocieerd inspecterend verbindingen die tot valse trekkers en verkoopalarm, of onjuiste rapportering leiden.
 
