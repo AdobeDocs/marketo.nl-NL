@@ -1,14 +1,13 @@
 ---
-description: Het Inzicht van de Verkoop van de Opstelling voor uw Team - Marketo Docs - de Documentatie van het Product
+description: Het Inzicht van de Verkoop voor uw Team instellen - de Documenten van Marketo - de Documentatie van het Product
 title: Het Inzicht van de Verkoop van de Opstelling voor uw Team
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
+source-git-commit: ecceb1a3aff3a2088379f8f4f2ac33e566f90e21
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
-
 
 # Het Inzicht van de Verkoop van de Opstelling voor uw Team {#setting-up-sales-insight-for-your-team}
 
@@ -38,15 +37,13 @@ Als u een specifiek profiel voor uw gebruikers van het Inzicht van de Verkoop he
 
    **Voor profielen die toegang hebben tot Verkoopoverzicht**:
 
-   * Schakel in Aangepaste toepassingsinstellingen de optie Marketo in om de toepassing Marketo zichtbaar te maken
-   * Wijzig in Tabinstellingen de tabbladen Markeren in Standaard ingeschakeld
-   * In de Toestemmingen van de Objecten van de Douane, controleer Gelezen, creeer, geef uit, en schrap op Config van het Inzicht van de Verkoop van de Verkoop van Marketo (als de gebruiker toegang tot config montages zou moeten hebben - typisch gebruikt voor Admins).
+   * Wijzig in Tabinstellingen de Marketo-tabbladen in Standaard ingeschakeld
+   * Schakel in Aangepaste objectmachtigingen de optie Lezen, Maken, Bewerken en Verwijderen in Marketo Sales Insight Config in (als de gebruiker toegang moet hebben tot de configuratie-instellingen - doorgaans wordt gebruikt voor Admins).
 
    **Voor profielen die geen toegang tot Verkoopinzicht** hebben:
 
-   * Schakel in Aangepaste toepassingsinstellingen de optie Marketo uit om de app Marketo te verbergen
-   * Wijzig in Tabinstellingen de tabbladen Markeren in Tabblad Verborgen
-   * Schakel in Aangepaste objectmachtigingen de optie Lezen, Maken, Bewerken en Verwijderen uit bij Configuratie Marktinformatie
+   * Wijzig in Tabinstellingen de tabbladen van Marketo in Tabblad Verborgen
+   * Schakel in Aangepaste objectmachtigingen de optie Lezen, Maken, Bewerken en Verwijderen uit in Marketo Sales Insight Config
 
 
 1. Klik **Opslaan** wanneer gereed.
