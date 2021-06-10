@@ -2,14 +2,13 @@
 unique-page-id: 1900573
 description: Een systeemtoken toevoegen als een koppeling in een e-mail - Marketo Docs - Productdocumentatie
 title: Een systeemtoken toevoegen als een koppeling in een e-mailbericht
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
+source-git-commit: 65caed388ac33fc9f3142102343fe43ebc186e6e
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Een systeemtoken toevoegen als een koppeling in een e-mail {#add-a-system-token-as-a-link-in-an-email}
 
@@ -50,6 +49,10 @@ Hieronder wordt beschreven hoe u ze aan een e-mail kunt toevoegen:
 1. Klik **Opslaan**.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
+
+>[!IMPORTANT]
+>
+>Als u deze benadering gebruikt om het &quot;viewAsWebpageLink&quot;systeemteken toe te voegen, kunt u **not** het met behulp van tokens met voeten treden. Gebruik in plaats daarvan [Een weergave als webpaginakoppeling toevoegen aan een e-mailbenadering](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md) waarmee u &quot;viewAsWebPageLink&quot; kunt overschrijven met behulp van tokens.
 
 >[!NOTE]
 >
