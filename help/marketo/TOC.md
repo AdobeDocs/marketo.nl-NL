@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: bcb477061434bbd8f80bde108ba1a13e7764113a
+source-git-commit: 2c4291548a19df230fa347f1a93f49ea02360419
 workflow-type: tm+mt
 source-wordcount: '8031'
 ht-degree: 0%
@@ -622,6 +622,8 @@ ht-degree: 0%
             + [Een gebeurtenis maken met GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Een gebeurtenis maken met een webvergadering van niveau 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
             + [Een gebeurtenis maken met ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
+            + [Een gebeurtenis maken met WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+            + [Een gebeurtenis met zoomen maken](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Een gebeurtenis maken met de Marketo ON24-adapter {#create-an-event-with-the-marketo-on24-adapter}
                + [Een gebeurtenis maken met de Marketo ON24-adapter](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [Gebeurtenisinstellingen configureren en Marketo synchroniseren met uw webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
@@ -634,8 +636,6 @@ ht-degree: 0%
                + [ON24-gebeurtenisintegratie testen](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md)
                + [Marketo On24-adaptergebeurtenissen](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
                + [Werken met de status van het Webinar-programma](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
-            + [Een gebeurtenis maken met WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
-            + [Een gebeurtenis met zoomen maken](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
       + Facebook {#facebook}
          + [Leads toevoegen aan een aangepast publiek in Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Een aangepast publiek maken in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
@@ -807,9 +807,9 @@ ht-degree: 0%
                + [Sjabloon 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Sjabloon 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Sjabloon 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Sjabloon 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Sjabloon 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Sjabloon 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Template 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
