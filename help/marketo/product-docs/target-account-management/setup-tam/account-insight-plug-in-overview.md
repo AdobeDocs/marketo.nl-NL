@@ -2,26 +2,27 @@
 unique-page-id: 12979282
 description: Overzicht van de plug-in Account Insight - Marketo Docs - Productdocumentatie
 title: Overzicht van de plug-in Account Insight
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
+source-git-commit: 90b2f0f251f0c5805188731d0a2e4deedf720d70
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
-# Overzicht van de insteekmodule Account Insight {#account-insight-plug-in-overview}
+# Overzicht van de plug-in Account Insight {#account-insight-plug-in-overview}
 
 Account Insight is een Chrome-plug-in die actionable TAM en accountinzichten voor uw verkoopteams bevat, zodat zij accounts effectiever kunnen gebruiken.
 
 >[!AVAILABILITY]
 >
->Het Inzicht van de Rekening is inbegrepen voor alle klanten die zowel TAM als het Inzicht van de Verkoop van de Marketo hebben. Voor klanten die alleen TAM hebben, is Account Insight beschikbaar als een aangeschafte add-on. Elke klant heeft maximaal 250 accountlicenties voor Insight. Neem contact op met je verkoper voor meer informatie. Het is niet beschikbaar voor klanten die geen TAM hebben.
+>Account Insight is inbegrepen voor alle klanten die zowel TAM als Marketo Sales Insight hebben. Voor klanten die alleen TAM hebben, is Account Insight beschikbaar als een aangeschafte add-on. Elke klant heeft maximaal 250 accountlicenties voor Insight. Neem contact op met je verkoper voor meer informatie. Het is niet beschikbaar voor klanten die geen TAM hebben.
 
 >[!CAUTION]
 >
 >De insteekmodule Account Insight werkt niet in abonnementen waarvoor [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (Single Sign-On) is ingeschakeld.
+
+>[!CAUTION]
 >
 >De CRM-context werkt voor Salesforce wanneer de plug-in wordt gestart vanuit een account, lead of contactpersoon. De CRM-context werkt niet voor Dynamics wanneer u de plug-in vanuit een account, lead of contactpersoon start. Voor de gebruikers van de Dynamiek, adviseren wij gebruikend de stop van de Inzicht van de Rekening.
 
@@ -80,5 +81,5 @@ Er kan op verschillende items worden geklikt. Klik op het account met de naam om
 Mooi cool spul!
 
 >[!MORELIKETHIS]
+[Account Insight instellen](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)>
 >
->[Account Insight instellen](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
