@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Marketo Sales Insight in Salesforce Enterprise/Unlimited - Marketo Docs - Productdocumentatie configureren
 title: Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: fbd8640d55a9a38936d060086f361b2281add47f
+source-git-commit: 2e0590d576e5f3ff5ae5e49854a33f04f74a6616
 workflow-type: tm+mt
-source-wordcount: '898'
+source-wordcount: '824'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,7 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
 
 ## Verkoopinzicht configureren in Marketo {#configure-sales-insight-in-marketo}
 
-1. Open een nieuw browservenster om de gegevens voor Marketo Sales Insight van uw Marketo-account op te halen.
-
-1. Ga naar het gebied Admin en selecteer **Sales Insight**.
+1. Vraag uw MSI-gegevens op in Marketo. Ga naar het gebied Admin en selecteer **Sales Insight**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-1.png)
 
@@ -48,6 +46,9 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
 1. Er verschijnt een bevestigingspop-up. Klik **OK**.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5.png)
+
+   >[!TIP]
+   Laat dit venster open. U hebt deze informatie later nodig in Salesforce.
 
 ## Verkoopinzicht configureren in Salesforce {#configure-sales-insight-in-salesforce}
 
@@ -71,50 +72,10 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Voer de naam van de externe site in (dit kan bijvoorbeeld &quot;MarketoRestAPI&quot; zijn). Voer de URL van de externe site in. Dit is de API-URL van het configuratievenster voor de rest van de API in Marketo. Klik **Opslaan**. U hebt nu externe site-instellingen voor de rest-API gemaakt.
-
-## Marketo Sales Insight instellen {#set-up-marketo-sales-insight}
-
-1. Meld u aan bij uw Marketo-exemplaar en klik op **Admin**.
-
-   ![](assets/login-admin.png)
-
-1. Klik **Sales Insight**.
-
-   ![](assets/image2015-5-22-15-3a12-3a33.png)
-
-1. Klik **API-configuratie bewerken**.
-
-   ![](assets/image2015-5-22-15-3a15-3a0.png)
-
-1. Voer een **API-beveiligingssleutel** in en klik op **Opslaan**.
-
-   >[!CAUTION]
-   Gebruik geen en-teken (&amp;) in de geheime API-sleutel.
-
-   ![](assets/image2015-5-27-16-3a36-3a56.png)
-
-   >[!TIP]
-   Laat dit venster open. U hebt deze informatie later nodig in Salesforce.
-
-1. Ga terug naar Salesforce, klik **Opstelling**.
-
-   ![](assets/image2015-5-22-14-3a40-3a39.png)
-
-1. Zoek naar &quot;verre plaats&quot;en klik **Verre Plaats** onder **Controles van de Veiligheid**.
-
-   ![](assets/image2014-9-24-17-3a25-3a52.png)
-
-1. Klik **Nieuwe verre Plaats**.
-
-   ![](assets/image2014-9-24-17-3a26-3a6.png)
-
-1. Typ **Naam externe site** en **URL externe site** en klik vervolgens op **Opslaan**.
-
-   ![](assets/remote-site.png)
+1. Voer de naam van de externe site in (dit kan bijvoorbeeld &quot;MarketoAPI&quot; zijn). Voer de URL van de externe site in. Dit is de API-URL van het configuratievenster voor de rest van de API in Marketo. Klik **Opslaan**. U hebt nu externe site-instellingen voor de rest-API gemaakt.
 
    >[!NOTE]
-   U kiest uw **Naam externe site** (MarketoAPI wordt hier gebruikt). De **Remote Site URL** vindt u in het veld Marketo-host van het dialoogvenster API-configuratie bewerken in stap 4.
+   _Kies_ hier uw  **externe sitenaam**  (MarketoAPI wordt hier gebruikt). De **Remote Site URL** vindt u in het veld Marketo-host van het dialoogvenster API-configuratie bewerken in stap 3 in de sectie &quot;Sales Insight in Marketo configureren&quot;.
 
 ## Paginalay-outs aanpassen {#customize-page-layouts}
 
