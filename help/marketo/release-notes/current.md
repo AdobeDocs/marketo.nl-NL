@@ -1,7 +1,7 @@
 ---
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
-source-git-commit: 3ccba65f76fa658dabb179d2ccc090ba71a948dd
+source-git-commit: f7750809ede818f9ce9562b161327d9b6c7b4973
 workflow-type: tm+mt
 source-wordcount: '1064'
 ht-degree: 0%
@@ -76,7 +76,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 * **Nieuw kleurendashboard** waterval: Op die manier kunnen de marktpartijen de voortgang van een geselecteerd cohort zien door middel van een klassieke reeks &quot;vraagwaterval&quot;-fasen, die een snel inzicht verschaffen in de omrekeningskoersen en de impliciete oorzaken van de omzetting in het stadium per fase.
 
 ## Bizible Integration in Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
- 
+
 Deze sectie bevat nieuwe functies voor Bizible-gebruikers die hun Adobe Identity Management System (IMS)-migratie hebben voltooid. Als u bent gemigreerd, ziet u de nieuwe Adobe ID in Bizible Settings onder het tabblad Adobe ID. Alle rekeningen moeten eind 2021 zijn gemigreerd.
 
 * **Bizible Integration met Adobe Privacy Service**: De integratie van Bizible met de Privacy Service van de Adobe centraliseert naleving van kritieke gegevensprivacyverordeningen (zoals GDPR) over Adobe Experience Cloud toepassingen. U kunt nu gebruikmaken van deze service en alle privacyverzoeken centraal beheren, zodat wijzigingsverzoeken die in Bizible en andere Adobe-producten worden ingediend, in alle toepassingen worden doorgevoerd.
