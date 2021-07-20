@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: Slimme accountlijsten - Marketo Docs - Productdocumentatie
 title: Slimme accountlijsten
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -16,9 +16,9 @@ Hieronder wordt beschreven hoe u uw hoogwaardige accounts snel en nauwkeurig kun
 
 >[!NOTE]
 >
->Deze functie is alleen beschikbaar voor gebruikers met zowel TAM als de Adobe Marketo Engage Next-Gen gebruikerservaring ingeschakeld.
+>Deze functie is alleen beschikbaar voor gebruikers met zowel de invoegtoepassing voor het beheer van doelaccounts als een TAM met licentie.
 
-## Een slimme lijst voor een account maken {#create-an-account-smart-list}
+## Een slimme accountlijst maken {#create-an-account-smart-list}
 
 1. Ga in Marketo naar **Marketingactiviteiten**.
 
@@ -42,7 +42,7 @@ Hieronder wordt beschreven hoe u uw hoogwaardige accounts snel en nauwkeurig kun
 
 Uw slimme lijst met accounts is gemaakt. Zie hieronder voor stappen over het definiëren van de regels.
 
-## Regels {#account-smart-list-rules} voor slimme accountlijsten
+## Slimme-lijstregels account {#account-smart-list-rules}
 
 De slimme Lijsten van de rekening werken zo gelijkaardig aan standaard Slimme Lijsten, met een opmerkelijke uitzondering: containers.
 
@@ -78,7 +78,7 @@ En dat is het! Bekijk de onderstaande sectie om te zien hoe u de Smart List voor
 >
 >Net als bij standaard slimme lijsten kunt u geavanceerde logica gebruiken om de resultaten verder te verfijnen. Hiervoor hebt u ten minste drie filters nodig en in Account Smart List is één container (ongeacht het aantal filters dat de container zelf bevat) gelijk aan één filter.
 
-## Handelingen voor slimme accountlijsten {#account-smart-list-actions}
+## Handelingen voor Smart List van account {#account-smart-list-actions}
 
 Op het tabblad Overzicht van de slimme lijst met accounts ziet u enkele actieopties.
 
