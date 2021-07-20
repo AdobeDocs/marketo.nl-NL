@@ -1,16 +1,16 @@
 ---
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
-source-git-commit: f7750809ede818f9ce9562b161327d9b6c7b4973
+source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1065'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release: augustus 2021 {#release-notes-aug-21}
 
-De volgende functies zijn opgenomen in de release van augustus &#39;21. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van augustus &#39;21. Controleer uw Marketo Engage-editie voor de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
