@@ -2,26 +2,25 @@
 unique-page-id: 42762514
 description: Overzicht van dashboardfuncties voor inzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van dashboardfuncties voor inzichten
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
+source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
 workflow-type: tm+mt
 source-wordcount: '1460'
 ht-degree: 0%
 
 ---
 
-
-# Overzicht van dashboardfuncties {#insights-dashboard-feature-overview}
+# Overzicht van dashboardfuncties voor inzichten {#insights-dashboard-feature-overview}
 
 Meer informatie over de functies die beschikbaar zijn op het dashboard Verkoopinzicht.
 
 >[!PREREQUISITES]
 >
->U moet het recentste pakket MSI SFDC en [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md) hebben.
+>U moet het recentste pakket MSI SFDC en [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md) hebben.
 
 ![](assets/one.png)
 
-## Contactlayout {#contact-layout}
+## Contactlay-out {#contact-layout}
 
 **Snelheidsraster voor betrokkenheid**
 
@@ -44,7 +43,7 @@ Meer informatie over de functies die beschikbaar zijn op het dashboard Verkoopin
 Tabblad E-mailcampagnes:
 
 * Bevat campagnes die onderdeel zijn van e-mailprogramma&#39;s of standaardprogramma&#39;s die in de komende 90 dagen zijn gepland
-* Niet specifiek voor de contact/lood (d.w.z., is de lijst van campagnes een generische lijst van alle e-mailcampagnes die in de instantie Marketo worden gepland). De lijst met campagnes in alle deelvensters voor leads, contact, account en opportuniteiten is gelijk
+* Niet specifiek voor de contactpersoon/lead (d.w.z. lijst met campagnes is een algemene lijst met alle e-mailcampagnes die in het Marketo-exemplaar zijn gepland). De lijst met campagnes in alle deelvensters voor leads, contact, account en opportuniteiten is gelijk
 * Als de terugkerende campagne van dien aard is dat het meer dan drie keer in de volgende 90 dagen loopt, slechts zullen de volgende drie looppas op om het even welk bepaald tijdstip (gelijkend op het gedrag in Marketo) worden getoond
 * De activiteitenkaart in deze sectie bevat een voorvertoningsoptie. Als de stroom meerdere verzendstappen bevat, zijn alle e-mails beschikbaar voor een voorvertoning. Als er meerdere &quot;e-mailkeuzen&quot; zijn, is de standaardoptie beschikbaar voor een voorvertoning in de stap E-mailverzending
 * Filters omvatten &quot;Zoeken&quot; en &quot;Datumbereik&quot;
@@ -62,7 +61,7 @@ Gebeurtenis, tabblad:
 
 ![](assets/two.png)
 
-## Leidinglayout {#lead-layout}
+## Layout lead {#lead-layout}
 
 **Snelheidsraster voor betrokkenheid**
 
@@ -85,7 +84,7 @@ Gebeurtenis, tabblad:
 Tabblad E-mailcampagnes:
 
 * Bevat campagnes die onderdeel zijn van e-mailprogramma&#39;s of standaardprogramma&#39;s die in de komende 90 dagen zijn gepland
-* Niet specifiek voor de contact/lood (d.w.z., is de lijst van campagnes een generische lijst van alle e-mailcampagnes die in de instantie Marketo worden gepland). De lijst met campagnes in alle deelvensters voor leads, contact, account en opportuniteiten is gelijk
+* Niet specifiek voor de contactpersoon/lead (d.w.z. lijst met campagnes is een algemene lijst met alle e-mailcampagnes die in het Marketo-exemplaar zijn gepland). De lijst met campagnes in alle deelvensters voor leads, contact, account en opportuniteiten is gelijk
 * Als de terugkerende campagne van dien aard is dat het meer dan drie keer in de volgende 90 dagen loopt, slechts zullen de volgende drie looppas op om het even welk bepaald tijdstip (gelijkend op het gedrag in Marketo) worden getoond
 * De activiteitenkaart in deze sectie bevat een voorvertoningsoptie. Als de stroom meerdere verzendstappen bevat, zijn alle e-mails beschikbaar voor een voorvertoning. Als er meerdere &quot;e-mailkeuzen&quot; zijn, is de standaardoptie beschikbaar voor een voorvertoning in de stap E-mailverzending
 * Filters omvatten &quot;Zoeken&quot; en &quot;Datumbereik&quot;
@@ -125,7 +124,7 @@ Gebeurtenis, tabblad:
 Tabblad E-mailcampagnes:
 
 * Bevat campagnes die onderdeel zijn van e-mailprogramma&#39;s of standaardprogramma&#39;s die in de komende 90 dagen zijn gepland
-* Niet specifiek voor de contact/lood (d.w.z., is de lijst van campagnes een generische lijst van alle e-mailcampagnes die in de instantie Marketo worden gepland). De lijst met campagnes in alle deelvensters voor leads, contact, account en opportuniteiten is gelijk
+* Niet specifiek voor de contactpersoon/lead (d.w.z. lijst met campagnes is een algemene lijst met alle e-mailcampagnes die in het Marketo-exemplaar zijn gepland). De lijst met campagnes in alle deelvensters voor leads, contact, account en opportuniteiten is gelijk
 * Als de terugkerende campagne van dien aard is dat het meer dan drie keer in de volgende 90 dagen loopt, slechts zullen de volgende drie looppas op om het even welk bepaald tijdstip (gelijkend op het gedrag in Marketo) worden getoond
 * De activiteitenkaart in deze sectie bevat een voorvertoningsoptie. Als de stroom meerdere verzendstappen bevat, zijn alle e-mails beschikbaar voor een voorvertoning. Als er meerdere &quot;e-mailkeuzen&quot; zijn, is de standaardoptie beschikbaar voor een voorvertoning in de stap E-mailverzending
 * Filters omvatten &quot;Zoeken&quot; en &quot;Datumbereik&quot;
@@ -139,7 +138,7 @@ Gebeurtenis, tabblad:
 * Actiedetails-kaart in deze sectie bevat voorvertoningsoptie
 * Filter bevat &quot;Zoeken&quot;, &quot;Alleen uitgenodigde gebeurtenissen tonen&quot; en &quot;Datumbereik&quot;
 
-## Opportunity-layout {#opportunity-layout}
+## Opportunity-indeling {#opportunity-layout}
 
 **Snelheidsraster voor betrokkenheid**
 
@@ -159,7 +158,7 @@ Gebeurtenis, tabblad:
 **Aanstaande e-mailcampagnes en** gebeurtenissenE-mailcampagnes tabblad:
 
 * Bevat campagnes die onderdeel zijn van e-mailprogramma&#39;s of standaardprogramma&#39;s die in de komende 90 dagen zijn gepland
-* Niet specifiek voor de contact/lood (d.w.z., is de lijst van campagnes een generische lijst van alle e-mailcampagnes die in de instantie Marketo worden gepland). De lijst met campagnes in alle deelvensters voor leads, contact, account en opportuniteiten is gelijk
+* Niet specifiek voor de contactpersoon/lead (d.w.z. lijst met campagnes is een algemene lijst met alle e-mailcampagnes die in het Marketo-exemplaar zijn gepland). De lijst met campagnes in alle deelvensters voor leads, contact, account en opportuniteiten is gelijk
 * Als de terugkerende campagne van dien aard is dat het meer dan drie keer in de volgende 90 dagen loopt, slechts zullen de volgende drie looppas op om het even welk bepaald tijdstip (gelijkend op het gedrag in Marketo) worden getoond
 * De activiteitenkaart in deze sectie bevat een voorvertoningsoptie. Als de stroom meerdere verzendstappen bevat, zijn alle e-mails beschikbaar voor een voorvertoning. Als er meerdere &quot;e-mailkeuzen&quot; zijn, is de standaardoptie beschikbaar voor een voorvertoning in de stap E-mailverzending
 * Filters omvatten &quot;Zoeken&quot; en &quot;Datumbereik&quot;
