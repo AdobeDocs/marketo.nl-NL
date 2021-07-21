@@ -3,15 +3,14 @@ unique-page-id: 37357276
 description: Opmerkingen bij de release - Juni '20 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni '20
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
-translation-type: tm+mt
-source-git-commit: d44f5e6f3fb24a25678e4d15ee4c6361b658556b
+source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
 workflow-type: tm+mt
 source-wordcount: '1071'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Juni &#39;20 {#release-notes-june}
+# Opmerkingen bij de release: 20 juni {#release-notes-june}
 
 De volgende functies zijn opgenomen in de release van 20 juni. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
@@ -47,7 +46,7 @@ De volgende functies zijn opgenomen in de release van 20 juni. Raadpleeg de Mark
 
 De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden de komende maanden vrijgegeven.
 
-## Bizibel {#bizible}
+## Bizible {#bizible}
 
 ![(ster)](assets/yellow-star.png)
 
@@ -57,11 +56,11 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 * **Bizible Discover Filters and Enhancements**: Analyseer uw gegevens met kanaal, subchannel, campagne, en segmentfilters over dashboards. Verbeter de zichtbaarheid van gegevens met meer boor-down kenmerken. Dit is een verbetering van onze Discover Boards.
 * **Activiteiten synchroniseren voor Microsoft Dynamics**: De verkoopinteractie van attributen door de activiteiten van CRM van de Dynamica van Microsoft aan de tochpoint reis en spoorgebeurtenissen zoals vraag, benoemingen, of taken te brengen verbonden aan uw lood of contacten. Verbetering aan onze integratie van CRM van de Dynamica van Microsoft.
 
-## Verkoopinzicht {#sales-insight}
+## Verkoopoverzicht {#sales-insight}
 
 ![(ster)](assets/yellow-star.png)
 
-* **[Insights Dashboard voor Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: We stellen ons de mogelijkheden van het Verkoopinzicht met nieuwe zichtbaarheid voor in toekomstige marketingevenementen en campagnes om verkopers de mogelijkheid te geven om aanbevelingen die meer relevant zijn voor klanten en vooruitzichten te doen op basis van hun behoeften en belangen. Verkopers kunnen ook zowel de activiteit van de contactpersoon als de account binnen de tijdlijn bekijken en eenvoudig toegang krijgen tot aanvullende activiteitengegevens. Meer informatie over het upgraden van uw pakket [hier](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/configuration-for-existing-customers.md).
+* **[Insights Dashboard voor Salesforce CRM](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**: We stellen ons de mogelijkheden van het Verkoopinzicht met nieuwe zichtbaarheid voor in toekomstige marketingevenementen en campagnes om verkopers de mogelijkheid te geven om aanbevelingen die meer relevant zijn voor klanten en vooruitzichten te doen op basis van hun behoeften en belangen. Verkopers kunnen ook zowel de activiteit van de contactpersoon als de account binnen de tijdlijn bekijken en eenvoudig toegang krijgen tot aanvullende activiteitengegevens. Meer informatie over het upgraden van uw pakket [hier](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 <br> 
 
