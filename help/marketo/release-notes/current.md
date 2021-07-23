@@ -1,9 +1,9 @@
 ---
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -77,9 +77,9 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Bizible Integration in Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
 
-Deze sectie bevat nieuwe functies voor Bizible-gebruikers die hun Adobe Identity Management System (IMS)-migratie hebben voltooid. Als u bent gemigreerd, ziet u de nieuwe Adobe ID in Bizible Settings onder het tabblad Adobe ID. Alle rekeningen moeten eind 2021 zijn gemigreerd.
+Deze sectie bevat nieuwe functies voor Bizible-gebruikers die hun Adobe Identity Management System (IMS)-migratie hebben voltooid. Als u bent gemigreerd, ziet u de nieuwe Adobe ID in Bizible Settings onder het tabblad Adobe ID. Alle rekeningen zouden tegen eind 2021 moeten zijn gemigreerd.
 
-* **Bizible Integration met Adobe Privacy Service**: De integratie van Bizible met de Privacy Service van de Adobe centraliseert naleving van kritieke gegevensprivacyverordeningen (zoals GDPR) over Adobe Experience Cloud toepassingen. U kunt nu gebruikmaken van deze service en alle privacyverzoeken centraal beheren, zodat wijzigingsverzoeken die in Bizible en andere Adobe-producten worden ingediend, in alle toepassingen worden doorgevoerd.
+* **Bizible Integration with Adobe Privacy Service**  (beschikbaar in september 2021): De integratie van Bizible met de Privacy Service van de Adobe centraliseert naleving van kritieke gegevensprivacyverordeningen (zoals GDPR) over Adobe Experience Cloud toepassingen. U kunt nu gebruikmaken van deze service en alle privacyverzoeken centraal beheren, zodat wijzigingsverzoeken die in Bizible en andere Adobe-producten worden ingediend, in alle toepassingen worden doorgevoerd.
 
 * **Bizible op Adobe Unified Shell**: De goedkeuring van Bizible van Adobe Verenigde Shell geeft gebruikers nieuwe mogelijkheden die in de Bizible bar van de toepassingskopbal zullen verschijnen en betere toegang tot steunmiddelen en toepassingsomschakeling omvatten. De Adobe verenigde hulp van Shell leidt tot een verenigbare ervaring tussen Bizible en andere toepassingen van Adobe Experience Cloud.
 
