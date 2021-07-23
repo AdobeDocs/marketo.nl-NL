@@ -2,10 +2,9 @@
 description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-translation-type: tm+mt
-source-git-commit: b5d5e5895ca315976650123875777fe43854ea60
+source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -23,7 +22,7 @@ Welkom bij de Marketo Engage-ervaring van de volgende generatie, een nieuwe inte
 >* *.mktoweb.com
 
 
-## Neem de Rondleiding {#take-the-tour}
+## Neem de rondleiding {#take-the-tour}
 
 Bij eerste login, zal pop-up verschijnen, klaar om u de ondergang van de nieuwe ervaring te geven. Hoofden omhoog, als u verkiest om het over te slaan, zal het **not** later beschikbaar zijn.
 
@@ -58,6 +57,10 @@ U hebt ook snel toegang tot uw insteekmodule-id, die nu wordt weergegeven in de 
 ## Nieuwe structuuropties {#new-tree-options}
 
 Er zijn veel nieuwe boomfuncties beschikbaar.
+
+>[!NOTE]
+>
+>Als u een zoekopdracht uitvoert in de structuur, worden alleen de eerste 250 resultaten weergegeven. Als u na een zoekopdracht uw middel niet kunt vinden, gebruikt u de functie [Globaal zoeken](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md).
 
 **Marketo Classic versus de nieuwe Marketo**
 
@@ -171,7 +174,7 @@ Er zijn veel nieuwe boomfuncties beschikbaar.
  </tbody>
 </table>
 
-## Globaal Nav {#global-nav}
+## Global Nav {#global-nav}
 
 Kijk eens naar de nieuwe Global Nav.
 
@@ -188,7 +191,7 @@ Kijk eens naar de nieuwe Global Nav.
    <td>Alle vorige superbalkobjecten weergegeven</td> 
   </tr>
   <tr>
-   <td>1</td> 
+   <td>3</td> 
    <td>Op deze manier kun je feedback geven over je MEUE-ervaring</td> 
   </tr>
   <tr>
