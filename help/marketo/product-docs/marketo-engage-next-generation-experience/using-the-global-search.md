@@ -1,18 +1,17 @@
 ---
-description: Het gebruiken van Globale Onderzoek - Marketo Docs - de Documentatie van het Product
+description: De wereldwijde zoekfunctie gebruiken - Marketo Docs - Productdocumentatie
 title: De algemene zoekopdracht gebruiken
-translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
+source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 1%
 
 ---
 
+# De algemene zoekopdracht gebruiken {#using-the-global-search}
 
-# Globale zoekopdracht gebruiken {#using-the-global-search}
-
-De krachtige algemene zoekopdracht biedt u veel opties. Laten we er even over gaan.
+De krachtige algemene zoekopdracht biedt u veel opties zonder beperkingen op de weergegeven resultaten.
 
 ## Resultaten automatisch aanvullen {#autocomplete-results}
 
@@ -65,8 +64,8 @@ Gebruik de volledige zoekopdracht als de resultaten van Automatisch aanvullen u 
    <td>Datums/tijden waarop het item is gemaakt/laatstelijk gewijzigd</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Kies een specifieke hoofdsectie Marketo waarnaar u wilt zoeken of doorzoeken in één keer</td> 
+   <td>1</td> 
+   <td>Kies een specifieke Marketo-hoofdsectie die u wilt doorzoeken of doorzoeken in één keer</td> 
   </tr>
   <tr>
    <td>4</td> 
@@ -83,6 +82,6 @@ OPTIONELE STAP: Als u de details van een item wilt zien, klikt u in de witruimte
 
 ![](assets/using-the-global-search-10.png)
 
-OPTIONELE STAP: Als u rechtstreeks naar het laatste item in een broodkruimel wilt gaan, klikt u erop OF houdt u de muisaanwijzer boven de spatie in de rij totdat het pictogram hieronder wordt weergegeven. Klik vervolgens op de spatie.
+OPTIONELE STAP: Als u rechtstreeks naar het laatste item in een broodkruimel wilt gaan, klikt u erop OF houdt u de muisaanwijzer boven de spatie in de rij totdat het pictogram hieronder wordt weergegeven en klikt u erop.
 
 ![](assets/using-the-global-search-11.png)
