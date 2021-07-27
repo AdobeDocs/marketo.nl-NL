@@ -2,37 +2,36 @@
 unique-page-id: 45417125
 description: Verkoopoverzicht voor niet-native Salesforce-integratie - Marketo Docs - Productdocumentatie
 title: Verkoopoverzicht voor niet-native Salesforce-integratie
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
+source-git-commit: 73c5375c6e2ec3b2dce09595be1f61f302ff4c25
 workflow-type: tm+mt
-source-wordcount: '1277'
+source-wordcount: '1300'
 ht-degree: 0%
 
 ---
 
-
 # Verkoopoverzicht voor niet-native Salesforce-integratie {#sales-insight-for-non-native-salesforce-integrations}
 
-Als uw Marketo-account via een aangepaste of niet-native integratie is verbonden met Salesforce, gebruikt u dit document om Sales Insight te configureren.
+Als uw Marketo-account op Salesforce is aangesloten via een aangepaste of niet-native integratie, gebruikt u dit document om Sales Insight te configureren.
 
 >[!PREREQUISITES]
 >
->* De markering van de &quot;niet-inheemse MSI&quot;eigenschap die voor uw instantie van Marketo wordt toegelaten alvorens u opstelling MSI (als het niet is, contacteer uw Manager van het Succes van de Klant).
+>* De functie &quot;Niet-native MSI&quot; die voor uw Marketo-instantie is ingeschakeld voordat u MSI instelt (als dit niet het geval is en u de functie al hebt aangeschaft, neemt u contact op met [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) - als u deze functie nog niet hebt aangeschaft, neemt u contact op met uw Customer Success Manager).
 >* Een Salesforce-account met [MSI Package set up](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md).
->* Marketo REST API [met succes opstelling](https://developers.marketo.com/rest-api/). De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
+>* Marketo REST API [is correct ingesteld](https://developers.marketo.com/rest-api/). De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
 >* Lees [dit blogbericht](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/) om meer inzicht te krijgen in het object en de relaties.
 >* Stel Salesforce-objecten in om de algemeen unieke id weer te geven voor 18 hoofdletters en kleine letters in plaats van voor 15 hoofdletters en kleine letters.
 
 
 >[!NOTE]
 >
->De configuratie van de REST API in het Admin Panel van Marketo MSI kan niet voor de niet-inheemse synchronisatie worden gebruikt.
+>De configuratie van de REST API in het deelvenster Marketo MSI Admin kan niet worden gebruikt voor de niet-native synchronisatie.
 
-## Voor geslaagde niet-native synchronisatie voor MSI is het volgende {#successful-non-native-sync-for-msi-requires-the-following} vereist
+## Voor een geslaagde externe synchronisatie van MSI is het volgende vereist {#successful-non-native-sync-for-msi-requires-the-following}
 
-1. Synchroniseer de Salesforce-verkoopgebruiker naar Marketo.
+1. Synchroniseer de verkoopgebruiker van Salesforce naar Marketo.
 
-   De verkoopgebruiker van Salesforce is een externe gebruiker die de Leads/Contacten in Salesforce bezit. Een verkoper van de Marketo moet voor de Gebruiker van de Verkoop van Salesforce worden bevestigd. Het veld *externalSalesPersonId* is verplicht voor de invoeging van de verkoper.
+   De verkoopgebruiker van Salesforce is een externe gebruiker die de Leads/Contacten in Salesforce bezit. Een Marketo-verkoper moet worden geüpserd voor de verkoper van Salesforce. Het veld *externalSalesPersonId* is verplicht voor de invoeging van de verkoper.
 
 <table> 
  <colgroup> 
@@ -42,14 +41,14 @@ Als uw Marketo-account via een aangepaste of niet-native integratie is verbonden
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Veld verkoper markeren</strong></td> 
+   <td><strong>Veld Marketo-verkoper</strong></td> 
    <td><strong>Verkoopgebruikersveld Salesforce</strong></td> 
    <td><strong>Beschrijving</strong></td> 
   </tr> 
   <tr> 
    <td>externalSalesPersonId</td> 
    <td>Niet-gevoelige wereldwijde unieke identificatiecode voor verkoopgevallen van Salesforce</td> 
-   <td><p>Identificeert het dossier van de Verkoper van de Marketo aan een extern voorwerp van de Gebruiker van de Verkoop van Salesforce.</p><p>Het is verplicht dat de persoon van de Verkoop eerst wordt gesynchroniseerd alvorens de andere voorwerpen te synchroniseren zodat de juiste verhoudingen zullen worden gecreeerd.</p></td> 
+   <td><p>Hiermee wordt de Marketo Sales Person-record geïdentificeerd voor een extern Salesforce Sales-object.</p><p>Het is verplicht dat de persoon van de Verkoop eerst wordt gesynchroniseerd alvorens de andere voorwerpen te synchroniseren zodat de juiste verhoudingen zullen worden gecreeerd.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -59,7 +58,7 @@ API-documentatie voor het synchroniseren van de verkoper: [https://developers.ma
 
 1. Synchroniseer de Salesforce-accounts met Marketo.
 
-   Een Marketo Company zal voor de Rekening van Salesforce moeten worden opgenomen. De _externalCompanyId_ en _externalSalesPersonId_ gebieden worden verplicht voor de opnemer van het Bedrijf.
+   Een Marketo Company moet worden geüpserd voor de Salesforce-account. De _externalCompanyId_ en _externalSalesPersonId_ gebieden worden verplicht voor de opnemer van het Bedrijf.
 
 <table> 
  <colgroup> 
@@ -69,19 +68,19 @@ API-documentatie voor het synchroniseren van de verkoper: [https://developers.ma
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Veld Marketo Company</strong></td> 
+   <td><strong>Marketo Company Field</strong></td> 
    <td><strong>Salesforce-accountveld</strong></td> 
    <td><strong>Beschrijving</strong></td> 
   </tr> 
   <tr> 
    <td>externalCompanyId</td> 
    <td>Niet-gevoelige algemene unieke id voor Salesforce-account</td> 
-   <td>Identificeert een verslag van het Bedrijf van de Marketo aan een extern voorwerp van de Rekening Salesforce.</td> 
+   <td>Hiermee wordt een Marketo Company-record geïdentificeerd voor een extern Salesforce-accountobject.</td> 
   </tr> 
   <tr> 
    <td>externalSalesPersonId</td> 
    <td>Niet-gevoelige wereldwijde unieke identificatiecode voor verkoopgevallen van Salesforce</td> 
-   <td>Identificeert een verslag van het Bedrijf van de Marketo aan een extern voorwerp van de Gebruiker van de Verkoop Salesforce dat de Rekeningeigenaar is.<br><br>Ook gebruikt binnen Marketo om het Bedrijf aan de Persoon van de Verkoop te associëren die het verslag van het Bedrijf bezit. De verkoper moet eerst worden gesynchroniseerd voordat dit veld wordt ingesteld.</td> 
+   <td>Hiermee wordt een Marketo Company-record geïdentificeerd voor een extern Salesforce Sales-object dat de eigenaar van de account is.<br><br>Wordt ook binnen Marketo gebruikt om het bedrijf te koppelen aan de verkoper die eigenaar is van het bedrijfsrecord. De verkoper moet eerst worden gesynchroniseerd voordat dit veld wordt ingesteld.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -89,9 +88,9 @@ API-documentatie voor het synchroniseren van de verkoper: [https://developers.ma
 API-documentatie voor bedrijven: [https://developers.marketo.com/rest-api/lead-database/companies/](https://developers.marketo.com/rest-api/lead-database/companies/)\
 `API documentation for syncing Companies:  [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Companies/syncCompaniesUsingPOST)`
 
-1. Synchroniseer de Salesforce-contacten met Marketo.
+1. Synchroniseer de Salesforce-leads/contactpersonen met Marketo.
 
-   U moet een Marketo-lead bijwerken voor de Salesforce-lead/contactpersoon. De _externalPersonId_, _externalSalesPersonId_, en _externalCompanyId_ gebieden zijn verplicht voor de bovenkant van de Lood.
+   U dient een Marketo-lead bij te voegen voor de Salesforce-lead/contactpersoon. De _externalPersonId_, _externalSalesPersonId_, en _externalCompanyId_ gebieden zijn verplicht voor de bovenkant van de Lood.
 
 <table> 
  <colgroup> 
@@ -101,14 +100,14 @@ API-documentatie voor bedrijven: [https://developers.marketo.com/rest-api/lead-d
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Veld voor regelafstand markeren</strong></td> 
+   <td><strong>Marketo Lead Field</strong></td> 
    <td><strong>Salesforce-lead/contactveld</strong></td> 
    <td><strong>Beschrijving</strong></td> 
   </tr> 
   <tr> 
    <td>externalPersonId</td> 
    <td>Salesforce lead/Contact case-insensitive global unique identifier</td> 
-   <td>Identificeert de Marketo Lead-record naar een extern Salesforce Lead/Contact-object.<br><br>Dit is een nieuw gebied dat voor MSI niet-Native wordt geïntroduceerd.</td> 
+   <td>Hiermee wordt de Marketo Lead-record geïdentificeerd voor een extern Salesforce Lead/Contact-object.<br><br>Dit is een nieuw gebied dat voor MSI niet-Native wordt geïntroduceerd.</td> 
   </tr> 
   <tr> 
    <td>externalSalesPersonId</td> 
@@ -118,7 +117,7 @@ API-documentatie voor bedrijven: [https://developers.marketo.com/rest-api/lead-d
   <tr> 
    <td>externalCompanyId</td> 
    <td>Niet-gevoelige algemene unieke id voor Salesforce-account</td> 
-   <td>Hiermee wordt het externe Salesforce-accountobject aangegeven waartoe de lead/contactpersoon behoort.<br><br>Heeft ook betrekking op het loodrecord van een Bedrijf in Marketo. U moet de Salesforce-account eerst correct synchroniseren.</td> 
+   <td>Hiermee wordt het externe Salesforce-accountobject aangegeven waartoe de lead/contactpersoon behoort.<br><br>Heeft ook betrekking op de loodrecord van een bedrijf in Marketo. U moet de Salesforce-account eerst correct synchroniseren.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -138,14 +137,14 @@ API-documentatie voor het synchroniseren van leads:  [https://developers.marketo
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Objectveld Marketo Opportunity</strong></td> 
+   <td><strong>Veld Marketo Opportunity-object</strong></td> 
    <td><strong>Salesforce Opportunity Object Field</strong></td> 
    <td><strong>Beschrijving</strong></td> 
   </tr> 
   <tr> 
    <td>externalOpportunityId</td> 
    <td>Salesforce lead/Contact case-insensitive global unique identifier</td> 
-   <td>Hiermee wordt de Marketo Opportunity-record geïdentificeerd voor een extern Salesforce Opportunity-object.</td> 
+   <td>Identificeert de opportunityrecord van Marketo naar een extern Salesforce Opportunity-object.</td> 
   </tr> 
   <tr> 
    <td>externalCompanyId</td> 
@@ -165,7 +164,7 @@ API-documentatie voor Opportunity: [`https://developers.marketo.com/rest-api/lea
 
 1. Synchroniseer Salesforce-contactrollen naar Marketo.
 
-   De Rollen van het Contact van Salesforce voor een Kans van Salesforce kunnen dan via de Rol van de Kans van de Marketo worden gesynchroniseerd. In de opportunityrolrecord worden de velden _externalOpportunityId_, _rol_ en _leadId_ verplicht.
+   De Rollen van het Contact van Salesforce voor een Kans van Salesforce kunnen dan via de Rol van de Kans van Marketo worden gesynchroniseerd. In de opportunityrolrecord worden de velden _externalOpportunityId_, _rol_ en _leadId_ verplicht.
 
 <table> 
  <colgroup> 
@@ -175,19 +174,19 @@ API-documentatie voor Opportunity: [`https://developers.marketo.com/rest-api/lea
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Rolveld Marketo Opportunity</strong></td> 
+   <td><strong>Marketo Opportunity Role Field</strong></td> 
    <td><strong>Salesforce-veld Contactrol</strong></td> 
    <td><strong>Beschrijving</strong></td> 
   </tr> 
   <tr> 
    <td>externalOpportunityId</td> 
    <td>Niet-hoofdlettergevoelig algemeen unieke id voor Salesforce Opportunity</td> 
-   <td>Hiermee wordt de rol Marketo Opportunity voor een extern Salesforce Opportunity-object geïdentificeerd.<br><br>De Salesforce Opportunity moet eerst correct worden gesynchroniseerd.</td> 
+   <td>Identificeert de Rol van de Kans van Marketo aan een extern voorwerp van de Kans van Salesforce.<br><br>De Salesforce Opportunity moet eerst correct worden gesynchroniseerd.</td> 
   </tr> 
   <tr> 
    <td>leadId</td> 
-   <td>N.v.t. zou dit een Marketo Lead ID zijn</td> 
-   <td>Dit zou de Marketo Lead-id van de gesynchroniseerde Salesforce-contactpersoon zijn.<br><br>Zodra het contact in Marketo wordt gesynchroniseerd, kunt u het geval-ongevoelige globaal unieke herkenningsteken van het Contact Salesforce gebruiken als externalPersonId en vraag voor de Lood van het Marketo gebruikend de REST API van de Marketo.</td> 
+   <td>N.v.t., dit zou een Marketo Lead ID zijn</td> 
+   <td>Dit zou de Marketo Lead-id van de gesynchroniseerde Salesforce-contactpersoon zijn.<br><br>Zodra het contact in Marketo wordt gesynchroniseerd, kunt u het geval-ongevoelige globale uniek herkenningsteken van het Contact van Salesforce gebruiken als externalPersonId en vraag voor de Lood van Marketo gebruikend Marketo REST API.</td> 
   </tr> 
   <tr> 
    <td>rol</td> 
@@ -202,9 +201,9 @@ API-documentatie voor Opportunity: [`https://developers.marketo.com/rest-api/lea
 
 1. Synchroniseer de velden Laatste interessant moment/MSI-score naar SFDC.
 
-   Zodra uw voorwerpen Salesforce correct aan Marketo worden gesynchroniseerd, kunt u uit de eigenschappen MSI voordeel halen. De velden MSI Last Interesting Moment/Scoring worden weergegeven in de REST API voor leads. Deze velden worden berekend door MSI en zijn alleen-lezen.
+   Zodra uw Salesforce-objecten correct zijn gesynchroniseerd met Marketo, kunt u de MSI-functies benutten. De velden MSI Last Interesting Moment/Scoring worden weergegeven in de REST API voor leads. Deze velden worden berekend door MSI en zijn alleen-lezen.
 
-   De velden Laatste interessante momenten/Scores van een Marketo Lead moeten regelmatig worden gesynchroniseerd met Salesforce met behulp van het REST API Lead-eindpunt. Vraag dit eindpunt voor een Lood van de Marketo gebruikend _externalPersonId_ als filterType en het overgaan in Salesforce leiden GUID als filterValue.
+   De velden Laatste interessante momenten/scores van een Marketo-lead moeten regelmatig worden gesynchroniseerd met Salesforce met behulp van het REST API-eindpunt Lead. Vraag dit eindpunt voor een Lood van Marketo gebruikend _externalPersonId_ als filterType en het overgaan in Salesforce Lood GUID als filterValue.
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|
@@ -219,7 +218,7 @@ API-documentatie voor Opportunity: [`https://developers.marketo.com/rest-api/lea
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Veld voor regelafstand markeren</strong></td> 
+   <td><strong>Marketo Lead Field</strong></td> 
    <td><strong>Salesforce-lead/contactveld</strong></td> 
    <td><strong>Beschrijving</strong></td> 
   </tr> 
