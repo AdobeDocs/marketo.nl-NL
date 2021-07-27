@@ -3,10 +3,9 @@ unique-page-id: 10098625
 description: Werken met Microsoft Dynamics Sync - Marketo Docs - Productdocumentatie
 title: Werken met Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 80651a7d3d416f27ef13184b11757943c98bd781
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -18,6 +17,10 @@ Marketo en Microsoft Dynamics gaan samen. We houden je verkoop- en marketinggege
 >[!NOTE]
 >
 >Marketo ondersteunt alleen SSL-certificaten die op dit moment compatibel zijn met Java 7.
+
+>[!CAUTION]
+>
+>Sandboxvernieuwing voor Marketo Dynamics Sync wordt momenteel niet ondersteund. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van Marketo worden vereist. Neem contact op met de succesmanager van de klant voor meer informatie.
 
 ## Hoe synchroniseren werkt {#how-sync-works}
 
@@ -39,10 +42,8 @@ De synchronisatie tussen Marketo en Dynamics is bidirectioneel voor leads en con
 * [Kansen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Aangepaste entiteiten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-custom-entity-sync.md)
 
+De [referenties die u invoert in Marketo for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) worden gebruikt om gegevens te synchroniseren.
+
 >[!NOTE]
 >
->De [referenties die u invoert in Marketo for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) worden gebruikt om gegevens te synchroniseren.
-
->[!CAUTION]
->
->Sandboxvernieuwing voor Marketo Dynamics Sync wordt momenteel niet ondersteund. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van Marketo worden vereist. Neem contact op met de succesmanager van de klant voor meer informatie.
+>Instantie kopiëren wordt niet ondersteund als de broninstantie is geïntegreerd met Microsoft Dynamics.
