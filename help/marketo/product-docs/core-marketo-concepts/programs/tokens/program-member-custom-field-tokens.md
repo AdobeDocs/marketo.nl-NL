@@ -3,17 +3,16 @@ unique-page-id: 1147114
 description: Aangepaste veldtokens voor programmaleden - Marketo Docs - Productdocumentatie
 title: Aangepaste veldtokens voor programmaleden
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
 
-# Aangepaste veldtokens voor programmalid {#program-member-custom-field-tokens}
+# Aangepaste veldtokens voor programmaleden {#program-member-custom-field-tokens}
 
-## Tokenondersteuning voor aangepaste velden voor programmalid {#token-support-for-program-member-custom-fields}
+## Token Support voor aangepaste velden voor programmalid {#token-support-for-program-member-custom-fields}
 
 Op de rug van de eigenschappen van de Gebieden van de Douane van het Lid van het Programma, wordt de steun uitgebreid voor de Gebieden van de Douane van het Lid van het Programma in symbolische kaders.
 
@@ -24,7 +23,7 @@ Lid Tokens worden gebruikt voor gebieden die onder het werkingsgebied van het Li
 >[!NOTE]
 >
 >* Aangepaste velden voor programmalid kunnen alleen worden gebruikt in de context van een programma.
->* Tokens voor aangepaste velden voor programmalid kunnen niet worden gebruikt in: e-mailscripts, e-mailvoorheader, Datumtokens in Wachtstappen of Fragmenten.
+>* Tokens voor aangepaste velden voor programmalid kunnen niet worden gebruikt in: e-mailpreheader, Datumtokens in Wachtstappen of Fragmenten.
 >* De status van het programma Lid wordt niet gesteund in de Tokens van de Lidstaten.
 
 
