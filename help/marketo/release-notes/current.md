@@ -1,9 +1,9 @@
 ---
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
-source-git-commit: c98e265e0a4548821ffb291b4f4918f3c49f458d
+source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
 workflow-type: tm+mt
-source-wordcount: '1067'
+source-wordcount: '974'
 ht-degree: 0%
 
 ---
@@ -21,8 +21,6 @@ De volgende functies zijn opgenomen in de release van augustus &#39;21. Controle
 De volgende functies worden vrijgegeven op **20 augustus 2021**.
 
 ## Adobe Experience Platform-integratie {#adobe-experience-platform-integration}
-
-* **Native Adobe Experience Platform-connector voor delen van soorten publiek naar Marketo Engage**: Meerkanaals campagneorchestratie in Marketo Engage inschakelen voor publiekssegmenten die in Adobe Experience Cloud via de native doelconnector zijn gemaakt. De connector gebruikt e-mailadressen om Adobe Experience Platform-profielen aan te passen aan Marketo Engage-hoofdprofielen. Dit leidt tot een zeer nauwkeurige segmentdeling tussen toepassingen. De statische lijsten van de Marketo Engage worden automatisch gecreeerd en laten marketers toe om doelpubliek met hoogst gepersonaliseerd overseinen te bereiken of werkschema&#39;s in werking te stellen. Activeer het publiek door gebruik te maken van zijn account- en opportuniteitscontext en vollediger en real-time gegevens in Experience Platform.
 
 * **Marketo Engage-gebruikersverificatie via Adobe-id**: Vanaf september 2021 worden nieuwe Marketo Engage-gebruikers met Enterprise-pakketten aan boord genomen met Adobe ID-gebruikersgegevens. De migratie van huidige gebruikers naar het geïntegreerde identiteitssysteem zal pas medio 2022 plaatsvinden en tot nader order is geen actie vereist. Met gebruikersverificatie voor Adobe-identiteit kunnen IT/Security-beheerders meerdere Marketo Engage-productinstanties beheren samen met andere Experience Cloud-oplossingen en SSO configureren via een gemeenschappelijke console. Beheerders kunnen gebruikersgroepen en gebruikersrechten eenvoudig op één locatie beheren.
 
