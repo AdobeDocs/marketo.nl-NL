@@ -1,9 +1,9 @@
 ---
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
-source-git-commit: 97f6aeeb5c808df780b9b7bafd1bea5b1b805e5a
+source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
 workflow-type: tm+mt
-source-wordcount: '974'
+source-wordcount: '983'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,11 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ![(ster)](assets/yellow-star.png)
 
-* **E-mailverbindingsrotatie (GA)**: Verbeter de e-mailleverbaarheid en schaal persoonlijke verkoopcommunicatie met de snelheid van de e-mailverbinding voor Sales Connect. Deze nieuwe technologie beheert automatisch de timing van het verzenden van e-mail om naadloze ervaringen voor gebruikers van de Uitwisseling en van Gmail te creëren. Verlaag of verwijder het gebruik van grote hoeveelheden e-mailberichten van derden en verzend al uw e-mails vanuit Sales Connect met vertrouwen.
+* **Trotting van e-mailverbinding (bèta)**: Verbeter de e-mailleverbaarheid en schaal persoonlijke verkoopcommunicatie met de snelheid van de e-mailverbinding voor Sales Connect. Deze nieuwe technologie beheert automatisch de timing van het verzenden van e-mail om naadloze ervaringen voor gebruikers van de Uitwisseling en van Gmail te creëren. Verlaag of verwijder het gebruik van grote hoeveelheden e-mailberichten van derden en verzend al uw e-mails vanuit Sales Connect met vertrouwen.
+
+>[!NOTE]
+>
+>E-mailvertraging is nu beschikbaar in bètaversie. [Meer](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md) informatie.
 
 * **Verbeterde verkoopactiviteiten**: Leg persoonlijke betrokkenheid vast en activeer deze op basis van eerdere activiteiten van uw verkoopteam. De nieuwe attributen zoals de Verbinding van de Opname van de Vraag van de Verkoop, de Naam van de Campagne van de Verkoop, en Onderwerp van e-mail van de Verkoop kunnen in Marketo Engage slimme lijsten worden gebruikt.  Deze activiteiten kunnen worden geëxporteerd en gerapporteerd via de Marketo Engage REST API of Bulk Export en zijn beschikbaar op filters en triggers als extra beperkingen voor slimme lijsten.
 
