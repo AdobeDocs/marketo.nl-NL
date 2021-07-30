@@ -1,9 +1,9 @@
 ---
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
-source-git-commit: c4dcf9a69dfb25a689175be6f1ff01d9dc21ad27
+source-git-commit: 47b1a8fe0adfd3b26b3fad7821b45e9a0b6f61bf
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '957'
 ht-degree: 0%
 
 ---
@@ -36,10 +36,7 @@ De volgende functies worden vrijgegeven op **20 augustus 2021**.
 
 * **Metagegevens-API** voor aangepaste velden: Het creëren en beheer van douanegebieden in Marketo Engage voor partnerintegratie stroomlijnen. Maak automatisch nieuwe velden op een hoofdobject en zorg ervoor dat velden automatisch en gelijktijdig worden bijgewerkt in meerdere Marketo Engage-instanties.
 
-* **Verbeterd filteren**: Verschillende API&#39;s bieden nu ondersteuning voor meer filters, zoals het toevoegen van een datumbereikfilter aan e-mailmiddelen en velden voor programmaleden. Nu kunt u alleen de gegevens extraheren die binnen een bepaald tijdsbestek zijn bijgewerkt voor de volgende API&#39;s...
-   * Programmaleden ophalen
-   * E-mails ophalen
-   * Uitpakken van bulkactiviteiten
+* **Verbeterd filteren**: Verschillende API&#39;s bieden nu ondersteuning voor meer filters, zoals het toevoegen van een datumbereikfilter aan e-mailmiddelen en velden voor programmaleden.
 
 * **Formulier-API** verzenden: Wanneer een e-mailadres wordt gedupliceerd in twee of meer lead-records, wordt de record &#39;laatst bijgewerkt&#39; bijgewerkt in plaats van deze helemaal over te slaan. Biedt pariteit met Forms 2.0 API.
 
