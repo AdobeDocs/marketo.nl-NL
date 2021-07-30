@@ -1,14 +1,14 @@
 ---
 description: Aan de slag voor Sales Connect-beheerders - Marketo Docs - Productdocumentatie
 title: Aan de slag voor Connect-beheerders
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 0%
 
 ---
 
-# Aan de slag voor Sales Connect-beheerders {#getting-started-guide-for-sales-connect-admins}
+# Aan de slag voor Connect-beheerders {#getting-started-guide-for-sales-connect-admins}
 
 Dit document begeleidt u door de eerste stappen voor het instellen van uw nieuwe exemplaar van Sales Connect. Voor sommige van deze stappen is toegang vereist als Marketo-beheerder, Salesforce-beheerder en Sales Connect-beheerder. Volg de onderstaande hulplijnen om de installatie van de instantie te voltooien.
 
@@ -22,7 +22,7 @@ Als u Marketo Sales Connect hebt aangeschaft, wordt de toegang tot uw exemplaar 
 
 ![](assets/getting-started-guide-for-sales-connect-admins-1.png)
 
-## Gebruikers {#inviting-and-managing-users} uitnodigen en beheren
+## Gebruikers uitnodigen en beheren {#inviting-and-managing-users}
 
 Zodra u uw Marketo Sales Connect-account van Marketo hebt ingericht en uw eerste beheerder hebt uitgenodigd, kan die beheerder extra gebruikers uitnodigen via de Marketo Sales Connect-pagina voor gebruikersbeheer. [Klik ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) hier om te zien hoe u gebruikers kunt uitnodigen vanaf de pagina voor gebruikersbeheer.
 
@@ -41,7 +41,7 @@ Als u uw exemplaar van Sales Connect aan uw instantie Salesforce, als Admin of e
 Als je je op Marketo aansluit, kunnen je verkopers gebruikmaken van de kracht van marketing, automatisering en marketing inzichten in hun prospectieve activiteiten. Voor de volgende functies moet u een integratie met Marketo instellen.
 
 * [marketingcampagnes delen](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md) met verkopers
-* Druk [Interesserende momenten](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md) op de Live feed
+* Druk [Interesserende momenten](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) op de Live feed
 * Verkoopactiviteiten aan Marketo registreren
 
 Klik hier voor meer informatie over het maken van een verbinding met Marketo en het verlenen van toegang aan verkoopgebruikers tot de verbinding.
