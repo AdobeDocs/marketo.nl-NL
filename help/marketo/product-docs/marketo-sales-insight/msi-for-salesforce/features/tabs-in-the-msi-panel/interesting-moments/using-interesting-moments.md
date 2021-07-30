@@ -3,21 +3,20 @@ unique-page-id: 2951640
 description: Interesserende momenten gebruiken - Marketo Docs - Productdocumentatie
 title: Interesserende momenten gebruiken
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
-translation-type: tm+mt
-source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
+source-git-commit: b18b2172e2c20cdb740854924a48fc996caf59f9
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
-# Interesten {#using-interesting-moments} gebruiken
+# Interesserende momenten gebruiken {#using-interesting-moments}
 
 Interesserende momenten zijn de sleutel tot communicatie met uw verkoopteam via de Marketo Sales Insight-app.
 
 >[!AVAILABILITY]
 >
->Deze zijn alleen beschikbaar voor Marketo Sales Insight en [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-msc.md)-klanten.
+>Deze zijn alleen beschikbaar voor Marketo Sales Insight en [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)-klanten.
 
 ## Wat is een interessant moment? {#what-is-an-interesting-moment}
 
