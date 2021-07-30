@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: da8b6723589e1478bfa3dc69d74d27cddf1311c7
+source-git-commit: a8f212ba7389837f3299dad5aed6b085e9ffef76
 workflow-type: tm+mt
 source-wordcount: '8047'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 + [Home](home.md)
 + Aan de slag met Marketo {#getting-started-with-marketo}
-   + [Aan de slag](getting-started.md)
+   + [Aan de slag](getting-started/getting-started.md)
    + [Wat is Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + [Marketo Verklarende woordenlijst](getting-started/marketo-glossary.md)
    + [Woordenlijst met pictogrammen](getting-started/icon-glossary.md)
@@ -808,9 +808,9 @@ ht-degree: 0%
                + [Sjabloon 12-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-d.md)
                + [Sjabloon 12-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-e.md)
                + [Sjabloon 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
-               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
+               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Sjabloon 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Sjabloon 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Sjabloon 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Template 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
