@@ -3,16 +3,16 @@ description: Metagegevens over aangepaste activiteiten exporteren - Marketo-docu
 title: Metagegevens aangepaste activiteit exporteren
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Metagegevens aangepaste activiteit exporteren {#custom-activity-metadata-export}
 
-Als u onze SOAP API of Munchkin API gebruikt, kan het Schema van Metagegevens van de Activiteit van de Douane worden uitgevoerd. Zo krijg je het.
+Voer de onderstaande stappen uit om uw schema voor aangepaste activiteitmetagegevens te exporteren.
 
 1. Klik in Mijn Marketo op **Admin**.
 
