@@ -3,9 +3,9 @@ description: Triggers en filters voor verkoopactiviteiten - Marketo-documenten -
 title: Triggers en filters voor verkoopactiviteiten
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ Volg de onderstaande stappen om te leren hoe u verkoopactiviteitfilters en -trig
 
    ![](assets/sales-activity-triggers-and-filters-4.png)
 
->[!OPMERKING
+>[!NOTE]
 >
 >Voor een volledige lijst van activiteiten, beperkingen, en definities controleren onze [Verklarende woordenlijst van de Activiteit van de Verkoop](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
