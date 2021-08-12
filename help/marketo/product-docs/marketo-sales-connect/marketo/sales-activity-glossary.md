@@ -3,10 +3,10 @@ description: Verklarende woordenlijst Verkoopactiviteiten - Marketo-documenten -
 title: Verklarende woordenlijst Verkoopactiviteiten
 hide: true
 hidefromtoc: true
-source-git-commit: 70f17106efe52ee742c8e31013e533fc36ce9835
+source-git-commit: 665e7985970734ee17a2fee5974bafa59ecd4aa3
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 3%
+source-wordcount: '416'
+ht-degree: 2%
 
 ---
 
@@ -60,7 +60,7 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
  <tr>
   <td>Sjabloon-id</td>
  </tr>
- <tr>
+<tr>
   <th rowspan="2">E-mail over ontvangen verkoop</th>
   <td>Ontvangen door</td>
  </tr>
@@ -150,6 +150,74 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
   <th>Beschrijving</th>
  </tr>
  <tbody> 
+ <tr> 
+   <td><strong>Details</strong></td> 
+   <td>Bounce error message detail.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>E-mail</strong></td> 
+   <td>E-mailadres dat is teruggestuurd.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Koppeling</strong></td> 
+   <td>URL waarop is geklikt.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Ontvangen door</strong></td> 
+   <td>E-mailadres van de persoon die het e-mailbericht heeft verzonden.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Verkoopoproep beantwoord door</strong></td> 
+   <td>Naam van persoon die de vraag beantwoordde.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Duur verkoopoproep</strong></td> 
+   <td>De duur van de aanroep in seconden.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Verkoopoproep gemaakt door</strong></td> 
+   <td>E-mailadres van de verkoper die de oproep heeft gedaan.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Opname-URL verkoopoproep</strong></td> 
+   <td>URL van vraagopname.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Status van verkoopoproep</strong></td> 
+   <td>Zal de definitieve vraagstatus van de vraag bewaren die omvat: voltooid, geen antwoord, geannuleerd, mislukt.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Onderwerp verkoopoproep</strong></td> 
+   <td>Het resultaat van de vraag dat door een verkoopgebruiker in dialer wordt geselecteerd.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Verkoopcampagne-id</strong></td> 
+   <td>Unieke id voor verkoopcampagne-middelen in Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Naam verkoopcampagne</strong></td> 
+   <td>Naam van verkoopcampagne.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Verkoopcampagne-URL</strong></td> 
+   <td>Verkoop Connect URL voor verkoopcampagne.</td> 
+  </tr>
+  <tr> 
+   <td><strong>E-mailonderwerp verkoop</strong></td> 
+   <td>Onderwerpregel.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Telefoonnummer van verkoper opgevraagd</strong></td> 
+   <td>Telefoonnummer gebeld door Verkoper.</td> 
+  </tr>
+  <tr> 
+   <td><strong>Naam verkoopsjabloon</strong></td> 
+   <td>Naam van e-mailsjabloon in Sales Connect.</td> 
+  </tr>
+  <tr> 
+   <td><strong>URL van verkoopsjabloon</strong></td> 
+   <td>Verkoop Connect URL voor e-mailsjabloon.</td> 
+  </tr>
   <tr> 
    <td><strong>Verzonden door</strong></td>
    <td>E-mailadres van de persoon die het e-mailbericht heeft verzonden.</td> 
@@ -162,18 +230,6 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
    <td><strong>Sjabloon-id</strong></td> 
    <td>Als de bron Tout is, is de sjabloon-id de Marketo Sales Connect-sjabloon-id. Gebruik deze optie om een specifieke sjabloon te kiezen in plaats van een onderwerpregel, die in meerdere sjablonen kan bestaan.
 </td> 
-  </tr> 
-  <tr> 
-   <td><strong>Ontvangen door</strong></td> 
-   <td>E-mailadres van de persoon die het e-mailbericht heeft verzonden.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Details</strong></td> 
-   <td>Bounce error message detail.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>E-mail</strong></td> 
-   <td>E-mailadres dat is teruggestuurd.</td> 
   </tr> 
  </tbody> 
 </table>
