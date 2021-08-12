@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
+source-git-commit: 9b4a562488cfe44da7140b7ff209dc1d4ea28441
 workflow-type: tm+mt
 source-wordcount: '8064'
 ht-degree: 0%
@@ -204,7 +204,7 @@ ht-degree: 0%
          + [Een aangepaste activiteit maken](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Een aangepaste activiteit bewerken](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [Een aangepaste activiteit publiceren](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
-         + [Metagegevens aangepaste activiteit exporteren](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
+         + [Metagegevens aangepaste activiteit exporteren](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
       + Aangepaste Marketo-objecten {#marketo-custom-objects}
          + [Aangepaste Marketo-objecten begrijpen](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [Aangepaste Marketo-objectvelden toevoegen](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
