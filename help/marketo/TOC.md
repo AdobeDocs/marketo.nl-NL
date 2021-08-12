@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: bc62f6e43259791fff47f2dbb32cb22a665db1a8
+source-git-commit: 7800d1601d4594d4afe2fa16602723319fbfc118
 workflow-type: tm+mt
-source-wordcount: '8052'
+source-wordcount: '8064'
 ht-degree: 0%
 
 ---
@@ -204,6 +204,7 @@ ht-degree: 0%
          + [Een aangepaste activiteit maken](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Een aangepaste activiteit bewerken](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
          + [Een aangepaste activiteit publiceren](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [Metagegevens aangepaste activiteit exporteren](product-docs/administration/marketo-custom-objects/custom-activity-metadata-export.md)
       + Aangepaste Marketo-objecten {#marketo-custom-objects}
          + [Aangepaste Marketo-objecten begrijpen](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
          + [Aangepaste Marketo-objectvelden toevoegen](product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
@@ -1219,6 +1220,8 @@ ht-degree: 0%
          + [Toegang verlenen aan gebruikers](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interesserende momenten in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
          + [Een campagne zichtbaar maken voor Connect-gebruikers](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Verklarende woordenlijst Verkoopactiviteiten](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
+         + [Triggers en filters voor verkoopactiviteiten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
       + Personen {#people}
          + [Persoonsgegevens weergeven](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect en GDPR-compatibiliteit](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
