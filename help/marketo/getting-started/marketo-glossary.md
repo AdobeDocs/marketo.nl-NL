@@ -3,21 +3,16 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Productdocumentatie
 title: Marketo Verklarende woordenlijst
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-translation-type: tm+mt
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
 workflow-type: tm+mt
-source-wordcount: '4231'
+source-wordcount: '4205'
 ht-degree: 0%
 
 ---
 
-# Marketo Glossary {#marketo-glossary}
+# Marketo Verklarende woordenlijst {#marketo-glossary}
 
 Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij het gebruik van Marketo. Als u wilt dat een term wordt toegevoegd, moet u [ons een e-mail sturen](mailto:GRP-Marketo-articlefeedback@adobe.com).
-
-| **[A](#A)** | **[B](#B)** | **[C](#C)** | **[D](#D)** | **[E](#E)** | **[F](#F)** | **[G](#G)** | **[H](#H)** | **[I](#I)** | **J** | **[K](#K)** | **[L](#L)** | **[M](#M)** |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **[N](#N)** | **[O](#O)** | **[P](#P)** | **[Q](#Q)** | **[R](#R)** | **[S](#S)** | **[T](#T)** | **[U](#U)** | **V** | **[W](#W)** | **X** | **Y** | **Z** |
 
 ## A {#a}
 
