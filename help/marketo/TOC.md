@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 9b4a562488cfe44da7140b7ff209dc1d4ea28441
+source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
 workflow-type: tm+mt
-source-wordcount: '8064'
+source-wordcount: '8071'
 ht-degree: 0%
 
 ---
@@ -318,6 +318,7 @@ ht-degree: 0%
             + [Campagne aanvragen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [Waarschuwing verzenden](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
             + [E-mail verzenden](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
+            + [Single Flow-handelingen van persoonlijke detailpagina](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
             + [Triggers en filters voor mobiele slimme campagnes](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
             + [Een webhaak gebruiken in een slimme campagne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [Kies toevoegen in een stroomstap gebruiken](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
