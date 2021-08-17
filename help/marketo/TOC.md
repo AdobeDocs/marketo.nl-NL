@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
+source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 0%
@@ -493,18 +493,18 @@ ht-degree: 0%
                + [Een voorbeeld van een e-mail weergeven](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)
                + [Een voorbeeld verzenden](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [Een moment delen](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
-         + Diversen {#miscellaneous}
-            + [Adobe Experience Manager-integratie configureren](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
-            + [Nieuwe campagnemap maken](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-            + [Middelen importeren met Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
-            + [Verklarende woordenlijst Sneltoetsen](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
-            + [Marketo-sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
-            + [De naam van een Marketo-element wijzigen](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-            + [Adobe Experience Cloud-publiek delen instellen](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
-            + [Een publiek synchroniseren vanuit Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
-            + [Mappen begrijpen](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
-            + [Kennisgevingen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
-            + [Typen meldingen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
+      + Diversen {#miscellaneous}
+         + [Adobe Experience Manager-integratie configureren](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
+         + [Nieuwe campagnemap maken](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
+         + [Middelen importeren met Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
+         + [Verklarende woordenlijst Sneltoetsen](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
+         + [Marketo-sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
+         + [De naam van een Marketo-element wijzigen](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
+         + [Adobe Experience Cloud-publiek delen instellen](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
+         + [Een publiek synchroniseren vanuit Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+         + [Mappen begrijpen](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
+         + [Kennisgevingen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
+         + [Typen meldingen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
    + CRM-synchronisatie {#crm-sync}
       + Microsoft Dynamics Sync {#microsoft-dynamics}
          + [Werken met Microsoft Dynamics Sync](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
