@@ -3,20 +3,18 @@ unique-page-id: 37355768
 description: Middelen importeren met Adobe Experience Manager - Marketo Docs - Productdocumentatie
 title: Middelen importeren met Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# Elementen importeren met Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
+# Middelen importeren met Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
-Met de Asset Picker kunnen Marketo-klanten AEM middelen openen, selecteren en importeren in Marketo Design Studio. **Beheerdersmachtigingen zijn vereist**.
+Met de Asset Selector kunnen Marketo-klanten AEM middelen openen, selecteren en importeren in Marketo Design Studio. **Beheerdersmachtigingen zijn vereist**.
 
 >[!AVAILABILITY]
->
 >
 >Niet alle klanten hebben deze functie aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
 
@@ -24,9 +22,9 @@ Met de Asset Picker kunnen Marketo-klanten AEM middelen openen, selecteren en im
 >
 >Zorg ervoor u reeds [AEM Configuratie](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) hebt uitgevoerd.
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->Deze functie wordt momenteel alleen volledig ondersteund in Firefox. Deze functie wordt niet ondersteund in Safari en werkt mogelijk niet in de nieuwste versie van Chrome (v. 80), afhankelijk van de cookie-instellingen van SameSite.
+>Deze functie wordt volledig ondersteund in de huidige versies van Firefox, Chrome en Edge. Deze functie wordt niet ondersteund in Safari.
 
 1. Klik **Design Studio**.
 
