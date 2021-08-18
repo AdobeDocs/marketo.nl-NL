@@ -1,14 +1,14 @@
 ---
 description: Campagne uitvoeren - Marketo Docs - Productdocumentatie
 title: Campagne uitvoeren
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 0%
 
 ---
 
-# Campagne {#execute-campaign} uitvoeren
+# Campagne uitvoeren {#execute-campaign}
 
 Een uitvoerbare Campagne, zoals andere campagnes, bevat een Slimme Lijst, Stroom, en Programma. In tegenstelling tot andere campagnes, plant of activeert u het eigenlijk niet. Het kan slechts door een andere campagne via de Uitvoeren de debietstap van de Campagne worden geroepen. De stroomstappen in de Uitvoerbare Campagne worden in serie in werking gesteld met de oudercampagne (in tegenstelling tot de Campagne van het Verzoek, die parallel in een afzonderlijke Campagne van de Trekker loopt).
 
@@ -46,7 +46,7 @@ U kunt ook een bestaande slimme campagne klonen. Als u een bestaande Uitvoerbare
 >
 >U kunt geen campagne klonen die triggers bevat.
 
-## Context {#use-parent-campaign-token-context} van token voor bovenliggende campagne gebruiken
+## De context van het token voor bovenliggende campagne gebruiken {#use-parent-campaign-token-context}
 
 Wanneer ingesteld op true, worden de volgende token-contexten verzonden naar de onderliggende campagne (de campagne die wordt uitgevoerd):
 
@@ -67,13 +67,13 @@ Wanneer het gebruiken van Programma of Campagne [in API](https://developers.mark
 * Uitvoerbare campagnes kunnen niet worden aangeroepen in verschillende werkruimten
 * Als u [Remove uit Stroom](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) stroomactie gebruikt die zich richt op een Uitvoerbare Campagne, zal het zowel het kind als het ouder richten
 * Gebruikend uit symbolische overerving - bijvoorbeeld, als u één enkele gemeenschappelijke het scoren stroom hebt die door veelvoudige verschillende activa teweeggebracht, kunt u een gebrek Mijn Symbolische score in de kindcampagne en in de oudercampagne bepalen zodat u de waarde van de kindscore campagnecampagne voor uw oudercampagnes (zie hieronder voor visueel voorbeeld) kunt met voeten treden
-* Het nesten van Uitvoerbare Campagnes is niet beschikbaar op dit ogenblik, maar zal in een aanstaande versie zijn
+* Uitvoerbare campagnes kunnen tot drie niveaus diep worden opgeroepen (bijvoorbeeld Bovenliggende campagne > Onderliggend element > Onderliggend element > Onderliggend element)
 
 >[!CAUTION]
 >
->Laat uw slimme lijsten voor uitvoerbare campagnes nooit ongeldig, anders **zal niemand** voor het kwalificeren. De beste praktijken moeten afzonderlijke slimme lijstactiva tot stand brengen, hen volledig bepalen, en ervoor zorgen zij geldig zijn. Dan, gebruik het &quot;Lid van Slimme filter van de Lijst&quot;in de Uitvoerbare Campagne zodat kunt u uw slimme lijstdefinitie ruilen.
+>Verlaat nooit uw slimme lijsten voor Uitvoerbare Campagnes ongeldig, anders **zal niemand** voor het kwalificeren. De beste praktijken moeten afzonderlijke slimme lijstactiva tot stand brengen, hen volledig bepalen, en ervoor zorgen zij geldig zijn. Dan, gebruik het &quot;Lid van Slimme filter van de Lijst&quot;in de Uitvoerbare Campagne zodat kunt u uw slimme lijstdefinitie ruilen.
 
-## Voorbeeld van symbolische overerving {#token-inheritance-example}
+## Voorbeeld van overerving van token {#token-inheritance-example}
 
 Hieronder ziet u een visueel voorbeeld van Symbolische Overerving in één Uitvoerbare Campagne en twee oudercampagnes: één met symbolische context die aan **Waar** wordt geplaatst, andere aan **Onwaar**.
 
