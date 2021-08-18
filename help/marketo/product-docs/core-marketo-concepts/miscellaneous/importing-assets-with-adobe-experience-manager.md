@@ -3,7 +3,7 @@ unique-page-id: 37355768
 description: Middelen importeren met Adobe Experience Manager - Marketo Docs - Productdocumentatie
 title: Middelen importeren met Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 280b4b7205351c16b1e13c3b4dce0dfcf0f16ae9
+source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -60,8 +60,8 @@ Met de Asset Selector kunnen Marketo-klanten AEM middelen openen, selecteren en 
 
 ## Notities {#things-to-note}
 
-Marketo biedt momenteel ondersteuning voor Adobe Experience Manager versie 6.4 en 6.5.
+* Marketo biedt momenteel ondersteuning voor Adobe Experience Manager versie 6.4 en 6.5.
 
-Alle gebruikers in uw exemplaar zullen de beelden kunnen bekijken/toegang hebben u invoert.
+* Alle gebruikers in uw exemplaar zullen de beelden kunnen bekijken/toegang hebben u invoert.
 
-Afbeeldingen worden niet automatisch bijgewerkt. Als een afbeelding die u in Marketo Design Studio hebt geïmporteerd, in AEM wordt bijgewerkt, moet u deze handmatig opnieuw importeren in Marketo.
+* Afbeeldingen worden niet automatisch bijgewerkt. Als een afbeelding die u in Marketo Design Studio hebt geïmporteerd, in AEM wordt bijgewerkt, moet u deze handmatig opnieuw importeren in Marketo.
