@@ -1,9 +1,9 @@
 ---
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
-source-git-commit: 45d489ed52f6a114514c79c234ff30567f4aff96
+source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '945'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ De volgende functies worden vrijgegeven op **20 augustus 2021**.
 
 * **Uitvoerbare campagne nesten**: Uitvoerbare campagnes kunnen nu ook andere uitvoerbare campagnes roepen die u toestaan om hen tot drie niveaus diep te nesten. Dit maakt verdere consolidatie van gemeenschappelijke operationele stromen mogelijk en verbetert Slim Campagnebeheer.
 
-* **Single Flow-actie in persoonlijke detailpagina**: Voer stroomacties zoals het verzenden van e-mail, verandering persoonseigenaar, of een andere slimme campagneactie op individuele mensen van de pagina van het persoondetail uit gebruikend het menu van de stroomactie zonder het schakelen naar de mening van het gegevensbestandnet.
+* **Single Flow-actie op persoonlijke detailpagina**  (beschikbaar op 30 augustus): Voer stroomacties zoals het verzenden van e-mail, verandering persoonseigenaar, of een andere slimme campagneactie op individuele mensen van de pagina van het persoondetail uit gebruikend het menu van de stroomactie zonder het schakelen naar de mening van het gegevensbestandnet.
 
 * **Aangepaste activiteiten exporteren**: Metagegevens exporteren ondersteunt nu alle objecten en de bijbehorende metagegevens die kunnen worden gebruikt voor het delen, analyseren en ontwerpen van uw gegevensmodel voor abonnementen.
 
