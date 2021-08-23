@@ -1,9 +1,9 @@
 ---
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,9 @@ De volgende functies worden vrijgegeven op **20 augustus 2021**.
 
 * **Single Flow-actie op persoonlijke detailpagina**  (beschikbaar op 30 augustus): Voer stroomacties zoals het verzenden van e-mail, verandering persoonseigenaar, of een andere slimme campagneactie op individuele mensen van de pagina van het persoondetail uit gebruikend het menu van de stroomactie zonder het schakelen naar de mening van het gegevensbestandnet.
 
-* **Aangepaste activiteiten exporteren**: Metagegevens exporteren ondersteunt nu alle objecten en de bijbehorende metagegevens die kunnen worden gebruikt voor het delen, analyseren en ontwerpen van uw gegevensmodel voor abonnementen.
+* **[Aangepaste activiteiten exporteren](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**: Metagegevens exporteren ondersteunt nu alle objecten en de bijbehorende metagegevens die kunnen worden gebruikt voor het delen, analyseren en ontwerpen van uw gegevensmodel voor abonnementen.
 
 ## API-verbeteringen {#api-enhancements}
-
-* **Metagegevens-API** voor aangepaste velden: Het creëren en beheer van douanegebieden in Marketo Engage voor partnerintegratie stroomlijnen. Maak automatisch nieuwe velden op een hoofdobject en zorg ervoor dat velden automatisch en gelijktijdig worden bijgewerkt in meerdere Marketo Engage-instanties.
 
 * **Formulier-API** verzenden: Wanneer een e-mailadres wordt gedupliceerd in twee of meer lead-records, wordt de record &#39;laatst bijgewerkt&#39; bijgewerkt in plaats van deze helemaal over te slaan. Biedt pariteit met Forms 2.0 API.
 
