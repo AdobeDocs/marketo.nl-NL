@@ -1,9 +1,9 @@
 ---
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
-source-git-commit: c2acfbe3770a74e4c1e7acc3893dbe57af01d621
+source-git-commit: 256e089a418f67ab46249a18fe82e1e1f6d7bfb9
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '904'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,9 @@ De volgende functies zijn opgenomen in de release van augustus &#39;21. Controle
 
 De volgende functies worden vrijgegeven op **20 augustus 2021**.
 
-## Adobe Experience Platform-integratie {#adobe-experience-platform-integration}
+## Experience Automation {#experience-automation}
 
 * **Marketo Engage-gebruikersverificatie via Adobe-id**: Vanaf september 2021 worden nieuwe Marketo Engage-gebruikers met Enterprise-pakketten aan boord genomen met Adobe ID-gebruikersgegevens. De migratie van huidige gebruikers naar het geïntegreerde identiteitssysteem zal pas medio 2022 plaatsvinden en tot nader order is geen actie vereist. Met gebruikersverificatie voor Adobe-identiteit kunnen IT/Security-beheerders meerdere Marketo Engage-productinstanties beheren samen met andere Experience Cloud-oplossingen en SSO configureren via een gemeenschappelijke console. Beheerders kunnen gebruikersgroepen en gebruikersrechten eenvoudig op één locatie beheren.
-
-## Experience Automation {#experience-automation}
 
 * **Uitvoerbare campagne nesten**: Uitvoerbare campagnes kunnen nu ook andere uitvoerbare campagnes roepen die u toestaan om hen tot drie niveaus diep te nesten. Dit maakt verdere consolidatie van gemeenschappelijke operationele stromen mogelijk en verbetert Slim Campagnebeheer.
 
