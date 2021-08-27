@@ -3,15 +3,14 @@ unique-page-id: 2360366
 description: Stap 3 van 3 - Connect Marketo en Salesforce (Enterprise/Unlimited) - Marketo Docs - Productdocumentatie
 title: Stap 3 van 3 - Connect Marketo en Salesforce (Enterprise/Onbeperkt)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
 
 ---
 
-# Stap 3 van 3: Connect Marketo en Salesforce (Enterprise/Unlimited) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
+# Stap 3 van 3: Connect Marketo en Salesforce (Enterprise/Onbeperkt) {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
 In dit artikel configureert u Marketo voor synchronisatie met de geconfigureerde Salesforce-instantie.
 
@@ -21,7 +20,7 @@ In dit artikel configureert u Marketo voor synchronisatie met de geconfigureerde
 >* [Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 
 
-## Symbool {#retrieve-sync-user-security-token} voor gebruikersbeveiliging synchroniseren ophalen
+## Synchronisatie van beveiligingstoken voor gebruiker ophalen {#retrieve-sync-user-security-token}
 
 >[!TIP]
 >
@@ -49,7 +48,7 @@ In dit artikel configureert u Marketo voor synchronisatie met de geconfigureerde
 
    >[!NOTE]
    >
-   >Zorg dat u [alle velden die u niet nodig hebt ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo verbergt voor de synchronisatiegebruiker voordat u op **Velden synchroniseren** klikt. Nadat u op Velden synchroniseren hebt geklikt, worden alle velden weergegeven die de gebruiker kan zien, permanent gemaakt in Marketo en kunnen deze niet worden verwijderd.
+   >Zorg dat u [alle velden die u niet nodig hebt ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md) in Marketo verbergt voor de synchronisatiegebruiker voordat u op **Velden synchroniseren** klikt. Nadat u op Velden synchroniseren hebt geklikt, worden alle velden weergegeven die de gebruiker kan zien, permanent gemaakt in Marketo en kunnen deze niet worden verwijderd.
 
 1. Voer de Salesforce Sync gebruikersgegevens in die zijn gemaakt in deel 2 van de Salesforce-configuratie ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) of [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) en klik op **Velden synchroniseren** (schakel **Sandbox** alleen in als u een Marketo-sandbox synchroniseert met een Salesforce-sandbox).
 
@@ -85,7 +84,7 @@ In dit artikel configureert u Marketo voor synchronisatie met de geconfigureerde
    >
    >De tijd die nodig is om de eerste synchronisatie uit te voeren, is afhankelijk van de grootte en complexiteit van de database.
 
-## Synchronisatie {#verify-sync} controleren
+## Sync controleren {#verify-sync}
 
 Marketo geeft statusberichten weer voor de Salesforce-synchronisatie in het beheergebied. U kunt controleren of de synchronisatie correct werkt door deze stappen uit te voeren.
 
