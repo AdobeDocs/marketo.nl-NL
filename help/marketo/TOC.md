@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: f6d0d38b777e07f0a5139b22c3da38aaebc699fc
+source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
 workflow-type: tm+mt
 source-wordcount: '8071'
 ht-degree: 0%
@@ -582,31 +582,31 @@ ht-degree: 0%
                + [Niet-Engelse aangepaste objectsynchronisatie inschakelen](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
                + [Achternaam en bedrijfsnaam voor standaardpersoon instellen](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
                + [E-mailberichten uitschakelen naar eigenaar van lead](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
-            + Details SFDC-synchronisatie {#sfdc-sync-details}
-               + [Hoe te om de Statussen van het Programma en de Status van de Campagne Salesforce voorafgaand aan Synchronisatie aan te passen](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-errors/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
-               + [SFDC-synchronisatie: Account synchroniseren](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-               + [Persoonlijke accounts gebruiken](product-docs/crm-sync/salesforce-sync/setup/sfdc-sync-details/sfdc-sync-account-sync/using-person-accounts.md)
-               + [SFDC-synchronisatie: Activiteitensynchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
-               + [SFDC-synchronisatie: Campagne synchroniseren](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
-               + [SFDC-synchronisatie: Synchroniseren](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
-               + [SFDC-synchronisatie: Een lead omzetten in een contactpersoon in Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
-               + [SFDC-synchronisatie: Aangepaste objectsynchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
-               + [SFDC-synchronisatie: Een lead/contactpersoon verwijderen](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
-               + [SFDC-synchronisatie: Veldsynchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
-               + [Een bestaand Salesforce-veld toevoegen aan Marketo Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/add-an-existing-salesforce-field-to-the-marketo-sync.md)
-               + [Standaardtoewijzing Salesforce-veld](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/default-salesforce-field-mapping.md)
-               + [Een Salesforce-veld verbergen voor Marketo-synchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync/hide-a-salesforce-field-from-the-marketo-sync.md)
-               + [SFDC-synchronisatie: Synchronisatie van leider/eigenaar account](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
-               + [SFDC-synchronisatie: Wachtrij voor lead](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
-               + [SFDC-synchronisatie: Synchronisatie van lead](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
-               + [SFDC-synchronisatie: Een lead/contactpersoon/persoon samenvoegen](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
-               + [SFDC-synchronisatie: Opportunity synchroniseren](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
-            + [Picklist-waarden toevoegen/verwijderen](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
-            + [De Salesforce-synchronisatie inschakelen/uitschakelen](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
-            + [Impliciete Salesforce-acties](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
-            + [Salesforce-synchronisatiefouten](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
-            + [Status Salesforce-synchronisatie](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
-            + [Aanmelden met OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + Details SFDC-synchronisatie {#sfdc-sync-details}
+            + [Een bestaand Salesforce-veld toevoegen aan Marketo Sync](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md)
+            + [Standaardtoewijzing Salesforce-veld](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping.md)
+            + [Een Salesforce-veld verbergen voor Marketo-synchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)
+            + [Hoe te om de Statussen van het Programma en de Status van de Campagne Salesforce voorafgaand aan Synchronisatie aan te passen](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
+            + [SFDC-synchronisatie: Account synchroniseren](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+            + [SFDC-synchronisatie: Activiteitensynchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
+            + [SFDC-synchronisatie: Campagne synchroniseren](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
+            + [SFDC-synchronisatie: Synchroniseren](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
+            + [SFDC-synchronisatie: Een lead omzetten in een contactpersoon in Salesforce](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
+            + [SFDC-synchronisatie: Aangepaste objectsynchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
+            + [SFDC-synchronisatie: Een lead/contactpersoon verwijderen](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
+            + [SFDC-synchronisatie: Veldsynchronisatie](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
+            + [SFDC-synchronisatie: Synchronisatie van leider/eigenaar account](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+            + [SFDC-synchronisatie: Wachtrij voor lead](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
+            + [SFDC-synchronisatie: Synchronisatie van lead](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
+            + [SFDC-synchronisatie: Een lead/contactpersoon/persoon samenvoegen](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
+            + [SFDC-synchronisatie: Opportunity synchroniseren](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md)
+         + [Picklist-waarden toevoegen/verwijderen](product-docs/crm-sync/salesforce-sync/add-remove-picklist-values.md)
+         + [De Salesforce-synchronisatie inschakelen/uitschakelen](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
+         + [Impliciete Salesforce-acties](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
+         + [Aanmelden met OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Salesforce-synchronisatiefouten](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
+         + [Status Salesforce-synchronisatie](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
+         + [Persoonlijke accounts gebruiken](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
    + Demand Generation {#demand-generation}
       + Netwerkintegratie toevoegen {#ad-network-integrations}
          + [Inzicht in ad-netwerkintegratie](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
@@ -813,7 +813,7 @@ ht-degree: 0%
                + [Sjabloon 12-F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-12-f.md)
                + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-a.md)
                + [Sjabloon 13-B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-b.md)
-               + [Template 13-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
+               + [Template 13-C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-c.md)
                + [Sjabloon 13-D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-d.md)
                + [Sjabloon 13-E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-13-e.md)
                + [Template 14-A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-14-a.md)
