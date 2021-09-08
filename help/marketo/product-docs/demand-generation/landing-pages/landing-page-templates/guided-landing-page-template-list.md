@@ -1,15 +1,16 @@
 ---
 unique-page-id: 7515616
-description: Geleide landingspagina Sjabloonlijst - Marketo-documenten - Productdocumentatie
+description: Sjabloonlijst met geleide landingspagina - Marketo Docs - Productdocumentatie
 title: Sjabloonlijst met geleide landingspagina
-translation-type: tm+mt
-source-git-commit: 4124b2b8a41de486f35cb046ae883b301d20c36c
+exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
+hide: true
+hidefromtoc: true
+source-git-commit: d3a8aedba3c2b3403f6e7f206a51495ccab9ecd8
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
-
 
 # Sjabloonlijst met geleide landingspagina {#guided-landing-page-template-list}
 
@@ -17,7 +18,7 @@ Blader door onze verzameling voorbeeldsjablonen, voor gebruik met de [Guided Lan
 
 >[!NOTE]
 >
->Marketo Support is niet ingesteld voor hulp bij het oplossen van problemen met HTML. Raadpleeg een webontwikkelaar als u hulp nodig hebt bij het wijzigen van een van deze sjablonen.
+>Marketo Support is niet ingesteld als hulp bij het oplossen van problemen met HTML. Raadpleeg een webontwikkelaar als u hulp nodig hebt bij het wijzigen van een van deze sjablonen.
 
 Een sjabloon importeren in Marketo:
 
@@ -73,9 +74,9 @@ Een sjabloon importeren in Marketo:
 | ![](assets/11f.jpg) | ![](assets/12a.jpg) | ![](assets/12b.jpg) |
 | [Template 12-C](guided-landing-page-templates/template-12-c.md) | [Sjabloon 12-D](guided-landing-page-templates/template-12-d.md) | [Sjabloon 12-E](guided-landing-page-templates/template-12-e.md) |
 | ![](assets/12c.jpg) | ![](assets/12d.jpg) | ![](assets/12e.jpg) |
-| [Sjabloon 12-F](guided-landing-page-templates/template-12-f.md) | [Template 13-A](guided-landing-page-templates/template-13-a.md) | [Sjabloon 13-B](guided-landing-page-templates/template-13-b.md) |
+| [Sjabloon 12-F](guided-landing-page-templates/template-12-f.md) | [Template 13-C](guided-landing-page-templates/template-13-a.md) | [Sjabloon 13-B](guided-landing-page-templates/template-13-b.md) |
 | ![](assets/12f.jpg) | ![](assets/13a.jpg) | ![](assets/13b.jpg) |
-| [Template 13-A](guided-landing-page-templates/template-13-c.md) | [Sjabloon 13-D](guided-landing-page-templates/template-13-d.md) | [Sjabloon 13-E](guided-landing-page-templates/template-13-e.md) |
+| [Template 13-C](guided-landing-page-templates/template-13-c.md) | [Sjabloon 13-D](guided-landing-page-templates/template-13-d.md) | [Sjabloon 13-E](guided-landing-page-templates/template-13-e.md) |
 | ![](assets/13c.jpg) | ![](assets/13d.jpg) | ![](assets/13e.jpg) |
 | [Template 14-A](guided-landing-page-templates/template-14-a.md) | [Sjabloon 14-B](guided-landing-page-templates/template-14-b.md) | [Template 14-C](guided-landing-page-templates/template-14-c.md) |
 | ![](assets/14a.jpg) | ![](assets/14b.jpg) | ![](assets/14c.jpg) |
