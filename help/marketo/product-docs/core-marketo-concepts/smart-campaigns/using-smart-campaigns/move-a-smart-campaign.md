@@ -3,54 +3,33 @@ unique-page-id: 6094949
 description: Een slimme campagne verplaatsen - Marketo Docs - Productdocumentatie
 title: Een slimme campagne verplaatsen
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 361a736fdf28a2e929cc781ba8eec27c6e1fbf30
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 # Een slimme campagne verplaatsen {#move-a-smart-campaign}
 
-Verplaats een slimme campagne tussen verschillende programma&#39;s of omslagen door belemmering-en-daling of de bewegingseigenschap in de boom te gebruiken.
-
-## Slepen en neerzetten gebruiken {#use-drag-and-drop}
+Verplaats een slimme campagne tussen verschillende programma&#39;s of omslagen door belemmering-en-daling of de bewegingseigenschap in de boom te gebruiken. De regels van uw slimme campagne zullen niet veranderen, het zal enkel op een verschillende plaats worden genesteld.
 
 1. Ga naar **Marketingactiviteiten**.
 
-   ![](assets/login-marketing-activities-2.png)
+   ![](assets/move-a-smart-campaign-1.png)
 
-1. Selecteer de slimme campagne en sleep deze naar een nieuw programma.
+1. Zoek de slimme campagne die u wilt verplaatsen, klik er met de rechtermuisknop op en selecteer **Move**.
 
-   ![](assets/rockclimbing-tabfix.jpg)
+   ![](assets/move-a-smart-campaign-2.png)
 
-   Geweldig! Die slimme campagne staat nu in een nieuw programma. Dit werkt ook met mappen.
+1. Selecteer **To** (bestemming), **Program**, en facultatieve **Folder**. Selecteer **Verplaatsen**.
+
+   ![](assets/move-a-smart-campaign-3.png)
 
    >[!NOTE]
    >
-   >De regels van uw slimme campagne zullen niet veranderen - het zal enkel op een verschillende plaats worden genesteld.
+   >In dit voorbeeld verplaatsen we de slimme campagne naar een ander programma, maar u kunt deze ook naar een campagnemap verplaatsen.
 
-## De functie Verplaatsen {#use-the-move-feature} gebruiken
+Goed gedaan! De slimme campagne is verplaatst.
 
-U kunt slimme campagnes ook verplaatsen met de functie Verplaatsen in de boomstructuur.
-
-1. Klik met de rechtermuisknop op de slimme campagne. Selecteer **Verplaatsen**.
-
-   ![](assets/rockclimbing2.jpg)
-
-1. Kies tussen het bewegen naar **Programma** of **Omslag**.
-
-   ![](assets/image2015-2-25-13-3a34-3a20.png)
-
-1. Selecteer de specifieke plaats voor de slimme campagne om zich te bewegen.
-
-   ![](assets/image2015-2-25-13-3a36-3a4.png)
-
-1. Klik **Verplaatsen**.
-
-   ![](assets/image2015-2-25-13-3a37-3a44.png)
-
-   Hoogste vijf! Deze slimme campagne is verplaatst.
-
-   ![](assets/image2015-2-25-13-39-51-copy-281-29.png)
+![](assets/move-a-smart-campaign-4.png)

@@ -3,24 +3,26 @@ description: Systeembeheerder instellen - Marketo Docs - Productdocumentatie
 title: Systeembeheerder instellen
 hide: true
 hidefromtoc: true
-source-git-commit: 5d068e01870b4ced4a444c48f8a257f88a869384
+source-git-commit: 361a736fdf28a2e929cc781ba8eec27c6e1fbf30
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
 # Systeembeheerder instellen {#set-up-system-admin}
 
+## Een productprofiel maken {#create-a-product-profile}
+
 Tekst
 
-Zodra u als Admin van het Systeem van Marketo aan (de? wordt toegevoegd? an?) Adobe org, er zijn een paar stappen u moet nemen om de opstelling te voltooien.
+Nadat u als Marketo System Admin aan een Adobe org hebt toegevoegd, moet u een aantal stappen uitvoeren om de installatie te voltooien.
 
-1. In e-mail ontvangt u (hoe ontvangen zij dit?), klik **Aan de slag**.
+1. Nadat uw Adobe org is gevestigd, zal de aangewezen Admin van het Systeem een welkome e-mail ontvangen. Klik in die e-mail op **Aan de slag**.
 
 PICC
 
-1. Voer Adobe Identy in?
+1. Voer Adobe Identy in? KOPPELING NAAR BESTAANDE DOC - ALS OVERSLAAN IS INGESTELD OP STAP?
 
 PICC
 
@@ -32,7 +34,7 @@ PICC
 
 PICC
 
-1. tekst.
+1. (kies abonnement - deze stappen moeten voor elke sub worden gevolgd)
 
 PICC
 
@@ -44,6 +46,8 @@ PICC
 
 PICC
 
+(Als u meerdere productprofielen instelt, ongeacht aan welke gebruiker een gebruiker is toegevoegd, hebben deze dezelfde toegang tot Marketo)
+
 ## Een productbeheerder toevoegen {#add-a-product-admin}
 
 1. Na het volgen van de stappen hierboven, klik **Admins** tabel.
@@ -54,4 +58,6 @@ PICC
 
 PICC
 
-1. Zoek de gebruiker die u wilt toevoegen. Voornaam en achternaam zijn optioneel.
+1. Zoek de gebruiker die u wilt toevoegen. Voornaam en achternaam zijn optioneel. NIET VOORVULLEN
+
+PICC
