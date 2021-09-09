@@ -3,10 +3,9 @@ unique-page-id: 10100311
 description: Een universele id gebruiken voor aanmelding bij een abonnement - Marketo Docs - Productdocumentatie
 title: Een universele id gebruiken voor aanmelding bij een abonnement
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 591279dfb573853eb8781d7984c65716804120b0
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,10 +21,6 @@ De het niveaumontages van het abonnement worden gerespecteerd voor gebruikers di
 ## Een universele id instellen {#setting-up-a-universal-id}
 
 Van elk afzonderlijk exemplaar, moet uw beheerder van Marketo u aan elk van uw verschillende abonnementen met de zelfde login uitnodigen. Marketo kan uw bestaande aanmeldingen niet automatisch samenvoegen. Als u de Universal ID hebt ingeschakeld, is **uw Marketo-instantie maximaal 30 minuten niet beschikbaar**. Als u een grotere gebruikersbasis hebt, zou het een beetje langer kunnen zijn.
-
->[!CAUTION]
->
->Als Single ID of Universal ID is ingeschakeld voor een gebruiker, kunnen de rollen en werkruimten ervan **niet** worden bewerkt na de eerste instelling.
 
 >[!NOTE]
 >
