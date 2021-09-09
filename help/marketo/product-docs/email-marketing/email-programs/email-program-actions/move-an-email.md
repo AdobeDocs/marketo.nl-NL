@@ -2,41 +2,38 @@
 unique-page-id: 10098691
 description: Een e-mail verplaatsen - Marketo Docs - Productdocumentatie
 title: Een e-mail verplaatsen
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
+source-git-commit: 24aa698604c4480bd4c588bd7156e0d70556143b
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
 
-
-# Een e-mail {#move-an-email} verplaatsen
+# Een e-mail verplaatsen {#move-an-email}
 
 Wilt u een e-mailbericht van het ene programma naar het andere verplaatsen? Zo gaat het.
 
 1. Ga naar **Marketingactiviteiten**.
 
-   ![](assets/one-2.png)
+   ![](assets/move-an-email-1.png)
 
 1. Zoek de e-mail die u wilt verplaatsen, klik er met de rechtermuisknop op en selecteer **Move**.
 
-   ![](assets/leadperformance.jpg)
+   ![](assets/move-an-email-2.png)
 
-1. Klik op de vervolgkeuzelijst **Verplaatsen naar** en selecteer **Marketingactiviteiten**.
+1. Selecteer **Doel**, **Programma**, en facultatieve **Omslag**. Selecteer **Verplaatsen**.
 
-   ![](assets/three-2.png)
+   ![](assets/move-an-email-3.png)
 
    >[!NOTE]
    >
    >In dit voorbeeld wordt een e-mailbericht verplaatst naar een ander programma, maar u kunt een e-mailbericht ook verplaatsen naar een map in de Design Studio.
 
-1. Klik **Programma** drop-down, vind en selecteer het bestemmingsprogramma, en klik **Beweging**.
-
-   ![](assets/four-2.png)
-
    Je ziet je email nu in het andere programma leven.
 
-   ![](assets/leadperformance2.jpg)
+   ![](assets/move-an-email-4.png)
 
-   Mooi nihil!
+   >[!NOTE]
+   >
+   >U kunt uw e-mail ook eenvoudig slepen en neerzetten naar een nieuwe bestemming in de boomstructuur.
