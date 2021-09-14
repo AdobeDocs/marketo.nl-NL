@@ -3,9 +3,9 @@ description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Hoewel voor Sales Connect een productkaart in AC wordt weergegeven, mag AC niet 
 
 **Ga ik nog steeds naar het gedeelte Beheer in Marketo om wijzigingen aan te brengen in het account?**
 
-Nee, u moet naar [account.adobe.com](account.adobe.com) navigeren.
+Nee, u moet naar [account.adobe.com](https://account.adobe.com) navigeren.
 
 **Hoe werkt dit met Marketo Universal ID?**
 
