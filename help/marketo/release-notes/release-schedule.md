@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Releaseplanning - Marketo-documenten - productdocumentatie
 title: Releaseplanning
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 7ee95e3511f42f6c6ecf24b95fb3bbb3e9f55752
+source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 **Geen**: Marketo hanteert een driemaandelijks hoofdreleaseschema. Zodra deze beschikbaar is, worden alle releaseopmerkingen gekoppeld in de onderstaande tabel.
 
-**Releasedatum**: Doorgaans begint de introductie op woensdag van de releaseweek, waarbij het grootste deel van de upgrade plaatsvindt op vrijdagavond. Er wordt een e-mail verzonden met specifieke datums en releasedetails. De vermelde datum is voor de vrijdag update.
+**Releasedatum**: Doorgaans begint de rollout op dinsdag van de releaseweek, waarbij het grootste deel van de upgrade vrijdagavond plaatsvindt. Er wordt een e-mail verzonden met specifieke datums en releasedetails. De vermelde datum is voor de vrijdag update.
 
 **Voortgang**:
 
