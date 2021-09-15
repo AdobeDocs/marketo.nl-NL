@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437819
-description: Sjabloon 15B - Marketo Docs - Productdocumentatie
-title: Sjabloon 15B
+description: Template 15-B - Marketo-documenten - Productdocumentatie
+title: Sjabloon 15-B
 exl-id: ad55baf3-9670-42c2-8590-af0d4cf934a6
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Sjabloon 15B {#template-15b}
+# Sjabloon 15-B {#template-b}
 
-[Sjabloon 15B downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
+[Sjabloon 15-B downloaden](https://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)
 
 ![](assets/image2015-8-13-13-3a29-3a31.png)
 
@@ -27,4 +27,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Sjabloon 15B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)
+[Template15-B.html](https://docs.marketo.com/download/attachments/9437819/template-15b.html?version=1&amp;modificationdate=1438980430000&amp;api=v2)

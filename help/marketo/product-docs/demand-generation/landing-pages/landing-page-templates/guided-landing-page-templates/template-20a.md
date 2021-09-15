@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092905
-description: Template 20A - Marketo Docs - Productdocumentatie
-title: Sjabloon 20A
+description: Template 20-A - Marketo Docs - Productdocumentatie
+title: Template 20-A
 exl-id: 0a535a43-c7c4-4a07-8562-da85ed4b8d5d
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# Sjabloon 20A {#template-20a}
+# Template 20-A {#template-a}
 
-[Sjabloon 20A downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
+[Sjabloon 20-A downloaden](https://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&amp;modificationdate=1441750550000&amp;api=v2)
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 
@@ -27,4 +27,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Sjabloon 20A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
+[Template20-A.html](https://docs.marketo.com/download/attachments/10092905/template-20a.html?version=1&amp;modificationdate=1441750550000&amp;api=v2)

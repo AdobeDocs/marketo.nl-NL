@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092916
-description: Template 20C - Marketo-documenten - Productdocumentatie
-title: Sjabloon 20C
+description: Template 20-C - Marketo Docs - Productdocumentatie
+title: Template 20-C
 exl-id: 204c00f7-d0a4-4edc-a738-9ec29f442a6a
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Sjabloon 20C {#template-20c}
+# Template 20-C {#template-c}
 
-[Sjabloon 20C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+[Sjabloon 20-C downloaden](https://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&amp;modificationdate=1441750739000&amp;api=v2)
 
 ![](assets/template-20c.png)
 
@@ -27,4 +27,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Sjabloon 20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+[Template20-C.html](https://docs.marketo.com/download/attachments/10092916/template-20c.html?version=1&amp;modificationdate=1441750739000&amp;api=v2)

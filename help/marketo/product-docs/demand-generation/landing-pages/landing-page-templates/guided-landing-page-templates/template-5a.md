@@ -1,0 +1,31 @@
+---
+unique-page-id: 8162243
+description: Template 5-A - Marketo-documenten - Productdocumentatie
+title: Template 5-A
+exl-id: 85f9732c-0968-44bc-b59f-d39207f12dd7
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 0%
+
+---
+
+# Template 5-A {#template-a}
+
+[Template-5A downloaden](https://docs.marketo.com/download/attachments/8162243/template-5a.html?version=1&amp;modificationdate=1437692717000&amp;api=v2)
+
+![](assets/image2015-6-29-16-3a9-3a32.png)
+
+Deze sjabloon bevat de volgende inhoud:
+
+* Een koptekst (optioneel)
+* Een primaire sectie
+
+   * Dit omvat de hoofdafbeelding, de hoofdtitel en drie opsommingstekens.
+
+* Drie carrosseriesegmenten (optioneel)
+* Voettekst (optioneel)
+
+**Klik hieronder om deze sjabloon te downloaden:**
+
+[Template-5A.html](https://docs.marketo.com/download/attachments/8162243/template-5a.html?version=1&amp;modificationdate=1437692717000&amp;api=v2)
