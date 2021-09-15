@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8784011
-description: Sjabloon 10E - Marketo Docs - Productdocumentatie
-title: Sjabloon 10E
+description: Template 10-E - Marketo Docs - Productdocumentatie
+title: Sjabloon 10-E
 exl-id: 81a61057-fe24-4dcb-9a9c-73eca9528b4b
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# Sjabloon 10E {#template-10e}
+# Sjabloon 10-E {#template-e}
 
-[Sjabloon 10E downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)
+[Sjabloon 10-E downloaden](https://docs.marketo.com/download/attachments/8784011/template-10e.html?version=2&amp;modificationdate=1438210974000&amp;api=v2)
 
 ![](assets/image2015-7-27-11-3a6-3a25.png)
 
@@ -27,4 +27,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Sjabloon 10E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)
+[Template10-E.html](https://docs.marketo.com/download/attachments/8784011/template-10e.html?version=2&amp;modificationdate=1438210974000&amp;api=v2)

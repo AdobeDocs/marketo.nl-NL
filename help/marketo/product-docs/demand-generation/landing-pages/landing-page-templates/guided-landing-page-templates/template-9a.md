@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783981
-description: Template 9A - Marketo-documenten - Productdocumentatie
-title: Template 9A
+description: Template 9-A - Marketo Docs - Productdocumentatie
+title: Template 9-A
 exl-id: cc729eee-224b-4acd-87d8-7fb9155d73fb
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Template 9A {#template-9a}
+# Template 9-A {#template-a}
 
-[Sjabloon 9A downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
+[Sjabloon 9-A downloaden](https://docs.marketo.com/download/attachments/8783981/template-9a.html?version=2&amp;modificationdate=1438210648000&amp;api=v2)
 
 ![](assets/image2015-7-28-15-3a9-3a26.png)
 
@@ -27,4 +27,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Sjabloon 9A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
+[Template9-A.html](https://docs.marketo.com/download/attachments/8783981/template-9a.html?version=2&amp;modificationdate=1438210648000&amp;api=v2)

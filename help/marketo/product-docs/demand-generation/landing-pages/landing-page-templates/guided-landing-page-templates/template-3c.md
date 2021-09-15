@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8160086
-description: Template 3C - Marketo-documenten - Productdocumentatie
-title: Sjabloon 3C
+description: Template 3-C - Marketo Docs - Productdocumentatie
+title: Template 3-C
 exl-id: 0bf7cb43-607e-4c9b-a860-511837925a1e
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Sjabloon 3C {#template-3c}
+# Template 3-C {#template-c}
 
-[Sjabloon 3C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
+[Sjabloon 3-C downloaden](https://docs.marketo.com/download/attachments/8160086/template3-c.html?version=1&amp;modificationdate=1434390549000&amp;api=v2)
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Sjabloon 3C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
+[Template3-C.html](https://docs.marketo.com/download/attachments/8160086/template3-c.html?version=1&amp;modificationdate=1434390549000&amp;api=v2)

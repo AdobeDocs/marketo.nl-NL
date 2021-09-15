@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437559
-description: Template 11B - Marketo-documenten - Productdocumentatie
-title: Sjabloon 11B
+description: Template 11-B - Marketo-documenten - Productdocumentatie
+title: Sjabloon 11-B
 exl-id: 5ea47f4a-b0a3-41ba-8066-b1469ae2b3c9
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# Sjabloon 11B {#template-11b}
+# Sjabloon 11-B {#template-b}
 
-[Sjabloon 11B downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)
+[Sjabloon 11-B downloaden](https://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)
 
 ![](assets/image2015-8-4-11-3a2-3a54.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Sjabloon 11B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11b.html)
+[Template11-B.html](https://docs.marketo.com/download/attachments/9437559/template-11b.html?version=1&amp;modificationdate=1438211296000&amp;api=v2)

@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8159309
-description: Template 3A - Marketo-documenten - Productdocumentatie
-title: Sjabloon 3A
+description: Template 3-A - Marketo-documenten - Productdocumentatie
+title: Template 3-A
 exl-id: ec664f4b-b82d-408b-8657-d41056a9eb16
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Sjabloon 3A {#template-3a}
+# Template 3-A {#template-a}
 
-[Sjabloon 3A downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+[Sjabloon 3-A downloaden](https://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&amp;modificationdate=1434057345000&amp;api=v2)
 
 ![](assets/image2015-6-12-9-3a2-3a8.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Sjabloon 3A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3a.html)
+[Template3-A.html](https://docs.marketo.com/download/attachments/8159309/template3-a.html?version=1&amp;modificationdate=1434057345000&amp;api=v2)

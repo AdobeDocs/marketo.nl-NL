@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8160090
-description: Sjabloon 3D - Marketo Docs - Productdocumentatie
-title: Sjabloon 3D
+description: Template 3-D - Marketo Docs - Productdocumentatie
+title: Sjabloon 3-D
 exl-id: cb72b874-5294-47b8-b151-e40697d78f13
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# Sjabloon 3D {#template-3d}
+# Sjabloon 3-D {#template-d}
 
-[Sjabloon 3D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+[Sjabloon 3-D downloaden](https://docs.marketo.com/download/attachments/8160090/template3-d.html?version=1&amp;modificationdate=1434390935000&amp;api=v2)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Sjabloon 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+[Template3-D.html](https://docs.marketo.com/download/attachments/8160090/template3-d.html?version=1&amp;modificationdate=1434390935000&amp;api=v2)

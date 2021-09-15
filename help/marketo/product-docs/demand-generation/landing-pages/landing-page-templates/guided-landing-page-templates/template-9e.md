@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783993
-description: Template 9E - Marketo-documenten - Productdocumentatie
-title: Sjabloon 9E
+description: Template 9-E - Marketo Docs - Productdocumentatie
+title: Sjabloon 9-E
 exl-id: 72daaf52-a829-404d-a5ef-6a81abafa8c3
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# Sjabloon 9E {#template-9e}
+# Sjabloon 9-E {#template-e}
 
-[Sjabloon 9E downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
+[Sjabloon 9-E downloaden](https://docs.marketo.com/download/attachments/8783993/template-9e.html?version=2&amp;modificationdate=1438210788000&amp;api=v2)
 
 ![](assets/image2015-7-28-15-3a33-3a3.png)
 
@@ -27,4 +27,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Sjabloon 9E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html)
+[Template9-E.html](https://docs.marketo.com/download/attachments/8783993/template-9e.html?version=2&amp;modificationdate=1438210788000&amp;api=v2)
