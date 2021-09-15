@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8784005
-description: Template 10-C - Marketo Docs - Productdocumentatie
-title: Template 10-C
+description: Template 10C - Marketo Docs - Productdocumentatie
+title: Sjabloon 10C
 exl-id: e7146ecc-b3c0-4262-bcc4-521bd61acffa
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Template 10-C {#template-c}
+# Sjabloon 10C {#template-10c}
 
-[Sjabloon 10-C downloaden](https://docs.marketo.com/download/attachments/8784005/template-10c.html?version=2&amp;modificationdate=1438210917000&amp;api=v2)
+[Sjabloon 10C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
 
 ![](assets/image2015-7-27-10-3a57-3a9.png)
 
@@ -27,4 +27,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Template10-C.html](https://docs.marketo.com/download/attachments/8784005/template-10c.html?version=2&amp;modificationdate=1438210917000&amp;api=v2)
+[Sjabloon 10C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10c.html)
