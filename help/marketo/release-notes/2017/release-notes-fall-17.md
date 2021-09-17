@@ -3,15 +3,14 @@ unique-page-id: 12983280
 description: Opmerkingen bij de release - herfst '17 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - herfst '17
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cbfa6110e85c185a5b65342052f168d9715f2f6a
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: &#39;17 {#release-notes-fall}
+# Opmerkingen bij de release: Herfst &#39;17 {#release-notes-fall}
 
 De volgende functies zijn opgenomen in de Fall &#39;17-release. Raadpleeg de Marketo-editie voor informatie over de beschikbaarheid van functies.
 
@@ -47,7 +46,7 @@ Marketo heeft een nieuwe optie om een segment te kiezen wanneer het verzenden va
 
 Pas uw LinkedIn Lead Gen-formulieren aan om aangepaste lead-kenmerken te verzamelen. U kunt nu maximaal drie aangepaste vragen per formulier stellen, kiezen uit tekstinvoer van één regel of meerkeuzevragen en terugkoppelen naar hoofdvelden van Marketo.
 
-## [Slack-integratie](/help/marketo/product-docs/administration/additional-integrations/add-slack-as-a-launchpoint-service.md) {#slack-integration}
+## Slack-integratie {#slack-integration}
 
 We hebben twee functies uitgebracht als onderdeel van onze nieuwe Slack-integratie:
 
@@ -60,7 +59,7 @@ We hebben twee functies uitgebracht als onderdeel van onze nieuwe Slack-integrat
 
 Marketo ABM synchroniseert nu CRM-accounts en geeft deze weer zonder contactpersonen. Neem nieuwe accounts op zonder verkoopgeschiedenis of marketinggeschiedenis en volg de vorderingen door de volgende resultaten af te stemmen op de accounts.
 
-## ContentAI-analysemogelijkheden {#contentai-analytics}
+## ContentAI-analyse {#contentai-analytics}
 
 **[Nieuw ABM-accountlijstfilter](https://docs.marketo.com/x/1BPG)**
 
@@ -84,7 +83,7 @@ Bespaar tijd door creatieve middelen en afbeeldingen op meerdere kanalen in Mark
 
 ![](assets/image2017-11-16-11-3a26-3a10.png)
 
-## Integratie {#integration}
+## Integratie  {#integration}
 
 **[E-mailvoorbeeld-API](https://developers.marketo.com/rest-api/assets/emails/)**
 
