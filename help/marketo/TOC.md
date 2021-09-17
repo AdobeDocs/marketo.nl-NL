@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 296dce8edf65115f9c10a79c4f1981b57739f713
+source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
 workflow-type: tm+mt
-source-wordcount: '8089'
+source-wordcount: '8096'
 ht-degree: 0%
 
 ---
@@ -619,6 +619,10 @@ ht-degree: 0%
          + [Google Customer Match toevoegen als een LaunchPoint-service](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Een lijst verzenden naar een advertentienetwerk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + Dynamisch chat {#dynamic-chat}
+         + [Dynamisch chatoverzicht](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Dialoogvensters](product-docs/demand-generation/dynamic-chat/dialogues.md)
+         + [Configuratie](product-docs/demand-generation/dynamic-chat/configuration.md)
       + Gebeurtenissen {#events}
          + Gebeurtenissen {#understanding-events}
             + [Leden toevoegen aan een gebeurtenisprogramma](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)
