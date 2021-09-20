@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783966
-description: Template 8-C - Marketo-documenten - Productdocumentatie
-title: Template 8-C
+description: Template 8C - Marketo-documenten - Productdocumentatie
+title: Template 8C
 exl-id: 45f0defc-6554-459c-a862-731d18f9ed6b
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-# Template 8-C {#template-c}
+# Template 8C {#template-8c}
 
-[Sjabloon 8-C downloaden](https://docs.marketo.com/download/attachments/8783966/template-8c.html?version=1&amp;modificationdate=1482175053000&amp;api=v2)
+[Sjabloon 8C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
 
 ![](assets/image2015-7-29-14-3a12-3a24.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Template8-C.html](https://docs.marketo.com/download/attachments/8783966/template-8c.html?version=1&amp;modificationdate=1482175053000&amp;api=v2)
+[Sjabloon 8C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)

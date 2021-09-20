@@ -1,18 +1,18 @@
 ---
 unique-page-id: 8783941
-description: Template 7-A - Marketo-documenten - Productdocumentatie
-title: Template 7-A
+description: Template 7A - Marketo-documenten - Productdocumentatie
+title: Template 7A
 exl-id: f27b481a-6fae-4908-9488-b7fe456af071
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: df197322c7bdafb695b532bce51802961e453335
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Template 7-A {#template-a}
+# Template 7A {#template-7a}
 
-[Sjabloon 7-A downloaden](https://docs.marketo.com/download/attachments/8783941/template-7a.html?version=1&amp;modificationdate=1437693282000&amp;api=v2)
+[Sjabloon 7A downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)
 
 ![](assets/image2015-7-29-14-3a22-3a54.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Template7-A.html](https://docs.marketo.com/download/attachments/8783941/template-7a.html?version=1&amp;modificationdate=1437693282000&amp;api=v2)
+[Sjabloon 7A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)

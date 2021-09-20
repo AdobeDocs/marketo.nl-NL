@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10092896
-description: Template 19-C - Marketo Docs - Productdocumentatie
-title: Template 19-C
+description: Template 19C - Marketo-documenten - Productdocumentatie
+title: Sjabloon 19C
 exl-id: 9f518caf-2270-46d8-b9ce-3b11b10af338
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# Template 19-C {#template-c}
+# Sjabloon 19C {#template-19c}
 
-[Sjabloon 19-C downloaden](https://docs.marketo.com/download/attachments/10092896/template-19c.html?version=1&amp;modificationdate=1441750440000&amp;api=v2)
+[Sjabloon 19C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 
@@ -27,4 +27,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Template19-C.html](https://docs.marketo.com/download/attachments/10092896/template-19c.html?version=1&amp;modificationdate=1441750440000&amp;api=v2)
+[Sjabloon 19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)

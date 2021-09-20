@@ -1,18 +1,18 @@
 ---
 unique-page-id: 9437807
-description: Template 14-C - Marketo-documenten - Productdocumentatie
-title: Template 14-C
+description: Template 14C - Marketo-documenten - Productdocumentatie
+title: Sjabloon 14C
 exl-id: d8a66bbc-9795-42d3-81fc-d70039856f92
-source-git-commit: c09c2bcd44a1bf5357f14cc7456229ccb3a6b3cc
+source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# Template 14-C {#template-c}
+# Sjabloon 14C {#template-14c}
 
-[Sjabloon 14-C downloaden](https://docs.marketo.com/download/attachments/9437807/template-14c.html?version=1&amp;modificationdate=1438980264000&amp;api=v2)
+[Sjabloon 14C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
 
 ![](assets/image2015-8-11-17-3a23-3a54.png)
 
@@ -28,4 +28,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Template14-C.html](https://docs.marketo.com/download/attachments/9437807/template-14c.html?version=1&amp;modificationdate=1438980264000&amp;api=v2)
+[Sjabloon 14C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14c.html)
