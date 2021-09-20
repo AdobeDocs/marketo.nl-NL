@@ -3,9 +3,9 @@ description: Configuratie - Marketo Docs - Productdocumentatie
 title: Configuratie
 hide: true
 hidefromtoc: true
-source-git-commit: ab594ddb7c416f7b6c98e2b4d3640a2db6208e69
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ PICC van opvulling
 
 **Instellingen agent**
 
-Wijs in de Montages van de Agent, een naam specifiek aan het praatje toe (het zal bij de bovenkant verschijnen). U kunt de reactievertraging (in seconden) ook bepalen, en uw praatjeavatar veranderen.
+In de Montages van de Agent, kunt u een etiket aan uw praatbox toevoegen (bijvoorbeeld: &quot;Adobe Bot&quot;) die bovenaan wordt weergegeven. U kunt de reactievertraging (in seconden) ook bepalen, en uw praatjeavatar veranderen.
 
 PICC van instellingsnaam
 

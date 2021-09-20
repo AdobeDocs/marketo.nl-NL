@@ -1,9 +1,10 @@
 ---
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
-source-git-commit: 6f9b5a591a315fd6ff036cd5d51dbb432bd31733
+exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '904'
+source-wordcount: '903'
 ht-degree: 0%
 
 ---
@@ -22,7 +23,7 @@ De volgende functies worden vrijgegeven op **20 augustus 2021**.
 
 ## Experience Automation {#experience-automation}
 
-* **Marketo Engage-gebruikersverificatie via Adobe-id**: Vanaf september 2021 worden nieuwe Marketo Engage-gebruikers met Enterprise-pakketten aan boord genomen met Adobe ID-gebruikersgegevens. De migratie van huidige gebruikers naar het geïntegreerde identiteitssysteem zal pas medio 2022 plaatsvinden en tot nader order is geen actie vereist. Met gebruikersverificatie voor Adobe-identiteit kunnen IT/Security-beheerders meerdere Marketo Engage-productinstanties beheren samen met andere Experience Cloud-oplossingen en SSO configureren via een gemeenschappelijke console. Beheerders kunnen gebruikersgroepen en gebruikersrechten eenvoudig op één locatie beheren.
+* **Marketo Engage-gebruikersverificatie via Adobe-id**: Binnenkort worden nieuwe Marketo Engage-gebruikers met Enterprise-pakketten ingeschakeld met Adobe ID-gebruikersgegevens. De migratie van huidige gebruikers naar het geïntegreerde identiteitssysteem zal pas medio 2022 plaatsvinden en tot nader order is geen actie vereist. Met gebruikersverificatie voor Adobe-identiteit kunnen IT/Security-beheerders meerdere Marketo Engage-productinstanties beheren samen met andere Experience Cloud-oplossingen en SSO configureren via een gemeenschappelijke console. Beheerders kunnen gebruikersgroepen en gebruikersrechten eenvoudig op één locatie beheren.
 
 * **Uitvoerbare campagne nesten**: Uitvoerbare campagnes kunnen nu ook andere uitvoerbare campagnes roepen die u toestaan om hen tot drie niveaus diep te nesten. Dit maakt verdere consolidatie van gemeenschappelijke operationele stromen mogelijk en verbetert Slim Campagnebeheer.
 

@@ -3,9 +3,9 @@ description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 invoertekst
 
+>[!NOTE]
+>
+>Het dynamische Chat is in de loop van het proces om, met alle abonnementen toegang te hebben tegen DATE.
+
 ## Dynamische chat instellen {#access-dynamic-chat}
 
-text
+Voer de volgende stappen uit voor de eerste setup.
 
 1. Klik in Mijn Marketo op de tegel **Dynamisch chat**.
 
@@ -24,7 +28,7 @@ text
 
    >[!NOTE]
    >
-   >Als uw Marketo-beheerder de tegel nog niet voor u heeft ingeschakeld, kunt u hier ook [Dynamic Chat openen](https://experience.adobe.com/dynamic-chat/).
+   >Als je niet ziet...Neem contact op met uw Marketo-beheerder.)
 
 1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar Dynamic Chat. Als dat niet het geval is, [stelt u uw Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) in.
 
@@ -32,19 +36,19 @@ text
 
 1. Selecteer **Integrations** om uw Marketo-instantie te verbinden.
 
-PICC
+   PICC
 
 1. Klik OP TEKST HIER INVOEGEN?.
 
-PICC
+   PICC
 
->[!NOTE]
->
->Afhankelijk van de grootte van uw database kan het 5 minuten tot 8 uur duren voordat de synchronisatie is voltooid. De gemiddelde synchronisatietijd is 60 minuten.
+   >[!NOTE]
+   >
+   >Afhankelijk van de grootte van uw database kan het 5 minuten tot 8 uur duren voordat de synchronisatie is voltooid. De gemiddelde synchronisatietijd is 60 minuten.
 
 ## Integraties {#integrations}
 
-Integraties is het eerste tabblad dat u wilt bezoeken wanneer u Dynamic Chat opent. Hier synchroniseert u uw Marketo-abonnement(en), zodat u uw databasegegevens kunt gebruiken om bezoekers van uw site/chat te identificeren ([zie stap 3 hierboven](#access-dynamic-chat)).
+Integraties is het eerste tabblad dat u wilt bezoeken wanneer u Dynamic Chat opent. Hier synchroniseert u uw Marketo-abonnement(en), zodat u uw Marketo-databasegegevens kunt gebruiken om bezoekers van sites/chatten te identificeren ([zie stap 3 hierboven](#access-dynamic-chat)).
 
 ## Dialoogvensters {#dialogues}
 

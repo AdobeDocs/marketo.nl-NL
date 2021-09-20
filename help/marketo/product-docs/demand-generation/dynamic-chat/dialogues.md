@@ -3,9 +3,9 @@ description: Dialoogvensters - Marketo Docs - Productdocumentatie
 title: Dialoogvensters
 hide: true
 hidefromtoc: true
-source-git-commit: c46902686f1d5af63a51f5eaae2dc0e6afe99629
+source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ PICC
 
 Net als in Marketo Smart Lists kunt u met de kenmerken Audience Criteria (criteria voor doelgroepen) een doelgroep definiëren.
 
-Er zijn verschillende kenmerken waaruit u kunt kiezen. In dit voorbeeld kiezen wij Loodstaat _is_ Californië en de Grootte _is groter dan_ 50.
+Er zijn verschillende kenmerken waaruit u kunt kiezen. In dit voorbeeld richten we ons op alle bekende leads in Californië die werken bij een bedrijf met meer dan 50 werknemers.
 
 1. Pak de attributen van de Staat van de Lood en sleep het aan het recht.
 
@@ -58,6 +58,10 @@ PICC
 
 PICC
 
+HOE WORDT ANON LEADS VASTGELEGD
+
+NOTA - misschien vermeld hoe de gevolgde werken/een gebruikscase tonen, leiden e-mail leeg is
+
 ## Groepen toevoegen {#add-groups}
 
 U kunt ook kenmerken groeperen, voor het geval dat u alle kenmerken samen met &quot;een&quot; van een andere wilt hebben.
@@ -77,4 +81,24 @@ Acceptabele indelingen:
 
 >[!NOTE]
 >
->Het gebruiken van een asterisk doet dienst als vangst-all wilkaart. Zo `https://*.website.com` zou de dialoog op elke pagina van de plaats, met inbegrip van subdomeinen (bijvoorbeeld plaatsen: support.website.com). En `https://website.com/folder/*` zou het dialoogvenster op elke HTML-pagina in de volgende map plaatsen (bijvoorbeeld: in dit geval is de map &quot; sport &quot; , dus : website.com/sports/baseball.html, website.com/sports/football.html, enz.).
+>Het gebruiken van een asterisk doet dienst als vangst-all wilkaart. Zo zou `https://*.website.com` de dialoog op elke pagina van de plaats, met inbegrip van subdomeinen (bijvoorbeeld plaatsen: `support.website.com`). En `https://website.com/folder/*` zou het dialoogvenster op elke HTML-pagina in de volgende map plaatsen (bijvoorbeeld: in dit geval is de map &quot; sport &quot; , dus : website.com/sports/baseball.html, website.com/sports/football.html, enz.).
+
+## Stream Designer {#stream-designer}
+
+De stroomontwerper bevat verschillende kaarten u kunt toevoegen om het praatjegesprek te vormen.
+
+TABEL
+
+Bericht: Wordt gebruikt wanneer u een instructie wilt maken zonder reactie nodig (bijvoorbeeld: &quot;Hoi! Alle items zijn vandaag 25% korting met code SAVE25.&quot;)
+
+Vraag: Gebruik deze optie wanneer u een meerkeuzevraag wilt stellen, waarvan u de beschikbare antwoorden kunt opgeven (bijvoorbeeld: Welk type voertuig interesseert u? Reacties = SUV, Compact, Truck, enz.)
+
+Gegevens vastleggen: Gebruik deze optie wanneer u gegevens wilt verzamelen. De drie velden waaruit u kunt kiezen zijn E-mailadres, Telefoonnummer en Tekst (zodat de bezoeker zijn eigen bericht kan schrijven).
+
+Aanstellingsplanner: Biedt de bezoeker een kalender met beschikbare datums om een follow-up te plannen. De beschikbaarheid van de kalender weerspiegelt [de volgende agent in lijn](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
+
+Doel: Dit is de enige kaart die bezoekers niet zullen zien. Het is aan u om te bepalen op welk punt een doel binnen de specifieke praatje wordt bereikt (bijvoorbeeld: Als u de e-mail van de bezoeker wilt verzamelen, plaatst u de Goal-kaart na Info Vastleggen in de Stream.)
+
+MOGELIJKE EIGEN SECTIE
+
+ONDERSTAANDE VOORBEELD(EN) TONEN
