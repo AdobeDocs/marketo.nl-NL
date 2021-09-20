@@ -3,7 +3,7 @@ description: Dialoogvensters - Marketo Docs - Productdocumentatie
 title: Dialoogvensters
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
 workflow-type: tm+mt
 source-wordcount: '473'
 ht-degree: 0%
@@ -95,7 +95,7 @@ Vraag: Gebruik deze optie wanneer u een meerkeuzevraag wilt stellen, waarvan u d
 
 Gegevens vastleggen: Gebruik deze optie wanneer u gegevens wilt verzamelen. De drie velden waaruit u kunt kiezen zijn E-mailadres, Telefoonnummer en Tekst (zodat de bezoeker zijn eigen bericht kan schrijven).
 
-Aanstellingsplanner: Biedt de bezoeker een kalender met beschikbare datums om een follow-up te plannen. De beschikbaarheid van de kalender weerspiegelt [de volgende agent in lijn](help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
+Aanstellingsplanner: Biedt de bezoeker een kalender met beschikbare datums om een follow-up te plannen. De beschikbaarheid van de kalender weerspiegelt [de volgende agent in lijn](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
 
 Doel: Dit is de enige kaart die bezoekers niet zullen zien. Het is aan u om te bepalen op welk punt een doel binnen de specifieke praatje wordt bereikt (bijvoorbeeld: Als u de e-mail van de bezoeker wilt verzamelen, plaatst u de Goal-kaart na Info Vastleggen in de Stream.)
 
