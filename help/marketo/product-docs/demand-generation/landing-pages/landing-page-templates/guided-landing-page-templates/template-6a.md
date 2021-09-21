@@ -27,4 +27,4 @@ Deze sjabloon bevat de volgende inhoud:
 
 **Klik hieronder om deze sjabloon te downloaden:**
 
-[Sjabloon 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
+[Sjabloon 5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
