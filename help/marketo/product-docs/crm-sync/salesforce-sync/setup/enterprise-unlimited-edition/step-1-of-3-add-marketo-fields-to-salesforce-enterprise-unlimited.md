@@ -3,10 +3,9 @@ unique-page-id: 2360362
 description: Stap 1 van 3 - Voeg Marketo-velden toe aan Salesforce (Enterprise/Unlimited) - Marketo Docs - Productdocumentatie
 title: Stap 1 van 3 - Voeg Marketo-velden toe aan Salesforce (Enterprise/Onbeperkt)
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -235,6 +234,10 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
   </tr> 
  </tbody> 
 </table>
+
+>[!NOTE]
+>
+>Waarden in de velden die automatisch door Marketo worden toegewezen, zijn niet onmiddellijk beschikbaar in Salesforce wanneer het nieuwe veld is gemaakt. Marketo synchroniseert de gegevens met Salesforce bij de volgende update van de record op beide systemen (een update van een van de velden die synchroon is tussen Marketo en Salesforce).
 
 ## Aangepaste velden toewijzen voor conversies {#map-custom-fields-for-conversions}
 
