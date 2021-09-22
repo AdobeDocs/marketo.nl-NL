@@ -3,24 +3,24 @@ description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
 
 # Dynamisch chatoverzicht {#dynamic-chat-overview}
 
-invoertekst
+Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om beide leads als doel in te stellen (PEOPLE?) en accounts op hun (BEZOEK UW?) website. Verzamel relevante inhoud, zoals de naam, contactgegevens en vrije tekst. De bezoekers van de plaats kunnen vergaderingen met uw Team van de Verkoop ook boeken. Dynamische chatactiviteiten en betrokkenheidsgegevens kunnen worden gebruikt om leden toe te voegen aan Marketo-programma&#39;s en om kanaalactiviteiten te activeren.
 
 >[!NOTE]
 >
->Het dynamische Chat is in de loop van het proces om, met alle abonnementen toegang te hebben tegen DATE.
+>De dynamische Chat is momenteel bezig om, met alle abonnementen worden uitgerold die toegang door DATE moeten hebben.
 
 ## Dynamische chat instellen {#access-dynamic-chat}
 
-Voer de volgende stappen uit voor de eerste setup.
+NADAT DE TIEL IS TOEGEVOEGD... Voer de volgende stappen uit om aan de slag te gaan.
 
 1. Klik in Mijn Marketo op de tegel **Dynamisch chat**.
 
@@ -52,7 +52,7 @@ Integraties is het eerste tabblad dat u wilt bezoeken wanneer u Dynamic Chat ope
 
 ## Dialoogvensters {#dialogues}
 
-Dialogen zijn de individuele praatjegesprekken u opstelling. U kunt opgeven wie wat voor bekende of zelfs anonieme bezoekers zal zien. [Meer informatie over dialoogvensters](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
+Dialoogvensters vertegenwoordigen één chatgesprek. Beschouw het als een container met alle informatie die u nodig hebt om een aansprekende chatdialoog met uw websitebezoekers te voeren. In elk dialoogvenster kunt u opgeven op welke pagina(&#39;s) u het dialoogvenster wilt weergeven, aan wie u het dialoogvenster wilt laten weergeven, en kunt u de inhoud en de stroom van het dialoogvenster zelf opgeven. Bovendien kunt u metriek vinden om te zien hoe goed uw Dialoog presteert. [Meer informatie over dialoogvensters](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md).
 
 ## Configuratie {#configuration}
 
@@ -60,14 +60,40 @@ In het lusje van de Configuratie, pas de blik en het gevoel van uw diverse Dialo
 
 ## Kalender {#calendar}
 
-In het lusje van de Kalender, verbind uw (Vooruitzichten of Gmail) kalender met Dynamisch Praatje zodat kunnen de bezoekers van de plaats benoemingen met uw agenten plannen.
+In het lusje van de Kalender, verbind uw (Vooruitzichten of Gmail) kalender voor gebruik in afspraak die in het praatje plant. Zodra de kalender van een gebruiker met Dynamisch Praatje wordt verbonden, zal die gebruiker aan de rij worden toegevoegd en hun kalender zal voor websitebezoekers beschikbaar zijn om benoemingen te plannen op.
+
+U kunt ook de hoofdtekst van de uitnodiging voor e-MAIL aanpassen? die naar de bezoeker wordt verzonden wanneer zij een afspraak op de agenda van de gebruiker plannen.
 
 ## Vergaderingen {#meetings}
 
-Het lusje van Vergaderingen is waar u het statuut van alle vergaderingen zult zien uw agenten via Dynamisch Praatje, evenals andere verwante details hebben gepland.
+Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschillende dialoogvensters. Hier vindt u het e-mailadres van de lead die de afspraak heeft geboekt, de agent waarmee ze de afspraak hebben geboekt, het tijdstip waarop de afspraak gepland is en of de vergadering al dan niet heeft plaatsgevonden.
 
 PICC?
 
 ## Routering {#routing}
 
-Het verpletteren toont u de orde waarin de agenten vergaderingen, evenals totale vergaderingen aan datum (per agent) worden toegewezen. De vergaderingen gaan rond robin stijl, zodat als u vijf agenten hebt en agent drie de laatste vergadering nam, zal agent vier volgende krijgen, gevolgd door vijf, dan terug naar agent één.
+Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben verbonden evenals welke orde zij aan de Vergaderingen van websitebezoekers zullen worden voorgesteld gaat de robin stijl, zodat als u vijf agenten hebt en agent drie de laatste vergadering nam, agent vier zal volgende krijgen, gevolgd door vijf, dan terug naar agent één.
+
+## Veelgestelde vragen {#faq}
+
+—JES? LOL—
+
+**Kan je met CSS bellen?**
+
+De chatbot kan op dit moment niet met CSS worden opgemaakt.
+
+**Kan ik aangepaste lettertypeopties gebruiken?**
+
+Momenteel zijn alleen de vooraf ingestelde lettertypeopties beschikbaar.
+
+**Staat Dynamic Chat live chatten toe?**
+
+Nee, alleen vooraf bepaalde reacties.
+
+**Ondersteunt u de AI/NLP-functionaliteit?**
+
+AI/NLP-functionaliteit wordt niet ondersteund.
+
+**Biedt Dynamic Chat naast Engels ook talen?**
+
+Op dit moment niet.

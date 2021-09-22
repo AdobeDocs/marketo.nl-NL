@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '909'
 ht-degree: 0%
 
 ---
@@ -81,4 +81,4 @@ Deze sectie bevat nieuwe functies voor Bizible-gebruikers die hun Adobe Identity
 
 ## Aankondigingen {#announcements}
 
-* **Instellingen** voor Universal-id voor abonnement bijwerken: Om de komende Marketo Engage en Adobe Identiteitsintegratie voor bestaande gebruikers te steunen, zullen alle Marketo Engage abonnementen in de Inschakelen van de Universele steun van identiteitskaart worden verenigd.
+* **Instellingen** voor Universal-id voor abonnement bijwerken: Om de komende Marketo Engage en Adobe Identiteitsintegratie voor bestaande gebruikers te steunen, zullen alle Marketo Engage abonnementen in de Inschakelen van de Universele steun van identiteitskaart worden verenigd. Meer informatie [vindt u hier](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).

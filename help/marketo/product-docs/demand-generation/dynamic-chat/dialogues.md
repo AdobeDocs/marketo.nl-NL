@@ -3,16 +3,16 @@ description: Dialoogvensters - Marketo Docs - Productdocumentatie
 title: Dialoogvensters
 hide: true
 hidefromtoc: true
-source-git-commit: 1a1d4cb7e013253ce7189150486ba03ea02d877d
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
 # Dialoogvensters {#dialogues}
 
-Dialogen zijn de specifieke praatjegesprekken u opstelling. Ze kunnen worden aangepast door te kijken, en wat er wordt gezegd en wie het ziet.
+Dialogen zijn de individuele praatjegesprekken u opstelling. Leer hoe u ze visueel kunt aanpassen, kunt bepalen op welke pagina&#39;s ze worden weergegeven en kunt beslissen wat er wordt gezegd en wie het ziet.
 
 ## Een nieuw dialoogvenster maken {#create-a-new-dialogue}
 
@@ -34,9 +34,9 @@ PICC
 
 ## Criteria voor het publiek {#audience-criteria}
 
-Net als in Marketo Smart Lists kunt u met de kenmerken Audience Criteria (criteria voor doelgroepen) een doelgroep definiëren.
+Net als in Marketo Smart Lists kunt u met de kenmerken Audience Criteria (criteria voor doelgroepen) een doelgroep definiëren. U kunt bekende of onbekende leads als doel instellen met afgeleide, lead- of bedrijfskenmerken (of een combinatie hiervan).
 
-Er zijn verschillende kenmerken waaruit u kunt kiezen. In dit voorbeeld richten we ons op alle bekende leads in Californië die werken bij een bedrijf met meer dan 50 werknemers.
+Er zijn _veel_ kenmerkcombinaties om van te kiezen. In dit voorbeeld richten we ons op alle bekende leads in Californië die werken bij een bedrijf met meer dan 50 werknemers.
 
 1. Pak de attributen van de Staat van de Lood en sleep het aan het recht.
 
@@ -87,17 +87,29 @@ Acceptabele indelingen:
 
 De stroomontwerper bevat verschillende kaarten u kunt toevoegen om het praatjegesprek te vormen.
 
-TABEL
-
-Bericht: Wordt gebruikt wanneer u een instructie wilt maken zonder reactie nodig (bijvoorbeeld: &quot;Hoi! Alle items zijn vandaag 25% korting met code SAVE25.&quot;)
-
-Vraag: Gebruik deze optie wanneer u een meerkeuzevraag wilt stellen, waarvan u de beschikbare antwoorden kunt opgeven (bijvoorbeeld: Welk type voertuig interesseert u? Reacties = SUV, Compact, Truck, enz.)
-
-Gegevens vastleggen: Gebruik deze optie wanneer u gegevens wilt verzamelen. De drie velden waaruit u kunt kiezen zijn E-mailadres, Telefoonnummer en Tekst (zodat de bezoeker zijn eigen bericht kan schrijven).
-
-Aanstellingsplanner: Biedt de bezoeker een kalender met beschikbare datums om een follow-up te plannen. De beschikbaarheid van de kalender weerspiegelt [de volgende agent in lijn](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).
-
-Doel: Dit is de enige kaart die bezoekers niet zullen zien. Het is aan u om te bepalen op welk punt een doel binnen de specifieke praatje wordt bereikt (bijvoorbeeld: Als u de e-mail van de bezoeker wilt verzamelen, plaatst u de Goal-kaart na Info Vastleggen in de Stream.)
+<table>
+ <tr>
+  <td><strong>Bericht</strong></td>
+  <td>Wordt gebruikt wanneer u een instructie wilt maken zonder reactie nodig (bijvoorbeeld: "Hoi! Alle items zijn vandaag 25% korting met code SAVE25").
+</td>
+ </tr>
+ <tr>
+  <td><strong>Vraag</strong></td>
+  <td>Gebruik deze optie wanneer u een meerkeuzevraag wilt stellen, waarvan u de beschikbare antwoorden kunt opgeven (bijvoorbeeld: Welk type voertuig interesseert u? Reacties = SUV, Compact, Truck, enz.).</td>
+ </tr>
+ <tr>
+  <td><strong>Gegevens vastleggen</strong></td>
+  <td>Gebruik deze optie wanneer u gegevens wilt verzamelen. De drie velden waaruit u kunt kiezen zijn E-mailadres, Telefoonnummer en Tekst (zodat de bezoeker zijn eigen bericht kan schrijven).</td>
+ </tr>
+ <tr>
+  <td><strong>Aanstellingsplanner</strong></td>
+  <td>Biedt de bezoeker een kalender met beschikbare datums om een follow-up te plannen. De beschikbaarheid van de kalender wijst op [de volgende agent in lijn] (/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).</td>
+ </tr>
+ <tr>
+  <td><strong>Doel</strong></td>
+  <td>Dit is de enige kaart die bezoekers niet zullen zien. Het is aan u om te bepalen op welk punt een doel binnen de specifieke praatje wordt bereikt (bijvoorbeeld: Als u de e-mail van de bezoeker wilt verzamelen, plaatst u de Goal-kaart na Info Vastleggen in de Stroom).</td>
+ </tr>
+</table>
 
 MOGELIJKE EIGEN SECTIE
 

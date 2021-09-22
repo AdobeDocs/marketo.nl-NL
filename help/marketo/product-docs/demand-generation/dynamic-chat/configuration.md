@@ -3,9 +3,9 @@ description: Configuratie - Marketo Docs - Productdocumentatie
 title: Configuratie
 hide: true
 hidefromtoc: true
-source-git-commit: c6713c972603ab9528a66e908e47e4c187b86c0c
+source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ PICC (van hele chatbox)
 
 **Stijl**
 
-Met Stijl kunt u de gewenste kleuren, de positie/opvulling van het chatbox-anker en het lettertype/de tekengrootte kiezen.
+Dit is waar u de blik en het gevoel van het praatje zult bepalen waar uw Dialogen zullen worden getoond, met inbegrip van: kleuren, lettertypen, plaatsing van de bot-widget en de naam/avatar van de chatbot.
 
 De kleur van elke categorie wordt bepaald door een [hexadecimale kleurwaarde](https://color.adobe.com/create/color-wheel) (bijvoorbeeld wit = #ffffff, rood = #bf1932, enz.).
 
@@ -50,13 +50,13 @@ PICC van het kiezen van avatar
 
 ## Tab Privacy {#privacy-tab}
 
-Klik op het tabblad **Privacy** om de URL van het privacybeleid van uw site toe te voegen of te bewerken.
+Klik op het tabblad **Privacy** om de URL van het privacybeleid van uw site toe te voegen of te bewerken (optioneel).
 
 PICC
 
 ## Tabblad Installatie {#installation-tab}
 
-Klik op het tabblad **Installatie** om het script op te halen dat uw webontwikkelingsteam op uw website moet plaatsen.
+Als u de chatbot op uw website wilt weergeven, moet u eerst het Dynamic Chat JavaScript-fragment installeren. Klik op dit tabblad om de benodigde code te zoeken of te kopiëren. Als u niet bekend bent met deze bewerking, neemt u contact op met uw webteam of IT-afdeling voor hulp.
 
 PICC
 
