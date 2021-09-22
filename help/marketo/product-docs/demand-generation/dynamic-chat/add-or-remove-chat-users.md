@@ -3,9 +3,9 @@ description: Chatgebruikers toevoegen of verwijderen - Marketo Docs - Productdoc
 title: Chatgebruikers toevoegen of verwijderen
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -18,35 +18,35 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
 
 1. Meld u aan bij [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   ![](assets/add-or-remove-a-user-1.png)
+   PICC
 
 1. Klik **Dynamisch chatten**.
 
-   ![](assets/add-or-remove-a-user-2.png)
+   PICC
 
 1. Selecteer het gewenste abonnement (als u meerdere abonnementen hebt).
 
-   ![](assets/add-or-remove-a-user-3.png)
+   PICC
 
 1. Klik op het tabblad **Gebruikers**.
 
-   ![](assets/add-or-remove-a-user-4.png)
+   PICC
 
 1. Klik op de knop **Gebruiker toevoegen**.
 
-   ![](assets/add-or-remove-a-user-5.png)
+   PICC
 
 1. Voer de naam, gebruikersgroep of het e-mailadres in van de gebruiker die u wilt toevoegen. Voornaam en achternaam zijn optioneel.
 
-   ![](assets/add-or-remove-a-user-6.png)
+   PICC
 
 1. Klik op het pictogram **+** en selecteer het gewenste productprofiel.
 
-   ![](assets/add-or-remove-a-user-7.png)
+   PICC
 
 1. Klik **Opslaan**.
 
-   ![](assets/add-or-remove-a-user-8.png)
+   PICC
 
 De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij Marketo.
 
@@ -54,27 +54,27 @@ De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij Marketo.
 
 1. Meld u aan bij [Adobe Admin Console](https://adminconsole.adobe.com/).
 
-   ![](assets/add-or-remove-a-user-9.png)
+   PICC
 
 1. Klik **Marketo Engage**.
 
-   ![](assets/add-or-remove-a-user-10.png)
+   PICC
 
 1. Selecteer het gewenste abonnement (als u meerdere abonnementen hebt).
 
-   ![](assets/add-or-remove-a-user-11.png)
+   PICC
 
 1. Klik op het tabblad **Gebruikers**.
 
-   ![](assets/add-or-remove-a-user-12.png)
+   PICC
 
 1. Selecteer de gebruiker u wilt verwijderen en de **Remove** knoop klikken.
 
-   ![](assets/add-or-remove-a-user-13.png)
+   PICC
 
 1. Klik **Verwijder Gebruiker** om te bevestigen.
 
-   ![](assets/add-or-remove-a-user-14.png)
+   PICC
 
 >[!MORELIKETHIS]
 >

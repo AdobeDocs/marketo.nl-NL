@@ -3,9 +3,9 @@ description: Eerste installatie - Marketo-documenten - productdocumentatie
 title: Eerste instelling
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ invoertekst
 
 1. Nadat Dynamic Chat is ingeschakeld voor uw Marketo-instantie, ontvangt de toegewezen systeembeheerder een welkomstbericht. Klik in die e-mail op **Aan de slag**.
 
-   ![](assets/picture.png)
+   PICC
 
 1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Als dat niet het geval is, [stelt u uw Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) in.
 
-   ![](assets/picture.png)
+   PICC
 
 1. Gebruikers toevoegen (te volgen stappen)
 
