@@ -2,18 +2,17 @@
 unique-page-id: 11373011
 description: Overschakelen naar e-maileditor 2.0 - Marketo Docs - Productdocumentatie
 title: Overschakelen naar e-maileditor 2.0
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
+source-git-commit: 64ff6900a761b9df796a9a7f417cca1ddc628cce
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # Overschakelen naar e-maileditor 2.0 {#transitioning-to-email-editor}
 
-Vanaf [June &#39;19 release](/help/marketo/release-notes/2016/release-notes-spring-16.md) zijn alle Marketo-abonnementen overgezet naar E-maileditor 2.0. [Meer informatie](https://nation.marketo.com/docs/DOC-7038) over de e-maileditor 1.0-afleiding.
+Vanaf de release van 19 juni zijn alle Marketo-abonnementen overgezet naar E-maileditor 2.0. [Meer informatie](https://nation.marketo.com/docs/DOC-7038) over de e-maileditor 1.0-afleiding.
 
 E-mails en e-mailsjablonen in uw abonnement moeten een versienummer hebben. De versie staat op de overzichtspagina van het element.
 
@@ -44,7 +43,7 @@ Voor bestaande e-mailberichten van versie 1.0 die de (vorige v1.0) sjabloon gebr
 **Goedgekeurd met e-mail**  met conceptversie 1.0 - Het concept blijft v1.0 totdat u op Concept bewerken klikt. Hierna wordt de code automatisch gemarkeerd als v2.0 en worden eventuele sjabloonwijzigingen ontvangen.
 
 Voor bestaande e-mailberichten van v2.0 die de (vorige v1.0) sjabloon gebruikten:\
-**Goedgekeurde e-mail**  versie 2.0 - Voor deze e-mail wordt een concept v2.0 gemaakt, waarbij nog steeds de zojuist goedgekeurde sjabloon wordt gebruikt en eventuele sjabloonwijzigingen worden ontvangen.\
+**Goedgekeurde e-mail**  versie 2.0 - Voor deze e-mail wordt een concept v2.0 gemaakt dat nog steeds de zojuist goedgekeurde sjabloon gebruikt en alle sjabloonwijzigingen ontvangt.\
 **Concept versie 2.0 e-mail**  - Het concept blijft zoals (v2.0) en ontvangt eventuele sjabloonwijzigingen.\
 **Goedgekeurd met e-mail**  met conceptversie 2.0 - Het concept blijft ongewijzigd (v2.0) en ontvangt eventuele sjabloonwijzigingen.
 
@@ -58,7 +57,7 @@ Notities
 
 * Goedgekeurde e-mailsjablonen worden **never** gewijzigd.
 
-* In een paar **zeldzame** gevallen, kan een v1.0 E-mail niet in E-mailRedacteur 2.0 worden geopend. Als dit voorkomt, verwerp het ontwerp en contacteer Marketo Support.
+* In een paar **zeldzame** gevallen, kan een v1.0 E-mail niet in E-mailRedacteur 2.0 worden geopend. Als dit gebeurt, verwijdert u het concept en neemt u contact op met de Technische Ondersteuning van Marketo.
 
 >[!MORELIKETHIS]
 >
