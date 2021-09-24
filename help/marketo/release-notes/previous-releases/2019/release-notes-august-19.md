@@ -3,9 +3,9 @@ unique-page-id: 27656786
 description: Opmerkingen bij de release -August 19 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - augustus 19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ De volgende functies zijn uitgebracht op 16 augustus 2019.
 
 ## Core Marketo Engage {#core-marketo-engage}
 
-* **Extensible Webinar Framework**: Bespaar tijd met Marketo dat een nieuw, out-of-the-box webinar framework (geïntroduceerd in de  [Winter &#39;19 release ](/help/marketo/release-notes/2019/release-notes-winter-19.md) notesdat gegevens van webinar providers naadloos doorgeeft aan Marketo en vice versa). De optie voor het voorkomen en zoomen is nu beschikbaar in dit nieuwe framework.
+* **Extensible Webinar Framework**: Bespaar tijd met Marketo dat een nieuw, out-of-the-box webinar-framework (geïntroduceerd in de Opmerkingen bij de release Winter &#39;19) aanbrengt dat gegevens naadloos doorgeeft van webinar providers naar Marketo en vice versa. De optie voor het voorkomen en zoomen is nu beschikbaar in dit nieuwe framework.
 * **Update** voor Smart Campagne-API: De mogelijkheden van de slimme-campagnelevenscyclus beheren terwijl we de CRUD-interface (maken, lezen, bijwerken, verwijderen) afronden.
 * **API-wijziging** voor e-mailheaders bijwerken: Voor het bijwerken van de e-mailkoptekst-API is niet langer een e-mail vereist met een gekoppelde sjabloon om koptekstvelden, zoals een onderwerpregel, bij te werken.
 
