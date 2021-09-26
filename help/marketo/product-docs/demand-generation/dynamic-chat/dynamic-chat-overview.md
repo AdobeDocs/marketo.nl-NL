@@ -3,9 +3,9 @@ description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 hide: true
 hidefromtoc: true
-source-git-commit: d5c1c1d0ce2a521898eaa4f6610bf1ce04b4f66b
+source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -78,17 +78,9 @@ Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben verb
 
 —JES? LOL—
 
-**Kan je met CSS bellen?**
-
-De chatbot kan op dit moment niet met CSS worden opgemaakt.
-
-**Kan ik aangepaste lettertypeopties gebruiken?**
-
-Momenteel zijn alleen de vooraf ingestelde lettertypeopties beschikbaar.
-
 **Staat Dynamic Chat live chatten toe?**
 
-Nee, alleen vooraf bepaalde reacties.
+Neen, het gebruikt slechts vooraf bepaalde reacties.
 
 **Ondersteunt u de AI/NLP-functionaliteit?**
 
