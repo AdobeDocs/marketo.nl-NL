@@ -3,9 +3,9 @@ description: Dialoogvensters - Marketo Docs - Productdocumentatie
 title: Dialoogvensters
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ Dialogen zijn de individuele praatjegesprekken u opstelling. Leer hoe u ze visue
 
 1. Klik **Dialoogvensters**.
 
-PICC
+   ![](assets/dialogues-1.png)
 
 1. Klik op de knop **Nieuw maken**.
 
-PICC
+   ![](assets/dialogues-2.png)
 
 1. Voer een naam in (beschrijving is optioneel), stel het prioriteitsniveau in en klik op **Opslaan**.
 
-PICC
+   ![](assets/dialogues-3.png)
 
 >[!NOTE]
 >
@@ -36,31 +36,57 @@ PICC
 
 Net als in Marketo Smart Lists kunt u met de kenmerken Audience Criteria (criteria voor doelgroepen) een doelgroep definiëren. U kunt bekende of onbekende leads als doel instellen met afgeleide, lead- of bedrijfskenmerken (of een combinatie hiervan).
 
-Er zijn _veel_ kenmerkcombinaties om van te kiezen. In dit voorbeeld richten we ons op alle bekende leads in Californië die werken bij een bedrijf met meer dan 50 werknemers.
+**Bekende leads**
 
-1. Pak de attributen van de Staat van de Lood en sleep het aan het recht.
+Er zijn _veel_ kenmerkcombinaties om van te kiezen. In dit voorbeeld richten we ons op alle **bekende leads** in Californië die werken bij een bedrijf met meer dan 50 werknemers.
 
-PICC
+1. Pak **Lead State** attributen en sleep het aan het recht.
+
+   ![](assets/dialogues-4.png)
 
 1. _Standaard_ ingesteld op Isis. Typ in het veld Waarden selecteren de tekst CA (u kunt ook op de vervolgkeuzelijst klikken en in de lijst selecteren).
 
-PICC
+   ![](assets/dialogues-5.png)
 
-1. Pak de attributen van de Grootte van het Bedrijf en sleep het aan het recht.
+1. Pak **Bedrijfsomvang** attributen en sleep het aan waar het _een attribuut hier_ sleept en laat vallen.
 
-PICC
+   ![](assets/dialogues-6.png)
 
-1. Klik op de vervolgkeuzelijst met operatoren en selecteer Groter dan.
+   >[!NOTE]
+   >
+   >U kunt ook een kenmerk kiezen door op het pictogram **+** te klikken.
 
-PICC
+1. Klik op de vervolgkeuzelijst met operatoren en selecteer **Groter dan**.
+
+   ![](assets/dialogues-7.png)
 
 1. Typ 50 en klik ergens anders op het scherm om op te slaan.
 
-PICC
+   ![](assets/dialogues-8.png)
 
-HOE WORDT ANON LEADS VASTGELEGD
+**Anonieme leads**
 
-NOTA - misschien vermeld hoe de gevolgde werken/een gebruikscase tonen, leiden e-mail leeg is
+Er is een gemakkelijke manier aan specifiek richt lood die nog niet in uw gegevensbestand zijn. In dit voorbeeld richten we ons op alle **anonieme leads** in het gebied New York.
+
+1. Pak het **e-mailattribuut** en sleep het naar rechts.
+
+   ![](assets/dialogues-9.png)
+
+1. Klik op de vervolgkeuzelijst met operatoren en selecteer **Is leeg**.
+
+   ![](assets/dialogues-10.png)
+
+1. Pak het **Inferred State** attribuut en sleep het aan waar het _belemmering en laat vallen een attribuut hier_ zegt.
+
+   ![](assets/dialogues-11.png)
+
+   >[!NOTE]
+   >
+   >VERDUIDELIJK.
+
+1. _Standaard_ ingesteld op Isis. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
+
+   ![](assets/dialogues-12.png)
 
 ## Groepen toevoegen {#add-groups}
 
@@ -70,7 +96,7 @@ VOLTOOID
 
 ## Doel {#target}
 
-Hier voert u de specifieke URL&#39;s in waarop u een specifiek dialoogvenster wilt weergeven.
+Hier voert u de URL&#39;s in waarop u een specifiek dialoogvenster wilt weergeven.
 
 Acceptabele indelingen:
 
@@ -110,8 +136,6 @@ De stroomontwerper bevat verschillende kaarten u kunt toevoegen om het praatjege
   <td>Dit is de enige kaart die bezoekers niet zullen zien. Het is aan u om te bepalen op welk punt een doel binnen de specifieke praatje wordt bereikt (bijvoorbeeld: Als u de e-mail van de bezoeker wilt verzamelen, plaatst u de Goal-kaart na Info Vastleggen in de Stroom).</td>
  </tr>
 </table>
-
-MOGELIJKE EIGEN SECTIE
 
 ONDERSTAANDE VOORBEELD(EN) TONEN
 
