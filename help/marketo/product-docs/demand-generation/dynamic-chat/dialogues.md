@@ -3,16 +3,16 @@ description: Dialoogvensters - Marketo Docs - Productdocumentatie
 title: Dialoogvensters
 hide: true
 hidefromtoc: true
-source-git-commit: bea169db9e2dd12f95b2a19aa9f922819770fc95
+source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Dialoogvensters {#dialogues}
 
-Dialogen zijn de individuele praatjegesprekken u opstelling. Leer hoe u ze visueel kunt aanpassen, kunt bepalen op welke pagina&#39;s ze worden weergegeven en kunt beslissen wat er wordt gezegd en wie het ziet.
+Dialogen zijn individuele praatjegesprekken. Leer hoe u ze visueel kunt aanpassen, kunt bepalen op welke pagina&#39;s ze worden weergegeven en kunt beslissen wat er wordt gezegd en wie het ziet.
 
 ## Een nieuw dialoogvenster maken {#create-a-new-dialogue}
 
@@ -30,7 +30,7 @@ Dialogen zijn de individuele praatjegesprekken u opstelling. Leer hoe u ze visue
 
 >[!NOTE]
 >
->Het prioriteitsniveau bepaalt waar het dialoogvenster in uw lijst wordt weergegeven (bijv. prioriteit = 1 betekent dat het helemaal bovenaan staat ) .
+>Het prioriteitsniveau bepaalt waar het dialoogvenster in uw lijst wordt weergegeven (bijv. prioriteit 1 houdt in dat het op de top staat ) .
 
 ## Criteria voor het publiek {#audience-criteria}
 
@@ -82,7 +82,7 @@ Er is een gemakkelijke manier aan specifiek richt lood die nog niet in uw gegeve
 
    >[!NOTE]
    >
-   >VERDUIDELIJK.
+   >Wanneer iemand uw website bezoekt, worden deze door [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) in het systeem opgeslagen. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info.
 
 1. _Standaard_ ingesteld op Isis. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
 
@@ -137,8 +137,38 @@ De stroomontwerper bevat verschillende kaarten u kunt toevoegen om het praatjege
  </tr>
 </table>
 
-ONDERSTAANDE VOORBEELD(EN) TONEN
+**Een stream maken**
+
+Er zijn _veel_ streamcombinaties om te maken. In dit voorbeeld stellen we een vraag en bereiden we ons voor.
 
 ## Rapporten {#reports}
 
-Tekst
+In het tabblad Rapporten geeft u de gegevens van de afgelopen 90 dagen weer. Elke rubriek wordt hieronder gedefinieerd.
+
+<table>
+ <tr>
+  <td><strong>Totaal geactiveerd</strong></td>
+  <td>De verhogingen telkens als een bezoeker voor kwalificeert/voor een Dialoog wordt getoond.
+</td>
+ </tr>
+ <tr>
+  <td><strong>Betrokken</strong></td>
+  <td>Hiermee wordt het aantal stappen verhoogd wanneer een bezoeker op het chassisanker klikt om het dialoogvenster te openen.</td>
+ </tr>
+ <tr>
+  <td><strong>Voltooid</strong></td>
+  <td>Hiermee wordt elke keer dat een bezoeker het einde van een vertakking in een dialoogvenster bereikt.</td>
+ </tr>
+ <tr>
+  <td><strong>Opgenomen leads</strong></td>
+  <td>Elke keer dat een bezoeker een geldig e-mailadres in een dialoogstroom opgeeft, neemt de toename toe.</td>
+ </tr>
+ <tr>
+  <td><strong>Opgenomen vergaderingen</strong></td>
+  <td>Steeds wanneer een bezoeker een afspraak via de chatbot heeft gepland.</td>
+ </tr>
+ <tr>
+  <td><strong>Doelstellingen bereikt</strong></td>
+  <td>De toename telkens als een bezoeker een doel in om het even welke stroom van de Dialoog bereikt.</td>
+ </tr>
+</table>
