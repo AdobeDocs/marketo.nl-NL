@@ -3,9 +3,9 @@ description: Dialoogvensters - Marketo Docs - Productdocumentatie
 title: Dialoogvensters
 hide: true
 hidefromtoc: true
-source-git-commit: d915a51337f9dbbccc924fd8f7e69257be39f4ef
+source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -139,7 +139,9 @@ De stroomontwerper bevat verschillende kaarten u kunt toevoegen om het praatjege
 
 **Een stream maken**
 
-Er zijn _veel_ streamcombinaties om te maken. In dit voorbeeld stellen we een vraag en bereiden we ons voor.
+Er zijn _veel_ streamcombinaties om te maken. In dit voorbeeld stellen we ja of geen vraag en bereiden we een paar reacties voor.
+
+VOORBEELD
 
 ## Rapporten {#reports}
 
