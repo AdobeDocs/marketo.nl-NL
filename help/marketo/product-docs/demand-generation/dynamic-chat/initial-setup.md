@@ -3,9 +3,9 @@ description: Eerste installatie - Marketo-documenten - productdocumentatie
 title: Eerste instelling
 hide: true
 hidefromtoc: true
-source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Voer de onderstaande stappen uit om Dynamic Chat in te stellen.
 
 ## Machtigingen toevoegen in Marketo {#add-permissions-in-marketo}
 
-Nadat u gebruikers in de Admin Console In hebt toegevoegd, moet u machtigingen verlenen in Marketo.
+Na het toevoegen van gebruikers in binnen Admin Console, moet u toestemmingen in Marketo verlenen opdat zij tot de Dynamische kortere weg van het Praatje van Marketo toegang hebben.
 
 1. Klik in Marketo op **Admin**.
 
@@ -46,4 +46,4 @@ Nadat u gebruikers in de Admin Console In hebt toegevoegd, moet u machtigingen v
 >
 >Volg de stappen in de bovenstaande volgorde. Als iemand eerst toestemming krijgt in Marketo, ziet hij of zij de Dynamic Chat-tegel, maar heeft hij of zij geen toegang tot de gebruiker.
 
-De volgende stap is aan [toegang Dynamische Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).
+De volgende stap bestaat uit het [verbinden van Dynamisch Chat met Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).

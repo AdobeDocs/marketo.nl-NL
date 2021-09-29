@@ -3,9 +3,9 @@ description: Dialoogvensters - Marketo Docs - Productdocumentatie
 title: Dialoogvensters
 hide: true
 hidefromtoc: true
-source-git-commit: 8252a1a7cb32227eeae754e37386d975c4ed8884
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '749'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Dialogen zijn individuele praatjegesprekken. Leer hoe u ze visueel kunt aanpasse
 
 >[!NOTE]
 >
->Het prioriteitsniveau bepaalt waar het dialoogvenster in uw lijst wordt weergegeven (bijv. prioriteit 1 houdt in dat het op de top staat ) .
+>De prioriteit bepaalt welke Dialoog aan een bezoeker zal worden getoond wanneer zij voor veelvoudige Dialogen gelijktijdig kwalificeren.
 
 ## Criteria voor het publiek {#audience-criteria}
 

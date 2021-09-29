@@ -3,9 +3,9 @@ description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 hide: true
 hidefromtoc: true
-source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
+source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,17 @@ Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om beide le
 
 >[!NOTE]
 >
->De dynamische Chat is momenteel bezig om, met alle abonnementen worden uitgerold die toegang door DATE moeten hebben.
+>Dynamic Chat wordt momenteel geleidelijk ingevoerd, waarbij alle abonnementen tegen het voorjaar van 2022 toegang moeten hebben. Neem voor meer informatie contact op met de succesmanager van de klant.
 
 ## Integraties {#integrations}
 
-Een belangrijk onderdeel van Dynamic Chat is de mogelijkheid om native verbinding te maken met uw Marketo-abonnement. Als u deze integratie volledig wilt benutten, moet u eerst de gegevenssynchronisatie starten. Het kan tot 24 uren voor aanvankelijke, [eenmalige synchronisatie ](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) vergen om te voltooien.
+Een belangrijk onderdeel van Dynamic Chat is de mogelijkheid om native verbinding te maken met uw Marketo-abonnement. Als u deze integratie volledig wilt benutten, moet u eerst de gegevenssynchronisatie starten. Afhankelijk van de grootte van uw Marketo-database kan het tot 24 uur duren voordat gegevens voor de eerste synchronisatie [one-time sync](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) zijn voltooid. De gemiddelde synchronisatietijd is minder dan twee uur.
+
+Het volgende wordt gesynchroniseerd:
+
+* Veldgegevens voor lead
+* Bedrijfsveldgegevens
+* Activiteitsgegevens
 
 ## Dialoogvensters {#dialogues}
 
