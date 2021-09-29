@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 3a3002c7669ea084ea1a953d182bbaa4fcf93167
 workflow-type: tm+mt
-source-wordcount: '8099'
+source-wordcount: '8102'
 ht-degree: 0%
 
 ---
@@ -620,10 +620,11 @@ ht-degree: 0%
          + [Een lijst verzenden naar een advertentienetwerk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamisch chat {#dynamic-chat}
          + [Dynamisch chatoverzicht](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
-         + [Dialoogvensters](product-docs/demand-generation/dynamic-chat/dialogues.md)
-         + [Configuratie](product-docs/demand-generation/dynamic-chat/configuration.md)
-         + [Chatgebruikers toevoegen of verwijderen](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Eerste instelling](product-docs/demand-generation/dynamic-chat/initial-setup.md)
+         + [Dynamische chat openen](product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md)
+         + [Chatgebruikers toevoegen of verwijderen](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
+         + [Configuratie](product-docs/demand-generation/dynamic-chat/configuration.md)
+         + [Dialoogvensters](product-docs/demand-generation/dynamic-chat/dialogues.md)
       + Gebeurtenissen {#events}
          + Gebeurtenissen {#understanding-events}
             + [Leden toevoegen aan een gebeurtenisprogramma](product-docs/demand-generation/events/understanding-events/adding-members-to-an-event-program.md)

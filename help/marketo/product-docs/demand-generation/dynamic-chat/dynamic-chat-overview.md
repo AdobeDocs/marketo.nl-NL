@@ -3,9 +3,9 @@ description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 hide: true
 hidefromtoc: true
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -18,37 +18,9 @@ Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om beide le
 >
 >De dynamische Chat is momenteel bezig om, met alle abonnementen worden uitgerold die toegang door DATE moeten hebben.
 
-## Dynamische chat instellen {#access-dynamic-chat}
-
-NADAT DE TIEL IS TOEGEVOEGD... Voer de volgende stappen uit om aan de slag te gaan.
-
-1. Klik in Mijn Marketo op de tegel **Dynamisch chat**.
-
-   PICC
-
-   >[!NOTE]
-   >
-   >Als je niet ziet...Neem contact op met uw Marketo-beheerder.)
-
-1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar Dynamic Chat. Als dat niet het geval is, [stelt u uw Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) in.
-
-   PICC
-
-1. Selecteer **Integrations** om uw Marketo-instantie te verbinden.
-
-   PICC
-
-1. Klik OP TEKST HIER INVOEGEN?.
-
-   PICC
-
-   >[!NOTE]
-   >
-   >Afhankelijk van de grootte van uw database kan het 5 minuten tot 8 uur duren voordat de synchronisatie is voltooid. De gemiddelde synchronisatietijd is 60 minuten.
-
 ## Integraties {#integrations}
 
-Integraties is het eerste tabblad dat u wilt bezoeken wanneer u Dynamic Chat opent. Hier synchroniseert u uw Marketo-abonnement(en), zodat u uw Marketo-databasegegevens kunt gebruiken om bezoekers van sites/chatten te identificeren ([zie stap 3 hierboven](#access-dynamic-chat)).
+Een belangrijk onderdeel van Dynamic Chat is de mogelijkheid om native verbinding te maken met uw Marketo-abonnement. Als u deze integratie volledig wilt benutten, moet u eerst de gegevenssynchronisatie starten. Het kan tot 24 uren voor aanvankelijke, [eenmalige synchronisatie ](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md) vergen om te voltooien.
 
 ## Dialoogvensters {#dialogues}
 
@@ -68,23 +40,27 @@ U kunt ook de hoofdtekst van de uitnodiging voor e-MAIL aanpassen? die naar de b
 
 Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschillende dialoogvensters. Hier vindt u het e-mailadres van de lead die de afspraak heeft geboekt, de agent waarmee ze de afspraak hebben geboekt, het tijdstip waarop de afspraak gepland is en of de vergadering al dan niet heeft plaatsgevonden.
 
-PICC?
-
 ## Routering {#routing}
 
 Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben verbonden evenals welke orde zij aan de Vergaderingen van websitebezoekers zullen worden voorgesteld gaat de robin stijl, zodat als u vijf agenten hebt en agent drie de laatste vergadering nam, agent vier zal volgende krijgen, gevolgd door vijf, dan terug naar agent één.
 
 ## Veelgestelde vragen {#faq}
 
-—JES? LOL—
-
 **Staat Dynamic Chat live chatten toe?**
 
 Neen, het gebruikt slechts vooraf bepaalde reacties.
 
+**Hoe kan ik me richten op anonieme leads?**
+
+In uw dialoogvenster moet u het kenmerk _E-mail met lead is Empty_ gebruiken.
+
 **Ondersteunt u de AI/NLP-functionaliteit?**
 
 AI/NLP-functionaliteit wordt niet ondersteund.
+
+**Hoe lang worden gegevens voor rapportage opgeslagen?**
+
+90 dagen.
 
 **Biedt Dynamic Chat naast Engels ook talen?**
 

@@ -3,16 +3,18 @@ description: Eerste installatie - Marketo-documenten - productdocumentatie
 title: Eerste instelling
 hide: true
 hidefromtoc: true
-source-git-commit: d427bc129939dd15ce33797d1ef5ea56992bcb40
+source-git-commit: 50effc2aa1fc94251b4b75bec6dcc34bf3df8a2c
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
 
 # Eerste instelling {#initial-setup}
 
-invoertekst
+## Access Admin Console {#access-admin-console}
+
+Voer de onderstaande stappen uit om Dynamic Chat in te stellen.
 
 >[!NOTE]
 >
@@ -20,16 +22,28 @@ invoertekst
 
 1. Nadat Dynamic Chat is ingeschakeld voor uw Marketo-instantie, ontvangt de toegewezen systeembeheerder een welkomstbericht. Klik in die e-mail op **Aan de slag**.
 
-   PICC
+   ![](assets/initial-setup-1.png)
 
 1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Als dat niet het geval is, [stelt u uw Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) in.
 
-   PICC
+   ![](assets/initial-setup-2.png)
 
-1. Gebruikers toevoegen (te volgen stappen)
+## Gebruikers toevoegen {#add-users}
 
-Tweede handelingsstap - is in Marketo - Nadat u gebruiker in Admin Console toevoegt, gaan zij terug naar Marketo (gebruikers &amp; rollen) en voegt de toestemming van gelijkstroom aan alle agenten [COMING LATE LGO, geen screenshot] toe
+1. Nadat u zich hebt aangemeld bij de Admin Console, voegt u gebruikers toe. We hebben dat proces [gedocumenteerd hier](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
->[!NOTE]
+## Machtigingen toevoegen in Marketo {#add-permissions-in-marketo}
+
+Nadat u gebruikers in de Admin Console In hebt toegevoegd, moet u machtigingen verlenen in Marketo.
+
+1. Klik in Marketo op **Admin**.
+
+1. Zoek en dubbelklik op de gewenste gebruiker.
+
+1. Voeg **Dynamisch Chat benaderen** toe en klik **Opslaan**.
+
+>[!IMPORTANT]
 >
->Volg de stappen in de vermelde volgorde. Als iemand eerst toestemming krijgt in Marketo, ziet hij of zij de Dynamic Chat-tegel, maar heeft hij of zij geen toegang tot de gebruiker.
+>Volg de stappen in de bovenstaande volgorde. Als iemand eerst toestemming krijgt in Marketo, ziet hij of zij de Dynamic Chat-tegel, maar heeft hij of zij geen toegang tot de gebruiker.
+
+De volgende stap is aan [toegang Dynamische Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/access-dynamic-chat.md).

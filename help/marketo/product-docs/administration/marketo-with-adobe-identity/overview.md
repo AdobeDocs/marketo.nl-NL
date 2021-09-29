@@ -3,9 +3,9 @@ description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 hide: true
 hidefromtoc: true
-source-git-commit: 306e08b08bf63fe51778dc51ccb9cb971fed2f4b
+source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -98,3 +98,9 @@ Nee. De uitnodigingsworkflow van de gebruiker is niet meer actief wanneer een ab
 **Voor Adobe IMS, hebben wij de optie om Adobe ID, Enterprise ID, of Federated ID te gebruiken?**
 
 Ja, u bepaalt het type identiteit om uw organisatiesteun te hebben. Meer informatie [hier](https://helpx.adobe.com/enterprise/using/identity.html) en [hier](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+>[!MORELIKETHIS]
+>
+>* [Beheerdersinstellingen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+>* [Een productbeheerder toevoegen of verwijderen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>* [Een gebruiker toevoegen of verwijderen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
