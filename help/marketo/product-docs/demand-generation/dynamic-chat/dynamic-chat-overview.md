@@ -3,9 +3,9 @@ description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 hide: true
 hidefromtoc: true
-source-git-commit: afc7c8352b4470bfc367f3d16836fb14d55b8821
+source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om beide le
 
 >[!NOTE]
 >
->Dynamic Chat wordt momenteel geleidelijk ingevoerd, waarbij alle abonnementen tegen het voorjaar van 2022 toegang moeten hebben. Neem voor meer informatie contact op met de succesmanager van de klant.
+>Dynamic Chat wordt momenteel geleidelijk ingevoerd en is momenteel in beperkte beschikbaarheid. Deze pagina zal met algemene beschikbaarheidsdetails (GA) worden bijgewerkt aangezien zij beschikbaar worden.
 
 ## Integraties {#integrations}
 
