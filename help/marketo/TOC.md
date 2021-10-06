@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
 workflow-type: tm+mt
-source-wordcount: '8104'
+source-wordcount: '8101'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
    + [Aan de slag](getting-started.md)
    + [Wat is Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + [Marketo Verklarende woordenlijst](getting-started/marketo-glossary.md)
-   + [Woordenlijst met pictogrammen](getting-started/icon-glossary.md)
+   + [Verklarende woordenlijst Klassiek pictogram](getting-started/classic-icon-glossary.md)
    + {#setup} instellen
       + [Stappen instellen](getting-started/setup-steps.md)
       + [Controlelijst instellen](getting-started/setup-steps/setup-checklist.md)
@@ -192,7 +192,7 @@ ht-degree: 0%
          + [Een lijst met alle Marketo API-veldnamen exporteren](product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md)
          + [Gebruikt door gegevens exporteren voor een veld](product-docs/administration/field-management/export-used-by-data-for-a-field.md)
          + [Een veld verbergen en verbergen opheffen](product-docs/administration/field-management/hide-and-unhide-a-field.md)
-         + [HTML-coderingstokens in e-mails](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
+         + [Tokens HTML coderen in e-mailberichten](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [Een veld markeren als gevoelig](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
          + [De naam van een veld wijzigen](product-docs/administration/field-management/rename-a-field.md)
          + [Werken met door het systeem beheerde velden](product-docs/administration/field-management/understanding-system-managed-fields.md)
@@ -343,7 +343,7 @@ ht-degree: 0%
             + [Voeg of verwijder Mensen van uw Campagne van de Dynamiek toe](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)
             + [Eigenaar wijzigen in Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/change-owner-in-microsoft.md)
             + [Taak maken in Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)
-            + [Persoon synchroniseren met Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
+            + [Persoon synchroniseren naar Microsoft](product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md)
          + Salesforce-stroomhandelingen {#salesforce-flow-actions}
             + [Toevoegen aan SFDC-campagne](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/add-to-sfdc-campaign.md)
             + [Eigenaar wijzigen](product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md)
@@ -481,7 +481,7 @@ ht-degree: 0%
             + [Personen in uw gebeurtenis controleren via uw tablet](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
             + [Gebruikers toegang verlenen tot de Check-in-app](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
             + [Voorbereiden op uw gebeurtenis](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
-            + [De iPad of Android-tablet instellen](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
+            + [De iPad- of Android-tablet instellen](product-docs/core-marketo-concepts/mobile-apps/event-check-in/set-up-the-ipad-or-android-tablet.md)
          + Marketo-momenten {#marketo-moments}
             + Momenten {#understanding-moments}
                + [Marketo-momenten begrijpen](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
@@ -517,8 +517,8 @@ ht-degree: 0%
          + [Problemen met validatie synchroniseren van dynamiek verhelpen](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
          + Instellingen synchroniseren {#sync-setup}
             + [Download de Marketo Lead Management Solution](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
-            + [Update de Oplossing van Marketo voor de Dynamica van Microsoft](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
-            + [Synchronisatie van Microsoft-dynamiek valideren](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+            + [Marketo Solution for Microsoft Dynamics bijwerken](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
+            + [Microsoft Dynamics Sync valideren](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [De URL van de organisatieservice weergeven](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
             + Microsoft Dynamics 2011 On-Premises {#microsoft-dynamics-2011-on-premises}
                + [Stap 1 van 3: De Marketo-oplossing installeren (2011 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
@@ -560,8 +560,8 @@ ht-degree: 0%
          + Details filter Aangepaste dynamiek synchroniseren {#custom-dynmaics-sync-filter-details}
             + [Een filter voor aangepaste dynamicasynchronisatie maken](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Aangepaste filterregels voor synchronisatie voor een e-mailadres](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-            + [Microsoft Dynamics Sync Filter: Samenvoegen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
-            + [Microsoft Dynamics Sync Filter: Kwalificeren](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+            + [Filter Microsoft Dynamics Sync: Samenvoegen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+            + [Filter Microsoft Dynamics Sync: Kwalificeren](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
             + [Een standaardvoorvoegsel voor een aangepast veld instellen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
          + [Registreer een app bij Azure om uw client-id/app-id op te halen](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Een lead of contactpersoon verwijderen](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
@@ -1036,8 +1036,8 @@ ht-degree: 0%
             + [Bijgehouden koppelingen toevoegen aan een tekste-mail](product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)
             + [Een agendagebeurtenbestand (.ics) maken](product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
             + [Bijhouden uitschakelen voor een e-mailkoppeling](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
-            + [HTML van een e-mail downloaden](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
-            + [HTML van een e-mail bewerken](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
+            + [HTML van e-mail downloaden](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
+            + [Een HTML van een e-mail bewerken](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
             + E-mailtests - Champion-Challenger {#email-tests-champion-challenger}
                + [Een e-mailkampioen/challenger toevoegen](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [Champion/Challenger: Uw e-mailtest goedkeuren](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
@@ -1059,7 +1059,7 @@ ht-degree: 0%
          + [E-mail CC](product-docs/email-marketing/general/email-cc.md)
    + Marketo Engage-ervaring van volgende generatie {#marketo-engage-next-generation-experience}
       + [Overzicht](product-docs/marketo-engage-next-generation-experience/overview.md)
-      + [Nieuwe woordenlijst voor pictogrammen](product-docs/marketo-engage-next-generation-experience/new-icon-glossary.md)
+      + [Woordenlijst met pictogrammen](product-docs/marketo-engage-next-generation-experience/icon-glossary.md)
       + [De algemene zoekopdracht gebruiken](product-docs/marketo-engage-next-generation-experience/using-the-global-search.md)
    + Marketo Sales Connect {#marketo-sales-connect}
       + Aan de slag {#getting-started}
@@ -1075,7 +1075,6 @@ ht-degree: 0%
             + [Uw e-mail verifiëren](product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
       + Admin {#admin}
          + [Aanvullende beheerders](product-docs/marketo-sales-connect/admin/additional-admins.md)
-         + [Tabblad Instellingen beheerder](product-docs/marketo-sales-connect/admin/admin-settings-tab.md)
          + [Geblokkeerde domeinen](product-docs/marketo-sales-connect/admin/blocked-domains.md)
          + [Inhoud vergrendelen](product-docs/marketo-sales-connect/admin/content-lockdown.md)
          + [Subteam maken](product-docs/marketo-sales-connect/admin/create-a-sub-team.md)
@@ -1215,7 +1214,7 @@ ht-degree: 0%
       + Veelgestelde vragen {#faq}
          + [Kan ik een door mij verwijderde contactpersoon of groep herstellen?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [Veelgestelde vragen over inhoud en bestandsbijlage](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
-         + [Heeft Sales Connect een iPhone- of Android-app?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
+         + [Heeft Sales Connect een iPhone- of Android-toepassing?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [Hoe kan ik verkoop verbinden op Mijn Server Lijsten van gewenste personen?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
          + [Ik ben buiten mijn account gezet. Wat doe ik?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Is Sales Connect compatibel met Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
@@ -1302,7 +1301,7 @@ ht-degree: 0%
          + [Marketo Insights installeren voor Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
          + [Marketo Insights gebruiken voor Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Personen- en accountgegevens en -activiteiten weergeven in Google Mail](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
-      + MSI voor de Dynamica van Microsoft {#msi-for-microsoft-dynamics}
+      + MSI voor Microsoft Dynamics {#msi-for-microsoft-dynamics}
          + [Overzicht van functies](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/feature-overview.md)
          + {#installing} installeren
             + [Download de Marketo Sales Insight Solution voor Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
@@ -1314,7 +1313,7 @@ ht-degree: 0%
          + {#setting-up-and-using} instellen en gebruiken
             + [Een lead/contact toevoegen aan een Marketo-campagne vanuit Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [Vereiste velden voor het synchroniseren van Marketo met dynamiek](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
-            + [Een Marketo Sales-e-mail verzenden vanuit Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
+            + [Marketo Sales-e-mail verzenden vanuit Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [Sterren en vlammen instellen voor lead/contact-records](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
          + {#uninstalling} verwijderen
             + [Global MS Dynamics Sync uitschakelen](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
@@ -1581,8 +1580,8 @@ ht-degree: 0%
             + [Alle leads zoeken in een inkomstencyclusmodel](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
             + [Twee fasen samenvoegen in de inkomstenmodellen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
             + [Rapport over uw inkomstenmodel](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
-            + [Google AdWords-conversies in het inkomstenmodel instellen met een beheerdersaccount](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
-            + [Google AdWords-conversies instellen in het inkomstenmodel](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
+            + [Conversies van Google AdWords in het inkomstenmodel instellen met een beheerdersaccount](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
+            + [Conversies van Google AdWords instellen in het inkomstenmodel](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
             + [Beginnen met bijhouden via rekening in de inkomstenmodellen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
             + [Begrijpen van inkomstenmodelfasen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
             + [Werken met succespad van inkomstenmodel](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)
@@ -1638,7 +1637,7 @@ ht-degree: 0%
          + [RTP implementeren op Wordpress Enterprise](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress-enterprise.md)
          + [RTP implementeren op Wordpress](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-on-wordpress.md)
          + [RTP implementeren met Adobe Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
-         + [RTP implementeren met Google Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
+         + [RTP implementeren met Google-tagbeheer](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
          + [RTP implementeren met Tealium Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
       + Rapportage voor web personalisatie {#reporting-for-web-personalization}
          + [E-mailrapporten](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
