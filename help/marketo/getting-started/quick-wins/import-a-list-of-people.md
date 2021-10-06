@@ -3,17 +3,16 @@ unique-page-id: 2359418
 description: Een lijst met personen importeren - Marketo Docs - Productdocumentatie
 title: Een lijst met personen importeren
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '490'
 ht-degree: 0%
 
 ---
 
-# Een lijst met personen {#import-a-list-of-people} importeren
+# Een lijst met personen importeren {#import-a-list-of-people}
 
-## Opdracht: Importeer een spreadsheetlijst met presentatoren in de database {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
+## Opdracht: Een spreadsheetlijst met presentatoren in uw database importeren {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
 
 >[!PREREQUISITES]
 >
@@ -21,9 +20,9 @@ ht-degree: 0%
 
 In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt importeren in Marketo.
 
-## Stap 1: Een werkblad {#step-download-and-edit-a-spreadsheet} downloaden en bewerken
+## Stap 1: Een werkblad downloaden en bewerken {#step-download-and-edit-a-spreadsheet}
 
-1. Als u wilt beginnen, downloadt u ons werkbladbestand ([**tradeshow-attendees.csv**](https://docs.marketo.com/display/docs/assets/tradeshow-attendees.csv)) naar uw computer.
+1. Als u wilt beginnen, downloadt u ons werkbladbestand ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv)) naar uw computer.
 
    ![](assets/image2014-9-24-12-3a5-3a0.png)
 
@@ -53,7 +52,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
    ![](assets/image2014-9-24-12-3a21-3a13.png)
 
-1. **Geef** het programma de naam &quot;Mijn programma van de Presentatie&quot;en selecteer &quot;Gebeurtenis&quot;voor het Type **van** Programma.
+1. **** Geef het programma de naam &quot;Mijn programma van de Presentatie&quot;en selecteer &quot;Gebeurtenis&quot;voor het Type **van** Programma.
 
    ![](assets/image2014-9-24-12-3a21-3a25.png)
 
@@ -75,7 +74,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
    ![](assets/image2014-9-24-12-3a22-3a56.png)
 
-1. **Geef** de lijst &quot;Handelaars aanwezigen&quot; een naam en klik op  **Maken**.
+1. **** Geef de lijst &quot;Handelaars aanwezigen&quot; een naam en klik op  **Maken**.
 
    ![](assets/image2014-9-24-12-3a23-3a9.png)
 
@@ -91,7 +90,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
    >
    >De maximale grootte voor CSV-bestanden is 100 MB.
 
-1. **Blader** naar het bestand  **tradeshow-attendees.** csvspreadsheet op de computer en klik op  **Volgende**.
+1. **** Blader naar het bestand  **tradeshow-attendees.** csvspreadsheet op de computer en klik op  **Volgende**.
 
    ![](assets/eleven-2.png)
 

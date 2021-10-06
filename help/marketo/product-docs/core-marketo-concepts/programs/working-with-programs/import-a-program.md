@@ -3,19 +3,18 @@ unique-page-id: 1147108
 description: Een programma importeren - Marketo Docs - Productdocumentatie
 title: Een programma importeren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1b37a750c5e609b9e43e942df752305d85153989
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
 
 ---
 
-# Een programma {#import-a-program} importeren
+# Een programma importeren {#import-a-program}
 
 Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het andere. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. Bovendien kunt u een vooraf gebouwd programma importeren uit de Marketo Program Library.
 
-## Een programma {#import-a-program-1} importeren
+## Een programma importeren {#import-a-program-1}
 
 1. Ga naar **Marketingactiviteiten.**
 
@@ -57,7 +56,7 @@ U ontvangt een e-mailbevestiging nadat het importeren is voltooid.
 >
 >U moet geïmporteerde batchcampagnes opnieuw plannen en triggercampagnes activeren. Het systeem deactiveert automatisch campagnematerialen en activeert campagnes in het geïmporteerde programma.
 
-## Pre-Built Programma&#39;s identificeren in de Marketo Program Library {#identify-pre-built-programs-in-the-marketo-program-library}
+## Pre-Built-programma&#39;s identificeren in de Marketo Program Library {#identify-pre-built-programs-in-the-marketo-program-library}
 
 De Marketo Program Library bevat vooraf gebouwde, geteste programma&#39;s die u kunt importeren in uw abonnement. Beschikbare programma&#39;s zijn:
 
@@ -98,7 +97,9 @@ De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, landende pa
 >
 >Afbeeldingstype mijn tokens worden niet ondersteund voor het importeren van programma&#39;s. Als een programma met beeldtype mijn tokens wordt ingevoerd, **geen** tokens zullen door komen.
 
-**Programmatags:** u kunt conflictregels gebruiken om te bepalen hoe programmalabels die niet in de doelaccount bestaan, worden behandeld. Als u de standaardregel gebruikt, worden de programmacodes gemaakt of kunt u de codes negeren. **Forms:** Externe formulieren worden automatisch geïmporteerd in de ontwerpstudio, tenzij er een formulier met dezelfde naam bestaat.
+**Programmatags:** u kunt conflictregels gebruiken om te bepalen hoe programmalabels die niet in de doelaccount bestaan, worden behandeld. Als u de standaardregel gebruikt, worden de programmacodes gemaakt of kunt u de codes negeren.
+
+**Forms:** Externe formulieren worden automatisch geïmporteerd in de ontwerpstudio, tenzij er een formulier met dezelfde naam bestaat.
 
 >[!CAUTION]
 >
