@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: 52f98ebf45079263a6fb0751fed47755d757a6f4
 workflow-type: tm+mt
-source-wordcount: '8101'
+source-wordcount: '8001'
 ht-degree: 0%
 
 ---
@@ -1169,29 +1169,12 @@ ht-degree: 0%
             + [Throtting van e-mailverbinding](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [Een aangepast leveringskanaal instellen](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Verstuur een e-mail {#send-a-sales-email}
-            + [Een sjabloon of campagne toevoegen](product-docs/marketo-sales-connect/email/send-a-sales-email/add-a-template-or-campaign.md)
-            + [E-mail aan Salesforce toevoegen vanuit Gmail](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-from-gmail.md)
-            + [E-mail aan Salesforce toevoegen in e-mailclient](product-docs/marketo-sales-connect/email/send-a-sales-email/add-email-to-salesforce-in-email-client.md)
-            + [Inhoud toevoegen](product-docs/marketo-sales-connect/email/send-a-sales-email/adding-content.md)
-            + [Verificatie mislukt](product-docs/marketo-sales-connect/email/send-a-sales-email/authentication-unsuccessful-error.md)
             + [Campagne is beëindigd](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [CC of BCC in e-mails](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [E-mail gemarkeerd als spam](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
-            + [Geselecteerde e-mail en e-mailgroep](product-docs/marketo-sales-connect/email/send-a-sales-email/email-selected-and-email-group.md)
-            + [E-mails naar spam](product-docs/marketo-sales-connect/email/send-a-sales-email/emails-going-to-spam.md)
-            + [Fout bij verzenden vanuit Gmail of Outlook](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-gmail-or-outlook.md)
-            + [Fout bij verzenden vanuit de webtoepassing](product-docs/marketo-sales-connect/email/send-a-sales-email/error-when-sending-from-the-web-application.md)
-            + [Harde vlekken](product-docs/marketo-sales-connect/email/send-a-sales-email/hard-bounces.md)
-            + [Een e-mail plannen](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-schedule-an-email.md)
-            + [E-mailadres voor groep verzenden](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-a-group-email.md)
-            + [Een e-mail verzenden vanuit een verkoopafdeling](product-docs/marketo-sales-connect/email/send-a-sales-email/how-to-send-an-email-from-sales-engage.md)
-            + [Geplande e-mails die naar concepten gaan](product-docs/marketo-sales-connect/email/send-a-sales-email/scheduled-emails-going-to-drafts.md)
             + [Bestandsbijlagen verzenden in uw e-mail](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
-            + [Foutbericht voor rotatie in een mislukte levering](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
-            + [Rotatiefouten](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
          + Live feed {#the-live-feed}
             + [Onjuiste locatie ontvanger](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
-            + [Woordenlijst van pictogram Live feed](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-icon-glossary.md)
             + [Overzicht van Live feed](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + Abonnement {#unsubscribes} opzeggen
             + [Bericht voor opzeggen van koppeling aanpassen](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1238,10 +1221,7 @@ ht-degree: 0%
          + [Sales Connect en GDPR-compatibiliteit](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Contacten {#managing-contacts} beheren
             + [Bulkacties op personen](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
-            + [Verbind uw Marketo-leads met Sales Connect Leads](product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)
-            + [Verbinding maken met een groep](product-docs/marketo-sales-connect/people/managing-contacts/connecting-with-a-group.md)
             + [Contactpersonen maken en verwijderen](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
-            + [Een groep verwijderen](product-docs/marketo-sales-connect/people/managing-contacts/delete-a-group.md)
             + [Groepstypen](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Hoe Verkoop Connect het uit-duwen van e-mail behandelt](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
             + [Een contactgroep maken](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
