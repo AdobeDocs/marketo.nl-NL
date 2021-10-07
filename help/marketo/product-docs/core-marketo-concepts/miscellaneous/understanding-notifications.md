@@ -3,11 +3,10 @@ unique-page-id: 2952292
 description: Kennisgevingen - Marketo Docs - Productdocumentatie
 title: Kennisgevingen
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,27 +18,29 @@ Meldingen houden je up-to-date over systeemgebeurtenissen die plaatsvinden in je
 
 1. Rechtsboven in Marketo worden nieuwe meldingen weergegeven.
 
-   ![](assets/image2014-10-10-11-3a32-3a48.png)
+   ![](assets/understanding-notifications-1.png)
 
 1. Klik op Meldingen om al uw meldingen weer te geven.
 
-   ![](assets/image2014-10-10-11-3a55-3a44.png)
+   ![](assets/understanding-notifications-2.png)
 
 ## Abonneren op meldingen {#subscribe-to-notifications}
 
 U kunt zich abonneren op meldingen om deze in uw e-mail te ontvangen.
 
-1. Ga naar Meldingen en klik op Abonneren.
+1. Ga naar Meldingen en klik **Abonneren**.
 
-![](assets/image2014-10-10-12-3a3-3a29.png)
+   ![](assets/understanding-notifications-3.png)
 
-1. Selecteer het berichttype en voer het e-mailadres of de e-mailadressen in waarnaar meldingen moeten worden verzonden.
+1. Selecteer het Berichttype en voer het e-mailadres of de e-mailadressen in waarnaar meldingen moeten worden verzonden (gescheiden door een komma). Klik **Abonneren** wanneer gereed.
 
-   ![](assets/image2014-10-10-13-3a0-3a37.png)
+   ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->In sommige gevallen, verstrekt een bericht een &quot;Zie de volledige lijst&quot;verbinding om een komma-gescheiden-waarde (CSV) dossier, bijvoorbeeld, het dossier van de Fouten van de Synchronisatie van de Dynamica van Microsoft te downloaden. Marketo bewaart deze CSV-bestanden 30 dagen. Als u het bestand na 30 dagen probeert te downloaden, wordt een fout van 404 gegenereerd.
+>Het **verzenden naar** gebied is slechts voor u om uw e-mail in te gaan, zal het geen lijst van bestaande abonnees tonen.
+
+In sommige gevallen bevat een melding de koppeling &quot;Zie de volledige lijst&quot; om een CSV-bestand (comma-separated-value) te downloaden, bijvoorbeeld het foutbestand van Microsoft Dynamics Sync. Marketo bewaart deze CSV-bestanden 30 dagen. Als u het bestand na 30 dagen probeert te downloaden, wordt een fout van 404 gegenereerd.
 
 >[!TIP]
 >

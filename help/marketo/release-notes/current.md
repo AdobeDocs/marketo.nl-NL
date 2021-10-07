@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 **Nieuwe e-mail-, webactiviteiten-, anonieme webactiviteitendashboards**: We hebben de nieuwe verkoopdashboards toegevoegd om verkopers te informeren over hun leads en contactpersonen voor de meest recente e-mail- en webactiviteiten. Met de nieuwe filtermogelijkheden bieden de dashboards nu inzicht in het openen van e-mail, klikken en webpaginabezoeken voor de volledige lijst met accounts of een specifieke account. Marketo Engage volgt alle Webactiviteit en voorziet verkoop van kritieke informatie, die anoniem verkeer in lood verandert. Verkopers worden in staat gesteld om hun betrokkenheid aan te passen en leads sneller om te zetten in verkoop omdat ze beter op de hoogte zijn van leadgedrag en op basis van de relevantie van alle aanraakpunten handelen.
 
-**Verkoopoverzicht voor Salesforce CRM**
+**Verkoopoverzicht voor Salesforce**
 
 **Best Bets op account- en opportuniteitsniveau**: Het Inzicht van de verkoop biedt nu de capaciteit voor verkoopvertegenwoordigers aan om Beste Bets voor alle contacten op de rekening of de kans te herzien zij hebben, zelfs wanneer het contact aan een verschillend teamlid wordt toegewezen. Dit geeft account- en opportuniteitseigenaars volledige zichtbaarheid in de activiteiten van relevante contactpersonen en helpt hen te handelen op basis van een holistischer beeld van de account of de kans.
 
@@ -71,4 +71,4 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Aankondigingen {#announcements}
 
-**Associate Lead Deprecation/Munchkin Beta 161 Update**: Op 7 september 2021 begon versie 161 van Munchkin uit te rollen tot 10% van de abonnementen met Münchkin Beta ingeschakeld, gevolgd door 50% op 16 september en 100% op 30 september. Deze wijziging heeft invloed op Marketo Engage-landingspagina&#39;s en op de versie van het bestand munchkin-beta.js die wordt gebruikt voor externe bestemmingspagina&#39;s die worden geladen van abonnementen waarop de recente versie is geïmplementeerd. In deze versie wordt de methode Munchkin Associate Lead volledig vervangen. Deze functie maakt het mogelijk dat de gegevens van een persoon worden verzonden naar een Marketo Engage-abonnement en de bijbehorende webbrowsergeschiedenis met een bekende persoonrecord. Associate Lead wordt verwijderd ten gunste van modernere en veiligere alternatieven, zoals de Forms JS API, de Form Submit API en de Associate Lead REST API. [Klik hier voor meer informatie over deze veroudering](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+**Associate Lead Deprecation/Munchkin Beta 161 Update**: Op 7 september 2021 begon versie 161 van Munchkin uit te rollen tot 10% van de abonnementen met Münchkin Beta ingeschakeld, gevolgd door 50% op 16 september en 100% op 30 september. Deze wijziging heeft invloed op Marketo Engage-landingspagina&#39;s en op de versie van het bestand munchkin-beta.js die wordt gebruikt voor externe bestemmingspagina&#39;s die worden geladen van abonnementen waarop de recente versie is geïmplementeerd. In deze versie wordt de methode Munchkin Associate Lead volledig vervangen. Deze functie maakt het mogelijk dat de gegevens van een persoon worden verzonden naar een Marketo Engage-abonnement en de bijbehorende webbrowsergeschiedenis met een bekende persoonrecord. Associate Lead wordt verwijderd ten gunste van modernere en veiligere alternatieven, zoals de Forms JS API, de Form Submit API en de Associate Lead REST API. [Klik hier](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/) voor meer informatie over deze veroudering.
