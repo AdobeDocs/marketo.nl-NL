@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 52f98ebf45079263a6fb0751fed47755d757a6f4
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
-source-wordcount: '8001'
+source-wordcount: '8029'
 ht-degree: 0%
 
 ---
@@ -1173,8 +1173,11 @@ ht-degree: 0%
             + [CC of BCC in e-mails](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [E-mail gemarkeerd als spam](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
             + [Bestandsbijlagen verzenden in uw e-mail](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
+            + [Foutbericht voor rotatie in een mislukte levering](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-error-message-in-a-failed-delivery.md)
+            + [Rotatiefouten](product-docs/marketo-sales-connect/email/send-a-sales-email/throttling-errors.md)
          + Live feed {#the-live-feed}
             + [Onjuiste locatie ontvanger](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
+            + [Woordenlijst van pictogram Live feed](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-icon-glossary.md)
             + [Overzicht van Live feed](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
          + Abonnement {#unsubscribes} opzeggen
             + [Bericht voor opzeggen van koppeling aanpassen](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1221,7 +1224,10 @@ ht-degree: 0%
          + [Sales Connect en GDPR-compatibiliteit](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Contacten {#managing-contacts} beheren
             + [Bulkacties op personen](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
+            + [Verbind uw Marketo-leads met Sales Connect Leads](product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md)
+            + [Verbinding maken met een groep](product-docs/marketo-sales-connect/people/managing-contacts/connecting-with-a-group.md)
             + [Contactpersonen maken en verwijderen](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
+            + [Een groep verwijderen](product-docs/marketo-sales-connect/people/managing-contacts/delete-a-group.md)
             + [Groepstypen](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Hoe Verkoop Connect het uit-duwen van e-mail behandelt](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
             + [Een contactgroep maken](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)

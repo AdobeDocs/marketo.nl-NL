@@ -3,7 +3,7 @@ description: Chatgebruikers toevoegen of verwijderen - Marketo Docs - Productdoc
 title: Chatgebruikers toevoegen of verwijderen
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: c8da1162177e91313e9a1cd67e78caf79dd991ef
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
 
    >[!NOTE]
    >
-   >Als u meer dan één Marketo-abonnement hebt, selecteert u het gewenste abonnement vóór de volgende stap).
+   >Als u meerdere Marketo-abonnementen hebt, selecteert u de gewenste abonnement vóór de volgende stap.
 
 1. Klik op het tabblad **Gebruikers**.
 
