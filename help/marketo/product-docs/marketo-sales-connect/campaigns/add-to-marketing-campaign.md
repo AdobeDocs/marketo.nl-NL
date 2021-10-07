@@ -2,14 +2,13 @@
 unique-page-id: 14745611
 description: Toevoegen aan marketingcampagne - Marketo Docs - Productdocumentatie
 title: Toevoegen aan marketingcampagne
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: d520d681-8415-4d48-896f-f213a8fabd11
+source-git-commit: 3fb9b16f83a6b4662e867c1fdbeda275dfdc1e13
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Toevoegen aan marketingcampagne {#add-to-marketing-campaign}
 
@@ -17,11 +16,11 @@ ht-degree: 0%
 >
 >[Een campagne zichtbaar maken voor verkoopgebruikers](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
-## Individuen toevoegen aan een campagne {#add-individuals-to-a-campaign}
+## Personen toevoegen aan een campagne {#add-individuals-to-a-campaign}
 
 >[!NOTE]
 >
->Als u iemand vanuit Sales Connect wilt toevoegen aan een Marketo-campagne, moet Sales Connect de toonaangevende id van de persoon hebben. [Leer hier](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md) Marketo-id&#39;s vastleggen.
+>Als u iemand vanuit Sales Connect aan een Marketo-campagne wilt toevoegen, moet Sales Connect de Marketo lead-id van die persoon hebben.
 
 1. Klik op het tabblad **Personen**.
 
@@ -53,7 +52,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Als u niet de werkruimte ziet u wilt, zorg uw Admin bepalingen het door uw pagina van de Toegang van het Team van de Marketo.
+   >Als u de gewenste werkruimte niet ziet, controleert u of de beheerdersvoorzieningen aanwezig zijn via de pagina Marketo Team Access.
 
 1. Selecteer de gewenste campagne en klik **Next**.
 
@@ -87,7 +86,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Als u iemand vanuit Sales Connect wilt toevoegen aan een Marketo-campagne, moet Sales Connect de toonaangevende id van de persoon hebben. [Leer hier](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/connect-your-marketo-leads-with-sales-connect-leads.md) Marketo-id&#39;s vastleggen.
+   >Als u iemand vanuit Sales Connect aan een Marketo-campagne wilt toevoegen, moet Sales Connect de Marketo lead-id van die persoon hebben.
 
 1. Klik op de vervolgkeuzelijst Werkruimten en kies de werkruimte die de campagne bevat waaraan de groep moet worden toegevoegd.
 
@@ -95,7 +94,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Als u niet de werkruimte ziet u wilt, zorg uw Admin bepalingen het door uw pagina van de Toegang van het Team van de Marketo.
+   >Als u de gewenste werkruimte niet ziet, controleert u of de beheerdersvoorzieningen aanwezig zijn via de pagina Marketo Team Access.
 
 1. Selecteer de gewenste campagne en klik **Next**.
 
