@@ -3,16 +3,16 @@ unique-page-id: 8783932
 description: Template 6C - Marketo-documenten - Productdocumentatie
 title: Template 6C
 exl-id: f8111083-24f5-42c9-82b5-290360d72e5a
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # Template 6C {#template-6c}
 
-[Sjabloon 6C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
+Klik met de rechtermuisknop op [Sjabloon 6C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
 
 ![](assets/image2015-7-29-11-3a52-3a22.png)
 
@@ -25,6 +25,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vier carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder om deze sjabloon te downloaden:**
+**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
 [Sjabloon 6C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)

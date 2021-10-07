@@ -3,16 +3,16 @@ unique-page-id: 8783963
 description: Template 8B - Marketo-documenten - Productdocumentatie
 title: Sjabloon 8B
 exl-id: fd194747-2465-4685-a0de-bea7a294726d
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 8B {#template-8b}
 
-[Sjabloon 8B downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
+Klik met de rechtermuisknop om sjabloon 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html) te downloaden[
 
 ![](assets/image2015-7-29-13-3a56-3a13.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vijf carrosseriesegmenten (optioneel)
 * Een voettekst (optioneel)
 
-**Klik hieronder om deze sjabloon te downloaden:**
+**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
 [Sjabloon 8B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)

@@ -3,16 +3,16 @@ unique-page-id: 10092919
 description: Sjabloon 20D - Marketo Docs - Productdocumentatie
 title: Sjabloon 20D
 exl-id: b6fdc927-a469-463a-808e-a08a52c6cfa2
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 20D {#template-20d}
 
-[Sjabloon 20D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
+Klik met de rechtermuisknop op [Sjabloon 20D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)
 
 ![](assets/template-20d.png)
 
@@ -25,6 +25,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vier carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder om deze sjabloon te downloaden:**
+**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
 [Sjabloon 20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html)

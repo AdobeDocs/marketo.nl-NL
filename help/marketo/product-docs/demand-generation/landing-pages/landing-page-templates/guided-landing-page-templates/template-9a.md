@@ -3,16 +3,16 @@ unique-page-id: 8783981
 description: Template 9A - Marketo-documenten - Productdocumentatie
 title: Template 9A
 exl-id: cc729eee-224b-4acd-87d8-7fb9155d73fb
-source-git-commit: df197322c7bdafb695b532bce51802961e453335
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # Template 9A {#template-9a}
 
-[Sjabloon 9A downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
+Klik met de rechtermuisknop op [Sjabloon 9A downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
 
 ![](assets/image2015-7-28-15-3a9-3a26.png)
 
@@ -25,6 +25,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Acht carrosseriesegmenten (optioneel)
 * Een voettekst (optioneel)
 
-**Klik hieronder om deze sjabloon te downloaden:**
+**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
 [Sjabloon 9A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)

@@ -3,16 +3,16 @@ unique-page-id: 9438209
 description: Sjabloon 18B - Marketo-documenten - Productdocumentatie
 title: Sjabloon 18B
 exl-id: a0bb1104-a905-4285-895b-df515449db89
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 18B {#template-18b}
 
-[Sjabloon 18B downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)
+Klik met de rechtermuisknop op [Sjabloon 18B downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)
 
 ![](assets/image2015-8-17-18-3a6-3a30.png)
 
@@ -26,6 +26,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vijf carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder om deze sjabloon te downloaden:**
+**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
 [Sjabloon 18B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18b.html)

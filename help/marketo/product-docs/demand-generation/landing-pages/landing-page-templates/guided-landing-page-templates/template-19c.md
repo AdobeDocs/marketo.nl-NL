@@ -3,16 +3,16 @@ unique-page-id: 10092896
 description: Template 19C - Marketo-documenten - Productdocumentatie
 title: Sjabloon 19C
 exl-id: 9f518caf-2270-46d8-b9ce-3b11b10af338
-source-git-commit: dbacd9b8e028872a1fa91e450a8e2dd338edd34d
+source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 19C {#template-19c}
 
-[Sjabloon 19C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
+Klik met de rechtermuisknop op [Sjabloon 19C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 
@@ -25,6 +25,6 @@ Deze sjabloon bevat de volgende inhoud:
 * Vijf carrosseriesegmenten (optioneel)
 * Voettekst (optioneel)
 
-**Klik hieronder om deze sjabloon te downloaden:**
+**Klik hieronder met de rechtermuisknop om deze sjabloon te downloaden:**
 
 [Sjabloon 19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
