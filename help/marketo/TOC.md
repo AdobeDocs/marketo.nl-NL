@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 366f1cac07c30b5f928d3d1b6a1c530011ca83d0
+source-git-commit: aabb8de6ed67334e853221be623f649d0698edc0
 workflow-type: tm+mt
-source-wordcount: '8004'
+source-wordcount: '7956'
 ht-degree: 0%
 
 ---
@@ -1224,11 +1224,6 @@ ht-degree: 0%
             + [Contactpersonen maken en verwijderen](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [Groepstypen](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
             + [Hoe Verkoop Connect het uit-duwen van e-mail behandelt](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
-            + [Een contactgroep maken](product-docs/marketo-sales-connect/people/managing-contacts/how-to-create-a-contact-group.md)
-            + [Automatisch afmelden opmaken](product-docs/marketo-sales-connect/people/managing-contacts/how-to-format-auto-unsubscribes.md)
-            + [Hoe te om Contacten van Salesforce in te voeren](product-docs/marketo-sales-connect/people/managing-contacts/how-to-import-contacts-from-salesforce.md)
-            + [Twee groepen samenvoegen](product-docs/marketo-sales-connect/people/managing-contacts/how-to-merge-two-groups-together.md)
-            + [Hoe te om een Groep te delen](product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
             + [Contacten importeren via CSV](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [Groepen beheren](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [Kolommen met personenpagina&#39;s](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
@@ -1246,21 +1241,15 @@ ht-degree: 0%
       + Taken {#tasks}
          + [De Taken van de Verbinding van de Verkoop met Salesforce voor de eerste keer synchroniseren](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Sjablonen {#templates}
-         + [Een bijlage toevoegen](product-docs/marketo-sales-connect/templates/add-an-attachment.md)
-         + [Een afbeelding toevoegen](product-docs/marketo-sales-connect/templates/add-an-image.md)
          + [Automatisch afmelden aan een sjabloon toevoegen](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
          + [Hyperlinktekst toevoegen](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [Video-inhoud toevoegen](product-docs/marketo-sales-connect/templates/add-video-content.md)
          + [Archiefsjablonen](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [Een follow-up-e-mail maken](product-docs/marketo-sales-connect/templates/create-a-follow-up-email.md)
-         + [Een follow-upsjabloon maken](product-docs/marketo-sales-connect/templates/create-a-follow-up-template.md)
          + [Een nieuwe categorie maken](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
          + [Een nieuwe sjabloon maken](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
          + [Sjabloonweergave aanpassen](product-docs/marketo-sales-connect/templates/customize-template-view.md)
          + [Een sjablooncategorie verwijderen](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
          + [Een sjabloon verwijderen](product-docs/marketo-sales-connect/templates/delete-a-template.md)
          + [Een sjablooncategorie bewerken](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [Delen van categorieën inschakelen](product-docs/marketo-sales-connect/templates/enable-category-sharing.md)
          + [Een sjabloon favorieten](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
          + [Categorieën samenvoegen en dupliceren](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [Aanbevolen sjablonen](product-docs/marketo-sales-connect/templates/recommended-templates.md)
