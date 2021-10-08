@@ -2,24 +2,24 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
+source-git-commit: 407df519413a39b723dc6f90f028f23527b4f0e9
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '971'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release: Oktober 2021 {#release-notes-oct-21}
 
-De volgende functies zijn opgenomen in de release van oktober 1921. Controleer uw Marketo Engage-editie voor de beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van oktober 1921. Controleer de Adobe Marketo Engage-editie van uw voor de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
->Functies die door een ster (![](assets/yellow-star.png)) worden aangeduid, worden betaalde invoegtoepassingen. Neem contact op met uw Adobe Marketo Engage voor meer informatie.
+>Functies die door een ster (![](assets/yellow-star.png)) worden aangeduid, worden betaalde invoegtoepassingen. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Kwartaalreleases_**
 
-De volgende functies worden vrijgegeven op 22 **oktober 2021**.
+De volgende functies worden vrijgegeven op 22 **oktober 2021**, met een gefaseerde uitrol van elke functie in de volgende week (tenzij anders aangegeven).
 
 ## Innovatie op basis van AI {#ai-driven-innovation}
 
@@ -29,7 +29,9 @@ De volgende functies worden vrijgegeven op 22 **oktober 2021**.
 
 **Kies uw eigen ervaring**: Schakel eenvoudig over naar de gewenste ervaring met de nieuwe schakeloptie terwijl u werkt aan Marketo Engage-formulierdetails of de weergave van de landingspagina zonder dat de context, wijzigingen in elementen of voorkeuren verloren gaan. Bovendien verbetert de nieuwe lijstweergave van de landingspagina uw ervaring met nieuwe filters en de mogelijkheid om massahandelingen uit te voeren.
 
-**Efficiënt** zoeken: Verbeterde toegankelijkheid van de algemene zoekfunctie omvat bijgewerkte toetsenbordnavigatie en labelbeschrijvingen, een nieuwe schuiffunctie voor resultaten en meer zichtbare toegepaste filters. De modaliteiten voor verplaatsen zijn verbeterd en bieden nu ondersteuning voor sneltoetsen. Controleer de status van taken die op de achtergrond van de nieuwe ervaring worden uitgevoerd via de nieuwe taakmeldingslade in de globale navigatiebalk. In de lade worden meldingen vastgelegd voor taken die zijn gestart vanuit de nieuwe ervaringsweergave van formuliergegevens en lijsten van landingspagina&#39;s, waaronder het wijzigen van de status op landingspagina&#39;s en algemene massaacties met behulp van de nieuwe ervaring.
+**Efficiënt** zoeken: Verbeterde toegankelijkheid van de algemene zoekfunctie omvat bijgewerkte toetsenbordnavigatie en labelbeschrijvingen, een nieuwe schuiffunctie voor resultaten en meer zichtbare toegepaste filters.
+
+**Monitortaken**: Controleer de status van taken die op de achtergrond van de nieuwe ervaring worden uitgevoerd via de nieuwe taakmeldingslade in de globale navigatiebalk. In de lade worden meldingen vastgelegd voor taken die zijn gestart vanuit de nieuwe ervaringsweergave van formuliergegevens en de lijst met landingspagina&#39;s, waaronder het wijzigen van de status op landingspagina&#39;s en algemene massaacties met behulp van de nieuwe ervaring.
 
 ## Experience Automation {#experience-automation}
 
