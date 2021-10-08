@@ -1,15 +1,14 @@
 ---
 unique-page-id: 45417460
-description: Het toewijzen van Taken aan de Leden van het Team - Marketo Docs - de Documentatie van het Product
+description: Taken toewijzen aan teamleden - Marketo Docs - Productdocumentatie
 title: Taken toewijzen aan teamleden
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
+source-git-commit: 01a131e58a3f4ea80d30363d152608820530163e
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Taken toewijzen aan teamleden {#assigning-tasks-to-team-members}
 
@@ -17,7 +16,7 @@ Als u met andere teamleden wilt samenwerken, kan het toewijzen van taken een gro
 
 >[!NOTE]
 >
->U kunt alleen taken toewijzen voor gedeelde contactpersonen. U zult een groep contacten [met uw teamleden willen delen alvorens met gedeelde taken samen te werken.](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
+>U kunt alleen taken toewijzen voor gedeelde contactpersonen.
 
 1. Klik op **Command Center**.
 
@@ -54,7 +53,3 @@ Als u met andere teamleden wilt samenwerken, kan het toewijzen van taken een gro
 1. Voeg alle belangrijke details toe die relevant zijn voor uw teamgenoot (optioneel) en klik op **Maken**.
 
    ![](assets/nine.png)
-
->[!MORELIKETHIS]
->
->[Hoe te om een Groep te delen](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/how-to-share-a-group.md)
