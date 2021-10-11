@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 6ba2020db432f0b520a63630fcd93c34c7c7611a
+source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -75,4 +75,4 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 **Associate Lead Deprecation/Munchkin Beta 161 Update**: Op 7 september 2021 begon versie 161 van Munchkin uit te rollen tot 10% van de abonnementen met Münchkin Beta ingeschakeld, gevolgd door 50% op 16 september en 100% op 30 september. Deze wijziging heeft invloed op Marketo Engage-landingspagina&#39;s en op de versie van het bestand munchkin-beta.js die wordt gebruikt voor externe bestemmingspagina&#39;s die worden geladen van abonnementen waarop de recente versie is geïmplementeerd. In deze versie wordt de methode Munchkin Associate Lead volledig vervangen. Deze functie maakt het mogelijk dat de gegevens van een persoon worden verzonden naar een Marketo Engage-abonnement en de bijbehorende webbrowsergeschiedenis met een bekende persoonrecord. Associate Lead wordt verwijderd ten gunste van modernere en veiligere alternatieven, zoals de Forms JS API, de Form Submit API en de Associate Lead REST API. [Klik hier](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/) voor meer informatie over deze veroudering.
 
-Wilt u meer weten over deze functies en verbeteringen? Vergeet niet om nu [te registreren](https://engage.marketo.com/October_Release_Webinar_RegistrationPage.html) om op 28 oktober 2021, om 9:00 uur PT/12:00 PM ET voor een levend webinar met ons productteam om een diepere duik in deze innovaties te nemen.
+Wilt u meer weten over deze functies en verbeteringen? Vergeet niet om nu [te registreren](https://engage.marketo.com/October_Release_RegistrationPage.html) om op 28 oktober 2021, om 9:00 uur PT/12:00 PM ET voor een levend webinar met ons productteam om een diepere duik in deze innovaties te nemen.
