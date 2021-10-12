@@ -1,10 +1,11 @@
 ---
 description: Verklarende woordenlijst Verkoopactiviteiten - Marketo-documenten - Productdocumentatie
 title: Verklarende woordenlijst Verkoopactiviteiten
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
+source-git-commit: 9677c26004a567bb53fef452304665eb73855568
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 2%
+source-wordcount: '480'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +27,7 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
   <th>Kenmerk</th>
  </tr>
  <tr>
-  <th rowspan="3">Verkoop-e-mail verzenden</th>
+  <th rowspan="9">Verkoop-e-mail verzenden</th>
   <td>Verzonden door</td>
  </tr>
  <tr>
@@ -36,7 +37,25 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
   <td>Sjabloon-id</td>
  </tr>
  <tr>
-  <th rowspan="3">Verkoopbericht openen</th>
+  <td>URL van verkoopsjabloon</td>
+ </tr>
+ <tr>
+  <td>Verkoopcampagne-URL</td>
+ </tr>
+ <tr>
+  <td>Naam verkoopsjabloon</td>
+ </tr>
+ <tr>
+  <td>E-mailonderwerp</td>
+ </tr>
+ <tr>
+  <td>Naam verkoopcampagne</td>
+ </tr>
+ <tr>
+  <td>Marketo-gebruikersnaam</td>
+ </tr>
+ <tr>
+  <th rowspan="9">Verkoopbericht openen</th>
   <td>Verzonden door</td>
  </tr>
  <tr>
@@ -46,7 +65,25 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
   <td>Sjabloon-id</td>
  </tr>
  <tr>
-  <th rowspan="4">E-mail met geklikte verkoop</th>
+  <td>URL van verkoopsjabloon</td>
+ </tr>
+ <tr>
+  <td>Verkoopcampagne-URL</td>
+ </tr>
+ <tr>
+  <td>Naam verkoopsjabloon</td>
+ </tr>
+ <tr>
+  <td>E-mailonderwerp</td>
+ </tr>
+ <tr>
+  <td>Naam verkoopcampagne</td>
+ </tr>
+ <tr>
+  <td>Marketo-gebruikersnaam</td>
+ </tr>
+ <tr>
+  <th rowspan="10">E-mail met geklikte verkoop</th>
   <td>Koppeling</td>
  </tr>
  <tr>
@@ -58,28 +95,36 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
  <tr>
   <td>Sjabloon-id</td>
  </tr>
+ <tr>
+  <td>URL van verkoopsjabloon</td>
+ </tr>
+ <tr>
+  <td>Verkoopcampagne-URL</td>
+ </tr>
+ <tr>
+  <td>Naam verkoopsjabloon</td>
+ </tr>
+ <tr>
+  <td>E-mailonderwerp</td>
+ </tr>
+ <tr>
+  <td>Naam verkoopcampagne</td>
+ </tr>
+ <tr>
+  <td>Marketo-gebruikersnaam</td>
+ </tr>
 <tr>
-  <th rowspan="2">E-mail over ontvangen verkoop</th>
+  <th rowspan="3">E-mail over ontvangen verkoop</th>
   <td>Ontvangen door</td>
  </tr>
  <tr>
   <td>Bron</td>
  </tr>
  <tr>
-  <th rowspan="4">Verkoop-e-mail teruggestuurd</th>
-  <td>Details</td>
+  <td>Persoon-id (MSC)</td>
  </tr>
  <tr>
-  <td>Sjabloon-id</td>
- </tr>
- <tr>
-  <td>E-mail</td>
- </tr>
- <tr>
-  <td>Verzonden door</td>
- </tr>
- <tr>
-  <th rowspan="7">Ontvangen verkoopoproep</th>
+  <th rowspan="11">Ontvangen verkoopoproep</th>
   <td>Verkoopoproep gemaakt door</td>
  </tr>
  <tr>
@@ -99,6 +144,18 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
  </tr>
  <tr>
   <td>Bron</td>
+ </tr>
+ <tr>
+  <td>Duur verkoopoproep</td>
+ </tr>
+ <tr>
+  <td>Opname-URL verkoopoproep</td>
+ </tr>
+  <tr>
+  <td>Verkoopoproep beantwoord door</td>
+ </tr>
+ <tr>
+  <td>Marketo Sales Person ID (MSC)</td>
  </tr>
  <tr>
   <th rowspan="6">Toevoegen aan verkoopcampagne</th>
