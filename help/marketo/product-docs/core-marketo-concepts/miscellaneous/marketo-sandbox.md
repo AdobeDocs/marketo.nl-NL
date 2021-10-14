@@ -3,8 +3,7 @@ unique-page-id: 11386358
 description: Marketo Sandbox - Marketo Docs - Productdocumentatie
 title: Marketo-sandbox
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -27,7 +26,7 @@ Een Marketo-sandbox kan niet worden gesynchroniseerd met uw normale CRM-server a
 * Als u gebruikers wilt toevoegen, is het proces hetzelfde als het toevoegen van gebruikers in productie](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users). [ Ze moeten opnieuw een ander e-mailadres gebruiken als ze al een Marketo-aanmelding hebben.
 * De Marketo-sandbox is leeg, maar heeft dezelfde functies als de productie-instantie.
 * Als u een programma in uw zandbak creeert en het naar productie wilt verplaatsen, kunt u [programmainvoer](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md) uitvoeren.
-* Sandboxen worden vertraagd, zodat productieinstanties niet nadelig worden beïnvloed door testomgevingen. U kunt maximaal 30 e-mails per campagne verzenden.
+* Sandboxen worden vertraagd, zodat productieinstanties niet nadelig worden beïnvloed door testomgevingen. U kunt maximaal 20 e-mails per campagne verzenden.
 
 >[!CAUTION]
 >

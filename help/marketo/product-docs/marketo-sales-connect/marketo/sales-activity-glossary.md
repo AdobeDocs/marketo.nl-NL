@@ -2,9 +2,9 @@
 description: Verklarende woordenlijst Verkoopactiviteiten - Marketo-documenten - Productdocumentatie
 title: Verklarende woordenlijst Verkoopactiviteiten
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 9677c26004a567bb53fef452304665eb73855568
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -121,7 +121,7 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
   <td>Bron</td>
  </tr>
  <tr>
-  <td>Persoon-id (MSC)</td>
+  <td>Marketo-gebruikersnaam</td>
  </tr>
  <tr>
   <th rowspan="11">Ontvangen verkoopoproep</th>
@@ -155,7 +155,7 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
   <td>Verkoopoproep beantwoord door</td>
  </tr>
  <tr>
-  <td>Marketo Sales Person ID (MSC)</td>
+  <td>Marketo-gebruikersnaam</td>
  </tr>
  <tr>
   <th rowspan="6">Toevoegen aan verkoopcampagne</th>
@@ -216,6 +216,10 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
   <tr> 
    <td><strong>Koppeling</strong></td> 
    <td>URL waarop is geklikt.</td> 
+  </tr> 
+  <tr> 
+   <td><strong>Marketo-gebruikersnaam</strong></td> 
+   <td>Unieke id voor persoonrecord in Sales Connect.</td> 
   </tr> 
   <tr> 
    <td><strong>Ontvangen door</strong></td> 

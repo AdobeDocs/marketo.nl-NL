@@ -2,18 +2,21 @@
 unique-page-id: 10092925
 description: Een webcampagne voorvertonen en testen - Marketo Docs - Productdocumentatie
 title: Een webcampagne voorvertonen en testen
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
+source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
-
 # Een webcampagne voorvertonen en testen {#preview-and-test-a-web-campaign}
 
 In dit artikel worden verschillende manieren getoond waarop u een webcampagne kunt voorvertonen en ook hoe u deze kunt testen met behulp van een sandboxsegment dat live op uw website staat.
+
+>[!NOTE]
+>
+>In de voorvertoning ziet u alleen hoe de campagne eruitziet op de gekozen site. Koppelingen en widgets zijn niet functioneel om onjuiste kliks/weergaven in de analyse te voorkomen.
 
 ## Een webcampagne voorvertonen op de ontwerppagina {#preview-a-web-campaign-on-the-creation-page}
 
@@ -37,7 +40,7 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
    >
    >U kunt ook een browserplug-in installeren (of [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) of [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) voor de beste ervaring bij het voorvertonen van uw campagne. Zie de onderstaande paragraaf.
 
-## Voorproef een Campagne van het Web op de Aanmaakpagina die Browser Plug-in {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in} gebruikt
+## Een webcampagne voorvertonen op de pagina Maken met de plug-in Browser {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
 1. Voer stap 1 en 2 uit de bovenstaande sectie uit.
 
@@ -61,7 +64,7 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
    ![](assets/campaign-preview.png)
 
-## Een webcampagne voorvertonen op de webpagina voor campagnes {#preview-a-web-campaign-on-the-web-campaigns-page}
+## Een webcampagne voorvertonen op de webpagina Campagnes {#preview-a-web-campaign-on-the-web-campaigns-page}
 
 1. Als u de lijst met uw webcampagnes bekijkt, kiest u gewoon een campagne en klikt u op het pictogram **Voorvertoning**.
 
