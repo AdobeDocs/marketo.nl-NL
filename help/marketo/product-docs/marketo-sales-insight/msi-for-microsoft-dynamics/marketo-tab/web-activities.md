@@ -3,9 +3,9 @@ description: Webactiviteiten - Marketo Docs - Productdocumentatie
 title: Webactiviteiten
 hide: true
 hidefromtoc: true
-source-git-commit: 84a285974de3bbcdf33e24befae323d3d82ef239
+source-git-commit: 5bfe82a966b2d89e214b3ff0107c84f9ae712d1d
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,6 @@ Bekijk de meest recente webactiviteiten van uw lead en verwijs naar de telling v
 
 PICC
 
-# Anonieme webactiviteiten {#anonymous-web-activities}
+## Anonieme webactiviteiten {#anonymous-web-activities}
 
 Op het tabblad Anonieme webactiviteiten worden alle **anonieme** webactiviteiten van webbezoekers van webpagina&#39;s weergegeven. Bekijk de meest recente webactiviteiten waarin het aantal paginabezoeken wordt vermeld.
