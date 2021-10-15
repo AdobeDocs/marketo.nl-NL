@@ -3,16 +3,16 @@ description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 hide: true
 hidefromtoc: true
-source-git-commit: b6f0b24ef1e9cece06f44ae11d432291b8ac0425
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
 # Dynamisch chatoverzicht {#dynamic-chat-overview}
 
-Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om beide leads als doel in te stellen (PEOPLE?) en accounts op hun (BEZOEK UW?) website. Verzamel relevante inhoud, zoals de naam, contactgegevens en vrije tekst. De bezoekers van de plaats kunnen vergaderingen met uw Team van de Verkoop ook boeken. Dynamische chatactiviteiten en betrokkenheidsgegevens kunnen worden gebruikt om leden toe te voegen aan Marketo-programma&#39;s en om kanaalactiviteiten te activeren.
+Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om gebruikers en accounts die uw website bezoeken, als doel in te stellen. Verzamel relevante inhoud, zoals naam, contactgegevens en vrije tekst. De bezoekers van de plaats kunnen vergaderingen met uw Team van de Verkoop ook boeken. Dynamische chatactiviteiten en betrokkenheidsgegevens kunnen worden gebruikt om leden toe te voegen aan Marketo-programma&#39;s en om kanaalactiviteiten te activeren.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Een belangrijk onderdeel van Dynamic Chat is de mogelijkheid om native verbindin
 
 Het volgende wordt gesynchroniseerd:
 
-* Veldgegevens voor lead
+* Persoonsveldgegevens
 * Bedrijfsveldgegevens
 * Activiteitsgegevens
 
@@ -40,15 +40,15 @@ In het lusje van de Configuratie, pas de blik en het gevoel van uw diverse Dialo
 
 In het lusje van de Kalender, verbind uw (Vooruitzichten of Gmail) kalender voor gebruik in afspraak die in het praatje plant. Zodra de kalender van een gebruiker met Dynamisch Praatje wordt verbonden, zal die gebruiker aan de rij worden toegevoegd en hun kalender zal voor websitebezoekers beschikbaar zijn om benoemingen te plannen op.
 
-U kunt ook de hoofdtekst van de uitnodiging voor e-MAIL aanpassen? die naar de bezoeker wordt verzonden wanneer zij een afspraak op de agenda van de gebruiker plannen.
+U kunt ook de hoofdtekst van de uitnodiging aanpassen die naar de bezoeker wordt verzonden wanneer deze een afspraak in de agenda van de gebruiker plant.
 
 ## Vergaderingen {#meetings}
 
-Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschillende dialoogvensters. Hier vindt u het e-mailadres van de lead die de afspraak heeft geboekt, de agent waarmee ze de afspraak hebben geboekt, het tijdstip waarop de afspraak gepland is en of de vergadering al dan niet heeft plaatsgevonden.
+Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschillende dialoogvensters. Hier vindt u het e-mailadres van de persoon die de afspraak heeft geboekt, met welke agent de afspraak is geboekt, wanneer de afspraak gepland is en of de vergadering al dan niet heeft plaatsgevonden.
 
 ## Routering {#routing}
 
-Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben verbonden evenals welke orde zij aan de Vergaderingen van websitebezoekers zullen worden voorgesteld gaat de robin stijl, zodat als u vijf agenten hebt en agent drie de laatste vergadering nam, agent vier zal volgende krijgen, gevolgd door vijf, dan terug naar agent één.
+Hier kunt u een lijst zien van alle agenten die hun kalenders hebben aangesloten evenals welke orde zij aan websitebezoekers zullen worden voorgesteld. De vergaderingen gaan rond robin stijl, zodat als u vijf agenten hebt en agent drie nam de laatste vergadering, agent vier volgende krijgt, gevolgd door agent vijf, dan terug naar agent één.
 
 ## Veelgestelde vragen {#faq}
 
@@ -56,9 +56,9 @@ Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben verb
 
 Neen, het gebruikt slechts vooraf bepaalde reacties.
 
-**Hoe kan ik me richten op anonieme leads?**
+**Hoe kan ik mij richten op anonieme mensen?**
 
-In uw dialoogvenster moet u het kenmerk _E-mail met lead is Empty_ gebruiken.
+In uw dialoogvenster moet u het kenmerk _Person-e-mail is Empty_ gebruiken.
 
 **Ondersteunt u de AI/NLP-functionaliteit?**
 

@@ -3,9 +3,9 @@ description: Configuratie - Marketo Docs - Productdocumentatie
 title: Configuratie
 hide: true
 hidefromtoc: true
-source-git-commit: 4984b82ed9de2684d1be3f9444d5685b8b1a03d1
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -60,4 +60,4 @@ Als u de chatbot op uw website wilt weergeven, moet u eerst het Dynamic Chat Jav
 
 >[!NOTE]
 >
->Marketo Support is niet ingesteld als hulp bij het oplossen van problemen met HTML. Neem contact op met een webontwikkelaar voor HTML-ondersteuning.
+>Marketo Support is niet ingesteld voor hulp bij het oplossen van problemen met HTML. Neem contact op met een webontwikkelaar voor hulp bij HTML.

@@ -3,18 +3,18 @@ description: Een stream maken - Marketo Docs - Productdocumentatie
 title: Een stream maken
 hide: true
 hidefromtoc: true
-source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
 
 # Een stream maken {#create-a-stream}
 
-Er zijn _veel_ streamcombinaties om te maken. Hieronder ziet u een voorbeeld van situaties waarin de bezoeker van de site vragen heeft. Zo ja, dan kan de bezoeker een afspraak plannen. Zo neen, dan kan de bezoeker zich bij een mailinglijst aansluiten voor toekomstige correspondentie. Het doel is een afspraak te plannen of de e-mail van de bezoeker te verzamelen.
+Er zijn _vele_ stroomcombinaties u kunt tot stand brengen. Hieronder ziet u een voorbeeld van situaties waarin de bezoeker van de site wordt gevraagd of hij productvragen heeft. Zo ja, dan kan de bezoeker een afspraak plannen. Zo neen, dan kan de bezoeker zich bij een mailinglijst aansluiten voor toekomstige correspondentie. Het doel is een afspraak te plannen of de e-mail van de bezoeker te verzamelen.
 
-1. Nadat u [uw dialoog ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue) creeert, klik de Ontwerper tabel van de Stroom.
+1. Nadat u [uw dialoog creeert](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), klik **de Ontwerper van de Stroom** tabel.
 
    ![](assets/create-a-stream-1.png)
 
@@ -84,8 +84,8 @@ Er zijn _veel_ streamcombinaties om te maken. Hieronder ziet u een voorbeeld van
      <td>Het bericht dat de bezoeker ziet hen ertoe aanzetten om de info te verstrekken.</td>
     </tr>
     <tr>
-     <td><strong>Voorbeeldtekst waarmee de bezoeker kan zien wat er moet worden ingevoerd.</strong></td>
-     <td>text</td>
+     <td><strong>Plaatsaanduiding</strong></td>
+     <td>Voorbeeldtekst waarmee de bezoeker kan zien wat er moet worden ingevoerd.</td>
     </tr>
     <tr>
      <td><strong>Reactie toewijzen aan kenmerk</strong></td>
@@ -116,3 +116,7 @@ Er zijn _veel_ streamcombinaties om te maken. Hieronder ziet u een voorbeeld van
 >[!NOTE]
 >
 >Voordat u op Publiceren klikt, vergeet dan niet om te controleren of u [de doel-URL(&#39;s)](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target) hebt ingevoerd.
+
+>[!MORELIKETHIS]
+>
+>[Dialoogvensters](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md)

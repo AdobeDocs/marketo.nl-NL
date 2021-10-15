@@ -3,9 +3,9 @@ description: Dialoogvensters - Marketo Docs - Productdocumentatie
 title: Dialoogvensters
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -34,13 +34,13 @@ Dialogen zijn individuele praatjegesprekken. Leer hoe u ze visueel kunt aanpasse
 
 ## Criteria voor het publiek {#audience-criteria}
 
-Net als in Marketo Smart Lists kunt u met de kenmerken Audience Criteria (criteria voor doelgroepen) een doelgroep definiëren. U kunt bekende of onbekende leads als doel instellen met afgeleide, lead- of bedrijfskenmerken (of een combinatie hiervan).
+Net als in Marketo Smart Lists kunt u met de kenmerken Audience Criteria (criteria voor doelgroepen) een doelgroep definiëren. U kunt bekende of onbekende personen als doel instellen met afgeleide, persoon- of bedrijfskenmerken (of een combinatie daarvan).
 
-**Bekende leads**
+**Bekende personen**
 
-Er zijn _veel_ kenmerkcombinaties om van te kiezen. In dit voorbeeld richten we ons op alle **bekende leads** in Californië die werken bij een bedrijf met meer dan 50 werknemers.
+Er zijn _veel_ kenmerkcombinaties om van te kiezen. In dit voorbeeld richten wij ons op alle **bekende mensen** in Californië die bij een bedrijf met meer dan 50 werknemers werken.
 
-1. Pak **Lead State** attributen en sleep het aan het recht.
+1. Pak het **Person State** attribuut en sleep het aan het recht.
 
    ![](assets/dialogues-4.png)
 
@@ -64,11 +64,11 @@ Er zijn _veel_ kenmerkcombinaties om van te kiezen. In dit voorbeeld richten we 
 
    ![](assets/dialogues-8.png)
 
-**Anonieme leads**
+**Anonieme mensen**
 
-Er is een gemakkelijke manier aan specifiek richt lood die nog niet in uw gegevensbestand zijn. In dit voorbeeld richten we ons op alle **anonieme leads** in het gebied New York.
+Er is een gemakkelijke manier om mensen specifiek te richten die nog niet in uw gegevensbestand zijn. In dit voorbeeld richten we ons op alle **anonieme personen** in het gebied New York.
 
-1. Pak het **e-mailattribuut** en sleep het naar rechts.
+1. Pak het **Person Email** attribuut en sleep het aan het recht.
 
    ![](assets/dialogues-9.png)
 
@@ -131,17 +131,17 @@ De stroomontwerper bevat verschillende kaarten u kunt toevoegen om het praatjege
  </tr>
  <tr>
   <td><strong>Aanstellingsplanner</strong></td>
-  <td>Biedt de bezoeker een kalender met beschikbare datums om een follow-up te plannen. De beschikbaarheid van de kalender wijst op [de volgende agent in lijn] (/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing).</td>
+  <td>Biedt de bezoeker een kalender met beschikbare datums om een follow-up te plannen. De beschikbaarheid van de kalender weerspiegelt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">de volgende agent in lijn</a>.</td>
  </tr>
  <tr>
   <td><strong>Doel</strong></td>
-  <td>Dit is de enige kaart die bezoekers niet zullen zien. Het is aan u om te bepalen op welk punt een doel binnen de specifieke praatje wordt bereikt (bijvoorbeeld: Als u de e-mail van de bezoeker wilt verzamelen, plaatst u de Goal-kaart na Info Vastleggen in de Stroom).</td>
+  <td>Dit is de enige kaart die bezoekers niet zullen zien. Het is aan u om te bepalen op welk punt een doel binnen de specifieke praatje wordt bereikt (bijvoorbeeld: Als u de e-mail van de bezoeker wilt verzamelen, plaatst u de Goal-kaart onmiddellijk na Info Capture in de stream).</td>
  </tr>
 </table>
 
 **Een stream maken**
 
-Er zijn _veel_ streamcombinaties om te maken. Kijk eens naar één voorbeeld [in dit artikel](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
+Er zijn _veel_ mogelijke streamcombinaties. Kijk eens naar een voorbeeld [in dit artikel](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Rapporten {#reports}
 
@@ -162,7 +162,7 @@ In het tabblad Rapporten geeft u de gegevens van de afgelopen 90 dagen weer. Elk
   <td>Hiermee wordt elke keer dat een bezoeker het einde van een vertakking in een dialoogvenster bereikt.</td>
  </tr>
  <tr>
-  <td><strong>Opgenomen leads</strong></td>
+  <td><strong>Vastgelegde personen</strong></td>
   <td>Elke keer dat een bezoeker een geldig e-mailadres in een dialoogstroom opgeeft, neemt de toename toe.</td>
  </tr>
  <tr>
@@ -174,3 +174,7 @@ In het tabblad Rapporten geeft u de gegevens van de afgelopen 90 dagen weer. Elk
   <td>De toename telkens als een bezoeker een doel in om het even welke stroom van de Dialoog bereikt.</td>
  </tr>
 </table>
+
+>[!MORELIKETHIS]
+>
+>[Een stream maken](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md)

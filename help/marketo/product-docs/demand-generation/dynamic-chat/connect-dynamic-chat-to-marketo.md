@@ -3,7 +3,7 @@ description: Dynamic Chat verbinden met Marketo - Marketo Docs - Productdocument
 title: Dynamische chat met Marketo verbinden
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -32,8 +32,10 @@ Nadat u [aanvankelijke opstelling](/help/marketo/product-docs/demand-generation/
 
    PICC (screenshot wanneer ik gloednieuwe sub krijg)
 
-   >[!NOTE]
-   >
-   >Afhankelijk van de grootte van uw database kan het 5 minuten tot 8 uur duren voordat de synchronisatie is voltooid. De gemiddelde synchronisatietijd is 60 minuten. TIJDKADER VERIFIËREN
+>[!NOTE]
+>
+>Afhankelijk van de grootte van uw database kan het 5 minuten tot 8 uur duren voordat de synchronisatie is voltooid. De gemiddelde synchronisatietijd is 60 minuten. TIJDKADER VERIFIËREN
 
-VERWANTE ARTIKELEN
+>[!MORELIKETHIS]
+>
+>[Eerste instelling](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md)
