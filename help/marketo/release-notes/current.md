@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: 376b9e69e117bfca269719483e79c45e33a2ed42
 workflow-type: tm+mt
-source-wordcount: '1178'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -62,8 +62,6 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 ## Verkoop Connect {#sales-connect}
 
 ![(ster)](assets/yellow-star.png)
-
-**E-mailverbindingsrotatie (GA)**: Verbeter de e-mailleverbaarheid en schaal persoonlijke verkoopcommunicatie met de snelheid van de e-mailverbinding voor Sales Connect. Deze innovatieve technologie beheert automatisch de timing van het verzenden van e-mail om een naadloze ervaring voor gebruikers van de Uitwisseling en van Gmail te creëren. Verlaag of verwijder het gebruik van grote hoeveelheden e-mailberichten van derden en verzend al uw e-mails vanuit Sales Connect met vertrouwen.
 
 **Verbeterde verkoopactiviteiten**: Een nieuwe e-mailvolgactiviteit, de Verkoop E-mail antwoordde, volgt de interactie van ontvangers met een e-mail die automatisch met Marketo Engage wordt gesynchroniseerd. Daarnaast is het kenmerk Source bijgewerkt van Tout naar Sales App. Deze activiteit kan worden uitgevoerd en door de Marketo Engage REST API of de BulkUitvoer worden gemeld en is beschikbaar op filters en trekkers als extra beperkingen voor slimme lijsten, uitbreidend verpersoonlijkingsopties in Slimme Campagnes.
 
