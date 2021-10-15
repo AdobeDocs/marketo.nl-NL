@@ -3,9 +3,9 @@ description: Een stream maken - Marketo Docs - Productdocumentatie
 title: Een stream maken
 hide: true
 hidefromtoc: true
-source-git-commit: e304666be903373ecc9821d1ef328141e023400a
+source-git-commit: d6eac90310a86082361196067a4a835d10b75f24
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Er zijn _veel_ streamcombinaties om te maken. Hieronder ziet u een voorbeeld van
 
 1. Nadat u [uw dialoog ](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue) creeert, klik de Ontwerper tabel van de Stroom.
 
-   PICC
+   ![](assets/create-a-stream-1.png)
 
 1. Sleep de vraagkaart en zet deze neer.
 
-   PICC
+   ![](assets/create-a-stream-2.png)
 
 1. Geef onder Chatbot Response je vraag hoe je wilt.
 
-   PICC
+   ![](assets/create-a-stream-3.png)
 
    >[!NOTE]
    >
@@ -32,20 +32,87 @@ Er zijn _veel_ streamcombinaties om te maken. Hieronder ziet u een voorbeeld van
 
 1. Voer uw gebruikersreacties in en klik op **Opslaan**.
 
-   PICC
+   ![](assets/create-a-stream-4.png)
 
-1. Voor &quot;ja&quot;willen wij een benoeming plannen, zodat na die optie belemmering over de kaart van de Planner van de Aanstelling.
+1. Voor &quot;ja&quot;willen wij een benoeming plannen, zodat onder die optie belemmering over de kaart van de Planner van de Aanstelling.
 
-   PICC
+   ![](assets/create-a-stream-5.png)
 
 1. Klik in de rechterkolom op **Opslaan**.
 
-   PICC
+   ![](assets/create-a-stream-6.png)
 
 1. Aangezien dat een doel is, sleep de Goal card onder de Planner van de Aanstelling.
 
-   PICC
+   ![](assets/create-a-stream-7.png)
 
 1. Geef uw doel een naam (of kies een bestaand doel) en klik op **Opslaan**.
 
-   PICC
+   ![](assets/create-a-stream-8.png)
+
+1. Voor &quot;Nee&quot; willen we zien of ze zich bij de mailinglijst voegen. Sleep dus onder deze optie over een andere vraagkaart.
+
+   ![](assets/create-a-stream-9.png)
+
+1. Voer uw reactie in en voeg antwoordopties toe voor de bezoeker. Klik **Opslaan** wanneer gereed.
+
+   ![](assets/create-a-stream-10.png)
+
+   >[!NOTE]
+   >
+   >U kunt meer reacties toevoegen door **Reactie toevoegen** te klikken.
+
+1. Onder het antwoord &quot;Ja&quot; sleept u over de kaart voor het vastleggen van gegevens, zodat u de e-mail van de bezoeker kunt verzamelen.
+
+   ![](assets/create-a-stream-11.png)
+
+1. Klik op de vervolgkeuzelijst **Type** en selecteer **E-mail**.
+
+   ![](assets/create-a-stream-12.png)
+
+1. Voer een chatbotbericht en tijdelijke aanduiding in. Controleer of het kenmerk is toegewezen aan het desbetreffende veld in Marketo en klik op **Opslaan**.
+
+   ![](assets/create-a-stream-13.png)
+
+   <table>
+    <tr>
+     <td><strong>Type</strong></td>
+     <td>Het type informatie dat u wilt vastleggen: Telefoon, tekst, e-mail.</td>
+    </tr>
+    <tr>
+     <td><strong>Chatbotbericht</strong></td>
+     <td>Het bericht dat de bezoeker ziet hen ertoe aanzetten om de info te verstrekken.</td>
+    </tr>
+    <tr>
+     <td><strong>Voorbeeldtekst waarmee de bezoeker kan zien wat er moet worden ingevoerd.</strong></td>
+     <td>text</td>
+    </tr>
+    <tr>
+     <td><strong>Reactie toewijzen aan kenmerk</strong></td>
+     <td>Hiermee kunt u de reactie van de bezoeker synchroniseren naar het corresponderende veld in de Persoonlijke record in uw Marketo-abonnement.</td>
+    </tr>
+   </table>
+
+1. Aangezien het verzamelen van hun e-mail een doel is, sleept u de Goal-kaart onder Info Vastleggen.
+
+   ![](assets/create-a-stream-14.png)
+
+1. Geef uw doel een naam (of kies een bestaand doel) en klik op **Opslaan**.
+
+   ![](assets/create-a-stream-15.png)
+
+1. Vergeet niet een reactie toe te voegen als ze &quot;Nee&quot; zeggen. Sleep een berichtenkaart onder die optie.
+
+   ![](assets/create-a-stream-16.png)
+
+1. Voer uw bericht in en klik op **Opslaan**.
+
+   ![](assets/create-a-stream-17.png)
+
+1. Wanneer u uw Dialoog wilt activeren, klik **Publish**.
+
+   ![](assets/create-a-stream-18.png)
+
+>[!NOTE]
+>
+>Voordat u op Publiceren klikt, vergeet dan niet om te controleren of u [de doel-URL(&#39;s)](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target) hebt ingevoerd.
