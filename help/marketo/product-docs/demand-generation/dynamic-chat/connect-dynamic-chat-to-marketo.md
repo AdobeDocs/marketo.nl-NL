@@ -3,9 +3,9 @@ description: Dynamic Chat verbinden met Marketo - Marketo Docs - Productdocument
 title: Dynamische chat met Marketo verbinden
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,9 @@ Nadat u [aanvankelijke opstelling](/help/marketo/product-docs/demand-generation/
 
 1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar Dynamic Chat. Als dat niet het geval is, [stelt u uw Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) in.
 
-   PICC (screenshot wanneer linkernavigatiebalk is hersteld)
-
 1. Selecteer **Integrations** om uw Marketo-instantie te verbinden.
 
-   ![](assets/connect-dynamic-chat-to-marketo-3.png)
+   ![](assets/connect-dynamic-chat-to-marketo-2.png)
 
 1. Klik op de Marketo-kaart op **Sync starten**.
 

@@ -3,9 +3,9 @@ description: Dialoogvensters - Marketo Docs - Productdocumentatie
 title: Dialoogvensters
 hide: true
 hidefromtoc: true
-source-git-commit: fe4a4b89ee295d8e351587a5ac858806a83f1305
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Er zijn _veel_ kenmerkcombinaties om van te kiezen. In dit voorbeeld richten we 
 
    ![](assets/dialogues-4.png)
 
-1. _Standaard_ ingesteld op Isis. Typ in het veld Waarden selecteren de tekst CA (u kunt ook op de vervolgkeuzelijst klikken en in de lijst selecteren).
+1. __ De issis is standaard ingesteld. Typ in het veld Waarden selecteren de tekst CA (u kunt ook op de vervolgkeuzelijst klikken en in de lijst selecteren).
 
    ![](assets/dialogues-5.png)
 
@@ -84,15 +84,17 @@ Er is een gemakkelijke manier aan specifiek richt lood die nog niet in uw gegeve
    >
    >Wanneer iemand uw website bezoekt, worden deze door [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) in het systeem opgeslagen. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info.
 
-1. _Standaard_ ingesteld op Isis. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
+1. __ De issis is standaard ingesteld. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
 
    ![](assets/dialogues-12.png)
 
 ## Groepen toevoegen {#add-groups}
 
-U kunt ook kenmerken groeperen, voor het geval dat u alle kenmerken samen met &quot;een&quot; van een andere wilt hebben.
+U kunt ook kenmerken groeperen, voor het geval dat u alle kenmerken samen met &quot;alle of een&quot; van een ander kenmerk wilt hebben. U kunt meerdere groepen toevoegen.
 
-VOLTOOID
+![](assets/dialogues-13.png)
+
+![](assets/dialogues-14.png)
 
 ## Doel {#target}
 
@@ -107,7 +109,7 @@ Acceptabele indelingen:
 
 >[!NOTE]
 >
->Het gebruiken van een asterisk doet dienst als vangst-all wilkaart. Zo zou `https://*.website.com` de dialoog op elke pagina van de plaats, met inbegrip van subdomeinen (bijvoorbeeld plaatsen: `support.website.com`). En `https://website.com/folder/*` zou het dialoogvenster op elke HTML-pagina in de volgende map plaatsen (bijvoorbeeld: in dit geval is de map &quot; sport &quot; , dus : website.com/sports/baseball.html, website.com/sports/football.html, enz.).
+>Het gebruiken van een asterisk doet dienst als vangst-all wilkaart. Zo zou `https://*.website.com` de dialoog op elke pagina van de plaats, met inbegrip van subdomeinen (bijvoorbeeld plaatsen: `support.website.com`). En `https://website.com/folder/*` zou het dialoogvenster op elke HTML-pagina in de volgende map plaatsen (bijv. in dit geval is de map &quot; sport &quot; , dus : website.com/sports/baseball.html, website.com/sports/football.html, enz.).
 
 ## Stream Designer {#stream-designer}
 
@@ -139,9 +141,7 @@ De stroomontwerper bevat verschillende kaarten u kunt toevoegen om het praatjege
 
 **Een stream maken**
 
-Er zijn _veel_ streamcombinaties om te maken. In dit voorbeeld stellen we ja of geen vraag en bereiden we een paar reacties voor.
-
-VOORBEELD
+Er zijn _veel_ streamcombinaties om te maken. Kijk eens naar één voorbeeld [in dit artikel](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Rapporten {#reports}
 

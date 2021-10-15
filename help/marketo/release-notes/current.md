@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 669c86e2df2fbf061aa3db15c5c484a331a2b099
+source-git-commit: e304666be903373ecc9821d1ef328141e023400a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1178'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,10 @@ De volgende functies worden vrijgegeven op 22 **oktober 2021**, met een gefaseer
 **_Vrijgeven door het Kwartaal_**
 
 De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden de komende maanden vrijgegeven.
+
+**Native Adobe Experience Platform-connector voor delen van soorten publiek naar Marketo Engage**: Meerkanaals campagneorchestratie in Marketo Engage inschakelen voor publiekssegmenten die in Adobe Experience Platform zijn gemaakt via een native doelconnector. De connector gebruikt e-mailadressen of ECID om Adobe Experience Platform-profielen aan te passen aan Marketo Engage-persoonrecords. Dit leidt tot segmentdeling tussen toepassingen. De statische lijsten van Marketo Engage worden automatisch bevolkt die marketers toelaat om doelpubliek met hoogst gepersonaliseerd overseinen te bereiken of werkschema&#39;s in werking te stellen. Activeer het publiek door gebruik te maken van zijn account- en opportuniteitscontext en een volledig, realtime, uniform profiel in Experience Platform.
+
+**Adobe Experience Platform Marketo Data Source Connector**: Gebruikers van zowel Adobe Experience Platform als Marketo Engage zullen de Marketo Source Connector kunnen gebruiken om gegevens van Marketo naar AEP te brengen. U kunt gegevens (en de wijzigingen) vanuit Marketo streamen in AEP om de gegevens consistent te houden tussen de twee producten. De Marketo-connector kan worden bekeken via de Broncatalogus onder &quot;Adobe-toepassingen&quot;.
 
 ## Verkoopoverzicht {#sales-insight}
 
