@@ -3,9 +3,9 @@ description: Dialoogvensters - Marketo Docs - Productdocumentatie
 title: Dialoogvensters
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
@@ -63,6 +63,8 @@ Er zijn _veel_ kenmerkcombinaties om van te kiezen. In dit voorbeeld richten wij
 1. Typ 50 en klik ergens anders op het scherm om op te slaan.
 
    ![](assets/dialogues-8.png)
+
+En dat is het!
 
 **Anonieme mensen**
 
