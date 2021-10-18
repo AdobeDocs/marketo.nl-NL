@@ -1,73 +1,72 @@
 ---
 unique-page-id: 11383953
-description: Offlineconversies van Facebook instellen - Marketo Docs - Productdocumentatie
-title: Offlineconversies van Facebook instellen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Facebook Offline conversies instellen - Marketo Docs - Productdocumentatie
+title: Facebook-offlineconversies instellen
+exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 0%
 
 ---
 
+# Facebook-offlineconversies instellen {#set-up-facebook-offline-conversions}
 
-# Offline conversies voor Facebook instellen {#set-up-facebook-offline-conversions}
-
-Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zijn gemaakt via Advertenties voor advertenties, kan uw advertentieteam hun advertentie beter dan ooit optimaliseren. Hier is hoe je het instelt.
+Door offline conversiegegevens terug te sturen naar Facebook voor mensen die via advertenties zijn gemaakt, kan uw advertentieteam hun advertentie beter dan ooit optimaliseren. Hier is hoe je het instelt.
 
 >[!PREREQUISITES]
 >
->* U moet [Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) instellen.
->* U moet een goedgekeurd model in [Modelleerprogramma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) hebben.
+>* U moet [facebook Lead Ads instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>* U moet een goedgekeurd model hebben in [Revenue Cycle Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 
 ## Beheerdersconfiguratie {#admin-configuration}
 
-1. Ga naar Marketo **Admin**.
+1. Ga naar Marketo **Beheer**.
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. Ga naar **LaunchPoint** en dubbelklik op de Facebook Lead Ads-service die u eerder hebt gemaakt.
+1. Ga naar **LaunchPoint** en dubbelklik op de eerder gemaakte Facebook Lead Ads-service.
 
    >[!NOTE]
    >
-   >Als je dat nog niet hebt gedaan, ga dan door en [Stel Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) in en kom dan terug hier.
+   >Als je dat nog niet hebt gedaan, ga dan door en [Facebook Lead Ads instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), kom dan terug hier.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Als u wilt, geeft u **Weergavenaam** op om Offlineconversies op te nemen. Klik **Volgende**.
+1. Indien gewenst, bewerkt u de **Weergavenaam** om Offlineconversies op te nemen. Klikken **Volgende**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Schakel **Offlineconversies inschakelen** en klik op **Volgende**.
+1. Controleren **Offlineconversies inschakelen** en klik op **Volgende**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   Zoet! U bent bijna klaar met het inschakelen van Facebook Offline Conversies. Laten we verder gaan naar de Revenue Cycle Modeler om de fases in kaart te brengen.
+   Zoet! U bent al halverwege klaar met het inschakelen van Facebook Offline conversies. Laten we verder gaan naar de Revenue Cycle Modeler om de fases in kaart te brengen.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
-## Configuratie omzetcyclusmodel {#revenue-cycle-modeler-configuration}
+## Configuratie van inkomstencyclusmodellen {#revenue-cycle-modeler-configuration}
 
-1. Ga naar **Analytics**.
+1. Ga naar **Analyse**.
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 
-1. Selecteer uw model en klik **Concept** bewerken.
+1. Selecteer uw model en klik op **Concept bewerken**.
 
    ![](assets/image2016-11-29-13-3a31-3a6.png)
 
    >[!NOTE]
    >
-   >Momenteel zijn er 10 Facebook-gebeurtenissen waaraan u de Fase-cyclusfasen kunt toewijzen:
+   >Er zijn momenteel 10 Facebook-gebeurtenissen waaraan u de omzetcyclusfasen kunt toewijzen:
    >
    >* Toevoegen van betalingsgegevens
    >* Toevoegen aan winkelwagentje
@@ -75,13 +74,13 @@ Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zij
    >* Registraties voltooid
    >* Afhandelingen gestart
    >* Persoon
-   >* Overige
+   >* Anders
    >* Aanschaffen
    >* Zoekopdrachten
    >* Weergaven van inhoud
 
 
-1. Selecteer het werkgebied dat u wilt toewijzen en selecteer vervolgens in de vervolgkeuzelijst **Facebook-conversie** de Facebook-gebeurtenis waaraan u de conversie wilt toewijzen. Herhaal deze stap om alle stadia in uw RCM aan off-line omzettingsstadia op Facebook in kaart te brengen.
+1. Selecteer het werkgebied dat u wilt toewijzen, en kies vervolgens in het menu **Facebook-conversie** selecteert u de Facebook-gebeurtenis waaraan u deze wilt toewijzen. Herhaal deze stap om alle stadia in uw RCM aan off-line omzettingsstadia op Facebook in kaart te brengen.
 
    ![](assets/1-1.png)
 
@@ -97,7 +96,7 @@ Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zij
 
    >[!CAUTION]
    >
-   >Controleer uw Facebook-account en zorg ervoor dat alle [advertenties zijn gekoppeld](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) aan de Marketo Offline Conversieset. Als dat niet het geval is, werkt de toewijzing mogelijk niet.
+   >Controleer uw Facebook-account en zorg ervoor dat alles [advertenties zijn gekoppeld](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) naar de Marketo Offline conversiegebeurtenissenset. Als dat niet het geval is, werkt de toewijzing mogelijk niet.
 
    >[!NOTE]
    >
@@ -105,4 +104,4 @@ Door offline conversiegegevens terug te sturen naar Facebook voor mensen die zij
 
 >[!MORELIKETHIS]
 >
->[Offlineconversies van Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+>[Facebook Offline conversies begrijpen](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)

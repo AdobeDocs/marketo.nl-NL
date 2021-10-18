@@ -1,10 +1,9 @@
 ---
 unique-page-id: 2359351
-description: Stel een persoon in en voeg deze toe - Marketo Docs - Productdocumentatie
+description: Opzetten en een persoon toevoegen - Marketo Docs - Productdocumentatie
 title: Instellen en een persoon toevoegen
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -17,7 +16,7 @@ Er zijn een paar dingen te doen voordat u de missies begint.
 
 ## Stap 1: Aanmelden bij Marketo {#step-log-in-to-marketo}
 
-1. [Meld u aan bij ](https://app.marketo.com) Marketouting met de gegevens die u per e-mail hebt ontvangen.
+1. [Aanmelden bij Marketo](https://app.marketo.com) met de gegevens die u per e-mail hebt ontvangen.
 
    ![](assets/one.png)
 
@@ -25,15 +24,15 @@ Er zijn een paar dingen te doen voordat u de missies begint.
 
 Laten we een map maken voor alles wat u in de missies gaat maken.
 
-1. Ga naar **Marketing Activities** gebied.
+1. Ga naar de **Marketingactiviteiten** gebied.
 
    ![](assets/two.png)
 
-1. Klik **Nieuw** drop-down en selecteer **Nieuwe Omslag van de Campagne**.
+1. Klik op de knop **Nieuw** vervolgkeuzelijst en selecteer **Nieuwe campagnemap**.
 
    ![](assets/image2014-9-24-10-3a53-3a38.png)
 
-1. Geef de map een naam &quot;Learning&quot; en klik op **Maken**.
+1. Geef de map &quot;Learning&quot; een naam en klik op **Maken**.
 
    ![](assets/image2014-9-24-10-3a53-3a55.png)
 
@@ -41,19 +40,19 @@ Laten we een map maken voor alles wat u in de missies gaat maken.
 
    ![](assets/image2014-9-24-10-3a54-3a9.png)
 
-## Stap 3: Uzelf toevoegen als een persoon {#step-add-yourself-as-a-person}
+## Stap 3: Uw eigen persoon toevoegen als persoon {#step-add-yourself-as-a-person}
 
 Voeg uzelf toe als persoon in Marketo zodat u later teste-mails naar uzelf kunt sturen.
 
-1. Ga naar **Database** gebied.
+1. Ga naar de **Database** gebied.
 
    ![](assets/db.png)
 
-1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer **Nieuwe persoon**.
+1. Klik op de knop **Nieuw** vervolgkeuzelijst en selecteer **Nieuwe persoon**.
 
    ![](assets/seven.png)
 
-1. Typ uw voornaam en achternaam, e-mailadres en bedrijfsnaam en klik vervolgens op **Maken** om uzelf als een persoon toe te voegen.
+1. Typ uw voornaam en achternaam, e-mailadres en bedrijfsnaam en klik vervolgens op **Maken** om uzelf toe te voegen als een persoon.
 
    ![](assets/eight.png)
 
@@ -61,11 +60,11 @@ Voeg uzelf toe als persoon in Marketo zodat u later teste-mails naar uzelf kunt 
 
    ![](assets/nine.png)
 
-1. Klik op het tabblad **Personen**. U zou zich in het gegevensbestand moeten zien.
+1. Klik op de knop **Mensen** tab. U zou zich in het gegevensbestand moeten zien.
 
    ![](assets/ten.png)
 
-## Voltooide {#set-up-complete} instellen
+## Installatie voltooid {#set-up-complete}
 
 Je bent klaar om je eerste missie te beginnen!
 
