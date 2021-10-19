@@ -3,9 +3,9 @@ description: MSI-weergaven instellen - Marketo Docs - Productdocumentatie
 title: MSI-weergaven instellen
 hide: true
 hidefromtoc: true
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -14,30 +14,44 @@ ht-degree: 0%
 
 Als u de insteekmodule Sales Insight in Dynamics installeert, worden automatisch de beste tapes en verwante dashboards toegevoegd op de site-kaart. Als de dashboards om een of andere reden niet worden toegevoegd, is hier hoe te om hen manueel toe te voegen.
 
-1. Ga naar Geavanceerde instellingen > Instellingen > Aanpassingen > Systeem aanpassen.
+1. Klik in Dynamics op het tandwielpictogram en selecteer **Geavanceerde instellingen** in de vervolgkeuzelijst.
 
-1. Kies Clientextensies en klik op Site-overzicht.
+1. Klik linksboven in het scherm op **Instellingen**. Kies Aanpassingen onder Aanpassing.
 
-1. Naar rechts. Selecteer Marketo en voeg subgebied toe.
+1. Klikken **Het systeem aanpassen**.
 
-1. Voer vervolgens als volgt de waarden in de velden in en klik op Opslaan.
+1. Klik in de structuur aan de linkerkant op **Clientextensies** en dubbelklikken **Site-overzicht**.
 
-Best Bets - marketo_bestbets URL: Pictogram MainBestbets.html: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg: marketo_bestbets Title : Beste bieten
+1. Klik op de pijl naar rechts om naar de volgende pagina te gaan. Onder Verkoop zie je Marketo. Als u dat niet doet, moet u ervoor zorgen dat u het pakket op de juiste wijze hebt geïmporteerd.
 
-## Mijn e-maildashboard {#my-email-dashboard}
+   >[!NOTE]
+   >
+   >In Marketo moet u beschikken over: Best Bets, My Email, Web Activity, and Anonymous Web Activity. Als een van deze dashboards ontbreekt, klikt u op het plusteken (+) boven Verkoop en voegt u deze toe als een subgebied.
 
-Volg dezelfde instructies om Site Maps en Marketo Group te bereiken, zoals hierboven beschreven voor Best Bets.  In een nieuw Subgebied voor Mijn E-mail, zou het volgende moeten zijn ingegaan.
+1. Klik op een dashboard om dit te selecteren. Voer in de rechterkolom de desbetreffende informatie voor elke kolom in. U kunt alle niet vermelde categorieën negeren.
 
-URL: mkt_/MainViewMyEmail.html Pictogram: /WebResources/mkt_/_MainView/_imgs/icons/email.svg: marketo_myemail Titel:Mijn e-mail
+   **Beste bieten**</br>
+URL: MainBestbets.html</br>
+Pictogram: /WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
+ID: marketo_bestbets</br>
+Titel: Beste bieten
 
-## Web Activity Dashboard {#web-activity-dashboard}
+   **Mijn e-mail**</br>
+URL: mkt_/MainViewMyEmail.html</br>
+Pictogram: /WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
+ID: marketo_myemail</br>
+Titel: Mijn e-mail
 
-Volg dezelfde instructies om Site Maps en Marketo Group te bereiken, zoals hierboven beschreven voor Best Bets.  In een nieuw Subgebied voor de Activiteit van het Web, zou het volgende moeten zijn ingegaan.
+   **Webactiviteit**</br>
+URL: mkt_/MainViewWebActivity.html</br>
+Pictogram: /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
+ID: marketo_webactivity</br>
+Titel: Webactiviteit
 
-URL: mkt_/MainViewWebActivity.html Pictogram: /WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg: marketo_webactivity Titel: Webactiviteit
+   **Anonieme webactiviteit**</br>
+URL: mkt_/MainViewWebActivity.html</br>
+Pictogram: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
+ID: marketo_anonieme_webactivity</br>
+Titel: Anonieme webactiviteit
 
-## Anoniem webactiviteitendashboard {#anonymous-web-activity-dashboard}
-
-Volg dezelfde instructies om Site Maps en Marketo Group te bereiken, zoals hierboven beschreven voor Best Bets.  In een nieuw Subgebied voor de Activiteit van het Web, zou het volgende moeten zijn ingegaan.
-
-URL: mkt_/MainViewWebActivity.html Pictogram: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg: marketo_anonieme_webactivity Titel: Anonieme webactiviteit
+1. Klikken **Opslaan** wanneer gereed.
