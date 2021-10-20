@@ -3,7 +3,7 @@ description: MSI-weergaven instellen - Marketo Docs - Productdocumentatie
 title: MSI-weergaven instellen
 hide: true
 hidefromtoc: true
-source-git-commit: f4930d1747f1ca893d7494afc3dcbeb8c6398e93
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Als u de insteekmodule Sales Insight in Dynamics installeert, worden automatisch
 
 1. Klik in Dynamics op het tandwielpictogram en selecteer **Geavanceerde instellingen** in de vervolgkeuzelijst.
 
-1. Klik linksboven in het scherm op **Instellingen**. Kies Aanpassingen onder Aanpassing.
+1. Klik linksboven in het scherm op **Instellingen**. Kies bij Aanpassing de optie **Aanpassingen**.
 
 1. Klikken **Het systeem aanpassen**.
 

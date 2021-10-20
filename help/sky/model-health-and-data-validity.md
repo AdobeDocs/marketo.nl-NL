@@ -2,26 +2,29 @@
 title: model-gezondheid-en-gegevensgeldigheid
 description: Modelgezondheid en gegevensgeldigheid
 exl-id: b14ec648-be1c-467b-b41d-2c53d74e25ea
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 # Modelgezondheid en gegevensgeldigheid
 
-<br> 
+De prestaties van uw modellen zijn afhankelijk van de kwaliteit en volledigheid van de invoergegevens. Zie de bovenste bepalende factor voor elk van uw waarschijnlijke AI-modellen. Zie ook de belangrijkste factoren die resulteren in een hogere/lagere registratie van gebeurtenissen, deelname aan gebeurtenissen of het opzeggen van abonnementen.
 
-De prestaties van uw modellen zijn afhankelijk van de kwaliteit en volledigheid van de invoergegevens. Hier is hoe je je modelgezondheid kunt beoordelen.
+>[!NOTE]
+>
+>Gedragingen die zijn gemarkeerd als (+) hebben een positieve invloed op voorspellingen (en andersom).
 
-Navigeer naar de sectie **[!UICONTROL Models and Data Health]** onder **[!UICONTROL Predictive Audiences]** in het gebied **[!UICONTROL Admin]** van Marketo Classic. Hier zie je al je modellen en hun status.
+Hier is hoe je je modelgezondheid kunt beoordelen.
+
+Ga naar de **[!UICONTROL Models and Data Health]** deel onder **[!UICONTROL Predictive Audiences]** in de **[!UICONTROL Admin]** gebied Marketo Classic. Hier zie je al je modellen en hun status.
 
 ![Afbeelding één](/help/sky/assets/predictive-audiences/model-health-and-data-validity/model-health-and-data-validity-1.png)
 
-* **Trainingsstatus**: Geeft aan of uw model actief training volgt (voorspellingen verbeteren). De training wordt automatisch elke twee weken gegeven. Modellen die _Verwerking_ zijn, kunnen tot 24 uur duren voordat ze zijn voltooid. Voor _Mislukte_ modellen, gelieve [Steun van Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) te contacteren.
-* **Status** score: Geeft aan of uw model voorspellingen (waarschijnlijkheidspercentages) voor programmaleden actief berekent.
-* **Prestaties**: categorisering van uw modelgezondheid op basis van volledigheid van gegevens en gegevenskwaliteit (zie hieronder).
-* **Volledigheid** van gegevens: Percentage gegevenskenmerken dat aanwezig/voltooid is.
+* **Trainingsstatus**: Geeft aan of uw model actief training volgt (voorspellingen verbeteren). De training wordt automatisch elke twee weken gegeven. Alle modellen die _Verwerking_ kan tot 24 uur duren om af te maken. Voor alle _Mislukt_ modellen, neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support).
+* **Scorestatus**: Geeft aan of uw model voorspellingen (waarschijnlijkheidspercentages) voor programmaleden actief berekent.
+* **Prestaties**: Indeling van de modelgezondheid op basis van de volledigheid van de gegevens en de gegevenskwaliteit (zie hieronder).
+* **Volledigheid van gegevens**: Percentage gegevenskenmerken dat aanwezig/voltooid is.
 * **Gegevenskwaliteit**: Percentage kenmerken dat goede, bruikbare gegevens bevat.
