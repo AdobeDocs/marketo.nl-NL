@@ -2,7 +2,7 @@
 title: model-gezondheid-en-gegevensgeldigheid
 description: Modelgezondheid en gegevensgeldigheid
 exl-id: b14ec648-be1c-467b-b41d-2c53d74e25ea
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
@@ -15,7 +15,7 @@ De prestaties van uw modellen zijn afhankelijk van de kwaliteit en volledigheid 
 
 >[!NOTE]
 >
->Gedragingen die zijn gemarkeerd als (+) hebben een positieve invloed op voorspellingen (en andersom).
+>Gedragingen die zijn gemarkeerd met (+) hebben een positieve invloed op voorspellingen (en andersom).
 
 Hier is hoe je je modelgezondheid kunt beoordelen.
 

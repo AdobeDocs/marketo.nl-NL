@@ -2,9 +2,9 @@
 title: voorspellende filters
 description: Voorspelende filters
 exl-id: cbfc2d5f-181d-4f07-b2c6-74c848708ef0
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 41a51afde7942d6973a01636810bc5862d023e99
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Als onderdeel van voorspellende soorten publiek biedt Marketo een groep op AI/ML
 
 ## Waarschijnlijkheid om bij te wonen
 
-Dit filter wordt gebruikt om uw publiek effectief te beperken. Hierdoor kunt u leads zoeken en uitnodigen die een hogere waarschijnlijkheid hebben **bijwonen** uw webinar of gebeurtenis. Let op: &quot;[!UICONTROL Likelihood to attend program]&quot; is uw huidige gebeurtenisprogramma.
+Dit filter wordt gebruikt om uw publiek effectief te beperken. Hierdoor kunt u leads zoeken en uitnodigen die een hogere waarschijnlijkheid hebben **bijwonen** uw webinar of gebeurtenis. Merk op dat uw &quot;Waarschijnlijkheid aan programma&quot;uw huidig gebeurtenisprogramma zal zijn.
 
 ![Afbeelding twee](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-2.png)
 
 ## Waarschijnlijkheid om te registreren
 
-Vergelijkbaar met de [!UICONTROL _Waarschijnlijkheid om bij te wonen_] filter, gebruik dit filter om uw publiek en doelleads te versmallen die een hogere kans hebben op **registreren** voor uw webinar of gebeurtenis.
+Vergelijkbaar met de _Waarschijnlijkheid om bij te wonen_ filter, gebruik dit filter om uw publiek en doelleads te versmallen die een hogere kans hebben op **registreren** voor uw webinar of gebeurtenis.
 
 ![Afbeelding drie](/help/sky/assets/predictive-audiences/predictive-filters/predictive-filters-3.png)
 
