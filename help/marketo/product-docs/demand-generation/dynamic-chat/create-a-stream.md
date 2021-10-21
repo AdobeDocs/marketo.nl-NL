@@ -3,7 +3,7 @@ description: Een stream maken - Marketo Docs - Productdocumentatie
 title: Een stream maken
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 1022d3eaf4ee4a1686c5d8ae3168ee0197776289
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Een stream maken {#create-a-stream}
 
-Er zijn _vele_ stroomcombinaties u kunt tot stand brengen. Hieronder ziet u een voorbeeld van situaties waarin de bezoeker van de site wordt gevraagd of hij productvragen heeft. Zo ja, dan kan de bezoeker een afspraak plannen. Zo neen, dan kan de bezoeker zich bij een mailinglijst aansluiten voor toekomstige correspondentie. Het doel is een afspraak te plannen of de e-mail van de bezoeker te verzamelen.
+Er zijn _veel_ streamcombinaties die u kunt maken. Hieronder ziet u een voorbeeld van situaties waarin de bezoeker van de site wordt gevraagd of hij productvragen heeft. Zo ja, dan kan de bezoeker een afspraak plannen. Zo neen, dan kan de bezoeker zich bij een mailinglijst aansluiten voor toekomstige correspondentie. Het doel is een afspraak te plannen of de e-mail van de bezoeker te verzamelen.
 
-1. Nadat u [uw dialoog creeert](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue), klik **de Ontwerper van de Stroom** tabel.
+1. Na u [uw dialoogvenster maken](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)klikt u op de knop **Stream Designer** tab.
 
    ![](assets/create-a-stream-1.png)
 
@@ -54,23 +54,23 @@ Er zijn _vele_ stroomcombinaties u kunt tot stand brengen. Hieronder ziet u een 
 
    ![](assets/create-a-stream-9.png)
 
-1. Voer uw reactie in en voeg antwoordopties toe voor de bezoeker. Klik **Opslaan** wanneer gereed.
+1. Voer uw reactie in en voeg antwoordopties toe voor de bezoeker. Klikken **Opslaan** wanneer gereed.
 
    ![](assets/create-a-stream-10.png)
 
    >[!NOTE]
    >
-   >U kunt meer reacties toevoegen door **Reactie toevoegen** te klikken.
+   >U kunt meer reacties toevoegen door te klikken op **Antwoord toevoegen**.
 
 1. Onder het antwoord &quot;Ja&quot; sleept u over de kaart voor het vastleggen van gegevens, zodat u de e-mail van de bezoeker kunt verzamelen.
 
    ![](assets/create-a-stream-11.png)
 
-1. Klik op de vervolgkeuzelijst **Type** en selecteer **E-mail**.
+1. Klik op de knop **Type** vervolgkeuzelijst en selecteer **E-mail**.
 
    ![](assets/create-a-stream-12.png)
 
-1. Voer een chatbotbericht en tijdelijke aanduiding in. Controleer of het kenmerk is toegewezen aan het desbetreffende veld in Marketo en klik op **Opslaan**.
+1. Voer een chatbotbericht en tijdelijke aanduiding in. Controleer of het kenmerk is toegewezen aan het juiste veld in Marketo en klik op **Opslaan**.
 
    ![](assets/create-a-stream-13.png)
 
@@ -109,13 +109,13 @@ Er zijn _vele_ stroomcombinaties u kunt tot stand brengen. Hieronder ziet u een 
 
    ![](assets/create-a-stream-17.png)
 
-1. Wanneer u uw Dialoog wilt activeren, klik **Publish**.
+1. Wanneer u het dialoogvenster wilt activeren, klikt u op **Publiceren**.
 
    ![](assets/create-a-stream-18.png)
 
 >[!NOTE]
 >
->Voordat u op Publiceren klikt, vergeet dan niet om te controleren of u [de doel-URL(&#39;s)](help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target) hebt ingevoerd.
+>Voordat u op Publiceren klikt, moet u controleren of u [doel-URL(&#39;s) ingevoerd](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#target).
 
 >[!MORELIKETHIS]
 >
