@@ -3,9 +3,9 @@ unique-page-id: 42762514
 description: Overzicht van dashboardfuncties voor inzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van dashboardfuncties voor inzichten
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 6679e1e0bdb53d3f330c15415a5fbe38f61d28d2
+source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
 workflow-type: tm+mt
-source-wordcount: '1460'
+source-wordcount: '1503'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Meer informatie over de functies die beschikbaar zijn op het dashboard Verkoopin
 
 >[!PREREQUISITES]
 >
->U moet het recentste pakket MSI SFDC en [configuration](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md) hebben.
+>U moet beschikken over het nieuwste MSI SFDC-pakket en [configuratie](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/one.png)
 
@@ -155,7 +155,7 @@ Gebeurtenis, tabblad:
 * De Wekelijkse Summiere bar zal het Interesten Momenten, E-mail en Activiteit van het Web voor die week tonen. Op elk pictogram kan worden geklikt en het kan worden gebruikt als filters om specifieke activiteit weer te geven
 * Standaardweergave: Dit is een lijst met activiteiten van de huidige weergave
 
-**Aanstaande e-mailcampagnes en** gebeurtenissenE-mailcampagnes tabblad:
+**Opkomende e-mailcampagnes en gebeurtenissen** Tabblad E-mailcampagnes:
 
 * Bevat campagnes die onderdeel zijn van e-mailprogramma&#39;s of standaardprogramma&#39;s die in de komende 90 dagen zijn gepland
 * Niet specifiek voor de contactpersoon/lead (d.w.z. lijst met campagnes is een algemene lijst met alle e-mailcampagnes die in het Marketo-exemplaar zijn gepland). De lijst met campagnes in alle deelvensters voor leads, contact, account en opportuniteiten is gelijk
@@ -171,3 +171,7 @@ Gebeurtenis, tabblad:
 * Als u alle gebeurtenissen selecteert, wordt de lijst met gebeurtenissen weergegeven die in de komende 90 dagen zijn gepland
 * Actiedetails-kaart in deze sectie bevat voorvertoningsoptie
 * Filter bevat &quot;Zoeken&quot;, &quot;Alleen uitgenodigde gebeurtenissen tonen&quot; en &quot;Datumbereik&quot;
+
+>[!NOTE]
+>
+>Als uw account of opportunity meer dan 800 contactpersonen heeft, geeft het dashboard geen gegevens weer. U kunt echter naar individuele contacten gaan om hun inzichten en betrokkenheid te bekijken. Als uw account meer dan 800 contactpersonen heeft, wordt Activiteit op accountniveau tonen uitgeschakeld.
