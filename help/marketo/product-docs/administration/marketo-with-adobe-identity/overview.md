@@ -3,7 +3,7 @@ description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 hide: true
 hidefromtoc: true
-source-git-commit: 8ef7611e9a6b9756d35a9c8fbd439f25f5c714be
+source-git-commit: 6047665cf94a4b212734667feeb5fce911ffdebb
 workflow-type: tm+mt
 source-wordcount: '671'
 ht-degree: 0%
@@ -53,11 +53,11 @@ Adobe Identity Management System bestaat uit drie componenten.
 
 **Is er een wijziging in de API-clientondersteuning?**
 
-Ja. Degenen die aan Adobe IMS zijn aangemeld, kunnen de bestaande Marketo-API&#39;s voor gebruikersbeheer niet gebruiken. Zij zouden [IMS APIs](https://www.adobe.io/apis/experienceplatform/umapi-new.html) gebruiken.
+Ja. Degenen die aan Adobe IMS zijn aangemeld, kunnen de bestaande Marketo-API&#39;s voor gebruikersbeheer niet gebruiken. Ze gebruiken de [IMS API&#39;s](https://www.adobe.io/apis/experienceplatform/umapi-new.html).
 
 **Met wie nemen we contact op voor ondersteuning?**
 
-U zou de standaardprocedure volgen om [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) te contacteren.
+U zou de standaardprocedure voor het contacteren volgen [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support).
 
 **Zijn Marketo-gebruikersrollen (binnen werkruimten) beheerd in Adobe Admin Console?**
 
@@ -65,7 +65,7 @@ Nee. Gebruikersrolbeheer (binnen werkruimten) wordt voltooid in Marketo.
 
 **Ik ben Marketo Admin en heb geen toegang tot de Admin Console. Hoe krijg ik toegang?**
 
-Om het even welke systeem of productbeheerder die toegang tot de Admin Console van uw organisatie heeft kan u toegang geven. Als u niet zeker weet wie binnen uw organisatie beheerdersrechten heeft in de console, neemt u contact op met [Adobe klantenservice](https://helpx.adobe.com/contact.html).
+Om het even welke systeem of productbeheerder die toegang tot de Admin Console van uw organisatie heeft kan u toegang geven. Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer [Adobe Klantenservice](https://helpx.adobe.com/contact.html).
 
 **Hoe kan een beheerder gebruikers toevoegen aan Marketo Sales Connect?**
 
@@ -77,7 +77,7 @@ Hoewel voor Sales Connect een productkaart in AC wordt weergegeven, mag AC niet 
 
 **Ga ik nog steeds naar het gedeelte Beheer in Marketo om wijzigingen aan te brengen in het account?**
 
-Nee, u moet naar [account.adobe.com](https://account.adobe.com) navigeren.
+Nee, u moet naar [account.adobe.com](https://account.adobe.com).
 
 **Hoe werkt dit met Marketo Universal ID?**
 
@@ -85,7 +85,7 @@ De gebruikers aan boord van een Adobe-identiteit hebben naadloos toegang tot all
 
 **Werkt dit met SSO?**
 
-Ja. Marketo-integratie met Adobe IMS ondersteunt gebruikers van Universal ID en SSO. De SSO wordt nu aangestuurd door Adobe IMS en is ingesteld op organisatieniveau in de Adobe Admin Console. [Klik hier](https://helpx.adobe.com/enterprise/using/set-up-identity.html) voor meer informatie.
+Ja. Marketo-integratie met Adobe IMS ondersteunt gebruikers van Universal ID en SSO. De SSO wordt nu aangestuurd door Adobe IMS en is ingesteld op organisatieniveau in de Adobe Admin Console. [Meer informatie hier](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
 
 **Hoe werkt apparaatautorisatie?**
 
@@ -104,3 +104,4 @@ Ja, u bepaalt het type identiteit om uw organisatiesteun te hebben. Meer informa
 >* [Beheerdersinstellingen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
 >* [Een productbeheerder toevoegen of verwijderen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
 >* [Een gebruiker toevoegen of verwijderen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
+

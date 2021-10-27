@@ -2,10 +2,10 @@
 description: De wereldwijde zoekfunctie gebruiken - Marketo Docs - Productdocumentatie
 title: De algemene zoekopdracht gebruiken
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
-source-git-commit: 0c02488adc6b79adff75650a9ffe11c1e596941c
+source-git-commit: 6047665cf94a4b212734667feeb5fce911ffdebb
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 1%
+source-wordcount: '148'
+ht-degree: 3%
 
 ---
 
@@ -13,11 +13,9 @@ ht-degree: 1%
 
 De krachtige algemene zoekopdracht biedt u veel opties zonder beperkingen op de weergegeven resultaten.
 
-## Resultaten automatisch aanvullen {#autocomplete-results}
+## Een zoekopdracht uitvoeren {#performing-a-search}
 
-Soms zal autocomplete je snel laten zien wat je zoekt.
-
-1. In Globale Nav, klik **Onderzoek**.
+1. Klik in de algemene nav op het zoekpictogram.
 
    ![](assets/using-the-global-search-1.png)
 
@@ -25,63 +23,47 @@ Soms zal autocomplete je snel laten zien wat je zoekt.
 
    ![](assets/using-the-global-search-2.png)
 
-1. Zoekresultaten worden automatisch voltooid weergegeven. U kunt overal in om het even welke broodkruimels klikken die rechtstreeks aan dat punt moeten worden genomen.
+1. Zoekresultaten worden weergegeven. U kunt overal in om het even welke broodkruimels klikken die rechtstreeks aan dat punt moeten worden genomen.
 
    ![](assets/using-the-global-search-3.png)
 
-1. In dit voorbeeld kiezen we ervoor om rechtstreeks naar de lijst te gaan die we zoeken. Klik op de naam van de lijst.
+1. In dit voorbeeld kiezen we ervoor om rechtstreeks naar de e-mail te gaan die we zoeken. Klik op de naam van het e-mailbericht.
 
    ![](assets/using-the-global-search-4.png)
 
-U wordt rechtstreeks naar de gewenste lijst geleid.
+U wordt rechtstreeks naar de gewenste e-mail geleid.
 
 ![](assets/using-the-global-search-5.png)
 
-## Algemene zoekresultaten {#global-search-results}
+## Pagina met zoekresultaten {#search-results-page}
 
-Gebruik de volledige zoekopdracht als de resultaten van Automatisch aanvullen u niet laten zien wat u zoekt.
-
-1. In Globale Nav, klik **Onderzoek**.
-
-   ![](assets/using-the-global-search-6.png)
-
-1. Typ tekst voor het element en klik op **Zoeken**.
-
-   ![](assets/using-the-global-search-7.png)
-
-1. De pagina Algemene zoekresultaten wordt geopend.
-
-   ![](assets/using-the-global-search-8.png)
+![](assets/using-the-global-search-6.png)
 
 <table> 
  <tbody>
   <tr>
    <td>1</td> 
-   <td>Klik op de eerste (of enige) pagina van al uw zoekresultaten op een willekeurige plaats in de broodkruimels die direct naar dat gebied moeten worden geleid</td> 
+   <td>Naam van het item/bestemming</td> 
   </tr>
   <tr>
    <td>2</td> 
-   <td>Datums/tijden waarop het item is gemaakt/laatstelijk gewijzigd</td> 
+   <td>Pad (broodkruimels) naar het respectieve item/de respectieve bestemming</td> 
   </tr>
   <tr>
-   <td>1</td> 
-   <td>Kies een specifieke Marketo-hoofdsectie die u wilt doorzoeken of doorzoeken in één keer</td> 
+   <td>3</td> 
+   <td>Datum en tijd waarop het item/de bestemming voor het laatst is gewijzigd</td> 
   </tr>
   <tr>
    <td>4</td> 
+   <td>Datum en tijd waarop het item/doel is gemaakt</td> 
+  </tr>
+  <tr>
+   <td>5</td> 
    <td>Gerichte filters implementeren om de zoekresultaten te beperken</td> 
   </tr>
  </tbody>
 </table>
 
-OPTIONELE STAP: Als u filters wilt gebruiken, kiest u de gewenste opties en klikt u op **Toepassen**.
+**OPTIONELE STAP**: Als u filters wilt gebruiken, selecteert u gewoon de gewenste opties.
 
-![](assets/using-the-global-search-9.png)
-
-OPTIONELE STAP: Als u de details van een item wilt zien, klikt u in de witruimte van de rij.
-
-![](assets/using-the-global-search-10.png)
-
-OPTIONELE STAP: Als u rechtstreeks naar het laatste item in een broodkruimel wilt gaan, klikt u erop OF houdt u de muisaanwijzer boven de spatie in de rij totdat het pictogram hieronder wordt weergegeven en klikt u erop.
-
-![](assets/using-the-global-search-11.png)
+![](assets/using-the-global-search-7.png)
