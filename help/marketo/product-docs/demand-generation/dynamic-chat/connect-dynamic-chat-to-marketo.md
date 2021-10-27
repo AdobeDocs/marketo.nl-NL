@@ -3,18 +3,18 @@ description: Dynamic Chat verbinden met Marketo - Marketo Docs - Productdocument
 title: Dynamische chat met Marketo verbinden
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
 # Dynamische chat met Marketo verbinden {#connect-dynamic-chat-to-marketo}
 
-Nadat u [aanvankelijke opstelling](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md) hebt voltooid, is het tijd om eenmalig synchronisatie uit te voeren die Dynamisch Praatje met uw Marketo abonnement verbindt.
+Nadat u de [eerste installatie](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md), is het tijd om de eenmalige synchronisatie uit te voeren die Dynamic Chat verbindt met uw Marketo-abonnement.
 
-1. Klik in Mijn Marketo op de tegel **Dynamisch chat**.
+1. Klik in Mijn Marketo op de knop **Dynamische chat** tegel.
 
    ![](assets/connect-dynamic-chat-to-marketo-1.png)
 
@@ -22,19 +22,41 @@ Nadat u [aanvankelijke opstelling](/help/marketo/product-docs/demand-generation/
    >
    >Neem contact op met uw Marketo Admin als u de tegel niet ziet.
 
-1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar Dynamic Chat. Als dat niet het geval is, [stelt u uw Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) in.
+1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar Dynamic Chat. Zo niet, [Adobe ID instellen](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
 
-1. Selecteer **Integrations** om uw Marketo-instantie te verbinden.
+1. Selecteer **Integraties**.
 
    ![](assets/connect-dynamic-chat-to-marketo-2.png)
 
-1. Klik op de Marketo-kaart op **Sync starten**.
+1. Klik op de Marketo-kaart op **Synchronisatie starten**.
 
-   PICC (screenshot wanneer ik gloednieuwe sub krijg)
+   ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
 >[!NOTE]
 >
->Afhankelijk van de grootte van uw database kan het 5 minuten tot 8 uur duren voordat de synchronisatie is voltooid. De gemiddelde synchronisatietijd is 60 minuten. TIJDKADER VERIFIËREN
+>Het kan 2 tot 24 uur duren voordat de synchronisatie is voltooid, afhankelijk van de grootte van uw database.
+
+## Link Your Adobe Org and Marketo {#link-your-adobe-org-and-marketo}
+
+Nu is het tijd om Adobe en Marketo met elkaar te verbinden.
+
+1. Aanmelden bij [experience.adobe.com](https://experience.adobe.com).
+
+1. Kopieer de organisatie-id vanuit de rechterbenedenhoek van de startpagina. _minus_ de &quot;@AdobeOrg.&quot;
+
+   ![](assets/connect-dynamic-chat-to-marketo-4.png)
+
+1. Ga in Marketo naar de **Beheer** en selecteert u **Toewijzing organisatie Adobe**.
+
+   ![](assets/connect-dynamic-chat-to-marketo-5.png)
+
+1. Klikken **Bewerken**.
+
+   ![](assets/connect-dynamic-chat-to-marketo-6.png)
+
+1. Plak de organisatie-id die u in stap 2 hebt gekopieerd en klik op **OK**.
+
+   ![](assets/connect-dynamic-chat-to-marketo-7.png)
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+source-git-commit: 121b2f1dd3bc807feaf8e8682307074bac43e12e
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om gebruike
 
 ## Integraties {#integrations}
 
-Een belangrijk onderdeel van Dynamic Chat is de mogelijkheid om native verbinding te maken met uw Marketo-abonnement. Als u deze integratie volledig wilt benutten, moet u eerst de gegevenssynchronisatie starten. Afhankelijk van de grootte van uw Marketo-database kan het tot 24 uur duren voordat gegevens voor de eerste synchronisatie [one-time sync](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) zijn voltooid. De gemiddelde synchronisatietijd is minder dan twee uur.
+Een belangrijk onderdeel van Dynamic Chat is de mogelijkheid om native verbinding te maken met uw Marketo-abonnement. Als u deze integratie volledig wilt benutten, moet u eerst de gegevenssynchronisatie starten. Afhankelijk van de grootte van uw Marketo-database kan het maximaal 24 uur duren voordat gegevens voor de eerste database zijn opgeslagen, [eenmalig synchroniseren](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) om te voltooien.
 
 Het volgende wordt gesynchroniseerd:
 
@@ -58,7 +58,7 @@ Neen, het gebruikt slechts vooraf bepaalde reacties.
 
 **Hoe kan ik mij richten op anonieme mensen?**
 
-In uw dialoogvenster moet u het kenmerk _Person-e-mail is Empty_ gebruiken.
+In uw dialoogvenster moet u de opdracht _Persoonsbericht is leeg_ kenmerk.
 
 **Ondersteunt u de AI/NLP-functionaliteit?**
 
