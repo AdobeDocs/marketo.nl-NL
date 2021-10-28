@@ -2,9 +2,9 @@
 description: Verklarende woordenlijst Verkoopactiviteiten - Marketo-documenten - Productdocumentatie
 title: Verklarende woordenlijst Verkoopactiviteiten
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
+source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '520'
 ht-degree: 1%
 
 ---
@@ -263,7 +263,7 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
   </tr>
   <tr> 
    <td><strong>E-mailonderwerp verkoop</strong></td> 
-   <td>Onderwerpregel.</td> 
+   <td>Onderwerpregel van e-mail gevolgd door een unieke id (bijv.: Mijn Onderwerpregel (MSC-12345678)</td> 
   </tr>
   <tr> 
    <td><strong>Telefoonnummer van verkoper opgevraagd</strong></td> 
@@ -283,7 +283,7 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
   </tr> 
   <tr> 
    <td><strong>Bron</strong></td> 
-   <td>Bron van de activiteit. Wordt ingesteld als "Tout" voor Connect-activiteiten van Sales vóór de release van 22 januari. Zal 'Sales App' zijn voor Sales Connect-activiteiten na de release van 22 januari.</td>
+   <td>Bron van de activiteit. Wordt ingesteld als "Tout" voor Connect-activiteiten van Sales vóór de release van 21 oktober. Zal 'Sales App' zijn voor Sales Connect-activiteiten na de release van 21 oktober.</td>
   </tr> 
   <tr> 
    <td><strong>Sjabloon-id</strong></td> 
