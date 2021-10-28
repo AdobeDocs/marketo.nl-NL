@@ -2,9 +2,9 @@
 description: Verklarende woordenlijst Verkoopactiviteiten - Marketo-documenten - Productdocumentatie
 title: Verklarende woordenlijst Verkoopactiviteiten
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 0a1e913fd03415d3668c8a9d2200e2211bad5980
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '510'
 ht-degree: 1%
 
 ---
@@ -283,7 +283,7 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
   </tr> 
   <tr> 
    <td><strong>Bron</strong></td> 
-   <td>Bron van de activiteit. Wordt ingesteld als "Tout" voor Connect-activiteiten van Sales.</td> 
+   <td>Bron van de activiteit. Wordt ingesteld als "Tout" voor Connect-activiteiten van Sales vóór de release van 22 januari. Zal 'Sales App' zijn voor Sales Connect-activiteiten na de release van 22 januari.</td>
   </tr> 
   <tr> 
    <td><strong>Sjabloon-id</strong></td> 
