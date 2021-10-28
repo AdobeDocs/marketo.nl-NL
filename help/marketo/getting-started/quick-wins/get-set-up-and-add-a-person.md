@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Opzetten en een persoon toevoegen - Marketo Docs - Productdocumentatie
 title: Instellen en een persoon toevoegen
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ Voeg uzelf toe als persoon in Marketo zodat u later teste-mails naar uzelf kunt 
 1. Typ uw voornaam en achternaam, e-mailadres en bedrijfsnaam en klik vervolgens op **Maken** om uzelf toe te voegen als een persoon.
 
    ![](assets/eight.png)
+
+   >[!CAUTION]
+   >
+   >Marketo doet het **niet** e-mailadressen met emojis ondersteunen.
 
 1. Om uw mensen te bekijken, open uw Slimme Lijsten van het Systeem in het linkermenu, dan klik Alle Mensen.
 

@@ -3,10 +3,9 @@ unique-page-id: 1147316
 description: Handmatig een persoon maken - Marketo Docs - Productdocumentatie
 title: Handmatig een persoon maken
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a3da3f466e6131fdd3507b7b567fac91ad9c5b6c
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -15,11 +14,15 @@ ht-degree: 0%
 
 Er zijn veel manieren om een persoon naar Marketo te krijgen. Als je er handmatig een moet maken, is dit hoe je het moet doen.
 
-1. Ga naar **Database**.
+>[!CAUTION]
+>
+>Marketo doet het **niet** e-mailadressen met emojis ondersteunen.
+
+1. Ga naar de **Database**.
 
    ![](assets/db-1.png)
 
-1. Klik onder **Nieuw** op **Nieuwe persoon**.
+1. Onder **Nieuw**, klikt u op **Nieuwe persoon**.
 
    ![](assets/two-2.png)
 
