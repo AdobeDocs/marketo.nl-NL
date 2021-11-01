@@ -3,9 +3,9 @@ description: Een gebruiker toevoegen of verwijderen - Marketo Docs - Productdocu
 title: Een gebruiker toevoegen of verwijderen
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## Een gebruiker toevoegen {#add-a-user}
 
-1. Meld u aan bij [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-a-user-1.png)
 
-1. Klik **Marketo Engage**.
+1. Klikken **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-2.png)
 
@@ -26,11 +26,11 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. Klik op het tabblad **Gebruikers**.
+1. Klik op de knop **Gebruikers** tab.
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. Klik op de knop **Gebruiker toevoegen**.
+1. Klik op de knop **Gebruiker toevoegen** knop.
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -38,23 +38,27 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-6.png)
 
-1. Klik op het pictogram **+** en selecteer het gewenste productprofiel.
+1. Klik op de knop **+** en selecteer het gewenste productprofiel.
 
    ![](assets/add-or-remove-a-user-7.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
 De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij Marketo.
 
+>[!NOTE]
+>
+>Wanneer de gebruiker via de Adobe Admin Console aan Marketo Engage wordt toegevoegd, krijgt hij of zij de rol &quot;Standaardgebruiker&quot; binnen de werkruimte Standaard van het abonnement. Als de rol van de gebruiker binnen de werkruimte moet worden aangepast, wordt dat gedaan in Marketo Engage, [zoals hier beschreven](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
 ## Een gebruiker verwijderen {#remove-a-user}
 
-1. Meld u aan bij [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-a-user-9.png)
 
-1. Klik **Marketo Engage**.
+1. Klikken **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-10.png)
 
@@ -62,17 +66,19 @@ De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij Marketo.
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. Klik op het tabblad **Gebruikers**.
+1. Klik op de knop **Gebruikers** tab.
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. Selecteer de gebruiker u wilt verwijderen en de **Remove** knoop klikken.
+1. Selecteer de gebruiker die u wilt verwijderen en klik op de knop **Verwijderen** knop.
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. Klik **Verwijder Gebruiker** om te bevestigen.
+1. Klikken **Gebruiker verwijderen** ter bevestiging.
 
    ![](assets/add-or-remove-a-user-14.png)
+
+De gebruiker ontvangt vervolgens een e-mail met de kennisgeving dat hij of zij geen toegang meer heeft tot Marketo Engage via Productbeheerder.
 
 >[!MORELIKETHIS]
 >

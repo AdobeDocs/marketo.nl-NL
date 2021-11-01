@@ -3,9 +3,9 @@ description: Een productbeheerder toevoegen of verwijderen - Marketo Docs - Prod
 title: Een productbeheerder toevoegen of verwijderen
 hide: true
 hidefromtoc: true
-source-git-commit: 066ecb9fe52e9fe3f9c78815b47cf41208f396c3
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**** SystemAdmins wordt slechts gecreeerd op het Adobe Org niveau. Neem contact op met [Marketo Support](https://nation.marketo.com/t5/support/ct-p/Support) als u denkt dat u meer dan één support nodig hebt.
+>**Systeem** Admins worden slechts gecreeerd op het niveau van de Adobe Org. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Een productbeheerder toevoegen {#add-a-product-admin}
 
-1. Meld u aan bij [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
-1. Klik **Marketo Engage**.
+1. Klikken **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-2.png)
 
@@ -30,15 +30,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. Klik op het tabblad **Admins**.
+1. Klik op de knop **Admins** tab.
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. Klik op de knop **Admin** toevoegen.
+1. Klik op de knop **Admin toevoegen** knop.
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. Voer het e-mailadres of de gebruikersnaam in van de beheerder die u wilt toevoegen. Voornaam en achternaam zijn optioneel. Klik **Opslaan**.
+1. Voer het e-mailadres of de gebruikersnaam in van de beheerder die u wilt toevoegen. Voornaam en achternaam zijn optioneel. Klikken **Opslaan**.
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -50,21 +50,27 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. Klik op het **+**-teken. Klik op het chevron naast het gewenste Marketo Engage-abonnement (als er meerdere zijn) en selecteer het gewenste productprofiel.
+1. Klik op de knop **+** ondertekenen. Klik op het chevron naast het gewenste Marketo Engage-abonnement (als er meerdere zijn) en selecteer het gewenste productprofiel.
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
+De gebruiker ontvangt dan twee e-mails. In de eerste e-mail worden ze op de hoogte gebracht van het feit dat hun rechten voor productbeheer zijn toegekend aan Marketo Engage. In de tweede e-mail worden ze uitgenodigd zich aan te melden bij Marketo Engage.
+
+>[!NOTE]
+>
+>Wanneer de gebruiker van productbeheer via de Adobe Admin Console aan Marketo Engage wordt toegevoegd, krijgt de gebruiker de rol van Admin van het Product van de Adobe binnen het abonnement.
+
 ## Admin verwijderen {#remove-a-user}
 
-1. Meld u aan bij [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/).
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
-1. Klik **Marketo Engage**.
+1. Klikken **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-12.png)
 
@@ -72,14 +78,16 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. Klik op het tabblad **Admins**.
+1. Klik op de knop **Admins** tab.
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. Selecteer de Admin u wilt verwijderen en de **verwijdert Admin** knoop klikken.
+1. Selecteer de beheerder die u wilt verwijderen en klik op de knop **Admin verwijderen** knop.
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. Klik **Admin** verwijderen om te bevestigen.
+1. Klikken **Admin verwijderen** ter bevestiging.
 
    ![](assets/add-or-remove-a-product-admin-16.png)
+
+De gebruiker ontvangt vervolgens een e-mail met de kennisgeving dat hij of zij geen toegang meer heeft tot Marketo Engage via Productbeheerder.

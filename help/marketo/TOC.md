@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
+source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
 workflow-type: tm+mt
-source-wordcount: '7974'
+source-wordcount: '7977'
 ht-degree: 0%
 
 ---
@@ -218,6 +218,7 @@ ht-degree: 0%
       + Marketo met Adobe-id {#marketo-with-adobe-identity}
          + [Overzicht](product-docs/administration/marketo-with-adobe-identity/overview.md)
          + [Beheerdersinstellingen](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
+         + [Productbeheerinstellingen](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [Een productbeheerder toevoegen of verwijderen](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Een gebruiker toevoegen of verwijderen](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
       + Instellingen {#settings}
