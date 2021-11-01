@@ -2,9 +2,9 @@
 description: Best Bets - Marketo Docs - Productdocumentatie
 title: Beste bieten
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 42ddb44100a041a09ff4a68c02ccf6aabb2d953e
+source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -46,3 +46,7 @@ U kunt een of meer leads of contactpersonen op uw pagina Best Bets selecteren me
 * Toevoegen aan lijst met controles
 
 ![](assets/best-bets-1.png)
+
+>[!NOTE]
+>
+>Een contact/lood moet in de Standaardverdeling zijn om aan de Controlelijst te worden toegevoegd.
