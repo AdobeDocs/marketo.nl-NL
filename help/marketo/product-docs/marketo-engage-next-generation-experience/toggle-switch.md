@@ -1,9 +1,7 @@
 ---
 description: Schakelen tussen Marketo-documenten - productdocumentatie
 title: Schakelaar schakelen
-hide: true
-hidefromtoc: true
-source-git-commit: ff492d23f2660a66adfa392cf4fdfd8cb19d126a
+source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -20,35 +18,33 @@ Met de schakeloptie kunt u schakelen tussen de klassieke Marketo-interface en de
 
 ## Weergave landingspagina {#landing-page-list-view}
 
-Selecteer in Marketo **Design Studio**.
+De volgende-gen Landing van de lijstmening van de Pagina biedt onderzoeksfilters en de capaciteit aan om massa uit te voeren die de acties van de Pagina.
 
-![](assets/toggle-switch-1.png)
+1. Selecteer in Marketo **Design Studio**.
 
-Selecteren **Openingspagina&#39;s**.
+   ![](assets/toggle-switch-1.png)
 
-![](assets/toggle-switch-2.png)
+1. Selecteren **Openingspagina&#39;s**.
 
-Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
+   ![](assets/toggle-switch-2.png)
 
-![](assets/toggle-switch-3.png)
+1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
+
+   ![](assets/toggle-switch-3.png)
 
 De nieuwe ervaring wordt geladen.
 
 ![](assets/toggle-switch-4.png)
 
->[!NOTE]
->
->In de nieuwe lijstweergave Openingspagina kunt u zoekfilters gebruiken en de mogelijkheid bieden om acties voor het plaatsen van pagina&#39;s in massa uit te voeren.
-
 ## Formuliergegevens pagina {#form-details-page}
 
-Zoek en selecteer het formulier in Marketo.
+1. Zoek en selecteer het formulier in Marketo.
 
-![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-5.png)
 
-Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
+1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
 
-![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-6.png)
 
 De nieuwe ervaring wordt geladen.
 
@@ -58,10 +54,10 @@ De nieuwe ervaring wordt geladen.
 
 U kunt de volgende-gen interface van Marketo inschakelen voor alle beschikbare functies, zowel de huidige als de toekomstige.
 
-In een gebied dat momenteel de Schakelaar van de Wissel heeft (in dit voorbeeld zijn wij binnen [Formuliergegevens pagina](#form-details-page)), klikt u op het tandwielpictogram rechtsonder op de pagina.
+1. In een gebied dat momenteel de Schakelaar van de Wissel heeft (in dit voorbeeld zijn wij binnen [Formuliergegevens pagina](#form-details-page)), klikt u op het tandwielpictogram rechtsonder op de pagina.
 
-![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-8.png)
 
-Selecteren **Inschakelen voor alle beschikbare functies** en klik op **OK**.
+1. Selecteren **Inschakelen voor alle beschikbare functies** en klik op **OK**.
 
-![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-9.png)
