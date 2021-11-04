@@ -1,9 +1,9 @@
 ---
 description: Privacyverzoeken - Marketo-documenten - productdocumentatie
 title: Privacyverzoeken
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: 9d7fd72f4db90ad41cf24011960b2a5a3af7e456
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 
 Dit document biedt een overzicht van het beheer van individuele privacyverzoeken voor gegevens die u naar Marketo Engage kunt verzenden via de gebruikersinterface van de Privacy Service en de **Privacy Service-API**.
 
+>[!NOTE]
+>
+>De verzoeken van de privacy die door Privacy Service UI of API voor Marketo Engage worden voorgelegd zijn slechts op die van toepassing die Marketo Engage + rt-CDP, B2B en B2P Editions hebben.
+
 U kunt individuele verzoeken om tot consumentengegevens van Marketo Engage toegang te hebben en te schrappen op twee manieren voorleggen:
 
 * Via de [UI Privacy Service](https://privacyui.cloud.adobe.io/). Zie de documentatie [hier](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
@@ -19,13 +23,11 @@ U kunt individuele verzoeken om tot consumentengegevens van Marketo Engage toega
 
 De [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) ondersteunt twee typen verzoeken: gegevenstoegang en gegevensverwijdering.
 
-Opmerking: De verzoeken van de privacy die door Privacy Service UI of API voor Marketo Engage worden voorgelegd zijn slechts op klanten van toepassing die Marketo Engage + rt-CDP, B2B en B2P Editions hebben.
-
 Zie hoe u aanvragen voor toegang en verwijderen kunt maken.
 
 ## Vereiste opstelling om verzoeken om Marketo Engage te verzenden {#required-setup-to-send-requests-for-marketo-engage}
 
-Om tot gegevens voor Marketo Engage toegang te verzoeken en te schrappen, moet u:
+Om tot Gegevens van de Toegang en van de Schrapping voor Marketo Engage te verzoeken, moet u:
 
 1. Vermeld het volgende:
 
@@ -45,7 +47,6 @@ b. E-mailadres van de persoon aan wie u wilt optreden
 
 &quot;gebruikers&quot;:
 
-* &quot;key&quot;: `<Your Request Tracking Key>`   (optioneel)
 * &quot;actie&quot;: ofwel **toegang** of **delete**
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **email**
@@ -58,7 +59,7 @@ b. E-mailadres van de persoon aan wie u wilt optreden
 
 &quot;verordening&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd**, of **nzpa**  (dit is de privacyverordening die van toepassing is op het verzoek)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**, of **nzpa_nzl**  (dit is de privacyverordening die van toepassing is op het verzoek)
 
 ## Voorbeeld één: GDPR-verzoek verwijderen {#gdpr-delete-request}
 
@@ -74,7 +75,6 @@ JSON-aanvraag
   ],
   "users": [
     {
-      "key": "AAGDPRO1", 
       "action": [
         "delete"
       ],
@@ -105,7 +105,6 @@ JSON-reactie
       "jobId": "997b01e3-9568-402c-904b-b4e60a437875",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "delete"
           ],
@@ -139,7 +138,6 @@ JSON-aanvraag
   ],
   "users": [
     {
-      "key": "AAGDPRO1",
       "action": [
         "access"
       ],
@@ -170,7 +168,6 @@ JSON-reactie
       "jobId": " 3115e42d-011b-47ab-a2b0-ed4356af4d3e",
       "customer": {
         "user": {
-          "key": "AAGDPRO1",
           "action": [
             "access"
           ],
