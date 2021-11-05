@@ -1,7 +1,7 @@
 ---
 description: Privacy Management - Marketo-documenten - productdocumentatie
 title: Privacybeheer
-source-git-commit: 9285b1545c1cf27fb1c8579981bdf93d0cc4ff09
+source-git-commit: d33de522f07c4e95b93040dc3e8ffeec258a9ba2
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -14,7 +14,7 @@ Marketo Engage biedt een reeks hulpmiddelen aan om u te helpen aan de verordenin
 
 >[!NOTE]
 >
->De verzoeken van de privacy die door Privacy Service UI of API voor Marketo Engage worden voorgelegd zijn slechts op klanten van toepassing die Marketo Engage + rt-CDP, B2B en B2P Editions hebben.
+>De verzoeken van de privacy die door Privacy Service UI of API voor Marketo Engage worden voorgelegd zijn slechts op die van toepassing die Marketo Engage + rt-CDP, B2B en B2P Editions hebben.
 
 ## Regels inzake privacybeheer {#regulations-on-privacy-management}
 
