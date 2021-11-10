@@ -3,9 +3,9 @@ description: Overzicht van e-mailtracering - Marketo Docs - Productdocumentatie
 title: Overzicht van e-mailtracking
 hide: true
 hidefromtoc: true
-source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
+source-git-commit: d8f7d7ddf804847e20bf978bf2fc74694b719009
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,14 @@ Als Sales Connect het antwoord van uw e-mail met uw vooruitzicht niet kan bijhou
 
 Dit betekent dat als u een e-mail verzendt naar flynn@flynnsarcade.com en reageert op kevinf@flynnsarcade.com, we het antwoord kunnen volgen. Bovendien, als u flynn@flynnsarcade.com en CC alan@encom.com e-mailt, en Alan u terug schrijft, zal het ook het antwoord ontdekken en de campagne beëindigen.
 
-## Hoe Reageren bijhouden werkt {#how-reply-tracking-works}
+## Uw e-mailbijlagen bijhouden {#how-to-track-your-email-attachments}
 
 text
 
-## Uw e-mailbijlagen bijhouden {#how-to-track-your-email-attachments}
+## Hoe het Volgen van de Mening werkt {#how-view-tracking-works}
 
+text
+
+## E-mail testen niet weergegeven als weergegeven {#test-email-not-showed-as-viewed}
+
+text
