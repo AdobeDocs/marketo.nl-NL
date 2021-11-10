@@ -3,9 +3,9 @@ description: Een Adobe Experience Platform-segment verplaatsen naar een statisch
 title: Een Adobe Experience Platform-segment naar een statische Marketo-lijst verplaatsen
 hidefromtoc: true
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: ff69a50bc725e5092ba1162a3981b129fefd0c8a
+source-git-commit: 8789ed464f532bbe76c2cb456374d9c0f505ece0
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '515'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
 >[!PREREQUISITES]
 >
->* [Maak een API-](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) gebruiker in Marketo.
->* Ga vervolgens naar **Admin** > **Launchpoint**. Zoek de naam van de rol u enkel creeerde en klik **Details van de Mening**. Kopieer en sla de informatie op in **Client ID** en **Client Secret**, aangezien u het voor deze functie zult nodig hebben.
+>* [Een API-gebruiker maken](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) in Marketo.
+>* Ga vervolgens naar **Beheer** > **Launchpoint**. Zoek de naam van de rol die u net hebt gemaakt en klik op **Details weergeven**. De gegevens kopiëren en opslaan in **Client-id** en **Clientgeheim**, aangezien u het voor deze eigenschap zult nodig hebben.
 
 
-1. Meld u aan bij [Adobe Experience Platform](https://experience.adobe.com/).
+1. Aanmelden bij [Adobe Experience Platform](https://experience.adobe.com/).
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-1.png)
 
@@ -32,31 +32,31 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-3.png)
 
-1. Klik **Catalogus**.
+1. Klikken **Catalogus**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-4.png)
 
-1. Zoek de tegel Marketo Engage en klik **Segmenten activeren**.
+1. De tegel Marketo Engage zoeken en klikken **Segmenten activeren**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-5.png)
 
-1. Klik **Nieuwe bestemming configureren**.
+1. Klikken **Nieuwe bestemming configureren**.
 
    PICC
 
-1. Klik onder Accounttype op het keuzerondje **Nieuw account**. Voer uw Marketo-gegevens in en klik op **Verbinding maken met doel**.
+1. Klik onder Accounttype op de knop **Nieuw account** keuzerondje. Voer uw Marketo-gegevens in en klik op **Verbinden met doel**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-6.png)
 
    >[!NOTE]
    >
-   >U kunt uw Munchkin-id vinden door naar **Admin** > **Munchkin** te gaan (het is ook onderdeel van uw Marketo-URL wanneer u zich hebt aangemeld). Client-id/geheim die u nodig hebt, kan de voorwaarden boven aan dit artikel volgen.
+   >Je kunt je Munchkin-id vinden door naar **Beheer** > **Munchkin** (het maakt ook deel uit van uw Marketo-URL wanneer u zich hebt aangemeld). Client-id/geheim die u nodig hebt, kan de voorwaarden boven aan dit artikel volgen.
 
-1. &quot;Verbonden&quot; moet onder uw referenties worden weergegeven. Klik **Volgende** in de hogere juiste hoek.
+1. &quot;Verbonden&quot; moet onder uw referenties worden weergegeven. Klikken **Volgende** in de rechterbovenhoek.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-7.png)
 
-1. Voer een **Naam** en een _optionele_ Beschrijving in. Klik **Doel maken**.
+1. Voer een **Naam** en _optioneel_ Beschrijving. Klikken **Doel maken**.
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-8.png)
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-9.png)
 
@@ -76,7 +76,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
    >
    >Segmenten naar statische lijsten zijn 1:1. Als u hier veelvoudige segmenten kiest, zult u elk segment aan een gespecificeerde statische lijst op het lusje van het Programma van het Segment moeten in kaart brengen.
 
-1. Klik **Nieuwe toewijzing toevoegen**.
+1. Klikken **Nieuwe toewijzing toevoegen**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-11.png)
 
@@ -84,15 +84,15 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-12.png)
 
-1. Kies het keuzerondje **Kenmerken selecteren** of **Naamruimte selecteren** (in dit voorbeeld kiezen we Kenmerken).
+1. Kies een van de **Kenmerken selecteren** of **Identiteitsnaamruimte selecteren** keuzerondje (in dit voorbeeld kiezen we Kenmerken).
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-13.png)
 
    >[!NOTE]
    >
-   >Als u **Identiteitsnaam naamruimte** kiest, gaat u na het maken van de selectie verder met stap 15.
+   >Als u **Identiteitsnaamruimte selecteren** Ga na het maken van de selectie verder met Stap 15.
 
-1. Kies het relevante veld dat het e-mailadres bevat dat de gebruiker identificeert. Klik **Selecteer** wanneer gereed.
+1. Kies het relevante veld dat het e-mailadres bevat dat de gebruiker identificeert. Klikken **Selecteren** wanneer gereed.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-14.png)
 
@@ -106,30 +106,38 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-16.png)
 
-1. Kies uw Gebied van het Doel en klik **Select**.
+1. Kies **Identiteitsnaamruimte selecteren**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-17.png)
 
-1. Klik **Volgende**.
+   >[!IMPORTANT]
+   >
+   >Toewijzingskenmerken zijn optioneel. E-mail en/of ECID toewijzen via de **Naamruimte van identiteit** -tab is het belangrijkste om ervoor te zorgen dat de persoon in Marketo gelijk wordt behandeld. Toewijzingse-mail zorgt voor de hoogste overeenkomende snelheid.
+
+1. Kies tussen ECID of E-mail. In dit voorbeeld kiezen we **E-mail**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-18.png)
 
-   >[!NOTE]
-   >
-   >De identiteiten worden gebruikt om gelijken in Marketo te zoeken. Als een gelijke wordt gevonden, wordt de persoon toegevoegd aan de statische Lijst. Als er geen overeenkomst wordt gevonden, worden deze personen verwijderd (dus niet gemaakt in Marketo).
-
-1. _Maak in Marketo_ een statische lijst of zoek en selecteer een lijst die u al hebt gemaakt. Kopieer de toewijzing-id van het einde van de URL.
+1. Klikken **Volgende**.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-19.png)
 
    >[!NOTE]
    >
-   >Voor de beste resultaten moet de lijst waarnaar u verwijst in Marketo leeg zijn.
+   >De identiteiten worden gebruikt om gelijken in Marketo te zoeken. Als een gelijke wordt gevonden, wordt de persoon toegevoegd aan de statische Lijst. Als er geen overeenkomst wordt gevonden, worden deze personen verwijderd (dus niet gemaakt in Marketo).
 
-1. Voer in Adobe Experience Platform de id in die u zojuist hebt gekopieerd. Kies uw begindatum. Personen worden voortdurend gesynchroniseerd tot de gekozen einddatum. Voor een onbepaalde synchronisatie laat u de einddatum leeg. Klik **Volgende** wanneer gereed.
+1. _In Marketo_, maakt u een statische lijst of zoekt en selecteert u een lijst die u al hebt gemaakt. Kopieer de toewijzing-id van het einde van de URL.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-20.png)
 
-1. Bevestig uw wijzigingen en klik op **Voltooien**.
+   >[!NOTE]
+   >
+   >Voor de beste resultaten moet de lijst waarnaar u verwijst in Marketo leeg zijn.
+
+1. Voer in Adobe Experience Platform de id in die u zojuist hebt gekopieerd. Kies uw begindatum. Personen worden voortdurend gesynchroniseerd tot de gekozen einddatum. Voor een onbepaalde synchronisatie laat u de einddatum leeg. Klikken **Volgende** wanneer gereed.
 
    ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-21.png)
+
+1. Bevestig uw wijzigingen en klik op **Voltooien**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-to-a-marketo-static-list-22.png)
