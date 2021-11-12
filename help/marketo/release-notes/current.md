@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
 workflow-type: tm+mt
-source-wordcount: '1088'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
@@ -76,6 +76,8 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 ## Aankondigingen {#announcements}
 
 **Loodafleiding koppelen/Munchkin Bèta 161-update**: Op 7 september 2021 begon versie 161 van Munchkin uit te rollen tot 10% van de abonnementen met Münchkin Beta ingeschakeld, gevolgd door 50% op 16 september en 100% op 30 september. Deze wijziging heeft invloed op Marketo Engage-landingspagina&#39;s en op de versie van het bestand munchkin-beta.js die wordt gebruikt voor externe bestemmingspagina&#39;s die worden geladen van abonnementen waarop de recente versie is geïmplementeerd. In deze versie wordt de methode Munchkin Associate Lead volledig vervangen. Deze functie maakt het mogelijk dat de gegevens van een persoon worden verzonden naar een Marketo Engage-abonnement en de bijbehorende webbrowsergeschiedenis met een bekende persoonrecord. Associate Lead wordt verwijderd ten gunste van modernere en veiligere alternatieven, zoals de Forms JS API, de Form Submit API en de Associate Lead REST API. [Meer informatie over deze veroudering vindt u hier](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+
+**Update van Verkoopverbinding**: Door een recente wijziging in de gebruikersinterface van Sales Connect zijn sommige modaliteiten in Salesforce afgesloten. Voer een [pakketupdate](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
 
 **_Webinar productrelease_**
 

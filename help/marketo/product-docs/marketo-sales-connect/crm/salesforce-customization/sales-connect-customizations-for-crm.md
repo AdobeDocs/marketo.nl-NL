@@ -2,38 +2,37 @@
 unique-page-id: 14745793
 description: Aanpassingen voor verkoop Connect voor CRM - Marketo Docs - Productdocumentatie
 title: Aanpassingen voor verkoop Connect voor CRM
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
+source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
 
-
 # Aanpassingen voor verkoop Connect voor CRM {#sales-connect-customizations-for-crm}
 
-De onderstaande velden en knoppen worden gemaakt met de metagegevens-API in Salesforce CRM. Zodra de gebieden worden gecreeerd, moeten de beheerders de paginalay-outs in hun CRM vormen om hen bloot te stellen. Instructies vindt u [hier](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
+De onderstaande velden en knoppen worden gemaakt met de metagegevens-API in Salesforce CRM. Zodra de gebieden worden gecreeerd, moeten de beheerders de paginalay-outs in hun CRM vormen om hen bloot te stellen. Instructies zijn te vinden [hier](https://docs.marketo.com/display/docs/assets/marketo-sales-engage-for-salesforce-installation-and-success-guide.pdf).
 
 >[!NOTE]
 >
 >Dit is van invloed op zowel ToutApp- als Sales Connect-klanten.
 
-## Hoe te om Aanpassingen in Salesforce {#how-to-install-customizations-in-salesforce} te installeren
+## Hoe te om Aanpassingen in Salesforce te installeren {#how-to-install-customizations-in-salesforce}
 
 1. Klik in Sales Connect op het tandwielpictogram en selecteer **Instellingen**.
 
    ![](assets/one.png)
 
-1. Selecteer **Salesforce** onder Beheerinstellingen.
+1. Selecteer onder Beheerinstellingen de optie **Salesforce**.
 
    ![](assets/two.png)
 
-1. Klik **Aanpassingen van de Verkoop van Marketo verbinden**.
+1. Klikken **Marketo Sales Connect-aanpassingen**.
 
    ![](assets/three.png)
 
-1. Klik **Verbinding maken met Salesforce**.
+1. Klikken **Verbinding maken met Salesforce**.
 
    ![](assets/four.png)
 
@@ -41,9 +40,41 @@ De onderstaande velden en knoppen worden gemaakt met de metagegevens-API in Sale
 
    ![](assets/five.png)
 
+## Salesforce-aanpassing bijwerken {#update-salesforce-customization}
+
+De updates aan het pakket van de Aanpassing Salesforce zullen verhogingen en insectenmoeilijke situaties omvatten. Volg onderstaande stappen om te controleren of er updates beschikbaar zijn of om deze uit te voeren.
+
+>[!NOTE]
+>
+>**Beheerdersmachtigingen vereist.**
+
+1. In de [webtoepassing](https://www.toutapp.com), klikt u op het tandwielpictogram en selecteert u **Instellingen**.
+
+   ![](assets/sales-connect-customizations-for-crm-6.png)
+
+1. Klik onder Beheerinstellingen op **Salesforce**.
+
+   ![](assets/sales-connect-customizations-for-crm-7.png)
+
+1. Op de Customization Card voor verkoop Connect wordt weergegeven of er updates beschikbaar zijn. Klikken **Aanpassingen bijwerken**.
+
+   ![](assets/sales-connect-customizations-for-crm-8.png)
+
+1. Klikken **Upgrade**.
+
+   ![](assets/sales-connect-customizations-for-crm-9.png)
+
+1. Wacht tot de updates zijn geïnstalleerd. Afhankelijk van het aantal versienummers dat u nodig hebt, varieert de installatietijd.
+
+   ![](assets/sales-connect-customizations-for-crm-10.png)
+
+Zodra u klaar bent, wordt op uw kaart vermeld dat uw aanpassingen voor Verkoopverbinding up-to-date zijn.
+
+![](assets/sales-connect-customizations-for-crm-11.png)
+
 ## Aangepaste activiteitsvelden {#custom-activity-fields}
 
-Marketo detecteert het maken van de nieuwe velden en voert vervolgens een eenmalige back-up van gegevens uit, wijst een nieuwe toewijzing toe en synchroniseert waarden voortdurend alleen in de velden **new**. Oude velden worden niet bijgewerkt.
+Marketo detecteert het maken van de nieuwe velden en voert vervolgens een eenmalige back-up van gegevens uit, stelt een nieuwe toewijzing in en synchroniseert waarden voortdurend in de **new** alleen velden. Oude velden worden niet bijgewerkt.
 
 | **Veldnaam** | **Beschrijving** |
 |---|---|
@@ -61,7 +92,7 @@ Marketo detecteert het maken van de nieuwe velden en voert vervolgens een eenmal
 | URL MSE-e-mail | Als u op deze URL klikt, wordt Command Center in MSE geopend en wordt het tabblad Historie van Personendetails weergegeven waarop u het verzonden e-mailbericht kunt zien. |
 | MSE-e-mail weergegeven | Logs a checkmark wanneer de ontvanger een e-mail bekijkt. |
 
-## Logboekvelden opheffen {#roll-up-logging-fields}
+## Logboekvelden oprollen {#roll-up-logging-fields}
 
 <table> 
  <colgroup> 
@@ -103,7 +134,7 @@ Marketo detecteert het maken van de nieuwe velden en voert vervolgens een eenmal
   </tr> 
   <tr> 
    <td colspan="1">MSE - Huidige verkoopcampagne</td> 
-   <td colspan="1">Logs name van de campagne MSE de lood/het contact een lid van is.</td> 
+   <td colspan="1">Logs name van de campagne MSE de lood/het contact is een lid van.</td> 
   </tr> 
   <tr> 
    <td colspan="1">MSE - Laatste verkoopbetrokkenheid</td> 
@@ -125,7 +156,7 @@ Marketo detecteert het maken van de nieuwe velden en voert vervolgens een eenmal
 | Naar MSE duwen | Zet contact op van Salesforce naar MSE. |
 | Vraag met MSE | Maak de vraag van de Verkoop van Salesforce. |
 
-## Knoppen voor handelingen met opsommingstekens {#bulk-action-buttons}
+## Knoppen Handeling bulksgewijs {#bulk-action-buttons}
 
 | **Knopnaam** | **Beschrijving** |
 |---|---|
