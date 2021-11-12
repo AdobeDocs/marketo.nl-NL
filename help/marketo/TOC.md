@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: fd4becf77135be7fc80156c8fde56f29a0aa38d0
+source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
 workflow-type: tm+mt
-source-wordcount: '7981'
+source-wordcount: '8041'
 ht-degree: 0%
 
 ---
@@ -98,7 +98,7 @@ ht-degree: 0%
             + [SEO - Voorkeuren voor e-mailwaarschuwingen instellen](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
          + Trefwoorden {#keywords}
             + [SEO - Trefwoorden toevoegen](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-            + [SEO - Kolommen toevoegen/verwijderen uit uw trefwoordenweergave](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
+            + [SEO - Kolommen toevoegen/verwijderen uit de trefwoordenweergave](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
             + [SEO - Trefwoorden toevoegen/verwijderen uit een lijst](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
             + [SEO - Trefwoordresultaten exporteren](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
             + [SEO - Trefwoordresultaten filteren](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
@@ -1269,6 +1269,25 @@ ht-degree: 0%
             + [Mijn dynamische velden worden niet ingevuld](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [Verwijzing zelf in een dynamisch veld](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
+      + Handelingen {#actions}
+         + Beheer {#admin}
+            + [Geblokkeerde domeinen](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
+            + [Inhoud vergrendelen](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
+            + [Een team maken](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [Aangepast domein bijhouden instellen](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
+            + [Gebruikers en beheerders uitnodigen](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [Instellingen voor delen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+         + E-mail {#email}
+            + Opdrachtcentrum {#command-center}
+               + [Overzicht van geavanceerd zoeken](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
+               + [Taken toewijzen aan teamleden](product-docs/marketo-sales-insight/actions/email/command-center/assigning-tasks-to-team-members.md)
+               + [Overzicht van Command Center](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
+               + [E-mailkolommen en indeling van e-mailpagina](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
+               + [Snelle handelingen in het Command Center](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+         + E-mailinstellingen {#email-settings}
+            + [Uw e-mail verifiëren](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + Verstuur een e-mail {#send-a-sales-email}
+            + [Overzicht van e-mailtracking](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + MSI gebruiken {#using-msi}
          + [Inkomende e-mail van uw leads aanmelden in Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome-insteekmodule {#msi-chrome-plugin}
@@ -1538,7 +1557,7 @@ ht-degree: 0%
             + [Advanced Program Reporting Overview](product-docs/reporting/revenue-cycle-analytics/program-analytics/advanced-program-reporting-overview.md)
             + [Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Landen opsomt](product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)
             + [Een programmaanalyse klonen](product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
-            + [Kanaaleffectiviteit vergelijken met de programmaanalyse](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+            + [Kanaaleffectiviteit vergelijken met de functie Program Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
             + [De doeltreffendheid van het Programma met de Analysator van het Programma vergelijken](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
             + [Een programmaanalyse maken](product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
             + [Programma- en kanaalgegevens verkennen met de Program Analyzer](product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
