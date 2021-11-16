@@ -1,23 +1,26 @@
 ---
 unique-page-id: 7504893
-description: Google AdWords toevoegen als een opstartservice met een beheeraccount - Marketo Docs - Productdocumentatie
+description: Voeg Google AdWords als Lanceerpuntdienst met een Rekening van de Manager toe - Marketo Docs - de Documentatie van het Product
 title: Google AdWords toevoegen als opstartservice met een beheerdersaccount
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: ab8eb044b89c925accc3b6a4ac4def53e3927321
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Google AdWords toevoegen als een opstartservice met een beheeraccount {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
+# Google AdWords toevoegen als opstartservice met een beheerdersaccount {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Koppel uw Google AdWords-account aan Marketo om offline conversiegegevens automatisch te uploaden van Marketo naar Google AdWords. Dan, van AdWords UI, zult u gemakkelijk kunnen zien welke klikken in gekwalificeerde lood, kansen en nieuwe klanten (of welke opbrengststadia u wilt volgen) nadat u [douanekolommen](https://support.google.com/adwords/answer/3073556) in AdWords toevoegt. Deze informatie wordt niet weergegeven in de gebruikersinterface van Marketo.
+Koppel uw Google AdWords-account aan Marketo om automatisch offline conversiegegevens te uploaden van Marketo naar Google AdWords. Dan, van AdWords UI, zult u gemakkelijk kunnen zien welke klikken in gekwalificeerde lood, kansen en nieuwe klanten (of welke opbrengststadia u wilt volgen) na u resulteerden  [aangepaste kolommen toevoegen](https://support.google.com/adwords/answer/3073556) in AdWords. Deze informatie wordt niet weergegeven in de gebruikersinterface van Marketo.
 
-Als u meerdere Google Adwords-accounts hebt, kunt u deze integreren met Marketo met een [Google AdWords Manager-account](https://www.google.com/adwords/manager-accounts/) (voorheen bekend als My Client Center).
+Als u meerdere Google Adwords-accounts hebt, kunt u een [Google AdWords Manager-account](https://www.google.com/adwords/manager-accounts/) (voorheen bekend als Mijn Client Center) om deze te integreren met Marketo.
 
-Meer informatie over de functie voor het importeren van offlineconversies van Google](https://support.google.com/adwords/answer/2998031?hl=en).[
+Meer informatie over [De functie voor het importeren van offlineconversies van Google](https://support.google.com/adwords/answer/2998031?hl=en).
+
+>[!AVAILABILITY]
+>
+>Niet alle klanten hebben deze functie aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
 
 >[!NOTE]
 >
@@ -25,25 +28,25 @@ Meer informatie over de functie voor het importeren van offlineconversies van Go
 
 >[!NOTE]
 >
->U kunt een [stand-alone Google AdWords-account ook integreren als Launchpoint-service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md).
+>U kunt ook een [stand-alone Google AdWords-account als Launchpoint-service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md).
 
-1. Ga naar **Admin** sectie.
+1. Ga naar de **Beheer** sectie.
 
    ![](assets/login-admin-1.png)
 
-1. Selecteer **LaunchPoint**.
+1. Selecteren **LaunchPoint**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecteer **Nieuw** en **Nieuwe service**.
+1. Selecteren **Nieuw** en **Nieuwe service**.
 
    ![](assets/image2015-2-23-14-3a54-3a50.png)
 
-1. Voer een weergavenaam in en selecteer **Google AdWords**.
+1. Geef een weergavenaam op en selecteer **Google AdWords**.
 
    ![](assets/new-service-google-1.png)
 
-1. Selecteer **Marketo autoriseren**.
+1. Selecteren **Marketo autoriseren**.
 
    >[!NOTE]
    >
@@ -55,19 +58,19 @@ Meer informatie over de functie voor het importeren van offlineconversies van Go
 
    ![](assets/image2015-2-23-15-3a31-3a16.png)
 
-1. Selecteer **Accepteren**.
+1. Selecteren **Accepteren**.
 
    ![](assets/image2015-2-23-16-3a32-3a45.png)
 
-1. De status wordt weergegeven als **Succes**. Selecteer **Volgende**.
+1. De status wordt weergegeven als **Succes**. Selecteren **Volgende**.
 
    ![](assets/image2015-2-26-20-3a55-3a21.png)
 
-1. Upload uw offlineconversies van Marketo naar Google AdWords **Weekly** of **Daily**.
+1. Upload uw offlineconversies van Marketo naar Google AdWords **Wekelijks** of **Dagelijks**.
 
    ![](assets/image2015-3-27-14-3a7-3a45.png)
 
-1. Kenmerkomzetting in **Klik eerst** of **Laatste klik**.
+1. Kenmerken omzetten in de **Eerste klik** of **Laatste klik**.
 
    | Type | Definitie |
    |---|---|
@@ -78,13 +81,13 @@ Meer informatie over de functie voor het importeren van offlineconversies van Go
 
    >[!NOTE]
    >
-   >[Deze functie werkt alleen als Automatisch ](https://support.google.com/adwords/answer/1752125?hl=en) labelen is geselecteerd. Het moet worden geactiveerd binnen AdWords.
+   >[Automatisch labelen](https://support.google.com/adwords/answer/1752125?hl=en) Deze functie werkt alleen als u deze selecteert. Het moet worden geactiveerd binnen AdWords.
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/image2015-3-27-14-3a11-3a31.png)
 
-1. Deselecteer accounts die u niet wilt bijwerken. Klik **Maken**.
+1. Deselecteer accounts die u niet wilt bijwerken. Klikken **Maken**.
 
    ![](assets/image2015-3-27-14-3a12-3a51.png)
 
@@ -92,4 +95,4 @@ Meer informatie over de functie voor het importeren van offlineconversies van Go
 
    >[!MORELIKETHIS]
    >
-   >[Google AdWords-conversies in het inkomstenmodel instellen met een beheerdersaccount](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
+   >[Conversies van Google AdWords in het inkomstenmodel instellen met een beheerdersaccount](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
