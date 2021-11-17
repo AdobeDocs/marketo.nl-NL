@@ -3,9 +3,9 @@ description: Aangepaste domeintracering instellen - Marketo Docs - Productdocume
 title: Aangepast domein bijhouden instellen
 hide: true
 hidefromtoc: true
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 07984499064e42b9b4f1cb21881a78dd687d9858
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,6 @@ ht-degree: 0%
 
 Wij geven u de optie om het volgen van het douanedomein voor uw verbindingen te vormen, zodat wanneer iemand over een verbinding beweegt, zal het lezen `go.yourcompany.com` in plaats van `go.toutapp.com`.
 
-Uw IT-beheerder moet de stappen volgen die in onze [instellingenpagina](https://toutapp.com/custom_tracking_domain).
+Uw IT-beheerder moet de stappen volgen die in onze [instellingenpagina](https://toutapp.com/next#settings/admin/tracking).
 
 Zodra u deze instelling hebt, wordt elke koppeling die u in uw e-mail hebt, gevoegd op lijst van gewenste personen als weergegeven `go.yourcompany.com`.
