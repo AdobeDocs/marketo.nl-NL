@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
+source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
 workflow-type: tm+mt
-source-wordcount: '8047'
+source-wordcount: '8050'
 ht-degree: 0%
 
 ---
@@ -133,7 +133,7 @@ ht-degree: 0%
          + [Controleren welke machtigingen u hebt](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [Minimale systeemvereisten](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
-         + [Ondersteunde browsers](product-docs/administration/setup-administration/supported-browsers.md)
+         + [Supported Browsers](product-docs/administration/setup-administration/supported-browsers.md)
          + [Algemene regel voor formuliervalidatie](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + Aanvullende integratie {#additional-integrations}
          + [Adobe Connect toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
@@ -144,13 +144,13 @@ ht-degree: 0%
          + [Munchkin-trackingcode toevoegen aan uw website](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
          + [ON24 toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-on24-as-a-launchpoint-service.md)
-         + [ReadyTalk toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
+         + [Add ReadyTalk as a LaunchPoint Service](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [Eén aanmelding toevoegen aan een portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [WebEx toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
-         + [Workplace door Facebook toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
+         + [Add Workplace By Facebook as a LaunchPoint Service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
          + [Zoomen toevoegen als een opstartpuntservice](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
          + [Uw SOAP API-instellingen configureren](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
-         + [BrightStorTALK verbinden met Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
+         + [Connect BrightTALK to Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
          + [Een aangepaste service maken voor gebruik met de ReST-API](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
          + [Webhaak maken](product-docs/administration/additional-integrations/create-a-webhook.md)
          + [Creeer een Lijst van gewenste personen voor IP-Gebaseerde Toegang API](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
@@ -560,21 +560,21 @@ ht-degree: 0%
             + [Synchronisatiestatus](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
             + [Overzicht Campagne Sync](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/campaign-sync-overview.md)
             + [Campagne synchroniseren inschakelen](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
-         + Details filter Aangepaste dynamiek synchroniseren {#custom-dynmaics-sync-filter-details}
+         + Custom Dynamics Sync Filter Details {#custom-dynmaics-sync-filter-details}
             + [Een filter voor aangepaste dynamicasynchronisatie maken](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)
             + [Aangepaste filterregels voor synchronisatie voor een e-mailadres](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
-            + [Filter Microsoft Dynamics Sync: Samenvoegen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
-            + [Filter Microsoft Dynamics Sync: Kwalificeren](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
+            + [Microsoft Dynamics Sync Filter: Merge](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
+            + [Microsoft Dynamics Sync Filter: Qualify](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
             + [Een standaardvoorvoegsel voor een aangepast veld instellen](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
-         + [Registreer een app bij Azure om uw client-id/app-id op te halen](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
+         + [Register an App with Azure to Acquire Your Client ID/App ID](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [Een lead of contactpersoon verwijderen](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Salesforce Sync {#salesforce-sync}
-         + [Werken met Salesforce Sync](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+         + [Understanding the Salesforce Sync](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
          + Instellen {#setup}
             + Enterprise/Unlimited Edition {#enterprise-unlimited-edition}
                + [Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Enterprise/Onbeperkt)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
                + [Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
-               + [Stap 3 van 3: Connect Marketo en Salesforce (Enterprise/Onbeperkt)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+               + [Step 3 of 3: Connect Marketo and Salesforce (Enterprise/Unlimited)](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
             + Professional Edition {#professional-edition}
                + [Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
                + [Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Professional)](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
@@ -799,16 +799,16 @@ ht-degree: 0%
                + [Sjabloon 8B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8b.md)
                + [Template 8C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8c.md)
                + [Sjabloon 8D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8d.md)
-               + [Sjabloon 8E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8e.md)
-               + [Sjabloon 8F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8f.md)
+               + [Template 8E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8e.md)
+               + [Template 8F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8f.md)
                + [Sjabloon 8G](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-8g.md)
                + [Template 9A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9a.md)
                + [Template 9B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9b.md)
                + [Template 9C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9c.md)
-               + [Sjabloon 9D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9d.md)
-               + [Sjabloon 9E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9e.md)
+               + [Template 9D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9d.md)
+               + [Template 9E](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9e.md)
                + [Template 9F](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-9f.md)
-               + [Sjabloon 10A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10a.md)
+               + [Template 10A](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10a.md)
                + [Sjabloon 10B](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10b.md)
                + [Sjabloon 10C](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10c.md)
                + [Sjabloon 10D](product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10d.md)
@@ -1029,7 +1029,7 @@ ht-degree: 0%
             + [Overschakelen naar e-maileditor 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
          + Functies in de Editor {#functions-in-the-editor}
             + [Doorsturen naar een vriendenkoppeling in e-mails](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
-            + [Een agendagebeurtenis (.ics) opnemen in een e-mail](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+            + [Include a Calendar Event (.ics) in an Email](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
             + [Een e-mail operationeel maken](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
             + [Een voorbeeld van een e-mailbericht weergeven met dynamische inhoud](product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
             + [E-mails verzenden vanuit de eigenaar van de lead](product-docs/email-marketing/general/functions-in-the-editor/send-emails-from-the-lead-owner.md)
@@ -1043,21 +1043,21 @@ ht-degree: 0%
             + [HTML van e-mail downloaden](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
             + [Een HTML van een e-mail bewerken](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
             + E-mailtests - Champion-Challenger {#email-tests-champion-challenger}
-               + [Een e-mailkampioen/challenger toevoegen](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+               + [Add an Email Champion/Challenger](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [Champion/Challenger: Uw e-mailtest goedkeuren](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
                + [Champion/Challenger: Rapportwaarschuwingen configureren](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
                + [Champion/Challenger: Een Champion declareren](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
                + [Champion/Challenger: Champion-criteria definiëren](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
                + [Champion/Challenger: Een e-mailtest negeren](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
                + [Champion/Challenger: Van adres](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-from-address.md)
-               + [Champion/Challenger: Onderwerpregel](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
-               + [Champion/Challenger: Hele e-mails](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
-         + Tokens gebruiken {#using-tokens}
-            + [Een systeemtoken toevoegen als een koppeling in een e-mailbericht](product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)
-            + [Een e-mailscripttoken toevoegen aan uw e-mail](product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
+               + [Champion/Challenger: Subject Line](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-subject-line.md)
+               + [Champion/Challenger: Whole Emails](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-whole-emails.md)
+         + Using Tokens {#using-tokens}
+            + [Add a System Token as a Link in an Email](product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)
+            + [Add an Email Script Token to Your Email](product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email.md)
             + [Tokens toevoegen aan een e-mailkoppeling](product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md)
             + [Een e-mailscripttoken maken](product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)
-            + [Verklarende woordenlijst systeemtokens](product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)
+            + [System Tokens Glossary](product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md)
             + [Het token voor waarschuwinggegevens verzenden gebruiken](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [URL&#39;s gebruiken in Mijn tokens](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [E-mail CC](product-docs/email-marketing/general/email-cc.md)
@@ -1218,28 +1218,28 @@ ht-degree: 0%
          + [Uw Marketo-verbinding instellen](product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md)
          + [Toegang verlenen aan gebruikers](product-docs/marketo-sales-connect/marketo/granting-access-to-users.md)
          + [Interesserende momenten in Sales Connect](product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md)
-         + [Een campagne zichtbaar maken voor Connect-gebruikers](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+         + [Make a Campaign Visible to Sales Connect Users](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [Verklarende woordenlijst Verkoopactiviteiten](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
-         + [Triggers en filters voor verkoopactiviteiten](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + Mensen {#people}
+         + [Sales Activity Triggers and Filters](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
+      + People {#people}
          + [Persoonsgegevens weergeven](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect en GDPR-compatibiliteit](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
          + Contacten beheren {#managing-contacts}
             + [Bulkacties op personen](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
-            + [Contactpersonen maken en verwijderen](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
+            + [Creating and Deleting Contacts](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [Groepstypen](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
-            + [Hoe Verkoop Connect het uit-duwen van e-mail behandelt](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
+            + [How Sales Connect Handles Email De-Duping](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
             + [Contacten importeren via CSV](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [Groepen beheren](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
-            + [Kolommen met personenpagina&#39;s](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
+            + [People Page Columns](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
       + Telefoonnummer {#phone}
          + [De vraag registreert niet aan Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
          + [Niet aanmelden bij activiteitenoverzicht](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Niet aangemeld bij Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Schakel Call Recording in](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
          + [Hoe te om de Uitkomsten van de Vraag in Telefoon van de Verkoop aan te passen](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
-         + [Telefoonnummer internationale oproep](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
-         + [Lokale aanwezigheid op verkooptelefoon](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
+         + [Sales Phone International Calling](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
+         + [Sales Phone Local Presence](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
          + [Overzicht van verkooptelefonie](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)
          + [De Opnamen van de Vraag van het aandeel met Uw Team](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [Instellingen voor tweeledige toestemming](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
@@ -1277,6 +1277,7 @@ ht-degree: 0%
             + [Aangepast domein bijhouden instellen](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Gebruikers en beheerders uitnodigen](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Instellingen voor delen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+            + [Toegangsgegevens gebruiker](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + E-mail {#email}
             + Opdrachtcentrum {#command-center}
                + [Overzicht van geavanceerd zoeken](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1659,10 +1660,10 @@ ht-degree: 0%
       + Sjablonen gebruiken {#using-templates}
          + [Uw campagne opslaan als een sjabloon](product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
          + [Webcampagnes maken met sjablonen](product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)
-      + Websegmenten gebruiken {#using-web-segments}
-         + [Een basiswebsegment maken](product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
-         + [Een segment maken met een statische lijst](product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)
-         + [Een segment maken met bekende persoongegevens](product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+      + Using Web Segments {#using-web-segments}
+         + [Create a Basic Web Segment](product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+         + [Create a Segment Using a Static List](product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)
+         + [Create a Segment Using Known Person Data](product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
          + [Webcampagnes zoeken die een specifiek segment gebruiken](product-docs/web-personalization/using-web-segments/find-web-campaigns-that-are-using-a-specific-segment.md)
          + [Uw segment labelen](product-docs/web-personalization/using-web-segments/label-your-segment.md)
          + [Persoonlijke gegevens beheren](product-docs/web-personalization/using-web-segments/manage-person-data.md)
