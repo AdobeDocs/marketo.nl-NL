@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 115b6e97978778a1d1e13478adf6fee625aa5257
+source-git-commit: 179e1ff62f5f76de1d3c9b47687956dc50ee66e4
 workflow-type: tm+mt
-source-wordcount: '8041'
+source-wordcount: '8047'
 ht-degree: 0%
 
 ---
@@ -1273,7 +1273,7 @@ ht-degree: 0%
          + Beheer {#admin}
             + [Geblokkeerde domeinen](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Inhoud vergrendelen](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
-            + [Een team maken](product-docs/marketo-sales-insight/actions/admin/create-a-team.md)
+            + [Een team maken](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [Aangepast domein bijhouden instellen](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Gebruikers en beheerders uitnodigen](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Instellingen voor delen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
@@ -1286,6 +1286,8 @@ ht-degree: 0%
                + [Snelle handelingen in het Command Center](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
          + E-mailinstellingen {#email-settings}
             + [Uw e-mail verifiëren](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+         + Marketo {#marketo}
+            + [Marketo-toegang verlenen aan gebruikers](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Verstuur een e-mail {#send-a-sales-email}
             + [Overzicht van e-mailtracking](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
       + MSI gebruiken {#using-msi}
