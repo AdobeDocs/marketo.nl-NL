@@ -3,9 +3,9 @@ description: Sjablonen beheren - Marketo Docs - Productdocumentatie
 title: 'Sjablonen beheren '
 hide: true
 hidefromtoc: true
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: d3e8e85bd8b428b2490a44e44fdab9d58784843d
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,31 @@ ht-degree: 0%
 >[!TIP]
 >
 >Typ altijd rechtstreeks tekst in de sjabloon of kopieer tekst uit een normale teksteditor (bijvoorbeeld Kladblok of TextEdit). Het kopiëren en plakken vanuit een RTF-editor (bijvoorbeeld MS Word) kan leiden tot onregelmatigheden in de opmaak.
+
+## Sjabloondetails weergeven {#view-template-details}
+
+Het gebied Sjabloondetails bevat meerdere tabbladen.
+
+![](assets/manage-templates-4a.png)
+
+<table>
+ <tr>
+  <td><strong>Sjabloon</strong></td>
+  <td>Reviseren en bewerken, criteria instellen om van de sjabloon een aanbevolen sjabloon te maken, notities toevoegen</td>
+ </tr>
+ <tr>
+  <td><strong>Analyse</strong></td>
+  <td>Evalueer de betrokkenheidsanalyse voor de sjabloon. Voer een gefilterde zoekopdracht uit.</td>
+ </tr>
+ <tr>
+  <td><strong>E-mails</strong></td>
+  <td>Alle e-mails bekijken die met deze template zijn verzonden. Voer een gefilterde zoekopdracht uit.</td>
+ </tr>
+ <tr>
+  <td><strong>Campagnes</strong></td>
+  <td>Zie in welke campagnes de sjabloon wordt gebruikt.</td>
+ </tr>
+</table>
 
 ## Een sjabloon delen {#share-a-template}
 
@@ -92,9 +117,17 @@ Van de **Weergave** vervolgkeuzelijst, kunt u kiezen om te zien: alle sjablonen,
 
 Sjablonen archiveren om uw verkoopinhoud overzichtelijk en gefocust te houden zonder dat er sjabloongegevens verloren gaan.
 
-Schakel het selectievakje naast een sjabloon in en klik op **Archief**.
+1. Schakel het selectievakje naast de sjabloon die u wilt archiveren in.
 
-PICC
+   ![](assets/manage-templates-14.png)
+
+1. Klikken **Archief**.
+
+   ![](assets/manage-templates-15.png)
+
+1. Klikken **Archief** ter bevestiging.
+
+   ![](assets/manage-templates-16.png)
 
 >[!NOTE]
 >
@@ -110,14 +143,14 @@ Voer de onderstaande stappen uit om een sjabloon te verwijderen.
 >
 >Als u een sjabloon verwijdert, worden ook ALLE bijgehouden en bijbehorende analyses verwijderd.
 
-1. Selecteer de sjabloon die u wilt verwijderen.
+1. Schakel het vakje naast de sjabloon die u wilt verwijderen in.
 
-PICC
+   ![](assets/manage-templates-17.png)
 
-1. Klik op de vervolgkeuzelijst in het menu rechtsboven en klik vervolgens op **Verwijderen**.
+1. Klikken **Verwijderen**.
 
-PICC
+   ![](assets/manage-templates-18.png)
 
 1. Klikken **Verwijderen** ter bevestiging.
 
-PICC
+   ![](assets/manage-templates-19.png)
