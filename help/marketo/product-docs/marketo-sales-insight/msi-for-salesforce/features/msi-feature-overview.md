@@ -3,9 +3,9 @@ unique-page-id: 37356893
 description: Overzicht MSI-functies - Marketo Docs - Productdocumentatie
 title: Overzicht van MSI-functies
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Het deelvenster MSI Visualforce bevat de volgende functies:
 * Tabs
 
    * [Insights-dashboard](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * Interessant moment
+   * Interesserende momenten
    * Webactiviteit
    * E-mail
    * Score
@@ -139,7 +139,7 @@ Salesforce Classic: Voeg toe aan Controlelijst, voeg aan de Campagne van Marketo
 
 * Beste bieten
 
-   * Dit omvat de mogelijkheid weergaven te maken en te bewerken. Mogelijkheid om de beste basisinstellingen te verbergen afhankelijk van de configuratie van de optie Standaard verbergen op de Marketo-configuratiepagina
+   * Dit omvat de mogelijkheid weergaven te maken en te bewerken. Mogelijkheid om de beste testbestanden te verbergen afhankelijk van de configuratie van de optie Standaard verbergen op de Marketo-configuratiepagina
    * Kolommen - Naam, Account, Laatste interessant moment, Statuskoptekst, Betrokkenheid (sterren en vlammen), Verbergen
 
 * Mijn controlelijst
@@ -195,4 +195,7 @@ Marketo Sales Insight wordt opgeslagen per taal. Dus als u wilt dat het voor mee
 
 >[!NOTE]
 >
->Een contact/lood moet in de Standaardverdeling zijn om aan de Controlelijst te worden toegevoegd.
+>* Een contact/lood moet in de Standaardverdeling zijn om aan de Controlelijst te worden toegevoegd.
+>
+>* Het pakket MSI Salesforce ondersteunt geen aangepaste weergave met afhankelijke velden.
+

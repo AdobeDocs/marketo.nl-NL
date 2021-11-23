@@ -3,22 +3,22 @@ description: Overzicht van Command Center - Marketo Docs - Productdocumentatie
 title: Overzicht van Command Center
 hide: true
 hidefromtoc: true
-source-git-commit: c65b641eeb6fad4e3722e2e50eb36bc6d0a9bd4d
+source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
 
 # Overzicht van Command Center {#command-center-overview}
 
-Het Centrum van het Bevel is één enkele, verenigde mening die u helpt uw volgende stap uitvinden, terwijl het ervoor zorgen dat niets door de scheuren valt.
+Het Centrum van het Bevel is één enkele, verenigde mening die u helpt uw volgende stap te ontdekken, terwijl het ervoor zorgen niets door de scheuren valt.
 
 ## E-mails beheren {#manage-emails}
 
 In het e-mailgedeelte van Command Center kunt u al uw e-mailactiviteiten beheren. Beschouw het als je e-mailpostvak om e-mailberichten te bekijken die vanuit Sales Connect zijn verzonden. Beheer uw geplande e-mails, bekijk wie uw e-mails heeft gebruikt, controleer of er problemen zijn met de levering van uw e-mails en nog veel meer.
 
-PICC
+![](assets/command-center-overview-1.png)
 
 In de sectie E-mail krijgt u een vogeloogweergave in al uw e-mails en wordt de organisatie vereenvoudigd met primaire tabbladen en subtabbladen die fungeren als mappen waarin uw e-mails automatisch worden opgeslagen op basis van hun status.
 
@@ -73,7 +73,7 @@ In de sectie E-mail krijgt u een vogeloogweergave in al uw e-mails en wordt de o
 
 De taaksectie is uw one-stop shop voor het beheren van en het voltooien van taken. Hier kunt u uw taken naadloos beheren om uw productiviteit te verhogen en te blijven geconcentreerd op de meest relevante punten.
 
-PICC
+![](assets/command-center-overview-2.png)
 
 ## Follow-up met Betrokken vooruitzichten {#follow-up-with-engaged-prospects}
 
