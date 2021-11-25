@@ -2,8 +2,7 @@
 solution: Marketo, Marketo Engage, Marketo Sky
 user-guide-title: '[!DNL Sky] Productdocumentatie'
 feature-set: Marketo Sky
-index: y
-source-git-commit: 09a443005369aafda4181bd6875b3c61067e504b
+source-git-commit: 80b7b10c6ecce02b5b3a532702076c19e7d2a61d
 workflow-type: tm+mt
 source-wordcount: '482'
 ht-degree: 0%
@@ -20,7 +19,7 @@ ht-degree: 0%
 + Gebeurtenisprogramma&#39;s {#event-programs}
    + [Een gebeurtenissenkaart instellen](setting-an-event-cap.md)
    + [Gebeurtenisdoelen instellen](setting-event-goals.md)
-+ Mappen {#campaign-folders} campagne
++ Mappen campagne {#campaign-folders}
    + [Een campagnemap archiveren/archiveren](archive-unarchive-a-campaign-folder.md)
    + [Mappen campagne: Tabblad Activiteiten](campaign-folder-activities-tab.md)
    + [Mappen campagne: Het tabblad Mijn tokens](campaign-folder-my-tokens-tab.md)
@@ -84,7 +83,7 @@ ht-degree: 0%
    + [Lokale elementen: Handelingen Massa](local-assets-mass-actions.md)
    + [Het tabblad Programmaoverzicht gebruiken](using-the-program-overview-tab.md)
    + [Het tabblad Program Setup gebruiken](using-the-program-setup-tab.md)
-+ Weergave {#program-schedule-view} Programmaplanning
++ Programmaplanningweergave {#program-schedule-view}
    + [Creeer een BasisIngang in de Mening van het Programma](create-a-basic-entry-in-program-schedule-view.md)
    + [Een batchslimme campagne maken in de programmaweergave](create-a-batch-smart-campaign-in-program-schedule-view.md)
    + [Een e-mailprogramma maken in de overzichtsweergave van het programma](create-an-email-program-in-program-schedule-view.md)
