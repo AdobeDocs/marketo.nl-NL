@@ -3,9 +3,9 @@ description: Leveringskanaaloverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van leveringskanaal
 hide: true
 hidefromtoc: true
-source-git-commit: 3b7cc0c855221f6fd0fba6dca08ccbe361ca9758
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,12 @@ Daarnaast bieden SMTP-providers van derden een groot aantal functies om de lever
 Marketo Sales-servers zijn alleen beschikbaar voor sommige klanten van Legacy ToutApp. Deze klanten zien Marketo Sales-servers beschikbaar in hun e-mailinstellingen. Alle niet-verouderde klanten zien Marketo Sales niet als een optie en moeten hun Gmail- of Outlook-account verbinden met Marketo Sales om een leveringskanaal te ontgrendelen.
 
 Marketo Sales-servers bieden geen ondersteuning voor DKIM- en SPF-verificatiemethoden, waardoor het leverbrengingspercentage kan worden verlaagd. Daarom raden we aan dat alle klanten verbinding maken met Gmail of Outlook voor de beste leverbaarheid.
+
+## MSC-servers (verouderd) {#msc-servers-legacy}
+
+MSC-servers zijn alleen beschikbaar voor sommige klanten van Legacy ToutApp. Die klanten zullen MSC servers beschikbaar in hun e-mailmontages zien. Alle niet-verouderde klanten zien MSC niet als een optie en moeten hun Gmail- of Outlook-account verbinden met Sales Connect om een leveringskanaal te ontgrendelen.
+
+MSC-servers bieden geen ondersteuning voor DKIM- en SPF-verificatiemethoden, waardoor de snelheid van de te leveren items kan worden verlaagd. Daarom raden we aan dat alle klanten verbinding maken met Gmail of Outlook voor de beste leverbaarheid.
 
 ## Marketo-servers {#marketo-servers}
 

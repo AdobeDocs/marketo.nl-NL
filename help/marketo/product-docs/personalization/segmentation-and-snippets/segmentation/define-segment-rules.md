@@ -3,9 +3,9 @@ unique-page-id: 2359449
 description: Segmentregels definiëren - Marketo Docs - Productdocumentatie
 title: Segmentregels definiëren
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 55afdc537d0a5d0b6114f478c4dd2ded09c84e34
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Door segmentregels te definiëren kunt u uw personen indelen in verschillende gr
 
    >[!CAUTION]
    >
-   >Wij adviseren _tegen_ het gebruik van de gebieden van de Rekening wanneer het bepalen van segmentregels, aangezien het activiteitenregistreren kwesties kan veroorzaken.
+   >Het gedrag voor het registreren van de activiteit voor de gebieden van de Rekening kan kwalificatie beïnvloeden. Daarom adviseren wij tegen het gebruik van de gebieden van de Rekening wanneer het bepalen van segmentregels.
 
 1. Klik op de knop **Personen (concept)** tabblad om de personen weer te geven die in aanmerking komen om lid te zijn van dit segment.
 
