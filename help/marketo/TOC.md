@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 74b5928ab8e8b7cb39261fdedce51f6aad7c400f
+source-git-commit: 972ff493506538fa7b36e91a608a6000adb06f42
 workflow-type: tm+mt
 source-wordcount: '8097'
 ht-degree: 0%
@@ -1296,7 +1296,7 @@ ht-degree: 0%
                + [Abonnementen synchroniseren met Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
          + E-maillevering {#email-delivery}
             + [Overzicht van leveringskanaal](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-            + [Throtting van e-mailverbinding](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
+            + [Throtting van e-mailverbinding](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
             + [Een aangepast leveringskanaal instellen](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
          + E-mailinstellingen {#email-settings}
             + [Uw e-mail verifiëren](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
