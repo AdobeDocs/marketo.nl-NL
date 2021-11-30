@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 972ff493506538fa7b36e91a608a6000adb06f42
+source-git-commit: fdc494a8b3002e851bbe76dcd69c58e6d5a00ee6
 workflow-type: tm+mt
-source-wordcount: '8097'
+source-wordcount: '8101'
 ht-degree: 0%
 
 ---
@@ -1270,6 +1270,10 @@ ht-degree: 0%
             + [Verwijzing zelf in een dynamisch veld](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + Handelingen {#actions}
+         + Aan de slag {#getting-started}
+            + E-mailinstellingen {#email-settings}
+               + [Uw e-mail verifiëren](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+            + [Geblokkeerde domeinen](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
          + Beheer {#admin}
             + [Geblokkeerde domeinen](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Inhoud vergrendelen](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1294,12 +1298,10 @@ ht-degree: 0%
                + [Bericht voor opzeggen van koppeling aanpassen](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo Unsubscribe Check](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Abonnementen synchroniseren met Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-         + E-maillevering {#email-delivery}
-            + [Overzicht van leveringskanaal](product-docs/marketo-sales-insight/actions/email-delivery/delivery-channel-overview.md)
-            + [Throtting van e-mailverbinding](product-docs/marketo-sales-insight/actions/email-delivery/email-connection-throttling.md)
-            + [Een aangepast leveringskanaal instellen](product-docs/marketo-sales-insight/actions/email-delivery/setting-up-a-custom-delivery-channel.md)
-         + E-mailinstellingen {#email-settings}
-            + [Uw e-mail verifiëren](product-docs/marketo-sales-insight/actions/email-settings/verify-your-email.md)
+            + E-maillevering {#email-delivery}
+               + [Overzicht van leveringskanaal](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+               + [Throtting van e-mailverbinding](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+               + [Een aangepast leveringskanaal instellen](product-docs/marketo-sales-insight/actions/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Marketo {#marketo}
             + [Marketo-toegang verlenen aan gebruikers](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Verstuur een e-mail {#send-a-sales-email}
