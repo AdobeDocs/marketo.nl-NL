@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 97e6f8d4fd2efc71d82666a3b458b1736fe7abde
+source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
 workflow-type: tm+mt
-source-wordcount: '8099'
+source-wordcount: '8119'
 ht-degree: 0%
 
 ---
@@ -1273,6 +1273,9 @@ ht-degree: 0%
          + Aan de slag {#getting-started}
             + E-mailinstellingen {#email-settings}
                + [Uw e-mail verifiëren](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+               + [Uw e-mailhandtekening toevoegen of bijwerken](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
+               + [Identiteit toevoegen](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
+            + [Je Marketo-verkoopwachtwoord wijzigen](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
          + Beheer {#admin}
             + [Geblokkeerde domeinen](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Inhoud vergrendelen](product-docs/marketo-sales-insight/actions/admin/content-lockdown.md)
@@ -1281,6 +1284,8 @@ ht-degree: 0%
             + [Gebruikers en beheerders uitnodigen](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Instellingen voor delen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Toegangsgegevens gebruiker](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + Campagnes {#campaigns}
+            + [Campagne is beëindigd](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce-integratie {#salesforce-integration}
                + [Je Marketo-verkoopaccount verbinden met Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
@@ -1300,7 +1305,7 @@ ht-degree: 0%
             + E-maillevering {#email-delivery}
                + [Overzicht van leveringskanaal](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Throtting van e-mailverbinding](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-               + [Een aangepast leveringskanaal instellen](product-docs/marketo-sales-insight/actions/email/email-delivery/setting-up-a-custom-delivery-channel.md)
+               + [Stel een aangepast leveringskanaal in voor uw team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
          + Marketo {#marketo}
             + [Marketo-toegang verlenen aan gebruikers](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Verstuur een e-mail {#send-a-sales-email}
