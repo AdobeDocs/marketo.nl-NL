@@ -3,9 +3,9 @@ description: Toegangsgegevens gebruiker - Marketo Docs - Productdocumentatie
 title: Toegangsgegevens gebruiker
 hide: true
 hidefromtoc: true
-source-git-commit: fbdcd6c777778137d0d37ccf27857e3a7655f501
+source-git-commit: ec78e047c9dc126553fe8a4b6a4c21b0d11aea5c
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Admins kunnen alle mensen op een lopende campagne zien.
 
 ![](assets/user-access-details-4.png)
 
-Alle personenverslagen kunnen in de Iedereen groep worden betreden.
+Beheerders kunnen gebruikerscampagnes en campagnecategorieën zien in het keuzemenu Weergeven als.
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,12 @@ Beheerders kunnen campagnes namens gebruikers stoppen.
    * De gebruikers kunnen in enkel de teams boren zij tot behoren
    * Gebruikers kunnen hun eigen analyses bekijken
 
-* Relatiepagina:
+* Personenpagina:
 
    * Gebruikers kunnen groepen met iedereen delen
    * Gebruikers kunnen groepen delen met alleen de teams waartoe zij behoren
+   * De gebruikers zullen zicht aan alle mensen in uw gegevensbestand van Acties hebben
    * Wanneer een gebruiker wordt geschrapt, dragen hun gedeelde contacten eigendom aan Master Admin over die de gebruiker schrapte
-
-* Verkoopmaat - Volgende en Live feed:
-
-   * Gebruikers kunnen de weergave Iedereen weergeven
-   * Gebruikers kunnen filteren op het team of de teams waartoe zij behoren
-   * Gebruiker kan advertenties delen met iedereen
-   * Gebruikers kunnen advertenties delen met alleen de teams waartoe zij behoren
 
 * Team Management Page:
 
