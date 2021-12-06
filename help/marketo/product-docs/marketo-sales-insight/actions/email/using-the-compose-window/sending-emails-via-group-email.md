@@ -3,9 +3,9 @@ description: E-mails verzenden via Groepse-e-mail - Marketo Docs - Productdocume
 title: E-mailberichten verzenden via e-mail voor groep
 hide: true
 hidefromtoc: true
-source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
+source-git-commit: 7462371066d983d9d7f483e8bf26bd3e666e495e
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -18,19 +18,19 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 1. Klik op de knop **Mensen** tab.
 
-   ![](assets/one-3.png)
+   PICC
 
 1. Selecteer de groep die u per e-mail wilt verzenden.
 
-   ![](assets/two-3.png)
+   PICC
 
 1. Klik op de knop Handelingen groeperen en selecteer **E-mailgroep**.
 
-   ![](assets/three-3.png)
+   PICC
 
 1. Vul uw e-mail in (of selecteer een sjabloon) en verzend (of plant) het.
 
-   ![](assets/four-3.png)
+   PICC
 
 ## Een groepse-e-mail bewerken {#editing-a-group-email}
 
@@ -38,19 +38,19 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 1. Kies een sjabloon of vul uw e-mail in.
 
-   ![](assets/edit-two.png)
+   PICC
 
 1. Als e-mail gereed is, kunt u nu een voorbeeld van elke e-mail in de lijst bekijken om te zien of de dynamische velden correct worden ingevuld.
 
-   ![](assets/edit-three.png)
+   PICC
 
 1. Selecteer de gewenste ontvanger.
 
-   ![](assets/edit-four.png)
+   PICC
 
 1. Klikken **Dynamische velden voorvertonen** en bekijk de voorvertoning aan de rechterkant.
 
-   ![](assets/edit-five.png)
+   PICC
 
    >[!NOTE]
    >
