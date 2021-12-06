@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: b7766e9a1a0799280050a0c2b2cfa6bee71e8de7
+source-git-commit: 765ce4de418a5565ae7528a49a6947c1e1bb1f3f
 workflow-type: tm+mt
-source-wordcount: '8119'
+source-wordcount: '8147'
 ht-degree: 0%
 
 ---
@@ -59,13 +59,13 @@ ht-degree: 0%
             + [Overzicht benoemde account](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Benoemde accounts importeren](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
             + [Een bestaand benoemd account toevoegen aan een accountlijst](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [Een benoemd account maken](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
-            + [Personen toevoegen aan een benoemde account](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Create a Named Account](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [Add People to a Named Account](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
             + [Accounts detecteren](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
             + [Lood naar overeenkomst met account](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
             + [Filteren in benoemde accounts](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
-            + [Een benoemde account verwijderen](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
-            + [TAM-hiërarchie](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
+            + [Delete a Named Account](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+            + [TAM Hierarchies](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
             + [Een hiërarchie maken](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
          + [Accountlijsten](product-docs/target-account-management/target/account-lists.md)
          + [Slimme accountlijsten](product-docs/target-account-management/target/account-smart-lists.md)
@@ -270,7 +270,7 @@ ht-degree: 0%
          + [Een personenpartitie maken](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
          + [Een werkruimte verwijderen](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
          + [Een werkruimte bewerken](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
-         + [Een bestaande personenpartitie bewerken](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
+         + [Edit an Existing Person Partition](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [Segmenten delen over werkruimten en partities](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
    + Core Marketo Concepts {#core-marketo-concepts}
       + Slimme campagnes {#smart-campaigns}
@@ -278,7 +278,7 @@ ht-degree: 0%
          + Een slimme campagne maken {#creating-a-smart-campaign}
             + [Slimme campagnes in batch en trigger](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
             + [Nieuwe slimme campagne maken](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
-            + [Slimme lijst definiëren voor slimme campagne | Batch](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+            + [Define Smart List for Smart Campaign | Batch](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
             + [Slimme lijst definiëren voor slimme campagne | Trigger](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
             + [Controlelijst voor slimme campagne](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md)
          + Slimme campagnes gebruiken {#using-smart-campaigns}
@@ -294,19 +294,19 @@ ht-degree: 0%
             + [Kwalificatieregels bewerken in een slimme campagne](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
             + [Een slimme campagne verplaatsen](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)
             + [Persoonlijke beperkingen in een slimme campagne negeren](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
-            + [De naam van een slimme campagne wijzigen](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/rename-a-smart-campaign.md)
+            + [Rename a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/rename-a-smart-campaign.md)
             + [Een slimme batchcampagne nu uitvoeren | Tabblad Planning](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/run-a-batch-smart-campaign-now-schedule-tab.md)
             + [Een slimme batchcampagne plannen om later uit te voeren](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
             + [Een terugkerende batchcampagne plannen](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
             + [Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die &quot;de Campagne wordt gevraagd&quot;](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
             + [Werken met Standard Smart List Rule Logic](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + Handelingen voor stroom {#flow-actions}
-            + [Een stroomstap toevoegen aan een slimme campagne](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
+            + [Add a Flow Step to a Smart Campaign](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [De Stappen van de Stroom in een Slimme Campagne opnieuw ordenen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
             + [Toevoegen aan lijst](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
-            + [Gegevens toevoegen aan een veld](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
+            + [Append Data to a Field](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [Bellen Webhaak](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)
-            + [Gegevenswaarde wijzigen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
+            + [Change Data Value](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
             + [Veldwaarden wissen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value/clear-field-values.md)
             + [Partitie persoon wijzigen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-person-partition.md)
             + [Opbrengstfase wijzigen](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-revenue-stage.md)
@@ -717,18 +717,18 @@ ht-degree: 0%
          + [De URL van een geüploade afbeelding of bestand zoeken](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
          + [De afbeeldingen ophalen van een webpagina](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
          + [Uw afbeeldingen en bestanden ordenen met mappen](product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
-         + [Een geüploade afbeelding of bestand vervangen](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
+         + [Replace an Uploaded Image or File](product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md)
          + [Geüploade afbeeldingen en bestanden zoeken](product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
          + [Afbeeldingen en bestanden uploaden uit vak](product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
       + Landingspagina&#39;s {#landing-pages}
          + Landingspagina&#39;s {#understanding-landing-pages}
             + [Een bestemmingspagina goedkeuren, goedkeuren of verwijderen](product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)
             + [Prestatierapport voor bestemmingspagina](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
-            + [Testgroepen voor landingspagina](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
+            + [Landing Page Test Groups](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
             + [Werken met vrije vorm en portaalpagina&#39;s met instructies](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
          + Landingspagina&#39;s in vrije vorm {#free-form-landing-pages}
-            + [Voeg een Verbinding aan een Vrije Vorm het Bestaan Beeld van de Pagina toe](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
-            + [Een koppeling toevoegen aan een afbeelding in een openstaande pagina](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-an-image-in-a-free-form-landing-page.md)
+            + [Add a Link to a Free-Form Landing Page Image](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
+            + [Add a Link to an Image in a Free-Form Landing Page](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-an-image-in-a-free-form-landing-page.md)
             + [Een mobiele weergave toevoegen voor uw openingsbestemmingspagina](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
             + [Een nieuw formulier toevoegen aan een openingspagina met vrije vorm](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
             + [Een sociale knop toevoegen aan een vrije bestemmingspagina](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
@@ -935,14 +935,14 @@ ht-degree: 0%
          + [Abonnement begrijpen](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [Gebruik uw specifieke IP Adressen om E-mail te verzenden](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
       + Drip Nurturturturturing {#drip-nurturing}
-         + Een betrokkenheidsprogramma maken {#creating-an-engagement-program}
+         + Creating an Engagement Program {#creating-an-engagement-program}
             + [Een stream toevoegen](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
-            + [Inhoud toevoegen aan een stream](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+            + [Add Content to a Stream](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
             + [Personen toevoegen aan een betrokkenheidsprogramma](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.md)
             + [Een programma toevoegen aan een betrokkenheidsprogramma](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/adding-a-program-to-an-engagement-program-stream.md)
             + [Een betrokkenheidsprogramma maken](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
             + [Betrokkenheidsprogramma&#39;s](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md)
-         + Betrokkenheidsprogrammastromen {#engagement-program-streams}
+         + Engagement Program Streams {#engagement-program-streams}
             + [Een stream klonen](product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
             + [Een stream verwijderen](product-docs/email-marketing/drip-nurturing/engagement-program-streams/delete-a-stream.md)
             + [De naam van een stream wijzigen](product-docs/email-marketing/drip-nurturing/engagement-program-streams/rename-a-stream.md)
@@ -1177,7 +1177,6 @@ ht-degree: 0%
             + [Campagne is beëindigd](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [CC of BCC in e-mails](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [E-mail gemarkeerd als spam](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
-            + [Bestandsbijlagen verzenden in uw e-mail](product-docs/marketo-sales-connect/email/send-a-sales-email/sending-file-attachments-in-your-email.md)
          + De Live feed {#the-live-feed}
             + [Onjuiste locatie ontvanger](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [Overzicht van Live feed](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
@@ -1297,15 +1296,21 @@ ht-degree: 0%
                + [Overzicht van Command Center](product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)
                + [E-mailkolommen en indeling van e-mailpagina](product-docs/marketo-sales-insight/actions/email/command-center/email-columns-and-email-page-layout.md)
                + [Snelle handelingen in het Command Center](product-docs/marketo-sales-insight/actions/email/command-center/quick-actions-in-the-command-center.md)
+            + E-maillevering {#email-delivery}
+               + [Overzicht van leveringskanaal](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
+               + [Throtting van e-mailverbinding](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
+               + [Stel een aangepast leveringskanaal in voor uw team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
             + Abonnementen opzeggen {#unsubscribes}
                + [Overzicht van abonnement opzeggen](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Bericht voor opzeggen van koppeling aanpassen](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
                + [Marketo Unsubscribe Check](product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
                + [Abonnementen synchroniseren met Salesforce](product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
-            + E-maillevering {#email-delivery}
-               + [Overzicht van leveringskanaal](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
-               + [Throtting van e-mailverbinding](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
-               + [Stel een aangepast leveringskanaal in voor uw team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+            + Het venster Samenstellen gebruiken {#using-the-compose-window}
+               + [Een bijlage of traceerbare inhoud toevoegen aan uw e-mail](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
+               + [Inhoud markeren toevoegen aan uw e-mail](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
+               + [Opties voor bulke-mail](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+               + [Bulke-mails samenstellen met Selecteren en Verzenden](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
+               + [E-mailberichten verzenden via e-mail voor groep](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
          + Marketo {#marketo}
             + [Marketo-toegang verlenen aan gebruikers](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Verstuur een e-mail {#send-a-sales-email}
@@ -1354,13 +1359,13 @@ ht-degree: 0%
             + [Marketo Sales Insight Configuration Tab in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Sales Insight Page voor Marketo Admins](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [Het Inzicht van de Verkoop van de Opstelling voor uw Team](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
-         + Functies {#features}
+         + Features {#features}
             + [Overzicht van MSI-functies](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
-            + [Overzicht van dashboardfuncties voor inzichten](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+            + [Insights Dashboard Feature Overview](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + Handelingen in het deelvenster MSI {#actions-in-the-msi-panel}
                + [Een lead/contact vanuit Salesforce toevoegen aan een Marketo-campagne](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/add-to-marketo-campaign/add-a-lead-contact-to-a-marketo-campaign-from-salesforce.md)
                + [Abonnement op voetteksten opzeggen in Marketo Sales Insight configureren](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
-               + [Verkoopsjabloon vergrendelen](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
+               + [Lock Sales Template](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Een e-mail naar Verkoopoverzicht publiceren](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Test-e-mail verzenden](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Bulkhandelingen {#bulk-actions}
@@ -1375,7 +1380,7 @@ ht-degree: 0%
             + MSI-configuratietab {#msi-configuration-tab}
                + [RSS inschakelen voor Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
             + Prestatierapporten {#performance-reports}
-               + [E-mailprestatierapport voor verkoopinzicht](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
+               + [Sales Insight Email Performance Report](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
             + Sterren en lamellen {#stars-and-flames}
                + [Sterren en vlammen aanpassen](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
                + [Prioriteit, Urgentie, Relatieve Score en Beste Bets](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
@@ -1387,14 +1392,14 @@ ht-degree: 0%
                   + [Tokens activeren voor interessante momenten](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)
                   + [Interesserende momenten gebruiken](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
          + MSI voor mobiele apparaten {#msi-for-mobile}
-            + [Beste ets in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+            + [Best Bets in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
             + [Marketo Sales Insight installeren en configureren in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/install-and-configure-marketo-sales-insight-in-salesforce1.md)
-            + [Interesserende momenten in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
-            + [Diervoeders voor voorloopvogels in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/seeing-lead-feed-in-salesforce1.md)
+            + [Interesting Moments in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+            + [Seeing Lead Feed in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/seeing-lead-feed-in-salesforce1.md)
             + [Handelingen voor Marketo-e-mail, -campagne en -controlelijst verzenden in Salesforce1](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
          + Bijwerken {#upgrading}
             + [Een upgrade uitvoeren van uw MSI-pakket](product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)
-      + Insteekmodule MSI Outlook {#msi-outlook-plugin}
+      + MSI Outlook Plugin {#msi-outlook-plugin}
          + [De Marketo Outlook-insteekmodule autoriseren](product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)
          + [De Marketo Add-in voor Outlook installeren met een Enterprise Key](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
          + [De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode](product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
