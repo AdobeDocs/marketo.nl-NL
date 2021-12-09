@@ -4,9 +4,9 @@ title: Redenen voor oproepen
 hide: true
 hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: b8fcbc13925e3a292add3e9148ddefcfca3344b4
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -61,27 +61,27 @@ Zodra vraagredenen zijn toegelaten. De gebruikers kunnen één selecteren terwij
 
 1. Klik de vraagknoop om dialer te lanceren.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Ga de vraaginformatie in dialer in.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Klik vraag.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Selecteer de vraagreden die het best de vraag beschrijft.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Beëindig de vraag.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 1. Logboek de vraag.
 
-   ![](assets/call-reasons-.png)
+   PICC
 
 >[!MORELIKETHIS]
 >
