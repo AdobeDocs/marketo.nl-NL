@@ -3,7 +3,8 @@ description: Dialoogvensters - Marketo Docs - Productdocumentatie
 title: Dialoogvensters
 hide: true
 hidefromtoc: true
-source-git-commit: de2c73003aa1d817fbaf1d6ed5e180e68fc64b72
+exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 0%
@@ -16,11 +17,11 @@ Dialogen zijn individuele praatjegesprekken. Leer hoe u ze visueel kunt aanpasse
 
 ## Een nieuw dialoogvenster maken {#create-a-new-dialogue}
 
-1. Klik **Dialoogvensters**.
+1. Klikken **Dialoogvensters**.
 
    ![](assets/dialogues-1.png)
 
-1. Klik op de knop **Nieuw maken**.
+1. Klik op de knop **Nieuw maken** knop.
 
    ![](assets/dialogues-2.png)
 
@@ -38,23 +39,23 @@ Net als in Marketo Smart Lists kunt u met de kenmerken Audience Criteria (criter
 
 **Bekende personen**
 
-Er zijn _veel_ kenmerkcombinaties om van te kiezen. In dit voorbeeld richten wij ons op alle **bekende mensen** in Californië die bij een bedrijf met meer dan 50 werknemers werken.
+Er zijn _veel_ te kiezen kenmerkcombinaties. In dit voorbeeld richten we ons op alles **bekende personen** in Californië, die werken bij een bedrijf met meer dan 50 werknemers.
 
-1. Pak het **Person State** attribuut en sleep het aan het recht.
+1. Pak de **Persoonsstaat** en sleep het naar rechts.
 
    ![](assets/dialogues-4.png)
 
-1. __ De issis is standaard ingesteld. Typ in het veld Waarden selecteren de tekst CA (u kunt ook op de vervolgkeuzelijst klikken en in de lijst selecteren).
+1. _Is_ is standaard ingesteld. Typ in het veld Waarden selecteren de tekst CA (u kunt ook op de vervolgkeuzelijst klikken en in de lijst selecteren).
 
    ![](assets/dialogues-5.png)
 
-1. Pak **Bedrijfsomvang** attributen en sleep het aan waar het _een attribuut hier_ sleept en laat vallen.
+1. Pak de **Bedrijfsomvang** kenmerk en sleep het naar de gewenste locatie _een kenmerk hier slepen en neerzetten_.
 
    ![](assets/dialogues-6.png)
 
    >[!NOTE]
    >
-   >U kunt ook een kenmerk kiezen door op het pictogram **+** te klikken.
+   >U kunt ook een kenmerk kiezen door op het desbetreffende kenmerk te klikken **+** pictogram.
 
 1. Klik op de vervolgkeuzelijst met operatoren en selecteer **Groter dan**.
 
@@ -68,9 +69,9 @@ En dat is het!
 
 **Anonieme mensen**
 
-Er is een gemakkelijke manier om mensen specifiek te richten die nog niet in uw gegevensbestand zijn. In dit voorbeeld richten we ons op alle **anonieme personen** in het gebied New York.
+Er is een gemakkelijke manier om mensen specifiek te richten die nog niet in uw gegevensbestand zijn. In dit voorbeeld richten we ons op alles **anonieme mensen** in het gebied New York.
 
-1. Pak het **Person Email** attribuut en sleep het aan het recht.
+1. Pak de **Persoonsbericht** en sleep het naar rechts.
 
    ![](assets/dialogues-9.png)
 
@@ -78,15 +79,15 @@ Er is een gemakkelijke manier om mensen specifiek te richten die nog niet in uw 
 
    ![](assets/dialogues-10.png)
 
-1. Pak het **Inferred State** attribuut en sleep het aan waar het _belemmering en laat vallen een attribuut hier_ zegt.
+1. Pak de **Overgenomen staat** kenmerk en sleep het naar de gewenste locatie _een kenmerk hier slepen en neerzetten_.
 
    ![](assets/dialogues-11.png)
 
    >[!NOTE]
    >
-   >Wanneer iemand uw website bezoekt, worden deze door [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) in het systeem opgeslagen. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info.
+   >Wanneer iemand uw website bezoekt, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies ze en zet ze in het systeem. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info.
 
-1. __ De issis is standaard ingesteld. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
+1. _Is_ is standaard ingesteld. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
 
    ![](assets/dialogues-12.png)
 
@@ -111,7 +112,7 @@ Acceptabele indelingen:
 
 >[!NOTE]
 >
->Het gebruiken van een asterisk doet dienst als vangst-all wilkaart. Zo zou `https://*.website.com` de dialoog op elke pagina van de plaats, met inbegrip van subdomeinen (bijvoorbeeld plaatsen: `support.website.com`). En `https://website.com/folder/*` zou het dialoogvenster op elke HTML-pagina in de volgende map plaatsen (bijv. in dit geval is de map &quot; sport &quot; , dus : website.com/sports/baseball.html, website.com/sports/football.html, enz.).
+>Het gebruiken van een asterisk doet dienst als vangst-all wilkaart. Dus `https://*.website.com` zou het dialoogvenster op elke pagina van de site plaatsen, inclusief subdomeinen (bijvoorbeeld: `support.website.com`). en `https://website.com/folder/*` zou het dialoogvenster op elke HTML-pagina in de volgende map plaatsen (bijvoorbeeld: in dit geval is de map &quot; sport &quot; , dus : website.com/sports/baseball.html, website.com/sports/football.html, enz.).
 
 ## Stream Designer {#stream-designer}
 
@@ -133,7 +134,7 @@ De stroomontwerper bevat verschillende kaarten u kunt toevoegen om het praatjege
  </tr>
  <tr>
   <td><strong>Aanstellingsplanner</strong></td>
-  <td>Biedt de bezoeker een kalender met beschikbare datums om een follow-up te plannen. De beschikbaarheid van de kalender weerspiegelt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">de volgende agent in lijn</a>.</td>
+  <td>Biedt de bezoeker een kalender met beschikbare datums om een follow-up te plannen. De beschikbaarheid van kalenders weerspiegelt <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md#routing">de volgende agent in lijn</a>.</td>
  </tr>
  <tr>
   <td><strong>Doel</strong></td>
@@ -143,7 +144,7 @@ De stroomontwerper bevat verschillende kaarten u kunt toevoegen om het praatjege
 
 **Een stream maken**
 
-Er zijn _veel_ mogelijke streamcombinaties. Kijk eens naar een voorbeeld [in dit artikel](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
+Er zijn _veel_ mogelijke streamcombinaties. Laten we naar één voorbeeld kijken [in dit artikel](/help/marketo/product-docs/demand-generation/dynamic-chat/create-a-stream.md).
 
 ## Rapporten {#reports}
 

@@ -3,9 +3,10 @@ description: Redenen bellen - Marketo Docs - Productdocumentatie
 title: Redenen voor oproepen
 hide: true
 hidefromtoc: true
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
+source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -22,41 +23,37 @@ Sta uw verkoopteams toe om vraagredenen te selecteren wanneer het maken van vraa
 
 1. Klik op het tandwielpictogram en selecteer **Instellingen**.
 
-PICC
+   ![](assets/call-reasons-1.png)
 
 1. Onder beheerinstellingen selecteert u **Dialer**.
 
-PICC
+   ![](assets/call-reasons-2.png)
 
 1. Selecteren **De Redenen van de Vraag inschakelen**.
 
-PICC
+   ![](assets/call-reasons-3.png)
 
-1. LEGE kiezen
+1. Kies uw gewenste behoefte van de vraagreden.
 
-Selecteer &quot;staat gebruikers toe om vraag te voltooien zonder de Redenen van de Vraag te selecteren&quot;als u gebruikers wilt toestaan om een vraag te voltooien zonder een vraag te moeten registreren of &quot;vereist gebruikers om de Redenen van de Vraag te selecteren alvorens vraag&quot;te registreren te vereisen
+   ![](assets/call-reasons-4.png)
 
 ## Reden van de Vraag creëren {#create-call}
 
 1. Klik op het tandwielpictogram en selecteer **Instellingen**.
 
-PICC
+   ![](assets/call-reasons-5.png)
 
 1. Onder beheerinstellingen selecteert u **Dialer**.
 
-PICC
+   ![](assets/call-reasons-6.png)
 
 1. Klikken **De Redenen van de Vraag beheren**.
 
-PICC
+   ![](assets/call-reasons-7.png)
 
-1. Voer de gewenste naam van de vraagreden in het tekstveld in.
+1. Ga uw gewenste naam van de vraagreden in het tekstgebied in en klik **Toevoegen**.
 
-PICC
-
-1. Klikken **Toevoegen**.
-
-PICC
+   ![](assets/call-reasons-8.png)
 
 ## Selecteer een Reden van de Vraag {#select-a-call-reason}
 
@@ -64,27 +61,27 @@ Zodra vraagredenen zijn toegelaten. De gebruikers kunnen één selecteren terwij
 
 1. Klik de vraagknoop om dialer te lanceren.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Ga de vraaginformatie in dialer in.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Klik vraag.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Selecteer de vraagreden die het best de vraag beschrijft.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Beëindig de vraag.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 1. Logboek de vraag.
 
-PICC
+   ![](assets/call-reasons-.png)
 
 >[!MORELIKETHIS]
 >

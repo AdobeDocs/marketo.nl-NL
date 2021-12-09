@@ -3,9 +3,10 @@ description: Gebruikers en beheerders uitnodigen - Marketo Docs - Productdocumen
 title: Gebruikers en beheerders uitnodigen
 hide: true
 hidefromtoc: true
-source-git-commit: 2501fe0c168219379c7d9429a5ff4505ea61d267
+exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -20,19 +21,19 @@ Het toevoegen van gebruikers of beheerders is snel en eenvoudig!
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. Selecteer **Gebruikersbeheer** onder Beheerinstellingen.
+1. Selecteer onder Beheerinstellingen de optie **Gebruikersbeheer**.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Klik op de knop **Handelingen** en selecteer **Gebruikers uitnodigen**.
+1. Klik op de knop **Handelingen** en selecteert u **Gebruikers uitnodigen**.
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >U kunt **Gebruikers via CSV uitnodigen** ook selecteren als u hen allen hebt vermeld in een spreadsheet.
+   >U kunt ook **Gebruikers uitnodigen via CSV** als u ze allemaal in een spreadsheet hebt opgenomen.
 
-1. Voer de e-mailadressen in van de personen die u wilt toevoegen en klik op **Uitnodigen** (het selecteren van een team waaraan u deze wilt toevoegen is optioneel).
+1. Voer de e-mailadressen in van de personen die u wilt toevoegen en klik op **Uitnodigen** (U kunt desgewenst een team selecteren om aan toe te voegen.)
 
    ![](assets/invite-users-and-admins-4.png)
 
@@ -40,7 +41,7 @@ Het toevoegen van gebruikers of beheerders is snel en eenvoudig!
    >
    >Door gebrek, zullen alle nieuwe leden aan het Iedereen team worden toegevoegd.
 
-1. Klik **OK**.
+1. Klikken **OK**.
 
    ![](assets/invite-users-and-admins-5.png)
 
@@ -56,11 +57,11 @@ Ga als volgt te werk om een bestaande gebruiker tot Admin te maken.
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. Selecteer **Gebruikersbeheer** onder Beheerinstellingen.
+1. Selecteer onder Beheerinstellingen de optie **Gebruikersbeheer**.
 
    ![](assets/invite-users-and-admins-7.png)
 
-1. Zoek de gebruiker u Admin zou willen maken, de drop-down Rol klikken, en **Admin** selecteren.
+1. Zoek de gebruiker die u een beheerder wilt maken, klik op de vervolgkeuzelijst Rol en selecteer **Beheer**.
 
    ![](assets/invite-users-and-admins-8.png)
 

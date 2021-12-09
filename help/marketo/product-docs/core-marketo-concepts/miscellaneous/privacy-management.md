@@ -1,9 +1,10 @@
 ---
 description: Privacy Management - Marketo-documenten - productdocumentatie
 title: Privacybeheer
-source-git-commit: d33de522f07c4e95b93040dc3e8ffeec258a9ba2
+exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -33,6 +34,6 @@ Alle bovenstaande voorschriften zijn van toepassing op Marketo Engage-klanten di
 Om u te helpen uw Privacybereidheid vergemakkelijken, staat Marketo Engage u toe om te behandelen **toegang** en **delete** verzoeken.
 
 * De **Recht op toegang** heeft de betrokkene het recht om van de verantwoordelijke voor de verwerking bevestiging te krijgen of er al dan niet persoonsgegevens over hen worden verwerkt, waar en voor welk doel. De gegevensverwerkingsverantwoordelijke verstrekt kosteloos een kopie van de persoonsgegevens in elektronische vorm.
-* Wordt ook wel gegevensgummetje genoemd. **Recht op vergeten** (verzoek tot schrapping) geeft de betrokkene het recht om de verantwoordelijke voor de verwerking van de gegevens zijn/haar persoonsgegevens te laten wissen, de verdere verspreiding van de gegevens te beëindigen en derden mogelijk de verwerking van de gegevens te laten stopzetten.
+* Wordt ook wel gegevensgummetje genoemd. **Recht op vergeten** (verzoek tot schrapping) geeft de betrokkene het recht om de verantwoordelijke voor de verwerking van de gegevens zijn/haar persoonsgegevens te laten wissen, de verdere verspreiding van de gegevens te beëindigen en derden mogelijk te laten stoppen met de verwerking van de gegevens.
 
 Als u wilt leren hoe u toegang-/verwijderverzoeken kunt maken en hoe wij deze verwerken, raadpleegt u [dit artikel](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).

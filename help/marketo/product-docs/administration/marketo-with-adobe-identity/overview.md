@@ -3,7 +3,8 @@ description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 hide: true
 hidefromtoc: true
-source-git-commit: 1161d193261af10aaa7658e747ff6500ad4179d0
+exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '809'
 ht-degree: 0%
@@ -81,7 +82,7 @@ Hoewel er een productkaart in Admin Console voor Sales Connect is, mag Admin Con
 
 [https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/enterprise/admin-guide.html).
 
-**Ga ik nog steeds naar het gedeelte Beheer in Marketo om wijzigingen aan te brengen in het account?**
+**Ga ik nog steeds naar de sectie Beheer in Marketo om wijzigingen aan te brengen in uw account?**
 
 Nee, u moet naar [account.adobe.com](https://account.adobe.com).
 

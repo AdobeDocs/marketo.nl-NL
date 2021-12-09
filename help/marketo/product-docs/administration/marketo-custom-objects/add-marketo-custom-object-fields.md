@@ -2,22 +2,21 @@
 unique-page-id: 10093688
 description: Aangepaste Marketo-objectvelden toevoegen - Marketo Docs - Productdocumentatie
 title: Aangepaste Marketo-objectvelden toevoegen
-translation-type: tm+mt
-source-git-commit: 65182770291dc14fbe915a40403fc09b433aae86
+exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
-
 # Aangepaste Marketo-objectvelden toevoegen {#add-marketo-custom-object-fields}
 
 Nadat u een douanevoorwerp hebt gecreeerd, moet u gebieden aan het toevoegen om aan uw bedrijfsbehoeften te voldoen.
 
-Velden definiëren de specifieke informatie die door een aangepast object wordt gebruikt. De gebieden van de verbinding hebben een speciale baan, om douanevoorwerpen aan te sluiten, en zijn behandeld in [afzonderlijk artikel](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
+Velden definiëren de specifieke informatie die door een aangepast object wordt gebruikt. Koppelingsvelden hebben een speciale taak, om aangepaste objecten te verbinden, en zijn opgenomen in een [afzonderlijk artikel](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Klik **Admin**, en in **Databasebeheer**, selecteer **Aangepaste objecten van Marketo**.
+1. Klikken **Beheer**, en in **Databasebeheer**, selecteert u **Aangepaste Marketo-objecten**.
 
    ![](assets/image2016-1-18-9-3a2-3a6.png)
 
@@ -25,7 +24,7 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
 
    ![](assets/image2016-1-18-9-3a5-3a3.png)
 
-1. Klik op het tabblad **Velden** op **Nieuw veld**.
+1. In de **Velden** tabblad, klikt u op **Nieuw veld**.
 
    ![](assets/image2015-9-15-16-3a53-3a40.png)
 
@@ -45,7 +44,7 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
 
    ![](assets/image2015-10-5-11-3a37-3a24.png)
 
-1. Trek de schuifregelaar Dedupe over als u het nieuwe veld als een unieke id wilt gebruiken. Klik **Opslaan** om te voltooien.
+1. Trek de schuifregelaar Dedupe over als u het nieuwe veld als een unieke id wilt gebruiken. Klikken **Opslaan** om af te ronden.
 
    ![](assets/image2015-10-5-11-3a40-3a12.png)
 
@@ -57,7 +56,7 @@ Velden definiëren de specifieke informatie die door een aangepast object wordt 
 
    >[!NOTE]
    >
-   >Als u een een-op-vele structuur bouwt, moet u een gebied van de Verbinding aan uw douanevoorwerp toevoegen. Voor een vele-aan-vele structuur, hebt u geen verbindingsgebied in het douanevoorwerp nodig, maar u moet twee verbindingsgebieden in het intermediaire voorwerp toevoegen. Zie [Aangepaste objectkoppelingsvelden van Marketo toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) om de koppelingsvelden te maken en [Aangepaste Marketo-objecten begrijpen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie over typen aangepaste objecten.
+   >Als u een een-op-vele structuur bouwt, moet u een gebied van de Verbinding aan uw douanevoorwerp toevoegen. Voor een vele-aan-vele structuur, hebt u geen verbindingsgebied in het douanevoorwerp nodig, maar u moet twee verbindingsgebieden in het intermediaire voorwerp toevoegen. Zie [Aangepaste Marketo-objectkoppelingsvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) de koppelingsvelden te maken, en [Aangepaste Marketo-objecten begrijpen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie over typen aangepaste objecten.
 
 >[!MORELIKETHIS]
 >

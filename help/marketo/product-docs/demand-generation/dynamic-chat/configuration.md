@@ -3,7 +3,8 @@ description: Configuratie - Marketo Docs - Productdocumentatie
 title: Configuratie
 hide: true
 hidefromtoc: true
-source-git-commit: 1434d2a1cbf5575cea60ccc0c655313003b1452c
+exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 Leer hoe u de vormgeving van uw venster in het dialoogvenster Chatbot aanpast.
 
-Om te beginnen, klik **Configuratie**.
+Klik op **Configuratie**.
 
 ![](assets/configuration-1.png)
 
@@ -42,13 +43,13 @@ In de Montages van de Agent, kunt u een etiket aan uw praatbox toevoegen (bijvoo
 
 ![](assets/configuration-5.png)
 
-Wanneer u klaar bent met het aanbrengen van veranderingen, herinner me om **sparen** te klikken.
+Wanneer u klaar bent met het aanbrengen van veranderingen, herinner me om te klikken **Opslaan**.
 
 ![](assets/configuration-6.png)
 
 ## Tab Privacy {#privacy-tab}
 
-Klik op het tabblad **Privacy** om de URL van het privacybeleid van uw site toe te voegen of te bewerken (optioneel).
+Klik op de knop **Privacy** om de URL van het privacybeleid van uw site toe te voegen of te bewerken (optioneel).
 
 ![](assets/configuration-7.png)
 

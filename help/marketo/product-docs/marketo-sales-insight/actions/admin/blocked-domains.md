@@ -3,7 +3,8 @@ description: Geblokkeerde domeinen - Marketo Docs - Productdocumentatie
 title: Geblokkeerde domeinen
 hide: true
 hidefromtoc: true
-source-git-commit: 2501fe0c168219379c7d9429a5ff4505ea61d267
+exl-id: 004ba212-485e-4412-be75-7de13505d9b0
+source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Help uw verkoopteam succes te behalen door te voorkomen dat zij per ongeluk conc
 
    ![](assets/blocked-domains-2.png)
 
-1. Ga het domein in u geblokkeerd wilt en **Blokkeer Domein**.
+1. Voer het domein in dat u wilt blokkeren en klik op **Blokdomein**.
 
    ![](assets/blocked-domains-3.png)
 
