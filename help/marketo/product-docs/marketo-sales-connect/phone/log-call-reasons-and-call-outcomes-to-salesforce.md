@@ -4,9 +4,9 @@ title: De Redenen van de Vraag van het logboek en de Resultaten van de Vraag van
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,10 @@ Als u deze velden wilt gebruiken, moet u het veld eerst maken als een veld voor 
 
 ### Aangepast activiteitenveld toevoegen aan taakpaginalay-out in Salesforce Classic {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
+>[!NOTE]
+>
+>U hoeft deze stappen alleen uit te voeren als u in Stap 9 hierboven de gewenste paginalay-out niet hebt geselecteerd.
+
 1. Klik in Salesforce op **Instellen**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
@@ -82,79 +86,75 @@ Als u deze velden wilt gebruiken, moet u het veld eerst maken als een veld voor 
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
-1. Sleep het veld naar de indeling van de taakpagina.
+1. Sleep het veld naar het gewenste gedeelte van de taakpaginalay-out.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
 1. Klikken **Opslaan**.
 
-   PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
 ## Salesforce Lightning {#salesforce-lightning}
 
 ### Aangepast activiteitenveld maken in Salesforce Lightning {#create-custom-activity-field-in-salesforce-lightning}
 
-1. Klik in Salesforce op het tandwielpictogram rechtsboven.
+1. Klik in Salesforce op het tandwielpictogram rechtsboven en selecteer **Instellen**.
 
-PICC
-
-1. Klikken **Instellen**.
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
 1. Klikken **Objectbeheer**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. Voer Activiteit in het vak Snel zoeken in en klik op het label Activiteit om de instelling van het object te openen.
+1. Typ &quot;Activiteit&quot; in het vak Snel zoeken.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Klik links op **Velden en relaties**.
+1. Klik op de knop **Activiteit** label.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
+
+1. Klikken **Velden en relaties**.
+
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
 1. Klikken **Nieuw**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ## Aangepast activiteitenveld toevoegen aan taakpaginalay-out in Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. Klik in Salesforce op het tandwielpictogram rechtsboven.
+1. Klik in Salesforce op het tandwielpictogram rechtsboven en selecteer **Instellen**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. Klikken **Instellen**.
+1. Klikken **Objectbeheer**.
 
-PICC
-
-1. Ga naar Setup??????????
-
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
 1. Typ &quot;Taak&quot; in het vak Snel zoeken.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. Klik op Taak.
+1. Klik op de knop **Taak** label.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. Klik op Pagina-indelingen.
+1. Klikken **Pagina-indelingen**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
 1. Klik op de taakpaginalay-out waaraan u dit veld wilt toevoegen.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-27.png)
 
-1. Sleep het veld naar de indeling van de taakpagina.
+1. Sleep het veld naar het gewenste gedeelte van de taakpaginalay-out.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. Klik op Opslaan.
+1. Klikken **Opslaan**.
 
-PICC
+   ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 
 >[!MORELIKETHIS]
 >

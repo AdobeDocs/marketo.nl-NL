@@ -4,9 +4,9 @@ title: Resultaten bellen
 hide: true
 hidefromtoc: true
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: 0fc2551ffc85260a282b64995c698098846eb10c
+source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -65,27 +65,23 @@ Zodra de vraagresultaten zijn toegelaten. De gebruikers kunnen één selecteren 
 
 1. Klik de vraagknoop om dialer te lanceren.
 
-PICC
+   ![](assets/call-outcomes-10.png)
 
-1. Ga de vraaginformatie in dialer in.
+1. Ga de vraaginformatie in dialer in en klik **Bellen**.
 
-PICC
-
-1. Klik vraag.
-
-PICC
+   ![](assets/call-outcomes-11.png)
 
 1. Selecteer het vraagresultaat dat het best de vraag beschrijft.
 
-PICC
+   ![](assets/call-outcomes-12.png)
 
 1. Beëindig de vraag.
 
-PICC
+   ![](assets/call-outcomes-13.png)
 
 1. Logboek de vraag.
 
-PICC
+   ![](assets/call-outcomes-14.png)
 
 >[!MORELIKETHIS]
 >
