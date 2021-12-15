@@ -2,83 +2,89 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2712a21b7457ef51a9112074465c54e8f7954fa9
+source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
 workflow-type: tm+mt
-source-wordcount: '1116'
+source-wordcount: '947'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: Oktober 2021 {#release-notes-oct-21}
+# Opmerkingen bij de release: Januari 2022 {#release-notes-jan-22}
 
-De volgende functies zijn opgenomen in de release van oktober 1921. Controleer de Adobe Marketo Engage-editie van uw voor de beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van 22 januari. Controleer de Adobe Marketo Engage-editie van uw voor de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
->Kenmerken die door een ster worden aangeduid (![](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+>Kenmerken die door een ster worden aangeduid (![ster](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Kwartaalreleases_**
 
-De volgende functies worden vrijgegeven op **22 oktober 2021**, met een gefaseerde uitrol van elk onderdeel in de volgende week (tenzij anders aangegeven).
+De volgende functies worden vrijgegeven op **21 januari 2022**.
 
-## Innovatie op basis van AI {#ai-driven-innovation}
+## Ervaring van de volgende generatie {#next-generation-experience}
 
-**Voorspelende publieksverbeteringen**: U hebt nu meer zichtbaarheid in topgedragingen die invloed hebben op AI-voorspellingen voor de voorspellende modellen die door AI worden gebruikt in gebeurtenis- en e-mailprogramma&#39;s. U kunt het gedrag van de leden van de campagne controleren die in hogere gebeurtenisregistraties en aanwezigheid resulteren, evenals wat tot abonnees leidt. Op AI gebaseerde kalike-modellen kunnen nu in alle programmatypen in Marketo Engage worden gebruikt.
+* **Bijgewerkte schermen in de volgende generatie ervaring**: Wij leveren extra, verfrisste schermen in de volgende-generatieervaring die een bijgewerkt ontwerp en bruikbaarheidsverbeteringen via knevelschakelaar aanbieden:
 
-## Ervaring van de volgende generatie {#next-gen-experience}
+   * Gegevens over bestemmingspagina&#39;s in Design Studio
+   * Landingspagina — Gegevens over bedrijfsmiddelen bij marketingactiviteiten
+   * E-maillijstweergave in Design Studio (inclusief nieuwe bulkacties)
 
-**Kies uw eigen ervaring**: Schakel eenvoudig over naar de gewenste ervaring met de nieuwe schakeloptie terwijl u werkt aan Marketo Engage-formulierdetails of de weergave van de landingspagina zonder dat de context, wijzigingen in elementen of voorkeuren verloren gaan. Bovendien verbetert de nieuwe lijstweergave van de landingspagina uw ervaring met nieuwe filters en de mogelijkheid om massahandelingen uit te voeren.
+* **Beheerderscontrole voor de schakelaar van de Ervaring van de Volgende Generatie**: Beheerders kunnen selecteren welke gebruikerstypen toegang hebben tot de schakeloptie voor het weergeven van schermen in de volgende generatie.
 
-**Efficiënt zoeken**: Verbeterde toegankelijkheid van de algemene zoekfunctie omvat bijgewerkte toetsenbordnavigatie en labelbeschrijvingen, een nieuwe schuiffunctie voor resultaten en meer zichtbare toegepaste filters.
+## Integratie van Microsoft Dynamics {#microsoft-dynamics-integration}
 
-**Taken controleren**: Controleer de status van taken die op de achtergrond van de nieuwe ervaring worden uitgevoerd via de nieuwe taakmeldingslade in de globale navigatiebalk. In de lade worden meldingen vastgelegd voor taken die zijn gestart vanuit de nieuwe ervaringsweergave van formuliergegevens en de lijst met landingspagina&#39;s, waaronder het wijzigen van de status op landingspagina&#39;s en algemene massaacties met behulp van de nieuwe ervaring.
+* **Het synchroniseren van het Veldtype van de Optie Multiselect over het algemeen Beschikbaar**: Synchroniseer het multiselect optiesgebiedtype van de Dynamica van Microsoft aan hefboomwerking in Slimme Lijsten en Slimme Campagnes voor meer korrelige doelgroep. Voorbeelden zijn: onderwerpen/producten die van belang zijn, de voorkeur voor communicatiemiddelen en meer. Deze nieuwe synchronisatie is beschikbaar voor Microsoft Dynamics versie 9.X (inclusief Dynamics 365 Online).
 
-## Experience Automation {#experience-automation}
+* **Server-naar-server verificatie voor Microsoft Dynamics 365 Online**: Voor verhoogde veiligheid, zullen wij nu Server aan Server (S2S) als extra wijze van authentificatie voor de gebruiker van de Marketo Engage synchronisatie op Azure Actieve Folder voor niet-interactieve toegang tot de Dynamica 365 Online van Microsoft steunen. Dit staat u toe om multi-factorauthentificatie aan te wenden, aangezien al authentificatie en sign-ons op OAuth (slechts cliëntidentiteitskaart en cliëntgeheim) zullen worden gebaseerd.
 
-**Formulier-API-programma voor lid van aangepaste veldondersteuning verzenden**: Het verzendende API eindpunt van de Vorm is bevorderd om de Gebieden van de Douane van het Lid van het Programma te steunen, toestaand de integratie van de douanevorm om programma-specifieke gegevens te verzamelen.
+>[!NOTE]
+>
+>De S2S-modus is gebaseerd op de toepassingsgebruiker in plaats van de licentiegebruiker, die het gebruik van een aanvullende licentie opslaat.
+
+## Beheer {#administration}
+
+* **Validatieregels voor formulieren**: Houd de status van uw database in stand met de mogelijkheid om problematische of ongewenste e-maildomeinen te blokkeren van het verzenden van Marketo Engage-formulieren. Met het algemene deelvenster Regel voor formuliervalidatie kunnen beheerders een lijst van gewezen personen definiëren of een vooraf gedefinieerde lijst met gratis consumentendomeinen toestaan om formulieren te blokkeren.
+
+* **Beveiliging koptekst van bestemmingspagina**: De beheerders kunnen de Strikte kopballen van de Veiligheid van het Vervoer en x-Kader van Opties op hun landende paginaledomeinen beheren om sterke veiligheidseisen af te dwingen.
 
 **_Vrijgeven door het Kwartaal_**
 
 De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden de komende maanden vrijgegeven.
 
-**Native Adobe Experience Platform-connector voor delen van soorten publiek naar Marketo Engage**: Meerkanaals campagneorchestratie in Marketo Engage inschakelen voor publiekssegmenten die in Adobe Experience Platform zijn gemaakt via een native doelconnector. De connector gebruikt e-mailadressen of ECID om Adobe Experience Platform-profielen aan te passen aan Marketo Engage-persoonrecords. Dit leidt tot segmentdeling tussen toepassingen. De statische lijsten van Marketo Engage worden automatisch bevolkt die marketers toelaat om doelpubliek met hoogst gepersonaliseerd overseinen te bereiken of werkschema&#39;s in werking te stellen. Activeer het publiek door gebruik te maken van zijn account- en opportuniteitscontext en een volledig, realtime, uniform profiel in Experience Platform.
+## AEP Marketo Engage-bestemmingsconnector - Nieuwe ontbrekende leads maken {#aep-marketo-engage-destination-connector}
 
-**Adobe Experience Platform Marketo Data Source Connector**: Gebruikers van zowel Adobe Experience Platform als Marketo Engage zullen de Marketo Source Connector kunnen gebruiken om gegevens van Marketo naar AEP te brengen. U kunt gegevens (en de wijzigingen) vanuit Marketo streamen in AEP om de gegevens consistent te houden tussen de twee producten. De Marketo-connector kan worden bekeken via de Broncatalogus onder &quot;Adobe-toepassingen&quot;.
+Marketo Engage klanten die ook de Adobe Experience Platform (AEP) gebruiken kunnen hun gegevensbestand met de capaciteit maximaliseren om net-nieuwe persoonverslagen in Marketo Engage van AEP via de AEP bestemmingsschakelaar te duwen. Wanneer het verzenden van publiekssegmenten van AEP naar Marketo Engage, zullen de mensen binnen het segment die niet reeds in uw gegevensbestand van Marketo Engage bestaan automatisch aan het worden toegevoegd.
 
 ## Verkoopoverzicht {#sales-insight}
 
 ![(ster)](assets/yellow-star.png)
 
-**Verkoopoverzicht voor Microsoft Dynamics 365 Sales**
+* **Verkoopoverzicht voor Salesforce CRM**
 
-**Verbeteringen voor beste beets**: Het beste lusje van Bets in het Inzicht van de Verkoop voorziet verkoop van een mening in real time van de heetste contacten en de lood die door kwaliteit en urgentie voorrang wordt gegeven. We hebben de mogelijkheid toegevoegd dat verkopers actie kunnen ondernemen, zoals: Bekijk de score van een persoon, verzend een e-mail, of voeg vooruitzichten aan aangewezen Marketo Engage campagnes direct van de Beste pagina van Bets toe, die efficiency en snellere reactietijd verhogen.
+* **Nieuwe tekstkolom voor beste testmodellen**: Verkopers krijgen sneller inzicht in een nieuwe kolom met de naam &quot;Type&quot;, zodat ze onderscheid kunnen maken tussen leads en contactpersonen op de pagina Best Bets.
 
-**Nieuwe e-mail, webactiviteit, anonieme webactiviteitendashboards**: We hebben de nieuwe verkoopdashboards toegevoegd om verkopers te informeren over hun leads en contactpersonen voor de meest recente e-mail- en webactiviteiten. Met de nieuwe filtermogelijkheden bieden de dashboards nu inzicht in het openen van e-mail, klikken en webpaginabezoeken voor de volledige lijst met accounts of een specifieke account. Marketo Engage volgt alle Webactiviteit en voorziet verkoop van kritieke informatie, die anoniem verkeer in lood verandert. Verkopers worden in staat gesteld om hun betrokkenheid aan te passen en leads sneller om te zetten in verkoop omdat ze beter op de hoogte zijn van leadgedrag en op basis van de relevantie van alle aanraakpunten handelen.
+* **Update voor Salesforce Platform-API**: Als reactie op het afschaffen van Salesforce Platform API versies 21.0 tot en met 30.0 is het Sales Insight-pakket bijgewerkt met de nieuwste API&#39;s.
 
-**Verkoopoverzicht voor Salesforce**
+* **Bijgewerkte branding**: Alle pagina&#39;s van het Inzicht van de Verkoop worden bijgewerkt om zich aan de branding van Adobe te richten.
 
-**Best Bets op account- en opportuniteitsniveau**: Het Inzicht van de verkoop biedt nu de capaciteit voor verkoopvertegenwoordigers aan om Beste Bets voor alle contacten op de rekening of de kans te herzien zij hebben, zelfs wanneer het contact aan een verschillend teamlid wordt toegewezen. Dit geeft account- en opportuniteitseigenaars volledige zichtbaarheid in de activiteiten van relevante contactpersonen en helpt hen te handelen op basis van een holistischer beeld van de account of de kans.
+**Verkoopoverzicht voor Microsoft Dynamics**
+
+* **Bijgewerkte accountlay-out**: Verkopers kunnen een collectieve weergave krijgen van de belangrijkste activiteiten, zoals: e-mailactiviteiten, webactiviteiten, interessante momenten en scorewijzigingen voor alle contactpersonen in een account.
 
 ## Verkoop Connect {#sales-connect}
 
 ![(ster)](assets/yellow-star.png)
 
-**Verbeterde informatie over verkoopactiviteiten**: Een nieuwe e-mailvolgactiviteit, de Verkoop E-mail antwoordde, volgt de interactie van ontvangers met een e-mail die automatisch met Marketo Engage wordt gesynchroniseerd. Daarnaast is het kenmerk Source bijgewerkt van Tout naar Sales App. Deze activiteit kan worden uitgevoerd en door de Marketo Engage REST API of de BulkUitvoer worden gemeld en is beschikbaar op filters en trekkers als extra beperkingen voor slimme lijsten, uitbreidend verpersoonlijkingsopties in Slimme Campagnes.
+* **Resultaten en redenen van de vraag**: Begrijp en volg de uitgaande inspanningen van uw verkoopteams meer in detail met nieuwe, volledig klantgerichte vraaguitkomst en vraagredenopties. Naast deze nieuwe gebieden, introduceren wij nieuw bestuur om vraagreden en resultaatselectie af te dwingen terwijl de verkopers vraag maken, nieuw bestuur om vraagredenen en uitkomsten toe te laten of onbruikbaar te maken, en een nieuw de douanegebied van de Reden van de Vraag en van de Actie van Salesforce van het Uitkomen van de Vraag voor het registreren van gegevens aan Salesforce. [Klik hier](https://nation.marketo.com/t5/product-blogs/sales-connect-enhancements-to-call-outcomes-q1-22-release/ba-p/319812) voor meer informatie.
 
-**Gestroomlijnde gebruikerservaring**: Deze update introduceert nieuwe lettertypen, kleuren, knoppen en modaliteiten voor Sales Connect die zijn gebaseerd op het Adobe Spectrum-ontwerpsysteem. Met deze updates bieden we een efficiëntere ervaring, waarbij verkopers zich kunnen richten op wat nodig is, wanneer dat nodig is.
-
-## Bizible {#bizible}
-
-![](assets/yellow-star.png)
-
-**Bizible Integration met Adobe Privacy Service (GA)**: Bizible integration met de Adobe-Privacy Service centraliseert de naleving van belangrijke privacyregels voor gegevens, zoals GDPR (General Data Privacy Regulation) of CCPA (California Consumer Privacy Act) in alle Adobe Experience Cloud-toepassingen. U kunt uit deze dienst nu voordeel halen en alle privacyverzoeken centraal beheren door de Privacy Service van Adobe zodat veranderingsverzoeken die in Bizible, en andere producten van Adobe komen, over toepassingen worden weerspiegeld.
+* **Aanpassing Salesforce Activity Detail**: Vang meer verkoopactiviteit en taakgegevens in Salesforce door aan te passen welke informatie aan het de taakonderwerpgebied van Salesforce wordt toegevoegd wanneer een verkoopactiviteit aan Salesforce van de Verkoop Connect wordt geregistreerd. [Klik hier](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819) voor meer informatie.
 
 ## Aankondigingen {#announcements}
 
-**Loodafleiding koppelen/Munchkin Bèta 161-update**: Op 7 september 2021 begon versie 161 van Munchkin uit te rollen tot 10% van de abonnementen met Münchkin Beta ingeschakeld, gevolgd door 50% op 16 september en 100% op 30 september. Deze wijziging heeft invloed op Marketo Engage-landingspagina&#39;s en op de versie van het bestand munchkin-beta.js die wordt gebruikt voor externe bestemmingspagina&#39;s die worden geladen van abonnementen waarop de recente versie is geïmplementeerd. In deze versie wordt de methode Munchkin Associate Lead volledig vervangen. Deze functie maakt het mogelijk dat de gegevens van een persoon worden verzonden naar een Marketo Engage-abonnement en de bijbehorende webbrowsergeschiedenis met een bekende persoonrecord. Associate Lead wordt verwijderd ten gunste van modernere en veiligere alternatieven, zoals de Forms JS API, de Form Submit API en de Associate Lead REST API. [Meer informatie over deze veroudering vindt u hier](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/).
+* **Marketo Sky Sunsetting**: Op 11 maart is Marketo Sky niet meer beschikbaar omdat we onze bronnen richten op het bieden van de gebruikerservaring van de volgende generatie. In een poging om toegang te behouden tot functionaliteit die exclusief is voor Marketo Sky vandaag, brengen we Asset Expiration en Smart Campaign Priority Override in maart in de mainstream-ervaring.
 
-**Update van Verkoopverbinding**: Door een recente wijziging in de gebruikersinterface van Sales Connect zijn sommige modaliteiten in Salesforce afgesloten. Voer een [pakketupdate](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md).
+* **Vervalsing van eindpunten van formulier**: Niet-ondersteunde POST&#39;s van programmatische formulieren naar het eindpunt leadCapture/save2 worden door Marketo Engage-formulieren afgewezen. [Klik hier](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) voor meer informatie.
 
-**_Webinar productrelease_**
+* **E-mailverificatie**: Vanaf deze release zullen gebruikers van Marketo Engage-abonnementen hun e-mailadres laten verifiëren door gebruikers die geen API gebruiken. Gebruikers met een directoryservice hebben hun e-mailadres automatisch laten controleren wanneer hun abonnement is ingeschakeld met e-mailverificatie. E-mailverificatie voor gebruikers die de functie &quot;Aanmelden bij gebruiker uitnodigen&quot; gebruiken of voor gebruikers met een abonnement dat een e-mailadres bevat dat is gekoppeld aan meerdere gebruikers in het abonnement, wordt vertraagd en valt in maart samen met de functie-afschrijving.
 
-[Oktober 2021 Marketo Engage Release Webinar](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)
+* **Aanmelden bij Dialoogvenster Gebruiker uitnodigen**: In maart wordt de bestaande, optionele functie &#39;&#39;Aanmelden bij dialoogvenster Gebruiker uitnodigen&#39;&#39; vervangen. De functie &quot;Aanmelden bij nodigt de functionaliteit van de Dialoog van de Gebruiker uit&quot;wordt met voeten getreden door de Universele eigenschap van identiteitskaart, die voor de aanstaande Integratie van het Systeem van Adobe Identity Management wordt vereist en in Augustus 2021 op alle abonnementen werd toegelaten. Als gevolg van de afschrijving dwingt Marketo Engage alle gebruikers-id&#39;s (aanmeldingsgegevens) af om overeen te komen met het e-mailadres van de gebruiker en kan slechts één gebruiker per e-mailadres in een abonnement worden gekoppeld.

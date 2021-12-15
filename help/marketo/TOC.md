@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
 workflow-type: tm+mt
-source-wordcount: '8174'
+source-wordcount: '8189'
 ht-degree: 0%
 
 ---
@@ -1306,6 +1306,9 @@ ht-degree: 0%
                + [Overzicht van leveringskanaal](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [Throtting van e-mailverbinding](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Stel een aangepast leveringskanaal in voor uw team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
+            + Salesforce-configuratie {#email-delivery}
+               + [Salesforce Classic-aanpassingspakket verwijderen](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [Aanpassingspakket voor Salesforce Lightning verwijderen](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
             + Abonnementen opzeggen {#unsubscribes}
                + [Overzicht van abonnement opzeggen](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [Bericht voor opzeggen van koppeling aanpassen](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1737,6 +1740,7 @@ ht-degree: 0%
          + [Opmerkingen bij de release: 21 jan.](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Opmerkingen bij de release: 21 mei](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [Opmerkingen bij de release: 21 augustus](release-notes/previous-releases/2021/release-notes-aug-21.md)
+         + [Opmerkingen bij de release: 21 oktober](release-notes/previous-releases/2021/release-notes-oct-21.md)
       + 2020 {#2020}
          + [Opmerkingen bij de release: 20 jan.](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [Opmerkingen bij de release: 20 feb.](release-notes/previous-releases/2020/release-notes-feb-20.md)
