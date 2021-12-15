@@ -2,14 +2,13 @@
 unique-page-id: 2359652
 description: Een betrokkenheidsprogramma maken - Marketo Docs - Productdocumentatie
 title: Een betrokkenheidsprogramma maken
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
+source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
-
 
 # Een betrokkenheidsprogramma maken {#create-an-engagement-program}
 
@@ -19,11 +18,11 @@ Met betrokkenheidsprogramma&#39;s in Marketo kunt u eenvoudig zorgen voor e-mail
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer de map waarin u het betrokkenheidsprogramma wilt maken en klik op **Nieuw** en **Nieuw programma**.
+1. Selecteer de map waarin u het betrokkenheidsprogramma wilt maken en klik vervolgens op **Nieuw** en **Nieuw programma**.
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. Voer een **Naam** in, selecteer **Betrokkenheid** voor **Programmatype** en klik **Maken**.
+1. Voer een **Naam**, selecteert u **Betrokkenheid** for **Type programma** en klik op **Maken**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
@@ -33,6 +32,6 @@ Met betrokkenheidsprogramma&#39;s in Marketo kunt u eenvoudig zorgen voor e-mail
 
    >[!MORELIKETHIS]
    >
-   >* [Inhoud toevoegen aan een stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+   >* [Inhoud toevoegen aan een stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
    >* [Stroomversnelling instellen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
 

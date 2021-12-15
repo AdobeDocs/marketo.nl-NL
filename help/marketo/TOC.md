@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 1dd4a4f6bfac0b101f85f3776396aeef1a1f7182
+source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
 workflow-type: tm+mt
-source-wordcount: '8159'
+source-wordcount: '8174'
 ht-degree: 0%
 
 ---
@@ -1124,6 +1124,7 @@ ht-degree: 0%
             + [Bulkhandelingen gebruiken in Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
             + [Bulkhandelingen gebruiken in Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
          + Salesforce-integratie {#salesforce-integration}
+            + [Aanpassing Salesforce Activity Detail configureren](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Verbind Uw Verkoop Connect Rekening met Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Salesforce loskoppelen van uw Connect-account voor verkoop](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
             + [Hoe te om &quot;Wij konden niet uw verzoek&quot;voor authentiek verklaren wanneer het verbinden met Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1246,6 +1247,8 @@ ht-degree: 0%
          + [De Opnamen van de Vraag van het aandeel met Uw Team](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [Instellingen voor tweeledige toestemming](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
       + Taken {#tasks}
+         + [Herinneringstaken maken en toewijzen](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
+         + [Herinnering taaksynchronisatie met Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [De Taken van de Verbinding van de Verkoop met Salesforce voor de eerste keer synchroniseren](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Sjablonen {#templates}
          + [Automatisch afmelden aan een sjabloon toevoegen](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
