@@ -1,35 +1,34 @@
 ---
 unique-page-id: 18317340
 description: Marketo Unsubscribe Check - Marketo Docs - Productdocumentatie
-title: Marketo Unsubscribe-controle
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+title: Marketo Unsubscribe Check
+exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
+source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
+# Marketo Unsubscribe Check {#marketo-unsubscribe-check}
 
-# Marketo Unsubscribe-controle {#marketo-unsubscribe-check}
-
-Met de controle Afmelden bij Marketo wordt de verbinding van uw team met Marketo gebruikt om te voorkomen dat e-mails worden verzonden naar personen die niet zijn geabonneerd in het Lead Management-systeem van Marketo. Wanneer een verkoopgebruiker een e-mail verzendt met Sales Connect, wordt een API-aanroep naar Marketo uitgevoerd om te controleren of het e-mailadres niet is geabonneerd. Als dit het geval is, blokkeren we het verzenden van de e-mail.
+Met de Marketo Unsubscribe Check wordt de verbinding van uw team met Marketo gebruikt om te voorkomen dat e-mails worden verzonden naar personen die zich niet hebben geabonneerd in het beheersysteem voor leads van Marketo. Wanneer een verkoopgebruiker een e-mail verzendt met Sales Connect, wordt een API-aanroep naar Marketo uitgevoerd om te controleren of het e-mailadres niet is geabonneerd. Als dit het geval is, blokkeren we het verzenden van de e-mail.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-## {#turning-it-on} inschakelen
+## Deze inschakelen {#turning-it-on}
 
 1. Klik in de webtoepassing op het tandwielpictogram en selecteer **Instellingen**.
 
    ![](assets/one-2.png)
 
-1. Klik onder Beheerinstellingen op **Abonnementen** opzeggen.
+1. Klik onder Beheerinstellingen op **Abonnementen opzeggen**.
 
    ![](assets/two-3.png)
 
-1. Klik **Integrations**.
+1. Klikken **Integraties**.
 
    ![](assets/three-3.png)
 
@@ -37,11 +36,12 @@ Met de controle Afmelden bij Marketo wordt de verbinding van uw team met Marketo
 
    ![](assets/four-2.png)
 
-## Te kennen zaken {#things-to-know}
+## Informatie over {#things-to-know}
 
-De controle Afmelden bij Marketo...
+Afmeldingscontrole van Marketo...
 
 * telt niet mee voor uw API-limieten
-* Vereist dat een verbinding Marketo wordt gevestigd
+* Hiervoor moet een Marketo-verbinding tot stand worden gebracht
 * Is een globale instelling
 * Hiermee blokkeert u e-mailberichten die worden verzonden vanuit de webtoepassing, e-mailclients en Salesforce
+* Wordt een mislukte e-mail geregistreerd of voorkomt dat een gebruiker een bericht verzendt wanneer deze voor alle workflows probeert te verzenden (e-mailplug-in verzenden, individueel verzenden, verkoopcampagne verzenden, meerdere selecteren en verzenden), behalve voor [groepse e-mails](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md), waarin we zullen voorkomen dat de e-mails stilzwijgend worden verzonden

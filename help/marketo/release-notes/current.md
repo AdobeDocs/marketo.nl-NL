@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 6033a1bfbdce1b617181415c4f7394074c64595f
+source-git-commit: 82c75d52caf3a0320cd3e8534b3b0870cf12d660
 workflow-type: tm+mt
-source-wordcount: '948'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ De volgende functies zijn opgenomen in de release van 22 januari. Controleer de 
 
 De volgende functies worden vrijgegeven op **21 januari 2022**.
 
-## Ervaring van de volgende generatie {#next-generation-experience}
+## Ervaring van de volgende generatie {#next-generation-experience}
 
 * **Bijgewerkte schermen in de volgende generatie ervaring**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
 
@@ -51,7 +51,7 @@ De volgende functies worden vrijgegeven op **21 januari 2022**.
 
 De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden de komende maanden vrijgegeven.
 
-## AEP Marketo Engage-bestemmingsconnector - Nieuwe ontbrekende leads maken {#aep-marketo-engage-destination-connector}
+## AEP-Marketo Engage-bestemmingsconnector - Nieuwe netwerkleads maken {#aep-marketo-engage-destination-connector}
 
 Marketo Engage klanten die ook de Adobe Experience Platform (AEP) gebruiken kunnen hun gegevensbestand met de capaciteit maximaliseren om net-nieuwe persoonverslagen in Marketo Engage van AEP via de AEP bestemmingsschakelaar te duwen. Wanneer het verzenden van publiekssegmenten van AEP naar Marketo Engage, zullen de mensen binnen het segment die niet reeds in uw gegevensbestand van Marketo Engage bestaan automatisch aan het worden toegevoegd.
 
@@ -59,7 +59,7 @@ Marketo Engage klanten die ook de Adobe Experience Platform (AEP) gebruiken kunn
 
 ![(ster)](assets/yellow-star.png)
 
-* **Verkoopoverzicht voor Salesforce CRM**
+**Verkoopoverzicht voor Salesforce CRM**
 
 * **Nieuwe tekstkolom voor beste testmodellen**: Verkopers krijgen sneller inzicht in een nieuwe kolom met de naam &quot;Type&quot;, zodat ze onderscheid kunnen maken tussen leads en contactpersonen op de pagina Best Bets.
 
@@ -85,6 +85,8 @@ Marketo Engage klanten die ook de Adobe Experience Platform (AEP) gebruiken kunn
 
 * **Vervalsing van eindpunten van formulier**: Niet-ondersteunde POST&#39;s van programmatische formulieren naar het eindpunt leadCapture/save2 worden door Marketo Engage-formulieren afgewezen. [Klik hier](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) voor meer informatie.
 
-* **E-mailverificatie**: Vanaf deze release zullen gebruikers van Marketo Engage-abonnementen hun e-mailadres laten verifiëren door gebruikers die geen API gebruiken. Gebruikers met een directoryservice hebben hun e-mailadres automatisch laten controleren wanneer hun abonnement is ingeschakeld met e-mailverificatie. E-mailverificatie voor gebruikers die de functie &quot;Aanmelden bij gebruiker uitnodigen&quot; gebruiken of voor gebruikers met een abonnement dat een e-mailadres bevat dat is gekoppeld aan meerdere gebruikers in het abonnement, wordt vertraagd en valt in maart samen met de functie-afschrijving.
+* **E-mailverificatie**: Vanaf deze release zullen gebruikers van Marketo Engage-abonnementen hun e-mailadres laten verifiëren door gebruikers die geen API gebruiken. Gebruikers met een directoryservice hebben hun e-mailadres automatisch laten controleren wanneer hun abonnement is ingeschakeld met e-mailverificatie. E-mailverificatie voor gebruikers die de functie &quot;Aanmelden bij gebruiker uitnodigen&quot; gebruiken of voor gebruikers met een abonnement dat een e-mailadres bevat dat is gekoppeld aan meerdere gebruikers in het abonnement, wordt vertraagd en valt in maart samen met de functie-afschrijving.
 
 * **Aanmelden bij Dialoogvenster Gebruiker uitnodigen**: In maart wordt de bestaande, optionele functie &#39;&#39;Aanmelden bij dialoogvenster Gebruiker uitnodigen&#39;&#39; vervangen. De functie &quot;Aanmelden bij nodigt de functionaliteit van de Dialoog van de Gebruiker uit&quot;wordt met voeten getreden door de Universele eigenschap van identiteitskaart, die voor de aanstaande Integratie van het Systeem van Adobe Identity Management wordt vereist en in Augustus 2021 op alle abonnementen werd toegelaten. Als gevolg van de afschrijving dwingt Marketo Engage alle gebruikers-id&#39;s (aanmeldingsgegevens) af om overeen te komen met het e-mailadres van de gebruiker en kan slechts één gebruiker per e-mailadres in een abonnement worden gekoppeld.
+
+**Marketo Engage Domeinen - Configuratie van het Inzicht van de Verkoop**: Voor Marketo Engage domeinen die geen SSL cert hebben provisioned en https://, zullen de vraag met een SSL handshake fout ontbreken. Daarom zullen deze domeinen worden zonsondergang. Dientengevolge, zouden de gebruikers van het Inzicht van de Verkoop met een oudere configuratie die aan om het even welk van deze domeinen richten in de fouten van de systeemcallout op hun Lood, Contact, Rekening, de Panelen van de Opportunity, of Globale pagina van Marketo kunnen lopen. We raden u aan uw [Marketo Engage-configuratie](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in Salesforce als deze fout optreedt. U hoeft alleen de gegevens voor Marketo Engage bij te werken die zijn gemarkeerd in de sectie &quot;Marketo Sales Insight Config&quot; van het document.
