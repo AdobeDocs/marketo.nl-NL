@@ -3,7 +3,8 @@ description: Aanpassingspakket voor Salesforce Lightning verwijderen - Marketo D
 title: Aanpassingspakket voor Salesforce Lightning verwijderen
 hide: true
 hidefromtoc: true
-source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
+exl-id: 85966da3-1e20-4b87-b140-30523092b2e4
+source-git-commit: 9186e15ea99052ef83a877ac336979acff5e692d
 workflow-type: tm+mt
 source-wordcount: '1182'
 ht-degree: 0%
@@ -46,7 +47,7 @@ Verwijder het Marketo Sales Connect-pakket van uw Salesforce-account als u het M
 
    >[!NOTE]
    >
-   >Als geen van de velden grijs wordt weergegeven, hebt u deze niet toegevoegd aan de pagina-indeling. U kunt deze sectie overslaan.
+   >If none of the fields are grayed out, it means you haven&#39;t added them to your page layout. U kunt deze sectie overslaan.
 
 1. Blader naar de sectie met uw aangepaste verkoopvelden voor Connect.
 
@@ -128,7 +129,7 @@ De knoppen in de weergave voor de lijst met leads worden niet meer weergegeven.
 
 1. Omlaag schuiven naar en selecteren **Contact**.
 
-1. Klikken **Pagina-indelingen**.
+1. Click **Page Layouts**.
 
 1. Klikken **Contactlay-out**.
 
@@ -136,15 +137,15 @@ De knoppen in de weergave voor de lijst met leads worden niet meer weergegeven.
 
 ## MSC-configuratie voor opportunity verwijderen {#remove-msc-configuration-for-opportunity}
 
-1. Klik in Salesforce Lightning op het tandwielpictogram en selecteer **Instellen**.
+1. In Salesforce Lightning, click the gear icon and select **Setup**.
 
-1. Klikken **Objectbeheer**.
+1. Click **Object Manager**.
 
-1. Omlaag schuiven naar en selecteren **Opportunity**.
+1. Scroll down to and select **Opportunity**.
 
 1. Klikken **Pagina-indelingen**.
 
-1. Klikken **Opportunity-indeling**.
+1. Click **Opportunity Layout**.
 
 De opportuniteitsweergave heeft slechts één knop - &quot;MSE-mail verzenden&quot; en de volgende velden:
 
@@ -242,8 +243,8 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-instantie moeten wo
  <tr>
   <td>MSC-e-mail gereageerd</td>
   <td>Logt een vinkje in wanneer de ontvanger op e-mail antwoordt</td>
-  <td>Activiteit</td>
-  <td>Tekst</td>
+  <td>Activity</td>
+  <td>Text</td>
  </tr>
  <tr>
   <td>MSC-e-mailstatus</td>
@@ -285,8 +286,8 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-instantie moeten wo
   <th>Gegevenstype</th>
  </tr>
  <tr>
-  <td>MSC - Laatste marketingservice</td>
-  <td>Laatste inkomende betrokkenheid van Marketing</td>
+  <td>MSC - Last Marketing Engagement</td>
+  <td>Last incoming engagement from Marketing</td>
   <td>
   <p>Account
   <p>Contact
@@ -315,18 +316,18 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-instantie moeten wo
   <td>Tekst</td>
  </tr>
  <tr>
-  <td>MSC - Laatste bron voor marketingservice</td>
+  <td>MSC - Last Marketing Engagement Source</td>
   <td>Bron van marketingovereenkomst</td>
   <td>
   <p>Account 
   <p>Contact 
-  <p>Lood 
+  <p>Lead 
   <p>Opportunity</td>
-  <td>Tekst</td>
+  <td>Text</td>
  </tr>
  <tr>
   <td>MSC - Laatste type marketingservice</td>
-  <td>Soort betrokkenheid (bijv.: Webactiviteit)</td>
+  <td>Type of Engagement (ex: Web activity)</td>
   <td>
   <p>Account 
   <p>Contact 
@@ -346,7 +347,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-instantie moeten wo
  </tr>
  <tr>
   <td>MSC - Laatste reactie</td>
-  <td>Laatste e-mailantwoord op e-mail over verkoop</td>
+  <td>Last email reply to Sales email</td>
   <td>
   <p>Account 
   <p>Contact 
@@ -376,7 +377,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-instantie moeten wo
  </tr>
  <tr>
   <td>MSC - Weigeren</td>
-  <td>Veld Weigeren</td>
+  <td>Opt out field</td>
   <td>
   <p>Account 
   <p>Contact 
@@ -388,13 +389,13 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-instantie moeten wo
 
 <table>
  <tr>
-  <th>MSC-knoppen</th>
+  <th>MSC Buttons</th>
   <th>Beschrijving</th>
   <th>Type</th>
  </tr>
  <tr>
-  <td>MSC-e-mail verzenden</td>
-  <td>E-mails over verkopen verzenden vanuit Salesforce</td>
+  <td>Send MSC Email</td>
+  <td>Send sales emails from Salesforce</td>
   <td>
   <p>Account 
   <p>Contact 
@@ -403,7 +404,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-instantie moeten wo
  </tr>
  <tr>
   <td>Toevoegen aan MSC-campagne</td>
-  <td>Toevoegen aan MSC-campagnes van Salesforce</td>
+  <td>Add to MSC campaigns from Salesforce</td>
   <td>
   <p>Contact
   <p>Lood</td>
@@ -417,7 +418,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-instantie moeten wo
  </tr>
  <tr>
   <td>Vraag met MSC</td>
-  <td>Maak verkoopvraag van Salesforce</td>
+  <td>Make sales calls from Salesforce</td>
   <td>
   <p>Contact
   <p>Lood</td>
@@ -431,11 +432,11 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-instantie moeten wo
   <th>Type</th>
  </tr>
  <tr>
-  <td>Toevoegen aan MSC-campagne</td>
+  <td>Add to MSC Campaign</td>
   <td>Toevoegen aan MSC-campagnes van Salesforce</td>
   <td>
   <p>Contact
-  <p>Lood</td>
+  <p>Lead</td>
  </tr>
  <tr>
   <td>Naar MSC duwen</td>
@@ -446,7 +447,7 @@ Hier volgt een lijst met alle objecten die uit uw Salesforce-instantie moeten wo
  </tr>
  <tr>
   <td>E-mailen met MSC</td>
-  <td>E-mail met MSC van Salesforce</td>
+  <td>Email with MSC from Salesforce</td>
   <td>
   <p>Contact
   <p>Lood</td>

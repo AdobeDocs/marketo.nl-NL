@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
+source-git-commit: 6033a1bfbdce1b617181415c4f7394074c64595f
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '948'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ De volgende functies worden vrijgegeven op **21 januari 2022**.
 
 ## Ervaring van de volgende generatie {#next-generation-experience}
 
-* **Bijgewerkte schermen in de volgende generatie ervaring**: Wij leveren extra, verfrisste schermen in de volgende-generatieervaring die een bijgewerkt ontwerp en bruikbaarheidsverbeteringen via knevelschakelaar aanbieden:
+* **Bijgewerkte schermen in de volgende generatie ervaring**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
 
    * Gegevens over bestemmingspagina&#39;s in Design Studio
    * Landingspagina — Gegevens over bedrijfsmiddelen bij marketingactiviteiten
