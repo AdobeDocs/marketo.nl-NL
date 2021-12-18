@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 49b1bd707b8394ceeea0984c4c11d3ac88ab81b6
+source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
 workflow-type: tm+mt
-source-wordcount: '8189'
+source-wordcount: '8195'
 ht-degree: 0%
 
 ---
@@ -1287,6 +1287,7 @@ ht-degree: 0%
             + [Een team maken](product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)
             + [Aangepast domein bijhouden instellen](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Gebruikers en beheerders uitnodigen](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
+            + [Kenmerken verkoopactiviteit registreren voor Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
             + [Instellingen voor delen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Toegangsgegevens gebruiker](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Campagnes {#campaigns}
