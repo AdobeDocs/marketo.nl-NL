@@ -1,75 +1,73 @@
 ---
 unique-page-id: 4720275
-description: Een aangepast publiek maken op Facebook - Marketo Docs - Productdocumentatie
-title: Een aangepast publiek maken op Facebook
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Een aangepast publiek maken in Facebook - Marketo Docs - Productdocumentatie
+title: Een aangepast publiek maken in Facebook
+exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
+source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# Een aangepast publiek maken op Facebook {#create-a-custom-audience-in-facebook}
+# Een aangepast publiek maken in Facebook {#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [Voeg Aangepast publiek voor Facebook toe als een LaunchPoint-](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) service in de sectie Admin.
->* [Accepteer de ](https://www.facebook.com/ads/manage/customaudiences/tos.php) voorwaarden voor aangepast publiek van Facebook in uw Facebook-account.
+>* [Aangepast publiek voor Facebook toevoegen als een opstartpuntservice](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) in de sectie Beheer.
+>* [Voorwaarden voor aangepast publiek voor Facebook accepteren](https://www.facebook.com/ads/manage/customaudiences/tos.php) in uw Facebook-account.
 
 >
-
 
 
 >[!TIP]
 >
->Meer informatie over [aangepaste soorten publiek op Facebook](https://www.facebook.com/help/341425252616329).
+>Meer informatie over [aangepast publiek in Facebook](https://www.facebook.com/help/341425252616329).
 
 1. Zoek en selecteer de slimme of statische lijst met de leads waaruit u het publiek wilt maken.
 
-   ![](assets/1.png)
+   ![](assets/create-a-custom-audience-in-facebook-1.png)
 
-1. Selecteer het tabblad **Leads** en klik vervolgens op het pictogram **Verzenden via ad Bridge** onderaan.
+1. Selecteer **Leads** en klikt u op de knop **Verzenden via Adobe Bridge** aan de onderkant.
 
-   ![](assets/222.png)
+   ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. Selecteer **Facebook** en klik **Volgende**.
+1. Selecteren **Facebook** en klik op **Volgende**.
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. Klik **Publiek** drop-down en selecteer **+ Nieuwe Publiek**.
+1. Klik op de knop **Publiek** vervolgkeuzelijst en selecteer **+ Nieuw publiek**.
 
-   ![](assets/four.png)
+   ![](assets/create-a-custom-audience-in-facebook-4.png)
 
-1. Typ een **Audience Name**. Klik **Update**.
+1. Typ in een **Auditienaam**. Klikken **Bijwerken**.
 
-   ![](assets/five.png)
+   ![](assets/create-a-custom-audience-in-facebook-5.png)
 
    >[!NOTE]
    >
-   >Als u meerdere advertentierekeningen voor Facebook hebt, wordt er een vervolgkeuzelijst weergegeven waarin u kunt kiezen in welk advertentiekader dit publiek wordt gemaakt.
+   >Als u meerdere Facebook Ad-accounts hebt, wordt er een vervolgkeuzelijst weergegeven waarin u kunt kiezen in welk Advertentieaccount dit publiek wordt gemaakt.
 
    >[!TIP]
    >
-   >Wilt u een nieuw publiek omwisselen met een bestaand publiek dat momenteel is gekoppeld aan een advertentieset of -groep? Schakel het selectievakje **Een bestaand publiek vervangen** in. Als u dit doet, verwijdert u **niet** het publiek dat wordt vervangen.
+   >Wilt u een nieuw publiek omwisselen met een bestaand publiek dat momenteel is gekoppeld aan een advertentieset of -groep? Selecteer **Een bestaand publiek vervangen** selectievakje. Dit zal doen **niet** het publiek verwijderen dat wordt vervangen.
 
 1. Als dit is voltooid, wordt het statusdialoogvenster bijgewerkt.
 
-   ![](assets/six.png)
+   ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   En dat is het! Op Facebook ziet u het nieuwe publiek in **Advertentiebeheer > Soorten publiek**.
+   En dat is het! In Facebook zie je het nieuwe publiek in **Advertentiebeheer > Soorten publiek**.
 
-   ![](assets/image2014-12-10-11-3a38-3a32.png)
+   ![](assets/create-a-custom-audience-in-facebook-7.png)
 
    >[!NOTE]
    >
-   >Alle lijsten die u naar Facebook stuurt, worden statisch. Slimme lijsten in Marketo worden niet automatisch bijgewerkt in de lijst met doelgroepen in Facebook als gevolg van wijzigingen die na de overdracht zijn aangebracht.
+   >Alle lijsten die u naar Facebook drukt, worden statisch. Slimme lijsten in Marketo werken de publiekslijst in Facebook niet automatisch bij om wijzigingen weer te geven die na de overdracht zijn aangebracht.
 
    >[!TIP]
    >
-   >Zie het [Facebook-leerpad voor Marketo-klanten](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Het behandelt alles wat u moet weten, van het creëren van een Facebook-pagina tot het richten van uw advertenties op Facebook met behulp van Marketo&#39;s advertentie-netwerkintegratie.
+   >Zie de [Facebook-leerpad voor Marketo-klanten](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi). Alles wat u moet weten, van het maken van een Facebook-pagina tot het richten van Facebook-advertenties via Marketo en netwerkintegratie.
 
    >[!NOTE]
    >
-   >[Leads toevoegen aan een aangepast publiek op Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[Leads toevoegen aan een aangepast publiek in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

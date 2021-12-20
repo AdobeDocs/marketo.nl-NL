@@ -2,9 +2,9 @@
 description: Een Adobe Experience Platform-segment verplaatsen naar een statische Marketo-lijst - Marketo Docs - Productdocumentatie
 title: Een Adobe Experience Platform-segment naar een statische Marketo-lijst verplaatsen
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 5d26aff392d5749941ad93e351c454249662cd72
+source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    >[!NOTE]
    >
-   >Segmenten naar statische lijsten zijn 1:1. Als u hier veelvoudige segmenten kiest, zult u elk segment aan een gespecificeerde statische lijst op het lusje van het Programma van het Segment moeten in kaart brengen.
+   >Als u hier veelvoudige segmenten kiest, zult u elk segment aan een gespecificeerde statische lijst op het lusje van het Programma van het Segment moeten in kaart brengen.
 
 1. Klikken **Nieuwe toewijzing toevoegen**.
 
