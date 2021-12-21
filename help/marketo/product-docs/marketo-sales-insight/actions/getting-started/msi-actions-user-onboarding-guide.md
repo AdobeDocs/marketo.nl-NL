@@ -1,11 +1,11 @@
 ---
-description: MSI-handelingen aan boord - Marketo-documenten - productdocumentatie
-title: MSI-handelingen aan boord
+description: MSI-handelingen Gebruikershandleiding aan boord - Marketo-documenten - Productdocumentatie
+title: MSI-handelingen Gebruikershandleiding aan boord
 hide: true
 hidefromtoc: true
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,22 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* Een beheerder moet een gebruiker uitnodigen om MSI-handelingen te gaan gebruiken.
->* Als u uw account met Salesforce wilt activeren, moet u API ingeschakeld hebben in de bevoegdheden van het Salesforce-profiel.
+>* Als u uw account met Salesforce wilt activeren, moet u API ingeschakeld hebben in de bevoegdheden voor het Salesforce-profiel.
 
 
 Nieuwe gebruikers moeten de onderstaande stappen volgen.
 
 1. Klik in de welkomstmail op **Aan de slag**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-1.png)
 
 1. Klikken **Account activeren met Salesforce**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-2.png)
 
 1. Als u al bij uw Salesforce-account bent aangemeld, wordt u automatisch naar het volgende scherm geleid. Als u niet bent aangemeld, doet u dit nu.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-3.png)
 
 >[!NOTE]
 >
@@ -38,31 +38,31 @@ PICC
 
 1. Klikken **Toestaan**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-4.png)
 
 1. Klikken **Start**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-5.png)
 
 1. Klikken **Volgende**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-6.png)
 
 1. Kies de e-mailclient die u gebruikt (Gmail of Outlook) en klik op **Volgende**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-7.png)
 
 1. Voer uw e-mailadres in en klik op **Volgende**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-8.png)
 
 1. Voer uw wachtwoord in en klik op **Volgende**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-9.png)
 
 1. Klikken **Doorgaan**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-10.png)
 
 >[!NOTE]
 >
@@ -70,24 +70,24 @@ PICC
 
 1. U ziet het succesbericht E-mailverbinding instellen en u wordt naar het volgende scherm verzonden.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-11.png)
 
-1. Voer uw aangepaste handtekening in (dit kunt u later doen als u de profielpagina wilt doorlopen).
+1. Voer uw aangepaste handtekening in en klik op **Opslaan** (als u dit later via de profielpagina wilt doen, klikt u op **Overslaan**).
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-12.png)
 
 1. Klikken **Voltooien**.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-13.png)
 
 1. Je ziet de optie om een korte inleiding op Marketo-verkoopacties te bekijken. Klikken **Volgende** om te bekijken, of **Niet nu** opslaan voor later.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-14.png)
 
 1. Als u klaar bent met de tour of als u deze hebt overgeslagen, kiest u of u zich rechtstreeks bij de webtoepassing of bij uw Salesforce-account aanmeldt, zodat u toegang hebt tot alle functies in het deelvenster MSI (in dit voorbeeld kiezen wij **Salesforce starten**).
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-15.png)
 
 1. Binnen Salesforce (Klassiek of Bliksem), kunt u aan om het even welke lood, contact, rekening, of kans navigeren. Al uw Handelingen van de Verkoop zullen door drop-down in het paneel MSI beschikbaar zijn.
 
-PICC
+   ![](assets/msi-actions-user-onboarding-guide-16.png)

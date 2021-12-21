@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: aa58277a9620c5c187e9bd1e5c691b94b64b0968
+source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
 workflow-type: tm+mt
-source-wordcount: '8195'
+source-wordcount: '8200'
 ht-degree: 0%
 
 ---
@@ -1308,6 +1308,7 @@ ht-degree: 0%
                + [Throtting van e-mailverbinding](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [Stel een aangepast leveringskanaal in voor uw team](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
             + Salesforce-configuratie {#email-delivery}
+               + [Configuratie MSI-handelingen in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
                + [Salesforce Classic-aanpassingspakket verwijderen](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
                + [Aanpassingspakket voor Salesforce Lightning verwijderen](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
             + Abonnementen opzeggen {#unsubscribes}
