@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: c4db281bc1b92bdd3ecc3c8b0aaf7e2f21d1f987
+source-git-commit: 23873e440f194f75a39532d650cc3e18e3baf98c
 workflow-type: tm+mt
-source-wordcount: '8205'
+source-wordcount: '8209'
 ht-degree: 0%
 
 ---
@@ -1277,6 +1277,7 @@ ht-degree: 0%
       + Handelingen {#actions}
          + Aan de slag {#getting-started}
             + [MSI-handelingen Gebruikershandleiding aan boord](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [Beheerdershandleiding voor MSI-handelingen](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
             + [Je Marketo-verkoopwachtwoord wijzigen](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + E-mailinstellingen {#email-settings}
                + [Uw e-mail verifiëren](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
