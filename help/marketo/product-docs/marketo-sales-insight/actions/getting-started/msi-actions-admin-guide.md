@@ -3,9 +3,9 @@ description: Beheerdershandleiding voor MSI-handelingen - Marketo Docs - Product
 title: Beheerdershandleiding voor MSI-handelingen
 hide: true
 hidefromtoc: true
-source-git-commit: 9ee07611ffae25fea4bffa3124927083bf187ddd
+source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ ht-degree: 0%
 
 1. Klik in Marketo op **Beheer**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-1.png)
 
 1. Klikken **Verkoopoverzicht** vervolgens **Handelingen configureren**. Kiezen uit een lijst met Marketo-beheerders die u wilt uitnodigen en klikken **Uitnodiging verzenden**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-2.png)
 
 De gebruiker zal een e-mail met stappen ontvangen om toegang tot de rekening te krijgen.
 
@@ -73,19 +73,19 @@ De gebruiker zal een e-mail met stappen ontvangen om toegang tot de rekening te 
 
 1. Klik in je Marketo Sales-account op het tandwielpictogram en selecteer **Instellingen**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-3.png)
 
 1. Klik onder Beheerinstellingen op **Salesforce**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-4.png)
 
 1. Klik op het tabblad Verbindingen en aanpassingen op **Verbinden**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-5.png)
 
 1. Klikken **OK**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-6.png)
 
 Als u al bent aangemeld bij Salesforce, hebt u verbinding. Als dat niet het geval is, wordt u gevraagd u aan te melden.
 
@@ -93,13 +93,15 @@ Als u al bent aangemeld bij Salesforce, hebt u verbinding. Als dat niet het geva
 
 1. Klik in je Marketo Sales-account op het tandwielpictogram en selecteer **Instellingen**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-7.png)
 
 1. Klik onder Beheerinstellingen op **Marketo**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-8.png)
 
 1. Klikken **verbinden**. Uw account wordt dan verbonden.
+
+   ![](assets/msi-actions-admin-guide-9.png)
 
 >[!NOTE]
 >
@@ -107,21 +109,21 @@ PICC
 
 ## Gegevenssynchronisatie starten {#initiate-data-sync}
 
-1. Klik in Marketo op Beheer.
+1. Klik in Marketo op **Beheer**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-10.png)
 
-1. Klik het Inzicht van de Verkoop, dan Config van Acties.
+1. Klik op Verkoopoverzicht.
 
-PICC
+   ![](assets/msi-actions-admin-guide-11.png)
 
-1. Klik op de synchronisatiekaart van het veld Handeling op **Synchroniseren**.
+1. Klik op het tabblad Handelingen Config. Klik op de synchronisatiekaart van het veld Handeling op **Synchroniseren**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-12.png)
 
 1. U ziet een voorvertoning van de velden die worden gesynchroniseerd. Klikken **Synchronisatie starten**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-13.png)
 
 Persoonlijke gegevens die in Marketo en Salesforce bestaan, worden gesynchroniseerd met je Marketo Sales Apps-account.
 
@@ -129,17 +131,19 @@ Persoonlijke gegevens die in Marketo en Salesforce bestaan, worden gesynchronise
 
 1. Klik in je Marketo Sales-account op het tandwielpictogram en selecteer **Instellingen**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-14.png)
 
 1. Selecteer onder Beheerinstellingen de optie **Gebruikersbeheer**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-15.png)
 
 1. Klikken **Handelingen** en selecteert u **Gebruikers uitnodigen**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-16.png)
 
 1. Voer het e-mailadres of de e-mailadressen in en klik op **Uitnodigen**.
+
+   ![](assets/msi-actions-admin-guide-17.png)
 
 >[!NOTE]
 >
@@ -151,23 +155,23 @@ Je ontvangt een bevestigingsbericht.
 
 1. Klik in je Marketo Sales-account op het tandwielpictogram en selecteer **Instellingen**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-18.png)
 
 1. Selecteer onder Beheerinstellingen de optie **Gebruikersbeheer**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-19.png)
 
 1. Klikken **Handelingen** en selecteert u **Gebruikers uitnodigen via CSV**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-20.png)
 
 1. Blader naar de CSV op uw computer, selecteer deze en klik op **Volgende**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-21.png)
 
 1. Controleer of de velden correct zijn toegewezen en klik op **Uitnodigen**.
 
-PICC
+   ![](assets/msi-actions-admin-guide-22.png)
 
 U zult een bevestigingsbericht ontvangen zodra de uitnodigingen worden verzonden.
 
