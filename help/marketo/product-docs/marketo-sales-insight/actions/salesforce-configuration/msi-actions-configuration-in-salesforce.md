@@ -3,9 +3,10 @@ description: Configuratie van MSI-acties in Salesforce - Marketo Docs - Productd
 title: Configuratie MSI-handelingen in Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: 61188d96c4eeb39170166d176dce91153819c9d4
+exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
+source-git-commit: daff9a98605b8a5c89c538f711fecb5b7a382f84
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -18,29 +19,43 @@ ht-degree: 0%
 
 ## Het toelaten van MSI-Acties over CRM {#enabling-msi-actions-across-the-crm}
 
-1. Markeer het veld &quot;MSI-handelingen inschakelen&quot;.
+1. Klik in Salesforce op de knop **Marketo Sales Insight Config** tab.
 
-IMAGE???????????????
+   ![](assets/msi-actions-configuration-in-salesforce-1.png)
+
+   >[!NOTE]
+   >
+   >Als u &quot;Marketo Sales Insight Config&quot; niet ziet in de bovenste balk, klikt u op de knop **+** ondertekenen en zoeken onder All Tabs.
+
+1. Selecteer **MSI-handelingen inschakelen** selectievakje.
+
+   ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
 1. Voer de geheime API-sleutel in.
 
-1. Klikken **Opslaan**.
+   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+
+   >[!NOTE]
+   >
+   >Als u niet over uw API Secrey Key handig beschikt, kunt u het vinden door de stappen in [dit artikel](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md).
+
+1. Klikken **Opslaan** wanneer gereed.
 
 Hierdoor worden automatisch alle functies van MSI-handelingen ingeschakeld die in het artikel met het overzicht van functies worden beschreven.
 
 >[!NOTE]
 >
->U kunt alle functies van MSI-handelingen verbergen door het bovenstaande veld uit te schakelen.??????????????????
+>U kunt alle functies van MSI-acties uitschakelen door het selectievakje MSI-acties inschakelen uit te schakelen.
 
 ## Beheer van MSI-acties {#msi-actions-governance}
 
 1. U kunt verkoopcampagnes en/of het lusje van de Taak in de aanstaande sectie onbruikbaar maken. Dit is van toepassing op de deelvensters lood, contact, account en opportunity.
 
-   ![](assets/msi-actions-configuration-in-salesforce-2.png)
+   ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
 1. U kunt MSI-handelingen uitschakelen door de bijbehorende functies onder Handelingen uit te schakelen.
 
-   ![](assets/msi-actions-configuration-in-salesforce-3.png)
+   ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
 >[!NOTE]
 >
