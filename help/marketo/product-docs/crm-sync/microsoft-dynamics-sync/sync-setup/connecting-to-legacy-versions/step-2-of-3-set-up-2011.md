@@ -3,7 +3,7 @@ unique-page-id: 3571807
 description: Stap 2 van 3 - Marketo Sync User in Dynamics instellen (2011 op locatie) - Marketo Docs - Productdocumentatie
 title: Stap 2 van 3 - Marketo Sync User instellen in Dynamics (2011 op locatie)
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
-source-git-commit: d4461e1bb73b7494970b4fde30fe551d9a5775d2
+source-git-commit: eac7e219f1babc22dce30717fea4cecb93e1cce7
 workflow-type: tm+mt
 source-wordcount: '369'
 ht-degree: 0%
@@ -100,4 +100,4 @@ Geweldig werk!
 
 >[!MORELIKETHIS]
 >
->[Stap 3 van 3: Connect Microsoft Dynamics met Marketo (2011 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect.md)
+>[Stap 3 van 3: Connect Microsoft Dynamics met Marketo (2011 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
