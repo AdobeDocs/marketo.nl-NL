@@ -3,7 +3,7 @@ unique-page-id: 3571813
 description: Stap 1 van 3 - Installeer de Marketo-oplossing in Dynamics (2013 op locatie) - Marketo Docs - Productdocumentatie
 title: Stap 1 van 3 - Installeer de Marketo-oplossing in Dynamics (2013 op locatie)
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
-source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -94,4 +94,4 @@ Was het niet zo erg? Kom op, ik zal je door de rest blijven lopen.
 
 >[!MORELIKETHIS]
 >
->[Stap 2 van 3: Synchronisatiegebruiker voor Marketo configureren (2013 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
+>[Stap 2 van 3: Synchronisatiegebruiker voor Marketo configureren (2013 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)

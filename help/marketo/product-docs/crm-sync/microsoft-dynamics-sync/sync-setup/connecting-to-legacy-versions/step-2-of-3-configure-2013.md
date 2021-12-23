@@ -3,9 +3,9 @@ unique-page-id: 3571816
 description: Stap 2 van 3 - Synchronisatie van gebruiker voor Marketo configureren (2013 op locatie) - Marketo Docs - Productdocumentatie
 title: Stap 2 van 3 - Sync User for Marketo configureren (2013 op locatie)
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
-source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
+source-git-commit: 64c5f03bd2320bfbffd257684d1482e995def83a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Wijs de Marketo Sync User rol alleen toe aan de Marketo sync-gebruiker. U hoeft 
 
    >[!TIP]
    >
-   >Als je de rol niet ziet, ga dan terug naar [stap 1 van 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) en importeer de oplossing.
+   >Als je de rol niet ziet, ga dan terug naar [stap 1 van 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) en importeer de oplossing.
 
    >[!NOTE]
    >
@@ -68,7 +68,7 @@ Bijna klaar! We hebben slechts een paar laatste stukken configuratie voordat we 
 
    >[!NOTE]
    >
-   >Indien **Marketo Config** ontbreekt. Vernieuw de pagina. Als het probleem zich blijft voordoen, [De Marketo-oplossing publiceren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md) opnieuw of probeer het afmelden en weer.
+   >Indien **Marketo Config** ontbreekt. Vernieuw de pagina. Als het probleem zich blijft voordoen, [De Marketo-oplossing publiceren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md) opnieuw of probeer het afmelden en weer.
 
 1. Klikken **Standaard**.
 
@@ -96,4 +96,4 @@ Geweldig werk!
 
 >[!MORELIKETHIS]
 >
->[Stap 3 van 3: Connect Marketo en Dynamics (2013 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
+>[Stap 3 van 3: Connect Marketo en Dynamics (2013 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
