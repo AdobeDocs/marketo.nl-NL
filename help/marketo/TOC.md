@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 1fba4140761561e8707abfc1a215b1f23c665393
+source-git-commit: 2568d3414c8aaec882b79442f6312bae3b9514ab
 workflow-type: tm+mt
-source-wordcount: '8208'
+source-wordcount: '8206'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 # Marketo Guide {#using}
 
 + [Home](home.md)
-+ Aan de slag met Marketo {#getting-started-with-marketo}
++ Getting Started with Marketo {#getting-started-with-marketo}
    + [Aan de slag](getting-started.md)
    + [Wat is Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
    + [Marketo Verklarende woordenlijst](getting-started/marketo-glossary.md)
@@ -26,12 +26,12 @@ ht-degree: 0%
    + Quick Wins {#quick-wins}
       + [Instellen en een persoon toevoegen](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [E-mail verzenden](getting-started/quick-wins/send-an-email.md)
-      + [Openingspagina met formulier](getting-started/quick-wins/landing-page-with-a-form.md)
-      + [Eenvoudige scores](getting-started/quick-wins/simple-scoring.md)
+      + [Landing Page with a Form](getting-started/quick-wins/landing-page-with-a-form.md)
+      + [Simple Scoring](getting-started/quick-wins/simple-scoring.md)
       + [Automatische reactie e-mail](getting-started/quick-wins/email-auto-response.md)
-      + [Een lijst met personen importeren](getting-started/quick-wins/import-a-list-of-people.md)
+      + [Import a List of People](getting-started/quick-wins/import-a-list-of-people.md)
       + [Drip, Drip, Nurture](getting-started/quick-wins/drip-drip-nurture.md)
-      + [Een e-mail aanpassen](getting-started/quick-wins/personalize-an-email.md)
+      + [Personalize an Email](getting-started/quick-wins/personalize-an-email.md)
       + [Waarschuwing voor verkoper](getting-started/quick-wins/alert-the-sales-rep.md)
       + [Persoonsgegevens bijwerken](getting-started/quick-wins/update-person-data.md)
       + [Een bestemmingspagina omleiden](getting-started/quick-wins/redirect-a-landing-page.md)
@@ -41,9 +41,9 @@ ht-degree: 0%
       + [Te controleren items](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Te beoordelen handelingen: Kernvaardigheden](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Manieren om hulp te krijgen](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-+ Productdocumenten {#product-docs}
-   + Doelaccountbeheer {#target-account-management}
-      + Instellen {#setup}
++ Product Docs {#product-docs}
+   + Target Account Management {#target-account-management}
+      + Setup {#setup}
          + [Overzicht van accountbeheer](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [Aan de slag met TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [Een licentie afgeven](product-docs/target-account-management/setup-tam/issue-a-license.md)
@@ -254,11 +254,11 @@ ht-degree: 0%
          + [Alleen een API-gebruiker maken](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Een gebruikersrol maken, verwijderen, bewerken en wijzigen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [De machtiging Importeren van geavanceerde lijst voor een rol inschakelen](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
-         + [Een lijst met gebruikers en rollen exporteren](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
+         + [Export a List of Users and Roles](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Marketo-gebruikers beheren](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gebruikersrollen en -machtigingen beheren](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
-         + [Rollen en machtigingen exporteren](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
-         + [Beschrijvingen van rolmachtigingen](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
+         + [Export Roles and Permissions](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
+         + [Descriptions of Role Permissions](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md)
          + [Niet-concept inschakelen voor fragmenten](product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md)
       + Werkruimten en Personen partities {#workspaces-and-person-partitions}
          + [Werken- en personenpartities begrijpen](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
@@ -523,14 +523,13 @@ ht-degree: 0%
             + [Marketo Solution for Microsoft Dynamics bijwerken](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Microsoft Dynamics Sync valideren](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [De URL van de organisatieservice weergeven](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
-            + Microsoft Dynamics 2011 on-Premises {#microsoft-dynamics-2011-on-premises}
-               + [Stap 1 van 3: De Marketo-oplossing installeren (2011 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-1-of-3-install.md)
-               + [Stap 2 van 3: Marketo Sync User in Dynamics instellen (2011 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-2-of-3-set-up.md)
-               + [Stap 3 van 3: Connect Microsoft Dynamics met Marketo (2011 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2011-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 2013 On-Premises {#microsoft-dynamics-2013-on-premises}
-               + [Stap 1 van 3: De Marketo-oplossing installeren in Dynamics (2013 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-1-of-3-install.md)
-               + [Stap 2 van 3: Synchronisatiegebruiker voor Marketo configureren (2013 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-2-of-3-configure.md)
-               + [Stap 3 van 3: Connect Marketo en Dynamics (2013 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2013-on-premises/step-3-of-3-connect.md)
+            + Verbinding maken met oudere versies {#connecting-to-legacy-versions}
+               + [Stap 1 van 3: De Marketo-oplossing installeren (2011 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
+               + [Stap 2 van 3: Marketo Sync User in Dynamics instellen (2011 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+               + [Stap 3 van 3: Connect Microsoft Dynamics met Marketo (2011 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
+               + [Stap 1 van 3: De Marketo-oplossing installeren in Dynamics (2013 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+               + [Stap 2 van 3: Synchronisatiegebruiker voor Marketo configureren (2013 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
+               + [Stap 3 van 3: Connect Marketo en Dynamics (2013 op locatie)](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
             + Microsoft Dynamics 2015 On-Premises/2016 Dynamics 365 On-Premises {#microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises}
                + [Stap 1 van 3: Installeer de Marketo-oplossing - 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Stap 2 van 3: Marketo Sync User instellen in Dynamics 2015 On-Premises / 2016 Dynamics 365 On-Premises](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2015-on-premises-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
@@ -675,16 +674,16 @@ ht-degree: 0%
             + [Een formulierveld vereist maken](product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)
             + [Een voorbeeld van een formulier bekijken](product-docs/demand-generation/forms/creating-a-form/preview-a-form.md)
             + [Een formulierthema selecteren](product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
-            + [Een pagina voor bedankt formulier instellen](product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)
+            + [Set a Form Thank You Page](product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)
          + Formulierhandelingen {#form-actions}
             + [Een lijst met landen toevoegen aan uw formulier](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [Rijke tekst toevoegen aan een formulier](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
-            + [De landinstelling van een formulier wijzigen](product-docs/demand-generation/forms/form-actions/change-a-forms-locale.md)
-            + [De taal van de berichten voor formuliervalidatie/foutmeldingen en de knop Verzenden wijzigen](product-docs/demand-generation/forms/form-actions/change-the-language-of-form-validation-error-messages-and-submit-button.md)
+            + [Change a Form&#39;s Locale](product-docs/demand-generation/forms/form-actions/change-a-forms-locale.md)
+            + [Change the Language of Form Validation/Error Messages and Submit Button](product-docs/demand-generation/forms/form-actions/change-the-language-of-form-validation-error-messages-and-submit-button.md)
             + [Progressieve profilering van formulieren configureren](product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md)
             + [Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier](product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.md)
             + [Een formulier verwijderen](product-docs/demand-generation/forms/form-actions/delete-a-form.md)
-            + [Vulling van sociaal formulier uitschakelen](product-docs/demand-generation/forms/form-actions/disable-social-form-fill.md)
+            + [Disable Social Form Fill](product-docs/demand-generation/forms/form-actions/disable-social-form-fill.md)
             + [Een formulier bewerken](product-docs/demand-generation/forms/form-actions/edit-a-form.md)
             + [Een formulier insluiten op uw website](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
             + [Vulling van sociaal formulier inschakelen op een formulier](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
@@ -692,13 +691,13 @@ ht-degree: 0%
             + [Aangepast HTML-formulier tonen voor bekende personen](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
             + [Een formulier gebruiken in een lichtbak](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
          + Formulierontwerp {#form-design}
-            + [Positie van formulierlabel wijzigen](product-docs/demand-generation/forms/form-design/change-form-label-position.md)
+            + [Change Form Label Position](product-docs/demand-generation/forms/form-design/change-form-label-position.md)
             + [Knoptekst voor verzenden van formulier wijzigen](product-docs/demand-generation/forms/form-design/change-form-submit-button-text.md)
             + [De stijl en kleur van de knop Verzenden wijzigen](product-docs/demand-generation/forms/form-design/change-submit-button-style-and-color.md)
             + [De lettertypefamilie van het formulier wijzigen](product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
             + [De tekengrootte van het formulier wijzigen](product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
-            + [CSS van een formulierthema bewerken](product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
-            + [De grootte van Label/veldbreedte in een formulier wijzigen](product-docs/demand-generation/forms/form-design/resize-label-field-width-in-a-form.md)
+            + [Edit the CSS of a Form Theme](product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+            + [Resize Label/Field Width in a Form](product-docs/demand-generation/forms/form-design/resize-label-field-width-in-a-form.md)
          + Formuliervelden {#form-fields}
             + [Een veldset toevoegen aan een formulier](product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md)
             + [Hinttekst toevoegen aan een formulierveld](product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md)
@@ -708,8 +707,8 @@ ht-degree: 0%
             + [Pre-fill voor een formulierveld uitschakelen](product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md)
             + [De zichtbaarheid van een formulierveld dynamisch in-/uitschakelen](product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
             + [Velden opnieuw ordenen in een formulier](product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)
-            + [Een formulierveld instellen als verborgen](product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
-            + [De waarde van een verborgen formulierveld instellen](product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
+            + [Set a Form Field as Hidden](product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
+            + [Set a Hidden Form Field Value](product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
       + Afbeeldingen en bestanden {#images-and-files}
          + [Afbeeldingen en bestanden toevoegen aan Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + [Een geüploade afbeelding of bestand verwijderen](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
@@ -1119,9 +1118,9 @@ ht-degree: 0%
             + [Aanpassing van Salesforce voor klanten van de Professional Edition installeren](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
             + [Push to Sales Connect](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Rapporterende dashboards in Salesforce](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
-            + [Aanpassingen voor verkoop Connect voor CRM](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
+            + [Sales Connect Customizations for CRM](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Bulkhandelingen gebruiken in Salesforce Classic](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
-            + [Bulkhandelingen gebruiken in Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
+            + [Using Bulk Actions in Salesforce Lightning](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
          + Salesforce-integratie {#salesforce-integration}
             + [Aanpassing Salesforce Activity Detail configureren](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Verbind Uw Verkoop Connect Rekening met Salesforce](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
@@ -1131,17 +1130,17 @@ ht-degree: 0%
             + [Salesforce Diagnostics](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-diagnostics.md)
             + [Instellingen voor Salesforce Sync](product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
             + [Tekstactiviteit niet weergegeven](product-docs/marketo-sales-connect/crm/salesforce-integration/tracking-activity-not-showing.md)
-      + E-mailplug-ins {#email-plugins}
+      + Email Plugins {#email-plugins}
          + Gmail {#gmail}
             + [E-mail toevoegen aan Salesforce](product-docs/marketo-sales-connect/email-plugins/gmail/add-email-to-salesforce.md)
             + [Een stuk inhoud bijvoegen](product-docs/marketo-sales-connect/email-plugins/gmail/attaching-a-piece-of-content.md)
             + [Kalenderfunctionaliteit](product-docs/marketo-sales-connect/email-plugins/gmail/calendar-functionality.md)
             + [E-mailverbinding voor Gmail-gebruikers](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-            + [Gmail niet in handtekening van Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
+            + [Gmail Not Pulling In Sales Connect Signature](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [Een sjabloon toevoegen](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
             + [De ToutApp Browser-extensie installeren](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
             + [E-mail verzenden vanuit Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-send-an-email-from-gmail.md)
-            + [Sales Connect verwijderen van Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-uninstall-sales-connect-from-gmail.md)
+            + [How to Uninstall Sales Connect from Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-uninstall-sales-connect-from-gmail.md)
             + [Voorkomen dat Secundair Gmail-adres wordt geïntegreerd met Sales Connect](product-docs/marketo-sales-connect/email-plugins/gmail/preventing-secondary-gmail-address-from-integrating-with-sales-connect.md)
             + [De insteekmodule Verkoop Connect wordt niet weergegeven in Gmail](product-docs/marketo-sales-connect/email-plugins/gmail/sales-connect-plugin-not-showing-up-in-gmail.md)
             + [Een e-mail voor een latere datum plannen](product-docs/marketo-sales-connect/email-plugins/gmail/schedule-an-email-for-a-later-date.md)
@@ -1348,7 +1347,7 @@ ht-degree: 0%
          + Installeren {#installing}
             + [Download de Marketo Sales Insight Solution voor Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
             + [Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2011](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
-            + [Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2013](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
+            + [Install and Configure Marketo Sales Insight in Microsoft Dynamics 2013](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
             + [Marketo Sales Insight installeren en configureren in Microsoft Dynamics 2015](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
             + [Marketo Sales Insight installeren en configureren in Microsoft Dynamics 365](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
             + [Marketo Sales Insight installeren en configureren in Microsoft Dynamics Online](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
@@ -1357,7 +1356,7 @@ ht-degree: 0%
             + [Vereiste velden voor het synchroniseren van Marketo met dynamiek](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
             + [Marketo Sales-e-mail verzenden vanuit Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
             + [Sterren en vlammen instellen voor lead/contact-records](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
-         + Verwijderen {#uninstalling}
+         + Uninstalling {#uninstalling}
             + [Global MS Dynamics Sync uitschakelen](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [MSI verwijderen uit de instantie van MS Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + Bijwerken {#updating}
@@ -1559,13 +1558,13 @@ ht-degree: 0%
             + [Abonneren op een slimme lijst](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + Rapporttypen {#report-types}
             + [Rapport Campagneactiviteiten](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-            + [Rapport over e-mailprestaties voor campagne](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+            + [Campaign Email Performance Report](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Webactiviteitenrapport van bedrijf](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Rapport Personen per status](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-            + [Rapport over prestaties van mensen](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
-            + [Overzicht rapporttype](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-            + [Rapport over activiteiten op webpagina](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
-            + [Bekeken de Pagina&#39;s van het Web, het Rapport van de Activiteit van de Web-pagina](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
+            + [People Performance Report](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+            + [Report Type Overview](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
+            + [Web Page Activity Report](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+            + [Web Pages Viewed, Web Page Activity Report](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + E-mailinzichten {#email-insights}
          + [Overzicht van e-mailinzichten](product-docs/reporting/email-insights/email-insights-overview.md)
          + [Aangepaste Dimension voor e-mailinzichten](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
@@ -1764,23 +1763,23 @@ ht-degree: 0%
          + [Opmerkingen bij de release: Verbeteringen ABM in april 17](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
          + [Opmerkingen bij de release: Verbeteringen ABM in augustus 17](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
          + [Opmerkingen bij de release: Herfst &#39;17](release-notes/previous-releases/2017/release-notes-fall-17.md)
-         + [Opmerkingen bij de release: Lente 17](release-notes/previous-releases/2017/release-notes-spring-17.md)
+         + [Release Notes: Spring &#39;17](release-notes/previous-releases/2017/release-notes-spring-17.md)
          + [Opmerkingen bij de release: Zomer 17](release-notes/previous-releases/2017/release-notes-summer-17.md)
-         + [Opmerkingen bij de release: Winter &#39;17](release-notes/previous-releases/2017/release-notes-winter-17.md)
+         + [Release Notes: Winter &#39;17](release-notes/previous-releases/2017/release-notes-winter-17.md)
       + 2016 {#2016}
-         + [Opmerkingen bij de release: Herfst &#39;16](release-notes/previous-releases/2016/release-notes-fall-16.md)
+         + [Release Notes: Fall &#39;16](release-notes/previous-releases/2016/release-notes-fall-16.md)
          + [Opmerkingen bij de release: Lente 16](release-notes/previous-releases/2016/release-notes-spring-16.md)
-         + [Opmerkingen bij de release: Zomer 16](release-notes/previous-releases/2016/release-notes-summer-16.md)
+         + [Release Notes: Summer &#39;16](release-notes/previous-releases/2016/release-notes-summer-16.md)
          + [Opmerkingen bij de release: Winter &#39;16](release-notes/previous-releases/2016/release-notes-winter-16.md)
       + 2015 {#2015}
-         + [Opmerkingen bij de release: April 2015](release-notes/previous-releases/2015/release-notes-april-2015.md)
+         + [Release Notes: April 2015](release-notes/previous-releases/2015/release-notes-april-2015.md)
          + [Opmerkingen bij de release: Herfst &#39;15](release-notes/previous-releases/2015/release-notes-fall-15.md)
          + [Opmerkingen bij de release: februari 2015](release-notes/previous-releases/2015/release-notes-february-2015.md)
          + [Opmerkingen bij de release: januari 2015](release-notes/previous-releases/2015/release-notes-january-2015.md)
          + [Opmerkingen bij de release: juli 2015](release-notes/previous-releases/2015/release-notes-july-2015.md)
          + [Opmerkingen bij de release: Juni 2015](release-notes/previous-releases/2015/release-notes-june-2015.md)
          + [Opmerkingen bij de release: maart 2015](release-notes/previous-releases/2015/release-notes-march-2015.md)
-         + [Opmerkingen bij de release: Mei 2015](release-notes/previous-releases/2015/release-notes-may-2015.md)
+         + [Release Notes: May 2015](release-notes/previous-releases/2015/release-notes-may-2015.md)
       + 2014 {#2014}
          + [Opmerkingen bij de release: augustus 2014](release-notes/previous-releases/2014/release-notes-august-2014.md)
          + [Opmerkingen bij de release: december 2014](release-notes/previous-releases/2014/release-notes-december-2014.md)
@@ -1788,21 +1787,21 @@ ht-degree: 0%
          + [Opmerkingen bij de release: januari 2014](release-notes/previous-releases/2014/release-notes-january-2014.md)
          + [Opmerkingen bij de release: juli 2014](release-notes/previous-releases/2014/release-notes-july-2014.md)
          + [Opmerkingen bij de release: Juni 2014](release-notes/previous-releases/2014/release-notes-june-2014.md)
-         + [Opmerkingen bij de release: maart 2014](release-notes/previous-releases/2014/release-notes-march-2014.md)
+         + [Release Notes: March 2014](release-notes/previous-releases/2014/release-notes-march-2014.md)
          + [Opmerkingen bij de release: Mei 2014](release-notes/previous-releases/2014/release-notes-may-2014.md)
          + [Opmerkingen bij de release: Oktober 2014](release-notes/previous-releases/2014/release-notes-october-2014.md)
       + 2013 {#2013}
          + [Opmerkingen bij de release: April 2013](release-notes/previous-releases/2013/release-notes-april-2013.md)
          + [Opmerkingen bij de release: augustus 2013](release-notes/previous-releases/2013/release-notes-august-2013.md)
          + [Opmerkingen bij de release: december 2013](release-notes/previous-releases/2013/release-notes-december-2013.md)
-         + [Opmerkingen bij de release: februari 2013](release-notes/previous-releases/2013/release-notes-february-2013.md)
-         + [Opmerkingen bij de release: januari 2013](release-notes/previous-releases/2013/release-notes-january-2013.md)
+         + [Release Notes: February 2013](release-notes/previous-releases/2013/release-notes-february-2013.md)
+         + [Release Notes: January 2013](release-notes/previous-releases/2013/release-notes-january-2013.md)
          + [Opmerkingen bij de release: juli 2013](release-notes/previous-releases/2013/release-notes-july-2013.md)
          + [Opmerkingen bij de release: Juni 2013](release-notes/previous-releases/2013/release-notes-june-2013.md)
          + [Opmerkingen bij de release: maart 2013](release-notes/previous-releases/2013/release-notes-march-2013.md)
          + [Opmerkingen bij de release: Mei 2013](release-notes/previous-releases/2013/release-notes-may-2013.md)
          + [Opmerkingen bij de release: Oktober 2013](release-notes/previous-releases/2013/release-notes-october-2013.md)
-         + [Opmerkingen bij de release: september 2013](release-notes/previous-releases/2013/release-notes-september-2013.md)
+         + [Release Notes: September 2013](release-notes/previous-releases/2013/release-notes-september-2013.md)
       + 2012 {#2012}
          + [Opmerkingen bij de release: April 2012](release-notes/previous-releases/2012/release-notes-april-2012.md)
          + [Opmerkingen bij de release: december 2012](release-notes/previous-releases/2012/release-notes-december-2012.md)
