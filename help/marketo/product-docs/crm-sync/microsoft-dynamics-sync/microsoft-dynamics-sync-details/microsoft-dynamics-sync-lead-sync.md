@@ -1,10 +1,9 @@
 ---
 unique-page-id: 3571848
-description: Microsoft Dynamics Sync -Lead Sync - Marketo Docs - Productdocumentatie
+description: Microsoft Dynamics Sync - Lead Sync - Marketo Docs - Productdocumentatie
 title: Microsoft Dynamics Sync - Lead Sync
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
@@ -21,7 +20,7 @@ De synchronisatie is bidirectioneel. Als u wijzigingen aanbrengt in een lead in 
 
 >[!NOTE]
 >
->Verwijderen synchroniseert niet altijd automatisch in beide richtingen. Zie [Een lead of contact verwijderen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md).
+>Verwijderen synchroniseert niet altijd automatisch in beide richtingen. Zie [Een lead of contactpersoon verwijderen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md).
 
 ## Wat gebeurt er als er tegelijkertijd in beide systemen wijzigingen in hetzelfde veld worden aangebracht? (Gegevensconflict) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
@@ -29,19 +28,19 @@ Hoewel dit zeldzaam is, zal Marketo winnen voor mensen (leads) en Dynamics zal w
 
 ## Kan ik met Marketo een lead maken in Dynamics? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Ja, gebruik [Persoon synchroniseren naar Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) stroomactie. Dit zal tot een lood in Dynamica leiden als de lood niet bestaat. Als de lead wel bestaat, voert de flowstap geen actie uit.
+Ja, gebruik de [Persoon synchroniseren naar Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) Handeling flow. Dit zal tot een lood in Dynamica leiden als de lood niet bestaat. Als de lead wel bestaat, voert de flowstap geen actie uit.
 
 >[!NOTE]
 >
->Wanneer het gebruiken van de &quot;Persoon van de Synchronisatie aan Microsoft&quot;stroomactie (in een trekkercampagne slechts), zal het lood/het contact in real time in Dynamiek worden gecreeerd.
+>Wanneer u de stroomactie &quot;persoon synchroniseren naar Microsoft&quot; gebruikt (alleen in een triggercampagne), wordt de lead/contactpersoon in realtime gemaakt in Dynamics.
 
 ## Kan ik handmatig een persoon van Marketo synchroniseren naar een lead in Dynamics? {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 
-Nee, de automatische achtergrondsynchronisatie is de enige manier om updates te synchroniseren tussen Marketo en Dynamics. Met de stroomactie [Persoon synchroniseren naar Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) wordt geen synchronisatie van de lead geforceerd.
+Nee, de automatische achtergrondsynchronisatie is de enige manier om updates te synchroniseren tussen Marketo en Dynamics. De [Persoon synchroniseren naar Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md) De stroomactie zal geen synchronisatie van het lood dwingen.
 
 ## Welke velden worden gesynchroniseerd met Marketo? {#what-fields-will-sync-to-marketo}
 
-Tijdens de installatie kunt u [velden selecteren om te synchroniseren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-3-of-3-connect.md#select-fields-to-sync).
+U kunt [te synchroniseren velden selecteren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) tijdens installatie.
 
 ## Zal Marketo de regels voor Dynamische validatie naleven? {#will-marketo-respect-the-dynamics-validation-rules}
 

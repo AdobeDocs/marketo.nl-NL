@@ -1,9 +1,9 @@
 ---
 description: Stap 1 van 3 - Installeer de Marketo-oplossing met S2S-verbinding - Marketo-documenten - Productdocumentatie
 title: Stap 1 van 3 - Installeer de Marketo-oplossing met S2S-verbinding
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,6 @@ Voordat u Microsoft Dynamics 365 en Marketo kunt synchroniseren, moet u eerst de
 >[!CAUTION]
 >
 >* Schakel aangepaste entiteitssynchronisatie niet in voordat de eerste synchronisatie is voltooid. U wordt via e-mail op de hoogte gesteld zodra de eerste synchronisatie is voltooid.
->* Als u Multi-Factor Authentication (MFA) hebt ingeschakeld voor uw Dynamics Sync, moet u deze uitschakelen om Dynamics correct te synchroniseren met Marketo. Neem voor meer informatie contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 
 >[!NOTE]

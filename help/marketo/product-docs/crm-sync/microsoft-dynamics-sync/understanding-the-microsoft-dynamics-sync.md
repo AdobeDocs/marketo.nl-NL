@@ -3,7 +3,7 @@ unique-page-id: 10098625
 description: Microsoft Dynamics Sync - Marketo Docs - Productdocumentatie
 title: Werken met Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 297ff02ba2c1173cabfecdef283e97c87c922480
+source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -42,7 +42,7 @@ De synchronisatie tussen Marketo en Dynamics is bidirectioneel voor leads en con
 * [Kansen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Aangepaste entiteiten](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-De [referenties die u invoert in Marketo for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-2-of-3-set-up.md) worden gebruikt om gegevens te synchroniseren.
+De [referenties die u invoert in Marketo for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) worden gebruikt om gegevens te synchroniseren.
 
 >[!NOTE]
 >
