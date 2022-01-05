@@ -3,98 +3,86 @@ unique-page-id: 3571827
 description: Stap 2 van 3 - Opstelling de Oplossing van Marketo met S2S Verbinding - de Documenten van Marketo - de Documentatie van het Product
 title: Stap 2 van 3 - Opstelling de Oplossing van Marketo met Verbinding S2S
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
+source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
 
-# Stap 2 van 3: Marketo Sync User instellen in Dynamics {#step-of-set-up-marketo-sync-user-in-dynamics}
-
-Laten we beginnen met het maken van een gebruikersaccount.
+# Stap 2 van 3: Marketo Sync User instellen in Dynamics met S2S Connection{#step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s}
 
 >[!PREREQUISITES]
 >
 >[Stap 1 van 3: De Marketo-oplossing installeren met S2S-verbinding](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 
-## Nieuwe gebruiker maken {#create-a-new-user}
+## Clienttoepassing maken in Azure AD {#create-client-application-in-azure-ad}
 
-1. Meld u aan bij Dynamics. Klik op het pictogram Instellingen en selecteer **Geavanceerde instellingen**.
+1. Navigeren naar [dit Microsoft-artikel](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration).
 
-   ![](assets/one.png)
+1. Voer alle stappen uit. Voer bij Stap 3 een relevante toepassingsnaam in (bijvoorbeeld &quot;Marketo Integration&quot;). Selecteer onder Ondersteunde accounttypen de optie **Alleen account in deze organisatiedirectory**.
 
-1. Klikken **Instellingen** en selecteert u **Beveiliging**.
+1. Noteer de toepassings-id (ClientId) en de huurder-id. Je moet het later in Marketo invoeren.
 
-   ![](assets/two.png)
+1. Beheerder toestemming verlenen door de stappen uit te voeren [in dit artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md).
 
-1. Klikken **Gebruikers**.
+1. Een clientgeheim genereren in het beheercentrum door op **Certificaten en geheimen**.
 
-   ![](assets/three.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-1.png)
 
-1. Klikken **Nieuw.**
+1. Klik op de knop **Nieuw clientgeheim** knop.
 
-   ![](assets/four.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-2.png)
 
-1. Klikken **Gebruikers toevoegen en licentie geven** in het nieuwe venster.
+1. Voer een beschrijving van een clientgeheim in en klik op **Toevoegen**.
 
-   ![](assets/five.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-3.png)
 
-1. Er wordt een nieuw tabblad geopend. Klikken **Beheer** boven aan de pagina.
+>[!CAUTION]
+>
+>Zorg ervoor om nota van de Geheime waarde van de Cliënt te nemen (die in het schermafbeelding hieronder wordt gezien), aangezien u het later zult nodig hebben. Het wordt slechts één keer getoond, en u zult niet het opnieuw kunnen terugwinnen.
 
-   ![](assets/six.png)
+![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
-1. Er wordt een ander nieuw tabblad geopend. Klikken **Een gebruiker toevoegen**.
+1. Voer stappen uit vanaf de volgende koppeling naar [een toepassingsgebruiker instellen in Microsoft](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation). Wijs tijdens het geven van machtigingen aan de Application User de gebruikersrol Marketo Sync toe.
 
-   ![](assets/seven.png)
+## Azure AD Federated met AD FS On-prem {#azure-ad-federated-with-ad-fs-on-prem}
 
-1. Voer al uw gegevens in. Als u klaar bent, klikt u op **Toevoegen**.
+Federated Azure AD to ADFS Onprem heeft de creatie nodig van een Home Realm Discovery-beleid voor de specifieke toepassing. Met dit beleid, zal Azure AD het authentificatieverzoek aan de dienst van de federatie opnieuw richten. Synchronisatie van wachtwoordhash moet hiervoor worden ingeschakeld in AD Connect. Zie voor meer informatie [OAuth met ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) en [Een tekenbeleid instellen voor een toepassing](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-   ![](assets/eight.png)
-
-   >[!NOTE]
-   >
-   >Deze naam moet een specifieke synchronisatiegebruiker zijn en geen bestaande rekening van de gebruiker van CRM. Het hoeft geen echt e-mailadres te zijn.
-
-1. Voer het e-mailbericht in waarin u de nieuwe gebruikersgegevens wilt ontvangen en klik op **E-mail verzenden en sluiten**.
-
-   ![](assets/nine.png)
+Aanvullende verwijzingen [hier te vinden](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.).
 
 ## Gebruikersrol synchroniseren toewijzen {#assign-sync-user-role}
 
-Wijs de Marketo Sync User rol alleen toe aan de Marketo sync-gebruiker. U hoeft het niet aan andere gebruikers toe te wijzen.
+1. Wijs de Marketo Sync User-rol alleen toe aan de Marketo sync-gebruiker.
 
 >[!NOTE]
 >
->Dit geldt voor Marketo versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Ga voor een upgrade van Marketo naar [Upgrade Marketo Solution for Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+>Dit geldt voor Marketo versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om uw Marketo-oplossing te upgraden, [zie dit artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
->[!IMPORTANT]
->
->De taalinstelling van de synchronisatiegebruiker [moet worden ingesteld op Engels](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us).
+1. Ga terug naar het tabblad Toepassingsgebruikers en vernieuw de gebruikerslijst.
 
-1. Ga terug naar het Toegelaten lusje van Gebruikers en vernieuw de gebruikerslijst.
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-5.png)
 
-   ![](assets/ten.png)
+1. Houd de muisaanwijzer boven de nieuwe toepassingsgebruiker en schakel het selectievakje in. Klik om het te selecteren.
 
-1. Houd de muisaanwijzer boven de nieuwe Marketo Sync-gebruiker en schakel een selectievakje in. Klik om het te selecteren.
-
-   ![](assets/eleven.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-6.png)
 
 1. Klikken **Rollen beheren**.
 
-   ![](assets/twelve.png)
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-7.png)
 
 1. Controleren **Marketo Sync-gebruiker** en klik op **OK**.
 
-   ![](assets/thirteen.png)
-
-   >[!NOTE]
-   >
-   >Alle updates die door de synchronisatiegebruiker in uw CRM worden aangebracht, worden **niet** worden gesynchroniseerd naar Marketo.
+   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-8.png)
 
 ## Marketo-oplossing configureren {#configure-marketo-solution}
 
 Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over de nieuwe gebruiker die is gemaakt.
+
+>[!IMPORTANT]
+>
+>Als u een upgrade uitvoert van Basisverificatie naar OAuth, dient u contact op te nemen met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support) voor hulp bij het bijwerken van de aanvullende parameters. Als u deze functie inschakelt, wordt de synchronisatie tijdelijk gestopt totdat nieuwe referenties worden ingevoerd en de synchronisatie opnieuw wordt ingeschakeld. De functie kan worden uitgeschakeld (tot april 2022) als u wilt terugkeren naar de oude verificatiemodus.
 
 1. Ga terug naar het gedeelte Geavanceerde instellingen en klik op de knop ![](assets/image2015-5-13-15-3a49-3a19.png) pictogram naast Instellingen en selecteer **Marketo Config**.
 
@@ -130,9 +118,9 @@ Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over d
 
 ## Voordat u verdergaat met stap 3 {#before-proceeding-to-step}
 
-    * Als u het aantal records dat u synchroniseert wilt beperken, moet u [een aangepast synchronisatiefilter instellen] (/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md).
-    * Voer het proces [Validate Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) uit. Hierbij wordt gecontroleerd of de eerste instellingen correct zijn uitgevoerd.
-    * Meld u aan bij Marketo Sync User in Microsoft Dynamics CRM.
+* Als u het aantal records dat u synchroniseert wilt beperken, [een aangepast synchronisatiefilter instellen](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md) nu.
+* Voer de [Microsoft Dynamics Sync valideren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) proces. Hierbij wordt gecontroleerd of de eerste instellingen correct zijn uitgevoerd.
+* Meld u aan bij Marketo Sync User in Microsoft Dynamics CRM.
 
 >[!MORELIKETHIS]
 >
