@@ -3,7 +3,7 @@ unique-page-id: 3571840
 description: Microsoft Dynamics Sync -User Sync - Marketo Docs - Productdocumentatie
 title: Microsoft Dynamics Sync - User Sync
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 7fcbaeda589682fdb5a75b89a0abd8661181566e
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -26,4 +26,4 @@ Nee. Marketo kan geen gebruikers maken in Dynamics.
 
 ## Welke velden worden gesynchroniseerd met Marketo? {#which-fields-will-sync-to-marketo}
 
-U kunt [te synchroniseren velden selecteren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365/step-4-of-4-connect.md#select-fields-to-sync) tijdens installatie. Maar Marketo synchroniseert alleen de velden waartoe de gebruiker van het Dynamic Sync toegang heeft.
+U kunt [te synchroniseren velden selecteren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync) tijdens installatie. Maar Marketo synchroniseert alleen de velden waartoe de gebruiker van het Dynamic Sync toegang heeft.
