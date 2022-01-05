@@ -2,16 +2,16 @@
 description: Microsoft Dynamics CRM App instellen voor online - Marketo Docs - Productdocumentatie
 title: Microsoft Dynamics CRM-app instellen voor online
 exl-id: ec3123c9-e484-4736-9831-9559cc393bd9
-source-git-commit: 4283f1b6936316f3053543e06e7eaee45a7f2436
+source-git-commit: 8b4d86f2dd5f19abb56451403cd2638b1a852d79
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics CRM App instellen voor online {#set-up-microsoft-dynamics-crm-app-for-online}
+# Microsoft Dynamics CRM-app instellen voor online {#set-up-microsoft-dynamics-crm-app-for-online}
 
-## {#set-up} instellen
+## Instellen {#set-up}
 
 1. Ga naar https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration.
 
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 1. Schrijf de toepassings-id (ClientId) op. Je moet het later in Marketo invoeren.
 
-1. De toestemming van de Admin van de subsidie door de stappen in [dit artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/set-up-oauth-authentication-for-dynamics/grant-consent-for-client-id-and-app-registration.md) te volgen.
+1. Toestemming van beheerder verlenen door de stappen uit te voeren in [dit artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md).
 
-1. Genereer een clientgeheim in het beheercentrum door op **Certificaten en geheimen** te klikken.
+1. Een clientgeheim genereren in het beheercentrum door op **Certificaten en geheimen**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-1.png)
 
-1. Klik **Nieuw clientgeheim**.
+1. Klikken **Nieuw clientgeheim**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-2.png)
 
-1. Voeg een beschrijving van het Geheime punt van de Cliënt toe en klik **voeg** toe.
+1. Een beschrijving van een clientgeheim toevoegen en klikken **Toevoegen**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-3.png)
 
@@ -39,53 +39,53 @@ ht-degree: 0%
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-4.png)
 
-Marketo verifieert aan Azure AD met OAuth gebruikend Grant_type de Credentials van het Wachtwoord van de Eigenaar van het Middel ( ROPC). Voor dit scenario moet een Home Realm Discovery-beleid worden ontwikkeld voor de specifieke toepassing. Met dit beleid, zal Azure AD het authentificatieverzoek aan de dienst van de federatie opnieuw richten. Synchronisatie van wachtwoordhash moet hiervoor worden ingeschakeld in AD Connect. Zie [OAuth met ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) en [Een kernbeleid instellen voor een toepassing](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application) voor meer informatie.
+Marketo verifieert aan Azure AD met OAuth gebruikend Grant_type de Credentials van het Wachtwoord van de Eigenaar van het Middel ( ROPC). Voor dit scenario moet een Home Realm Discovery-beleid worden ontwikkeld voor de specifieke toepassing. Met dit beleid, zal Azure AD het authentificatieverzoek aan de dienst van de federatie opnieuw richten. Synchronisatie van wachtwoordhash moet hiervoor worden ingeschakeld in AD Connect. Zie voor meer informatie [OAuth met ROPC](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) en [Een tekenbeleid instellen voor een toepassing](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Aanvullende verwijzingen [zijn hier te vinden](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.).
+Aanvullende verwijzingen [hier te vinden](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.).
 
-Wanneer u wordt gedaan, is het tijd om **de Dynamica in te gaan CRM Gegenereerde identiteitskaart van de Cliënt en Geheim in Marketo**.
+Als je klaar bent, is het tijd om **Voer de door CRM gegenereerde client-id voor Dynamics CRM in en geheim naar Marketo**.
 
 ## Voer de door CRM gegenereerde client-id voor Dynamics CRM in en geheim naar Marketo {#enter-the-dynamics-crm-generated-client-id-and-secret-into-marketo}
 
-De volgende stappen zijn van toepassing op online _en_ On-prem versies.
+De volgende stappen zijn van toepassing op Online _en_ On-prem versies.
 
-1. Klik in Marketo op **Admin**.
+1. Klik in Marketo op **Beheer**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-5.png)
 
-1. Klik **Microsoft Dynamics**.
+1. Klikken **Microsoft Dynamics**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-6.png)
 
-1. Klik **Sync uitschakelen**.
+1. Klikken **Sync uitschakelen**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-7.png)
 
-1. Klik op **Bewerken** naast referenties.
+1. Klik op **Bewerken**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-8.png)
 
-1. Voer **Client ID** en **Client Secret** in die u eerder hebt opgehaald en druk op **Save**.
+1. Voer de **Client-id** en **Clientgeheim** u eerder hebt opgehaald en op **Opslaan**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-9.png)
 
-1. Klik **Synchronisatie-instelling valideren**.
+1. Klikken **Synchronisatie-instelling valideren**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-10.png)
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-11.png)
 
-1. Alle groene vinkjes worden weergegeven. Klik **Close**.
+1. Alle groene vinkjes worden weergegeven. Klikken **Sluiten**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-12.png)
 
    >[!NOTE]
    >
-   >Als u een rode X onder uw groene controletekens ziet, zie [dit artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) voor fixingsopties.
+   >Als u een rode X ziet onder uw groene vinkjes, zie [dit artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) voor reparatieopties.
 
-1. Klik **Sync inschakelen**.
+1. Klikken **Sync inschakelen**.
 
    ![](assets/set-up-microsoft-dynamics-crm-app-for-online-13.png)
 
