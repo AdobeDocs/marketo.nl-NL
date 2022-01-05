@@ -1,9 +1,10 @@
 ---
 description: Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 2 of 3 - Marketo Docs - Productdocumentatie installeren
 title: Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 2 of 3 installeren
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
+source-git-commit: 3fb93520a653109845c3b40aba20304c6163214f
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -15,6 +16,52 @@ Geweldig werk bij het voltooien van de vorige stappen. Laten we hier doorheen ga
 >[!PREREQUISITES]
 >
 >[Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Stap 1 van 3 installeren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+
+## Een nieuwe gebruiker maken {#create-a-new-user}
+
+1. Meld u aan bij Dynamics. Klik op het pictogram Instellingen en selecteer Geavanceerde instellingen.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
+
+1. Klikken **Instellingen** en selecteert u **Beveiliging**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-2.png)
+
+1. Klikken **Gebruikers**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-3.png)
+
+1. Klikken **Nieuw**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
+
+1. Klikken **Gebruikers toevoegen en licentie geven**. Er moet een nieuw tabblad worden geopend.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
+
+1. Klikken **Beheer** boven aan de pagina. Er moet een ander nieuw tabblad worden geopend.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-6.png)
+
+1. Klikken **Een gebruiker toevoegen**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-7.png)
+
+1. Voer al uw gegevens in. Als u klaar bent, klikt u op **Toevoegen**.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-8.png)
+
+   >[!NOTE]
+   >
+   >Deze naam moet een specifieke synchronisatiegebruiker zijn en geen bestaande rekening van de gebruiker van CRM. Het hoeft geen echt e-mailadres te zijn.
+
+1. Voer het e-mailbericht in waarin u de nieuwe gebruikersgegevens wilt ontvangen en klik op E-mail verzenden en sluit het.
+
+   ![](assets/step-2-of-3-marketo-on-premises-2016-9.png)
+
+## Een nieuwe clienttoepassing maken {#create-a-new-client-application}
+
+Voer de stappen uit in [dit Microsoft-artikel](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later) om een nieuwe Toepassing van de Cliënt tot stand te brengen en toestemmingen te verlenen. Noteer de client-id/-geheim van de Dynamic-clienttoepassing.
 
 ## Gebruikersrol synchroniseren toewijzen {#assign-sync-user-role}
 
