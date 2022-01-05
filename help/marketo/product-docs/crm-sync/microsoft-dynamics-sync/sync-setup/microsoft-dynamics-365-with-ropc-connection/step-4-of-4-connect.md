@@ -1,7 +1,7 @@
 ---
 description: Stap 4 van 4 - Verbind de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel - Marketo Docs - de Documentatie van het Product
 title: Stap 4 van 4 - Verbind de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel
-source-git-commit: 9ee27e22fec4e0ab85c193be2ea99d3c8b40568b
+source-git-commit: e46673423bdb2757e8a9f97dc702d32d02200e6e
 workflow-type: tm+mt
 source-wordcount: '407'
 ht-degree: 0%
@@ -14,8 +14,8 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
 >[!PREREQUISITES]
 >
->* [Stap 1 van 4: De Marketo-oplossing installeren met de wachtwoordcontroleverbinding van de eigenaar van het resource](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-3-install.md)
->* [Stap 2 van 4: Stel de Marketo-oplossing in met de Wachtwoordbeheerverbinding van de Eigenaar van het Middel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-3-set-up.md)
+>* [Stap 1 van 4: De Marketo-oplossing installeren met de wachtwoordcontroleverbinding van de eigenaar van het resource](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
+>* [Stap 2 van 4: Stel de Marketo-oplossing in met de Wachtwoordbeheerverbinding van de Eigenaar van het Middel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
 >* [Stap 3 van 4: Client-toepassing instellen op MS Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
 
 
