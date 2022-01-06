@@ -1,7 +1,8 @@
 ---
 description: Stap 4 van 4 - Verbind de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel - Marketo Docs - de Documentatie van het Product
 title: Stap 4 van 4 - Verbind de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
+source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -55,7 +56,7 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
 1. Voer de **Gebruikersnaam**, **Wachtwoord**, **Client-id**, **Clientgeheim**, en Microsoft Dynamics **URL**. Klikken **Opslaan** wanneer gereed.
 
-   ![](assets/five-1.png)
+   ![](assets/step-4-of-4-connect-the-marketo-solution-ropc-5.png)
 
    >[!NOTE]
    >
