@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Stap 3 van 3 - Verbind de Oplossing van Marketo met S2S Verbinding - de Documenten van Marketo - de Documentatie van het Product
 title: Stap 3 van 3 - Verbind de Oplossing van Marketo met S2S Verbinding
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 549282b11bcf5fd48d29680f196e4534063b30f6
+source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
+
+>[!IMPORTANT]
+>
+>Als u een upgrade uitvoert van Basisverificatie naar OAuth, dient u contact op te nemen met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support) voor hulp bij het bijwerken van de aanvullende parameters. Als u deze functie inschakelt, wordt de synchronisatie tijdelijk gestopt totdat nieuwe referenties worden ingevoerd en de synchronisatie opnieuw wordt ingeschakeld. De functie kan worden uitgeschakeld (tot april 2022) als u wilt terugkeren naar de oude verificatiemodus.
 
 >[!NOTE]
 >
