@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: e8ba27c09165aa844ae6df175464d989b1931bad
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '8250'
+source-wordcount: '8252'
 ht-degree: 0%
 
 ---
@@ -253,6 +253,7 @@ ht-degree: 0%
          + [Een gebruikersrol maken die alleen een API is](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Alleen een API-gebruiker maken](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [Een gebruikersrol maken, verwijderen, bewerken en wijzigen](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
+         + [E-mailverificatie](product-docs/administration/users-and-roles/email-verification.md)
          + [De machtiging Importeren van geavanceerde lijst voor een rol inschakelen](product-docs/administration/users-and-roles/enable-the-advanced-list-import-permission-on-a-role.md)
          + [Een lijst met gebruikers en rollen exporteren](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [Marketo-gebruikers beheren](product-docs/administration/users-and-roles/managing-marketo-users.md)

@@ -1,14 +1,15 @@
 ---
-description: Stap 1 van 3 - Installeer de Marketo-oplossing met S2S-verbinding - Marketo-documenten - Productdocumentatie
-title: Stap 1 van 3 - Installeer de Marketo-oplossing met S2S-verbinding
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+description: Stap 1 van 3 - Installeer de Marketo-oplossing met Server-naar-server verbinding - Marketo Docs - Productdocumentatie
+title: Stap 1 van 3 - Installeer de Marketo-oplossing met Server-naar-server verbinding
+exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
+source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
-# Stap 1 van 3: De Marketo-oplossing installeren met S2S-verbinding {#step-1-of-3-install-the-marketo-solution-s2s}
+# Stap 1 van 3: Marketo-oplossing installeren met Server naar Server-verbinding {#step-1-of-3-install-the-marketo-solution-s2s}
 
 Voordat u Microsoft Dynamics 365 en Marketo kunt synchroniseren, moet u eerst de Marketo-oplossing installeren in Dynamics. **Dynamische beheerdersmachtigingen zijn vereist.**
 
