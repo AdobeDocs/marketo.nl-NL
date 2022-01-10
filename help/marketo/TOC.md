@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 921c3279b53bc18ac753b1e3f0672a70fe11abe7
 workflow-type: tm+mt
-source-wordcount: '8252'
+source-wordcount: '8255'
 ht-degree: 0%
 
 ---
@@ -42,49 +42,6 @@ ht-degree: 0%
       + [Te beoordelen handelingen: Kernvaardigheden](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Manieren om hulp te krijgen](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
 + Productdocumenten {#product-docs}
-   + Doelaccountbeheer {#target-account-management}
-      + Instellen {#setup}
-         + [Overzicht van accountbeheer](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
-         + [Aan de slag met TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
-         + [Een licentie afgeven](product-docs/target-account-management/setup-tam/issue-a-license.md)
-         + [Machtigingen](product-docs/target-account-management/setup-tam/permissions.md)
-         + [Accountscore](product-docs/target-account-management/setup-tam/account-score.md)
-         + [Account Team Setup](product-docs/target-account-management/setup-tam/account-team-setup.md)
-         + [Een aangepast veld maken voor CRM-detectie](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
-         + [Account Insight instellen](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
-         + [Overzicht van de plug-in Account Insight](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
-         + [Gebruikers uitnodigen om accountgegevens te openen](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Doel {#target}
-         + Benoemde accounts {#named-accounts}
-            + [Overzicht benoemde account](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
-            + [Benoemde accounts importeren](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
-            + [Een bestaand benoemd account toevoegen aan een accountlijst](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
-            + [Een benoemd account maken](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
-            + [Personen toevoegen aan een benoemde account](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
-            + [Accounts detecteren](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
-            + [Lood naar overeenkomst met account](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
-            + [Filteren in benoemde accounts](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
-            + [Een benoemde account verwijderen](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
-            + [TAM-hiërarchie](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
-            + [Een hiërarchie maken](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
-         + [Accountlijsten](product-docs/target-account-management/target/account-lists.md)
-         + [Slimme accountlijsten](product-docs/target-account-management/target/account-smart-lists.md)
-         + [Een vergelijkbaar publiek account maken op LinkedIn](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
-      + Inschakelen {#engage}
-         + [Accountfilters](product-docs/target-account-management/engage/account-filters.md)
-         + [Accounttriggers](product-docs/target-account-management/engage/account-triggers.md)
-      + Meetlat {#measure}
-         + [TAM-hoofddashboard](product-docs/target-account-management/measure/tam-main-dashboard.md)
-         + [TAM Report Setup](product-docs/target-account-management/measure/tam-report-setup.md)
-         + [TAM-verkooprapport](product-docs/target-account-management/measure/tam-sales-report.md)
-         + [Accountlijstinzichten](product-docs/target-account-management/measure/account-list-insights.md)
-         + [Dimension van benoemde account in RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
-         + [Benoemde accountgegevens](product-docs/target-account-management/measure/named-account-insights.md)
-         + [Persoonlijke gegevens gebruiken](product-docs/target-account-management/using-personas.md)
-      + Accountprofielen {#account-profiling}
-         + [Accountprofielen instellen](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
-         + [Volgorde en afstemming van accountprofielen](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
-         + [Nieuwe accountdetectie](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + Aanvullende apps {#additional-apps}
       + SEO {#seo}
          + SEO begrijpen {#understanding-seo}
@@ -235,6 +192,7 @@ ht-degree: 0%
          + [Functies voor schatkist in- of uitschakelen](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Persoonlijke URL&#39;s voor uw account inschakelen (beheer)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
          + [Spam-formulierverzendingen blokkeren](product-docs/administration/settings/how-to-block-spam-form-submissions.md)
+         + [Landingspaginakoppen](product-docs/administration/settings/landing-page-headers.md)
          + [Marketo-aanmeldingen beperken op basis van IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Taal, landinstelling en tijdzone selecteren](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Een terugvalpagina instellen](product-docs/administration/settings/set-a-fallback-page.md)
@@ -1665,6 +1623,49 @@ ht-degree: 0%
             + Veldorganisatoren {#field-organizers}
                + [VeldOrganizer gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
                + [Aangepaste veldgroepen maken met de veldOrganizer](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+   + Doelaccountbeheer {#target-account-management}
+      + Instellen {#setup}
+         + [Overzicht van accountbeheer](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
+         + [Aan de slag met TAM](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
+         + [Een licentie afgeven](product-docs/target-account-management/setup-tam/issue-a-license.md)
+         + [Machtigingen](product-docs/target-account-management/setup-tam/permissions.md)
+         + [Accountscore](product-docs/target-account-management/setup-tam/account-score.md)
+         + [Account Team Setup](product-docs/target-account-management/setup-tam/account-team-setup.md)
+         + [Een aangepast veld maken voor CRM-detectie](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
+         + [Account Insight instellen](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [Overzicht van de plug-in Account Insight](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [Gebruikers uitnodigen om accountgegevens te openen](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
+      + Doel {#target}
+         + Benoemde accounts {#named-accounts}
+            + [Overzicht benoemde account](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
+            + [Benoemde accounts importeren](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
+            + [Een bestaand benoemd account toevoegen aan een accountlijst](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+            + [Een benoemd account maken](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+            + [Personen toevoegen aan een benoemde account](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+            + [Accounts detecteren](product-docs/target-account-management/target/named-accounts/discover-accounts.md)
+            + [Lood naar overeenkomst met account](product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+            + [Filteren in benoemde accounts](product-docs/target-account-management/target/named-accounts/filtering-in-named-accounts.md)
+            + [Een benoemde account verwijderen](product-docs/target-account-management/target/named-accounts/delete-a-named-account.md)
+            + [TAM-hiërarchie](product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)
+            + [Een hiërarchie maken](product-docs/target-account-management/target/named-accounts/create-a-hierarchy.md)
+         + [Accountlijsten](product-docs/target-account-management/target/account-lists.md)
+         + [Slimme accountlijsten](product-docs/target-account-management/target/account-smart-lists.md)
+         + [Een vergelijkbaar publiek account maken op LinkedIn](product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md)
+      + Inschakelen {#engage}
+         + [Accountfilters](product-docs/target-account-management/engage/account-filters.md)
+         + [Accounttriggers](product-docs/target-account-management/engage/account-triggers.md)
+      + Meetlat {#measure}
+         + [TAM-hoofddashboard](product-docs/target-account-management/measure/tam-main-dashboard.md)
+         + [TAM Report Setup](product-docs/target-account-management/measure/tam-report-setup.md)
+         + [TAM-verkooprapport](product-docs/target-account-management/measure/tam-sales-report.md)
+         + [Accountlijstinzichten](product-docs/target-account-management/measure/account-list-insights.md)
+         + [Dimension van benoemde account in RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [Benoemde accountgegevens](product-docs/target-account-management/measure/named-account-insights.md)
+         + [Persoonlijke gegevens gebruiken](product-docs/target-account-management/using-personas.md)
+      + Accountprofielen {#account-profiling}
+         + [Accountprofielen instellen](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
+         + [Volgorde en afstemming van accountprofielen](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
+         + [Nieuwe accountdetectie](product-docs/target-account-management/account-profiling/new-account-discovery.md)
    + Webpersonalisatie {#web-personalization}
       + Webmarketing op basis van account {#account-based-web-marketing}
          + [Account gebaseerde webmarketing met TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
