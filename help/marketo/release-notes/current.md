@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ De volgende functies worden vrijgegeven op **21 januari 2022**.
 
    * Gegevens over bestemmingspagina&#39;s in Design Studio
    * Landingspagina — Gegevens over bedrijfsmiddelen bij marketingactiviteiten
-
-* **Beheerderscontrole voor de schakelaar van de Ervaring van de Volgende Generatie**: Beheerders kunnen selecteren welke gebruikerstypen toegang hebben tot de schakeloptie voor het weergeven van schermen in de volgende generatie.
 
 ## Integratie van Microsoft Dynamics {#microsoft-dynamics-integration}
 
