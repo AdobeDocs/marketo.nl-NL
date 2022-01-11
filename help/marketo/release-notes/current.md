@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 534fb9d253b84147fe7fc96ce15987318dcea882
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1039'
 ht-degree: 0%
 
 ---
@@ -87,3 +87,7 @@ Marketo Engage klanten die ook de Adobe Experience Platform (AEP) gebruiken kunn
 * **Aanmelden bij Dialoogvenster Gebruiker uitnodigen**: In maart wordt de bestaande, optionele functie &#39;&#39;Aanmelden bij dialoogvenster Gebruiker uitnodigen&#39;&#39; vervangen. De functie &quot;Aanmelden bij nodigt de functionaliteit van de Dialoog van de Gebruiker uit&quot;wordt met voeten getreden door de Universele eigenschap van identiteitskaart, die voor de aanstaande Integratie van het Systeem van Adobe Identity Management wordt vereist en in Augustus 2021 op alle abonnementen werd toegelaten. Als gevolg van de afgekeurde versie is er slechts één gebruiker vereist die per e-mailadres in een abonnement moet worden gekoppeld.
 
 **Marketo Engage Domeinen - Configuratie van het Inzicht van de Verkoop**: Voor Marketo Engage domeinen die geen SSL cert hebben provisioned en https://, zullen de vraag met een SSL handshake fout ontbreken. Daarom zullen deze domeinen worden zonsondergang. Dientengevolge, zouden de gebruikers van het Inzicht van de Verkoop met een oudere configuratie die aan om het even welk van deze domeinen richten in de fouten van de systeemcallout op hun Lood, Contact, Rekening, de Panelen van de Opportunity, of Globale pagina van Marketo kunnen lopen. We raden u aan uw [Marketo Engage-configuratie](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in Salesforce als deze fout optreedt. U hoeft alleen de gegevens voor Marketo Engage bij te werken die zijn gemarkeerd in de sectie &quot;Marketo Sales Insight Config&quot; van het document.
+
+**_Webinar productrelease_**
+
+Doe mee op 27 januari 2022, 9:00 uur PT / 12:00 uur ET voor een [levende webinar](https://engage.marketo.com/2022_January_Release_Webinar_RegistrationPage.html) wordt gehost door ons productteam, waar u kunt leren hoe u alle nieuwste productinnovaties kunt gebruiken.

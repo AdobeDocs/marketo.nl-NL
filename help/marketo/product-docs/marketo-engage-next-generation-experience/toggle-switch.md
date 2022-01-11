@@ -2,7 +2,7 @@
 description: Schakelen tussen Marketo-documenten - productdocumentatie
 title: Schakelaar schakelen
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -41,15 +41,15 @@ De nieuwe ervaring wordt geladen.
 
 1. Zoek en selecteer het formulier in Marketo.
 
-   ![](assets/toggle-switch-5.png)
+   ![](assets/toggle-switch-8.png)
 
 1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
 
-   ![](assets/toggle-switch-6.png)
+   ![](assets/toggle-switch-9.png)
 
 De nieuwe ervaring wordt geladen.
 
-![](assets/toggle-switch-7.png)
+![](assets/toggle-switch-10.png)
 
 ## Inschakelen voor alle functies {#enable-for-all-features}
 
@@ -57,8 +57,8 @@ U kunt de volgende-gen interface van Marketo inschakelen voor alle beschikbare f
 
 1. In een gebied dat momenteel de Schakelaar van de Wissel heeft (in dit voorbeeld zijn wij binnen [Formuliergegevens pagina](#form-details-page)), klikt u op het tandwielpictogram rechtsonder op de pagina.
 
-   ![](assets/toggle-switch-8.png)
+   ![](assets/toggle-switch-11.png)
 
 1. Selecteren **Inschakelen voor alle beschikbare functies** en klik op **OK**.
 
-   ![](assets/toggle-switch-9.png)
+   ![](assets/toggle-switch-12.png)
