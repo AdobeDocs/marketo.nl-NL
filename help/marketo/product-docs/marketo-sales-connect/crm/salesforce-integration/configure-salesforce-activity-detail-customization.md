@@ -4,16 +4,22 @@ title: Aanpassing Salesforce Activity Detail configureren
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
 
 # Aanpassing Salesforce Activity Detail configureren {#configure-salesforce-activity-detail-customization}
 
-Aanpassing van het Detail van de activiteit staat beheerders toe om de informatie te vormen die aan het Salesforce Taak - Onderwerp gebied zal registreren, wanneer een de activiteit/herinneringstaak van de Verkoop wordt gesynchroniseerd aan Salesforce.
+>[!PREREQUISITES]
+>
+>* Salesforce en Marketo Sales Connect [moet zijn aangesloten](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* E-mailactiviteit registreren via API [moet worden ingeschakeld](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+
+
+Aanpassing van het Detail van de activiteit staat Admins toe om de informatie te vormen die aan het Salesforce Taak - Onderwerp gebied zal registreren, wanneer een de activiteit/herinneringstaak van de Verkoop wordt gesynchroniseerd aan Salesforce.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
