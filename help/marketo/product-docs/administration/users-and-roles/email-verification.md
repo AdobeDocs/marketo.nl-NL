@@ -4,21 +4,34 @@ title: E-mailverificatie
 hide: true
 hidefromtoc: true
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: c6eb6c099104bf0dccba36a7cc8a85dc03bdc9d3
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # E-mailverificatie {#email-verification}
 
-Ik denk dat je hebt gezegd dat we gewoon een nieuwe pagina zullen maken voor e-mailverificatie voor gebruikers
+Voor Adobe Marketo Engage-abonnementen is vereist dat alle gebruikers die geen API zijn, hun e-mailadres verifiëren. Gebruikers met de Single Sign-On (SSO) laten hun e-mail automatisch verifiëren wanneer hun abonnement is ingeschakeld met e-mailverificatie.
 
-Gebruiker uitnodigen Wanneer een beheerder een gebruiker uitnodigt, wordt de gebruikersinterface of de gebruikerservaring niet gewijzigd wanneer de gebruiker op de uitnodigingskoppeling klikt. De e-mail van de gebruiker wordt automatisch geverifieerd Gebruikers met SSO worden automatisch geverifieerd
+**Uitnodiging gebruiker**
 
-In het scherm Gebruikersaccount wordt het e-mailadres weergegeven als geverifieerd. Wanneer het e-mailadres wordt bijgewerkt, wordt in de gebruikersinterface weergegeven dat het e-mailadres voor het account niet is geverifieerd en dat e-mail is verzonden (zie bijgevoegde e-mail)
+Wanneer een Admin een gebruiker uitnodigt, wordt die gebruiker automatisch geverifieerd zodra hij op de uitnodigingskoppeling klikt. Gebruikers met SSO worden automatisch geverifieerd.
 
-Beheerder - Pagina Gebruikers en rollen Nieuwe kolom die de verificatiestatus van een gebruiker weergeeft Nieuwe knop om de e-mailverificatie voor de gebruiker opnieuw te activeren
+**Een e-mailadres wijzigen**
 
-MyMarketo Wanneer een gebruiker met niet-geverifieerde e-mailaanmeldingen een banner op de pagina Mijn Marketo ziet (ALLEEN).
+Wanneer het e-mailadres van een gebruiker wordt gewijzigd, wordt het niet geverifieerd. Er wordt een e-mail naar hen verzonden, zodat ze opnieuw kunnen verifiëren. Beheerders kunnen die e-mail handmatig opnieuw verzenden door op **Verificatie opnieuw verzenden**.
+
+![](assets/email-verification-1.png)
+
+![](assets/email-verification-2.png)
+
+**Gebruikers en rollen**
+
+In Beheer > Gebruikers en rollen wordt in de kolom E-mailstatus de verificatiestatus van elke gebruiker weergegeven.
+
+![](assets/email-verification-3.png)
+
+Als u een niet-geverifieerde gebruiker wilt verifiëren, selecteert u gewoon de record en klikt u op de knop **E-mail verifiëren** knop.
+
