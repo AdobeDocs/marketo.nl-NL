@@ -4,9 +4,9 @@ title: Algemene regels voor formuliervalidatie
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -33,15 +33,15 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 
 1. Dubbelklik op de rol waaraan u machtigingen wilt verlenen.
 
-   PICC
+   ![](assets/global-form-validation-rules-4.png)
 
 1. Klik op de knop **+** ondertekenen naast Access Admin.
 
-   PICC
+   ![](assets/global-form-validation-rules-5.png)
 
 1. Omlaag schuiven en selecteren **Validatieregels voor toegangsformulieren** en klik op **Opslaan**.
 
-   PICC
+   ![](assets/global-form-validation-rules-6.png)
 
 ## Nieuwe regel voor formuliervalidatie maken {#create-new-form-validation-rule}
 

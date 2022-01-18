@@ -3,10 +3,10 @@ unique-page-id: 37357043
 description: Overzicht van functies - Marketo Docs - Productdocumentatie
 title: Overzicht van functies
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
-source-git-commit: 7bac8a520bb1b8a2cc353c229e2f456476f67384
+source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -64,7 +64,15 @@ De volgende eigenschappen zijn beschikbaar in nieuwe MSI MSD Oplossing.
 * Toevoegen aan Marketo-campagne
 * Marketo-e-mail verzenden
 
-## Pagina Best Bets van Marketo  {#marketo-best-bets-page}
+## Marketo Sales Insight panel in Account Layout {#marketo-sales-insight-panel-in-account-layout}
+
+* Sterren en lamellen
+* Interessant moment
+* Webactiviteit
+* Score
+* E-mail (openen en klikken)
+
+## Pagina Best Bets van Marketo {#marketo-best-bets-page}
 
 * Prioriteit (sterren en vlammen)
 * Naam (hyperlink naar pagina voor lead/contactpersoon)
