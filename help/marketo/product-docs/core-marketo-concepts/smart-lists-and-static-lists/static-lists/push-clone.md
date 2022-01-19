@@ -3,9 +3,9 @@ description: Push Clone - Marketo Docs - Productdocumentatie
 title: Push Clone
 hide: true
 hidefromtoc: true
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 >
 >* [Een API-gebruiker maken](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) in Marketo.
 >* Ga vervolgens naar **Beheer** > **Launchpoint**. Zoek de naam van de rol die u net hebt gemaakt en klik op **Details weergeven**. De gegevens kopiëren en opslaan in **Client-id** en **Clientgeheim**, aangezien u het voor deze eigenschap zult nodig hebben.
+>* Maak in Marketo een statische lijst of zoek en selecteer een lijst die u al hebt gemaakt. Je hebt de id nodig.
 
 
 1. Aanmelden bij [Adobe Experience Platform](https://experience.adobe.com/).
@@ -53,15 +54,13 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-Vervolgens moet u kiezen of u alleen bestaande Marketo-personen wilt afstemmen, of bestaande Marketo-personen wilt afstemmen en de vermiste personen in Marketo wilt maken. Hieronder vindt u secties waarin wordt beschreven hoe u beide kunt uitvoeren.
-
-## Bestaande Marketo-personen op één lijn brengen en ontbrekende personen maken in Marketo {#match-existing-marketo-people-create-missing-people}
-
-Na de volgende stappen 1-8 hierboven...
-
-1. Voer een bestemming in **Naam** en een optionele beschrijving. Klik op de vervolgkeuzelijst Personen maken en selecteer **Bestaande Marketo-personen op één lijn brengen en ontbrekende personen maken in Marketo**.
+1. Voer een bestemming in **Naam** en een optionele beschrijving. Klik op de vervolgkeuzelijst Personen maken en kies &quot;Identieke bestaande Marketo-personen en Ontbrekende personen maken in Marketo&quot; _of_ &quot;Alleen voor bestaande Marketo-personen.&quot; In dit voorbeeld kiezen we het eerste.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
+
+   >[!NOTE]
+   >
+   >Als u Alleen bestaande Marketo-personen afstemmen kiest, hoeft u alleen de e-mail en/of de ECID toe te wijzen, zodat u de stappen 13 tot en met 16 kunt overslaan.
 
 1. Deze sectie is optioneel. Klikken **Maken** om over te slaan.
 
@@ -87,7 +86,7 @@ Na de volgende stappen 1-8 hierboven...
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
 
-1. Wijs de Achternaam en de Naam van het Bedrijf in kaart door te klikken **Nieuwe toewijzing toevoegen** opnieuw en herhalend Stap 7 tweemaal, die lastName en toen companyName kiest.
+1. Wijs de Achternaam en de Naam van het Bedrijf in kaart door te klikken **Nieuwe toewijzing toevoegen** en herhaalt u stap 15 tweemaal, waarbij u **lastName** en vervolgens **companyName**.
 
    ![](assets/push-an-adobe-experience-platform-segment-16.png)
 
@@ -111,26 +110,34 @@ Na de volgende stappen 1-8 hierboven...
 
    ![](assets/push-an-adobe-experience-platform-segment-21.png)
 
-MORREAAL
+1. Klik op het cursorpictogram in de rij om het bronveld Bedrijfsnaam te kiezen.
 
-## Alleen bestaande Marketo-personen afstemmen {#match-existing-marketo-people-only}
+   ![](assets/push-an-adobe-experience-platform-segment-22.png)
 
->[!NOTE]
->
->De identiteiten worden gebruikt om gelijken in Marketo te zoeken. Als een gelijke wordt gevonden, wordt de persoon toegevoegd aan de statische Lijst. Als er geen overeenkomst wordt gevonden, worden deze personen verwijderd (dus niet gemaakt in Marketo).
+1. Laat het keuzerondje Kenmerk selecteren ingeschakeld. Zoek naar &quot;bedrijf&quot; en selecteer **companyName** en klik vervolgens op **Selecteren**.
 
-1. _In Marketo_, maakt u een statische lijst of zoekt en selecteert u een lijst die u al hebt gemaakt. Kopieer de toewijzing-id van het einde van de URL.
+   ![](assets/push-an-adobe-experience-platform-segment-23.png)
 
-PICC
+1. Wijs de brongebieden voor Achternaam en Voornaam door het curseurpictogram voor elk te klikken en Stap 23 tweemaal te herhalen, kiezen **lastName** en vervolgens **firstName**.
 
->[!NOTE]
->
->Voor de beste resultaten moet de lijst waarnaar u verwijst in Marketo leeg zijn.
+   ![](assets/push-an-adobe-experience-platform-segment-24.png)
 
-1. Voer in Adobe Experience Platform de id in die u zojuist hebt gekopieerd. Kies uw begindatum. Personen worden voortdurend gesynchroniseerd tot de gekozen einddatum. Voor een onbepaalde synchronisatie laat u de einddatum leeg. Klikken **Volgende** wanneer gereed.
+1. Klikken **Volgende**.
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Bevestig uw wijzigingen en klik op **Voltooien**.
+1. Je hebt nu de id van je lijst nodig. Klik op het tabblad in uw browser waarin de statische lijst van Marketo is geopend (of open een nieuw tabblad en selecteer de gewenste statische lijst).
 
-PICC
+   ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+1. Markeer en kopieer de lijst-id aan het einde van de URL.
+
+   ![](assets/push-an-adobe-experience-platform-segment-27.png)
+
+1. Plak de id die u zojuist hebt gekopieerd onder Toewijzing-id en klik op **Volgende**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-28.png)
+
+1. Klikken **Voltooien**.
+
+   ![](assets/push-an-adobe-experience-platform-segment-29.png)
