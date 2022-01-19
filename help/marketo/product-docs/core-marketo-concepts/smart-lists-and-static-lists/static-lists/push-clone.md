@@ -3,9 +3,9 @@ description: Push Clone - Marketo Docs - Productdocumentatie
 title: Push Clone
 hide: true
 hidefromtoc: true
-source-git-commit: 97015b31c9a20a3052526a39ed26fc9cf0097e82
+source-git-commit: 58b9589e5364584c3b2f41dc1a32496a18574429
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '567'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,10 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    ![](assets/push-an-adobe-experience-platform-segment-7.png)
 
+   >[!NOTE]
+   >
+   >Als u Nieuwe account kiest, kunt u naar de Munchkin-id gaan **Beheer** > **Munchkin** (het maakt ook deel uit van uw Marketo-URL wanneer u zich hebt aangemeld). Client-id/geheim die u nodig hebt, kan de voorwaarden boven aan dit artikel volgen.
+
 1. Kies het bestemmingsaccount en klik op **Selecteren**.
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
@@ -73,6 +77,10 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 1. Kies het segment dat u naar Marketo wilt verzenden en klik op **Volgende**.
 
    ![](assets/push-an-adobe-experience-platform-segment-12.png)
+
+   >[!NOTE]
+   >
+   >Als u hier veelvoudige segmenten kiest, zult u elk segment aan een gespecificeerde statische lijst op het lusje van het Programma van het Segment moeten in kaart brengen.
 
 1. Klikken **Nieuwe toewijzing toevoegen**.
 
@@ -102,6 +110,10 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    ![](assets/push-an-adobe-experience-platform-segment-19.png)
 
+   >[!IMPORTANT]
+   >
+   >E-mail en/of ECID toewijzen via de **Naamruimte van identiteit** -tab is het belangrijkste om ervoor te zorgen dat de persoon in Marketo gelijk wordt behandeld. Toewijzingse-mail zorgt voor de hoogste overeenkomende snelheid.
+
 1. Nu is het tijd om de bronvelden te kiezen. Klik op het cursorpictogram voor e-mail.
 
    ![](assets/push-an-adobe-experience-platform-segment-20.png)
@@ -129,6 +141,10 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 1. Je hebt nu de id van je lijst nodig. Klik op het tabblad in uw browser waarin de statische lijst van Marketo is geopend (of open een nieuw tabblad en selecteer de gewenste statische lijst).
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
+
+   >[!NOTE]
+   >
+   >Gebruik een lege lijst met Marketo Engage voor de beste resultaten.
 
 1. Markeer en kopieer de lijst-id aan het einde van de URL.
 
