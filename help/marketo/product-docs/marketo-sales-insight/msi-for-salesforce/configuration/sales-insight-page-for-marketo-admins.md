@@ -1,44 +1,39 @@
 ---
 unique-page-id: 42762409
-description: De Pagina van het Inzicht van de verkoop voor Marketo Admins - Marketo Docs - de Documentatie van het Product
-title: Pagina met verkoopinzicht voor marktexploitanten
-translation-type: tm+mt
-source-git-commit: a7c90193e5c934119fa3b6bdf864d1458d1aad7c
+description: Sales Insight Page voor Marketo Admins - Marketo Docs - Productdocumentatie
+title: Sales Insight Page voor Marketo Admins
+exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
 
-
-# Pagina met verkoopinzicht voor markeringsbeheerders {#sales-insight-page-for-marketo-admins}
+# Sales Insight Page voor Marketo Admins {#sales-insight-page-for-marketo-admins}
 
 Marketo Admins heeft bepaalde rechten in Sales Insight. Leer hieronder wat ze zijn.
 
 ## Soap API-configuratie {#soap-api-configuration}
 
-Deze gegevens worden gebruikt om uw Salesforce-account aan te sluiten op uw Marketo-instantie, zodat u MSI in Salesforce kunt gebruiken.
+Deze gegevens worden gebruikt om uw Salesforce-account aan te sluiten op uw Marketo-exemplaar, zodat u MSI in Salesforce kunt gebruiken.
 
 ![](assets/one-1.png)
 
-## Configuratie {#rest-api-configuration} voor rest-API
+## API-configuratie opnieuw instellen {#rest-api-configuration}
 
-Deze gegevens worden gebruikt om uw Salesforce-account aan te sluiten op uw Marketo-instantie, zodat u het MSI Insights-dashboard in Salesforce kunt gebruiken.
+Deze gegevens worden gebruikt om uw Salesforce-account aan te sluiten op uw Marketo-exemplaar, zodat u het MSI Insights-dashboard in Salesforce kunt gebruiken.
 
 ![](assets/two-1.png)
 
-U kunt ervoor kiezen de referenties voor de rest-API te verwijderen in SFDC en alleen Soap-API&#39;s te gebruiken. Hierdoor wordt het dashboard met inzichten uitgeschakeld
-
-![](assets/three-1.png)
-
-## Persoonlijke score-instellingen {#person-score-settings}
+## Instellingen persoonlijke score {#person-score-settings}
 
 * **Sterren**: Sterren geven de totale loodscore aan in vergelijking met andere leads.
-* **Vlamjes**: Flames geven urgentie aan - hoeveel de score van een lead de laatste tijd is veranderd.
+* **Flames**: Flames geven urgentie aan - hoeveel de score van een lead de laatste tijd is veranderd.
 
 Standaard gebruikt Marketo Sales Insight het veld Score voor het berekenen van sterren en vlammen. Maar als je een ander veld wilt kiezen, is dit hoe:
 
-1. In **Admin** gebied van Marketo, klik **Inzicht van de Verkoop**.
+1. In de **Beheer** gebied van Marketo, klik **Verkoopoverzicht**.
 
    ![](assets/four.png)
 
@@ -54,13 +49,13 @@ Standaard gebruikt Marketo Sales Insight het veld Score voor het berekenen van s
 
    ![](assets/seven.png)
 
-1. Klik **Opslaan**. Verkoopinzicht neemt enige tijd in beslag om opnieuw te berekenen. U kunt uw CRM later controleren om de sterren en de vlammen te zien.
+1. Klikken **Opslaan**. Verkoopinzicht neemt enige tijd in beslag om opnieuw te berekenen. U kunt uw CRM later controleren om de sterren en de vlammen te zien.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Als u uw gebieden van de douanescore nog niet hebt, is hier hoe te om [hen te creëren](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Als je nog geen aangepaste score hebt, kun je het volgende doen: [maken](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
@@ -89,7 +84,7 @@ Als deze optie is ingeschakeld, kunnen MSI-gebruikers hun voer voor leads bekijk
 
 **Vervaldatum token:**
 
-De Symbolische Vervaldatum wordt gecontroleerd in de Manager van de Eigenschap. Als u de functie wilt in-/uitschakelen, bereikt u [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). Als deze optie is ingeschakeld, verlopen alle markeertokens binnen 10 minuten. Als markeertokens zijn uitgeschakeld, verlopen deze niet.
+De Symbolische Vervaldatum wordt gecontroleerd in de Manager van de Eigenschap. Als u deze wilt in-/uitschakelen, bereikt u [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support). Als deze optie is ingeschakeld, verlopen alle Marketo-tokens binnen 10 minuten. Als Marketo-tokens zijn uitgeschakeld, verlopen deze niet.
 
 Tokens die vóór het toelaten van de Symbolische Vervalsing worden geproduceerd zullen geen verlooptijd hebben om tegen te bevestigen, zodat zullen zij niet verlopen zelfs als de eigenschap momenteel wordt toegelaten.
 

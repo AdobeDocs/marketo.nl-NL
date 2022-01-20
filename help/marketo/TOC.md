@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 879500ff3ab464ab56b4cbd779a3021706055790
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '8255'
+source-wordcount: '8254'
 ht-degree: 0%
 
 ---
@@ -1329,6 +1329,8 @@ ht-degree: 0%
          + Installatie {#installation}
             + [Marketo Sales Insight Package installeren in Salesforce AppExchange](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + Configuratie {#configuration}
+            + [Knoppen voor bulkacties toevoegen aan Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
+            + [Marketo Tab toevoegen aan Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
             + [Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Marketo Sales Insight configureren in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [Configuratie voor bestaande klanten](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
@@ -1339,13 +1341,12 @@ ht-degree: 0%
             + [Overzicht van MSI-functies](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Overzicht van dashboardfuncties voor inzichten](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + Handelingen in het deelvenster MSI {#actions-in-the-msi-panel}
-               + [Een lead/contact vanuit Salesforce toevoegen aan een Marketo-campagne](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/add-to-marketo-campaign/add-a-lead-contact-to-a-marketo-campaign-from-salesforce.md)
+               + [Kies een actie in het Verkoopoverzicht](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Abonnement op voetteksten opzeggen in Marketo Sales Insight configureren](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [Verkoopsjabloon vergrendelen](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Een e-mail naar Verkoopoverzicht publiceren](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Test-e-mail verzenden](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Bulkhandelingen {#bulk-actions}
-               + [Het tabblad Marketo Sales Insight en de knoppen aan Salesforce toevoegen](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/add-marketo-sales-insight-tab-and-buttons-to-salesforce.md)
                + [Bulkacties in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/bulk-actions-in-salesforce-lightning.md)
                + [E-mail naar meerdere records in Marketo Sales Insight verzenden](product-docs/marketo-sales-insight/msi-for-salesforce/features/bulk-actions/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Taalondersteuning {#language-support}

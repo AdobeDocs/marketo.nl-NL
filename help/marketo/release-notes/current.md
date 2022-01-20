@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1055'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ De volgende functies zijn opgenomen in de release van 22 januari. Controleer de 
 
 **_Kwartaalreleases_**
 
-De volgende functies worden vrijgegeven op **21 januari 2022**.
+De volgende functies worden vrijgegeven op **21 januari 2022**, met een gefaseerde uitrol van elk onderdeel in de volgende week (tenzij anders aangegeven).
 
 ## Ervaring van de volgende generatie {#next-generation-experience}
 

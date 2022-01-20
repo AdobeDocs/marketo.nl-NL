@@ -5,7 +5,7 @@ title: Kies een actie in het Verkoopoverzicht
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -27,27 +27,28 @@ Al deze functies zijn toegankelijk vanaf:
 * Knop Lay-out lead: Eén handeling en kan niet worden beheerd door gebruikersprofiel
 * Knop Contactlay-out: Eén handeling en kan niet worden beheerd door gebruikersprofiel
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-1.png)
 
 **Pagina-indeling met groepactie**
 
-Venster Accountlay-out: Groepsactie en kan worden beheerd door het deelvenster Opportunity Layout van gebruikersprofiel: Groepsactie en kan worden beheerd door gebruikersprofiel
+* Venster Accountlay-out: Groepactie en kan worden beheerd door gebruikersprofiel
+* Deelvenster Kanaalindeling: Groepactie en kan worden beheerd door gebruikersprofiel
 
-![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-2.png)
 
 **Tabblad Best Bets**
 
-* Tabblad Handelingen in lijst met beste items: Groepsactie en kan worden beheerd door gebruikersprofiel
+* Tabblad Handelingen in lijst met beste items: Groepactie en kan worden beheerd door gebruikersprofiel
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-3.png)
 
 * Tabblad Best Bets In line Actions: Eén handeling en kan worden beheerd door gebruikersprofiel
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-4.png)
 
 **Lijstweergave met bulkactie**
 
-* Weergave lijst met leads: Bulkactie en kan niet worden beheerd door gebruikersprofiel
-* Weergave lijst met contactpersonen: Bulkactie en kan niet worden beheerd door gebruikersprofiel
+* Weergave lijst met leads: Bulkactie en kan niet door gebruikersprofiel worden gecontroleerd
+* Weergave lijst met contactpersonen: Bulkactie en kan niet door gebruikersprofiel worden gecontroleerd
 
-   ![](assets/-.png)
+   ![](assets/choose-an-action-in-sales-insight-5.png)
