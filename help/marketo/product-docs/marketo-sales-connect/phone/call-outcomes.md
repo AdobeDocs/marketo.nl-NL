@@ -4,9 +4,9 @@ title: Resultaten bellen
 hide: true
 hidefromtoc: true
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c4bee632b1099f135cd4f7f0553a1d60dd4986cc
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,10 @@ Sta uw verkoopteams toe om vraagresultaten te selecteren wanneer het maken van v
    ![](assets/call-outcomes-4.png)
 
 ## Creeer de Resultaten van de Vraag {#create-call-outcomes}
+
+>[!NOTE]
+>
+>U kunt een maximum van 15 Resultaten van de Vraag tot stand brengen.
 
 1. Klik op het tandwielpictogram en selecteer **Instellingen**.
 
