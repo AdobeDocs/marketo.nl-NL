@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 655728b5c60f0215c973b87d581fc0c45eb25c88
+source-git-commit: 879500ff3ab464ab56b4cbd779a3021706055790
 workflow-type: tm+mt
-source-wordcount: '8261'
+source-wordcount: '8255'
 ht-degree: 0%
 
 ---
@@ -91,7 +91,6 @@ ht-degree: 0%
          + [Minimale systeemvereisten](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
          + [Ondersteunde browsers](product-docs/administration/setup-administration/supported-browsers.md)
-         + [Algemene regel voor formuliervalidatie](product-docs/administration/setup-administration/global-form-validation-rule.md)
       + Aanvullende integratie {#additional-integrations}
          + [Adobe Connect toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [Google AdWords toevoegen als opstartservice met een beheerdersaccount](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
@@ -361,7 +360,6 @@ ht-degree: 0%
             + [Een statische lijst maken](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)
             + [Een lijst naar Adobe Experience Cloud verzenden](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)
             + [Een Adobe Experience Platform-segment naar een statische Marketo-lijst verplaatsen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)
-            + [Push Clone](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-clone.md)
             + [Statische lijsten begrijpen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)
       + Programma&#39;s {#programs}
          + Programma&#39;s maken {#creating-programs}
