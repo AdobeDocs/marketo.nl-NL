@@ -2,7 +2,7 @@
 description: Best Bets - Marketo Docs - Productdocumentatie
 title: Beste bieten
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
-source-git-commit: 7a6108b3c68c5845fcf0169b111e058596e3d4a6
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
@@ -37,6 +37,8 @@ Door op het gegevensmenu onder de kolom Acties te klikken, kunt u een bepaalde l
 * Weergeven in Marketo
 * Toevoegen aan lijst met controles
 
+![](assets/best-bets-1.png)
+
 **Bulkhandelingen**
 
 U kunt een of meer leads of contactpersonen op uw pagina Best Bets selecteren met het selectievakje en ze als groep bereiken met de volgende betrokkenheidsopties:
@@ -45,7 +47,7 @@ U kunt een of meer leads of contactpersonen op uw pagina Best Bets selecteren me
 * Toevoegen aan Marketo-campagne
 * Toevoegen aan lijst met controles
 
-![](assets/best-bets-1.png)
+![](assets/best-bets-2.png)
 
 >[!NOTE]
 >

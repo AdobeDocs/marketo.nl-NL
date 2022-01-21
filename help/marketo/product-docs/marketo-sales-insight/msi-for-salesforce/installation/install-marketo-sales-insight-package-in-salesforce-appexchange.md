@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7516390
-description: Marketo Sales Insight Package installeren in Salesforce AppExchange - Marketo Docs - Productdocumentatie
+description: Install Marketo Sales Insight Package in Salesforce AppExchange - Marketo Docs - Product Documentation
 title: Marketo Sales Insight Package installeren in Salesforce AppExchange
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
-source-git-commit: 4699b17a670655820946cd277adf28f2233f04d3
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
-# Marketo Sales Insight Package installeren in Salesforce AppExchange {#install-marketo-sales-insight-package-in-salesforce-appexchange}
+# Install Marketo Sales Insight Package in Salesforce AppExchange {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 
-U moet de Marketo Sales Insight-app installeren in uw Salesforce-abonnement voordat u kunt genieten van alle goodness die Sales Insight biedt. Zo gaat het.
+You need to install the Marketo Sales Insight app in your Salesforce subscription before you can enjoy all the goodness Sales Insight provides. Here&#39;s how.
 
 >[!NOTE]
 >
@@ -26,53 +26,53 @@ U moet de Marketo Sales Insight-app installeren in uw Salesforce-abonnement voor
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
-1. Klikken **Aanmelden bij de AppExchange** en meld u aan met uw gegevens van Salesforce.
+1. Click **Log in to the AppExchange** button and log in with your Salesforce credentials.
 
-1. Voer uw aanmelding voor de verbonden Salesforce-account in en klik op **Installeren in productie**.
+1. Enter your connected Salesforce account log-in and click **Install in Production**.
 
-   ![](assets/three.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-2.png)
 
    >[!TIP]
    >
-   >Als u deze eerst in uw sandbox wilt uittesten, kiest u **Installeren in sandbox**.
+   >If you want to test it out in your sandbox first, choose **Install in Sandbox**.
 
 1. Lees en accepteer de voorwaarden en klik vervolgens op **Bevestigen en installeren**.
 
-   ![](assets/four.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-3.png)
 
 1. U kunt kiezen voor &quot;Alleen installeren voor beheerders&quot; (en later MSI-toegang verlenen tot specifieke profielen), &quot;Installeren voor alle gebruikers&quot; of &quot;Installeren voor specifieke profielen&quot;.
 
-   ![](assets/five.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-4.png)
 
-1. Het volgende bericht wordt mogelijk weergegeven wanneer u het installatieproces start. U ontvangt een e-mail zodra de installatie is voltooid. Klikken **Gereed** om te worden ontslagen.
+1. Het volgende bericht wordt mogelijk weergegeven wanneer u het installatieproces start. You will receive an email once the installation is complete. Click **Done** to dismiss.
 
-   ![](assets/six.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-5.png)
 
-1. Controleren of **Marketo Sales Insight** bevindt zich in de Geïnstalleerde Pakketten.
+1. Verify that **Marketo Sales Insight** is in the Installed Packages.
 
-   ![](assets/seven.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-6.png)
 
-1. Klikken **Instellen** naast uw naam.
+1. Click **Setup** next to your name.
 
-   ![](assets/image2015-5-22-14-3a40-3a39.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-7.png)
 
 1. Zoek naar &quot;voorwerpen&quot;, dan klik **Objecten** krachtens **Maken**.
 
-   ![](assets/image2015-5-22-14-3a42-3a7.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-8.png)
 
 1. Controleer dat **Gedistribueerd** is gecontroleerd op alle Marketo Sales Insight-items.
 
-   ![](assets/image2015-5-27-16-3a15-3a58.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-9.png)
 
 1. Als een object niet wordt geïmplementeerd, klikt u op **Bewerken** naast het item.
 
-   ![](assets/image2014-9-24-17-3a23-3a45.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-10.png)
 
 1. Onder **Implementatiestatus** sectie, selecteert u **Gedistribueerd** en klik op **Opslaan**.
 
-   ![](assets/image2014-9-24-17-3a24-3a0.png)
+   ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-11.png)
 
-Geweldig werk! Nu hebt u Marketo Sales Insight geïnstalleerd en geïmplementeerd. Ga vooruit en vorm het voor uw verkoopteam en bekijk de verkoopskyrocket.
+Geweldig werk! Now you&#39;ve installed and deployed Marketo Sales Insight. Ga vooruit en vorm het voor uw verkoopteam en bekijk de verkoopskyrocket.
 
 >[!MORELIKETHIS]
 >

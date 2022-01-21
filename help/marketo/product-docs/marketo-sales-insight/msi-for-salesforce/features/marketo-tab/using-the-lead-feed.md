@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7512979
-description: Het gebruiken van het Lead voer - Marketo Docs - de Documentatie van het Product
-title: De Lead Feed gebruiken
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Using the Lead Feed - Marketo Docs - Product Documentation
+title: Using the Lead Feed
+exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
+# De Lead Feed gebruiken {#using-the-lead-feed}
 
-# Het gebruiken van het Loodvoer {#using-the-lead-feed}
-
-De Lead Feed is een actuele lijst met interessante gebeurtenissen die door uw leads worden uitgevoerd. U vindt de markering aan de rechterkant wanneer u op het tabblad Marketo klikt. Het is als een RSS- of Twitter-feed - de meest recente updates staan boven aan de lijst. Gebruik dit om naar voorsprong te springen terwijl je nog vers in hun hoofd bent.
+The Lead Feed is an up-to-the-minute list of interesting events done by your leads. You&#39;ll find it on the right-hand side when you click the Marketo tab. Het is als een RSS- of Twitter-feed - de meest recente updates staan boven aan de lijst. Use this to jump on leads while you&#39;re still fresh in their minds.
 
 >[!NOTE]
 >
@@ -21,13 +20,13 @@ De Lead Feed is een actuele lijst met interessante gebeurtenissen die door uw le
 
 ## Wat zit er in de Loodfeed? {#whats-in-the-lead-feed}
 
-![](assets/one.png)
+![](assets/using-the-lead-feed-1.png)
 
 Elk item in de hoofdfeed is een interessant moment - een opmerkelijke activiteit of gebeurtenis in de marketinggeschiedenis van deze lead.
 
-Als u deze in Salesforce weergeeft, heeft elk item de volgende opties:
+When viewing it in Salesforce, each item has:
 
-![](assets/two.png)
+![](assets/using-the-lead-feed-2.png)
 
 <table> 
  <colgroup> 
@@ -37,7 +36,7 @@ Als u deze in Salesforce weergeeft, heeft elk item de volgende opties:
  <tbody> 
   <tr> 
    <td><p>Item</p></td> 
-   <td><p>Beschrijving</p></td> 
+   <td><p>Description</p></td> 
   </tr> 
   <tr> 
    <td><p>A. Lead/contactpersoon</p></td> 
@@ -49,7 +48,7 @@ Als u deze in Salesforce weergeeft, heeft elk item de volgende opties:
   </tr> 
   <tr> 
    <td><p>C. Accountnaam</p></td> 
-   <td><p>Bedrijfsnaam</p></td> 
+   <td><p>Company name</p></td> 
   </tr> 
   <tr> 
    <td><p>D. Tijd</p></td> 
@@ -61,32 +60,32 @@ Als u deze in Salesforce weergeeft, heeft elk item de volgende opties:
   </tr> 
   <tr> 
    <td><p>F. Abonneren</p></td> 
-   <td><p>E-mailmelding ontvangen voor gebeurtenissen als deze</p></td> 
+   <td><p>Receive email notification for events like this</p></td> 
   </tr> 
   <tr> 
-   <td><p>G. Ster</p></td> 
-   <td><p>Deze persoon is een Best Bet (hoge prioriteit)</p></td> 
+   <td><p>G. Star</p></td> 
+   <td><p>This person is a Best Bet (high priority)</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## RSS-updates ophalen {#getting-rss-updates}
 
-U kunt ook updates voor Diervoeder voor leads ophalen via RSS-feed.  Met een RSS-feed kunt u updates op uw leads ontvangen, zelfs als u niet bent verbonden met Salesforce. Het diervoeder heeft dezelfde informatie als het voeder voor lood in Salesforce en de volgende informatie (indien beschikbaar):
+U kunt ook updates voor Diervoeder voor leads ophalen via RSS-feed.  Met een RSS-feed kunt u updates op uw leads ontvangen, zelfs als u niet bent verbonden met Salesforce. The feed has the same information as the Lead Feed in Salesforce as well as the following (when available):
 
 * e-mailadres
-* telefoonnummer
+* phone number
 * mobiel nummer
 * faxnummer
-* bedrijfsadres
-* bedrijfs-URL
+* company address
+* company URL
 
 >[!NOTE]
 >
->De beheerder van de Marketo van uw bedrijf moet [RSS voer ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) voor dit toelaten om te werken.
+>De Marketo-beheerder van uw bedrijf moet [RSS-feeds inschakelen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md) om dit te laten werken.
 
 Voor RSS-updates hebt u twee dingen nodig: de RSS-koppeling en een RSS-voederlezer. U kunt de RSS-koppeling ophalen door op het RSS-pictogram in de lead feed te klikken:
 
-![](assets/three.png)
+![](assets/using-the-lead-feed-3.png)
 
 De RSS-feed wordt in een nieuw venster weergegeven. Vervolgens kunt u de URL voor de RSS-feed kopiëren en in een RSS-lezer gebruiken. De meeste browsers hebben een ingebouwde RSS-lezer, of u kunt een RSS-lezer gebruiken die specifiek is voor uw platform.

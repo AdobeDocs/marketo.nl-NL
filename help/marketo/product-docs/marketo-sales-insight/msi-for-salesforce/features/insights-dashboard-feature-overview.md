@@ -3,7 +3,7 @@ unique-page-id: 42762514
 description: Overzicht van dashboardfuncties voor inzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van dashboardfuncties voor inzichten
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
-source-git-commit: 7c4edcd35b71846cc7bfea80906c0f9cbccea736
+source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
 workflow-type: tm+mt
 source-wordcount: '1503'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Meer informatie over de functies die beschikbaar zijn op het dashboard Verkoopin
 >
 >U moet beschikken over het nieuwste MSI SFDC-pakket en [configuratie](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
-![](assets/one.png)
+![](assets/insights-dashboard-feature-overview-1.png)
 
 ## Contactlay-out {#contact-layout}
 
@@ -48,7 +48,7 @@ Tabblad E-mailcampagnes:
 * De activiteitenkaart in deze sectie bevat een voorvertoningsoptie. Als de stroom meerdere verzendstappen bevat, zijn alle e-mails beschikbaar voor een voorvertoning. Als er meerdere &quot;e-mailkeuzen&quot; zijn, is de standaardoptie beschikbaar voor een voorvertoning in de stap E-mailverzending
 * Filters omvatten &quot;Zoeken&quot; en &quot;Datumbereik&quot;
 
-![](assets/three.png)
+![](assets/insights-dashboard-feature-overview-2.png)
 
 Gebeurtenis, tabblad:
 
@@ -59,7 +59,7 @@ Gebeurtenis, tabblad:
 * Actiedetails-kaart in deze sectie bevat voorvertoningsoptie
 * Filter bevat &quot;Zoeken&quot;, &quot;Alleen uitgenodigde gebeurtenissen tonen&quot; en &quot;Datumbereik&quot;
 
-![](assets/two.png)
+![](assets/insights-dashboard-feature-overview-3.png)
 
 ## Layout lead {#lead-layout}
 
@@ -89,7 +89,7 @@ Tabblad E-mailcampagnes:
 * De activiteitenkaart in deze sectie bevat een voorvertoningsoptie. Als de stroom meerdere verzendstappen bevat, zijn alle e-mails beschikbaar voor een voorvertoning. Als er meerdere &quot;e-mailkeuzen&quot; zijn, is de standaardoptie beschikbaar voor een voorvertoning in de stap E-mailverzending
 * Filters omvatten &quot;Zoeken&quot; en &quot;Datumbereik&quot;
 
-![](assets/five.png)
+![](assets/insights-dashboard-feature-overview-4.png)
 
 Gebeurtenis, tabblad:
 
@@ -100,7 +100,7 @@ Gebeurtenis, tabblad:
 * Actiedetails-kaart in deze sectie bevat voorvertoningsoptie
 * Filter bevat &quot;Zoeken&quot;, &quot;Alleen uitgenodigde gebeurtenissen tonen&quot; en &quot;Datumbereik&quot;
 
-![](assets/four.png)
+![](assets/insights-dashboard-feature-overview-5.png)
 
 ## Accountlay-out {#account-layout}
 
@@ -133,7 +133,7 @@ Gebeurtenis, tabblad:
 
 * Bevat gebeurtenisprogramma&#39;s die binnen de komende 90 dagen zijn gepland
 * Gebruik de filteroptie om alle gebeurtenissen/uitgenodigde gebeurtenissen weer te geven (op basis van de beheerinstellingen)
-* Het selecteren van uitgenodigde gebeurtenissen zal gebeurtenissen tonen die specifiek contact aan, samen met lidstatus is uitgenodigd
+* Selecting invited events will show events that specific contact has been invited to, along with member status
 * Als u alle gebeurtenissen selecteert, wordt de lijst met gebeurtenissen weergegeven die in de komende 90 dagen zijn gepland
 * Actiedetails-kaart in deze sectie bevat voorvertoningsoptie
 * Filter bevat &quot;Zoeken&quot;, &quot;Alleen uitgenodigde gebeurtenissen tonen&quot; en &quot;Datumbereik&quot;
