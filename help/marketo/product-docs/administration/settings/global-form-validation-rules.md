@@ -4,7 +4,7 @@ title: Algemene regels voor formuliervalidatie
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 0354267afa8e11dbe7ac3b56bc8a4c2886c84676
+source-git-commit: dcec5ef3856706d770a68228ae2b4c17cc47dfc0
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -71,4 +71,4 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 
 >[!NOTE]
 >
->Marketo Engage biedt een bepaalde lijst van gewezen personen van vrije consument e-maildomeinen aan die wanneer het gebruiken van onze vooraf geladen &quot;Lijst van gewezen personen van het Domein van de Consumenten E-mail&quot;regel worden geblokkeerd. [Deze lijst hier weergeven](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+>Marketo Engage heeft een bepaalde lijst van gewezen personen van vrije consument e-maildomeinen die worden geblokkeerd wanneer het gebruiken van onze vooraf geladen &quot;Lijst van gewezen personen van het Domein van de Consumenten E-mail&quot;regel. [Deze lijst hier weergeven](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
