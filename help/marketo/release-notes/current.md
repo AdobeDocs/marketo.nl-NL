@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: e2b050a0da8aa819a764aeb5dd905220451e2e59
 workflow-type: tm+mt
-source-wordcount: '1055'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## AEP-Marketo Engage-bestemmingsconnector - Nieuwe netwerkleads maken {#aep-marketo-engage-destination-connector}
 
-Marketo Engage klanten die ook de Adobe Experience Platform (AEP) gebruiken kunnen hun gegevensbestand met de capaciteit maximaliseren om net-nieuwe persoonverslagen in Marketo Engage van AEP via de AEP bestemmingsschakelaar te duwen. Wanneer het verzenden van publiekssegmenten van AEP naar Marketo Engage, zullen de mensen binnen het segment die niet reeds in uw gegevensbestand van Marketo Engage bestaan automatisch aan het worden toegevoegd.
+Marketo Engage klanten die ook de Adobe Experience Platform (AEP) gebruiken kunnen hun gegevensbestand met de capaciteit maximaliseren om net-nieuwe persoonverslagen in Marketo Engage van AEP via de AEP bestemmingsschakelaar te duwen. Wanneer het verzenden van publiekssegmenten van AEP naar Marketo Engage, mensen binnen het segment die niet reeds in uw gegevensbestand van Marketo Engage bestaan [kan er automatisch aan worden toegevoegd](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md).
 
 ## Verkoopoverzicht {#sales-insight}
 
@@ -78,7 +78,7 @@ Marketo Engage klanten die ook de Adobe Experience Platform (AEP) gebruiken kunn
 
 ## Aankondigingen {#announcements}
 
-* **Marketo Sky Sunsetting**: Op 11 maart is Marketo Sky niet meer beschikbaar omdat we onze bronnen richten op het bieden van de gebruikerservaring van de volgende generatie. In een poging om toegang te behouden tot functionaliteit die exclusief is voor Marketo Sky vandaag, brengen we Asset Expiration en Smart Campaign Priority Override in maart in de mainstream-ervaring.
+* **Marketo Sky Deprectie**: Op 11 maart is Marketo Sky niet meer beschikbaar omdat we onze bronnen richten op het bieden van de gebruikerservaring van de volgende generatie. In een poging om toegang te behouden tot functionaliteit die exclusief is voor Marketo Sky vandaag, brengen we Asset Expiration en Smart Campaign Priority Override in maart in de mainstream-ervaring. [Klik hier](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) voor meer informatie.
 
 * **Vervalsing van eindpunten van formulier**: Niet-ondersteunde POST&#39;s van programmatische formulieren naar het eindpunt leadCapture/save2 worden door Marketo Engage-formulieren afgewezen. [Klik hier](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) voor meer informatie.
 
