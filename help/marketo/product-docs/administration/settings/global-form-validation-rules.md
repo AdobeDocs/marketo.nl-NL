@@ -4,9 +4,9 @@ title: Algemene regels voor formuliervalidatie
 hide: true
 hidefromtoc: true
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 18a74b9e2860765ea0b8d3bd61419e7738b287fc
+source-git-commit: f48e9b24f53052d7888b56ea64de19038f69a995
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -68,3 +68,7 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 1. Geef de regel een naam, geef deze een optionele beschrijving en voer het foutbericht in dat de bezoekers van het formulier moeten zien. Voer in het vak Regels het domein of de domeinen in die u wilt blokkeren. Selecteer **Regel activeren** en klik op **Maken**.
 
    ![](assets/global-form-validation-rules-10.png)
+
+>[!NOTE]
+>
+>Marketo Engage biedt een bepaalde lijst van gewezen personen van vrije consument e-maildomeinen aan die wanneer het gebruiken van onze vooraf geladen &quot;Lijst van gewezen personen van het Domein van de Consumenten E-mail&quot;regel worden geblokkeerd. [Deze lijst hier weergeven](https://experienceleague.adobe.com/docs/marketo/assets/freemaildomains.csv).
