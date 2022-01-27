@@ -4,9 +4,9 @@ title: Herinneringstaken maken en toewijzen
 hide: true
 hidefromtoc: true
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: 8574a4373ec778b6127905bb3f5057153bec88a5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,40 +17,36 @@ Herinneringstaken zijn een geweldige manier om boven op uw klant en potentiële 
 
 1. Klikken **Opdrachtcentrum**.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Klikken **Taken**.
+1. Taken worden standaard geopend. Klikken **Taak toevoegen**.
 
-PICC
-
-1. Klikken **Taak toevoegen**.
-
-PICC
+   ![](assets/create-and-assign-reminder-tasks-2.png)
 
 1. Selecteer het taaktype van E-mail, Vraag, InMail, of de Taak van de Douane.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-3.png)
 
 1. Geef de taak een naam.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-4.png)
 
 1. Kies of u de taak die aan uzelf is toegewezen, wilt behouden of selecteer een andere gebruiker om uw taak toe te wijzen.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-5.png)
 
 1. Voeg de persoon toe waarmee u opvolgt, met deze herinneringstaak.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-6.png)
 
 1. Selecteer de datum waarop de taak moet worden uitgevoerd.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-7.png)
 
 1. Selecteer de prioriteit van de taak.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Voeg om het even welke details over de taak toe u beschikbaar aan u wanneer het voltooien van de taak zoals vraag het spreken nota&#39;s, een InMail berichtmalplaatje, of zelfs nota&#39;s over de persoon wilt.
+1. Voeg om het even welke details over de taak toe u beschikbaar aan u wanneer het voltooien van de taak zoals vraag het spreken nota&#39;s, een InMail berichtmalplaatje, of zelfs nota&#39;s over de persoon wilt. Klikken **Maken** wanneer gereed.
 
-PICC
+   ![](assets/create-and-assign-reminder-tasks-9.png)
