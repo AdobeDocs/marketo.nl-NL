@@ -4,9 +4,9 @@ title: Herinnering taaksynchronisatie met Salesforce
 hide: true
 hidefromtoc: true
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
-source-git-commit: 87f43fb58b5739c0465a1a74fb60cdf5c5f6b759
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -79,3 +79,7 @@ Hieronder wordt beschreven wat er gebeurt wanneer u Sales Connect- en SFDC-taken
 Na de eerste synchronisatie worden alle taken die u in Sales Connect maakt, bewerkt, voltooit of verwijdert, gesynchroniseerd met de takenlijst in Salesforce. En alles wat in Salesforce is gemaakt, bewerkt, voltooid of verwijderd, werkt uw takenlijst bij in Sales Connect.
 
 Als u deze synchronisatie wilt inschakelen, schakelt u gewoon het synchronisatievak in [Instellingen, pagina](https://toutapp.com/login) in de webtoepassing.
+
+>[!NOTE]
+>
+>Het onderwerpveld van een taak kan worden bijgewerkt in Sales Connect en die update wordt gesynchroniseerd in het Salesforce-onderwerpveld voor de corresponderende gesynchroniseerde taak als u de `{{activity_subject}}` dynamisch veld in uw [Aanpassing activiteitsgegevens](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) instellingen. Omgekeerd worden eventuele updates van het onderwerpveld in Salesforce _niet_ synchroniseren naar het onderwerpveld voor de taak van Sales Connect-herinnering.

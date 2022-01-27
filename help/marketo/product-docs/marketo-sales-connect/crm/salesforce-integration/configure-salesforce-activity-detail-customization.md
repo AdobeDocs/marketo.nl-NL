@@ -4,9 +4,9 @@ title: Aanpassing Salesforce Activity Detail configureren
 hide: true
 hidefromtoc: true
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: a95b889a36ae22aef6bc2ff5bc82f04751d389bd
+source-git-commit: ee43ec3a8631ab6b9e5e345b5a273673a1dc6983
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '675'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,10 @@ ht-degree: 0%
 
 
 Aanpassing van het Detail van de activiteit staat Admins toe om de informatie te vormen die aan het Salesforce Taak - Onderwerp gebied zal registreren, wanneer een de activiteit/herinneringstaak van de Verkoop wordt gesynchroniseerd aan Salesforce.
+
+>[!NOTE]
+>
+>Updates die in Sales Connect in het onderwerpveld van een herinneringstaak worden aangebracht, worden weergegeven in het onderwerpveld van de overeenkomstige Salesforce-taak als u de optie `{{activity_subject}}` dynamisch veld in de aanpassing van het activiteitsgegeven.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -46,6 +50,10 @@ De functie kan worden gebruikt om de volgende voordelen te ontgrendelen:
 * Beheerders kunnen het onderwerpveld labelen met een unieke id, zoals &quot;Mkto_sales&quot;. Activiteiten van Sales Connect kunnen dus gemakkelijk worden geïdentificeerd en onderscheiden van andere e-mailactiviteiten, callactiviteiten en taken.
 * Verminder de behoefte aan de gebieden van de douaneactiviteit. Salesforce past limieten toe op het aantal velden voor aangepaste activiteiten, waardoor kan worden beperkt welke gegevens beschikbaar zijn voor gebruik in rapporten. Als u dynamische velden voor activiteit gebruikt om toetsgegevens toe te voegen aan de onderwerpregel, kunt u het aantal velden voor aangepaste activiteit dat u in uw Salesforce-instantie moet maken, verminderen.
 * Het werkgebied en de taken volgen een consistent patroon dat is gedefinieerd door de Sales Connect Admin.
+
+>[!NOTE]
+>
+>Als u e-mailantwoorden als activiteiten aan Salesforce registreert, zullen zij niet de montages van de Aanpassing van het Detail van de Activiteit Salesforce gebruiken. In plaats daarvan logt u dan af op &quot;Reageren: E-mailonderwerp.&quot;
 
 ## Ondersteunde dynamische velden voor activiteiten {#activity-dynamic-fields-supported}
 
@@ -102,25 +110,39 @@ Wanneer het vormen van uw activiteitendetails, overweeg welke gegevens voor verk
 
 1. Klik op het tandwielpictogram en selecteer **Instellingen**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
 1. Klikken **Salesforce**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
 1. Klikken **Instellingen synchroniseren**.
 
-PICC
+   ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. In de redacteur van de Aanpassing van de Details van de Activiteit voeg om het even welke vrije tekst toe u wilt, zal dit voor het onderwerpgebied van alle taken onveranderd blijven die aan Salesforce worden gesynchroniseerd.
+1. Voeg in de redacteur van de Aanpassing van de Details van de Activiteit om het even welke vrije tekst toe u wilt. De tekst die u toevoegt, is niet dynamisch en blijft ongewijzigd voor het onderwerpveld van alle taken die zijn gesynchroniseerd met Salesforce.
 
-1. Voeg dynamische velden toe die u wilt toevoegen door op de knop Dynamisch veld te klikken en de gewenste dynamische velden in de lijst te selecteren.
+   ![](assets/configure-salesforce-activity-detail-customization-6.png)
+
+   >[!TIP]
+   >
+   >Hoewel niet vereist, kan het voor sommige mensen gemakkelijker worden om toegevoegde tekst tussen de gegevens te merken wanneer het aan een onderwerpgebied in Salesforce wordt bevolkt. Voorbeeld: `[Sales Connect] - {{Activity_type}}`
+
+1. Voeg aanvullende dynamische velden toe die u wilt toevoegen door op de knop **Dynamisch veld toevoegen** knop.
+
+   ![](assets/configure-salesforce-activity-detail-customization-7.png)
+
+1. Selecteer de gewenste dynamische velden.
+
+   ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
 1. Klikken **Opslaan**.
 
+   ![](assets/configure-salesforce-activity-detail-customization-9.png)
+
 >[!NOTE]
 >
->Salesforce past een limiet van 255 tekens toe. Als uw activiteitendetail dat overschrijdt, zal het worden afgekapt om ervoor te zorgen de informatie op het Salesforce onderwerpgebied kan worden opgeslagen.
+>Salesforce past een limiet van 255 tekens toe. Als uw activiteitendetail dat overschrijdt, zal het worden beknot om de informatie te verzekeren op het Salesforce onderwerpgebied wordt opgeslagen.
 
 >[!MORELIKETHIS]
 >
