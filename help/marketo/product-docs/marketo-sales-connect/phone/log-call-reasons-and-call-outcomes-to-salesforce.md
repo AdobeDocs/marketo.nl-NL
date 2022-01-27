@@ -4,7 +4,7 @@ title: De Redenen van de Vraag van het logboek en de Resultaten van de Vraag van
 hide: true
 hidefromtoc: true
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
-source-git-commit: 357da216508db6196042d07000cbc1b04fa41071
+source-git-commit: c71661553ecee07d3f9d7c7e2e1bab240da54d1d
 workflow-type: tm+mt
 source-wordcount: '467'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Als u deze velden wilt gebruiken, moet u het veld eerst maken als een veld voor 
 
 ### Aangepast activiteitsveld maken in Salesforce Classic  {#create-custom-activity-field-in-salesforce-classic}
 
-1. Klik in Salesforce op **Instellen**.
+1. Klik in Salesforce op **Instellen**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -70,7 +70,7 @@ Als u deze velden wilt gebruiken, moet u het veld eerst maken als een veld voor 
 >
 >U hoeft deze stappen alleen uit te voeren als u in Stap 9 hierboven de gewenste paginalay-out niet hebt geselecteerd.
 
-1. Klik in Salesforce op **Instellen**.
+1. Klik in Salesforce op **Instellen**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -110,11 +110,11 @@ Als u deze velden wilt gebruiken, moet u het veld eerst maken als een veld voor 
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Klik op de knop **Activiteit** label.
+1. Klik op de knop **Activiteit** label.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. Klikken **Velden en relaties**.
+1. Klikken **Velden en relaties**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
