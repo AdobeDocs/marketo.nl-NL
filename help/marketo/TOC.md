@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 96ff2469edfd60436eeeb77fdaedd25311e7d0a4
+source-git-commit: b6360de280547ba0fa486da094c467853b442621
 workflow-type: tm+mt
-source-wordcount: '8246'
+source-wordcount: '8237'
 ht-degree: 0%
 
 ---
@@ -1199,7 +1199,6 @@ ht-degree: 0%
          + [Niet aanmelden bij activiteitenoverzicht](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Niet aangemeld bij Salesforce](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Schakel Call Recording in](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
-         + [Hoe te om de Uitkomsten van de Vraag in Telefoon van de Verkoop aan te passen](product-docs/marketo-sales-connect/phone/how-to-customize-the-call-outcome-in-sales-phone.md)
          + [De Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
          + [Telefoonnummer internationale oproep](product-docs/marketo-sales-connect/phone/sales-phone-international-calling.md)
          + [Lokale aanwezigheid op verkooptelefoon](product-docs/marketo-sales-connect/phone/sales-phone-local-presence.md)
