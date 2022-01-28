@@ -4,9 +4,9 @@ title: Dynamisch chatoverzicht
 hide: true
 hidefromtoc: true
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 9ab6640ae30bd5ad653b5936a01ec3b0e19d595b
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om gebruike
 >[!NOTE]
 >
 >Dynamic Chat wordt momenteel geleidelijk ingevoerd en is momenteel in beperkte beschikbaarheid. Deze pagina zal met algemene beschikbaarheidsdetails (GA) worden bijgewerkt aangezien zij beschikbaar worden.
+
+>[!TIP]
+>
+>Bezoek [deze pagina](https://dcweb.z20.web.core.windows.net/) om zelfstudievideo&#39;s en een opgenomen demo van Dynamic Chat weer te geven.
 
 ## Integraties {#integrations}
 
