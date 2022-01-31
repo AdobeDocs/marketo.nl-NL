@@ -1,10 +1,8 @@
 ---
 description: Redenen bellen - Marketo Docs - Productdocumentatie
 title: Redenen voor oproepen
-hide: true
-hidefromtoc: true
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
-source-git-commit: c4bee632b1099f135cd4f7f0553a1d60dd4986cc
+source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -17,7 +15,7 @@ Sta uw verkoopteams toe om vraagredenen te selecteren wanneer het maken van vraa
 
 >[!NOTE]
 >
->**Beheerdersmachtigingen vereist.**
+>**Beheerdersmachtigingen vereist**
 
 ## De Redenen van de Vraag inschakelen {#enable-call-reasons}
 
