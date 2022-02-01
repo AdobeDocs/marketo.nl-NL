@@ -2,9 +2,9 @@
 description: Aanpassing van Salesforce Activity Detail - Marketo-documenten - Productdocumentatie configureren
 title: Aanpassing Salesforce Activity Detail configureren
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '707'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ Aanpassing van het Detail van de activiteit staat Admins toe om de informatie te
 
 >[!NOTE]
 >
->Updates die in Sales Connect in het onderwerpveld van een herinneringstaak worden aangebracht, worden weergegeven in het onderwerpveld van de overeenkomstige Salesforce-taak als u de optie `{{activity_subject}}` dynamisch veld in de aanpassing van het activiteitsgegeven.
+>* Updates die in Sales Connect in het onderwerpveld van een herinneringstaak worden aangebracht, worden weergegeven in het onderwerpveld van de overeenkomstige Salesforce-taak als u de optie `{{activity_subject}}` dynamisch veld in de aanpassing van het activiteitsgegeven.
+>* Regeleinden worden niet ondersteund wanneer gegevens worden geregistreerd naar het onderwerpveld Salesforce. Om het even welke lijnonderbrekingen in de redacteur van de Aanpassing van het Detail van de Activiteit zullen worden verwijderd wanneer een onderwerp van de verkooptaak wordt bijgewerkt.
+
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
