@@ -2,9 +2,9 @@
 description: Schakelen tussen Marketo-documenten - productdocumentatie
 title: Schakelaar schakelen
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: f00d43080136dd986a6d81d6bc8102cdaf788b4c
+source-git-commit: 0a95d8ec257323332ac046ab4a92c9d3cbab8da6
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,20 @@ De volgende-gen Landing van de lijstmening van de Pagina biedt onderzoeksfilters
 De nieuwe ervaring wordt geladen.
 
 ![](assets/toggle-switch-4.png)
+
+## Pagina met details van bestemmingspagina {#landing-page-details-page}
+
+1. Zoek in Marketo de bestemmingspagina en selecteer deze.
+
+   ![](assets/toggle-switch-5.png)
+
+1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
+
+   ![](assets/toggle-switch-6.png)
+
+De nieuwe ervaring wordt geladen.
+
+![](assets/toggle-switch-7.png)
 
 ## Formuliergegevens pagina {#form-details-page}
 
