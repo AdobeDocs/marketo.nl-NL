@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: f4cab63854a9c3e461daeb28c0a09746488c5d9e
 workflow-type: tm+mt
-source-wordcount: '8240'
+source-wordcount: '8247'
 ht-degree: 0%
 
 ---
@@ -1282,6 +1282,7 @@ ht-degree: 0%
                + [Opties voor bulke-mail](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
                + [Bulke-mails samenstellen met Selecteren en Verzenden](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [E-mailberichten verzenden via e-mail voor groep](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
+               + [Een sjabloon gebruiken in het venster Samenstellen](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Salesforce-configuratie {#salesforce-configuration}
             + [Configuratie MSI-handelingen in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Salesforce Classic-aanpassingspakket verwijderen](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
