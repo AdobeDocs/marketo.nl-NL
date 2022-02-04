@@ -4,9 +4,9 @@ title: E-mailberichten verzenden via e-mail voor groep
 hide: true
 hidefromtoc: true
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -19,39 +19,35 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 1. Klik op de knop **Mensen** tab.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-1.png)
 
 1. Selecteer de groep die u per e-mail wilt verzenden.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-2.png)
 
 1. Klik op de knop Handelingen groeperen en selecteer **E-mailgroep**.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-3.png)
 
 1. Vul uw e-mail in (of selecteer een sjabloon) en verzend (of plant) het.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-4.png)
 
 ## Een groepse-e-mail bewerken {#editing-a-group-email}
 
 1. Een groepse-e-mail maken met [Stap 1-3 hierboven](#sending-a-group-email).
 
-1. Kies een sjabloon of vul uw e-mail in.
+1. [Een sjabloon kiezen](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)of vul uw e-mail in.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-5.png)
 
 1. Als e-mail gereed is, kunt u nu een voorbeeld van elke e-mail in de lijst bekijken om te zien of de dynamische velden correct worden ingevuld.
 
-   PICC
+   ![](assets/sending-emails-via-group-email-6.png)
 
-1. Selecteer de gewenste ontvanger.
+1. Selecteer de gewenste ontvanger en klik op **Dynamische velden voorvertonen**. Bekijk de voorvertoning aan de rechterkant.
 
-   PICC
-
-1. Klikken **Dynamische velden voorvertonen** en bekijk de voorvertoning aan de rechterkant.
-
-   PICC
+   ![](assets/sending-emails-via-group-email-7.png)
 
    >[!NOTE]
    >
@@ -59,6 +55,6 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
 >[!MORELIKETHIS]
 >
->* [Opties voor bulkverzending](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
->* [Een sjabloon gebruiken in het venster Samenstellen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+>* [Opties voor bulkverzending](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+>* [Een sjabloon gebruiken in het venster Samenstellen](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
 
