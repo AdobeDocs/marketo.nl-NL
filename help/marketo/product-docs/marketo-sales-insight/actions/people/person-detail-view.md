@@ -3,9 +3,9 @@ description: Persoonsgegevens weergeven - Marketo-documenten - Productdocumentat
 title: Persoonsgegevens weergeven
 hide: true
 hidefromtoc: true
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ De weergave Persoonlijke details geeft een gedetailleerd profiel van elke persoo
 
 PICC
 
-1. Klik op de gewenste persoon.
+1. Selecteer de gewenste persoon.
 
 PICC
 
