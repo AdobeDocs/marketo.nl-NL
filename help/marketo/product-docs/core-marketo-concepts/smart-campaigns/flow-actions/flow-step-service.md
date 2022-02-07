@@ -3,7 +3,8 @@ description: Flow Step Service - Marketo Docs - Productdocumentatie
 title: Stroom Step Service
 hide: true
 hidefromtoc: true
-source-git-commit: 08767d476cf89eefe7223308945733c6f813a34d
+exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
+source-git-commit: 99ad4c68b8ab635f6eb6f7f0f53cb67ee3efc51c
 workflow-type: tm+mt
 source-wordcount: '1325'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Deze pre-versieeigenschap is momenteel slechts beschikbaar aan rekeningen die in het Zelfbediening Programma van de Stappen van de Stroom van de Stroom worden ingeschreven.
+>Deze pre-versieeigenschap is momenteel beschikbaar slechts aan rekeningen die in het Zelfbediening Programma van de Stappen van de Stroom van de Stroom worden ingeschreven.
 
 De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van de Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie over het ontwerpen en publiceren van uw eigen service raadpleegt u de [GitHub-opslagplaats voor de Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). Er is een concepttest voor de implementatie van de opzoektabel gevonden [hier](https://github.com/adobe/mkto-flow-lookup).
 
