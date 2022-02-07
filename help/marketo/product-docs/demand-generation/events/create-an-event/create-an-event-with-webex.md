@@ -1,26 +1,26 @@
 ---
 unique-page-id: 2949863
-description: Een gebeurtenis maken met WebEx - Marketo Docs - Productdocumentatie
-title: Een gebeurtenis maken met WebEx
+description: Een gebeurtenis maken met Webex - Marketo Docs - Productdocumentatie
+title: Een gebeurtenis maken met Webex
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
-source-git-commit: ed9146f48aecd34025d61abf14d76a714726dcc9
+source-git-commit: 8813686a39852443bf200eda232fd5448c6aa414
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
 
 ---
 
-# Een gebeurtenis maken met WebEx {#create-an-event-with-webex}
+# Een gebeurtenis maken met Webex {#create-an-event-with-webex}
 
 >[!PREREQUISITES]
 >
->* [WebEx toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [Webex toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Stel de juiste [flowhandelingen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om betrokkenheid bij te houden
 >* Zorg ervoor u de (klassieke) Gebeurtenissen van Webex gebruikt
 
 
-Maak eerst een Webex-gebeurtenis in het WebEx-gebeurteniscentrum. Marketo gebruikt alleen specifieke instellingen en velden voor uw integratie, die we binnenkort zullen doorlopen. Andere gebieden die u voor WebEx zou kunnen willen vormen worden verklaard in [Handboek voor WebEx-gebeurteniscentrum](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
+Maak eerst een Webex-gebeurtenis in het Webex-gebeurteniscentrum. Marketo gebruikt alleen specifieke instellingen en velden voor uw integratie, die we binnenkort zullen doorlopen. Andere gebieden die u voor Webex zou kunnen willen vormen worden verklaard in [Handboek voor het Webex Event Center](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
 >[!IMPORTANT]
 >
@@ -28,13 +28,13 @@ Maak eerst een Webex-gebeurtenis in het WebEx-gebeurteniscentrum. Marketo gebrui
 
 ## Basisinformatie {#basic-information}
 
-* **Naam gebeurtenis -** Deze naam wordt weergegeven in Marketo.
-* **Selectievakje voor Niet-weergegeven**
+* **Event Name -** This name will be viewable in Marketo.
+* **Unlisted Checkbox**
 
-   * Het wordt aanbevolen **niet** maak een lijst van uw gebeurtenis. Hiermee zorgt u ervoor dat alle personen zich registreren via de Marketo-landingspagina. Personen die zich via een ander mechanisme dan Marketo registreren, worden in Marketo weergegeven nadat de gebeurtenis is voltooid EN alleen als zij de gebeurtenis hebben bijgewoond.
+   * It&#39;s recommended that you do **not** list your event. Hiermee zorgt u ervoor dat alle personen zich registreren via de Marketo-landingspagina. Personen die zich via een ander mechanisme dan Marketo registreren, worden in Marketo weergegeven nadat de gebeurtenis is voltooid EN alleen als zij de gebeurtenis hebben bijgewoond.
    * Als u ervoor kiest om de gebeurtenis weer te geven, wordt deze op de pagina Lijst met gebeurtenissen weergegeven voor iedereen die de website van het gebeurteniscentrum bezoekt.
 
-* **Registratie -** Schakel dit selectievakje in als u &quot;required&quot; wilt instellen. U gebruikt een Marketo formulier-/landingspagina om registratiegegevens vast te leggen die naar WebEx worden geduwd.
+* **Registratie -** Schakel dit selectievakje in als u &quot;required&quot; wilt instellen. U gebruikt een Marketo-formulier-/landingspagina om registratiegegevens vast te leggen die naar Webex worden verzonden.
 * **Wachtwoord voor gebeurtenis**- (optioneel) Als u dit veld gebruikt, moet u het in uw bevestigingsbericht opnemen.
 
 ![](assets/image2015-5-28-13-3a30-3a55.png)
@@ -53,25 +53,25 @@ Maak eerst een Webex-gebeurtenis in het WebEx-gebeurteniscentrum. Marketo gebrui
 
 ## Instellingen audioconferentie {#audio-conference-settings}
 
-Deze instellingen bevinden zich alleen in WebEx. Ze worden niet gebruikt door of kunnen niet worden bekeken in Marketo, maar ze kunnen wel belangrijk zijn voor je webinar, dus dubbelcontroleer ze!
+Deze instellingen bevinden zich alleen in Webex. Ze worden niet gebruikt door of kunnen niet worden bekeken in Marketo, maar ze kunnen wel belangrijk zijn voor je webinar, dus dubbelcontroleer ze!
 
 ## Beschrijving en opties van gebeurtenis  {#event-description-options}
 
-De volgende opties worden gebruikt door of kunnen worden weergegeven in Marketo. Andere gebieden verblijven slechts in WebEx.
+De volgende opties worden gebruikt door of kunnen worden weergegeven in Marketo. Andere velden zijn alleen beschikbaar in Webex.
 
 * **Beschrijving** - Voer een beschrijving in. Dit zal in Marketo kunnen worden bekeken maar niet kunnen worden gewijzigd.
-* **Onderzoek na de gebeurtenis** - Marketo kan momenteel de informatie niet vastleggen in een WebEx-enquête na de gebeurtenis.
+* **Onderzoek na de gebeurtenis** - Marketo kan de informatie op dit moment niet vastleggen in een Webex-enquête na de gebeurtenis.
 * **Doel-URL** - (optioneel) U kunt de URL van een Marketo-bestemmingspagina invoeren om te dienen als de doel-URL om na afloop van de sessie weer te geven.
 
 ![](assets/image2015-5-28-13-3a48-3a49.png)
 
 ## Deelnemers en registratie {#attendees-registration}
 
-U bestuurt de uitnodigingslijst, het registratieformulier en andere e-mails met een Marketo-gebeurtenis. Andere functionaliteit wordt niet ondersteund door Marketo, zoals:
+You will be controlling the invitation list, registration form, and other emails using a Marketo Event. Other functionality will not be supported by Marketo, including:
 
-* **Maximum aantal registranten** - Momenteel **niet** wordt ondersteund met de integratie Marketo-WebEx.  Handmatige goedkeuring van registranten is beschikbaar met de status In afwachting van goedkeuring in Marketo.
+* **Maximum aantal registranten** - Momenteel **niet** ondersteund door de Marketo-Webex-integratie.  Handmatige goedkeuring van registranten is beschikbaar met de status In afwachting van goedkeuring in Marketo.
 
-* **Registratie-id vereist** - Wordt momenteel ondersteund met de Marketo-WebEx-integratie. Met Marketo kunt u het bevestigingsbericht voor uw gebeurtenis verzenden. Wanneer de persoon zich registreert, ontvangen hij een unieke URL die hij of zij gebruikt om de gebeurtenis in te voeren.
+* **Registratie-id vereist** - Wordt momenteel ondersteund met de integratie tussen Marketo en Webex. Met Marketo kunt u het bevestigingsbericht voor uw gebeurtenis verzenden. Wanneer de persoon zich registreert, ontvangen hij een unieke URL die hij of zij gebruikt om de gebeurtenis in te voeren.
 
    >[!TIP]
    >
@@ -79,8 +79,8 @@ U bestuurt de uitnodigingslijst, het registratieformulier en andere e-mails met 
    >
    >Stel het bevestigingsbericht in op **Operationeel** om ervoor te zorgen dat personen die zich inschrijven en eventueel worden afgemeld, nog steeds hun bevestigingsinformatie ontvangen.
 
-* **Registratiewachtwoord** - (Optioneel) Wordt momenteel niet ondersteund met de Marketo-WebEx-integratie.
-* **Goedkeuringsregels** - Wordt momenteel niet ondersteund met de Marketo-WebEx-integratie. U kunt echter slimme campagnes in Marketo gebruiken om goedkeuringen te beheren.
+* **Registratiewachtwoord** - (Optioneel) Wordt momenteel niet ondersteund met de Marketo-Webex-integratie.
+* **Goedkeuringsregels** - Wordt momenteel niet ondersteund met de Marketo-Webex-integratie. U kunt echter slimme campagnes in Marketo gebruiken om goedkeuringen te beheren.
 
 ![](assets/image2015-5-28-14-3a4-3a41.png)
 
@@ -90,13 +90,13 @@ De informatie die in deze sectie wordt gevormd wordt niet overgegaan tot Marketo
 
 ### E-mailberichten {#email-messages}
 
-Met Marketo kunt u e-mails, bevestigingse-mails en dergelijke naar uw geregistreerde personen sturen. U hoeft niets in deze sectie te configureren. Schakel de opties voor e-mailberichten in WebEx uit (hef de controle op).
+Met Marketo kunt u e-mails, bevestigingse-mails en dergelijke naar uw geregistreerde personen sturen. U hoeft niets in deze sectie te configureren. Disable (uncheck) the email message options within Webex.
 
 ![](assets/image2015-5-28-14-3a9-3a14.png)
 
 >[!NOTE]
 >
->De Marketo-WebEx-integratie biedt geen ondersteuning voor het verzenden van bevestigingse-mails vanuit WebEx. De bevestiging moet via Marketo worden verzonden. Nadat u de gebeurtenis hebt gepland, kopieert u de gebeurtenisinformatie naar het bevestigingsbericht van Marketo en stelt u het e-mailbericht in als **Operationeel**.
+>De Marketo-Webex-integratie biedt geen ondersteuning voor het verzenden van bevestigingse-mails vanuit Webex. De bevestiging moet via Marketo worden verzonden. Nadat u de gebeurtenis hebt gepland, kopieert u de gebeurtenisinformatie naar het bevestigingsbericht van Marketo en stelt u het e-mailbericht in als **Operationeel**.
 
 Nu zijn we klaar om naar Marketo te springen!
 
@@ -108,19 +108,19 @@ Nu zijn we klaar om naar Marketo te springen!
    >
    >Het kanaaltype van de geselecteerde gebeurtenis moet zijn **webinar**.
 
-1. Onder **Gebeurtenispartner**, selecteert u **WebEx**.
+1. Onder **Gebeurtenispartner**, selecteert u **Webex**.
 
    ![](assets/image2015-1-30-13-3a58-3a2.png)
 
-1. Onder **Aanmelden**, kiest u uw WebEx-aanmelding.
+1. Onder **Aanmelden**, kiest u uw Webex-aanmelding.
 
    ![](assets/image2015-5-18-12-3a2-3a26.png)
 
-1. Onder **Gebeurtenis** kiest u de zojuist gemaakte WebEx-gebeurtenis. Selecteer vervolgens een optionele back-uppagina en klik op **Opslaan**.
+1. Onder **Gebeurtenis** kiest u de zojuist gemaakte Webex-gebeurtenis. Selecteer vervolgens een optionele back-uppagina en klik op **Opslaan**.
 
    ![](assets/image2015-5-14-16-3a15-3a55.png)
 
-1. Selecteer een optionele back-uppagina voor uw WebEx-gebeurtenis. Kies een optie in de vervolgkeuzelijst met goedgekeurde Marketo-bestemmingspagina&#39;s of voer de URL in van een landingspagina die geen Marketo is.
+1. Selecteer een optionele back-uppagina voor uw Webex-gebeurtenis. Kies een optie in de vervolgkeuzelijst met goedgekeurde Marketo-bestemmingspagina&#39;s of voer de URL in van een landingspagina die geen Marketo is.
 
    >[!TIP]
    >
@@ -140,14 +140,14 @@ Nu zijn we klaar om naar Marketo te springen!
    >
    >Het kan tot 48 uur duren voordat de gegevens in Marketo verschijnen. Als u na het wachten nog steeds niets ziet, selecteert u **Vernieuwen vanaf webinar-provider** in het menu Gebeurtenishandelingen in het dialoogvenster **Samenvatting** tabblad van uw gebeurtenis.
 
-Zoet! Uw WebEx-gebeurtenis wordt nu gesynchroniseerd met uw Marketo-gebeurtenis.  Personen die zich aanmelden voor uw webinar, worden via de stap Program Status wijzigen naar uw webinar geduwd wanneer de Nieuwe status is ingesteld op &quot;Geregistreerd&quot;. Geen andere status zal de persoon over duwen. Zorg er ook voor dat u in stap 1 van de statusstroom van het programma Wijzigen en stap 2 in de E-mailflow verzendt.
+Zoet! Uw Webex-gebeurtenis wordt nu gesynchroniseerd met uw Marketo-gebeurtenis. Personen die zich aanmelden voor uw webinar, worden via de stap Program Status wijzigen naar uw webinar geduwd wanneer de Nieuwe status is ingesteld op &quot;Geregistreerd&quot;. Geen andere status zal de persoon over duwen. Zorg er ook voor dat u in stap 1 van de statusstroom van het programma Wijzigen en stap 2 in de E-mailflow verzendt.
 
 ## Het overzicht weergeven  {#viewing-the-schedule}
 
-Klik in de programmaweergave van het programma op de kalendervermelding voor de gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien!
+In the program schedule view, click the calendar entry for your event. U kunt het schema aan de rechterkant van het scherm zien!
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 
 >[!NOTE]
 >
->Om uw gebeurtenisprogramma te veranderen zult u webinar op WebEx moeten uitgeven.
+>Als u uw gebeurtenissenschema wilt wijzigen, moet u het webinar op Webex bewerken.
