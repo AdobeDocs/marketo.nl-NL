@@ -3,11 +3,10 @@ unique-page-id: 10099102
 description: Plug-inreleases voor Microsoft Dynamics MSI - Marketo Docs - Productdocumentatie
 title: Plug-inreleases voor Microsoft Dynamics MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 7b22aec56d15826c1fecd2cf026c561c4df8531c
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 4%
+source-wordcount: '306'
+ht-degree: 6%
 
 ---
 
@@ -15,31 +14,31 @@ ht-degree: 4%
 
 Wanneer u voor het eerst synchroniseert met Microsoft Dynamics, downloadt en installeert u de nieuwste versie van de plug-ins voor Marketo Sales Insight (MSI). Deze plug-ins worden regelmatig door Marketo bijgewerkt, zodat u naar dezelfde locatie kunt terugkeren om de nieuwe versie te downloaden.
 
-Download [de nieuwste plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) die overeenkomt met uw release Dynamics.
+Gelieve [de nieuwste plug-in downloaden](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) komt overeen met uw release Dynamics.
 
 >[!NOTE]
 >
 >Deze versies werken voor zowel on-premise als online versies van Dynamiek.
 
-## De verbetering van uw Oplossing MSI {#upgrading-your-msi-solution}
+## Een upgrade uitvoeren van uw MSI-oplossing {#upgrading-your-msi-solution}
 
-1. Importeer de nieuwste versie van de oplossing _over de bestaande versie_ van uw Dynamics CRM door op de knop **Importeren** in Dynamiek te drukken.
+1. De nieuwste versie van de oplossing importeren _over de bestaande versie_ van uw Dynamics CRM door op **Importeren** in Dynamiek.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->Voorbeeld: als uw Dynamica CRM versie 2.0.0.20 heeft en de recentste versie 2.0.0.21 is, zou u _over_ versie 2.0.0.20 invoeren.
+>Voorbeeld: als uw Dynamica CRM versie 2.0.0.20 heeft en de recentste versie 2.0.0.21 is, zou u invoeren _over_ versie 2.0.0.20.
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. Selecteer **Werkgebied voor upgrade** en **Aanpassingen behouden** en klik vervolgens op **Importeren**.
+1. Selecteren **Werkgebied voor upgrade** en **Aanpassingen behouden** en klik vervolgens op **Importeren**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -49,7 +48,7 @@ Download [de nieuwste plug-in](/help/marketo/product-docs/marketo-sales-insight/
 
 En dat is het! Na de verbetering zult u slechts één Oplossing MSI zien.
 
-## Updates van versie {#version-updates}
+## Versie-updates {#version-updates}
 
 <table> 
  <colgroup> 
@@ -63,6 +62,26 @@ En dat is het! Na de verbetering zult u slechts één Oplossing MSI zien.
    <th colspan="1">Versie</th> 
    <th colspan="1">Notities</th> 
   </tr> 
+  <tr> 
+   <td colspan="1">03-02-22</td> 
+   <td colspan="1">2.0.0.27.</td> 
+   <td colspan="1">Accountlay-out voor inzichten: Interesserende momenten, Score-wijzigingen, webactiviteiten, e-mailactiviteiten</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">05-01-22</td> 
+   <td colspan="1">2.0.0.26</td> 
+   <td colspan="1">Programmaadoptiescore voor verzenden van e-mail</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">28-10-21</td> 
+   <td colspan="1">2.0.0.25.</td> 
+   <td colspan="1">Metriek van de Score van de Aanneming van het product, nieuw Globaal Dashboard (de Activiteit van het Web, E-mail, Beste Bets)</td> 
+  </tr>
+  <tr> 
+   <td colspan="1">10-02-21</td> 
+   <td colspan="1">2.0.0.22</td> 
+   <td colspan="1">Auto controle toegelaten en documentatieveranderingen op oplossing MSI verwijderen</td> 
+  </tr>
   <tr> 
    <td colspan="1">01-10-20</td> 
    <td colspan="1">2.0.0.21</td> 
