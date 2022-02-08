@@ -3,102 +3,91 @@ unique-page-id: 37356194
 description: Een lijst verzenden naar Adobe Experience Cloud - Marketo Docs - Productdocumentatie
 title: Een lijst naar Adobe Experience Cloud verzenden
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
-source-git-commit: c225facfb3fce2d9e03ca1db5aa1ce0fee4f686c
+source-git-commit: a82a2dd0a9c3a27b9b6bf3b352cd81d59932a31b
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '770'
 ht-degree: 0%
 
 ---
 
-# Een lijst verzenden naar Adobe Experience Cloud {#send-a-list-to-adobe-experience-cloud}
+# Een lijst naar Adobe Experience Cloud verzenden {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
 >
 >Een implementatie van een Marketo-instantie die klaar is voor HIPAA, kan deze functie niet gebruiken.
 
 >[!PREREQUISITES]
-[Adobe Experience Cloud-publiek delen instellen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)>
 >
+>[Adobe Experience Cloud-publiek delen instellen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
 
 ## Ondersteunde doeltoepassingen {#supported-destination-applications}
 
 * Adobe Advertising Cloud
-* Adobe Analytics (**only** als u een Vergunning van Adobe Audience Manager bezit)
+* Adobe Analytics (**alleen** als u een Adobe Audience Manager-licentie hebt)
 * Adobe Audience Manager
 * Adobe Experience Manager
-* Adobe Real-Time Customer Data Platform
+* Adobe Real-time Customer Data Platform
 * Adobe Target
 
-## Hoe te om een Statische Lijst {#how-to-send-a-static-list} te verzenden
+## Hoe te om een Statische Lijst te verzenden {#how-to-send-a-static-list}
 
 Een statische lijst is dat, statisch. De lijst wordt alleen gewijzigd in Adobe Experience Cloud als u deze handmatig aanbrengt.
 
-1. Zoek in Marketo de lijst die u wilt exporteren en selecteer deze.
+1. Zoek in Marketo de lijst die u wilt exporteren. Klik er met de rechtermuisknop op en selecteer **Verzenden naar Experience Cloud**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-1.png)
 
-1. Klik op de vervolgkeuzelijst **Handelingen weergeven** en selecteer **Verzenden naar Experience Cloud**.
+1. Klik op de knop **Map Audience Manager** en selecteer de gewenste doelmap in de Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-2.png)
 
-1. Klik op de vervolgkeuzelijst **Audience Manager Map** en selecteer de gewenste doelmap in de Experience Cloud.
+1. Kies of u een nieuw publiek wilt maken of een bestaand publiek wilt overschrijven (in dit voorbeeld maken we een nieuw publiek). Voer de nieuwe publieksnaam in en klik op **Verzenden**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-3.png)
 
-1. Kies of u een nieuw publiek wilt maken of een bestaand publiek wilt overschrijven (in dit voorbeeld maken we een nieuw publiek). Ga de nieuwe publieksnaam in en klik **Send**.
+1. Klikken **OK**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-4.png)
 
-1. Klik **OK**.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
-
    >[!NOTE]
-   Het kan tot 6-8 uur duren voor het publiekslidmaatschap volledig in Adobe bevolkt.
+   >
+   >Het kan tot 6-8 uur duren voor het publiekslidmaatschap volledig in Adobe bevolkt.
 
-## Hoe te om een Gesynchroniseerde Lijst {#how-to-send-a-synced-list} te verzenden
+## Een gesynchroniseerde lijst verzenden {#how-to-send-a-synced-list}
 
 Als u een lijst synchroniseert, betekent dit dat telkens wanneer u een lijst in Marketo bijwerkt, deze lijst automatisch wordt gesynchroniseerd met de gebruikers in Adobe Experience Cloud.
 
-1. Zoek en selecteer in Marketo de lijst die u wilt synchroniseren.
+1. Zoek in Marketo de lijst die u wilt exporteren. Klik er met de rechtermuisknop op en selecteer **Verzenden naar Experience Cloud**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-5.png)
+
+1. Klik op de knop **Poortbibliotheekmap** en selecteer de gewenste doelmap in de Experience Cloud.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-6.png)
 
-1. Klik op de vervolgkeuzelijst **Handelingen weergeven** en selecteer **Verzenden naar Experience Cloud**.
+1. Kies of u een nieuw publiek wilt maken of een bestaand publiek wilt overschrijven (in dit voorbeeld maken we een nieuw publiek). Voer de nieuwe publieksnaam in en controleer de **Zorgen dat het lidmaatschap van het publiek synchroon blijft** en klik op **Verzenden**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. Klik op de vervolgkeuzelijst **Audience Library Folder** en selecteer de gewenste doelmap in de Experience Cloud.
+1. Klikken **OK**.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
-1. Kies of u een nieuw publiek wilt maken of een bestaand publiek wilt overschrijven (in dit voorbeeld maken we een nieuw publiek). Ga de nieuwe publieksnaam in, controleer **Houd het Lidmaatschap van het Publiek in Synchronisatie** doos, en klik **Send**.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
-
-1. Klik **OK**.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
-
-## Hoe te om een Synchronisatie van de Lijst {#how-to-stop-a-list-sync} tegen te houden
+## Lijstsynchronisatie stoppen {#how-to-stop-a-list-sync}
 
 U kunt voorkomen dat uw lijst op elk gewenst moment wordt gesynchroniseerd.
 
-1. Zoek in Marketo de lijst die u niet meer wilt synchroniseren en selecteer deze.
+1. Zoek in Marketo naar de lijst die u niet meer wilt synchroniseren en klik met de rechtermuisknop. Klikken **Lijstsynchronisatie stoppen**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-9.png)
+
+1. Selecteer de doelgroep of doelgroepen die u niet meer wilt synchroniseren en klik op **Stoppen**.
+
+   ![](assets/send-a-list-to-adobe-experience-cloud-10.png)
+
+1. Klikken **Stoppen** ter bevestiging.
 
    ![](assets/send-a-list-to-adobe-experience-cloud-11.png)
-
-1. Klik op de vervolgkeuzelijst **Handelingen weergeven** en selecteer **Lijstsynchronisatie stoppen**.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-12.png)
-
-1. Selecteer de doelgroep(en) die u niet meer wilt synchroniseren en klik op **Stoppen**.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-13.png)
-
-1. Klik **Stop** om te bevestigen.
-
-   ![](assets/send-a-list-to-adobe-experience-cloud-14.png)
 
 ## Notities {#things-to-note}
 
@@ -122,9 +111,9 @@ Onder de motorkap werkt de publieksintegratie door Marketo Munchkin-cookies te s
 
 **Hoe werkt de cookiesync?**
 
-Wanneer de cookiesync voor uw Marketo Abonnement wordt toegelaten, zal Marketo munchkin.js proberen om Adobe ECIDs voor de Adobe IMS Org te vangen en op te slaan u tijdens de integratieopstelling specificeerde en deze ECIDs aan het overeenkomstige koekjesherkenningsteken van Marketo aanpast. Hierdoor kunnen de anonieme gebruikersprofielen van Marketo worden verrijkt met Adobe-ECID&#39;s.
+Wanneer de cookiesynchronisatie is ingeschakeld voor uw Marketo-abonnement, probeert Marketo&#39;s munchkin.js Adobe ECID&#39;s vast te leggen en op te slaan voor de Adobe IMS Org die u tijdens de integratie-instellingen hebt opgegeven en deze ECID&#39;s overeen te laten komen met de overeenkomstige Marketo cookie-id. Hierdoor kunnen de anonieme gebruikersprofielen van Marketo worden verrijkt met Adobe-ECID&#39;s.
 
-Een volgende stap is vereist om het anonieme gebruikersprofiel aan een Profiel van de Lood te associëren, dat gebruikend een gewone tekst e-mail wordt geïdentificeerd. Precies hoe dit werkt is [hier beschreven](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+Een volgende stap is vereist om het anonieme gebruikersprofiel aan een Profiel van de Lood te associëren, dat gebruikend een gewone tekst e-mail wordt geïdentificeerd. Precies hoe dit werkt [hier beschreven](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
 **Welke informatie wordt gedeeld?**
 
