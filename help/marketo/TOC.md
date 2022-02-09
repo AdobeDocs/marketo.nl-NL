@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: f4cab63854a9c3e461daeb28c0a09746488c5d9e
+source-git-commit: 338221b333ee50e6351d5ca6dcba702b48cd2185
 workflow-type: tm+mt
-source-wordcount: '8247'
+source-wordcount: '8275'
 ht-degree: 0%
 
 ---
@@ -1258,6 +1258,7 @@ ht-degree: 0%
             + [Campagne is beëindigd](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Salesforce-integratie {#salesforce-integration}
+               + [Aanpassing Salesforce Activity Detail configureren](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Je Marketo-verkoopaccount verbinden met Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
                + [Instellingen voor Salesforce Sync](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + E-mail {#email}
@@ -1283,12 +1284,19 @@ ht-degree: 0%
                + [Bulke-mails samenstellen met Selecteren en Verzenden](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [E-mailberichten verzenden via e-mail voor groep](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Een sjabloon gebruiken in het venster Samenstellen](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + Mensen {#people}
+            + [Handelingen voor het toezicht op de verkoop en naleving van GDPR](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
+         + Taken {#tasks}
+            + [Herinnering taaksynchronisatie met Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Salesforce-configuratie {#salesforce-configuration}
             + [Configuratie MSI-handelingen in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Salesforce Classic-aanpassingspakket verwijderen](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
             + [Aanpassingspakket voor Salesforce Lightning verwijderen](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Marketo {#marketo}
             + [Marketo-toegang verlenen aan gebruikers](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+         + Mensen {#people}
+         + [Persoonsgegevens weergeven](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
+         + [Handelingen voor het toezicht op de verkoop en naleving van GDPR](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
          + Verstuur een e-mail {#send-a-sales-email}
             + [Overzicht van e-mailtracking](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Sjablonen {#templates}
