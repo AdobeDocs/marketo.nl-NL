@@ -3,16 +3,16 @@ unique-page-id: 2953384
 description: Sync inschakelen voor een aangepaste entiteit - Marketo Docs - Productdocumentatie
 title: Sync inschakelen voor een aangepaste entiteit
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
-source-git-commit: a5bc634bd3b5ec0849617a9fe366a106691ce149
+source-git-commit: dadaf5bd8e887309d0e9ee8fc25fc58d1c4fbe97
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Sync inschakelen voor een aangepaste entiteit {#enable-sync-for-a-custom-entity}
 
-Als u de gegevens van de douaneentiteit van Dynamica nodig hebt om in Marketo beschikbaar te zijn, is hier hoe te om de synchronisatie voor het toe te laten:
+Als u de gegevens van de douaneentiteit van Dynamica nodig hebt om in Marketo beschikbaar te zijn, is hier hoe te om de synchronisatie voor het toe te laten.
 
 >[!NOTE]
 >
@@ -20,7 +20,9 @@ Als u de gegevens van de douaneentiteit van Dynamica nodig hebt om in Marketo be
 
 >[!NOTE]
 >
->Wanneer u de synchronisatie inschakelt voor een aangepaste entiteit, voert Marketo een eerste synchronisatie uit om alle gegevens voor het aangepaste object in te voeren.
+>* Wanneer u de synchronisatie inschakelt voor een aangepaste entiteit, voert Marketo een eerste synchronisatie uit om alle gegevens voor het aangepaste object in te voeren.
+>* Leden van de Marketing List en de Marketing List zijn **niet ondersteund** op dat moment.
+
 
 1. Ga naar de **Beheer** sectie.
 
@@ -61,4 +63,3 @@ Als u de gegevens van de douaneentiteit van Dynamica nodig hebt om in Marketo be
 1. Vergeet niet de globale synchronisatie opnieuw in te schakelen!
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
-
