@@ -3,9 +3,10 @@ description: Beheerdershandleiding voor MSI-handelingen - Marketo Docs - Product
 title: Beheerdershandleiding voor MSI-handelingen
 hide: true
 hidefromtoc: true
-source-git-commit: 55a677339f03b11ac3c2bdf58fdb83fdbd1cd4b8
+exl-id: 339d518d-445b-4634-ab81-92c9d5541927
+source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Bevestig met uw manager van het Succes van de Klant dat de Acties MSI voor uw Marketo- Rekening is toegelaten (als u geen CSM hebt) [contactondersteuning](https://nation.marketo.com/t5/support/ct-p/Support)).
+>* Bevestig met uw manager van het Succes van de Klant dat de Acties MSI voor uw Marketo- Rekening is toegelaten (als u geen CSM hebt) [contact opnemen met Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support)).
 >* Uw Marketo/Salesforce-synchronisatie moet zijn ingesteld.
 
 
