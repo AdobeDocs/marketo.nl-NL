@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Productdocumentatie
 title: Marketo Verklarende woordenlijst
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 88e26a5b4b37068955e5612153eee2d4d21588d1
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
 source-wordcount: '4205'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Marketo Verklarende woordenlijst {#marketo-glossary}
 
-Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij het gebruik van Marketo. Als u wilt dat een term wordt toegevoegd, moet u [ons een e-mail sturen](mailto:GRP-Marketo-articlefeedback@adobe.com).
+Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij het gebruik van Marketo. Als u wilt dat een term wordt toegevoegd, verzoeken wij u [Stuur ons een e-mail](mailto:GRP-Marketo-articlefeedback@adobe.com).
 
 ## A {#a}
 
@@ -28,27 +28,27 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Account</strong></td> 
-   <td colspan="1">Deze term kan verschillende betekenissen hebben:<br>-Uw Marketo-exemplaar zelf kan als uw rekening van Marketo worden bedoeld.<br>-In  <strong>ABM</strong>, een  <strong>Benoemde </strong> Rekening en een rekening die de gebruiker heeft bepaald is een doelrekening zij willen nastreven.<br>-In ABM is een CRM-account een account die is toegewezen aan uw gekoppelde  <strong>CRM</strong>  (account in  <strong>Salesforce</strong>,  <strong>MS </strong> Dynamic  <strong>API</strong>).<br>- In uw CRM, zijn de rekeningen de zaken/het bedrijf dat leidt en de contacten worden geassocieerd aan.</td> 
+   <td colspan="1">Deze term kan verschillende betekenissen hebben:<br>-Je Marketo-exemplaar zelf kan worden aangeduid als je Marketo-account.<br>-In <strong>ABM</strong>, <strong>Benoemd account</strong> Dit is een account die de gebruiker heeft opgegeven. Dit is een doelaccount die de gebruiker wil gebruiken.<br>-In ABM is een CRM-account een account die is toegewezen aan uw gekoppelde <strong>CRM</strong> (account in <strong>Salesforce</strong>, <strong>MS Dynamics</strong> of <strong>API</strong>).<br>- In uw CRM, zijn de rekeningen de zaken/het bedrijf dat leidt en de contacten worden geassocieerd aan.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Account-based Marketing</a>  (ABM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Op account gebaseerde marketing</a> (ABM)</strong></td> 
    <td colspan="1">Een add-on functie waarmee u belangrijke accounts op een zeer gecoördineerde manier als doel kunt instellen en inschakelen.</td> 
   </tr> 
   <tr> 
    <td><strong>Accountlijst</strong></td> 
-   <td>Een lijst met sleutelnamen voor accounts en organisaties. Wordt ook wel een op account gebaseerde marketinglijst (<strong>ABM</strong>) genoemd.</td> 
+   <td>Een lijst met sleutelnamen voor accounts en organisaties. Wordt ook wel een marketing op basis van account genoemd (<strong>ABM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Accountprofielen</strong></td> 
-   <td colspan="1">(voorheen AccountAI) In <strong>ABM</strong>, gebruikend uw Ideaal Profiel van de Klant (ICP), zullen de bestaande bedrijven in uw gegevensbestand worden gerangschikt, en de rangschikkingen worden toegevoegd als scores op uw rekeningen.</td> 
+   <td colspan="1">(voorheen AccountAI) In <strong>ABM</strong>, met behulp van uw Ideal Customer Profile (ICP), worden bestaande bedrijven in uw database gerangschikt en worden de waarderingen als scores toegevoegd aan uw accounts.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Accountscore</a></strong></td> 
-   <td colspan="1">In <strong>TAM</strong>, is het een score die aan een rekening wordt toegewezen om u te helpen zijn niveau van overeenkomst bepalen.</td> 
+   <td colspan="1">In <strong>TAM</strong>, is het een score die aan een account is toegewezen om u te helpen het niveau van betrokkenheid te bepalen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Aankoopdatum</strong></td> 
-   <td colspan="1">De datum waarop een persoon in Marketo bekend wordt. Deze datum komt overeen met het <strong>Verwervingsprogramma</strong> dat de persoon heeft verworven.</td> 
+   <td colspan="1">De datum waarop een persoon in Marketo bekend wordt. Deze datum komt overeen met de <strong>Overnameprogramma</strong> die de persoon heeft verworven.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Overnameprogramma</strong></td> 
@@ -71,12 +71,12 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
    <td>Een webbezoeker die nooit een formulier heeft ingevuld of zijn gegevens op de website heeft achtergelaten.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="https://developers.marketo.com/" rel="nofollow">Application Programming Interface</a>  (API)</strong></td> 
+   <td colspan="1"><strong><a href="https://developers.marketo.com/" rel="nofollow">Toepassingsprogrammeringsinterface</a> (API)</strong></td> 
    <td colspan="1">Een reeks vooraf gedefinieerde protocollen die worden gebruikt voor het uitvoeren van enkelvoudige functies of massafuncties in een besturingssysteem of toepassing (in dit geval Marketo).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Goedgekeurd</strong></td> 
-   <td colspan="1">Wordt gebruikt om te bevestigen of een <strong>element</strong> klaar is voor gebruik. Activa kunnen pas openbaar worden gemaakt nadat ze zijn goedgekeurd.</td> 
+   <td colspan="1">Wordt gebruikt om te bevestigen dat een <strong>element</strong> is klaar voor consumptie. Activa kunnen pas openbaar worden gemaakt nadat ze zijn goedgekeurd.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Element</strong></td> 
@@ -98,7 +98,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
     <div> 
      <p><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-smart-campaign" rel="nofollow">Batchcampagne</a></strong></p> 
     </div></td> 
-   <td><p>A <strong>campagne</strong> die gekwalificeerde leden richt gebruikend filters of lijstlidmaatschap. Batchcampagnes worden op een specifiek moment gestart en hebben invloed op een specifieke groep mensen in één keer. Batchcampagnes kunnen worden ingesteld op opnieuw uitvoeren of één keer uitvoeren.<br></p></td> 
+   <td><p>A <strong>campagne</strong> die gekwalificeerde leden aanwijst die filters of lijstlidmaatschap gebruiken. Batchcampagnes worden op een specifiek moment gestart en hebben invloed op een specifieke groep mensen in één keer. Batchcampagnes kunnen worden ingesteld op opnieuw uitvoeren of één keer uitvoeren.<br></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Gedragscore</strong></td> 
@@ -117,7 +117,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
     <div> 
      <p><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" rel="nofollow">Stuiteren</a></strong></p> 
     </div></td> 
-   <td>Wanneer een e-mail die naar een ontvanger is verzonden, wordt geretourneerd. Er zijn harde en zachte grenzen. Een harde stuit kan het e-mailadres van een persoon ongeldig maken wanneer een mailserver Marketo vertelt dat het e-mailadres van de persoon niet kan worden bezorgd. Een zachte stuit betekent dat er iets fout is gegaan bij het verzenden van de e-mail aan de persoon; dit wordt automatisch opgelost. Zowel hard als zachte grenzen bestaan uit <a href="https://nation.marketo.com/docs/DOC-2752" rel="nofollow">veelvoudige categorieën</a>.</td> 
+   <td>Wanneer een e-mail die naar een ontvanger is verzonden, wordt geretourneerd. Er zijn harde en zachte grenzen. Een harde stuit kan het e-mailadres van een persoon ongeldig maken wanneer een mailserver Marketo vertelt dat het e-mailadres van de persoon niet kan worden bezorgd. Een zachte stuit betekent dat er iets fout is gegaan bij het verzenden van de e-mail aan de persoon; dit wordt automatisch opgelost. Zowel harde als zachte vlekken bestaan uit <a href="https://nation.marketo.com/docs/DOC-2752" rel="nofollow">meerdere categorieën</a>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -136,19 +136,19 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Campagne</strong></td> 
-   <td colspan="1">"Campagne" zou een paar dingen kunnen betekenen in Marketo. Een <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campagne</a> is een kortere termijn voor slimme campagne. In <strong>Marketo Sales Connect</strong> zijn <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campagnes</a> een reeks uit meerdere kanalen bestaande correspondentiestappen. In <strong>Web Personalization</strong> zijn web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campagnes</a> aangepaste reacties die zijn gekoppeld aan een specifiek segment.</td> 
+   <td colspan="1">"Campagne" zou een paar dingen kunnen betekenen in Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campagne</a> is een kortere termijn voor slimme campagne. In <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campagnes</a> Dit zijn een reeks meerkanaalse correspondentiestappen. In <strong>Webpersonalisatie</strong>, web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campagnes</a> zijn aangepaste reacties geassocieerd met een specifiek segment.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">Rapport Campagneactiviteiten</a></strong></td> 
-   <td colspan="1">Het type van rapport dat toont hoe <strong>slimme campagnes</strong> presteren.</td> 
+   <td colspan="1">Type rapport dat toont hoe <strong>slimme campagnes</strong> uitvoeren.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Rapport over e-mailprestaties voor campagne</a></strong></td> 
-   <td colspan="1">Rapporttype waarin de e-mailprestatiegegevens worden weergegeven die zijn gegroepeerd op <strong>slimme campagne</strong>.</td> 
+   <td colspan="1">Rapporttype waarin de e-mailprestatiemetriek wordt weergegeven gegroepeerd op <strong>slimme campagne</strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md" rel="nofollow">Campagnemap</a></strong></td> 
-   <td colspan="1">Een organisatie die meerdere <strong>programma's</strong> en/of <strong>slimme campagnes</strong> kan bevatten. Net als een map op uw bureaublad worden mappen in Marketo gebruikt voor organisatie en rapportage.</td> 
+   <td colspan="1">Een organisatie die meerdere eenheden kan bevatten <strong>programma's</strong> en/of <strong>slimme campagnes</strong>. Net als een map op uw bureaublad worden mappen in Marketo gebruikt voor organisatie en rapportage.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#cast" rel="nofollow"><strong>Cast</strong></a></td> 
@@ -156,7 +156,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" rel="nofollow"><strong>Kanaal</strong></a></td> 
-   <td colspan="1">Soort marketingactiviteit in verband met een <strong>programma</strong> (bijvoorbeeld e-mail, <strong>webinar, </strong>divisie, roadshow, online reclame, enz.). </td> 
+   <td colspan="1">Soort marketingactiviteit die verband houdt met een <strong>programma</strong> (bijvoorbeeld e-mail, <strong>webinar, </strong>handel, presentatie, onlinereclame, enz.). </td> 
   </tr> 
   <tr> 
    <td><strong>Klikken om % te openen</strong></td> 
@@ -172,11 +172,11 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Klonen</strong></td> 
-   <td colspan="1">In Marketo kunt u duplicaten maken van verschillende typen entiteiten in uw instantie. U kunt <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programma's</a>, een <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">middel binnen een programma</a>, een <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">stroom</a>, en meer klonen.</td> 
+   <td colspan="1">In Marketo kunt u duplicaten maken van verschillende typen entiteiten in uw instantie. U kunt klonen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programma's</a>, en <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">activa binnen een programma</a>, <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">stream</a>en meer.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
-   <td colspan="1">Het eerste gedeelte van de URL. Het ene woord (plus YourCompany.com) wordt een CNAME genoemd (bijvoorbeeld <em>info</em>.YourCompany.com/).</td> 
+   <td colspan="1">Het eerste gedeelte van de URL. Het ene woord (plus YourCompany.com) wordt een CNAME genoemd (bijvoorbeeld, <em>info</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md" rel="nofollow"><strong>Webactiviteitenrapport van bedrijf</strong></a></td> 
@@ -184,23 +184,23 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md" rel="nofollow"><strong>Restrictie</strong></a></td> 
-   <td colspan="1">Een extra voorwaarde u aan slimme lijst <strong>filters</strong>/<strong>trekkers </strong>kunt toevoegen helpen uw onderzoek beperken.</td> 
+   <td colspan="1">Een extra voorwaarde die u kunt toevoegen aan de slimme lijst <strong>filters</strong>/<strong>triggers </strong>om je zoekopdracht te beperken.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Inhoud</strong></td> 
-   <td colspan="1">Informatie die wordt toegevoegd aan <strong>assets</strong>, zoals <strong>e-mails</strong> of <strong>landingspagina's</strong>. In <strong>betrokkenheidsprogramma's</strong> zijn er twee typen inhoud die u kunt <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#content" rel="nofollow">toevoegen aan streams</a>—e-mails en <strong>programma's</strong>.</td> 
+   <td colspan="1">Informatie die is toegevoegd aan <strong>elementen</strong>, zoals <strong>e-mail</strong> of <strong>landingspagina's</strong>. In <strong>betrokkenheidsprogramma's</strong>, er zijn twee typen inhoud die u kunt <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md#content" rel="nofollow">toevoegen aan streams</a>—e-mails en <strong>programma's</strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ContentAI</strong></td> 
-   <td colspan="1">(zie <strong><a href="#predictivecontent">Predictieve inhoud</a></strong>)</td> 
+   <td colspan="1">(zie <strong><a href="#predictivecontent">Voorspelende inhoud</a></strong>)</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Inhoud analyseren</strong></a></td> 
-   <td colspan="1">Een gebied van <strong>Web Personalization</strong> dat ontdekt bestaande inhoud van uw website, evenals inhoudsprestaties toont.</td> 
+   <td colspan="1">Een gebied van <strong>Webpersonalisatie</strong> die ontdekt bestaande inhoud van uw website, evenals inhoudsprestaties toont.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Niveau van betrokkenheid bij inhoud</strong></td> 
-   <td colspan="1">Een 0 tot 100-puntenscore die Marketo geeft aan uw inhoud in een <strong>betrokkenheidsprogramma</strong>. De score wordt bepaald door een geavanceerde formule die <strong>opent</strong>, <strong>click</strong>, <strong>unsubscribes</strong>, programmasucces, en meer.</td> 
+   <td colspan="1">Een score van 0 tot 100 punten die Marketo geeft aan uw inhoud in een <strong>betrokkenheidsprogramma</strong>. De score wordt bepaald door een geavanceerde formule die <strong>opent</strong>, <strong>klikken</strong>, <strong>afmelden</strong>, programmasucces en meer.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Cookie</strong></td> 
@@ -241,7 +241,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
     <div> 
      <p><strong> Database</strong></p> 
     </div></td> 
-   <td>Een van de kernsecties van <strong>Adobe Marketo Engage</strong>. De database bevindt zich thuis in al uw <strong>persoonrecords</strong>.</td> 
+   <td>Een van de kernsecties van <strong>Adobe Marketo Engage</strong>. De database is de thuisbasis van al uw <strong>persoon</strong> records.</td> 
   </tr> 
   <tr> 
    <td><strong>Dupliceren</strong></td> 
@@ -256,7 +256,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Leverbaarheid</strong></td> 
-   <td colspan="1">De mogelijkheid van een e-mailbericht om de beoogde inbox van de ontvanger te bereiken, die kan worden beïnvloed door <strong>spam</strong> en client-side filters. Anders dan "Geleverd", wat alleen aangeeft dat het e-mailbericht aan de ontvangende server is verzonden.</td> 
+   <td colspan="1">De mogelijkheid van een e-mailbericht om het beoogde postvak van de ontvanger te bereiken, wat kan worden beïnvloed door <strong>spam</strong> en clientfilters. Anders dan "Geleverd", wat alleen aangeeft dat het e-mailbericht aan de ontvangende server is verzonden.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Demand Generation</strong></td> 
@@ -268,23 +268,23 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Design Studio</strong></td> 
-   <td colspan="1">Een van de kernsecties van <strong>Adobe Marketo Engage</strong>. De Studio van het ontwerp is huis aan uw <strong>activa</strong>, zoals: <strong>pagina's</strong>, formulieren, <strong>e-mails</strong>, <strong>fragmenten</strong> en afbeeldingen/bestanden plaatsen.</td> 
+   <td colspan="1">Een van de kernsecties van <strong>Adobe Marketo Engage</strong>. De Studio van het ontwerp is huis aan uw <strong>elementen</strong>, zoals: <strong>landingspagina's</strong>, formulieren <strong>e-mail</strong>, <strong>fragmenten</strong>en afbeeldingen/bestanden.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Docs</strong></td> 
-   <td colspan="1">Documenten zijn, kort voor documenten, Help-artikelen voor klanten om het product beter te begrijpen. Marketo heeft verschillende typen documenten: Productdocumenten (de site waarop u momenteel werkt), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a>-docs, <a href="https://developers.marketo.com/" rel="nofollow">Developer</a>-docs en <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Support</a>-docs.</td> 
+   <td colspan="1">Documenten zijn, kort voor documenten, Help-artikelen voor klanten om het product beter te begrijpen. Marketo heeft verschillende typen documenten: Productdocumenten (de site waarop u momenteel werkt), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> documenten, <a href="https://developers.marketo.com/" rel="nofollow">Ontwikkelaar</a> documenten, en <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Ondersteuning</a> docs.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Domeingebaseerde Message Authentication, Reporting &amp; Conformance (DMARC)</strong></td> 
-   <td colspan="1">Een op DNS gebaseerd e-mailveiligheidsbeleid dat de verrichting en de interpretatie van <strong>SPF</strong> en <strong>DKIM</strong> gestandaardiseert, toestaand brievenbusleveranciers om die post te bevestigen die beweert om van een domein te zijn uit geldige bronnen voor dat domein voortkomt. Het staat verder afzenders toe om te specificeren hoe de post die bevestiging ontbreekt zou moeten worden behandeld.</td> 
+   <td colspan="1">Een op DNS gebaseerd e-mailveiligheidsbeleid dat de verrichting en de interpretatie van <strong>SPF</strong> en <strong>DKIM</strong>, die brievenbusleveranciers toestaat om die post te bevestigen die beweert om van een domein te zijn uit geldige bronnen voor dat domein voortkomt. Het staat verder afzenders toe om te specificeren hoe de post die bevestiging ontbreekt zou moeten worden behandeld.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Domeinsleutels Identified Mail</a>  (DKIM)</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Domeinsleutels e-mail geïdentificeerd</a> (DKIM)</strong></td> 
    <td colspan="1">Een mechanisme van de Authentificatie dat het verzendende domein beveiligt, toelatend afzenders om de domeinnaam in Van Adres met een specifiek e-mailbericht te associëren. Hierdoor kan de ontvanger weten dat de e-mail rechtmatig is verzonden door de eigenaar van het domein. Een afzender zal het e-mailbericht ondertekenen met een digitale handtekening in de berichtkoptekst. De ontvanger kan die handtekening decrypteren gebruikend een openbare sleutel die in DNS door de eigenaar van het domein wordt gepubliceerd om ervoor te zorgen de post wettig door de eigenaar van het domein werd verzonden.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Concept</strong></td> 
-   <td colspan="1"><p>Een <strong>e-mailadres</strong> of <strong>landingspagina</strong> die nog niet <strong>goedgekeurd</strong> is. Concepten kunnen pas openbaar worden gemaakt nadat ze zijn goedgekeurd. U kunt een concept verzenden als een test-e-mail (voorbeeld), maar er worden geen analyses opgenomen. <br></p></td> 
+   <td colspan="1"><p>An <strong>email</strong> of <strong>landingspagina</strong> die nog niet <strong>goedgekeurd</strong> toch. Concepten kunnen pas openbaar worden gemaakt nadat ze zijn goedgekeurd. U kunt een concept verzenden als een test-e-mail (voorbeeld), maar er worden geen analyses opgenomen. <br></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Drip Campaign</strong></td> 
@@ -292,11 +292,11 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" rel="nofollow"><strong>Duurzaam abonnement opzeggen</strong></a></td> 
-   <td colspan="1">Een master status voor afmelden die ervoor zorgt dat een <strong>unsubscribed</strong> persoon wordt verwijderd en opnieuw gemaakt, of dat een nieuwe record wordt gemaakt met een bestaand niet-geabonneerd e-mailadres, dat record niet-geabonneerd blijft.</td> 
+   <td colspan="1">Een master afmeldingsstatus die ervoor zorgt dat een <strong>geabonneerd</strong> de persoon wordt verwijderd en opnieuw gemaakt, of als een nieuwe record wordt gemaakt met een bestaand niet-geabonneerd e-mailadres, wordt het abonnement op die record opgeheven.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">Dynamische inhoud</a></strong></td> 
-   <td colspan="1">Inhoud (bijvoorbeeld afbeeldingen, fragmenten, tekst, enz.) die op basis van door u opgegeven criteria in een <strong>e-mail</strong> of <strong>landingspagina</strong> wordt ingevuld, zodat u de ervaring voor de lezer kunt aanpassen. </td> 
+   <td colspan="1">Inhoud (bijvoorbeeld afbeeldingen, fragmenten, tekst, enz.) die in een <strong>email</strong> of <strong>landingspagina</strong> op basis van criteria die u opgeeft, zodat u de ervaring voor de lezer kunt aanpassen. </td> 
   </tr> 
  </tbody> 
 </table>
@@ -311,22 +311,22 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td colspan="1"><strong>E-mail</strong></td> 
-   <td colspan="1">In Marketo is een van de <strong>assets</strong> beschikbaar voor communicatie met uw klanten. E-mails kunnen bestaan uit HTML (afbeeldingen, aangepast lettertype, enz.) of Alleen tekst (normale tekstberichten zonder speciale opmaak). Alleen HTML-e-mails kunnen "opent" opnemen.</td> 
+   <td colspan="1">In Marketo is een van de <strong>elementen</strong> beschikbaar voor gebruik om met uw klanten te communiceren. E-mails kunnen HTML (afbeeldingen, aangepast lettertype, enz.) of Alleen tekst (normale tekstberichten zonder speciale opmaak) zijn. Alleen HTML-e-mails kunnen "opent" opnemen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>E-mail ongeldig</strong></td> 
-   <td colspan="1">Een standaardveld in Marketo dat aangeeft of het e-mailadres van een persoon in uw <strong>database</strong> kan worden geleverd.</td> 
+   <td colspan="1">Een standaardveld in Marketo dat aangeeft of het e-mailadres van een persoon al dan niet in uw <strong>database</strong> is leverbaar.</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <p><a href="/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md" rel="nofollow"><strong> E-mailprogramma</strong></a></p> 
     </div></td> 
-   <td colspan="1">Een programmatype in Marketo. E-mailprogramma's worden gebruikt voor het verzenden van één e-mail. U kunt <strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B het testen</a></strong> gebruiken evenals uw e-mailresultaten volgen.<br></td> 
+   <td colspan="1">Een programmatype in Marketo. E-mailprogramma's worden gebruikt voor het verzenden van één e-mail. U kunt <strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" rel="nofollow">A/B-tests</a></strong> en traceer uw e-mailresultaten.<br></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#email-suspended" rel="nofollow"><strong>E-mail opgeschort</strong></a></td> 
-   <td colspan="1">Een status die een persoon verhindert e-mails te ontvangen gedurende 24 uur nadat een <strong>harde stuit</strong> voorkomt. Na 24 uur, wordt de persoon opnieuw mailbaar. </td> 
+   <td colspan="1">Een status die verhindert dat iemand 24 uur na een <strong>harde stoot</strong> voorkomt. Na 24 uur, wordt de persoon opnieuw mailbaar. </td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -337,14 +337,14 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md" rel="nofollow"><strong>Engagement Score</strong></a></td> 
-   <td>Score gebaseerd op een eigen algoritme dat rekening houdt met: betrokken gedrag (<strong>opent</strong>, <strong>klikt</strong>, programmasucces) en ontkoppeld gedrag (unsubscribes).</td> 
+   <td>Score gebaseerd op een eigen algoritme dat rekening houdt met: gedrag (<strong>opent</strong>, <strong>klikken</strong>, succes van programma) en ontkoppeld gedrag (afmelden).</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Gebeurtenis</a></strong></td> 
-   <td>Iets dat voorkomt zodat u met uw klanten en potentiële klanten kunt communiceren. Offlinegebeurtenissen bestaan gewoonlijk uit bijeenkomsten of presentaties, en online gebeurtenissen zijn gewoonlijk <strong>webinars</strong>.</td> 
+   <td>Iets dat voorkomt zodat u met uw klanten en potentiële klanten kunt communiceren. Offlinegebeurtenissen bestaan gewoonlijk uit bijeenkomsten of presentaties, en online gebeurtenissen zijn meestal <strong>webinars</strong>.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">Gebeurtenispartner</a></strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">Gebeurtenispartner</a></strong></td> 
    <td colspan="1">Een integratie van derden waarmee u online gebeurtenissen kunt automatiseren.</td> 
   </tr> 
   <tr> 
@@ -352,11 +352,11 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
     <div> 
      <p><strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md" rel="nofollow">Gebeurtenisprogramma</a></strong></p> 
     </div></td> 
-   <td colspan="1">Een programmatype in Marketo. Gebeurtenisprogramma's worden gebruikt om uw <strong>gebeurtenissen</strong>, zowel on- als offline, te automatiseren (bijvoorbeeld webinars, vergaderingen, winkels, enz.).  </td> 
+   <td colspan="1">Een programmatype in Marketo. Gebeurtenisprogramma's worden gebruikt om uw <strong>gebeurtenissen</strong>, zowel on- als offline (bijvoorbeeld webinars, vergaderingen, winkels, enz.).  </td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" rel="nofollow"><strong>Geëxhausd</strong></a></td> 
-   <td colspan="1">Wanneer een persoon alle inhoud in een betrokkenheidsstream heeft ontvangen. Personen die als uitgeput zijn gemarkeerd, blijven als zodanig aanwezig totdat er nog <strong>content</strong> wordt toegevoegd.</td> 
+   <td colspan="1">Wanneer een persoon alle inhoud in een betrokkenheidsstream heeft ontvangen. Personen die zijn gemarkeerd als uitgeput blijven als zodanig tot extra <strong>content</strong> wordt toegevoegd.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -375,15 +375,15 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md" rel="nofollow"><strong>Filter</strong></a></td> 
-   <td>Een hulpmiddel dat in <strong>slimme lijsten</strong> wordt gebruikt die u toestaat om uw publiek (b.v., iedereen in uw gegevensbestand te versmallen die in Californië woont). Filters kunnen zowel in <strong>Batch</strong> als <strong>Triggercampagnes</strong> worden gebruikt.</td> 
+   <td>Een gereedschap dat wordt gebruikt in <strong>slimme lijsten</strong> Hierdoor kunt u uw publiek beperken (bijvoorbeeld iedereen in uw database die in Californië woont). Filters kunnen in beide worden gebruikt <strong>Batch</strong> en <strong>Triggercampagnes</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>Stroom</strong></td> 
-   <td><p>Het gebied van een <strong>slimme campagne</strong> dat bepaalt wat met de mensen gebeurt u via de criteria hebt gekozen die in <strong>slimme lijst</strong> worden geplaatst. De stroom bestaat uit één of meerdere <strong>debietstappen</strong>.</p></td> 
+   <td><p>Het gebied van een <strong>slimme campagne</strong> dat bepaalt wat er gebeurt met de mensen die u hebt gekozen via de criteria die zijn ingesteld in het dialoogvenster <strong>slimme lijst</strong>. De stroom bestaat uit een of meer <strong>stroomstappen</strong>.</p></td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md" rel="nofollow">Stroom</a></strong></td> 
-   <td>Wordt ook wel flowactie genoemd: een handeling die plaatsvindt voor de persoon/personen die u hebt gekozen (als onderdeel van een <strong>slimme campagne</strong>, een enkele stroomactie van een <strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md" rel="nofollow">slimme lijst</a></strong> of een enkele stroomactie op één persoon).</td> 
+   <td>Wordt ook wel flowactie genoemd: een handeling die plaatsvindt voor de persoon of personen die u hebt gekozen (ofwel als onderdeel van een <strong>slimme campagne</strong>, één stroomactie uit een <strong><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md" rel="nofollow">slimme lijst</a></strong>, of één stroomactie op één persoon).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Openingspagina met vrije vorm</strong></td> 
@@ -406,7 +406,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td><strong>Algemene elementen</strong></td> 
-   <td>Elementen die zijn gemaakt in de <strong>Design Studio</strong> voor gebruik in <strong>programma's</strong> voor uw Marketo-instantie. </td> 
+   <td>Elementen die zijn gemaakt in het dialoogvenster <strong>Design Studio</strong> voor gebruik in <strong>programma's</strong> op uw Marketo-exemplaar. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Openingspagina met instructies</strong></td> 
@@ -440,7 +440,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Interessant moment</strong></a></td> 
-   <td><p>In <strong>Marketo Sales Insight</strong>, een gebeurtenis die u van bijzonder belang acht (bijvoorbeeld wanneer iemand een specifieke pagina op uw site bezoekt, op een bepaalde koppeling in een e-mail klikt, enz.) dat je op de hoogte wilt zijn van je verkoopteam.</p></td> 
+   <td><p>In <strong>Marketo Sales Insight</strong>, een gebeurtenis die u van bijzonder belang acht (bijvoorbeeld wanneer iemand een specifieke pagina op uw site bezoekt, klikt u op een bepaalde koppeling in een e-mail, enz.) dat je op de hoogte wilt zijn van je verkoopteam.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -455,7 +455,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Bekende persoon</strong></a></td> 
-   <td><p>Alle persoongegevens in de Marketo <strong>database</strong> worden beschouwd als bekende persoongegevens. Er zijn verschillende manieren waarop iemand uw database kan invoeren, zoals: CRM-synchronisatie, een formulier invullen, een lijst importeren/handmatig invoeren, programmatisch (rest-API/partnerintegratie) en meer. Webbezoekers worden in eerste instantie <strong>gekookt</strong> (en zijn anoniem) via de webtracering van Marketo <strong>Munchkin</strong> en worden vervolgens toegewezen aan de overeenkomstige bekende persoonrecord wanneer identificeerbare actie plaatsvindt (klik bijvoorbeeld op een bijgehouden koppeling in een Marketo-e-mail, vult een formulier in met hun e-mailadres of wordt handmatig toegewezen via de Marketo-API voor leads in beide &lt;a a4/&gt;Munchkin</a> en <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociatedLeadUsingPOST">Rest API</a><a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead"></a></p></td> 
+   <td><p>Alle gegevens van personen in de Marketo <strong>database</strong> wordt beschouwd als gegevens van bekende personen. Er zijn verschillende manieren waarop iemand uw database kan invoeren, zoals: CRM-synchronisatie, een formulier invullen, een lijst importeren/handmatig invoeren, programmatisch (rest-API/partnerintegratie) en meer. Webbezoekers zijn aanvankelijk <strong>gekookt</strong> (en zijn anoniem) via Marketo <strong>Munchkin</strong> webtracking en worden vervolgens toegewezen aan de corresponderende bekende persoonrecord wanneer identificeerbare actie plaatsvindt (klik bijvoorbeeld op een bijgehouden koppeling in een Marketo-e-mail, vult een formulier in met hun e-mailadres of wordt handmatig toegewezen via de Marketo-API voor leads in beide <a href="https://developers.marketo.com/javascript-api/lead-tracking/api-reference/#munchkin_associatelead">Munchkin</a> en <a href="https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/AssociatedLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -473,7 +473,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
     <div> 
      <p><strong>Openingspagina</strong></p> 
     </div></td> 
-   <td>Een door Marketo gehoste pagina waarmee u <strong>inhoud</strong> kunt weergeven en bezoekers kunt volgen. Er zijn twee verschillende typen: Vrije vorm en Met instructies. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Bij een landingspagina met vrije vorm kunt u </a> alle gewenste inhoud slepen en neerzetten, waar u ook wilt. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Geleide landingspagina'</a> s zijn strikter, met een vooraf gedefinieerde indeling/structuur die wordt bepaald door de  <strong>sjabloon</strong>.</td> 
+   <td>Een door Marketo gehoste pagina waarmee u de pagina kunt weergeven <strong>content</strong> en bezoekers volgen. Er zijn twee verschillende typen: Vrije vorm en Met instructies. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Landingspagina's in vrije vorm</a> kunt u de gewenste inhoud slepen en neerzetten, waar u ook wilt. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">Geleide openingspagina's</a> zijn strenger, met een vooraf gedefinieerde indeling/structuur die door de <strong>template</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="https://launchpoint.marketo.com/" rel="nofollow">LaunchPoint</a></strong></td> 
@@ -481,22 +481,22 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td><strong>Lood</strong></td> 
-   <td>In <strong>Adobe Marketo Engage</strong>, is lood de vorige termijn (vervangen door <strong>person</strong>) die wordt gebruikt om een individu in uw Marketo <strong>gegevensbestand</strong> te beschrijven dat u door uw marketing campagnes aangaat. In uw <strong>CRM</strong>, kan een lood een verschillend concept (d.w.z., een individu verbonden aan een <strong>opportunity</strong>) onafhankelijk van de functionaliteit van Marketo vertegenwoordigen.</td> 
+   <td>In <strong>Adobe Marketo Engage</strong>, lood is de vorige term (vervangen door <strong>persoon</strong>) gebruikt om een persoon in je Marketo te beschrijven <strong>database</strong> waarmee je bezig bent via je marketingcampagnes. In uw <strong>CRM</strong>, kan een lead een ander concept zijn (d.w.z. een persoon die geassocieerd is met een <strong>kans</strong>) onafhankelijk van de Marketo-functionaliteit.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Database lead</strong></td> 
-   <td colspan="1">Vorige naam voor Gegevensbestand (zie <a href="#d"><strong>Gegevensbestand</strong></a>).</td> 
+   <td colspan="1">Vorige naam voor database (zie <a href="#d"><strong>Database</strong></a>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
     <div> 
      <p><strong> Lijst</strong></p> 
     </div></td> 
-   <td colspan="1">Een verzameling mensen. In Marketo zijn er slimme lijsten en statische lijsten. Een <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">slimme lijst</a> is dynamische lijst van mensen die constant kunnen veranderen, aangezien het op filters wordt gebaseerd u bepaalt (b.v., iedereen in uw gegevensbestand die in Californië woont). Wanneer nieuwe personen in aanmerking komen voor de criteria (of bestaande personen niet langer in aanmerking komen) verandert de lijst. Een <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">statische lijst</a> is, goed, statisch. Deze wordt alleen gewijzigd als u handmatig iemand toevoegt/verwijdert.</td> 
+   <td colspan="1">Een verzameling mensen. In Marketo zijn er slimme lijsten en statische lijsten. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">slimme lijst</a> Dit is een dynamische lijst van mensen die constant kunnen veranderen, aangezien het gebaseerd is op filters u bepaalt (b.v., iedereen in uw gegevensbestand die in Californië woont). Wanneer nieuwe personen in aanmerking komen voor de criteria (of bestaande personen niet langer in aanmerking komen) verandert de lijst. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">statische lijst</a> is statisch. Deze wordt alleen gewijzigd als u handmatig iemand toevoegt/verwijdert.</td> 
   </tr> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Lokale elementen</strong></a></td> 
-   <td><strong></strong> Geïsoleerd binnen een specifiek  <strong>programma</strong>.</td> 
+   <td><strong>Activa</strong> gebruikt binnen een specifieke <strong>programma</strong>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -511,7 +511,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td><strong>Marketingactiviteiten</strong></td> 
-   <td><p>Een van de kernsecties van Adobe Marketo Engage. Dit is waar uw <strong>campagne</strong> organisatie voorkomt. Al uw <strong>programma's</strong>, campagnes, en <strong>campagnemappen</strong> (evenals hun <strong>lokale activa</strong>) leven hier.</p></td> 
+   <td><p>Een van de kernsecties van Adobe Marketo Engage. Dit is waar uw <strong>campagne</strong> orkestatie treedt op. Al uw <strong>programma's</strong>, campagnes, en <strong>campagnemappen</strong> en <strong>lokale middelen</strong>) woon hier.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://www.marketo.com/marketing-automation/" rel="nofollow"><strong>Marketingautomatisering</strong></a></td> 
@@ -523,7 +523,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>Marketing opgeschort</strong></a></td> 
-   <td colspan="1">Dit gebied wordt manueel geplaatst door <strong>gebruiker</strong> om iemand in hun <strong>gegevensbestand</strong> tijdelijk unmailable te maken.</td> 
+   <td colspan="1">Dit veld wordt handmatig ingesteld door de <strong>user</strong> om iemand in hun Marketo te maken <strong>database</strong> tijdelijk niet-mailbaar.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Lead Management (MLM)</strong></td> 
@@ -534,12 +534,12 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
    <td colspan="1">(zie <strong><a href="#p">Prestatie-inzichten</a></strong>)</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md" rel="nofollow">Marketo Sales Connect</a>  (MSC)</strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md" rel="nofollow">Marketo Sales Connect</a> (MSC)</strong></td> 
    <td>Een add-on, veelzijdig verkoophulpmiddel dat verkopers met vooruitzichten en spoorprestaties helpt in dienst te nemen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Marketo Sales Insight (MSI)</strong></td> 
-   <td colspan="1">Een add-onfunctie waarmee marketers hun verkopers marketinginzichten kunnen bieden op basis van hun <strong>CRM</strong>.</td> 
+   <td colspan="1">Een add-onfunctie waarmee marketers hun verkopers de mogelijkheid bieden om marketinginzichten van hun <strong>CRM</strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a></strong></td> 
@@ -559,7 +559,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" rel="nofollow"><strong>Mijn tokens</strong></a></td> 
-   <td colspan="1">Aangepaste variabelen die iedereen kan maken. Ze worden <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md" rel="nofollow">gemaakt</a> in <strong>campagnemappen</strong> of <strong>programma's</strong>.</td> 
+   <td colspan="1">Aangepaste variabelen die iedereen kan maken. Ze zijn <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md" rel="nofollow">gemaakt</a> hetzij <strong>campagnemappen</strong> of <strong>programma's</strong>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -574,7 +574,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td><strong>Benoemd account</strong></td> 
-   <td><p>In <strong>ABM</strong>, is een rekening die de gebruiker heeft bepaald een doelrekening die zij willen nastreven.</p></td> 
+   <td><p>In <strong>ABM</strong>, een account dat de gebruiker heeft bepaald, is een doelaccount dat hij of zij wil nastreven.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Nuratieprogramma</strong></td> 
@@ -593,15 +593,15 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td><strong>Openen</strong></td> 
-   <td><p>Een open register wanneer de beelden in <strong>e-mail</strong> worden gedownload. Zelfs als u geen afbeelding opneemt, voegt Marketo standaard één pixel toe in alle HTML-e-mails. E-mails met alleen tekst kunnen geen geopende bestanden registreren.</p></td> 
+   <td><p>Een open register wanneer afbeeldingen naar een <strong>email</strong>. Zelfs als u geen afbeelding opneemt, voegt Marketo standaard één pixel achter elkaar in alle HTML-e-mails in. E-mails met alleen tekst kunnen geen geopende bestanden registreren.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" rel="nofollow">Operationele e-mail</a></strong></td> 
-   <td colspan="1"> Een e-mail die <strong>Unsubscribed</strong> en <strong>Marketing Suspended</strong> status negeert. Middel voor kritieke of auto-reactie e-mails. Niet bedoeld voor marketing. Operationele e-mailberichten worden niet verzonden naar personen met de status <strong>Op de lijst met ongewenste personen staan</strong> of <strong>Ongeldig e-mailadres</strong>. <br></td> 
+   <td colspan="1"> Een e-mail die deze gegevens negeert <strong>Abonnement opgezegd</strong> en <strong>Marketing opgeschort</strong> status. Middel voor kritieke of auto-reactie e-mails. Niet bedoeld voor marketing. Operationele e-mails worden niet verzonden naar personen met <strong>Gevoegd op lijst van gewenste personen</strong> of <strong>E-mail ongeldig</strong> status. <br></td> 
   </tr> 
   <tr> 
    <td><strong>Kansen</strong></td> 
-   <td>Een opportuniteit kan worden gekoppeld aan een <strong>person</strong> of <strong>account</strong> als potentiële toekomstige verkoop. Doorgaans voeren ze Marketo in via een <strong>CRM</strong> of via <strong>API</strong>.</td> 
+   <td>Een mogelijkheid kan worden gekoppeld aan een <strong>persoon</strong> of <strong>account</strong> als mogelijke toekomstige verkoop. Meestal betreden ze Marketo via een <strong>CRM</strong>, of via <strong>API</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>Inschakelen</strong></td> 
@@ -609,7 +609,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td><strong>Uitschakelen</strong></td> 
-   <td>(zie <a href="#u"><strong>unsubscribe</strong></a>)</td> 
+   <td>(zie <a href="#u"><strong>afmelden</strong></a>)</td> 
   </tr> 
  </tbody> 
 </table>
@@ -624,11 +624,11 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md" rel="nofollow"><strong>Rapport over prestaties van mensen</strong></a></td> 
-   <td colspan="1">Een rapporttype in Marketo. Het staat u toe om de groei van uw <strong>gegevensbestand</strong> in tijd te meten.</td> 
+   <td colspan="1">Een rapporttype in Marketo. Hiermee kunt u de groei van uw <strong>database</strong> na verloop van tijd.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" rel="nofollow"><strong>Kosten periode</strong></a></td> 
-   <td colspan="1">Het geld dat u in een specifieke maand aan een <strong>programma</strong> uitgeeft.</td> 
+   <td colspan="1">Het geld dat u in een bepaalde maand besteedt aan een <strong>programma</strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
@@ -639,38 +639,38 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td><strong>Persoon</strong></td> 
-   <td>Een individu in uw Marketo <strong>database</strong> waarmee u bezig bent door marketingcampagnes.</td> 
+   <td>Een individu in je Marketo <strong>database</strong> dat je bezig bent met marketingcampagnes.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#person-partitions" rel="nofollow">Persoonspartitie</a></strong></td> 
-   <td colspan="1">Personverdelingen fungeren als aparte <strong>databases</strong>. Elke verdeling heeft zijn eigen mensen die niet ontdupe of mengen met andere verdelingen.</td> 
+   <td colspan="1">Persoonlijke partities fungeren als afzonderlijke partities <strong>databases</strong>. Elke verdeling heeft zijn eigen mensen die niet ontdupe of mengen met andere verdelingen.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
-   <td colspan="1">In Marketo <strong>Account-based Marketing</strong>, zijn de karakters een ondergroep van een publiek, die voor specifiekere het richten toestaat.</td> 
+   <td colspan="1">In Marketo <strong>Op account gebaseerde marketing</strong>, zijn de persona's een ondergroep van een publiek, die voor specifiekere het richten toestaat.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Pollen</strong></a></td> 
-   <td colspan="1">Een opiniepeiling in Marketo is net als een gewone opiniepeiling. Maak een onderwerp waar mensen op kunnen stemmen en dit kunnen delen op uw Marketo <strong>landingspagina's</strong>, uw website en/of sociale media.</td> 
+   <td colspan="1">Een opiniepeiling in Marketo is net als een gewone opiniepeiling. Een onderwerp maken waar mensen over kunnen stemmen en dit kunnen delen op uw Marketo <strong>landingspagina's</strong>, uw website en/of sociale media.</td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><strong>Voorspelende inhoud</strong></p> 
     </div></td> 
-   <td>(voorheen ContentAI genoemd) Een add-onfunctie waarmee Marketo-gebruikers webbezoekers en e-mailontvangers beter kunnen bereiken met de meest relevante <strong>content</strong>, waarbij aanbevelingen worden gebruikt die worden aangedreven door machinaal leren en voorspellende analyses.</td> 
+   <td>(voorheen ContentAI genoemd) Een add-onfunctie waarmee Marketo-gebruikers webbezoekers en e-mailontvangers beter kunnen bereiken met de meest relevante <strong>content</strong>, met behulp van aanbevelingen die voortkomen uit machinaal leren en voorspellende analyses.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">Programma</a></strong></td> 
-   <td colspan="1">Een container die alles bevat wat u nodig hebt om een marketinginitiatief uit te voeren. Er zijn vier verschillende typen: <strong>Gebeurtenisprogramma's</strong>, <strong>Betrokkenheidsprogramma's</strong>, <strong>E-mailprogramma's</strong> en <strong>Standaardprogramma's</strong>)</td> 
+   <td colspan="1">Een container die alles bevat wat u nodig hebt om een marketinginitiatief uit te voeren. Er zijn vier verschillende typen: <strong>Gebeurtenisprogramma's</strong>, <strong>Betrokkenheidsprogramma's</strong>, <strong>E-mailprogramma's</strong>, en <strong>Standaardprogramma's</strong>)</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Programmamaand</strong></td> 
-   <td colspan="1"> De maand verbonden aan <strong>punt kosten</strong> van een <strong>programma</strong>.</td> 
+   <td colspan="1"> De maand die aan de <strong>tijdsduur</strong> van <strong>programma</strong>.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md" rel="nofollow"><strong>Programmaprestatierapport</strong></a></td> 
-   <td colspan="1">Een rapporttype in Marketo. Zo kunt u zien hoe uw programma's werken. Filteren op <strong>tags</strong>, <strong>punt kosten</strong>, enz.</td> 
+   <td colspan="1">Een rapporttype in Marketo. Zo kunt u zien hoe uw programma's werken. Filteren op <strong>tags</strong>, <strong>tijdsduur</strong>, enz.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -685,7 +685,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md" rel="nofollow"><strong>Kwalificatieregels</strong></a></td> 
-   <td>Wanneer een persoon aan de vooraf bepaalde criteria in een <strong>slimme campagne</strong> voldoet, komen zij voor het in aanmerking. U kunt kwalificatieregels plaatsen om te bepalen hoe vaak zij door <strong>flow</strong> in genoemde slimme campagne kunnen lopen.</p></td> 
+   <td>Wanneer een persoon aan de vooraf bepaalde criteria in een <strong>slimme campagne</strong>, komen zij daarvoor in aanmerking. U kunt kwalificatieregels instellen om te bepalen hoe vaak ze door de <strong>stroom</strong> in die slimme campagne .</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -700,7 +700,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Reputatie</strong></td> 
-   <td colspan="1"><p>Een prestatiesscore in de loop der tijd, die uit diverse signalen en/of gegevenspunten bestaat. Reputatie kan worden gekoppeld aan het domein van een afzender, <strong>content</strong> of IP-adres en heeft invloed op <strong>leverbaarbaarheid</strong>.</p></td> 
+   <td colspan="1"><p>Een prestatiesscore in de loop der tijd, die uit diverse signalen en/of gegevenspunten bestaat. Reputation kan aan het domein van een afzender worden gebonden, <strong>content</strong>, of IP adres, en beïnvloedt <strong>leverbaarbaarheid</strong>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Padadres retourneren</strong></td> 
@@ -712,7 +712,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md" rel="nofollow"><strong>Opbrengstmodel</strong></a></td> 
-   <td colspan="1">Een hulpmiddel dat in <strong>Analytics van de Cyclus van de Inkomsten (RCA)</strong> wordt gebruikt die een reeks stadia gebruikt, die u toestaan om te volgen waar uw <strong>lood</strong> op om het even welk bepaald punt tijdens uw inspanning is om hen om te zetten.</td> 
+   <td colspan="1">Een gereedschap dat wordt gebruikt in <strong>Revenue Cycle Analytics (RCA)</strong> dat een reeks stadia gebruikt, die u toestaan om te volgen waar uw <strong>leiden</strong> is op om het even welk bepaald punt tijdens uw poging om hen om te zetten.</td> 
   </tr> 
   <tr> 
    <td><strong>Functie</strong></td> 
@@ -720,7 +720,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Rollenaccount</strong></td> 
-   <td colspan="1">Een e-mailadres dat bij een afdeling of functie hoort (bijv. beveiliging@, sysadmin@, enz.), niet bij een individuele persoon. Marketo blokkeert post van wordt verzonden naar <a href="https://nation.marketo.com/t5/Support-Blogs/Suppressing-addresses-to-protect-customers-amp-The-Network/ba-p/241295" rel="nofollow">specifieke rolrekeningen</a> die niet met een individuele abonnee kunnen worden geassocieerd.</td> 
+   <td colspan="1">Een e-mailadres dat bij een afdeling of functie hoort (bijv. beveiliging@, sysadmin@, enz.), niet bij een individuele persoon. Marketo blokkeert verzending van e-mail naar <a href="https://nation.marketo.com/t5/Support-Blogs/Suppressing-addresses-to-protect-customers-amp-The-Network/ba-p/241295" rel="nofollow">specifieke rollenaccounts</a> die niet met een individuele abonnee kunnen worden geassocieerd.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -739,23 +739,23 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md" rel="nofollow"><strong>Voorbeeld-e-mail</strong></a></td> 
-   <td colspan="1">Een test <strong>e-mail</strong> u naar zich (en/of anderen) verzendt om te zien hoe het kijkt alvorens het naar uw klanten te verzenden. U kunt steekproeven ook gebruiken om <strong>dynamische inhoud</strong> te testen.</td> 
+   <td colspan="1">Een test <strong>email</strong> u verzendt naar uzelf (en/of anderen) om te zien hoe het eruit ziet voordat u het naar uw klanten stuurt. U kunt monsters ook gebruiken om te testen <strong>dynamische inhoud</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" rel="nofollow">Segment</a></strong></td> 
-   <td>De categorieën binnen een segmentatie (zie <strong>Segmentatie</strong>).</td> 
+   <td>De categorieën binnen een segmentatie (zie <strong>Segmentering</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md#segmentation" rel="nofollow">Segmentatie</a></strong></td> 
-   <td colspan="1">De groepering van mensen in uw <strong>database</strong> die op een <strong>slimme lijst</strong> regel wordt gebaseerd u aanwijst. Bijvoorbeeld, kunt u een segmentatie hebben genoemd Industrie, en de categorieën binnen het kunnen zijn: Gezondheidszorg, Technologie, Financieel, enz. Met segmentatie kunt u hele groepen mensen op de markt brengen op basis van een gekozen demografie.</td> 
+   <td colspan="1">De groepering van mensen in uw <strong>database</strong> op basis van een <strong>slimme lijst</strong> regel die u aanwijst. Bijvoorbeeld, kunt u een segmentatie hebben genoemd Industrie, en de categorieën binnen het kunnen zijn: Gezondheidszorg, Technologie, Financieel, enz. Met segmentatie kunt u hele groepen mensen op de markt brengen op basis van een gekozen demografie.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Beleidskader</a>  voor afzender</strong></td> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" rel="nofollow">Beleidskader voor afzender</a> (SPF)</strong></td> 
    <td colspan="1"><p>Een verificatiemechanisme dat aangeeft welke e-mailservers e-mailberichten voor een bepaald domein mogen verzenden.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="https://docs.marketo.com/x/oA8t" rel="nofollow"><strong>Slimme campagne</strong></a></td> 
-   <td colspan="1">Een van de belangrijkste instrumenten in Marketo. Ze voeren handelingen uit die u aanwijst op basis van criteria die u bepaalt. (zie ook <strong><a href="#b">Batchcampagne</a></strong> en <strong><a href="#t">Triggercampagne</a></strong>)</td> 
+   <td colspan="1">Een van de belangrijkste instrumenten in Marketo. Ze voeren handelingen uit die u aanwijst op basis van criteria die u bepaalt. (zie ook <strong><a href="#b">Batchcampagne</a></strong> en <strong><a href="#t">Trigger-campagne</a></strong>)</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Slimme lijst</strong></td> 
@@ -763,7 +763,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" rel="nofollow">Fragment</a></strong></td> 
-   <td colspan="1">Een blok van <strong>content</strong> (tekst, afbeelding) dat vooraf kan worden gemaakt en snel kan worden ingevoegd in <strong>landingspagina's</strong>/<strong>e-mails</strong> om door te gaan.</td> 
+   <td colspan="1">Een blok van <strong>content</strong> (tekst, afbeelding) die vooraf kan worden gemaakt en snel kan worden ingevoegd in <strong>landingspagina's</strong>/<strong>e-mail</strong> in de toekomst.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Zacht stuiteren</strong></td> 
@@ -779,7 +779,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Spam-overvullingen</strong></td> 
-   <td colspan="1">E-mailadressen die ISPs en e-mailveiligheidsleveranciers specifiek controleren om spammers te vangen. Dit kunnen adressen omvatten die nooit worden gebruikt, typedomeinen en verlopen domeinen. De verschillende typen spamvallen kunnen wijzen op verschillende problemen met aanschaf uit kwesties met vormen (typo spamvallen), behoorlijk het handhaven van een gegevensbestand of het verwijderen van ongeldige adressen (verlopen domeinspamvallen) of het verwerven van adressen zonder toestemming vaak door lijsten (ongerepte spamvallen) te kopen. Om het even welke post die naar deze adressen wordt verzonden is duidelijk als <strong>spam</strong>.</td> 
+   <td colspan="1">E-mailadressen die ISPs en e-mailveiligheidsleveranciers specifiek controleren om spammers te vangen. Dit kunnen adressen omvatten die nooit worden gebruikt, typedomeinen en verlopen domeinen. De verschillende typen spamvallen kunnen wijzen op verschillende problemen met aanschaf uit kwesties met vormen (typo spamvallen), behoorlijk het handhaven van een gegevensbestand of het verwijderen van ongeldige adressen (verlopen domeinspamvallen) of het verwerven van adressen zonder toestemming vaak door lijsten (ongerepte spamvallen) te kopen. Alle post die naar deze adressen wordt verzonden, is gemarkeerd als <strong>spam</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>Gesplitste tests</strong></td> 
@@ -791,7 +791,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md" rel="nofollow">Stream</a></strong></td> 
-   <td colspan="1">Een verzameling geprioriteerde <strong>content</strong> die wordt gebruikt in een <strong>betrokkenheidsprogramma</strong> om mensen te voeden. <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" rel="nofollow">De </a> inhoud die in de orde wordt verdeeld u aanwijst.</td> 
+   <td colspan="1">Een verzameling met prioriteiten <strong>content</strong> die wordt gebruikt in een <strong>betrokkenheidsprogramma</strong> om mensen te voeden. <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" rel="nofollow">Inhoud</a> wordt verdeeld in de orde u aanwijst.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -806,11 +806,11 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Tags</a></strong></td> 
-   <td>Id's die worden gebruikt om <strong>programma's</strong> te beschrijven.</td> 
+   <td>Id's die worden gebruikt om te beschrijven <strong>programma's</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>Sjabloon</strong></td> 
-   <td>An <strong>email</strong> or <strong>landing page</strong> that is used as a starting point for creating additional email or landing pages.</td> 
+   <td>An <strong>email</strong> of <strong>landingspagina</strong> dat wordt gebruikt als beginpunt voor het maken van extra e-mails of bestemmingspagina's.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md" rel="nofollow">Token</a></strong></td> 
@@ -818,18 +818,18 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Boom</strong></td> 
-   <td colspan="1">De linkerkolom in Marketo die items in een hiërarchische structuur weergeeft. Hierin ziet u alles wat zich in uw Marketo-instantie bevindt (bijvoorbeeld <strong>werkruimten</strong>, <strong>programma's</strong>, <strong>lokale elementen</strong>, enz.).</td> 
+   <td colspan="1">De linkerkolom in Marketo die items in een hiërarchische structuur weergeeft. Alles wordt in je Marketo-instantie getoond (bijvoorbeeld <strong>werkruimten</strong>, <strong>programma's</strong>, <strong>lokale middelen</strong>, enz.).</td> 
   </tr> 
   <tr> 
    <td><strong>Trigger</strong></td> 
-   <td>Een activiteit of gebeurtenis die <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">stroomstappen van een trekkercampagne </a> activeert wanneer genoemde gebeurtenis voorkomt (bijvoorbeeld, bezoekt iemand een Web-pagina, klikt een verbinding in e-mail, enz.). </td> 
+   <td>Een activiteit of gebeurtenis die de <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md" rel="nofollow">stroomstappen van een triggercampagne</a> wanneer deze gebeurtenis zich voordoet (iemand bezoekt bijvoorbeeld een webpagina, klikt op een koppeling in een e-mail, enz.). </td> 
   </tr> 
   <tr> 
    <td> 
     <div> 
      <p><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-smart-campaign" rel="nofollow"><strong> Trigger-campagne</strong></a></p> 
     </div></td> 
-   <td>Een <strong>slimme campagne</strong> die minstens één trigger bevat.</td> 
+   <td>A <strong>slimme campagne</strong> die ten minste één trigger bevat.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -847,11 +847,11 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
     <div> 
      <p><strong> Abonnement opzeggen</strong></p> 
     </div></td> 
-   <td colspan="1">Wanneer een <strong>persoon</strong> ervoor kiest om geen marketing e-mails meer te ontvangen, een andere termijn voor opt-out.</td> 
+   <td colspan="1">Wanneer een <strong>persoon</strong> kiest ervoor geen e-mails meer te ontvangen, een andere termijn voor opt-out.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#unsubscribed" rel="nofollow">Niet geabonneerd</a></strong></td> 
-   <td>Een status die aangeeft dat de ontvanger ervoor heeft gekozen geen e-mails over marketing meer te ontvangen. Personen die zijn gemarkeerd als niet-geabonneerd, ontvangen mogelijk nog <strong>operationele e-mails</strong>.</td> 
+   <td>Een status die aangeeft dat de ontvanger ervoor heeft gekozen geen e-mails over marketing meer te ontvangen. Personen die zijn gemarkeerd als geabonneerd, kunnen nog steeds <strong>operationele e-mails</strong>.</td> 
   </tr> 
   <tr> 
    <td><strong>Gebruiker</strong></td> 
@@ -873,11 +873,11 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
     <div> 
      <p><strong> Webcampagne</strong></p> 
     </div></td> 
-   <td colspan="1">Een aangepaste reactie die aan een specifiek segment is gekoppeld. In <strong>Web Personalization</strong> omvatten webcampagnes <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Dialogs</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">In zones</a> en <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widgets</a></strong>.</td> 
+   <td colspan="1">Een aangepaste reactie die aan een specifiek segment is gekoppeld. In <strong>Webpersonalisatie</strong>, webcampagnes omvatten <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Dialoogvensters</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">In zones</a>, en <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widgets</a></strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">Rapport over activiteiten op webpagina</a></strong></td> 
-   <td>Een rapporttype in Marketo. Hiermee kunt u de bekende <i>of</i> anonieme personen zien die uw website bezoeken.</td> 
+   <td>Een rapporttype in Marketo. Hierdoor kunt u de bekende <i>of</i> anonieme personen die uw website bezoeken.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Webpersonalisatie</strong></td> 
@@ -885,7 +885,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr>
   <tr> 
    <td><strong>Webinar</strong></td> 
-   <td>Een webseminar. In Marketo kunnen webinars worden uitgevoerd via een aantal verschillende <strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/launchpoint-event-partners.md" rel="nofollow">gebeurtenispartners.</a></strong></td> 
+   <td>Een webseminar. In Marketo kunnen webinars worden uitgevoerd via een aantal verschillende <strong><a href="/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md" rel="nofollow">gebeurtenispartners.</a></strong></td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">Opnieuw plaatsen van website</a></strong></td> 
@@ -893,7 +893,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td><strong>Wat u ziet is wat u krijgt (WYSIWYG)</strong></td> 
-   <td>Een gemeenschappelijke term die naar een toepassing of een redacteur verwijst die u toestaat om het eindresultaat van uw <strong>inhoud</strong> te zien aangezien u het creeert. Marketo heeft een WYSIWYG-editor.</td> 
+   <td>Een algemene term die verwijst naar een toepassing of editor waarmee u het eindresultaat van uw <strong>content</strong> bij het maken. Marketo heeft een WYSIWYG-editor.</td> 
   </tr> 
   <tr> 
    <td><strong>Widget</strong></td> 
@@ -901,11 +901,11 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td><strong>Jokerteken</strong></td> 
-   <td>Een teken (*) wordt gebruikt in <strong>Web Personalization</strong>) dat voor of na een tekenreeks wordt gebruikt ter vervanging van andere tekens in een tekenreeks.</td> 
+   <td>Een teken (*) wordt gebruikt in <strong>Webpersonalisatie</strong>) die voor of na een tekenreeks wordt gebruikt ter vervanging van andere tekens in een tekenreeks.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Werkruimte</a></strong></td> 
-   <td>Een afzonderlijk gebied in Marketo dat marketing <strong>assets</strong> bevat. U kunt bijvoorbeeld een werkruimte hebben met de naam "Noord-Amerika" die u strikt gebruikt voor marketing naar die regio. Europa, Azië, enz.</td> 
+   <td>Een afzonderlijk gebied in Marketo dat marketing in de hand houdt <strong>elementen</strong>. U kunt bijvoorbeeld een werkruimte hebben met de naam "Noord-Amerika" die u strikt gebruikt voor marketing naar die regio. Europa, Azië, enz.</td> 
   </tr>  
  </tbody> 
 </table>
