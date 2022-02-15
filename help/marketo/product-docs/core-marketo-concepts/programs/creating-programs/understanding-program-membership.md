@@ -3,9 +3,9 @@ unique-page-id: 1147091
 description: Werken met het programmamandschap - Marketo Docs - Productdocumentatie
 title: Werken met het lidmaatschap van het programma
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
+source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
    1. De persoon krijgt automatisch de eerste status in de progressie.
 
 1. U gebruikt de [status van programma wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) stap Stroom.
-1. Een persoon registreert of woont een [webinar gesynchroniseerd met een gebeurtenisprogramma](/help/marketo/product-docs/demand-generation/events/events/event-partners.md).
+1. Een persoon registreert of woont een [webinar gesynchroniseerd met een gebeurtenisprogramma](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md).
 1. Een persoon is [gemaakt met de Marketo iPad check-in toepassing](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 1. Een persoon wordt toegevoegd aan een SFDC-campagne, die [gesynchroniseerd met het programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md).
 
