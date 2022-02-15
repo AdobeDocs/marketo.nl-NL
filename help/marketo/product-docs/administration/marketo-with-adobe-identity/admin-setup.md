@@ -4,9 +4,9 @@ title: Beheerdersinstellingen
 hide: true
 hidefromtoc: true
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Zodra u als Admin van het Systeem van de Adobe aan Marketo Engage in een Adobe w
 
 Nadat de systeembeheerder tot de Admin Console toegang heeft, is het tijd om een productprofiel tot stand te brengen. Zo krijgen uw gebruikers/beheerders toegang tot Marketo Engage.
 
-1. Klik onder Producten en Services op **Marketo Engage**.
+1. In de pagina van het Overzicht, onder Producten en de Diensten, klik **Marketo Engage**.
 
    ![](assets/admin-setup-3.png)
 

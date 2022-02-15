@@ -4,9 +4,9 @@ title: Een gebruiker toevoegen of verwijderen
 hide: true
 hidefromtoc: true
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 34860f7b0a94a142c3d29a225203a00c7fb3b79e
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-user-7.png)
 
+   >[!IMPORTANT]
+   >
+   >Een gebruiker **moet** worden toegevoegd aan een productprofiel om toegang tot Marketo Engage te krijgen.
+
 1. Klikken **Opslaan**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
-De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij Marketo.
+De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij Marketo Engage.
 
 >[!NOTE]
 >
@@ -79,7 +83,7 @@ De gebruiker ontvangt vervolgens een e-mail om zich aan te melden bij Marketo.
 
    ![](assets/add-or-remove-a-user-14.png)
 
-De gebruiker ontvangt vervolgens een e-mail met de kennisgeving dat hij of zij geen toegang meer heeft tot Marketo Engage via Productbeheerder.
+De gebruiker ontvangt vervolgens een e-mail met de kennisgeving dat hij of zij geen toegang meer heeft tot Marketo Engage.
 
 >[!MORELIKETHIS]
 >
