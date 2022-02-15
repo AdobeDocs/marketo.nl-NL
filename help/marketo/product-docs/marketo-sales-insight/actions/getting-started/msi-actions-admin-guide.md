@@ -4,9 +4,9 @@ title: Beheerdershandleiding voor MSI-handelingen
 hide: true
 hidefromtoc: true
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: e3d175d9f6131ec9798c4047ccf79858c254c745
+source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -110,15 +110,17 @@ Als u al bent aangemeld bij Salesforce, hebt u verbinding. Als dat niet het geva
 
 ## Gegevenssynchronisatie starten {#initiate-data-sync}
 
+De het gebiedssynchronisatie van de gegevenseenmaking voor de Acties van het Inzicht van de Verkoop laat het systeem toe om persooninformatie van uw gegevensbestand van de Marketo Engage in uw gegevensbestand van de Acties van het Inzicht van de Verkoop te trekken, die uw gegevens van uw mensen bijgewerkt houden en ervoor zorgen de activiteiten aan de juiste verslagen over Marketo en Salesforce worden geregistreerd.
+
 1. Klik in Marketo op **Beheer**.
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. Klik op Verkoopoverzicht.
+1. Klikken **Verkoopoverzicht**.
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. Klik op het tabblad Handelingen Config. Klik op de synchronisatiekaart van het veld Handeling op **Synchroniseren**.
+1. Klik op de knop **Handelingen configureren** tab. Klik op de synchronisatiekaart van het veld Handeling op **Synchroniseren**.
 
    ![](assets/msi-actions-admin-guide-12.png)
 
@@ -127,6 +129,10 @@ Als u al bent aangemeld bij Salesforce, hebt u verbinding. Als dat niet het geva
    ![](assets/msi-actions-admin-guide-13.png)
 
 Persoonlijke gegevens die in Marketo en Salesforce bestaan, worden gesynchroniseerd met je Marketo Sales Apps-account.
+
+>[!NOTE]
+>
+>Meer informatie over hoe mensen en activiteitengegevens tussen de Acties van het Inzicht van de Verkoop, Marketo, en Salesforce synchroniseren, [klik hier](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
 
 ## Individuele gebruikers uitnodigen voor MSI-handelingen {#invite-individual-users-to-msi-actions}
 
