@@ -4,9 +4,9 @@ title: Veelgestelde vragen over gegevenssynchronisatie voor handelingen
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8d19489d50213f81097307eded9f9d21c6537143
+source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
 workflow-type: tm+mt
-source-wordcount: '1033'
+source-wordcount: '1045'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ De leiders en de contacten die een verkoopeigenaar hebben aan hen wordt toegewez
 
 U kunt zien of heeft een lood/contact een verkoopeigenaar in Salesforce door het standaardeigenaargebied te bekijken dat bestaat.
 
-De eigenaar van de verkoop hoeft niet de synchronisatiegebruiker van Marketo of een specifieke Salesforce- of verkoopgebruiker te zijn. Zolang er een gebruiker op het standaard eigenaargebied wordt vermeld zullen wij het lood/de contact omvatten dat tot de Acties van de Verkoop moet worden gesynchroniseerd, evenals het in om het even welke updates van de gesynchroniseerde gebieden te omvatten die aan dat lood moeten worden gemaakt.
+De eigenaar van de verkoop hoeft niet de synchronisatiegebruiker van Marketo of een specifieke Salesforce- of verkoopgebruiker te zijn. Alles wat we nodig hebben, is dat er een gebruiker is die vermeld staat in het veld voor de eigenaar van de lead en de eigenaar van de contactpersoon in Salesforce, zodat we deze kunnen identificeren als verkooplead en synchroniseren met Handelingen voor het toezicht op de verkoop. Alle updates van de velden waarmee we synchroniseren, worden ook gedetecteerd en bijgewerkt in Handelingen voor Verkoopcontrole.
 
 ## Waar worden de activiteitsgegevens die in het Slimme Net van het Inzicht van de Verkoop worden getoond waar vandaan gehaald? {#where-does-the-activity-data-get-sourced-from}
 
