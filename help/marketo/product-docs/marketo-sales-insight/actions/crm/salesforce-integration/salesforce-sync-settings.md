@@ -4,9 +4,9 @@ title: Instellingen voor Salesforce Sync
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
@@ -19,9 +19,9 @@ Deze functionaliteit vereist dat u zich op de Enterprise/Unlimited editie van Sa
 
 >[!PREREQUISITES]
 >
->Salesforce en Marketo Sales moeten zijn verbonden.
+>Handelingen Salesforce en Sales Insight moeten zijn verbonden.
 
-1. Klik in Marketo Sales op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik in Handelingen in het venster Verkoopinzicht op het tandwielpictogram en selecteer **Instellingen**.
 
    ![](assets/salesforce-sync-settings-1.png)
 
@@ -47,7 +47,7 @@ Zodra u &quot;E-mail aan Salesforce (BCC)&quot;activeert, zult u een BCC van uw 
 
 >[!PREREQUISITES]
 >
->Salesforce en Marketo Sales moeten zijn verbonden.
+>Handelingen Salesforce en Sales Insight moeten zijn verbonden.
 
 **Je e-mails via e-mail (BCC) in Salesforce aanmelden**
 
@@ -93,9 +93,9 @@ Als Mijn e-mail naar Salesforce niet wordt weergegeven onder de instellingen, is
 1. Schakel het selectievakje naast Actief in.
 1. Klikken **Opslaan**.
 
-## De Taken van de Verkoop van Marketo/Herinneringen van de synchronisatie aan Taken Salesforce {#sync-marketo-sales-tasks-reminders-to-salesforce-tasks}
+## De Taken/Herinneringen van de Acties van het Inzicht van de Verkoop van de Synchronisatie aan Taken Salesforce {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. Klik in Marketo Sales op het tandwielpictogram en selecteer **Instellingen**.
+1. Klik in Handelingen in het venster Verkoopinzicht op het tandwielpictogram en selecteer **Instellingen**.
 
    ![](assets/salesforce-sync-settings-10.png)
 
