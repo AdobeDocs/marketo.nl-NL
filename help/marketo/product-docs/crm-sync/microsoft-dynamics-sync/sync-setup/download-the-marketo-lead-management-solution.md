@@ -3,8 +3,7 @@ unique-page-id: 6848922
 description: Download de Marketo Lead Management Solution - Marketo Docs - Productdocumentatie
 title: Download de Marketo Lead Management Solution
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 1379fcbdc0a8673b1d6cb17a9d573d3625d5a1b8
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -17,34 +16,34 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-U moet een Marketo-oplossing downloaden en installeren in uw Microsoft Dynamics-account om de synchronisatie te starten.
+U moet een Marketo Solution downloaden en installeren in uw Microsoft Dynamics-account om de synchronisatie te starten.
 
 >[!CAUTION]
 >
->U moet de nieuwste Marketo-oplossing _downloaden voordat_ een upgrade uitvoert.
+>U moet de nieuwste Marketo Solution absoluut downloaden _voor_ het uitvoeren van om het even welke verbetering.
 
 >[!NOTE]
 >
 >Marketo ondersteunt alleen SSL-certificaten die op dit moment compatibel zijn met Java 7.
 
-1. Ga naar **Admin** gebied.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/admin-1.png)
+   ![](assets/download-the-marketo-lead-management-solution-1.png)
 
-1. Klik op **CRM**.
+1. Klikken op **CRM**.
 
-   ![](assets/image2015-3-11-13-3a7-3a11.png)
+   ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. Selecteer **Microsoft**.
+1. Selecteren **Microsoft**.
 
-   ![](assets/image2015-3-11-13-3a9-3a7.png)
+   ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. Selecteer **Marketo-oplossing downloaden**.
+1. Selecteren **Marketo-oplossing downloaden**.
 
-   ![](assets/image2015-3-11-13-3a10-3a4.png)
+   ![](assets/download-the-marketo-lead-management-solution-4.png)
 
-1. Selecteer de aangewezen oplossing voor uw versie van de Dynamica van Microsoft.
+1. Selecteer de geschikte oplossing voor uw versie van Microsoft Dynamics.
 
-   ![](assets/msd-online-1.png)
+   ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-   Geweldig! Een ZIP-bestand van de oplossing wordt nu naar het apparaat gedownload.
+Geweldig! Een ZIP-bestand van de oplossing wordt nu naar het apparaat gedownload.
