@@ -3,9 +3,9 @@ unique-page-id: 7504739
 description: Marketo for Microsoft Dynamics 2015 op locatie installeren Stap 2 van 3 - Marketo Docs - Productdocumentatie
 title: Marketo for Microsoft Dynamics 2015 op locatie installeren Stap 2 van 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
-source-git-commit: 7b1f0d0d45bbfe3d8b781282e0a4ef1884a2bf40
+source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,13 @@ Wijs de Marketo Sync User rol alleen toe aan de Marketo sync-gebruiker. U hoeft 
 
    ![](assets/assign4.png)
 
-   Controleer Marketo Sync User en klik op OK.
+1. Controleer Marketo Sync User en klik op **OK**.
 
    ![](assets/assign5.png)
+
+   >[!IMPORTANT]
+   >
+   >De gebruiker van de Synchronisatie zou lees toestemming aan Marketo Config moeten hebben.
 
    >[!TIP]
    >
@@ -85,6 +89,10 @@ Bijna klaar! We hebben slechts een paar laatste stukken configuratie voordat we 
 1. Klikken **Alle aanpassingen publiceren**.
 
    ![](assets/publish-all-customizations1.png)
+
+   >[!NOTE]
+   >
+   >De gebruiker van de Synchronisatie zou lees toestemming aan Marketo Config moeten hebben.
 
 ## Voordat u verdergaat met stap 3 {#before-proceeding-to-step}
 
