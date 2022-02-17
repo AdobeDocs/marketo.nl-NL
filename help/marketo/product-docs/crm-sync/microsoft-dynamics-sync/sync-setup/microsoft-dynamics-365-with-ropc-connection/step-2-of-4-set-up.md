@@ -1,14 +1,15 @@
 ---
-description: Stap 2 van 3 - Opstelling de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel - Marketo Docs - de Documentatie van het Product
-title: Stap 2 van 3 - Opstelling de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel
-source-git-commit: 598390517dea96b0503fd9c0cdfd47bd7617b48a
+description: Stap 2 van 4 - Opstelling de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel - Marketo Docs - de Documentatie van het Product
+title: Stap 2 van 4 - Opstelling de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel
+exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
+source-git-commit: 19c568cdc3d31d07e42e99eb7e48f10a017b44f9
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
 
-# Stap 2 van 3: Stel de Marketo-oplossing in met de Wachtwoordbeheerverbinding van de Eigenaar van het Middel {#step-2-of-3-set-up-the-marketo-solution-ropc}
+# Stap 2 van 4: Stel de Marketo-oplossing in met de Wachtwoordbeheerverbinding van de Eigenaar van het Middel {#step-2-of-4-set-up-the-marketo-solution-ropc}
 
 Laten we beginnen met het maken van een gebruikersaccount.
 
@@ -45,6 +46,10 @@ Laten we beginnen met het maken van een gebruikersaccount.
 1. Er wordt een ander nieuw tabblad geopend. Klikken **Een gebruiker toevoegen**.
 
    ![](assets/seven.png)
+
+   >[!IMPORTANT]
+   >
+   >De gebruiker van de Synchronisatie zou lees toestemming aan Marketo Config moeten hebben.
 
 1. Voer al uw gegevens in. Als u klaar bent, klikt u op **Toevoegen**.
 
