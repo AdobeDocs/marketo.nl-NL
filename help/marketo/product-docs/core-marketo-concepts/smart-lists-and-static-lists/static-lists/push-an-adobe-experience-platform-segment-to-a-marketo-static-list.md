@@ -2,9 +2,9 @@
 description: Een Adobe Experience Platform-segment verplaatsen naar een statische Marketo-lijst - Marketo Docs - Productdocumentatie
 title: Een Adobe Experience Platform-segment naar een statische Marketo-lijst verplaatsen
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 05129f546cf2ba0df5c608485adf73c26d4b4f1e
+source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
 >[!PREREQUISITES]
 >
+>* [De API-rol bewerken](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role) om ervoor te zorgen dat de **Leesschrijfpersoon** toestemming (gevonden onder de drop-down van de Toegang API).
 >* [Een API-gebruiker maken](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) in Marketo.
 >* Ga naar **Beheer** > **Launchpoint**. Zoek de naam van de rol die u net hebt gemaakt en klik op **Details weergeven**. De gegevens kopiëren en opslaan in **Client-id** en **Clientgeheim**, aangezien u het voor Stap 7 kon nodig hebben.
 >* Maak in Marketo een statische lijst of zoek en selecteer een lijst die u al hebt gemaakt. Je hebt de id nodig.
@@ -36,7 +37,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    ![](assets/push-an-adobe-experience-platform-segment-4.png)
 
-1. De tegel Marketo Engage zoeken en klikken **Segmenten activeren**.
+1. De tegel Marketo Engage zoeken en klikken **Activeren**.
 
    ![](assets/push-an-adobe-experience-platform-segment-5.png)
 
@@ -79,7 +80,11 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    >[!NOTE]
    >
-   >Als u hier veelvoudige segmenten kiest, zult u elk segment aan een gespecificeerde statische lijst op het lusje van het Programma van het Segment moeten in kaart brengen.
+   >Als u veelvoudige segmenten kiest, zult u elk segment aan een gespecificeerde statische lijst op het lusje van het Programma van het Segment moeten in kaart brengen.
+
+   >[!IMPORTANT]
+   >
+   >Nadat een segment voor het eerst is geactiveerd naar de Marketo-bestemming, kunnen back-upprofielen die al bestonden in het segment vóór de Marketo-doelactivering worden gebruikt **tot 24 uur**. Als er tijdprofielen aan het segment worden toegevoegd, worden deze meteen aan Marketo toegevoegd.
 
 1. Klikken **Nieuwe toewijzing toevoegen**.
 
