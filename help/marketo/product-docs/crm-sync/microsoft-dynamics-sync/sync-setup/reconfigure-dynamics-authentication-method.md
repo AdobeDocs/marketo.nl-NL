@@ -3,19 +3,20 @@ description: Dynamische verificatiemethode opnieuw configureren - Marketo Docs -
 title: Dynamische verificatiemethode opnieuw configureren
 hide: true
 hidefromtoc: true
-source-git-commit: e651aa8eb79935f5c00594104c60818df9617fb6
+source-git-commit: 20624cec0d18f3df8f5f3dd3b7d2f93dfc1b1e6b
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-## Dynamische verificatiemethode opnieuw configureren {#reconfigure-dynamics-authentication-method}
+# Dynamische verificatiemethode opnieuw configureren {#reconfigure-dynamics-authentication-method}
 
-Intro
+Intro-tekst
 
 >[!PREREQUISITES]
 >
 >Stel de toepassing in Microsoft Dynamics en active directory (Azure AD/ADFS) in met de voorkeursverificatie uit de volgende artikelen:
 >* 1
 >* 2
+
