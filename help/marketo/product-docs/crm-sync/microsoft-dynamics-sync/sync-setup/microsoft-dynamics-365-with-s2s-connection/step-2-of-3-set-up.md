@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: Stap 2 van 3 - Opstelling de Oplossing van Marketo met Server aan de Verbinding van de Server - de Documenten van Marketo - de Documentatie van het Product
 title: Stap 2 van 3 - Opstelling de Oplossing van Marketo met Server aan de Verbinding van de Server
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,13 @@ ht-degree: 0%
 
 ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
-1. Voer stappen uit vanaf de volgende koppeling naar [een toepassingsgebruiker instellen in Microsoft](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation). Wijs tijdens het geven van machtigingen aan de Application User de gebruikersrol Marketo Sync toe.
+## Toepassingsgebruiker maken in Microsoft {#create-application-user-in-microsoft}
+
+1. Voer stappen uit vanaf de volgende koppeling naar [een toepassingsgebruiker instellen in Microsoft](https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/use-single-tenant-server-server-authentication#application-user-creation).
+
+   >[!IMPORTANT]
+   >
+   >Zorg ervoor dat u de gebruiker van de toepassing machtigingen geeft en dat u deze toewijst aan &quot;Marketo Sync User Role&quot;.
 
 ## Azure AD Federated met AD FS On-prem {#azure-ad-federated-with-ad-fs-on-prem}
 
@@ -52,37 +58,13 @@ Federated Azure AD to ADFS Onprem heeft de creatie nodig van een Home Realm Disc
 
 Aanvullende verwijzingen [hier te vinden](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&amp;text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.).
 
-## Gebruikersrol synchroniseren toewijzen {#assign-sync-user-role}
-
-1. Wijs de Marketo Sync User-rol alleen toe aan de Marketo sync-gebruiker.
-
->[!NOTE]
->
->Dit geldt voor Marketo versie 4.0.0.14 en hoger. Voor eerdere versies moeten alle gebruikers de gebruikersrol synchroniseren hebben. Om uw Marketo-oplossing te upgraden, [zie dit artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
-
-1. Ga terug naar het tabblad Toepassingsgebruikers en vernieuw de gebruikerslijst.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-5.png)
-
-1. Houd de muisaanwijzer boven de nieuwe toepassingsgebruiker en schakel het selectievakje in. Klik om het te selecteren.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-6.png)
-
-1. Klikken **Rollen beheren**.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-7.png)
-
-1. Controleren **Marketo Sync-gebruiker** en klik op **OK**.
-
-   ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-8.png)
-
 ## Marketo-oplossing configureren {#configure-marketo-solution}
 
 Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over de nieuwe gebruiker die is gemaakt.
 
 >[!IMPORTANT]
 >
->Als u een upgrade uitvoert van Basisverificatie naar OAuth, dient u contact op te nemen met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support) voor hulp bij het bijwerken van de aanvullende parameters. Als u deze functie inschakelt, wordt de synchronisatie tijdelijk gestopt totdat nieuwe referenties worden ingevoerd en de synchronisatie opnieuw wordt ingeschakeld. De functie kan worden uitgeschakeld (tot april 2022) als u wilt terugkeren naar de oude verificatiemodus.
+>Als u een upgrade uitvoert van Basisverificatie naar OAuth, dient u contact op te nemen met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support) voor hulp bij het bijwerken van de aanvullende parameters. Als u een configuratiewijziging doorvoert in Standaardsynchronisatie-gebruiker, wordt de synchronisatie tijdelijk gestopt totdat nieuwe referenties worden ingevoerd en de synchronisatie opnieuw wordt ingeschakeld. Op uw verzoek kan Marketo Support de functie uitschakelen (tot april 2022) als u wilt terugkeren naar de oude verificatiemethode.
 
 1. Ga terug naar het gedeelte Geavanceerde instellingen en klik op de knop ![](assets/image2015-5-13-15-3a49-3a19.png) pictogram naast Instellingen en selecteer **Marketo Config**.
 
@@ -124,4 +106,6 @@ Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over d
 
 >[!MORELIKETHIS]
 >
->[Stap 3 van 3: De Marketo-oplossing aansluiten op de serververbinding](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>* [Stap 3 van 3: De Marketo-oplossing aansluiten op de serververbinding](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
+>* [Dynamische verificatiemethode opnieuw configureren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
+
