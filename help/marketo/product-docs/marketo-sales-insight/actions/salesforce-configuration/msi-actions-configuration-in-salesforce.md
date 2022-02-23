@@ -4,9 +4,9 @@ title: Configuratie MSI-handelingen in Salesforce
 hide: true
 hidefromtoc: true
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 84e3c4d525c5bde9e3ebd17d2f29ad42578777ff
+source-git-commit: ea7a5892f121873483909ff7ad3067423710371a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Installeren]() of [Upgrade]() Het Pakket van het Inzicht van de verkoop in uw instantie van Salesforce installeer/upgrade aan de [MSI-handelingspakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) in uw Salesforce-exemplaar.
->* [Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt]()
+>* [Installeren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) of [Upgrade](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) Verkooppakket in uw Salesforce-exemplaar
+>* [Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 
 ## Nieuwe externe site toevoegen in Salesforce {#add-new-remote-site-in-salesforce}
