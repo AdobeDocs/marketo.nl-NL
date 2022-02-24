@@ -3,9 +3,9 @@ description: Prioriteit overschrijven voor triggercampagnes - Marketo Docs - Pro
 title: Prioriteit overschrijven voor triggercampagnes
 hide: true
 hidefromtoc: true
-source-git-commit: f2b6e0ae4759ed279d4c02ae922e9deba838b1ff
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Beheerders kunnen de door Marketo bepaalde prioriteit voor triggercampagnes over
 
 ## Toegang bij voorrang overschrijven van subsidie {#grant-priority-override-access}
 
->[!CAUTION]
+>[!NOTE]
 >
 >Alleen beheerders of gebruikers met beheerdersverantwoordelijkheden hebben voorrang op de toegang tot de campagne.
 

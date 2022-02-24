@@ -2,7 +2,7 @@
 description: Dynamische verificatiemethode opnieuw configureren - Marketo Docs - Productdocumentatie
 title: Dynamische verificatiemethode opnieuw configureren
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: d86a8699838158631f210ea2f7acdfb88061b649
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -64,8 +64,10 @@ Voer de onderstaande stappen uit om uw Dynamische verificatiemethode bij te werk
 
 1. Klikken **Bevestigen** opnieuw.
 
+   ![](assets/reconfigure-dynamics-authentication-method-8.png)
+
 1. Klikken **OK**.
 
    >[!IMPORTANT]
    >
-   >Vergeet niet de synchronisatie opnieuw in te schakelen!
+   >Het systeem neemt 15 minuten in beslag om de nieuwe verificatiemodus te accepteren. Wacht 15 minuten vanaf het tijdstip van de switch voordat u de synchronisatie opnieuw inschakelt.

@@ -3,7 +3,7 @@ unique-page-id: 10095429
 description: Problemen met validatie synchroniseren van dynamiek verhelpen - Marketo Docs - productdocumentatie
 title: Problemen met validatie synchroniseren van dynamiek verhelpen
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Als u een ![x](assets/delete.png) Controleer hier of uw gebruikersnaam en wachtw
 
 ## De gebruiker synchroniseren wordt toegewezen aan de Marketo Sync-gebruikersrol {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
-Als u een ![x](assets/delete.png) het zou hier een van de twee onderstaande redenen kunnen zijn .
+Als u een ![x](assets/delete.png) het zou hier een van de drie onderstaande kwesties kunnen zijn .
 
 **Optie één - controleer of de gebruikersrol van Marketo Sync is ingeschakeld in Microsoft Dynamics**:
 
@@ -75,6 +75,10 @@ Als u een ![x](assets/delete.png) het zou hier een van de twee onderstaande rede
 **Optie twee - Toestemming voor subsidie bevestigen**:
 
 1. Controleer de [Toestemming verlenen voor client-id en toepassingsregistratie](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md) om te bevestigen dat de app beheerderstoestemming heeft om API&#39;s aan te roepen.
+
+**Optie drie - Gebruiker synchroniseren**:
+
+1. Controleer of de synchronisatiegebruiker is toegevoegd aan Marketo Config.
 
 ## Marketo-oplossing is correct geïnstalleerd {#marketo-solution-is-properly-installed}
 
