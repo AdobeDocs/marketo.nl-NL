@@ -2,9 +2,9 @@
 description: Dynamische verificatiemethode opnieuw configureren - Marketo Docs - Productdocumentatie
 title: Dynamische verificatiemethode opnieuw configureren
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
+source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,7 @@ Voer de onderstaande stappen uit om uw Dynamische verificatiemethode bij te werk
 >[!PREREQUISITES]
 >
 >Stel de toepassing in Microsoft Dynamics en active directory (Azure AD/ADFS) in met de gewenste verificatiemethode in een van de volgende artikelen:
+>
 >* [Stap 2 van 3: Marketo-oplossing instellen met Server naar Server-verbinding](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 >* [Stap 2 van 4: Stel de Marketo-oplossing in met de Wachtwoordbeheerverbinding van de Eigenaar van het Middel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
 
