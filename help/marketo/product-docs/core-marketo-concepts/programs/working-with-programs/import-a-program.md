@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Een programma importeren - Marketo Docs - Productdocumentatie
 title: Een programma importeren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: cb14f5c16164eb2167a13d493cd48ed0fec263a9
+source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,8 @@ De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, landende pa
 
 **Sjablonen voor e-mail- en landingspagina:** De sjablonen voor e-mail- en landingspagina worden geïmporteerd in de Design Studio. U kunt collisieregels gebruiken om gedrag te vormen wanneer een malplaatje met de zelfde naam bestaat. Met de standaardregel wordt een getal toegevoegd aan een sjabloon als er een bestaat met dezelfde naam. Als u bijvoorbeeld al een sjabloon hebt met de naam &quot;Standaardsjabloon&quot;, krijgt de nieuwe sjabloon de naam &quot;Standaardsjabloon 1&quot;.
 
+**Openingspagina&#39;s/Forms:** Als een formulier of landingspagina met dezelfde naam bestaat in Design Studio, worden deze nog steeds geïmporteerd, maar wordt er een nummer aan de naam toegevoegd (bijvoorbeeld: Openingspagina 1).
+
 **Afbeeldingen:** Afbeeldingen die door bestemmingspagina&#39;s worden gebruikt, worden in de ontwerpstudio geïmporteerd, tenzij er een met dezelfde naam bestaat.
 
 **Tokens:** Tokens die buiten een programma leven, worden tijdens het importeren omgezet in lokale tokens.
@@ -96,8 +98,6 @@ De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, landende pa
 >Afbeeldingstype mijn tokens worden niet ondersteund voor het importeren van programma&#39;s. Als een programma met afbeeldingstype mijn tokens wordt geïmporteerd, **nee** tokens zullen doorkomen .
 
 **Programmatags:** U kunt collisieregels gebruiken om te controleren hoe de programmamarkeringen die niet in de bestemmingsrekening bestaan zullen worden behandeld. Als u de standaardregel gebruikt, worden de programmacodes gemaakt of kunt u de codes negeren.
-
-**Forms:** Externe formulieren worden automatisch in de ontwerpstudio geïmporteerd, tenzij er een formulier met dezelfde naam bestaat.
 
 >[!CAUTION]
 >
