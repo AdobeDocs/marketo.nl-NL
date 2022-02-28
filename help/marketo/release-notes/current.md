@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '784'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ De volgende functies worden vrijgegeven op **11 maart 2022**, met een gefaseerde
 
 * **Update voor programmaworkflow importeren**: De workflow voor het importprogramma wordt geleverd in de volgende generatie ervaring met een bijgewerkt ontwerp en verbeterde bruikbaarheid. Dit zal een automatische verandering zonder een knevelschakelaar zijn.
 
-* **Beheerderscontrole voor de schakelaar van de Ervaring van de volgende generatie**: Beheer de implementatie van de volgende generatie op een manier die geschikt is voor uw gebruikers en waarbij beheerders kunnen selecteren welke gebruikerstypen toegang kunnen krijgen tot de schakeloptie.
+* **Beheerderscontrole voor de schakelaar van de Ervaring van de Volgende generatie**: Beheer de implementatie van de volgende generatie op een manier die geschikt is voor uw gebruikers en waarbij beheerders kunnen selecteren welke gebruikerstypen toegang kunnen krijgen tot de schakeloptie.
 
 ## Experience Automation {#experience-automation}
 
@@ -64,6 +64,12 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 ![(ster)](assets/yellow-star.png)
 
 * **BI-sjablonen**: Bizible biedt nu downloadbare, basisrapporteringsartefacten en voorbeeldrapporten voor Tableau en Power BI, zodat u snel aangepaste rapporten kunt ontwikkelen die zijn afgestemd op uw specifieke bedrijfsbehoeften.
+
+## Verkoop Connect {#sales-connect}
+
+![(ster)](assets/yellow-star.png)
+
+* **E-mailverbindingsrotatie (GA)**: Met e-mailverbindingsthrottling kunnen beheerders van Sales Connect de verzendsnelheid van e-mailberichten configureren wanneer ze Gmail of Exchange als leveringskanaal gebruiken, zodat de snelheid waarmee e-mails worden doorgegeven aan de leverancier van het leveringskanaal de afgedwongen limieten niet overschrijdt.
 
 ## Aankondigingen {#announcements}
 
