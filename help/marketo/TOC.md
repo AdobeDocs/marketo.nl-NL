@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+source-git-commit: 9cbf22e3cecd707641a87482b95eb3d43d3a8f78
 workflow-type: tm+mt
-source-wordcount: '8320'
+source-wordcount: '8334'
 ht-degree: 0%
 
 ---
@@ -334,7 +334,7 @@ ht-degree: 0%
             + [Een lijst of slimme lijst klonen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/clone-a-list-or-smart-list.md)
             + [Weergaven voor lijsten en slimme lijsten maken en wijzigen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)
             + [Overgenomen filters](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/inferred-filters.md)
-            + [Opportuniteitsfilters en -triggers](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/opportunity-filters-and-triggers.md)
+            + [Opportunity Filters and Triggers](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/opportunity-filters-and-triggers.md)
             + [Verwijzen naar een lijst of slimme lijst in werkruimten](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
             + [Lijst of slimme lijst vernieuwen](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.md)
             + [Eén stroomstap uitvoeren vanuit een slimme lijst](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
@@ -1209,8 +1209,8 @@ ht-degree: 0%
          + [Overzicht van verkooptelefonie](product-docs/marketo-sales-connect/phone/sales-phone-overview.md)
          + [De Opnamen van de Vraag van het aandeel met Uw Team](product-docs/marketo-sales-connect/phone/share-call-recordings-with-your-team.md)
          + [Instellingen voor tweeledige toestemming](product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)
-      + Taken {#tasks}
-         + [Herinneringstaken maken en toewijzen](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
+      + Tasks {#tasks}
+         + [Create and Assign Reminder Tasks](product-docs/marketo-sales-connect/tasks/create-and-assign-reminder-tasks.md)
          + [Herinnering taaksynchronisatie met Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [De Taken van de Verbinding van de Verkoop met Salesforce voor de eerste keer synchroniseren](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Sjablonen {#templates}
@@ -1295,6 +1295,10 @@ ht-degree: 0%
          + Mensen {#people}
             + [Persoonsgegevens weergeven](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Handelingen voor het toezicht op de verkoop en naleving van GDPR](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
+               + Contacten beheren {#managing-contacts}
+                  + [Bulkacties op personen](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
+                  + [Contactpersonen maken en verwijderen](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
+                  + [Contacten importeren via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
          + Salesforce-configuratie {#salesforce-configuration}
             + [Configuratie MSI-handelingen in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Salesforce Classic-aanpassingspakket verwijderen](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1445,12 +1449,12 @@ ht-degree: 0%
          + [Een mobiel pushbericht verzenden](product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
          + [Een voorbeeld voor pushberichten verzenden](product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
          + [Pushberichten](product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
-         + [Het dashboard voor pushmeldingen weergeven](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
-      + SMS-berichten van Vibes {#vibes-sms-messages}
+         + [View the Push Notification Dashboard](product-docs/mobile-marketing/push-notifications/view-the-push-notification-dashboard.md)
+      + Vibes SMS Messages {#vibes-sms-messages}
          + [Een SMS-bericht voor Vibes maken](product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md)
-         + [Voeg een Stap van de Stroom voor SMS toe](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
-         + [Het SMS-berichtendashboard](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
-         + [SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
+         + [Add a Flow Step for SMS](product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)
+         + [The SMS Message Dashboard](product-docs/mobile-marketing/vibes-sms-messages/the-sms-message-dashboard.md)
+         + [Use Vibes SMS Messages in Smart List Triggers and Filters](product-docs/mobile-marketing/vibes-sms-messages/use-vibes-sms-messages-in-smart-list-triggers-and-filters.md)
    + Personalisatie {#personalization}
       + Segmentatie en fragmenten {#segmentation-and-snippets}
          + Segmentatie {#segmentation}
