@@ -2,7 +2,7 @@
 description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Bestaande Marketo-abonnementen worden later dit jaar naar het Adobe Identity Man
 >
 >Marketo Support kan geen updates voor Adobe IMS-migratie leveren. Uw manager van het Succes van de Klant zal met de geschatte chronologie in de komende maanden bereiken.
 
-## Profielniveaus
+## Profielniveaus {#profile-levels}
 
 Adobe Marketo Engage-abonnementen die op het Adobe-systeem zijn aangesloten, ondersteunen verschillende profielen. Hier volgen de typen gebruikersprofielen die relevant zijn voor deze integratie.
 
@@ -42,7 +42,7 @@ Adobe Marketo Engage-abonnementen die op het Adobe-systeem zijn aangesloten, ond
  </tr>
 </table>
 
-## Veelgestelde vragen
+## Veelgestelde vragen {#faq}
 
 **Wat is Adobe Identity?**
 
