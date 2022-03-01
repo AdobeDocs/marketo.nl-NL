@@ -3,7 +3,7 @@ unique-page-id: 3571827
 description: Stap 2 van 3 - Opstelling de Oplossing van Marketo met Server aan de Verbinding van de Server - de Documenten van Marketo - de Documentatie van het Product
 title: Stap 2 van 3 - Opstelling de Oplossing van Marketo met Server aan de Verbinding van de Server
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -50,7 +50,9 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >Zorg ervoor dat u de gebruiker van de toepassing machtigingen geeft en dat u deze toewijst aan &quot;Marketo Sync User Role&quot;.
+   >* Zorg ervoor dat u de gebruiker van de toepassing machtigingen geeft en dat u deze toewijst aan &quot;Marketo Sync User Role&quot;.
+   >* Neem nota van het e-mailadres van de Gebruiker van de Toepassing van [de optie Details weergeven](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) on Power Platform. Dit e-mailadres wordt gebruikt als gebruikersnaam bij het instellen van de verbinding met MS Dynamics in Marketo.
+
 
 ## Azure AD Federated met AD FS On-prem {#azure-ad-federated-with-ad-fs-on-prem}
 

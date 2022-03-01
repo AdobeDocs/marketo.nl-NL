@@ -3,7 +3,7 @@ unique-page-id: 10095429
 description: Problemen met validatie synchroniseren van dynamiek verhelpen - Marketo Docs - productdocumentatie
 title: Problemen met validatie synchroniseren van dynamiek verhelpen
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
-source-git-commit: 8d401eeba46dc1b21983ea03c8ecd823046a5479
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Als u een ![x](assets/delete.png) Controleer hier of de URL geldig is. Vind het 
 
 ## Gebruikersnaam en wachtwoord zijn geldig {#username-and-password-are-valid}
 
-Als u een ![x](assets/delete.png) Controleer hier of uw gebruikersnaam en wachtwoord voor Microsoft Dynamics geldig zijn.
+Als u een ![x](assets/delete.png) Controleer hier of de gegevens voor Microsoft Dynamics geldig zijn. Voor S2S-verificatie voor de web-API moet de gebruikersnaam in Marketo overeenkomen met de [e-mailadres](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) van de Application User in the CRM. Voor andere typen moet deze overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker.
 
 ## De gebruiker synchroniseren wordt toegewezen aan de Marketo Sync-gebruikersrol {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 

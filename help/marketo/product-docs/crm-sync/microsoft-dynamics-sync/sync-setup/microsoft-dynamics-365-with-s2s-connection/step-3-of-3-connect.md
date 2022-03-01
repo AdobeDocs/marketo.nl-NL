@@ -3,9 +3,9 @@ unique-page-id: 3571830
 description: Stap 3 van 3 - Verbind de Oplossing van Marketo met Server aan de Verbinding van de Server - de Documenten van Marketo - de Documentatie van het Product
 title: Stap 3 van 3 - Verbind de Oplossing van Marketo met de Verbinding van de Server aan
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 
    >[!NOTE]
    >
-   >De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan `user@domain.com` of DOMAIN\user.
+   >De gebruikersnaam in Marketo moet overeenkomen met de [e-mailadres](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) van de Application User in the CRM. De indeling kan `user@domain.com` of DOMAIN\user.
 
 ## Te synchroniseren velden selecteren {#select-fields-to-sync}
 
