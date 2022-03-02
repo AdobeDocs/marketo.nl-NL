@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Marketo Sales Insight in Salesforce Enterprise/Unlimited - Marketo Docs - Productdocumentatie configureren
 title: Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 84ac037a041398bdb1a056c3ab2fcf0d516f0097
+source-git-commit: 6ef1ff6f417cc3118e0c573896e1d232a5b97e70
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,7 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
 
 >[!PREREQUISITES]
 >
->* [Marketo Sales Insight Package installeren in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
-
+>[Marketo Sales Insight Package installeren in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -119,34 +118,52 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
    >
    >We raden een hoogte van 410 pixels aan voor de objecten Accounts en Opportunity.
 
-1. Klikken op **Velden** links. Zoek en sleep vervolgens het gereedschap **Betrokkenheid** in de **Marketo Sales Insight** layout.
+1. Klikken op **Velden** links. Zoek en sleep vervolgens het gereedschap **Urgentie** in de **Marketo Sales Insight** layout.
 
-   ![](assets/image2015-5-22-16-3a32-3a46.png)
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
 1. Herhaal de bovenstaande stap ook voor deze velden.
 
    <table> 
     <tbody> 
      <tr> 
-      <td colspan="1">Betrokkenheid</td> 
+      <td>Laatste interessant moment</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Relatieve score</p></td> 
+      <td>Datum laatste interessant moment</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Urgentiewaarde</p></td> 
+      <td>Laatste interessante momentele beschrijving</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Datum laatste interessant moment</p></td> 
+      <td>Laatste interessante mompbron</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Laatste interessante momentele beschrijving</p></td> 
+      <td>Type laatst interessant moment</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Laatste interessante mompbron</p></td> 
+      <td>Laatste Marketo-activiteit door verkoop</td> 
      </tr> 
      <tr> 
-      <td colspan="1" rowspan="1"><p>Type laatst interessant moment</p></td> 
+      <td>Laatste Marketo-betrokkenheid bij verkoop</td> 
+     </tr> 
+     <tr> 
+      <td>MSI-contact-id</td> 
+     </tr> 
+     <tr> 
+      <td>Relatieve score</td> 
+     </tr> 
+     <tr> 
+      <td>Relatieve score</td> 
+     </tr> 
+     <tr> 
+      <td>Urgentie</td> 
+     </tr> 
+     <tr> 
+      <td>Urgentiewaarde</td> 
+     </tr> 
+     <tr> 
+      <td>Weergeven in Marketo</td> 
      </tr> 
     </tbody> 
    </table>
@@ -155,9 +172,53 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. Herhaal dit proces om secties van de Visualforce-pagina en velden van het Inzicht van de Verkoop toe te voegen voor **Contact**, **Account** en **Opportunity**.
+1. Herhaal stap 5-7 om Visualforce paginagedeelten en de gebieden van het Inzicht van de Verkoop voor toe te voegen **Contact**, **Account** en **Opportunity**.
 
-1. Herhaal stap 5-7 om Visualforce-paginagedeelten toe te voegen voor Contactpersoon, Account en Opportunity. Herhaal dan stap 8-10 om de gebieden van het Inzicht van de Verkoop voor toe te voegen **Contact**. Sla het bestand op nadat u wijzigingen hebt aangebracht.
+1. Herhaal stap 8-10 om de gebieden van het Inzicht van de Verkoop van de lijst hieronder toe te voegen voor **Contact**. Sla eventuele wijzigingen op.
+
+<table> 
+    <tbody> 
+     <tr> 
+      <td>Laatste interessant moment</td> 
+     </tr> 
+     <tr> 
+      <td>Datum laatste interessant moment</td> 
+     </tr> 
+     <tr> 
+      <td>Laatste interessante momentele beschrijving</td> 
+     </tr> 
+     <tr> 
+      <td>Laatste interessante mompbron</td> 
+     </tr> 
+     <tr> 
+      <td>Type laatst interessant moment</td> 
+     </tr> 
+     <tr> 
+      <td>Laatste Marketo-activiteit door verkoop</td> 
+     </tr> 
+     <tr> 
+      <td>Laatste Marketo-betrokkenheid bij verkoop</td> 
+     </tr> 
+     <tr> 
+      <td>MKTO-score voor lead</td> 
+     </tr> 
+     <tr> 
+      <td>Relatieve score</td> 
+     </tr> 
+     <tr> 
+      <td>Relatieve score</td> 
+     </tr> 
+     <tr> 
+      <td>Verkoopinzicht - Opent contact met volledige lijstpagina</td> 
+     </tr> 
+     <tr> 
+      <td>Urgentie</td> 
+     </tr> 
+     <tr> 
+      <td>Urgentiewaarde</td> 
+     </tr> 
+    </tbody> 
+   </table>
 
 ## Aangepaste persoonlijke velden toewijzen {#map-custom-person-fields}
 
