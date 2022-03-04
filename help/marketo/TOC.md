@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 9a4dcb4a307928887000ce199b061d3e01192719
+source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
 workflow-type: tm+mt
-source-wordcount: '8334'
+source-wordcount: '8382'
 ht-degree: 0%
 
 ---
@@ -1229,7 +1229,7 @@ ht-degree: 0%
          + [Gedeelde sjablonen](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [Sjabloonbetrokkenheid](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [HTML gebruiken](product-docs/marketo-sales-connect/templates/using-html.md)
-         + [Sjabloonlijst weergeven als een andere gebruiker](product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md)
+         + [Sjabloonlijst weergeven als een andere gebruiker](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
          + Dynamische velden {#dynamic-fields}
             + [Aangepaste dynamische velden maken](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [Woordenlijst Dynamische velden](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
@@ -1260,6 +1260,8 @@ ht-degree: 0%
             + [Aanmeldingsbeheerinstellingen](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Instellingen voor delen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Toegangsgegevens gebruiker](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
+         + Analyse {#analytics}
+            + [Sjabloonbetrokkenheid](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campagnes {#campaigns}
             + [Campagne is beëindigd](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
@@ -1290,6 +1292,11 @@ ht-degree: 0%
                + [Bulke-mails samenstellen met Selecteren en Verzenden](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [E-mailberichten verzenden via e-mail voor groep](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Een sjabloon gebruiken in het venster Samenstellen](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + Veelgestelde vragen {#faq}
+            + [Kan ik meerdere ontvangers bijhouden met CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [Hoe voorkom ik zelfweergaven?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
+            + [Hoe werkt het bijhouden van locaties?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
+            + [Hoe verwerken de Handelingen van het Inzicht van de Verkoop E-mail het-Dupliceren?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
          + Marketo {#marketo}
             + [Marketo-toegang verlenen aan gebruikers](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
          + Mensen {#people}
@@ -1299,6 +1306,8 @@ ht-degree: 0%
                + [Bulkacties op personen](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [Contactpersonen maken en verwijderen](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
                + [Contacten importeren via CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
+               + [Groepen beheren](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
+               + [Kolommen met personenpagina&#39;s](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Salesforce-configuratie {#salesforce-configuration}
             + [Configuratie MSI-handelingen in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
             + [Salesforce Classic-aanpassingspakket verwijderen](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
@@ -1308,8 +1317,12 @@ ht-degree: 0%
          + Taken {#tasks}
             + [Herinnering taaksynchronisatie met Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Sjablonen {#templates}
+            + [Hyperlinktekst toevoegen](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
             + [Sjablonen beheren](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Sjablooncategorieën beheren](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
+            + [Aanbevolen sjablonen](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
+            + [HTML gebruiken](product-docs/marketo-sales-insight/actions/templates/using-html.md)
+            + [Sjabloonlijst weergeven als een andere gebruiker](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
       + MSI gebruiken {#using-msi}
          + [Inkomende e-mail van uw leads aanmelden in Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome-insteekmodule {#msi-chrome-plugin}

@@ -2,51 +2,50 @@
 unique-page-id: 1147352
 description: Een voorbeeld-e-mail verzenden - Marketo Docs - Productdocumentatie
 title: Een e-mailvoorbeeld verzenden
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
+source-git-commit: 1586b71ec9f9c4f8abc4fd9a3277d5a5f5b88080
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
 
+# Een e-mailvoorbeeld verzenden {#send-a-sample-email}
 
-# Een voorbeeld-e-mail verzenden {#send-a-sample-email}
-
-Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een e-mail met dynamische inhoud voorvertonen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md) als u een e-mailbericht met dynamische inhoud wilt verzenden.
+Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Als u een e-mail met dynamische inhoud wilt verzenden, raadpleegt u [Een voorbeeld van een e-mailbericht weergeven met dynamische inhoud](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
->U moet **Gegevensbestand van de Toegang hebben - stel Enige Acties van de Stroom in werking** toestemming om steekproefe-mails te verzenden.
+>U moet beschikken over de **Access Database - Single Flow-handelingen uitvoeren** toestemming om voorbeelde-mails te verzenden.
 
-## Een voorbeeld-e-mail verzenden {#send-a-sample-email-1}
+## Een e-mailvoorbeeld verzenden {#send-a-sample-email-1}
 
-1. Zoek en selecteer uw e-mail. Klik op de vervolgkeuzelijst **E-mailhandelingen** en selecteer **Monster verzenden**.\
+1. Zoek en selecteer uw e-mail. Klik op de knop **E-mailhandelingen** vervolgkeuzelijst en selecteer **Voorbeeld verzenden**.\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
    >
    >Mijn tokens worden omgezet in de waarde die geschikt is voor het e-mailprogramma.
 
-1. Voer een e-mailadres in voor levering en klik op **Verzenden**.
+1. Voer een of meerdere e-mailadressen in voor levering. Gebruik komma&#39;s als scheidingsteken voor meerdere e-mailadressen. Klikken **Verzenden** wanneer gereed.
 
    ![](assets/two.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Als u meerdere e-mailadressen wilt invoeren, scheidt u deze met komma&#39;s.
+   >Als u meerdere e-mailadressen opgeeft, zijn deze allemaal zichtbaar voor elke ontvanger. Het eerste ingevoerde e-mailadres is de hoofdontvanger en elk volgend e-mailadres is een CC-ontvanger.
 
    >[!TIP]
    >
-   >Als u tokens als specifieke persoon wilt oplossen, verkies genoemde persoon in **persoondrop-down** in Stap 2.
+   >Als u tokens wilt oplossen als een specifieke persoon, kiest u de persoon in het deelvenster **persoonlijke vervolgkeuzelijst** in Stap 2.
 
-## Een voorbeeld-e-mail verzenden tijdens het bewerken {#send-a-sample-email-while-editing}
+## Een voorbeeld-e-mail verzenden tijdens bewerken {#send-a-sample-email-while-editing}
 
-1. Zoek uw e-mail, selecteer het en klik **uitgeven Ontwerp** tabel.
+1. Zoek uw e-mail, selecteer het en klik op **Concept bewerken** tab.
 
    ![](assets/three-281-29.jpg)
 
-1. Klik **E-mailacties**, selecteer **Sample verzenden**.
+1. Klikken **E-mailhandelingen**, selecteert u **Voorbeeld verzenden**.
 
    ![](assets/four.png)
 
@@ -56,23 +55,23 @@ Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een 
 
    >[!NOTE]
    >
-   >Het triggerveld is alleen van toepassing op gebruikers die [e-mailscripting](https://developers.marketo.com/documentation/velocity-script/) gebruiken.
+   >Het triggerveld is alleen van toepassing op gebruikers [e-mailscripts](https://developers.marketo.com/documentation/velocity-script/).
 
 ## Een voorbeeld-e-mail verzenden op basis van een segment {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[Pas segmentatie toe op uw e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
+>[Segmentatie toepassen op uw e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
-1. Zoek uw e-mail, selecteer het en klik **uitgeven Ontwerp** tabel.
+1. Zoek uw e-mail, selecteer het en klik op **Concept bewerken** tab.
 
    ![](assets/three-281-29.jpg)
 
-1. Klik **Voorvertoning**.
+1. Klikken **Voorvertoning**.
 
    ![](assets/1.png)
 
-1. Klik op de vervolgkeuzelijst **Weergeven op** en selecteer **Segmentatie**.
+1. Klik op de knop **Weergeven op** vervolgkeuzelijst en selecteer **Segmentering**.
 
    ![](assets/2.png)
 
@@ -84,12 +83,12 @@ Het is snel en gemakkelijk om voorbeelden van een e-mail te verzenden. Zie [Een 
 
    ![](assets/4.png)
 
-1. Klik op **Sample verzenden** om een teste-mail van uw segment in actie te ontvangen.
+1. Klikken **Voorbeeld verzenden** om een teste-mail van uw segment in actie te ontvangen.
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >U kunt ook een e-mailvoorbeeld verzenden op basis van een segment in de bewerkingsmodus van uw e-mail. Klik op de vervolgkeuzelijst **E-mailhandelingen**, selecteer **Monster verzenden** en kies vervolgens het segment.
+   >U kunt ook een e-mailvoorbeeld verzenden op basis van een segment in de bewerkingsmodus van uw e-mail. Klik op de knop **E-mailhandelingen** vervolgkeuzelijst, selecteert u **Voorbeeld verzenden** kiest u vervolgens uw segment.
 
 Het is erg belangrijk om uw inhoud te samplen voordat u een campagne start. Meet twee keer, knip één keer!

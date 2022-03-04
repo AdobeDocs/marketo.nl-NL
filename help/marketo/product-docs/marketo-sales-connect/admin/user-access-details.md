@@ -2,22 +2,21 @@
 unique-page-id: 14352623
 description: Toegangsgegevens gebruiker - Marketo Docs - Productdocumentatie
 title: Toegangsgegevens gebruiker
-translation-type: tm+mt
-source-git-commit: ed9399396c82a3b2fb93c83ffdaa1dc7b0827306
+exl-id: 6a61176c-acbd-4684-983f-1c5af0ca6187
+source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
-
 # Toegangsgegevens gebruiker {#user-access-details}
 
 Waartot hebben Admins en niet-Admins toegang?
 
-## Beheerdersrechten {#admin-user-permissions}
+## Beheerdersmachtigingen {#admin-user-permissions}
 
-Beheerders kunnen alle sjablonen [weergeven](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-a-another-user.md).
+Beheerders kunnen [alle sjablonen weergeven](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/templates.jpg)
 
@@ -39,7 +38,7 @@ Alle personenverslagen kunnen in de Iedereen groep worden betreden.
 
 Beheerders kunnen campagnes namens gebruikers stoppen.
 
-## Gebruikersmachtigingen {#non-admin-user-permissions} voor niet-beheer
+## Rechten van gebruikers die geen beheerder zijn {#non-admin-user-permissions}
 
 * Analyse:
 

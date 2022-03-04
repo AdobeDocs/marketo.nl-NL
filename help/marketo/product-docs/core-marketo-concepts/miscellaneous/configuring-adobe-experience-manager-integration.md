@@ -3,10 +3,9 @@ unique-page-id: 30081815
 description: Adobe Experience Manager-integratie configureren - Marketo Docs - Productdocumentatie
 title: Adobe Experience Manager-integratie configureren
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -21,7 +20,7 @@ Vorm AEM zodat kunt u, AEM activa in de Studio van het Ontwerp van Marketo toega
 
 >[!CAUTION]
 >
->Deze functie wordt momenteel alleen volledig ondersteund in Firefox. Deze functie wordt niet ondersteund in Safari en werkt mogelijk niet in de nieuwste versie van Chrome (v. 80), afhankelijk van de cookie-instellingen van SameSite.
+>Deze functie wordt momenteel alleen volledig ondersteund in Firefox. Deze functie wordt niet ondersteund in Safari en werkt mogelijk niet in de meest recente versie van Chrome, afhankelijk van de cookie-instellingen van SameSite.
 
 1. Navigeer naar de Adobe Experience Manager (de URL is specifiek voor uw bedrijf).
 
@@ -31,43 +30,43 @@ Vorm AEM zodat kunt u, AEM activa in de Studio van het Ontwerp van Marketo toega
 
    ![](assets/two.png)
 
-1. Klik in **Gereedschappen** op **Bewerkingen** en selecteer **Webconsole**.
+1. In **Gereedschappen**, klikt u op **Bewerkingen** en selecteert u **Webconsole**.
 
    ![](assets/2a.png)
 
-1. Zoek in uw browser (ctrl+f in Windows, cmd+f in Mac) naar &quot;Adobe Granite Cross-Origin Resource Sharing Policy.&quot;
+1. Zoek in uw browser (ctrl+f in Windows, cmd+f in Mac) naar &quot;Beleid voor het delen van bronnen van Adobe Granite voor kruisoorsprong.&quot;
 
    ![](assets/three.png)
 
-1. Klik op het **+**-teken rechts.
+1. Klik op de knop **+** teken aan de rechterkant.
 
    ![](assets/four.png)
 
-1. Typ in het tekstvak **Toegestane oorsprong (Regexp)** de tekst `https://.*\.marketo\.com` en klik op **Opslaan**.
+1. In de **Toegestane oorsprong (Regexp)** tekstvak, typen in `https://.*\.marketo\.com` en klik op **Opslaan**.
 
    ![](assets/five-psd.png)
 
-1. Klik in de koptekst boven aan de pagina op **Webconsole** en selecteer **Systeeminformatie**.
+1. Klik in de koptekst boven aan de pagina op **Webconsole** en selecteert u **Systeeminformatie**.
 
    ![](assets/six.png)
 
-1. Klik onder Serverinformatie op de knop **Opnieuw starten**.
+1. Klik onder Serverinformatie op de knop **Opnieuw starten** knop.
 
    ![](assets/seven.png)
 
-1. Klik **OK** om te bevestigen.
+1. Klikken **OK** ter bevestiging.
 
    ![](assets/eight.png)
 
-1. Klik in Marketo Classic op **Admin**.
+1. Klik in Marketo Classic op **Beheer**.
 
    ![](assets/nine.png)
 
-1. Selecteer **Adobe Experience Manager** onder Integratie.
+1. Selecteer onder Integratie **Adobe Experience Manager**.
 
    ![](assets/ten.png)
 
-1. Klik **Bewerken**.
+1. Klikken **Bewerken**.
 
    ![](assets/eleven.png)
 
@@ -75,4 +74,4 @@ Vorm AEM zodat kunt u, AEM activa in de Studio van het Ontwerp van Marketo toega
 
    ![](assets/twelve.png)
 
-   U bent klaar! U kunt nu [AEM activa in de Studio van het Ontwerp in Marketo Sky ](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio) invoeren.
+   U bent klaar! U kunt nu [de invoer AEM activa in de Studio van het Ontwerp in Marketo Sky](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/importing-assets-with-adobe-experience-manager.html?lang=en#design-studio).
