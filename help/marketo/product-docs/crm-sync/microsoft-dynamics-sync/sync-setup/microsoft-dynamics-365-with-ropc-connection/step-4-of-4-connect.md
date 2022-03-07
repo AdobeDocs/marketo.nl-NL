@@ -2,9 +2,9 @@
 description: Stap 4 van 4 - Verbind de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel - Marketo Docs - de Documentatie van het Product
 title: Stap 4 van 4 - Verbind de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
-source-git-commit: b4fafa28d9a38504a29c25700496d8376c4fe47b
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Dit is de laatste stap van de synchronisatie. Je bent er bijna!
 >
 >**Beheerdersmachtigingen vereist**
 
->[!IMPORTANT]
+>[!NOTE]
 >
->Als u een upgrade uitvoert van Basisverificatie naar OAuth, dient u contact op te nemen met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support) voor hulp bij het bijwerken van de aanvullende parameters. Als u deze functie inschakelt, wordt de synchronisatie tijdelijk gestopt totdat nieuwe referenties worden ingevoerd en de synchronisatie opnieuw wordt ingeschakeld. De functie kan worden uitgeschakeld (tot april 2022) als u wilt terugkeren naar de oude verificatiemodus.
+>Als u een upgrade uitvoert van Basic Authentication naar OAuth, kunt u [dit artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) om uw verificatie opnieuw te configureren.
 
 ## Gebruikersgegevens dynamiek synchroniseren invoeren {#enter-dynamics-sync-user-information}
 

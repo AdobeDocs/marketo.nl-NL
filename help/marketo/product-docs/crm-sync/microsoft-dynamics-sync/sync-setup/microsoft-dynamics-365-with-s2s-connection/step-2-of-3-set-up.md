@@ -3,9 +3,9 @@ unique-page-id: 3571827
 description: Stap 2 van 3 - Opstelling de Oplossing van Marketo met Server aan de Verbinding van de Server - de Documenten van Marketo - de Documentatie van het Product
 title: Stap 2 van 3 - Opstelling de Oplossing van Marketo met Server aan de Verbinding van de Server
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '589'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,6 @@ Aanvullende verwijzingen [hier te vinden](https://docs.microsoft.com/en-us/azure
 
 Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over de nieuwe gebruiker die is gemaakt.
 
->[!IMPORTANT]
->
->Als u een upgrade uitvoert van Basisverificatie naar OAuth, dient u contact op te nemen met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support) voor hulp bij het bijwerken van de aanvullende parameters. Als u een configuratiewijziging doorvoert in Standaardsynchronisatie-gebruiker, wordt de synchronisatie tijdelijk gestopt totdat nieuwe referenties worden ingevoerd en de synchronisatie opnieuw wordt ingeschakeld. Op uw verzoek kan Marketo Support de functie uitschakelen (tot april 2022) als u wilt terugkeren naar de oude verificatiemethode.
-
 1. Ga terug naar het gedeelte Geavanceerde instellingen en klik op de knop ![](assets/image2015-5-13-15-3a49-3a19.png) pictogram naast Instellingen en selecteer **Marketo Config**.
 
    ![](assets/fourteen.png)
@@ -99,6 +95,10 @@ Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over d
 1. Klik op de knop **Alle aanpassingen publiceren** knop.
 
    ![](assets/nineteen.png)
+
+   >[!NOTE]
+   >
+   >Als u een upgrade uitvoert van Basic Authentication naar OAuth, kunt u [dit artikel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) om uw verificatie opnieuw te configureren.
 
 ## Voordat u verdergaat met stap 3 {#before-proceeding-to-step}
 

@@ -4,22 +4,22 @@ title: Marketo-toegang verlenen aan gebruikers
 hide: true
 hidefromtoc: true
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # Marketo-toegang verlenen aan gebruikers {#grant-marketo-access-to-users}
 
-Voer de stappen in dit artikel uit om je Marketo-verkoopgebruikers toegang te geven tot de Marketo-verbinding. Hierdoor worden functies zoals Interessant Moments in de live feed en toegang tot marketingcampagnes ontgrendeld.
+Volg de stappen in dit artikel om gebruikers van Handelingen van het Inzicht van de Verkoop toegang tot de verbinding van Marketo te verlenen. Hierdoor worden functies zoals Interessant Moments in de live feed en toegang tot marketingcampagnes ontgrendeld.
 
-U moet [Marketo Sales](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) voordat deze zichtbaar zijn op de pagina Marketo > Team Access (in Marketo Sales), waar toegang tot de Marketo-verbinding wordt verleend.
+U moet gebruikers uitnodigen om [Handelingen voor het instellen van verkoopgegevens](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) voordat deze zichtbaar zijn op de pagina Marketo > Team Access (in Handelingen voor het toezicht op de verkoop), waar toegang tot de Marketo-verbinding wordt verleend.
 
 >[!CAUTION]
 >
->Wacht tien minuten nadat u Marketo Sales met Marketo hebt verbonden voordat u deze stappen uitvoert.
+>Wacht tien minuten nadat u Handelingen Verkoopcontrole hebt verbonden met Marketo voordat u deze stappen uitvoert.
 
 1. Klik op het tandwielpictogram en selecteer **Instellingen**.
 
