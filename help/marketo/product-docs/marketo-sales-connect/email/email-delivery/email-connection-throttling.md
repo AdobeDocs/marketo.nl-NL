@@ -2,9 +2,9 @@
 description: E-mailverbindingsmogelijkheden - Marketo Docs - Productdocumentatie
 title: Throtting van e-mailverbinding
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
-source-git-commit: 01748a560f41d5366862e75a3dd5349cf8b908bc
+source-git-commit: ad7b222c2da937474565729a09a559fbcd722280
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Door uw Sales Connect-account te integreren en via Exchange- of Gmail-providers te verzenden, biedt u een gestroomlijnde installatie en optimaliseert u de e-mailleverbaarheid voor 1:1-verkoopcommunicatie. Om systemen echter gezond te houden en accounts veilig te houden, dwingen Gmail en Exchange beperkingen in het verzenden van e-mail af. Deze limieten kunnen naar eigen goeddunken worden verhoogd of verlaagd.
 
-## E-mailverbindingsThrottling (bèta) {#email-connection-throttling-beta}
+## Overzicht {#overview}
 
 Met e-mailverbindingsthrottling kunnen beheerders van Sales Connect de verzendsnelheid van e-mailberichten configureren wanneer ze Gmail of Exchange als leveringskanaal gebruiken, zodat de snelheid waarmee e-mails worden doorgegeven aan de leverancier van het leveringskanaal de afgedwongen limieten niet overschrijdt.
 
