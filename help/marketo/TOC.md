@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 625f4bb873f3d06a977020ca108fc8962574ceac
+source-git-commit: ba1357e6970ba4e3dc496d27272d067ac87c5e6d
 workflow-type: tm+mt
-source-wordcount: '8396'
+source-wordcount: '8397'
 ht-degree: 0%
 
 ---
@@ -47,9 +47,9 @@ ht-degree: 0%
          + SEO begrijpen {#understanding-seo}
             + [Optimalisatie van zoekprogramma&#39;s begrijpen](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
             + [Het SEO-dashboard begrijpen: SEO Recommendations](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
-            + [Het SEO-dashboard begrijpen: SEO-opname](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
-            + [SEO - Een site toevoegen/een site verwijderen](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
-            + [SEO - Concurrenten toevoegen](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
+            + [Understanding the SEO Dashboard: SEO Snapshot](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
+            + [SEO - Add a Site/Delete a Site](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
+            + [SEO - Add Competitors](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
             + [SEO - Lijsten beheren](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
             + [SEO - Kies Regio/Land voor je zoekmachine](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
             + [SEO - Voorkeuren voor e-mailwaarschuwingen instellen](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
@@ -1124,7 +1124,7 @@ ht-degree: 0%
          + Opdrachtcentrum {#command-center}
             + [Overzicht van Command Center](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
             + [Overzicht van geavanceerd zoeken](product-docs/marketo-sales-connect/email/command-center/advanced-search-overview.md)
-            + [Taken toewijzen aan teamleden](product-docs/marketo-sales-connect/email/command-center/assigning-tasks-to-team-members.md)
+            + [Assigning Tasks to Team Members](product-docs/marketo-sales-connect/email/command-center/assigning-tasks-to-team-members.md)
             + [E-mailkolommen en indeling van e-mailpagina](product-docs/marketo-sales-connect/email/command-center/email-columns-and-email-page-layout.md)
             + [Snelle acties gebruiken om uw workflow te versnellen](product-docs/marketo-sales-connect/email/command-center/using-quick-actions-to-speed-up-your-workflow.md)
          + Veelvoorkomende opvolgvragen {#common-tracking-questions}
@@ -1139,7 +1139,7 @@ ht-degree: 0%
             + [Throtting van e-mailverbinding](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [Een aangepast leveringskanaal instellen](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
          + Verkoop een e-mail {#send-a-sales-email}
-            + [Campagne is beëindigd](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
+            + [Campaign Has Ended](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [CC of BCC in e-mails](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [E-mail gemarkeerd als spam](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
          + De Live feed {#the-live-feed}
@@ -1241,7 +1241,7 @@ ht-degree: 0%
          + [Overzicht van de functie Handelingen Handelingen in het verkoopoverzicht](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Aan de slag {#getting-started}
             + [Handleiding voor het toezicht op de verkoop](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [Beheerdershandleiding voor MSI-handelingen](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
+            + [Beheerdershandleiding voor MSI-handelingen](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md)
             + [Je Marketo-verkoopwachtwoord wijzigen](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + E-mailinstellingen {#email-settings}
                + [Uw e-mail verifiëren](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
@@ -1311,7 +1311,7 @@ ht-degree: 0%
                + [Groepen beheren](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Kolommen met personenpagina&#39;s](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Salesforce-configuratie {#salesforce-configuration}
-            + [Configuratie MSI-handelingen in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/msi-actions-configuration-in-salesforce.md)
+            + [Configuratie van de Acties van het Inzicht van de verkoop in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
             + [Salesforce Classic-aanpassingspakket verwijderen](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
             + [Aanpassingspakket voor Salesforce Lightning verwijderen](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Verstuur een e-mail {#send-a-sales-email}
@@ -1787,9 +1787,9 @@ ht-degree: 0%
       + 2022 {#2022}
          + [Opmerkingen bij de release: 22 jan.](release-notes/previous-releases/2022/release-notes-jan-22.md)
       + 2021 {#2021}
-         + [Opmerkingen bij de release: 21 jan.](release-notes/previous-releases/2021/release-notes-jan-21.md)
-         + [Opmerkingen bij de release: 21 mei](release-notes/previous-releases/2021/release-notes-may-21.md)
-         + [Opmerkingen bij de release: 21 augustus](release-notes/previous-releases/2021/release-notes-aug-21.md)
+         + [Release Notes: Jan &#39;21](release-notes/previous-releases/2021/release-notes-jan-21.md)
+         + [Release Notes: May &#39;21](release-notes/previous-releases/2021/release-notes-may-21.md)
+         + [Release Notes: August &#39;21](release-notes/previous-releases/2021/release-notes-aug-21.md)
          + [Opmerkingen bij de release: 21 oktober](release-notes/previous-releases/2021/release-notes-oct-21.md)
       + 2020 {#2020}
          + [Opmerkingen bij de release: 20 jan.](release-notes/previous-releases/2020/release-notes-jan-20.md)
@@ -1804,7 +1804,7 @@ ht-degree: 0%
          + [Opmerkingen bij de release: Winter &#39;19](release-notes/previous-releases/2019/release-notes-winter-19.md)
       + 2018 {#2018}
          + [Opmerkingen bij de release: Herfst &#39;18](release-notes/previous-releases/2018/release-notes-fall-18.md)
-         + [Opmerkingen bij de release: Lente 18](release-notes/previous-releases/2018/release-notes-spring-18.md)
+         + [Release Notes: Spring &#39;18](release-notes/previous-releases/2018/release-notes-spring-18.md)
          + [Opmerkingen bij de release: Winter &#39;18](release-notes/previous-releases/2018/release-notes-winter-18.md)
       + 2017 {#2017}
          + [Opmerkingen bij de release: Verbeteringen ABM in april 17](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
