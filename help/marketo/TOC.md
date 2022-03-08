@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 3a52db828a9bbf01b617d6e417d078d11ea30fb7
+source-git-commit: 625f4bb873f3d06a977020ca108fc8962574ceac
 workflow-type: tm+mt
-source-wordcount: '8394'
+source-wordcount: '8396'
 ht-degree: 0%
 
 ---
@@ -1238,9 +1238,9 @@ ht-degree: 0%
             + [Verwijzing zelf in een dynamisch veld](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + Handelingen {#actions}
-         + [Overzicht van MSI-handelingenfunctie](product-docs/marketo-sales-insight/actions/msi-actions-feature-overview.md)
+         + [Overzicht van de functie Handelingen Handelingen in het verkoopoverzicht](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Aan de slag {#getting-started}
-            + [MSI-handelingen Gebruikershandleiding aan boord](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-user-onboarding-guide.md)
+            + [Handleiding voor het toezicht op de verkoop](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Beheerdershandleiding voor MSI-handelingen](product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md)
             + [Je Marketo-verkoopwachtwoord wijzigen](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + E-mailinstellingen {#email-settings}
