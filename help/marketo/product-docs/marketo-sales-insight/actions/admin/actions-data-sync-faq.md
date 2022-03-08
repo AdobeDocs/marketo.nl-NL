@@ -4,9 +4,9 @@ title: Veelgestelde vragen over gegevenssynchronisatie voor handelingen
 hide: true
 hidefromtoc: true
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 8ded6cac96f17c81a8d37cbe51c39ad565ac828e
+source-git-commit: 649bac859280bc4b83ce082684ad1e2d81dc3561
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1044'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ De het gebiedssynchronisatie van de gegevenseenmaking voor de Acties van het Inz
 
 Dit verstrekt bijgewerkte personengegevens in het Web-app van Acties van het Inzicht van de Verkoop en staat het systeem toe om unieke IDs voor overeenkomstige persoonverslagen in Marketo en lood/contact/rekening/opportuniteitsverslagen in Salesforce te verzamelen, zodat kunnen de verslagen behoorlijk voor registreren gegevens worden referenced.
 
-Deze synchronisatie kan worden ingeschakeld via het tabblad Configuratie van handelingen voor het instellen van verkoopgegevens in de sectie Beheer van Marketo Engage. Meer informatie vindt u in [Gegevenssynchronisatie starten](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync).
+Deze synchronisatie kan worden ingeschakeld via het tabblad Configuratie van handelingen voor het instellen van verkoopgegevens in de sectie Beheer van Marketo Engage. Meer informatie vindt u in [Gegevenssynchronisatie starten](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync).
 
 ![](assets/actions-data-sync-faq-1.png)
 
@@ -120,5 +120,5 @@ Het diagram hierboven toont welke informatie aan Salesforce wordt geregistreerd.
 >* [Marketo Unsubscribe Check](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
 >* [Instellingen voor Salesforce Sync](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Herinnering taaksynchronisatie met Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
->* [Gegevenssynchronisatie starten](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/msi-actions-admin-guide.md#initiate-data-sync)
+>* [Gegevenssynchronisatie starten](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md#initiate-data-sync)
 
