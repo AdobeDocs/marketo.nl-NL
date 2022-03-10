@@ -2,9 +2,9 @@
 description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 59b0946cde42a19d802c136ea25dd8c1fe4437cd
+source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
@@ -74,3 +74,71 @@ AI/NLP-functionaliteit wordt niet ondersteund.
 **Biedt Dynamic Chat naast Engels ook talen?**
 
 Op dit moment niet.
+
+## Limieten in dynamische chat {#limits-in-dynamic-chat}
+
+<table>
+  <th>Parameter</th>
+  <th>Beschrijving</th>
+  <th>Limiet</th>
+ <tr>
+  <td>Totaal aantal dialoogvensters</td>
+  <td>Totaal aantal dialoogvensters (gepubliceerd en concept)</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Gepubliceerde dialoogvensters</td>
+  <td>Aantal gepubliceerde dialoogvensters dat is opgeslagen</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>Doel-URL's per dialoogvenster</td>
+  <td>Aantal doel-URL's dat kan worden toegevoegd aan één dialoogvenster</td>
+  <td>20</td>
+ </tr>
+ <tr>
+  <td>Kenmerken per dialoogvenster</td>
+  <td>Aantal kenmerken dat kan worden toegevoegd aan publiekscriteria voor één dialoogvenster</td>
+  <td>100</td>
+ </tr>
+ <tr>
+  <td>Groepen</td>
+  <td>Aantal groepen dat kan worden toegevoegd aan één dialoogvenster</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>Attributen per groep</td>
+  <td>Aantal kenmerken dat aan een groep kan worden toegevoegd</td>
+  <td>10</td>
+ </tr>
+ <tr>
+  <td>Kaarten</td>
+  <td>Aantal kaarten dat per Dialoogvenster aan het canvas kan worden toegevoegd</td>
+  <td>500</td>
+ </tr>
+ <tr>
+  <td>Bewaarperiode anonieme gegevens lead</td>
+  <td>Duur van de periode waarin informatie over een anonieme lead zonder enige betrokkenheid bewaard blijft</td>
+  <td>90 dagen</td>
+ </tr>
+ <tr>
+  <td>Aanhoudingsperiode van de reële activiteit</td>
+  <td>De hoeveelheid tijd die de activiteitengegevens van het doel worden behouden</td>
+  <td>24 maanden</td>
+ </tr>
+ <tr>
+  <td>Bewaarperiode documentactiviteit</td>
+  <td>De hoeveelheid tijd die nodig is om de activiteitengegevens van het document te behouden</td>
+  <td>24 maanden</td>
+ </tr>
+ <tr>
+  <td>Interactie met periode van activiteit in het dialoogvenster</td>
+  <td>De hoeveelheid tijd die interactie heeft met de gegevens over dialoogactiviteiten blijft behouden</td>
+  <td>90 dagen</td>
+ </tr>
+ <tr>
+  <td>Bewaarperiode van boekingsactiviteit vergadering</td>
+  <td>De hoeveelheid tijd die vergadering het boeken activiteit zal worden opgeslagen in Dynamisch Praatje</td>
+  <td>24 maanden</td>
+ </tr>
+</table>
