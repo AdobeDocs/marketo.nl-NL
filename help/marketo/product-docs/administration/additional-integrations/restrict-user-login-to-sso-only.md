@@ -3,45 +3,48 @@ unique-page-id: 2360358
 description: Alleen aanmelding door gebruiker beperken tot SSO - Marketo Docs - Productdocumentatie
 title: Alleen gebruikersaanmelding beperken tot SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
 # Alleen gebruikersaanmelding beperken tot SSO {#restrict-user-login-to-sso-only}
 
-Als u [SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) gebruikt en gebruikers niet de veiligheid van SSO kunt omzeilen, volg deze instructies.
+Als je [SSO gebruiken](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) en willen ervoor zorgen dat gebruikers de SSO-beveiliging niet kunnen omzeilen, volgt u deze instructies.
+
+>[!IMPORTANT]
+>
+>Dit artikel is niet van toepassing op [Adobe IMS ingeschakeld](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md) Marketo-abonnementen.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Admin** en klik **Aanmeldingsinstellingen**.
+1. Ga naar **Beheer** en klik op **Aanmeldingsinstellingen**.
 
    ![](assets/image2014-9-24-14-3a44-3a40.png)
 
-1. Klik **Beveiligingsinstellingen bewerken**.
+1. Klikken **Beveiligingsinstellingen bewerken**.
 
    ![](assets/image2014-9-24-14-3a44-3a53.png)
 
-1. Vouw de geavanceerde instellingen uit, schakel **SSO** vereisen in en klik op **Opslaan**.
+1. Vouw de geavanceerde instellingen uit, schakel **SSO vereist** en klik op **Opslaan**.
 
 ![](assets/image2014-9-24-14-3a45-3a6.png)
 
 >[!NOTE]
 >
->De beste manier is om de gebruiker(s) uit te nodigen en de uitnodiging te accepteren. __ Nadat de uitnodiging is geaccepteerd, moeten beheerders deze instellen op &quot;SSO vereisen&quot;.
+>De beste manier is om de gebruiker(s) uit te nodigen en de uitnodiging te accepteren. _Na_ Als de uitnodiging is geaccepteerd, dienen beheerders deze in te stellen op &quot;SSO vereisen&quot;.
 
 >[!TIP]
 >
->Als u **SSO** vereist selecteert, kunt u [gebruikersrol](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking uitsluiten door **Enkelvoudige Sign-On** te omzeilen terwijl het plaatsen van de rol. Hierdoor kunnen gebruikers zich normaal aanmelden. Admin-gebruikers moeten zich bijvoorbeeld nog steeds via het aanmeldingsscherm aanmelden bij Marketo.
+>Als u **SSO vereist**, kunt u een [gebruikersrol](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking door **Single Sign-On omzeilen** tijdens het instellen van de rol. Hierdoor kunnen gebruikers zich normaal aanmelden. Admin-gebruikers moeten zich bijvoorbeeld nog steeds via het aanmeldingsscherm aanmelden bij Marketo.
 
 >[!CAUTION]
 >
->Wanneer nieuwe gebruikers worden uitgenodigd, ontvangen zij uitnodigingse-mails. Nochtans, als **vereist SSO** wordt geselecteerd, zullen zij deze e-mail niet ontvangen, tenzij zij aan een rol worden toegewezen die aan **Enkelvoudige Sign-On** wordt geplaatst om te mijden.
+>Als nieuwe gebruikers worden uitgenodigd, ontvangen ze e-mailuitnodigingen. Als **SSO vereist** is geselecteerd, ontvangen ze deze e-mailberichten niet, tenzij ze zijn toegewezen aan een rol die is ingesteld op **Single Sign-On omzeilen**.
 
 Dat is het! Nu zullen alle gebruikers (behalve gebruikers met toestemming om enig teken-op te mijden) worden beperkt tot het gebruiken van slechts login SSO.
 

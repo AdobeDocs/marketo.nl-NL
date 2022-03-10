@@ -2,9 +2,9 @@
 description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '977'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Adobe Marketo Engage-abonnementen die op het Adobe-systeem zijn aangesloten, ond
  <tr>
   <td><strong>Adobe Admin Console-productbeheerder</strong></td>
   <td>Verantwoordelijk voor het recht van gebruikers op het product Marketo Engage in de Adobe Admin Console. Toegewezen rol in Adobe Admin Console.</td>
+ </tr>
+ <tr>
+  <td><strong>Adobe Admin Console-productprofielbeheer</strong></td>
+  <td>Hiermee beheert u de beschrijvingen van het productprofiel die aan die beheerder zijn toegewezen en alle bijbehorende beheerfuncties.</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage-productbeheerder</strong></td>
