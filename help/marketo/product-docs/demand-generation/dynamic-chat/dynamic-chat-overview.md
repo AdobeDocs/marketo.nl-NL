@@ -2,9 +2,9 @@
 description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c386d5ae542f4f19ba2acf6d2472a0c9d79c20a3
+source-git-commit: f08c85f59113a91d3ce020a11199b7fc4ed58857
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ Hier kunt u een lijst zien van alle agenten die hun kalenders hebben aangesloten
 
 ## Veelgestelde vragen {#faq}
 
+**Hoe lang worden gegevens voor rapportage opgeslagen?**
+
+90 dagen (zie de volledige lijst van limieten) [onder](#limits-in-dynamic-chat)).
+
 **Staat Dynamic Chat live chatten toe?**
 
 Neen, het gebruikt slechts vooraf bepaalde reacties.
@@ -66,10 +70,6 @@ In uw dialoogvenster moet u de opdracht _Persoonsbericht is leeg_ kenmerk.
 **Ondersteunt u de AI/NLP-functionaliteit?**
 
 AI/NLP-functionaliteit wordt niet ondersteund.
-
-**Hoe lang worden gegevens voor rapportage opgeslagen?**
-
-90 dagen.
 
 **Biedt Dynamic Chat naast Engels ook talen?**
 
