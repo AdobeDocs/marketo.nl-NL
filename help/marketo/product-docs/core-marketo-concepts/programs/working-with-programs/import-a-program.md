@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Een programma importeren - Marketo Docs - Productdocumentatie
 title: Een programma importeren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: 8baa8bc8ed897314945964deed5f867866a79f8c
+source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -85,9 +85,9 @@ De Marketo Program Library bevat vooraf gebouwde, geteste programma&#39;s die u 
 
 De programma&#39;s gebruiken externe activa zoals e-mailmalplaatjes, landende paginasjablonen, beelden, vormen, tekenen, en programmalabels. U kunt configureren hoe sjablonen voor landingspagina&#39;s en programmacodes worden verwerkt, en Marketo beheert automatisch de rest.
 
-**Sjablonen voor e-mail- en landingspagina:** De sjablonen voor e-mail- en landingspagina worden geïmporteerd in de Design Studio. U kunt collisieregels gebruiken om gedrag te vormen wanneer een malplaatje met de zelfde naam bestaat. Met de standaardregel wordt een getal toegevoegd aan een sjabloon als er een bestaat met dezelfde naam. Als u bijvoorbeeld al een sjabloon hebt met de naam &quot;Standaardsjabloon&quot;, krijgt de nieuwe sjabloon de naam &quot;Standaardsjabloon 1&quot;.
+**Sjablonen voor e-mail- en landingspagina:** De sjablonen voor e-mail- en landingspagina worden geïmporteerd in de Design Studio. U kunt collisieregels gebruiken om gedrag te vormen wanneer een malplaatje met de zelfde naam bestaat. Met de standaardregel wordt een getal toegevoegd aan een sjabloon als er een bestaat met dezelfde naam. Als u bijvoorbeeld al een sjabloon hebt met de naam &quot;Standaardsjabloon&quot;, krijgt de nieuwe sjabloon de naam &quot;Standaardsjabloon - 1&quot;.
 
-**Openingspagina&#39;s/Forms:** Als een formulier of landingspagina met dezelfde naam bestaat in Design Studio, worden deze nog steeds geïmporteerd, maar wordt er een nummer aan de naam toegevoegd (bijvoorbeeld: Openingspagina 1).
+**Openingspagina&#39;s/Forms:** Als een formulier of landingspagina met dezelfde naam bestaat in Design Studio, worden deze nog steeds geïmporteerd, maar wordt er een nummer aan de naam toegevoegd (bijvoorbeeld: Openingspagina - 1).
 
 **Afbeeldingen:** Afbeeldingen die door bestemmingspagina&#39;s worden gebruikt, worden in de ontwerpstudio geïmporteerd, tenzij er een met dezelfde naam bestaat.
 
