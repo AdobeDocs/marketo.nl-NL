@@ -1271,7 +1271,7 @@ ht-degree: 0%
             + [Campagne is beëindigd](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Aanpassing Salesforce {#salesforce-customization}
-               + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
+               + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/doc.md)
             + Salesforce-integratie {#salesforce-integration}
                + [Aanpassing Salesforce Activity Detail configureren](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Je Marketo-verkoopaccount verbinden met Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
