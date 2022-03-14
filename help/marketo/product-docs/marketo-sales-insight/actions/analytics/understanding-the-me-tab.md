@@ -1,0 +1,17 @@
+---
+description: De tab Me - Marketo Docs - Productdocumentatie
+title: De tab Me
+hide: true
+hidefromtoc: true
+source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 0%
+
+---
+
+# De tab Me {#understanding-the-me-tab}
+
+Op het tabblad Op mij geven we u het aantal verzonden e-mails weer, evenals het aantal e-mails dat via een sjabloon is verzonden met de e-mailactiviteit.
+
+We tonen u ook de lijst met personen die de meeste tijd hebben besteed aan een gesprek met u, en een lijst met uw meest boeiende e-mails, gesorteerd op het totale aantal bijgehouden gebeurtenissen (weergaven/klikken/antwoorden). Hebt u een eenmalige e-mail die werkelijk hoge betrokkenheid krijgt? Maak er een sjabloon van!

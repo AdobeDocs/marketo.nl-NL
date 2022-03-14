@@ -3,9 +3,10 @@ description: Toevoegen aan marketingcampagne - Marketo Docs - Productdocumentati
 title: Toevoegen aan marketingcampagne
 hide: true
 hidefromtoc: true
-source-git-commit: 6b59150eaebcd4424d3e347cb2379b9111255e4f
+exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
+source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -24,23 +25,23 @@ ht-degree: 0%
 
 1. Klik op de knop **Mensen** Tab.
 
-PICC
+   ![](assets/add-to-marketing-campaign-1.png)
 
 1. Zoek de contactpersoon of contactpersonen die u wilt toevoegen.
 
-PICC
+   ![](assets/add-to-marketing-campaign-2.png)
 
-1. Klik op het selectievakje om uw contactpersoon of contactpersonen te selecteren.
+1. Klik op het selectievakje om uw contactpersoon of contactpersonen te selecteren en klik op **Geselecteerde toevoegen aan campagne**.
 
-PICC
+   ![](assets/add-to-marketing-campaign-3.png)
 
-1. Klikken **Geselecteerde toevoegen aan campagne**.
+1. STAP HIER
 
-PICC
+   ![](assets/add-to-marketing-campaign-4.png)
 
 1. Aangezien u aan een campagne van de Marketing toevoegt, sla het selecteren van een &quot;van&quot;adres over. U kunt echter verkiezen om meer contacten toe te voegen. Als u dit wilt doen, klikt u op Individuen en typt u deze in. Klikken **Volgende** wanneer gereed.
 
-PICC
+   ![](assets/add-to-marketing-campaign-5.png)
 
 1. Klikken **Marketingcampagne**.
 
