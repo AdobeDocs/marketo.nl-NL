@@ -3,9 +3,9 @@ description: Salesforce loskoppelen van Handelingen voor verkoopinzicht - Market
 title: Salesforce loskoppelen van acties voor verkoopinzicht
 hide: true
 hidefromtoc: true
-source-git-commit: 19b67c830ce85c1d02a5a3b1145d101ddf82423b
+source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ Soms moet je je Salesforce-account loskoppelen van je account voor Handelingen i
 
 1. Klik in Handelingen in het venster Verkoopinzicht op het tandwielpictogram rechtsboven en selecteer **Instellingen**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
 1. Klik onder Beheerinstellingen op **Salesforce**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
 1. Klik op het tabblad Verbindingen en aanpassingen op **Verbinding verbreken**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
 ## Hoe u losmaakt van Salesforce als niet-Admin {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
 1. Klik in Handelingen in het venster Verkoopinzicht op het tandwielpictogram rechtsboven en selecteer **Instellingen**.
 
-PICC
+   ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
 1. Selecteer onder Mijn account de optie **Salesforce**.
 

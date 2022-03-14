@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 1a817ff44e5786e0f94c22969d501ed33465424a
+source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
 workflow-type: tm+mt
-source-wordcount: '8421'
+source-wordcount: '8449'
 ht-degree: 0%
 
 ---
@@ -1271,11 +1271,13 @@ ht-degree: 0%
             + [Campagne is beëindigd](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
          + CRM {#crm}
             + Aanpassing Salesforce {#salesforce-customization}
-               + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/doc.md)
+               + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Salesforce-integratie {#salesforce-integration}
                + [Aanpassing Salesforce Activity Detail configureren](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Je Marketo-verkoopaccount verbinden met Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-marketo-sales-account-to-salesforce.md)
                + [Salesforce loskoppelen van acties voor verkoopinzicht](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
+               + [Logboekregistratie beantwoorden](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
+               + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Instellingen voor Salesforce Sync](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
          + E-mail {#email}
             + Opdrachtcentrum {#command-center}
@@ -1302,9 +1304,11 @@ ht-degree: 0%
                + [Een sjabloon gebruiken in het venster Samenstellen](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
          + Veelgestelde vragen {#faq}
             + [Kan ik meerdere ontvangers bijhouden met CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
+            + [Hoe bevestig ik &quot;wij konden uw verzoek&quot;niet voor authentiek verklaren wanneer het verbinden met Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Hoe voorkom ik zelfweergaven?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [Hoe werkt het bijhouden van locaties?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [Hoe verwerken de Handelingen van het Inzicht van de Verkoop E-mail het-Dupliceren?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
+            + [Waarom wordt de activiteit van het volgen niet getoond in salesforce activiteit?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Marketo {#marketo}
             + [Marketo-toegang verlenen aan gebruikers](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Een campagne zichtbaar maken voor Connect-gebruikers](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
