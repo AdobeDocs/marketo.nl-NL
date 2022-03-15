@@ -3,9 +3,9 @@ description: Salesforce Diagnostics - Marketo Docs - Productdocumentatie
 title: Salesforce Diagnostics
 hide: true
 hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1445'
 ht-degree: 0%
 
 ---
@@ -38,9 +38,9 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 **Wat gebeurt er?** Verificatie mislukt\
 **Stappen voor probleemoplossing:** Maak de verbinding met Salesforce los en maak vervolgens opnieuw verbinding.
 
-**Fout:** CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY\
+**Error:** CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY\
 **Categorie:** Toegang/validatie\
-**Bericht:** {&quot;errorCode&quot;:&quot;INVALID_SESSION_ID&quot;,&quot;message&quot;:&quot;Session expired or invalid&quot;}\
+**Message:** {&quot;errorCode&quot;:&quot;INVALID_SESSION_ID&quot;,&quot;message&quot;:&quot;Session expired or invalid&quot;}\
 **Wat gebeurt er?**
 
 1 - Trigger-code zorgt ervoor dat de update mislukt.\
@@ -48,7 +48,7 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 
 **Stappen voor probleemoplossing:**
 
-1 - Controleer de trigger die faalt.\
+1 - Review trigger that is failing.\
 2 - Biedt schrijftoegang aan de gebruiker voor het object OF schakelt de functie uit die naar het object probeert te schrijven.
 
 **Fout:** CANNOT_UPDATE_CONVERTED_LEAD\
@@ -131,15 +131,15 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 
 **Fout:** INVALID_FIELD_FOR_INSERT_UPDATE\
 **Categorie:** Toegang/validatie\
-**Bericht:** Kan geen velden maken/bijwerken: ToutApp__Tout_Last_Replied__c. Controleer de beveiligingsinstellingen van dit veld.
+**Bericht:** Kan geen velden maken/bijwerken: MSE_Replied__c. Controleer de beveiligingsinstellingen van dit veld.
 **Wat gebeurt er?** De gebruikers hebben geen schrijftoegang tot de de douanegebieden van de Acties van het Inzicht van de Verkoop nodig om de Recentste transactie van het Activiteitenlogboek uit te voeren. Team heeft mogelijk pakket geïnstalleerd, maar heeft de juiste velden voor de gebruikers niet ingeschakeld.\
 **Stappen voor probleemoplossing:** Salesforce Admin moet toegang tot de douanevelden verlenen OF het Meest recente registreren van de Activiteit uitzetten.
 
 **Fout:** INVALID_GRANT\
-**Categorie:** Verificatie\
-**Bericht:** invalid_Grant: ip beperkt\
+**Category:** Authentication\
+**Message:** invalid_grant: ip restricted\
 **Wat gebeurt er?** Wij proberen om tot uw Salesforce toegang te hebben, maar u hebt IP Beperkingen op zijn plaats die ons verhinderen dit te doen.\
-**Stappen voor probleemoplossing:** Uw Admin van Salesforce zal onze IPs moeten lijsten van gewenste personen. De gebruikers zouden zich moeten uitreiken aan Steun om de IP adressen te krijgen.
+**Troubleshooting Steps:** Your Salesforce Admin will need to allowlist our IPs. De gebruikers zouden zich moeten uitreiken aan Steun om de IP adressen te krijgen.
 
 **Fout:** INVALID_TYPE\
 **Categorie:** Toegang/validatie\
@@ -149,16 +149,16 @@ Een onderdeel van onze Salesforce-integratie is de pagina Salesforce Diagnostic 
 
 **Fout:** QUERY_TIMEOUT\
 **Categorie:** Intermitterend\
-**Bericht:** Uw queryverzoek is te lang uitgevoerd\
+**Message:** Your query request was running too long\
 **Wat gebeurt er?** Zie hierboven.\
 **Stappen voor probleemoplossing:** Dit moet worden verwerkt in logica voor opnieuw proberen. Als het nog niet werkt, werk met uw Admin van Salesforce om een problematische trekker problemen op te lossen.
 
 **Fout:** REQUEST_LIMIT_EXCEEDED\
-**Categorie:** Intermitterend\
-**Bericht:**
-1 - GelijktijdigePerOrgLongTxn-limiet overschreden\
+**Category:** Intermittent\
+**Message:**
+1 - ConcurrentPerOrgLongTxn Limit exceeded\
 2 - Limiet voor totale verzoeken overschreden\
-3 - Gelijktijdig verzoek\
+3 - ConcurrentRequest\
 **Wat gebeurt er?**
 1 - Gelijktijdige aanvraaglimiet overschreden, waarschijnlijk als gevolg van inefficiënte triggercode.\
 2 - Te veel integraties zetten de org voorbij het rolvenster van 24 uur.\
