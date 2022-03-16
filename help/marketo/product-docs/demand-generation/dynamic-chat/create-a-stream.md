@@ -2,16 +2,18 @@
 description: Een stream maken - Marketo Docs - Productdocumentatie
 title: Een stream maken
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # Een stream maken {#create-a-stream}
 
-Er zijn _veel_ streamcombinaties die u kunt maken. Hieronder ziet u een voorbeeld van situaties waarin de bezoeker van de site wordt gevraagd of hij productvragen heeft. Zo ja, dan kan de bezoeker een afspraak plannen. Zo neen, dan kan de bezoeker zich bij een mailinglijst aansluiten voor toekomstige correspondentie. Het doel is een afspraak te plannen of de e-mail van de bezoeker te verzamelen.
+Er zijn _veel_ streamcombinaties die u kunt maken. Dit artikel bevat een voorbeeld waarin de marketeter de sitebezoeker vraagt of hij productvragen heeft. Zo ja, dan kan de bezoeker een afspraak plannen. Zo neen, dan kan de bezoeker zich bij een mailinglijst aansluiten voor toekomstige correspondentie. Het doel is een afspraak te plannen of de e-mail van de bezoeker te verzamelen.
+
+![](assets/create-a-stream-0.png)
 
 1. Na u [uw dialoogvenster maken](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues.md#create-a-new-dialogue)klikt u op de knop **Stream Designer** tab.
 
@@ -108,9 +110,13 @@ Er zijn _veel_ streamcombinaties die u kunt maken. Hieronder ziet u een voorbeel
 
    ![](assets/create-a-stream-17.png)
 
-1. Wanneer u het dialoogvenster wilt activeren, klikt u op **Publiceren**.
+1. Klik op het voorvertoningspictogram aan de rechterkant om een voorvertoning van het dialoogvenster weer te geven.
 
    ![](assets/create-a-stream-18.png)
+
+1. Als u klaar bent om uw dialoogvenster te activeren, klikt u op **Publiceren**.
+
+   ![](assets/create-a-stream-19.png)
 
 >[!NOTE]
 >

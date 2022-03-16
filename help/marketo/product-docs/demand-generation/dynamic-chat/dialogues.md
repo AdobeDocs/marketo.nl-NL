@@ -2,9 +2,9 @@
 description: Dialoogvensters - Marketo Docs - Productdocumentatie
 title: Dialoogvensters
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Dialogen zijn individuele praatjegesprekken. Leer hoe u ze visueel kunt aanpasse
 
    ![](assets/dialogues-2.png)
 
-1. Voer een naam in (beschrijving is optioneel), stel het prioriteitsniveau in en klik op **Opslaan**.
+1. Kies een leeg dialoogvenster of een van de vooraf ingevulde sjablonen. Voer een naam in (beschrijving is optioneel), wijzig het prioriteitsniveau (optioneel) en klik op **Maken**.
 
    ![](assets/dialogues-3.png)
 
