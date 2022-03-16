@@ -1,26 +1,25 @@
 ---
-description: Een lijst naar een advertentienetwerk verzenden - Marketo Docs - Productdocumentatie
+description: Een lijst verzenden naar een advertentienetwerk - Marketo Docs - Productdocumentatie
 title: Een lijst verzenden naar een advertentienetwerk
-translation-type: tm+mt
-source-git-commit: 2d03d93e120c8b3ce359c6aca44730cfa7c16bf9
+exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
+# Een lijst verzenden naar een advertentienetwerk {#send-a-list-to-an-ad-network}
 
-# Een lijst naar een advertentienetwerk verzenden {#send-a-list-to-an-ad-network}
+Leer hoe u een statische lijst naar LinkedIn, Facebook of Google verzendt.
 
-Leer hoe u een statische lijst verzendt naar LinkedIn, Facebook of Google.
+## Een lijst verzenden {#how-to-send-a-list}
 
-## Hoe te om een Lijst {#how-to-send-a-list} te verzenden
-
-1. Selecteer in Marketo de lijst, klik op de vervolgkeuzelijst **Handelingen weergeven** en selecteer **Verzenden naar netwerk toevoegen**.
+1. Selecteer in Marketo de lijst en klik op de knop **Handelingen weergeven** en selecteert u **Verzenden naar advertentienetwerk**.
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Kies tussen LinkedIn, Facebook of Google (de andere opties zijn momenteel niet beschikbaar). In dit voorbeeld, kiezen wij **LinkedIn**. Klik **Volgende**.
+1. U kunt kiezen tussen LinkedIn, Facebook of Google (de andere opties zijn momenteel niet beschikbaar). In dit voorbeeld kiezen we **linkedIn**. Klikken **Volgende**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
@@ -32,15 +31,15 @@ Leer hoe u een statische lijst verzendt naar LinkedIn, Facebook of Google.
    >
    >Als u ooit moet controleren, kunt u het bestemmingspubliek zien dat een lijst aan via het lusje van de Status wordt gesynchroniseerd.
 
-1. Kies het gewenste type duw en klik **Update**.
+1. Kies het gewenste pushtype en klik op **Bijwerken**.
 
    ![](assets/send-a-list-to-an-ad-network-4.png)
 
    >[!NOTE]
    >
-   >Als u &quot;toelaten ononderbroken publiekssynchronisatie,&quot;Marketo selecteert houdt de lijst bijgewerkt in het gekozen Netwerk van de Advertentie aangezien het lijstlidmaatschap in uw instantie Marketo verandert.
+   >Als u &quot;Ononderbroken publiekssynchronisatie inschakelen&quot; selecteert, houdt Marketo de lijst up-to-date in het gekozen Advertentienetwerk terwijl de lijst in uw Marketo-instantie verandert. We voegen beide toe **en** Personen uit het publiek verwijderen als ze worden toegevoegd aan of verwijderd uit de statische lijst.
 
-1. En dat is het! Klik **OK** om af te sluiten.
+1. En dat is het! Klikken **OK** om af te sluiten.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 

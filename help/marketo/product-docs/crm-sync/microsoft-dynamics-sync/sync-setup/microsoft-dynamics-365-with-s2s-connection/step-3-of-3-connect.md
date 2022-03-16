@@ -3,7 +3,7 @@ unique-page-id: 3571830
 description: Stap 3 van 3 - Verbind de Oplossing van Marketo met Server aan de Verbinding van de Server - de Documenten van Marketo - de Documentatie van het Product
 title: Stap 3 van 3 - Verbind de Oplossing van Marketo met de Verbinding van de Server aan
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 48b8289994e000eafd72982ac1b4a0a809b10bab
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -54,7 +54,7 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
    >
    >Controleer of de URL van uw org correct is omdat we de volgende schemawijzigingen na verzending niet kunnen herstellen. Als een onjuiste URL voor de organisatie wordt gebruikt, moet u een nieuw Marketo-abonnement aanvragen. Als u de URL niet kent, [hier leren vinden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
-1. Voer de **Gebruikersnaam**, **Wachtwoord**, **Client-id**, **Clientgeheim**, en Microsoft Dynamics **URL**. Klikken **Opslaan** wanneer gereed.
+1. Voer de gebruikersgegevens voor Dynamische synchronisatie in en klik op **Opslaan** wanneer gereed.
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 

@@ -2,14 +2,13 @@
 unique-page-id: 2359768
 description: Een opiniepeiling maken - Marketo Docs - Productdocumentatie
 title: Een opiniepeiling maken
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
+source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Een opiniepeiling maken {#create-a-poll}
 
@@ -23,11 +22,11 @@ Betaal mensen met een opiniepeiling die ze kunnen inbrengen en deel ze met hun v
 >
 >Als u afbeeldingen in uw opiniepeiling wilt gebruiken, voegt u deze toe aan uw Marketo-bibliotheek met afbeeldingen en bestanden voordat u begint. Voeg een afbeelding van 60 x 60 px toe voor elk opiniepeilingitem. Zie [Afbeeldingen en bestanden toevoegen aan Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Selecteer **Nieuw** > **Nieuw lokaal element** in uw programma.
+1. Kies in uw programma de optie **Nieuw** > **Nieuw lokaal element**.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. Klik in **Local Asset Gallery** op **Poll**.
+1. In de **Lokale middelengalerie**, klikt u op **Opiniepeiling**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -37,7 +36,7 @@ Betaal mensen met een opiniepeiling die ze kunnen inbrengen en deel ze met hun v
 
    >[!TIP]
    >
-   >Als u tijd wilt besparen, kunt u de optie **Klonen uit** gebruiken om alle instellingen van een bestaande gedeelde video te kopiëren.
+   >Als u tijd wilt besparen, kunt u de opdracht **Klonen uit** Hiermee kopieert u alle instellingen van een bestaande gedeelde video.
 
 1. Geef uw opiniepeiling een kop (meestal een korte vraag).
 
@@ -47,7 +46,7 @@ Betaal mensen met een opiniepeiling die ze kunnen inbrengen en deel ze met hun v
 
    ![](assets/image2014-9-18-18-3a19-3a23.png)
 
-1. Als u een item wilt toevoegen, klikt u op het symbool **+** en bewerkt u de titel en beschrijving.
+1. Als u een item wilt toevoegen, klikt u op de knop **+** en bewerk de titel en beschrijving.
 
    ![](assets/image2014-9-18-18-3a19-3a30.png)
 
@@ -55,7 +54,7 @@ Betaal mensen met een opiniepeiling die ze kunnen inbrengen en deel ze met hun v
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Selecteer de afbeelding die u nodig hebt en klik op **Select**.
+1. Selecteer de afbeelding die u nodig hebt en klik op **Selecteren**.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
@@ -63,18 +62,22 @@ Betaal mensen met een opiniepeiling die ze kunnen inbrengen en deel ze met hun v
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
-1. Klik **Goedkeuren** en **Sluiten.**
+1. Klikken **Goedkeuren** en **Sluiten.**
 
    ![](assets/image2014-9-18-18-3a19-3a57.png)
 
-De opiniepeilingseditor wordt in een nieuw venster geopend. De standaardinstellingen zijn allemaal goed, maar u moet nog wel uw opiniepeilinggegevens toevoegen. In de volgende stappen laten we u zien hoe.
+De opiniepeilingseditor wordt in een nieuw venster geopend. De standaardinstellingen zijn allemaal goed, maar u moet toch uw opiniepeilinggegevens toevoegen. In de volgende stappen laten we u zien hoe.
 
 >[!TIP]
 >
->Om om het even welke gebreken in uw opiniepeiling te veranderen, klik **Terug**. Als u uw werk voor later wilt opslaan zonder het goed te keuren, klikt u op **Sluiten**.
+>Als u de standaardinstellingen in uw opiniepeiling wilt wijzigen, klikt u op **Vorige**. Als u uw werk voor later wilt opslaan zonder het goed te keuren, klikt u op **Sluiten**.
 
-Als er problemen zijn in de opiniepeiling, wordt u gevraagd deze te verhelpen voordat de opiniepeiling wordt goedgekeurd. Gefeliciteerd! U hebt uw opiniepeiling gemaakt.
+Als er problemen zijn in de opiniepeiling, wordt u gevraagd deze te verhelpen voordat de opiniepeiling wordt goedgekeurd.
+
+>[!IMPORTANT]
+>
+>Een opiniepeiling kan niet meer worden bewerkt nadat een stemming is ingediend.
 
 >[!MORELIKETHIS]
 >
->De volgende stap is om uw opiniepeiling [te publiceren, maar u kunt de montages van uw opiniepeiling indien nodig veranderen. ](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md) Begin met [het aanpassen van de opiniepeilingsmontages](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
+>De volgende stap is: [uw opiniepeiling publiceren](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), maar u kunt desgewenst de instellingen van de opiniepeiling wijzigen. Beginnen met [de opiniepeilingsinstellingen aanpassen](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
