@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
 workflow-type: tm+mt
-source-wordcount: '8456'
+source-wordcount: '8458'
 ht-degree: 0%
 
 ---
@@ -1323,6 +1323,7 @@ ht-degree: 0%
                + [Kolommen met personenpagina&#39;s](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Telefoonnummer {#phone}
             + [Schakel Call Recording in](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+            + [Lokale aanwezigheid](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [Instellingen voor tweeledige toestemming](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + Salesforce-configuratie {#salesforce-configuration}
             + [Configuratie van de Acties van het Inzicht van de verkoop in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
