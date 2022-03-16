@@ -2,9 +2,9 @@
 description: Dynamic Chat verbinden met Marketo - Marketo Docs - Productdocumentatie
 title: Dynamische chat met Marketo verbinden
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: bb2620ab72987cf857a7144aca21e94a11f29d90
+source-git-commit: 6658aa559890f2a0524eb0bb8207fbfae68f1753
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Nadat u de [eerste installatie](/help/marketo/product-docs/demand-generation/dyn
 
    ![](assets/connect-dynamic-chat-to-marketo-3.png)
 
-1. Selecteer maximaal 50 standaard of aangepaste velden die u wilt synchroniseren met Dynamic Chat. Klikken **Volgende** wanneer gereed.
+1. Selecteer maximaal 50 standaard- of aangepaste velden van uw Marketo-instantie tot synchronisatie met Dynamic Chat voor gebruik bij doelgroepen, gegevenstoewijzing en personalisatie. Klikken **Volgende** wanneer gereed.
 
    ![](assets/connect-dynamic-chat-to-marketo-4.png)
 
@@ -39,7 +39,7 @@ Nadat u de [eerste installatie](/help/marketo/product-docs/demand-generation/dyn
    >
    >Kenmerkselecties **kan** worden gewijzigd na de eerste synchronisatie. Wanneer het synchroniseren is voltooid, kunt u alleen teruggaan en meer toevoegen (als u minder dan 50 hebt gekozen).
 
-1. Controleer of u de juiste selecties hebt (herinnering: u kunt kenmerken niet na synchronisatie verwijderen, dus klik **Selecties bewerken** (als u een element in deze stap moet wijzigen). Klikken **Bevestigen** als u klaar bent om de synchronisatie te starten.
+1. Bekijk uw selecties (herinnering: u kunt kenmerken niet na synchronisatie verwijderen, dus klik **Selecties bewerken** (als u een element in deze stap moet wijzigen). Klikken **Bevestigen** als u klaar bent om de synchronisatie te starten.
 
    ![](assets/connect-dynamic-chat-to-marketo-5.png)
 
