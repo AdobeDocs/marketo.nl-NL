@@ -3,9 +3,9 @@ unique-page-id: 2359478
 description: E-mailkoppelingprestatierapport - Marketo Docs - Productdocumentatie
 title: E-mailkoppelingsprestatierapport
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
-source-git-commit: 45c6ee83acefb63deec37504521a3dabb9eb4d22
+source-git-commit: 36315cda6932121da3656ba1ae3495401b321135
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -73,7 +73,7 @@ Maak een e-mailkoppelingprestatierapport om te zien hoe goed de koppelingen in u
 
 >[!NOTE]
 >
->In dit rapport wordt &quot;beschadigde koppeling&quot; weergegeven wanneer er ongeldige/lege koppelingen aan e-mails worden toegevoegd. Als dit bericht wordt weergegeven, [de HTML-bron controleren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) in de e-maileditor voor lege koppelingen of tokens die geen volledige koppeling bevatten.
+>In dit rapport wordt &quot;beschadigde koppeling&quot; weergegeven wanneer ongeldige/lege koppelingen aan een e-mail worden toegevoegd. Als dit bericht wordt weergegeven, [de HTML-bron controleren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) in de e-maileditor voor lege koppelingen of tokens die geen volledige koppeling bevatten.
 
 >[!TIP]
 >
