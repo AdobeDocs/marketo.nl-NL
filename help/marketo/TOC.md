@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: e377b38a29b3fb8678236fa202a68220f802bb88
+source-git-commit: a0cfc190e00ea6f8a9f5ef717566651423638b7d
 workflow-type: tm+mt
-source-wordcount: '8458'
+source-wordcount: '8475'
 ht-degree: 0%
 
 ---
@@ -1312,6 +1312,9 @@ ht-degree: 0%
          + Marketo {#marketo}
             + [Marketo-toegang verlenen aan gebruikers](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Een campagne zichtbaar maken voor Connect-gebruikers](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+            + [Triggers en filters voor verkoopactiviteiten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
+            + [Overzicht van de activiteiten van Handelingen van het Inzicht van de verkoop](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
+            + [Uw Marketo-verbinding instellen](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
          + Mensen {#people}
             + [Persoonsgegevens weergeven](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Handelingen voor het toezicht op de verkoop en naleving van GDPR](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
@@ -1323,6 +1326,7 @@ ht-degree: 0%
                + [Kolommen met personenpagina&#39;s](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Telefoonnummer {#phone}
             + [Schakel Call Recording in](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
+            + [International Calling](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Lokale aanwezigheid](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [Instellingen voor tweeledige toestemming](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
          + Salesforce-configuratie {#salesforce-configuration}
