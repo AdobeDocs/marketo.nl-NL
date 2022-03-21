@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: e42b1f7e32ab0b70a344cad17c3d25e9d8129124
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '8573'
+source-wordcount: '8589'
 ht-degree: 0%
 
 ---
@@ -1317,9 +1317,12 @@ ht-degree: 0%
             + [Wat zijn de nieuwste clientversies?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
             + [Wat zijn de voorwaarden van de Acties van het Inzicht van de Verkoop van de Dienst?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [Waarom worden mijn contacten niet geduwd op de acties van het Inzicht van de Verkoop?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [Waarom vullen mijn dynamische velden niet uit?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
             + [Waarom kan ik geen contactpersoon verwijderen?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Waarom werden niet al mijn contacten geduwd op de acties van het Inzicht van de Verkoop?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Waarom wordt de activiteit van het volgen niet getoond in salesforce activiteit?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
+         + Integraties {#integrations}
+            + [E-mails loggen naar een externe bron](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [Marketo-toegang verlenen aan gebruikers](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Een campagne zichtbaar maken voor Connect-gebruikers](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
@@ -1350,6 +1353,7 @@ ht-degree: 0%
             + [Herinnering taaksynchronisatie met Salesforce](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
          + Sjablonen {#templates}
             + [Hyperlinktekst toevoegen](product-docs/marketo-sales-insight/actions/templates/add-hyperlinked-text.md)
+            + [Dynamische velden](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [Sjablonen beheren](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
             + [Sjablooncategorieën beheren](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [Aanbevolen sjablonen](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)

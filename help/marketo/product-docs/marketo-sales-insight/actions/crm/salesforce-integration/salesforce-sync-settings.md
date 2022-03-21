@@ -4,9 +4,9 @@ title: Instellingen voor Salesforce Sync
 hide: true
 hidefromtoc: true
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: acb077e9d6e9fa4027d660ee182a13820f16ad83
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -114,3 +114,21 @@ Als Mijn e-mail naar Salesforce niet wordt weergegeven onder de instellingen, is
 1. Kies de gewenste optie (Synchroniseren met Salesforce-taken is standaard ingeschakeld).
 
    ![](assets/salesforce-sync-settings-14.png)
+
+## De Taken van de Acties van het Inzicht van de Verkoop met Salesforce voor de eerste keer synchroniseren {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
+
+Wanneer u eerst de synchronisatie tussen de Acties van het Inzicht van de Verkoop en de taken van Salesforce aanzet, voeren wij uw taken van Salesforce in. Wij zullen niet over om het even welke huidige taken duwen u in de Acties van het Inzicht van de Verkoop aan Salesforce hebt. Om rommelige en duplicaten te verminderen, zijn de enige taken die van de Acties van het Inzicht van de Verkoop in Salesforce worden gesynchroniseerd taken die worden gecreeerd nadat u de Acties van het Inzicht van de Verkoop met SFDC synchroniseert.
+
+Dit is wat er gebeurt wanneer u Handelingen van het Inzicht van de Verkoop en taken SFDC synchroniseert:
+
+Zodra u op Opslaan klikt voor het synchroniseren van taken, wordt er gesynchroniseerd. Dit zal aanvankelijk enige tijd duren.
+
+Herinneringen die in de afgelopen 24 uur zijn bijgewerkt of gemaakt, worden van SFDC naar Handelingen in het verkoopinzicht geactiveerd. De synchronisatie is gebaseerd op de vervaldatum en al die taken zullen op het achterste eind worden gesynchroniseerd, maar in het Centrum van het Bevel, zult u slechts taken zien die vandaag en morgen verschuldigd zijn.
+
+Als synchronisatie eerder is ingeschakeld en u taken verwijdert in SFDC, wordt alles wat in de afgelopen 15 dagen is verwijderd, verwijderd uit Command Center.
+
+We synchroniseren taken voortdurend tussen Sales Insight Actions en SFDC zolang de synchronisatie is ingeschakeld.
+
+Na de eerste synchronisatie worden alle taken die u maakt, bewerkt, voltooit of verwijdert in Handelingen voor Verkoopcontrole gesynchroniseerd met de takenlijst in Salesforce. En om het even wat gecreeerd, uitgegeven, voltooid, of geschrapt in Salesforce zal uw takenlijst in de Acties van het Inzicht van de Verkoop bijwerken.
+
+Als u deze synchronisatie wilt inschakelen, schakelt u gewoon het synchronisatievak in op de pagina Instellingen in de webtoepassing.

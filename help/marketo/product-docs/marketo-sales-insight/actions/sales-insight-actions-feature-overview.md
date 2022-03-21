@@ -2,9 +2,9 @@
 description: Overzicht van Sales Insight Actions - Marketo Docs - Productdocumentatie
 title: Overzicht van de functie Handelingen Handelingen in het verkoopoverzicht
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
 workflow-type: tm+mt
-source-wordcount: '1316'
+source-wordcount: '1336'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # Overzicht van de functie Handelingen Handelingen in het verkoopoverzicht {#msi-actions-feature-overview}
 
 Versnel de prospectieve inspanningen met marketing-aangedreven intelligentie en betrokkenheidshulpmiddelen in één enkele werkschema gebruikend de Acties van het Inzicht van de Verkoop.
+
+>[!AVAILABILITY]
+>
+>Deze functie is momenteel beschikbaar voor beperkte GA. Neem contact op met uw Customer Success Manager of e-mail `sales-insights(at)adobe(dot)com` om toegang aan te vragen.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
