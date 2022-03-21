@@ -1,10 +1,8 @@
 ---
 description: Logboekkenmerken van verkoopactiviteiten aan Salesforce - Marketo Docs - Productdocumentatie
 title: Kenmerken verkoopactiviteit registreren voor Salesforce
-hide: true
-hidefromtoc: true
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 94f89e64b69d3997effe6736241a68f8314db1e6
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 1%
@@ -17,9 +15,9 @@ Salesforce-beheerder kan handmatig aangepaste activiteitsvelden toevoegen aan Sa
 
 1. Klik in uw Salesforce-account op **Instellen**.
 
-1. Search for “Activity Custom Fields” in the quick search field and click on it.
+1. Zoek naar de &quot;Velden van de Douane van de Activiteit&quot;in het snelle onderzoeksgebied en klik op het.
 
-1. Click **New**.
+1. Klikken **Nieuw**.
 
 1. Selecteer Gegevenstype dat overeenkomt met het veld dat u wilt toevoegen op basis van de onderstaande tabel en klik op **Volgende**.
 
@@ -45,7 +43,7 @@ Beschrijving van elke kolom in de onderstaande tabel:
   <td>Lokale aanwezigheid-id van Marketo Sales Call</td>
   <td>MSE_Call_Local_Presence_ID</td>
   <td>MSE_Call_Local_Presence_ID__c</td>
-  <td>Text</td>
+  <td>Tekst</td>
   <td>255</td>
  </tr>
  <tr>
@@ -58,7 +56,7 @@ Beschrijving van elke kolom in de onderstaande tabel:
  <tr>
   <td>Marketo-verkoopcampagne</td>
   <td>MSE_Campaign</td>
-  <td>MSE_Campaign__c</td>
+  <td>MSE_Campaign_c</td>
   <td>Tekst</td>
   <td>255</td>
  </tr>
@@ -77,7 +75,7 @@ Beschrijving van elke kolom in de onderstaande tabel:
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Sales Email Attachment Viewed</td>
+  <td>Marketo Verkoop-e-mailbijlage weergegeven</td>
   <td>MSE_Presentation_Viewed</td>
   <td>MSE_Presentation_Viewed_c</td>
   <td>Selectievakje</td>
@@ -108,7 +106,7 @@ Beschrijving van elke kolom in de onderstaande tabel:
   <td>Marketo Sales-e-mailsjabloon</td>
   <td>MSE_Template</td>
   <td>MSE_Template__c</td>
-  <td>Text</td>
+  <td>Tekst</td>
   <td>255</td>
  </tr>
  <tr>
@@ -119,7 +117,7 @@ Beschrijving van elke kolom in de onderstaande tabel:
   <td></td>
  </tr>
  <tr>
-  <td>Marketo Sales Email URL</td>
+  <td>Marketo Verkoop-e-mailURL</td>
   <td>MSE_Details</td>
   <td>MSE_Details__c</td>
   <td>URL</td>

@@ -1,10 +1,8 @@
 ---
 description: Overzicht van Sales Insight Actions - Marketo Docs - Productdocumentatie
 title: Overzicht van de functie Handelingen Handelingen in het verkoopoverzicht
-hide: true
-hidefromtoc: true
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: d50176e43732a1ce827db46fa2d0fd630c129243
+source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 0%
@@ -23,7 +21,7 @@ De volgende acties zijn beschikbaar in de vervolgkeuzelijst &quot;Handelingen ki
 
 * Verkoop-e-mail verzenden
    * E-mails over verkoop bevatten weergave, klikken en antwoorden bijhouden (wanneer het leveringskanaal is ingesteld)
-   * Inclusief personalisatie via e-mail, aangepaste handtekening en bijlagen
+   * Inclusief e-mail Personalization, aangepaste handtekening en bijlagen
    * Sjablonen delen en rapporten
    * Team delen, groep e-mails en CC/BCC-mogelijkheden
    * Verkoop-e-mailactiviteiten worden aangemeld bij de persoonlijke gegevens van Marketo
@@ -75,7 +73,7 @@ De volgende acties zijn beschikbaar bij de hoogste nav:
 
 * E-mail over verkoop verzenden - Mogelijkheid om gepersonaliseerde of getemplatificeerde groepse e-mails te verzenden met weergave, klik en antwoord het volgen aan alle contacten verbonden aan een rekening/kans
    * E-mails over verkoop bevatten weergave, klikken en antwoorden bijhouden (wanneer het leveringskanaal is ingesteld)
-   * Inclusief personalisatie via e-mail, aangepaste handtekening en bijlagen
+   * Inclusief e-mail Personalization, aangepaste handtekening en bijlagen
    * Sjablonen delen en rapporten
    * Team delen, groep e-mails en CC/BCC-mogelijkheden
    * Verkoop-e-mailactiviteiten worden aangemeld bij de persoonlijke gegevens van Marketo
