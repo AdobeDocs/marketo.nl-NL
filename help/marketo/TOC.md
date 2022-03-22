@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: 2f86e4df7dec01ece6ef820674f84fd1ae8ebaf2
 workflow-type: tm+mt
-source-wordcount: '8589'
+source-wordcount: '8601'
 ht-degree: 0%
 
 ---
@@ -1269,6 +1269,7 @@ ht-degree: 0%
          + Campagnes {#campaigns}
             + [Toevoegen aan marketingcampagne](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [Campagne is beëindigd](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [Lijst met campagnes weergeven als een andere gebruiker](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Aanpassing Salesforce {#salesforce-customization}
                + [Doc](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
@@ -1325,6 +1326,7 @@ ht-degree: 0%
             + [E-mails loggen naar een externe bron](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
          + Marketo {#marketo}
             + [Marketo-toegang verlenen aan gebruikers](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
+            + [Interesserende momenten in de acties van het Inzicht van de Verkoop](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [Een campagne zichtbaar maken voor Connect-gebruikers](product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
             + [Triggers en filters voor verkoopactiviteiten](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Overzicht van de activiteiten van Handelingen van het Inzicht van de verkoop](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
