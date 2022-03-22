@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c3b03dd3662ccd470bdf6480df8e5b3a88d1ae3b
+source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '803'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,9 @@ De volgende functies worden vrijgegeven op **11 maart 2022**, met een gefaseerde
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-* **Dynamische chat**: Maximaliseer elke kans op uw website door zowel leads als accounts te richten met proactieve, aansprekende en 1:1 persoonlijke gesprekken. Met Dynamic Chat kunnen Marketo Engage-gebruikers chatten gebruiken als een belangrijk onderdeel van geïntegreerde interkanaalervaringen voor B2B-marketing en -verkoopgebruik. Functies: de capaciteit om vergaderingen direct binnen het praatje te boeken, lood verpletterend, starter malplaatjes, belemmering-en-dalingsgespreksverwezenlijking, en veel meer. Dynamic Chat wordt opgenomen in alle pakketten Marketo Engage en wordt dit jaar aan alle gebruikers van Marketo Engage toegevoegd.
+* **Dynamische chat**: Maximaliseer elke kans op uw website door zowel leads als accounts te richten met proactieve, aansprekende en 1:1 persoonlijke gesprekken. [Dynamische chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)Met {target=&quot;_blank&quot;} kunnen Marketo Engage-gebruikers chatten gebruiken als een belangrijk onderdeel van geïntegreerde interkanaalervaringen voor B2B-marketing en -verkoopgebruik. Functies: de capaciteit om vergaderingen direct binnen het praatje te boeken, lood verpletterend, starter malplaatjes, belemmering-en-dalingsgespreksverwezenlijking, en veel meer. Dynamic Chat wordt opgenomen in alle pakketten Marketo Engage en wordt dit jaar aan alle gebruikers van Marketo Engage toegevoegd.
 
-* **Verbetering van objectiefilters voor e-mail**: Als uitbreiding op de eerder vrijgegeven functie voor het filteren van de activiteit van de e-mail, kunt u nu inlogactiviteiten kiezen die als bots worden geïdentificeerd. U kunt vervolgens handelingen filteren en activeren op basis van activiteiten die door bots worden aangeduid als uitgevoerd.
+* **Verbetering van objectiefilters voor e-mail**: Als een verbetering aan eerder vrijgegeven [Filteren van activiteit e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;} nu kunt u zich aanmelden bij logactiviteiten die als bots worden geïdentificeerd. U kunt vervolgens handelingen filteren en activeren op basis van activiteiten die door bots worden aangeduid als uitgevoerd.
 
 ## Ervaring van de volgende generatie {#next-generation-experience}
 
@@ -36,7 +36,7 @@ De volgende functies worden vrijgegeven op **11 maart 2022**, met een gefaseerde
 
 * **Update voor programmaworkflow importeren**: De workflow voor het importprogramma wordt geleverd in de volgende generatie ervaring met een bijgewerkt ontwerp en verbeterde bruikbaarheid. Dit zal een automatische verandering zonder een knevelschakelaar zijn.
 
-* **Beheerderscontrole voor de schakelaar van de Ervaring van de Volgende generatie**: Beheer de implementatie van de volgende generatie op een manier die geschikt is voor uw gebruikers en waarbij beheerders kunnen selecteren welke gebruikerstypen toegang kunnen krijgen tot de schakeloptie.
+* **Beheerderscontrole voor de schakelaar van de Ervaring van de volgende generatie**: Beheer de implementatie van de volgende generatie op een manier die geschikt is voor uw gebruikers en waarbij beheerders kunnen selecteren welke gebruikerstypen toegang kunnen krijgen tot de schakeloptie.
 
 ## Experience Automation {#experience-automation}
 
@@ -54,6 +54,7 @@ De volgende functies worden vrijgegeven op **11 maart 2022**, met een gefaseerde
 * **Bulk aangepast object exporteren bijgewerkt op filter**: Hiermee kunnen marketers aangepaste objecten programmatisch synchroniseren
 * **Startinstelling voor hoofd weergeven voor e-mailprogramma&#39;s**: Hiermee kunnen marketers e-mailprogramma&#39;s configureren met head start via API
 * **Selective Program Tag Update**: Hiermee kunnen marketers updates van selectieve tags uitvoeren zonder alle tags tegelijk te hoeven doordrukken
+* **Bulkactiviteitsextractie actionResult, veld**: Hiermee kunnen marketers vaststellen welke activiteiten zijn overgeslagen of mislukt
 
 **_Vrijgeven door het Kwartaal_**
 
