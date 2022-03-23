@@ -2,16 +2,16 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: f2653a21eaa8c353afb0a1634a3301e3b6d5ab2d
+source-git-commit: c0699a888c6763f164e197395883c1c435fb782c
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release: maart 2022 {#release-notes-mar-22}
 
-De volgende functies zijn opgenomen in de release van 22 maart. Controleer de Adobe Marketo Engage-editie van uw voor de beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van 22 maart. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -31,12 +31,11 @@ De volgende functies worden vrijgegeven op **11 maart 2022**, met een gefaseerde
 
 * **Bijgewerkte schermen in de volgende generatie ervaring**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
 
-   * E-maillijstweergave in Design Studio (inclusief nieuwe bulkacties)
    * De Mening van de Lijst van de vorm in de Studio van het Ontwerp (met inbegrip van nieuwe bulkacties)
 
 * **Update voor programmaworkflow importeren**: De workflow voor het importprogramma wordt geleverd in de volgende generatie ervaring met een bijgewerkt ontwerp en verbeterde bruikbaarheid. Dit zal een automatische verandering zonder een knevelschakelaar zijn.
 
-* **Beheerderscontrole voor de schakelaar van de Ervaring van de volgende generatie**: Beheer de implementatie van de volgende generatie op een manier die geschikt is voor uw gebruikers en waarbij beheerders kunnen selecteren welke gebruikerstypen toegang kunnen krijgen tot de schakeloptie.
+* **Beheerderscontrole voor de schakelaar van de Ervaring van de Volgende generatie**: Beheer de implementatie van de volgende generatie op een manier die geschikt is voor uw gebruikers en waarbij beheerders kunnen selecteren welke gebruikerstypen toegang kunnen krijgen tot de schakeloptie.
 
 ## Experience Automation {#experience-automation}
 
