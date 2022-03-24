@@ -1,9 +1,8 @@
 ---
 description: Hoe los ik "Wij konden uw verzoek niet voor authentiek verklaren"wanneer het verbinden met Salesforce - Marketo Docs - de Documentatie van het Product
 title: Hoe bevestig ik "wij konden uw verzoek"niet voor authentiek verklaren wanneer het verbinden met Salesforce
-hide: true
-hidefromtoc: true
-source-git-commit: c398aff77e09f4a63db5d51af55178aa663ec98e
+exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%

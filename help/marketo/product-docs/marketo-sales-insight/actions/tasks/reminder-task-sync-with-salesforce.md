@@ -1,10 +1,8 @@
 ---
 description: Herinnering taaksynchronisatie met Salesforce - Marketo Docs - Productdocumentatie
 title: Herinnering taaksynchronisatie met Salesforce
-hide: true
-hidefromtoc: true
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
-source-git-commit: af968d119364172278d48873153a349a983133e4
+source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 0%
