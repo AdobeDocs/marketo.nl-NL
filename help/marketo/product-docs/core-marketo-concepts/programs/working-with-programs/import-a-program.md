@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Een programma importeren - Marketo Docs - Productdocumentatie
 title: Een programma importeren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: a64c499f6972e94adfecbe164d86f7db1b1447aa
+source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het a
 
 1. Ga naar **Marketingactiviteiten.**
 
-   ![](assets/ma.png)
+   ![](assets/import-a-program-1.png)
 
 1. Klikken **Nieuw** vervolgkeuzelijst. Selecteren **Importprogramma**.
 
-   ![](assets/image2014-9-17-12-3a15-3a4.png)
+   ![](assets/import-a-program-2.png)
 
    >[!NOTE]
    >
@@ -32,23 +32,23 @@ Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het a
 
 1. Een Marketo selecteren **Abonnement** en een invoerprogramma. Klikken **Volgende**.
 
-   ![](assets/image2014-9-17-12-3a20-3a13.png)
+   ![](assets/import-a-program-3.png)
 
 1. Geef een **Campagnemap** voor het geïmporteerde programma. Klikken **Volgende.**
 
-   ![](assets/image2014-9-17-12-3a20-3a44.png)
+   ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
    >Controleer of **Standaardconflict gebruiken** Er zijn regels geselecteerd. Conflictregels zijn nodig wanneer u programma&#39;s importeert in een instantie met elementen met dezelfde naam.
 
+1. Kies de gewenste conflictdetails en klik op **Volgende**.
+
+   ![](assets/import-a-program-5.png)
+
 1. Details voorvertonen en **Importeren** het programma.
 
-   ![](assets/image2014-9-17-12-3a21-3a36.png)
-
-   In een dialoogvenster wordt de voortgang van het importeren van het programma weergegeven.
-
-   ![](assets/image2014-9-17-12-3a21-3a51.png)
+   ![](assets/import-a-program-6.png)
 
 U ontvangt een e-mailbevestiging nadat het importeren is voltooid.
 
@@ -67,7 +67,7 @@ De Marketo Program Library bevat vooraf gebouwde, geteste programma&#39;s die u 
 1. **Interesserende momenten.** Creeert interessante momenten voor uw verkoopteam om hen in de lijn te houden.
 1. **Openingspagina met Autoresponder.** Gebruik downloadbare inhoud om nieuwe mensen te krijgen en te voeden. Inclusief openingspagina&#39;s en formulieren.
 1. **Levenscyclus 2.** Gebruikt score om een persoon van nieuw aan marketing gekwalificeerd te bewegen.
-1. **Mobiele e-mailsjabloon.** Een responsieve e-mailsjabloon die is getest op iPhone en Android. Bepaalde versies van Android-, MS Outlook-, Exchange- en apps van derden, zoals Gmail en Yahoo! Mobiele apps voor e-mail bieden geen ondersteuning voor de CSS die vereist is voor responsieve sjablonen. We raden je aan te testen voordat je e-mailberichten verzendt.
+1. **Mobile-e-mailsjabloon.** Een responsieve e-mailsjabloon die is getest op iPhone en Android. Bepaalde versies van Android-, MS Outlook-, Exchange- en apps van derden, zoals Gmail en Yahoo! Mobiele apps voor e-mail bieden geen ondersteuning voor de CSS die vereist is voor responsieve sjablonen. We raden je aan te testen voordat je e-mailberichten verzendt.
 1. **Programma Import Sweepstakes.** Zoek naar een programma voor degenen die de programmabibliotheek proberen! Goedkeuren van de e-mails en de bestemmingspagina en activeren de slimme campagne. Geef vervolgens de goedgekeurde bestemmingspagina weer, vul het formulier in en u bent ingegaan!
 1. **Beschikbare verkoopcampagnes.** Biedt uw verkopers een manier om slimme campagnes van Marketo van een Dashboard in uw CRM uit te voeren.
 1. **Scoring - Spark Edition.** Demografische en gedragsscoring die in één enkel scoreveld is vastgelegd. Bevat meer dan twee dozijn scoring-campagnes.

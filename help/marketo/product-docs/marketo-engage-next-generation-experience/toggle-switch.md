@@ -2,9 +2,9 @@
 description: Schakelen tussen Marketo-documenten - productdocumentatie
 title: Schakelaar schakelen
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 0a95d8ec257323332ac046ab4a92c9d3cbab8da6
+source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -17,29 +17,31 @@ Met de schakeloptie kunt u schakelen tussen de klassieke Marketo-interface en de
 >
 >Als de schakeloptie in-/uitschakelen is geselecteerd, worden alle bestaande workflows automatisch opgeslagen voordat de gebruikersinterface wordt gewijzigd. Als een bewerking al wordt uitgevoerd (bijvoorbeeld: een middel wordt goedgekeurd), zult u een foutenmelding ontvangen die als dusdanig wijst en zou opnieuw moeten proberen nadat de verrichting wordt voltooid.
 
+## Schakel schakelen tussen voor afzonderlijke rollen {#enable-the-toggle-switch-for-individual-roles}
+
+Schakel de schakeloptie voor afzonderlijke rollen of alle rollen in. Zo gaat het.
+
+1. Klik in Marketo Engage op **Beheer**.
+
+   ![](assets/toggle-switch-1.png)
+
+1. Klikken **Nieuwe ervaring**.
+
+   ![](assets/toggle-switch-2.png)
+
+1. Selecteer de rol(en) die u wilt gebruiken voor de schakeloptie.
+
+   ![](assets/toggle-switch-3.png)
+
 ## Weergave landingspagina {#landing-page-list-view}
 
 De volgende-gen Landing van de lijstmening van de Pagina biedt onderzoeksfilters en de capaciteit aan om massa uit te voeren die de acties van de Pagina.
 
 1. Selecteer in Marketo **Design Studio**.
 
-   ![](assets/toggle-switch-1.png)
+   ![](assets/toggle-switch-4.png)
 
 1. Selecteren **Openingspagina&#39;s**.
-
-   ![](assets/toggle-switch-2.png)
-
-1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
-
-   ![](assets/toggle-switch-3.png)
-
-De nieuwe ervaring wordt geladen.
-
-![](assets/toggle-switch-4.png)
-
-## Pagina met details van bestemmingspagina {#landing-page-details-page}
-
-1. Zoek in Marketo de bestemmingspagina en selecteer deze.
 
    ![](assets/toggle-switch-5.png)
 
@@ -51,9 +53,9 @@ De nieuwe ervaring wordt geladen.
 
 ![](assets/toggle-switch-7.png)
 
-## Formuliergegevens pagina {#form-details-page}
+## Pagina met details van bestemmingspagina {#landing-page-details-page}
 
-1. Zoek en selecteer het formulier in Marketo.
+1. Zoek in Marketo de bestemmingspagina en selecteer deze.
 
    ![](assets/toggle-switch-8.png)
 
@@ -65,14 +67,28 @@ De nieuwe ervaring wordt geladen.
 
 ![](assets/toggle-switch-10.png)
 
+## Formuliergegevens pagina {#form-details-page}
+
+1. Zoek en selecteer het formulier in Marketo.
+
+   ![](assets/toggle-switch-11.png)
+
+1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
+
+   ![](assets/toggle-switch-12.png)
+
+De nieuwe ervaring wordt geladen.
+
+![](assets/toggle-switch-13.png)
+
 ## Inschakelen voor alle functies {#enable-for-all-features}
 
 U kunt de volgende-gen interface van Marketo inschakelen voor alle beschikbare functies, zowel de huidige als de toekomstige.
 
 1. In een gebied dat momenteel de Schakelaar van de Wissel heeft (in dit voorbeeld zijn wij binnen [Formuliergegevens pagina](#form-details-page)), klikt u op het tandwielpictogram rechtsonder op de pagina.
 
-   ![](assets/toggle-switch-11.png)
+   ![](assets/toggle-switch-14.png)
 
 1. Selecteren **Inschakelen voor alle beschikbare functies** en klik op **OK**.
 
-   ![](assets/toggle-switch-12.png)
+   ![](assets/toggle-switch-15.png)
