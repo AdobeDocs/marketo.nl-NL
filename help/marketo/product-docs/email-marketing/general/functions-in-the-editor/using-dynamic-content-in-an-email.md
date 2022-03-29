@@ -2,14 +2,13 @@
 unique-page-id: 2950617
 description: Dynamische inhoud gebruiken in een e-mail - Marketo Docs - Productdocumentatie
 title: Dynamische inhoud gebruiken in een e-mail
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
+source-git-commit: 076d781fc8d967ee6f63ed2023e75c94e5aa1e55
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
-
 
 # Dynamische inhoud gebruiken in een e-mail {#using-dynamic-content-in-an-email}
 
@@ -19,23 +18,27 @@ ht-degree: 0%
 
 Gebruik Dynamische inhoud in e-mails om de beoogde gegevens voor leads te verzenden.
 
-## Segmentatie {#add-segmentation} toevoegen
+>[!NOTE]
+>
+>Het gebruik van variabelen in dynamische inhoud in een e-mailbericht wordt alleen ondersteund bij het gebruik van triggercampagnes. Het is **niet** ondersteund bij het gebruik van Batch-campagnes.
 
-1. Ga naar Marketing Activiteiten.
+## Segmentering toevoegen {#add-segmentation}
+
+1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer uw e-mail en klik op Concept bewerken.
+1. Selecteer uw e-mail en klik op **Concept bewerken**.
 
    ![](assets/1.2.png)
 
-1. In dit voorbeeld maken we de onderwerpregel dynamisch. Klik in het onderwerpveld en klik vervolgens op de knop **Dynamisch maken**.
+1. In dit voorbeeld maken we de onderwerpregel dynamisch. Klik in het veld Onderwerp en klik vervolgens op de knop **Dynamisch maken** knop.
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >U kunt een element binnen e-mail dynamisch maken. Selecteer hiertoe het gebied, klik het tandwielpictogram en selecteer **Dynamisch maken** (of [Vervangen door fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), afhankelijk van wat u doet).
+   >U kunt een element binnen e-mail dynamisch maken. Selecteer hiertoe het gebied, klik op het tandwielpictogram en selecteer **Dynamisch maken** (of [Vervangen door fragment](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), afhankelijk van wat u doet).
 
 1. Voer de naam van de segmentatie in, selecteer deze en klik op **Opslaan**.
 
