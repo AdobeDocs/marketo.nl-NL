@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Aangepaste velden voor programmalid - Marketo Docs - Productdocumentatie
 title: Aangepaste velden voor programmalid
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ U kunt deze programmaspecifieke gegevens in slimme lijsten gebruiken via [trigge
 * Het programmalidobject kan maximaal 20 aangepaste velden hebben. Deze velden zijn beschikbaar voor elk programma.
 * Wanneer u een lid van een programma verwijdert, als zij om het even welke gegevens op hun de douanegebied van het Lid van het Programma hebben, zullen de gegevens van dat gebied worden geschaad.
 * Als u de gegevens wilt weergeven, klikt u op het tabblad Leden in het programma en maakt u een aangepaste weergave met de desbetreffende velden.
-* Importeren en exporteren via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) en [API](https://developers.marketo.com/) worden ondersteund.
+* Importeren en exporteren via [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) en [API](https://developers.marketo.com/) worden ondersteund. Exporteert het werk aan de lijsten van het Lid van het Programma slechts, niet statische lijsten.
 * Wanneer u twee personen samenvoegt, worden de aangepaste veldgegevens van het Lid van het Programma van de winnaar gebruikt. Maar als de winnaar er geen heeft, wordt de waarde van de verliezer gebruikt.
 * Het type wijzigen is **niet** toegestaan op de gebieden van Info van het Lid van het Programma.
 
