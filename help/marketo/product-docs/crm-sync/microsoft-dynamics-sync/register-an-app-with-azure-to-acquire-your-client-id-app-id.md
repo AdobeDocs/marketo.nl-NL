@@ -3,21 +3,20 @@ unique-page-id: 12983390
 description: Registreer een app bij Azure om uw client-id/app-id aan te schaffen - Marketo Docs - Productdocumentatie
 title: Registreer een app bij Azure om uw client-id/app-id op te halen
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
 
-# Registreer een app bij Azure om uw client-id/app-id {#register-an-app-with-azure-to-acquire-your-client-id-app-id} te verkrijgen
+# Registreer een app bij Azure om uw client-id/app-id op te halen {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
 Azure Active Directory breidt uw directories op locatie uit naar de cloud en biedt ondersteuning voor MS Dynamics 365 CRM met ADFS-verificatie op locatie.
 
-## Een nieuwe app {#registering-a-new-app} registreren
+## Een nieuwe app registreren {#registering-a-new-app}
 
-1. [Meld u ](https://manage.windowsazure.com/) aan bij de Microsoft Azure-beheerportal met een account met beheerdersrechten. U kunt tot het portaal van Microsoft Azure ook toegang hebben door Office 365 Admin Center door **Admin** punt in de linkernavigatieruit uit te breiden en **Azure AD** te selecteren.
+1. [Aanmelden](https://azure.microsoft.com/en-us/account/) naar de Microsoft Azure-beheerportal met een account met beheerdersrechten. U kunt het Microsoft Azure-portaal ook openen via het Office 365 Admin Center door de **Beheer** item in het linkernavigatievenster en selecteren **Azure AD**.
 
    >[!CAUTION]
    >
@@ -25,12 +24,12 @@ Azure Active Directory breidt uw directories op locatie uit naar de cloud en bie
 
    >[!NOTE]
    >
-   >Als u geen Azure-account hebt, kunt u [zich ](https://azure.microsoft.com/en-us/free/) voor één account aanmelden. Raadpleeg de documentatie van Microsoft of neem contact op met uw vertegenwoordiger van Microsoft voor meer informatie. Nadat u een Azure-account hebt gemaakt, kunt u een of meer apps registreren aan de hand van de onderstaande procedure.
+   >Als u geen Azure-account hebt, kunt u [aanmelden](https://azure.microsoft.com/en-us/free/) voor één. Raadpleeg de documentatie bij Microsoft of neem contact op met uw Microsoft-vertegenwoordiger voor meer informatie. Nadat u een Azure-account hebt gemaakt, kunt u een of meer apps registreren aan de hand van de onderstaande procedure.
    >
    >
    >Als u een Azure-account hebt maar uw Office 365-abonnement met Microsoft Dynamics 365 niet beschikbaar is in uw Azure-abonnement, volgt u [deze instructies](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription) om de twee accounts te koppelen.
 
-1. Zoek en klik **Azure Active Directory** in het linkernavigatievenster.
+1. Zoeken en klikken **Azure Active Directory** in het linkernavigatievenster.
 
    ![](assets/two.png)
 
@@ -38,7 +37,7 @@ Azure Active Directory breidt uw directories op locatie uit naar de cloud en bie
 
    ![](assets/three.png)
 
-1. Klik **Nieuwe registratie** bij de bovenkant van de pagina.
+1. Klikken **Nieuwe registratie** boven aan de pagina.
 
    ![](assets/four.png)
 
@@ -46,13 +45,13 @@ Azure Active Directory breidt uw directories op locatie uit naar de cloud en bie
 
    ![](assets/five.png)
 
-1. De toepassing wordt nu weergegeven op het tabblad **Toepassingsregistraties**.
+1. U moet nu uw app in de **Toepassingsregistraties** tab.
 
    ![](assets/six.png)
 
-## Toepassingsmachtigingen {#configuring-app-permissions} configureren
+## Toepassingsmachtigingen configureren {#configuring-app-permissions}
 
-1. Klik onder **App-registraties** tabblad in uw Active Directory op de toepassing waarvoor u machtigingen wilt configureren.
+1. Onder de **Toepassingsregistraties** in uw Actieve Folder, klik app u toestemmingen voor wilt vormen.
 
    ![](assets/seven.png)
 
@@ -60,15 +59,15 @@ Azure Active Directory breidt uw directories op locatie uit naar de cloud en bie
 
    ![](assets/eight.png)
 
-1. Klik op de knop **Een machtiging toevoegen**.
+1. Klik op de knop **Een machtiging toevoegen** knop.
 
    ![](assets/nine.png)
 
-1. Kies **Dynamische CRM**.
+1. Kies **Dynamics CRM**.
 
    ![](assets/ten.png)
 
-1. Schakel het selectievakje **Algemene gegevensservice openen als organisatiegebruiker***s** in en klik op **Machtigingen toevoegen.**
+1. Controleer de **Toegang tot Gemeenschappelijke Gegevensdienst als organisatiegebruiker***s** en klik vervolgens op **Machtigingen toevoegen.**
 
    ![](assets/eleven.png)
 
@@ -76,11 +75,11 @@ Azure Active Directory breidt uw directories op locatie uit naar de cloud en bie
 
    ![](assets/twelve.png)
 
-1. Klik op de knop **Goedkeuring van beheerder toewijzen**.
+1. Klik op de knop **Toelating beheerder** knop.
 
    ![](assets/thirteen.png)
 
-1. Klik **Ja** om te bevestigen.
+1. Klikken **Ja** ter bevestiging.
 
    ![](assets/fourteen.png)
 

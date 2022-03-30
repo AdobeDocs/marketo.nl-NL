@@ -3,9 +3,9 @@ unique-page-id: 8160678
 description: Opmerkingen bij de release - juni 2015 - Marketo Docs - Productdocumentatie
 title: Release-aantekeningen -juni 2015
 exl-id: 5a26121f-a168-4bb6-b471-aca1f343e4c2
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,4 @@ De volgende functies zijn opgenomen in de release van juni 2015. Controleer of d
 
 ## [E-mailrapport kenmerk](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
 
-Bekijk de waardeverpersoonlijking en de geadviseerde inhoud verstrekt aan uw marketing activiteiten. [In het Attribution Email ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Report worden de directe en ondersteunde leads weergegeven die worden toegeschreven aan de personalisatie- en aanbevolen inhoudscampagnes van RTP. Voeg in RTP&#39;s, Gebruikersinstellingen en E-mailrapport het rapport E-mailrapport voor kenmerk toe voor maandelijkse of driemaandelijkse e-mailberichten.
-
-## Wil je onze routekaart beïnvloeden? {#want-to-influence-our-roadmap}
-
-Graad Marketo met dit [snelle rapportkaart](https://www.surveymonkey.com/s/VG9YCT5). We gebruiken uw input om 2016 en daarna te helpen plannen!
+Bekijk de waardeverpersoonlijking en de geadviseerde inhoud verstrekt aan uw marketing activiteiten. [Het E-mailrapport voor kenmerk](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) Geeft de directe en ondersteunde leads weer die worden toegeschreven aan de personalisatie- en aanbevolen inhoudscampagnes van RTP. Voeg in RTP&#39;s, Gebruikersinstellingen en E-mailrapport het E-mailrapport voor kenmerk toe om maandelijkse of driemaandelijkse e-mailberichten te ontvangen.

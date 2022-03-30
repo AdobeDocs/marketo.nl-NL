@@ -3,15 +3,14 @@ unique-page-id: 10096583
 description: Veelgestelde vragen over MUNCHKkin-tracking van de volgende generatie - Marketo-documenten - Productdocumentatie
 title: Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie
 exl-id: 283189ac-c817-479a-b896-91233980608c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
 
-# Veelgestelde vragen {#next-generation-munchkin-tracking-faq} over het bijhouden van Munchkin van de volgende generatie
+# Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie {#next-generation-munchkin-tracking-faq}
 
 We zijn blij om te kunnen aankondigen dat we binnenkort een gefaseerde introductie van onze webtrackingtechnologie van de volgende generatie zullen starten.
 
@@ -31,7 +30,7 @@ Nee. De code voor het bijhouden van de Munchkin-code blijft ongewijzigd. U hoeft
 
 >[!NOTE]
 >
->Deze verandering beïnvloedt geen Personalisatie van het Web (Echt - tijd Personalisatie). Het blijft anonieme en bekende webbezoekers identificeren en inhoud in real-time personaliseren voor deze bezoekers.
+>Deze wijziging heeft geen invloed op Web Personalization (Real-Time Personalization). Het blijft anonieme en bekende webbezoekers identificeren en inhoud in real-time personaliseren voor deze bezoekers.
 
 ## Waarom heeft Marketo het filter &quot;Is Anoniem&quot;uit Slimme Lijsten verwijderd? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
@@ -50,15 +49,12 @@ Als u dit filter al in een Slimme Lijst (bijvoorbeeld, in een Slimme Campagne of
 >Als een anonieme persoon met Munchkin V2 de prijspagina bezoekt, neemt hij niet onmiddellijk deel aan de campagne. Op het moment dat de anonieme persoon bekend wordt, voeren we deze campagne op haar. Ze zal:
 >
 >* Een score van 10 halen
-   >
-   >
-* De activiteit van de Web-pagina hebben aan de juiste datum wordt geplaatst (toen zij eigenlijk bezocht)
-   >
-   >
-* Heb een Interessant Moment voor haar het programma wordt geopend (met de datum zij daadwerkelijk de pagina bezocht, niet toen zij gekend werd)
-   >
-   >
-* Heb een &quot;Nieuwe Persoon&quot;activiteit het programma wordt geopend aangezien het vandaag is
+>
+>* De activiteit van de Web-pagina hebben aan de juiste datum wordt geplaatst (toen zij eigenlijk bezocht)
+>
+>* Heb een Interessant Moment voor haar het programma wordt geopend (met de datum zij daadwerkelijk de pagina bezocht, niet toen zij gekend werd)
+>
+>* Heb een &quot;Nieuwe Persoon&quot;activiteit het programma wordt geopend aangezien het vandaag is
 
 
 ## Wat gebeurt er met mijn slimme lijsten die al het filter &quot;Is Anoniem&quot; hebben? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
@@ -94,4 +90,4 @@ Bekijk de volgende koppelingen:
 
 ## Ik heb nog meer vragen! Hoe krijg ik antwoord? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Spreek uit op de [community](https://nation.marketo.com/welcome). U kunt ook contact opnemen met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). Ze zullen graag je vragen beantwoorden.
+Neem contact op met de [gemeenschap](https://nation.marketo.com/). U kunt ook contact opnemen met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support). Ze zullen graag je vragen beantwoorden.

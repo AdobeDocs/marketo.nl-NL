@@ -3,7 +3,7 @@ unique-page-id: 17728380
 description: Opmerkingen bij de release - Lente 2019 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - voorjaar 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 8c271f4883f5e269820ef992cd5c50e746255736
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -24,11 +24,11 @@ De volgende functies zijn gepubliceerd op 15 maart 2019.
 
 * **Waitlijst:** Nieuwe programma-/gebeurtenisstatus voor het wachten op een lid wanneer u wilt [ze in de wachtstand zetten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) totdat een vacature wordt geopend. Dit is van toepassing op kanalen die zijn gekoppeld aan gebeurtenisprogramma&#39;s in Marketo Classic, en zowel Gebeurtenis als Gebeurtenis met Webinar-programma&#39;s in Marketo Sky. Standaard heeft Waitlist dezelfde stapwaarde als Geregistreerd.
 * **[Aangepaste communicatielimiet](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: Beheerders kunnen nu aangepaste dagelijkse of wekelijkse communicatielimieten instellen.
-* **[Smart Campagne Asset API&#39;s](https://developers.marketo.com/rest-api/assets/campaigns/)**: Verrijk uw analysemogelijkheden buiten Marketo met Smart Campagne-record opvragen op bijgewerkte datum en id.
+* **[Smart Campagne Asset API&#39;s](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: Verrijk uw analysemogelijkheden buiten Marketo met Smart Campagne-record opvragen op bijgewerkte datum en id.
 * **Koppelingen HTTPS-tracking voor e-mail:** Voor klanten die &quot;Beveiligde domeinen voor het bijhouden van koppelingen&quot; hebben aangeschaft, kunnen de koppelingen voor het bijhouden van tags nu in uw e-mails worden weergegeven als HTTPS.
 * **PowerPack-updates voor e-maillevering**: De mogelijkheid om specifieke testresultaten te markeren en er opmerkingen over te maken, resultaten te delen met belanghebbenden via een URL en wijzigingen bij te houden om de ontwikkeling van een e-mail te bekijken terwijl belanghebbenden inhoud bewerken.
 
-Op account gebaseerde marketing
+Account-Based Marketing
 
 **[AccountAI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** Nu algemeen beschikbaar. AccountAI gebruikt kunstmatige intelligentie om de rekeningen te onthullen u voor uw strategie ABM zou moeten richten.
 

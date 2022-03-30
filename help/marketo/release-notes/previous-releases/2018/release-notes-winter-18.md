@@ -3,7 +3,7 @@ unique-page-id: 13795395
 description: Opmerkingen bij de release - Winter '18 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - Winter '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -24,9 +24,9 @@ Marketo maakt gebruik van onze grote gegevensarchitectuur om de productie van ca
 
 Wij hebben twee verhogingen aan onze integratie van Salesforce CRM:
 
-* [Marketo Admin-](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) meldingen voor bepaalde CRM-synchronisatiefouten (verlopen aanmeldingsgegevens, API-limieten bereikt enz.)
+* [Marketo Admin-meldingen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) voor bepaalde CRM-synchronisatiefouten (verlopen referenties, API-limieten bereikt, enz.)
 
-* [Mogelijkheid om e-](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) mailmeldingen naar eigenaars van leads uit te schakelen bij toewijzing van leads
+* [E-mailmeldingen uitschakelen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md) aan eigenaars van leads bij toewijzing
 
 Deze verbeteringen zullen in de loop van 2018 worden doorgevoerd.
 
@@ -56,13 +56,13 @@ Het scripting van de snelheid wordt nu gesteund in e-mail gebruikend dynamische 
 
 * **[Maandelijkse hellingshoek](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)**: We hebben de mogelijkheid toegevoegd om programma&#39;s voor de verzorging op maandbasis te plannen.
 
-* **[Levering](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)** stoppen: U kunt nu om het even welk resterend verzenden midden-looppas.
+* **[Levering stoppen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: U kunt nu om het even welk resterend verzenden midden-looppas.
 
 ## Integratie van advertentienetwerken {#ad-network-integrations}
 
-**[Integratie van Google Customer Match](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
+**[Google Customer Match Integration](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-Met deze integratie kunt u een Marketo-publiek naar Google sturen om op Google AdWords te worden gericht, en publiek opnieuw richten over YouTube, Search en Gmail.
+Met deze integratie kunt u een Marketo-publiek naar Google sturen dat u als doel kunt instellen met Google AdWords en doelpubliek voor YouTube, Search en Gmail.
 
 **[Verbetering voor API voor passend publiek in linkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
@@ -70,13 +70,13 @@ Met onze nieuwe LinkedIn API kunt u nu personen in uw Marketo-database heroriën
 
 ## Webpersonalisatie {#web-personalization}
 
-**Japanse gegevensbron voor webpersonalisatie**
+**Japanse gegevensbron voor Web Personalization**
 
-Marketo voegt een extra Japanse gegevensbron voor het Personaliseren van het Web toe om Webbezoekersidentificatie (omgekeerde IP raadpleging) en verpersoonlijking voor bezoekers te verbeteren die uit Japan komen. Organisatie-namen worden in het Japans weergegeven.
+Marketo voegt een extra Japanse gegevensbron voor Web Personalization toe om de identificatie van de Webbezoeker (omgekeerde IP raadpleging) en verpersoonlijking voor bezoekers te verbeteren die uit Japan komen. Organisatie-namen worden in het Japans weergegeven.
 
 **[Creeer een Segment van het Web Gebruikend Statische Lijsten](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-De Personalisering van het Web kan inhoud aan een bekende Webbezoeker nu personaliseren die deel van een statische lijst uitmaakt die in de Activiteiten van de Marketing (MLM) wordt bepaald. Met deze verbetering, kunt u aan statische lijsten over kanalen nu in de handel brengen en mensen op deze lijsten met gepersonaliseerde inhoud op uw website richten.
+Web Personalization kan inhoud nu personaliseren naar een bekende webbezoeker die deel uitmaakt van een statische lijst die is gedefinieerd in Marketingactiviteiten (MLM). Met deze verbetering, kunt u aan statische lijsten over kanalen nu in de handel brengen en mensen op deze lijsten met gepersonaliseerde inhoud op uw website richten.
 
 ## ContentAI {#contentai}
 
@@ -86,7 +86,7 @@ Inhoud die wordt aanbevolen via Marketo-algoritmen voor geoptimaliseerde Content
 
 ## Integratie {#integration}
 
-**[Campagne-API activeren/deactiveren](https://developers.marketo.com/rest-api/assets/campaigns/)**
+**[Campagne-API activeren/deactiveren](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 Met deze nieuwe API kunt u triggercampagnes op afstand activeren en deactiveren, zodat u nu volledig geautomatiseerde programmasjablonen kunt maken. Maak één keer een programmasjabloon, automatiseer het klonen, verhandel zakelijke updates en activering/planning van slimme campagnes.
 
@@ -94,7 +94,7 @@ Met deze nieuwe API kunt u triggercampagnes op afstand activeren en deactiveren,
 
 **Abonnement bijwerken opzeggen**
 
-Vanaf 1 maart 2018 wordt aan alle e-mails die worden verzonden van [ToutApp.com](https://ToutApp.com) (en met de knop &quot;E-mail met tout&quot; in Salesforce) een link toegevoegd die het abonnement opzegt.
+Vanaf 1 maart 2018 worden alle e-mails verzonden van [ToutApp.com](https://ToutApp.com) (en met de knop &quot;E-mail met tout&quot; in Salesforce) wordt een link voor het afmelden toegevoegd aan de onderkant.
 
 **Update van live feed**
 

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '8616'
+source-wordcount: '8637'
 ht-degree: 0%
 
 ---
@@ -1273,6 +1273,10 @@ ht-degree: 0%
          + Campagnes {#campaigns}
             + [Toevoegen aan marketingcampagne](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [Campagne is beëindigd](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
+            + [Een verkoopcampagne maken](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
+            + [Instellingen verkoopcampagne](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
+            + [Verzendopties voor verkoopcampagne voor e-mailstappen](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
+            + [Typen stappen en herinneringstaken voor verkoopcampagne](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [Lijst met campagnes weergeven als een andere gebruiker](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Aanpassing Salesforce {#salesforce-customization}

@@ -3,9 +3,9 @@ unique-page-id: 10094114
 description: Opmerkingen bij de release - herfst 2015 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - herfst 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
 workflow-type: tm+mt
-source-wordcount: '995'
+source-wordcount: '991'
 ht-degree: 0%
 
 ---
@@ -44,27 +44,27 @@ Maak eenvoudig aangepaste objecten via de interface voor beheerders. Momenteel o
 
 [Marketo Insights voor Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-We zijn blij dat we de release van een update van onze Google Mail Sales Insight-extensie bekend maken! Geef deze weer in de [Chrome Store](https://nation.marketo.com/external-link.jspa?url=https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+We zijn blij dat we de release van een update van onze Google Mail Sales Insight-extensie bekend maken. Deze weergeven in het dialoogvenster  [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Deze update bevat veel nieuwe functies en functies:
 
-* Voordat ze gaan samenwerken, kunnen verkopers relevante informatie over hun vooruitzichten direct in Google Mail bekijken, zoals functies, twitter-profielen, bedrijfsinformatie, foto&#39;s en nog veel meer.
+* Voordat verkopers aan de slag gaan, kunnen ze rechtstreeks in Google Mail relevante informatie over hun vooruitzichten zien, zoals functies, twitter-profielen, bedrijfsinformatie, foto&#39;s en nog veel meer.
 * Salespeople kunnen in real time zien met welke inhoudsperspectieven over kanalen, zoals e-mails die worden geopend of geklikt, online of persoonlijk bijgewoonde gebeurtenissen, bezochte webpagina&#39;s, gedownloade eBooks en nog veel meer te maken hebben.
 * E-mails die via Google Mail worden verzonden, worden in Marketo aangemeld en in real-time bijgehouden. Dit laat verkopers zien wanneer de vooruitzichten hun e-mails bekijken zodat zij op enkel de juiste tijd kunnen volgen. Met Marketo Sales Insight voor Google Mail kunnen verkopers bovendien eenvoudig sjablonen gebruiken die door marketing zijn gemaakt om prachtige uitnodigingen, aanbiedingen en andere soorten inhoud te verzenden.
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
-## Marketo Mobile Engagement - Tokens, Voorbeeld verzenden en Voorbeeld {#marketo-mobile-engagement-tokens-send-sample-preview}
+## Marketo Mobile Engagement - Tokens, Send Sample en Preview {#marketo-mobile-engagement-tokens-send-sample-preview}
 
 * [Tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 * [Voorbeeld verzenden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Voorvertoning](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-U kunt pushmeldingen eenvoudig aanpassen met [tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+Pushmeldingen eenvoudig aanpassen met [tokens](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-U kunt [preview](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) of een [sample](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) dupmelding ook verzenden alvorens u het aan klanten opstelt.
+U kunt ook [voorvertoning](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) of een [monster](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) pushmelding voordat u deze implementeert op klanten.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -85,7 +85,7 @@ Statistische gegevens over e-mailberichten die via slimme campagnes worden verzo
 
 ## RTP - Content Analytics en Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Inhoud ](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) analyseren en Recommendations
+[Inhoud analyseren](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) en Recommendations
 
 De Analyse van de Inhoud RTP toont u de prestaties van uw activa van de Webinhoud van regelmatige Webbezoeken en ook bezoeken die van de motor van de inhoudaanbeveling van RTP worden geproduceerd.
 
@@ -95,10 +95,10 @@ De Analyse van de Inhoud RTP toont u de prestaties van uw activa van de Webinhou
 
 De middelenpagina van RTP wordt nu gesplitst in Content Analytics en Content Recommendations.
 
-* **Inhoud analyseren:** geeft de weergaven en directe leads van alle gedetecteerde en gedefinieerde webinhoud weer, zodat u uw best presterende inhoud kunt analyseren
-* **Inhoud Recommendations**: Toont beelden en klikt van de geadviseerde inhoud van RTP en bijbehorende loodattributie. U kunt inhoudsaanbevelingen van deze pagina voor de [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) en [rijke media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) aanbevelingen ook uitgeven en toelaten.
+* **Inhoud analyseren:** Toont de weergaven en directe leads van alle gedetecteerde en gedefinieerde webinhoud, zodat u uw best presterende inhoud kunt analyseren
+* **Content Recommendations**: Toont beelden en klikt van de geadviseerde inhoud van RTP en bijbehorende loodattributie. U kunt de aanbevelingen voor inhoud van deze pagina ook bewerken en inschakelen voor de [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) en [rijke media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) aanbevelingen.
 
-* Alle gegevens over directe leads op deze twee pagina&#39;s zijn sinds het begin van het jaar (1 januari 2015) retroactief bijgewerkt.
+* Alle gegevens over directe leads op deze twee pagina&#39;s zijn retroactief bijgewerkt sinds het begin van het jaar (1 januari 2015).
 
 ## RTP - Kloon en Campagne RTP {#rtp-clone-an-rtp-campaign}
 
@@ -112,7 +112,7 @@ Door een RTP-campagne te klonen, wordt het sneller en efficiënter om meer geper
 
 We maken verschillende verbeteringen in de rijke teksteditor. Nadat wij de bijgewerkte redacteur in juli vrijgaven, ontvingen wij grote terugkoppelen en konden deze veranderingen in deze verbetering werken. De komende maanden is er nog veel meer te doen. Hier volgt een lijst met nieuwe functies in het vierde kwartaal:
 
-* VML wordt nu ondersteund in uw HTML-code:
+* VML wordt nu ondersteund binnen uw HTML-code:
 
 ```
 <v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
@@ -120,11 +120,11 @@ We maken verschillende verbeteringen in de rijke teksteditor. Nadat wij de bijge
 </v:background>
 ```
 
-* Alles kan nu worden ingevoegd in een geldige HTML-opmerking (bepaalde syntaxis zoals hieronder wordt weergegeven, is eerder verwijderd):
+* Alles kan nu worden ingevoegd in een geldige HTML-opmerking (bepaalde syntaxis zoals hieronder wordt weergegeven, zijn eerder verwijderd):
 
 `<!--[if gte mso 9]> <![endif]-->`
 
-* Lege tabelcellen niet met `&nbsp;` samenvoegen
+* Plaats geen lege tabelcellen met `&nbsp;`
 
 * Knop maximaliseren/minimaliseren die aan de HTML-broneditor is toegevoegd
 * Bestaande tabeleigenschappen worden nu geïdentificeerd en weergegeven in het dialoogvenster Tabeleigenschappen
@@ -161,7 +161,7 @@ U kunt eenvoudig nieuwe velden toevoegen aan aangepaste objecten die zijn gesync
 
 ## Ondersteuning voor IE 11 (en afgekeurde ondersteuning voor IE 9) {#ie-support-and-deprecating-support-for-ie}
 
-De browser Microsoft Internet Explorer 11 wordt nu officieel ondersteund en de ondersteuning voor de browser Microsoft Internet Explorer 9 wordt verwijderd.
+De Microsoft Internet Explorer 11-browser wordt nu officieel ondersteund en de ondersteuning voor de Microsoft Internet Explorer 9-browser wordt verwijderd.
 
 ## Ondersteuning voor blikseminterface voor MSI {#lightning-ui-support-for-msi}
 
