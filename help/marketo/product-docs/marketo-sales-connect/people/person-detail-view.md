@@ -1,23 +1,22 @@
 ---
 unique-page-id: 13796475
-description: Persoonsdetailweergave - Marketo Docs - Productdocumentatie
+description: Persoonsgegevens weergeven - Marketo-documenten - Productdocumentatie
 title: Persoonsgegevens weergeven
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
+source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
-
-# Persoonsdetailweergave {#person-detail-view}
+# Persoonsgegevens weergeven {#person-detail-view}
 
 De de detailmening van de persoon verstrekt een gedetailleerd profiel van elke persoon in uw rekening MSC.
 
-## Hoe te om tot {#how-to-access} toegang te hebben
+## Toegang verkrijgen {#how-to-access}
 
-1. Klik op het tabblad **Personen** voor toegang tot de weergave Personen.
+1. Klik op de knop **Mensen** tab.
 
    ![](assets/people-tab.png)
 
@@ -104,17 +103,3 @@ Handelingen die u kunt uitvoeren:
 * Zie de vervaldatum
 * Klik op Type om de Telefoon van de Verkoop te lanceren als Vraag, E-mail samenstelt als E-mail, Gekoppeld binnen als Inmail, en Nota van de Douane als Douane.
 * Een taak markeren als voltooid
-
-## Tabblad Verkoopnavigator {#sales-navigator-tab}
-
-Bekijk LinkedIn profielgegevens met de Navigator van de Verkoop LinkedIn.
-
->[!NOTE]
->
->De Navigator van de verkoop is betaalde toe:voegen-op door LinkedIn, gelieve hen te contacteren om deze eigenschap te verkrijgen.
-
-![](assets/linkedin.jpg)
-
-Meningstoepassingen om een relatie op te bouwen.
-
-Sla contactpersonen op als leads in Verkoopnavigator.
