@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
 workflow-type: tm+mt
-source-wordcount: '8637'
+source-wordcount: '8649'
 ht-degree: 0%
 
 ---
@@ -1406,11 +1406,13 @@ ht-degree: 0%
          + Configuratie {#configuration}
             + [Knoppen voor bulkacties toevoegen aan Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Marketo Tab toevoegen aan Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+            + [Toestemming voor verkoopinzicht toevoegen](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
             + [Bulkacties in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
             + [Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Marketo Sales Insight configureren in Salesforce Professional Edition](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [Configuratie voor bestaande klanten](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
             + [Marketo Sales Insight Configuration Tab in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Toegang tot verkoopinzicht verwijderen](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
             + [Sales Insight Page voor Marketo Admins](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [Het Inzicht van de Verkoop van de Opstelling voor uw Team](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
          + Functies {#features}
@@ -1830,9 +1832,10 @@ ht-degree: 0%
    + [Huidige versie](release-notes/current.md)
    + Eerdere releases {#previous-releases}
       + 2022 {#2022}
-         + [Opmerkingen bij de release: 22 jan.](release-notes/previous-releases/2022/release-notes-jan-22.md)
+         + [Opmerkingen bij de release: 22 januari](release-notes/previous-releases/2022/release-notes-jan-22.md)
+         + [Opmerkingen bij de release: 22 maart](release-notes/previous-releases/2022/release-notes-mar-22.md)
       + 2021 {#2021}
-         + [Opmerkingen bij de release: 21 jan.](release-notes/previous-releases/2021/release-notes-jan-21.md)
+         + [Opmerkingen bij de release: 21 januari](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Opmerkingen bij de release: 21 mei](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [Opmerkingen bij de release: 21 augustus](release-notes/previous-releases/2021/release-notes-aug-21.md)
          + [Opmerkingen bij de release: 21 oktober](release-notes/previous-releases/2021/release-notes-oct-21.md)
