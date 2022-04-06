@@ -2,7 +2,7 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
 workflow-type: tm+mt
 source-wordcount: '800'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: mei 2022 {#release-notes-may-22}
 
-Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 mei. Controleer de Adobe Marketo Engage-editie van uw voor de beschikbaarheid van functies.
+Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 mei. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -23,7 +23,7 @@ De volgende functies worden vrijgegeven op **6 mei 2022**, met een gefaseerde ui
 
 ## Native CRM-integratie {#native-crm-integration}
 
-**Native Veeva CRM-integratie (beperkte beschikbaarheid)**: Verbeter de betrokkenheid bij zorgverleners door activiteiten tussen Veeva VRM en Marketo Engage via native integratie te synchroniseren. Dankzij deze integratie kunnen marketers meer persoonlijke en naadloze kanaalervaringen creëren voor zorgverleners. Neem contact op met uw Customer Success Manager als u interesse hebt in deelname.
+**Native Veeva CRM-integratie (beperkte beschikbaarheid)**: Verbeter de betrokkenheid bij beroepsbeoefenaren in de gezondheidszorg door activiteiten te synchroniseren tussen Veeva CRM en Marketo Engage via native integratie. Dankzij deze integratie kunnen marketers meer persoonlijke en naadloze kanaalervaringen creëren voor zorgverleners. Neem contact op met uw Customer Success Manager als u interesse hebt in deelname.
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
