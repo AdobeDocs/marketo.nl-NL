@@ -1,23 +1,22 @@
 ---
 unique-page-id: 11382815
-description: Installatie van de Plug-in Marketo Outlook door IT - Marketo Docs - Productdocumentatie
-title: Installatie van de Plug-in Marketo Outlook door IT
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Installatie van Marketo Outlook-insteekmodule door IT - Marketo-documenten - Productdocumentatie
+title: Installatie van Marketo Outlook-insteekmodule door IT
+exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-
-# Installatie van plug-in Marketo Outlook door IT {#marketo-outlook-plugin-installation-by-it}
+# Installatie van Marketo Outlook-insteekmodule door IT {#marketo-outlook-plugin-installation-by-it}
 
 Soms vereisen bedrijfsbeleid dat hun Team van IT alle software op hun werknemers&#39; computers installeert. In deze gevallen doet IT dit vaak op afstand met behulp van hun eigen implementatiesoftware. Dit document verstrekt de bevellijnen u als input tijdens het plaatsingsproces zou gebruiken om de outlook stop-in ver te installeren.
 
 >[!PREREQUISITES]
 >
->[Stel ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) de toets Enterprise in.
+>[Instellen](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md) de Enterprise-toets.
 
 Voer de volgende bevellijn als &quot;Systeem&quot;of een Administratieve gebruikersrekening met de /i schakelaar in werking om te installeren.
 
@@ -53,7 +52,7 @@ Als u een locatie voor de logbestanden wilt opgeven, geeft u het bestandspad op 
 >
 >De opslaglocatie van het logbestand moet bestaan of de installatie wordt afgebroken.
 
-Gelieve te verwijzen naar [de volledige lijst van Microsoft van schakelaars](https://support.microsoft.com/en-us/kb/227091) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
+Zie [Microsoft&#39;s volledige lijst met switches](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) als u verschillende registrerenniveaus of gebruikersinterfaceniveaus zou willen proberen.
 
 >[!MORELIKETHIS]
 >

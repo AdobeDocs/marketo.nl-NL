@@ -3,26 +3,25 @@ unique-page-id: 2953415
 description: De persoonlijke detailpagina gebruiken - Marketo Docs - Productdocumentatie
 title: De detailpagina voor personen gebruiken
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 13%
 
 ---
 
-# De detailpagina {#using-the-person-detail-page} gebruiken
+# De detailpagina voor personen gebruiken {#using-the-person-detail-page}
 
 De pagina met persoonlijke details bevat alle informatie die Marketo over een persoon weet. U kunt gegevens rechtstreeks vanaf deze pagina bewerken.
 
-## Aan persoonlijke detailpagina {#getting-to-person-detail-page} ophalen
+## Aan Personen met detailpagina {#getting-to-person-detail-page}
 
 Er zijn veel manieren om specifieke mensen te openen. Enkele voorbeelden zijn:
 
-* Van **Database**, kunt u in de Snelle Vondst zoeken
-* Willekeurige slimme **lijst** of lijst
-* **** Programmalid
-* **Campagne-** leden weergeven in een slimme campagne
+* Van de **Database**, kunt u zoeken in Snel zoeken
+* Willekeurig slim **list** of lijst
+* **Leden** tabblad van een programma
+* **Campagneleden weergeven** in een slimme campagne
 * Sommige **rapporten**
 
    <br> 
@@ -61,7 +60,7 @@ Persoonsgegevens worden gecategoriseerd in de volgende tabbladen:
 
 >[!NOTE]
 >
->U kunt de informatie van de Kans [ook zien die via API](http://developers.marketo.com/rest-api/lead-database/opportunities/) voor instanties wordt opgenomen die niet met een CRM worden gesynchroniseerd.
+>U kunt ook informatie over opportunity zien [ingevoegd via API](https://developers.marketo.com/rest-api/lead-database/opportunities/) voor instanties die niet zijn gesynchroniseerd met een CRM.
 
 ## Een veld bewerken {#editing-a-field}
 
@@ -69,7 +68,7 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## Marketo Default Fields before CRM Sync {#marketo-default-fields-prior-to-crm-sync}
+## Marketo-standaardvelden voorafgaand aan CRM-synchronisatie {#marketo-default-fields-prior-to-crm-sync}
 
 |  |  |  |  |  |
 |---|---|---|---|---|
@@ -100,10 +99,8 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 >* Bedrijfsgegevens
 >* Mogelijkheden voor SFDC-contactpersonen
 >* Bepaalde Marketo-specifieke velden, zoals Aanmaakdatum en Oorspronkelijk brontype.
-
 >
->
-Meer informatie over [Door het systeem beheerde velden](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
+>Meer informatie over [Door het systeem beheerde velden](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md).
 
 >[!MORELIKETHIS]
 >

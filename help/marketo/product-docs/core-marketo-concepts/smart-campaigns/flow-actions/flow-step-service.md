@@ -1,12 +1,10 @@
 ---
 description: Flow Step Service - Marketo Docs - Productdocumentatie
 title: Stroom Step Service
-hide: true
-hidefromtoc: true
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 99ad4c68b8ab635f6eb6f7f0f53cb67ee3efc51c
+source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
 workflow-type: tm+mt
-source-wordcount: '1325'
+source-wordcount: '1292'
 ht-degree: 0%
 
 ---
@@ -15,17 +13,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Deze pre-versieeigenschap is momenteel beschikbaar slechts aan rekeningen die in het Zelfbediening Programma van de Stappen van de Stroom van de Stroom worden ingeschreven.
+>De stappen van de Stroom van de Zelfbediening zijn momenteel in Open Bèta. U kunt deze optie inschakelen voor uw abonnement via Beheer > menu Schatkest.
 
-De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van de Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie over het ontwerpen en publiceren van uw eigen service raadpleegt u de [GitHub-opslagplaats voor de Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface). Er is een concepttest voor de implementatie van de opzoektabel gevonden [hier](https://github.com/adobe/mkto-flow-lookup).
+De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van de Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie over het ontwerpen en publiceren van uw eigen service raadpleegt u de [GitHub-opslagplaats voor de Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Er is een concepttest voor de implementatie van de opzoektabel gevonden [hier](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
 
 ## Beperkingen en waarschuwingen vóór vrijgave {#pre-release-restrictions-and-warnings}
 
-Deze functie bevindt zich momenteel in gesloten bèta en heeft enkele gebruiksbeperkingen.
-
-* Deze functie mag alleen worden gebruikt bij Sandbox-instanties van Marketo Engage
-* De stappen van de Stroom van de douane en van de Derde zijn niet compatibel met Uitvoerbare Campagnes vanaf Q4 2021 versie. Dit zal in het tweede kwartaal van 2022 worden vastgesteld
-* Marketo Sky UI zou helemaal niet moeten worden gebruikt op instanties met deze toegelaten eigenschap
+Deze functie bevindt zich momenteel in open bèta en mag alleen worden gebruikt op Sandbox-instanties van Marketo Engage tot uw service volledig is getest.
 
 ## Onboarding en Managing Services {#onboarding-and-managing-services}
 
