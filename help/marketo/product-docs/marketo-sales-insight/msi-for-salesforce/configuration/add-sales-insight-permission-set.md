@@ -1,11 +1,10 @@
 ---
 description: Toestemming voor verkoopcontrole toevoegen - Marketo-documenten - productdocumentatie
 title: Toestemming voor verkoopinzicht toevoegen
-hide: true
-hidefromtoc: true
-source-git-commit: 2ac0ef0b715eb2acd03fe2c5ad4cfee8daeef4f6
+exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
+source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '379'
 ht-degree: 0%
 
 ---
@@ -85,31 +84,29 @@ De &quot;Marketo App&quot;-machtiging maakt deel uit van het Salesforce-pakket v
 
 1. Meld u aan bij uw Salesforce-account.
 
-PICC
-
 1. Klikken **Instellen**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-1.png)
 
 1. Klik onder Beheerder om de bewerking ongedaan te maken **Gebruikers beheren** vervolgens **Gebruikers**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-2.png)
 
 1. Selecteer onder Alle gebruikers de gebruiker tot wie u toegang wilt verlenen en klik vervolgens op **Toewijzingen machtigingsset**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-3.png)
 
 1. Klikken **Toewijzingen bewerken**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-4.png)
 
 1. Selecteren **Marketo App Access** uit de beschikbare rechtensets, dan **Toevoegen**. Klikken **Opslaan**.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-5.png)
 
 1. Wanneer u nu naar beneden schuift op de pagina Gebruikersdetails, ziet u &quot;Marketo App Access&quot; onder Toewijzingen machtigingsset.
 
-PICC
+   ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >
