@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7516390
-description: Install Marketo Sales Insight Package in Salesforce AppExchange - Marketo Docs - Product Documentation
+description: Marketo Sales Insight Package installeren in Salesforce AppExchange - Marketo Docs - Productdocumentatie
 title: Marketo Sales Insight Package installeren in Salesforce AppExchange
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
-source-git-commit: 15263f9c23c958499aaa2e4e6491b4962c617358
+source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
-# Install Marketo Sales Insight Package in Salesforce AppExchange {#install-marketo-sales-insight-package-in-salesforce-appexchange}
+# Marketo Sales Insight Package installeren in Salesforce AppExchange {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 
-You need to install the Marketo Sales Insight app in your Salesforce subscription before you can enjoy all the goodness Sales Insight provides. Here&#39;s how.
+U moet de Marketo Sales Insight-app installeren in uw Salesforce-abonnement voordat u kunt genieten van alle goodness die Sales Insight biedt. Zo gaat het.
 
 >[!NOTE]
 >
@@ -26,15 +26,15 @@ You need to install the Marketo Sales Insight app in your Salesforce subscriptio
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
-1. Click **Log in to the AppExchange** button and log in with your Salesforce credentials.
+1. Klikken **Aanmelden bij de AppExchange** en meld u aan met uw gegevens van Salesforce.
 
-1. Enter your connected Salesforce account log-in and click **Install in Production**.
+1. Voer uw aanmelding voor de verbonden Salesforce-account in en klik op **Installeren in productie**.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-2.png)
 
    >[!TIP]
    >
-   >If you want to test it out in your sandbox first, choose **Install in Sandbox**.
+   >Als u deze eerst in uw sandbox wilt uittesten, kiest u **Installeren in sandbox**.
 
 1. Lees en accepteer de voorwaarden en klik vervolgens op **Bevestigen en installeren**.
 
@@ -44,15 +44,15 @@ You need to install the Marketo Sales Insight app in your Salesforce subscriptio
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-4.png)
 
-1. Het volgende bericht wordt mogelijk weergegeven wanneer u het installatieproces start. You will receive an email once the installation is complete. Click **Done** to dismiss.
+1. Het volgende bericht wordt mogelijk weergegeven wanneer u het installatieproces start. U ontvangt een e-mail zodra de installatie is voltooid. Klikken **Gereed** om te worden ontslagen.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-5.png)
 
-1. Verify that **Marketo Sales Insight** is in the Installed Packages.
+1. Controleren of **Marketo Sales Insight** bevindt zich in de Geïnstalleerde Pakketten.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-6.png)
 
-1. Click **Setup** next to your name.
+1. Klikken **Instellen** naast uw naam.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-7.png)
 
@@ -72,11 +72,11 @@ You need to install the Marketo Sales Insight app in your Salesforce subscriptio
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-11.png)
 
-Geweldig werk! Now you&#39;ve installed and deployed Marketo Sales Insight. Ga vooruit en vorm het voor uw verkoopteam en bekijk de verkoopskyrocket.
+Geweldig werk! Nu hebt u Marketo Sales Insight geïnstalleerd en geïmplementeerd. Ga vooruit en vorm het voor uw verkoopteam en bekijk de verkoopskyrocket.
 
 >[!MORELIKETHIS]
 >
 >* [Marketo Sales Insight configureren in Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >* [Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [Het Inzicht van de Verkoop van de Opstelling voor uw Team](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/setting-up-sales-insight-for-your-team.md)
+>* [Toegang tot verkoopinzicht toevoegen aan profielen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
 
