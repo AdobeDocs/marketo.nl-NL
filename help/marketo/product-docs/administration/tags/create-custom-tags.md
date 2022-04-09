@@ -3,60 +3,67 @@ unique-page-id: 2950660
 description: Aangepaste tags maken - Marketo Docs - Productdocumentatie
 title: Aangepaste tags maken
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-# Aangepaste labels maken {#create-custom-tags}
+# Aangepaste tags maken {#create-custom-tags}
 
 Met tags kunt u uw programma&#39;s ordenen terwijl de kanalen helpen bij het verzamelen van gegevens voor rapportagedoeleinden.
 
 >[!NOTE]
 >
->Bekijk [Tags](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor meer informatie.
+>Uitchecken [Tags begrijpen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) voor meer informatie .
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-## Nieuw tagtype maken {#create-a-new-tag-type}
+## Een nieuw tagtype maken {#create-a-new-tag-type}
 
 Een nieuw type code maken:
 
-1. Ga naar **Admin** sectie.
+1. Ga naar de **Beheer** sectie.
 
-   ![](assets/image2015-4-23-14-3a37-3a48.png)
+   ![](assets/create-custom-tags-1.png)
 
-1. Klik **Codes**.
+1. Klikken **Tags**.
 
-   ![](assets/image2015-4-23-14-3a41-3a18.png)
+   ![](assets/create-custom-tags-2.png)
 
-1. Klik **Nieuw** en selecteer **Nieuw labeltype.**
+1. Klikken **Nieuw** en selecteert u **Nieuw tagtype.**
 
-   ![](assets/image2015-4-23-14-3a42-3a45.png)
+   ![](assets/create-custom-tags-3.png)
 
-1. Voer een naam in voor het **Tagtype**.
+1. Voer een naam in voor het tagtype.
 
-   ![](assets/image2015-4-23-14-3a48-3a58.png)
+   ![](assets/create-custom-tags-4.png)
 
-1. Voer de gewenste **Waarde** voor het Type label in. Klik **Nog een toevoegen** om extra markeringswaarden in te gaan.
+1. Voer de gewenste waarde in voor het tagtype. Klikken **Nog een toevoegen** om extra waarden in te voeren.
 
-   ![](assets/image2015-4-22-11-3a30-3a30.png)
+   ![](assets/create-custom-tags-5.png)
 
-1. Selecteer op welke programma&#39;s deze tag van toepassing is.
+1. Selecteer op welk programmatype(n) deze tag van toepassing is.
 
-   ![](assets/image2015-4-22-11-3a39-3a7.png)
+   ![](assets/create-custom-tags-6.png)
+
+1. Bepaal of u deze tag al dan niet wilt gebruiken voor alle vermelde programmatypen.
+
+   ![](assets/create-custom-tags-7.png)
 
    >[!NOTE]
    >
-   >Selecteer **Vereist voor alle programma&#39;s** om deze markering toe te voegen wanneer een nieuw programma wordt gecreeerd.
+   >* Selecteer &quot;Vereist&quot; als u wilt dat dit label wordt toegevoegd telkens wanneer een nieuw programma wordt gemaakt.
+   >* Als u een programmatype verwijdert uit de lijst &quot;Van toepassing op&quot;, worden de tag en de bijbehorende waarden verwijderd uit alle bestaande programma&#39;s van dat type. Als u bestaande tagwaarden wilt behouden en deze tag optioneel wilt maken, gaat u verder met _alles_ vermeld programmatypen, verlaat de &quot;Vereiste&quot;checkbox niet geselecteerd.
 
-1. Klik **Maken** om op te slaan.
 
-   ![](assets/image2015-4-22-11-3a38-3a34.png)
+   >[!TIP]
+   >
+   >Als u een vergelijkbare tag wilt maken die vereist is voor bepaalde programmatypen, maar optioneel voor andere, moet u twee aparte tags instellen. Elke tag wordt toegepast op verschillende programmatypen waarbij de ene tag vereist is geselecteerd en de andere tag met de optie Vereist is niet geselecteerd.
 
-   Dat is het! U kunt nu aangepaste tags maken voor uw programma&#39;s.
+1. Klikken **Maken**.
+
+   ![](assets/create-custom-tags-8.png)

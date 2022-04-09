@@ -2,16 +2,16 @@
 description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
 workflow-type: tm+mt
-source-wordcount: '977'
+source-wordcount: '1016'
 ht-degree: 0%
 
 ---
 
 # Overzicht {#overview}
 
-Als u vanaf 15 februari 2022 een nieuwe account bij Adobe Marketo Engage hebt (nieuw account, niet alleen een nieuw exemplaar voor een bestaande account), kan het worden geïntegreerd met het Adobe Identity Management System, afhankelijk van het aangeschafte productpakket. Neem contact op met de Marketo Admin of met de Customer Success Manager van uw account als u dit doet.
+Als u vanaf 15 februari 2022 een nieuwe account bij Adobe Marketo Engage hebt (een nieuwe account, niet alleen een nieuw exemplaar voor een bestaande account), wordt deze mogelijk geïntegreerd met het Adobe Identity Management System, afhankelijk van het aangeschafte productpakket. Neem contact op met de Marketo Admin of met de Customer Success Manager van uw account als u dit doet.
 
 Bestaande Marketo-abonnementen worden later dit jaar naar het Adobe Identity Management-systeem gemigreerd.
 
@@ -77,6 +77,10 @@ Ja. Degenen die aan Adobe IMS zijn aangemeld, kunnen niet alle bestaande Marketo
 **Wie nemen we contact op voor ondersteuning als we geïntegreerd zijn met IMS?**
 
 U zou de standaardprocedure voor het contacteren volgen [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support).
+
+**Als ik een Identiteit van de Adobe gebruik om tot andere toepassingen van de Adobe toegang te hebben, kan ik dat gebruiken om tot Marketo toegang te hebben?**
+
+Zelfs als u andere Adobe-producten hebt, hebt u geen toegang tot Marketo met Adobe Identity totdat het abonnement is gemigreerd naar IMS.
 
 **Zijn Marketo-gebruikersrollen (binnen werkruimten) beheerd in Adobe Admin Console?**
 
