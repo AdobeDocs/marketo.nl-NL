@@ -1,9 +1,10 @@
 ---
 description: Verkoopoverzicht voor niet-native integratie van MS Dynamics - Marketo Docs - Productdocumentatie
 title: Verkoopoverzicht voor niet-native integratie van MS Dynamics
-source-git-commit: fb663ddf4c0021f258317636fbc7794e8172ab7e
+exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
+source-git-commit: ff076d66a193664aa6ec05cf940143cebdd2d942
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1439'
 ht-degree: 0%
 
 ---
@@ -15,6 +16,7 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
 >[!PREREQUISITES]
 >
 >* De functie &#39;Niet-native MSI&#39; die is ingeschakeld voor uw Marketo-instantie voordat u MSI instelt (als dit niet het geval is en u de functie al hebt aangeschaft, neemt u contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} - als u deze functie nog niet hebt aangeschaft, neemt u contact op met de succesmanager van de klant.)
+>* Downloaden [MSI-pakket voor aangepaste synchronisatie](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
 >* Een abonnement van de Dynamica van MS met Opstelling MSI ([On-prem](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md){target=&quot;_blank&quot;}, [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target=&quot;_blank&quot;}).
 >* Marketo REST API [correct ingesteld](https://developers.marketo.com/rest-api/){target=&quot;_blank&quot;}. De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
 >* Lezen [dit blogbericht](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target=&quot;_blank&quot;} om inzicht te krijgen in het object en de relaties.
