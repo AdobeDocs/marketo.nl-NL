@@ -3,7 +3,7 @@ unique-page-id: 13796475
 description: Persoonsgegevens weergeven - Marketo-documenten - Productdocumentatie
 title: Persoonsgegevens weergeven
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
-source-git-commit: e1b0e19dc292d867bc9639177592681fb9e8866d
+source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -18,11 +18,11 @@ De de detailmening van de persoon verstrekt een gedetailleerd profiel van elke p
 
 1. Klik op de knop **Mensen** tab.
 
-   ![](assets/people-tab.png)
+   ![](assets/person-detail-view-1.png)
 
 1. Klik op de gewenste persoon.
 
-   ![](assets/select-contact.png)
+   ![](assets/person-detail-view-2.png)
 
    >[!TIP]
    >
@@ -32,7 +32,7 @@ De de detailmening van de persoon verstrekt een gedetailleerd profiel van elke p
 
 Bevat alle contactgegevens van de persoon.
 
-![](assets/about.jpg)
+![](assets/person-detail-view-3.png)
 
 **Contactkaart**
 
@@ -59,7 +59,7 @@ Bevat alle contactgegevens van de persoon.
 
 Zie hoe deze persoon werkt met je outreach.
 
-![](assets/engagement.jpg)
+![](assets/person-detail-view-4.png)
 
 **Verkoop Connect-activiteit**
 
@@ -73,7 +73,7 @@ Zie hoe deze persoon werkt met je outreach.
 
 Toont uw outreach-geschiedenis. Bevat e-mails, campagnes en oproepen.
 
-![](assets/history.jpg)
+![](assets/person-detail-view-5.png)
 
 **Verkoopcampagnes**
 
@@ -95,7 +95,7 @@ Toont uw outreach-geschiedenis. Bevat e-mails, campagnes en oproepen.
 
 Taken beheren die aan deze persoon zijn gekoppeld.
 
-![](assets/tasks.jpg)
+![](assets/person-detail-view-6.png)
 
 Handelingen die u kunt uitvoeren:
 

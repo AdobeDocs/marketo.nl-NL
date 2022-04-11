@@ -1,22 +1,22 @@
 ---
 unique-page-id: 14352621
-description: Werken met verzendopties - Marketo Docs - Productdocumentatie
-title: Opties voor verzenden
+description: Een goed begrip van de verzendopties voor verkoopcampagne voor e-mailstappen - Marketo Docs - Productdocumentatie
+title: Verzendopties voor verkoopcampagne voor e-mailstappen
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 source-git-commit: 540bb61b9accf199e2be841086a6204064762861
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
 
-# Opties voor verzenden {#understanding-send-options}
+# Verzendopties voor verkoopcampagne voor e-mailstappen {#understanding-sales-campaign-send-options-for-email-steps}
 
-Wanneer u een campagne maakt, hebt u verschillende opties voor het maken van uw e-mailstappen in Sales Connect. En, afhankelijk van waar uw e-mail in uw Campagne valt, verschillen uw opties ook.
+Wanneer u een campagne maakt, hebt u verschillende opties voor het maken van uw e-mailstappen in Handelingen voor het inzicht in verkopen. En, afhankelijk van waar uw e-mail in uw Campagne valt, verschillen uw opties ook.
 
 Als het uw eerste stap en de eerste dag in uw Campagne is, zult u de volgende opties hebben:
 
-![](assets/image2019-10-25-10-43-19.png)
+![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
 Ik kies wanneer ik deze e-mail verstuur
 
@@ -58,3 +58,9 @@ Een taak creëren; Ik stuur deze e-mail zelf
 Deze e-mail naar de vorige e-mail verzenden
 
 * Deze verzendoptie is een &#39;follow-up&#39; van uw vorige e-mail en voegt de vorige e-mailtekst onder aan deze e-mail toe.
+
+>[!MORELIKETHIS]
+>
+>[Een verkoopcampagne maken](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
+>[Typen stappen en herinneringstaken voor verkoopcampagne](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target=&quot;_blank&quot;}
+>[Instellingen verkoopcampagne](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target=&quot;_blank&quot;}
