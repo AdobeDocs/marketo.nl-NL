@@ -2,7 +2,7 @@
 description: Toegang tot verkoopinzicht verwijderen - Marketo-documenten - productdocumentatie
 title: Toegang tot verkoopinzicht verwijderen
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -68,8 +68,8 @@ Toestemming tot de hieronder vermelde voorwerpen, apex klassen, en visualforce p
  </tbody> 
 </table>
 
-* Toegang tot Apex-klasse: 159 Apex-klassen die met &quot;mkto_si&quot; zijn
-* Toegang tot visuale pagina: 64 Visuale pagina&#39;s met &quot;mkto_si&quot;
+* Toegang tot Apex-klasse: 159 Apex-klassen die beginnen met &quot;mkto_si&quot;
+* Toegang tot visuale pagina: 64 Visuale pagina&#39;s die beginnen met &quot;mkto_si&quot;
 * Definities aangepaste instelling: mkto_si.Marketo Settings &amp; mkto_si.User Preferences
 
 ## Het verwijderen van Toegang tot het Inzicht van de Verkoop {#removing-access-to-sales-insight}

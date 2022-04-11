@@ -2,7 +2,7 @@
 description: Toestemming voor verkoopcontrole toevoegen - Marketo-documenten - productdocumentatie
 title: Toestemming voor verkoopinzicht toevoegen
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: d9876d73561d63dea4e46b0dfd191082f262baf6
+source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
@@ -76,8 +76,8 @@ De &quot;Marketo App&quot;-machtiging maakt deel uit van het Salesforce-pakket v
  </tbody> 
 </table>
 
-* Toegang tot Apex-klasse: 159 Apex-klassen die met &quot;mkto_si&quot; zijn
-* Toegang tot visuale pagina: 64 Visuale pagina&#39;s met &quot;mkto_si&quot;
+* Toegang tot Apex-klasse: 159 Apex-klassen die beginnen met &quot;mkto_si&quot;
+* Toegang tot visuale pagina: 64 Visuale pagina&#39;s die beginnen met &quot;mkto_si&quot;
 * Definities aangepaste instelling: mkto_si.Marketo Settings &amp; mkto_si.User Preferences
 
 ## Marketo App Permission Set toevoegen aan gebruikers {#adding-marketo-app-permission-set-to-users}
