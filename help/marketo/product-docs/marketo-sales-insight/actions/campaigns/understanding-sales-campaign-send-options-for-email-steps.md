@@ -1,56 +1,59 @@
 ---
 description: Een goed begrip van de verzendopties voor verkoopcampagne voor e-mailstappen - Marketo Docs - Productdocumentatie
 title: Verzendopties voor verkoopcampagne voor e-mailstappen
-hide: true
-hidefromtoc: true
-source-git-commit: 468488010259c5d81cccf741db5cc4b98d20d9ea
+exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
 
 # Verzendopties voor verkoopcampagne voor e-mailstappen {#understanding-sales-campaign-send-options-for-email-steps}
 
-Wanneer u een campagne maakt, hebt u verschillende opties voor het maken van uw e-mailstappen in Handelingen voor het inzicht in verkopen. En, afhankelijk van waar uw e-mail in uw Campagne valt, verschillen uw opties ook.
+Wanneer u een campagne van de Verkoop creeert, hebt u verscheidene opties op hoe uw e-mailstappen in de Acties van het Inzicht van de Verkoop worden gecreeerd. En afhankelijk van waar je e-mailadres in je verkoopcampagne valt, verschillen je opties ook.
 
-Als het uw eerste stap en de eerste dag in uw Campagne is, zult u de volgende opties hebben:
+## Verzendopties eerste stap {#first-step-send-options}
+
+Als het uw eerste stap en de eerste dag in uw Verkoop Campagne is, zult u de volgende opties hebben:
 
 ![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
 Ik kies wanneer ik deze e-mail verstuur
 
-* Met deze optie kunt u de tijd &#39;Verzenden op&#39; kiezen voor de eerste e-mail in uw campagne wanneer u de campagne afbreekt door mensen toe te voegen.
+* Met deze optie kunt u de optie &quot;verzenden op&quot;-tijd kiezen voor de eerste e-mail in uw verkoopcampagne wanneer u de verkoopcampagne start door mensen toe te voegen.
 
 Deze e-mail op het volgende moment verzenden
 
-* Wanneer u uw campagne start door er mensen aan toe te voegen, plannen we de e-mail voor deze keer.
-* U hebt altijd de optie om een nieuw &quot;verzend bij&quot;tijdstip te kiezen wanneer u van uw Campagne schopt.
+* Wanneer je je verkoopcampagne start door er mensen aan toe te voegen, plannen we de e-mail voor deze keer.
+* Je hebt altijd de mogelijkheid om een nieuwe verzenddatum te kiezen wanneer je je verkoopcampagne afsluit.
 
 Een taak creëren; Ik stuur deze e-mail zelf
 
 * Met deze optie maakt u een e-mailtaak (en synchroniseert u deze met Salesforce) die u naar wens kunt verzenden.
-* Zodra u deze selectie hebt gemaakt, wanneer u uw Campagne start, zullen wij deze taken omhoog voor u in het Centrum van het Bevel en Levend Feed in de rij plaatsen. Vervolgens kunt u elke e-mail personaliseren en verzenden (of plannen) voordat deze wordt verzonden.
+* Zodra u deze selectie hebt gemaakt, wanneer u uw verkoopcampagne start, zullen wij deze taken voor u in de rij zetten in het Opdrachtcentrum en Live feed. Vervolgens kunt u elke e-mail personaliseren en verzenden (of plannen) voordat deze wordt verzonden.
 
    * Als u deze taak in onze webtoepassing opent, wordt een samenstellingsvenster geopend met het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de sjabloon die u hebt gekozen.
    * Als u deze taak in Gmail of Vooruitzichten opent, zal het een inheemse samenstellings venster openen en dynamisch het e-mailadres van uw contact, de onderwerpregel van uw e-mail, en het malplaatje vullen u koos.
 
-Voor alle volgende dagen/stappen in uw campagne hebt u de volgende opties:
+## Verzendopties volgende stap {#subsequent-step-send-options}
 
-Deze e-mail verzenden op hetzelfde moment als de vorige e-mail in deze campagne
+Voor alle volgende dagen/stappen in uw verkoopcampagne hebt u de volgende opties:
+
+Deze e-mail verzenden op hetzelfde moment als de vorige e-mail in deze verkoopcampagne
 
 * Met deze optie wordt het e-mailbericht tegelijk met het e-mailbericht direct vóór het bericht verzonden.
 * Het zal nog verzenden op de dag het met wordt geassocieerd.
 
 Deze e-mail op het volgende moment verzenden
 
-* Wanneer u uw campagne start door er mensen aan toe te voegen, plannen we de e-mail voor deze keer.
-* U hebt altijd de optie om een nieuw &quot;verzend bij&quot;tijdstip te kiezen wanneer u van uw Campagne schopt.
+* Wanneer je je verkoopcampagne start door er mensen aan toe te voegen, plannen we de e-mail voor deze keer.
+* Je hebt altijd de mogelijkheid om een nieuwe verzenddatum te kiezen wanneer je je verkoopcampagne afsluit.
 
 Een taak creëren; Ik stuur deze e-mail zelf
 
 * Met deze optie maakt u een e-mailtaak (en synchroniseert u deze met Salesforce) die u naar wens kunt verzenden.
-* Zodra u deze selectie hebt gemaakt, wanneer u uw Campagne start, zal Tout deze taken omhoog voor u in het Centrum van het Bevel en Levende Diervoed in de rij plaatsen. Vervolgens kunt u elke e-mail personaliseren en verzenden (of plannen) voordat deze wordt verzonden.
+* Zodra u deze selectie hebt gemaakt, wanneer u uw Campagne van de Verkoop schopt, zullen de Acties van het Inzicht van de Verkoop deze taken voor u in het Centrum van het Bevel en Levende Diervoeders een rij vormen. Vervolgens kunt u elke e-mail personaliseren en verzenden (of plannen) voordat deze wordt verzonden.
 
    * Als u deze taak in onze webtoepassing opent, wordt een samenstellingsvenster geopend met het e-mailadres van uw contactpersoon, de onderwerpregel van uw e-mail en de sjabloon die u hebt gekozen.
    * Als u deze taak in Gmail of Vooruitzichten opent, zal het een inheemse samenstellings venster openen en dynamisch het e-mailadres van uw contact, de onderwerpregel van uw e-mail, en het malplaatje vullen u koos.

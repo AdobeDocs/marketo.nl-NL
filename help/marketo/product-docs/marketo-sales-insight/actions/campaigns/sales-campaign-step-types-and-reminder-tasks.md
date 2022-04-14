@@ -1,12 +1,10 @@
 ---
 description: Typen stappen en herinneringstaken voor verkoopcampagne - Marketo Docs - Productdocumentatie
 title: Typen stappen en herinneringstaken voor verkoopcampagne
-hide: true
-hidefromtoc: true
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
-source-git-commit: 297b97d215f98c987bee5da7d6db82f6153602cc
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -15,7 +13,7 @@ ht-degree: 0%
 
 ## Typen stappen verkoopcampagne {#sales-campaign-step-types}
 
-Wanneer u een stap toevoegt aan uw campagne, hebt u vier opties.
+Wanneer u een stap toevoegt aan uw verkoopcampagne, hebt u vier opties.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-1.png)
 
@@ -53,21 +51,17 @@ Gebruik aangepaste taken als de bovenstaande opties niet van toepassing zijn. U 
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-5.png)
 
-## Herinneringstaken gebruiken in campagnes {#using-reminder-tasks-in-campaigns}
+## Herinneringstaken gebruiken in verkoopcampagnes {#using-reminder-tasks-in-sales-campaigns}
 
-Taken zijn een krachtig hulpmiddel wanneer u een campagne naar een contactpersoon stuurt, vooral als uw verkoopproces meerdere kanalen/aanrakingen heeft.
+Taken zijn een krachtig hulpmiddel wanneer u een campagne van de Verkoop naar een contact verzendt, vooral als uw verkoopproces multi-kanaal/aanraking is.
 
-De taak om een E-mail en een Taak te verzenden om een contact te roepen is het gemeenschappelijkste gebruik voor Taken in Campagnes.
+De taak om een E-mail en een Taak te verzenden om een contact te roepen is het gemeenschappelijkste gebruik voor Taken in de Campagnes van de Verkoop.
 
 U kunt ook een contactpersoon voor &quot;Taak om te e-mailen&quot; maken op LinkedIn als dat onderdeel is van uw workflow. U kunt ook een aangepaste taak uitvoeren om u eraan te herinneren dat u hen kunt uitnodigen voor een gelukkig uur, vragen over hun liefdadigheidsgebeurtenis of inchecken na game 5, enz.
 
 >[!NOTE]
 >
->Het belangrijkste aan Taken in Campagnes, moet u de taak voltooien om de volgende stap teweeg te brengen.
-
-Taken worden altijd gekoppeld aan elk individu in de campagne. Dit betekent dat je in elke persoon moet gaan en de taak moet sluiten om hun individuele campagne voort te zetten.
-
-U kunt uw taken beheren in: het lusje van Taken van uw Campagne in Campagnes 2.0, direct van uw Centrum van het Bevel, of van de sectie van Taken van Levende Diervoeders. Bovendien kunt u uw taken ook beheren vanuit Salesforce.
+>Het belangrijkste ding over Taken in de Campagnes van de Verkoop, moet u de taak voltooien om de volgende stap teweeg te brengen.
 
 >[!MORELIKETHIS]
 >

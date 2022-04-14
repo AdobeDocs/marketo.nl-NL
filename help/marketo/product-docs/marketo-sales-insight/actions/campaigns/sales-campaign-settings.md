@@ -1,19 +1,17 @@
 ---
 description: Instellingen voor verkoopcampagne - Marketo-documenten - productdocumentatie
 title: Instellingen verkoopcampagne
-hide: true
-hidefromtoc: true
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
-source-git-commit: 297b97d215f98c987bee5da7d6db82f6153602cc
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
 # Instellingen verkoopcampagne {#sales-campaign-settings}
 
-De sectie van de montages van de verkoopcampagne staat u toe om een specifieke verkoopcampagne te vormen zodat het kan werken om de gebruiksgevallen van uw team voor die campagne het best te passen.
+Met de sectie met de instellingen voor verkoopcampagne kunt u een specifieke verkoopcampagne configureren, zodat deze optimaal aansluit bij de gebruiksgevallen van uw team voor die verkoopcampagne.
 
 ## Weekends overslaan {#skip-weekends}
 
@@ -27,7 +25,7 @@ Schakel overslaan in weekends in, zodat alle stappen die op een weekenddag (zate
 
    ![](assets/sales-campaign-settings-1.png)
 
-1. Kies de gewenste campagne.
+1. Kies de gewenste verkoopcampagne.
 
    ![](assets/sales-campaign-settings-2.png)
 
@@ -41,13 +39,13 @@ Schakel overslaan in weekends in, zodat alle stappen die op een weekenddag (zate
 
 ## Verwijderen bij stuiteren {#remove-on-bounce}
 
-Als u een e-mailverbinding gebruikt, worden er stuiteringen gevonden op basis van het stuiteringsbericht dat naar de gebruikers in het Postvak IN wordt verzonden. Bovendien kunnen wij mensen uit campagnes verwijderen wanneer een stuitend effect wordt ontdekt.
+Als u een e-mailverbinding gebruikt, worden er stuiteringen gevonden op basis van het stuiteringsbericht dat naar de gebruikers in het Postvak IN wordt verzonden. Bovendien, kunnen wij mensen uit de Campagnes van de Verkoop verwijderen wanneer een stuit wordt ontdekt.
 
 1. Klikken **Campagnes**.
 
    ![](assets/sales-campaign-settings-5.png)
 
-1. Kies de gewenste campagne.
+1. Kies de gewenste verkoopcampagne.
 
    ![](assets/sales-campaign-settings-6.png)
 
@@ -67,7 +65,7 @@ Als u antwoord het volgen voor Gmail of Uitwisseling wordt toegelaten, kunnen wi
 
    ![](assets/sales-campaign-settings-9.png)
 
-1. Kies de gewenste campagne.
+1. Kies de gewenste verkoopcampagne.
 
    ![](assets/sales-campaign-settings-10.png)
 

@@ -1,32 +1,31 @@
 ---
 description: Een verkoopcampagne maken - Marketo Docs - Productdocumentatie
 title: Een verkoopcampagne maken
-hide: true
-hidefromtoc: true
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
+source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
 
 # Een verkoopcampagne maken {#create-a-sales-campaign}
 
-De campagnes zijn een reeks multikanaalsstappen die omvatten: e-mails, telefoongesprekken, InMail en aangepaste taken. Zij staan u toe om uw mededelingen met uw potentieel en bestaande klanten te stroomlijnen.
+De Campagnes van de verkoop zijn een reeks multikanaalsstappen die omvatten: e-mails, telefoongesprekken, InMail en aangepaste taken. Zij staan u toe om uw mededelingen met uw potentieel en bestaande klanten te stroomlijnen.
 
-Met campagnes kunt u:
+Met verkoopcampagnes kunt u:
 
 * **Organiseren**: Stroomlijn al uw stimuleringsactiviteiten op één plaats voor efficiënte uitvoering.
 * **Schalen**: Plan al uw outreach-inspanningen zodat u uw inspanningen kunt schalen, handwerk kunt minimaliseren en uw persoonlijke wensen kunt aanpassen.
 * **Meetlat**: Houd het succes van al uw e-mails en taken op één plaats bij en meld ze automatisch aan bij Salesforce. Door te weten wat resoneert en tot resultaten leidt, kunt u constant uw resultaten testen en verbeteren.
 
-Hoe zet je een campagne op?
+Hoe zet je een verkoopcampagne op?
 
 1. Klik op de knop **Campagnes** tab.
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. Selecteer een categorie en klik op de knop **Een campagne maken** om een nieuwe campagne te maken.
+1. Selecteer een categorie en klik op de knop **Nieuwe campagne maken** knop.
 
    ![](assets/create-a-sales-campaign-2.png)
 
@@ -56,13 +55,13 @@ Hoe zet je een campagne op?
 
    >[!NOTE]
    >
-   >&quot;Dagen&quot; zijn niet het aantal dagen tussen handelingen, maar de dag binnen de reeks. Als uw campagne bijvoorbeeld 7 dagen duurt, betekent het invoeren van &#39;3&#39; dat de actie op dag 3 van 7 wordt uitgevoerd, **niet** 3 dagen later.
+   >&quot;Dagen&quot; zijn niet het aantal dagen tussen handelingen, maar de dag binnen de reeks. Als je verkoopcampagne bijvoorbeeld 7 dagen duurt, betekent het invoeren van &#39;3&#39; dat de actie op dag 3 van 7 wordt uitgevoerd. **niet** 3 dagen later.
 
-1. Zorg ervoor dat u de opties voor planning en antwoord aanpast, zoals het overslaan van weekends (wat geweldig is) door naar de **Tabblad Instellingen** voor uw campagne.
+1. Zorg ervoor dat u de opties voor planning en antwoord aanpast, zoals het overslaan van weekends (wat geweldig is) door naar de **Tabblad Instellingen** voor je verkoopcampagne.
 
    ![](assets/create-a-sales-campaign-8.png)
 
-Nu is het tijd om mensen aan uw campagne toe te voegen!
+Nu is het tijd om mensen toe te voegen!
 
 >[!MORELIKETHIS]
 >
