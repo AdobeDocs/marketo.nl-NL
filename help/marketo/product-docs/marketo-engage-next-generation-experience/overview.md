@@ -2,10 +2,10 @@
 description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: d3d85838c5750f1ff61fe7f542af71014d10a3e8
+source-git-commit: a5d6b3960957aa262fee7372b90f3609e1e19cce
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ Welkom bij de Marketo Engage-ervaring van de volgende generatie, een nieuwe inte
 
 ## Neem de rondleiding {#take-the-tour}
 
-Bij eerste login, zal pop-up verschijnen, klaar om u de ondergang van de nieuwe ervaring te geven. Hoofden omhoog, als u verkiest om het over te slaan, zal het **not** later beschikbaar zijn.
+Bij eerste login, zal pop-up verschijnen, klaar om u de ondergang van de nieuwe ervaring te geven. Hoofden omhoog, als u verkiest het over te slaan, zal het **niet** later beschikbaar zijn.
 
 ![](assets/overview-1.png)
 
@@ -38,7 +38,7 @@ Er is veel nieuwe functionaliteit in deze volgende-gen ervaring, die allen wordt
 
 **Pictogrammen**
 
-De nieuwe interfaceeigenschappen verbeteren en breidden iconografie uit. Meer informatie hierover vindt u hier: [Icon Glossary](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
+De nieuwe interfaceeigenschappen verbeteren en breidden iconografie uit. Meer informatie hierover vindt u hier: [Woordenlijst met pictogrammen](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
 
 ![](assets/overview-new-icons.png)
 
@@ -60,7 +60,7 @@ Er zijn veel nieuwe boomfuncties beschikbaar.
 
 >[!NOTE]
 >
->Als u een zoekopdracht uitvoert in de structuur, worden alleen de eerste 250 resultaten weergegeven. Als u na een zoekopdracht uw middel niet kunt vinden, gebruikt u de functie [Globaal zoeken](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md).
+>Als u een zoekopdracht uitvoert in de structuur, worden alleen de eerste 250 resultaten weergegeven. Als u na een zoekopdracht uw middel niet kunt vinden, gebruikt u de [Globaal zoeken](/help/marketo/product-docs/marketo-engage-next-generation-experience/using-the-global-search.md) functie.
 
 **Marketo Classic versus de nieuwe Marketo**
 
@@ -192,7 +192,7 @@ Kijk eens naar de nieuwe Global Nav.
   </tr>
   <tr>
    <td>3</td> 
-   <td>Op deze manier kun je feedback geven over je MEUE-ervaring</td> 
+   <td>Op deze manier kun je feedback geven over je ervaring</td> 
   </tr>
   <tr>
    <td>4</td> 
