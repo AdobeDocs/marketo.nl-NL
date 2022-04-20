@@ -2,10 +2,9 @@
 description: Een publiek synchroniseren vanuit Adobe Experience Cloud - Marketo Docs - Productdocumentatie
 title: Een publiek synchroniseren vanuit Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -18,31 +17,31 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Adobe Experience Cloud-publiek delen instellen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-experience-cloud-audience-sharing.md)
+>[Organisatietoewijzing Adobe instellen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
 
 ## Een publiek synchroniseren {#how-to-sync-an-audience}
 
-1. Klik in Mijn Marketo op de tegel **Database**.
+1. Klik in Mijn Marketo op de knop **Database** tegel.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-1.png)
 
-1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer **Synchroniseren vanuit Experience Cloud Publiek**.
+1. Klik op de knop **Nieuw** vervolgkeuzelijst en selecteer **Synchroniseren vanaf publiek Experience Cloud**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-2.png)
 
-1. Klik op de vervolgkeuzelijst **Audience Library Folder** en selecteer de gewenste oorspronkelijke map.
+1. Klik op de knop **Poortbibliotheekmap** en selecteert u de gewenste oorspronkelijke map.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-3.png)
 
-1. Selecteer een **Audience Name**.
+1. Selecteer een **Auditienaam**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. Voor de bestemming, kunt u een bestaande lijst selecteren, of de naam van nieuwe typen. In dit voorbeeld maken we een nieuwe. Klik **Sync** wanneer gereed.
+1. Voor de bestemming, kunt u een bestaande lijst selecteren, of de naam van nieuwe typen. In dit voorbeeld maken we een nieuwe. Klikken **Synchroniseren** wanneer gereed.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
-1. Klik **OK**.
+1. Klikken **OK**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-6.png)
 
@@ -50,9 +49,9 @@ ht-degree: 0%
 
 **Hoe werkt de cookiesync?**
 
-Wanneer de cookiesync voor uw Marketo Abonnement wordt toegelaten, zal Marketo munchkin.js proberen om Adobe ECIDs voor de Adobe IMS Org te vangen en op te slaan u tijdens de integratieopstelling specificeerde en deze ECIDs aan het overeenkomstige koekjesherkenningsteken van Marketo aanpast. Hierdoor kunnen de anonieme gebruikersprofielen van Marketo worden verrijkt met Adobe-ECID&#39;s.
+Wanneer de cookiesynchronisatie is ingeschakeld voor uw Marketo-abonnement, probeert Marketo&#39;s munchkin.js Adobe ECID&#39;s vast te leggen en op te slaan voor de Adobe IMS Org die u tijdens de integratie-instellingen hebt opgegeven en deze ECID&#39;s overeen te laten komen met de overeenkomstige Marketo cookie-id. Hierdoor kunnen de anonieme gebruikersprofielen van Marketo worden verrijkt met Adobe-ECID&#39;s.
 
-Een volgende stap is vereist om het anonieme gebruikersprofiel aan een Profiel van de Lood te associëren, dat gebruikend een gewone tekst e-mail wordt geïdentificeerd. Precies hoe dit [werkt wordt hier beschreven](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+Een volgende stap is vereist om het anonieme gebruikersprofiel aan een Profiel van de Lood te associëren, dat gebruikend een gewone tekst e-mail wordt geïdentificeerd. Precies hoe dit werkt [wordt hier beschreven](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
 
 **Waarom is de lijstgrootte in Marketo anders dan die in Adobe?**
 
