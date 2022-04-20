@@ -2,9 +2,9 @@
 description: Handleiding voor Admin Guide Handelingen voor toezicht op verkoop - Marketo Docs - Productdocumentatie
 title: Admin Guide voor handelingen voor het inzien van verkopen
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: fc94cd3b62b0afd8122c56773d420f385d30dabd
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -109,6 +109,10 @@ Als u al bent aangemeld bij Salesforce, hebt u verbinding. Als dat niet het geva
 ## Gegevenssynchronisatie starten {#initiate-data-sync}
 
 De het gebiedssynchronisatie van de gegevenseenmaking voor de Acties van het Inzicht van de Verkoop laat het systeem toe om persooninformatie van uw gegevensbestand van de Marketo Engage in uw gegevensbestand van de Acties van het Inzicht van de Verkoop te trekken, die uw gegevens van uw mensen bijgewerkt houden en ervoor zorgen de activiteiten aan de juiste verslagen over Marketo en Salesforce worden geregistreerd.
+
+>[!CAUTION]
+>
+>Als u de gegevenssynchronisatie hebt gestart, moet u **niet** verwijder de originele gebruiker op uw instantie van de Acties van het Inzicht van de Verkoop. Dit is de gebruiker waarnaar de eerste uitnodiging is verzonden.
 
 1. Klik in Marketo op **Beheer**.
 
