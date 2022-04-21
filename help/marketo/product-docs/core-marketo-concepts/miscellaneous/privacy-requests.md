@@ -2,9 +2,9 @@
 description: Privacyverzoeken - Marketo-documenten - productdocumentatie
 title: Privacyverzoeken
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,10 @@ Dit document biedt een overzicht van het beheer van individuele privacyverzoeken
 
 U kunt individuele verzoeken om tot consumentengegevens van Marketo Engage toegang te hebben en te schrappen op twee manieren voorleggen:
 
-* Via de [UI Privacy Service](https://privacyui.cloud.adobe.io/). Zie de documentatie [hier](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_ui_tutorial.md).
-* Via de **Privacy Service-API**. Zie de documentatie [hier](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html#!api-specification/markdown/narrative/tutorials/privacy_service_tutorial/privacy_service_api_tutorial.md) en de API-referentie [hier](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
+* Via de [UI Privacy Service](https://privacyui.cloud.adobe.io/). Zie de documentatie [hier](https://developer.adobe.com/experience-platform-apis/references/privacy-service/).
+* Via de **Privacy Service-API**. Zie de documentatie [hier](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) en de API-referentie [hier](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
 
-De [Privacy Service](https://www.adobe.io/apis/experienceplatform/home/services/privacy-service.html) ondersteunt twee typen verzoeken: gegevenstoegang en gegevensverwijdering.
+De [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) ondersteunt twee typen verzoeken: gegevenstoegang en gegevensverwijdering.
 
 Zie hoe u aanvragen voor toegang en verwijderen kunt maken.
 
