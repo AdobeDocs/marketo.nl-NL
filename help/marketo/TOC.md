@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 86451f1027e74479a415a4c6654a2625275d4112
+source-git-commit: e4653006bbdf750752bb6b1343796d7acde6cd04
 workflow-type: tm+mt
-source-wordcount: '8654'
+source-wordcount: '8658'
 ht-degree: 0%
 
 ---
@@ -188,6 +188,7 @@ ht-degree: 0%
          + [Browserondersteuningsinstellingen &quot;Niet bijhouden&quot; bewerken](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [Instellingen openingspagina bewerken](product-docs/administration/settings/edit-landing-page-settings.md)
          + [Vervaldatum koppeling bewerken in rapporten en waarschuwingen](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
+         + [Koppen van koppeling voor e-mailbeheer](product-docs/administration/settings/email-tracking-link-headers.md)
          + [Abonnementsinstellingen bewerken](product-docs/administration/settings/edit-subscription-settings.md)
          + [Functies voor schatkist in- of uitschakelen](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
          + [Persoonlijke URL&#39;s voor uw account inschakelen (beheer)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
