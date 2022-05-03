@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: e4653006bbdf750752bb6b1343796d7acde6cd04
+source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
 workflow-type: tm+mt
-source-wordcount: '8658'
+source-wordcount: '8728'
 ht-degree: 0%
 
 ---
@@ -579,6 +579,19 @@ ht-degree: 0%
          + [Salesforce-synchronisatiefouten](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Status Salesforce-synchronisatie](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [Persoonlijke accounts gebruiken](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
+      + Veeva CRM Sync {#veeva-crm-sync}
+         + [De Veeva CRM Sync begrijpen](product-docs/crm-sync/salesforce-sync/understanding-the-veeva-crm-sync.md)
+         + Instellen {#setup}
+            + [Stap 1 van 3: Marketo-velden toevoegen aan Veeva CRM](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
+            + [Stap 2 van 3: Een Veeva CRM-gebruiker voor Marketo Engage maken](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
+            + [Stap 3 van 3: Connect Marketo Engage en Salesforce (Professional)](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-salesforce.md)
+         + Details synchroniseren {#sync-details}
+            + [Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
+            + [Standaardveldtoewijzing](product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md)
+            + [Aangepaste objectsynchronisatie inschakelen/uitschakelen](product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md)
+            + [Accountsynchronisatie persoon](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync.md)
+            + [Het synchroniseren van Vraag en Vraag Zeer belangrijke Berichten](product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md)
+            + [Aangepaste objectsynchronisatie van veeva CRM](product-docs/crm-sync/veeva-crm-sync/sync-details/veeva-crm-custom-object-sync.md)
    + Demand Generation {#demand-generation}
       + Integratie van advertentienetwerken {#ad-network-integrations}
          + [Inzicht in ad-netwerkintegratie](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
