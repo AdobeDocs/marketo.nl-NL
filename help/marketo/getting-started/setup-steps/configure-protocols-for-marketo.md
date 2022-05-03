@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Protocollen configureren voor Marketo - Marketo Docs - Productdocumentatie
 title: Protocollen voor Marketo configureren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: abfd29468bee24644353df497e1f80e0c05b6b2f
+source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
 workflow-type: tm+mt
-source-wordcount: '988'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,9 +25,7 @@ Dit artikel zou met de afdeling van IT van het bedrijf moeten worden gedeeld die
 >Als uw team van IT Webtoegang gebruikend een lijst van gewenste personen beperkt, vraag hen om de volgende domeinen (met inbegrip van de asterisk) toe te voegen om alle middelen en websockets van Marketo toe te staan:
 
 * `*.marketo.com`
-
 * `*.marketodesigner.com`
-
 * `*.mktoweb.com`
 
 ## Stap 1: DNS-records maken voor bestemmingspagina&#39;s en e-mail {#step-create-dns-records-for-landing-pages-and-email}
@@ -57,6 +55,10 @@ Bijvoorbeeld:
 
 Melden aan uw marketingteam wanneer u dit proces hebt voltooid.
 
+`4` **Contact [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} om het inrichtingsproces van een SSL-certificaat te starten.**
+
+Dit proces kan maximaal 3 werkdagen duren.
+
 ## Stap 2: Lijst van gewenste personen Marketo IPs {#step-allowlist-marketo-ips}
 
 Als uw marketinggroep Marketo gebruikt om teste-mails te verzenden (een aanbevolen werkwijze voordat e-mailberichten worden verzonden), worden de e-mails over de test soms geblokkeerd door anti-spamsystemen die afhankelijk zijn van IP-adressen van de afzender om te controleren of de e-mail geldig is. Voeg Marketo toe aan uw lijst van gewenste personen om ervoor te zorgen dat deze teste-mails arriveren.
@@ -71,7 +73,7 @@ Voeg deze IP adressen aan uw collectieve lijst van gewenste personen toe:
 103.237.104.0/22\
 94.236.119.0/26
 
-Sommige anti-anti-spamsystemen gebruiken het terug-weg van de e-mail gebied in plaats van het IP adres voor het toewijzen. In die gevallen, is de beste benadering lijst van gewenste personen &quot;*.mktomail.com&quot;, aangezien Marketo verscheidene brievenbussubdomeinen gebruikt. Andere anti-spamsystemen lijst van gewenste personen die op Van adres wordt gebaseerd. In deze situaties, ben zeker om alle verzendende (&quot;van) domeinen te omvatten die uw groep van de Marketing gebruikt om met mensen/leiders te communiceren.
+Sommige anti-anti-spamsystemen gebruiken het terug-weg van de e-mail gebied in plaats van het IP adres voor het toewijzen. In die gevallen is de beste aanpak de lijst van gewenste personen &quot;&#42;.mktomail.com&quot;, aangezien Marketo verscheidene brievenbus subdomain gebruikt. Andere anti-spamsystemen lijst van gewenste personen die op Van adres wordt gebaseerd. In deze situaties, ben zeker om alle verzendende (&quot;van) domeinen te omvatten die uw groep van de Marketing gebruikt om met mensen/leiders te communiceren.
 
 >[!NOTE]
 >
