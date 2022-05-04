@@ -1,12 +1,10 @@
 ---
 description: Kopteksten van koppelingen voor e-mail bijhouden - Marketo Docs - Productdocumentatie
 title: Koppen van koppeling voor e-mailbeheer
-hide: true
-hidefromtoc: true
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: dcca897dc5014a2179fe35a031ba2f9e5b2dbaf4
+source-git-commit: e9a41359a4a03f323312b61ab5afc820140b6fee
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -30,7 +28,7 @@ Voer de onderstaande stappen uit om de kopteksten van de koppeling voor het bijh
 <table>
  <tr>
   <td><strong>Strikt vervoer-veiligheid</strong></td>
-  <td>Gebruik deze optie om te garanderen dat verbindingen met bestemmingspagina's altijd via HTTPS worden aangeboden (moet alleen worden ingesteld voor abonnementen met bestemmingspagina's die zijn beveiligd door SSL)</td>
+  <td>Gebruik deze optie om te garanderen dat koppelingen voor tracering altijd via HTTPS worden verzonden (moet alleen worden ingesteld voor abonnementen met koppelingen die zijn beveiligd door SSL)</td>
  </tr>
 </table>
 
