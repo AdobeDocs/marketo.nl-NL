@@ -1,11 +1,10 @@
 ---
 description: Werken met de Veeva CRM Sync - Marketo Docs - Productdocumentatie
 title: De Veeva CRM Sync begrijpen
-hide: true
-hidefromtoc: true
-source-git-commit: 93e6bb881e10cda26b3a33569dc67627d628a178
+exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
+source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -28,14 +27,14 @@ De synchronisatie tussen Veva en Marketo Engage is bidirectioneel slechts voor d
 
 ## Wat is gesynchroniseerd tussen Marketo Engage en Veeva {#what-is-synced-between-marketo-engage-and-veeva}
 
-* Persoonlijke accounts
+* [Persoonlijke accounts](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target=&quot;_blank&quot;}
 * Gebruikers
-* De Vraag en roept Zeer belangrijke Voorwerpen
-* Aangepaste objecten
+* [De Vraag en roept Zeer belangrijke Voorwerpen](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target=&quot;_blank&quot;}
+* [Aangepaste objecten](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/veeva-crm-custom-object-sync.md){target=&quot;_blank&quot;}
 
 ## Informatie over {#things-to-know}
 
-* De referenties die u in Marketo Engage for Veeva invoert, worden gebruikt om gegevens te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
+* De [aanmeldingsgegevens die u hebt ingevoerd in Marketo Engage voor Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target=&quot;_blank&quot;} worden gebruikt om gegevens te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
 
 * Veeva CRM is gebaseerd op force.com en de rijke ervaring die Marketo Engage heeft met het platform wordt geërft in deze synchronisatie.
 
