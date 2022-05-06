@@ -2,16 +2,16 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 621bb7db9485ef1cc559b5b161d5acb606bc4903
+source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: '851'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release: mei 2022 {#release-notes-may-22}
 
-Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 mei. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
+Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 mei. Controleer de Adobe Marketo Engage-editie van uw voor de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -64,6 +64,8 @@ In de nieuwe generatie wordt de weergave E-mailsjabloondetails in Design Studio 
 **E-mailverificatie en uniformiteit**: Vanaf april wordt begonnen met het invoeren van e-mailverificatie. Op dat moment is verificatie en unieke verificatie vereist voor e-mailadressen van gebruikers met de Marketo Engage-naam (dit geldt niet voor gebruikers met alleen de API). Gebruikers met een directoryservice hebben hun e-mailadres automatisch laten controleren wanneer hun abonnement is ingeschakeld met e-mailverificatie.
 
 E-mailverificatie voor abonnementen met de functie &quot;Aanmelden bij gebruiker uitgenodigd dialoogvenster&quot; of met één e-mailadres dat is gekoppeld aan meerdere gebruikers, valt samen met de release van mei. Abonnementen waaraan één e-mail is gekoppeld aan meerdere gebruikers worden ingeschakeld met e-mailverificatie. Deze gebruikers moeten het conflict oplossen en per gebruiker een unieke e-mail gebruiken. Wanneer de functie Gebruikersdialoogvenster aanmelden is ingeschakeld, moeten gebruikers die via deze functie zijn uitgenodigd een uniek e-mailadres hebben. Voor gebruikers met alleen een API die via deze functie zijn uitgenodigd, hoeft het e-mailadres niet uniek te zijn.
+
+**Gedrag van archiefmap wijzigen**: Met deze release is de mogelijkheid om nieuwe elementen te maken in Archiefmappen niet meer beschikbaar in de contextmenu&#39;s van de boomstructuur. Menuopties voor het maken van nieuwe elementen worden voor alle elementen verborgen. [Meer informatie hier](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
 
 **_Webinar productrelease_**
 
