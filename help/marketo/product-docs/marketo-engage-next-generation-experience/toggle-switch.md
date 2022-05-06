@@ -2,16 +2,16 @@
 description: Schakelen tussen Marketo-documenten - productdocumentatie
 title: Schakelaar schakelen
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 05f31bc1d48dff0351fb6084893be7f5a96a8754
+source-git-commit: 13b3548580d29a0e93958ebac9be39435769121c
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
 
 # Schakelaar schakelen {#toggle-switch}
 
-Met de schakeloptie kunt u schakelen tussen de klassieke Marketo-interface en de nieuwe Marketo Engage-ervaring van de volgende generatie. Deze optie is beschikbaar in de weergave Landing Page List en op pagina&#39;s met formulierdetails.
+Met de schakeloptie kunt u schakelen tussen de klassieke Marketo-interface en de Marketo Engage-ervaring van de volgende generatie. Het is beschikbaar in alle hieronder gemarkeerde gebieden. Vanaf de release van mei 2022 wordt de volgende generatie standaard ingeschakeld.
 
 >[!NOTE]
 >
@@ -99,14 +99,32 @@ De nieuwe ervaring wordt geladen.
 
 ![](assets/toggle-switch-17.png)
 
-## Inschakelen voor alle functies {#enable-for-all-features}
+## E-mailsjabloondetails weergeven {#email-template-details-view}
 
-U kunt de volgende-gen interface van Marketo inschakelen voor alle beschikbare functies, zowel de huidige als de toekomstige.
-
-1. In een gebied dat momenteel de Schakelaar van de Wissel heeft (in dit voorbeeld zijn wij binnen [Formuliergegevens pagina](#form-details-page)), klikt u op het tandwielpictogram rechtsonder op de pagina.
+1. Selecteer in Marketo **Design Studio**.
 
    ![](assets/toggle-switch-18.png)
 
-1. Selecteren **Inschakelen voor alle beschikbare functies** en klik op **OK**.
+1. Selecteer de gewenste e-mailsjabloon.
 
    ![](assets/toggle-switch-19.png)
+
+1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
+
+   ![](assets/toggle-switch-20.png)
+
+De nieuwe ervaring wordt geladen.
+
+![](assets/toggle-switch-21.png)
+
+## Inschakelen voor alle functies {#enable-for-all-features}
+
+U kunt de volgende-gen interface van Marketo handmatig inschakelen voor alle beschikbare functies, zowel de huidige als de toekomstige.
+
+1. In een gebied dat momenteel de Schakelaar van de Wissel heeft (in dit voorbeeld zijn wij binnen [Formuliergegevens pagina](#form-details-page)), klikt u op het tandwielpictogram rechtsonder op de pagina.
+
+   ![](assets/toggle-switch-22.png)
+
+1. Selecteren **Inschakelen voor alle beschikbare functies** en klik op **OK**.
+
+   ![](assets/toggle-switch-23.png)
