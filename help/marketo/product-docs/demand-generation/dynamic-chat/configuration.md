@@ -2,9 +2,9 @@
 description: Configuratie - Marketo Docs - Productdocumentatie
 title: Configuratie
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: 0c7299de282194a01783e9c2d484c1d206460e01
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -56,6 +56,15 @@ Klik op de knop **Privacy** om de URL van het privacybeleid van uw site toe te v
 Als u de chatbot op uw website wilt weergeven, moet u eerst het Dynamic Chat JavaScript-fragment installeren. Klik op dit tabblad om de benodigde code te zoeken of te kopiëren. Als u niet bekend bent met deze bewerking, neemt u contact op met uw webteam of IT-afdeling voor hulp.
 
 ![](assets/configuration-8.png)
+
+>[!TIP]
+>
+>Als uw site een Content Security Policy gebruikt, moet u mogelijk de volgende URL&#39;s whitelist om de chatbot naar behoren te laten werken:
+>
+>* `*.adoberesources.net`
+>* `*.adobe.io`
+>* `*.typekit.net`
+
 
 >[!NOTE]
 >
