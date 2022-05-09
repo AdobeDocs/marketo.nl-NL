@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 374f7c1bcb8c30dd914eb126c09a71c6b7ae4f90
+source-git-commit: e489ab3e5e4f1d6628db525e53207d229b50a92b
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '857'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ De volgende functies worden vrijgegeven op **6 mei 2022**, met een gefaseerde ui
 
 ## Native CRM-integratie {#native-crm-integration}
 
-**Native Veeva CRM-integratie (beperkte beschikbaarheid)**: Verbeter de betrokkenheid bij beroepsbeoefenaren in de gezondheidszorg door activiteiten te synchroniseren tussen Veeva CRM en Marketo Engage via native integratie. Dankzij deze integratie kunnen marketers meer persoonlijke en naadloze kanaalervaringen creëren voor zorgverleners. Neem contact op met uw Customer Success Manager als u interesse hebt in deelname.
+**[Integratie van native veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;} (beperkte beschikbaarheid)**: Verbeter de betrokkenheid bij beroepsbeoefenaren in de gezondheidszorg door activiteiten te synchroniseren tussen Veeva CRM en Marketo Engage via native integratie. Dankzij deze integratie kunnen marketers meer persoonlijke en naadloze kanaalervaringen creëren voor zorgverleners. Neem contact op met uw Customer Success Manager als u interesse hebt in deelname.
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
@@ -35,9 +35,9 @@ De volgende functies worden vrijgegeven op **6 mei 2022**, met een gefaseerde ui
 
 **URL&#39;s uitsluiten voor dynamische chat**: Bepaal welke van uw webpagina&#39;s Dynamisch Praatje wordt weergegeven met de mogelijkheid om specifieke URL&#39;s uit te sluiten van de criteria voor het toewijzen van doelen.
 
-**Verbeteringen in de filters Activiteit e-mail**: Blijf de gezondheid van uw gegevensbestand beschermen met de capaciteit om beide gedrag te identificeren dat op verborgen agenten van de verbindingsGebruiker of IPs en nabijheidspatronen wordt gebaseerd, naast de bestaande IAB lijst aanpassen identificatie. Bekijk beide activiteitsstatistieken die u toestaan om het aantal beide activiteiten te begrijpen die voor elk type worden geïdentificeerd.
+**[Verbeteringen in de filters Activiteit e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**: Blijf de gezondheid van uw gegevensbestand beschermen met de capaciteit om beide gedrag te identificeren dat op verborgen agenten van de verbindingsGebruiker of IPs en nabijheidspatronen wordt gebaseerd, naast de bestaande IAB lijst aanpassen identificatie. Bekijk beide activiteitsstatistieken die u toestaan om het aantal beide activiteiten te begrijpen die voor elk type worden geïdentificeerd.
 
-**STS-koptekst voor koppelingen voor e-mail bijhouden**: Voldoe veiligheid beste praktijken met de capaciteit om de Veilige kopballen van de Veiligheid van het Vervoer toe te passen om verkeer aan gevolgde verbindingen te verzekeren is altijd veilig.
+**[STS-koptekst voor koppelingen voor e-mail bijhouden](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Voldoe veiligheid beste praktijken met de capaciteit om de Veilige kopballen van de Veiligheid van het Vervoer toe te passen om verkeer aan gevolgde verbindingen te verzekeren is altijd veilig.
 
 ## Ervaring van de volgende generatie {#next-generation-experience}
 
