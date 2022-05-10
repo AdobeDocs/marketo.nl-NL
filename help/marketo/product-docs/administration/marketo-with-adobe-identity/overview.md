@@ -2,16 +2,16 @@
 description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1056'
 ht-degree: 0%
 
 ---
 
 # Overzicht {#overview}
 
-Als u vanaf 15 februari 2022 een nieuwe account bij Adobe Marketo Engage hebt (een nieuwe account, niet alleen een nieuw exemplaar voor een bestaande account), wordt deze mogelijk geïntegreerd met het Adobe Identity Management System, afhankelijk van het aangeschafte productpakket. Neem contact op met de Marketo Admin of met de Customer Success Manager van uw account als u dit doet.
+Als u vanaf 15 februari 2022 een nieuwe account bij Adobe Marketo Engage hebt (nieuw account, niet alleen een nieuw exemplaar voor een bestaande account), kan het worden geïntegreerd met het Adobe Identity Management System, afhankelijk van het aangeschafte productpakket. Neem contact op met de Marketo Admin of met de Customer Success Manager van uw account als u dit doet.
 
 Bestaande Marketo-abonnementen worden later dit jaar naar het Adobe Identity Management-systeem gemigreerd.
 
@@ -21,7 +21,7 @@ Bestaande Marketo-abonnementen worden later dit jaar naar het Adobe Identity Man
 
 ## Profielniveaus {#profile-levels}
 
-Adobe Marketo Engage-abonnementen die op het Adobe-systeem zijn aangesloten, ondersteunen verschillende profielen. Hier volgen de typen gebruikersprofielen die relevant zijn voor deze integratie.
+Adobe Marketo Engage-abonnementen op het Adobe Identity Management-systeem ondersteunen verschillende profielen. Hier volgen de typen gebruikersprofielen die relevant zijn voor deze integratie.
 
 <table>
  <tr>
@@ -34,7 +34,8 @@ Adobe Marketo Engage-abonnementen die op het Adobe-systeem zijn aangesloten, ond
  </tr>
  <tr>
   <td><strong>Adobe Admin Console-productprofielbeheer</strong></td>
-  <td>Hiermee beheert u de beschrijvingen van het productprofiel die aan die beheerder zijn toegewezen en alle bijbehorende beheerfuncties.</td>
+  <td>Verantwoordelijk voor het beheer van gebruikers binnen een productprofiel. Ze kunnen gebruikers buiten dat specifieke profiel niet beheren. Beheerders van productprofielen hebben alleen toegang tot de Marketo-toepassing als ze als gebruiker aan het productprofiel zijn toegevoegd. Hun rol zou nog een standaardgebruiker zijn (standaardwerkruimte als meer dan één werkruimte heeft).
+</td>
  </tr>
  <tr>
   <td><strong>Marketo Engage-productbeheerder</strong></td>

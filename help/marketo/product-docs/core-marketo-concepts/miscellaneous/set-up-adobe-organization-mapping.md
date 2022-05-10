@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Toewijzing van Adobe-organisaties instellen - Marketo Docs - Productdocumentatie
 title: Adobe-organisatietoewijzing instellen
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: db91b204ab13d47e500b1942ca14a3b1f010749c
+source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Als u wilt synchroniseren met Adobe-toepassingen, zoals Audience Manager, de B2B
 >[!NOTE]
 >
 >Een HIPAA-klaar plaatsing van een instantie van Marketo kan deze integratie niet gebruiken.
+
+>[!CAUTION]
+>
+>Voor klanten die aan het Adobe Business Platform en het Systeem van Identity Management worden geregistreerd, zal Org identiteitskaart verbonden aan het abonnement reeds bevolkt zijn en is een read-only gebied.
 
 1. Klik in Marketo op **Beheer**.
 
