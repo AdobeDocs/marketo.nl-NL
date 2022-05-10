@@ -2,16 +2,16 @@
 description: Het synchroniseren van Vraag en de Zeer belangrijke Berichten van de Vraag - de Documenten van Marketo - de Documentatie van het Product
 title: Het synchroniseren van Vraag en Vraag Zeer belangrijke Berichten
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
 
 # Het synchroniseren van Vraag en Vraag Zeer belangrijke Berichten {#syncing-call-and-call-key-messages}
 
-De Vraag en de Zeer belangrijke Voorwerpen van het Bericht van de Vraag in Veeva CRM worden gesynchroniseerd door gebrek in Marketo Engage. Marketo synchroniseert gegevens die tot 6 maanden oud zijn, gebaseerd op de datum van de Vraag.
+De Vraag en de Zeer belangrijke Voorwerpen van het Bericht van de Vraag in Veeva CRM worden gesynchroniseerd door gebrek in Marketo Engage. Marketo synchroniseert gegevens die tot 6 maanden oud zijn, gebaseerd op Vraag Gemaakt Datum.
 
 >[!NOTE]
 >
@@ -90,13 +90,6 @@ De volgende gebieden op Vraag en de Zeer belangrijke berichten van de Vraag word
       <td>De datum van de vraag toen het voor het eerst werd bewaard of werd voorgelegd. Dit veld wordt met een trigger ingesteld op de huidige datum als noch de datum, noch het datetime-veld wordt opgegeven.</td>
       <td>Call_Date_vod_c</td>
       <td>Datum</td>
-    </tr>
-    <tr>
-      <td>Bellen</td>
-      <td>Gedetailleerde producten</td>
-      <td>Een helpergebied om de lijst van gedetailleerde producten voor een vraag te tonen. Productnamen moeten worden gescheiden door dubbele spaties en volgorde van links naar rechts. Dit veld is niet van toepassing op de verwerking en is opgenomen om gerelateerde lijsten en rapporten gebruiksvriendelijker te maken.</td>
-      <td>Gedetailleerd_Producten_vod__c</td>
-      <td>Tekstgebied(255)</td>
     </tr>
     <tr>
       <td>Bellen</td>

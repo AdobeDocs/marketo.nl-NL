@@ -2,9 +2,9 @@
 description: Veelgestelde vragen over synchronisatie van persoonlijke accounts - Marketo-documenten - Productdocumentatie
 title: Veelgestelde vragen over synchronisatie van persoonlijke account
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Persoonlijke accounts kunnen in Veeva worden ingesteld om aan de behoeften van u
 
 >[!NOTE]
 >
->De standaard Veeva-accounts zijn Professionals.
+>We synchroniseren alleen &#39;Professional&#39;-rijaccounts als Personaccounts.
 
 **Wat is een persoonaccount?**
 
@@ -49,7 +49,7 @@ We zouden aardig zijn en Veeva CRM laten winnen. Dit soort botsing van gegevens 
 
 **Zijn de Lood of het type van Contact van verslagen gesynchroniseerd met Veeva CRM?**
 
-Veeva CRM heeft alleen echt iets met Person Account-objecten en heeft ook Business Accounts. De traditionele CRM-typen Lood, Contacten en Opportunity worden niet echt gebruikt in traditionele Veeva CRM-systemen. Deze kunnen in Veeva CRM worden gecreeerd en de synchronisatie kan hen in Marketo brengen, maar zij worden officieel niet gesteund gebruikend deze schakelaar.
+Veeva CRM heeft alleen echt iets met Person Account-objecten en heeft ook Business Accounts. De traditionele CRM-typen Lood, Contacten en Opportunity worden niet echt gebruikt in traditionele Veeva CRM-systemen. Deze kunnen in Veeva CRM worden gecreeerd, maar zij worden officieel gesteund gebruikend deze schakelaar.
 
 **Kan ik een persoon omzetten in een contactpersoon in Marketo?**
 

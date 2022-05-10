@@ -2,7 +2,7 @@
 description: Stap 1 van 3 - voeg Marketo-velden toe aan Veeva CRM - Marketo Docs - Productdocumentatie
 title: Stap 1 van 3 - Voeg Marketo-velden toe aan Veeva CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Al deze aangepaste velden zijn optioneel en zijn niet vereist voor het synchroni
 
 ## Marketo-velden toevoegen aan Veeva CRM {#add-marketo-fields-to-veeva-crm}
 
-Voeg drie aangepaste velden toe aan de lead- en contactobjecten in de bovenstaande lijst voor Veeva CRM. Zie de tabel met beschikbare velden aan het einde van deze sectie voor meer informatie.
+Voeg een aangepast veld toe aan de lead- en contactobjecten in de bovenstaande lijst in Veeva CRM. Zie de tabel met beschikbare velden aan het einde van deze sectie voor meer informatie.
 
 Voer de volgende stappen voor het gebied van de Score uit om het toe te voegen.
 
@@ -112,7 +112,7 @@ Decimalen 0</td>
 
 >[!NOTE]
 >
->Door het veld aan het object Contact toe te voegen, worden deze ook toegevoegd aan de account van de persoon.
+>Door het veld aan het object Contact toe te voegen, worden deze ook toegevoegd aan het object Person Account.
 
 OPTIONEEL: Gebruik de bovenstaande procedure voor extra aangepaste velden uit de onderstaande tabel.
 
