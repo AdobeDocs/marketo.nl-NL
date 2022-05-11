@@ -3,9 +3,9 @@ unique-page-id: 6094890
 description: Opmerkingen bij de release - februari 2015 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - februari 2015
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ De volgende functies zijn opgenomen in de release van februari 2015. Controleer 
 
 Veel plezier! Nu kunt u slimme campagnes in en uit programma&#39;s bewegen gebruikend belemmering en daling of de eigenschap van de Beweging in de boom.
 
-**[Dynamics 2015 (Online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)**  - ondersteund!
+**[Dynamics 2015 (Online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - ondersteund!
 
 **Wijzigingen in HTTPS-certificaat**
 
@@ -28,11 +28,11 @@ Om de vertrouwelijkheid en integriteit van klantgegevens en SaaS-services te bes
 
 en vervangt momenteel gebruikte beveiligingsprotocollen (SHA-1 en SSL) door veiligere versies (SHA-2 (ook bekend als (SHA-256) en TLS) voor de volgende domeinen:
 
-* [marketo.net](https://marketo.net)  (gecodeerd Munchkin-verkeer)
+* marketo.net (gecodeerd Munchkin-verkeer)
 
 * [marketo.com](https://marketo.com) (belangrijkste SaaS-toepassingen)
 
-Dit gebeurt kort na deze release. Het SHA-1-protocol wordt tot december 2015 tijdelijk ondersteund op [mktoapi.com](https://mktoapi.com)-domein om eigenaars van oudere systemen en toepassingen toe te staan hun systemen bij te werken met SHA-2-compatibiliteit.
+Dit gebeurt kort na deze release. SHA-1-protocol wordt tijdelijk ondersteund op [mktoapi.com](https://mktoapi.com) -domein tot december 2015 om eigenaars van oudere systemen en toepassingen toe te staan hun systemen bij te werken met SHA-2-compatibiliteit.
 
 **Secure Munchkin**
 

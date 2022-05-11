@@ -2,9 +2,9 @@
 description: Privacyverzoeken - Marketo-documenten - productdocumentatie
 title: Privacyverzoeken
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 12b82fdb24b20fde01082ddefe3d78429857f0bc
+source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,10 @@ Dit document biedt een overzicht van het beheer van individuele privacyverzoeken
 
 U kunt individuele verzoeken om tot consumentengegevens van Marketo Engage toegang te hebben en te schrappen op twee manieren voorleggen:
 
-* Via de [UI Privacy Service](https://privacyui.cloud.adobe.io/). Zie de documentatie [hier](https://developer.adobe.com/experience-platform-apis/references/privacy-service/).
-* Via de **Privacy Service-API**. Zie de documentatie [hier](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) en de API-referentie [hier](https://www.adobe.io/apis/experiencecloud/gdpr/api-reference.html#!acpdr/swagger-specs/privacy-service.yaml).
+* Via de [UI Privacy Service](https://privacyui.cloud.adobe.io/). Zie de documentatie [hier](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;}.
+* Via de **Privacy Service-API**. Zie de documentatie [hier](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} en API-informatie [hier](https://developer.adobe.com/experience-platform-apis/){target=&quot;_blank&quot;}.
 
-De [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/) ondersteunt twee typen verzoeken: gegevenstoegang en gegevensverwijdering.
+De [Privacy Service](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target=&quot;_blank&quot;} ondersteunt twee typen aanvragen: gegevenstoegang en gegevensverwijdering.
 
 Zie hoe u aanvragen voor toegang en verwijderen kunt maken.
 
