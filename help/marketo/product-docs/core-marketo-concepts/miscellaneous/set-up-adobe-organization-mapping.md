@@ -3,9 +3,9 @@ unique-page-id: 42762511
 description: Toewijzing van Adobe-organisaties instellen - Marketo Docs - Productdocumentatie
 title: Adobe-organisatietoewijzing instellen
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 88622c5df7cf04fb9e4a3bcccbf77db5594b5fc4
+source-git-commit: bbe5f4a1502ab79d0081807ea6aab196ae75360a
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
@@ -46,9 +46,9 @@ Als u wilt synchroniseren met Adobe-toepassingen, zoals Audience Manager, de B2B
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-6.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Om veiligheidsredenen, moet u een Admin van de Org voor de Organisatie van de Adobe zijn die u aan in kaart wilt brengen. Als je dat niet bent, zal de actie mislukken.
+   >Om veiligheidsredenen, moet u een Admin van de Org voor de Organisatie van de Adobe zijn die u aan in kaart wilt brengen. Anders mislukt de handeling. Bovendien moeten de gebruiker van de Adobe en van Marketo hetzelfde e-mailadres gebruiken wanneer het programma openen.
 
 1. Als je _niet_ al aangemeld, wordt een pop-up weergegeven in een nieuw tabblad/venster. Meld u aan bij uw Adobe org (deze bewerking valideert de toegang tot de org).
 
