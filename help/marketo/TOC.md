@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 6f15abf1fed69431b3bbe249c908b0f90a56d391
+source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
 workflow-type: tm+mt
 source-wordcount: '8743'
 ht-degree: 0%
@@ -1279,7 +1279,6 @@ ht-degree: 0%
             + [Aangepast domein bijhouden instellen](product-docs/marketo-sales-insight/actions/admin/how-to-set-up-custom-domain-tracking.md)
             + [Gebruikers en beheerders uitnodigen](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Kenmerken verkoopactiviteit registreren voor Salesforce](product-docs/marketo-sales-insight/actions/admin/logging-sales-activity-attributes-to-salesforce.md)
-            + [Aanmeldingsbeheerinstellingen](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Instellingen voor delen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [Toegangsgegevens gebruiker](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Analyse {#analytics}
@@ -1307,6 +1306,11 @@ ht-degree: 0%
                + [Logboekregistratie beantwoorden](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Instellingen voor Salesforce Sync](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+            + Salesforce-configuratie {#salesforce-configuration}
+               + [Aanmeldingsbeheerinstellingen](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/login-management-settings.md)
+               + [Configuratie van de Acties van het Inzicht van de verkoop in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Salesforce Classic-aanpassingspakket verwijderen](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
+               + [Aanpassingspakket voor Salesforce Lightning verwijderen](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + E-mail {#email}
             + Opdrachtcentrum {#command-center}
                + [Overzicht van geavanceerd zoeken](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)
@@ -1372,10 +1376,6 @@ ht-degree: 0%
             + [International Calling](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Lokale aanwezigheid](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [Instellingen voor tweeledige toestemming](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-         + Salesforce-configuratie {#salesforce-configuration}
-            + [Configuratie van de Acties van het Inzicht van de verkoop in Salesforce](product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-            + [Salesforce Classic-aanpassingspakket verwijderen](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-            + [Aanpassingspakket voor Salesforce Lightning verwijderen](product-docs/marketo-sales-insight/actions/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
          + Verstuur een e-mail {#send-a-sales-email}
             + [Overzicht van e-mailtracking](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + Taken {#tasks}
