@@ -2,9 +2,9 @@
 description: Handleiding voor Admin Guide Handelingen voor toezicht op verkoop - Marketo Docs - Productdocumentatie
 title: Admin Guide voor handelingen voor het inzien van verkopen
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: fc94cd3b62b0afd8122c56773d420f385d30dabd
+source-git-commit: 451b5cd8e11045de56ebf57c2b2312813d5d5668
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '595'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Bevestig met uw manager van het Succes van de Klant dat de Acties MSI voor uw Marketo- Rekening is toegelaten (als u geen CSM hebt) [contact opnemen met Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support)).
+>* Bevestig met uw Manager van het Succes van de Klant dat de Acties MSI voor uw Marketo Rekening is toegelaten (als u geen CSM hebt, contacteer [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;}).
 >* Uw Marketo/Salesforce-synchronisatie moet zijn ingesteld.
 
 
@@ -66,7 +66,7 @@ De gebruiker zal een e-mail met stappen ontvangen om toegang tot de rekening te 
 
 >[!NOTE]
 >
->Extra gebruikers worden niet toegevoegd via Marketo en worden toegevoegd via de pagina Gebruikersbeheer van verkoopaccount. [Klik hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) voor meer informatie over het toevoegen van extra gebruikers.
+>Extra gebruikers worden niet toegevoegd via Marketo en worden toegevoegd via de pagina Gebruikersbeheer van verkoopaccount. [Klik hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target=&quot;_blank&quot;} voor meer informatie over het toevoegen van extra gebruikers.
 
 ## Marketo-verkoopaccount verbinden met Salesforce {#connect-marketo-sales-account-to-salesforce}
 
@@ -134,7 +134,7 @@ Persoonlijke gegevens die in Marketo en Salesforce bestaan, worden gesynchronise
 
 >[!NOTE]
 >
->Meer informatie over hoe mensen en activiteitengegevens tussen de Acties van het Inzicht van de Verkoop, Marketo, en Salesforce synchroniseren, [klik hier](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md).
+>Meer informatie over hoe mensen en activiteitengegevens tussen de Acties van het Inzicht van de Verkoop, Marketo, en Salesforce synchroniseren, [klik hier](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target=&quot;_blank&quot;}.
 
 ## Individuele gebruikers uitnodigen voor MSI-handelingen {#invite-individual-users-to-msi-actions}
 
@@ -186,4 +186,4 @@ U zult een bevestigingsbericht ontvangen zodra de uitnodigingen worden verzonden
 
 >[!NOTE]
 >
->Als dit is gebeurd, kunt u een upgrade uitvoeren van het bestaande MSI-pakket of een nieuw MSI-pakket installeren en doorgaan naar [MSI-handelingen configureren in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md).
+>Als dit is gebeurd, kunt u een upgrade uitvoeren van het bestaande MSI-pakket of een nieuw MSI-pakket installeren en doorgaan naar [MSI-handelingen configureren in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target=&quot;_blank&quot;}.
