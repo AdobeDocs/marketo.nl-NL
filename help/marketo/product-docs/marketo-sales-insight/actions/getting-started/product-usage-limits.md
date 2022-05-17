@@ -1,14 +1,16 @@
 ---
 description: Limieten voor productgebruik - Marketo-documenten - productdocumentatie
 title: Limieten voor productgebruik
-source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
+source-git-commit: 4dd0d703347ed878f73ddc574d063a6746089887
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 14%
+source-wordcount: '186'
+ht-degree: 13%
 
 ---
 
 # Limieten voor productgebruik {#product-usage-limits}
+
+De volgende limieten gelden voor het gebruik van uitgebreide mogelijkheden voor verkoopovereenkomst die beschikbaar zijn bij Handelingen voor verkoopinzicht.
 
 <table>
   <th>Functionaliteit</th>
