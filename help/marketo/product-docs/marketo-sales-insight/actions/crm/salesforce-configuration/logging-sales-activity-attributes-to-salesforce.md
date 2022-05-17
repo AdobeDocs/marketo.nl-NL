@@ -2,9 +2,9 @@
 description: Logboekkenmerken van verkoopactiviteiten aan Salesforce - Marketo Docs - Productdocumentatie
 title: Kenmerken verkoopactiviteit registreren voor Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '363'
 ht-degree: 1%
 
 ---
@@ -38,6 +38,20 @@ Beschrijving van elke kolom in de onderstaande tabel:
   <th>API-naam</th>
   <th>Gegevenstype</th>
   <th>Grootte</th>
+ </tr>
+  <tr>
+  <td>Resultaten bellen</td>
+  <td>mktosales_call_result</td>
+  <td>mktosales_call_result_c</td>
+  <td>Tekst</td>
+  <td>50</td>
+ </tr>
+ <tr>
+  <td>Redenen voor oproepen</td>
+  <td>mktosales_call_reason</td>
+  <td>mktosales_call_reason_c</td>
+  <td>Tekst</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>Lokale aanwezigheid-id van Marketo Sales Call</td>

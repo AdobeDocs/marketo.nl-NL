@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+source-git-commit: 9f3b91e7b0626b2a229f4a98fb734e926a141ec0
 workflow-type: tm+mt
-source-wordcount: '8761'
+source-wordcount: '8766'
 ht-degree: 0%
 
 ---
@@ -1268,8 +1268,9 @@ ht-degree: 0%
          + [Overzicht van de functie Handelingen Handelingen in het verkoopoverzicht](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Aan de slag {#getting-started}
             + [Handleiding voor het toezicht op de verkoop](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [Beheerdershandleiding voor MSI-handelingen](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-guide.md)
+            + [Handleiding voor installatie van Admin Setup voor het inzicht in verkoop](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Je Marketo-verkoopwachtwoord wijzigen](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
+            + [Limieten voor productgebruik](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
             + E-mailinstellingen {#email-settings}
                + [Uw e-mail verifiëren](product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
                + [Uw e-mailhandtekening toevoegen of bijwerken](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
