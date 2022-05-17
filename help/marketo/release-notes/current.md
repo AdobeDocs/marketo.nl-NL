@@ -2,16 +2,16 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e489ab3e5e4f1d6628db525e53207d229b50a92b
+source-git-commit: c040d8364bd353e31d26b98284130c22f44b24e8
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '833'
 ht-degree: 0%
 
 ---
 
 # Opmerkingen bij de release: mei 2022 {#release-notes-may-22}
 
-Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 mei. Controleer de Adobe Marketo Engage-editie van uw voor de beschikbaarheid van functies.
+Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 mei. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -69,4 +69,4 @@ E-mailverificatie voor abonnementen met de functie &quot;Aanmelden bij gebruiker
 
 **_Webinar productrelease_**
 
-Sluit u aan bij ons op 11 mei 2022, 9:00 uur PT / 12:00 uur ET voor een [levende webinar](https://engage.marketo.com/2022_March_May_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} wordt gehost door ons productteam, waar u kunt leren hoe u alle nieuwste productinnovaties kunt gebruiken.
+[Release Webinar van maart en mei 2022 Marketo Engage](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
