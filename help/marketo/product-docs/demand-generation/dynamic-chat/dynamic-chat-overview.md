@@ -2,9 +2,9 @@
 description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '780'
 ht-degree: 0%
 
 ---
@@ -54,6 +54,10 @@ Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschi
 Hier kunt u een lijst zien van alle agenten die hun kalenders hebben aangesloten evenals welke orde zij aan websitebezoekers zullen worden voorgesteld. De vergaderingen gaan rond robin stijl, zodat als u vijf agenten hebt en agent drie nam de laatste vergadering, agent vier volgende krijgt, gevolgd door agent vijf, dan terug naar agent één.
 
 ## Veelgestelde vragen {#faq}
+
+**Kan ik Dynamic Chat ergens op mijn bedrijfswebsite installeren of werkt het alleen op Marketo-bestemmingspagina&#39;s?**
+
+Het Dynamic Chat JavaScript-fragment kan op elke website worden geïnstalleerd, maar ook op Marketo-bestemmingspagina&#39;s.
 
 **Hoe lang worden gegevens voor rapportage opgeslagen?**
 
