@@ -2,9 +2,9 @@
 description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 9086f99c75aa4a594fa85b474e282e84791b5090
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '896'
 ht-degree: 0%
 
 ---
@@ -67,17 +67,39 @@ Het Dynamic Chat JavaScript-fragment kan op elke website worden geïnstalleerd, 
 
 Neen, het gebruikt slechts vooraf bepaalde reacties.
 
-**Hoe kan ik mij richten op anonieme mensen?**
+**Biedt Dynamic Chat ondersteuning voor andere talen dan Engels?**
 
-In uw dialoogvenster moet u de opdracht _Persoonsbericht is leeg_ kenmerk.
+Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees, en Traditioneel Chinees. Meer informatie in het dialoogvenster [sectie hieronder](#changing-the-language).
 
 **Ondersteunt u de AI/NLP-functionaliteit?**
 
 AI/NLP-functionaliteit wordt niet ondersteund.
 
-**Biedt Dynamic Chat naast Engels ook talen?**
+**Hoe kan ik mij richten op anonieme mensen?**
 
-Op dit moment niet.
+In uw dialoogvenster moet u de opdracht _Persoonsbericht is leeg_ kenmerk.
+
+## De taal wijzigen {#changing-the-language}
+
+Ga als volgt te werk om de taal Dynamisch chatten te wijzigen.
+
+1. Klik in uw Experience Cloud-account op het instellingenpictogram en kies **Voorkeuren**.
+
+   ![](assets/dynamic-chat-overview-1.png)
+
+1. Klik op de huidige taal onder uw e-mailadres.
+
+   ![](assets/dynamic-chat-overview-2.png)
+
+1. Kies de nieuwe taal (de tweede taal is optioneel) en klik op **Opslaan**.
+
+   ![](assets/dynamic-chat-overview-3.png)
+
+   >[!IMPORTANT]
+   >
+   >Er zijn een paar dozijn talen om uit te kiezen, nochtans steunt het Dynamische Praatje slechts het volgende: Engels, Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees, en Traditioneel Chinees.
+
+Wanneer u uw taal bijwerkt, verandert alles in de app zelf, behalve de woorden die u persoonlijk hebt ingevuld (bijvoorbeeld reacties op de stream).
 
 ## Limieten in dynamische chat {#limits-in-dynamic-chat}
 

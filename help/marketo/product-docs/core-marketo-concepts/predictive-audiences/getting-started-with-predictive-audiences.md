@@ -3,9 +3,10 @@ description: Aan de slag met voorspellende doelgroepen - Marketo Docs - Productd
 title: Aan de slag met voorspellend publiek
 hide: true
 hidefromtoc: true
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
+source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -16,10 +17,11 @@ Het voorspellende publiek (PA) gebruikt AI en machine het leren om u toe te late
 
 PA bevat de volgende functies:
 
-* [Goederenregistratie en verwachte registratie](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;}
-* Op AI/ML gebaseerde inzichten
 * Waarden voor registratie en zichtbaarheid van elke lead in een gebeurtenisprogramma
 * [Voorspelende filters](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
+* [Modellen en factoren die van invloed zijn](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
+* Op AI/ML gebaseerde inzichten
+* [Goederenregistratie en verwachte registratie](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;} (Goal Tracking is alleen beschikbaar voor diegenen die de volgende-gen schakeloptie ingeschakeld hebben voor gebeurtenisprogramma&#39;s - om deze schakeloptie te openen, contact op te nemen met uw CSM en een voorspellend publiek aan te vragen)
 
 >[!NOTE]
 >
