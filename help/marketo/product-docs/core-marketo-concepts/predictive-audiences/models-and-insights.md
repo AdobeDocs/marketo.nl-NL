@@ -3,13 +3,30 @@ description: Modellen en inzichten - Marketo Docs - Productdocumentatie
 title: Modellen en inzichten
 hide: true
 hidefromtoc: true
-source-git-commit: db744779ff25428f111f35720e3c8f3ce1011399
+exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
-source-wordcount: '14'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Modellen en inzichten {#models-and-insights}
 
-text
+De prestaties van uw modellen zijn afhankelijk van de kwaliteit en volledigheid van de invoergegevens. Zie de bovenste bepalende factor voor elk van uw waarschijnlijke AI-modellen. Zie ook de belangrijkste factoren die resulteren in een hogere/lagere registratie van gebeurtenissen, deelname aan gebeurtenissen of het opzeggen van abonnementen.
+
+>[!NOTE]
+>
+>Gedragingen die zijn gemarkeerd met (+) hebben een positieve invloed op voorspellingen (en andersom).
+
+Hier is hoe je je modelgezondheid kunt beoordelen.
+
+Ga naar de **[!UICONTROL Models and Data Health]** deel onder **[!UICONTROL Predictive Audiences]** in de **[!UICONTROL Admin]** gebied van Marketo Engage. Hier zie je al je modellen en hun status.
+
+![Afbeelding één](assets/models-and-insights-1.png)
+
+* **Trainingsstatus**: Geeft aan of uw model actief training volgt (voorspellingen verbeteren). De training wordt automatisch elke twee weken gegeven. Alle modellen die _Verwerking_ kan tot 24 uur duren om af te maken. Voor alle _Mislukt_ modellen, neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}.
+* **Scorestatus**: Geeft aan of uw model voorspellingen (waarschijnlijkheidspercentages) voor programmaleden actief berekent.
+* **Prestaties**: Indeling van de modelgezondheid op basis van de volledigheid van de gegevens en de gegevenskwaliteit (zie hieronder).
+* **Volledigheid van gegevens**: Percentage gegevenskenmerken dat aanwezig/voltooid is.
+* **Gegevenskwaliteit**: Percentage kenmerken dat goede, bruikbare gegevens bevat.

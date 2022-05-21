@@ -4,9 +4,9 @@ title: Aan de slag met voorspellend publiek
 hide: true
 hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
+source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,3 @@ Het voorspellende publiek wordt automatisch opgenomen en geactiveerd voor instan
 1. Als de functie eenmaal aan uw instantie is toegevoegd, navigeert u naar de **[!UICONTROL Predictive Audiences]** pagina in de **[!UICONTROL Admin]** gebied Marketo.
 
 1. Controleren **[!UICONTROL Enable Predictive Audiences]** om de functie te activeren. Het kan tot 24 uur duren voordat alle processen zijn ingesteld.
-
