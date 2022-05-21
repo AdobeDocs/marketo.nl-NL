@@ -1,170 +1,174 @@
 ---
-description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
-title: Dynamisch chatoverzicht
+description: Dynamic Chat Overview - Marketo Docs - Product Documentation
+title: Dynamic Chat Overview
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: ff34ef099f2af949602aa3220eb44e4494a6a7a9
+source-git-commit: a437f39ccc5b1937c34ce43e7aedad82b22cf532
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '916'
 ht-degree: 0%
 
 ---
 
-# Dynamisch chatoverzicht {#dynamic-chat-overview}
+# Dynamic Chat Overview {#dynamic-chat-overview}
 
-Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om gebruikers en accounts die uw website bezoeken, als doel in te stellen. Verzamel relevante inhoud, zoals naam, contactgegevens en vrije tekst. De bezoekers van de plaats kunnen vergaderingen met uw Team van de Verkoop ook boeken. Dynamische chatactiviteiten en betrokkenheidsgegevens kunnen worden gebruikt om leden toe te voegen aan Marketo-programma&#39;s en om kanaalactiviteiten te activeren.
+Dynamic Chat allows you to leverage an easy-to-use interface to target both people and accounts visiting your website. Collect relevant content such as name, contact information, and free text. Site visitors can also book meetings with your Sales Team. Dynamic Chat activity and engagement data can be used to add members to Marketo programs and trigger cross-channel activities.
 
 >[!NOTE]
 >
->Dynamic Chat wordt momenteel geleidelijk ingevoerd en is momenteel in beperkte beschikbaarheid. Deze pagina zal met algemene beschikbaarheidsdetails (GA) worden bijgewerkt aangezien zij beschikbaar worden.
+>Dynamic Chat is in the process of being rolled out gradually and is currently in limited availability. This page will be updated with general availability (GA) details as they become available.
 
 >[!TIP]
 >
->Bezoek [deze pagina](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html) om zelfstudievideo&#39;s van Dynamic Chat weer te geven.
+>[](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html)
 
-## Integraties {#integrations}
+## Integrations {#integrations}
 
-Een belangrijk onderdeel van Dynamic Chat is de mogelijkheid om native verbinding te maken met uw Marketo-abonnement. Als u deze integratie volledig wilt benutten, moet u eerst de gegevenssynchronisatie starten. Afhankelijk van de grootte van uw Marketo-database kan het maximaal 24 uur duren voordat gegevens voor de eerste database zijn opgeslagen, [eenmalig synchroniseren](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md) om te voltooien.
+A key component of Dynamic Chat is its ability to natively interface with your Marketo subscription. In order to leverage the full capability of this integration, you’ll first need to initiate the data sync. [](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
 
-Het volgende wordt gesynchroniseerd:
+The following is synced:
 
-* Persoonsveldgegevens
-* Bedrijfsveldgegevens
-* Activiteitsgegevens
+* Person field data
+* Company field data
+* Activity data
 
-## Dialoogvensters {#dialogues}
+## Dialogues {#dialogues}
 
-Dialoogvensters vertegenwoordigen één chatgesprek. Beschouw het als een container met alle informatie die u nodig hebt om een aansprekende chatdialoog met uw websitebezoekers te voeren. In elk dialoogvenster kunt u opgeven op welke pagina(&#39;s) u het dialoogvenster wilt weergeven, aan wie u het dialoogvenster wilt laten weergeven, en kunt u de inhoud en de stroom van het dialoogvenster zelf opgeven. Bovendien kunt u metriek vinden om te zien hoe goed uw Dialoog presteert. [Meer informatie over dialoogvensters](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
+Dialogues represent a single chat engagement. Think of it as a container with all the stuff you need to have an engaging chat dialogue to your website visitors. In each Dialogue, you can specify which page(s) you’d like the Dialogue to appear on, to whom you&#39;d like it to be shown to, and the content and flow of the Dialogue itself. Additionally, you can find metrics to see how well your Dialogue is performing. [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
 
-## Configuratie {#configuration}
+## Configuration {#configuration}
 
-In het lusje van de Configuratie, pas de blik en het gevoel van uw diverse Dialogen aan. Wijzig lettertype, kleuren, responstijd en meer! [Meer informatie over Configuratie](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md).
+In the Configuration tab, customize the look and feel of your various Dialogues. Change font, colors, response time, and more! [](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md)
 
-## Kalender {#calendar}
+## Calendar {#calendar}
 
-In het lusje van de Kalender, verbind uw (Vooruitzichten of Gmail) kalender voor gebruik in afspraak die in het praatje plant. Zodra de kalender van een gebruiker met Dynamisch Praatje wordt verbonden, zal die gebruiker aan de rij worden toegevoegd en hun kalender zal voor websitebezoekers beschikbaar zijn om benoemingen te plannen op.
+In the Calendar tab, connect your (Outlook or Gmail) calendar for use in appointment scheduling in the chatbot. Once a user’s calendar is connected to Dynamic Chat, that user will be added to the queue and their calendar will be available for website visitors to schedule appointments on.
 
-U kunt ook de hoofdtekst van de uitnodiging aanpassen die naar de bezoeker wordt verzonden wanneer deze een afspraak in de agenda van de gebruiker plant.
+You can also customize the body of the invite that&#39;s sent to the visitor when they schedule an appointment on the user’s calendar.
 
-## Vergaderingen {#meetings}
+## Meetings {#meetings}
 
-Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschillende dialoogvensters. Hier vindt u het e-mailadres van de persoon die de afspraak heeft geboekt, met welke agent de afspraak is geboekt, wanneer de afspraak gepland is en of de vergadering al dan niet heeft plaatsgevonden.
+This is where you&#39;ll see all of the appointments that have been scheduled by website visitors through your various Dialogues. Here you’ll find the email address of the person that booked the appointment, which agent they booked the appointment with, when the appointment is scheduled to occur, and whether the meeting has happened or not.
 
-## Routering {#routing}
+## Routing {#routing}
 
-Hier kunt u een lijst zien van alle agenten die hun kalenders hebben aangesloten evenals welke orde zij aan websitebezoekers zullen worden voorgesteld. De vergaderingen gaan rond robin stijl, zodat als u vijf agenten hebt en agent drie nam de laatste vergadering, agent vier volgende krijgt, gevolgd door agent vijf, dan terug naar agent één.
+This is where you can see a list of all the agents that have connected their calendars as well as what order they&#39;ll be presented to website visitors. Meetings go round robin style, so if you have five agents and agent three took the last meeting, agent four will get the next one, followed by agent five, then back to agent one.
 
-## Veelgestelde vragen {#faq}
+## FAQ {#faq}
 
-**Kan ik Dynamic Chat ergens op mijn bedrijfswebsite installeren of werkt het alleen op Marketo-bestemmingspagina&#39;s?**
+****
 
-Het Dynamic Chat JavaScript-fragment kan op elke website worden geïnstalleerd, maar ook op Marketo-bestemmingspagina&#39;s.
+The Dynamic Chat JavaScript snippet can be installed on any website as well as Marketo landing pages.
 
-**Hoe lang worden gegevens voor rapportage opgeslagen?**
+****
 
-90 dagen (zie de volledige lijst van limieten) [onder](#limits-in-dynamic-chat)).
+[](#limits-in-dynamic-chat)
 
-**Staat Dynamic Chat live chatten toe?**
+****
 
-Neen, het gebruikt slechts vooraf bepaalde reacties.
+No, it only utilizes pre-determined responses.
 
-**Biedt Dynamic Chat ondersteuning voor andere talen dan Engels?**
+****
 
-Ja. Dynamic Chat ondersteunt de volgende talen: Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees, en Traditioneel Chinees. Meer informatie in het dialoogvenster [sectie hieronder](#changing-the-language).
+Yes. Dynamic Chat supports the following languages: French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese. [](#changing-the-language)
 
-**Ondersteunt u de AI/NLP-functionaliteit?**
+****
 
-AI/NLP-functionaliteit wordt niet ondersteund.
+We do not support AI/NLP functionality.
 
-**Hoe kan ik mij richten op anonieme mensen?**
+****
 
-In uw dialoogvenster moet u de opdracht _Persoonsbericht is leeg_ kenmerk.
+__
 
-## De taal wijzigen {#changing-the-language}
+## Changing the Language {#changing-the-language}
 
-Ga als volgt te werk om de taal Dynamisch chatten te wijzigen.
+Follow these steps to change your Dynamic Chat language.
 
-1. Klik in uw Experience Cloud-account op het instellingenpictogram en kies **Voorkeuren**.
+>[!IMPORTANT]
+>
+>__
+
+1. ****
 
    ![](assets/dynamic-chat-overview-1.png)
 
-1. Klik op de huidige taal onder uw e-mailadres.
+1. Click the current language under your email address.
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. Kies de nieuwe taal (de tweede taal is optioneel) en klik op **Opslaan**.
+1. ****
 
    ![](assets/dynamic-chat-overview-3.png)
 
-   >[!IMPORTANT]
+   >[!NOTE]
    >
-   >Er zijn een paar dozijn talen om uit te kiezen, nochtans steunt het Dynamische Praatje slechts het volgende: Engels, Frans, Duits, Japans, Spaans, Italiaans, Braziliaans Portugees, Koreaans, Vereenvoudigd Chinees, en Traditioneel Chinees.
+   >There are a few dozen languages to choose from, however, Dynamic Chat only supports the following: English, French, German, Japanese, Spanish, Italian, Brazilian Portuguese, Korean, Simplified Chinese, and Traditional Chinese.
 
-Wanneer u uw taal bijwerkt, verandert alles in de app zelf, behalve de woorden die u persoonlijk hebt ingevuld (bijvoorbeeld reacties op de stream).
+When you update the language, everything in the app itself changes except for the words you&#39;ve personally populated (e.g., stream responses).
 
-## Limieten in dynamische chat {#limits-in-dynamic-chat}
+## Limits in Dynamic Chat {#limits-in-dynamic-chat}
 
 <table>
   <th>Parameter</th>
-  <th>Beschrijving</th>
-  <th>Limiet</th>
+  <th>Description</th>
+  <th>Limit</th>
  <tr>
-  <td>Totaal aantal dialoogvensters</td>
-  <td>Totaal aantal dialoogvensters (gepubliceerd en concept)</td>
+  <td>Total Dialogues</td>
+  <td>Total number of Dialogues (published and draft)</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>Gepubliceerde dialoogvensters</td>
-  <td>Aantal gepubliceerde dialoogvensters dat is opgeslagen</td>
+  <td>Published Dialogues</td>
+  <td>Number of published Dialogues saved</td>
   <td>100</td>
  </tr>
  <tr>
-  <td>Doel-URL's per dialoogvenster</td>
-  <td>Aantal doel-URL's dat kan worden toegevoegd aan één dialoogvenster</td>
+  <td>Target URLs per Dialogue</td>
+  <td>Number of Target URLs that can be added to a single Dialogue</td>
   <td>20</td>
  </tr>
  <tr>
-  <td>Kenmerken per dialoogvenster</td>
-  <td>Aantal kenmerken dat kan worden toegevoegd aan publiekscriteria voor één dialoogvenster</td>
+  <td>Attributes per Dialogue</td>
+  <td>Number of attributes that can be added to audience criteria for a single Dialogue</td>
   <td>100</td>
  </tr>
  <tr>
-  <td>Groepen</td>
-  <td>Aantal groepen dat kan worden toegevoegd aan één dialoogvenster</td>
+  <td>Groups</td>
+  <td>Number of groups that can be added to a single Dialogue</td>
   <td>10</td>
  </tr>
  <tr>
-  <td>Attributen per groep</td>
-  <td>Aantal kenmerken dat aan een groep kan worden toegevoegd</td>
+  <td>Attributes per Group</td>
+  <td>Number of attributes that can be added to a group</td>
   <td>10</td>
  </tr>
  <tr>
-  <td>Kaarten</td>
-  <td>Aantal kaarten dat per Dialoogvenster aan het canvas kan worden toegevoegd</td>
+  <td>Cards</td>
+  <td>Number of cards that can be added to the canvas per Dialogue</td>
   <td>500</td>
  </tr>
  <tr>
-  <td>Bewaarperiode anonieme gegevens lead</td>
-  <td>Duur van de periode waarin informatie over een anonieme lead zonder enige betrokkenheid bewaard blijft</td>
-  <td>90 dagen</td>
+  <td>Anonymous Lead Data Retention Period</td>
+  <td>Duration for how long information of an anonymous lead without any engagement will be retained</td>
+  <td>90 days</td>
  </tr>
  <tr>
-  <td>Aanhoudingsperiode van de reële activiteit</td>
-  <td>De hoeveelheid tijd die de activiteitengegevens van het doel worden behouden</td>
-  <td>24 maanden</td>
+  <td>Goal Activity Retention Period</td>
+  <td>Amount of time goal activity data is retained</td>
+  <td>24 months</td>
  </tr>
  <tr>
-  <td>Bewaarperiode documentactiviteit</td>
-  <td>De hoeveelheid tijd die nodig is om de activiteitengegevens van het document te behouden</td>
-  <td>24 maanden</td>
+  <td>Document Activity Retention Period</td>
+  <td>Amount of time document activity data is retained</td>
+  <td>24 months</td>
  </tr>
  <tr>
-  <td>Interactie met periode van activiteit in het dialoogvenster</td>
-  <td>De hoeveelheid tijd die interactie heeft met de gegevens over dialoogactiviteiten blijft behouden</td>
-  <td>90 dagen</td>
+  <td>Interacted w/ Dialogue Activity Retention Period</td>
+  <td>Amount of time interacted with Dialogue activity data is retained</td>
+  <td>90 days</td>
  </tr>
  <tr>
-  <td>Bewaarperiode van boekingsactiviteit vergadering</td>
-  <td>De hoeveelheid tijd die vergadering het boeken activiteit zal worden opgeslagen in Dynamisch Praatje</td>
-  <td>24 maanden</td>
+  <td>Meeting Booking Activity Retention Period</td>
+  <td>Amount of time meeting booking activity will be stored in Dynamic Chat</td>
+  <td>24 months</td>
  </tr>
 </table>

@@ -1,84 +1,85 @@
 ---
-description: Criteria voor het publiek - Marketo Docs - Productdocumentatie
-title: Criteria voor het publiek
-source-git-commit: 38e65efc50f7f5e7a2a3dbe91035327007475721
+description: Audience Criteria - Marketo Docs - Product Documentation
+title: Audience Criteria
+exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
+source-git-commit: a437f39ccc5b1937c34ce43e7aedad82b22cf532
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
 
-# Criteria voor het publiek {#audience-criteria}
+# Audience Criteria {#audience-criteria}
 
-Net als in Marketo Smart Lists kunt u met de kenmerken Audience Criteria (criteria voor doelgroepen) een doelgroep definiëren. U kunt bekende of onbekende personen als doel instellen met afgeleide, persoon- of bedrijfskenmerken (of een combinatie daarvan).
+Similar to Marketo Smart Lists, Audience Criteria attributes allow you to define your target audience. You can target known or unknown people using inferred, person, or company attributes (or a combination thereof).
 
-**Bekende personen**
+****
 
-Er zijn _veel_ te kiezen kenmerkcombinaties. In dit voorbeeld richten we ons op alles **bekende personen** in Californië, die werken bij een bedrijf met meer dan 50 werknemers.
+__ ****
 
-1. Pak de **Persoonsstaat** en sleep het naar rechts.
+1. ****
 
    ![](assets/audience-criteria-1.png)
 
-1. _Is_ is standaard ingesteld. Typ in het veld Waarden selecteren de tekst CA (u kunt ook op de vervolgkeuzelijst klikken en in de lijst selecteren).
+1. __ In the Select Values field, type in CA (you can also click the drop-down and select from the list).
 
    ![](assets/audience-criteria-2.png)
 
-1. Pak de **Bedrijfsomvang** kenmerk en sleep het naar de gewenste locatie _een kenmerk hier slepen en neerzetten_.
+1. ****__
 
    ![](assets/audience-criteria-3.png)
 
    >[!NOTE]
    >
-   >U kunt ook een kenmerk kiezen door op het desbetreffende kenmerk te klikken **+** pictogram.
+   >****
 
-1. Klik op de vervolgkeuzelijst met operatoren en selecteer **Groter dan**.
+1. ****
 
    ![](assets/audience-criteria-4.png)
 
-1. Typ 50 en klik ergens anders op het scherm om op te slaan.
+1. Type 50 and click elsewhere on the screen to save.
 
    ![](assets/audience-criteria-5.png)
 
-En dat is het!
+And that&#39;s it!
 
-**Anonieme mensen**
+****
 
-Er is een gemakkelijke manier om mensen specifiek te richten die nog niet in uw gegevensbestand zijn. In dit voorbeeld richten we ons op alles **anonieme mensen** in het gebied New York.
+There&#39;s an easy way to specifically target people who are not in your database yet. ****
 
-1. Pak de **Persoonsbericht** en sleep het naar rechts.
+1. ****
 
    ![](assets/audience-criteria-6.png)
 
-1. Klik op de vervolgkeuzelijst met operatoren en selecteer **Is leeg**.
+1. ****
 
    ![](assets/audience-criteria-7.png)
 
-1. Pak de **Overgenomen staat** kenmerk en sleep het naar de gewenste locatie _een kenmerk hier slepen en neerzetten_.
+1. ****__
 
    ![](assets/audience-criteria-8.png)
 
    >[!NOTE]
    >
-   >Wanneer iemand uw website bezoekt, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies ze en zet ze in het systeem. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info.
+   >[](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) We look up their IP in a special database and infer all kinds of good info.
 
-1. _Is_ is standaard ingesteld. Typ in het veld Waarden selecteren de waarde NY (u kunt ook op de vervolgkeuzelijst klikken en een waarde in de lijst selecteren).
+1. __ In the Select Values field, type in NY (you can also click the drop-down and select from the list).
 
    ![](assets/audience-criteria-9.png)
 
-## Groepen toevoegen {#add-groups}
+## Add Groups {#add-groups}
 
-U kunt ook kenmerken groeperen, voor het geval dat u alle kenmerken samen met &quot;alle of een&quot; van een ander kenmerk wilt hebben. U kunt meerdere groepen toevoegen.
+You have the option of grouping attributes as well, in case you want to have all of certain attributes along with &quot;all or any&quot; of another. You can add multiple groups.
 
 ![](assets/audience-criteria-10.png)
 
 ![](assets/audience-criteria-11.png)
 
-## Doel {#target}
+## Target {#target}
 
-Hier voert u de URL&#39;s in waarop u een specifiek dialoogvenster wilt weergeven.
+This is where you enter the URL(s) that you want a specific Dialogue to be shown on. You also have the option of adding exclusions.
 
-Acceptabele indelingen:
+Acceptable formats:
 
 * `http://website.com`
 * `https://*.website.com`
@@ -87,11 +88,15 @@ Acceptabele indelingen:
 
 >[!NOTE]
 >
->Het gebruiken van een asterisk doet dienst als vangst-all wilkaart. Dus `https://*.website.com` zou het dialoogvenster op elke pagina van de site plaatsen, inclusief subdomeinen (bijvoorbeeld: `support.website.com`). en `https://website.com/folder/*` zou het dialoogvenster op elke HTML-pagina in de volgende map plaatsen (bijvoorbeeld: in dit geval is de map &quot; sport &quot; , dus : website.com/sports/baseball.html, website.com/sports/football.html, enz.).
+>Using an asterisk acts as a catch-all wilcard. `https://*.website.com``support.website.com` `https://website.com/folder/*`
+
+**** Exclusions follow the same format as inclusions.
+
+![](assets/audience-criteria-12.png)
 
 >[!MORELIKETHIS]
 >
->* [Een dialoogvenster maken](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [Rapporten](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target=&quot;_blank&quot;}
+>* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
+>* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
+>* [](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
 
