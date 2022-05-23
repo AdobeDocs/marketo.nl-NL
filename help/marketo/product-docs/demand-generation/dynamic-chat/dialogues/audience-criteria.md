@@ -2,9 +2,9 @@
 description: Criteria voor het publiek - Marketo Docs - Productdocumentatie
 title: Criteria voor het publiek
 exl-id: 9b70b03e-229e-469e-bd65-07aaf2dcbec6
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 17f56a01096b1cc48a9df7a717145a00ef491dbd
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,31 @@ ht-degree: 0%
 
 Net als in Marketo Smart Lists kunt u met de kenmerken Audience Criteria (criteria voor doelgroepen) een doelgroep definiëren. U kunt bekende of onbekende personen als doel instellen met afgeleide, persoon- of bedrijfskenmerken (of een combinatie daarvan).
 
+## Gebeurtenissen {#events}
+
+![](assets/audience-criteria-0.png)
+
+Met gebeurtenissen kunt u bezoekers aanwijzen op basis van hoeveel ze schuiven of hoe lang ze zich op uw pagina/site bevinden. In het onderstaande voorbeeld richten we ons op bezoekers die al meer dan 20 seconden op een specifieke pagina staan.
+
+1. Pak de **Tijd op pagina** en sleep deze naar rechts.
+
+   ![](assets/audience-criteria-0a.png)
+
+1. Stel de tijd Groter dan in op 20 seconden.
+
+   ![](assets/audience-criteria-0b.png)
+
+1. Voeg de URL van de gewenste pagina toe in het dialoogvenster [Doel](#target) sectie.
+
+   ![](assets/audience-criteria-0c.png)
+
+## Attributen {#attributes}
+
+![](assets/audience-criteria-0d.png)
+
 **Bekende personen**
 
-Er zijn _veel_ te kiezen kenmerkcombinaties. In dit voorbeeld richten we ons op alles **bekende personen** in Californië, die werken bij een bedrijf met meer dan 50 werknemers.
+Er zijn _veel_ te kiezen kenmerkcombinaties. In het onderstaande voorbeeld richten we ons op alle **bekende personen** in Californië, die werken bij een bedrijf met meer dan 50 werknemers.
 
 1. Pak de **Persoonsstaat** en sleep het naar rechts.
 
