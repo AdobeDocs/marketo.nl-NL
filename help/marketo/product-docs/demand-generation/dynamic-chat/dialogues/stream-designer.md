@@ -2,9 +2,9 @@
 description: Stream Designer - Marketo Docs - Productdocumentatie
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: adf3a9f156ec5ed823a0647affb87f6c0686d35f
+source-git-commit: 3883f31e59e4ba2dccf53961068fea7d5f805192
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,10 @@ De stroomontwerper bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
  <tr>
   <td><strong>Vraag</strong></td>
   <td>Gebruik deze optie wanneer u een meerkeuzevraag wilt stellen, waarvan u de beschikbare antwoorden kunt opgeven (bijvoorbeeld: Welk type voertuig interesseert u? Reacties = SUV, Compact, Truck, enz.).</td>
+ </tr>
+ <tr>
+  <td><strong>Document</strong></td>
+  <td>Hiermee kunt u PDF-documenten insluiten in dialoogvensters en de activiteit van bezoekers in de documentbetrokkenheid bijhouden (hoeveel pagina's zijn weergegeven, of het document is gedownload en/of welke zoektermen zijn gebruikt).</td>
  </tr>
  <tr>
   <td><strong>Gegevens vastleggen</strong></td>
