@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Productdocumentatie
 title: Marketo Verklarende woordenlijst
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 441482ea4d367d6d751c4dd5b8bcd67f7fb7935a
+source-git-commit: 3559dff22a294545440790c712e80b853340b66d
 workflow-type: tm+mt
-source-wordcount: '4205'
+source-wordcount: '4196'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td><strong>Accountlijst</strong></td> 
-   <td>Een lijst met sleutelnamen voor accounts en organisaties. Wordt ook wel een marketing op basis van account genoemd (<strong>ABM</strong>).</td> 
+   <td>Een lijst met sleutelnamen voor accounts en organisaties. Ook bekend als Account-Based Marketing (<strong>ABM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Accountprofielen</strong></td> 
@@ -272,7 +272,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Docs</strong></td> 
-   <td colspan="1">Documenten zijn, kort voor documenten, Help-artikelen voor klanten om het product beter te begrijpen. Marketo heeft verschillende typen documenten: Productdocumenten (de site waarop u momenteel werkt), <a href="https://experienceleague.adobe.com/docs/marketo/sky/home.html" rel="nofollow">Marketo Sky</a> documenten, <a href="https://developers.marketo.com/" rel="nofollow">Ontwikkelaar</a> documenten, en <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Ondersteuning</a> docs.</td> 
+   <td colspan="1">Documenten zijn, kort voor documenten, Help-artikelen voor klanten om het product beter te begrijpen. Marketo heeft verschillende typen documenten: Productdocumenten (de site waarop u momenteel werkt), <a href="https://developers.marketo.com/" rel="nofollow">Ontwikkelaar</a> documenten, en <a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">Ondersteuning</a> docs.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Domeingebaseerde Message Authentication, Reporting &amp; Conformance (DMARC)</strong></td> 
