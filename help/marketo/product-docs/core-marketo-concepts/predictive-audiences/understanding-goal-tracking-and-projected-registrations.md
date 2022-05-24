@@ -4,16 +4,16 @@ title: Begrijpen van Goal Tracking en Geprojecteerde Registraties
 hide: true
 hidefromtoc: true
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 8aeff85c2287e670443e7e6aa1b2b27a4301754a
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Begrijpen van Goal Tracking en Geprojecteerde Registraties {#understanding-goal-tracking-and-projected-registrations}
 
-Na [gebeurtenisdoelen instellen](/help/sky/setting-event-goals.md) en uitnodigingen verzenden via een [slimme campagne](/help/sky/create-a-smart-campaign.md), hier is hoe je je doelvooruitgang kunt volgen en Marketo-voorspellingen kunt begrijpen.
+Hieronder wordt beschreven hoe u de voortgang van uw doel kunt bijhouden en hoe u de voorspellingen van Marketo kunt begrijpen.
 
 >[!NOTE]
 >
