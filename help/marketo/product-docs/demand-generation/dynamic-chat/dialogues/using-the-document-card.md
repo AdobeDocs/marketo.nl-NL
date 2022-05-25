@@ -1,11 +1,10 @@
 ---
 description: Documentkaart gebruiken - Marketo Docs - Productdocumentatie
 title: De documentkaart gebruiken
-hide: true
-hidefromtoc: true
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
+source-git-commit: 3df0369a963bd9c918fdeb819d503584c27cd5f1
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -28,15 +27,19 @@ Met de documentkaart kunt u PDF-documenten insluiten in dialoogvensters en de ac
 
    ![](assets/using-the-document-card-3.png)
 
+   >[!IMPORTANT]
+   >
+   >U moet het domein gebruiken waarop u het chatbot gaat hosten (bijvoorbeeld, als u het chatbot op mycompany.com host, zorg dat u dat in Stap 4 invoert).
+
 1. Klikken **Kopiëren** om uw client-id te kopiëren.
 
    ![](assets/using-the-document-card-4.png)
 
-1. Terug in dynamische chat, klik **Integraties**. Klik op de gegevens onder de Adobe PDF Embed API en selecteer **Configuratie bewerken**.
+1. Terug in dynamische chat, klik **Integraties**. Klik op de Adobe PDF Embed API-kaart op **Activeren**.
 
    ![](assets/using-the-document-card-5.png)
 
-1. Plak uw client-id en klik op **Bijwerken**.
+1. Plak uw client-id en klik op **Opslaan**.
 
    ![](assets/using-the-document-card-6.png)
 
