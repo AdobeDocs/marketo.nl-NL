@@ -1,12 +1,10 @@
 ---
 description: Aan de slag met voorspellende doelgroepen - Marketo Docs - Productdocumentatie
 title: Aan de slag met voorspellend publiek
-hide: true
-hidefromtoc: true
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -21,7 +19,7 @@ PA bevat de volgende functies:
 * [Voorspelende filters](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target=&quot;_blank&quot;}
 * [Modellen en factoren die van invloed zijn](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target=&quot;_blank&quot;}
 * Op AI/ML gebaseerde inzichten
-* [Goederenregistratie en verwachte registratie](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md){target=&quot;_blank&quot;} (Goal Tracking is alleen beschikbaar voor diegenen die de volgende-gen schakeloptie ingeschakeld hebben voor gebeurtenisprogramma&#39;s - om deze schakeloptie te openen, contact op te nemen met uw CSM en een voorspellend publiek aan te vragen)
+* Goal Tracking and Projected Registrations - (Goal Tracking is alleen beschikbaar voor diegenen die de volgende-gen schakeloptie ingeschakeld hebben voor gebeurtenisprogramma&#39;s - om deze schakeloptie te openen, contact op te nemen met uw CSM en een voorspellend publiek aan te vragen)
 
 >[!NOTE]
 >
