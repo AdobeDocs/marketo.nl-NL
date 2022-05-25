@@ -2,16 +2,16 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c040d8364bd353e31d26b98284130c22f44b24e8
+source-git-commit: b32fb053062481f0750305548d38055db2c72463
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
 
-# Opmerkingen bij de release: mei 2022 {#release-notes-may-22}
+# Opmerkingen bij de release: juni 2022 {#release-notes-june-22}
 
-Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 mei. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
+Hieronder vindt u alle functies die zijn opgenomen in de release van 22 juni. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -19,54 +19,48 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 mei. Ra
 
 **_Kwartaalreleases_**
 
-De volgende functies worden vrijgegeven op **6 mei 2022**, met een gefaseerde uitrol van de resterende kenmerken in de daaropvolgende weken (tenzij anders vermeld).
+De volgende functies worden vrijgegeven op **24 juni 2022**, met een gefaseerde uitrol van de resterende kenmerken in de daaropvolgende weken (tenzij anders vermeld).
 
-## Native CRM-integratie {#native-crm-integration}
+## Omgeving met marketinggegevens {#marketing-data-environment}
 
-**[Integratie van native veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target=&quot;_blank&quot;} (beperkte beschikbaarheid)**: Verbeter de betrokkenheid bij beroepsbeoefenaren in de gezondheidszorg door activiteiten te synchroniseren tussen Veeva CRM en Marketo Engage via native integratie. Dankzij deze integratie kunnen marketers meer persoonlijke en naadloze kanaalervaringen creëren voor zorgverleners. Neem contact op met uw Customer Success Manager als u interesse hebt in deelname.
+* **CreatedAt/UpdatedAt-velden beschikbaar maken voor aangepaste objecten**: Biedt u de capaciteit om deze gebieden in het scherm van het Detail van de Persoon te inspecteren om extra inzicht te krijgen.
 
-## Cross-Channel Orchestration {#cross-channel-orchestration}
+## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-**Chatbotgebeurtenissen voor dynamische chat**: Gebruik gedetailleerdere gedragsgegevens voor webbezoekers, zoals tijd op de pagina, tijd op de site en het schuifpercentage van de pagina om te bepalen wanneer een chatdialoogvenster moet worden weergegeven.
+* **Verbeterde functionaliteit voor stroomontwerper voor dynamische chat**: Voeg kaarten rechtstreeks toe vanaf het canvas van de Ontwerper van de Stroom zonder de behoefte om te slepen en te laten vallen. De Dynamic Chat-interface is ook verbeterd en biedt een betere zichtbaarheid van inhoud in afzonderlijke kaarten.
 
-**PDF insluiten voor dynamische chat**: Verhoog de betrokkenheid en deel betekenisvolle inhoud door PDF in chatdialoogvensters in te sluiten en de prestaties van inhoud te meten via het volgen van de betrokkenheidsactiviteit.
+* **Geavanceerde Benoeming die Regels voor Dynamische Chat verplettert**: Het dynamische Praatje biedt meer opties voor gerichte benoeming het verpletteren aan. Specificeer welke agentenbenoemingen zouden moeten worden verpletterd gebaseerd op de attributen van Marketo Engage, die leiden verzekeren worden verpletterd aan de aangewezen agenten.
 
-**Uitgebreide taalondersteuning voor dynamische chat**: De Dynamic Chat-gebruikersinterface is nu ook beschikbaar in het Frans, Duits, Japans, Portugees en Spaans. Chatdialoogvensters kunnen ook in deze talen worden geconfigureerd.
+* **Geavanceerde Dialoograpportering voor Dynamisch Praatje**: Bekijk de prestaties van uw Dynamic Chat-campagnes gedetailleerder met behulp van alle nieuwe gegevensvisualisaties voor betrokkenheid en conversiemetriek.
 
-**URL&#39;s uitsluiten voor dynamische chat**: Bepaal welke van uw webpagina&#39;s Dynamisch Praatje wordt weergegeven met de mogelijkheid om specifieke URL&#39;s uit te sluiten van de criteria voor het toewijzen van doelen.
+* **Ongebruikte Marketo Engage-kenmerken niet synchroniseren voor dynamische chat**: De synchronisatie van de Marketo Engage-kenmerken van uw Dynamic Chat-abonnement ongedaan maken, zodat u de gegevenskwaliteit eenvoudiger kunt maken en alternatieve kenmerken naar wens kunt synchroniseren.
 
-**[Verbeteringen in de filters Activiteit e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;}**: Blijf de gezondheid van uw gegevensbestand beschermen met de capaciteit om beide gedrag te identificeren dat op verborgen agenten van de verbindingsGebruiker of IPs en nabijheidspatronen wordt gebaseerd, naast de bestaande IAB lijst aanpassen identificatie. Bekijk beide activiteitsstatistieken die u toestaan om het aantal beide activiteiten te begrijpen die voor elk type worden geïdentificeerd.
+## Experience Automation {#experience-automation}
 
-**[STS-koptekst voor koppelingen voor e-mail bijhouden](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Voldoe veiligheid beste praktijken met de capaciteit om de Veilige kopballen van de Veiligheid van het Vervoer toe te passen om verkeer aan gevolgde verbindingen te verzekeren is altijd veilig.
+* **Uitsluitingen algemene regel voor validatie van formuliervelden**: Sluit specifieke formulieren uit van Global Form Validation Rules, zodat abonnementscentra en andere bedrijfskritieke workflows alle waarden kunnen accepteren.
 
-## Ervaring van de volgende generatie {#next-generation-experience}
+* **Zelfbedieningsstroomstappen**: Breid connectiviteit tussen Marketo Engage en de rest van uw stapel met de capaciteit uit om aangepaste stroomstappen voor gebruik in Slimme Campagnes te ontwerpen. Zowel Marketo Engage-gebruikers als -partners kunnen deze functionaliteit gebruiken om het gebruik van externe webservices in Trigger-, Batch- en Executable-campagnes mogelijk te maken, in tegenstelling tot Webhooks, die alleen kunnen worden gebruikt in Trigger-campagnes.
 
-**Schakelen tussen defecte switch en de nieuwe generatie**: De schakeloptie wordt standaard ingesteld op de nieuwe ervaring in alle schermen waar deze beschikbaar is, zodat gebruikers gemakkelijker de bijgewerkte ontwerpen en bruikbaarheidsverbeteringen kunnen ontdekken.
+* **Akoestische koppeling bijhouden Munchkin-protocol**: Ondersteuning voor bijhouden van `tel` en `mailto` koppelingen met Munchkin naar een uitgebreide set webgedragingen.
 
-**Bijgewerkt scherm in de ervaring van de volgende generatie**:
+* **Aanvullende HTTP-methoden voor webhaken**: Specificeer PUT, PATCH, en DELETE als verzoektypes om met de Webdiensten in wisselwerking te staan.
 
-In de nieuwe generatie wordt de weergave E-mailsjabloondetails in Design Studio weergegeven en biedt deze functie een bijgewerkte ontwerp- en bruikbaarheidsverbeteringen die via de schakeloptie toegankelijk zijn.
+## Verkoopoverzicht {#sales-insight}
 
-## Experience Automation {#experience-automation}
+![(ster)](assets/yellow-star.png)
 
-**Self-Service Flow Stappen (vervolg bèta)**: Breid connectiviteit tussen Marketo Engage en de rest van uw stapel met de capaciteit uit om aangepaste stroomstappen voor gebruik in Slimme Campagnes te ontwerpen. Zowel Marketo Engage-gebruikers als -partners kunnen deze functionaliteit gebruiken om het gebruik van externe webservices in triggercampagnes, batchcampagnes en uitvoerbare campagnes mogelijk te maken (in tegenstelling tot websites die alleen kunnen worden gebruikt in triggercampagnes).
+* **Toestemming voor verkoopinzicht ingesteld in Salesforce**: Beheerders kunnen via de machtigingsset Marketo App toegang bieden tot een beperkt aantal personen op gebruikersniveau in plaats van op profielniveau. Deze set maakt deel uit van het Salesforce-pakket voor het instellen van het verkoopinzicht.
 
 ## API-verbeteringen {#api-enhancements}
 
-* **Uitgebreide API Toegang voor CRM-Toegelaten Abonnementen**: Wij breiden API toegang voor abonnementen uit die een synchronisatie hebben CRM die wordt toegelaten om gebruikers toe te staan om Bedrijven, Kansen, en de Personen van de Verkoop van Marketo Engage terug te winnen.
-* **Ondersteuning voor &quot;Verborgen&quot; datatypen in Forms**: Biedt de mogelijkheid om verborgen formuliervelden te beheren via API.
-* **De Veelvoudige Waarden van de Vergelijking van de steun voor isNot Vorm via Regels**: De zichtbaarheid van formuliervelden beheren op basis van het feit of de waarde van een ander veld niet een van de waarden in een bepaalde lijst is.
-* **Instellen van waarden voor Weergave en Verzending toestaan in lijst afzonderlijk selecteren**: Stel de weergavewaarde en de verzonden waarde in een veld afzonderlijk in. Geef bijvoorbeeld de naam van een hotel weer, maar verzend een interne id naar de achterkant.
-* **Instelling van Open Tracering uitschakelen bij maken of bijwerken van e-mail toestaan**: Maak een e-mail met open tracking uitgeschakeld.
+* **Nieuwe filtermogelijkheden voor de Extraheren-API voor leden van het Bulkprogramma**: U kunt filteren op de status van het programmalidmaatschap, bijgewerkteAt, cadence of uitgeput inhoud om de geëxtraheerde gegevensset te verfijnen.
+
+* **Verbetering van de API voor Extraheren voor leden van het Bulkprogramma**: Geef maximaal 10 programma&#39;s op tijdens het creëren van banen om de productie te verbeteren.
 
 ## Aankondigingen {#announcements}
 
-**E-mailverificatie en uniformiteit**: Vanaf april wordt begonnen met het invoeren van e-mailverificatie. Op dat moment is verificatie en unieke verificatie vereist voor e-mailadressen van gebruikers met de Marketo Engage-naam (dit geldt niet voor gebruikers met alleen de API). Gebruikers met een directoryservice hebben hun e-mailadres automatisch laten controleren wanneer hun abonnement is ingeschakeld met e-mailverificatie.
-
-E-mailverificatie voor abonnementen met de functie &quot;Aanmelden bij gebruiker uitgenodigd dialoogvenster&quot; of met één e-mailadres dat is gekoppeld aan meerdere gebruikers, valt samen met de release van mei. Abonnementen waaraan één e-mail is gekoppeld aan meerdere gebruikers worden ingeschakeld met e-mailverificatie. Deze gebruikers moeten het conflict oplossen en per gebruiker een unieke e-mail gebruiken. Wanneer de functie Gebruikersdialoogvenster aanmelden is ingeschakeld, moeten gebruikers die via deze functie zijn uitgenodigd een uniek e-mailadres hebben. Voor gebruikers met alleen een API die via deze functie zijn uitgenodigd, hoeft het e-mailadres niet uniek te zijn.
-
-**Gedrag van archiefmap wijzigen**: Met deze release is de mogelijkheid om nieuwe elementen te maken in Archiefmappen niet meer beschikbaar in de contextmenu&#39;s van de boomstructuur. Menuopties voor het maken van nieuwe elementen worden voor alle elementen verborgen. [Meer informatie hier](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target=&quot;_blank&quot;}.
+* **Forms Deprecation - Forms 1.0, lead Capture/save-eindpunt en geen-scriptversies van formulieren**: De ondersteuning voor Forms 1.0-middelen wordt volledig uit Marketo Engage verwijderd. Alle bestaande Forms 1.0-middelen zullen niet meer werken. Voor Marketo Engage-formulieren moet JavaScript worden geladen op bestemmingspagina&#39;s en websites.
 
 **_Webinar productrelease_**
 
-[Release Webinar van maart en mei 2022 Marketo Engage](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
+Doe mee op 24 augustus 2022 om 9:00 uur PT / 12:00 uur ET voor een [levende webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} wordt gehost door ons productteam, waar u kunt leren hoe u alle nieuwste productinnovaties kunt gebruiken.
