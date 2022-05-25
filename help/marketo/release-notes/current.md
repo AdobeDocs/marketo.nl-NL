@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: b32fb053062481f0750305548d38055db2c72463
+source-git-commit: 375af5ec7293acd0cdf352c8aa0a7a3973b248be
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,6 @@ Hieronder vindt u alle functies die zijn opgenomen in de release van 22 juni. Ra
 >[!AVAILABILITY]
 >
 >Kenmerken die door een ster worden aangeduid (![ster](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
-
-**_Kwartaalreleases_**
 
 De volgende functies worden vrijgegeven op **24 juni 2022**, met een gefaseerde uitrol van de resterende kenmerken in de daaropvolgende weken (tenzij anders vermeld).
 
