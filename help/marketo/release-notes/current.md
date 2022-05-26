@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 375af5ec7293acd0cdf352c8aa0a7a3973b248be
+source-git-commit: f7bb22572ed1a79fe8afe4a1066a2cc172a43f23
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,12 @@ De volgende functies worden vrijgegeven op **24 juni 2022**, met een gefaseerde 
 ![(ster)](assets/yellow-star.png)
 
 * **Toestemming voor verkoopinzicht ingesteld in Salesforce**: Beheerders kunnen via de machtigingsset Marketo App toegang bieden tot een beperkt aantal personen op gebruikersniveau in plaats van op profielniveau. Deze set maakt deel uit van het Salesforce-pakket voor het instellen van het verkoopinzicht.
+
+* **Mijn Marketo Tile-update - Handelingen Verkoopinzicht**: Marketo Admins (en de gebruikers die zij aanwijzen) kunnen nu snel naar hun instantie van de Acties van het Inzicht van de Verkoop via een nieuwe titel van de Acties van het Inzicht van de Verkoop die op de Mijn pagina van Marketo wordt gevestigd.
+
+## Verkoop Connect {#sales-connect}
+
+* **Update voor Salesforce API**: Met de release van Salesforce Summer &#39;22, zullen oudere API versies 21-30 niet meer worden ondersteund door Salesforce. Met deze Marketo Engage-release zijn alle Sales Connect-aanvragen die oudere API-versies gebruiken, bijgewerkt en blijven deze versies op de ondersteunde versie staan. Voor volledige informatie over de pensioenplannen van de Salesforce API klikt u op [hier](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
 
 ## API-verbeteringen {#api-enhancements}
 
