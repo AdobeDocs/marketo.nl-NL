@@ -3,16 +3,16 @@ description: Snelle gids - Marketo Docs - Productdocumentatie
 title: Snelle gids
 hide: true
 hidefromtoc: true
-source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
+source-git-commit: f33af70109b0491138aff8aa0416f3f919e7d20c
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 # Snelle gids {#quick-guide}
 
-Volg de onderstaande stappen om Marketo Engage met Adobe Identity Management in te stellen en te leren.
+Met de onderstaande artikelen kunt u Marketo Engage met Adobe Identity Management instellen en leren gebruiken.
 
 ## Systeembeheerder {#system-admin}
 
