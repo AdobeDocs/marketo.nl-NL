@@ -2,7 +2,7 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40e88a573079b87b3af9a653d8e0b64b5b7522bc
+source-git-commit: 3fe29ccb26e72b593f8b410a45a4871e68fb5fa8
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 0%
@@ -63,7 +63,7 @@ De volgende functies worden vrijgegeven op **24 juni 2022**, met een gefaseerde 
 
 ## Aankondigingen {#announcements}
 
-* **Forms Deprecation - Forms 1.0, lead Capture/save-eindpunt en geen-scriptversies van formulieren**: In oktober 2022 wordt de ondersteuning voor Forms 1.0-middelen volledig van Marketo Engage verwijderd. Alle bestaande Forms 1.0-middelen zullen niet meer werken. Voor Marketo Engage-formulieren moet JavaScript worden geladen op bestemmingspagina&#39;s en websites.
+* **Forms Deprecation - Forms 1.0, lead Capture/save-eindpunt en geen-scriptversies van formulieren**: De ondersteuning voor Forms 1.0-middelen zal tegen oktober 2022 volledig uit Marketo Engage zijn verwijderd. Alle bestaande Forms 1.0-middelen zullen niet meer werken. Voor Marketo Engage-formulieren moet JavaScript worden geladen op bestemmingspagina&#39;s en websites.
 
 **_Webinar productrelease_**
 
