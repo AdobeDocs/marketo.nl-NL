@@ -3,10 +3,9 @@ unique-page-id: 1146942
 description: Slimme lijst definiëren voor slimme campagne | Trigger - Marketo Docs - Productdocumentatie
 title: Slimme lijst definiëren voor slimme campagne | Trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd die op levende gebeurtenissen wordt gebaseerd door trekkers toe te voegen.
 
-1. In uw slimme campagne, klik **Slimme Lijst** tabel.
+1. Klik in uw slimme campagne op de knop **Slimme lijst** tab.
 
    ![](assets/image2014-9-19-16-3a22-3a55.png)
 
@@ -25,7 +24,11 @@ Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd di
 
    >[!NOTE]
    >
-   >Een slimme campagne met triggers wordt uitgevoerd in de modus **Trigger**. De functie wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en eventuele aanvullende filters.
+   >Een slimme campagne met triggers wordt uitgevoerd in **Trigger** in. Deze wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en eventuele aanvullende filters.
+
+   >[!IMPORTANT]
+   >
+   >Wanneer u een Booleaans veld in een slimme lijst van een triggercampagne gebruikt, moet u deze expliciet instellen op &#39;false&#39; om het veld tijdens de uitvoering van de campagne correct te laten evalueren.
 
 1. Klik op de vervolgkeuzelijst en kies een operator.
 
@@ -45,9 +48,9 @@ Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd di
 
    >[!NOTE]
    >
-   >Met veelvoudige trekkers, gaat een persoon door de stroom als **ANY** één van de trekkers wordt geactiveerd.
+   >Bij meerdere triggers gaat een persoon door de flow als **ALLE** een van de triggers wordt geactiveerd.
 
-Als u de campagne op een set mensen tegelijk wilt uitvoeren, leert u hoe u [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+Leer hoe u de campagne op een aantal mensen tegelijk kunt uitvoeren [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
 >[!MORELIKETHIS]
 >
