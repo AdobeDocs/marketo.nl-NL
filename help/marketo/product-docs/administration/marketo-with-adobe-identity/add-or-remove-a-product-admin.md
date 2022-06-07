@@ -2,9 +2,9 @@
 description: Een productbeheerder toevoegen of verwijderen - Marketo Docs - Productdocumentatie
 title: Een productbeheerder toevoegen of verwijderen
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ ht-degree: 0%
 >**Systeem** Admins worden slechts gecreeerd op het niveau van de Adobe Org. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Een productbeheerder toevoegen {#add-a-product-admin}
+
+>[!IMPORTANT]
+>
+>Er moet een beheerder aan een productprofiel worden toegevoegd om toegang tot Marketo Engage te krijgen.
 
 1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/).
 

@@ -2,9 +2,9 @@
 description: Admin Setup - Marketo Docs - Productdocumentatie
 title: Beheerdersinstellingen
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
-source-git-commit: 7eff888c0fdebf31da4706f70d1e99e8327807ca
+source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 Zodra u als Admin van het Systeem van de Adobe aan Marketo Engage in een Adobe wordt toegevoegd, zijn er een paar stappen u zult moeten nemen om de aanvankelijke opstelling te voltooien.
 
-## Systeembeheerinstellingen {#system-admin-setup}
+## Eerste instelling {#initial-setup}
 
 1. Nadat u als aangewezen Admin van het Systeem voor Marketo Engage (in een nieuwe of gevestigde org) bent toegevoegd, zult u een welkome e-mail ontvangen. Klik in die e-mail op **Aan de slag**.
 
    ![](assets/admin-setup-1.png)
 
-1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Zo niet, [Adobe ID instellen](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html).
+1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar de Adobe Admin Console. Zo niet, [Adobe ID instellen](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}.
 
    ![](assets/admin-setup-2.png)
 
@@ -53,4 +53,4 @@ Nadat de systeembeheerder tot de Admin Console toegang heeft, is het tijd om een
 
 >[!MORELIKETHIS]
 >
->[Een productbeheerder toevoegen of verwijderen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
+>[Een productbeheerder toevoegen of verwijderen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target=&quot;_blank&quot;}
