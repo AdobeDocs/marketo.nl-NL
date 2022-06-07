@@ -3,9 +3,9 @@ description: Aangepaste velden voor programmalid - Marketo Docs - Productdocumen
 title: Aangepaste velden voor programmalid
 hide: true
 hidefromtoc: true
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: 09e9ee74c32f81fdc826454266d3e16826a09eae
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 >
 >Het programmalidobject kan maximaal 20 aangepaste velden hebben. Deze velden zijn beschikbaar voor elk programma.
 
-## Salesforce-velden toewijzen aan Program Member Fields {#map-salesforce-fields-to-program-member-fields}
+## Salesforce-velden toewijzen aan aangepaste velden voor programmalid {#map-salesforce-fields-to-program-member-custom-fields}
 
 1. Klik in Marketo op **Beheer**.
 
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >De drop-down zal slechts de Gebieden van de Douane van het Lid van het Programma tonen die het datatype van het gebied Salesforce aanpassen.
+   >De drop-down zal slechts de Gebieden van de Douane van het Lid van het Programma tonen die het gegevenstype van het gebied Salesforce aanpassen.
 
 1. Voor extra veldtoewijzingen wist u het zoekvak en herhaalt u stap 3 tot en met 5.
 
@@ -60,7 +60,7 @@ ht-degree: 0%
    >
    >Als u het gegevenstype van een gebied in Salesforce anders noemt of verandert, zullen wij om het even welke afbeelding van dat gebied met het Gepaste Gebied van het Lid van het Programma verwijderen. U kunt de toewijzing echter na revisie opnieuw toewijzen met het nieuwe veld.
 
-## Salesforce-velden deactiveren naar de velden voor programmaleden {#unmap-salesforce-fields-to-program-member-fields}
+## Salesforce-velden uit aangepaste velden voor programmalid verwijderen {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 Als u een veld ooit wilt vrijmaken om het te vervangen of als u alleen een algemene wijziging wilt aanbrengen, moet u eerst een unmapping uitvoeren. Zo gaat het.
 
@@ -88,7 +88,7 @@ Als u een veld ooit wilt vrijmaken om het te vervangen of als u alleen een algem
 
    ![](assets/program-member-custom-field-sync-11.png)
 
-## Datatype toewijzen {#datatype-mapping}
+## Gegevenstypetoewijzing {#data-type-mapping}
 
 <table>
   <colgroup>
@@ -98,7 +98,7 @@ Als u een veld ooit wilt vrijmaken om het te vervangen of als u alleen een algem
   <tbody>
     <tr>
       <th>SFDC-gegevenstype</th>
-      <th>Gegevenstype van programmalid</th>
+      <th>Aangepast veldgegevenstype voor programmalid</th>
     </tr>
     <tr>
       <td>Tekst</td>
