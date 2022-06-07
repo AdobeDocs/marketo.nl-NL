@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 96f7c405d97471a5dbfbd976cfcb04fd67b4edc7
+source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
 workflow-type: tm+mt
-source-wordcount: '8775'
+source-wordcount: '8780'
 ht-degree: 0%
 
 ---
@@ -384,6 +384,7 @@ ht-degree: 0%
             + [Vervaldatum van lokale middelen](product-docs/core-marketo-concepts/programs/working-with-programs/local-asset-expiration.md)
             + [Leden beheren en weergeven](product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md)
             + [Aangepaste velden voor programmalid](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)
+            + [Aangepaste veldsynchronisatie voor programmalid](product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md)
             + [Een SFDC-campagne synchroniseren met een programma](product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md)
             + [Kosten voor tijdrekening](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
             + [Tags begrijpen](product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)
