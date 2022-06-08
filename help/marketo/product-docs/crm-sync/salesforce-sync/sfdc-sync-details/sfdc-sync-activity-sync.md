@@ -1,12 +1,11 @@
 ---
 unique-page-id: 2953473
-description: SFDC Sync -Activity Sync - Marketo Docs - Productdocumentatie
+description: SFDC Sync - Activity Sync - Marketo Docs - Productdocumentatie
 title: SFDC Sync - Activity Sync
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,11 +20,11 @@ Marketo synchroniseert zowel gebeurtenissen als taken die aan een lead of contac
 
 ## Hoe worden de activiteitsgegevens gesynchroniseerd tussen de twee systemen? {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-De synchronisatie is één manier, van Salesforce tot Marketo. Maar u kunt een taak in Salesforce tot stand brengen gebruikend [Create Taak](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) stroomstap of [Customize Activiteiten Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) aan Salesforce.
+De synchronisatie is één manier, van Salesforce tot Marketo. Maar u kunt een taak maken in Salesforce met de [Taak maken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) stroomstap of [Activiteiten synchroniseren aanpassen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) naar Salesforce.
 
 ## Kan ik een taak maken met Marketo? {#can-i-create-a-task-using-marketo}
 
-Ja, kunt u [de actie van de Stroom van de Taak creëren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) gebruiken.
+Ja, u kunt de [Taakstroom maken, actie](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md).
 
 ## Wat zijn de triggers/filters gerelateerd aan activiteit? {#what-are-the-triggers-filters-related-to-activity}
 

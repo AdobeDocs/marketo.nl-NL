@@ -3,15 +3,14 @@ unique-page-id: 2953471
 description: SFDC Sync - Custom Object Sync - Marketo Docs - Productdocumentatie
 title: SFDC-synchronisatie - Aangepaste objectsynchronisatie
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# SFDC-synchronisatie: Aangepaste objectsync {#sfdc-sync-custom-object-sync}
+# SFDC-synchronisatie: Aangepaste objectsynchronisatie {#sfdc-sync-custom-object-sync}
 
 Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook deel uitmaken van Marketo.  Hier is hoe je het instelt.
 
@@ -21,19 +20,19 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook deel
 
 >[!PREREQUISITES]
 >
->Als u een aangepast object wilt gebruiken, moet het worden gekoppeld aan een [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)-, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)- of [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)-object in Salesforce.
+>Als u een aangepast object wilt gebruiken, moet het zijn gekoppeld aan een [leiden](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md), of [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) object in Salesforce.
 
-## Aangepast object {#enable-custom-object} inschakelen
+## Aangepast object inschakelen  {#enable-custom-object}
 
-1. Klik op **Admin** en de koppeling **Salesforce-objecten synchroniseren**.
+1. Klikken **Beheer** en de **Salesforce-objecten synchroniseren** koppeling.
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. Als dit het eerste aangepaste object is, klikt u op **Schema synchroniseren**.
+1. Als dit uw eerste aangepaste object is, klikt u op **Schema synchroniseren**.
 
    ![](assets/rtaimage-2.png)
 
-1. Klik **Globale synchronisatie uitschakelen**.
+1. Klikken **Globale synchronisatie uitschakelen**.
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
@@ -51,11 +50,11 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook deel
    >
    >Aangepaste objecten moeten unieke namen hebben. Marketo ondersteunt geen twee verschillende aangepaste objecten met dezelfde naam.
 
-1. Klik **Sync inschakelen**.
+1. Klikken **Sync inschakelen**.
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Klik **Schakel Sync** opnieuw in.
+1. Klikken **Sync inschakelen** opnieuw.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -63,15 +62,15 @@ Aangepaste objecten die in uw Salesforce-instantie zijn gemaakt, kunnen ook deel
    >
    >Vergeet niet om uw wereldwijde synchronisatie opnieuw in te schakelen!
 
-1. Ga terug naar het **tabblad Salesforce**.
+1. Ga terug naar de **Salesforce** tab.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. Klik **Sync inschakelen**.
+1. Klikken **Sync inschakelen**.
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Als u al uw aangepaste Salesforce-objecten wilt weergeven, klikt u op **Admin** en de koppeling **Salesforce-objecten synchroniseren** (dezelfde als in stap 1 hierboven).
+1. Als u al uw aangepaste Salesforce-objecten wilt weergeven, klikt u op **Beheer** en de **Salesforce-objecten synchroniseren** koppeling (zelfde als bovenstaande stap 1).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

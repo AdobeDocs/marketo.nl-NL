@@ -3,9 +3,10 @@ description: Aangepaste velden voor programmalid - Marketo Docs - Productdocumen
 title: Aangepaste velden voor programmalid
 hide: true
 hidefromtoc: true
-source-git-commit: 09e9ee74c32f81fdc826454266d3e16826a09eae
+exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,9 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Aanmaken van [Aangepaste velden voor programmalid](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target=&quot;_blank&quot;}
+>* Aanmaken van [Aangepaste velden voor programmalid](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target=&quot;_blank&quot;}
+>* [Een Salesforce-campagne synchroniseren met een programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target=&quot;_blank&quot;}
+
 
 >[!NOTE]
 >
@@ -159,4 +162,5 @@ Als u een veld ooit wilt vrijmaken om het te vervangen of als u alleen een algem
 >
 >* [Gegevens van programmalid wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target=&quot;_blank&quot;}
 >* [Gegevens weergeven op het raster voor programmaleden](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target=&quot;_blank&quot;}
+>* [SFDC Sync - Campagne Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target=&quot;_blank&quot;}
 

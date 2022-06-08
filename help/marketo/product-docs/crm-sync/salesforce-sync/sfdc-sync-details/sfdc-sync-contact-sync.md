@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2953457
-description: SFDC Sync -Contact Sync - Marketo Docs - Productdocumentatie
+description: SFDC-synchronisatie - Contactsynchronisatie - Marketo-documenten - Productdocumentatie
 title: SFDC-synchronisatie - Contactsynchronisatie
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: e04e2d6932830535493c431de50d6cf9e2298fb1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# SFDC-synchronisatie: Contactsynchronisatie {#sfdc-sync-contact-sync}
+# SFDC-synchronisatie: Synchroniseren {#sfdc-sync-contact-sync}
 
 Wist je dat Marketo je hele database synchroniseert met Salesforce? Het synchroniseert, wacht dan 5 minuten en synchroniseert dan opnieuw, de hele dag, elke dag. Hier zijn een paar details over hoe Marketo Salesforce Contacten specifiek behandelt.
 
-## Richting {#sync-direction} synchroniseren
+## Richting synchroniseren {#sync-direction}
 
 De contactsynchronisatie is bidirectioneel. Als u wijzigingen aanbrengt in een contactpersoon in Salesforce of Marketo, worden uw updates weerspiegeld in beide systemen.
 
@@ -25,7 +24,7 @@ We zijn aardig en laten Salesforce winnen. Het is zeldzaam dat dit soort botsing
 
 ## Kan ik een persoon omzetten in een contactpersoon in Marketo? {#can-i-convert-a-person-into-a-contact-in-marketo}
 
-Ja, gebruik **[Persoon omzetten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)** stroomactie.
+Ja, gebruik de **[Persoon omzetten](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)** Handeling flow.
 
 >[!CAUTION]
 >
@@ -33,7 +32,7 @@ Ja, gebruik **[Persoon omzetten](/help/marketo/product-docs/core-marketo-concept
 
 ## Kan ik een synchronisatie van een contact manueel dwingen? {#can-i-manually-force-a-sync-of-a-contact}
 
-Ja, gebruik **[Persoon synchroniseren naar SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** stroomactie en het zal in real time synchroniseren.
+Ja, gebruik de **[Persoon synchroniseren naar SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** en wordt in real-time gesynchroniseerd.
 
 ## Synchroniseert elke standaard veld met Marketo? {#does-every-single-standard-field-sync-to-marketo}
 
