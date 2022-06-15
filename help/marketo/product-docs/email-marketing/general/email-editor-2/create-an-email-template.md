@@ -2,14 +2,13 @@
 unique-page-id: 10096400
 description: Een e-mailsjabloon maken - Marketo Docs - Productdocumentatie
 title: Een e-mailsjabloon maken
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
+source-git-commit: 1a3c22db02bb7c26380d58c816baef4b40a357ac
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Een e-mailsjabloon maken {#create-an-email-template}
 
@@ -17,15 +16,19 @@ Ga als volgt te werk om een nieuwe e-mailsjabloon te maken.
 
 >[!NOTE]
 >
->Marketo Support is niet ingesteld als hulp bij het oplossen van problemen met aangepaste HTML. Neem contact op met een webontwikkelaar voor HTML-ondersteuning.
+>Marketo Support is niet ingesteld als hulp bij het oplossen van problemen met aangepaste HTML. Neem contact op met een webontwikkelaar voor hulp bij HTML.
+
+>[!CAUTION]
+>
+>In de editor die we gebruiken, worden de waarden van CSS-eigenschappen voor kleur en achtergrondkleur omgezet in kleine letters. Gebruik dus liever geen kamelhoofdletters en gebruik in plaats daarvan kleine letters of afbreekstreepjes.
 
 ## Een nieuwe e-mailsjabloon maken {#create-a-new-email-template}
 
-1. Klik **Design Studio**.
+1. Klikken **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klik **Nieuw**, dan uitgezocht **Nieuwe E-mailMalplaatje**.
+1. Klikken **Nieuw** selecteert u vervolgens **Nieuwe e-mailsjabloon**.
 
    ![](assets/ds-two.png)
 
@@ -33,7 +36,7 @@ Ga als volgt te werk om een nieuwe e-mailsjabloon te maken.
 
    ![](assets/three-1.png)
 
-1. Als u wilt beginnen met het bewerken van de nieuwe sjabloon, klikt u op **Concept bewerken**.
+1. Klik op **Concept bewerken**.
 
    ![](assets/4.png)
 
@@ -41,11 +44,11 @@ Ga als volgt te werk om een nieuwe e-mailsjabloon te maken.
    >
    >Hoewel er geen vaste limiet is, kan het opnieuw goedkeuren van de sjabloon na een update leiden tot prestatieproblemen als een e-mailsjabloon eenmaal wordt gebruikt door meer dan 500 e-mailberichten. We raden u aan om zodra er 500 e-mailberichten aan een e-mailsjabloon zijn gekoppeld, een nieuwe sjabloon te maken.
 
-## Een e-mail opslaan als een sjabloon {#save-an-email-as-a-template}
+## E-mail opslaan als sjabloon {#save-an-email-as-a-template}
 
 Voer de volgende eenvoudige stappen uit als u een e-mailbericht hebt gemaakt dat u wilt opslaan als sjabloon voor toekomstig gebruik.
 
-1. Klik **Marketingactiviteiten**.
+1. Klikken **Marketingactiviteiten**.
 
    ![](assets/one.png)
 
@@ -53,11 +56,11 @@ Voer de volgende eenvoudige stappen uit als u een e-mailbericht hebt gemaakt dat
 
    ![](assets/two-1.png)
 
-1. Klik op de vervolgkeuzelijst **E-mailhandelingen** en selecteer **Opslaan als sjabloon**.
+1. Klik op de knop **E-mailhandelingen** vervolgkeuzelijst en selecteer **Opslaan als sjabloon**.
 
    ![](assets/four-1.png)
 
-1. Klik **Folder** drop-down, selecteer waar u het malplaatje wilt leven, en klik **sparen**.
+1. Klik op de knop **Map** vervolgkeuzelijst, selecteer waar u de sjabloon wilt plaatsen en klik op **Opslaan**.
 
    ![](assets/five-1.png)
 
