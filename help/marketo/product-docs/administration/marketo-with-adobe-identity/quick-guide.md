@@ -2,9 +2,9 @@
 description: Snelle gids - Marketo Docs - Productdocumentatie
 title: Snelle gids
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
-source-git-commit: 4dbf9afa79533034c040fa6fe9756e0fa7c0fbcd
+source-git-commit: 37459d7e72a5719d1b963922071456aff5c3d120
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -13,11 +13,9 @@ ht-degree: 0%
 
 Met de onderstaande artikelen kunt u Marketo Engage met Adobe Identity Management instellen en leren gebruiken.
 
-## Systeembeheerder {#system-admin}
+## Systeembeheerinstellingen {#system-admin-setup}
 
 Productprofiel en productbeheer.
-
-[Toegang systeembeheerder](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#system-admin-setup){target=&quot;_blank&quot;}
 
 [Een productprofiel maken](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#create-a-product-profile){target=&quot;_blank&quot;}
 
