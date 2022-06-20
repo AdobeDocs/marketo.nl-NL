@@ -3,9 +3,9 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Productdocumentatie
 title: Marketo Verklarende woordenlijst
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 3559dff22a294545440790c712e80b853340b66d
+source-git-commit: 164669e6649927e570974af227c2b1af75ad73d3
 workflow-type: tm+mt
-source-wordcount: '4196'
+source-wordcount: '4203'
 ht-degree: 0%
 
 ---
@@ -28,19 +28,15 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Account</strong></td> 
-   <td colspan="1">Deze term kan verschillende betekenissen hebben:<br>-Je Marketo-exemplaar zelf kan worden aangeduid als je Marketo-account.<br>-In <strong>ABM</strong>, <strong>Benoemd account</strong> Dit is een account die de gebruiker heeft opgegeven. Dit is een doelaccount die de gebruiker wil gebruiken.<br>-In ABM is een CRM-account een account die is toegewezen aan uw gekoppelde <strong>CRM</strong> (account in <strong>Salesforce</strong>, <strong>MS Dynamics</strong> of <strong>API</strong>).<br>- In uw CRM, zijn de rekeningen de zaken/het bedrijf dat leidt en de contacten worden geassocieerd aan.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Op account gebaseerde marketing</a> (ABM)</strong></td> 
-   <td colspan="1">Een add-on functie waarmee u belangrijke accounts op een zeer gecoördineerde manier als doel kunt instellen en inschakelen.</td> 
+   <td colspan="1">Deze term kan verschillende betekenissen hebben:<br>-Je Marketo-exemplaar zelf kan worden aangeduid als je Marketo-account.<br>-In <strong>TAM</strong>, <strong>Benoemd account</strong> Dit is een account die de gebruiker heeft opgegeven. Dit is een doelaccount die de gebruiker wil gebruiken.<br>-In TAM, is een Rekening van CRM een rekening die van uw verbonden wordt in kaart gebracht <strong>CRM</strong> (account in <strong>Salesforce</strong>, <strong>MS Dynamics</strong> of <strong>API</strong>).<br>- In uw CRM, zijn de rekeningen de zaken/het bedrijf dat leidt en de contacten worden geassocieerd aan.</td> 
   </tr> 
   <tr> 
    <td><strong>Accountlijst</strong></td> 
-   <td>Een lijst met sleutelnamen voor accounts en organisaties. Ook bekend als Account-Based Marketing (<strong>ABM</strong>).</td> 
+   <td>Een lijst met sleutelnamen voor accounts en organisaties. Ook bekend als Target Account Management (<strong>TAM</strong>).</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Accountprofielen</strong></td> 
-   <td colspan="1">(voorheen AccountAI) In <strong>ABM</strong>, met behulp van uw Ideal Customer Profile (ICP), worden bestaande bedrijven in uw database gerangschikt en worden de waarderingen als scores toegevoegd aan uw accounts.</td> 
+   <td colspan="1">(voorheen AccountAI) In <strong>TAM</strong>, met behulp van uw Ideal Customer Profile (ICP), worden bestaande bedrijven in uw database gerangschikt en worden de waarderingen als scores toegevoegd aan uw accounts.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/account-score.md" rel="nofollow">Accountscore</a></strong></td> 
@@ -574,7 +570,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
  <tbody> 
   <tr> 
    <td><strong>Benoemd account</strong></td> 
-   <td><p>In <strong>ABM</strong>, een account dat de gebruiker heeft bepaald, is een doelaccount dat hij of zij wil nastreven.</p></td> 
+   <td><p>In <strong>TAM</strong>, een account dat de gebruiker heeft bepaald, is een doelaccount dat hij of zij wil nastreven.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Nuratieprogramma</strong></td> 
@@ -647,7 +643,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>Persona</strong></a></td> 
-   <td colspan="1">In Marketo <strong>Op account gebaseerde marketing</strong>, zijn de persona's een ondergroep van een publiek, die voor specifiekere het richten toestaat.</td> 
+   <td colspan="1">In Marketo <strong>Doelaccountbeheer</strong>, zijn de persona's een ondergroep van een publiek, die voor specifiekere het richten toestaat.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>Pollen</strong></a></td> 
@@ -807,7 +803,11 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" rel="nofollow">Tags</a></strong></td> 
    <td>Id's die worden gebruikt om te beschrijven <strong>programma's</strong>.</td> 
-  </tr> 
+  </tr>
+  <tr> 
+   <td colspan="1"><strong><a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md" rel="nofollow">Doelaccountbeheer</a> (TAM)</strong></td> 
+   <td colspan="1">(voorheen Account-based Marketing/ABM) Een add-on functie waarmee u belangrijke accounts op een zeer gecoördineerde manier kunt aanspreken.</td> 
+  </tr>
   <tr> 
    <td><strong>Sjabloon</strong></td> 
    <td>An <strong>email</strong> of <strong>landingspagina</strong> dat wordt gebruikt als beginpunt voor het maken van extra e-mails of bestemmingspagina's.</td> 
