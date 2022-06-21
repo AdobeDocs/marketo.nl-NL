@@ -2,9 +2,9 @@
 description: Algemene regels voor formuliervalidatie - Marketo-documenten - productdocumentatie
 title: Algemene regels voor formuliervalidatie
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
+source-git-commit: 7749bd1fec7a7c1974efdb8de046eed4f34aefc4
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -70,3 +70,17 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 >[!NOTE]
 >
 >Marketo Engage heeft een bepaalde lijst van gewezen personen van vrije consument e-maildomeinen die worden geblokkeerd wanneer het gebruiken van onze vooraf geladen &quot;Lijst van gewezen personen van het Domein van de Consumenten E-mail&quot;regel. [Deze lijst hier weergeven](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+
+## Toegang per formulier uitschakelen{#how-to-disable-access-per-form}
+
+Zodra deze optie is ingeschakeld, zijn de regels van toepassing op alle formulieren. Als u echter een formulier met specifieke vereisten hebt en u wilt dat niets wordt afgewezen, kunt u Algemene regels voor formuliervalidatie uitschakelen in de instellingen van een formulier.
+
+1. Klik in het gewenste formulier op **Formulierinstellingen** vervolgens **Instellingen**.
+
+   ![](assets/global-form-validation-rules-11.png)
+
+1. Klik op de vervolgkeuzelijst Algemene regels voor formuliervalidatie en kies **Uitgeschakeld**.
+
+   ![](assets/global-form-validation-rules-12.png)
+
+Als u uw formulier goedkeurt en plaatst, worden de algemene regels voor formuliervalidatie genegeerd.
