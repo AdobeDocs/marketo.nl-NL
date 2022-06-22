@@ -2,24 +2,16 @@
 description: Flow Step Service - Marketo Docs - Productdocumentatie
 title: Stroom Step Service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
 workflow-type: tm+mt
-source-wordcount: '1292'
+source-wordcount: '1243'
 ht-degree: 0%
 
 ---
 
 # Stroom Step Service {#flow-step-service}
 
->[!NOTE]
->
->De stappen van de Stroom van de Zelfbediening zijn momenteel in Open Bèta. U kunt deze optie inschakelen voor uw abonnement via Beheer > menu Schatkest.
-
-De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van de Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie over het ontwerpen en publiceren van uw eigen service raadpleegt u de [GitHub-opslagplaats voor de Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Er is een concepttest voor de implementatie van de opzoektabel gevonden [hier](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
-
-## Beperkingen en waarschuwingen vóór vrijgave {#pre-release-restrictions-and-warnings}
-
-Deze functie bevindt zich momenteel in open bèta en mag alleen worden gebruikt op Sandbox-instanties van Marketo Engage tot uw service volledig is getest.
+De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie over het ontwerpen en publiceren van uw eigen service raadpleegt u de [GitHub-opslagplaats voor de Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Er is een concepttest voor de implementatie van de opzoektabel gevonden [hier](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
 
 ## Onboarding en Managing Services {#onboarding-and-managing-services}
 
