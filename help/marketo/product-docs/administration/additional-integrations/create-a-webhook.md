@@ -3,15 +3,14 @@ unique-page-id: 2360360
 description: Webhaak maken - Marketo Docs - Productdocumentatie
 title: Webhaak maken
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
-# Webhaak {#create-a-webhook} maken
+# Webhaak maken {#create-a-webhook}
 
 Gebruik websites om gebruik te maken van externe webservices voor het verzenden van tekstberichten, het uitbreiden van persoonlijke gegevens en nog veel meer.
 
@@ -19,11 +18,11 @@ Gebruik websites om gebruik te maken van externe webservices voor het verzenden 
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Ga naar **Admin** en klik **Webhooks**.
+1. Ga naar **Beheer** en klik op **Webhaken**.
 
    ![](assets/image2014-9-24-14-3a52-3a57.png)
 
-1. Klik **Nieuwe Webhaak**.
+1. Klikken **Nieuwe webhaak**.
 
    ![](assets/image2014-9-24-14-3a53-3a9.png)
 
@@ -35,18 +34,20 @@ Gebruik websites om gebruik te maken van externe webservices voor het verzenden 
    >
    >Dit omvat vaak het ingaan van uw derdedienstgeloofsbrieven als parameter URL, of in het malplaatje van de POST.
 
-   * **URL**: Voer de URL in die u gebruikt om uw aanvraag naar de webservice te POSTEN. Als u een token, zoals het e-mailadres van de persoon (**`{{lead.Email Address}}`**), wilt invoegen in uw verzoek, klikt u op **Token invoegen**.
+   * **URL**: Voer de URL in die u in uw aanvraag voor de webservice gebruikt. Een token invoegen, zoals het e-mailadres van de persoon (**`{{lead.Email Address}}`**), klikt u in uw verzoek op **Token invoegen**.
 
    * **Sjabloon**: Als u informatie in het lichaam van de POST wilt overbrengen, ga het malplaatje in. Gebruik om het even welk gegevensformaat dat de POST van HTTP, met inbegrip van XML, JSON, of ZEEP steunt. Als u een token wilt invoegen in uw sjabloon, klikt u op **Token invoegen**.
 
-   * **Tokencodering** aanvragen: Als de tokenwaarden speciale tekens bevatten (zoals een en-teken &#39;&amp;&#39;), geeft u de indeling van uw verzoek aan (**** JSONof  **Form/Url**).
+   * **Tokencodering aanvragen**: Als de tokenwaarden speciale tekens bevatten (zoals een en-teken &#39;&amp;&#39;), geeft u de indeling van uw verzoek op (**JSON** of **Formulier/URL**).
 
-   * **Type** reactie: Selecteer het formaat van de reactie u van de dienst (**** JSONof  **XML**) ontvangt.
+   * **Type reactie**: Selecteer het formaat van de reactie u van de dienst ontvangt (**JSON** of **XML**).
 
-   Klik op Maken.
+   * **Type aanvraag**: Selecteer de te gebruiken methode van HTTP (DELETE, GET, PATCH, POST, PUT)
+
+   Klikken **Maken**.
 
    ![](assets/image2014-9-24-14-3a53-3a35.png)
 
 >[!NOTE]
 >
->Leer meer in de [grote duik](https://developers.marketo.com/documentation/webhooks/).
+>Meer informatie in het dialoogvenster [webhaken](https://developers.marketo.com/documentation/webhooks/) diep duiken.

@@ -3,15 +3,14 @@ unique-page-id: 10093188
 description: Marketo Custom Objects - Marketo Docs - Productdocumentatie
 title: Aangepaste Marketo-objecten begrijpen
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
 workflow-type: tm+mt
 source-wordcount: '679'
 ht-degree: 0%
 
 ---
 
-# Aangepaste Marketo-objecten {#understanding-marketo-custom-objects}
+# Aangepaste Marketo-objecten begrijpen {#understanding-marketo-custom-objects}
 
 Gebruik aangepaste objecten om metrische gegevens bij te houden die specifiek zijn voor uw bedrijf.
 
@@ -27,7 +26,7 @@ Gebruik aangepaste objecten als filters en triggers in slimme campagnes. Bijvoor
 U kunt aangepaste objecten instellen in een een-op-een-relatie of een veel-op-veel-relatie. Bijvoorbeeld:
 
 * **Een-op-veel**: Eén persoon heeft meerdere auto&#39;s
-* **Veel-tot-veel**: Meerdere studenten zijn ingeschreven voor meerdere cursussen in een cursuscatalogus
+* **Velen-aan-velen**: Meerdere studenten zijn ingeschreven voor meerdere cursussen in een cursuscatalogus
 
 Een één-op-vele structuur gebruikt één enkel verbindingsgebied om het douanevoorwerp met een persoon of een bedrijf te verbinden.
 
@@ -43,13 +42,13 @@ Vele-aan-vele douanevoorwerpen gebruiken twee verbindingsgebieden, deel van een 
 
 ## Aangepaste Marketo-objecten openen {#accessing-marketo-custom-objects}
 
-1. Als u aangepaste Marketo-objecten wilt maken of bewerken, klikt u op **Admin** en vervolgens op de koppeling **Aangepaste Marketo-objecten**.
+1. Als u aangepaste Marketo-objecten wilt maken of bewerken, klikt u op **Beheer** en vervolgens de **Aangepaste Marketo-objecten** koppeling.
 
-   ![](assets/image2016-5-18-16-3a59-3a30.png)
+   ![](assets/understanding-marketo-custom-objects-1.png)
 
 1. In de weergave Aangepaste objecten van Marketo worden al uw aangepaste objecten rechts weergegeven, maar alleen de goedgekeurde objecten in het hoofdraster.
 
-   ![](assets/image2016-6-10-15-3a14-3a18.png)
+   ![](assets/understanding-marketo-custom-objects-2.png)
 
 1. In het raster worden de naam van het object, het aantal records, het aantal velden en de datum van de meest recente update weergegeven.
 
@@ -59,7 +58,7 @@ Vele-aan-vele douanevoorwerpen gebruiken twee verbindingsgebieden, deel van een 
 
 1. Klik op de naam van het object aan de rechterkant om de detailpagina te openen.
 
-   ![](assets/image2016-6-10-15-3a15-3a29.png)
+   ![](assets/understanding-marketo-custom-objects-3.png)
 
 ## Aangepaste objecten weergeven die zijn gekoppeld aan een persoon {#view-custom-objects-associated-to-a-person}
 
@@ -67,19 +66,19 @@ Nadat u de structuur van het douanevoorwerp hebt gecreeerd, wanneer u de specifi
 
 1. Ga naar **Database**.
 
-   ![](assets/db.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
-1. Open uw database en klik op het tabblad **Personen**. Dubbelklik op de record voor een persoon die u aan een aangepast object hebt gekoppeld.
+1. Open uw database en klik op de knop **Mensen** tab. Dubbelklik op de record voor een persoon die u aan een aangepast object hebt gekoppeld.
 
-   ![](assets/five.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Klik op de pagina met persoonlijke details op het tabblad **Aangepaste objecten**. Selecteer het object in de vervolgkeuzelijst.
+1. Klik op de pagina met persoonlijke details op de knop **Aangepaste objecten** tab. Selecteer het object in de vervolgkeuzelijst.
 
-   ![](assets/six.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
 1. Nu kunt u een lijst weergeven van alle aangepaste objecten van dat type die aan die persoon zijn gekoppeld.
 
-   ![](assets/seven.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
 ## Aangepaste objecten gebruiken met bedrijven {#using-custom-objects-with-companies}
 
@@ -89,7 +88,7 @@ Als u veelvoudige mensen in Marketo hebt die verslagen in CRM of Marketo-slechts
 
 Aangepaste objecten kunnen alleen rechtstreeks aan één record worden gekoppeld. Dit betekent dat wanneer uw type van douaneobjecten door bedrijfgebied wordt verbonden, u zou moeten ervoor zorgen dat uw persoonverslagen aan een bedrijf of gebruikend contactomzetting in uw CRM worden geassocieerd, of gebruikend het externalCompanyId gebied, als u bedrijven beheert die REST APIs van Marketo gebruiken. Voor persoonrecords die niet expliciet aan bedrijfsrecords zijn gekoppeld, worden aangepaste objecten die met bedrijf zijn gekoppeld, willekeurig gekoppeld aan één record, zelfs als de waarde van het bedrijfsveld door veel personen wordt gedeeld.
 
-Zie [Aangepaste objectgegevens importeren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) voor meer informatie.
+Zie [Aangepaste objectgegevens importeren](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) voor meer informatie .
 
 >[!MORELIKETHIS]
 >
