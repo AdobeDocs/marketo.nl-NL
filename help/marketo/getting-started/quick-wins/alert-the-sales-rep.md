@@ -3,15 +3,14 @@ unique-page-id: 2359424
 description: Waarschuwing bij verkoper - Marketo-documenten - productdocumentatie
 title: Waarschuwing voor verkoper
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# De verkoopvertegenwoordiger waarschuwen {#alert-the-sales-rep}
+# Waarschuwing voor verkoper {#alert-the-sales-rep}
 
 ## Opdracht: De verkoper waarschuwen wanneer iemand een formulier op uw website invult {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
@@ -19,27 +18,27 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
 >[!PREREQUISITES]
 >
->[Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+>[Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
 
-## Stap 1: Een waarschuwingsbericht maken {#step-create-an-alert-email}
+## Stap 1: Een waarschuwings-e-mail maken {#step-create-an-alert-email}
 
-1. Ga naar **Marketing Activities** gebied.
+1. Ga naar de **Marketingactiviteiten** gebied.
 
    ![](assets/one-5.png)
 
-1. Selecteer **Mijn programma** dat u in [Landing Page met een Vorm](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md) snel win, dan onder **Nieuw** klikt **Nieuw Lokaal Activum**.
+1. Selecteren **Mijn programma** die u hebt gemaakt in het dialoogvenster [Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} quick win, then under **Nieuw** klikken **Nieuw lokaal element**.
 
    ![](assets/two-6.png)
 
-1. Klik **E-mail**.
+1. Klikken **E-mail**.
 
    ![](assets/three-5.png)
 
-1. **Geef** het e-mailbericht Mijn e-mailwaarschuwing een naam, selecteer een sjabloon en klik op  **Maken**.
+1. **Naam** Selecteer een sjabloon en klik op **Maken**.
 
    ![](assets/four-4.png)
 
-1. Voer **Van naam**, **Van e-mail**, **Reactie-aan**, en **Onderwerp** in dat u uw verkoopteam wilt zien.
+1. Voer de **Van naam**, **Van e-mail**, **Antwoord aan**, en **Onderwerp** dat u uw verkoopteam wilt zien.
 
    ![](assets/five-5.png)
 
@@ -51,19 +50,19 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    ![](assets/seven-6.png)
 
-1. Plaats de cursor op de plaats waar u de contactgegevens van de persoon wilt invoegen en klik op het pictogram **Token invoegen**.
+1. Plaats de cursor op de plaats waar u de contactgegevens van de persoon wilt invoegen en klik op de knop **Token invoegen** pictogram.
 
    ![](assets/eight-4.png)
 
-1. Zoek en selecteer `{{SP_Send_Alert_Info}}` **Token** en klik **Invoegen**.
+1. Zoek en selecteer de `{{SP_Send_Alert_Info}}` **Token** en klik op **Invoegen**.
 
    ![](assets/image2014-9-24-13-3a10-3a0.png)
 
    >[!NOTE]
    >
-   >{SP_Send_Alert_Info} is een speciale token voor e-mailmeldingen. Zie [Gebruik het Send Token van Info van het Alarm](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) om meer te leren.
+   >{{SP_Send_Alert_Info}} is een speciale token voor e-mailberichten met een waarschuwing. Zie [Het token voor waarschuwinggegevens verzenden gebruiken](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;}{target=&quot;_blank&quot;} voor meer informatie.
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/ten-5.png)
 
@@ -71,21 +70,21 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    ![](assets/eleven-5.png)
 
-1. Klik onder **E-mailhandelingen** op **Goedkeuren**.
+1. Onder **E-mailhandelingen** klikken **Goedkeuren**.
 
    ![](assets/twelve-4.png)
 
-## Stap 2: Een waarschuwingsactiecampagne {#step-create-an-alert-trigger-campaign} maken
+## Stap 2: Een waarschuwingsactiecampagne maken {#step-create-an-alert-trigger-campaign}
 
-1. Selecteer **Mijn eerder gemaakte Programma**, dan onder **Nieuw** klik **Nieuwe Slimme Campagne**.
+1. Selecteren **Mijn programma** eerder gemaakt, dan onder **Nieuw** klikken **Nieuwe slimme campagne**.
 
    ![](assets/image2014-9-24-13-3a14-3a17.png)
 
-1. **Geef** de campagne &quot;Mijn waarschuwingscampagne&quot; een naam en klik op  **Maken**.
+1. **Naam** de campagne &quot;My Alert Campaign&quot; en klik op **Maken**.
 
    ![](assets/image2014-9-24-13-3a14-3a28.png)
 
-1. Zoek en sleep onder het tabblad **Slimme lijst** de trigger **Formulier invullen** naar het canvas.
+1. Onder de **Slimme lijst** , zoekt en sleept u de **Formulier wordt ingevuld** activeren op het canvas.
 
    ![](assets/image2014-9-24-13-3a14-3a43.png)
 
@@ -93,27 +92,27 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    ![](assets/image2014-9-24-13-3a14-3a58.png)
 
-1. Zoek en sleep onder het tabblad **Stroom** de stroomactie **Waarschuwing** verzenden naar het canvas.
+1. Onder de **Stroom** , zoekt en sleept u de **Waarschuwing verzenden** stroomactie naar het canvas.
 
    ![](assets/image2014-9-24-13-3a15-3a10.png)
 
-1. Selecteer **Mijn eerder gemaakte e-mail** en laat **Verzenden naar** als **Eigenaar van verkoop** staan.
+1. Selecteren **Mijn e-mail met waarschuwing** eerder gemaakt en verlaat **Verzenden naar** als **Verkoopeigenaar**.
 
    ![](assets/eighteen-1.png)
 
-1. Typ uw e-mailadres in het veld **Naar andere e-mails**.
+1. Typ uw e-mailadres in het dialoogvenster **Naar andere e-mails** veld.
 
    ![](assets/nineteen-2.png)
 
-1. Ga naar het **Schema** lusje en klik **Activate** knoop.
+1. Ga naar de **Schema** en klik op de knop **Activeren** knop.
 
    ![](assets/twenty-2.png)
 
    >[!TIP]
    >
-   >Plaats **Kwalificatieregels** aan **telkens** (door de Slimme Campagne uit te geven) om de zelfde persoon toe te staan om alarm veelvoudige tijden teweeg te brengen.
+   >Stel de **Kwalificatieregels** tot **elke keer** (door de slimme campagne te bewerken) zodat dezelfde persoon waarschuwingen meerdere keren kan activeren.
 
-1. Klik **Activeer** op het bevestigingsscherm.
+1. Klikken **Activeren** op het bevestigingsscherm.
 
    ![](assets/twenty-one-1.png)
 
@@ -127,7 +126,7 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
    >
    >Vergeet niet landingspagina&#39;s goed te keuren. ze gaan niet live tot ze goedgekeurd zijn.
 
-1. Vul het formulier in en klik op **Verzenden**.
+1. Het formulier invullen en klikken **Verzenden**.
 
    ![](assets/image2014-9-24-13-3a17-3a41.png)
 
@@ -135,12 +134,12 @@ Als je automatisch e-mailberichten wilt verzenden naar verkopers, hoef je alleen
 
    >[!NOTE]
    >
-   >Klik op het tabblad **Personinfo** in Marketo om de contactinfo weer te geven.
+   >Klik op de knop **Persoonsgegevens** in Marketo om de contactgegevens te bekijken.
 
 ## Opdracht voltooid! {#mission-complete}
 
 <br> 
 
-[◄ Missie 7: Een e-mail aanpassen](personalize-an-email.md)
+[◄ Missie 7: Een e-mail aanpassen](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[Missie 9: Loodgegevens bijwerken ►](update-person-data.md)
+[Missie 9: Persoonlijke gegevens bijwerken ►](/help/marketo/getting-started/quick-wins/update-person-data.md)

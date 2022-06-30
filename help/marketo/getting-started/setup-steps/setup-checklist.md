@@ -3,24 +3,23 @@ unique-page-id: 2949471
 description: Controlelijst voor installatie - Marketo Docs - Productdocumentatie
 title: Controlelijst instellen
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
-# Checklist {#setup-checklist} instellen
+# Controlelijst instellen {#setup-checklist}
 
-Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst om dingen aan de slag te krijgen. De details kunnen in [Stappen van de Opstelling worden gevonden](/help/marketo/getting-started/setup-steps.md).
+Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst om dingen aan de slag te krijgen. Details vindt u in [Stappen instellen](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}.
 
 ## Aanmelden bij Marketo en extra gebruikers maken {#log-in-to-marketo-and-create-additional-users}
 
 1. Aanmelden bij Marketo
 1. Extra gebruikers maken
 
-## Stel een contactpersoon voor geautoriseerde ondersteuning in {#set-up-an-authorized-support-contact}
+## Een contactpersoon voor geautoriseerde ondersteuning instellen {#set-up-an-authorized-support-contact}
 
 1. Een geautoriseerde contactpersoon voor ondersteuning instellen
 1. URL&#39;s van bestemmingspagina&#39;s aanpassen
@@ -28,7 +27,7 @@ Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst
 1. Vraag IT om een DNS Verslag voor uw het Landen NAAM van de Pagina tot stand te brengen
 1. Als de IT-afdeling gereed is, stelt u de domeinnaam van de bestemmingspagina in Marketo in
 
-## Leverbaarheid via e-mail {#ensure-email-deliverability} garanderen
+## E-maillevering garanderen {#ensure-email-deliverability}
 
 1. Een e-mailNAAM selecteren voor koppelingen met branding
 1. Vraag IT om opstelling een DNS verslag voor uw e-mailNAAM
@@ -37,7 +36,7 @@ Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst
 1. MX instellen voor `[FromDomain1]`
 1. Als u klaar bent met de e-mailNAAM, stelt u uw e-mailNAAM in Marketo in
 
-## Een URL verzenden voor het openen van pagina- en e-mailsjablonen {#submit-a-url-for-landing-page-and-email-templates}
+## Een URL verzenden voor bestemmingspagina en e-mailsjablonen {#submit-a-url-for-landing-page-and-email-templates}
 
 1. Formulier invullen om een URL voor nieuwe sjablonen te verzenden
 
@@ -51,4 +50,4 @@ Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst
 
 >[!MORELIKETHIS]
 >
->[Stappen instellen](/help/marketo/getting-started/setup-steps.md)
+>[Stappen instellen](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}

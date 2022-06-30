@@ -3,9 +3,9 @@ unique-page-id: 2949467
 description: Wat is Adobe Marketo Engage? - Marketo Docs - Productdocumentatie
 title: Wat is Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: da8b6723589e1478bfa3dc69d74d27cddf1311c7
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -43,10 +43,10 @@ Dat doet u niet! Het is gemakkelijk om in Marketo Engage aan de slag te gaan, en
 
 ## Moet ik om het even welke opstelling doen? {#do-i-need-to-do-any-setup}
 
-Ja, we hebben een [checklist van dingen gemaakt om te doen](/help/marketo/getting-started/setup-steps/setup-checklist.md).
+Ja, we hebben een [controlelijst van te doen zaken](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;}.
 
 ## Moet ik wachten tot de opstelling klaar is om te leren? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-Nee! We maakten een hoop eenvoudige zelfstudies. [Begin hier](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md). Ze moeten ongeveer een uur duren. U kunt op elk gewenst moment starten.
+Nee! We maakten een hoop eenvoudige zelfstudies. [Ga hier aan de slag](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}. Ze moeten ongeveer een uur duren. U kunt op elk gewenst moment starten.
 
 Welkom bij Marketo Engage! We zijn blij dat je hier bent.

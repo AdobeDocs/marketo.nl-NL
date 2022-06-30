@@ -2,16 +2,14 @@
 unique-page-id: 11387674
 description: Updates van Marketo Terminology - Marketo Docs - Productdocumentatie
 title: Updates van Marketo Terminology
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
 
-
-# Updates voor Marketo-terminologie {#updates-to-marketo-terminology}
+# Updates van Marketo Terminology {#updates-to-marketo-terminology}
 
 We brengen een aantal wijzigingen aan in ons platform, wat van invloed zal zijn op wat sommige dingen worden genoemd. Als u vanaf maart 2016 een nieuwe Marketo-instantie hebt, of als uw bedrijf na juli 2016 is vernieuwd, ziet u wellicht de nieuwe terminologie nu.
 
@@ -71,15 +69,15 @@ In sommige gevallen wordt het woord &quot;lead&quot; gewoon verwijderd.
  </tbody> 
 </table>
 
-Lood en persoon **zijn het zelfde ding**.
+Lood en persoon **zijn hetzelfde**.
 
 ## Tokens {#tokens}
 
-Tokens met het woord leiden in hen **veranderen niet**. Onze excuses voor de verwarring. als echter alle tokens worden aangepast aan de nieuwe terminologie , zouden er een hele reeks tokens worden afgebroken die momenteel in gebruik zijn . Zo zult u tokens zoals &quot;`{{lead.First Name}}`&quot;nog zien. Er zijn geen persoonlijke tokens.
+Tokens met het woord leiden erin **niet wijzigen**. Onze excuses voor de verwarring. als echter alle tokens worden aangepast aan de nieuwe terminologie , zouden er een hele reeks tokens worden afgebroken die momenteel in gebruik zijn . U ziet dus nog steeds tokens zoals &quot;`{{lead.First Name}}`.&quot; Er zijn geen persoonlijke tokens.
 
 >[!NOTE]
 >
->Er *is* een token genaamd &quot;Person Notes&quot;, maar dat token was er altijd. Het wordt typisch gebruikt voor een beschrijvingsgebied in uw CRM, als bij allen.
+>Daar *is* een token met de naam Person Notes, maar dat token was er altijd. Het wordt typisch gebruikt voor een beschrijvingsgebied in uw CRM, als bij allen.
 
 ## Veldbeheer {#field-management}
 
@@ -110,7 +108,7 @@ Velden die de term lead bevatten, zijn vervangen door Person of het woord Lead i
 
 >[!NOTE]
 >
->Voor een volledige lijst van betrokken gebiedsnamen, gelieve dit [Artikel ](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens) te steunen.
+>Voor een volledige lijst met betrokken veldnamen gaat u naar [Ondersteuningsartikel](https://nation.marketo.com/docs/DOC-4218#jive_content_id_Field_Names_and_Tokens){target=&quot;_blank&quot;}.
 
 ## Real-Time Personalization (RTP) is nu de Personalisatie van het Web {#real-time-personalization-rtp-is-now-web-personalization}
 
@@ -139,11 +137,11 @@ Velden die de term lead bevatten, zijn vervangen door Person of het woord Lead i
 
 Naast de naamwijziging bestaat de toepassing nu uit vier verschillende apps:
 
-| ** [Web Personalization](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP)** | Heeft eigen tegel op thuisscherm |
+| **[Webpersonalisatie](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target=&quot;_blank&quot;}** | Heeft eigen tegel op thuisscherm |
 |---|---|
-| ** [Account-based Web Marketing](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing)** | Toegankelijk via web Personalization tile |
-| ** [Persoonlijk opnieuw oprichten](https://docs.marketo.com/display/DOCS/Website+Retargeting)** | Toegankelijk via web Personalization tile |
-| ** [Predictieve inhoud](https://docs.marketo.com/display/DOCS/Predictive+Content)** | Heeft eigen tegel op thuisscherm |
+| **[Webmarketing op basis van account](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target=&quot;_blank&quot;}** | Toegankelijk via web Personalization tile |
+| **[Gepersonaliseerd opnieuw rangschikken](https://docs.marketo.com/display/DOCS/Website+Retargeting){target=&quot;_blank&quot;}** | Toegankelijk via web Personalization tile |
+| **[Voorspelende inhoud](https://docs.marketo.com/display/DOCS/Predictive+Content){target=&quot;_blank&quot;}** | Heeft eigen tegel op thuisscherm |
 
 >[!NOTE]
 >

@@ -3,15 +3,14 @@ unique-page-id: 2359412
 description: Openingspagina met een formulier - Marketo Docs - Productdocumentatie
 title: Openingspagina met formulier
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Openingspagina met een formulier {#landing-page-with-a-form}
+# Openingspagina met formulier {#landing-page-with-a-form}
 
 ## Opdracht: Maak een openingspagina met een formulier voor het verkrijgen van nieuwe personen. {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
 
@@ -21,19 +20,19 @@ ht-degree: 0%
 
 ## STAP 1: Een programma maken {#step-create-a-program}
 
-1. Ga naar **Marketing Activities** gebied.
+1. Ga naar de **Marketingactiviteiten** gebied.
 
    ![](assets/ma.png)
 
-1. Selecteer **Learning** omslag die in [vorige snelle win](/help/marketo/getting-started/quick-wins/send-an-email.md) wordt gecreeerd.
+1. Selecteer **Leren** map gemaakt in het dialoogvenster [vorige quick win](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
    ![](assets/image2014-9-8-17-3a45-3a34.png)
 
-1. Klik onder **Nieuw** op **Nieuw programma**.
+1. Onder **Nieuw**, klikt u op **Nieuw programma**.
 
    ![](assets/image2014-9-8-17-3a45-3a49.png)
 
-1. Voer een programma **Naam** in, selecteer een **Kanaal** en klik **Maken**.
+1. Een programma invoeren **Naam** selecteert u een **Kanaal** en klik op **Maken**.
 
    >[!NOTE]
    >
@@ -43,7 +42,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Een programma is een specifiek marketinginitiatief. Het **kanaal** is bedoeld om het leveringsmechanisme, zoals Webinar, Sponsorship, of Online Advertentie te zijn. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt [ook uw eigen kanaal ](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) tot stand brengen.
+   >Een programma is een specifiek marketinginitiatief. De **kanaal** is bedoeld als leveringsmechanisme, zoals Webinar, Sponsorship, of Online Advertentie. U kunt verschillende kanaalopties in uw drop-down zien, afhankelijk van wat in uw eigen instantie beschikbaar is. U kunt ook [uw eigen kanaal maken](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
    ![](assets/image2014-9-8-17-3a46-3a47.png)
 
@@ -51,31 +50,31 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
 ## STAP 2: Een formulier maken {#step-create-a-form}
 
-1. Selecteer uw programma en klik op **New** en **New Local Asset**.
+1. Selecteer het programma en klik op **Nieuw** dan **Nieuw lokaal element**.
 
    ![](assets/image2014-9-24-11-3a4-3a29.png)
 
-1. Selecteer **Formulier**.
+1. Selecteren **Formulier**.
 
    ![](assets/image2014-9-24-11-3a4-3a42.png)
 
-1. Voer een formulier **Naam** in en klik op **Maken**.
+1. Een formulier invoeren **Naam** en klik op **Maken**.
 
    ![](assets/image2014-9-24-11-3a5-3a0.png)
 
    >[!NOTE]
    >
-   >Zorg ervoor dat het selectievakje **Openen in editor** is ingeschakeld. Als het niet is, zult u **Formulier** tabel moeten uitgeven.
+   >Zorg ervoor dat de **Openen in editor** is ingeschakeld. Als het niet is, zult u moeten klikken **Formulier bewerken** tab.
 
    >[!TIP]
    >
-   >Ziet u de formuliereditor niet? Uw browser heeft het venster waarschijnlijk geblokkeerd. Schakel pop-ups van [app.marketo.com](https://app.marketo.com/) in uw browser in en klik op Concept bewerken in de bovenste menubalk.
+   >Ziet u de formuliereditor niet? Uw browser heeft het venster waarschijnlijk geblokkeerd. Pop-ups inschakelen vanuit [app.marketo.com](https://app.marketo.com/) in uw browser en klik op Concept bewerken in de bovenste menubalk.
 
-1. Selecteer het veld **E-mailadres** en controleer **Is vereist**.
+1. Selecteer **E-mailadres** veld en controle **Is vereist**.
 
    ![](assets/image2014-9-24-11-3a5-3a27.png)
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/image2014-9-24-11-3a5-3a44.png)
 
@@ -83,11 +82,11 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/image2014-9-24-11-3a6-3a0.png)
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/image2014-9-24-11-3a6-3a19.png)
 
-1. Selecteer **Externe URL** voor **Opvolgen met** onder de sectie Hartelijk dank voor pagina.
+1. Selecteer onder de sectie Pagina bedankt de optie **Externe URL** for **Opvolgen met**.
 
    ![](assets/image2014-9-24-11-3a6-3a35.png)
 
@@ -97,13 +96,13 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    >[!NOTE]
    >
-   >Op de pagina Follow-up wordt de bezoeker omgeleid nadat hij het formulier heeft ingevuld. Externe URL is één optie, maar er zijn er meer. Zie [Een formulier instellen waarmee u een pagina maakt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
+   >Op de pagina Follow-up wordt de bezoeker omgeleid nadat hij het formulier heeft ingevuld. Externe URL is één optie, maar er zijn er meer. Zie [Een pagina voor bedankt formulier instellen](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md).
 
-1. Klik **Voltooien**.
+1. Klikken **Voltooien**.
 
    ![](assets/image2014-9-24-11-3a7-3a3.png)
 
-1. Klik **Goedkeuren en Sluiten**.
+1. Klikken **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-24-11-3a7-3a15.png)
 
@@ -111,17 +110,17 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/image2014-9-24-11-3a7-3a32.png)
 
-## STAP 3: Een bestemmingspagina maken en uw formulier {#step-create-a-landing-page-and-add-your-form} toevoegen
+## STAP 3: Een bestemmingspagina maken en uw formulier toevoegen {#step-create-a-landing-page-and-add-your-form}
 
-1. Selecteer uw programma en klik op **Nieuw** en **Nieuw lokaal element**.
+1. Selecteer het programma en klik op **Nieuw** en vervolgens **Nieuw lokaal element**.
 
    ![](assets/image2014-9-24-11-3a7-3a51.png)
 
-1. Selecteer **Openingspagina**.
+1. Selecteren **Openingspagina**.
 
    ![](assets/image2014-9-24-11-3a8-3a5.png)
 
-1. Voer een pagina **Naam** in, selecteer een sjabloon en klik op **Maken**.
+1. Een pagina invoeren **Naam** selecteert u een sjabloon en klikt u op **Maken**.
 
    >[!NOTE]
    >
@@ -147,9 +146,9 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    Geweldig werk! Er staat nu een bestemmingspagina met een formulier op. We keuren uw pagina goed om deze live te zetten.
 
-## STAP 4: Uw bestemmingspagina {#step-approve-your-landing-page} goedkeuren
+## STAP 4: Uw bestemmingspagina goedkeuren {#step-approve-your-landing-page}
 
-1. Selecteer uw landingspagina onder **Handelingen voor landingspagina** klikken **Goedkeuren**.
+1. Selecteer de bestemmingspagina, onder **Handelingen op bestemmingspagina** klikken **Goedkeuren**.
 
    >[!NOTE]
    >
@@ -161,7 +160,7 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/image2014-9-24-11-3a9-3a53.png)
 
-## STAP 5: Uw formulier {#step-test-your-form} testen
+## STAP 5: Uw formulier testen {#step-test-your-form}
 
 1. Selecteer de openingspagina en klik op **Goedgekeurde pagina weergeven**.
 
@@ -171,7 +170,7 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
    ![](assets/image2014-9-24-11-3a10-3a23.png)
 
-1. Ga naar **Database** gebied.
+1. Ga naar de **Database** gebied.
 
    ![](assets/db-1.png)
 
@@ -187,6 +186,6 @@ Echt waar! Nu we een programma hebben gemaakt, gaan we verder en maken we wat in
 
 <br> 
 
-[◄ Een e-mailschok verzenden](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄ Missie 1: Een e-mailschok verzenden](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[Eenvoudige scores ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[Missie 3: Eenvoudige scores ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

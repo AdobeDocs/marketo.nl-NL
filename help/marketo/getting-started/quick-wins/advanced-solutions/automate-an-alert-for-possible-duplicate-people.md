@@ -3,22 +3,21 @@ unique-page-id: 7513680
 description: Automatiseer een waarschuwing voor mogelijke dubbele personen - Marketo Docs - Productdocumentatie
 title: Een waarschuwing automatiseren voor mogelijke dubbele personen
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Een waarschuwing automatiseren voor mogelijk dubbele personen {#automate-an-alert-for-possible-duplicate-people}
+# Een waarschuwing automatiseren voor mogelijke dubbele personen {#automate-an-alert-for-possible-duplicate-people}
 
 Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaakt? Hieronder wordt beschreven hoe u een slimme campagne kunt opzetten om dit te doen.
 
-1. [Maak een nieuwe slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md). Definieer de volgende slimme lijst:
+1. [Nieuwe slimme campagne maken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target=&quot;_blank&quot;}. Definieer de volgende slimme lijst:
 
 * Trigger: **Persoon is gemaakt**
-* Filter: **Velden dupliceren.** Veldnaam  **is Volledige naam**
+* Filter: **Dubbele velden.** Veldnaam **is Volledige naam**
 
    ![](assets/image2017-3-27-8-3a22-3a4.png)
 
@@ -26,13 +25,13 @@ Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaa
    >
    >Wees creatief. Experimenteer met verschillende velden voor betere filterresultaten.
 
-1. Kies [Waarschuwing verzenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) Stroomactie in de flowstap.
+1. Kies in de stap Stroom de optie [Waarschuwing verzenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target=&quot;_blank&quot;} handeling flow.
 
    ![](assets/image2017-3-27-8-3a24-3a8.png)
 
    >[!TIP]
    >
-   >Het gebruiken van [verzend het teken van Info ](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md) van het Alarm om een verbinding aan de persoon in uw CRM op te nemen.
+   >Met de [Token voor waarschuwinginfo verzenden](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target=&quot;_blank&quot;} om een koppeling naar de persoon in uw CRM op te nemen.
 
    >[!CAUTION]
    >
@@ -40,7 +39,7 @@ Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaa
    >
    >Twee mensen met dezelfde naam betekenen niet automatisch dat ze dezelfde persoon zijn.
 
-1. Activeer de campagne in **Programma** tabel.
+1. De campagne activeren in het dialoogvenster **Schema** tab.
 
    ![](assets/image2017-3-27-8-3a24-3a37.png)
 
@@ -48,4 +47,4 @@ Dat is het! Deze slimme campagne wordt elke keer gestart wanneer er in Marketo e
 
 >[!MORELIKETHIS]
 >
->[Dubbele personen zoeken en samenvoegen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)
+>[Dubbele personen zoeken en samenvoegen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target=&quot;_blank&quot;}

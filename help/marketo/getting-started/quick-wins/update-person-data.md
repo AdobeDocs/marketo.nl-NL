@@ -3,22 +3,21 @@ unique-page-id: 2359426
 description: Persgegevens bijwerken - Marketo-documenten - Productdocumentatie
 title: Persoonsgegevens bijwerken
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-# Persoonlijke gegevens {#update-person-data} bijwerken
+# Persoonsgegevens bijwerken {#update-person-data}
 
-## Opdracht: De contactinfo van een persoon of andere gegevens {#mission-update-a-persons-contact-info-or-other-data} bijwerken
+## Opdracht: De contactgegevens of andere gegevens van een persoon bijwerken {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
->* [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+>* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
+>* [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
 
 
 Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens gaf. Hier is hoe te om persoongegevens bij te werken.
@@ -43,9 +42,9 @@ Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens
 
    >[!TIP]
    >
-   >Er zijn veel manieren om persoongegevens bij te werken in Marketo. Zie [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) en [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+   >Er zijn veel manieren om persoongegevens bij te werken in Marketo. Zie [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} en [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;}.
 
-## De personengegevens {#update-the-person-data} bijwerken
+## De persoonlijke gegevens bijwerken {#update-the-person-data}
 
 1. Typ de nieuwe informatie die u hebt ontvangen en sluit het tabblad.
 

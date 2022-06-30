@@ -3,10 +3,9 @@ unique-page-id: 7516605
 description: Help bij het overnemen van een bestaande Marketo-instantie - Marketo Docs - Productdocumentatie
 title: Help I have Inherited an Existing Marketo Instance
 exl-id: f64c04cc-bbac-4577-b242-be8263acff4d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,8 +24,8 @@ Pak je favoriete drank en kijk eens rond.
 
 **Inhoudsopgave**
 
-* [Te controleren items](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
-* [Te beoordelen handelingen: Kernvaardigheden](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
-* [Manieren om hulp te krijgen](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
+* [Te controleren items](/help/marketo/getting-started/inheriting-a-marketo-instance/items-to-check-off.md){target=&quot;_blank&quot;}
+* [Te beoordelen handelingen: Kernvaardigheden](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target=&quot;_blank&quot;}
+* [Manieren om hulp te krijgen](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target=&quot;_blank&quot;}
 
-Als u al weet hoe u uw exemplaar moet omgaan en vertrouwd bent met de kernconcepten van Marketo, raadpleegt u de documentatie over Marketo-producten of gaat u naar de online community [Marketing Nation](https://nation.marketo.com/) om te zien wat andere Marketo-gebruikers zeggen.
+Als u al weet hoe u uw exemplaar omgaat en vertrouwd bent met de kernbeginselen van Marketo, raadpleegt u de documentatie bij het Marketo-product of gaat u naar de [Marketing Nation](https://nation.marketo.com/){target=&quot;_blank&quot;} online community om te zien wat andere Marketo-gebruikers zeggen.

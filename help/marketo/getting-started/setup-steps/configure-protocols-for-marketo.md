@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Protocollen configureren voor Marketo - Marketo Docs - Productdocumentatie
 title: Protocollen voor Marketo configureren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
+source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1020'
+ht-degree: 1%
 
 ---
 
@@ -99,7 +99,7 @@ Uw marketingteam had u ook DKIM-informatie moeten sturen die u wilt toevoegen aa
 
    `[DKIMDomain2]`: Hostrecord is `[HostRecord2]` en de TXT-waarde is `[TXTValue2]`.
 
-   Kopieer de waarden HostRecord en TXTV voor elke DKIMDomain die u hebt ingesteld na het volgen van [instructies hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Vergeet niet om elk domein in Admin > E-mail > DKIM te verifiëren nadat uw personeel van IT deze stap heeft voltooid.
+   Kopieer de waarden HostRecord en TXTV voor elke DKIMDomain die u hebt ingesteld na het volgen van [instructies hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}. Vergeet niet om elk domein in Admin > E-mail > DKIM te verifiëren nadat uw personeel van IT deze stap heeft voltooid.
 
 ## Stap 4: MX-records instellen voor uw domein {#step-set-up-mx-records-for-your-domain}
 
