@@ -3,16 +3,16 @@ unique-page-id: 4720476
 description: Klassieke pictogramwoordenlijst - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst Klassiek pictogram
 exl-id: 478f9d91-07bf-46b6-927f-b020653a2fcb
-source-git-commit: b76fbbafb96fc0d946dfd88d3dada9a0dccffbc4
+source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
 
 # Verklarende woordenlijst Klassiek pictogram {#classic-icon-glossary}
 
-Hieronder staan de oude pictogrammen uit Marketo Classic. De nieuwe woordenlijst met pictogrammen kan [hier worden gevonden](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md).
+Hieronder staan de oude pictogrammen uit Marketo Classic. De nieuwe woordenlijst met pictogrammen kan [hier gevonden](/help/marketo/product-docs/marketo-engage-next-generation-experience/icon-glossary.md){target=&quot;_blank&quot;}.
 
 **Algemene pictogrammen**
 
@@ -66,7 +66,7 @@ Hieronder staan de oude pictogrammen uit Marketo Classic. De nieuwe woordenlijst
     <div> 
      <img alt="—" width="25" src="assets/share-from.png"> 
     </div></td> 
-   <td colspan="1">Doelmap die werd gedeeld vanuit een andere werkruimte <br>(hanglock geeft aan dat er geen bewerkingen kunnen worden uitgevoerd)</td> 
+   <td colspan="1">Doelmap die vanuit een andere werkruimte is gedeeld <br>(hangslot geeft aan dat er geen bewerkingen kunnen worden uitgevoerd)</td> 
   </tr> 
   <tr> 
    <td> 
@@ -410,7 +410,7 @@ Hieronder staan de oude pictogrammen uit Marketo Classic. De nieuwe woordenlijst
     <div> 
      <img src="assets/image2015-1-5-11-3a45-3a39.png"> 
     </div></td> 
-   <td>E-mailprogramma <br>(Rode vlag omlaag = e-mail nog niet verzonden)</td> 
+   <td>E-mailprogramma <br>(Rode markering omlaag = e-mail is nog niet verzonden)</td> 
   </tr> 
   <tr> 
    <td colspan="1"> 
