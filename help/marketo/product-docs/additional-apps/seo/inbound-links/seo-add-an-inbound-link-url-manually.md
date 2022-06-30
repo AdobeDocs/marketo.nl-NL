@@ -3,33 +3,32 @@ unique-page-id: 2949247
 description: SEO - Voeg handmatig een URL voor een binnenkomende koppeling toe - Marketo Docs - Productdocumentatie
 title: SEO - voeg manueel een Binnenkomende Verbinding URL toe
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0957b4475cc27075b428c9514971353e31d0d89c
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-# SEO - voeg manueel een Binnenkomende Verbinding URL {#seo-add-an-inbound-link-url-manually} toe
+# SEO - voeg manueel een Binnenkomende Verbinding URL toe {#seo-add-an-inbound-link-url-manually}
 
 U kunt binnenkomende Verbindingen manueel toevoegen. Hieronder wordt beschreven hoe:
 
-1. Ga naar **Binnenkomende Verbindingen** sectie.
+1. Ga naar de **Binnenkomende koppelingen** sectie.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. Klik **URL&#39;s toevoegen**.
+1. Klikken **URL&#39;s toevoegen**.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. Typ de URL. Klik **Add**.
+1. Typ de URL. Klikken **Toevoegen**.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >Wist u dat u uw binnenkomende verbinding aan een nieuwe of bestaande lijst ](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) kunt toevoegen? [ Kijk eens!
+   >Wist u dat u [voeg uw binnenkomende verbinding aan een nieuwe of bestaande lijst toe](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target=&quot;_blank&quot;}? Kijk eens!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 
