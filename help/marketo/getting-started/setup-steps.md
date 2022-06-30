@@ -3,15 +3,14 @@ unique-page-id: 2949469
 description: Stappen instellen - Marketo Docs - Productdocumentatie
 title: Stappen instellen
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 865486a0ce31297d8cc96e5fbd97275d045664b2
 workflow-type: tm+mt
-source-wordcount: '2004'
+source-wordcount: '2005'
 ht-degree: 0%
 
 ---
 
-# Stappen {#setup-steps} instellen
+# Stappen instellen {#setup-steps}
 
 **Welkom bij Marketo!**
 
@@ -26,27 +25,27 @@ Deze stappen omvatten:
 
 >[!NOTE]
 >
->U hoeft deze stappen alleen uit te voeren als uw bedrijf **nieuw is voor Marketo**. Als dat niet het geval is, is de installatie mogelijk al uitgevoerd.
+>U hoeft deze stappen alleen uit te voeren als uw bedrijf **nieuw voor Marketo**. Als dat niet het geval is, is de installatie mogelijk al uitgevoerd.
 
 Sommige stappen vereisen hulp van uw team van IT.
 
 >[!TIP]
 >
->Als u [deze checklist ](/help/marketo/getting-started/setup-steps/setup-checklist.md) drukt, kunt u punten controleren aangezien u hen voltooit.
+>Als u [deze checklist afdrukken](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;} kunt u items uitchecken wanneer u ze hebt voltooid.
 
 ## Aanmelden en extra Marketo-gebruikers maken {#log-in-and-create-additional-marketo-users}
 
-1. Meld u [hier](https://app.marketo.com/) aan bij Marketo met de gegevens die u per e-mail hebt ontvangen.
+1. Aanmelden bij Marketo [hier](https://app.marketo.com/){target=&quot;_blank&quot;} met de gegevens die u per e-mail hebt ontvangen.
 
    ![](assets/new-login-screen-hand.jpg)
 
 Gefeliciteerd.  U bent nu in Marketo en kunt beginnen te verkennen. U zou uw collega&#39;s op het marketing team kunnen willen uitnodigen om zich bij u aan te sluiten. U kunt dit doen door nieuwe gebruikers toe te voegen.
 
-Ga naar **Admin** gebied.
+Ga naar de **Beheer** gebied.
 
 >[!TIP]
 >
->Terwijl u hier bent, kunt u **Mijn Account** klikken om uw account- en locatie-instellingen te wijzigen en een nieuwe abonnementsnaam in te stellen.
+>Terwijl u hier bent, kunt u klikken **Mijn account** om uw account- en locatie-instellingen te wijzigen en een nieuwe abonnementsnaam in te stellen.
 
 ![](assets/admin.png)
 
@@ -54,11 +53,11 @@ Ga naar **Admin** gebied.
 >
 >**Beheerdersmachtigingen vereist**
 
-Klik **Gebruikers &amp; rollen**.
+Klikken **Gebruikers en rollen**.
 
 ![](assets/image2015-1-6-13-3a14-3a43.png)
 
-Klik **Nieuwe gebruiker uitnodigen**.
+Klikken **Nieuwe gebruiker uitnodigen**.
 
 ![](assets/image2015-1-6-13-3a14-3a6.png)
 
@@ -66,11 +65,11 @@ Vul het e-mailadres, de voornaam en de achternaam van uw collega in.
 
 ![](assets/image2016-5-24-10-3a11-3a12.png)
 
-U kunt ook een reden voor de uitnodiging en een datum voor het verlopen van de toegang invoeren met de kalenderkiezer. Klik **OK**.
+U kunt ook een reden voor de uitnodiging en een datum voor het verlopen van de toegang invoeren met de kalenderkiezer. Klikken **OK**.
 
 ![](assets/image2016-5-24-10-3a13-3a9.png)
 
-Klik **Volgende**.
+Klikken **Volgende**.
 
 ![](assets/image2016-5-24-10-3a14-3a9.png)
 
@@ -82,15 +81,15 @@ Klik **Volgende**.
 >
 >Wanneer de vervaldatum aankomt, ontvangt de gebruiker een vervalmelding en is de account vergrendeld.
 
-Selecteer een rol en klik **Next**. Standaardgebruikers hebben toegang tot alle gebieden behalve Admin.
+Selecteer een rol en klik op **Volgende**. Standaardgebruikers hebben toegang tot alle gebieden behalve Admin.
 
 ![](assets/image2016-5-24-10-3a14-3a51.png)
 
 >[!NOTE]
 >
->Naast de vijf ingebouwde rollen, kunt u douanerollen ook tot stand brengen. Meer informatie over [Gebruikersrollen en -machtigingen beheren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Naast de vijf ingebouwde rollen, kunt u douanerollen ook tot stand brengen. Meer informatie over [Gebruikersrollen en -machtigingen beheren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target=&quot;_blank&quot;}.
 
-Voel u vrij om de uitnodigingstekst aan te passen. Klik **Send**.
+Voel u vrij om de uitnodigingstekst aan te passen. Klikken **Verzenden**.
 
 ![](assets/image2016-5-24-10-3a15-3a52.png)
 
@@ -98,25 +97,25 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
 ![](assets/image2016-5-24-10-3a23-3a10.png)
 
-## Stel uw geautoriseerde ondersteuningscontactpersonen {#set-up-your-authorized-support-contacts} in
+## Stel uw geautoriseerde ondersteuningscontactpersonen in {#set-up-your-authorized-support-contacts}
 
-Mogelijk hebt u een e-mail van Marketo Support ontvangen waarin staat dat u de beheerder voor klantenondersteuning van Marketo voor uw bedrijf bent. Als zo, kunt u opstelling **geautoriseerde steuncontacten** voor uw team. Alleen geautoriseerde supportcontactpersonen kunnen rechtstreeks via het [Marketo Support Portal](https://support.marketo.com) contact opnemen met de klantenondersteuning van Marketo.
+Mogelijk hebt u een e-mail van Marketo Support ontvangen waarin staat dat u de beheerder voor klantenondersteuning van Marketo voor uw bedrijf bent. Zo ja, dan kunt u instellen **geautoriseerde ondersteuningscontactpersonen** voor uw team. Alleen geautoriseerde supportcontactpersonen kunnen rechtstreeks via de [Marketo Support Portal](https://support.marketo.com){target=&quot;_blank&quot;}.
 
 >[!NOTE]
 >
 >Het aantal ondersteuningscontacten dat u kunt maken, wordt bepaald door het pakket dat u hebt aangeschaft. Deze limiet is opgegeven in uw e-mail van Marketo Support.
 
-Contactdocumenten voor geautoriseerde ondersteuning zijn verplaatst naar de Marketo Community. Zie [dit artikel](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341).
+Contactdocumenten voor geautoriseerde ondersteuning zijn verplaatst naar de Marketo Community. Zie [dit artikel](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target=&quot;_blank&quot;}.
 
 >[!NOTE]
 >
 >Alleen personen die zich hebben aangemeld bij de Marketo-gemeenschap, worden in de lijst weergegeven. Als u de persoon niet kunt vinden, zorg ervoor zij login aan de Gemeenschap eerst.
 
-## Pas Uw het Bestaan Pagina URLs met een CNAME {#customize-your-landing-page-urls-with-a-cname} aan
+## De URL&#39;s van uw bestemmingspagina aanpassen met een CNAME {#customize-your-landing-page-urls-with-a-cname}
 
 >[!NOTE]
 >
->Bent u een klant van het Pak van de Lancering? U kunt deze stap overslaan. Uw consultant zal u een document met instructies voor de IT-installatie geven tijdens uw gesprek.
+>Bent u een klant van het Pak van de Lancering? U kunt deze stap overslaan. Uw consultant zal u een document van de de opstellingsinstructies van IT tijdens uw kickoff vraag verstrekken.
 
 >[!NOTE]
 >
@@ -125,20 +124,20 @@ Contactdocumenten voor geautoriseerde ondersteuning zijn verplaatst naar de Mark
 Kies een NAAM voor de bestemmingspagina&#39;s. Enkele voorbeelden:
 
     * * **go**.[CompanyDomain].com
-    * **www2**.[CompanyDomain].com
-    * **lp**.[CompanyDomain].com
+    * ***www2**.[CompanyDomain].com
+    * * ** lp**.[CompanyDomain].com
 
 >[!TIP]
 >
 >Houd het kort! Kortere URL&#39;s zijn gemakkelijker te onthouden. We stellen voor om &quot;te gaan&quot; als domein.
 
-Het eerste deel (vet weergegeven) is de `[LandingPageCNAME]`. U hebt het nodig in Stap 5.
+Het eerste deel (vet weergegeven) is het `[LandingPageCNAME]`. U hebt het nodig in Stap 5.
 
 Ga naar het beheergebied als u de accounttekenreeks wilt ophalen die u vervangt door de CNAME-landingspagina.
 
 ![](assets/admin.png)
 
-Klik op **Pagina&#39;s laden**.
+Klikken **Openingspagina&#39;s**.
 
 ![](assets/image2015-1-6-13-3a52-3a6.png)
 
@@ -146,42 +145,43 @@ Kopieer de tekenreeks Account uit de instellingen van de openingspagina.
 
 ![](assets/image2015-1-6-13-3a53-3a19.png)
 
-Dit is de `[AccountString]`. Sla het bestand op. U moet het aan IT in Stap 5 geven.
+Dit is het `[AccountString]`. Sla het bestand op. U moet het aan IT in Stap 5 geven.
 
 Configureer uw domeininstellingen zodat bestemmingspagina&#39;s het domein van uw bedrijf gebruiken in plaats van Marketo (waar ze worden gehost).
 
-## Leverbaarheid via e-mail {#ensure-email-deliverability} garanderen
+## E-maillevering garanderen {#ensure-email-deliverability}
 
 >[!NOTE]
 >
->Bent u een klant van het Pak van de Lancering? U kunt deze stap overslaan. Uw consultant zal u een document met instructies voor de IT-installatie geven tijdens uw gesprek.
+>Bent u een klant van het Pak van de Lancering? U kunt deze stap overslaan. Uw consultant zal u een document van de de opstellingsinstructies van IT tijdens uw kickoff vraag verstrekken.
 
 Er zijn verschillende maatregelen die u kunt nemen om ervoor te zorgen dat de e-mails zoveel mogelijk van uw mensen bereiken.
 
-    1. **Brand uw trackingkoppelingen**. U kunt een CNAME kiezen om uw eigen domein (in plaats van Marketo) te gebruiken in de koppelingen die u opneemt in e-mails van Marketo. Dit versterkt uw domeinbranding en verhoogt vertrouwen en leverbaarheid met uw ontvangers.
-    1. **Voeg Marketo toe aan uw bedrijfs-e-maillijst van gewenste personen.** Het wordt aanbevolen om teste-mails naar uw testaccounts te sturen voordat u e-mails naar de werkelijke gebruikers stuurt. Als u Marketo voegt op lijst van gewenste personen, kunt u voorkomen dat deze teste-mails worden geblokkeerd of gemarkeerd als spam.
-    1. **Stel SPF en DKIM in.** Deze technologieën verzekeren uw ontvangers dat uw e-mails van Marketo geen spam zijn. Als u wilt voorkomen dat de spamfilters van de ontvangers uw e-mails van Marketo afwijzen, voert u de volgende stappen uit naar [Een SPF en DKIM instellen voor uw e-mailleverbaarheid] (/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
-    1. **Stel een MX-record in voor uw domein.** Met een MX-record kunt u e-mail ontvangen naar het domein waarvan u e-mail verzendt om reacties en auto-responders te verwerken. Als u vanuit uw bedrijfsdomein verzendt, is dit waarschijnlijk al geconfigureerd. Als niet, kunt u opstelling gewoonlijk aan kaart aan het MX verslag van uw collectief domein.
-    1. **Aanbevolen Montages voor Van Adres.** U moet een geldig, bestaand en werkend e-maildomein in Van Adres in alle e-mailcampagnes gebruiken. Het kan nuttig zijn om subdomain van uw collectief domein eerder dan het verzenden van uw collectief domein te vormen. Dit zorgt ervoor dat problemen van uw zakelijke mailstream geen invloed hebben op uw Marketo mailstream en vice versa. Bovendien zal het verzenden van post van something@nonexistentdomain.com e-mail veroorzaken om worden gefiltreerd of worden geblokkeerd. Elk domein dat in het Van Adres van de afzender wordt gebruikt, moet een geldige en werkende postmaster@ en een misbruikaccount hebben.
-    Als u Google Apps gebruikt om uw bedrijfs-e-mail te hosten, kunt u geen e-mails met misbruik@ of postmaster@ onder uw domein maken. Om dit probleem te verhelpen, moet u groepen maken met de naam &quot;misbruik&quot; en &quot;postmeester&quot;. Gebruikers die lid zijn van deze groepen ontvangen e-mails die naar deze adressen worden verzonden (bijvoorbeeld postmaster@domain.com). Gedetailleerde instructies voor het maken van groepen vindt u [hier](https://support.google.com/a/answer/33343#adminconsole).
+* **Koppelingen markeren**. U kunt een CNAME kiezen om uw eigen domein (in plaats van Marketo) te gebruiken in de koppelingen die u opneemt in e-mails van Marketo. Dit versterkt uw domeinbranding en verhoogt vertrouwen en leverbaarheid met uw ontvangers.
+* **Voeg Marketo toe aan uw bedrijfs-e-maillijst van gewenste personen.** Het is gebruikelijk om teste-mails naar uw testaccounts te sturen voordat u e-mails naar de werkelijke gebruikers stuurt. Als u Marketo voegt op lijst van gewenste personen, kunt u voorkomen dat deze teste-mails worden geblokkeerd of gemarkeerd als spam.
+* **Stel SPF en DKIM in.** Deze technologieën verzekeren uw ontvangers dat uw e-mails van Marketo geen spam zijn. Als u wilt voorkomen dat de spamfilters van de ontvangers uw e-mails van Marketo afwijzen, voert u de volgende stappen uit om [Een SPF en DKIM instellen voor uw e-maillevering](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
+* **Stel een MX-record in voor uw domein.** Met een MX-record kunt u e-mail ontvangen naar het domein waarvan u e-mail verzendt om reacties en auto-responders te verwerken. Als u vanuit uw bedrijfsdomein verzendt, is dit waarschijnlijk al geconfigureerd. Als niet, kunt u opstelling gewoonlijk aan kaart aan het MX verslag van uw collectief domein.
+* **Aanbevolen instellingen voor Van adres.** U moet een geldig, bestaand en werkend e-maildomein in Van Adres in alle e-mailcampagnes gebruiken. Het kan nuttig zijn om subdomain van uw collectief domein eerder dan het verzenden van uw collectief domein te vormen. Dit zorgt ervoor dat problemen van uw zakelijke mailstream geen invloed hebben op uw Marketo mailstream en vice versa. Bovendien sturen van post van `something@nonexistentdomain.com` zorgt ervoor dat e-mail wordt gefilterd of geblokkeerd. Elk domein dat in het Van Adres van de afzender wordt gebruikt, moet een geldige en werkende postmaster@ en een misbruikaccount hebben.
 
-Kies een NAAM voor koppelingen voor het bijhouden van e-mail (kies een NAAM die _different_ van de landingspagina CNAME u in Stap 3 koos) is. Enkele voorbeelden:
+Als u Google Apps gebruikt om uw bedrijfs-e-mail te hosten, kunt u geen e-mails met misbruik@ of postmaster@ onder uw domein maken. Om dit probleem te verhelpen, moet u groepen maken met de naam &quot;misbruik&quot; en &quot;postmeester&quot;. Gebruikers die lid zijn van deze groepen ontvangen e-mails die naar deze adressen worden verzonden (bijvoorbeeld postmaster@domain.com). Gedetailleerde instructies voor het maken van groepen zijn te vinden [hier](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}.
 
-    * go2.[CompanyDomain].com
-    * em.[CompanyDomain].com
-    * wow.[CompanyDomain].com
+Kies een CNAME voor koppelingen voor het bijhouden van e-mail (kies een CNAME die _verschillend_ van de landingspagina (CNAME u in Stap 3 koos). Enkele voorbeelden:
 
-Het eerste deel is de e-mailtracking CNAME, `[EmailTrackingCNAME]`. U zult het aan IT in Stap 5 moeten geven.
+* go2.[CompanyDomain].com
+* em.[CompanyDomain].com
+* wow.[CompanyDomain].com
+
+Het eerste deel is de e-mailtracking CNAME. `[EmailTrackingCNAME]`. U zult het aan IT in Stap 5 moeten geven.
 
 >[!CAUTION]
 >
 >De NAAM van de e-mail- en bestemmingspagina moet anders zijn. Vermijd ook CNAME&#39;s zoals &#39;track&#39; of &#39;link&#39;. Het wordt vaak gemarkeerd als spam
 
-Ga naar het gebied **Admin** om de koppeling voor het bijhouden van Marketo te zoeken.
+Ga naar de **Beheer** gebied.
 
 ![](assets/admin.png)
 
-Klik **E-mail**.
+Klikken **E-mail**.
 
 ![](assets/image2015-1-6-13-3a55-3a32.png)
 
@@ -193,27 +193,27 @@ De koppeling voor het bijhouden van gegevens heeft de volgende vorm: `mkto-[a-z]
 
 Dit is uw `[MktoTrackingLink]`. Sla het bestand op. U moet het aan IT in Stap 5 geven.
 
-Verzamel &#39;Van&#39; domeinen. Maak een lijst van alle &quot;Van&quot;domeinen (zoals in, `[Sender]@[FromDomain].com`) die u voor het verzenden van e-mails van Marketo van plan bent te gebruiken. Voor de meesten is er slechts één.
+Verzamel &#39;Van&#39; domeinen. Maak een lijst van alle &quot;Van&quot;domeinen (zoals in, `[Sender]@[FromDomain].com`) die je wilt gebruiken voor het verzenden van e-mails van Marketo. Voor de meesten is er slechts één.
 
 Bijvoorbeeld &#39;marketo.com,&#39; &#39;info.marketo.com,&#39;. Dit zijn `[FromDomain1]`,`[FromDomain2]`, enz. Sla ze op. Je moet ze aan IT geven in stap 5.
 
 U hebt nu alle informatie die u nodig hebt om uw verzoek naar IT te verzenden.
 
-## IT vragen om protocollen {#ask-it-to-configure-protocols} te configureren
+## IT vragen om protocollen te configureren {#ask-it-to-configure-protocols}
 
 >[!NOTE]
 >
->Bent u een klant van het Pak van de Lancering? U kunt deze stap overslaan. Uw consultant zal u een document met instructies voor de IT-installatie geven tijdens uw gesprek.
+>Bent u een klant van het Pak van de Lancering? U kunt deze stap overslaan. Uw consultant zal u een document van de de opstellingsinstructies van IT tijdens uw kickoff vraag verstrekken.
 
 Zodra u alle benodigde informatie hebt verzameld, kunt u een aanvraag naar de IT-afdeling sturen. U kunt de onderstaande tekst als een sjabloon gebruiken en de vetgedrukte tekst vervangen door uw eigen gegevens.
 
-[Neem een koppeling naar dit artikel](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md) op.
+[Een koppeling naar dit artikel opnemen](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md).
 
 Plak deze tekst in het e-mailbericht en vervang de gebrande plaatsaanduidingen:
 
 >[!NOTE]
 >
->Zie Stap 3 en 4 hierboven om de tekst te bepalen die de plaatsaanduidingen moet vervangen. `[LandingPageCNAME]` en `[EmailTrackingCNAME]` moeten verschillend zijn.
+>Zie Stap 3 en 4 hierboven om de tekst te bepalen die de plaatsaanduidingen moet vervangen. Vergeet niet dat `[LandingPageCNAME]` en `[EmailTrackingCNAME]` moet anders zijn.
 
 `---------------------------------------------`
 
@@ -221,13 +221,13 @@ Geachte Awesome IT Administrator,
 
 Ons marketingteam gebruikt nu het Marketo-platform om met onze mensen te communiceren. Voor een goede e-mailleverbaarheid moeten we de volgende wijzigingen aanbrengen:
 
-`1)` Voor onze landingspagina&#39;s, voeg een DNS Ingang (CNAME) voor  **[LandingPageCNAME]** toe.**[CompanyDomain]**.com, wijzend naar  **[AccountString]**.mktoweb.com.
+`1)` Voor onze landingspagina&#39;s, voeg een DNS Ingang (CNAME) voor toe **[LandingPageCNAME]**.**[CompanyDomain]**.com, aanwijzen naar **[AccountString]**.mktoweb.com.
 
-`2)` Voor onze het volgen verbindingen in e-mail, voeg een DNS Ingang (CNAME) voor  **[EmailTrackingCNAME]** toe.**[CompanyDomain]**.com, wijzend naar  **[MktoTrackingLink]**.
+`2)` Voor onze het volgen verbindingen in e-mail, voeg een DNS Ingang (CNAME) voor toe **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, aanwijzen naar **[MktoTrackingLink]**.
 
 `3)` Lijst van gewenste personen Marketo.
 
-    * Als wij IP adressen in onze e-mailLijst van gewenste personen gebruiken, voeg hieronder IPs toe:
+    * Als wij IP adressen in onze E-mailLijst van gewenste personen gebruiken, voeg hieronder vermelde IPs toe:
     199.15.212.0/22
     
     192.28.144.0/20
@@ -244,7 +244,9 @@ Ons marketingteam gebruikt nu het Marketo-platform om met onze mensen te communi
     
     94.236.119.0/26
 
-OPMERKING: Raadpleeg Marketo Support als u een verkorte lijst met IP&#39;s wilt gebruiken om de lijst van gewenste personen te maken die specifiek is voor uw omgeving.
+>[!NOTE]
+>
+>Raadpleeg Marketo Support als u een verkorte lijst met IP&#39;s wilt gebruiken om de lijst van gewenste personen te maken die specifiek is voor uw omgeving.
 
     * Als ons antispamsysteem van domeinen gebruikt, voeg deze toe:
 
@@ -255,24 +257,24 @@ OPMERKING: Raadpleeg Marketo Support als u een verkorte lijst met IP&#39;s wilt 
 
 `a.` Om SPF op te zetten, te voegen gelieve de volgende lijn aan onze DNS ingangen toe:
 
-IN TXT **[Van domein]**:  v=spf1 mx ip4:**[Bedrijfs-IP(s)]**
-<br/>include: mktomail.com ~all
+IN TXT **[Van domein]**: v=spf1 mx ip4:**[Bedrijfs-IP(&#39;s)]**
+<br/>omvatten: mktomail.com ~all
 
 Als wij reeds een bestaand SPF- verslag in onze DNS ingang hebben, voeg eenvoudig het volgende aan het toe:
 
 include:mktomail.com
 
-`[`Vervang  **vanuit** domein door uw e-mail vanuit domein (bijv. bedrijf.com) en  **** CorpIP met het IP adres van uw collectieve e-mailserver (bijvoorbeeld: 255.255.255.255).  Als u e-mail van veelvoudige domeinen door Marketo gaat verzenden, zou u uw personeel van IT deze lijn voor elk domein (op één lijn) moeten hebben toevoegen.`]`
+`[`Vervangen **Van domein** met uw e-mail van Domein (bijvoorbeeld: bedrijf.com) en **CorpIP** met het IP-adres van uw e-mailserver van uw bedrijf (bijvoorbeeld: 255.255.255.255).  Als u e-mail van veelvoudige domeinen door Marketo gaat verzenden, zou u uw personeel van IT deze lijn voor elk domein (op één lijn) moeten hebben toevoegen.`]`
 
 `b.` Voor DKIM, gelieve DNS de Verslagen van het Middel voor elk domein te creëren wij zouden willen opstelling. Hieronder zijn de Verslagen van de Gastheer en de Waarden TXT voor elk domein wij zullen ondertekenen voor:
 
-**`[DKIMDomain1]`**: Hostrecord is  **`[HostRecord1]`** en de TXT-waarde is  **[TXTValue1]**.
+**`[DKIMDomain1]`**: Hostrecord is **`[HostRecord1]`** en de TXT-waarde is **[TXTValue1]**.
 
-**`[DKIMDomain2]`**: Hostrecord is  **`[HostRecord2]`** en de TXT-waarde is  **`[TXTValue2]`**.
+**`[DKIMDomain2]`**: Hostrecord is **`[HostRecord2]`** en de TXT-waarde is **`[TXTValue2]`**.
 
-`[`Kopieer de  **** HostRecordand  **** TXTValuefor elke  **** DKIMDomainyou heeft opstelling na de  [instructies hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md) te volgen. Vergeet niet om elk domein in **Admin > E-mail > DKIM** te verifiëren nadat uw personeel van IT deze stap heeft voltooid.`]`
+`[`Kopieer de **HostRecord** en **TXTValue** voor elke **DKIMDomain** u hebt opstelling na het volgen van [instructies hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Vergeet niet elk domein in te verifiëren **Beheer > E-mail > DKIM** nadat uw IT-personeel deze stap heeft voltooid.`]`
 
-`5)` We moeten ervoor zorgen dat er een geldige MX-record is voor onze FROM-domeinen  **[FromDomain1]**,  **[FromDomain2]**, enzovoort. Kunt u bevestigen? Als niet, gelieve te vormen om aan ons collectief domein MX verslag in kaart te brengen. Zo kunnen we antwoorden/autoresponders op onze Marketo-mailings verwerken.
+`5)` We moeten ervoor zorgen dat er een geldig MX-record is voor onze FROM-domeinen **[FromDomain1]**, **[FromDomain2]**, enz. Kunt u bevestigen? Als niet, gelieve te vormen om aan ons collectief domein MX verslag in kaart te brengen. Zo kunnen we antwoorden/autoresponders op onze Marketo-mailings verwerken.
 
 Laat me weten wanneer u deze stappen hebt voltooid, zodat ik het installatieproces met Marketo kan voltooien.
 
@@ -286,15 +288,15 @@ Liefde
 
 Stuur de e-mail naar de IT-afdeling. We begrijpen dat het enige tijd kan duren voordat IT deze taken kan uitvoeren. U kunt doorgaan naar stap 7, maar vergeet niet dat u Stap 6 moet retourneren om de Marketo-instellingen te voltooien.
 
-## Marketo-instellingen voltooien nadat de IT-afdeling {#complete-your-marketo-setup-after-it-finishes} heeft voltooid
+## Marketo-instellingen voltooien nadat de IT-afdeling is voltooid {#complete-your-marketo-setup-after-it-finishes}
 
 Nadat de IT-afdeling hun taken heeft voltooid, voert u de volgende stappen uit om uw bestemmingspagina en e-mailCNAME&#39;s toe te voegen en om DKIM-ondertekening te activeren.
 
-Ga naar het gebied **Admin** om de NAAM van uw landingspagina toe te voegen
+Ga naar de **Beheer** gebied voor het toevoegen van de NAAM van uw bestemmingspagina
 
 ![](assets/admin.png)
 
-Selecteer Landing Pages en klik **Edit** in het gebied van Montages.
+Selecteer bestemmingspagina&#39;s en klik **Bewerken** in het gebied Instellingen.
 
 ![](assets/image2015-1-6-13-3a59-3a15.png)
 
@@ -312,17 +314,17 @@ Selecteer in het gebied Beheer de optie E-mail om uw e-mailNAAM toe te voegen
 
 ![](assets/image2015-1-6-14-3a5-3a3.png)
 
-Schuif omlaag en klik op **Bewerken**.
+Omlaag schuiven en klikken **Bewerken**.
 
 ![](assets/edit-branding-domain.png)
 
 Voer in het veld Domein uw domein voor het bijhouden van e-mail in. Dit moet de volgende vorm hebben:
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Klik **Opslaan**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Klikken **Opslaan**.
 
 ![](assets/new-branding-domain-9-1.png)
 
-## Uw CRM {#integrate-your-crm} integreren
+## Uw CRM integreren {#integrate-your-crm}
 
 Dit is waarschijnlijk de meest opwindende stap in uw configuratie: het is tijd om Marketo op te vullen met al die leads en contactpersonen die u in uw CRM hebt opgeslagen!
 
@@ -341,10 +343,10 @@ Kies uit het volgende, afhankelijk van CRM uw bedrijf gebruikt.
 >
 >Bent u een klant van het Pak van de Lancering? U kunt deze stap overslaan. Uw consultant zal u in het handboek met instructies voor de installatie van uw IT-afdeling codeinstructies geven.
 
-Marketo beschikt over JavaScript voor het bijhouden van wijzigingen (Munchkin genoemd) waarmee u activiteiten van personen op elke webpagina kunt bijhouden. Munchkin is vereist om uw website in Marketo te integreren. Ga als volgt te werk om [Code voor het bijhouden van Munchkin aan uw website toevoegen](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+Marketo beschikt over JavaScript voor het bijhouden van wijzigingen (Munchkin genoemd) waarmee u activiteiten van personen op elke webpagina kunt bijhouden. Munchkin is vereist om uw website in Marketo te integreren. Ga als volgt te werk: [Munchkin-trackingcode toevoegen aan uw website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target=&quot;_blank&quot;}.
 
 >[!NOTE]
 >
->Ervaring met HTML vereist om de volgende code toe te voegen.
+>Ervaring met HTML die nodig is om de trackingcode toe te voegen.
 
 Al uw opstellingsstappen zijn voorbij. Het enige wat er over is, is om in te duiken en Marketo te gebruiken.
