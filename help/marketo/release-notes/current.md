@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 46aff8058cb97743bee1bd5ff5ddf0ddbbb663a5
+source-git-commit: c63bbd44863d0145726a1240a6858e517799bf5c
 workflow-type: tm+mt
-source-wordcount: '647'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,13 @@ De volgende functies worden vrijgegeven op **24 juni 2022**, met een gefaseerde 
 * **Geavanceerde Dialoograpportering voor Dynamisch Praatje**: Bekijk de prestaties van uw Dynamic Chat-campagnes gedetailleerder met behulp van alle nieuwe gegevensvisualisaties voor betrokkenheid en conversiemetriek.
 
 * **Ongebruikte Marketo Engage-kenmerken niet synchroniseren voor dynamische chat**: De synchronisatie van de Marketo Engage-kenmerken van uw Dynamic Chat-abonnement ongedaan maken, zodat u de gegevenskwaliteit eenvoudiger kunt maken en alternatieve kenmerken naar wens kunt synchroniseren.
+
+## Ervaring van de volgende generatie
+
+**Nieuwe weergave schakeloptie**: De onderstaande weergaven zijn nu beschikbaar in de Next Generation Experience:
+
+* [E-maildetails weergeven](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
+* [E-maillijstweergave](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
 
 ## Experience Automation {#experience-automation}
 
