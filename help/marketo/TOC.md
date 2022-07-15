@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: a14516e0daf3b9c9b90aa0250fd654b8bbbcc391
+source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
 workflow-type: tm+mt
-source-wordcount: '8780'
+source-wordcount: '8787'
 ht-degree: 0%
 
 ---
@@ -630,6 +630,8 @@ ht-degree: 0%
             + [Een gebeurteniskanaal bewerken](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
             + [Gebeurtenispartners](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [Gebeurtenisprogramma&#39;s](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
+            + [Een gebeurtenissenkaart instellen](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
+            + [Gebeurtenisdoelen instellen](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
          + Een gebeurtenis maken {#create-an-event}
             + [Een gebeurtenis maken met Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [Een gebeurtenis maken met GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
