@@ -3,9 +3,10 @@ description: Gebeurtenisdoelen instellen - Marketo Docs - Productdocumentatie
 title: Gebeurtenisdoelen instellen
 hide: true
 hidefromtoc: true
-source-git-commit: b759c54954d68bc53829f990ea694a810d99ad6c
+exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
+source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -19,14 +20,28 @@ Geef uw gebeurtenissen specifieke doelstellingen en zie hoe zij presteren.
 
 1. Maak een gebeurtenisprogramma.
 
-PICC
+   ![](assets/setting-event-goals-1.png)
 
-1. Geef uw gebeurtenis een [!UICONTROL Name], selecteert u de [!UICONTROL Destination] map en [!UICONTROL Channel].
+1. Kies de optie [!UICONTROL Campaign Folder], geeft u uw gebeurtenis een [!UICONTROL Name], selecteert u de [!UICONTROL Program Type] en [!UICONTROL Channel]. Klikken **[!UICONTROL Create]** wanneer gereed.
 
-PICC
+   ![](assets/setting-event-goals-2.png)
 
-1. Voer het doel in voor [!UICONTROL Registered] en [!UICONTROL Attended]en klik vervolgens op **[!UICONTROL Create]** ([!UICONTROL Description] en [!UICONTROL Labels] zijn optioneel).
+1. Klik in uw gebeurtenis op de knop **[!UICONTROL Reports]** tab.
 
-PICC
+   ![](assets/setting-event-goals-3.png)
+
+1. Voer het doel in voor [!UICONTROL Registered] door te klikken **[!UICONTROL Set a goal]**. Typ het getal in en druk op Enter.
+
+   ![](assets/setting-event-goals-4.png)
+
+   ![](assets/setting-event-goals-5.png)
+
+1. Dezelfde stappen herhalen voor [!UICONTROL Attended].
+
+   ![](assets/setting-event-goals-6.png)
+
+>[!NOTE]
+>
+>U kunt geen doelstellingen voor een gebeurtenis plaatsen nadat het begon.
 
 En dat is het! Controleer de status van uw gebeurtenisdoel door op de knop [!UICONTROL Reports] tab.
