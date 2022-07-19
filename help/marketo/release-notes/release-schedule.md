@@ -3,7 +3,7 @@ unique-page-id: 5472490
 description: Releaseplanning - Marketo-documenten - productdocumentatie
 title: Releaseplanning
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: b54fbf0b922189d0d0d9e26da9e65a2dbd926875
+source-git-commit: 502418af71e29b127ba394d542ef7be7ff676093
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 1%
@@ -52,12 +52,12 @@ _Releasedatums kunnen worden gewijzigd_
    <td>Verzonden</td>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">22 juni</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-june-22.md">22 juni</td>
    <td>24 juni 2022</td>
    <td>Verzonden</td>
   </tr>
   <tr> 
-   <td>22 augustus</td>
+   <td><a href="/help/marketo/release-notes/current.md">22 augustus</td>
    <td>19 augustus 2022</td>
    <td>In uitvoering</td>
   </tr>
