@@ -2,9 +2,9 @@
 description: Filteren van e-mailboxactiviteiten - Marketo-documenten - Productdocumentatie
 title: Activiteit e-mailvak filteren
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 2ef4b0b2a541c8b6a67bd654fda45956601661bd
+source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ Soms kan e-mailactiviteit je e-mail abusievelijk opblazen en op gegevens klikken
 We gebruiken drie verschillende methoden om beide activiteiten te bevestigen:
 
 * Afstemmen met [Interactive Adverting Bureau bot list](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target=&quot;_blank&quot;}: De activiteiten die met om het even wat op IAB UA/IP (het adres van de Agent/IP van de Gebruiker) aanpassen zullen als bots worden gemerkt.
-* Overeenkomst met verborgen verbinding UA/IPs: We voegen een verborgen koppeling toe aan alle e-mails en leggen UA/IP-klikken vast die van hen komen. De activiteiten die met deze UA/IPs aanpassen zullen als bots worden gemerkt.
 * Overeenkomst met nabijheidspatroon: Wanneer meer dan twee activiteiten tezelfdertijd (onder twee seconden) plaatsvinden, worden zij geïdentificeerd als bots.
 
 Bij klikken op e-mailkoppelingen en e-mailopenen worden nieuwe kenmerken gevuld met de volgende waarden:
@@ -37,15 +36,15 @@ Bij klikken op e-mailkoppelingen en e-mailopenen worden nieuwe kenmerken gevuld 
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Klik op de knop **Beide activiteitsidentificatie inschakelen** te activeren schuifregelaar.
+1. Kies **Combineren met IAB-lijst**, **Afstemmen met nabijheidspatroon**, of beide.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->U kunt afzonderlijk kiezen of u beide activiteiten wilt laten registreren. Als u dit niet doet, wordt mogelijk een druppel in het e-mailbericht geopend en worden de onjuiste nummers uitgefilterd.
+>U kunt ervoor kiezen beide activiteiten te laten filteren **of** geregistreerd. Als u gefilterd kiest, wordt mogelijk een e-mailbericht weergegeven en wordt op de knop geklikt omdat de foute handelingen worden uitgeschakeld
 
-**OPTIONELE STAP**: U schakelt de functie uit door gewoon de schuifregelaar uit te schakelen. Als u deze optie uitschakelt, worden de gegevens wel **niet** opnieuw instellen.
+**OPTIONELE STAP**: U schakelt deze functie uit door gewoon de schuifregelaar(s) uit te schakelen. Als u deze optie uitschakelt, worden de gegevens niet opnieuw ingesteld.
 
 >[!TIP]
 >
