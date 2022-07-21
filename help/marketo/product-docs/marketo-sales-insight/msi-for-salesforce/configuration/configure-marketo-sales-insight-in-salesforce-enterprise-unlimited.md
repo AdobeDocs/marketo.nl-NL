@@ -3,9 +3,9 @@ unique-page-id: 2360368
 description: Marketo Sales Insight in Salesforce Enterprise/Unlimited - Marketo Docs - Productdocumentatie configureren
 title: Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: bb172e59e96cca3e8997615a2f1367ecccf700ed
+source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '863'
 ht-degree: 0%
 
 ---
@@ -289,39 +289,27 @@ Marketo-persoonvelden moeten worden toegewezen aan Salesforce-contactvelden om e
 
 1. Klikken **Opslaan** als u klaar bent.
 
-## Marketo Sales Insight Config {#marketo-sales-insight-config}
-
-1. Klikken **+** en selecteer vervolgens **Marketo Sales Insight Config**.
-
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
-
-1. Controleren **Marketo API inschakelen**. Vul vervolgens de [API-configuratiegegevens in Marketo Admin](#set-up-marketo-sales-insight). Klikken **Wijzigingen opslaan** als je klaar bent.
-
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >Als de diagnostische test mislukt, moet u mogelijk [meer velden toevoegen aan uw pagina-indeling](https://nation.marketo.com/docs/DOC-1115).
-
-En dat is het! Je moet de velden Marketo Sales Insight voor leads, Contacts, Accounts en Opportunity kunnen bekijken.
-
-![](assets/twenty-six.png)
-
->[!NOTE]
->
->Voor accounts omvat Verkoopinzicht alle e-mailberichten, maar alleen de meest recente interessante momenten, webactiviteit en scorewijzigingen.
-
-## Marketo Sales Insight openen {#access-marketo-sales-insight}
+## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
 
 1. Klik in Salesforce op de knop **+** aan het einde van de tabbalk en klik op **Marketo Sales Insight Config**.
 
 1. Selecteer **Marketo API inschakelen** selectievakje.
 
-1. Kopieer de gegevens vanuit het deelvenster Soap API in de pagina Sales Insight Admin van Marketo en plak ze in de sectie Soap API van de pagina Salesforce Sales Insight Configuration.
+1. Kopieer de referenties vanuit het deelvenster Soap API in [Marketo&#39;s pagina Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} en plakt deze in de sectie Soap API van de pagina Configuratie van Salesforce Sales Insight.
 
-1. Kopieer de gegevens vanuit het venster Rest API in de pagina Sales Insight Admin van Marketo en plak ze in de sectie Rest API van de pagina Salesforce Sales Insight Configuration.
+1. Kopieer de referenties vanuit het deelvenster Rest API in [Marketo&#39;s pagina Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} en plakt deze in de sectie Rest API van de pagina Configuratie Salesforce Sales Insight.
 
    ![](assets/access-msi.png)
+
+En dat is het! Je moet de velden Marketo Sales Insight voor leads, Contacts, Accounts en Opportunity kunnen bekijken.
+
+>[!NOTE]
+>
+>Als de diagnostische test mislukt, moet u mogelijk [meer velden toevoegen aan uw pagina-indeling](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}.
+
+>[!NOTE]
+>
+>Voor accounts omvat Verkoopinzicht alle e-mailberichten, maar alleen de meest recente interessante momenten, webactiviteit en scorewijzigingen.
 
 >[!MORELIKETHIS]
 >

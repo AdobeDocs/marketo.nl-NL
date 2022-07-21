@@ -3,9 +3,9 @@ unique-page-id: 3571743
 description: Marketo Sales Insight configureren in Salesforce Professional Edition - Marketo Docs - Productdocumentatie
 title: Marketo Sales Insight configureren in Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
-source-git-commit: a59b6b2505c6e5a83c6137a1925aa4e60e56eac8
+source-git-commit: 2fb887e38ec2832b4b62f323d5f72baab24bf41e
 workflow-type: tm+mt
-source-wordcount: '906'
+source-wordcount: '886'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
 >
 >* Installeer Marketo in uw Salesforce Professional Edition.
 >
->* [Marketo Sales Insight Package installeren in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>* [Marketo Sales Insight Package installeren in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}
 
 
 >[!NOTE]
@@ -270,41 +270,29 @@ Marketo-persoonvelden moeten worden toegewezen aan Salesforce-contactvelden om e
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
-## Marketo Sales Insight Config {#marketo-sales-insight-config}
+## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
 
-1. Klikken **+** en selecteer vervolgens **Marketo Sales Insight Config**.
+1. Klik in Salesforce op de knop **+** aan het einde van de tabbalk en klik op **Marketo Sales Insight Config**.
 
-   ![](assets/image2014-9-24-17-3a37-3a45.png)
+1. Kopieer de referenties vanuit het deelvenster Soap API in [Marketo&#39;s pagina Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} en plakt deze in de sectie Soap API van de pagina Configuratie van Salesforce Sales Insight.
 
-1. Controleren **Marketo API inschakelen**. Vul vervolgens de [API-configuratiegegevens in Marketo Admin](#set-up-marketo-sales-insight). Klikken **Wijzigingen opslaan** als u klaar bent.
+1. Kopieer de referenties vanuit het deelvenster Rest API in [Marketo&#39;s pagina Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} en plakt deze in de sectie Rest API van de pagina Configuratie Salesforce Sales Insight.
 
-   ![](assets/image2014-9-24-17-3a38-3a0.png)
-
-   >[!NOTE]
-   >
-   >Als de diagnostische test mislukt, moet u mogelijk [meer velden toevoegen aan uw pagina-indeling](https://nation.marketo.com/docs/DOC-1115).
+   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
 En dat is het! Je moet de velden Marketo Sales Insight voor leads, Contacts, Accounts en Opportunity kunnen bekijken.
 
-![](assets/twenty-six-1.png)
+>[!NOTE]
+>
+>Als de diagnostische test mislukt, moet u mogelijk [meer velden toevoegen aan uw pagina-indeling](https://nation.marketo.com/docs/DOC-1115){target=&quot;_blank&quot;}.
 
 >[!NOTE]
 >
 >Voor accounts omvat Verkoopinzicht alle e-mailberichten, maar alleen de meest recente interessante momenten, webactiviteit en scorewijzigingen.
 
-## Marketo Sales Insight openen {#access-marketo-sales-insight}
-
-1. Klik in Salesforce op de knop **+** aan het einde van de tabbalk en klik op **Marketo Sales Insight Config**.
-
-1. Kopieer de gegevens vanuit het deelvenster Soap API in de pagina Sales Insight Admin van Marketo en plak ze in de sectie Soap API van de pagina Salesforce Sales Insight Configuration.
-
-1. Kopieer de gegevens vanuit het venster Rest API in de pagina Sales Insight Admin van Marketo en plak ze in de sectie Rest API van de pagina Salesforce Sales Insight Configuration.
-
-   ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
-
 >[!MORELIKETHIS]
 >
->* [Prioriteit, Urgentie, Relatieve Score en Beste Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Marketo Tab toevoegen aan Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+>* [Prioriteit, Urgentie, Relatieve Score en Beste Bets](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target=&quot;_blank&quot;}
+>* [Marketo Tab toevoegen aan Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target=&quot;_blank&quot;}
 >* [Toegang tot verkoopinzicht toevoegen aan profielen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target=&quot;_blank&quot;}
 
