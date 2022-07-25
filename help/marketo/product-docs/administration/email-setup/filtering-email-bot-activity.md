@@ -2,9 +2,9 @@
 description: Filteren van e-mailboxactiviteiten - Marketo-documenten - Productdocumentatie
 title: Activiteit e-mailvak filteren
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 524e185e255503ac44bb73303091a59b2d60242a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,10 @@ Bij klikken op e-mailkoppelingen en e-mailopenen worden nieuwe kenmerken gevuld 
 
 >[!NOTE]
 >
->U kunt ervoor kiezen beide activiteiten te laten filteren **of** geregistreerd. Als u gefilterd kiest, wordt mogelijk een e-mailbericht weergegeven en wordt op de knop geklikt omdat de foute handelingen worden uitgeschakeld
+>* U kunt ervoor kiezen beide activiteiten te laten filteren **of** geregistreerd. Als u gefilterd kiest, wordt er mogelijk een druppel in het e-mailbericht weergegeven en wordt op de knop geklikt omdat de onjuiste activiteiten worden uitgefilterd.
+>
+>* Alleen &quot;Logboekactiviteit&quot; is momenteel beschikbaar voor &quot;Aanpassen aan nabijheidspatroon&quot;.
+
 
 **OPTIONELE STAP**: U schakelt deze functie uit door gewoon de schuifregelaar(s) uit te schakelen. Als u deze optie uitschakelt, worden de gegevens niet opnieuw ingesteld.
 

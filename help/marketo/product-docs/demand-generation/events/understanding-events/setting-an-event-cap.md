@@ -4,9 +4,9 @@ title: Een gebeurtenissenkaart instellen
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
-source-git-commit: 7050d8f948d4ddd85aa102a4ed8f71f7b347fe5a
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Beperk het aantal personen dat zich voor uw gebeurtenis kan registreren met een 
 
 >[!IMPORTANT]
 >U moet ten minste twee goedgekeurde openingspagina&#39;s (een registratiepagina en een volledige registratiepagina) in het programma hebben voordat u een uiteinde voor de gebeurtenis kunt instellen.
+
+>[!NOTE]
+>
+>Om ruimte vrij te maken in een gebeurtenis, moet het programmalid worden verwijderd (u kunt dit doen door hun status bij te werken naar &quot;Niet in Programma&quot;).
 
 1. Selecteer uw gebeurtenisprogramma.
 

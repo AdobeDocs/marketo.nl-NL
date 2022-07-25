@@ -3,9 +3,9 @@ unique-page-id: 1147091
 description: Werken met het programmamandschap - Marketo Docs - Productdocumentatie
 title: Werken met het lidmaatschap van het programma
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
-source-git-commit: f6212795eec123265c6b6628da9974e97f9f7caf
+source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, dus u ziet mogelijk lead/lead in uw abonnement en persoon/personen in docs.marketo.com. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer informatie](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
+>Marketo is nu bezig met het standaardiseren van de taal voor alle abonnementen, zodat u in uw abonnement en de persoon/personen in onze documenten mogelijk leads/leads ziet. Deze termen betekenen hetzelfde. het heeft geen invloed op de instructies van het artikel . Er zijn nog enkele andere veranderingen. [Meer informatie](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md).
 
 >[!NOTE]
 >
