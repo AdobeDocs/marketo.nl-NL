@@ -2,10 +2,12 @@
 unique-page-id: 30081815
 description: Adobe Experience Manager-integratie configureren - Marketo Docs - Productdocumentatie
 title: Adobe Experience Manager-integratie configureren
+hide: true
+hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 47b0f31b410f0bf4b41740aa6440c2a0484ab835
+source-git-commit: 3105fb33fb457d4dfb63081b80d4d1def717ad34
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -18,9 +20,12 @@ Vorm AEM zodat kunt u, AEM activa in de Studio van het Ontwerp van Marketo toega
 >
 >**Beheerdersmachtigingen vereist**
 
->[!CAUTION]
+>[!IMPORTANT]
 >
->Deze functie wordt momenteel alleen volledig ondersteund in Firefox. Deze functie wordt niet ondersteund in Safari en werkt mogelijk niet in de meest recente versie van Chrome, afhankelijk van de cookie-instellingen van SameSite.
+>* Deze integratie werkt alleen met implementaties van AEM op locatie en wordt niet ondersteund voor AEM Cloud Service-implementaties.
+>
+>* Deze functie wordt momenteel alleen volledig ondersteund in Firefox. Deze functie wordt niet ondersteund in Safari en werkt mogelijk niet in de meest recente versie van Chrome, afhankelijk van de cookie-instellingen van SameSite.
+
 
 1. Navigeer naar de Adobe Experience Manager (de URL is specifiek voor uw bedrijf).
 
