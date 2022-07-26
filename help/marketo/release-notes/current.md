@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,11 @@ De volgende functies worden vrijgegeven op **19 augustus 2022**, met een gefasee
 * **Adobe Branding**: Bijgewerkt uiterlijk voor editors en persoonlijke detailpagina met nieuwe Adobe Experience Cloud-branding.
 
 * **Maphiërarchie van doelmap weergeven in het dialoogvenster Verplaatsen**: Als u de maphiërarchie voor elke map bekijkt, kunt u elementen gemakkelijker verplaatsen en de kans verminderen dat u ze in de verkeerde map plaatst.
+
+* **Bijgewerkte schermen in de volgende generatie ervaring**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
+
+   * Details &quot;Afbeeldingen en bestanden&quot;
+   * Fragmentdetails
 
 >[!NOTE]
 >

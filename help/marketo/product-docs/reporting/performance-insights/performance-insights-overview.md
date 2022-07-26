@@ -1,23 +1,18 @@
 ---
 unique-page-id: 12979006
-description: Overzicht van prestatiegegevens - Marketo Docs - Productdocumentatie
+description: Overzicht van prestatie-inzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van prestatiegegevens
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
+source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
+# Overzicht van prestatiegegevens {#performance-insights-overview}
 
-# Overzicht van prestatie-inzichten {#performance-insights-overview}
-
-De Inzichten van de Prestaties van de Marketo helpen u uw kanaalmengeling voor maximumdoeltreffendheid optimaliseren, evenals langetermijntendensen aan vlek verenigbare het winnen strategieën ontdekken.
-
->[!AVAILABILITY]
->
->Niet alle klanten beschikken over de functie Performance Insights. Neem voor meer informatie contact op met de succesmanager van de klant.
+Met Marketo Performance Insights kunt u uw kanaalmix optimaliseren voor maximale effectiviteit en langetermijntrends ontdekken om consistente, winnende strategieën te zoeken.
 
 Met Performance Insights worden gegevens uit (maximaal) de voorafgaande 24 maanden geladen. Dit omvat actuele gegevens over het lopende jaar en de gegevens over het voorgaande jaar. Op 31 januari 2019 zal MPI bijvoorbeeld gegevens laden van die maand, en elke maand vanaf 2018. Op 31 december 2019 zal MPI gegevens laden van elke maand van 2019 en 2018.
 
@@ -27,7 +22,7 @@ Klik op het pictogram op het beginscherm van Analytics voor toegang tot prestati
 
 ## Bijdrage {#contribution}
 
-Evalueer de [bijdrage van Marketing aan opbrengst](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) als functie van klantenverwerving, invloed, omzetting, zelfs geïnstalleerde basisgroei.
+Marketing evalueren [bijdrage aan de ontvangsten](/help/marketo/product-docs/reporting/performance-insights/performance-insights-contribution-overview.md) als functie van de verwerving, de invloed, de omzetting van de klant, zelfs de geïnstalleerde basisgroei.
 
 ![](assets/two.png)
 
@@ -37,19 +32,19 @@ Standaard weerspiegelen de weergegeven gegevens de prestaties van Betrokkenheid.
 
 ## Trend {#trend}
 
-Ontdek [langetermijntrends](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) om consistente winnende strategieën te ontdekken.
+Uncover [trends op lange termijn](/help/marketo/product-docs/reporting/performance-insights/performance-insights-trend-overview.md) consistente winnende strategieën te ondersteunen.
 
 ![](assets/4.png)
 
 ## Instellingen {#settings}
 
-Klik in de dashboards van de Opbrengst en van de Pijl, [Settings](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) pictogram om extra parameters te plaatsen.
+Klik in de dashboards van de Inkomsten en van de Pijl, [Instellingen](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) om extra parameters in te stellen.
 
 ![](assets/5.png)
 
 ## Gegevens exporteren {#export-data}
 
-U kunt de gegevens en grafieken in of PowerPoint of Excel uitvoeren. U kunt hen als [Snelle Grafiek ](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md) ook bewaren.
+U kunt de gegevens en grafieken in of PowerPoint of Excel uitvoeren. U kunt ze ook opslaan als een [Snel diagram](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
 
 ![](assets/6.png)
 
