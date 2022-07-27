@@ -2,9 +2,9 @@
 description: Een Adobe Experience Platform-segment verplaatsen naar een statische Marketo-lijst - Marketo Docs - Productdocumentatie
 title: Een Adobe Experience Platform-segment naar een statische Marketo-lijst verplaatsen
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 0dd8059a43bfb37cdcb6b36cc73d82538263245e
+source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '666'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Voer een bestemming in **Naam** en een optionele beschrijving. Klik op de vervolgkeuzelijst Personen maken en kies &quot;Identieke bestaande Marketo-personen en Ontbrekende personen maken in Marketo&quot; _of_ &quot;Alleen voor bestaande Marketo-personen.&quot; In dit voorbeeld kiezen we het eerste.
+1. Voer een bestemming in **Naam** en een optionele beschrijving. Klik op de vervolgkeuzelijst Personen maken en kies &quot;Identieke bestaande Marketo-personen en Ontbrekende personen maken in Marketo&quot; _of_ &quot;Alleen voor bestaande Marketo-personen.&quot; In dit voorbeeld kiezen we het eerste. U kunt ook een werkruimte kiezen of gewoon de standaardwerkruimte gebruiken.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
@@ -94,9 +94,13 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    ![](assets/push-an-adobe-experience-platform-segment-14.png)
 
-1. Voornaam toewijzen door **firstName** en klikken **Selecteren**.
+1. Kies de gewenste kenmerken en klik op **Selecteren**. In dit voorbeeld kiezen we voor voornaam, achternaam en e-mailadres.
 
    ![](assets/push-an-adobe-experience-platform-segment-15.png)
+
+   >[!NOTE]
+   >
+   >U kunt attributen van Experience Platform aan om het even welke attributen in kaart brengen die uw organisatie in Marketo Engage heeft toegang tot. Gebruik de [Beschrijf API-aanvraag](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;} om kenmerkvelden op te halen waartoe uw organisatie toegang heeft.
 
 1. Wijs de Achternaam en de Naam van het Bedrijf in kaart door te klikken **Nieuwe toewijzing toevoegen** en herhaalt u stap 15 tweemaal, waarbij u **lastName** en vervolgens **companyName**.
 
@@ -142,22 +146,6 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    ![](assets/push-an-adobe-experience-platform-segment-25.png)
 
-1. Je hebt nu de id van je lijst nodig. Klik op het tabblad in uw browser waarin de statische lijst van Marketo is geopend (of open een nieuw tabblad en selecteer de gewenste statische lijst).
+1. Controleer uw wijzigingen en klik op **Voltooien**.
 
    ![](assets/push-an-adobe-experience-platform-segment-26.png)
-
-   >[!NOTE]
-   >
-   >Gebruik een lege lijst met Marketo Engage voor de beste resultaten.
-
-1. Markeer en kopieer de lijst-id aan het einde van de URL.
-
-   ![](assets/push-an-adobe-experience-platform-segment-27.png)
-
-1. Plak de id die u zojuist hebt gekopieerd onder Toewijzing-id en klik op **Volgende**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-28.png)
-
-1. Klikken **Voltooien**.
-
-   ![](assets/push-an-adobe-experience-platform-segment-29.png)
