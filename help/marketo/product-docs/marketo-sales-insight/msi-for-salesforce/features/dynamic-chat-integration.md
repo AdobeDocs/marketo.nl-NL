@@ -3,9 +3,9 @@ description: Dynamic Chat Integration - Marketo Docs - Productdocumentatie
 title: Dynamische chatintegratie
 hide: true
 hidefromtoc: true
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 237417bcb254baf93e4e5e307bd607c2c5455ef5
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,8 @@ Meer informatie over de Dynamic Chat-integratie met Sales Insight.
 
 ## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
 
+Voer de onderstaande stappen uit om de Dynamic Chat-integratie in te schakelen.
+
 1. Meld u aan bij uw Salesforce-account, klik op + aan het einde van de tabbalk en klik op **Marketo Sales Insight Config**.
 
 1. Klik om het deelvenster Visualforce ongedaan te maken.
@@ -35,7 +37,7 @@ Meer informatie over de Dynamic Chat-integratie met Sales Insight.
 
 ## Overzicht van functies {#feature-overview}
 
-De onderstaande Dynamic Chat-activiteiten kunnen worden benut door de gebruikers van Sales Insight.
+De volgende dynamische activiteiten van het Praatje kunnen door de gebruikers van het Inzicht van de Verkoop worden gebruikt...
 
 Dialoogvenster Ingesloten: Aangemeld in Marketo en ingevuld in Sales Insight wanneer een bezoeker op een chatbot klikt en de dialoog aansluit.
 
