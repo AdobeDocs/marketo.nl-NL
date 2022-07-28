@@ -2,9 +2,9 @@
 description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: b2b37b8124d1178a6a0005c7d57d4c8505d62bd8
+source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -170,5 +170,15 @@ Wanneer u de taal bijwerkt, verandert alles in de app zelf, behalve de woorden d
   <td>Bewaarperiode van boekingsactiviteit vergadering</td>
   <td>De hoeveelheid tijd die vergadering het boeken activiteit zal worden opgeslagen in Dynamisch Praatje</td>
   <td>24 maanden</td>
+ </tr>
+ <tr>
+  <td>Gesprek</td>
+  <td>Aantal chatgesprekken waarmee webbezoekers per dag kunnen werken</td>
+  <td>1 000</td>
+ </tr>
+ <tr>
+  <td>Gesprek geactiveerd</td>
+  <td>Aantal praatjegesprekken die aan Webbezoekers per dag kunnen worden getoond</td>
+  <td>25 000</td>
  </tr>
 </table>
