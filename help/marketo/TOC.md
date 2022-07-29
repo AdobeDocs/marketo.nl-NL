@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: ea2ee32a4c8805154f17717d515bb994dbfbe982
+source-git-commit: 5c6ef7791966b2b71c4d85262f4f3fde04149878
 workflow-type: tm+mt
-source-wordcount: '8793'
+source-wordcount: '8794'
 ht-degree: 0%
 
 ---
@@ -612,16 +612,17 @@ ht-degree: 0%
       + Dynamische chat {#dynamic-chat}
          + [Dynamisch chatoverzicht](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Eerste instelling](product-docs/demand-generation/dynamic-chat/initial-setup.md)
-         + [Dynamische chat met Marketo verbinden](product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md)
          + [Chatgebruikers toevoegen of verwijderen](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Configuratie](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Dynamische chatactiviteiten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + Integraties {#integrations}
+            + [Dynamische chat met Marketo verbinden](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [De documentkaart gebruiken](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Dialoogvensters {#dialogues}
             + [Overzicht van dialoogvensters](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
             + [Een dialoogvenster maken](product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md)
             + [Criteria voor het publiek](product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)
             + [Stream Designer](product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)
-            + [De documentkaart gebruiken](product-docs/demand-generation/dynamic-chat/dialogues/using-the-document-card.md)
             + [Rapporten](product-docs/demand-generation/dynamic-chat/dialogues/reports.md)
       + Gebeurtenissen {#events}
          + Gebeurtenissen {#understanding-events}
