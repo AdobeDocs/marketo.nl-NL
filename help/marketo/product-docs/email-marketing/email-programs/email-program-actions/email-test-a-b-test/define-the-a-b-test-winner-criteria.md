@@ -3,9 +3,9 @@ unique-page-id: 2359545
 description: Bepaal de A/B criteria van de Winner van de Test - Marketo DOS - de Documentatie van het Product
 title: Bepaal de Criteria van de Winner van de Test A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: acea096990b834654b47c40b601ef2418069b9b5
+source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -63,9 +63,9 @@ Wanneer [toevoegen van een A/B-test](/help/marketo/product-docs/email-marketing/
 
    ![](assets/image2014-9-12-15-3a53-3a11.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >Marketo staat alleen triggers toe voor mensen die het e-mailbericht van dit e-mailprogramma hebben ontvangen. U hoeft het filter &#39;&#39;Is verzonden via e-mail&#39;&#39; niet toe te voegen.
+   >Marketo staat alleen triggers/filters toe voor mensen die de e-mail van dit e-mailprogramma hebben ontvangen. Het is dus niet nodig een filter &#39;Is e-mail verzonden&#39; toe te voegen. Wanneer u een trigger/filter voor e-mail gebruikt, moet u er bovendien voor zorgen dat &quot;gelijk aan&quot; wordt gebruikt als operator.
 
 1. Klikken **Sluiten**.
 
