@@ -2,7 +2,7 @@
 description: Eerste installatie - Marketo-documenten - productdocumentatie
 title: Eerste instelling
 exl-id: 72c20e8f-879d-4490-a87f-3d8e2ba1f263
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -31,4 +31,4 @@ Voer de onderstaande stappen uit om Dynamic Chat in te stellen.
 
 1. Nadat u zich hebt aangemeld bij de Admin Console, voegt u gebruikers toe. We hebben dat proces [hier gedocumenteerd](/help/marketo/product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md#add-a-chat-user).
 
-Nu is het tijd om [Dynamic Chat verbinden met Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/connect-dynamic-chat-to-marketo.md).
+Nu is het tijd om [Dynamic Chat verbinden met Marketo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md).
