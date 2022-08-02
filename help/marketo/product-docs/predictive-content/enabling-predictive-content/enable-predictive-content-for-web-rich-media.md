@@ -1,19 +1,22 @@
 ---
 unique-page-id: 7514956
-description: Voorspelende inhoud voor webrijke media - Marketo Docs - Productdocumentatie inschakelen
+description: Predictieve inhoud voor webrijke media inschakelen - Marketo Docs - Productdocumentatie
 title: Voorspelende inhoud voor web-rijke media inschakelen
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
+source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
-
-# Voorspelende inhoud voor Web Rich Media {#enable-predictive-content-for-web-rich-media} inschakelen
+# Voorspelende inhoud voor web-rijke media inschakelen {#enable-predictive-content-for-web-rich-media}
 
 Met voorspellende inhoud hebben uw webbezoekers de meest relevante inhoud, aangedreven door machinaal leren en voorspellende analyses. Met Web Rich Media, kunt u uw inhoud met tekstbeschrijvingen en beelden verbeteren en veelvoudige voorspellende inhoudaanbevelingen op uw website inbedden.
+
+>[!NOTE]
+>
+>U wordt aangeraden meer dan vijf delen inhoud per categorie en per bron (e-mail, rich media, balk) in te schakelen voordat u de preventieve inhoud gaat testen en gebruiken. Meer inhoud geeft u een beter voorspelbaar resultaat.
 
 >[!PREREQUISITES]
 >
@@ -21,31 +24,30 @@ Met voorspellende inhoud hebben uw webbezoekers de meest relevante inhoud, aange
 >
 >* **Voorspelende inhoud voorbereiden**
    >
-   >   
-   * [Voorspelende inhoud voor ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md) e-mailprogramma bewerken
-   >   * [Predictieve inhoud voor rijke ](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md) media bewerken
-   >   * [Voorspelende inhoud voor de balk met aanbevelingen bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
+   >   * [Voorspelende inhoud voor e-mails bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target=&quot;_blank&quot;} of
+   >   * [Predictieve inhoud voor rijke media bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target=&quot;_blank&quot;} of
+   >   * [Voorspelende inhoud voor de balk met aanbevelingen bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target=&quot;_blank&quot;}
 >
->* [Een titel voor preventieve inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)
+>* [Een titel voor preventieve inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target=&quot;_blank&quot;}
 
 
 Nadat u de titel, beschrijving en afbeelding van de inhoud hebt voorbereid voor veelzijdige media, kunt u afzonderlijke of meerdere inhoudsonderdelen inschakelen.
 
-1. Als u een afzonderlijke titel wilt inschakelen, klikt u op een titel om de editor te openen. Klik rijke Media, dan controleer **Toegelaten voor Predictieve Inhoud in Rijke Media** doos en klik **sparen**.
+1. Als u een afzonderlijke titel wilt inschakelen, klikt u op een titel om de editor te openen. Klik op Rijke media en controleer vervolgens de **Ingeschakeld voor voorspellende inhoud in rijke media** en klik op **Opslaan**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Schakel op de pagina **Predictive Content** de selectievakjes naast de titel(s) in voor meerdere stukken inhoud.
+1. Voor meerdere inhoud, op de knop **Voorspelende inhoud** , schakelt u de vakjes naast de titel(s) in.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Klik **Inhoudsacties** drop-down en selecteer **Enable for Web Rich Media**.
+1. Klik op de knop **Inhoudshandelingen** vervolgkeuzelijst en selecteer **Enable for Web Rich Media**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
-## Pas de Javascript-code aan en sluit deze in op uw website {#customize-the-javascript-code-and-embed-it-into-your-website}
+## De JavaScript-code aanpassen en in uw website insluiten  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Raadpleeg de documentatie voor de sjabloon [Rich Media Recommendation op de site Marketo Developers.](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api)Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
+Verwijs naar de documentatie voor het Rich Media Aanbeveling malplaatje [op de Marketo Developers-website](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target=&quot;_blank&quot;}. Hierin wordt uitgelegd hoe u de sjabloon voor uw website kunt aanpassen.
 
 Plak de JavaScript-code in uw website op de locatie waar u de sjabloon wilt weergeven.
 
