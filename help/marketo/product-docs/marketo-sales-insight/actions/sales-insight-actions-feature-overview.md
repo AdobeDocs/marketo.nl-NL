@@ -2,9 +2,9 @@
 description: Overzicht van Sales Insight Actions - Marketo Docs - Productdocumentatie
 title: Overzicht van de functie Handelingen Handelingen in het verkoopoverzicht
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 1db88a95777df43c3cef7ee5cabada2464329661
+source-git-commit: d36fc031675cea2edad63462e7df21f229c49821
 workflow-type: tm+mt
-source-wordcount: '1336'
+source-wordcount: '1337'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Versnel de prospectieve inspanningen met marketing-aangedreven intelligentie en 
 
 >[!AVAILABILITY]
 >
->Deze functie is momenteel beschikbaar voor beperkte GA. Neem contact op met uw Customer Success Manager of e-mail `sales-insights(at)adobe(dot)com` om toegang aan te vragen.
+>Deze functie is momenteel gefaseerd beschikbaar. Neem contact op met uw Customer Success Manager of e-mail `sales-insights(at)adobe(dot)com` om toegang aan te vragen.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -25,7 +25,7 @@ De volgende acties zijn beschikbaar in de vervolgkeuzelijst &quot;Handelingen ki
 
 * Verkoop-e-mail verzenden
    * E-mails over verkoop bevatten weergave, klikken en antwoorden bijhouden (wanneer het leveringskanaal is ingesteld)
-   * Inclusief e-mail Personalization, aangepaste handtekening en bijlagen
+   * Inclusief personalisatie via e-mail, aangepaste handtekening en bijlagen
    * Sjablonen delen en rapporten
    * Team delen, groep e-mails en CC/BCC-mogelijkheden
    * Verkoop-e-mailactiviteiten worden aangemeld bij de persoonlijke gegevens van Marketo
@@ -77,7 +77,7 @@ De volgende acties zijn beschikbaar bij de hoogste nav:
 
 * E-mail over verkoop verzenden - Mogelijkheid om gepersonaliseerde of getemplatificeerde groepse e-mails te verzenden met weergave, klik en antwoord het volgen aan alle contacten verbonden aan een rekening/kans
    * E-mails over verkoop bevatten weergave, klikken en antwoorden bijhouden (wanneer het leveringskanaal is ingesteld)
-   * Inclusief e-mail Personalization, aangepaste handtekening en bijlagen
+   * Inclusief personalisatie via e-mail, aangepaste handtekening en bijlagen
    * Sjablonen delen en rapporten
    * Team delen, groep e-mails en CC/BCC-mogelijkheden
    * Verkoop-e-mailactiviteiten worden aangemeld bij de persoonlijke gegevens van Marketo
