@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 75c06c8d2eda0da6b8bdcd9011df3ca5deacfd6d
+source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -63,8 +63,6 @@ De volgende functies worden vrijgegeven op **19 augustus 2022**, met een gefasee
 ## API-verbeteringen {#api-enhancements}
 
 * **Nieuwe filtermogelijkheden voor de Extraheren-API voor leden van het Bulkprogramma**: U kunt filteren op de status van het programmalidmaatschap, bijgewerkteAt, cadence of uitgeput inhoud om de geëxtraheerde gegevensset te verfijnen.
-
-* **Maak API-Enige Gebruiker in de Meldingen van de Fout van de Diensten van het Web bloot**: Zie welke API-Enige Gebruiker een fout van de Diensten van het Web produceerde om het oplossen van problemen te verbeteren.
 
 ## Aankondigingen {#announcements}
 

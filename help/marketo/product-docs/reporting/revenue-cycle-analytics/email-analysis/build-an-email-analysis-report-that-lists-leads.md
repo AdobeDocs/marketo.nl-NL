@@ -1,45 +1,48 @@
 ---
 unique-page-id: 2360407
-description: Bouw een E-mailanalyserapport dat van Leads - Marketo Docs - de Documentatie van het Product een lijst maakt
+description: Een e-mailanalyserapport maken met leads - Marketo Docs - Productdocumentatie
 title: Een e-mailanalyserapport maken waarin de leads worden vermeld
-translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+exl-id: f431610c-6570-4df0-9d64-d37d21010604
+source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# Een e-mailanalyserapport maken waarin de leads {#build-an-email-analysis-report-that-lists-leads} worden weergegeven
+# Een e-mailanalyserapport maken waarin de leads worden vermeld {#build-an-email-analysis-report-that-lists-leads}
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle klanten hebben deze functionaliteit aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
 
 Voer de volgende stappen uit om een e-mailanalyserapport te maken waarin elke lead wordt weergegeven die een specifieke e-mail heeft verzonden. Dit rapport bevat ook de status Klik en Openen.
 
-1. Start **Ontdekkingsreiziger van inkomsten**.
+>[!NOTE]
+>
+>De gegevensengine die de RCA voor e-mailanalyse ondersteunt, negeert meer dan 12 klikken per persoon als deze afkomstig zijn van dezelfde e-mail en campagne. Hiermee houdt u rekening wanneer u e-mailanalyserapporten vergelijkt met standaard Marketo Analytics-rapporten.
+
+1. Starten **Ontdekkingsreiziger voor inkomsten**.
 
    ![](assets/report-that-lists-leads-1.png)
 
-1. Klik **Nieuw maken** dan **Rapport**.
+1. Klikken **Nieuw maken** dan **Rapport**.
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. Selecteer E-mailanalyse en klik **OK**.
+1. Selecteer E-mailanalyse en klik op **OK**.
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. Vind de gele punt van de Naam E-mail, klik het met de rechtermuisknop aan en selecteer **Filter**.
+1. De gele punt voor e-mailnamen zoeken, er met de rechtermuisknop op klikken en selecteren **Filter**.
 
    ![](assets/report-that-lists-leads-4.png)
 
-1. Dubbelklik in de lijst op de gewenste e-mail en klik op **OK**.
+1. Dubbelklik op het e-mailadres van uw keuze in de lijst en klik op **OK**.
 
    ![](assets/report-that-lists-leads-5.png)
 
-1. Sleep de **E-mailnaam** gele punt naar **Kolommen**.
+1. Sleep de **E-mailnaam** gele stip op **Kolommen**.
 
    ![](assets/report-that-lists-leads-6.png)
 
@@ -51,7 +54,7 @@ Voer de volgende stappen uit om een e-mailanalyserapport te maken waarin elke le
 
    ![](assets/report-that-lists-leads-7.png)
 
-1. Voeg nu **Maatjes** toe u in door hen tweemaal te klikken geinteresseerd bent.
+1. Voeg nu de **Maatregelen** u bent geïnteresseerd door erop te dubbelklikken.
 
    ![](assets/report-that-lists-leads-8.png)
 

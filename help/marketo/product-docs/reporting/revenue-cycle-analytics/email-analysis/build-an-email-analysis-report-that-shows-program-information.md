@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2360409
-description: Bouw een E-mailanalyserapport dat de Informatie van het Programma - Marketo Docs - de Documentatie van het Product toont
+description: Een e-mailanalyserapport maken waarin de programmagegevens worden weergegeven - Marketo Docs - Productdocumentatie
 title: Een e-mailanalyserapport maken waarin programmagegevens worden weergegeven
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
+source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# Een e-mailanalyserapport maken waarin de programmagegevens {#build-an-email-analysis-report-that-shows-program-information} worden weergegeven
+# Een e-mailanalyserapport maken waarin programmagegevens worden weergegeven {#build-an-email-analysis-report-that-shows-program-information}
 
 Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegevens worden gegroepeerd op programmakanalen.
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
+>Niet alle klanten hebben deze functionaliteit aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
 
-1. Start **Ontdekkingsreiziger van inkomsten**.
+1. Starten **Ontdekkingsreiziger voor inkomsten**.
 
-   ![](assets/image2014-9-17-19-3a42-3a26.png)
+   ![](assets/report-that-shows-program-information-1.png)
 
-1. Klik op **Nieuw Rapport**.
+1. Klikken **Nieuw maken** en selecteert u **Rapport**.
 
-   ![](assets/image2014-9-17-19-3a42-3a32.png)
+   ![](assets/report-that-shows-program-information-2.png)
 
-1. Selecteer **E-mailanalyse** gebied en klik **OK**.
+1. Selecteren **E-mailanalyse** gebied en klik **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. De **Verzonden (Week)** gele punt zoeken en er met de rechtermuisknop op klikken. Klik **Filter**.
+1. Zoek de **Verzonden (week)** geel punt en klik er met de rechtermuisknop op. Klikken **Filter**.
 
    >[!NOTE]
    >
@@ -39,19 +38,19 @@ Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegeve
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Controleer **Huidige Verzonden week** en klik **OK**.
+1. Controleren **Huidige verzendweek** en klik op **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Dubbelklik op de gele punt **Programmakanaal**.
+1. Zoeken en dubbelklikken op de knop **Programmakanaal** gele stip.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Dubbelklik op **E-mailnaam** geel punt.
+1. Zoeken en dubbelklikken op de knop **E-mailnaam** gele stip.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Zoek en dubbelklik op de **Verzonden**, **Geopende** en **Geklikte** blauwe stippen.
+1. Zoeken en dubbelklikken op de knop **Verzonden**, **Geopend** en **Geklikt** blauwe stippen.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
