@@ -3,20 +3,20 @@ unique-page-id: 2360407
 description: Een e-mailanalyserapport maken met leads - Marketo Docs - Productdocumentatie
 title: Een e-mailanalyserapport maken waarin de leads worden vermeld
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
 # Een e-mailanalyserapport maken waarin de leads worden vermeld {#build-an-email-analysis-report-that-lists-leads}
 
+Voer de volgende stappen uit om een e-mailanalyserapport te maken waarin elke lead wordt weergegeven die een specifieke e-mail heeft verzonden. Dit rapport bevat ook de status Klik en Openen.
+
 >[!AVAILABILITY]
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
-
-Voer de volgende stappen uit om een e-mailanalyserapport te maken waarin elke lead wordt weergegeven die een specifieke e-mail heeft verzonden. Dit rapport bevat ook de status Klik en Openen.
 
 >[!NOTE]
 >

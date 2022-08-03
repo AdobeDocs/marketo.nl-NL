@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 augustu
 >
 >Kenmerken die door een ster worden aangeduid (![ster](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
-De volgende functies worden vrijgegeven op **19 augustus 2022**, met een gefaseerde uitrol van de resterende kenmerken in de daaropvolgende weken (tenzij anders vermeld). De versiefuncties en de exacte datums kunnen worden gewijzigd.
+De volgende functies worden vrijgegeven op **26 augustus 2022**, met een gefaseerde uitrol van de resterende kenmerken in de daaropvolgende weken (tenzij anders vermeld). De versiefuncties en de exacte datums kunnen worden gewijzigd.
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
@@ -64,8 +64,14 @@ De volgende functies worden vrijgegeven op **19 augustus 2022**, met een gefasee
 
 * **Nieuwe filtermogelijkheden voor de Extraheren-API voor leden van het Bulkprogramma**: U kunt filteren op de status van het programmalidmaatschap, bijgewerkteAt, cadence of uitgeput inhoud om de geëxtraheerde gegevensset te verfijnen.
 
+## Verkoopoverzicht {#sales-insight}
+
+![(ster)](assets/yellow-star.png)
+
+* **Integratie van het Inzicht van de verkoop met Dynamische Chat**: U kunt activiteiten van Dynamic Chat weergeven in het paneel Verkoopinzicht en dit nieuwe gegevenspunt gebruiken voor uw prospectie.
+
 ## Aankondigingen {#announcements}
 
 **_Webinar productrelease_**
 
-Doe mee op 24 augustus 2022 om 9:00 uur PT / 12:00 uur ET voor een [levende webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} wordt gehost door ons productteam, waar u kunt leren hoe u alle nieuwste productinnovaties kunt gebruiken.
+Doe mee op 24 augustus 2022, 9:00 uur PT / 12:00 uur ET voor een [levende webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} wordt gehost door ons productteam, waar u kunt leren hoe u alle nieuwste productinnovaties kunt gebruiken.
