@@ -2,7 +2,7 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 62f46579b9275f30938b9c57e7fb98ca6dca0ae1
+source-git-commit: 87e5bab3f668509bd791a0ec1ff0e2174eadda09
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -35,8 +35,8 @@ De volgende functies worden vrijgegeven op **26 augustus 2022**, met een gefasee
 
 * **Bijgewerkte schermen in de volgende generatie ervaring**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
 
-   * Details &quot;Afbeeldingen en bestanden&quot;
    * Fragmentdetails
+   * Details &quot;Afbeeldingen en bestanden&quot;
 
 >[!NOTE]
 >
