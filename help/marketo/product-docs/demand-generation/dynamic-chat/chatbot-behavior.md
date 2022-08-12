@@ -1,0 +1,407 @@
+---
+description: Chatbotgedrag - Marketo Docs - Productdocumentatie
+title: Chatbotgedrag
+hide: true
+hidefromtoc: true
+source-git-commit: 4ec9338bec2e0255eab4304da74464dd47ffae24
+workflow-type: tm+mt
+source-wordcount: '1512'
+ht-degree: 0%
+
+---
+
+# Chatbotgedrag {#chatbot-behavior}
+
+Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte gedrag van Chatbot voor de bezoeker in elke scenario wordt beschreven.
+
+<table>
+  <tbody>
+    <tr>
+      <th>Afkorting</th>
+      <th>Details</th>
+    </tr>
+    <tr>
+      <td>D1, D2, D3, enz.</td>
+      <td>Vertegenwoordigt veelvoudige dialogen waar D1 dialoog 1 is</td>
+    </tr>
+    <tr>
+      <td>P1, P2, P3, enz.</td>
+      <td>Vertegenwoordigt dialoogprioriteiten waar P1 de hoogste prioriteit is</td>
+    </tr>
+    <tr>
+      <td>WP1, WP2, WP3, enz.</td>
+      <td>Vertegenwoordigt veelvoudige Web-pagina's waar WP1 de eerste Web-pagina is</td>
+    </tr>
+    <tr>
+      <td>V1, V2, V3, enz.</td>
+      <td>Vertegenwoordigt meerdere bezoekers van webpagina's waarbij V1 één bezoeker is</td>
+    </tr>
+   </tbody>
+</table>
+
+## Scenarios {#scenarios}
+
+<table>
+  <tr>
+      <th>Scenario</th>
+      <th>Chatbotgedrag verwacht</th>
+      <th>Achterstallige actie</th>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>V1 bezoeken WP1</p>
+      </td>
+      <td>
+        <p>D1 moet worden omgezet naar V1 </p>
+      </td>
+      <td>Het aantal triggers voor D1 moet met 1 worden verhoogd</td>
+    </tr>
+    <tr background: #CCCCCC>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>V1 bezoeken WP1</p>
+        <p>V1 vernieuwt WP1</p>
+      </td>
+      <td>
+        <p>D1 moet worden omgezet naar V1</p>
+        <p>Na vernieuwen moet D1 opnieuw worden opgelost</p>
+      </td>
+      <td>
+        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd </p>
+        <p>Na vernieuwen worden geen wijzigingen aangebracht in D1-trigger of -betrokkenheidstelling</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 maar reageert niet </p>
+      </td>
+      <td>D1 moet worden omgezet naar V1</td>
+      <td>
+        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd </p>
+        <p>Geen wijziging van het aantal D1-contracten</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 en verstrekt de eerste reactie  </p>
+      </td>
+      <td>D1 moet worden omgezet naar V1</td>
+      <td>
+        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd </p>
+        <p>Het aantal contracten voor D1 moet met 1 worden verhoogd </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 en verstrekt de eerste reactie</p>
+        <p>V1 vernieuwt WP1  </p>
+      </td>
+      <td>
+        <p>D1 moet worden omgezet naar V1</p>
+        <p>Na vernieuwen moet D1 worden voortgezet</p>
+      </td>
+      <td>
+        <p>Het aantal triggers en het aantal contracten voor D1 moet met 1 worden verhoogd </p>
+        <p>Na vernieuwen worden er geen aantallen gewijzigd</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1, neemt contact op met de chatbot en voltooit D1</p>
+        <p>V1 vernieuwt WP1  </p>
+      </td>
+      <td>
+        <p>D1 moet worden omgezet naar V1</p>
+        <p>Na vernieuwen kan geen dialoogvenster of volgende dialoogvenster worden opgelost voor V1</p>
+      </td>
+      <td>
+        <p>Het aantal triggers, het aantal contracten, het aantal voltooide tellingen voor D1 moeten met 1 worden verhoogd </p>
+        <p>Na vernieuwen dient er geen dialoogvenster of volgend dialoogvenster te worden opgelost</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 gericht voor slechts WP1, WP2</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 maar reageert niet </p>
+        <p>V1 bezoeken WP2</p>
+      </td>
+      <td>
+        <p>Pagina bezoek WP1, D1 zou aan V1 moeten worden opgelost</p>
+        <p>Pagina bezoek WP2, D1 zou aan V2 moeten worden opgelost</p>
+      </td>
+      <td>
+        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd </p>
+        <p>In WP2, geen verandering in D1 trekkertelling</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 gericht voor slechts WP1, WP2</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 en ingeschakeld</p>
+        <p>V1 bezoeken WP2</p>
+      </td>
+      <td>
+        <p>Pagina bezoek WP1, D1 zou aan V1 moeten worden opgelost</p>
+        <p>Pagina bezoek WP2, D1 zou aan V1 moeten worden opgelost</p>
+      </td>
+      <td>
+        <p>Het aantal triggers en het aantal contracten voor D1 moet met 1 worden verhoogd </p>
+        <p>In WP2, geen verandering in om het even welk aantal</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>D2 alleen gericht op WP2</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 en verstrekt de eerste reactie</p>
+        <p>V1 bezoeken WP2</p>
+      </td>
+      <td>
+        <p>D1 zou op WP1 moeten worden opgelost</p>
+        <p>D1 zou V1 op WP2 moeten voortzetten</p>
+      </td>
+      <td>
+        <p>Het aantal triggers en het aantal contracten voor D1 moet met 1 worden verhoogd </p>
+        <p>Geen wijziging van het aantal triggers of afspraken voor D2</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>D2 alleen gericht op WP2</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 maar reageert niet </p>
+        <p>V1 bezoeken WP2</p>
+      </td>
+      <td>D1 zou op WP1 moeten worden opgelost<br/>D2 zou op WP2 moeten worden opgelost</td>
+      <td>
+        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd </p>
+        <p>Het aantal triggers voor D2 moet met 1 worden verhoogd </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>D2 alleen gericht op WP2</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 en voltooit D1</p>
+        <p>V1 bezoeken WP2</p>
+      </td>
+      <td>D1 moet op WP1 en na voltooiing worden opgelost<br/>D2 zou op WP2 moeten worden opgelost</td>
+      <td>
+        <p>De trigger, de betrokkenheid en het voltooide aantal voor D1 moeten met 1 worden verhoogd </p>
+        <p>Het aantal triggers voor D2 moet met 1 worden verhoogd </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>D2 alleen gericht op WP2</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 en voltooit D1</p>
+        <p>V1 bezoeken WP2</p>
+        <p>V1 klikt op D2 levert de eerste reactie </p>
+      </td>
+      <td>D1 moet op WP1 en na voltooiing worden opgelost<br/>D2 zou op WP2 moeten worden opgelost</td>
+      <td>
+        <p>De trigger, de betrokkenheid en het voltooide aantal voor D1 moeten met 1 worden verhoogd </p>
+        <p>Het aantal triggers en contracten voor D2 moet met 1 worden verhoogd </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 maar reageert niet </p>
+        <p>D1 is niet gepubliceerd</p>
+      </td>
+      <td>D1 moet worden omgezet naar V1</td>
+      <td>
+        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd </p>
+        <p>Geen wijziging van het aantal D1-afspraken</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 maar reageert niet </p>
+        <p>D1 is niet gepubliceerd</p>
+        <p>V1 vernieuwt WP1</p>
+      </td>
+      <td>
+        <p>D1 zou aan V1 eerste keer moeten worden opgelost</p>
+        <p>Na vernieuwen dient er geen dialoogvenster te worden opgelost </p>
+      </td>
+      <td>
+        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd </p>
+        <p>Geen wijziging van het aantal D1-afspraken</p>
+        <p>Na vernieuwen worden geen wijzigingen aangebracht in de D1-trigger of -betrokkenheidstelling</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 met D1 </p>
+        <p>D1 is niet gepubliceerd</p>
+        <p>V1 vernieuwt WP1</p>
+      </td>
+      <td>
+        <p>D1 moet worden omgezet naar V1</p>
+        <p>Na vernieuwen moet D1 worden voortgezet </p>
+      </td>
+      <td>
+        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd </p>
+        <p>D1 Het aantal taken moet met 1 worden verhoogd</p>
+        <p>Na vernieuwen, aangezien D1 wordt voortgezet zonder verdere wijziging voor het activeren of tellen van betrokkenheid</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 maar reageert niet </p>
+        <p>D1 wordt gepubliceerd met nieuwe veranderingen</p>
+        <p>V1 vernieuwt WP1</p>
+      </td>
+      <td>
+        <p>D1 zou aan V1 eerste keer moeten worden opgelost</p>
+        <p>Na vernieuwen moet het dialoogvenster met nieuwe wijzigingen worden opgelost</p>
+      </td>
+      <td>
+        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd </p>
+        <p>Na verfrissen zich, als D1 met nieuwe veranderingen maar geen verdere verandering om telling teweeg te brengen</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die slechts voor WP1 wordt gericht</p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 verstrekt de eerste reactie </p>
+        <p>D1 wordt gepubliceerd met nieuwe veranderingen</p>
+        <p>V1 vernieuwt WP1</p>
+      </td>
+      <td>
+        <p>D1 zou aan V1 eerste keer moeten worden opgelost</p>
+        <p>Na vernieuwen moet het dialoogvenster met oude wijzigingen worden voortgezet</p>
+      </td>
+      <td>
+        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd </p>
+        <p>Het aantal contracten voor D1 moet met 1 worden verhoogd </p>
+        <p>Na verfrissen zich, aangezien oude D1 zal verschijnen zodat geen verandering om telling teweeg te brengen</p>
+      </td>
+    </tr>
+    <tr>
+     <td>
+        <p>D1 gericht voor WP1 met 1 prioriteit</p>
+        <p>D2 gericht op WP1 met 2 prioriteit </p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 maar reageert niet </p>
+        <p>D1 is niet gepubliceerd</p>
+        <p>V1 vernieuwt WP1</p>
+      </td>
+      <td>
+        <p>D1 zou aan V1 eerste keer moeten worden opgelost</p>
+        <p>Na verfrissen, zou D2 aan V1 moeten worden opgelost</p>
+      </td>
+      <td>
+        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd </p>
+        <p>Na verfrissen, zou het trekkeraantal voor D2 met 1 moeten worden verhoogd </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 gericht voor WP1 met 1 prioriteit</p>
+        <p>D2 gericht op WP1 met 2 prioriteit </p>
+        <p>V1 bezoekt WP1 eerste keer</p>
+        <p>V1 klikt op D1 en voltooit D1</p>
+        <p>V1 verfrist WP1 en zie D2<br/>V1 klikt op D2 en voltooit D2</p>
+        <p>Marketer heeft wijzigingen aangebracht in D1 en opnieuw gepubliceerd</p>
+        <p>V1 vernieuwt WP1</p>
+      </td>
+      <td>
+        <p>D1 zou aan V1 eerste keer moeten worden opgelost</p>
+        <p>Na verfrissen, zou D2 aan V1 moeten worden opgelost</p>
+        <p>Na het invullen van D1 en D2, ongeacht welke wijzigingen of opnieuw gepubliceerde D1, mag D2 niet opnieuw worden getoond aan V1</p>
+      </td>
+      <td>
+        <p>Het geactiveerde, voltooide aantal punten voor D1 moet met 1 worden verhoogd </p>
+        <p>Vernieuwen nadat D2 is voltooid, geen actie te ondernemen</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die voor WP1 met "Tijd op Plaats"trekker van 30 seconden wordt gericht</p>
+        <p>V1 bezoeken WP1</p>
+      </td>
+      <td>
+        <p>D1 moet worden opgelost, maar zal niet worden geactiveerd tot V1 </p>
+        <p>Na 30 seconden moet D1 worden getoond/geactiveerd tot V1</p>
+      </td>
+      <td>Het aantal triggers voor D1 mag pas na 30 seconden worden verhoogd met 1</td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 gericht voor WP1, WP2 met "Tijd op pagina"trekker van 30 seconden</p>
+        <p>V1 bezoeken WP1, WP2</p>
+      </td>
+      <td>
+        <p>D1 moet worden opgelost, maar zal niet worden geactiveerd tot V1 </p>
+        <p>Na 30 seconden moet D1 worden getoond/geactiveerd tot V1</p>
+      </td>
+      <td>Het aantal triggers voor D1 mag pas na 30 seconden worden verhoogd met 1</td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 gericht voor WP1 met "% scroll"trekker van 50% </p>
+        <p>V1 bezoeken WP1</p>
+      </td>
+      <td>
+        <p>D1 moet worden opgelost, maar zal niet worden geactiveerd tot V1 </p>
+        <p>Na 50% schuiven moet D1 worden getoond/geactiveerd naar V1</p>
+      </td>
+      <td>Het aantal triggers voor D1 mag pas na 50% schuiven met 1 worden verhoogd</td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die voor WP1 met 1 prioriteit en gebeurtenis "Tijd op pagina"trekker van 30 seconden wordt gericht</p>
+        <p>D2 gericht voor WP1 met 2 prioriteit en gebeurtenis "paginaschuiving %"van 50%</p>
+        <p>V1 bezoeken WP1, na 10 seconden V1 bezoeken WP2, V1 bezoeken WP1</p>
+      </td>
+      <td>
+        <p>Op WP1, zou D1 moeten worden opgelost maar zal niet aan V1 in werking worden gesteld </p>
+        <p>Op WP2 zou D2 moeten worden opgelost maar zal niet aan V1 in werking worden gesteld</p>
+        <p>Op WP1, zou D1 moeten worden opgelost en na 20 seconden zou D1 aan V1 moeten worden teweeggebracht </p>
+      </td>
+      <td>Het aantal triggers voor D1 mag pas na 30 seconden met 1 worden verhoogd</td>
+    </tr>
+    <tr>
+      <td>
+        <p>D1 die voor WP1 met "Tijd op Plaats"trekker van 1 minuut wordt gericht</p>
+        <p>V1 bezoeken WP1 voor 1 minuut en getoond D1 maar niet</p>
+        <p>V1 sluit WP1 en komt terug naar WP1 2 dagen later</p>
+      </td>
+      <td>
+        <p>D1 zou automatisch aan V1 moeten tonen aangezien zij reeds aan de trekkercriteria tijdens de vorige zitting hebben voldaan</p>
+        <p>Dezelfde logica moet van toepassing zijn op "Tijd op pagina" en "Schuifpercentage pagina"</p>
+      </td>
+      <td>
+        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd </p>
+        <p>Na terugkeer, geen actie te ondernemen</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
