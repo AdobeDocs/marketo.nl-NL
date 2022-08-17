@@ -1,10 +1,8 @@
 ---
 description: Chatbotgedrag - Marketo Docs - Productdocumentatie
 title: Chatbotgedrag
-hide: true
-hidefromtoc: true
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 97b1a00b8ff1dc29a92687a70c71093fc8c04267
+source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -46,7 +44,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
   <tr>
       <th>Scenario</th>
       <th>Chatbotgedrag verwacht</th>
-      <th>Achterstallige actie</th>
+      <th>Handeling Backend</th>
     </tr>
     <tr>
       <td>
@@ -54,9 +52,9 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoeken WP1</p>
       </td>
       <td>
-        <p>D1 moet worden omgezet naar V1 </p>
+        <p>D1 wordt omgezet in V1 </p>
       </td>
-      <td>Het aantal triggers voor D1 moet met 1 worden verhoogd</td>
+      <td>Het aantal triggers voor D1 wordt met 1 verhoogd</td>
     </tr>
     <tr>
       <td>
@@ -65,11 +63,11 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 moet worden omgezet naar V1</p>
-        <p>Na vernieuwen moet D1 opnieuw worden opgelost</p>
+        <p>D1 wordt omgezet in V1</p>
+        <p>Na vernieuwen wordt D1 opnieuw opgelost</p>
       </td>
       <td>
-        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
         <p>Na vernieuwen worden geen wijzigingen aangebracht in D1-trigger of -betrokkenheidstelling</p>
       </td>
     </tr>
@@ -79,9 +77,9 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoekt WP1 voor het eerst</p>
         <p>V1 klikt op D1 maar reageert niet</p>
       </td>
-      <td>D1 moet worden omgezet naar V1</td>
+      <td>D1 wordt omgezet in V1</td>
       <td>
-        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
         <p>Geen wijziging van het aantal D1-contracten</p>
       </td>
     </tr>
@@ -91,10 +89,10 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoekt WP1 voor het eerst</p>
         <p>V1 klikt op D1 en verstrekt de eerste reactie</p>
       </td>
-      <td>D1 moet worden omgezet naar V1</td>
+      <td>D1 wordt omgezet in V1</td>
       <td>
-        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd</p>
-        <p>Het aantal contracten voor D1 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
+        <p>Het aantal contracten voor D1 wordt met 1 verhoogd</p>
       </td>
     </tr>
     <tr>
@@ -105,11 +103,11 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 moet worden omgezet naar V1</p>
-        <p>Na vernieuwen moet D1 worden voortgezet</p>
+        <p>D1 wordt omgezet in V1</p>
+        <p>Na vernieuwen wordt D1 voortgezet</p>
       </td>
       <td>
-        <p>Het aantal triggers en het aantal contracten voor D1 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers en het aantal contracten voor D1 wordt met 1 verhoogd</p>
         <p>Na vernieuwen worden er geen aantallen gewijzigd</p>
       </td>
     </tr>
@@ -121,12 +119,12 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 moet worden omgezet naar V1</p>
-        <p>Na vernieuwen kan geen dialoogvenster of volgende dialoogvenster worden opgelost voor V1</p>
+        <p>D1 wordt omgezet in V1</p>
+        <p>Na vernieuwen wordt er geen dialoogvenster of volgende dialoogvenster opgelost voor V1</p>
       </td>
       <td>
-        <p>Het aantal triggers, het aantal contracten en het voltooide aantal voor D1 moeten met 1 worden verhoogd</p>
-        <p>Na vernieuwen dient er geen dialoogvenster of volgend dialoogvenster te worden opgelost</p>
+        <p>Het aantal triggers, het aantal contracten en het voltooide aantal voor D1 worden met 1 verhoogd</p>
+        <p>Na vernieuwen wordt geen dialoogvenster of volgende dialoogvenster opgelost</p>
       </td>
     </tr>
     <tr>
@@ -137,11 +135,11 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoeken WP2</p>
       </td>
       <td>
-        <p>Pagina bezoek WP1, D1 zou aan V1 moeten worden opgelost</p>
-        <p>Pagina bezoek WP2, D1 zou aan V2 moeten worden opgelost</p>
+        <p>Het paginabezoek WP1, D1 zal aan V1 worden opgelost</p>
+        <p>Pagina bezoek WP2, D1 zal aan V2 worden opgelost</p>
       </td>
       <td>
-        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
         <p>In WP2, geen verandering in D1 trekkertelling</p>
       </td>
     </tr>
@@ -153,11 +151,11 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoeken WP2</p>
       </td>
       <td>
-        <p>Pagina bezoek WP1, D1 zou aan V1 moeten worden opgelost</p>
-        <p>Pagina bezoek WP2, D1 zou aan V1 moeten worden opgelost</p>
+        <p>Het paginabezoek WP1, D1 zal aan V1 worden opgelost</p>
+        <p>Paginabezoek WP2, D1 wordt omgezet naar V1</p>
       </td>
       <td>
-        <p>Het aantal triggers en het aantal contracten voor D1 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers en het aantal contracten voor D1 wordt met 1 verhoogd</p>
         <p>In WP2, geen verandering in om het even welk aantal</p>
       </td>
     </tr>
@@ -170,11 +168,11 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoeken WP2</p>
       </td>
       <td>
-        <p>D1 zou op WP1 moeten worden opgelost</p>
-        <p>D1 zou V1 op WP2 moeten voortzetten</p>
+        <p>D1 zal op WP1 worden opgelost</p>
+        <p>D1 zal V1 op WP2 blijven</p>
       </td>
       <td>
-        <p>Het aantal triggers en het aantal contracten voor D1 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers en het aantal contracten voor D1 wordt met 1 verhoogd</p>
         <p>Geen wijziging van het aantal triggers of afspraken voor D2</p>
       </td>
     </tr>
@@ -186,11 +184,11 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 klikt op D1 maar reageert niet </p>
         <p>V1 bezoeken WP2</p>
       </td>
-      <td>D1 zou op WP1 moeten worden opgelost<br/>
-      D2 zou op WP2 moeten worden opgelost</td>
+      <td>D1 zal op WP1 worden opgelost<br/>
+      D2 zal op WP2 worden opgelost</td>
       <td>
-        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd</p>
-        <p>Het aantal triggers voor D2 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
+        <p>Het aantal triggers voor D2 wordt met 1 verhoogd</p>
       </td>
     </tr>
     <tr>
@@ -201,10 +199,10 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 klikt op D1 en voltooit D1</p>
         <p>V1 bezoeken WP2</p>
       </td>
-      <td>D1 moet op WP1 en na voltooiing worden opgelost<br/>D2 zou op WP2 moeten worden opgelost</td>
+      <td>D1 zal op WP1 en na voltooiing worden opgelost<br/>D2 zal op WP2 worden opgelost</td>
       <td>
-        <p>Het aantal triggers, het aantal contracten en het voltooide aantal voor D1 moeten met 1 worden verhoogd</p>
-        <p>Het aantal triggers voor D2 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers, het aantal contracten en het voltooide aantal voor D1 worden met 1 verhoogd</p>
+        <p>Het aantal triggers voor D2 wordt met 1 verhoogd</p>
       </td>
     </tr>
     <tr>
@@ -216,10 +214,10 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoeken WP2</p>
         <p>V1 klikt op D2 levert de eerste reactie </p>
       </td>
-      <td>D1 moet op WP1 en na voltooiing worden opgelost<br/>D2 zou op WP2 moeten worden opgelost</td>
+      <td>D1 zal op WP1 en na voltooiing worden opgelost<br/>D2 zal op WP2 worden opgelost</td>
       <td>
-        <p>Het aantal triggers, het aantal contracten en het voltooide aantal voor D1 moeten met 1 worden verhoogd</p>
-        <p>Het aantal triggers en contracten voor D2 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers, het aantal contracten en het voltooide aantal voor D1 worden met 1 verhoogd</p>
+        <p>Het aantal triggers en contracten voor D2 wordt met 1 verhoogd</p>
       </td>
     </tr>
     <tr>
@@ -229,9 +227,9 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 klikt op D1 maar reageert niet</p>
         <p>D1 is niet gepubliceerd</p>
       </td>
-      <td>D1 moet worden omgezet naar V1</td>
+      <td>D1 wordt omgezet in V1</td>
       <td>
-        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
         <p>Geen wijziging van het aantal D1-afspraken</p>
       </td>
     </tr>
@@ -244,11 +242,11 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 moet voor de eerste keer worden omgezet in V1</p>
-        <p>Na vernieuwen dient er geen dialoogvenster te worden opgelost</p>
+        <p>D1 zal voor het eerst aan V1 worden opgelost</p>
+        <p>Na vernieuwen wordt er geen dialoogvenster opgelost</p>
       </td>
       <td>
-        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
         <p>Geen wijziging van het aantal D1-afspraken</p>
         <p>Na vernieuwen worden geen wijzigingen aangebracht in de D1-trigger of -betrokkenheidstelling</p>
       </td>
@@ -262,12 +260,12 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 moet worden omgezet naar V1</p>
-        <p>Na vernieuwen moet D1 worden voortgezet</p>
+        <p>D1 wordt omgezet in V1</p>
+        <p>Na vernieuwen wordt D1 voortgezet</p>
       </td>
       <td>
-        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd</p>
-        <p>D1 Het aantal taken moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
+        <p>D1-aantal taken wordt met 1 verhoogd</p>
         <p>Na vernieuwen, aangezien D1 wordt voortgezet zonder verdere wijziging voor het activeren of tellen van betrokkenheid</p>
       </td>
     </tr>
@@ -280,11 +278,11 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 moet voor de eerste keer worden omgezet in V1</p>
-        <p>Na vernieuwen moet het dialoogvenster met nieuwe wijzigingen worden opgelost</p>
+        <p>D1 zal voor het eerst aan V1 worden opgelost</p>
+        <p>Na vernieuwen wordt het dialoogvenster met nieuwe wijzigingen opgelost</p>
       </td>
       <td>
-        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
         <p>Na verfrissen zich, als D1 met nieuwe veranderingen maar geen verdere verandering om telling teweeg te brengen</p>
       </td>
     </tr>
@@ -297,12 +295,12 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 moet voor de eerste keer worden omgezet in V1</p>
-        <p>Na vernieuwen moet het dialoogvenster met oude wijzigingen worden voortgezet</p>
+        <p>D1 zal voor het eerst aan V1 worden opgelost</p>
+        <p>Na vernieuwen wordt het dialoogvenster met oude wijzigingen voortgezet</p>
       </td>
       <td>
-        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd</p>
-        <p>Het aantal contracten voor D1 moet met 1 worden verhoogd </p>
+        <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
+        <p>Het aantal contracten voor D1 wordt met 1 verhoogd </p>
         <p>Na verfrissen zich, aangezien oude D1 zal verschijnen zodat geen verandering om telling teweeg te brengen</p>
       </td>
     </tr>
@@ -316,12 +314,12 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 moet voor de eerste keer worden omgezet in V1</p>
-        <p>Na verfrissen, zou D2 aan V1 moeten worden opgelost</p>
+        <p>D1 zal voor het eerst aan V1 worden opgelost</p>
+        <p>Na verfrissen, zal D2 aan V1 worden opgelost</p>
       </td>
       <td>
-        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd</p>
-        <p>Na verfrissen, zou het trekkeraantal voor D2 met 1 moeten worden verhoogd</p>
+        <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
+        <p>Na verfrissen, zal het trekkeraantal voor D2 met 1 worden verhoogd</p>
       </td>
     </tr>
     <tr>
@@ -335,12 +333,12 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 vernieuwt WP1</p>
       </td>
       <td>
-        <p>D1 moet voor de eerste keer worden omgezet in V1</p>
-        <p>Na verfrissen, zou D2 aan V1 moeten worden opgelost</p>
-        <p>Na het invullen van D1 en D2, ongeacht welke wijzigingen of opnieuw gepubliceerde D1, mag D2 niet opnieuw worden getoond aan V1</p>
+        <p>D1 zal voor het eerst aan V1 worden opgelost</p>
+        <p>Na verfrissen, zal D2 aan V1 worden opgelost</p>
+        <p>Na het invullen van D1 en D2, ongeacht welke wijzigingen of opnieuw gepubliceerde D1, wordt D2 niet opnieuw weergegeven in V1</p>
       </td>
       <td>
-        <p>Het aantal triggers, het aantal contracten en het voltooide aantal voor D1 moeten met 1 worden verhoogd</p>
+        <p>Het aantal triggers, het aantal contracten en het voltooide aantal voor D1 worden met 1 verhoogd</p>
         <p>Vernieuwen nadat D2 is voltooid, geen actie te ondernemen</p>
       </td>
     </tr>
@@ -350,10 +348,10 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoeken WP1</p>
       </td>
       <td>
-        <p>D1 moet worden opgelost, maar zal niet worden geactiveerd tot V1</p>
-        <p>Na 30 seconden moet D1 worden getoond/geactiveerd tot V1</p>
+        <p>D1 zal worden opgelost maar zal niet aan V1 in werking worden gesteld</p>
+        <p>Na 30 seconden wordt D1 getoond/geactiveerd tot V1</p>
       </td>
-      <td>Het aantal triggers voor D1 mag pas met 1 worden verhoogd nadat meer dan 30 seconden is doorgebracht op de webpagina</td>
+      <td>Het aantal triggers voor D1 wordt slechts met 1 verhoogd nadat meer dan 30 seconden is doorgebracht op de webpagina</td>
     </tr>
     <tr>
       <td>
@@ -361,10 +359,10 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoeken WP1, WP2</p>
       </td>
       <td>
-        <p>D1 moet worden opgelost, maar zal niet worden geactiveerd tot V1</p>
-        <p>Na 30 seconden moet D1 worden getoond/geactiveerd tot V1</p>
+        <p>D1 zal worden opgelost maar zal niet aan V1 in werking worden gesteld</p>
+        <p>Na 30 seconden wordt D1 getoond/geactiveerd tot V1</p>
       </td>
-      <td>Het aantal triggers voor D1 mag pas met 1 worden verhoogd nadat meer dan 30 seconden is doorgebracht op de webpagina</td>
+      <td>Het aantal triggers voor D1 wordt slechts met 1 verhoogd nadat meer dan 30 seconden is doorgebracht op de webpagina</td>
     </tr>
     <tr>
       <td>
@@ -372,10 +370,10 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoeken WP1</p>
       </td>
       <td>
-        <p>D1 moet worden opgelost, maar zal niet worden geactiveerd tot V1</p>
-        <p>Na 50% schuiven moet D1 worden getoond/geactiveerd naar V1</p>
+        <p>D1 zal worden opgelost maar zal niet aan V1 in werking worden gesteld</p>
+        <p>Na 50% schuiven wordt D1 weergegeven/geactiveerd voor V1</p>
       </td>
-      <td>Het aantal triggers voor D1 mag pas na 50% schuiven met 1 worden verhoogd</td>
+      <td>Het aantal triggers voor D1 wordt pas met 1 verhoogd wanneer 50% wordt geschoven</td>
     </tr>
     <tr>
       <td>
@@ -384,11 +382,11 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoeken WP1, na 10 seconden V1 bezoeken WP2, V1 bezoeken WP1</p>
       </td>
       <td>
-        <p>Op WP1, zou D1 moeten worden opgelost maar zal niet aan V1 in werking worden gesteld</p>
-        <p>Op WP2 zou D2 moeten worden opgelost maar zal niet aan V1 in werking worden gesteld</p>
-        <p>Op WP1, zou D1 moeten worden opgelost en na 20 seconden zou D1 aan V1 moeten worden teweeggebracht</p>
+        <p>Op WP1, zal D1 worden opgelost maar zal niet aan V1 in werking worden gesteld</p>
+        <p>Op WP2 zal D2 worden opgelost maar niet aan V1 in werking gesteld</p>
+        <p>Op WP1, zal D1 worden opgelost en na 20 seconden zal D1 aan V1 worden teweeggebracht</p>
       </td>
-      <td>Het aantal triggers voor D1 mag pas na 30 seconden met 1 worden verhoogd</td>
+      <td>Het aantal triggers voor D1 wordt slechts na 30 seconden met 1 verhoogd</td>
     </tr>
     <tr>
       <td>
@@ -397,11 +395,11 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 sluit WP1 en komt terug naar WP1 2 dagen later</p>
       </td>
       <td>
-        <p>D1 zou automatisch aan V1 moeten tonen aangezien zij reeds aan de trekkercriteria tijdens de vorige zitting hebben voldaan</p>
-        <p>Dezelfde logica moet van toepassing zijn op "Tijd op pagina" en "Schuifpercentage pagina"</p>
+        <p>D1 zal automatisch aan V1 tonen aangezien zij reeds aan de trekkercriteria tijdens de vorige zitting hebben voldaan</p>
+        <p>Dezelfde logica wordt toegepast op "Tijd op pagina" en "Schuifpercentage pagina"</p>
       </td>
       <td>
-        <p>Het aantal triggers voor D1 moet met 1 worden verhoogd</p>
+        <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
         <p>Na terugkeer, geen actie te ondernemen</p>
       </td>
     </tr>
