@@ -4,18 +4,18 @@ title: reCAPTCHA v3 instellen
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# reCAPTCHA instellen {#setting-up-recaptcha}
+# reCAPTCHA v3 instellen {#setting-up-recaptcha-v3}
 
 Intro-tekst
 
-## reCAPTCHA v3 instellen {#setting-up-recaptcha-v3}
+## Oorspronkelijke reCAPTCHA v3-instelling {#initial-recaptcha-v3-setup}
 
 Tekst: Beschrijf v3 - de volgende stappen worden uitgevoerd buiten Marketo Engage.
 
@@ -47,18 +47,22 @@ Tekst: Beschrijf v3 - de volgende stappen worden uitgevoerd buiten Marketo Engag
 
 ## CAPTCHA instellen in Marketo Engage {#setting-up-captcha-in-marketo-engage}
 
-1. Klik in Marketo op **Beheer** en selecteert u **CAPTCHA**.
+1. Klik in Marketo op **Beheer**.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-1.png)
+
+1. Selecteren **CAPTCHA** in de boom.
+
+   ![](assets/setting-up-recaptcha-v3-2.png)
 
 1. Klikken **Bewerken** op CAPTCHA-instellingen.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-3.png)
 
 1. Klik op de vervolgkeuzelijst CAPTCHA en kies reCAPTCHA v3.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-4.png)
 
 1. Voeg de Geheime sleutel en Sitesleutel in. Klikken **Opslaan** wanneer gereed.
 
-PICC
+   ![](assets/setting-up-recaptcha-v3-5.png)

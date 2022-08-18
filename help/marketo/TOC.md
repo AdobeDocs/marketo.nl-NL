@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: bef1162511ba96fe35a24a227c2ceb90bb5f3c63
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
 source-wordcount: '8807'
 ht-degree: 0%
@@ -711,7 +711,7 @@ ht-degree: 0%
             + [De waarde van een verborgen formulierveld instellen](product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
          + CAPTCHA gebruiken {#using-captcha}
             + [reCAPTCHA v3 instellen](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
-            + [CAPTCHA inschakelen in Marketo Engage](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-engage.md)
+            + [CAPTCHA inschakelen in Marketo Forms](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
       + Afbeeldingen en bestanden {#images-and-files}
          + [Afbeeldingen en bestanden toevoegen aan Marketo](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + [Een geüploade afbeelding of bestand verwijderen](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)

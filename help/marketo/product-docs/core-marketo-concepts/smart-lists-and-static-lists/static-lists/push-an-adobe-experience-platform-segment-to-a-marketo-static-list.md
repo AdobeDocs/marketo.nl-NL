@@ -2,9 +2,9 @@
 description: Een Adobe Experience Platform-segment verplaatsen naar een statische Marketo-lijst - Marketo Docs - Productdocumentatie
 title: Een Adobe Experience Platform-segment naar een statische Marketo-lijst verplaatsen
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: 7f312f97b9515f72aa314509dfaa12b146ad7dc4
+source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    ![](assets/push-an-adobe-experience-platform-segment-8.png)
 
-1. Voer een bestemming in **Naam** en een optionele beschrijving. Klik op de vervolgkeuzelijst Personen maken en kies &quot;Identieke bestaande Marketo-personen en Ontbrekende personen maken in Marketo&quot; _of_ &quot;Alleen voor bestaande Marketo-personen.&quot; In dit voorbeeld kiezen we het eerste. U kunt ook een werkruimte kiezen of gewoon de standaardwerkruimte gebruiken.
+1. Voer een bestemming in **Naam** en een optionele beschrijving. Klik op de vervolgkeuzelijst Personen maken en kies &quot;Identieke bestaande Marketo-personen en Ontbrekende personen maken in Marketo&quot; _of_ &quot;Alleen bestaande Marketo-personen afstemmen&quot; (in dit voorbeeld kiezen we de eerste persoon). U moet ook een **Werkruimte**.
 
    ![](assets/push-an-adobe-experience-platform-segment-9.png)
 
