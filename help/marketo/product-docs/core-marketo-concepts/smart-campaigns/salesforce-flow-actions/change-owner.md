@@ -3,10 +3,9 @@ unique-page-id: 1147021
 description: Eigenaar wijzigen - Marketo Docs - Productdocumentatie
 title: Eigenaar wijzigen
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 44c134811242b4136a3137cdd60e60edeb838c8c
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -27,10 +26,9 @@ Als u bestaande mensen hebt die reeds aan een eigenaar worden toegewezen, kunt u
    >
    >Salesforce staat geen contacten toe om aan loodrijen worden toegewezen. Voor een record die een SFDC-contactpersoon is:
    >
-   >1. Marketo maakt een gedupliceerde lead **only** wanneer de contactpersoon wordt gesynchroniseerd met Salesforce. Met andere woorden, als u **[Persoon synchroniseren met SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** stap laten doorlopen met `AssignTo=<a lead queue>`, maakt Marketo een dubbele lead in Salesforce en wijst het toe aan de hoofdwachtrij.
-      >
-      >
-   1. Als u probeert om **de debietstap van de Eigenaar van de Verandering** op een contact te gebruiken, zal geen duplicaat in Salesforce worden gecreeerd.
+   >1. Marketo maakt een dubbele lead **alleen** als de contactpersoon wordt gesynchroniseerd met Salesforce. Met andere woorden, als u de **[Persoon synchroniseren naar SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** stap doorlopen met `AssignTo=<a lead queue>`, Marketo maakt een dubbele lead in Salesforce en wijst deze toe aan de hoofdwachtrij.
+   >
+   >1. Als u het **Eigenaar wijzigen** In een stroomstap op een contactpersoon maakt Marketo een dubbele lead in Salesforce. U kunt dit voorkomen door een filter in het veld SFDC-type te gebruiken dat de handeling beperkt tot alleen leads.
 
 
    >[!NOTE]
