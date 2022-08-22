@@ -1,12 +1,10 @@
 ---
 description: Dynamische chatactiviteiten - Marketo Docs - Productdocumentatie
 title: Dynamische chatactiviteiten
-hide: true
-hidefromtoc: true
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 24942664d613fa2851bad7a0dd3862027deacf37
+source-git-commit: d5865cb473f984ffb992a6b439c85e58da89e6dc
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -20,6 +18,5 @@ Dynamisch chatten biedt verschillende filters en triggers voor gebruik in uw sli
 ## Notities {#things-to-note}
 
 * Voorwaarden worden ondersteund in dynamische Chat-stroomstappen
-* —Marketo Maatregel—
 * Dynamische chatactiviteiten kunnen worden gesynchroniseerd met [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}
 * U kunt individuele Dynamische activiteiten van het Praatje in het Logboek van de Activiteit van een Persoon- verslag bekijken
