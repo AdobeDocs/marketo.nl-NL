@@ -4,7 +4,7 @@ title: reCAPTCHA v3 instellen
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: 24942664d613fa2851bad7a0dd3862027deacf37
+source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -13,11 +13,27 @@ ht-degree: 0%
 
 # reCAPTCHA v3 instellen {#setting-up-recaptcha-v3}
 
-Intro-tekst
+reCAPTCHA v3 is een wrijvingsloze ervaring die formulierverzendingen scoort op basis van hoe verdacht ze zijn zonder tekst, afbeeldingen of knopuitdagingen te gebruiken. [Meer informatie](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
+
+## Uw datacenter- en Munchkin-id ophalen {#retrieve-your-data-center-and-munchkin-id}
+
+Voor Stap 6 in de Aanvankelijke reCAPTCHA v3 opstellingssectie hieronder, zult u het Centrum van Gegevens van uw Marketo Engage abonnement en Munchkin identiteitskaart nodig hebben. Zo vind je ze.
+
+1. Klik in Marketo op **Beheer**.
+
+   ![](assets/setting-up-recaptcha-v3-1.png)
+
+1. Klikken **Mijn account**.
+
+   ![](assets/setting-up-recaptcha-v3-2.png)
+
+1. Schuif omlaag naar Ondersteuningsinformatie.
+
+   ![](assets/setting-up-recaptcha-v3-3.png)
 
 ## Oorspronkelijke reCAPTCHA v3-instelling {#initial-recaptcha-v3-setup}
 
-Tekst: Beschrijf v3 - de volgende stappen worden uitgevoerd buiten Marketo Engage.
+De volgende stappen worden uitgevoerd buiten Marketo.
 
 1. Ga naar [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target=&quot;_blank&quot;} en klik op v3-Admin Console.
 
@@ -29,11 +45,15 @@ Tekst: Beschrijf v3 - de volgende stappen worden uitgevoerd buiten Marketo Engag
 
 1. Tekst kiezen **reCAPTCHA v3**. Marketo Engage biedt momenteel geen ondersteuning voor reCAPTCHA v2.
 
-1. Voeg elk domein toe het Marketo Engage abonnement gebruikt. Domeinen die hier niet zijn ingesteld, retourneren fouten op formulieren waarvoor reCAPTCHA is ingeschakeld.
+1. Voeg elk domein toe het Marketo Engage abonnement gebruikt. Domeinen die hier niet zijn ingesteld, retourneren fouten op formulieren waarvoor reCAPTCHA is ingeschakeld. Vergeet niet de woorden &#39;datacenter&#39; en &#39;munchkinID&#39; te vervangen door de woorden [gegevens in uw abonnement](#retrieve-your-data-center-and-munchkin-id).
 
-   * 123-ABC-456.mktoweb.com
-   * app-pod.marketo.com
+   * app-datacenter.marketo.com
+   * munchkinID.mktoweb.com
    * elk domein en alias van de landingspagina dat in het abonnement is geconfigureerd
+
+   >[!NOTE]
+   >
+   >Als het datacenter van uw account bijvoorbeeld &quot;sjst&quot; is, is het domein dat u voegt op lijst van gewenste personen `app-sjst.marketo.com`. Als uw Munchkin-id 123-ABC-789 is, is het domein dat u voegt op lijst van gewenste personen `123-ABC-789.mktoweb.com`.
 
 1. Stel een eigenaar in en voeg een e-mailadres toe waar waarschuwingen over deze service moeten worden ontvangen.
 
@@ -49,20 +69,20 @@ Tekst: Beschrijf v3 - de volgende stappen worden uitgevoerd buiten Marketo Engag
 
 1. Klik in Marketo op **Beheer**.
 
-   ![](assets/setting-up-recaptcha-v3-1.png)
+   ![](assets/setting-up-recaptcha-v3-4.png)
 
 1. Selecteren **CAPTCHA** in de boom.
 
-   ![](assets/setting-up-recaptcha-v3-2.png)
+   ![](assets/setting-up-recaptcha-v3-5.png)
 
 1. Klikken **Bewerken** op CAPTCHA-instellingen.
 
-   ![](assets/setting-up-recaptcha-v3-3.png)
+   ![](assets/setting-up-recaptcha-v3-6.png)
 
 1. Klik op de vervolgkeuzelijst CAPTCHA en kies reCAPTCHA v3.
 
-   ![](assets/setting-up-recaptcha-v3-4.png)
+   ![](assets/setting-up-recaptcha-v3-7.png)
 
 1. Voeg de Geheime sleutel en Sitesleutel in. Klikken **Opslaan** wanneer gereed.
 
-   ![](assets/setting-up-recaptcha-v3-5.png)
+   ![](assets/setting-up-recaptcha-v3-8.png)
