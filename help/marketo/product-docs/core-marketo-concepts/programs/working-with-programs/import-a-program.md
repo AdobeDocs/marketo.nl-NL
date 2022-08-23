@@ -3,9 +3,9 @@ unique-page-id: 1147108
 description: Een programma importeren - Marketo Docs - Productdocumentatie
 title: Een programma importeren
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
-source-git-commit: b0b1d176ef3471d8d02eb7601cbe7182a60b0e63
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het andere. U kunt bijvoorbeeld een programma maken in een sandbox en dit vervolgens importeren in uw live abonnement. Bovendien kunt u een vooraf gebouwd programma importeren uit de Marketo Program Library.
 
-## Een programma importeren {#import-a-program-1}
+## Een programma importeren {#importing-a-program}
 
 1. Ga naar **Marketingactiviteiten.**
 
@@ -46,11 +46,15 @@ Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het a
 
    ![](assets/import-a-program-5.png)
 
+   >[!NOTE]
+   >
+   >Het invoeren van een programma dat de Stappen van de Stroom van de Douane, of de Slimme regels van de Lijst gebruikt die van de Dienst van de Stap van de Stroom in een bestemmingsinstantie worden afgeleid waar er meer dan één compatibele dienstverlener is, zal de het invoeren gebruiker worden ertoe aangezet om stappen of regels aan de correcte dienstverlener in de bestemmingsinstantie toe te wijzen.
+
 1. Details voorvertonen en **Importeren** het programma.
 
    ![](assets/import-a-program-6.png)
 
-U ontvangt een e-mailbevestiging nadat het importeren is voltooid.
+U ontvangt een e-mailbevestiging zodra het importeren is voltooid.
 
 >[!NOTE]
 >
@@ -67,7 +71,7 @@ De Marketo Program Library bevat vooraf gebouwde, geteste programma&#39;s die u 
 1. **Interesserende momenten.** Creeert interessante momenten voor uw verkoopteam om hen in de lijn te houden.
 1. **Openingspagina met Autoresponder.** Gebruik downloadbare inhoud om nieuwe mensen te krijgen en te voeden. Inclusief openingspagina&#39;s en formulieren.
 1. **Levenscyclus 2.** Gebruikt score om een persoon van nieuw aan marketing gekwalificeerd te bewegen.
-1. **Mobile-e-mailsjabloon.** Een responsieve e-mailsjabloon die is getest op iPhone en Android. Bepaalde versies van Android-, MS Outlook-, Exchange- en apps van derden, zoals Gmail en Yahoo! Mobiele apps voor e-mail bieden geen ondersteuning voor de CSS die vereist is voor responsieve sjablonen. We raden je aan te testen voordat je e-mailberichten verzendt.
+1. **Mobiele e-mailsjabloon.** Een responsieve e-mailsjabloon die is getest op iPhone en Android. Bepaalde versies van Android-, MS Outlook-, Exchange- en apps van derden, zoals Gmail en Yahoo! Mobiele apps voor e-mail bieden geen ondersteuning voor de CSS die vereist is voor responsieve sjablonen. We raden je aan te testen voordat je e-mailberichten verzendt.
 1. **Programma Import Sweepstakes.** Zoek naar een programma voor degenen die de programmabibliotheek proberen! Goedkeuren van de e-mails en de bestemmingspagina en activeren de slimme campagne. Geef vervolgens de goedgekeurde bestemmingspagina weer, vul het formulier in en u bent ingegaan!
 1. **Beschikbare verkoopcampagnes.** Biedt uw verkopers een manier om slimme campagnes van Marketo van een Dashboard in uw CRM uit te voeren.
 1. **Scoring - Spark Edition.** Demografische en gedragsscoring die in één enkel scoreveld is vastgelegd. Bevat meer dan twee dozijn scoring-campagnes.

@@ -4,16 +4,16 @@ title: reCAPTCHA v3 instellen
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: cdc8d5f3322b9d19d50f9f4bd8156b7e3a627977
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # reCAPTCHA v3 instellen {#setting-up-recaptcha-v3}
 
-reCAPTCHA v3 is een wrijvingsloze ervaring die formulierverzendingen scoort op basis van hoe verdacht ze zijn zonder tekst, afbeeldingen of knopuitdagingen te gebruiken. [Meer informatie](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
+ReCAPTCHA v3 is een frictioneloze ervaring die formulierverzendingen scoort op basis van hoe verdacht ze zijn zonder tekst, afbeeldingen of knopuitdagingen te gebruiken. [Meer informatie](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
 
 ## Uw datacenter- en Munchkin-id ophalen {#retrieve-your-data-center-and-munchkin-id}
 
@@ -61,9 +61,9 @@ De volgende stappen worden uitgevoerd buiten Marketo.
 
 1. Klikken **Verzenden**.
 
->[!NOTE]
->
->Houd de plaatssleutel en geheime sleutel handig voor de configuratie van Marketo Engage.
+   >[!NOTE]
+   >
+   >Houd de plaatssleutel en geheime sleutel handig voor de configuratie van Marketo Engage.
 
 ## CAPTCHA instellen in Marketo Engage {#setting-up-captcha-in-marketo-engage}
 

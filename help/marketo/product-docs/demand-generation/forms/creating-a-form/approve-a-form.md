@@ -2,20 +2,19 @@
 unique-page-id: 2359578
 description: Een formulier goedkeuren - Marketo Docs - Productdocumentatie
 title: Een formulier goedkeuren
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
+source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
-
-# Een formulier {#approve-a-form} goedkeuren
+# Een formulier goedkeuren {#approve-a-form}
 
 Als u een formulier aan een van uw bestemmingspagina&#39;s wilt toevoegen, moet het zijn goedgekeurd. Zo doe je het.
 
-## Een formulier {#approve-a-form-1} goedkeuren
+## Een formulier goedkeuren {#approve-a-form-1}
 
 Hieronder wordt beschreven hoe u een bestaand formulier goedkeurt dat klaar is om te worden gebruikt.
 
@@ -27,7 +26,7 @@ Hieronder wordt beschreven hoe u een bestaand formulier goedkeurt dat klaar is o
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. Klik onder **Formulierhandelingen** op **Goedkeuren**.
+1. Onder **Formulierhandelingen**, klikt u op **Goedkeuren**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -35,11 +34,11 @@ Hieronder wordt beschreven hoe u een bestaand formulier goedkeurt dat klaar is o
 
    ![](assets/image2014-9-15-17-3a50-3a2.png)
 
-   Het is goedgekeurd en klaar om [aan een landingspagina ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) worden toegevoegd.
+   Het is goedgekeurd en klaar om te zijn [toegevoegd aan een bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
 
    >[!NOTE]
    >
-   >Wijzigingen die u na goedkeuring aanbrengt, kunnen maximaal vier minuten in beslag nemen om bij te werken op ingesloten formulieren.
+   >Wijzigingen die u na goedkeuring aanbrengt, kunnen enkele minuten duren om bij te werken op ingesloten formulieren.
 
 ## Een formulier goedkeuren in de Editor {#approve-a-form-from-the-editor}
 
@@ -47,19 +46,12 @@ Als u wijzigingen aanbrengt in een formulier, kunt u de pagina rechtstreeks vanu
 
 >[!PREREQUISITES]
 >
->* [Een formulier bewerken](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
+>[Een formulier bewerken](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-
-1. Klik **Voltooien**.
+1. Klikken **Voltooien**.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. Klik **Goedkeuren en Sluiten**.
+1. Klikken **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)
-
->[!NOTE]
->
->Herinner me, als u het formulier uitgeeft nadat het is goedgekeurd, zult u [de landende pagina ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) moeten goedkeuren om de veranderingen te zien.
-
-Dat is het! Gemakkelijk zoals kan.
