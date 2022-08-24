@@ -2,9 +2,9 @@
 description: Dialoogoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van dialoogvensters
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 27e70ce28c2da78ebe607e107f69528b6cb60183
+source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -30,3 +30,15 @@ De [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/d
 De [Rapporten](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)In de sectie {target=&quot;_blank&quot;} van een dialoogvenster kunt u metingen bekijken over de prestaties van het dialoogvenster.
 
 ![](assets/dialogue-overview-3.png)
+
+## Alle dialoogvensters in-/uitschakelen {#disable-enable-all-dialogues}
+
+U kunt alle gepubliceerde dialoogvensters tegelijkertijd uitschakelen (en weer inschakelen).
+
+1. Klik in Dynamisch chatten op de knop **Configuratie** tab.
+
+   ![](assets/dialogue-overview-4.png)
+
+1. Schakelen tussen **Chat ingeschakeld** Schakel uit om alle dialoogvensters uit te schakelen (en weer in te schakelen om weer in te schakelen).
+
+   ![](assets/dialogue-overview-5.png)
