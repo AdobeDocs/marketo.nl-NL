@@ -3,10 +3,9 @@ unique-page-id: 10097447
 description: Databasedashboard - Marketo Docs - Productdocumentatie
 title: Databasedashboard
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
-translation-type: tm+mt
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+source-git-commit: 1de5fe50189da04ccdbcdcd017e294e5b8cba1af
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -19,22 +18,18 @@ Het databasedashboard fungeert als momentopname om u te helpen snel belangrijke 
 >
 >Elke werkruimte heeft een eigen databasedashboard.
 
-Om daar te krijgen, kunt u **de tegel van het Gegevensbestand** op uw huisscherm klikken...
+Selecteer **Database** uit Mijn Marketo.
 
-![](assets/db-3.png)
+![](assets/database-dashboard-1.png)
 
-Of klik het embleem van Marketo en selecteer **Gegevensbestand**.
+De grafieken geven het totale aantal personen, het aantal verhandelbare personen en uw vijf belangrijkste bronnen voor het aanschaffen van personen aan. Houd groene gebieden boven voor meer details.
 
-![](assets/db2.png)
-
-De grafieken geven het totale aantal personen, het aantal verhandelbare personen en uw vijf belangrijkste bronnen voor het aanschaffen van personen aan.
-
-![](assets/three-7.png)
+![](assets/database-dashboard-2.png)
 
 >[!TIP]
 >
->Wilt u meer specifieke of actuele informatie over uw mensen opvragen? Probeer een [Rapport van de Prestaties van Mensen](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
+>Wilt u meer specifieke of actuele informatie over uw mensen opvragen? Probeer een [Rapport over prestaties van mensen](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md).
 
-**Totaal aantal personen:** het aantal personen in alle tijd voor die werkruimte.
+**Totaal aantal personen:** Het aantal personen in alle tijd voor de vermelde werkruimte.
 
-**Verhandelbare personen:** het aantal personen dat zich in de werkruimte bevindt,  _min het volgende_: mensen zonder e-mailadres, mensen met een moeilijk te ontvangen e-mailadres, mensen die zijn op de lijst met ongewenste personen staan, mensen die zich niet hebben geabonneerd, mensen die momenteel op Marketing zijn geschorst.
+**Verhandelbare personen:** Het aantal mensen in alle tijd voor de vermelde werkruimte, _min de volgende_: mensen zonder e-mailadres, mensen met een moeilijk te ontvangen e-mailadres, mensen die zijn op de lijst met ongewenste personen staan, mensen die zich niet hebben geabonneerd, mensen die momenteel op Marketing zijn geschorst.
