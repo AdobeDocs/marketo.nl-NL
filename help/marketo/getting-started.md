@@ -3,10 +3,10 @@ unique-page-id: 1147226
 description: Aan de slag - Marketo Docs - Productdocumentatie
 title: Aan de slag
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 5d7c30fe818e37ba86152953d19937e39c7426f5
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '135'
+ht-degree: 9%
 
 ---
 
@@ -22,7 +22,7 @@ Wat vraagt Marketo u? Geweldige vraag!
 
 Met een beetje hulp van uw IT-team kunt u het snel doen.
 
-[Setup starten](/help/marketo/getting-started/setup-steps.md)
+[Setup starten](/help/marketo/getting-started/setup/setup-steps.md)
 
 ## STAP 3 Snel wint {#get-some-quick-wins}
 
@@ -35,7 +35,7 @@ Voltooi deze missies om de kernfuncties van Marketo te leren.
       <img alt="Verbinden" src="getting-started/assets/getting-started-1.png"/>
     </a>
     <div>
-    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Opzetten en een persoon toevoegen</a>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Instellen en een persoon toevoegen</a>
     </div>
     <br>
   </td>
@@ -43,7 +43,7 @@ Voltooi deze missies om de kernfuncties van Marketo te leren.
       <a href="getting-started/quick-wins/send-an-email.md">
        <img alt="Importeren" src="getting-started/assets/getting-started-2.png" />
        </a>
-    <div><a href="getting-started/quick-wins/send-an-email.md">2. Een e-mail verzenden</a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2. E-mail verzenden</a>
     </div>
     <br>
   </td>
@@ -52,7 +52,7 @@ Voltooi deze missies om de kernfuncties van Marketo te leren.
       <img alt="E-mail" src="getting-started/assets/getting-started-3.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. De Pagina van het landen met een Vorm</a>
+    <a href="getting-started/quick-wins/landing-page-with-a-form.md">3. Openingspagina met formulier</a>
     </div>
     <br>
   </td>
@@ -61,7 +61,7 @@ Voltooi deze missies om de kernfuncties van Marketo te leren.
       <img alt="Verbinden" src="getting-started/assets/getting-started-4.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/simple-scoring.md">4. Eenvoudig scoren</a>
+    <a href="getting-started/quick-wins/simple-scoring.md">4. Eenvoudige scores</a>
     </div>
     <br>
   </td>
@@ -69,7 +69,7 @@ Voltooi deze missies om de kernfuncties van Marketo te leren.
       <a href="getting-started/quick-wins/email-auto-response.md">
        <img alt="Importeren" src="getting-started/assets/getting-started-5.png" />
        </a>
-    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Automatische e-mailrespons</a>
+    <div><a href="getting-started/quick-wins/email-auto-response.md">5. Automatische reactie e-mail</a>
     </div>
     <br>
   </td>
@@ -106,7 +106,7 @@ Voltooi deze missies om de kernfuncties van Marketo te leren.
       <img alt="E-mail" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. De verkoper waarschuwen</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Waarschuwing voor verkoper</a>
     </div>
     <br>
   </td>

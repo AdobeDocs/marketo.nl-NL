@@ -3,7 +3,7 @@ unique-page-id: 2949471
 description: Controlelijst voor installatie - Marketo Docs - Productdocumentatie
 title: Controlelijst instellen
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Controlelijst instellen {#setup-checklist}
 
-Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst om dingen aan de slag te krijgen. Details vindt u in [Stappen instellen](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}.
+Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst om dingen aan de slag te krijgen. Details vindt u in [Stappen instellen](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}.
 
 ## Aanmelden bij Marketo en extra gebruikers maken {#log-in-to-marketo-and-create-additional-users}
 
@@ -50,4 +50,4 @@ Welkom bij Marketo! U kunt de volgende checklist gebruiken als een visuele lijst
 
 >[!MORELIKETHIS]
 >
->[Stappen instellen](/help/marketo/getting-started/setup-steps.md){target=&quot;_blank&quot;}
+>[Stappen instellen](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
