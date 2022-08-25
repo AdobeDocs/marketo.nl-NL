@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Stappen instellen - Marketo Docs - Productdocumentatie
 title: Stappen instellen
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -199,7 +199,7 @@ U hebt nu alle informatie die u nodig hebt om uw verzoek naar IT te verzenden.
 
 Zodra u alle benodigde informatie hebt verzameld, kunt u een aanvraag naar de IT-afdeling sturen. U kunt de onderstaande tekst als een sjabloon gebruiken en de vetgedrukte tekst vervangen door uw eigen gegevens.
 
-[Een koppeling naar dit artikel opnemen](/help/marketo/getting-started/setup-steps/configure-protocols-for-marketo.md).
+[Een koppeling naar dit artikel opnemen](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
 
 Plak deze tekst in het e-mailbericht en vervang de gebrande plaatsaanduidingen:
 
