@@ -4,9 +4,9 @@ title: reCAPTCHA v3 instellen
 hide: true
 hidefromtoc: true
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '354'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,10 @@ De volgende stappen worden uitgevoerd buiten Marketo.
    >Houd de plaatssleutel en geheime sleutel handig voor de configuratie van Marketo Engage.
 
 ## CAPTCHA instellen in Marketo Engage {#setting-up-captcha-in-marketo-engage}
+
+>[!IMPORTANT]
+>
+>Nadat u deze stappen uitvoert en [CAPTCHA inschakelen in uw eerste Marketo-formulier](help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;}, moet u het formulier meteen testen, omdat elke vorm van verkeerde configuratie in de reCAPTCHA-instelling het formulier kan verbreken.
 
 1. Klik in Marketo op **Beheer**.
 
