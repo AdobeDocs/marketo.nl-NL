@@ -2,9 +2,9 @@
 description: Configuratie - Marketo Docs - Productdocumentatie
 title: Configuratie
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,10 @@ Met het anker kan uw sitebezoeker het chatbox openen of sluiten. U kunt kiezen o
 In de Montages van de Agent, kunt u een etiket aan uw praatbox toevoegen (bijvoorbeeld: &quot;Adobe Bot&quot;) die bovenaan wordt weergegeven. U kunt de reactievertraging (in seconden) ook bepalen, en uw praatjeavatar veranderen. Als u uw eigen avatar-afbeelding wilt uploaden, klikt u op de knop **+** knop.
 
 ![](assets/configuration-5.png)
+
+>[!NOTE]
+>
+>Aangepaste avatars moeten vierkante afbeeldingen zijn van minder dan 256 kb en kleiner dan 200 x 200 px. Tot de ondersteunde bestandstypen behoren: .jpg, .png, .gif, .webp, .svg.
 
 Wanneer u klaar bent met het aanbrengen van veranderingen, herinner me om te klikken **Opslaan**.
 
