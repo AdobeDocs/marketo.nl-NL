@@ -3,7 +3,7 @@ unique-page-id: 2949469
 description: Stappen instellen - Marketo Docs - Productdocumentatie
 title: Stappen instellen
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
 workflow-type: tm+mt
 source-wordcount: '2002'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Sommige stappen vereisen hulp van uw team van IT.
 
 >[!TIP]
 >
->Als u [deze checklist afdrukken](/help/marketo/getting-started/setup-steps/setup-checklist.md){target=&quot;_blank&quot;} kunt u items uitchecken wanneer u ze hebt voltooid.
+>Als u [deze checklist afdrukken](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;} kunt u items uitchecken wanneer u ze hebt voltooid.
 
 ## Aanmelden en extra Marketo-gebruikers maken {#log-in-and-create-additional-marketo-users}
 
