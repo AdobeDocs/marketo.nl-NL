@@ -2,16 +2,16 @@
 description: Schakelen tussen Marketo-documenten - productdocumentatie
 title: Schakelaar schakelen
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 917b74a9175707b9475a5d07eb116cde738f6f13
+source-git-commit: a7eeee24fb494c42a6992fc049311f63c6217b54
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Schakelaar schakelen {#toggle-switch}
 
-Met de schakeloptie kunt u schakelen tussen de klassieke Marketo-interface en de Marketo Engage-ervaring van de volgende generatie. Het is beschikbaar in alle hieronder gemarkeerde gebieden. Vanaf de release van mei 2022 wordt de volgende generatie standaard ingeschakeld.
+Met de schakeloptie kunt u schakelen tussen de klassieke Marketo-interface en de Marketo Engage-ervaring van de volgende generatie. Het is beschikbaar in alle hieronder gemarkeerde gebieden.
 
 >[!NOTE]
 >
@@ -33,132 +33,37 @@ Schakel de schakeloptie voor afzonderlijke rollen of alle rollen in. Zo gaat het
 
    ![](assets/toggle-switch-3.png)
 
-## Weergave landingspagina {#landing-page-list-view}
+## Inschakelen voor functies {#enable-for-features}
 
-De volgende-gen Landing van de lijstmening van de Pagina biedt onderzoeksfilters en de capaciteit aan om massa uit te voeren die de acties van de Pagina.
+U kunt de volgende-gen interface van Marketo handmatig inschakelen voor afzonderlijke functies of voor alle beschikbare (huidige en toekomstige) functies.
 
-1. Selecteer in Marketo **Design Studio**.
+In een gebied dat momenteel de Schakelaar van de Knevel (in dit voorbeeld zijn wij in de Mening van de Lijst E-mail) heeft, klik eenvoudig de knevel op het bodemrecht van de pagina.
 
-   ![](assets/toggle-switch-4.png)
-
-1. Selecteren **Openingspagina&#39;s**.
-
-   ![](assets/toggle-switch-5.png)
-
-1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
-
-   ![](assets/toggle-switch-6.png)
+![](assets/toggle-switch-4.png)
 
 De nieuwe ervaring wordt geladen.
+
+![](assets/toggle-switch-5.png)
+
+Als u deze wilt inschakelen voor _alles_ klikt u op het tandwielpictogram naast de schakelknop.
+
+![](assets/toggle-switch-6.png)
+
+Selecteren **Inschakelen voor alle beschikbare functies** en klik op **OK**.
 
 ![](assets/toggle-switch-7.png)
 
-## Weergave Landingspagina {#landing-page-details-view}
+## Beschikbare functies {#available-features}
 
-1. Zoek in Marketo de bestemmingspagina en selecteer deze.
+De volgende functies zijn momenteel beschikbaar in de Marketo next-gen interface (met nieuwe functies toegevoegd bij elke release):
 
-   ![](assets/toggle-switch-8.png)
-
-1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
-
-   ![](assets/toggle-switch-9.png)
-
-De nieuwe ervaring wordt geladen.
-
-![](assets/toggle-switch-10.png)
-
-## Formuliergegevens pagina {#form-details-page}
-
-1. Zoek en selecteer het formulier in Marketo.
-
-   ![](assets/toggle-switch-11.png)
-
-1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
-
-   ![](assets/toggle-switch-12.png)
-
-De nieuwe ervaring wordt geladen.
-
-![](assets/toggle-switch-13.png)
-
-## Formulierlijstweergave {#form-list-view}
-
-1. Selecteer in Marketo **Design Studio**.
-
-   ![](assets/toggle-switch-14.png)
-
-1. Selecteren **Forms**.
-
-   ![](assets/toggle-switch-15.png)
-
-1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
-
-   ![](assets/toggle-switch-16.png)
-
-De nieuwe ervaring wordt geladen.
-
-![](assets/toggle-switch-17.png)
-
-## E-mailsjabloondetails weergeven {#email-template-details-view}
-
-1. Selecteer in Marketo **Design Studio**.
-
-   ![](assets/toggle-switch-18.png)
-
-1. Selecteer de gewenste e-mailsjabloon.
-
-   ![](assets/toggle-switch-19.png)
-
-1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
-
-   ![](assets/toggle-switch-20.png)
-
-De nieuwe ervaring wordt geladen.
-
-![](assets/toggle-switch-21.png)
-
-## E-maildetails weergeven {#email-details-view}
-
-1. Zoek en selecteer je e-mailadres in Marketo.
-
-   ![](assets/toggle-switch-22.png)
-
-1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
-
-   ![](assets/toggle-switch-23.png)
-
-De nieuwe ervaring wordt geladen.
-
-![](assets/toggle-switch-24.png)
-
-## E-maillijstweergave {#email-list-view}
-
-De e-maillijstweergave van de volgende generatie biedt zoekfilters en de mogelijkheid om massa-e-mailhandelingen uit te voeren.
-
-1. Selecteer in Marketo **Design Studio**.
-
-   ![](assets/toggle-switch-25.png)
-
-1. Selecteren **E-mails**.
-
-   ![](assets/toggle-switch-26.png)
-
-1. Klik rechtsonder op de pagina op de knop **Nieuwe ervaring** schakelen.
-
-   ![](assets/toggle-switch-27.png)
-
-De nieuwe ervaring wordt geladen.
-
-![](assets/toggle-switch-28.png)
-
-## Inschakelen voor alle functies {#enable-for-all-features}
-
-U kunt de volgende-gen interface van Marketo handmatig inschakelen voor alle beschikbare functies, zowel de huidige als de toekomstige.
-
-1. In een gebied dat momenteel de Schakelaar van de Wissel heeft (in dit voorbeeld zijn wij binnen [Formuliergegevens pagina](#form-details-page)), klikt u op het tandwielpictogram rechtsonder op de pagina.
-
-   ![](assets/toggle-switch-second-last.png)
-
-1. Selecteren **Inschakelen voor alle beschikbare functies** en klik op **OK**.
-
-   ![](assets/toggle-switch-last.png)
+* E-maildetails weergeven
+* E-maillijstweergave
+* E-mailsjabloondetails weergeven
+* Dashboardweergave e-mailen
+* Formulierdetails weergeven
+* Formulierlijstweergave
+* Pagina met details over afbeeldingen en bestanden
+* Weergave Landingspagina
+* Weergave landingspagina
+* Gedetailleerde weergave van fragmenten
