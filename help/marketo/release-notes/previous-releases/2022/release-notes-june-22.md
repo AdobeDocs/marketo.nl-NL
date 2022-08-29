@@ -1,9 +1,10 @@
 ---
 description: Opmerkingen bij de release - juni 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - juni 2022
-source-git-commit: 4bff61b90cbbe9466c23d9b003378eb72570f56c
+exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
+source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '649'
 ht-degree: 0%
 
 ---
@@ -75,4 +76,4 @@ De volgende functies worden vrijgegeven op **24 juni 2022**, met een gefaseerde 
 
 **_Webinar productrelease_**
 
-Doe mee op 24 augustus 2022 om 9:00 uur PT / 12:00 uur ET voor een [levende webinar](https://engage.marketo.com/2022_June_August_Release_Webinar_RegistrationPage.html){target=&quot;_blank&quot;} wordt gehost door ons productteam, waar u kunt leren hoe u alle nieuwste productinnovaties kunt gebruiken.
+[Release Webinar van juni en augustus 2022 Marketo Engage](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
