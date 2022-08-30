@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ De volgende functies worden vrijgegeven op **26 augustus 2022**, met een gefasee
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-* **Alle gepubliceerde dialoogvensters tegelijk inschakelen/uitschakelen voor dynamisch chatten**: Globaal laat/maakt alle gepubliceerde Dialogen in één keer van de pagina van de Configuratie met de pers van een knoop toe.
+* **[Alle gepubliceerde dialoogvensters tegelijk inschakelen/uitschakelen voor dynamisch chatten](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Globaal laat/maakt alle gepubliceerde Dialogen in één keer van de pagina van de Configuratie met de pers van een knoop toe.
 
 * **Aangepaste Avatars voor dynamische chat**: Upload een aangepaste chatbot avatar zodat deze aan uw merk kan worden aangepast.
 
