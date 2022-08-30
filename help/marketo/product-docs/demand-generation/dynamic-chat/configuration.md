@@ -2,7 +2,7 @@
 description: Configuratie - Marketo Docs - Productdocumentatie
 title: Configuratie
 exl-id: aff17715-b178-4468-b06f-22b3fe3c18ce
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Er zijn verschillende aanpassingsopties.
 
 ## Tabblad Stijl {#style-tab}
 
-**Stijl**
+### Stijl {#style}
 
 Dit is waar u de blik en het gevoel van het praatje zult bepalen waar uw Dialogen zullen worden getoond, met inbegrip van: kleuren, lettertypen, plaatsing van de bot-widget en de naam/avatar van de chatbot.
 
@@ -35,7 +35,7 @@ Met het anker kan uw sitebezoeker het chatbox openen of sluiten. U kunt kiezen o
 
 ![](assets/configuration-4.png)
 
-**Instellingen agent**
+### Instellingen agent {#agent-settings}
 
 In de Montages van de Agent, kunt u een etiket aan uw praatbox toevoegen (bijvoorbeeld: &quot;Adobe Bot&quot;) die bovenaan wordt weergegeven. U kunt de reactievertraging (in seconden) ook bepalen, en uw praatjeavatar veranderen. Als u uw eigen avatar-afbeelding wilt uploaden, klikt u op de knop **+** knop.
 

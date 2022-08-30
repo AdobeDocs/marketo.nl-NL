@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4f79308986a323c248f55c32f0d1db0d9811e6b3
+source-git-commit: 031e5ad328d49042f9c96ded63f1e719f1c377c7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ De volgende functies worden vrijgegeven op **26 augustus 2022**, met een gefasee
 
 * **[Alle gepubliceerde dialoogvensters tegelijk inschakelen/uitschakelen voor dynamisch chatten](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md#disable-enable-all-dialogues){target=&quot;_blank&quot;}**: Globaal laat/maakt alle gepubliceerde Dialogen in één keer van de pagina van de Configuratie met de pers van een knoop toe.
 
-* **Aangepaste Avatars voor dynamische chat**: Upload een aangepaste chatbot avatar zodat deze aan uw merk kan worden aangepast.
+* **[Aangepaste Avatars voor dynamische chat](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md#agent-settings){target=&quot;_blank&quot;}**: Upload een aangepaste chatbot avatar zodat deze aan uw merk kan worden aangepast.
 
 * **Chattranscripties voor dynamische chat**: Chattranscripties weergeven voor elk gesprek om meer inzicht te krijgen in wat elke webbezoeker interesseert.
 
@@ -33,7 +33,7 @@ De volgende functies worden vrijgegeven op **26 augustus 2022**, met een gefasee
 
 * **Maphiërarchie van doelmap weergeven in het dialoogvenster Verplaatsen**: Als u de maphiërarchie voor elke map bekijkt, kunt u elementen gemakkelijker verplaatsen en de kans verminderen dat u ze in de verkeerde map plaatst.
 
-* **Bijgewerkte schermen in de volgende generatie ervaring**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
+* **[Bijgewerkte schermen in de volgende generatie ervaring](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
 
    * Fragmentdetails
    * Details &quot;Afbeeldingen en bestanden&quot;
@@ -44,7 +44,7 @@ De volgende functies worden vrijgegeven op **26 augustus 2022**, met een gefasee
 
 ## Experience Automation {#experience-automation}
 
-* **Self-Service Flow Stappen - Verbeteringen voor programmaimport**: Verbeterde ondersteuning voor het importeren van programma&#39;s met aangepaste stroomstappen, waarbij u nu meerdere exemplaren van dezelfde serviceprovider kunt gebruiken en programma&#39;s met stroomstappen kunt importeren die compatibel zijn met deze serviceproviders.
+* **[Self-Service Flow Stappen - Verbeteringen voor programmaimport](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target=&quot;_blank&quot;}**: Verbeterde ondersteuning voor het importeren van programma&#39;s met aangepaste stroomstappen, waarbij u nu meerdere exemplaren van dezelfde serviceprovider kunt gebruiken en programma&#39;s met stroomstappen kunt importeren die compatibel zijn met deze serviceproviders.
 
 * **Munchkin - Uitgebreide koppeling bijhouden**: Ondersteuning voor bijhouden van `tel` en `mailto` koppelingen met Munchkin om een uitgebreide set webgedragingen bij te houden.
 
@@ -68,7 +68,7 @@ De volgende functies worden vrijgegeven op **26 augustus 2022**, met een gefasee
 
 ![(ster)](assets/yellow-star.png)
 
-* **Integratie van het Inzicht van de verkoop met Dynamische Chat**: U kunt activiteiten van Dynamic Chat weergeven in het paneel Verkoopinzicht en dit nieuwe gegevenspunt gebruiken voor uw prospectie.
+* **[Integratie van het Inzicht van de verkoop met Dynamische Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: U kunt activiteiten van Dynamic Chat weergeven in het paneel Verkoopinzicht en dit nieuwe gegevenspunt gebruiken voor uw prospectie.
 
 ## Aankondigingen {#announcements}
 
