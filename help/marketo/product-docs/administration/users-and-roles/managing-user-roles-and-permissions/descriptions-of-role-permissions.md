@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Beschrijvingen van roltoestemmingen - de Documenten van Marketo - de Documentatie van het Product
 title: Beschrijvingen van rolmachtigingen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: cc66f4ff2e3e0e6ddfabab91215e3ad31f3b9226
+source-git-commit: 1f5a6ab994ccb81ff32f39ac32eef6a37aeab192
 workflow-type: tm+mt
-source-wordcount: '1146'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
@@ -162,7 +162,6 @@ Bekijk de database en bekijk en bewerk slimme/statische lijsten.
    * Segmentatie verwijderen
    * Segmentering bewerken
 
-* Geavanceerde lijstimport
 * Persoon verwijderen
 * Lijst verwijderen
 * Persoon bewerken - Hiermee voorkomt u handmatig bewerken en doorlopen van stappen in één stroom. u kunt mensen nog steeds bewerken door campagnes tegen hen uit te voeren
