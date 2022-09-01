@@ -3,9 +3,9 @@ unique-page-id: 2359418
 description: Een lijst met personen importeren - Marketo Docs - Productdocumentatie
 title: Een lijst met personen importeren
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a61f9c2bbfd7c6b4c34fd1731698dc90ad1bd6cf
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
 1. Download ons werkbladbestand ([**tradeshow-aanwezigen.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target=&quot;_blank&quot;}) naar uw computer.
 
-   ![](assets/image2014-9-24-12-3a5-3a0.png)
+   ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
@@ -36,7 +36,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
 1. Voeg uw eigen voornaam, achternaam, feitelijk e-mailadres toe (zodat u de verzorgende e-mails kunt ontvangen die u in de volgende missie verzendt) en functie. Sla het bestand op uw computer op.
 
-   ![](assets/image2014-9-24-12-3a5-3a30.png)
+   ![](assets/import-a-list-of-people-2.png)
 
    >[!CAUTION]
    >
@@ -46,19 +46,19 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
 1. Ga naar de **Marketingactiviteiten** gebied.
 
-   ![](assets/ma-2.png)
+   ![](assets/import-a-list-of-people-3.png)
 
 1. Selecteer uw **Leren** map, vervolgens onder **Nieuw** klikken **Nieuw programma**.
 
-   ![](assets/image2014-9-24-12-3a21-3a13.png)
+   ![](assets/import-a-list-of-people-4.png)
 
 1. **Naam** het programma &quot;My Tradeshow Program&quot; en selecteer &quot;Event&quot; voor de **Type programma**.
 
-   ![](assets/image2014-9-24-12-3a21-3a25.png)
+   ![](assets/import-a-list-of-people-5.png)
 
 1. Selecteren **Handelsversie** voor de **Kanaal** en klik op **Maken**.
 
-   ![](assets/image2014-9-24-12-3a21-3a39.png)
+   ![](assets/import-a-list-of-people-6.png)
 
 >[!NOTE]
 >
@@ -68,19 +68,19 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
 1. In **Mijn handelsprogramma**, klikt u op **Nieuw** en selecteert u **Nieuw lokaal element**.
 
-   ![](assets/seven-3.png)
+   ![](assets/import-a-list-of-people-7.png)
 
-1. Klikken **Lijst**.
+1. Selecteren **Lijst**.
 
-   ![](assets/image2014-9-24-12-3a22-3a56.png)
+   ![](assets/import-a-list-of-people-8.png)
 
 1. **Naam** de lijst &quot;Handelaars Aanwezigen&quot; en klik op **Maken**.
 
-   ![](assets/image2014-9-24-12-3a23-3a9.png)
+   ![](assets/import-a-list-of-people-9.png)
 
 1. In uw **Handelsdeelnemers** lijst, klikt u op **Handelingen weergeven** en selecteert u **Lijst importeren**.
 
-   ![](assets/ten-2.png)
+   ![](assets/import-a-list-of-people-10.png)
 
    >[!CAUTION]
    >
@@ -92,7 +92,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
 1. **Bladeren** aan de **tradeshow-aanwezigen.csv** spreadsheetbestand op de computer en klik op **Volgende**.
 
-   ![](assets/eleven-2.png)
+   ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
@@ -105,7 +105,7 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
 1. Wijs de velden Lijstkolom toe aan hun respectievelijke Marketo-veld en klik op **Volgende**.
 
-   ![](assets/image2014-9-24-12-3a24-3a49.png)
+   ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
@@ -117,15 +117,15 @@ In deze zelfstudie leert u hoe u personen uit een spreadsheetbestand kunt import
 
 1. Selecteren **Mijn handelsprogramma** voor de **Overnameprogramma** en klik vervolgens op **Importeren**.
 
-   ![](assets/image2014-9-24-12-3a25-3a1.png)
+   ![](assets/import-a-list-of-people-13.png)
 
 1. Wacht tot uw personen zijn geïmporteerd en sluit vervolgens het pop-upvenster met voortgang bij importeren.
 
-   ![](assets/image2014-9-24-12-3a25-3a13.png)
+   ![](assets/import-a-list-of-people-14.png)
 
 1. Terug naar **Mijn handelsprogramma** klikt u op de knop **Leden** tab. Je ziet alle mensen die je net hebt geïmporteerd.
 
-   ![](assets/fifteen-1.png)
+   ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
