@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: E-maillevering Power Pack - Een zaadlijst importeren - Marketo-documenten - Productdocumentatie
 title: E-maillevering Power Pack - Hoe een zaadlijst importeren
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbuslevera
 
 ## Een zaadlijst importeren {#import-a-seedlist}
 
-1. Ga naar **Leveringsgereedschappen**.
+1. Selecteer in Mijn Marketo de optie **Leveringsgereedschappen**.
 
-   ![](assets/one-1.png)
+   ![](assets/email-deliverability-power-pack-1.png)
 
 1. Klikken **Inbox Informant**.
 

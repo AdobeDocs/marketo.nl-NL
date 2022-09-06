@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture - Marketo Docs - Productdocumentatie
 title: Drip, Drip, Nurture
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -26,19 +26,19 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd opvoedingssysteem mak
 
 1. Ga naar de **Marketingactiviteiten** gebied.
 
-   ![](assets/one-3.png)
+   ![](assets/drip-drip-nurture-1.png)
 
 1. Selecteer **Leren** map, klikt u op de knop **Nieuw** vervolgkeuzelijst en selecteer **Nieuw programma**.
 
-   ![](assets/two-4.png)
+   ![](assets/drip-drip-nurture-2.png)
 
 1. Voer een **Naam** en selecteert u **Betrokkenheid** voor de **Type programma**.
 
-   ![](assets/three-3.png)
+   ![](assets/drip-drip-nurture-3.png)
 
 1. Zorg ervoor dat de **Kanaal** field is **Verloop** en klik op **Maken**.
 
-   ![](assets/four-2.png)
+   ![](assets/drip-drip-nurture-4.png)
 
    U hebt nu een betrokkenheidsprogramma gemaakt.
 
@@ -46,15 +46,15 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd opvoedingssysteem mak
 
 1. Selecteer uw serviceprogramma en klik op **Nieuw** en selecteert u **Nieuw lokaal element**.
 
-   ![](assets/five-3.png)
+   ![](assets/drip-drip-nurture-5.png)
 
 1. Klikken **E-mail**.
 
-   ![](assets/six-3.png)
+   ![](assets/drip-drip-nurture-6.png)
 
 1. Voer een **Naam**, selecteert u de **Sjabloon** wilt gebruiken en klikt u op **Maken**.
 
-   ![](assets/seven-4.png)
+   ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
@@ -62,53 +62,53 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd opvoedingssysteem mak
 
 1. Voer een onderwerp in.
 
-   ![](assets/eight-2.png)
+   ![](assets/drip-drip-nurture-8.png)
 
 1. Selecteer het gebied van de e-mail dat u wilt bewerken, klik op het tandwielpictogram en selecteer **Bewerken**.
 
-   ![](assets/nine-1.png)
+   ![](assets/drip-drip-nurture-9.png)
 
 1. Bewerk uw e-mail en klik op **Opslaan**.
 
-   ![](assets/ten-3.png)
+   ![](assets/drip-drip-nurture-10.png)
 
-1. Sluit het tabblad/venster van de e-maileditor.
+1. Onder **E-mailhandelingen**, klikt u op **Goedkeuren en Sluiten**.
 
-   ![](assets/eleven-3.png)
-
-1. Onder **E-mailhandelingen**, klikt u op **Goedkeuren**.
-
-   ![](assets/twelve-2.png)
+   ![](assets/drip-drip-nurture-11.png)
 
    >[!NOTE]
    >
    >Vergeet niet uw e-mails goed te keuren of u kunt ze later niet activeren.
 
-1. Maak nu een andere e-mail door de handelingen voor Stap 2 te herhalen.
+1. Maak nu een andere e-mail door de handelingen in stap 2-7 te herhalen.
 
-   ![](assets/thirteen-2.png)
+   ![](assets/drip-drip-nurture-12.png)
 
 ## Stap 3: Inhoud toevoegen aan uw stream {#step-add-content-to-your-stream}
 
-1. Nu is het tijd om een inhoudsstroom voor uw betrokkenheidsprogramma te maken met de e-mails die u hebt gemaakt.
+Nu is het tijd om een inhoudsstroom voor uw betrokkenheidsprogramma te maken met de e-mails die u hebt gemaakt.
 
 1. Selecteer uw serviceprogramma en klik op de knop **Streams** tab.
 
-   ![](assets/fourteen-2.png)
+   ![](assets/drip-drip-nurture-13.png)
 
-1. Sleep de twee e-mails die u hebt gemaakt naar het rechtercanvas.
+1. Klik op de knop **Inhoud toevoegen** in de stream.
 
-   ![](assets/fifteen-2.png)
+   ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >U kunt ook de opdracht **Inhoud toevoegen** of de stream **+** pictogram.
+   >U kunt ook de opdracht **+** pictogram.
+
+1. Laat het type E-mail geselecteerd. Zoek en selecteer de twee e-mails die u hebt gemaakt.
+
+   ![](assets/drip-drip-nurture-15.png)
 
 ## Stap 4: Stream-inhoud activeren {#step-activate-stream-content}
 
 1. Alle inhoud tegelijk activeren door op het tandwielpictogram voor de stream te klikken en vervolgens op **Alle inhoud activeren**.
 
-   ![](assets/image2014-9-24-12-3a48-3a28.png)
+   ![](assets/drip-drip-nurture-16.png)
 
    >[!NOTE]
    >
@@ -120,11 +120,11 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd opvoedingssysteem mak
 
 1. Klikken **Stroomversnelling instellen**.
 
-   ![](assets/seventeen.png)
+   ![](assets/drip-drip-nurture-17.png)
 
 1. Pas de instellingen aan het gewenste schema aan en klik op **Opslaan**.
 
-   ![](assets/image2014-9-24-12-3a49-3a5.png)
+   ![](assets/drip-drip-nurture-18.png)
 
    Uw betrokkenheidsprogramma is allemaal ingesteld. Laten we nu een testpersoon aan uw programma toevoegen.
 
@@ -136,23 +136,23 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd opvoedingssysteem mak
 
 1. Ga naar de **Database** gebied.
 
-   ![](assets/nineteen-1.png)
+   ![](assets/drip-drip-nurture-19.png)
 
 1. Zoek naar uw testpersoon.
 
-   ![](assets/twenty-1.png)
+   ![](assets/drip-drip-nurture-20.png)
 
    >[!NOTE]
    >
    >Zorg ervoor dat de testpersoon een geldig e-mailadres heeft, zodat u de ontvangst van e-mails tijdens het testen kunt bevestigen.
 
-1. Klik met de rechtermuisknop op de persoon, klik vervolgens op Programma&#39;s en Toevoegen aan betrokkenheidsprogramma.
+1. Klik met de rechtermuisknop op de persoon en klik vervolgens op **Programma&#39;s** en **Toevoegen aan betrokkenheidsprogramma**.
 
-   ![](assets/twenty-one.png)
+   ![](assets/drip-drip-nurture-21.png)
 
 1. Selecteer uw **Programma** en **Stream** en klik vervolgens op **Nu uitvoeren**.
 
-   ![](assets/twenty-two.png)
+   ![](assets/drip-drip-nurture-22.png)
 
 1. Opdracht voltooid!
 
