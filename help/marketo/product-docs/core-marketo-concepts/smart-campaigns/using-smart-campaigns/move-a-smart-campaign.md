@@ -3,9 +3,9 @@ unique-page-id: 6094949
 description: Een slimme campagne verplaatsen - Marketo Docs - Productdocumentatie
 title: Een slimme campagne verplaatsen
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
-source-git-commit: 361a736fdf28a2e929cc781ba8eec27c6e1fbf30
+source-git-commit: 381e243a39b8249e88f06eeb1dcfc4863e3a497c
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,19 @@ ht-degree: 0%
 
 Verplaats een slimme campagne tussen verschillende programma&#39;s of omslagen door belemmering-en-daling of de bewegingseigenschap in de boom te gebruiken. De regels van uw slimme campagne zullen niet veranderen, het zal enkel op een verschillende plaats worden genesteld.
 
+>[!CAUTION]
+>
+>Omdat de regels niet veranderen, als de Slimme Lijst of Stappen van de Stroom van de campagne het originele programma van verwijzingen voorzien, moet u die informatie manueel bijwerken om op zijn nieuw programma te wijzen, aangezien het zal **niet** automatisch bijwerken.
+
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. Zoek de slimme campagne die u wilt verplaatsen, klik er met de rechtermuisknop op en selecteer **Move**.
+1. Zoek de slimme campagne die u wilt verplaatsen, klik er met de rechtermuisknop op en selecteer **Verplaatsen**.
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Selecteer **To** (bestemming), **Program**, en facultatieve **Folder**. Selecteer **Verplaatsen**.
+1. Selecteer **Naar** (bestemming), **Programma** en optioneel **Map**. Selecteren **Verplaatsen**.
 
    ![](assets/move-a-smart-campaign-3.png)
 
