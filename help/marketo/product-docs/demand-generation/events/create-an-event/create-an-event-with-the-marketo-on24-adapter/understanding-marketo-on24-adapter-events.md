@@ -1,21 +1,24 @@
 ---
 unique-page-id: 10096658
-description: Begrijpen van Marketo On24 adaptergebeurtenissen - Marketo Docs - Productdocumentatie
-title: De gebeurtenissen van de Adapter van Marketo On24 begrijpen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Marketo On24-adaptergebeurtenissen - Marketo Docs - Productdocumentatie
+title: Marketo On24-adaptergebeurtenissen
+exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
+# Marketo On24-adaptergebeurtenissen {#understanding-marketo-on-adapter-events}
 
-# Het begrip van de Gebeurtenissen van de Adapter van Marketo On24 {#understanding-marketo-on-adapter-events}
+>[!IMPORTANT]
+>
+>Vanaf augustus 2022 ondersteunt ON24 geen nieuwe Marketo-integratie meer. De informatie in dit artikel is alleen van toepassing op bestaande gebruikers.
 
-Als uw webinar ON24 niet met Marketo wordt verbonden, moet u deelnemersinformatie nemen die reeds in Marketo is en het ingaan in ON24. Na het webinar, moet u aanwezigheidsinformatie nemen die reeds in ON24 is en het ingaan terug in Marketo.
+Als uw ON24-webinar niet is verbonden met Marketo, moet u de informatie over de deelnemers die al in Marketo staat, naar ON24 invoeren. Na het webinar, moet u aanwezigheidsinformatie nemen die reeds in ON24 is en het ingaan terug in Marketo.
 
-De ON24-adapter voert alle gegevens voor u over. De registratie-informatie die is vastgelegd op een bestemmingspagina van Marketo, wordt op ON24 geplaatst en de aanwezigheidsgegevens worden automatisch naar een Marketo-gebeurtenis opgehaald.
+De ON24-adapter voert alle gegevens voor u over. De gegevens die zijn vastgelegd op een Marketo-landingspagina worden automatisch naar ON24 verplaatst en de aanwezigheidsgegevens worden automatisch naar een Marketo-gebeurtenis opgehaald.
 
 Deze artikelen zullen u door het proces lopen om een webinar in ON24 te creëren, een gebeurtenis in Marketo tot stand te brengen, en hen te associëren.
 
@@ -23,8 +26,4 @@ In de onderstaande afbeelding ziet u het integratieproces.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Klaar om te beginnen? Begin met [Creeer een Gebeurtenis met ON24 Adapter](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
-
->[!MORELIKETHIS]
->
->[Creeer een Gebeurtenis met de Adapter Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
+Klaar om te beginnen? Beginnen met [Een gebeurtenis maken met de ON24-adapter](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).

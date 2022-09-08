@@ -1,23 +1,26 @@
 ---
 unique-page-id: 10096673
-description: Gebeurtenisinstellingen configureren en markeertekens synchroniseren met uw webinar - Marketo Docs - Productdocumentatie
-title: Gebeurtenisinstellingen configureren en markering synchroniseren met uw webinar
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Gebeurtenisinstellingen configureren en Marketo synchroniseren met uw webinar - Marketo Docs - Productdocumentatie
+title: Gebeurtenisinstellingen configureren en Marketo synchroniseren met uw webinar
+exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '248'
 ht-degree: 0%
 
 ---
 
+# Gebeurtenisinstellingen configureren en Marketo synchroniseren met uw webinar {#configure-event-settings-and-sync-marketo-with-your-webinar}
 
-# Gebeurtenisinstellingen configureren en markeerteken synchroniseren met uw webinar {#configure-event-settings-and-sync-marketo-with-your-webinar}
+>[!IMPORTANT]
+>
+>Vanaf augustus 2022 ondersteunt ON24 geen nieuwe Marketo-integratie meer. De informatie in dit artikel is alleen van toepassing op bestaande gebruikers.
 
 Voer de volgende stappen uit om de Marketo-gebeurtenisinstellingen te configureren en Marketo en ON24 te verbinden.
 
-## Gebeurtenis {#set-the-event} instellen
+## De gebeurtenis instellen {#set-the-event}
 
-1. Kies de gebeurtenis die u aan een webinar ON24 wilt koppelen, klik dan **Gebeurtenisacties** drop-down en selecteer **Gebeurtenisinstellingen**.
+1. Kies de gebeurtenis die u aan een ON24-webinar wilt koppelen en klik op de knop **Gebeurtenishandelingen** vervolgkeuzelijst en selecteer **Gebeurtenisinstellingen**.
 
    ![](assets/one.png)
 
@@ -29,32 +32,32 @@ Voer de volgende stappen uit om de Marketo-gebeurtenisinstellingen te configurer
 
    ![](assets/three.png)
 
-1. Voer de gebeurtenis-id in (ontvang deze van ON24). Klik **Opslaan**.
+1. Voer de gebeurtenis-id in (ontvang deze van ON24). Klikken **Opslaan**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Tijdens piektijden kan het 15 tot 20 minuten duren voor ON24 de Event-informatie beschikbaar maakt voor Marketo. Als u het bericht &#39;Ongeldige sessie-id&#39; ontvangt, probeert u het later opnieuw.
+   >Tijdens piektijden kan het 15 tot 20 minuten duren voor ON24 de gebeurtenisinformatie beschikbaar maakt voor Marketo. Als u het bericht &#39;Ongeldige sessie-id&#39; ontvangt, probeert u het later opnieuw.
 
-## Het schema {#set-the-schedule} instellen
+## Het schema instellen {#set-the-schedule}
 
 Wanneer u opstelling een gebeurtenis die met een ON24 Webinar wordt geassocieerd, bevolkt het gebeurtenisprogramma met gegevens van ON24. Voer de volgende stappen uit om het dialoogvenster Gebeurtenisschema te openen.
 
-1. Selecteer de gebeurtenis. Klik op de vervolgkeuzelijst **Gebeurtenishandelingen** en selecteer **Schema.**
+1. Selecteer de gebeurtenis. Klik op de knop **Gebeurtenishandelingen** vervolgkeuzelijst en selecteer **Plan.**
 
    ![](assets/five.png)
 
-1. Kies uw **Begindatum, Einddatum** en **Tijdzone**. Klik **Opslaan**.
+1. Kies uw **Begindatum, Einddatum**, en **Tijdzone**. Klikken **Opslaan**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Als u gebeurtenisinformatie in ON24 bijwerkt, moet u **Vernieuwen van Webinar Leverancier** in het menu van de Acties van de Gebeurtenis klikken om de nieuwe gegevens te zien bevolken.
+   >Als u gebeurtenisinformatie bijwerkt in ON24, moet u klikken **Vernieuwen vanaf webinar-provider** in het menu Gebeurtenishandelingen om te zien hoe de nieuwe gegevens worden gevuld.
 
-Nu kunt u verdergaan naar de volgende stap: [onderliggende campagnes en lokale middelen maken](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
+Nu kunt u verdergaan naar de volgende stap: [het creëren van kindcampagnes en lokale activa](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md).
 
 >[!MORELIKETHIS]
 >
->[De gebeurtenissen van de Adapter van Marketo On24 begrijpen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Marketo On24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)

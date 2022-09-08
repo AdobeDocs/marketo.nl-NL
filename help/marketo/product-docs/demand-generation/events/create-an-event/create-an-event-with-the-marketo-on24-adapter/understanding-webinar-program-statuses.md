@@ -2,57 +2,60 @@
 unique-page-id: 10096681
 description: Werken met de status van het Webinar-programma - Marketo Docs - Productdocumentatie
 title: Werken met de status van het Webinar-programma
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
+source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
 
-
 # Werken met de status van het Webinar-programma {#understanding-webinar-program-statuses}
 
-Programmastatussen vertegenwoordigen de verschillende gebeurtenisstatussen die een persoon doorloopt als lid van de gebeurtenis. Ze zijn gekoppeld aan een kanaaltype. Marketo heeft een ingebouwd kanaaltype met de naam **Webinar**. Statussen kunnen zowel in batch- als triggercampagnes worden gebruikt.
+>[!IMPORTANT]
+>
+>Vanaf augustus 2022 ondersteunt ON24 geen nieuwe Marketo-integratie meer. De informatie in dit artikel is alleen van toepassing op bestaande gebruikers.
 
-Mensen bewegen lineair door de status van programma&#39;s en gaan niet terug in status. Bijvoorbeeld, kan een persoon met een status van **Bijgewoonde** niet zich aan **Geregistreerd** terugbewegen.
+Programmastatussen vertegenwoordigen de verschillende gebeurtenisstatussen die een persoon doorloopt als lid van de gebeurtenis. Ze zijn gekoppeld aan een kanaaltype. Marketo heeft een ingebouwd kanaaltype, genaamd **Webinar**. Statussen kunnen zowel in batch- als triggercampagnes worden gebruikt.
+
+Mensen bewegen lineair door de status van programma&#39;s en gaan niet terug in status. Bijvoorbeeld een persoon met een status van **Bijgewoond** kan niet teruggaan naar **Geregistreerd**.
 
 Hier volgt een korte beschrijving van de programmastatussen die zijn gekoppeld aan het Webinar-kanaal.
 
 >[!TIP]
 >
->Als u de status handmatig wilt bijwerken, klikt u op **Vernieuwen vanuit Webinar Provider** in de vervolgkeuzelijst **Gebeurtenishandelingen**.
+>Als u de status handmatig wilt bijwerken, klikt u op  **Vernieuwen vanaf webinar-provider** in de **Gebeurtenishandelingen** vervolgkeuzelijst.
 
 ![](assets/image2015-12-17-13-3a52-3a39.png)
 
-**Niet in Programma**  - Gebruik deze status om mensen uit de gebeurtenis te verwijderen.
+**Niet in programma** - Gebruik deze status om personen uit de gebeurtenis te verwijderen.
 
-**Uitgenodigd**  - Gebruik deze status om personen aan de gebeurtenis toe te voegen.
+**Uitgenodigd** - Gebruik deze status om personen aan de gebeurtenis toe te voegen.
 
-**In afwachting van goedkeuring**  - Gebruik deze status om het verzenden van een bevestigingsbericht aan uw mensen uit te stellen. Zie &quot;Handmatig Registrerende Registranten&quot;in [ON24 Updates van de Registratie van de Gebeurtenis](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) voor meer informatie goedkeuren.
+**In behandeling** - Gebruik deze status om het verzenden van een bevestigingsbericht aan je mensen uit te stellen. Zie &quot;Handmatig geregistreerde personen goedkeuren&quot; in [ON24 Updates voor gebeurtenisregistratie](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md) voor meer informatie .
 
-**Wacht op aanbieding**  - Gebruik deze status om te wachten tot er meer licenties beschikbaar zijn.
+**Wacht op aanbieding** - Gebruik deze status om sommige mensen te laten wachten tot er meer licenties beschikbaar zijn.
 
-**Afgewezen**  - Gebruik deze status om de registratie van een persoon voor uw gebeurtenis te weigeren.
+**Geweigerd** - Gebruik deze status om de registratie van een persoon voor uw gebeurtenis te weigeren.
 
-**Geregistreerd**  - Deze status duwt mensen aan ON24 wanneer u ON24 integratie gebruikt. De status van de persoon wordt bijgewerkt wanneer ON24 reageert dat de persoon is geregistreerd.
+**Geregistreerd** - Deze status leidt mensen naar ON24 wanneer u de ON24-integratie gebruikt. De status van de persoon wordt bijgewerkt wanneer ON24 reageert dat de persoon is geregistreerd.
 
-**Registratiefout**  - Deze status geeft aan dat de gebruiker een fout heeft aangetroffen tijdens het registreren voor de gebeurtenis.
-
->[!NOTE]
->
->Als er een registratiefout optreedt, kunt u aanvullende informatie voor die persoon opvragen door de kolom Reden van status te bekijken op het tabblad Leden van uw programma. Nadat de fout is opgelost, kunt u de programmastatus van de gebruiker handmatig wijzigen in Geregistreerd binnen Marketo.
-
-**Bijgewoond**  - Aan het eind van het webinar, keert ON24 een lijst van mensen terug die bijwoonden. Deze status wordt automatisch naar Marketo getrokken.
-
-**Bijgewoond op bestelling**  - Mensen die de gearchiveerde versie van webinar bijwoonden ontvangen deze status.
-
-**No Show**  - Aan het einde van het webinar en nadat aanwezigheidsgegevens vanuit ON24 zijn opgehaald, wordt de status van personen die zich hebben geregistreerd maar niet aanwezig zijn, bijgewerkt naar Geen weergave. Het kan overal van 30 minuten tot 3 uren voor ON24 duren om de definitieve aanwezigheidsinformatie voor te bereiden en het ter beschikking te stellen in Marketo.
+**Registratiefout** - Deze status geeft aan dat de gebruiker een fout heeft aangetroffen bij het registreren voor de gebeurtenis.
 
 >[!NOTE]
 >
->Marketo kan alleen de status No Show (Geen tonen) krijgen als de personen *zijn geregistreerd in Marketo*. We kunnen geen No Show vangen die uit On24 gegevensvoer komt.
+>Als er een registratiefout optreedt, kunt u aanvullende informatie voor die persoon opvragen door de kolom Reden van status te bekijken op het tabblad Leden van uw programma. Nadat de fout is opgelost, kunt u de status van het gebruikersprogramma handmatig wijzigen in Geregistreerd in Marketo.
+
+**Bijgewoond** - Aan het einde van het webinar geeft ON24 een lijst met personen die aanwezig waren. Deze status wordt automatisch naar Marketo opgehaald.
+
+**Bijgewoond op bestelling** - Personen die de gearchiveerde versie van het webinar hebben bijgewoond, ontvangen deze status.
+
+**Geen weergave** - Aan het einde van het webinar en nadat de aanwezigheidsgegevens uit ON24 zijn verzameld, wordt de status van personen die zich hebben geregistreerd maar niet aanwezig waren, bijgewerkt naar Geen show. Het kan overal van 30 minuten tot 3 uren voor ON24 duren om de definitieve aanwezigheidsinformatie voor te bereiden en het ter beschikking te stellen in Marketo.
+
+>[!NOTE]
+>
+>Marketo kan de status No Show alleen gebruiken als de personen zijn geregistreerd *in Marketo*. We kunnen geen No Show vangen die uit On24 gegevensvoer komt.
 
 >[!MORELIKETHIS]
 >
->[Inzicht in Marketo ON24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Marketo ON24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
