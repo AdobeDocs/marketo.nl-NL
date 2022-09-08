@@ -1,39 +1,42 @@
 ---
 unique-page-id: 2949711
-description: Installeer de toe:voegen-binnen E-mail van de Marketo voor Vooruitzichten met een Code van de Registratie - Marketo Docs - de Documentatie van het Product
-title: De invoegtoepassing Marketo E-mail voor Outlook installeren met een registratiecode
-translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+description: De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode - Marketo Docs - Productdocumentatie
+title: De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode
+exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
+source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '471'
 ht-degree: 0%
 
 ---
 
-
-# Installeer de toe:voegen-binnen E-mail van de Marketo voor Vooruitzichten met een Code {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code} van de Registratie
+# De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Als gebruikers toegang hebben tot de beheerinstellingen op hun laptops, kunt u een registratiecode rechtstreeks naar hen sturen.
 
-Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo om u uit te nodigen.
+Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om u uit te nodigen.
 
 >[!PREREQUISITES]
 >
->U moet [uitgegeven een vergunning van de Toevoeging van de Marketo E-mail ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md) zijn.
+>U moet [heeft een Marketo-licentie voor e-mailinvoegtoepassingen uitgegeven](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+
+>[!IMPORTANT]
+>
+>Installatie wordt niet ondersteund op pc&#39;s waarin de map Windows User tekens bevat die niet uit het Engels bestaan. Deze map wordt automatisch onder Windows gegenereerd <System Root>\Users\ is gebaseerd op de gebruikersnaam van Windows en mag niet-Engelse tekens bevatten als de gebruikersnaam van Windows een niet-Engelse naam is. Werk samen met uw IT-team om te controleren of er installatiekwesties optreden.
 
 >[!NOTE]
 >
->Vanaf 10/1/20, steunt de recentste versie van de stop van Vooruitzichten niet meer off-line wijze. Dit wordt van kracht na de installatie/upgrade op of na 10/1.
+>Op 10/1/20, de recentste versie van het elektrische toestel van Vooruitzichten hield het steunen van off-line wijze tegen.
 
-## Installatieprogramma {#download-installer} downloaden
+## Installatieprogramma downloaden {#download-installer}
 
-1. Uw [Microsoft Outlook-versie](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c) identificeren
+1. Identificeer uw [Microsoft Outlook-versie](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
 
 1. Klik op de koppeling om het installatieprogramma te downloaden dat geschikt is voor uw versie van Microsoft Outlook.
 
    >[!NOTE]
    >
-   >Op dit moment werken de koppelingen hieronder alleen in Microsoft Edge of door met de rechtermuisknop in Chrome te klikken. Sorry voor enig ongemak.
+   >Op dit moment werken de onderstaande koppelingen alleen in Microsoft Edge of door met de rechtermuisknop in Chrome te klikken. Sorry voor enig ongemak.
 
    | Outlook-versie | 32-bits Outlook | 64-bits Outlook |
    |---|---|---|
@@ -50,7 +53,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
 
    *Office 365-versie: Alleen Windows-client (in Windows 10, Enterprise of Pro).
 
-## Uw registratiecode kopiëren {#copy-your-registration-code}
+## Je inschrijvingscode kopiëren {#copy-your-registration-code}
 
 1. Kopieer de registratiecode van de uitnodigings-e-mail u hebt ontvangen.
 
@@ -60,7 +63,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-## {#install} installeren
+## Installeren {#install}
 
 1. Voer het installatieprogramma uit.
 
@@ -68,13 +71,13 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
 
    >[!NOTE]
    >
-   >Als je een beveiligingswaarschuwing krijgt, maak je dan geen zorgen! Klik **Run**.
+   >Als je een beveiligingswaarschuwing krijgt, maak je dan geen zorgen! Alleen klikken **Uitvoeren**.
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Vul **Voornaam**, **Achternaam**, **E-mailadres** in, kopieer en plak de **Registratiecode** van de e-mail naar het formulier en klik **Volgende**.
+1. Invullen **Voornaam**, **Achternaam**, **E-mailadres** kopieert en plakt u vervolgens de **Registratiecode** van de e-mail naar het formulier en klik op **Volgende**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -82,32 +85,32 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de beheerder van Marketo
    >
    >Als de installatie mislukt, raadpleegt u uw IT-afdeling om ervoor te zorgen dat HTTPS-verkeer niet wordt geblokkeerd. Het installatieprogramma vereist dat HTTPS-verkeer is geopend.
 
-1. Klik **Volgende** om op de standaardlocatie te installeren.
+1. Klikken **Volgende** om op de standaardlocatie te installeren.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >Als u een veiligheidsherinnering over een onbekende uitgever krijgt, klik **ja**.
+   >Als er een beveiligingswaarschuwing verschijnt over een onbekende uitgever, klikt u op **Ja**.
 
-1. De installatie is nu voltooid, klik **Close**.
+1. De installatie is nu voltooid. Klik op **Sluiten**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Open nu Microsoft Outlook en bekijk de knoppen Marketo.
+1. Open nu Microsoft Outlook en bekijk de Marketo-knoppen.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
-   Uitstekend! De markeerknoppen bevinden zich nu op een betere plaats.
+   Uitstekend! De Marketo-knoppen zijn nu beter geplaatst.
 
-Meer informatie over het gebruik van Marketo Message and Log With Marketo actions.
+Meer informatie over het gebruik van Marketo Message and Log With Marketo-handelingen.
 
 >[!MORELIKETHIS]
 >
->* [E-mail verzenden en bijhouden met de Marketo-e-mailinvoegtoepassing voor Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Verzenden en volgen vanuit Outlook met behulp van een Marketo-sjabloon](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Een e-mail verzenden en bijhouden met de Marketo E-mailinvoegtoepassing voor Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Verzenden en volgen vanuit Outlook met een Marketo-sjabloon](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
 
