@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode - Marketo Docs - Productdocumentatie
 title: De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 0dec1dc142a7296ce9d5db91493f654dbe7ee99a
+source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om 
 
 >[!IMPORTANT]
 >
->Installatie wordt niet ondersteund op pc&#39;s waarin de map Windows User tekens bevat die niet uit het Engels bestaan. Deze map wordt automatisch onder Windows gegenereerd <System Root>\Users\ is gebaseerd op de gebruikersnaam van Windows en mag niet-Engelse tekens bevatten als de gebruikersnaam van Windows een niet-Engelse naam is. Werk samen met uw IT-team om te controleren of er installatiekwesties optreden.
+>Installatie wordt niet ondersteund op pc&#39;s waarin de map Windows User tekens bevat die niet uit het Engels bestaan. Deze map wordt automatisch onder Windows gegenereerd `<System Root>\Users\` op basis van de gebruikersnaam van Windows en mag niet-Engelse tekens bevatten als de gebruikersnaam van de Windows-gebruiker een niet-Engelse naam is. Werk samen met uw IT-team om te controleren of er installatiekwesties optreden.
 
 >[!NOTE]
 >
