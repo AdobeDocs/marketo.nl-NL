@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
 workflow-type: tm+mt
-source-wordcount: '8795'
+source-wordcount: '8801'
 ht-degree: 0%
 
 ---
@@ -172,7 +172,7 @@ ht-degree: 0%
          + [Metagegevens van aangepast object exporteren](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Marketo met Adobe-id {#marketo-with-adobe-identity}
          + [Snelle gids](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-         + [Overzicht](product-docs/administration/marketo-with-adobe-identity/overview.md)
+         + [Adobe Identity Management - Overzicht](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Beheerdersinstellingen](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Productbeheerinstellingen](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [Alleen API-gebruiker toevoegen voor door Adobe IMS ingeschakelde abonnementen](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
@@ -1870,6 +1870,7 @@ ht-degree: 0%
          + [Opmerkingen bij de release: 22 maart](release-notes/previous-releases/2022/release-notes-mar-22.md)
          + [Opmerkingen bij de release: mei &#39;22](release-notes/previous-releases/2022/release-notes-may-22.md)
          + [Opmerkingen bij de release: 22 juni](release-notes/previous-releases/2022/release-notes-june-22.md)
+         + [Opmerkingen bij de release: 22 augustus](release-notes/previous-releases/2022/release-notes-aug-22.md)
       + 2021 {#2021}
          + [Opmerkingen bij de release: 21 januari](release-notes/previous-releases/2021/release-notes-jan-21.md)
          + [Opmerkingen bij de release: 21 mei](release-notes/previous-releases/2021/release-notes-may-21.md)
