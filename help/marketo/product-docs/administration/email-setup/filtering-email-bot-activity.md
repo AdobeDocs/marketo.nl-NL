@@ -2,9 +2,9 @@
 description: Filteren van e-mailboxactiviteiten - Marketo-documenten - Productdocumentatie
 title: Activiteit e-mailvak filteren
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 2fd0856e21c51af6ca29887978d5aa946733405d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -36,16 +36,13 @@ Bij klikken op e-mailkoppelingen en e-mailopenen worden nieuwe kenmerken gevuld 
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Kies **Combineren met IAB-lijst**, **Afstemmen met nabijheidspatroon**, of beide.
+1. Kies **Combineren met IAB-lijst**, **Afstemmen met nabijheidspatroon**, of beide. Kies of beide activiteiten moeten worden geregistreerd _of_ filterbotactiviteit.
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->* U kunt ervoor kiezen beide activiteiten te laten filteren **of** geregistreerd. Als u gefilterd kiest, wordt er mogelijk een druppel in het e-mailbericht weergegeven en wordt op de knop geklikt omdat de onjuiste activiteiten worden uitgefilterd.
->
->* Alleen &quot;Logboekactiviteit&quot; is momenteel beschikbaar voor &quot;Aanpassen aan nabijheidspatroon&quot;.
-
+>Als u Bodyactiviteit filteren kiest, wordt er mogelijk een druppel in het e-mailbericht geopend en wordt op deze knop geklikt omdat de foutactiviteiten worden weggevaagd.
 
 **OPTIONELE STAP**: U schakelt deze functie uit door gewoon de schuifregelaar(s) uit te schakelen. Als u deze optie uitschakelt, worden de gegevens niet opnieuw ingesteld.
 
