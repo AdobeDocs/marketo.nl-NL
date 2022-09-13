@@ -2,7 +2,7 @@
 description: Snelle gids - Marketo Docs - Productdocumentatie
 title: Snelle gids
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
-source-git-commit: 37459d7e72a5719d1b963922071456aff5c3d120
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -45,4 +45,4 @@ Gebruikers met alleen Marketo Engage-API moeten worden gemaakt en beheerd in Mar
 
 ## Veelgestelde vragen {#faq}
 
-[Veelgestelde vragen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#faq){target=&quot;_blank&quot;}
+[Veelgestelde vragen](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#faq){target=&quot;_blank&quot;}

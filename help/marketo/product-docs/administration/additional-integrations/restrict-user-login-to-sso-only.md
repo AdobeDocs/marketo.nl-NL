@@ -3,7 +3,7 @@ unique-page-id: 2360358
 description: Alleen aanmelding door gebruiker beperken tot SSO - Marketo Docs - Productdocumentatie
 title: Alleen gebruikersaanmelding beperken tot SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: a21db1586166b7530bbbb18759752ef834cdc46a
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Als je [SSO gebruiken](/help/marketo/product-docs/administration/additional-inte
 
 >[!IMPORTANT]
 >
->Dit artikel is niet van toepassing op [Adobe IMS ingeschakeld](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md) Marketo-abonnementen.
+>Dit artikel is niet van toepassing op [Adobe IMS ingeschakeld](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) Marketo-abonnementen.
 
 >[!NOTE]
 >

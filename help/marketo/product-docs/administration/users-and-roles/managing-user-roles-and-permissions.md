@@ -3,7 +3,7 @@ unique-page-id: 2359909
 description: Gebruikersrollen en -machtigingen beheren - Marketo Docs - Productdocumentatie
 title: Gebruikersrollen en -machtigingen beheren
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: a360b46ab1cd7149f609d139590124dcfcda8dad
+source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -32,7 +32,7 @@ U kunt de rollen Admin en Standaard van de Gebruiker niet uitgeven, maar u kunt 
 
 ## Marketo met Adobe-id {#marketo-with-adobe-identity}
 
-Als u Marketo gebruikt met Adobe Identity, de lijst van profielbeschrijvingen [hier te vinden](/help/marketo/product-docs/administration/marketo-with-adobe-identity/overview.md#profile-levels).
+Als u Marketo gebruikt met Adobe Identity, de lijst van profielbeschrijvingen [hier te vinden](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
 ## Rollen toewijzen aan een gebruiker {#assign-roles-to-a-user}
 
