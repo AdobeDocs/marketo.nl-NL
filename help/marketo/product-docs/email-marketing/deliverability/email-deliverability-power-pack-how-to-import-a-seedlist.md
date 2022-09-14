@@ -3,9 +3,9 @@ unique-page-id: 10099077
 description: E-maillevering Power Pack - Een zaadlijst importeren - Marketo-documenten - Productdocumentatie
 title: E-maillevering Power Pack - Hoe een zaadlijst importeren
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 8ff6198abb9cae9cc150b2c267b0a8658acffae2
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,25 +24,25 @@ Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbuslevera
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Klikken **Inbox Informant**.
+1. De Everest-toepassing wordt geopend. Klik in de linkernav op **In de vlucht** en selecteert u **Plaatsing in postvak**.
 
-   ![](assets/two-1.png)
+   ![](assets/email-deliverability-power-pack-2.png)
 
-1. Klikken **Seedlist ophalen**.
+1. Klik op de knop **Zaadlijst beheren** tab.
 
-   ![](assets/three-1.png)
+   ![](assets/email-deliverability-power-pack-3.png)
 
-1. Klikken **Lijst exporteren**.
+1. Klik op de vervolgkeuzelijst Handelingen en selecteer **Eén per regel downloaden**.
 
-   ![](assets/four.png)
+   ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >Kies **Lijst optimaliseren** als je 250ok wilt [optimaliseer uw lijst](https://help.returnpath.com/hc/en-us/articles/360046746451-What-is-250ok-s-seedlist-optimizer-and-why-should-I-use-it-) voor jou. Kies **Lijst aanpassen** als u de gebieden wilt selecteren die u in de lijst wilt opnemen.
+   >Gebruik de functie Zaadlijst optimaliseren (boven aan de pagina) als u wilt dat de lijst voor u door de Everest wordt geoptimaliseerd.
 
 1. Na het exporteren wordt de lijst weergegeven als een .txt-bestand in de downloadmap van uw browser. wint het op, en [import](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) in uw Marketo-instantie als een statische lijst.
 
-   ![](assets/five.png)
+   ![](assets/email-deliverability-power-pack-5.png)
 
    >[!TIP]
    >
@@ -50,7 +50,7 @@ Een zaadlijst is een lijst van e-mailrekeningen bij veelvoudige brievenbuslevera
 
    >[!CAUTION]
    >
-   >U krijgt een beperkte hoeveelheid van deze Informele Campagnes Inbox per maand. Om te zien hoeveel u krijgt, kijk in uw 250ok **Accountinstellingen**. Neem contact op met je Marketo-verkoper voor meer informatie.
+   >U krijgt een beperkte hoeveelheid van deze Campagnes van de Plaatsing Inbox per maand. Als u wilt zien hoeveel er worden, raadpleegt u het gedeelte Abonnement onder Accountinstellingen > Abonnement op de Everest. Neem contact op met je Marketo-verkoper voor meer informatie.
 
 ## Nieuwe zaadlijsten ophalen {#acquiring-new-seedlists}
 
