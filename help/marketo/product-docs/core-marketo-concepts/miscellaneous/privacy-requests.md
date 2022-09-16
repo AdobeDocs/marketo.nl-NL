@@ -2,9 +2,9 @@
 description: Privacyverzoeken - Marketo-documenten - productdocumentatie
 title: Privacyverzoeken
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: e3f7b0082b77c1be6b4f046838d7ebe725533e78
+source-git-commit: 5aa75cc35ef8d39983563ab34b075ae580f9a97b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,14 @@ Dit document biedt een overzicht van het beheer van individuele privacyverzoeken
 
 >[!NOTE]
 >
->De verzoeken van de privacy die door Privacy Service UI of API voor Marketo Engage worden voorgelegd zijn slechts op die van toepassing die Marketo Engage + rt-CDP, B2B en B2P Editions hebben.
+>De verzoeken van de privacy die door Privacy Service UI of API voor Marketo Engage worden voorgelegd zijn slechts op het volgende van toepassing:
+>
+>* Marketo Engage gebruikers die aan het Systeem van Adobe Identity Management hebben ingezien
+>
+>**-of-**
+>
+>* Marketo Engage-gebruikers die een ander Experience Cloud-product gebruiken dat zich al op het Adobe Identity Management-systeem bevindt (bijvoorbeeld RT-CDP, B2B en B2P Editions, Audience Manager).
+
 
 U kunt individuele verzoeken om tot consumentengegevens van Marketo Engage toegang te hebben en te schrappen op twee manieren voorleggen:
 
