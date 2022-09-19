@@ -3,9 +3,9 @@ unique-page-id: 37355768
 description: Middelen importeren met Adobe Experience Manager - Marketo Docs - Productdocumentatie
 title: Middelen importeren met Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+source-git-commit: 2b3a7867811ab2814a668eaa633057b35b7ce68d
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -20,13 +20,13 @@ Met de Asset Selector kunnen Marketo-klanten AEM middelen openen, selecteren en 
 
 >[!PREREQUISITES]
 >
->Zorg ervoor u reeds [AEM Configuratie](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md) hebt uitgevoerd.
+>Zorg ervoor dat u de opdracht [AEM](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md).
 
 >[!IMPORTANT]
 >
->Deze functie wordt volledig ondersteund in de huidige versies van Firefox, Chrome en Edge. Deze functie wordt niet ondersteund in Safari.
+>Deze functie wordt momenteel alleen volledig ondersteund in Firefox. Deze functie wordt niet ondersteund in Safari en werkt mogelijk niet in de meest recente versie van Chrome, afhankelijk van de cookie-instellingen van SameSite.
 
-1. Klik **Design Studio**.
+1. Klikken **Design Studio**.
 
    ![](assets/one-1.png)
 
@@ -42,7 +42,7 @@ Met de Asset Selector kunnen Marketo-klanten AEM middelen openen, selecteren en 
 
    ![](assets/four-1.png)
 
-1. Kies uw map. Selecteer vervolgens de gewenste afbeeldingen door op de miniatuur te klikken (u kunt maximaal 10 afbeeldingen selecteren). Klik **Selecteer** wanneer gereed.
+1. Kies uw map. Selecteer vervolgens de gewenste afbeeldingen door op de miniatuur te klikken (u kunt maximaal 10 afbeeldingen selecteren). Klikken **Selecteren** wanneer gereed.
 
    ![](assets/five.png)
 
@@ -50,11 +50,11 @@ Met de Asset Selector kunnen Marketo-klanten AEM middelen openen, selecteren en 
    >
    >Afbeeldingen mogen niet groter zijn dan 100 MB.
 
-1. Klik **Importeren** om het proces te voltooien.
+1. Klikken **Importeren** om het proces te voltooien.
 
    ![](assets/six-1.png)
 
-   En dat is het! Klik **Close** om aan de Studio van het Ontwerp terug te keren.
+   En dat is het! Klikken **Sluiten** om aan de Studio van het Ontwerp terug te keren.
 
    ![](assets/seven-1.png)
 
