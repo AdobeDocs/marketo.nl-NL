@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Protocollen configureren voor Marketo - Marketo Docs - Productdocumentatie
 title: Protocollen voor Marketo configureren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 3f0ccfcb22e0b84c6d1e60b750af955cb442bd36
+source-git-commit: ed29cc13d2ced85e639e8b1c6fe228e2bca82ffd
 workflow-type: tm+mt
-source-wordcount: '1025'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -50,6 +50,10 @@ Voeg de e-mailmarketing toe die u van CNAME hebt ontvangen, zodat `[YourEmailCNA
 Bijvoorbeeld:
 
 `pages.abc.com IN CNAME mkto-a0244.com`
+
+>[!NOTE]
+>
+>`[MktoTrackingLink]` moet het standaardbrandingdomein zijn.
 
 `3` **Uw marketingteam op de hoogte stellen**
 
