@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,12 @@ De volgende functies worden vrijgegeven op **14 oktober 2022**, met een gefaseer
 ## API-verbeteringen {#api-enhancements}
 
 * **Invoer van bulklood: Salespervereniging**: Pariteit met de LEIDREST API om lood met Salesperson tijdens het proces van de bulkloodinvoer te kunnen associëren, die ingewikkeldheid en het aantal vereiste API vraag vermindert.
+
+## Verkoopoverzicht {#sales-insight}
+
+![(ster)](assets/yellow-star.png)
+
+* **[Integratie van het Inzicht van de verkoop met Dynamische Chat](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target=&quot;_blank&quot;}**: Het dashboard met inzichten bevat nu dynamische chatactiviteiten in het slimme raster, samen met een wekelijkse samenvatting en detailkaarten.
 
 ## Aankondigingen {#announcements}
 
