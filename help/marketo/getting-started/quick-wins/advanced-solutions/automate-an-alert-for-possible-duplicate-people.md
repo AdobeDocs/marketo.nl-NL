@@ -3,9 +3,9 @@ unique-page-id: 7513680
 description: Automatiseer een waarschuwing voor mogelijke dubbele personen - Marketo Docs - Productdocumentatie
 title: Een waarschuwing automatiseren voor mogelijke dubbele personen
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: 50fc46312d2c7c25556994fad4e118c01cf92fc0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaa
 * Trigger: **Persoon is gemaakt**
 * Filter: **Dubbele velden.** Veldnaam **is Volledige naam**
 
-   ![](assets/image2017-3-27-8-3a22-3a4.png)
+   ![](assets/automate-an-alert-1.png)
 
    >[!TIP]
    >
@@ -27,7 +27,7 @@ Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaa
 
 1. Kies in de stap Stroom de optie [Waarschuwing verzenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target=&quot;_blank&quot;} handeling flow.
 
-   ![](assets/image2017-3-27-8-3a24-3a8.png)
+   ![](assets/automate-an-alert-2.png)
 
    >[!TIP]
    >
@@ -41,7 +41,7 @@ Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaa
 
 1. De campagne activeren in het dialoogvenster **Schema** tab.
 
-   ![](assets/image2017-3-27-8-3a24-3a37.png)
+   ![](assets/automate-an-alert-3.png)
 
 Dat is het! Deze slimme campagne wordt elke keer gestart wanneer er in Marketo een nieuwe persoon met een bestaande volledige naam wordt gemaakt.
 
