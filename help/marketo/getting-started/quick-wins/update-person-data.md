@@ -3,9 +3,9 @@ unique-page-id: 2359426
 description: Persgegevens bijwerken - Marketo-documenten - Productdocumentatie
 title: Persoonsgegevens bijwerken
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: 0da33dfa840dd1e5a5618fcd762b482f7a2e0789
+source-git-commit: a7f0f5b89ca2a35a3aaf0cfe1ed3a96da6366844
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens
 
 1. Ga naar uw database.
 
-   ![](assets/db-3.png)
+   ![](assets/update-person-data-1.png)
 
 1. Zoek de naam of het e-mailadres van de persoon.
 
@@ -34,11 +34,11 @@ Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens
    >
    >Als u het e-mailadres gebruikt om te zoeken, wordt de zoekopdracht sneller uitgevoerd.
 
-   ![](assets/two-rubiks.png)
+   ![](assets/update-person-data-2.png)
 
 1. Dubbelklik om de persoondetails te openen.
 
-   ![](assets/three-rubiks.png)
+   ![](assets/update-person-data-3.png)
 
    >[!TIP]
    >
@@ -48,7 +48,7 @@ Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens
 
 1. Typ de nieuwe informatie die u hebt ontvangen en sluit het tabblad.
 
-![](assets/four-rubiks.png)
+![](assets/update-person-data-4.png)
 
 >[!NOTE]
 >
