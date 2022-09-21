@@ -3,18 +3,14 @@ unique-page-id: 10096679
 description: Voorbeeld ON24-gebeurtenisintegratie - Marketo Docs - productdocumentatie
 title: Voorbeeld ON24-gebeurtenisintegratie
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
 # Voorbeeld ON24-gebeurtenisintegratie {#example-on-event-integration}
-
->[!IMPORTANT]
->
->Vanaf augustus 2022 ondersteunt ON24 geen nieuwe Marketo-integratie meer. De informatie in dit artikel is alleen van toepassing op bestaande gebruikers.
 
 Hier is een voorbeeldgebeurtenis, inclusief campagnes, voor een ON24 webinar. Wanneer u uw gebeurtenis maakt, moet u uw campagnes testen voordat u deze uitvoert.
 
@@ -96,4 +92,4 @@ Hier is een voorbeeldgebeurtenis, inclusief campagnes, voor een ON24 webinar. Wa
 
 >[!MORELIKETHIS]
 >
->[Marketo ON24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Marketo ON24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

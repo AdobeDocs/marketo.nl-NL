@@ -3,18 +3,14 @@ unique-page-id: 10096683
 description: ON24 Updates voor gebeurtenisregistratie - Marketo Docs - Productdocumentatie
 title: ON24 Updates voor gebeurtenisregistratie
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
 
 # ON24 Updates voor gebeurtenisregistratie {#on-event-registration-updates}
-
->[!IMPORTANT]
->
->Vanaf augustus 2022 ondersteunt ON24 geen nieuwe Marketo-integratie meer. De informatie in dit artikel is alleen van toepassing op bestaande gebruikers.
 
 ## Registranten handmatig goedkeuren {#manually-approving-registrants}
 
@@ -44,4 +40,4 @@ Marketo haalt de aanwezigheidsinformatie elke nacht automatisch om 11 uur &#39;s
 
 >[!MORELIKETHIS]
 >
->[Marketo ON24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md)
+>[Marketo ON24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}

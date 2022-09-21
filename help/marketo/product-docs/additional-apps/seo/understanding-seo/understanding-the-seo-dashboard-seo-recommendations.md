@@ -3,10 +3,9 @@ unique-page-id: 2949180
 description: Werken met het SEO-dashboard - SEO Recommendations - Marketo Docs - Productdocumentatie
 title: Het SEO-dashboard begrijpen - SEO Recommendations
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -19,9 +18,9 @@ U kunt ook nagaan hoe u het gebruik van de sectie Recommendations kunt verbetere
 
 ![](assets/image2014-9-17-21-3a39-3a57.png)
 
-## Problemen bij optimalisatie van de bovenste pagina {#top-page-optimization-issues}
+## Problemen met optimalisatie van de bovenste pagina {#top-page-optimization-issues}
 
-Zo ziet u vijf belangrijke manieren om uw site meteen te optimaliseren! Klik enkel op om het even welke verbindingen om volledige [boor van het Detail van de Pagina neer](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) te bekijken.
+Zo ziet u vijf belangrijke manieren om uw site meteen te optimaliseren! Klik op een van de koppelingen om de volledige [Pagina-detailpagina omlaag](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}.
 
 >[!TIP]
 >
@@ -29,7 +28,7 @@ Zo ziet u vijf belangrijke manieren om uw site meteen te optimaliseren! Klik enk
 
 ![](assets/image2014-9-17-21-3a40-3a52.png)
 
-## Beste verbindingsmogelijkheden {#top-link-opportunities}
+## Beste koppelingsmogelijkheden {#top-link-opportunities}
 
 Door betrouwbare sites aan uw inhoud te koppelen, kunt u uw paginanummer verhogen. Hier zijn enkele van de mogelijkheden met de hoogste prioriteit die we voor uw site hebben gevonden.
 
@@ -43,4 +42,4 @@ Rechts! Duik hier dieper.
 
 >[!MORELIKETHIS]
 >
->[Pagina-detailpagina omlaag](../../../../product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
+>[Pagina-detailpagina omlaag](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md){target=&quot;_blank&quot;}

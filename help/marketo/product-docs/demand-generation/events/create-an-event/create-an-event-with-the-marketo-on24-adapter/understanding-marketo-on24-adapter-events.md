@@ -3,18 +3,14 @@ unique-page-id: 10096658
 description: Marketo On24-adaptergebeurtenissen - Marketo Docs - Productdocumentatie
 title: Marketo On24-adaptergebeurtenissen
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
-source-git-commit: 40cfdddac66b7cd90e33bedf11888a7c5e3b38c9
+source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
 # Marketo On24-adaptergebeurtenissen {#understanding-marketo-on-adapter-events}
-
->[!IMPORTANT]
->
->Vanaf augustus 2022 ondersteunt ON24 geen nieuwe Marketo-integratie meer. De informatie in dit artikel is alleen van toepassing op bestaande gebruikers.
 
 Als uw ON24-webinar niet is verbonden met Marketo, moet u de informatie over de deelnemers die al in Marketo staat, naar ON24 invoeren. Na het webinar, moet u aanwezigheidsinformatie nemen die reeds in ON24 is en het ingaan terug in Marketo.
 
@@ -26,4 +22,4 @@ In de onderstaande afbeelding ziet u het integratieproces.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Klaar om te beginnen? Beginnen met [Een gebeurtenis maken met de ON24-adapter](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md).
+Klaar om te beginnen? Beginnen met [Een gebeurtenis maken met de ON24-adapter](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target=&quot;_blank&quot;}.
