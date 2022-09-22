@@ -3,10 +3,9 @@ unique-page-id: 7512270
 description: Adobe Connect toevoegen als een LaunchPoint-service - Marketo Docs - Productdocumentatie
 title: Adobe Connect toevoegen als een LaunchPoint-service
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -27,25 +26,29 @@ Marketo beheert uw Adobe Connect-webinarregistratie en -aanwezigheid.
 >
 >Adobe Connect On Site wordt momenteel niet ondersteund.
 
-1. Ga naar **Admin** en klik **LaunchPoint**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2015-4-22-11-3a33-3a51.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-1.png)
 
-1. Selecteer **Nieuw** en **Nieuwe service**.
+1. Klikken **LaunchPoint**.
 
-   ![](assets/image2015-4-22-11-3a40-3a19.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-2.png)
 
-1. Voer een **Weergavenaam** in. Selecteer Adobe Connect onder **Service**.
+1. Klik op de knop **Nieuw** vervolgkeuzelijst en selecteer **Nieuwe service**.
 
-   ![](assets/new-service-adobe-connect.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-3.png)
 
-1. Voer uw **Gebruikersnaam** en **Toegangscode** in.
+1. Voer een **Weergavenaam**. Onder **Service**, selecteert u Adobe Connect.
 
-   ![](assets/image2015-4-22-11-3a50-3a6.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-4.png)
 
-1. Voltooi het proces door uw **Vergadermap URL** en **Wachtwoord van deelnemer** in te voeren, dan klik **Create**.
+1. Voer uw **Gebruikersnaam** en **Toegangscode**.
 
-   ![](assets/image2015-4-22-11-3a55-3a36.png)
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-5.png)
+
+1. Voltooi het proces door uw **URL van vergadermap** en **Wachtwoord deelnemer**,klik vervolgens op **Maken**.
+
+   ![](assets/add-adobe-connect-as-a-launchpoint-service-6.png)
 
    >[!TIP]
    >
@@ -53,12 +56,12 @@ Marketo beheert uw Adobe Connect-webinarregistratie en -aanwezigheid.
 
    >[!NOTE]
    >
-   >Nadat u zich hebt aangemeld bij uw Adobe Connect-account, selecteert u het tabblad **Seminars**. Kopieer de URL vanuit de browserbalk naar de instelling **Vergadermap URL** zonder naar een specifiek seminar te gaan.
+   >Als u zich hebt aangemeld bij uw Adobe Connect-account, selecteert u de optie **Seminars** tab. Kopieer de URL vanuit de browserbalk naar het deelvenster **URL van vergadermap** instellen.
 
 Uw Adobe Connect-service is nu gesynchroniseerd met Marketo!
 
-![](assets/adobe-connect-service.png)
+![](assets/add-adobe-connect-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->Leer hoe u [een gebeurtenis maakt met Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md).
+>Leer hoe u [Een gebeurtenis maken met Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target=&quot;_blank&quot;}.
