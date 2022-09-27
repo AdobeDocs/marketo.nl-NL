@@ -3,10 +3,9 @@ unique-page-id: 7512289
 description: GoToWebinar toevoegen als een LaunchPoint-service - Marketo Docs - Productdocumentatie
 title: GoToWebinar toevoegen als een LaunchPoint-service
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -27,37 +26,41 @@ Marketo beheert uw registratie en aanwezigheid van GoToWebinar.
 >
 >GoToMeeting, GoToWebcast en GoToTraining worden momenteel niet ondersteund.
 
-1. Ga naar **Admin** en selecteer **LaunchPoint**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2015-4-22-15-3a33-3a47.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
-1. Selecteer **Nieuw** en **Nieuwe service**.
+1. Klikken **LaunchPoint**.
 
-   ![](assets/new-service-gotowebinar.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
-1. Voer een **Weergavenaam** in. Selecteer **GoToWebinar** onder **Service**.
+1. Selecteren **Nieuw** en **Nieuwe service**.
 
-   ![](assets/new-service-goto-webinar1.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
-1. Klik vervolgens op **Log in GoToWebinar**.
+1. Voer een **Weergavenaam**. Onder **Service**, selecteert u **GoToWebinar**.
 
-   ![](assets/image2015-4-22-15-3a57-3a59.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
+
+1. Klik op Volgende **Aanmelden bij GoToWebinar**.
+
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-5.png)
 
    >[!NOTE]
    >
-   >Als u de Naam van het Bedrijf en Titel van de Baan van uw vorm van Marketo aan GoToWebinar wilt synchroniseren, selecteer **de doos van de Inschakelen Extra Velden**.
+   >Als u Bedrijfsnaam en Functie van uw Marketo-formulier wilt synchroniseren naar GoToWebinar, selecteert u de optie **Extra velden inschakelen** doos.
 
-1. Voer in het pop-upvenster Aanmelden bij GoToWebinar uw **GoToWebinar** e-mail en wachtwoord in en klik op **Aanmelden**.
+1. Voer in het pop-upvenster GoToWebinar Sign In uw **GoToWebinar** e-mail en wachtwoord en klik **Aanmelden**.
 
-   ![](assets/image2015-4-22-15-3a52-3a31.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 
-1. Nadat het venster wordt gesloten, klikt u op **Maken**.
+1. Klik op **Maken**.
 
-   ![](assets/image2015-4-22-15-3a57-3a43.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
-1. Geweldig! Uw **GoToWebinar**-account is nu gesynchroniseerd met Marketo.
+1. Geweldig! Uw **GoToWebinar** account is nu gesynchroniseerd met Marketo.
 
-   ![](assets/goto-webinar.png)
+   ![](assets/add-gotowebinar-as-a-launchpoint-service-8.png)
 
 >[!CAUTION]
 >
@@ -65,4 +68,4 @@ Marketo beheert uw registratie en aanwezigheid van GoToWebinar.
 
 >[!MORELIKETHIS]
 >
->Leer hoe u [een gebeurtenis maakt met GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md).
+>Leer hoe u [Een gebeurtenis maken met GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target=&quot;_blank&quot;}.

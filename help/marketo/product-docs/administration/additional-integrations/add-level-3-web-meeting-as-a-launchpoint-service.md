@@ -3,15 +3,14 @@ unique-page-id: 7512292
 description: Niveau 3-webvergadering toevoegen als een opstartpuntservice - Marketo Docs - Productdocumentatie
 title: Niveau 3 Webvergadering als Dienst van LaunchPoint toevoegen
 exl-id: f419b019-33bb-446d-baf5-55393770a703
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
 
-# Niveau 3-webvergadering toevoegen als een LaunchPoint-service {#add-level-web-meeting-as-a-launchpoint-service}
+# Niveau 3 Webvergadering als Dienst van LaunchPoint toevoegen {#add-level-three-web-meeting-as-a-launchpoint-service}
 
 Marketo beheert de registratie en aanwezigheid van Level 3-webvergaderingen.
 
@@ -23,26 +22,30 @@ Marketo beheert de registratie en aanwezigheid van Level 3-webvergaderingen.
 >
 >Een bestaand abonnement op Niveau 3 Vergadering van het Web en de beheersrechten zijn noodzakelijk voor deze stap. Heb uw Aantal van de Toegang, de Code van de Toegang, en Wachtwoord bij hand.
 
-1. Ga naar **Admin** en selecteer **LaunchPoint**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2015-4-23-10-3a5-3a12.png)
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 
-1. Selecteer **Nieuw** en **Nieuwe service**.
+1. Klikken **LaunchPoint**.
 
-   ![](assets/level-3-web-meeting-new-service.png)
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-2.png)
 
-1. Voer een **Weergavenaam** in. Selecteer **Level 3 Web Meeting** onder **Service**.
+1. Selecteren **Nieuw** en vervolgens **Nieuwe service**.
 
-   ![](assets/new-service-level-3.png)
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-3.png)
 
-1. Voer uw **Toegangsnummer**, **Toegangscode** en **Wachtwoord** in en klik vervolgens op **Maken**.
+1. Voer een **Weergavenaam**. Onder **Service**, selecteert u **Niveau 3 Webvergadering**.
 
-   ![](assets/image2015-4-23-10-3a10-3a26.png)
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-4.png)
+
+1. Voer uw **Toegangsnummer**, **Toegangscode**, en **Wachtwoord** en klik vervolgens op **Maken**.
+
+   ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-5.png)
 
 Uw Level 3-webvergaderaccount is nu gesynchroniseerd met Marketo!
 
-![](assets/level-3-web-meeting.png)
+![](assets/add-level-three-web-meeting-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->Leer hoe te om [een gebeurtenis met Niveau 3 Vergadering van het Web te creëren](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md).
+>Leer hoe u [een gebeurtenis maken met een Level 3-webvergadering](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target=&quot;_blank&quot;}.
