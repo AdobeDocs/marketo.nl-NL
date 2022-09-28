@@ -3,10 +3,9 @@ unique-page-id: 7512278
 description: ReadyTalk toevoegen als een LaunchPoint-service - Marketo Docs - Productdocumentatie
 title: ReadyTalk toevoegen als een LaunchPoint-service
 exl-id: 936735b5-913e-43ee-bdc2-d65ef37d93a3
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -23,30 +22,34 @@ Marketo beheert uw ReadyTalk-webinarregistratie en -aanwezigheid.
 >
 >Voor deze stap is een bestaand abonnement op ReadyTalk en beheerrechten vereist. Zorg dat u de volgende instellingen hebt: Toegangsnummer, Toegangscode en Wachtwoord.
 
-1. Ga naar **Admin** en klik **ReadyTalk**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2015-4-23-10-3a50-3a23.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-1.png)
 
-1. Selecteer **Nieuw** en **Nieuwe service**.
+1. Klikken **LaunchPoint**.
 
-   ![](assets/readytalk-new-service.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-2.png)
 
-1. Voer een **Weergavenaam** in. Selecteer **ReadyTalk** onder **Service**.
+1. Selecteren **Nieuw** en vervolgens **Nieuwe service**.
 
-   ![](assets/new-service-readytalk.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-3.png)
 
-1. Voer uw **Toegangsnummer** en **Toegangscode** in.
+1. Voer een **Weergavenaam**. Onder **Service**, selecteert u **ReadyTalk**.
 
-   ![](assets/image2015-4-24-18-3a53-3a2.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-4.png)
 
-1. Voltooi het proces door uw **Passcode** in te voeren en **Create** te klikken.
+1. Voer uw **Toegangsnummer** en **Toegangscode**.
 
-   ![](assets/image2015-4-24-18-3a53-3a38.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-5.png)
 
-Uw **ReadyTalk**-account is nu gesynchroniseerd met Marketo.
+1. Voltooi het proces door uw **Wachtwoord** en klik op **Maken**.
 
-![](assets/readytalk.png)
+   ![](assets/add-readytalk-as-a-launchpoint-service-6.png)
+
+Uw **ReadyTalk** account is nu gesynchroniseerd met Marketo.
+
+![](assets/add-readytalk-as-a-launchpoint-service-7.png)
 
 >[!MORELIKETHIS]
 >
->Leer hoe u [een gebeurtenis maakt met ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).
+>Leer hoe u [een gebeurtenis maken met ReadyTalk](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md).

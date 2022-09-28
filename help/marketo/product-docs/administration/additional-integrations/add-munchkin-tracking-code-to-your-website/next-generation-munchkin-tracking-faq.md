@@ -3,9 +3,9 @@ unique-page-id: 10096583
 description: Veelgestelde vragen over MUNCHKkin-tracking van de volgende generatie - Marketo-documenten - Productdocumentatie
 title: Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Nee. De code voor het bijhouden van de Munchkin-code blijft ongewijzigd. U hoeft
 
 >[!NOTE]
 >
->Deze wijziging heeft geen invloed op Web Personalization (Real-Time Personalization). Het blijft anonieme en bekende webbezoekers identificeren en inhoud in real-time personaliseren voor deze bezoekers.
+>Deze verandering beïnvloedt geen Personalisatie van het Web (Echt - tijd Personalisatie). Het blijft anonieme en bekende webbezoekers identificeren en inhoud in real-time personaliseren voor deze bezoekers.
 
 ## Waarom heeft Marketo het filter &quot;Is Anoniem&quot;uit Slimme Lijsten verwijderd? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
@@ -74,20 +74,20 @@ Controleer deze en geef aan waar u &quot;Is anoniem&quot; hebt ingesteld op Waar
 
 Bekijk de volgende koppelingen:
 
-[Overzicht van anonieme leads](https://nation.marketo.com/docs/DOC-2937)
+[Overzicht van anonieme leads](https://nation.marketo.com/docs/DOC-2937){target=&quot;_blank&quot;}
 
-[Anonieme lead-upgrades - Wijzigingen in Marketo-gebruikersinterface](https://nation.marketo.com/docs/DOC-2938)
+[Anonieme lead-upgrades - Wijzigingen in Marketo-gebruikersinterface](https://nation.marketo.com/docs/DOC-2938){target=&quot;_blank&quot;}
 
-[Anonieme hoofdupgrades - actie van de klant vereist](https://nation.marketo.com/docs/DOC-2939)
+[Anonieme hoofdupgrades - actie van de klant vereist](https://nation.marketo.com/docs/DOC-2939){target=&quot;_blank&quot;}
 
-[Anonieme lead-upgrades - analyserapporten](https://nation.marketo.com/docs/DOC-2940)
+[Anonieme lead-upgrades - analyserapporten](https://nation.marketo.com/docs/DOC-2940){target=&quot;_blank&quot;}
 
-[Anonieme hoofdupgrades - Releaseschema](https://nation.marketo.com/docs/DOC-2961)
+[Anonieme hoofdupgrades - Releaseschema](https://nation.marketo.com/docs/DOC-2961){target=&quot;_blank&quot;}
 
-[Anonieme leads - onder de Hout](https://nation.marketo.com/docs/DOC-2962)
+[Anonieme leads - onder de Hout](https://nation.marketo.com/docs/DOC-2962){target=&quot;_blank&quot;}
 
-[Anonieme lead-promotie voor bekende lead - Gedrag Munchkin V2](https://nation.marketo.com/docs/DOC-2963)
+[Anonieme lead-promotie voor bekende lead - Gedrag Munchkin V2](https://nation.marketo.com/docs/DOC-2963){target=&quot;_blank&quot;}
 
 ## Ik heb nog meer vragen! Hoe krijg ik antwoord? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Neem contact op met de [gemeenschap](https://nation.marketo.com/). U kunt ook contact opnemen met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support). Ze zullen graag je vragen beantwoorden.
+Neem contact op met de [gemeenschap](https://nation.marketo.com/){target=&quot;_blank&quot;}. U kunt ook contact opnemen met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}. Ze zullen graag je vragen beantwoorden.

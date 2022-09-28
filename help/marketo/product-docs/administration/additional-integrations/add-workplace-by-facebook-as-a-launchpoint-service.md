@@ -3,10 +3,9 @@ unique-page-id: 14745982
 description: Werkplaats toevoegen door Facebook als een opstartpuntservice - Marketo Docs - Productdocumentatie
 title: Workplace door Facebook toevoegen als een LaunchPoint-service
 exl-id: afcc1eca-8927-4a25-af9b-c18cef24b0ae
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -24,44 +23,52 @@ De Workplace-integratie bevat twee meldingstypen:
 
 >[!PREREQUISITES]
 >
->Neem contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) als Workplace Notifications nog niet zijn ingeschakeld.
+>Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}.
 
-1. Ga naar **LaunchPoint**, dan onder **New** klik **New Service**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2017-11-27-14-3a13-3a18-1.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-1.png)
 
-1. Voer een weergavenaam in voor de integratie van uw werkplek. Selecteer **Werkplaats bij Facebook** in de vervolgkeuzelijst **Service**. Klik **Maken**.
+1. Klikken **LaunchPoint**.
 
-   ![](assets/newservice.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-2.png)
 
-1. Laat de opties ongewijzigd om systeemmeldingen en interessante momenten te ontvangen. Klik **Maken**.
+1. Selecteren **Nieuw** en vervolgens **Nieuwe service**.
 
-   ![](assets/create.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-3.png)
 
-1. Klik **Autoriseren**. Hiermee opent u Workplace op een nieuw tabblad, waar u de autorisatie voltooit en Marketo toestemming geeft om informatie van Workplace op te halen.
+1. Voer een weergavenaam in voor de integratie van uw werkplek. In de **Service** vervolgkeuzelijst, selecteert u **Werkplaats voor Facebook**. Klikken **Maken**.
 
-   ![](assets/authorize.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-4.png)
 
-1. Voer op het nieuwe tabblad Werkplaats uw zakelijke e-mail- of Workplace-gebruikersnaam in en klik op **Doorgaan**.
+1. Laat de opties ongewijzigd om systeemmeldingen en interessante momenten te ontvangen. Klikken **Maken**.
 
-   ![](assets/workplacelogin.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-5.png)
 
-1. Voer uw werkplaatsgegevens in en klik op **Aanmelden**.
+1. Klikken **Autoriseren**. Hiermee opent u Workplace op een nieuw tabblad, waar u de autorisatie voltooit en Marketo toestemming geeft om informatie van Workplace op te halen.
 
-   ![](assets/workplacelogininfo.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-6.png)
 
-1. Kies in het pop-upvenster Werkplaats een Facebook-groep waar u meldingen uit Marketo wilt plaatsen (bijvoorbeeld Partnerintegratie). Klik **Installeren**.
+1. Voer op het tabblad Nieuwe werkplek uw bedrijfs-e-mail- of Workplace-gebruikersnaam in en klik op **Doorgaan**.
 
-   ![](assets/installmarketo.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-7.png)
+
+1. Voer uw werkplaatsreferenties in en klik op **Aanmelden**.
+
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-8.png)
+
+1. Kies in het pop-upvenster Werkplaats een Facebook-groep waar u meldingen uit Marketo wilt plaatsen (bijvoorbeeld Partnerintegratie). Klikken **Installeren**.
+
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-9.png)
 
 1. Je kunt de bevestigingsmelding hieronder bekijken. De tab wordt automatisch gesloten.
 
-   ![](assets/success.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-10.png)
 
 1. Vernieuw het tabblad Marketo en bevestig dat Workplace nu wordt vermeld als een actieve service in LaunchPoint.
 
-   ![](assets/confirm.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-11.png)
 
    Meldingen worden nu gepost naar de Facebook-groep die u in stap 7 hebt geselecteerd. Ze zullen er ongeveer zo uitzien:
 
-   ![](assets/example.png)
+   ![](assets/add-workplace-by-facebook-as-a-launchpoint-service-12.png)
