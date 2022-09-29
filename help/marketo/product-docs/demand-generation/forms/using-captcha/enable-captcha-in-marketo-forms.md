@@ -2,9 +2,9 @@
 description: CAPTCHA inschakelen in Marketo Forms - Marketo Docs - Productdocumentatie
 title: CAPTCHA inschakelen in Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
-source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
+source-git-commit: 04d6f37f924d14824c69f2c0caba3ef21ff0a124
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Het kan een paar minuten duren voordat wijzigingen in deze lijst worden doorgevo
 
 >[!NOTE]
 >
->Google voegt gestandaardiseerde tekst, inclusief koppelingen naar het privacybeleid en de servicevoorwaarden, toe aan formulieren die geschikt zijn voor CAPTCHA.
+>Standaardtekst, inclusief koppelingen naar het privacybeleid van Google en de servicevoorwaarden, worden toegevoegd aan formulieren die geschikt zijn voor CAPTCHA.
 
 >[!MORELIKETHIS]
 >
