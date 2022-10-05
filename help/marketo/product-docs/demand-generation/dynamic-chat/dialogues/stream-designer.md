@@ -2,7 +2,7 @@
 description: Stream Designer - Marketo Docs - Productdocumentatie
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: a746fc2350ba2441ecd2157708b88d2480237c49
+source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
 workflow-type: tm+mt
 source-wordcount: '821'
 ht-degree: 0%
@@ -72,7 +72,7 @@ Rechtsboven in Stream Designer ziet u een handvol pictogrammen. Dit is wat ze do
  </tr>
  <tr>
   <td><img src="assets/stream-designer-5.png"></td>
-  <td>Alle kaarten in uw stream indelen</td>
+  <td>Hiermee rangschikt u alle kaarten in uw stream</td>
  </tr>
 </table>
 
