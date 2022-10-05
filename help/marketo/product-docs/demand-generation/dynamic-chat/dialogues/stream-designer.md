@@ -2,9 +2,9 @@
 description: Stream Designer - Marketo Docs - Productdocumentatie
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: a746fc2350ba2441ecd2157708b88d2480237c49
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '821'
 ht-degree: 0%
 
 ---
@@ -49,19 +49,46 @@ De stroomontwerper bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
  </tr>
 </table>
 
+## Stroom Designer-pictogrammen {#stream-designer-icons}
+
+Rechtsboven in Stream Designer ziet u een handvol pictogrammen. Dit is wat ze doen.
+
+<table>
+ <tr>
+  <td><img src="assets/stream-designer-1.png"></td>
+  <td>Hiermee voegt u een raster toe aan de achtergrond voor diegenen die de voorkeur geven aan die weergave</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-2.png"></td>
+  <td>Inzoomen, grotere kaarten maken</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-3.png"></td>
+  <td>Uitzoomen, kleinere kaarten maken</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-4.png"></td>
+  <td>Opent een venster voor u om uw praatje te testen (duw op de zelfde knoop om te sluiten)</td>
+ </tr>
+ <tr>
+  <td><img src="assets/stream-designer-5.png"></td>
+  <td>Alle kaarten in uw stream indelen</td>
+ </tr>
+</table>
+
 ## Een stream maken {#create-a-stream}
 
 1. Nadat u [heeft uw dialoogvenster gemaakt](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}, klikt u op de knop **Stream Designer** tab.
 
-   ![](assets/stream-designer-1.png)
+   ![](assets/stream-designer-6.png)
 
 1. Sleep de vraagkaart en zet deze neer.
 
-   ![](assets/stream-designer-2.png)
+   ![](assets/stream-designer-7.png)
 
 1. Geef onder Chatbot Response je vraag hoe je wilt.
 
-   ![](assets/stream-designer-3.png)
+   ![](assets/stream-designer-8.png)
 
    >[!NOTE]
    >
@@ -69,7 +96,7 @@ De stroomontwerper bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
 
 1. Voer uw gebruikersreacties in en klik op **Opslaan**.
 
-   ![](assets/stream-designer-4.png)
+   ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
@@ -77,27 +104,27 @@ De stroomontwerper bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
 
 1. Voor &quot;ja&quot;willen wij een benoeming plannen, zodat onder die optie belemmering over de kaart van de Planner van de Aanstelling.
 
-   ![](assets/stream-designer-5.png)
+   ![](assets/stream-designer-10.png)
 
 1. Klik in de rechterkolom op **Opslaan**.
 
-   ![](assets/stream-designer-6.png)
+   ![](assets/stream-designer-11.png)
 
 1. Aangezien dat een doel is, sleep de Goal card onder de Planner van de Aanstelling.
 
-   ![](assets/stream-designer-7.png)
+   ![](assets/stream-designer-12.png)
 
 1. Geef uw doel een naam (of kies een bestaand doel) en klik op **Opslaan**.
 
-   ![](assets/stream-designer-8.png)
+   ![](assets/stream-designer-13.png)
 
 1. Voor &quot;Nee&quot; willen we zien of ze zich bij de mailinglijst voegen. Sleep dus onder deze optie over een andere vraagkaart.
 
-   ![](assets/stream-designer-9.png)
+   ![](assets/stream-designer-14.png)
 
 1. Voer uw reactie in en voeg antwoordopties toe voor de bezoeker. Klikken **Opslaan** wanneer gereed.
 
-   ![](assets/stream-designer-10.png)
+   ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
@@ -105,15 +132,15 @@ De stroomontwerper bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
 
 1. Onder het antwoord &quot;Ja&quot; sleept u over de kaart voor het vastleggen van gegevens, zodat u de e-mail van de bezoeker kunt verzamelen.
 
-   ![](assets/stream-designer-11.png)
+   ![](assets/stream-designer-16.png)
 
 1. Klik op de knop **Type** vervolgkeuzelijst en selecteer **E-mail**.
 
-   ![](assets/stream-designer-12.png)
+   ![](assets/stream-designer-17.png)
 
 1. Voer een chatbotbericht en tijdelijke aanduiding in. Controleer of het kenmerk is toegewezen aan het juiste veld in Marketo en klik op **Opslaan**.
 
-   ![](assets/stream-designer-13.png)
+   ![](assets/stream-designer-18.png)
 
    <table>
     <tr>
@@ -136,27 +163,27 @@ De stroomontwerper bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
 
 1. Aangezien het verzamelen van hun e-mail een doel is, sleept u de Goal-kaart onder Info Vastleggen.
 
-   ![](assets/stream-designer-14.png)
+   ![](assets/stream-designer-19.png)
 
 1. Geef uw doel een naam (of kies een bestaand doel) en klik op **Opslaan**.
 
-   ![](assets/stream-designer-15.png)
+   ![](assets/stream-designer-20.png)
 
 1. Vergeet niet een reactie toe te voegen als ze &quot;Nee&quot; zeggen. Een optie is om een berichtkaart hieronder te slepen en &quot;Toch bedankt&quot; te zeggen. In dit voorbeeld geven we ze een gratis PDF-document.
 
-   ![](assets/stream-designer-16.png)
+   ![](assets/stream-designer-21.png)
 
 1. In dit voorbeeld maken we een nieuw document. Geef deze een naam, voer de URL in naar de PDF die u al hebt gehost en klik op **Opslaan**.
 
-   ![](assets/stream-designer-17.png)
+   ![](assets/stream-designer-22.png)
 
 1. Selecteer **Voorvertoning** schakelen om een voorvertoning van het dialoogvenster weer te geven.
 
-   ![](assets/stream-designer-18.png)
+   ![](assets/stream-designer-23.png)
 
 1. Als u klaar bent om uw dialoogvenster te activeren, klikt u op **Publiceren**.
 
-   ![](assets/stream-designer-19.png)
+   ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
