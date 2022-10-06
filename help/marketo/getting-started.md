@@ -3,30 +3,34 @@ unique-page-id: 1147226
 description: Aan de slag - Marketo Docs - Productdocumentatie
 title: Aan de slag
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 1de69b096171373ab064be016d9ddd12b688a79f
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 9%
+source-wordcount: '161'
+ht-degree: 8%
 
 ---
 
 # Aan de slag {#getting-started}
 
-## STAP 1 Wat is Marketo {#what-is-marketo}
+## Wat is Adobe Marketo Engage {#what-is-marketo-engage}
 
-Wat vraagt Marketo u? Geweldige vraag!
+Wat is Marketo Engage, vraag je? Geweldige vraag!
 
-[Meer informatie over Marketo](/help/marketo/getting-started/what-is-adobe-marketo-engage.md)
+[Meer Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
 
-## STAP 2 Opzetten {#get-set-up}
+## Welke prijslagen beschikbaar zijn {#what-pricing-tiers-are-available}
+
+Kijk uit de [Pagina Prijzen en verpakking Marketo Engage](https://www.marketo.com/solutions/pricing/){target=&quot;_blank&quot;} voor meer informatie.
+
+## Instellen ophalen {#get-set-up}
 
 Met een beetje hulp van uw IT-team kunt u het snel doen.
 
-[Setup starten](/help/marketo/getting-started/setup/setup-steps.md)
+[Setup starten](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
 
-## STAP 3 Snel wint {#get-some-quick-wins}
+## Snel wat gewonnen {#get-some-quick-wins}
 
-Voltooi deze missies om de kernfuncties van Marketo te leren.
+Voltooi deze missies om de kerneigenschappen van Marketo Engage te leren.
 
 <table style="table-layout:fixed">
 <tr>
@@ -124,6 +128,4 @@ Voltooi deze missies om de kernfuncties van Marketo te leren.
 
 ## STAP 4 Gefeliciteerd! Je bent klaar voor de Natie  {#congrats-youre-ready-for-the-nation}
 
-Tijd om lid te worden van de Marketing Nation!
-
-[Lid worden van de Natie](https://nation.marketo.com)
+Kijk uit de [Marketing Nation](https://nation.marketo.com){target=&quot;_blank&quot;}!

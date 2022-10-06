@@ -1,9 +1,9 @@
 ---
 description: Opmerkingen bij de release - augustus 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - augustus 2022
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: d6a61a92cd00c038813793f50307211ecf88d439
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ De volgende functies begonnen met een gefaseerde implementatie op **26 augustus 
 
 * **Zichtbaarheid aangepaste koptekst webhaak**: Aangepaste webhaakkoppen worden nu weergegeven op het tabblad Beheer > Webhooks voor een betere zichtbaarheid.
 
-* **CAPTCHA**: Evalueer de geldigheid van formulierverzendingen met reCAPTCHA v3 om het inkomende formulierverkeer te scoren. Bouw marketing werkschema&#39;s om verdachte bot verkeer automatisch uit te sluiten, in quarantaine te plaatsen of te schrappen.
+* **CAPTCHA**: De geldigheid van formulierverzendingen evalueren [gebruiken van reCAPTCHA v3](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;} om het binnenkomende formulierverkeer te scoren. Bouw marketing werkschema&#39;s om verdachte bot verkeer automatisch uit te sluiten, in quarantaine te plaatsen of te schrappen.
 
 * **Toestemming om het formulier goed te keuren**: Nieuwe toestemming om te controleren welke ontwerpers veranderingen in een vorm in lijn met andere activa van de Studio van het Ontwerp kunnen goedkeuren. Zo voorkomt u dat andere ontwerpers wijzigingen in formulieren doorvoeren zonder dat iemand anders die hiervoor toestemming heeft gekregen, dit controleert.
 
