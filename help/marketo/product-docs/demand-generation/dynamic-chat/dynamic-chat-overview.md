@@ -2,9 +2,9 @@
 description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '953'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Met Dynamic Chat kunt u een gebruiksvriendelijke interface gebruiken om gebruike
 
 ## Integraties {#integrations}
 
-Een belangrijk onderdeel van Dynamic Chat is de mogelijkheid om native verbinding te maken met uw Marketo-abonnement. Als u deze integratie volledig wilt benutten, moet u eerst de gegevenssynchronisatie starten. Afhankelijk van de grootte van uw Marketo-database kan het maximaal 24 uur duren voordat gegevens voor de eerste database zijn opgeslagen, [eenmalig synchroniseren](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) om te voltooien.
+Een belangrijk onderdeel van Dynamic Chat is de mogelijkheid om native verbinding te maken met uw Marketo-abonnement. Als u de volledige mogelijkheden van deze integratie wilt benutten, moet u eerst de gegevenssynchronisatie starten. Afhankelijk van de grootte van uw Marketo-database kan het maximaal 24 uur duren voordat gegevens voor de eerste database zijn opgeslagen, [eenmalig synchroniseren](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md) om te voltooien.
 
 Het volgende wordt gesynchroniseerd:
 
@@ -47,7 +47,7 @@ U kunt ook de hoofdtekst van de uitnodiging aanpassen die naar de bezoeker wordt
 
 ## Vergaderingen {#meetings}
 
-Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschillende dialoogvensters. Hier vindt u het e-mailadres van de persoon die de afspraak heeft geboekt, met welke agent de afspraak is geboekt, wanneer de afspraak gepland is en of de vergadering al dan niet heeft plaatsgevonden.
+Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschillende dialoogvensters. Hier zult u het e-mailadres van de persoon vinden die de benoeming boekte, welke agent zij de benoeming met boekte, wanneer de benoeming gepland is voor te komen, en of de geplande vergaderingstijd is overgegaan of niet.
 
 ## Routering {#routing}
 
