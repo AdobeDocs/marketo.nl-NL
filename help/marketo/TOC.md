@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 7edaf40bebec891ac106bcbbaba1fd513d1f642c
+source-git-commit: 75c86cb5005aa4de9892649d071e48b8d41eff02
 workflow-type: tm+mt
-source-wordcount: '8802'
+source-wordcount: '8807'
 ht-degree: 0%
 
 ---
@@ -615,6 +615,10 @@ ht-degree: 0%
          + [Configuratie](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Chatbotgedrag](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [Dynamische chatactiviteiten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + Planning van benoeming {#appointment-scheduling}
+            + [Kalender](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
+            + [Vergaderingen](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
+            + [Routering](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Integraties {#integrations}
             + [Dynamische chat met Marketo verbinden](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [De documentkaart gebruiken](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
@@ -1362,7 +1366,7 @@ ht-degree: 0%
             + [Is de Acties van het Inzicht van de Verkoop verenigbaar met Salesforce Bliksem?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [Wat zijn de nieuwste clientversies?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
             + [Wat zijn de voorwaarden van de Acties van het Inzicht van de Verkoop van de Dienst?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
-            + [Waarom worden mijn contacten niet geduwd op de acties van het Inzicht van de Verkoop?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [Waarom worden geen van mijn Contacten die aan de Acties van het Inzicht van de Verkoop worden geduwd?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [Waarom vullen mijn dynamische velden niet uit?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
             + [Waarom kan ik geen contactpersoon verwijderen?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Waarom werden niet al mijn contacten geduwd op de acties van het Inzicht van de Verkoop?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
