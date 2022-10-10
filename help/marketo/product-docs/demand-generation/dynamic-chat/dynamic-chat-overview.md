@@ -2,9 +2,9 @@
 description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '919'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschi
 
 ## Routering {#routing}
 
-Hier kunt u een lijst zien van alle agenten die hun kalenders hebben aangesloten evenals welke orde zij aan websitebezoekers zullen worden voorgesteld. De vergaderingen gaan rond robin stijl, zodat als u vijf agenten hebt en agent drie nam de laatste vergadering, agent vier volgende krijgt, gevolgd door agent vijf, dan terug naar agent één.
+Hier kunt u een lijst zien van alle agenten die hun kalenders hebben aangesloten evenals welke orde zij aan websitebezoekers zullen worden voorgesteld.
 
 ## Veelgestelde vragen {#faq}
 
