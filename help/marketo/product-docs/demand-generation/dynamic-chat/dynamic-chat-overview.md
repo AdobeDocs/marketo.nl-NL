@@ -2,10 +2,10 @@
 description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 0ca537b46247eef1e7200180d7c1516465910dac
+source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
 workflow-type: tm+mt
-source-wordcount: '919'
-ht-degree: 0%
+source-wordcount: '845'
+ht-degree: 1%
 
 ---
 
@@ -41,17 +41,15 @@ In het lusje van de Configuratie, pas de blik en het gevoel van uw diverse Dialo
 
 ## Kalender {#calendar}
 
-In het lusje van de Kalender, verbind uw (Vooruitzichten of Gmail) kalender voor gebruik in afspraak die in het praatje plant. Zodra de kalender van een gebruiker met Dynamisch Praatje wordt verbonden, zal die gebruiker aan de rij worden toegevoegd en hun kalender zal voor websitebezoekers beschikbaar zijn om benoemingen te plannen op.
-
-U kunt ook de hoofdtekst van de uitnodiging aanpassen die naar de bezoeker wordt verzonden wanneer deze een afspraak in de agenda van de gebruiker plant.
+Verbind uw Vooruitzichten of Gmail kalender voor gebruik in benoeming die in het praatje plant. [Meer informatie over Kalender](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
 
 ## Vergaderingen {#meetings}
 
-Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschillende dialoogvensters. Hier zult u het e-mailadres van de persoon vinden die de benoeming boekte, welke agent zij de benoeming met boekte, wanneer de benoeming gepland is voor te komen, en of de geplande vergaderingstijd is overgegaan of niet.
+Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschillende dialoogvensters. [Meer informatie over vergaderingen](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
 
 ## Routering {#routing}
 
-Hier kunt u een lijst zien van alle agenten die hun kalenders hebben aangesloten evenals welke orde zij aan websitebezoekers zullen worden voorgesteld.
+Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben aangesloten, welke orde zij aan websitebezoekers zullen worden voorgesteld, en douane het verpletteren regels tot stand brengen. [Leer meer over het Verpletteren](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
 
 ## Veelgestelde vragen {#faq}
 
