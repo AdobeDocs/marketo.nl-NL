@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Protocollen configureren voor Marketo - Marketo Docs - Productdocumentatie
 title: Protocollen voor Marketo configureren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: ed29cc13d2ced85e639e8b1c6fe228e2bca82ffd
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1046'
+ht-degree: 2%
 
 ---
 
@@ -77,7 +77,7 @@ Voeg deze IP adressen aan uw collectieve lijst van gewenste personen toe:
 103.237.104.0/22\
 94.236.119.0/26
 
-Sommige anti-anti-spamsystemen gebruiken het terug-weg van de e-mail gebied in plaats van het IP adres voor het toewijzen. In die gevallen is de beste aanpak de lijst van gewenste personen &quot;&#42;.mktomail.com&quot;, aangezien Marketo verscheidene brievenbus subdomain gebruikt. Andere anti-spamsystemen lijst van gewenste personen die op Van adres wordt gebaseerd. In deze situaties, ben zeker om alle verzendende (&quot;van) domeinen te omvatten die uw groep van de Marketing gebruikt om met mensen/leiders te communiceren.
+Sommige anti-anti-spamsystemen gebruiken het terug-weg van de e-mail gebied in plaats van het IP adres voor het toewijzen. In die gevallen is de beste aanpak lijst van gewenste personen &quot;&#42;.mktomail.com&#39;, aangezien Marketo verscheidene brievenbus subdomain gebruikt. Andere anti-spamsystemen lijst van gewenste personen die op Van adres wordt gebaseerd. In deze situaties, ben zeker om alle verzendende (&#39;van&#39;) domeinen te omvatten die uw groep van de Marketing gebruikt om met mensen/leiders te communiceren.
 
 >[!NOTE]
 >
@@ -107,7 +107,7 @@ Uw marketingteam had u ook DKIM-informatie moeten sturen die u wilt toevoegen aa
 
 ## Stap 4: MX-records instellen voor uw domein {#step-set-up-mx-records-for-your-domain}
 
-Met een MX-record kunt u e-mail ontvangen naar het domein waarvan u e-mail verzendt om reacties en auto-responders te verwerken. Als u vanuit uw bedrijfsdomein verzendt, is dit waarschijnlijk al geconfigureerd. Als niet, kunt u het gewoonlijk plaatsen aan kaart aan het MX verslag van uw collectief domein.
+Met een MX-record kunt u e-mail ontvangen naar het domein waarvan u e-mail verzendt om reacties en auto-responders te verwerken. Als u van uw collectief domein verzendt, hebt u waarschijnlijk reeds gevormd dit. Als niet, kunt u het gewoonlijk plaatsen aan kaart aan het MX verslag van uw collectief domein.
 
 ## Uitgaande IP Adressen {#outbound-ip-addresses}
 
@@ -123,7 +123,7 @@ Marketo Engage [Salesforce CRM-synchronisatie](/help/marketo/product-docs/crm-sy
 
 **Marketo Engage Uitgaande IP de Blokken van het Adres**
 
-De volgende lijst behandelt alle servers van Marketo Engage die uitgaande vraag maken. Gebruik deze lijst als u om het even welke IP lijst van gewenste personen, server, firewall, toegangsbeheerlijst, veiligheidsgroep, of derdedienst vormt om uitgaande verbindingen van Marketo Engage te ontvangen.
+De volgende lijsten behandelen alle servers van Marketo Engage die uitgaande vraag maken. Gebruik de lijsten hieronder als u om het even welke IP lijst van gewenste personen, server, firewall, toegangsbeheerlijst, veiligheidsgroep, of derdedienst vormt om uitgaande verbindingen van Marketo Engage te ontvangen.
 
 <table>
  <tbody>
@@ -156,3 +156,48 @@ De volgende lijst behandelt alle servers van Marketo Engage die uitgaande vraag 
   </tr>
  </tbody>
 </table>
+
+<table>
+ <tbody>
+  <tr>
+   <th>Individueel IP adres</th>
+  </tr>
+  <tr>
+   <td>54 212 167,17</td>
+  </tr>
+   <tr>
+   <td>44 235 171 179</td>
+  </tr>
+   <tr>
+   <td>35 165 244 220</td>
+  </tr>
+   <tr>
+   <td>52.20.211,99</td>
+  </tr>
+   <tr>
+   <td>54 237 141 197</td>
+  </tr>
+  <tr>
+   <td>54 160 246 246</td>
+  </tr>
+   <tr>
+   <td>18.200.2011.81</td>
+  </tr>
+  <tr>
+   <td>34 247 24 245</td>
+  </tr>
+   <tr>
+   <td>54 220 138,65</td>
+  </tr>
+  <tr>
+   <td>13.237.155.2007</td>
+  </tr>
+   <tr>
+   <td>13.5.192.247</td>
+  </tr>
+  <tr>
+   <td>52 64 109,86</td>
+  </tr>
+ </tbody>
+</table>
+

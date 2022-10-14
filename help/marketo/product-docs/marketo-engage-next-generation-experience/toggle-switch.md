@@ -2,9 +2,9 @@
 description: Schakelen tussen Marketo-documenten - productdocumentatie
 title: Schakelaar schakelen
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: a7eeee24fb494c42a6992fc049311f63c6217b54
+source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -60,10 +60,13 @@ De volgende functies zijn momenteel beschikbaar in de Marketo next-gen interface
 * E-maildetails weergeven
 * E-maillijstweergave
 * E-mailsjabloondetails weergeven
+* E-mailsjabloonlijst
 * Dashboardweergave e-mailen
 * Formulierdetails weergeven
 * Formulierlijstweergave
 * Pagina met details over afbeeldingen en bestanden
 * Weergave Landingspagina
 * Weergave landingspagina
+* Details landingspagina
 * Gedetailleerde weergave van fragmenten
+
