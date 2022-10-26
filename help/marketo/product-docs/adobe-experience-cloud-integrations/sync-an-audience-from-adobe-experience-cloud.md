@@ -2,9 +2,9 @@
 description: Een publiek synchroniseren vanuit Adobe Experience Cloud - Marketo Docs - Productdocumentatie
 title: Een publiek synchroniseren vanuit Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Organisatietoewijzing Adobe instellen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
+>[Organisatietoewijzing Adobe instellen](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}
 
 ## Een publiek synchroniseren {#how-to-sync-an-audience}
 
@@ -49,9 +49,9 @@ ht-degree: 0%
 
 **Hoe werkt de cookiesync?**
 
-Wanneer de cookiesynchronisatie is ingeschakeld voor uw Marketo-abonnement, probeert Marketo&#39;s munchkin.js Adobe ECID&#39;s vast te leggen en op te slaan voor de Adobe IMS Org die u tijdens de integratie-instellingen hebt opgegeven en deze ECID&#39;s overeen te laten komen met de overeenkomstige Marketo cookie-id. Hierdoor kunnen de anonieme gebruikersprofielen van Marketo worden verrijkt met Adobe-ECID&#39;s.
+Wanneer de cookiesync voor uw Abonnement van Marketo wordt toegelaten, zal Marketo munchkin.js proberen om Adobe ECIDs voor de orde van de Org van de IMS van Adobe te vangen en op te slaan u tijdens de integratieopstelling specificeerde en deze ECIDs aan het overeenkomstige koekjesherkenningsteken van Marketo aan te passen. Hierdoor kunnen anonieme gebruikersprofielen van Marketo worden verrijkt met Adobe-ECID&#39;s.
 
-Een volgende stap is vereist om het anonieme gebruikersprofiel aan een Profiel van de Lood te associëren, dat gebruikend een gewone tekst e-mail wordt geïdentificeerd. Precies hoe dit werkt [wordt hier beschreven](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md).
+Een volgende stap is vereist om het anonieme gebruikersprofiel aan een Profiel van de Lood te associëren, dat gebruikend een gewone tekst e-mail wordt geïdentificeerd. Precies hoe dit werkt [wordt hier beschreven](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target=&quot;_blank&quot;}.
 
 **Waarom is de lijstgrootte in Marketo anders dan die in Adobe?**
 
