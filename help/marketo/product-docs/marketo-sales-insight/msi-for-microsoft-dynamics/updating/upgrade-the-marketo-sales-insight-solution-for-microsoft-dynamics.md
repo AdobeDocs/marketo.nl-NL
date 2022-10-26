@@ -1,46 +1,45 @@
 ---
 unique-page-id: 6849099
-description: Upgrade de Oplossing van het Inzicht van de Verkoop van de Marketo voor de Dynamiek van Microsoft - Marketo Docs - de Documentatie van het Product
-title: Verbetering de Oplossing van het Inzicht van de Verkoop van de Marketo voor de Dynamica van Microsoft
-translation-type: tm+mt
-source-git-commit: d1d74e24c07578b1b0c2696c08fe5a5be543cce8
+description: Upgrade de Marketo Sales Insight Solution for Microsoft Dynamics - Marketo Docs - Productdocumentatie
+title: Upgrade de Marketo Sales Insight Solution voor Microsoft Dynamics
+exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
+source-git-commit: 81bc90bcccc8073511c9f331471c0cda9f4147cb
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
+# Upgrade de Marketo Sales Insight Solution voor Microsoft Dynamics {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
-# Upgrade de Oplossing van het Inzicht van de Verkoop van de Marketo voor de Dynamica van Microsoft {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
-
-Wanneer een nieuwe oplossing van de Dynamiek van Microsoft voor het Inzicht van de Verkoop wordt vrijgegeven, kunt u de Verbetering van het gebied Admin in uw rekening downloaden.
+Wanneer een nieuwe Microsoft Dynamics-oplossing wordt uitgebracht voor Sales Insight, kunt u de Upgrade downloaden vanuit het beheergebied in uw account.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Admin** gebied.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/mainnavhand.png)
+   ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 
-1. Klik **Microsoft Dynamics**.
+1. Klikken **Microsoft Dynamics**.
 
-   ![](assets/image2015-3-16-10-3a51-3a25.png)
+   ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-2.png)
 
-1. Selecteer **Marketo-oplossing downloaden**.
+1. Selecteren **Marketo-oplossing downloaden**.
 
-   ![](assets/image2015-3-16-10-3a52-3a1.png)
+   ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-3.png)
 
-1. Selecteer de aangewezen oplossing voor uw versie van de Dynamica van Microsoft.
+1. Selecteer de geschikte oplossing voor uw versie van Microsoft Dynamics.
 
-   ![](assets/image2015-3-16-16-3a29-3a32.png)
+   ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-4.png)
 
    Geweldig! Een ZIP-bestand van de oplossing wordt nu naar het apparaat gedownload.
 
-## Upgrade {#performing-the-upgrade} uitvoeren
+## De upgrade uitvoeren {#performing-the-upgrade}
 
-1. Importeer de nieuwste versie van de oplossing over de bestaande versie van uw Dynamics CRM (bijvoorbeeld: als uw Dynamische CRM versie 1.4 heeft en de recentste versie 1.5 is, zou u _over_ versie 1.4) invoeren.
+1. Importeer de nieuwste versie van de oplossing over de bestaande versie van uw Dynamics CRM (bijvoorbeeld: als uw Dynamica CRM versie 1.4 heeft en de recentste versie 1.5 is, zou u invoeren _over_ versie 1.4).
 
-2. De volgende pop-up wordt weergegeven. Selecteer **Werkgebied voor upgrade** en **Aanpassingen behouden** en klik vervolgens op **Importeren**.
+2. De volgende pop-up wordt weergegeven. Selecteren **Werkgebied voor upgrade** en **Aanpassingen behouden** en klik vervolgens op **Importeren**.
 
 ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-5.png)
