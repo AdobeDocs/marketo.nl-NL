@@ -3,9 +3,9 @@ unique-page-id: 37355534
 description: Opmerkingen bij de release - jan 2020 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - jan 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
-source-git-commit: 153c6a05be7ef94a0bc8b591b8f2eebdf879c5db
+source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
 workflow-type: tm+mt
-source-wordcount: '838'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ De volgende functies worden vrijgegeven op **17 januari 2020**.
 
 ## Core Marketo Engage Adobe-toepassing {#core-marketo-engage-adobe-application}
 
-* [Adobe Experience Manager Asset Selector](/help/marketo/product-docs/adobe-experience-cloud-integrations-overview/importing-assets-with-adobe-experience-manager.md): Snel toegang tot middelen die op uw merk zijn afgestemd met AEM middelen die rechtstreeks in Marketo Engage beschikbaar zijn. Opmerking: Hoewel deze functie beschikbaar is in onze Marketo Sky- en klassieke ervaringen, zijn de beheermogelijkheden te vinden in onze klassieke ervaring. U moet een klant van AEM Assets zijn en versie 6.5 of hoger hebben.
+* [Adobe Experience Manager Asset Selector](/help/marketo/product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md): Snel toegang tot middelen die op uw merk zijn afgestemd met AEM middelen die rechtstreeks in Marketo Engage beschikbaar zijn. Opmerking: Hoewel deze functie beschikbaar is in onze Marketo Sky- en klassieke ervaringen, zijn de beheermogelijkheden te vinden in onze klassieke ervaring. U moet een klant van AEM Assets zijn en versie 6.5 of hoger hebben.
 
 >[!NOTE]
 >
