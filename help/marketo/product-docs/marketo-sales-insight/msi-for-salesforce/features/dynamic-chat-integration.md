@@ -2,9 +2,9 @@
 description: Dynamic Chat Integration - Marketo Docs - Productdocumentatie
 title: Dynamische chatintegratie
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
-source-git-commit: 676bd1c43fc62b2eae0e4536fb738b5be863e196
+source-git-commit: 9d5c941dc4869b03787a6135550a133ce12b365b
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -58,17 +58,27 @@ Doel bereikt: Aangemeld in Marketo en ingevuld in Verkoopinzicht wanneer een bez
 * Doelnaam
 * Pagina-URL
 
-Het tabblad Chat is beschikbaar in de deelvensters Lood en Contactpersoon. Het omvat Type van Activiteit, de Naam van de Dialoog en de kolommen van de Datum.
+Interactie met document: Aangemeld in Marketo en ingevuld in Sales Insight wanneer een bezoeker communiceert met een document dat via het chatbot wordt gedeeld.
+
+* Dialoognaam
+* Document
+* Status
+
+De activiteiten van het Praatje zijn beschikbaar in het Dashboard van Inzichten.
 
 ![](assets/dynamic-chat-integration-3.png)
 
-U kunt meer over een type activiteit leren door op het te klikken.
+Het tabblad Chat is beschikbaar in de deelvensters Lood en Contactpersoon. Het omvat Type van Activiteit, de Naam van de Dialoog en de kolommen van de Datum.
 
 ![](assets/dynamic-chat-integration-4.png)
 
-Ook de deelvensters Account en Opportunity bevatten de kolommen Naam, Type activiteit, Naam van dialoogvenster en Datum.
+U kunt meer over een type activiteit leren door op het te klikken.
 
 ![](assets/dynamic-chat-integration-5.png)
+
+Ook de deelvensters Account en Opportunity bevatten de kolommen Naam, Type activiteit, Naam van dialoogvenster en Datum.
+
+![](assets/dynamic-chat-integration-6.png)
 
 Het tabblad Chatten vindt u ook op het tabblad Global Marketo. Het omvat drie activiteitstypes (de Geëngageerde Dialoog, Geplande Benoeming, Gebereikt Doel), samen met de volgende kolommen:
 
@@ -80,8 +90,15 @@ Het tabblad Chatten vindt u ook op het tabblad Global Marketo. Het omvat drie ac
 
 U kunt meer informatie over een type activiteit krijgen door erop te klikken.
 
-![](assets/dynamic-chat-integration-6.png)
+![](assets/dynamic-chat-integration-7.png)
 
 >[!NOTE]
 >
->De activiteit &quot;in wisselwerking met Document&quot;zal in MSI in een aanstaande versie beschikbaar zijn.
+>Als het selectievakje Dynamische chatgegevens inschakelen is uitgeschakeld, worden de volgende functies uitgeschakeld:
+>
+>* Rij met chatactiviteiten op het dashboard Inzichten (weergave van slimme rasters en wekelijkse lijsten)
+>* Tabblad Chatten in de deelvensters Lead, Contact, Account en Opportunity
+>* Het tabblad Chatten op het tabblad Global Marketo
+>
+>Het is niet mogelijk om slechts één van deze eigenschappen onbruikbaar te maken.
+
