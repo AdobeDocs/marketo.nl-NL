@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: c6632c7b98bee8b1b2394b2e0d0e584ec2db8845
+source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
 workflow-type: tm+mt
-source-wordcount: '8809'
+source-wordcount: '8831'
 ht-degree: 0%
 
 ---
@@ -232,6 +232,11 @@ ht-degree: 0%
          + [Een werkruimte bewerken](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [Een bestaande personenpartitie bewerken](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [Segmenten delen over werkruimten en partities](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+   + Adobe Experience Cloud-integratie {#adobe-experience-cloud-integrations}
+      + [Overzicht Adobe Experience Cloud-integratie](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
+      + [Adobe-organisatietoewijzing instellen](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
+      + [Een publiek synchroniseren vanuit Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
+      + [Middelen importeren met Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
    + Core Marketo Concepts {#core-marketo-concepts}
       + Slimme campagnes {#smart-campaigns}
          + [Slimme campagnes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -471,7 +476,6 @@ ht-degree: 0%
          + [Privacybeheer](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [Privacyverzoeken](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [De naam van een Marketo-element wijzigen](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Adobe-organisatietoewijzing instellen](product-docs/core-marketo-concepts/miscellaneous/set-up-adobe-organization-mapping.md)
          + [Een publiek synchroniseren vanuit Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [Mappen begrijpen](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Kennisgevingen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)

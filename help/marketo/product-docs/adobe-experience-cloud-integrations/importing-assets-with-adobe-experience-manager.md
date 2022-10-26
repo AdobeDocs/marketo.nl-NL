@@ -28,23 +28,23 @@ Met de Asset Selector kunnen Marketo-klanten AEM middelen openen, selecteren en 
 
 1. Klikken **Design Studio**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-1.png)
+   ![](assets/one-1.png)
 
 1. Klik op de vervolgkeuzelijst Nieuw en selecteer **Importeren uit Adobe Experience Manager**.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-2.png)
+   ![](assets/two-1.png)
 
 1. Kies de map waarin uw afbeeldingen worden opgeslagen.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-3.png)
+   ![](assets/three-1.png)
 
 1. Meld u aan bij Adobe Experience Manager (als u dat nog niet hebt gedaan).
 
-   ![](assets/importing-assets-with-adobe-experience-manager-4.png)
+   ![](assets/four-1.png)
 
 1. Kies uw map. Selecteer vervolgens de gewenste afbeeldingen door op de miniatuur te klikken (u kunt maximaal 10 afbeeldingen selecteren). Klikken **Selecteren** wanneer gereed.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-5.png)
+   ![](assets/five.png)
 
    >[!NOTE]
    >
@@ -52,11 +52,11 @@ Met de Asset Selector kunnen Marketo-klanten AEM middelen openen, selecteren en 
 
 1. Klikken **Importeren** om het proces te voltooien.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-6.png)
+   ![](assets/six-1.png)
 
    En dat is het! Klikken **Sluiten** om aan de Studio van het Ontwerp terug te keren.
 
-   ![](assets/importing-assets-with-adobe-experience-manager-7.png)
+   ![](assets/seven-1.png)
 
 ## Notities {#things-to-note}
 
