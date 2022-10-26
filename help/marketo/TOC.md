@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 0ee977037504930b6e8ba4de3ea7b8e9e6859260
 workflow-type: tm+mt
-source-wordcount: '8831'
+source-wordcount: '8818'
 ht-degree: 0%
 
 ---
@@ -470,13 +470,11 @@ ht-degree: 0%
       + Diversen {#miscellaneous}
          + [Adobe Experience Manager-integratie configureren](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [Nieuwe campagnemap maken](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-         + [Middelen importeren met Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/importing-assets-with-adobe-experience-manager.md)
          + [Verklarende woordenlijst Sneltoetsen](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo-sandbox](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [Privacybeheer](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [Privacyverzoeken](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
          + [De naam van een Marketo-element wijzigen](product-docs/core-marketo-concepts/miscellaneous/rename-a-marketo-asset.md)
-         + [Een publiek synchroniseren vanuit Adobe Experience Cloud](product-docs/core-marketo-concepts/miscellaneous/sync-an-audience-from-adobe-experience-cloud.md)
          + [Mappen begrijpen](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Kennisgevingen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Typen meldingen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
