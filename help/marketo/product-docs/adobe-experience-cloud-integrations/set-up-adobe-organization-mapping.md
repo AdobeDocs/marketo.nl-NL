@@ -3,7 +3,7 @@ unique-page-id: 42762511
 description: Toewijzing van Adobe-organisaties instellen - Marketo Docs - Productdocumentatie
 title: Adobe-organisatietoewijzing instellen
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
-source-git-commit: 492f21f090dc2478271172cf7db470e16f202366
+source-git-commit: 22f46fedc90d064bd7fbe6f7d5e4621de0b83718
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -52,4 +52,4 @@ Als u wilt synchroniseren met Adobe-toepassingen, zoals Audience Manager, de B2B
 
 1. Als je _niet_ al aangemeld, wordt een pop-up weergegeven in een nieuw tabblad/venster. Meld u aan bij uw Adobe org (deze bewerking valideert de toegang tot de org).
 
-En dat is het! U kunt nu [delen van publieksgegevens](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} naar of [publiek synchroniseren](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;} uit Adobe Experience Cloud.
+En dat is het! U kunt nu [delen van publieksgegevens](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target=&quot;_blank&quot;} naar, of [publiek synchroniseren](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target=&quot;_blank&quot;} uit Adobe Experience Cloud.
