@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4794c44db57b41f6d9358f7e6cc24a41dda68550
+source-git-commit: 538622707eec53e9a137e9aed7ec448d379efe43
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
@@ -49,8 +49,6 @@ De volgende functies worden vrijgegeven op **14 oktober 2022**, met een gefaseer
 ## Omgeving met marketinggegevens {#marketing-data-environment}
 
 * **Adobe Privacy Service integratie**: Harmoniseren met Privacy Service om de naleving van de privacyregels voor gegevens in alle Experience Cloud-producten te automatiseren. Deze service is momenteel alleen beschikbaar voor Marketo Engage-klanten die zich hebben aangemeld bij de [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target=&quot;_blank&quot;} Systeem.
-
-* **Aangepaste velden voor programmalid synchroniseren**: Mogelijkheid om uitbreidbare velden die zijn vastgelegd voor een programmalid, bidirectioneel te synchroniseren (bijv. voorkeuren van deelnemers tijdens gebeurtenisregistratie, zoals voedsel, sessies, tracks, enz.)
 
 ## API-verbeteringen {#api-enhancements}
 
