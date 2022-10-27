@@ -1,11 +1,9 @@
 ---
 description: Overzicht Adobe Experience Cloud-integratie - Marketo Docs - Productdocumentatie
 title: Overzicht Adobe Experience Cloud-integratie
-hide: true
-hidefromtoc: true
-source-git-commit: c396c205d3cececc752f9b563c0d2ab41ff92b6a
+source-git-commit: 653ff34c57c6c47544402e58e39042f014b496fa
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -16,7 +14,7 @@ Adobe biedt een robuuste oplossing voor het in de handel brengen van de vraag, t
 
 >[!NOTE]
 >
->Voor de integratie, waaronder Audience Manager, B2B CDP Marketo Connector en Dynamic Chat, moet de IMS org in Marketo Engage worden toegewezen. [Leer hoe u hier Adobe-organisatietoewijzing instelt](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}.
+>Voor de integratie, waaronder Audience Manager, B2B CDP Marketo Connector en Dynamic Chat, moet de IMS org in Marketo Engage worden toegewezen. [Leer hoe u Adobe-organisatietoewijzing instelt](/help/marketo/product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md){target=&quot;_blank&quot;}.
 
 ## Adobe Experience Cloud-integratie {#adobe-experience-cloud-integrations}
 
