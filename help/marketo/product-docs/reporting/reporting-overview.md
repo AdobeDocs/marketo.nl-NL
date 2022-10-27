@@ -3,9 +3,9 @@ description: Rapportageoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van rapporten
 hide: true
 hidefromtoc: true
-source-git-commit: 9873a01d8828e247a5cb60b88b5239721226615d
+source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Marketo biedt verschillende rapporteringsmodules voor verschillende behoeften.
 
 ## Basisrapportage {#basic-reporting}
 
-U kunt basisrapporten instellen in programma&#39;s of in het gedeelte Analytics. De basisrapporten worden samengesteld uit verschillende types van uit-van-de-doos rapporten met de flexibiliteit om, tijdopnemers te filtreren te sorteren en aan te passen.
+U kunt instellen [basisverslagen](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target=&quot;_blank&quot;} in programma&#39;s of in het gedeelte Analytics. De basisrapporten worden samengesteld uit verschillende types van uit-van-de-doos rapporten met de flexibiliteit om, tijdopnemers te filtreren te sorteren en aan te passen.
 
 ## E-mailinzichten {#email-insights}
 
-Gebruik Analytics en Sends om krachtige inzichten van historische gegevens te verkrijgen.
+Analyses en verzendingen gebruiken voor [krachtige inzichten](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;} op e-mails van historische gegevens.
 
 ## Prestatie-inzichten {#performance-insights}
 
-Prestatie-inzichten omvatten kanaalprestaties en programmaprestaties voor betrokkenheid, pijplijn en inkomstengeneratie.
+[Prestatie-inzichten](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;} heeft betrekking op kanaalprestaties en programmaprestaties voor het maken van betrokkenheid, pijplijnen en opbrengsten.
 
 ## Geavanceerde BI-analyserapportage {#advanced-bi-analytics-reporting}
 
@@ -35,7 +35,7 @@ _(voorheen bekend als Revenue Cycle Explorer/Advanced Report Builder)_
 >
 >Niet alle klanten hebben Advanced BI Analytics en Advanced Journey Analytics modules aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
 
-Houd de ROI bij uw marketinginitiatieven. Analyseer e-mails, leads, programma&#39;s, opportuniteiten, modelprestatieanalyse (bedrijven) en modelprestatieanalyse (leads). In de BI Explorer kunt u aangepaste rapporten maken in het analysegebied en grafieken, grafieken, draaipunten en dashboards maken met uw gegevens.
+Houd de ROI bij uw marketinginitiatieven. Analyseer e-mails, Personen, Programma&#39;s, Kansen, de ModelAnalyse van Prestaties (Bedrijven), en de ModelAnalyse van Prestaties (Leads). In de BI Explorer kunt u aangepaste rapporten maken in het analysegebied en grafieken, grafieken, draaipunten en dashboards maken met uw gegevens.
 
 Tot de voordelen van Advanced BI Analytics Reporting behoren:
 
@@ -55,6 +55,10 @@ Tot de voordelen van Advanced BI Analytics Reporting behoren:
 
 ## Geavanceerde reisanalyse {#advanced-journey-analytics}
 
+>[!AVAILABILITY]
+>
+>Niet alle klanten hebben Advanced BI Analytics en Advanced Journey Analytics modules aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
+
 De Modellen van de Cyclus van opbrengsten - model alle stadia van uw volledige opbrengsttrechter en hoe zij tussen die stadia, van wanneer u eerst met een lood in werking stelt al tot de lood een gewonnen klant is.
 
 De Analysator van de Weg van het succes - krijg een visuele vertegenwoordiging van snelheid en stroom door uw Model van de Cyclus van de Opbrengst. Voor een geslaagde analyse van paden moet u omzetcyclusmodellen maken.
@@ -65,7 +69,7 @@ Opportunity Influence Analyzer - Prove Marketing levert een bijdrage door het ef
 
 >[!NOTE]
 >
->De ModelAnalyse van Prestaties (Bedrijven) en de ModelAnalyse van Prestaties (Leads) met de Ontdekkingsreiziger van de Ontvangsten hangt van het Model van de Cyclus van de Ontvangsten af.
+>De ModelAnalyse van Prestaties (Bedrijven) en de ModelAnalyse van Prestaties (Leads) met de Geavanceerde Rapportering van de Analyse van BI hangen van het Model van de Cycle van de Ontvangsten af dat in het Geavanceerde product van de Analyse van de Reis wordt gecreeerd.
 
 
 
