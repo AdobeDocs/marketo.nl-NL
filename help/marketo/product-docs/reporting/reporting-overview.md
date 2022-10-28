@@ -1,9 +1,9 @@
 ---
 description: Rapportageoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van rapporten
-source-git-commit: 79f09e37378a232fd4a254131f4eccb730ab263e
+source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -52,10 +52,6 @@ Tot de voordelen van Advanced BI Analytics Reporting behoren:
 * Visualisatie in grafische vorm, warmtekaarten en distributiecurven
 
 ## Geavanceerde reisanalyse {#advanced-journey-analytics}
-
->[!AVAILABILITY]
->
->Niet alle klanten hebben Advanced BI Analytics en Advanced Journey Analytics modules aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
 
 Opbrengstcyclusmodellen: modelleer alle stadia van uw volledige opbrengsttrechter en hoe zij tussen die stadia overgaan, van wanneer u eerst met een lood in werking stelt helemaal tot de lood een gewonnen klant is.
 
