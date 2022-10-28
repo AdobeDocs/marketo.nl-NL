@@ -3,7 +3,7 @@ description: Rapportageoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van rapporten
 hide: true
 hidefromtoc: true
-source-git-commit: 4190e80d67d5d694c66e10a30978b08038151701
+source-git-commit: fe5d940b9f5e2cec919a52377226d46f708b8a01
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
@@ -59,13 +59,13 @@ Tot de voordelen van Advanced BI Analytics Reporting behoren:
 >
 >Niet alle klanten hebben Advanced BI Analytics en Advanced Journey Analytics modules aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
 
-De Modellen van de Cyclus van opbrengsten - model alle stadia van uw volledige opbrengsttrechter en hoe zij tussen die stadia, van wanneer u eerst met een lood in werking stelt al tot de lood een gewonnen klant is.
+Opbrengstcyclusmodellen: modelleer alle stadia van uw volledige opbrengsttrechter en hoe zij tussen die stadia overgaan, van wanneer u eerst met een lood in werking stelt helemaal tot de lood een gewonnen klant is.
 
-De Analysator van de Weg van het succes - krijg een visuele vertegenwoordiging van snelheid en stroom door uw Model van de Cyclus van de Opbrengst. Voor een geslaagde analyse van paden moet u omzetcyclusmodellen maken.
+Padanalyse met succes: Krijg een visuele vertegenwoordiging van snelheid en stroom door uw Model van de Cyclus van de Inkomsten. Voor een geslaagde analyse van paden moet u omzetcyclusmodellen maken.
 
-Programmaanalyse - Identificeer snel programma&#39;s die succesvol zijn of niet en richt uw middelen geschikt. Gebruik de programmaanalysator om elke kosten te onderzoeken en te vergelijken en gedetailleerd per programma of per kanaal terug te keren.
+Programmaanalyse: Identificeer snel programma&#39;s die succesvol zijn of niet en richt uw middelen geschikt. Gebruik de programmaanalysator om elke kosten te onderzoeken en te vergelijken en gedetailleerd per programma of per kanaal terug te keren.
 
-Opportunity Influence Analyzer - Prove Marketing levert een bijdrage door het effect te meten van programma&#39;s en belangrijke afspraken die kansen hebben gecreëerd.
+Opportunity Influence Analyzer: De bijdrage van Marketing bewijzen door het effect te meten van programma&#39;s en belangrijke afspraken die kansen hebben gecreëerd.
 
 >[!NOTE]
 >
