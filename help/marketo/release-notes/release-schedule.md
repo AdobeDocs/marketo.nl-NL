@@ -3,9 +3,9 @@ unique-page-id: 5472490
 description: Releaseplanning - Marketo-documenten - productdocumentatie
 title: Releaseplanning
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 18a09eb1d41d76b35072f45d0bdb3c66908a6335
+source-git-commit: 8f620f5eca32bd9f58c95f02678be4914acfa158
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '140'
 ht-degree: 1%
 
 ---
@@ -37,33 +37,39 @@ _Releasedatums kunnen worden gewijzigd_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-jan-22.md">22 januari</a></td>
-   <td>21 januari 2022</td>
-   <td>Verzonden</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-mar-22.md">22 maart</a></td>
-   <td>11 maart 2022</td>
-   <td>Verzonden</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-may-22.md">mei '22</a></td>
-   <td>6 mei 2022</td>
-   <td>Verzonden</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-june-22.md">22 juni</td>
-   <td>24 juni 2022</td>
-   <td>Verzonden</td>
-  </tr>
-  <tr> 
-   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-aug-22.md">22 augustus</td>
-   <td>26 augustus 2022</td>
-   <td>Verzonden</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/current.md">22 oktober</td>
    <td>14 oktober 2022</td>
+   <td>Verzonden</td>
+  </tr>
+  <tr> 
+   <td>januari '23</td>
+   <td>20 januari 2023</td>
+   <td>Op schema</td>
+  </tr>
+  <tr> 
+   <td>23 maart</td>
+   <td>24 maart 2023</td>
+   <td>Op schema</td>
+  </tr>
+  <tr> 
+   <td>mei '23</td>
+   <td>19 mei 2023</td>
+   <td>Op schema</td>
+  </tr>
+  <tr> 
+   <td>23 juli</td>
+   <td>21 juli 2023</td>
+   <td>Op schema</td>
+  </tr>
+  <tr>
+   <td>23 september</td>
+   <td>8 september 2023</td>
+   <td>Op schema</td>
+  </tr>
+
+<tr>
+   <td>oktober '23</td>
+   <td>20 oktober 2023</td>
    <td>Op schema</td>
   </tr>
  </tbody>
