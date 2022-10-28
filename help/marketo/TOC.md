@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 0ee977037504930b6e8ba4de3ea7b8e9e6859260
+source-git-commit: d3070dba1556793905d8945eda12442fcba70ce9
 workflow-type: tm+mt
-source-wordcount: '8818'
+source-wordcount: '8820'
 ht-degree: 0%
 
 ---
@@ -1871,6 +1871,7 @@ ht-degree: 0%
 + Opmerkingen bij de release {#release-notes}
    + [Releaseplanning](release-notes/release-schedule.md)
    + [Huidige versie](release-notes/current.md)
+   + [Praktijkvrijgave](release-notes/practice.md)
    + Eerdere releases {#previous-releases}
       + 2022 {#2022}
          + [Opmerkingen bij de release: 22 januari](release-notes/previous-releases/2022/release-notes-jan-22.md)
