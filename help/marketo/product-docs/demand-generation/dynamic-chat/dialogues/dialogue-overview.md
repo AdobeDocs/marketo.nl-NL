@@ -2,7 +2,7 @@
 description: Dialoogoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van dialoogvensters
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: 6f1319c7a175d6b3753324ae21816efb2f416050
+source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -15,19 +15,19 @@ Dialogen zijn individuele praatjegesprekken. In elke Dialoog, beslist u waar het
 
 ## Criteria voor het publiek {#audience-criteria}
 
-De [Criteria voor het publiek](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md)In de sectie {target=&quot;_blank&quot;} van een dialoogvenster bepaalt u waar en tot wie uw chatsgesprek wordt weergegeven
+De [Criteria voor het publiek](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;} sectie van een Dialoog is waar u zult bepalen waar en aan wie uw praatjegesprek zal worden getoond
 
 ![](assets/dialogue-overview-1.png)
 
 ## Stream Designer {#stream-designer}
 
-De [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)In het gedeelte {target=&quot;_blank&quot;} van een dialoogvenster ontwerpt u het gesprek dat u met uw websitebezoekers wilt voeren.
+De [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)In de sectie {target=&quot;_blank&quot;} van een dialoogvenster ontwerpt u het gesprek dat u met uw websitebezoekers wilt voeren.
 
 ![](assets/dialogue-overview-2.png)
 
 ## Rapporten {#reports}
 
-De [Rapporten](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)In de sectie {target=&quot;_blank&quot;} van een dialoogvenster kunt u metingen bekijken over de prestaties van het dialoogvenster.
+De [Rapporten](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)In de sectie {target=&quot;_blank&quot;} van een dialoogvenster ziet u hoe goed uw dialoogvenster presteert.
 
 ![](assets/dialogue-overview-3.png)
 
