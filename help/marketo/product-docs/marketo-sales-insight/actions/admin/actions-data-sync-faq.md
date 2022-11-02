@@ -2,7 +2,7 @@
 description: veelgestelde vragen over gegevenssynchronisatie voor handelingen - Marketo-documenten - productdocumentatie
 title: Veelgestelde vragen over gegevenssynchronisatie voor handelingen
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3f00a7088a71bbdf028fd6b0a57da57ea13ca5de
+source-git-commit: fbeb28b1b89fb329a4b45fb01dbad7df939ddc0c
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -55,6 +55,8 @@ Er zijn 11 gebieden die van Marketo Engage aan de Acties van het Inzicht van de 
 * Achternaam
 * Contactpersoon-id Salesforce
 * lood-id Salesforce
+* Salesforce-account-id
+* ID Salesforce-kans
 * Marketo-id
 * Bedrijf
 * Titel
