@@ -2,10 +2,10 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9f4282991ba2ec35cfe6f50ede5d663e105682f4
+source-git-commit: ae2e1a476916e752cbde26a7c1322929fec85e4b
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -57,7 +57,7 @@ De volgende functies worden vrijgegeven op **14 oktober 2022**, met een gefaseer
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Binnenkort beschikbaar</td>
+   <td><i>Binnenkort beschikbaar</i></td>
    <td>n.v.t.</td>
   </tr>
   </tbody>
@@ -71,7 +71,7 @@ De volgende functies worden vrijgegeven op **14 oktober 2022**, met een gefaseer
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Binnenkort beschikbaar</td>
+   <td><i>Binnenkort beschikbaar</i></td>
    <td>n.v.t.</td>
   </tr>
   </tbody>
