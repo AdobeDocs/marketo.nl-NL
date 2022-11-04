@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: c932466d9307768e9635150e499e4eabcad7c83b
+source-git-commit: 9f4282991ba2ec35cfe6f50ede5d663e105682f4
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '551'
 ht-degree: 1%
 
 ---
@@ -44,7 +44,7 @@ De volgende functies worden vrijgegeven op **14 oktober 2022**, met een gefaseer
   </tr>
   <tr> 
    <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Stroom Designer-pictogrammen</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Kalender</a></td>
   </tr>
   </tbody>
 </table>
