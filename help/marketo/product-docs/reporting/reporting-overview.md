@@ -1,13 +1,13 @@
 ---
 description: Rapportageoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van rapporten
-source-git-commit: 0ad41745fbdb24ccbe13cf82b81635448f136e01
+exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
+source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%
 
 ---
-
 
 # Overzicht van rapporten {#reporting-overview}
 
@@ -64,8 +64,3 @@ Opportunity Influence Analyzer: De bijdrage van Marketing bewijzen door het effe
 >[!NOTE]
 >
 >De ModelAnalyse van Prestaties (Bedrijven) en de ModelAnalyse van Prestaties (Leads) met de Geavanceerde Rapportering van de Analyse van BI hangen van het Model van de Cycle van de Ontvangsten af dat in het Geavanceerde product van de Analyse van de Reis wordt gecreeerd.
-
-
-
-
-
