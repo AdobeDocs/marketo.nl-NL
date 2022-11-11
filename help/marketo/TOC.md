@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 118d0d8266fce05ea670f141372f2dbc2ce10116
+source-git-commit: 917cb879bcff0f37533a43e9bb62119986581f65
 workflow-type: tm+mt
-source-wordcount: '8827'
+source-wordcount: '8816'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,6 @@ ht-degree: 0%
          + [Niveau 3 Webvergadering als Dienst van LaunchPoint toevoegen](product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
          + [Munchkin-trackingcode toevoegen aan uw website](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
          + [Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie](product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
-         + [ReadyTalk toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-readytalk-as-a-launchpoint-service.md)
          + [Eén aanmelding toevoegen aan een portal](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [WebEx toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Workplace door Facebook toevoegen als een LaunchPoint-service](product-docs/administration/additional-integrations/add-workplace-by-facebook-as-a-launchpoint-service.md)
@@ -643,7 +642,6 @@ ht-degree: 0%
             + [Een gebeurtenis maken met Adobe Connect](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [Een gebeurtenis maken met GotoWebinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
             + [Een gebeurtenis maken met een webvergadering van niveau 3](product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md)
-            + [Een gebeurtenis maken met ReadyTalk](product-docs/demand-generation/events/create-an-event/create-an-event-with-readytalk.md)
             + [Een gebeurtenis maken met WebEx](product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
             + [Een gebeurtenis met zoomen maken](product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md)
             + Een gebeurtenis maken met de Marketo ON24-adapter {#create-an-event-with-the-marketo-on24-adapter}
