@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 917cb879bcff0f37533a43e9bb62119986581f65
+source-git-commit: 8a2429eb077b3bddafb3d8c7b96ecdca2eefba34
 workflow-type: tm+mt
-source-wordcount: '8816'
+source-wordcount: '8813'
 ht-degree: 0%
 
 ---
@@ -931,7 +931,6 @@ ht-degree: 0%
       + Leverbaarheid {#deliverability}
          + [Duurzaam abonnement opzeggen](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Power Pack voor e-maillevering: Een zaadlijst importeren](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
-         + [Hulpprogramma voor e-maillevering](product-docs/email-marketing/deliverability/email-deliverability-tool.md)
          + [Harde en zachte grenzen in e-mail](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
          + [Een aangepaste DKIM-handtekening instellen](product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md)
          + [SPF en DKIM instellen voor uw e-maillevering](product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md)
