@@ -1,43 +1,38 @@
 ---
 unique-page-id: 10912237
-description: Overzicht van de E-mailsjabloonkiezer - Marketo Docs - Productdocumentatie
+description: Overzicht E-mailsjabloonkiezer - Marketo Docs - Productdocumentatie
 title: Overzicht van de E-mailsjabloonkiezer
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
+source-git-commit: 73540b9fe5b3d3decf8f7cd03badec78a592cbc7
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
 
-
 # Overzicht van de E-mailsjabloonkiezer {#email-template-picker-overview}
 
-Wanneer u [een e-mail ](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md) creeert, hebt u verscheidene vrije malplaatjes om van te kiezen. U kunt ook uw eigen sjabloon maken en deze opslaan voor toekomstig gebruik.
+Wanneer u [een e-mail maken](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), je hebt verschillende gratis sjablonen waaruit je kunt kiezen. U kunt ook uw eigen sjabloon maken en deze opslaan voor toekomstig gebruik.
 
 ![](assets/starter-templates.png)
 
-**De naam** is de naam van het e-mailbericht dat u maakt op basis van de sjabloon, niet de sjabloon zelf. **De** beschrijving is ook van toepassing op het e-mailadres en is optioneel.
+**Naam** wordt de naam van het e-mailbericht dat u maakt op basis van de sjabloon, niet de sjabloon zelf. **Beschrijving** geldt ook voor de e-mail en is optioneel.
 
 ![](assets/two-2.png)
 
-Als uw e-mail kritiek is en u het Communicatie Limieten wilt omzeilen, [maak het operationeel](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) door de doos te controleren. **Openen in** editor is standaard geselecteerd. U wilt gewoon meteen beginnen met het bewerken van uw nieuwe e-mail. **** Creëer!
+Als uw e-mail van essentieel belang is en u wilt het Communicatie Limieten omzeilen, [operationeel maken](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) door het selectievakje in te schakelen. **Openen in editor** is standaard geselecteerd. Dit betekent dat u meteen wilt beginnen met het bewerken van uw nieuwe e-mail. **Maken** betekent, maak!
 
 ![](assets/three-2.png)
 
-**Startsjablonen** bevatten een verzameling kant-en-klare responsieve e-mailsjablonen. U kunt ze ongewijzigd gebruiken of ze naar wens aanpassen.
+**Eenvoudige sjablonen** bevat een verzameling kant-en-klare responsieve e-mailsjablonen. U kunt ze ongewijzigd gebruiken of ze naar wens aanpassen.
 
 ![](assets/starter-templates.png)
 
->[!NOTE]
->
->De Sjablonen van de Aanzet van Marketo worden gratis aan alle klanten aangeboden. Hoewel deze voortdurend worden bijgewerkt en geoptimaliseerd voor grote e-mailclients (en mobiele apparaten), moet u altijd beoordelen of ze aan uw behoeften voldoen. Met het [Hulpmiddel voor e-maillevering](/help/marketo/product-docs/email-marketing/deliverability/email-deliverability-tool.md) van Marketo kunt u de weergaven van sjablonen op verschillende e-mailclients weergeven. Helaas kan Marketo ontwerpverzoeken niet uitvoeren buiten de betaalde serviceovereenkomsten.
-
-**Mijn** sjablonen bestaan uit alle sjablonen die u hebt gemaakt. U hebt mogelijk ook mappen.
+**Mijn sjablonen** bestaat uit alle sjablonen die u hebt gemaakt. U hebt mogelijk ook mappen.
 
 ![](assets/five-2.png)
 
-Alle omslagen die onder E-mail > Malplaatjes in uw boom van de Studio van het Ontwerp verschijnen zullen in **Mijn Malplaatjes** beschikbaar zijn.
+Alle omslagen die onder E-mail > Malplaatjes in uw boom van de Studio van het Ontwerp verschijnen zullen beschikbaar in **Mijn sjablonen**.
 
 ![](assets/six-1.png)
 
@@ -53,7 +48,7 @@ In de voorvertoning ziet u hoe de sjabloon op een desktopcomputer wordt weergege
 
 ![](assets/nine-1.png)
 
-Als u van dit malplaatje houdt, kies het door **Select** op het bodemrecht te klikken. Wil je blijven zoeken? Klik **X** op het hogere recht. Gebruik de pijlen naar links en rechts om door sjablonen te bladeren.
+Als deze sjabloon u bevalt, kiest u deze door op **Selecteren** rechtsonder. Wil je blijven zoeken? Klik op de knop **X** rechtsboven. Gebruik de pijlen naar links en rechts om door sjablonen te bladeren.
 
 ![](assets/ten-1.png)
 
