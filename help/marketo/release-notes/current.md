@@ -2,10 +2,10 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ae2e1a476916e752cbde26a7c1322929fec85e4b
+source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '591'
+ht-degree: 1%
 
 ---
 
@@ -17,9 +17,110 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 oktober
 >
 >Kenmerken die door een ster worden aangeduid (![ster](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
-De volgende functies worden vrijgegeven op **14 oktober 2022**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
+## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
-## Cross-Channel Orchestration {#cross-channel-orchestration}
+De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **14 oktober 2022**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
+
+### Ervaring van de volgende generatie {#next-generation-experience}
+
+* **Bijgewerkte schermen in de volgende generatie ervaring**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
+
+   * Details landingspagina
+   * E-mailsjabloonlijst
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Schakelaar schakelen</a></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Uitgebreid Gebruikt door tabblad in E-mailsjabloondetails**: In de nieuwe ervaring, zult u extra informatie met betrekking tot activa zien gebruikend het e-mailmalplaatje, met inbegrip van de Status van Activa, Laatst Gewijzigd, en Laatst Gewijzigd door. U kunt ook de lijst met elementen zoeken, sorteren en filteren.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td>Verzonden</td>
+   <td>n.v.t.</td>
+  </tr>
+  </tbody>
+</table>
+
+* **Modules voor middelenfilters rapporteren**: Nieuw ontwerp voor de modellen van de rapportconfiguratie die een nieuwe activaboom in het configuratiemenu en een filter voor Gemaakt Gemaakt en Gewijzigd Datum tonen.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td>Verzonden</td>
+   <td>n.v.t.</td>
+  </tr>
+  </tbody>
+</table>
+
+### Omgeving met marketinggegevens {#marketing-data-environment}
+
+* **Adobe Privacy Service integratie**: Harmoniseren met Privacy Service om de naleving van de privacyregels voor gegevens in alle Experience Cloud-producten te automatiseren. Momenteel, is deze dienst slechts beschikbaar aan Marketo Engage klanten die aan het Systeem van Adobe Identity Management hebben ingezien.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
+  </tr>
+  </tbody>
+</table>
+
+### API-verbeteringen {#api-enhancements}
+
+* **Invoer van bulklood: Salespervereniging**: Pariteit met de LEIDREST API om lood met Salesperson tijdens het proces van de bulkloodinvoer te kunnen associëren, die ingewikkeldheid en het aantal vereiste API vraag vermindert.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td>Verzonden</td>
+   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Invoer van bulklood</a></td>
+  </tr>
+  </tbody>
+</table>
+
+### Verkoopoverzicht {#sales-insight}
+
+![(ster)](assets/yellow-star.png)
+
+* **Integratie van het Inzicht van de verkoop met Dynamische Chat**: Het dashboard met inzichten bevat nu dynamische chatactiviteiten in het slimme raster, samen met een wekelijkse samenvatting en detailkaarten.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamische chatintegratie</a></td>
+  </tr>
+  </tbody>
+</table>
+
+## Functies van de release van Agile
+
+De volgende functies volgen een indeling van Adobe en worden op verschillende datums vóór of na de standaardreleasedatum uitgebracht. Controleer onder elke functie de status.
 
 * **Dialoogstromen automatisch rangschikken voor dynamisch chatten**: Verbeter uw drukke canvas van de Dialoog door alles op het canvas in een schone en gemakkelijk te lezen formaat met de pers van een knoop door Auto te schikken.
 
@@ -73,103 +174,6 @@ De volgende functies worden vrijgegeven op **14 oktober 2022**, met een gefaseer
   <tr> 
    <td><i>Binnenkort beschikbaar</i></td>
    <td>n.v.t.</td>
-  </tr>
-  </tbody>
-</table>
-
-## Ervaring van de volgende generatie {#next-generation-experience}
-
-* **Bijgewerkte schermen in de volgende generatie ervaring**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
-
-   * Details landingspagina
-   * E-mailsjabloonlijst
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Schakelaar schakelen</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Uitgebreid Gebruikt door tabblad in E-mailsjabloondetails**: In de nieuwe ervaring, zult u extra informatie met betrekking tot activa zien gebruikend het e-mailmalplaatje, met inbegrip van de Status van Activa, Laatst Gewijzigd, en Laatst Gewijzigd door. U kunt ook de lijst met elementen zoeken, sorteren en filteren.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td>Verzonden</td>
-   <td>n.v.t.</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Modules voor middelenfilters rapporteren**: Nieuw ontwerp voor de modellen van de rapportconfiguratie die een nieuwe activaboom in het configuratiemenu en een filter voor Gemaakt Gemaakt en Gewijzigd Datum tonen.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td>Verzonden</td>
-   <td>n.v.t.</td>
-  </tr>
-  </tbody>
-</table>
-
-## Omgeving met marketinggegevens {#marketing-data-environment}
-
-* **Adobe Privacy Service integratie**: Harmoniseren met Privacy Service om de naleving van de privacyregels voor gegevens in alle Experience Cloud-producten te automatiseren. Momenteel, is deze dienst slechts beschikbaar aan Marketo Engage klanten die aan het Systeem van Adobe Identity Management hebben ingezien.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
-  </tr>
-  </tbody>
-</table>
-
-## API-verbeteringen {#api-enhancements}
-
-* **Invoer van bulklood: Salespervereniging**: Pariteit met de LEIDREST API om lood met Salesperson tijdens het proces van de bulkloodinvoer te kunnen associëren, die ingewikkeldheid en het aantal vereiste API vraag vermindert.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td>Verzonden</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Invoer van bulklood</a></td>
-  </tr>
-  </tbody>
-</table>
-
-## Verkoopoverzicht {#sales-insight}
-
-![(ster)](assets/yellow-star.png)
-
-* **Integratie van het Inzicht van de verkoop met Dynamische Chat**: Het dashboard met inzichten bevat nu dynamische chatactiviteiten in het slimme raster, samen met een wekelijkse samenvatting en detailkaarten.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamische chatintegratie</a></td>
   </tr>
   </tbody>
 </table>
