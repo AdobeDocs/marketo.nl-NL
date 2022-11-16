@@ -3,7 +3,7 @@ unique-page-id: 2360368
 description: Marketo Sales Insight in Salesforce Enterprise/Unlimited - Marketo Docs - Productdocumentatie configureren
 title: Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
-source-git-commit: 6879a542e17d7694ba42494867707ebc93b791d3
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -287,17 +287,15 @@ Marketo-persoonvelden moeten worden toegewezen aan Salesforce-contactvelden om e
     </tbody> 
    </table>
 
-1. Klikken **Opslaan** als u klaar bent.
+1. Klikken **Opslaan** als je klaar bent.
 
 ## Marketo Sales Insight Configuration Tab {#marketo-sales-insight-configuration-tab}
 
 1. Klik in Salesforce op de knop **+** aan het einde van de tabbalk en klik op **Marketo Sales Insight Config**.
 
-1. Selecteer **Marketo API inschakelen** selectievakje.
+1. Kopieer de referenties vanuit het deelvenster Soap API in [Admin-pagina Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} en plakt deze in de sectie Soap API van de pagina Configuratie van Salesforce Sales Insight.
 
-1. Kopieer de referenties vanuit het deelvenster Soap API in [Marketo&#39;s pagina Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} en plakt deze in de sectie Soap API van de pagina Configuratie van Salesforce Sales Insight.
-
-1. Kopieer de referenties vanuit het deelvenster Rest API in [Marketo&#39;s pagina Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} en plakt deze in de sectie Rest API van de pagina Configuratie Salesforce Sales Insight.
+1. Kopieer de referenties vanuit het deelvenster Rest API in [Admin-pagina Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target=&quot;_blank&quot;} en plakt deze in de sectie Rest API van de pagina Configuratie Salesforce Sales Insight.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 

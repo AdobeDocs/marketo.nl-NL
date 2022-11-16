@@ -2,10 +2,10 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '591'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,6 +22,8 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 oktober
 De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **14 oktober 2022**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
 
 ### Ervaring van de volgende generatie {#next-generation-experience}
+
+</br>
 
 * **Bijgewerkte schermen in de volgende generatie ervaring**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
 
@@ -70,6 +72,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 ### Omgeving met marketinggegevens {#marketing-data-environment}
 
+</br>
+
 * **Adobe Privacy Service integratie**: Harmoniseren met Privacy Service om de naleving van de privacyregels voor gegevens in alle Experience Cloud-producten te automatiseren. Momenteel, is deze dienst slechts beschikbaar aan Marketo Engage klanten die aan het Systeem van Adobe Identity Management hebben ingezien.
 
 <table> 
@@ -86,6 +90,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 ### API-verbeteringen {#api-enhancements}
 
+</br>
+
 * **Invoer van bulklood: Salespervereniging**: Pariteit met de LEIDREST API om lood met Salesperson tijdens het proces van de bulkloodinvoer te kunnen associëren, die ingewikkeldheid en het aantal vereiste API vraag vermindert.
 
 <table> 
@@ -101,6 +107,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 </table>
 
 ### Verkoopoverzicht {#sales-insight}
+
+</br>
 
 ![(ster)](assets/yellow-star.png)
 

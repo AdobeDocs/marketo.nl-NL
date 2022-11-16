@@ -2,9 +2,9 @@
 description: Configuratie van verkooponderzoeken in Salesforce - Marketo-documenten - Productdocumentatie
 title: Configuratie van de Acties van het Inzicht van de verkoop in Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 222b0692998be1fd15dc6465af1da627e1c32683
+source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,9 +30,15 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. Ga de Verre Naam van de Plaats in (het kan iets als &quot;MarketoSalesInsight&quot; zijn). Voer de URL van de externe site in (https://ims-na1-stg1.adobelogin.com) en klik op **Opslaan**.
+1. Ga de Verre Naam van de Plaats in (het kan iets als &quot;MarketoSalesInsight1&quot;zijn). Voer de URL van de externe site in `https://ims-na1.adobelogin.com` en klik op **Opslaan**.
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
+
+1. Klikken **Nieuwe externe site** opnieuw.
+
+   ![](assets/msi-actions-configuration-in-salesforce-4a.png)
+
+1. Ga de Verre Naam van de Plaats in (het kan iets als &quot;MarketoSalesInsight2&quot;zijn). URL externe site invoeren `https://mkto-sales-connect.adobe.io` en klik op **Opslaan**.
 
 ## Het toelaten van de Acties van het Inzicht van de Verkoop over CRM {#enabling-sales-insight-actions-across-the-crm}
 
