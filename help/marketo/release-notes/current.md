@@ -2,10 +2,10 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: f656901c3a25e043e59411857190f4711036637d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '629'
+ht-degree: 1%
 
 ---
 
@@ -20,6 +20,24 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 oktober
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
 De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **14 oktober 2022**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
+
+### Omgeving met marketinggegevens {#marketing-data-environment}
+
+</br>
+
+* **Aangepaste velden voor programmalid synchroniseren**: Mogelijkheid om uitbreidbare velden die zijn vastgelegd voor een programmalid, bidirectioneel te synchroniseren (bijv. voorkeuren van deelnemers tijdens gebeurtenisregistratie, zoals voedsel, sessies, tracks, enz.)
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
 
 ### Ervaring van de volgende generatie {#next-generation-experience}
 
