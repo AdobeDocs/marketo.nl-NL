@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: Stappen instellen - Marketo Docs - Productdocumentatie
 title: Stappen instellen
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: fed5fc3a511022fbac40b8ad369a1cdda5112167
+source-git-commit: 7b0f5e9e39a2521c32a9b718a07c3ed524079eaf
 workflow-type: tm+mt
-source-wordcount: '2002'
+source-wordcount: '2085'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Sommige stappen vereisen hulp van uw team van IT.
 
    ![](assets/setup-steps-1.png)
 
-Gefeliciteerd.  U bent nu in Marketo en kunt beginnen te verkennen. U zou uw collega&#39;s op het marketing team kunnen willen uitnodigen om zich bij u aan te sluiten. U kunt dit doen door nieuwe gebruikers toe te voegen.
+Gefeliciteerd.  Je bent nu in Marketo en kan beginnen te verkennen. U zou uw collega&#39;s op het marketing team kunnen willen uitnodigen om zich bij u aan te sluiten. U kunt dit doen door nieuwe gebruikers toe te voegen.
 
 Ga naar de **Beheer** gebied.
 
@@ -125,7 +125,7 @@ Kies een NAAM voor de bestemmingspagina&#39;s. Enkele voorbeelden:
 
 Het eerste deel (vet weergegeven) is het `[LandingPageCNAME]`. Je hebt het nodig in Stap 5.
 
-Ga naar het beheergebied als u de accounttekenreeks wilt ophalen die u vervangt door de CNAME-landingspagina.
+Ga naar het beheergebied om de accounttekenreeks op te halen die u vervangt door de CNAME van de bestemmingspagina.
 
 ![](assets/setup-steps-9.png)
 
@@ -151,11 +151,11 @@ Er zijn verschillende maatregelen die u kunt nemen om ervoor te zorgen dat de e-
 
 * **Koppelingen markeren**. U kunt een CNAME kiezen om uw eigen domein (in plaats van Marketo) te gebruiken in de koppelingen die u opneemt in e-mails van Marketo. Dit versterkt uw domeinbranding en verhoogt vertrouwen en leverbaarheid met uw ontvangers.
 * **Voeg Marketo toe aan uw bedrijfs-e-maillijst van gewenste personen.** Het is gebruikelijk om teste-mails naar uw testaccounts te sturen voordat u e-mails naar de werkelijke gebruikers stuurt. Als u Marketo voegt op lijst van gewenste personen, kunt u voorkomen dat deze teste-mails worden geblokkeerd of gemarkeerd als spam.
-* **Stel SPF en DKIM in.** Deze technologieën verzekeren uw ontvangers dat uw e-mails van Marketo geen spam zijn. Als u wilt voorkomen dat de spamfilters van de ontvangers uw e-mails van Marketo afwijzen, voert u de volgende stappen uit om [Een SPF en DKIM instellen voor uw e-maillevering](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
-* **Stel een MX-record in voor uw domein.** Met een MX-record kunt u e-mail ontvangen naar het domein waarvan u e-mail verzendt om reacties en auto-responders te verwerken. Als u vanuit uw bedrijfsdomein verzendt, is dit waarschijnlijk al geconfigureerd. Als niet, kunt u opstelling gewoonlijk aan kaart aan het MX verslag van uw collectief domein.
+* **Stel SPF en DKIM in.** Deze technologieën verzekeren uw ontvangers dat uw e-mails van Marketo geen spam zijn. Als u wilt voorkomen dat spamfilters van ontvangers u e-mails van Marketo weigeren, voert u de volgende stappen uit om [Een SPF en DKIM instellen voor uw e-maillevering](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
+* **Stel een MX-record in voor uw domein.** Met een MX-record kunt u e-mail ontvangen naar het domein waarvan u e-mail verzendt om reacties en auto-responders te verwerken. Als u van uw collectief domein verzendt, hebt u waarschijnlijk reeds gevormd dit. Als niet, kunt u opstelling gewoonlijk aan kaart aan het MX verslag van uw collectief domein.
 * **Aanbevolen instellingen voor Van adres.** U moet een geldig, bestaand en werkend e-maildomein in Van Adres in alle e-mailcampagnes gebruiken. Het kan nuttig zijn om subdomain van uw collectief domein eerder dan het verzenden van uw collectief domein te vormen. Dit zorgt ervoor dat problemen van uw zakelijke mailstream geen invloed hebben op uw Marketo mailstream en vice versa. Bovendien sturen van post van `something@nonexistentdomain.com` zorgt ervoor dat e-mail wordt gefilterd of geblokkeerd. Elk domein dat in het Van Adres van de afzender wordt gebruikt, moet een geldige en werkende postmaster@ en een misbruikaccount hebben.
 
-Als u Google Apps gebruikt om uw bedrijfs-e-mail te hosten, kunt u geen e-mails met misbruik@ of postmaster@ onder uw domein maken. Om dit probleem te verhelpen, moet u groepen maken met de naam &quot;misbruik&quot; en &quot;postmeester&quot;. Gebruikers die lid zijn van deze groepen ontvangen e-mails die naar deze adressen worden verzonden (bijvoorbeeld postmaster@domain.com). Gedetailleerde instructies voor het maken van groepen zijn te vinden [hier](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}.
+Als u Google Apps gebruikt om uw bedrijfs e-mail te ontvangen, zult u geen misbruik@ of postmaster@ e-mails onder uw domein kunnen tot stand brengen. Om dit probleem te verhelpen, moet u groepen maken met de naam &quot;misbruik&quot; en &quot;postmeester&quot;. Gebruikers die lid zijn van deze groepen ontvangen e-mails die naar deze adressen worden verzonden (bijvoorbeeld postmaster@domain.com). Gedetailleerde instructies voor het maken van groepen zijn te vinden [hier](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}.
 
 Kies een CNAME voor koppelingen voor het bijhouden van e-mail (kies een CNAME die _verschillend_ van de landingspagina (CNAME u in Stap 3 koos). Enkele voorbeelden:
 
@@ -197,7 +197,7 @@ U hebt nu alle informatie die u nodig hebt om uw verzoek naar IT te verzenden.
 >
 >Bent u een klant van het Pak van de Lancering? U kunt deze stap overslaan. Uw consultant zal u een document van de de opstellingsinstructies van IT tijdens uw kickoff vraag verstrekken.
 
-Zodra u alle benodigde informatie hebt verzameld, kunt u een aanvraag naar de IT-afdeling sturen. U kunt de onderstaande tekst als een sjabloon gebruiken en de vetgedrukte tekst vervangen door uw eigen gegevens.
+Zodra u alle noodzakelijke informatie hebt verzameld, bent u bereid om een verzoek naar IT te verzenden. U kunt de onderstaande tekst als een sjabloon gebruiken en de vetgedrukte tekst vervangen door uw eigen gegevens.
 
 [Een koppeling naar dit artikel opnemen](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md).
 
@@ -238,7 +238,7 @@ Ons marketingteam gebruikt nu het Marketo-platform om met onze mensen te communi
 
 >[!NOTE]
 >
->Raadpleeg Marketo Support als u een verkorte lijst met IP&#39;s wilt gebruiken om de lijst van gewenste personen te maken die specifiek is voor uw omgeving.
+>Bereik uit naar de Steun van Marketo als u een afgekorte lijst van IPs zou willen om lijst van gewenste personen specifiek voor uw milieu te .
 
     * Als ons antispamsysteem van domeinen gebruikt, voeg deze toe:
 
@@ -318,7 +318,7 @@ Voer in het veld Domein uw domein voor het bijhouden van e-mail in. Dit moet de 
 
 ## Uw CRM integreren {#integrate-your-crm}
 
-Dit is waarschijnlijk de meest opwindende stap in uw configuratie: het is tijd om Marketo op te vullen met al die leads en contactpersonen die u in uw CRM hebt opgeslagen!
+Dit is waarschijnlijk de meest opwindende stap van uw opstelling - het is tijd om Marketo met al die lood en contacten te vullen u in uw CRM hebt opgeslagen!
 
 Kies uit het volgende, afhankelijk van CRM uw bedrijf gebruikt.
 
@@ -340,5 +340,9 @@ Marketo beschikt over JavaScript voor het bijhouden van wijzigingen (Munchkin ge
 >[!NOTE]
 >
 >Ervaring met HTML die nodig is om de trackingcode toe te voegen.
+
+## Prestatieverwachtingen {#performance-expectations}
+
+Wat kunt u van Marketo verwachten op het gebied van prestaties? Deze kan variëren, afhankelijk van de grootte en complexiteit van uw marketingcampagnes. Maar u kunt prestatieniveaus op gelijke voet met wat in de &quot;Standaard&quot;kolom in verscheidene lijsten verwachten die in worden gevonden in [Marketo Engage Productbeschrijving](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target=&quot;_blank&quot;}. De kolommen &quot;Prestaties&quot; en &quot;Prestaties Plus&quot; verwijzen naar pakketten met prestatieniveaus die [hogere prestatieniveaus](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target=&quot;_blank&quot;}.
 
 Al uw opstellingsstappen zijn voorbij. Het enige wat er over is, is om in te duiken en Marketo te gebruiken.
