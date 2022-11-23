@@ -2,9 +2,9 @@
 description: Algemene regels voor formuliervalidatie - Marketo-documenten - productdocumentatie
 title: Algemene regels voor formuliervalidatie
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: 2736e8a0456de76b9894312c26f6ba9c0345daee
+source-git-commit: d9e605d31e9a3434849ba800ba527775885ab34a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 
 >[!IMPORTANT]
 >
->Deze regels zijn van toepassing op alle formulieren in uw Marketo Engage-abonnementen.
+>Deze regels zijn van toepassing op alle formulieren in uw Marketo Engage-abonnement(en).
 
 1. Klik in Marketo op **Beheer**.
 
@@ -69,7 +69,7 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 
 >[!NOTE]
 >
->Marketo Engage heeft een bepaalde lijst van gewezen personen van vrije consument e-maildomeinen die worden geblokkeerd wanneer het gebruiken van onze vooraf geladen &quot;Lijst van gewezen personen van het Domein van de Consumenten E-mail&quot;regel. [Deze lijst hier weergeven](/help/marketo/product-docs/administration/settings/assets/freemaildomains_2023.csv).
+>Marketo Engage heeft een bepaalde lijst van gewezen personen van vrije consument e-maildomeinen die worden geblokkeerd wanneer het gebruiken van onze vooraf geladen &quot;Lijst van gewezen personen van het Domein van de Consumenten E-mail&quot;regel. [Deze lijst hier weergeven](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
 
 ## Toegang per formulier uitschakelen{#how-to-disable-access-per-form}
 
