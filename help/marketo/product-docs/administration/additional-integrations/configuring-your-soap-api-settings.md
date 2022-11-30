@@ -3,10 +3,9 @@ unique-page-id: 2360352
 description: Uw SOAP API-instellingen configureren - Marketo Docs - Productdocumentatie
 title: Uw SOAP API-instellingen configureren
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -15,19 +14,23 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->We raden u aan de REST API te gebruiken. Meer informatie vindt u op [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
+>We raden u aan de REST API te gebruiken. Meer informatie over [developers.marketo.com](https://developers.marketo.com/documentation/rest/).
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Admin** en klik **Webservices**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-19-10-3a58-3a11.png)
+   ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. Plaats aangewezen **Sleutel van de Encryptie**, klik **sparen Veranderingen**, en geef alle informatie aan uw Ontwikkelaar door.
+1. Klikken **Webservices**.
 
-   ![](assets/image2014-9-19-11-3a0-3a46.png)
+   ![](assets/configuring-your-soap-api-settings-2.png)
+
+1. Stel de juiste **Coderingssleutel**, klikt u op **Wijzigingen opslaan** en geeft alle informatie door aan uw ontwikkelaar.
+
+   ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >

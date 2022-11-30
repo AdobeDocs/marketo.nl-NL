@@ -3,9 +3,9 @@ unique-page-id: 2360358
 description: Alleen aanmelding door gebruiker beperken tot SSO - Marketo Docs - Productdocumentatie
 title: Alleen gebruikersaanmelding beperken tot SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 5dcaf886c488e5e1b7fd1c4caa5f869e70c6fb18
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,21 @@ Als je [SSO gebruiken](/help/marketo/product-docs/administration/additional-inte
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Beheer** en klik op **Aanmeldingsinstellingen**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-24-14-3a44-3a40.png)
+   ![](assets/restrict-user-login-to-sso-only-1.png)
+
+1. Klikken **Aanmeldingsinstellingen**.
+
+   ![](assets/restrict-user-login-to-sso-only-2.png)
 
 1. Klikken **Beveiligingsinstellingen bewerken**.
 
-   ![](assets/image2014-9-24-14-3a44-3a53.png)
+   ![](assets/restrict-user-login-to-sso-only-3.png)
 
 1. Vouw de geavanceerde instellingen uit, schakel **SSO vereist** en klik op **Opslaan**.
 
-![](assets/image2014-9-24-14-3a45-3a6.png)
+![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >

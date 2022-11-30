@@ -3,10 +3,9 @@ unique-page-id: 17728028
 description: Zoomen toevoegen als een opstartpuntservice - Marketo Docs - Productdocumentatie
 title: Zoomen toevoegen als een opstartpuntservice
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -23,29 +22,33 @@ Marketo beheert uw zoomregistratie en aanwezigheid.
 >
 >Voor deze stap is een bestaand abonnement op Zoomen en beheerrechten vereist. U moet beschikken over het e-mailadres en wachtwoord waarmee u zich kunt aanmelden bij Zoomen.
 
-1. Ga naar **Admin** gebied en klik **LaunchPoint**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/launchpoint.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
-1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer **Nieuwe service**.
+1. Klikken **LaunchPoint**.
 
-   ![](assets/newservicelp.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-2.png)
 
-1. Voer een **Weergavenaam** in. Selecteer **Zoomen** onder **Service**.
+1. Selecteren **Nieuw** en vervolgens **Nieuwe service**.
 
-   ![](assets/newservice-1.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-3.png)
 
-1. Klik **Aanmelden bij zoomen**.
+1. Voer een **Weergavenaam**. Onder **Service**, selecteert u **Zoomen**.
 
-   ![](assets/login.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-4.png)
+
+1. Klikken **Log in Zoomen**.
+
+   ![](assets/add-zoom-as-a-launchpoint-service-5.png)
 
 1. Voer in het aanmeldvenster Zoomen uw zoomgegevens in en klik op **Aanmelden**.
 
-   ![](assets/zoomlogin.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-6.png)
 
-1. Nadat het venster wordt gesloten, klikt u op **Maken**.
+1. Klik op **Maken**.
 
-   ![](assets/create-1.png)
+   ![](assets/add-zoom-as-a-launchpoint-service-7.png)
 
    Geweldig! Uw zoomaccount is nu gesynchroniseerd met Marketo en bevindt zich in het gebied LaunchPoint.
 
@@ -55,4 +58,4 @@ Marketo beheert uw zoomregistratie en aanwezigheid.
 
 >[!MORELIKETHIS]
 >
->Leer hoe u [een gebeurtenis maakt met Zoomen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).
+>Leer hoe u [Een gebeurtenis maken met Zoomen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md).

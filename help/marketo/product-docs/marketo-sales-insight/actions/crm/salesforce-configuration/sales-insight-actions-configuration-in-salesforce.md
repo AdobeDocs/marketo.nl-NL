@@ -2,9 +2,9 @@
 description: Configuratie van verkooponderzoeken in Salesforce - Marketo-documenten - Productdocumentatie
 title: Configuratie van de Acties van het Inzicht van de verkoop in Salesforce
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 854bbc3642d52e670e0e55e6660ea85661edf904
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 ## Nieuwe externe site toevoegen in Salesforce {#add-new-remote-site-in-salesforce}
 
-1. Klik in Salesforce op **Instellen**.
+1. Klik in Salesforce op **Instellen**.
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. Zoeken naar &quot;externe site&quot; en selecteren **Instellingen voor externe site**.
+1. Zoeken naar &quot;externe site&quot; en selecteren **Instellingen voor externe site**.
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
-1. Klikken **Nieuwe externe site**.
+1. Klikken **Nieuwe externe site**.
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 0%
 
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
-1. Ga de Verre Naam van de Plaats in (het kan iets als &quot;MarketoSalesInsight2&quot;zijn). URL externe site invoeren `https://mkto-sales-connect.adobe.io` en klik op **Opslaan**.
+1. Ga de Verre Naam van de Plaats in (het kan iets als &quot;MarketoSalesInsight2&quot;zijn). URL externe site invoeren `https://mkto-sales-connect.adobe.io` en klik op **Opslaan**.
 
 ## Het toelaten van de Acties van het Inzicht van de Verkoop over CRM {#enabling-sales-insight-actions-across-the-crm}
 

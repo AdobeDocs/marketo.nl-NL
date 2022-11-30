@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: Webhaak maken - Marketo Docs - Productdocumentatie
 title: Webhaak maken
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 25a574719eb6c064d33b6a1cebafe2668ed1330d
+source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,21 @@ Gebruik websites om gebruik te maken van externe webservices voor het verzenden 
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Ga naar **Beheer** en klik op **Webhaken**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-24-14-3a52-3a57.png)
+   ![](assets/create-a-webhook-1.png)
+
+1. Klikken **Webhaken**.
+
+   ![](assets/create-a-webhook-2.png)
 
 1. Klikken **Nieuwe webhaak**.
 
-   ![](assets/image2014-9-24-14-3a53-3a9.png)
+   ![](assets/create-a-webhook-3.png)
 
 1. Geef uw webhaak een naam en configureer deze.
 
-   ![](assets/image2014-9-24-14-3a53-3a19.png)
+   ![](assets/create-a-webhook-4.png)
 
    >[!NOTE]
    >
@@ -44,9 +48,9 @@ Gebruik websites om gebruik te maken van externe webservices voor het verzenden 
 
    * **Type aanvraag**: Selecteer de te gebruiken methode van HTTP (DELETE, GET, PATCH, POST, PUT).
 
-   Klikken **Maken**.
+1. Klikken **Maken**.
 
-   ![](assets/image2014-9-24-14-3a53-3a35.png)
+   ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >
