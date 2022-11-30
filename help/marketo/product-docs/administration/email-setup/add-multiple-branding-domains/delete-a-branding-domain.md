@@ -3,23 +3,26 @@ unique-page-id: 11378041
 description: Een brandingdomein verwijderen - Marketo Docs - Productdocumentatie
 title: Een brandingdomein verwijderen
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# Een brandingdomein {#delete-a-branding-domain} verwijderen
+# Een brandingdomein verwijderen {#delete-a-branding-domain}
 
-1. Klik in Mijn Marketo op **Admin** en vervolgens op de koppeling **Email**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2016-6-29-16-3a42-3a20.png)
+   ![](assets/delete-a-branding-domain-1.png)
 
-1. Selecteer in de tabel Brandingdomeinen het domein dat u wilt verwijderen en klik op **Delete**.
+1. Klikken **E-mail**.
 
-   ![](assets/image2016-8-12-11-3a0-3a26.png)
+   ![](assets/delete-a-branding-domain-2.png)
+
+1. Selecteer in de tabel Brandingdomeinen het domein dat u wilt verwijderen en klik op **Verwijderen**.
+
+   ![](assets/delete-a-branding-domain-3.png)
 
    >[!NOTE]
    >

@@ -3,15 +3,14 @@ unique-page-id: 11377958
 description: Aanmeldingsgeschiedenis gebruiker - Marketo-documenten - Productdocumentatie
 title: Aanmeldingsgeschiedenis gebruiker
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-# Inloggeschiedenis van gebruiker {#user-login-history}
+# Aanmeldingsgeschiedenis gebruiker {#user-login-history}
 
 De historie van de gebruikersaanmelding helpt verantwoordingsplicht en beveiliging te behouden door precies aan te geven wie zich heeft aangemeld bij uw abonnement, inclusief mislukte aanmeldingspogingen.
 
@@ -29,37 +28,41 @@ De historie van de gebruikersaanmelding identificeert personen die zich aanmelde
 
 De aanmeldingsgeschiedenis van de gebruiker weergeven:
 
-1. Klik op het tabblad **Beheer** en klik onder Beveiliging op **Gebruikers en rollen**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2016-7-12-9-3a2-3a31.png)
+   ![](assets/user-login-history-1.png)
 
-1. Klik op het tabblad **Aanmeldingsgeschiedenis**. De lijst toont de meest recente logins.
+1. Klik onder Beveiliging op **Gebruikers en rollen**.
 
-   ![](assets/login-history-tab.jpg)
+   ![](assets/user-login-history-2.png)
+
+1. Klik op de knop **Aanmeldingsgeschiedenis** tab. De lijst toont de meest recente logins.
+
+   ![](assets/user-login-history-3.png)
 
 1. Gebruik het filter om uw zoekopdracht te verfijnen.
 
-   ![](assets/filter-main.jpg)
+   ![](assets/user-login-history-4.png)
 
 1. Selecteer een datumbereik met de datumkiezers.
 
-   ![](assets/select-date-range-hand.jpg)
+   ![](assets/user-login-history-5.png)
 
 1. Of kies een optie in het keuzemenu.
 
-   ![](assets/filter-select-from-dropdown.jpg)
+   ![](assets/user-login-history-6.png)
 
-1. Selecteer de gebruikers van **Gebruikers** drop-down.
+1. Selecteer de gebruikers in het menu **Gebruikers** vervolgkeuzelijst.
 
-   ![](assets/user-dropdown.jpg)
+   ![](assets/user-login-history-7.png)
 
-1. Schakel het selectievakje **Alleen mislukte aanmeldingen** in om alleen mislukte aanmeldingen in uw zoekopdracht weer te geven.
+1. Controleer de **Alleen mislukte aanmeldingen** om alleen mislukte aanmeldingen in uw zoekopdracht weer te geven.
 
-   ![](assets/only-failed-logins.jpg)
+   ![](assets/user-login-history-8.png)
 
-1. Klik **Toepassen**.
+1. Klikken **Toepassen**.
 
-   ![](assets/click-apply-real.jpg)
+   ![](assets/user-login-history-9.png)
 
    >[!NOTE]
    >
