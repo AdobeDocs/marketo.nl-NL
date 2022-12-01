@@ -3,33 +3,32 @@ unique-page-id: 2360247
 description: De standaardinstelling wijzigen vanuit e-mail en vanuit Label - Marketo Docs - Productdocumentatie
 title: De standaardinstelling wijzigen van e-mail en van label
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
-# De standaardinstelling wijzigen vanuit e-mail en vanuit label {#change-the-default-from-email-and-from-label}
+# De standaardinstelling wijzigen van e-mail en van label {#change-the-default-from-email-and-from-label}
 
-Elke Admin-gebruiker heeft de mogelijkheid om de standaardwaarden voor **From Email** en **From Label** te wijzigen, zodat deze standaardinstellingen worden gebruikt wanneer hij of zij nieuwe e-mails maakt.
+Elke Admin-gebruiker kan de standaardwaarden voor **Van e-mail** en **Van label** zodat deze standaardinstellingen worden gebruikt wanneer er nieuwe e-mails worden gemaakt.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Admin** sectie.
+1. Ga naar de **Beheer** sectie.
 
-   ![](assets/adminhand.png)
+   ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. Klik **E-mail**.
+1. Klikken **E-mail**.
 
-   ![](assets/image2014-9-18-16-3a27-3a19.png)
+   ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Voer de standaardwaarden in die u wilt gebruiken voor **Van e-mail** en **Van label** en klik vervolgens op **Wijzigingen opslaan**.
+1. Voer de gewenste standaardwaarden in **Van e-mail** en **Van label** klik vervolgens op **Wijzigingen opslaan**.
 
-   ![](assets/change-default-hands.png)
+   ![](assets/change-the-default-from-email-and-from-label-3.png)
 
 >[!NOTE]
 >
