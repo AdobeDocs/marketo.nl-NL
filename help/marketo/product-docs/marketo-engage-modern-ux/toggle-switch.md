@@ -2,7 +2,7 @@
 description: Schakelen tussen Marketo-documenten - productdocumentatie
 title: Schakelaar schakelen
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 3f3846fbb3b7e279e8eb2350f5d493fbb1da6304
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Schakelaar schakelen {#toggle-switch}
 
-Met de schakeloptie kunt u schakelen tussen de klassieke Marketo-interface en de Marketo Engage-ervaring van de volgende generatie. Het is beschikbaar in alle hieronder gemarkeerde gebieden.
+Met de schakeloptie schakelt u tussen de klassieke Marketo-interface en de Moderne UX. Het is beschikbaar in alle hieronder gemarkeerde gebieden.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Schakel de schakeloptie voor afzonderlijke rollen of alle rollen in. Zo gaat het
 
 ## Inschakelen voor functies {#enable-for-features}
 
-U kunt de volgende-gen interface van Marketo handmatig inschakelen voor afzonderlijke functies of voor alle beschikbare (huidige en toekomstige) functies.
+U kunt de Marketo Engage Modern UX handmatig inschakelen voor afzonderlijke functies of voor alle beschikbare (huidige en toekomstige) functies.
 
 In een gebied dat momenteel de Schakelaar van de Knevel (in dit voorbeeld zijn wij in de Mening van de Lijst E-mail) heeft, klik eenvoudig de knevel op het bodemrecht van de pagina.
 
@@ -55,7 +55,7 @@ Selecteren **Inschakelen voor alle beschikbare functies** en klik op **OK**.
 
 ## Beschikbare functies {#available-features}
 
-De volgende functies zijn momenteel beschikbaar in de Marketo next-gen interface (met nieuwe functies toegevoegd bij elke release):
+De volgende eigenschappen zijn momenteel beschikbaar in Modern UX (met nieuwe eigenschappen toegevoegd elke Versie):
 
 * E-maildetails weergeven
 * E-maillijstweergave
