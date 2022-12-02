@@ -2,10 +2,10 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 82fa4560d60fe782856fadf207f5ecd9602d2944
+source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Aangepaste velden voor programmalid synchroniseren**: Mogelijkheid om uitbreidbare velden die zijn vastgelegd voor een programmalid, bidirectioneel te synchroniseren (bijv. voorkeuren van deelnemers tijdens gebeurtenisregistratie, zoals voedsel, sessies, tracks, enz.)
+* **Aangepaste veldsynchronisatie voor programmalid**: Mogelijkheid om uitbreidbare velden die zijn vastgelegd voor een programmalid, bidirectioneel te synchroniseren (bijv. voorkeuren van deelnemers tijdens gebeurtenisregistratie, zoals voedsel, sessies, tracks, enz.)
 
 <table> 
   <tr> 
@@ -34,7 +34,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tr>
   <tr> 
    <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Aangepaste velden voor programmalid synchroniseren</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Aangepaste veldsynchronisatie voor programmalid</a></td>
   </tr>
   </tbody>
 </table>
