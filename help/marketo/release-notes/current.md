@@ -2,10 +2,10 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9d729864f8e5ea4efbab1b827778a1ff608e7296
+source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '628'
+ht-degree: 1%
 
 ---
 
@@ -53,7 +53,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tbody>
 </table>
 
-### Ervaring van de volgende generatie {#next-generation-experience}
+### Ervaring van de volgende generatie {#modern-ux}
 
 </br>
 
@@ -69,7 +69,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tr>
   <tr> 
    <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md">Schakelaar schakelen</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Schakelaar schakelen</a></td>
   </tr>
   </tbody>
 </table>
@@ -205,3 +205,4 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 * **Forms 1.0**: De afkapping van Forms 1.0 wordt voltooid met de release van oktober. Forms 1.0-middelen kunnen geen gegevens meer naar Marketo Engage verzenden en retourneren fouten als dat wordt geprobeerd.
 
 * **Geen script, Forms**: Forms werkt niet meer wanneer Javascript in de browser wordt uitgeschakeld. Voor het verzenden van formulieren moet Javascript zijn ingeschakeld.
+
