@@ -1,7 +1,8 @@
 ---
 description: Opmerkingen bij de release - januari 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - januari 2022
-source-git-commit: 9136ef46cd3b3293bef605dec997f23b46fa4326
+exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '964'
 ht-degree: 0%
@@ -10,7 +11,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: Januari 2022 {#release-notes-jan-22}
 
-De volgende functies zijn opgenomen in de release van 22 januari. Controleer de Adobe Marketo Engage-editie van uw voor de beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van 22 januari. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -20,7 +21,7 @@ De volgende functies zijn opgenomen in de release van 22 januari. Controleer de 
 
 De volgende functies worden vrijgegeven op **21 januari 2022**, met een gefaseerde uitrol van elk onderdeel gedurende de volgende weken (tenzij anders aangegeven).
 
-## Ervaring van de volgende generatie {#next-generation-experience}
+## Ervaring van de volgende generatie {#modern-ux}
 
 * **Bijgewerkte schermen in de volgende generatie ervaring**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
 
@@ -77,7 +78,7 @@ Marketo Engage klanten die ook de Adobe Experience Platform (AEP) gebruiken kunn
 
 ## Aankondigingen {#announcements}
 
-* **Marketo Sky Deprectie**: In maart is Marketo Sky niet meer beschikbaar omdat we onze bronnen richten op het bieden van de gebruikerservaring van de volgende generatie. In een poging om toegang te behouden tot functionaliteit die exclusief is voor Marketo Sky vandaag, brengen we Asset Expiration en Smart Campaign Priority Override in maart in de mainstream-ervaring. [Klik hier](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) voor meer informatie.
+* **Marketo Sky Deprectie**: In maart is Marketo Sky niet meer beschikbaar omdat we onze bronnen richten op het bieden van de gebruikerservaring van de volgende generatie. In een poging om toegang te behouden tot functionaliteit die exclusief is voor Marketo Sky vandaag, brengen we Asset Expiration en Smart Campaign Priority Override in maart in de mainstream-ervaring. [Klik hier](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) voor meer informatie.
 
 * **Vervalsing van eindpunten van formulier**: Niet-ondersteunde POST&#39;s van programmatische formulieren naar het eindpunt leadCapture/save2 worden door Marketo Engage-formulieren afgewezen. [Klik hier](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631) voor meer informatie.
 

@@ -2,7 +2,7 @@
 description: Opmerkingen bij de release - augustus 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - augustus 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -33,7 +33,7 @@ De volgende functies begonnen met een gefaseerde implementatie op **26 augustus 
 
 * **Maphiërarchie van doelmap weergeven in het dialoogvenster Verplaatsen**: Als u de maphiërarchie voor elke map bekijkt, kunt u elementen gemakkelijker verplaatsen en de kans verminderen dat u ze in de verkeerde map plaatst.
 
-* **[Bijgewerkte schermen in de volgende generatie ervaring](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;}**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
+* **[Bijgewerkte schermen in de volgende generatie ervaring](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;}**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
 
    * Fragmentdetails
    * Details &quot;Afbeeldingen en bestanden&quot;

@@ -2,7 +2,7 @@
 description: Opmerkingen bij de release - mei 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: d9ace2b00707c605dda94ec4fc21937d8b36d137
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -39,7 +39,7 @@ De volgende functies worden vrijgegeven op **6 mei 2022**, met een gefaseerde ui
 
 **[STS-koptekst voor koppelingen voor e-mail bijhouden](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target=&quot;_blank&quot;}**: Voldoe veiligheid beste praktijken met de capaciteit om de Veilige kopballen van de Veiligheid van het Vervoer toe te passen om verkeer aan gevolgde verbindingen te verzekeren is altijd veilig.
 
-## Ervaring van de volgende generatie {#next-generation-experience}
+## Ervaring van de volgende generatie {#modern-ux}
 
 **Schakelen tussen defecte switch en de nieuwe generatie**: De schakeloptie wordt standaard ingesteld op de nieuwe ervaring in alle schermen waar deze beschikbaar is, zodat gebruikers gemakkelijker de bijgewerkte ontwerpen en bruikbaarheidsverbeteringen kunnen ontdekken.
 

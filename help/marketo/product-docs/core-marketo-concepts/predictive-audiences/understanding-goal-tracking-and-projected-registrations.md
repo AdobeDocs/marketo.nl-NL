@@ -2,9 +2,9 @@
 description: Begrijpen van Goal Tracking en Geprojecteerde Registraties - Marketo Docs - Productdocumentatie
 title: Begrijpen van Goal Tracking en Geprojecteerde Registraties
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: c3a17d5d938c91103173999d27e8bc9e75137e29
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '980'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Hieronder wordt beschreven hoe u de voortgang van uw doel kunt bijhouden en hoe 
 
 >[!PREREQUISITES]
 >
->Om tot de meerderheid van deze eigenschappen toegang te hebben, ben zeker om toe te laten [volgende-gen-schakeloptie](/help/marketo/product-docs/marketo-engage-next-generation-experience/toggle-switch.md){target=&quot;_blank&quot;} voor gebeurtenisprogramma&#39;s.
+>Om tot de meerderheid van deze eigenschappen toegang te hebben, ben zeker om toe te laten [volgende-gen-schakeloptie](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;} voor gebeurtenisprogramma&#39;s.
 
 >[!NOTE]
 >

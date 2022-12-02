@@ -2,7 +2,7 @@
 description: Opmerkingen bij de release - maart 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - maart 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
-source-git-commit: beafa230f067972119f1a0eb170b1339d20d3842
+source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 0%
@@ -27,7 +27,7 @@ De volgende functies worden vrijgegeven op **11 maart 2022**, met een gefaseerde
 
 * **Verbetering van objectiefilters voor e-mail**: Als een verbetering aan eerder vrijgegeven [Filteren van activiteit e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;} nu kunt u zich aanmelden bij logactiviteiten die als bots worden geïdentificeerd. U kunt vervolgens handelingen filteren en activeren op basis van activiteiten die door bots worden aangeduid als uitgevoerd.
 
-## Ervaring van de volgende generatie {#next-generation-experience}
+## Ervaring van de volgende generatie {#modern-ux}
 
 * **Bijgewerkte schermen in de volgende generatie ervaring**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
 
@@ -35,7 +35,7 @@ De volgende functies worden vrijgegeven op **11 maart 2022**, met een gefaseerde
 
 * **Update voor programmaworkflow importeren**: De workflow voor het importprogramma wordt geleverd in de volgende generatie ervaring met een bijgewerkt ontwerp en verbeterde bruikbaarheid. Dit zal een automatische verandering zonder een knevelschakelaar zijn.
 
-* **Beheerderscontrole voor de schakelaar van de Ervaring van de volgende generatie**: Beheer de implementatie van de volgende generatie op een manier die geschikt is voor uw gebruikers en waarbij beheerders kunnen selecteren welke gebruikerstypen toegang kunnen krijgen tot de schakeloptie.
+* **Beheerderscontrole voor de schakelaar van de Ervaring van de Volgende generatie**: Beheer de implementatie van de volgende generatie op een manier die geschikt is voor uw gebruikers en waarbij beheerders kunnen selecteren welke gebruikerstypen toegang kunnen krijgen tot de schakeloptie.
 
 ## Experience Automation {#experience-automation}
 
@@ -73,7 +73,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ## Aankondigingen {#announcements}
 
-* **Marketo Sky Deprectie**: In maart is Marketo Sky niet meer beschikbaar omdat we onze bronnen richten op het bieden van de gebruikerservaring van de volgende generatie. In een poging om toegang tot functionaliteit te handhaven die exclusief aan Marketo Sky vandaag is, brengen wij de Vervalsing van Activa en Slimme Prioriteit van de Campagne Opheffing in de Klassieke ervaring. [Klik hier](https://nation.marketo.com/t5/the-next-generation-experience/marketo-sky-deprecation-notice/ba-p/320115#M33) voor meer informatie.
+* **Marketo Sky Deprectie**: In maart is Marketo Sky niet meer beschikbaar omdat we onze bronnen richten op het bieden van de gebruikerservaring van de volgende generatie. In een poging om toegang tot functionaliteit te handhaven die exclusief aan Marketo Sky vandaag is, brengen wij de Vervalsing van Activa en Slimme Prioriteit van de Campagne Opheffing in de Klassieke ervaring. [Klik hier](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33) voor meer informatie.
 
 **_Webinar productrelease_**
 
