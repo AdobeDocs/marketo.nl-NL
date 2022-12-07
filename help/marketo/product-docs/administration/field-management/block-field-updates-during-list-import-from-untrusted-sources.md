@@ -3,10 +3,9 @@ unique-page-id: 2360335
 description: Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen - Marketo Docs - Productdocumentatie
 title: Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -19,32 +18,36 @@ U kunt de gegevens in sommige lijsten meer vertrouwen dan in andere. Soms hebt u
 >
 >**Beheerdersmachtigingen vereist**
 
-## Veldupdates blokkeren uit niet-vertrouwde bronnen {#blocking-field-updates-from-untrusted-sources}
+## Veldupdates blokkeren vanuit niet-vertrouwde bronnen {#blocking-field-updates-from-untrusted-sources}
 
-1. Ga naar **Admin** en klik **Veld Management**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-19-9-3a38-3a38.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 
-1. Zoek het gewenste veld, selecteer het en klik onder **Veldhandelingen** op **Veldupdates blokkeren**.
+1. Klikken **Veldbeheer**.
 
-   ![](assets/image2014-9-19-9-3a39-3a40.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. Schakel **Lijst van niet-vertrouwde bron importeren** in en klik **Toepassen**.
+1. Zoek het gewenste veld, selecteer het en onder **Veldhandelingen**, klikt u op **Veldupdates blokkeren**.
 
-   ![](assets/blockupdates.png)
+   ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
+
+1. Controleren **Niet-vertrouwde bron importeren** en klik op **Toepassen**.
+
+   ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->U kunt velden veilig houden voor alle lijsten, vertrouwd en niet-vertrouwd, door **Vertrouwde bron bij importeren weergeven** ook te controleren.
+>U kunt velden veilig houden voor alle lijsten, vertrouwd en niet-vertrouwd, door ook **Vertrouwde bron importeren**.
 
 Herhaal bovenstaande stappen voor alle andere velden die u wilt beveiligen tegen niet-vertrouwde lijsten.
 
-## Importeren van niet-vertrouwde lijsten {#running-an-untrusted-list-import} uitvoeren
+## Importeren van niet-vertrouwde lijsten uitvoeren {#running-an-untrusted-list-import}
 
-1. Wanneer u de lijst wilt importeren, moet u **Niet-vertrouwd** selecteren als u wilt dat alle velden die u in de vorige stap hebt ingesteld, veilig zijn.
+1. Zorg ervoor dat u **Onvertrouwd** als u wilt dat alle velden die u in de vorige stap hebt ingesteld, veilig zijn.
 
-   ![](assets/importpersondetails.jpg)
+   ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
-Zie [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) voor gedetailleerde instructies voor het importeren van lijsten.
+Voor gedetailleerde instructies over het importeren van lijsten raadpleegt u [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
 Mooi werk! Nu weet u hoe u sleutelvelden veilig kunt houden voor niet-vertrouwde lijsten.

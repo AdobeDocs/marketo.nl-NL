@@ -3,27 +3,30 @@ unique-page-id: 2360253
 description: Bewerk het bericht "Weergeven als webpagina" - Marketo Docs - Productdocumentatie
 title: Het bericht "Weergeven als webpagina" bewerken
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-translation-type: tm+mt
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Bewerk het bericht &quot;Weergeven als webpagina&quot; {#edit-the-view-as-web-page-message}
+# Het bericht &quot;Weergeven als webpagina&quot; bewerken {#edit-the-view-as-web-page-message}
 
-Als u &quot;[View als WebPage](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;tekst moet uitgeven, is hier hoe.
+Als u &quot;[Weergeven als webpagina](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot; tekst , hier is hoe.
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-## Bewerk het bericht &quot;Weergeven als webpagina&quot; {#edit-the-view-as-web-page-message-1}
+## Het bericht &quot;Weergeven als webpagina&quot; bewerken {#edit-the-view-as-web-page-message-1}
 
-1. Klik onder **Admin** op **E-mail**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-18-17-3a13-3a2.png)
+   ![](assets/edit-the-view-as-web-page-message-1.png)
+
+1. Klikken **E-mail**.
+
+   ![](assets/edit-the-view-as-web-page-message-2.png)
 
    >[!CAUTION]
    >
@@ -31,11 +34,11 @@ Als u &quot;[View als WebPage](/help/marketo/product-docs/email-marketing/genera
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >Het tweede deel `##MKT_TOK##` is het ingewanden koekje van die persoon. Het zorgt ervoor dat ze op de juiste wijze worden gekookt wanneer ze op de koppeling klikken.
+   >Het tweede deel `##MKT_TOK##` Het is de munchkin cookie van die persoon. Het zorgt ervoor dat ze op de juiste wijze worden gekookt wanneer ze op de koppeling klikken.
 
-1. Bewerk de **Weergave als webpagina HTML** en **Weergeven als webpaginatekst** versies naar wens en klik op **Wijzigingen opslaan**.
+1. Bewerk de **HTML weergeven als webpagina** en **Weergeven als tekst op webpagina** gewenste versies en klik op **Wijzigingen opslaan**.
 
-   ![](assets/image2016-8-26-14-3a40-3a29.png)
+   ![](assets/edit-the-view-as-web-page-message-3.png)
 
 >[!CAUTION]
 >
@@ -58,4 +61,6 @@ Als u ooit aan standaardsysteem &quot;Mening als Web-pagina&quot;moet terugkeren
 **Weergeven als tekst op webpagina:**
 
 Ga naar het volgende adres om deze e-mail als webpagina weer te geven:
-`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>` Zoomen! Je bent klaar.
+`<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`
+
+Dat is het!
