@@ -2,9 +2,9 @@
 description: Adobe Identity Management - Overzicht - Marketo Docs - Productdocumentatie
 title: Adobe Identity Management - Overzicht
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: d26428137e9b99d04fef67a3b21b74d150f693e7
+source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
 workflow-type: tm+mt
-source-wordcount: '1065'
+source-wordcount: '1068'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Als u vanaf 15 februari 2022 een nieuwe account bij Adobe Marketo Engage hebt (een nieuwe account, niet alleen een nieuw exemplaar voor een bestaande account), wordt deze mogelijk geïntegreerd met het Adobe Identity Management System, afhankelijk van het aangeschafte productpakket. Neem contact op met de Marketo Admin of met de Customer Success Manager van uw account als u dit doet.
 
-Bestaande Marketo-abonnementen worden later dit jaar naar het Adobe Identity Management-systeem gemigreerd.
+Bestaande Marketo-abonnementen zullen in de tweede helft van 2023 worden gemigreerd naar het Adobe Identity Management-systeem.
 
 >[!NOTE]
 >
@@ -113,7 +113,7 @@ Ja. Marketo-integratie met Adobe IMS ondersteunt gebruikers van Universal ID en 
 
 **Hoe werkt apparaatautorisatie?**
 
-Adobe IMS biedt momenteel geen ondersteuning voor functies zoals Marketo voor apparaatautorisatie.
+Adobe IMS biedt momenteel geen ondersteuning voor functies voor het autoriseren van Marketo-apparaten.
 
 **Is het nog mogelijk om de functie &quot;Aanmelden bij gebruiker uitnodigen&quot; te gebruiken om de aanmelding van een gebruiker uniek te maken via e-mail?**
 
