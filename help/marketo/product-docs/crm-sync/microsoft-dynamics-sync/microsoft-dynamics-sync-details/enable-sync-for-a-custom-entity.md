@@ -3,9 +3,9 @@ unique-page-id: 2953384
 description: Sync inschakelen voor een aangepaste entiteit - Marketo Docs - Productdocumentatie
 title: Sync inschakelen voor een aangepaste entiteit
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
-source-git-commit: dadaf5bd8e887309d0e9ee8fc25fc58d1c4fbe97
+source-git-commit: 79cfb0396f690a370cdce4e4df3a23c7439c252e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,10 @@ Als u de gegevens van de douaneentiteit van Dynamica nodig hebt om in Marketo be
 >* Wanneer u de synchronisatie inschakelt voor een aangepaste entiteit, voert Marketo een eerste synchronisatie uit om alle gegevens voor het aangepaste object in te voeren.
 >* Leden van de Marketing List en de Marketing List zijn **niet ondersteund** op dat moment.
 
+
+>[!IMPORTANT]
+>
+>De Marketo Sync-gebruiker heeft leestoegang nodig tot het aangepaste object om het object weer te geven en te synchroniseren.
 
 1. Ga naar de **Beheer** sectie.
 
