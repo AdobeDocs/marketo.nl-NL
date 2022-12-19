@@ -2,18 +2,21 @@
 unique-page-id: 14352440
 description: E-mail verzenden vanuit Gmail - Marketo Docs - Productdocumentatie
 title: E-mail verzenden vanuit Gmail
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 8a036b37-984c-4298-917e-fa680657b79f
+source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
+# E-mail verzenden vanuit Gmail {#how-to-send-an-email-from-gmail}
 
-# E-mail verzenden van Gmail {#how-to-send-an-email-from-gmail}
+>[!CAUTION]
+>
+>Als u de functie &quot;Verzenden ongedaan maken&quot; in Gmail gebruikt, voorkomt u dat de e-mail wordt verzonden wanneer u de Gmail-extensie gebruikt, maar er kan nog steeds een activiteit optreden in de webtoepassing en in Salesforce als u activiteiten aan Salesforce registreert.
 
-1. Klik in Gmail op **Compose**.
+1. Klik in Gmail op **Samenstellen**.
 
 1. Voer het e-mailadres van de ontvanger in.
 
@@ -21,4 +24,4 @@ ht-degree: 0%
 
 1. Selecteer een e-mailsjabloon of schrijf een nieuw bericht.
 
-1. Als uw e-mail gereed is voor verzending, klikt u op de knop **Verzenden en verbinden**. Als u op die knop klikt in plaats van op de normale verzendknop, wordt het e-mailbericht verzonden met de functie Tekstspatiëring toegepast. Sales Connect houdt bij wanneer uw e-mail wordt geopend en wanneer iemand op koppelingen klikt.
+1. Als uw e-mail gereed is voor verzending, klikt u op de knop **Verzenden en verbinden** knop. Als u op die knop klikt in plaats van op de normale verzendknop, wordt het e-mailbericht verzonden met de functie Tekstspatiëring toegepast. Sales Connect houdt bij wanneer uw e-mail wordt geopend en wanneer iemand op koppelingen klikt.
