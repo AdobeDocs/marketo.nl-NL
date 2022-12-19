@@ -3,9 +3,9 @@ description: Temperatuur - Marketo-documenten - productdocumentatie
 title: Temperatuur
 hide: true
 hidefromtoc: true
-source-git-commit: 71f221ea74a5589470c0d911a8e29ba9754a34d3
+source-git-commit: 506b4d26cfceffe5e30b55d2dffe497640c1ba2c
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '523'
 ht-degree: 2%
 
 ---
@@ -71,14 +71,11 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tbody>
 </table>
 
-### Ervaring van de volgende generatie {#modern-ux}
+### titel {#title}
 
 </br>
 
-* **Bijgewerkte schermen in Modern UX**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
-
-   * Details landingspagina
-   * E-mailsjabloonlijst
+* **titel**: beschrijven
 
 <table> 
   <tr> 
