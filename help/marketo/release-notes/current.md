@@ -2,16 +2,16 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 7048b87084fcc5be7336ad8146f07c891ec70826
+source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '616'
 ht-degree: 1%
 
 ---
 
-# Opmerkingen bij de release: Oktober 2022 {#release-notes-oct-22}
+# Opmerkingen bij de release: Januari 2023 {#release-notes-jan-23}
 
-Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 oktober. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
+Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 januari. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -19,62 +19,30 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 22 oktober
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
-De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **14 oktober 2022**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
+De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **20 januari 2023**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
 
-### Omgeving met marketinggegevens {#marketing-data-environment}
-
-</br>
-
-* **Aangepaste veldsynchronisatie voor programmalid**: Mogelijkheid om uitbreidbare velden die zijn vastgelegd voor een programmalid, bidirectioneel te synchroniseren (bijv. voorkeuren van deelnemers tijdens gebeurtenisregistratie, zoals voedsel, sessies, tracks, enz.)
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Aangepaste veldsynchronisatie voor programmalid</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Adobe Privacy Service integratie**: Harmoniseren met Privacy Service om de naleving van de privacyregels voor gegevens in alle Experience Cloud-producten te automatiseren. Momenteel, is deze dienst slechts beschikbaar aan Marketo Engage klanten die aan het Systeem van Adobe Identity Management hebben ingezien.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### Ervaring van de volgende generatie {#modern-ux}
+### Marketo Engage Moderne UX {#modern-ux}
 
 </br>
 
-* **Bijgewerkte schermen in de volgende generatie ervaring**: In de volgende generatie bieden we aanvullende, vernieuwde schermen die een bijgewerkt ontwerp en gebruiksverbeteringen bieden die via schakeloptie toegankelijk zijn:
+* **Bijgewerkte schermen in Modern UX**: In Modern UX (voorheen bekend als Next-Generation Experience) bieden we extra, vernieuwde schermen die bijgewerkte ontwerp- en gebruiksverbeteringen bieden die toegankelijk zijn via schakeloptie:
 
-   * Details landingspagina
-   * E-mailsjabloonlijst
+   * Fragmentlijstweergave
+   * Sjabloonlijst bestemmingspagina
 
-<table> 
+   <table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Schakelaar schakelen</a></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Uitgebreid Gebruikt door tabblad in E-mailsjabloondetails**: In de nieuwe ervaring, zult u extra informatie met betrekking tot activa zien gebruikend het e-mailmalplaatje, met inbegrip van de Status van Activa, Laatst Gewijzigd, en Laatst Gewijzigd door. U kunt ook de lijst met elementen zoeken, sorteren en filteren.
+* **Verbeterd Gebruikt door component voor E-mailsjabloondetails en fragmentdetails**: Nieuw Gebruikt door lusje UI verstrekt extra informatie over elk van Gebruikt door activa, zoals wanneer het het laatst werd gewijzigd en door wie. U kunt analyse door het onderzoek, de soort, en het filtreren mogelijkheden gemakkelijk uitvoeren. Deze nieuwe UI-component wordt opgenomen met ingang van de elementen E-mailsjabloon en Fragment.
 
 <table> 
   <tr> 
@@ -82,13 +50,17 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Verzonden</td>
-   <td>n.v.t.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Modules voor middelenfilters rapporteren**: Nieuw ontwerp voor de modellen van de rapportconfiguratie die een nieuwe activaboom in het configuratiemenu en een filter voor Gemaakt Gemaakt en Gewijzigd Datum tonen.
+### Marketing Impact Analytics {#marketing-impact-analytics}
+
+</br>
+
+* **Opnieuw ontworpen modules voor rapportelementen**: Het nieuwe ontwerp voor de modellen van de rapportconfiguratie in Modern UX die een bijgewerkte blik en een gevoel evenals betere toegankelijkheid aanbieden.
 
 <table> 
   <tr> 
@@ -96,8 +68,26 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Verzonden</td>
-   <td>n.v.t.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+### Marketo Meetlat {#marketo-measure}
+
+</br>
+
+* **Marketo Meetlat Ultimate**: Maakt volledige B2B-toewijzing mogelijk voor ondernemingen met meerdere CRM- en/of Marketo Engage-instanties en uiteenlopende gegevensbehoeften. Het biedt ook een B2B-attributieoplossing voor Adobe RT-CDP via gedeelde AEP-gegevens.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
@@ -106,7 +96,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Invoer van bulklood: Salespervereniging**: Pariteit met de LEIDREST API om lood met Salesperson tijdens het proces van de bulkloodinvoer te kunnen associëren, die ingewikkeldheid en het aantal vereiste API vraag vermindert.
+* **Het verbeterde lusje van de Diensten van het Web door de Informatie van de Uitvoer van het Bulk toe te voegen API**: U kunt nu de dagelijkse capaciteitstoewijzing voor uw abonnementen bekijken en de hoeveelheid dagelijkse capaciteitstoewijzing bekijken die in de afgelopen 7 dagen is gebruikt.
 
 <table> 
   <tr> 
@@ -114,28 +104,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Verzonden</td>
-   <td><a href="https://developers.marketo.com/rest-api/bulk-import/bulk-lead-import/">Invoer van bulklood</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### Verkoopoverzicht {#sales-insight}
-
-</br>
-
-![(ster)](assets/yellow-star.png)
-
-* **Integratie van het Inzicht van de verkoop met Dynamische Chat**: Het dashboard met inzichten bevat nu dynamische chatactiviteiten in het slimme raster, samen met een wekelijkse samenvatting en detailkaarten.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Dynamische chatintegratie</a></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
@@ -144,35 +114,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 De volgende functies volgen een indeling van Adobe en worden op verschillende datums vóór of na de standaardreleasedatum uitgebracht. Controleer onder elke functie de status.
 
-* **Dialoogstromen automatisch rangschikken voor dynamisch chatten**: Verbeter uw drukke canvas van de Dialoog door alles op het canvas in een schone en gemakkelijk te lezen formaat met de pers van een knoop door Auto te schikken.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md#stream-designer-icons">Stroom Designer-pictogrammen</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Vergaderingskoppelingen voor dynamische chat**: Optie om automatisch een koppeling Teams of Meet voor Google en Outlook op te nemen in elke kalenderuitnodiging die naar bezoekers wordt verzonden.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Kalender</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Aanvullende gegevenstypen voor Dynamic Chat ondersteunen**: Met drie nieuwe gegevenstypen (boolean, integer, float) kunt u meer bestaande Marketo Engage-velden in Dynamic Chat benutten voor bijvoorbeeld het maken van doelen op basis van scores of het stellen van ja/nee-vragen aan bezoekers.
+* **Picklist definiëren in Info Capture Card voor dynamische chat**: Om ervoor te zorgen dat de gegevens schoon zijn, kunt u picklists definiëren voor kaarten voor het vastleggen van informatie, zodat bezoekers alleen uit een vooraf gedefinieerde lijst met opties kunnen kiezen.
 
 <table> 
   <tr> 
@@ -181,12 +123,12 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tr>
   <tr> 
    <td><i>Binnenkort beschikbaar</i></td>
-   <td>n.v.t.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Geplande vergaderingmeldingen voor dynamische chat**: De vertegenwoordigers van de verkoop krijgen geautomatiseerde e-mailberichten betreffende geplande vergaderingen evenals om het even welke relevante informatie over de interactie van de bezoeker van het praatje.
+* **Persoonlijke gegevens in vergaderbevestiging voor dynamische chat**: De agenten kunnen vergadering personaliseren die e-mailbevestigingen boeken gebruikend Marketo Engage persoon en bedrijfgebieden om met bezoekers (bijvoorbeeld: begroet bezoekers op hun voornaam in het e-mailbericht voor automatische reservering van vergaderingen).
 
 <table> 
   <tr> 
@@ -195,14 +137,63 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tr>
   <tr> 
    <td><i>Binnenkort beschikbaar</i></td>
-   <td>n.v.t.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
 
-## Aankondigingen {#announcements}
+* **Zoeken in Stream Designer**: Zoek eenvoudig naar inhoud in de Ontwerper van de Stroom om inhoud over alle kaarten/knopen in een stroom (b.v.: zoek &quot;SEO&quot; en markeert alle knooppunten die die tekenreeks bevatten).
 
-* **Forms 1.0**: De afkapping van Forms 1.0 wordt voltooid met de release van oktober. Forms 1.0-middelen kunnen geen gegevens meer naar Marketo Engage verzenden en retourneren fouten als dat wordt geprobeerd.
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
 
-* **Geen script, Forms**: Forms werkt niet meer wanneer Javascript in de browser wordt uitgeschakeld. Voor het verzenden van formulieren moet Javascript zijn ingeschakeld.
+* **Datum-/tijdkiezer voor Chatbot voor dynamische chat**: Webbezoekers kunnen de kalenderkiezer gebruiken om een datum en tijd te kiezen in plaats van de datum handmatig in te voeren.
 
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Geplande e-mailberichten voor vergaderingen voor dynamische chat**: Wanneer een vergadering op de kalender van een agent wordt geboekt, zal de agent een e-mailbericht over het boeken, met inbegrip van gedetailleerde informatie over de Dynamische Overeenkomst van het Praatje van de bezoeker ontvangen.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dialoogbetrokkenheidsrapport voor dynamisch chatten**: Verstrekt een mening van de betrokkenheid van de Dialoog in tijd, met inbegrip van de capaciteit om door bezoekerstype en betrokkenheidstype te filtreren.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
