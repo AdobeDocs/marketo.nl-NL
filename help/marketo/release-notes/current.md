@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: 4d79b7d40b2ec1defbb6f07333e2a5e96c4e5186
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '618'
 ht-degree: 1%
 
 ---
@@ -113,6 +113,10 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 ## Functies van de release van Agile
 
 De volgende functies volgen een indeling van Adobe en worden op verschillende datums vóór of na de standaardreleasedatum uitgebracht. Controleer onder elke functie de status.
+
+### Dynamische chat {#dynamic-chat}
+
+</br>
 
 * **Picklist definiëren in Info Capture Card voor dynamische chat**: Om ervoor te zorgen dat de gegevens schoon zijn, kunt u picklists definiëren voor kaarten voor het vastleggen van informatie, zodat bezoekers alleen uit een vooraf gedefinieerde lijst met opties kunnen kiezen.
 
