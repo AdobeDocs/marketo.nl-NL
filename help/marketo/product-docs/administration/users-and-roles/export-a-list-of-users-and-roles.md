@@ -3,7 +3,6 @@ unique-page-id: 2359912
 description: Een lijst met gebruikers en rollen exporteren - Marketo Docs - Productdocumentatie
 title: Een lijst met gebruikers en rollen exporteren
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '85'
@@ -19,11 +18,11 @@ ht-degree: 0%
 
 Het is vrij gemakkelijk om een volledige lijst van uw gebruikers en gebruikersrollen uit te voeren. Zo gaat het.
 
-1. Ga naar **Admin**.
+1. Ga naar **Beheer**.
 
    ![](assets/adminhand.png)
 
-1. Klik **Gebruikers &amp; rollen**.
+1. Klikken **Gebruikers en rollen**.
 
    ![](assets/image2014-9-10-9-3a25-3a27.png)
 
@@ -31,11 +30,11 @@ Het is vrij gemakkelijk om een volledige lijst van uw gebruikers en gebruikersro
 
    >[!TIP]
    >
-   >Als u rollen wilt exporteren, gaat u eerst naar het tabblad **Rollen**** **en exporteert u vervolgens.
+   >Als u rollen wilt exporteren, gaat u naar de **Rollen**** * * tabblad eerst en vervolgens exporteren.
 
    ![](assets/image2014-9-10-9-3a25-3a49.png)
 
-1. Klik op het pictogram **Exporteren**.
+1. Klik op de knop **Exporteren** pictogram.
 
    ![](assets/image2014-9-10-9-3a26-3a3.png)
 

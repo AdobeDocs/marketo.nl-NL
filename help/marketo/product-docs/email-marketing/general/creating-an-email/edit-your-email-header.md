@@ -1,24 +1,23 @@
 ---
 unique-page-id: 2359453
-description: Uw e-mailkoptekst bewerken - Marketo Docs - Productdocumentatie
+description: Je e-mailkoptekst bewerken - Marketo Docs - Productdocumentatie
 title: Uw e-mailkoptekst bewerken
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
-
-# Uw e-mailkoptekst {#edit-your-email-header} bewerken
+# Uw e-mailkoptekst bewerken {#edit-your-email-header}
 
 De koptekst van de e-mail in Marketo kan volledig worden aangepast. Het bestaat uit vier velden:
 
-* **Van**  - De naam van de afzender zoals u het wilt verschijnen
-* **Van Adres**  - het e-mailadres van de afzender aangezien u het wilt verschijnen
-* **Antwoord-aan**  - Het e-mailadres u het antwoord van een persoon wilt worden verzonden naar (kan verschillend zijn dan van Adres)
-* **Betreft** : Onderwerpregel van e-mail
+* **Van** - De naam van de afzender zoals u deze wilt weergeven
+* **Van adres** - Het e-mailadres van de afzender zoals u het wilt weergeven
+* **Antwoord aan** - Het e-mailadres waarnaar de reactie van een persoon moet worden verzonden (kan verschillen van Van Adres)
+* **Onderwerp** - De onderwerpregel van de e-mail
 
 Als u deze waarden wilt bewerken, klikt u in elk veld en voert u de gegevens in.
 
@@ -26,7 +25,7 @@ Als u deze waarden wilt bewerken, klikt u in elk veld en voert u de gegevens in.
 
 >[!TIP]
 >
->Zie [De standaardinstelling wijzigen vanuit e-mail en vanuit label](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md) als u een standaardinstelling vanuit naam en vanuit e-mail wilt instellen.
+>Als u een standaardinstelling vanuit naam en vanuit e-mail wilt instellen, raadpleegt u [De standaardinstelling wijzigen van e-mail en van label](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
 
 Als u een token wilt gebruiken, klikt u eerst in het gewenste veld en vervolgens op het tokenpictogram.
 

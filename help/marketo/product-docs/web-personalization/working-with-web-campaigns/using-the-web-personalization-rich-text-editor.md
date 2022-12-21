@@ -1,15 +1,14 @@
 ---
 unique-page-id: 4719179
-description: Het gebruiken van de Redacteur van de Tekst van de Personalisatie van het Web Rich - Marketo Docs - de Documentatie van het Product
+description: Het gebruiken van de Redacteur van de Tekst van de Personalisatie Rich van het Web - de Documenten van Marketo - de Documentatie van het Product
 title: Het gebruiken van de Redacteur van de Tekst van de Personalisatie Rich
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
-
 
 # Het gebruiken van de Redacteur van de Tekst van de Personalisatie Rich {#using-the-web-personalization-rich-text-editor}
 
@@ -22,27 +21,27 @@ De belangrijke pictogrammen in de rijke tekstredacteur omvatten:
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="—"></td> 
-   <td colspan="1"><strong>HTML-bron bewerken</strong></td> 
-   <td colspan="1">Hiermee kunt u de HTML-broncode weergeven</td> 
+   <td colspan="1"><img alt="—" src="assets/three.png" data-linked-resource-id="11386613" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
+   <td colspan="1"><strong>Bron HTML bewerken</strong></td> 
+   <td colspan="1">Hiermee kunt u de broncode van de HTML weergeven</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><img alt="—" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="—"></td> 
+   <td colspan="1"><img alt="--" src="assets/two.png" data-linked-resource-id="11386612" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
    <td colspan="1"><p><strong>Afbeelding invoegen/bewerken</strong><br></p></td> 
    <td colspan="1">Hiermee voegt u een afbeeldings-URL toe die in de editor wordt weergegeven voor grafische afbeeldingen</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><img alt="—" src="assets/ds.png" data-linked-resource-id="12983884" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="—"></td> 
+   <td colspan="1"><img alt="--" src="assets/ds.png" data-linked-resource-id="12983884" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
    <td colspan="1"><strong>Afbeelding invoegen vanuit Design Studio</strong></td> 
-   <td colspan="1"><em></em> Nadat u op het pictogram  <strong>Afbeelding </strong> invoegen/bewerken hebt geklikt, gebruikt u deze optie om afbeeldingen te selecteren in uw Marketo Design Studio</td> 
+   <td colspan="1"><em>Na</em> klikken op <strong>Afbeelding invoegen/bewerken</strong> gebruiken om afbeeldingen van uw Marketo Design Studio te selecteren</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><img alt="—" src="assets/four.png" data-linked-resource-id="11386614" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="—"></td> 
+   <td colspan="1"><img alt="--" src="assets/four.png" data-linked-resource-id="11386614" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
    <td colspan="1"><p><strong>Koppeling invoegen/bewerken</strong><br></p></td> 
    <td colspan="1">Gebruiken om hyperlinks aan tekst of beelden toe te voegen</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><img alt="—" src="assets/tokens.png" data-linked-resource-id="12983883" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="—"></td> 
+   <td colspan="1"><img alt="--" src="assets/tokens.png" data-linked-resource-id="12983883" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="4719179" title="--"></td> 
    <td colspan="1"><strong>Token invoegen/bewerken</strong></td> 
    <td colspan="1">Tokens van bedrijven of personen gebruiken om uw webcampagne aan te passen</td> 
   </tr> 
@@ -51,7 +50,7 @@ De belangrijke pictogrammen in de rijke tekstredacteur omvatten:
 
 >[!NOTE]
 >
->Webtokens gebruiken [personeels gegevens](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) van uw Gegevensbestand van Marketo die in Personalisatie van het Web onder de Montages van de Rekening > Gegevensbestand wordt beheerd. Als het webtoken een nieuw databaseveld is dat nog niet voorkomt in Account Settings > Database, wordt het automatisch toegevoegd en kan het 24 uur duren om het te activeren.
+>Webtokens gebruiken [personengegevens](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) vanuit uw Marketo-database die wordt beheerd via web-personalisatie onder Accountinstellingen > Database. Als het webtoken een nieuw databaseveld is dat nog niet voorkomt in Account Settings > Database, wordt het automatisch toegevoegd en kan het 24 uur duren om het te activeren.
 
 >[!MORELIKETHIS]
 >

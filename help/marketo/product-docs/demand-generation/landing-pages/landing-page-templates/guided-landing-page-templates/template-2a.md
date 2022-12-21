@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Template 2A {#template-2a}
 
-Klik met de rechtermuisknop op [Sjabloon 2A downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
+Klik met de rechtermuisknop om [downloadsjabloon 2A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2a.html)
 
 ![](assets/image2015-6-2-15-3a17-3a17.png)
 

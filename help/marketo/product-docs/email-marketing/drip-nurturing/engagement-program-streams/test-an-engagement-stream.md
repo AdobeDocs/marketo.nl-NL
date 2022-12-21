@@ -2,14 +2,13 @@
 unique-page-id: 2359839
 description: Een betrokkenheidsstream testen - Marketo Docs - Productdocumentatie
 title: Een betrokkenheidsstream testen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
-
 
 # Een betrokkenheidsstream testen {#test-an-engagement-stream}
 
@@ -23,11 +22,11 @@ Wanneer u alle inhoud aan een stream hebt toegevoegd, kunt u deze één keer tes
 
    ![](assets/two.png)
 
-1. Klik **Program Actions** en selecteer **Test Stream**.
+1. Klikken **Programmaacties** en selecteert u **Stream testen**.
 
    ![](assets/three.png)
 
-1. Selecteer uw persoon in de vervolgkeuzelijst **Testpersoon**. Onthoud dat de inhoud daadwerkelijk wordt uitgepakt, dus houd daar rekening mee wanneer u kiest.
+1. Selecteer uw persoon in het menu **Testpersoon** vervolgkeuzelijst. Onthoud dat de inhoud daadwerkelijk wordt uitgepakt, dus houd daar rekening mee wanneer u kiest.
 
    ![](assets/four-rubix.png)
 
@@ -37,12 +36,12 @@ Wanneer u alle inhoud aan een stream hebt toegevoegd, kunt u deze één keer tes
 
    >[!TIP]
    >
-   >Als de testpersoon u zoekt niet bestaat, gebruik **Create Persoon** optie om één te creëren op de vlucht.
+   >Als de testpersoon waarnaar u zoekt niet bestaat, gebruikt u de opdracht **Persoon maken** om er een te maken.
 
    Klik op Beginstream, selecteer de stream die u wilt testen en klik op Cast uitvoeren.
    ![](assets/five-rubiks.png)
 
-1. Nadat de persoon door [overgangsregels](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) eerder opstelling gaat, klik het Refresh pictogram.
+1. Nadat de persoon door het [overgangsregels](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) Als u eerder hebt ingesteld, klikt u op het pictogram Vernieuwen.
 
    ![](assets/six-rubiks.png)
 
@@ -54,4 +53,4 @@ Wanneer u alle inhoud aan een stream hebt toegevoegd, kunt u deze één keer tes
 
    >[!NOTE]
    >
-   >Er wordt geen andere inhoud verzonden, tenzij u nogmaals **Cast uitvoeren** klikt.
+   >Er wordt geen andere inhoud verzonden tenzij u op **Cast opnieuw uitvoeren**.

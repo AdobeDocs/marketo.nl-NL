@@ -2,14 +2,13 @@
 unique-page-id: 10099798
 description: Filteren in e-mailinzichten - Marketo Docs - Productdocumentatie
 title: Filteren in e-mailinzichten
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
-
 
 # Filteren in e-mailinzichten {#filtering-in-email-insights}
 
@@ -59,10 +58,10 @@ Kies uit gangbare, vooraf ingestelde datumbereiken, selecteer specifieke datums 
 
 >[!NOTE]
 >
->Datumbereiken zijn van toepassing op zowel de pagina Analytics als de pagina Verzendt. De optie **Vergelijken** is echter alleen van toepassing op de pagina Analytics.
+>Datumbereiken zijn van toepassing op zowel de pagina Analytics als de pagina Verzendt. De **Vergelijken** Deze optie is echter alleen van toepassing op de pagina Analytics.
 
 ## Op account gebaseerde marketing {#account-based-marketing}
 
-Als u [Het Beheer van de Rekening van het Doel ](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) gebruikt, zijn er filters specifiek voor u.
+Als u [Doelaccountbeheer](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)Er zijn filters voor u.
 
 ![](assets/abm.png)

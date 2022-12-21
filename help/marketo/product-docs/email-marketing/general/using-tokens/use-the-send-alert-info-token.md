@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2952678
-description: Het token voor waarschuwinggegevens verzenden gebruiken {SP_Send_Alert_Info} - Marketo Docs - Productdocumentatie
+description: Het token voor waarschuwinggegevens verzenden gebruiken {{SP_Send_Alert_Info}} - Marketo Docs - Productdocumentatie
 title: Het token voor waarschuwinggegevens verzenden gebruiken
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
+# Het token voor waarschuwinggegevens verzenden gebruiken {#use-the-send-alert-info-token-sp-send-alert-info}
 
-# Het token {#use-the-send-alert-info-token-sp-send-alert-info} voor waarschuwinggegevens verzenden gebruiken
-
-De token `{{SP_Send_Alert_Info}}` is een speciaal token dat moet worden gebruikt bij het maken van e-mailberichten voor uw verkoopteam.
+De `{{SP_Send_Alert_Info}}` token is een speciaal token dat moet worden gebruikt bij het maken van e-mailberichten voor uw verkoopteam.
 
 >[!TIP]
 >
->Dit token werkt alleen zoals bedoeld wanneer het e-mailbericht met het bericht [Send Alert](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) wordt verzonden. Het werkt niet als het wordt gebruikt in een stap E-mail verzenden.
+>Deze token werkt alleen zoals bedoeld wanneer de e-mail die deze token bevat, wordt verzonden met de [Waarschuwing verzenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md) stap Stroom. Het werkt niet als het wordt gebruikt in een stap E-mail verzenden.
 
 Voorbeeld, waarschuwing:
 
@@ -25,9 +24,9 @@ Voorbeeld, waarschuwing:
 
 >[!NOTE]
 >
->Koppen omhoog! URL&#39;s in waarschuwingen hebben vervaldatums, zodat ze beschikken over een interface die deze berichttypen ondersteunt. Vervaldatums worden [geconfigureerd door een beheerder](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
+>Koppen omhoog! URL&#39;s in waarschuwingen hebben vervaldatums, zodat ze beschikken over een interface die deze berichttypen ondersteunt. Vervaldatums zijn [geconfigureerd door een beheerder](/help/marketo/product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md).
 
-De volgende informatie maakt deel uit van `{{SP_Send_Alert_Info}}`:
+De volgende informatie maakt deel uit van de `{{SP_Send_Alert_Info}}`:
 
 * Voornaam en achternaam als koppeling naar de persoongegevens in Marketo
 * Een koppeling naar de persoon in uw CRM
@@ -36,11 +35,11 @@ De volgende informatie maakt deel uit van `{{SP_Send_Alert_Info}}`:
 
 >[!NOTE]
 >
->De verbinding aan CRM zal slechts verschijnen als de persoon in het systeem van CRM (momenteel niet beschikbaar met Dynamica CRM) is. De koppeling is toegankelijk voor zowel gebruikers met als zonder markteconomie.
+>De verbinding aan CRM zal slechts verschijnen als de persoon in het systeem van CRM (momenteel niet beschikbaar met Dynamica CRM) is. De koppeling is toegankelijk voor zowel Marketo- als niet-Marketo-gebruikers.
 
-## Voeg het token SP_Send_Alert_Info toe aan een e-mail {#add-the-sp-send-alert-info-token-to-an-email}
+## Het token SP_Send_Alert_Info toevoegen aan een e-mail {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. Selecteer de e-mail en klik **Concept** bewerken.
+1. Selecteer het e-mailbericht en klik op **Concept bewerken**.
 
    ![](assets/one-3.png)
 
@@ -48,15 +47,15 @@ De volgende informatie maakt deel uit van `{{SP_Send_Alert_Info}}`:
 
    ![](assets/two-3.png)
 
-1. Plaats de curseur waar u het teken wilt zijn, dan klik **Symbolisch van het Tussenvoegsel** knoop.
+1. Plaats de cursor op de gewenste locatie voor het token en klik vervolgens op de knop **Token invoegen** knop.
 
    ![](assets/three-3.png)
 
-1. Zoek en selecteer de token **`{{SP_Send_Alert_Info}}`** en klik op **Insert**.
+1. Zoek en selecteer de **`{{SP_Send_Alert_Info}}`** token en klik op **Invoegen**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 

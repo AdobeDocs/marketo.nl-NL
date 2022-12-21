@@ -3,7 +3,6 @@ unique-page-id: 1147009
 description: Programma succesvol wijzigen - Marketo Docs - Productdocumentatie
 title: Programma is gewijzigd
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Programmasucces wijzigen {#change-program-success}
+# Programma is gewijzigd {#change-program-success}
 
 ## Overzicht {#overview}
 
@@ -29,7 +28,7 @@ Als u ooit een groep mensen hebt die toevallig met het Succes van het Programma 
 
    ![](assets/image2014-9-22-14-3a45-3a35.png)
 
-1. Selecteer **Success** of **Success Date** als Attribuut.
+1. Selecteren **Succes** of **Datum succes** als het kenmerk.
 
    ![](assets/image2014-9-22-14-3a45-3a39.png)
 
@@ -37,7 +36,7 @@ Als u ooit een groep mensen hebt die toevallig met het Succes van het Programma 
    >
    >Als u de instelling van Datum succes op Alles instelt, wordt Succes automatisch ingesteld op true. Als u Succes instelt op true, wordt de succesdatum automatisch ingesteld op de huidige datum.
 
-1. Stel de **Nieuwe waarde** in op **True** of **False**.
+1. Stel de **Nieuwe waarde** tot **Waar** of **Onwaar**.
 
    ![](assets/image2014-9-22-14-3a45-3a55.png)
 

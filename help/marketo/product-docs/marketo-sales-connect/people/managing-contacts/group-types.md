@@ -2,14 +2,13 @@
 unique-page-id: 30081321
 description: Groepstypen - Marketo Docs - Productdocumentatie
 title: Groepstypen
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # Groepstypen {#group-types}
 

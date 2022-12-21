@@ -1,33 +1,32 @@
 ---
 unique-page-id: 11375827
-description: Vereiste velden voor het synchroniseren van markeertekens met dynamiek - Marketo Docs - Productdocumentatie
-title: Vereiste velden voor het synchroniseren van markeertekens met dynamiek
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Vereiste velden voor het synchroniseren van Marketo met Dynamics - Marketo Docs - Productdocumentatie
+title: Vereiste velden voor het synchroniseren van Marketo met dynamiek
+exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
+# Vereiste velden voor het synchroniseren van Marketo met dynamiek {#required-fields-for-syncing-marketo-with-dynamics}
 
-# Vereiste velden voor het synchroniseren van markeertekens met dynamiek {#required-fields-for-syncing-marketo-with-dynamics}
-
-Deze velden *must* moeten met Marketo worden gesynchroniseerd voor zowel Lead als Contact voor het Inzicht van de Verkoop om te werken:
+Deze velden *moet* zijn gesynchroniseerd met Marketo voor zowel lead als contact voor Sales Insight voor gebruik:
 
 * Prioriteit
 * Urgentie
 * Relatieve score
 
-Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te bevestigen, controleer uw instantie om ervoor te zorgen dat de gebieden voor zowel **Lood** als **Contact** worden gesynchroniseerd. Zo niet, voegt u deze toe.
+Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Controleer of de velden voor beide zijn gesynchroniseerd om dit te corrigeren **Lood** en **Contact**. Zo niet, voegt u deze toe.
 
 Hieronder wordt beschreven hoe u synchronisatievelden kunt verifiëren en toevoegen.
 
-1. Ga naar Admin en klik **de Dynamica van Microsoft**.
+1. Ga naar Beheer en klik op **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Klik op **Bewerken** op Details van veldsynchronisatie.
+1. Klikken **Bewerken** op Veldsynchronisatiedetails.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +46,7 @@ Hieronder wordt beschreven hoe u synchronisatievelden kunt verifiëren en toevoe
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 

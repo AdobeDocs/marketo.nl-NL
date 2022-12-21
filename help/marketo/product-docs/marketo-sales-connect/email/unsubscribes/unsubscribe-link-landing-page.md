@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14746176
-description: Afmelden van bestemmingspagina van koppeling - Marketo Docs - Productdocumentatie
+description: Unsubscribe Link Landing Page - Marketo Docs - Productdocumentatie
 title: Abonnement op bestemmingspagina van koppeling opzeggen
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-
-# Afmelden van bestemmingspagina van koppeling {#unsubscribe-link-landing-page} opzeggen
+# Abonnement op bestemmingspagina van koppeling opzeggen {#unsubscribe-link-landing-page}
 
 Wanneer iemand op de koppeling voor afmelden klikt, wordt hij of zij doorgestuurd naar een bestemmingspagina waar hij of zij kan selecteren van wie hij of zij afmeldt en waarom.
 

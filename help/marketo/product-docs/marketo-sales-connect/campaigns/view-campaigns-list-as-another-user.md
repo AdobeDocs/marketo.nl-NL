@@ -2,14 +2,13 @@
 unique-page-id: 18317367
 description: Campagnelijst weergeven als een andere gebruiker - Marketo Docs - Productdocumentatie
 title: Lijst met campagnes weergeven als een andere gebruiker
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
-
 
 # Lijst met campagnes weergeven als een andere gebruiker {#view-campaigns-list-as-another-user}
 
@@ -23,7 +22,7 @@ Als beheerder kunt u campagnes weergeven als elke gebruiker.
 
    ![](assets/one-5.png)
 
-1. Klik op de vervolgkeuzelijst **Weergeven als** en selecteer de gewenste gebruiker.
+1. Klik op de knop **Weergeven als** en selecteer de gewenste gebruiker.
 
    ![](assets/two-4.png)
 

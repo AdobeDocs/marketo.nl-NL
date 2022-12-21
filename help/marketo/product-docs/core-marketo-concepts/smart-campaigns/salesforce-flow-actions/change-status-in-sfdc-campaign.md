@@ -3,7 +3,6 @@ unique-page-id: 1147029
 description: Status wijzigen in SFDC-campagne - Marketo Docs - Productdocumentatie
 title: Status wijzigen in SFDC-campagne
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
@@ -27,10 +26,10 @@ Als een leiding niet bestaat in Salesforce of nog geen lid is van de campagne, w
 
 ## Gebruik {#usage}
 
-1. Zoek en selecteer eerst de Salesforce **Campagne** waarin de record zich bevindt.
+1. Zoek en selecteer eerst de Salesforce **Campagne** de staat van dienst.
 
    ![](assets/image2014-9-22-15-3a13-3a58.png)
 
-1. Selecteer vervolgens de **Nieuwe status** die u wilt instellen en u bent klaar!
+1. Selecteer vervolgens de **Nieuwe status** U wilt instellen en u bent klaar!
 
    ![](assets/image2014-9-22-15-3a14-3a0.png)

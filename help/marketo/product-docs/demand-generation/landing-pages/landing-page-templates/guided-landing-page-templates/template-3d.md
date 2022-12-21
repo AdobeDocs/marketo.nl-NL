@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 3D {#template-3d}
 
-Klik met de rechtermuisknop op [Sjabloon 3D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
+Klik met de rechtermuisknop om [Sjabloon 3D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html)
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 

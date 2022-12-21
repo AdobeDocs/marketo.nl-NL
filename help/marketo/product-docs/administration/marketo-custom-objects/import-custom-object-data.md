@@ -3,7 +3,6 @@ unique-page-id: 10099680
 description: Aangepaste objectgegevens importeren - Marketo Docs - Productdocumentatie
 title: Aangepaste objectgegevens importeren
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
@@ -13,17 +12,17 @@ ht-degree: 0%
 
 # Aangepaste objectgegevens importeren {#import-custom-object-data}
 
-Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren. Als u douanevoorwerpen met bedrijven gebruikt, zie [Gebruikend de Voorwerpen van de Douane met Bedrijven](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) voor meer informatie.
+Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren. Als u douanevoorwerpen met bedrijven gebruikt, zie [Aangepaste objecten gebruiken met bedrijven](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) voor meer informatie .
 
 1. Ga in Mijn Marketo naar **Database**.
 
    ![](assets/db-1.png)
 
-1. Klik **Nieuw** en selecteer **Aangepaste objectgegevens importeren**.
+1. Klikken **Nieuw** en selecteert u **Aangepaste objectgegevens importeren**.
 
    ![](assets/image2016-4-7-10-6-54.png)
 
-1. Klik **Bladeren** om het gegevensbestand te zoeken. Selecteer de bestandsindeling (door komma&#39;s gescheiden waarden in dit voorbeeld).
+1. Klikken **Bladeren** om het gegevensbestand te zoeken. Selecteer de bestandsindeling (door komma&#39;s gescheiden waarden in dit voorbeeld).
 
    ![](assets/image2016-4-13-14-3a21-3a53.png)
 
@@ -31,13 +30,13 @@ Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren
 
    ![](assets/image2016-4-13-14-3a24-3a54.png)
 
-1. Selecteer de deduplicatiemodus in het keuzemenu. Klik **Volgende**.
+1. Selecteer de deduplicatiemodus in het keuzemenu. Klikken **Volgende**.
 
    ![](assets/image2016-4-13-14-3a28-3a7.png)
 
    >[!NOTE]
    >
-   >Gebruik het (de) Dedupeveld(en) als unieke herkenningstekens wanneer u douaneobjecten verslagen creeert of bijwerkt. In dit voorbeeld wordt het veld Dedupe van het aangepaste object **car** - vin (ID-nummer van voertuig) gebruikt. Als u alleen aangepaste objectrecords bijwerkt, kunt u de Marketo-hulplijn selecteren als de deduplicatiemodus.
+   >Gebruik het (de) Dedupeveld(en) als unieke herkenningstekens wanneer u douaneobjecten verslagen creeert of bijwerkt. In dit voorbeeld wordt het veld Dedupe van het dialoogvenster **auto** aangepast object - vin (ID voertuig). Als u alleen aangepaste objectrecords bijwerkt, kunt u de Marketo-hulplijn selecteren als de deduplicatiemodus.
 
 1. Wijs elke kolom aan een gebied van Marketo toe, dat het van drop-down selecteert.
 
@@ -45,13 +44,13 @@ Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren
 
    >[!NOTE]
    >
-   >Zorg ervoor dat de waarden in het bestand overeenkomen met het veldtype waarop u deze aansluit (bijvoorbeeld tekst, geheel getal, enz.). Als dit niet het geval is, wordt het bestand geweigerd.
+   >Zorg ervoor dat de waarden in het bestand overeenkomen met het veldtype waarop u deze aansluit (bijvoorbeeld tekst, geheel getal, enzovoort). Anders wordt het bestand geweigerd.
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/image2016-4-13-14-3a38-3a41.png)
 
-1. Klik **Importeren**.
+1. Klikken **Importeren**.
 
    ![](assets/image2016-4-7-13-3a15-3a9.png)
 
@@ -61,7 +60,7 @@ Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren
 
    >[!TIP]
    >
-   >Voer uw e-mailadres in het veld **Waarschuwing verzenden naar:** in en Marketo stuurt een e-mail wanneer het importeren is voltooid.
+   >Voer uw e-mailadres in het dialoogvenster **Waarschuwing verzenden naar:** -veld en Marketo sturen je een e-mail wanneer het importeren is voltooid.
 
 1. In de rechterbovenhoek van het scherm ziet u een melding als het importeren wordt uitgevoerd en ziet u de uiteindelijke resultaten als het is voltooid.
 

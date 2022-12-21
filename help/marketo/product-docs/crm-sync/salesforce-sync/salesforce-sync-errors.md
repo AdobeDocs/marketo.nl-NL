@@ -2,7 +2,6 @@
 description: Salesforce-synchronisatiefouten - Marketo-documenten - Productdocumentatie
 title: Salesforce-synchronisatiefouten
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
@@ -20,11 +19,11 @@ Bekijk een overzicht van de fouten die tijdens het synchronisatieproces optreden
 
 ## Synchronisatiefouten weergeven {#view-sync-errors}
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. Klik onder Integratie op **Salesforce** en vervolgens op de tab **Fouten synchroniseren**.
+1. Klik onder Integratie op **Salesforce** en de **Fouten synchroniseren** tab.
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -48,10 +47,10 @@ Bekijk een overzicht van de fouten die tijdens het synchronisatieproces optreden
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Selecteer uw datum- en tijdbereik en filtreer vervolgens op Fouttype (Taakniveau of Recordniveau). Klik **Toepassen** wanneer gereed.
+1. Selecteer uw datum- en tijdbereik en filtreer vervolgens op Fouttype (Taakniveau of Recordniveau). Klikken **Toepassen** wanneer gereed.
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**Optionele stap**: Als u synchronisatiefouten wilt exporteren, klikt u op  **Exporteren**. De gegevens worden geëxporteerd als een CSV-bestand.
+**Optionele stap**: Als u synchronisatiefouten wilt exporteren, klikt u op **Exporteren**. De gegevens worden geëxporteerd als een CSV-bestand.
 
 ![](assets/salesforce-sync-errors-5.png)

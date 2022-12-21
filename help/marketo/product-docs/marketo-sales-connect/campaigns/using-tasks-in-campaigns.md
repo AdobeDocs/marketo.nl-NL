@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352619
-description: Het gebruiken van Taken in Campagnes - Marketo Docs - de Documentatie van het Product
+description: Taken gebruiken in campagnes - Marketo Docs - Productdocumentatie
 title: Taken gebruiken in campagnes
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
-
 
 # Taken gebruiken in campagnes {#using-tasks-in-campaigns}
 
@@ -17,7 +16,7 @@ Taken zijn een krachtig hulpmiddel wanneer u een campagne naar een contactpersoo
 
 De taak om een E-mail en een Taak te verzenden om een contact te roepen is het gemeenschappelijkste gebruik voor Taken in Campagnes.
 
-U kunt een &quot;Taak aan Inmail&quot;een contact op LinkedIn ook maken als dat deel van uw werkschema uitmaakt. U kunt ook een aangepaste taak uitvoeren om u eraan te herinneren dat u hen kunt uitnodigen voor een gelukkig uur, vragen over hun liefdadigheidsgebeurtenis of inchecken na game 5, enz.
+U kunt ook een contactpersoon voor &quot;Taak om te e-mailen&quot; maken op LinkedIn als dat onderdeel is van uw workflow. U kunt ook een aangepaste taak uitvoeren om u eraan te herinneren dat u hen kunt uitnodigen voor een gelukkig uur, vragen over hun liefdadigheidsgebeurtenis of inchecken na game 5, enz.
 
 >[!NOTE]
 >

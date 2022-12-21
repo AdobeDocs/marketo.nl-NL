@@ -1,55 +1,54 @@
 ---
 unique-page-id: 2359991
-description: Rapportabonnementen beheren - Marketo Docs - Productdocumentatie
+description: Abonnementen op rapporten beheren - Marketo Docs - Productdocumentatie
 title: Rapportabonnementen beheren
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # Rapportabonnementen beheren {#manage-report-subscriptions}
 
 Configureer en verwijder rapportabonnementen.
 
-1. Ga naar het gebied **Analytics**.
+1. Ga naar de **Analyse** gebied.
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. Klik op het tabblad **Abonnementen**.
+1. Klik op de knop **Abonnementen** tab.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   Deze pagina toont de abonnementen op alle rapporten in uw rekening, die door [rapporttype](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) wordt gegroepeerd. Dit omvat [abonnementen aan basisrapporten](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) en aan de rapporten van de Ontdekkingsreiziger van de Ontdekkingsreiziger van de Ontvangsten.
+   Op deze pagina worden de abonnementen op alle rapporten in uw account weergegeven, gegroepeerd op [rapporttype](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Dit omvat [abonnementen op basisrapporten](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) en aan de rapporten van de Ontdekkingsreiziger van de Ontdekkingsreiziger van de Opbrengst.
 
    >[!TIP]
    >
-   >U kunt abonnementen aan een individueel rapport in **Marketing Activiteiten** ook beheren. Selecteer het rapport en klik **Abonnementen** tabel.
+   >U kunt ook abonnementen op een afzonderlijk rapport beheren in **Marketingactiviteiten**. Selecteer het rapport en klik op de knop **Abonnementen** tab.
 
    Als u wilt instellen hoe vaak een rapport per e-mail wordt verzonden, klikt u op het veld Frequentie en selecteert u een nieuwe optie in het keuzemenu.
 
    ![](assets/image2014-9-16-10-3a36-3a4.png)
 
-1. Als u de e-mailadressen in een abonnement wilt wijzigen, klikt u op het veld **E-mailontvangers** en bewerkt u de e-mailadressen.
+1. Als u de e-mailadressen in een abonnement wilt wijzigen, klikt u op de knop **E-mailontvangers** en bewerk de e-mailadressen.
 
    ![](assets/image2014-9-16-10-3a36-3a11.png)
 
    >[!TIP]
    >
    >* Gebruik komma&#39;s tussen e-mailadressen.
-   >* Als u uw bewerkingen wilt opslaan, klikt u in een gebied _buiten_ in de lijst met abonnementen.
+   >* Als u uw bewerkingen wilt opslaan, klikt u in een gebied _buiten_ de abonnementenlijst.
 
 
    U kunt ook:
 
-   * Klik **Mening** knoop om een rapport te openen.
-   * Schakel het selectievakje **Actief** uit om het abonnement te deactiveren.
-   * Klik en bewerk het **Summiere** gebied om te veranderen hoeveel voorproefrijen in e-mail verschijnen.
-   * Schakel het selectievakje **Excel** uit om rapportsamenvattingen zonder de spreadsheetbijlage te verzenden.
-   * Klik **Send** knoop om het rapport e-mail onmiddellijk te verzenden.
+   * Klik op de knop **Weergave** om een rapport te openen.
+   * Schakel de optie **Actief** Schakel het selectievakje in om het abonnement te deactiveren.
+   * Klik en bewerk de **Samenvatting** om te wijzigen hoeveel voorvertoningsrijen er in de e-mail worden weergegeven.
+   * Schakel de optie **Excel** Schakel het selectievakje in om rapportoverzichten zonder de spreadsheetbijlage te verzenden.
+   * Klik op de knop **Verzenden** om het rapport direct te verzenden.
 
 1. Als u een abonnement wilt verwijderen, selecteert u de rij en klikt u op **Abonnement verwijderen**.
 

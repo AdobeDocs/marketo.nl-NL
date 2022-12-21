@@ -3,7 +3,6 @@ unique-page-id: 2359837
 description: Triggers en filters voor sociale activiteiten - Marketo Docs - Productdocumentatie
 title: Triggers en filters voor sociale activiteiten
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
-translation-type: tm+mt
 source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '158'
@@ -19,11 +18,11 @@ Sociale apps in Marketo hebben hun eigen speciale triggers en filters.
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Als u sociale _triggers_ wilt gebruiken, selecteert u uw slimme campagne en klikt u op het tabblad **Slimme lijst**. Klik rechts op + om Triggers **Triggers** uit te vouwen en **Sociaal**.
+1. Sociaal gebruiken _triggers_, selecteert u uw slimme campagne en klikt u op de knop **Slimme lijst** tab. Klik rechts op + om uit te vouwen **Triggers** vervolgens **Sociaal**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Als u sociale _filters_ wilt gebruiken, klikt u op **+** om de **Filters** uit te vouwen.
+1. Sociaal gebruiken _filters_ klikt u op de knop **+** om de **Filters**.
 
    ![](assets/two-282-29.png)
 

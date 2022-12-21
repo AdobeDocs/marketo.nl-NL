@@ -64,7 +64,7 @@ Hieronder staan de oude pictogrammen uit Marketo Classic. De nieuwe woordenlijst
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" width="25" src="assets/share-from.png"> 
+     <img alt="--" width="25" src="assets/share-from.png"> 
     </div></td> 
    <td colspan="1">Doelmap die vanuit een andere werkruimte is gedeeld <br>(hangslot geeft aan dat er geen bewerkingen kunnen worden uitgevoerd)</td> 
   </tr> 
@@ -92,7 +92,7 @@ Hieronder staan de oude pictogrammen uit Marketo Classic. De nieuwe woordenlijst
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" height="22" width="22" src="assets/trigger.png" title="—"> 
+     <img alt="--" height="22" width="22" src="assets/trigger.png" title="--"> 
     </div></td> 
    <td colspan="1">Trigger</td> 
   </tr> 
@@ -415,7 +415,7 @@ Hieronder staan de oude pictogrammen uit Marketo Classic. De nieuwe woordenlijst
   <tr> 
    <td colspan="1"> 
     <div> 
-     <img alt="—" src="assets/hs-icon.png" title="—"> 
+     <img alt="--" src="assets/hs-icon.png" title="--"> 
     </div></td> 
    <td colspan="1">E-mailprogramma gepland met Head Start</td> 
   </tr> 

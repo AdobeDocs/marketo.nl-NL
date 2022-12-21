@@ -3,7 +3,6 @@ unique-page-id: 2953358
 description: Items rechtstreeks verwijderen in de marketingkalender - Marketo Docs - productdocumentatie
 title: Items rechtstreeks in de marketingkalender verwijderen
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
@@ -13,13 +12,13 @@ ht-degree: 0%
 
 # Items rechtstreeks in de marketingkalender verwijderen {#delete-entries-directly-in-the-marketing-calendar}
 
-Naast [het creëren van ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) en [het uitgeven van ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) ingangen, kunt u hen direct in de Kalender van de Marketing schrappen. Zo gaat het.
+Naast [maken](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) en [bewerken](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) kunt u deze rechtstreeks verwijderen in de Marketingkalender. Zo gaat het.
 
-1. Ga naar **Kalender**.
+1. Ga naar de **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. Selecteer de vermelding die u wilt verwijderen en klik op **Programmafocus tonen**.
+1. Selecteer het item dat u wilt verwijderen en klik op **Programmafocus tonen**.
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 

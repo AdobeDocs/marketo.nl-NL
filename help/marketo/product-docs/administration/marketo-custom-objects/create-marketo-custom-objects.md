@@ -3,7 +3,6 @@ unique-page-id: 10093192
 description: Aangepaste Marketo-objecten maken - Marketo Docs - Productdocumentatie
 title: Aangepaste Marketo-objecten maken
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '710'
@@ -17,7 +16,7 @@ Gebruik aangepaste objecten in Marketo om metrische gegevens bij te houden die s
 
 >[!NOTE]
 >
->U kunt aangepaste objecten zo instellen dat deze werken op een-op-veel- of een-op-veel-basis. U maakt het oorspronkelijke object op dezelfde manier, maar de stappen verschillen wanneer u velden aan het object toevoegt. Zie [Inzicht in aangepaste Marketo-objecten](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie.
+>U kunt aangepaste objecten zo instellen dat deze werken op een-op-veel- of een-op-veel-basis. U maakt het oorspronkelijke object op dezelfde manier, maar de stappen verschillen wanneer u velden aan het object toevoegt. Zie  [Aangepaste Marketo-objecten begrijpen](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) voor meer informatie .
 
 >[!NOTE]
 >
@@ -27,11 +26,11 @@ Gebruik aangepaste objecten in Marketo om metrische gegevens bij te houden die s
 
 In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur van één op vele. Later maakt u een aangepast cursusobject en een tussenliggend object voor gebruik in een veel-op-veel-structuur.
 
-1. Klik op **Admin** en selecteer **Marketo Custom Objects** in **Databasebeheer**.
+1. Klikken **Beheer**, en in **Databasebeheer** selecteren **Aangepaste Marketo-objecten**.
 
    ![](assets/image2016-1-18-13-3a12-3a19.png)
 
-1. Klik **Nieuw aangepast object**.
+1. Klikken **Nieuw aangepast object**.
 
    ![](assets/image2016-5-18-16-3a28-3a4.png)
 
@@ -45,9 +44,9 @@ In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur v
 
    >[!NOTE]
    >
-   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Plurale naam en de schuifregelaar **Tonen in regelafstandgegevens** bewerken.
+   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Meerdere namen en het dialoogvenster **Tonen in gegevens over lead** schuifregelaar.
 
-1. Trek de **Tonen in Lead Detail** schuif over om **Show** te tonen als u de gegevens van het douanevoorwerp op de pagina van het Gegevensbestand van de Lood wilt bekijken. Klik **Opslaan**.
+1. Trek de **Tonen in gegevens over lead** schuifregelaar om weer te geven **Tonen** als u aangepaste objectgegevens wilt weergeven op de pagina Database lead. Klikken **Opslaan**.
 
    ![](assets/image2015-9-15-16-3a32-3a2.png)
 
@@ -55,11 +54,11 @@ In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur v
 
    ![](assets/image2015-9-15-16-3a38-3a22.png)
 
-   De volgende stap is gebieden aan [bouwt uw douanevoorwerp](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md) toe.
+   De volgende stap bestaat uit het toevoegen van velden aan [een aangepast object maken](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
    >[!NOTE]
    >
-   >U kunt aangepaste objecten van Marketo alleen vullen via een lijstimport of de [API](https://developers.marketo.com/documentation/rest/).
+   >U kunt aangepaste Marketo-objecten alleen vullen met een lijstimport of de opdracht [API](https://developers.marketo.com/documentation/rest/).
 
 ## Een aangepast object maken voor een veel-op-veel-structuur {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -69,11 +68,11 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 >
 >Voor een veel-aan-vele verhouding, te hoeven u om geen verbinding in het douanevoorwerp tot stand te brengen. In plaats daarvan voegt u twee koppelingen toe aan het intermediaire object (zie hieronder).
 
-1. Klik op **Admin** en selecteer **Marketo Custom Objects** in **Databasebeheer**.
+1. Klikken **Beheer**, en in **Databasebeheer** selecteren **Aangepaste Marketo-objecten**.
 
    ![](assets/image2016-1-18-13-3a16-3a25.png)
 
-1. Klik **Nieuw aangepast object**.
+1. Klikken **Nieuw aangepast object**.
 
    ![](assets/image2016-5-18-16-3a32-3a42.png)
 
@@ -83,9 +82,9 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 
    >[!NOTE]
    >
-   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Plurale naam en de schuifregelaar **Tonen in regelafstandgegevens** bewerken.
+   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Meerdere namen en het dialoogvenster **Tonen in gegevens over lead** schuifregelaar.
 
-1. Trek de **Tonen in Lead Detail** schuif over om **Show** te tonen als u de gegevens van het douanevoorwerp op de pagina van het Gegevensbestand van de Lood wilt bekijken. Klik **Opslaan**.
+1. Trek de **Tonen in gegevens over lead** schuifregelaar om weer te geven **Tonen** als u aangepaste objectgegevens wilt weergeven op de pagina Database lead. Klikken **Opslaan**.
 
    ![](assets/image2016-1-14-13-3a42-3a56.png)
 
@@ -95,7 +94,7 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 
    >[!NOTE]
    >
-   >U kunt aangepaste objecten van Marketo alleen vullen via een lijstimport of de [API](https://developers.marketo.com/documentation/rest/).
+   >U kunt aangepaste Marketo-objecten alleen vullen met een lijstimport of de opdracht [API](https://developers.marketo.com/documentation/rest/).
 
 De volgende stap is dat u een tussenliggend object maakt (zie hieronder). Maar daarvoor moet u een veld maken om er een koppeling naar te maken.
 
@@ -105,13 +104,13 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
 
 >[!NOTE]
 >
->U hoeft geen tussenliggend object te maken voor een aangepaste objectstructuur van een-op-veel.
+>U hoeft geen intermediair object te maken voor een een-op-veel aangepaste objectstructuur.
 
-1. Klik **Admin**, en in **Databasebeheer**, selecteer **Aangepaste objecten van Marketo**.
+1. Klikken **Beheer**, en in **Databasebeheer**, selecteert u **Aangepaste Marketo-objecten**.
 
    ![](assets/image2016-1-18-13-3a17-3a40.png)
 
-1. Klik **Nieuw aangepast object**.
+1. Klikken **Nieuw aangepast object**.
 
    ![](assets/image2016-5-18-16-3a33-3a16.png)
 
@@ -123,13 +122,13 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
    >
    >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Muurnaam en de schuifregelaar Tonen in regelafstandgegevens bewerken.
 
-1. Trek de **Tonen in Lead Detail** schuif over om **Show** te tonen als u de gegevens van het douanevoorwerp op de pagina van het Gegevensbestand van de Lood wilt bekijken. Klik **Opslaan**.
+1. Trek de **Tonen in gegevens over lead** schuifregelaar om weer te geven **Tonen** als u aangepaste objectgegevens wilt weergeven op de pagina Database lead. Klikken **Opslaan**.
 
    ![](assets/image2016-1-14-14-3a12-3a49.png)
 
 1. De informatie over aangepaste objecten geeft de inhoud weer die u hebt ingevoerd. Let op: het staat in het concept.
 
-   De volgende stap is voor u aan [toevoegt verbindingsgebieden](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) om uw intermediair voorwerp met een persoon/bedrijf en een douanevoorwerp te verbinden.
+   De volgende stap is dat u [koppelingsvelden toevoegen](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) om het tussenliggende object te koppelen aan een persoon/bedrijf en een aangepast object.
 
 >[!MORELIKETHIS]
 >

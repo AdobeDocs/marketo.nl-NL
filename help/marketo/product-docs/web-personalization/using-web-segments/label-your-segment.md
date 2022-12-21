@@ -2,22 +2,21 @@
 unique-page-id: 4719348
 description: Label uw segment - Marketo Docs - Productdocumentatie
 title: Uw segment labelen
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-
-# Label uw segment {#label-your-segment}
+# Uw segment labelen {#label-your-segment}
 
 Hebt u zoveel segmenten dat het schuiven omslachtig wordt? Gebruik labels om de segmenten te labelen, zodat u ze snel kunt vinden.
 
-## Een segment {#tag-a-segment} labelen
+## Een segment coderen {#tag-a-segment}
 
-1. Log in Web Personalization and go to **Segments**.
+1. Log in bij Web Personalization en ga naar **Segmenten**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -29,7 +28,7 @@ Hebt u zoveel segmenten dat het schuiven omslachtig wordt? Gebruik labels om de 
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. Als u een nieuw label wilt maken, klikt u op **Label instellen**, voert u de nieuwe labelnaam in en klikt u op **Nieuw** maken.
+1. Als u een nieuw label wilt maken, klikt u op **Label instellen** voert u de nieuwe labelnaam in en klikt u op **Nieuw maken**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

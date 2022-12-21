@@ -1,35 +1,34 @@
 ---
 unique-page-id: 4720314
-description: E-mailprestatierapport over verkoopinzicht - Marketo Docs - Productdocumentatie
+description: E-mailprestatierapport over verkoopinzicht - Marketo-documenten - productdocumentatie
 title: E-mailprestatierapport voor verkoopinzicht
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-
 # E-mailprestatierapport voor verkoopinzicht {#sales-insight-email-performance-report}
 
 Geef de prestaties weer van e-mailberichten die via Salesforce, Microsoft Dynamics of een Gmail- of Outlook-plug-in worden verzonden.
 
-## Een rapport {#generate-a-report} genereren
+## Een rapport genereren {#generate-a-report}
 
-1. Klik **Analytics**.
+1. Klikken **Analyse**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Klik **E-mailprestaties van het Inzicht van de Verkoop**.
+1. Klikken **E-mailprestaties van verkoopinzicht**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Klik op het tabblad **Setup** en kies de gewenste waarden.
+1. Klik op de knop **Instellen** en kiest u de gewenste waarden.
 
    ![](assets/three.png)
 
-1. Klik op het tabblad **Rapport**.
+1. Klik op de knop **Rapport** tab.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -43,23 +42,23 @@ Geef de prestaties weer van e-mailberichten die via Salesforce, Microsoft Dynami
 >
 >Klik op de naam van een e-mailbericht om het te openen in de e-mailvoorvertoning.
 
-## Groeperen op verkoopvertegenwoordiger {#group-by-sales-rep}
+## Groep per vertegenwoordiger {#group-by-sales-rep}
 
 Je kunt dit rapport gegroepeerd op Verkoopvertegenwoordiger bekijken door je instellingen te wijzigen.
 
-1. Klik **Setup**. Dubbelklik **E-mail**.
+1. Klikken **Instellen**. Dubbelklikken **E-mail**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Selecteer de E-mails van de Groep door **Verkoper**.
+1. E-mails groeperen door **Verkoopvertegenwoordiger**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Klik op het tabblad **Rapport**.
+1. Klik op de knop **Rapport** tab.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

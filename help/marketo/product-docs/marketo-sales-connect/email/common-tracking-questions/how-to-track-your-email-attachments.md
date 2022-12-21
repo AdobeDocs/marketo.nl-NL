@@ -2,33 +2,32 @@
 unique-page-id: 14352537
 description: Uw e-mailbijlagen bijhouden - Marketo Docs - Productdocumentatie
 title: Uw e-mailbijlagen bijhouden
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-
 # Uw e-mailbijlagen bijhouden {#how-to-track-your-email-attachments}
 
-Sales Connect biedt tracering op uw bijlagen (.doc, .ppt, .pdf), zodat u kunt zien wanneer deze zijn geopend/gedownload en kunt zien welke pagina&#39;s uw ontvanger doorzoekt. U kunt onze functie voor trackable attachments zowel gebruiken in de [webtoepassing](https://toutapp.com/login) als in Gmail (of Google Apps).
+Sales Connect biedt tracering op uw bijlagen (.doc, .ppt, .pdf), zodat u kunt zien wanneer deze zijn geopend/gedownload en kunt zien welke pagina&#39;s uw ontvanger doorzoekt. U kunt de functie voor het bijhouden van bijlagen van beide [webtoepassing](https://toutapp.com/login) en Gmail (of Google Apps).
 
 >[!NOTE]
 >
 >Bijlagen bijhouden is alleen beschikbaar voor onze teamplannen (te beginnen met ons g3startplan).
 
-## Hoe te om uw eerste TrackableBijlage {#how-to-send-your-first-trackable-attachment} te verzenden
+## Hoe te om uw eerste Trackable Bijlage te verzenden {#how-to-send-your-first-trackable-attachment}
 
-1. Stel een e-mail samen of geef een malplaatje uit, dan klik **Inhoud** knoop.
+1. Stel een e-mail samen of bewerk een malplaatje, dan klik **Inhoud** knop.
 
-1. Upload uw bijlage en verzend het uit. Wij ondersteunen PDF&#39;s, Word-documenten en PowerPoint-presentaties.
+1. Upload uw bijlage en verzend het uit. Wij ondersteunen PDF, Word-documenten en PowerPoint-presentaties.
 
-1. Selecteer **Toevoegen aan e-mail**.
+1. Selecteren **Toevoegen aan e-mail**.
 
-1. Klik op **Verzenden** en vul uw Live feed in. Ontvangers worden weergegeven terwijl ze worden geopend en door de bijlagen worden gepagineerd.
+1. Klikken **Verzenden** en vul uw Live Feed in. Ontvangers worden weergegeven terwijl ze worden geopend en door de bijlagen worden gepagineerd.
 
    >[!TIP]
    >
-   >Als u een gehechtheid niet zou willen volgen, eenvoudig **Band Dossiers** en deze gehechtheid zal niet worden gevolgd.
+   >Als u een bijlage niet wilt bijhouden, klikt u gewoon op **Bestanden bijvoegen** en deze bijlage wordt niet bijgehouden.

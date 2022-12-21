@@ -2,7 +2,6 @@
 description: Salesforce Sync Status - Marketo Docs - Productdocumentatie
 title: Status Salesforce-synchronisatie
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '552'
@@ -10,7 +9,7 @@ ht-degree: 0%
 
 ---
 
-# Salesforce-synchronisatiestatus {#salesforce-sync-status}
+# Status Salesforce-synchronisatie {#salesforce-sync-status}
 
 Gebruik het statusdashboard synchroniseren om synchronisatiestatussen weer te geven als onderdeel van de synchronisatiestappen en de successtatus.
 
@@ -20,9 +19,9 @@ De synchronisatiestappen weerspiegelen de bewerkingen van push of pull van elk o
 >
 >Beheerdersmachtigingen vereist
 
-## Synchronisatiestatus {#view-sync-status} weergeven
+## Synchronisatiestatus weergeven {#view-sync-status}
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/salesforce-sync-status-1.png)
 
@@ -44,11 +43,11 @@ Standaard worden stats gesorteerd op basis van de status die het laatst is gesta
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Klik **Toepassen**.
+1. Klikken **Toepassen**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**Optionele stap**: Als u synchronisatiefouten wilt exporteren, klikt u op  **Exporteren**. De gegevens worden geëxporteerd als een CSV-bestand.
+**Optionele stap**: Als u synchronisatiefouten wilt exporteren, klikt u op **Exporteren**. De gegevens worden geëxporteerd als een CSV-bestand.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -119,7 +118,7 @@ Standaard worden stats gesorteerd op basis van de status die het laatst is gesta
  </tbody> 
 </table>
 
-*Gegevens werden teruggezet naar vorige status van integriteit na fout met synchronisatiestap.
+&#42;Gegevens worden teruggezet naar vorige status van integriteit na fout met synchronisatiestap.
 
 ## Objecttype {#object-type}
 
@@ -224,7 +223,7 @@ Standaard worden stats gesorteerd op basis van de status die het laatst is gesta
   </tr>  
   <tr> 
    <td colspan="1">Schema synchroniseren</td> 
-   <td colspan="1">Campagneleden, aangepaste objecten, campagnes, status van campagnelid, taken, persoon, opportuniteit, rol van contactpersoon voor opportunity, gebruikers</td> 
+   <td colspan="1">Campagneleden, aangepaste objecten, campagnes, status van campagnerelid, taken, persoon, opportuniteit, rol van contactpersoon voor opportunity, gebruikers</td> 
    <td colspan="1">Hiermee synchroniseert u metagegevens voor verschillende objecten om te bepalen welke nieuwe velden in de volgende cyclus moeten worden gesynchroniseerd</td> 
    <td colspan="1"></td>
   </tr>  
@@ -249,4 +248,4 @@ Standaard worden stats gesorteerd op basis van de status die het laatst is gesta
  </tbody> 
 </table>
 
-*Branding configuratie op het abonnementsniveau beslist het etiket - &quot;Lood&quot;of &quot;Persoon&quot;in het rapport.
+&#42;De brandingconfiguratie op het abonnementsniveau beslist het etiket - &quot;Lood&quot;of &quot;Persoon&quot;in het rapport.

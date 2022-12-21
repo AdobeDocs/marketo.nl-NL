@@ -3,7 +3,6 @@ unique-page-id: 11380986
 description: Een werkruimte bewerken - Marketo Docs - Productdocumentatie
 title: Een werkruimte bewerken
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '146'
@@ -21,9 +20,9 @@ Soms moet u wijzigingen aanbrengen in een werkruimte. Het is gemakkelijk.
 
 >[!NOTE]
 >
->Penseel omhoog op werkruimten met [Werkruimten en Personen Partities](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Penseel omhoog op werkruimten met [Werken- en personenpartities begrijpen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Klik onder **Admin** op **Werkruimten en partities**.
+1. Onder **Beheer**, klikt u op **Werkruimten en partities**.
 
    ![](assets/image2014-9-17-11-3a59-3a11-1.png)
 
@@ -35,19 +34,19 @@ Soms moet u wijzigingen aanbrengen in een werkruimte. Het is gemakkelijk.
 
    >[!NOTE]
    >
-   >U kunt [meer persoonverdelingen tot stand brengen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) als u hen nodig hebt.
+   >U kunt [meer persoonlijke partities maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) als u ze nodig hebt.
 
    ![](assets/three-7.png)
 
    >[!NOTE]
    >
-   >Het selectievakje **Alle persoonlijke partities** betekent dat deze werkruimte alle leadpartities in het systeem kan gebruiken.
+   >De **Alle personenpartities** selectievakje betekent dat in deze werkruimte alle leadpartities in het systeem kunnen worden gebruikt.
 
    >[!NOTE]
    >
-   >De **primaire persoonpartitie** fungeert als standaard en is de locatie waar alle personen worden toegewezen.
+   >De **partitie primaire persoon** fungeert als de standaardinstelling en is waar alle personen worden toegewezen.
 
-   Als u meerdere domeinen met branding hebt ingeschakeld, kunt u overschakelen op een ander domein met primaire branding. Klik **Opslaan**.
+   Als u meerdere domeinen met branding hebt ingeschakeld, kunt u overschakelen op een ander domein met primaire branding. Klikken **Opslaan**.
 
    ![](assets/four-6.png)
 

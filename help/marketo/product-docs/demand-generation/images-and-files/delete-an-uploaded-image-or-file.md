@@ -2,30 +2,29 @@
 unique-page-id: 2359873
 description: Een geüploade afbeelding of bestand verwijderen - Marketo Docs - Productdocumentatie
 title: Een geüploade afbeelding of bestand verwijderen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
+# Een geüploade afbeelding of bestand verwijderen {#delete-an-uploaded-image-or-file}
 
-# Een geüploade afbeelding of bestand {#delete-an-uploaded-image-or-file} verwijderen
-
-1. Ga naar **Design** **Studio**.
+1. Ga naar de **Ontwerp** **Studio**.
 
    ![](assets/designstudio-5.png)
 
-1. Selecteer **Afbeeldingen en bestanden** in het linkermenu en klik vervolgens naast de naam van het bestand dat u wilt verwijderen.
+1. Selecteren **Afbeeldingen en bestanden** klikt u in het linkermenu naast de naam van het bestand dat u wilt verwijderen.
 
    ![](assets/image2014-9-16-11-3a18-3a15.png)
 
-1. Klik op de vervolgkeuzelijst **Bestandsacties** en selecteer **Verwijderen**.
+1. Klik op de knop **Bestandshandelingen** vervolgkeuzelijst en selecteer **Verwijderen**.
 
    ![](assets/image2014-9-16-11-3a18-3a22.png)
 
-1. Controleer of u het juiste bestand hebt geselecteerd en klik op **Delete**.
+1. Controleer of u het juiste bestand hebt geselecteerd en klik op **Verwijderen**.
 
    ![](assets/image2014-9-16-11-3a18-3a30.png)
 
@@ -33,7 +32,7 @@ ht-degree: 0%
    >
    >Verwijderde afbeeldingen en bestanden worden volledig uit Marketo verwijderd en kunnen niet worden hersteld.  Ze worden niet meer weergegeven op landingspagina&#39;s of e-mails waar ze werden gebruikt.
 
-1. U zult aan **Beelden** en **Dossiers** pagina worden teruggegeven, waar u zult zien dat uw dossier is geschrapt.
+1. U wordt teruggestuurd naar de **Afbeeldingen** en **Bestanden** pagina, waar u zult zien dat uw dossier is geschrapt.
 
    ![](assets/image2014-9-16-11-3a19-3a0.png)
 

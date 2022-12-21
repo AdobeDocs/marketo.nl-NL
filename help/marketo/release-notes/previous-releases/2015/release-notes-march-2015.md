@@ -26,7 +26,7 @@ Toon de marketing van uw team acties met de nieuwe presentatiemodus van de kalen
 
 ## Google Adwords-integratie {#google-adwords-integration}
 
-Koppel uw [Google AdWords-account aan Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) om offline conversiegegevens van Marketo automatisch te uploaden naar Google AdWords. Dan, van AdWords UI, zult u gemakkelijk kunnen zien welke klikken in gekwalificeerde lood, kansen, en nieuwe klanten (of welke opbrengststadia resulteerden u wilt volgen).
+Koppel uw [Google AdWords-account naar Marketo](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) om offline conversiegegevens automatisch te uploaden van Marketo naar Google AdWords. Dan, van AdWords UI, zult u gemakkelijk kunnen zien welke klikken in gekwalificeerde lood, kansen, en nieuwe klanten (of welke opbrengststadia resulteerden u wilt volgen).
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
@@ -40,16 +40,16 @@ De Ontdekkingsreiziger van de opbrengst heeft een gloednieuwe blik en voelt, eve
 
 We hebben nu ondersteuning voor het maken en bewerken van e-mails, sjablonen, mijn tokens, bestanden en fragmenten [via de API](https://developers.marketo.com/documentation/asset-api)!
 
-## Microsoft Dynamics 2015 op locatie {#microsoft-dynamics-on-premise}
+## Microsoft Dynamics 2015 on Premise {#microsoft-dynamics-on-premise}
 
-Ondersteund met het nieuwste installatieprogramma dat nu [toegankelijk is via de app](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
+Nu ondersteund met het nieuwste installatieprogramma [toegankelijk via de app](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 ![](assets/image2015-3-23-11-3a47-3a16.png)
 
 ## RTP - Persoonlijke Betrokkenheid van het Web met Leidingsgegevens {#rtp-personalized-web-engagement-with-lead-data}
 
-Gebruik de [hoofdgegevensvelden](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) die u hebt in uw Marketo-hoofddatabase om realtime segmentatie en gepersonaliseerde inhoudscampagnes te maken. Beheer uw gegevensvelden voor leads in RTP en voeg relevante hoofdvelden toe of verwijder deze.
+De [gegevensvelden voor lead](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) u hebt u in uw leidende gegevensbestand van Marketo om segmentatie in real time en gepersonaliseerde inhoudscampagnes tot stand te brengen. Beheer uw gegevensvelden voor leads in RTP en voeg relevante hoofdvelden toe of verwijder deze.
 
 ## RTP - Personaliseer de Inhoud van het Web door E-mail of de Naam van de Campagne van het Programma {#rtp-personalize-web-content-by-email-or-program-campaign-name}
 
-Ga door met het gesprek met uw lead via de verschillende kanalen, van e-mail tot web. [Binnenkomende inhoud aanpassen op basis van de e-mailcampagne of de ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) programmanaam die worden gebruikt in de marketingactiviteiten van Marketo.
+Ga door met het gesprek met uw lead via de verschillende kanalen, van e-mail tot web. [Binnenkomende inhoud aanpassen op basis van e-mailcampagne of -programma](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) naam gebruikt in Marketo&#39;s Marketing Activities.

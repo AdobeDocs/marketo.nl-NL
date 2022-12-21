@@ -1,19 +1,18 @@
 ---
 unique-page-id: 7515207
-description: Werken met gratis formulieren en portaalpagina's met instructies - Marketo Docs - Productdocumentatie
+description: Werken met gratis formulieren en bestemmingspagina's met instructies - Marketo Docs - Productdocumentatie
 title: Werken met vrije vorm en portaalpagina's met instructies
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
 
+# Werken met vrije vorm en portaalpagina&#39;s met instructies {#understanding-free-form-vs-guided-landing-pages}
 
-# Werken met Free-form versus Guided Landing Pages {#understanding-free-form-vs-guided-landing-pages}
-
-De sjabloon die u kiest, bepaalt in welke bewerkingsmodus voor de openingspagina u gaat werken. Er zijn twee mogelijke paden: [free-form](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) en [guided](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Hieronder vindt u een korte samenvatting van de belangrijke verschillen.
+De sjabloon die u kiest, bepaalt in welke bewerkingsmodus voor de openingspagina u gaat werken. Er zijn twee mogelijke paden: [vrij](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) en [begeleid](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Hieronder vindt u een korte samenvatting van de belangrijke verschillen.
 
 ## Vrije-vormpagina&#39;s {#free-form-pages}
 

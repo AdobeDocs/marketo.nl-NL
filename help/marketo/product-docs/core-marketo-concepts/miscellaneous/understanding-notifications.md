@@ -5,7 +5,7 @@ title: Kennisgevingen
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 source-git-commit: e4d7fb7afac79b706fac754adc8f932ce96a2398
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -28,20 +28,20 @@ Meldingen houden je up-to-date over systeemgebeurtenissen die plaatsvinden in je
 
 U kunt zich abonneren op meldingen om deze in uw e-mail te ontvangen.
 
-1. Ga naar Meldingen en klik **Abonneren**.
+1. Ga naar Meldingen en klik op **Abonneren**.
 
    ![](assets/understanding-notifications-3.png)
 
-1. Selecteer het Berichttype en voer het e-mailadres of de e-mailadressen in waarnaar meldingen moeten worden verzonden (gescheiden door een komma). Klik **Abonneren** wanneer gereed.
+1. Selecteer het Berichttype en voer het e-mailadres of de e-mailadressen in waarnaar meldingen moeten worden verzonden (gescheiden door een komma). Klikken **Abonneren** wanneer gereed.
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->Het **verzenden naar** gebied is slechts voor u om uw e-mail in te gaan, zal het geen lijst van bestaande abonnees tonen.
+>De **verzenden naar** alleen voor u is om uw e-mail in te voeren. Er wordt geen lijst met bestaande abonnees weergegeven.
 
 In sommige gevallen bevat een melding de koppeling &quot;Zie de volledige lijst&quot; om een CSV-bestand (comma-separated-value) te downloaden, bijvoorbeeld het foutbestand van Microsoft Dynamics Sync. Marketo bewaart deze CSV-bestanden 30 dagen. Als u het bestand na 30 dagen probeert te downloaden, wordt een fout van 404 gegenereerd.
 
 >[!TIP]
 >
->Wil je je niet meer abonneren op e-mailberichten? Geen probleem. Klik eenvoudig **unsubscribe van Notifications** verbinding bij de bodem van e-mail.
+>Wil je je niet meer abonneren op e-mailberichten? Geen probleem. Klik op de knop **Abonnement op meldingen opzeggen** onderaan in de e-mail.

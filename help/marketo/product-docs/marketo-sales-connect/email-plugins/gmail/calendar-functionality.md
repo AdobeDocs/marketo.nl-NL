@@ -2,15 +2,14 @@
 unique-page-id: 14352443
 description: Kalenderfunctionaliteit - Marketo Docs - Productdocumentatie
 title: Kalenderfunctionaliteit
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 15d127a8-ed9a-4e87-b41e-0126a38ec2b8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-
 # Kalenderfunctionaliteit {#calendar-functionality}
 
-Laat de ontvangers weten wanneer u beschikbaar bent door op de knop **Kalender** te drukken. Het programma wordt in uw Google-agenda weergegeven en stelt u in staat specifieke datums en tijden toe te voegen die u gratis hebt en de ontvanger kan reageren met een tijd die voor hem of haar werkt.
+Laat de ontvangers weten wanneer u beschikbaar bent door op de knop **Kalender** knop. De sjabloon wordt in uw Google-kalender weergegeven en u kunt specifieke datums en tijden toevoegen die u gratis hebt en de ontvanger kan reageren met een tijd die voor hem of haar geschikt is.

@@ -2,22 +2,21 @@
 unique-page-id: 2359596
 description: Communicatielimieten in-/uitschakelen in een e-mailprogramma - Marketo Docs - Productdocumentatie
 title: Communicatielimieten in-/uitschakelen in een e-mailprogramma
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: 25427978-33a0-4153-ad66-b34f9549e794
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
-
 # Communicatielimieten in-/uitschakelen in een e-mailprogramma {#enable-disable-communication-limits-in-an-email-program}
 
-Wanneer het runnen van een e-mailprogramma, kunt u verkiezen om [de communicatielimieten op het niveau van admin](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) te negeren of te respecteren. Zo doe je het.
+Als u een e-mailprogramma uitvoert, kunt u ervoor kiezen de [communicatielimieten op beheerniveau](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md). Zo doe je het.
 
 >[!NOTE]
 >
->Communicatielimieten worden [ingesteld in de Admin-sectie](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) en helpen u te voorkomen dat u één persoon te veel e-mails stuurt.
+>Communicatiegrenzen zijn [instellen in de sectie Beheer](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) en helpt u te voorkomen dat u één persoon te veel e-mails stuurt.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -27,7 +26,7 @@ Wanneer het runnen van een e-mailprogramma, kunt u verkiezen om [de communicatie
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Onder **Opstelling** lusje, klik het punt van de de lijnlijn van de communicatielimiet tweemaal.
+1. Onder de **Instellen** dubbelklikt u op het regelitem voor de communicatielimiet.
 
    ![](assets/blockoperational.png)
 
@@ -35,4 +34,4 @@ Wanneer het runnen van een e-mailprogramma, kunt u verkiezen om [de communicatie
 
    ![](assets/ifaperson.jpg)
 
-   Als u **Niet-operationele e-mailberichten blokkeert** ingeschakeld laat, voorkomt u dat de e-mail wordt verzonden naar iedereen die meer e-mails heeft ontvangen dan is toegestaan door uw beheerinstellingen.
+   Bladeren **Niet-operationele e-mailberichten blokkeren** Als deze optie is ingeschakeld, wordt het e-mailbericht niet verzonden naar iedereen die meer e-mails heeft ontvangen dan is toegestaan door uw beheerinstellingen.

@@ -1,33 +1,32 @@
 ---
 unique-page-id: 12981145
-description: Prestatieinzichten instellen - Marketo Docs - Productdocumentatie
+description: Prestatie-inzichten instellen - Marketo Docs - Productdocumentatie
 title: Prestatie-inzichten instellen
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 0%
 
 ---
 
-
-# Prestatieinzichten instellen {#setting-up-performance-insights}
+# Prestatie-inzichten instellen {#setting-up-performance-insights}
 
 Voer de onderstaande stappen uit om MPI in te stellen.
 
-## Opportuniteit instellen {#opportunity-setup}
+## Opportunity instellen {#opportunity-setup}
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/admin.png)
 
-1. Klik op **Analyse van omzetcyclus**.
+1. Klikken **Analyse van inkomstencyclus**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Als u geen RCA hebt, zult u **Analyse van het Programma** voor Stap 2 moeten selecteren.
+   >Als u geen RCA hebt, zult u moeten selecteren **Programmaanalyse** voor Stap 2.
 
 1. Klik onder Kenmerk op **Bewerken**.
 
@@ -53,11 +52,11 @@ Voer de onderstaande stappen uit om MPI in te stellen.
    >* Type opportunity
 
 
-## Programma-instelling {#program-setup}
+## Programma instellen {#program-setup}
 
 Werk de programmakosten ten minste 12 maanden bij. U kunt dit handmatig doen of de programma-API gebruiken. In dit voorbeeld doen we het handmatig.
 
-1. Klik **Marketingactiviteiten**.
+1. Klikken **Marketingactiviteiten**.
 
    ![](assets/ma.png)
 
@@ -65,11 +64,11 @@ Werk de programmakosten ten minste 12 maanden bij. U kunt dit handmatig doen of 
 
    ![](assets/select-program.png)
 
-1. Klik op het tabblad **Setup**.
+1. Klik op de knop **Instellen** tab.
 
    ![](assets/setup-tab.png)
 
-1. Sleep **Periode Kosten** naar het canvas.
+1. Slepen **Kosten periode** op het canvas.
 
    ![](assets/period-cost.png)
 
@@ -83,15 +82,15 @@ Werk de programmakosten ten minste 12 maanden bij. U kunt dit handmatig doen of 
 
 Controleer vervolgens het analysegedrag om aan te geven of een bepaald kanaal moet worden opgenomen in de analyse. Stel het gedrag Analytics (Normaal, Inclusief, Operationeel) in.
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/admin.png)
 
-1. Klik **Codes**.
+1. Klikken **Tags**.
 
    ![](assets/tags.png)
 
-1. Klik **+** om de lijst van het Kanaal uit te breiden.
+1. Klik op de knop **+** om de lijst Kanaal uit te vouwen.
 
    ![](assets/channel.png)
 
@@ -99,7 +98,7 @@ Controleer vervolgens het analysegedrag om aan te geven of een bepaald kanaal mo
 
    ![](assets/channel-click.png)
 
-1. Klik op de vervolgkeuzelijst **Gedrag Analytics** en selecteer het gewenste gedrag.
+1. Klik op de knop **Analysegedrag** en selecteert u het gewenste gedrag.
 
    ![](assets/edit-channel.png)
 
@@ -107,11 +106,11 @@ Controleer vervolgens het analysegedrag om aan te geven of een bepaald kanaal mo
 
    ![](assets/success.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/save.png)
 
-## Plaats het programma aan de persoon {#tie-the-program-to-the-person}
+## Het programma aan de persoon overhandigen {#tie-the-program-to-the-person}
 
 1. Zorg ervoor dat het overnameprogramma en de overnamedatum zijn ingesteld voor elke persoon in de database, zodat First Touch Attribution werkt.
 1. Zorg ervoor dat uw programma&#39;s de status van succes instellen voor uw volk.

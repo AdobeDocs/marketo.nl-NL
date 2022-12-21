@@ -1,37 +1,36 @@
 ---
 unique-page-id: 7504163
-description: Voeg LinkedIn Gelijke Publiek als Dienst van LaunchPoint toe - Marketo Dos - de Documentatie van het Product
-title: Voeg LinkedIn Gelijke Publiek als Dienst van LaunchPoint toe
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Voeg aan LinkedIn Gelijke Soorten publiek als Dienst van LaunchPoint toe - Marketo Docs - de Documentatie van het Product
+title: Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice
+exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
-
-# Voeg LinkedIn Gelijke Soorten publiek als Dienst van LaunchPoint {#add-linkedin-matched-audiences-as-a-launchpoint-service} toe
+# Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice {#add-linkedin-matched-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-Sluit uw Marketo-account aan op LinkedIn Matched Publiek om een statische lijst of slimme lijst Marketo te gebruiken als een LinkedIn-publiekssegment.
+Sluit uw Marketo-account aan op LinkedIn Matched Publiek om een statische Marketo-lijst of slimme lijst te gebruiken als een LinkedIn-publiekssegment.
 
-1. Ga naar **Admin** sectie.
+1. Ga naar de **Beheer** sectie.
 
    ![](assets/admin.png)
 
-1. Selecteer **Launchpoint**.
+1. Selecteren **Launchpoint**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selecteer **Nieuw** en **Nieuwe service**.
+1. Selecteren **Nieuw** en **Nieuwe service**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Voer een **Weergavenaam** in en kies **Gekoppeld publiek**. Klik **Maken**.
+1. Voer een **Weergavenaam** en kiest u **linkedIn-doelgroepen**. Klikken **Maken**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
@@ -41,24 +40,24 @@ Sluit uw Marketo-account aan op LinkedIn Matched Publiek om een statische lijst 
 
    >[!CAUTION]
    >
-   >Opdat Marketo publiek over veelvoudige LinkedIn Adaccounts verzendt, moet de gebruiker LinkedIn u in de volgende stappen goedkeurt toegang hebben tot *all* van deze Advertentieverslagen in hun Manager van de Campagne.
+   >Als u wilt dat Marketo via meerdere LinkedIn Ad Accounts een publiek stuurt, moet de LinkedIn-gebruiker die u in de volgende stappen autoriseert toegang hebben tot *alles* van deze advertentierekeningen in hun campagnebeheer.
 
-1. LinkedIn wordt geopend in een nieuw lusje. Van hier, login aan uw LinkedIn rekening.
+1. linkedIn wordt op een nieuw tabblad geopend. Meld u vanaf hier aan bij uw LinkedIn-account.
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. Herzie de gevraagde toestemmingen, dan klik **Toestaan**.
+1. Controleer de aangevraagde machtigingen en klik op **Toestaan**.
 
    ![](assets/li-permissions.png)
 
-1. Uw LinkedIn-account is nu verbonden met Marketo. Klik **Maken**.
+1. Je LinkedIn-account is nu verbonden met Marketo. Klikken **Maken**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   Geweldig! U zult nu LinkedIn Gelijke Publiek zien dat als dienst LaunchPoint op het Geïnstalleerde lusje van de Diensten wordt vermeld.
+   Geweldig! U zult nu de Gelijke Publiek van LinkedIn die als dienst LaunchPoint op het Geïnstalleerde lusje van de Diensten wordt vermeld zien.
 
    ![](assets/bartholomew2.png)
 
 >[!MORELIKETHIS]
 >
->[Een lijst met markeertekens of een slimme lijst gebruiken als een segment voor LinkedIn-publiek](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[Een Marketo-lijst of slimme lijst gebruiken als een LinkedIn Audience Segment](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

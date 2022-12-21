@@ -1,21 +1,20 @@
 ---
 unique-page-id: 12979010
-description: Overzicht van trends voor prestaties - Marketo Docs - Productdocumentatie
+description: Performance Insights Trend Overview - Marketo Docs - Productdocumentatie
 title: Overzicht van trends voor prestaties
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-
 # Overzicht van trends voor prestaties {#performance-insights-trend-overview}
 
 De trend toont kanaalprestaties van over een periode.
 
-Klik op het tabblad **Trend** om deze weergave te openen.
+Klik op de knop **Trend** om deze weergave te openen.
 
 ![](assets/1.png)
 
@@ -23,7 +22,7 @@ Klik op het tabblad **Trend** om deze weergave te openen.
 
 ![](assets/2-1.png)
 
-Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken we de mogelijkheden die via [First Touch](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) zijn verkregen.
+Selecteer metrisch u de prestaties door wilt bekijken. In dit voorbeeld bekijken we de mogelijkheden die via [Eerste aanraking](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 ![](assets/3-2.png)
 

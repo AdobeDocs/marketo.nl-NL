@@ -24,21 +24,21 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Klik **Nieuwe Campagne van het Web tot stand brengen** of het pictogram om een bestaande campagne uit te geven.
+1. Klikken **Nieuwe webcampagne maken** of het pictogram om een bestaande campagne te bewerken.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. Voeg in Voorvertoning op site de pagina-URL toe en klik op **Voorvertoning**. Er wordt een nieuw venster of tabblad geopend met de voorvertoning van de campagne.
+1. Voeg de pagina-URL toe in Voorvertoning op de site en klik op **Voorvertoning**. Er wordt een nieuw venster of tabblad geopend met de voorvertoning van de campagne.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >Klik **Delen** om een e-mail met een vaste URL van de campagnevoorproef te openen.
+   >Klikken **Delen** om een e-mail met een vaste URL van de campagnevoorvertoning te openen.
 
    >[!NOTE]
    >
-   >U kunt ook een browserplug-in installeren (of [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) of [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) voor de beste ervaring bij het voorvertonen van uw campagne. Zie de onderstaande paragraaf.
+   >U kunt ook een browserplug-in installeren (een van de [Chroom](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) of [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) voor een optimale ervaring bij het voorvertonen van uw campagne. Zie de onderstaande paragraaf.
 
 ## Een webcampagne voorvertonen op de pagina Maken met de plug-in Browser {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -48,11 +48,11 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
    ![](assets/4-1.png)
 
-1. Er wordt een nieuw venster/tabblad geopend. Klik **Toevoegen aan Chrome**.
+1. Er wordt een nieuw venster/tabblad geopend. Klikken **Toevoegen aan chroom**.
 
    ![](assets/five.png)
 
-1. Klik **Extensie toevoegen**.
+1. Klikken **Extensie toevoegen**.
 
    ![](assets/six.png)
 
@@ -66,7 +66,7 @@ In dit artikel worden verschillende manieren getoond waarop u een webcampagne ku
 
 ## Een webcampagne voorvertonen op de webpagina Campagnes {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Als u de lijst met uw webcampagnes bekijkt, kiest u gewoon een campagne en klikt u op het pictogram **Voorvertoning**.
+1. Als u de lijst met uw webcampagnes bekijkt, kiest u gewoon een campagne en klikt u op de knop **Voorvertoning** pictogram.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -80,13 +80,13 @@ Maak een sandboxsegment en -campagne.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Klik **Nieuw maken**.
+1. Klikken **Nieuw maken**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Geef het segment een naam.
 
-1. Sleep onder Gedrag de optie Inclusief pagina&#39;s naar het canvas. Voeg de waarde *sandbox=1* toe. Klik **Campagne opslaan &amp; definiëren**.
+1. Sleep onder Gedrag de optie Inclusief pagina&#39;s naar het canvas. Voeg de waarde toe &#42;sandbox=1&#42;. Klikken **Campagne opslaan en definiëren**.
 
    ![](assets/segment.png)
 
@@ -94,7 +94,7 @@ Maak een sandboxsegment en -campagne.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Voltooi de campagne creatief en klik **Launch**.
+1. Creatieve campagne voltooien en klikken **Starten**.
 
    ![](assets/click-launch.jpg)
 
@@ -108,4 +108,4 @@ Maak een sandboxsegment en -campagne.
 
 >[!NOTE]
 >
->Omleidingscampagnes kunnen niet worden voorvertoond. De enige manier om deze te testen is met behulp van een sandboxsegment (dat zich richt op specifieke pagina&#39;s - *sandbox=redirect*)
+>Omleidingscampagnes kunnen niet worden voorvertoond. De enige manier om deze te testen is met behulp van een sandboxsegment (dat zich richt op specifieke pagina&#39;s - &#42;sandbox=redirect&#42;)

@@ -3,7 +3,6 @@ unique-page-id: 1147102
 description: Een vermelding maken in de programmaplanningweergave - Marketo Docs - Productdocumentatie
 title: Het creëren van een Ingang in de Mening van het Programma
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '175'
@@ -21,7 +20,7 @@ U kunt items maken vanuit de programmaweergave van het programma als aanvulling 
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer uw programma. Klik op de vervolgkeuzelijst **Weergave**. Selecteer **Schema**.
+1. Selecteer uw programma. Klik op de knop **Weergave** vervolgkeuzelijst. Selecteren **Schema**.
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -51,15 +50,15 @@ U kunt items maken vanuit de programmaweergave van het programma als aanvulling 
 
 ## Invoertype wijzigen {#change-entry-type}
 
-1. Selecteer een basisitem in de weergave **Agenda**.
+1. Selecteer een basisitem in het menu **Agenda** weergeven.
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. Selecteer de vervolgkeuzelijst **Type**. Kies een nieuw type item.
+1. Selecteer **Type** vervolgkeuzelijst. Kies een nieuw type item.
 
    >[!NOTE]
    >
-   >To-do is een [aangepaste ingang](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). U kunt een &#39;to-do&#39; en andere aangepaste items maken om niet-Marketo agendapunten bij te houden.
+   >To-do is a [aangepaste invoer](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md). U kunt een &#39;to-do&#39; en andere aangepaste items maken om niet-Marketo agendapunten bij te houden.
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
@@ -69,4 +68,4 @@ U kunt items maken vanuit de programmaweergave van het programma als aanvulling 
 
 >[!NOTE]
 >
-> U kunt ook een [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) of [e-mailprogramma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) vanuit de planningsweergave maken.
+> U kunt ook een [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-batch-smart-campaign-in-the-program-schedule-view.md) of [e-mailprogramma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-a-new-email-program-in-the-schedule-view.md) in de overzichtsweergave.

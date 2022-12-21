@@ -1,8 +1,7 @@
 ---
 unique-page-id: 557082
-description: Rapportage - Marketo Docs - Productdocumentatie
+description: Rapporteren - Marketo-documenten - productdocumentatie
 title: Rapportage
-translation-type: tm+mt
 source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
 workflow-type: tm+mt
 source-wordcount: '113'
@@ -11,7 +10,7 @@ ht-degree: 0%
 ---
 
 
-# {#reporting} rapporteren
+# Rapportage {#reporting}
 
 Handelbare inzichten. Dat is wat je krijgt met Marketo-rapportage. Je kunt ze zelfs direct in de postbus laten.
-** ![Basic Reporting](assets/documents-bookmarks-17.png)Basic Reporting** [Basic Reporting Get started with the basics. E-mail, het web en de persoon melden, oh mijn!](https://docs.marketo.com/display/DOCS/Basic+Reporting)     **  ![Revenue Cycle ](assets/seo-08.png)AnalyticsRevenue Cycle Analytics**  [Revenue Cycle Analytics Go hardcore met tijdreeksgegevensanalyse.](https://docs.marketo.com/display/DOCS/Revenue+Cycle+Analytics)     **  ![Performance ](assets/mpi-for-docs-2x.png)InsightsPerformance Insights**  [Performance Insights Bekijk al uw prestaties KPI&#39;s voor de campagne op één plaats.](https://docs.marketo.com/display/DOCS/Marketing+Performance+Insights)     **  ![Email ](assets/email-insights.png)InsightsEmail Insights***  [Email Insights Ontdek krachtige inzichten met behulp van uw historische gegevens.](https://docs.marketo.com/display/DOCS/Email+Insights)
+** ![Basisrapportage](assets/documents-bookmarks-17.png)Basisrapportage** [De basis Rapportering begint met de grondbeginselen. E-mail, het web en de persoon melden, oh mijn!](https://docs.marketo.com/display/DOCS/Basic+Reporting)     ** ![Analyse van inkomstencyclus](assets/seo-08.png)Analyse van de inkomstencyclus** [Revenue Cycle Analytics Go hardcore met gegevensanalyse uit tijdreeks.](https://docs.marketo.com/display/DOCS/Revenue+Cycle+Analytics)     ** ![Prestatie-inzichten](assets/mpi-for-docs-2x.png)Prestatie-inzichten** [Prestatie-inzichten Bekijk al uw prestaties KPI&#39;s voor uw campagne op één plaats.](https://docs.marketo.com/display/DOCS/Marketing+Performance+Insights)     ** ![E-mailinzichten](assets/email-insights.png)E-mailinzichten** [E-mailinzichten ontdekken krachtige inzichten met behulp van uw historische gegevens.](https://docs.marketo.com/display/DOCS/Email+Insights)

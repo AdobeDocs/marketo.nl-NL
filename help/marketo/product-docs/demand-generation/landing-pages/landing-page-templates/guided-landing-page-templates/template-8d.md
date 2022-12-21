@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 8D {#template-8d}
 
-Klik met de rechtermuisknop op [Sjabloon 8D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)
+Klik met de rechtermuisknop om [Sjabloon 8D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)
 
 ![](assets/image2015-7-29-14-3a28-3a56.png)
 

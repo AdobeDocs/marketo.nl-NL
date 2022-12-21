@@ -2,14 +2,13 @@
 unique-page-id: 14352553
 description: Wat is de integratie van Sales Connect en Highspot? - Marketo Docs - Productdocumentatie
 title: Wat is de integratie van Sales Connect en Highspot?
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
 
 ---
-
 
 # Wat is de integratie van Sales Connect en Highspot? {#what-is-the-sales-connect-and-highspot-integration}
 
@@ -23,7 +22,7 @@ U hebt het volgende nodig om de integratie van Sales Connect met Highspot te kun
 
 Naast het werken in Verkoop Connect in browser, is de integratie van de Highspot beschikbaar in onze cliënt van Vooruitzichten .Net e-mail. De eisen zijn als volgt:
 
-* **Outlook.Net en Exchange**  - Door Sales Connect ondersteunde versie van Outlook.Net, Exchange Online, Exchange 2016
+* **Outlook.Net en Exchange** - Door Sales Connect ondersteunde versie van Outlook.Net, Exchange Online, Exchange 2016
 
 >[!NOTE]
 >
@@ -31,20 +30,20 @@ Naast het werken in Verkoop Connect in browser, is de integratie van de Highspot
 
 ## De integratie van Sales Connect en Highspot inschakelen {#enabling-the-sales-connect-and-highspot-integration}
 
-Neem contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support#) als u geïnteresseerd bent in het inschakelen van de Highspot Integration voor uw team.
+Als u in het toelaten van de Integratie van de Highspot voor uw team geinteresseerd bent, gelieve te contacteren [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support#).
 
-## Hoe te om de Integratie {#how-to-use-the-integration} te gebruiken
+## Hoe te om de Integratie te gebruiken {#how-to-use-the-integration}
 
 Als deze optie eenmaal is ingeschakeld, ziet u hoe u toegang krijgt tot uw Highspot-inhoud in Sales Connect.
 
-1. Wanneer u een e-mailbericht samenstelt in Sales Connect of Outlook, kiest u **Inhoud toevoegen**.
+1. Kies **Inhoud toevoegen**.
 
-1. Selecteer **Highspot**.
+1. Selecteren **Highspot**.
 
-1. Voer uw e-mailadres in voor uw Highspot-account en klik op **Doorgaan**.
+1. Voer uw e-mailadres voor uw Highspot-account in en klik op **Doorgaan**.
 
 1. Voer het wachtwoord voor uw Highspot-account in en klik op **Aanmelden**.
 
-1. Selecteer de inhoud van Markeren die u in de e-mail of sjabloon wilt invoegen en klik op **Inhoud toevoegen**.
+1. Selecteer de inhoud van Highspot die u in het e-mailbericht of de sjabloon wilt invoegen en klik op **Inhoud toevoegen**.
 
 1. De inhoud wordt in de e-mail of sjabloon ingevoegd.

@@ -1,19 +1,18 @@
 ---
 unique-page-id: 14352637
-description: Automatisch afmelden toevoegen aan een sjabloon - Marketo Docs - Productdocumentatie
+description: Automatisch afmelden aan een sjabloon toevoegen - Marketo Docs - Productdocumentatie
 title: Automatisch afmelden aan een sjabloon toevoegen
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
+# Automatisch afmelden aan een sjabloon toevoegen {#add-auto-unsubscribes-to-a-template}
 
-# Automatisch afmelden toevoegen aan een sjabloon {#add-auto-unsubscribes-to-a-template}
-
-1. Selecteer de sjabloon en klik op **Bewerken** in de sectie Abonnement opzeggen.
+1. Selecteer uw sjabloon en klik op **Bewerken** in de sectie Unsubscribe.
 
 1. Selecteer of u het automatisch opzeggen wilt toevoegen, automatisch afmelden wilt blokkeren, of allebei.
 
@@ -21,4 +20,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->U kunt ook aanpassen hoe deze afmeldingsberichten worden weergegeven op het tabblad **Tijdzone &amp; Unsubscribes** in **Instellingen**.
+>U kunt ook aanpassen hoe deze afmeldingsberichten worden weergegeven in het dialoogvenster **Tijdzone en abonnementen opzeggen** tab in **Instellingen**.

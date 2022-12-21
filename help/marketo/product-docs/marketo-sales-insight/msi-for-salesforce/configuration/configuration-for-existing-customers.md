@@ -22,31 +22,31 @@ Stel de volgende configuratie in om te beginnen met het gebruik van het nieuwe d
 
 1. Open een nieuw tabblad in uw browser om de gegevens van Marketo Sales Insights van uw Marketo-account op te halen.
 
-1. Ga naar **Admin** gebied.
+1. Ga naar de **Beheer** gebied.
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. Klik **Sales Insight**.
+1. Klikken **Verkoopoverzicht**.
 
    ![](assets/configuration-for-existing-customers-2.png)
 
-1. Klik **View** om de referenties van de rest-API te vullen.
+1. Klikken **Weergave** om referenties voor de rest-API te vullen.
 
    ![](assets/configuration-for-existing-customers-3.png)
 
-1. Er verschijnt een bevestigingspop-up. Klik **OK**.
+1. Er verschijnt een bevestigingspop-up. Klikken **OK**.
 
 ## Verkoopinzicht configureren in Salesforce {#configure-sales-insight-in-salesforce}
 
-1. Klik in Salesforce op **Setup**.
+1. Klik in Salesforce op **Instellen**.
 
    ![](assets/configuration-for-existing-customers-4.png)
 
-1. Zoek naar en selecteer **Verre Montages van de Plaats**.
+1. Zoeken naar en selecteren **Instellingen voor externe site**.
 
    ![](assets/configuration-for-existing-customers-5.png)
 
-1. Klik **Nieuwe verre Plaats**.
+1. Klikken **Nieuwe externe site**.
 
    ![](assets/configuration-for-existing-customers-6.png)
 
@@ -54,7 +54,7 @@ Stel de volgende configuratie in om te beginnen met het gebruik van het nieuwe d
 
    ![](assets/configuration-for-existing-customers-7.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/configuration-for-existing-customers-8.png)
 

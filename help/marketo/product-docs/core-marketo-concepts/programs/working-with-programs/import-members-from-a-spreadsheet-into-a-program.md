@@ -3,7 +3,6 @@ unique-page-id: 1147120
 description: Leden uit een werkblad importeren in een programma - Marketo Docs - Productdocumentatie
 title: Leden uit een werkblad importeren in een programma
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 U kunt een lijst importeren van personen die automatisch lid worden van een programma. Dit is wat je moet doen.
 
-## CSV-bestand {#prepare-your-csv-file} voorbereiden
+## CSV-bestand voorbereiden {#prepare-your-csv-file}
 
 1. Maak een standaard CSV-bestand in Excel, zoals in het onderstaande voorbeeld.
 
@@ -27,15 +26,15 @@ U kunt een lijst importeren van personen die automatisch lid worden van een prog
 
 ## CSV importeren in Marketo {#import-your-csv-into-marketo}
 
-1. Ga in uw programma naar de sectie **Leden**.
+1. Ga in uw programma naar de **Leden** sectie.
 
    ![](assets/image2014-9-18-15-3a3-3a57.png)
 
-1. Klik **Leden importeren**.
+1. Klikken **Leden importeren**.
 
    ![](assets/image2014-9-18-15-3a38-3a14.png)
 
-1. Selecteer CSV en klik **Next**.
+1. Selecteer CSV en klik **Volgende**.
 
    ![](assets/importlist1.png)
 
@@ -47,11 +46,11 @@ U kunt een lijst importeren van personen die automatisch lid worden van een prog
    >
    >Als er velden zijn die u niet wilt importeren, selecteert u **IGNORE** in de vervolgkeuzelijst Marketo-veld.
 
-1. Selecteer **Lidstatus** voor uw lijst.
+1. Selecteer **Lidstaat** voor uw lijst.
 
    ![](assets/image2014-9-18-15-3a41-3a32.png)
 
-1. Klik **Importeren**.
+1. Klikken **Importeren**.
 
    ![](assets/image2014-9-18-15-3a44-3a19.png)
 

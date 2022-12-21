@@ -1,15 +1,14 @@
 ---
 unique-page-id: 10912085
-description: Gedeelde en Specifieke IP Adressen - Marketo Docs - de Documentatie van het Product
+description: Gedeelde en specifieke IP Adressen - de Documentatie van Marketo - de Documentatie van het Product
 title: Gedeelde en Specifieke IP Adressen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%
 
 ---
-
 
 # Gedeelde en Specifieke IP Adressen {#shared-and-dedicated-ip-addresses}
 
@@ -33,32 +32,32 @@ Zoals gewoonlijk zijn er voor- en nadelen voor beide opties.
 
 _Pros_
 
-**Reputatie**  - Je hebt volledig je reputatie en leverbaarheid.\
-**Controle**  - het controleren van uw leverbaarheidsrapportering laat u toe om aan veranderingen in uw leveringsmetriek snel te antwoorden.\
-**Probleemoplossing**  - Het is eenvoudiger om leveringsproblemen te onderzoeken, te begrijpen en op te lossen.
+**Reputatie** - U bent volledig eigenaar van uw reputatie en leverbaarheid.\
+**Toezicht** - Door uw rapportage van de leverbaarheid te controleren, kunt u snel reageren op wijzigingen in uw leveringscijfers.\
+**Probleemoplossing** - Het is gemakkelijker om leveringskwesties te onderzoeken, te begrijpen en op te lossen.
 
 _Cons_
 
-**Volume verandert**  - De pieken in volume kunnen uw reputatie negatief beïnvloeden en moeten worden beheerd.\
-**IP opwarmen proces**  - de Reputatie wordt gebouwd in tijd. Sommige leveranciers van de Dienst van Internet (ISPs) throttle IP adressen zonder volumegeschiedenis, zodat zult u een reputatie over de eerste weken moeten bouwen (Marketo kan helpen u begeleiden).\
-**Kosten**  - Er zijn gewoonlijk extra kosten om van een Dedicated IP met om het even welke leverancier te verzenden.
+**Volume wijzigen** - Spotten in volume kunnen een negatief effect hebben op uw reputatie en moeten worden beheerd.\
+**IP opwarmen proces** - Reputatie wordt in de loop der tijd opgebouwd. Sommige leveranciers van de Dienst van Internet (ISPs) gooien IP adressen zonder volumegeschiedenis af, zodat zult u een reputatie over de eerste weken moeten bouwen (Marketo kan helpen u begeleiden).\
+**Kosten** - Meestal zijn er extra kosten om van een toegewezen IP met een leverancier te verzenden.
 
 **Pros en Kons van een Gedeelde IP**
 
 _Pros_
 
-**Goede kamergenoten**  - als de mensen u uw IP met het volgen beste verzenden praktijken deelt, zou u profiteren.\
-**Mailingfrequentie** : er is geen minimale mailingfrequentie nodig om in aanmerking te komen voor een gedeeld IP, in tegenstelling tot specifieke IP&#39;s.\
-**Kosten**  - Er is nooit een extra last om van Gedeelde IP te verzenden.
+**Goede kamergenen** - Als de mensen u uw IP met de beste verzendende praktijken deelt, zou u profiteren.\
+**Postfrequentie** - Er is geen minimumpostingsfrequentie nodig om voor gedeelde IP, in tegenstelling tot specifieke IPs te kwalificeren.\
+**Kosten** - Er is nooit een extra last om van Gedeelde IP te verzenden.
 
 _Cons_
 
-**Onjuiste kamergenoten**  - als de mensen u uw IP met in dienst nemen van slechte verzendende praktijken deelt, zouden uw e-mailcampagnes negatief kunnen worden beïnvloed.\
-**Controle**  - U hebt veel minder controle over uw afzenderreputatie.\
-**Probleemoplossing**  - Het kan vaak moeilijker zijn om een probleem op te lossen bij het verzenden van gedeelde IP&#39;s.
+**Ongeldige kamergenen** - Als de mensen u uw IP met in dienst neemt slechte verzendende praktijken deelt, zouden uw e-mailcampagnes negatief kunnen worden beïnvloed.\
+**Control** - U hebt veel minder controle over uw reputatie van de afzender.\
+**Probleemoplossing** - Het kan vaak moeilijker zijn om een probleem op te lossen wanneer het verzenden van gedeelde IPs.
 
 >[!NOTE]
 >
 >Bij het nemen van een besluit moet u rekening houden met een andere belangrijke factor: verzenden, volume. Als u minder dan 100.000 e-mails per maand, of minder dan twee berichten in een maand van plan bent te verzenden, zou u waarschijnlijk niet van een Dedicated IP profiteren. Het verzenden van aantallen als die worden beschouwd laag, en het zou moeilijk zijn om uw Dedicated IP &quot;warm&quot;genoeg te houden om als veilig door belangrijkste ISPs worden beschouwd. In feite, als u niet vaak genoeg post, zal ISPs een post zien als plotselinge &quot;toename&quot;van activiteit, en kan uiteindelijk het blokkeren als vermoedelijke spam.
 
-Als u om het even welke vragen hebt, of in vestiging een Speciale IP geinteresseerd, gelieve uw vertegenwoordiger van de Marketo te contacteren.
+Neem contact op met uw Marketo-verkoper als u vragen hebt of als u een toegewezen IP wilt instellen.

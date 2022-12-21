@@ -1,25 +1,24 @@
 ---
 unique-page-id: 4718683
-description: Het goedkeuren van Stages en het toewijzen van Leidingen aan een Model van de Inkomsten - Marketo DOS - de Documentatie van het Product
+description: Het goedkeuren van Stages en het toewijzen van Leidingen aan een Model van de Inkomsten - de Documenten van Marketo - de Documentatie van het Product
 title: Het goedkeuren van Stages en het toewijzen van Leidingen aan een model van de Inkomsten
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
 
 ---
 
+# Het goedkeuren van Stages en het toewijzen van Leidingen aan een model van de Inkomsten {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
-# Bezig met goedkeuren van Fases en toewijzen van leads aan een inkomstenmodel {#approving-stages-and-assigning-leads-to-a-revenue-model}
+Uw **Opbrengstmodel** aan de slag door bestaande lood toe te voegen, die toewijzingsregels voor om het even welke nieuwe lood creëren.
 
-U kunt uw **inkomstenmodel** in gebruik nemen door bestaande leads toe te voegen en toewijzingsregels voor nieuwe leads te maken.
-
-## Fases {#approving-stages} goedkeuren
+## Fases goedkeuren {#approving-stages}
 
 Wij keuren de stadia van uw model goed alvorens u om het even welke lood toevoegt.
 
-1. Ga naar het gebied **Analytics**.
+1. Ga naar de **Analyse** gebied.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
@@ -27,33 +26,33 @@ Wij keuren de stadia van uw model goed alvorens u om het even welke lood toevoeg
 
    ![](assets/image2015-4-28-17-3a10-3a3.png)
 
-1. Selecteer onder **Modelhandelingen** **Fagen goedkeuren**.
+1. Onder **Modelhandelingen**, selecteert u **Fases goedkeuren**.
 
    ![](assets/image2015-4-28-17-3a12-3a37.png)
 
-1. U zult met een alarm worden begroet; Klik **Leads toewijzen**.
+1. U zult met een alarm worden begroet; klikken **Leads toewijzen**.
 
    ![](assets/image2015-4-28-17-3a5-3a39.png)
 
 Uitstekend! Laten we verder gaan en die leads toewijzen.
 
-## Bestaande leads {#assigning-existing-leads} toewijzen
+## Bestaande leads toewijzen {#assigning-existing-leads}
 
-[Creeer een Slimme ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) Lijst om de lood voor één stadium van uw model in uw gegevensbestand van de Lood te identificeren.
+[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) om de leads voor één stadium van uw model in uw Lead-database te identificeren.
 
-1. Zodra u [uw Slimme Lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) hebt gecreeerd, klik **Leads** tabel.
+1. Eenmaal [uw slimme lijst hebt gemaakt](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)klikt u op de knop **Leads** tab.
 
    ![](assets/image2015-4-29-11-3a37-3a30.png)
 
-1. Klik **Selecteer allen** om de lood te selecteren.
+1. Klikken **Alles selecteren** om de leads te selecteren.
 
    ![](assets/image2015-4-29-11-3a39-3a39.png)
 
-1. Open de vervolgkeuzelijst **Lead Actions** en selecteer **Special**. Klik **Opbrengstwerkgebied wijzigen**.
+1. Open de **Loodhandelingen** vervolgkeuzelijst en selecteer **Speciaal**. Klikken **Opbrengstfase wijzigen**.
 
    ![](assets/image2015-4-29-11-3a40-3a38.png)
 
-1. Selecteer het juiste **Model** en het juiste **werkgebied**. Klik **Nu uitvoeren**.
+1. Selecteer de juiste **Model** en de juiste **Werkgebied**. Klikken **Nu uitvoeren**.
 
    ![](assets/image2015-4-29-11-3a43-3a41.png)
 
@@ -65,17 +64,17 @@ Geweldig! Om te specificeren hoe de nieuwe lood aan stadia worden toegewezen, cr
 >
 >Als uw model in de Goedgekeurde staat van Stages is, zult u geen gebeurtenissen van het Stadium van de Opbrengst van de Verandering in de de activiteitenlogboeken van de lood zien. Als uw model volledig is goedgekeurd, wordt deze stap overgeslagen als u een lood in het zelfde stadium beweegt het momenteel in is.
 
-## Nieuwe leads: Toewijzingsregels maken {#new-leads-create-assignment-rules}
+## Nieuwe leads: Toewijzingsregels maken  {#new-leads-create-assignment-rules}
 
-1. Klik **Marketo Home** opnieuw, dan selecteer **Analytics**.
+1. Klikken **Marketo Home** nogmaals, selecteert u vervolgens **Analyse**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 
-1. Klik uw model in de boom, toen **ModelActies** menu, die **Toewijzingsregels** selecteren.
+1. Klik op het model in de boomstructuur en klik vervolgens op de knop **Modelhandelingen** menu, selecteren **Toewijzingsregels**.
 
    ![](assets/image2015-4-29-11-3a52-3a17.png)
 
-1. Als uw toewijzingsregels meer dan één standaardkeuzeklik **Werkgebied** bevatten, maak uw selectie, dan klik **Keuze toevoegen**.
+1. Als uw toewijzingsregels meer dan één standaardkeuze bevatten, klikt u op **Werkgebied** selecteert, selecteert u en klikt u op **Keuze toevoegen**.
 
    ![](assets/image2015-4-29-12-3a5-3a46.png)
 
@@ -83,14 +82,14 @@ Geweldig! Om te specificeren hoe de nieuwe lood aan stadia worden toegewezen, cr
 
 Creeer een regel van de Score van de Lood om de nieuwe lood met een minimumscore aan een aangewezen stap toe te wijzen.
 
-1. Selecteer onder **If** **Loodscore**. Kies vervolgens **ten minste**.
+1. Onder **Indien**, selecteert u **Loodscore**. Kies vervolgens **ten minste**.
 
    ![](assets/image2015-4-29-13-3a27-3a8.png)
 
-1. Typ **40** in het veld en selecteer **Verkoopregel** als werkgebied. Klik **Opslaan** om te voltooien.
+1. Enter **40** in het veld en selecteer **Verkoopmanager** als een werkgebied. Klikken **Opslaan** om te voltooien.
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 
 >[!MORELIKETHIS]
 >
->Om uw model goed te keuren, lees onze hulppagina op **[Goedkeuring en Unapproval a Model](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)**.
+>Lees onze Help-pagina op om uw model goed te keuren **[Goedkeuring en goedkeuring van een inkomstenmodel](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)**.

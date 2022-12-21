@@ -2,20 +2,19 @@
 unique-page-id: 11382535
 description: URL's gebruiken in Mijn tokens - Marketo Docs - Productdocumentatie
 title: URL's gebruiken in Mijn tokens
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-
 # URL&#39;s gebruiken in Mijn tokens {#using-urls-in-my-tokens}
 
 Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te voegen in uw e-mails.
 
-1. Selecteer uw programma en klik **Mijn Tokens**.
+1. Selecteer uw programma en klik op **Mijn tokens**.
 
    ![](assets/one-4.png)
 
@@ -23,19 +22,19 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
 
    ![](assets/two-4.png)
 
-1. Geef het token een unieke naam, voer een URL in (zonder de map https://) en klik op **Save**.
+1. Geef het token een unieke naam, voer een URL in (zonder de map https://) en klik op **Opslaan**.
 
    ![](assets/three-4.png)
 
    >[!CAUTION]
    >
-   >Om ervoor te zorgen dat kliks in uw e-mail worden gevolgd, doe **not** https:// binnen de waarde van het teken ingaan.
+   >Om ervoor te zorgen dat klikken in uw e-mail worden bijgehouden, doet u **niet** Voer https:// in in de waarde van het token.
 
 1. Selecteer de e-mail in uw programma.
 
    ![](assets/four-3.png)
 
-1. Klik **Concept bewerken**.
+1. Klikken **Concept bewerken**.
 
    ![](assets/five-3.png)
 
@@ -51,7 +50,7 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
    >
    >U kunt natuurlijk ook &quot;https&quot; invoeren als uw site dit gebruikt.
 
-1. Bepaal de plaats van uw Mijn Token, selecteer het, en klik **Tussenvoegsel**.
+1. Zoek uw token, selecteer dit en klik op **Invoegen**.
 
    ![](assets/eight.png)
 
@@ -63,11 +62,11 @@ Voer de onderstaande stappen uit om Mijn tokens te gebruiken om URL&#39;s in te 
 
    ![](assets/ten.png)
 
-1. Druk op Ctrl/Cmd+V om de inhoud in het vak **URL** te plakken en klik op **Invoegen**.
+1. Druk op Ctrl/Cmd+V om de inhoud in de **URL** en klik op **Invoegen**.
 
    ![](assets/eleven.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/twelve.png)
 

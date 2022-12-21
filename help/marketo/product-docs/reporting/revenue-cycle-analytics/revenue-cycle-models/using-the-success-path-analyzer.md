@@ -1,31 +1,30 @@
 ---
 unique-page-id: 3571886
-description: Het gebruiken van de Analysator van de Weg van het Succes - Marketo Dos - de Documentatie van het Product
+description: De Padanalyse met succes gebruiken - Marketo Docs - Productdocumentatie
 title: De Padanalyse met succes gebruiken
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
 
+# De Padanalyse met succes gebruiken {#using-the-success-path-analyzer}
 
-# Het gebruiken van de Analysator van de Weg van het Succes {#using-the-success-path-analyzer}
-
-Gebruik een Analysator van de Weg van het Succes om de specifieke details te onderzoeken die zowel stroom (hoeveelheid) als snelheid (snelheid, in termen van dagen) van mensen door de stadia van uw [Model van de Cyclus van de Opbrengst ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md) weerspiegelen.
+Gebruik een Analysator van de Weg van het Succes om de specifieke details te onderzoeken die zowel stroom (hoeveelheid) als snelheid (snelheid, in termen van dagen) van mensen door de stadia van uw weerspiegelen [Opbrengstcyclusmodel](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
 >[Een padanalyse met succes maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
-1. Ga naar **Analytics** en selecteer **Success Path Analyzer**.
+1. Ga naar **Analyse** en selecteer uw **Padanalyse geslaagd**.
 
    ![](assets/image2015-6-12-17-3a23-3a53.png)
 
    Het diagram aan de rechterkant geeft de gegevens weer in de geselecteerde knop aan de linkerkant. Standaard is dit Balans.
 
-1. Klik **In stroom** om te grafiek hoeveel mensen het stadium tijdens het geselecteerde tijdkader inging.
+1. Klikken **In flow** om een grafiek te maken van het aantal personen dat het werkgebied is binnengekomen tijdens het geselecteerde tijdkader.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
@@ -33,17 +32,17 @@ Gebruik een Analysator van de Weg van het Succes om de specifieke details te ond
    * Klik op Conv % om de conversiesnelheid van dit naar het volgende stadium te grafieken.
    * Klik op Gem. tijd om te zien hoe lang mensen in dit werkgebied hebben doorgebracht voordat ze naar het volgende werkgebied gaan.
 
-1. Klik **Grafiekacties** > Vergelijk Periode om de gegevens met een verschillend tijdkader van gelijke lengte te vergelijken.
+1. Klikken **Handelingen in diagram** > Vergelijk Periode om de gegevens te vergelijken met een verschillend tijdkader van gelijke lengte.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. Selecteer de datum **Van** voor de vergelijkingsperiode.
+1. Selecteer **Van** datum voor de vergelijkingsperiode.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   De datum **Aan** wordt automatisch geplaatst om de lengte van uw originele tijdspanne aan te passen.
+   De **Naar** De datum wordt automatisch ingesteld zodat deze overeenkomt met de lengte van de oorspronkelijke periode.
 
-1. Klik **Vergelijken**.
+1. Klikken **Vergelijken**.
 
    ![](assets/image2015-6-12-17-3a44-3a8.png)
 
@@ -51,11 +50,11 @@ Gebruik een Analysator van de Weg van het Succes om de specifieke details te ond
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Als u de tijdschaal van het diagram wilt wijzigen, klikt u op een van de knoppen **Grafiek bij**: dagelijks (standaard), wekelijks en maandelijks
+1. Als u de tijdschaal van het diagram wilt wijzigen, klikt u op een van de **Grafiek met** knoppen: dagelijks (standaard), wekelijks en maandelijks
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Voor stadia met SLAs (dienst-Vlakke Overeenkomsten), klik **Grafiekacties** > **SLA Verwant** tonen om elke persoon te tonen die ooit een doel van SLA binnen het gespecificeerde tijdkader heeft gemist.
+1. Voor stadia met SLAs (dienst-Vlakke Overeenkomsten), klik **Handelingen in diagram** > **SLA-vereiste tonen** om elke persoon te tonen die ooit een doel van SLA binnen het gespecificeerde tijdkader heeft gemist.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -63,9 +62,9 @@ Gebruik een Analysator van de Weg van het Succes om de specifieke details te ond
 
    ![](assets/image2015-6-12-17-3a50-3a16.png)
 
-   De mensen die in oranje worden getoond zouden *of niet* nog in het SLA stadium kunnen zijn.
+   De oranje mensen kunnen *of niet* nog steeds in het SLA-stadium.
 
-1. Klik **Grafiekacties** > **SLA-achterstallig tonen** om alle mensen met verlopen SLA-doelen weer te geven die zich aan het einde van de opgegeven tijdsperiode nog in het SLA-werkgebied bevinden.
+1. Klikken **Handelingen in diagram** > **SLA verstreken tonen** om alle mensen met verlopen SLA doelstellingen te tonen die nog in het SLA stadium aan het eind van de gespecificeerde tijdspanne zijn.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 
@@ -77,7 +76,7 @@ Gebruik een Analysator van de Weg van het Succes om de specifieke details te ond
 
    ![](assets/image2015-6-12-17-3a52-3a49.png)
 
-1. Als u de grafiek wilt afdrukken, klikt u op **Grafiekhandelingen** > **Afdrukgrafiek**.
+1. Als u het diagram wilt afdrukken, klikt u op **Handelingen in diagram** > **Afdrukdiagram**.
 
    ![](assets/image2015-6-12-17-3a53-3a34.png)
 

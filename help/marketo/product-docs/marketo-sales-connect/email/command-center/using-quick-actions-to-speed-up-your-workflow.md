@@ -1,19 +1,18 @@
 ---
 unique-page-id: 37357306
-description: Het gebruiken van Snelle Acties om Uw Werkschema - Marketo Docs - de Documentatie van het Product te versnellen
+description: Snelle acties gebruiken om uw workflow te versnellen - Marketo Docs - Productdocumentatie
 title: Snelle acties gebruiken om uw workflow te versnellen
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
+# Snelle acties gebruiken om uw workflow te versnellen {#using-quick-actions-to-speed-up-your-workflow}
 
-# Het gebruiken van Snelle Acties om Uw Werkschema {#using-quick-actions-to-speed-up-your-workflow} te versnellen
-
-Het e-mailraster bevat twee typen kolommen voor snelle acties. E-mailhandelingen, waarmee u actie kunt ondernemen op de e-mail en vervolghandelingen kunt uitvoeren. Hiermee kunt u met een paar klikken op de service acties uitvoeren.
+Het e-mailraster bevat twee typen kolommen voor snelle acties. E-mailhandelingen, waarmee u actie kunt ondernemen op de e-mail en vervolgacties kunt uitvoeren. Hiermee kunt u met een paar klikken op de service acties uitvoeren.
 
 ## E-mailhandelingen {#email-actions}
 
@@ -40,7 +39,7 @@ Snelle acties via e-mail zijn dynamisch en worden bijgewerkt, afhankelijk van de
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
-   <td><p>Het e-mailbericht wordt verwijderd.<br><strong>Opmerking:</strong> e-mails die zijn verzonden als onderdeel van een campagne kunnen niet worden verwijderd.</p></td> 
+   <td><p>Het e-mailbericht wordt verwijderd.<br><strong>Opmerking:</strong> E-mails die als onderdeel van een campagne zijn verzonden, kunnen niet worden verwijderd.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -59,7 +58,7 @@ Snelle acties via e-mail zijn dynamisch en worden bijgewerkt, afhankelijk van de
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
-   <td><p>Het e-mailbericht wordt verwijderd.<br><strong>Opmerking:</strong> e-mails die zijn verzonden als onderdeel van een campagne kunnen niet worden verwijderd.</p></td> 
+   <td><p>Het e-mailbericht wordt verwijderd.<br><strong>Opmerking:</strong> E-mails die als onderdeel van een campagne zijn verzonden, kunnen niet worden verwijderd.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -78,7 +77,7 @@ Snelle acties via e-mail zijn dynamisch en worden bijgewerkt, afhankelijk van de
   </tr> 
   <tr> 
    <td>Verwijderen</td> 
-   <td><p>Het e-mailbericht wordt verwijderd.<br><strong>Opmerking:</strong> e-mails die zijn verzonden als onderdeel van een campagne kunnen niet worden verwijderd.</p></td> 
+   <td><p>Het e-mailbericht wordt verwijderd.<br><strong>Opmerking:</strong> E-mails die als onderdeel van een campagne zijn verzonden, kunnen niet worden verwijderd.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -87,9 +86,9 @@ Snelle acties via e-mail zijn dynamisch en worden bijgewerkt, afhankelijk van de
 
 ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 
-| Functie | Beschrijving |
+| -functie | Beschrijving |
 |---|---|
 | Vervolgmail verzenden | Hiermee opent u het samenstellingsvenster met de geselecteerde inline-e-mailtekst, die klaar is om naar de ontvanger te worden verzonden. |
 | Vraag maken | Opent de verkooptelefoon om een vraag aan de e-mailontvanger te maken. |
-| InMail verzenden | Omleidt aan LinkedIn om de persoon een InMail- bericht te verzenden. |
+| InMail verzenden | Omleidt naar LinkedIn om de persoon een InMail-bericht te sturen. |
 | Taak maken | Hiermee opent u het pop-upvenster Taak maken om een herinneringstaak te maken. |

@@ -18,9 +18,9 @@ De volgende functies zijn opgenomen in de release van zomer 16. Raadpleeg de Mar
 
 Op Marketo-account gebaseerde marketing biedt alle basisprincipes in één uniform platform:
 
-* **Doel**  - Accountdetectie, &#39;lead-to-account&#39;-overeenkomst en accountlijsten met namen
-* **Betrokkenheid**  - Op account-gebaseerde personalisatie, de betrokkenheid tussen verschillende kanalen en accountspecifieke workflows
-* **Maatregel**  - de Inzichten van de Rekening en van het lijstniveau, de Score van de Betrokkenheid van de Rekening, en de Gevolgen van de Pijpleiding &amp; van de Inkomsten
+* **Doel** - Accountdetectie, &#39;lead-to-account&#39;-overeenkomst en accountlijsten met namen
+* **Inschakelen** - Op account gebaseerde personalisatie, betrokkenheid tussen verschillende kanalen en accountspecifieke workflows
+* **Meetlat** - Inzichten op account- en lijstniveau, accountbetrokkenheidsscore en impact op pijpleidingen en inkomsten
 
 ![](assets/abm-5-acme.png)
 
@@ -59,7 +59,7 @@ Eerder waren alle variabelen die in de sjablonen voor e-mail 2.0 werden opgegeve
 **Syntaxisupdates**
 
 * U kunt &quot;mktoAddByDefault&quot;nu op modules gebruiken die in E-mail 2.0 Malplaatjes worden gespecificeerd om erop te wijzen welke modules in nieuwe e-mails door gebrek zouden moeten worden getoond. Dit is veel handiger als u een e-mailsjabloon met grote aantallen modules maakt.
-* Op afbeeldingselementen kunt u nu opgeven of de eigenschappen &#39;height&#39; en &#39;width&#39; van het onderliggende HTML-element moeten worden vergrendeld of bewerkt voor de eindgebruiker. `<img>` mktoLockImgSize=&quot;true&quot; zorgt ervoor dat de hoogte/breedte wordt vergrendeld (zelfs als de afbeelding wordt gewijzigd). Op dezelfde manier zorgt mktoLockImgStyle=&quot;true&quot; dat de eigenschap &quot;style&quot; wordt vergrendeld.
+* Bij afbeeldingselementen kunt u nu opgeven of de onderliggende elementen `<img>` De eigenschappen &#39;height&#39; en &#39;width&#39; van het HTML-element moeten vergrendeld of bewerkbaar zijn voor de eindgebruiker. mktoLockImgSize=&quot;true&quot; zorgt ervoor dat de hoogte/breedte wordt vergrendeld (zelfs als de afbeelding wordt gewijzigd). Op dezelfde manier zorgt mktoLockImgStyle=&quot;true&quot; dat de eigenschap &quot;style&quot; wordt vergrendeld.
 
 **Zoeken in code**
 
@@ -69,7 +69,7 @@ Gebruik de nieuwe zoekfunctionaliteit om op efficiënte wijze inhoud in de code 
 
 **Tokenondersteuning in afbeeldingselementen**
 
-Tokens kunnen nu worden gebruikt in het gebied Externe URL van de ervaring bij het invoegen van afbeeldingen! Als u afbeeldingen hebt opgegeven met `{{my.tokens}}`, kunt u nu naar deze tokens verwijzen in e-maileditor 2.0. De afbeelding wordt nog steeds verbroken weergegeven in het canvas van de e-maileditor 2.0. U ziet ze echter wel weergegeven in Voorbeeld en Voorbeeld verzenden voordat u uw e-mail verzendt.
+Tokens kunnen nu worden gebruikt in het gebied Externe URL van de ervaring bij het invoegen van afbeeldingen! Als u afbeeldingen hebt opgegeven met `{{my.tokens}}`kunt u nu naar deze tokens verwijzen in de e-maileditor 2.0. De afbeelding wordt nog steeds verbroken weergegeven in het canvas van de e-maileditor 2.0. U ziet ze echter wel weergegeven in Voorbeeld en Voorbeeld verzenden voordat u uw e-mail verzendt.
 
 ## Meerdere merkdomeinen {#multiple-branding-domains}
 

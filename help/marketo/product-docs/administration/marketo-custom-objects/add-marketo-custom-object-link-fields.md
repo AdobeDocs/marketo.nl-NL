@@ -3,7 +3,6 @@ unique-page-id: 10097613
 description: Aangepaste Marketo-objectkoppelingsvelden toevoegen - Marketo Docs - Productdocumentatie
 title: Aangepaste Marketo-objectkoppelingsvelden toevoegen
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '601'
@@ -11,18 +10,18 @@ ht-degree: 0%
 
 ---
 
-# Aangepast Marketo-objectkoppelingsvelden toevoegen {#add-marketo-custom-object-link-fields}
+# Aangepaste Marketo-objectkoppelingsvelden toevoegen {#add-marketo-custom-object-link-fields}
 
 Wanneer u aangepaste objecten maakt, moet u koppelingsvelden opgeven om de aangepaste objectreeks te koppelen aan de juiste bovenliggende record.
 
 * Voor een één-op-vele douanestructuur, gebruik het verbindingsgebied in het douanevoorwerp om het met een persoon of een bedrijf te verbinden.
 * Voor een vele-aan-vele structuur, gebruikt u twee verbindingsgebieden, die van een afzonderlijk gecreeerd intermediair voorwerp worden verbonden (dat een type van douanevoorwerp, ook is). Eén koppeling maakt verbinding met personen of bedrijven in uw database en de andere koppeling maakt verbinding met het aangepaste object. In dit geval bevindt het koppelingsveld zich niet in het aangepaste object zelf.
 
-## Creeer een Gebied van de Verbinding voor een Één-aan-Vele Structuur {#create-a-link-field-for-a-one-to-many-structure}
+## Een koppelingsveld maken voor een structuur van één tot vele {#create-a-link-field-for-a-one-to-many-structure}
 
 Hieronder wordt beschreven hoe u een koppelingsveld maakt in een aangepast object voor een een-op-een-structuur.
 
-1. Klik **Admin**, en in **Databasebeheer**, selecteer **Aangepaste objecten van Marketo**.
+1. Klikken **Beheer**, en in **Databasebeheer**, selecteert u **Aangepaste Marketo-objecten**.
 
    ![](assets/image2016-1-18-13-3a25-3a11.png)
 
@@ -30,7 +29,7 @@ Hieronder wordt beschreven hoe u een koppelingsveld maakt in een aangepast objec
 
    ![](assets/image2016-1-14-15-3a6-3a2.png)
 
-1. Klik op het tabblad **Velden** op **Nieuw veld**.
+1. In de **Velden** tabblad, klikt u op **Nieuw veld**.
 
    ![](assets/image2015-9-17-14-3a9-3a19.png)
 
@@ -60,7 +59,7 @@ Hieronder wordt beschreven hoe u een koppelingsveld maakt in een aangepast objec
    >
    >Alleen typen tekenreeksvelden worden ondersteund in het koppelingsveld.
 
-1. Klik **Opslaan.**
+1. Klikken **Opslaan.**
 
    ![](assets/image2015-10-5-13-3a34-3a0.png)
 
@@ -72,7 +71,7 @@ Hier is hoe te om een verbindingsgebied in een intermediair voorwerp voor gebrui
 >
 >U moet het intermediaire object al hebben gemaakt en alle aangepaste objecten die u wilt koppelen.
 
-1. Klik **Admin**, en in **Databasebeheer**, selecteer **Aangepaste objecten van Marketo**.
+1. Klikken **Beheer**, en in **Databasebeheer**, selecteert u **Aangepaste Marketo-objecten**.
 
    ![](assets/image2016-1-18-9-3a8-3a14.png)
 
@@ -80,7 +79,7 @@ Hier is hoe te om een verbindingsgebied in een intermediair voorwerp voor gebrui
 
    ![](assets/image2016-1-18-9-3a10-3a29.png)
 
-1. Klik op het tabblad **Velden** op **Nieuw veld**.
+1. In de **Velden** tabblad, klikt u op **Nieuw veld**.
 
    ![](assets/image2016-1-18-9-3a31-3a43.png)
 
@@ -104,7 +103,7 @@ Hier is hoe te om een verbindingsgebied in een intermediair voorwerp voor gebrui
    >
    >Alleen typen tekenreeksvelden worden ondersteund in het koppelingsveld.
 
-1. Klik **Opslaan.**
+1. Klikken **Opslaan.**
 
    ![](assets/image2016-1-18-9-3a55-3a18.png)
 

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14352536
-description: Hoe de het Volgen van de Mening werkt - Marketo DOS - de Documentatie van het Product
+description: Hoe de het Volgen van de Mening werkt - de Documenten van Marketo - de Documentatie van het Product
 title: Hoe het Volgen van de Mening werkt
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
-# Hoe het Volgen van de Mening {#how-view-tracking-works} werkt
+# Hoe het Volgen van de Mening werkt {#how-view-tracking-works}
 
 We houden het openen van e-mailberichten bij door een onzichtbare afbeelding in de e-mails te plaatsen die u verzendt.
 

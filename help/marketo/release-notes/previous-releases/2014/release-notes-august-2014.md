@@ -16,9 +16,9 @@ De volgende functies zijn opgenomen in de release van augustus 2014. Raadpleeg d
 
 ## Licenties voor marketingkalender {#marketing-calendar-licenses}
 
-Na 5 september 2014 hebben slechts vijf gebruikers vrije toegang tot de marketingkalender. Zorg ervoor dat u [Licentie voor een marketingkalender ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) vóór dan aan de gebruikers van uw keuze doorgeeft/intrekt voor ononderbroken toegang.
+Na 5 september 2014 hebben slechts vijf gebruikers vrije toegang tot de marketingkalender. Zorg ervoor dat u [Licentie voor een marketingkalender uitgeven/intrekken](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) aan de gebruikers van uw keus vóór dan voor ononderbroken toegang.
 
-![—](assets/image2014-9-16-9-3a45-3a52.png)
+![--](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Nieuwe gebruikersmachtigingen {#new-user-permissions}
 
@@ -34,7 +34,7 @@ De volgende nieuwe gebruikersmachtigingen zijn toegevoegd:
 
 ## Gebruikers en rollen exporteren vanuit Admin {#export-users-and-roles-from-admin}
 
-U kunt nu [Een lijst met gebruikers en rollen](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) exporteren uit Marketo. U kunt ook een tijdstempel &#39;Laatste aanmelding&#39; opnemen die bij het exporteren moet worden opgenomen.
+U kunt nu [Een lijst met gebruikers en rollen exporteren](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) uit Marketo. U kunt ook een tijdstempel &#39;Laatste aanmelding&#39; opnemen die bij het exporteren moet worden opgenomen.
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 

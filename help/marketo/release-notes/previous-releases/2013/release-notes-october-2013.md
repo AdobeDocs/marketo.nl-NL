@@ -16,11 +16,11 @@ De volgende functies zijn opgenomen in de release van oktober 2013.
 
 ## templates.marketo.com {#templates-marketo-com}
 
-[Sjablonen.marketo.](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) comshowcases e-mail- en landingspaginesjablonen (inclusief responsieve mobiele e-mailsjablonen) die u kunt downloaden uit de Marketo Program Library. We voegen maandelijks templates toe, vaak terugchecken!
+[Templates.marketo.com](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md) presenteert sjablonen voor e-mail- en landingspagina&#39;s (inclusief responsieve mobiele e-mailsjablonen) die u kunt downloaden uit de Marketo Program Library. We voegen maandelijks templates toe, vaak terugchecken!
 
 ## developers.marketo.com {#developers-marketo-com}
 
-[Developers.marketo.](https://developers.marketo.com) comis for developers that want to build integration into Marketo. U kunt naar verschillende integratieopties verwijzen, zoals Munchkin JavaScript API&#39;s, SOAP API-codevoorbeelden, Webhooks en e-mailscripting. Een Java SDK is ook beschikbaar op [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
+[Developers.marketo.com](https://developers.marketo.com) is voor ontwikkelaars die integratie in Marketo willen bouwen. U kunt naar verschillende integratieopties verwijzen, zoals Munchkin JavaScript API&#39;s, SOAP API-codevoorbeelden, Webhooks en e-mailscripting. Een Java SDK is ook beschikbaar op [GitHub](https://github.com/Marketo/SOAP-API-Java-Client).
 
 ## Bijgewerkte BrightStor Event Adapter {#updated-brighttalk-event-adapter}
 
@@ -28,4 +28,4 @@ Synchroniseer extra velden van BrightStor EnterpriseLink naar Marketo, zoals bed
 
 ## Inchecken van gebeurtenissen voor Android-tablets {#android-tablet-event-check-in-app}
 
-Registers in uw gebeurtenis controleren met de nieuwe [Android-gebaseerde check in app](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) die beschikbaar is op [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).
+Registranten in uw gebeurtenis controleren met onze nieuwe [Op Android gebaseerde app voor inchecken](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) beschikbaar op [Google Play](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en).

@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2950561
-description: Conversiescript voor Aangepaste gebeurtenissen - Marketo Docs - Productdocumentatie
+description: Conversiescript voor aangepaste gebeurtenissen - Marketo-documenten - Productdocumentatie
 title: Conversiescript voor aangepaste gebeurtenissen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 202b7e66-af83-42fd-8067-a5808eba7c32
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
 
-
 # Conversiescript voor aangepaste gebeurtenissen {#conversion-script-for-custom-events}
 
 U bepaalt het doel van de vervulling wanneer het creëren van een verwijzingsaanbieding. Als de actie die telt om het doel te bereiken een specifieke gebeurtenis op uw eigen Web-pagina is, kunt u een omzettingsmanuscript gebruiken om onze JavaScript API te roepen.
 
-## Het conversiescript {#retrieve-the-conversion-script} ophalen
+## Conversiescript ophalen {#retrieve-the-conversion-script}
 
-1. Klik in de editor voor de verwijzingsaanbieding op **Details aanbieden** en selecteer **JavaScript-gebeurtenis van klant** in de vervolgkeuzelijst voor het uitvoeringsdoel.
+1. Klik in de editor met het verwijzingsaanbod op **Aanbiedingsgegevens** en selecteer vervolgens **JavaScript-gebeurtenis van klant** uit de vervolgkeuzelijst van het uitvoeringsdoel.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Kopieer het bovenste script in het grijze vak en plaats het binnen de `<body>`-tags op uw webpagina. Het onderste script wordt binnen de `<header>`-tags geplaatst.
+1. Kopieer het bovenste script in het grijze vak en plaats het op uw webpagina in het dialoogvenster `<body>` -tags. Het onderste script wordt geplaatst in het dialoogvenster `<header>` -tags.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -29,23 +28,23 @@ U bepaalt het doel van de vervulling wanneer het creëren van een verwijzingsaan
    >
    >Vergeet niet beide scripts te kopiëren en te plakken als ze naar een niet-Marketo-website gaan.
 
-## Het Loader-script {#retrieve-the-loader-script} ophalen
+## Het Loader-script ophalen {#retrieve-the-loader-script}
 
-1. Selecteer de verwijzingsaanbieding van de boom, dan klik **Verwijzingsaanbiedingen Acties** en **bed Code** in.
+1. Selecteer het verwijzingsaanbod in de boomstructuur en klik vervolgens op **Verwijzingsvoorstellen** en **Code insluiten**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Klik met de rechtermuisknop op **Koptekstcode** en voeg deze in de koptekst van de webpagina in. Dan doe het zelfde voor **Code van het Lichaam**.
+1. Klik met de rechtermuisknop op de knop **Koptekstcode** en voeg het in uw webpaginakoptekst in. Doe dan het zelfde voor **Bodycode**.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
 ## Scripts op uw webpagina plakken {#pasting-the-scripts-onto-your-webpage}
 
-Plak de conversiescripts in de HTML voor de hoofdtekst en koptekst. Plaats vervolgens de lader-scripts voor de hoofdtekst en koptekst in de HTML.
+Plak de conversiescripts in de HTML voor de hoofdtekst en koptekst. Plaats vervolgens de lader-scripts in de HTML voor de hoofdtekst en koptekst.
 
 ![](assets/image2015-4-20-21-3a0-3a16.png)
 
-## Conversiescript {#connecting-the-conversion-script} verbinden
+## Conversiescript verbinden {#connecting-the-conversion-script}
 
 Hier schrijft u een JavaScript-functie die de specifieke HTML-id gebruikt van het pagina-element waarop u de voltooiing van het doel wilt activeren. Bijvoorbeeld:
 

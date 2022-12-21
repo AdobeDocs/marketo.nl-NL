@@ -2,16 +2,15 @@
 unique-page-id: 2359400
 description: Selecteer een formulierthema - Marketo Docs - Productdocumentatie
 title: Een formulierthema selecteren
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-
-# Selecteer een formulierthema {#select-a-form-theme}
+# Een formulierthema selecteren {#select-a-form-theme}
 
 We maakten een hoop leuke thema&#39;s voor je formulieren. Welke vind je het beste?
 
@@ -27,7 +26,7 @@ We maakten een hoop leuke thema&#39;s voor je formulieren. Welke vind je het bes
 
    ![](assets/image2014-9-15-17-7-7.png)
 
-1. Schakel heen en weer om het **Formulierthema** van uw eigen smaak te kiezen.
+1. Schakel heen en weer in om de optie **Formulierthema** van jullie houden.
 
    ![](assets/image2014-9-15-17-3a7-3a20.png)
 
@@ -43,9 +42,9 @@ We maakten een hoop leuke thema&#39;s voor je formulieren. Welke vind je het bes
 
    >[!TIP]
    >
-   >U kunt ook [de CSS van het formulierthema](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md) bewerken.
+   >U kunt ook [CSS van uw formulierthema bewerken](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
-1. Klik **Volgende** om andere vormopties te vormen, of klik **Afwerking** als u slechts het Thema van de Vorm wilde veranderen.
+1. Klikken **Volgende** om andere formulieropties te configureren, of klik op **Voltooien** als u alleen het formulierthema wilt wijzigen.
 
    ![](assets/image2014-9-15-17-3a8-3a22.png)
 

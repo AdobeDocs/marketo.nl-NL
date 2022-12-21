@@ -2,40 +2,39 @@
 unique-page-id: 2359665
 description: Stroomwenteling instellen - Marketo Docs - Productdocumentatie
 title: Stroomversnelling instellen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
-
 # Stroomversnelling instellen {#set-stream-cadence}
 
 U kunt betrokkenheidsinhoud verzenden met elk gewenst interval. Bijvoorbeeld: eenmaal per week, of elke derde dinsdag van de maand.
 
-## Cadence {#set-cadence} instellen
+## Cadence instellen {#set-cadence}
 
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Zoek en selecteer uw betrokkenheidsprogramma, klik op het tabblad **Streams** en klik vervolgens op **Stream Cadence instellen**.
+1. Zoek en selecteer uw serviceprogramma en klik op de knop **Streams** tab, en klik vervolgens op **Stroomversnelling instellen**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Selecteer hoe vaak u de cadence wilt herhalen. U kunt **Wekelijks** of **Maandelijks** kiezen.
+1. Selecteer hoe vaak u de cadence wilt herhalen. U kunt **Wekelijks** of **Maandelijks**.
 
 ## Wekelijks {#weekly}
 
-1. Selecteer **Wekelijks**.
+1. Selecteren **Wekelijks**.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >Als u **Geen** selecteert, wordt de stream afgesloten.
+   >Selecteren **Geen** Sluit de stream af.
 
 1. Kies de datum van de eerste gietvorm.
 
@@ -51,9 +50,9 @@ U kunt betrokkenheidsinhoud verzenden met elk gewenst interval. Bijvoorbeeld: ee
 
    >[!TIP]
    >
-   >U kunt uw ontvankelijkheid plaatsen om elke dag te lopen door **Herhalen te kiezen: Wekelijks** / **Elke: 1 week** / **On**: alle dagen.
+   >U kunt de snelheid instellen op elke dag door te kiezen **Herhaalt: Wekelijks** / **Elk: 1 week** / **Aan**: alle dagen.
 
-   Kies nu de tijd. Schakel het selectievakje in als u [Tijdzone van ontvanger](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) (d.w.z. leveren volgens lokale tijdzones) wilt gebruiken en klik vervolgens op **Opslaan**.
+   Kies nu de tijd. Schakel het selectievakje in als u het wilt gebruiken [Tijdzone ontvanger](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(d.w.z. leveren volgens lokale tijdzones) en klik vervolgens op **Opslaan**.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -73,7 +72,7 @@ Dat is het! Blijf lezen als u een maandelijks stilletje wilt instellen.
 
 ## Maandelijks {#monthly}
 
-1. Selecteer **Monthly** voor hoe vaak het herhaalt.
+1. Selecteren **Maandelijks** hoe vaak wordt dit herhaald.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -93,7 +92,7 @@ Dat is het! Blijf lezen als u een maandelijks stilletje wilt instellen.
    >
    >U kunt ook de dag van de week kiezen.
 
-1. Kies een **Tijd** en klik **Opslaan**.
+1. Kies een **Tijd** en klik op **Opslaan**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 

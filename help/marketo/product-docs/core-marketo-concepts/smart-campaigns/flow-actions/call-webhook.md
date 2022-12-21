@@ -3,7 +3,6 @@ unique-page-id: 1147023
 description: Webhaak bellen - Marketo Docs - Productdocumentatie
 title: Bellen Webhaak
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Webhaak {#call-webhook} aanroepen
+# Bellen Webhaak {#call-webhook}
 
 >[!PREREQUISITES]
 >
@@ -25,11 +24,11 @@ Met webhaks kunt u communiceren met services van derden. Verzend/ontvang informa
 
 >[!NOTE]
 >
->Ontdek de vele fascinerende dingen die [Webhooks](https://developers.marketo.com/documentation/webhooks/) voor u kunnen doen.
+>Meer weten over de vele fascinerende dingen die [Webhaken](https://developers.marketo.com/documentation/webhooks/) kan voor jou.
 
 ## Gebruik {#usage}
 
-Selecteer een **Webhaak** van drop-down.
+Selecteer een **Webhaak** in de vervolgkeuzelijst.
 
 ![](assets/image2014-9-22-15-3a4-3a25.png)
 

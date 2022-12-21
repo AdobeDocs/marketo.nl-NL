@@ -2,14 +2,13 @@
 unique-page-id: 2359856
 description: Een betrokkenheidsprogramma in- en uitschakelen - Marketo Docs - Productdocumentatie
 title: Een betrokkenheidsprogramma in- en uitschakelen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # Een betrokkenheidsprogramma in- en uitschakelen {#turn-an-engagement-program-on-and-off}
 
@@ -19,7 +18,7 @@ U kunt een betrokkenheidsprogramma uitschakelen met de klik op een switch. Hierm
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer het betrokkenheidsprogramma en klik op **Setup**.
+1. Selecteer het serviceprogramma en klik op **Instellen**.
 
    >[!NOTE]
    >
@@ -27,11 +26,11 @@ U kunt een betrokkenheidsprogramma uitschakelen met de klik op een switch. Hierm
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Dubbelklik **Programmastatus**.
+1. Dubbelklikken **Programmastatus**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. Selecteer **Uit** en klik **Opslaan**.
+1. Selecteren **Uit** en klik op **Opslaan**.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 

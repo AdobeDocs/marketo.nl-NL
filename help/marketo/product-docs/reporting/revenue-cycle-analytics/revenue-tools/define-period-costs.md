@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2953444
-description: Periode bepalen kosten - Marketo Docs - de Documentatie van het Product
+description: Periode-kosten bepalen - Marketo-documenten - productdocumentatie
 title: Kosten voor een bepaalde periode
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
-
-# Periode-kosten {#define-period-costs} definiëren
+# Kosten voor een bepaalde periode {#define-period-costs}
 
 >[!NOTE]
 >
@@ -25,35 +24,35 @@ De kosten voor het bijhouden en koppelen van de zorg voor leads en de aanschaf v
 >
 >Bij het begin van een programma worden de geraamde kosten vermeld. Zodra de periode in het Programma voltooit, kunt u de Kosten van de Periode uitgeven en in de daadwerkelijke kosten ingaan. Hiermee krijgt u nauwkeurige rapportresultaten.
 
-## Periode-kosten {#define-a-period-cost} definiëren
+## Periode-kosten definiëren {#define-a-period-cost}
 
-1. Heb toegang tot **Opstelling** tabel van uw Programma of Gebeurtenis.
+1. Toegang krijgen tot **Instellen** van uw programma of gebeurtenis.
 
    ![](assets/image2015-4-24-11-3a13-3a27.png)
 
-1. Sleep **Periode kosten** naar het canvas en het dialoogvenster **Nieuwe kosten** wordt weergegeven.
+1. Slepen en neerzetten **Kosten periode** op het canvas en de **Nieuwe kosten** wordt weergegeven.
 
    ![](assets/image2015-4-24-16-3a31-3a15.png)
 
-1. Voer de **Programmamaand** in die u aan de gedefinieerde kosten wilt koppelen.
+1. Voer de **Programmamaand** u wilt met de bepaalde kosten associëren.
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. Voer een **Periode Kosten** als geheel getal zonder decimalen of komma&#39;s (maximale limiet) in: (99999999)
+1. Voer een **Kosten periode** als geheel getal zonder decimalen of komma&#39;s (maximumlimiet: (99999999)
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
    >[!NOTE]
    >
-   >De valuta (bv. USD, EUR enz.) is een globale instelling die door een Marketo-beheerder wordt beheerd
+   >De valuta (bv. USD, EUR enz.) is een algemene instelling die wordt beheerd door een Marketo Admin
 
-1. Voer een beschrijvende **Notitie** (optioneel) in en klik op **Opslaan**.
+1. Voer een beschrijving in **Opmerking** (optioneel) en klik op **Opslaan**.
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
-## Periode-kosten {#edit-a-period-cost} bewerken
+## Periode-kosten bewerken {#edit-a-period-cost}
 
-1. Klik met de rechtermuisknop op Kosten periode en selecteer **Bewerken** in het pop-upmenu om het dialoogvenster **Kosten bewerken** te openen.
+1. Klik met de rechtermuisknop op Kosten periode en selecteer **Bewerken** in het pop-upmenu om het dialoogvenster **Kosten bewerken** in.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -61,12 +60,12 @@ De kosten voor het bijhouden en koppelen van de zorg voor leads en de aanschaf v
 
    ![](assets/image2015-4-24-16-3a27-3a38.png)
 
-## Periode-kosten {#delete-a-period-cost} verwijderen
+## Periode-kosten verwijderen {#delete-a-period-cost}
 
-1. Klik met de rechtermuisknop op de kosten voor de periode die u wilt verwijderen en selecteer **Delete** in het pop-upmenu om de vraag **Kosten verwijderen** weer te geven.
+1. Klik met de rechtermuisknop op de kosten voor de periode die u wilt verwijderen en selecteer **Verwijderen** in het pop-upmenu om de **Kosten verwijderen** prompt.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
-1. Klik **Delete** om de Kosten van de Periode permanent te schrappen, of **Cancel** om terug te gaan.
+1. Klikken **Verwijderen** de kosten van de periode definitief te schrappen, of **Annuleren** om terug te gaan.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)

@@ -2,18 +2,17 @@
 unique-page-id: 4719402
 description: Een nieuwe widget webcampagne maken - Marketo Docs - Productdocumentatie
 title: Nieuwe widgetwebcampagne maken
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 0%
 
 ---
 
-
 # Nieuwe widgetwebcampagne maken {#create-a-new-widget-web-campaign}
 
-Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek segment en kan een [dialoogvenster](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) op uw website zijn, een [in zone replacement](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), een widgetfunctie of een e-mailwaarschuwing. De widgetwebcampagne is een tekst of banner die aan de verticale zijde van uw webpagina wordt weergegeven en die u kunt uitbreiden en inkrimpen, terwijl u tijdens het bezoek de webpagina blijft zoeken.
+Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek segment en kan een [dialoogvenster](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) op uw website [vervanging in zone](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), een widgetfunctie of een e-mailwaarschuwing. De widgetwebcampagne is een tekst of banner die aan de verticale zijde van uw webpagina wordt weergegeven en die u kunt uitbreiden en inkrimpen, terwijl u tijdens het bezoek de webpagina blijft zoeken.
 
 ## Een widgetwebcampagne maken {#create-a-widget-web-campaign}
 
@@ -21,11 +20,11 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Selecteer **Nieuwe webcampagne maken**.
+1. Selecteren **Nieuwe webcampagne maken**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Selecteer het campagetype **Widget**.
+1. Selecteer **Widget** type campagne.
 
    ![](assets/3.png)
 
@@ -33,7 +32,7 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
 
    ![](assets/4.png)
 
-1. Klik **Voorvertoning** om te zien hoe de webcampagne op uw site reageert.
+1. Klikken **Voorvertoning** om te zien hoe de webcampagne op uw site reageert.
 
    ![](assets/preview.png)
 
@@ -51,7 +50,7 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
   </tr> 
   <tr> 
    <td colspan="1"><strong>Weergeven ingeschakeld</strong></td> 
-   <td colspan="1">Hiermee kunt u <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">aanpassen wanneer en hoe</a> uw webcampagneweergaven worden weergegeven.</td> 
+   <td colspan="1">Hiermee kunt u <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">aanpassen wanneer en hoe</a> webcampagneweergaven.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>In/uit animeren</strong></td> 
@@ -67,7 +66,7 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Widget-knop</strong><br></p></td> 
-   <td colspan="1" rowspan="1">Pas de widgetknop zelf aan.<br>Pijl: Hiermee kunt u kiezen uit meerdere verschillende pictogrammen in het rechterkeuzemenu. De kleur van de linkervervolgkeuzelijst wordt bepaald.<br>Aangepast: Voeg de URL van een gehoste afbeelding in. Geaccepteerde bestandstypen: .JPEG, .GIF (inclusief geanimeerd), .PNG, .APNG, .SVG, .BMP.<br>Tekst: Widget kan tekst zijn: pas de kleur, grootte en lettertype aan.</td> 
+   <td colspan="1" rowspan="1">Pas de widgetknop zelf aan.<br>Pijl: Hiermee kunt u kiezen uit meerdere verschillende pictogrammen in het rechterkeuzemenu. De kleur van de linkervervolgkeuzelijst wordt bepaald.<br>Aangepast: Voeg de URL van een gehoste afbeelding in. Geaccepteerde bestandstypen: .JPEG, .GIF (inclusief animatie), .PNG, .APNG, .SVG, .BMP.<br>Tekst: Widget kan tekst zijn: pas de kleur, grootte en lettertype aan.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Vast</strong></td> 
@@ -86,7 +85,7 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
    <td colspan="1">Voorvertoning van campagnes weergeven voordat deze worden gestart.<br> 
     <ul> 
      <li>URL - Voer een voorbeeld-URL in waar de campagne wordt uitgevoerd om een voorbeeld te zien van hoe de campagne er live uitziet.</li> 
-     <li>Voorvertoning - Klik <strong>Voorvertoning </strong>om een nieuw venster met de voorbeeld-URL te openen om te zien hoe de campagne reageert (Voeg de <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome-extensie</a> toe voor de beste voorvertoning van de webcampagne.) </li> 
+     <li>Voorbeeld - klikken <strong>Voorvertoning </strong>om een nieuw venster van voorbeeldURL te openen om te zien hoe de campagne reageert (voeg toe <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome-extensie</a> voor de beste voorproefervaring van de Campagne van het Web.) </li> 
      <li>Delen - Gebruik de knop Delen om een e-mail te sturen naar een collega met een koppeling om de proxycampagne te bekijken.</li> 
     </ul></td> 
   </tr> 
@@ -95,17 +94,17 @@ Een webcampagne is een aangepaste reactie die is gekoppeld aan een specifiek seg
 
 >[!NOTE]
 >
->**Wilt u dat A/B uw webcampagnes test?** Een of meer webcampagnes kunnen  [A/B worden getest op optimale resultaten](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Met de functie Automatisch afstemmen herkent het platform automatisch de beter presterende campagnes, gaat het verder met de hoogste conversiecampagnes en pauzeert het de andere campagnes.
+>**Wilt u dat A/B uw webcampagnes test?** Een of meer webcampagnes kunnen [A/B getest op optimale resultaten](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Met de functie Automatisch afstemmen herkent het platform automatisch de beter presterende campagnes, gaat het verder met de hoogste conversiecampagnes en pauzeert het de andere campagnes.
 
 ## Een webcampagne bewerken {#edit-a-web-campaign}
 
-Van de pagina van de Campagnes van het Web, klik **geef** op de Campagne uit.
+Van de pagina van de Campagnes van het Web, klik **Bewerken** over de campagne.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
 >[!NOTE]
 >
->Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik [filtereigenschap](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+>Om het gemakkelijker te maken om de campagne te vinden wilt u, gebruik [filterfunctie](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 ## Een webcampagne klonen {#clone-a-web-campaign}
 
@@ -113,13 +112,13 @@ Zie [Een webcampagne klonen](/help/marketo/product-docs/web-personalization/work
 
 ## Een webcampagne voorvertonen {#preview-a-web-campaign}
 
-Van de pagina van de Campagnes van het Web, klik **Voorproef** op de Webcampagne u wenst voorproef
+Van de pagina van de Campagnes van het Web, klik **Voorvertoning** op de webcampagne die u wilt voorvertonen
 
 ![](assets/widget-campaign-preview-hand.png)
 
-## Een webcampagne {#delete-a-web-campaign} verwijderen
+## Een webcampagne verwijderen {#delete-a-web-campaign}
 
-1. Van de pagina van de Campagnes van het Web, klik **Schrapping** op de Webcampagne u wenst om te schrappen.
+1. Van de pagina van de Campagnes van het Web, klik **Verwijderen** op de webcampagne die u wilt verwijderen.
 
    ![](assets/widget-campaign-delete-hand.png)
 

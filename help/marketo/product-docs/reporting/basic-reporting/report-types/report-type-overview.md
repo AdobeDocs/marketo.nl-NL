@@ -2,18 +2,17 @@
 unique-page-id: 2359965
 description: Overzicht rapporttype - Marketo Docs - Productdocumentatie
 title: Overzicht rapporttype
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
-
 # Overzicht rapporttype {#report-type-overview}
 
-Wanneer u [een rapport in een programma ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) creeert, kies welk type van rapport u wilt.
+Wanneer u [een rapport in een programma maken](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), kiest u welk type rapport u wilt.
 
 ## Meest gebruikte rapporten {#most-used-reports}
 
@@ -47,7 +46,7 @@ Wanneer u [een rapport in een programma ](/help/marketo/product-docs/reporting/b
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Rapport Personen op omzet</a>  </strong></td> 
-   <td>Basisrapportage voor uw <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">inkomstenmodel</a>. Zie <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Analyse van de conjunctuurcyclus</a> voor diepere rapportering.</td> 
+   <td>Basisrapportage voor uw <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Opbrengstmodel</a>. Zie <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Analyse van inkomstencyclus</a> voor een betere rapportage.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestaties van bestemmingspagina</a>  </strong></td> 
@@ -55,7 +54,7 @@ Wanneer u [een rapport in een programma ](/help/marketo/product-docs/reporting/b
   </tr> 
   <tr> 
    <td><strong>  <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Programmaprestaties</a>  </strong></td> 
-   <td>Elementaire programma's zoals leden en succes. Zie <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Analyse van de conjunctuurcyclus</a> voor diepere rapportering.</td> 
+   <td>Elementaire programma's zoals leden en succes. Zie <a href="https://docs.marketo.com/display/docs/revenue+cycle+analytics">Analyse van inkomstencyclus</a> voor een betere rapportage.</td> 
   </tr> 
   <tr> 
    <td><strong>  <a href="company-web-activity-report.md">Webactiviteit bedrijf</a>  </strong></td> 
@@ -71,7 +70,7 @@ Wanneer u [een rapport in een programma ](/help/marketo/product-docs/reporting/b
   </tr> 
   <tr> 
    <td><strong> <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Prestatierapport voor betrokkenheidsstream</a> </strong></td> 
-   <td><p>Zie hoe goed uw <a href="https://docs.marketo.com/display/docs/drip+nurturing">betrokkenheidsprogramma</a> werkt.</p></td> 
+   <td><p>Bekijk hoe goed uw <a href="https://docs.marketo.com/display/docs/drip+nurturing">betrokkenheidsprogramma</a> werkt.</p></td> 
   </tr> 
  </tbody> 
 </table>

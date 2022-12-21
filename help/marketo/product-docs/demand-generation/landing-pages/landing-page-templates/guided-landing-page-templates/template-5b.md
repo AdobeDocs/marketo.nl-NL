@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Template 5B {#template-5b}
 
-Klik met de rechtermuisknop om sjabloon 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html) te downloaden[
+Klik met de rechtermuisknop om [downloadsjabloon 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
 
 ![](assets/template-5b.png)
 

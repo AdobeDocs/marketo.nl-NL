@@ -1,21 +1,20 @@
 ---
 unique-page-id: 14352423
-description: Verbind Uw Verkoop Connect Rekening met Salesforce - Marketo Docs - de Documentatie van het Product
+description: Verbind Uw Verkoop Connect Rekening met Salesforce - de Documenten van Marketo - de Documentatie van het Product
 title: Verbind Uw Verkoop Connect Rekening met Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-
 # Verbind Uw Verkoop Connect Rekening met Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
 Voer de volgende eenvoudige stappen uit om Sales Connect te verbinden met Salesforce.
 
-## Hoe te om als Admin {#how-to-connect-as-an-admin} te verbinden
+## Verbinding maken als beheerder {#how-to-connect-as-an-admin}
 
 1. Klik in Sales Connect op het tandwielpictogram rechtsboven en selecteer **Instellingen**.
 
@@ -29,19 +28,19 @@ Voer de volgende eenvoudige stappen uit om Sales Connect te verbinden met Salesf
 
    ![](assets/seven.png)
 
-1. Klik **OK**.
+1. Klikken **OK**.
 
    ![](assets/four.png)
 
 1. Als u al bent aangemeld bij Salesforce, hebt u verbinding. Als u dat niet doet, wordt u gevraagd u aan te melden.
 
-## Hoe te om als niet Admin {#how-to-connect-as-a-non-admin} te verbinden
+## Verbinding maken als niet-beheerder {#how-to-connect-as-a-non-admin}
 
 1. Klik in Sales Connect op het tandwielpictogram en selecteer **Instellingen**.
 
    ![](assets/one.png)
 
-1. Selecteer onder Mijn account **Salesforce**.
+1. Selecteer onder Mijn account de optie **Salesforce**.
 
    ![](assets/two.png)
 
@@ -49,7 +48,7 @@ Voer de volgende eenvoudige stappen uit om Sales Connect te verbinden met Salesf
 
    ![](assets/three.png)
 
-1. Klik **OK**.
+1. Klikken **OK**.
 
    ![](assets/four.png)
 

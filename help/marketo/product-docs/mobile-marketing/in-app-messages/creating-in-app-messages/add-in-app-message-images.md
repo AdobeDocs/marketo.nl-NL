@@ -1,17 +1,16 @@
 ---
 unique-page-id: 10100636
-description: Voeg Berichtenafbeeldingen in de app toe - Marketo Docs - Productdocumentatie
+description: Voeg in-app berichtafbeeldingen toe - Marketo Docs - Productdocumentatie
 title: Berichtafbeeldingen in de app toevoegen
-translation-type: tm+mt
-source-git-commit: f7b0b4ebe248257c234503346458bd38bfd2e73c
+exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
 
 ---
 
-
-# Voeg in-app berichtbeelden {#add-in-app-message-images} toe
+# Berichtafbeeldingen in de app toevoegen {#add-in-app-message-images}
 
 Hier kiest en past u uw in-app berichtafbeeldingen aan.
 
@@ -19,23 +18,23 @@ Hier kiest en past u uw in-app berichtafbeeldingen aan.
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
-1. Kies een van de zes sjablonen op het tabblad Indeling. Er zijn drie opties voor Pop-up en drie opties voor Volledig scherm.
+1. Kies een van de zes sjablonen op het tabblad Indeling. Er zijn drie opties voor Pop Up en Volledig scherm.
 
    >[!TIP]
    >
-   >Wat is het verschil tussen de sjablonen? Zie [Kies een Lay-out voor Uw In-App Bericht](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) alvorens u begint.
+   >Wat is het verschil tussen de sjablonen? Zie [Kies een lay-out voor uw bericht in de app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md) voordat u aan de slag gaat.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Klik op het tabblad **Stijl** en klik op het afbeeldingsgebied van de sjabloon.
+1. Klik op de knop **Stijl** en klikt u op het afbeeldingsgebied van de sjabloon.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. Klik **Selecteer Afbeelding**.
+1. Klikken **Afbeelding selecteren**.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. Selecteer uw afbeelding in de Design Studio en klik op **Select**.
+1. Selecteer uw afbeelding in de Design Studio en klik op **Selecteren**.
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -43,11 +42,11 @@ Hier kiest en past u uw in-app berichtafbeeldingen aan.
    >
    >Afbeeldingsgrootte is beperkt tot 1440 x 2560 px en 5 MB.
 
-1. Bent u van mening en wilt u een andere afbeelding gebruiken? Geen probleem. Klik op **X** naast de bestandsnaam van de afbeelding.
+1. Bent u van mening en wilt u een andere afbeelding gebruiken? Geen probleem. Klik op de knop **X** naast de bestandsnaam van de afbeelding.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. Klik **Verwijderen**. Nu kun je een andere kiezen.
+1. Klikken **Verwijderen**. Nu kun je een andere kiezen.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
@@ -67,7 +66,7 @@ Hier kiest en past u uw in-app berichtafbeeldingen aan.
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. Selecteer een marge (aan of uit). **** Onis de standaardinstelling.
+1. Selecteer een marge (aan of uit). **Aan** is de standaardinstelling.
 
    ![](assets/image2016-5-6-9-3a42-3a15.png)
 
@@ -85,9 +84,9 @@ Hier kiest en past u uw in-app berichtafbeeldingen aan.
 
    >[!NOTE]
    >
-   >Voor tikacties voor afbeeldingen, knoppen of achtergronden kunt u verschillende handelingen instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld op verschillende manieren afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, verlaat andere in het gebrek dat plaatst of **niets** selecteert.
+   >Voor tikacties voor afbeeldingen, knoppen of achtergronden kunt u verschillende acties instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld anders afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, verlaat andere in het gebrek dat plaatst of uitgezocht **Geen**.
 
-Geweldig werk! Nu is het tijd om [de tekst voor uw in-app bericht te maken](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
+Geweldig werk! Nu is het tijd om [Maak de tekst voor uw bericht in de app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 
 >[!MORELIKETHIS]
 >

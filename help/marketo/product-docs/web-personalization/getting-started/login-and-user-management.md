@@ -1,25 +1,24 @@
 ---
 unique-page-id: 7513771
-description: Aanmelden en gebruikersbeheer - Marketo-documenten - Productdocumentatie
+description: Aanmelding en gebruikersbeheer - Marketo-documenten - Productdocumentatie
 title: Aanmelding en gebruikersbeheer
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
 
 ---
 
-
 # Aanmelding en gebruikersbeheer {#login-and-user-management}
 
 ## Creeer een Rol van de Gebruiker van de Personalisatie van het Web {#create-a-web-personalization-user-role}
 
-1. Ga naar **Admin** sectie, dan klik **Gebruikers &amp; Roles**.
+1. Ga naar de **Beheer** en klik vervolgens op **Gebruikers en rollen**.
 
    ![](assets/image2015-4-28-19-3a50-3a49.png)
 
-1. Klik **Rollen**.
+1. Klikken **Rollen**.
 
    ![](assets/image2015-4-28-19-3a57-3a58.png)
 
@@ -27,39 +26,39 @@ ht-degree: 0%
    >
    >Als de gebruikersrol van de Personalisatie van het Web (WP) reeds bestaat, zorg ervoor het zoals aangetoond in Stap 4 wordt gevormd.
 
-1. Klik **Nieuwe rol**.
+1. Klikken **Nieuwe rol**.
 
    ![](assets/three-1.png)
 
-1. Voer een rolnaam in en selecteer Machtigingen. Klik **Maken** (deze rol moet [van toepassing zijn op alle werkruimten](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
+1. Voer een rolnaam in en selecteer Machtigingen. Klikken **Maken** ( deze rol moet [toepassen op alle werkruimten](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)).
 
    ![](assets/four.png)
 
    >[!TIP]
    >
-   >Om gebruikers toestemming te geven om tot alles in het richten en Personalisatie toegang te hebben, ben zeker om _all_ checkboxes te selecteren.
+   >Om gebruikers toestemming te geven om tot alles in het richten en Personalisatie toegang te hebben, ben zeker om te selecteren _alles_ de selectievakjes.
 
-## Rechten van gebruikers voor webpersonalisatie en voorspellende inhoud {#web-personalization-and-predictive-content-user-permissions}
+## Gebruikersrechten voor webpersonalisatie en voorspellende inhoud {#web-personalization-and-predictive-content-user-permissions}
 
-**Doelgericht en persoonlijk** gebruik: Gebruiker heeft alleen weergavemachtigingen als deze machtiging alleen is geselecteerd.
+**Gericht en persoonlijk tintje**: Gebruiker heeft alleen weergavemachtigingen als deze machtiging alleen is geselecteerd.
 
 **Admin Web Personalization + Predictive**: Gebruiker heeft alleen toegang tot de instellingen Account Settings en Content voor de app Web Personalization en Predictive Content. Gebruikers kunnen pagina&#39;s in de app weergeven, maar beschikken niet over de machtigingen voor maken, bewerken, verwijderen en starten.
 
-**Voorspelende inhoudseditor**: De gebruiker heeft editortoegang tot de toepassing Predictive Content. Met deze machtiging kunt u inhoudsonderdelen maken, bewerken en verwijderen. Inhoud is niet toegestaan voor voorspellend gebruik op internet of e-mail.
+**Redacteur voor voorspellende inhoud**: De gebruiker heeft editortoegang tot de toepassing Predictive Content. Met deze machtiging kunt u inhoudsonderdelen maken, bewerken en verwijderen. Inhoud is niet toegestaan voor voorspellend gebruik op internet of e-mail.
 
-**Start** van voorspellende inhoud: De gebruiker heeft toegang tot alle functies voor voorspellende inhoud, behalve Account en Content Settings. Met deze machtiging kunt u inhoudsonderdelen maken, bewerken en verwijderen en inschakelen.
+**Predictive Content Launcher**: De gebruiker heeft toegang tot alle functies voor voorspellende inhoud, behalve Account en Content Settings. Met deze machtiging kunt u inhoudsonderdelen maken, bewerken en verwijderen en inschakelen.
 
 **Webcampagne-editor**: De gebruiker heeft editortoegang tot al eigenschap van de Personalisatie van het Web om te creëren, uit te geven en te schrappen maar niet de campagnes van het Web te lanceren.
 
-**Opstartprogramma** webcampagne: De gebruiker heeft toegang tot alle eigenschappen van de app van de Personalisatie van het Web, behalve de Montages van de Rekening en van de Inhoud. Met deze machtiging kunt u webcampagnes maken, bewerken, verwijderen en starten.
+**Web Campaign Launcher**: De gebruiker heeft toegang tot alle eigenschappen van de app van de Personalisatie van het Web, behalve de Montages van de Rekening en van de Inhoud. Met deze machtiging kunt u webcampagnes maken, bewerken, verwijderen en starten.
 
 ## WP-rol toewijzen aan gebruiker {#assign-wp-role-to-user}
 
-1. Ga naar **Users**.
+1. Ga naar **Gebruikers**.
 
    ![](assets/image2015-4-29-11-3a31-3a3.png)
 
-1. Selecteer de gebruiker om WP toegang tot te verlenen en **te klikken Gebruiker** uitgeven.
+1. Selecteer de gebruiker om WP toegang tot te verlenen en te klikken **Gebruiker bewerken**.
 
    ![](assets/image2015-4-29-11-3a38-3a46.png)
 
@@ -67,6 +66,6 @@ ht-degree: 0%
 
    ![](assets/seven.png)
 
-1. Nieuw ingeschakelde gebruikers zullen **Web Personalization** tegel in Mijn Marketo zien de volgende tijd zij login.
+1. Nieuw ingeschakelde gebruikers zien de **Webpersonalisatie** Tile in My Marketo de volgende keer dat ze zich aanmelden.
 
    ![](assets/eight.png)

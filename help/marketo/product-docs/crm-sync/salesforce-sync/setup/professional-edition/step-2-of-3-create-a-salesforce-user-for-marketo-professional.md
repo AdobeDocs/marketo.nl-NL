@@ -3,7 +3,6 @@ unique-page-id: 3571797
 description: Stap 2 van 3 - een Salesforce-gebruiker voor Marketo maken (Professional) - Marketo Docs - Productdocumentatie
 title: Stap 2 van 3 - Een Salesforce-gebruiker voor Marketo maken (Professional)
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '423'
@@ -23,19 +22,19 @@ ht-degree: 1%
 
 In dit artikel past u veldmachtigingen aan met een Salesforce Page Layout en maakt u een Marketo-Salesforce synchronisatiegebruiker.
 
-## Paginalay-outs {#set-page-layouts} instellen
+## Pagina-indelingen instellen {#set-page-layouts}
 
 Salesforce Professional stelt toegankelijkheid op veldniveau in met paginalay-outs, in tegenstelling tot de profielen van Salesforce Enterprise/Unlimited. Als u deze stappen uitvoert, kan de Marketo-synchronisatiegebruiker de aangepaste velden bijwerken.
 
-1. Typ **paginalay-outs** in de zoekbalk Nav zonder op **Enter** te drukken en klik **Paginalay-out** onder **Leads**.
+1. Type **paginalay-outs** in de zoekbalk Nav zonder op **Enter** en klik op **Pagina-indeling** krachtens **Leads**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. Klik **Bewerken** naast Lay-out.
+1. Klikken **Bewerken** naast Lay-out lead.
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
-1. Klik en sleep een nieuwe **Sectie** in de paginalay-out.
+1. Klik en sleep een nieuwe **Sectie** in de pagina-indeling.
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
@@ -43,7 +42,7 @@ Salesforce Professional stelt toegankelijkheid op veldniveau in met paginalay-ou
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Klik en sleep het veld **Opnamedatum** naar de sectie **Marketo**.
+1. Klik en sleep het veld **Aankoopdatum** in de **Marketo** sectie.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
@@ -74,39 +73,39 @@ Salesforce Professional stelt toegankelijkheid op veldniveau in met paginalay-ou
    >
    >Maak twee kolommen voor de velden door naar de rechterkant van de pagina te slepen. U kunt velden van de ene naar de andere zijde verplaatsen om de kolomlengte in evenwicht te brengen.
 
-1. Klik **Opslaan** wanneer u klaar bent met het toevoegen van velden.
+1. Klikken **Opslaan** als u klaar bent met het toevoegen van velden.
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Herhaal alle bovenstaande stappen voor de Salesforce **Contactpagina-indeling**.
+1. Herhaal alle bovenstaande stappen voor de Salesforce **Lay-out contactpagina**.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. Vergeet niet **Opslaan** te klikken wanneer u klaar bent met **Pagina-indeling van contact**.
+1. Vergeet niet te klikken **Opslaan** als u klaar bent met de **Lay-out contactpagina**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
    >[!NOTE]
    >
-   >Zorg ervoor dat het veld **All-Day Event** is toegevoegd aan **Layout gebeurtenispagina**.
+   >Zorg ervoor dat de **Gebeurtenis van de hele dag** veld is toegevoegd aan de **Layout gebeurtenispagina**.
 
-## Synchronisatiegebruiker {#create-sync-user} maken
+## Synchronisatiegebruiker maken {#create-sync-user}
 
 Marketo heeft aanmeldingsgegevens nodig om toegang te krijgen tot Salesforce. Dit kunt u het beste doen met een toegewijde gebruiker die is gemaakt met de onderstaande stappen.
 
 >[!NOTE]
 >
->Als uw organisatie geen extra licenties voor Salesforce heeft, kunt u een bestaande **Marketing-gebruiker** gebruiken met het profiel **Systeembeheerder**.
+>Als uw organisatie geen extra Salesforce-licenties heeft, kunt u een bestaande **Marketinggebruiker** met de **Systeembeheerder** profiel.
 
-1. Voer &quot;gebruikers&quot; in de zoekbalk Nav in en klik op **Gebruikers** onder **Gebruikers beheren**.
+1. Voer &quot;gebruikers&quot; in op de zoekbalk Nav en klik op **Gebruikers** krachtens **Gebruikers beheren**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
-1. Klik **Nieuwe Gebruiker**.
+1. Klikken **Nieuwe gebruiker**.
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Vul de vereiste gebieden in, selecteer **Vergunning van de Gebruiker: Salesforce**, plaats **Profiel: Systeembeheerder**, schakel **Gebruiker op de markt brengen** in en klik **Opslaan**.
+1. Vul de vereiste gebieden in, selecteer **Gebruikerslicentie: Salesforce** stelt u de **Profiel: Systeembeheerder**, controle **Gebruiker van marketing** en klik op **Opslaan**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 

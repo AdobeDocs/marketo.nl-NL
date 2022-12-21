@@ -16,7 +16,7 @@ In dit artikel wordt beschreven hoe u een incompatibele statusfout kunt oplossen
 
 ## Wat doet u als u een foutbericht hebt ontvangen {#what-do-you-do-if-you-received-an-error-message}
 
-Als u probeert te synchroniseren met een bestaande Salesforce-campagne die leads bevat en de campagne een of meer incompatibele statussen bevat, wordt een foutbericht weergegeven. Een Marketo-programma en een Salesforce-campagne *synchroniseren niet* als de status niet exact overeenkomt.
+Als u probeert te synchroniseren met een bestaande Salesforce-campagne die leads bevat en de campagne een of meer incompatibele statussen bevat, wordt een foutbericht weergegeven. Een Marketo-programma en een Salesforce-campagne *niet* synchroniseren als de statussen niet exact overeenkomen.
 
 ![](assets/image2015-7-22-9-3a23-3a29.png)
 
@@ -26,4 +26,4 @@ Vanuit dit foutbericht kunt u kiezen voor:
 1. U kunt de fout annuleren, de statusfouten herstellen en proberen te synchroniseren zodra de fouten zijn hersteld. Voer een van de volgende handelingen uit om de statusfouten te corrigeren:
 
    * Meld u aan bij Salesforce en verwijder of wijzig de naam van de incompatibele campagnelidstaten om de status van het Marketo-programma toe te wijzen die wordt gebruikt voor het kanaaltype dat is gekoppeld aan uw Marketo-programma.
-   * Wijzig de status van het Programma in Marketo om aan de lidstaten van de Campagne Salesforce in kaart te brengen u op zijn plaats hebt. Dit is een Marketo Admin-functie. Zie [Programmakanaal maken](/help/marketo/product-docs/administration/tags/create-a-program-channel.md) voor meer informatie.
+   * Wijzig de status van het Programma in Marketo om aan de lidstaten van de Campagne Salesforce in kaart te brengen u op zijn plaats hebt. Dit is een Marketo Admin-functie. Zie voor meer informatie [Een programmakanaal maken](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).

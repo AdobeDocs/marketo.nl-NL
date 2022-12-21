@@ -3,7 +3,6 @@ unique-page-id: 1147318
 description: Verklarende woordenlijst met sneltoetsen - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst Sneltoetsen
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Verklarende woordenlijst met sneltoetsen {#keyboard-shortcuts-glossary}
+# Verklarende woordenlijst Sneltoetsen {#keyboard-shortcuts-glossary}
 
 Bent u een persoon met sneltoetsen? We hebben je bedekt!
 

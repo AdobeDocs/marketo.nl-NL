@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2953572
-description: E-mailprogramma's begrijpen - Marketo Docs - Productdocumentatie
+description: Werken met e-mailprogramma's - Marketo Docs - Productdocumentatie
 title: E-mailprogramma's
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
-
 # E-mailprogramma&#39;s {#understanding-email-programs}
 
-Doe de groeten aan uw nieuwe vriend Marketo, het e-mailprogramma. Verzend e-mails, maak A/B-tests en volg uw resultaten allemaal op één locatie.
+Doe de groeten aan je nieuwe Marketo-vriend, het e-mailprogramma. Verzend e-mails, maak A/B-tests en volg uw resultaten allemaal op één locatie.
 
-## Regelpaneel {#control-panel}
+## Deelvenster Beheer {#control-panel}
 
-Vier vakken zorgen ervoor dat je gefocust blijft. **Het** publiek bepaalt &quot;wie,&quot; **** E-mail verstrekt &quot;wat,&quot; **** plannuledefinieert &quot;wanneer,&quot;en  **** Goedkeuring maakt het klaar te gaan.
+Vier vakken zorgen ervoor dat je gefocust blijft. **Publiek** definieert de &#39;&#39;who&#39;&#39; **E-mail** biedt de &quot;wat&quot; **Schema** definieert &quot;when&quot;, en **Goedkeuring** maakt het klaar om te gaan.
 
 ![](assets/emailprogram.png)
 
@@ -46,7 +45,7 @@ Geniet van de vruchten van je werk. De dashboards tonen u e-mailprogramma en A/B
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
 
-## {#nesting} nesten
+## Nesten {#nesting}
 
 E-mailprogramma&#39;s spelen goed met andere programma&#39;s.
 
@@ -66,16 +65,15 @@ Gebruik een e-mailprogramma in een standaardprogramma om de zaken te organiseren
 >
 >E-mailprogramma&#39;s kunnen niet worden genest in [betrokkenheidsprogramma&#39;s](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md). Ze kunnen ook niet opnieuw worden verzonden en kunnen slechts één test tegelijk uitvoeren.
 
-## Schema-instellingen {#schedule-settings}
+## Planningsinstellingen {#schedule-settings}
 
 Nu u e-mailprogramma&#39;s begrijpt, kunt u beginnen met een van de verwante artikelen hieronder!
 
 >[!MORELIKETHIS]
 >
 >* [Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
-   >
-   >
-* [Een publiek definiëren met een slimme lijst](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>
+>* [Een publiek definiëren met een slimme lijst](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
 >* [Een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >* [Uw e-mailprogramma plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 

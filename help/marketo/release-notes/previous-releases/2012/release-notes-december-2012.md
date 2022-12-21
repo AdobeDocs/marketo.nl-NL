@@ -12,17 +12,17 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: december 2012 {#release-notes-december}
 
-De release van december bevat de veel verwachte **Doorsturen naar vriend**-functie, plus diverse andere goede bedoelingen! Merk op dat de eigenschappen duidelijk met een asterisk (*) slechts in de Uitgezochte Uitgave en in RCA (de Analyse van de Cyclus van de Opbrengst) beschikbaar zijn.
+In de release van december is de verwachte hoeveelheid opgenomen **Doorsturen naar vriend** en diverse andere goede dingen! Functies die zijn gemarkeerd met een sterretje (&#42;) zijn alleen beschikbaar in de Select Edition en in RCA (Revenue Cycle Analytics).
 
 ## Doorsturen naar vriend {#forward-to-friend}
 
-Schakel het delen van inhoud met anderen in door een koppeling **Doorsturen naar vriend** in uw e-mails op te nemen. Door nieuwe filters en triggers toe te voegen, kunt u uw invloeden herkennen, door gebruikers te identificeren die een e-mail hebben doorgestuurd, en gebruikers die de doorgestuurde e-mails hebben ontvangen.
+Schakel het delen van inhoud met anderen in door een **Doorsturen naar vriend** link in je e-mails. Door nieuwe filters en triggers toe te voegen, kunt u uw invloeden herkennen, door gebruikers te identificeren die een e-mail hebben doorgestuurd, en gebruikers die de doorgestuurde e-mails hebben ontvangen.
 
-Als u een **Uitnodiging doorsturen naar vriend** in uw e-mail wilt opnemen, opent u deze in de editor en voegt u de token `{{system.forwardToFriendLink}}` in.
+Als u een **Doorsturen naar vriend** uitnodiging in uw e-mail, open het in de redacteur en neem het op `{{system.forwardToFriendLink}}` token.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Gebruik de overeenkomstige triggers en filters om gebruikers te identificeren die de koppeling **Doorsturen naar vriend** hebben gebruikt en gebruikers die de e-mail hebben ontvangen.
+Gebruik de bijbehorende triggers en filters om gebruikers te identificeren die de **Doorsturen naar vriend** en de personen die het e-mailbericht hebben ontvangen.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
@@ -50,16 +50,16 @@ Het Inzicht van de verkoop is nu beschikbaar aan de klanten van de Dynamica van 
 
 Synchroniseer opportuniteitsgegevens tussen Marketo en Microsoft Dynamics.
 
-## Rapport over beïnvloede kansen voor marketing* {#marketing-influenced-opportunities-report}
+## Rapport over marketingkansen&#42; {#marketing-influenced-opportunities-report}
 
-Bekijk welk percentage van de pijpleiding en de opbrengst van uw bedrijf door uw marketingprogramma&#39;s werd beïnvloed. In **Ontdekkingsreiziger van de Inkomsten**, kunt u douanerapporten met de nieuwe &quot;Van de Verkoop beïnvloede &quot;gele punt van de Kans in de Analyse van de Kans nu tot stand brengen. U kunt ook de volgende twee rapporten gebruiken in de Standaardmap:
+Bekijk welk percentage van de pijpleiding en de opbrengst van uw bedrijf door uw marketingprogramma&#39;s werd beïnvloed. In **Ontdekkingsreiziger voor inkomsten** kunt u nu aangepaste rapporten maken met de nieuwe gele punt ‘Door marketing beïnvloed opportuniteit’ in Opportunity Analysis. U kunt ook de volgende twee rapporten gebruiken in de Standaardmap:
 
 * Marketing Invloed op gemaakte kansen
 * Invloed van marketing op Kansen Gesloten Won
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## Aangepaste opportuniteitsvelden in Program Opportunity Analysis* {#custom-opportunity-fields-in-program-opportunity-analysis}
+## Aangepaste opportuniteitsvelden in de analyse van programmamogelijkheden&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
 Voeg de gebieden van de douanemogelijkheid toe om uw rapporten van de Analyse van de Kans van het Programma in de Ontdekkingsreiziger van de Ontvangsten te verrijken.
 
@@ -69,6 +69,6 @@ Voeg de gebieden van de douanemogelijkheid toe om uw rapporten van de Analyse va
 
 Hebt u zich ooit afgevraagd welke campagnes een specifieke stroomactie, zoals de Score van de Verandering of Campagne van het Verzoek gebruiken? Of waar wordt een bepaald filter gebruikt? Met de nieuwe Campagne Inspector (beschikbaar op de Treasure Chest) kunt u deze campagnes identificeren en kunt u actieve campagnes en campagnes met fouten herkennen.
 
-Ga naar **Admin** > **Treasure Chest** om **Campagne Inspector** in te schakelen.
+Ga naar **Beheer** > **Treasure Chest** de **Campagnecontrole**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

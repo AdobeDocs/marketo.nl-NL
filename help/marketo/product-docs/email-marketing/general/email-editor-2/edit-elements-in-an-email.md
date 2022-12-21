@@ -2,14 +2,13 @@
 unique-page-id: 1900558
 description: Elementen bewerken in een e-mail - Marketo Docs - Productdocumentatie
 title: Elementen bewerken in een e-mail
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 0%
 
 ---
-
 
 # Elementen bewerken in een e-mail {#edit-elements-in-an-email}
 
@@ -17,7 +16,7 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
 ## Procedure voor het bewerken van het rijke tekstelement {#how-to-edit-the-rich-text-element}
 
-1. Zoek uw e-mail, selecteer het en klik **geef Ontwerp** uit.
+1. Uw e-mail zoeken, deze selecteren en klikken **Concept bewerken**.
 
    ![](assets/one-edited.png)
 
@@ -29,19 +28,19 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    ![](assets/three.png)
 
-1. Voeg uw tekst toe/geef uw tekst uit en druk **sparen**.
+1. Uw tekst toevoegen/bewerken en drukken op **Opslaan**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >U kunt ook afbeeldingen, tokens, tabellen en andere elementen toevoegen. Zie [De rijke Redacteur van de Tekst gebruiken](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >U kunt ook afbeeldingen, tokens, tabellen en andere elementen toevoegen. Zie [De Rich Text Editor gebruiken](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
    >Vermijd het kopiëren en plakken van tekst van een rijke tekstbron, zoals een website of een document van Word. Plak in plaats daarvan eerst rijke tekst in een onbewerkte teksteditor, zoals Kladblok (Windows) of TextEdit (Mac). Als het &#39;schoon&#39; is, kunt u het vervolgens kopiëren vanuit de teksteditor zonder opmaak en plakken in uw e-mail.
 
-## Afbeeldingselement bewerken {#how-to-edit-the-image-element}
+## Het afbeeldingselement bewerken {#how-to-edit-the-image-element}
 
 1. Klik in de module met het element Afbeelding om het te selecteren.
 
@@ -65,7 +64,7 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    >[!NOTE]
    >
-   >Gebruik deze optie als u een token Marketo wilt gebruiken. Houd er rekening mee dat wanneer u een token gebruikt, de afbeelding wordt afgebroken in de editor, maar wordt weergegeven in de modus Voorbeeld en in het e-mailbericht Voorbeeld verzenden.
+   >Gebruik deze optie als u een Marketo-token wilt gebruiken. Houd er rekening mee dat wanneer u een token gebruikt, de afbeelding wordt afgebroken in de editor, maar wordt weergegeven in de modus Voorbeeld en in het e-mailbericht Voorbeeld verzenden.
 
    Als u een externe URL wilt gebruiken, plakt u eerst in de URL van de afbeelding. Pas de afmetingen aan uw wensen aan en voeg alternatieve tekst (optioneel) toe. Druk vervolgens op **Wisselen**.
 
@@ -81,13 +80,13 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    ![](assets/ten.png)
 
-   Wijzig de afmetingen naar wens en wijzig de alternatieve tekst (optioneel). Druk vervolgens op **Omwisselen**.
+   Wijzig de afmetingen naar wens, wijzig de Alt-tekst (optioneel) en druk op **Wisselen**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Als u een afbeelding vervangt, moet u het selectievakje **Bestaande afbeelding overschrijven** onder de URL/naam van de afbeelding inschakelen.
+   >Als u een afbeelding vervangt, moet u de optie **Bestaande afbeelding overschrijven** onder de URL/naam van de afbeelding.
 
    **Design Studio**
 
@@ -95,7 +94,7 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    ![](assets/twelve.png)
 
-   ...en voeg het in. Wijzig de afmetingen naar wens en wijzig de alternatieve tekst (optioneel). Druk vervolgens op **Omwisselen**.
+   ...en voeg het in. Wijzig de afmetingen naar wens, wijzig de Alt-tekst (optioneel) en druk op **Wisselen**.
 
    ![](assets/thirteen.png)
 
@@ -105,7 +104,7 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    ![](assets/fourteen.png)
 
-1. Klik op het fragmentelement, klik vervolgens op het tandwielpictogram en selecteer **Bewerken**.
+1. Klik op het element Fragment, klik vervolgens op het tandwielpictogram en selecteer **Bewerken**.
 
    ![](assets/fifteen.png)
 
@@ -117,13 +116,13 @@ E-mails kunnen vier verschillende elementen bevatten: RTF-tekst, afbeeldingen, f
 
    ![](assets/eighteen.png)
 
-## Procedure voor het bewerken van het video-element {#how-to-edit-the-video-element}
+## Het Video-element bewerken {#how-to-edit-the-video-element}
 
 1. Klik in de module met het Video-element.
 
    ![](assets/nineteen.png)
 
-1. Klik op het Video-element, klik vervolgens op het tandwielpictogram en selecteer **Bewerken**.
+1. Klik op het element Video, klik vervolgens op het tandwielpictogram en selecteer **Bewerken**.
 
    ![](assets/twenty.png)
 

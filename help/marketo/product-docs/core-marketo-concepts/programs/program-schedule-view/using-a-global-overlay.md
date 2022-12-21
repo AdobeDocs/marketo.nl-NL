@@ -3,7 +3,6 @@ unique-page-id: 1147249
 description: Een algemene overlay gebruiken - Marketo Docs - Productdocumentatie
 title: Een algemene overlay gebruiken
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
@@ -11,21 +10,21 @@ ht-degree: 0%
 
 ---
 
-# Globale overlay {#using-a-global-overlay} gebruiken
+# Een algemene overlay gebruiken {#using-a-global-overlay}
 
 Met de algemene overlay in de programmaweergave van het programma kunt u uw programma bekijken in relatie tot andere geplande middelen.
 
 >[!PREREQUISITES]
 >
->U moet een [licentie voor marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) hebben om deze functie te kunnen gebruiken.
+>U moet beschikken over een [Licentie voor marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) om deze functie te gebruiken.
 
-## De algemene overlay {#use-the-global-overlay} gebruiken
+## De algemene overlay gebruiken {#use-the-global-overlay}
 
 1. Selecteer uw programma.
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Selecteer **Bedekking** in de rechterbenedenhoek.
+1. Selecteren **Bedekking** in de rechterbenedenhoek.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,9 +38,9 @@ Met de algemene overlay in de programmaweergave van het programma kunt u uw prog
 
 ## Een opgeslagen filter gebruiken als overlay {#use-a-saved-filter-as-an-overlay}
 
-Als u een filter in de Kalender van de Marketing [hebt bewaard, kunt u het als bekleding in de mening van het programmaprogramma gebruiken.](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
+Als je [een filter opgeslagen in de Marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md), kunt u het als bedekking in de mening van het programmaprogramma gebruiken.
 
-1. Klik op de vervolgkeuzelijst **Bedekking** en selecteer uw filterdefinitie.
+1. Klik op de knop **Bedekking** en selecteert u de filterdefinitie.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 

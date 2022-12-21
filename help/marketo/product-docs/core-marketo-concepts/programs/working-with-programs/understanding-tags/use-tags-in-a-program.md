@@ -3,7 +3,6 @@ unique-page-id: 1147150
 description: Tags gebruiken in een programma - Marketo Docs - Productdocumentatie
 title: Tags gebruiken in een programma
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
@@ -15,9 +14,9 @@ ht-degree: 0%
 
 Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om programmatypen te groeperen in de rapportage.
 
-## Een tag gebruiken in een programma {#use-a-tag-in-a-program}
+## Een tag in een programma gebruiken {#use-a-tag-in-a-program}
 
-1. Selecteer uw programma. Klik **Setup**.
+1. Selecteer uw programma. Klikken **Instellen**.
 
    ![](assets/image2014-9-23-15-3a45-3a0.png)
 
@@ -29,7 +28,7 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
    ![](assets/image2014-9-23-15-3a45-3a30.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/image2014-9-23-15-3a45-3a36.png)
 
@@ -37,9 +36,9 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
    ![](assets/image2014-9-23-15-3a45-3a47.png)
 
-## Een tag {#edit-a-tag} bewerken
+## Een tag bewerken {#edit-a-tag}
 
-1. Ga naar **Setup** tabel. Klik met de rechtermuisknop op de tag. Selecteer **Bewerken**.
+1. Ga naar de **Instellen** tab. Klik met de rechtermuisknop op de tag. Selecteren **Bewerken**.
 
    ![](assets/image2014-9-23-15-3a45-3a53.png)
 
@@ -47,7 +46,7 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
    ![](assets/image2014-9-23-15-3a46-3a12.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/image2014-9-23-15-3a46-3a25.png)
 
@@ -55,13 +54,13 @@ Tags zijn kenmerken die uw programma&#39;s beschrijven en die worden gebruikt om
 
    ![](assets/image2014-9-23-15-3a46-3a35.png)
 
-## Een tag {#delete-a-tag} verwijderen
+## Een tag verwijderen  {#delete-a-tag}
 
-1. Ga naar **Setup** tabel. Klik met de rechtermuisknop op de tag en selecteer **Delete**.
+1. Ga naar de **Instellen** tab. Klik met de rechtermuisknop op de tag en selecteer **Verwijderen**.
 
    ![](assets/image2014-9-23-15-3a46-3a55.png)
 
-1. Klik **Verwijderen** om te bevestigen.
+1. Klikken **Verwijderen** ter bevestiging.
 
    ![](assets/image2014-9-23-15-3a47-3a8.png)
 

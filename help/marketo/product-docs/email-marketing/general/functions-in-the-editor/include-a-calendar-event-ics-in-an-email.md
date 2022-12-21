@@ -1,15 +1,14 @@
 ---
 unique-page-id: 1900565
-description: Neem een agendagebeurtenis (.ics) op in een e-mail - Marketo Docs - Productdocumentatie
+description: Een agendagebeurtenis (.ics) opnemen in een e-mail - Marketo Docs - Productdocumentatie
 title: Een agendagebeurtenis (.ics) opnemen in een e-mail
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
-
 
 # Een agendagebeurtenis (.ics) opnemen in een e-mail {#include-a-calendar-event-ics-in-an-email}
 
@@ -27,7 +26,7 @@ Met een token voor het kalenderbestand kunt u een agendagebeurtenis (.ics) toevo
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/three-5.png)
 

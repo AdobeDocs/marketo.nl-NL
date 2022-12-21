@@ -2,30 +2,29 @@
 unique-page-id: 2359510
 description: Een segmentatie verwijderen - Marketo Docs - Productdocumentatie
 title: Een segmentatie verwijderen
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-
-# Een segmentatie {#delete-a-segmentation} verwijderen
+# Een segmentatie verwijderen {#delete-a-segmentation}
 
 Een segmentatie kan worden verwijderd door de onderstaande stappen te volgen.
 
-1. Ga naar **Database**.
+1. Ga naar de **Database**.
 
    ![](assets/image2017-3-28-14-3a55-3a26.png)
 
-1. Ga naar uw segmentatie en klik op **Gebruikt door** om verenigingen te controleren.
+1. Ga naar de segmentatie en klik op **Gebruikt door** om verenigingen te controleren.
 
    ![](assets/image2017-3-28-15-3a51-3a8.png)
 
    Als de segmentatie wordt gebruikt door andere elementen, verwijdert u al die koppelingen voordat u verdergaat.
 
-1. Verwijder alle koppelingen en klik vervolgens in **Segmenteringsacties** op **Niet goedkeuren**.
+1. Alle koppelingen verwijderen en vervolgens in **Segmentatiehandelingen** klikken **Niet goedkeuren**.
 
    ![](assets/image2017-3-28-15-3a51-3a30.png)
 
@@ -33,7 +32,7 @@ Een segmentatie kan worden verwijderd door de onderstaande stappen te volgen.
    >
    >U kunt koppelingen verwijderen door alternatieven te verwijderen of te maken voor de elementen die de segmentatie gebruiken.
 
-1. Als de segmentatie niet is goedgekeurd, klikt u op **Segmenteringsacties** en verwijdert u de segmentatie.
+1. Als de bewerking niet is goedgekeurd, klikt u op **Segmentatiehandelingen** en verwijder de segmentatie.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 

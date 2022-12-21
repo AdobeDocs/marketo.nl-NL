@@ -2,28 +2,27 @@
 unique-page-id: 2359759
 description: Knop Sociale app aanpassen - Marketo Docs - Productdocumentatie
 title: De knop Sociale app aanpassen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
+# De knop Sociale app aanpassen {#customize-social-app-button}
 
-# Knop Sociale app {#customize-social-app-button} aanpassen
-
-Wanneer u een [sociale knoop](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) of een [verwijzingsaanbieding](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) creeert, kunt u de verschijning van de knopen aanpassen.
+Wanneer u een [sociale knop](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) of [verwijzingsaanbod](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)kunt u de weergave van de knoppen aanpassen.
 
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer de app en klik op **Concept** bewerken.
+1. Selecteer de app en klik op **Concept bewerken**.
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
-1. Ga in de sociale app-editor naar **App Settings** > **Button Styling** (of **Sign-Up Style,** voor verwijzingsaanbiedingen).
+1. Ga in de sociale-app-editor naar **App-instellingen** > **Knopstijl** (of **Aanmeldingsstijl,** voor voorstellen tot verwijzing).
 
    ![](assets/image2014-9-23-17-3a3-3a57.png)
 
@@ -37,7 +36,7 @@ Wanneer u een [sociale knoop](/help/marketo/product-docs/demand-generation/landi
 
    >[!NOTE]
    >
-   >Voor verwijzingsaanbiedingen, selecteer uw netwerken onder **2. Sign-Up Flow > Social Networks**.
+   >Voor verwijzingsaanbiedingen, selecteer uw netwerken onder **2. Sign Up Flow > Social Networks**.
 
 1. Kies een knoptype.
 
@@ -45,20 +44,20 @@ Wanneer u een [sociale knoop](/help/marketo/product-docs/demand-generation/landi
 
    >[!TIP]
    >
-   >Als u **Afbeeldingen uploaden onder Knopstijl** hierboven kiest, kunt u met de volgende secties knopafbeeldingen uploaden in plaats van de tekst te bewerken.
+   >Als u **Afbeeldingen uploaden onder Knopstijl** in de volgende secties kunt u knopafbeeldingen uploaden in plaats van de tekst te bewerken.
 
 1. Bewerk de labels voor de knop voordat en nadat u erop hebt geklikt.
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. Terwijl u elke keuze maakt, bekijkt u het resultaat in het venster **Beeld en bewerken**.
+1. Terwijl u elke keuze maakt, bekijkt u het resultaat in het dialoogvenster **Weergeven en bewerken** venster.
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->In een verwijzingsaanbieding, kunt u **Voortgang van het Spoor** knoop ook aanpassen. Ga naar **Toepassingsinstellingen** > **Voortgangsstijl bijhouden** en voer dezelfde stappen uit als hierboven.
+>In een verwijzingsvoorstel, kunt u ook aanpassen **Voortgang van track** knop. Ga naar **App-instellingen** > **Voortgangsstijl track** en voert u dezelfde stappen uit als hierboven.
 
 >[!MORELIKETHIS]
 >
->Voor een sociale knoop, [vorm wanneer het opent](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Voor een verwijzingsaanbieding, [specificeer het aanbiedingsdoel](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
+>Voor een sociale knop [configureren wanneer deze wordt geopend](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Voor een verwijzingsaanbod: [specificeer het aanbiedingsdoel](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).

@@ -2,22 +2,21 @@
 unique-page-id: 11380789
 description: Benoemde Account Dimension in RCA - Marketo Docs - Productdocumentatie
 title: Dimension van benoemde account in RCA
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
-
-# Benoemde Account Dimension in RCA {#named-account-dimension-in-rca}
+# Dimension van benoemde account in RCA {#named-account-dimension-in-rca}
 
 Bouw op opbrengst-gebaseerde rapporten gebruikend de TAM-specifieke Benoemde dimensie van de Rekening in de Analyse van de Cyclus van de Ontvangsten.
 
 >[!NOTE]
 >
->**Dimension** -kenmerken (weergegeven door gele stippen) die verschillende weergaven van de meetwaarden geven.
+>**Dimension** - kenmerken (weergegeven door gele stippen) die een verschillend beeld van de metingen geven.
 
 ![](assets/one-2.png)
 
@@ -34,7 +33,7 @@ De volgende rapporten hebben toegang tot de dimensie Benoemd account:
 
 >[!NOTE]
 >
->Hieronder volgen enkele voorbeelden van Marketo TAM in Revenue Cycle Analytics.
+>Hieronder volgen enkele voorbeelden van Marketo TAM in de Analytics van de Belastingcyclus.
 
 Pipetversnelling binnen benoemde accounts
 

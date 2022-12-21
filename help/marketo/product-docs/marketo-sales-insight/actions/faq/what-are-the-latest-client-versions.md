@@ -17,23 +17,23 @@ Hieronder staan de nieuwste versies voor alle clients van Handelingen voor het t
  <tbody> 
   <tr> 
    <td><strong>Gmail</strong></td> 
-   <td>8,6,33</td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
    <td><strong>Chroom</strong></td> 
-   <td>8,6,33</td> 
+   <td>8.6.33</td> 
   </tr> 
   <tr> 
    <td><strong>Outlook Windows</strong></td> 
-   <td>2.1.3.</td> 
+   <td>2.1.3</td> 
   </tr> 
   <tr> 
    <td><strong>Outlook Mac</strong></td> 
-   <td>2.1.3.</td> 
+   <td>2.1.3</td> 
   </tr> 
   <tr> 
    <td><strong>Outlook 365</strong></td> 
-   <td>2.1.3.</td> 
+   <td>2.1.3</td> 
   </tr> 
  </tbody> 
 </table>

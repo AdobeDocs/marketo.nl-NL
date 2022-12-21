@@ -1,15 +1,14 @@
 ---
 unique-page-id: 42762825
-description: Het gebruiken van Bulkacties in Salesforce Bliksem - Marketo Docs - de Documentatie van het Product
+description: Bulkacties gebruiken in Salesforce Lightning - Marketo Docs - Productdocumentatie
 title: Bulkhandelingen gebruiken in Salesforce Lightning
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
 
 ---
-
 
 # Bulkhandelingen gebruiken in Salesforce Lightning {#using-bulk-actions-in-salesforce-lightning}
 
@@ -23,9 +22,9 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 >
 >Controleer voordat u de onderstaande stappen uitvoert of u bent aangemeld bij uw Marketo Sales Connect-account.
 
-## E-mailadres {#bulk-email} opheffen
+## Bulkmail {#bulk-email}
 
-1. Klik in Salesforce op het tabblad **Regelafstand** en kies vervolgens de lijst met gewenste leads.
+1. Klik in Salesforce op de knop **Leads** en kiest u vervolgens de lijst met de gewenste leads.
 
    ![](assets/one-6.png)
 
@@ -33,7 +32,7 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
    >
    >Als u reeds op de lijst bent u zult gebruiken, zult u het opnieuw moeten uitvoeren door het van drop-down te kiezen om de MSC bulkactieknopen te verzekeren verschijnen. Dit is Salesforce-gedrag dat niet kan worden gewijzigd.
 
-1. Klik de pijldrop-down (op uiterst rechts van het scherm) en selecteer **E-mail met MSC**.
+1. Klik op de pijl in de vervolgkeuzelijst (uiterst rechts op het scherm) en selecteer **E-mailen met MSC**.
 
    ![](assets/two-6.png)
 
@@ -48,29 +47,29 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 
 ## Toevoegen aan campagne {#add-to-campaign}
 
-1. Klik in Salesforce op het tabblad **Regelafstand** en kies vervolgens de lijst met gewenste leads.
+1. Klik in Salesforce op de knop **Leads** en kiest u vervolgens de lijst met de gewenste leads.
 
    ![](assets/four-4.png)
 
-1. Klik de pijldrop-down (op uiterst rechts van het scherm) en selecteer **toevoegen aan Campagne MSC**.
+1. Klik op de pijl in de vervolgkeuzelijst (uiterst rechts op het scherm) en selecteer **Toevoegen aan MSC-campagne**.
 
    ![](assets/five-4.png)
 
-1. Het pop-upvenster Personen toevoegen aan uw campagne wordt weergegeven. Klik **Volgende** en ga door de typische campagnestroom om een campagne MSC teweeg te brengen.
+1. Het pop-upvenster Personen toevoegen aan uw campagne wordt weergegeven. Klikken **Volgende** en doorloopt de typische campagnestroom om een MSC-campagne te starten.
 
    ![](assets/six-1.png)
 
-## Druk op Marketo Sales Connect {#push-to-marketo-sales-connect}
+## Push to Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. Klik in Salesforce op het tabblad **Regelafstand** en kies vervolgens de lijst met gewenste leads.
+1. Klik in Salesforce op de knop **Leads** en kiest u vervolgens de lijst met de gewenste leads.
 
    ![](assets/seven-2.png)
 
-1. Klik op de vervolgkeuzelijst met pijlen (uiterst rechts op het scherm) en selecteer **Naar MSC** duwen.
+1. Klik op de pijl in de vervolgkeuzelijst (uiterst rechts op het scherm) en selecteer **Naar MSC duwen**.
 
    ![](assets/eight-2.png)
 
-1. Er wordt een nieuw tabblad met de naam &quot;Salesforce Bridge&quot; geopend. Klik op de knop **Ga naar groep →**.
+1. Er wordt een nieuw tabblad met de naam &quot;Salesforce Bridge&quot; geopend. Klik op de knop **Ga door naar groep →** knop.
 
    ![](assets/nine-2.png)
 

@@ -1,23 +1,22 @@
 ---
 unique-page-id: 14352407
-description: Overzicht van het leveringskanaal - Marketo Docs - Productdocumentatie
+description: Leveringskanaaloverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van leveringskanaal
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
 
 ---
 
-
-# Overzicht leveringskanaal {#delivery-channel-overview}
+# Overzicht van leveringskanaal {#delivery-channel-overview}
 
 Marketo Sales Connect biedt u meerdere opties voor het verzenden van e-mails. In dit artikel worden de leveringskanalen besproken die u kunt benutten, hoe u deze kunt selecteren en wanneer u elkaar kunt kiezen.
 
 ## Aanbevolen: Gmail of Exchange via e-mailverbinding {#recommended-gmail-or-exchange-via-email-connection}
 
-Met Sales Connect kunt u een gestroomlijnde installatie en de verbeterde leveringsmogelijkheden tot stand brengen via onze E-mailverbindingsservice. Met de e-mailverbinding kan elke gebruiker verbinding maken met zijn [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)- of [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)-account bij Sales Connect om te worden gebruikt als het leveringskanaal voor alle e-mails van Sales Connect.
+Met Sales Connect kunt u een gestroomlijnde installatie en de verbeterde leveringsmogelijkheden tot stand brengen via onze E-mailverbindingsservice. Met de e-mailverbinding kan elke gebruiker verbinding maken met zijn [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) of [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) account bij Sales Connect gebruiken als het leveringskanaal voor alle e-mails van Sales Connect.
 
 Het gebruiken van Gmail of Uitwisseling komt met sommige duidelijke voordelen over andere opties van het leveringskanaal:
 
@@ -25,7 +24,7 @@ Het gebruiken van Gmail of Uitwisseling komt met sommige duidelijke voordelen ov
 * De methodes van de authentificatie zoals SPF en DKIM worden reeds gevormd en beheerd door uw team van IT, zodat is er geen extra opstelling.
 * Het verzenden van e-mailberichten binnen een bepaald e-mailnetwerk (dat wil zeggen, het verzenden van een e-mailbericht als Exchange-gebruiker naar een bedrijf dat e-mails ontvangt via Exchange) kan de leverbaarheid verder verbeteren.
 
-Het is belangrijk om op te merken dat deze leveringskanalen hun eigen verzendende grenzen hebben die door Microsoft en Google worden afgedwongen. Om dit te bestrijden, gebruiken wij een vertragingsmechanisme om gebruikers te helpen binnen die grenzen blijven. Meer informatie over [e-mailvertraging hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+Het is belangrijk om op te merken dat deze leveringskanalen hun eigen verzendingsgrenzen hebben die door Microsoft en Google worden afgedwongen. Om dit te bestrijden, gebruiken wij een vertragingsmechanisme om gebruikers te helpen binnen die grenzen blijven. Meer informatie over [e-mailvertraging hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >
@@ -47,9 +46,9 @@ MSC-servers zijn alleen beschikbaar voor sommige klanten van Legacy ToutApp. Die
 
 MSC-servers bieden geen ondersteuning voor DKIM- en SPF-verificatiemethoden, waardoor de snelheid van de te leveren items kan worden verlaagd. Daarom raden we aan dat alle klanten verbinding maken met Gmail of Outlook voor de beste leverbaarheid.
 
-## Markeringsservers {#marketo-servers}
+## Marketo-servers {#marketo-servers}
 
-Marketo-e-mailservers zijn niet geïntegreerd met Sales Connect. Marketo-servers zijn geoptimaliseerd voor bulklevering zodat ze kunnen schalen met de behoeften van marketeers. Nochtans, hebben Gmail en Uitwisseling een hogere succestarief voor 1:1 verkoopmededeling, die is waarom wij adviseren gebruikend deze servers voor uw verkoopmededeling.
+Marketo e-mailservers zijn niet geïntegreerd met Sales Connect. Marketo-servers zijn geoptimaliseerd voor bulkbezorging zodat ze kunnen worden geschaald met de behoeften van marketeers. Nochtans, hebben Gmail en Uitwisseling een hogere succestarief voor 1:1 verkoopmededeling, die is waarom wij adviseren gebruikend deze servers voor uw verkoopmededeling.
 
 >[!MORELIKETHIS]
 >

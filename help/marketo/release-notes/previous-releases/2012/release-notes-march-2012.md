@@ -18,7 +18,7 @@ Mijn tokens (Program Tokens) worden verwerkt wanneer een voorbeeld van een e-mai
 
 ## Schakelen tussen de voorvertoningsfunctie en de Editor in e-mails en bestemmingspagina&#39;s {#toggle-between-previewer-and-editor-in-emails-and-landing-pages}
 
-Met één muisklik kunt u gemakkelijk heen en weer gaan tussen de Editor en de Previewer.
+Met één muisklik kunt u gemakkelijk heen en weer gaan tussen de Editor en de voorvertoning.
 
 Editor voor voorvertoning:
 

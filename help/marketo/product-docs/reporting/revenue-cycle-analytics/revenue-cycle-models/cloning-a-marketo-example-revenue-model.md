@@ -1,25 +1,24 @@
 ---
 unique-page-id: 4718677
-description: Het klonen van een Model van de Inkomsten van het Marketo-Voorbeeld - Marketo Docs - de Documentatie van het Product
-title: Het klonen van een Model van de Inkomsten van het Marketo Voorbeeld
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+description: Een model voor Marketo-voorbeeldinkomsten klonen - Marketo Docs - Productdocumentatie
+title: Een Marketo-model met voorbeeldopbrengsten klonen
+exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-
-# Opbrengstmodel {#cloning-a-marketo-example-revenue-model} klonen voor een Marketo-voorbeeld
+# Een Marketo-model met voorbeeldopbrengsten klonen {#cloning-a-marketo-example-revenue-model}
 
 Marketo heeft voorbeelden van inkomstenmodellen om u te inspireren. Kloon deze modellen en maak ze zelf. Hieronder wordt beschreven hoe:
 
-1. Ga naar het gebied **Analytics**.
+1. Ga naar de **Analyse** gebied.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Selecteer **Opbrengstcyclusmodel** map en klik op **Marketo Examples**.
+1. Selecteren **Revenue Cycle Modeler** en klik op **Marketo-voorbeelden**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -27,11 +26,11 @@ Marketo heeft voorbeelden van inkomstenmodellen om u te inspireren. Kloon deze m
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. Selecteer **Kloonmodel** in Modelhandelingen.
+1. Selecteer bij Modelhandelingen de optie **Kloonmodel**.
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Voer een **Naam** in en klik op **Klonen**.
+1. Voer een **Naam** en klik op **Klonen**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 

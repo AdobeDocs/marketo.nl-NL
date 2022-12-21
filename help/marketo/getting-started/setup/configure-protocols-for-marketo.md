@@ -70,7 +70,8 @@ Als uw marketinggroep Marketo gebruikt om teste-mails te verzenden (een aanbevol
 Voeg deze IP adressen aan uw collectieve lijst van gewenste personen toe:
 
 199.15.212.0/22\
-192.28.144.0/20 192.28.160.0/19\
+192.28.144.0/20
+192.28.160.0/19\
 185.28.196.0/22\
 130.248.172.0/24\
 130.248.173.0/24\
@@ -163,40 +164,40 @@ De volgende lijsten behandelen alle servers van Marketo Engage die uitgaande vra
    <th>Individueel IP adres</th>
   </tr>
   <tr>
-   <td>54 212 167,17</td>
+   <td>54.212.167.17</td>
   </tr>
    <tr>
-   <td>44 235 171 179</td>
+   <td>44.235.171.179</td>
   </tr>
    <tr>
-   <td>35 165 244 220</td>
+   <td>35.165.244.220</td>
   </tr>
    <tr>
-   <td>52.20.211,99</td>
+   <td>52.20.211.99</td>
   </tr>
    <tr>
-   <td>54 237 141 197</td>
+   <td>54.237.141.197</td>
   </tr>
   <tr>
-   <td>54 160 246 246</td>
+   <td>54.160.246.246</td>
   </tr>
    <tr>
-   <td>18.200.2011.81</td>
+   <td>18.200.201.81</td>
   </tr>
   <tr>
-   <td>34 247 24 245</td>
+   <td>34.247.24.245</td>
   </tr>
    <tr>
-   <td>54 220 138,65</td>
+   <td>54.220.138.65</td>
   </tr>
   <tr>
-   <td>13.237.155.2007</td>
+   <td>13.237.155.207</td>
   </tr>
    <tr>
-   <td>13.5.192.247</td>
+   <td>13.55.192.247</td>
   </tr>
   <tr>
-   <td>52 64 109,86</td>
+   <td>52.64.109.86</td>
   </tr>
  </tbody>
 </table>

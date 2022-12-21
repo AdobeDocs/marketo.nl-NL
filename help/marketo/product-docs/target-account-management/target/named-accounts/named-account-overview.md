@@ -2,14 +2,13 @@
 unique-page-id: 11378809
 description: Overzicht benoemde account - Marketo Docs - Productdocumentatie
 title: Overzicht benoemde account
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
-
 
 # Overzicht benoemde account {#named-account-overview}
 
@@ -27,7 +26,7 @@ De genoemde Rekeningen houden de mensen van de bedrijven u richt. Het dashboard 
 >
 >Marketo geeft alle CRM-gebruikers weer die in Marketo zijn gesynchroniseerd als filterwaarden van &quot;Account Owner&quot; of &quot;Member of Account Team&quot;.
 
-## Benoemde accountkenmerken {#named-account-attributes}
+## Kenmerken benoemde account {#named-account-attributes}
 
 <table> 
  <tbody> 
@@ -56,12 +55,12 @@ De genoemde Rekeningen houden de mensen van de bedrijven u richt. Het dashboard 
    <td>Domein van benoemde account (bijvoorbeeld marketo.com)</td> 
   </tr> 
   <tr> 
-   <td><strong>Industrie</strong></td> 
+   <td><strong>Marktsegment</strong></td> 
    <td>Type bedrijfstak toegekend aan Benoemde Rekening</td> 
   </tr> 
   <tr> 
    <td><strong>SIC-code</strong></td> 
-   <td><span><strong></strong>Standard  <strong></strong>Industrial  <strong></strong>Classification - code van vier cijfers voor de indeling van industrieën<br></span></td> 
+   <td><span><strong>S</strong>tandaard <strong>I</strong>industrieel <strong>C</strong>Indeling - code van vier cijfers voor de indeling van industrieën<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Ontvangsten</strong></td> 
@@ -76,7 +75,7 @@ De genoemde Rekeningen houden de mensen van de bedrijven u richt. Het dashboard 
    <td colspan="1">Geaggregeerde leadscores van meerdere leads om score op accountniveau te behalen</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Plaats</strong></td> 
+   <td colspan="1"><strong>Stad</strong></td> 
    <td colspan="1">Plaats van benoemde account</td> 
   </tr> 
   <tr> 

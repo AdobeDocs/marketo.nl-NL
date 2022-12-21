@@ -1,19 +1,18 @@
 ---
 unique-page-id: 14352514
-description: Hoe Verkoop Connect de-duplicatie van e-mail - Marketo Docs - Productdocumentatie behandelt
+description: Hoe Sales Connect de E-mail dedupliceren - Marketo Docs - Productdocumentatie behandelt
 title: Hoe Verkoop Connect het uit-duwen van e-mail behandelt
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
+# Hoe Verkoop Connect het uit-duwen van e-mail behandelt {#how-sales-connect-handles-email-de-duping}
 
-# Hoe Verkoop Connect het uit-duwen van e-mail {#how-sales-connect-handles-email-de-duping} behandelt
-
-Wanneer u [een CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) dossier in Verkoop verbindt uploadt, voegen wij allen als contacten in CSV samen alvorens de invoer plaatsvindt.
+Als je [CSV uploaden](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) in Sales Connect samenvoegen, worden alle contactpersonen in de CSV samengevoegd voordat het importeren plaatsvindt.
 
 Dit doen we op basis van hetzelfde e-mailadres. Dus als er twee identieke e-mailadressen zijn, voegen we deze samen tot één contactpersoon.
 

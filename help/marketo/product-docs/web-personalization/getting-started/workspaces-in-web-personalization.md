@@ -2,20 +2,19 @@
 unique-page-id: 17727499
 description: Werkruimten in webpersonalisatie - Marketo Docs - Productdocumentatie
 title: Werkruimten in webpersonalisatie
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-
 # Werkruimten in webpersonalisatie {#workspaces-in-web-personalization}
 
 De Personalisering van het Web steunt veelvoudige werkruimten voor Webcampagnes en Websegmenten.
 
-## Schakelen tussen werkruimten {#switch-workspaces}
+## Werkruimten wisselen {#switch-workspaces}
 
 Als u wilt schakelen tussen werkruimten in webpersonalisatie, klikt u op het pictogram van de bol linksboven en kiest u een andere werkruimte in het keuzemenu.
 
@@ -23,11 +22,11 @@ Als u wilt schakelen tussen werkruimten in webpersonalisatie, klikt u op het pic
 
 ## De werkruimte van een segment wijzigen {#change-a-segments-workspace}
 
-1. Ga naar de **pagina Segmenten**, selecteer een segment en klik op het bewerkingspictogram.
+1. Ga naar de **Segmenten** selecteert u een segment en klikt u op het pictogram Bewerken.
 
    ![](assets/ss4.png)
 
-1. Selecteer een andere werkruimte in de vervolgkeuzelijst **Werkruimte**.
+1. Selecteer een andere werkruimte in het menu **Werkruimte** vervolgkeuzelijst.
 
    ![](assets/ss6.png)
 
@@ -35,4 +34,4 @@ Als u wilt schakelen tussen werkruimten in webpersonalisatie, klikt u op het pic
 
 >[!NOTE]
 >
->Gebruikers kunnen alleen webcampagnes en -segmenten bekijken die zijn gekoppeld aan de werkruimten waartoe zij toegang hebben. Hieronder wordt beschreven hoe u een gebruiker [toegang geeft tot een of meer werkruimten](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).
+>Gebruikers kunnen alleen webcampagnes en -segmenten bekijken die zijn gekoppeld aan de werkruimten waartoe zij toegang hebben. Dit is hoe te [een gebruiker toegang geven tot een of meer werkruimten](/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md).

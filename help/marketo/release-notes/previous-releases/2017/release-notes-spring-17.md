@@ -18,9 +18,9 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 ## [linkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[linkedIn-leider-generaal ](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) Formsare is een directere manier voor een bedrijf om leidende generatiecampagnes op LinkedIn te voeren. Mensen kunnen formulieren invullen om belangstelling voor een product of service uit te drukken, zodat het bedrijf de gegevens van de persoon kan vastleggen en deze kan synchroniseren met Marketo, waar geautomatiseerde follow-upprocessen en routering van leads kunnen plaatsvinden.
+[linkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) zijn een directere manier voor een bedrijf om leidende generatiecampagnes op LinkedIn te leiden. Mensen kunnen formulieren invullen om belangstelling voor een product of service uit te drukken, zodat het bedrijf de gegevens van de persoon kan vastleggen en deze kan synchroniseren met Marketo, waar geautomatiseerde follow-upprocessen en routering van leads kunnen plaatsvinden.
 
-De Marketo-integratie met LinkedIn Lead Gen Forms legt automatisch de informatie vast die een lead verschaft in het Lead Gen-formulier. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe **trigger en filter van LinkedIn Lead Gen Form** invullen.
+De Marketo-integratie met LinkedIn Lead Gen Forms legt automatisch de informatie vast die een lead verschaft in het Lead Gen-formulier. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe **Vult LinkedIn Lead Gen Form uit** activeren en filteren.
 
 ![](assets/release-notes-image.png)
 

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2950549
-description: Vorm sociaal Aanbevolen Stroom - Marketo Docs - de Documentatie van het Product
+description: De sociaal aanbevolen stroom configureren - Marketo Docs - Productdocumentatie
 title: Vorm Sociale Aanbevolen Stroom
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '515'
 ht-degree: 0%
 
 ---
 
-
-# De sociaal aanbevolen stroom configureren {#configure-social-recommend-flow}
+# Vorm Sociale Aanbevolen Stroom {#configure-social-recommend-flow}
 
 Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk configureren en aangeven dat een gebruiker een melding krijgt wanneer hij of zij zich aanmeldt.
 
@@ -19,17 +18,17 @@ Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk confi
 
 >[!NOTE]
 >
->Dit lijkt erg op [het configureren van de flow voor aanmelden/delen via sociale media](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md), maar dit geldt voor de koppelingen _onder_ in de sociale app.
+>Dit lijkt sterk op [configureren van de workflow voor sociale inloggen/delen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md), maar dit geldt voor de deelkoppelingen _krachtens_ de sociale app.
 
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer de app en klik op **Concept** bewerken.
+1. Selecteer de app en klik op **Concept bewerken**.
 
    ![](assets/image2014-9-22-11-3a51-3a6.png)
 
-1. Ga in de sociale app-editor naar **Aanbevolen stroom** > **Sociale netwerken**.
+1. Ga in de sociale-app-editor naar **Stroom aanbevelen** > **Sociale netwerken**.
 
    ![](assets/recommendedflow.png)
 
@@ -37,7 +36,7 @@ Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk confi
 
    ![](assets/socialnetworkschoose.png)
 
-## Het Facebook-bericht {#configure-the-facebook-message} configureren
+## Facebook-bericht configureren {#configure-the-facebook-message}
 
 1. Configureer het bericht dat in Facebook-berichten wordt weergegeven.
 
@@ -47,23 +46,23 @@ Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk confi
    >
    >In een gedeelde video wordt de miniatuur automatisch gegenereerd.
 
-   Als u **Dynamische inhoud toevoegen** kiest, worden de waarden van de OpenGraph-tags van de pagina (og:title, og:caption en og:description) en de miniaturen automatisch toegevoegd aan Facebook-berichten. Zie de volgende stap.
+   Als u **Dynamische inhoud toevoegen** De waarden van de OpenGraph-tags van de pagina (og:title, og:caption en og:description) en de miniaturen worden automatisch toegevoegd aan Facebook-posts. Zie de volgende stap.
 
-   Als u **Statische inhoud toevoegen** kiest, ga de titel, de titel, de titel, en de beschrijving in, en upload een beeld. Zie de volgende twee stappen.
+   Als u **Statische inhoud toevoegen**, voert u de titel, het bijschrift en de beschrijving in en uploadt u een afbeelding. Zie de volgende twee stappen.
 
-1. Klik in het venster Beeld en bewerken op **Bewerkingen tonen** om de gedeelde vraag en het bericht dat in Facebook-berichten wordt weergegeven, aan te passen.
+1. Klik in het venster Weergave en bewerken op **Bewerkingen tonen** om de gedeelde vraag en het bericht aan te passen dat in Facebook-berichten wordt weergegeven.
 
    >[!TIP]
    >
-   >Zie [Instellingen voor Facebook Rich Post bewerken](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md) voor meer informatie.
+   >Zie voor meer informatie [Facebook Rich Post-instellingen bewerken](/help/marketo/product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md).
 
    ![](assets/image2014-9-22-11-3a54-3a36.png)
 
    >[!NOTE]
    >
-   >De [share URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) wordt automatisch toegevoegd aan alle gedeelde berichten.
+   >De [delen, URL](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) wordt automatisch toegevoegd aan alle gedeelde berichten.
 
-1. Als u **Statische inhoud toevoegen** hierboven kiest, bewerkt u de titel, het bijschrift en de beschrijving en uploadt u een aangepaste afbeelding (van uw Marketo-afbeeldingen en -bestanden).
+1. Als u **Statische inhoud toevoegen** hierboven bewerkt u de titel, het bijschrift en de beschrijving en uploadt u een aangepaste afbeelding (van uw Marketo-afbeeldingen en -bestanden).
 
    ![](assets/image2014-9-22-11-3a55-3a14.png)
 
@@ -73,13 +72,13 @@ Wanneer u een sociale app maakt, kunt u de keuzes voor het sociale netwerk confi
    >
    >Als u een afbeelding uploadt, wordt deze hier pas weergegeven wanneer u de editor voor de sociale app sluit en weer opent.
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
-Indien u dit wenst, worden de waarden van de OpenGraph-tags van de pagina (og:title, og:caption en og:description) en de miniaturen automatisch toegevoegd aan Facebook-berichten. Zie de volgende stap.
+Desgewenst worden de waarden van de OpenGraph-tags van de pagina (og:title, og:caption en og:description) en de miniaturen automatisch toegevoegd aan Facebook-posts. Zie de volgende stap.
 
-## Twitter-bericht {#configure-the-twitter-message} configureren
+## Twitter-bericht configureren {#configure-the-twitter-message}
 
-1. Klik hierop om de gedeelde vraag en het bericht dat in Twitter-tweets wordt weergegeven, te bewerken.
+1. Klik om de gedeelde vraag en het bericht te bewerken die in Twitter-tweets worden weergegeven.
 
    ![](assets/image2014-9-22-12-3a2-3a40.png)
 
@@ -87,19 +86,19 @@ Indien u dit wenst, worden de waarden van de OpenGraph-tags van de pagina (og:ti
    >
    >Gebruik {html_title} in de tweetekst om de titel van de pagina automatisch weer te geven.
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
-## Vorm het Bericht LinkedIn {#configure-the-linkedin-message}
+## LinkedIn-bericht configureren {#configure-the-linkedin-message}
 
-1. Vorm het bericht dat in posten LinkedIn zal verschijnen.
+1. Configureer het bericht dat in LinkedIn-berichten wordt weergegeven.
 
    ![](assets/image2014-9-22-12-3a3-3a21.png)
 
-   Als u **Dynamische**-inhoud toevoegen kiest, worden de waarden van de paginatags (titel en beschrijving) en de miniatuur automatisch toegevoegd aan LinkedIn-posts. Zie de volgende stap.
+   Als u **Dynamisch toevoegen** de inhoud, de waarden van de paginatags (titel en beschrijving) en de miniaturen worden automatisch toegevoegd aan LinkedIn-advertenties. Zie de volgende stap.
 
-   Als u **Statische**-inhoud toevoegt, voert u de titel, het bijschrift en de beschrijving in en uploadt u een afbeelding. Zie de volgende twee stappen.
+   Als u **Statisch toevoegen** , voert u de titel, het bijschrift en de beschrijving in en uploadt u een afbeelding. Zie de volgende twee stappen.
 
-1. Klik in het venster **Weergave &amp; bewerking** op **Bewerkingen tonen** en bewerk de gedeelde vraag en het bericht dat wordt weergegeven in LinkedIn-posts.
+1. In de **Weergeven en bewerken** venster, klikt u op **Bewerkingen tonen** en bewerk de gedeelde vraag en het bericht dat in LinkedIn-berichten wordt weergegeven.
 
    ![](assets/image2014-9-22-12-3a3-3a38.png)
 
@@ -107,7 +106,7 @@ Indien u dit wenst, worden de waarden van de OpenGraph-tags van de pagina (og:ti
    >
    >Gebruik {html_title} in de berichttekst om de titel van de pagina automatisch weer te geven.
 
-1. Als u **Statische**-inhoud toevoegen hebt gekozen, bewerkt u de titel en beschrijving en uploadt u een aangepaste afbeelding (van uw Marketo-afbeeldingen en -bestanden).
+1. Als u **Statisch toevoegen** hierboven, bewerkt u de titel en beschrijving en uploadt u een aangepaste afbeelding (van uw Marketo-afbeeldingen en -bestanden).
 
    ![](assets/image2014-9-22-12-3a4-3a43.png)
 
@@ -117,18 +116,18 @@ Indien u dit wenst, worden de waarden van de OpenGraph-tags van de pagina (og:ti
    >
    >Als u een afbeelding uploadt, wordt deze hier pas weergegeven wanneer u de editor voor de sociale app sluit en weer opent.
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
-## Bevestigingsbericht {#configure-the-confirmation-message} configureren
+## Het bevestigingsbericht configureren {#configure-the-confirmation-message}
 
 1. Bewerk de tekst van de deelbevestiging.
 
    ![](assets/image2014-9-22-12-3a5-3a30.png)
 
-1. Klik **Voltooien** > **Goedkeuren** en **Sluiten**.
+1. Klikken **Voltooien** > **Goedkeuren** en **Sluiten**.
 
    ![](assets/image2014-9-22-12-3a5-3a45.png)
 
 >[!MORELIKETHIS]
 >
->De volgende stap bestaat uit het toevoegen van [uw video delen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) of [opiniepeiling](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) aan een openingspagina, Facebook of uw eigen website.
+>De volgende stap is: [uw video delen toevoegen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) of [opiniepeiling](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md) naar een openingspagina, Facebook of uw eigen website.

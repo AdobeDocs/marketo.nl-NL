@@ -1,21 +1,20 @@
 ---
 unique-page-id: 3571900
-description: Overzicht van de Personalisatie van het Web - Marketo Docs - de Documentatie van het Product
+description: Overzicht van webpersonalisatie - Marketo Docs - Productdocumentatie
 title: Overzicht van webpersonalisatie
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
 
 ---
 
-
 # Overzicht van webpersonalisatie {#web-personalization-overview}
 
 ## Inleiding {#introduction}
 
-Voor nieuwe klanten van Marketo, in real time Personalization wordt verdeeld in vier apps, betreden gebruikend deze twee tegels: Web Personalization and ContentAI.
+Voor nieuwe Marketo-klanten wordt &#39;Real-Time Personalization&#39; verdeeld in vier apps, die u kunt openen met behulp van deze twee blokken: Web Personalization and ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
@@ -36,13 +35,13 @@ De vier toepassingen zijn:
 * Opnieuw plaatsen van website
 * ContentAI
 
-De **Web Personalization** tegel is uw toegangspunt voor het creëren van gepersonaliseerde Webcampagnes. Op account-gebaseerde webmarketing en het opnieuw samenstellen van het web. U kunt inhoud toevoegen op de pagina Inhoud analyseren.
+De **Webpersonalisatie** de tegel is uw toegangspunt voor het creëren van gepersonaliseerde Webcampagnes. Op account-gebaseerde webmarketing en het opnieuw samenstellen van het web. U kunt inhoud toevoegen op de pagina Inhoud analyseren.
 
-**Account-based Web** Marketingworks met webpersonalisatie en functies met de naam Accounts. De pagina Benoemde accounts biedt grafische informatie over bestaande klanten, totale contracten en trends in de organisatie, en een lijst met accounts. U kunt daar ook nieuwe benoemde accounts maken.
+**Webmarketing op basis van account** Werkt met de Personalisatie van het Web en kenmerkt Benoemde Rekeningen. De pagina Benoemde accounts biedt grafische informatie over bestaande klanten, totale contracten en trends in de organisatie, en een lijst met accounts. U kunt daar ook nieuwe benoemde accounts maken.
 
-**Met Website** Retargetinging kunt u opnieuw markten openen voor gesegmenteerde doelgroepen. U kunt segmenten instellen, maar u kunt benoemde accounts niet gebruiken in het filter.
+**Opnieuw plaatsen van website** geeft u de macht om aan gesegmenteerd publiek opnieuw op de markt te brengen. U kunt segmenten instellen, maar u kunt benoemde accounts niet gebruiken in het filter.
 
-**** ContentAI is de plaats om inhoudaanbevelingen te geven. U kunt inhoud eenvoudig toevoegen aan de Recommendations-pagina Inhoud.
+**ContentAI** is de plaats om inhoudelijke aanbevelingen te doen. U kunt inhoud eenvoudig toevoegen aan de Recommendations-pagina Inhoud.
 
 >[!NOTE]
 >
@@ -70,7 +69,7 @@ Het rechterdeelvenster van de pagina Organisaties bevat de volgende functies en 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Werkbladpictogram</strong>: Rechtsboven in het deelvenster bevindt het pictogram zich en downloadt de tabel Organisaties in CSV-indeling voor offline gebruik</p><p><strong>E-mailwaarschuwing</strong> instellen: Hiermee stuurt u de aangemelde gebruiker een e-mail telkens wanneer de geselecteerde organisatie de website bezoekt</p><p><strong>Leads</strong>: Hiermee opent u de lijst met leads voor de geselecteerde organisatie</p><p><strong>Delen</strong>: Hiermee opent u een pop-upvenster waarin u de gegevens kunt delen van de organisatie die de webpagina heeft bezocht</p><p><strong>Locatiepictogram</strong>: Hiermee geeft u het land en de plaats van de geselecteerde organisatie weer</p><p><strong>Koppelingen</strong>: Jigzaag, Wiis, Linkedin, Google, Twitter opent een nieuw venster met aanvullende informatie van de respectievelijke webpagina met extra inzicht in de geselecteerde organisatie</p><p><strong>Zoeken</strong>: Hiermee geeft u het gebruikte trefwoord weer als de bezoeker via een zoekprogramma is aangekomen</p><p><strong>Referenties</strong>: Toont de verbinding URL van de pagina die het verkeer naar uw plaats verwees</p><p><strong>Bezoekers</strong>: Hier worden het aantal bezoeken, het aantal pagina's dat door de geselecteerde organisatie wordt weergegeven en hun e-mailadres (als ze een verzendformulier hebben ingevuld) en de tijd en datum van het laatste bezoek weergegeven</p><p><strong>Klikstream</strong>: Hiermee geeft u een tabel weer met de gebruikersactiviteit en het URL-pad op de site en hoe lang de gebruikers elke pagina hebben bezocht</p></td> 
+   <td><p><strong>Werkbladpictogram</strong>: Rechtsboven in het deelvenster bevindt het pictogram zich en downloadt de tabel Organisaties in CSV-indeling voor offline gebruik</p><p><strong>E-mailwaarschuwing instellen</strong>: Hiermee stuurt u de aangemelde gebruiker een e-mail telkens wanneer de geselecteerde organisatie de website bezoekt</p><p><strong>Leads</strong>: Hiermee opent u de lijst met leads voor de geselecteerde organisatie</p><p><strong>Delen</strong>: Hiermee opent u een pop-upvenster waarin u de gegevens kunt delen van de organisatie die de webpagina heeft bezocht</p><p><strong>Locatiepictogram</strong>: Hiermee geeft u het land en de plaats van de geselecteerde organisatie weer</p><p><strong>Koppelingen</strong>: Jigzaag, Wiis, Linkedin, Google, Twitter opent een nieuw venster met aanvullende informatie van de respectieve webpagina die extra inzicht biedt in de geselecteerde organisatie</p><p><strong>Zoeken</strong>: Hiermee geeft u het gebruikte trefwoord weer als de bezoeker via een zoekprogramma is aangekomen</p><p><strong>Referenties</strong>: Toont de verbinding URL van de pagina die het verkeer naar uw plaats verwees</p><p><strong>Bezoekers</strong>: Hier worden het aantal bezoeken, het aantal pagina's dat door de geselecteerde organisatie wordt weergegeven en hun e-mailadres (als ze een verzendformulier hebben ingevuld) en de tijd en datum van het laatste bezoek weergegeven</p><p><strong>Clickstream</strong>: Hiermee geeft u een tabel weer met de gebruikersactiviteit en het URL-pad op de site en hoe lang de gebruikers elke pagina hebben bezocht</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 
@@ -120,7 +119,7 @@ Het rechterdeelvenster van de pagina Bezoekers biedt de volgende inzichten:
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Clickstream</strong></td> 
-   <td colspan="1" rowspan="1">Hiermee geeft u een tabel weer met de activiteit en het URL-pad van de bezoeker op de site en de duur van de bezochte pagina</td> 
+   <td colspan="1" rowspan="1">Hiermee geeft u een tabel weer met de activiteit en het URL-pad van de bezoeker op de site en de duur van het bezoek aan elke pagina</td> 
   </tr> 
  </tbody> 
 </table>

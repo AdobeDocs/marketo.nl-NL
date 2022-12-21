@@ -16,7 +16,7 @@ Met Marketo kunt u uw programma&#39;s synchroniseren met Salesforce-campagnes om
 
 >[!PREREQUISITES]
 >
->U moet eerst [de campagnecsync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) van Salesforce inschakelen.
+>U moet [Salesforce-campagnecorrectie inschakelen](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md) eerst.
 
 >[!CAUTION]
 >
@@ -30,15 +30,15 @@ Met Marketo kunt u uw programma&#39;s synchroniseren met Salesforce-campagnes om
 
    ![](assets/image2015-7-22-8-3a47-3a28.png)
 
-1. Klik **Program Actions**, dan selecteer **Salesforce Campagne Sync**.
+1. Klikken **Programmaacties** selecteert u vervolgens **Salesforce Campaign Sync**.
 
    ![](assets/image2015-7-22-8-3a48-3a5.png)
 
-1. Selecteer **Nieuw maken** of kies een bestaande Salesforce-campagne.
+1. Selecteren **Nieuw maken** of kies een bestaande Salesforce-campagne.
 
    >[!TIP]
    >
-   >Als u een bestaande Salesforce-campagne selecteert, moet u [de status van het programma van de Salesforce-campagne en het Marketo-programma ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md) aanpassen.
+   >Als u een bestaande Salesforce-campagne selecteert, moet u [in overeenstemming zijn met de status van het programma van de Salesforce-campagne en het Marketo-programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md).
 
 1. Voer een naam in voor de nieuwe campagne en klik op **Opslaan**.
 

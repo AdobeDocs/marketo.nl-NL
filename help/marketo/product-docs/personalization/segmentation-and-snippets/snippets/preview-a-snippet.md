@@ -2,16 +2,15 @@
 unique-page-id: 2359498
 description: Een voorbeeld van een fragment bekijken - Marketo Docs - Productdocumentatie
 title: Een voorvertoning van een fragment weergeven
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-
-# Een voorvertoning van een fragment bekijken {#preview-a-snippet}
+# Een voorvertoning van een fragment weergeven {#preview-a-snippet}
 
 >[!PREREQUISITES]
 >
@@ -19,11 +18,11 @@ ht-degree: 0%
 
 Fragmenten zijn blokken dynamische inhoud die worden gewijzigd op basis van segmentatieregels.
 
-1. Ga naar **Design Studio**.
+1. Ga naar de **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Klik op het fragment en vervolgens **Voorbeeldfragment**.
+1. Klik op het fragment en klik vervolgens op **Voorbeeldfragment**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 

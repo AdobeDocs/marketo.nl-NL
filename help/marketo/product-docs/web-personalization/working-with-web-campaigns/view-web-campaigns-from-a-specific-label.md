@@ -2,14 +2,13 @@
 unique-page-id: 4720075
 description: Webcampagnes weergeven van een specifiek label - Marketo Docs - Productdocumentatie
 title: Webcampagnes weergeven op basis van een specifiek label
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: 2611c79f-eb12-4597-9394-8749903f494c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # Webcampagnes weergeven op basis van een specifiek label {#view-web-campaigns-from-a-specific-label}
 

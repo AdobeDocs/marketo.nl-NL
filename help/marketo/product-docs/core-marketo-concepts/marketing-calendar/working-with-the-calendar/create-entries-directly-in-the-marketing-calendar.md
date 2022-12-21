@@ -3,7 +3,6 @@ unique-page-id: 2953348
 description: Items rechtstreeks maken in de marketingkalender - Marketo Docs - Productdocumentatie
 title: Items rechtstreeks maken in de marketingkalender
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Directe items maken in de marketingkalender {#create-entries-directly-in-the-marketing-calendar}
+# Items rechtstreeks maken in de marketingkalender {#create-entries-directly-in-the-marketing-calendar}
 
 Met Marketo kunt u rechtstreeks in uw Marketingkalender items maken met de modus voor programmafocus. U kunt de volgende ingstypen maken:
 
@@ -22,11 +21,11 @@ Met Marketo kunt u rechtstreeks in uw Marketingkalender items maken met de modus
 
 Zo gaat het.
 
-1. Ga naar **Kalender**.
+1. Ga naar de **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Selecteer een vorige ingang en klik **Toon de Nadruk van het Programma**.
+1. Selecteer een vorig item en klik op **Programmafocus tonen**.
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
@@ -40,7 +39,7 @@ Zo gaat het.
 
    >[!TIP]
    >
-   >U kunt **Slimme campagnes**, **E-mailprogramma&#39;s** en **Basisitems** op dezelfde manier maken.
+   >U kunt ook een melding maken **Slimme campagnes**, **E-mailprogramma&#39;s** en **Basisinvoer** op dezelfde manier.
 
 1. Sluit de focusmodus van het programma wanneer u klaar bent met bewerken.
 

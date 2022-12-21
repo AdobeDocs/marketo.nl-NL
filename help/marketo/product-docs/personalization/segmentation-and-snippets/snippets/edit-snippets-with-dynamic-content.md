@@ -2,14 +2,13 @@
 unique-page-id: 2359466
 description: Fragmenten bewerken met dynamische inhoud - Marketo Docs - Productdocumentatie
 title: Fragmenten bewerken met dynamische inhoud
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
-
 
 # Fragmenten bewerken met dynamische inhoud {#edit-snippets-with-dynamic-content}
 
@@ -21,27 +20,27 @@ ht-degree: 0%
 
 Gebruik Segmentatie in fragmenten om dynamische inhoud op uw e-mails en landingspagina&#39;s eenvoudig te beheren.
 
-## Segmentatie {#add-segmentation} toevoegen
+## Segmentering toevoegen {#add-segmentation}
 
-1. Ga naar **Design Studio**.
+1. Ga naar de **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
-1. Klik op uw **Fragment** en dan **Concept** bewerken.
+1. Klik op uw **Fragment** en vervolgens **Concept bewerken**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. Klik op **Segment door**.
+1. Klikken op **Segment op**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Voer **Segmentatie** in en klik op **Opslaan**.
+1. Enter **Segmentering** en klik op **Opslaan**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 
 ## Dynamische inhoud toepassen {#apply-dynamic-content}
 
-1. Klik op een **Segment** en bewerk dan inhoud. Herhalen voor elk segment
+1. Klik op een **Segment** en bewerk vervolgens de inhoud. Herhalen voor elk segment
 
    ![](assets/image2014-9-16-8-3a59-3a59.png)
 

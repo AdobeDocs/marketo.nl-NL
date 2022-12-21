@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352438
-description: Overzicht van de telefoon van de verkoop - Marketo Docs - de Documentatie van het Product
+description: Overzicht verkooptelefoon - Marketo-documenten - productdocumentatie
 title: Overzicht van verkooptelefonie
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
-
 
 # Overzicht van verkooptelefonie {#sales-phone-overview}
 
@@ -21,11 +20,11 @@ ht-degree: 0%
 
 ## Hoe kan ik snel aan de slag met de telefoon van de Verkoop? {#how-do-i-quickly-get-set-up-with-sales-phone}
 
-**Telefoonnummer:** U hoeft dit slechts één keer in te voeren. Sales Connect onthoudt uw nummer voor alle toekomstige aanroepen.
+**Telefoonnummer:** U hoeft dit alleen in één keer in te voeren. Sales Connect onthoudt uw nummer voor alle toekomstige aanroepen.
 
-**Lokale Aanwezigheid:** U zult slechts &quot;gebruik lokale aanwezigheid&quot;moeten controleren en de vraag voor uw eerste vraag registreren. Sales Connect onthoudt uw instellingen voor alle toekomstige aanroepen.
+**Lokale aanwezigheid:** U zult slechts &quot;gebruik lokale aanwezigheid&quot;moeten controleren en de vraag voor uw eerste vraag registreren. Sales Connect onthoudt uw instellingen voor alle toekomstige aanroepen.
 
-Als u wilt dat Sales Connect automatisch een vraagactiviteit in Salesforce tot stand brengt, controleer [dit artikel](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
+Als u wilt dat Sales Connect automatisch een telefoonactiviteit maakt in Salesforce, schakelt u uit [dit artikel](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
 
 ## Hoe maak ik een vraag met de Telefoon van de Verkoop? {#how-do-i-make-a-call-with-sales-phone}
 
@@ -37,6 +36,6 @@ In het Centrum van het Bevel, kunt u uw &quot;vraaglijst&quot;van het verzonden 
 
 Wanneer u eenmaal hebt gebeld of gebeld, haalt Sales Connect het telefoonnummer van uw lead/contactpersoon bij Salesforce in. Als er geen nummer in Salesforce wordt vermeld, haalt Sales Connect het telefoonnummer van de accountrecord in.
 
-Voor teams die andere CRMS gebruiken, haalt Sales Connect het telefoonnummer uit het nummer in de record in Sales Connect. Deze gegevens kunnen eenvoudig beschikbaar zijn via een [CSV-upload](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+Voor teams die andere CRMS gebruiken, haalt Sales Connect het telefoonnummer uit het nummer in de record in Sales Connect. Deze gegevens zijn gemakkelijk beschikbaar via een [CSV-upload](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-Hit de grote groene **Call** knoop. Uw telefoon zal dan beginnen te bellen. Neem telefonisch contact op en Sales Connect belt automatisch de lead/contactpersoon.
+Hit the big green **Bellen** knop. Uw telefoon zal dan beginnen te bellen. Neem telefonisch contact op en Sales Connect belt automatisch de lead/contactpersoon.

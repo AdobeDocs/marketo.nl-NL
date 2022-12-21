@@ -3,7 +3,6 @@ unique-page-id: 1147126
 description: Het programma Home Tab - Marketo Docs - Productdocumentatie gebruiken
 title: Het tabblad Start van het programma gebruiken
 exl-id: 04c36190-d853-4900-b566-973d08316e37
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Het gebruiken van het Lusje van het Huis van het Programma {#using-the-program-home-tab}
+# Het tabblad Start van het programma gebruiken {#using-the-program-home-tab}
 
 Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat er in uw programma gebeurt.
 
@@ -33,7 +32,7 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Klik **Exporteren** bij de bodem van het Samenvatting om rapport te downloaden.
+1. Klikken **Exporteren** onder aan het rapport Overzicht om het te downloaden.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
@@ -43,7 +42,7 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Klik op de vervolgkeuzelijst **Weergave**. Selecteer **Gebruikt door**.
+1. Klik op de knop **Weergave** vervolgkeuzelijst. Selecteren **Gebruikt door**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -57,7 +56,7 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Klik op de vervolgkeuzelijst **Weergave**. Selecteer **Lidmaatschap**.
+1. Klik op de knop **Weergave** vervolgkeuzelijst. Selecteren **Lidmaatschap**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +66,7 @@ Het tabblad Start van het programma geeft u een overzicht op hoog niveau van wat
 
    >[!NOTE]
    >
-   >**Met** Historie wordt iedereen bedoeld die het programma ooit heeft doorlopen, terwijl  **** momenteel alleen mensen in het programma zijn opgenomen.
+   >**Historisch** geeft aan wie het programma ooit heeft doorlopen, terwijl **Huidig** alleen personen die momenteel in het programma zijn opgenomen.
 
    >[!MORELIKETHIS]
    >

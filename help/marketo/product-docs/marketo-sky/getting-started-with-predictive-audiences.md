@@ -3,7 +3,8 @@ description: Aan de slag met voorspellende doelgroepen - Marketo Docs - Productd
 title: Aan de slag met voorspellend publiek
 hide: true
 hidefromtoc: true
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+exl-id: d39afacc-30e0-4b7c-9b78-18fa95505553
+source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%

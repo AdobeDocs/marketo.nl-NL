@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2949966
-description: Een lijst met landkaarten toevoegen aan uw formulier - Marketo Docs - Productdocumentatie
+description: Een land-pluklijst toevoegen aan uw formulier - Marketo-documenten - Productdocumentatie
 title: Een lijst met landen toevoegen aan uw formulier
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-
-# Voeg een lijst van de Bestelwagen van het Land aan uw Vorm {#add-a-country-picklist-to-your-form} toe
+# Een lijst met landen toevoegen aan uw formulier {#add-a-country-picklist-to-your-form}
 
 Volg deze instructies om het landveld om te zetten in een vervolgkeuzelijst met een lijst van alle landen.
 
@@ -23,23 +22,23 @@ Volg deze instructies om het landveld om te zetten in een vervolgkeuzelijst met 
 
    ![](assets/editform-1.png)
 
-1. Klik op het **+**-teken.
+1. Klik op de knop **+** ondertekenen.
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. **Land** zoeken en selecteren.
+1. Zoeken en selecteren **Land**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Met het **Land** geselecteerde gebied veranderen **Veldtype** in **Select**.
+1. Met de **Land** veld geselecteerd wijzigt u de **Veldtype** tot **Selecteren**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **** Bewerk de  **** waarde om de lijst met landen toe te voegen waaruit gebruikers kunnen kiezen.
+1. **Bewerken** de **Waarden** om de lijst met landen toe te voegen waaruit gebruikers kunnen kiezen.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Klik **Geavanceerd** **Editor**.
+1. Klikken **Geavanceerd** **Editor**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -57,15 +56,15 @@ Volg deze instructies om het landveld om te zetten in een vervolgkeuzelijst met 
    >
    >U kunt de lijst bewerken of een andere lijst gebruiken.
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Klik **Voltooien**.
+1. Klikken **Voltooien**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Klik **Goedkeuren en Sluiten**.
+1. Klikken **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 

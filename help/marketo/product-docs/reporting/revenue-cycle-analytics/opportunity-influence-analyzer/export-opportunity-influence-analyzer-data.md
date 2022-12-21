@@ -2,28 +2,27 @@
 unique-page-id: 2360394
 description: Export Opportunity Influence Analyzer Data - Marketo Docs - Productdocumentatie
 title: Export Opportunity Influence Analyzer Data
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # Export Opportunity Influence Analyzer Data {#export-opportunity-influence-analyzer-data}
 
 Als u updates wilt ontvangen uit uw rapporten van de Inkoopcyclusverkenner en deze wilt delen, kunt u elk e-mailadres op een bestaand rapport abonneren.
 
-1. Ga naar **Analytics** en selecteer **New** > **New Report Subscription**.
+1. Ga naar **Analyse** en selecteert u **Nieuw** > **Nieuw abonnement op rapport**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Om aan een basisrapport in te tekenen dat u in een programma creeerde, zie [Abonneren aan een Basis Rapport](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
+   >Als u zich wilt abonneren op een basisrapport dat u in een programma hebt gemaakt, raadpleegt u [Abonneren op een basisrapport](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. Voor de Bron van het Rapport, uitgezocht **Ontdekkingsreiziger van de Inkomsten**.
+1. Selecteer bij Rapportbron de optie **Ontdekkingsreiziger voor inkomsten**.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,4 +44,4 @@ Als u updates wilt ontvangen uit uw rapporten van de Inkoopcyclusverkenner en de
 
 >[!MORELIKETHIS]
 >
->Leer hoe te om [al uw rapportabonnementen ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats te beheren.
+>Leer hoe u [al uw rapportabonnementen beheren](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats.

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14746143
-description: Instellingen voor delen - Marketo Docs - Productdocumentatie
+description: Instellingen voor delen - Marketo-documenten - productdocumentatie
 title: Instellingen voor delen
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-
-# Instellingen delen {#sharing-settings}
+# Instellingen voor delen {#sharing-settings}
 
 U kunt uw sjablonen beter beheren door te beperken wat gebruikers kunnen delen en met welke categorieën.
 
@@ -23,15 +22,15 @@ Wanneer het Delen van Montages wordt toegelaten, slechts zullen de beheerders in
 
 ## Uw instellingen voor delen configureren {#configure-your-sharing-settings}
 
-1. Ga in [Webtoepassing](https://toutapp.com/login), naar de pagina van Montages.
+1. In de [webtoepassing](https://toutapp.com/login), gaat u naar de pagina Instellingen.
 
    ![](assets/one-2.png)
 
-1. Selecteer **Toegang delen** onder Beheerinstellingen.
+1. Selecteer onder Beheerinstellingen de optie **Toegang delen**.
 
    ![](assets/two-2.png)
 
-1. Zorg ervoor **Instellingen voor delen** zijn ingeschakeld. Dit betekent standaard dat alleen beheerders sjablonen kunnen delen in uw sjablooncategorieën.
+1. Controleer of **Instellingen voor delen** zijn ingeschakeld. Dit betekent standaard dat alleen beheerders sjablonen kunnen delen in uw sjablooncategorieën.
 
    ![](assets/three-2.png)
 
@@ -39,7 +38,7 @@ Wanneer het Delen van Montages wordt toegelaten, slechts zullen de beheerders in
 
    ![](assets/four-2.png)
 
-1. Klik **Teams toevoegen voor Toegang**.
+1. Klikken **Teams toevoegen voor toegang**.
 
    ![](assets/five-2.png)
 
@@ -51,7 +50,7 @@ Wanneer het Delen van Montages wordt toegelaten, slechts zullen de beheerders in
    >
    >Als u geen teams ziet, zult u naar het Beheer van het Team moeten gaan en een team van gebruikers creëren.
 
-1. Klik **Teams toevoegen voor Toegang** om op te slaan.
+1. Klikken **Teams toevoegen voor toegang** om op te slaan.
 
    ![](assets/seven-1.png)
 

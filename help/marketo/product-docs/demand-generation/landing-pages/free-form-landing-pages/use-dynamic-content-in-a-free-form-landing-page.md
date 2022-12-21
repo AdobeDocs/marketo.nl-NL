@@ -2,16 +2,15 @@
 unique-page-id: 2359732
 description: Dynamische inhoud gebruiken in een vrije bestemmingspagina - Marketo Docs - Productdocumentatie
 title: Dynamische inhoud gebruiken in een openingspagina met vrije vorm
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-
-# Dynamische inhoud gebruiken in een vrije landingspagina {#use-dynamic-content-in-a-free-form-landing-page}
+# Dynamische inhoud gebruiken in een openingspagina met vrije vorm {#use-dynamic-content-in-a-free-form-landing-page}
 
 Wanneer u dynamische inhoud gebruikt in bestemmingspagina&#39;s, krijgt uw publiek gerichte informatie.
 
@@ -22,21 +21,21 @@ Wanneer u dynamische inhoud gebruikt in bestemmingspagina&#39;s, krijgt uw publi
 >* [Een nieuw formulier toevoegen aan een openingspagina met vrije vorm](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 
-## Segmentatie {#add-segmentation} toevoegen
+## Segmentering toevoegen {#add-segmentation}
 
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer uw Openende Pagina, dan klik **geef Ontwerp** uit.
+1. Selecteer uw bestemmingspagina en klik vervolgens op **Concept bewerken**.
 
    ![](assets/landingpageeditdraft-1.jpg)
 
-1. Klik **Segment door**.
+1. Klikken **Segment op**.
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
-1. Voer de naam van de segmentatie in en klik op **Opslaan**.
+1. Voer de segmentnaam in en klik op **Opslaan**.
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
@@ -50,17 +49,17 @@ Wanneer u dynamische inhoud gebruikt in bestemmingspagina&#39;s, krijgt uw publi
 
 ## Element dynamisch maken {#make-element-dynamic}
 
-1. Sleep de dynamische inhoudselementen van onder **Static** aan **Dynamic**.
+1. De dynamische inhoudselementen van de belemmering en laat vallen onder **Statisch** tot **Dynamisch**.
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. U kunt ook elementen **Static** of **Dynamic** maken vanuit het element **Settings**.
+1. U kunt ook elementen maken **Statisch** of **Dynamisch** van het element **Instellingen**.
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
 ## Dynamische inhoud toepassen {#apply-dynamic-content}
 
-1. Selecteer een element onder een segment, klik het montagespictogram, dan klik **uitgeven**. Herhaal dit voor elk segment.
+1. Selecteer een element onder een segment, klik op het instellingenpictogram en klik vervolgens op **Bewerken**. Herhaal dit voor elk segment.
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 

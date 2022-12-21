@@ -2,18 +2,17 @@
 unique-page-id: 2359807
 description: Overzichtsstijlen aanpassen - Marketo Docs - Productdocumentatie
 title: Overtrekstijlen aanpassen
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 
 ---
 
-
 # Overtrekstijlen aanpassen {#customize-sweepstakes-styles}
 
-Wanneer u [een sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md) creeert, kunt u aanpassen hoe het op uw landingspagina kijkt.
+Wanneer u [een zweepslag maken](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), kunt u aanpassen hoe het op uw landingspagina kijkt.
 
 >[!AVAILABILITY]
 >
@@ -23,11 +22,11 @@ Wanneer u [een sweepstakes](/help/marketo/product-docs/demand-generation/social/
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer de overgangen en klik op **Concept** bewerken.
+1. Selecteer de overgangen en klik op **Concept bewerken**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. Ga in de redacteur van het Zeeregment, naar **App Montages** > **Vormgeving**.
+1. Ga in de Zweedse redacteur naar **App-instellingen** > **Weergave**.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -39,15 +38,15 @@ Wanneer u [een sweepstakes](/help/marketo/product-docs/demand-generation/social/
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Voorbeeld-CSS voor **Enter Button**:
+   Voorbeeld-CSS voor **Knop Enter**:
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>`
 
-   Voorbeeld van afbeelding voor **Enter Button**:
+   Voorbeeldafbeelding voor **Knop Enter**:
    `<pre>background:url(https://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >Als u een afbeelding met tekst gebruikt, vergeet dan niet om de tekst te verwijderen uit het veld **Knop invoeren** onder Tekst hierboven.
+   >Als u een afbeelding gebruikt met tekst erop, vergeet dan niet de tekst uit het palet **Knop Enter** veld onder Tekst hierboven.
 
 1. Terwijl u elke wijziging aanbrengt, wordt het resultaat weergegeven in de voorvertoning Weergave en Bewerken.
 
@@ -59,4 +58,4 @@ Wanneer u [een sweepstakes](/help/marketo/product-docs/demand-generation/social/
 
    >[!MORELIKETHIS]
    >
-   >De volgende stap bestaat uit het toevoegen van [e-mails voor aanmelden en afspelen aan uw sweepstakes](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >De volgende stap bestaat uit toevoegen [e-mails over aanmelden en voldoen aan uw wensen](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).

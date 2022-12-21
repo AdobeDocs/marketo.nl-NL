@@ -14,19 +14,19 @@ ht-degree: 0%
 
 Het activiteitenlogboek is de ultieme bron van waarheid. Dit is het complete verhaal van de reis van een persoon in Marketo.
 
-1. Ga naar **Database**.
+1. Ga naar de **Database**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Selecteer **Alle personen**.
+1. Selecteren **Alle personen**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Klik op het tabblad **Personen**. Selecteer een persoon **Id** aantal.
+1. Klik op de knop **Mensen** tab. Een persoon selecteren **Id** getal.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. Klik **Activiteitenlog**.
+1. Klikken **Activiteitenlogboek**.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
@@ -48,4 +48,4 @@ Moet het activiteitenlogboek van een persoon naar Excel uitvoeren?
 
    >[!MORELIKETHIS]
    >
-   >Meer informatie over [het filtreren van het activiteitenlogboek](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) om specifieke persoonactiviteiten te zien.
+   >Meer informatie over [het filtreren van het activiteitenlogboek](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md) specifieke activiteiten van personen te zien.

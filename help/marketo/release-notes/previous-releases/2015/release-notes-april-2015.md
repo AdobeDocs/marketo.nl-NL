@@ -22,7 +22,7 @@ De volgende functies zijn opgenomen in de release van april 2015. Controleer of 
 >
 >Deze functie wordt dinsdag 28 april uitgebracht.
 
-De nieuwe [startpagina voor analysemogelijkheden](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) biedt snelle toegang voor het uitvoeren van ad-hocrapporten over de beschikbare rapporttypen.
+De nieuwe [Startpagina Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) maakt snelle toegang mogelijk voor het uitvoeren van ad-hocrapporten in alle beschikbare rapporttypen.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -40,7 +40,7 @@ Met Marketo Mobile Engagement is het gemakkelijk om aantrekkelijke mobiele belev
 
 [Integratie van linkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Breid uw beleid voor het koesteren van leads uit naar betaalde schermen en sociale advertenties. Met de [netwerkintegratie toevoegen](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) met LinkedIn Lead Accelerator kunt u veilig een publiekssegment maken in LinkedIn op basis van de leden van een slimme of statische lijst. Leden in een LinkedIn-publiekssegment kunnen dan worden opgeleid met een reeks relevante advertenties.
+Breid uw beleid voor het koesteren van leads uit naar betaalde schermen en sociale advertenties. De [en netwerkintegratie](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) met LinkedIn Lead Accelerator kunt u veilig een publiekssegment maken in LinkedIn op basis van de leden van een slimme of statische lijst. Leden in een LinkedIn-publiekssegment kunnen dan worden opgeleid met een reeks relevante advertenties.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
@@ -50,8 +50,8 @@ Uw favoriete functies in het venster Verkoopoverzicht - hoofdfeed, beste weddens
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 
-## RTP - Op account gebaseerde marketinganalyse {#rtp-account-based-marketing-analytics}
+## RTP - Account-Based Marketing Analytics {#rtp-account-based-marketing-analytics}
 
-**RTP - Op account gebaseerde marketinganalyse**
+**RTP - Account-Based Marketing Analytics**
 
 Onmiddellijk inzicht krijgen in de prestaties van uw belangrijkste lijsten van benoemde accounts op basis van elke fase in de aankoopcyclus, met de nieuwe prestatiegrafiek voor uw lijsten van benoemde accounts. De grafiek toont het stadium van het bezoek van de belangrijkste organisatie, vanaf het bewustzijn tot aan de actie, op basis van het aantal bezoeken en de status van de bezoeker.

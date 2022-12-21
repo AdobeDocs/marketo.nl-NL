@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2360237
-description: Vertel het Marketing Story met een Analysator van de Invloed van de Mogelijkheid - Marketo Docs - de Documentatie van het Product
+description: Vertel het Marketing Story met een Opportunity Influence Analyzer - Marketo Docs - Productdocumentatie
 title: Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid
-translation-type: tm+mt
-source-git-commit: 4a7aced48fde39a5bfbd5bef0c698211426a540c
+exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
 
 ---
-
 
 # Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
@@ -19,27 +18,27 @@ Gebruik een Analysator van de Gevolgen van de Kans om de rol van de marketing in
 >
 >[Een Opportunity Influence Analyzer maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. Ga naar **Analytics** en selecteer **Opportunity Influence Analyzer**.
+1. Ga naar **Analyse** en selecteert u de **Opportunity Influence Analyzer**.
 
    ![](assets/analytics-opportunityhand.png)
 
    De analyse van de Invloed van de Kans is een visuele vertegenwoordiging van de interactie en programma en gebeurtenissuccessen betrokken bij die kans. Laten we de grafiek verkennen:
 
-   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Oranje** puntjes vertegenwoordigen interessante momenten in de kans (e-mails geopend, bezoeken aan winkelwagentjes, downloads voor whitepaper, enz.). Grotere stippen geven meer interacties aan.
+   * ![—](assets/image2014-10-3-13-3a43-3a21.png) **Oranje stippen** Dit zijn interessante momenten in de opportuniteit (e-mails geopend, winkelbezoeken, downloads enz.). Grotere stippen geven meer interacties aan.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Bindingspictogrammen geven** aan dat het programma succesvol is.
+   * ![—](assets/image2014-10-3-13-3a44-3a9.png) **Bindingspictogrammen** geeft de resultaten van het programma aan.
 
-   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Kalenderpictogrammen geven de** successen van gebeurtenissen aan.
+   * ![—](assets/image2014-10-3-13-3a44-3a40.png) **Kalenderpictogrammen** Gebeurtenis aangeven.
 
    * **Opportuniteitsperiode**. Het groene gebied biedt de mogelijkheid zelf, van het creëren van kansen tot het sluiten van kansen (gewonnen of verloren).
 
-   * **De levenscyclus** van de kans. De grijze gebieden voor en na de groene opportuniteitsperiode laten de interacties zien die tot de kans hebben geleid en deze hebben gevolgd.
+   * **Levenscyclus van kansen**. De grijze gebieden voor en na de groene opportuniteitsperiode laten de interacties zien die tot de kans hebben geleid en deze hebben gevolgd.
 
-   In het deelvenster **Instellingen** worden de personen van de account weergegeven:
+   De **Instellingen** worden de personen van het account weergegeven:
 
-   * Het **getal tussen haakjes** is het aantal interacties met die contactpersoon.
+   * De **getal tussen haakjes** is het aantal interactie met die contactpersoon.
 
-   * ![—](assets/image2014-10-3-13-3a45-3a9.png)Het  **gele** zetje geeft het primaire contact aan.
+   * ![—](assets/image2014-10-3-13-3a45-3a9.png)De **gele ster** Hiermee wordt de primaire contactpersoon aangegeven.
 
 
 1. Houd de muisaanwijzer boven een naam om de functie van die persoon en de bron van zijn betrokkenheid bij de kans te zien.

@@ -51,7 +51,7 @@ Pas uw LinkedIn Lead Gen-formulieren aan om aangepaste lead-kenmerken te verzame
 We hebben twee functies uitgebracht als onderdeel van onze nieuwe Slack-integratie:
 
 * Systeemmeldingen: Krijg Slack berichten over belangrijke gebeurtenissen in uw Marketo instantie, zoals alarm over huidige campagnestatus en om het even welke kwesties die directe aandacht vereisen.
-* Interesserende momenten: Wanneer een bekende persoon een Marketo Insight heeft geactiveerd via een verkoopaccount, kunnen de hoofdeigenaars via Slack op de hoogte worden gesteld. Meldingen bevatten informatie over leads en informatie over de verkoopaccount.
+* Interesserende momenten: Wanneer een bekende persoon van een verkoopaccount een Marketo Insight heeft geactiveerd, kunnen de hoofdeigenaars via Slack op de hoogte worden gesteld. Meldingen bevatten informatie over leads en informatie over de verkoopaccount.
 
 ## Verbeteringen voor ABM {#abm-enhancements}
 

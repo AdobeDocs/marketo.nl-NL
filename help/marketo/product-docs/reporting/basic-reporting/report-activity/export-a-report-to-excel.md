@@ -2,28 +2,27 @@
 unique-page-id: 2360020
 description: Een rapport exporteren naar Excel - Marketo Docs - Productdocumentatie
 title: Een rapport exporteren naar Excel
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
-
 
 # Een rapport exporteren naar Excel {#export-a-report-to-excel}
 
 U kunt om het even welk rapport naar een dossier van Excel uitvoeren, om met de gegevens in andere software te werken.
 
-1. Ga naar **Marketing Activities** gebied.
+1. Ga naar de **Marketingactiviteiten** gebied.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Selecteer uw rapport van de navigatieboom en klik **Report** tabel.
+1. Selecteer uw rapport in de navigatiestructuur en klik op de knop **Rapport** tab.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Klik op de knop **Exporteren**.
+1. Klik op de knop **Exporteren** knop.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 

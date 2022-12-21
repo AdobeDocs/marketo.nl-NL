@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2360389
-description: Maak een programma zonder een Periode Beschikbaar in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren - Marketo Docs - de Documentatie van het Product
+description: Maak een programma zonder een Periode Beschikbaar in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren - de Documenten van Marketo - de Documentatie van het Product
 title: Maak een Programma zonder een Periode Beschikbaar in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
+# Maak een Programma zonder een Periode Beschikbaar in de Ontdekkingsreiziger van de Ontvangsten en Analysatoren {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
-# Maak een Programma zonder een Periode Kosten beschikbaar in Ontdekkingsreiziger en Analysatoren {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
-
-Met de kosten voor de programmaperiode kunt u &quot;Hoeveel geld&quot; en &quot;Wanneer&quot; definiëren voor een programma. Dit verschijnt in de Ontdekkingsreiziger van de Cyclus van de Opbrengst en [analyzers](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
+Met de kosten voor de programmaperiode kunt u &quot;Hoeveel geld&quot; en &quot;Wanneer&quot; definiëren voor een programma. Dit verschijnt in de Ontdekkingsreiziger van de Cyclus van de Opbrengst en [analysatoren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 
 >[!NOTE]
 >
@@ -25,7 +24,7 @@ Sommige programma&#39;s moeten mogelijk worden opgenomen, zelfs als ze geen tijd
 >
 >Het programma van de Analysator emmers van het Programma Succes door periodekosten. Als er geen tijdskosten beschikbaar zijn, wordt het succes van het programma niet weergegeven, ongeacht het analysegedrag van het programma. Als het analysegedrag opstelling is, zullen de gegevens voor opportuniteitsmetriek (pijpleidingskansen, opbrengst, enz.) tonen.
 
-1. Klik onder de sectie Admin op **Codes**.
+1. Klik onder de sectie Beheer op **Tags**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -37,7 +36,7 @@ Sommige programma&#39;s moeten mogelijk worden opgenomen, zelfs als ze geen tijd
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. Wijzig het gedrag Analytics in Inclusive en klik op **Save**.
+1. Wijzig het gedrag Analytics in Inclusive en klik op **Opslaan**.
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 

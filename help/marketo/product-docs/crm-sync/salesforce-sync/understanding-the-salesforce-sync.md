@@ -3,7 +3,6 @@ unique-page-id: 4719283
 description: De Salesforce Sync - Marketo Docs - Productdocumentatie begrijpen
 title: Werken met Salesforce Sync
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '219'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# De Salesforce Sync {#understanding-the-salesforce-sync} begrijpen
+# Werken met Salesforce Sync {#understanding-the-salesforce-sync}
 
 Marketo en Salesforce gaan samen als erwten en wortelen. We houden je verkoop- en marketinggegevens synchroon.
 
@@ -40,6 +39,6 @@ De synchronisatie tussen Salesforce en Marketo is bidirectioneel alleen voor lea
 
 >[!NOTE]
 >
->De [referenties die u in Marketo voor Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) invoert, worden gebruikt om gegevens te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
+>De [aanmeldingsgegevens die u in Marketo voor Salesforce hebt ingevoerd](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) worden gebruikt om gegevens te synchroniseren. Alleen gegevens waartoe deze referenties toegang hebben, worden opgenomen.
 
 Marketo sync met Salesforce is het krachtigste van zijn soort ter wereld. Het voelt als magie; er wordt een wijziging aangebracht en het andere systeem is binnenkort bijgewerkt.

@@ -2,16 +2,15 @@
 unique-page-id: 10100642
 description: Berichttekst in de app maken - Marketo Docs - Productdocumentatie
 title: Berichttekst in de app maken
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
-
-# Berichttekst {#create-in-app-message-text} maken in toepassing
+# Berichttekst in de app maken {#create-in-app-message-text}
 
 Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
 
@@ -53,7 +52,7 @@ Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
 
    >[!NOTE]
    >
-   >Voor tikacties kunt u verschillende acties instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld op verschillende manieren afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, kunt u andere in het gebrek verlaten die plaatst of niets selecteert.
+   >Voor tikacties kunt u verschillende acties instellen voor Apple- en Android-platforms. Diepe koppelingen worden bijvoorbeeld anders afgehandeld voor Apple en Android. Als uw bericht slechts naar één platform of andere gaat, kunt u andere in het gebrek verlaten die plaatst of niets selecteert.
 
 1. Klik op de ondersteuningstekst om deze inline te bewerken. De tekst werkt op dezelfde manier als de hoofdtekst, maar de standaardtekstgrootte is kleiner.
 
@@ -77,7 +76,7 @@ Klik op het tekstgebied om aan uw tekststijl en inhoud te werken.
 
    Wijzigingen die u aanbrengt in tokens die worden gebruikt in een goedgekeurd berichtprogramma in de app, worden pas van kracht in het bericht in de app nadat het programma is gepauzeerd en vervolgens wordt hervat.
 
-Je bent gouden. Vervolgens moet u [de berichtknop in de app ](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md) instellen.
+Je bent gouden. Vervolgens moet u [in-app-berichtknop instellen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >

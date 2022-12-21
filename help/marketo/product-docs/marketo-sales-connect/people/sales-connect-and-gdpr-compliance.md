@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14745825
-description: Verkoop Connect en GDPR-compatibiliteit - Marketo Docs - Productdocumentatie
+description: Sales Connect- en GDPR-compatibiliteit - Marketo-documenten - Productdocumentatie
 title: Sales Connect en GDPR-compatibiliteit
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1387'
 ht-degree: 0%
 
 ---
-
 
 # Sales Connect en GDPR-compatibiliteit {#sales-connect-and-gdpr-compliance}
 
@@ -38,25 +37,25 @@ De GDPR is van toepassing op elke organisatie binnen of buiten de EU die goedere
 
 De handelaars streven ernaar klantenervaringen tot stand te brengen die persoonlijk en menselijk voelen, gebaseerd op vertrouwen en met zorg geleverd. Hoewel de GDPR deze termen niet gebruikt, zijn de doelen hetzelfde: de rechten van klanten respecteren en hun vertrouwen verdienen. Om dat vertrouwen te kunnen opbouwen en behouden, moeten marketers zich houden aan de manier waarop, wanneer en waarom hun klanten betrokken willen zijn. Het is van essentieel belang dat de voorkeuren van de klant worden gerespecteerd, niet alleen als een wettelijke vereiste, maar ook als de basis van klantgerichte betrokkenheidspraktijken.
 
-Hoe de marketers deze hogere verwachtingen rond de inzameling, het gebruik, en de veiligheid van de persoonlijke gegevens richten die routinematig in de loop van hun werk worden gebruikt is zeer belangrijk, en de Marketo kan helpen met het voldoen aan die verwachtingen.
+Hoe de marketeers deze hogere verwachtingen rond de inzameling, het gebruik, en de veiligheid van de persoonlijke gegevens richten die routinematig in de loop van hun werk worden gebruikt is zeer belangrijk, en Marketo kan helpen met het voldoen aan die verwachtingen.
 
 Er zijn twee belangrijke aspecten van de GDPR waar marketers vroegere, huidige en toekomstige praktijken moeten herzien. Het eerste punt is de instemming van het individu om zijn persoonsgegevens te verwerken, en het tweede is de verantwoordingsplicht, namelijk het kunnen aantonen van de naleving van de beginselen van de GDPR.
 
-Wij verstrekken uitvoerige informatie over toestemming en verantwoordingsplicht binnen het platform van Marketo in ons e-boek, [GDPR en de Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In dit artikel zullen we ons echter specifiek richten op de nieuwe functies in Marketo Sales Connect die uw organisatie zullen helpen zich aan de GDPR-regels te houden.
+Wij verstrekken uitgebreide informatie over instemming en verantwoordingsplicht binnen het Marketo-platform in ons e-boek, [GDPR en de Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). In dit artikel zullen we ons echter specifiek richten op de nieuwe functies in Marketo Sales Connect die uw organisatie zullen helpen zich aan de GDPR-regels te houden.
 
 ## GDPR-compatibiliteit in Marketo Sales Connect {#gdpr-compliance-in-marketo-sales-connect}
 
-Marketo Sales Connect is een krachtige toepassing—onderdeel van het Platform Marktbetrokkenheid—die een enkele workflow en weergave voor verkoop en marketing biedt, zodat de pijpleiding gezamenlijk sneller verloopt via collectieve betrokkenheid. De nieuwe functionaliteit in Marketo Sales Connect is speciaal gemaakt met het oog op GDPR-compatibiliteit. Wij zullen alle drie functies schetsen en uitleggen hoe zij, wanneer correct gebruikt, de naleving van GDPR van uw organisatie zullen helpen.
+Marketo Sales Connect is een krachtige toepassing—onderdeel van het Marketo Engagement-Platform—die één workflow en weergave voor verkoop en marketing biedt, zodat pijpleidingen collectief sneller kunnen worden opgestart door samenwerking. De nieuwe functionaliteit in Marketo Sales Connect is speciaal ontwikkeld met het oog op GDPR-compatibiliteit. Wij zullen alle drie functies schetsen en uitleggen hoe zij, wanneer correct gebruikt, de naleving van GDPR van uw organisatie zullen helpen.
 
 ## Compatibiliteitskaart {#compliance-card}
 
-Marketo Sales Connect bevat een compatibiliteitskaart in de weergave Details persoon om belangrijke informatie te verschaffen over het machtigingstype van een contactpersoon en het type bron. Hierdoor kunnen gebruikers eenvoudig informatie toevoegen en bijhouden die essentieel is voor de privacy van gegevens en kunnen ze beter geïnformeerde beslissingen nemen over de strategie voor campagne en outreach.
+Marketo Sales Connect bevat een compatibiliteitskaart in de weergave Details persoon om belangrijke informatie te verstrekken over het machtigingstype van een contactpersoon en het brontype. Hierdoor kunnen gebruikers eenvoudig informatie toevoegen en bijhouden die essentieel is voor de privacy van gegevens en kunnen ze beter geïnformeerde beslissingen nemen over de strategie voor campagne en outreach.
 
 ![](assets/1.png)
 
 Type contactautorisatie
 
-Binnen de Kaart van de Naleving, kunnen de gebruikers de wettelijke basis voor de verwerking van de persoonsgegevens van een contact door de drop-down van de Vergunning volgen. Als u het machtigingstype van een contactpersoon begrijpt, kunnen Connect-gebruikers met meer informatie beslissingen nemen over outreach-praktijken, zodat elke campagne of betrokkenheid legaal en geschikt is.
+Binnen de Kaart van de Naleving, kunnen de gebruikers de wettelijke basis voor de verwerking van de persoonsgegevens van een contact door de drop-down van de Vergunning volgen. Als u het machtigingstype van een contactpersoon begrijpt, kunnen Marketo Sales Connect-gebruikers beter geïnformeerde beslissingen nemen over outreach-praktijken, zodat elke campagne of betrokkenheid legaal en geschikt is.
 
 Gebruikers kunnen kiezen uit een groot aantal opties, waaronder:
 
@@ -66,11 +65,11 @@ Gebruikers kunnen kiezen uit een groot aantal opties, waaronder:
 * Naleving van de wettelijke verplichting
 * Bescherming van vitale belangen
 * Openbaar belang/Overheidsinstantie
-* Overige
+* Anders
 
 Brontype van contactpersoon
 
-Binnen de nieuwe Kaart van de Naleving, kunnen de gebruikers de bron van een contact volgen. Het type Bron bepaalt waar de informatie van een contact van kwam toen aanvankelijk geupload in Marketo Sales Connect. Een goed begrip van het brontype van een contactpersoon helpt ook bij beslissingen over outreach-praktijken, en bepaalt welke andere systemen of locaties persoonsgegevens worden opgeslagen, zodat elke betrokkenheid in overeenstemming is met de GDPR-wetgeving.
+Binnen de nieuwe Kaart van de Naleving, kunnen de gebruikers de bron van een contact volgen. Het brontype bepaalt waar de informatie van een contact van kwam toen aanvankelijk geupload in Marketo Sales Connect. Een goed begrip van het brontype van een contactpersoon helpt ook bij beslissingen over outreach-praktijken, en bepaalt welke andere systemen of locaties persoonsgegevens worden opgeslagen, zodat elke betrokkenheid in overeenstemming is met de GDPR-wetgeving.
 
 Ook hier hebben gebruikers een groot aantal keuzemogelijkheden waaruit ze kunnen kiezen, waaronder:
 
@@ -78,7 +77,7 @@ Ook hier hebben gebruikers een groot aantal keuzemogelijkheden waaruit ze kunnen
 * Importeren
 * Handmatig uploaden
 * Chrome-extensie
-* Overige
+* Anders
 
 De compatibiliteitskaart bewerken
 
@@ -98,7 +97,7 @@ Als &quot;Andere&quot;voor of het Type van Vergunning of het Type Bron wordt gek
 
 ![](assets/7.png)
 
-Bulk Acties** Marketo Sales Connect staat ook toe om de toestemmings en de types van Bron van een contact in bulk bij te werken, die kostbare tijd in het nalevingsproces besparen.
+Bulk Actions** Marketo Sales Connect staat ook toe om de toestemmings en de types van Bron van een contact in bulk bij te werken, die kostbare tijd in het nalevingsproces besparen.
 
 Wanneer u één of meerdere contacten van de pagina van Mensen selecteert, verschijnen de Authorization en de Bronknopen in de hoogste container. Gebruikend deze knopen, kunt u de Vergunning of Bron van veelvoudige contacten gelijktijdig plaatsen.
 
@@ -120,7 +119,7 @@ Na het selecteren van het correcte Brontype voor uw geselecteerde contacten, zal
 
 ![](assets/12.png)
 
-## Contactgegevens van Marketo Sales Connect {#exporting-contact-data-from-marketo-sales-connect} exporteren
+## Contactgegevens exporteren uit Marketo Sales Connect {#exporting-contact-data-from-marketo-sales-connect}
 
 U hebt de capaciteit om contactinformatie van de Mening van het Detail van de Persoon uit te voeren. Bij het exporteren wordt een CSV-bestand met de volgende kolommen gedownload:
 
@@ -138,7 +137,7 @@ U hebt de capaciteit om contactinformatie van de Mening van het Detail van de Pe
   </tr> 
   <tr> 
    <td>Achternaam</td> 
-   <td>Overige</td> 
+   <td>Anders</td> 
    <td>Twitter</td> 
   </tr> 
   <tr> 
@@ -168,25 +167,25 @@ U hebt de capaciteit om contactinformatie van de Mening van het Detail van de Pe
 >
 >Dit kan slechts één contact tegelijkertijd worden gedaan. Er is momenteel geen functionaliteit die bulkexport van contacten toestaat.
 
-Als u contactgegevens wilt exporteren, klikt u op de drie verticale punten in de koptekst van de Gedetailleerde weergave voor personen en selecteert u **Exporteren**. Het .CSV-bestand wordt automatisch gedownload.
+Als u contactgegevens wilt exporteren, klikt u op de drie verticale stippen in de koptekst van de Gedetailleerde weergave voor personen en selecteert u **Exporteren**. Het .CSV-bestand wordt automatisch gedownload.
 
 ![](assets/thirteen.png)
 
 >[!NOTE]
 >
->De GDPR vereist ook de capaciteit om contacten van UI te schrappen, maar Marketo Sales Connect bezit reeds deze functionaliteit.
+>De GDPR vereist ook de mogelijkheid om contactpersonen uit de gebruikersinterface te verwijderen, maar Marketo Sales Connect beschikt al over deze functionaliteit.
 
-## Abonnement {#unsubscribes} opzeggen
+## Abonnementen opzeggen {#unsubscribes}
 
-Een algemeen verkeerd begrepen gebied van GDPR omvat contacten die van het gegevensbestand van de organisatie afmelden. Om de nieuwe regels te respecteren met betrekking tot de bescherming van de gegevens van personen die zich afmelden, is de volgende functionaliteit opgenomen in Marketo Sales Connect:
+Een algemeen verkeerd begrepen gebied van GDPR omvat contacten die van het gegevensbestand van de organisatie afmelden. Om zich aan de nieuwe regels te houden rond de bescherming van de gegevens van degenen die verkiezen om af te melden, is de volgende functionaliteit inbegrepen in Marketo Sales Connect:
 
-**Koppelingen voor abonnementen opzeggen:** Koppelingen voor abonnementen worden automatisch toegevoegd aan alle e-mails die vanuit de webtoepassing Sales Connect worden verzonden om ervoor te zorgen dat contactpersonen een toegankelijke manier krijgen om te weigeren.\
-**Abonnementssynchronisatie opzeggen:** gebruikers kunnen afmeldingsmeldingen synchroniseren met en van hun CRM (Salesforce) om ervoor te zorgen dat opt-outs up-to-date zijn.\
-**Abonnementsgeschiedenis opzeggen:** gebruikers kunnen historische opt-outs en opt-ins zien in de weergave Details persoon.\
-**Unsubscribe Removal:** Om een niet-geabonneerd contact terug te kiezen binnen vereist de gebruiker om admin voorrechten te hebben en aan te tonen dat het contact nieuwe toestemming heeft gegeven om hen te contacteren.
+**Koppelingen opzeggen:** Koppelingen voor abonnementen worden automatisch toegevoegd aan alle e-mails die vanuit de webtoepassing Sales Connect worden verzonden om ervoor te zorgen dat contactpersonen een toegankelijke manier krijgen om te weigeren.\
+**Synchronisatie opzeggen:** Gebruikers kunnen hun abonnement op en van hun CRM (Salesforce) synchroniseren om ervoor te zorgen dat de opt-outs up-to-date zijn.\
+**Abonnementsgeschiedenis opzeggen:** Gebruikers kunnen historische opt-outs en opt-ins zien in de weergave Details persoon.\
+**Abonnement verwijderen opzeggen:** Als u een niet-geabonneerd contact weer wilt openen, moet de gebruiker beschikken over beheerdersrechten en aantonen dat het contact nieuwe toestemming heeft gegeven om contact met hen op te nemen.
 
 ## Toekomstige updates {#future-updates}
 
-Als een enthousiast pleitbezorger van de macht en de klantgerichtheid van de betrokkenheidseconomie begrijpt Marketo het belang van het in handen brengen van de betrokkene van privacy en gegevensbescherming. Net als bij andere wetten inzake gegevensbescherming vereist GDPR-naleving een verbintenis van zowel Marketo als onze klanten. Dit artikel is bedoeld om u te helpen Marketo op een aangewezen manier gebruiken om de naleving van GDPR van uw organisatie te steunen.
+Als een enthousiast pleitbezorger van de kracht en de klantgerichtheid van de service-economie begrijpt Marketo het belang van het in handen brengen van de betrokkene van privacy en gegevensbescherming. Net als bij andere wetten inzake gegevensbescherming vereist GDPR-naleving betrokkenheid van zowel Marketo als onze klanten. Dit artikel is bedoeld om u te helpen Marketo op een geschikte manier te gebruiken om de naleving van GDPR van uw organisatie te steunen.
 
-We zullen de toepasselijke GDPR-richtsnoeren van regelgevende instanties en aanverwante wetgeving op de voet blijven volgen. De updates zullen aan ons Centrum van het Vertrouwen op [trust.marketo.com](https://trust.marketo.com) worden gepost.
+We zullen de toepasselijke GDPR-richtsnoeren van regelgevende instanties en aanverwante wetgeving op de voet blijven volgen. Updates worden naar ons Trust Center gepost op [trust.marketo.com](https://trust.marketo.com).

@@ -2,14 +2,13 @@
 unique-page-id: 4720215
 description: Implementatie van RTP op Wordpress Enterprise - Marketo Docs - Productdocumentatie
 title: RTP implementeren op Wordpress Enterprise
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
 
 ---
-
 
 # RTP implementeren op Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
@@ -21,7 +20,7 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. Zoek onder Domein het relevante domein en klik op **Tag genereren**.
+1. Zoek onder Domein het relevante domein en klik op **Label genereren**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
@@ -29,7 +28,7 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
 
 1. Aanmelden bij uw WordPress-account als Admin-gebruiker
 
-   a. Ga onder **Weergave** naar **Aangepast JavaScript**.
+   a. Onder **Weergave**, ga naar **Aangepast JavaScript**.
 b. Plak de Javascript-tag RTP naar rechts na de bestaande code.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
@@ -46,4 +45,4 @@ b. Plak de Javascript-tag RTP naar rechts na de bestaande code.
    >
    >Voeg ALLEEN het script in.
 
-1. Klik **Update**.
+1. Klikken **Bijwerken**.

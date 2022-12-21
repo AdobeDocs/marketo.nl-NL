@@ -2,14 +2,13 @@
 unique-page-id: 14352540
 description: Zelf weergaven voorkomen - Marketo Docs - Productdocumentatie
 title: Zelf weergaven voorkomen
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
-
 
 # Zelf weergaven voorkomen {#preventing-self-views}
 
@@ -33,7 +32,7 @@ Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te dow
 
    ![](assets/win-1.png)
 
-1. Klik **Opties**.
+1. Klikken **Opties**.
 
    ![](assets/win-2.png)
 
@@ -41,19 +40,19 @@ Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te dow
 
    ![](assets/win-3.png)
 
-1. Klik onder Microsoft Outlook Trust Center op **Instellingen van vertrouwenscentrum**.
+1. Klik onder Microsoft Outlook Trust Center op **Instellingen Vertrouwenscentrum**.
 
    ![](assets/win-4.png)
 
-1. Klik op Automatisch downloaden in het menu aan de linkerkant en schakel het selectievakje **Foto&#39;s niet automatisch downloaden in HTML-e-mail of RSS-items** in.
+1. Klik op Automatisch downloaden in het menu aan de linkerkant en selecteer de optie **Foto&#39;s niet automatisch downloaden in HTML-e-mail of RSS-objecten** selectievakje.
 
    ![](assets/win-5.png)
 
-1. Klik op **OK** in het dialoogvenster Vertrouwenscentrum.
+1. Klikken **OK** in het dialoogvenster Vertrouwenscentrum.
 
    ![](assets/win-6.png)
 
-1. Klik **OK** in het de dialoogvakje van de Opties van Vooruitzichten.
+1. Klikken **OK** in het dialoogvenster Outlook-opties.
 
    ![](assets/win-6.png)
 
@@ -61,14 +60,14 @@ Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te dow
 
 Weergaven worden bijgehouden door een kleine onzichtbare afbeeldingspixel te downloaden in uw e-mailclient. U kunt het aantal zelfweergaven in Outlook aanzienlijk verminderen door afbeeldingen die automatisch moeten worden gedownload uit te schakelen. Hieronder volgen de stappen.
 
-1. In Vooruitzichten, klik **Vooruitzichten** in de menubar en selecteer **Voorkeur**.
+1. Klik in Outlook op **Outlook** in de menubalk en selecteer **Voorkeuren**.
 
    ![](assets/mac-1.png)
 
-1. Kies **Lezen** onder E-mail.
+1. Kies onder E-mail de optie **Lezen**.
 
    ![](assets/mac-2.png)
 
-1. Klik onder Beveiliging op het keuzerondje **Nooit**.
+1. Klik onder Beveiliging op de knop **Nooit** keuzerondje.
 
    ![](assets/mac-3.png)

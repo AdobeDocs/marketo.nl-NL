@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 1D {#template-1d}
 
-Klik met de rechtermuisknop op [Sjabloon 1D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+Klik met de rechtermuisknop om [Sjabloon 1D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 

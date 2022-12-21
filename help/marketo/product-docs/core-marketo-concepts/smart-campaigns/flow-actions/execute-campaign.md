@@ -1,7 +1,8 @@
 ---
 description: Campagne uitvoeren - Marketo Docs - Productdocumentatie
 title: Campagne uitvoeren
-source-git-commit: 9f8d6895e88250afc2799b2fb7fc73442018362f
+exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 0%
@@ -22,7 +23,7 @@ Er zijn veel dingen die je kunt doen met een uitvoerbare campagne. Zij worden on
 
 U kunt ze ook gebruiken wanneer u een aparte flow moet uitvoeren, maar u moet afhangen van de resultaten van die flow in de volgende keuzemogelijkheden voor de stap Stroom (als dit het geval is, moet u dat doen).
 
-Uitvoeren Campagne is een verbetering op [Verzoek Campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), aangezien het in-series of parallel kan lopen, terwijl laatstgenoemde slechts parallel loopt.
+Campagne uitvoeren is een verbetering van [Campagne aanvragen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), aangezien het in serie of parallel kan lopen, terwijl het laatste alleen parallel loopt.
 
 >[!NOTE]
 >
@@ -34,13 +35,13 @@ Uitvoeren Campagne is een verbetering op [Verzoek Campagne](/help/marketo/produc
 
    ![](assets/execute-campaign-1.png)
 
-1. Geef het een naam, selecteer **Uitvoerbaar** checkbox, en klik **creëren**.
+1. Geef het een naam, selecteer **Uitvoerbaar** selectievakje en klik op **Maken**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Definieer de slimme lijst en stroom, net als elke andere slimme campagne.
 
-U kunt ook een bestaande slimme campagne klonen. Als u een bestaande Uitvoerbare Campagne kloont, zult u nog het **Uitvoerbare** checkbox na het noemen van het moeten selecteren.
+U kunt ook een bestaande slimme campagne klonen. Als u een bestaande uitvoerbare campagne kloont, zult u nog moeten selecteren **Uitvoerbaar** selectievakje na naamgeving.
 
 >[!NOTE]
 >
@@ -54,28 +55,28 @@ Wanneer ingesteld op true, worden de volgende token-contexten verzonden naar de 
 * Campagne Tokens
 * Programmatokens
 * Member Tokens
-* [Tokens](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)  activeren (indien opgeroepen vanuit een geactiveerde campagne)
+* [Tokens activeren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (indien opgeroepen vanuit een geactiveerd programma)
 
 **API-interactie**
 
-Wanneer het gebruiken van Programma of Campagne [in API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), allebei laat u waarden voor Mijn Tokens overgaan, die de waarden met voeten treedt die voor die tokens in de campagne worden geplaatst u roept. Als die Campagne dan een andere campagne uitvoert en &quot;de Context van de Ouder van het Gebruik aan Waar plaatst,&quot;zal het de waarden gebruiken die door API worden overgegaan, eerder dan de waarden die in de toepassing worden geplaatst.
+Bij gebruik van Planning of Request-campagne [in de API](https://developers.marketo.com/rest-api/assets/smart-campaigns/#batch), allebei laat u waarden voor Mijn Tokens overgaan, die de waarden met voeten treedt die voor die tokens in de campagne worden geplaatst u roept. Als die Campagne dan een andere campagne uitvoert en &quot;de Context van de Ouder van het Gebruik aan Waar plaatst,&quot;zal het de waarden gebruiken die door API worden overgegaan, eerder dan de waarden die in de toepassing worden geplaatst.
 
 ## Notities {#things-to-note}
 
-* De slimme lijst filtert iedereen uit die niet in aanmerking komt. Als een persoon kwalificeert, zal het resulterende Uitvoerde activiteitenverslag van de Campagne hen als &quot;Gekwalificeerd vermelden: TRUE&quot; (en FALSE indien niet)
+* De slimme lijst zal uit iedereen filteren die niet kwalificeert. Als een persoon kwalificeert, zal het resulterende Uitvoerde activiteitenverslag van de Campagne hen als &quot;Gekwalificeerd vermelden: TRUE&quot; (en FALSE indien niet)
 * De kwalificatieregels van de Campagne van het programma zijn van toepassing (de Slimme Montages van de Campagne onder het lusje van het Programma)
 * Uitvoerbare campagnes kunnen niet worden aangeroepen in verschillende werkruimten
-* Als u [Remove uit Stroom](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) stroomactie gebruikt die zich richt op een Uitvoerbare Campagne, zal het zowel het kind als het ouder richten
+* Als u het [Verwijderen uit stroom](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) flowactie die gericht is op een uitvoerbare campagne, richt deze zich op zowel het onderliggende item als het bovenliggende item
 * Gebruikend uit symbolische overerving - bijvoorbeeld, als u één enkele gemeenschappelijke het scoren stroom hebt die door veelvoudige verschillende activa teweeggebracht, kunt u een gebrek Mijn Symbolische score in de kindcampagne en in de oudercampagne bepalen zodat u de waarde van de kindscore campagnecampagne voor uw oudercampagnes (zie hieronder voor visueel voorbeeld) kunt met voeten treden
 * Uitvoerbare campagnes kunnen tot drie niveaus diep worden opgeroepen (bijvoorbeeld Bovenliggende campagne > Onderliggend element > Onderliggend element > Onderliggend element)
 
 >[!CAUTION]
 >
->Verlaat nooit uw slimme lijsten voor Uitvoerbare Campagnes ongeldig, anders **zal niemand** voor het kwalificeren. De beste praktijken moeten afzonderlijke slimme lijstactiva tot stand brengen, hen volledig bepalen, en ervoor zorgen zij geldig zijn. Dan, gebruik het &quot;Lid van Slimme filter van de Lijst&quot;in de Uitvoerbare Campagne zodat kunt u uw slimme lijstdefinitie ruilen.
+>Laat uw slimme lijsten voor uitvoerbare campagnes nooit ongeldig, anders **niemand** hiervoor in aanmerking komen. De beste praktijken moeten afzonderlijke slimme lijstactiva tot stand brengen, hen volledig bepalen, en ervoor zorgen zij geldig zijn. Dan, gebruik het &quot;Lid van Slimme filter van de Lijst&quot;in de Uitvoerbare Campagne zodat kunt u uw slimme lijstdefinitie ruilen.
 
 ## Voorbeeld van overerving van token {#token-inheritance-example}
 
-Hieronder ziet u een visueel voorbeeld van Symbolische Overerving in één Uitvoerbare Campagne en twee oudercampagnes: één met symbolische context die aan **Waar** wordt geplaatst, andere aan **Onwaar**.
+Hieronder ziet u een visueel voorbeeld van Symbolische Overerving in één Uitvoerbare Campagne en twee oudercampagnes: één met token context ingesteld op **Waar** de andere **Onwaar**.
 
 Onderliggende campagne met een verkapte Change Score.
 
@@ -87,7 +88,7 @@ De onderliggende campagne is Mijn Tokens.
 
 **Voorbeeld één - waar**
 
-In de Uitgevoerde de debietstap van de Campagne van de Uitvoeren van de eerste oudercampagne, wordt &quot;de TokenContext van de Campagne van de Ouder van het Gebruik&quot;geplaatst aan **True**.
+In de de stroomstap van de Campagne van de Uitvoeren van de eerste oudercampagne, wordt &quot;de TokenContext van de Campagne van de Ouder van het Gebruik&quot;geplaatst aan **Waar**.
 
 ![](assets/execute-campaign-5.png)
 
@@ -101,7 +102,7 @@ De resultaten: de score is gewijzigd met +10.
 
 **Voorbeeld twee: Onwaar**
 
-In het filter Campagne uitvoeren van de tweede oudercampagne, wordt de &quot;Context van de Token van de Campagne van de Ouder van het Gebruik&quot;geplaatst aan **False**.
+In het filter Campagne uitvoeren van de tweede bovenliggende campagne is de &quot;Context van bovenliggende campagne gebruiken&quot; ingesteld op **Onwaar**.
 
 ![](assets/execute-campaign-8.png)
 

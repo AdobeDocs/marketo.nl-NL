@@ -2,14 +2,13 @@
 unique-page-id: 2359398
 description: Een formulier maken - Marketo Docs - Productdocumentatie
 title: Een formulier maken
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
-
 
 # Een formulier maken {#create-a-form}
 
@@ -17,7 +16,7 @@ Maak en gebruik een formulier op een openingspagina om nieuwe namen te genereren
 
 >[!NOTE]
 >
->Leer wat Marketo doet om uw formulieren veilig te houden](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).[
+>Meer weten over wat Marketo doet? [uw formulieren veilig maken](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -27,15 +26,15 @@ Maak en gebruik een formulier op een openingspagina om nieuwe namen te genereren
 
    ![](assets/programseelct.png)
 
-1. Klik onder **Nieuw** op **Nieuw** **Lokaal** **Element**.
+1. Onder **Nieuw**, klikt u op **Nieuw** **Lokaal** **Element**.
 
    ![](assets/newlocalasset.png)
 
-1. Selecteer **Formulier**.
+1. Selecteren **Formulier**.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Voer een formulier **Naam** in en klik op **Maken**.
+1. Een formulier invoeren **Naam** en klik op **Maken**.
 
    ![](assets/newformwithhands.png)
 

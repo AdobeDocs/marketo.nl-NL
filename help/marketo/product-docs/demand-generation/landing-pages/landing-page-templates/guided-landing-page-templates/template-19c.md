@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 19C {#template-19c}
 
-Klik met de rechtermuisknop op [Sjabloon 19C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
+Klik met de rechtermuisknop om [downloadsjabloon 19C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 

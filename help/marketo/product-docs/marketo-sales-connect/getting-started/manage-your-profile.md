@@ -9,11 +9,11 @@ ht-degree: 0%
 
 ---
 
-# Uw profiel {#manage-your-profile} beheren
+# Uw profiel beheren {#manage-your-profile}
 
 Op de pagina Mijn profiel kunt u uw naam, de taal/landinstelling/tijdzone van uw account bijwerken en ook uw wachtwoord wijzigen.
 
-## Accountdetails {#account-details}
+## Accountgegevens {#account-details}
 
 Hier kunt u uw naam en/of wachtwoord bijwerken.
 
@@ -27,7 +27,7 @@ Hier kunt u uw naam en/of wachtwoord bijwerken.
 
 >[!NOTE]
 >
->Uw e-mailadres is ingesteld op Alleen weergeven. Neem contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) als dat nodig is.
+>Uw e-mailadres is ingesteld op Alleen weergeven. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 U kunt uw wachtwoord in deze sectie ook veranderen. De stappen worden beschreven in dit document.
 
@@ -53,19 +53,19 @@ Hieronder wordt beschreven hoe u de taal, landinstelling en/of tijdzone van uw a
 
    ![](assets/manage-your-profile-4.png)
 
-1. Als u uw taal wilt wijzigen, klikt u op de vervolgkeuzelijst **Taal** en maakt u uw keuze.
+1. Als u de taal wilt wijzigen, klikt u op de knop **Taal** en maak uw keuze.
 
    ![](assets/manage-your-profile-5.png)
 
-1. De landinstelling verwijst hier naar de regio waarin die taal wordt gesproken. Klik op de vervolgkeuzelijst **Landinstelling** en maak uw keuze.
+1. De landinstelling verwijst hier naar de regio waarin die taal wordt gesproken. Klik op de knop **Landinstelling** en maak uw keuze.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Klik **Uw chronologie** drop-down en maak uw keus.
+1. Klik op de knop **Uw tijdzone** en maak uw keuze.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Klik **Opslaan** wanneer gereed.
+1. Klikken **Opslaan** wanneer gereed.
 
    ![](assets/manage-your-profile-8.png)
 

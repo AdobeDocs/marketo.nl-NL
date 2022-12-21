@@ -16,11 +16,11 @@ Er zijn twee manieren om een e-mailbericht te maken in Marketo. Laten we naar be
 
 ## Een e-mail maken in de Design Studio {#create-an-email-in-the-design-studio}
 
-1. Ga naar **Design Studio**.
+1. Ga naar de **Design Studio**.
 
    ![](assets/create-an-email-1.png)
 
-1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer **Nieuwe e-mail**.
+1. Klik op de knop **Nieuw** vervolgkeuzelijst en selecteer **Nieuwe e-mail**.
 
    ![](assets/create-an-email-2.png)
 
@@ -36,11 +36,11 @@ Eenvoudig! Nu andersom...
 
    ![](assets/create-an-email-3.png)
 
-1. Selecteer het programma waaraan u de e-mail wilt toevoegen, klik op de vervolgkeuzelijst **Nieuw** en selecteer **Nieuw lokaal element**.
+1. Selecteer het programma waaraan u de e-mail wilt toevoegen, klik op de knop **Nieuw** vervolgkeuzelijst en selecteer **Nieuw lokaal element**.
 
    ![](assets/create-an-email-4.png)
 
-1. Klik **E-mail**.
+1. Klikken **E-mail**.
 
    ![](assets/create-an-email-5.png)
 
@@ -48,19 +48,19 @@ Eenvoudig! Nu andersom...
 
 Welke methode u kiest, brengt u naar de sjabloonkiezer.
 
-1. Geef uw e-mail een naam, klik op het malplaatje u wilt gebruiken, dan klik **creëren**.
+1. Geef uw e-mail een naam, klik op het malplaatje u wilt gebruiken, dan klik **Maken**.
 
    ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >U kunt kiezen uit een verzameling kant-en-klare responsieve e-mailsjablonen of een sjabloon die u hebt opgeslagen door eerst **Mijn sjablonen** te selecteren en dezelfde stappen uit te voeren.
+   >U kunt kiezen uit een verzameling kant-en-klare responsieve e-mailsjablonen of een sjabloon die u hebt opgeslagen door eerst **Mijn sjablonen** en dezelfde stappen uit te voeren.
 
 1. Voer een onderwerpregel in. De aanbevolen tekenlimiet is 50.
 
    ![](assets/create-an-email-7.png)
 
-   Afhankelijk van de sjabloon die u hebt gekozen, hebt u verschillende opties om uw e-mail te bewerken. Voor e-mails met modules checkt u [Modules toevoegen aan uw e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md) uit.
+   Afhankelijk van de sjabloon die u hebt gekozen, hebt u verschillende opties om uw e-mail te bewerken. Kijk uit voor e-mails met modules [Modules toevoegen aan uw e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 Uw e-mailadres is nu gemaakt, dus bewerk het weg!
 

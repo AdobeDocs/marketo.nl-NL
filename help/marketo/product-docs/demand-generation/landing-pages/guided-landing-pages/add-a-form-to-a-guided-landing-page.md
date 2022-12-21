@@ -2,14 +2,13 @@
 unique-page-id: 7515107
 description: Een formulier toevoegen aan een bestemmingspagina met instructies - Marketo Docs - Productdocumentatie
 title: Een formulier toevoegen aan een bestemmingspagina met instructies
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
 
 ---
-
 
 # Een formulier toevoegen aan een bestemmingspagina met instructies {#add-a-form-to-a-guided-landing-page}
 
@@ -19,11 +18,11 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 >
 >[Een bestemmingspagina met instructies maken](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Ga naar **Marketing Activities** gebied.
+1. Ga naar de **Marketingactiviteiten** gebied.
 
    ![](assets/one.png)
 
-1. Zoek en selecteer de bestemmingspagina en klik **Concept** bewerken.
+1. Zoek en selecteer de bestemmingspagina en klik op **Concept bewerken**.
 
    ![](assets/two.png)
 
@@ -31,7 +30,7 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
    >
    >De beschikbare elementen in geleide het landen pagina&#39;s worden bepaald door het malplaatje. Als u geen formulier ziet in het deelvenster Elementen, selecteert u een nieuwe sjabloon of neemt u contact op met de sjabloonmaker.
 
-1. Dubbelklik op het **Formulier** in het deelvenster Elementen.
+1. Dubbelklik op de knop **Formulier** in het deelvenster Elementen.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -41,7 +40,7 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
 1. U kunt kiezen uit drie opties:
 
-   * Openingspagina - kies een bestemmingspagina van Marketo
+   * Openingspagina - kies een Marketo-landingspagina
    * Externe URL - kies een gewenste URL
    * Formulier gedefinieerd - gebruik de instellingen die op formulierniveau zijn gedefinieerd
 
@@ -49,7 +48,7 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
    >
    >De vervolgpagina is de pagina die mensen zien nadat ze het formulier hebben verzonden.
 
-1. In dit voorbeeld gebruiken we Formulier gedefinieerd. Klik **Invoegen**.
+1. In dit voorbeeld gebruiken we Formulier gedefinieerd. Klikken **Invoegen**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
@@ -57,4 +56,4 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Sluit nu gewoon de bestemmingspagina-editor en [keur het concept van de bestemmingspagina goed](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Sluit nu gewoon de editor voor de bestemmingspagina en [goedkeuren, concept van bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

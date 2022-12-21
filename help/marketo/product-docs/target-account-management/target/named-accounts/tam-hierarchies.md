@@ -1,15 +1,14 @@
 ---
 unique-page-id: 13795510
-description: TAM Hiërarchieën - Marketo Docs - Productdocumentatie
+description: TAM-hiërarchieën - Marketo Docs - Productdocumentatie
 title: TAM-hiërarchie
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
-
 
 # TAM-hiërarchie {#tam-hierarchies}
 
@@ -33,7 +32,7 @@ Met de Hiërarchieën van TAM, kunt u informatie over een volledige hiërarchie 
 
 >[!NOTE]
 >
->De interface Marketo wordt slechts weergegeven tot 10 niveaus omlaag (onderliggende en onderliggende accounts van de bovenliggende account), maar er is geen limiet aan het aantal onderliggende accounts dat u kunt maken.
+>De Marketo-interface kan maximaal 10 niveaus omlaag worden weergegeven (onderliggende en onderliggende accounts van de bovenliggende account), maar er is geen limiet aan het aantal onderliggende accounts dat u kunt maken.
 
 Doel en rapport over volledige hiërarchieën met [één klik](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 

@@ -3,7 +3,6 @@ unique-page-id: 2949264
 description: SEO - Een pagina-probleem verwijderen/verwijderen - Marketo Docs - Productdocumentatie
 title: SEO - Een pagina-probleem verwijderen/verwijderen
 exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '98'
@@ -15,19 +14,19 @@ ht-degree: 0%
 
 Mogelijk zijn niet alle pagina-problemen nuttig voor u. Zo verwijder je er een.
 
-1. Ga naar de sectie **Pagina&#39;s**.
+1. Ga naar de **Pagina&#39;s** sectie.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. Klik in de sectie Pagina&#39;s op **Issues**.
+1. Klik in de sectie Pagina&#39;s op **Problemen**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen. Klik **Verwijderen**.
+1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen. Klikken **Verwijderen**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Als u op **Delete** klikt, wordt dit pagina-probleem permanent verwijderd.
+1. Klikken **Verwijderen** Hiermee verwijdert u deze pagina-uitgave definitief.
 
    >[!CAUTION]
    >

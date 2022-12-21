@@ -1,30 +1,29 @@
 ---
 unique-page-id: 2359500
-description: Prioriteit segmentatievolgorde - Marketo Docs - Productdocumentatie
+description: Prioriteit segmentatievolgorde - Marketo-documenten - productdocumentatie
 title: Prioriteit segmentvolgorde
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
+# Prioriteit segmentvolgorde {#segmentation-order-priority}
 
-# Prioriteit segmentatievolgorde {#segmentation-order-priority}
-
-Het is belangrijk om te begrijpen hoe **order** de prioriteit voor evaluatie van uw mensen in een segmentatie plaatst.
+Het is belangrijk te begrijpen hoe **bestellen** bepaalt de prioriteit voor evaluatie van uw mensen in een segmentatie.
 
 >[!PREREQUISITES]
 >
 >[Een segmentatie maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >[Segmentregels definiëren](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
-1. Ga naar **Database**.
+1. Ga naar de **Database**.
 
    ![](assets/image2017-3-29-8-3a9-3a33.png)
 
-1. Selecteer uw **Segmentatie**. Klik in **Segmentatiehandelingen** op **Segmenten bewerken**.
+1. Selecteer uw **Segmentering**. In **Segmentatiehandelingen**, klikt u op **Segmenten bewerken**.
 
    ![](assets/image2014-9-16-10-3a11-3a55.png)
 

@@ -1,35 +1,34 @@
 ---
 unique-page-id: 2360199
-description: Groepeer Persrapporten door Attribuut - Marketo Docs - de Documentatie van het Product
+description: Groepeer Persrapporten per kenmerk - Marketo Docs - Productdocumentatie
 title: Personen groeperen op basis van kenmerk
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-
-# Personen groeperen rapporteert op kenmerk {#group-person-reports-by-attribute}
+# Personen groeperen op basis van kenmerk {#group-person-reports-by-attribute}
 
 U kunt uw persoonrapporten door om het even welke persoon of bedrijfattributen groeperen.
 
-1. Ga naar het **Marketingactiviteiten** (of **Analytics**) gebied.
+1. Ga naar de **Marketingactiviteiten** (of **Analyse**).
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
-1. Selecteer uw persoonrapport van de navigatieboom en klik **Opstelling** tabel.
+1. Selecteer uw persoonrapport in de navigatiestructuur en klik op de knop **Instellen** tab.
 
    ![](assets/image2017-3-28-11-3a33-3a48.png)
 
-1. Dubbelklik **Personen groeperen met**.
+1. Dubbelklikken **Personen groeperen op**.
 
    ![](assets/image2017-3-28-11-3a34-3a5.png)
 
    >[!NOTE]
    >
-   >U kunt uw persoonrapporten ook [groeperen door segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+   >U kunt ook [groepeer uw persoonrapporten door segment](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
    Selecteer in het dialoogvenster Personen groeperen op de persoon die of het bedrijfskenmerk dat u wilt gebruiken voor groeperen.
 
@@ -37,7 +36,7 @@ U kunt uw persoonrapporten door om het even welke persoon of bedrijfattributen g
 
    >[!TIP]
    >
-   >Als u een attribuut kiest dat een numerieke waarde heeft, zoals _Gemaakt bij_ of _Jaaromzet_, selecteer de metriek van **Units** drop-down op het recht.
+   >Als u een kenmerk met een numerieke waarde kiest, bijvoorbeeld _Gemaakt op_ of _Jaarlijkse inkomsten_, selecteert u de metriek in het menu **Eenheden** rechts.
 
    Dat is het! Klik op het tabblad Rapport om uw rapport dienovereenkomstig te groeperen.
 

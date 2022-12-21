@@ -1,15 +1,14 @@
 ---
 unique-page-id: 42762794
-description: Het gebruiken van Bulk Acties in Salesforce Klassiek - Marketo Docs - de Documentatie van het Product
+description: Bulkacties gebruiken in Salesforce Classic - Marketo Docs - Productdocumentatie
 title: Bulkhandelingen gebruiken in Salesforce Classic
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
 
 ---
-
 
 # Bulkhandelingen gebruiken in Salesforce Classic {#using-bulk-actions-in-salesforce-classic}
 
@@ -23,13 +22,13 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 >
 >Voordat u de beschreven stappen uitvoert, moet u zich aanmelden bij uw Marketo Sales Connect-account.
 
-## E-mailadres {#bulk-email} opheffen
+## Bulkmail {#bulk-email}
 
-1. Klik in Salesforce op het tabblad **Regelafstand** en vervolgens op de knop **Go**.
+1. Klik in Salesforce op de knop **Leads** en vervolgens de **Ga** knop.
 
    ![](assets/one-5.png)
 
-1. Kies de gewenste leads en klik op de knop **E-mailen met MSC (Classic)**.
+1. Kies de gewenste leads en klik op de knop **E-mail met MSC (Klassiek)** knop.
 
    ![](assets/two-5.png)
 
@@ -45,29 +44,29 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 
 ## Toevoegen aan campagne {#add-to-campaign}
 
-1. Klik in Salesforce op het tabblad **Regelafstand** en vervolgens op de knop **Go**.
+1. Klik in Salesforce op de knop **Leads** en vervolgens de **Ga** knop.
 
    ![](assets/four-3.png)
 
-1. Kies de gewenste lood en klik **toevoegen aan Campagne MSC (Klassiek)** knoop.
+1. Kies de gewenste leads en klik op de knop **Toevoegen aan MSC-campagne (klassiek)** knop.
 
    ![](assets/five-3.png)
 
-1. Het pop-upvenster Personen toevoegen aan uw campagne wordt weergegeven. Klik **Volgende** en ga door de typische campagnestroom om een campagne MSC teweeg te brengen.
+1. Het pop-upvenster Personen toevoegen aan uw campagne wordt weergegeven. Klikken **Volgende** en doorloopt de typische campagnestroom om een MSC-campagne te starten.
 
    ![](assets/six.png)
 
-## Druk op Marketo Sales Connect {#push-to-marketo-sales-connect}
+## Push to Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. Klik in Salesforce op het tabblad **Regelafstand** en vervolgens op de knop **Go**.
+1. Klik in Salesforce op de knop **Leads** en vervolgens de **Ga** knop.
 
    ![](assets/seven-1.png)
 
-1. Kies de gewenste lood en klik **duw aan MSC (Klassiek)** knoop.
+1. Kies de gewenste leads en klik op de knop **Verschuiven naar MSC (klassiek)** knop.
 
    ![](assets/eight-1.png)
 
-1. Er wordt een nieuw tabblad met de naam &quot;Salesforce Bridge&quot; geopend. Klik op de knop **Ga naar groep →**.
+1. Er wordt een nieuw tabblad met de naam &quot;Salesforce Bridge&quot; geopend. Klik op de knop **Ga door naar groep →** knop.
 
    ![](assets/nine-1.png)
 

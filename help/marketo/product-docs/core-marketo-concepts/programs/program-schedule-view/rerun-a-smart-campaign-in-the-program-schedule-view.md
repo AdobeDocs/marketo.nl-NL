@@ -3,7 +3,6 @@ unique-page-id: 2953331
 description: Voer een slimme campagne opnieuw uit in de programmaweergave - Marketo Docs - Productdocumentatie
 title: Voer een slimme campagne opnieuw uit in de overzichtsweergave van het programma
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Voer een slimme campagne opnieuw uit in de Mening {#rerun-a-smart-campaign-in-the-program-schedule-view} van het Programma
+# Voer een slimme campagne opnieuw uit in de overzichtsweergave van het programma {#rerun-a-smart-campaign-in-the-program-schedule-view}
 
 U kunt gemakkelijk nieuwe looppas van een bestaande slimme campagne direct van de mening van het programmaprogramma tot stand brengen.
 
@@ -33,6 +32,6 @@ U kunt gemakkelijk nieuwe looppas van een bestaande slimme campagne direct van d
 
    >[!TIP]
    >
-   >U kunt dit ook doen vanuit de [programmafocus](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >U kunt dit ook doen vanuit het [programmafocus](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 Boom! Net als dat heb je een andere run gepland voor die slimme campagne. Als die slimme campagne e-mailstappen bevatte, zult u die ook zien!

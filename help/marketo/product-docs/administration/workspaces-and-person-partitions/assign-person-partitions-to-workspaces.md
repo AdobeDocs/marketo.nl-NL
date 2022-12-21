@@ -3,7 +3,6 @@ unique-page-id: 2360317
 description: Personen partities toewijzen aan werkruimten - Marketo Docs - Productdocumentatie
 title: Personen partities toewijzen aan werkruimten
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
@@ -25,13 +24,13 @@ Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt b
 
 >[!CAUTION]
 >
->Werkruimten en Personen-partities kunnen complex zijn. Neem contact op met de [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) voor hulp bij het instellen van deze bestanden.
+>Werkruimten en Personen-partities kunnen complex zijn. Neem contact op met  [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) voor hulp bij het opzetten ervan.
 
 1. Klik onder Beheer op **Werkruimten en partities**.
 
 ![](assets/image2014-9-17-11-3a13-3a24.png)
 
-1. Selecteer uw werkruimte en klik **Werkruimte bewerken**.
+1. Selecteer uw werkruimte en klik op **Werkruimte bewerken**.
 
    ![](assets/two-3.png)
 
@@ -43,9 +42,9 @@ Hieronder wordt beschreven hoe u de partitie/werkruimtetaken van personen kunt b
 
    ![](assets/three-3.png)
 
-   Primaire persoonlijke scheidingen zijn de standaardinstelling waar alle volkeren zullen worden opgenomen. Gebruik [flowstappen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) of [toewijzingsregels](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) om mensen te verplaatsen.
+   Primaire persoonlijke scheidingen zijn de standaardinstelling waar alle volkeren zullen worden opgenomen. Gebruiken [stroomstappen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) of [toewijzingsregels](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md) om mensen te verplaatsen.
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/four-3.png)
 
@@ -57,4 +56,4 @@ Gefeliciteerd.  U hebt uw werkruimte bewerkt.
 
 >[!MORELIKETHIS]
 >
->[Werken- en personenpartities](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md) begrijpen.
+>[Werken- en personenpartities begrijpen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).

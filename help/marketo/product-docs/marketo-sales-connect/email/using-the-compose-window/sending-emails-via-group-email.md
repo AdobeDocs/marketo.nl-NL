@@ -1,23 +1,22 @@
 ---
 unique-page-id: 37356584
-description: E-mailberichten verzenden via e-mail voor groep - Marketo Docs - Productdocumentatie
+description: E-mails verzenden via Groepse-e-mail - Marketo Docs - Productdocumentatie
 title: E-mailberichten verzenden via e-mail voor groep
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-
-# E-mailberichten verzenden via e-mail {#sending-emails-via-group-email} van groep
+# E-mailberichten verzenden via e-mail voor groep {#sending-emails-via-group-email}
 
 Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie Groep-e-mail.
 
-## Groepse-e-mail {#sending-a-group-email} verzenden
+## Groeps-e-mailberichten verzenden {#sending-a-group-email}
 
-1. Klik op het tabblad **Personen**.
+1. Klik op de knop **Mensen** tab.
 
    ![](assets/one-3.png)
 
@@ -25,7 +24,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
    ![](assets/two-3.png)
 
-1. Klik op de knop Handelingen groeperen en selecteer **Groep e-mailen**.
+1. Klik op de knop Handelingen groeperen en selecteer **E-mailgroep**.
 
    ![](assets/three-3.png)
 
@@ -33,9 +32,9 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
    ![](assets/four-3.png)
 
-## Een groepse-e-mail {#editing-a-group-email} bewerken
+## Een groepse-e-mail bewerken {#editing-a-group-email}
 
-1. Maak een groep-e-mailbericht met [Stap 1-3 hierboven](#sending-a-group-email).
+1. Een groepse-e-mail maken met [Stap 1-3 hierboven](#sending-a-group-email).
 
 1. Kies een sjabloon of vul uw e-mail in.
 
@@ -49,7 +48,7 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 
    ![](assets/edit-four.png)
 
-1. Klik **Dynamische velden voorvertonen** en bekijk de voorvertoning aan de rechterkant.
+1. Klikken **Dynamische velden voorvertonen** en bekijk de voorvertoning aan de rechterkant.
 
    ![](assets/edit-five.png)
 

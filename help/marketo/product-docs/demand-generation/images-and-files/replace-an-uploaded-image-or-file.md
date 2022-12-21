@@ -2,22 +2,21 @@
 unique-page-id: 2359876
 description: Een geüploade afbeelding of bestand vervangen - Marketo Docs - Productdocumentatie
 title: Een geüploade afbeelding of bestand vervangen
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
-
 # Een geüploade afbeelding of bestand vervangen {#replace-an-uploaded-image-or-file}
 
-1. Ga naar **Design Studio**.
+1. Ga naar de **Design Studio**.
 
    ![](assets/designstudio-6.png)
 
-1. Klik op **Afbeeldingen en bestanden** en selecteer het bestand dat u wilt vervangen.
+1. Klikken **Afbeeldingen en bestanden** Selecteer vervolgens het bestand dat u wilt vervangen.
 
    ![](assets/image2014-9-16-11-3a21-3a48.png)
 
@@ -25,7 +24,7 @@ ht-degree: 0%
    >
    >U kunt ook [geüploade afbeeldingen of bestanden zoeken](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md).
 
-1. Klik **Bestandsacties** en selecteer **Afbeelding of Bestand** vervangen.
+1. Klikken **Bestandshandelingen** en selecteert u **Afbeelding of bestand vervangen**.
 
    ![](assets/image2014-9-16-11-3a21-3a55.png)
 
@@ -37,7 +36,7 @@ ht-degree: 0%
    >
    >Als u geen bestand uit een gedeelde map kunt selecteren, slaat u dat bestand op de vaste schijf op en kiest u het.
 
-1. Controleer of het bestand dat naast **Kies Bestand** wordt weergegeven juist is en klik vervolgens op **Vervangen**.
+1. Controleer of het bestand naast **Bestand kiezen** is correct, dan klik **Vervangen**.
 
    ![](assets/image2014-9-16-11-3a22-3a12.png)
 

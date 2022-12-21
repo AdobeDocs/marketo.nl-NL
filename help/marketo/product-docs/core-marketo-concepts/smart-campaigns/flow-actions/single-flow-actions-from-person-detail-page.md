@@ -3,7 +3,8 @@ description: Single Flow-acties van persoonlijke detailpagina - Marketo Docs - P
 title: Single Flow-handelingen van persoonlijke detailpagina
 hide: true
 hidefromtoc: true
-source-git-commit: e1dd2fe2300e1350e616c46dcaf53ced12c6581a
+exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 Naast het uitvoeren van enige stroomacties van binnen een Slimme Lijst, kunt u hen ook direct op een pagina van het Detail van de Persoon in werking stellen.
 
-1. Klik **Database**.
+1. Klikken **Database**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -22,11 +23,11 @@ Naast het uitvoeren van enige stroomacties van binnen een Slimme Lijst, kunt u h
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Klik op de vervolgkeuzelijst **Handelingen personen** en selecteer de gewenste stap voor de stroom. In dit voorbeeld gebruiken we [E-mail verzenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
+1. Klik op de knop **Persoonlijke handelingen** en selecteert u de gewenste stroomstap. In dit voorbeeld gebruiken we [E-mail verzenden](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md).
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. Selecteer de gewenste e-mail en klik **Nu uitvoeren**.
+1. Selecteer het gewenste e-mailbericht en klik op **Nu uitvoeren**.
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 

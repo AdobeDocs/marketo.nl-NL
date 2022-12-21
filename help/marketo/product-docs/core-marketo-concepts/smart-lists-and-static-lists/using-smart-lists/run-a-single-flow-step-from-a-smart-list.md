@@ -3,7 +3,6 @@ unique-page-id: 557322
 description: Eén stroomstap uitvoeren vanuit een slimme lijst - Marketo Docs - Productdocumentatie
 title: Eén stroomstap uitvoeren vanuit een slimme lijst
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '234'
@@ -23,7 +22,7 @@ Als u een stap wilt uitvoeren die slechts eenmalig is, kunt u één stap voor de
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selecteer een lijst of een slimme lijst met personen in de lijst en ga vervolgens naar het tabblad **Personen**.
+1. Selecteer een lijst of een slimme lijst met personen in de lijst en ga vervolgens naar de **Mensen** tab.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -31,27 +30,27 @@ Als u een stap wilt uitvoeren die slechts eenmalig is, kunt u één stap voor de
    >
    >Zowel statische lijsten als slimme lijsten hebben deze functionaliteit.
 
-1. Klik op **Alles selecteren**. U kunt **Ctrl/Cmd** ook gebruiken en klikken om een paar verslagen manueel te selecteren.
+1. Klikken **Alles selecteren**. U kunt ook **Ctrl/Cmd** en klik om een aantal records handmatig te selecteren.
 
    ![](assets/smartlist-selectallhand.png)
 
    >[!NOTE]
    >
-   >Als de resultaten zich over veelvoudige pagina&#39;s uitstrekken, zal het klikken **selecteert allen** alle mensen over alle pagina&#39;s selecteren.
+   >Als de resultaten over meerdere pagina&#39;s worden verdeeld, klikt u op **Alles selecteren** Alle personen op alle pagina&#39;s selecteren.
 
-1. Selecteer onder **Person** **Acties** de stap voor de stroom van uw keuze. In dit voorbeeld gebruiken we [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
+1. Onder **Persoon** **Handelingen** selecteert u de gewenste stap voor de stroom. In dit voorbeeld gebruiken we [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
    ![](assets/personactions-hands.png)
 
-1. Zoek en selecteer een **Kenmerk**. In dit voorbeeld nemen we alle mensen met de status &#39;Californië&#39; en veranderen deze in &#39;CA&#39;.
+1. Zoeken en selecteer een **Kenmerk**. In dit voorbeeld nemen we alle mensen met de status &#39;Californië&#39; en veranderen deze in &#39;CA&#39;.
 
    ![](assets/runaction-hands.png)
 
-1. Voer een nieuwe waarde in. Klik **Nu uitvoeren**.
+1. Voer een nieuwe waarde in. Klikken **Nu uitvoeren**.
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Als u gegevenswaarden voor een groot aantal mensen verandert, kunt u de verandering moeten bevestigen door het aantal te typen. Klik **Ga voor het**.
+1. Als u gegevenswaarden voor een groot aantal mensen verandert, kunt u de verandering moeten bevestigen door het aantal te typen. Klikken **Ga er naartoe**.
 
    ![](assets/changedatavalue.jpg)
 

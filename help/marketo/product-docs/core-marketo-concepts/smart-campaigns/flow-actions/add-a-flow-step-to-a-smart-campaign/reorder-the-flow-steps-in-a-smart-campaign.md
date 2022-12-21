@@ -3,7 +3,6 @@ unique-page-id: 1146985
 description: De stroomstappen opnieuw ordenen in een slimme campagne - Marketo Docs - Productdocumentatie
 title: De Stappen van de Stroom in een Slimme Campagne opnieuw ordenen
 exl-id: 5cf4dac1-d21a-44ff-a485-c24a91e83fc9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# De stroomstappen in een slimme campagne opnieuw ordenen {#reorder-the-flow-steps-in-a-smart-campaign}
+# De Stappen van de Stroom in een Slimme Campagne opnieuw ordenen {#reorder-the-flow-steps-in-a-smart-campaign}
 
 De stroomstappen worden van boven naar beneden uitgevoerd. Hieronder wordt beschreven hoe u de stroomstappen opnieuw kunt rangschikken op basis van uw wensen.
 

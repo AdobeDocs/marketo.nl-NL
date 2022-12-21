@@ -2,21 +2,20 @@
 unique-page-id: 10094404
 description: Aangepaste veldgroepen maken met de veldOrganizer - Marketo Docs - Productdocumentatie
 title: Aangepaste veldgroepen maken met de veldOrganizer
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '992'
 ht-degree: 0%
 
 ---
 
-
 # Aangepaste veldgroepen maken met de veldOrganizer {#create-custom-field-groups-using-the-field-organizer}
 
-Voordat u aangepaste veldgroepen kunt inschakelen voor rapportage in het gebied Modelprestatie-analyse (Leads) van Inkoopcyclusverkenner, moet u standaardvelden of aangepaste velden categoriseren in groepen voor rapportage via de veldOrganizer in Marketo Lead Management. Dit geldt alleen voor lood- en bedrijfskenmerken.
+Voordat u aangepaste veldgroepen kunt inschakelen voor rapportage in het gebied Modelprestatie-analyse (Leads) van Inkoopcyclusverkenner, moet u standaard- of aangepaste velden indelen in groepen voor rapportage via de veldOrganizer in Marketo Lead Management. Dit geldt alleen voor lood- en bedrijfskenmerken.
 Wanneer u een standaard- of aangepast veld selecteert in de vervolgkeuzelijst Veld in het dialoogvenster Nieuwe veldOrganizer, wijst het systeem het gegevenstype Marketo Lead Management toe dat is gekoppeld aan het veld dat u wilt groeperen met een van de drie beschikbare editors in de veldOrganizer: tekenreeks, geheel getal of datum.
 
-| Gegevenstype Marketo Lead | Gegevenstype van de veldeditor |
+| Gegevenstype voor Marketo-beheer voor leads | Gegevenstype van de veldeditor |
 |---|---|
 | String | String |
 | E-mail | String |
@@ -27,28 +26,28 @@ Wanneer u een standaard- of aangepast veld selecteert in de vervolgkeuzelijst Ve
 | Valuta | Geheel |
 | DateTime | Datum |
 | Boolean | Niet ondersteund |
-| Telefoon | String |
+| Telefoonnummer | String |
 | Datum | Datum |
 | Float | Geheel |
 | Berekend | Niet ondersteund |
 
 In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maakt voor een tekenreeks, geheel getal of datumtype.
 
-## Aangepaste veldgroep maken - Tekenreekseditor {#create-custom-field-group-string-editor}
+## Aangepaste veldgroep maken - tekenreekseditor {#create-custom-field-group-string-editor}
 
-1. Klik **Lead Database**.
+1. Klikken **Database lead**.
 
    ![](assets/one.png)
 
-1. Klik **Nieuw**, en selecteer **Nieuwe Organisator van het Gebied**.
+1. Klikken **Nieuw** en selecteert u **Nieuwe veldOrganizer**.
 
    ![](assets/two.png)
 
-1. Klik **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). Land wordt hier gebruikt.
+1. Klikken **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). Land wordt hier gebruikt.
 
    ![](assets/three.png)
 
-1. Klik **Maken**.
+1. Klikken **Maken**.
 
    ![](assets/four.png)
 
@@ -60,7 +59,7 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    ![](assets/five.png)
 
-1. Standaard worden alle gegevenswaarden in de subgroep &quot;Overige&quot; geplaatst. Als u de gegevenswaarden wilt categoriseren, klikt u op **Groep toevoegen** om een subgroep te maken en geeft u deze een naam.
+1. Standaard worden alle gegevenswaarden in de subgroep &quot;Overige&quot; geplaatst. Als u de gegevenswaarden wilt indelen, klikt u op **Groep toevoegen** om een subgroep te maken en deze een naam te geven.
 
    >[!NOTE]
    >
@@ -88,23 +87,23 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    >[!NOTE]
    >
-   >Nadat de groepen zijn gedefinieerd, kunt u de aangepaste veldgroep voor rapportage inschakelen in de modelanalyse van prestaties (lead) via het tabblad Analyse van de inkomstencyclus in Beheer van leads van Marketo.
+   >Nadat de groepen zijn gedefinieerd, kunt u de aangepaste veldgroep voor rapportage inschakelen in het tabblad Analyse van de inkomstencyclus in Marketo Lead Management (Modelprestatie-analyse).
 
 ## Aangepaste veldgroep maken - Integer-editor {#create-custom-field-group-integer-editor}
 
-1. Klik **Lead Database**.
+1. Klikken **Database lead**.
 
    ![](assets/one.png)
 
-1. Klik **Nieuw**, en selecteer **Nieuwe Organisator van het Gebied**.
+1. Klikken **Nieuw** en selecteert u **Nieuwe veldOrganizer**.
 
    ![](assets/two.png)
 
-1. Klik **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). De jaarlijkse ontvangsten worden hier gebruikt.
+1. Klikken **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). De jaarlijkse ontvangsten worden hier gebruikt.
 
    ![](assets/nine.png)
 
-1. Klik **Maken**.
+1. Klikken **Maken**.
 
    ![](assets/9.5.png)
 
@@ -112,13 +111,13 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    ![](assets/9.6.png)
 
-1. Klik op de standaardnaam van de aangepaste groep boven de editor voor gehele getallen om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Jaarlijkse inkomstengroep&quot; wijzigen in &quot;Jaarlijkse inkomsten op grootte&quot;. Klik **Opslaan**.
+1. Klik op de standaardnaam van de aangepaste groep boven de editor voor gehele getallen om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Jaarlijkse inkomstengroep&quot; wijzigen in &quot;Jaarlijkse inkomsten op grootte&quot;. Klikken **Opslaan**.
 
    ![](assets/eleven.png)
 
    Met de editor voor gehele getallen kunt u meerdere subgroepen maken om elke subgroep op grootte te definiëren. In dit voorbeeld worden drie groepen gemaakt voor kleine, middelgrote en ondernemingen.
 
-1. Als u de eerste groep wilt toevoegen, voert u een naam in het veld **Groepsnaam** in (voorbeeld: Klein) en voer een maximumwaarde in het veld **Groepbereik** in (voorbeeld: 200000). Klik **Groep toevoegen**.
+1. Als u de eerste groep wilt toevoegen, voert u een naam in het dialoogvenster **Groepsnaam** field (voorbeeld: (Klein) en voer een maximale waarde in in het dialoogvenster **Groepsbereik** field (voorbeeld: 200000). Klikken **Groep toevoegen**.
 
    ![](assets/twelve.png)
 
@@ -142,23 +141,23 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    >[!NOTE]
    >
-   >Nadat de groepen zijn gedefinieerd, kunt u de aangepaste veldgroep voor rapportage inschakelen in de modelanalyse van prestaties (lead) via het tabblad Analyse van de inkomstencyclus in Beheer van leads van Marketo.
+   >Nadat de groepen zijn gedefinieerd, kunt u de aangepaste veldgroep voor rapportage inschakelen in het tabblad Analyse van de inkomstencyclus in Marketo Lead Management (Modelprestatie-analyse).
 
 ## Aangepaste veldgroep maken - Datumeditor {#create-custom-field-group-date-editor}
 
-1. Klik **Lead Database**.
+1. Klikken **Database lead**.
 
    ![](assets/one.png)
 
-1. Klik **Nieuw**, en selecteer **Nieuwe Organisator van het Gebied**.
+1. Klikken **Nieuw** en selecteert u **Nieuwe veldOrganizer**.
 
    ![](assets/two.png)
 
-1. Klik **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). Aankoopdatum wordt hier gebruikt.
+1. Klikken **Veld** en selecteer een standaard- of aangepast veld met een gegevenstype dat is toegewezen aan de tekenreekseditor (zie tabel in vorige sectie). Aankoopdatum wordt hier gebruikt.
 
    ![](assets/fourteen.png)
 
-1. Klik **Maken**.
+1. Klikken **Maken**.
 
    ![](assets/14.5.png)
 
@@ -166,13 +165,13 @@ In de volgende drie secties wordt beschreven hoe u een aangepaste veldgroep maak
 
    ![](assets/14.6.png)
 
-1. Klik op de standaardnaam van de aangepaste groep boven de datumeditor om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Groep met overnamedatum&quot; wijzigen in &quot;Categorieën overnamedatum&quot;. Klik **Opslaan**.
+1. Klik op de standaardnaam van de aangepaste groep boven de datumeditor om de naam aan te passen. U kunt bijvoorbeeld de naam &quot;Groep met overnamedatum&quot; wijzigen in &quot;Categorieën overnamedatum&quot;. Klikken **Opslaan**.
 
    ![](assets/fifteen.png)
 
    Met de datumeditor kunt u meerdere subgroepen maken en elke subgroep op datum definiëren. In dit voorbeeld worden drie groepen gemaakt: Q1-15 Leads, Q2-15 Leads en Q3-15 Leads.
 
-1. Als u de eerste groep wilt toevoegen, voert u een naam in het veld **Groepsnaam** in (voorbeeld: Q1-15 Leads) en voer in het datumveld een datum in die de datum vertegenwoordigt waarop de lead is verworven op of eerder (bijvoorbeeld: 3/31/2015 voor de laatste dag van het eerste kwartaal van 2015). Klik **Groep toevoegen**.
+1. Als u de eerste groep wilt toevoegen, voert u een naam in het dialoogvenster **Groepsnaam** field (voorbeeld: Q1-15 Leads) en voer in het datumveld een datum in die de datum vertegenwoordigt waarop de lead is verworven op of eerder (bijvoorbeeld: 3/31/2015 voor de laatste dag van het eerste kwartaal van 2015). Klikken **Groep toevoegen**.
 
    ![](assets/sixteen.png)
 

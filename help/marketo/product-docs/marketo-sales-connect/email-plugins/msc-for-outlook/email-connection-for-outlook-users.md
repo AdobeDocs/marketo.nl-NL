@@ -1,15 +1,14 @@
 ---
 unique-page-id: 17727591
-description: E-mailverbinding voor Outlook-gebruikers - Marketo Docs - Productdocumentatie
+description: E-mailverbinding voor Outlook-gebruikers - Marketo-documenten - Productdocumentatie
 title: E-mailverbinding voor Outlook-gebruikers
-translation-type: tm+mt
-source-git-commit: 567a18fde3335076cc24d2302096c791fa4084f0
+exl-id: e694915c-39a6-4476-a643-080acb758de7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
 
 ---
-
 
 # E-mailverbinding voor Outlook-gebruikers {#email-connection-for-outlook-users}
 
@@ -19,7 +18,7 @@ Leer hoe u uw Sales Connect-account kunt verbinden met Outlook.
 >
 >Elke gebruiker moet verbinding maken met Outlook vanuit zijn Sales Connect-account.
 
-## Online verbinding maken met Outlook {#connecting-to-outlook-online}
+## Verbinding maken met Outlook Online {#connecting-to-outlook-online}
 
 Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het de leveringskanaal van Vooruitzichten, de capaciteit zult ontvangen om e-mails in Vooruitzichten te plannen, en naleving te verzenden.
 
@@ -27,23 +26,23 @@ Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het
 
    ![](assets/one.png)
 
-1. Selecteer **E-mailinstellingen** onder Mijn account.
+1. Selecteer onder Mijn account de optie **E-mailinstellingen**.
 
    ![](assets/two.png)
 
-1. Klik op het tabblad **E-mailverbinding**.
+1. Klik op de knop **E-mailverbinding** tab.
 
    ![](assets/three.png)
 
-1. Klik **Aan de slag**.
+1. Klikken **Aan de slag**.
 
    ![](assets/four.png)
 
-1. Selecteer **Ik gebruik Outlook om e-mails te verzenden** en klik **Volgende**.
+1. Selecteren **Ik gebruik Outlook om e-mailberichten te verzenden** en klik op **Volgende**.
 
    ![](assets/five-a.png)
 
-1. Selecteer de versie van Vooruitzichten u gebruikt en klik **Next**. In dit voorbeeld kiezen we Outlook Online.
+1. Selecteer de versie van Vooruitzichten u gebruikt en klik **Volgende**. In dit voorbeeld kiezen we Outlook Online.
 
    ![](assets/six-a.png)
 
@@ -62,17 +61,17 @@ Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het
 
    >[!NOTE]
    >
-   >Marketo biedt momenteel geen ondersteuning voor Exchange Hybrid-accounts.
+   >Marketo biedt momenteel geen ondersteuning voor Hybride Exchange-accounts.
 
-1. Klik **OK**.
+1. Klikken **OK**.
 
    ![](assets/seven-a.png)
 
-1. Als u niet aan Vooruitzichten het programma wordt geopend, ga uw login info in en klik **Next**. Kies in dat geval de account waarmee u verbinding wilt maken en klik op **Volgende**. In dit voorbeeld zijn we al aangemeld.
+1. Als u niet aan Vooruitzichten het programma wordt geopend, ga uw login info in en klik **Volgende**. Kies in dat geval de account waarmee u verbinding wilt maken en klik op **Volgende**. In dit voorbeeld zijn we al aangemeld.
 
    ![](assets/eight-a.png)
 
-1. Klik **Accepteren**.
+1. Klikken **Accepteren**.
 
    ![](assets/nine-a.png)
 
@@ -80,7 +79,7 @@ Het verbinden met Vooruitzichten betekent u antwoord het volgen, toegang tot het
 
    >[!NOTE]
    >
-   >De vooruitzichten online (Office365) dwingen zijn eigen verzendende grenzen af. [Klik hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits) voor meer informatie.
+   >De vooruitzichten online (Office365) dwingen zijn eigen verzendende grenzen af. [Meer informatie hier](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Verbinding maken met Exchange op locatie {#connecting-to-exchange-on-premise}
 
@@ -90,23 +89,23 @@ Het verbinden met Uitwisseling op locatie betekent u antwoord het volgen, toegan
 
    ![](assets/one.png)
 
-1. Selecteer **E-mailinstellingen** onder Mijn account.
+1. Selecteer onder Mijn account de optie **E-mailinstellingen**.
 
    ![](assets/two.png)
 
-1. Klik op het tabblad **E-mailverbinding**.
+1. Klik op de knop **E-mailverbinding** tab.
 
    ![](assets/three.png)
 
-1. Klik **Aan de slag**.
+1. Klikken **Aan de slag**.
 
    ![](assets/four.png)
 
-1. Selecteer **Ik gebruik Outlook om e-mails te verzenden** en klik **Volgende**.
+1. Selecteren **Ik gebruik Outlook om e-mailberichten te verzenden** en klik op **Volgende**.
 
    ![](assets/five-a.png)
 
-1. Selecteer de versie van Vooruitzichten u gebruikt en klik **Next**. In dit voorbeeld kiezen wij Uitwisseling op-gebouw.
+1. Selecteer de versie van Vooruitzichten u gebruikt en klik **Volgende**. In dit voorbeeld kiezen wij Uitwisseling op-gebouw.
 
    ![](assets/six-b.png)
 
@@ -123,7 +122,7 @@ Het verbinden met Uitwisseling op locatie betekent u antwoord het volgen, toegan
     </tbody>
    </table>
 
-1. Voer uw referenties in en klik op **Connect**.
+1. Voer uw gegevens in en klik op **Verbinden**.
 
    ![](assets/seven-b.png)
 

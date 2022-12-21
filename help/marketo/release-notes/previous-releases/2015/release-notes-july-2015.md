@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ## Marketo Moments {#marketo-moments}
 
-Bij de lunch maar moet u een e-mail opnieuw plannen? De Marketo Moments-app, die beschikbaar is in de App Store of Google Play, geeft u de kracht om te zien hoe uw e-mail- en gebeurtenissencampagnes in real-time presteren en wat er in de toekomst gebeurt, vanaf uw iPhone-, iPad- of Android-telefoon.
+Bij de lunch maar moet u een e-mail opnieuw plannen? De Marketo Moments-app, verkrijgbaar via The App Store of Google Play, biedt u de kracht om te zien hoe uw e-mail- en gebeurtenissencampagnes in real-time presteren en wat er in de toekomst gebeurt, vanaf uw iPhone-, iPad- of Android-telefoon.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## RTF-editor bijwerken {#rich-text-editor-update}
 
-Bijgewerkte teksteditor met moderne vormgeving, zoals gestroomlijnde tekstopmaak, beeldbewerking, invoegen van koppelingen en HTML-bewerking. De HTML-editor beschikt nu over minimale validatie, waardoor code minder restrictief kan worden bewerkt.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Deze update wordt automatisch uitgevoerd binnen een paar dagen na de release van juli. Daarna kunt u schakelen tussen de nieuwe en oudere versies van de editor via **Beheer > E-mail > Editor-instellingen bewerken**.
+Bijgewerkte teksteditor met moderne vormgeving, zoals gestroomlijnde tekstopmaak, beeldbewerking, het invoegen van koppelingen en het bewerken van HTML. In de HTML editor is nu minimale validatie beschikbaar, zodat code minder restrictief kan worden bewerkt.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Deze update wordt automatisch uitgevoerd binnen een paar dagen na de release van juli. Hierna kunt u schakelen tussen de nieuwe en oudere versie van de editor vanuit **Beheer > E-mail > Editor-instellingen bewerken**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -49,8 +49,8 @@ Hebt u opstelling verscheidene gepersonaliseerde campagnes RTP en opgemerkt dat 
 
 **Toegang tot bedrijfsobjecten via de REST API**: De REST API biedt nu toegang tot de Marketo Company (ook wel bekend als Account). Dit betekent dat u in Marketo gemaakte bedrijfsobjecten kunt lezen, bijwerken en verwijderen en dat u leads aan dergelijke bedrijven kunt koppelen met de bijgewerkte API voor leads.
 
-Leer [meer](https://developers.marketo.com/documentation/company-api/) in onze verwijzingsgids voor het Bedrijf API.
+Meer informatie [meer](https://developers.marketo.com/documentation/company-api/) in onze verwijzingsgids voor het Bedrijf API.
 
 ## Toegang tot e-maillevering {#access-email-deliverability}
 
-**Hulpprogramma** voor e-maillevering openen: Met deze nieuwe machtiging kunnen beheerders gebruikers toegang verlenen tot het gereedschap E-maillevering.
+**Hulpprogramma voor e-maillevering openen**: Met deze nieuwe machtiging kunnen beheerders gebruikers toegang verlenen tot het gereedschap E-maillevering.

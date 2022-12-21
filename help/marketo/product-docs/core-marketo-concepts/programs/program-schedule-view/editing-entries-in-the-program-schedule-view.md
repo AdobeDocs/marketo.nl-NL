@@ -3,25 +3,24 @@ unique-page-id: 1147136
 description: Bewerkingen in de programmaplanningweergave - Marketo Docs - Productdocumentatie
 title: Bewerkingangen in de programmaweergave
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Bewerkingangen in de Mening {#editing-entries-in-the-program-schedule-view} van het Programma
+# Bewerkingangen in de programmaweergave {#editing-entries-in-the-program-schedule-view}
 
 U kunt de verschillende elementen van uw programma in de planningsmening uitgeven.
 
-## De naam van een item {#edit-an-entrys-name} bewerken
+## De naam van een item bewerken {#edit-an-entrys-name}
 
 1. Selecteer de vermelding die u wilt bewerken.
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Typ een nieuwe naam en druk op **Enter/Return** op het toetsenbord om de wijziging te bevestigen.
+1. Typ een nieuwe naam en druk op **Enter/Return** op uw toetsenbord om de wijziging te bevestigen.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -29,13 +28,13 @@ U kunt de verschillende elementen van uw programma in de planningsmening uitgeve
 >
 >Hiermee wijzigt u alleen de weergavenaam in de overzichtsweergave. De naam van het element in uw programma blijft ongewijzigd.
 
-## Beschrijving van item bewerken {#edit-an-entrys-description}
+## De beschrijving van een item bewerken {#edit-an-entrys-description}
 
 1. Klik op het beschrijvingspictogram.
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. Bewerk je beschrijving. Klik **Opslaan**.
+1. Bewerk je beschrijving. Klikken **Opslaan**.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
@@ -43,7 +42,7 @@ U kunt de verschillende elementen van uw programma in de planningsmening uitgeve
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
-## Datum {#edit-an-entrys-date} van item bewerken
+## De datum van een bericht bewerken {#edit-an-entrys-date}
 
 1. Selecteer de nieuwe datum.
 

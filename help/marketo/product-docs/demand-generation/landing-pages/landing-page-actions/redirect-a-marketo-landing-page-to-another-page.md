@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359740
-description: Leid een Marketo-landingspagina om naar een andere pagina - Marketo Docs - Productdocumentatie
-title: Een bestemmingspagina van Marketo omleiden naar een andere pagina
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Een Marketo-landingspagina omleiden naar een andere pagina - Marketo Docs - Productdocumentatie
+title: Marketo-landingspagina omleiden naar een andere pagina
+exl-id: fe744546-d075-4686-bf42-543bb3624dbb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
 
 ---
 
-
-# Een bestemmingspagina van Marketo omleiden naar een andere pagina {#redirect-a-marketo-landing-page-to-another-page}
+# Marketo-landingspagina omleiden naar een andere pagina {#redirect-a-marketo-landing-page-to-another-page}
 
 Als u ooit de URL van een pagina bijwerkt en de oude URL nog wilt laten werken, probeert u een omleiding! Het is gemakkelijk om het op te zetten.
 
@@ -19,23 +18,23 @@ Als u ooit de URL van een pagina bijwerkt en de oude URL nog wilt laten werken, 
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik onder **Admin** op **Pagina&#39;s laden**.
+1. Onder **Beheer**, klikt u op **Openingspagina&#39;s**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. Onder **Regels** tabel, klik **Nieuw** en dan **Nieuwe Redirect Regel**.
+1. Onder de **Regels** tabblad, klikt u op **Nieuw** en vervolgens **Nieuwe omleidingsregel**.
 
    ![](assets/two-1.png)
 
-1. Klik eerste **Originele URL** drop-down en selecteer uw Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+1. Klik op de eerste knop **Oorspronkelijke URL** en selecteer je Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
    >[!NOTE]
    >
-   >Herinner me, kunt u URLs slechts omleiden die met uw Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) beginnen.
+   >Je kunt alleen URL&#39;s omleiden die beginnen met je Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Kies de landingspagina die u wilt omleiden in het tweede **veld Oorspronkelijke URL**.
+1. Kies de bestemmingspagina die u in de tweede fase wilt omleiden **Oorspronkelijke URL** veld.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -43,17 +42,17 @@ Als u ooit de URL van een pagina bijwerkt en de oude URL nog wilt laten werken, 
    >
    >U kunt elk URL-pad invoeren, zelfs als de pagina of map niet bestaat.
 
-1. Klik op de vervolgkeuzelijst **URL omleiden** en selecteer de pagina waarnaar u bezoekers wilt omleiden.
+1. Klik op de knop **URL omleiden** en selecteer de pagina waarnaar u bezoekers wilt omleiden.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
-1. Klik **Maken**.
+1. Klikken **Maken**.
 
    ![](assets/image2014-9-25-15-3a48-3a5.png)
 
    >[!TIP]
    >
-   >Als u wilt omleiden naar een webpagina buiten Marketo, klikt u op **Openingspagina van niet-Marketo gebruiken**.
+   >Als u wilt omleiden naar een webpagina buiten Marketo, klikt u op **Niet-Marketo-bestemmingspagina gebruiken**.
 
    >[!MORELIKETHIS]
    >

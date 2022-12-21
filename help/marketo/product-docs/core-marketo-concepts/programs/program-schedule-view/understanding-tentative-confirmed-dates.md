@@ -3,7 +3,6 @@ unique-page-id: 1147140
 description: Inzicht krijgen in voorlopige/bevestigde datums - Marketo Docs - Productdocumentatie
 title: Inzicht krijgen in voorlopige/bevestigde datums
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Tijdelijke/bevestigde datums {#understanding-tentative-confirmed-dates}
+# Inzicht krijgen in voorlopige/bevestigde datums {#understanding-tentative-confirmed-dates}
 
-Slimme campagnes en e-mailprogramma&#39;s hebben een krachtige mogelijkheid om te worden gemarkeerd als **Tentatief** of **Bevestigd**. Zo werken ze.
+Slimme campagnes en e-mailprogramma&#39;s hebben een krachtig vermogen om als **Tentatief** of **Bevestigd**. Zo werken ze.
 
 ## Tentatief {#tentative}
 
-Met negatieve datums wordt de intentie overgebracht. Beschouw dit als _penciling_ iets in de kalender. Alternatieve items worden niet uitgevoerd. Het zijn alleen plaatsaanduidingen.
+Met negatieve datums wordt de intentie overgebracht. Beschouw dit als _piek_ iets in de kalender. Alternatieve items worden niet uitgevoerd. Het zijn alleen plaatsaanduidingen.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -25,7 +24,7 @@ Met negatieve datums wordt de intentie overgebracht. Beschouw dit als _penciling
 >
 >Alleen batchslimme campagnes en e-mailprogramma&#39;s kunnen indicatief zijn.
 
-## Berichten {#confirming-entries} bevestigen
+## Berichten bevestigen {#confirming-entries}
 
 Dit is net als het goedkeuren van een middel, zodat moeten de ingangen volledig opstelling zijn alvorens u hen kunt bevestigen. Als alle eenden in een rij staan, kunt u vermeldingen bevestigen door de tijdelijke tab naar rechts te schuiven.
 
@@ -45,9 +44,9 @@ Bevestigde ingangen worden zeker uitgevoerd. Zij hebben regels, goedgekeurde act
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## {#finished} voltooid
+## Voltooid  {#finished}
 
-Voltooide items zijn al uitgevoerd. Ze kunnen alleen in het verleden zijn (uiteraard). Als een item eenmaal is uitgevoerd en **Voltooid** is, kunt u het item niet verplaatsen of activeren. (Geen wijziging van de realiteit en verstoring van het continuum van de tijdstream.)
+Voltooide items zijn al uitgevoerd. Ze kunnen alleen in het verleden zijn (uiteraard). Zodra een ingang loopt en is **Voltooid**, kunt u deze niet verplaatsen of voorlopig maken. (Geen wijziging van de realiteit en verstoring van het continuum van de tijdstream.)
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

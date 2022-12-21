@@ -2,14 +2,13 @@
 unique-page-id: 1900589
 description: Bijgehouden koppelingen toevoegen aan een tekste-mail - Marketo Docs - Productdocumentatie
 title: Bijgehouden koppelingen toevoegen aan een tekste-mail
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
 
 ---
-
 
 # Bijgehouden koppelingen toevoegen aan een tekste-mail {#add-tracked-links-to-a-text-email}
 

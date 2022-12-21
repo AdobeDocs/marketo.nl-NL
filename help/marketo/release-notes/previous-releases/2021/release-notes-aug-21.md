@@ -15,7 +15,7 @@ De volgende functies zijn opgenomen in de release van augustus &#39;21. Controle
 
 >[!AVAILABILITY]
 >
->Kenmerken die door een ster worden aangeduid (![](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Adobe Marketo Engage voor meer informatie.
+>Kenmerken die door een ster worden aangeduid (![](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met je Adobe Marketo Engage-vertegenwoordiger voor meer informatie.
 
 **_Kwartaalreleases_**
 

@@ -1,27 +1,26 @@
 ---
 unique-page-id: 14352412
-description: Identiteit toevoegen - Marketo Docs - Productdocumentatie
+description: Identiteit toevoegen - Marketo-documenten - Productdocumentatie
 title: Identiteit toevoegen
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-
-# Identiteit {#add-identity} toevoegen
+# Identiteit toevoegen {#add-identity}
 
 Voeg een identiteit toe wanneer u meerdere e-mailadressen hebt om van te verzenden.
 
 1. Klik op het pictogram Instellingen.
 
-1. Klik **E-mailinstellingen**.
+1. Klikken **E-mailinstellingen**.
 
-1. Klik **Identiteit toevoegen**.
+1. Klikken **Identiteit toevoegen**.
 
-1. Voer uw gegevens in (e-mail en naam zijn verplichte velden) en klik op **Maken** als u klaar bent.
+1. Voer uw gegevens in (e-mail en naam zijn verplichte velden) en klik op **Maken** wanneer gereed.
 
 1. Klik op de koppeling in het verificatiebericht dat u ontvangt.
 
@@ -33,4 +32,4 @@ Voeg een identiteit toe wanneer u meerdere e-mailadressen hebt om van te verzend
 
    >[!MORELIKETHIS]
    >
-   >[Voeg uw e-mailhandtekening](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md) toe.
+   >[Uw e-mailhandtekening toevoegen](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).

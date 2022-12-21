@@ -2,16 +2,15 @@
 unique-page-id: 4718648
 description: Kennis van de Opportunity Influence Analyzer - Marketo Docs - Productdocumentatie
 title: De Opportunity Influence Analyzer begrijpen
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
 
 ---
 
-
-# De analyse van opportuniteit beïnvloeden {#understanding-the-opportunity-influence-analyzer}
+# De Opportunity Influence Analyzer begrijpen {#understanding-the-opportunity-influence-analyzer}
 
 Elke kans is een verhaal. Waar heb je de leiding ontmoet? Welke afzetmogelijkheden hadden zij tijdens het marketing-/verkoopproces?
 
@@ -19,7 +18,7 @@ Met de Opportunity Influence Analyzer kunt u het hele verhaal zien. Het is zelfs
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 
-**Let op de groene controles**. Zij wijzen op programmasucces voor één van de namen die op het recht worden gecontroleerd. Het groene gebied geeft het begin en einde van de opportuniteit aan.
+**Groene controles bekijken**. Zij wijzen op programmasucces voor één van de namen die op het recht worden gecontroleerd. Het groene gebied geeft het begin en einde van de opportuniteit aan.
 
 >[!NOTE]
 >
@@ -27,7 +26,7 @@ Met de Opportunity Influence Analyzer kunt u het hele verhaal zien. Het is zelfs
 
 Gebruik de controles op het recht om mensen toe te voegen/te verwijderen uit de grafiek of op verschillende rekeningen of kansen over te schakelen.
 
-## Unieke accounts {#identifying-unique-accounts} identificeren
+## Unieke accounts identificeren {#identifying-unique-accounts}
 
 Marketo gebruikt de CRM-id om accounts op unieke wijze te identificeren.
 

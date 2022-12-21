@@ -2,14 +2,13 @@
 unique-page-id: 7514126
 description: Attributievoorbeeld 1 - Marketo Docs - Productdocumentatie
 title: Attributievoorbeeld 1
-translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
-
 
 # Attributievoorbeeld 1 {#attribution-example}
 

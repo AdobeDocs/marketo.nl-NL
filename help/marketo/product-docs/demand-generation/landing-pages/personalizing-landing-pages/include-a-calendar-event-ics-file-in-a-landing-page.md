@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359540
-description: Neem een ICS-bestand voor kalendergebeurtenissen op in een bestemmingspagina - Marketo Docs - Productdocumentatie
+description: Neem een ICS-bestand voor kalendergebeurtenissen op in een openingspagina - Marketo Docs - Productdocumentatie
 title: Een ICS-bestand voor kalendergebeurtenissen opnemen in een bestemmingspagina
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
+# Een ICS-bestand voor kalendergebeurtenissen opnemen in een bestemmingspagina {#include-a-calendar-event-ics-file-in-a-landing-page}
 
-# Neem een ICS-bestand voor kalendergebeurtenissen op in een openingspagina {#include-a-calendar-event-ics-file-in-a-landing-page}
-
-Met de token **Kalenderbestand** kunt u een agendagebeurtenis (.ics) toevoegen aan uw Marketo-landingspagina&#39;s.
+A **Kalenderbestand** kunt u een agendagebeurtenis (.ics) toevoegen aan uw Marketo-bestemmingspagina&#39;s.
 
 >[!PREREQUISITES]
 >
@@ -24,7 +23,7 @@ Met de token **Kalenderbestand** kunt u een agendagebeurtenis (.ics) toevoegen a
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
-1. Selecteer **Kalenderbestand** en klik op **Invoegen**.
+1. Selecteer **Kalenderbestand** token en klik op **Invoegen**.
 
    >[!CAUTION]
    >
@@ -35,7 +34,7 @@ Met de token **Kalenderbestand** kunt u een agendagebeurtenis (.ics) toevoegen a
 
    ![](assets/image2015-1-6-16-3a31-3a28.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    De mensen zullen een landingspagina zien die als dit kijkt:
 

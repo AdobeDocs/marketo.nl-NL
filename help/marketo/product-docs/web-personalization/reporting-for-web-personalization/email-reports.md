@@ -2,20 +2,19 @@
 unique-page-id: 4719338
 description: E-mailrapporten - Marketo Docs - Productdocumentatie
 title: E-mailrapporten
-translation-type: tm+mt
-source-git-commit: f74d028e491aa70913fbe5cf14e536e50dbee32b
+exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%
 
 ---
 
-
 # E-mailrapporten {#email-reports}
 
-Als u wilt aanpassen welk geautomatiseerd e-mailrapport de gebruiker ontvangt, raadpleegt u het gedeelte [Gebruikersinstellingen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Als u wilt aanpassen welk automatisch e-mailrapport de gebruiker ontvangt, raadpleegt u de  [Sectie Gebruikersinstellingen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
 
-## E-mailrapporten {#web-personalization-email-reports} over persoonlijke voorkeur op het web
+## E-mailrapporten voor webpersonalisatie {#web-personalization-email-reports}
 
 Dagelijkse of wekelijkse e-mailrapporten worden verzonden naar het e-mailadres van de gebruiker met de meest recente prestatiegegevens van organisatie, persoon, campagne en middelen.
 
@@ -27,7 +26,7 @@ De volgende rapporten zijn beschikbaar:
 
 Het dagelijkse/wekelijkse rapport stuurt de gebruiker een e-mail van de 50 belangrijkste bezoekende organisaties, met inbegrip van de naam van de Organisatie, de plaats, het aantal bezoeken, paginameningen en verwijzingsplaats of gebruikte onderzoekstermijn.
 
-## Dagelijks/wekelijks Personen rapporteren {#daily-weekly-people-report}
+## Dagelijks/wekelijks Persverslag {#daily-weekly-people-report}
 
 ![](assets/two.png)
 
@@ -45,7 +44,7 @@ Met het rapport Best Performance Real-Time Campaigns (Meest uitvoerende realtime
 
 Met het Rapport Best Performance Assets wordt de gebruiker een e-mail gestuurd met de belangrijkste inhoudselementen, waarin de elementnaam en het percentage van overeenkomsten worden weergegeven in vergelijking met andere elementen.
 
-## Rapport met aanbevolen elementen {#recommended-assets-report}
+## Rapport Aanbevolen elementen {#recommended-assets-report}
 
 ![](assets/image2014-12-6-13-3a28-3a43.png)
 
@@ -67,6 +66,6 @@ Het overzichtsrapport verstuurt de gebruiker een e-mail (maandelijks of driemaan
 
 >[!NOTE]
 >
->Marketo Web Personalization legt het e-mailadres van de webbezoeker vast voor elk formulier dat op de website is ingevuld. Dit wordt bekeken in de pagina van de Mensen van de Personalisatie van het Web en is de persoon die in het Samenvattingsrapport wordt gebruikt.
+>Met Marketo Web Personalization wordt het e-mailadres van de webbezoeker vastgelegd voor elk formulier dat op de website is ingevuld. Dit wordt bekeken in de pagina van de Mensen van de Personalisatie van het Web en is de persoon die in het Samenvattingsrapport wordt gebruikt.
 
-Als u wilt aanpassen welk geautomatiseerd e-mailrapport de gebruiker ontvangt, raadpleegt u het gedeelte [Gebruikersinstellingen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).
+Als u wilt aanpassen welk automatisch e-mailrapport de gebruiker ontvangt, raadpleegt u de [Sectie Gebruikersinstellingen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md).

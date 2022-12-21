@@ -1,19 +1,18 @@
 ---
 unique-page-id: 11384665
-description: Predictieve inhoud begrijpen - Marketo Docs - Productdocumentatie
+description: Predictieve inhoud begrijpen - Marketo Docs - productdocumentatie
 title: Voorspelende inhoud
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
 
 ---
 
-
 # Voorspelende inhoud {#understanding-predictive-content}
 
-Nadat u [een titel voor vooruitlopende inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) goedkeurt, werkt u hier aan het. Op de pagina Voorspelende inhoud worden alle titels weergegeven die u hebt goedgekeurd voor voorspellende inhoud.
+Na u [Een titel voor voorspellende inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)Daar werk je aan. Op de pagina Voorspelende inhoud worden alle titels weergegeven die u hebt goedgekeurd voor voorspellende inhoud.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -22,15 +21,15 @@ Paginavelden zijn:
 * **Afbeelding en titel**: De naam van de inhoud en de geselecteerde afbeelding
 * **Ingeschakeld op bron**: Toont of de titel voor Rijke Media, e-mail, of de Bar van de Aanbeveling wordt goedgekeurd.
 * **Categorieën**: Gemaakt door jou en gebruikt om je voorspellende resultaten te groeperen voor web of e-mail
-* **Klik**: Totale klik op aanbevolen inhoud (inclusief alle bronnen)
-* **Conversiesnelheid**: Een percentage dat wordt berekend door middel van directe omzettingen gedeeld door klikken. Houd de muisaanwijzer boven aanvullende gegevens (zie hieronder)
+* **Klikken**: Totale klik op aanbevolen inhoud (inclusief alle bronnen)
+* **Omzetsnelheid**: Een percentage dat wordt berekend door middel van directe omzettingen gedeeld door klikken. Houd de muisaanwijzer boven aanvullende gegevens (zie hieronder)
 * **Ondersteunde conversie**: Bezoekers die tijdens een vorig bezoek op aanbevolen inhoud hebben geklikt en later een formulier hebben ingevuld
 
-## Inhoud {#filtering-content} filteren
+## Inhoud filteren {#filtering-content}
 
 **Categorie**
 
-U kunt inhoud filteren op categorieën die u hebt gemaakt. Klik op het filterpictogram en selecteer een of meer inhoudscategorieën onder **Categorie**.
+U kunt inhoud filteren op categorieën die u hebt gemaakt. Klik op het filterpictogram en onder **Categorie** selecteert u een of meer inhoudscategorieën.
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
@@ -48,11 +47,11 @@ Door de analyse van ingeschakelde inhoud te filteren, kunt u zien hoe elke bron 
 
 ## Analyses weergeven op datum {#display-analytics-by-date}
 
-1. Selecteer de begin- en einddatum aan de rechterkant (zoals weergegeven). Klik **Toepassen**.
+1. Selecteer de begin- en einddatum aan de rechterkant (zoals weergegeven). Klikken **Toepassen**.
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
-## Tabelgegevens weergeven voor voorspellende inhoud {#view-table-data-for-predictive-content}
+## Tabelgegevens voor voorspellende inhoud weergeven {#view-table-data-for-predictive-content}
 
 In de tabel kunt u zien welke bronnen zijn ingeschakeld voor voorspellende inhoud, van links naar rechts: De Bar van de aanbeveling, e-mail, en rijke Media. Ingeschakelde bronnen worden groen weergegeven. U schakelt deze in wanneer u de inhoud bewerkt.
 
@@ -66,8 +65,8 @@ Houd de muisaanwijzer boven de balk in de kolom Conversiesnelheid om de conversi
 >
 >**Definities**
 >
->**Conversiesnelheid**: Een percentage berekend door middel van directe omzettingen gedeeld door klikken
+>**Omzetsnelheid**: Een percentage berekend door middel van directe omzettingen gedeeld door klikken
 >
 >**Directe omzetting**: Bezoekers die op aanbevolen inhoud hebben geklikt en tijdens hetzelfde bezoek een formulier hebben ingevuld
 >
->**Klik**: Het totale klikken op geadviseerde inhoud (met inbegrip van alle drie bronnen)
+>**Geklikt**: Het totale klikken op geadviseerde inhoud (met inbegrip van alle drie bronnen)

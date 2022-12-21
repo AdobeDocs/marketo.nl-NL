@@ -3,7 +3,6 @@ unique-page-id: 557154
 description: Een slimme lijst maken - Marketo Docs - Productdocumentatie
 title: Een slimme lijst maken
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '82'
@@ -23,15 +22,15 @@ Met slimme lijsten kunt u specifieke groepen mensen zoeken aan de hand van eenvo
 
    ![](assets/image2014-8-11-10-3a17-3a8.png)
 
-1. Klik onder **Nieuw** op **Nieuw lokaal element**.
+1. Onder **Nieuw**, klikt u op **Nieuw lokaal element**.
 
    ![](assets/image2014-9-9-16-3a26-3a28.png)
 
-1. Selecteer **Slimme lijst**.
+1. Selecteren **Slimme lijst**.
 
    ![](assets/image2014-9-9-16-3a27-3a18.png)
 
-1. Voer een **Naam** in en klik op **Maken**.
+1. Voer een **Naam** en klik op **Maken**.
 
    ![](assets/image2014-9-9-16-3a27-3a39.png)
 

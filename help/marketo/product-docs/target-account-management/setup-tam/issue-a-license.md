@@ -2,16 +2,15 @@
 unique-page-id: 11380771
 description: Een licentie afgeven - Marketo Docs - Productdocumentatie
 title: Een licentie afgeven
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 5cf3b23a-ab86-4707-8538-97583e4f267b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-
-# Licentie {#issue-a-license} uitgeven
+# Een licentie afgeven {#issue-a-license}
 
 U moet gebruikers instellen met een licentie om TAM te gebruiken. Zo doe je dat.
 
@@ -19,18 +18,18 @@ U moet gebruikers instellen met een licentie om TAM te gebruiken. Zo doe je dat.
 >
 >Het aantal beschikbare licenties is afhankelijk van uw abonnement. Neem contact op met je verkoper als je meer wilt.
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/issue-a-license-1.png)
 
-1. Klik **Gebruikers &amp; rollen**. Selecteer de gebruiker om de vergunning aan uit te geven, **Geef Vergunning** drop-down uit, en selecteer **Doel Account Management**.
+1. Klikken **Gebruikers en rollen**. Selecteer de gebruiker aan wie de licentie moet worden verleend. Klik op de knop **Licentie voor afgifte** en selecteert u **Doelaccountbeheer**.
 
    ![](assets/issue-a-license-2.png)
 
-1. Schakel het selectievakje **Licentie inschakelen** in en klik op **Opslaan**.
+1. Controleer de **Licentie inschakelen** selectievakje en klik op **Opslaan**.
 
    ![](assets/issue-a-license-3.png)
 
    >[!NOTE]
    >
-   >Als u de licentie van een gebruiker wilt verwijderen, volgt u stap 1 en schakelt u het selectievakje uit en klikt u op **Opslaan**.
+   >Als u een gebruikerslicentie wilt verwijderen, volgt u stap 1 en schakelt u het selectievakje uit en klikt u op **Opslaan**.

@@ -2,20 +2,19 @@
 unique-page-id: 12615781
 description: Een benoemd account maken - Marketo Docs - Productdocumentatie
 title: Een benoemd account maken
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-
 # Een benoemd account maken {#create-a-named-account}
 
 Ga als volgt te werk om handmatig een benoemde account te maken.
 
-1. Klik in Benoemde accounts op de vervolgkeuzelijst **Nieuw** en selecteer **Benoemde account maken**.
+1. Klik in Benoemde accounts op de knop **Nieuw** vervolgkeuzelijst en selecteer **Benoemd account maken**.
 
    ![](assets/two-1.png)
 

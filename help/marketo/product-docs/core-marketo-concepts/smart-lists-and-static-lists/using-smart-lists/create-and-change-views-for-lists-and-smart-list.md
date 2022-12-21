@@ -3,7 +3,6 @@ unique-page-id: 557337
 description: Weergaven voor lijsten en slimme lijsten maken en wijzigen - Marketo Docs - Productdocumentatie
 title: Weergaven voor lijsten en slimme lijsten maken en wijzigen
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '224'
@@ -17,7 +16,7 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 
 ## Een weergave maken {#create-a-view}
 
-1. Ga naar een lijst of slimme lijst, klik **Mensen** tabel, en klik **Create** **View** onder **View** drop-down.
+1. Ga naar een lijst of slimme lijst, klik op de knop **Mensen** en klikt u op **Maken** **Weergave** onder de **Weergave** vervolgkeuzelijst.
 
    ![](assets/smartlist-createview.png)
 
@@ -25,17 +24,17 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 
    ![](assets/image2014-9-12-11-3a23-3a53.png)
 
-1. Voeg/verwijder uw gewenste kolommen toe, dan klik **creëren**.
+1. Voeg/verwijder uw gewenste kolommen toe, dan klik **Maken**.
 
    ![](assets/image2014-9-12-11-3a24-3a7.png)
 
 >[!TIP]
 >
->Als u snel wilt zoeken, gebruikt u het vak **Zoeken**.
+>Als u snel wilt zoeken, gebruikt u de opdracht **Zoeken** doos.
 
 ## Weergaven omwisselen {#switch-views}
 
-1. Klik op de vervolgkeuzelijst **Weergave** en selecteer de gewenste weergave. Schakel indien nodig heen en weer tussen de weergaven.
+1. Klik op de knop **Weergave** en selecteert u de gewenste weergave. Schakel indien nodig heen en weer tussen de weergaven.
 
    ![](assets/smartlist-customviewchoose.png)
 
@@ -43,13 +42,13 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 >
 > Als u wilt schakelen tussen weergaven, moet u eerst een tweede weergave maken, naast de standaardweergave.
 
-## Weergave {#edit-a-view} bewerken
+## Een weergave bewerken {#edit-a-view}
 
-1. Controleer of de weergave die u wilt bewerken is geselecteerd in de vervolgkeuzelijst **Weergave**.
+1. Controleer of de weergave die u wilt bewerken is geselecteerd in het dialoogvenster **Weergave** vervolgkeuzelijst.
 
    ![](assets/smartlist-customviewchoose.png)
 
-1. Klik op de optie **Bewerken**.
+1. Klik op de knop **Bewerken** optie.
 
    ![](assets/smartlist-editcustomview.png)
 
@@ -57,13 +56,13 @@ In een slimme lijst wordt een standaardset kolommen weergegeven. Wist u dat u de
 
    ![](assets/image2014-9-12-11-3a27-3a19.png)
 
-## Een weergave {#delete-a-view} verwijderen
+## Een weergave verwijderen {#delete-a-view}
 
-1. Selecteer de optie **Bewerken** voor de weergave die u wilt verwijderen uit de vervolgkeuzelijst **Weergave**.
+1. Selecteer **Bewerken** voor de weergave die u wilt verwijderen uit het dialoogvenster **Weergave** vervolgkeuzelijst.
 
    ![](assets/smartlist-editcustomview.png)
 
-1. Klik **Delete**.
+1. Klikken **Verwijderen**.
 
    ![](assets/image2014-9-12-11-3a27-3a39.png)
 

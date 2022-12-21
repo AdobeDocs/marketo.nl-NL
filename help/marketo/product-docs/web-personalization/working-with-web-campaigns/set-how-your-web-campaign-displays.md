@@ -2,16 +2,15 @@
 unique-page-id: 12978906
 description: Stel hoe uw webcampagne wordt weergegeven - Marketo Docs - Productdocumentatie
 title: De weergave van uw webcampagne instellen
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-
-# Stel in hoe uw webcampagne {#set-how-your-web-campaign-displays} wordt weergegeven
+# De weergave van uw webcampagne instellen {#set-how-your-web-campaign-displays}
 
 Er zijn verschillende methoden om te gebruiken wanneer en hoe uw webcampagne wordt weergegeven.
 
@@ -25,21 +24,21 @@ Deze optie is standaard geselecteerd en geeft de campagne bij het laden van de p
 
 Geef een vertraging (in seconden) op waarmee webcampagnes op uw website kunnen reageren.
 
-1. Klik op de vervolgkeuzelijst **Weergeven op** en selecteer **Vertraging**.
+1. Klik op de knop **Weergeven ingeschakeld** vervolgkeuzelijst en selecteer **Vertraging**.
 
    ![](assets/d1.png)
 
-1. Klik **Wacht** drop-down en selecteer de gewenste hoeveelheid tijd.
+1. Klik op de knop **Wachten** en selecteer de gewenste hoeveelheid tijd.
 
    ![](assets/d2.png)
 
 ## Schuiven {#scroll}
 
-1. Klik op de vervolgkeuzelijst **Weergeven op** en selecteer **Schuiven**.
+1. Klik op de knop **Weergeven ingeschakeld** vervolgkeuzelijst en selecteer **Schuiven**.
 
    ![](assets/s1.png)
 
-1. Klik **When** drop-down en selecteer wanneer u uw Webcampagne wilt tonen.
+1. Klik op de knop **Wanneer** en selecteer wanneer u uw webcampagne wilt weergeven.
 
    ![](assets/s2.png)
 
@@ -60,11 +59,11 @@ Geef een vertraging (in seconden) op waarmee webcampagnes op uw website kunnen r
  </tbody> 
 </table>
 
-## Intentie {#exit-intent} afsluiten
+## Intentie afsluiten {#exit-intent}
 
 De intent van de uitgang zal de Webcampagne tonen wanneer de muiscurseuruitgang van browser.
 
-1. Klik op de vervolgkeuzelijst **Weergeven op** en selecteer **Intentie afsluiten**.
+1. Klik op de knop **Weergeven ingeschakeld** vervolgkeuzelijst en selecteer **Intentie afsluiten**.
 
    ![](assets/ei1.png)
 
@@ -74,4 +73,4 @@ De intent van de uitgang zal de Webcampagne tonen wanneer de muiscurseuruitgang 
 
 >[!TIP]
 >
->Wil je zien hoe je gekozen effecten er op de lange termijn uitzien? Bekijk ze via een [Voorvertoning van een webcampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>Wil je zien hoe je gekozen effecten er op de lange termijn uitzien? Bekijk ze via een [Voorvertoning webcampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

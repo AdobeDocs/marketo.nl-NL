@@ -35,7 +35,7 @@ Het bulksgewijs verzenden van e-mails is een geweldige manier om uw betrokkenhei
   </tr> 
   <tr> 
    <td>Groep-e-mail</td> 
-   <td>1 000</td> 
+   <td>1,000</td> 
    <td>Selecteer een groep en klik op de knop "Handelingen groeperen" of typ de naam van de groep in het veld Aan.</td> 
    <td>Ja</td> 
    <td>Nee</td> 

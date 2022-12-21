@@ -2,22 +2,21 @@
 unique-page-id: 2949716
 description: E-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor Outlook - Marketo Docs - Productdocumentatie
 title: E-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor Outlook
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-
-# Een e-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# E-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
 U kunt e-mails met Marketo rechtstreeks vanuit Outlook verzenden en volgen.
 
 >[!PREREQUISITES]
 >
->Als u nog niet hebt, installeer [toe:voegen-binnen van de Marketo e-mail voor Vooruitzichten](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Als u dat nog niet hebt gedaan, installeert u de [Marketo e-mailinvoegtoepassing voor Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 1. Open Microsoft Outlook en maak een nieuwe e-mail.
 
@@ -27,17 +26,17 @@ U kunt e-mails met Marketo rechtstreeks vanuit Outlook verzenden en volgen.
    >
    >Als u meerdere ontvangers in de e-mail opneemt, worden alle activiteiten bijgehouden onder de eerste ontvanger.
 
-1. Stel uw e-mail samen zoals u normaal zou doen, dan klik **verzend en Spoor**.
+1. Stel uw e-mail samen zoals u normaal zou doen, dan klik **Verzenden en volgen**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
    >[!NOTE]
    >
-   >Als u een e-mail naar iemand verzendt die niet in uw instantie Marketo bestaat, zal een Persoonsverslag automatisch voor hen worden gecreeerd. Hun achternaam zal altijd &#39;marktUnknown&#39; zijn zodat u hen gemakkelijk kunt vinden.
+   >Als u een e-mail naar iemand stuurt die niet in uw Marketo-exemplaar bestaat, wordt er automatisch een Personrecord voor deze persoon gemaakt. Hun achternaam zal altijd &#39;marktUnknown&#39; zijn zodat u hen gemakkelijk kunt vinden.
 
    >[!TIP]
    >
-   >Als u een malplaatje van het Marketo wilt gebruiken, zie [verzenden en Spoor van Vooruitzichten gebruikend een Malplaatje](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >Als u een Marketo-sjabloon wilt gebruiken, raadpleegt u [Verzenden en volgen vanuit Outlook met behulp van een sjabloon](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
 1. Bekijk de voorvertoning en klik op **Verzenden**.
 
@@ -51,8 +50,8 @@ U kunt e-mails met Marketo rechtstreeks vanuit Outlook verzenden en volgen.
 
    ![](assets/was-sent-sales-email.png)
 
-Zo eenvoudig is het! Hoewel deze e-mail door de Vooruitzichten van een verkoper werd verzonden, zal het in Marketo worden gevolgd.
+Zo eenvoudig is het! Hoewel dit e-mailbericht is verzonden door Outlook van een verkoper, wordt het bijgehouden in Marketo.
 
 >[!MORELIKETHIS]
 >
->[Log inkomende post van je leads in Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
+>[Inkomende e-mail van uw leads aanmelden in Marketo](/help/marketo/product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)

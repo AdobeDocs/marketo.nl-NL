@@ -1,17 +1,16 @@
 ---
 unique-page-id: 15368208
-description: Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren - Marketo Dos - de Documentatie van het Product
+description: Aanpassingen installeren in uw Salesforce-sandbox - Marketo-documenten - Productdocumentatie
 title: Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
-
-# Hoe te om Aanpassingen in Uw zandbak van Salesforce {#how-to-install-customizations-in-your-salesforce-sandbox} te installeren
+# Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren {#how-to-install-customizations-in-your-salesforce-sandbox}
 
 >[!NOTE]
 >
@@ -29,7 +28,7 @@ ht-degree: 0%
 
    ![](assets/two-3.png)
 
-1. Klik **Aanpassingen installeren**.
+1. Klikken **Aanpassingen installeren**.
 
    ![](assets/three-3.png)
 

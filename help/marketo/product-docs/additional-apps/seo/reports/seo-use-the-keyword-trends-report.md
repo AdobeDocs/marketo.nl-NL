@@ -3,7 +3,6 @@ unique-page-id: 2949273
 description: SEO - Use the Keyword Trends Report - Marketo Docs - Product Documentation
 title: SEO - het Rapport van de Trends van het Sleutelwoord gebruiken
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '178'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# SEO - gebruik het Rapport van de Trends van het Sleutelwoord {#seo-use-the-keyword-trends-report}
+# SEO - het Rapport van de Trends van het Sleutelwoord gebruiken {#seo-use-the-keyword-trends-report}
 
 In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerangschikt.
 
-## Rapport {#load-report} laden
+## Rapport laden {#load-report}
 
 1. Ga naar **Rapporten**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Klik op **Trefwoordratestendensen**.
+1. Klikken op **Trends trefwoordgroep**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -36,9 +35,9 @@ In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerang
    | Trefwoorden | Het aantal trefwoorden dat u bijhoudt. |
    | URL&#39;s rangschikken | Het aantal URL&#39;s in de siterangschikking in het bereik dat u hebt ingesteld. |
    | Gem. rangschikken | De gemiddelde positie van trefwoorden in het bereik dat u hebt ingesteld. |
-   | Gem. zoekopdrachten | Het gemiddelde aantal zoekopdrachten op de trefwoorden die zijn opgetreden tijdens het bereik dat u instelt (in de laatste 30 dagen bij Google US-zoekactie |
+   | Gem. zoekopdrachten | Het gemiddelde aantal zoekopdrachten voor de trefwoorden die zijn opgetreden tijdens het bereik dat u instelt (in de laatste 30 dagen bij de zoekactie in Google US) |
 
-## Gegevens {#filtering-data} filteren
+## Gegevens filteren {#filtering-data}
 
 1. Klik op de vervolgkeuzelijst en selecteer de gewenste tijdsperiode.
 
@@ -48,7 +47,7 @@ In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerang
 
    ![](assets/image2014-9-18-14-3a13-3a57.png)
 
-## Gegevens {#exporting-data} exporteren
+## Gegevens exporteren {#exporting-data}
 
 >[!TIP]
 >

@@ -1,32 +1,28 @@
 ---
 unique-page-id: 2359462
-description: Een e-mailprogramma goedkeuren/goedkeuren — Marketo Docs — Productdocumentatie
+description: Een e-mailprogramma goedkeuren/afkeuren - Marketo Docs - Productdocumentatie
 title: Een e-mailprogramma goedkeuren/goedkeuren
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-
 # Een e-mailprogramma goedkeuren/goedkeuren {#approve-unapprove-an-email-program}
 
 >[!PREREQUISITES]
 >
 >* [Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Een publiek definiëren met een slimme ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) listener  [Een publiek definiëren door een lijst te importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
-   >
-   >
-* [Kies een bestaande ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) e-mailprovider  [Een e-mailbericht maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-   >
-   >
-* [Uw e-mailprogramma plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Een publiek definiëren met een slimme lijst](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) of [Een publiek definiëren door een lijst te importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>
+>* [Bestaande e-mail kiezen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of [Een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>
+>* [Uw e-mailprogramma plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 
-## Uw e-mailprogramma {#approve-your-email-program} goedkeuren
+## Uw e-mailprogramma goedkeuren {#approve-your-email-program}
 
 Nu uw programma klaar is om te starten, moet u het goedkeuren. Hieronder wordt beschreven hoe:
 
@@ -41,7 +37,7 @@ Nu uw programma klaar is om te starten, moet u het goedkeuren. Hieronder wordt b
    >
    >Als u uw e-mailprogramma niet goedkeurt, wordt het e-mailbericht niet verzonden.
 
-1. Onder **Goedkeuring** tegel gaat en klik op **Programma goedkeuren**.
+1. Onder de **Goedkeuring** blok gaat verder en klik op **Programma goedkeuren**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -53,7 +49,7 @@ Nu uw programma klaar is om te starten, moet u het goedkeuren. Hieronder wordt b
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
-## Uw e-mailprogramma {#unapprove-your-email-program} niet goedkeuren
+## Uw e-mailprogramma niet goedkeuren {#unapprove-your-email-program}
 
 Als u van gedachten verandert en besluit dat u het e-mailprogramma niet wilt laten doorgaan, kunt u het goedkeuren van het e-mailprogramma ongedaan maken.
 
@@ -65,7 +61,7 @@ Als u van gedachten verandert en besluit dat u het e-mailprogramma niet wilt lat
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. Klik onder de **Titel Goedkeuring** gewoon op **Programma niet goedkeuren**.
+1. Onder de **Goedkeuring** tegel, klik gewoon op **Programma niet goedkeuren**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

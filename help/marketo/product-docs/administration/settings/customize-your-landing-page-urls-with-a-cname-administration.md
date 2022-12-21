@@ -3,7 +3,6 @@ unique-page-id: 2360189
 description: De URL's van uw bestemmingspagina aanpassen met een CNAME (Administration) - Marketo Docs - Productdocumentatie
 title: De URL's van uw bestemmingspagina aanpassen met een CNAME (Beheer)
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Pas uw het landen pagina URLs met een CNAME (Beleid) {#customize-your-landing-page-urls-with-a-cname-administration} aan
+# De URL&#39;s van uw bestemmingspagina aanpassen met een CNAME (Beheer) {#customize-your-landing-page-urls-with-a-cname-administration}
 
 Hoewel Marketo uw landingspagina&#39;s host, moet de URL voor uw bedrijf worden aangepast.
 
@@ -23,7 +22,7 @@ Hoewel Marketo uw landingspagina&#39;s host, moet de URL voor uw bedrijf worden 
 >
 >merknaam:
 >
->https://go.**Uw bedrijf**.com/UnsuscribePage.html
+>https://go.**YourCompany**.com/UnsuscribePage.html
 
 >[!NOTE]
 >
@@ -35,19 +34,19 @@ Laten we je oprichten!
 
    Het is het eerste deel van de URL. Voorbeelden:
 
-   * **Ga naar**.YourCompany.com/NameOfPage.html
+   * **gaan**.YourCompany.com/NameOfPage.html
    * **info**.YourCompany.com/NameOfPage.html
-   * **pagina**.YourCompany.com/NameOfPage.html
+   * **pagina&#39;s**.YourCompany.com/NameOfPage.html
 
    Het ene woord (plus YourCompany.com) wordt een CNAME genoemd. U hebt dit later nodig, dus noteer het.
 
 1. Zoek de tekenreeks van uw account.
 
-1. Ga naar **Admin** en klik op **Landing Pages**.
+1. Ga naar de **Beheer** gebied en klik op **Openingspagina&#39;s**.
 
    ![](assets/image2014-9-16-13-3a9-3a44.png)
 
-1. Kopieer onder het tabblad **Landing Pages** de tekenreeks Account uit het gedeelte Settings.
+1. Onder de **Openingspagina&#39;s** , kopieert u de tekenreeks Account vanuit het gedeelte Instellingen.
 
    ![](assets/image2014-9-16-13-3a9-3a57.png)
 
@@ -55,21 +54,21 @@ Laten we je oprichten!
 
 1. Verzoek naar IT verzenden.
 
-1. Vraag uw personeel van IT om volgende CNAME (vervang het woord [CNAME] en [ACCOUNT STRING] met de tekst van de vorige stap) te plaatsen:
+1. Vraag uw personeel van IT om volgende CNAME (vervang het woord [CNAME] en [ACCOUNTTEKENREEKS] met de tekst van de vorige stap):
 
-   [CNAME].YourCompany.com >  [ACCOUNT STRING].mktoweb.com
+   [CNAME].YourCompany.com > [ACCOUNTTEKENREEKS].mktoweb.com
 
 1. Volledige CNAME-instelling.
 
-1. Zodra uw IT CNAME heeft gecreeerd, ga naar **Admin** en klik op **Landing Pages**.
+1. Als uw IT-afdeling de CNAME heeft gemaakt, gaat u naar **Beheer** en klik op **Openingspagina&#39;s**.
 
    ![](assets/image2014-9-16-13-3a10-3a14.png)
 
-1. Klik onder de sectie **Instellingen** op **Bewerken**.
+1. Onder de **Instellingen** sectie, klikt u op **Bewerken**.
 
    ![](assets/image2014-9-16-13-3a10-3a31.png)
 
-1. Voer uw CNAME in **Domeinnaam voor Landing Pages** in, voer uw **Fallback-pagina** in, voer uw **Homepage** in en klik op **Opslaan**.
+1. Voer uw CNAME in **Domeinnaam voor bestemmingspagina&#39;s**, voer uw **Pagina voor alternatieven**, voer uw **Homepage** en klik op **Opslaan**.
 
    ![](assets/image2014-9-16-13-3a10-3a45.png)
 

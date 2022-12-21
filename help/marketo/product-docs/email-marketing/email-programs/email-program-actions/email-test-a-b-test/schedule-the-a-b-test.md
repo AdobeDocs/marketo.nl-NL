@@ -2,16 +2,15 @@
 unique-page-id: 2359547
 description: Plan de A/B-test - Marketo Docs - Productdocumentatie
 title: De A/B-test plannen
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
-
-# Plan de A/B-test {#schedule-the-a-b-test}
+# De A/B-test plannen {#schedule-the-a-b-test}
 
 Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor winnaars hebt gedefinieerd die u moet plannen wanneer de test begint. Zo gaat het.
 
@@ -23,11 +22,11 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 >
 >Voor Datum-/tijdtests hoeft u alleen in te stellen wanneer u de samenvatting van de testresultaten ontvangt.
 
-1. Selecteer de datum **Test verzenden**.
+1. Selecteer **Test verzenden** datum.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Selecteer **Send Test** tijd.
+1. Selecteer **Test verzenden** tijd.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -35,7 +34,7 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
    >
    >Test verzenden en Winner verzenden moet ten minste vier uur van elkaar verwijderd zijn. Voor grotere verzendingen wilt u echter misschien 24 uur wachten om voldoende tijd voor goede resultaten te krijgen.
 
-1. Doe het zelfde ding voor **Send Winner**. Voer (optioneel) ontvangers van een melding in en klik op **Volgende**.
+1. Doe hetzelfde voor **Winnaar verzenden**. Ontvangers voor meldingen invoeren (optioneel) en klikken **Volgende**.
 
    >[!NOTE]
    >
@@ -45,13 +44,13 @@ Nadat u een A/B-test hebt toegevoegd aan een e-mailprogramma en de criteria voor
 
    >[!NOTE]
    >
-   >Als u een winnaar handmatig wilt declareren, definieert u **Rapport verzenden** datum/tijd in plaats van **Mailing** datum/tijd voltooien.
+   >Als u een winnaar handmatig wilt declareren, definieert u **Rapport verzenden** datum/tijd in plaats van **Mailing voltooien** datum/tijd.
 
    Super! U bent klaar, bekijk enkel de samenvatting en klik Sluiten.
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   De **Schedule**-tegel is nu bijgewerkt.
+   U zult de **Schema** De tegel wordt nu bijgewerkt.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 

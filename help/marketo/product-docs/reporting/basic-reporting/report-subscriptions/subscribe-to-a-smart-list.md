@@ -2,14 +2,13 @@
 unique-page-id: 7505310
 description: Abonneren op een slimme lijst - Marketo Docs - Productdocumentatie
 title: Abonneren op een slimme lijst
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
 
 ---
-
 
 # Abonneren op een slimme lijst {#subscribe-to-a-smart-list}
 
@@ -32,39 +31,39 @@ Abonnementen zijn specifiek voor de werkruimte. Deze lijst met abonnementen bevi
 
 >[!NOTE]
 >
->U bent beperkt tot 100 abonnementen en een maximum van 100.000 mensen per abonnement, over werkruimten, per instantie Marketo. Als de slimme lijst meer dan 100.000 namen bevat, zal Marketo het abonnement voor eerste 100.000 in werking stellen.
+>U kunt per Marketo-instantie maximaal 100.000 abonnementen en maximaal 100.000 personen per abonnement gebruiken. Als de slimme lijst meer dan 100.000 namen bevat, voert Marketo het abonnement voor de eerste 100.000 uit.
 
-## Een abonnement op een slimme lijst maken {#create-a-smart-list-subscription}
+## Een abonnement voor een slimme lijst maken {#create-a-smart-list-subscription}
 
-1. Ga naar **Database** of **Marketing Activities**.
+1. Ga naar de **Database** of **Marketingactiviteiten**.
 
    ![](assets/db.png)
 
-1. Selecteer de slimme lijst waarvoor u een abonnement wilt maken. Klik **Handelingen weergeven** en selecteer **Nieuw slim lijstabonnement**.
+1. Selecteer de slimme lijst waarvoor u een abonnement wilt maken. Klikken **Handelingen weergeven** en selecteert u **Nieuw abonnement voor Smart List**.
 
    ![](assets/three.png)
 
-1. Geef uw abonnement een **Naam**, dan selecteer of ga de e-mailadressen van **Ontvangers** in.
+1. Geef uw abonnement een **Naam** selecteert of voert u vervolgens de e-mailadressen in van de **Ontvangers**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Klik op de lijst **Frequentie** en selecteer een frequentie.
+1. Klik op de knop **Frequentie** en selecteer een frequentie.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Stel de datum **Eindaflevering** in. U kunt **Nooit** of een kalenderdatum selecteren.
+1. Stel de **Aflevering beëindigen** datum. U kunt **Nooit** of een kalenderdatum.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Klik **Formaat** en kies van de lijst.
+1. Klikken **Indeling** en kiest u een optie in de lijst.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. Klik **Maken**.
+1. Klikken **Maken**.
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. Uw nieuwe abonnement op de slimme lijst wordt boven aan de lijst weergegeven op het tabblad Abonnementen. Klik **Send** als u nu wilt verzenden, en niet tot de geplande e-maillevering wachten.
+1. Uw nieuwe abonnement op de slimme lijst wordt boven aan de lijst weergegeven op het tabblad Abonnementen. Klikken **Verzenden** als u nu wilt verzenden en niet tot de geplande e-maillevering wilt wachten.
 
    ![](assets/eight.png)
 
@@ -76,11 +75,11 @@ Abonnementen zijn specifiek voor de werkruimte. Deze lijst met abonnementen bevi
 
 ## E-mailbericht {#email-message}
 
-Ontvangers ontvangen een e-mail met de optie om het rapport te downloaden en een koppeling rechtstreeks naar de lijst in de instantie Marketo. De downloadkoppeling verloopt over vier dagen.
+Ontvangers ontvangen een e-mail met de mogelijkheid om het rapport te downloaden en een koppeling rechtstreeks naar de lijst in het Marketo-exemplaar. De downloadkoppeling verloopt over vier dagen.
 
 >[!NOTE]
 >
->Als [Secure Subscription Admin](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) wordt ingesteld op **Yes**, kunnen alleen mensen met toegang tot de instantie Marketo het rapport downloaden.
+>Als de [Secure Subscription Admin](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) instellen op **Ja**, kunnen alleen personen die toegang hebben tot het Marketo-exemplaar het rapport downloaden.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -94,7 +93,7 @@ Als een rapport 0 personen bevat, ontvangen ontvangers nog steeds een e-mail. In
 
 De e-mail bevat ook aanvullende informatie over de filters die zijn gebruikt om de lijst te maken.
 
-## Abonnement {#delete-a-subscription} verwijderen
+## Een abonnement verwijderen {#delete-a-subscription}
 
 Als u een abonnement wilt verwijderen, selecteert u het op het tabblad Abonnementen en klikt u op Abonnement verwijderen.
 

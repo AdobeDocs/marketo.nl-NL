@@ -1,15 +1,14 @@
 ---
 unique-page-id: 13795492
-description: Instellingen voor veeleisende informatie - Marketo Docs - Productdocumentatie
+description: Instellingen voor prestatieinzicht - Marketo Docs - Productdocumentatie
 title: Instellingen voor prestatie-inzichten
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # Instellingen voor prestatie-inzichten {#performance-insights-settings}
 
@@ -55,7 +54,7 @@ Meer informatie over de verschillende instellingsopties in MPI.
  </tbody> 
 </table>
 
-## Marketinggebonden kansen {#marketing-influenced-opportunities}
+## Marketing-Geïmpliceerde Kansen {#marketing-influenced-opportunities}
 
 **Pipetlijndashboard - Bijdrage en trend**
 
@@ -63,11 +62,11 @@ Meer informatie over de verschillende instellingsopties in MPI.
  <tbody> 
   <tr> 
    <td><strong>Eerste aanraking tonen, vóór gemaakte opportuniteit</strong></td> 
-   <td><p>Wanneer u dit controleert, omvat MPI kansen die met minstens één lood worden geassocieerd dat (first-touch/FT) door een Programma van de Marketo werd verworven alvorens de kans werd gecreeerd. De expliciete, impliciete en hybride attributie-instellingen zijn van toepassing.</p></td> 
+   <td><p>Wanneer u dit controleert, omvat MPI kansen die met minstens één lood worden geassocieerd dat (first-touch/FT) door een Programma van Marketo werd verworven alvorens de kans werd gecreeerd. De expliciete, impliciete en hybride attributie-instellingen zijn van toepassing.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Multi-Touch weergeven voordat de optie wordt gemaakt</strong></td> 
-   <td><p>Wanneer u dit controleert, omvat MPI kansen met minstens één lood die (multi-aanraking/MT) door een Programma van de Marketo werd verworven alvorens de kans werd gecreeerd. De expliciete, impliciete en hybride attributie-instellingen zijn van toepassing.</p></td> 
+   <td><p>Wanneer u dit controleert, omvat MPI kansen met minstens één lood dat (multi-aanraking/MT) door een Programma van Marketo werd verworven alvorens de kans werd gecreeerd. De expliciete, impliciete en hybride attributie-instellingen zijn van toepassing.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -78,16 +77,16 @@ Meer informatie over de verschillende instellingsopties in MPI.
  <tbody> 
   <tr> 
    <td><strong>Eerste aanraking tonen, voordat de optie wordt gesloten</strong></td> 
-   <td><p>Wanneer u dit controleert, omvat MPI kansen die met minstens één lood worden geassocieerd die (first-touch/FT) door een Programma van de Marketo werd verworven alvorens de kans werd gesloten. De expliciete, impliciete en hybride attributie-instellingen zijn van toepassing.</p></td> 
+   <td><p>Wanneer u dit controleert, omvat MPI kansen die met minstens één lood worden geassocieerd die (first-touch/FT) door een Programma van Marketo werd verworven alvorens de kans werd gesloten. De expliciete, impliciete en hybride attributie-instellingen zijn van toepassing.</p></td> 
   </tr> 
   <tr> 
    <td><strong>Multi-Touch weergeven voordat de mogelijkheid wordt gesloten</strong></td> 
-   <td><p>Wanneer u dit controleert, omvat MPI kansen met minstens één lood die (multi-aanraking/MT) door een Programma van de Marketo werd verworven alvorens de kans werd gesloten. De expliciete, impliciete en hybride attributie-instellingen zijn van toepassing.</p></td> 
+   <td><p>Wanneer u dit controleert, omvat MPI kansen met minstens één lood die (multi-aanraking/MT) door een Programma van Marketo werd verworven alvorens de kans werd gesloten. De expliciete, impliciete en hybride attributie-instellingen zijn van toepassing.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Kostprijsberekening {#cost-calculation}
+## Kostenberekening {#cost-calculation}
 
 **Pijpleiding- en inkomstendashboards - Bijdrage en trends**
 

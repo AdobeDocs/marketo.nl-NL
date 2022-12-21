@@ -3,7 +3,6 @@ unique-page-id: 2360311
 description: Een nieuwe werkruimte maken - Marketo Docs - Productdocumentatie
 title: Een nieuwe werkruimte maken
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Nieuwe werkruimte maken {#create-a-new-workspace}
+# Een nieuwe werkruimte maken {#create-a-new-workspace}
 
 De werkruimten zijn nuttig om uw bedrijf te verdelen. De redenen voor het instellen van werkruimten zijn onder meer:
 
@@ -26,33 +25,33 @@ Zo maakt u een nieuwe werkruimte.
 
 >[!NOTE]
 >
->Begrijp eerst met [het Begrijpen van Werkruimten en Partities van de Persoon](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Eerst begrijpen met [Werken- en personenpartities begrijpen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 >[!NOTE]
 >
->Neem contact op met [Marketo Professional Services](mailto:services@marketo.com) voor meer informatie over aanbevolen werkruimten.
+>Neem contact op met [Marketo Professional Services](mailto:services@marketo.com).
 
-1. Klik onder **Admin** op **Werkruimten en partities**.
+1. Onder **Beheer**, klikt u op **Werkruimten en partities**.
 
    ![](assets/image2014-9-17-11-3a59-3a11.png)
 
-1. Klik op **Nieuwe werkruimte**.
+1. Klikken op **Nieuwe werkruimte**.
 
    ![](assets/two-1.png)
 
-1. Voer een **Naam** in en selecteer **Personpartitie(s)** die u wilt gebruiken. Kies een **Primaire Person Partition**.
+1. Voer een **Naam** en selecteert u de **Persoonspartitie(s)** wilt gebruiken. Kies een **Partitie primaire persoon**.
 
    >[!NOTE]
    >
-   >Zorg ervoor om [persoonlijke verdelingen te creëren](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) als u niet reeds hebt.
+   >Zorg ervoor dat [persoonlijke partities maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md) als je dat nog niet hebt gedaan.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Het selectievakje **Alle persoonlijke partities** betekent dat deze werkruimte alle persoonlijke partities in het systeem kan gebruiken.
+   >De **Alle personenpartities** selectievakje betekent dat deze werkruimte alle persoonlijke partities in het systeem kan gebruiken.
    >
-   >De **primaire persoonpartitie** fungeert als standaard en is de locatie waar alle personen worden toegewezen.
+   >De **partitie primaire persoon** fungeert als de standaardinstelling en is waar alle personen worden toegewezen.
 
    Als u veelvoudige branded domeinen toeliet, moet u een primair branded domein kiezen.
 
@@ -66,7 +65,7 @@ Zo maakt u een nieuwe werkruimte.
 
    ![](assets/five.png)
 
-1. Klik **Maken**.
+1. Klikken **Maken**.
 
    ![](assets/six.png)
 

@@ -2,16 +2,15 @@
 unique-page-id: 7504840
 description: E-mailprogramma afbreken - Marketo Docs - Productdocumentatie
 title: E-mailprogramma afbreken
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-
-# E-mailprogramma {#abort-email-program} afbreken
+# E-mailprogramma afbreken {#abort-email-program}
 
 Oeps! Druk op de remmen! Dit e-mailprogramma mag niet worden afgesloten.
 
@@ -23,7 +22,7 @@ Oeps! Druk op de remmen! Dit e-mailprogramma mag niet worden afgesloten.
 
    ![](assets/dashboardleads.jpg)
 
-1. Klik **Afbreken** voor volledige bevestiging.
+1. Klikken **Afbreken** voor volledige bevestiging.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 

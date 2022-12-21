@@ -3,7 +3,6 @@ unique-page-id: 2360423
 description: Alle leads zoeken in een Revenue Cycle Model - Marketo Docs - Productdocumentatie
 title: Alle leads zoeken in een inkomstencyclusmodel
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
-translation-type: tm+mt
 source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
 workflow-type: tm+mt
 source-wordcount: '182'
@@ -19,11 +18,11 @@ Door slimme lijsten te gebruiken, kunt u alle leden van het model van de opbreng
 >
 >[Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Selecteer de slimme lijst en klik op het tabblad **Slimme lijst**.
+1. Selecteer de slimme lijst en klik op de knop **Slimme lijst** tab.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Zoek het filter **Lid van inkomstenmodel** en sleep het naar het canvas.
+1. Zoek de **Lid van het inkomstenmodel** en sleep het naar het canvas.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
@@ -33,15 +32,15 @@ Door slimme lijsten te gebruiken, kunt u alle leden van het model van de opbreng
 
    Dit zou je alle leads in dat model geven, ongeacht het werkgebied. Meestal wilt u een specifiek werkgebied. Gebruik in plaats hiervan het volgende filter.
 
-1. Zoek het filter **Opbrengstwerkgebied** en sleep het naar het canvas.
+1. Zoek de **Opbrengstfase** en sleep het naar het canvas.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Selecteer een **werkgebied**.
+1. Selecteer een **Werkgebied**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Ga naar het tabblad **Leads** om de resultaten weer te geven.
+1. Ga naar de **Leads** om de resultaten weer te geven.
 
    ![](assets/2.png)
 

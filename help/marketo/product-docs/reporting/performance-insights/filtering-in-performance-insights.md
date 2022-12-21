@@ -2,16 +2,15 @@
 unique-page-id: 12979012
 description: Filteren in prestatiegegevens - Marketo Docs - Productdocumentatie
 title: Filteren in prestatie-inzichten
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 0%
 
 ---
 
-
-# Filteren in prestatieinzicht {#filtering-in-performance-insights}
+# Filteren in prestatie-inzichten {#filtering-in-performance-insights}
 
 U kunt eenvoudig gegevens filteren om specifieke informatie op te vragen.
 
@@ -49,15 +48,15 @@ U kunt een filter op elk gewenst moment verwijderen door op de X naast het filte
  <tbody> 
   <tr> 
    <td colspan="1"><strong>ABM-accountlijst</strong></td> 
-   <td colspan="1">Als u Marketo ABM gebruikt, worden al uw accountlijsten gesynchroniseerd met MPI en zijn deze zichtbaar via het filter ABM-accountlijst. U kunt een accountlijst selecteren om de resultaten naar die accounts te filteren.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Meer weten over ABM-accountlijsten?</a></td> 
+   <td colspan="1">Als u Marketo ABM gebruikt, worden al uw accountlijsten gesynchroniseerd met MPI en zijn deze zichtbaar via het filter Lijst ABM-account. U kunt een accountlijst selecteren om de resultaten naar die accounts te filteren.<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">Meer weten over ABM-accountlijsten?</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Benoemd ABM-account</strong></td> 
-   <td colspan="1">Als u Marketo ABM gebruikt, worden al uw benoemde accounts gesynchroniseerd met MPI en zijn deze zichtbaar via het filter ABM Named Account. U kunt een benoemde account selecteren om de resultaten naar die accounts te filteren.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Meer weten over ABM-accounts?</a></td> 
+   <td colspan="1">Als u Marketo ABM gebruikt, worden al uw benoemde accounts gesynchroniseerd met MPI en zijn ze zichtbaar via het filter ABM Named Account. U kunt een benoemde account selecteren om de resultaten naar die accounts te filteren.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Meer weten over ABM-accounts?</a></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Aangepaste kenmerken</strong></td> 
-   <td colspan="1"><p>Deze worden door jou bepaald. Alle gebieden <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">u laat </a> voor de opportuniteitsanalyse toe kan in de Inzichten van Prestaties worden gefiltreerd.</p></td> 
+   <td colspan="1"><p>Deze worden door jou bepaald. Alle velden <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">u toelaat</a> voor de opportuniteitsanalyse kan worden gefilterd op Performance Insights.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Beleggingsperiode</strong></p></td> 
@@ -73,7 +72,7 @@ U kunt een filter op elk gewenst moment verwijderen door op de X naast het filte
   </tr> 
   <tr> 
    <td><strong>Werkruimte</strong></td> 
-   <td><p>De werkruimten zijn afzonderlijke gebieden in Marketo die marketing activa houden, zoals: programma's, landingspagina's, e-mails en nog veel meer. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Meer informatie over werkruimten vindt u hier.</a></p></td> 
+   <td><p>De werkruimten zijn afzonderlijke gebieden in Marketo die marketingactiva bevatten, zoals: programma's, landingspagina's, e-mails en nog veel meer. <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Meer informatie over werkruimten vindt u hier.</a></p></td> 
   </tr> 
  </tbody> 
 </table>

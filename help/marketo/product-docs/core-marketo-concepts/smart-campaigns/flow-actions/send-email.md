@@ -3,7 +3,6 @@ unique-page-id: 1146948
 description: E-mail verzenden - Marketo Docs - Productdocumentatie
 title: E-mail verzenden
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# E-mail {#send-email} verzenden
+# E-mail verzenden {#send-email}
 
 ## Overzicht {#overview}
 
-De stap **E-mail verzenden** kan worden gebruikt als onderdeel van campagnes of als een enkele stap in de workflow om e-mails naar uw mensen te verzenden.
+De **E-mail verzenden** De stap flow kan worden gebruikt als onderdeel van campagnes of als één enkele stroomstap om e-mails naar uw mensen te verzenden.
 
 ![](assets/image2014-9-22-10-3a8-3a11.png)
 

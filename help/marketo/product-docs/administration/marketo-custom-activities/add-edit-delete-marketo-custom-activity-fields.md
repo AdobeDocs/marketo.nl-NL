@@ -3,7 +3,6 @@ unique-page-id: 10100275
 description: Aangepaste activiteitsvelden van Marketo toevoegen/bewerken/verwijderen - Marketo Docs - Productdocumentatie
 title: Aangepaste activiteitsvelden van Marketo toevoegen/bewerken/verwijderen
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '304'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Aangepaste activiteitsvelden voor Marketo toevoegen/bewerken/verwijderen {#add-edit-delete-marketo-custom-activity-fields}
+# Aangepaste activiteitsvelden van Marketo toevoegen/bewerken/verwijderen {#add-edit-delete-marketo-custom-activity-fields}
 
 Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwijderen. Zo gaat het.
 
-## Een aangepast activiteitsveld toevoegen {#add-a-custom-activity-field}
+## Een veld Aangepaste activiteit toevoegen {#add-a-custom-activity-field}
 
-1. In de Activiteiten van de Douane van Marketo, klik **Gebieden**.
+1. Klik in Marketo op Aangepaste activiteiten **Velden**.
 
    ![](assets/one-3.png)
 
@@ -25,7 +24,7 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
    ![](assets/two-3.png)
 
-1. Klik **Nieuw veld**.
+1. Klikken **Nieuw veld**.
 
    ![](assets/three-3.png)
 
@@ -37,15 +36,15 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
    >
    >Weet u niet zeker wat u moet selecteren? We hebben je bedekt! Alle beschikbare gegevenstypen worden gedefinieerd in [dit artikel](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. Geef het veld een naam. De api-naam wordt automatisch ingevuld. Wanneer u wordt gedaan, klik **sparen**.
+1. Geef het veld een naam. De api-naam wordt automatisch ingevuld. Als u klaar bent, klikt u op **Opslaan**.
 
    ![](assets/five-3.png)
 
    Dat is het! Uw nieuwe veld is toegevoegd.
 
-## Een aangepast activiteitsveld bewerken {#edit-a-custom-activity-field}
+## Een veld Aangepaste activiteit bewerken {#edit-a-custom-activity-field}
 
-1. In de Activiteiten van de Douane van Marketo, klik **Gebieden**.
+1. Klik in Marketo op Aangepaste activiteiten **Velden**.
 
    ![](assets/one-3.png)
 
@@ -53,7 +52,7 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
    ![](assets/seven.png)
 
-1. Selecteer het veld dat u wilt bewerken, klik op de vervolgkeuzelijst **Veldhandelingen** en selecteer **Veld bewerken**.
+1. Selecteer het veld dat u wilt bewerken en klik op de knop **Veldhandelingen** en selecteert u **Veld bewerken**.
 
    ![](assets/eight.png)
 
@@ -61,7 +60,7 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
    ![](assets/nine.png)
 
-1. Voer de nieuwe naam en Api-naam in en klik op **Opslaan**.
+1. Voer de nieuwe naam en Api-naam in en klik vervolgens op **Opslaan**.
 
    ![](assets/ten.png)
 
@@ -79,9 +78,9 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
 Uw veld wordt nu bewerkt.
 
-## Een aangepast activiteitsveld {#delete-a-custom-activity-field} verwijderen
+## Een aangepast activiteitsveld verwijderen {#delete-a-custom-activity-field}
 
-1. In de Activiteiten van de Douane van Marketo, klik **Gebieden**.
+1. Klik in Marketo op Aangepaste activiteiten **Velden**.
 
    ![](assets/one-3.png)
 
@@ -89,7 +88,7 @@ Uw veld wordt nu bewerkt.
 
    ![](assets/twelve.png)
 
-1. Selecteer het veld dat u wilt verwijderen, klik op de vervolgkeuzelijst **Veldhandelingen** en selecteer **Veld verwijderen**.
+1. Selecteer het veld dat u wilt verwijderen en klik op de knop **Veldhandelingen** en selecteert u **Veld verwijderen**.
 
    ![](assets/thirteen.png)
 

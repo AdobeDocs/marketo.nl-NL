@@ -1,21 +1,20 @@
 ---
 unique-page-id: 4718636
-description: Begrijpen van het gebied van de Kostenanalyse van het Programma - Marketo Docs - de Documentatie van het Product
+description: Het begrip van het gebied van de Kostenanalyse van het Programma - de Documenten van Marketo - de Documentatie van het Product
 title: Het begrip van het gebied van de Analyse van de Kosten van het Programma
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
-
-# Het begrip van het Gebied van de Analyse van de Kosten van het Programma {#understanding-the-program-cost-analysis-area}
+# Het begrip van het gebied van de Analyse van de Kosten van het Programma {#understanding-the-program-cost-analysis-area}
 
 In het gebied Kostenanalyse van het programma kunt u de doeltreffendheid van afzonderlijke programma&#39;s analyseren of de samengevatte resultaten gedurende een bepaalde periode per kanaal bekijken.
 
-## Voorbeeld van zakelijke vragen {#example-business-questions}
+## Voorbeelden van zakelijke vragen {#example-business-questions}
 
 Hoeveel nieuwe namen produceerde elk kanaal per maand?
 
@@ -39,7 +38,7 @@ Hoeveel heb ik per programma per maand uitgegeven?
 >
 >Gele stippen zijn afmetingen en blauwe stippen zijn maateenheden.
 
-## Investering {#investment}
+## Investeringen {#investment}
 
 | Meetlat | Beschrijving |
 |---|---|
@@ -79,7 +78,7 @@ Hoeveel heb ik per programma per maand uitgegeven?
 | Programmakanaal | Programmakanaal |
 | Programmanaam | Programmanaam |
 
-## Tijdschema voor programmakosten {#program-cost-timeframe}
+## Tijdslimiet voor programmakosten {#program-cost-timeframe}
 
 | Dimension | Beschrijving |
 |---|---|
@@ -87,11 +86,11 @@ Hoeveel heb ik per programma per maand uitgegeven?
 | Kwart | Tijdslimiet voor programmakosten |
 | Maand | Tijdschema voor programmakosten |
 
-## Programmacodes {#program-tags}
+## Programmatags {#program-tags}
 
 | Meetlat | Beschrijving |
 |---|---|
-| Industrie | Programmatag |
+| Marktsegment | Programmatag |
 | Productlijn | Programmatag |
 | Programma-eigenaar | Programmatag |
 | Regio | Programmatag |

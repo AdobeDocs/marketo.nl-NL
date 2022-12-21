@@ -1,19 +1,18 @@
 ---
 unique-page-id: 14352541
-description: De Taken van de Verkoop verbinden met Salesforce voor het eerst synchroniseren - Marketo Docs - de Documentatie van het Product
+description: De Taken van de Verbinding van de Verkoop met Salesforce voor het eerst synchroniseren - de Documenten van Marketo - de Documentatie van het Product
 title: De Taken van de Verbinding van de Verkoop met Salesforce voor de eerste keer synchroniseren
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
 
 ---
 
+# De Taken van de Verbinding van de Verkoop met Salesforce voor de eerste keer synchroniseren {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-# De Taken van de Verkoop verbinden met Salesforce voor de eerste keer {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time} synchroniseren
-
-Wanneer u de synchronisatie tussen Sales Connect- en Salesforce-taken voor het eerst inschakelt, importeren wij uw Salesforce-taken. Wij zullen **niet** over om het even welke huidige taken duwen u in Verkoop verbindt met Salesforce hebt. Om rommelige en duplicaten te verminderen, zijn de enige taken die van Verkoop Connect in Salesforce worden gesynchroniseerd taken die *na* worden gecreeerd u Verkoop verbindt met SFDC synchroniseert.
+Wanneer u de synchronisatie tussen Sales Connect- en Salesforce-taken voor het eerst inschakelt, importeren wij uw Salesforce-taken. Wij zullen **niet** Houd de huidige taken die u hebt in Sales Connect aan Salesforce over. Om rommelige en dubbele taken te voorkomen, zijn de enige taken die van Sales Connect in Salesforce worden gesynchroniseerd, taken die zijn gemaakt *na* u synchroniseert Sales Connect met SFDC.
 
 Hieronder wordt beschreven wat er gebeurt wanneer u Sales Connect- en SFDC-taken synchroniseert:
 
@@ -27,4 +26,4 @@ Hieronder wordt beschreven wat er gebeurt wanneer u Sales Connect- en SFDC-taken
 
 Na de eerste synchronisatie worden alle taken die u in Sales Connect maakt, bewerkt, voltooit of verwijdert, gesynchroniseerd met de takenlijst in Salesforce. En alles wat in Salesforce is gemaakt, bewerkt, voltooid of verwijderd, werkt uw takenlijst bij in Sales Connect.
 
-Als u deze synchronisatie wilt inschakelen, schakelt u gewoon het synchronisatievak in op de pagina [Instellingen](https://toutapp.com/login) in de webtoepassing.
+Als u deze synchronisatie wilt inschakelen, schakelt u gewoon het synchronisatievak in [Instellingen, pagina](https://toutapp.com/login) in de webtoepassing.

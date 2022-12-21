@@ -3,7 +3,6 @@ unique-page-id: 1146901
 description: Advanced Smart List Rule Logic - Marketo Docs - Productdocumentatie gebruiken
 title: Advanced Smart List Rule Logic gebruiken
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '288'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Advanced Smart List Rule Logic {#using-advanced-smart-list-rule-logic} gebruiken
+# Advanced Smart List Rule Logic gebruiken {#using-advanced-smart-list-rule-logic}
 
 U kunt precies de mensen vinden u door slimme lijstregellogica op veelvoudige filters binnen een slimme lijst toe te passen nodig hebt. Zo gaat het.
 
@@ -27,19 +26,19 @@ U kunt precies de mensen vinden u door slimme lijstregellogica op veelvoudige fi
 
 ## Logica toevoegen aan een slimme lijst {#add-logic-to-a-smart-list}
 
-Standaard vindt uw slimme lijst de personen die overeenkomen met **ALL** filters (filters 1 _en_ 2 _en_ 3). U kunt de regellogica veranderen om mensen te vinden die **ANY** van de bepaalde filters (filters 1 _of_ 2 _of_ 3) aanpassen, of geavanceerde filters (filters 1 _en_ 2 _of_ 3) gebruiken.
+Standaard worden in uw slimme lijst de overeenkomende personen gevonden **ALLES** filters (filters 1 _en_ 2 _en_ 3). U kunt de regellogica wijzigen en zoeken naar personen die overeenkomen **ALLE** van de gedefinieerde filters (filters 1 _of_ 2 _of_ 3), of gebruik geavanceerde filters (filters 1 _en_ 2 _of_ 3).
 
-In dit voorbeeld, zeggen wij u mensen in Californië _en_ met een score van minstens 50 punten _of_ met een status van &quot;Verkoop Gekwalificeerd.&quot;
+In dit voorbeeld, zeggen u wilt mensen in Californië vinden _en_ met een score van ten minste 50 punten _of_ met de status &quot;Gekwalificeerde verkoop&quot;.
 
-1. Selecteer **Geavanceerde filters gebruiken** in de vervolgkeuzelijst.
+1. Selecteren **Geavanceerde filters gebruiken** in de vervolgkeuzelijst.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >Door het gebruik van **Geavanceerde** filters vermindert u de noodzaak om slimme lijsten te maken met het lid van het filter Slimme lijst. Hierdoor worden de prestaties geoptimaliseerd.
+   >Gebruiken **Geavanceerd** filters verminderen de behoefte om slimme lijsten met het Lid van Slimme filter van de Lijst tot stand te brengen. Hierdoor worden de prestaties geoptimaliseerd.
 
-1. In het tekstvak **Geavanceerde filters** wordt &quot;en&quot; weergegeven als de standaardwaarde tussen al uw filters.
+1. De **Geavanceerde filters** in het tekstvak wordt &#39;&#39;en&#39;&#39; weergegeven als de standaardwaarde tussen al uw filters.
 
    ![](assets/two-2.png)
 
@@ -61,7 +60,7 @@ Voor het mixen van logica &#39;and&#39; en &#39;of&#39; moeten ronde haakjes wor
 
 ![](assets/advancedfilters-parent.png)
 
-## Geneste haakjes gebruiken voor vier of meer filters indien nodig {#use-nested-parentheses-for-four-or-more-filters-if-needed}
+## Geneste ronde haakjes gebruiken voor vier of meer filters, indien nodig {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 Afhankelijk van uw bedoeling, kunt u genestelde haakjes moeten toevoegen wanneer het gebruiken van vier of meer filters.
 

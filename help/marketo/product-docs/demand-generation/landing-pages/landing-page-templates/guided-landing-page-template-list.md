@@ -12,21 +12,21 @@ ht-degree: 0%
 
 # Sjabloonlijst met geleide landingspagina {#guided-landing-page-template-list}
 
-Blader door onze verzameling voorbeeldsjablonen, voor gebruik met de [Guided Landing Page Editor](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Elke sjabloon is volledig responsief en is gebaseerd op het raamwerk van Bootstrap.
+Blader door onze verzameling voorbeeldsjablonen, voor gebruik met de [Editor met instructies voor bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Elke sjabloon is volledig responsief en is gebaseerd op het raamwerk van Bootstrap.
 
 >[!NOTE]
 >
->Marketo Support is niet ingesteld als hulp bij het oplossen van problemen met HTML. Raadpleeg een webontwikkelaar als u hulp nodig hebt bij het wijzigen van een van deze sjablonen.
+>Marketo Support is niet ingesteld voor hulp bij het oplossen van problemen met HTML. Raadpleeg een webontwikkelaar als u hulp nodig hebt bij het wijzigen van een van deze sjablonen.
 
 Een sjabloon importeren in Marketo:
 
 1. Klik op de naam van de sjabloon voor een grotere weergave.
 1. Download de gekozen sjabloon.
-1. Navigeer in Marketo naar **Design Studio.**
-1. Klik **Pagina&#39;s laden** in de linkerboom, dan selecteer **Sjablonen.**
+1. Navigeer in Marketo naar de **Design Studio.**
+1. Klikken **Openingspagina&#39;s** in de linkerstructuur selecteert u vervolgens **Sjablonen.**
 
 1. Klik in de menubalk op **Sjabloon importeren.**
-1. Kies het gedownloade bestand, voer een sjabloonnaam in en klik op **Importeren** (kies een beschrijvende naam en geef aan dat de bewerkingsmodus **Met instructies** is).
+1. Kies het gedownloade bestand, voer een sjabloonnaam in en klik op **Importeren** (kies een beschrijvende naam en geef aan dat de bewerkingsmodus **Geleid**).
 
 |  |  |  |
 |---|---|---|

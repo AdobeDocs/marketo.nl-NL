@@ -18,7 +18,7 @@ De volgende functies zijn opgenomen in de release van januari 2015. Controleer o
 
 **Mobiele, vriendelijke landingspagina&#39;s**
 
-U kunt nu [mobiele weergaven maken voor het landen van pagina&#39;s](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) vanuit de bestemmingspagina-editor. Geef uw boodschap effectief, ongeacht het apparaat, en vergroot de betrokkenheid door uw inhoud onderweg op maat te maken voor eenvoudig verbruik. Deze functie wordt geleidelijk uitgevoerd in de hele week na de release.
+U kunt nu [mobiele weergaven maken voor bestemmingspagina&#39;s](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) vanuit de bestemmingspagina-editor. Geef uw boodschap effectief, ongeacht het apparaat, en vergroot de betrokkenheid door uw inhoud onderweg op maat te maken voor eenvoudig verbruik. Deze functie wordt geleidelijk uitgevoerd in de hele week na de release.
 
 [-Landing Page Walkthrough Video-](https://youtu.be/aPQHlG2X6c0)
 
@@ -38,9 +38,9 @@ Open nu aangepaste objecten die aan het object Account zijn gekoppeld vanuit e-m
 
 ## Aanpassing in realtime {#real-time-personalization}
 
-**Speciale opmerkingen voor Google en Facebook**
+**Persoonlijke opmerkingen voor Google en Facebook**
 
-In de toelichting worden advertenties getoond aan mensen die uw website hebben bezocht. U kunt uw marketingcampagnes nu personaliseren op [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) en [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) met behulp van gegevens van Real-Time Personalisatie. Markten voor publiek uit verschillende bedrijfstakken, accountlijsten, bedrijfsgrootten of gegevens van bekende aanbieders.
+In de toelichting worden advertenties getoond aan mensen die uw website hebben bezocht. Je kunt je marketingcampagnes nu aanpassen op [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) en [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) het gebruiken van gegevens van in real time Personalisatie. Markten voor publiek uit verschillende bedrijfstakken, accountlijsten, bedrijfsgrootten of gegevens van bekende aanbieders.
 
 [Module lijst met benoemde accounts](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -61,6 +61,6 @@ De opties voor de RTP-tag onder Accountinstellingen zijn zo bijgewerkt dat:
 1. Asynchrone tag zonder CDN
 1. Synchrone tag zonder CDN
 
-Voor de beste prestaties verdient het aanbeveling de tag boven aan de koptekst op de webpagina na `<head>` te plaatsen. Alle markeringen staan voor gebruik van [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/) toe. Voor informatie over hoe te om de markering op te stellen RTP zie [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Voor de beste prestaties is het raadzaam de tag boven aan de koptekst op uw webpagina te plaatsen na `<head>`. Alle tags staan het gebruik van de [RTP API](https://developers.marketo.com/documentation/websites/rtp-js-api/). Voor informatie over hoe te om de markering op te stellen RTP zie [hier](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

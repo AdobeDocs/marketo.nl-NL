@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359581
-description: Champion/Challenger - Goedkeuren van uw e-mailtest - Marketo Docs - Productdocumentatie
+description: Champion/Challenger -Goedkeuren e-mailtest - Marketo Docs - Productdocumentatie
 title: Champion/Challenger - Uw e-mailtest goedkeuren
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Champion/Challenger: Uw e-mailtest goedkeuren {#champion-challenger-approve-your-email-test}
 
@@ -23,17 +22,17 @@ De laatste stap bij het instellen van uw e-mailtest om deze goed te keuren. Zo g
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Zoek en klik met de rechtermuisknop op **E-mailtest** en klik vervolgens op **Test goedkeuren**.
+1. Zoek en klik met de rechtermuisknop op de knop **E-mailtest** en klik vervolgens op **Test goedkeuren**.
 
    ![](assets/champion3.jpg)
 
    >[!NOTE]
    >
-   >Als u een **Volledige e-mailtest** goedkeurt, moet u eerst de e-mail voor de uitdager goedkeuren.
+   >Bij het goedkeuren van een **Hele e-mail** test, keurt eerst de bezoekersmail goed.
 
    >[!NOTE]
    >
-   >Om de test uit te verzenden, verkies e-mail u de test aan in **verzend E-mail** stroomstap van uw trekkercampagne toevoegde. U kunt ook die e-mail invoegen in een stream van een betrokkenheidsprogramma. E-mails van Champion/Challenger werken niet in batchcampagnes.
+   >Als u de test wilt verzenden, kiest u het e-mailbericht waarnaar u de test hebt toegevoegd in het dialoogvenster **E-mail verzenden** de stroomstap van uw trekkercampagne. U kunt ook die e-mail invoegen in een stream van een betrokkenheidsprogramma. E-mails van Champion/Challenger werken niet in batchcampagnes.
 
    Was dat niet makkelijk? Als je een paar rapporten ontvangt, wil je een kampioen uitroepen.
 

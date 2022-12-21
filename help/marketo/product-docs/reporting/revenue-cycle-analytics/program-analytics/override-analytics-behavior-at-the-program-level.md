@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2360421
-description: Werking Analytics negeren op programmaniveau - Marketo Docs - Productdocumentatie
+description: Gedrag Analytics negeren op programmaniveau - Marketo Docs - Productdocumentatie
 title: Gedrag Analytics negeren op programmaniveau
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-
 # Gedrag Analytics negeren op programmaniveau {#override-analytics-behavior-at-the-program-level}
 
-U kunt het [analytische gedrag op het admin niveau op kanalen ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) plaatsen maar u kunt het op het programmaniveau ook met voeten treden. Hieronder wordt beschreven hoe:
+U kunt de [analysegedrag op het niveau van de beheerder op kanalen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) maar u kunt deze ook op programmaniveau overschrijven. Hieronder wordt beschreven hoe:
 
-1. Ga naar **Marketing Activities** gebied.
+1. Ga naar de **Marketingactiviteiten** gebied.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,7 +22,7 @@ U kunt het [analytische gedrag op het admin niveau op kanalen ](/help/marketo/pr
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Onder **Opstelling** tabel, sleep het Gedrag van de Analyse in het canvas.
+1. Onder de **Instellen** Sleep Analysegedrag naar het canvas.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -33,17 +32,17 @@ U kunt het [analytische gedrag op het admin niveau op kanalen ](/help/marketo/pr
    >
    >**Definitie**
    >
-   >* **Inclusief**  - Deze optie zorgt ervoor dat het programma beschikbaar is voor rapportage in de inkomstenverkenner en analyseapparatuur, ongeacht of u een periode hebt opgenomen in de kosten.
-   >* **Operationeel**  - Deze optie leidt ertoe dat het programma noch in de ontdekkingsreiziger noch in analysatoren van de opbrengst verschijnt.
+   >* **Inclusief** - Met deze optie zorgt u ervoor dat het programma beschikbaar is voor rapportage in belastingverkenners en -analysatoren, ongeacht of u een periode hebt opgenomen in de kosten.
+   >* **Operationeel** - Deze optie heeft tot gevolg dat het programma niet wordt weergegeven in zowel de belastingverkenner als de analysatoren.
 
 
    >[!NOTE]
    >
-   >Het standaardgedrag (als deze instelling niet wordt toegepast) is dat het programma alleen wordt opgenomen in Analytics **ALS er minstens één punt kostenloos is**, zelfs als er een periode met 0 dollar is toegewezen.
+   >Het standaardgedrag (als deze instelling niet wordt toegepast) is dat het programma wordt opgenomen in Analytics **ALLEEN indien er ten minste één tijdsduur is** zelfs één met 0 dollar toegewezen.
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

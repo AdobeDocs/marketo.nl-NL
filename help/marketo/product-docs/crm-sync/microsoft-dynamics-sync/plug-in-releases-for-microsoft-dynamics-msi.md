@@ -63,52 +63,52 @@ En dat is het! Na de verbetering zult u slechts één Oplossing MSI zien.
    <th colspan="1">Notities</th> 
   </tr> 
   <tr> 
-   <td colspan="1">03-02-22</td> 
-   <td colspan="1">2.0.0.27.</td> 
+   <td colspan="1">02/03/22</td> 
+   <td colspan="1">2.0.0.27</td> 
    <td colspan="1">Accountlay-out voor inzichten: Interesserende momenten, Score-wijzigingen, webactiviteiten, e-mailactiviteiten</td> 
   </tr>
   <tr> 
-   <td colspan="1">05-01-22</td> 
+   <td colspan="1">01/05/22</td> 
    <td colspan="1">2.0.0.26</td> 
    <td colspan="1">Programmaadoptiescore voor verzenden van e-mail</td> 
   </tr>
   <tr> 
-   <td colspan="1">28-10-21</td> 
-   <td colspan="1">2.0.0.25.</td> 
+   <td colspan="1">10/28/21</td> 
+   <td colspan="1">2.0.0.25</td> 
    <td colspan="1">Metriek van de Score van de Aanneming van het product, nieuw Globaal Dashboard (de Activiteit van het Web, E-mail, Beste Bets)</td> 
   </tr>
   <tr> 
-   <td colspan="1">10-02-21</td> 
+   <td colspan="1">02/10/21</td> 
    <td colspan="1">2.0.0.22</td> 
    <td colspan="1">Auto controle toegelaten en documentatieveranderingen op oplossing MSI verwijderen</td> 
   </tr>
   <tr> 
-   <td colspan="1">01-10-20</td> 
+   <td colspan="1">10/01/20</td> 
    <td colspan="1">2.0.0.21</td> 
    <td colspan="1">Opgeloste problemen: Toegang toewijzen aan configuratievelden van MSI API voor gebruikers met de rol van Inzicht in verkoop</td> 
   </tr> 
   <tr> 
-   <td colspan="1">20-07-20</td> 
+   <td colspan="1">07/20/20</td> 
    <td colspan="1">2.0.0.20</td> 
    <td colspan="1">Opgeloste problemen: Een validatiebericht toevoegen voor niet-gesynchroniseerde records</td> 
   </tr> 
   <tr> 
-   <td colspan="1">12-06-20</td> 
-   <td colspan="1">2.0.0.19.</td> 
+   <td colspan="1">06/12/20</td> 
+   <td colspan="1">2.0.0.19</td> 
    <td colspan="1">Opgeloste problemen: MSI-geheim wachtwoord verbergen in MSD API Config</td> 
   </tr> 
   <tr> 
-   <td colspan="1">26-05-20</td> 
+   <td colspan="1">05/26/20</td> 
    <td colspan="1">2.0.0.18</td> 
    <td colspan="1">Opgeloste problemen: De validatie van de MSI-rol-id wijzigen voor het weergeven van MSI-knoppen</td> 
   </tr> 
   <tr> 
-   <td colspan="1">21-05-20</td> 
+   <td colspan="1">05/21/20</td> 
    <td colspan="1">2.0.0.17</td> 
    <td colspan="1">Opgeloste problemen: Het veld Eigenaar zichtbaar maken en velden niet verplicht maken</td> 
   </tr> 
   <tr> 
-   <td colspan="1">28-04-20</td> 
+   <td colspan="1">04/28/20</td> 
    <td colspan="1">2.0.0.16</td> 
    <td colspan="1">Opgeloste problemen: Koppelingsafhankelijkheid voor MSD CRM-sitemap verwijderen</td> 
   </tr> 

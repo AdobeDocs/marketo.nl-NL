@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 4C {#template-4c}
 
-Klik met de rechtermuisknop op [Sjabloon 4C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
+Klik met de rechtermuisknop om [downloadsjabloon 4C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html)
 
 ![](assets/image2015-7-28-16-3a32-3a2.png)
 

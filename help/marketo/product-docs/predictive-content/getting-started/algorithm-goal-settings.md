@@ -2,24 +2,23 @@
 unique-page-id: 14745750
 description: Algorithm Goal Settings - Marketo Docs - Productdocumentatie
 title: Standaardinstellingen algoritme
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-
-# Instellingen voor algoritmedoel {#algorithm-goal-settings}
+# Standaardinstellingen algoritme {#algorithm-goal-settings}
 
 De Montages van het Doel van het Algoritme staat u toe om het einddoel van het kunstmatige van de Inhoudsintelligentie algoritme te plaatsen om zich aan uw bedrijfsdoelstellingen te richten.
 
-1. Klik in Voorspelende inhoud op de naam van uw aanmeldingsnaam en selecteer **Inhoudsinstellingen**.
+1. Klik in Voorspelende inhoud op de naam van uw aanmelding en selecteer **Inhoudsinstellingen**.
 
    ![](assets/1.png)
 
-1. Selecteer **Algorithm** onder Inhoudsinstellingen.
+1. Selecteer onder Inhoudsinstellingen de optie **Algorithm**.
 
    ![](assets/two-1.png)
 
@@ -31,6 +30,6 @@ De Montages van het Doel van het Algoritme staat u toe om het einddoel van het k
    |---|---|
    | **Conversies** | De inhoud weergeven die de persoon die de inhoud bekijkt het meest waarschijnlijk maakt om een formulier te verzenden |
 
-1. Klik **Opslaan** wanneer gereed.
+1. Klikken **Opslaan** wanneer gereed.
 
    ![](assets/four.png)

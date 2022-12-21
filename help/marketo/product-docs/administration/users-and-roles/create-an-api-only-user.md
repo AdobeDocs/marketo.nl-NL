@@ -3,7 +3,6 @@ unique-page-id: 2360207
 description: Een gebruiker met alleen een API maken - Marketo Docs - Productdocumentatie
 title: Alleen een API-gebruiker maken
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
@@ -13,26 +12,25 @@ ht-degree: 0%
 
 # Alleen een API-gebruiker maken {#create-an-api-only-user}
 
-Als u met Marketo via [REST API](https://developers.marketo.com/documentation/rest/) wilt integreren, zult u een slechts gebruiker moeten creëren API. Zo gaat het.
+Als u met Marketo wilt integreren via de [REST API](https://developers.marketo.com/documentation/rest/), moet u een gebruiker met alleen de API maken. Zo gaat het.
 
 >[!PREREQUISITES]
 >
 >[Een gebruikersrol maken die alleen een API is](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 
-
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik onder **Admin** op **Gebruikers en rollen.**
+1. Onder **Beheer**, klikt u op **Gebruikers en rollen.**
 
    ![](assets/image2014-9-17-9-3a31-3a31.png)
 
-1. Klik **Nieuwe gebruiker uitnodigen**.
+1. Klikken **Nieuwe gebruiker uitnodigen**.
 
    ![](assets/image2014-9-17-9-3a32-3a3.png)
 
-1. Voer een e-mail, voornaam en achternaam in voor alleen de gebruiker van de API. Klik **Volgende**.
+1. Voer een e-mail, voornaam en achternaam in voor alleen de gebruiker van de API. Klikken **Volgende**.
 
    ![](assets/image2016-5-24-10-3a53-3a7.png)
 
@@ -40,11 +38,11 @@ Als u met Marketo via [REST API](https://developers.marketo.com/documentation/re
    >
    >Voeg een optionele reden of een vervaldatum toe. De vervaldata van de toegang zijn handig voor kortetermijnwerknemers.
 
-1. Selecteer de rol **Alleen API** en schakel het selectievakje **Alleen API** in. Klik **Volgende**.
+1. Selecteer **Alleen API** en controleert de **Alleen API** selectievakje. Klikken **Volgende**.
 
    ![](assets/four.png)
 
-1. Klik **Send**.
+1. Klikken **Verzenden**.
 
    ![](assets/image2016-5-24-11-3a8-3a20.png)
 

@@ -2,16 +2,15 @@
 unique-page-id: 10617434
 description: Selecteer uw bericht in de app - Marketo Docs - Productdocumentatie
 title: Uw bericht in de app selecteren
-translation-type: tm+mt
-source-git-commit: 975e048271dae6a877ae9ff5d39360b159afcc8a
+exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-
-# Uw bericht in de toepassing selecteren {#select-your-in-app-message}
+# Uw bericht in de app selecteren {#select-your-in-app-message}
 
 Hier selecteert u het bericht dat u hebt gemaakt voor gebruik in het programma.
 
@@ -21,7 +20,7 @@ Hier selecteert u het bericht dat u hebt gemaakt voor gebruik in het programma.
 
    >[!NOTE]
    >
-   >Alle berichten zijn beschikbaar om te selecteren, ongeacht waar ze wonen. Marketo voegt de bovenliggende naam aan elke naam toe, zodat u zeker weet dat elk bestand een unieke naam krijgt.
+   >Alle berichten zijn beschikbaar om te selecteren, ongeacht waar ze wonen. Marketo voegt de bovenliggende naam aan elk bestand toe om er zeker van te zijn dat elk bestand een unieke naam krijgt.
 
 1. Nadat u het bericht hebt geselecteerd, is het klaar. U kunt deze bewerken of voorvertonen.
 
@@ -31,4 +30,4 @@ Hier selecteert u het bericht dat u hebt gemaakt voor gebruik in het programma.
    >
    >Als u een ander bericht wilt selecteren, verwijdert u dit in het veld Bericht in de app. Vervolgens wordt de koppeling Nieuw bericht in de app geretourneerd. Klik erop en selecteer een ander bericht.
 
-Je bent op schema. Tijd aan [planning send](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).
+Je bent op schema. Tijd tot [plannen om](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md).

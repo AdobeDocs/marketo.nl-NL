@@ -3,7 +3,6 @@ unique-page-id: 2360293
 description: De naam van een veld wijzigen - Marketo Docs - Productdocumentatie
 title: De naam van een veld wijzigen
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
@@ -21,7 +20,7 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar Admin en klik **Veld Management**.
+1. Ga naar Beheer en klik op **Veldbeheer**.
 
    ![](assets/image2014-9-24-14-3a2-3a25.png)
 
@@ -29,11 +28,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Klik op de koppeling **Gebruikt door** om te zoeken naar elementen die naar dit veld verwijzen.
+   >Klik op de knop **Gebruikt door** koppeling om te zoeken naar elementen die naar dit veld verwijzen.
 
    ![](assets/changefieldname.png)
 
-1. Wijzig de naam van het veld en klik op **Opslaan**.
+1. Naam van veld wijzigen en klikken **Opslaan**.
 
    ![](assets/image2014-9-24-14-2-55.png)
 

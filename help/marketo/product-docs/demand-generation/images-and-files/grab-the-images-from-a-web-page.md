@@ -2,14 +2,13 @@
 unique-page-id: 2359866
 description: De afbeeldingen ophalen van een webpagina - Marketo Docs - Productdocumentatie
 title: De afbeeldingen ophalen van een webpagina
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
-
 
 # De afbeeldingen ophalen van een webpagina {#grab-the-images-from-a-web-page}
 
@@ -19,11 +18,11 @@ Als u afbeeldingen van een webpagina wilt toevoegen, kopieert u het webadres (UR
 
    ![](assets/designstudio-2.png)
 
-1. Klik op **New** en **Grab Images from Web**.
+1. Klikken op **Nieuw** en **Afbeeldingen ophalen van web**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Selecteer de map **Afbeeldingen en bestanden**, plak het webadres (URL) in het tekstvak URL en klik op **Volgende**.
+1. Selecteer **Afbeeldingen en bestanden** plakken, plakt u het webadres (URL) in het tekstvak URL en klikt u op **Volgende**.
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -39,7 +38,7 @@ Als u afbeeldingen van een webpagina wilt toevoegen, kopieert u het webadres (UR
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. U kunt al uw beschikbare beelden in **Beelden en Dossiers** zien.
+1. U kunt alle beschikbare afbeeldingen weergeven in **Afbeeldingen en bestanden**.
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 
@@ -47,7 +46,7 @@ Mooi werk, afbeelding master!
 
 >[!MORELIKETHIS]
 >
->* [Afbeeldingen en bestanden toevoegen aan markeerteken](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>* [Afbeeldingen en bestanden toevoegen aan Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 >* [Uw afbeeldingen en bestanden ordenen met mappen](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
 >* [De URL van een geüploade afbeelding of bestand zoeken](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
 >* [Afbeeldingen en bestanden uploaden uit vak](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)

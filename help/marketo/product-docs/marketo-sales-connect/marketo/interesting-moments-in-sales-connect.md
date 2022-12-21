@@ -16,7 +16,7 @@ Interesserende momenten zijn de sleutel tot communicatie met uw verkoopteam via 
 
 >[!AVAILABILITY]
 >
->Deze zijn alleen beschikbaar voor [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)- en Marketo Sales Connect-klanten.
+>Deze zijn beschikbaar voor [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) en alleen Marketo Sales Connect-klanten.
 
 ## Wat is een interessant moment? {#what-is-an-interesting-moment}
 
@@ -28,11 +28,11 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe maak ik een interessant moment? {#how-do-i-create-an-interesting-moment}
 
-1. Kies een [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), bij voorkeur één uw verkoopteam interessant zou vinden indien teweeggebracht.
+1. Kies een [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md), bij voorkeur één die uw verkoopteam interessant zou vinden als teweeggebracht.
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. Sleep over de **Interesserende momenten**-stroomstap.
+1. Sleep over de **Interesserende momenten** stap Stroom.
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
@@ -40,7 +40,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. Schrijf een bericht aan uw verkoopteam op **Beschrijving** gebied dat verklaart waarom deze actie van belang is.
+1. Schrijf een bericht naar uw verkoopteam in de **Beschrijving** een gebied dat verklaart waarom deze actie van belang is .
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -50,7 +50,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe ziet een interessant moment eruit in Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Interesserende momenten worden weergegeven in het activiteitenlog van een [lead.](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)
+Interesserende momenten worden weergegeven in een [activiteitenlogboek van lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md).
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 

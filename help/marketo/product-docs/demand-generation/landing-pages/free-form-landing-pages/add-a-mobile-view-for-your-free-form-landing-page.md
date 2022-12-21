@@ -1,6 +1,6 @@
 ---
 unique-page-id: 4720856
-description: Een Mobile-weergave toevoegen voor uw gratis landingspagina - Marketo Docs - Productdocumentatie
+description: Een mobiele weergave toevoegen voor uw gratis landingspagina - Marketo Docs - Productdocumentatie
 title: Een mobiele weergave toevoegen voor uw openingsbestemmingspagina
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795

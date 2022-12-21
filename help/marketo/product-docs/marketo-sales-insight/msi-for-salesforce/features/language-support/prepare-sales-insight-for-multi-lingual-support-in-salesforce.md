@@ -1,15 +1,14 @@
 ---
 unique-page-id: 7516460
-description: Verkoopoverzicht voorbereiden voor meertalige ondersteuning in Salesforce - Marketo Docs - Productdocumentatie
+description: Verkoopoverzicht voorbereiden voor meertalige ondersteuning in Salesforce - Marketo-documenten - Productdocumentatie
 title: Verkoopoverzicht voorbereiden voor meertalige ondersteuning in Salesforce
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: b808fa91-accd-4e0c-8223-0717faccab10
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
 
 ---
-
 
 # Verkoopoverzicht voorbereiden voor meertalige ondersteuning in Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
@@ -17,7 +16,7 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-Marketo Sales Insight wordt per taal opgeslagen. Dus als u wilt dat het voor meer dan één taal werkt, moet u de referenties voor elke taal afzonderlijk invoeren.
+Marketo Sales Insight wordt opgeslagen per taal. Dus als u wilt dat het voor meer dan één taal werkt, moet u de referenties voor elke taal afzonderlijk invoeren.
 
 >[!NOTE]
 >
@@ -26,22 +25,20 @@ Marketo Sales Insight wordt per taal opgeslagen. Dus als u wilt dat het voor mee
 >* Engels
 >* Frans
 >* Duits
-
 >
->
-Elke andere taal wordt standaard ingesteld op Engels.
+>Elke andere taal wordt standaard ingesteld op Engels.
 
-## Een nieuwe taal voor Marktverkoop toevoegen {#adding-a-new-language-for-marketo-sales-insight}
+## Een nieuwe taal toevoegen voor Marketo Sales Insight {#adding-a-new-language-for-marketo-sales-insight}
 
-1. Meld u aan bij Salesforce. Klik in de vervolgkeuzelijst onder uw naam in de rechterbovenhoek op **Setup**.
+1. Meld u aan bij Salesforce. Klik in de vervolgkeuzelijst onder uw naam in de rechterbovenhoek op **Instellen**.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Onder **Mijn Persoonlijke Informatie**, klik **Persoonlijke Informatie**.
+1. Onder **Mijn persoonlijke gegevens**, klikt u op **Persoonlijke gegevens**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
-1. Klik **Bewerken**.
+1. Klikken **Bewerken**.
 
    ![](assets/image2015-7-6-16-3a5-3a38.png)
 
@@ -49,11 +46,11 @@ Elke andere taal wordt standaard ingesteld op Engels.
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
-1. Uw Salesforce-interface bevindt zich nu in de geselecteerde taal. U kunt op het pictogram **+** klikken om alle beschikbare tabbladen weer te geven.
+1. Uw Salesforce-interface bevindt zich nu in de geselecteerde taal. U kunt op de knop **+** pictogram om alle beschikbare tabbladen weer te geven.
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. Klik **Het Inzicht van de Verkoop van de Marketo vormen** (in de geselecteerde taal).
+1. Klikken **Marketo Sales Insight configureren** (in de geselecteerde taal).
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
@@ -61,7 +58,7 @@ Elke andere taal wordt standaard ingesteld op Engels.
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
-1. Voer de API-gegevens in van Marketo en klik op **Opslaan**.
+1. Voer de API-gegevens in vanuit Marketo en klik op **Opslaan**.
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
@@ -73,19 +70,19 @@ Wanneer u klaar bent met het aanpassen van uw organisatie Salesforce, is hier ho
 >
 >De volgende screenshots zijn in het Frans met instructies in het Engels.  U ziet dezelfde schermen met tekst in de taal die u in de vorige stap hebt geselecteerd.
 
-1. Klik onder uw naam op **Setup**.
+1. Klik onder uw naam op **Instellen**.
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Klik **Persoonlijke Informatie** onder **Mijn Persoonlijke Informatie**.
+1. Klikken **Persoonlijke gegevens** krachtens **Mijn persoonlijke gegevens**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
-1. Klik **Bewerken**.
+1. Klikken **Bewerken**.
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 
-1. Selecteer **Engels** in de keuzelijst Taal en klik op **Opslaan**.
+1. Selecteren **Engels** in het keuzemenu Taal en klik op **Opslaan**.
 
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 

@@ -3,7 +3,6 @@ unique-page-id: 11378713
 description: Aangepaste objectwijzigingen activeren - Marketo Docs - Productdocumentatie
 title: Aangepaste objectwijzigingen activeren
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
@@ -20,12 +19,10 @@ ht-degree: 0%
 >* Voor klanten op de Orion-infrastructuur
 >* Alleen voor gebruik met aangepaste Marketo-objecten, niet met aangepaste objecten die zijn gesynchroniseerd via de integratie met Salesforce of Microsoft Dynamics
 >* Als trigger, geen filter
-
 >
->
-Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) om Aangepaste objectwijzigingstriggers in te schakelen.
+>Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) als u Aangepaste objectwijzigingstriggers wilt inschakelen.
 
-In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen wanneer een douanevoorwerp aan een persoon of een bedrijf wordt toegevoegd. U kunt ook een slimme lijst maken die een *change* in een aangepast object als trigger gebruikt. U kunt deze bijvoorbeeld gebruiken om een e-mail te verzenden wanneer de naam van een cursus wordt bijgewerkt.
+In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen wanneer een douanevoorwerp aan een persoon of een bedrijf wordt toegevoegd. U kunt ook een slimme lijst maken met een *wijzigen* in een aangepast object als een trigger. U kunt deze bijvoorbeeld gebruiken om een e-mail te verzenden wanneer de naam van een cursus wordt bijgewerkt.
 
 >[!NOTE]
 >

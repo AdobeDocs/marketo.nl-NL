@@ -44,7 +44,7 @@ Sluit naadloos een Marketo-gebeurtenis aan op een ReadyTalk-vergadering. Gebruik
 
 ## Microsoft Dynamics on Premise {#microsoft-dynamics-on-premise}
 
-Wij steunen nu de Dynamica 2011 van Microsoft op-gebouw met een Internet-Facing plaatsing.
+We ondersteunen nu Microsoft Dynamics 2011 op locatie met een internetgerichte implementatie.
 
 ## Webhaken (schatkist) {#webhooks-treasure-chest}
 

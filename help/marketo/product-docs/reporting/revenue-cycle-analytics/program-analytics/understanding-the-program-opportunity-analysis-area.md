@@ -1,23 +1,22 @@
 ---
 unique-page-id: 2951877
-description: Begrijpen van het Gebied van de Analyse van de Kans van het Programma - Marketo Docs - de Documentatie van het Product
+description: Het begrip van het gebied van de Analyse van de Kans van het Programma - de Documenten van Marketo - de Documentatie van het Product
 title: Het gebied van de Analyse van de Kans van het Programma
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '896'
 ht-degree: 0%
 
 ---
 
-
-# Het begrip van het Gebied van de Analyse van de Kans van het Programma {#understanding-the-program-opportunity-analysis-area}
+# Het gebied van de Analyse van de Kans van het Programma {#understanding-the-program-opportunity-analysis-area}
 
 ## Overzicht {#overview}
 
 Op het gebied van de Analyse van de Kans van het Programma kunt u de doeltreffendheid van individuele Programma&#39;s analyseren of samengevatte resultaten zien door het Kanaal van het Programma.
 
-**Voorbeeld van zakelijke vragen die u kunt beantwoorden met behulp van dit analysegebied zijn**:
+**Voorbeeld van zakelijke vragen die u kunt beantwoorden met behulp van dit analysegebied**:
 
 Hoeveel kansen zijn er verbonden aan een bepaald programma en hoeveel daarvan hebben we gewonnen?
 
@@ -35,7 +34,7 @@ Welke Kansen beïnvloedden een bepaald Programma?
 
 ![](assets/four-1.png)
 
-## Analyse van de Kans van het programma Attributiemaatregelen (Blauwe Dots) {#program-opportunity-analysis-attribution-measures-blue-dots}
+## Analyse van kenmerken van programmamogelijkheid (blauwe stippen) {#program-opportunity-analysis-attribution-measures-blue-dots}
 
 De maatregelen die u in analyse kunt gebruiken zijn over het algemeen aantallen en worden vertegenwoordigd door blauwe punten. Dimension zijn kenmerken die verschillende weergaven van de meetwaarden geven en worden weergegeven door gele stippen.
 
@@ -47,7 +46,7 @@ Er zijn drie soorten maatregelen:
 
 * Acquisitiegerelateerde maatregelen, waarvoor first-touch attributie (FT) wordt verkregen.
 * Succesgerelateerde maatregelen die multitouch-attributie (MT) ontvangen.
-* Diverse maatregelen in verband met het programma, waaronder het gemiddelde aantal marketingcontacten voordat Opportunity wordt gecreëerd of gesloten.
+* Diverse maatregelen in verband met het programma, waaronder het gemiddelde aantal marketingonderwerpen voordat Opportunity wordt gecreëerd of gesloten.
 
 ## Acquisitie- en succesgerelateerde maatregelen {#acquisition-and-success-related-measures}
 
@@ -100,7 +99,7 @@ Net als bij de overname verandert de waarde van de bijdrage aan de verkoop van e
  </tbody> 
 </table>
 
-_* (FT) = First-Touch Attribution, gebruikt voor metingen van de verwerving van lood; (MT) = Multi-Touch Attribution, gebruikt voor het meten van het succes van lead_
+_&#42;(FT) = First-Touch Attribution, gebruikt voor metingen van de verwerving van lood; (MT) = Multi-Touch Attribution, gebruikt voor het meten van het succes van lead_
 
 Hieronder volgt een scenario dat beschrijft hoe de Eenheden van de Kans worden berekend wanneer er twee Programma&#39;s zijn die lood produceerden, maar die tot één Kans van de zelfde rekening leiden.
 
@@ -169,11 +168,11 @@ Terwijl metingen (blauwe stippen) worden berekend en enige overweging en uitleg 
   </tr> 
   <tr> 
    <td>Opportuniteitskenmerken</td> 
-   <td>Opportunity Closed<br>Naam opportuniteit*<br>Naam opportuniteitseigenaar<br>Opportunity Stage<br>Type opportuniteit</td> 
+   <td>Opportunity gesloten<br>Naam opportunity*<br>Naam eigenaar opportunity<br>Opportunity Stage<br>Type opportunity</td> 
   </tr> 
   <tr> 
    <td>Tijdskader voor opportunity</td> 
-   <td>Opportunity closed year/Quarter/Month<br>Opportunity Created Year/Quarter/Month</td> 
+   <td>Opportunity afgesloten jaar/kwartaal/maand<br>Opportunity gemaakt voor jaar/kwartaal/maand</td> 
   </tr> 
   <tr> 
    <td>Programmakenmerken</td> 
@@ -186,7 +185,7 @@ Terwijl metingen (blauwe stippen) worden berekend en enige overweging en uitleg 
  </tbody> 
 </table>
 
-**All van de Kansen die om het even welk type van attributie krediet aan een Programma gaven. De kansen kunnen door één of meerdere lood en door één of meerdere Programma&#39;s worden beïnvloed.*
+*&#42;Alle Kansen die om het even welk soort attributietekening aan een Programma gaven. De kansen kunnen door één of meerdere lood en door één of meerdere Programma&#39;s worden beïnvloed.*
 
 >[!MORELIKETHIS]
 >

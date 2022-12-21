@@ -2,24 +2,23 @@
 unique-page-id: 2359999
 description: Rapportkolommen opnieuw ordenen - Marketo Docs - Productdocumentatie
 title: Rapportkolommen opnieuw ordenen
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-
 # Rapportkolommen opnieuw ordenen {#reorder-report-columns}
 
 U kunt de volgorde van de kolommen in een rapport wijzigen.
 
-1. Ga naar het **Marketingactiviteiten** (of **Analytics**) gebied.
+1. Ga naar de **Marketingactiviteiten** (of **Analyse**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Selecteer uw rapport van de navigatieboom, en klik **Report** tabel.
+1. Selecteer uw rapport in de navigatiestructuur en klik op de knop **Rapport** tab.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 

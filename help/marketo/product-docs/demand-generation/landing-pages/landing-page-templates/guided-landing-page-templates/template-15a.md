@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 15A {#template-15a}
 
-Klik met de rechtermuisknop op [Sjabloon 15A downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
+Klik met de rechtermuisknop om [downloadsjabloon 15A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15a.html)
 
 ![](assets/image2015-8-13-13-3a58-3a55.png)
 

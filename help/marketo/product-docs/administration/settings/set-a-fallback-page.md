@@ -3,7 +3,6 @@ unique-page-id: 2359920
 description: Een fallback-pagina instellen - Marketo Docs - Productdocumentatie
 title: Een terugvalpagina instellen
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '74'
@@ -19,15 +18,15 @@ Terugvalpagina&#39;s zijn de laatste verdedigingsregel als de landingspagina off
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik onder **Admin** op **Pagina&#39;s laden**.
+1. Onder **Beheer**, klikt u op **Openingspagina&#39;s**.
 
    ![](assets/image2014-9-10-12-3a7-3a22.png)
 
-1. Klik onder **Landing Pages** tabblad op **Edit**.
+1. Onder de **Openingspagina&#39;s** tabblad, klikt u op **Bewerken**.
 
    ![](assets/image2014-9-10-12-3a7-3a5.png)
 
-1. Voer een **Fallback-pagina** in het dialoogvenster in en klik op **Opslaan**.
+1. Voer een **Pagina voor alternatieven** in het dialoogvenster en klik op **Opslaan**.
 
    ![](assets/image2014-9-10-12-3a6-3a2.png)
 

@@ -2,14 +2,13 @@
 unique-page-id: 14745655
 description: Een campagne zichtbaar maken voor Connect-gebruikers - Marketo Docs - Productdocumentatie
 title: Een campagne zichtbaar maken voor Connect-gebruikers
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
-
 
 # Een campagne zichtbaar maken voor Connect-gebruikers {#make-a-campaign-visible-to-sales-connect-users}
 
@@ -19,7 +18,7 @@ Campagnes kunnen alleen worden gedeeld als ze zichtbaar worden gemaakt. Zo doe j
 
    ![](assets/one.png)
 
-1. Klik op het tabblad **Slimme lijst**.
+1. Klik op de knop **Slimme lijst** tab.
 
    ![](assets/two.png)
 
@@ -27,11 +26,11 @@ Campagnes kunnen alleen worden gedeeld als ze zichtbaar worden gemaakt. Zo doe j
 
    ![](assets/three.png)
 
-1. Kies voor de bron &quot;is&quot; **Web Service API**.
+1. Kies voor de bron &quot;is&quot; **Webservice-API**.
 
    ![](assets/4.png)
 
-1. Klik op het tabblad **Stroom**.
+1. Klik op de knop **Stroom** tab.
 
    ![](assets/five.png)
 
@@ -39,7 +38,7 @@ Campagnes kunnen alleen worden gedeeld als ze zichtbaar worden gemaakt. Zo doe j
 
    ![](assets/six.png)
 
-1. Selecteer **Web** voor Type.
+1. Selecteer bij Type **Web**.
 
    ![](assets/seven.png)
 
@@ -47,6 +46,6 @@ Campagnes kunnen alleen worden gedeeld als ze zichtbaar worden gemaakt. Zo doe j
 
    ![](assets/eight.png)
 
-1. Klik **Programma** tabel en **Activeer** de campagne.
+1. Klik op de knop **Schema** tab en **Activeren** de campagne.
 
    ![](assets/nine.png)

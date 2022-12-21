@@ -133,7 +133,7 @@ Gebeurtenis, tabblad:
 
 * Bevat gebeurtenisprogramma&#39;s die binnen de komende 90 dagen zijn gepland
 * Gebruik de filteroptie om alle gebeurtenissen/uitgenodigde gebeurtenissen weer te geven (op basis van de beheerinstellingen)
-* Selecting invited events will show events that specific contact has been invited to, along with member status
+* Het selecteren van uitgenodigde gebeurtenissen zal gebeurtenissen tonen die specifiek contact aan, samen met lidstatus is uitgenodigd
 * Als u alle gebeurtenissen selecteert, wordt de lijst met gebeurtenissen weergegeven die in de komende 90 dagen zijn gepland
 * Actiedetails-kaart in deze sectie bevat voorvertoningsoptie
 * Filter bevat &quot;Zoeken&quot;, &quot;Alleen uitgenodigde gebeurtenissen tonen&quot; en &quot;Datumbereik&quot;

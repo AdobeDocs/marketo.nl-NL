@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 20C {#template-20c}
 
-Klik met de rechtermuisknop op [Sjabloon 20C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+Klik met de rechtermuisknop om [downloadsjabloon 20C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
 
 ![](assets/template-20c.png)
 

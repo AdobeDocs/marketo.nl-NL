@@ -3,7 +3,6 @@ unique-page-id: 2360309
 description: Werken- en personenpartities begrijpen - Marketo Docs - Productdocumentatie
 title: Werken- en personenpartities begrijpen
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '514'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Werken- en personenpartities {#understanding-workspaces-and-person-partitions}
+# Werken- en personenpartities begrijpen {#understanding-workspaces-and-person-partitions}
 
 ## Werkruimten {#workspaces}
 
 >[!CAUTION]
 >
->Werkruimten kunnen complex zijn om in te stellen. Neem contact op met de [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) om te weten te komen of deze geschikt zijn voor u.
+>Werkruimten kunnen complex zijn om in te stellen. Contact [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) om te weten te komen of ze voor je geschikt zijn.
 
 De werkruimten zijn afzonderlijke gebieden in Marketo die marketingmiddelen zoals programma&#39;s, landingspagina&#39;s, e-mails en meer bevatten. Ze kunnen door meerdere mensen worden gebruikt. Elke gebruiker heeft toegang tot een of meer werkruimten.
 
@@ -29,14 +28,12 @@ De werkruimten zijn afzonderlijke gebieden in Marketo die marketingmiddelen zoal
 >
 >* Geografie: De marketingafdelingen in Europa, Azië en Noord-Amerika krijgen elk een werkruimte
 >* Bedrijfseenheid: QuickBooks, QuickBooks en TurboTax krijgen elk een werkruimte
-
 >
->
-In elk geval is de scheiding omdat de marketingactiva totaal verschillend zijn. Als zij marketing activa delen, dan kunnen de werkruimten niet het juiste hulpmiddel voor u zijn.
+>In elk geval is de scheiding omdat de marketingactiva totaal verschillend zijn. Als zij marketing activa delen, dan kunnen de werkruimten niet het juiste hulpmiddel voor u zijn.
 
 >[!NOTE]
 >
->Leer hoe u [een nieuwe werkruimte maakt](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Leer hoe u creeert [een nieuwe werkruimte maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Delen over werkruimten {#sharing-across-workspaces}
 
@@ -80,7 +77,7 @@ U kunt deze items delen in verschillende werkruimten.
 * [Segmentaties](/help/marketo/product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
 * Fragmenten
 
-## Klonen over werkruimten {#cloning-across-workspaces}
+## Klonen in verschillende werkruimten {#cloning-across-workspaces}
 
 Voor activa die geen malplaatjes zijn, zijn best om hen als lokale activa binnen van een programma te klonen.  Met het juiste toegangsniveau kunt u deze elementen naar een andere werkruimte slepen:
 
@@ -103,9 +100,9 @@ Als u elementen naar een nieuwe werkruimte wilt verplaatsen, plaatst u ze in een
 
 ## Personpartities {#person-partitions}
 
-Personverdelingen fungeren als aparte databases. Elke verdeling heeft zijn eigen mensen die niet ontdupe of mengen met andere verdelingen. Neem contact op met [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support) als u een bedrijfs-gebruikscase hebt waarvoor dubbele records met hetzelfde e-mailadres nodig kunnen zijn.
+Personverdelingen fungeren als aparte databases. Elke verdeling heeft zijn eigen mensen die niet ontdupe of mengen met andere verdelingen. Als je een kwestie hebt voor zakelijk gebruik waarvoor dubbele records met hetzelfde e-mailadres nodig kunnen zijn, neem dan contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-U kunt persoonlijke verdelingen toewijzen aan [werkruimten](create-a-new-workspace.md) in de volgende configuraties:
+U kunt partities toewijzen aan personen  [werkruimten](create-a-new-workspace.md) in de volgende configuraties:
 
 * Eén werkruimte naar één partitie met personen (1:1)
 * Eén werkruimte voor partities van vele personen (1:x)
@@ -113,7 +110,7 @@ U kunt persoonlijke verdelingen toewijzen aan [werkruimten](create-a-new-workspa
 
 >[!NOTE]
 >
->Redenen waarop u een partitie voor personen wilt gebruiken:
+>Redenen waarop u een partitie met personen wilt gebruiken:
 >
 >* Uw werkruimten hebben niet alleen verschillende middelen, maar delen ook geen personen
 >* U wilt duplicaten om andere zakelijke redenen
@@ -125,4 +122,4 @@ U kunt persoonlijke verdelingen toewijzen aan [werkruimten](create-a-new-workspa
 
 >[!NOTE]
 >
->Leer hoe te om [een persoonverdeling te creëren](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
+>Leer hoe u [een partitie voor personen maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).

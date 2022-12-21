@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 9D {#template-9d}
 
-Klik met de rechtermuisknop op [Sjabloon 9D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
+Klik met de rechtermuisknop om [Sjabloon 9D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
 
 ![](assets/image2015-7-28-15-3a54-3a21.png)
 

@@ -31,8 +31,8 @@ U kunt meer pijpleidingen en inkomsten aansturen door verkoop meer mogelijkheden
 **ToutApp**
 
 * **Compatibiliteitskaart**: Zorgen voor naleving van GDPR door de bron van verkoopcontacten en details van klantentoestemming voor het ontvangen van mededelingen te vangen.
-* **Update** voor wachtwoordbeleid: Houd uw gegevens veiliger met strengere vereisten voor het maken, opnieuw instellen en verlopen van wachtwoorden (voldoet aan de nalevingsvereisten voor Soc II - Type 1).
-* **Gestroomlijnde ervaring** bij het instellen van accounts: Uw account wordt sneller ingesteld en verbonden met Gmail, Outlook en andere systemen.
+* **Update voor wachtwoordbeleid**: Houd uw gegevens veiliger met strengere vereisten voor het maken, opnieuw instellen en verlopen van wachtwoorden (voldoet aan de nalevingsvereisten voor Soc II - Type 1).
+* **Gestroomlijnde ervaring bij het instellen van accounts**: Uw account wordt sneller ingesteld en verbonden met Gmail, Outlook en andere systemen.
 
 ## Marketo Sky Open bèta {#marketo-sky-open-beta}
 

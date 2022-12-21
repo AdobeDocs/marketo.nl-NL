@@ -1,21 +1,20 @@
 ---
 unique-page-id: 11384653
-description: Inhoud bewerken - Marketo Docs - Productdocumentatie
+description: Inhoud bewerken - Marketo-documenten - Productdocumentatie
 title: Inhoud bewerken
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# Inhoud {#edit-content} bewerken
+# Inhoud bewerken {#edit-content}
 
 Je kunt enkele wijzigingen aanbrengen in aanbiedingen op de pagina Alle inhoud.
 
-1. Houd de muisaanwijzer boven de rij van de titel die u wilt bewerken op de pagina **All Content** en klik op het bewerkingspictogram.
+1. Op de **Alle inhoud** Houd de muisaanwijzer boven de rij van de titel die u wilt bewerken en klik op het pictogram Bewerken.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
@@ -23,10 +22,10 @@ Je kunt enkele wijzigingen aanbrengen in aanbiedingen op de pagina Alle inhoud.
 
    ![](assets/edit-content-2.png)
 
-1. Klik op het veld **Categorieën** om categorieën toe te voegen of te verwijderen. Selecteer nieuwe in het keuzemenu. U kunt een momenteel geselecteerde categorie verwijderen door op de desbetreffende **X** te klikken.
+1. Klik op de knop **Categorieën** veld voor het toevoegen/verwijderen van categorieën. Selecteer nieuwe in het keuzemenu. U kunt een momenteel geselecteerde categorie verwijderen door op de categorie te klikken **X**.
 
    ![](assets/edit-content-3.png)
 
-1. Schakel het selectievakje **Goedkeuren voor voorspellende inhoud** in om goed te keuren of schakel het selectievakje uit om niet goed te keuren. Klik **Opslaan** wanneer gereed.
+1. Controleer de **Goedkeuren voor voorspellende inhoud** om goed te keuren of schakel het selectievakje uit om niet goed te keuren. Klikken **Opslaan** wanneer gereed.
 
    ![](assets/edit-content-4.png)

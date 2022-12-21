@@ -2,18 +2,17 @@
 unique-page-id: 2359612
 description: Positie formulierlabel wijzigen - Marketo Docs - Productdocumentatie
 title: Positie van formulierlabel wijzigen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
 # Positie van formulierlabel wijzigen {#change-form-label-position}
 
-Als u [een formulier maakt](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), kunt u de plaatsing van de formulierveldlabels zeer eenvoudig wijzigen. Zo gaat het.
+Wanneer [een formulier maken](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)U kunt de positie van de formulierveldlabels heel eenvoudig wijzigen. Zo gaat het.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -23,11 +22,11 @@ Als u [een formulier maakt](/help/marketo/product-docs/demand-generation/forms/c
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. Selecteer **Instellingen**.
+1. Selecteren **Instellingen**.
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Selecteer de **Positie van het Etiket** u wilt.
+1. Selecteer **Positie van label** wilt u.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -36,11 +35,11 @@ Als u [een formulier maakt](/help/marketo/product-docs/demand-generation/forms/c
    * Links (standaard)
    * Boven
 
-1. Klik **Voltooien**.
+1. Klikken **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Klik **Goedkeuren en Sluiten**.
+1. Klikken **Goedkeuren en Sluiten**.
 
    >[!NOTE]
    >

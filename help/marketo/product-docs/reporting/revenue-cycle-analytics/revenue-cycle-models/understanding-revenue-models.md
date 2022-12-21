@@ -2,20 +2,19 @@
 unique-page-id: 4718654
 description: Inzicht in inkomstenmodellen - Marketo-documenten - productdocumentatie
 title: Inkoopmodellen
-translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 0%
 
 ---
 
-
 # Inkoopmodellen {#understanding-revenue-models}
 
 De modellen van de opbrengstcyclus nemen marketing op het volgende niveau. Zij modelleren alle stadia van uw volledige opbrengsttrechter-van wanneer u eerst met een lood in wisselwerking staat al manier tot de lood een gewonnen klant is.
 
-## Mental Model (hoe te om over dit ding te denken) {#mental-model-how-to-think-about-this-thing}
+## Mental Model (hoe hierover na te denken) {#mental-model-how-to-think-about-this-thing}
 
 De Modeler is als een serie emmers met water erin. Er zitten gaten in de bodem van de emmers.
 
@@ -37,11 +36,11 @@ Door gebrek, begint een nieuw model u met zes opbrengststadia. Dit model is op z
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Merk op dat ze allemaal op een groene achtergrond staan. Dit wordt genoemd **Succesweg**. Meer informatie over het succespad [hier](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Merk op dat ze allemaal op een groene achtergrond staan. Dit wordt de **Pad met succes**. Meer weten over het succespad [hier](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
-**** Stages zijn de mijlpalen op weg naar de verwezenlijking van hun doelstellingen.
+**Staven** zijn de mijlpalen op weg naar de verwezenlijking van hun doelstellingen .
 
-**Overgangen** worden als pijlen weergegeven en bepalen hoe de leads tussen de verschillende stadia bewegen.
+**Overgangen** worden weergegeven als pijlen en bepalen hoe lopen tussen de fasen worden verplaatst.
 
 >[!NOTE]
 >
@@ -53,13 +52,13 @@ Elk bedrijf is anders. U kunt dingen aan het model toevoegen door van bovenrecht
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
-## Voorraadwerkgebied {#inventory-stage}
+## Voorraadfase {#inventory-stage}
 
-Dit ziet eruit als een doos en is de meest elementaire van stadia. Analytics zal de instroom, de uitstroom en de balans van dit stadium volgen.
+Dit ziet eruit als een doos en is de meest elementaire van stadia. Analytics zal de instroom, de uitstroom en het evenwicht van dit stadium volgen.
 
 ## SLA-werkgebied {#sla-stage}
 
-Dit is kort voor **Service Level Agreement**-werkgebied. Het is de bedoeling dat u in bepaalde fasen een tijdslimiet wilt handhaven.
+Dit is kort voor **Service Level Agreement** in. Het is de bedoeling dat u in bepaalde fasen een tijdslimiet wilt handhaven.
 
 >[!NOTE]
 >
@@ -75,7 +74,7 @@ Een Gate-werkgebied is bedoeld voor situaties waarin u leads wilt filteren in ee
 >
 >**Voorbeeld**
 >
->Een poort kan worden gebruikt voor leads die onderdeel zijn van een **accountlijst** om dit te scheiden van het normale proces.
+>Een poort kan worden gebruikt voor leads die onderdeel zijn van een **benoemde accountlijst** om dit van het normale proces te scheiden.
 
 ## Overgangen {#transitions}
 
@@ -96,19 +95,14 @@ Verloren is een goede om toe te voegen, maar u ziet dat het niet op het groene p
 >[!MORELIKETHIS]
 >
 >* [Een nieuw inkomstenmodel maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
-   >
-   >
-* [Opbrengstmodelinventarisatiestadia gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-   >
-   >
-* [Opbrengstmodelstatussen gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
-   >
-   >
-* [SLA-fasen van inkomstenmodel gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
-   >
-   >
-* [Rapport over uw inkomstenmodel](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
-   >
-   >
-* [Een inkomstenmodel goedkeuren/goedkeuren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+>
+>* [Opbrengstmodelinventarisatiestadia gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>
+>* [Opbrengstmodelstatussen gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>
+>* [SLA-fasen van inkomstenmodel gebruiken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>
+>* [Rapport over uw inkomstenmodel](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+>
+>* [Een inkomstenmodel goedkeuren/goedkeuren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
 

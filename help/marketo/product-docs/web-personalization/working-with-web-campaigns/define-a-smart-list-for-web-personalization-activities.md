@@ -1,29 +1,28 @@
 ---
 unique-page-id: 10097867
-description: Definieer een slimme lijst voor de Personalisatieactiviteiten van het Web - Marketo Docs - de Documentatie van het Product
+description: Een slimme lijst definiëren voor personaliseringsactiviteiten voor het web - Marketo Docs - Productdocumentatie
 title: Een slimme lijst definiëren voor activiteiten van webpersonalisatie
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
 
-
-# Een slimme lijst definiëren voor de Personalisatieactiviteiten van het web {#define-a-smart-list-for-web-personalization-activities}
+# Een slimme lijst definiëren voor activiteiten van webpersonalisatie {#define-a-smart-list-for-web-personalization-activities}
 
 U kunt de activiteiten van de Personalisatie van het Web in filters en trekkers gebruiken wanneer u een slimme lijst in een slimme campagne bepaalt. Hier, wilt u iedereen vangen die een vraag van de Personalisatie van het Web aan actie (campagne) klikte.
 
 Gebruik een trigger om een e-mail of waarschuwing te verzenden, of wijzig een waarde of score op basis van bezoekers die hebben geklikt en een webpersonalisatie-aanroep hebben geactiveerd. U kunt die lood ook filtreren en bekijken die op een vraag van de Personalisatie van het Web aan actie klikte.
 
-1. In uw slimme campagne, klik **Slimme Lijst** tabel.
+1. Klik in uw slimme campagne op de knop **Slimme lijst** tab.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
    >[!NOTE]
    >
-   >Slimme lijsten kunnen verbazingwekkende dingen doen. Leer meer in [Slimme Deep van de Lijst Dive](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Slimme lijsten kunnen verbazingwekkende dingen doen. Meer informatie in het dialoogvenster [Diepte slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Zoek de trigger en sleep de trigger naar het canvas.
 
@@ -57,7 +56,7 @@ Gebruik een trigger om een e-mail of waarschuwing te verzenden, of wijzig een wa
    >
    >Bij meerdere triggers gaat een persoon door naar de flow als een van de triggers wordt geactiveerd.
 
-   Als u de campagne op een set mensen tegelijk wilt uitvoeren, leert u hoe u [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Leer hoe u de campagne op een aantal mensen tegelijk kunt uitvoeren [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >

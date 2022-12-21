@@ -34,7 +34,7 @@ Gearchiveerde elementen worden automatisch gefilterd van automatische suggesties
 
 Figuur 2. Voorbeeld van het gearchiveerde e-mailfilter
 
-## Nieuwe gebeurtenischeck-in-app voor iPad {#new-event-check-in-app-for-ipad}
+## New Event Check-in App for iPad {#new-event-check-in-app-for-ipad}
 
 Vereenvoudig het inchecken van gebeurtenissen met onze nieuwe iPad-app! De app voor gebeurtenisinchecken synchroniseert met uw Marketo-programma en kunt u eenvoudig geregistreerde personen in een gebeurtenis controleren en nieuwe leads toevoegen.
 
@@ -54,7 +54,7 @@ Figuur 5. Controleer ze in
 
 ## Verbeterde URL voor bevestiging van webinar {#enhanced-webinar-confirmation-url}
 
-Nu beschikbaar voor ON24 en Adobe Connect! Neem een unieke koppeling op in het bevestigingsbericht voor elke geregistreerde deelnemer die de nieuwe token `{{member.webinar URL}}` gebruikt. Tot de Adobe Connect-verbeteringen behoren ook de mogelijkheid om het e-mailbericht met informatie over een Adobe-account met de aanmeldings-id en het wachtwoord voor de gebruiker in of uit te schakelen.
+Nu beschikbaar voor ON24 en Adobe Connect! Een unieke koppeling opnemen in het bevestigingsbericht voor elke geregistreerde deelnemer die gebruikmaakt van de nieuwe `{{member.webinar URL}}` token. Tot de Adobe Connect-verbeteringen behoren ook de mogelijkheid om het e-mailbericht met informatie over een Adobe-account met de aanmeldings-id en het wachtwoord voor de gebruiker in of uit te schakelen.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 

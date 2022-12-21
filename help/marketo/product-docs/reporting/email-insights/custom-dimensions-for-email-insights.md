@@ -2,18 +2,17 @@
 unique-page-id: 11375276
 description: Aangepaste Dimension voor e-mailinzicht - Marketo Docs - Productdocumentatie
 title: Aangepaste Dimension voor e-mailinzichten
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: e648a788-50da-495b-b195-f287bcbaeecb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-
 # Aangepaste Dimension voor e-mailinzichten {#custom-dimensions-for-email-insights}
 
-Alle standaardafmetingen voor markeren zijn inbegrepen, maar u kunt maximaal 10 aangepaste afmetingen toevoegen. Aangepaste afmetingen bestaan uit segmentaties en programmatags. Zo voegt u ze toe.
+Alle standaard Marketo-afmetingen zijn inbegrepen, maar u kunt maximaal 10 aangepaste afmetingen toevoegen. Aangepaste afmetingen bestaan uit segmentaties en programmatags. Zo voegt u ze toe.
 
 >[!NOTE]
 >
@@ -21,17 +20,17 @@ Alle standaardafmetingen voor markeren zijn inbegrepen, maar u kunt maximaal 10 
 
 >[!CAUTION]
 >
->Aangepaste afmetingen **kunnen niet** worden verwijderd of vervangen, dus kies zorgvuldig uw 10.
+>Aangepaste afmetingen **kan** worden verwijderd of vervangen, dus kies de 10 zorgvuldig.
 
 1. Klik in Email Insights op het tandwielpictogram rechtsboven op de pagina.
 
    ![](assets/cd1.png)
 
-1. Klik **Systeem**.
+1. Klikken **Systeem**.
 
    ![](assets/cd2.png)
 
-1. Klik op **+** naast **Dimensie toevoegen**.
+1. Klik op de knop **+** naast **Dimensie toevoegen**.
 
    ![](assets/cd3.png)
 

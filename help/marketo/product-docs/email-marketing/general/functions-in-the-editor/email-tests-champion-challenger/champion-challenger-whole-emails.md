@@ -2,14 +2,13 @@
 unique-page-id: 2359555
 description: Champion/Challenger - Hele e-mails - Marketo Docs - Productdocumentatie
 title: Champion/Challenger — Hele e-mails
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
-
 
 # Champion/Challenger: Hele e-mails {#champion-challenger-whole-emails}
 
@@ -19,7 +18,7 @@ Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoe
 >
 >[Een e-mailkampioen/challenger toevoegen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Selecteer **Hele e-mails** in de vervolgkeuzelijst **Type testen** in de e-mailtesteditor.
+1. Selecteer in de testeditor voor e-mail de optie **Hele e-mails** in de **Testtype** vervolgkeuzelijst.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +26,7 @@ Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoe
    >
    >Onthoud: De originele e-mail is de kampioen. De krijgers concurreren er tegen.
 
-1. Zoek en selecteer **Challengers** e-mail(s) en klik vervolgens op **Klonen**.
+1. Zoek en selecteer de **Challengers** e-mail(s) en klik vervolgens op **Klonen**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -49,7 +48,7 @@ Test hele e-mails tegen elkaar. Als de test voorbij is, verzendt u de top-uitvoe
 
    [Meer informatie dan je ooit wilde over statistisch vertrouwen](https://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 

@@ -3,7 +3,6 @@ unique-page-id: 1146999
 description: Tokens voor interessante momenten activeren - Marketo Docs - Productdocumentatie
 title: Tokens activeren voor interessante momenten
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
-translation-type: tm+mt
 source-git-commit: f4c773ca76542827a498940f44b018ddb71816d6
 workflow-type: tm+mt
 source-wordcount: '436'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# Tokens voor interessante momenten {#trigger-tokens-for-interesting-moments} activeren
+# Tokens activeren voor interessante momenten {#trigger-tokens-for-interesting-moments}
 
 >[!PREREQUISITES]
 >
->Leer om [Interesserende de stroomstap van het Moment te gebruiken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Leer de [Interesserende fase van momentstroom](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Beschikbare tokens {#available-tokens}
 
-Bekijk [Tokens Overzicht](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om alle tokens te zien u in een interessant moment kunt zetten.
+Uitchecken [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om alle tokens te zien die je in een interessant moment kunt zetten.
 
-## Tokens {#trigger-tokens} activeren
+## Tokens activeren {#trigger-tokens}
 
 Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra triggertokens beschikbaar gesteld.
 
@@ -804,9 +803,9 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
 
 >[!NOTE]
 >
->Als er geen controle ![(tik)](assets/check.png) is, wordt er op het interessante moment een lege tekenreeks (niets) geretourneerd.
+>Als het geen controle heeft ![(tik)](assets/check.png) dan zou het een lege tekenreeks (niets) teruggeven op het interessante moment.
 
-*Trigger **Bezoekt Web-pagina** heeft een paar extra tokens:
+&#42;De trigger **Bezoek de webpagina** heeft enkele extra tokens:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

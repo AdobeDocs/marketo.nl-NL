@@ -2,14 +2,13 @@
 unique-page-id: 14352612
 description: Een campagne plannen - Marketo Docs - Productdocumentatie
 title: Een campagne plannen
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # Een campagne plannen {#schedule-a-campaign}
 
@@ -19,8 +18,8 @@ U hoeft alleen maar te kiezen wanneer u uw e-mails wilt verzenden wanneer u uw c
 
 Als u uw eerste stap niet had gepland of &quot;moet kiezen verzendt bij&quot;tijd, zal u worden gevraagd om te kiezen wanneer uw Campagne zou moeten worden verzonden, telkens als u een persoon of een groep toevoegt.
 
-Open Add aan de modaal van de Campagne, of door individuen, een groep, of geselecteerde mensen toe te voegen en **daarna** te klikken.
+Open de modus Toevoegen aan campagne door personen, groepen of geselecteerde personen toe te voegen en klik op **Volgende**.
 
-Nadat u **Volgende** klikt, kunt u voorproef eerste e-mail.
+Nadat u op **Volgende**, kunt u een voorbeeld van het eerste e-mailbericht bekijken.
 
-Nadat u nogmaals op **Volgende** hebt geklikt, gaat u naar een optie voor wanneer u uw campagne wilt laten uitvoeren. U kunt het nu laten beginnen, of een tijd voor later plannen om de campagne te beginnen.
+Na klikken **Volgende** nogmaals, u zult aan een optie voor worden genomen wanneer u uw campagne wilt gaan. U kunt het nu laten beginnen, of een tijd voor later plannen om de campagne te beginnen.

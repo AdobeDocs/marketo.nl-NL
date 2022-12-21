@@ -2,16 +2,15 @@
 unique-page-id: 10097747
 description: Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten - Marketo Docs - de Documentatie van het Product
 title: Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-
-# Aangepaste maatregelen toevoegen aan een opbrengstverkenner-rapport {#adding-custom-measures-to-a-revenue-explorer-report}
+# Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten {#adding-custom-measures-to-a-revenue-explorer-report}
 
 Soms wilt u een aangepaste maatregel in een rapport. Het is eenvoudig om je eigen te maken.
 
@@ -21,9 +20,9 @@ In het onderstaande voorbeeld, creeert u een berekende maatregel voor zachte gre
 >
 >U hebt minstens één metrisch in uw rapport nodig, maar het moet niet één van de maatregelen zijn u gebruikt om uw douanemaatregel te bepalen.
 
-1. Trek over de gebieden u voor uw rapport nodig hebt. Zie [Velden toevoegen aan een Rapport van de Ontdekkingsreiziger van de Ontvangsten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) voor details.
+1. Trek over de gebieden u voor uw rapport nodig hebt. Zie [Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) voor meer informatie.
 
-1. Klik met de rechtermuisknop op een bestaande metrische waarde (blauwe cel), klik op **Door gebruiker gedefinieerde maatregel** en selecteer **Berekende maatregel**.
+1. Klik met de rechtermuisknop op een bestaande metrische waarde (blauwe cel) en klik op **Door de gebruiker gedefinieerde maat** en selecteert u **Berekende maatregel**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 

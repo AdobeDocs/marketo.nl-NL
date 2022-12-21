@@ -1,33 +1,32 @@
 ---
 unique-page-id: 14352516
-description: Contacten maken en verwijderen - Marketo Docs - Productdocumentatie
+description: Contactpersonen maken en verwijderen - Marketo Docs - Productdocumentatie
 title: Contactpersonen maken en verwijderen
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
+# Contactpersonen maken en verwijderen {#creating-and-deleting-contacts}
 
-# Contactpersonen {#creating-and-deleting-contacts} maken en verwijderen
+## Contactpersonen maken {#creating-contacts}
 
-## Contacten maken {#creating-contacts}
-
-1. Klik in de pagina Personen op de knop **Handelingen groeperen** en selecteer **Contactpersoon maken**.
+1. Klik op de pagina Personen op de knop **Handelingen groeperen** en selecteert u **Contactpersoon maken**.
 
    ![](assets/one-2.png)
 
-1. Voer de voornaam/achternaam en het e-mailadres in, samen met eventuele andere gewenste gegevens. Klik **Create** wanneer gedaan, of **creeer en voeg Nieuw** toe om meer contacten toe te voegen.
+1. Voer de voornaam/achternaam en het e-mailadres in, samen met eventuele andere gewenste gegevens. Klikken **Maken** wanneer gereed, of **Nieuw maken en toevoegen** om meer contacten toe te voegen.
 
    ![](assets/two-2.png)
 
    >[!TIP]
    >
-   >Wilt u meerdere contactpersonen tegelijk toevoegen? [Klik ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) hier om te leren hoe u contactpersonen kunt importeren via CSV.
+   >Wilt u meerdere contactpersonen tegelijk toevoegen? [Klik hier](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) om te leren hoe te om contacten via CSV in te voeren.
 
-## Contactpersonen {#deleting-contacts} verwijderen
+## Contactpersonen verwijderen {#deleting-contacts}
 
 1. Schakel op de pagina Personen het vakje in van de contactpersoon die u wilt verwijderen.
 
@@ -37,10 +36,10 @@ ht-degree: 0%
    >
    >Om veelvoudige contacten te schrappen, selecteer eenvoudig veelvoudige mensen. De overige stappen zouden hetzelfde zijn.
 
-1. Klik op de gegevens (drie verticale punten) en selecteer **Delete**.
+1. Klik op de gegevens (drie verticale stippen) en selecteer **Verwijderen**.
 
    ![](assets/four-2.png)
 
-1. Klik **Contactpersoon verwijderen** om te bevestigen.
+1. Klikken **Contactpersoon verwijderen** ter bevestiging.
 
    ![](assets/five-2.png)

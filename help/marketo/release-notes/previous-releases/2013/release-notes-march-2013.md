@@ -16,7 +16,7 @@ De volgende functies zijn opgenomen in de release van maart.
 
 ## Marketo-kalenderbestanden {#marketo-calendar-files}
 
-Maak een kalenderbestand als een **Mijn token** dat moet worden gebruikt in e-mails voor bevestiging en herinnering van gebeurtenissen. Dit geïntegreerde kalenderbestand (bijvoorbeeld het .ics-bestand) rendert alle tokens, inclusief Mijn tokens en de `{{member.webinar URL}}`-token.
+Een kalenderbestand maken als een **Mijn token** te gebruiken voor de bevestiging van gebeurtenissen en herinneringen. Dit geïntegreerde kalenderbestand (bijvoorbeeld het .ics-bestand) rendert alle tokens, inclusief Mijn tokens en de `{{member.webinar URL}}` token.
 
 ![](assets/image2014-9-22-15-3a35-3a24.png)
 

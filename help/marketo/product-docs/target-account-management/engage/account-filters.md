@@ -2,14 +2,13 @@
 unique-page-id: 11380732
 description: Accountfilters - Marketo Docs - Productdocumentatie
 title: Accountfilters
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
 
 ---
-
 
 # Accountfilters {#account-filters}
 
@@ -17,11 +16,11 @@ Benoemde accounts en de personen binnen deze accounts identificeren en inschakel
 
 ## TAM-filters {#tam-filters}
 
-1. Selecteer uw slimme campagne en klik **Slimme Lijst**.
+1. Selecteer uw slimme campagne en klik op **Slimme lijst**.
 
    ![](assets/one.png)
 
-1. Klik op **+** om de map **Accountfilters** uit te vouwen.
+1. Klik op de knop **+** om de **Accountfilters** map.
 
    ![](assets/two.png)
 
@@ -29,7 +28,7 @@ Benoemde accounts en de personen binnen deze accounts identificeren en inschakel
 
    ![](assets/three.png)
 
-## Lid van de Lijst van Rekening {#member-of-account-list}
+## Lijst van leden van account {#member-of-account-list}
 
 Klik op de vervolgkeuzelijst met accounts om dit filter te gebruiken...
 
@@ -43,9 +42,9 @@ Klik op de vervolgkeuzelijst met accounts om dit filter te gebruiken...
 >
 >Voor het filter Account List is er slechts één kwalificatie: &quot;is&quot; - Aanvullende aanduidingen (zoals &quot;is not&quot; en &quot;is any&quot;) zijn niet beschikbaar.
 
-## Lid van benoemde rekening {#member-of-named-account}
+## Lid van Benoemde Rekening {#member-of-named-account}
 
-Kies eerst een kwalificatie. **** Isfor a specific named account(s) or  **is** any for any named account.
+Kies eerst een kwalificatie. **Is** voor een specifieke benoemde account(s) of **is** voor een benoemde account.
 
 ![](assets/six.png)
 
@@ -57,7 +56,7 @@ Klik op de vervolgkeuzelijst benoemde account...
 
 ![](assets/eight.png)
 
-Als u &quot;is om het even welk&quot;bepalend gebruikt, kunt u [beperkingen ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) willen gebruiken om uw onderzoeksresultaten te beperken. Voeg zoveel toe als u wilt!
+Als u de kwalificatie &quot;is om het even welk&quot; gebruikt, kunt u willen gebruiken [beperkingen](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) om uw zoekresultaten te beperken. Voeg zoveel toe als u wilt!
 
 ![](assets/nine.png)
 

@@ -2,20 +2,19 @@
 unique-page-id: 10100434
 description: Kies een lay-out voor uw bericht in de app - Marketo Docs - Productdocumentatie
 title: Kies een lay-out voor uw bericht in de app
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: e36507d1-df04-43ac-9da0-14116db3add6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '478'
 ht-degree: 0%
 
 ---
 
-
 # Kies een lay-out voor uw bericht in de app {#choose-a-layout-for-your-in-app-message}
 
 Marketo biedt zes lay-outs voor het maken van in-app berichten.
 
-* Pop-uplay-outs zijn traditioneler en ideaal als u geen creatief team hebt om inhoud te leveren en u geen specifieke vormgeving nodig hebt. U kunt eenvoudig uw eigen in-app-bericht maken en bewerken in Marketo
+* Pop-uplay-outs zijn traditioneler en ideaal als u geen creatief team hebt om inhoud te leveren en u geen specifieke vormgeving nodig hebt. U kunt in Marketo eenvoudig uw eigen bericht in de app maken en bewerken
 * Met de lay-out Volledig scherm kunt u uw eigen voltooide ontwerpen importeren, zodat u over volledige grafische flexibiliteit beschikt
 
 ## Pop-upindelingen {#pop-up-layouts}
@@ -58,7 +57,7 @@ De derde lay-out Volledig scherm is gelijk aan de tweede, behalve de tweede. Dit
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Nu u over de malplaatjes weet, het tijd om te kiezen wanneer u [creeer uw in-app berichtbeelden](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
+Nu u de sjablonen kent, is het tijd om er een te kiezen wanneer u [maak uw in-app-berichtafbeeldingen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >

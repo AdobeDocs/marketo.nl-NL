@@ -115,7 +115,7 @@ Voltooi deze missies om de kerneigenschappen van Marketo Engage te leren.
       <img alt="Verbinden" src="getting-started/assets/getting-started-10.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/update-person-data.md">10 Persoonsgegevens bijwerken</a>
+    <a href="getting-started/quick-wins/update-person-data.md">10. Persoonsgegevens bijwerken</a>
     </div>
     <br>
   </td>

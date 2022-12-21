@@ -3,7 +3,6 @@ unique-page-id: 1147122
 description: Leden beheren en weergeven - Marketo Docs - Productdocumentatie
 title: Leden beheren en weergeven
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '251'
@@ -17,13 +16,13 @@ U kunt uw leden in uw programma&#39;s beheren en bekijken gebruikend het lusje v
 
 >[!NOTE]
 >
->Diveer dieper in [programmalidmaatschap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+>Dieper doordringen in [programmalidmaatschap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
 
 ## Zoeken naar een lid {#search-for-a-member}
 
 Onder aan de sectie Leden gebruikt u het zoekveld om te zoeken naar de leden van het programma op naam, e-mail, functie of bedrijf.
 
-1. Klik op het tabblad **Leden** van uw programma.
+1. Klik op de knop **Leden** van uw programma.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -49,21 +48,21 @@ Klik met de rechtermuisknop op de kolomkop om alfabetisch te sorteren, in oplope
 
 ## Kies welke kolommen zichtbaar zijn in het raster {#choose-which-columns-are-visible-in-the-grid}
 
-1. Klik op de vervolgkeuzelijst **Weergave** en selecteer **Weergave maken**.
+1. Klik op de knop **Weergave** vervolgkeuzelijst en selecteer **Weergave maken**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Geef een naam op voor de aangepaste weergave. Selecteer kolomtitels. Klik **Add** en **Remove** om kolommen te verplaatsen en een mening tot stand te brengen.
+1. Geef een naam op voor de aangepaste weergave. Selecteer kolomtitels. Klikken **Toevoegen** en **Verwijderen** om kolommen te verplaatsen en een weergave te maken.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. Klik **Maken**.
+1. Klikken **Maken**.
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
-## Het raster Leden filteren {#filter-the-members-grid}
+## Het raster Leden filteren  {#filter-the-members-grid}
 
-1. Klik op de vervolgkeuzelijst **Filter** en selecteer een progressiestap waarop u wilt sorteren.
+1. Klik op de knop **Filter** en selecteer een progressiestatus waarop u wilt sorteren.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +70,11 @@ Klik met de rechtermuisknop op de kolomkop om alfabetisch te sorteren, in oplope
 
 U kunt de status van de personen in het ledenraster wijzigen.
 
-1. Houd **Ctrl/Cmd** ingedrukt en selecteer de personen.
+1. Onderdrukken **Ctrl/Cmd** en selecteert u de personen.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Klik op de vervolgkeuzelijst **Status wijzigen** en selecteer een status.
+1. Klik op de knop **Status wijzigen** en selecteer een status.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 

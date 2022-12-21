@@ -1,15 +1,14 @@
 ---
 unique-page-id: 12981204
-description: Analyse van voorspellende inhoud - Overzicht - Marketo Docs - Productdocumentatie
+description: Overzicht van voorspellende inhoudanalyse - Marketo Docs - Productdocumentatie
 title: Overzicht van voorspellende inhoudanalyse
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 0%
 
 ---
-
 
 # Overzicht van voorspellende inhoudanalyse {#predictive-content-analytics-overview}
 
@@ -17,11 +16,11 @@ Gebruik de inhoudanalyse om meer inzicht te krijgen in uw bestaande inhoud, om t
 
 >[!NOTE]
 >
->Het tabblad Analyse en de functies voor inhoudanalyse zijn uitsluitend beschikbaar bij Predictieve inhoud markeren.
+>Het tabblad Analyse en de functies voor inhoudanalyse zijn uitsluitend beschikbaar bij Marketo Predictive Content.
 
 ## Overzicht {#overview}
 
-Voor de Summiere pagina, klik **Analytics**.
+Klik op de pagina Overzicht op **Analyse**.
 
 ![](assets/one.png)
 
@@ -51,7 +50,7 @@ Hiermee geeft u de bovenste inhoudsonderdelen weer op basis van het aantal weerg
 
 ![](assets/new-6.png)
 
-## Bovenste inhoud volgens conversiesnelheid {#top-content-by-conversion-rate}
+## Top Content by Conversion Rate {#top-content-by-conversion-rate}
 
 Hiermee geeft u de bovenste conversie-inhoud weer aan de hand van de conversiesnelheid voor het geselecteerde datumbereik.
 
@@ -61,7 +60,7 @@ Hiermee geeft u de bovenste conversie-inhoud weer aan de hand van de conversiesn
 >
 >**Definitie**
 >
->**Conversiesnelheid**: Een percentage dat wordt berekend door middel van directe omzettingen gedeeld door klikken.
+>**Omzetsnelheid**: Een percentage dat wordt berekend door middel van directe omzettingen gedeeld door klikken.
 
 ## Trend Content {#trending-content}
 
@@ -81,7 +80,7 @@ Houd de muisaanwijzer boven een afbeelding in Inhoud met suggesties om de beschi
 
 >[!NOTE]
 >
->Zie je die pictogrammen onderaan? Van links naar rechts zijn ze: Inhoud weergeven, exporteren naar CSV, Inhoud goedkeuren.
+>Zie je die pictogrammen onderaan? Van links naar rechts zijn ze: Inhoud weergeven, Exporteren naar CSV en Inhoud goedkeuren.
 
 ## Inhoud {#content}
 

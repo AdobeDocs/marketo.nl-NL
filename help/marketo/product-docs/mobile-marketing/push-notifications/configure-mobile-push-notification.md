@@ -2,26 +2,25 @@
 unique-page-id: 7512454
 description: Mobiele pushmeldingen configureren - Marketo Docs - Productdocumentatie
 title: Melding van mobiele pushberichten configureren
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
 
 ---
 
+# Melding van mobiele pushberichten configureren {#configure-mobile-push-notification}
 
-# Mobiele pushmelding configureren {#configure-mobile-push-notification}
-
-1. Ga naar **Marketing Activities** gebied.
+1. Ga naar de **Marketingactiviteiten** gebied.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
-1. Selecteer uw drukker en klik **Concept** bewerken.
+1. Selecteer uw pushelement en klik op **Concept bewerken**.
 
    ![](assets/image2016-8-23-16-3a49-3a48.png)
 
-1. Ga naar **Setup**.
+1. Ga naar **Instellen**.
 
    ![](assets/image2016-8-23-16-3a51-3a56.png)
 
@@ -33,11 +32,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Voer een berichttekst in of selecteer het tokenpictogram om tokens toe te voegen. Selecteer vervolgens een **Tik op handeling**.
+1. Voer een berichttekst in of selecteer het tokenpictogram om tokens toe te voegen. Selecteer vervolgens een **Tikactie**.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -49,13 +48,13 @@ ht-degree: 0%
    >
    >Er zijn drie typen Tap-handelingen:
    >
-   >**Start app**  -  **Deze** app opent de startpagina van uw app wanneer op het bericht wordt getikt. **De** klant gebruikt een diepe koppeling om andere delen van uw app of een andere app te openen waarnaar u de koppeling hebt (zie  [Diep koppeling ](#Deeplink) URIsonderaan voor meer informatie).
+   >**App starten** - **Deze app** Hiermee opent u de startpagina van uw app wanneer op de melding wordt getikt. **Aangepast** gebruikt een diepe koppeling om andere delen van uw app of een andere app te openen waarnaar u de koppeling hebt (zie [Diepe koppeling-URI&#39;s](#Deeplink) hieronder voor meer informatie).
    >
-   >**Openingspagina**  - hiermee gaat u naar een opgegeven bestemmingspagina van Marketo.
+   >**Openingspagina** - hiermee gaat u naar een opgegeven Marketo-bestemmingspagina.
    >
-   >**Externe URL** : hiermee gaat u naar een landingspagina die niet van markeertekens is.
+   >**Externe URL** - hiermee gaat u naar een landingspagina die geen Marketo is.
 
-1. Als u een diepe koppeling wilt invoegen voor een aangepaste tikactie, klikt u op Aangepast en voert u de [diepe koppeling URI](#Deeplink) in het veld in.
+1. Als u een diepe koppeling wilt invoegen voor een aangepaste tikactie, klikt u op Aangepast en voert u de optie [deep link URI](#Deeplink) in het veld.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
@@ -79,11 +78,11 @@ ht-degree: 0%
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Klik **Goedkeuren en Sluiten**.
+1. Klikken **Goedkeuren en Sluiten**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
-Gefeliciteerd! De pushmelding kan nu worden verzonden.
+Gefeliciteerd.  De pushmelding kan nu worden verzonden.
 
 ## Diepe koppeling-URI&#39;s {#deep-link-uris}
 
@@ -93,7 +92,7 @@ Een diepe verbinding URI bestaat uit drie delen: schemanaam, weg, en herkennings
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-De structuur van de diepe koppeling in uw app kan echter afwijken van het bovenstaande voorbeeld. Uw ontwikkelaar heeft vele opties in het bepalen van diepe verbinding URI&#39;s, zodat vraag uw ontwikkelaar om u URIs (verbindingen) voor de pagina&#39;s te verzenden u geinteresseerd bent in het gebruiken. Zo zorgt u ervoor dat de URI&#39;s die u invoert in de pushberichten naar de juiste plaatsen verwijzen. Uw ontwikkelaar kan [hier meer informatie ](https://developers.marketo.com/mobile/enabling-deep-links-in-your-app/) vinden.
+De structuur van de diepe koppeling in uw app kan echter afwijken van het bovenstaande voorbeeld. Uw ontwikkelaar heeft vele opties in het bepalen van diepe verbinding URI&#39;s, zodat vraag uw ontwikkelaar om u URIs (verbindingen) voor de pagina&#39;s te verzenden u geinteresseerd bent in het gebruiken. Zo zorgt u ervoor dat de URI&#39;s die u invoert in de pushberichten naar de juiste plaatsen verwijzen. Uw ontwikkelaar kan [hier vindt u meer informatie](https://developers.marketo.com/mobile/enabling-deep-links-in-your-app/).
 
 >[!MORELIKETHIS]
 >

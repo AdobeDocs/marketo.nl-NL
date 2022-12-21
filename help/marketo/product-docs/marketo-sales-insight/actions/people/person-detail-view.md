@@ -3,9 +3,10 @@ description: Persoonsgegevens weergeven - Marketo-documenten - Productdocumentat
 title: Persoonsgegevens weergeven
 hide: true
 hidefromtoc: true
-source-git-commit: 9ca5128dd2a6b68e644cfe8cc781d840f9429945
+exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
+source-git-commit: af968d119364172278d48873153a349a983133e4
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -18,21 +19,21 @@ De weergave Persoonlijke details geeft een gedetailleerd profiel van elke persoo
 
 1. Klik op de knop **Mensen** tab.
 
-PICC
+   ![](assets/person-detail-view-1.png)
 
 1. Selecteer de gewenste persoon.
 
-PICC
+   ![](assets/person-detail-view-2.png)
 
->[!TIP]
->
->Vaak overal waar je de naam van een persoon ziet, kun je erop klikken en naar de Gedetailleerde weergave van de persoon gaan.
+   >[!TIP]
+   >
+   >Vaak overal waar je de naam van een persoon ziet, kun je erop klikken en naar de Gedetailleerde weergave van de persoon gaan.
 
 ## Info over Tab {#about-tab}
 
 Bevat alle contactgegevens van de persoon.
 
-PICC
+![](assets/person-detail-view-3.png)
 
 **Contactkaart**
 

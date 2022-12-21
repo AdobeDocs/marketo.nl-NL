@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14746184
-description: Historie afmelden - Marketo Docs - Productdocumentatie
+description: Historiekaart voor abonnement opzeggen - Marketo Docs - Productdocumentatie
 title: Historiekaart afmelden
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
-
-# Historiekaart {#unsubscribe-history-card} opzeggen
+# Historiekaart afmelden {#unsubscribe-history-card}
 
 De kaart van de Geschiedenis Unsubscribe helpt beheerders en de gebruikers contextafhankelijke informatie over hun het afmelden geschiedenis van contacten krijgen.
 

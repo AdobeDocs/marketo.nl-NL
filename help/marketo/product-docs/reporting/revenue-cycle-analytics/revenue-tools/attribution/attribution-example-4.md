@@ -2,14 +2,13 @@
 unique-page-id: 7514151
 description: Attributievoorbeeld 4 - Marketo Docs - Productdocumentatie
 title: Attributievoorbeeld 4
-translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
-
 
 # Attributievoorbeeld 4 {#attribution-example}
 
@@ -19,8 +18,8 @@ Lees het volgende scenario en probeer de aantallen te bepalen die in het net zou
 * 15 april | John attends (Webinar) - Succesvol
 * 22 april | (Opportunity 1) gemaakt voor $3.000
 * 24 april | (Opportunity 2) gemaakt voor $5.000
-* 25 april | John en Michelle worden geassocieerd met **both** Optys
-* 29 april | [Opty 1] is Closed-Won
+* 25 april | John en Michelle hebben banden met **beide** Optys
+* 29 april | [Opty 1] is gesloten-Won
 
 | Programmanaam | (Inhoud) | (Webinar) |
 |---|---|---|

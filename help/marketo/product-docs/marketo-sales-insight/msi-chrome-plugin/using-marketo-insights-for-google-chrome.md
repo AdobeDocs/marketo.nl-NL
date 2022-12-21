@@ -2,30 +2,29 @@
 unique-page-id: 7512944
 description: Marketo Insights gebruiken voor Google Chrome - Marketo Docs - Productdocumentatie
 title: Marketo Insights gebruiken voor Google Chrome
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
+# Marketo Insights gebruiken voor Google Chrome {#using-marketo-insights-for-google-chrome}
 
-# Marketo-inzichten gebruiken voor Google Chrome {#using-marketo-insights-for-google-chrome}
-
-Verzend en traceer alle Google-e-mails met Marketo Insights voor Google Chrome.
+Verzend en traceer Google-e-mails met Marketo Insights voor Google Chrome.
 
 >[!PREREQUISITES]
 >
 >[Marketo Insights installeren voor Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
-## E-mail verzenden met marktoverzichten {#send-an-email-with-marketo-insights}
+## E-mail verzenden met Marketo Insights {#send-an-email-with-marketo-insights}
 
-1. Klik in het venster Samenstellen op het pictogram Markeren.
+1. Klik in het venster Samenstellen op het Marketo-pictogram.
 
    ![](assets/image2015-10-5-14-3a57-3a53.png)
 
-1. Met de knop Verzenden is Marketo paars geworden! Dit e-mailbericht wordt nu verzonden met Marketo, alle koppelingen worden bijgehouden en er wordt een pixel voor bijhouden ingevoegd in het e-mailbericht. Dit wordt opgenomen als een e-mailactiviteit voor verzonden verkoop.
+1. De knop Verzenden heeft Marketo paars gemaakt! Dit e-mailbericht wordt nu verzonden met Marketo, alle koppelingen worden bijgehouden en er wordt een pixel voor het bijhouden van de gegevens in het e-mailbericht ingevoegd. Dit wordt opgenomen als een e-mailactiviteit voor verzonden verkoop.
 
    ![](assets/image2015-10-5-15-3a2-3a21.png)
 
@@ -37,11 +36,11 @@ Verzend en traceer alle Google-e-mails met Marketo Insights voor Google Chrome.
    >
    >Klik indien nodig op de dubbele pijl om deze uit te breiden naar een volledige schermweergave.
 
-1. Als u uw e-mail met een gepubliceerde malplaatje van de Marketo vooraf wilt vullen, klik **Meer Opties** en selecteer **Marketo Template** laden.
+1. Als je een e-mailbericht wilt vooraf invullen met een gepubliceerde Marketo-sjabloon, klikt u op **Meer opties** en selecteert u **Marketo-sjabloon laden**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Selecteer een **Beschikbare sjabloon** en klik **Ok**.
+1. Selecteer een **Beschikbare sjabloon** en klik op **OK**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -51,13 +50,13 @@ Verzend en traceer alle Google-e-mails met Marketo Insights voor Google Chrome.
 
    >[!NOTE]
    >
-   >Berichten worden alleen bijgehouden wanneer de knop **Send** paars is.
+   >Berichten worden alleen bijgehouden wanneer de **Verzenden** is paars.
 
-1. Het e-mailbericht wordt binnenkort weergegeven in je Marktverkoopoverzicht. Eventuele geopende berichten en klikken worden bijgehouden.
+1. Het e-mailbericht wordt binnenkort weergegeven in je Marketo Sales Insight en eventuele geopende berichten en klikken worden bijgehouden.
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
-## E-mailreacties in logboek opnemen bij Marketo {#log-email-replies-with-marketo}
+## Log E-mailantwoorden bij Marketo {#log-email-replies-with-marketo}
 
 U kunt antwoorden en oude activiteit in de activiteitengeschiedenis van een lood registreren.
 
@@ -65,7 +64,7 @@ U kunt antwoorden en oude activiteit in de activiteitengeschiedenis van een lood
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
-1. Dat is alles! Het e-mailbericht wordt binnenkort weergegeven in Marktverkoopoverzicht.
+1. Dat is alles! Het e-mailbericht wordt binnenkort weergegeven in Marketo Sales Insight.
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 

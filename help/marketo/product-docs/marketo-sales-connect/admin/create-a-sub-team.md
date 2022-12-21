@@ -2,14 +2,13 @@
 unique-page-id: 14352406
 description: Een subteam maken - Marketo Docs - Productdocumentatie
 title: Subteam maken
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # Subteam maken {#create-a-sub-team}
 
@@ -19,11 +18,11 @@ ht-degree: 0%
 
    ![](assets/one-1.png)
 
-1. Selecteer **Teambeheer** onder Beheerinstellingen.
+1. Selecteer onder Beheerinstellingen de optie **Teambeheer**.
 
    ![](assets/two-1.png)
 
-1. Naast Alle Teams, klik **+**.
+1. Klik op de knop **+**.
 
    ![](assets/three-1.png)
 
@@ -45,7 +44,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Klik **Geselecteerde toevoegen aan Teams**.
+1. Klikken **Geselecteerde items toevoegen aan teams**.
 
    ![](assets/seven.png)
 
@@ -53,6 +52,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Klik **Toevoegen aan teams** wanneer gereed.
+1. Klikken **Toevoegen aan teams** wanneer gereed.
 
    ![](assets/nine.png)

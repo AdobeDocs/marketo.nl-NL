@@ -2,20 +2,19 @@
 unique-page-id: 11380734
 description: Account Triggers - Marketo Docs - Productdocumentatie
 title: Accounttriggers
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-
 # Accounttriggers {#account-triggers}
 
 U kunt belangrijke gedragsactiviteiten op accountniveau via verschillende kanalen (zoals e-mail, web, advertenties) beluisteren en uitvoeren met behulp van triggers op accountniveau.
 
-Selecteer uw slimme campagne en klik **[!UICONTROL Smart List]**.
+Selecteer uw slimme campagne en klik op **[!UICONTROL Smart List]**.
 
 ![](assets/one-1.png)
 
@@ -23,7 +22,7 @@ Voer &quot;Benoemd account&quot; in het zoekvak in om beide triggers voor benoem
 
 ![](assets/two-1.png)
 
-Sleep de gewenste trigger naar het canvas. In dit voorbeeld gebruiken wij _Toegevoegd aan Benoemde Rekening_.
+Sleep de gewenste trigger naar het canvas. In dit voorbeeld gebruiken we _Toegevoegd aan benoemd account_.
 
 ![](assets/three-1.png)
 

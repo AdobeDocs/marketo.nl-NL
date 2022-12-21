@@ -2,16 +2,15 @@
 unique-page-id: 14352416
 description: Overzicht van pagina Analytics - Marketo Docs - Productdocumentatie
 title: Overzicht van pagina Analytics
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
 
 ---
 
-
-# Overzicht van pagina voor analyse {#analytics-page-overview}
+# Overzicht van pagina Analytics {#analytics-page-overview}
 
 Op het tabblad Analyse vindt u gegevens over de betrokkenheid van uw e-mails. Zowel individuele gegevens als teamgegevens worden weergegeven. Beheerders kunnen ook filteren op het tabblad Ik.
 
@@ -45,6 +44,6 @@ Hier zie je statistieken en classificaties van je hele team. U kunt ook filteren
 
 Het tabblad Inhoud bevat stats over sjablonen, inhoud en koppelingen. U kunt filteren op iedereen of op teams die uw beheerders hebben gemaakt.
 
-Als u blauwe tekst ziet onder de onderwerpregel, betekent dit dat de sjabloon wordt gedeeld. U kunt op de blauwe tekst klikken die naar die sjabloon moet worden doorgevoerd. Bekijk zijn gebruik door **Sjabloonanalyse** te klikken.
+Als u blauwe tekst ziet onder de onderwerpregel, betekent dit dat de sjabloon wordt gedeeld. U kunt op de blauwe tekst klikken die naar die sjabloon moet worden doorgevoerd. Gebruik bekijken door op **Sjabloonanalyse**.
 
 &quot;Klikken op inhoud&quot; worden geteld wanneer een ontvanger op een koppeling in uw e-mail klikt.

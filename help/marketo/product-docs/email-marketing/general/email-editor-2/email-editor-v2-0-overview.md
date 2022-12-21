@@ -2,22 +2,21 @@
 unique-page-id: 11372299
 description: E-maileditor v2.0 - Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht E-maileditor v2.0
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
-
-# E-maileditor v2.0 - Overzicht {#email-editor-v-overview}
+# Overzicht E-maileditor v2.0 {#email-editor-v-overview}
 
 Wanneer u besluit de E-maileditor v2.0 te activeren, zult u verschillende nieuwe functies zien.
 
 **E-mailsjabloonkiezer**
 
-Als u een nieuwe e-mail maakt, gaat u naar de [E-mailsjabloonkiezer](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+Wanneer u een nieuwe e-mail maakt, gaat u naar de [E-mailsjabloonkiezer](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/starter-templates-1.png)
 
@@ -29,19 +28,19 @@ Wanneer u uw e-mail gaat bewerken, ziet u dat de editor een geheel nieuw uiterli
 
 **Modules**
 
-Die dingen aan de rechterkant van de redacteur worden genoemd modules. Leer hoe u modules [toevoegt aan uw e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+Die dingen aan de rechterkant van de redacteur worden genoemd modules. Leer hoe u [Voeg modules aan uw e-mail toe](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/three-4.png)
 
 **Tekstversie**
 
-Het schakelen tussen de HTML-versie en de tekstversie van uw e-mail staat nu op een handig tabblad onderaan. Leer hoe u de tekstversie van een e-mail [bewerkt.](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)
+Het schakelen tussen de versie van de HTML en van de Tekst van uw e-mail is nu in een handig lusje bij de bodem. Leer hoe u [de tekstversie van een e-mail bewerken](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/four-3.png)
 
 **E-mailkoptekst**
 
-Wilt u meer ontwerpruimte? De e-mailkoptekst kan worden verborgen nadat u [het hebt bewerkt](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klik gewoon op dit pictogram...
+Wilt u meer ontwerpruimte? De koptekst van de e-mail kan worden verborgen nadat u klaar bent [bewerken](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Klik gewoon op dit pictogram...
 
 ![](assets/five-4.png)
 
@@ -59,7 +58,7 @@ Standaard wordt in het e-mailbericht weergegeven hoe het eruitziet op een bureau
 
 ![](assets/eight-3.png)
 
-Voor een grotere voorproef, klik **Voorproef** in het hoger-recht van e-mail.
+Voor een grotere voorvertoning klikt u op **Voorvertoning** in de rechterbovenhoek van de e-mail.
 
 ![](assets/preview1.png)
 
@@ -67,13 +66,13 @@ De standaardweergave daar is bureaublad...
 
 ![](assets/preview2.png)
 
-...maar u kunt ook zien hoe het er op een mobiel apparaat uitziet. U kunt ook een voorvertoning van de tekstversie weergeven. Klik **Concept** in het hoger-recht bewerken om het bewerken te hervatten.
+...maar u kunt ook zien hoe het er op een mobiel apparaat uitziet. U kunt ook een voorvertoning van de tekstversie weergeven. Eenvoudig klikken **Concept bewerken** in de rechterbovenhoek om het bewerken te hervatten.
 
 ![](assets/preview3.png)
 
 **E-mailhandelingen**
 
-Onder **E-mailhandelingen** ziet u enkele nieuwe functies. **Upload een afbeelding of bestand** en  **neem afbeeldingen op van het web**. U kunt het e-mailbericht zelf ook opslaan als een nieuwe e-mailsjabloon. Het enige wat je hoeft te doen, is het een naam en een bestemming geven.
+Onder **E-mailhandelingen**, zult u enkele nieuwe eigenschappen opmerken. **Een afbeelding of bestand uploaden**, en **Afbeeldingen ophalen van web**. U kunt het e-mailbericht zelf ook opslaan als een nieuwe e-mailsjabloon. Het enige wat je hoeft te doen, is het een naam en een bestemming geven.
 
 ![](assets/nine-3.png)
 
@@ -83,9 +82,9 @@ Onder **E-mailhandelingen** ziet u enkele nieuwe functies. **Upload een afbeeldi
 
 >[!NOTE]
 >
->**[Grab Images from](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** Webworks, net als in de Design Studio.
+>**[Afbeeldingen ophalen van web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** het werkt enkel zoals het in de Studio van het Ontwerp doet.
 
-**Schakel** Tekstspatiëring openen uit onder  **E-mailinstellingen**. U kunt het openen van bijhouden indien nodig uitschakelen.
+**Volgen openen uitschakelen** Onder **E-mailinstellingen** kunt u het openen van het bijhouden desgewenst uitschakelen.
 
 ![](assets/thirteen-1.png)
 
@@ -103,7 +102,7 @@ Veel geweldige nieuwe functies! Veel plezier!
 
 >[!NOTE]
 >
->Als u nog dieper wilt verwijderen, bekijkt u deze [nuttige video](https://nation.marketo.com/videos/1463).
+>Als je nog dieper wilt gaan, kun je dit uitchecken [nuttige video](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >

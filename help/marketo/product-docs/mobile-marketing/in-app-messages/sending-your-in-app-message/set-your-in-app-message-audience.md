@@ -1,21 +1,20 @@
 ---
 unique-page-id: 10617431
-description: Stel uw berichtpubliek in de app in - Marketo Docs - Productdocumentatie
+description: Uw berichtvenster in de app instellen - Marketo Docs - Productdocumentatie
 title: Uw publiek voor berichten in de app instellen
-translation-type: tm+mt
-source-git-commit: efadb7eb3845012c273e1a60f9cd98ac884eb543
+exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 0%
 
 ---
 
-
-# Uw publiek voor berichten in de app {#set-your-in-app-message-audience} instellen
+# Uw publiek voor berichten in de app instellen {#set-your-in-app-message-audience}
 
 De eerste stap bestaat uit het bepalen van wie uw bericht in de app moet ontvangen. U moet uw slimme lijst instellen.
 
-1. Klik **Slimme lijst bewerken**.
+1. Klikken **Slimme lijst bewerken**.
 
    ![](assets/image2016-5-9-15-3a15-3a7.png)
 
@@ -27,19 +26,19 @@ De eerste stap bestaat uit het bepalen van wie uw bericht in de app moet ontvang
    >
    >Meerdere waarden voor het veld Mobile App worden momenteel niet ondersteund voor berichtprogramma&#39;s in de app.
 
-1. **App** Open is de standaardinstelling Handeling, maar u kunt elke aangepaste gebeurtenis selecteren die u al hebt ingesteld.
+1. **App openen** is de standaardinstelling voor Handeling, maar u kunt elke aangepaste gebeurtenis selecteren die u al hebt ingesteld.
 
    ![](assets/image2016-5-9-15-3a20-3a23.png)
 
    >[!NOTE]
    >
-   >De standaardtrigger (App Open) en eventuele aangepaste triggers die door de ontwikkelaar aan de code zijn toegevoegd, worden automatisch weergegeven in de handelingenselector. Als een aangepaste gebeurtenis ontbreekt, vraagt u uw ontwikkelaar of ze de aangepaste gebeurtenissen aan de app hebben toegevoegd. Vergeet niet dat het coderen en goedkeuren van aangepaste gebeurtenissen enige tijd kan duren. Zie [dit artikel](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor meer informatie.
+   >De standaardtrigger (App Open) en eventuele aangepaste triggers die door de ontwikkelaar aan de code zijn toegevoegd, worden automatisch weergegeven in de handelingenselector. Als een aangepaste gebeurtenis ontbreekt, vraagt u uw ontwikkelaar of ze de aangepaste gebeurtenissen aan de app hebben toegevoegd. Vergeet niet dat het coderen en goedkeuren van aangepaste gebeurtenissen enige tijd kan duren. Zie [dit artikel](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor meer informatie .
 
-1. Restricties zijn beschikbaar voor de trigger **Heeft Mobile App Activity** als u deze nodig hebt.
+1. Restricties zijn beschikbaar voor de **Heeft mobiele toepassingsactiviteit** trigger als je ze nodig hebt.
 
    ![](assets/image2016-5-9-15-3a22-3a27.png)
 
-1. U kunt filters aan uw slimme lijst toevoegen om te beperken wie uw in-app bericht ontvangt. In dit voorbeeld wordt met het filter **Aankoopdatum** alleen personen die op 9 juni 2016 zijn aangeschaft, het bericht in de app verzonden.
+1. U kunt filters aan uw slimme lijst toevoegen om te beperken wie uw in-app bericht ontvangt. In dit voorbeeld wordt het **Aankoopdatum** -filter, alleen personen die op 9 juni 2016 zijn aangeschaft, ontvangen het bericht in de app.
 
    ![](assets/image2016-5-9-15-3a26-3a2.png)
 
@@ -49,10 +48,10 @@ De eerste stap bestaat uit het bepalen van wie uw bericht in de app moet ontvang
 
    >[!NOTE]
    >
-   >De standaardweergavelimiet is **Eenmaal per sessie**. Als u wilt dat het bericht stopt met weergeven nadat de ontvanger reageert, selecteert u **Telkens totdat u** tikt. Als het elke keer moet worden weergegeven, ongeacht wat de ontvanger doet, kiest u **Elke keer**.
+   >De standaardweergavelimiet is **Eén keer per sessie**. Als u wilt dat het bericht niet meer wordt weergegeven nadat de ontvanger heeft gereageerd, selecteert u **Telkens als er wordt getikt**. Als het elke keer moet worden weergegeven, ongeacht wat de ontvanger doet, kiest u **Elke keer**.
 
    ![](assets/image2016-5-9-15-3a32-3a6.png)
 
 Mooi werk! Je hebt je publiek ingesteld. Je hebt de blauwe balk en het groene vinkje verdiend.
 
-Tijd tot [selecteer uw in-app bericht](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!
+Tijd tot [uw bericht in de app selecteren](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/select-your-in-app-message.md)!

@@ -2,14 +2,13 @@
 unique-page-id: 2359647
 description: Betrokkenheidsprogramma's begrijpen - Marketo Docs - Productdocumentatie
 title: Betrokkenheidsprogramma's
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: dd573749-5ae6-4794-a340-b5139c316cce
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
 
 ---
-
 
 # Betrokkenheidsprogramma&#39;s {#understanding-engagement-programs}
 
@@ -17,11 +16,11 @@ Betrokkenheidsprogramma&#39;s zijn bedoeld om nieuwe mensen op de markt te breng
 
 >[!NOTE]
 >
->Er geldt een limiet van 100 **active** serviceprogramma&#39;s per abonnement.
+>Er is een limiet van 100 **actief** serviceprogramma&#39;s per abonnement.
 
 ## Betrokkenheidsprogramma {#engagement-program}
 
-Een **betrokkenheidsprogramma** is een type programma dat eenvoudig complexe verpleging kan uitvoeren.
+An **betrokkenheidsprogramma** Dit is een programma dat eenvoudig complexe verpleging kan uitvoeren.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
@@ -31,7 +30,7 @@ Een **betrokkenheidsprogramma** is een type programma dat eenvoudig complexe ver
 
 ## Stream {#stream}
 
-Een **stroom** is een pool van inhoud met prioriteit die het betrokkenheidsprogramma zal gebruiken om mensen te voeden.
+A **stream** is een pool van inhoud met prioriteiten die het betrokkenheidsprogramma zal gebruiken om mensen te voeden.
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
@@ -43,7 +42,7 @@ Een **stroom** is een pool van inhoud met prioriteit die het betrokkenheidsprogr
 
 ## Inhoud {#content}
 
-Er zijn twee typen **content** die u kunt toevoegen aan streams voor betrokkenheidsprogramma&#39;s: e-mails en programma&#39;s. E-mails worden op het moment van de cast naar mensen verzonden.
+Er zijn twee typen **content** u kunt aan de stromen van het betrokkenheidsprogramma toevoegen—e-mails en programma&#39;s. E-mails worden op het moment van de cast naar mensen verzonden.
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
@@ -56,9 +55,9 @@ Er zijn twee typen **content** die u kunt toevoegen aan streams voor betrokkenhe
 >* [Stroominhoud archiveren en archiveren](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
 
-## Gegoten {#cast}
+## Cast {#cast}
 
-Een **cast** is het verzenden van e-mails van een betrokkenheidsprogramma.
+A **gieten** Dit is het geval van het verzenden van e-mails van een betrokkenheidsprogramma.
 
 >[!NOTE]
 >
@@ -66,7 +65,7 @@ Een **cast** is het verzenden van e-mails van een betrokkenheidsprogramma.
 
 ## Stream Cadence {#stream-cadence}
 
-U beslist wanneer een gietvorm door opstelling **stroomkring** gebeurt. Zo plant u inhoud om met regelmatige intervallen uit te gaan.
+U bepaalt wanneer een gietvorm door vestiging gebeurt **stroomkring**. Zo plant u inhoud om met regelmatige intervallen uit te gaan.
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
@@ -76,13 +75,13 @@ U beslist wanneer een gietvorm door opstelling **stroomkring** gebeurt. Zo plant
 
 ## Persoon Cadence {#person-cadence}
 
-Een **persoonscadentie** is een status die definieert of het in staat is inhoud van een betrokkenheidsprogramma te ontvangen. U kunt **De stroomstap van het Programma van de Aanverbintenis van de Verandering** gebruiken om dit in Gepauzeerd of Normaal te veranderen.
+A **persoonlijkheden** is een status die definieert in hoeverre deze inhoud kan ontvangen van een betrokkenheidsprogramma. U kunt de **Cadre van het Programma van de Aanwezigheid van de Verandering** Stapsgewijs doorlopen om deze waarde te wijzigen in Gepauzeerd of Normaal.
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
-## {#exhausted} uitgeput
+## Geëxhausd {#exhausted}
 
-Zodra een persoon elk stuk van inhoud in een stroom heeft ontvangen, roepen wij de persoon **Exhausted**.
+Zodra een persoon elk stuk van inhoud in een stroom heeft ontvangen, roepen wij de persoon **Geëxhausd**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
@@ -90,9 +89,9 @@ Zodra een persoon elk stuk van inhoud in een stroom heeft ontvangen, roepen wij 
 >
 >[Personen die inhoud hebben geëxporteerd](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
-## Inhoudsbetrokkenheidsniveau {#content-engagement-level}
+## Niveau van betrokkenheid bij inhoud {#content-engagement-level}
 
-Het niveau van de Aanwezigheid van de inhoud is een 0 tot 100 puntscore die Marketo uw inhoud zal geven. Dit aantal wordt bepaald door een verfijnde formule gebruikend opent, klikt, unsubscribes, programmasucces, en andere factoren.
+Het niveau van de betrokkenheid bij inhoud is een score van 0 tot 100 punten die Marketo aan uw inhoud zal geven. Dit aantal wordt bepaald door een verfijnde formule gebruikend opent, klikt, unsubscribes, programmasucces, en andere factoren.
 
 >[!MORELIKETHIS]
 >

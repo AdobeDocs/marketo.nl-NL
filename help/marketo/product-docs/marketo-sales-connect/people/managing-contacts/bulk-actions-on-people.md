@@ -2,14 +2,13 @@
 unique-page-id: 30081230
 description: Bulkacties op mensen - Marketo Docs - Productdocumentatie
 title: Bulkacties op personen
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Bulkacties op personen {#bulk-actions-on-people}
 
@@ -19,7 +18,7 @@ De eerste stap voor alle beschikbare bulkacties is twee of meer contacten te sel
 
 ![](assets/one-3.png)
 
-## Personen toevoegen aan groep {#add-people-to-group}
+## Personen aan groep toevoegen {#add-people-to-group}
 
 Meerdere personen tegelijk aan een groep toevoegen.
 
@@ -41,13 +40,13 @@ In overeenstemming met [GDPR](https://eugdpr.org/), gebruik vergunning om erop t
 
 ![](assets/authorization.png)
 
-## Abonnement {#unsubscribe} opzeggen
+## Abonnement opzeggen {#unsubscribe}
 
 Voer een bulksgewijs abonnement op contacten uit die niet meer correspondentie van u wensen te ontvangen.
 
 ![](assets/unsubscribe.png)
 
-## {#delete} verwijderen
+## Verwijderen {#delete}
 
 Contactpersonen bulksgewijs verwijderen. U vindt alle stappen [hier](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md).
 

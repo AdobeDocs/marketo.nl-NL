@@ -2,26 +2,25 @@
 unique-page-id: 4718687
 description: Goedkeuren/goedkeuren van een inkomstenmodel - Marketo Docs - Productdocumentatie
 title: Een inkomstenmodel goedkeuren/goedkeuren
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-
-# Goedkeuren/Ongoedkeuren van een inkomstenmodel {#approve-unapprove-a-revenue-model}
+# Een inkomstenmodel goedkeuren/goedkeuren {#approve-unapprove-a-revenue-model}
 
 U kunt op elk moment slechts één goedgekeurd model hebben.
 
 >[!CAUTION]
 >
->[De individuele stadia moeten worden ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) goedgekeurd en de mensen worden toegevoegd alvorens u een volledig model goedkeurt.
+>[Individuele fasen moeten worden goedgekeurd](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) en personen toegevoegd voordat u een geheel model goedkeurt.
 
-## {#approve} goedkeuren
+## Goedkeuren {#approve}
 
-1. Ga naar het gebied **Analytics**.
+1. Ga naar de **Analyse** gebied.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,23 +28,23 @@ U kunt op elk moment slechts één goedgekeurd model hebben.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Kies in het menu **Modelacties** de optie **Model** goedkeuren.
+1. Van de **Modelhandelingen** menu, kiest u **Model goedkeuren**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. Er verschijnt een dialoogvenster waarin u uw keuze kunt bevestigen. Klik **Goedkeuren**.
+1. Er verschijnt een dialoogvenster waarin u uw keuze kunt bevestigen. Klikken **Goedkeuren**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
 Uw model is nu live!
 
-## {#unapprove} niet goedkeuren
+## Niet goedkeuren {#unapprove}
 
 >[!CAUTION]
 >
 >Als u uw model niet goedkeurt, worden al uw mensen verwijderd uit het model, en hun geschiedenis in het model wordt geschrapt!
 
-1. Ga naar het gebied **Analytics**.
+1. Ga naar de **Analyse** gebied.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,7 +52,7 @@ Uw model is nu live!
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Klik op het menu **Modelhandelingen** en kies **Model** niet goedkeuren.
+1. Klik op de knop **Modelhandelingen** en kiest u **Model niet goedkeuren**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 

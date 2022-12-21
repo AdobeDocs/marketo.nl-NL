@@ -5,7 +5,7 @@ title: Opmerkingen bij de release - augustus 19
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 source-git-commit: 76cea113ddff730e1ad30d0e1fea801053ba4d98
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ De volgende functies zijn uitgebracht op 16 augustus 2019.
 ## Core Marketo Engage {#core-marketo-engage}
 
 * **Extensible Webinar Framework**: Bespaar tijd met Marketo dat een nieuw, out-of-the-box webinar-framework (geïntroduceerd in de Opmerkingen bij de release Winter &#39;19) aanbrengt dat gegevens naadloos doorgeeft van webinar providers naar Marketo en vice versa. De optie voor het voorkomen en zoomen is nu beschikbaar in dit nieuwe framework.
-* **Update** voor Smart Campagne-API: De mogelijkheden van de slimme-campagnelevenscyclus beheren terwijl we de CRUD-interface (maken, lezen, bijwerken, verwijderen) afronden.
-* **API-wijziging** voor e-mailheaders bijwerken: Voor het bijwerken van de e-mailkoptekst-API is niet langer een e-mail vereist met een gekoppelde sjabloon om koptekstvelden, zoals een onderwerpregel, bij te werken.
+* **Update voor API voor slimme campagne**: De mogelijkheden van de slimme-campagnelevenscyclus beheren terwijl we de CRUD-interface (maken, lezen, bijwerken, verwijderen) afronden.
+* **API-wijziging voor e-mailkoppen bijwerken**: Voor het bijwerken van de e-mailkoptekst-API is niet langer een e-mail vereist met een gekoppelde sjabloon om koptekstvelden, zoals een onderwerpregel, bij te werken.
 
-**Account-based Marketing** ![ (ster)](assets/yellow-star.png)
+**Account-Based Marketing** ![(ster)](assets/yellow-star.png)
 
-* **linkedIn Account Matching**, voorheen in bèta, is nu algemeen beschikbaar.
-* **** AccountAI wordt officieel herbrandd als  **Accountprofilering**.
+* **Overeenkomende linkedIn-account**, voorheen in bèta, is nu algemeen beschikbaar.
+* **AccountAI** wordt officieel hernoemd als **Accountprofielen**.
 
 <br> 
 
@@ -35,18 +35,18 @@ De volgende functies zijn uitgebracht op 16 augustus 2019.
 
 De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en zullen in het gehele derde kalenderkwartaal en tot het begin van het vierde kwartaal van 2019 worden gepubliceerd.
 
-**Marketo Sales Connect** ![ (ster)](assets/yellow-star.png)
+**Marketo Sales Connect** ![(ster)](assets/yellow-star.png)
 
-* **Personen pagina-indelingsverbetering:** Beheer uw personen en groepen via het importeren van lijsten en bulkacties in de nieuwe pagina-indeling Personen.
+* **Verbetering personenpaginalayout:** Beheer uw personen en groepen via het importeren van lijsten en acties voor grote aantallen in de nieuwe pagina-indeling Personen.
 
 >[!AVAILABILITY]
 >
->Functies die door een ster worden aangeduid ( ![(star)](assets/yellow-star.png)), worden tegen betaling aangeboden. Neem contact op met je Marketo-vertegenwoordiger voor meer informatie.
+>Kenmerken die door een ster worden aangeduid ( ![(ster)](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met je Marketo-vertegenwoordiger voor meer informatie.
 
 >[!NOTE]
 >
 >**TLS 1.0 &amp; 1.1-beschadiging**: Om zich aan Adobe&#39;s wereld-klasse norm voor veiligheid te richten, zullen wij afgekeurde steun voor de Veiligheid van de Laag van het Vervoer (TLS) 1.0 en 1.1 vanaf 13 december 2019. Systemen die met Marketo integreren en niet voldoen aan het 1.2-protocol, kunnen mogelijk de toegang tot de Marketo Engage-services verliezen.
 >
->**Zorg ervoor dat alle clientsystemen vóór 13 december 2019 compatibel zijn met TLS 1.2 om uw Marketo Engage-toegang te behouden**. Meer gedetailleerde informatie vindt u [hier](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>**Zorg ervoor dat alle clientsystemen vóór 13 december 2019 compatibel zijn met TLS 1.2 om uw Marketo Engage-toegang te behouden**. Meer gedetailleerde informatie is te vinden [hier](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Productrelease_** [WebinarJoin ](https://engage.marketo.com/August_19_Release_Webinar.html) gebruikt op 28 augustus om 13:00PM PT / 4:00PM ET voor een live webinar die wordt gehost door ons productteam en meer informatie over de functies in deze release.
+**_Webinar productrelease_** [Doe mee](https://engage.marketo.com/August_19_Release_Webinar.html) op 28 augustus om 13:00PM PT / 4:00PM ET voor een live webinar die wordt gehost door ons productteam en meer informatie over de functies in deze release.

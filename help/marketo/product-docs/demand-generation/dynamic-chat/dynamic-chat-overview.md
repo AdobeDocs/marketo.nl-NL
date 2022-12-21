@@ -172,11 +172,11 @@ Wanneer u de taal bijwerkt, verandert alles in de app zelf, behalve de woorden d
  <tr>
   <td>Gesprek</td>
   <td>Aantal chatgesprekken waarmee webbezoekers per dag kunnen werken</td>
-  <td>1 000</td>
+  <td>1,000</td>
  </tr>
  <tr>
   <td>Gesprek geactiveerd</td>
   <td>Aantal praatjegesprekken die aan Webbezoekers per dag kunnen worden getoond</td>
-  <td>25 000</td>
+  <td>25,000</td>
  </tr>
 </table>

@@ -2,16 +2,15 @@
 unique-page-id: 5472328
 description: Een rapport vernieuwen - Marketo Docs - Productdocumentatie
 title: Een rapport vernieuwen
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-
-# Een rapport {#refresh-a-report} vernieuwen
+# Een rapport vernieuwen {#refresh-a-report}
 
 Na het bekijken van een rapport, slaat Marketo het in uw gegevensbestand op zodat het snel na uw volgende het bekijken laadt. Na uw eerste mening, verfrist de rapporten automatisch om de 24 uur zodat zij altijd bijgewerkt zijn. Maar u kunt ze op elk gewenst moment handmatig vernieuwen.
 
@@ -23,7 +22,7 @@ Na het bekijken van een rapport, slaat Marketo het in uw gegevensbestand op zoda
 
    ![](assets/two.png)
 
-1. U kunt het rapport ook verfrissen door op **het menu van de Acties van het Rapport** te klikken, en **te selecteren verfrist Rapport**.
+1. U kunt het rapport ook vernieuwen door op de knop **Handelingen rapporteren** en selecteren **Rapport vernieuwen**.
 
    ![](assets/three.png)
 

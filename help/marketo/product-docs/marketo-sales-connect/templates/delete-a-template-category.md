@@ -2,20 +2,19 @@
 unique-page-id: 14352627
 description: Een sjablooncategorie verwijderen - Marketo Docs - Productdocumentatie
 title: Een sjablooncategorie verwijderen
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 99c64f83-4ff1-4355-af09-0527ca455632
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
+# Een sjablooncategorie verwijderen {#delete-a-template-category}
 
-# Een sjablooncategorie {#delete-a-template-category} verwijderen
+1. Klik op het menupictogram naast een categorie en klik vervolgens op **Verwijderen**.
 
-1. Klik op het menupictogram naast een categorie en klik vervolgens op **Delete**.
-
-1. Klik **Verwijderen** om te bevestigen.
+1. Klikken **Verwijderen** ter bevestiging.
 
 >[!NOTE]
 >

@@ -1,29 +1,28 @@
 ---
 unique-page-id: 7514918
-description: Inzicht in afmelden - Marketo Docs - Productdocumentatie
+description: Abonnement op opzeggen - Marketo Docs - Productdocumentatie
 title: Abonnement begrijpen
-translation-type: tm+mt
-source-git-commit: 615ddd6ffdb3873baa159d440db7b24f3a07e6b0
+exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
+# Abonnement begrijpen {#understanding-unsubscribe}
 
-# Abonnement {#understanding-unsubscribe} begrijpen
-
-In Marketo zijn er eigenlijk verschillende soorten ingebouwd afmelden. Ze worden allemaal vertegenwoordigd door velden op het object person, net als Voornaam.
+In Marketo zijn er verschillende soorten ingebouwde afmeldingsprogramma&#39;s. Ze worden allemaal vertegenwoordigd door velden op het object person, net als Voornaam.
 
 >[!NOTE]
 >
->Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van afgewezen personen en Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
+>Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van gewezen personen en de Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
 
-Al deze velden zijn ingebouwd in uw abonnement op Marketo. Ze zijn allemaal van het type Boolean (selectievakje). Ze kunnen worden gebruikt in Forms- of [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)-stroomstappen.
+Al deze velden zijn ingebouwd in uw Marketo-abonnement. Ze zijn allemaal van het type Boolean (selectievakje). Ze kunnen in Forms of [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) stroomstappen.
 
-## Afgemeld {#unsubscribed}
+## Niet geabonneerd {#unsubscribed}
 
-Deze wordt gebruikt op de standaard pagina voor afmelden. Als iemand dit selectievakje inschakelt of op de koppeling Abonnement opzeggen klikt in een e-mail, ontvangen hij of zij geen e-mails over marketing meer. Ze zullen echter [operationele e-mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) ontvangen.
+Deze wordt gebruikt op de standaard pagina voor afmelden. Als iemand dit selectievakje inschakelt of op de koppeling Abonnement opzeggen klikt in een e-mail, ontvangen hij of zij geen e-mails over marketing meer. Zij zullen echter [operationele e-mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 ## Marketing opgeschort {#marketing-suspended}
 
@@ -37,8 +36,8 @@ Deze status verhindert een persoon 24 uur na een harde stuit te zenden. Na 24 uu
 >
 >E-mail geschorst blijft gecontroleerd zelfs nadat de periode van 24 uur voorbij is, zodat kunt u naar mensen verwijzen die historisch als zodanig zijn gemerkt. Als u wilt zien of de persoon mailbaar is, berekent u gewoon 24 uur na het tijdstip van de e-mailschorsing.
 
-## Toegevoegd op lijst van gewenste personen {#blocklisted}
+## Gevoegd op lijst van gewenste personen {#blocklisted}
 
-[Gebruik dit voor mensen zoals concurrenten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Iedereen u **no** e-mail-operationeel wilt ontvangen, marketing, etc. Ze krijgen niets!
+[Gebruik dit voor mensen als concurrenten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Iedereen die u wilt ontvangen **nee** e-mails—operationeel, op de markt brengen, enz. Ze krijgen niets!
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

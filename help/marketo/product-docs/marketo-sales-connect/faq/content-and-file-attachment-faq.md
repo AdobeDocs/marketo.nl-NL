@@ -1,23 +1,22 @@
 ---
 unique-page-id: 14746661
-description: Veelgestelde vragen over inhoud en bestandsbijlage - Marketo Docs - Productdocumentatie
+description: Veelgestelde vragen over inhoud en bestandsbijlagen - Marketo-documenten - Productdocumentatie
 title: Veelgestelde vragen over inhoud en bestandsbijlage
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
-
 # Veelgestelde vragen over inhoud en bestandsbijlage {#content-and-file-attachment-faq}
 
 ## Wat is het verschil tussen inhoud en een dossiergehechtheid? {#what-is-the-difference-between-content-and-a-file-attachment}
 
-Een **bestandsbijlage** is net als een bestandsbijlage die u zou gebruiken in uw normale e-mailclient.
+A **bestandsbijlage** is net als een bestandsbijlage die u zou gebruiken in uw normale e-mailclient.
 
-**** Inhoud die we gebruiken om bestanden te beschrijven (PPT, PDF, Word-document, enz.) dat u wilt worden bijgehouden door Sales Connect.
+**Inhoud** is wat we gebruiken om bestanden te beschrijven (PPT, PDF, Word-document, enz.) dat u wilt worden bijgehouden door Sales Connect.
 
 Nadat u op die knop hebt geklikt, kunt u een bestand kiezen dat al is geüpload of een nieuw bestand uploadt om te worden bijgehouden. Vervolgens voegen we een koppeling in de e-mail of template in die u gebruikt.
 

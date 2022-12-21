@@ -2,14 +2,13 @@
 unique-page-id: 4720218
 description: RTP implementeren met Adobe Tag Manager - Marketo Docs - Productdocumentatie
 title: RTP implementeren met Adobe Tag Manager
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 
 ---
-
 
 # RTP implementeren met Adobe Tag Manager {#implementing-rtp-using-adobe-tag-manager}
 
@@ -23,23 +22,23 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
-1. Zoek onder Domein het relevante domein en klik op **Tag genereren**.
+1. Zoek onder Domein het relevante domein en klik op **Label genereren**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
-1. Meld u aan bij uw Dynamic Tag Manager-account ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
+1. Aanmelden bij uw Dynamic Tag Manager-account ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
 
-1. Ga naar **dashboard.** Klik op de relevante webeigenschap.
+1. Ga naar **Dashboard.** Klik op de relevante webeigenschap.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
-1. Ga naar **Regels**, klik **Nieuwe Regel maken**.
+1. Ga naar **Regels**, klikt u op **Nieuwe regel maken**.
 
 1. Vul het volgende in
 
    1. Naam: **Marketo RTP**
    1. Voorwaarden (samenvouwen): Triggerregel bij - **Boven aan pagina**
-   1. JavaScript (samenvouwen): Klik **Nieuw script toevoegen**
+   1. JavaScript (samenvouwen): klikken **Nieuw script toevoegen**
 
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
@@ -56,14 +55,14 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren:
 
    >[!CAUTION]
    >
-   >Zorg ervoor u alle markeringen verwijdert en slechts het manuscript zelf verlaat (geen `<script type='text/javascript'>`, `</script>`)
+   >Zorg ervoor dat u alle tags verwijdert en laat alleen het script zelf (geen `<script type='text/javascript'>` , `</script>` )
 
-1. Klik **sparen Code** in de manuscripteditor en **sparen Regel** in de regelredacteur.
+1. Klikken **Code opslaan** in de scripteditor en **Regel opslaan** in de regeleditor.
 
-1. Zoek in het deelvenster Regels de regel voor het laden van de pagina Marketo RTP en selecteer **Acties** vervolgkeuzelijst **Regels activeren**.
+1. Zoek in het deelvenster Regels de Marketo RTP-paginaladingsregel en binnen de **Handelingen** vervolgkeuzelijst selecteren **Regels activeren**.
 
    ![](assets/image2014-12-3-18-3a4-3a14.png)
 
-1. **Controleer** of deze code op alle pagina&#39;s wordt weergegeven, inclusief bestemmingspagina&#39;s en subdomeinen.
+1. **Verifiëren** op alle pagina&#39;s, inclusief bestemmingspagina&#39;s en subdomeinen.
 
-   U kunt dit doen door met de rechtermuisknop op de pagina&#39;s van uw website te klikken. Ga naar **Inspect Element**, klik op **Netwerk**, Onderzoek: **RTP**.
+   U kunt dit doen door met de rechtermuisknop op de pagina&#39;s van uw website te klikken. Ga naar **Inspect-element**, klikt u op **Netwerk**, Zoeken: **RTP**.

@@ -2,14 +2,13 @@
 unique-page-id: 4719350
 description: Segmenten van een specifiek label weergeven - Marketo Docs - Productdocumentatie
 title: Segmenten van een specifiek label weergeven
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 86a73898-1ad6-4edb-99cf-104f7ebb3ddd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
 
 ---
-
 
 # Segmenten van een specifiek label weergeven {#view-segments-from-a-specific-label}
 

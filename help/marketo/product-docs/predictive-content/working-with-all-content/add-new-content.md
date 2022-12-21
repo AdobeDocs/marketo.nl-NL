@@ -2,20 +2,19 @@
 unique-page-id: 11384651
 description: Nieuwe inhoud toevoegen - Marketo Docs - Productdocumentatie
 title: Nieuwe inhoud toevoegen
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-
 # Nieuwe inhoud toevoegen {#add-new-content}
 
 U kunt eenvoudig handmatig inhoud toevoegen aan de pagina Alle inhoud.
 
-1. Klik op de vervolgkeuzelijst **Inhoud toevoegen** en selecteer **Inhoud toevoegen**.
+1. Klik op de knop **Inhoud toevoegen** vervolgkeuzelijst en selecteer **Inhoud toevoegen**.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,12 +26,12 @@ U kunt eenvoudig handmatig inhoud toevoegen aan de pagina Alle inhoud.
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. Klik **Add**.
+1. Klikken **Toevoegen**.
 
    ![](assets/all-content-add-hand.png)
 
-1. De nieuwe titel wordt nu weergegeven op de pagina **All Content**. Merk op dat het nog niet voor voorspellende inhoud is goedgekeurd.
+1. De nieuwe titel wordt nu weergegeven op het tabblad **Alle inhoud** pagina. Merk op dat het nog niet voor voorspellende inhoud is goedgekeurd.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Hier is hoe te om het aan [Voorspelende Inhoud ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) toe te voegen.
+1. Hieronder wordt beschreven hoe u het bestand toevoegt [Voorspelende inhoud](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).

@@ -3,7 +3,6 @@ unique-page-id: 2953352
 description: Items rechtstreeks bewerken in de marketingagenda - Marketo Docs - Productdocumentatie
 title: Items rechtstreeks in de marketingkalender bewerken
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '185'
@@ -17,11 +16,11 @@ In de focusmodus van het programma kunt u snel wijzigingen aanbrengen in agenda-
 
 ## Programmafocus inschakelen {#enable-program-focus}
 
-1. Ga naar **Kalender**.
+1. Ga naar de **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Selecteer een vermelding die bij het programma hoort waarop u wilt scherpstellen en klik op **Programmafocus tonen**.
+1. Selecteer een vermelding die hoort bij het programma waarop u wilt scherpstellen en klik op **Programmafocus tonen**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -31,7 +30,7 @@ In de focusmodus van het programma kunt u snel wijzigingen aanbrengen in agenda-
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
-## Itemnaam {#edit-entry-name} bewerken
+## Itemnaam bewerken {#edit-entry-name}
 
 1. Selecteer het item waarvan u de naam wilt wijzigen.
 

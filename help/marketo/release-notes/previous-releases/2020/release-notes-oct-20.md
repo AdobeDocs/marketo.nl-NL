@@ -16,9 +16,9 @@ De volgende functies zijn opgenomen in de release van oktober 2010. Raadpleeg de
 
 >[!AVAILABILITY]
 >
->Functies die door een ster (![](assets/yellow-star.png)) worden aangeduid, worden betaalde invoegtoepassingen. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+>Kenmerken die door een ster worden aangeduid (![](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
 
-**_Driemaandelijkse_** releasesDe volgende functies worden op 16  **oktober 2020** gepubliceerd.
+**_Kwartaalreleases_** De volgende functies worden vrijgegeven op **16 oktober 2020**.
 
 ## Doelaccountbeheer {#target-account-management}
 
@@ -28,37 +28,37 @@ De volgende functies zijn opgenomen in de release van oktober 2010. Raadpleeg de
 
 ## E-mailmarketing {#email-marketing}
 
-* **Batch-e-mailBoost  ![(ster)](assets/yellow-star.png)**: Stuur meer e-mails met een verhoogde doorvoer van maximaal 5 miljoen batch-e-mails per uur. Met de uitgebreide opties voor e-maillevering hoeft u niet te wachten tussen batches per e-mail. U kunt alle e-mails op tijd en volgens uw planning verzenden.
+* **Batch-e-mailBoost ![(ster)](assets/yellow-star.png)**: Stuur meer e-mails met een verhoogde doorvoer van maximaal 5 miljoen batch-e-mails per uur. Met de uitgebreide opties voor e-maillevering hoeft u niet te wachten tussen batches per e-mail. U kunt alle e-mails op tijd en volgens uw planning verzenden.
 
 ## Websitemarkering {#website-marketing}
 
-* **Automatisering** van formuliercode insluiten: Verkrijg meer leads met Marketo Engage-formulieren ingesloten in uw beveiligde bestemmingspagina&#39;s die buiten Marketo worden gehost. De insluitcode van het formulier wordt automatisch bijgewerkt zodat deze de domeinnaam van de openingspagina bevat en handmatige taken voor webontwikkelaars worden verwijderd. Het aangepaste domein in de coderingskoppeling verbetert de ervaring met websitenavigatie en het gebruik van formulieren.
+* **Automatisering van formuliercode insluiten**: Verkrijg meer leads met Marketo Engage-formulieren ingesloten in uw beveiligde bestemmingspagina&#39;s die buiten Marketo worden gehost. De insluitcode van het formulier wordt automatisch bijgewerkt zodat deze de domeinnaam van de openingspagina bevat en handmatige taken voor webontwikkelaars worden verwijderd. Het aangepaste domein in de coderingskoppeling verbetert de ervaring met websitenavigatie en het gebruik van formulieren.
 
 ## Experience Cloud-integratie {#experience-cloud-integration}
 
-* **Continuous Audience Sync van Adobe Experience Cloud naar Marketo Engage**: Doel leidt met Marketo Engage die op de gegevens van de eerste-partijintentie van Adobe Analytics, Adobe Audience Manager, of Adobe in real time CDP wordt gebaseerd. Werk lijsten met statische Marketo Engage automatisch bij via ononderbroken synchronisatie, voeg toe tot betrokkenheid- of e-mailprogramma&#39;s en waarschuwen bij Verkoop wanneer leads gereed zijn.
+* **Continuous Audience Sync van Adobe Experience Cloud naar Marketo Engage**: Doel leidt met Marketo Engage die op de gegevens van de eerste-partijintentie van Adobe Analytics, Adobe Audience Manager, of Adobe Real-Time CDP wordt gebaseerd. Werk lijsten met statische Marketo Engage automatisch bij via ononderbroken synchronisatie, voeg toe tot betrokkenheid- of e-mailprogramma&#39;s en waarschuwen bij Verkoop wanneer leads gereed zijn.
 
 ## CRM-integratie {#crm-integration}
 
 * **Salesforce CRM-synchronisatie**: Synchronisatiefouten en fouten opsporen en corrigeren met twee nieuwe Salesforce Sync- en Errors-dashboards. Nieuwe record-updates, verwijderingen, mislukken en voltooiing van het synchronisatieproces controleren. Rapporten kunnen worden gefilterd op datum, type bewerking of objecttype.
 
-* **Integratie** van Microsoft Dynamics 365: Automatiseer inschrijving van lood en contacten in de campagnes van de Dynamica 365 van Microsoft. U kunt eenvoudig Marketo Engage-leads en -contactpersonen toevoegen aan of verwijderen uit MS Dynamics-campagnes met nieuwe acties voor slimme campagnestroom. Geef naadloos leads door van marketing naar verkoop en sluit deals sneller.
+* **Microsoft Dynamics 365 Integration**: Automatiseer het inschrijven van leads en contacten in Microsoft Dynamics 365-campagnes. U kunt eenvoudig Marketo Engage-leads en -contactpersonen toevoegen aan of verwijderen uit MS Dynamics-campagnes met nieuwe acties voor slimme campagnestroom. Geef naadloos leads door van marketing naar verkoop en sluit deals sneller.
 
 ## Doelstelling voor betaalde media {#paid-media-targeting}
 
-* **Integratie van facebook-advertenties**: Facebook-parameters voor het bijhouden van formulieren kunnen nu worden vastgelegd via de LaunchPoint-service voor Facebook-leads. Deze verborgen velden kunnen nu worden toegewezen aan Marketo-velden, zodat marketers waardevolle gegevens voor het bijhouden van campagnes kunnen opslaan en gebruiken.
+* **Integratie van facebook Lead Ads**: Facebook-parameters voor het bijhouden van formulieren kunnen nu worden vastgelegd via de LaunchPoint-service voor Facebook-leads. Deze verborgen velden kunnen nu worden toegewezen aan Marketo-velden, zodat marketers waardevolle gegevens voor het bijhouden van campagnes kunnen opslaan en gebruiken.
 
 ## Beheer {#administration}
 
-* **Rollen en machtigingen** exporteren: Exporteer rollen en machtigingen naar spreadsheets voor eenvoudig delen tussen teams in uw organisatie. Voer rollen en toestemmingencontroles gemakkelijker en sneller uit.
+* **Rollen en machtigingen exporteren**: Exporteer rollen en machtigingen naar spreadsheets voor eenvoudig delen tussen teams in uw organisatie. Voer rollen en toestemmingencontroles gemakkelijker en sneller uit.
 
 * **Verbeterd audittrail**: Met nieuwe controletrailingangen, krijg korrelig zicht in veranderingen die in e-mail en landingspagina&#39;s door uw marketing team worden aangebracht. Leg de wijzigingen vast die in elke module in de tekst van een e-mail zijn aangebracht en volg de bewerkingen in tekstelementen met opmaak, statuswijzigingen, toevoegingen en verwijdering van formulieren en afbeeldingen.
 
 * **Veldbeheer**: U kunt gemakkelijk naar API-veldnamen zoeken met de nieuwe functie voor metagegevens in de veldrecord. U hoeft niet alle velden naar spreadsheets te exporteren om de veldnaam te achterhalen. Ontwikkel integratie met apps van LaunchPoint, verbind gegevensbestanden, of gebruik onze open APIs op om het even welke manier die uw organisatie past.
 
-* **Nieuwe exportopties** voor metagegevens: Exporteer metagegevens van aangepaste objecten voor geselecteerde aangepaste objecten naar een spreadsheet, zodat u ze gemakkelijk kunt delen. Bovendien kunnen alle of alle metagegevens van abonnementsobjecten worden geëxporteerd, zoals lood, bedrijf, standaard- en aangepaste activiteiten, codes en kanalen. Gegevens kunnen door beheerders worden opgehaald en snel met technische teams worden gedeeld voor analyse- en ontwerpdoeleinden.
+* **Exportopties voor nieuwe metagegevens**: Exporteer metagegevens van aangepaste objecten voor geselecteerde aangepaste objecten naar een spreadsheet, zodat u ze gemakkelijk kunt delen. Bovendien kunnen alle of alle metagegevens van abonnementsobjecten worden geëxporteerd, zoals lood, bedrijf, standaard- en aangepaste activiteiten, codes en kanalen. Gegevens kunnen door beheerders worden opgehaald en snel met technische teams worden gedeeld voor analyse- en ontwerpdoeleinden.
 
-* **Aangepast veld** opportunity: Meer inzicht in opportuniteitsrecords met aangepaste velden voor opportuniteiten in Marketo Engage. Gegevens van opportuniteitsaangepaste velden weergeven van Salesforce CRM, Microsoft Dynamics 365 CRM, Sales native integratie of via andere API-integratie. Dankzij de volledige zichtbaarheid in opportuniteitsdetails en -pijplijn kunt u uw betrokkenheid in coördinatie met verkoop ordenen, conversies verhogen en deals sneller sluiten.
+* **Aangepast veld opportunity**: Meer inzicht in opportuniteitsrecords met aangepaste velden voor opportuniteiten in Marketo Engage. Gegevens over opportuniteitsaangepaste velden weergeven van Salesforce CRM, Microsoft Dynamics 365 CRM, Sales native integrations of via andere API-integratie. Dankzij de volledige zichtbaarheid in opportuniteitsdetails en -pijplijn kunt u uw betrokkenheid in coördinatie met verkoop ordenen, conversies verhogen en deals sneller sluiten.
 
 ## Vrijgeven door het Kwartaal {#releasing-throughout-the-quarter}
 
@@ -68,7 +68,7 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ![(ster)](assets/yellow-star.png)
 
-* **Opties voor** API-optimalisatie en nieuwe beheerconfiguratie: Verbeter de gebruikerservaring van het Inzicht van de Verkoop door verbeterde API optimalisering en toegevoegde bestuurseigenschappen. De montages van de configuratie laten beheerders toe om te bepalen hoe de campagnes en de gebeurtenissen aan het dashboard van het Inzicht van de Verkoop worden geladen. Met de opties voor de weergave van flexibele kalenderactiviteiten wordt het gebruik van de API verminderd en de algehele ervaring verbeterd.
+* **Opties voor API-optimalisatie en nieuwe beheerconfiguratie**: Verbeter de gebruikerservaring van het Inzicht van de Verkoop door verbeterde API optimalisering en toegevoegde bestuurseigenschappen. De montages van de configuratie laten beheerders toe om te bepalen hoe de campagnes en de gebeurtenissen aan het dashboard van het Inzicht van de Verkoop worden geladen. Met de opties voor de weergave van flexibele kalenderactiviteiten wordt het gebruik van de API verminderd en de algehele ervaring verbeterd.
 
 ## Aankondigingen en afwaarderingen {#announcements-deprecations}
 
@@ -78,8 +78,8 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 * **Veldbeheer**: Een beperking tot synchrone veranderingen in het type van douanegebied in Marketo Engage wordt geïntroduceerd om onze infrastructuurveiligheid te verhogen. Wanneer u wijzigingen aanbrengt in meerdere veldtypen, moeten de eerste veldwijzigingen worden voltooid voordat u naar het volgende veld gaat. Dit nieuwe proces zorgt voor een stabielere omgeving en minimaliseert de risico&#39;s van fouten in bewerkingen van andere typen.
 
-* **Verhoogde URI-groottebeperking** voor element-API: De de formaatgrens van het uniforme middel herkenningsteken (URI) wordt verhoogd van 8KB aan 65KB alvorens &quot;_method&quot;parameter te schrappen. De groottegrensverhoging staat klanten toe die lange vraagkoorden gebruiken om gegevens gemakkelijker over te gaan. De verwijdering van de parameter &quot;_method&quot; maakt deel uit van een aanstaande veiligheidsverbetering.
+* **Toegenomen URI-groottebeperking voor bron-API**: De de formaatgrens van het uniforme middel herkenningsteken (URI) wordt verhoogd van 8KB aan 65KB alvorens &quot;_method&quot;parameter te schrappen. De groottegrensverhoging staat klanten toe die lange vraagkoorden gebruiken om gegevens gemakkelijker over te gaan. De verwijdering van de parameter &quot;_method&quot; maakt deel uit van een aanstaande veiligheidsverbetering.
 
 ## Webinar productrelease {#product-release-webinar}
 
-Bekijk de opname van ons webinar [hier](https://engage.marketo.com/Oct_20_Release_OnDemand.html).
+Bekijk de opname van ons webinar met productrelease [hier](https://engage.marketo.com/Oct_20_Release_OnDemand.html).

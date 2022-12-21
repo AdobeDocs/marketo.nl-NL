@@ -5,7 +5,7 @@ title: Toevoegen aan marketingcampagne
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 source-git-commit: 3fb9b16f83a6b4662e867c1fdbeda275dfdc1e13
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 >
 >Als u iemand vanuit Sales Connect aan een Marketo-campagne wilt toevoegen, moet Sales Connect de Marketo lead-id van die persoon hebben.
 
-1. Klik op het tabblad **Personen**.
+1. Klik op de knop **Mensen** Tab.
 
    ![](assets/one-3.png)
 
@@ -34,15 +34,15 @@ ht-degree: 0%
 
    ![](assets/three-3.png)
 
-1. Klik **Geselecteerde toevoegen aan Campagne**.
+1. Klikken **Geselecteerde toevoegen aan campagne**.
 
    ![](assets/four-3.png)
 
-1. Aangezien u aan een campagne van de Marketing toevoegt, sla het selecteren van een &quot;van&quot;adres over. U kunt echter verkiezen om meer contacten toe te voegen. Als u dit wilt doen, klikt u op Individuen en typt u deze in. Klik **Volgende** wanneer gereed.
+1. Aangezien u aan een campagne van de Marketing toevoegt, sla het selecteren van een &quot;van&quot;adres over. U kunt echter verkiezen om meer contacten toe te voegen. Als u dit wilt doen, klikt u op Individuen en typt u deze in. Klikken **Volgende** wanneer gereed.
 
    ![](assets/five-2.png)
 
-1. Klik **Marketingcampagne**.
+1. Klikken **Marketingcampagne**.
 
    ![](assets/six-1.png)
 
@@ -54,17 +54,17 @@ ht-degree: 0%
    >
    >Als u de gewenste werkruimte niet ziet, controleert u of de beheerdersvoorzieningen aanwezig zijn via de pagina Marketo Team Access.
 
-1. Selecteer de gewenste campagne en klik **Next**.
+1. Selecteer de gewenste campagne en klik op **Volgende**.
 
    ![](assets/eight.png)
 
-1. U wordt getoond de contacten die kwalificeren. Klik **Begin** om hen toe te voegen.
+1. U wordt getoond de contacten die kwalificeren. Klikken **Start** om ze toe te voegen.
 
    ![](assets/nine.png)
 
 ## Een groep toevoegen aan een campagne {#add-a-group-to-a-campaign}
 
-1. Klik op het tabblad **Personen**.
+1. Klik op de knop **Mensen** Tab.
 
    ![](assets/one-3.png)
 
@@ -72,15 +72,15 @@ ht-degree: 0%
 
    ![](assets/eleven.png)
 
-1. Klik **Groep toevoegen aan Campagne**.
+1. Klikken **Groep toevoegen aan campagne**.
 
    ![](assets/twelve.png)
 
-1. Aangezien u aan een campagne van de Marketing toevoegt, sla het selecteren van een &quot;van&quot;adres over. U kunt echter verkiezen om meer contacten toe te voegen. Als u dit wilt doen, klikt u op Individuen en typt u deze in. Klik **Volgende** wanneer gereed.
+1. Aangezien u aan een campagne van de Marketing toevoegt, sla het selecteren van een &quot;van&quot;adres over. U kunt echter verkiezen om meer contacten toe te voegen. Als u dit wilt doen, klikt u op Individuen en typt u deze in. Klikken **Volgende** wanneer gereed.
 
    ![](assets/thirteen.png)
 
-1. Selecteer **Marketingcampagne**.
+1. Selecteren **Marketingcampagne**.
 
    ![](assets/six-1.png)
 
@@ -96,10 +96,10 @@ ht-degree: 0%
    >
    >Als u de gewenste werkruimte niet ziet, controleert u of de beheerdersvoorzieningen aanwezig zijn via de pagina Marketo Team Access.
 
-1. Selecteer de gewenste campagne en klik **Next**.
+1. Selecteer de gewenste campagne en klik op **Volgende**.
 
    ![](assets/eight.png)
 
-1. U wordt getoond de contacten die kwalificeren. Klik **Begin** om hen toe te voegen.
+1. U wordt getoond de contacten die kwalificeren. Klikken **Start** om ze toe te voegen.
 
    ![](assets/nine.png)

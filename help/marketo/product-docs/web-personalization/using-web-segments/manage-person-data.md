@@ -1,15 +1,14 @@
 ---
 unique-page-id: 7504051
-description: Persoonlijke gegevens beheren - Marketo Docs - Productdocumentatie
+description: Persoonlijke gegevens beheren - Marketo-documenten - Productdocumentatie
 title: Persoonlijke gegevens beheren
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
-
 
 # Persoonlijke gegevens beheren {#manage-person-data}
 
@@ -25,7 +24,7 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
 
 ## Een veld Nieuwe persoon toevoegen {#adding-a-new-person-field}
 
-1. Selecteer **Veld in de vervolgkeuzelijst om een veld met persoonsgegevens aan de lijst toe te voegen.**
+1. Selecteren **Toe te voegen veld** in de vervolgkeuzelijst om een gegevensveld voor personen aan de lijst toe te voegen.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -33,9 +32,9 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
    >
    >Er wordt een nieuw veld toegevoegd in een status die in behandeling is en het kan 24 uur duren om het veld te activeren.
 
-## Een personenveld {#deleting-a-person-field} verwijderen
+## Een persoonlijk veld verwijderen {#deleting-a-person-field}
 
-1. Klik op het verwijderpictogram ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) om een veld uit de lijst te verwijderen. Klik **Ja** om te bevestigen u het gebied wilt schrappen.
+1. Klik op het verwijderpictogram ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) om een veld uit de lijst te verwijderen. Klikken **Ja** om te bevestigen dat u het veld wilt verwijderen.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -65,7 +64,7 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
   <tr> 
    <td><p>titel</p></td> 
    <td><p>Titel</p></td> 
-   <td><p>Functie</p></td> 
+   <td><p>Beroep</p></td> 
   </tr> 
   <tr> 
    <td><p>beoordeling</p></td> 
@@ -90,12 +89,12 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
   <tr> 
    <td><p>leadRole</p></td> 
    <td><p>LeadRole</p></td> 
-   <td><p>Rol</p></td> 
+   <td><p>Functie</p></td> 
   </tr> 
   <tr> 
    <td><p>geabonneerd</p></td> 
-   <td><p>Abonnement opgezegd</p></td> 
-   <td><p>Abonnement opgezegd</p></td> 
+   <td><p>Niet geabonneerd</p></td> 
+   <td><p>Niet geabonneerd</p></td> 
   </tr> 
  </tbody> 
 </table>

@@ -3,7 +3,6 @@ unique-page-id: 557312
 description: Verklarende woordenlijst van slimme-lijstfilteroperatoren - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst voor slimme-lijstfilteroperatoren
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '602'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Woordenlijst slimme-lijstfilteroperatoren {#smart-list-filter-operators-glossary}
+# Verklarende woordenlijst voor slimme-lijstfilteroperatoren {#smart-list-filter-operators-glossary}
 
 Een operator maakt deel uit van de slimme lijst om u te helpen specifieke taken uit te voeren. Hiermee kunt u het filter of de trigger in een eenvoudige taal beschrijven. De beschikbare operatoren zijn verschillend voor elk type veld.
 
@@ -28,10 +27,10 @@ Wanneer u een operator kiest, verandert de rechterzijde dynamisch.
 | is | Enkele datum | Exacte datumovereenkomst |
 | is niet | Enkele datum | Elke datum behalve de opgegeven datum |
 | Tussen | Twee datumvelden | Elke datum met en tussen twee opgegeven data |
-| in het verleden | Invoer in natuurlijke taal* | Zie onderstaande figuur |
-| in het verleden | Invoer in natuurlijke taal* | Zie onderstaande figuur |
-| in de toekomst | Invoer in natuurlijke taal* | Zie onderstaande figuur |
-| in de toekomst na | Invoer in natuurlijke taal* | Zie onderstaande figuur |
+| in het verleden | Invoer natuurlijke taal&#42; | Zie onderstaande figuur |
+| in het verleden | Invoer natuurlijke taal&#42; | Zie onderstaande figuur |
+| in de toekomst | Invoer natuurlijke taal&#42; | Zie onderstaande figuur |
+| in de toekomst na | Invoer natuurlijke taal&#42; | Zie onderstaande figuur |
 | in tijdkader | Voorinstellingen (afgelopen kwartaal, gisteren, enz.) | Gedefinieerd in picklist |
 | na | Enkele datum | Alle records na de opgegeven datum |
 | voor | Enkele datum | Alle records voor de opgegeven record |
@@ -40,7 +39,7 @@ Wanneer u een operator kiest, verandert de rechterzijde dynamisch.
 | is leeg | Geen | Alle records zonder datum |
 | is niet leeg | Geen | Alle records met een willekeurige datum |
 
-* Invoer in de natuurlijke taal is cool. Hier volgen enkele voorbeelden van patronen die u kunt invoeren:
+&#42; Invoer in de natuurlijke taal is cool. Hier volgen enkele voorbeelden van patronen die u kunt invoeren:
 
 * 1 uur
 * 82 dagen
@@ -52,11 +51,11 @@ Typ gewoon het nummer en de eenheid en het werkt!
 
 >[!NOTE]
 >
->&quot;In het verleden&quot; **omvat** de dag (tot de tijd, niet na) u creeert uw slimme lijst.
+>&quot;In het verleden&quot; **doet** neem de dag op (tot de tijd, niet daarna) waarop u uw slimme lijst maakt.
 
 >[!CAUTION]
 >
->Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, datum van aanmaak van SFDC) en de **before** of **on of before**-beperkingen gebruikt, bevat de slimme lijst ook personen die geen waarde hebben in het datumveld.
+>Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, Aanmaakdatum van SFDC) en de optie **voor** of **op of voor** beperkingen bevat de slimme lijst ook personen die geen waarde hebben in het opgegeven datumveld.
 
 Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrijpen.
 
@@ -109,7 +108,7 @@ Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrij
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1">is</td> 
-   <td colspan="1" rowspan="1">Exacte getalovereenkomst ( = 0 retourneert beide leads met 0 <em>en</em> NULL)</td> 
+   <td colspan="1" rowspan="1">De nauwkeurige aantalgelijke ( = 0 zal beide lood met 0 terugkeren <em>en</em> NULL)</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">is niet</td> 
@@ -137,7 +136,7 @@ Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrij
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">is leeg</td> 
-   <td colspan="1" rowspan="1">Records die geen waarde hebben (NULL) - nul is een getal; het is <em>niet</em> NULL</td> 
+   <td colspan="1" rowspan="1">Records die geen waarde hebben (NULL) - nul is een getal, het is <em>niet</em> NULL</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">is niet leeg</td> 

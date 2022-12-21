@@ -1,17 +1,16 @@
 ---
 unique-page-id: 13795534
-description: Prestatie-inzichten dashboards - Marketo Docs - productdocumentatie
+description: Performance Insights-dashboards - Marketo Docs - productdocumentatie
 title: Dashboards met prestatie-inzichten
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
-
-# Prestatie-inhouds-dashboards {#performance-insights-dashboards}
+# Dashboards met prestatie-inzichten {#performance-insights-dashboards}
 
 Meer informatie over de beschikbare dashboards in MPI.
 
@@ -25,7 +24,7 @@ Met het dashboard Betrokkenheid kunt u de effectiviteit van uw programma&#39;s v
 
 Maatschappelijke betrokkenheid
 
-Kies **Successen** metrisch om publieksbetrokkenheid in uw borstelprogramma&#39;s te meten. Succes is een maatstaf voor betekenisvolle interactie in Marketo.
+Kies de optie **Successen** metrisch om de betrokkenheid van het publiek in uw programma&#39;s van de Zorg te meten. Succes is een maatstaf voor betekenisvolle interactie in Marketo.
 
 ![](assets/3-4.png)
 
@@ -37,7 +36,7 @@ Het doel van een programma is een zinvolle interactie met de persoon of het voor
 
 Nieuwe naamverwerving meten
 
-Kies **Nieuwe Namen** metrisch om de doeltreffendheid van uw nieuwe programma&#39;s van de naamverwerving te meten.
+Kies de optie **Nieuwe namen** metrisch om de doeltreffendheid van uw nieuwe programma&#39;s van de naamverwerving te meten.
 
 ![](assets/4-3.png)
 
@@ -75,12 +74,12 @@ Het Pipeline dashboard toont kanaalprestaties door eerste-aanraak en multi-aanra
   </tr> 
   <tr> 
    <td><p><strong>Pijpleiding gemaakt naar kostenverhouding</strong></p></td> 
-   <td><p>Het deel van de kredieten dat een programma heeft ontvangen om de creatie van nieuwe kansen te beïnvloeden, gedeeld door het deel van de kosten van het programma dat de schepping van kansen beïnvloedde.</p></td> 
+   <td><p>Het deel van de kredieten dat een programma heeft ontvangen om de schepping van nieuwe kansen te beïnvloeden, gedeeld door het deel van de kosten van het programma dat de schepping van kansen beïnvloedde.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Opbrengst {#revenue}
+## Ontvangsten {#revenue}
 
 Het belastingdashboard laat kanaalprestaties zien door middel van &#39;first-touch&#39; en multi-touch metriek.
 

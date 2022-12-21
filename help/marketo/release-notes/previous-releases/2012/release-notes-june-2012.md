@@ -5,7 +5,7 @@ title: Release-aantekeningen -juni 2012
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ Wanneer het plannen van een campagne, kunt u op de verbinding klikken om de lijs
 
 ## Wacht stap - Token en mijn token leiden {#wait-step-lead-token-and-my-token}
 
-In onze release van mei hebben we geavanceerde opties toegevoegd aan de stap Wachttijd. Met deze wijzigingen kunt u een werkdag, datum en tijd opgeven. In deze versie, voegden wij de capaciteit toe om een teken in de wachttijdstap te gebruiken. U kunt bijvoorbeeld `{{lead.Birthday}}` gebruiken om een e-mail te verzenden op de geboortedag, of `{{my.Event Date}}` gebruiken om een laatste webinarherinnering te verzenden.
+In onze release van mei hebben we geavanceerde opties toegevoegd aan de stap Wachttijd. Met deze wijzigingen kunt u een werkdag, datum en tijd opgeven. In deze versie, voegden wij de capaciteit toe om een teken in de wachttijdstap te gebruiken. U kunt bijvoorbeeld `{{lead.Birthday}}` om een e-mail op hun Verjaardag te verzenden, of gebruik `{{my.Event Date}}` om een laatste webinar-herinnering te verzenden.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 

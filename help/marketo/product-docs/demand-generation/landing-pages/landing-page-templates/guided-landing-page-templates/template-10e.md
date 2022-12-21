@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 10E {#template-10e}
 
-Klik met de rechtermuisknop op [Sjabloon 10E downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)
+Klik met de rechtermuisknop om [downloadsjabloon 10E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)
 
 ![](assets/image2015-7-27-11-3a6-3a25.png)
 

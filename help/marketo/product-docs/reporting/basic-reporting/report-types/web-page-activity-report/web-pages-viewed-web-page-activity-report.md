@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2360052
-description: Bekeken de Pagina's van het Web, het Rapport van de Activiteit van de Web-pagina - Marketo Docs - de Documentatie van het Product
+description: Bekeken Web-pagina's, Web-pagina activiteitenverslag - Marketo Docs - de Documentatie van het Product
 title: Bekeken de Pagina's van het Web, het Rapport van de Activiteit van de Web-pagina
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
+# Bekeken de Pagina&#39;s van het Web, het Rapport van de Activiteit van de Web-pagina {#web-pages-viewed-web-page-activity-report}
 
-# Weblagina&#39;s weergegeven, activiteitenrapport van webpagina {#web-pages-viewed-web-page-activity-report}
-
-Van een [Rapport van de Activiteit van de Pagina van het Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), kunt u de specifieke pagina&#39;s zien die door de mensen in het rapport werden bekeken.
+Van een [Rapport Webpaginageactiviteit](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), kunt u de specifieke pagina&#39;s zien die door de mensen in het rapport werden bekeken.
 
 >[!PREREQUISITES]
 >
->Als u activiteiten wilt vastleggen vanaf uw website in Marketo, moet u eerst Munchkin instellen op uw site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).[
+>Als u activiteiten wilt vastleggen vanaf uw website in Marketo, moet u eerst  [Munchkin instellen op uw site](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. Klik in uw [Web Page Activity report](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) op het nummer in de kolom Paginaweergaven.
+1. In uw [Rapport Webpaginageactiviteit](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)Klik op het nummer in de kolom Paginaweergaven.
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
@@ -29,4 +28,4 @@ Van een [Rapport van de Activiteit van de Pagina van het Web](/help/marketo/prod
 
    >[!MORELIKETHIS]
    >
-   >Creeer een [Rapport van de Activiteit van het Web van het Bedrijf](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) om te zien welke bedrijven uw plaats bezoeken.
+   >Een  [Webactiviteitenrapport van bedrijf](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) om te zien welke bedrijven uw site bezoeken.

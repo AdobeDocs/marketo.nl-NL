@@ -3,7 +3,6 @@ unique-page-id: 2360325
 description: Gebruikerstoegang tot een werkruimte toestaan - Marketo Docs - Productdocumentatie
 title: Toegang van gebruikers tot een werkruimte toestaan
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
@@ -27,11 +26,11 @@ De werkruimten kunnen om het even welke reden (zoals bedrijfseenheid of geografi
 
 ![](assets/image2014-9-17-11-3a2-3a32.png)
 
-1. Selecteer de gebruiker onder het tabblad **Gebruikers** en klik op **Gebruiker bewerken**.
+1. Onder de **Gebruikers** selecteert u de gebruiker en klikt u op **Gebruiker bewerken**.
 
    ![](assets/image2014-9-17-11-3a2-3a46.png)
 
-1. Selecteer **Rol en Werkruimte** u de gebruiker toegang tot wilt hebben.
+1. Selecteer **Rol en werkruimte** u wilt dat de gebruiker toegang heeft tot.
 
    >[!NOTE]
    >

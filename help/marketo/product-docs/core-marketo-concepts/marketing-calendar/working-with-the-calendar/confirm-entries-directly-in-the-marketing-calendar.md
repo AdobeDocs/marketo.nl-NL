@@ -3,7 +3,6 @@ unique-page-id: 2953362
 description: Vermeldingen rechtstreeks bevestigen in de marketingkalender - Marketo Docs - Productdocumentatie
 title: Vermeldingen rechtstreeks bevestigen in de marketingkalender
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Slimme campagnes en e-mailprogramma&#39;s kunnen worden gecreëerd als tijdelijke invoer en moeten worden bevestigd om daadwerkelijk iets te kunnen doen. Zo gaat het.
 
-1. Ga naar **Kalender**.
+1. Ga naar de **Kalender**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 

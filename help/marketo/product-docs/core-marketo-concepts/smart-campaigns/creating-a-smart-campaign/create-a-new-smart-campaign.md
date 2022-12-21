@@ -3,7 +3,6 @@ unique-page-id: 1146931
 description: Nieuwe slimme campagne maken - Marketo Docs - Productdocumentatie
 title: Nieuwe slimme campagne maken
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
@@ -17,13 +16,13 @@ Slimme campagnes zijn het belangrijkste instrument in Marketo. Ze kunnen op éé
 
 >[!NOTE]
 >
->Slimme campagnes zijn supercool. Meer informatie hierover [hier](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+>Slimme campagnes zijn supercool. Meer informatie over hen [hier](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Kies een **Programma**, en klik dan onder **Nieuw** op **Nieuw Lokaal element**.
+1. Kies een **Programma** en vervolgens onder **Nieuw** klikken op **Nieuw lokaal element**.
 
    ![](assets/program-localassethands.png)
 
@@ -31,7 +30,7 @@ Slimme campagnes zijn het belangrijkste instrument in Marketo. Ze kunnen op éé
    >
    >U kunt slimme campagnes maken als lokale middelen van elk programma.
 
-1. Klik op **Slimme Campagne**.
+1. Klikken op **Slimme campagne**.
 
    ![](assets/image2014-9-19-15-3a9-3a51.png)
 

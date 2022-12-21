@@ -3,7 +3,6 @@ unique-page-id: 2360217
 description: Kenmerken wijzigen voor Analytics - Marketo Docs - Productdocumentatie
 title: Kenmerkinstellingen wijzigen voor Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
@@ -15,13 +14,13 @@ ht-degree: 0%
 
 U kunt de manier veranderen waarop Marketo contacten verbindt met kansen voor eerste en multi-aanraking attributie, lood omzettingsmetriek, en de marketing-beïnvloede opportuniteitsvlag.
 
-Deze montages zullen de rapporten van de Ontdekkingsreiziger van de Opbrengst onder [Analyse van de Kans van het Programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analyse van de Kans](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), en gebieden van de Analyse van het Lood beïnvloeden. Dit zal ook het rapport van de Analysator van het Programma beïnvloeden.
+Deze montages zullen de rapporten van de Ontdekkingsreiziger van de Opbrengst onder de montages beïnvloeden [Analyse van programmamogelijkheden](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Opportuniteitsanalyse](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), en gebieden van de Analyse van het Lood. Dit zal ook het rapport van de Analysator van het Programma beïnvloeden.
 
-1. Klik onder de sectie **Admin** op **Belastingcyclusanalyse**.
+1. Onder de **Beheer** sectie, klikt u op **Analyse van inkomstencyclus**.
 
    ![](assets/image2014-9-24-11-3a55-3a19.png)
 
-1. Klik op de koppeling **Bewerken** onder **Kenmerk**.
+1. Klik op de knop **Bewerken** link onder **Attributie**.
 
    ![](assets/image2014-9-24-11-3a56-3a33.png)
 
@@ -45,4 +44,4 @@ Deze montages zullen de rapporten van de Ontdekkingsreiziger van de Opbrengst on
 
 >[!CAUTION]
 >
->Wanneer u **Impliciet** gebruikt, zal Marketo altijd alle contacten onderzoeken verbonden aan de rekening ongeacht rol. **Marketo raadt u ten zeerste aan de expliciete modus** te gebruiken. Het gebruik van Impliciet kan tot valse positieven leiden; dat wil zeggen, mensen die een kans verdienen ondanks het feit dat ze geen echte invloed op de kansen hebben. Wees voorzichtig met Impliciet gebruiken.
+>Wanneer u **Impliciet**, zal Marketo altijd alle contacten onderzoeken verbonden aan de rekening ongeacht rol. **Marketo raadt sterk aan de expliciete modus te gebruiken**. Het gebruik van Impliciet kan tot valse positieven leiden; dat wil zeggen, mensen die een kans verdienen ondanks het feit dat ze geen echte invloed op de kansen hebben. Wees voorzichtig met Impliciet gebruiken.

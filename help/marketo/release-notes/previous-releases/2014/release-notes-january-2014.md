@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: januari 2014 {#release-notes-january}
 
-De volgende functies zijn opgenomen in de release van januari 2014. Controleer uw [Marketo Edition](https://www.marketo.com/pricing/) op beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van januari 2014. Controleer uw [Marketo Edition](https://www.marketo.com/pricing/) voor de beschikbaarheid van functies.
 
 ## Forms 2.0 {#forms}
 
@@ -40,12 +40,12 @@ Gone is het aantal dagen dat HTML-code wordt opgehaald uit formulieren die op Ma
 
 ## Communicatielimieten voor e-mailprogramma {#communication-limits-for-email-program}
 
-[Stel Communicatielimieten in voor een e-](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) mailprogramma om ervoor te zorgen dat u niet te veel communiceert met uw database. Als een persoon de gedefinieerde limiet overschrijdt, ontvangt ze geen e-mail.
+[Communicatielimieten instellen voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/enable-disable-communication-limits-in-an-email-program.md) om ervoor te zorgen dat u niet te veel communiceert met uw database. Als een persoon de gedefinieerde limiet overschrijdt, ontvangt ze geen e-mail.
 
 ![](assets/image2014-9-22-10-3a38-3a31.png)
 
 ## Aanvullende velden in de analyse van het programmamandschap {#additional-fields-in-program-membership-analysis}
 
-Nu kunt u uw [Analyse van het Lidmaatschap van het Programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) metriek door lood en bedrijfattributen toevoegen en groeperen. Bijvoorbeeld, kunt u het gebied van de Industrie toevoegen om de splitsing van uw programmaleden en successen te zien.
+Nu kunt u uw [Analyse van het lidmaatschap van het programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) maatstaven op basis van lood en bedrijfskenmerken. Bijvoorbeeld, kunt u het gebied van de Industrie toevoegen om de splitsing van uw programmaleden en successen te zien.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

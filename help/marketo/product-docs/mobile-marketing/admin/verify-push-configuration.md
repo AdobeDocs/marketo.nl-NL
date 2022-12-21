@@ -1,29 +1,28 @@
 ---
 unique-page-id: 7512445
-description: Verifieer de Push Configuratie - Marketo Docs - de Documentatie van het Product
+description: Pushconfiguratie controleren - Marketo Docs - Productdocumentatie
 title: Pushconfiguratie verifiëren
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-
-# Pushconfiguratie {#verify-push-configuration} controleren
+# Pushconfiguratie verifiëren {#verify-push-configuration}
 
 >[!PREREQUISITES]
 >
->Uw mobiele ontwikkelaar moet de SDK-code van Marketo hebben toegevoegd aan uw mobiele app.
+>Uw mobiele ontwikkelaar moet de SDK-code van Marketo aan uw mobiele app hebben toegevoegd.
 
 Verifieer dupconfiguratie om ervoor te zorgen alles behoorlijk wordt gesynchroniseerd.
 
-1. Klik op **Admin**.
+1. Klikken op **Beheer**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecteer **Mobiele toepassingen**.
+1. Selecteren **Mobiele apps**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -31,11 +30,11 @@ Verifieer dupconfiguratie om ervoor te zorgen alles behoorlijk wordt gesynchroni
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klik **Mobile App Actions** en selecteer **Verify Push Configuration**.
+1. Klikken **Handelingen voor mobiele toepassingen** en selecteert u **Pushconfiguratie verifiëren**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. Bevestig de gewenste gecontroleerde platforms en klik **Close**.
+1. Bevestig welke platforms gecontroleerd worden gelezen en klik **Sluiten**.
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 

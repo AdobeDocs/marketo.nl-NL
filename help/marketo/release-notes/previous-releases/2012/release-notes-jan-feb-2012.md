@@ -60,7 +60,7 @@ Organisaties kunnen nu een naadloze aanmelding bij de Marketo-toepassing onderst
 
 De E-mail- en Landing Page Editors zijn opnieuw ontworpen met een meer uitnodigende interface, intuïtieve navigatie en een aanzienlijk verbeterde gebruikerservaring, waaronder:
 
-Een naast elkaar geplaatste HTML- en tekstweergave
+Een HTML- en tekstweergave naast elkaar
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 

@@ -1,17 +1,16 @@
 ---
 unique-page-id: 11384661
-description: Een titel goedkeuren voor preventieve inhoud - Marketo Docs - Productdocumentatie
+description: Een titel voor preventieve inhoud goedkeuren - Marketo Docs - Productdocumentatie
 title: Een titel voor preventieve inhoud goedkeuren
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# Een titel voor voorspellende inhoud goedkeuren {#approve-a-title-for-predictive-content}
+# Een titel voor preventieve inhoud goedkeuren {#approve-a-title-for-predictive-content}
 
 U kunt elke gewenste titel op de pagina Alle inhoud toevoegen aan voorspellende inhoud door deze goed te keuren op de pagina Alle inhoud of het pop-upmenu Inhoud bewerken.
 
@@ -21,11 +20,11 @@ U kunt elke gewenste titel op de pagina Alle inhoud toevoegen aan voorspellende 
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Klik op de vervolgkeuzelijst **Inhoudsacties** en selecteer **Goedkeuren voor voorspellende inhoud**.
+1. Klik op de knop **Inhoudshandelingen** vervolgkeuzelijst en selecteer **Goedkeuren voor voorspellende inhoud**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
-## Pop-up {#edit-content-pop-up} Inhoud bewerken
+## Pop-up Inhoud bewerken {#edit-content-pop-up}
 
 U kunt titels voor voorspellende inhoud ook direct goedkeuren op Edit Inhoud pop-up.
 
@@ -33,7 +32,7 @@ U kunt titels voor voorspellende inhoud ook direct goedkeuren op Edit Inhoud pop
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Schakel het selectievakje **Goedkeuren voor voorspellende inhoud** in het pop-upvenster Inhoud bewerken in en klik op **Opslaan**.
+1. Controleer de **Goedkeuren voor voorspellende inhoud** in de pop-up Inhoud bewerken klikt u op **Opslaan**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 

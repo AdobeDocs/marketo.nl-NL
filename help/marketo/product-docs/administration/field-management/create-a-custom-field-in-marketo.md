@@ -3,7 +3,6 @@ unique-page-id: 2360287
 description: Een aangepast veld maken in Marketo - Marketo Docs - Productdocumentatie
 title: Een aangepast veld maken in Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Als u een nieuw aangepast veld in Marketo nodig hebt om gegevens op te slaan/vast te leggen, gaat u als volgt te werk:
 
-1. Ga naar Admin en klik **Veld Management**.
+1. Ga naar Beheer en klik op **Veldbeheer**.
 
    ![](assets/image2014-9-24-13-3a46-3a26.png)
 
@@ -23,7 +22,7 @@ Als u een nieuw aangepast veld in Marketo nodig hebt om gegevens op te slaan/vas
    >
    >Als u wilt dat de velden synchroon blijven met uw CRM, maakt u deze in de CRM-toepassing en maakt u ze automatisch in Marketo.
 
-1. Klik op **Nieuw aangepast veld**.
+1. Klikken **Nieuw aangepast veld**.
 
    ![](assets/two.png)
 
@@ -31,11 +30,11 @@ Als u een nieuw aangepast veld in Marketo nodig hebt om gegevens op te slaan/vas
 
    >[!TIP]
    >
-   >Bekijk de woordenlijst [Aangepaste veldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Kijk uit de [Woordenlijst Aangepaste veldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
    ![](assets/image2014-9-24-13-3a47-3a42.png)
 
-1. Voer de naam in zoals u deze wilt weergeven in Marketo. De API-naam wordt automatisch gegenereerd. U kunt deze aanpassen, maar u kunt de naam ervan niet wijzigen als u de set eenmaal hebt ingesteld. Klik **Maken** wanneer gereed.
+1. Voer de naam in zoals u deze wilt weergeven in Marketo. De API-naam wordt automatisch gegenereerd. U kunt deze aanpassen, maar u kunt de naam ervan niet wijzigen als u de set eenmaal hebt ingesteld. Klikken **Maken** wanneer gereed.
 
 >[!CAUTION]
 >

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2359994
-description: Selecteer Rapportkolommen - Marketo Docs - Productdocumentatie
+description: Rapportkolommen selecteren - Marketo Docs - Productdocumentatie
 title: Rapportkolommen selecteren
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 11357993-7b29-41cb-a376-06de387d1e92
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
-
 
 # Rapportkolommen selecteren {#select-report-columns}
 
 U kunt kiezen welke kolommen wel en niet worden opgenomen in uw rapport.
 
-1. Ga naar het gebied **Analytics** (of **Marketing Activities**).
+1. Ga naar de **Analyse** (of **Marketingactiviteiten**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,7 +22,7 @@ U kunt kiezen welke kolommen wel en niet worden opgenomen in uw rapport.
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Klik **Rapport** tabel, klik dan om het even welke kolomrubriek en selecteer **Kolommen**, en kies dan de kolommen om te omvatten.
+1. Klik op de knop **Rapport** klikt u vervolgens op een kolomkop en selecteert u **Kolommen** en kies vervolgens de kolommen die u wilt opnemen.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 

@@ -2,14 +2,13 @@
 unique-page-id: 18317338
 description: Geblokkeerde domeinen - Marketo Docs - Productdocumentatie
 title: Geblokkeerde domeinen
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # Geblokkeerde domeinen {#blocked-domains}
 
@@ -27,10 +26,10 @@ Help uw verkoopteam succes te behalen door te voorkomen dat zij per ongeluk conc
 
    ![](assets/two-3.png)
 
-1. Ga het domein in u geblokkeerd wilt en **Blokkeer Domein**.
+1. Voer het domein in dat u wilt blokkeren en klik op **Blokdomein**.
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >E-mailberichten die onderdeel zijn van een [E-mailbericht per groep](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) dat niet kan worden verzonden omdat ze naar een geblokkeerd e-maildomein zijn verzonden, mislukken op de achtergrond en worden niet weergegeven in de mislukte e-mailmap.
+   >E-mails die onderdeel zijn van een [Groep-e-mail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) verzenden die mislukt omdat het naar een geblokkeerd e-maildomein is verzonden, mislukt stil en niet in de mislukte e-mailmap.

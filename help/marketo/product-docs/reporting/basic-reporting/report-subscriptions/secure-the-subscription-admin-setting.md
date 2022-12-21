@@ -1,15 +1,14 @@
 ---
 unique-page-id: 10095347
-description: Beveilig het Plaatsen van Admin van het Abonnement - Marketo Docs - de Documentatie van het Product
+description: Beveilig de instelling Abonnementsbeheer - Marketo Docs - Productdocumentatie
 title: Beveilig de Plaatsing van Admin van het Abonnement
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # Beveilig de Plaatsing van Admin van het Abonnement {#secure-the-subscription-admin-setting}
 
@@ -19,15 +18,15 @@ ht-degree: 0%
 
 Admin kan verkiezen om login te vereisen om een rapport te bekijken.
 
-1. Klik **Admin**, en dan **Login Montages**.
+1. Klikken **Beheer** en vervolgens **Aanmeldingsinstellingen**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Klik **geef** voor de Slimme Montages van het Rapport van de Lijst uit.
+1. Klikken **Bewerken** voor Rapportinstellingen voor slimme lijsten.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Selecteer **Yes** om een login te vereisen om rapporten te downloaden.
+1. Selecteren **Ja** om een login te vereisen om rapporten te downloaden.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 

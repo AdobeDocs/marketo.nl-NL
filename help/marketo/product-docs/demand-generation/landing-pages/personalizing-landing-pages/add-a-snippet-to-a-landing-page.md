@@ -2,14 +2,13 @@
 unique-page-id: 2359537
 description: Een fragment toevoegen aan een bestemmingspagina - Marketo Docs - Productdocumentatie
 title: Een fragment toevoegen aan een bestemmingspagina
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 35290bef-cb6f-4477-995c-d4571712b866
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Een fragment toevoegen aan een bestemmingspagina {#add-a-snippet-to-a-landing-page}
 
@@ -19,11 +18,11 @@ Fragmenten zijn kleine stukjes HTML die regels kunnen volgen en gepersonaliseerd
 >
 >[Een fragment maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-1. Selecteer de bestemmingspagina en klik **Concept** bewerken.
+1. Selecteer de openingspagina en klik op **Concept bewerken**.
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. Sleep in de bestemmingspagina-editor over het element **Fragment**.
+1. Sleep in de editor voor de bestemmingspagina over de **Fragment** element.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
@@ -37,6 +36,6 @@ Fragmenten zijn kleine stukjes HTML die regels kunnen volgen en gepersonaliseerd
 
    >[!NOTE]
    >
-   >Zie [dit artikel](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md) als u een fragment wilt toevoegen aan een pagina met instructies.
+   >Als u een fragment wilt toevoegen aan een pagina met instructies, raadpleegt u [dit artikel](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 Geweldig werk! Nu weet u hoe u fragmenten kunt toevoegen aan uw bestemmingspagina&#39;s.

@@ -1,22 +1,21 @@
 ---
 unique-page-id: 14352450
-description: Hoe te om Browser ToutApp Uitbreiding - Marketo Docs - de Documentatie van het Product te installeren
+description: De ToutApp Browser-extensie - Marketo Docs - Productdocumentatie installeren
 title: De ToutApp Browser-extensie installeren
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
+# De ToutApp Browser-extensie installeren {#how-to-install-the-toutapp-browser-extension}
 
-# Hoe te om de Browser van ToutApp Uitbreiding {#how-to-install-the-toutapp-browser-extension} te installeren
-
-1. Klik **Instellingen** op [webtoepassing](https://toutapp.com/next#settings).
+1. Klikken **Instellingen** op de [webtoepassing](https://toutapp.com/next#settings).
 
 1. Klik onder Mijn account op **E-mailinstellingen**.
 
-1. Klik **Insteekmodules**.
+1. Klikken **Plug-ins**.
 
 1. Klik onder Gmail- en Google-toepassingen op **Installeren**.

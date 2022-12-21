@@ -1,17 +1,16 @@
 ---
 unique-page-id: 7504383
-description: Het toevoegen van Gebieden aan een Rapport van de Ontdekkingsreiziger van de Opbrengst - Marketo Docs - de Documentatie van het Product
+description: Velden toevoegen aan een Indelingsverkenner-rapport - Marketo Docs - Productdocumentatie
 title: Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-
-# Velden toevoegen aan een opbrengstverkennerrapport {#adding-fields-to-a-revenue-explorer-report}
+# Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst {#adding-fields-to-a-revenue-explorer-report}
 
 Pas de rapporten van de opbrengstontdekkingsreiziger door afmeting en metrische gebieden in het canvas te slepen en te laten vallen.
 

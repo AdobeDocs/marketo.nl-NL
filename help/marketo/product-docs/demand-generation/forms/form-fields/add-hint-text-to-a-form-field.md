@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2359671
-description: Hinttekst toevoegen aan een formulierveld - Marketo Docs - Productdocumentatie
+description: Tiptekst toevoegen aan een formulierveld - Marketo Docs - Productdocumentatie
 title: Hinttekst toevoegen aan een formulierveld
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
+# Hinttekst toevoegen aan een formulierveld {#add-hint-text-to-a-form-field}
 
-# Tekst van tip toevoegen aan een formulierveld {#add-hint-text-to-a-form-field}
-
-Met de aanwijzingen en [instructies](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) kunnen mensen formulieren invullen. Hieronder wordt beschreven hoe u een tip toevoegt.
+Tips en [instructies](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) Help mensen formulieren in te vullen. Hieronder wordt beschreven hoe u een tip toevoegt.
 
 >[!NOTE]
 >
 >**Definitie**
 >
->Formulier **Tips** is tekst in het veld die verdwijnt wanneer de bezoeker in het veld begint te typen.
+>Formulier **Tips** Dit is tekst in het veld die verdwijnt wanneer de bezoeker in het veld begint te typen.
 >
->Formulier **Instructies** zijn kleine knopinfo die wordt weergegeven wanneer de bezoeker de cursor op het veld plaatst.
+>Formulier **Instructies** Dit zijn kleine knopinfo die wordt weergegeven wanneer de bezoeker de cursor op het veld plaatst.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -31,22 +30,22 @@ Met de aanwijzingen en [instructies](/help/marketo/product-docs/demand-generatio
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Selecteer het veld en voer uw **Tekst hint** in.
+1. Selecteer het veld en voer uw **Tekst hint**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. Klik **Voltooien**.
+1. Klikken **Voltooien**.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Klik **Goedkeuren en Sluiten**.
+1. Klikken **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 
    >[!NOTE]
    >
-   >Vergeet niet om [het concept van de bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) goed te keuren dat door de formulierwijzigingen is gemaakt.
+   >Vergeet niet om [goedkeuren, concept van bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) worden gemaakt door de formulierwijzigingen.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Kijk eens! Laten we nu enkele [instructies](add-tooltip-instructions-to-a-form-field.md) toevoegen.
+Kijk eens! Laten we doorgaan en wat toevoegen [instructies](add-tooltip-instructions-to-a-form-field.md) nu.

@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2359858
-description: Afbeeldingen en bestanden toevoegen aan Marketo - Marketo Docs - Productdocumentatie
-title: Afbeeldingen en bestanden toevoegen aan markeerteken
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+description: Afbeeldingen en bestanden toevoegen aan Marketo - Marketo-documenten - Productdocumentatie
+title: Afbeeldingen en bestanden toevoegen aan Marketo
+exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-
-# Afbeeldingen en bestanden toevoegen aan markeerteken {#add-images-and-files-to-marketo}
+# Afbeeldingen en bestanden toevoegen aan Marketo {#add-images-and-files-to-marketo}
 
 U kunt eenvoudig meerdere afbeeldingen en bestanden tegelijk toevoegen.
 
-1. Ga naar **Design Studio**.
+1. Ga naar de **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Klik onder **Nieuw** op **Afbeelding uploaden** of **Bestand**.
+1. Onder **Nieuw**, klikt u op **Afbeelding uploaden** of **Bestand**.
 
    ![](assets/image2014-9-15-18-3a5-3a33.png)
 
@@ -31,11 +30,11 @@ U kunt eenvoudig meerdere afbeeldingen en bestanden tegelijk toevoegen.
    >
    >De maximale grootte per bestand is 100 MB.
 
-1. Als u meerdere afbeeldingen en bestanden wilt toevoegen, bladert u naar de juiste map op de computer, drukt u op **Ctrl/Cmd** en klikt u op elk bestand dat u wilt toevoegen. Klik vervolgens op **Openen**.
+1. Als u meerdere afbeeldingen en bestanden wilt toevoegen, bladert u naar de juiste map op uw computer en drukt u op **Ctrl/Cmd** en klik op elk bestand dat u wilt toevoegen, en klik vervolgens op **Openen**.
 
    ![](assets/image2014-9-15-18-3a6-3a58.png)
 
-1. Vouw **Bestandsdetails** uit om te controleren of u de juiste afbeeldingen hebt geselecteerd en klik vervolgens op **Uploaden**.
+1. Breid uit **Bestandsdetails** om te controleren of u de juiste afbeeldingen hebt geselecteerd, klikt u op **Uploaden**.
 
    ![](assets/image2014-9-15-18-3a7-3a22.png)
 
@@ -59,7 +58,7 @@ Echt waar!
 
 >[!NOTE]
 >
->Marketo accepteert alle bestandstypen voor uploaden, maar alleen de belangrijkste afbeeldingstypen (JPG, PNG, GIF enzovoort) werkt in onze e-maileditor.
+>Hoewel Marketo alle bestandstypen accepteert voor uploaden, zijn alleen de belangrijkste afbeeldingstypen (JPG, PNG, GIF, enzovoort) toegestaan werkt in onze e-maileditor.
 
 >[!MORELIKETHIS]
 >

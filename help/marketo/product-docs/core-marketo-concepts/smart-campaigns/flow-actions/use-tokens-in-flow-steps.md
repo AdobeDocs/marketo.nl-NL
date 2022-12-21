@@ -16,7 +16,7 @@ ht-degree: 0%
 >
 >[Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-Een token is een variabele. Je gebruikt het in e-mails, landingspagina&#39;s en slimme campagnes om je leven makkelijker te maken. U kunt [Mijn tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (douanetokens) in stroomstappen, webhooks, e-mails, en landingspagina&#39;s gebruiken. U kunt tokens gebruiken om veranderlijke inhoud in deze stroomstappen te omvatten:
+Een token is een variabele. Je gebruikt het in e-mails, landingspagina&#39;s en slimme campagnes om je leven makkelijker te maken. U kunt [Mijn tokens](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) (aangepaste tokens) in stroomstappen, webhaken, e-mails en landingspagina&#39;s. U kunt tokens gebruiken om veranderlijke inhoud in deze stroomstappen te omvatten:
 
 * Gegevenswaarde wijzigen
 * Gegevens van programmalid wijzigen
@@ -25,13 +25,13 @@ Een token is een variabele. Je gebruikt het in e-mails, landingspagina&#39;s en 
 * Taak maken
 * Waarschuwing verzenden (alleen in triggercampagnes)
 
-1. Begin in de flowstap `{{` te typen om tokencategorieën op te halen.
+1. Begin met typen in de flowstap `{{` om tokencategorieën op te halen.
 
    ![](assets/image2014-9-22-14-3a3-3a17.png)
 
    >[!NOTE]
    >
-   >Bekijk [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) voor een lijst met verschillende beschikbare tokens.
+   >Uitchecken [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) voor een lijst met verschillende beschikbare tokens.
 
 1. Blijf typen totdat u het gewenste token hebt gevonden en klik om dit te selecteren.
 
@@ -43,7 +43,7 @@ Een token is een variabele. Je gebruikt het in e-mails, landingspagina&#39;s en 
 
    >[!NOTE]
    >
-   >Aangepaste veldtokens van programmalid kunnen worden gebruikt in: Creeer Taak, creeer Taak in Microsoft, Interessant Moments, de Acties van de Stroom van de Waarde van Gegevens van de Verandering, en Webhooks.
+   >Aangepaste veldtokens van programmalid kunnen worden gebruikt in: Maak een taak, maak een taak in Microsoft, Interessant momenten, wijzig de gegevenswaardehandelingen en Webhooks.
 
    Koel! De gegevens worden uit het token gehaald wanneer de slimme campagne wordt uitgevoerd.
 

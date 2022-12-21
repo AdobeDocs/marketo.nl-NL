@@ -2,18 +2,17 @@
 unique-page-id: 2359608
 description: De lettertypefamilie van het formulier wijzigen - Marketo Docs - Productdocumentatie
 title: De lettertypefamilie van het formulier wijzigen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
+# De lettertypefamilie van het formulier wijzigen {#change-the-form-font-family}
 
-# De lettertypefamilie {#change-the-form-font-family} wijzigen
-
-Google Fonts zijn geweldig, en we hebben ze direct in de formuliereditor gebouwd. Kijk eens!
+Google Fonts zijn geweldig en we hebben ze direct in de formuliereditor ingebouwd. Kijk eens!
 
 >[!NOTE]
 >
@@ -27,23 +26,23 @@ Google Fonts zijn geweldig, en we hebben ze direct in de formuliereditor gebouwd
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Selecteer **Instellingen** onder **Formulierinstellingen**.
+1. Onder **Formulierinstellingen**, selecteert u **Instellingen**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Selecteer **Lettertypefamilie** u wilt.
+1. Selecteer **Lettertypefamilie** wilt u.
 
    >[!TIP]
    >
-   >Er zijn een aantal [Google Fonts](https://www.google.com/fonts) beschikbaar voor gebruik.
+   >Een hoop [Google-lettertypen](https://www.google.com/fonts) beschikbaar voor gebruik.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Klik **Voltooien**.
+1. Klikken **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Klik **Goedkeuren en Sluiten**.
+1. Klikken **Goedkeuren en Sluiten**.
 
    >[!NOTE]
    >

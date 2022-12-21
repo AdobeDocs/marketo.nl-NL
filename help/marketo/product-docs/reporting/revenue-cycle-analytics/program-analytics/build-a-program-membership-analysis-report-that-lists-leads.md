@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2360405
-description: Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Leidt - Marketo DOS - de Documentatie van het Product
+description: Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Leidingen - Marketo Docs - de Documentatie van het Product opsomt
 title: Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Landen opsomt
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
-
-# Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat van LIJST {#build-a-program-membership-analysis-report-that-lists-leads} leidt
+# Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Landen opsomt {#build-a-program-membership-analysis-report-that-lists-leads}
 
 Ga als volgt te werk om een rapport van de Analyse van het Lidmaatschap van het Programma tot stand te brengen dat u alle namen van de programmaleden zal tonen.
 
@@ -23,11 +22,11 @@ Ga als volgt te werk om een rapport van de Analyse van het Lidmaatschap van het 
 
    ![](assets/one.png)
 
-1. Klik **Nieuw maken** dan **Rapport**.
+1. Klikken **Nieuw maken** dan **Rapport**.
 
    ![](assets/two.png)
 
-1. Selecteer **Analyse van het Lidmaatschap van het Programma** en klik **OK**.
+1. Selecteren **Analyse van het lidmaatschap van het programma** en klik op **OK**.
 
    ![](assets/three.png)
 
@@ -47,13 +46,13 @@ Zie hoe gemakkelijk dat was?
 
 ![](assets/seven.png)
 
-U kunt snel een loodattribuut zoals _Volledige Naam_ toevoegen om te zien wie de leden zijn.
+U kunt snel een doorloopkenmerk toevoegen, zoals _Volledige naam_ om te zien wie de leden zijn.
 
 >[!TIP]
 >
 >Er zijn genoeg lood/bedrijfattributen om van te kiezen. Bekijk ze!
 
-1. U kunt de **Volledige naam** gele stip zoeken en erop dubbelklikken.
+1. Zoeken en dubbelklikken op de knop **Volledige naam** gele stip.
 
    ![](assets/eight.png)
 

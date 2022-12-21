@@ -3,7 +3,6 @@ unique-page-id: 1147144
 description: Een nieuw e-mailprogramma maken in de planningweergave - Marketo Docs - Productdocumentatie
 title: Een nieuw e-mailprogramma maken in de overzichtsweergave
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '117'
@@ -27,7 +26,7 @@ U kunt een e-mailprogramma maken vanuit de programmaweergave van het programma. 
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Voer een naam in. Selecteer **E-mailprogramma**.
+1. Voer een naam in. Selecteren **E-mailprogramma**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,8 +34,8 @@ U kunt een e-mailprogramma maken vanuit de programmaweergave van het programma. 
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Stel uw e-](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) mailprogramma in en klik op  **Programma** goedkeuren.
+1. [Uw e-mailprogramma instellen](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) en klik op **Programma goedkeuren**.
 
    ![](assets/learnaboutthespeaker.png)
 
-   Naast het gedetailleerde dashboard, is een voordeel aan het gebruiken van een [e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) in plaats van een slimme campagne de capaciteit om een [A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) gemakkelijk uit te voeren. Veel plezier!
+   Naast het gedetailleerde dashboard, een voordeel aan het gebruiken van [e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md) in plaats van een slimme campagne is de mogelijkheid om een [A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md). Veel plezier!

@@ -3,7 +3,6 @@ unique-page-id: 2949178
 description: Werken met het SEO-dashboard -SEO Snapshot - Marketo Docs - Productdocumentatie
 title: SEO-dashboard begrijpen - SEO-momentopname
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '253'
@@ -15,11 +14,11 @@ ht-degree: 0%
 
 Gebruik het dashboard om een mening op hoog niveau van te krijgen hoe de sleutelwoordrang trending is en hoe goed uw plaats voor SEO wordt geoptimaliseerd.
 
-Als u wilt weten waarop u zich moet concentreren om uw SEO-inspanningen te verbeteren, gebruikt u de sectie [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) van dit dashboard.
+Als u wilt weten waarop u zich moet concentreren om uw SEO-inspanningen te verbeteren, gebruikt u de opdracht [Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) van dit dashboard.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
-## Samenvatting trefwoordgroep {#keyword-rank-summary}
+## Overzicht van trefwoordgroepen {#keyword-rank-summary}
 
 In deze sectie ziet u hoe uw site wordt gerangschikt voor de [trefwoorden waarop u zich richt](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
@@ -33,7 +32,7 @@ In deze sectie ziet u hoe uw site wordt gerangschikt voor de [trefwoorden waarop
 
 >[!TIP]
 >
->U kunt ook bekijken hoe een [specifieke lijst](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) van sleutelwoorden uitvoert. Klik op de vervolgkeuzelijst en selecteer welke voor u van belang is.
+>U kunt ook zien hoe een [specifieke lijst](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) van trefwoorden wordt uitgevoerd. Klik op de vervolgkeuzelijst en selecteer welke voor u van belang is.
 
 Roteren! Laten we doorgaan.
 
@@ -49,7 +48,7 @@ Het is gebaseerd op een compilatie van tientallen beste praktijken. Een score va
 >
 >U kunt ook de optimalisatiescore zien voor specifieke lijsten met pagina&#39;s. Gebruik de vervolgkeuzelijst en selecteer een optie die u interesseert.
 
-## Trends van trefwoordgroep {#keyword-rank-trends}
+## Trends trefwoordgroep {#keyword-rank-trends}
 
 De grafiek van de Trends van de Rank van het Sleutelwoord trekt uw sleutelwoorden met de vijf hoogste maandelijkse onderzoeksvolumes, en grafieken hoe zij in tijd rangschikken.
 

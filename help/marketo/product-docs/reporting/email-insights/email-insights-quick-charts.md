@@ -1,17 +1,16 @@
 ---
 unique-page-id: 10099415
-description: E-mailinzichten, snelle grafieken - Marketo-documenten - productdocumentatie
+description: E-mailinzichten, snel overzicht - Marketo Docs - Productdocumentatie
 title: E-mailinzichten, snelle grafieken
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 5c071694-af86-48bd-8159-f877c51364f2
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-
-# Snelle grafieken voor e-mailinzichten {#email-insights-quick-charts}
+# E-mailinzichten, snelle grafieken {#email-insights-quick-charts}
 
 Snelle grafieken zijn miniaturen die u kunt aanpassen en opslaan, zodat u snel kunt zien welke diagrammen u het meest gebruikt.
 
@@ -39,11 +38,11 @@ In dit voorbeeld kiezen we voor de eerste drie weken van februari 2016, in de st
 
    ![](assets/5.png)
 
-1. Klik rechts van het diagram op het exportpictogram en selecteer **Opslaan als snelle grafiek**.
+1. Klik rechts van het diagram op het exportpictogram en selecteer **Opslaan als snel diagram**.
 
    ![](assets/six.png)
 
-1. Geef een naam op voor de Snelle grafiek en klik op **Opslaan**.
+1. Geef een naam op voor uw snelle diagram en klik op **Opslaan**.
 
    ![](assets/seven.png)
 
@@ -61,19 +60,19 @@ In dit voorbeeld kiezen we voor de eerste drie weken van februari 2016, in de st
    >
    >U verplaatst een snel diagram door erop te klikken en het naar de gewenste positie te slepen.
 
-## Een snel diagram verwijderen {#delete-a-quick-chart}
+## Een snelle grafiek verwijderen {#delete-a-quick-chart}
 
 Wilt u een van uw snelle grafieken verwijderen? Het is gemakkelijk!
 
-1. Klik op het pictogram **Snelle grafieken**.
+1. Klik op de knop **Snelle grafieken** pictogram.
 
    ![](assets/nine.png)
 
-1. Houd de cursor boven het gewenste diagram, maar klik er niet op. Bij het aanwijzen wordt een X weergegeven. Klik **X**.
+1. Houd de cursor boven het gewenste diagram, maar klik er niet op. Bij het aanwijzen wordt een X weergegeven. Klik op de knop **X**.
 
    ![](assets/ten.png)
 
-1. Klik **Ok**.
+1. Klikken **OK**.
 
    ![](assets/eleven.png)
 

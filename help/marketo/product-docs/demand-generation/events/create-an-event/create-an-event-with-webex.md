@@ -28,10 +28,10 @@ Maak eerst een Webex-gebeurtenis in het Webex-gebeurteniscentrum. Marketo gebrui
 
 ## Basisinformatie {#basic-information}
 
-* **Event Name -** This name will be viewable in Marketo.
-* **Unlisted Checkbox**
+* **Naam gebeurtenis -** Deze naam wordt weergegeven in Marketo.
+* **Selectievakje voor Niet-weergegeven**
 
-   * It&#39;s recommended that you do **not** list your event. Hiermee zorgt u ervoor dat alle personen zich registreren via de Marketo-landingspagina. Personen die zich via een ander mechanisme dan Marketo registreren, worden in Marketo weergegeven nadat de gebeurtenis is voltooid EN alleen als zij de gebeurtenis hebben bijgewoond.
+   * Het wordt aanbevolen **niet** maak een lijst van uw gebeurtenis. Hiermee zorgt u ervoor dat alle personen zich registreren via de Marketo-landingspagina. Personen die zich via een ander mechanisme dan Marketo registreren, worden in Marketo weergegeven nadat de gebeurtenis is voltooid EN alleen als zij de gebeurtenis hebben bijgewoond.
    * Als u ervoor kiest om de gebeurtenis weer te geven, wordt deze op de pagina Lijst met gebeurtenissen weergegeven voor iedereen die de website van het gebeurteniscentrum bezoekt.
 
 * **Registratie -** Schakel dit selectievakje in als u &quot;required&quot; wilt instellen. U gebruikt een Marketo-formulier-/landingspagina om registratiegegevens vast te leggen die naar Webex worden verzonden.
@@ -67,7 +67,7 @@ De volgende opties worden gebruikt door of kunnen worden weergegeven in Marketo.
 
 ## Deelnemers en registratie {#attendees-registration}
 
-You will be controlling the invitation list, registration form, and other emails using a Marketo Event. Other functionality will not be supported by Marketo, including:
+U bestuurt de uitnodigingslijst, het registratieformulier en andere e-mails met een Marketo-gebeurtenis. Andere functionaliteit wordt niet ondersteund door Marketo, zoals:
 
 * **Maximum aantal registranten** - Momenteel **niet** ondersteund door de Marketo-Webex-integratie.  Handmatige goedkeuring van registranten is beschikbaar met de status In afwachting van goedkeuring in Marketo.
 
@@ -90,7 +90,7 @@ De informatie die in deze sectie wordt gevormd wordt niet overgegaan tot Marketo
 
 ### E-mailberichten {#email-messages}
 
-Met Marketo kunt u e-mails, bevestigingse-mails en dergelijke naar uw geregistreerde personen sturen. U hoeft niets in deze sectie te configureren. Disable (uncheck) the email message options within Webex.
+Met Marketo kunt u e-mails, bevestigingse-mails en dergelijke naar uw geregistreerde personen sturen. U hoeft niets in deze sectie te configureren. Schakel de opties voor e-mailberichten in Webex uit (hef de controle op).
 
 ![](assets/image2015-5-28-14-3a9-3a14.png)
 
@@ -144,7 +144,7 @@ Zoet! Uw Webex-gebeurtenis wordt nu gesynchroniseerd met uw Marketo-gebeurtenis.
 
 ## Het overzicht weergeven  {#viewing-the-schedule}
 
-In the program schedule view, click the calendar entry for your event. U kunt het schema aan de rechterkant van het scherm zien!
+Klik in de programmaweergave van het programma op de kalendervermelding voor de gebeurtenis. U kunt het schema aan de rechterkant van het scherm zien!
 
 ![](assets/image2015-5-14-16-3a21-3a41.png)
 

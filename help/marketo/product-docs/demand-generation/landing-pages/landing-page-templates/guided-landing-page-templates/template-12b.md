@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 12B {#template-12b}
 
-Klik met de rechtermuisknop op [Sjabloon 12B downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
+Klik met de rechtermuisknop om [downloadsjabloon 12B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12b.html)
 
 ![](assets/image2015-8-4-14-3a32-3a21.png)
 

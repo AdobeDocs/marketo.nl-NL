@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2949170
-description: Sla uw campagne op als een sjabloon - Marketo Docs - Productdocumentatie
+description: Uw campagne opslaan als een sjabloon - Marketo Docs - Productdocumentatie
 title: Uw campagne opslaan als een sjabloon
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
-
 
 # Uw campagne opslaan als een sjabloon {#save-your-campaign-as-a-template}
 
@@ -27,7 +26,7 @@ Heb je ooit tijd doorgebracht met het maken van de perfecte webcampagne? U kunt 
 
    ![](assets/my-campaign-edit.jpg)
 
-1. Schakel Use as template in en klik **Save**.
+1. Schakel Als sjabloon gebruiken in en klik op **Opslaan**.
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 

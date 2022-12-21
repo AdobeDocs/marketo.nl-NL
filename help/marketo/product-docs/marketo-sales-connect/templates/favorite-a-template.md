@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14352633
-description: Favoriet een sjabloon - Marketo Docs - Productdocumentatie
+description: Een sjabloon favorieten - Marketo Docs - Productdocumentatie
 title: Een sjabloon favorieten
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: f2697fff-5be3-4137-9a8d-8d8f338d9627
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-
-# Sjabloon {#favorite-a-template} favoriete
+# Een sjabloon favorieten {#favorite-a-template}
 
 U kunt sjablonen vanuit elke gewenste categorie toevoegen aan de lijst Favorieten. Hiermee wordt automatisch een nieuwe categorie boven aan de lijst gegenereerd, zodat u snel toegang kunt krijgen tot de sjablonen die u het meest gebruikt.
 

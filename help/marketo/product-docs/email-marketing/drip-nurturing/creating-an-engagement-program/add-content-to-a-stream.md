@@ -18,7 +18,7 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud toevoegen aan de 
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Selecteer uw serviceprogramma en ga naar het tabblad **Streams**.
+1. Selecteer uw serviceprogramma en ga naar de **Streams** tab.
 
    ![](assets/add-content-to-a-stream-2.png)
 
@@ -26,11 +26,11 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud toevoegen aan de 
 
 **Knop Inhoud toevoegen**
 
-1. Klik op de knop **Inhoud toevoegen**.
+1. Klik op de knop **Inhoud toevoegen** knop.
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Kies **E-mail** _of_ **Programma** en selecteer vervolgens de e-mail of programma/slimme campagne die u wilt toevoegen.
+1. Kies **E-mail** _of_ **Programma** Selecteer vervolgens het e-mailbericht of de programma-/slimme campagne die u wilt toevoegen.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -40,13 +40,13 @@ Nadat u uw betrokkenheidsprogramma hebt gemaakt, moet u inhoud toevoegen aan de 
 
 **+ Pictogram**
 
-1. Klik op het pictogram **+**, kies **Email** _of_ **Program** en selecteer vervolgens het e-mailbericht of de programma/slimme campagne die u wilt toevoegen.
+1. Klik op de knop **+** pictogram, kies **E-mail** _of_ **Programma** Selecteer vervolgens het e-mailbericht of de programma-/slimme campagne die u wilt toevoegen.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Een slimme campagne moet **Lid van het Programma van de Betrokkenheid** filter voor het bevatten behoorlijk werkt.
+   >Een slimme campagne moet de **Lid van het betrokkenheidsprogramma** voor het juiste functioneren.
 
 Geweldig werk! U weet nu hoe u inhoud kunt toevoegen aan uw programmastromen. Voeg zoveel toe als u nodig hebt voor uw verzorging. Zie het verwante artikel hieronder voor meer informatie.
 

@@ -2,26 +2,25 @@
 unique-page-id: 37356329
 description: Overzicht van geavanceerd zoeken - Marketo Docs - Productdocumentatie
 title: Overzicht van geavanceerd zoeken
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%
 
 ---
 
-
 # Overzicht van geavanceerd zoeken {#advanced-search-overview}
 
 Door de geavanceerde zoekopdracht te gebruiken voor het zoeken naar vooruitzichten die e-mails hebben weergegeven, erop hebben geklikt of erop hebben gereageerd, kunt u een gerichte lijst met uw meest betrokken vooruitzichten maken.
 
-## Hoe te om tot Geavanceerd Onderzoek {#how-to-access-advanced-search} toegang te hebben
+## Toegang tot geavanceerde zoekfunctie {#how-to-access-advanced-search}
 
-1. Klik **Command Center**.
+1. Klikken **Opdrachtcentrum**.
 
    ![](assets/one.png)
 
-1. Klik **E-mails**.
+1. Klikken **E-mails**.
 
    ![](assets/two.png)
 
@@ -29,7 +28,7 @@ Door de geavanceerde zoekopdracht te gebruiken voor het zoeken naar vooruitzicht
 
    ![](assets/three.png)
 
-1. Klik **Geavanceerd zoeken**.
+1. Klikken **Geavanceerd zoeken**.
 
    ![](assets/four.png)
 
@@ -105,7 +104,7 @@ Filters op e-mails die nooit zijn bezorgd.
 
 Hieronder wordt beschreven hoe u een opgeslagen zoekopdracht maakt.
 
-1. Nadat al uw filters op zijn plaats zijn, klik **sparen Filters als**.
+1. Klik op **Filters opslaan als**.
 
    ![](assets/save-search-1.png)
 

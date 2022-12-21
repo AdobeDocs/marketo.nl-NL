@@ -28,7 +28,7 @@ Een programma kan worden geïmporteerd van het ene Marketo-abonnement naar het a
 
 ## Meldingen {#notifications}
 
-Meldingen houden je up-to-date over systeemgebeurtenissen die plaatsvinden in je Marketo-abonnement. Bijvoorbeeld, zal het systeem u automatisch op de hoogte brengen wanneer een campagne ontbreekt of uw synchronisatie van CRM aandacht nodig heeft. Meldingen zijn beschikbaar op het tabblad Mijn Marketo. Bovendien kunt u zich op een bericht abonneren zodat u hen in echt - tijd, in uw e-mail kunt ontvangen.
+Meldingen houden je up-to-date over systeemgebeurtenissen die plaatsvinden in je Marketo-abonnement. Bijvoorbeeld, zal het systeem u automatisch op de hoogte brengen wanneer een campagne ontbreekt of uw synchronisatie van CRM aandacht nodig heeft. Meldingen zijn beschikbaar op het tabblad Mijn Marketo. Bovendien kunt u zich op een bericht abonneren zodat u hen in real time, in uw e-mail kunt ontvangen.
 
 ![](assets/image2014-9-23-10-3a46-3a53.png)
 

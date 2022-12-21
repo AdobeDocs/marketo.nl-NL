@@ -1,25 +1,24 @@
 ---
 unique-page-id: 12980105
-description: Gebruikers uitnodigen om toegang te krijgen tot accountinzicht - Marketo Docs - Productdocumentatie
+description: Gebruikers uitnodigen om hun accountgegevens te openen - Marketo Docs - Productdocumentatie
 title: Gebruikers uitnodigen om accountgegevens te openen
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-
-# Gebruikers uitnodigen om accountinzicht te openen {#invite-users-to-access-account-insight}
+# Gebruikers uitnodigen om accountgegevens te openen {#invite-users-to-access-account-insight}
 
 Voer de volgende stappen uit om gebruikers toegang te geven tot Account Insight.
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/admin-1.png)
 
-1. Klik **Gebruikers &amp; rollen** in de boom. Klik vervolgens op het tabblad **Verkoopgebruikers** en **Nieuwe verkoopgebruiker uitnodigen**.
+1. Klikken **Gebruikers en rollen** in de boom. Klik vervolgens op de knop **Verkopers** tab, en **Nieuwe verkoper uitnodigen**.
 
    ![](assets/two-6.png)
 
@@ -27,25 +26,25 @@ Voer de volgende stappen uit om gebruikers toegang te geven tot Account Insight.
 
    >[!NOTE]
    >
-   >Wanneer u nieuwe (niet-Marketo-)gebruikers uitnodigt via de gebruikerslijst van CRM, kunt u veelvoudige mensen tegelijkertijd uitnodigen. Uitnodigen per e-mail is 1 voor 1.
+   >Wanneer u nieuwe (niet-Marketo) gebruikers uitnodigt via de gebruikerslijst van CRM, kunt u meerdere personen tegelijk uitnodigen. Uitnodigen per e-mail is 1 voor 1.
 
-1. Klik **CRM Gebruiker** drop-down en selecteer de gewenste gebruiker.
+1. Klik op de knop **CRM-gebruiker** en selecteer de gewenste gebruiker.
 
    ![](assets/three-5.png)
 
    >[!NOTE]
    >
-   >Als u **Gebruiker via e-mail uitnodigen** kiest, voert u gewoon de voornaam, achternaam en het e-mailadres in en gaat u verder met stap 4.
+   >Als u **Gebruiker per e-mail uitnodigen** Voer gewoon hun voornaam, achternaam en e-mailadres in en ga verder met stap 4.
 
 1. Als u een vervaldatum voor de toegang van de gebruiker (optioneel) wilt instellen, klikt u op het kalenderpictogram. Het is standaard ingesteld op &quot;nooit&quot;.
 
    ![](assets/four-5.png)
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/five-5.png)
 
-1. Schakel het selectievakje **Account Insight** in en klik op **Next**.
+1. Controleer de **Account Insight** selectievakje en klik op **Volgende**.
 
    ![](assets/six-3.png)
 

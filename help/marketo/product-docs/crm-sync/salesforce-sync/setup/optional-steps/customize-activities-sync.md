@@ -3,7 +3,6 @@ unique-page-id: 4719294
 description: Activiteitssynchronisatie aanpassen - Marketo-documenten - productdocumentatie
 title: Activiteiten synchroniseren aanpassen
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '272'
@@ -11,25 +10,25 @@ ht-degree: 0%
 
 ---
 
-# Activiteitssynchronisatie aanpassen {#customize-activities-sync}
+# Activiteiten synchroniseren aanpassen {#customize-activities-sync}
 
 Als u Marketo Sales Insight niet gebruikt, kan Marketo voor bepaalde gebeurtenissen een Salesforce Activity History-overzicht maken. Hier is hoe je ze kunt inschakelen.
 
-1. Ga naar **Admin**.
+1. Ga naar **Beheer**.
 
    ![](assets/admin.png)
 
-1. Klik **Salesforce**, dan klik **geef de Opties van de Synchronisatie** uit.
+1. Klikken **Salesforce** en klik vervolgens op **Synchronisatieopties bewerken**.
 
    ![](assets/two-1.png)
 
-1. Schakel de selectievakjes in naast de activiteiten die door Marketo naar Salesforce moeten worden uitgevoerd en klik op **Opslaan**.
+1. Schakel de selectievakjes in naast de activiteiten die u op Marketo wilt uitvoeren en klik op **Opslaan**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Als Marketo eenmaal ingeschakeld is, wordt de activiteithistorie van drie maanden verlengd. Afhankelijk van de hoeveelheid gegevens kan _dit enkele dagen duren om te voltooien_. Updates die plaatsvinden tijdens de eerste activiteitenpush kunnen worden uitgesteld tot nadat de eerste activiteitensynchronisatie is voltooid.
+   >Als Marketo eenmaal ingeschakeld is, wordt de activiteithistorie van drie maanden verlengd. Afhankelijk van de hoeveelheid gegevens, _dit kan enkele dagen duren voordat de bewerking is voltooid_. Updates die plaatsvinden tijdens de eerste activiteitenpush kunnen worden uitgesteld tot nadat de eerste activiteitensynchronisatie is voltooid.
 
 <table> 
  <colgroup> 
@@ -89,15 +88,15 @@ Als u Marketo Sales Insight niet gebruikt, kan Marketo voor bepaalde gebeurtenis
   </tr> 
   <tr> 
    <td>Verkoop-e-mail ontvangen</td> 
-   <td>Een e-mail werd ontvangen en door de Verkoper in de Plug-in MSI Outlook geregistreerd</td> 
+   <td>Een e-mail werd ontvangen en door de Verkoper in de Insteekmodule van Vooruitzichten MSI geregistreerd</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!NOTE]
 >
->&quot;Ontvangen e-mail van de Verkoop&quot;betekent **niet** geleverde. De geleverde status wordt niet vastgelegd voor e-mails die via Verkoopcontrole worden verzonden.
+>&quot;E-mailadres van verkoper ontvangen&quot; doet dit **niet** gemiddeld afgeleverd. De geleverde status wordt niet vastgelegd voor e-mails die via Verkoopcontrole worden verzonden.
 
 >[!TIP]
 >
->Als u meer Marketo-informatie in Salesforce wilt opnemen, bekijkt u ons [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)-product.
+>Als je meer Marketo-informatie in Salesforce wilt krijgen, kun je onze [Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) product.

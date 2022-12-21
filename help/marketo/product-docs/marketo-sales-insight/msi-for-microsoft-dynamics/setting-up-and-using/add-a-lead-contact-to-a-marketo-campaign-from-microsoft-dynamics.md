@@ -1,21 +1,20 @@
 ---
 unique-page-id: 2953342
-description: Voeg een Lood/Contact aan een Campagne van de Marketo van de Dynamiek van Microsoft toe - Marketo Docs - de Documentatie van het Product
-title: Voeg een Lood/Contact aan een Campagne van de Marketo van de Dynamiek van Microsoft toe
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Een lead/contact toevoegen aan een Marketo-campagne vanuit Microsoft Dynamics - Marketo Docs - Productdocumentatie
+title: Een lead/contact toevoegen aan een Marketo-campagne vanuit Microsoft Dynamics
+exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
+# Een lead/contact toevoegen aan een Marketo-campagne vanuit Microsoft Dynamics {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
-# Voeg een Lood/Contact aan een Campagne van de Marketo van de Dynamiek van Microsoft toe {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
+U kunt snel en eenvoudig rechtstreeks vanuit Microsoft Dynamics leads/contactpersonen toevoegen aan Marketo Smart-campagnes. Zo gaat het.
 
-U kunt snel en gemakkelijk lood/contacten aan Marketo slimme campagnes direct van binnen de Dynamica van Microsoft toevoegen. Zo gaat het.
-
-1. Ga bij Dynamiek naar het gebied **Verkoop**.
+1. Ga in Dynamics naar de **Verkoop** gebied.
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -27,7 +26,7 @@ U kunt snel en gemakkelijk lood/contacten aan Marketo slimme campagnes direct va
 
    ![](assets/image2014-10-20-12-3a10-3a19.png)
 
-1. Klik **..** en selecteer **Toevoegen aan Marketo-campagne**.
+1. Klikken **...** en selecteert u **Toevoegen aan Marketo-campagne**.
 
    ![](assets/image2014-10-20-12-3a10-3a31.png)
 
@@ -37,6 +36,6 @@ U kunt snel en gemakkelijk lood/contacten aan Marketo slimme campagnes direct va
 
    >[!NOTE]
    >
-   >Voor de campagne om in drop-down te verschijnen, gebruik [**De Campagne wordt Gevraagd** trekker](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), met het Inzicht van de Verkoop als bron, wanneer u opstelling de campagne.
+   >Als u de campagne wilt weergeven in de vervolgkeuzelijst, gebruikt u de opdracht  [**Campagne is aangevraagd** trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), met Sales Insight als bron, wanneer u de campagne instelt.
 
-En dat zijn allemaal mensen! U hebt nu de macht van Marketo slimme campagnes in uw handen direct van Dynamica.
+En dat zijn allemaal mensen! U hebt nu de kracht van Marketo Smart-campagnes rechtstreeks vanuit Dynamics.

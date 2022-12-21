@@ -1,15 +1,14 @@
 ---
 unique-page-id: 4719340
-description: Sluit specifieke IPs van het worden gevolgd uit - Marketo Docs - de Documentatie van het Product
+description: Specifieke IP's uitsluiten van bijhouden - Marketo Docs - Productdocumentatie
 title: Specifieke IP's uitsluiten van bijhouden
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
-
 
 # Specifieke IP&#39;s uitsluiten van bijhouden {#exclude-specific-ips-from-being-tracked}
 
@@ -21,15 +20,15 @@ U kunt individuele IPs en geheel of een deel van een waaier van IPs uitsluiten.
 >
 >Dit proces kan maximaal vijf minuten duren.
 
-1. Meld u aan bij Persoonlijke instellingen voor het web en klik onder uw aanmelding op **Accountinstellingen**.
+1. Meld u aan bij Persoonlijke instellingen voor web en klik onder uw aanmelding op **Accountinstellingen**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Schuif omlaag naar **IP exclude** gebied. Als u IP adressen voor het eerst exclusief, klik op leeg **IP Adressen** gebied uitsluiten.
+1. Omlaag schuiven naar de **IP-uitsluiting** gebied. Als u IP adressen voor het eerst sluit, klik in leeg **IP-adressen uitsluiten** veld.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
-1. Ga individuele IP(s) of waaiers van IPs in u van het volgen en het melden wilt uitsluiten, en klik **sparen**.
+1. Ga individuele IP(s) of waaiers van IPs in u van het volgen en het melden wilt uitsluiten, en klik **Opslaan**.
 
    ![](assets/exclude-ips-form-hands.png)
 

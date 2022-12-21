@@ -24,12 +24,12 @@ De verpersoonlijking van het Web steunt nu veelvoudige werkruimten.
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Ondersteuning voor** SFDC-bliksem: Gebruikers die migreren naar of momenteel gebruikmaken van Lightning, kunnen MSE gebruiken voor een slimmere betrokkenheid tijdens de reis van de koper.
+* **Ondersteuning voor SFDC-bliksem**: Gebruikers die migreren naar of momenteel gebruikmaken van Lightning, kunnen MSE gebruiken voor een slimmere betrokkenheid tijdens de reis van de koper.
 
 * **Uitgebreide ondersteuning: Microsoft Office**
 
    * Outlook als leveringskanaal: Marketers kunnen nu Outlook gebruiken voor e-mailservices, waardoor de snelheid van de levering en de manier waarop ze reageren, worden verbeterd.
-   * Verbeteringen voor e-mailondersteuning van Office 365: De Ingenieur van de Verkoop van Marketo is direct beschikbaar in Vooruitzichten voor MAC, Vooruitzichten voor Vensters, en de Toepassing van het Web van Vooruitzichten voor Bureau 365 E-mailcliënten, die de Ingenieur van de Verkoop van Marketo gemakkelijker ter beschikking stellen aan alle gebruikers van het Bureau.
+   * Verbeteringen voor e-mailondersteuning van Office 365: De Ingenieur van de Verkoop van Marketo is direct beschikbaar in Vooruitzichten voor Mac, Vooruitzichten voor Vensters, en de Toepassing van het Web van Vooruitzichten voor Bureau 365 E-mailcliënten, die de Ingenieur van de Verkoop van Marketo gemakkelijker ter beschikking stellen aan alle gebruikers van het Bureau.
 
 * **Verbeterde aanmeldervaring voor beheerders en gebruikers**
 
@@ -37,7 +37,7 @@ De verpersoonlijking van het Web steunt nu veelvoudige werkruimten.
 
 ## Marketo Sky {#marketo-sky}
 
-Raadpleeg onze [Opmerkingen bij de release Sky](https://help.marketo.com) voor meer informatie en updates.
+Raadpleeg onze voor meer informatie en updates [Opmerkingen bij de release van Sky](https://help.marketo.com).
 
 * **Systeemupdates ontwerpen**
 
@@ -46,7 +46,7 @@ Raadpleeg onze [Opmerkingen bij de release Sky](https://help.marketo.com) voor m
 * Ontwerpverbeteringen voor boomnavigatie: doelgericht gebruik van kleur, duidelijkere typografie, nieuwe iconografie en badges voor snelle statuscontroles
 * Herontworpen overzichtsschermen voor programma
 
-* **Homepage** van marketingactiviteiten: Snel toegang tot algemene functies vanaf de startpagina voor marketingactiviteiten.
+* **Homepage van marketingactiviteiten**: Snel toegang tot algemene functies vanaf de startpagina voor marketingactiviteiten.
 
    * Voer specifieke acties uit (d.w.z. nieuwe programma&#39;s en slimme campagnes starten) en bekijk belangrijke informatie over huidige programma&#39;s, zoals programma&#39;s en campagnes die vandaag worden uitgevoerd, recent bijgewerkte programma&#39;s en middelen, en het totale aantal actieve triggercampagnes.
 
@@ -55,7 +55,7 @@ Raadpleeg onze [Opmerkingen bij de release Sky](https://help.marketo.com) voor m
 * OntwerpStudio-lijstweergaven: Gebruikers kunnen nu landingspaginasjablonen en e-mailsjablonen weergeven in de vorm van een lijstweergave, zodat ze snel kunnen navigeren en bulkacties kunnen uitvoeren op één elementtype.
 * Design Studio Asset-detailpagina&#39;s: Bespaar tijd en hoofdpijn door bulkacties op alle middelen op één plaats weer te geven, te organiseren en uit te voeren.
 * **Standaardprogramma&#39;s nu beschikbaar in Marketo Sky**: Marketo Sky ondersteunt nu standaardprogramma&#39;s, de veelzijdige programmastijl waarmee u elke campagne kunt maken die u zich kunt voorstellen.
-* **E-mailprogramma&#39;s - Fase 1**: U kunt nu e-mailprogramma&#39;s weergeven in Sky. Kijk naar het nieuwe ontwerp en [laat ons weten wat u denkt](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
+* **E-mailprogramma&#39;s - Fase 1**: U kunt nu e-mailprogramma&#39;s weergeven in Sky. Kijk naar het nieuwe ontwerp en [laten weten wat u denkt](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
 ## Analyse {#analytics}
 
@@ -83,7 +83,7 @@ Raadpleeg onze [Opmerkingen bij de release Sky](https://help.marketo.com) voor m
    * Waarschuwingspictogram: Het nieuwe waarschuwingspictogram geeft alle actieve waarschuwingen weer over problemen met de gegevenskwaliteit en instellingsmeldingen.
 
 * **Betrokkenheid per activiteitendatum**: Gebruikers kunnen kiezen om de metriek van de betrokkenheid per activiteitendatum of kostperiode weer te geven.
-* **ABM-accountfilters**: Filter de dashboards van de Pijpleiding en van de Inkomsten door specifieke Benoemde Rekeningen.
+* **ABM-accountfilters met naam**: Filter de dashboards van de Pijpleiding en van de Inkomsten door specifieke Benoemde Rekeningen.
 
 ## Advertentienetwerken {#ad-networks}
 

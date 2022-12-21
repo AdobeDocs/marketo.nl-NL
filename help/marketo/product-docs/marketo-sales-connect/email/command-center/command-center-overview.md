@@ -2,14 +2,13 @@
 unique-page-id: 14352530
 description: Overzicht van Command Center - Marketo Docs - Productdocumentatie
 title: Overzicht van Command Center
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%
 
 ---
-
 
 # Overzicht van Command Center {#command-center-overview}
 
@@ -53,7 +52,7 @@ In de sectie E-mail krijgt u een vogeloogweergave in al uw e-mails en wordt de o
   <tr> 
    <td title="Achtergrondkleur: Grijs"><br></td> 
    <td title="Achtergrondkleur: Grijs">Concept</td> 
-   <td title="Achtergrondkleur: Grijs"><p>E-mails die zijn opgeslagen als concept.<br><strong>Opmerking: </strong> Alleen enkele e-mails kunnen als concepten worden opgeslagen. E-mails met opsommingstekens (e-mails selecteren en verzenden en e-mails per groep) worden niet opgeslagen als concepten.</p></td> 
+   <td title="Achtergrondkleur: Grijs"><p>E-mails die zijn opgeslagen als concept.<br><strong>Opmerking:</strong> U kunt slechts één e-mail opslaan als concepten. E-mails met opsommingstekens (e-mails selecteren en verzenden en e-mails per groep) worden niet opgeslagen als concepten.</p></td> 
   </tr> 
   <tr> 
    <td title="Achtergrondkleur: Grijs"><br></td> 
@@ -68,12 +67,12 @@ In de sectie E-mail krijgt u een vogeloogweergave in al uw e-mails en wordt de o
   <tr> 
    <td title="Achtergrondkleur: Blauw"><br></td> 
    <td title="Achtergrondkleur: Blauw">Afgekeerd</td> 
-   <td title="Achtergrondkleur: Blauw"><p>E-mails die van de e-mailserver van de ontvangers zijn geweigerd. <br><strong>Opmerking: </strong> dit wordt alleen gedetecteerd als u een verouderde ToutApp-gebruiker bent en als leveringskanaal toegang hebt tot MSC-servers.</p></td> 
+   <td title="Achtergrondkleur: Blauw"><p>E-mails die van de e-mailserver van de ontvangers zijn geweigerd. <br><strong>Opmerking:</strong> Dit wordt alleen gedetecteerd als u een oudere ToutApp-gebruiker bent en als leveringskanaal toegang hebt tot MSC-servers.</p></td> 
   </tr> 
   <tr> 
    <td title="Achtergrondkleur: Blauw"><br></td> 
    <td title="Achtergrondkleur: Blauw">Spam</td> 
-   <td title="Achtergrondkleur: Blauw"><p>E-mails die door de ontvanger handmatig als spam zijn gemarkeerd.<br><strong>Opmerking: </strong> dit wordt alleen gedetecteerd als u een verouderde ToutApp-gebruiker bent en als leveringskanaal toegang hebt tot MSC-servers.</p></td> 
+   <td title="Achtergrondkleur: Blauw"><p>E-mails die door de ontvanger handmatig als spam zijn gemarkeerd.<br><strong>Opmerking:</strong> Dit wordt alleen gedetecteerd als u een oudere ToutApp-gebruiker bent en als leveringskanaal toegang hebt tot MSC-servers.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -84,7 +83,7 @@ De taaksectie is uw one-stop shop voor het beheren van en het voltooien van take
 
 ![](assets/command-center-overview-2.png)
 
-## Follow-up met vooruitzichten voor betrokkenheid {#follow-up-with-engaged-prospects}
+## Follow-up met vooruitzichten voor deelnemers {#follow-up-with-engaged-prospects}
 
 Zodra u met uw vooruitzichten via samenstellen venster of campagnes bent begonnen in dienst te nemen, kunt u beginnen om de meest betrokken vooruitzichten opnieuw te richten door de geavanceerde onderzoeksfunctionaliteit te gebruiken.
 

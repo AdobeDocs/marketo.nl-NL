@@ -4,7 +4,7 @@ title: Snelle handelingen in het Command Center
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -85,7 +85,7 @@ Snelle acties via e-mail zijn dynamisch en worden bijgewerkt, afhankelijk van de
 
 ![](assets/quick-actions-in-the-command-center-1.png)
 
-| Functie | Beschrijving |
+| -functie | Beschrijving |
 |---|---|
 | Vervolgmail verzenden | Hiermee opent u het samenstellingsvenster met de geselecteerde inline-e-mailtekst, die klaar is om naar de ontvanger te worden verzonden. |
 | Vraag maken | Opent de verkooptelefoon om een vraag aan de e-mailontvanger te maken. |

@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2359861
-description: Raadpleeg de leden van een betrokkenheidsprogramma - Marketo Docs - Productdocumentatie
+description: Bekijk de leden van een betrokkenheidsprogramma - Marketo Docs - Productdocumentatie
 title: Leden van een betrokkenheidsprogramma bekijken
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-
-# Zie Leden van een betrokkenheidsprogramma {#see-members-of-an-engagement-program}
+# Leden van een betrokkenheidsprogramma bekijken {#see-members-of-an-engagement-program}
 
 U kunt snel leden van een betrokkenheidsprogramma zien. Zo gaat het.
 
-1. Klik in uw betrokkenheidsprogramma met de rechtermuisknop en selecteer **Leden weergeven**.
+1. Klik met de rechtermuisknop in uw betrokkenheidsprogramma en selecteer **Leden weergeven**.
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >De [Uitgebreide inhoud](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) kolomwaarde wordt bijgewerkt na elke gietvorm.
+   >De  [Uitgebreide inhoud](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) de kolomwaarde wordt bijgewerkt na elke gietvorm.
 
 1. U kunt nu alle leden van uw programma zien.
 

@@ -2,16 +2,15 @@
 unique-page-id: 10100644
 description: De knop Bericht in de app instellen - Marketo Docs - Productdocumentatie
 title: De knop Bericht in de app instellen
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
-
-# De knop Bericht in de toepassing {#set-up-the-in-app-message-button} instellen
+# De knop Bericht in de app instellen {#set-up-the-in-app-message-button}
 
 U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste knopafbeelding uploaden.
 
@@ -19,11 +18,11 @@ U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste k
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Als u de kleur voor de standaardknop wilt wijzigen, klikt u op de knop **Kleur**.
+1. Als u de kleur voor de standaardknop wilt wijzigen, klikt u op de knop **Kleur** knop.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
-1. Klik op het vierkantje voor kleurselectie en selecteer de knopkleur door erop te klikken of voer de hexadecimale of RGB-nummers in op de kleurkiezer.
+1. Klik op het vierkantje voor kleurselectie en selecteer de knopkleur door erop te klikken of typ de hexadecimale waarde of de RGB-waarde in de kleurkiezer.
 
    ![](assets/image2016-5-6-15-3a14-3a8.png)
 
@@ -35,7 +34,7 @@ U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste k
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Kies de afbeelding en klik op **Select**.
+1. Kies de afbeelding en klik op **Selecteren**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -43,7 +42,7 @@ U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste k
    >
    >Wanneer u een aangepaste afbeelding voor de knop plaatst, kunt u overwegen de plaatsaanduidingstekst erboven te wissen als de afbeelding al tekst bevat.
 
-1. Klik op het vierkantje voor kleurselectie en selecteer vervolgens de fontkleur door erop te klikken of door Hex- of RGB-nummers in te voeren in de kleurkiezer.
+1. Klik op het vierkantje voor kleurselectie en selecteer de fontkleur door erop te klikken of door Hex- of RGB-nummers in te voeren in de kleurkiezer.
 
    ![](assets/image2016-5-6-16-3a39-3a4.png)
 
@@ -71,7 +70,7 @@ U kunt het standaardknopontwerp gebruiken, dit wijzigen of uw eigen aangepaste k
    >
    >De knop heeft altijd een tikactie, zodat het selectievakje Actie tikken automatisch is ingeschakeld, met het standaardbericht &quot;Bericht negeren&quot;.
 
-Bijna. Uw laatste stap bestaat uit het configureren van [de achtergrond van uw bericht in de app en het negeren van de knop](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Bijna. Uw laatste stap is: [de achtergrond van uw bericht in de app configureren en de knop Afwijzen](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >

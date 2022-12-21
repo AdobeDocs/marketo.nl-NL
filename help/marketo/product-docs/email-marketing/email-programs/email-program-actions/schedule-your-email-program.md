@@ -2,28 +2,25 @@
 unique-page-id: 2359455
 description: Uw e-mailprogramma plannen - Marketo Docs - Productdocumentatie
 title: Uw e-mailprogramma plannen
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-
-# Uw e-mailprogramma {#schedule-your-email-program} plannen
+# Uw e-mailprogramma plannen {#schedule-your-email-program}
 
 >[!PREREQUISITES]
 >
 >* [Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Een publiek definiëren met een slimme ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) listener  [Een publiek definiëren door een lijst te importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-
-   >
-   >
-* [Kies een bestaande ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) e-mailprovider  [Een e-mailbericht maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Een publiek definiëren met een slimme lijst](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) of [Een publiek definiëren door een lijst te importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>
+>* [Bestaande e-mail kiezen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of [Een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
 
-Als uw e-mailprogramma is gemaakt, het publiek is gedefinieerd en e-mail is geselecteerd, kunt u *wanneer* uw programma de e-mail sturen. Zo gaat het.
+Als uw e-mailprogramma is gemaakt, het publiek is gedefinieerd en e-mail is geselecteerd, kunt u het programma op de hoogte stellen *wanneer* om de e-mail te verzenden. Zo gaat het.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -33,7 +30,7 @@ Als uw e-mailprogramma is gemaakt, het publiek is gedefinieerd en e-mail is gese
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Stel de datum in onder de tegel **Schema**.
+1. Onder de **Schema** tegel, de datum instellen.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -41,11 +38,11 @@ Als uw e-mailprogramma is gemaakt, het publiek is gedefinieerd en e-mail is gese
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. U kunt er ook voor kiezen om de functies [Ontvangertijdzone](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) en/of [Begin](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) te gebruiken.
+1. U kunt er ook voor kiezen om de [Tijdzone ontvanger](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) en/of [Begin kop](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) functies.
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   Hoe makkelijk was dat? Het enige wat er nog over is, is om een e-mailprogramma ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) goed te keuren en u kunt er goed aan doen.[
+   Hoe makkelijk was dat? Het enige wat nog over is, is: [een e-mailprogramma goedkeuren](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) en je bent goed om te gaan.
 
 >[!MORELIKETHIS]
 >

@@ -2,20 +2,19 @@
 unique-page-id: 2360030
 description: Een rapport verwijderen - Marketo Docs - Productdocumentatie
 title: Een rapport verwijderen
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
+# Een rapport verwijderen {#delete-a-report}
 
-# Een rapport {#delete-a-report} verwijderen
+Zodra u begint [rapporten maken](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)Je kunt er snel een hoop van krijgen. Vergeet niet rapporten te verwijderen die u niet meer nodig hebt.
 
-Zodra u [creërend rapporten](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) begint, kunt u snel met veel van hen eindigen. Vergeet niet rapporten te verwijderen die u niet meer nodig hebt.
-
-1. Klik met de rechtermuisknop op het overbodige rapport in de structuur en selecteer **Rapport verwijderen**.
+1. Klik met de rechtermuisknop op het ongewenste rapport in de structuur en selecteer **Rapport verwijderen**.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 

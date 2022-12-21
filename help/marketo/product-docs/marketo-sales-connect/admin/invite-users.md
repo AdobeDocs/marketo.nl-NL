@@ -3,7 +3,6 @@ unique-page-id: 14352402
 description: Gebruikers uitnodigen - Marketo Docs - Productdocumentatie
 title: Gebruikers uitnodigen
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
-translation-type: tm+mt
 source-git-commit: 20ccc6ba2b26b869776ed88ed6fe76a67f74400a
 workflow-type: tm+mt
 source-wordcount: '60'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Gebruikers {#invite-users} uitnodigen
+# Gebruikers uitnodigen {#invite-users}
 
 Gebruikers toevoegen is snel en eenvoudig!
 
@@ -19,11 +18,11 @@ Gebruikers toevoegen is snel en eenvoudig!
 
    ![](assets/one.png)
 
-1. Selecteer **Gebruikersbeheer** onder Beheerinstellingen.
+1. Selecteer onder Beheerinstellingen de optie **Gebruikersbeheer**.
 
    ![](assets/invite-team-members-2.png)
 
-1. Klik **Gebruikers uitnodigen**.
+1. Klikken **Gebruikers uitnodigen**.
 
    ![](assets/invite-team-members-3.png)
 
@@ -35,6 +34,6 @@ Gebruikers toevoegen is snel en eenvoudig!
    >
    >Door gebrek, zullen alle nieuwe leden aan het Iedereen team worden toegevoegd.
 
-1. Klik **OK**.
+1. Klikken **OK**.
 
    ![](assets/five.png)

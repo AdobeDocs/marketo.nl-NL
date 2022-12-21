@@ -3,7 +3,6 @@ unique-page-id: 2949186
 description: SEO - Het gebruiken van de boor van het Detail van de Pagina neer - de Documenten van Marketo - de Documentatie van het Product
 title: SEO - De boor Page Detail Down gebruiken
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '279'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# SEO - De boor van het Detail van de Pagina onderaan {#seo-using-the-page-detail-drill-down} gebruiken
+# SEO - De boor Page Detail Down gebruiken {#seo-using-the-page-detail-drill-down}
 
 U kunt veel informatie over uw pagina&#39;s zien met de diepteboor van de pagina.
 
@@ -44,9 +43,9 @@ U kunt veel informatie over uw pagina&#39;s zien met de diepteboor van de pagina
 | Facebook Likes | Aantal keren dat deze pagina-share is gevonden op Facebook. |
 | Facebook Kliks | Aantal klikken van het aandeel van Facebook. |
 
-## Trefwoord(en) waarvoor de pagina is geoptimaliseerd voor {#keyword-s-that-page-is-optimized-for}
+## Trefwoord(en) waarvoor de pagina is geoptimaliseerd  {#keyword-s-that-page-is-optimized-for}
 
-In dit geval [selecteert u welk trefwoord u wilt optimaliseren voor de pagina voor](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
+Dit is waar u [Selecteer het trefwoord waarvoor u de pagina wilt optimaliseren](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md).
 
 >[!NOTE]
 >

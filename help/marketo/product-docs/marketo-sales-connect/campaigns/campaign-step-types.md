@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14746690
-description: Typen de Stap van de campagne - Marketo Docs - de Documentatie van het Product
+description: Typen campagnegappen - Marketo Docs - Productdocumentatie
 title: Typen campagneringstap
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
-
 
 # Typen campagneringstap {#campaign-step-types}
 
@@ -31,9 +30,9 @@ Stel een nieuw e-mailbericht samen of gebruik een bestaande sjabloon.
 
 >[!TIP]
 >
->Leer de details over uw [verzendende opties](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>Meer informatie over uw [verzendopties](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
-## {#call} aanroepen
+## Bellen {#call}
 
 Plaats een herinnering aan follow-up met een contact via telefoon. U kunt nota&#39;s ook bewaren die als besprekingsspoor tijdens de vraag moeten worden gebruikt.
 

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 4718640
-description: Het begrip van het Gebied van de Analyse van het Lidmaatschap van het Programma - Marketo Docs - de Documentatie van het Product
+description: Inzicht in het gebied van de Analyse van het Lidmaatschap van het Programma - de Documenten van Marketo - de Documentatie van het Product
 title: Inzicht in het analysegebied van het lidmaatschap van het programma
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-
-# Het begrip van het Gebied van de Analyse van het Lidmaatschap van het Programma {#understanding-the-program-membership-analysis-area}
+# Inzicht in het analysegebied van het lidmaatschap van het programma {#understanding-the-program-membership-analysis-area}
 
 Op het gebied van de analyse van het lidmaatschap van het programma kunt u de doeltreffendheid van individuele programma&#39;s analyseren of samengevatte resultaten per kanaal voor een bepaalde periode zien.
 
-## Voorbeeld van zakelijke vragen {#example-business-questions}
+## Voorbeelden van zakelijke vragen {#example-business-questions}
 
 Hoeveel mensen namen per kanaal deel aan een programma in een bepaalde maand?
 
@@ -29,7 +28,7 @@ Hoeveel nieuwe namen produceerde elk programma/kanaal per maand?
 
 ![](assets/three-2.png)
 
-## Dimension en maatregelen voor de analyse van programmamateriaal {#program-membership-analysis-dimensions-and-measures}
+## Dimension en maatregelen voor de analyse van programmamakers {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -50,7 +49,7 @@ Hoeveel nieuwe namen produceerde elk programma/kanaal per maand?
 | Programmakanaal | Programmakanaal |
 | Programmanaam | Programmanaam |
 
-### Tijdskader voor programmamededeling {#program-membership-timeframe}
+### Tijdschema voor programmamededeling {#program-membership-timeframe}
 
 | Dimension | Beschrijving |
 |---|---|

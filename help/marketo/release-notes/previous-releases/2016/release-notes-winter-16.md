@@ -16,7 +16,7 @@ De volgende functies zijn opgenomen in de release van Winter &#39;16. Klik op de
 
 ## [Is een anonieme filter](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Het filter Is anoniem is verwijderd voor slimme lijsten. Zie [Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) voor meer informatie. Deze verandering beïnvloedt geen Personalisatie van het Web (RTP), die anonieme en bekende Webbezoekers blijft identificeren en inhoud in real time aan deze bezoekers personaliseren.
+Het filter Is anoniem is verwijderd voor slimme lijsten. Zie de [Veelgestelde vragen over het bijhouden van Munchkin van de volgende generatie](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) voor meer informatie. Deze verandering beïnvloedt geen Personalisatie van het Web (RTP), die anonieme en bekende Webbezoekers blijft identificeren en inhoud in real time aan deze bezoekers personaliseren.
 
 ## [Databasedashboard](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
 
@@ -26,11 +26,11 @@ De Lead-database heeft een bijgewerkt overzichtdashboard met de totale databaseg
 
 ## [Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-We hebben Microsoft Edge toegevoegd aan de [lijst met browsers](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) die door Marketo worden ondersteund.
+We hebben Microsoft Edge toegevoegd aan de [lijst met browsers](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) ondersteund door Marketo.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)  wordt nu ondersteund.
+[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) wordt nu ondersteund.
 
 ## [Start van e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
@@ -48,7 +48,7 @@ Als u deze functie wilt gebruiken, moet het e-mailprogramma minimaal 12 uur van 
 
 ## [Verbeteringen voor mobiele marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**PhoneGap-ondersteuning:** We bieden nu PhoneGap-ondersteuning voor uw mobiele app. [Meer](https://developers.marketo.com/documentation/mobile/phonegap-plugin/) informatie.
+**PhoneGap-ondersteuning:** We bieden nu PhoneGap-ondersteuning voor uw mobiele app. [Meer informatie](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Ondersteuning voor Sandbox-apps**:
 
@@ -58,7 +58,7 @@ Als u deze functie wilt gebruiken, moet het e-mailprogramma minimaal 12 uur van 
 
 U kunt programma&#39;s maken, bijwerken en klonen via de REST API. Hieronder vallen niet het maken of bijwerken van slimme lijsten en slimme campagnes binnen een programma.
 
-## [Verbeteringen voor Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
+## [Verbeteringen voor Microsoft-dynamiek](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
 **[Synchronisatiestatus](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Houd tabbladen bij de huidige doorvoer en achterstand van het synchronisatieproces. Breek de waarde af op basis van het aantal ingevoegde en bijgewerkte gegevens per object.
 
@@ -76,7 +76,7 @@ U kunt nu vele-aan-vele verhoudingen tussen Leads/Rekeningen en een douanevoorwe
 
 ## [Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Facebook Lead ](https://www.facebook.com/business/a/lead-ads) is een directere manier voor een bedrijf om leidende generatiecampagnes op Facebook te voeren. Personen vullen een formulier in om hun belangstelling voor een product of service kenbaar te maken, zodat het bedrijf hierop kan reageren. De Marketo-integratie met Facebook Lead Ads legt automatisch de informatie vast die via een lead in het advertentieformulier wordt verschaft. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe trigger Facebook Lead Ads invullen.
+[Facebook Lead-advertenties](https://www.facebook.com/business/a/lead-ads) zijn een directere manier voor een bedrijf om leidende generatiecampagnes op Facebook te leiden. Personen vullen een formulier in om hun belangstelling voor een product of service kenbaar te maken, zodat het bedrijf hierop kan reageren. De Marketo-integratie met Facebook Lead Ads legt automatisch de informatie vast die via een lead in het advertentieformulier wordt verschaft. Vervolgacties en meldingen kunnen vervolgens worden geautomatiseerd met de nieuwe trigger Facebook Lead Ads invullen.
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 

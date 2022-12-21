@@ -2,18 +2,17 @@
 unique-page-id: 7512252
 description: Een mobiele app toevoegen - Marketo Docs - Productdocumentatie
 title: Een mobiele app toevoegen
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
+# Een mobiele app toevoegen {#add-a-mobile-app}
 
-# Een mobiele toepassing toevoegen {#add-a-mobile-app}
-
-Verzend pushberichten naar uw klantenbasis door uw mobiele app aan te sluiten met Marketo.
+Verzend pushberichten naar uw klantenbasis door uw mobiele app te verbinden met Marketo.
 
 Apps beginnen normaal uit in een zandbakmilieu, waar de aanvankelijke ontwikkeling en het testen worden uitgevoerd. Ontwikkelaars gebruiken vervolgens een productieomgeving om de uiteindelijke app te maken die door klanten wordt gebruikt. U moet het juiste berichtcertificaat selecteren wanneer u een mobiele app toevoegt (zie stap 4 hieronder).
 
@@ -22,19 +21,19 @@ Apps beginnen normaal uit in een zandbakmilieu, waar de aanvankelijke ontwikkeli
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Klik **Mobiele toepassingen en apparaten**.
+1. Klikken **Mobiele apps en apparaten**.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-1. Klik **Nieuwe mobiele toepassing**.
+1. Klikken **Nieuwe mobiele toepassing**.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Voer een naam in. In **Type** drop-down, selecteer het type van milieu u gebruikt-zandbak of Productie. Klik **Opslaan**.
+1. Voer een naam in. In de **Type** drop-down, selecteer het type van milieu u gebruikt-zandbak of Productie. Klikken **Opslaan**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 

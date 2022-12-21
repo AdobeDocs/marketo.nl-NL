@@ -52,7 +52,7 @@ Nu, kunt u rekeningsteams aan genoemde rekeningen in Account Based Marketing (AB
 
 **REST API**
 
-Met deze release kunt u ook benoemde accountkenmerken en accountscores in ABM beheren met de Marketo REST API. Meer informatie over de API-bewerkingen vindt u op de [Marketo Developers-website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+Met deze release kunt u ook benoemde accountkenmerken en accountscores in ABM beheren met de Marketo REST API. Ga voor meer informatie over de API-bewerkingen naar de [Marketo Developers-website](https://developers.marketo.com/rest-api/lead-database/named-accounts).
 
 ## [Verbeteringen audittrail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -66,11 +66,11 @@ Gone is de dagen dat u zich zorgen moest maken over het verzenden van transactie
 
 **Campagnebeperkingen bewerken**
 
-Waarom [campagnebeperkingen ](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) plaatsen als u hen niet kunt afdwingen? Wanneer u de Montages van de Grens van de Campagne plaatst om het aantal mensen in uw gegevensbestand te beperken die met één enkele campagne kunnen worden gericht, hebt u nu de capaciteit om te beperken welke gebruikers deze montages kunnen met voeten treden wanneer het plannen van een campagne.
+Waarom instellen [campagnebeperkingen](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) als je ze niet kunt afdwingen? Wanneer u de Montages van de Grens van de Campagne plaatst om het aantal mensen in uw gegevensbestand te beperken die met één enkele campagne kunnen worden gericht, hebt u nu de capaciteit om te beperken welke gebruikers deze montages kunnen met voeten treden wanneer het plannen van een campagne.
 
 ## [Geluid voor mobiele pushberichten](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
-Maak uw iOS-pushmelding rijker door geluid in te schakelen. Met deze nieuwe functie kunt u een geluid activeren wanneer pushmelding wordt weergegeven op het mobiele apparaat.
+Maak uw iOS Push Notification nog rijker door geluid in te schakelen. Met deze nieuwe functie kunt u een geluid activeren wanneer pushmelding wordt weergegeven op het mobiele apparaat.
 
 >[!NOTE]
 >
@@ -82,7 +82,7 @@ Maak uw iOS-pushmelding rijker door geluid in te schakelen. Met deze nieuwe func
 
 ## [Verkoopinzicht compatibel met Salesforce Encryption](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Marktverkoopcontrole is nu compatibel met Salesforce Shield Encryption. Alle klanten van het Inzicht van de Verkoop zouden aan dit recentste beheerde pakket (versie 1.4359.2) moeten bevorderen, dat [beschikbaar op Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) is.
+Marktverkoopcontrole is nu compatibel met Salesforce Shield Encryption. Alle klanten van het Inzicht van de Verkoop zouden aan dit recentste beheerde pakket (versie 1.4359.2) moeten bevorderen, dat is [beschikbaar op Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
 ## [API&#39;s voor benoemde accounts](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 

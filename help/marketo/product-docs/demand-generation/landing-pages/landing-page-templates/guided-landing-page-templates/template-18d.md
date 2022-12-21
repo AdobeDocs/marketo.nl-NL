@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 18D {#template-18d}
 
-Klik met de rechtermuisknop op [Sjabloon 18D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
+Klik met de rechtermuisknop om [downloadsjabloon 18D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18d.html)
 
 ![](assets/image2015-8-17-18-3a21-3a27.png)
 

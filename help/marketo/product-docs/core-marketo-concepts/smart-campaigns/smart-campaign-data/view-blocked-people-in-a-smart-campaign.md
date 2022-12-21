@@ -3,7 +3,6 @@ unique-page-id: 1147062
 description: Geblokkeerde personen weergeven in een slimme campagne - Marketo Docs - Productdocumentatie
 title: Geblokkeerde personen weergeven in een slimme campagne
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '189'
@@ -19,13 +18,13 @@ Geblokkeerde personen in de Marketo-database worden gemarkeerd als op de lijst m
 >
 >Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van gewezen personen en de Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
 
-1. In uw slimme campagne, klik op **Programma**. Klik onder **Status slimme lijst** op de tweede koppeling.
+1. Klik in uw slimme campagne op **Schema**. Onder **Status slimme lijst** klik op de tweede koppeling .
 
    ![](assets/image2014-9-22-16-3a47-3a38.png)
 
    >[!NOTE]
    >
-   >Personen die hun communicatielimieten hebben bereikt, kunnen ook worden verhinderd om berichten te ontvangen. Leer hoe u communicatielimieten [kunt bewerken in de sectie Admin.](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)
+   >Personen die hun communicatielimieten hebben bereikt, kunnen ook worden verhinderd om berichten te ontvangen. Leer hoe u [communicatielimieten bewerken](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) in de sectie Beheer.
 
    Op het tabblad Geblokkeerde personen worden personen weergegeven die mogelijk geen berichten ontvangen.
 

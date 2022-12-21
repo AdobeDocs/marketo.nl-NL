@@ -2,7 +2,6 @@
 description: Gegevens voor leden van het programma wijzigen - Marketo Docs - Productdocumentatie
 title: Gegevens van programmalid wijzigen
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '140'
@@ -18,7 +17,7 @@ U kunt Marketo gebruiken om de waarde van een veld bij te werken met de actie Ge
 >
 >U kunt ook blokkeren dat een veld wordt bijgewerkt. Zie Updates blokkeren voor meer informatie.
 
-1. Breng in het tabblad Stroom van uw slimme campagne de **programmagegevens wijzigen** en kies het gewenste programma.
+1. Breng in het tabblad Stroom van uw slimme campagne de cursor over de **Gegevens van programmalid wijzigen** en kies het gewenste programma.
 
    ![](assets/change-program-member-data-1.png)
 

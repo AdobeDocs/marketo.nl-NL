@@ -1,17 +1,16 @@
 ---
 unique-page-id: 37357302
-description: E-mailkolommen en indeling van e-mailpagina - Marketo Docs - Productdocumentatie
+description: E-mailkolommen en indeling van e-mailpagina - Marketo-documenten - Productdocumentatie
 title: E-mailkolommen en indeling van e-mailpagina
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 0%
 
 ---
 
-
-# E-mailkolommen en e-mailpaginalayout {#email-columns-and-email-page-layout}
+# E-mailkolommen en indeling van e-mailpagina {#email-columns-and-email-page-layout}
 
 U kunt om het even welke beschikbare kolommen vormen om in de e-mailsectie van het Centrum van het Bevel zichtbaar te zijn. Uw configuratie-instellingen worden opgeslagen voor elke e-mailsubmap (bijv. Afbezorgd, Mislukt, Gepland, enz.).
 
@@ -56,7 +55,7 @@ U kunt om het even welke beschikbare kolommen vormen om in de e-mailsectie van h
    <td colspan="1">Hiermee geeft u de groepen weer waartoe de e-mailontvanger behoort.</td> 
   </tr> 
   <tr> 
-   <td>Functie</td> 
+   <td>Beroep</td> 
    <td>Titel van de e-mailontvanger.</td> 
   </tr> 
   <tr> 
@@ -122,7 +121,7 @@ U kunt uw lay-out vormen door deze stappen te volgen.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Selecteer de sectie **E-mail**.
+1. Selecteer **E-mails** sectie.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 

@@ -56,15 +56,15 @@ De updates aan het pakket van de Aanpassing Salesforce zullen verhogingen en ins
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. The Sales Connect Customization card will show if updates are available. Klikken **Aanpassingen bijwerken**.
+1. Op de Customization Card voor verkoop Connect wordt weergegeven of er updates beschikbaar zijn. Klikken **Aanpassingen bijwerken**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Click **Upgrade**.
+1. Klikken **Upgrade**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
-1. Wait for the updates to install. Afhankelijk van het aantal versienummers dat u nodig hebt, varieert de installatietijd.
+1. Wacht tot de updates zijn geïnstalleerd. Afhankelijk van het aantal versienummers dat u nodig hebt, varieert de installatietijd.
 
    ![](assets/sales-connect-customizations-for-crm-10.png)
 
@@ -152,16 +152,16 @@ Marketo detecteert het maken van de nieuwe velden en voert vervolgens een eenmal
 | **Knopnaam** | **Beschrijving** |
 |---|---|
 | MSE-e-mail verzenden | Verkoop e-mails van Salesforce. |
-| Add to MSE Campaign | Add to MSE campaigns from Salesforce. |
-| Naar MSE duwen | Push contact from Salesforce to MSE. |
-| Call with MSE | Maak de vraag van de Verkoop van Salesforce. |
+| Toevoegen aan MSE-campagne | Toevoegen aan MSE-campagnes van Salesforce. |
+| Naar MSE duwen | Zet contact op van Salesforce naar MSE. |
+| Vraag met MSE | Maak de vraag van de Verkoop van Salesforce. |
 
 ## Knoppen Handeling bulksgewijs {#bulk-action-buttons}
 
 | **Knopnaam** | **Beschrijving** |
 |---|---|
 | Toevoegen aan MSE-campagne | Toevoegen aan MSE-campagnes van Salesforce. |
-| Naar MSE duwen | Push contact from Salesforce to MSE. |
+| Naar MSE duwen | Zet contact op van Salesforce naar MSE. |
 
 ## Gebruikershandleidingen {#user-guides}
 
@@ -169,4 +169,4 @@ Marketo detecteert het maken van de nieuwe velden en voert vervolgens een eenmal
 
 [MSE voor Salesforce](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
 
-[MSE for Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[MSE voor Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

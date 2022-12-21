@@ -2,16 +2,15 @@
 unique-page-id: 14352609
 description: Een campagne uitschakelen - Marketo Docs - Productdocumentatie
 title: Een campagne uitschakelen
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-
-# Een campagne {#turn-off-a-campaign} uitschakelen
+# Een campagne uitschakelen {#turn-off-a-campaign}
 
 Moet een Campagne automatisch beëindigen wanneer een ontvanger antwoordt? Zo gaat het.
 
@@ -19,9 +18,9 @@ Moet een Campagne automatisch beëindigen wanneer een ontvanger antwoordt? Zo ga
 >
 >Dit is slechts beschikbaar voor klanten die met Gmail of Uitwisseling geïntegreerd zijn en toegelaten antwoord het volgen hebben.
 
-## Schakel een campagne voor één persoon {#turn-off-a-campaign-for-one-person} uit
+## Een campagne voor één persoon uitschakelen {#turn-off-a-campaign-for-one-person}
 
-Nadat u uw campagne hebt gecreeerd, ga eenvoudig naar **Montages** lusje en kies hoe u de campagne zou willen gedragen als iemand antwoordt.
+Nadat u uw campagne hebt gemaakt, gaat u gewoon naar de **Instellingen** en kies hoe u de campagne wilt gedragen als iemand antwoordt.
 
 Beide opties beëindigen de campagne en de ontvanger ontvangt geen e-mails meer van u.
 

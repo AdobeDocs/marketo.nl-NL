@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Template 6A {#template-6a}
 
-Klik met de rechtermuisknop op [Sjabloon 6A downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
+Klik met de rechtermuisknop om [downloadsjabloon 6A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
 
 ![](assets/image2015-6-29-16-3a14-3a11.png)
 

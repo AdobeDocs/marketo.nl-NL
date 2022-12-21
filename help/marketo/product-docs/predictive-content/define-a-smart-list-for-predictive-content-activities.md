@@ -2,26 +2,25 @@
 unique-page-id: 10097873
 description: Een slimme lijst definiëren voor activiteiten met betrekking tot preventieve inhoud - Marketo Docs - Productdocumentatie
 title: Een slimme lijst definiëren voor activiteiten met betrekking tot voorspellende inhoud
-translation-type: tm+mt
-source-git-commit: f1d7b270454ba41db5197a069e0dcc2caebdec63
+exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
+# Een slimme lijst definiëren voor activiteiten met betrekking tot voorspellende inhoud {#define-a-smart-list-for-predictive-content-activities}
 
-# Een slimme lijst definiëren voor activiteiten met voorspellende inhoud {#define-a-smart-list-for-predictive-content-activities}
+U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wanneer u een slimme lijst definieert in een slimme campagne. U kunt een actie activeren voor iedereen die via het dialoogvenster [Rich Media-sjabloon](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)de [De balk met aanbevelingen voor inhoud](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)of in een [email](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
 
-U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wanneer u een slimme lijst definieert in een slimme campagne. U kunt een actie voor iedereen teweegbrengen die voorspelbare inhoud via [Rich Media malplaatje](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), [de Bar van de Aanbeveling van de Inhoud ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md), of in [email](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md) klikt.
-
-1. Navigeer in uw slimme campagne naar het tabblad **Slimme lijst**.
+1. Navigeer in uw slimme campagne naar de **Slimme lijst** tab.
 
    ![](assets/smart-list-1.png)
 
    >[!NOTE]
    >
-   >Slimme lijsten kunnen verbazingwekkende dingen doen. Leer meer in [slimme lijst diep duik](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Slimme lijsten kunnen verbazingwekkende dingen doen. Meer informatie in het dialoogvenster [diepe duik voor slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Zoek de trigger en sleep deze naar het canvas.
 
@@ -31,7 +30,7 @@ U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wa
    >
    >Een slimme campagne met triggers wordt uitgevoerd in de triggermodus. De functie wordt op één persoon tegelijk uitgevoerd op basis van gebeurtenissen die worden geactiveerd en de filters worden toegevoegd.
 
-1. Klik op de vervolgkeuzelijst **Naam** en selecteer een operator.
+1. Klik op de knop **Naam** en selecteert u een operator.
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -39,7 +38,7 @@ U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wa
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. Voeg de beperking **Type** toe.
+1. Voeg de **Type** beperking.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -47,7 +46,7 @@ U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wa
 
    ![](assets/pc-add-constraint.png)
 
-1. Als u de e-mailbron voor uw vooruitlopende inhoud gebruikt, voegt u de **Klik op Koppeling in de trigger E-mail** toe. Selecteer uw e-mail en voeg de **Is Predictive** beperking toe, die als **true** wordt bepaald.
+1. Als u de e-mailbron voor uw voorspellende inhoud gebruikt, voegt u de **Klik op Koppeling in e-mail** trigger. Selecteer uw e-mail en voeg de **Is voorspelbaar** beperking, gedefinieerd als **true**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
@@ -63,7 +62,7 @@ U kunt activiteiten met voorspellende inhoud gebruiken in triggers en filters wa
    >
    >Bij meerdere triggers gaat een persoon door naar de flow als een van de triggers wordt geactiveerd.
 
-   Om de campagne op een reeks mensen tezelfdertijd in werking te stellen, leer hoe te [een slimme lijst voor een partij slimme campagne ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md) bepalen.
+   Leer hoe u de campagne op een aantal mensen tegelijk kunt uitvoeren [een slimme lijst definiëren voor een &#39;batch smart&#39;-campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >

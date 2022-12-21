@@ -3,7 +3,6 @@ unique-page-id: 1147042
 description: Gegevens toevoegen aan een veld - Marketo Docs - Productdocumentatie
 title: Gegevens toevoegen aan een veld
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
@@ -21,9 +20,9 @@ Er is een eenvoudige manier om gegevens aan een veld toe te voegen. Zo gaat het.
 
 >[!NOTE]
 >
->De onderstaande stappen zijn ook van toepassing op [Gegevens voor programmalid wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
+>De onderstaande stappen zijn ook van toepassing op [Gegevens van programmalid wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md).
 
-1. Onder **Flow** tabel sleept u in de **Gegevenswaarde wijzigen** stap Stroom.
+1. Onder de **Stroom** tabblad, sleept u in de **Gegevenswaarde wijzigen** stap Stroom.
 
    ![](assets/image2014-9-22-16-3a5-3a1.png)
 

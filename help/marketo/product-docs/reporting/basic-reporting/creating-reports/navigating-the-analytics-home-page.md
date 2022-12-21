@@ -2,18 +2,17 @@
 unique-page-id: 7513141
 description: Navigeren op de startpagina Analytics - Marketo Docs - Productdocumentatie
 title: Navigeren door de startpagina van Analytics
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
+# Navigeren door de startpagina van Analytics {#navigating-the-analytics-home-page}
 
-# Navigeren door de startpagina voor Analytics {#navigating-the-analytics-home-page}
-
-1. Ga naar het gebied **Analytics**.
+1. Ga naar de **Analyse** gebied.
 
 1. ![](assets/image2015-4-27-8-3a38-3a10.png)
 
@@ -21,7 +20,7 @@ ht-degree: 0%
 
 1. ![](assets/image2015-4-27-8-3a38-3a22.png)
 
-1. Nadat u uw rapport hebt uitgevoerd, klikt u op de werkruimte om terug te gaan naar **Analytics Home**.
+1. Nadat u uw rapport hebt uitgevoerd, klikt u op de werkruimte om terug te gaan naar de **Analysestartpagina**.
 
    ![](assets/image2015-4-27-8-3a38-3a34.png)
 

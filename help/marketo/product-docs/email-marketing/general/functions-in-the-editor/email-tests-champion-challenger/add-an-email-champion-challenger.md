@@ -2,16 +2,15 @@
 unique-page-id: 2359553
 description: Voeg een e-mailkampioen/challenger toe - Marketo Docs - Productdocumentatie
 title: Een e-mailkampioen/challenger toevoegen
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
-
-# Een e-mailkampioen/challenger {#add-an-email-champion-challenger} toevoegen
+# Een e-mailkampioen/challenger toevoegen {#add-an-email-champion-challenger}
 
 Het is een goed idee om e-mails te testen die je vaak gebruikt om er zeker van te zijn dat ze werken. Eén manier is om de effectiviteit van een e-mail te vergelijken met andere versies, of uitdagers. In een champion/challenger test, kunt u het volledige e-mail, de onderwerpregel, of het van adres testen.
 
@@ -27,7 +26,7 @@ Zo ga je aan de slag.
 
 >[!CAUTION]
 >
->E-mails van Champion/Challenger werken alleen met triggercampagnes en betrokkenheidsprogrammastreams. Voor batchberichten gebruikt u de [A/B-testfunctionaliteit](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) van het e-mailprogramma.
+>E-mails van Champion/Challenger werken alleen met triggercampagnes en betrokkenheidsprogrammastreams. Gebruik voor batchberichten de programma&#39;s [A/B-testfunctionaliteit](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -39,9 +38,9 @@ Zo ga je aan de slag.
 
    >[!NOTE]
    >
-   >Meer informatie over [e-mailprogramma&#39;s](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) vindt u bij eenmalig e-mailberichten.
+   >Meer informatie over [e-mailprogramma&#39;s](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md).
 
-1. Klik onder **E-mailhandelingen** op **Nieuwe test**.
+1. Onder **E-mailhandelingen**, klikt u op **Nieuwe test**.
 
    ![](assets/chmapion2.jpg)
 

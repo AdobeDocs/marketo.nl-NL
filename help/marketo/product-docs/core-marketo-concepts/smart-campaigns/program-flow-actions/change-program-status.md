@@ -3,10 +3,9 @@ unique-page-id: 1147007
 description: Program Status wijzigen - Marketo Docs - Productdocumentatie
 title: Programmastatus wijzigen
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -23,11 +22,11 @@ Met de status van het programma kunt u bijhouden hoe een programma of gebeurteni
 
 ## Gebruik {#usage}
 
-1. Sleep in de **Programmastatus wijzigen**-stroomstap.
+1. Sleep in de **Programmastatus wijzigen** stap Stroom.
 
    ![](assets/image2014-9-22-14-3a43-3a34.png)
 
-1. Selecteer **Nieuwe Status** u wilt plaatsen. De persoon zal ook lid van het programma worden als zij niet reeds waren.
+1. Selecteer **Nieuwe status** u wilt instellen. De persoon zal ook lid van het programma worden als zij niet reeds waren.
 
    ![](assets/image2014-9-22-14-3a43-3a45.png)
 

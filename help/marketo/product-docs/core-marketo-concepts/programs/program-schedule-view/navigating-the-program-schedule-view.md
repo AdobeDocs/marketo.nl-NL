@@ -3,7 +3,6 @@ unique-page-id: 1147100
 description: Navigeren door de programmaoverzichtsweergave - Marketo Docs - Productdocumentatie
 title: Navigeren door de programmaweergave
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# Navigeren in de overzichtsweergave {#navigating-the-program-schedule-view}
+# Navigeren door de programmaweergave {#navigating-the-program-schedule-view}
 
 Hier zijn de grondbeginselen om u te helpen de mening van het programmaprogramma navigeren.
 
-## Zoek de overzichtsweergave {#find-the-schedule-view}
+## De overzichtsweergave zoeken {#find-the-schedule-view}
 
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer uw programma. Klik op de vervolgkeuzelijst **Weergave**. Selecteer **Schema**.
+1. Selecteer uw programma. Klik op de knop **Weergave** vervolgkeuzelijst. Selecteren **Schema**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -33,7 +32,7 @@ Hier zijn de grondbeginselen om u te helpen de mening van het programmaprogramma
 >
 >De programmaweergave blijft ongewijzigd. Nadat u deze hebt ingesteld, worden alle programma&#39;s standaard ingesteld op de overzichtsweergave.
 
-## Schakelen tussen items {#switching-between-entries}
+## Schakelen tussen ingangen {#switching-between-entries}
 
 1. Klik in de invoerdetails op de pijlen om naar de volgende geplande invoer te gaan.
 
@@ -51,7 +50,7 @@ Hier zijn de grondbeginselen om u te helpen de mening van het programmaprogramma
 
 ## Wijzigen tussen modi {#changing-between-modes}
 
-1. Als u op **3 weken** of **Month** klikt, worden de zichtbare datums in de weergave gewijzigd.
+1. Klikken op **3 weken** of **Maand** wijzigt u de zichtbare datums in het scherm.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 

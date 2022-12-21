@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2953144
-description: Het geavanceerde Overzicht van de Rapportering van het Programma - Marketo Docs - de Documentatie van het Product
+description: Advanced Program Reporting Overview - Marketo Docs - Productdocumentatie
 title: Advanced Program Reporting Overview
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
-
 # Advanced Program Reporting Overview {#advanced-program-reporting-overview}
 
-**De** Exploratie van de Cyclus van de opbrengst omvat verscheidene gebieden van analyse en een brede serie van nieuwe metriek die u toestaan om programmadoeltreffendheid te meten.
+**Inkoopcyclus Explorer** bevat diverse gebieden voor analyse en een breed scala aan nieuwe meetgegevens waarmee u de doeltreffendheid van programma&#39;s kunt meten.
 
 ![](assets/rev.png)
 
@@ -27,19 +26,19 @@ De gebieden van de analyse elk bevatten verschillende gegevensreeksen en metriek
 
 ## Programmaanalysegebieden {#program-analysis-areas}
 
-* **[Analyse](understanding-the-program-cost-analysis-area.md)**  van de Kosten van het programma - zie ROI voor al uw programma&#39;s.
+* **[Kostenanalyse programma](understanding-the-program-cost-analysis-area.md)** - Zie het investeringsrendement voor al uw programma&#39;s.
 
-* **[Analyse](understanding-the-program-membership-analysis-area.md)**  van het lidmaatschap van het programma - Zie resultaten door kanaal, participatie, succescriteria, enz.
+* **[Analyse van het lidmaatschap van het programma](understanding-the-program-membership-analysis-area.md)** - Zie resultaten per kanaal, deelname, succescriteria, enz.
 
-* **[De Analyse](understanding-the-program-opportunity-analysis-area.md)**  van de Kans van het programma - Geproduceerde kansen op distributie, hun opbrengst, en ROI.
+* **[Analyse van programmamogelijkheden](understanding-the-program-opportunity-analysis-area.md)** - Kansen die op distributie, hun opbrengst, en ROI worden geproduceerd.
 
-* **[Analyse](understanding-the-program-revenue-stage-analysis-area.md)**  van de Fase van de Opbrengst van het programma - Nieuwe namen die bepaalde successtadia binnen uw model van de opbrengstcyclus hebben bereikt.
+* **[Analyse van de omzettingsfase van het programma](understanding-the-program-revenue-stage-analysis-area.md)** - Nieuwe namen die in uw model voor de inkomstencyclus bepaalde succesfasen hebben bereikt.
 
 ## Programmaanalysatoren {#program-analyzers}
 
-* **Programmaanalyse** : identificeer snel programma&#39;s die al dan niet succesvol zijn en richt uw bronnen op de juiste manier.
+* **Programmaanalyse** - Identificeer snel programma&#39;s die succesvol zijn of niet, en richt uw middelen op aangewezen.
 
-* **Opportunity Influence Analyzer**  - De bijdrage van Marketing bewijzen door het effect te meten van programma&#39;s en belangrijke afspraken die kansen hebben gecreëerd.
+* **Opportunity Influence Analyzer** - De bijdrage van Marketing bewijzen door het effect te meten van programma&#39;s en belangrijke afspraken die kansen hebben gecreëerd.
 
 ## Rapportopties {#report-options}
 
@@ -53,6 +52,6 @@ In elk rapport zijn verschillende opties beschikbaar waarmee u de ervaring kunt 
 
 >[!NOTE]
 >
->De gegevens in de Ontdekkingsreiziger van de Cyclus van de Opbrengst werken elke avond van uw geval van Marketo bij. Daarom zullen om het even welke veranderingen in uw persoon en rekeningsactiviteit binnen van Marketo de volgende werkdag in de Ontdekkingsreiziger van de Cyclus van Ontvangsten worden weerspiegeld.
+>De gegevens in de Ontdekkingsreiziger van de Uitwisseling van Inkomsten worden elke avond bijgewerkt van uw geval van Marketo. Daarom zullen om het even welke veranderingen in uw persoon en rekeningsactiviteit binnen van Marketo de volgende werkdag in de Ontdekkingsreiziger van de Ontvangsten worden weerspiegeld.
 
 Door uzelf bekend te maken met Revenue Analytics krijgt u volledig inzicht in uw programma&#39;s en hun impact.

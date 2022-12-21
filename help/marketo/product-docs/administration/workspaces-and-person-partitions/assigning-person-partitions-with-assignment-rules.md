@@ -3,7 +3,6 @@ unique-page-id: 2360327
 description: Personen partities toewijzen met toewijzingsregels - Marketo Docs - Productdocumentatie
 title: Personen partities toewijzen met toewijzingsregels
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Personen toewijzen aan partities met toewijzingsregels {#assigning-person-partitions-with-assignment-rules}
+# Personen partities toewijzen met toewijzingsregels {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >
@@ -31,11 +30,11 @@ Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak o
 
    ![](assets/image2014-9-17-10-3a32-3a55.png)
 
-1. Klik onder **Personenpartities** tabblad op **Toewijzingsregels**.
+1. Onder de **Partities Personen** tabblad, klikt u op **Toewijzingsregels**.
 
    ![](assets/two-6.png)
 
-1. Klik **Voeg Keuze** toe om voorwaarden voor het verpletteren van mensen in persoonverdelingen toe te voegen.
+1. Klikken **Keuze toevoegen** om voorwaarden toe te voegen voor het verpletteren van mensen in persoonverdelingen.
 
    ![](assets/three-6.png)
 
@@ -55,7 +54,7 @@ Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak o
    >
    >U kunt zoveel opties toevoegen als u wilt.
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/seven.png)
 

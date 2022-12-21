@@ -2,16 +2,15 @@
 unique-page-id: 14352476
 description: Veld voor activiteitstypen op taken (SFDC) - Marketo Docs - Productdocumentatie
 title: Veld voor activiteitstypen op taken (Activity Type Field on Tasks — SFDC)
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: b291e641-d3af-4667-a01c-cd491cd87add
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-
-# Veld voor activiteitstypen op taken (SFDC) {#activity-type-field-on-tasks-sfdc}
+# Veld voor activiteitstypen op taken (Activity Type Field on Tasks — SFDC) {#activity-type-field-on-tasks-sfdc}
 
 Met de hulp van Sales Connect kunt u uw e-mails en gesprekken laten registreren als een activiteit in Salesforce. Een belangrijk onderdeel van het gebruik van waardevolle gegevens in Salesforce is dat in het veld Type de juiste waarde wordt ingevuld.
 
@@ -26,11 +25,11 @@ Met de hulp van Sales Connect kunt u uw e-mails en gesprekken laten registreren 
 * De vraag, het Antwoord, en E-mail moeten allen onder de picklist van het Type van Taak (kapitalisatiekwesties) bestaan
 * Geen Workflows of Triggers die actie ondernemen op de waarde van het veld Type
 
-## {#setup} instellen
+## Instellen {#setup}
 
 Controleer eerst of u de juiste waarden voor de keuzelijst hebt. U hebt de hulp van uw Admin van Salesforce nodig om om het even welke veranderingen in uw picklist aan te brengen.
 
-1. Navigeer naar [Salesforce.com](https://salesforce.com) en klik op Setup in de rechterbovenhoek.
+1. Navigeren naar [Salesforce.com](https://salesforce.com) en klik op Instellen in de rechterbovenhoek.
 1. Klik op Aanpassen.
 1. Klik op Activiteiten.
 1. Klik op Taakvelden.
@@ -38,8 +37,8 @@ Controleer eerst of u de juiste waarden voor de keuzelijst hebt. U hebt de hulp 
 1. U bent nu bij de Picklist van het Type van Taak. Zorg ervoor dat er geen &#39;Standaard&#39; is geselecteerd.
 1. Zorg ervoor dat er een waarde van het Type voor E-mail, Vraag, en Antwoord wordt vermeld.
 
-Nu dit op zijn plaats is, zult u beginnen te zien het gebied van het Type de overeenkomstige waarde voor geregistreerde E-mail, Vraag, en Reacties bevolken. Deze waarden worden **niet** ingevuld bij Sales Connect-herinneringstaken.
+Nu dit op zijn plaats is, zult u beginnen te zien het gebied van het Type de overeenkomstige waarde voor geregistreerde E-mail, Vraag, en Reacties bevolken. Deze waarden **niet** worden ingevuld bij de taken voor verkoopConnect-herinneringen.
 
 >[!NOTE]
 >
->Als u &quot;Reageren&quot;niet ziet als waarde, voeg het toe door **Nieuw** te klikken. &#39;Reageren&#39; is geen standaardwaarde in Salesforce.
+>Als &#39;Reageren&#39; niet wordt weergegeven als een waarde, voegt u deze toe door op **Nieuw**. &#39;Reageren&#39; is geen standaardwaarde in Salesforce.

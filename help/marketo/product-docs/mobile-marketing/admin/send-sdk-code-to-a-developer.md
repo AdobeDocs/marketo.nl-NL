@@ -2,23 +2,22 @@
 unique-page-id: 7512448
 description: SDK-code verzenden naar een ontwikkelaar - Marketo Docs - Productdocumentatie
 title: SDK-code naar een ontwikkelaar verzenden
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
-
-# SDK-code verzenden naar een ontwikkelaar {#send-sdk-code-to-a-developer}
+# SDK-code naar een ontwikkelaar verzenden {#send-sdk-code-to-a-developer}
 
 Voordat u berichten of pushmeldingen in de app kunt maken, moet de ontwikkelaar de SDK van de Mobile App voor de Android- en iOS-platforms hebben ingesteld en geïnitialiseerd.
 
 * [Instructies voor Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
 * [Instructies voor iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
 
-## SDK-code verzenden naar een ontwikkelaar {#send-sdk-code-to-a-developer-1}
+## SDK-code naar een ontwikkelaar verzenden {#send-sdk-code-to-a-developer-1}
 
 Soms moet een beheerder enige SDK-code naar een ontwikkelaar verzenden.
 
@@ -26,11 +25,11 @@ Soms moet een beheerder enige SDK-code naar een ontwikkelaar verzenden.
 
 Zo doe je het.
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Selecteer **Mobiele toepassingen**.
+1. Selecteren **Mobiele apps**.
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -38,7 +37,7 @@ Zo doe je het.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Klik **Mobiele App-handelingen** en selecteer **Verzenden naar ontwikkelaar**.
+1. Klikken **Handelingen voor mobiele toepassingen** en selecteert u **Verzenden naar ontwikkelaar**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 

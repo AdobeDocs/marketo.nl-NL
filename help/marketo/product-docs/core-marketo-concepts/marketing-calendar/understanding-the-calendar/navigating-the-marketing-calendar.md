@@ -3,7 +3,6 @@ unique-page-id: 1147257
 description: Navigeren door de marketingkalender - Marketo Docs - Productdocumentatie
 title: Navigeren door de marketingkalender
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '165'
@@ -11,15 +10,15 @@ ht-degree: 0%
 
 ---
 
-# Navigeren in de marketingkalender {#navigating-the-marketing-calendar}
+# Navigeren door de marketingkalender {#navigating-the-marketing-calendar}
 
 U kunt gemakkelijk in de marketingkalender navigeren, maar dan wel één, twee, drie!
 
 >[!PREREQUISITES]
 >
->Zorg ervoor dat u een [licentie voor marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) hebt, anders verschijnt het element voor marketingkalender niet in Mijn Marketo.
+>Zorg ervoor dat u een [Licentie voor marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - anders verschijnt het element Marketing Calendar niet in Mijn Marketo.
 
-1. Ga naar **Marketingkalender**.
+1. Ga naar de **Marketingkalender**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -29,7 +28,7 @@ U kunt gemakkelijk in de marketingkalender navigeren, maar dan wel één, twee, 
 
 ## Wijzigen tussen modi {#change-between-modes}
 
-1. Klik **3 weken** of **Month** lusjes om tussen wijzen te schakelen.
+1. Klik op de knop **3 weken** of **Maand** tabs om tussen modi te schakelen.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -37,11 +36,11 @@ U kunt gemakkelijk in de marketingkalender navigeren, maar dan wel één, twee, 
 
 In de weergave Agenda worden al uw items als een lijst weergegeven.
 
-1. Klik op de vervolgkeuzelijst **Filter**.
+1. Klik op de knop **Vervolgkeuzelijst Filter**.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Selecteer de weergave **Agenda**.
+1. Selecteer **Agenda** weergeven.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -49,7 +48,7 @@ In de weergave Agenda worden al uw items als een lijst weergegeven.
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
-## Navigeren door tijd {#navigate-through-time}
+## Navigeren door de tijd {#navigate-through-time}
 
 Zonder DeLorean! Klik gewoon op de navigatieknoppen.
 

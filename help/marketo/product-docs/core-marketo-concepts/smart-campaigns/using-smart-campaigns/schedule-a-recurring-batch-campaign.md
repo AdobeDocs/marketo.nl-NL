@@ -3,7 +3,6 @@ unique-page-id: 1146972
 description: Een terugkerende batchcampagne plannen - Marketo Docs - Productdocumentatie
 title: Een terugkerende batchcampagne plannen
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Een terugkerende batchcampagne {#schedule-a-recurring-batch-campaign} plannen
+# Een terugkerende batchcampagne plannen {#schedule-a-recurring-batch-campaign}
 
 Met Herhaling kunt u een batchslimme campagne volgens een regelmatig schema uitvoeren. Bijvoorbeeld - eenmaal per week, maandag om 12.00 uur.
 
-1. Selecteer de campagne, ga naar het lusje van het Programma, en klik **Herhaling van het Programma**.
+1. Selecteer de campagne, ga naar het tabblad Planning en klik op **Herhaling schema**.
 
    ![](assets/recurrencehands-sendemail.png)
 
@@ -31,7 +30,7 @@ Met Herhaling kunt u een batchslimme campagne volgens een regelmatig schema uitv
 
    ![](assets/image2014-9-22-11-3a41-3a49.png)
 
-1. Laat om de 1 keer herhalen, selecteer Maandag en klik **Opslaan**.
+1. Herhaal om de 1, selecteer Maandag en klik op **Opslaan**.
 
    ![](assets/image2014-9-22-11-3a41-3a53.png)
 

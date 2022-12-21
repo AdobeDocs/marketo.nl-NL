@@ -2,14 +2,13 @@
 unique-page-id: 30081250
 description: Groepen beheren - Marketo Docs - Productdocumentatie
 title: Groepen beheren
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
 
 ---
-
 
 # Groepen beheren {#manage-groups}
 
@@ -17,11 +16,11 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
 ## Een groep maken {#create-a-group}
 
-1. Klik op de pagina Personen op **+** naast Groepen.
+1. Klik op de pagina Personen op de knop **+** naast Groepen.
 
    ![](assets/one-4.png)
 
-1. Geef de groep een naam en klik op **Maken**.
+1. Geef uw groep een naam en klik op **Maken**.
 
    ![](assets/two-3.png)
 
@@ -33,7 +32,7 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
    ![](assets/three-3.png)
 
-1. Klik **Handelingen groeperen** en selecteer **Contactpersoon maken**.
+1. Klikken **Handelingen groeperen** en selecteert u **Contactpersoon maken**.
 
    ![](assets/four-3.png)
 
@@ -41,7 +40,7 @@ Leer hoe u uw groepen beheert in Sales Connect.
    >
    >Hiermee voegt u één contactpersoon tegelijk toe. Om veelvoudige contacten tezelfdertijd toe te voegen, volg [deze stappen](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Vul de informatie van de contactpersoon in en klik **Maken** (of **Nieuw maken en toevoegen** om een andere toe te voegen).
+1. Vul de contactgegevens in en klik op **Maken** (of **Nieuw maken en toevoegen** om een andere toe te voegen).
 
    ![](assets/five-3.png)
 
@@ -57,7 +56,7 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
    ![](assets/six.png)
 
-1. Klik op de gegevens (drie verticale punten) en selecteer **Delen**.
+1. Klik op de gegevens (drie verticale stippen) en selecteer **Delen**.
 
    ![](assets/seven.png)
 
@@ -65,7 +64,7 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
    ![](assets/eight.png)
 
-1. Klik **Delen**.
+1. Klikken **Delen**.
 
    ![](assets/nine.png)
 
@@ -77,11 +76,11 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
    ![](assets/ten.png)
 
-1. Klik op de gegevens (drie verticale punten) en selecteer **Delen**.
+1. Klik op de gegevens (drie verticale stippen) en selecteer **Delen**.
 
    ![](assets/eleven.png)
 
-1. Klik **X** naast het team u de groep met deelde, dan klik uit modaal.
+1. Klik op de knop **X** naast het team u de groep met deelde, dan klik uit modaal.
 
    ![](assets/twelve.png)
 
@@ -93,7 +92,7 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
    ![](assets/six.png)
 
-1. Klik op de gegevens (drie verticale punten) en selecteer **Naam wijzigen**.
+1. Klik op de gegevens (drie verticale stippen) en selecteer **Naam wijzigen**.
 
    ![](assets/thirteen.png)
 
@@ -101,16 +100,16 @@ Leer hoe u uw groepen beheert in Sales Connect.
 
    ![](assets/fourteen.png)
 
-## Een groep {#delete-a-group} verwijderen
+## Een groep verwijderen {#delete-a-group}
 
 1. Zoek en selecteer op de pagina Personen de groep die u wilt verwijderen.
 
    ![](assets/fifteen.png)
 
-1. Klik op de gegevens (drie verticale punten) en selecteer **Delete**.
+1. Klik op de gegevens (drie verticale stippen) en selecteer **Verwijderen**.
 
    ![](assets/sixteen.png)
 
-1. Klik **Verwijderen** om te bevestigen.
+1. Klikken **Verwijderen** ter bevestiging.
 
    ![](assets/seventeen.png)

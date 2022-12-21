@@ -2,14 +2,13 @@
 unique-page-id: 12979858
 description: Veelgestelde vragen over prestaties - Marketo Docs - Productdocumentatie
 title: Veelgestelde vragen over prestaties
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '1357'
 ht-degree: 0%
 
 ---
-
 
 # Veelgestelde vragen over prestaties {#performance-insights-faq}
 
@@ -23,7 +22,7 @@ Succes is een maatstaf voor betekenisvolle interactie in Marketo. Het doel van e
 
 ## Zal MPI met om het even welke CRM werken? {#will-mpi-work-with-any-crm}
 
-Ja. Technisch gezien communiceert MPI niet rechtstreeks met de CRM voor gegevenssynchronisatie. MPI gebruikt gegevens die zijn opgeslagen in de Data Warehouse Marketo Analytics. Aangezien de synchronisatie van CRM in de toepassing van het Beheer van de Lood gebeurt, zal om het even welke markt-gesteund CRM die met de toepassing van het Beheer van de Lood wordt geïntegreerd gegevens correct tonen. Nochtans, moeten de de opportuniteitsgebieden van CRM correct aan de gebieden van de Marketo van de Mogelijkheid worden in kaart gebracht.
+Ja. Technisch gezien communiceert MPI niet rechtstreeks met de CRM voor gegevenssynchronisatie. MPI gebruikt gegevens die zijn opgeslagen in de Marketo Analytics Data Warehouse. Aangezien de CRM-synchronisatie plaatsvindt in de toepassing Lead Management, worden gegevens correct weergegeven door alle door Marketo ondersteunde CRM-systemen die zijn geïntegreerd in de toepassing Lead Management. De velden voor CRM-mogelijkheden moeten echter correct worden toegewezen aan de opportuniteitsvelden van Marketo.
 
 ## Ik heb geen andere producten van de Analytics van de Marketing (ARB, RCE, RCA, de Analyse van het Programma). Zal MPI voor mij werken? {#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
 
@@ -39,7 +38,7 @@ U kunt de zichtbaarheid van uw programma&#39;s bepalen door het gedrag Analytics
 
 >[!NOTE]
 >
->Meer informatie over het instellen van het analysegedrag [hier](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
+>Meer informatie over het instellen van analysefuncties [hier](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
 
 ## Ik voer een multikanaalcampagne voor een nieuwe productlancering. Hoe kan ik de prestaties voor deze campagne op alle verschillende kanalen op één plaats bekijken? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -59,11 +58,11 @@ Mogelijk ontbreken er ook kansen omdat de programmakosten ontbreken in uw progra
 
 1. Inclusief - Met deze optie zorgt u ervoor dat het programma beschikbaar is in MPI, ongeacht of u kosten voor een periode hebt opgenomen.
 
-1. [Operationeel](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs)  - Deze optie leidt ertoe dat het programma niet in MPI verschijnt.
+1. [Operationeel](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md#operational-programs) - Deze optie leidt ertoe dat het programma niet in MPI verschijnt.
 
 >[!NOTE]
 >
->Periode kost **has** moet worden ingesteld voor melding van succes en nieuwe namen op het dashboard Betrokkenheid. Dit dashboard gebruikt gegevens van de Kosten van de Periode om successen en nieuwe namen samen te voegen. Als Periode-kosten niet is ingesteld, rapporteert het betrokkenheidsdashboard niet correct, ongeacht de bovenstaande instellingen voor Analytics-gedrag.
+>Kosten periode **heeft** in te stellen voor het rapporteren van succesmeldingen en nieuwe namen op het dashboard Betrokkenheid. Dit dashboard gebruikt gegevens van de Kosten van de Periode om successen en nieuwe namen samen te voegen. Als Periode-kosten niet is ingesteld, rapporteert het betrokkenheidsdashboard niet correct, ongeacht de bovenstaande instellingen voor Analytics-gedrag.
 
 ## Waarom mis ik kansen in MPI? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -82,7 +81,7 @@ Aangepaste velden, opportuniteitstype en ABM-filters zijn allemaal kenmerken die
 
 ## Ik wil een gebied van de Kans van de Kans van de Douane van Salesforce voor opbrengstrapportering in plaats van het standaardgebied van het Bedrag van de Kans van Salesforce gebruiken. Zal MPI mij toestaan dat te doen? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Ja. [Marketo ](https://nation.marketo.com/t5/Support/ct-p/Support) Support kan het veld Opportunity van Marketo opnieuw toewijzen aan een aangepast veld Salesforce Opportunity zolang het veldtype een valuta is. Aangezien MPI naar het de reeksgebied van de Kanaal van de Marketo wijst, kan MPI de gegevens van het opnieuw in kaart gebrachte gebied van Salesforce gebruiken.
+Ja. [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) kan het veld Opportunity van Marketo opnieuw toewijzen aan een aangepast veld voor Salesforce Opportunity zolang het veldtype een valuta is. Aangezien MPI naar het veld voor de Marketo Opportunity-hoeveelheid verwijst, kan MPI de gegevens uit het opnieuw toegewezen veld voor aangepaste Salesforce gebruiken.
 
 >[!NOTE]
 >
@@ -100,11 +99,11 @@ MPI is ontworpen om u toe te staan om programmaprestaties van de bovenkant van d
 
 ## Kan ik het succes van op rekening-gebaseerde strategieën in MPI meten? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Ja. MPI integreert met [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) om ABM-accountlijsten naadloos in MPI te plaatsen. U kunt het ABM filter van de Lijst van de Rekening gebruiken om de gewenste ABM lijst te kiezen om gegevens door te filtreren.
+Ja. MPI-integratie met [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) om lijsten met ABM-accounts naadloos in MPI op te nemen. U kunt het ABM filter van de Lijst van de Rekening gebruiken om de gewenste ABM lijst te kiezen om gegevens door te filtreren.
 
 ## Is de toewijzing onmiddellijk beschikbaar wanneer ik MPI aanschaf? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-De mogelijkheden voor Marketo Attribution zijn beschikbaar voor onze klanten wanneer zij MPI aanschaffen. [juiste setup](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) is echter vereist om ervoor te zorgen dat de mogelijkheden en programmagegevens correct in MPI stromen.
+De Marketo Attribution-mogelijkheden zijn beschikbaar voor onze klanten wanneer ze MPI aanschaffen. Maar [juiste instelling](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) is vereist om ervoor te zorgen dat de kansen en programmagegevens correct in MPI stromen.
 
 ## Wat moet ik doen om attributie in te stellen? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -137,4 +136,4 @@ De Geavanceerde Report Builder (die soms als RCE wordt bedoeld), wordt ontworpen
 
 ## Wat is er gebeurd met de optie Vorig jaar in het datumfilter van de bijdrage? {#what-happened-to-the-previous-year-option-in-contributions-date-filter}
 
-We hebben tijdelijk de selectie van het vorige jaar verwijderd. U kunt de prestatiegegevens van het hele jaar nog bekijken met de selectie Aangepast datumbereik.
+We hebben tijdelijk de selectie van het vorige jaar verwijderd. U kunt de prestatiegegevens van het hele jaar nog steeds bekijken met de selectie Aangepast datumbereik.

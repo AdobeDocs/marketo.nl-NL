@@ -2,16 +2,15 @@
 unique-page-id: 2949844
 description: Een nieuw gebeurtenisprogramma maken - Marketo Docs - Productdocumentatie
 title: Een nieuw gebeurtenisprogramma maken
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-
-# Nieuw gebeurtenisprogramma maken {#create-a-new-event-program}
+# Een nieuw gebeurtenisprogramma maken {#create-a-new-event-program}
 
 Met gebeurtenissen kunt u online en offline gebeurtenissen automatiseren! Leg de status van uw mensen vast terwijl ze verschillende fasen doorlopen en profiteer van nauwkeurige maatstaven van het rendement van uw marketinginitiatieven.
 
@@ -19,11 +18,11 @@ Met gebeurtenissen kunt u online en offline gebeurtenissen automatiseren! Leg de
 
    ![](assets/ma.png)
 
-1. Selecteer de map voor het nieuwe programma. Selecteer **Nieuw** en klik **Nieuw Programma**.
+1. Selecteer de map voor het nieuwe programma. Selecteren **Nieuw** en klik op **Nieuw programma**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. Kies een naam voor de gebeurtenis. Selecteer vervolgens onder **Programmatype** **Gebeurtenis**.
+1. Kies een naam voor de gebeurtenis. Vervolgens, onder **Type programma**, selecteert u **Gebeurtenis**.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
@@ -31,11 +30,11 @@ Met gebeurtenissen kunt u online en offline gebeurtenissen automatiseren! Leg de
 
    >[!NOTE]
    >
-   >De kanalen bepalen de verschillende status een persoon in een programma kan hebben. Klik hier voor meer informatie over [programmalidmaatschap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md).
+   >De kanalen bepalen de verschillende status een persoon in een programma kan hebben. Meer informatie over [programmalidmaatschap](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md) hier.
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
-1. Klik **Maken**.
+1. Klikken **Maken**.
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
@@ -43,15 +42,15 @@ Met gebeurtenissen kunt u online en offline gebeurtenissen automatiseren! Leg de
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. Als u de gebeurtenis wilt plannen, selecteert u **Planningsweergave** en klikt u op deze in de kalender om de pop-up te openen. Voer datums en tijden in.
+1. Selecteer **Planningsweergave** en klikt u op het pictogram in de kalender om het pop-upmenu te openen. Voer datums en tijden in.
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. Schuif de balk naar **Bevestigd** wanneer u klaar bent.
+1. De balk schuiven naar **Bevestigd** als je klaar bent.
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-Wanneer uw gebeurtenis is gemaakt, maakt u de [landingspagina&#39;s](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulieren](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) en [e-mails](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) om uw gasten uit te nodigen! U zult ook met [programmamening ](https://docs.marketo.com/display/docs/program+schedule+view) vertrouwd willen worden.
+Wanneer uw gebeurtenis is gemaakt, maakt u de [landingspagina&#39;s](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md), [formulieren](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), en [e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) om uw gasten uit te nodigen! U zult ook vertrouwd met willen worden [programmaoverzicht](https://docs.marketo.com/display/docs/program+schedule+view).
 
 >[!MORELIKETHIS]
 >

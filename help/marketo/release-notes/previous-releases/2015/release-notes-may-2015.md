@@ -38,7 +38,7 @@ Vanaf deze release zijn geldige HTML-opmerkingen nu toegestaan en niet verwijder
 
 ## RTP: Segmenteditor slepen en neerzetten {#rtp-drag-and-drop-segment-editor}
 
-RTP: [Editor van segment slepen en neerzetten](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+RTP: [Segmenteditor slepen en neerzetten](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Sleep de criteria naar de gesegmenteerde builder, definieer de waarde en u bent op weg naar het maken van een real-time segment.
 

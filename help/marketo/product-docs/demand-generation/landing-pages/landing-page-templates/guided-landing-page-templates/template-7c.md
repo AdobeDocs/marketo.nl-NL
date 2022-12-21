@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Template 7C {#template-7c}
 
-Klik met de rechtermuisknop op [Sjabloon 7C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
+Klik met de rechtermuisknop om [downloadsjabloon 7C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
 
 ![](assets/image2015-7-29-14-3a37-3a3.png)
 

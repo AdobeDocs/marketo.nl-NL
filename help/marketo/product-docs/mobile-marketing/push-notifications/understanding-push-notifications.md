@@ -1,44 +1,43 @@
 ---
 unique-page-id: 7511518
-description: Inzicht in pushmeldingen - Marketo Docs - Productdocumentatie
+description: Inzicht krijgen in pushberichten - Marketo Docs - Productdocumentatie
 title: Pushberichten
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
-
-# Inzicht in pushberichten {#understanding-push-notifications}
+# Pushberichten {#understanding-push-notifications}
 
 >[!NOTE]
 >
->In-app overseinen is een toepassing toe:voegen-op. Bevestig dit met uw Marketo-accountmanager om er zeker van te zijn dat het geactiveerd is.
+>In-app overseinen is een toepassing toe:voegen-op. Bevestig dit met uw Marketo-accountmanager om er zeker van te zijn dat het programma is geactiveerd.
 
-Met Marketo mobile-service kunt u een melding maken, configureren en verzenden, net als wanneer u een e-mail zou maken.  Voordat u pushmeldingen kunt maken en verzenden vanuit uw mobiele app, hebt u Marketo Admin en mobile apps-ontwikkelaar nodig om bepaalde instellingen uit te voeren.
+Met de mobiele service van Marketo kunt u een bericht maken, configureren en verzenden, net zoals u een e-mail maakt.  Voordat u pushmeldingen kunt maken en verzenden vanuit uw mobiele app, hebt u Marketo Admin en mobiele apps-ontwikkelaar nodig om bepaalde instellingen uit te voeren.
 
 >[!CAUTION]
 >
->Pushmeldingen zijn een invoegtoepassing en moeten door een Marketo-beheerder worden ingeschakeld voordat u begint.
+>Pushmeldingen zijn een invoegtoepassing en moeten worden ingeschakeld door een Marketo Admin voordat u begint.
 
-## Stap 1: Beheerder en ontwikkelaar voeren eerste instellingen uit {#step-admin-and-developer-perform-initial-setups}
+## Stap 1: Aanvankelijke instellingen uitvoeren voor beheerders en ontwikkelaars {#step-admin-and-developer-perform-initial-setups}
 
-De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen. Zie [Voordat u pushberichten en In-App-berichten maakt](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor meer informatie.
+De ontwikkelaar van Marketo Admin en mobiele apps werkt samen om u in te stellen. Zie [Voordat u pushberichten en in-app-berichten maakt](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) voor meer informatie.
 
 ## Stap 2: Een pushmelding maken {#step-create-a-push-notification}
 
-[Creëer uw ](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) boodschap en bekijk een voorvertoning van de weergave op Android- en iOS-apparaten.
+[Uw berichten crashen](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md) en bekijk een voorvertoning van de weergave op Android- en iOS-apparaten.
 
 ## Stap 3: Verzenden! {#step-send}
 
-[Pushmeldingen kunnen worden ](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) verzonden via trigger- en batch-slimme campagnes. Mooi cool, hè?
+[Pushmeldingen kunnen worden verzonden](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md) het gebruiken van trekker en partij slimme campagnes. Mooi cool, hè?
 
 ![](assets/image2015-4-27-8-3a41-3a43.png)
 
 >[!NOTE]
 >
 >* Een pushmelding verschijnt pas op het scherm nadat de app ten minste één keer is geopend.
->* Voor iOS-apps verschijnt er geen pushmelding op het scherm als de toepassing die is toegewezen om het pushbericht te ontvangen, open en actief is. In plaats daarvan wordt het bericht weergegeven in het gebied met lokale meldingen van de app.
+>* Voor iOS-apps verschijnt er geen pushmelding op het scherm als de toepassing die is toegewezen aan het pushbericht, is geopend en actief is. In plaats daarvan wordt het bericht weergegeven in het gebied met lokale meldingen van de app.
 

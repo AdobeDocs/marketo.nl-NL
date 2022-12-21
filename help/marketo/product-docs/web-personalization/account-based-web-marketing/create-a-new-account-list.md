@@ -2,14 +2,13 @@
 unique-page-id: 4720232
 description: Een nieuwe accountlijst maken - Marketo Docs - Productdocumentatie
 title: Een nieuwe accountlijst maken
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
 
 ---
-
 
 # Een nieuwe accountlijst maken {#create-a-new-account-list}
 
@@ -17,7 +16,7 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
 
 >[!NOTE]
 >
->Dit artikel is erfenisWeb ABM slechts klanten van toepassing. Als u Web ABM na September 2016 verwierf, te volgen gelieve de stappen in [dit artikel](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) in plaats daarvan.
+>Dit artikel is erfenisWeb ABM slechts klanten van toepassing. Als u Web ABM na september 2016 hebt aangeschaft, volgt u de stappen in [dit artikel](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) in plaats daarvan.
 
 ## Een nieuwe accountlijst maken {#create-a-new-account-list-1}
 
@@ -25,11 +24,11 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Selecteer **Nieuw maken**.
+1. Selecteren **Nieuw maken**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Selecteer **Bladeren** en upload uw CSV-bestand (controleer of het CSV-bestand voldoet aan de criteria). Voeg een **Naam** en **Beschrijving** toe. Klik **Opslaan**.
+1. Selecteren **Bladeren** en uploadt u het CSV-bestand (controleer of het CSV-bestand voldoet aan de criteria). Voeg een **Naam** en **Beschrijving**. Klikken **Opslaan**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -57,10 +56,8 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
    >* Rij 1 kolom D waarde = staat VS
    >* Een van de kolomwaarden is verplicht. Nochtans, verbetert het verstrekken van zowel Organisatie als de namen van het Domein de gelijke tarieven van de Lijst van de Rekening.
    >* Land en staat zijn optionele waarden.
-
       >
-      >   
-      * Gebruik voor de naam van het land de volledige naam van het land of de afkorting. Eg. Verenigde Staten of VS.
+      >   * Gebruik voor de naam van het land de volledige naam van het land of de afkorting. Eg. Verenigde Staten of VS.
       >   * Voor een Amerikaanse staat gebruikt u de 2-letterige afkorting code, d.w.z. CA. Alleen staten in de VS worden herkend.
 
    >
@@ -68,11 +65,11 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
 
 ## Een accountlijst bewerken {#edit-an-account-list}
 
-Klik op de pagina **Accountlijsten** op het pictogram **Bewerken** in de lijst.
+Op de **Accountlijsten** pagina, klikt u op de knop **Bewerken** in de lijst.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Selecteer **Bladeren** en upload uw nieuwe CSV-bestand. Dit bestand vervangt het oorspronkelijke bestand. Klik **Opslaan**. Het nieuwe geüploade bestand bevindt zich in de wachtrij totdat het is goedgekeurd door Marketo Support. In een status in behandeling blijft het oorspronkelijke bestand actief.
+Selecteren **Bladeren** en uploadt u uw nieuwe CSV-bestand. Dit bestand vervangt het oorspronkelijke bestand. Klikken **Opslaan**. Het nieuwe geüploade bestand bevindt zich in een status die in behandeling is totdat het is goedgekeurd door Marketo Support. In een status die in behandeling is, blijft het oorspronkelijke bestand actief.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
@@ -80,11 +77,11 @@ Het bestaande bestand wordt vervangen door het CSV-bestand. De bestaande lijst b
 
 ## Een lijst met benoemde accounts verwijderen {#delete-a-named-account-list}
 
-1. Klik op de pagina **Accountlijsten** op het pictogram Verwijderen van de lijst die u wilt verwijderen.
+1. Op de **Accountlijsten** klikt u op het pictogram Verwijderen van de lijst die u wilt verwijderen.
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. Er wordt een bericht weergegeven ter bevestiging dat u de lijst wilt verwijderen. Klik **OK**.
+1. Er wordt een bericht weergegeven ter bevestiging dat u de lijst wilt verwijderen. Klikken **OK**.
 
    ![](assets/delete-notification-hand.jpg)
 

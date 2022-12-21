@@ -2,24 +2,23 @@
 unique-page-id: 11378871
 description: SMS-berichten gebruiken in Smart List Triggers and Filters - Marketo Docs - Productdocumentatie
 title: SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 9a629a39-fddc-4ec5-b1c5-d5053d676594
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
+# SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-# SMS-berichten met kwasten gebruiken in Smart List-triggers en -filters {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
+Na u [een SMS-bericht voor Vibes maken](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md), zult u slimme lijsttrekkers en filters binnen een slimme campagne willen gebruiken om de voordelen te krijgen. Zo gaat het.
 
-Nadat u [een SMS-bericht van Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md) creeert, zult u slimme lijsttrekkers en filters binnen een slimme campagne willen gebruiken om de voordelen te krijgen. Zo gaat het.
-
-1. In Mijn Marketo, klik **Marketing Activiteiten**.
+1. Klik in Mijn Marketo op **Marketingactiviteiten**.
 
    ![](assets/image2016-7-28-9-3a48-3a32.png)
 
-1. Kies een slimme campagne waarin u uw SMS-middel wilt gebruiken. Sleep over een trigger, zoals het populaire **Formulier invullen**.
+1. Kies een slimme campagne waarin u uw SMS-middel wilt gebruiken. Sleep over een trigger, zoals de populaire **Formulier wordt ingevuld**.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
@@ -35,29 +34,29 @@ Met de trigger voor SMS-berichtenbeloften wordt een stroom gestart, zoals het ve
 
 ![](assets/sms-message-bounces-real.jpg)
 
-Met de trigger **Abonneren op Levenlijst** wordt een flow gestart wanneer een persoon zich abonneert.
+De **Abonneren op lijst met beeldbestanden** trigger start een flow wanneer een persoon zich abonneert.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-De **Klik Verbinding in SMS Message** trekker in werking stelt een stroom in werking wanneer een persoon op een verbinding in het bericht van SMS klikt.
+De **Klik op Koppeling in SMS-bericht** activeert een stroom wanneer een persoon op een verbinding in het bericht van SMS klikt.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## SMS-filters {#sms-filters}
 
-U kunt ook Vibes-filters gebruiken in slimme lijsten. Met het filter **Subscribed to Vibes List** vindt u iedereen die *ever* heeft geabonneerd op Vibes. Dit geldt zowel voor niet-geabonneerde als voor verwijderde personen, ook al worden verwijderde personen weggelaten uit de stroom. Dit filter is het meest geschikt voor rapportage.
+U kunt ook Vibes-filters gebruiken in slimme lijsten. De **Geabonneerd op de Levendenlijst** filter zoekt iedereen die *ooit* geabonneerd op Vibes. Dit geldt zowel voor niet-geabonneerde als voor verwijderde personen, ook al worden verwijderde personen weggelaten uit de stroom. Dit filter is het meest geschikt voor rapportage.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Met het filter **Lid van lijst met Vibes** vindt u _Iedereen_ die momenteel is geabonneerd op Vibes en die het meest geschikt is voor gebruik in slimme campagnes of lijsten.
+De **Lid van de lijst van Vibes** filtervondsten _iedereen_ momenteel geabonneerd op Vibes en is het meest geschikt voor gebruik in slimme campagnes of lijsten.
 
 ![](assets/image001.png)
 
 >[!NOTE]
 >
->Alle filters van SMS omvatten **de Datum van Activiteit** beperking door gebrek.
+>Alle SMS-filters bevatten de **Datum van activiteit** beperking standaard.
 
-Nadat u de triggers en filters van Vibes in uw slimme lijst hebt ingesteld, kunt u [de flow](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md) definiëren.
+Nadat u Vibes-triggers en -filters hebt ingesteld in uw slimme lijst, kunt u [de flow definiëren](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 
 >[!MORELIKETHIS]
 >

@@ -5,7 +5,7 @@ title: Taken toewijzen aan teamleden
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 source-git-commit: 01a131e58a3f4ea80d30363d152608820530163e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Als u met andere teamleden wilt samenwerken, kan het toewijzen van taken een gro
 >
 >U kunt alleen taken toewijzen voor gedeelde contactpersonen.
 
-1. Klik op **Command Center**.
+1. Klik op de knop **Opdrachtcentrum**.
 
    ![](assets/one-1.png)
 
-1. Klik **Taak toevoegen**.
+1. Klikken **Taak toevoegen**.
 
    ![](assets/two-1.png)
 

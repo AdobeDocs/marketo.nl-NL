@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14352543
-description: Onjuiste ontvangerlocatie - Marketo Docs - Productdocumentatie
+description: Onjuiste locatie voor ontvanger - Marketo Docs - Productdocumentatie
 title: Onjuiste locatie ontvanger
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
-
 
 # Onjuiste locatie ontvanger {#incorrect-recipient-location}
 

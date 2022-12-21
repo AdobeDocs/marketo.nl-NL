@@ -2,18 +2,17 @@
 unique-page-id: 2359614
 description: Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier - Marketo Docs - Productdocumentatie
 title: Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
-
 # Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Als u [een veldtype](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) hebt ingesteld als een keuzerondje of als u type selecteert, wilt u de waarden definiëren waaruit de gebruiker kan kiezen. Zo gaat het.
+Eenmaal [een veldtype instellen](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) Als u een keuzerondje wilt zijn of tekst wilt selecteren, kunt u de waarden definiëren waaruit de gebruiker kan kiezen. Zo gaat het.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -39,27 +38,27 @@ Als u [een veldtype](/help/marketo/product-docs/administration/field-management/
    >
    >**Definitie**
    >
-   >**Weergavewaarde:** wat wordt weergegeven aan de bezoeker.
+   >**Weergavewaarde:** Wat wordt getoond aan de bezoeker.
    >
-   >**Opgeslagen waarde:** Wat wordt opgenomen in Marketo.
+   >**Opgeslagen waarde:** Wat wordt er opgenomen in Marketo.
 
-1. Voeg zoveel waarden toe als u nodig hebt en klik vervolgens op **Opslaan**.
+1. Voeg zoveel waarden toe als u nodig hebt en klik op **Opslaan**.
 
    >[!NOTE]
    >
-   >Als u geen Opgeslagen Waarde ingaat, zal Marketo de Waarde van de Vertoning gebruiken en zal dat opslaan.
+   >Als je geen opgeslagen waarde opgeeft, gebruikt Marketo de weergavewaarde en slaat die op.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 
    >[!TIP]
    >
-   >Klik **Geavanceerde Redacteur** om een lijst van waarden te kopiëren/te kleven als u wilt. Het kan in real-time besparen zijn.
+   >Klikken **Geavanceerde editor** om desgewenst een lijst met waarden te kopiëren/plakken. Het kan in real-time besparen zijn.
 
-1. Klik **Voltooien**.
+1. Klikken **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Klik **Goedkeuren en Sluiten**.
+1. Klikken **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

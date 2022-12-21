@@ -70,13 +70,13 @@ Met onze nieuwe LinkedIn API kunt u nu personen in uw Marketo-database heroriën
 
 ## Webpersonalisatie {#web-personalization}
 
-**Japanse gegevensbron voor Web Personalization**
+**Japanse gegevensbron voor webpersonalisatie**
 
-Marketo voegt een extra Japanse gegevensbron voor Web Personalization toe om de identificatie van de Webbezoeker (omgekeerde IP raadpleging) en verpersoonlijking voor bezoekers te verbeteren die uit Japan komen. Organisatie-namen worden in het Japans weergegeven.
+Marketo voegt een extra Japanse gegevensbron voor het Personaliseren van het Web toe om Webbezoekersidentificatie (omgekeerde IP raadpleging) en verpersoonlijking voor bezoekers te verbeteren die uit Japan komen. Organisatie-namen worden in het Japans weergegeven.
 
 **[Creeer een Segment van het Web Gebruikend Statische Lijsten](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-Web Personalization kan inhoud nu personaliseren naar een bekende webbezoeker die deel uitmaakt van een statische lijst die is gedefinieerd in Marketingactiviteiten (MLM). Met deze verbetering, kunt u aan statische lijsten over kanalen nu in de handel brengen en mensen op deze lijsten met gepersonaliseerde inhoud op uw website richten.
+De Personalisering van het Web kan inhoud aan een bekende Webbezoeker nu personaliseren die deel van een statische lijst uitmaakt die in de Activiteiten van de Marketing (MLM) wordt bepaald. Met deze verbetering, kunt u aan statische lijsten over kanalen nu in de handel brengen en mensen op deze lijsten met gepersonaliseerde inhoud op uw website richten.
 
 ## ContentAI {#contentai}
 

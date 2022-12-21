@@ -1,19 +1,18 @@
 ---
 unique-page-id: 14352436
-description: Lokale aanwezigheid op de verkooptelefoon - Marketo Docs - Productdocumentatie
+description: Lokale aanwezigheid op de verkooptelefoon - Marketo-documenten - productdocumentatie
 title: Lokale aanwezigheid op verkooptelefoon
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-
 # Lokale aanwezigheid op verkooptelefoon {#sales-phone-local-presence}
 
-Wanneer u als u wilt kijken zoals u van zelfde gebiedscode van iemand roept, controleer eenvoudig de **Lokale Aanwezigheid** doos alvorens de vraag te maken.
+Wanneer u wilt kijken zoals u van iemands zelfde gebiedscode roept, controleer eenvoudig **Lokale aanwezigheid** doos alvorens de vraag te maken.
 
 ## Veelgestelde vragen over lokale aanwezigheid {#local-presence-faq}
 

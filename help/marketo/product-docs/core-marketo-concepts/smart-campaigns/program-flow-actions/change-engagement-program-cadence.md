@@ -3,7 +3,6 @@ unique-page-id: 1147013
 description: Aanwezigheid wijzigingsprogramma Cadence - Marketo Docs - Productdocumentatie
 title: Cadre van het Programma van de Aanwezigheid van de Verandering
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '103'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Cadence {#change-engagement-program-cadence} van betrokkenheidsprogramma wijzigen
+# Cadre van het Programma van de Aanwezigheid van de Verandering {#change-engagement-program-cadence}
 
 1. Overzicht
 
@@ -29,8 +28,8 @@ ht-degree: 0%
 
    ![](assets/image2014-9-22-14-3a49-3a27.png)
 
-1. Selecteer **Gepauzeerd** als **Nieuwe waarde** om te voorkomen dat de persoon inhoud ontvangt.
+1. Selecteren **Gepauzeerd** als de **Nieuwe waarde** om te voorkomen dat de persoon inhoud ontvangt.
 
    ![](assets/image2014-9-22-14-3a49-3a31.png)
 
-U kunt de persoon terugzetten op **Normaal** als u wilt dat deze opnieuw inhoud ontvangt.
+U kunt de persoon instellen op **Normaal** als u wilt dat ze opnieuw inhoud ontvangen.

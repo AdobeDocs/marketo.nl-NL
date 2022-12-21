@@ -2,26 +2,25 @@
 unique-page-id: 30081307
 description: Kolommen met personenpagina's - Marketo Docs - Productdocumentatie
 title: Kolommen met personenpagina's
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-
-# Kolommen {#people-page-columns} Personen
+# Kolommen met personenpagina&#39;s {#people-page-columns}
 
 U kunt aanpassen welke contactinformatie u ziet door te kiezen welke kolommen worden getoond.
 
-## Hoe te om Kolommen {#how-to-select-columns} te selecteren
+## Kolommen selecteren {#how-to-select-columns}
 
 1. Klik op het pictogram Lijstinstellingen op de pagina Personen.
 
    ![](assets/one-5.png)
 
-1. Blader door de gewenste kolommen en selecteer deze. (U kunt ook op **Alles selecteren** klikken als u elke kolom wilt.) Klik wanneer u klaar bent uit de lijst.
+1. Door de gewenste kolommen bladeren en deze selecteren (u kunt ook op **Alles selecteren** als u elke kolom wilt). Klik wanneer u klaar bent uit de lijst.
 
    ![](assets/two-4.png)
 
@@ -50,7 +49,7 @@ U kunt aanpassen welke contactinformatie u ziet door te kiezen welke kolommen wo
    <td colspan="1">E-mailadres</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Telefoon</td> 
+   <td colspan="1">Telefoonnummer</td> 
    <td colspan="1">Telefoonnummer</td> 
   </tr> 
   <tr> 
@@ -126,7 +125,7 @@ U kunt aanpassen welke contactinformatie u ziet door te kiezen welke kolommen wo
    <td>Groepen dat de persoon deel uitmaakt van</td> 
   </tr> 
   <tr> 
-   <td colspan="1">Abonnement opgezegd</td> 
+   <td colspan="1">Niet geabonneerd</td> 
    <td colspan="1">Status abonnement op verkoop opzeggen</td> 
   </tr> 
  </tbody> 

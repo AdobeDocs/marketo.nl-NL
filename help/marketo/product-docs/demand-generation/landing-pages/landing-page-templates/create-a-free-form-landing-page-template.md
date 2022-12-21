@@ -2,16 +2,15 @@
 unique-page-id: 10097969
 description: Een landingspaginasjabloon in vrije vorm maken - Marketo Docs - Productdocumentatie
 title: Een sjabloon voor vrije bestemmingspagina maken
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-
-# Een sjabloon voor vrije landingspagina maken {#create-a-free-form-landing-page-template}
+# Een sjabloon voor vrije bestemmingspagina maken {#create-a-free-form-landing-page-template}
 
 Voor vrije-vormbestemmingspagina&#39;s is minder technische kennis nodig dan voor de door hen geleide tegenhangers. Volg onderstaande stappen om een sjabloon voor toekomstige bestemmingspagina&#39;s te maken.
 
@@ -19,7 +18,7 @@ Voor vrije-vormbestemmingspagina&#39;s is minder technische kennis nodig dan voo
 
    ![](assets/one.png)
 
-1. Klik **Nieuw**, dan uitgezocht **Nieuwe het Bestanden van het Malplaatje van de Pagina**.
+1. Klikken **Nieuw** selecteert u vervolgens **Nieuwe sjabloon voor bestemmingspagina**.
 
    ![](assets/two.png)
 
@@ -27,15 +26,15 @@ Voor vrije-vormbestemmingspagina&#39;s is minder technische kennis nodig dan voo
 
    ![](assets/three.png)
 
-1. De sjabloon moet op een nieuw tabblad worden geopend. Het is nu bewerkbaar voor iedereen die bekend is met CSS/HTML.
+1. De sjabloon moet op een nieuw tabblad worden geopend. Deze kan nu worden bewerkt aan iedereen die bekend is met CSS/HTML.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Marketo Support is niet ingesteld als hulp bij het oplossen van problemen met aangepaste HTML. Neem contact op met een webontwikkelaar voor HTML-ondersteuning.
+   >Marketo Support is niet ingesteld als hulp bij het oplossen van problemen met aangepaste HTML. Neem contact op met een webontwikkelaar voor hulp bij HTML.
 
-1. Wanneer u klaar bent met het aanbrengen van uitgeeft, klik **Sjabloonacties**, dan uitgezocht **goedkeuren en Sluiten**.
+1. Als u klaar bent met het aanbrengen van bewerkingen, klikt u op **Sjabloonhandelingen** selecteert u vervolgens **Goedkeuren en Sluiten**.
 
    ![](assets/five.png)
 
@@ -43,8 +42,8 @@ Voor vrije-vormbestemmingspagina&#39;s is minder technische kennis nodig dan voo
 
    >[!NOTE]
    >
-   >Selecteer **Munchkin-tracking** uitschakelen als u wilt voorkomen dat formulieren vooraf worden ingevuld, of als u alleen het webgedrag op een bepaalde pagina wilt bijhouden.\
-   >Selecteer **Mobiele compatibiliteit valideren** om ervoor te zorgen dat uw code compatibel is met mobiele apparaten.
+   >Selecteren **Munchkin-tracking uitschakelen** als u wilt voorkomen dat formulieren vooraf worden ingevuld, of als u alleen het webgedrag op een bepaalde pagina wilt bijhouden.\
+   >Selecteren **Mobiele compatibiliteit valideren** om ervoor te zorgen dat uw code compatibel is met mobiele apparaten.
 
    >[!MORELIKETHIS]
    >

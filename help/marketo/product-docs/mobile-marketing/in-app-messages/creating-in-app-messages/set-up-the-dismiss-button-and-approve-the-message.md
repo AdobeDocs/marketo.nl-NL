@@ -2,18 +2,17 @@
 unique-page-id: 10912178
 description: De knop Ontwerpen instellen en het bericht - Marketo Docs - Productdocumentatie goedkeuren
 title: De knop Ontwerpen instellen en het bericht goedkeuren
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '346'
 ht-degree: 0%
 
 ---
 
+# De knop Ontwerpen instellen en het bericht goedkeuren {#set-up-the-dismiss-button-and-approve-the-message}
 
-# De knop Ontwerpen instellen en het bericht {#set-up-the-dismiss-button-and-approve-the-message} goedkeuren
-
-## Eigenschappen van knop Afwijzen configureren {#configure-dismiss-button-properties}
+## Eigenschappen van knop Afwijzen configureren  {#configure-dismiss-button-properties}
 
 De knoop van de Ontkenning heeft vele opties om u het te laten vormen zoals u wilt.
 
@@ -45,11 +44,11 @@ De knoop van de Ontkenning heeft vele opties om u het te laten vormen zoals u wi
    >
    >U moet de knop Afwijzen een tikactie geven, dus er is geen selectievakje om deze in te schakelen. Bericht negeren is de (voor de hand liggende) standaardkeuze.
 
-## {#wrap-it-up} omsluiten
+## Omhoog plaatsen {#wrap-it-up}
 
 Alle selecties voor de afbeeldingen, tekst en knoppen zijn automatisch opgeslagen. Nu ben je klaar om het werk af te maken.
 
-1. Als u een voorbeeld van uw bericht in de app wilt bekijken, klikt u op de vervolgkeuzelijst **Berichthandelingen** en selecteert u **Voorvertoning**.
+1. Klik op de knop **Berichthandelingen** vervolgkeuzelijst en selecteer **Voorvertoning**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,21 +56,21 @@ Alle selecties voor de afbeeldingen, tekst en knoppen zijn automatisch opgeslage
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. Als u tevreden bent met het in-app bericht, klik **Goedkeuren &amp; Sluiten**.
+1. Als u tevreden bent met het bericht in de app, klikt u op **Goedkeuren en sluiten**.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >U kunt **Goedkeuren &amp; Sluiten** van de drop-down Acties van het Bericht ook selecteren (zie stap 1), maar waarom niet voorproef eerst het bericht, enkel om veilig te zijn?
+   >U kunt ook **Goedkeuren en sluiten** rechtstreeks van de drop-down Acties van het Bericht (zie stap 1), maar waarom niet voorproef het bericht eerst, enkel om veilig te zijn?
 
-1. Als u de editor wilt sluiten zonder deze goed te keuren, sluit u gewoon het tabblad. Het wordt automatisch opgeslagen, zodat kunt u het later terugkeren en goedkeuren.
+1. Als u de editor wilt sluiten zonder deze goed te keuren, sluit u gewoon het tabblad. Het wordt automatisch opgeslagen, zodat u het later kunt terugkeren en goedkeuren.
 
    ![](assets/image2016-5-9-11-3a9-3a46.png)
 
 Zoveel keuzes, maar nu heb je een geweldige boodschap in de app, klaar om te gaan!
 
-Nu is het tijd om [uw bericht te verzenden](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+Nu is het tijd om [verzend uw bericht](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >

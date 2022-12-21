@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14746177
-description: Abonnement opzeggen - Marketo Docs - Productdocumentatie
+description: Abonnement op opzeggen herschrijven - Marketo Docs - Productdocumentatie
 title: Abonnement opzeggen
-translation-type: tm+mt
-source-git-commit: 1649aae540204bb5de205e3f5b75ec7e968a7da4
+exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
-
-# Abonnement op opzeggen {#resubscribing-an-unsubscribe} herschrijven
+# Abonnement opzeggen {#resubscribing-an-unsubscribe}
 
 Soms willen mensen ervoor kiezen om e-mails te ontvangen. Dit is hoe je afmeldingsberichten weer mailbaar kunt maken.
 
@@ -27,20 +26,20 @@ Soms willen mensen ervoor kiezen om e-mails te ontvangen. Dit is hoe je afmeldin
 >
 >Als u synchronisatie hebt afgebroken, moet u het afmelden van ToutApp verwijderen en de optie om te weigeren in Salesforce uitschakelen, zodat de persoonrecord niet opnieuw kan worden gesynchroniseerd.
 
-1. Ga naar [webtoepassing](https://toutapp.com/login) en klik **Personen**.
+1. Ga naar de [webtoepassing](https://toutapp.com/login) en klik op **Mensen**.
 
 1. Selecteer de persoon om de weergave van de persoondetails te openen.
 
    ![](assets/two.png)
 
-1. Klik op de drie stippen in de weergave met persoonlijke details en selecteer **Unsubscribe** verwijderen.
+1. Klik op de drie stippen in de weergave met persoonlijke details en selecteer **Abonnement verwijderen**.
 
    ![](assets/three.png)
 
-1. Selecteer de reden waarom de persoon weer wordt binnengeklikt om e-mails te ontvangen en klik vervolgens op **Abonnement verwijderen**.
+1. Selecteer de reden waarom de persoon weer wordt ingeschakeld om e-mails te ontvangen en klik vervolgens op **Abonnement verwijderen**.
 
    ![](assets/four.png)
 
 >[!NOTE]
 >
->Als u de synchronisatie voor afmelden hebt ingeschakeld, moet u ook de optie Weigeren uitschakelen in de record in Salesforce. Als u de synchronisatie &#39;s nachts hebt uitgeschakeld, wordt de afmelding van de persoon in Sales Connect geannuleerd, omdat de persoon in Salesforce niet is aangemeld. Als een van de records de optie Weigeren/afmelden heeft, markeert de synchronisatie de gekoppelde record als zodanig.
+>Als u de synchronisatie voor afmelden hebt ingeschakeld, moet u ook de optie Weigeren uitschakelen in de record in Salesforce. Als de synchronisatie &#39;s nachts wordt uitgevoerd, wordt de afmelding van de persoon in Sales Connect geannuleerd, omdat de persoon in Salesforce wordt uitgeschakeld. Als een van de records de optie Weigeren/afmelden heeft, markeert de synchronisatie de gekoppelde record als zodanig.

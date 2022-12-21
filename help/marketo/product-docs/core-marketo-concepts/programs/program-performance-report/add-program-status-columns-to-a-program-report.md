@@ -3,7 +3,6 @@ unique-page-id: 1147239
 description: Programmastatuskolommen toevoegen aan een programmarapport - Marketo Docs - Productdocumentatie
 title: De Kolommen van de Status van het Programma aan een Rapport van het Programma toevoegen
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
@@ -11,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# De Kolommen van de Status van het Programma aan een Rapport van het Programma {#add-program-status-columns-to-a-program-report} toevoegen
+# De Kolommen van de Status van het Programma aan een Rapport van het Programma toevoegen {#add-program-status-columns-to-a-program-report}
 
-Voeg statistieken over programmastatus aan uw [rapport van programmaprestaties](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md) toe.
+Statistische gegevens over de status van het programma toevoegen aan uw [programmeerprestatierapport](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md).
 
 1. Ga naar Marketing Activiteiten (of Analytics).
 
@@ -23,7 +22,7 @@ Voeg statistieken over programmastatus aan uw [rapport van programmaprestaties](
 
    ![](assets/emailperformance.jpg)
 
-1. Klik op de tab **Setup** en sleep over de tag Channel.
+1. Klik op de knop **Instellen** en sleep over de tag Kanaal.
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -33,9 +32,9 @@ Voeg statistieken over programmastatus aan uw [rapport van programmaprestaties](
 
    >[!TIP]
    >
-   >Om de kolommen van de programmastatus te tonen, moet uw rapport door _enkel één_ kanaal worden gefiltreerd.
+   >Om de kolommen van de programmastatus te tonen, moet uw rapport door worden gefiltreerd _slechts één_ kanaal.
 
-1. Schakel de optie voor het weergeven van programmastatuskolommen in. Klik **Toepassen**.
+1. Schakel de optie voor het weergeven van programmastatuskolommen in. Klikken **Toepassen**.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
@@ -45,7 +44,7 @@ Voeg statistieken over programmastatus aan uw [rapport van programmaprestaties](
 
 >[!NOTE]
 >
->Als u geen kolom voor elke status in het programma ziet, zorg ervoor u [de kolommen hebt geselecteerd om ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) in het rapport te tonen.
+>Als u geen kolom voor elke status in het programma ziet, zorg ervoor u hebt [de kolommen geselecteerd die moeten worden weergegeven](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) in het verslag.
 
 >[!MORELIKETHIS]
 >

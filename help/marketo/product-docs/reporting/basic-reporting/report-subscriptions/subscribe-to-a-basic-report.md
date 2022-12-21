@@ -2,14 +2,13 @@
 unique-page-id: 2359987
 description: Abonneren op een basisrapport - Marketo Docs - Productdocumentatie
 title: Abonneren op een basisrapport
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
-
 
 # Abonneren op een basisrapport {#subscribe-to-a-basic-report}
 
@@ -17,21 +16,21 @@ Als u automatische updates van een basisrapport wilt ontvangen of deze wilt dele
 
 >[!NOTE]
 >
->Voor de rapportabonnementen van de Ontdekkingsreiziger van de Ontvangsten Cycle, zie [Abonneren aan een Rapport van de Ontdekkingsreiziger van de Ontvangsten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Voor de rapportabonnementen van de Ontdekkingsreiziger van de Opbrengst, zie [Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Ga naar **Marketing Activities** gebied.
+1. Ga naar de **Marketingactiviteiten** gebied.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Selecteer uw rapport in de navigatiestructuur en klik op het tabblad **Abonnementen**.
+1. Selecteer uw rapport in de navigatiestructuur en klik op de knop **Abonnementen** tab.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >U kunt ook een abonnement nemen op rapporten via het tabblad **Analytics**.
+   >U kunt zich ook abonneren op rapporten van de **Analyse** tab.
 
-1. Klik **Nieuw Abonnement van het Rapport**.
+1. Klikken **Nieuw abonnement op rapport**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -49,4 +48,4 @@ Als u automatische updates van een basisrapport wilt ontvangen of deze wilt dele
 
    >[!MORELIKETHIS]
    >
-   >Leer hoe te om [al uw rapportabonnementen ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats te beheren.
+   >Leer hoe u [al uw rapportabonnementen beheren](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) op één plaats.

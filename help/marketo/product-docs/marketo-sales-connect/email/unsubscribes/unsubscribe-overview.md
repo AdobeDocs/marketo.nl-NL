@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14746161
-description: Abonnementsoverzicht opzeggen - Marketo Docs - Productdocumentatie
+description: Abonnementsoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van abonnement opzeggen
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 3212d5be-07ea-47bd-874e-25d02513c23b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
-
-# Overzicht {#unsubscribe-overview} opzeggen
+# Overzicht van abonnement opzeggen {#unsubscribe-overview}
 
 Het wordt steeds belangrijker dat organisaties zich houden aan de privacywetgeving voor e-mail. Om dit te helpen, hebben we een aantal verbeteringen aangebracht in onze ervaring voor afmelden.
 

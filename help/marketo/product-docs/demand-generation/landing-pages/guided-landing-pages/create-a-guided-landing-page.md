@@ -2,24 +2,23 @@
 unique-page-id: 7515266
 description: Een bestemmingspagina met instructies maken - Marketo Docs - Productdocumentatie
 title: Een bestemmingspagina met instructies maken
-translation-type: tm+mt
-source-git-commit: d78ecbec87d69cde66b583d21d7e0c95539bb6ec
+exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
 
 ---
 
-
-# Bewegingspagina met instructies maken {#create-a-guided-landing-page}
+# Een bestemmingspagina met instructies maken {#create-a-guided-landing-page}
 
 >[!NOTE]
 >
->De modi van de bestemmingspagina worden bepaald door hun sjabloon. [Meer ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) informatie over sjablonen voor vrije en geleide landingspagina&#39;s.
+>De modi van de bestemmingspagina worden bepaald door hun sjabloon. [Meer informatie](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) informatie over sjablonen voor vrije-vormpagina&#39;s en geleide landingspagina&#39;s.
 
 >[!PREREQUISITES]
 >
->Als u een aangepaste sjabloon wilt gebruiken, moet u eerst [een sjabloon voor een geleide openingspagina maken](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
+>Als u een aangepaste sjabloon wilt gebruiken, moet u eerst [een sjabloon voor een geleide bestemmingspagina maken](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
 ## Een pagina met instructies-landingen maken in een programma {#create-a-guided-landing-page-in-a-program}
 
@@ -33,19 +32,19 @@ Geleide landingspagina&#39;s kunnen als lokale activa van een programma of in de
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Klik op de vervolgkeuzelijst **Nieuw**. Selecteer **Nieuw lokaal element**.
+1. Klik op de knop **Nieuw** vervolgkeuzelijst. Selecteren **Nieuw lokaal element**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Selecteer **Openingspagina**.
+1. Selecteren **Openingspagina**.
 
    ![](assets/four.png)
 
-1. Geef de landingspagina een naam. Klik op de vervolgkeuzelijst **Sjabloon** en selecteer **Sjabloon met instructies**.
+1. Geef de landingspagina een naam. Klik op de knop **Sjabloon** vervolgkeuzelijst en selecteer **Sjabloon met instructies**.
 
    >[!NOTE]
    >
-   >Geleide het landen paginasjablonen hebben ![—](assets/image2015-5-26-9-3a26-3a51.png) pictogram naast hen. Sjablonen met instructies zijn gestructureerd zodat ze volledig reageren.
+   >Geleide landingspagina-sjablonen hebben de ![—](assets/image2015-5-26-9-3a26-3a51.png) naast hen. Sjablonen met instructies zijn gestructureerd zodat ze volledig reageren.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
@@ -55,20 +54,20 @@ Geleide landingspagina&#39;s kunnen als lokale activa van een programma of in de
 
    ![](assets/six.png)
 
-1. Klik op de vervolgkeuzelijst **Nieuw**. Selecteer **Nieuwe bestemmingspagina**.
+1. Klik op de knop **Nieuw** vervolgkeuzelijst. Selecteren **Nieuwe bestemmingspagina**.
 
    ![](assets/seven.png)
 
-1. Geef de landingspagina een naam. Klik op de vervolgkeuzelijst **Sjabloon** en selecteer **Sjabloon met instructies**.
+1. Geef de landingspagina een naam. Klik op de knop **Sjabloon** vervolgkeuzelijst en selecteer **Sjabloon met instructies**.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
-1. Klik **Maken**.
+1. Klikken **Maken**.
 
    ![](assets/image2015-5-26-9-3a28-3a8.png)
 
 >[!TIP]
 >
->De URL wordt automatisch samengesteld op basis van de naam van het programma en de landingspagina. Als u de URL wilt wijzigen, bewerkt u het veld **Pagina-URL**.
+>De URL wordt automatisch samengesteld op basis van de naam van het programma en de landingspagina. Als u de URL wilt wijzigen, bewerkt u de **Pagina-URL** veld.
 >
->Schakel het selectievakje **Openen in editor** uit als u niet wilt dat de editor direct wordt geopend nadat u op **Maken** hebt geklikt.
+>Wis de **Openen in editor** selectievakje als u niet wilt dat de editor direct wordt geopend nadat u op **Maken**.

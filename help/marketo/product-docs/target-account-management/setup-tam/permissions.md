@@ -1,25 +1,24 @@
 ---
 unique-page-id: 11380778
-description: Machtigingen - Marketo Docs - Productdocumentatie
+description: Machtigingen - Marketo-documenten - productdocumentatie
 title: Machtigingen
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
 
 ---
 
-
 # Machtigingen {#permissions}
 
 U zult toestemmingen voor uw gebruikers moeten plaatsen om TAM te kunnen gebruiken. Zo gaat het.
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/one-2.png)
 
-1. Klik **Gebruikers &amp; rollen**.
+1. Klikken **Gebruikers en rollen**.
 
    ![](assets/two-2.png)
 
@@ -27,15 +26,15 @@ U zult toestemmingen voor uw gebruikers moeten plaatsen om TAM te kunnen gebruik
    >
    >U kunt TAM-machtigingen toevoegen voor een bestaande rol of een geheel nieuwe rol maken. In dit voorbeeld wordt een nieuwe rol gebruikt.
 
-1. Klik **Rollen**, dan **Nieuwe Rol**.
+1. Klikken **Rollen** vervolgens **Nieuwe rol**.
 
    ![](assets/three-2.png)
 
-1. Voer een rolnaam in en klik op het pictogram **+** naast het selectievakje Account Management (Accountbeheer van doel benaderen).
+1. Voer een rolnaam in en klik op de knop **+** pictogram naast het selectievakje Account Management (Accountbeheer van doel benaderen).
 
    ![](assets/permissions-4.png)
 
-1. Als u _alle_ machtigingen wilt selecteren, schakelt u gewoon het selectievakje **Toegang tot doelaccountbeheer** in.
+1. Als u _alles_ rechten, gewoon de **Toegang tot accountbeheer** selectievakje.
 
    ![](assets/permissions-5.png)
 
@@ -43,8 +42,8 @@ U zult toestemmingen voor uw gebruikers moeten plaatsen om TAM te kunnen gebruik
    >
    >U kunt ook slechts enkele opties selecteren. Doe dat door elk selectievakje afzonderlijk in te schakelen.
 
-1. Klik **+** om het menu van Admin van de Toegang te openen. Schakel het selectievakje **Access ABM Admin** (ABM is de vorige naam voor TAM) in en klik op **Create**.
+1. Klik op de knop **+** om het menu Toegangsbeheer te openen. Controleer de **Toegang tot ABM-beheerder** checkbox (ABM is de vorige naam voor TAM) en klik **Maken**.
 
    ![](assets/permissions-6.png)
 
-   Uw nieuwe rol van TAM is nu klaar om [aan een gebruiker ](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user) worden toegewezen!
+   Uw nieuwe TAM-rol is nu klaar om te worden [toegewezen aan een gebruiker](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md#assign-roles-to-a-user)!

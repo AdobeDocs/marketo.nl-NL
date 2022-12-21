@@ -16,11 +16,11 @@ De volgende functies zijn opgenomen in de release van mei 2014. Controleer of de
 
 ## Werkruimte verwijderen {#delete-workspace}
 
-Nu kunt u [een ongebruikte werkruimte](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md) schrappen. Verplaats alle elementen naar een andere werkruimte voordat u de werkruimte verwijdert.
+Nu kunt u [een ongebruikte werkruimte verwijderen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Verplaats alle elementen naar een andere werkruimte voordat u de werkruimte verwijdert.
 
 ## Eerste cast plannen {#schedule-first-cast}
 
-In betrokkenheidsprogramma&#39;s kunt u de datum voor de [eerste cast plannen om](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md) uit te voeren. Bijvoorbeeld, specificeer de kadentie om twee weken moet zijn en selecteer de datum van de eerste gietvorm.
+In betrokkenheidsprogramma&#39;s kunt u de datum voor de [eerste cast om te worden uitgevoerd](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Bijvoorbeeld, specificeer de kadentie om twee weken moet zijn en selecteer de datum van de eerste gietvorm.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -32,7 +32,7 @@ Nu krijgt iedereen meerdere programma&#39;s, streams en communicatielimieten.
 
 ## Koppeling bijhouden in tekste-mails {#link-tracking-in-text-emails}
 
-[Dubbele vierkante ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) haakjes toevoegen rondom URL&#39;s in de tekstversie van uw e-mails om aan te geven wanneer koppelingen moeten worden geconverteerd naar doorgestuurde Marketo-volgkoppelingen
+[Dubbele vierkante haakjes toevoegen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md) rond URL&#39;s in de tekstversie van je e-mails om aan te geven wanneer koppelingen moeten worden geconverteerd naar doorgestuurde Marketo-trackingkoppelingen
 
 >[!NOTE]
 >
@@ -42,12 +42,12 @@ Nu krijgt iedereen meerdere programma&#39;s, streams en communicatielimieten.
 
 Standaard worden geen koppelingen bijgehouden in de tekstversie van e-mails. Voeg deze nieuwe syntaxis toe om aan te geven wanneer een koppeling moet worden geconverteerd naar een koppeling voor reeksspatiëring. Het gedrag van HTML-koppelingen is ongewijzigd.  Bijgehouden koppelingen toevoegen aan uw e-mails:
 
-* **HTML-versie:** Alleen de koppeling invoegen. Deze wordt standaard bijgehouden.
-* **Tekstversie:** Voer de URL tussen dubbele vierkante haken in.
+* **HTML-versie:** Voeg gewoon uw koppeling in. Deze wordt standaard bijgehouden.
+* **Tekstversie:** Voer de URL tussen dubbele vierkante haakjes in.
 
 Als u niet-bijgehouden koppelingen aan e-mails wilt toevoegen:
 
-* **HTML-versie:** Voeg uw koppeling in en voeg de klasse &quot;marketNoTrack&quot; toe aan de koppeling.
+* **HTML-versie:** Voeg de koppeling in en voeg de klasse &quot;marketNoTrack&quot; toe aan de koppeling.
 * **Tekstversie:** Voer gewoon de URL in. Deze wordt standaard verwijderd.
 
 ![](assets/image2014-9-22-12-3a1-3a34.png)
@@ -58,7 +58,7 @@ Bekijk hoe je links zich in e-mails zullen gedragen. Voorbeelde-mails geven nu k
 
 ## Campagne afbreken {#abort-campaign}
 
-Geen paniek! Als u een fout vindt, gebruikt u de nieuwe [abort campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) knoop om campagnes in hun sporen onmiddellijk tegen te houden. U ontvangt een melding waarin wordt aangegeven hoeveel leads in elke flowstap waren verwerkt toen de campagne werd gestopt.
+Geen paniek! Als u een fout vindt, gebruikt u de nieuwe [campagne afbreken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) om de campagnes in hun sporen onmiddellijk te stoppen. U ontvangt een melding waarin wordt aangegeven hoeveel leads in elke flowstap waren verwerkt toen de campagne werd gestopt.
 
 ## Verkoopinzicht in Japans, Portugees en Spaans {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -68,11 +68,11 @@ Download de nieuwste versie van Sales Insight van AppExchange, zodat uw Japans, 
 
 ## Tijdschema voor de status en het succes van het programma in de analyse van het lidmaatschap van het programma {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Bekijk hoeveel [leden in elke Status van het Programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) en wanneer zij in elke status, met inbegrip van de datum zijn veranderd toen zij het Succes van het Programma bereikten.
+Hoeveel weergeven [de leden in elke Status van het Programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) en wanneer zij in elke status zijn veranderd, met inbegrip van de datum waarop zij het succes van het programma hebben bereikt.
 
 ## E-mails testen in e-mailanalyse {#a-b-test-emails-in-email-analysis}
 
-Rapport over elk van uw [A/B test e-mailvarianten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in E-mailanalyse.
+Rapport over elk van uw [E-mailvarianten van een A/B-test](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in e-mailanalyse.
 
 ## Wijzigingen in pakket analyseren {#analytics-packaging-changes}
 
@@ -80,4 +80,4 @@ Revenue Cycle Modeler and Success Path Analyzer is nu inbegrepen in MA Standard 
 
 ## Informatie over mobiel Platform {#mobile-platform-info}
 
-[Segmenteer en ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) activeer de e-mails van leads die u opent en klik op hun mobiele apparaten.
+[Segment en trigger](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) uit de mogelijkheid om e-mails van mobiele apparaten te openen en erop te klikken.

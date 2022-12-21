@@ -3,7 +3,6 @@ unique-page-id: 4719300
 description: Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen - Marketo Docs - Productdocumentatie
 title: Aangepast objectveld toevoegen/verwijderen als slimme lijst/triggerbeperkingen
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '192'
@@ -19,15 +18,15 @@ Marketo biedt fijnkorrelige controle over het synchroniseren van aangepaste obje
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Klik **Admin.**
+1. Klikken **Admin.**
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Klik **Admin** en **Salesforce-objecten synchroniseren.**
+1. Klikken **Beheer** en vervolgens **Salesforce-objecten synchroniseren.**
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **De** syntaxis van Salesforce-objecten staat in de linkerkolom.
+1. **Salesforce-objecten synchroniseren** in de linkerkolom.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,11 +34,11 @@ Marketo biedt fijnkorrelige controle over het synchroniseren van aangepaste obje
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Klik **Zichtbare velden bewerken**.
+1. Klikken **Zichtbare velden bewerken**.
 
    >[!TIP]
    >
-   >Als de **knop Zichtbare velden bewerken** grijs wordt weergegeven, wordt het object momenteel gebruikt in een slimme lijst of slimme campagne. Verwijder alle koppelingen om door te gaan.
+   >Als de **Zichtbare velden bewerken** is uitgeschakeld, wordt het object momenteel gebruikt in een slimme lijst of slimme campagne. Verwijder alle koppelingen om door te gaan.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
@@ -55,7 +54,7 @@ Marketo biedt fijnkorrelige controle over het synchroniseren van aangepaste obje
    >
    >Alle velden worden standaard geselecteerd als beperkingen op filters.
 
-1. Klik op het tabblad **Velden** om uw wijzigingen te bevestigen.
+1. Klik op de knop **Velden** om uw wijzigingen te bevestigen.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 

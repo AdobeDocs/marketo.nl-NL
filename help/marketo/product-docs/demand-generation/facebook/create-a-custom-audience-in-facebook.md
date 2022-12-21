@@ -5,7 +5,7 @@ title: Een aangepast publiek maken in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 source-git-commit: 68befac1804f2d6e4d42a2967577e14fef8a6ff1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,6 @@ ht-degree: 0%
 >
 >* [Aangepast publiek voor Facebook toevoegen als een opstartpuntservice](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) in de sectie Beheer.
 >* [Voorwaarden voor aangepast publiek voor Facebook accepteren](https://www.facebook.com/ads/manage/customaudiences/tos.php) in uw Facebook-account.
-
 >
 
 

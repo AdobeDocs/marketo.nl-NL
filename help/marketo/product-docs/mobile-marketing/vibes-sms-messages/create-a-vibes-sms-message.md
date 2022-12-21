@@ -3,7 +3,6 @@ unique-page-id: 11378869
 description: Een SMS-bericht over Vibes maken - Marketo Docs - Productdocumentatie
 title: Een SMS-bericht voor Vibes maken
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
-translation-type: tm+mt
 source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
 workflow-type: tm+mt
 source-wordcount: '372'
@@ -27,15 +26,15 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
 
    ![](assets/mobile-right-click-hand.jpg)
 
-1. Klik **Nieuw Lokaal element**.
+1. Klikken **Nieuw lokaal element**.
 
    ![](assets/new-local-asset-hand.jpg)
 
    >[!TIP]
    >
-   >U kunt ook op de vervolgkeuzelijst **Nieuw** klikken.
+   >U kunt ook op de knop **Nieuw** vervolgkeuzelijst.
 
-1. Klik **SMS-bericht**.
+1. Klikken **SMS-bericht**.
 
    ![](assets/new-local-asset-selection-hand.jpg)
 
@@ -43,7 +42,7 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
 
    ![](assets/new-sms-message-offer-ends-soon-hands.jpg)
 
-1. Klik **Concept bewerken**.
+1. Klikken **Concept bewerken**.
 
    ![](assets/edit-draft-hand.jpg)
 
@@ -55,7 +54,7 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
    >
    >De Amerikaanse en Canadese limieten zijn verschillend: respectievelijk 160 en 130 tekens. Als u deze tekenlimieten overschrijdt, kan het bericht worden gesplitst. Terwijl wij tonen wanneer u de Canadese grens overschrijdt, wordt de redacteur geoptimaliseerd voor V.S. en verdeelt het bericht dat op de grens van de V.S. wordt gebaseerd.
 
-1. Klik **Token** in het menu van het Tussenvoegsel om een teken aan uw bericht toe te voegen.
+1. Klikken **Token** in het menu Invoegen om een token aan uw bericht toe te voegen.
 
    ![](assets/add-token-real-hand.jpg)
 
@@ -63,11 +62,11 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
    >
    >Als u een token toevoegt, kan het bericht de tekenlimiet overschrijden. Het bericht wordt vervolgens gesplitst, wat extra kosten tot gevolg heeft.
 
-1. Klik **Verbinding** in het menu van het Tussenvoegsel om een verbinding aan uw bericht toe te voegen.
+1. Klikken **Koppeling** in het menu Invoegen om een koppeling naar uw bericht toe te voegen.
 
    ![](assets/full-message-link-hand.jpg)
 
-1. Selecteer een koppelingstype. Marketo Landing Page is de standaard. Als u hiermee werkt, moet u de bestemmingspagina selecteren in de vervolgkeuzelijst en op **Invoegen** klikken.
+1. Selecteer een koppelingstype. Marketo Landing Page is de standaard. Als u hiermee werkt, moet u de openingspagina selecteren in de vervolgkeuzelijst en op **Invoegen**.
 
    ![](assets/insert-link-real-hands.jpg)
 
@@ -75,7 +74,7 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
    >
    >De twee koppelingen voor reeksspatiëring zijn standaard geselecteerd.
 
-1. Als u een externe URL in plaats daarvan wilt gebruiken, klikt u op de knop **Externe URL** en voert u de URL in het veld URL in. Klik **Invoegen**.
+1. Als u in plaats daarvan een externe URL wilt gebruiken, klikt u op de knop **Externe URL** en voert u de URL in het veld URL in. Klikken **Invoegen**.
 
    ![](assets/insert-link-url-hands.jpg)
 

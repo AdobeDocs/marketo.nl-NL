@@ -3,7 +3,6 @@ unique-page-id: 10100266
 description: Inzicht krijgen in aangepaste activiteiten - Marketo Docs - Productdocumentatie
 title: Aangepaste activiteiten begrijpen
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Aangepaste activiteiten {#understanding-custom-activities}
+# Aangepaste activiteiten begrijpen {#understanding-custom-activities}
 
 Houd een actie bij die iemand specifiek voor uw bedrijf heeft ondernomen met aangepaste activiteiten.
 
@@ -27,7 +26,7 @@ Met aangepaste activiteiten kunt u een activiteit volgen die niet gerelateerd is
 >
 >Aangepaste activiteiten verschillen van aangepaste objecten. Gebruik aangepaste objecten wanneer de waarde kan worden gewijzigd (d.w.z. &quot;autokleur&quot; verandert van blauw in rood). Gebruik aangepaste activiteiten wanneer u momenten bijhoudt die zijn opgetreden en de details ervan kunnen niet worden gewijzigd (dat wil zeggen: &quot;gekochte auto&quot;).
 
-**** FieldsU kunt  [ ](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) extra gebieden toevoegen die u aan uw activiteit wenst te associëren. Net als het primaire veld kunnen ze worden gebruikt als filtercriteria in een slimme lijst.
+**Velden** U kunt toevoegen [extra velden](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) die u aan uw activiteit wilt associëren. Net als het primaire veld kunnen ze worden gebruikt als filtercriteria in een slimme lijst.
 
 **Aan de slag**
 

@@ -2,24 +2,23 @@
 unique-page-id: 3571888
 description: Aangepaste veldsynchronisatie inschakelen voor conjunctuuranalyse - Marketo Docs - Productdocumentatie
 title: Aangepaste veldsynchronisatie inschakelen voor inkomstencyclusanalyse
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-
-# Aangepaste veldsynchronisatie inschakelen voor conjunctuuranalyse {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# Aangepaste veldsynchronisatie inschakelen voor inkomstencyclusanalyse {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 De volgende stappen zullen u toestaan om douanevelden in RCA- rapporten te gebruiken.
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/one.png)
 
-1. Klik **Analyse omzetcyclus**, dan **Aangepaste gebiedssynchronisatie**.
+1. Klikken **Analyse van inkomstencyclus** vervolgens **Aangepaste veldsynchronisatie**.
 
    ![](assets/two.png)
 
@@ -27,7 +26,7 @@ De volgende stappen zullen u toestaan om douanevelden in RCA- rapporten te gebru
 
    ![](assets/three.png)
 
-1. Selecteer **Ingeschakeld** onder Synchronisatiestatus en klik vervolgens op **Opslaan**.
+1. Selecteer onder Synchronisatiestatus de optie **Ingeschakeld** en klik vervolgens op **Opslaan**.
 
    ![](assets/four.png)
 

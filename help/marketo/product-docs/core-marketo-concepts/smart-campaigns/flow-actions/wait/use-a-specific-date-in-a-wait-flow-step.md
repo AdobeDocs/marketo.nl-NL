@@ -3,7 +3,6 @@ unique-page-id: 1146976
 description: Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht - de Documenten van Marketo - de Documentatie van het Product
 title: Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '109'
@@ -13,9 +12,9 @@ ht-degree: 0%
 
 # Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht {#use-a-specific-date-in-a-wait-flow-step}
 
-U kunt **Wacht** debietstap gebruiken om de reis van een persoon door een slimme campagne tot een bepaalde datum te pauzeren.
+U kunt de **Wachten** stap om de reis van een persoon door een slimme campagne tot een bepaalde datum te pauzeren.
 
-1. In uw slimme campagne **Stroom** tabel, sleep over **Wacht** debietstap.
+1. In uw slimme campagne **Stroom** tab, sleep over de **Wachten** stap Stroom.
 
    ![](assets/image2014-9-22-11-3a50-3a55.png)
 
@@ -23,7 +22,7 @@ U kunt **Wacht** debietstap gebruiken om de reis van een persoon door een slimme
 
    ![](assets/image2014-9-22-11-3a50-3a59.png)
 
-1. Selecteer **Datum** in de vervolgkeuzelijst **Type**.
+1. Van de **Type** vervolgkeuzelijst, selecteert u **Datum**.
 
    ![](assets/image2014-9-22-11-3a51-3a27.png)
 

@@ -2,18 +2,17 @@
 unique-page-id: 2359543
 description: Een veld toevoegen aan een formulier - Marketo Docs - Productdocumentatie
 title: Een veld toevoegen aan een formulier
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: cda45a69-128b-4cdc-846e-637acb9555da
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-
 # Een veld toevoegen aan een formulier {#add-a-field-to-a-form}
 
-Als u het formulier [hebt gemaakt, en [een thema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md) hebt geselecteerd, wilt u mogelijk extra velden toevoegen die door personen kunnen worden ingevuld. ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) Zo gaat het.
+Eenmaal [Uw formulier maken](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) en [een thema geselecteerd](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), kunt u extra velden toevoegen die door mensen kunnen worden ingevuld. Zo gaat het.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -23,7 +22,7 @@ Als u het formulier [hebt gemaakt, en [een thema](/help/marketo/product-docs/dem
 
    ![](assets/editform-1.png)
 
-1. Klik op het **+**-teken.
+1. Klik op de knop **+** ondertekenen.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -39,7 +38,7 @@ Als u het formulier [hebt gemaakt, en [een thema](/help/marketo/product-docs/dem
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. Klik nu **Goedkeuren en Sluiten**.
+1. Klik nu op **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 
@@ -47,4 +46,4 @@ Als u het formulier [hebt gemaakt, en [een thema](/help/marketo/product-docs/dem
 >
 >Vergeet niet alle concepten van de bestemmingspagina goed te keuren die zijn gemaakt als gevolg van de wijzigingen in het formulier.
 
-Helemaal niet slecht. Houd het goede werk bij! Wat gebeurt er met het volgende [maken van een formulierveld vereist](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)?
+Helemaal niet slecht. Houd het goede werk bij! Hoe moeten we leren hoe te [een formulierveld vereist maken](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) volgende ?

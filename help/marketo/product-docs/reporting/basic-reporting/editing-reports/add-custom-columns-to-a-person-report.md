@@ -2,28 +2,27 @@
 unique-page-id: 2360201
 description: Aangepaste kolommen toevoegen aan een persoonlijk rapport - Marketo Docs - Productdocumentatie
 title: Aangepaste kolommen toevoegen aan een Persrapport
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
-
 # Aangepaste kolommen toevoegen aan een Persrapport {#add-custom-columns-to-a-person-report}
 
-U kunt de metriek in uw persoonrapporten verder filtreren door uw [slimme lijsten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) als douanekolommen te gebruiken.
+U kunt de metriek in uw persoonrapporten verder filtreren door uw te gebruiken [slimme lijsten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) als aangepaste kolommen.
 
-1. Ga naar het **Marketingactiviteiten** (of **Analytics**) gebied.
+1. Ga naar de **Marketingactiviteiten** (of **Analyse**).
 
    ![](assets/ma-1.png)
 
-1. Selecteer uw rapport en klik **Opstelling** tabel.
+1. Selecteer uw rapport en klik op **Instellen** tab.
 
    ![](assets/two-1.png)
 
-1. Sleep over **Aangepaste kolommen**.
+1. Slepen over **Aangepaste kolommen**.
 
    ![](assets/three-1.png)
 
@@ -31,10 +30,10 @@ U kunt de metriek in uw persoonrapporten verder filtreren door uw [slimme lijste
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. Je hebt het gedaan! Klik **Rapport** lusje om uw rapport met de nieuwe kolommen te zien.
+1. Je hebt het gedaan! Klik op de knop **Rapport** om uw rapport met de nieuwe kolommen te zien.
 
    ![](assets/five-1.png)
 
    >[!MORELIKETHIS]
    >
-   >U kunt [de Kolommen van de Opportunity aan een Lead ook toevoegen Report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).
+   >U kunt ook [Opportunity-kolommen toevoegen aan een lead-rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-opportunity-columns-to-a-lead-report.md).

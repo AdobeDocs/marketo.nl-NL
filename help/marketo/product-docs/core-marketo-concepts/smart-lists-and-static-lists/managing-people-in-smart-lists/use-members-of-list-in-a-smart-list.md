@@ -3,7 +3,6 @@ unique-page-id: 2953173
 description: Leden van lijst in een slimme lijst gebruiken - Marketo Docs - Productdocumentatie
 title: Leden van lijst gebruiken in een slimme lijst
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '137'
@@ -15,15 +14,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->U kunt mensen aan een lijst toevoegen gebruikend [Invoer](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) of [toevoegen aan de debietstap van de Lijst](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
+>U kunt personen aan een lijst toevoegen met [Importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) of de [Stroom toevoegen aan lijst](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md).
 
 Met dit filter kunt u leden uit een andere lijst trekken door ernaar te verwijzen in de slimme-lijstregels. Zo gaat het.
 
-1. Selecteer een slimme lijst en klik **Slimme Lijst** tabel.
+1. Selecteer een slimme lijst en klik op de knop **Slimme lijst** tab.
 
    ![](assets/smartlist-sltab.png)
 
-1. Zoek in het venster met filters aan de rechterkant naar het filter **Lid van lijst** en sleep dit naar het canvas.
+1. Zoek en sleep in het venster met filters aan de rechterkant het gereedschap **Lid van de lijst** op het canvas.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 

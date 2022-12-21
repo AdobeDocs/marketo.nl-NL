@@ -3,7 +3,6 @@ unique-page-id: 1147134
 description: Verplaatsen van items in de programmaplanningweergave - Marketo Docs - Productdocumentatie
 title: Verplaatsen van ingangen in de Mening van het Programma
 exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '80'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Bewegende ingangen in de Mening {#moving-entries-in-the-program-schedule-view} van het Programma
+# Verplaatsen van ingangen in de Mening van het Programma {#moving-entries-in-the-program-schedule-view}
 
 Als u items verplaatst in de overzichtsweergave, worden deze automatisch opnieuw gepland.
 
 >[!NOTE]
 >
->Een reeds uitgevoerde slimme campagne, betrokkenheidsprogramma, of een berichtexplosie kan niet worden bewogen.
+>Een reeds uitgevoerde slimme campagne, betrokkenheidsprogramma, of het blazen van de post kan niet worden bewogen.
 
 1. Selecteer uw ingang. Sleep en zet het neer op een andere datum.
 

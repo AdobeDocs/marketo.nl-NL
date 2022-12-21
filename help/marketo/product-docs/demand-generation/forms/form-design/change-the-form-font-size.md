@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2359610
-description: Tekengrootte van formulier wijzigen - Marketo Docs - Productdocumentatie
+description: De tekengrootte van het formulier wijzigen - Marketo Docs - Productdocumentatie
 title: De tekengrootte van het formulier wijzigen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
-
 # De tekengrootte van het formulier wijzigen {#change-the-form-font-size}
 
-Met Marketo kunt u het uiterlijk van uw formulieren eenvoudig aanpassen. U kunt bijvoorbeeld de tekengrootte wijzigen. Zo gaat het.
+Marketo maakt het voor u gemakkelijk om het uiterlijk van uw formulieren aan te passen. U kunt bijvoorbeeld de tekengrootte wijzigen. Zo gaat het.
 
 >[!TIP]
 >
@@ -27,19 +26,19 @@ Met Marketo kunt u het uiterlijk van uw formulieren eenvoudig aanpassen. U kunt 
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Selecteer **Instellingen** onder **Formulierinstellingen**.
+1. Onder **Formulierinstellingen**, selecteren **Instellingen**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Selecteer de gewenste **Tekengrootte**.
+1. Selecteer **Tekengrootte** wilt u.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. Klik **Voltooien**.
+1. Klikken **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Klik **Goedkeuren en Sluiten**.
+1. Klikken **Goedkeuren en Sluiten**.
 
    >[!NOTE]
    >

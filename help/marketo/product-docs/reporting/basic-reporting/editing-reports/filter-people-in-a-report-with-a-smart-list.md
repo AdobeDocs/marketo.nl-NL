@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2360016
-description: Filter Mensen in een Rapport met een Slimme Lijst - Marketo Docs - de Documentatie van het Product
+description: Filter Personen in een rapport met een slimme lijst - Marketo Docs - Productdocumentatie
 title: Personen in een rapport filteren met een slimme lijst
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
 
 ---
-
 
 # Personen in een rapport filteren met een slimme lijst {#filter-people-in-a-report-with-a-smart-list}
 
@@ -28,11 +27,11 @@ U kunt slimme lijsten met deze rapporttypes gebruiken:
 * [Webactiviteit bedrijf](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Activiteit webpagina](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Ga naar **Marketing Activities** gebied.
+1. Ga naar de **Marketingactiviteiten** gebied.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. Selecteer uw rapport van de navigatieboom en klik **Slimme Lijst** tabel.
+1. Selecteer uw rapport in de navigatiestructuur en klik op de knop **Slimme lijst** tab.
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -44,7 +43,7 @@ U kunt slimme lijsten met deze rapporttypes gebruiken:
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. Klik **Rapport** tabel om uw gefilterde rapport te zien.
+1. Klik op de knop **Rapport** om uw gefilterde rapport te bekijken.
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 

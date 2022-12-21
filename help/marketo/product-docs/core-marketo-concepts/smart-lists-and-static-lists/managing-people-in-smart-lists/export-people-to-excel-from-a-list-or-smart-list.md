@@ -18,7 +18,7 @@ Als u resultaten met lijsten of slimme lijsten buiten Marketo nodig hebt, kunt u
 
    ![](assets/ma.png)
 
-1. Selecteer de lijst of de slimme lijst u wilt uitvoeren en naar **Mensen** tabel gaan.
+1. Selecteer de lijst of de slimme lijst die u wilt exporteren en ga naar de **Mensen** tab.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -26,22 +26,22 @@ Als u resultaten met lijsten of slimme lijsten buiten Marketo nodig hebt, kunt u
 
    ![](assets/exportpeople.png)
 
-1. Selecteer **Zichtbare kolommen** en klik **Exporteren**.
+1. Selecteren **Zichtbare kolommen** en klik op **Exporteren**.
 
    ![](assets/image2014-9-11-14-3a1-3a37.png)
 
    >[!NOTE]
    >
-   >Als u **Alle Kolommen** kiest, is de uitvoer groter en duurt het langer om te genereren/downloaden.
+   >Als u **Alle kolommen**, wordt het exporteren groter en duurt het langer om te genereren/downloaden.
 
    >[!TIP]
    >
-   >Als uw persoonrecords vreemde tekens bevatten die niet correct worden gerenderd bij het exporteren, wijzigt u het bestandstype in de vervolgkeuzelijst **Indeling**.
+   >Als uw persoonlijke records vreemde tekens bevatten die niet correct worden gerenderd bij het exporteren, wijzigt u het bestandstype in het dialoogvenster **Indeling** vervolgkeuzelijst.
 
-1. Het exporteren wordt uitgevoerd. Als u klaar bent, kunt u **Nu downloaden** om het bestand te pakken.
+1. Het exporteren wordt uitgevoerd. Als u klaar bent, kunt u klikken op **Nu downloaden** om het bestand te pakken.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Als het exporteren enige tijd in beslag neemt, kunt u zich altijd afmelden en later terugkeren. De **Download nu** verbinding kan worden betreden door **de Status van de Uitvoer van de Show te selecteren** in **de Handelingen van de Lijst** menu, en is geldig voor één week.
+   >Als het exporteren enige tijd in beslag neemt, kunt u zich altijd afmelden en later terugkeren. De **Nu downloaden** de koppeling is toegankelijk door **Exportstatus tonen** in de **Handelingen weergeven** en is één week geldig.

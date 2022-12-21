@@ -1,21 +1,20 @@
 ---
 unique-page-id: 10095084
-description: Afbeeldingsresultaten van de Ontdekkingsreiziger van de Inkomsten - Marketo DOS - de Documentatie van het Product
+description: Grafiekresultaten van de Ontdekkingsreiziger van de Inkomsten - de Documenten van Marketo - productdocumentatie
 title: Grafiekresultaten van de Ontdekkingsreiziger van de Inkomsten
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
-
-# Afbeeldingsresultaten van inkomstenverkenner {#graphing-results-from-revenue-explorer}
+# Grafiekresultaten van de Ontdekkingsreiziger van de Inkomsten {#graphing-results-from-revenue-explorer}
 
 Standaard worden rapporten in Indelingsverkenner weergegeven als een tabel. U kunt de resultaten ook weergeven als een grafiek in verschillende indelingen.
 
-1. Klik de pijl in **Mening als** drop-down menu van uw rapport. Er worden verschillende grafische opties weergegeven.
+1. Klik op de pijl in het dialoogvenster **Weergeven als** vervolgkeuzemenu van uw rapport. Er worden verschillende grafische opties weergegeven.
 
    ![](assets/one-1.png)
 
@@ -33,15 +32,15 @@ Standaard worden rapporten in Indelingsverkenner weergegeven als een tabel. U ku
 
 ![](assets/100-stacked-column.png)
 
-**Regel**: Elke kolom wordt weergegeven als een lijn en elke rij als een gegevenspunt op de regel.
+**Lijn**: Elke kolom wordt weergegeven als een lijn en elke rij als een gegevenspunt op de regel.
 
 ![](assets/line.png)
 
-**Kolomlijnde keuzelijst**: Combinatie van kolom- en lijngrafieken.
+**Kolomlijnde combinatie**: Combinatie van kolom- en lijngrafieken.
 
 ![](assets/column-line-combo.png)
 
-**Staaf**: Elke rij en kolom in de tabel wordt weergegeven als een horizontale balk.
+**Balk**: Elke rij en kolom in de tabel wordt weergegeven als een horizontale balk.
 
 ![](assets/bar.png)
 
@@ -61,7 +60,7 @@ Standaard worden rapporten in Indelingsverkenner weergegeven als een tabel. U ku
 
 ![](assets/pie.png)
 
-**Zonneexplosie**: Radiale grafiek die kenmerken in segmenten vertegenwoordigt.
+**Zonsondergang**: Radiale grafiek die kenmerken in segmenten vertegenwoordigt.
 
 ![](assets/sunburst.png)
 

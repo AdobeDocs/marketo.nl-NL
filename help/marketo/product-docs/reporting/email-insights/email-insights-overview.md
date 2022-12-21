@@ -2,20 +2,19 @@
 unique-page-id: 10099408
 description: Overzicht van e-mailinzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van e-mailinzichten
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-
 # Overzicht van e-mailinzichten {#email-insights-overview}
 
 E-mailinzichten bieden krachtige inzichten van historische gegevens voor e-mailmarketers. Het bestaat uit twee afzonderlijke maar bijbehorende secties: Analyses en verzendingen.
 
-Als u e-mailinzichten wilt openen, klikt u gewoon op de tegel in Mijn markeerteken (of op het beginscherm van Analytics).
+Als u e-mailinzichten wilt openen, klikt u gewoon op de tegel in Mijn Marketo (of het beginscherm van Analytics).
 
 ![](assets/icon.png)
 
@@ -25,25 +24,25 @@ Als u e-mailinzichten wilt openen, klikt u gewoon op de tegel in Mijn markeertek
 
 ## Analyse {#analytics}
 
-Gebruik [Analytics](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) om de geaggregeerde gegevens uit de tijdreeks voor e-maillevering en betrokkenheidsmetriek te verkennen.
+Gebruiken [Analyse](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md) om de geaggregeerde tijdreeksgegevens voor e-maillevering en betrokkenheidsgegevens te verkennen.
 
 ![](assets/emailanalytics.jpg)
 
 **Filters**
 
-Gebruikt geavanceerd [filters](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) om resultaten door Publiek, Inhoud, of Platform te onderbreken. Dezelfde filters zijn van toepassing op zowel Analytics als Send.
+Gebruikt geavanceerd [filters](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) om resultaten op Audience, Inhoud, of Platform te verdelen. Dezelfde filters zijn van toepassing op zowel Analytics als Send.
 
 ![](assets/filter.png)
 
 **Snelle grafieken**
 
-[Snelle ](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) grafieken zijn miniaturen die u maakt en opslaat en bieden een snelle weergave van grafieken die voor u van belang zijn.
+[Snelle grafieken](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md) Dit zijn miniaturen die u maakt en opslaat en die u een snelle weergave bieden van grafieken die voor u van belang zijn.
 
 ![](assets/three.png)
 
-## Verzendt {#sends}
+## Verzenden {#sends}
 
-Onderzoek in [Verzendt ](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) pagina, de kenmerken van recente e-mailmededeling.
+In de [Verzenden](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md) pagina, bekijkt u de kenmerken van recente e-mailcommunicatie.
 
 ![](assets/two.png)
 
@@ -59,7 +58,7 @@ Klik op Metrische balken om de kleuren in getallen om te zetten.
 
 ## Aangepaste Dimension {#custom-dimensions}
 
-Alle standaardafmetingen voor markeren zijn inbegrepen, maar u kunt maximaal 10 aangepaste afmetingen toevoegen. [Aangepaste ](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) afmetingen bestaan uit segmentaties en programmatags.
+Alle standaard Marketo-afmetingen zijn inbegrepen, maar u kunt maximaal 10 aangepaste afmetingen toevoegen. [Aangepaste afmetingen](/help/marketo/product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md) bestaan uit segmentaties en programmatags.
 
 >[!MORELIKETHIS]
 >

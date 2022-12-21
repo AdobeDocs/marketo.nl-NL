@@ -2,28 +2,27 @@
 unique-page-id: 2950553
 description: Video Share Flow aanpassen - Marketo Docs - Productdocumentatie
 title: Stroom voor delen van video aanpassen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 7dd97f67-7255-483a-a30d-926faab8a3c1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-
 # Stroom voor delen van video aanpassen {#customize-video-share-flow}
 
-Wanneer u [een videoaandeel creeert](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), kunt u aanpassen wanneer en waar de aandeelherinnering verschijnt.
+Wanneer u [een gedeelde video maken](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)kunt u aanpassen wanneer en waar de gedeelde vraag verschijnt.
 
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Selecteer de app en klik op **Concept** bewerken.
+1. Selecteer de app en klik op **Concept bewerken**.
 
    ![](assets/image2014-9-22-16-3a40-3a41.png)
 
-1. Ga in de videobewerker van het aandeel, naar **App Montages** > **Geavanceerde Opties**.
+1. Ga in de video-editor naar **App-instellingen** > **Geavanceerde opties**.
 
    ![](assets/image2014-9-22-16-3a41-3a3.png)
 
@@ -33,4 +32,4 @@ Wanneer u [een videoaandeel creeert](/help/marketo/product-docs/demand-generatio
 
 >[!MORELIKETHIS]
 >
->De volgende stap is [te vormen wat na videoaandeel](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md) gebeurt.
+>De volgende stap is: [configureren wat er gebeurt na het delen van video](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

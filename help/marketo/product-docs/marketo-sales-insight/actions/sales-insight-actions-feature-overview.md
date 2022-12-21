@@ -4,7 +4,7 @@ title: Overzicht van de functie Handelingen Handelingen in het verkoopoverzicht
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1356'
 ht-degree: 0%
 
 ---

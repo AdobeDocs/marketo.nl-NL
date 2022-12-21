@@ -1,29 +1,28 @@
 ---
 unique-page-id: 11385940
-description: Voorspelende inhoud voor rijke media bewerken - Marketo Docs - Productdocumentatie
+description: Predictieve inhoud voor rijke media bewerken - Marketo Docs - Productdocumentatie
 title: Predictieve inhoud voor rijke media bewerken
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
-
-# Voorspelende inhoud voor rijke media {#edit-predictive-content-for-rich-media} bewerken
+# Predictieve inhoud voor rijke media bewerken {#edit-predictive-content-for-rich-media}
 
 Hier is hoe te opstelling uw vooruitlopende inhoud voor Rijke Media.
 
 >[!PREREQUISITES]
 >
->Inhoud moet [goedgekeurd zijn voor voorspellende inhoud](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de pagina Alle inhoud.
+>Inhoud moet [goedgekeurd voor voorspellende inhoud](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) op de pagina Alle inhoud.
 
-1. Klik op de pagina **Predictive Content** op een titel om de editor te openen.
+1. Op de **Voorspelende inhoud** klikt u op een titel om de editor te openen.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Klik **Rijke media**.
+1. Klikken **Rijke media**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -31,11 +30,11 @@ Hier is hoe te opstelling uw vooruitlopende inhoud voor Rijke Media.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. Typ een **Beschrijving**.
+1. Tekst in een **Beschrijving**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Klik op het vak **Categorieën** om [categorieën te selecteren/toe te voegen die u al hebt ingesteld](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (optioneel).
+1. Klik op de knop **Categorieën** te selecteren/toe te voegen [rubrieken die je al hebt ingesteld](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (optioneel).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -51,6 +50,6 @@ Hier is hoe te opstelling uw vooruitlopende inhoud voor Rijke Media.
 
    ![](assets/six-1.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/save.png)

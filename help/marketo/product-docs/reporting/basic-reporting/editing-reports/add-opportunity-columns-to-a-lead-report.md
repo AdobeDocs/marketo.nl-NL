@@ -1,37 +1,36 @@
 ---
 unique-page-id: 2360018
-description: Voeg de Kolommen van de Kans aan een Loodrapport toe - Marketo Docs - de Documentatie van het Product
+description: Opportunity-kolommen toevoegen aan een lead-rapport - Marketo Docs - Productdocumentatie
 title: Opportunity-kolommen toevoegen aan een lead-rapport
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
-
-# Voeg de Kolommen van de Kans aan een Rapport {#add-opportunity-columns-to-a-lead-report} van de Leiding toe
+# Opportunity-kolommen toevoegen aan een lead-rapport {#add-opportunity-columns-to-a-lead-report}
 
 Om de statistieken over kansen in uw persoonrapporten te zien, kunt u opportuniteitskolommen toevoegen.
 
-1. Ga naar **Marketing Activities** gebied.
+1. Ga naar de **Marketingactiviteiten** gebied.
 
    ![](assets/ma.png)
 
-1. Selecteer uw rapport van de navigatieboom en klik **Opstelling** tabel.
+1. Selecteer uw rapport in de navigatiestructuur en klik op de knop **Instellen** tab.
 
    ![](assets/two.png)
 
-1. Dubbelklik **Opportunity Columns**.
+1. Dubbelklikken **Opportunity-kolommen**.
 
    ![](assets/three.png)
 
-1. Selecteer **Getoonde** van het drop-down menu.
+1. Selecteren **Weergegeven** in het keuzemenu.
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Klik **Rapport** lusje om uw rapport met opportuniteitsmetriek te zien.
+1. Klik op de knop **Rapport** om uw rapport met opportuniteitsmetriek te bekijken.
 
    ![](assets/five.png)
 
@@ -39,7 +38,7 @@ Om de statistieken over kansen in uw persoonrapporten te zien, kunt u opportunit
    >
    >Schuif naar rechts om meer kolommen weer te geven.
 
-1. Als u [kolommen wilt toevoegen aan of verwijderen uit het rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), klikt u op een kolomkop en selecteert u **Kolommen**.
+1. Naar [kolommen toevoegen aan of verwijderen uit het rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), klikt u op een kolomkop en selecteert u **Kolommen**.
 
    ![](assets/six.png)
 
@@ -51,8 +50,8 @@ Om de statistieken over kansen in uw persoonrapporten te zien, kunt u opportunit
 
    | Kolom | Beschrijving |
    |---|---|
-   | Geen kans | Aantal mensen die *niet* een primaire opportuniteitcontact zijn. |
-   | Dagen niet mogelijk | Gemiddelde leeftijd, in dagen, van personen die *geen* als primaire contactpersoon zijn. |
+   | Geen kans | Aantal personen *niet* een eerste opportuniteitscontact. |
+   | Dagen niet mogelijk | Gemiddelde leeftijd, in dagen, van mensen die *niet* een primair contact. |
    | Heeft mogelijkheid | Aantal personen dat een primaire opportuniteitcontact is. |
    | Heeft opportunity % | Percentage van de personen die een eerste opportuniteitscontact zijn. |
    | Dagen tot opportuniteit | Gemiddeld aantal dagen voor conversie van persoon naar primaire opportuniteitscontact. |
@@ -68,4 +67,4 @@ Om de statistieken over kansen in uw persoonrapporten te zien, kunt u opportunit
 
    >[!MORELIKETHIS]
    >
-   >Leer hoe te om [de grootte van uw rapport te beheren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >Leer hoe u [beheer de grootte van uw rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

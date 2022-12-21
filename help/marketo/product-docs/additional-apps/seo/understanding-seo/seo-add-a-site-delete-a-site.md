@@ -3,7 +3,6 @@ unique-page-id: 2949194
 description: SEO - Een site toevoegen/een site verwijderen - Marketo Docs - Productdocumentatie
 title: SEO - Een site toevoegen/een site verwijderen
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
@@ -19,9 +18,9 @@ Marketo kan alleen gegevens (binnenkomende koppelingen en aanbevelingen) ophalen
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-## Site {#add-a-site} toevoegen
+## Site toevoegen {#add-a-site}
 
-1. Klik op de vervolgkeuzelijst Beheer en selecteer **Admin**.
+1. Klik op de vervolgkeuzelijst Beheerder en selecteer **Beheer**.
 
    >[!NOTE]
    >
@@ -29,15 +28,15 @@ Marketo kan alleen gegevens (binnenkomende koppelingen en aanbevelingen) ophalen
 
    ![](assets/one.png)
 
-1. Klik **Site toevoegen**.
+1. Klikken **Site toevoegen**.
 
    ![](assets/two.png)
 
-1. Voer de **Naam, website-URL** in en klik op **Opslaan**.
+1. Voer de **Naam, website-URL** en klik op **Opslaan**.
 
    >[!TIP]
    >
-   >U kunt ook een **Blog URL** toevoegen als u een URL hebt.
+   >U kunt ook een **Blog URL** als je er een hebt.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -45,11 +44,11 @@ Marketo kan alleen gegevens (binnenkomende koppelingen en aanbevelingen) ophalen
 
    ![](assets/four.png)
 
-## Een site {#delete-a-site} verwijderen
+## Een site verwijderen {#delete-a-site}
 
 Als u meerdere sites bijhoudt, kunt u ook een site verwijderen die u niet meer wilt optimaliseren.
 
-1. Klik op de vervolgkeuzelijst Beheer en selecteer **Admin**.
+1. Klik op de vervolgkeuzelijst Beheerder en selecteer **Beheer**.
 
    ![](assets/one.png)
 
@@ -57,14 +56,14 @@ Als u meerdere sites bijhoudt, kunt u ook een site verwijderen die u niet meer w
 
    ![](assets/six.png)
 
-1. Klik **Delete**.
+1. Klikken **Verwijderen**.
 
    ![](assets/seven.png)
 
-1. Bevestig dat u **Delete** wilt.
+1. Bevestig dat u wilt **Verwijderen**.
 
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >U kunt een site alleen verwijderen als u meerdere sites hebt. Als u slechts één hebt, kunt u het terugstellen uitvoeren door de plaats te selecteren en **Terugstellen** te klikken. Als u een site opnieuw instelt, worden alle sitegegevens _verwijderd en wordt de site opnieuw gemaakt._
+   >U kunt een site alleen verwijderen als u meerdere sites hebt. Als u slechts één site hebt, kunt u een reset uitvoeren door de site te selecteren en op **Herstellen**. Als u een site opnieuw instelt, wordt _alle sitegegevens verwijderen_ en maak de site opnieuw.

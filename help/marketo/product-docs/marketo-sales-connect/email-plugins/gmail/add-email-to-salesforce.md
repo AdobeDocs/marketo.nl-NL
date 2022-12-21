@@ -2,14 +2,13 @@
 unique-page-id: 14352483
 description: E-mail toevoegen aan Salesforce - Marketo Docs - Productdocumentatie
 title: E-mail toevoegen aan Salesforce
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: bb2e964d-e5f8-495f-969b-9f75822a6211
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
 
 ---
-
 
 # E-mail toevoegen aan Salesforce {#add-email-to-salesforce}
 

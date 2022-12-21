@@ -3,7 +3,6 @@ unique-page-id: 7516639
 description: Gebruikers toegang geven tot de check-in-app - Marketo Docs - Productdocumentatie
 title: Gebruikers toegang verlenen tot de Check-in-app
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '202'
@@ -17,19 +16,19 @@ Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebe
 
 ## Nieuwe gebruikersrol maken voor mobiele apparaten {#create-a-new-user-role-for-mobile}
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/image2015-6-2-10-3a39-3a31.png)
 
-1. Klik **Gebruikers &amp; rollen**.
+1. Klikken **Gebruikers en rollen**.
 
    ![](assets/image2015-6-2-10-3a56-3a0.png)
 
-1. Klik op het tabblad **Rollen** en klik vervolgens op **Nieuwe rol**.
+1. Klik op de knop **Rollen** tab, en klik vervolgens op **Nieuwe rol**.
 
    ![](assets/image2015-6-2-11-3a3-3a23.png)
 
-1. Voer een naam in voor de nieuwe rol en een optionele beschrijving. Schakel het selectievakje **Mobiele toepassing benaderen** in en klik op **Maken**.
+1. Voer een naam in voor de nieuwe rol en een optionele beschrijving. Controleer de **Toegang tot mobiele toepassing** en klik op **Maken**.
 
    ![](assets/image2015-6-2-11-3a4-3a58.png)
 
@@ -37,15 +36,15 @@ Marketo heeft een speciale gebruikersrol voor de app voor het inchecken van gebe
 
 ## Nieuwe gebruikers uitnodigen voor de Inchecken-app {#invite-new-users-for-the-check-in-app}
 
-1. Klik op het tabblad **Gebruikers**.
+1. Klik op de knop **Gebruikers** tab.
 
    ![](assets/image2015-6-2-11-3a10-3a42.png)
 
-1. Klik **Nieuwe gebruiker uitnodigen**.
+1. Klikken **Nieuwe gebruiker uitnodigen**.
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Voer de gegevens van de nieuwe gebruiker in. Selecteer de selectievakjes voor alle relevante rollen en de nieuwe rol met toestemming om de mobiele app te openen. Klik **Nodig** uit wanneer u wordt gedaan.
+1. Voer de gegevens van de nieuwe gebruiker in. Selecteer de selectievakjes voor alle relevante rollen en de nieuwe rol met toestemming om de mobiele app te openen. Klikken **Uitnodigen** als je klaar bent.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

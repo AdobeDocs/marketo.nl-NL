@@ -2,18 +2,17 @@
 unique-page-id: 2360219
 description: Een aangepaste DKIM-handtekening instellen - Marketo Docs - Productdocumentatie
 title: Een aangepaste DKIM-handtekening instellen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
 
-
 # Een aangepaste DKIM-handtekening instellen {#set-up-a-custom-dkim-signature}
 
-Om levering van topniveau te verzekeren, ondertekenen wij automatisch al uitgaande post met een gedeelde handtekening van Marketo DKIM.
+Om ervoor te zorgen dat de producten op topniveau kunnen worden geleverd, ondertekenen we automatisch alle uitgaande berichten met een gedeelde Marketo DKIM-handtekening.
 
 >[!NOTE]
 >
@@ -21,7 +20,7 @@ Om levering van topniveau te verzekeren, ondertekenen wij automatisch al uitgaan
 
 U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze. Zo gaat het.
 
-1. Ga naar **Admin** sectie.
+1. Ga naar de **Beheer** sectie.
 
    ![](assets/adminhand.png)
 
@@ -29,23 +28,23 @@ U kunt de DKIM-handtekening aanpassen aan het domein of de domeinen van uw keuze
    >
    >Als u een aangepaste DKIM-handtekening op de ouderwetse manier instelt, blijft deze werken en wordt deze hier weergegeven.
 
-1. Klik **E-mail**, dan **DKIM** tabel, en tenslotte **Add Domein**.
+1. Klikken **E-mail** en de **DKIM** en finally **Domein toevoegen**.
 
    ![](assets/image2014-9-18-15-3a39-3a30.png)
 
-1. Ga het domein in u in Marketo e-mails als Van Adres zult gebruiken en **Add** klikt.
+1. Voer het domein dat u in Marketo-e-mails gebruikt in als Van-adres en klik op **Toevoegen**.
 
    >[!TIP]
    >
-   >Als u een verschillend domein in uw Van Adres gebruikt, zullen wij de Marketo gedeelde handtekening DKIM gebruiken.
+   >Als u een ander domein in uw Van Adres gebruikt, zullen wij de Marketo gedeelde handtekening DKIM gebruiken.
 
    ![](assets/image2014-9-18-15-3a40-3a28.png)
 
-1. Verzend **Hostrecord** en **TXT Value** naar uw IT-afdeling. Vraag hen om het verslag voor u tot stand te brengen en ervoor te zorgen het aan alle nameservers verbonden aan het van domein verspreidt. De DKIM-verificatie van Marketo vereist dat de DKIM-sleutel wordt doorgegeven aan alle nameservers die zijn gekoppeld aan het domein dat DKIM-ondertekend is.
+1. Verzend de **Hostrecord** en **TXT-waarde** aan uw IT. Vraag hen om het verslag voor u tot stand te brengen en ervoor te zorgen het aan alle nameservers verbonden aan het van domein verspreidt. De verificatie van DKIM van Marketo vereist dat de sleutel DKIM aan alle nameservers verbonden aan het domein wordt verspreid die DKIM-ondertekend.
 
    ![](assets/image2014-9-18-15-3a40-3a44.png)
 
-1. Zodra zij bevestigen hebben zij tot het verslag geleid, kom terug naar Marketo, selecteer uw domein, en klik **Controleer DNS**.
+1. Nadat ze hebben bevestigd dat ze de record hebben gemaakt, keert u terug naar Marketo, selecteert u uw domein en klikt u op **DNS controleren**.
 
    ![](assets/check.png)
 

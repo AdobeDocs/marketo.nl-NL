@@ -18,7 +18,7 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 ## Account Insight {#account-insight}
 
-**[Account](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** Insightis is een Google Chrome-plug-in die actionable ABM en accountinzichten voor uw verkoopteams bevat, zodat ze nauw kunnen samenwerken met marketingmedewerkers en op effectieve wijze accounts kunnen inschakelen. Verkoopteams krijgen inzicht in de gegevens en inzichten die worden gegenereerd voor elk van de benoemde accounts die ze bezitten. Dit omvat de percentielen van de rekeningsscore, een prioriteitenlijst van hun Benoemde Rekeningen, betreden mensen binnen die rekeningen, en een levende activiteitenstroom van recente activiteiten van de rekening.
+**[Account Insight](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** is een Google Chrome-plug-in waarmee u actionable ABM en accountinzichten voor uw verkoopteams kunt bekijken, zodat ze nauw met marketing kunnen samenwerken om effectief accounts in dienst te nemen. Verkoopteams krijgen inzicht in de gegevens en inzichten die worden gegenereerd voor elk van de benoemde accounts die ze bezitten. Dit omvat de percentielen van de rekeningsscore, een prioriteitenlijst van hun Benoemde Rekeningen, betreden mensen binnen die rekeningen, en een levende activiteitenstroom van recente activiteiten van de rekening.
 
 ![](assets/image001.png) ![](assets/image002.png)
 
@@ -26,6 +26,6 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 ## [Dynamische accountlijsten](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
 
-We voegen een nieuwe manier toe om accountlijsten in ABM te maken. Naast bestaande accountlijsten kunt u nu dynamische accountlijsten maken die worden gegenereerd op basis van openbare CRM-accountweergaven. Een mening van de Rekening van CRM is een reeks regels die als filter dienst doet wanneer het tonen van rekeningen. U kunt het bijvoorbeeld gebruiken om te zoeken naar accounts waarin de industrie gezondheidszorg _en_-inkomsten hoger zijn dan $100M.
+We voegen een nieuwe manier toe om accountlijsten in ABM te maken. Naast bestaande accountlijsten kunt u nu dynamische accountlijsten maken die worden gegenereerd op basis van openbare CRM-accountweergaven. Een mening van de Rekening van CRM is een reeks regels die als filter dienst doet wanneer het tonen van rekeningen. U kunt het bijvoorbeeld gebruiken om te zoeken naar accounts waarin de industrie gezondheidszorg is _en_ De omzet is meer dan $100M.
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)

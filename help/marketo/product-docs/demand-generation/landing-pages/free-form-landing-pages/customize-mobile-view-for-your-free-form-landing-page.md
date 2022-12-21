@@ -2,16 +2,15 @@
 unique-page-id: 5472283
 description: Mobiele weergave aanpassen voor uw gratis landingspagina - Marketo Docs - Productdocumentatie
 title: De mobiele weergave aanpassen voor uw openingspagina
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
 
 ---
 
-
-# Mobiele weergave aanpassen voor uw openingspagina {#customize-mobile-view-for-your-free-form-landing-page}
+# De mobiele weergave aanpassen voor uw openingspagina {#customize-mobile-view-for-your-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
@@ -23,17 +22,17 @@ De mobiele weergave van de openstaande landingspagina is meestal automatisch, ma
 
    ![](assets/selectlandingapge.jpg)
 
-1. Klik **Concept bewerken**.
+1. Klikken **Concept bewerken**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Klik op het tabblad **Mobiel**.
+1. Klik op de knop **Mobiel** tab.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
-## Mobiele versus desktopweergave {#mobile-vs-desktop-view}
+## Mobiele vs. desktopweergave {#mobile-vs-desktop-view}
 
-Onder Pagina-elementen ziet u het pictogram ![](assets/image2015-1-22-18-3a39-3a53.png) (bureaublad) en het pictogram ![](assets/image2015-1-22-18-3a40-3a31.png) (mobiel). Hierdoor kunt u verschillende elementen dynamisch tonen/verbergen.
+Onder Pagina-elementen ziet u een ![](assets/image2015-1-22-18-3a39-3a53.png) (bureaublad) en een ![](assets/image2015-1-22-18-3a40-3a31.png) (mobiel) pictogram. Hierdoor kunt u verschillende elementen dynamisch tonen/verbergen.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -83,15 +82,15 @@ Standaard wordt alles in de bureaubladweergave weergegeven in de mobiele weergav
 
 >[!TIP]
 >
->De mobiele weergave kan ook een andere rangschikking van pagina-elementen hebben. Plaats de elementen op de openingspagina of wijzig de volgorde van de objecten die onder **Pagina-elementen** worden vermeld met slepen en neerzetten.
+>De mobiele weergave kan ook een andere rangschikking van pagina-elementen hebben. U kunt de objecten verplaatsen op de landingspagina in vrije vorm of de objecten in de lijst onder opnieuw rangschikken **Pagina-elementen** slepen en neerzetten gebruiken.
 
-## Voorvertoning van mobiele weergave {#preview-mobile-view}
+## Voorbeeld van mobiele weergave {#preview-mobile-view}
 
-1. Klik **Voorvertoning concept**.
+1. Klikken **Concept voorvertonen**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Wil je iets cool zien? Selecteer **Naast elkaar**.
+1. Wil je iets cool zien? Selecteren **Naast elkaar**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -99,7 +98,7 @@ Standaard wordt alles in de bureaubladweergave weergegeven in de mobiele weergav
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Als u het houdt, klikt **Goedkeuren en Sluiten**.
+1. Als je het leuk vindt, klik dan op **Goedkeuren en Sluiten**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 

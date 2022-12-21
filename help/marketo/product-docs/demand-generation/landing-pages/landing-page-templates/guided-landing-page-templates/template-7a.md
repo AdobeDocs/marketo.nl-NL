@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Template 7A {#template-7a}
 
-Klik met de rechtermuisknop om sjabloon 7A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html) te downloaden[
+Klik met de rechtermuisknop om [downloadsjabloon 7A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)
 
 ![](assets/image2015-7-29-14-3a22-3a54.png)
 

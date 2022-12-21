@@ -38,7 +38,7 @@ Exporteer alle details en analyses van uw webcampagne in CSV-indeling. Vervolgen
 
 ## Lokalisatie {#localization}
 
-De apps Web Personalization, Predictive Content en Email Insights zijn nu beschikbaar in het Japans, Duits en Spaans. U [selecteert uw taal en landinstelling](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) om uw inhoud in deze talen weer te geven.
+De apps Web Personalization, Predictive Content en Email Insights zijn nu beschikbaar in het Japans, Duits en Spaans. U [uw taal en landinstelling selecteren](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) om de inhoud in deze talen weer te geven.
 
 ![](assets/japanese-web-personalization.png)
 

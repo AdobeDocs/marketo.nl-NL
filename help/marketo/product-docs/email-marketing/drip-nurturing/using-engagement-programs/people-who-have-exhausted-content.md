@@ -2,22 +2,21 @@
 unique-page-id: 2359953
 description: Personen die inhoud hebben geëxporteerd - Marketo Docs - Productdocumentatie
 title: Personen die inhoud hebben geëxporteerd
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-
-# Personen die inhoud {#people-who-have-exhausted-content} hebben geëxporteerd
+# Personen die inhoud hebben geëxporteerd {#people-who-have-exhausted-content}
 
 Wanneer een persoon alle inhoud in een stream heeft ontvangen, heeft deze alle mogelijkheden uitgeput en wacht deze tot er meer inhoud is toegevoegd. Je kunt mensen vinden die op verschillende manieren uitgeput zijn.
 
-## Lid van het filter van het Programma van de Betrokkenheid {#member-of-engagement-program-filter}
+## Lid van het filter Betrokkenheidsprogramma {#member-of-engagement-program-filter}
 
-1. Maak een nieuwe slimme lijst en zoek en sleep in het filter **Lid van betrokkenheidsprogramma**.
+1. Maak een nieuwe slimme lijst en zoek en sleep in het dialoogvenster **Lid van het betrokkenheidsprogramma** filter.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +24,11 @@ Wanneer een persoon alle inhoud in een stream heeft ontvangen, heeft deze alle m
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Selecteer **Uitgebreide inhoud** onder **Restrictie toevoegen**.
+1. Onder **Restrictie toevoegen**, selecteert u **Uitgebreide inhoud**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Stel **Uitgebreide inhoud** in op **true**.
+1. Set **Uitgebreide inhoud** tot **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -41,11 +40,11 @@ Wanneer een persoon alle inhoud in een stream heeft ontvangen, heeft deze alle m
 
    ![](assets/ma.png)
 
-1. Selecteer uw serviceprogramma en ga naar het tabblad **Leden**.
+1. Selecteer uw serviceprogramma en ga naar de **Leden** tab.
 
    ![](assets/memberstab.jpg)
 
-1. Let op de kolom **Uitgebreide inhoud**.
+1. Let op de kolom die wordt aangeroepen **Uitgebreide inhoud**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 

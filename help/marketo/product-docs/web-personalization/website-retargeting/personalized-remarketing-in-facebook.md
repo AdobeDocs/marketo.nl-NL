@@ -1,63 +1,62 @@
 ---
 unique-page-id: 4720917
-description: Persoonlijke opmerkingen op Facebook - Marketo Docs - Productdocumentatie
-title: Persoonlijke opmerkingen op Facebook
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+description: Persoonlijke opmerkingen in Facebook - Marketo Docs - Productdocumentatie
+title: Persoonlijke opmerkingen in Facebook
+exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
+# Persoonlijke opmerkingen in Facebook {#personalized-remarketing-in-facebook}
 
-# Persoonlijke opmerkingen op Facebook {#personalized-remarketing-in-facebook}
-
-Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruikers via RTP-gegevens en de kracht van Facebook-marketing.
+De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst nemen gebruikend Gegevens RTP en de macht van de Markering van Facebook.
 
 >[!PREREQUISITES]
 >
->* Voltooi [Opnieuw rangschikken met de Gegevens van de Personalisatie van het Web](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) opstelling
->* Raadpleeg de [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-documentatie over Aangepast publiek](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en Opmerking.
+>* Voltooi de [Opnieuw toewijzen met webpersonalisatiegegevens](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) instellen
+>* Controleer de [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-documentatie over aangepast publiek](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en Opmerking.
 
 
-## Een publiek maken op Facebook {#creating-an-audience-in-facebook}
+## Een publiek maken in Facebook {#creating-an-audience-in-facebook}
 
-1. Ga op Facebook naar het tabblad [Publiek](https://www.facebook.com/ads/audience_manager) in Advertentiebeheer.
+1. Ga in Facebook naar je [Tabblad Publiek](https://www.facebook.com/ads/audience_manager) in Advertentiebeheer.
 
-1. Klik **Gereedschappen** en selecteer **Soorten publiek**.
+1. Klikken **Gereedschappen** en selecteert u **Soorten publiek**.
 
    ![](assets/one-1.png)
 
-1. Klik **Een aangepast publiek maken**.
+1. Klikken **Een aangepast publiek maken**.
 
    ![](assets/two-1.png)
 
-1. Selecteer **Websiteverkeer**.
+1. Selecteren **Websiteverkeer**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Selecteer **Aangepaste combinatie** in de lijst Verkeer website.
+1. Selecteer in de lijst Websites de optie **Aangepaste combinatie**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. Selecteer **Event** in de lijst Opnemen.
+1. Selecteer in de lijst Opnemen de optie **Gebeurtenis**.
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. Selecteer **RTP-markering** in de lijst Gebeurtenis en selecteer een parameter.
+1. Selecteer in de lijst Gebeurtenis de optie **RTP Opmerking** en selecteert u een parameter.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. Voor dit voorbeeld, uitgezochte Industrie om **Onderwijs** te bevatten. Voer **Onderwijs** in en bewerk **In de laatste** om 180 dagen te zijn. Voer de naam van het publiek in: **Onderwijsindustrie**. Klik **Publiek maken**.
+1. Selecteer in dit voorbeeld de optie Industrie om **Onderwijs**. Enter **Onderwijs** en bewerken **In de laatste** 180 dagen te zijn. Voer de naam van het publiek in: **Onderwijsindustrie**. Klikken **Publiek maken**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
-1. U hebt nu een nieuw aangepast publiek gemaakt met RTP-gegevens op Facebook.
+1. U hebt nu een nieuw aangepast publiek gemaakt met RTP-gegevens in Facebook.
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
-## RTP-gegevenspunten op Facebook {#rtp-data-points-in-facebook}
+## RTP-gegevenspunten in Facebook {#rtp-data-points-in-facebook}
 
 <table> 
  <tbody> 
@@ -88,7 +87,7 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
         <td colspan="1"><p>Enterprise</p><p>SMB</p></td> 
        </tr> 
        <tr> 
-        <td>Industrie</td> 
+        <td>Marktsegment</td> 
         <td><p>Defensie</p><p>Onderwijs</p><p>Financiële diensten</p><p>Overheid</p><p>Gezondheidszorg, Pharma, Biotech</p><p>Software en internet</p><p>enz. (volgens de opties van de Industrie RTP)</p></td> 
        </tr> 
        <tr> 
@@ -102,15 +101,15 @@ Met gepersonaliseerde opmerkingen kunt u opnieuw contact opnemen met uw gebruike
  </tbody> 
 </table>
 
-## Uw publiek richten met een Advertentie {#target-your-audience-with-an-ad}
+## Doelgroep voor publiek met advertentie {#target-your-audience-with-an-ad}
 
-Zie [Documentatie van Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience) voor meer informatie.
+Zie voor meer informatie [Facebook-documentatie](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
-1. Ga naar Advertentiebeheer, klik **Create Advertentie**.
+1. Ga naar Advertentiebeheer en klik op **Advertentie maken**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Selecteer **Personen naar uw website verzenden** als het doel van uw campagne.
+1. Selecteren **Personen naar uw website verzenden** als het doel van uw campagne.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -126,7 +125,7 @@ Zie [Documentatie van Facebook](https://developers.facebook.com/docs/ads-for-web
 
    ![](assets/image2015-1-19-17-3a19-3a25.png)
 
-1. U bent nu allemaal ingesteld met een persoonlijke marketingcampagne op Facebook.
+1. U bent nu allemaal in Facebook met een gepersonaliseerde marketingcampagne opgezet.
 
 >[!MORELIKETHIS]
 >

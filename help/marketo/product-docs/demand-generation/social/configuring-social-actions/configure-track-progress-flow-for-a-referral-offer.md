@@ -1,39 +1,38 @@
 ---
 unique-page-id: 2950573
-description: Vorm de Voortgang van het Spoor voor een Verwijzingsaanbod - Marketo Docs - de Documentatie van het Product
+description: Trackvoortgangsstroom configureren voor een verwijzingsaanbod - Marketo Docs - Productdocumentatie
 title: Trackvoortgangsstroom configureren voor een verwijzingsaanbod
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: ea73176e-414e-4a90-a17d-083a6eb0a752
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
+# Trackvoortgangsstroom configureren voor een verwijzingsaanbod {#configure-track-progress-flow-for-a-referral-offer}
 
-# Vorm de Stroom van de Voortgang van het Spoor voor een Verwijzing {#configure-track-progress-flow-for-a-referral-offer}
-
-Wanneer u [een verwijzingsaanbieding ](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) creeert, kunt u de herinneringen vormen die deelnemers hun vooruitgang in de richting van de beloning tonen.
+Wanneer u [een verwijzingsaanbod maken](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), kunt u de herinneringen vormen die deelnemers hun vooruitgang in de richting van de beloning tonen.
 
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecteer de verwijzingsaanbieding, en klik **uitgeven Ontwerp**.
+1. Selecteer het verwijzingsaanbod en klik op **Concept bewerken**.
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. Ga in de verwijzingsaanbiedingsredacteur, naar **Spoor de Stroom van de Voortgang** > **Sociale Netwerken**.
+1. Ga in de verwijzingsofferte-editor naar **Voortgang track** > **Sociale netwerken**.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. Bewerk in het venster **Weergave &amp; bewerking** de vraag die deelnemers eraan herinnert zich aan te melden bij hetzelfde sociale netwerk als waarmee ze zich voor uw aanbieding hebben aangemeld.
+1. In de **Weergeven en bewerken** in, bewerkt u de prompt die de deelnemers eraan herinnert zich aan te melden bij hetzelfde sociale netwerk als waarmee ze zich voor uw aanbieding hebben aangemeld.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
    >[!NOTE]
    >
-   >Als u de tekst die u kunt bewerken wilt markeren, selecteert u **Bewerkingen tonen** in de rechterbovenhoek.
+   >Selecteer **Bewerkingen tonen** in de rechterbovenhoek.
 
 1. Bewerk de vraag die de deelnemer aanmoedigt om de koppeling met meer vrienden te delen.
 
@@ -49,4 +48,4 @@ Wanneer u [een verwijzingsaanbieding ](/help/marketo/product-docs/demand-generat
 
 >[!MORELIKETHIS]
 >
->Klik vervolgens op **Voltooien** > **Goedkeuren en Sluiten** en [publiceer uw verwijzingsaanbod](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
+>Klik op Volgende **Voltooien** > **Goedkeuren en Sluiten** en [je verwijzingsvoorstel publiceren](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).

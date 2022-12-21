@@ -2,20 +2,19 @@
 unique-page-id: 13795734
 description: Een hiërarchie maken - Marketo Docs - Productdocumentatie
 title: Een hiërarchie maken
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
-
 # Een hiërarchie maken {#create-a-hierarchy}
 
 De hiërarchieën zijn bedoeld om in CRMs worden gecreeerd. Nochtans als u geen CRM hebt, volg deze stappen om een hiërarchie manueel tot stand te brengen.
 
-1. Klik in Benoemde accounts op het selectievakje **Groeperen op hiërarchie**.
+1. Klik in Benoemde accounts op de knop **Groeperen op hiërarchie** selectievakje.
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,15 +26,15 @@ De hiërarchieën zijn bedoeld om in CRMs worden gecreeerd. Nochtans als u geen 
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Klik op de vervolgkeuzelijst **Benoemde accounthandelingen** en selecteer **Koppeling naar benoemde account**.
+1. Klik op de knop **Handelingen benoemde account** vervolgkeuzelijst en selecteer **Koppeling naar benoemde account**.
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >Als u accounts wilt ontkoppelen, voert u de bovenstaande stappen uit, maar kiest u **Koppeling met benoemde account verbreken**.
+   >Als u accounts wilt ontkoppelen, voert u de bovenstaande stappen uit, maar kiest u **Koppeling met benoemd account verbreken**.
 
-1. Selecteer een Bovenliggend Benoemd Rekening van drop-down en klik **Verbinding**.
+1. Selecteer een Bovenliggend benoemd account in de keuzelijst en klik op **Koppeling**.
 
    ![](assets/create-a-hierarchy-4.png)
 

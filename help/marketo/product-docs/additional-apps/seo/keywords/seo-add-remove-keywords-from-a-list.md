@@ -3,7 +3,6 @@ unique-page-id: 2949678
 description: SEO - Trefwoorden toevoegen/verwijderen uit een lijst - Marketo Docs - Productdocumentatie
 title: SEO - Trefwoorden toevoegen/verwijderen uit een lijst
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# SEO - voeg/verwijder Sleutelwoorden toe uit een Lijst {#seo-add-remove-keywords-from-a-list}
+# SEO - Trefwoorden toevoegen/verwijderen uit een lijst {#seo-add-remove-keywords-from-a-list}
 
 U kunt al uw trefwoorden mooi houden en ordenen met behulp van lijsten. Zo kunt u eenvoudig gegevens over specifieke trefwoorden vinden.
 
 ## Toevoegen aan lijst {#add-to-a-list}
 
-1. Ga naar de **sectie Keywords**.
+1. Ga naar de **Trefwoorden** sectie.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Houd de muisaanwijzer boven het trefwoord dat u aan een lijst wilt toevoegen. Klik **Toevoegen/verwijderen uit lijst**.
+1. Houd de muisaanwijzer boven het trefwoord dat u aan een lijst wilt toevoegen. Klikken **Toevoegen/verwijderen uit lijst**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -37,15 +36,15 @@ U kunt al uw trefwoorden mooi houden en ordenen met behulp van lijsten. Zo kunt 
 
 Woo hoo! Selecteer de lijst om de nieuwe trefwoorden weer te geven.
 
-## Trefwoord verwijderen uit lijst {#remove-keyword-from-list}
+## Trefwoord uit lijst verwijderen {#remove-keyword-from-list}
 
 U kunt ook trefwoorden uit een lijst verwijderen.
 
-1. Ga naar de **sectie Keywords**.
+1. Ga naar de **Trefwoorden** sectie.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Houd de muisaanwijzer boven het trefwoord dat u uit een lijst wilt verwijderen. Klik **Toevoegen/verwijderen uit lijst**.
+1. Houd de muisaanwijzer boven het trefwoord dat u uit een lijst wilt verwijderen. Klikken **Toevoegen/verwijderen uit lijst**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 

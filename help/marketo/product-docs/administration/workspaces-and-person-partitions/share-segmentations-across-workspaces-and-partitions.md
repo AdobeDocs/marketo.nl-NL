@@ -3,7 +3,6 @@ unique-page-id: 7515767
 description: Segmenten delen op werkruimten en partities - Marketo Docs - Productdocumentatie
 title: Segmenten delen over werkruimten en partities
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '469'
@@ -23,15 +22,15 @@ Marketo is geweldig in het uitkiezen van de juiste mensen voor een programma of 
 
 >[!NOTE]
 >
->Leer [segmentaties maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+>Meer informatie [hoe te om segmentaties tot stand te brengen](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Zodra u deze persona opstelling (_en_ hebt u werkruimten gebruikt), zult u hen over uw werkruimten willen delen. Hier zijn een paar goede dingen om te weten:
+Zodra u deze persona opstelling hebt (_en_ als u werkruimten gebruikt), wilt u deze delen in uw werkruimten. Hier zijn een paar goede dingen om te weten:
 
 ## Regels en tips {#rules-tips}
 
 * Elk Marketo-abonnement kan maximaal 20 segmenten &quot;totaal&quot; bevatten voor meerdere werkruimten (**niet 20 per werkruimte**).
 * U kunt een Segmentatie met werkruimten slechts delen die u toegang tot hebt.
-* Zorg ervoor om een **Standaardwerkruimte te creëren en te gebruiken die zicht in alle verdelingen** heeft.
+* Zorg ervoor dat u een **Standaardwerkruimte die in alle partities zichtbaar is**.
 
 * De verwerking van de segmentatie loopt slechts op de mensen in de werkruimte waar de Segmentatie wordt gecreeerd.
 
@@ -56,11 +55,11 @@ Zodra u deze persona opstelling (_en_ hebt u werkruimten gebruikt), zult u hen o
 
 ## Een segmentatie delen {#share-a-segmentation}
 
-1. Ga naar **Database**.
+1. Ga naar de **Database**.
 
    ![](assets/image2017-3-29-8-3a15-3a40.png)
 
-1. Klik met de rechtermuisknop **Segmentaties** en selecteer **Nieuwe mappen**.
+1. Klikken met rechtermuisknop **Segmentaties** en selecteert u **Nieuwe mappen**.
 
    ![](assets/image2017-3-29-8-3a40-3a31.png)
 
@@ -76,7 +75,7 @@ Zodra u deze persona opstelling (_en_ hebt u werkruimten gebruikt), zult u hen o
 
    ![](assets/image2017-3-29-8-3a41-3a19.png)
 
-1. Selecteer de werkruimte(n) waarmee u de map wilt delen. Klik **Opslaan**.
+1. Selecteer de werkruimte(n) waarmee u de map wilt delen. Klikken **Opslaan**.
 
    ![](assets/image2015-5-27-11-3a6-3a40.png)
 

@@ -2,14 +2,13 @@
 unique-page-id: 14352613
 description: Personen toevoegen aan uw campagne - Marketo Docs - Productdocumentatie
 title: Personen toevoegen aan uw campagne
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
 
 ---
-
 
 # Personen toevoegen aan uw campagne {#add-people-to-your-campaign}
 

@@ -2,14 +2,13 @@
 unique-page-id: 12978938
 description: Een webcampagne archiveren - Marketo Docs - Productdocumentatie
 title: Een webcampagne archiveren
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: de1ed9a6-bc3f-4cd8-b6c4-f84480cd9116
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
 
 ---
-
 
 # Een webcampagne archiveren {#archive-a-web-campaign}
 
@@ -17,13 +16,13 @@ ht-degree: 0%
 
    ![](assets/one.jpg)
 
-1. Klik op de vervolgkeuzelijst met status van de gewenste webcampagne en selecteer **Archiveren**.
+1. Klik op de vervolgkeuzelijst met status van de gewenste webcampagne en selecteer **Archief**.
 
    ![](assets/two-3.png)
 
    >[!NOTE]
    >
-   >Gearchiveerde webcampagnes worden niet weergegeven in het standaardfilter. Als u deze wilt zien, klikt u op het pictogram Filter en onder **Status** selecteert u het selectievakje **Gearchiveerd** en klikt u op **Toepassen**.
+   >Gearchiveerde webcampagnes worden niet weergegeven in het standaardfilter. Als u ze wilt zien, klikt u op het pictogram Filter en onder **Status**, selecteert u de **Gearchiveerd** selectievakje en klik op **Toepassen**.
 
 >[!MORELIKETHIS]
 >

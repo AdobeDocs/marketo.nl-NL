@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 3C {#template-3c}
 
-Klik met de rechtermuisknop op [Sjabloon 3C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
+Klik met de rechtermuisknop om [downloadsjabloon 3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 

@@ -2,16 +2,15 @@
 unique-page-id: 37356568
 description: Een e-mail plannen - Marketo Docs - Productdocumentatie
 title: Een e-mail plannen
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-
-# Een e-mail {#scheduling-an-email} plannen
+# Een e-mail plannen {#scheduling-an-email}
 
 Volg deze eenvoudige stappen om een e-mail te plannen.
 
@@ -23,7 +22,7 @@ Volg deze eenvoudige stappen om een e-mail te plannen.
 
    ![](assets/one-1.png)
 
-1. Wanneer u klaar bent met het samenstellen van uw e-mail, klikt u op **Schedule** rechtsonder
+1. Wanneer u klaar bent met het samenstellen van uw e-mail, klikt u op **Schema** rechtsonder
 
    ![](assets/two-1.png)
 
@@ -31,11 +30,11 @@ Volg deze eenvoudige stappen om een e-mail te plannen.
 
    ![](assets/three-1.png)
 
-1. Voer de tijd in waarop het e-mailbericht moet verschijnen. Selecteer de gewenste tijdzone en klik **Opslaan**. Sluit de planner wanneer gedaan.
+1. Voer de tijd in waarop het e-mailbericht moet verschijnen. Selecteer de gewenste tijdzone en klik op **Opslaan**. Sluit de planner wanneer gedaan.
 
    ![](assets/four-1.png)
 
-1. Nu uw geplande datum/tijd wordt geselecteerd, klik **verzend** om e-mail te plannen.
+1. Klik op **Verzenden** om de e-mail te plannen.
 
    ![](assets/five-1.png)
 

@@ -2,18 +2,17 @@
 unique-page-id: 37356593
 description: Een sjabloon gebruiken in het venster Samenstellen - Marketo Docs - Productdocumentatie
 title: Een sjabloon gebruiken in het venster Samenstellen
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
-
 # Een sjabloon gebruiken in het venster Samenstellen {#using-a-template-in-the-compose-window}
 
-## Sjablonen {#finding-and-using-templates} zoeken en gebruiken
+## Sjablonen zoeken en gebruiken {#finding-and-using-templates}
 
 1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld kiezen we **Samenstellen** in de koptekst).
 
@@ -41,21 +40,21 @@ ht-degree: 0%
 
 ## Sjablooncategorieën vastzetten in het venster Samenstellen {#pinning-template-categories-in-the-compose-window}
 
-Favoriete **tot vijf** specifieke malplaatjecategorieën om snelle toegang tot uw meest gebruikte malplaatjes te krijgen.
+Favoriet **maximaal vijf** specifieke sjablooncategorieën om snel toegang te krijgen tot de meest gebruikte sjablonen.
 
 1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld kiezen we **Samenstellen** in de koptekst).
 
    ![](assets/one-6.png)
 
-1. Klik op het pictogram **+** naast Favorieten.
+1. Klik op de knop **+** naast Favorieten.
 
    ![](assets/pinning-two.png)
 
-1. Klik **Vastzetten een drop-down Categorie** en selecteer uw gewenste categorie.
+1. Klik op de knop **Een categorie vastzetten** en selecteer de gewenste rubriek.
 
    ![](assets/pinning-three.png)
 
-1. Klik **Wijzigingen opslaan** wanneer gereed (optioneel): Herhaal Stap 3 om meer toe te voegen).
+1. Klikken **Wijzigingen opslaan** wanneer gereed (optioneel): Herhaal Stap 3 om meer toe te voegen).
 
    ![](assets/pinning-four.png)
 
@@ -67,6 +66,6 @@ Favoriete **tot vijf** specifieke malplaatjecategorieën om snelle toegang tot u
 
    >[!NOTE]
    >
-   >**** Favorieten zijn er standaard. Deze bevat favoriete e-mailsjablonen, geen rubrieken.
+   >**Favorieten** is er standaard. Deze bevat favoriete e-mailsjablonen, geen rubrieken.
 
    Je geselecteerde rubriek is nu vastgezet.

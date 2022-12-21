@@ -3,7 +3,6 @@ unique-page-id: 10097584
 description: Synchronisatiestatus - Marketo Docs - Productdocumentatie
 title: Synchronisatiestatus
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
@@ -17,11 +16,11 @@ U kunt tabs op de tabbladen Synchronisatiestatus en Fouten synchroniseren gebrui
 
 ## Tabblad Synchronisatiestatus {#sync-status-tab}
 
-1. Klik **Admin** en **Microsoft Dynamics**.
+1. Klikken **Beheer** en **Microsoft Dynamics**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Klik op het tabblad **Status synchroniseren**.
+1. Klik op de knop **Synchronisatiestatus** tab.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +34,7 @@ U kunt tabs op de tabbladen Synchronisatiestatus en Fouten synchroniseren gebrui
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Klik op de vervolgkeuzelijst **Weergave:** en selecteer **Laatste uur** om de doorvoergegevens weer te geven.
+1. Klik op de knop **Weergave:** vervolgkeuzelijst en selecteer **Laatste uur** om doorvoerinformatie te bekijken.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 

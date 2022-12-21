@@ -3,7 +3,6 @@ unique-page-id: 1147324
 description: Veldwaarden wissen - Marketo Docs - Productdocumentatie
 title: Veldwaarden wissen
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Veldwaarden {#clear-field-values} wissen
+# Veldwaarden wissen {#clear-field-values}
 
-[De ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) Waarden van Gegevens van de verandering zijn groot, maar hoe verwijdert u de waarde volledig  __ ? Goede vraag!
+[Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) is geweldig, maar hoe gaat het? _remove_ de waarde? Goede vraag!
 
-1. Kies in de stap Stroom het veld dat u wilt wissen en typ **NULL** (alle hoofdletters) als **Nieuwe waarde**.
+1. Kies in de stap Stroom het veld dat u wilt wissen en typ in **NULL** (alle hoofdletters) als de **Nieuwe waarde**.
 
    ![](assets/image2015-3-19-10-3a6-3a14.png)
 

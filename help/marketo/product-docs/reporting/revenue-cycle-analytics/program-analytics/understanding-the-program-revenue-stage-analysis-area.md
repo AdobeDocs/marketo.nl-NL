@@ -1,21 +1,20 @@
 ---
 unique-page-id: 7514009
-description: Begrijpen van het gebied van de Analyse van het Stadium van de Opbrengst van het Programma - Marketo Docs - de Documentatie van het Product
+description: Inzicht in het analysegebied van de inkomstenfase van het programma - Marketo Docs - Productdocumentatie
 title: Werken met het analysegebied van de programmainkomstenfase
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
 
 ---
 
-
-# Het onderzoeksgebied {#understanding-the-program-revenue-stage-analysis-area} van het Stadium van de Opbrengst van het Programma begrijpen
+# Werken met het analysegebied van de programmainkomstenfase {#understanding-the-program-revenue-stage-analysis-area}
 
 Op dit analysegebied kunt u de doeltreffendheid van afzonderlijke programma&#39;s analyseren of de samengevatte resultaten per kanaal bekijken. Het verstrekt inzicht in hoeveel van de nieuwe geproduceerde namen bijzondere succeswegstadia binnen uw model van de opbrengstcyclus hebben bereikt.
 
-**Voorbeeld van zakelijke vragen die u kunt beantwoorden met behulp van dit analysegebied zijn**:
+**Voorbeeld van zakelijke vragen die u kunt beantwoorden met behulp van dit analysegebied**:
 
 Hoeveel nieuwe namen van een bepaald programma hebben ooit een specifieke fase in mijn model bereikt?
 

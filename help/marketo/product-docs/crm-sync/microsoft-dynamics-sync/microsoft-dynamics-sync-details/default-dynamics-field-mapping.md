@@ -55,7 +55,7 @@ Wanneer u uw Marketo-account aanvankelijk synchroniseert met Microsoft, maakt Ma
     <tr>
       <td>E-mail</td>
       <td>E-mail</td>
-      <td>e-mailadres1</td>
+      <td>emailaddress1</td>
     </tr>
     <tr>
       <td>Beroep</td>
@@ -65,7 +65,7 @@ Wanneer u uw Marketo-account aanvankelijk synchroniseert met Microsoft, maakt Ma
     <tr>
       <td>Telefoonnummer</td>
       <td>Zakelijke telefoon</td>
-      <td>phone1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Mobiel</td>
@@ -165,7 +165,7 @@ Wanneer u uw Marketo-account aanvankelijk synchroniseert met Microsoft, maakt Ma
     <tr>
       <td>Microsoft Home Phone</td>
       <td>Telefoon privé</td>
-      <td>phone2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Voorkeursmethode van Microsoft</td>
@@ -295,7 +295,7 @@ De onderstaande velden voor lead worden gesynchroniseerd voor intern gebruik.
     <tr>
       <td>E-mail</td>
       <td>E-mail</td>
-      <td>e-mailadres1</td>
+      <td>emailaddress1</td>
     </tr>
     <tr>
       <td>Beroep</td>
@@ -305,7 +305,7 @@ De onderstaande velden voor lead worden gesynchroniseerd voor intern gebruik.
     <tr>
       <td>Telefoonnummer</td>
       <td>Zakelijke telefoon</td>
-      <td>phone1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Mobiel</td>
@@ -375,7 +375,7 @@ De onderstaande velden voor lead worden gesynchroniseerd voor intern gebruik.
     <tr>
       <td>Microsoft Home Phone</td>
       <td>Telefoon privé</td>
-      <td>phone2</td>
+      <td>telephone2</td>
     </tr>
     <tr>
       <td>Voorkeursmethode van Microsoft</td>
@@ -524,7 +524,7 @@ De onderstaande contactvelden worden gesynchroniseerd voor intern gebruik.
     <tr>
       <td>Telefoon</td>
       <td>Telefoon</td>
-      <td>phone1</td>
+      <td>telephone1</td>
     </tr>
     <tr>
       <td>Bedrijfstype</td>

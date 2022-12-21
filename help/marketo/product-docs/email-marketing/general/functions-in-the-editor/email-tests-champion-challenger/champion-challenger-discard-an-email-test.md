@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2359587
-description: Champion/Challenger - Een e-mailtest verwijderen - Marketo Docs - Productdocumentatie
+description: Champion/Challenger - Een e-mailtest negeren - Marketo Docs - Productdocumentatie
 title: Champion/Challenger - Een e-mailtest negeren
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-
-# Champion/Challenger: Een e-mailtest {#champion-challenger-discard-an-email-test} negeren
+# Champion/Challenger: Een e-mailtest negeren {#champion-challenger-discard-an-email-test}
 
 Als u op een gegeven moment besluit dat u uw e-mailtest niet wilt uitvoeren, kunt u deze negeren. Zo gaat het.
 
@@ -27,8 +26,8 @@ Als u op een gegeven moment besluit dat u uw e-mailtest niet wilt uitvoeren, kun
 
    ![](assets/champion5.jpg)
 
-1. Klik **Verwijderen** om te bevestigen.
+1. Klikken **Verwijderen** ter bevestiging.
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   Je bent klaar! Als u ooit besluit dat u een test opnieuw wilt instellen, gaat u verder en [voeg een e-mailkampioen/challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) toe.
+   Je bent klaar! Als u ooit besluit dat u een test opnieuw wilt instellen, gaat u door en [e-mailkampioen/challenger toevoegen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).

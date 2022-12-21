@@ -2,18 +2,17 @@
 unique-page-id: 1900595
 description: Een publiek definiëren met een slimme lijst - Marketo Docs - Productdocumentatie
 title: Een publiek definiëren met een slimme lijst
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-
 # Een publiek definiëren met een slimme lijst {#define-an-audience-with-a-smart-list}
 
-Als u [een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) hebt gemaakt, kunt u aangeven naar wie u de e-mail wilt verzenden. U kunt dit doen door [een lijst van mensen ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) of met een slimme lijst in te voeren. Hieronder wordt beschreven hoe u dit kunt bereiken met een slimme lijst.
+Eenmaal [een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), geeft u aan naar wie de e-mail moet worden verzonden. U kunt dit doen door [een lijst met personen importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) of met een slimme lijst. Hieronder wordt beschreven hoe u dit kunt bereiken met een slimme lijst.
 
 >[!PREREQUISITES]
 >
@@ -27,13 +26,13 @@ Als u [een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-pro
 
    ![](assets/login-marketing-activities.png)
 
-1. Selecteer uw e-mailprogramma en klik vervolgens op **Slimme lijst bewerken** onder de tegel **Publiek**.
+1. Selecteer uw e-mailprogramma en klik op **Slimme lijst bewerken** onder de **Publiek** tegel.
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >Zorg ervoor de Mening aan **Controlebord** wordt geplaatst om dit het plaatsen te vinden.
+   >Controleer of de weergave is ingesteld op **Deelvenster Beheer** om deze instelling te zoeken.
 
 1. Zoek de gewenste filters en sleep deze naar het canvas.
 
@@ -47,7 +46,7 @@ Als u [een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-pro
 
    ![](assets/myemailprogram.jpg)
 
-   Uitstekend werk! Nu is het tijd om [een bestaande e-mail te kiezen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of [een e-mail te creëren](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) om naar deze mensen te verzenden.
+   Uitstekend werk! Nu is het tijd om [een bestaande e-mail kiezen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of [een e-mail maken](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) om deze mensen te sturen.
 
 >[!NOTE]
 >
@@ -55,17 +54,15 @@ Als u [een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-pro
 >
 >Heb je het geblokkeerde nummer gezien? Dit nummer is een subset van de personen die gekwalificeerd zijn en vertegenwoordigt personen die deze e-mail niet kunnen verzenden omdat ze:
 >
->* Abonnement opgezegd
+>* Niet geabonneerd
 >* Marketing opgeschort
->* Toegevoegd op lijst van gewenste personen
+>* Gevoegd op lijst van gewenste personen
 >* E-mail ongeldig
 >* Lege e e e-mail
-
 >
+>Klik op het nummer voor een gedetailleerde lijst met personen die zijn geblokkeerd voor verzending. **Opmerking:** Operationele e-mails worden nog steeds verzonden naar personen die niet zijn geabonneerd en marketing is opgeschort.
 >
-Klik op het nummer voor een gedetailleerde lijst met personen die zijn geblokkeerd voor verzending. **Opmerking:** je ontvangt nog steeds e-mailberichten die zijn afgeschreven en je marketing is geschorst.
->
->Gebruik de ![—](assets/image2014-10-23-16-3a32-3a36.png) knoop op de tegel van het Publiek om te zien hoeveel mensen e-mail zullen ontvangen.
+>Gebruik de ![—](assets/image2014-10-23-16-3a32-3a36.png) op de tegel Publiek om te zien hoeveel mensen de e-mail zullen ontvangen.
 
 >[!MORELIKETHIS]
 >

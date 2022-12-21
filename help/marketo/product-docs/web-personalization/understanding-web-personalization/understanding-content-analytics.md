@@ -2,14 +2,13 @@
 unique-page-id: 10093159
 description: Inhoudsanalyse - Marketo Docs - Productdocumentatie
 title: Inhoudsanalyse
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
 
 ---
-
 
 # Inhoudsanalyse {#understanding-content-analytics}
 
@@ -17,7 +16,7 @@ Op de pagina Content Analytics wordt weergegeven welke door u ontdekte bestaande
 
 ## Content Analytics weergeven {#view-content-analytics}
 
-Ga naar **Content Analytics**.
+Ga naar **Inhoud analyseren**.
 
 ![](assets/one.png)
 
@@ -45,11 +44,11 @@ De tabel Analytics bevat de volgende gegevens:
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Titel</strong></td> 
-   <td colspan="1" rowspan="1">Naam van het element voor digitale inhoud. Klik <strong>Titel</strong> om de inhoud-URL in een nieuw tabblad te openen.</td> 
+   <td colspan="1" rowspan="1">Naam van het element voor digitale inhoud. Klikken <strong>Titel</strong> als u de URL van de inhoud wilt openen op een nieuw tabblad.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Pictogram  </strong><strong>Aanbeveling</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
-   <td colspan="1">Geeft aan of het inhoudsonderdeel is toegevoegd voor <a href="#">Inhoud Recommendations</a>.</td> 
+   <td colspan="1"><p><strong>Aanbeveling </strong><strong>Pictogram</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1">Hiermee wordt aangegeven of het inhoudsonderdeel is toegevoegd <a href="#">Content Recommendations</a>.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Weergaven</strong></p></td> 
@@ -60,17 +59,17 @@ De tabel Analytics bevat de volgende gegevens:
    <td colspan="1" rowspan="1">Webbezoekers die de inhoud hebben bekeken en een formulier hebben ingevuld tijdens hetzelfde bezoek</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Pictogram Analytics</strong></p><p><strong><img alt="—" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></strong></p></td> 
+   <td colspan="1"><p><strong>Pictogram Analytics</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
    <td colspan="1">Meer analyses bekijken op het inhoudsonderdeel</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Pictogram verwijderen</strong></p><p><img alt="—" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="—"></p></td> 
+   <td colspan="1"><p><strong>Pictogram verwijderen</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">Hiermee wordt de inhoud verwijderd uit Content Analytics</td> 
   </tr> 
  </tbody> 
 </table>
 
-## Aanvullende inhoudanalyse tonen {#view-additional-content-analytics}
+## Aanvullende inhoudanalyse weergeven {#view-additional-content-analytics}
 
 Klik op het pictogram Analytics van een inhoudsonderdeel.
 
@@ -86,13 +85,13 @@ De aanvullende inhoudanalyse omvat:
 
 * **Weergaven**: Weergaven van dat inhoudsonderdeel voor het geselecteerde tijdbereik
 * **Directe conversies**: Webbezoekers die de inhoud hebben bekeken en een formulier hebben ingevuld tijdens hetzelfde bezoek.
-* **Conversiesnelheid****:** A percentage conversiekoers berekend door middel van directe conversies gedeeld door klikken
+* **Omzetsnelheid****:** A percentage conversiekoers berekend door middel van directe conversies gedeeld door klikken
 
 **Trends**
 
-* Een **Trends** grafiek die de laatste 30 dagen van meningen van het specifieke inhoudsstuk toont. Houd de muisaanwijzer boven de lijngrafiek om het aantal inhoudsweergaven van een bepaalde dag weer te geven
+* A **Trends** grafiek die de laatste 30 dagen van meningen van het specifieke inhoudsstuk toont. Houd de muisaanwijzer boven de lijngrafiek om het aantal inhoudsweergaven van een bepaalde dag weer te geven
 
-## Inhoud {#delete-content} verwijderen
+## Inhoud verwijderen {#delete-content}
 
 ![](assets/six.png)
 

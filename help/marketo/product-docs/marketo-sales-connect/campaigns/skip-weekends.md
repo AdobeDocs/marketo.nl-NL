@@ -2,20 +2,19 @@
 unique-page-id: 14352622
 description: Weekends overslaan - Marketo Docs - Productdocumentatie
 title: Weekends overslaan
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-
-# Weekends {#skip-weekends} overslaan
+# Weekends overslaan {#skip-weekends}
 
 Wanneer u een campagne automatiseert, wilt u waarschijnlijk niet dat uw e-mails op zaterdag of zondag verschijnen. Zo niet, dan kunt u weekends overslaan.
 
-1. Klik in Sales Connect op het tabblad **Campagnes**.
+1. Klik in Sales Connect op de knop **Campagnes** tab.
 
    ![](assets/one-2.png)
 
@@ -23,11 +22,11 @@ Wanneer u een campagne automatiseert, wilt u waarschijnlijk niet dat uw e-mails 
 
    ![](assets/two-2.png)
 
-1. Klik **Instellingen**.
+1. Klikken **Instellingen**.
 
    ![](assets/three-2.png)
 
-1. Schakel het selectievakje **Weekends overslaan** in.
+1. Selecteer **Weekends overslaan** selectievakje.
 
    ![](assets/four-2.png)
 

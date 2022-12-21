@@ -60,7 +60,7 @@ Als u meerdere abonnementen hebt, hebt u mogelijk meerdere gemeenschapsprofielen
 
 ## Mobiel Platform {#mobile-platform}
 
-Gebruikers met een Universal ID kunnen hun gegevens op Marketo Moments en de toepassing voor het inchecken van iPad-gebeurtenissen bekijken via het abonnement waarin zij zich het laatst hebben aangemeld. U kunt geen abonnementen van het Mobiele platform zelf veranderen.
+Gebruikers met een Universal ID kunnen hun gegevens op Marketo Moments en de iPad-toepassing voor het inchecken van gebeurtenissen bekijken via het abonnement waarin zij zich het laatst hebben aangemeld. U kunt geen abonnementen van het Mobiele platform zelf veranderen.
 
 >[!MORELIKETHIS]
 >

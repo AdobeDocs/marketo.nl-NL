@@ -3,7 +3,6 @@ unique-page-id: 1147093
 description: Een goed begrip van lokale middelen in een programma - Marketo Docs - Productdocumentatie
 title: Lokale elementen in een programma begrijpen
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
@@ -11,7 +10,7 @@ ht-degree: 4%
 
 ---
 
-# Lokale elementen in een programma {#understanding-local-assets-in-a-program}
+# Lokale elementen in een programma begrijpen {#understanding-local-assets-in-a-program}
 
 Lokale elementen zijn de inhoud die deel uitmaakt van uw programma. De activa zijn klantgericht en laten u toe om geautomatiseerde marketing initiatieven te bouwen. Hier volgt een overzicht van de meeste lokale elementen die u in een programma kunt maken:
 

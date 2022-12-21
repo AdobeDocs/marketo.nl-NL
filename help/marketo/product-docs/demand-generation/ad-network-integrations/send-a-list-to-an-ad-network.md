@@ -4,7 +4,7 @@ title: Een lijst verzenden naar een advertentienetwerk
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---

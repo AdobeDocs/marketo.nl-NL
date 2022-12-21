@@ -3,22 +3,21 @@ unique-page-id: 8781845
 description: Marketo-momenten begrijpen - Marketo-documenten - productdocumentatie
 title: Marketo-momenten begrijpen
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Marketo-momenten {#understanding-marketo-moments}
+# Marketo-momenten begrijpen {#understanding-marketo-moments}
 
-De kracht van Marketo ligt nu letterlijk in uw handen! U kunt e-mails direct vanaf uw telefoon of iPad bekijken en opnieuw plannen.
+De kracht van Marketo ligt nu letterlijk in uw handen! Geef een voorbeeld van e-mailberichten weer en voer deze opnieuw in vanaf je telefoon of iPad.
 
 >[!AVAILABILITY]
 >
 >
->Toegang tot mobiele apps is vereist. Neem contact op met uw Marketo-beheerder om uw rol [bij te werken](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Toegang tot mobiele apps is vereist. Neem contact op met uw Marketo-beheerder om [uw rol bijwerken](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Streams {#streams}
 
@@ -42,21 +41,21 @@ Oké, nu we dat uit de weg hebben, laten we even kijken op Marketo Moments aan d
 
 Marketo Moments geeft je drie verschillende kaarten om de voortgang van je e-mail te volgen:
 
-**On-Deck**  - Deze e-mail staat op het punt uit te gaan. Het is je laatste kans om het voor te vertonen, een voorbeeld te verzenden of zelfs te annuleren als je het nodig hebt.
+**On-Deck** - Dit e-mailbericht staat op het punt uit te gaan. Het is je laatste kans om het voor te vertonen, een voorbeeld te verzenden of zelfs te annuleren als je het nodig hebt.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**Hart** -beklets - Hé, deze e-mail wordt nu geleverd! En hier zijn ook stats. Ga door en deel het.
+**Hartslag** Deze e-mail wordt nu geleverd. En hier zijn ook stats. Ga door en deel het.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**Resultaten**  - Dit is hoe de e-mail dat deed. Nadat de e-mail volledig is uitgevoerd, geeft de Resultaten-kaart de betrokkenheidsscore en andere status weer.
+**Resultaten** - Zo deed de e-mail het. Nadat de e-mail volledig is uitgevoerd, geeft de Resultaten-kaart de betrokkenheidsscore en andere status weer.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Momentstroom {#moments-stream}
 
-Wanneer u de app de eerste keer opent of **Moments** in het menu tikt, worden eerst de relevante kaarten weergegeven. Elk initiatief bevat informatie over dat specifieke marketinginitiatief en de algemene prestaties ervan.
+Wanneer u de app voor de eerste keer opent of tikt **Momenten** in het menu worden eerst de relevante kaarten weergegeven. Elk initiatief bevat informatie over dat specifieke marketinginitiatief en de algemene prestaties ervan.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -95,7 +94,7 @@ In het gedeelte Later worden toekomstige activiteiten weergegeven.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Tik **Later**.
+1. Tikken **Later**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -133,11 +132,11 @@ De slimme campagnerekaarten vertegenwoordigen één enkele looppas van een campa
 
 ## Een handeling bevestigen of annuleren {#confirm-or-cancel-an-action}
 
-Elke stap van de manier, kunt u een actie bevestigen of annuleren. Tik **Nooit Mind** als u van gedachten verandert.
+Elke stap van de manier, kunt u een actie bevestigen of annuleren. Tik gewoon op **Nooit denken**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
-## Ondersteunde versies {#supported-versions}
+## Ondersteunde versies  {#supported-versions}
 
 Marketo Moments ondersteunt de volgende versies van het besturingssysteem:
 

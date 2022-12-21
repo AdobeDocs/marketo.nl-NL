@@ -1,15 +1,14 @@
 ---
 unique-page-id: 10096420
-description: Verkoopinformatie - Marketo Docs - Productdocumentatie
+description: Verkoopinformatie - Marketo-documenten - productdocumentatie
 title: Verkoopinformatie
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
-
 
 # Verkoopinformatie {#sales-intelligence}
 
@@ -17,17 +16,17 @@ Marketo Web Personalization biedt waardevolle informatie over de anonieme en bek
 
 U kunt het programma openen door u aan te melden bij het Marketo Web Personalization-platform, via een dagelijkse/wekelijkse e-mailrapport of door het te bekijken op de mobiele app.
 
-## Het gebied {#define-the-users-region} van de gebruiker definiëren
+## Het gebruikersgebied definiëren {#define-the-users-region}
 
-Als u de organisatie- en bezoekersgegevens wilt definiëren die u in Marketo Web Personalization per regio, land of staat ziet, gaat u naar [Gebruikersinstellingen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) en selecteert u de landen of staten.
+Als u de gegevens van de organisatie en bezoeker wilt definiëren die u in Marketo Web Personalization per regio, land of staat ziet, gaat u naar [Gebruikersinstellingen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) en selecteert u de landen of staten.
 
 ## Dagelijkse of wekelijkse e-mailrapporten instellen {#set-up-daily-or-weekly-email-reports}
 
-In [Gebruikersinstellingen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) kunt u dagelijkse of wekelijkse e-mailrapporten ontvangen die &#39;s ochtends vroeg worden verzonden. De belangrijkste rapporten van belang voor een verkoopmanager omvatten de Organisaties en Leads rapporten, die de hoogste bezochte organisaties en voorleiders tonen die, met inbegrip van hun gedrag, van de specifieke regio van de gebruiker worden voorgelegd.
+In [Gebruikersinstellingen](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), kunt u instellen om dagelijkse of wekelijkse e-mailrapporten te ontvangen die &#39;s ochtends vroeg worden verzonden. De belangrijkste rapporten van belang voor een verkoopmanager omvatten de Organisaties en Leads rapporten, die de hoogste bezochte organisaties en voorleiders tonen die, met inbegrip van hun gedrag, van de specifieke regio van de gebruiker worden voorgelegd.
 
 >[!NOTE]
 >
->Wij adviseerden dat u opstelling verkoopmanagers met mening-slechts toestemming in het Web van Marketo Personalization. Dit betekent dat ze alle pagina&#39;s kunnen weergeven, maar geen functies kunnen maken, bewerken of verwijderen.
+>Wij adviseerden dat u verkoopmanagers met mening-slechts toestemming in de Personalisatie van het Web van Marketo opstelde. Dit betekent dat ze alle pagina&#39;s kunnen weergeven, maar geen functies kunnen maken, bewerken of verwijderen.
 
 >[!MORELIKETHIS]
 >

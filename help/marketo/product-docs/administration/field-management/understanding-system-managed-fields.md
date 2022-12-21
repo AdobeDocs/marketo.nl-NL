@@ -3,7 +3,6 @@ unique-page-id: 5472615
 description: Werken met systeembeheerde velden - Marketo Docs - Productdocumentatie
 title: Werken met door het systeem beheerde velden
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '522'
@@ -11,9 +10,9 @@ ht-degree: 1%
 
 ---
 
-# Werken met systeembeheerde velden {#understanding-system-managed-fields}
+# Werken met door het systeem beheerde velden {#understanding-system-managed-fields}
 
-U zou kunnen opgemerkt hebben dat [persoondetailpagina](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) een reeks niet-editable gebieden heeft die door Marketo worden gecreeerd. Deze gegevens zijn afkomstig uit verschillende bronnen en er zijn talloze waarden die kunnen worden weergegeven.
+U zou kunnen opgemerkt hebben dat [detailpagina van persoon](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) heeft een reeks niet-bewerkbare velden die door Marketo zijn gemaakt. Deze gegevens zijn afkomstig uit verschillende bronnen en er zijn talloze waarden die kunnen worden weergegeven.
 
 ## Veldtypen {#field-types}
 

@@ -2,22 +2,21 @@
 unique-page-id: 2360188
 description: Campagne-e-mailprestatierapport - Marketo Docs - Productdocumentatie
 title: Rapport over e-mailprestaties voor campagne
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
+# Rapport over e-mailprestaties voor campagne {#campaign-email-performance-report}
 
-# Rapport over e-mailprestaties campagne {#campaign-email-performance-report}
+Je e-mailprestatiestatistieken gegroepeerd op bekijken [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), voert u een rapport E-mailprestaties voor campagne uit.
 
-Voer een rapport over de prestaties van een campagne-e-mail uit om uw e-mailprestatiestatistieken te bekijken die zijn gegroepeerd op [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md).
+1. [Een rapport maken](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) en selecteert u de **Campagne-e-mailprestaties** [rapporttype](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Maak een ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) rapport en selecteer het  **type** [ Campagne-e-](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)mailprestatierapport.
-
-1. [Stel het tijdkader van uw rapport in ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op het tabblad  **** Rapporten.
+1. [Plaats het tijdkader van uw rapport](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) en klik op de knop **Rapport** tab.
 
 1. Bekijk nu het rapport om te zien hoe elke e-mail in uw campagnes is uitgevoerd.
 
@@ -27,7 +26,7 @@ Voer een rapport over de prestaties van een campagne-e-mail uit om uw e-mailpres
    >
    >Klik op de naam van een e-mailbericht om het te openen in de e-mailvoorvertoning.
 
-   [De kolommen die u voor een Rapport van de Prestaties van e-mail van de Campagne kunt ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)selecteren omvatten:
+   [Kolommen die u kunt selecteren](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)voor een rapport over e-mailprestaties voor campagne omvat:
 
    | Kolom | Beschrijving |
    |---|---|
@@ -35,11 +34,11 @@ Voer een rapport over de prestaties van een campagne-e-mail uit om uw e-mailpres
    | Zacht gebogen | E-mail is geweigerd vanwege een tijdelijke voorwaarde, zoals het uitvallen van een server of een volledig inbox. |
    | In behandeling | E-mail wordt nog steeds verzonden. |
    | Klikte koppeling | Aantal e-mailontvangers dat op een koppeling in de e-mail heeft geklikt. |
-   | Abonnement opgezegd | Aantal e-mailontvangers die op de koppeling **Abonnement opzeggen** in de e-mail hebben geklikt en het formulier hebben ingevuld. |
+   | Niet geabonneerd | Aantal e-mailontvangers dat op het **Abonnement opzeggen** in de e-mail en het formulier invullen. |
 
    >[!NOTE]
    >
-   >Over het algemeen proberen we het gezond verstand te gebruiken om deze statistieken op te nemen. Als iemand bijvoorbeeld op een koppeling in een e-mail heeft geklikt, heeft hij deze koppeling eerst geopend. Voor de specifieke regels die wij volgen, zie [E-mailprestatiesrapport](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+   >Over het algemeen proberen we het gezond verstand te gebruiken om deze statistieken op te nemen. Als iemand bijvoorbeeld op een koppeling in een e-mail heeft geklikt, heeft hij deze koppeling eerst geopend. Voor de specifieke regels die we volgen, raadpleegt u de [E-mailprestatierapport](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
    >[!MORELIKETHIS]
    >

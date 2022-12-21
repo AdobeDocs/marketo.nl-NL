@@ -2,14 +2,13 @@
 unique-page-id: 14746188
 description: Abonnementen synchroniseren met Salesforce - Marketo Docs - Productdocumentatie
 title: Abonnementen synchroniseren met Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '438'
 ht-degree: 0%
 
 ---
-
 
 # Abonnementen synchroniseren met Salesforce {#syncing-unsubscribes-with-salesforce}
 
@@ -27,19 +26,19 @@ Wanneer een abonnement wordt opgehaald in Sales Connect, wordt dit in real-time 
 
 Wanneer u de synchronisatie voor afmelden hebt ingeschakeld (stap 3 hieronder), schakelt u de nachtelijke synchronisatie in. De synchronisatie vindt eenmaal per dag plaats rond 20:00 PST. Het zal bidirectioneel alle unsubscribes in MSE/ToutApp met het Opt gebied in Salesforce synchroniseren.
 
-## Synchronisatie van abonnement op Salesforce {#configure-unsubscribe-sync-to-salesforce} configureren
+## Synchronisatie van abonnement op Salesforce configureren {#configure-unsubscribe-sync-to-salesforce}
 
-Gebruikers kunnen beslissen of ze hun afmeldingsgegevens willen synchroniseren met het standaardveld Afmelden via e-mail dat Marketo ook kan synchroniseren met, of ze kunnen synchroniseren met het veld Afmelden bij markt, zodat Afmelden bij verkoop en Afmelden bij marketing kunnen worden gedifferentieerd.
+Gebruikers kunnen beslissen of ze hun afmeldingsgegevens willen synchroniseren met het standaardveld Afmelden via e-mail dat Marketo ook kan synchroniseren met, of ze kunnen synchroniseren met het veld Afmelden bij Marketo zodat Afmelden bij verkoop en Afmelden bij marketing kunnen worden gedifferentieerd.
 
-1. Ga naar [webtoepassing](https://toutapp.com/login), klik op het tandwielpictogram en selecteer **Instellingen**.
+1. Ga naar de [webtoepassing](https://toutapp.com/login), klikt u op het tandwielpictogram en selecteert u **Instellingen**.
 
    ![](assets/one-1.png)
 
-1. Selecteer **Abonnementen** onder Beheerinstellingen.
+1. Onder beheerinstellingen selecteert u **Abonnementen opzeggen**.
 
    ![](assets/two-2.png)
 
-1. Klik **Synchroniseren met Salesforce** en schakel vervolgens de nachtelijke synchronisatie in.
+1. Klikken **Synchroniseren met Salesforce** Schakel vervolgens de nachtelijke synchronisatie in.
 
    ![](assets/three-2.png)
 
@@ -50,7 +49,7 @@ Gebruikers kunnen beslissen of ze hun afmeldingsgegevens willen synchroniseren m
    | Veld | Beschrijving |
    |---|---|
    | **Sync to Salesforce Opt Out field** | Hiermee wordt het veld Salesforce Opt Out standaard alleen bijgewerkt. |
-   | **Sync to Marketo Sales Opt Out field** | Als u verkoop en Marketing wilt scheiden unsubscribes, verkies deze optie om extra [van de Verkoop van de Marketo uit gebied bij te werken.](#msoo) |
+   | **Het veld Afmelden bij Marketo synchroniseren** | Als je afschriften van verkoop en marketing wilt scheiden, kies dan deze optie om extra [Het veld Marketo Sales Opt Out.](#msoo) |
 
 ## Het veld Weigeren installeren in de paginalayout {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -62,7 +61,7 @@ Email Opt Out is een standaardveld in Salesforce dat beschikbaar is om te instal
 
    ![](assets/five-1.png)
 
-1. Klik uw gebruikersbenaming en selecteer **Opstelling**.
+1. Klik op uw gebruikersnaam en selecteer **Instellen**.
 
    ![](assets/six-1.png)
 
@@ -70,15 +69,15 @@ Email Opt Out is een standaardveld in Salesforce dat beschikbaar is om te instal
 
    ![](assets/seven-1.png)
 
-1. Selecteer **Pagina-indelingen**.
+1. Selecteren **Pagina-indelingen**.
 
    ![](assets/eight-1.png)
 
-1. Selecteer **Bewerken** naast de paginalay-out waaraan u het veld wilt toevoegen.
+1. Selecteren **Bewerken** naast de pagina-indeling waaraan u het veld wilt toevoegen.
 
    ![](assets/nine.png)
 
-1. Selecteer **Velden**.
+1. Selecteren **Velden**.
 
    ![](assets/ten.png)
 
@@ -86,12 +85,12 @@ Email Opt Out is een standaardveld in Salesforce dat beschikbaar is om te instal
 
    ![](assets/11.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/twelve.png)
 
-## Marketo Sales Opt-out {#marketo-sales-opt-out}
+## Marketo-verkoop niet beschikbaar {#marketo-sales-opt-out}
 
-Het veld Aftellen bij verkoop bij voorkeur uit is een aangepast veld dat beschikbaar is voor gebruikers die de Aanpassingen voor afzetten bij verkoop hebben geïnstalleerd.
+Het veld Marketo Sales Opt Out is een aangepast veld dat beschikbaar is voor gebruikers die Marketo Sales Connect Customizations hebben geïnstalleerd.
 
-Zodra u met succes de Aanpassingen van de Verkoop van de Marketo in Salesforce hebt geïnstalleerd, zult u het van de Verkoop van de Marketo van de Verkoop beschikbare gebied zien.
+Zodra u de Marketo Sales Connect Customizations in Salesforce hebt geïnstalleerd, wordt het veld Marketo Sales Opt Out weergegeven dat voor u beschikbaar is.

@@ -1,27 +1,26 @@
 ---
 unique-page-id: 2359955
-description: Prestatierapport voor betrokkenheidsstroom - Marketo Docs - Productdocumentatie
+description: Betrokkenheidsstroomprestatierapport - Marketo Docs - Productdocumentatie
 title: Prestatierapport voor betrokkenheidsstream
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-
-# Prestatierapport van betrokkenheidsstream {#engagement-stream-performance-report}
+# Prestatierapport voor betrokkenheidsstream {#engagement-stream-performance-report}
 
 Wilt u weten hoe de inhoud van uw service presteert? Probeer het prestatierapport voor de betrokkenheidsstream.
 
-## Rapport {#create-the-report} maken
+## Het rapport maken {#create-the-report}
 
-1. Zoek en selecteer uw serviceprogramma en klik vervolgens onder **Nieuw** op **Nieuw lokaal element**.
+1. Zoek en selecteer uw serviceprogramma, dan onder **Nieuw** klikken **Nieuw lokaal element**.
 
    ![](assets/localassetnutring.jpg)
 
-1. Selecteer **Rapport**.
+1. Selecteren **Rapport**.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -38,13 +37,13 @@ Wilt u weten hoe de inhoud van uw service presteert? Probeer het prestatierappor
 
    Goed! Laten we nu de instellingen uitchecken.
 
-## Instellingen {#edit-settings} bewerken
+## Instellingen bewerken {#edit-settings}
 
 1. Zoek en selecteer uw rapport.
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Dubbelklik onder het tabblad **Setup** op het filter **Engagement Program Email**.
+1. Onder de **Instellen** , dubbelklikt u op de knop **E-mail over het betrokkenheidsprogramma** filter.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
@@ -52,14 +51,14 @@ Wilt u weten hoe de inhoud van uw service presteert? Probeer het prestatierappor
 
    ![](assets/engagementfilter.jpg)
 
-## Rapport {#run-report} uitvoeren
+## Rapport uitvoeren {#run-report}
 
-1. Om het rapport in werking te stellen klikt eenvoudig op **Report** tabel.
+1. Als u het rapport wilt uitvoeren, klikt u op de knop **Rapport** tab.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
-   >Hoewel niet geïllustreerd, is de Score van de Betrokkenheid een kolom in dit rapport. Zie [De Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) voor meer informatie over wat het is.
+   >Hoewel niet geïllustreerd, is de Score van de Betrokkenheid een kolom in dit rapport. Zie [De betrokkenheidsscore begrijpen](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) voor meer informatie over wat het is.
 
    Geweldig werk! Het rapport is gegroepeerd op betrokkenheidsprogramma.

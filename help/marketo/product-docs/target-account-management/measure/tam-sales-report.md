@@ -2,14 +2,13 @@
 unique-page-id: 11385183
 description: TAM Sales Report - Marketo Docs - Productdocumentatie
 title: TAM-verkooprapport
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
 
 ---
-
 
 # TAM-verkooprapport {#tam-sales-report}
 
@@ -17,7 +16,7 @@ Ontvang wekelijks een e-mail met je topaccounts en hun wekelijkse trends.
 
 >[!NOTE]
 >
->Leer hoe u dit rapport [hier](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md) instelt.
+>Leer hoe u dit rapport instelt [hier](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 Het verslag deelt:
 
@@ -28,7 +27,7 @@ Het verslag deelt:
 
 ![](assets/tam-sales-report-1.png)
 
-## Verkooprapportsleutel {#sales-report-key}
+## Verkoop rapportnummer {#sales-report-key}
 
 <table> 
  <tbody> 

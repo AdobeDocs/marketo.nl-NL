@@ -16,7 +16,7 @@ De volgende functies zijn opgenomen in de release van december 2014. Controleer 
 
 ## Verkooprapporten {#sales-insight-reports}
 
-Met het [Rapport E-mailprestaties van verkoopinzicht](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) kunt u e-mailgegevens bekijken per e-mail en een vertegenwoordiger. Het steunt e-mails die door Salesforce, de Dynamica van Microsoft, de stop van Vooruitzichten en de stop van Gmail worden verzonden.
+De [E-mailprestatierapport voor verkoopinzicht](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) kunt u e-mailgegevens bekijken per e-mail en per verkoper. Deze biedt ondersteuning voor e-mails die worden verzonden via Salesforce, Microsoft Dynamics, de Outlook-plug-in en de Gmail-plug-in.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -24,13 +24,13 @@ Met het [Rapport E-mailprestaties van verkoopinzicht](/help/marketo/product-docs
 
 ## Aangepast publiek voor facebook {#facebook-custom-audiences}
 
-Als uw Marketo-beheerder [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) heeft toegevoegd, kunt u eenvoudig een aangepast publiek van Facebook maken, bijwerken of [vervangen door leads van een statische of slimme Marketo-lijst](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Zoek het nieuwe Facebook-pictogram onder aan het hoofdraster van een statische of slimme lijst.
+Zodra uw Marketo-beheerder is toegevoegd [Facebook via Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)kunt u gemakkelijk maken, bijwerken of [Een Facebook Custom Audience vervangen door leads uit een statische of slimme Marketo-lijst](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Zoek het nieuwe Facebook-pictogram onder aan het hoofdraster van een statische of slimme lijst.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Verbeterde klonen in alle werkruimten  {#improved-cloning-across-workspaces}
 
-[Het klonen van een ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) programma naar een andere werkruimte is nooit eenvoudiger geweest! Wanneer u op Klonen klikt, selecteert u de doelwerkruimte. Klonen niet meer naar een map en verplaatsen vervolgens de map!
+[Een programma klonen](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) naar een andere werkruimte is nooit eenvoudiger geweest! Wanneer u op Klonen klikt, selecteert u de doelwerkruimte. Klonen niet meer naar een map en verplaatsen vervolgens de map!
 
 >[!NOTE]
 >
@@ -40,11 +40,11 @@ Als uw Marketo-beheerder [Facebook via Admin > Launchpoint](/help/marketo/produc
 
 ## Verwijzing slimme lijst {#reference-smart-list}
 
-[Er kan worden ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) verwezen naar slimme lijsten die worden gedeeld met een andere werkruimte bij het maken van een slimme lijst of flow.
+[Er kan worden verwezen naar slimme lijsten die worden gedeeld met een andere werkruimte](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) wanneer u een slimme lijst of flow maakt.
 
 ## Verbeteringen voor importeren weergeven {#list-import-improvements}
 
-[Import ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) filesencoded in UTF-16, Shift-JIS, of EUC-JP. Wij blijven UTF-8-gecodeerde bestanden ondersteunen.
+[Bestanden importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) gecodeerd in UTF-16, Shift-JIS of EUC-JP. Wij blijven UTF-8-gecodeerde bestanden ondersteunen.
 
 ## Koppelingen bijhouden in e-mailscripts {#link-tracking-in-email-scripting}
 
@@ -52,7 +52,7 @@ Koppelingen in e-mailscripts worden nu bijgehouden en beschikbaar in het rapport
 
 ## Instelling codering token {#token-encoding-setting}
 
-We hebben een nieuwe beveiligingsfunctie voor het automatisch coderen van HTML-tokens ontwikkeld, die in maart 2015 standaard wordt ingeschakeld. Schakel deze functie in Veldbeheer tot die tijd in om het gedrag te testen. Alle lood- en bedrijfstokens worden gecodeerd wanneer deze in e-mails of landingspagina&#39;s worden ingevoegd. Er zijn ook opties beschikbaar voor afzonderlijke velden.
+We hebben een nieuwe beveiligingsfunctie voor het automatisch HTML coderen van tokens ontwikkeld, die in maart 2015 standaard wordt ingeschakeld. Schakel deze functie in Veldbeheer tot die tijd in om het gedrag te testen. Alle lood- en bedrijfstokens worden gecodeerd wanneer deze in e-mails of landingspagina&#39;s worden ingevoegd. Er zijn ook opties beschikbaar voor afzonderlijke velden.
 
 ## Nieuwe aanroepen van ReST API {#new-rest-api-calls}
 

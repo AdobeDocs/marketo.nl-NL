@@ -2,38 +2,37 @@
 unique-page-id: 2359951
 description: Een lid verwijderen uit een betrokkenheidsprogramma - Marketo Docs - Productdocumentatie
 title: Een lid verwijderen uit een betrokkenheidsprogramma
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
-
 # Een lid verwijderen uit een betrokkenheidsprogramma {#remove-a-member-from-an-engagement-program}
 
-Oeps! Hoe kwamen die mensen daar binnen? U kunt leden uit een betrokkenheidsprogramma verwijderen met de stroomstap **Programmastatus wijzigen**.
+Oeps! Hoe kwamen die mensen daar binnen? U kunt leden uit een betrokkenheidsprogramma verwijderen met de **Programmastatus wijzigen** stap Stroom.
 
 >[!TIP]
 >
->Gebruik dit niet om de inhoud voor een persoon te pauzeren. Hierdoor wordt alle attributie in de analyse weggenomen. Meer informatie over het [pauzeren van personen in een betrokkenheidsprogramma](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
+>Gebruik dit niet om de inhoud voor een persoon te pauzeren. Hierdoor wordt alle attributie in de analyse weggenomen. Meer informatie over hoe [pauzeren in een betrokkenheidsprogramma](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).
 
 ## Stroom {#flow-step}
 
-1. Sleep in de **Programmastatus wijzigen**-stroomstap.
+1. Sleep in de **Programmastatus wijzigen** stap Stroom.
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   Kies de status, **Niet in Programma**.
+   Kies de status, **Niet in programma**.
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   Groovy. Alle leden die u in de [slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) hebt gedefinieerd, zullen niet langer deel uitmaken van dit betrokkenheidsprogramma.
+   Groovy. Alle leden die u in het dialoogvenster [slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) zal niet langer deel uitmaken van dit betrokkenheidsprogramma.
 
-## Personen pauzeren {#pause-people}
+## Personen onderbreken  {#pause-people}
 
-Soms wilt u gewoon mensen pauzeren in een betrokkenheidsprogramma en ze niet verwijderen. Dit wordt gedaan met **de Cadence van het Programma van de Aanverbintenis van de Verandering**.
+Soms wilt u gewoon mensen pauzeren in een betrokkenheidsprogramma en ze niet verwijderen. Dit is gedaan met de **Cadre van het Programma van de Aanwezigheid van de Verandering**.
 
 >[!MORELIKETHIS]
 >

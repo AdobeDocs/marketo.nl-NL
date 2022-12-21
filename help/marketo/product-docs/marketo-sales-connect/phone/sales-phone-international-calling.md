@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14352434
-description: Telefooninternationale oproep van de verkoop - Marketo Docs - de Documentatie van het Product
+description: Telefooninternationale oproep van de verkoop - Marketo Docs - Productdocumentatie
 title: Telefoonnummer internationale oproep
-translation-type: tm+mt
-source-git-commit: 47b2fee7d146c3dc558d4bbb10070683f4cdfd3d
+exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 8%
 
 ---
 
-
-# Telefooninternationale aanroep van {#sales-phone-international-calling}
+# Telefoonnummer internationale oproep {#sales-phone-international-calling}
 
 Met Telefoon verkopen kun je gemakkelijk internationaal communiceren. Voor klanten die vanuit de Verenigde Staten bellen, kan de Telefoon van de Verkoop voor uitgaande vraag aan internationale landen worden gebruikt. Voor klanten buiten de Verenigde Staten steunen wij het roepen van internationale landen.
 
@@ -33,7 +32,7 @@ Met Telefoon verkopen kun je gemakkelijk internationaal communiceren. Voor klant
   </tr> 
   <tr> 
    <td colspan="1">Oostenrijk</td> 
-   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 43655, 43677, 436998, 436 9989, 43720, 43780, 439</td> 
+   <td colspan="1">43, 431, 4312288, 43438, 4350, 4357, 4359, 436555, 43677, 4369988, 4369989, 43720, 43780, 439</td> 
   </tr> 
   <tr> 
    <td colspan="1">Bahama's</td> 
@@ -61,15 +60,15 @@ Met Telefoon verkopen kun je gemakkelijk internationaal communiceren. Voor klant
   </tr> 
   <tr> 
    <td>Griekenland </td> 
-   <td>30 3021</td> 
+   <td>30, 3021</td> 
   </tr> 
   <tr> 
    <td>Hongarije</td> 
-   <td>36 361</td> 
+   <td>36, 361</td> 
   </tr> 
   <tr> 
    <td colspan="1">Ierland </td> 
-   <td colspan="1">353 3531</td> 
+   <td colspan="1">353, 3531</td> 
   </tr> 
   <tr> 
    <td>Israël</td> 
@@ -81,7 +80,7 @@ Met Telefoon verkopen kun je gemakkelijk internationaal communiceren. Voor klant
   </tr> 
   <tr> 
    <td colspan="1">Kazachstan </td> 
-   <td colspan="1">76 77</td> 
+   <td colspan="1">76, 77</td> 
   </tr> 
   <tr> 
    <td colspan="1">Korea</td> 
@@ -113,7 +112,7 @@ Met Telefoon verkopen kun je gemakkelijk internationaal communiceren. Voor klant
   </tr> 
   <tr> 
    <td colspan="1">Polen </td> 
-   <td colspan="1">48 4832</td> 
+   <td colspan="1">48, 4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">Portugal </td> 
@@ -121,7 +120,7 @@ Met Telefoon verkopen kun je gemakkelijk internationaal communiceren. Voor klant
   </tr> 
   <tr> 
    <td colspan="1">Singapore </td> 
-   <td colspan="1">65 658 659</td> 
+   <td colspan="1">65, 658, 659</td> 
   </tr> 
   <tr> 
    <td colspan="1">Spanje </td> 
@@ -137,7 +136,7 @@ Met Telefoon verkopen kun je gemakkelijk internationaal communiceren. Voor klant
   </tr> 
   <tr> 
    <td>Verenigde Staten</td> 
-   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>

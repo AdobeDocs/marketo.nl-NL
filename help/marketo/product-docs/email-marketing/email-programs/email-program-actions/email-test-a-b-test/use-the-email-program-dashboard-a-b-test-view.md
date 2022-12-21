@@ -2,34 +2,33 @@
 unique-page-id: 2359549
 description: Het dashboard voor het e-mailprogramma gebruiken - A/B-testweergave - Marketo Docs - Productdocumentatie
 title: Het dashboard voor het e-mailprogramma gebruiken - A/B-testweergave
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: c261bb05-db22-4f54-a30c-58963843584f
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-
 # Het dashboard voor het e-mailprogramma gebruiken - A/B-testweergave {#use-the-email-program-dashboard-a-b-test-view}
 
-Ontdek hoe uw [e-mailprogramma A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) met dit dashboard presteert.
+Ontdek hoe uw [E-mailprogramma A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) voert met dit dashboard uit.
 
 ![](assets/image2014-9-12-16-3a14-3a28.png)
 
-## Test {#send-test} verzenden
+## Test verzenden {#send-test}
 
 Hier kunt u het totale geleverde en de onderverdelingen door varianten zien.
 
 ![](assets/image2014-9-12-16-3a16-3a2.png)
 
-## Klik {#clicks}
+## Klikken {#clicks}
 
 Hier kunt u zien hoeveel klikken elke variant heeft.
 
 ![](assets/image2014-9-12-16-3a16-3a20.png)
 
-## Klik om {#click-to-open} te openen
+## Klik om te openen {#click-to-open}
 
 In dit diagram ziet u de klik om de verhouding te openen. (# klikken / # opent).
 

@@ -30,15 +30,15 @@ Voeg drie aangepaste velden toe aan de lead- en contactobjecten in de bovenstaan
 
 Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe te voegen. Begin met score.
 
-1. Meld u aan bij Salesforce en klik op **Setup**.
+1. Meld u aan bij Salesforce en klik op **Instellen**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Klik in het menu Build aan de linkerkant op **Customize** en selecteer **Leads**. Klik **Velden**.
+1. Klik in het menu Build aan de linkerkant op **Aanpassen** en selecteert u **Leads**. Klikken **Velden**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Klik op **Nieuw** in de sectie Aangepaste velden en relaties onder aan de pagina.
+1. Klikken **Nieuw** in de sectie Aangepaste velden en relaties onder aan de pagina.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -46,7 +46,7 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
@@ -78,7 +78,7 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
    <td>Score</td> 
    <td>mkto71_Lead_Score</td> 
    <td>Getal</td> 
-   <td>Lengte 10<br>Decimale plaatsen 0 </td> 
+   <td>Lengte 10<br>Decimalen 0 </td> 
   </tr> 
   <tr> 
    <td>Aankoopdatum</td> 
@@ -105,7 +105,7 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 >
 >Tekst- en nummervelden vereisen een lengte, maar datum-/tijdvelden niet. Een beschrijving is optioneel.
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
@@ -113,10 +113,10 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
    * Alle rollen instellen op **Zichtbaar** en **Alleen-lezen**
 
-   * Schakel het selectievakje **Alleen-lezen** voor het profiel van de synchronisatiegebruiker uit:
+   * Wis de **Alleen-lezen** selectievakje voor het profiel van uw synchronisatiegebruiker:
 
-      * Als u een gebruiker met het profiel van een _Systeembeheerder_ als synchronisatiegebruiker hebt, schakelt u het selectievakje **Alleen-lezen** voor het beheerprofiel van het systeem uit (zoals hieronder wordt weergegeven).
-      * Als u een _aangepast profiel_ voor de synchronisatiegebruiker hebt gemaakt, schakelt u het selectievakje **Alleen-lezen** voor dat aangepaste profiel uit
+      * Als u een gebruiker met het profiel van een _Systeembeheerder_ als synchronisatiegebruiker, ontruim **Alleen-lezen** selectievakje voor het profiel Systeembeheerder (zoals hieronder wordt weergegeven)
+      * Als u een _aangepast profiel_ voor de synchronisatiegebruiker, ontruim **Alleen-lezen** selectievakje voor dat aangepaste profiel
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -124,12 +124,12 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Klik **Opslaan &amp; Nieuw** om terug te gaan en elk van de andere twee aangepaste velden te maken. Klik **Save** met u wordt gedaan met alle drie.
+1. Klikken **Opslaan en nieuw** om terug te gaan en elk van de andere twee douanegebieden tot stand te brengen. Klikken **Opslaan** samen met jullie zijn alle drie klaar.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Klik in het menu Build aan de linkerkant op **Customize** en selecteer Contactpersonen. Klik op Velden.
-1. Voer stap 3 tot en met 10 voor de gebieden van de Score, van de Verwervingsdatum, en van het Programma van de Verwerving op het contactvoorwerp uit, enkel zoals u voor het loodvoorwerp deed.
+1. Klik in het menu Build aan de linkerkant op **Aanpassen** en selecteert u Contactpersonen. Klik op Velden.
+1. Voer stap 3 door 10 voor de gebieden van de Score, van de Verwervingsdatum, en van het Programma van de Verwerving op het contactvoorwerp uit, enkel zoals u voor het loodvoorwerp deed.
 1. U kunt de bovenstaande procedure ook gebruiken voor extra aangepaste velden uit deze tabel.
 
 <table> 
@@ -158,7 +158,7 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
    <td>Id van overnameprogramma</td> 
    <td>mkto71_Acquisition_Program_Id</td> 
    <td>Getal</td> 
-   <td>Lengte 18<br>Decimale plaatsen 0 </td> 
+   <td>Lengte 18<br>Decimalen 0 </td> 
   </tr> 
   <tr> 
    <td>Oorspronkelijke verwijzing</td> 
@@ -243,15 +243,15 @@ Voer de volgende stappen uit voor elk van de drie aangepaste velden om deze toe 
 
 Een aangepast veld op het hoofdobject in Salesforce moet worden toegewezen aan een contactveld op het contactobject, zodat gegevens worden overgedragen wanneer een conversie plaatsvindt.
 
-1. Klik in de rechterbovenhoek op **Setup**.
+1. Klik in de rechterbovenhoek op **Instellen**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Typ &quot;Velden&quot; in de Nav-zoekopdracht zonder op Enter te drukken. Velden worden onder verschillende objecten weergegeven. Klik **Velden** onder Leads.
+1. Typ &quot;Velden&quot; in de Nav-zoekopdracht zonder op Enter te drukken. Velden worden onder verschillende objecten weergegeven. Klikken **Velden** onder Leads.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Ga naar de sectie Aangepaste velden en relaties voor lead en klik op **Velden voor lead toewijzen**.
+1. Ga naar de sectie Aangepaste velden en relaties voor lead en klik op **Velden met regelafstand toewijzen**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -265,7 +265,7 @@ Een aangepast veld op het hoofdobject in Salesforce moet worden toegewezen aan e
 
 1. Herhaal bovenstaande stappen voor alle andere velden die u hebt gemaakt.
 
-1. Klik **Opslaan** wanneer u klaar bent.
+1. Klikken **Opslaan** als je klaar bent.
 
    Gemakkelijk genoeg, toch?
 

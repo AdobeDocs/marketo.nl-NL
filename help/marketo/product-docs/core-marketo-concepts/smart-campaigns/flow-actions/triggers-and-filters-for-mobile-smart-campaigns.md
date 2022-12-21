@@ -3,7 +3,6 @@ unique-page-id: 9437991
 description: Triggers en filters voor mobiele slimme campagnes - Marketo Docs - Productdocumentatie
 title: Triggers en filters voor mobiele slimme campagnes
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '818'
@@ -11,11 +10,11 @@ ht-degree: 0%
 
 ---
 
-# Triggers en filters voor slimme mobiele campagnes {#triggers-and-filters-for-mobile-smart-campaigns}
+# Triggers en filters voor mobiele slimme campagnes {#triggers-and-filters-for-mobile-smart-campaigns}
 
 U kunt triggers en filters instellen voor een slimme campagne voor een mobiele app.
 
-Voor de meeste activiteiten zijn er een trigger, een filter en een inactiviteitsfilter. Gebruik inactiviteitsfilters om een handeling bij te houden, zoals het tikken op een pushmelding die *niet* heeft plaatsgevonden.
+Voor de meeste activiteiten zijn er een trigger, een filter en een inactiviteitsfilter. Gebruik inactiviteitsfilters om een handeling bij te houden, zoals tikken op een pushmelding, die *niet* gebeuren.
 
 * Mobiele app is/is geïnstalleerd
 * Mobiele app is/is geopend
@@ -27,11 +26,11 @@ Er zijn alleen filters voor deze activiteit:
 
 * Er is pushmelding verzonden - filter en inactiviteitsfilter
 
-Zoek naar **mobiele app** in het juiste paneel om van alle Mobiele App trekkers en filters een lijst te maken.
+Zoeken naar **mobiele app** in het rechterdeelvenster om alle triggers en filters voor de Mobile App weer te geven.
 
 ![](assets/image2015-8-12-17-3a25-3a18.png)
 
-## Beperkingen {#constraints}
+## Restricties {#constraints}
 
 Gebruik beperkingen met triggers en filters om de gegevens verder te sorteren.
 
@@ -57,7 +56,7 @@ Sommige triggers en filters bieden aanvullende beperkingen, zoals:
 
 * Sessieduur (seconden) - Sessietijd wanneer de app op de voorgrond staat
 
-* Is Ingedrukt - **Waar** betekent dat de dupberichten kunnen worden verzonden. **** Falsemeans die ze niet kunnen; de persoon heeft er bijvoorbeeld mogelijk voor gekozen geen pushberichten meer te ontvangen
+* Is gedrukt - **Waar** betekent dat pushmeldingen kunnen worden verzonden. **Onwaar** betekent dat ze dat niet kunnen; de persoon heeft er bijvoorbeeld mogelijk voor gekozen geen pushberichten meer te ontvangen
 
 ## Triggers en filters {#triggers-and-filters}
 
@@ -103,11 +102,11 @@ Mobiele app is/is geopend
 
 Heeft/heeft mobiele toepassingsactiviteiten
 
-Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U dient met uw ontwikkelaar te werken aan het bijhouden van [voor Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) en [voor iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
+Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U moet met uw ontwikkelaar samenwerken om het volgen van de opstelling [voor Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android) en [voor iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios).
 
 * Heeft mobiele toepassingsactiviteit - trigger
 
-* Toepassingsactiviteit voor mobiele apparaten hebben ingeschakeld, filter
+* Toepassingsactiviteiten op mobiele apparaten hadden - filter
 
 * Geen mobiele toepassingsactiviteit - inactiviteitsfilter
 
@@ -129,7 +128,7 @@ Met de actievereisten kunt u de trigger en filters gebruiken om mobiele activite
 >
 >**Voorbeeld**
 >
->Onder het handelingstype van *Shopping*, is hier een zeer specifieke actie, met de andere beperkingen die het bepalen:
+>Onder het actietype *Winkelen* Hier is een zeer specifieke actie, met andere beperkingen die het bepalen:
 >
 >* Een shirt kopen
    >   * Het was rood
@@ -182,7 +181,7 @@ Taps/Tapping Push Notification
 >
 >Gebruik het filter Inactiviteit van pushmelding niet aangeraakt om te zoeken naar mensen die niet hebben getikt op een pushmelding die onlangs naar hen is verzonden, zodat u deze via e-mail kunt volgen.
 
-**Is pushmelding verzonden.** Deze activiteit is alleen beschikbaar als filter.
+**Er is een pushmelding verzonden** Deze activiteit is alleen beschikbaar als filter.
 
 * Er is pushmelding verzonden, filter
 

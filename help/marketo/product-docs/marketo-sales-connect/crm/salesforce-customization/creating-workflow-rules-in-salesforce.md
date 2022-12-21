@@ -2,22 +2,21 @@
 unique-page-id: 14745823
 description: Workflowregels maken in Salesforce - Marketo Docs - Productdocumentatie
 title: Workflowregels maken in Salesforce
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 0cfce178-453b-4949-96aa-c327278a267d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
 
 ---
 
-
 # Workflowregels maken in Salesforce {#creating-workflow-rules-in-salesforce}
 
-Als tegelijkertijd Marketo Sales Insight (MSI) en Marketo Sales Connect (MSC) worden gebruikt, wordt de functie Best Bets van MSI in Salesforce niet bijgewerkt. Alle andere MSI-functies werken zoals gewoonlijk (interessante momenten in het iFrame weergeven, e-mail verzenden, aan campagnes toevoegen, enz.). Dit artikel biedt een oplossing om Best Bets weer te laten werken.
+Als tegelijkertijd Marketo Sales Insight (MSI) en Marketo Sales Connect (MSC) worden gebruikt, wordt de functie Best Bets voor MSI in Salesforce niet bijgewerkt. Alle andere MSI-functies werken zoals gewoonlijk (interessante momenten in het iFrame weergeven, e-mail verzenden, aan campagnes toevoegen, enz.). Dit artikel biedt een oplossing om Best Bets weer te laten werken.
 
 >[!NOTE]
 >
->Dit beïnvloedt slechts klanten die **zowel** MSI en MSE gebruiken, en die de Beste eigenschap van Bets in MSI willen gebruiken. Als u geen Best Bets nodig hebt/gebruikt, kunt u dit negeren.
+>Dit is alleen van invloed op klanten die **beide** MSI en MSE, en die de Beste eigenschap van Bets in MSI willen gebruiken. Als u geen Best Bets nodig hebt/gebruikt, kunt u dit negeren.
 
 ## Aan de slag {#getting-started}
 
@@ -33,70 +32,70 @@ Hieronder vindt u de aanbevolen namen van de workflowregels en een beschrijving 
  <tbody> 
   <tr> 
    <td>Interessant momebeschrijving bijwerken</td> 
-   <td><p>Kopiëren van: Laatste markeerteken voor betrokkenheid<br>Kopiëren naar: Laatste interessante momentele beschrijving</p></td> 
+   <td><p>Kopiëren van: Laatste Marketo Engagement Desc<br>Kopiëren naar: Laatste interessante momentele beschrijving</p></td> 
   </tr> 
   <tr> 
    <td>Het veld Interessentype van moment bijwerken</td> 
-   <td><p>Kopiëren van: Laatste type betrokkenheid markeerteken<br>Kopiëren naar: Type laatst interessant moment</p></td> 
+   <td><p>Kopiëren van: Laatste Marketo-servicetype<br>Kopiëren naar: Type laatst interessant moment</p></td> 
   </tr> 
   <tr> 
    <td>Veld voor interessante momentenbron bijwerken</td> 
-   <td><p>Kopiëren van: Laatste Marketo Engagement Source<br>Kopiëren naar: Laatste interessante mompbron</p></td> 
+   <td><p>Kopiëren van: Laatste Marketo-betrokkenheidsbron<br>Kopiëren naar: Laatste interessante mompbron</p></td> 
   </tr> 
   <tr> 
    <td>Veld voor datum van interessant moment bijwerken</td> 
-   <td><p>Kopiëren van: Laatste datum van betrokkenheid marktoverzicht<br>Kopiëren naar: Datum laatste interessant moment</p></td> 
+   <td><p>Kopiëren van: Laatste Marketo-betrokkenheidsdatum<br>Kopiëren naar: Datum laatste interessant moment</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Instructies {#instructions}
 
-1. Nadat u op **Setup** hebt geklikt, zoekt u naar **Workflow** en selecteert u **Workflowregels**.
+1. Na klikken **Instellen**, zoeken naar **Workflow** en selecteert u **Workflowregels**.
 
    ![](assets/one-1.png)
 
-1. Selecteer **Nieuwe regel**.
+1. Selecteren **Nieuwe regel**.
 
    ![](assets/two-1.png)
 
-1. Klik op de vervolgkeuzelijst Object en selecteer **Lead** en klik vervolgens op **Volgende**.
+1. Klik op de vervolgkeuzelijst Object en selecteer **Lood** en klik vervolgens op **Volgende**.
 
    ![](assets/three-1.png)
 
-1. Voer &quot;Interessent-momentveld bijwerken&quot; in als naam voor de regel. Selecteer het gemaakte keuzerondje **en elke keer dat het wordt bewerkt**. Selecteer **formule in de vervolgkeuzelijst Regelcriteria om het resultaat waar te maken**. Zoek naar en selecteer de ISCHANGED functie. Markeer vervolgens de standaardwaarde van het veld en klik op **Veld invoegen**.
+1. Voer &quot;Interessent-momentveld bijwerken&quot; in als naam voor de regel. Het keuzerondje selecteren **en telkens wanneer deze wordt bewerkt**. Selecteer in de vervolgkeuzelijst Regelcriteria de optie **formule levert true op**. Zoek naar en selecteer de ISCHANGED functie. Markeer vervolgens de standaardwaarde van het veld en klik op **Veld invoegen**.
 
    ![](assets/four-1.png)
 
-1. Kies **Laatste markering voor betrokkenheid bij aanbieding** in het pop-upmenu Veld invoegen en klik op **Invoegen**.
+1. Kies in het pop-upvenster Veld invoegen de optie **Laatste Marketo Engagement Desc** en klik op **Invoegen**.
 
    ![](assets/five-1.png)
 
-1. Klik **Opslaan &amp; Volgende**.
+1. Klikken **Opslaan en volgende**.
 
    ![](assets/6.png)
 
-1. Selecteer **Nieuwe veldupdate** in de vervolgkeuzelijst Workflowactie toevoegen.
+1. Selecteer in de vervolgkeuzelijst Workflowactie toevoegen de optie **Nieuwe veldupdate**.
 
    ![](assets/seven.png)
 
-1. Voer in het veld Naam het veld &quot;Interesten momentbeschrijving bijwerken&quot; in (de unieke naam wordt automatisch gegenereerd). Kies **Laatste interessante momentbeschrijving** in het veld voor bijwerken. Selecteer **Gebruik een formule om nieuwe waarde** radioknoop te plaatsen, dan klik **toon de Redacteur van de Formule**.
+1. Voer in het veld Naam het veld &quot;Interesten momentbeschrijving bijwerken&quot; in (de unieke naam wordt automatisch gegenereerd). Kies in het veld dat u wilt bijwerken in de vervolgkeuzelijst de optie **Laatste interessante momentele beschrijving**. Selecteer **Een formule gebruiken om een nieuwe waarde in te stellen** keuzerondje, klik vervolgens op **Formule-editor weergeven**.
 
    ![](assets/eight.png)
 
-1. Klik op de knop **Veld invoegen**.
+1. Klik op de knop **Veld invoegen** knop.
 
    ![](assets/9a.png)
 
-1. Selecteer **Laatste markeerteken voor betrokkenheid** en klik op **Invoegen**. Voor de volgende pagina, klik **sparen**.
+1. Selecteren **Laatste Marketo Engagement Desc** en klik op **Invoegen**. Klik op de volgende pagina op **Opslaan**.
 
    ![](assets/nine.png)
 
-1. Klik **Done**.
+1. Klikken **Gereed**.
 
    ![](assets/twelve.png)
 
-1. Klik **Activeer** om de workflowregel in te schakelen.
+1. Klikken **Activeren** om de workflowregel in te schakelen.
 
    ![](assets/thirteen.png)
 

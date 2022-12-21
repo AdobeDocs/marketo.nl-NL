@@ -2,24 +2,23 @@
 unique-page-id: 2359451
 description: Kies een bestaande e-mail - Marketo Docs - Productdocumentatie
 title: Bestaande e-mail kiezen
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-
-# Kies een bestaande e-mail {#choose-an-existing-email}
+# Bestaande e-mail kiezen {#choose-an-existing-email}
 
 >[!PREREQUISITES]
 >
 >* [Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Een publiek definiëren met een slimme ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) listener  [Een publiek definiëren door een lijst te importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Een publiek definiëren met een slimme lijst](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) of [Een publiek definiëren door een lijst te importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 
-Als u [een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) hebt gemaakt en uw publiek hebt gedefinieerd, wilt u bepalen welke e-mail u verzendt. U kunt [een e-mail voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) van kras tot stand brengen of selecteren die reeds bestaat. Hier is hoe je een kiest die al bestaat.
+Eenmaal [Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) en uw publiek te bepalen, zult u willen beslissen welke e-mail u verzendt. U kunt [een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) helemaal opnieuw wordt weergegeven of kiest u een bestaande versie. Hier is hoe je een kiest die al bestaat.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -29,13 +28,13 @@ Als u [een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-pro
 
    ![](assets/selectemailprogram.jpg)
 
-1. Selecteer onder de tegel **E-mail** de tegel die u wilt verzenden.
+1. Onder de **E-mail** Selecteer de tegel die u wilt verzenden.
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 
    >[!NOTE]
    >
-   >Alleen lokale e-mails kunnen worden geselecteerd. Wilt u een e-mailbericht van het ene programma naar het andere verplaatsen? [Leer hier](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md) hoe.
+   >Alleen lokale e-mails kunnen worden geselecteerd. Wilt u een e-mailbericht van het ene programma naar het andere verplaatsen? [Meer informatie hier](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md).
 
    Zoet!
 

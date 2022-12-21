@@ -42,7 +42,7 @@ Dankzij de LeanData-integratie is er nu een &#39;lead-to-account&#39;-overeenkom
 
 **[Verbeteringen voor Campagnevoorvertoning](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-De artsen van de marketing kunnen nu ervoor zorgen hun Webcampagnes over om het even welk apparaat *groot zullen kijken alvorens* hen lanceert. Met deze verbeteringen kunt u zien hoe uw webcampagnes worden gerenderd op verschillende desktops, mobiele apparaten en tablets. De nieuwe insteekmodule voor Chrome biedt ook consistentere en nauwkeurigere voorvertoningen.
+Marketing-professionals kunnen er nu voor zorgen dat hun webcampagnes er op elk apparaat goed uitzien *voor* ze te lanceren. Met deze verbeteringen kunt u zien hoe uw webcampagnes worden gerenderd op verschillende desktops, mobiele apparaten en tablets. De nieuwe insteekmodule voor Chrome biedt ook consistentere en nauwkeurigere voorvertoningen.
 
 **[Verbeteringen voor widgetcampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 

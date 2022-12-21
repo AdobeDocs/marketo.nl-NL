@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Template 2C {#template-2c}
 
-Klik met de rechtermuisknop op [Sjabloon 2C downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
+Klik met de rechtermuisknop om [downloadsjabloon 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 
@@ -21,7 +21,7 @@ Deze sjabloon bevat de volgende inhoud:
 * Een koptekst met logo en knop (optioneel)
 * Een primaire sectie
 
-   * Dit omvat de achtergrondafbeelding van een held, de koptekst, de gelabelde lijn, de lijst met opsommingstekens en de video.
+   * Dit omvat een achtergrondafbeelding van een held, een koptekst, een gelabelde lijn, een lijst met opsommingstekens en een video.
 
 * Eén body-sectie met tekst en formulier (optioneel)
 * Voettekst (optioneel)

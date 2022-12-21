@@ -2,16 +2,15 @@
 unique-page-id: 4719410
 description: Een webcampagne verwijderen - Marketo Docs - Productdocumentatie
 title: Een webcampagne verwijderen
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-
-# Een webcampagne {#delete-a-web-campaign} verwijderen
+# Een webcampagne verwijderen {#delete-a-web-campaign}
 
 1. Ga naar **Webcampagnes**.
 
@@ -19,9 +18,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik [filtereigenschap](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de Webcampagne te vinden u wilt, gebruik [filterfunctie](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Voor de pagina van de Campagnes van het Web, klik **Schrapping** op de campagne u wilt schrappen.
+1. Klik op de pagina Webcampagnes op **Verwijderen** in de campagne die u wilt verwijderen.
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 

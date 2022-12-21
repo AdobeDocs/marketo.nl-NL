@@ -3,7 +3,6 @@ unique-page-id: 1147084
 description: Verwijderen uit stroom - Marketo Docs - Productdocumentatie
 title: Verwijderen uit stroom
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '160'
@@ -21,7 +20,7 @@ Stel dat u een slimme campagnestroom hebt die &quot;Send Alert&quot;gebruikt om 
 
 ## Overzicht {#overview}
 
-U kunt mensen uit de stroom van een campagne verwijderen door **te gebruiken verwijdert uit Stroom** debietstap.
+U kunt mensen uit de stroom van een campagne verwijderen door **Verwijderen uit stroom** stap Stroom.
 
 ![](assets/image2014-9-22-17-3a10-3a21.png)
 
@@ -33,7 +32,7 @@ Zoek en selecteer de slimme campagne waaruit u personen wilt verwijderen.
 
 >[!NOTE]
 >
->U kunt een specifieke slimme campagne kiezen, of &quot;deze campagne&quot;in **Campagne** drop-down kiezen om de campagne te selecteren u fysisch in op dat ogenblik bent.
+>U kunt een specifieke slimme campagne kiezen of &quot;deze campagne&quot; kiezen in het dialoogvenster **Campagne** vervolgkeuzelijst om de campagne te selecteren waarin u zich fysiek bevindt.
 
 >[!NOTE]
 >

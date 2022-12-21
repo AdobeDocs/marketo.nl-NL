@@ -30,7 +30,7 @@ Maak prachtige e-mails met onze nieuwe startsjablonen! Zoek uw sjablonen ook sne
 
 >[!NOTE]
 >
->De e-maileditor 2.0 (met de Sjabloonkiezer) wordt vanaf 3 juni geleidelijk ingevoerd. We zullen de uitrol voor 30 juni voltooien. In tegenstelling tot e-mailinzichten, wordt u niet op de hoogte gesteld wanneer u toegang hebt. Volg de stappen in [dit artikel](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md) om te controleren of u dit doet.
+>De e-maileditor 2.0 (met de Sjabloonkiezer) wordt vanaf 3 juni geleidelijk ingevoerd. We zullen de uitrol voor 30 juni voltooien. In tegenstelling tot e-mailinzichten, wordt u niet op de hoogte gesteld wanneer u toegang hebt. Volg de stappen in [dit artikel](/help/marketo/product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md).
 
 ![](assets/5-29-home-starter-templates.png)
 
@@ -58,7 +58,7 @@ De Marketo REST API&#39;s bieden nu ondersteuning voor het beheer van Marketo-be
 
 ## [IP Voegende op lijst van gewenste personen  voor API Toegang](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Vergelijkbaar met de IP voegende op lijst van gewenste personen eigenschap voor de gebruikerslogins van Marketo, kunnen de beheerders van Marketo een lijst van gewenste personen van IP adressen nu opstelling die tot de de ZEEP van Marketo en REST APIs kunnen toegang hebben, daardoor blokkerend toegang van niet-gemachtigde IP adressen. Dit biedt een extra beveiligingslaag voor uw Marketo-instantie en zorgt ervoor dat API-toegang alleen kan plaatsvinden vanuit het netwerk van uw organisatie. Details over het instellen van deze instelling zijn beschikbaar op de [Marketo-documentatiesite](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Vergelijkbaar met de IP voegende op lijst van gewenste personen eigenschap voor de gebruikerslogins van Marketo, kunnen de beheerders van Marketo een lijst van gewenste personen van IP adressen nu opstelling die tot de de ZEEP en HEEFT APIs van Marketo kunnen toegang hebben, daardoor blokkerend toegang van niet-gemachtigde IP adressen. Dit biedt een extra beveiligingslaag voor uw Marketo-instantie en zorgt ervoor dat API-toegang alleen kan plaatsvinden vanuit het netwerk van uw organisatie. Meer informatie over het instellen van deze instelling vindt u op het tabblad [Marketo-documentatiesite](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
 ## [Nieuwe snelle Microsoft Dynamics Sync Connector](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
@@ -66,17 +66,17 @@ De nieuwe, snelle dynamische connector, die op Orion-architectuur is gebouwd, bi
 
 **Gegevens vernieuwen voor nieuwe velden**: Nu kunt u nieuwe synchronisatievelden op elk ogenblik toelaten en alle gegevenswaarden voor dat gebied zullen van Dynamica CRM in Marketo worden verfrist. U hoeft niet meer alle velden te selecteren tijdens de eerste installatie. Als u een bestaand synchronisatieveld onbruikbaar maakt en het later opnieuw toelaat, zullen alle gegevenswaarden voor dat gebied van Dynamica CRM in Marketo worden vernieuwd.
 
-**Lead synchroniseren als contactpersoon**: De stroomactie Synchroniseren leidt tot Microsoft beschikt over een nieuwe optie voor synchronisatie als lead of contactpersoon.
+**Lead synchroniseren als contactpersoon**: De stroomactie &#39;Lead synchroniseren naar Microsoft&#39; heeft een nieuwe optie om te synchroniseren als een lead of contactpersoon.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**Tabblad** Foutenbeheer synchroniseren: Blader, zoek of exporteer leads (en andere objecten) die niet konden worden gesynchroniseerd met details zoals bewerking, richting, foutcode en foutbericht.
+**Tabblad Fouten beheren synchroniseren**: Blader, zoek of exporteer leads (en andere objecten) die niet konden worden gesynchroniseerd met details zoals bewerking, richting, foutcode en foutbericht.
 
 ![](assets/sync-errors.png)
 
 **Microsoft Dynamics 2016**: De connector is volledig gecertificeerd voor Dynamics 2016 Online en On-premise versies.
 
-**Updates van plug-ins worden nu gedocumenteerd:** Zie het artikel over [ updates van ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)plug-ins.
+**Updates van plug-ins worden nu gedocumenteerd:** Zie de [plug-in werkt docs-artikel bij](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 
 ## [Naam van vriendelijke instantie](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
@@ -98,4 +98,4 @@ U kunt nu het aantal records en velden voor alle gepubliceerde aangepaste object
 
 ## Aangepaste activiteiten {#custom-activities}
 
-Marketo-beheerders kunnen hun aangepaste activiteitstypen nu definiëren en beheren via het Marketo Custom Activity Definition-model. Beheerders kunnen het gegevensmodel net als (en in combinatie met) de Marketo Custom Object Modeler nu uitbreiden om precies aan hun zakelijke behoeften te voldoen. Meer informatie over het gebruik van deze functionaliteit vindt u op de [Marketo-documentatiesite](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).
+Marketo-beheerders kunnen hun aangepaste activiteitstypen nu definiëren en beheren via het Marketo Custom Activity Definition-model. Beheerders kunnen het gegevensmodel net als (en in combinatie met) de Marketo Custom Object Modeler nu uitbreiden om precies aan hun zakelijke behoeften te voldoen. Nadere gegevens over het gebruik van deze functie zijn beschikbaar op het tabblad [Marketo-documentatiesite](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md).

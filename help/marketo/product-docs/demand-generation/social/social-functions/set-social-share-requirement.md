@@ -1,29 +1,28 @@
 ---
 unique-page-id: 2359821
-description: Vereiste voor sociaal delen instellen - Marketo Docs - Productdocumentatie
+description: Vereisten voor sociaal delen instellen - Marketo-documenten - productdocumentatie
 title: Vereiste voor sociaal delen instellen
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-
 # Vereiste voor sociaal delen instellen {#set-social-share-requirement}
 
-Wanneer u [een verwijzingsaanbieding ](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) creeert, kunt u mensen vereisen om de aanbieding te delen om zich te ondertekenen, of het facultatief te maken.
+Wanneer u [een verwijzingsaanbod maken](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), kunt u van personen verlangen dat zij het voorstel delen om u aan te melden, of kunt u het optioneel maken.
 
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/ma-1.png)
 
-1. Selecteer de verwijzingsaanbieding, en klik **uitgeven Ontwerp**.
+1. Selecteer het verwijzingsaanbod en klik op **Concept bewerken**.
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. In de verwijzingsaanbiedingsredacteur, ga naar **App Montages** en dan **Teken-op Stappen van de Stroom**.
+1. Ga in de verwijzingsofferte-editor naar **App-instellingen** en vervolgens **Stappen voor aanmelden**.
 
    ![](assets/three.png)
 
@@ -31,9 +30,9 @@ Wanneer u [een verwijzingsaanbieding ](/help/marketo/product-docs/demand-generat
 
    ![](assets/four.png)
 
-   * **Vastleggen**  persoon >  **Delen**: Persoon kan het delen overslaan en zich gewoon aanmelden.
-   * **Delen** >  **Persoonlijk vastleggen**: De persoon moet delen om u aan te melden.
+   * **Persoon legt** > **Delen**: Persoon kan het delen overslaan en zich gewoon aanmelden.
+   * **Delen** > **Persoon legt**: De persoon moet delen om u aan te melden.
 
-1. Zie voor elke optie de voorvertoning in het venster **Beeld en bewerken**.
+1. Voor elke optie, zie de voorproef in **Weergeven en bewerken** venster.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)

@@ -2,18 +2,17 @@
 unique-page-id: 1900577
 description: E-mailscripttoken maken - Marketo Docs - Productdocumentatie
 title: Een e-mailscripttoken maken
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
-
 # Een e-mailscripttoken maken {#create-an-email-script-token}
 
-Voor gevorderde ontwikkelaars, kunt u [manuscripten ](https://velocity.apache.org/engine/1.7/user-guide.html) in uw e-mail gebruiken. Zo doe je het.
+Voor gevorderde ontwikkelaars kunt u [Snelheidsscripts](https://velocity.apache.org/engine/1.7/user-guide.html) in uw e-mails. Zo doe je het.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -23,15 +22,15 @@ Voor gevorderde ontwikkelaars, kunt u [manuscripten ](https://velocity.apache.or
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Onder **Mijn tokens** tabel, sleep in een **E-mailmanuscript** teken.
+1. Onder de **Mijn tokens** tabblad, slepen in een **E-mailscript** token.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Noem uw e-mailmanuscriptteken en **klik om** zijn inhoud uit te geven.
+1. Geef uw e-mailscripttoken een naam en **klik om te bewerken** de inhoud.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Gebruik de boom op het recht om in **Person, Opportunity**, of **Aangepast Voorwerp** tokens te slepen.
+1. De boomstructuur aan de rechterkant gebruiken om in te slepen **Persoon, opportunity**, of **Aangepast object** tokens.
 
    ![](assets/five-2.png)
 
@@ -49,16 +48,16 @@ Voor gevorderde ontwikkelaars, kunt u [manuscripten ](https://velocity.apache.or
 
 1. Schrijf uw script in Snelheid. Hier volgen enkele nuttige bronnen:
 
-   * [Documenten met e-mailscripts voor Marketo Developers](https://developers.marketo.com/email-scripting/)
+   * [Marketo Developers Email Scripting Documentation](https://developers.marketo.com/email-scripting/)
    * [Gebruikershandleiding voor snelheid](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Snelheidsnaslaggids](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Zodra uw manuscript wordt voltooid, klik **sparen**.
+1. Wanneer het script is voltooid, klikt u op **Opslaan**.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Klik nog een keer op **Opslaan**.
+1. Klikken **Opslaan** nog een keer.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 

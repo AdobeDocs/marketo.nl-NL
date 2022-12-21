@@ -3,7 +3,6 @@ unique-page-id: 1146960
 description: Gegevenswaarde wijzigen - Marketo Docs - Productdocumentatie
 title: Gegevenswaarde wijzigen
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '112'
@@ -11,17 +10,17 @@ ht-degree: 0%
 
 ---
 
-# Gegevenswaarde {#change-data-value} wijzigen
+# Gegevenswaarde wijzigen {#change-data-value}
 
 ## Overzicht {#overview}
 
-U kunt Marketo gebruiken om de waarde van een veld bij te werken. Hiervoor gebruikt u de stroomactie **Gegevenswaarde wijzigen**.
+U kunt Marketo gebruiken om de waarde van een veld bij te werken. Hiervoor gebruikt u de opdracht **Gegevenswaarde wijzigen** Handeling flow.
 
 ![](assets/image2014-9-22-11-3a15-3a34.png)
 
 >[!NOTE]
 >
->U kunt ook blokkeren dat een veld wordt bijgewerkt. Zie [Updates blokkeren voor een veld](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md) voor meer informatie.
+>U kunt ook blokkeren dat een veld wordt bijgewerkt. Zie [Updates van een veld blokkeren](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md) voor meer informatie.
 
 ## Gebruik {#usage}
 
@@ -35,7 +34,7 @@ U kunt Marketo gebruiken om de waarde van een veld bij te werken. Hiervoor gebru
 
    >[!NOTE]
    >
-   >U kunt tokens in **Nieuwe Waarde** ook gebruiken.
+   >U kunt tokens ook gebruiken in **Nieuwe waarde**.
 
    >[!TIP]
    >

@@ -1,25 +1,24 @@
 ---
 unique-page-id: 11384433
-description: Opstelling van het Team van de rekening - Marketo Docs - de Documentatie van het Product
+description: Account Team Setup - Marketo Docs - Productdocumentatie
 title: Account Team Setup
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-
 # Account Team Setup {#account-team-setup}
 
 Een accountteam is een groep belanghebbenden die samenwerken aan een benoemde account. Voer de volgende stappen uit om te kiezen welke CRM-accountrollen moeten worden toegevoegd.
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/one-3.png)
 
-1. Klik **Doelaccountbeheer**.
+1. Klikken **Doelaccountbeheer**.
 
    ![](assets/account-team-setup-2.png)
 
@@ -31,7 +30,7 @@ Een accountteam is een groep belanghebbenden die samenwerken aan een benoemde ac
    >
    >Geef deze als accountrol een naam en pas deze aan het gewenste zoekveld voor gebruiker in uw CRM aan.
 
-1. Typ de naam van uw accountrol en selecteer het veld **CRM**. Voeg maximaal 10 toe.
+1. Typ de naam in uw accountrol en selecteer de optie **CRM** veld. Voeg maximaal 10 toe.
 
    ![](assets/four-2.png)
 
@@ -39,7 +38,7 @@ Een accountteam is een groep belanghebbenden die samenwerken aan een benoemde ac
    >
    >U kunt geen eigenaar van account selecteren. Het wordt door gebrek gekozen van het rekeningsniveau in uw CRM.
 
-1. Klik **Opslaan** wanneer gereed.
+1. Klikken **Opslaan** wanneer gereed.
 
    ![](assets/five-2.png)
 
@@ -49,8 +48,7 @@ Een accountteam is een groep belanghebbenden die samenwerken aan een benoemde ac
 
    >[!NOTE]
    >
-   >* Als Meerdere CRM-accounts met verschillende rekeningeigenaren worden samengevoegd tot een Benoemde account, kiest Marketo één &quot;Rekeningeigenaar&quot; en voegt het andere rekeningeigenaren toe als &quot;Rekeningeigenaren&quot;
-      >
-      >
-   * Als een gebied van CRM &quot;Rol&quot;later anders wordt genoemd of geschrapt, zal Marketo TAM ophouden synchroniserend de bijgewerkte waarden tot de gebruiker manueel de opstelling in TAM bijwerkt
+   >* Als Meerdere CRM-accounts met verschillende rekeningeigenaren worden samengevoegd tot een Benoemd account, kiest Marketo één &quot;Rekeningeigenaar&quot; en voegt andere rekeningeigenaren toe als &quot;Rekeningeigenaren&quot;
+   >
+   >* Als de naam van een CRM-veld &quot;Role&quot; later wordt gewijzigd of verwijderd, stopt Marketo TAM met het synchroniseren van de bijgewerkte waarden totdat de gebruiker de instellingen handmatig bijwerkt in TAM
 

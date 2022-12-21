@@ -2,14 +2,13 @@
 unique-page-id: 2359512
 description: Segmentfilters gebruiken in een slimme lijst - Marketo Docs - Productdocumentatie
 title: Segmentfilters gebruiken in een slimme lijst
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
-
 
 # Segmentfilters gebruiken in een slimme lijst {#use-segment-filters-in-a-smart-list}
 
@@ -21,7 +20,7 @@ ht-degree: 0%
 
 Optimaliseer de prestaties van uw slimme lijsten met behulp van Segmentfilters.
 
-1. Zoek in de slimme lijst die u hebt gemaakt naar het woord **Segment** en sleep het filter.
+1. Zoek in de slimme lijst die u hebt gemaakt naar het woord **Segment**, sleep en zet het filter neer.
 
    ![](assets/image2014-9-16-10-3a30-3a47.png)
 

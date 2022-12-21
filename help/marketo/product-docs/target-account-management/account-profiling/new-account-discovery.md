@@ -15,55 +15,61 @@ ht-degree: 0%
 De Nieuwe Ontdekking van de Rekening kan u helpen nieuwe rekeningen vinden om te richten door op AI-Gebaseerde aanbevelingen van uw ideale klantenprofiel te gebruiken.
 
 >[!PREREQUISITES]
-[Accountprofielen instellen](/help/marketo/product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)>
 >
+>[Accountprofielen instellen](/help/marketo/product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
 
 >[!TIP]
-Het wordt aanbevolen op de knop **Bestaande accounts bijwerken** te drukken voordat u een nieuwe zoekopdracht uitvoert om te controleren of u de meest recente gegevens bekijkt. Deze update kan maximaal 24 uur in beslag nemen.
+>
+>Het wordt aanbevolen op de knop **Bestaande accounts bijwerken** voordat u een nieuwe accountzoekopdracht uitvoert, zodat u zeker weet dat u naar de meest recente gegevens kijkt. Deze update kan maximaal 24 uur in beslag nemen.
 
 1. Klik in Mijn Marketo op **Doelaccountbeheer**.
 
    ![](assets/new-account-discovery-1.png)
 
-1. Klik op het tabblad **Accountprofilering**.
+1. Klik op de knop **Accountprofielen** tab.
 
    ![](assets/two-2.png)
 
-1. Klik op het tabblad **Nieuwe accounts**.
+1. Klik op de knop **Nieuwe accounts** tab.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
-   De nieuwe Rekeningen toont een lijst van rekeningen die niet van u in TAM zijn, nog. Het zijn accounts die mogelijk nieuw voor u zijn op basis van filters die u selecteert.
+   >
+   >De nieuwe Rekeningen toont een lijst van rekeningen die niet van u in TAM zijn, nog. Het zijn accounts die mogelijk nieuw voor u zijn op basis van filters die u selecteert.
 
 1. Selecteer alle toepasselijke filters (dit deel is hoogst aanpasbaar, het volgende is enkel één voorbeeld om het filtreren aan te tonen).
 
    ![](assets/four-1.png)
 
-1. Klik op **Alles opslaan en lijst maken** rechtsonder op de pagina.
+1. Klikken **Alle opslaan en lijst maken** rechtsonder op de pagina.
 
    ![](assets/five-1.png)
 
    >[!NOTE]
-   Als u slechts een paar rekeningen ziet u wilt, hebt u de optie om op individuele rekeningen te klikken en **sparen Geselecteerde Rekeningen** te klikken wanneer gedaan.
+   >
+   >Als u slechts een paar accounts ziet die u wilt, kunt u op afzonderlijke accounts klikken en op **Geselecteerde accounts opslaan** wanneer gereed.
 
 1. Je kunt een lijst maken met je eigen nieuwe account of deze toevoegen aan een bestaande lijst. In dit voorbeeld maken we een nieuwe.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
-   Als u het bestand wilt opslaan in een bestaande accountlijst, selecteert u die optie, klikt u op de vervolgkeuzelijst en selecteert u de gewenste accountlijst. Klik vervolgens op **Volgende**.
+   >
+   >Als u de account wilt opslaan in een bestaande accountlijst, selecteert u die optie, klikt u op de vervolgkeuzelijst en selecteert u de gewenste accountlijst. Klik vervolgens op **Volgende**.
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/seven-1.png)
 
    >[!NOTE]
-   U kunt maximaal 5.000 accounts tegelijk opslaan. Als uw zoekopdracht 10.000 resultaten oplevert, moet u de eerste (bovenste) 5.000 opslaan, vervolgens de filters opnieuw instellen en de volgende 5.000 opslaan. De **totaal** rekeningsgrens is één miljoen.
+   >
+   >U kunt maximaal 5.000 accounts tegelijk opslaan. Als uw zoekopdracht 10.000 resultaten oplevert, moet u de eerste (bovenste) 5.000 opslaan, vervolgens de filters opnieuw instellen en de volgende 5.000 opslaan. De **totaal** de rekeninglimiet bedraagt 1 miljoen .
 
-1. Klik **OK**.
+1. Klikken **OK**.
 
    ![](assets/eight.png)
 
    >[!TIP]
-   Nadat uw accounts zijn opgeslagen, kunt u een [overeenkomend publiek op LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) gebruiken om deze als doel in te stellen.
+   >
+   >Nadat uw accounts zijn opgeslagen, kunt u een [doelgroep op LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) om ze als doel te hebben.

@@ -3,7 +3,6 @@ unique-page-id: 2360333
 description: Een veld verbergen en verbergen - Marketo Docs - Productdocumentatie
 title: Een veld verbergen en verbergen opheffen
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '181'
@@ -11,21 +10,21 @@ ht-degree: 0%
 
 ---
 
-# Veld {#hide-and-unhide-a-field} verbergen en verbergen
+# Een veld verbergen en verbergen opheffen {#hide-and-unhide-a-field}
 
 Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruikersinterface zodat het niet meer wordt weergegeven in de toepassing.
 
-## Veld {#hide-a-field} verbergen
+## Een veld verbergen {#hide-a-field}
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Admin** en klik **Veld Management**.
+1. Ga naar **Beheer** en klik op **Veldbeheer**.
 
    ![](assets/image2014-9-18-13-3a10-3a3.png)
 
-1. Zoek het veld, selecteer het en klik vervolgens onder **Veldhandelingen** op **Veld verbergen**.
+1. Zoek het veld, selecteer het vervolgens onder **Veldhandelingen** klikken **Veld verbergen**.
 
    ![](assets/fieldmanagement-hidefield-.png)
 
@@ -33,7 +32,7 @@ Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruik
    >
    >Als u een veld wilt verbergen, mag het niet worden gekoppeld aan andere elementen (inclusief gearchiveerde elementen). Verwijder het veld uit alle slimme lijsten, stapsgewijze keuzes, formulieren, e-mails enzovoort voordat u het verbergt.
 
-1. Klik **Verbergen** om te bevestigen.
+1. Klikken **Verbergen** ter bevestiging.
 
    ![](assets/image2014-9-18-13-3a10-3a36.png)
 
@@ -41,9 +40,9 @@ Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruik
 
    ![](assets/image2014-9-18-13-3a10-3a45.png)
 
-## Een veld {#unhide-a-field} verbergen
+## De verbergen van een veld ongedaan maken {#unhide-a-field}
 
-1. Ga naar **Admin** en klik **Veld Management**.
+1. Ga naar **Beheer** en klik op **Veldbeheer**.
 
    ![](assets/image2014-9-18-13-3a11-3a3.png)
 

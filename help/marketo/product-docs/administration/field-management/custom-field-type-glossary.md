@@ -3,7 +3,6 @@ unique-page-id: 2951259
 description: Verklarende woordenlijst Type aangepast veld - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst Type aangepast veld
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '583'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Verklarende woordenlijst voor aangepaste veldtype {#custom-field-type-glossary}
+# Verklarende woordenlijst Type aangepast veld {#custom-field-type-glossary}
 
 Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waaruit u kunt kiezen.
 
@@ -21,15 +20,15 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 >[!TIP]
 >
->Afhankelijk van het veldtype zullen filter/trigger [operators](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) verschillend zijn.
+>Afhankelijk van het veldtype, filter/trigger [operatoren](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) zal anders zijn.
 
 >[!NOTE]
 >
->De meeste velden hebben niet het maximale aantal tekens, maar het maximale aantal bytes. Daarom kunnen we geen definitieve tekenlimiet opgeven voor elk veld. De uitzondering is **String**, die bij 255 karakters uitkomt.
+>De meeste velden hebben niet het maximale aantal tekens, maar het maximale aantal bytes. Daarom kunnen we geen definitieve tekenlimiet opgeven voor elk veld. De uitzondering is **String**, die maximaal 255 tekens bevat.
 
-## Booleaans {#boolean}
+## Boolean {#boolean}
 
-**Voorbeeldnaam:** is klant - Tags toewijzen aan uw personen als klanten
+**Voorbeeldnaam:** Is Klant - Tags toewijzen aan uw mensen als klanten
 
 **Voorbeelden:** Waar (ingeschakeld) / Onwaar (uitgeschakeld)
 
@@ -37,7 +36,7 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 ## Valuta {#currency}
 
-**Voorbeeldnaam:** Begroting - Een getalwaarde opslaan voor het budget van een bedrijf
+**Voorbeeldnaam:** Begroting - Bewaar een getalwaarde voor de begroting van een bedrijf
 
 **Voorbeelden:** 100
 
@@ -53,37 +52,37 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 ## Datumtijd {#datetime}
 
-**Voorbeeldnaam:** Gemaakt op - Sla de datum en het tijdstip op waarop een persoon is gemaakt
+**Voorbeeldnaam:** Aanmaakdatum - Sla de datum en het tijdstip op waarop een persoon wordt gemaakt
 
-**Voorbeelden:** 8/19/14 2:00
+**Voorbeelden:** 19-08-14 2:00
 
 **Operatoren**: is, is niet, tussen, in het verleden, vóór, in de toekomst, na, in tijdkader, nadat, vóór, op of na, op of vóór, leeg is, is niet leeg
 
 ## E-mail {#email}
 
-**Voorbeeld Naam:** Alternatieve e-mail - Houd een alternatief e-mailadres voor uw mensen (kan geen e-mails naar dit veld verzenden zoals het standaard e-mailadresveld, dat is speciaal)
+**Voorbeeldnaam:** Alternatieve e-mail - Houd een alternatief e-mailadres voor uw mensen (kan geen e-mails naar dit veld verzenden, zoals het standaard e-mailadresveld, dat een speciaal adres is)
 
-**voorbeeldwaarden:** name@company.com
+**Voorbeelden:** name@company.com
 
 **Operatoren**: is, is niet, begint met, begint niet met, bevat, bevat, is leeg, is niet leeg
 
-## Zweven {#float}
+## Float {#float}
 
-**Voorbeeldnaam:Gemiddelde** verlooppunt - Het gemiddelde van het scorepunt van een persoon of een andere numerieke waarde met decimalen behouden
+**Voorbeeldnaam:** Gemiddelde scorepunt - Behoud het gemiddelde van het scorepunt van een persoon of een andere numerieke waarde met decimalen
 
-**Voorbeelden:** 2.47
+**Voorbeelden:** 2,47
 
 **Operatoren**: tussen, groter dan, kleiner dan, minstens, is leeg, is niet leeg
 
 ## Formule {#formula}
 
-**Voorbeeldnaam:** Salutaties - gebruik dit speciale veld in een  [oplossing om de juiste ](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) salutatie op basis van geslacht te krijgen
+**Voorbeeldnaam:** Aanhef - gebruik dit speciale veld in een [Oplossing voor de juiste aanhef](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) op basis van geslacht
 
-**Voorbeeldwaarden:gekoppelde oplossing** controleren
+**Voorbeelden:** controleer de verbonden oplossing
 
-## Geheel getal {#integer}
+## Geheel {#integer}
 
-**Voorbeeldnaam:** Aantal werknemers - sla een getalwaarde op die geen decimalen vereist
+**Voorbeeldnaam:** Aantal Werknemers - sla een aantalwaarde op die decimalen niet vereist
 
 **Voorbeelden:** 600
 
@@ -91,7 +90,7 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 ## Percentage {#percent}
 
-**Voorbeeldnaam:** Waarschijnlijk een percentagewaarde kopen - opslaan (wellicht berekend aan de CRM-zijde)
+**Voorbeeldnaam:** Waarschuwing: koop een percentage op (misschien berekend aan de CRM-zijde)
 
 **Voorbeelden:** 85%
 
@@ -99,7 +98,7 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 ## Telefoonnummer {#phone}
 
-**Voorbeeld Naam:** Alternatieve Telefoon - sla een extra telefoonaantal voor uw mensen op
+**Voorbeeldnaam:** Alternatieve Telefoon - sla een extra telefoonaantal voor uw mensen op
 
 **Voorbeeld:** 650-555-5555
 
@@ -107,25 +106,25 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 ## Score {#score}
 
-**Voorbeeldnaam:** Gedragsscore / Demografische score - Maak meerdere score-velden om verschillende kenmerken bij te houden.
+**Voorbeeldnaam:** Gedragsscore / Demografische score: maak meerdere muziekvelden om verschillende kenmerken bij te houden.
 
 **Voorbeeld:** 14
 
 **Operatoren**: is, is niet, tussen, groter dan, minstens, is leeg, is niet leeg
 
-## Tekenreeks {#string}
+## String {#string}
 
 **Voorbeeldnaam:** Tweede voornaam - een extra tekstkenmerk opslaan
 
-**voorbeeldwaarde:** Rose
+**Voorbeeld:** Roze
 
 **Operatoren**: is, is niet, begint met, begint niet met, bevat, bevat, is leeg, is niet leeg
 
 ## Tekstgebied {#text-area}
 
-**Voorbeeldnaam:** Opmerkingen - voeg een opmerkingenveld toe aan uw formulieren om meerregelige tekstinvoer toe te staan
+**Voorbeeldnaam:** Opmerkingen - voeg een opmerkingenveld toe aan uw formulieren zodat tekst op meerdere regels kan worden ingevoerd
 
-**Voorbeeld:** dit artikel is fantastisch!
+**Voorbeeld:** Dit artikel is fantastisch!
 
 **Operatoren**: is, is niet, begint met, begint niet met, bevat, bevat, is leeg, is niet leeg
 

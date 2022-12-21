@@ -2,16 +2,15 @@
 unique-page-id: 2359834
 description: Prioriteit geven aan stroominhoud - Marketo Docs - Productdocumentatie
 title: Stroominhoud prioriteren
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
-
-# Stroominhoud voorrang geven {#prioritize-stream-content}
+# Stroominhoud prioriteren {#prioritize-stream-content}
 
 Nadat u inhoud aan uw stroom hebt toegevoegd, kunt u de prioriteit willen veranderen. De inhoud wordt altijd geleverd van de bovenkant neer in elke gietvorm, en geen inhoud wordt verzonden naar de zelfde persoon tweemaal.
 
@@ -19,7 +18,7 @@ Nadat u inhoud aan uw stroom hebt toegevoegd, kunt u de prioriteit willen verand
 
    ![](assets/ma.png)
 
-1. Selecteer uw serviceprogramma en klik op het tabblad **Streams**.
+1. Selecteer uw serviceprogramma en klik op de knop **Streams** tab.
 
    ![](assets/cloneasteam-1.jpg)
 

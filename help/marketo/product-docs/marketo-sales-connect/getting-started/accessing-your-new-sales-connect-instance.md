@@ -1,7 +1,8 @@
 ---
 description: Toegang tot uw nieuwe exemplaar van Sales Connect - Marketo Docs - Productdocumentatie
 title: Toegang tot uw nieuwe Sales Connect-instantie
-source-git-commit: b491f476c4facc6343559a0acf5d5527e9afc618
+exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -16,15 +17,15 @@ ht-degree: 0%
 
 Zodra Sales Connect is aangeschaft, wordt een nieuwe integratiepagina weergegeven in uw Marketo-exemplaar. Op deze pagina kunt u uw eerste gebruiker uitnodigen en het exemplaar van Sales Connect instellen.
 
-1. Klik in Marketo op **Admin**.
+1. Klik in Marketo op **Beheer**.
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. Klik **Verkoop Connect**.
+1. Klikken **Verkoop Connect**.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
-1. Selecteer een optie in de lijst met Marketo-beheerders die u wilt uitnodigen en klik op **Uitnodiging verzenden**.
+1. Kiezen uit een lijst met Marketo-beheerders die u wilt uitnodigen en klikken **Uitnodiging verzenden**.
 
    ![](assets/accessing-your-new-sales-connect-instance-3.png)
 
@@ -32,4 +33,4 @@ De gebruiker ontvangt een e-mail met stappen om toegang te krijgen tot de Sales 
 
 >[!NOTE]
 >
->Extra gebruikers worden **niet** toegevoegd via Marketo en worden in plaats daarvan toegevoegd via de pagina Gebruikersbeheer van Sales Connect. [Klik ](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) hier voor meer informatie over het toevoegen van extra gebruikers.
+>Extra gebruikers zullen **niet** worden toegevoegd via Marketo en worden toegevoegd via de pagina Gebruikersbeheer van Sales Connect. [Klik hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md) voor meer informatie over het toevoegen van extra gebruikers.

@@ -5,12 +5,12 @@ title: Score wijzigen
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 source-git-commit: 0b1c7c7f7cd0becc17ec7636977f34a7d23ca448
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
-# Score {#change-score} wijzigen
+# Score wijzigen {#change-score}
 
 ## Overzicht {#overview}
 
@@ -34,9 +34,9 @@ Het noteren van mensen is gemakkelijk en krachtig om uw verkoopteam te helpen vo
 
    Wijzigingen:
 
-   * **+5** tot verhogen
+   * **+5** naar verhogen
    * **-5** wordt verlaagd (negatieve getallen zijn toegestaan)
-   * **=5** maakt de score precies dat aantal
-   * **=-5** maakt de score exact een negatief getal
+   * **=5** maakt de score exact zo hoog
+   * **=-5** Hiermee wordt de score exact zo negatief als
 
 U kunt snel basisscoring instellen en de resultaten na verloop van tijd aanpassen. Dat is wat we deden!

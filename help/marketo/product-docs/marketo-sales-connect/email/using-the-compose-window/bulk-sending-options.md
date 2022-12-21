@@ -2,14 +2,13 @@
 unique-page-id: 37356575
 description: Opties voor bulkverzending - Marketo Docs - Productdocumentatie
 title: Opties voor bulkverzending
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
 
 ---
-
 
 # Opties voor bulkverzending {#bulk-sending-options}
 
@@ -28,25 +27,25 @@ Het bulksgewijs verzenden van e-mails is een geweldige manier om uw betrokkenhei
  </colgroup> 
  <tbody> 
   <tr> 
-   <th><p><span></span><span> SendType</span> </p></th> 
-   <th><p><span>Max. aantal  </span><span></span><span>e-mails</span> </p></th> 
-   <th><p><span>Gestart  </span><span>Verzenden door</span></p></th> 
-   <th><p><span>E-mails  </span><span>bewerken in bulk</span> </p></th> 
-   <th><p><span>E-mail </span><span> uniek  </span><span>bewerken</span> </p></th> 
-   <th><p><span>Ondersteuning voor sjabloon en  </span><span>dynamisch veld</span> </p></th> 
+   <th><p><span>Verzenden</span><span> Type</span> </p></th> 
+   <th><p><span>Max. aantal </span><span>E</span><span>mails</span> </p></th> 
+   <th><p><span>Gestart </span><span>Verzenden op</span></p></th> 
+   <th><p><span>Bulk </span><span>E-mails bewerken</span> </p></th> 
+   <th><p><span>Bewerken</span><span> Elke e-mail </span><span>uniek</span> </p></th> 
+   <th><p><span>Sjabloon en </span><span>Dynamische veldondersteuning</span> </p></th> 
   </tr> 
   <tr> 
    <td><p><span>Groep-e-mail</span> </p></td> 
-   <td><p><span>1 000</span> </p></td> 
-   <td><p><span>Selecteer een groep en </span><span> klik op de knop  </span><span> </span><span>"Handelingen groeperen" of typ de naam van de groep in het veld Aan.  </span> </p></td> 
+   <td><p><span>1,000</span> </p></td> 
+   <td><p><span>Selecteer een groep en klik op</span><span> de </span><span>De knop Handelingen groeperen</span><span>of typ de groepsnaam in het veld Aan. </span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
    <td><p><span>Nee</span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
   </tr> 
   <tr> 
-   <td><p><span>Selecteren  </span><span>en  </span><span>verzenden</span> </p></td> 
+   <td><p><span>Selecteren </span><span>en </span><span>Verzenden</span> </p></td> 
    <td><p><span>200</span> </p></td> 
-   <td><p><span>Selecteer personen in het raster en klik op de knop "Geselecteerde e-mail" op de actiebalk</span><span> </span><span>of typ ontvangers in de  </span><span>zijbalk</span><span> van de grote hoeveelheid e-mail.</span></p></td> 
+   <td><p><span>Selecteer personen in het raster en klik op de knop "E-mail geselecteerd" op de actiebalk</span><span>, o</span><span>Typ ontvangers in de grote e-mail </span><span>zijbalk</span><span>.</span></p></td> 
    <td><p><span>Ja</span> </p></td> 
    <td><p><span>Ja</span> </p></td> 
    <td><p><span>Ja</span> </p></td> 

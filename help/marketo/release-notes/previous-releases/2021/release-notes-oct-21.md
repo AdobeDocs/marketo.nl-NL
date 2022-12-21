@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: Oktober 2021 {#release-notes-oct-21}
 
-De volgende functies zijn opgenomen in de release van oktober 1921. Controleer de Adobe Marketo Engage-editie van uw voor de beschikbaarheid van functies.
+De volgende functies zijn opgenomen in de release van oktober 1921. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >

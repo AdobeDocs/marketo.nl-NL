@@ -1,19 +1,18 @@
 ---
 unique-page-id: 12979008
-description: Overzicht van de bijdrage van prestatieonderzoeken - Marketo-documenten - productdocumentatie
+description: Performance Insights Contribution Overview - Marketo Docs - Productdocumentatie
 title: Overzicht van de bijdrage van Performance Insights
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
+# Overzicht van de bijdrage van Performance Insights {#performance-insights-contribution-overview}
 
-# Overzicht van de bijdrage van prestatiegegevens {#performance-insights-contribution-overview}
-
-In de Inzichten van Prestaties van de Marketo, wordt de mening van de Bijdrage getoond door gebrek.
+In Marketo Performance Insights wordt de weergave Bijdrage standaard weergegeven.
 
 ![](assets/one-1.png)
 
@@ -47,7 +46,7 @@ In het staafdiagram worden de programmaprestaties langs alle kanalen (tien progr
 
 >[!TIP]
 >
->Als u wilt dat de staven in de grafiek worden vergroot terwijl u door de groepen schuift, schakelt u het selectievakje **Y-as schalen om passend te maken** in.
+>Als u wilt dat de staven in de grafiek worden vergroot terwijl u door de groepen schuift, selecteert u de optie **Y-as passend maken** selectievakje.
 
 Plaats de muisaanwijzer op een balk voor meer informatie.
 

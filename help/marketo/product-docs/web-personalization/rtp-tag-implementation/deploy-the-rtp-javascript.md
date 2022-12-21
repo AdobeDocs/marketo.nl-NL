@@ -1,27 +1,26 @@
 ---
 unique-page-id: 4719332
-description: Implementeer de RTP JavaScript - Marketo Docs - Productdocumentatie
+description: De RTP JavaScript - Marketo Docs - Productdocumentatie implementeren
 title: De RTP JavaScript implementeren
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-
-# De RTP JavaScript {#deploy-the-rtp-javascript} implementeren
+# De RTP JavaScript implementeren {#deploy-the-rtp-javascript}
 
 Volg onderstaande installatie-instructies om uw RTP-tag te genereren en in te stellen
 
-## Label {#generate-tag} genereren
+## Label genereren {#generate-tag}
 
 1. Meld u aan bij uw RTP-account. Ga naar **Accountinstellingen**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. Zoek in **Domein** en **Domeinconfiguratie** het relevante domein en klik op **Label genereren**.
+1. In **Domein** en **Domeinconfiguratie**, zoek het relevante domein en klik op **Label genereren**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -31,7 +30,7 @@ Volg onderstaande installatie-instructies om uw RTP-tag te genereren en in te st
 
    >[!NOTE]
    >
-   >Kopieer de RTP JavaScript-tag en plak deze als het eerste script in de koptekst van uw pagina&#39;s - tussen de `<head> </head>`-tags.
+   >Kopieer de RTP JavaScript-tag en plak deze als het eerste script in de koptekst van uw pagina&#39;s - tussen de `<head> </head>` -tags.
 
    Zorg ervoor dat de tag op alle pagina&#39;s wordt weergegeven, inclusief bestemmingspagina&#39;s en subdomeinen. Controleer dit door met de rechtermuisknop op de pagina van uw website te klikken. Ga naar Pagina-bron weergeven in een webbrowser. Zoeken: &quot;RTP&quot;.
 
@@ -39,6 +38,6 @@ Volg onderstaande installatie-instructies om uw RTP-tag te genereren en in te st
 
    Controleer of de schakeloptie Tag is ingesteld op Aan. U zou moeten beginnen gegevensstroom in het lusje van de Organisatie te zien.
 
-   U bent nu opstelling met de markering RTP en klaar om [het creëren van segmenten](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) en campagnes in real time te beginnen!
+   U bent nu opstelling met de markering RTP en klaar om te beginnen [segmenten maken](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) en real-time campagnes!
 
 1. Verifieer de markering op alle pagina&#39;s is.

@@ -2,14 +2,13 @@
 unique-page-id: 11380787
 description: Accountlijstinzichten - Marketo Docs - Productdocumentatie
 title: Accountlijstinzichten
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
-
 
 # Accountlijstinzichten {#account-list-insights}
 
@@ -17,9 +16,9 @@ Het dashboard Accountlijst biedt een weergave van geaggregeerde inzichten van al
 
 >[!NOTE]
 >
->Marketo TAM bepaalt automatisch de hoogste genoemde rekeningen binnen een rekeningslijst die op pijpleiding wordt gebaseerd geproduceerde of de scores van de rekeningsovereenkomst van de rekening.
+>Marketo TAM bepaalt automatisch de hoogste benoemde accounts in een accountlijst op basis van door de pijpleiding gegenereerde of accountbetrokkenheidsscores.
 
-## Accountlijstdashboard {#account-list-dashboard}
+## Het dashboard Accountlijst {#account-list-dashboard}
 
 Als u het dashboard van een accountlijst wilt weergeven, klikt u gewoon op de naam van de lijst...
 
@@ -44,16 +43,16 @@ Als u het dashboard van een accountlijst wilt weergeven, klikt u gewoon op de na
 
 ## Tabblad Benoemde accounts {#named-accounts-tab}
 
-Klik op het tabblad **Benoemde accounts** om te zien welke benoemde accounts bij die accountlijst horen.
+Klik op de knop **Benoemde accounts** om te zien welke benoemde accounts bij die accountlijst horen.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->U kunt een benoemde account op dit tabblad verwijderen door deze te selecteren en te klikken op **Benoemde accounts verwijderen**.
+>U kunt een benoemde account op dit tabblad verwijderen door deze te selecteren en erop te klikken **Benoemde accounts verwijderen**.
 
 ## Wordt gebruikt door tab {#used-by-tab}
 
-Klik op het tabblad **Gebruikt door** om te zien welke elementen verwijzen naar die accountlijst.
+Klik op de knop **Gebruikt door** om te zien welke elementen verwijzen naar die accountlijst.
 
 ![](assets/four-2.png)

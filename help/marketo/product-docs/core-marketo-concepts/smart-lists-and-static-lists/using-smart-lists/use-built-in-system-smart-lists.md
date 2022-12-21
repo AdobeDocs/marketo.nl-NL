@@ -3,7 +3,6 @@ unique-page-id: 557275
 description: Ingebouwde/systeem slimme lijsten gebruiken - Marketo Docs - Productdocumentatie
 title: Ingebouwde/systeemslimme lijsten gebruiken
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '242'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Ingebouwde lijst/slimme lijst van het Systeem gebruiken {#use-built-in-system-smart-lists}
+# Ingebouwde/systeemslimme lijsten gebruiken {#use-built-in-system-smart-lists}
 
 Marketo heeft een aantal zeer nuttige ingebouwde slimme lijsten. Laten we ze eens bekijken!
 
@@ -19,15 +18,15 @@ Marketo heeft een aantal zeer nuttige ingebouwde slimme lijsten. Laten we ze een
 >
 >Marketo is bezig met het wijzigen van termen als Blacklist en Whitelist in de Lijst van gewezen personen en de Lijst van gewenste personen in ons product. Tijdens deze update ziet u mogelijk de oude termen in onze gebruikersinterface en documentatiescherm en de nieuwe termen in onze documentatietekst. Onze excuses voor de verwarring.
 
-1. Ga naar **Database**.
+1. Ga naar de **Database**.
 
    ![](assets/db.png)
 
-1. Open de map **Systeemslimme lijsten** om de verzameling zichtbaar te maken.
+1. Open de **Slimme systeemlijsten** om de verzameling weer te geven.
 
    ![](assets/two.png)
 
-1. Een voorbeeld bekijken: Selecteer **Alle Mensen**, dan klik **Mensen** tabel.
+1. Een voorbeeld bekijken: Selecteren **Alle personen** klikt u op de knop **Mensen** tab.
 
    ![](assets/three.png)
 

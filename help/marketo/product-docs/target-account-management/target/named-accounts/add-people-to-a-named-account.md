@@ -2,14 +2,13 @@
 unique-page-id: 11378816
 description: Personen toevoegen aan een Benoemd account - Marketo Docs - Productdocumentatie
 title: Personen toevoegen aan een benoemde account
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
-
 
 # Personen toevoegen aan een benoemde account {#add-people-to-a-named-account}
 
@@ -17,7 +16,7 @@ Er zijn drie verschillende manieren om mensen aan een genoemde rekening in TAM m
 
 ## Single Flow-actie {#single-flow-action}
 
-1. Klik **Database**.
+1. Klikken **Database**.
 
    ![](assets/one-2.png)
 
@@ -25,17 +24,17 @@ Er zijn drie verschillende manieren om mensen aan een genoemde rekening in TAM m
 
    ![](assets/two.png)
 
-1. Klik op de persoon om deze te selecteren. Klik op de vervolgkeuzelijst **Handelingen personen**, klik op **Marketing** en selecteer **Toevoegen aan benoemde account**.
+1. Klik op de persoon om deze te selecteren. Klik op de knop **Persoonlijke handelingen** vervolgkeuzelijst, klikken **Marketing** en selecteert u **Toevoegen aan benoemde account**.
 
    ![](assets/three.png)
 
-1. Klik op de vervolgkeuzelijst **Benoemd account**, selecteer het gewenste benoemde account en klik op **Nu uitvoeren**.
+1. Klik op de knop **Benoemd account** selecteert u het gewenste account en klikt u op **Nu uitvoeren**.
 
    ![](assets/four.png)
 
-## De Slimme Stap van de Stroom van de Campagne {#smart-campaign-flow-step}
+## Stroom van slimme campagne {#smart-campaign-flow-step}
 
-1. Selecteer uw Slimme Campagne en klik **Stroom**.
+1. Selecteer uw slimme campagne en klik op **Stroom**.
 
    ![](assets/five.png)
 
@@ -47,23 +46,23 @@ Er zijn drie verschillende manieren om mensen aan een genoemde rekening in TAM m
 
    ![](assets/seven.png)
 
-1. Klik op de vervolgkeuzelijst **Benoemd account** en selecteer het gewenste account met naam.
+1. Klik op de knop **Benoemd account** en selecteer het gewenste account met naam.
 
    ![](assets/eight.png)
 
    Dat is het! Start vervolgens gewoon uw slimme campagne (of activeer deze) en de flowstap begint gekwalificeerde personen toe te voegen aan het toegewezen benoemde account.
 
-## Importeren van lijst {#list-import}
+## Lijstimport {#list-import}
 
-1. Selecteer uw lijst, klik **de drop-down Acties van de Lijst** en selecteer **Lijst van de Invoer**.
+1. Selecteer uw lijst, klik **Handelingen weergeven** vervolgkeuzelijst en selecteer **Lijst importeren**.
 
    ![](assets/nine.png)
 
-1. Nadat u uw dossier en montages kiest, klik **Volgende**.
+1. Nadat u het bestand en de instellingen hebt gekozen, klikt u op **Volgende**.
 
    ![](assets/ten.png)
 
-1. Wijs de gewenste velden toe. Zorg ervoor dat het veld **Benoemd account** is toegewezen.
+1. Wijs de gewenste velden toe. Zorg ervoor dat de **Benoemd account** veld is toegewezen.
 
    ![](assets/eleven.png)
 

@@ -1,19 +1,18 @@
 ---
 unique-page-id: 2949168
-description: Het gebruiken van Malplaatjes om de Campagnes van het Web tot stand te brengen - Marketo Docs - de Documentatie van het Product
+description: Het gebruiken van Malplaatjes om de Campagnes van het Web tot stand te brengen - de Documenten van Marketo - de Documentatie van het Product
 title: Webcampagnes maken met sjablonen
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
+# Webcampagnes maken met sjablonen {#using-templates-to-create-web-campaigns}
 
-# Sjablonen gebruiken om webcampagnes te maken {#using-templates-to-create-web-campaigns}
-
-Versnel en vereenvoudig het maken van uw webcampagne met onze ingebouwde sjablonen of door uw eigen ](save-your-campaign-as-a-template.md) op te slaan.[
+Versnel en vereenvoudig het maken van uw webcampagne met onze ingebouwde sjablonen of door [uw eigen](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
@@ -23,7 +22,7 @@ Versnel en vereenvoudig het maken van uw webcampagne met onze ingebouwde sjablon
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Klik **Nieuwe webcampagne maken**.
+1. Klikken **Nieuwe webcampagne maken**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,7 +34,7 @@ Versnel en vereenvoudig het maken van uw webcampagne met onze ingebouwde sjablon
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Klik **Sjablonen**.
+1. Klikken **Sjablonen**.
 
    ![](assets/templates.png)
 
@@ -43,19 +42,19 @@ Versnel en vereenvoudig het maken van uw webcampagne met onze ingebouwde sjablon
 
    >[!NOTE]
    >
-   >Er zijn een aantal coole sjablonen waaruit u kunt kiezen, en in de toekomst zullen we er meer aan toevoegen.
+   >Er zijn een paar coole sjablonen waaruit je kunt kiezen, en we zullen er in de toekomst meer aan toevoegen.
 
    ![](assets/select.png)
 
    >[!TIP]
    >
-   >Voor mobiele campagnes selecteert u een sjabloon in de sectie **mobile**.
+   >Voor mobiele campagnes selecteert u een sjabloon in het menu **mobiel** sectie.
 
 1. Pas de sjabloon aan.
 
    ![](assets/customize-template.jpg)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/click-save-hand.jpg)
 

@@ -3,7 +3,6 @@ unique-page-id: 1147031
 description: Persoon verwijderen uit SFDC - Marketo Docs - Productdocumentatie
 title: Persoon verwijderen uit SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '135'
@@ -19,15 +18,15 @@ Als u een specifieke reeks leads uit Salesforce moet verwijderen maar deze als p
 >
 >Alleen beschikbaar bij integratie met Salesforce.
 
-1. Klik in de database op de persoon die u uit Salesforce wilt verwijderen. Klik vervolgens op **Handelingen personen** en selecteer **Salesforce**.
+1. Klik in de database op de persoon die u uit Salesforce wilt verwijderen. Klik vervolgens op **Persoonlijke handelingen** en selecteert u **Salesforce**.
 
    ![](assets/person-actions-salesforce.png)
 
-1. Selecteer **Persoon verwijderen uit SFDC**.
+1. Selecteren **Persoon verwijderen uit SFDC**.
 
    ![](assets/delete-person-from-sfdc.png)
 
-1. Zorg ervoor dat de **Delete-instelling in Marketo** **false** is en klik vervolgens op **Nu uitvoeren**.
+1. Zorg ervoor dat de **Verwijderen in Marketo** instellen is **false** en klik vervolgens op **Nu uitvoeren**.
 
    ![](assets/run-action-delete-lead-from-sfdc.png)
 
@@ -35,4 +34,4 @@ Als u een specifieke reeks leads uit Salesforce moet verwijderen maar deze als p
 
    >[!CAUTION]
    >
-   >Als u **Delete in Marketo** aan **true** plaatst en de mensen uit Marketo en de lood van Salesforce schrapt, zijn zij voorgoed gegaan. Dit kan niet ongedaan worden gemaakt.
+   >Als u **Verwijderen in Marketo** tot **true** en de mensen uit Marketo en de leiders van Salesforce verwijderen, ze zijn voorgoed verdwenen. Dit kan niet ongedaan worden gemaakt.

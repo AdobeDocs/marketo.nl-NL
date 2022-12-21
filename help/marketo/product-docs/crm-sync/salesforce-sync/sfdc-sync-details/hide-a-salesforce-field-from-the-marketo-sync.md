@@ -18,11 +18,11 @@ ht-degree: 0%
 
 Niet elk veld in Salesforce is nuttig voor marketing. U kunt de synchronisatieprestaties optimaliseren door alleen velden op te nemen die u nodig hebt. Zo kun je een veld verbergen voor Marketo.
 
-1. Klik op het naammenu en selecteer **Setup**.
+1. Klik op het menu Naam en selecteer **Instellen**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Typ **profielen** in de zoekbalk en klik op **Profielen** onder **Gebruikers beheren**.
+1. Enter **profielen** in de zoekbalk en klik op **Profielen** krachtens **Gebruikers beheren**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -30,15 +30,15 @@ Niet elk veld in Salesforce is nuttig voor marketing. U kunt de synchronisatiepr
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Onder **Veld-Vlakke Veiligheid** sectie, klik **Mening** naast het voorwerp dat het doelgebied bevat.
+1. Onder de **Beveiliging op veldniveau** sectie, klikt u op **Weergave** naast het object dat het doelveld bevat.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
-1. Klik **Bewerken**.
+1. Klikken **Bewerken**.
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Schakel het selectievakje **Visible** naast het veld dat u wilt verbergen uit. Klik **Opslaan**.
+1. Schakel het selectievakje **Zichtbaar** Schakel het selectievakje naast het veld dat u wilt verbergen in. Klikken **Opslaan**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 

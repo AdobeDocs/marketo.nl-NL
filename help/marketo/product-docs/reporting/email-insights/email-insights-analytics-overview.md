@@ -2,14 +2,13 @@
 unique-page-id: 10099411
 description: Overzicht van e-mailinzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van e-mailinzichten
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
 
 ---
-
 
 # Overzicht van e-mailinzichten {#email-insights-analytics-overview}
 
@@ -17,7 +16,7 @@ Verken in Analytics geaggregeerde gegevens voor e-maillevering en betrokkenheid.
 
 ![](assets/emailanalytics-1.jpg)
 
-[U kunt ](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) filteren om bepaalde metrieke gegevens bij u op te zoeken.
+[Filteren](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) is beschikbaar om u te helpen naar beneden voor specifieke metriek boren.
 
 ![](assets/filter-field.png)
 
@@ -45,7 +44,7 @@ De grafiek toont uw gefilterde criteria. Als u een van uw filters wilt verbergen
 
 ![](assets/chart2.png)
 
-Als u een grafiek creeert u zou willen opnieuw gebruiken, maak het een [snelle grafiek](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+Als u een grafiek maakt die u opnieuw wilt gebruiken, maakt u er een [sneldiagram](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
 ![](assets/quick-chart.png)
 

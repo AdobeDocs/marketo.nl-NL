@@ -2,16 +2,15 @@
 unique-page-id: 2359594
 description: Een veldenset toevoegen aan een formulier - Marketo Docs - Productdocumentatie
 title: Een veldset toevoegen aan een formulier
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-
-# Een veldenset toevoegen aan een formulier {#add-a-fieldset-to-a-form}
+# Een veldset toevoegen aan een formulier {#add-a-fieldset-to-a-form}
 
 Veldsets zijn cool. Ze groeperen een hoop velden samen. U kunt ook een heel blok tegelijk beheren!
 
@@ -23,15 +22,15 @@ Veldsets zijn cool. Ze groeperen een hoop velden samen. U kunt ook een heel blok
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. Klik op het **+**-teken en selecteer **Veldset**.
+1. Klik op de knop **+** ondertekenen en selecteren **Veldset**.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. Selecteer de **veldset** en voer een **Label** in.
+1. Selecteer **veldset** en voert u een **Label**.
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. Sleep de velden die u wilt invoegen in de **veldset**.
+1. Sleep de gewenste velden naar de **veldset**.
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 

@@ -2,14 +2,13 @@
 unique-page-id: 10097100
 description: Een webcampagne plannen - Marketo Docs - Productdocumentatie
 title: Een webcampagne plannen
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
 
 ---
-
 
 # Een webcampagne plannen {#schedule-a-web-campaign}
 
@@ -29,7 +28,7 @@ U kunt de webcampagne plannen op basis van de tijd van de webbezoeker of een ges
 
    >[!NOTE]
    >
-   >Om het gemakkelijker te maken om de campagne te vinden u wilt, gebruik [filtereigenschap](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Om het gemakkelijker te maken om de campagne te vinden wilt u, gebruik [filterfunctie](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Open het menu Campagnestatus en selecteer **Schema**.
 
@@ -51,18 +50,18 @@ U kunt de webcampagne plannen op basis van de tijd van de webbezoeker of een ges
    >
    >U kunt de datum en tijd selecteren in het keuzemenu en de kalender of ze handmatig invoeren. De tijden zijn in 12 uur AM/PM tijd.
 
-1. Standaard wordt de campagne elke dag tussen de begin- en einddatum uitgevoerd. Als u de campagne alleen op specifieke dagen of op specifieke tijdstippen wilt uitvoeren, gebruikt u de instellingen **Herhalen**. Selecteer de dag en de begin- en eindtijd om de campagne weer te geven. Gebruik het plusteken + om extra dagen toe te voegen.
+1. Standaard wordt de campagne elke dag tussen de begin- en einddatum uitgevoerd. Als u de campagne alleen op specifieke dagen of op specifieke tijdstippen wilt uitvoeren, gebruikt u de opdracht **Herhalen** instellingen. Selecteer de dag en de begin- en eindtijd om de campagne weer te geven. Gebruik het plusteken + om extra dagen toe te voegen.
 
    ![](assets/image2016-1-14-8-3a19-3a37.png)
 
-1. Klik **Schema**.
+1. Klikken **Schema**.
 
    ![](assets/image2016-1-14-8-3a27-3a55.png)
 
-1. De status van de campagne op de pagina Campagnes verandert in **Scheduled** en het klok/kalenderpictogram toont. Klik op dit pictogram om het campagnereschema te bewerken.
+1. De status van de campagne op de pagina Campagnes verandert in **Gepland** en het klok-/kalenderpictogram wordt weergegeven. Klik op dit pictogram om het campagnereschema te bewerken.
 
    ![](assets/image2016-1-14-8-3a27-3a32.png)
 
    >[!NOTE]
    >
-   >De campagnestatus blijft als **Gepland** zelfs wanneer de campagne tijdens de geselecteerde geplande tijden loopt. Wanneer een geplande einddatum is overgegaan, verandert de campagnestatus in **Gepauzeerd**.
+   >De status van de campagne blijft ongewijzigd **Gepland** zelfs als de campagne tijdens de geselecteerde geplande tijden loopt. Wanneer een geplande einddatum is overgegaan, verandert de campagnestatus in **Gepauzeerd**.

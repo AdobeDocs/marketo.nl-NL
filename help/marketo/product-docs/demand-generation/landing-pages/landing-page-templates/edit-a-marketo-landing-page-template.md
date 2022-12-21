@@ -1,29 +1,28 @@
 ---
 unique-page-id: 4720738
-description: Een sjabloon voor de landingspagina van Marketo bewerken - Marketo Docs - Productdocumentatie
-title: Een sjabloon voor een bestemmingspagina markeren bewerken
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+description: Een Marketo-landingspaginasjabloon bewerken - Marketo Docs - Productdocumentatie
+title: Een Marketo-sjabloon voor openingspagina bewerken
+exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
+# Een Marketo-sjabloon voor openingspagina bewerken {#edit-a-marketo-landing-page-template}
 
-# Sjabloon {#edit-a-marketo-landing-page-template} voor bestemmingspagina markeren bewerken
-
-U kunt elke sjabloon van een openingspagina bewerken in Marketo.
+U kunt elke sjabloon van een bestemmingspagina bewerken in Marketo.
 
 1. Ga naar **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Vouw **Landing Pages** uit om de sjablonen weer te geven.
+1. Uitbreiden **Openingspagina&#39;s** om de sjablonen weer te geven.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Selecteer **Sjabloon** u wilt bewerken. Klik **Concept bewerken**.
+1. Selecteer **Sjabloon** wilt bewerken. Klikken **Concept bewerken**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 

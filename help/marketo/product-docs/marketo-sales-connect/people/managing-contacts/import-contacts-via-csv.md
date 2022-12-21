@@ -2,14 +2,13 @@
 unique-page-id: 14352468
 description: Contacten importeren via CSV - Marketo Docs - Productdocumentatie
 title: Contacten importeren via CSV
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
 
 ---
-
 
 # Contacten importeren via CSV {#import-contacts-via-csv}
 
@@ -19,11 +18,11 @@ Het is belangrijk dat u contacten hebt op de pagina Personen, omdat wij hier aut
 
    ![](assets/one.png)
 
-1. Klik **Handelingen groeperen** en selecteer **CSV importeren**.
+1. Klikken **Handelingen groeperen** en selecteert u **CSV importeren**.
 
    ![](assets/two.png)
 
-1. Klik **Bladeren**.
+1. Klikken **Bladeren**.
 
    ![](assets/three.png)
 
@@ -33,10 +32,10 @@ Het is belangrijk dat u contacten hebt op de pagina Personen, omdat wij hier aut
    >
    >Groepen zijn beperkt tot 1000 contacten.
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/four.png)
 
-1. Wijs de kolommen in uw CSV aan hun respectieve gebieden in Verkoop toe verbindt. Klik **Volgende** wanneer gereed.
+1. Wijs de kolommen in uw CSV aan hun respectieve gebieden in Verkoop toe verbindt. Klikken **Volgende** wanneer gereed.
 
    ![](assets/five.png)

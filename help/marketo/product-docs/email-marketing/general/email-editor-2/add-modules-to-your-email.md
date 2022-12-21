@@ -2,14 +2,13 @@
 unique-page-id: 11371065
 description: Modules toevoegen aan uw e-mail - Marketo Docs - Productdocumentatie
 title: Modules toevoegen aan uw e-mail
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 0%
 
 ---
-
 
 # Modules toevoegen aan uw e-mail {#add-modules-to-your-email}
 
@@ -21,9 +20,9 @@ In E-maileditor 2.0 is een module een sectie van uw e-mailbericht die in de sjab
 
    >[!NOTE]
    >
-   >De meeste Malplaatjes van de Aanzet van de Marketo bevatten Modules. U kunt ook [uw eigen ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules) creëren.
+   >De meeste Marketo Starter-sjablonen bevatten modules. U kunt ook [uw eigen](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
-1. Helemaal rechts van de e-mail klikt u op **Modules**.
+1. Rechtsboven in de e-mail klikt u op **Modules**.
 
    ![](assets/two-3.png)
 
@@ -59,7 +58,7 @@ Er zijn twee manieren om een module te verplaatsen.
 
    ![](assets/nine-2.png)
 
-1. Klik op het tandwielpictogram en selecteer **Omhoog** of **Omlaag**, afhankelijk van waar u de module wilt laten gaan.
+1. Klik op het tandwielpictogram en selecteer **Omhoog** of **Omlaag**, afhankelijk van waar u de module wilt gaan.
 
    ![](assets/ten-2.png)
 

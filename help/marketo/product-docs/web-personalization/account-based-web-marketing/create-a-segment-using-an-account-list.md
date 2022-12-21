@@ -2,14 +2,13 @@
 unique-page-id: 4720236
 description: Een segment maken met een accountlijst - Marketo Docs - Productdocumentatie
 title: Een segment maken met een accountlijst
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
 
 ---
-
 
 # Een segment maken met een accountlijst {#create-a-segment-using-an-account-list}
 
@@ -23,11 +22,11 @@ Hier is hoe te om een segment tot stand te brengen gebruikend een Lijst van de R
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Klik **Nieuw maken**.
+1. Klikken **Nieuw maken**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Voer een naam in voor het segment. Sleep **Accountlijsten** vanuit de sectie **Firmographics**.
+1. Voer een naam in voor het segment. Slepen en neerzetten **Accountlijsten** van de **Firmographics** sectie.
 
    ![](assets/set-segment-hands.jpg)
 
@@ -39,8 +38,8 @@ Hier is hoe te om een segment tot stand te brengen gebruikend een Lijst van de R
    >
    >De Lijsten van de rekening worden gesynchroniseerd van ABM aan de Personalisatie van het Web voor gebruik in Segmentatie. Selecteer ze in de vervolgkeuzelijst. Het synchroniseren kan maximaal vijf minuten duren. Deze wordt alleen gesynchroniseerd als de accountlijst een of meer benoemde accounts bevat.
 
-1. Klik **Opslaan** of klik **Campagne opslaan en definiëren** om naar de pagina Campagnes te gaan.
+1. Klikken **Opslaan** of klik op **Campagne opslaan en definiëren** om naar de pagina Campagnes te gaan.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-Gefeliciteerd! U hebt nu een segment ingesteld dat zich richt op een accountlijst.
+Gefeliciteerd.  U hebt nu een segment ingesteld dat zich richt op een accountlijst.

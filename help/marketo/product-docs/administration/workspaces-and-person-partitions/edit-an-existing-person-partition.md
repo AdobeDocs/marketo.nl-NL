@@ -3,7 +3,6 @@ unique-page-id: 2360323
 description: Een bestaande personenpartitie bewerken - Marketo Docs - Productdocumentatie
 title: Een bestaande personenpartitie bewerken
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '131'
@@ -23,15 +22,15 @@ Een persoonsverdeling is als het hebben van een tweede (of derde) gegevensbestan
 >
 >[Een personenpartitie maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
-1. Klik onder **Admin** op **Werkruimten en partities**.
+1. Onder **Beheer**, klikt u op **Werkruimten en partities**.
 
    ![](assets/image2014-9-17-10-3a51-3a23.png)
 
-1. Selecteer onder het tabblad **Personpartities** de personenpartitie die u wilt bewerken en klik op **Personpartitie bewerken**.
+1. Onder de **Personpartities** tabblad selecteert u de personenpartitie die u wilt bewerken en klikt u op **Partitie persoon bewerken**.
 
    ![](assets/two-5.png)
 
-1. Voer de Person Partition **Name**, de **Workspaces** tot behoren, in en klik **Save**.
+1. De personenpartitie invoeren **Naam** de **Werkruimten** ze horen bij, en klik op **Opslaan**.
 
    ![](assets/three-5.png)
 

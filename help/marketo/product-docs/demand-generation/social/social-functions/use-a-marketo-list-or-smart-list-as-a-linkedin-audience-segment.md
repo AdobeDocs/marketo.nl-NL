@@ -1,25 +1,24 @@
 ---
 unique-page-id: 7504180
-description: Een lijst met markeertekens of een slimme lijst gebruiken als een LinkedIn Audience-segment - Marketo Docs - Productdocumentatie
-title: Een lijst met markeertekens of een slimme lijst gebruiken als een segment voor LinkedIn-publiek
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+description: Een Marketo-lijst of slimme lijst gebruiken als een LinkedIn Audience Segment - Marketo Docs - Productdocumentatie
+title: Een Marketo-lijst of slimme lijst gebruiken als een LinkedIn Audience Segment
+exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
 
 ---
 
-
-# Een lijst met markeertekens of een slimme lijst gebruiken als een LinkedIn Audience-segment {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
+# Een Marketo-lijst of slimme lijst gebruiken als een LinkedIn Audience Segment {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
 Integreer uw Marketo-mensen met uw LinkedIn-publiek.
 
 >[!PREREQUISITES]
 >
->[Voeg LinkedIn Gelijke Publiek als Dienst van LaunchPoint toe](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. Ga naar **Database**.
+1. Ga naar de **Database**.
 
    ![](assets/db.png)
 
@@ -27,35 +26,35 @@ Integreer uw Marketo-mensen met uw LinkedIn-publiek.
 
    ![](assets/two.png)
 
-1. Klik op het tabblad **Personen**.
+1. Klik op de knop **Mensen** tab.
 
    ![](assets/three-1.png)
 
-1. Klik op het pictogram **Verzenden via ad Bridge** ![—](assets/image2015-4-20-18-3a18-3a41.png) onder aan de lijst.
+1. Klik op de knop **Verzenden via Adobe Bridge** pictogram ![—](assets/image2015-4-20-18-3a18-3a41.png) onder aan de lijst.
 
    ![](assets/four-1.png)
 
    >[!NOTE]
    >
-   >Wanneer het gebruiken van de integratie van het advertentienetwerk om een publiek naar LinkedIn te verzenden, verzendt Marketo slechts het e-mailadres over.
+   >Als u via de integratie van het advertentienetwerk een publiek naar LinkedIn stuurt, stuurt Marketo alleen het e-mailadres over.
 
-1. Selecteer **LinkedIn** en klik **Volgende**.
+1. Selecteren **linkedIn** en klik op **Volgende**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. Selecteer een **LinkedIn Audience**.
+1. Selecteer een **linkedIn-publiek**.
 
    >[!NOTE]
    >
-   >Als u op **+New Audience** klikt, wordt een publiek gemaakt in LinkedIn Campaign Manager.
+   >Klikken **+Nieuwe doelgroep** maakt een publiek in LinkedIn Campaign Manager.
 
    ![](assets/6.png)
 
    >[!NOTE]
    >
-   >LinkedIn heeft de API&#39;s vervangen die in maart 2018 worden gebruikt voor het pushtype &quot;Clear publiek and add lead&quot;. Deze optie is niet meer beschikbaar vanaf de release Q1 2018 van Marketo.
+   >linkedIn heeft in maart 2018 de API&#39;s vervangen die worden gebruikt voor het pushtype &quot;Clear publiek and add lead&quot;. Deze optie is niet meer beschikbaar vanaf de Marketo-versie Q1 2018.
 
-1. Selecteer een **Push Type**. Klik **Update**.
+1. Selecteer een **Pushtype**. Klikken **Bijwerken**.
 
    ![](assets/7.png)
 
@@ -63,4 +62,4 @@ Integreer uw Marketo-mensen met uw LinkedIn-publiek.
    >
    >De synchronisatie kan 15 minuten duren.
 
-Hoogste vijf! Uw gegevens gaan nu samen met het publiek van LinkedIn. Voor informatie over het uploaden van lijsten aan LinkedIn voor Rekening en het richten van het Contact, bezoek [het Hulp centrum van de Oplossingen van de Marketing van LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).
+Hoogste vijf! Uw gegevens gaan nu samen met het publiek van LinkedIn. Ga voor informatie over het uploaden van lijsten naar LinkedIn voor account- en contactadres naar [linkedIn Marketing Solutions Help Center](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).

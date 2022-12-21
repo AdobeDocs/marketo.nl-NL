@@ -3,7 +3,6 @@ unique-page-id: 4720779
 description: Mappen begrijpen - Marketo Docs - Productdocumentatie
 title: Mappen begrijpen
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '277'
@@ -11,13 +10,13 @@ ht-degree: 0%
 
 ---
 
-# Mappen {#understanding-folders}
+# Mappen begrijpen {#understanding-folders}
 
-Mappen in een programma kunnen worden gebruikt om slimme campagnes en middelen te organiseren. Deze zijn verschillend van [campagnemappen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
+Mappen in een programma kunnen worden gebruikt om slimme campagnes en middelen te organiseren. Deze verschillen van [campagnemappen](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Een map maken {#create-a-folder}
 
-1. Ga naar **Marketing Activities** gebied.
+1. Ga naar de **Marketingactiviteiten** gebied.
 
    ![](assets/ma.png)
 
@@ -35,7 +34,7 @@ Geweldig! Nu hebt u een nieuwe map waarin u uw lokale elementen kunt opslaan.
 
 Het is oké om van gedachten te veranderen.
 
-1. Klik met de rechtermuisknop op de map en selecteer **Naam van map wijzigen**.
+1. Klik met de rechtermuisknop op de map en selecteer **Naam map wijzigen**.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
@@ -45,7 +44,7 @@ Het is oké om van gedachten te veranderen.
 
    Et Volia! De map heeft een nieuwe naam.
 
-## Een map {#delete-a-folder} verwijderen
+## Een map verwijderen {#delete-a-folder}
 
 >[!NOTE]
 >
@@ -57,7 +56,7 @@ Het is oké om van gedachten te veranderen.
 
    Adios-map!
 
-## Een map {#archive-a-folder} archiveren
+## Een map archiveren {#archive-a-folder}
 
 In Marketo kunt u bestaande mappen converteren naar Archiefmappen. De omslagen van het archief bestaan in de Activiteiten van de Marketing, Gegevensbestand, en Studio van het Ontwerp.
 
@@ -70,7 +69,7 @@ Wanneer u een map archiveert:
 * Gearchiveerde sjablonen zijn niet beschikbaar wanneer u een e-mail- of landingspagina maakt in Design Studio
 * Gearchiveerde pagina&#39;s kunnen niet worden gebruikt in testgroepen voor bestemmingspagina&#39;s
 
-Functionaliteit die **niet** zal veranderen tijdens archivering:
+Functionaliteit die **niet** wijzigen bij archiveren:
 
 * Globale zoekopdracht vindt nog steeds resultaten in gearchiveerde mappen
 * Een actief dat in gebruik is, blijft werken zelfs nadat het is gearchiveerd

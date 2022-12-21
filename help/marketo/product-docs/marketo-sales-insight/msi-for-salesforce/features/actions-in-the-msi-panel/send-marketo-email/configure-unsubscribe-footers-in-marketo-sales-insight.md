@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2953373
-description: Abonnement op voetteksten opzeggen in Marktverkoopinzicht - Marketo Docs - Productdocumentatie configureren
-title: Abonnement op voetteksten opzeggen in Marktverkoopoverzicht configureren
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+description: Abonnement op voetteksten opzeggen in Marketo Sales Insight - Marketo Docs - Productdocumentatie configureren
+title: Abonnement op voetteksten opzeggen in Marketo Sales Insight configureren
+exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
 
 ---
 
-
-# Abonnement op voetteksten opzeggen in marketingoverzicht {#configure-unsubscribe-footers-in-marketo-sales-insight} configureren
+# Abonnement op voetteksten opzeggen in Marketo Sales Insight configureren {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 E-mails over verkopen plaatsen automatisch de voettekst voor het afmelden van abonnementen onderaan. U kunt de instellingen echter aan uw wensen aanpassen.
 
@@ -23,13 +22,13 @@ E-mails over verkopen plaatsen automatisch de voettekst voor het afmelden van ab
 >
 >**Definitie**
 >
->**De e-** mails van de verkoop zijn die die van het Inzicht van de Verkoop worden verzonden (het omvat niet die verzonden van de Insteekmodule van Vooruitzichten van de Marketo).
+>**E-mails over verkopen** zijn die verzonden van het Inzicht van de Verkoop (het omvat niet die verzonden van de Insteekmodule van Marketo Outlook).
 
-1. Ga naar **Admin** gebied.
+1. Ga naar de **Beheer** gebied.
 
    ![](assets/one-1.png)
 
-1. Klik **Sales Insight**, dan **Edit Settings**.
+1. Klikken **Verkoopoverzicht** vervolgens **Instellingen bewerken**.
 
    ![](assets/two-1.png)
 
@@ -37,17 +36,17 @@ E-mails over verkopen plaatsen automatisch de voettekst voor het afmelden van ab
 
    ![](assets/three-1.png)
 
-   * **Geen sjabloon**  - Handmatig samengesteld door verkoopgebruiker.
-   * **Standaard-e-mail**  - E-mails op basis van een sjabloon.
-   * **Operationele e-mail**  - e-mails die Geabonneerde, Verpakte Verkoop, en Communicatie Limieten negeren (zij verzenden geen kwestie wat).
+   * **Geen sjabloon** - Handmatig samengesteld door verkoopgebruiker.
+   * **Standaard-e-mail** - E-mails op basis van een sjabloon.
+   * **Operationele e-mail** - E-mails die Geabonneerde, Op de markt gebrachte Opgeschorste, en Communicatie Limieten negeren (zij verzenden geen kwestie wat).
 
    U kunt voor elk type een ander gedrag instellen.
 
    >[!CAUTION]
    >
-   >**Abonnementsinstellingen** respecteren: niet-geabonneerde leads ontvangen de e-mail NIET, zelfs niet als de gepubliceerde e-mail &quot;operationeel&quot; is
+   >**Abonnementsinstellingen respecteren**: niet-geabonneerde leads ontvangen de e-mail NIET, zelfs niet als de gepubliceerde e-mail &quot;operationeel&quot; is
    >
-   >**Abonnementsinstellingen** negeren: niet-geabonneerde leads WILL ontvangen de e-mail
+   >**Abonnementsinstellingen negeren**: niet-geabonneerde leads WILL ontvangen de e-mail
 
 1. Breng de gewenste wijzigingen aan en klik op **Opslaan**.
 

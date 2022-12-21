@@ -1,7 +1,8 @@
 ---
 description: Toegang verlenen aan gebruikers - Marketo-documenten - Productdocumentatie
 title: Toegang verlenen aan gebruikers
-source-git-commit: 89d46ccadabec8c4dbc2db3cd9cde705c95b3978
+exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
+source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -12,13 +13,13 @@ ht-degree: 0%
 
 Voer de stappen in dit artikel uit om uw Sales Connect-gebruikers toegang te verlenen tot de Marketo-verbinding. Hierdoor worden functies zoals Interessant Moments in de live feed en toegang tot marketingcampagnes ontgrendeld.
 
-U dient gebruikers uit te nodigen voor Sales Connect [hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), voordat ze worden weergegeven op de pagina Marketo > Team Access (in Sales Connect), waar toegang wordt verleend tot de Marketo-verbinding.
+U moet gebruikers uitnodigen voor Sales Connect [hier](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), voordat deze zichtbaar zijn op de pagina Marketo > Team Access (in Sales Connect), waar toegang tot de Marketo-verbinding wordt verleend.
 
 >[!CAUTION]
 >
 >Wacht tien minuten nadat u Sales Connect met Marketo hebt verbonden voordat u deze stappen uitvoert.
 
-1. Selecteer een of meer gebruikers en klik op **Connect**.
+1. Selecteer een of meer gebruikers en klik op **Verbinden**.
 
    >[!NOTE]
    >

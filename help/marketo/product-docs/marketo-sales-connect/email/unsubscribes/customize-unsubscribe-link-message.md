@@ -1,17 +1,16 @@
 ---
 unique-page-id: 14746186
-description: Pas het Bericht van de Verbinding van Unsubscribe - Marketo DOS - de Documentatie van het Product aan
+description: Abonnementsbericht voor een koppeling aanpassen - Marketo Docs - Productdocumentatie
 title: Bericht voor opzeggen van koppeling aanpassen
-translation-type: tm+mt
-source-git-commit: 1dd80b7de801df78ac7dde39002455063f9979b7
+exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
-
-# Koppelingsbericht {#customize-unsubscribe-link-message} voor opzeggen aanpassen
+# Bericht voor opzeggen van koppeling aanpassen {#customize-unsubscribe-link-message}
 
 Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan te passen, maar nu kunnen beheerders het unsubscribe verbindingsoverseinen voor hun volledig team plaatsen om verenigbaar overseinen te verzekeren.
 
@@ -21,11 +20,11 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
 
 ## Overseinen aanpassen voor uzelf {#customize-messaging-for-yourself}
 
-1. Meld u aan bij de [webtoepassing](https://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
+1. Aanmelden bij de [webtoepassing](https://toutapp.com/login)klikt u op het tandwielpictogram rechtsboven en kiest u **Instellingen**.
 
    ![](assets/one.png)
 
-1. Selecteer **Abonnementen** onder Mijn account.
+1. Selecteer onder Mijn account de optie **Abonnementen opzeggen**.
 
    ![](assets/two-1.png)
 
@@ -41,24 +40,24 @@ Wij hebben teams altijd toegestaan om hun unsubscribe verbindingsoverseinen aan 
    >
    >Het maakt niet uit wat de URL is die aan hyperlinks wordt gekoppeld. Wanneer het e-mailbericht wordt verzonden, wordt die hyperlink geconverteerd naar onze afmeldingskoppeling.
 
-1. Klik **OK**.
+1. Klikken **OK**.
 
    ![](assets/five.png)
 
 ## Abonnementsberichten voor uw team instellen {#set-unsubscribe-messaging-for-your-team}
 
-1. Meld u aan bij de [webtoepassing](https://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
+1. Aanmelden bij de [webtoepassing](https://toutapp.com/login)klikt u op het tandwielpictogram rechtsboven en kiest u **Instellingen**.
 
    ![](assets/six.png)
 
-1. Selecteer **Abonnementen** onder Beheerinstellingen.
+1. Selecteer onder Beheerinstellingen de optie **Abonnementen opzeggen**.
 
    ![](assets/eight.png)
 
-1. Pas uw overseinen aan en klik **sparen** wanneer gedaan.
+1. Pas uw overseinen aan en klik **Opslaan** wanneer gereed.
 
    ![](assets/seven.png)
 
-1. Selecteer **Ik plaats het standaardoverseinen voor mijn team** om het overseinen op alle gebruikers van toepassing te hebben.
+1. Selecteren **Ik plaats het standaardoverseinen voor mijn team** om het overseinen op alle gebruikers van toepassing te hebben.
 
    ![](assets/eleven.png)

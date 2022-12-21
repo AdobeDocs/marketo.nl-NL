@@ -1,15 +1,14 @@
 ---
 unique-page-id: 14746470
-description: Een aangepast leveringskanaal instellen - Marketo Docs - Productdocumentatie
+description: Aangepast leveringskanaal instellen - Marketo-documenten - Productdocumentatie
 title: Een aangepast leveringskanaal instellen
-translation-type: tm+mt
-source-git-commit: f3e3efc1cc480e9c6501b7e808f53c3a8bdc93d8
+exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
 
 ---
-
 
 # Een aangepast leveringskanaal instellen {#setting-up-a-custom-delivery-channel}
 
@@ -19,14 +18,14 @@ De gebruikers kunnen opstelling een douaneSMTP server voor hun eigen individueel
 
 >[!NOTE]
 >
->* Naast het opzetten van uw SMTP-server, moet uw [e-mailidentiteit worden geverifieerd](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) voordat u e-mailberichten kunt verzenden.
+>* Naast het opzetten van uw server SMTP, uw [e-mailidentiteit moet worden geverifieerd](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) voordat je e-mails kunt verzenden.
 >* Wij adviseren werkend met uw team van IT of SMTP serververkoper om de juiste servergeloofsbrieven voor uw server te krijgen SMTP.
 >* U kunt niet uw server van Gmail en van de Uitwisseling verbinden gebruikend de SMTP servergeloofsbrieven. Gebruik onze E-mailverbindingsservice om deze providers te integreren.
 
 
 ## Aangepaste SMTP {#custom-smtp}
 
-1. Meld u aan bij de [webtoepassing](https://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
+1. Aanmelden bij de [webtoepassing](https://toutapp.com/login)klikt u op het tandwielpictogram rechtsboven en kiest u **Instellingen**.
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
@@ -34,11 +33,11 @@ De gebruikers kunnen opstelling een douaneSMTP server voor hun eigen individueel
 
    ![](assets/setting-up-a-custom-delivery-channel-2.png)
 
-1. Klik **Aangepast leveringskanaal**.
+1. Klikken **Aangepast leveringskanaal**.
 
    ![](assets/setting-up-a-custom-delivery-channel-3.png)
 
-1. Voer uw SMTP-serverreferenties in en klik op **Connect**.
+1. Ga uw geloofsbrieven van de Server SMTP in en klik **Verbinden**.
 
    ![](assets/setting-up-a-custom-delivery-channel-4.png)
 
@@ -46,19 +45,19 @@ De gebruikers kunnen opstelling een douaneSMTP server voor hun eigen individueel
    >
    >Als dit uw enige leveringskanaal is, wordt het automatisch toegewezen aan al uw e-mailidentiteiten, en u wordt hier gedaan. Als dit niet uw enige leveringskanaal is, gelieve te blijven aan Stap 5.
 
-1. Terwijl nog in E-mailmontages, klik **Adres en Handtekening**.
+1. Zorg dat u zich nog steeds in e-mailinstellingen bevindt en klik op **Adres en handtekening**.
 
    ![](assets/setting-up-a-custom-delivery-channel-5.png)
 
-1. Zoek de e-mailidentiteit waarvoor u een leveringskanaal wilt kiezen en klik **Kies Leveringskanaal**.
+1. Zoek de e-mailidentiteit waarvoor u een leveringskanaal wilt kiezen en klik op **Leveringskanaal kiezen**.
 
    ![](assets/setting-up-a-custom-delivery-channel-6.png)
 
-1. Klik in de afleveringskaart op **Bewerken**.
+1. Klik op de afleveringskaart op **Bewerken**.
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
-1. Klik op de vervolgkeuzelijst Kanaal en kies het aangepaste leveringskanaal dat u zojuist hebt toegevoegd. Klik **Opslaan**.
+1. Klik op de vervolgkeuzelijst Kanaal en kies het aangepaste leveringskanaal dat u zojuist hebt toegevoegd. Klikken **Opslaan**.
 
    ![](assets/setting-up-a-custom-delivery-channel-8.png)
 
@@ -72,7 +71,7 @@ De gebruikers kunnen opstelling een douaneSMTP server voor hun eigen individueel
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Meld u aan bij de [webtoepassing](https://toutapp.com/login), klik op het tandwielpictogram rechtsboven en kies **Instellingen**.
+1. Aanmelden bij de [webtoepassing](https://toutapp.com/login)klikt u op het tandwielpictogram rechtsboven en kiest u **Instellingen**.
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
@@ -80,11 +79,11 @@ De gebruikers kunnen opstelling een douaneSMTP server voor hun eigen individueel
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 
-1. Klik **Team Delivery Channel**.
+1. Klikken **Teamleveringskanaal**.
 
    ![](assets/setting-up-a-custom-delivery-channel-11.png)
 
-1. Voer uw SMTP-serverreferenties in en klik op **Connect**.
+1. Ga uw geloofsbrieven van de Server SMTP in en klik **Verbinden**.
 
    ![](assets/setting-up-a-custom-delivery-channel-12.png)
 
@@ -95,7 +94,6 @@ De gebruikers kunnen opstelling een douaneSMTP server voor hun eigen individueel
    >[!MORELIKETHIS]
    >
    >* [E-mailverbinding voor Gmail-gebruikers](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-      >
-      >
-   * [E-mailverbinding voor Outlook-gebruikers](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >
+   >* [E-mailverbinding voor Outlook-gebruikers](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
 

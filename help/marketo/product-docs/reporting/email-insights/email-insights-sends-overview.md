@@ -2,14 +2,13 @@
 unique-page-id: 10099413
 description: E-mailinzichten verzenden overzicht - Marketo-documenten - productdocumentatie
 title: E-mailinzichten verzenden overzicht
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
 
 ---
-
 
 # E-mailinzichten verzenden overzicht {#email-insights-sends-overview}
 
@@ -17,7 +16,7 @@ Controleer op de pagina Verzenden de kenmerken van recente e-mailcommunicatie.
 
 ![](assets/one.png)
 
-Gebruik [filteren](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) om op te geven welke e-mails u wilt zien.
+Gebruiken [filteren](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) om op te geven welke e-mails u wilt bekijken.
 
 ![](assets/filtering.png)
 
@@ -25,11 +24,11 @@ Rechts op de pagina vind je verschillende informatie over je verzonden e-mails.
 
 ![](assets/two-1.png)
 
-**Met** Typeaanduiding wordt het gebruikte element aangegeven.
-**Het** nummer van de ontvanger is het aantal personen dat de e-mail heeft ontvangen.
-**Met** de leveringsmetagegevens kunt u snel zien hoeveel e-mails zijn bezorgd, in behandeling zijn of zijn teruggestuurd.\
-**Met** de metrieke weergave van betrokkenheid kunt u snel zien hoeveel ontvangers een e-mail hebben geopend, erop hebben geklikt en het abonnement hebben opgezegd.
-**** Scores zijn de  [Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) van je e-mail.
+**Type** Hiermee wordt het soort gebruikt actief aangegeven.
+**Ontvanger** Het aantal is hoeveel personen het e-mailbericht hebben ontvangen.
+**Leveringscijfers** Hiermee kunt u snel zien hoeveel e-mails zijn bezorgd, in behandeling zijn of zijn teruggestuurd.\
+**Betrokkenheidscijfers** Hiermee kunt u snel zien hoeveel ontvangers een e-mailbericht hebben geopend, erop hebben geklikt en het abonnement hebben opgezegd.
+**Score** is het e-mailadres [Engagement Score](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 Uw e-mails worden standaard gesorteerd op de meest recente, maar u kunt ze sorteren op elke beschikbare metrische waarde.
 

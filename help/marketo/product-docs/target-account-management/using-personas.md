@@ -1,31 +1,30 @@
 ---
 unique-page-id: 17727818
-description: Het gebruiken van Persona's - Marketo Docs - de Documentatie van het Product
+description: Persoonlijke gegevens gebruiken - Marketo Docs - Productdocumentatie
 title: Persoonlijke gegevens gebruiken
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
-
 # Persoonlijke gegevens gebruiken {#using-personas}
 
 Persona&#39;s zijn een geweldige manier om uw ABM-publiek en -markt te segmenteren tot een bepaalde groep mensen.
 
-## Een persoon {#add-a-persona} toevoegen
+## Een persoon toevoegen {#add-a-persona}
 
-1. In Mijn Marketo, klik **Admin**.
+1. Klik in Mijn Marketo op **Beheer**.
 
    ![](assets/one.png)
 
-1. Selecteer **Doelaccountbeheer** in de structuur.
+1. Selecteer in de boomstructuur de optie **Doelaccountbeheer**.
 
    ![](assets/using-personas-2.png)
 
-1. Klik **Bewerken**.
+1. Klikken **Bewerken**.
 
    ![](assets/three.png)
 
@@ -33,19 +32,19 @@ Persona&#39;s zijn een geweldige manier om uw ABM-publiek en -markt te segmenter
    >
    >De persoon van de Titel van de Baan is inbegrepen door gebrek. Kan niet worden gewijzigd of verwijderd.
 
-1. Als u aanvullende personen wilt toevoegen, klikt u op **+Add**.
+1. Als u aanvullende personen wilt toevoegen, klikt u op **+Toevoegen**.
 
    ![](assets/four.png)
 
-1. Geef uw persoon een naam en selecteer het desbetreffende veld in de vervolgkeuzelijst. U kunt maximaal twee extra persona&#39;s toevoegen. Klik **Opslaan** wanneer gereed.
+1. Geef uw persoon een naam en selecteer het desbetreffende veld in de vervolgkeuzelijst. U kunt maximaal twee extra persona&#39;s toevoegen. Klikken **Opslaan** wanneer gereed.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Alleen aangepaste Salesforce-velden van het type &quot;picklist&quot; die zijn gesynchroniseerd met uw Marketo-instantie, zijn beschikbaar in de vervolgkeuzelijst met persoonlijke velden wanneer u een persona maakt.
+   >Alleen aangepaste Salesforce-velden van het type &quot;picklist&quot; die zijn gesynchroniseerd naar uw Marketo-instantie, zijn beschikbaar in de vervolgkeuzelijst voor persoonlijke velden wanneer u een persona maakt.
 
-## Uw persoonlijke gegevens weergeven {#view-your-personas}
+## Je persoonlijke gegevens weergeven {#view-your-personas}
 
 Bekijk uw persoonlijke gegevens door een specifiek Benoemd account te bezoeken.
 
@@ -53,7 +52,7 @@ Bekijk uw persoonlijke gegevens door een specifiek Benoemd account te bezoeken.
 
    ![](assets/one-a.png)
 
-1. Klik op het tabblad **Persoonlijk**.
+1. Klik op de knop **Personas** tab.
 
    ![](assets/two-a.png)
 
@@ -65,7 +64,7 @@ Bekijk uw persoonlijke gegevens door een specifiek Benoemd account te bezoeken.
    >
    >De X in de Title Persona fungeert als een jokerteken. &#39;CXO&#39; omvat bijvoorbeeld CEO&#39;s, CFO&#39;s, enzovoort.
 
-## Persona-filters {#persona-filters}
+## Persona Filters {#persona-filters}
 
 1. Gebruik persona-filters in een slimme lijst om op de markt te brengen voor een specifieke groep personen.
 

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 4718685
-description: Het samenvoegen van twee Stages in de Modelleur van de Inkomsten - Marketo Docs - de Documentatie van het Product
+description: Twee fasen samenvoegen in de Revenue Modeler - Marketo Docs - Productdocumentatie
 title: Twee fasen samenvoegen in de inkomstenmodellen
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-
 # Twee fasen samenvoegen in de inkomstenmodellen {#merging-two-stages-in-the-revenue-modeler}
 
 Nadat u het model hebt goedgekeurd, kunt u geen stadia schrappen wanneer het uitgeven van een ontwerp. In plaats daarvan kunt u dat werkgebied samenvoegen met een ander werkgebied.
 
-1. Klik **Marketo Home** en selecteer **Analytics**.
+1. Klikken **Marketo Home** en selecteert u **Analyse**.
 
    ![](assets/image2015-4-29-14-3a59-3a9.png)
 
@@ -23,7 +22,7 @@ Nadat u het model hebt goedgekeurd, kunt u geen stadia schrappen wanneer het uit
 
    ![](assets/image2015-4-29-15-3a3-3a15.png)
 
-1. Klik **Concept bewerken.**
+1. Klikken **Concept bewerken.**
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
@@ -35,10 +34,10 @@ Nadat u het model hebt goedgekeurd, kunt u geen stadia schrappen wanneer het uit
 
    ![](assets/image2015-4-29-15-3a52-3a5.png)
 
-1. U kunt het model opnieuw goedkeuren door **ModelOntwerp** in **ModelActies** te selecteren menu.
+1. U kunt het model opnieuw goedkeuren door **Ontwerp goedkeuren** in de **Modelhandelingen** -menu.
 
    ![](assets/image2015-4-29-16-3a5-3a53.png)
 
 >[!NOTE]
 >
->Kies **Geen** in het werkgebied Samenvoegen om de leads uit uw model te verwijderen
+>Selecteren **Geen** in het werkgebied Samenvoegen om de leads uit uw model te verwijderen

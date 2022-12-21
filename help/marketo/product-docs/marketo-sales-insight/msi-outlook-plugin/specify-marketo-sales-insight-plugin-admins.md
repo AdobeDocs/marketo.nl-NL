@@ -1,29 +1,28 @@
 ---
 unique-page-id: 11377552
-description: Admins van de Inzicht van de Inzicht van de Verkoop van de Marketo - Marketo Docs - de Documentatie van het Product specificeren
-title: Admins van de insteekmodule Marketo Sales Insight opgeven
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Marketo Sales Insight Plugin Admins - Marketo Docs - Productdocumentatie opgeven
+title: Admins voor Marketo Sales Insight-plug-ins opgeven
+exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-
-# Admins van de insteekmodule Marketo Sales Insight {#specify-marketo-sales-insight-plugin-admins} opgeven
+# Admins voor Marketo Sales Insight-plug-ins opgeven {#specify-marketo-sales-insight-plugin-admins}
 
 U kunt specificeren welke contacten u in het e-mailbericht wilt verschijnen u aan gebruikers verzendt wanneer u hen aan opstelling MSI in Vooruitzichten uitnodigt.
 
-1. In Mijn Marketo, klik **Admin** en toen **Inzicht van de Verkoop**.
+1. Klik in Mijn Marketo op **Beheer** en vervolgens **Verkoopoverzicht**.
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Klik op het tabblad **Invoegtoepassing e-mailen**.
+1. Klik op de knop **E-mailinvoegtoepassing** tab.
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. Klik **Contactpersoon insteekmodule opgeven**.
+1. Klikken **Contactpersoon insteekmodule opgeven**.
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +30,7 @@ U kunt specificeren welke contacten u in het e-mailbericht wilt verschijnen u aa
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 

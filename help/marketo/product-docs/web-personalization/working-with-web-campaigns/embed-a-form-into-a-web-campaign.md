@@ -2,20 +2,19 @@
 unique-page-id: 10095554
 description: Een formulier insluiten in een webcampagne - Marketo Docs - Productdocumentatie
 title: Een formulier insluiten in een webcampagne
-translation-type: tm+mt
-source-git-commit: b33f5ed707a1377daad51191cc6dd9f093138258
+exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 0%
 
 ---
 
-
 # Een formulier insluiten in een webcampagne {#embed-a-form-into-a-web-campaign}
 
 Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenster, In Zone of Widget).
 
-1. Klik met de rechtermuisknop op een goedgekeurd formulier. Selecteer **Code insluiten**.
+1. Klik met de rechtermuisknop op een goedgekeurd formulier. Selecteren **Code insluiten**.
 
    ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -23,11 +22,11 @@ Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenste
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. Ga in de Personalisering van het Web, naar **Campagnes van het Web**.
+1. Ga in Persoonlijke webweergave naar **Webcampagnes**.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. Klik **Nieuwe campagne maken**.
+1. Klikken **Nieuwe campagne maken**.
 
    ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -35,17 +34,17 @@ Zie hoe u een Marketo-formulier kunt insluiten in een webcampagne (Dialoogvenste
 
    ![](assets/five-1.png)
 
-1. Plak de insluitcode van het formulier in de HTML-broneditor. Klik **Update**.
+1. Plak de insluitcode van het formulier in de HTML Source Editor. Klikken **Bijwerken**.
 
    ![](assets/six-1.png)
 
 1. Het formulier wordt niet weergegeven in de editorweergave, maar u kunt het voorbeeld bekijken om te zien hoe het in een campagne wordt weergegeven.
 
-1. Klik **Launch** om de campagne te starten.
+1. Klikken **Starten** om de campagne te starten.
 
    >[!NOTE]
    >
-   >Wijzigingen in de velden van het formulier moeten worden aangebracht in de marketingactiviteiten van Marketo in Concept van het formulier bewerken.
+   >Wijzigingen in de velden van het formulier moeten worden aangebracht in de marketingactiviteiten van Marketo in het concept van het formulier bewerken.
 
 ## Drie manieren om een achtergrondafbeelding aan een formulier toe te voegen {#three-ways-to-add-a-background-image-to-a-form}
 
@@ -55,11 +54,11 @@ Als u een achtergrondafbeelding aan het formulier wilt toevoegen, kunt u:
 * Dialoogvenster- of widgetkleuren wijzigen in Campagne instellen
 * CSS-code toevoegen aan het script
 
-Zie [dit artikel](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md) als u de CSS van een formulierthema wilt bewerken.
+Als u de CSS van een formulierthema wilt bewerken, raadpleegt u [dit artikel](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 U wijzigt als volgt de kleur van het dialoogvenster of de widget in de campagne Set:
 
-1. Selecteer in de Rich Text Editor een type dialoogvenster en een dialoogstijl, koptekstkleur en achtergrondkleur om de achtergrondkleuren van het formulier aan te passen. Klik **Opslaan**.
+1. Selecteer in de Rich Text Editor een type dialoogvenster en een dialoogstijl, koptekstkleur en achtergrondkleur om de achtergrondkleuren van het formulier aan te passen. Klikken **Opslaan**.
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -73,11 +72,11 @@ CSS-code toevoegen aan het script:
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. Plak de insluitcode van het formulier met de achtergrondstijlcode in de HTML-broneditor. Klik **Update**.
+1. Plak de insluitcode van het formulier met de achtergrondstijlcode in de HTML Source Editor. Klikken **Bijwerken**.
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Klik **Voorvertoning** om te zien hoe het in een campagne wordt weergegeven (het formulier wordt niet weergegeven in de editorweergave). Hier volgt een voorbeeld van hoe de bovenstaande formuliercode wordt weergegeven in een campagne met een achtergrondafbeelding.
+1. Klikken **Voorvertoning** om te zien hoe het in een campagne wordt weergegeven (het formulier wordt niet weergegeven in de editorweergave). Hier volgt een voorbeeld van hoe de bovenstaande formuliercode wordt weergegeven in een campagne met een achtergrondafbeelding.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 

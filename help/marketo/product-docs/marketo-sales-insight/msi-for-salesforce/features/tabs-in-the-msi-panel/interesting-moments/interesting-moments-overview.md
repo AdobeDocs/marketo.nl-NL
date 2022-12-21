@@ -3,7 +3,6 @@ unique-page-id: 2949720
 description: Interessant momentoverzicht - Marketo-documenten - productdocumentatie
 title: Interessant momentoverzicht
 exl-id: 6611fb4b-fbc7-42ad-b26e-543a79798ff1
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '95'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Overzicht van interessante momenten {#interesting-moments-overview}
+# Interessant momentoverzicht {#interesting-moments-overview}
 
 U kunt de interessante stap van de momentstroom gebruiken om uw verkoopteam zicht in de coole dingen te geven uw leiders in een Slimme Campagne doen.
 

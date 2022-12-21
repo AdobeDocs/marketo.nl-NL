@@ -2,14 +2,13 @@
 unique-page-id: 2950545
 description: Uw privacybeleid toevoegen aan een sociale app - Marketo Docs - Productdocumentatie
 title: Uw privacybeleid toevoegen aan een sociale app
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: 21c7a136-eafd-4851-a4dd-0e10bb5dacde
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
-
 
 # Uw privacybeleid toevoegen aan een sociale app {#add-your-privacy-policy-to-a-social-app}
 
@@ -19,11 +18,11 @@ Wanneer u een sociale app maakt, kunt u een koppeling toevoegen aan het privacyb
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Selecteer de app en klik op **Concept** bewerken.
+1. Selecteer de app en klik op **Concept bewerken**.
 
    ![](assets/image2014-9-22-10-3a50-3a22.png)
 
-1. Ga in de sociale app-editor naar **App Settings** > **Advanced Options**.
+1. Ga in de sociale-app-editor naar **App-instellingen** > **Geavanceerde opties**.
 
    ![](assets/image2014-9-22-10-3a50-3a38.png)
 
@@ -33,10 +32,10 @@ Wanneer u een sociale app maakt, kunt u een koppeling toevoegen aan het privacyb
 
    >[!NOTE]
    >
-   >Op dit scherm kunt u ook een koppeling toevoegen naar de regels (voorwaarden) van uw aanbieding. Zie [Een verwijzingsaanbod maken](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
+   >Op dit scherm kunt u ook een koppeling toevoegen naar de regels (voorwaarden) van uw aanbieding. Zie [Verwijzingsvoorstel maken](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md).
 
 1. De verbinding van het privacybeleid (en de regelsverbinding) zal in de bodem van de schermen van het aandeelbericht verschijnen. Bijvoorbeeld:
 
    ![](assets/image2014-9-22-10-3a52-3a16.png)
 
-Vervolgens kunt u [de sociale aanmelding configureren en de workflow delen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) van uw app.
+Vervolgens kunt u [de sociale aanmelding en deelstroom configureren](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md) van uw app.

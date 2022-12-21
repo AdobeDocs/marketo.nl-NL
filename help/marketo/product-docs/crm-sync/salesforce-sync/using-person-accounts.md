@@ -5,7 +5,7 @@ title: Persoonlijke accounts gebruiken
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 source-git-commit: 7376804bda915d7ff25cdc50cb78a6686bd36882
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -32,15 +32,15 @@ Een persoonaccount wordt als bedrijf en als persoon gesynchroniseerd met Marketo
 
 ## Hoe maak ik onderscheid tussen zakelijke accounts en persoonlijke accounts? {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-Gebruik het filter **Is Personaccount** in uw slimme lijst om persoonaccounts te scheiden van standaardbedrijfsaccounts.
+Gebruik de **Is een persoonlijke account** filter in uw slimme lijst om persoonaccounts te scheiden van standaardzakelijke accounts.
 
 ## Waar wordt de informatie van mijn persoonlijke accounts weergegeven in Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-De activiteiten met betrekking tot persoonrekeningen worden getoond in **Account** paneel.
+De activiteiten met betrekking tot persoonrekeningen worden weergegeven in de **Account** deelvenster.
 
 >[!NOTE]
 >
->De opties **Add to Marketo Campaign** en **Send Email** zijn momenteel niet beschikbaar voor persoonlijke accounts.
+>Marketo Sales Insight **Toevoegen aan Marketo-campagne** en **E-mail verzenden** er zijn momenteel geen opties beschikbaar voor persoonlijke accounts.
 
 ## Hoe associeer ik kansen aan een persoonrekening? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -48,4 +48,4 @@ Marketo is afhankelijk van de rol van het opportuniteitcontact om te bepalen aan
 
 ## Welk e-mailveld moet ik gebruiken voor persoonaccounts? {#which-email-field-should-i-use-for-person-accounts}
 
-Er zijn twee e-mailvelden voor een persoonaccount. Gebruik het veld **E-mailadres** in uw formulieren (niet het veld **E-mailadres voor personen**) om ervoor te zorgen dat Marketo-deduplicatie en andere e-mailverwerking correct werken.
+Er zijn twee e-mailvelden voor een persoonaccount. Gebruik de **E-mailadres** in uw formulieren (niet de **E-mailadres persoon**) om ervoor te zorgen dat Marketo-deduplicatie en andere e-mailverwerking correct werken.

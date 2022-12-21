@@ -2,14 +2,13 @@
 unique-page-id: 2359557
 description: Champion/Challenger - Onderwerpregel - Marketo Docs - Productdocumentatie
 title: Champion/Challenger — Onderwerpregel
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
 
 ---
-
 
 # Champion/Challenger: Onderwerpregel {#champion-challenger-subject-line}
 
@@ -19,13 +18,13 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
 >
 >[Een e-mailkampioen/challenger toevoegen](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Selecteer **Onderwerpregel** in de vervolgkeuzelijst **Type testen** in de e-mailtesteditor.
+1. Selecteer in de testeditor voor e-mail de optie **Onderwerpregel** in de **Testtype** vervolgkeuzelijst.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >In een onderwerptest wordt de eerste ingevoerde onderwerpregel aangeduid als **Champion**. Volgende onderwerpregel wordt **Challengers** genoemd.
+   >In een onderwerptest wordt de eerste onderwerpregel die wordt ingevoerd, aangewezen als de **Champion**. Volgende onderwerpregel wordt **Challengers**.
 
 1. Voer onderwerpregel(s) in voor de **Challengers**.
 
@@ -47,7 +46,7 @@ U kunt eenvoudig meerdere onderwerpregel&#39;s testen. Als de test voorbij is, s
 
    Om statistisch vertrouwen te winnen, zorg ervoor het percentage u kiest genoeg mensen omvat, zodat uw test geldig is. Wees niet misleid door onovertuigende resultaten. [Meer informatie dan je ooit wilde over statistisch vertrouwen](https://en.wikipedia.org/wiki/Confidence_interval).
 
-1. Klik **Volgende**.
+1. Klikken **Volgende**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

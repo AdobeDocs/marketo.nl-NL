@@ -1,17 +1,16 @@
 ---
 unique-page-id: 2951884
-description: De Analyse van de Kans in de Ontdekkingsreiziger van de Inkomsten - Marketo DOS - de Documentatie van het Product
+description: De Analyse van de Kans in de Ontdekkingsreiziger van de Inkomsten - de Documentatie van Marketo - de Documentatie van het Product
 title: De Analyse van de Kans van het begrip in de Ontdekkingsreiziger van de Inkomsten
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-
-# De Analyse van de Kans van het begrip in Ontdekkingsreiziger {#understanding-opportunity-analysis-in-revenue-explorer}
+# De Analyse van de Kans van het begrip in de Ontdekkingsreiziger van de Inkomsten {#understanding-opportunity-analysis-in-revenue-explorer}
 
 De Analyse van de kans in de Ontdekkingsreiziger van de Inkomsten staat u toe om uw kansen op een dieper niveau te onderzoeken. De gegevens segmenteren en scheiden op basis van alle kenmerken van leads/bedrijven, zoals de bron van leads, de industrie of de geografie. Analyseer opportuniteitsaanmaak en sluit deze op basis van naam, werkgebied of waarschijnlijkheid. Ontdek de marketingbijdragen aan de pijpleiding.
 
@@ -63,10 +62,10 @@ De Analyse van de kansen geeft u toegang tot alle lood, bedrijf en opportuniteit
 
    | Dimension | Beschrijving |
    |---|---|
-   | Jaarlijkse inkomsten | Jaarlijkse inkomsten van de onderneming |
-   | Plaats | De stad waar de onderneming gevestigd is |
+   | Jaaromzet | Jaarlijkse inkomsten van de onderneming |
+   | Stad | De stad waar de onderneming gevestigd is |
    | Land | Het land waar de onderneming gevestigd is |
-   | Industrie | De bedrijfstak waarin het bedrijf zich bevindt |
+   | Marktsegment | De bedrijfstak waarin het bedrijf zich bevindt |
    | Bedrijfsnaam | Naam van de onderneming |
    | Aantal werknemers | Aantal werknemers in het Bedrijf |
    | Postcode | Postcode van de onderneming |
@@ -82,15 +81,15 @@ De Analyse van de kansen geeft u toegang tot alle lood, bedrijf en opportuniteit
    | E-mail ongeldig | Of de lead een geldig e-mailadres heeft |
    | Marketing opgeschort | Is de lead geschorst voor het in de handel brengen van e-mails |
    | E-mailadres | E-mailadres van lead |
-   | Functie | Functie van leider |
+   | Beroep | Functie van leider |
    | Volledige naam | Volledige naam van lead |
    | Oorspronkelijk brontype | Origineel brontype van lead |
    | Brontype registreren | Geregistreerde brontype van lead |
    | E-mailadres van eigenaar van lead | E-mailadres van eigenaar van lead |
    | Functie van eigenaar van lead | Functie van eigenaar van lead |
    | Naam eigenaar lead | Naam van eigenaar van lead |
-   | Bron lood | Loodbron |
-   | Status lead | Status van lead |
+   | Leadbron | Loodbron |
+   | Leadstatus | Status van lead |
 
 1. Tijdskader voor lead gemaakt
 

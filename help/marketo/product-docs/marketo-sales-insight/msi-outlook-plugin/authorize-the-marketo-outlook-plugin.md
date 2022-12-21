@@ -1,29 +1,28 @@
 ---
 unique-page-id: 11377640
-description: Autoriseer de Insteekmodule Marketo Outlook - Marketo Docs - Productdocumentatie
-title: De insteekmodule Marketo Outlook autoriseren
-translation-type: tm+mt
-source-git-commit: 972cf9769ac751d9abfd5665975703dcd07930f0
+description: Marketo Outlook-insteekmodule autoriseren - Marketo Docs - Productdocumentatie
+title: De Marketo Outlook-insteekmodule autoriseren
+exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
+# De Marketo Outlook-insteekmodule autoriseren {#authorize-the-marketo-outlook-plugin}
 
-# De insteekmodule Marketo Outlook {#authorize-the-marketo-outlook-plugin} autoriseren
-
-Om de stop van Marketo MSI in Vooruitzichten te gebruiken, moet u het machtigen.
+Als u de Marketo MSI-plug-in in Outlook wilt gebruiken, moet u deze autoriseren.
 
 >[!PREREQUISITES]
 >
->De insteekmodule moet al zijn geïnstalleerd en u moet door uw Marketo-beheerder zijn geautoriseerd als gebruiker van een insteekmodule.
+>De insteekmodule moet al zijn geïnstalleerd en u moet door uw Marketo Admin zijn geautoriseerd als gebruiker van een insteekmodule.
 
-1. Klik op een van de knoppen voor Marketo-bericht.
+1. Klik op een van de knoppen voor Marketo-berichten.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Wanneer het dialoogvenster Markeringsinsteekmodule autoriseren wordt weergegeven, klikt u op **Code aanvragen**.
+1. Klik in het dialoogvenster Marketo-insteekmodule autoriseren op **Aanvraagcode**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
@@ -31,7 +30,7 @@ Om de stop van Marketo MSI in Vooruitzichten te gebruiken, moet u het machtigen.
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. Als het e-mailadres van uw standaard Outlook-account wordt uitgecheckt, ontvangt u een registratiesleutel. Voer het bestand in het pop-upmenu in en klik op **Verzenden**.
+1. Als het e-mailadres van uw standaard Outlook-account wordt uitgecheckt, ontvangt u een registratiesleutel. Voer deze in het pop-upmenu in en klik op **Verzenden**.
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 

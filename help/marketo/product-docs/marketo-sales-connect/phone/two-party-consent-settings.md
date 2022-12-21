@@ -1,15 +1,14 @@
 ---
 unique-page-id: 45416566
-description: Instellingen voor tweeledige toestemming - Marketo Docs - Productdocumentatie
+description: Instellingen voor tweeledige toestemming - Marketo-documenten - productdocumentatie
 title: Instellingen voor tweeledige toestemming
-translation-type: tm+mt
-source-git-commit: 6ae882dddda220f7067babbe5a057eec82601abf
+exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # Instellingen voor tweeledige toestemming {#two-party-consent-settings}
 
@@ -17,7 +16,7 @@ Om naleving van de de toestemmingswetten van twee partijen van de V.S. te verzek
 
 >[!PREREQUISITES]
 >
->Voordat u de onderstaande stappen uitvoert, moet u eerst [call opnemen](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md) inschakelen.
+>Voordat u de onderstaande stappen uitvoert, moet u eerst [call opnemen inschakelen](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
 1. Klik op het pictogram Instellingen en selecteer **Instellingen**.
 
@@ -27,11 +26,11 @@ Om naleving van de de toestemmingswetten van twee partijen van de V.S. te verzek
 
    ![](assets/two-1.png)
 
-1. Blader omlaag naar Instellingen Telefoon van Sales Connect en klik op **Opname beheren**.
+1. Schuif omlaag naar Instellingen van telefoon met verkoopverbinding en klik op **Opnamebericht beheren**.
 
    ![](assets/three-1.png)
 
-1. Klik **Opname importeren**.
+1. Klikken **Opname importeren**.
 
    ![](assets/four-1.png)
 
@@ -43,7 +42,7 @@ Om naleving van de de toestemmingswetten van twee partijen van de V.S. te verzek
 
    ![](assets/five.png)
 
-1. Nadat het uploaden is voltooid, selecteert u de gegevens (drie punten) in het bestandsbeheer en klikt u op **Selecteren als kennisgeving van instemming**. Klik **OK** wanneer gereed.
+1. Als het uploaden is voltooid, selecteert u de gegevens (drie punten) in het bestandsbeheer en klikt u op **Selecteren als kennisgeving van toestemming**. Klikken **OK** wanneer gereed.
 
    ![](assets/six.png)
 

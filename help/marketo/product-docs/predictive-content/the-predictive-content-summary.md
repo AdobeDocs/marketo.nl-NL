@@ -2,16 +2,15 @@
 unique-page-id: 11384634
 description: Predictive Content Summary - Marketo Docs - Productdocumentatie
 title: Het overzicht met voorspellende inhoud
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
-
-# De samenvatting van de voorspellende inhoud {#the-predictive-content-summary}
+# Het overzicht met voorspellende inhoud {#the-predictive-content-summary}
 
 In het overzicht met voorspellende inhoud wordt in één oogopslag de informatie weergegeven die u nodig hebt over uw voorspellende inhoud, met tabellen, grafieken en huidige getallen.
 
@@ -33,13 +32,13 @@ Bekijk de conversiesnelheid door de totale kliks en directe leads te vergelijken
 
 ![](assets/predictive-engagement-actual.png)
 
-## Content Trend by Views {#content-trend-by-views}
+## Content Trend by Views  {#content-trend-by-views}
 
 Vergelijk hoe uw meningen van al inhoud met uw vooruitlopende inhoud aanpassen.
 
 ![](assets/4.png)
 
-## Bovenste categorieën op betrokkenheid {#top-categories-by-engagement}
+## Toprubrieken op betrokkenheid {#top-categories-by-engagement}
 
 Welke inhoudscategorieën zijn het meest aantrekkelijk? Zie het in deze grafiek.
 

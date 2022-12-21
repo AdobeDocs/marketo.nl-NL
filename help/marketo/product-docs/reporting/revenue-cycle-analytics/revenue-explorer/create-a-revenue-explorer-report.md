@@ -1,17 +1,16 @@
 ---
 unique-page-id: 7504047
-description: Creeer een Rapport van de Ontdekkingsreiziger van de Inkomsten - MarketoDocs - de Documentatie van het Product
+description: Een rapport van Revenue Explorer maken - Marketo Docs - Productdocumentatie
 title: Een rapport van de inkomstenverkenner maken
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
-
-# Een opbrengstverkennerrapport maken {#create-a-revenue-explorer-report}
+# Een rapport van de inkomstenverkenner maken {#create-a-revenue-explorer-report}
 
 Het rapport van de Ontdekkingsreiziger van de Ontvangsten staat u toe om ROI op uw marketing initiatieven te volgen.
 
@@ -19,11 +18,11 @@ Het rapport van de Ontdekkingsreiziger van de Ontvangsten staat u toe om ROI op 
 >
 >Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
-1. Ga naar **Indelingsverkenner** gebied.
+1. Ga naar de **Ontdekkingsreiziger voor inkomsten** gebied.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Klik op **Nieuw** en selecteer **Rapport**.
+1. Klikken op **Nieuw maken** en selecteer vervolgens **Rapport**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
@@ -38,4 +37,4 @@ Het rapport van de Ontdekkingsreiziger van de Ontvangsten staat u toe om ROI op 
 >[!MORELIKETHIS]
 >
 >[Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->[Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>[Aangepaste maatregelen toevoegen aan een rapport van de Ontdekkingsreiziger van de Inkomsten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

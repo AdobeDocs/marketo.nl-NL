@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359532
-description: Dynamische inhoud gebruiken in een bestemmingspagina - Marketo Docs - Productdocumentatie
+description: Dynamische inhoud gebruiken op een bestemmingspagina - Marketo Docs - Productdocumentatie
 title: Dynamische inhoud gebruiken in een bestemmingspagina
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
 
 ---
-
 
 # Dynamische inhoud gebruiken in een bestemmingspagina {#use-dynamic-content-in-a-landing-page}
 
@@ -22,7 +21,7 @@ ht-degree: 0%
 
 Door dynamische inhoud te gebruiken op bestemmingspagina&#39;s, worden mensen met gerichte informatie ingeschakeld.
 
-## Segmentatie {#add-segmentation} toevoegen
+## Segmentering toevoegen {#add-segmentation}
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -50,17 +49,17 @@ Door dynamische inhoud te gebruiken op bestemmingspagina&#39;s, worden mensen me
 
 ## Element dynamisch maken {#make-element-dynamic}
 
-1. Sleep elementen van Statisch naar **Dynamisch**.
+1. Elementen slepen en neerzetten van Statisch naar **Dynamisch**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. U kunt ook elementen statisch of dynamisch maken vanuit het element **Settings**.
+1. U kunt ook elementen statisch of dynamisch maken vanuit het element **Instellingen**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## Dynamische inhoud toepassen {#apply-dynamic-content}
 
-1. Selecteer een element onder een segment en klik vervolgens op **Bewerken**. Herhaal dit voor elk segment.
+1. Selecteer een element onder een segment en klik op **Bewerken**. Herhaal dit voor elk segment.
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 

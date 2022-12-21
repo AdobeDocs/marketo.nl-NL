@@ -2,14 +2,13 @@
 unique-page-id: 7514146
 description: Attributievoorbeeld 2 - Marketo Docs - Productdocumentatie
 title: Attributievoorbeeld 2
-translation-type: tm+mt
-source-git-commit: fa4ab03b98ac922e10c6daf3647dc460c12244d3
+exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
-
 
 # Attributievoorbeeld 2 {#attribution-example}
 
@@ -19,7 +18,7 @@ Lees het volgende scenario en probeer de aantallen te bepalen die in het net zou
 * 15 april | Joan is overgenomen door (Webinar)
 * 22 april | (Opportunity 1) gemaakt voor $6.000
 * 24 april | (Opportunity 2) gemaakt voor $10.000
-* 25 april | Bill en Joan zijn geassocieerd met rollen aan **BEIDE** Optys
+* 25 april | Bill en Joan zijn gekoppeld aan rollen voor **BEIDE** Optys
 * 29 april | (Opportunity 1) is &#39;Closed Won&#39;
 
 | Programmanaam | (Handelsversie) | (Webinar) |
@@ -35,7 +34,7 @@ Lees het volgende scenario en probeer de aantallen te bepalen die in het net zou
 >
 >**Toelichting**
 >
->Omdat Bill en Joan aan rollen aan **BOTH** kansen werden geassocieerd, verdeelt het systeem (volgens de regels) de krediet gelijkmatig tussen hen.
+>Omdat Bill en Joan aan elkaar gekoppeld waren **BEIDE** de mogelijkheden , het systeem ( volgens de regels ) verdeelt het krediet gelijkmatig tussen de mogelijkheden .
 >
 >De pijpleiding die voor elk programma ($8.000) wordt gecreeerd is de helft van het totaal ($16.000) beschikbaar om als krediet te geven.
 

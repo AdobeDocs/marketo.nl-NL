@@ -2,14 +2,13 @@
 unique-page-id: 10092730
 description: Een voorbeeld van een pushmelding bekijken - Marketo Docs - Productdocumentatie
 title: Een voorbeeld van een pushmelding bekijken
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 0%
 
 ---
-
 
 # Een voorbeeld van een pushmelding bekijken {#preview-a-push-notification}
 
@@ -23,11 +22,11 @@ Klik in de navigatiestructuur met de rechtermuisknop op het bestand voor de meld
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-Of klik op **Push Notifications Actions** op de pagina Push Notification view en vervolgens **Preview**. Of klik op **Voorvertoning** helemaal rechts.
+Of klik op de pagina voor de weergave Push Notification op **Handelingen voor pushmeldingen** en vervolgens **Voorvertoning**. Of klik op **Voorvertoning** uiterst rechts.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Tot slot in de redacteur, kunt u **Voorproef Concept** lusje in het hogere recht klikken terwijl u aan het bericht werkt.
+Tot slot kunt u in de redacteur, **Concept voorvertonen** in de rechterbovenhoek wanneer u aan het bericht werkt.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 

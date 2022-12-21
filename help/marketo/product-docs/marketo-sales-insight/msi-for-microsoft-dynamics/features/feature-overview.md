@@ -5,8 +5,8 @@ title: Overzicht van functies
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 source-git-commit: 95aa6cdcede973e86757b4d9c758e2c7eb4bd5e6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '195'
+ht-degree: 2%
 
 ---
 

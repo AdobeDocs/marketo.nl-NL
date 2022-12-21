@@ -1,25 +1,24 @@
 ---
 unique-page-id: 2360205
-description: Een model delen over werkruimten - Marketo Docs - Productdocumentatie
+description: Een model delen op alle werkruimten - Marketo Docs - Productdocumentatie
 title: Een model delen over werkruimten
-translation-type: tm+mt
-source-git-commit: 03ee7b69f691efce12825aa708c81dffa23cecd9
+exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
+# Een model delen over werkruimten {#share-a-model-across-workspaces}
 
-# Model delen op werkruimten {#share-a-model-across-workspaces}
+Met Marketo kunt u een model of modellen delen met verschillende werkruimten. Zo gaat het.
 
-Marketo biedt u de mogelijkheid om een model of modellen te delen met verschillende werkruimten. Zo gaat het.
-
-1. Ga naar de **sectie Analytics**.
+1. Ga naar de **Analyse** sectie.
 
    ![](assets/analytics.png)
 
-1. Klik met de rechtermuisknop op de map **Mijn modellen** en klik op **Nieuwe map**.
+1. Klik met de rechtermuisknop op de knop **Mijn modellen** en klik op **Nieuwe map**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,7 +26,7 @@ Marketo biedt u de mogelijkheid om een model of modellen te delen met verschille
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Sleep het model of de modellen u in **de Omslag van het Aandeel** wilt delen.
+1. Sleep de modellen die u wilt delen naar de **Map delen**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 

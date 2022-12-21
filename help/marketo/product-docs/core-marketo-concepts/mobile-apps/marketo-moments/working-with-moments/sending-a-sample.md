@@ -3,7 +3,6 @@ unique-page-id: 8783561
 description: Een voorbeeld verzenden - Marketo Docs - Productdocumentatie
 title: Een voorbeeld verzenden
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '73'
@@ -15,13 +14,13 @@ ht-degree: 0%
 
 U kunt een voorbeeld van een e-mailmoment rechtstreeks met iemand delen. Er zijn twee manieren om het te doen.
 
-## De reguliere weg {#the-regular-way}
+## De normale weg {#the-regular-way}
 
 1. Open het menu Kaart.
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tik **Sample verzenden**.
+1. Tikken **Voorbeeld verzenden**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 

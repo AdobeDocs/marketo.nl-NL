@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 13D {#template-13d}
 
-Klik met de rechtermuisknop op [Sjabloon 13D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
+Klik met de rechtermuisknop om [downloadsjabloon 13D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
 
 ![](assets/image2015-8-11-14-3a17-3a5.png)
 

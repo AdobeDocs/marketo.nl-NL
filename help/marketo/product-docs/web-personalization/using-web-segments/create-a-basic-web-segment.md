@@ -1,17 +1,16 @@
 ---
 unique-page-id: 4719344
-description: Creeer een BasisSegment van het Web - Marketo Docs - de Documentatie van het Product
+description: Een basiswebsegment maken - Marketo Docs - Productdocumentatie
 title: Een basiswebsegment maken
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-
-# Een standaardwebsegment maken {#create-a-basic-web-segment}
+# Een basiswebsegment maken {#create-a-basic-web-segment}
 
 Laten we een basissegment maken voor alle webbezoekers uit de VS en de financiële-dienstenindustrie.
 
@@ -19,7 +18,7 @@ Laten we een basissegment maken voor alle webbezoekers uit de VS en de financië
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Klik **Nieuw maken**.
+1. Klikken **Nieuw maken**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -27,11 +26,11 @@ Laten we een basissegment maken voor alle webbezoekers uit de VS en de financië
 
    ![](assets/segment-name.png)
 
-1. Sleep **Location** van het juiste menu en laat vallen het in de segmentredacteur.
+1. Slepen **Locatie** in het rechtermenu en zet deze neer in de segmenteditor.
 
    ![](assets/location-drag-hand.jpg)
 
-1. Selecteer een land dat u wilt toevoegen in de vervolgkeuzelijst. Selecteer **United States**.
+1. Selecteer een land dat u wilt toevoegen in de vervolgkeuzelijst. Selecteer **Verenigde Staten**.
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -39,17 +38,17 @@ Laten we een basissegment maken voor alle webbezoekers uit de VS en de financië
    >
    >Het aantal steden is beperkt tot 300 per segment.
 
-1. Sleep **Industries** van het juiste menu en laat vallen het in de segmentredacteur.
+1. Slepen **Industrie** in het rechtermenu en zet deze neer in de segmenteditor.
 
    ![](assets/industries-hand.jpg)
 
-1. Selecteer in het keuzemenu Industrieën die u wilt toevoegen. Selecteer **Financial Services Industry**.
+1. Selecteer in het keuzemenu Industrieën die u wilt toevoegen. Selecteer **Financiële dienstverlening**.
 
    ![](assets/segment-industries.png)
 
-   U hebt nu een basissegment opgezet voor alle vooruitzichten om uw website van de VS en de financiële industrie te bezoeken.
+   U hebt nu een basissegment opgezet voor alle vooruitzichten om uw website vanuit de VS en de financiële sector te bezoeken.
 
-1. Klik **Opslaan** om het segment op te slaan of **Campagne opslaan en definiëren** om naar de pagina Campagnes te gaan.
+1. Klikken **Opslaan** om het segment op te slaan of **Campagne opslaan en definiëren** om naar de pagina Campagnes te gaan.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

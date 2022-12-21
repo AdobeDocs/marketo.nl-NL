@@ -1,15 +1,14 @@
 ---
 unique-page-id: 11380774
-description: Accountscore - Marketo Docs - Productdocumentatie
+description: Accountscore - Marketo-documenten - productdocumentatie
 title: Accountscore
-translation-type: tm+mt
-source-git-commit: 9f88e7cebc5e9d0d4491d65d332ccfdd9a31c395
+exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
 
 ---
-
 
 # Accountscore {#account-score}
 
@@ -40,11 +39,11 @@ In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één persoon
  </tbody>
 </table>
 
-## Hoe te om de Score van de Rekening {#how-to-configure-account-score} te vormen
+## Hoe te om de Score van de Rekening te vormen {#how-to-configure-account-score}
 
 >[!NOTE]
 >
->Als u accountscores wilt berekenen, moet u eerst loodscores maken. Marketo TAM aggregeert automatisch leadscores naar accountscores. Als voorbeeld, zullen wij twee van de bovengenoemde voorbeelden (_Score van de Rente van het Product van de Rekening_ en _Score van de Betrokkenheid van het Web van de Rekening_) nemen.
+>Als u accountscores wilt berekenen, moet u eerst loodscores maken. Marketo TAM aggregeert automatisch leadscores naar accountscores. Als voorbeeld nemen we twee van de bovenstaande voorbeelden (_Interescore voor product van account_ en _Score voor online betrokkenheid van account_).
 >
 >Maak eerst loodscore-velden waarin relevante details van elke lead van een doelaccount worden vastgelegd.\
 >Wijs vervolgens die leadscores toe aan hun respectievelijke accountscores:\
@@ -57,11 +56,11 @@ In de complexe wereld van B2B-aankoopprocessen is het zeldzaam dat één persoon
 
 Nadat u de hoofdscore hebt geconfigureerd, voert u de onderstaande stappen uit.
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/one-1.png)
 
-1. Klik **Doelaccountbeheer**.
+1. Klikken **Doelaccountbeheer**.
 
    ![](assets/account-score-2.png)
 
@@ -71,16 +70,16 @@ Nadat u de hoofdscore hebt geconfigureerd, voert u de onderstaande stappen uit.
 
    >[!NOTE]
    >
-   >U kunt maximaal **vijf** velden kiezen om de accountscore te berekenen.
+   >U kunt maximaal **vijf** velden voor het berekenen van de accountscore.
 
-1. Ga de naam van de Score van de Rekening in, klik **Uitgezochte Score** drop-down en selecteer de overeenkomstige score.
+1. Voer de naam van de accountscore in en klik op de knop **Persoonsscore selecteren** en selecteer de corresponderende score.
 
    ![](assets/four.png)
 
-1. Klik **+Add** om meer scores toe te voegen.
+1. Klikken **+Toevoegen** om meer scores toe te voegen.
 
    ![](assets/five.png)
 
-1. Voeg alle gewenste scores toe. Klik **Opslaan** wanneer gereed.
+1. Voeg alle gewenste scores toe. Klikken **Opslaan** wanneer gereed.
 
    ![](assets/six.png)

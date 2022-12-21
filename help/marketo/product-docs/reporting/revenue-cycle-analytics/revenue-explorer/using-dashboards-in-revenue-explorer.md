@@ -1,27 +1,26 @@
 ---
 unique-page-id: 10094959
-description: Het gebruiken van Dashboards in de Ontdekkingsreiziger van de Ontvangsten - Marketo Dos - de Documentatie van het Product
+description: Dashboards gebruiken in Revenue Explorer - Marketo Docs - Productdocumentatie
 title: Het gebruiken van Dashboards in de Ontdekkingsreiziger van de Opbrengst
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
-
-# Het gebruiken van Dashboards in Ontdekkingsreiziger {#using-dashboards-in-revenue-explorer} van de Opbrengst
+# Het gebruiken van Dashboards in de Ontdekkingsreiziger van de Opbrengst {#using-dashboards-in-revenue-explorer}
 
 Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontvangsten om een snel overzicht van uw lood, campagnes, kansen, en/of modellen te krijgen.
 
 ## Een nieuw dashboard maken {#creating-a-new-dashboard}
 
-1. Klik **Ontdekkingsreiziger van opbrengsten**.
+1. Klikken **Ontdekkingsreiziger voor inkomsten**.
 
    ![](assets/one.png)
 
-1. Klik **Nieuw maken** en vervolgens **Dashboard**.
+1. Klikken **Nieuw maken** vervolgens **Dashboard**.
 
    ![](assets/two.png)
 
@@ -31,17 +30,17 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 
    >[!NOTE]
    >
-   >U kunt de weergave van het dashboard verder aanpassen door op **Thema&#39;s** te klikken en uw favoriet te kiezen.
+   >U kunt de weergave van het dashboard verder aanpassen door op **Thema&#39;s** en kies je favoriet.
 
-1. In de eerste sectie van uw dashboard, klik **Tussenvoegsel** pictogram en selecteer **Dossier**.
+1. Klik in de eerste sectie van het dashboard op de knop **Invoegen** pictogram en selecteer **Bestand**.
 
    ![](assets/four.png)
 
-1. Dubbelklik **Ontdekkingsreiziger van opbrengsten**.
+1. Dubbelklikken **Ontdekkingsreiziger voor inkomsten**.
 
    ![](assets/five.png)
 
-1. Dubbelklik op **Alle rapporten en dashboards**.
+1. Dubbelklikken **Alle rapporten en dashboards**.
 
    ![](assets/six.png)
 
@@ -49,7 +48,7 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 
    ![](assets/seven.png)
 
-1. Kies uw rapport en klik **Select**.
+1. Kies uw rapport en klik op **Selecteren**.
 
    ![](assets/eight.png)
 
@@ -57,7 +56,7 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 
    ![](assets/nine.png)
 
-1. Als u de naam van een sectie wilt wijzigen, klikt u op de sectie om deze te selecteren, typt u de gewenste naam onder Titel en klikt u op **Toepassen**. Herhaal deze bewerking voor elke sectie.
+1. Als u de naam van een sectie wilt wijzigen, klikt u erop om de sectie te selecteren, typt u de gewenste naam onder Titel en klikt u op **Toepassen**. Herhaal deze bewerking voor elke sectie.
 
    ![](assets/ten.png)
 
@@ -65,13 +64,13 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 
    ![](assets/eleven.png)
 
-## Een dashboard {#editing-a-dashboard} bewerken
+## Een dashboard bewerken {#editing-a-dashboard}
 
-1. Klik **Ontdekkingsreiziger van opbrengsten**.
+1. Klikken **Ontdekkingsreiziger voor inkomsten**.
 
    ![](assets/one.png)
 
-1. Dubbelklik op de map **Ontdekkingsreiziger van inkomsten**. Navigeer naar de plaats waar uw dashboard woont.
+1. Dubbelklik op de knop **Ontdekkingsreiziger voor inkomsten** map. Navigeer naar de plaats waar uw dashboard woont.
 
    ![](assets/thirteen.png)
 
@@ -79,13 +78,13 @@ Een dashboard is een combinatie rapporten van de Ontdekkingsreiziger van de Ontv
 
    ![](assets/fourteen.png)
 
-## Een dashboard {#deleting-a-dashboard} verwijderen
+## Een dashboard verwijderen {#deleting-a-dashboard}
 
-1. Klik **Ontdekkingsreiziger van opbrengsten**.
+1. Klikken **Ontdekkingsreiziger voor inkomsten**.
 
    ![](assets/one.png)
 
-1. Dubbelklik op de map **Ontdekkingsreiziger van inkomsten**. Navigeer naar de plaats waar uw dashboard woont.
+1. Dubbelklik op de knop **Ontdekkingsreiziger voor inkomsten** map. Navigeer naar de plaats waar uw dashboard woont.
 
    ![](assets/thirteen.png)
 

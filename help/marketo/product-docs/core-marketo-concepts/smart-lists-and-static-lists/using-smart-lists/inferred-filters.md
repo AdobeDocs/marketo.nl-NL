@@ -3,7 +3,6 @@ unique-page-id: 2953188
 description: Overgenomen filters - Marketo Docs - Productdocumentatie
 title: Overgenomen filters
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '143'
@@ -13,7 +12,7 @@ ht-degree: 0%
 
 # Overgenomen filters {#inferred-filters}
 
-Wanneer iemand uw website bezoekt, worden deze door [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) in het systeem opgeslagen. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info. Bekijk het.
+Wanneer iemand uw website bezoekt, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) cookies ze en zet ze in het systeem. Wij kijken omhoog hun IP in een speciaal gegevensbestand en leiden allerlei goede info. Bekijk het.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -41,4 +40,4 @@ Deze anonieme bezoekers worden automatisch geconverteerd naar personen wanneer z
 
 >[!NOTE]
 >
->Meer informatie over [anonieme activiteit en leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).
+>Meer informatie over [anonieme activiteiten en leads](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md).

@@ -2,32 +2,31 @@
 unique-page-id: 2953136
 description: Kenmerk - Marketo Docs - Productdocumentatie
 title: Kenmerken
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
-
-# Kenmerk {#understanding-attribution}
+# Kenmerken {#understanding-attribution}
 
 ## Wat is attributie? {#what-is-attribution}
 
-Dit is hoe Marketo de programma&#39;s die de verkoop en kansen helpen beïnvloeden, krediet verleent. Als u de Marketo modeler gebruikt, kan de attributie ook krediet geven voor het bewegen van iemand vooruit in uw bedrijfsmodel.
+Dit is de manier waarop Marketo de programma&#39;s die de verkoop en kansen helpen beïnvloeden, verrijkt. Als u de Marketo modeler gebruikt, kan attributie ook krediet geven om iemand vooruit te bewegen in uw bedrijfsmodel.
 
 ## Waarom houden we dit in de gaten? {#why-keep-track-of-this}
 
 Met kenmerk kunt u meten of het programma succesvol is. Sommige programma&#39;s zijn bedoeld om nieuwe namen te genereren, terwijl andere bedoeld zijn om de verkoop te sturen. Door een systeem van toerekening te hebben, kunt u opgeleide besluiten nemen over welke programma&#39;s om in te investeren.
 
-## First-Touch (FT) Attribution {#first-touch-ft-attribution}
+## Ft-kenmerk (First Touch) {#first-touch-ft-attribution}
 
-First-Touch (FT)-attributie beantwoordt een **eenvoudige zakelijke vraag**, &quot;Welke programma&#39;s zijn goed in het verwerven van winstgevende nieuwe namen?&quot;
+First-Touch (FT)-kenmerk beantwoordt een **simpele zakelijke vraag**, &quot;Welke programma&#39;s zijn goed in het verwerven van rendabele nieuwe namen?&quot;
 
-## Attributie met meerdere aanraakpunten {#multi-touch-attribution}
+## Attributie met meerdere aanrakingen {#multi-touch-attribution}
 
-Multi-Touch beantwoordt een **gecompliceerde bedrijfsvraag**, &quot;Welke programma&#39;s zijn het meest invloedrijk in het bewegen van mensen in de verkoopcyclus door tijd?&quot;
+Multi-Touch beantwoordt een **ingewikkelde bedrijfsvraag**, &quot;Welke programma&#39;s zijn het meest invloedrijk in het bewegen van mensen in de verkoopcyclus in tijd?&quot;
 
 ## Kenmerkregels {#rules-of-attribution}
 
@@ -47,4 +46,4 @@ In de volgende voorbeelden kunt u deze regels toepassen en alles begrijpen wat u
 >* [Attributievoorbeeld 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
 
-Als u deze functie gebruikt, haalt u zeker het meeste uit uw investering in Marketo.
+Als je deze functie gebruikt, maak je zeker gebruik van je investering in Marketo.

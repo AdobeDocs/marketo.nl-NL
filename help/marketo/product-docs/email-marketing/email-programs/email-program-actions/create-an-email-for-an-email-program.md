@@ -1,35 +1,34 @@
 ---
 unique-page-id: 1900593
-description: Een e-mail maken voor een e-mailprogramma - Marketo Docs - Productdocumentatie
+description: E-mail maken voor een e-mailprogramma - Marketo Docs - Productdocumentatie
 title: Een e-mail maken voor een e-mailprogramma
-translation-type: tm+mt
-source-git-commit: 8d45a28e1c2adad3e04645f7150f1757414092f0
+exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
-
 # Een e-mail maken voor een e-mailprogramma {#create-an-email-for-an-email-program}
 
 >[!PREREQUISITES]
 >
 >* [Een e-mailprogramma maken](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
->* [Een publiek definiëren met een slimme ](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) listener  [Een publiek definiëren door een lijst te importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [Een publiek definiëren met een slimme lijst](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) of [Een publiek definiëren door een lijst te importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 
 
-Nadat u uw e-mailprogramma hebt gemaakt en uw publiek hebt gedefinieerd, wilt u bepalen welke e-mail u verzendt. U kunt [een bestaande e-mail kiezen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of creeer van kras. Zo maakt u een nieuwe e-mail.
+Nadat u uw e-mailprogramma hebt gemaakt en uw publiek hebt gedefinieerd, wilt u bepalen welke e-mail u verzendt. U kunt [een bestaande e-mail kiezen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of maak er een geheel nieuw. Zo maakt u een nieuwe e-mail.
 
 1. Ga naar **Marketingactiviteiten**.
 
    ![](assets/one.png)
 
-1. Selecteer uw e-mailprogramma. Klik onder de tegel **E-mail** op **Nieuwe e-mail**.
+1. Selecteer uw e-mailprogramma. Onder de **E-mail** tegel, klikken **Nieuwe e-mail**.
 
    ![](assets/newemaildashboard.png)
 
-1. Voer een **Naam** in, selecteer de sjabloon van uw keuze en klik op **Maken**.
+1. Voer een **Naam** selecteert u de gewenste sjabloon en klikt u op **Maken**.
 
    ![](assets/three.png)
 
@@ -39,10 +38,10 @@ Nadat u uw e-mailprogramma hebt gemaakt en uw publiek hebt gedefinieerd, wilt u 
 
    >[!NOTE]
    >
-   >Leer hoe u elementen in een e-mail [bewerkt.](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
+   >Leer hoe u [elementen in een e-mail bewerken](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md).
 
 1. Vergeet niet uw e-mail goed te keuren.
 
    ![](assets/five.png)
 
-Geweldig! Nu we een e-mail hebben gemaakt die we willen verzenden, moeten we [een A/B-test toevoegen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) of direct overslaan naar [het plannen van uw e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).
+Geweldig! Nu we een e-mail hebben gemaakt die we willen verzenden, gaan we  [A/B-test toevoegen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) of sla direct over naar [uw e-mailprogramma plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md).

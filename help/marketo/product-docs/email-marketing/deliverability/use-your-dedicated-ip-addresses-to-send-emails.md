@@ -1,27 +1,26 @@
 ---
 unique-page-id: 1900587
-description: Gebruik uw specifieke IP Adressen om E-mail - Marketo Docs - de Documentatie van het Product te verzenden
+description: Gebruik uw specifieke IP-adressen om e-mails te verzenden - Marketo Docs - Productdocumentatie
 title: Gebruik uw specifieke IP Adressen om E-mail te verzenden
-translation-type: tm+mt
-source-git-commit: 074701d1a5f75fe592ac7f44cce6fb3571e94710
+exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
 
 ---
 
-
-# Gebruik uw specifieke IP Adressen om E-mail {#use-your-dedicated-ip-addresses-to-send-emails} te verzenden
+# Gebruik uw specifieke IP Adressen om E-mail te verzenden {#use-your-dedicated-ip-addresses-to-send-emails}
 
 Het verzenden van één of meerdere specifieke IP geeft u volledige controle over uw verzendende reputatie.
 
 >[!AVAILABILITY]
 >
->Een specifieke IP is een toe:voegen-op product. Niet zal iedereen verkiesbaar zijn om een specifieke IP aan hun programma toe te voegen. U zou meer dan 100.000 e-mail per maand moeten verzenden en een stabiele campagnecadentie hebben om een specifieke IP te handhaven. Bereik uit aan uw CSM voor meer informatie over hoe te om specifieke IP aan uw programma van Marketo toe te voegen.
+>Een specifieke IP is een toe:voegen-op product. Niet zal iedereen verkiesbaar zijn om een specifieke IP aan hun programma toe te voegen. U zou meer dan 100.000 e-mail per maand moeten verzenden en een stabiele campagnecadentie hebben om een specifieke IP te handhaven. Ga naar uw CSM voor meer informatie over hoe u een toegewezen IP aan uw Marketo-programma kunt toevoegen.
 >
->Als u minder dan 100.000 e-mails per maand verzendt en/of variabele campagnevolumes heeft en/of seizoensgebonden afzender, kunt u geen specifieke IP handhaven. Marketo handhaaft een afzonderlijke Vertrouwde IP gedeelde pool voor klanten die zich aan strikte beste praktijken houden. Indien geïnteresseerd, vul [deze vragenlijst](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) in om op het Vertrouwde IP Programma van Marketo van toepassing te zijn.
+>Als u minder dan 100.000 e-mails per maand verzendt en/of variabele campagnevolumes heeft en/of seizoensgebonden afzender, kunt u geen specifieke IP handhaven. Marketo handhaaft een afzonderlijke Vertrouwde IP gedeelde pool voor klanten die zich aan strikte beste praktijken houden. Indien u hierom verzoekt, gelieve dit in te vullen. [deze vragenlijst](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) om op het Vertrouwde IP van Marketo Programma van toepassing te zijn.
 
-Alle Marketo-accounts beginnen op een gedeeld IP-adres, zodat u direct kunt beginnen met mailen. Als u een specifieke IP toevoegt, zult u met leverbaarheidsadviseurs werken om de levering van IP te plannen.
+Alle Marketo-accounts beginnen op een gedeeld IP-adres, zodat u direct kunt beginnen met verzenden. Als u een specifieke IP toevoegt, zult u met leverbaarheidsadviseurs werken om de levering van IP te plannen.
 
 Een toegewijde leverbaarheidsconsultant biedt:
 
@@ -38,8 +37,8 @@ Om de leverbaarheid op lange termijn te maximaliseren, bieden de Leveringsconsul
 
 >[!TIP]
 >
->Houd uw database schoon om uw prestaties hoog te houden. [Adobe ](https://www.adobe.com/legal/terms/aup.html) vereist dat klanten alleen marketingberichten sturen naar mensen die hebben aangemeld/gevraagd om e-mail te ontvangen. Spam niet.
+>Houd uw database schoon om uw prestaties hoog te houden. [Adobe vereist](https://www.adobe.com/legal/terms/aup.html) dat de klanten slechts marketing mededelingen verzenden aan mensen die binnen hebben gekozen/verzocht om e-mail te ontvangen. Spam niet.
 
 >[!CAUTION]
 >
->Als u een hoog aantal grenzen, of een andere problemen ziet, contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support). Als u meer gerichte ondersteuning nodig hebt om te leren hoe u een schone database kunt onderhouden en hoe u de betrokkenheid bij uw programma kunt vergroten, kunnen de e-mailleveringsconsultants van Marketo worden ingeschakeld voor een Custom Services-pakket.
+>Als u een groot aantal grenzen of andere problemen ziet, kunt u contact opnemen met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support). Als u meer gerichte ondersteuning nodig hebt om te leren hoe u een schone database kunt onderhouden en hoe u de betrokkenheid bij uw programma kunt vergroten, kunnen Marketo&#39;s Email Deliverability Consultants worden ingezet voor een Custom Services-pakket.

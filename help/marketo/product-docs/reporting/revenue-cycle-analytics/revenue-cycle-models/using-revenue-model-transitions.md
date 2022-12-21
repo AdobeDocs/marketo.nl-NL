@@ -2,16 +2,15 @@
 unique-page-id: 4718672
 description: Met behulp van inkomstenmodelovergangen - Marketo-documenten - productdocumentatie
 title: Overgangen met inkomstenmodellen gebruiken
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: c658b631-b849-438a-b412-63ffd41e4c85
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
 
 ---
 
-
-# Overgangen naar inkomstenmodel gebruiken {#using-revenue-model-transitions}
+# Overgangen met inkomstenmodellen gebruiken {#using-revenue-model-transitions}
 
 >[!PREREQUISITES]
 >
@@ -45,7 +44,7 @@ Wanneer u uw model creeert en uw inventarisstadia selecteert en organiseert, is 
 
    ![](assets/five-2.png)
 
-1. Om terug naar uw model te krijgen, klik **Modelleur**.
+1. Om terug te keren naar uw model klikt u op **Modelleur**.
 
    ![](assets/six.png)
 

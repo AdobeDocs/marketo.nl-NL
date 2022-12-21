@@ -2,20 +2,19 @@
 unique-page-id: 10096523
 description: Het dashboard voor pushmeldingen weergeven - Marketo Docs - Productdocumentatie
 title: Het dashboard voor pushmeldingen weergeven
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Het dashboard voor pushmeldingen weergeven {#view-the-push-notification-dashboard}
 
 Het is eenvoudig te zien hoe uw pushmeldingen werken.
 
-1. Ga naar **Marketing Activities** gebied.
+1. Ga naar de **Marketingactiviteiten** gebied.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,17 +22,17 @@ Het is eenvoudig te zien hoe uw pushmeldingen werken.
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Klik op **Weergave: Samenvatting** en selecteer **Dashboard**.
+1. Klikken **Weergave: Samenvatting** en selecteert u **Dashboard**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. U kunt de Totaal verzonden en Totaal aantal kranen voor iOS en Android bekijken in cirkelgrafieken. Schuif omlaag om het Tikken in staafgrafieken te zien.
+1. U kunt de Totale verzonden en Totale Taps voor iOS en Android weergeven in cirkelgrafieken. Schuif omlaag om het Tikken in staafgrafieken te zien.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 
    >[!NOTE]
    >
-   >De _Verzonden_ metrische waarde kan meer wijzen verzendt dan het nauwkeurige aantal mensen aan wie het dupbericht werd verzonden. Dat komt omdat het berekend is op basis van het *aantal apparaten* dat in aanmerking komt om uw push te ontvangen. Bijvoorbeeld, als één enkele persoon drie apparaten heeft, het dashboardregister drie verzendt, niet één.
+   >De _Verzonden_ De metrische waarde kan meer weerspiegelen verzendt dan het nauwkeurige aantal mensen aan wie de pushmelding werd verzonden. Dat komt omdat het berekend is op basis van de *aantal apparaten* die in aanmerking komen om uw push te ontvangen. Bijvoorbeeld, als één enkele persoon drie apparaten heeft, het dashboardregister drie verzendt, niet één.
 
    >[!MORELIKETHIS]
    >

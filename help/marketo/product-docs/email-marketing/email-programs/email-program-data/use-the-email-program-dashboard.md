@@ -2,14 +2,13 @@
 unique-page-id: 2359476
 description: Het dashboard voor het e-mailprogramma gebruiken - Marketo Docs - Productdocumentatie
 title: Het dashboard voor het e-mailprogramma gebruiken
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
 
 ---
-
 
 # Het dashboard voor het e-mailprogramma gebruiken {#use-the-email-program-dashboard}
 
@@ -17,7 +16,7 @@ Kijk hoe uw e-mailprogramma&#39;s met deze dashboardweergave presteren.
 
 >[!NOTE]
 >
->Als uw programma een A/B test heeft, controleer [Het dashboard van het E-mailprogramma - A/B Mening van de Test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>Als uw programma een A/B test heeft, controleer uit [E-mailprogrammadashboard - A/B-testweergave](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -25,7 +24,7 @@ Kijk hoe uw e-mailprogramma&#39;s met deze dashboardweergave presteren.
 >
 >Alle gegevens in deze weergave zijn geaggregeerd (inclusief A/B-test en de laatste e-mail die wordt verzonden).
 
-## Verzenden via e-mail {#email-send}
+## E-mail verzenden {#email-send}
 
 Hier kun je zien hoeveel e-mails zijn verzonden, teruggestuurd en bezorgd.
 
@@ -33,9 +32,9 @@ Hier kun je zien hoeveel e-mails zijn verzonden, teruggestuurd en bezorgd.
 
 >[!NOTE]
 >
->Vanwege leveringsstandaarden voor e-mail die niet onder de controle van Marketo staan, zijn de stats Bounted en Delivered bij benadering, niet exact.
+>Vanwege leveringsstandaarden voor e-mail die buiten de controle van Marketo vallen, zijn de stats Bounce en Delivered bij benadering, niet exact.
 
-## Opent/klikt {#opens-clicks}
+## Opens/klikken {#opens-clicks}
 
 In dit diagram ziet u het aantal e-mailberichten dat tijdens bepaalde perioden na het uitvoeren van het e-mailprogramma is geopend of aangeklikt.
 
@@ -47,11 +46,11 @@ In dit diagram ziet u het aantal e-mailberichten dat tijdens bepaalde perioden n
 
 ## Samenvatting - Betrokkenheid {#summary-engagement}
 
-Dit toont u de algemene [betrokkenheidsscore](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Dit toont u het algemene [betrokkenheidsscore](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
-## Samenvatting - Rest {#summary-rest}
+## Samenvatting - Rust {#summary-rest}
 
 In de rest van de gegevens worden Opens, Clicks, Click/Open Ratio en Unsubscribes weergegeven.
 
@@ -59,17 +58,17 @@ In de rest van de gegevens worden Opens, Clicks, Click/Open Ratio en Unsubscribe
 
 >[!TIP]
 >
->De **Unsubscribe** tarief in het bovenstaande voorbeeld was zo klein dat Marketo binnen zoomde om u een betere blik te geven. Het tweede getal in de balk wordt alleen toegevoegd voor de schaal.
+>De **Abonnement opzeggen** De snelheid in het bovenstaande voorbeeld was zo klein dat Marketo inzoomde om u een beter uiterlijk te geven. Het tweede getal in de balk wordt alleen toegevoegd voor de schaal.
 
 >[!NOTE]
 >
 >**Definitie**
 >
->**** Opensare wordt meegeteld wanneer de e-mailontvanger de afbeeldingen van de e-mail downloadt, inclusief een pixel voor het bijhouden van een markeerteken. Als de ontvanger het e-mailbericht weergeeft maar ervoor kiest de afbeeldingen niet te downloaden, telt dat niet als een geopend bericht. Als de afbeeldingen worden geladen in het voorvertoningsvenster van de ontvanger, wordt dit meestal beschouwd als een geopend bestand, maar het wordt afhankelijk van de e-mailclient gewijzigd.
+>**Openen** worden geteld wanneer de e-mailontvanger de afbeeldingen van de e-mail downloadt, inclusief een door Marketo ingevoegde trackingpixel. Als de ontvanger het e-mailbericht weergeeft maar ervoor kiest de afbeeldingen niet te downloaden, telt dat niet als een geopend bericht. Als de afbeeldingen worden geladen in het voorvertoningsvenster van de ontvanger, wordt dit meestal beschouwd als een geopend bestand, maar het wordt afhankelijk van de e-mailclient gewijzigd.
 >
->**Klik om het percentage e-mails te** openen dat is geopend en waarop op een koppeling in de e-mail is geklikt. We nemen het aantal unieke klikken gedeeld door het aantal unieke open klikken en vermenigvuldigen het vervolgens met 100 om het weer te geven als een percentage.
+>**Klik om te openen** Hiermee wordt het percentage gemeten van e-mails die zijn geopend en waarop een koppeling is geklikt in de e-mail. We nemen het aantal unieke klikken gedeeld door het aantal unieke open klikken en vermenigvuldigen het vervolgens met 100 om het weer te geven als een percentage.
 
-## Het dashboard {#refresh-dashboard} vernieuwen
+## Het dashboard vernieuwen {#refresh-dashboard}
 
 Als u de meest actuele gegevens wilt zien, klikt u op het pictogram Vernieuwen op het dashboard.
 

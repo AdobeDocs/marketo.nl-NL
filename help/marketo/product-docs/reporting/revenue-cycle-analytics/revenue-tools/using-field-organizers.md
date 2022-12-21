@@ -2,16 +2,15 @@
 unique-page-id: 3571892
 description: Veldorganisatoren gebruiken - Marketo Docs - Productdocumentatie
 title: VeldOrganizer gebruiken
-translation-type: tm+mt
-source-git-commit: e149133a5383faaef5e9c9b7775ae36e633ed7b1
+exl-id: 578969f7-9380-4019-9b86-85c659a216b3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-
-# Veldorganisatoren gebruiken {#using-field-organizers}
+# VeldOrganizer gebruiken {#using-field-organizers}
 
 Met behulp van veldorganisatoren kunt u bepaalde velden opgeven op basis van alle mogelijke waarden. U kunt bijvoorbeeld betekenisvolle groeperingen maken voor het veld Gebied, zoals West Coast en East Coast. Hierdoor kunnen rapporten sneller worden uitgevoerd.
 
@@ -25,23 +24,23 @@ De Organisatoren van het Gebied worden gebruikt in de ModelAnalyse van Prestatie
 
 ## Veldorganisatoren maken {#how-to-create-field-organizers}
 
-1. Klik **Database**.
+1. Klikken **Database**.
 
    ![](assets/db.png)
 
-1. Selecteer **Nieuwe veldOrganizer** onder **Nieuw**.
+1. Onder **Nieuw**, selecteert u **Nieuwe veldOrganizer**.
 
    ![](assets/two-1.png)
 
-1. Selecteer onder **Veld** een kenmerk. Beschrijving is optioneel.
+1. Onder **Veld** selecteert u een kenmerk. Beschrijving is optioneel.
 
    ![](assets/three-1.png)
 
-1. Klik **Maken**.
+1. Klikken **Maken**.
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Geef de groep een naam en voer de juiste gegevens in (dit hangt af van het gegevenstype van het geselecteerde veld). Klik **Groep toevoegen**.
+1. Geef de groep een naam en voer de juiste gegevens in (dit hangt af van het gegevenstype van het geselecteerde veld). Klikken **Groep toevoegen**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 

@@ -28,11 +28,11 @@ Hieronder wordt beschreven hoe u uw hoogwaardige accounts snel en nauwkeurig kun
 
    ![](assets/account-smart-lists-2.png)
 
-1. Klik op de vervolgkeuzelijst **Nieuw** en selecteer **Nieuw lokaal element**.
+1. Klik op de knop **Nieuw** vervolgkeuzelijst en selecteer **Nieuw lokaal element**.
 
    ![](assets/account-smart-lists-3.png)
 
-1. Klik **Account Smart List**.
+1. Klikken **Slimme accountlijst**.
 
    ![](assets/account-smart-lists-4.png)
 
@@ -46,21 +46,21 @@ Uw slimme lijst met accounts is gemaakt. Zie hieronder voor stappen over het def
 
 De slimme Lijsten van de rekening werken zo gelijkaardig aan standaard Slimme Lijsten, met een opmerkelijke uitzondering: containers.
 
-1. Als u uw slimme lijst met accounts wilt definiëren, klikt u op het tabblad **Regels voor slimme lijst met accounts**.
+1. Als u uw slimme lijst met accounts wilt definiëren, klikt u op de knop **Slimme-lijstregels account** tab.
 
    ![](assets/account-smart-lists-6.png)
 
-1. Kies de gewenste accountfilter(s). In dit voorbeeld kiezen wij _Industrie is Gezondheidszorg_.
+1. Kies de gewenste accountfilter(s). In dit voorbeeld kiezen we _Industrie is gezondheidszorg_.
 
    ![](assets/account-smart-lists-7.png)
 
    ![](assets/account-smart-lists-8.png)
 
-1. Kies uw filter(s) voor overeenstemmende personen. In dit voorbeeld kiezen wij _Staat is Californië_.
+1. Kies uw filter(s) voor overeenstemmende personen. In dit voorbeeld kiezen we _Staat is Californië_.
 
    ![](assets/account-smart-lists-9.png)
 
-**Optionele stap**: Hier komen containers. Als u een extra Gelijke Filter van de Persoon kiest, kunt u het onder eerste laten vallen, of _in_ het, creërend een container. In dit voorbeeld maken we een container door _Taaktitel is CFO_ toe te voegen.
+**Optionele stap**: Hier komen containers. Als u een extra filter voor overeenstemmende personen kiest, kunt u het onder het eerste filter neerzetten, of _in_ en maakt u een container. In dit voorbeeld maken we een container door deze toe te voegen _Functie is CFO_.
 
 ![](assets/account-smart-lists-10.png)
 
@@ -70,7 +70,7 @@ Zo ziet de container eruit.
 
 >[!NOTE]
 >
->Als u een container met filters maakt, wordt de regel &quot;en&quot; gemaakt. Dit betekent dat alleen alle gecombineerde resultaten worden geretourneerd. In dit voorbeeld, rekeningen met een industrie van gezondheidszorg, samen met het worden gevestigd in Californië _en_ met iemand die als CFO wordt vermeld. Als u geen containers wilt gebruiken, laat u gewoon het filter onder of boven de bestaande onder- of boven.
+>Als u een container met filters maakt, wordt de regel &quot;en&quot; gemaakt. Dit betekent dat alleen alle gecombineerde resultaten worden geretourneerd. In dit voorbeeld, rekeningen bij een industrie van gezondheidszorg, samen met het worden gevestigd in Californië _en_ met iemand die als CFO wordt vermeld. Als u geen containers wilt gebruiken, laat u gewoon het filter onder of boven de bestaande onder- of boven.
 
 En dat is het! Bekijk de onderstaande sectie om te zien hoe u de Smart List voor uw account kunt gebruiken.
 
@@ -88,7 +88,7 @@ Op het tabblad Overzicht van de slimme lijst met accounts ziet u enkele actieopt
 
 **Verzenden naar advertentienetwerk**: Hiermee verzendt u de lijst naar LinkedIn als een nieuw gekoppeld publiek.
 
-U kunt ook verwijzen naar uw slimme lijst van de Rekening in een standaard Slimme Campagne/Lijst door _Personenlid van Slimme Lijst_ filter te gebruiken.
+U kunt ook verwijzen naar uw Smart List voor account in een standaard Smart Campagne/List met de opdracht _Smart List voor personen die lid zijn van account_ filter.
 
 ![](assets/account-smart-lists-12.png)
 
@@ -100,4 +100,4 @@ U kunt ook verwijzen naar uw slimme lijst van de Rekening in een standaard Slimm
 >
 >**Definitie**
 >
->**Smart List** voor personen die lid zijn van account: In dit geval verwijst het woord &quot;lid&quot; naar de rekening zelf, dus &quot;persoon lid&quot; betekent de werkelijke personen (Marketo-administratie) in die rekeningen.
+>**Smart List voor personen die lid zijn van account**: In dit geval verwijst het woord &quot;lid&quot; naar de rekening zelf, dus &quot;persoon lid&quot; betekent de werkelijke personen (Marketo-administratie) in die rekeningen.

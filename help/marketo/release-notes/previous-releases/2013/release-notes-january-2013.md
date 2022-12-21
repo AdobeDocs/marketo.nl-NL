@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: januari 2013 {#release-notes-january}
 
-De release van januari breidt ons sociale aanbod uit met **Referral-aanbiedingen**. Bovendien kunnen gebruikers van Marketo Lead Management hun tijdzone, taal en landinstellingen instellen. Functies die zijn gemarkeerd met een * zijn alleen beschikbaar in de Select Edition.
+De release van januari breidt ons sociale aanbod uit met **Verwijzingsvoorstellen**. Bovendien kunnen gebruikers van Marketo Lead Management hun tijdzone, taal en landinstellingen instellen. Houd er rekening mee dat functies gemarkeerd zijn met een &#42; zijn alleen beschikbaar in de Select Edition.
 
 ## Verwijzingsvoorstellen {#referral-offers}
 
-Een **Referral-aanbieding** geeft uw leads een prikkel om hun vrienden door te verwijzen. Creëer doelstellingen en beloningen voor succesvolle verwijzingen. U kunt het gebruiken op landingspagina&#39;s, uw website, en zelfs Facebook.
+A **Verwijzingsvoorstel** geeft je leads een prikkel om naar je vrienden te verwijzen. Creëer doelstellingen en beloningen voor succesvolle verwijzingen. U kunt het gebruiken op landingspagina&#39;s, uw website, en zelfs Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 
@@ -34,7 +34,7 @@ U kunt de standaardtaal voor uw Marketo-gebruikersaccount wijzigen. Zelfs als he
 
 ![](assets/image2014-9-22-15-3a21-3a18.png)
 
-## Meertalig formulierfoutberichten {#multi-lingual-form-error-messages}
+## Foutberichten voor meerdere talen {#multi-lingual-form-error-messages}
 
 Wanneer een lead een Marketo-formulier invult, worden sommige validatieberichten automatisch ingebouwd. U kunt voor deze foutberichten een andere weergavetaal kiezen. We ondersteunen nu Engels, Duits en Frans.
 

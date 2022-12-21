@@ -2,42 +2,41 @@
 unique-page-id: 11384438
 description: TAM Report Setup - Marketo Docs - Productdocumentatie
 title: TAM Report Setup
-translation-type: tm+mt
-source-git-commit: 96d6cc030ecd9d1da844fe27e1c6f62bbd181d62
+exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
-
 # TAM Report Setup {#tam-report-setup}
 
 Het TAM-verkooprapport is een wekelijkse, persoonlijke e-mail die naar het accountteam wordt verzonden.
 
-## Rapportinstellingen {#report-setup}
+## Rapportinstelling {#report-setup}
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/one-3.png)
 
-1. Klik **Doelaccountbeheer**.
+1. Klikken **Doelaccountbeheer**.
 
    ![](assets/tam-report-setup-2.png)
 
-1. Klik onder Wekelijks Rapport op **Bewerken**.
+1. Klik onder Wekelijks rapport op **Bewerken**.
 
    ![](assets/three-3.png)
 
-1. Klik **Dag** drop-down en selecteer de dag van de week u de ontvangers de e-mail wilt ontvangen.
+1. Klik op de knop **Dag** en selecteer de dag van de week waarop u de e-mail wilt ontvangen.
 
    ![](assets/four-4.png)
 
-1. Klik op de vervolgkeuzelijst **Sorteren op** om de indeling van uw e-mail te bepalen en maak een selectie.
+1. Klik op de knop **Sorteren op** en maak een selectie.
 
    ![](assets/five-3.png)
 
-1. Schakel het selectievakje **Gebruikers** in en klik vervolgens op de vervolgkeuzelijst en selecteer wie u de e-mail wilt ontvangen.
+1. Controleer de **Gebruikers** Schakel deze optie in en klik vervolgens op de vervolgkeuzelijst en selecteer wie u de e-mail wilt ontvangen.
 
    ![](assets/six-2.png)
 
@@ -45,25 +44,25 @@ Het TAM-verkooprapport is een wekelijkse, persoonlijke e-mail die naar het accou
    >
    >Meldingen worden alleen verzonden naar eigenaars van accounts of teamleden.
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/seven-2.png)
 
 En dat is het!
 
-## {#how-to-unsubscribe} opzeggen
+## Abonnement opzeggen {#how-to-unsubscribe}
 
-Elk rapport wordt geleverd met de optie om te weigeren. Om dit eenvoudig te doen klik **Unsubscribe** bij de bodem van e-mail.
+Elk rapport wordt geleverd met de optie om te weigeren. Hiervoor klikt u op **Abonnement opzeggen** onder aan de e-mail.
 
 ![](assets/eight-1.png)
 
-## {#how-to-resubscribe} opnieuw inschrijven
+## Opnieuw abonneren {#how-to-resubscribe}
 
-1. Klik **Admin**.
+1. Klikken **Beheer**.
 
    ![](assets/one-3.png)
 
-1. Klik **Doelaccountbeheer**.
+1. Klikken **Doelaccountbeheer**.
 
    ![](assets/tam-report-setup-10.png)
 
@@ -71,10 +70,10 @@ Elk rapport wordt geleverd met de optie om te weigeren. Om dit eenvoudig te doen
 
    ![](assets/nine.png)
 
-1. Klik op de vervolgkeuzelijst **Gebruikers**.
+1. Klik op de knop **Gebruikers** vervolgkeuzelijst.
 
    ![](assets/ten.png)
 
-1. Selecteer opnieuw de gebruiker u e-mails wilt ontvangen en **Opnieuw inschrijven** klikken.
+1. Selecteer de gebruiker die u e-mailberichten wilt ontvangen en klik op **Opnieuw abonneren**.
 
    ![](assets/eleven.png)

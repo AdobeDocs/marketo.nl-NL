@@ -1,17 +1,16 @@
 ---
 unique-page-id: 7504725
-description: Een rapport van de Ontdekkingsreiziger van de Opbrengst opslaan - Marketo Docs - de Documentatie van het Product
+description: Opslaan van een rapport van de Ontdekkingsreiziger van de Inkomsten - de Documenten van Marketo - de Documentatie van het Product
 title: Een rapport van de Ontdekkingsreiziger van de Opbrengst opslaan
-translation-type: tm+mt
-source-git-commit: cb7df3dd38275837f8ab05ce846c2c68ab78462f
+exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-
-# Opslaan van een rapport van de Ontdekkingsreiziger van de Opbrengst {#saving-a-revenue-explorer-report}
+# Een rapport van de Ontdekkingsreiziger van de Opbrengst opslaan {#saving-a-revenue-explorer-report}
 
 De rapporten van de Ontdekkingsreiziger van de opbrengst kunnen aan het dossier van uw keus worden bewaard.
 
@@ -23,11 +22,11 @@ De rapporten van de Ontdekkingsreiziger van de opbrengst kunnen aan het dossier 
    >
    >Wijzigingen die u in uw rapport aanbrengt, worden niet automatisch opgeslagen. Zorg er dus voor dat je vaak opslaat!
 
-1. Geef uw rapport een beschrijvende naam, selecteer een plaats, en klik **sparen**!
+1. Geef uw rapport een beschrijvende naam, selecteer een plaats, en klik **Opslaan**!
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
-   Dat is alles! U kunt tot uw dossier in **Browse Dossiers** nu toegang hebben.
+   Dat is alles! U hebt nu toegang tot uw bestand in **Door bestanden bladeren**.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 

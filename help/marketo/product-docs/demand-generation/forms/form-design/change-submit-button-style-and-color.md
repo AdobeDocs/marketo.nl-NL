@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2359620
-description: De stijl en kleur van de knop Verzenden wijzigen - Marketo Docs - Productdocumentatie
+description: De stijl en kleur van de knop Verzenden wijzigen - Marketo-documenten - Productdocumentatie
 title: De stijl en kleur van de knop Verzenden wijzigen
-translation-type: tm+mt
-source-git-commit: ed83438ae5660d172e845f25c4d72d599574bd91
+exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
-
 
 # De stijl en kleur van de knop Verzenden wijzigen {#change-submit-button-style-and-color}
 
@@ -23,7 +22,7 @@ Als u de standaard verzendknop smal vindt of als u iets mooier nodig hebt, kunt 
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Selecteer de **Submit** knoop en klik **Edit** naast de Stijl van de Knoop.
+1. Selecteer **Verzenden** en klik op **Bewerken** naast Knopstijl.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -43,15 +42,15 @@ Als u de standaard verzendknop smal vindt of als u iets mooier nodig hebt, kunt 
    >
    >U kunt de kleurcode ook handmatig invoeren.
 
-1. Klik **Select**.
+1. Klikken **Selecteren**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Klik **Voltooien**.
+1. Klikken **Voltooien**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Klik **Goedkeuren en Sluiten**.
+1. Klikken **Goedkeuren en Sluiten**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 

@@ -2,18 +2,17 @@
 unique-page-id: 10095644
 description: Een fragment goedkeuren zonder concept - Marketo Docs - Productdocumentatie
 title: Een fragment goedkeuren zonder concept
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
 # Een fragment goedkeuren zonder concept {#approve-a-snippet-with-no-draft}
 
-## Het fragment {#approve-the-snippet} goedkeuren
+## Het fragment goedkeuren {#approve-the-snippet}
 
 Geen concept wordt geactiveerd telkens wanneer een fragment wordt goedgekeurd. Dit omvat een fragment dat wordt gedeeld door of waarnaar wordt verwezen door elementen in andere werkruimten.
 
@@ -21,14 +20,14 @@ Geen concept wordt geactiveerd telkens wanneer een fragment wordt goedgekeurd. D
 
    ![](assets/go-to-design-studio.png)
 
-1. Selecteer een fragment en kies **Goedkeuren** in de vervolgkeuzelijst **Fragmenthandelingen**.
+1. Selecteer een fragment en in het dialoogvenster **Fragmenthandelingen** keuzelijst, kies **Goedkeuren**.
 
    ![](assets/approve-snippet.png)
 
 1. Selecteer een optie in het dialoogvenster Fragment goedkeuren en klik op **Goedkeuren**:
 
-   * **Alles** bijwerken: Met deze optie worden geen concepten van de goedgekeurde elementen gemaakt met het fragment. Alle elementen krijgen de updates en behouden hun eerdere status. Rechtsboven in het scherm wordt een voortgangsmodule weergegeven. het kan te allen tijde worden gesloten . Als u het wilt herstellen, klikt u met de rechtermuisknop op de naam van het fragment en selecteert u Toon goedkeuringsstatus.
-   * **Concepten** maken: Met deze optie maakt u concepten van de goedgekeurde elementen met behulp van het fragment. Selecteer deze optie als wijzigingen in fragmenten eerst moeten worden gecontroleerd. Alle concepten moeten handmatig worden goedgekeurd.
+   * **Alles bijwerken**: Met deze optie worden geen concepten van de goedgekeurde elementen gemaakt met het fragment. Alle elementen krijgen de updates en behouden hun eerdere status. Rechtsboven in het scherm wordt een voortgangsmodule weergegeven. het kan te allen tijde worden gesloten . Als u het wilt herstellen, klikt u met de rechtermuisknop op de naam van het fragment en selecteert u Toon goedkeuringsstatus.
+   * **Concepten maken**: Met deze optie maakt u concepten van de goedgekeurde elementen met behulp van het fragment. Selecteer deze optie als wijzigingen in fragmenten eerst moeten worden gecontroleerd. Alle concepten moeten handmatig worden goedgekeurd.
 
    ![](assets/snippet-dialog-box.png)
 

@@ -1,21 +1,20 @@
 ---
 unique-page-id: 7515027
-description: Een afbeelding toevoegen aan een bestemmingspagina met instructies - Marketo Docs - Productdocumentatie
+description: Afbeelding toevoegen aan een bestemmingspagina met instructies - Marketo Docs - Productdocumentatie
 title: Een afbeelding toevoegen aan een bestemmingspagina met instructies
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
-
 # Een afbeelding toevoegen aan een bestemmingspagina met instructies {#add-an-image-to-a-guided-landing-page}
 
 In tegenstelling tot de openstaande bestemmingspagina&#39;s, hebben de geleide landingspagina&#39;s vooraf gedefinieerde, vergrendelde ruimten waar u afbeeldingen toevoegt.
 
-1. Selecteer een geleide landingspagina. Klik **Concept bewerken**.
+1. Selecteer een geleide landingspagina. Klikken **Concept bewerken**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 

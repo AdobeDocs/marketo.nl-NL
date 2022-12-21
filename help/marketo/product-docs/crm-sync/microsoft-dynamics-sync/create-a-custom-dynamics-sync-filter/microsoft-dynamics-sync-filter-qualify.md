@@ -3,7 +3,6 @@ unique-page-id: 10092977
 description: Microsoft Dynamics Sync Filter -Qualify - Marketo Docs - Productdocumentatie
 title: Microsoft Dynamics Sync Filter -Qualify
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '122'
@@ -11,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics Sync Filter: {#microsoft-dynamics-sync-filter-qualify} kwalificeren
+# Filter Microsoft Dynamics Sync: Kwalificeren {#microsoft-dynamics-sync-filter-qualify}
 
-Wanneer u een lood in een contact in de Dynamiek van Microsoft wilt omzetten, ben zeker om dit gebrek te gebruiken kwalificeer proces. Synchroniseer het vervolgens met Marketo.
+Wanneer u een lood in een contact in de Dynamica van Microsoft wilt omzetten, zeker ben om dit gebrek te gebruiken kwalificeer proces. Synchroniseer het vervolgens met Marketo.
 
 ## Het omzettingsproces {#the-conversion-process}
 

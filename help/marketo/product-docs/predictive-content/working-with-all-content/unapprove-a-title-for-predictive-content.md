@@ -2,16 +2,15 @@
 unique-page-id: 11384663
 description: Een titel voor preventieve inhoud - Marketo Docs - Productdocumentatie niet goedkeuren
 title: Een titel voor voorspellende inhoud niet goedkeuren
-translation-type: tm+mt
-source-git-commit: 06e0f5489e6375a97e2fe77834bf45fa41f23ea6
+exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
-
-# Een titel voor voorspellende inhoud {#unapprove-a-title-for-predictive-content} niet goedkeuren
+# Een titel voor voorspellende inhoud niet goedkeuren {#unapprove-a-title-for-predictive-content}
 
 U kunt elke titel voor voorspellende inhoud op de pagina Alle inhoud of in het pop-upvenster Inhoud bewerken niet goedkeuren.
 
@@ -21,11 +20,11 @@ U kunt elke titel voor voorspellende inhoud op de pagina Alle inhoud of in het p
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Klik op de vervolgkeuzelijst **Inhoudsacties** en selecteer **Niet goedkeuren voor voorspellende inhoud**.
+1. Klik op de knop **Inhoudshandelingen** vervolgkeuzelijst en selecteer **Niet goedkeuren voor voorspellende inhoud**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
-## Pop-up {#edit-content-pop-up} Inhoud bewerken
+## Pop-up Inhoud bewerken {#edit-content-pop-up}
 
 U kunt een titel verwijderen terwijl u deze bewerkt.
 
@@ -33,7 +32,7 @@ U kunt een titel verwijderen terwijl u deze bewerkt.
 
    ![](assets/click-icon-hand.png)
 
-1. Schakel het selectievakje **Goedkeuren voor voorspellende inhoud** uit en klik op **Opslaan**.
+1. Schakel het selectievakje **Goedkeuren voor voorspellende inhoud** en klik op **Opslaan**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 

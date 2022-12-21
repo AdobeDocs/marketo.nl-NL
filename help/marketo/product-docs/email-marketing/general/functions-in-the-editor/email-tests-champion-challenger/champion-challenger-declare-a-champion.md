@@ -2,16 +2,15 @@
 unique-page-id: 2359584
 description: Champion/Challenger - Declare a Champion - Marketo Docs - Product Documentation
 title: Champion/Challenger — Declare a Champion
-translation-type: tm+mt
-source-git-commit: 0f0217a88929661798015b51a26259a973f9f6ea
+exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 
 ---
 
-
-# Champion/Challenger: Een miniatuur {#champion-challenger-declare-a-champion} declareren
+# Champion/Challenger: Een Champion declareren {#champion-challenger-declare-a-champion}
 
 Als je klaar bent, kun je een kampioen voor je e-mailtest declareren.
 
@@ -23,27 +22,27 @@ Als je klaar bent, kun je een kampioen voor je e-mailtest declareren.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Zoek en klik met de rechtermuisknop op uw e-mailtest en klik vervolgens op **Miniatuur declareren**.
+1. Zoek en klik met de rechtermuisknop op uw e-mailtest en klik vervolgens op **Champion declareren**.
 
    ![](assets/champion4.jpg)
 
-1. Selecteer **Winner** van uw keus.
+1. Selecteer **Winner** van uw keuze.
 
    ![](assets/image2014-9-15-13-3a33-3a33.png)
 
-1. Stel de **Datum declareren** in.
+1. Stel de **Datum declareren**.
 
    >[!NOTE]
    >
-   >Tot **Datum aangeven** zal Marketo de oude kampioen en uitdager(s) blijven sturen. Zodra datum/tijd wordt bereikt, slechts zal de nieuwe kampioen worden verzonden.
+   >Tot en met **Datum declareren** Marketo zal de oude kampioen en uitdager(s) blijven sturen. Zodra datum/tijd wordt bereikt, slechts zal de nieuwe kampioen worden verzonden.
 
    ![](assets/image2014-9-15-13-3a33-3a47.png)
 
    >[!CAUTION]
    >
-   >Merk op dat het gebrek **Declare Datum** morgen is, niet vandaag.
+   >De standaardinstelling **Datum declareren** is morgen, niet vandaag.
 
-1. Selecteer een tijd en klik **Save**.
+1. Selecteer een tijd en klik op **Opslaan**.
 
    ![](assets/image2014-9-15-13-3a33-3a56.png)
 

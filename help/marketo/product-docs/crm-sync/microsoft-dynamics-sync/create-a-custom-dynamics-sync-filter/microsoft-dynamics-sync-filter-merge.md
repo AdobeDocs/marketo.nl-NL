@@ -3,7 +3,6 @@ unique-page-id: 10092969
 description: Microsoft Dynamics Sync Filter -Merge - Marketo Docs - Productdocumentatie
 title: Microsoft Dynamics Sync Filter -Merge
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '172'
@@ -11,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Microsoft Dynamics Sync Filter: {#microsoft-dynamics-sync-filter-merge} samenvoegen
+# Filter Microsoft Dynamics Sync: Samenvoegen {#microsoft-dynamics-sync-filter-merge}
 
 Bij het samenvoegen van leads in Microsoft Dynamics wordt het type Two Options gebruikt: Sync filter = Yes (TRUE) en Sync filter = No (FALSE). Wanneer u twee verslagen samenvoegt, varieert het resultaat, afhankelijk van welke verslag waar is en die vals is.
 

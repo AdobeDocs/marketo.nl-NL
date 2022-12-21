@@ -1,17 +1,16 @@
 ---
 unique-page-id: 4720145
 description: RTP implementeren met Google Tag Manager - Marketo Docs - Productdocumentatie
-title: RTP implementeren met Google Tag Manager
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+title: RTP implementeren met Google-tagbeheer
+exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
-
-# RTP implementeren met Google Tag Manager {#implementing-rtp-using-google-tag-manager}
+# RTP implementeren met Google-tagbeheer {#implementing-rtp-using-google-tag-manager}
 
 Volg onderstaande installatie-instructies om uw RTP-tag te implementeren.
 
@@ -27,16 +26,16 @@ Volg onderstaande installatie-instructies om uw RTP-tag te implementeren.
 
    ![](assets/image2014-11-30-15-3a19-3a21.png)
 
-1. Zoek onder Domein het relevante domein en klik op **Tag genereren**.
+1. Zoek onder Domein het relevante domein en klik op **Label genereren**.
 
    ![](assets/image2014-11-30-15-3a20-3a17.png)
 
-1. Kopieer de RTP JavaScript-tag en plak deze naar de nieuwe **Aangepaste HTML-tag** die u hebt gemaakt (Stap 1).
+1. Kopieer de RTP JavaScript-tag en plak deze naar het nieuwe **Aangepaste HTML-tag** u hebt gemaakt (Stap 1).
 
-1. Klik **+ voeg Regel aan Vuurmarkering** toe. Selecteer **Alle pagina&#39;s**.
+1. Klikken **+Regel toevoegen aan brandcode**. Selecteren **Alle pagina&#39;s**.
 
-1. Klik **Save** en [publish de nieuwe versie](https://support.google.com/tagmanager/answer/2699097?hl=en).
+1. Klikken **Opslaan** en [de nieuwe versie publiceren](https://support.google.com/tagmanager/answer/2699097?hl=en).
 
 1. Controleer of deze code op alle pagina&#39;s wordt weergegeven, inclusief bestemmingspagina&#39;s en subdomeinen.
 
-   a. U kunt dit doen door met de rechtermuisknop op de pagina van uw website te klikken. Ga naar **Inspect Element**, zoek **RTP** om de tag te zoeken.
+   a. U kunt dit doen door met de rechtermuisknop op de pagina van uw website te klikken. Ga naar **Inspect-element**, Zoeken naar **RTP** om de tag te zoeken.

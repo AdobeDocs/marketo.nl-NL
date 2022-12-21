@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Opmerkingen bij de release: februari 2013 {#release-notes-february}
 
-De release van februari bevat een hoogst gevraagde functie, ondersteuning voor Apple Safari en andere kleine verbeteringen.
+De release van februari bevat een hoogst gewenste functie, ondersteuning voor Apple Safari en andere kleine verbeteringen.
 
 ## Officiële ondersteuning voor Apple Safari {#official-support-for-apple-safari}
 
@@ -32,4 +32,4 @@ Facebook-tabs die vanuit Marketo worden gepubliceerd, detecteren mobiele apparat
 
 ## Binnenkort beschikbaar: Ondersteuning voor meerdere modellen {#coming-soon-support-for-multiple-models}
 
-We leggen de basis voor de ondersteuning van meerdere modellen voor inkomstencycli, en hebben in een toekomstige release het #1-idee voor RCA in de Gemeenschap goedgekeurd. In deze versie zult u enkele wijzigingen opmerken, waaronder [Slimme lijstfilters en Keuzen toevoegen in Stappen](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) om de selectie van een model en werkgebied te ondersteunen. Ook verplaatsen we de velden Opbrengstgebied lead en Opbrengstcyclusmodel lead uit het tabblad Lead-raster van slimme lijst.
+We leggen de basis voor de ondersteuning van meerdere modellen voor inkomstencycli, en hebben in een toekomstige release het #1-idee voor RCA in de Gemeenschap goedgekeurd. In deze versie zult u enkele wijzigingen opmerken, waaronder [Slimme lijstfilters en Keuzen toevoegen in Stappen van de Stroom](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) ter ondersteuning van de selectie van een model en werkgebied. Ook verplaatsen we de velden Opbrengstgebied lead en Opbrengstcyclusmodel lead uit het tabblad Lead-raster van slimme lijst.

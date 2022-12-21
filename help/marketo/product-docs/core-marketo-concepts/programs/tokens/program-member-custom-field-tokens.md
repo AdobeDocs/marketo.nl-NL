@@ -5,7 +5,7 @@ title: Aangepaste veldtokens voor programmaleden
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Op de rug van de eigenschappen van de Gebieden van de Douane van het Lid van het
 
 De PMCF-tokens worden ondersteund onder het liddomein van de tokens-familie.
 
-Lid Tokens worden gebruikt voor gebieden die onder het werkingsgebied van het Lid van het Programma vallen. Vanaf huidige staat, worden de Tokens van het Lid ook gebruikt om unieke waarden van geïntegreerde de dienstenpartners op te nemen. `{{member.webinar url}}` de unieke bevestiging-URL die door de serviceprovider is gegenereerd, wordt automatisch opgelost. {{member.registration code}} wordt omgezet in de registratiecode die door de serviceprovider is opgegeven.
+Lid Tokens worden gebruikt voor gebieden die onder het werkingsgebied van het Lid van het Programma vallen. Vanaf huidige staat, worden de Tokens van het Lid ook gebruikt om unieke waarden van geïntegreerde de dienstenpartners op te nemen. `{{member.webinar url}}` de unieke bevestiging-URL die door de serviceprovider is gegenereerd, wordt automatisch opgelost. {{member.registration code}} wordt omgezet in de registratiecode die door de dienstverlener wordt verstrekt.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
 **E-mails**
 
-1. Selecteer de gewenste e-mail en klik **Concept** bewerken.
+1. Selecteer het gewenste e-mailbericht en klik op **Concept bewerken**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,11 +41,11 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Zoek en selecteer het gewenste Token van het Gebied van het Lid van het Programma, ga een standaardwaarde in, en klik **Tussenvoegsel**.
+1. Zoek en selecteer het gewenste Token van het Gebied van het Lid van het Programma, ga een standaardwaarde in, en klik **Invoegen**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/program-member-custom-field-tokens-4.png)
 
@@ -55,7 +55,7 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
 **Landingspagina&#39;s**
 
-1. Selecteer de bestemmingspagina en klik **Concept** bewerken.
+1. Selecteer uw bestemmingspagina en klik **Concept bewerken**.
 
    ![](assets/program-member-custom-field-tokens-5.png)
 
@@ -79,17 +79,17 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/program-member-custom-field-tokens-10.png)
 
 **SMS**
 
-1. Selecteer gewenste SMS en klik **Concept** uitgeven.
+1. Selecteer het gewenste SMS en klik op **Concept bewerken**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Klik op de knop **`{{ Token`**.
+1. Klik op de knop **`{{ Token`** knop.
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -97,7 +97,7 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
    ![](assets/program-member-custom-field-tokens-13.png)
 
-1. Klik de drop-down Acties van SMS en selecteer **goedkeuren &amp; dicht**.
+1. Klik op de vervolgkeuzelijst SMS-handelingen en selecteer **Goedkeuren en sluiten**.
 
    ![](assets/program-member-custom-field-tokens-14.png)
 
@@ -107,11 +107,11 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Klik **Push Notification**.
+1. Klikken **Pushmelding**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Klik op het bericht in de redacteur en klik `{{` knoop om de symbolenselecteur te krijgen.
+1. Klik op het bericht in de editor en klik op de knop `{{` om de tokenkiezer op te halen.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
@@ -119,7 +119,7 @@ U kunt de Tokens van de Gebieden van het Lid van het Programma in e-mail, het Be
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Klik **Voltooien** om op te slaan en af te sluiten (of **Volgende** om eerst te controleren).
+1. Klikken **Voltooien** om op te slaan en af te sluiten (of **Volgende** eerst controleren).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

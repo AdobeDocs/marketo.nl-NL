@@ -3,7 +3,6 @@ unique-page-id: 2950799
 description: Overzicht van tokens - Marketo Docs - Productdocumentatie
 title: Overzicht van tokens
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
-translation-type: tm+mt
 source-git-commit: 4fc3cf6e6458f07df7cced9399831b8c6b50e0ad
 workflow-type: tm+mt
 source-wordcount: '300'
@@ -15,7 +14,7 @@ ht-degree: 0%
 
 Een token is een variabele die kan worden gebruikt in Marketo-stappen voor slimme-campagnestromen, e-mails, landingspagina&#39;s, fragmenten en webcampagnes.
 
-## Standaardwaarden {#understanding-default-values} begrijpen
+## Standaardwaarden begrijpen {#understanding-default-values}
 
 Wanneer u een token gebruikt, wilt u ook een standaardwaarde opgeven. Dit is de tekst die laat zien of een persoon geen waarde heeft voor het veld waarnaar u verwijst.
 
@@ -112,7 +111,7 @@ In dit voorbeeld wordt in de e-mail het woord &quot;Groetings, (voornaam)&quot; 
 * `{{Company.Website}}`
 * De gebieden van het bedrijf van de douane werken ook als u hun vertoningsnaam ex gebruikt. `{{Company.Custom Field Name}}`
 
-## CampagneTokens {#campaign-tokens}
+## Campagne Tokens {#campaign-tokens}
 
 * `{{campaign.name}}`
 * `{{campaign.id}}`
@@ -122,7 +121,7 @@ In dit voorbeeld wordt in de e-mail het woord &quot;Groetings, (voornaam)&quot; 
 
 >[!NOTE]
 >
->Meer informatie over deze tokens vindt u in de verklarende woordenlijst [Systeemtokens](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Meer informatie over deze tokens vindt u in het dialoogvenster [Verklarende woordenlijst systeemtokens](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -131,7 +130,7 @@ In dit voorbeeld wordt in de e-mail het woord &quot;Groetings, (voornaam)&quot; 
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## Tokens {#trigger-tokens} activeren
+## Tokens activeren {#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -149,7 +148,7 @@ In dit voorbeeld wordt in de e-mail het woord &quot;Groetings, (voornaam)&quot; 
 
 >[!NOTE]
 >
->Meer informatie over [tokens voor interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) vindt op basis van triggers die in een slimme campagne worden gebruikt.
+>Meer informatie over [tokens voor interessante momenten](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) gebaseerd op triggers die worden gebruikt in een slimme campagne.
 
 ## Programmatokens {#program-tokens}
 
@@ -159,14 +158,14 @@ In dit voorbeeld wordt in de e-mail het woord &quot;Groetings, (voornaam)&quot; 
 
 ## Mijn tokens {#my-tokens}
 
-Mijn tokens worden bepaald binnen een programma en met `{{my.` gevolgd door de naam u voor het teken creeerde. Meer informatie over [Mijn tokens in een programma](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+Mijn tokens worden gedefinieerd binnen een programma en beginnen met `{{my.` gevolgd door de naam die u voor het token hebt gemaakt. Meer informatie over [Mijn tokens in een programma](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
-## Lidtoken {#member-token}
+## Member Token {#member-token}
 
-De Tokens van het lid worden gebruikt om unieke waarden van geïntegreerde de dienstenpartners op te nemen. Lid-tokens worden vaak gebruikt voor unieke URL&#39;s voor webinaire deelnemers. Elke persoon heeft een unieke URL om tot webinar toegang te hebben die kan worden opgenomen gebruikend een `{{member.webinar url}}` teken. De token `{{member.webinar url}}` lost automatisch de unieke bevestiging-URL van de persoon op die door het servicebureau is gegenereerd.
+De Tokens van het lid worden gebruikt om unieke waarden van geïntegreerde de dienstenpartners op te nemen. Lid-tokens worden vaak gebruikt voor unieke URL&#39;s voor webinaire deelnemers. Elke persoon heeft een unieke URL om toegang te krijgen tot het webinar dat kan worden ingevoegd via een `{{member.webinar url}}` token. De `{{member.webinar url}}` de unieke bevestiging-URL die door de serviceprovider is gegenereerd, wordt automatisch opgelost.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->De token `{{member.webinar url}}` wordt alleen gevuld als de slimme campagne die de e-mail verzendt een onderliggend element van het gebeurtenisprogramma is.
+>De `{{member.webinar url}}` wordt alleen gevuld als de slimme campagne die de e-mail verzendt, een onderliggend element van het gebeurtenisprogramma is.

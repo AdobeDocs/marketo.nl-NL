@@ -2,14 +2,13 @@
 unique-page-id: 7504218
 description: Aangepaste RTP-rapporten in Google Universal Analytics - Marketo Docs - Productdocumentatie
 title: Aangepaste RTP-rapporten in Google Universal Analytics
-translation-type: tm+mt
-source-git-commit: fbaf57ec4f3532c2d71acf23171d60873b1c997c
+exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 0%
 
 ---
-
 
 # Aangepaste RTP-rapporten in Google Universal Analytics {#custom-rtp-reports-in-google-universal-analytics}
 
@@ -17,7 +16,7 @@ ht-degree: 0%
 >
 >[RTP integreren met Google Universal Analytics](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Universal Analytics (GUA) instelt.  De gegevens die van RTP naar GUA worden verzonden kunnen opstelling als twee afzonderlijke geroepen douanerapporten zijn:
+In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten instelt voor Google Universal Analytics (GUA).  De gegevens die van RTP naar GUA worden verzonden kunnen opstelling als twee afzonderlijke geroepen douanerapporten zijn:
 
 * RTP B2B
 * RTP-betrokkenheid
@@ -26,27 +25,27 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
 
 1. Meld u aan bij Google Analytics.
 
-1. Klik op **Customization** in het hoogste menu.
+1. Klikken op **Aanpassing** in het bovenste menu.
 
-1. Klik **+New Custom Report**.
+1. Klikken **+Nieuw aangepast rapport**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## RTP B2B-rapport {#rtp-b-b-report}
 
-1. Geef het rapport **RTP B2B Report** een naam.
+1. Geef een naam op voor het rapport **RTP B2B-rapport**.
 
-1. Geef het eerste tabblad **Industrie** een naam.
+1. Geef de naam van het eerste tabblad **Industrie**.
 
 >[!NOTE]
 >
->U **Dit tabblad dupliceren** en aanvullende vergelijkbare tabbladen maken - stap 5)
+>U zult **Dit tabblad dupliceren** en maak aanvullende vergelijkbare versies - stap 5)
 
-1. Selecteer **Ontdekkingsreiziger** rapporttype.
+1. Selecteer **Verkenner** rapporttype.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. Selecteer in de sectie **Metrische groepen** de maatstaven die relevant zijn voor uw bedrijf.
+1. In de **Metrische groepen** , selecteert u de maatstaven die relevant zijn voor uw bedrijf.
 
    a. We raden het volgende aan:
 
@@ -54,7 +53,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
 
 1. Dit tabblad 4 keer dupliceren en een naam geven:
 
-   1. **Industrie**
+   1. **Marktsegment**
    1. **Groep**
    1. **Categorie**
    1. **ABM**
@@ -62,7 +61,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. In **Dimension boor downs** sectie plaats de relevante afmetingen voor elk lusje zoals hieronder.
+1. In de **Dimension boor downs** in de sectie worden de relevante afmetingen voor elk tabblad hieronder vastgesteld.
 
 <table> 
  <thead> 
@@ -79,7 +78,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
  </thead> 
  <tbody> 
   <tr> 
-   <td>Industrie</td> 
+   <td>Marktsegment</td> 
    <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
@@ -101,23 +100,23 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
  </tbody> 
 </table>
 
-1. Stel geen filters in en stel dit rapport in op beschikbaar voor **Alle gegevens van de website** (of wijzig indien van toepassing voor specifieke account Analytics).
+1. Stel geen filters in en stel dit rapport in op beschikbaar voor **Alle websitegegevens** (of, indien van toepassing, wijzigen voor een specifieke analytische rekening).
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## RTP-betrokkenheidsrapport {#rtp-engagement-report}
 
-1. Geef het rapport **RTP Engagement Report** een naam.
+1. Geef een naam op voor het rapport **RTP-betrokkenheidsrapport**.
 
-1. Stel de eerste tabnaam in op **Alle betrokkenheid**.
+1. De eerste tabnaam instellen op **Alle betrokkenheid**.
 
 >[!NOTE]
 >
 >U dupliceert dit tabblad en maakt aanvullende, vergelijkbare tabbladen (stap 5)
 
-1. Selecteer **Ontdekkingsreiziger** rapporttype.
+1. Selecteer **Verkenner** rapporttype.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
@@ -135,7 +134,7 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. Stel in de sectie **Dimension boor downs** de relevante afmetingen voor elk tabblad als volgt in:
+1. In de **Dimension boor downs** de relevante afmetingen voor elk tabblad als volgt instellen:
 
 <table> 
  <thead> 
@@ -219,11 +218,11 @@ In dit artikel wordt uitgelegd hoe u aangepaste RTP-rapporten voor Google Univer
  </tbody> 
 </table>
 
-1. Plaats dit rapport om voor **Alle Gegevens van de Website** (of verandering indien nodig) beschikbaar te zijn.
+1. Dit rapport beschikbaar stellen voor **Alle websitegegevens** (of indien nodig wijzigen).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 

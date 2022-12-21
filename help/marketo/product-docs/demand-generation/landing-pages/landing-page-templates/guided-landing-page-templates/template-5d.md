@@ -5,14 +5,14 @@ title: Sjabloon 5D
 exl-id: 98e4d4ba-dad5-4285-994f-50c5d677b300
 source-git-commit: bfcd66388b0d77cf3f1743b0778026a1e5a1ec61
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Sjabloon 5D {#template-5d}
 
-Klik met de rechtermuisknop op [Sjabloon 5D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
+Klik met de rechtermuisknop om [Sjabloon 5D downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5d.html)
 
 ![](assets/image2015-7-29-15-3a10-3a49.png)
 

@@ -3,7 +3,6 @@ unique-page-id: 557333
 description: Herordend Add Keuze in een Stroom Stap - de Documenten van Marketo - de Documentatie van het Product
 title: Opnieuw rangschikken Keuze toevoegen in een stroomstap
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
-translation-type: tm+mt
 source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '183'
@@ -19,11 +18,11 @@ Aangezien alleen de eerste keuze voor overeenkomsten op een persoon van toepassi
 
    ![](assets/one.png)
 
-1. Laten we keuze 3 boven keuze 2 verplaatsen. Klik op **Keuze 3** en klik dan **Omhoog**.
+1. Laten we keuze 3 boven keuze 2 verplaatsen. Klikken op **Keuze 3** klik vervolgens op **Omhoog**.
 
    >[!NOTE]
    >
-   >Bij het opnieuw ordenen kunt u **Omhoog verplaatsen**, **Omlaag verplaatsen** of **Verplaatsen naar**.
+   >Bij het opnieuw ordenen kunt u **Omhoog**, **Omlaag**, of **Verplaatsen naar**.
 
    ![](assets/two.png)
 
@@ -31,7 +30,7 @@ Aangezien alleen de eerste keuze voor overeenkomsten op een persoon van toepassi
 
    ![](assets/three.png)
 
-1. Als u veel mogelijkheden hebt en één niveau omhoog of omlaag moet verplaatsen, kunt u deze alternatieve methode gebruiken om tijd te besparen. Klik op de keuze die u wilt verplaatsen en sleep de schuifregelaar onder **Verplaatsen naar** naar de positie waarnaar u de keuze wilt verplaatsen.
+1. Als u veel mogelijkheden hebt en één niveau omhoog of omlaag moet verplaatsen, kunt u deze alternatieve methode gebruiken om tijd te besparen. Klik op de keuze die u wilt verplaatsen en vervolgens onder **Verplaatsen naar** Sleep de schuifregelaar naar de positie waarnaar u de keuze wilt verplaatsen.
 
    ![](assets/four.png)
 

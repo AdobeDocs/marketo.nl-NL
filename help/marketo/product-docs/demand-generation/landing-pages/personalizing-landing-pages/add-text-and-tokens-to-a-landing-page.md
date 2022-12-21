@@ -2,24 +2,23 @@
 unique-page-id: 2359530
 description: Tekst en tokens toevoegen aan een bestemmingspagina - Marketo Docs - Productdocumentatie
 title: Tekst en tokens toevoegen aan een bestemmingspagina
-translation-type: tm+mt
-source-git-commit: 2969e6f94f5fd781e2167ae2aa8680bb8d134754
+exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
+source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
-
 # Tekst en tokens toevoegen aan een bestemmingspagina {#add-text-and-tokens-to-a-landing-page}
 
 >[!NOTE]
 >
->Tokens worden alleen ondersteund op bestemmingspagina&#39;s van Marketo.
+>Tokens worden alleen ondersteund op Marketo-bestemmingspagina&#39;s.
 
 ## Rijke tekst toevoegen aan uw bestemmingspagina {#add-rich-text-to-your-landing-page}
 
-1. Selecteer de bestemmingspagina en klik **Concept** bewerken.
+1. Selecteer de openingspagina en klik op **Concept bewerken**.
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
@@ -27,7 +26,7 @@ ht-degree: 0%
    >
    >De landende paginaontwerper opent in een nieuw venster.
 
-1. Sleep over het **Rich Text** element.
+1. Sleep over de **RTF** element.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
@@ -45,7 +44,7 @@ Tokens zijn dynamische tekstfragmenten die uw openingspagina kunnen aanpassen.
 >
 >Dingen zoals Voornaam komen uit het persoonsdossier. Andere tokens komen van het Mijn lusje van Tokens in het programma.
 
-1. Selecteer de bestemmingspagina en klik **Concept** bewerken.
+1. Selecteer de openingspagina en klik op **Concept bewerken**.
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 
@@ -65,11 +64,11 @@ Tokens zijn dynamische tekstfragmenten die uw openingspagina kunnen aanpassen.
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Voer een **Standaardwaarde** in en klik op **Invoegen**.
+1. Voer een **Standaardwaarde** en klik op **Invoegen**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Klik **Opslaan**.
+1. Klikken **Opslaan**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

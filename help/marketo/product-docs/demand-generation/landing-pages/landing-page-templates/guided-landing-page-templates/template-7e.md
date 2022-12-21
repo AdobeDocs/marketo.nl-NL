@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Sjabloon 7E {#template-7e}
 
-Klik met de rechtermuisknop op [Sjabloon 7E downloaden](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
+Klik met de rechtermuisknop om [downloadsjabloon 7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
 
 ![](assets/image2015-7-29-15-3a11-3a34.png)
 
