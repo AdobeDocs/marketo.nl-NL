@@ -3,10 +3,10 @@ unique-page-id: 5472490
 description: Releaseplanning - Marketo-documenten - productdocumentatie
 title: Releaseplanning
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
-source-git-commit: 132aa2edc3ae4a62d9f2e22aa0d5ae4353bc6328
+source-git-commit: 5f12d1dd83443214b9d54d46e18a492a175c791a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '138'
+ht-degree: 1%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 0%
 
 **Status**:
 
-* In Plan - wij zijn van plan om de driemaandelijkse eigenschappen en verhogingen op de vermelde datum vrij te geven
-* Bezig - We zijn bezig met het ontwikkelen en documenteren van de inhoud die op de aangegeven datum wordt vrijgegeven
+* In planning - We zijn van plan om de functies en verbeteringen op de aangegeven datum vrij te geven
+* Bezig - De functies van de release worden momenteel geïmplementeerd
 * Verzonden - De release is voltooid
 
 _Releasedatums kunnen worden gewijzigd_
@@ -37,12 +37,12 @@ _Releasedatums kunnen worden gewijzigd_
    <th width="250px">Status</th>
   </tr>
   <tr> 
-   <td><a href="/help/marketo/release-notes/current.md">22 oktober</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2022/release-notes-oct-22.md">22 oktober</a></td>
    <td>14 oktober 2022</td>
    <td>Verzonden</td>
   </tr>
   <tr> 
-   <td>januari '23</td>
+   <td><a href="/help/marketo/release-notes/current.md">januari '23</a></td>
    <td>20 januari 2023</td>
    <td>Op schema</td>
   </tr>
