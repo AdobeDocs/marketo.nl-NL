@@ -3,9 +3,9 @@ unique-page-id: 2953188
 description: Overgenomen filters - Marketo Docs - Productdocumentatie
 title: Overgenomen filters
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: c045e9008bf0e9d145ac67866a1e0d7cb6e26069
+source-git-commit: e9a89fb17ca55961c1ee7962d5466b6cb76a9550
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Wanneer iemand uw website bezoekt, [Munchkin](/help/marketo/product-docs/adminis
 
 >[!NOTE]
 >
->Om ervoor te zorgen dat afgeleide veldwaarden actueel blijven, werken wij periodiek het gegevensbestand bij dat voor IP adresraadplegingen wordt gebruikt. Database-updates kunnen nieuwe afgeleide veldwaarden introduceren die u wellicht moet toevoegen aan de definities van slimme lijstfilters.
+>Om ervoor te zorgen dat afgeleide veldwaarden actueel blijven, werken wij periodiek het gegevensbestand bij dat voor IP adresraadplegingen wordt gebruikt. Databaseupdates kunnen nieuwe afgeleide veldwaarden introduceren die u wellicht moet toevoegen aan de definities van slimme lijstfilters.
 >
 >Database-updates kunnen optreden tijdens een [Marketo Engage-productrelease](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. Wanneer er wel een update wordt uitgevoerd, wordt [Opmerkingen bij de release Marketo Engage](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} bevat een uitleg van eventuele wijzigingen in afgeleide veldwaarden.
 
