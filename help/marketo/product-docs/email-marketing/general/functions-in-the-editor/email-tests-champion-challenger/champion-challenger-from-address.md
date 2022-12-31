@@ -34,7 +34,7 @@ Wilt u een andere versie proberen dan Adres zonder problemen? Zo gaat het.
    >
    >Als u meer dan één ondervrager wilt, klikt u op het plusteken en voert u een andere naam en e-mail in.
 
-1. Sleep de schuifregelaar om het percentage te bepalen dat wordt verdeeld tussen mensen die e-mails ontvangen met de kampioen Van adres en personen die e-mails ontvangen met de uitdager Van adres(sen).
+1. Sleep de schuifregelaar om het percentage te bepalen dat moet worden verdeeld tussen mensen die e-mails ontvangen met de kampioen Van adres en personen die e-mails ontvangen met de uitdager Van adres(sen).
 
    ![](assets/image2014-9-15-12-3a53-3a1.png)
 

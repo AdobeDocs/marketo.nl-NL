@@ -5,7 +5,7 @@ title: Release-aantekeningen -juni 2012
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '667'
 ht-degree: 0%
 
 ---
