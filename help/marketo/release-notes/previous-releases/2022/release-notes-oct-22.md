@@ -1,9 +1,9 @@
 ---
 description: Opmerkingen bij de release - oktober 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - oktober 2022
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '634'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Aangepaste veldsynchronisatie voor programmalid**: Mogelijkheid om uitbreidbare velden die zijn vastgelegd voor een programmalid, bidirectioneel te synchroniseren (bijv. voorkeuren van deelnemers tijdens gebeurtenisregistratie, zoals voedsel, sessies, tracks, enz.)
+* **Aangepaste veldsynchronisatie voor programmalid**: Mogelijkheid om uitbreidbare velden die zijn vastgelegd voor een programmalid, bidirectioneel te synchroniseren (bijv. voorkeuren van deelnemers tijdens gebeurtenisregistratie, zoals voedsel, sessies, tracks, enz.) met Campagne Member Fields in Salesforce.
 
 <table> 
   <tr> 
