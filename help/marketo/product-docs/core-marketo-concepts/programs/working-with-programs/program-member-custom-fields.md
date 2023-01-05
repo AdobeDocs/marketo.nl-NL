@@ -3,9 +3,9 @@ unique-page-id: 37355569
 description: Aangepaste velden voor programmalid - Marketo Docs - Productdocumentatie
 title: Aangepaste velden voor programmalid
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
-source-git-commit: 56f429dabf19c4425c68b0dcd745621681a038ae
+source-git-commit: 10f7bf5b8b3fd91e98550ab281e5ddda87b1c30b
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Aangepaste velden voor programmalid {#program-member-custom-fields}
 
 Met aangepaste velden voor programmaleden kunt u programmaspecifieke gegevens voor elk lid verzamelen. Zij kunnen worden gebruikt in: Marketo-formulieren, slimme lijstfilters en -triggers en slimme-campagnestroomacties. De gegevens kunnen worden weergegeven op het tabblad Leden van het programma.
-
->[!NOTE]
->
->Aangepaste velden voor programmaleden zijn momenteel niet geïntegreerd met de velden Lid van de Salesforce-campagne.
 
 ## Een aangepast veld voor programmaleden maken {#create-a-program-member-custom-field}
 
@@ -67,6 +63,7 @@ U kunt deze programmaspecifieke gegevens in slimme lijsten gebruiken via [trigge
 
 * Aangepaste velden voor programmaleden zijn alleen beschikbaar in lokale middelen. Zij worden niet gesteund in de Studio van het Ontwerp omdat er geen manier is om het aan een specifiek programma te binden.
 * U kunt een formulier (of een landingspagina met een formulier) dat aangepaste velden voor programmaleden bevat, niet klonen of verplaatsen naar de Design Studio.
+* [U kunt synchroniseren](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;} De aangepaste velden voor programmalid met aangepaste velden voor campagnerelid.
 * Het programmalidobject kan maximaal 20 aangepaste velden hebben. Deze velden zijn beschikbaar voor elk programma.
 * Wanneer u een lid van een programma verwijdert, als zij om het even welke gegevens op hun de douanegebied van het Lid van het Programma hebben, zullen de gegevens van dat gebied worden geschaad.
 * Als u de gegevens wilt weergeven, klikt u op het tabblad Leden in het programma en maakt u een aangepaste weergave met de desbetreffende velden.
@@ -77,4 +74,7 @@ U kunt deze programmaspecifieke gegevens in slimme lijsten gebruiken via [trigge
 
 >[!MORELIKETHIS]
 >
->[Een aangepast veld maken in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>* [Een aangepast veld maken in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target=&quot;_blank&quot;}
+>
+>* [Aangepaste veldsynchronisatie voor programmalid](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target=&quot;_blank&quot;}
+
