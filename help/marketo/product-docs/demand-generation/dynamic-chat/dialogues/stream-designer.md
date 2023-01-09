@@ -2,9 +2,9 @@
 description: Stream Designer - Marketo Docs - Productdocumentatie
 title: Stream Designer
 exl-id: aa44c7a5-f81b-4029-a1a4-5439bea83847
-source-git-commit: e0f0a89076beaa1be0340e908a59459389b89baa
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '821'
+source-wordcount: '866'
 ht-degree: 0%
 
 ---
@@ -89,6 +89,10 @@ Rechtsboven in Stream Designer ziet u een handvol pictogrammen. Dit is wat ze do
 1. Geef onder Chatbot Response je vraag hoe je wilt.
 
    ![](assets/stream-designer-8.png)
+
+   >[!TIP]
+   >
+   >U kunt de ervaring voor bekende chatbezoekers personaliseren door tokens te gebruiken (bijvoorbeeld: Hallo `{{lead.leadFirstName:""}}`). Klik gewoon op het pictogram voor het accolade rechts en maak een selectie. Voeg een standaardwaarde tussen de quoates toe als u anonieme bezoekers iets soorts wilt zien (bijvoorbeeld: Hallo `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >

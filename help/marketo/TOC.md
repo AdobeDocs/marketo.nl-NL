@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo Guide
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 39eb451117a5f165ceccc0435db77aa22f1bfdcd
+source-git-commit: 24075208786077797f4917a2907b6dcfec7ed7bf
 workflow-type: tm+mt
-source-wordcount: '8813'
+source-wordcount: '8817'
 ht-degree: 0%
 
 ---
@@ -179,6 +179,7 @@ ht-degree: 0%
          + [Een gebruiker toevoegen of verwijderen](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [Aanmelden bij Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
       + Instellingen {#settings}
+         + [Bulkexport-API-informatie](product-docs/administration/settings/bulk-export-api-information.md)
          + [Kenmerkinstellingen wijzigen voor Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [Je Marketo-wachtwoord wijzigen](product-docs/administration/settings/change-your-marketo-password.md)
          + [Beveiligingsinstellingen voor wachtwoord wijzigen](product-docs/administration/settings/change-your-password-security-settings.md)
