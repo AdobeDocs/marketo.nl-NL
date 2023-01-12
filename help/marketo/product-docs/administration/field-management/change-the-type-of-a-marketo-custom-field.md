@@ -3,9 +3,9 @@ unique-page-id: 2360331
 description: Het type aangepast Marketo-veld wijzigen - Marketo Docs - Productdocumentatie
 title: Het type van een aangepast Marketo-veld wijzigen
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,21 @@ ht-degree: 0%
 
 Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
 
-1. Ga naar **Beheer** en klik op **Veldbeheer**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-18-13-3a4-3a39.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
+
+1. Klikken **Veldbeheer**.
+
+   ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
 1. Zoek en selecteer het gewenste veld.
 
-   ![](assets/image2014-9-18-13-3a4-3a48.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
 1. In de **Veldhandelingen** vervolgkeuzelijst, klikken **Type wijzigen**.
 
-   ![](assets/image2014-9-18-13-3a4-3a57.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
 1. Selecteer het nieuwe type.
 
@@ -32,11 +36,11 @@ Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
    >
    >Score- en formulevelden kunnen niet worden gewijzigd.
 
-   ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
 1. Lees de waarschuwing en klik vervolgens op **Wijzigen** ter bevestiging.
 
-   ![](assets/image2014-9-18-13-3a5-3a23.png)
+   ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 
    >[!NOTE]
    >

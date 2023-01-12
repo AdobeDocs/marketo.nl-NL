@@ -3,9 +3,9 @@ unique-page-id: 2360287
 description: Een aangepast veld maken in Marketo - Marketo Docs - Productdocumentatie
 title: Een aangepast veld maken in Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 Als u een nieuw aangepast veld in Marketo nodig hebt om gegevens op te slaan/vast te leggen, gaat u als volgt te werk:
 
-1. Ga naar Beheer en klik op **Veldbeheer**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-24-13-3a46-3a26.png)
+   ![](assets/create-a-custom-field-in-marketo-1.png)
+
+1. Klikken **Veldbeheer**.
+
+   ![](assets/create-a-custom-field-in-marketo-2.png)
 
    >[!TIP]
    >
@@ -24,7 +28,7 @@ Als u een nieuw aangepast veld in Marketo nodig hebt om gegevens op te slaan/vas
 
 1. Klikken **Nieuw aangepast veld**.
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-field-in-marketo-3.png)
 
 1. Kies het veldtype. Hiermee wijzigt u de weergave in slimme lijsten en formulieren in Marketo.
 
@@ -32,7 +36,7 @@ Als u een nieuw aangepast veld in Marketo nodig hebt om gegevens op te slaan/vas
    >
    >Kijk uit de [Woordenlijst Aangepaste veldtypen](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-   ![](assets/image2014-9-24-13-3a47-3a42.png)
+   ![](assets/create-a-custom-field-in-marketo-4.png)
 
 1. Voer de naam in zoals u deze wilt weergeven in Marketo. De API-naam wordt automatisch gegenereerd. U kunt deze aanpassen, maar u kunt de naam ervan niet wijzigen als u de set eenmaal hebt ingesteld. Klikken **Maken** wanneer gereed.
 
@@ -40,7 +44,7 @@ Als u een nieuw aangepast veld in Marketo nodig hebt om gegevens op te slaan/vas
 >
 >Veldnamen mogen niet met de volgende tekens beginnen: **. &amp; +[]**
 
-![](assets/image2014-9-24-13-3a48-3a26.png)
+![](assets/create-a-custom-field-in-marketo-5.png)
 
 >[!NOTE]
 >
