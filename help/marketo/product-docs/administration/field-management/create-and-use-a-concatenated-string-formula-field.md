@@ -3,9 +3,9 @@ unique-page-id: 2360337
 description: Een samengevoegd tekenreeksveld (Formule) maken en gebruiken - Marketo Docs - Productdocumentatie
 title: Een samengevoegd veld String (Formule) maken en gebruiken
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -14,29 +14,33 @@ ht-degree: 0%
 
 U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde maken met een veld met Marketo-formule.
 
-1. Ga naar **Beheer** en klik op **Veldbeheer**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-19-9-3a44-3a58.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
+
+1. Klikken **Veldbeheer**.
+
+   ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
 1. Klikken **Nieuw aangepast veld**.
 
-   ![](assets/image2014-9-19-9-3a45-3a8.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
 1. Selecteren **Formule** voor de **Type**.
 
-   ![](assets/image2014-9-19-9-3a45-3a17.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
 1. Voer een **Naam** voor uw veld klikt u op **Maken**.
 
-   ![](assets/image2014-9-19-9-3a46-3a0.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
 1. Zoek en selecteer het gewenste veld en klik op **Regels bewerken**.
 
-   ![](assets/image2014-9-19-9-3a46-3a13.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
 1. Voeg twee keuzen toe en definieer deze zoals in de onderstaande schermafbeelding.
 
-   ![](assets/image2014-9-19-9-3a46-3a25.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-7.png)
 
    >[!TIP]
    >
@@ -44,7 +48,7 @@ U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde make
 
 1. Nu kunt u het formules gebied als teken in een e-mail toevoegen.
 
-   ![](assets/seven.png)
+   ![](assets/create-and-use-a-concatenated-string-formula-field-8.png)
 
 >[!NOTE]
 >

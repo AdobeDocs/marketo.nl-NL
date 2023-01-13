@@ -3,9 +3,9 @@ unique-page-id: 2360333
 description: Een veld verbergen en verbergen - Marketo Docs - Productdocumentatie
 title: Een veld verbergen en verbergen opheffen
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -20,13 +20,17 @@ Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruik
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar **Beheer** en klik op **Veldbeheer**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-18-13-3a10-3a3.png)
+   ![](assets/hide-and-unhide-a-field-1.png)
+
+1. Klikken **Veldbeheer**.
+
+   ![](assets/hide-and-unhide-a-field-2.png)
 
 1. Zoek het veld, selecteer het vervolgens onder **Veldhandelingen** klikken **Veld verbergen**.
 
-   ![](assets/fieldmanagement-hidefield-.png)
+   ![](assets/hide-and-unhide-a-field-3.png)
 
    >[!NOTE]
    >
@@ -34,21 +38,25 @@ Als u een veld in Marketo niet meer gebruikt, kunt u het verbergen in de gebruik
 
 1. Klikken **Verbergen** ter bevestiging.
 
-   ![](assets/image2014-9-18-13-3a10-3a36.png)
+   ![](assets/hide-and-unhide-a-field-4.png)
 
    Mooi werk! Nu weet u hoe u een veld kunt verbergen in de gebruikersinterface van Marketo.
 
-   ![](assets/image2014-9-18-13-3a10-3a45.png)
+   ![](assets/hide-and-unhide-a-field-5.png)
 
 ## De verbergen van een veld ongedaan maken {#unhide-a-field}
 
-1. Ga naar **Beheer** en klik op **Veldbeheer**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-18-13-3a11-3a3.png)
+   ![](assets/hide-and-unhide-a-field-6.png)
+
+1. Klikken **Veldbeheer**.
+
+   ![](assets/hide-and-unhide-a-field-7.png)
 
 1. Het veld zoeken en selecteren. Klik in de vervolgkeuzelijst Veldhandelingen op **Veld verbergen**.
 
-   ![](assets/image2014-9-18-13-3a11-3a46.png)
+   ![](assets/hide-and-unhide-a-field-8.png)
 
    Geweldig werk! Nu weet u hoe u de velden kunt verbergen en weer zichtbaar kunt maken in de gebruikersinterface van Marketo.
 
