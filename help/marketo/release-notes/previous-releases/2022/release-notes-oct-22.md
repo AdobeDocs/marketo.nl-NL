@@ -1,10 +1,10 @@
 ---
 description: Opmerkingen bij de release - oktober 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - oktober 2022
-source-git-commit: ea0512aedc41694dfd12801a45a1969a7561debc
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '634'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -172,20 +172,6 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 </table>
 
 * **Aanvullende gegevenstypen voor Dynamic Chat ondersteunen**: Met drie nieuwe gegevenstypen (boolean, integer, float) kunt u meer bestaande Marketo Engage-velden in Dynamic Chat benutten voor bijvoorbeeld het maken van doelen op basis van scores of het stellen van ja/nee-vragen aan bezoekers.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td>n.v.t.</td>
-  </tr>
-  </tbody>
-</table>
-
-* **Geplande vergaderingmeldingen voor dynamische chat**: De vertegenwoordigers van de verkoop krijgen geautomatiseerde e-mailberichten betreffende geplande vergaderingen evenals om het even welke relevante informatie over de interactie van de bezoeker van het praatje.
 
 <table> 
   <tr> 

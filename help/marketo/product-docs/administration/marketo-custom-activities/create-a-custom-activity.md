@@ -3,9 +3,9 @@ unique-page-id: 10098479
 description: Een aangepaste activiteit maken - Marketo Docs - Productdocumentatie
 title: Een aangepaste activiteit maken
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ Ga als volgt te werk om een nieuwe aangepaste activiteit te maken.
 >
 >De meeste abonnementen hebben een toegewezen grens van 10 types van Activiteit van de Douane.
 
-1. Klikken **Beheer**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/one.png)
+   ![](assets/create-a-custom-activity-1.png)
 
-1. In **Databasebeheer** klikken **Aangepaste activiteiten**.
+1. Klikken **Aangepaste Marketo-activiteiten**.
 
-   ![](assets/two.png)
+   ![](assets/create-a-custom-activity-2.png)
 
 1. Klikken **Nieuwe aangepaste activiteit**.
 
-   ![](assets/three.png)
+   ![](assets/create-a-custom-activity-3.png)
 
 1. Voer een naam en een optionele beschrijving in en klik vervolgens op **Volgende**. De API-naam wordt automatisch ingevuld, maar kan worden aangepast.
 
-   ![](assets/four.png)
+   ![](assets/create-a-custom-activity-4.png)
 
    >[!CAUTION]
    >
@@ -40,13 +40,11 @@ Ga als volgt te werk om een nieuwe aangepaste activiteit te maken.
 
 1. Definieer uw **Filter** en **Trigger** en klik op **Volgende**.
 
-   ![](assets/five.png)
+   ![](assets/create-a-custom-activity-5.png)
 
 1. Geef uw primaire veld een naam die een overzicht geeft van de aangepaste activiteit.
 
-   ![](assets/six.png)
-
-   En dat is het!
+   ![](assets/create-a-custom-activity-6.png)
 
 >[!MORELIKETHIS]
 >

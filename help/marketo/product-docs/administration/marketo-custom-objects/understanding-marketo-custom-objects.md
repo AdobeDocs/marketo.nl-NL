@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Marketo Custom Objects - Marketo Docs - Productdocumentatie
 title: Aangepaste Marketo-objecten begrijpen
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 6f17d79344653d1b2c364753d774998e343c9808
+source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -42,15 +42,21 @@ Vele-aan-vele douanevoorwerpen gebruiken twee verbindingsgebieden, deel van een 
 
 ## Aangepaste Marketo-objecten openen {#accessing-marketo-custom-objects}
 
-1. Als u aangepaste Marketo-objecten wilt maken of bewerken, klikt u op **Beheer** en vervolgens de **Aangepaste Marketo-objecten** koppeling.
+1. Ga naar de **Beheer** gebied.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. In de weergave Aangepaste objecten van Marketo worden al uw aangepaste objecten rechts weergegeven, maar alleen de goedgekeurde objecten in het hoofdraster.
+1. Klikken **Aangepaste Marketo-objecten**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
-1. In het raster worden de naam van het object, het aantal records, het aantal velden en de datum van de meest recente update weergegeven.
+1. In de weergave Aangepaste objecten van Marketo worden al uw aangepaste objecten rechts weergegeven, maar alleen de goedgekeurde objecten in het hoofdraster.
+
+   ![](assets/understanding-marketo-custom-objects-3.png)
+
+   >[!NOTE]
+   >
+   >In het raster worden de naam van het object, het aantal records, het aantal velden en de datum van de meest recente update weergegeven.
 
    >[!TIP]
    >
@@ -58,7 +64,7 @@ Vele-aan-vele douanevoorwerpen gebruiken twee verbindingsgebieden, deel van een 
 
 1. Klik op de naam van het object aan de rechterkant om de detailpagina te openen.
 
-   ![](assets/understanding-marketo-custom-objects-3.png)
+   ![](assets/understanding-marketo-custom-objects-4.png)
 
 ## Aangepaste objecten weergeven die zijn gekoppeld aan een persoon {#view-custom-objects-associated-to-a-person}
 
@@ -66,19 +72,19 @@ Nadat u de structuur van het douanevoorwerp hebt gecreeerd, wanneer u de specifi
 
 1. Ga naar **Database**.
 
-   ![](assets/understanding-marketo-custom-objects-4.png)
+   ![](assets/understanding-marketo-custom-objects-5.png)
 
 1. Open uw database en klik op de knop **Mensen** tab. Dubbelklik op de record voor een persoon die u aan een aangepast object hebt gekoppeld.
 
-   ![](assets/understanding-marketo-custom-objects-5.png)
+   ![](assets/understanding-marketo-custom-objects-6.png)
 
 1. Klik op de pagina met persoonlijke details op de knop **Aangepaste objecten** tab. Selecteer het object in de vervolgkeuzelijst.
 
-   ![](assets/understanding-marketo-custom-objects-6.png)
+   ![](assets/understanding-marketo-custom-objects-7.png)
 
 1. Nu kunt u een lijst weergeven van alle aangepaste objecten van dat type die aan die persoon zijn gekoppeld.
 
-   ![](assets/understanding-marketo-custom-objects-7.png)
+   ![](assets/understanding-marketo-custom-objects-8.png)
 
 ## Aangepaste objecten gebruiken met bedrijven {#using-custom-objects-with-companies}
 
