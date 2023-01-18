@@ -1,10 +1,10 @@
 ---
 description: Opmerkingen bij de release - oktober 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - oktober 2022
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '600'
+ht-degree: 1%
 
 ---
 
@@ -179,7 +179,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
    <td>n.v.t.</td>
   </tr>
   </tbody>
