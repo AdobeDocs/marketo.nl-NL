@@ -3,9 +3,9 @@ unique-page-id: 10094188
 description: Een aangepast object goedkeuren - Marketo Docs - Productdocumentatie
 title: Een aangepast object goedkeuren
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,25 @@ U moet een aangepast object goedkeuren voordat u het kunt gebruiken. Het proces 
 
 U hebt een gloednieuw aangepast object gemaakt. Hier is hoe je het goedkeurt.
 
-1. Klik in Beheer op **Aangepaste Marketo-objecten** en selecteer een object in de status Concept.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/one.png)
+   ![](assets/approve-a-custom-object-1.png)
+
+1. Klikken **Aangepaste Marketo-objecten**.
+
+   ![](assets/approve-a-custom-object-2.png)
+
+1. Selecteer een object in de status Concept.
+
+   ![](assets/approve-a-custom-object-3.png)
 
 1. Klik op de knop **Handelingen voor aangepaste objecten** vervolgkeuzelijst en selecteer **Object goedkeuren**.
 
-   ![](assets/two.png)
+   ![](assets/approve-a-custom-object-4.png)
 
 1. De status verandert in Goedgekeurd.
 
-   ![](assets/three.png)
+   ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
@@ -48,12 +56,12 @@ Nadat u een goedgekeurd aangepast object hebt bewerkt, moet u het concept goedke
 
 1. Wanneer u een reeds goedgekeurd douanevoorwerp uitgeeft, ontvangt het een Goedgekeurd met de staat van het Ontwerp.
 
-   ![](assets/four.png)
+   ![](assets/approve-a-custom-object-6.png)
 
 1. Als u klaar bent om het concept goed te keuren, klikt u op de knop **Handelingen voor aangepaste objecten** vervolgkeuzelijst en selecteer **Object goedkeuren**.
 
-   ![](assets/five-1.png)
+   ![](assets/approve-a-custom-object-7.png)
 
 1. In een voorvertoning worden de gewijzigde items in het concept weergegeven. Klikken **Goedkeuren**.
 
-   ![](assets/six-1.png)
+   ![](assets/approve-a-custom-object-8.png)
