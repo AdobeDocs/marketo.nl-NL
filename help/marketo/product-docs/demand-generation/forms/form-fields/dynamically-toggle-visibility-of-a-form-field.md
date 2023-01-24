@@ -3,9 +3,9 @@ unique-page-id: 2949962
 description: Zichtbaarheid van een formulierveld dynamisch in-/uitschakelen - Marketo Docs - Productdocumentatie
 title: De zichtbaarheid van een formulierveld dynamisch in-/uitschakelen
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 0aa754bb3fb9057aaec87dc41743711fb15f8d62
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -66,3 +66,9 @@ Een heel leuke functie van Marketo-formulieren is dat u formuliervelden dynamisc
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
 En dat is het! Wanneer mensen dit formulier nu invullen en Verenigde Staten voor land selecteren, wordt het veld Staat dynamisch weergegeven met de opgegeven opties.
+
+>[!IMPORTANT]
+>
+>Het gedrag van formuliervelden werkt naadloos wanneer veldwaarden worden ingesteld/bijgewerkt met behulp van een aangepast script [API-functies](https://developers.marketo.com/javascript-api/forms/){target="_blank"} in Forms 2.0.
+>
+>Voorwaardelijke velden werken mogelijk niet zoals verwacht als veldwaarden worden gewijzigd door andere externe scripts dan de JavaScript-API van Forms 2.0.
