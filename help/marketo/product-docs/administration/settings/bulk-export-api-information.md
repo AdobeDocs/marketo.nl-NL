@@ -1,18 +1,16 @@
 ---
 description: Bulkexport-API-informatie - Marketo Docs - Productdocumentatie
 title: Bulkexport-API-informatie
-hide: true
-hidefromtoc: true
-source-git-commit: 6cee35eaa7eaf1a55188720a0d11d4ae0059c223
+source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
 # Bulkexport-API-informatie {#bulk-export-api-information}
 
-Leer hoe u kunt controleren hoeveel [Bulkextractie-API](https://developers.marketo.com/rest-api/bulk-extract/){target=&quot;_blank&quot;} capaciteit is de afgelopen zeven dagen door uw Marketo Engage-instantie opgenomen.
+Leer hoe u kunt controleren hoeveel [Bulkextractie-API](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} de laatste zeven dagen heeft uw instantie van de Marketo Engage de capaciteit opgenomen.
 
 >[!NOTE]
 >
