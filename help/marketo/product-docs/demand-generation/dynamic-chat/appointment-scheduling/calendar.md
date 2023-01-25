@@ -2,9 +2,9 @@
 description: Kalender - Marketo-documenten - Productdocumentatie
 title: Kalender
 exl-id: 351241e4-15b3-4547-83fe-a8ec1d89c1b0
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -20,3 +20,7 @@ Zodra de kalender van een gebruiker met Dynamisch Praatje wordt verbonden, zulle
 De gebruikers kunnen het lichaam van de uitnodiging ook aanpassen die naar de bezoeker wordt verzonden wanneer zij een benoeming op de kalender van de gebruiker plannen. Ze kunnen ook het selectievakje onderaan inschakelen om een koppeling naar Google Meet of Microsoft Teams op te nemen (afhankelijk van de kalender die is verbonden).
 
 ![](assets/calendar-2.png)
+
+>[!TIP]
+>
+>Gebruik het symbolische pictogram (krullende steunen) om uw vergadering te personaliseren die bevestigings e-mails gebruikend persoon of bedrijfattributen.

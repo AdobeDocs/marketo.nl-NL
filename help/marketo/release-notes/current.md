@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
+source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '597'
 ht-degree: 1%
 
 ---
@@ -126,8 +126,8 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td>n.v.t.</td>
   </tr>
   </tbody>
 </table>
@@ -140,8 +140,8 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Kalender</a></td>
   </tr>
   </tbody>
 </table>
@@ -168,8 +168,8 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td>n.v.t.</td>
   </tr>
   </tbody>
 </table>
@@ -182,8 +182,8 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Vergaderingen</a></td>
   </tr>
   </tbody>
 </table>
