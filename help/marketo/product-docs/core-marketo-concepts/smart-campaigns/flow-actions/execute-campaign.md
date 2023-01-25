@@ -2,9 +2,9 @@
 description: Campagne uitvoeren - Marketo Docs - Productdocumentatie
 title: Campagne uitvoeren
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: 3b2bd965e37779af3ee89f46e04f925a2f12f207
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '708'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Er zijn veel dingen die je kunt doen met een uitvoerbare campagne. Zij worden on
 
 U kunt ze ook gebruiken wanneer u een aparte flow moet uitvoeren, maar u moet afhangen van de resultaten van die flow in de volgende keuzemogelijkheden voor de stap Stroom (als dit het geval is, moet u dat doen).
 
-Campagne uitvoeren is een verbetering van [Campagne aanvragen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), aangezien het in serie of parallel kan lopen, terwijl het laatste alleen parallel loopt.
+Campagne uitvoeren is een verbetering van [Campagne aanvragen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), aangezien het in serie kan lopen, terwijl het laatstgenoemde slechts parallel loopt.
 
 >[!NOTE]
 >

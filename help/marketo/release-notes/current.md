@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 9705e47415edbdeb19cc0e0b78ddcb4723301f20
+source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '603'
 ht-degree: 1%
 
 ---
@@ -190,4 +190,4 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 **_Webinar productrelease_**
 
-Wilt u meer weten over deze functies en verbeteringen? Zorg ervoor dat u [nu registreren](https://engage.marketo.com/2023_January_Release_Webinar_RegistrationPage.html) om op 24 januari om 9:00 uur PT / 12:00 PM ET bij ons te komen voor een live webinar met ons productteam om deze innovaties dieper te bestuderen.
+[Oktober 2022 en Januari 2023 de Versie Webinar van de Marketo Engage](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
