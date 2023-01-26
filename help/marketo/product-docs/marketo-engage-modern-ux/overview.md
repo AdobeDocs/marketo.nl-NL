@@ -2,9 +2,9 @@
 description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
+source-git-commit: d019a6a4aa3f246ba330b527f0f0719d99565006
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -208,4 +208,4 @@ Kijk eens naar de nieuwe Global Nav.
 >
 >Het gebruiken van het onderzoek in de boom zal slechts resultaten van de sectie opleveren u in bent (b.v., de Activiteiten van de Marketing). Gebruik de algemene zoekopdracht als u de hele zoekopdracht wilt doorzoeken.
 
-Geniet van de nieuwe Marketo Engage-ervaring en deel uw feedback!
+Geniet van de nieuwe Marketo Engage-beleving!
