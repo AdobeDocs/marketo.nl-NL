@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '632'
 ht-degree: 1%
 
 ---
@@ -188,6 +188,8 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-**_Webinar productrelease_**
+## Aankondigingen {#announcements}
 
-[Oktober 2022 en Januari 2023 de Versie Webinar van de Marketo Engage](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **Wijziging van Marketo REST API**: Met de release van oktober 2022 hebben we een kleine wijziging aangebracht in het Marketo REST API-responsbericht. Zie deze [Marketo Nation-post](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} voor meer informatie.
+
+* **_Webinar productrelease_**: [Oktober 2022 en Januari 2023 de Versie Webinar van de Marketo Engage](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
