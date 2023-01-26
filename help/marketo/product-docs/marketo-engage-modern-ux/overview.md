@@ -2,10 +2,10 @@
 description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: ec34ef18e6cbfe808b8a3268783a1b8cda5341b0
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 1%
+source-wordcount: '486'
+ht-degree: 0%
 
 ---
 
@@ -30,8 +30,6 @@ Bij de eerste aanmelding wordt een pop-up weergegeven die u de nieuwe ervaring k
 
 De tour leidt je door alles wat je moet weten!
 
-![](assets/overview-2.png)
-
 ## Nieuwe functies {#whats-new}
 
 Er is veel nieuwe functionaliteit in de Moderne UX, die allen wordt ontworpen om uw marketing ervaring beduidend te verbeteren.
@@ -40,7 +38,7 @@ Er is veel nieuwe functionaliteit in de Moderne UX, die allen wordt ontworpen om
 
 De nieuwe interfaceeigenschappen verbeteren en breidden iconografie uit. Meer informatie hierover vindt u hier: [Woordenlijst met pictogrammen](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
-![](assets/overview-new-icons.png)
+![](assets/overview-2.png)
 
 **Algemene navigatie**
 
@@ -191,15 +189,12 @@ Kijk eens naar de nieuwe Global Nav.
    <td>Alle vorige superbalkobjecten weergegeven</td> 
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Op deze manier kun je feedback geven over je ervaring</td> 
-  </tr>
   <tr>
-   <td>4</td> 
+   <td>3</td> 
    <td>Als u meerdere abonnementen hebt, klikt u op de subnaam om gemakkelijk over te schakelen naar een andere naam</td> 
   </tr>
   <tr>
-   <td>5</td> 
+   <td>4</td> 
    <td>Globale zoekopdracht - u kunt nu uw volledige exemplaar van hier zoeken</td> 
   </tr>
  </tbody>
