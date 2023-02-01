@@ -2,9 +2,9 @@
 description: Opmerkingen bij de huidige release - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 993e81791edcbaf7e8a99d78e9f97cb0400741a2
+source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '631'
 ht-degree: 1%
 
 ---
@@ -36,8 +36,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Schakelaar schakelen</a></td>
   </tr>
   </tbody>
 </table>
@@ -74,11 +74,11 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tbody>
 </table>
 
-### Marketo Meetlat {#marketo-measure}
+### Marketo Measure {#marketo-measure}
 
 </br>
 
-* **Marketo Meetlat Ultimate**: Maakt volledige B2B-toewijzing mogelijk voor ondernemingen met meerdere CRM- en/of Marketo Engage-instanties en uiteenlopende gegevensbehoeften. Het biedt ook een B2B-attributieoplossing voor Adobe RT-CDP via gedeelde AEP-gegevens.
+* **Marketo Measure Ultimate**: Maakt volledige B2B-toewijzing mogelijk voor ondernemingen met meerdere CRM- en/of Marketo Engage-instanties en uiteenlopende gegevensbehoeften. Het biedt ook een B2B-attributieoplossing voor Adobe RT-CDP via gedeelde AEP-gegevens.
 
 <table> 
   <tr> 
