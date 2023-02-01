@@ -2,7 +2,7 @@
 description: Schakelen tussen Marketo-documenten - productdocumentatie
 title: Schakelaar schakelen
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
-source-git-commit: 597c3df7beacafec02994f2fba96f0544822a657
+source-git-commit: f7e685b5386cddde508382d6598a63855bfd6cbf
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Selecteren **Inschakelen voor alle beschikbare functies** en klik op **OK**.
 
 ## Beschikbare functies {#available-features}
 
-De volgende eigenschappen zijn momenteel beschikbaar in Modern UX (met nieuwe eigenschappen toegevoegd elke Versie):
+De volgende functies zijn momenteel beschikbaar in de Moderne UX (waarbij elke versie nieuwe functies toevoegt):
 
 * E-maildetails weergeven
 * E-maillijstweergave
