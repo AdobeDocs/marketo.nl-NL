@@ -1,17 +1,17 @@
 ---
 audience: end-user
-user-guide-title: Marketo Guide
+user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+source-git-commit: 3cc2fbff42aec23a96ccb09b3c14a90c7e8d39b9
 workflow-type: tm+mt
-source-wordcount: '8833'
+source-wordcount: '8827'
 ht-degree: 0%
 
 ---
 
 
-# Marketo Guide {#using}
+# Gids Marketo {#using}
 
 + [Home](home.md)
 + Aan de slag met Marketo {#getting-started-with-marketo}
@@ -1675,7 +1675,6 @@ ht-degree: 0%
          + [Instellingen voor prestatie-inzichten](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [Overzicht van trends voor prestaties](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [Prestatie-inzichten instellen](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
-         + [Aangepaste velden synchroniseren met prestatieinzicht](product-docs/reporting/performance-insights/sync-custom-fields-to-performance-insights.md)
       + Analyse van inkomstencyclus {#revenue-cycle-analytics}
          + E-mailanalyse {#email-analysis}
             + [Een e-mailanalyserapport maken waarin de leads worden vermeld](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
@@ -1870,7 +1869,7 @@ ht-degree: 0%
          + [Webcampagnes sorteren op nieuwste of meest presterende](product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)
          + [Het gebruiken van de Redacteur van de Tekst van de Personalisatie Rich](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
          + [Webcampagnes weergeven op basis van een specifiek label](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
-+ Opmerkingen bij de release {#release-notes}
++ Aanvullende informatie {#release-notes}
    + [Releaseplanning](release-notes/release-schedule.md)
    + [Huidige versie](release-notes/current.md)
    + Eerdere releases {#previous-releases}
