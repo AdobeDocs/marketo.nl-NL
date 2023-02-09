@@ -3,9 +3,9 @@ unique-page-id: 11378814
 description: Slimme accountlijsten - Marketo Docs - Productdocumentatie
 title: Slimme accountlijsten
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: e4d581ab258a875747a6d5323764e8b4a3949cba
+source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,10 @@ De slimme Lijsten van de rekening werken zo gelijkaardig aan standaard Slimme Li
    ![](assets/account-smart-lists-7.png)
 
    ![](assets/account-smart-lists-8.png)
+
+   >[!NOTE]
+   >
+   >ICP-indicatorgegevens die in uw [Volgorde en afstemming van accountprofielen](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) worden weergegeven als aangepaste accountkenmerken voor gebruik in uw slimme lijst met accounts. Deze aangepaste kenmerkgegevens zijn gebaseerd op de datum waarop het accountprofielmodel is gemaakt/bijgewerkt.
 
 1. Kies uw filter(s) voor overeenstemmende personen. In dit voorbeeld kiezen we _Staat is Californië_.
 
