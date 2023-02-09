@@ -1,7 +1,7 @@
 ---
 description: Campagne Inspector - Marketo Docs - Productdocumentatie
 title: Campagnecontrole
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 Met de Campagnecontrole kunt u al uw slimme campagnes op één locatie bekijken of doorzoeken.
 
-## Campagnecontrole activeren {#activate-campaign-inspector}
+## Campagnecontrole inschakelen {#enable-campaign-inspector}
 
 1. Ga naar de **Beheer** gebied.
 
