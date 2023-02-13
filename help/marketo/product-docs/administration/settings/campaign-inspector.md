@@ -1,9 +1,9 @@
 ---
 description: Campagne Inspector - Marketo Docs - Productdocumentatie
 title: Campagnecontrole
-source-git-commit: 64ace065c7505b0b5fbe230678345fff92e078e1
+source-git-commit: beeba258be336d33cc30a6938e626d703cd409c6
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,10 @@ Met de Campagnecontrole kunt u al uw slimme campagnes op één locatie bekijken 
 1. Selecteer **Ingeschakeld** selectievakje en klik op **Opslaan**.
 
    ![](assets/campaign-inspector-4.png)
+
+   >[!NOTE]
+   >
+   >De gewenste werkruimte moet in de structuur worden geselecteerd om het lusje van de Inspecteur van de Campagne te zien nadat het is toegelaten.
 
 ## Campagnecontrole gebruiken {#using-campaign-inspector}
 
