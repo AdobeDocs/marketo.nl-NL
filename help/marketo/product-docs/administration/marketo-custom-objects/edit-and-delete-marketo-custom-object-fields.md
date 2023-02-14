@@ -3,7 +3,7 @@ unique-page-id: 10095453
 description: Marketo Custom Object Fields bewerken en verwijderen - Marketo Docs - Productdocumentatie
 title: Aangepaste Marketo-objectvelden bewerken en verwijderen
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -18,15 +18,15 @@ Soms moet u een veld bewerken dat nog niet is goedgekeurd.
 
 1. Klik op een aangepast object en het veld dat u wilt bewerken.
 
-   ![](assets/image2015-10-2-10-3a55-3a1.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
 1. Klik op het tabblad Velden op **Veldhandelingen** en **Veld bewerken**.
 
-   ![](assets/image2015-10-2-10-3a53-3a26.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
 1. Breng uw veranderingen aan en klik **Opslaan**.
 
-   ![](assets/image2015-10-2-10-3a58-3a56.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
    >[!NOTE]
    >
@@ -34,7 +34,7 @@ Soms moet u een veld bewerken dat nog niet is goedgekeurd.
 
 1. De wijzigingen worden weergegeven in de lijst Velden.
 
-   ![](assets/image2015-10-2-11-3a1-3a13.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-4.png)
 
 ## Een veld verwijderen {#delete-a-field}
 
@@ -42,15 +42,15 @@ Wanneer u geen gebied in een douanevoorwerp meer nodig hebt, kunt u het schrappe
 
 1. Klik op het tabblad Velden op **Veldhandelingen** en **Veld verwijderen**.
 
-   ![](assets/image2015-10-2-11-3a11-3a20.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
    Zorg ervoor dat u het veld echt wilt verwijderen voordat u de trigger trekt! Klikken **Verwijderen**.
 
-   ![](assets/image2015-10-2-11-3a14-3a5.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
    Het is weg!
 
-   ![](assets/image2015-10-2-11-3a15-3a48.png)
+   ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 
    >[!NOTE]
    >

@@ -3,9 +3,9 @@ unique-page-id: 10093690
 description: Een aangepast Marketo-object bewerken en verwijderen - Marketo Docs - Productdocumentatie
 title: Een aangepast Marketo-object bewerken en verwijderen
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
-source-git-commit: 8f02503736ba1def4b2f4df79118eeb352b212a0
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,25 @@ ht-degree: 0%
 
 Met het menu Acties voor aangepaste objecten kunt u een aangepast object bewerken of verwijderen.
 
-1. Klikken **Beheer**, en in **Databasebeheer**, selecteert u **Aangepaste Marketo-objecten**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2016-1-18-13-3a31-3a51.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
+
+1. Klikken **Aangepaste Marketo-objecten**.
+
+   ![](assets/edit-and-delete-a-marketo-custom-object-2.png)
 
 1. Selecteer aan de rechterkant het aangepaste object dat u wilt bewerken.
 
-   ![](assets/image2016-1-18-13-3a33-3a11.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-3.png)
 
 1. Klik op de knop **Handelingen voor aangepaste objecten** en klik op **Object bewerken**.
 
-   ![](assets/image2015-9-23-11-3a37-3a44.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
 1. Breng de gewenste wijzigingen aan. Sleep de schuifregelaar om het object weer te geven op de pagina Details lead. Klikken **Opslaan**.
 
-   ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
 1. Zorg ervoor dat u [het bewerkte object](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
@@ -46,17 +50,21 @@ Het is gemakkelijk om een douanevoorwerp te schrappen, maar u moet voorzichtig z
 >
 >U kunt een aangepast object niet meer herstellen nadat u het hebt verwijderd.
 
-1. Klikken **Beheer**, en in **Databasebeheer**, selecteert u **Aangepaste Marketo-objecten**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2016-1-18-13-3a36-3a0.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
+
+1. Klikken **Aangepaste Marketo-objecten**.
+
+   ![](assets/edit-and-delete-a-marketo-custom-object-7.png)
 
 1. Selecteer het object dat u wilt verwijderen.
 
-   ![](assets/image2015-9-23-16-3a29-3a5.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-8.png)
 
 1. Klikken **Handelingen voor aangepaste objecten** en selecteert u **Object verwijderen**.
 
-   ![](assets/image2015-9-23-11-3a39-3a5.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-9.png)
 
    >[!TIP]
    >
@@ -64,11 +72,11 @@ Het is gemakkelijk om een douanevoorwerp te schrappen, maar u moet voorzichtig z
 
 1. Als het aangepaste object een conceptversie heeft en nog niet is goedgekeurd, wordt deze waarschuwing weergegeven. Als u zeker bent, klikt u op **Verwijderen**.
 
-   ![](assets/image2015-9-23-16-3a31-3a2.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
 1. Als het aangepaste object al is goedgekeurd, is er een groter risico als u het verwijdert. Je krijgt een sternerlijke waarschuwing. Enter **Ik begrijp**, controleert u de **Ongedaan maken is niet mogelijk** selectievakje en klik op **Verwijderen**.
 
-   ![](assets/image2016-1-15-9-3a49-3a38.png)
+   ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 
    >[!NOTE]
    >

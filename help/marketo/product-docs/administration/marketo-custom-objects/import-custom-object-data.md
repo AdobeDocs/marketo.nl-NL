@@ -3,7 +3,7 @@ unique-page-id: 10099680
 description: Aangepaste objectgegevens importeren - Marketo Docs - Productdocumentatie
 title: Aangepaste objectgegevens importeren
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -16,23 +16,23 @@ Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren
 
 1. Ga in Mijn Marketo naar **Database**.
 
-   ![](assets/db-1.png)
+   ![](assets/import-custom-object-data-1.png)
 
 1. Klikken **Nieuw** en selecteert u **Aangepaste objectgegevens importeren**.
 
-   ![](assets/image2016-4-7-10-6-54.png)
+   ![](assets/import-custom-object-data-2.png)
 
 1. Klikken **Bladeren** om het gegevensbestand te zoeken. Selecteer de bestandsindeling (door komma&#39;s gescheiden waarden in dit voorbeeld).
 
-   ![](assets/image2016-4-13-14-3a21-3a53.png)
+   ![](assets/import-custom-object-data-3.png)
 
 1. Selecteer het aangepaste object.
 
-   ![](assets/image2016-4-13-14-3a24-3a54.png)
+   ![](assets/import-custom-object-data-4.png)
 
 1. Selecteer de deduplicatiemodus in het keuzemenu. Klikken **Volgende**.
 
-   ![](assets/image2016-4-13-14-3a28-3a7.png)
+   ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
@@ -40,7 +40,7 @@ Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren
 
 1. Wijs elke kolom aan een gebied van Marketo toe, dat het van drop-down selecteert.
 
-   ![](assets/image2016-4-13-14-3a36-3a57.png)
+   ![](assets/import-custom-object-data-6.png)
 
    >[!NOTE]
    >
@@ -48,11 +48,11 @@ Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren
 
 1. Klikken **Volgende**.
 
-   ![](assets/image2016-4-13-14-3a38-3a41.png)
+   ![](assets/import-custom-object-data-7.png)
 
 1. Klikken **Importeren**.
 
-   ![](assets/image2016-4-7-13-3a15-3a9.png)
+   ![](assets/import-custom-object-data-8.png)
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ Het is gemakkelijk om douaneobjecten gegevens in uw gegevensbestand in te voeren
 
 1. In de rechterbovenhoek van het scherm ziet u een melding als het importeren wordt uitgevoerd en ziet u de uiteindelijke resultaten als het is voltooid.
 
-   ![](assets/image2016-4-13-14-3a41-3a1.png)
+   ![](assets/import-custom-object-data-9.png)
 
    Yay!
 

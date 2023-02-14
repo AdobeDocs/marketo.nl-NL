@@ -3,9 +3,9 @@ unique-page-id: 10093192
 description: Aangepaste Marketo-objecten maken - Marketo Docs - Productdocumentatie
 title: Aangepaste Marketo-objecten maken
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '704'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,17 @@ Gebruik aangepaste objecten in Marketo om metrische gegevens bij te houden die s
 
 In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur van één op vele. Later maakt u een aangepast cursusobject en een tussenliggend object voor gebruik in een veel-op-veel-structuur.
 
-1. Klikken **Beheer**, en in **Databasebeheer** selecteren **Aangepaste Marketo-objecten**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2016-1-18-13-3a12-3a19.png)
+   ![](assets/create-marketo-custom-objects-1.png)
+
+1. Klikken **Aangepaste Marketo-objecten**.
+
+   ![](assets/create-marketo-custom-objects-2.png)
 
 1. Klikken **Nieuw aangepast object**.
 
-   ![](assets/image2016-5-18-16-3a28-3a4.png)
+   ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
@@ -40,19 +44,19 @@ In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur v
 
 1. Voer een weergavenaam in. De API-naam en de meervoudige naam worden automatisch ingevuld. Voer een beschrijving in (optioneel).
 
-   ![](assets/image2015-9-15-16-3a29-3a17.png)
+   ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
    >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Meerdere namen en het dialoogvenster **Tonen in gegevens over lead** schuifregelaar.
 
-1. Trek de **Tonen in gegevens over lead** schuifregelaar om weer te geven **Tonen** als u aangepaste objectgegevens wilt weergeven op de pagina Database lead. Klikken **Opslaan**.
+1. Trek de **Tonen in gegevens over lead** schuifregelaar om weer te geven **Tonen** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klikken **Opslaan**.
 
-   ![](assets/image2015-9-15-16-3a32-3a2.png)
+   ![](assets/create-marketo-custom-objects-5.png)
 
 1. De informatie over aangepaste objecten geeft de inhoud weer die u hebt ingevoerd. Let op: het staat in het concept.
 
-   ![](assets/image2015-9-15-16-3a38-3a22.png)
+   ![](assets/create-marketo-custom-objects-6.png)
 
    De volgende stap bestaat uit het toevoegen van velden aan [een aangepast object maken](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md).
 
@@ -68,29 +72,33 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 >
 >Voor een veel-aan-vele verhouding, te hoeven u om geen verbinding in het douanevoorwerp tot stand te brengen. In plaats daarvan voegt u twee koppelingen toe aan het intermediaire object (zie hieronder).
 
-1. Klikken **Beheer**, en in **Databasebeheer** selecteren **Aangepaste Marketo-objecten**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2016-1-18-13-3a16-3a25.png)
+   ![](assets/create-marketo-custom-objects-7.png)
+
+1. Klikken **Aangepaste Marketo-objecten**.
+
+   ![](assets/create-marketo-custom-objects-8.png)
 
 1. Klikken **Nieuw aangepast object**.
 
-   ![](assets/image2016-5-18-16-3a32-3a42.png)
+   ![](assets/create-marketo-custom-objects-9.png)
 
 1. Voer een weergavenaam in. De API-naam en de meervoudige naam worden automatisch ingevuld. Voer een beschrijving in (optioneel).
 
-   ![](assets/image2016-1-14-13-3a38-3a46.png)
+   ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
    >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Meerdere namen en het dialoogvenster **Tonen in gegevens over lead** schuifregelaar.
 
-1. Trek de **Tonen in gegevens over lead** schuifregelaar om weer te geven **Tonen** als u aangepaste objectgegevens wilt weergeven op de pagina Database lead. Klikken **Opslaan**.
+1. Trek de **Tonen in gegevens over lead** schuifregelaar om weer te geven **Tonen** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klikken **Opslaan**.
 
-   ![](assets/image2016-1-14-13-3a42-3a56.png)
+   ![](assets/create-marketo-custom-objects-11.png)
 
 1. De informatie over aangepaste objecten geeft de inhoud weer die u hebt ingevoerd. Let op: het staat in het concept.
 
-   ![](assets/image2016-1-18-8-3a38-3a58.png)
+   ![](assets/create-marketo-custom-objects-12.png)
 
    >[!NOTE]
    >
@@ -106,25 +114,29 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
 >
 >U hoeft geen intermediair object te maken voor een een-op-veel aangepaste objectstructuur.
 
-1. Klikken **Beheer**, en in **Databasebeheer**, selecteert u **Aangepaste Marketo-objecten**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2016-1-18-13-3a17-3a40.png)
+   ![](assets/create-marketo-custom-objects-13.png)
+
+1. Klikken **Aangepaste Marketo-objecten**.
+
+   ![](assets/create-marketo-custom-objects-14.png)
 
 1. Klikken **Nieuw aangepast object**.
 
-   ![](assets/image2016-5-18-16-3a33-3a16.png)
+   ![](assets/create-marketo-custom-objects-15.png)
 
 1. Voer een weergavenaam in. De API-naam en de meervoudige naam worden automatisch ingevuld. Voer een beschrijving in (optioneel).
 
-   ![](assets/image2016-1-14-14-3a10-3a44.png)
+   ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
    >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Muurnaam en de schuifregelaar Tonen in regelafstandgegevens bewerken.
 
-1. Trek de **Tonen in gegevens over lead** schuifregelaar om weer te geven **Tonen** als u aangepaste objectgegevens wilt weergeven op de pagina Database lead. Klikken **Opslaan**.
+1. Trek de **Tonen in gegevens over lead** schuifregelaar om weer te geven **Tonen** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klikken **Opslaan**.
 
-   ![](assets/image2016-1-14-14-3a12-3a49.png)
+   ![](assets/create-marketo-custom-objects-17.png)
 
 1. De informatie over aangepaste objecten geeft de inhoud weer die u hebt ingevoerd. Let op: het staat in het concept.
 

@@ -3,7 +3,7 @@ unique-page-id: 11378713
 description: Aangepaste objectwijzigingen activeren - Marketo Docs - Productdocumentatie
 title: Aangepaste objectwijzigingen activeren
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -30,27 +30,27 @@ In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen
 
 1. Ga in Marketo naar **Marketingactiviteiten.**
 
-   ![](assets/image2016-7-25-15-3a49-3a52.png)
+   ![](assets/trigger-off-custom-object-changes-1.png)
 
 1. Maak of open een bestaande slimme campagne en selecteer de slimme lijst.
 
-   ![](assets/image2016-7-25-16-3a9-3a19.png)
+   ![](assets/trigger-off-custom-object-changes-2.png)
 
 1. Zoek de trigger die u nodig hebt en sleep deze naar het canvas.
 
-   ![](assets/image2016-7-25-16-3a16-3a43.png)
+   ![](assets/trigger-off-custom-object-changes-3.png)
 
 1. Selecteer het triggerkenmerk.
 
-   ![](assets/image2016-7-25-16-3a21-3a42.png)
+   ![](assets/trigger-off-custom-object-changes-4.png)
 
 1. Stel eventueel een restrictie in.
 
-   ![](assets/image2016-9-6-14-3a25-3a22.png)
+   ![](assets/trigger-off-custom-object-changes-5.png)
 
 1. En daar ben je. De wijziging wordt automatisch opgeslagen.
 
-   ![](assets/image2016-9-6-14-3a25-3a54.png)
+   ![](assets/trigger-off-custom-object-changes-6.png)
 
    >[!NOTE]
    >
