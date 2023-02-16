@@ -3,9 +3,9 @@ unique-page-id: 2950682
 description: Een programmakanaal maken - Marketo Docs - Productdocumentatie
 title: Een programmakanaal maken
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 48c2d1deea84ee747ecc2453e770ad33dd49f578
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,13 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
 >
 >Meer informatie over [programma&#39;s](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), het belangrijkste element in Marketo.
 
-1. Onder de **Beheer** sectie, klikt u op **Tags**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-24-12-3a57-3a27.png)
+   ![](assets/create-a-program-channel-1.png)
+
+1. Klikken **Tags**.
+
+   ![](assets/create-a-program-channel-2.png)
 
    >[!NOTE]
    >
@@ -32,11 +36,11 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
 
 1. Klik op de knop **+** ondertekenen naast **Kanaal** om bestaande kanalen uit te breiden en te zien.
 
-   ![](assets/image2014-9-24-12-3a58-3a33.png)
+   ![](assets/create-a-program-channel-3.png)
 
 1. Onder **Nieuw**, klikt u op **Nieuw kanaal**.
 
-   ![](assets/image2014-9-24-12-3a58-3a53.png)
+   ![](assets/create-a-program-channel-4.png)
 
    >[!NOTE]
    >
@@ -60,7 +64,7 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
 
 1. Laten we het kanaalvoorbeeld van de Partij volgen. Geef uw nieuwe naam **Kanaal** en selecteer het programmatype waarop het van toepassing is.
 
-   ![](assets/image2014-9-24-13-3a0-3a17.png)
+   ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
@@ -70,12 +74,13 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
    >
    >Wanneer u &quot;Gebeurtenis met webinar&quot; gebruikt, worden systeemtoewijzingen vergrendeld (zoals vereist door webinar-integratie) en kunnen deze niet worden bewerkt.
 
-   Voer de eerste twee statusnamen van het programma in en klik op Stap toevoegen.
-   ![](assets/image2014-9-24-15-3a37-3a0.png)
+1. Voer de eerste twee statusnamen van het programma in en klik op **Stap toevoegen**.
+
+   ![](assets/create-a-program-channel-6.png)
 
 1. Een ander programma invoeren **Status** en **Stap** getal, klik vervolgens op **Stap toevoegen**.
 
-   ![](assets/image2014-9-24-15-3a37-3a30.png)
+   ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
@@ -83,7 +88,7 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
 
 1. Voer het laatste programma in **Status** en **Stap** getal.
 
-   ![](assets/image2014-9-24-15-3a39-3a15.png)
+   ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
@@ -91,11 +96,11 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
 
 1. Kies de optie **Status mobiele inchecken** for **Geregistreerd**.
 
-   ![](assets/image2014-9-24-15-3a39-3a43.png)
+   ![](assets/create-a-program-channel-9.png)
 
 1. Kies de optie **Status mobiele inchecken** for **Bijgewoond**.
 
-   ![](assets/image2014-9-24-15-3a40-3a21.png)
+   ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
@@ -111,6 +116,6 @@ Een programma is een specifiek marketinginitiatief. Het kanaal is bedoeld om het
 
 1. Selecteer **Succes** programmastatus, klik vervolgens op **Maken**.
 
-   ![](assets/image2014-9-24-15-3a42-3a54.png)
+   ![](assets/create-a-program-channel-11.png)
 
    Echt waar! Wanneer u een nieuw programma van dat type maakt, zal dit nieuwe kanaal één van de keuzen zijn.
