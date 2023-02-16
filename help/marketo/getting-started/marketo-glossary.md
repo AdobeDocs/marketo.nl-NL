@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Productdocumentatie
 title: Marketo Verklarende woordenlijst
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 5f76c35490eba40bea39c66c8675860293041350
+source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 0%
@@ -98,7 +98,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Gedragscore</strong></td> 
-   <td colspan="1">Een puntwaarde die aan een persoon wordt toegewezen op basis van zijn handelingen/gedrag (bijvoorbeeld een webpagina bezoeken, op een koppeling in een e-mail klikken, een formulier invullen, enz.). Meestal gebruikt om de interesse van een persoon in uw product of bedrijf te meten.</td> 
+   <td colspan="1">Een puntwaarde die aan een persoon wordt toegewezen op basis van zijn handelingen/gedrag (bijvoorbeeld een webpagina bezoeken, op een koppeling in een e-mail klikken, een formulier invullen, enz.). Wordt meestal gebruikt om de interesse van iemand in uw product of bedrijf te meten.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Lijst van gewezen personen</strong></td> 
@@ -171,7 +171,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
    <td colspan="1">In Marketo kunt u duplicaten maken van verschillende typen entiteiten in uw instantie. U kunt klonen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md" rel="nofollow">programma's</a>, en <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md" rel="nofollow">activa binnen een programma</a>, <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md" rel="nofollow">stream</a>en meer.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname-administration.md" rel="nofollow"><strong>CNAME</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/administration/settings/customize-your-landing-page-urls-with-a-cname.md" rel="nofollow"><strong>CNAME</strong></a></td> 
    <td colspan="1">Het eerste gedeelte van de URL. Het ene woord (plus YourCompany.com) wordt een CNAME genoemd (bijvoorbeeld, <em>info</em>.YourCompany.com/).</td> 
   </tr> 
   <tr> 
@@ -252,7 +252,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Leverbaarheid</strong></td> 
-   <td colspan="1">De mogelijkheid van een e-mailbericht om het beoogde postvak van de ontvanger te bereiken, wat kan worden beïnvloed door <strong>spam</strong> en clientfilters. Anders dan "Geleverd", wat alleen aangeeft dat het e-mailbericht aan de ontvangende server is verzonden.</td> 
+   <td colspan="1">De mogelijkheid van een e-mailbericht om het beoogde postvak van de ontvanger te bereiken, dat kan worden beïnvloed door <strong>spam</strong> en clientfilters. Anders dan "Geleverd", wat alleen aangeeft dat het e-mailbericht aan de ontvangende server is verzonden.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Demand Generation</strong></td> 
@@ -280,7 +280,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Concept</strong></td> 
-   <td colspan="1"><p>An <strong>email</strong> of <strong>landingspagina</strong> die nog niet <strong>goedgekeurd</strong> toch. Concepten kunnen pas openbaar worden gemaakt nadat ze zijn goedgekeurd. U kunt een concept verzenden als een test-e-mail (voorbeeld), maar er worden geen analyses opgenomen. <br></p></td> 
+   <td colspan="1"><p>An <strong>email</strong> of <strong>landingspagina</strong> dat nog niet <strong>goedgekeurd</strong> toch. Concepten kunnen pas openbaar worden gemaakt nadat ze zijn goedgekeurd. U kunt een concept verzenden als een test-e-mail (voorbeeld), maar er worden geen analyses opgenomen. <br></p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Drip Campaign</strong></td> 
