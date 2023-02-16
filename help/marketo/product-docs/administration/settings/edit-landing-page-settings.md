@@ -3,9 +3,9 @@ unique-page-id: 2359918
 description: Instellingen voor openingspagina bewerken - Marketo Docs - Productdocumentatie
 title: Instellingen openingspagina bewerken
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,21 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Onder **Beheer**, klikt u op **Openingspagina&#39;s**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-10-9-3a47-3a40.png)
+   ![](assets/edit-landing-page-settings-1.png)
+
+1. Klikken **Openingspagina&#39;s**.
+
+   ![](assets/edit-landing-page-settings-2.png)
 
 1. In de **Openingspagina&#39;s** sectie, klikt u op **Bewerken**.
 
-   ![](assets/image2014-9-10-9-3a47-3a12.png)
+   ![](assets/edit-landing-page-settings-3.png)
 
 1. Voer uw domein- en paginagegevens in.
+
+   ![](assets/edit-landing-page-settings-4.png)
 
    | Term | Definitie |
    |---|---|
@@ -34,15 +40,13 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
    | Pagina voor alternatieven | Dit is waar je naartoe moet als de landingspagina niet bestaat of omlaag is. Meer informatie over [terugvalpagina&#39;s](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | Homepage | Voer de URL van uw bedrijfssite in. |
 
-   ![](assets/three.png)
-
 1. Controleer de **Vooraf ingevuld formulier** Schakel het selectievakje in om formulieren de mogelijkheid te bieden om vooraf gegevens in te vullen voor bekende (gekoelde) personen. Schakel de optie uit om te blokkeren.
 
-   ![](assets/four.png)
+   ![](assets/edit-landing-page-settings-5.png)
 
 1. Als u wilt voorkomen dat een kwaadaardige site uw inhoud lijkt te hosten, controleert u de **Marketo-pagina&#39;s niet insluiten in externe webpagina&#39;s** selectievakje.
 
-   ![](assets/five.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    >[!NOTE]
    >
@@ -52,6 +56,6 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
 
 1. Nadat u de selecties hebt gemaakt, klikt u op **Opslaan.**
 
-   ![](assets/six.png)
+   ![](assets/edit-landing-page-settings-7.png)
 
    Geweldig werk! De bestemmingspagina&#39;s hebben nu de juiste informatie en moeten meteen aan het werk gaan.

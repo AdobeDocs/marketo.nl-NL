@@ -3,9 +3,9 @@ unique-page-id: 2360213
 description: Vervaldatum koppeling bewerken in rapporten en waarschuwingen - Marketo Docs - Productdocumentatie
 title: Vervaldatum koppeling bewerken in rapporten en waarschuwingen
 exl-id: 9be08798-c413-451b-9b67-893042668061
-source-git-commit: 349309beb754ecd5fcfb26bbda67cda97cc4b29f
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,21 @@ Koppelingen in je e-mailberichten met je abonnement op rapporten verlopen na dri
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Onder **Beheer**, klikt u op **Aanmeldingsinstellingen**.
+1. Ga naar de **Beheer** sectie.
 
-   ![](assets/image2014-9-24-11-3a33-3a31.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
+
+1. Klikken **Aanmeldingsinstellingen**.
+
+   ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
 1. Klikken **URL-vervaldatum bewerken**.
 
-   ![](assets/image2014-9-24-11-3a33-3a43.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
 1. Selecteer in de vervolgkeuzelijst het aantal dagen voordat de koppeling vervalt. Klikken **Opslaan**.
 
-   ![](assets/emaillinkexpiration.png)
+   ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 
 >[!IMPORTANT]
 >

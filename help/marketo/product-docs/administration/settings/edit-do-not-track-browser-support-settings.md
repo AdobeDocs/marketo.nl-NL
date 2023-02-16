@@ -3,7 +3,7 @@ unique-page-id: 6095047
 description: Browserondersteuningsinstellingen niet bijhouden bewerken - Marketo Docs - Productdocumentatie
 title: Browserondersteuningsinstellingen "Niet bijhouden" bewerken
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -24,23 +24,23 @@ ht-degree: 0%
 
 1. Klikken **Beheer**.
 
-   ![](assets/one.png)
+   ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
 1. Klikken **Munchkin**.
 
-   ![](assets/two.png)
+   ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
 1. Onder **Personen bijhouden**, klikt u op **Bewerken**.
 
-   ![](assets/three-2.png)
+   ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
 1. Selecteren **Ondersteuning** en klik op **Opslaan**.
 
-   ![](assets/four-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-4.png)
 
    Nadat u de wijzigingen hebt opgeslagen, wordt de update weergegeven.
 
-   ![](assets/five-1.png)
+   ![](assets/edit-do-not-track-browser-support-settings-5.png)
 
    >[!NOTE]
    >

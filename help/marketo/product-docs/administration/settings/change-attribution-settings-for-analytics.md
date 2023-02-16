@@ -3,9 +3,9 @@ unique-page-id: 2360217
 description: Kenmerken wijzigen voor Analytics - Marketo Docs - Productdocumentatie
 title: Kenmerkinstellingen wijzigen voor Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,17 @@ U kunt de manier veranderen waarop Marketo contacten verbindt met kansen voor ee
 
 Deze montages zullen de rapporten van de Ontdekkingsreiziger van de Opbrengst onder de montages beïnvloeden [Analyse van programmamogelijkheden](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Opportuniteitsanalyse](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), en gebieden van de Analyse van het Lood. Dit zal ook het rapport van de Analysator van het Programma beïnvloeden.
 
-1. Onder de **Beheer** sectie, klikt u op **Analyse van inkomstencyclus**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-24-11-3a55-3a19.png)
+   ![](assets/change-attribution-settings-for-analytics-1.png)
+
+1. Klikken **Analyse van inkomstencyclus**.
+
+   ![](assets/change-attribution-settings-for-analytics-2.png)
 
 1. Klik op de knop **Bewerken** link onder **Attributie**.
 
-   ![](assets/image2014-9-24-11-3a56-3a33.png)
+   ![](assets/change-attribution-settings-for-analytics-3.png)
 
    >[!TIP]
    >
@@ -30,7 +34,7 @@ Deze montages zullen de rapporten van de Ontdekkingsreiziger van de Opbrengst on
 
 1. Selecteer een optie en klik op **Opslaan**.
 
-   ![](assets/image2014-9-24-11-3a57-3a39.png)
+   ![](assets/change-attribution-settings-for-analytics-4.png)
 
    >[!NOTE]
    >
