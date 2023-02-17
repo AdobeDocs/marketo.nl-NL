@@ -3,9 +3,9 @@ unique-page-id: 2359902
 description: Standaardinstellingen voor locatie instellen voor een abonnement - Marketo Docs - Productdocumentatie
 title: Standaardinstellingen voor locatie instellen voor een abonnement
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -22,23 +22,27 @@ In dit artikel wordt beschreven hoe een beheerder de standaardlocatie-instelling
 
 Wanneer een beheerder de standaardlocatie-instellingen wijzigt, nemen nieuwe gebruikers deze instellingen over. Gebruikers kunnen altijd [hun taal-, landinstellingen- en tijdzonevoorkeuren wijzigen](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) op hun individuele rekeningen.
 
-1. Onder **Beheer**, klikt u op **Locatie**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-11-7-11-3a39-3a17.png)
+   ![](assets/set-default-location-settings-for-a-subscription-1.png)
+
+1. Klikken **Locatie**.
+
+   ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
 1. Klikken **Bewerken**.
 
-   ![](assets/image2014-11-7-11-3a40-3a39.png)
+   ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
-   Dit abonnement is gemaakt in het Engels. Stel dat u in Londen was en de standaardlandinstelling en -tijdzone wilde wijzigen. De landinstelling bepaalt de opmaak voor getallen, datums en tijden.
+   Dit abonnement is gemaakt in het Engels. Stel dat u in Londen was en de standaardlandinstelling en tijdzone wilde wijzigen. De landinstelling bepaalt de opmaak voor getallen, datums en tijden.
 
 1. Selecteer **Landinstelling** en wijzig deze in **Engels** (Verenigd Koninkrijk).
 
-   ![](assets/image2014-11-7-11-3a51-3a26.png)
+   ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
 1. Kies ten slotte de gewenste **Tijdzone**.
 
-   ![](assets/image2014-11-7-14-3a42-3a34.png)
+   ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
    >[!NOTE]
    >
@@ -50,11 +54,11 @@ Als u de standaardlandinstelling voor uw gebruikers wijzigt, kunt u ook de inste
 
 1. Klikken **Bewerken** in Subscription Currency Settings.
 
-   ![](assets/image2014-11-7-15-3a50-3a33.png)
+   ![](assets/set-default-location-settings-for-a-subscription-6.png)
 
 1. Selecteer de gewenste valutaopmaak en klik op **Opslaan**.
 
-   ![](assets/image2014-11-7-15-3a58-3a21.png)
+   ![](assets/set-default-location-settings-for-a-subscription-7.png)
 
    Gefeliciteerd.  U hebt de locatie-instellingen voor het abonnement gewijzigd.
 

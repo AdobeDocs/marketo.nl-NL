@@ -3,7 +3,7 @@ unique-page-id: 10617187
 description: Privacy-instellingen begrijpen - Marketo Docs - Productdocumentatie
 title: Privacy-instellingen begrijpen
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Marketo biedt marketeers een manier om ervoor te zorgen dat webbezoekers hun toe
 
 Of, kan de telleraar gebruikers volgen, maar gebruik anonymized IP.
 
-Deze methoden kunnen van invloed zijn op de waarde en functionaliteit van Marketo op specifieke gebieden. Als de markeerteken echter *niet* Als u iets wilt wijzigen in de Marketo-configuratie, blijft de Marketo-functionaliteit hetzelfde.
+Deze methoden kunnen van invloed zijn op de Marketo-waarde en -functionaliteit in specifieke gebieden. Als de markeerteken echter *niet* Als u iets wilt wijzigen in de Marketo-configuratie, blijft de Marketo-functionaliteit hetzelfde.
 
 ## Browserinstellingen voor Niet bijhouden {#browser-settings-for-do-not-track}
 
@@ -43,17 +43,17 @@ Hieronder ziet u voorbeelden van een webpagina met een koppeling om te weigeren 
 
 Hier is een webpagina met een knop met de parameter &quot;?marketo_opt_out=true&quot; in de opt-out-koppeling.
 
-![](assets/opt-out-1.png)
+![](assets/understanding-privacy-settings-1.png)
 
 U kunt een landingspagina maken en publiceren als een vervolgpagina voor wanneer op uw koppeling met de parameter &quot;?marketo_opt_out=true&quot; wordt geklikt.
 
-![](assets/opt-out-2.png)
+![](assets/understanding-privacy-settings-2.png)
 
 Wanneer op de koppeling wordt geklikt, voegt Marketo een cookie met de naam **mkto_opt_out** naar de browser van de bezoeker die het bijhouden van Munchkin uitschakelt voor de bezoeker van de site die op de koppeling met de bovenstaande parameter klikt.
 
 Als u wilt controleren of de cookie kan worden geplant, controleert u of u een gekoelde lead bent en klikt u op de koppeling. Controleer vervolgens uw browsercookies om te controleren of de **mkto_opt_out** cookie toegevoegd.
 
-![](assets/opt-out-3.png)
+![](assets/understanding-privacy-settings-3.png)
 
 >[!NOTE]
 >

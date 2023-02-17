@@ -2,9 +2,9 @@
 description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 35ff6315ac98bb34594bb2db17314a4a990e6162
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '630'
 ht-degree: 2%
 
 ---
@@ -154,8 +154,8 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td>n.v.t.</td>
   </tr>
   </tbody>
 </table>

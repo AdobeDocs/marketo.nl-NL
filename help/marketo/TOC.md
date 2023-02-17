@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
 workflow-type: tm+mt
-source-wordcount: '8828'
+source-wordcount: '8827'
 ht-degree: 0%
 
 ---
@@ -194,7 +194,7 @@ ht-degree: 0%
          + [Koppen van koppeling voor e-mailbeheer](product-docs/administration/settings/email-tracking-link-headers.md)
          + [Abonnementsinstellingen bewerken](product-docs/administration/settings/edit-subscription-settings.md)
          + [Functies voor schatkist in- of uitschakelen](product-docs/administration/settings/enable-or-disable-treasure-chest-features.md)
-         + [Persoonlijke URL&#39;s voor uw account inschakelen (beheer)](product-docs/administration/settings/enable-personalized-urls-for-your-account-administration.md)
+         + [Persoonlijke URL&#39;s voor uw account inschakelen](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [Algemene regels voor formuliervalidatie](product-docs/administration/settings/global-form-validation-rules.md)
          + [Landingspaginakoppen](product-docs/administration/settings/landing-page-headers.md)
          + [Marketo-aanmeldingen beperken op basis van IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
