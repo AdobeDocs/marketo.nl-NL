@@ -3,9 +3,9 @@ unique-page-id: 2360207
 description: Een gebruiker met alleen een API maken - Marketo Docs - Productdocumentatie
 title: Alleen een API-gebruiker maken
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,21 @@ Als u met Marketo wilt integreren via de [REST API](https://developers.marketo.c
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Onder **Beheer**, klikt u op **Gebruikers en rollen.**
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-17-9-3a31-3a31.png)
+   ![](assets/create-an-api-only-user-1.png)
+
+1. Klikken **Gebruikers en rollen**.
+
+   ![](assets/create-an-api-only-user-2.png)
 
 1. Klikken **Nieuwe gebruiker uitnodigen**.
 
-   ![](assets/image2014-9-17-9-3a32-3a3.png)
+   ![](assets/create-an-api-only-user-3.png)
 
 1. Voer een e-mail, voornaam en achternaam in voor alleen de gebruiker van de API. Klikken **Volgende**.
 
-   ![](assets/image2016-5-24-10-3a53-3a7.png)
+   ![](assets/create-an-api-only-user-4.png)
 
    >[!TIP]
    >
@@ -40,11 +44,11 @@ Als u met Marketo wilt integreren via de [REST API](https://developers.marketo.c
 
 1. Selecteer **Alleen API** en controleert de **Alleen API** selectievakje. Klikken **Volgende**.
 
-   ![](assets/four.png)
+   ![](assets/create-an-api-only-user-5.png)
 
 1. Klikken **Verzenden**.
 
-   ![](assets/image2016-5-24-11-3a8-3a20.png)
+   ![](assets/create-an-api-only-user-6.png)
 
 >[!NOTE]
 >
