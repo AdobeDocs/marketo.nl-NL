@@ -2,16 +2,16 @@
 description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: 130102aefb0b6c12dc0ea87fdf6fef682e90b44c
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: '623'
 ht-degree: 2%
 
 ---
 
-# Opmerkingen bij de release: Januari 2023 {#release-notes-jan-23}
+# Opmerkingen bij de release: maart 2023 {#release-notes-mar-23}
 
-Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 januari. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
+Hieronder vindt u alle functies die zijn opgenomen in de release van 23 maart. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -19,16 +19,13 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 januari
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
-De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **20 januari 2023**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
+De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **24 maart 2023**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
 
 ### Marketo Engage Moderne UX {#modern-ux}
 
 </br>
 
-* **Bijgewerkte schermen in Modern UX**: In Modern UX (voorheen bekend als Next-Generation Experience) bieden we extra, vernieuwde schermen die bijgewerkte ontwerp- en gebruiksverbeteringen bieden die toegankelijk zijn via schakeloptie:
-
-   * Fragmentlijstweergave
-   * Sjabloonlijst bestemmingspagina
+* **Verbeterd Gebruikt door Component voor de Details van het Malplaatje van de Landingspagina en de Details van de Vorm**: Het tabblad Nieuw Wordt gebruikt door UI bevat aanvullende informatie in Sjabloongegevens voor bestemmingspagina en Formulierdetails, waaronder meer informatie over elementen die een geselecteerd element hebben gebruikt. Analyseer op lange lijsten met middelen door de zoek-, sorteer- en filtermogelijkheden uit te voeren.
 
    <table> 
   <tr> 
@@ -36,13 +33,13 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Schakelaar schakelen</a></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Verbeterd Gebruikt door component voor E-mailsjabloondetails en fragmentdetails**: Nieuw Gebruikt door lusje UI verstrekt extra informatie over elk van Gebruikt door activa, zoals wanneer het het laatst werd gewijzigd en door wie. U kunt analyse door het onderzoek, de soort, en het filtreren mogelijkheden gemakkelijk uitvoeren. Deze nieuwe UI-component wordt opgenomen met ingang van de elementen E-mailsjabloon en Fragment.
+* **Schakel Schakelaar in- en uitschakelen en Klassieke ervaring uit met het landen van pagina&#39;s**: De vervanging van de Schakelaar van de Wissel en Klassieke Ervaring voor het Aanlanden van Pagina&#39;s zal u helpen de nieuwe ervaring volledig overnemen. Dankzij de nieuwe ervaring kunnen de functies die met deze middelen worden geleverd, volledig worden benut zonder dat er op de oude ervaring moet worden vertrouwd of dat er voortdurend tussen beide ervaringen moet worden gewisseld.
 
 <table> 
   <tr> 
@@ -56,29 +53,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tbody>
 </table>
 
-### Marketing Impact Analytics {#marketing-impact-analytics}
-
-</br>
-
-* **Opnieuw ontworpen modules voor rapportelementen**: Het nieuwe ontwerp voor de modellen van de rapportconfiguratie in Modern UX die een bijgewerkte blik en een gevoel evenals betere toegankelijkheid aanbieden.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td>Verzonden</td>
-   <td>n.v.t.</td>
-  </tr>
-  </tbody>
-</table>
-
-### Marketo Measure {#marketo-measure}
-
-</br>
-
-* **Marketo Measure Ultimate**: Maakt volledige B2B-toewijzing mogelijk voor ondernemingen met meerdere CRM- en/of Marketo Engage-instanties en uiteenlopende gegevensbehoeften. Het biedt ook een B2B-attributieoplossing voor Adobe RT-CDP via gedeelde AEP-gegevens.
+* **Verbeteringen van de prestaties van structuurknooppunten**: Diegenen met een groot aantal knooppunten zullen een significante verbetering van de prestaties zien.
 
 <table> 
   <tr> 
@@ -96,7 +71,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Het verbeterde lusje van de Diensten van het Web door de Informatie van de Uitvoer van het Bulk toe te voegen API**: U kunt nu de dagelijkse capaciteitstoewijzing voor uw abonnementen bekijken en de hoeveelheid dagelijkse capaciteitstoewijzing bekijken die in de afgelopen 7 dagen is gebruikt.
+* **Upgrade Marketo Facebook Integration voor Facebook Graph API Update**: Met de recente upgrade van Facebook naar Facebook Graph API v15 is er nu een limiet van 500 aangepast publiek dat kan worden gemaakt voor een bepaald advertentieaccount.
 
 <table> 
   <tr> 
@@ -104,8 +79,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Bulkexport-API-informatie</a></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
@@ -118,7 +93,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 </br>
 
-* **Picklist definiëren in Info Capture Card voor dynamische chat**: Om ervoor te zorgen dat de gegevens schoon zijn, kunt u picklists definiëren voor kaarten voor het vastleggen van informatie, zodat bezoekers alleen uit een vooraf gedefinieerde lijst met opties kunnen kiezen.
+* **Dialoogbetrokkenheidsrapport voor dynamisch chatten**: Verstrekt een mening van de betrokkenheid van de Dialoog in tijd, met inbegrip van de capaciteit om door bezoekerstype en betrokkenheidstype te filtreren om betere zichtbaarheid voor gebruikers te verstrekken.
 
 <table> 
   <tr> 
@@ -126,13 +101,13 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Verzonden</td>
-   <td>n.v.t.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Persoonlijke gegevens in vergaderbevestiging voor dynamische chat**: De agenten kunnen vergadering personaliseren die e-mailbevestigingen boeken gebruikend Marketo Engage persoon en bedrijfgebieden om met bezoekers (bijvoorbeeld: begroet bezoekers op hun voornaam in het e-mailbericht voor automatische reservering van vergaderingen).
+* **Rollen en machtigingen voor dynamische chat**: Introduceert rollen en toestemmingen aan Dynamisch Praatje, toestaand beheerders om zicht en gebruik van verschillende gebieden van de app aan geselecteerde gebruikerstypes te beperken.
 
 <table> 
   <tr> 
@@ -140,13 +115,13 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md">Kalender</a></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Zoeken in Stream Designer**: Zoek eenvoudig naar inhoud in de Ontwerper van de Stroom om inhoud over alle kaarten/knopen in een stroom (b.v.: zoek &quot;SEO&quot; en markeert alle knooppunten die die tekenreeks bevatten).
+* **Chatten als programmakanaal voor dynamische chat**: Maakt een nieuw Chat-programmakanaal om de voortgang van het programma bij te houden voor mensen die zijn aangeschaft door Dynamic Chat. Een markeerteken heeft bijvoorbeeld een programma dat is gekoppeld aan een dynamisch chatdialoogvenster om nieuwe leads vast te leggen. Ze kunnen dat programma nu toewijzen aan het Chat-kanaal, zodat ze kunnen bijhouden wanneer de leiders lid zijn van het programma en wanneer ze succes hebben geboekt.
 
 <table> 
   <tr> 
@@ -154,13 +129,13 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Verzonden</td>
-   <td>n.v.t.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Datum-/tijdkiezer voor Chatbot voor dynamische chat**: Webbezoekers kunnen de kalenderkiezer gebruiken om een datum en tijd te kiezen in plaats van de datum handmatig in te voeren.
+* **Gecorrigeerde kenmerken voor Dynamic Chat**: Zorgt ervoor dat de afgeleide IP gegevens (stad, staat, land, enz.) wordt geschreven aan het persoonverslag voor nieuwe mensen die door Dynamisch Chat worden verworven.
 
 <table> 
   <tr> 
@@ -168,13 +143,13 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Verzonden</td>
-   <td>n.v.t.</td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
 
-* **Geplande e-mailberichten voor vergaderingen voor dynamische chat**: Wanneer een vergadering op de kalender van een agent wordt geboekt, zal de agent een e-mailbericht over het boeken, met inbegrip van gedetailleerde informatie over de Dynamische Overeenkomst van het Praatje van de bezoeker ontvangen.
+* **Extra taalondersteuning voor dynamische chat**: U kunt nu kiezen uit negen ondersteunde talen om statische dynamische chatinhoud weer te geven in.
 
 <table> 
   <tr> 
@@ -182,14 +157,26 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md">Vergaderingen</a></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Springen naar knooppunt in Voorvertoning stroomontwerper voor dynamische chat**: Springen rechtstreeks naar een knooppunt in Stream Designer vanuit het voorvertoningsvenster.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
 
 ## Aankondigingen {#announcements}
 
-* **Wijziging van Marketo REST API**: Met de release van oktober 2022 hebben we een kleine wijziging aangebracht in het Marketo REST API-responsbericht. Zie deze [Marketo Nation-post](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} voor meer informatie .
-
-* **_Webinar productrelease_**: [Oktober 2022 en Januari 2023 de Versie Webinar van de Marketo Engage](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar productrelease_**: Doe mee op 17 mei 2023, 9:00 uur PT / 12:00 uur ET [voor een levende webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} ontvangen door ons Product Team waar u kunt leren hoe te om alle recentste productinnovaties te gebruiken die in zowel versies van Maart als van Mei &#39;23 worden geleverd.
