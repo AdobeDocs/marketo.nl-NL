@@ -3,9 +3,9 @@ unique-page-id: 2359906
 description: Marketo-gebruikers beheren - Marketo Docs - Productdocumentatie
 title: Marketo-gebruikers beheren
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -14,25 +14,29 @@ ht-degree: 0%
 
 ## Gebruikers maken {#create-users}
 
-1. Ga naar **Beheer** en klik op **Gebruikers en rollen**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-9-11-3a34-3a58.png)
+   ![](assets/managing-marketo-users-1.png)
+
+1. Klikken **Gebruikers en rollen**.
+
+   ![](assets/managing-marketo-users-2.png)
 
 1. Klikken **Nieuwe gebruiker uitnodigen**.
 
-   ![](assets/image2014-9-9-11-3a35-3a15.png)
+   ![](assets/managing-marketo-users-3.png)
 
 1. Voer de **E-mailadres**, **Voornaam**, en **Achternaam**.
 
-   ![](assets/image2016-5-24-9-3a45-3a30.png)
+   ![](assets/managing-marketo-users-4.png)
 
 1. Voer desgewenst een reden voor de uitnodiging in en selecteer een vervaldatum in het dialoogvenster **Toegang verloopt** veld met de datumkiezer.
 
-   ![](assets/image2016-6-29-15-3a52-3a18.png)
+   ![](assets/managing-marketo-users-5.png)
 
 1. Klikken **Volgende**.
 
-   ![](assets/image2016-5-24-9-3a58-3a10.png)
+   ![](assets/managing-marketo-users-6.png)
 
    >[!TIP]
    >
@@ -44,17 +48,17 @@ ht-degree: 0%
 
 1. Selecteer **Rol** van uw keuze en klik op **Volgende**.
 
-   ![](assets/image2016-5-24-10-3a1-3a33.png)
+   ![](assets/managing-marketo-users-7.png)
 
 1. Breng indien nodig wijzigingen aan in het uitnodigingsbericht. Klikken **Verzenden**.
 
-   ![](assets/image2016-5-24-10-3a3-3a56.png)
+   ![](assets/managing-marketo-users-8.png)
 
    >[!NOTE]
    >
    >De e-mail/login moet uniek zijn; als u het reeds in een zandbakinstantie hebt gebruikt, zult u verschillende in productie en vice versa moeten gebruiken.
 
-   ![](assets/image2016-5-24-10-3a21-3a57.png)
+   ![](assets/managing-marketo-users-9.png)
 
    >[!NOTE]
    >
@@ -64,35 +68,41 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
 ## Gebruikers verwijderen {#delete-users}
 
-1. Ga naar Beheer en klik op **Gebruikers en rollen**.
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-9-11-3a36-3a21.png)
+   ![](assets/managing-marketo-users-10.png)
+
+1. Klikken **Gebruikers en rollen**.
+
+   ![](assets/managing-marketo-users-11.png)
 
 1. Selecteer de gebruiker die u wilt verwijderen en klik op **Gebruiker verwijderen**.
 
-   ![](assets/image2014-9-9-11-3a36-3a36.png)
+   ![](assets/managing-marketo-users-12.png)
 
 1. Bevestigen door te klikken **OK**.
 
-   ![](assets/image2014-9-9-11-3a36-3a51.png)
+   ![](assets/managing-marketo-users-13.png)
 
 ## Gebruikerswachtwoorden opnieuw instellen {#reset-user-passwords}
 
-1. Ga naar Beheer en klik op **Gebruikers en rollen**.
+1. Ga naar het gebied Beheer.
 
-   ![](assets/image2014-9-9-11-3a41-3a0.png)
+   ![](assets/managing-marketo-users-14.png)
+
+1. Klikken **Gebruikers en rollen**.
+
+   ![](assets/managing-marketo-users-15.png)
 
 1. Selecteer een gebruiker en klik op **Wachtwoord opnieuw instellen**.
 
-   ![](assets/image2014-9-9-11-3a41-3a19.png)
+   ![](assets/managing-marketo-users-16.png)
 
 1. Klikken **Sluiten** om de prompt te negeren.
 
-   ![](assets/image2014-9-9-11-3a41-3a50.png)
+   ![](assets/managing-marketo-users-17.png)
 
 De gebruiker ontvangt een e-mail met instructies voor het opnieuw instellen van het wachtwoord.
-
-![](assets/image2014-9-9-11-3a45-3a53.png)
 
 >[!TIP]
 >
@@ -100,17 +110,21 @@ De gebruiker ontvangt een e-mail met instructies voor het opnieuw instellen van 
 
 ## Machtigingen wijzigen en Gebruikersgegevens bewerken {#change-permissions-and-edit-user-information}
 
-1. Ga naar **Beheer** en klik op **Gebruikers en rollen.**
+1. Ga naar de **Beheer** gebied.
 
-   ![](assets/image2014-9-9-11-3a37-3a5.png)
+   ![](assets/managing-marketo-users-18.png)
+
+1. Klikken **Gebruikers en rollen**.
+
+   ![](assets/managing-marketo-users-19.png)
 
 1. Selecteer een gebruiker en klik op **Gebruiker bewerken**.
 
-   ![](assets/image2014-9-9-11-3a37-3a16.png)
+   ![](assets/managing-marketo-users-20.png)
 
 1. U kunt gebruikersgegevens bewerken en de bijbehorende rol wijzigen. Klikken **Opslaan**.
 
-   ![](assets/image2014-9-9-11-3a37-3a31.png)
+   ![](assets/managing-marketo-users-21.png)
 
 >[!CAUTION]
 >

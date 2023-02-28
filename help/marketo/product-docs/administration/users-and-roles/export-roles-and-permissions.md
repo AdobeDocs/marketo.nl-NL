@@ -2,9 +2,9 @@
 description: Rollen en machtigingen exporteren - Marketo-documenten - Productdocumentatie
 title: Rollen en machtigingen exporteren
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Hier is hoe te om alle rollen en hun toestemmingen uit te voeren.
 >
 >Beheerdersmachtigingen vereist
 
-1. Klik in Mijn Marketo op **Beheer**.
+1. Ga naar de **Beheer** gebied.
 
    ![](assets/export-roles-and-permissions-1.png)
 
