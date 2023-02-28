@@ -2,7 +2,7 @@
 description: Verlopen lokale middelen - Marketo-documenten - productdocumentatie
 title: Vervaldatum van lokale middelen
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
-source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
+source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Voordat u de vervaldatum van middelen kunt plannen, moet voor uw Marketo-rol de 
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Stel een tijd in. U moet een tijd minstens 20 minuten in de toekomst plannen (vergeet niet om AM/PM in te gaan). Klikken **[!UICONTROL Confirm]** wanneer gereed.
+1. Stel een tijd in. U moet een tijd minstens 15 minuten in de toekomst plannen (vergeet niet om AM/PM in te gaan). Klikken **[!UICONTROL Confirm]** wanneer gereed.
 
    ![](assets/local-asset-expiration-7.png)
 
