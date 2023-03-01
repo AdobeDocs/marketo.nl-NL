@@ -3,7 +3,7 @@ unique-page-id: 11370952
 description: Opmerkingen bij de release - lente 16 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - lente '16
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '799'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Email Insights is een gloednieuwe historische ervaring met e-mailanalyse van gea
 
 >[!NOTE]
 >
->Wij lanceren e-mailinzichten aan klanten in partijen, die 3 juni beginnen. Ons doel is dit de komende maanden af te ronden. U ontvangt een e-mail wanneer u deze optie hebt ingeschakeld.
+>Wij lanceren e-mailinzichten aan klanten in partijen, die 3 juni beginnen. Ons doel is dit de komende maanden af te ronden. We sturen je een e-mail wanneer je bent ingeschakeld.
 
 ![](assets/two.png)
 
@@ -46,9 +46,9 @@ Maak verbluffende berichten in de app voor uw app in Marketo. Definieer precies 
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [Geen conceptsnippels](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## [Geen conceptsnippels](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
 
-Gone is de dagen waarin u alles opnieuw moet goedkeuren telkens als een fragment wordt bijgewerkt! Met Geen concept krijgen alle e-mails en bestemmingspagina&#39;s die een fragment gebruiken, de updates van het fragment en de status van het voorgaande fragment. Elke keer dat u een fragment goedkeurt, hebt u de keuze om Geen concept uit te voeren en alles bij te werken, of concepten te maken. Het is aan u! Geen concept is beschikbaar voor alle klanten en wordt gecontroleerd door een nieuwe machtiging in Admin.
+Gone is de dagen waarin u alles opnieuw moet goedkeuren telkens als een fragment wordt bijgewerkt! Met Geen concept krijgen alle e-mails en bestemmingspagina&#39;s die een fragment gebruiken, de updates van het fragment en de status van het voorgaande fragment. Elke keer dat u een fragment goedkeurt, hebt u de keuze om Geen concept uit te voeren en alles bij te werken, of concepten te maken. Het is aan jou! Geen concept is beschikbaar voor alle klanten en wordt gecontroleerd door een nieuwe machtiging in Admin.
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
@@ -80,7 +80,7 @@ De nieuwe, snelle dynamische connector, die op Orion-architectuur is gebouwd, bi
 
 ## [Naam van vriendelijke instantie](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
-Het is tegenwoordig moeilijk onderscheid te maken tussen Marketo-instanties, bijvoorbeeld sandbox en productie-instanties. Met deze functie weet u aan welke instanties u momenteel werkt.
+Vandaag, is het moeilijk om tussen de instanties van Marketo, bijvoorbeeld, zandbak en productie instanties te onderscheiden. Met deze functie weet u aan welke instanties u momenteel werkt.
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 

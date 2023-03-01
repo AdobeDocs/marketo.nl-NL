@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: Opmerkingen bij de release - herfst '16 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - herfst '16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Met deze release kunt u ook benoemde accountkenmerken en accountscores in ABM be
 
 Het audittrail biedt een uitgebreide geschiedenis van de wijzigingen die zijn aangebracht in uw Marketo-abonnement. We hebben extra mogelijkheden voor het bijhouden van programma&#39;s toegevoegd en belangrijke wijzigingsdetails voor slimme campagnes, slimme lijsten en wijzigingen aan gebruikers en rollen nader toegelicht.
 
-## [Nieuwe machtigingen](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/descriptions-of-role-permissions.md) {#new-permissions}
+## [Nieuwe machtigingen](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
 **E-mail operationeel maken**
 
@@ -94,4 +94,4 @@ U kunt variabelen en modules voor e-mailberichten in v2.0-indeling beheren met d
 
 ## [Wijzigingen in Marketo Salesforce Sync](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-De integratie van Marketo in Salesforce is in ontwikkeling om de manier waarop Marketo-velden worden gesynchroniseerd met Salesforce te verbeteren. In plaats van een grote groep velden te moeten synchroniseren die u wellicht nodig hebt, kunt u nu kiezen welke velden u wilt opnemen. Raadpleeg onze documentatie voor meer informatie: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).
+De integratie van Salesforce in Marketo is in ontwikkeling om de manier waarop Marketo-velden worden gesynchroniseerd met Salesforce te verbeteren. In plaats van een grote groep velden te moeten synchroniseren die u wellicht nodig hebt, kunt u nu kiezen welke velden u wilt opnemen. Raadpleeg onze documentatie voor meer informatie: [https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840).

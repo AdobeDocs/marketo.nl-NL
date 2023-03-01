@@ -3,7 +3,7 @@ unique-page-id: 1147358
 description: Een fragment toevoegen aan een e-mail - Marketo Docs - Productdocumentatie
 title: Een fragment toevoegen aan een e-mail
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -42,6 +42,6 @@ Fragmenten zijn herbruikbare blokken tekst en afbeeldingen met opmaak die u kunt
 
    >[!NOTE]
    >
-   >Telkens wanneer u uw fragment bijwerkt en goedkeurt, worden de wijzigingen doorgevoerd in de e-mail. De e-mail wordt opgesteld tenzij u het fragment goedkeurt met [Geen concept](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions/enable-no-draft-for-snippets.md).
+   >Telkens wanneer u uw fragment bijwerkt en goedkeurt, worden de wijzigingen doorgevoerd in de e-mail. De e-mail wordt opgesteld tenzij u het fragment goedkeurt met [Geen concept](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
 
 Dit is een snelle en eenvoudige manier om dynamische inhoud opnieuw te gebruiken.
