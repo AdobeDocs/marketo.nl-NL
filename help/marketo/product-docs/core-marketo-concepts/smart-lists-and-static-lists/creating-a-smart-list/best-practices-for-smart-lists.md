@@ -3,9 +3,9 @@ unique-page-id: 7512524
 description: Beste praktijken voor Slimme Lijsten - de Documenten van Marketo - de Documentatie van het Product
 title: Beste praktijken voor Slimme Lijsten
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f9394067e74868ace9896cfe087fa624e5eda62c
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '566'
 ht-degree: 0%
 
 ---
@@ -20,10 +20,10 @@ Om hen gemakkelijk te maken om met en prestaties te werken te optimaliseren, heb
 >
 >**Elke klant is anders.** Hoe groter de database, hoe meer verwerking er plaatsvindt. Hoe meer activiteiten u hebt opgeslagen, hoe langer het duurt om er doorheen te zoeken.
 >
->Probeer de onderstaande tips als u te maken hebt met een trage procedure. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Probeer de onderstaande tips als u te maken hebt met een trage procedure. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. **Historie beperken -** Historiefilters (ook bekend als Activiteitenfilters) behoren tot de meest hulpbronnenintensieve, tijdrovende bewerkingen. Als u ze moet gebruiken, probeert u het datumbereik zo kort mogelijk te houden. Hierdoor wordt de set doorzoekbare gegevens kleiner.
-1. **Geneste slimme lijsten beperken -** Beperk bij het maken van een nieuwe slimme lijst de hoeveelheid gebruikte filters Lid van Slimme lijst. Dit wordt genoemd het nesten slimme lijsten, en elke slimme lijst waarnaar wordt verwezen zal verwerkingstijd verhogen. Verwijs in plaats daarvan naar statische lijsten of gebruik [segmentatie](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+1. **Historie beperken -** Historiefilters (ook bekend als Activiteitenfilters) behoren tot de meest hulpbronnenintensieve, tijdrovende bewerkingen. Als u ze moet gebruiken, probeert u het datumbereik zo kort mogelijk te houden. Hierdoor wordt de set doorzoekbare gegevens kleiner. Bovendien hebben datumbereiken geen voorrang op retentieperioden. Voorbeeld: Als de activiteit u vraagt een bewaartermijn van 90 dagen heeft en u &quot;afgelopen 100 dagen&quot;kiest, slechts zullen de resultaten van de afgelopen 90 dagen worden teruggegeven. Aanhoudingsperiodes activiteit [hier te vinden](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy/ta-p/251480){target="_blank"}.
+1. **Geneste slimme lijsten beperken -** Beperk bij het maken van een nieuwe slimme lijst de hoeveelheid gebruikte filters Lid van Slimme lijst. Dit wordt genoemd het nesten slimme lijsten, en elke slimme lijst waarnaar wordt verwezen zal verwerkingstijd verhogen. Verwijs in plaats daarvan naar statische lijsten of gebruik [segmentatie](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md){target="_blank"}.
 1. **Positief gebruiken over negatieve operatoren -** Hoewel filters &quot;niet&quot;beschikbaar zijn, moeten zij de volledige gegevensreeks in uw instantie zoeken, die uiterst tijdrovend kan zijn. Positieve &#39;is&#39;-filters kunnen effectievere zoekalgoritmen gebruiken.
 1. **Vermijd &quot;contains&quot; -** Als u slechts gedeeltelijke gegevens hebt, &quot;begint met&quot;bepalende eigenschappen zullen veel sneller resultaten dan &quot;bevat.&quot; &quot;Is&quot; wordt nog sneller uitgevoerd. Vermijd het gebruik van &quot;contains&quot; met meerdere waarden; de twee samen kunnen een campagne nog verder vertragen .
 1. **Willekeurig monster zelfstandig gebruiken -** Willekeurig monster is een speciaal filter. Gebruik het op zich om uw mensen in pre-made lijsten te zetten. Gebruik vervolgens gewoon &#39;lid van lijst&#39; om uw slimme lijst supersnel te maken. Willekeurige sample **NOT** werken met geneste slimme lijsten. Het filter Willekeurige sample werkt niet als er naar de slimme lijst wordt verwezen voor het filter &quot;Lid van slimme lijst&quot;.
@@ -35,4 +35,4 @@ Om hen gemakkelijk te maken om met en prestaties te werken te optimaliseren, heb
 
 >[!TIP]
 >
->Marketo kan op vele manieren worden gebruikt en bepaalde technieken zijn beter voor u en uw bedrijf. Overweeg [Professionele dienstverlening in Marketo](https://pages2.marketo.com/72-hour-survival-guide.html) om uw investering te doen schijnen.
+>Marketo kan op vele manieren worden gebruikt en bepaalde technieken zijn beter voor u en uw bedrijf. Overweeg [Professionele dienstverlening in Marketo](https://pages2.marketo.com/72-hour-survival-guide.html){target="_blank"} om uw investering te doen schijnen.
