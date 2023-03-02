@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Werken- en personenpartities begrijpen - Marketo Docs - Productdocumentatie
 title: Werken- en personenpartities begrijpen
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
@@ -43,25 +43,29 @@ Hieronder wordt beschreven hoe u elementen deelt over verschillende werkruimten.
 >
 >De bovenliggende map met uw elementen is de enige map die kan worden gedeeld, niet de onderliggende mappen.
 
-1. Maak een nieuwe map.
+1. Klik op Database.
 
-   ![](assets/one.png)
+   ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Geef de map een naam die u wilt delen.
+1. Klik met de rechtermuisknop op de map Segmentatie en klik op **Nieuwe map**.
 
-   ![](assets/two.png)
+   ![](assets/understanding-workspaces-and-person-partitions-2.png)
+
+1. Geef uw map een naam en klik op **Maken**.
+
+   ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
 1. Verplaats de middelen die u wilt delen naar de map.
 
-   ![](assets/three.png)
+   ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
 1. Klik met de rechtermuisknop op de map en selecteer **Map delen**.
 
-   ![](assets/four.png)
+   ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
 1. Selecteer de werkruimte(n) waarmee u de map wilt delen en klik op **Opslaan**. In het dialoogvenster Map delen worden alleen werkruimten weergegeven die u kunt weergeven.
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
    >[!NOTE]
    >
