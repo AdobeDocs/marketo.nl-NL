@@ -3,7 +3,7 @@ unique-page-id: 7515767
 description: Segmenten delen op werkruimten en partities - Marketo Docs - Productdocumentatie
 title: Segmenten delen over werkruimten en partities
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d4d87d2a03bc0966a6e77d97cb68a2c38a3c676
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 0%
@@ -77,7 +77,7 @@ Zodra u deze persona opstelling hebt (_en_ als u werkruimten gebruikt), wilt u d
 
 1. Selecteer de werkruimte(n) waarmee u de map wilt delen. Klikken **Opslaan**.
 
-   ![](assets/image2015-5-27-11-3a6-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions.png)
 
    >[!NOTE]
    >
