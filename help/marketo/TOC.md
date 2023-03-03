@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: e4bd83abfeba54a777548926799f541b7b798ae5
+source-git-commit: f249988baa444b5e48a497225128a0771660649e
 workflow-type: tm+mt
 source-wordcount: '8832'
 ht-degree: 0%
@@ -1216,7 +1216,7 @@ ht-degree: 0%
          + [Is Sales Connect compatibel met Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Wat zijn de Servicevoorwaarden van Sales Connect?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [Wat is de integratie van Sales Connect en Highspot?](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
-         + [Welke browsers steunt de Acties van het Inzicht van de Verkoop?](product-docs/marketo-sales-connect/faq/which-browsers-does-sales-insight-actions-support.md)
+         + [Wat zijn de nieuwste clientversies?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
          + [Waarom worden mijn contacten niet geduwd op Sales Connect?](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [Waarom kan ik geen contactpersoon verwijderen?](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [Waarom werden niet al mijn contacten geduwd op Sales Connect?](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
@@ -1369,7 +1369,7 @@ ht-degree: 0%
             + [Hoe verwerken de Handelingen van het Inzicht van de Verkoop E-mail het-Dupliceren?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
             + [Ik ben buiten mijn account gezet. Wat doe ik?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [Is de Acties van het Inzicht van de Verkoop verenigbaar met Salesforce Bliksem?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
-            + [Wat zijn de nieuwste clientversies?](product-docs/marketo-sales-insight/actions/faq/what-are-the-latest-client-versions.md)
+            + [Welke browsers steunt de Acties van het Inzicht van de Verkoop?](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
             + [Wat zijn de voorwaarden van de Acties van het Inzicht van de Verkoop van de Dienst?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
             + [Waarom worden geen van mijn Contacten die aan de Acties van het Inzicht van de Verkoop worden geduwd?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [Waarom vullen mijn dynamische velden niet uit?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
