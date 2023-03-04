@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: f249988baa444b5e48a497225128a0771660649e
+source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
 workflow-type: tm+mt
-source-wordcount: '8832'
+source-wordcount: '8836'
 ht-degree: 0%
 
 ---
@@ -1216,7 +1216,7 @@ ht-degree: 0%
          + [Is Sales Connect compatibel met Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Wat zijn de Servicevoorwaarden van Sales Connect?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [Wat is de integratie van Sales Connect en Highspot?](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
-         + [Wat zijn de nieuwste clientversies?](product-docs/marketo-sales-connect/faq/what-are-the-latest-client-versions.md)
+         + [Welke browsers en e-mailclients worden ondersteund met Sales Connect?](product-docs/marketo-sales-connect/faq/which-browsers-and-email-clients-are-supported-with-sales-connect.md)
          + [Waarom worden mijn contacten niet geduwd op Sales Connect?](product-docs/marketo-sales-connect/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-connect.md)
          + [Waarom kan ik geen contactpersoon verwijderen?](product-docs/marketo-sales-connect/faq/why-cant-i-delete-a-contact.md)
          + [Waarom werden niet al mijn contacten geduwd op Sales Connect?](product-docs/marketo-sales-connect/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-connect.md)
