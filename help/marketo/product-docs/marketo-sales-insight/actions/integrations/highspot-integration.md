@@ -3,9 +3,9 @@ description: Highspot Integration - Marketo Docs - Productdocumentatie
 title: Integratie van kenmerken
 hide: true
 hidefromtoc: true
-source-git-commit: 342034eeca4ba0084824b833f14d8e8c3b65d6e3
+source-git-commit: ba7955f97921f7332e5272f6c62651011a1633c7
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,21 @@ De verkoop kan tot de mogelijkheden van de Markering van de Verkoop van de Actie
 >
 >U moet over beheerdersrechten beschikken om Highspot in te schakelen voor uw exemplaar Handelingen in het venster Handelingen in het oog op verkoopgegevens.
 
-1. Instellingen selecteren
+1. Klik op het tandwielpictogram en selecteer **Instellingen**.
 
-PICC
+   ![](assets/highspot-integration-1.png)
 
-1. Algemene instellingen selecteren op de zijbalk
+1. Onder **Beheerinstellingen**, selecteert u **Algemeen**.
 
-PICC
+   ![](assets/highspot-integration-2.png)
 
-1. Naar integratiekaart schuiven en Highspot inschakelen
+1. Schuiven naar **Integraties** en klik op de schuifregelaar om Markering in te schakelen.
 
-PICC
+   ![](assets/highspot-integration-3.png)
 
-1. Gebruikers zien nu een optie om Markering te selecteren wanneer ze de knop voor het uploaden van inhoud selecteren in het samenstellingsvenster, de sjablooneditor en de e-maileditor voor de campagne.
+Gebruikers zien nu een optie om Markering te selecteren wanneer ze de knop voor het uploaden van inhoud selecteren in het samenstellingsvenster, de sjablooneditor en de e-maileditor voor de campagne.
 
-PICC
+![](assets/highspot-integration-4.png)
 
 ## Toegang krijgen tot inhoud van Highspot en inhoud delen via e-mail {#accessing-highspot-content}
 
