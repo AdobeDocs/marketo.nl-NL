@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 0011d89b6e0b9ad9be8dceb2c60c85c522e84add
+source-git-commit: 303df236491f9574532c8b59289f89f505671acb
 workflow-type: tm+mt
-source-wordcount: '8836'
+source-wordcount: '8835'
 ht-degree: 0%
 
 ---
@@ -239,6 +239,7 @@ ht-degree: 0%
       + [Adobe-organisatietoewijzing instellen](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Een publiek synchroniseren vanuit Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Middelen importeren met Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+      + [Overzicht van Unified Shell](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
    + Core Marketo Concepts {#core-marketo-concepts}
       + Slimme campagnes {#smart-campaigns}
          + [Slimme campagnes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -1377,7 +1378,7 @@ ht-degree: 0%
             + [Waarom werden niet al mijn contacten geduwd op de acties van het Inzicht van de Verkoop?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Waarom wordt de activiteit van het volgen niet getoond in salesforce activiteit?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Integraties {#integrations}
-            + [E-mails loggen naar een externe bron](product-docs/marketo-sales-insight/actions/integrations/log-emails-to-an-external-source.md)
+            + [Integratie van kenmerken](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [Marketo-toegang verlenen aan gebruikers](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
             + [Interesserende momenten in de acties van het Inzicht van de Verkoop](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
