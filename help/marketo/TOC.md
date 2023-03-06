@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 303df236491f9574532c8b59289f89f505671acb
+source-git-commit: b507bee5e41aff140d4ed9f9a2c842398feb8306
 workflow-type: tm+mt
-source-wordcount: '8835'
+source-wordcount: '8829'
 ht-degree: 0%
 
 ---
@@ -1201,7 +1201,6 @@ ht-degree: 0%
             + [Overzicht van abonnement opzeggen](product-docs/marketo-sales-connect/email/unsubscribes/unsubscribe-overview.md)
          + Het venster Samenstellen gebruiken {#using-the-compose-window}
             + [Een bijlage of traceerbare inhoud toevoegen aan uw e-mail](product-docs/marketo-sales-connect/email/using-the-compose-window/add-an-attachment-or-trackable-content-to-your-email.md)
-            + [Inhoud markeren toevoegen aan uw e-mail](product-docs/marketo-sales-connect/email/using-the-compose-window/adding-highspot-content-to-your-email.md)
             + [Opties voor bulkverzending](product-docs/marketo-sales-connect/email/using-the-compose-window/bulk-sending-options.md)
             + [Bulke-mails samenstellen met Selecteren en Verzenden](product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
             + [Een e-mail plannen](product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
