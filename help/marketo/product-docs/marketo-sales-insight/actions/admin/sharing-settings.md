@@ -2,9 +2,9 @@
 description: Instellingen voor delen - Marketo-documenten - productdocumentatie
 title: Instellingen voor delen
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 U kunt uw sjablonen beter beheren door te beperken wat gebruikers kunnen delen en met welke categorieën.
 
-Wanneer uw Sales Connect-account voor het eerst wordt gemaakt, is het inschakelen van Instellingen voor delen ingeschakeld. Hierdoor krijgen uw accountbeheerders de mogelijkheid om uw sjablooncategorieën te maken en in te delen voordat ze de poorten openen en gebruikers de mogelijkheid bieden inhoud te delen in uw teamcategorieën.
+Wanneer uw account voor Handelingen in het Verkoopoverzicht voor het eerst wordt gemaakt, is het inschakelen van Instellingen voor delen ingeschakeld. Hierdoor krijgen uw accountbeheerders de mogelijkheid om uw sjablooncategorieën te maken en in te delen voordat ze de poorten openen en gebruikers de mogelijkheid bieden inhoud te delen in uw teamcategorieën.
 
 Wanneer het Delen van Montages wordt toegelaten, slechts zullen de beheerders in categorieën kunnen delen tenzij het delen van voorrechten aan een team of iedereen wordt verstrekt. Als Instellingen voor delen zijn uitgeschakeld, zijn er geen beperkingen en kunnen alle gebruikers de inhoud van elke sjablooncategorie delen.
 
@@ -45,7 +45,7 @@ Wanneer het Delen van Montages wordt toegelaten, slechts zullen de beheerders in
 
    >[!NOTE]
    >
-   >Als u geen teams ziet, moet u naar Teambeheer gaan en een team van gebruikers maken.
+   >Als u geen teams ziet, zult u naar het Beheer van het Team moeten gaan en een team van gebruikers creëren.
 
 1. Klikken **Teams toevoegen voor toegang** om op te slaan.
 
