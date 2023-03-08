@@ -3,9 +3,9 @@ unique-page-id: 13796464
 description: Overzicht van Sales Connect - Marketo-documenten - Productdocumentatie
 title: Overzicht van Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
-source-git-commit: 355c56a22f5eebaf7216de6288a97dba00bef72e
+source-git-commit: ac5d9c431a524164ce6f0cc076e9801ee52fd899
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -44,19 +44,19 @@ Zie hoe je verkoopkansen in huis hebben.
   </tr> 
   <tr> 
    <td><p>Verkoop-e-mail verzenden</p></td> 
-   <td><p>Gebruiker heeft een e-mailbericht over verkopen verzonden van MSE.</p></td> 
+   <td><p>Gebruiker heeft een e-mail met verkopen verzonden vanuit Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td><p>Verkoopbericht openen</p></td> 
-   <td><p>Lead heeft een e-mailbericht geopend dat door MSE is verzonden.</p></td> 
+   <td><p>Lead heeft een e-mailbericht geopend dat vanuit Sales Connect is verzonden.</p></td> 
   </tr> 
   <tr> 
    <td><p>Klik op E-mail verkoop</p></td> 
-   <td><p>De lead heeft op een koppeling geklikt in een e-mailbericht dat door MSE is verzonden.</p></td> 
+   <td><p>De lead heeft op een koppeling geklikt in een e-mailbericht dat via Sales Connect is verzonden.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>E-mailadres voor verkoop ontvangen</p></td> 
-   <td colspan="1"><p>De lead heeft een e-mail ontvangen die van MSE is verzonden.</p></td> 
+   <td colspan="1"><p>De lead heeft een e-mail ontvangen die is verzonden door Sales Connect.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Verkoper ontvangen</p></td> 
@@ -64,7 +64,7 @@ Zie hoe je verkoopkansen in huis hebben.
   </tr> 
   <tr> 
    <td colspan="1"><p>Toevoegen aan verkoopcampagne</p></td> 
-   <td colspan="1"><p>Lood is toegevoegd aan een verkoopcampagne die is gemaakt in MSE (op de pagina Campagnes).</p></td> 
+   <td colspan="1"><p>De lead is toegevoegd aan een verkoopcampagne die is gemaakt in Sales Connect (op de pagina Campagnes).</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Verwijderd uit verkoopcampagne</p></td> 
