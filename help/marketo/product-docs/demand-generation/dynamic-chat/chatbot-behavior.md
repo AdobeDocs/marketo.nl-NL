@@ -2,7 +2,7 @@
 description: Chatbotgedrag - Marketo Docs - Productdocumentatie
 title: Chatbotgedrag
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 1803d6355747f4b6300509a3d361bf235dd56f44
+source-git-commit: af8896e8675ae3ded689583fb5a348aff95cba83
 workflow-type: tm+mt
 source-wordcount: '1569'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoeken WP1</p>
       </td>
       <td>
-        <p>D1 wordt omgezet in V1 </p>
+        <p>D1 wordt omgezet in V1</p>
       </td>
       <td>Het aantal triggers voor D1 wordt met 1 verhoogd</td>
     </tr>
@@ -131,7 +131,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
       <td>
         <p>D1 gericht voor WP1 slechts, WP2</p>
         <p>V1 bezoekt WP1 voor het eerst</p>
-        <p>V1 klikt op D1 maar reageert niet </p>
+        <p>V1 klikt op D1 maar reageert niet</p>
         <p>V1 bezoeken WP2</p>
       </td>
       <td>
@@ -181,7 +181,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>D1 die slechts voor WP1 wordt gericht</p>
         <p>D2 alleen gericht op WP2</p>
         <p>V1 bezoekt WP1 voor het eerst</p>
-        <p>V1 klikt op D1 maar reageert niet </p>
+        <p>V1 klikt op D1 maar reageert niet</p>
         <p>V1 bezoeken WP2</p>
       </td>
       <td>D1 zal op WP1 worden opgelost<br/>
@@ -212,7 +212,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
         <p>V1 bezoekt WP1 voor het eerst</p>
         <p>V1 klikt op D1 en voltooit D1</p>
         <p>V1 bezoeken WP2</p>
-        <p>V1 klikt op D2 levert de eerste reactie </p>
+        <p>V1 klikt op D2 levert de eerste reactie</p>
       </td>
       <td>D1 zal op WP1 en na voltooiing worden opgelost<br/>D2 zal op WP2 worden opgelost</td>
       <td>
@@ -255,7 +255,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
       <td>
         <p>D1 die slechts voor WP1 wordt gericht</p>
         <p>V1 bezoekt WP1 voor het eerst</p>
-        <p>V1 met D1 </p>
+        <p>V1 met D1</p>
         <p>D1 is niet gepubliceerd</p>
         <p>V1 vernieuwt WP1</p>
       </td>
@@ -300,7 +300,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
       </td>
       <td>
         <p>Het aantal triggers voor D1 wordt met 1 verhoogd</p>
-        <p>Het aantal contracten voor D1 wordt met 1 verhoogd </p>
+        <p>Het aantal contracten voor D1 wordt met 1 verhoogd</p>
         <p>Na verfrissen zich, aangezien oude D1 zal verschijnen zodat geen verandering om telling teweeg te brengen</p>
       </td>
     </tr>
@@ -325,7 +325,7 @@ Hieronder volgen verschillende mogelijke scenario&#39;s waarin het verwachte ged
     <tr>
       <td>
         <p>D1 gericht voor WP1 met 1 prioriteit</p>
-        <p>D2 gericht op WP1 met 2 prioriteit </p>
+        <p>D2 gericht op WP1 met 2 prioriteit</p>
         <p>V1 bezoekt WP1 voor het eerst</p>
         <p>V1 klikt op D1 en voltooit D1</p>
         <p>V1 verfrist WP1 en zie D2<br/>V1 klikt op D2 en voltooit D2</p>
