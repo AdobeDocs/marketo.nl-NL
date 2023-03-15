@@ -2,9 +2,9 @@
 description: Rapporten - Marketo Docs - Productdocumentatie
 title: Rapporten
 exl-id: 25d20567-4bb9-4bc5-aeeb-0ff26d3909b3
-source-git-commit: 3e3446183875b8df7f6ec1fc4a78a5581b109aed
+source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '120'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ In het tabblad Rapporten geeft u de gegevens van de afgelopen 90 dagen weer. Elk
  </tr>
  <tr>
   <td><strong>Betrokken</strong></td>
-  <td>Hiermee wordt het aantal stappen verhoogd wanneer een bezoeker op het chassisanker klikt om het dialoogvenster te openen.</td>
+  <td>Toename wanneer een bezoeker met minstens één kaart in een Dialoog (b.v., Vraag, Info vangt, enz.) in wisselwerking staat</td>
  </tr>
  <tr>
   <td><strong>Voltooid</strong></td>
@@ -43,7 +43,7 @@ In het tabblad Rapporten geeft u de gegevens van de afgelopen 90 dagen weer. Elk
 
 >[!MORELIKETHIS]
 >
->* [Een dialoogvenster maken](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target=&quot;_blank&quot;}
->* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target=&quot;_blank&quot;}
->* [Criteria voor het publiek](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;}
+>* [Een dialoogvenster maken](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/create-a-dialogue.md){target="_blank"}
+>* [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"}
+>* [Criteria voor het publiek](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"}
 
