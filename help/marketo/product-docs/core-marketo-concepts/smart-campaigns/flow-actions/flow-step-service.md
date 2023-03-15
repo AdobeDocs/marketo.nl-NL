@@ -2,16 +2,16 @@
 description: Flow Step Service - Marketo Docs - Productdocumentatie
 title: Stroom Step Service
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
-source-git-commit: 5d95a77e5c836bf76d82f0db72781727b2743720
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '1243'
+source-wordcount: '1220'
 ht-degree: 0%
 
 ---
 
 # Stroom Step Service {#flow-step-service}
 
-De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie over het ontwerpen en publiceren van uw eigen service raadpleegt u de [GitHub-opslagplaats voor de Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target=&quot;_blank&quot;}. Er is een concepttest voor de implementatie van de opzoektabel gevonden [hier](https://github.com/adobe/mkto-flow-lookup){target=&quot;_blank&quot;}.
+De Zelfbediening Stappen van de Stroom is een kader en reeks eigenschappen voor creatie, het publiceren, en het integreren van de Webdiensten in de Slimme Campagnes van Adobe Marketo Engage. Deze handleiding is bedoeld voor eindgebruikers van Marketo Engage die services willen installeren en gebruiken die al zijn gemaakt en gepubliceerd. Voor informatie over het ontwerpen en publiceren van uw eigen service raadpleegt u de [GitHub-opslagplaats voor de Service Provider Interface](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Onboarding en Managing Services {#onboarding-and-managing-services}
 
@@ -28,10 +28,6 @@ Klikken **Volgende** om naar de sectie Enter Service Credentials te gaan.
 ## Voer servicekredieten in {#enter-service-credentials}
 
 Marketo moet over geldige API-referenties beschikken om toegang te krijgen tot de geïnstalleerde service. Deze geloofsbrieven zouden aan u door uw dienstverlener moeten worden verstrekt. De diensten hebben drie verschillende authentificatieopties, zodat kunt u één van drie verschillende herinneringen voor geloofsbrieven zien: **API-sleutel** dat slechts één invoerveld heeft, **Basisverificatie** waarvoor een gebruikersnaam en wachtwoord vereist zijn en waarvoor mogelijk ook een veld met de naam Realm vereist is, en **OAuth2** met de _Client Credentials_ subsidie, waarvoor een _Client-id_ en _Clientgeheim_.
-
->[!NOTE]
->
->OAuth2 zal niet beschikbaar tot de 11e versie van maart zijn.
 
 Wanneer u uw geloofsbrieven bewaart, zal Marketo proberen om het statuseindpunt van de dienst te roepen om te verifiëren dat zij geldig zijn. Als de opgegeven referenties ongeldig zijn, wordt een fout weergegeven die dit aangeeft.
 

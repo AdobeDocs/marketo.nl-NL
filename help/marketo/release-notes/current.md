@@ -2,7 +2,7 @@
 description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: d744ef8f0798bfef540f49e2a6890eaa307569c4
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 2%
@@ -19,7 +19,7 @@ Hieronder vindt u alle functies die zijn opgenomen in de release van 23 maart. R
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
-De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **24 maart 2023**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
+De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **31 maart 2023**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
 
 ### Marketo Engage Moderne UX {#modern-ux}
 

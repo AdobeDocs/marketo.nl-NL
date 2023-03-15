@@ -1,9 +1,9 @@
 ---
 description: Opmerkingen bij de release - januari 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - januari 2023
-source-git-commit: 5ffbe1b9c7571cae520a2088f05cfeef5a0cc20e
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '637'
 ht-degree: 1%
 
 ---
@@ -86,7 +86,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tr>
   <tr> 
    <td>Verzonden</td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

@@ -3,9 +3,9 @@ description: Unified Shell-overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van Unified Shell
 hide: true
 hidefromtoc: true
-source-git-commit: bc481a80629ded19f3a8ff159540244c7cd73302
+source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ PICC
 
 Als u de bovenstaande fout ontvangt, gelieve [contactondersteuning](https://nation.marketo.com/t5/support/ct-p/Support) voor hulp.
 
-Dit is wat er verandert voor Marketo:
+Steven&#39;s Notes
 
 Aanmelden gebeurt via Experience Cloud/IMS
 
@@ -84,4 +84,4 @@ De Geschiedenis van de gebruiker, Globaal Onderzoek, de Meldingen van Marketo en
 
 Historieboom in Mijn Marketo verdwijnt
 
-Bladwijzers werken niet (voor nu). We hoeven dit nu niet op te roepen, maar verwijderen het als je tekst uit het document van Bizible kopieert (hun bladwijzers werken).
+Geen bladwijzers
