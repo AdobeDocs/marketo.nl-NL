@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: dd3844ad0d32f8ffab2d611f437b1e8522fb9988
+source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
 workflow-type: tm+mt
-source-wordcount: '8831'
+source-wordcount: '8843'
 ht-degree: 0%
 
 ---
@@ -1396,6 +1396,9 @@ ht-degree: 0%
                + [Groepen beheren](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Kolommen met personenpagina&#39;s](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Telefoonnummer {#phone}
+            + [Resultaten bellen](product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
+            + [Redenen voor oproepen](product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
+            + [De Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce](product-docs/marketo-sales-insight/actions/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
             + [Schakel Call Recording in](product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)
             + [International Calling](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [Lokale aanwezigheid](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
