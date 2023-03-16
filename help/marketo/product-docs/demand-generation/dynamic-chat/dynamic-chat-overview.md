@@ -2,9 +2,9 @@
 description: Dynamisch chatoverzicht - Marketo Docs - Productdocumentatie
 title: Dynamisch chatoverzicht
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 91e04b4282f18f8074d0192fae42e62dfe5ebb80
+source-git-commit: 5cd5873132e38d7adea02739da39aebeb3979124
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '857'
 ht-degree: 1%
 
 ---
@@ -33,23 +33,23 @@ Het volgende wordt gesynchroniseerd:
 
 ## Dialoogvensters {#dialogues}
 
-Dialoogvensters vertegenwoordigen één chatgesprek. Beschouw het als een container met alle informatie die u nodig hebt om een aansprekende chatdialoog met uw websitebezoekers te voeren. In elk dialoogvenster kunt u opgeven op welke pagina(&#39;s) u het dialoogvenster wilt weergeven, aan wie u het dialoogvenster wilt laten weergeven, en kunt u de inhoud en de stroom van het dialoogvenster zelf opgeven. Bovendien kunt u metriek vinden om te zien hoe goed uw Dialoog presteert. [Meer informatie over dialoogvensters](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target=&quot;_blank&quot;}.
+Dialoogvensters vertegenwoordigen één chatgesprek. Beschouw het als een container met alle informatie die u nodig hebt om een aansprekende chatdialoog met uw websitebezoekers te voeren. In elk dialoogvenster kunt u opgeven op welke pagina(&#39;s) u het dialoogvenster wilt weergeven, aan wie u het dialoogvenster wilt laten weergeven, en kunt u de inhoud en de stroom van het dialoogvenster zelf opgeven. Bovendien kunt u metriek vinden om te zien hoe goed uw Dialoog presteert. [Meer informatie over dialoogvensters](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md){target="_blank"}.
 
 ## Configuratie {#configuration}
 
-In het lusje van de Configuratie, pas de blik en het gevoel van uw diverse Dialogen aan. Wijzig lettertype, kleuren, responstijd en meer! [Meer informatie over Configuratie](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target=&quot;_blank&quot;}.
+In het lusje van de Configuratie, pas de blik en het gevoel van uw diverse Dialogen aan. Wijzig lettertype, kleuren, responstijd en meer! [Meer informatie over Configuratie](/help/marketo/product-docs/demand-generation/dynamic-chat/configuration.md){target="_blank"}.
 
 ## Kalender {#calendar}
 
-Verbind uw Vooruitzichten of Gmail kalender voor gebruik in benoeming die in het praatje plant. [Meer informatie over Kalender](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target=&quot;_blank&quot;}
+Verbind uw Vooruitzichten of Gmail kalender voor gebruik in benoeming die in het praatje plant. [Meer informatie over Kalender](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md){target="_blank"}
 
 ## Vergaderingen {#meetings}
 
-Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschillende dialoogvensters. [Meer informatie over vergaderingen](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target=&quot;_blank&quot;}
+Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschillende dialoogvensters. [Meer informatie over vergaderingen](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md){target="_blank"}
 
 ## Routering {#routing}
 
-Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben aangesloten, welke orde zij aan websitebezoekers zullen worden voorgesteld, en douane het verpletteren regels tot stand brengen. [Leer meer over het Verpletteren](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target=&quot;_blank&quot;}
+Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben aangesloten, welke orde zij aan websitebezoekers zullen worden voorgesteld, en douane het verpletteren regels tot stand brengen. [Leer meer over het Verpletteren](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
 
 ## Veelgestelde vragen {#faq}
 
@@ -111,8 +111,18 @@ Wanneer u de taal bijwerkt, verandert alles in de app zelf, behalve de woorden d
   <th>Limiet</th>
  <tr>
   <td>Totaal aantal dialoogvensters</td>
-  <td>Totaal aantal dialoogvensters (gepubliceerd en concept)</td>
+  <td>Aantal dialoogvensters (gepubliceerd en concept)</td>
   <td>500</td>
+ </tr>
+ <tr>
+  <td>Totaal aantal kalenders</td>
+  <td>Aantal verbonden kalenders</td>
+  <td>25</td>
+ </tr>
+ <tr>
+  <td>Totaal aantal gebruikers (beheerders en marketinggebruikers)</td>
+  <td>Aantal gecombineerde gebruikers toegestaan per Dynamic Chat-instantie</td>
+  <td>50</td>
  </tr>
  <tr>
   <td>Gepubliceerde dialoogvensters</td>
@@ -171,12 +181,12 @@ Wanneer u de taal bijwerkt, verandert alles in de app zelf, behalve de woorden d
  </tr>
  <tr>
   <td>Gesprek</td>
-  <td>Aantal chatgesprekken waarmee webbezoekers per dag kunnen werken</td>
-  <td>1,000</td>
+  <td>Aantal chatgesprekken waarmee webbezoekers per maand kunnen werken</td>
+  <td>250</td>
  </tr>
  <tr>
   <td>Gesprek geactiveerd</td>
-  <td>Aantal praatjegesprekken die aan Webbezoekers per dag kunnen worden getoond</td>
+  <td>Aantal chatgesprekken dat per maand aan webbezoekers kan worden getoond</td>
   <td>25,000</td>
  </tr>
 </table>
