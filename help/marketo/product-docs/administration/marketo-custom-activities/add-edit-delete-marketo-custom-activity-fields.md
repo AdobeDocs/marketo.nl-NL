@@ -3,9 +3,9 @@ unique-page-id: 10100275
 description: Aangepaste activiteitsvelden van Marketo toevoegen/bewerken/verwijderen - Marketo Docs - Productdocumentatie
 title: Aangepaste activiteitsvelden van Marketo toevoegen/bewerken/verwijderen
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 6283a9fda6c8577dacfbd3782cda41058fbf67a2
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -86,7 +86,7 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
    >[!CAUTION]
    >
-   >U kunt de Api-naam alleen bewerken of het veld wijzigen in Primair als de aangepaste activiteit nog niet is gepubliceerd. Als de activiteit reeds is gepubliceerd, kunt u de naam van het gebied en facultatieve beschrijving slechts uitgeven.
+   >U kunt de Api-naam alleen bewerken of het veld wijzigen in Primair als de aangepaste activiteit nog niet is gepubliceerd.
 
    >[!NOTE]
    >
