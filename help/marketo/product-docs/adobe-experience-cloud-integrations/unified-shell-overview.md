@@ -3,7 +3,7 @@ description: Unified Shell-overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van Unified Shell
 hide: true
 hidefromtoc: true
-source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
+source-git-commit: 427b79a584a003204f344ed9c219489c25abfc59
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Naast de bijgewerkte look en feel zult u de volgende functies opmerken:
 
 **Geïntegreerd Help Center**
 
-Zoeken naar ondersteuningsartikelen, tickets verzenden, feedback geven vanuit de [!DNL Marketo Engage] toepassing.
+Toegang tot verschillende beschikbare Help-bronnen vanuit de [!DNL Marketo Engage] toepassing.
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -52,7 +52,7 @@ Bekijk en communiceer rechtstreeks in de toepassing met productspecifieke meldin
 
 **Adobe-instellingen**
 
-Klik op het profielpictogram om de taal of andere voorkeuren voor de hele Adobe te wijzigen. U kunt ook [!DNL Marketo Engage]-specifieke wijzigingen door te klikken **Mijn instellingen**.
+Klik op het profielpictogram om de taal of andere voorkeuren voor de hele Adobe te wijzigen.
 
 ![](assets/unified-shell-overview-5.png)
 
@@ -65,3 +65,7 @@ Als u zich kunt aanmelden bij Adobe Experience Cloud maar de fout &quot;Kan pagi
 **Waar zijn de Geschiedenis van de Gebruiker, Globaal Onderzoek, de Meldingen van Marketo, en het taakdienblad gegaan?**
 
 Deze eigenschappen zijn bewogen van hoogste nav aan een nieuwe bar op de linkerkant in Verenigde Shell.
+
+![](assets/unified-shell-overview-6.png)
+
+![](assets/unified-shell-overview-7.png)
