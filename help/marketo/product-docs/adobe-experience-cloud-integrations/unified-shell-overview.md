@@ -3,9 +3,9 @@ description: Unified Shell-overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van Unified Shell
 hide: true
 hidefromtoc: true
-source-git-commit: b4f0831ae98dd12a61d7ea5359586ca0b1a0971c
+source-git-commit: b6ec2e1dfa04cb19f92b18117219763a8aa774dc
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Verenigd Shell richt de &quot;shell&quot;blik en gevoel van de toepassingen en d
 
 Als u nog niet bent aangemeld bij een Adobe Experience Cloud-product, meldt u zich rechtstreeks aan bij [!DNL Marketo Engage] hier: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-Als u _zijn_ al aangemeld bij een Adobe Experience Cloud-product, klikt u gewoon op het menupictogram en selecteert u **[!DNL Marketo Measure]**.
+Als u _zijn_ al aangemeld bij een Adobe Experience Cloud-product, klikt u gewoon op het menupictogram en selecteert u **[!DNL Marketo Engage]**.
 
 ![](assets/unified-shell-overview-1.png)
 
