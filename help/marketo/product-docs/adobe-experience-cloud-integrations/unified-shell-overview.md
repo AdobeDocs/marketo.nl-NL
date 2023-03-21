@@ -3,9 +3,9 @@ description: Unified Shell-overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van Unified Shell
 hide: true
 hidefromtoc: true
-source-git-commit: f48d0c91667072e5286604c0b7141296cba5542a
+source-git-commit: b4f0831ae98dd12a61d7ea5359586ca0b1a0971c
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,9 @@ Verenigd Shell richt de &quot;shell&quot;blik en gevoel van de toepassingen en d
 
 **Unified Shell Flow**
 
-Als u al bent aangemeld bij een Adobe Experience Cloud-product, klikt u op het menupictogram en selecteert u **[!DNL Marketo Measure]**.
+Als u nog niet bent aangemeld bij een Adobe Experience Cloud-product, meldt u zich rechtstreeks aan bij [!DNL Marketo Engage] hier: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
+
+Als u _zijn_ al aangemeld bij een Adobe Experience Cloud-product, klikt u gewoon op het menupictogram en selecteert u **[!DNL Marketo Measure]**.
 
 ![](assets/unified-shell-overview-1.png)
 
@@ -26,60 +28,40 @@ Als u al bent aangemeld bij een Adobe Experience Cloud-product, klikt u op het m
 >
 >Het vervolgkeuzemenu ziet er mogelijk anders uit, afhankelijk van de Adobe Experience Cloud-producten waarop u zich hebt geabonneerd.
 
-Als je _niet_ al aangemeld bij een Adobe Experience Cloud-product, rechtstreeks aanmelden bij [!DNL Marketo Engage] hier: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
-
 ## Nieuwe functies {#new-features}
 
 Naast de bijgewerkte look en feel zult u de volgende functies opmerken:
-
-**Domeinbeheer**
-
-[Uw [!DNL Marketo Engage] domeinen](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) zonder bijstand van [!DNL Marketo Engage].
-
-PIC2
 
 **Geïntegreerd Help Center**
 
 Zoeken naar ondersteuningsartikelen, tickets verzenden, feedback geven vanuit de [!DNL Marketo Engage] toepassing.
 
-![](assets/unified-shell-overview-3.png)
+![](assets/unified-shell-overview-2.png)
 
 **Application Switcher**
 
 Diegenen die toegang hebben tot meerdere Adobe-producten kunnen gemakkelijk van elkaar wisselen.
 
-PIC4
+![](assets/unified-shell-overview-3.png)
 
 **Meldingen en aankondigingen**
 
 Bekijk en communiceer rechtstreeks in de toepassing met productspecifieke meldingen en algemene productaankondigingen van Adobe.
 
-![](assets/unified-shell-overview-5.png)
+![](assets/unified-shell-overview-4.png)
 
 **Adobe-instellingen**
 
 Klik op het profielpictogram om de taal of andere voorkeuren voor de hele Adobe te wijzigen. U kunt ook [!DNL Marketo Engage]-specifieke wijzigingen door te klikken **Mijn instellingen**.
 
-![](assets/unified-shell-overview-6.png)
+![](assets/unified-shell-overview-5.png)
 
 ## Veelgestelde vragen {#faq}
 
 **Ik kan me niet aanmelden bij [!DNL Marketo Engage] door de Verenigde Shell. Wat zou het probleem kunnen zijn?**
 
-Als u zich kunt aanmelden bij Adobe Experience Cloud, maar de pagina als volgt ziet, kan de uitgave zich voordoen op het tabblad [!DNL Marketo Engage] zijde:
+Als u zich kunt aanmelden bij Adobe Experience Cloud maar de fout &quot;Kan pagina niet laden&quot; ziet, kan het probleem zich voordoen in het dialoogvenster [!DNL Marketo Engage] zijde. Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support) voor hulp.
 
-PIC7
+**Waar zijn de Geschiedenis van de Gebruiker, Globaal Onderzoek, de Meldingen van Marketo, en het taakdienblad gegaan?**
 
-Als u de bovenstaande fout ontvangt, gelieve [contactondersteuning](https://nation.marketo.com/t5/support/ct-p/Support) voor hulp.
-
-Steven&#39;s Notes
-
-Aanmelden gebeurt via Experience Cloud/IMS
-
-Toegang tot uw Marketo-exemplaar wordt verkregen via de &quot;Marketo Launch Page&quot;, die een tegel heeft voor elke Marketo-instantie waartoe de gebruiker toegang heeft in zijn of haar organisatie. Vervolgens kunnen ze Marketo starten door op de tegel te klikken.
-
-De Geschiedenis van de gebruiker, Globaal Onderzoek, de Meldingen van Marketo en de Lay-out van de Taak bewegen van hoogste bar aan een nieuwe bar op de linkerkant
-
-Historieboom in Mijn Marketo verdwijnt
-
-Geen bladwijzers
+Deze eigenschappen zijn bewogen van hoogste nav aan een nieuwe bar op de linkerkant in Verenigde Shell.
