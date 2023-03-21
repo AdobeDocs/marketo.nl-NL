@@ -3,9 +3,9 @@ description: Unified Shell-overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van Unified Shell
 hide: true
 hidefromtoc: true
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: f48d0c91667072e5286604c0b7141296cba5542a
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Verenigd Shell richt de &quot;shell&quot;blik en gevoel van de toepassingen en d
 
 Als u al bent aangemeld bij een Adobe Experience Cloud-product, klikt u op het menupictogram en selecteert u **[!DNL Marketo Measure]**.
 
-PICC
+![](assets/unified-shell-overview-1.png)
 
 >[!NOTE]
 >
@@ -36,33 +36,31 @@ Naast de bijgewerkte look en feel zult u de volgende functies opmerken:
 
 [Uw [!DNL Marketo Engage] domeinen](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) zonder bijstand van [!DNL Marketo Engage].
 
-PICC
+PIC2
 
 **Geïntegreerd Help Center**
 
 Zoeken naar ondersteuningsartikelen, tickets verzenden, feedback geven vanuit de [!DNL Marketo Engage] toepassing.
 
-PICC
+![](assets/unified-shell-overview-3.png)
 
 **Application Switcher**
 
 Diegenen die toegang hebben tot meerdere Adobe-producten kunnen gemakkelijk van elkaar wisselen.
 
-PICC
+PIC4
 
 **Meldingen en aankondigingen**
 
 Bekijk en communiceer rechtstreeks in de toepassing met productspecifieke meldingen en algemene productaankondigingen van Adobe.
 
-PICC
-
-PICC
+![](assets/unified-shell-overview-5.png)
 
 **Adobe-instellingen**
 
 Klik op het profielpictogram om de taal of andere voorkeuren voor de hele Adobe te wijzigen. U kunt ook [!DNL Marketo Engage]-specifieke wijzigingen door te klikken **Mijn instellingen**.
 
-PICC
+![](assets/unified-shell-overview-6.png)
 
 ## Veelgestelde vragen {#faq}
 
@@ -70,7 +68,7 @@ PICC
 
 Als u zich kunt aanmelden bij Adobe Experience Cloud, maar de pagina als volgt ziet, kan de uitgave zich voordoen op het tabblad [!DNL Marketo Engage] zijde:
 
-PICC
+PIC7
 
 Als u de bovenstaande fout ontvangt, gelieve [contactondersteuning](https://nation.marketo.com/t5/support/ct-p/Support) voor hulp.
 
