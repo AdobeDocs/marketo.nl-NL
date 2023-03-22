@@ -3,9 +3,9 @@ unique-page-id: 4720433
 description: Protocollen configureren voor Marketo - Marketo Docs - Productdocumentatie
 title: Protocollen voor Marketo configureren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 3d29cb4cf4af7d83a82d47cfd6b0c44d659ee82b
+source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1021'
 ht-degree: 2%
 
 ---
@@ -20,13 +20,12 @@ Uw marketinggroep maakt gebruik van Marketo om pagina&#39;s en e-mails met brand
 
 Dit artikel zou met de afdeling van IT van het bedrijf moeten worden gedeeld die deze protocollen willen uitvoeren.
 
->[!NOTE]
->
->Als uw team van IT Webtoegang gebruikend een lijst van gewenste personen beperkt, vraag hen om de volgende domeinen (met inbegrip van de asterisk) toe te voegen om alle middelen en websockets van Marketo toe te staan:
+Als uw team van IT Webtoegang gebruikend een lijst van gewenste personen beperkt, vraag hen om de volgende domeinen (met inbegrip van de asterisk) toe te voegen om alle middelen en websockets van Marketo toe te staan:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
+* `*.experience.adobe.com`
 
 ## Stap 1: DNS-records maken voor bestemmingspagina&#39;s en e-mail {#step-create-dns-records-for-landing-pages-and-email}
 
@@ -40,7 +39,7 @@ Voeg de bestemmingspagina CNAME toe die zij u naar uw DNS verslag hebben verzond
 
 * Alias: Enter `[YourLandingPageCNAME]` (verstrekt door marketing)
 * Type: CNAME
-* Wijs aan: Enter `[MarketoAccountString].mktoweb.com` (verstrekt door marketing)
+* Wijs aan: Enter `[MunchkinID].mktoweb.com` (verstrekt door marketing)
 
 `2` **CNAME toevoegen voor koppelingen voor e-mailtracking**
 
@@ -59,7 +58,7 @@ Bijvoorbeeld:
 
 Melden aan uw marketingteam wanneer u dit proces hebt voltooid.
 
-`4` **Contact [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target=&quot;_blank&quot;} om het inrichtingsproces van een SSL-certificaat te starten.**
+`4` **Contact [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces van levering van een SSL Certificaat te beginnen.**
 
 Dit proces kan maximaal 3 werkdagen duren.
 
@@ -104,7 +103,7 @@ Uw marketingteam had u ook DKIM-informatie moeten sturen die u wilt toevoegen aa
 
    `[DKIMDomain2]`: Hostrecord is `[HostRecord2]` en de TXT-waarde is `[TXTValue2]`.
 
-   Kopieer de waarden HostRecord en TXTV voor elke DKIMDomain die u hebt ingesteld na het volgen van [instructies hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target=&quot;_blank&quot;}. Vergeet niet om elk domein in Admin > E-mail > DKIM te verifiëren nadat uw personeel van IT deze stap heeft voltooid.
+   Kopieer de waarden HostRecord en TXTV voor elke DKIMDomain die u hebt ingesteld na het volgen van [instructies hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Vergeet niet om elk domein in Admin > E-mail > DKIM te verifiëren nadat uw personeel van IT deze stap heeft voltooid.
 
 ## Stap 4: MX-records instellen voor uw domein {#step-set-up-mx-records-for-your-domain}
 
@@ -116,11 +115,11 @@ Een uitgaande verbinding wordt gemaakt door Marketo Engage naar een server op in
 
 **Webhaken**
 
-Marketo Engage [Webhaken](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target=&quot;_blank&quot;} is een uitgaande integratiemechanisme. Wanneer een [Bellen Webhaak](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target=&quot;_blank&quot;} wordt uitgevoerd als onderdeel van een slimme campagne, er wordt een HTTP-aanvraag ingediend bij een externe webservice. Als de uitgever van de Webdienst een lijst van gewenste personen op de firewall van het netwerk gebruikt waar de externe Webdienst wordt gevestigd, dan moet de uitgever de IP hieronder vermelde adresblokken aan hun lijst van gewenste personen toevoegen.
+Marketo Engage [Webhaken](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} are an outbound integration mechanism. When a [Call Webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} De stroomactie wordt uitgevoerd als deel van een slimme campagne, een HTTP- verzoek wordt gemaakt aan een externe Webdienst. Als de uitgever van de Webdienst een lijst van gewenste personen op de firewall van het netwerk gebruikt waar de externe Webdienst wordt gevestigd, dan moet de uitgever de IP hieronder vermelde adresblokken aan hun lijst van gewenste personen toevoegen.
 
 **CRM-synchronisatie**
 
-Marketo Engage [Salesforce CRM-synchronisatie](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target=&quot;_blank&quot;} en [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target=&quot;_blank&quot;} zijn integratiemechanismen die uitgaande HTTP-aanvragen indienen bij API&#39;s die door uw CRM-leverancier zijn gepubliceerd. U moet ervoor zorgen dat uw organisatie van IT om het even welke IP adresblokken hieronder van de toegang tot van uw leverancier APIs van CRM niet blokkeert.
+Marketo Engage [Salesforce CRM-synchronisatie](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} zijn integratiemechanismen die uitgaande HTTP- verzoeken aan APIs maken die door uw verkoper van CRM worden gepubliceerd. U moet ervoor zorgen dat uw organisatie van IT om het even welke IP adresblokken hieronder van de toegang tot van uw leverancier APIs van CRM niet blokkeert.
 
 **Marketo Engage Uitgaande IP de Blokken van het Adres**
 
