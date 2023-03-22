@@ -2,9 +2,9 @@
 description: Adobe Identity Management - Overzicht - Marketo Docs - Productdocumentatie
 title: Adobe Identity Management - Overzicht
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 034e3a9a1e2e7feec749afe981aaaf804a4bcddc
+source-git-commit: 05377b78181d002926623268d1fdca40c7b80f46
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -122,6 +122,10 @@ Nee. De uitnodigingsworkflow van de gebruiker is niet meer actief wanneer een ab
 **Voor Adobe IMS, hebben wij de optie om Adobe ID, Enterprise ID, of Federated ID te gebruiken?**
 
 Ja, u bepaalt het type identiteit om uw organisatiesteun te hebben. Hier vindt u meer informatie: [Identiteitsoverzicht](https://helpx.adobe.com/enterprise/using/identity.html) en hier: [Identiteit instellen](https://helpx.adobe.com/enterprise/using/set-up-identity.html).
+
+**Welke productkaarten worden ondersteund in de Adobe Admin Console?**
+
+De ondersteunde productkaarten zijn: Handelingen Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect en Marketo Sales Insight.
 
 >[!MORELIKETHIS]
 >
