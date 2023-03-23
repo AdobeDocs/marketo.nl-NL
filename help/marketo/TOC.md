@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
+source-git-commit: c53002db5778ce06031a0727c85b1b30aca172e0
 workflow-type: tm+mt
-source-wordcount: '8843'
+source-wordcount: '8849'
 ht-degree: 0%
 
 ---
@@ -1287,6 +1287,7 @@ ht-degree: 0%
          + [Overzicht van de functie Handelingen Handelingen in het verkoopoverzicht](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Aan de slag {#getting-started}
             + [Handleiding voor het toezicht op de verkoop](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
+            + [Handelingen voor het toezicht op de verkoop Gebruiker aan boord](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Handleiding voor installatie van Admin Setup voor het inzicht in verkoop](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Je Marketo-verkoopwachtwoord wijzigen](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [Limieten voor productgebruik](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
