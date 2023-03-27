@@ -3,13 +3,17 @@ description: Handelingen voor het toezicht op de gebruiker op instapkaarten - Ma
 title: Handelingen voor het toezicht op de verkoop Gebruiker aan boord
 hide: true
 hidefromtoc: true
-source-git-commit: 0507bc7dfdfda6a19dd9838852c52de9d278ddc6
+source-git-commit: e524fc6c2209e17f849f40fe4d09b691f3e26799
 workflow-type: tm+mt
-source-wordcount: '23'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
 # Handelingen voor het toezicht op de verkoop Gebruiker aan boord {#sales-insight-actions-user-onboarding-checklist}
 
-Tekst
+De onboarding checklist zal u en uw team helpen de activering, de configuratie, en het aan boord gaan van uw nieuwe instantie van de Acties van het Inzicht van de Verkoop coördineren. U zult updates in Marketo, Salesforce, en de Acties van het Inzicht van de Verkoop van Marketo moeten maken om de opstelling te voltooien, zodat zult u met beheerders van elk systeem moeten coördineren.
+
+Klik op de onderstaande afbeelding om de controlelijst weer te geven en te downloaden.
+
+[![](assets/sales-insight-actions-user-onboarding-checklist-1.png)](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)
