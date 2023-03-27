@@ -2,7 +2,7 @@
 description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+source-git-commit: 945ac03e37cd88cbfff89f17056db78107ebb138
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 2%
@@ -27,7 +27,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 * **Verbeterd Gebruikt door Component voor de Details van het Malplaatje van de Landingspagina en de Details van de Vorm**: Het tabblad Nieuw Wordt gebruikt door UI bevat aanvullende informatie in Sjabloongegevens voor bestemmingspagina en Formulierdetails, waaronder meer informatie over elementen die een geselecteerd element hebben gebruikt. Analyseer op lange lijsten met middelen door de zoek-, sorteer- en filtermogelijkheden uit te voeren.
 
-   <table> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -67,7 +67,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tbody>
 </table>
 
-### API-verbeteringen {#api-enhancements}
+### Updates voor integratie {#integration-updates}
 
 </br>
 
