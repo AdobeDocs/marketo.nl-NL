@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: Stappen instellen - Marketo Docs - Productdocumentatie
 title: Stappen instellen
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 7b0f5e9e39a2521c32a9b718a07c3ed524079eaf
+source-git-commit: 6dc38462b08f9db639d2d5ee005c4bdf5131b701
 workflow-type: tm+mt
-source-wordcount: '2085'
+source-wordcount: '2054'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Sommige stappen vereisen hulp van uw team van IT.
 
 >[!TIP]
 >
->Als u [deze checklist afdrukken](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;} kunt u items uitchecken wanneer u ze hebt voltooid.
+>Als u [deze checklist afdrukken](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}, je kunt objecten uitchecken wanneer je ze hebt voltooid.
 
 ## Aanmelden en extra Marketo-gebruikers maken {#log-in-and-create-additional-marketo-users}
 
-1. Aanmelden bij Marketo [hier](https://app.marketo.com/){target=&quot;_blank&quot;} met de gegevens die u per e-mail hebt ontvangen.
+1. Aanmelden bij Marketo [hier](https://app.marketo.com/){target="_blank"} met de gegevens die u per e-mail hebt ontvangen.
 
    ![](assets/setup-steps-1.png)
 
@@ -79,7 +79,7 @@ Selecteer een rol en klik op **Volgende**. Standaardgebruikers hebben toegang to
 
 >[!NOTE]
 >
->Naast de vijf ingebouwde rollen, kunt u douanerollen ook tot stand brengen. Meer informatie over [Gebruikersrollen en -machtigingen beheren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target=&quot;_blank&quot;}.
+>Naast de vijf ingebouwde rollen, kunt u douanerollen ook tot stand brengen. Meer informatie over [Gebruikersrollen en -machtigingen beheren](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 Voel u vrij om de uitnodigingstekst aan te passen. Klikken **Verzenden**.
 
@@ -91,13 +91,13 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
 ## Stel uw geautoriseerde ondersteuningscontactpersonen in {#set-up-your-authorized-support-contacts}
 
-Mogelijk hebt u een e-mail van Marketo Support ontvangen waarin staat dat u de beheerder voor klantenondersteuning van Marketo voor uw bedrijf bent. Zo ja, dan kunt u instellen **geautoriseerde ondersteuningscontactpersonen** voor uw team. Alleen geautoriseerde supportcontactpersonen kunnen rechtstreeks via de [Marketo Support Portal](https://support.marketo.com){target=&quot;_blank&quot;}.
+Mogelijk hebt u een e-mail van Marketo Support ontvangen waarin staat dat u de beheerder voor klantenondersteuning van Marketo voor uw bedrijf bent. Zo ja, dan kunt u instellen **geautoriseerde ondersteuningscontactpersonen** voor uw team. Alleen geautoriseerde supportcontactpersonen kunnen rechtstreeks via de [Marketo Support Portal](https://support.marketo.com){target="_blank"}.
 
 >[!NOTE]
 >
 >Het aantal ondersteuningscontacten dat u kunt maken, wordt bepaald door het pakket dat u hebt aangeschaft. Deze limiet is opgegeven in uw e-mail van Marketo Support.
 
-Contactdocumenten voor geautoriseerde ondersteuning zijn verplaatst naar de Marketo Community. Zie [dit artikel](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target=&quot;_blank&quot;}.
+Contactdocumenten voor geautoriseerde ondersteuning zijn verplaatst naar de Marketo Community. Zie [dit artikel](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
 
 >[!NOTE]
 >
@@ -125,19 +125,19 @@ Kies een NAAM voor de bestemmingspagina&#39;s. Enkele voorbeelden:
 
 Het eerste deel (vet weergegeven) is het `[LandingPageCNAME]`. Je hebt het nodig in Stap 5.
 
-Ga naar het beheergebied om de accounttekenreeks op te halen die u vervangt door de CNAME van de bestemmingspagina.
+Ga naar het beheergebied als u de Munchkin-id wilt ophalen die u vervangt door de CNAME van de bestemmingspagina.
 
 ![](assets/setup-steps-9.png)
 
-Klikken **Openingspagina&#39;s**.
+Klikken **Mijn account**.
 
 ![](assets/setup-steps-10.png)
 
-Kopieer de tekenreeks Account uit de instellingen van de openingspagina.
+Blader omlaag naar &quot;Ondersteuningsinformatie&quot; en kopieer uw Munchkin-id.
 
 ![](assets/setup-steps-11.png)
 
-Dit is het `[AccountString]`. Sla het bestand op. U moet het aan IT in Stap 5 geven.
+Dit is het `[Munchkin ID]`. Sla het bestand op. U moet het aan IT in Stap 5 geven.
 
 Configureer uw domeininstellingen zodat bestemmingspagina&#39;s het domein van uw bedrijf gebruiken in plaats van Marketo (waar ze worden gehost).
 
@@ -155,7 +155,7 @@ Er zijn verschillende maatregelen die u kunt nemen om ervoor te zorgen dat de e-
 * **Stel een MX-record in voor uw domein.** Met een MX-record kunt u e-mail ontvangen naar het domein waarvan u e-mail verzendt om reacties en auto-responders te verwerken. Als u van uw collectief domein verzendt, hebt u waarschijnlijk reeds gevormd dit. Als niet, kunt u opstelling gewoonlijk aan kaart aan het MX verslag van uw collectief domein.
 * **Aanbevolen instellingen voor Van adres.** U moet een geldig, bestaand en werkend e-maildomein in Van Adres in alle e-mailcampagnes gebruiken. Het kan nuttig zijn om subdomain van uw collectief domein eerder dan het verzenden van uw collectief domein te vormen. Dit zorgt ervoor dat problemen van uw zakelijke mailstream geen invloed hebben op uw Marketo mailstream en vice versa. Bovendien sturen van post van `something@nonexistentdomain.com` zorgt ervoor dat e-mail wordt gefilterd of geblokkeerd. Elk domein dat in het Van Adres van de afzender wordt gebruikt, moet een geldige en werkende postmaster@ en een misbruikaccount hebben.
 
-Als u Google Apps gebruikt om uw bedrijfs e-mail te ontvangen, zult u geen misbruik@ of postmaster@ e-mails onder uw domein kunnen tot stand brengen. Om dit probleem te verhelpen, moet u groepen maken met de naam &quot;misbruik&quot; en &quot;postmeester&quot;. Gebruikers die lid zijn van deze groepen ontvangen e-mails die naar deze adressen worden verzonden (bijvoorbeeld postmaster@domain.com). Gedetailleerde instructies voor het maken van groepen zijn te vinden [hier](https://support.google.com/a/answer/33343#adminconsole){target=&quot;_blank&quot;}.
+Als u Google Apps gebruikt om uw bedrijfs e-mail te ontvangen, zult u geen misbruik@ of postmaster@ e-mails onder uw domein kunnen tot stand brengen. Om dit probleem te verhelpen, moet u groepen maken met de naam &quot;misbruik&quot; en &quot;postmeester&quot;. Gebruikers die lid zijn van deze groepen ontvangen e-mails die naar deze adressen worden verzonden (bijvoorbeeld postmaster@domain.com). Gedetailleerde instructies voor het maken van groepen zijn te vinden [hier](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
 Kies een CNAME voor koppelingen voor het bijhouden van e-mail (kies een CNAME die _verschillend_ van de landingspagina (CNAME u in Stap 3 koos). Enkele voorbeelden:
 
@@ -207,13 +207,13 @@ Plak deze tekst in het e-mailbericht en vervang de gebrande plaatsaanduidingen:
 >
 >Zie Stap 3 en 4 hierboven om de tekst te bepalen die de plaatsaanduidingen moet vervangen. Vergeet niet dat `[LandingPageCNAME]` en `[EmailTrackingCNAME]` moet anders zijn.
 
-`---------------------------------------------`
+`----------------------------------------------`
 
 Geachte Awesome IT Administrator,
 
 Ons marketingteam gebruikt nu het Marketo-platform om met onze mensen te communiceren. Voor een goede e-mailleverbaarheid moeten we de volgende wijzigingen aanbrengen:
 
-`1)` Voor onze landingspagina&#39;s, voeg een DNS Ingang (CNAME) voor toe **[LandingPageCNAME]**.**[CompanyDomain]**.com, aanwijzen naar **[AccountString]**.mktoweb.com.
+`1)` Voor onze landingspagina&#39;s, voeg een DNS Ingang (CNAME) voor toe **[LandingPageCNAME]**.**[CompanyDomain]**.com, aanwijzen naar **[Munchkin-id]**.mktoweb.com.
 
 `2)` Voor onze het volgen verbindingen in e-mail, voeg een DNS Ingang (CNAME) voor toe **[EmailTrackingCNAME]**.**[CompanyDomain]**.com, aanwijzen naar **[MktoTrackingLink]**.
 
@@ -276,7 +276,7 @@ Liefde
 
 **`[Your Name]`**
 
-`---------------------------------------------`
+`----------------------------------------------`
 
 Stuur de e-mail naar de IT-afdeling. We begrijpen dat het enige tijd kan duren voordat IT deze taken kan uitvoeren. U kunt doorgaan naar stap 7, maar vergeet niet dat u Stap 6 moet retourneren om de Marketo-instellingen te voltooien.
 
@@ -335,7 +335,7 @@ Kies uit het volgende, afhankelijk van CRM uw bedrijf gebruikt.
 >
 >Bent u een klant van het Pak van de Lancering? U kunt deze stap overslaan. Uw consultant zal u in het handboek met instructies voor de installatie van uw IT-afdeling codeinstructies geven.
 
-Marketo beschikt over JavaScript voor het bijhouden van wijzigingen (Munchkin genoemd) waarmee u activiteiten van personen op elke webpagina kunt bijhouden. Munchkin is vereist om uw website in Marketo te integreren. Ga als volgt te werk: [Munchkin-trackingcode toevoegen aan uw website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target=&quot;_blank&quot;}.
+Marketo beschikt over JavaScript voor het bijhouden van wijzigingen (Munchkin genoemd) waarmee u activiteiten van personen op elke webpagina kunt bijhouden. Munchkin is vereist om uw website in Marketo te integreren. Ga als volgt te werk: [Munchkin-trackingcode toevoegen aan uw website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -343,6 +343,6 @@ Marketo beschikt over JavaScript voor het bijhouden van wijzigingen (Munchkin ge
 
 ## Prestatieverwachtingen {#performance-expectations}
 
-Wat kunt u van Marketo verwachten op het gebied van prestaties? Deze kan variëren, afhankelijk van de grootte en complexiteit van uw marketingcampagnes. Maar u kunt prestatieniveaus op gelijke voet met wat in de &quot;Standaard&quot;kolom in verscheidene lijsten verwachten die in worden gevonden in [Marketo Engage Productbeschrijving](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target=&quot;_blank&quot;}. De kolommen &quot;Prestaties&quot; en &quot;Prestaties Plus&quot; verwijzen naar pakketten met prestatieniveaus die [hogere prestatieniveaus](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target=&quot;_blank&quot;}.
+Wat kunt u van Marketo verwachten op het gebied van prestaties? Deze kan variëren, afhankelijk van de grootte en complexiteit van uw marketingcampagnes. Maar u kunt prestatieniveaus op gelijke voet met wat in de &quot;Standaard&quot;kolom in verscheidene lijsten verwachten die in worden gevonden in [Marketo Engage Productbeschrijving](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Al uw opstellingsstappen zijn voorbij. Het enige wat er over is, is om in te duiken en Marketo te gebruiken.
