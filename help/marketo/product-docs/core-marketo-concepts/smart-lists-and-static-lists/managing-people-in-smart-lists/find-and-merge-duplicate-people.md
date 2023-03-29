@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Dubbele personen zoeken en samenvoegen - Marketo Docs - Productdocumentatie
 title: Dubbele personen zoeken en samenvoegen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,6 @@ Voor details van Salesforce gedrag wanneer het samenvoegen van Leads of Contacte
 
 ## Bulksamenvoeging {#bulk-merging}
 
-Als u te veel duplicaten hebt om handmatig samen te voegen, neemt u contact op met de succesmanager van de klant om uw opties te bespreken.
+Als u te veel duplicaten hebt om handmatig samen te voegen, neemt u contact op met het Adobe-accountteam (uw accountmanager) om uw opties te bespreken.
 
-Super! Als u met CRM wordt verbonden zullen de verslagen daar volgens de hieronder regels samenvoegen.
+Als u met CRM wordt verbonden, zullen de verslagen daar volgens de hieronder regels samenvoegen.

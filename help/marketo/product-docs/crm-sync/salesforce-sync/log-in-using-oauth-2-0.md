@@ -2,9 +2,9 @@
 description: Aanmelden met OAuth 2.0 - Marketo Docs - Productdocumentatie
 title: Aanmelden met OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-source-git-commit: c15753e0f2af199af8fd7e8bfe0924a915a39814
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te sta
 >
 >* API-toegang moet zijn ingeschakeld voor de Salesforce Sync-gebruiker (als u een Salesforce Professional Edition-gebruiker bent, is deze toegang standaard niet beschikbaar. Neem contact op met uw Salesforce Account Executive).
 >* Marketo Sync-gebruiker moet worden gemaakt in Salesforce.
->* Voor bestaande klanten, wordt de Eigenschap om &quot;OAuth voor synchronisatie toe te laten SFDC&quot;toegelaten op het abonnement van de klant.
+>* Voor bestaande klanten is de functie &quot;OAuth inschakelen voor SFDC-synchronisatie&quot; ingeschakeld op het abonnement van de klant.
 >* Pop-upblokkeerders zijn uitgeschakeld.
 >* Connected App is gemaakt en we hebben de Consumer Key en Consumer Secret beschikbaar voor gebruik.
 
@@ -76,7 +76,7 @@ Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te sta
 
    >[!CAUTION]
    >
-   >Als u de velden Gebruikersnaam/Wachtwoord/Token ziet en niet de knop Aanmelden met Salesforce, is uw Marketo-abonnement ingeschakeld voor Basisverificatie. Zie [Marketo instellen met basisverificatie](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Wanneer de synchronisatie begint met het gebruik van een set aanmeldingsgegevens, wordt er niet overgeschakeld op Salesforce-gegevens of -abonnement. Als u Oauth 2.0 wilt gebruiken, neem contact op met uw Manager van het Succes van de Klant.
+   >Als u de velden Gebruikersnaam/Wachtwoord/Token ziet en niet de knop Aanmelden met Salesforce, is uw Marketo-abonnement ingeschakeld voor Basisverificatie. Zie [Marketo instellen met basisverificatie](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md). Wanneer de synchronisatie begint met het gebruik van een set aanmeldingsgegevens, wordt er niet overgeschakeld op Salesforce-gegevens of -abonnement. Als u Oauth 2.0 wilt gebruiken, contacteer aan het Team van de Rekening van de Adobe (uw Manager van de Rekening).
 
 1. Er wordt een pop-up weergegeven met de aanmeldingspagina voor verkopers. Sleutel in uw aanmeldingsgegevens voor &quot;Marketo Sync User&quot; (Gebruiker synchroniseren) en meld u aan.
 

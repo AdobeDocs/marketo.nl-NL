@@ -4,9 +4,9 @@ title: Aan de slag met voorspellend publiek
 hide: true
 hidefromtoc: true
 exl-id: d39afacc-30e0-4b7c-9b78-18fa95505553
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -26,10 +26,10 @@ De prestaties van de AI/ML-modellen zijn afhankelijk van de gegevens in uw abonn
 
 ## Beschikbaarheid {#availability}
 
-Het voorspellende publiek wordt automatisch opgenomen en geactiveerd voor instanties die gebruikmaken van de prijsbundels voor de eerste of de laatste. Neem contact op met de succesmanager van de klant voor meer informatie over het verkrijgen van toegang tot deze functie.
+Het voorspellende publiek wordt automatisch opgenomen en geactiveerd voor instanties die gebruikmaken van de prijsbundels voor de eerste of de laatste. Neem voor meer informatie over het verkrijgen van toegang tot deze functie contact op met het accountteam van Adobe (uw accountmanager).
 
 1. Als de functie eenmaal aan uw instantie is toegevoegd, navigeert u naar de **[!UICONTROL Predictive Audiences]** pagina in de **[!UICONTROL Admin]** gebied van [!DNL Marketo Classic].
 
-1. Controleren **[!UICONTROL Enable Predictive Audiences]** om de functie te activeren. Het kan tot 24 uur duren voordat alle processen zijn ingesteld.
+1. Controleren **[!UICONTROL Enable Predictive Audiences]** om de functie te activeren. Het kan tot 24 uur duren voordat alle processen zijn ingesteld.
 
    ![Afbeelding één](assets/getting-started-with-predictive-audiences-1.png)

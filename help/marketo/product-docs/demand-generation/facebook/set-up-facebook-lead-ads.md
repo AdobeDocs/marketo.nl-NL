@@ -3,9 +3,9 @@ unique-page-id: 11379622
 description: Facebook Lead Ads instellen - Marketo Docs - Productdocumentatie
 title: Facebook Lead Ads instellen
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Gebruiken [Facebook Lead Ads](https://www.facebook.com/business/a/lead-ads) om a
 
 >[!AVAILABILITY]
 >
->Neem contact op met Customer Success Manager om Facebook Lead Ads aan uw exemplaar toe te voegen.
+>Neem contact op met het Adobe-accountteam (uw accountmanager) om Facebook Lead Ads aan uw exemplaar toe te voegen.
 
 1. Ga naar Marketo **Beheer**.
 

@@ -3,9 +3,9 @@ unique-page-id: 10098625
 description: Microsoft Dynamics Sync - Marketo Docs - Productdocumentatie
 title: Werken met Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
-source-git-commit: 17cacaa56a437a568bd0d2cc23020f3f880eaf52
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Marketo en Microsoft Dynamics gaan samen. We houden je verkoop- en marketinggege
 
 >[!CAUTION]
 >
->Sandboxvernieuwing voor Marketo Dynamics Sync wordt momenteel niet ondersteund. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van Marketo worden vereist. Neem contact op met de succesmanager van de klant voor meer informatie.
+>Sandboxvernieuwing voor Marketo Dynamics Sync wordt momenteel niet ondersteund. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van Marketo worden vereist. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 ## Hoe synchroniseren werkt {#how-sync-works}
 

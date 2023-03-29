@@ -2,9 +2,9 @@
 description: Rapportageoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van rapporten
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ Marketo biedt verschillende rapporteringsmodules voor verschillende behoeften.
 
 ## Basisrapportage {#basic-reporting}
 
-U kunt instellen [basisverslagen](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target=&quot;_blank&quot;} in programma&#39;s of in het gedeelte Analytics. De basisrapporten worden samengesteld uit verschillende types van uit-van-de-doos rapporten met de flexibiliteit om, tijdopnemers te filtreren te sorteren en aan te passen.
+U kunt instellen [basisverslagen](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} in programma&#39;s of in het gebied Analytics. De basisrapporten worden samengesteld uit verschillende types van uit-van-de-doos rapporten met de flexibiliteit om, tijdopnemers te filtreren te sorteren en aan te passen.
 
 ## E-mailinzichten {#email-insights}
 
-Analyses en verzendingen gebruiken voor [krachtige inzichten](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target=&quot;_blank&quot;} op e-mails van historische gegevens.
+Analyses en verzendingen gebruiken voor [krachtige inzichten](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} op e-mails van historische gegevens.
 
 ## Prestatie-inzichten {#performance-insights}
 
-[Prestatie-inzichten](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target=&quot;_blank&quot;} heeft betrekking op kanaalprestaties en programmaprestaties voor het maken van betrokkenheid, pijplijnen en opbrengsten.
+[Prestatie-inzichten](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} omvat kanaalprestaties en programmaprestaties voor overeenkomst, pijpleiding, en opbrengstgeneratie.
 
 ## Geavanceerde BI-analyserapportage {#advanced-bi-analytics-reporting}
 
@@ -31,7 +31,7 @@ _(voorheen bekend als Revenue Cycle Explorer/Advanced Report Builder)_
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben Advanced BI Analytics en Advanced Journey Analytics modules aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
+>Niet iedereen heeft Advanced BI Analytics en Advanced Journey Analytics modules aangeschaft. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
 
 Houd de ROI bij uw marketinginitiatieven. Analyseer e-mails, Personen, Programma&#39;s, Kansen, de ModelAnalyse van Prestaties (Bedrijven), en de ModelAnalyse van Prestaties (Leads). In de BI Explorer kunt u aangepaste rapporten maken in het analysegebied en grafieken, grafieken, draaipunten en dashboards maken met uw gegevens.
 

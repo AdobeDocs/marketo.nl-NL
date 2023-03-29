@@ -3,9 +3,9 @@ unique-page-id: 2360366
 description: Stap 3 van 3 - Connect Marketo en Salesforce (Enterprise/Unlimited) - Marketo Docs - Productdocumentatie
 title: Stap 3 van 3 - Connect Marketo en Salesforce (Enterprise/Onbeperkt)
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
-source-git-commit: 8781c6cf2e64543809fe697e75ae6884969a4e40
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ In dit artikel configureert u Marketo voor synchronisatie met de geconfigureerde
 
    >[!CAUTION]
    >
-   >Als u een knop Aanmelden bij Salesforce ziet in plaats van de velden Gebruikersnaam/Wachtwoord/Token, is uw Marketo-abonnement ingeschakeld voor OAuth. Gelieve [verwijzen naar dit artikel](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Zodra de synchronisatie begint met het gebruik van een set Referenties **er is geen omschakeling van de geloofsbrieven van Salesforce of abonnement**. Als u Basisauthentificatie wilt gebruiken, contacteer uw Manager van het Succes van de Klant.
+   >Als u een knop Aanmelden bij Salesforce ziet in plaats van de velden Gebruikersnaam/Wachtwoord/Token, is uw Marketo-abonnement ingeschakeld voor OAuth. Gelieve [verwijzen naar dit artikel](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Zodra de synchronisatie begint met het gebruik van een set Referenties **er is geen omschakeling van de geloofsbrieven van Salesforce of abonnement**. Als u Basisverificatie wilt gebruiken, neemt u contact op met het Adobe-accountteam (uw accountmanager).
 
 1. Lees de waarschuwing en klik vervolgens op **Credentials bevestigen**.
 

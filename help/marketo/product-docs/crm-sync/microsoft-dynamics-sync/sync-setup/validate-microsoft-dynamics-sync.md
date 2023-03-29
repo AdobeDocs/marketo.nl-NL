@@ -3,9 +3,9 @@ unique-page-id: 8783322
 description: Microsoft Dynamics Sync valideren - Marketo Docs - Productdocumentatie
 title: Microsoft Dynamics Sync valideren
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Het is erg belangrijk om het gereedschap Synchronisatie valideren uit te voeren 
 
    >[!CAUTION]
    >
-   >Sandboxvernieuwing voor Marketo Dynamics Sync wordt momenteel niet ondersteund. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van Marketo worden vereist. Neem contact op met de succesmanager van de klant voor meer informatie.
+   >Sandboxvernieuwing voor Marketo Dynamics Sync wordt momenteel niet ondersteund. Als u uw zandbak van CRM van de Dynamica moet verfrissen, zal een nieuwe zandbak van Marketo worden vereist. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 >[!MORELIKETHIS]
 >

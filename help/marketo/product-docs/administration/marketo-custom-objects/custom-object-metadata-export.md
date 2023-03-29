@@ -2,9 +2,9 @@
 description: Metagegevens aangepaste objecten exporteren - Marketo Docs - Productdocumentatie
 title: Metagegevens van aangepast object exporteren
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
-source-git-commit: a7fc7701326c51c802d4c632385d1de355646ad0
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Als u onze SOAP API of Munchkin API gebruikt, kan het Schema van de Meta-gegeven
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functie aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
+>Niet alle klanten hebben deze functie aangeschaft. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
 
 1. Klik in Mijn Marketo op **Beheer**.
 

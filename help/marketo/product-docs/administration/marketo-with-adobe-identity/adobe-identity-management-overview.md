@@ -2,22 +2,22 @@
 description: Adobe Identity Management - Overzicht - Marketo Docs - Productdocumentatie
 title: Adobe Identity Management - Overzicht
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
-source-git-commit: 05377b78181d002926623268d1fdca40c7b80f46
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '1098'
+source-wordcount: '1096'
 ht-degree: 0%
 
 ---
 
 # Adobe Identity Management - Overzicht {#adobe-identity-management-overview}
 
-Als u vanaf 15 februari 2022 een nieuwe account bij Adobe Marketo Engage hebt (een nieuwe account, niet alleen een nieuw exemplaar voor een bestaande account), wordt deze mogelijk geïntegreerd met het Adobe Identity Management System, afhankelijk van het aangeschafte productpakket. Neem contact op met de Marketo Admin of met de Customer Success Manager van uw account als u dit doet.
+Als u vanaf 15 februari 2022 een nieuwe account bij Adobe Marketo Engage hebt (een nieuwe account, niet alleen een nieuw exemplaar voor een bestaande account), wordt deze mogelijk geïntegreerd met het Adobe Identity Management System, afhankelijk van het aangeschafte productpakket. Neem contact op met het Adobe-accountteam (uw accountmanager) als u dit doet.
 
 Bestaande Marketo-abonnementen zullen in de tweede helft van 2023 worden gemigreerd naar het Adobe Identity Management-systeem.
 
 >[!NOTE]
 >
->Marketo Support kan geen updates voor Adobe IMS-migratie leveren. Uw manager van het Succes van de Klant zal met de geschatte chronologie in de komende maanden bereiken.
+>Marketo Support kan geen updates voor Adobe IMS-migratie leveren. Het accountteam van Adobe bereikt het geschatte tijdpad in de komende maanden.
 
 ## Profielniveaus {#profile-levels}
 
@@ -61,7 +61,7 @@ Adobe Identity Management System bestaat uit drie componenten.
 
 **Wanneer worden bestaande Marketo Engage-abonnementen geïntegreerd met IMS?**
 
-Bestaande Marketo-abonnementen zullen later dit jaar naar het Adobe Identity Management-systeem worden gemigreerd. Marketo Support kan geen updates voor Adobe IMS-migratie leveren. Uw manager van het Succes van de Klant zal met de geschatte chronologie in de komende maanden bereiken.
+Bestaande Marketo-abonnementen zullen later dit jaar naar het Adobe Identity Management-systeem worden gemigreerd. Marketo Support kan geen updates voor Adobe IMS-migratie leveren. Het accountteam van Adobe bereikt het geschatte tijdpad in de komende maanden.
 
 **Wat is het verschil tussen een Adobe-productbeheerder en een Marketo Engage-beheerder?**
 

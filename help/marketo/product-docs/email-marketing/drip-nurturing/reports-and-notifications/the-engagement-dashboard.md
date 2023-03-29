@@ -3,9 +3,9 @@ unique-page-id: 2359685
 description: Het betrokkenheidsdashboard - Marketo Docs - Productdocumentatie
 title: Het betrokkenheidsdashboard
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
-source-git-commit: 8920bc525075923b32e7330da20debb7b8f47b06
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Geeft de gemiddelde betrokkenheidsscore over een bepaalde periode weer en de imp
 
 >[!AVAILABILITY]
 >
->Deze functie is beschikbaar als een invoegtoepassing voor klanten die gebruikmaken van de Internet Explorer van Marketo. Neem contact op met de succesmanager van de klant voor meer informatie.
+>Deze functie is beschikbaar als een invoegtoepassing voor klanten die gebruikmaken van de Internet Explorer van Marketo. Neem contact op met het Adobe-accountteam (uw accountmanager) voor meer informatie.
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

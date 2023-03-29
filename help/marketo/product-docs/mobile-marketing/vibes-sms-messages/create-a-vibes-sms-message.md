@@ -3,9 +3,9 @@ unique-page-id: 11378869
 description: Een SMS-bericht over Vibes maken - Marketo Docs - Productdocumentatie
 title: Een SMS-bericht voor Vibes maken
 exl-id: 9ec0da97-7a80-4c40-be79-be08d7d1d9c1
-source-git-commit: 35e86ac356e61e9d6b9a663e468ced1e9a947144
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Hier is hoe u een SMS-bericht van Vibes kunt maken.
 
 >[!AVAILABILITY]
 >
->Deze functie is beschikbaar als een invoegtoepassing voor uw Adobe Marketo Engage-account. Voor een correcte levering moet het via Adobe worden aangekocht. Neem voor meer informatie contact op met uw Adobe Customer Success Manager.
+>Deze functie is beschikbaar als een invoegtoepassing voor uw Adobe Marketo Engage-account. Voor een correcte levering moet het via Adobe worden aangekocht. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ unique-page-id: 12979006
 description: Overzicht van prestatie-inzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van prestatiegegevens
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
-source-git-commit: 8f7b773f964b68a7964744de8c1bd3b708719a12
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Met Marketo Performance Insights kunt u uw kanaalmix optimaliseren voor maximale
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functie aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
+>Niet iedereen heeft deze functie aangeschaft. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
 
 Met Performance Insights worden gegevens uit (maximaal) de voorafgaande 24 maanden geladen. Dit omvat actuele gegevens over het lopende jaar en de gegevens over het voorgaande jaar. Op 31 januari 2019 zal MPI bijvoorbeeld gegevens laden van die maand, en elke maand vanaf 2018. Op 31 december 2019 zal MPI gegevens laden van elke maand van 2019 en 2018.
 

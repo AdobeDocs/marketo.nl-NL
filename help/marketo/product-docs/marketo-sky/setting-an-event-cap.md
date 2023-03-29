@@ -4,9 +4,9 @@ title: Een gebeurtenissenkaart instellen
 hide: true
 hidefromtoc: true
 exl-id: 8a46d97b-77a7-479a-b7ac-580ec65171fd
-source-git-commit: 59768a413038472e38d28e5fb8bcadc4419b360d
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Beperk het aantal personen dat zich voor uw gebeurtenis kan registreren met een 
 
 >[!NOTE]
 >
->Niet alle klanten hebben deze functie aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
+>Niet iedereen heeft deze functie aangeschaft. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
 
 >[!IMPORTANT]
 >U moet ten minste twee goedgekeurde openingspagina&#39;s (een registratiepagina en een volledige registratiepagina) in het programma hebben voordat u een uiteinde voor de gebeurtenis kunt instellen.

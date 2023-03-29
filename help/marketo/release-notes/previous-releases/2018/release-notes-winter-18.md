@@ -3,9 +3,9 @@ unique-page-id: 13795395
 description: Opmerkingen bij de release - Winter '18 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - Winter '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '598'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Deze verbeteringen zullen in de loop van 2018 worden doorgevoerd.
 
 >[!AVAILABILITY]
 >
->Performance Insights is een add-on product. Neem contact op met uw Marketo Customer Success Manager of Account Executive voor een prijsopgave.
+>Performance Insights is een add-on product. Neem contact op met uw Marketo-accountmanager of -accountmanager voor een prijsopgave.
 
 Onderzoek hoe uw campagnes en kanalen bedrijfsresultaten met attributieanalyses, interactieve visualisaties, en een gedetailleerde gegevenslijst beïnvloeden.
 
@@ -98,7 +98,7 @@ Vanaf 1 maart 2018 worden alle e-mails verzonden van [ToutApp.com](https://ToutA
 
 **Update van live feed**
 
-We hebben de vormgeving van de tabbladen Betrokkenheid en Taak bijgewerkt, zodat verkopers gemakkelijker en sneller kunnen reageren op de activiteiten van hun klanten rechtstreeks via Live Feed.
+We hebben de vormgeving van de tabbladen Betrokkenheid en Taak bijgewerkt, zodat verkopers gemakkelijker en sneller kunnen reageren op de activiteiten van hun klanten via Live Feed.
 
 **Update van weergave Personen**
 

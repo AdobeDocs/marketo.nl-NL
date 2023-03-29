@@ -3,9 +3,9 @@ unique-page-id: 14745959
 description: Opmerkingen bij de release - lente 18 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - lente '18
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Klik op de titelkoppelingen om gedetailleerde artikelen voor elke functie weer t
 
 >[!AVAILABILITY]
 >
->Sales Engage is een invoegtoepassing. Neem contact op met uw Marketo Customer Success Manager of Account Executive voor een prijsopgave.
+>Sales Engage is een invoegtoepassing. Neem contact op met uw Marketo-accountmanager of -accountmanager voor een prijsopgave.
 
 U kunt meer pijpleidingen en inkomsten aansturen door verkoop meer mogelijkheden te bieden met de intelligentie, de inhoud, de playbooks en de analysemogelijkheden om meer van uw leads om te zetten in verkoopmogelijkheden. Verkoop Ingenieur voorziet verkoop en marketing van een verenigd platform voor overeenkomst over de klantenreis en laat betere coördinatie door een gedeelde mening van klant toe touchpoints.
 

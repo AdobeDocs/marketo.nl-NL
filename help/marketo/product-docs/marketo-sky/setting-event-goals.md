@@ -4,9 +4,9 @@ title: Gebeurtenisdoelen instellen
 hide: true
 hidefromtoc: true
 exl-id: bc581336-e78b-4e0e-bdff-b62e1bd99fba
-source-git-commit: d229d152cbdae4f6b2e35700b85052d9c0b748d6
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,8 @@ ht-degree: 0%
 Geef uw gebeurtenissen specifieke doelstellingen en zie hoe zij presteren.
 
 >[!IMPORTANT]
->Niet alle klanten hebben deze functie aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
+>
+>Niet iedereen heeft deze functie aangeschaft. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
 
 1. Maak een gebeurtenisprogramma.
 

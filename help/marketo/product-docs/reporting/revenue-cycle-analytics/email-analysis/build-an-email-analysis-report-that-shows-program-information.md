@@ -3,9 +3,9 @@ unique-page-id: 2360409
 description: Een e-mailanalyserapport maken waarin de programmagegevens worden weergegeven - Marketo Docs - Productdocumentatie
 title: Een e-mailanalyserapport maken waarin programmagegevens worden weergegeven
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
-source-git-commit: 40af69d035323a066fd61dcb51fe1636fb26e8c2
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Ga als volgt te werk om een e-mailanalyserapport te maken waarin de e-mailgegeve
 
 >[!AVAILABILITY]
 >
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem voor meer informatie contact op met de succesmanager van de klant.
+>Niet iedereen heeft deze functie aangeschaft. Neem contact op met het accountteam van Adobe (uw accountmanager) voor meer informatie.
 
 1. Starten **Ontdekkingsreiziger voor inkomsten**.
 

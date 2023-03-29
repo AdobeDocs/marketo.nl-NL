@@ -3,9 +3,9 @@ unique-page-id: 11384018
 description: Opmerkingen bij de release - herfst '16 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - herfst '16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '682'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Met een Universal ID hebt u toegang tot meerdere Marketo-abonnementen met één 
 
 ## Op Marketo-account gebaseerde marketingverbeteringen {#marketo-account-based-marketing-enhancements}
 
-Nu, kunt u rekeningsteams aan genoemde rekeningen in Account Based Marketing (ABM), bijvoorbeeld, rekeningseigenaar, verkoopontwikkelingsvertegenwoordiger, bedrijfsontwikkelingsvertegenwoordiger, en manager van het klantensucces toewijzen. U kunt ook accountspecifieke accountlijsten samenstellen en gepersonaliseerde wekelijkse ABM-rapporten naar het accountteam sturen.
+Nu, kunt u rekeningsteams aan genoemde rekeningen in Account Based Marketing (ABM), bijvoorbeeld, rekeningseigenaar, verkoopontwikkelingsvertegenwoordiger, bedrijfsontwikkelingsvertegenwoordiger, en rekeningsmanager toewijzen. U kunt ook accountspecifieke accountlijsten samenstellen en gepersonaliseerde wekelijkse ABM-rapporten naar het accountteam sturen.
 
 ![](assets/account-team-11-15-16.png)
 
