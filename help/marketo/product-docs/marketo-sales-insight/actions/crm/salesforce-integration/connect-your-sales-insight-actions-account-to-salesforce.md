@@ -1,10 +1,8 @@
 ---
 description: Sluit uw account voor Handelingen Handelingen Handelingen Handelingen Verkoopcontrole aan op Salesforce - Marketo Docs - Productdocumentatie
 title: Sluit uw account voor Handelingen in het kader van Handelingen in het kader van Verkoopoverzicht aan op Salesforce
-hide: true
-hidefromtoc: true
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
-source-git-commit: 238e2049ecb70c8fdc6d0d9c2fae8b7b99fcc17f
+source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -33,7 +31,7 @@ Volg deze eenvoudige stappen om de rekening van de Acties van het Inzicht van de
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
-1. Als u al bent aangemeld bij Salesforce, hebt u verbinding. Als u dat niet doet, wordt u gevraagd u aan te melden.
+1. Als u al bij Salesforce bent aangemeld, hebt u verbinding. Als je dat niet bent, wordt je gevraagd je aan te melden.
 
 ## Verbinding maken als niet-beheerder {#how-to-connect-as-a-non-admin}
 
@@ -51,4 +49,4 @@ Volg deze eenvoudige stappen om de rekening van de Acties van het Inzicht van de
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 
-1. Als u al bent aangemeld bij Salesforce, hebt u verbinding. Als u dat niet doet, wordt u gevraagd u aan te melden.
+1. Als u al bij Salesforce bent aangemeld, hebt u verbinding. Als je dat niet bent, wordt je gevraagd je aan te melden.
