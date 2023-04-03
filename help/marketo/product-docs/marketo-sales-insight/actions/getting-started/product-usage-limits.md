@@ -2,10 +2,10 @@
 description: Limieten voor productgebruik - Marketo-documenten - productdocumentatie
 title: Limieten voor productgebruik
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: 152b8e4f39dd9036e9479dc58b21d20c46c9e658
+source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 13%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,6 +17,11 @@ De volgende limieten gelden voor het gebruik van uitgebreide mogelijkheden voor 
   <th>Functionaliteit</th>
   <th>Snelheid</th>
   <th>Limiet</th>
+ <tr>
+  <td>Marketo Person Database synchroniseren</td>
+  <td>lopend</td>
+  <td>1.500.000 mensen</td>
+ </tr>
  <tr>
   <td>Verkoop-e-mailverzendingen</td>
   <td>per gebruiker/per dag</td>
