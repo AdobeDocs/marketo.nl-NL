@@ -3,9 +3,9 @@ unique-page-id: 2953132
 description: Slimme campagnes in batch en trigger - Marketo Docs - Productdocumentatie
 title: Slimme campagnes in batch en trigger
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,11 @@ Er zijn twee soorten slimme campagnes: Batch en Trigger.
 
 Slimme batchcampagnes hebben alleen filters in de sectie van de slimme lijst (dus geen triggers).
 
-![](assets/batch-filter.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
 Klik op de knop **Schema** bevestigt dat de slimme campagne is ingesteld op &quot;Batch&quot;.
 
-![](assets/batch-c4.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
 **Slimme batch-campagnes**
 
@@ -47,11 +47,11 @@ Klik op de knop **Schema** bevestigt dat de slimme campagne is ingesteld op &quo
 
 Als een slimme campagne minstens één trigger in de sectie van de slimme lijst gebruikt, wordt de modus automatisch ingesteld op geactiveerd.
 
-![](assets/trigger.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
 Klik op de knop **Schema** wordt bevestigd dat de slimme campagne is ingesteld op &quot;Trigered&quot;.
 
-![](assets/trigger2.png)
+![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 
 **Slimme campagnes activeren**
 

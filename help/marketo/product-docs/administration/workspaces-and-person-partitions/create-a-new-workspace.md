@@ -3,7 +3,7 @@ unique-page-id: 2360311
 description: Een nieuwe werkruimte maken - Marketo Docs - Productdocumentatie
 title: Een nieuwe werkruimte maken
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -74,4 +74,4 @@ Maak zoveel werkruimten als u nodig hebt en wijs de juiste partitie(s) aan hen t
 
 Nadat u de werkruimte hebt gemaakt, wordt de update weergegeven.
 
-![](assets/image2014-9-17-15-3a39-3a10.png)
+![](assets/create-a-new-workspace-7.png)

@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: Segmenten delen op werkruimten en partities - Marketo Docs - Productdocumentatie
 title: Segmenten delen over werkruimten en partities
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 4d4d87d2a03bc0966a6e77d97cb68a2c38a3c676
+source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,35 +49,35 @@ Zodra u deze persona opstelling hebt (_en_ als u werkruimten gebruikt), wilt u d
 
 ## Voorbeeldscenario&#39;s {#example-scenarios}
 
-![](assets/image2015-5-27-16-3a26-3a25.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-1.png)
 
-![](assets/image2015-5-27-16-3a26-3a48.png)
+![](assets/share-segmentations-across-workspaces-and-partitions-2.png)
 
 ## Een segmentatie delen {#share-a-segmentation}
 
 1. Ga naar de **Database**.
 
-   ![](assets/image2017-3-29-8-3a15-3a40.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Klikken met rechtermuisknop **Segmentaties** en selecteert u **Nieuwe mappen**.
+1. Klikken met rechtermuisknop **Segmentaties** en selecteert u **Nieuwe map**.
 
-   ![](assets/image2017-3-29-8-3a40-3a31.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Geef een naam op voor de map die u wilt delen in de verschillende werkruimten (bijvoorbeeld: Segmentaties delen).
+1. Geef een naam op voor de map die u wilt delen in de verschillende werkruimten (bijvoorbeeld: Segmenten delen) en klik op **Maken**.
 
-   ![](assets/image2017-3-29-8-3a40-3a45.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
 1. Verplaats de segmentatie(s) die u wilt delen naar de map.
 
-   ![](assets/image2017-3-29-8-3a41-3a3.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
 1. Klik met de rechtermuisknop op de map en selecteer **Map delen**.
 
-   ![](assets/image2017-3-29-8-3a41-3a19.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
 1. Selecteer de werkruimte(n) waarmee u de map wilt delen. Klikken **Opslaan**.
 
-   ![](assets/share-segmentations-across-workspaces-and-partitions.png)
+   ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 
    >[!NOTE]
    >
