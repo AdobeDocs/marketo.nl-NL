@@ -3,45 +3,41 @@ unique-page-id: 1146931
 description: Nieuwe slimme campagne maken - Marketo Docs - Productdocumentatie
 title: Nieuwe slimme campagne maken
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
 # Nieuwe slimme campagne maken {#create-a-new-smart-campaign}
 
-Slimme campagnes zijn het belangrijkste instrument in Marketo. Ze kunnen op één persoon worden geactiveerd en acties uitvoeren, of miljoenen mensen helpen en een reeks stappen uitvoeren.
+Slimme campagnes zijn het belangrijkste gereedschap in Marketo Engage. Ze kunnen op één persoon worden geactiveerd en acties uitvoeren, of miljoenen mensen helpen en een reeks stappen uitvoeren.
 
->[!NOTE]
+>[!TIP]
 >
->Slimme campagnes zijn supercool. Meer informatie over hen [hier](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+>Meer informatie over [Slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
 1. Ga naar **Marketingactiviteiten**.
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-new-smart-campaign-1.png)
 
-1. Kies een **Programma** en vervolgens onder **Nieuw** klikken op **Nieuw lokaal element**.
+1. Klik met de rechtermuisknop op het gewenste programma en selecteer **Nieuwe slimme campagne**.
 
-   ![](assets/program-localassethands.png)
+   ![](assets/create-a-new-smart-campaign-2.png)
 
    >[!TIP]
    >
    >U kunt slimme campagnes maken als lokale middelen van elk programma.
 
-1. Klikken op **Slimme campagne**.
-
-   ![](assets/image2014-9-19-15-3a9-3a51.png)
-
 1. Voer de naam van de slimme campagne in en klik op **Maken**.
 
-   ![](assets/image2014-9-19-15-3a10-3a41.png)
+   ![](assets/create-a-new-smart-campaign-3.png)
 
-   Koel! Leer vervolgens hoe u definieert welke mensen de slimme campagne moeten doorlopen met een slimme lijst.
+   Leer vervolgens hoe u definieert welke personen de slimme campagne moeten doorlopen met een slimme lijst.
 
    >[!MORELIKETHIS]
    >
-   >* [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
-   >* [Slimme lijst definiëren voor slimme campagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+   >* [Slimme lijst definiëren voor slimme campagne | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+   >* [Slimme lijst definiëren voor slimme campagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
 

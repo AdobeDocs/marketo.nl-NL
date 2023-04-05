@@ -3,24 +3,24 @@ unique-page-id: 1146942
 description: Slimme lijst definiëren voor slimme campagne | Trigger - Marketo Docs - Productdocumentatie
 title: Slimme lijst definiëren voor slimme campagne | Trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
-source-git-commit: a15a4b9bccb069b51186aac7b913008d15aa645e
+source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # Slimme lijst definiëren voor slimme campagne | Trigger {#define-smart-list-for-smart-campaign-trigger}
 
-Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd die op levende gebeurtenissen wordt gebaseerd door trekkers toe te voegen.
+Maak een slimme Campagne in werking gesteld op één persoon in een tijd die op levende gebeurtenissen wordt gebaseerd door trekkers toe te voegen.
 
 1. Klik in uw slimme campagne op de knop **Slimme lijst** tab.
 
-   ![](assets/image2014-9-19-16-3a22-3a55.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
-1. Zoek de trigger en sleep de trigger naar het canvas.
+1. Zoek de gewenste trigger en sleep deze naar het canvas.
 
-   ![](assets/image2014-9-19-16-3a23-3a24.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-2.png)
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd di
 
 1. Klik op de vervolgkeuzelijst en kies een operator.
 
-   ![](assets/image2014-9-19-16-3a23-3a29.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-3.png)
 
    >[!CAUTION]
    >
@@ -40,11 +40,11 @@ Maak een slimme campagne die op één persoon tegelijkertijd wordt uitgevoerd di
 
    >[!TIP]
    >
-   >In een slimme campagne met zowel triggers als filters gaan de triggers bovenaan en wanneer ze worden geactiveerd, doorlopen alleen mensen die aan de filtercriteria voldoen de stroom.
+   >In een Slimme Campagne met zowel trekkers als filters, gaan de trekkers bij de bovenkant en wanneer teweeggebracht, slechts mensen die aan de filtercriteria voldoen gaan door de stroom.
 
 1. Definieer de trigger.
 
-   ![](assets/image2014-9-19-16-3a24-3a36.png)
+   ![](assets/define-smart-list-for-smart-campaign-trigger-4.png)
 
    >[!NOTE]
    >
