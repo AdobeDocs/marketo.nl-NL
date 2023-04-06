@@ -3,9 +3,9 @@ unique-page-id: 1147074
 description: Automatisch opruimen van campagne starten - Marketo Docs - Productdocumentatie
 title: Opruimen van campagne voor automatische activering
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 073a136953f1997436396cf3f2c87fdc1a3b9c1d
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ Eenmaal per kwartaal zal Marketo slimme campagnes vinden die al zes maanden lang
 
 Natuurlijk! Eenmaal per kwartaal ontvangt u een week van tevoren een bericht waarin elke campagne wordt getoond die we op deactivering willen toepassen.
 
-1. Ga naar de **Meldingen** tab.
+1. Klik op de knop **Meldingen** pictogram.
 
-   ![](assets/notifications.png)
+   ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
 1. Klikken **Opruiming van campagne voor niet-actieve Trigger gepland**. Klik vervolgens op de knop **Deze inactieve triggercampagnes worden gedeactiveerd** koppeling.
 
-   ![](assets/image2015-4-27-20-3a48-3a35.png)
+   ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
    Er wordt een lijst weergegeven met slimme campagnes die zijn gepland om te worden gedeactiveerd.
 
-   ![](assets/image2015-4-27-20-3a35-3a29.png)
+   ![](assets/automatic-trigger-campaign-cleanup-3.png)
 
 ## Welke campagnes worden gedeactiveerd? {#which-campaigns-will-be-deactivated}
 
@@ -53,8 +53,8 @@ Absoluut - een week na de oorspronkelijke kennisgeving zullen we de vermelde cam
 
 1. Selecteer **Opruiming van campagne voor niet-actieve Trigger gepland** kennisgeving. Klik op de knop **Deze inactieve triggercampagnes** koppeling.
 
-   ![](assets/image2015-4-27-20-3a56-3a41.png)
+   ![](assets/automatic-trigger-campaign-cleanup-4.png)
 
 1. Er wordt een lijst met gedeactiveerde campagnes weergegeven.
 
-   ![](assets/image2015-4-27-20-3a58-3a38.png)
+   ![](assets/automatic-trigger-campaign-cleanup-5.png)
