@@ -3,9 +3,9 @@ unique-page-id: 11372975
 description: Stap 1 van 3 - voeg Marketo-velden toe aan Salesforce (Professional) - Marketo Docs - Productdocumentatie
 title: Stap 1 van 3 - voeg de Gebieden van Marketo aan Salesforce (Beroeps) toe
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: 7de9b708626172aa6fa0a2fcb87c8aa534d5e9f7
+source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
 workflow-type: tm+mt
-source-wordcount: '798'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -251,13 +251,10 @@ Een aangepast veld op het hoofdobject in Salesforce moet worden toegewezen aan e
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Herhaal bovenstaande stappen voor alle andere velden die u hebt gemaakt.
+
 1. Klik op Opslaan als u klaar bent.
 
 Gemakkelijk genoeg, toch?
-
->[!NOTE]
->
->Hier is een [video van het gehele proces](https://nation.marketo.com/videos/1475) dat zou het glashelder moeten maken !
 
 >[!MORELIKETHIS]
 >
