@@ -3,9 +3,9 @@ unique-page-id: 1147055
 description: Campagne-acties - Een slimme campagne verwijderen - Marketo Docs - Productdocumentatie
 title: Campagnehandelingen - Een slimme campagne verwijderen
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -20,19 +20,19 @@ Als je een oude slimme campagne hebt die je niet meer nodig hebt, kun je deze ve
 
 1. Ga naar de **Marketingactiviteiten** gebied.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. Navigeer naar uw inactieve slimme campagne. Onder **Campagne** **Handelingen**, klikt u op **Verwijderen**.
+1. Navigeer naar uw inactieve slimme campagne. In de **Campagne** **Handelingen** vervolgkeuzelijst, selecteert u **Verwijderen**.
+
+   ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
    >Als u de verwerking van een actieve slimme campagne wilt annuleren zonder deze volledig te verwijderen, leert u hoe u [een slimme campagne afbreken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
-   ![](assets/image2014-9-22-16-3a41-3a55.png)
-
 1. Klikken **Verwijderen** ter bevestiging.
 
-   ![](assets/image2014-9-22-16-3a41-3a59.png)
+   ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 
    >[!CAUTION]
    >

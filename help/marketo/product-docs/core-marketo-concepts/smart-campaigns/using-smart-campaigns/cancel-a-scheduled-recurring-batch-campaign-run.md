@@ -3,9 +3,9 @@ unique-page-id: 1147060
 description: Een geplande batchcampagne annuleren - Marketo Docs - Productdocumentatie
 title: Een geplande batchcampagne annuleren
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: f03eb310b66754cce65687133fae63375d2e54dc
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 Als u een terugkerende partijcampagne hebt die u niet meer wilt, kunt u de toekomstige looppas annuleren. Zo gaat het.
 
-1. Klik op de slimme campagne en klik vervolgens op de knop **Schema** tab.
+1. Selecteer de slimme campagne en klik op de knop **Schema** tab.
 
-   ![](assets/image2014-9-22-16-3a44-3a51.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
 1. Klikken **Herhaling schema**.
 
-   ![](assets/image2014-9-22-16-3a44-3a55.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
    >[!TIP]
    >
-   >U kunt één uitvoering annuleren door op ![rood x](assets/image2014-9-22-16-3a45-3a42.png) naast het. Leer hoe u [Een geplande batchcampagne annuleren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
+   >U kunt één uitvoering annuleren door op de knop ![rood x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) naast het. Leer hoe u [Een geplande batchcampagne annuleren](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md).
 
-1. Schema instellen op **Geen** en vervolgens **Opslaan**.
+1. Schema instellen op **Geen** en klik op **Opslaan**.
 
-   ![](assets/image2014-9-22-16-3a45-3a56.png)
+   ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
    Voila! Uw slimme campagne wordt niet meer uitgevoerd.
 
