@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
 workflow-type: tm+mt
-source-wordcount: '8868'
+source-wordcount: '8863'
 ht-degree: 0%
 
 ---
@@ -694,7 +694,7 @@ ht-degree: 0%
             + [Een lijst met landen toevoegen aan uw formulier](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [Rijke tekst toevoegen aan een formulier](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
             + [De landinstelling van een formulier wijzigen](product-docs/demand-generation/forms/form-actions/change-a-forms-locale.md)
-            + [De taal van de berichten voor formuliervalidatie/foutmeldingen en de knop Verzenden wijzigen](product-docs/demand-generation/forms/form-actions/change-the-language-of-form-validation-error-messages-and-submit-button.md)
+            + [De taal van een formulier wijzigen](product-docs/demand-generation/forms/form-actions/change-the-language-of-a-form.md)
             + [Progressieve profilering van formulieren configureren](product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md)
             + [Waarden definiëren in een keuzerondje of geselecteerd veld in een formulier](product-docs/demand-generation/forms/form-actions/define-values-in-a-radio-or-selected-field-in-a-form.md)
             + [Een formulier verwijderen](product-docs/demand-generation/forms/form-actions/delete-a-form.md)
