@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 21a0aea2d1daa6bbe3e1f4b08efc67ce1b217604
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
-source-wordcount: '8849'
+source-wordcount: '8868'
 ht-degree: 0%
 
 ---
@@ -663,6 +663,11 @@ ht-degree: 0%
                + [Werken met de status van het Webinar-programma](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
          + Interactieve webinars {#interactive-webinars}
             + [Overzicht van interactieve webinars](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
+            + [Interactief webinars-gebruikersbeheer](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-user-management.md)
+            + [Een interactief webinar maken](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+            + [Interactieve webinars ontwerpen](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Een interactief webinar bewerken of verwijderen](product-docs/demand-generation/events/interactive-webinars/edit-or-delete-an-interactive-webinar.md)
+            + [Workflows voor gebeurtenissen](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
       + Facebook {#facebook}
          + [Leads toevoegen aan een aangepast publiek in Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Een aangepast publiek maken in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)

@@ -3,7 +3,7 @@ unique-page-id: 9437991
 description: Triggers en filters voor mobiele slimme campagnes - Marketo Docs - Productdocumentatie
 title: Triggers en filters voor mobiele slimme campagnes
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -28,13 +28,13 @@ Er zijn alleen filters voor deze activiteit:
 
 Zoeken naar **mobiele app** in het rechterdeelvenster om alle triggers en filters voor de Mobile App weer te geven.
 
-![](assets/image2015-8-12-17-3a25-3a18.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-1.png)
 
 ## Restricties {#constraints}
 
 Gebruik beperkingen met triggers en filters om de gegevens verder te sorteren.
 
-![](assets/image2015-8-17-12-3a6-3a33.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-2.png)
 
 Alle triggers en filters, met uitzondering van het bericht Is pushbericht verzonden, bevatten de volgende twee standaardbeperkingen:
 
@@ -70,7 +70,7 @@ Gebruik dit filter om te zien wie uw app ooit heeft geïnstalleerd. Deze optie i
 
 **Restricties**: Apparaattype, Platform, mobiele toepassing, mobiele toepassingsversie, apparaattype, bron installeren, is pushingeschakeld en landinstelling
 
-![](assets/image2015-8-21-13-3a33-3a54.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
 >[!TIP]
 >
@@ -86,7 +86,7 @@ Mobiele app is/is geïnstalleerd
 
 **Restricties**: Apparaattype, Platform, toepassingsversie, landinstelling en bron installeren
 
-![](assets/image2015-8-17-13-3a11-3a3.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
 Mobiele app is/is geopend
 
@@ -98,7 +98,7 @@ Mobiele app is/is geopend
 
 **Restricties**: Apparaattype en -Platform
 
-![](assets/image2015-8-17-13-3a13-3a55.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
 Heeft/heeft mobiele toepassingsactiviteiten
 
@@ -138,7 +138,7 @@ Met de actievereisten kunt u de trigger en filters gebruiken om mobiele activite
 
 Zo ziet het filter er in Marketo uit:
 
-![](assets/image2015-8-17-13-3a16-3a12.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 
 >[!NOTE]
 >
@@ -163,7 +163,7 @@ Zo ziet het filter er in Marketo uit:
 
 **Restricties**: Apparaattype, Platform en sessieduur (seconden)
 
-![](assets/image2015-8-17-13-3a18-3a34.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
 Taps/Tapping Push Notification
 
@@ -175,7 +175,7 @@ Taps/Tapping Push Notification
 
 **Restricties**: Apparaattype, Platform, mobiele toepassingsversie, pushmelding en Platform-versie
 
-![](assets/image2015-8-21-14-3a2-3a24.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
 >[!TIP]
 >
@@ -189,7 +189,7 @@ Taps/Tapping Push Notification
 
 **Restricties**: Push Notification en Mobile App
 
-![](assets/image2015-8-21-14-3a3-3a50.png)
+![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
 >[!MORELIKETHIS]
 >
