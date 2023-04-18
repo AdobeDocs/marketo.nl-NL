@@ -3,9 +3,9 @@ unique-page-id: 9437991
 description: Triggers en filters voor mobiele slimme campagnes - Marketo Docs - Productdocumentatie
 title: Triggers en filters voor mobiele slimme campagnes
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: 98eac847e62df1e17a6abefde0f9097b12cbbf9c
+source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Gebruik dit filter om te zien wie uw app ooit heeft geïnstalleerd. Deze optie i
 >
 >Het filter vindt zowel de huidige als de vorige installatie, omdat Marketo het verwijderen van apps niet bijhoudt.
 
-**Restricties**: Apparaattype, Platform, mobiele toepassing, mobiele toepassingsversie, apparaattype, bron installeren, is pushingeschakeld en landinstelling
+**Restricties** - Apparaattype, Platform, mobiele toepassing, mobiele toepassingsversie, apparaattype, bron installeren, is pushingeschakeld en Landinstelling
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-3.png)
 
@@ -84,7 +84,7 @@ Mobiele app is/is geïnstalleerd
 
 * NOT Mobile App geïnstalleerd - inactiviteitsfilter
 
-**Restricties**: Apparaattype, Platform, toepassingsversie, landinstelling en bron installeren
+**Restricties** - Apparaattype, Platform, App-versie, landinstelling en bron installeren
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-4.png)
 
@@ -96,7 +96,7 @@ Mobiele app is/is geopend
 
 * NOT Mobile App geopend - inactiviteitsfilter
 
-**Restricties**: Apparaattype en -Platform
+**Restricties** - Type apparaat en Platform
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-5.png)
 
@@ -110,7 +110,7 @@ Deze vormen een krachtige manier om aangepaste mobiele activiteiten te volgen. U
 
 * Geen mobiele toepassingsactiviteit - inactiviteitsfilter
 
-**Restricties**: Apparaattype en -Platform, plus vijf extra apparaten:
+**Restricties** - Apparaattype, Platform, Mobiele toepassingsversie, Landinstelling, Versie van Platform plus vijf extra:
 
 * Actie - Aangepaste mobiele activiteiten
 
@@ -161,7 +161,7 @@ Zo ziet het filter er in Marketo uit:
 
 * Geen mobiele App-sessie - inactiviteitsfilter
 
-**Restricties**: Apparaattype, Platform en sessieduur (seconden)
+**Restricties** - Apparaattype, Platform en Sessieduur (seconden)
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-7.png)
 
@@ -173,7 +173,7 @@ Taps/Tapping Push Notification
 
 * Melding van niet-getapte pushmelding - inactiviteitsfilter
 
-**Restricties**: Apparaattype, Platform, mobiele toepassingsversie, pushmelding en Platform-versie
+**Restricties** - Apparaattype, Platform, mobiele toepassingsversie, pushmelding en Platform-versie
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-8.png)
 
@@ -187,7 +187,7 @@ Taps/Tapping Push Notification
 
 * Geen pushmelding verzonden - inactiviteitsfilter
 
-**Restricties**: Push Notification en Mobile App
+**Restricties** - Push Notification en Mobile App
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-9.png)
 
