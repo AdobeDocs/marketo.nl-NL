@@ -3,7 +3,7 @@ unique-page-id: 1147066
 description: Persoonlijke beperkingen in een slimme campagne negeren - Marketo Docs - Productdocumentatie
 title: Persoonlijke beperkingen in een slimme campagne negeren
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -20,11 +20,11 @@ Met Marketo kunt u het maximumaantal personen instellen dat in aanmerking komt v
 
 1. Ga bij marketingactiviteiten naar uw slimme campagne en klik op **Schema**.
 
-   ![](assets/one.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-1.png)
 
 1. Klik in Instellingen voor slimme campagne op **Bewerken**.
 
-   ![](assets/two.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Met Marketo kunt u het maximumaantal personen instellen dat in aanmerking komt v
 
 1. Voer een nieuwe limiet in en klik op **Opslaan.**
 
-   ![](assets/three.png)
+   ![](assets/override-person-restrictions-in-a-smart-campaign-3.png)
 
    De slimme campagne wordt niet uitgevoerd als het aantal personen dat in aanmerking komt de ingestelde limiet overschrijdt.
 
