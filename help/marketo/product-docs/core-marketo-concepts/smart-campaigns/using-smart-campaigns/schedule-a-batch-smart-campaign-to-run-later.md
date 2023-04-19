@@ -3,7 +3,7 @@ unique-page-id: 1146970
 description: Een Smart Batch-campagne plannen om later uit te voeren - Marketo Docs - Productdocumentatie
 title: Een slimme batchcampagne plannen om later uit te voeren
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -20,23 +20,23 @@ Als je een &#39;batch smart&#39; campagne wilt instellen om op een bepaald momen
 
 1. Selecteer de slimme batchcampagne die u wilt uitvoeren en ga naar de **Schema** en klikt u op **Eenmaal uitvoeren**.
 
-   ![](assets/scheduledruns2.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-1.png)
 
 1. Klikken **Later uitvoeren** klikt u vervolgens op het kalenderpictogram en selecteert u de dag waarop de slimme campagne moet worden uitgevoerd.
 
-   ![](assets/runonce.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-2.png)
 
 1. Selecteer de tijd waarop de slimme campagne moet worden uitgevoerd (minimaal 15 minuten voor).
 
-   ![](assets/runoncetime.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-3.png)
 
 1. Klikken **Opslaan**.
 
-   ![](assets/runoncetimesave.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-4.png)
 
 1. U kunt de geplande uitvoering bevestigen door te kijken naar de **Schema** tab.
 
-   ![](assets/scheduledrunsbox.png)
+   ![](assets/schedule-a-batch-smart-campaign-to-run-later-5.png)
 
    >[!NOTE]
    >
