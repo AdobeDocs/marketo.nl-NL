@@ -4,7 +4,7 @@ title: Een interactief webinar maken
 hide: true
 hidefromtoc: true
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
-source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
+source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Een interactief webinar maken {#create-an-interactive-webinar}
 
-Introductie.
+Maak een interactief webinar in een paar eenvoudige stappen.
 
 1. Ga naar **Marketingactiviteiten**.
 
@@ -23,7 +23,7 @@ Introductie.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
-1. Geef de gebeurtenis een naam. Selecteer onder Type programma de optie **Gebeurtenis**.
+1. Geef het programma een naam. Selecteer onder Type programma de optie **Gebeurtenis**.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
@@ -43,8 +43,8 @@ Introductie.
 
    ![](assets/create-an-interactive-webinar-6.png)
 
-1. Plan de datum/tijd van uw webinar.
+1. Plan de datum/tijd van uw webinar en klik **Maken**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
-1. Tekst
+Uw interactief webinar wordt gecreeerd. Nu is het tijd om [ontwerpen](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md).
