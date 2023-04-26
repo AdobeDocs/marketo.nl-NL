@@ -4,9 +4,9 @@ title: Gebruiker- en licentiebeheer
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: db68d63b6502822d4948485865edb26d10104a14
+source-git-commit: f60c40441be4bcfcc277b620f6d4e19b2047caef
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Introductie.
 
 ## Licentiegebruik {#license-usage}
 
-Telkens wanneer een licentie wordt toegevoegd, wordt er een nieuw gebruiksvak voor de licentie weergegeven.
+Interactive Webinars biedt specifieke licenties voor het maken van Adobe Connect-gebeurtenissen. Telkens wanneer een licentie wordt toegevoegd, wordt er een nieuw gebruiksvak voor de licentie weergegeven. Marketo Admins kan de licenties weergeven (niet bewerken) door de onderstaande stappen uit te voeren. Neem contact op met het accountteam van Adobe (uw accountmanager) om extra licenties aan te schaffen.
 
 1. Ga naar de **Beheer** gebied.
 
@@ -63,6 +63,48 @@ Telkens wanneer een licentie wordt toegevoegd, wordt er een nieuw gebruiksvak vo
 
    ![](assets/user-and-license-management-10.png)
 
-1. INFO
+1. Blader omlaag naar de Gebruikskaart(en) voor licenties.
 
-PICC
+   ![](assets/user-and-license-management-11.png)
+
+<table> 
+  <tr> 
+   <td><b>Begindatum</b></td>
+   <td>De datum waarop de licentie begint.</td>
+  </tr>
+  <tr> 
+   <td><b>Vervaldatum</b></td>
+   <td>De vervaldatum van de licentie.</td>
+  </tr>
+  <tr> 
+   <td><b>Type</b></td>
+   <td>Het type licentie dat is aangeschaft. Er zijn drie typen beschikbaar: Licentie voor gedeelde gebeurtenissen, licentie voor gedeelde ruimten, extra opslaglicentie.</td>
+  </tr>
+  <tr> 
+   <td><b>Gebeurteniscapaciteit</b></td>
+   <td>Het maximumaantal deelnemers dat in een gebeurtenis kan worden opgenomen.</td>
+  </tr>
+  <tr> 
+   <td><b>Totaal aantal gebeurtenissen</b></td>
+   <td>Het totale aantal gebeurtenissen dat is voorzien van deze licentie.</td>
+  </tr>
+  <tr> 
+   <td><b>Verbruikte gebeurtenissen</b></td>
+   <td>Het totale aantal voltooide gebeurtenissen.</td>
+  </tr>
+  <tr> 
+   <td><b>Opslagcapaciteit</b></td>
+   <td>Bedrag van de beschikbare opslagruimte voor het opslaan van opnamen, zekerheden, hero images, documentatie en andere activa.</td>
+  </tr>
+  </tbody>
+</table>
+
+**Notities**
+
+* Het type &quot;Aanvullende opslagvergunning&quot; biedt alleen opslag, dus de waarde in elk veld _naast_ Opslagcapaciteit wordt gewoon weergegeven als &quot;-&quot;.
+
+* Het type &#39;Licentie voor gedeelde ruimte&#39; heeft onbeperkte gebeurtenissen en &#39;Aanvullende opslaglicentie&#39; biedt alleen opslagruimte, zodat het veld Totaal aantal gebeurtenissen voor deze licenties eenvoudig wordt weergegeven als &#39;-&#39;.
+
+* Telkens wanneer een gebeurtenis wordt gecreeerd, zal het als &quot;verbruikt&quot;van zijn respectieve vergunning (tenzij het een Gedeelde Vergunning van de Ruimte is) tellen. De voorkeur wordt gegeven aan &quot;Shared Event License&quot; als er zowel &quot;Shared Event License&quot; als &quot;Shared Room License&quot; met dezelfde capaciteit zijn. Als de gebeurtenis niet is afgeleverd en als het gebeurtenisprogramma voor de geplande tijd wordt verwijderd, wordt het aantal gebeurtenissen verhoogd door een gebeurtenis van de verbruikte gebeurtenissen af te trekken.
+
+* Zodra een licentie is uitgeput, blijft de tegel ervan op het scherm Interactieve webinars in Admin staan, waarbij de waarde van het totaal aantal verbruikte gebeurtenissen en gebeurtenissen dezelfde is. Alleen wanneer de licentie verloopt, wordt deze van het scherm verwijderd.
