@@ -3,9 +3,9 @@ unique-page-id: 14746188
 description: Abonnementen synchroniseren met Salesforce - Marketo Docs - Productdocumentatie
 title: Abonnementen synchroniseren met Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: bcfaab258b0b10d271debc2d5521f2a995aa6aed
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Wanneer een abonnement wordt opgehaald in Sales Connect, wordt dit in real-time 
 
 **Synchronisatie opzeggen**
 
-Wanneer u de synchronisatie voor afmelden hebt ingeschakeld (stap 3 hieronder), schakelt u de nachtelijke synchronisatie in. De synchronisatie vindt eenmaal per dag plaats rond 20:00 PST. Het zal bidirectioneel alle unsubscribes in MSE/ToutApp met het Opt gebied in Salesforce synchroniseren.
+Wanneer u de synchronisatie voor afmelden hebt ingeschakeld (stap 3 hieronder), schakelt u de nachtelijke synchronisatie in. De synchronisatie vindt eenmaal per dag plaats rond 20:00 PST. Het zal bidirectioneel alle unsubscribes in de Verkoop van Marketo met het Opt gebied in Salesforce synchroniseren.
 
 ## Synchronisatie van abonnement op Salesforce configureren {#configure-unsubscribe-sync-to-salesforce}
 
