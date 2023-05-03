@@ -4,7 +4,7 @@ title: Gebruiker- en licentiebeheer
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -107,4 +107,4 @@ Interactive Webinars biedt specifieke licenties voor het maken van Adobe Connect
 
 * Telkens wanneer een gebeurtenis wordt gecreeerd, zal het als &quot;verbruikt&quot;van zijn respectieve vergunning (tenzij het een Gedeelde Vergunning van de Ruimte is) tellen. De voorkeur wordt gegeven aan &quot;Shared Event License&quot; als er zowel &quot;Shared Event License&quot; als &quot;Shared Room License&quot; met dezelfde capaciteit zijn. Als de gebeurtenis niet is afgeleverd en als het gebeurtenisprogramma voor de geplande tijd wordt verwijderd, wordt het aantal gebeurtenissen verhoogd door een gebeurtenis van de verbruikte gebeurtenissen af te trekken.
 
-* Zodra een licentie is uitgeput, blijft de tegel ervan op het scherm Interactieve webinars in Admin staan, waarbij de waarde van het totaal aantal verbruikte gebeurtenissen en gebeurtenissen dezelfde is. Alleen wanneer de licentie verloopt, wordt deze van het scherm verwijderd.
+* Zodra een licentie is uitgeput, blijft de tegel op het scherm Interactieve webinars in de Admin-sectie met &quot;Totaal aantal gebeurtenissen&quot; en &quot;Verbruikte gebeurtenissen&quot; met dezelfde waarde staan. Alleen wanneer de licentie verloopt, wordt deze van het scherm verwijderd.

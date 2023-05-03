@@ -4,9 +4,9 @@ title: Een interactief webinar wijzigen of verwijderen
 hide: true
 hidefromtoc: true
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,25 @@ Leer hoe te om veranderingen in uw Interactief Webinar aan te brengen.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. Tekst
+1. De kamer wordt geladen. Als u de ruimte wilt wijzigen, selecteert u een ruimte in de vervolgkeuzelijst Ruimten. Klik op **Ruimte gebruiken**.
 
-PICC
+   ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
-??? voor Nilesh - is het normaal om niet naar de kamer te worden gebracht waar Webinar al in zit? Zo nee, wat is de beste praktijk?
+>[!NOTE]
+>
+>Het wijzigen van de ruimte is optioneel en is niet vereist om de sjabloon bij te werken.
+
+1. Klikken **Uw webinar nu verfijnen**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-3.png)
+
+1. Selecteer uw voorkeuren voor audio/video en klik op **Ruimte betreden**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-4.png)
+
+1. Wanneer u klaar bent met het aanbrengen van uw wijzigingen, klik **Ruimte verlaten**.
+
+   ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
 ## Een interactief webinar opnieuw plannen {#reschedule-an-interactive-webinar}
 
@@ -58,6 +72,10 @@ PICC
 1. Klikken **Volgende**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
+
+   >[!NOTE]
+   >
+   >U kunt op dit moment alleen een gekloond interactief webinar opslaan als een interactief webinar. Een gekloonde webinar opslaan als een Partner Webinar (bijvoorbeeld Zoomen, ON24, enz.) is binnenkort beschikbaar.
 
 1. Kies de instellingen voor uw gekloonde webinar en klik op **Klonen**.
 

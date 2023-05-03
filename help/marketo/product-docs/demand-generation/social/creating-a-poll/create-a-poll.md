@@ -3,9 +3,9 @@ unique-page-id: 2359768
 description: Een opiniepeiling maken - Marketo Docs - Productdocumentatie
 title: Een opiniepeiling maken
 exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Een opiniepeiling maken {#create-a-poll}
 
 Betaal mensen met een opiniepeiling die ze kunnen inbrengen en deel ze met hun vrienden op sociale netwerken. U kunt deze toevoegen aan plaatsen als uw bestemmingspagina&#39;s, uw website en Facebook.
-
->[!AVAILABILITY]
->
->Niet alle klanten hebben deze functionaliteit aangeschaft. Neem contact op met je verkoper voor meer informatie.
 
 >[!PREREQUISITES]
 >

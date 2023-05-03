@@ -4,16 +4,16 @@ title: Interactieve webinars ontwerpen
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
 
 # Interactieve webinars ontwerpen {#designing-interactive-webinars}
 
-Introductie.
+Ontwerp uw webinar naar uw eigen smaak.
 
 1. Selecteer uw gebeurtenis en klik op **Webinar ontwerpen**.
 
@@ -25,7 +25,7 @@ Introductie.
 
    >[!NOTE]
    >
-   >Een ruimte is een online ruimte die u gebruikt om vergaderingen te houden.
+   >Een kamer is een online ruimte die wordt gebruikt om vergaderingen te houden.
 
 1. Kies een sjabloon.
 
@@ -51,23 +51,16 @@ Introductie.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Tekst
+1. Voor meer informatie over ruimten en sjablonen raadpleegt u de sectie &quot;Sjablonen en indelingen voor vergaderruimten&quot; van [dit Adobe Help-artikel](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
-https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings??????
+1. Wanneer u klaar bent met het ontwerpen van uw webinar, klikt u op **Ruimte verlaten**.
 
+   ![](assets/designing-interactive-webinars-9.png)
 
-Zaal: (dit is uit de Connect-documentatie overgenomen om precies te zijn) Bron: https://helpx.adobe.com/in/adobe-connect/using/meeting-basics.html
+## Ontwerpelementen {#design-elements}
 
-Een Adobe Connect-webinar is een live interactieve online conferentie voor meerdere gebruikers. De ruimte is een permanente virtuele online ruimte die u gebruikt om webinars te organiseren. Dit omvat verschillende weergavedeelvensters (pods) en lay-outs. Er zijn verschillende vooraf samengestelde schermindelingen voor vergaderruimten, maar u kunt ook extra aangepaste schermindelingen maken en gebruiken die aan uw wensen voldoen. In de ruimte kunnen deelnemers computerschermen of bestanden delen, chatten, audio en video uitzenden en online deelnemen aan interactieve activiteiten.
+**Sjabloon**: Sjabloon is een structuur die aan een kamer wordt aangeboden op basis van het doel van het webinar dat wordt geleverd. Als u bijvoorbeeld een webinar voor de showcase van een product wilt plannen, is het delen van schermen een essentieel onderdeel van de demo. De sjabloon zorgt ervoor dat de essentiële componenten die vereist zijn voor een effectieve levering van een bepaald type webinar aanwezig zijn tijdens de configuratie van de webinarruimte.
 
-Sjabloon:
+**Layout**: Layout verwijst naar verschillende manieren waarop de meerdere componenten die nodig zijn om het succes van het webinar te garanderen, in een bepaalde sjabloon worden gerangschikt. Eén sjabloon kan meerdere lay-outs bevatten waaruit u kunt kiezen. De essentiële componenten van het webinar zouden in sjablonen hetzelfde blijven. De rangschikking die u hebt geselecteerd, is het meest geschikt voor de stijl/behoeften van u of de presentator die het webinar levert.
 
-Sjabloon is een structuur die aan een kamer wordt aangeboden op basis van het doel van het webinar dat in de kamer wordt geleverd. Bijvoorbeeld, als een teller een product showcase webinar wil plannen, dan zou het scherm delen een essentiële component zijn om geval-geval de demo te tonen. De sjabloon zorgt ervoor dat de essentiële componenten die vereist zijn voor een effectieve levering van een bepaald type webinar aanwezig zijn tijdens de configuratie van de webinarruimte.
-
-Layout:
-
-Layout verwijst naar verschillende manieren waarop meerdere componenten die nodig zijn om het succes van webinar te garanderen, in een bepaalde sjabloon worden gerangschikt. Eén sjabloon kan meerdere lay-outs hebben waaruit de markeerteken kan kiezen. De essentiële componenten van het webinar zouden in de sjablonen hetzelfde blijven. De rangschikking die door de markeerteken wordt geselecteerd, is het meest geschikt voor de behoeften en de stijl van de markeerder of de presentator die het webinar levert.
-
-Pod:
-
-Pod verwijst naar een component in een sjabloon die helpt een bepaalde activiteit uit te voeren tijdens het webinar. Stel bijvoorbeeld een opiniepeiling in en lever een opiniepeiling om reacties van deelnemers vast te leggen in één activiteit die kan worden uitgevoerd door een opiniepeilingpod. Op dezelfde manier kan het chatten met de deelnemers om een bericht over te brengen of tijdelijk met hen te communiceren een activiteit zijn die via de chatpod wordt geleverd. Er zijn meerdere andere pods beschikbaar in Connect, zoals Delen, Notities, Video, Chat, Deelnemerlijst, Bestanden, Webkoppelingen, Opiniepeilingen en Vragen en antwoorden.
+**Pod**: Pod verwijst naar een component binnen een sjabloon die een bepaalde activiteit uitvoert tijdens het webinar. Stel bijvoorbeeld een opiniepeiling in en lever een opiniepeiling om de reacties van deelnemers vast te leggen in één activiteit die kan worden uitgevoerd door een opiniepeilingpod. Op dezelfde manier kan het chatten met de deelnemers om een bericht over te brengen of tijdelijk met hen te communiceren een activiteit zijn die via de chatpod wordt geleverd. Er zijn meerdere andere pods beschikbaar, zoals Delen, Notities, Video, Chat, Deelnemerlijst, Bestanden, Webkoppelingen, Opiniepeilingen en Vragen en antwoorden.

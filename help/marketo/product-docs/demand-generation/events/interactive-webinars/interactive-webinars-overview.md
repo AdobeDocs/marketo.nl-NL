@@ -4,9 +4,9 @@ title: Overzicht van interactieve webinars
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 08cfd71b75e58a0185e57c115c2dee59fbfdce1f
+source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 # Overzicht van interactieve webinars {#interactive-webinars-overview}
 
 Meer informatie over het native gereedschap Marketo Engage voor het maken van BLANK, effectieve webinars.
+
+Een Adobe Connect-webinar is een live interactieve online conferentie voor meerdere gebruikers. De ruimte is een permanente virtuele online ruimte die u gebruikt om webinars te organiseren. Dit omvat verschillende weergavedeelvensters (pods) en lay-outs. Er zijn verschillende vooraf samengestelde schermindelingen voor vergaderruimten, maar u kunt ook extra aangepaste schermindelingen maken en gebruiken die aan uw wensen voldoen. In de ruimte kunnen deelnemers computerschermen of bestanden delen, chatten, audio en video uitzenden en online deelnemen aan interactieve activiteiten.
 
 _Wat zijn interactieve webinars_
 
