@@ -2,9 +2,9 @@
 description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 2b72ebcd491d07bfaa92baf66815175bb388c8d1
+source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '452'
 ht-degree: 2%
 
 ---
@@ -96,20 +96,6 @@ AANMELDINGSINFO KOMEND
 ### Dynamische chat {#dynamic-chat}
 
 </br>
-
-* **Verbeterde dynamische chatactiviteiten**: De bestaande activiteiten, filters en triggers van Dynamic Chat worden uitgebreid met extra kenmerken en een gestandaardiseerde naamgevingsconventie.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-  </tbody>
-</table>
 
 * **Chatbron voor dynamische chattekst**: Chat wordt nu aangeboden als een bron van records en activiteiten van nieuwe personen. Deze bron kan worden gebruikt om gebruikers te helpen activiteiten in Slimme Lijsten/Campagnes filtreren. De bron kan ook worden geblokkeerd door updates op velden.
 
