@@ -4,9 +4,9 @@ title: Overzicht van interactieve webinars
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '535'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,57 @@ Antwoord.
 **Vraag?**
 
 Antwoord.
+
+Interactieve webinars is de nieuwste functie in Adobe Marketo Engage die markers een one-stop oplossing biedt voor alle marketingbehoeften voor gebeurtenissen. Marktdeelnemers kunnen in Marketo webinars maken, plannen, promoten en leveren zonder extra tools te hoeven gebruiken.
+
+Met de op punt-gebaseerde Programma&#39;s van de Gebeurtenis van de Lancering, stelden de verkopers de volgende uitdagingen voor:
+
+1. Een gebeurtenis maken in het hulpprogramma voor webinar-providers en deze weer koppelen aan het op Launchpoint gebaseerde gebeurtenisprogramma in Marketo.
+
+1. Gebruik van meerdere gereedschappen, zoals webinar provider, middleware voor gegevensoverdracht en BI tool voor gebeurtenisanalyse.
+
+1. Meerdere authenticaties die nodig zijn om ervoor te zorgen dat activiteiten op het gebied van gebeurtenismarketing worden uitgevoerd.
+
+1. Registratiegegevens worden mogelijk niet op tijd overgedragen naar de webinar provider.
+
+1. De verbinding daalt tussen Marketo Engage en Webinar leveranciers.
+
+1. Er ontbreken prestatiegegevens van rijke gebeurtenissen die het webinar plaatsen.
+
+1. U moet aangepaste objecten maken om zo nodig extra webinar-gegevens op te slaan. Aangepaste objecten die beperkt waren, waren een groot pijnpunt.
+
+1. Ontbrekende activiteiten, filters en triggers om gepersonaliseerde verpleging en geavanceerde verpleging van lood uit te voeren.
+
+1. Geen weergave om de prestaties en het rendement van de gebeurtenis te bepalen.
+
+Enkele voordelen van Interactieve Webinars zijn:
+
+1. Verhoogde productiviteit door de alles-in-één oplossing van de Marketing van de Gebeurtenis (enig hulpmiddel).
+
+1. Lagere totale eigendomskosten (één gereedschap)
+
+1. Minder gedoe met meerdere verificaties.
+
+1. Vereenvoudigde workflows voor het maken en leveren van gebeurtenissen.
+
+1. Flexibiliteit bij het opnieuw plannen van gebeurtenissen.
+
+1. Naadloze informatieoverdracht tussen webinar provider (Adobe Connect) en Marketing Automation Platform (Marketo Engage)
+
+1. Rijke inzichten beschikbaar na webinar voor gepersonaliseerde doelgerichtheid en geavanceerde leadscoring.
+
+1. Gedetailleerd dashboard voor informatie over gebeurtenisprestaties.
+
+Hieronder vindt u de functies van interactieve webinars:
+
+1. End-to-end gebeurtenisbeheer: Het creëren van gebeurtenissen, Plan, Bevordering, Levering, Alle Opnamen op één plaats.
+
+1. Gebruikersbeheer: Admin kan kiezen welke Marketo-gebruikers interactieve webinars kunnen maken.
+
+1. Licentiebeheer: Beheerders kunnen de beschikbare licenties bekijken en het maken van webinar regelen.
+
+1. Aangepaste Connect-interface: Verbind malplaatjes en lay-outs aan de behoeften van marketers.
+
+1. Segmentatie na gebeurtenis: Speciale filters en triggers voor slimme lijsten voor leadsegmentatie.
+
+1. Analyse van gebeurtenisprestaties: Speciale rapporten en dashboards voor gegevens over leads en geaggregeerde betrokkenheid.
