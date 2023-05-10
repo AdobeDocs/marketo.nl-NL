@@ -3,9 +3,9 @@ unique-page-id: 2360360
 description: Webhaak maken - Marketo Docs - Productdocumentatie
 title: Webhaak maken
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: a498dcc5dc95bd7f732481d30db021485cf052c0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Gebruik websites om gebruik te maken van externe webservices voor het verzenden 
 
    * **URL**: Voer de URL in die u in uw aanvraag voor de webservice gebruikt. Een token invoegen, zoals het e-mailadres van de persoon (**`{{lead.Email Address}}`**), klikt u in uw verzoek op **Token invoegen**.
 
-   * **Sjabloon**: Als u informatie in het lichaam van de POST wilt overbrengen, ga het malplaatje in. Gebruik om het even welk gegevensformaat dat de POST van HTTP, met inbegrip van XML, JSON, of ZEEP steunt. Als u een token wilt invoegen in uw sjabloon, klikt u op **Token invoegen**.
+   * **Sjabloon**: Als u informatie in het lichaam van het verzoek wilt overbrengen, ga via het ladingsmalplaatje in. Sjablonen zijn toegestaan voor de volgende aanvraagtypen: POST, DELETE, PATCH of PUT. U kunt gegevensformaten zoals JSON of XML gebruiken. Als u een token wilt invoegen in uw sjabloon, klikt u op **Token invoegen**.
 
    * **Tokencodering aanvragen**: Als de tokenwaarden speciale tekens bevatten (zoals een en-teken &#39;&amp;&#39;), geeft u de indeling van uw verzoek op (**JSON** of **Formulier/URL**).
 
