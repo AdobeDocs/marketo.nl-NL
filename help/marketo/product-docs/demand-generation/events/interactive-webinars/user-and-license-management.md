@@ -4,7 +4,7 @@ title: Gebruiker- en licentiebeheer
 hide: true
 hidefromtoc: true
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
-source-git-commit: 9c3ec23cbd0a89f51cab40a51d76b4205baf9944
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Leer om gebruikers toe te voegen en te verwijderen en uw huidige vergunningen te
 
 ## Licentiegebruik {#license-usage}
 
-Interactive Webinars biedt specifieke licenties voor het maken van Adobe Connect-gebeurtenissen. Telkens wanneer een licentie wordt toegevoegd, wordt er een nieuw gebruiksvak voor de licentie weergegeven. Marketo Admins kan de licenties weergeven (niet bewerken) door de onderstaande stappen uit te voeren. Neem contact op met het accountteam van Adobe (uw accountmanager) om extra licenties aan te schaffen.
+Interactive Webinars biedt specifieke licenties voor het maken van Adobe Connect-gebeurtenissen. Telkens wanneer een licentie wordt toegevoegd, wordt er een nieuw gebruiksvak voor de licentie weergegeven. Marketo Admins kan de licenties weergeven (niet bewerken) door de onderstaande stappen uit te voeren. Neem contact op met het accountteam van Adobe (uw accountmanager) voor extra licenties.
 
 1. Ga naar de **Beheer** gebied.
 

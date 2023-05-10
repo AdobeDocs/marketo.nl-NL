@@ -4,9 +4,9 @@ title: Interactieve webinars ontwerpen
 hide: true
 hidefromtoc: true
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 
-1. Selecteer uw gebeurtenis en klik op **Webinar ontwerpen**.
+1. Selecteer uw gebeurtenis en klik op **Uw webinar ontwerpen**.
 
    ![](assets/designing-interactive-webinars-1.png)
 
@@ -59,8 +59,8 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 
 ## Ontwerpelementen {#design-elements}
 
-**Sjabloon**: Sjabloon is een structuur die aan een kamer wordt aangeboden op basis van het doel van het webinar dat wordt geleverd. Als u bijvoorbeeld een webinar voor de showcase van een product wilt plannen, is het delen van schermen een essentieel onderdeel van de demo. De sjabloon zorgt ervoor dat de essentiële componenten die vereist zijn voor een effectieve levering van een bepaald type webinar aanwezig zijn tijdens de configuratie van de webinarruimte.
+**Sjabloon**: Structuur die aan een kamer wordt verstrekt op basis van het doel van het webinar dat wordt geleverd. Als u bijvoorbeeld een webinar voor de showcase van een product wilt plannen, is het delen van schermen een essentieel onderdeel van de demo. De sjabloon zorgt ervoor dat de essentiële componenten die vereist zijn voor een effectieve levering van een bepaald type webinar aanwezig zijn tijdens de configuratie van de webinarruimte.
 
-**Layout**: Layout verwijst naar verschillende manieren waarop de meerdere componenten die nodig zijn om het succes van het webinar te garanderen, in een bepaalde sjabloon worden gerangschikt. Eén sjabloon kan meerdere lay-outs bevatten waaruit u kunt kiezen. De essentiële componenten van het webinar zouden in sjablonen hetzelfde blijven. De rangschikking die u hebt geselecteerd, is het meest geschikt voor de stijl/behoeften van u of de presentator die het webinar levert.
+**Layout**: Verwijst naar diverse manieren dat de veelvoudige componenten die worden vereist om het succes van webinar te verzekeren in een bepaalde malplaatje worden geschikt. Eén sjabloon kan meerdere lay-outs bevatten waaruit u kunt kiezen. De essentiële componenten van het webinar zouden in sjablonen hetzelfde blijven. De rangschikking die u hebt geselecteerd, is het meest geschikt voor de stijl/behoeften van u of de presentator die het webinar levert.
 
-**Pod**: Pod verwijst naar een component binnen een sjabloon die een bepaalde activiteit uitvoert tijdens het webinar. Stel bijvoorbeeld een opiniepeiling in en lever een opiniepeiling om de reacties van deelnemers vast te leggen in één activiteit die kan worden uitgevoerd door een opiniepeilingpod. Op dezelfde manier kan het chatten met de deelnemers om een bericht over te brengen of tijdelijk met hen te communiceren een activiteit zijn die via de chatpod wordt geleverd. Er zijn meerdere andere pods beschikbaar, zoals Delen, Notities, Video, Chat, Deelnemerlijst, Bestanden, Webkoppelingen, Opiniepeilingen en Vragen en antwoorden.
+**Pod**: Een component binnen een sjabloon die een bepaalde activiteit uitvoert tijdens het webinar. Stel bijvoorbeeld een opiniepeiling in en lever een opiniepeiling om de reacties van deelnemers vast te leggen in één activiteit die kan worden uitgevoerd door een opiniepeilingpod. Op dezelfde manier kan het chatten met de deelnemers om een bericht over te brengen of tijdelijk met hen te communiceren een activiteit zijn die via de chatpod wordt geleverd. Er zijn meerdere andere pods beschikbaar, zoals Delen, Notities, Video, Chat, Deelnemerlijst, Bestanden, Webkoppelingen, Opiniepeilingen en Vragen en antwoorden.

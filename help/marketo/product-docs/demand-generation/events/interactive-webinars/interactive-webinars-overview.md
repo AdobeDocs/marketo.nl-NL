@@ -4,20 +4,20 @@ title: Overzicht van interactieve webinars
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: b448004300ae1cd1f6af68ee3bb06dd1e89d1aa9
+source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
 
 # Overzicht van interactieve webinars {#interactive-webinars-overview}
 
-Met de functie Interactief webinar kunt u webinars in Marketo Engage maken, plannen, promoten en leveren zonder dat u extra tools of integraties hoeft te gebruiken.
+De interactieve functie voor webinars is ons ingebouwde webinar-platform in Marketo Engage. Geen extra hulpmiddelen of integraties vereist.
 
 ## Wat is Interactieve Webinars? {#what-is-interactive-webinars}
 
-Interactieve webinars is een live, interactieve online conferentie die beschikbaar is voor meerdere gebruikers. Wanneer u [een interactief webinar maken](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}Er zijn verschillende vooraf samengestelde schermindelingen voor vergaderruimten beschikbaar, die u allemaal kunt aanpassen. U kunt ook aanvullende aangepaste lay-outs maken en gebruiken. Aanwezigen kunnen computerschermen/bestanden delen, met elkaar chatten, audio en video uitzenden en deelnemen aan interactieve online activiteiten.
+Interactieve webinars verbeteren de bestaande gebeurtenissen en webinars door u een native en naadloze ervaring te bieden om gebeurtenissen binnen Marketo Engage te maken, te beheren en te leveren. Wanneer u [een interactief webinar maken](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}Er zijn meerdere vooraf gebouwde schermindelingen voor vergaderruimten beschikbaar waaruit u kunt kiezen. Deze kunnen allemaal worden aangepast (u kunt ook extra aangepaste schermindelingen maken en gebruiken). Aanwezigen kunnen computerschermen/bestanden delen, met elkaar chatten, audio en video uitzenden en deelnemen aan interactieve online activiteiten.
 
 Interactieve webinars [drie verschillende licenties](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, elk met verschillende functies en capaciteiten.
 
