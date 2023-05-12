@@ -2,9 +2,9 @@
 description: Opmerkingen bij de release - augustus 2021 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - augustus 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: fda1bf51d4016a61c41be9acba4771db1797a552
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '925'
 ht-degree: 0%
 
 ---
@@ -63,18 +63,19 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 ![](assets/yellow-star.png)
 
-* **Bizible LinkedIn Lead Gen Forms Integration**: Marketers kunnen nu inkomstentoerekening uitvoeren op conversies die plaatsvinden wanneer LinkedIn formuliervullingen vastlegt via hun leidende gen Forms en eenheden. Deze inzichten kunnen dan worden gebruikt om formulierprestaties en betaalde media-investeringen te optimaliseren. linkedIn-leider-gen Forms is een van de snelst groeiende betaalmediapakketten van LinkedIn en deze nieuwe mogelijkheden zijn opgenomen in onze bestaande LinkedIn Ads-integratie met Bizible.   
+* **Bizible LinkedIn Lead Gen Forms Integration**: Marketers kunnen nu inkomstentoerekening uitvoeren op conversies die plaatsvinden wanneer LinkedIn formuliervullingen vastlegt via hun leidende gen Forms en eenheden. Deze inzichten kunnen dan worden gebruikt om formulierprestaties en betaalde media-investeringen te optimaliseren. linkedIn-leider-gen Forms is een van de snelst groeiende betaalmediapakketten van LinkedIn en deze nieuwe functionaliteit is inbegrepen bij onze bestaande LinkedIn Ads-integratie met Bizible.
+
 * **Verbeterd klapperdashboard**: We hebben een nieuw metrisch en dashboardfilter toegevoegd voor dieper inzicht. Dit dashboard wordt door marketers gebruikt om de toonaangevende positie en opportuniteitssnelheid van de verschillende stadia en de efficiëntie van verschillende vormen van marketing en verkoopbetrokkenheid te begrijpen.
 
 * **Nieuw kleurendashboard voor watervalreis**: Op die manier kunnen de marktpartijen de voortgang van een geselecteerd cohort zien door middel van een klassieke reeks &quot;vraagwaterval&quot;-fasen, die een snel inzicht verschaffen in de omrekeningskoersen en de impliciete oorzaken van de omzetting in het stadium per fase.
 
 ## Bizible Integration in Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
 
-Deze sectie bevat nieuwe functies voor Bizible-gebruikers die hun Adobe Identity Management System (IMS)-migratie hebben voltooid. Als u bent gemigreerd, ziet u de nieuwe Adobe ID in Bizible Settings onder het tabblad Adobe ID. Alle rekeningen zouden tegen eind 2021 moeten zijn gemigreerd.
+Deze sectie bevat nieuwe functies voor Bizible-gebruikers die hun Adobe Identity Management System (IMS)-migratie hebben voltooid. Als u bent gemigreerd, ziet u uw nieuwe Adobe ID in Bizible Settings onder het tabblad Adobe ID. Alle rekeningen zouden tegen eind 2021 moeten zijn gemigreerd.
 
 * **Bizible Integration met Adobe Privacy Service** (beschikbaar september 2021): De integratie van Bizible met de Privacy Service van de Adobe centraliseert naleving van kritieke gegevensprivacyverordeningen (zoals GDPR) over Adobe Experience Cloud toepassingen. U kunt nu gebruikmaken van deze service en alle privacyverzoeken centraal beheren, zodat wijzigingsverzoeken die in Bizible en andere Adobe-producten worden ingediend, in alle toepassingen worden doorgevoerd.
 
-* **Bizible op Adobe Unified Shell**: De goedkeuring van Bizible van Adobe Verenigde Shell geeft gebruikers nieuwe mogelijkheden die in de Bizible bar van de toepassingskopbal zullen verschijnen en betere toegang tot steunmiddelen en toepassingsomschakeling omvatten. De Adobe verenigde hulp van Shell leidt tot een verenigbare ervaring tussen Bizible en andere toepassingen van Adobe Experience Cloud.
+* **Bizible op Adobe Experience Cloud Interface**: De acceptatie door Bizible van Adobe Experience Cloud Interface biedt gebruikers nieuwe mogelijkheden die in de Bizible-toepassingskoptekstbalk worden weergegeven en die een betere toegang tot ondersteuningsbronnen en het schakelen tussen toepassingen omvatten. De Experience Cloud Interface helpt een consistente ervaring te creëren tussen Bizible- en andere Adobe Experience Cloud-toepassingen.
 
 * **Bizible Domain Owownership and Self-Management**: Bizible-gebruikers kunnen Adobe Admin Console gebruiken om de domeinen te beheren die Bizible wil bijhouden. Dit brengt zelfbediening aan een eerder handproces en verstrekt een verenigbare ervaring in hoe domeineigendom en het volgen in de toepassingen van Adobe Experience Cloud worden beheerd.
 

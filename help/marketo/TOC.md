@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: b7a18b7cb2d39f569cbc22cc06ac58951ad1fee7
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '8884'
+source-wordcount: '8886'
 ht-degree: 0%
 
 ---
@@ -239,7 +239,7 @@ ht-degree: 0%
       + [Adobe-organisatietoewijzing instellen](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Een publiek synchroniseren vanuit Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Middelen importeren met Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Overzicht van Unified Shell](product-docs/adobe-experience-cloud-integrations/unified-shell-overview.md)
+      + [Overzicht Adobe Experience Cloud Interface](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Core Marketo Concepts {#core-marketo-concepts}
       + Slimme campagnes {#smart-campaigns}
          + [Slimme campagnes](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)

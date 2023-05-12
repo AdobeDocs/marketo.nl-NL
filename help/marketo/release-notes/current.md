@@ -2,9 +2,9 @@
 description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 4096ef98c7daac8b4793c513f677a7b3c71145fc
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '413'
 ht-degree: 2%
 
 ---
@@ -25,21 +25,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Schakelaar en de Updates van de Verwijdering van de Klassieke Ervaring van de knevel voor Moderne UX**: Verwijder detailpagina&#39;s voor e-mailsjablonen, Landing Page Templates, Forms en Fragmenten om ervoor te zorgen dat de moderne ervaring de enige beschikbare ervaring is.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Unified Shell**: Lijnt Marketo Engage met Experience Cloud uit om een consistente navigatie-ervaring te creëren voor meerdere Experience Cloud-oplossingen in één gebruikerssessie.
+* **Adobe Experience Cloud Interface**: Lijnt Marketo Engage met Experience Cloud uit om een consistente navigatie-ervaring te creëren voor meerdere Experience Cloud-oplossingen in één gebruikerssessie.
 
 <table> 
   <tr> 

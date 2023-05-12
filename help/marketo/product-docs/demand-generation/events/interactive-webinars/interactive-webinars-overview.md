@@ -4,9 +4,9 @@ title: Overzicht van interactieve webinars
 hide: true
 hidefromtoc: true
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: 093af2946aa0279aff20d4388312fa7630e693a2
+source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ De interactieve functie voor webinars is ons ingebouwde webinar-platform in Mark
 
 ## Wat is Interactieve Webinars? {#what-is-interactive-webinars}
 
-Interactieve webinars verbeteren de bestaande gebeurtenissen en webinars door u een native en naadloze ervaring te bieden om gebeurtenissen binnen Marketo Engage te maken, te beheren en te leveren. Wanneer u [een interactief webinar maken](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}Er zijn meerdere vooraf gebouwde schermindelingen voor vergaderruimten beschikbaar waaruit u kunt kiezen. Deze kunnen allemaal worden aangepast (u kunt ook extra aangepaste schermindelingen maken en gebruiken). Aanwezigen kunnen computerschermen/bestanden delen, met elkaar chatten, audio en video uitzenden en deelnemen aan interactieve online activiteiten.
+Interactieve webinars verbeteren de bestaande gebeurtenissen en webinars door u een native en naadloze ervaring te bieden om gebeurtenissen binnen Marketo Engage te maken, te beheren en te leveren. Wanneer u [een interactief webinar maken](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}Er zijn meerdere vooraf gebouwde vergaderingssjablonen beschikbaar waaruit u kunt kiezen. Deze zijn allemaal aanpasbaar (u kunt ook aangepaste sjablonen maken en gebruiken). Aanwezigen kunnen computerschermen/bestanden delen, met elkaar chatten, audio en video uitzenden en deelnemen aan interactieve online activiteiten.
 
 Interactieve webinars [drie verschillende licenties](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, elk met verschillende functies en capaciteiten.
 
