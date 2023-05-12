@@ -3,9 +3,9 @@ unique-page-id: 2949467
 description: Wat is Adobe Marketo Engage? - Marketo Docs - Productdocumentatie
 title: Wat is Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: e06aa684f8443e3e8684d15628cc445daba456e2
+source-git-commit: fe43f6dc6c4577972d947021930421ea67829526
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '289'
 ht-degree: 1%
 
 ---
@@ -43,10 +43,20 @@ Dat doet u niet! Het is gemakkelijk om in Marketo Engage aan de slag te gaan, en
 
 ## Moet ik om het even welke opstelling doen? {#do-i-need-to-do-any-setup}
 
-Ja, we hebben een [controlelijst van te doen zaken](/help/marketo/getting-started/setup/setup-checklist.md){target=&quot;_blank&quot;}.
+Ja, we hebben een [controlelijst van te doen zaken](/help/marketo/getting-started/setup/setup-checklist.md){target="_blank"}.
 
 ## Moet ik wachten tot de opstelling klaar is om te leren? {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
-Nee! We maakten een hoop eenvoudige zelfstudies. [Ga hier aan de slag](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}. Ze moeten ongeveer een uur duren. U kunt op elk gewenst moment starten.
+Nee! We maakten een hoop eenvoudige zelfstudies. [Ga hier aan de slag](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. Ze moeten ongeveer een uur duren. U kunt op elk gewenst moment starten.
+
+## Bestaat er een lijst van dingen die limieten dekken, zoals hoeveel e-mails ik in een bepaalde week kan verzenden? {#list-of-limits}
+
+Daar is het. Statische grenzen (en andere parameters) onze geschetste [in dit artikel](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#static-limits){target="_blank"}.
+
+## Hoe lang houdt Marketo vast aan mijn gegevens? {#data-retention-policy}
+
+Controleer [dit Nation-bericht](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-under-the-hood/ta-p/251191){target="_blank"} voor meer informatie.
+
+<br>
 
 Welkom bij Marketo Engage! We zijn blij dat je hier bent.
