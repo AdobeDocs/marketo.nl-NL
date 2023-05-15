@@ -3,9 +3,9 @@ unique-page-id: 2949467
 description: Wat is Adobe Marketo Engage? - Marketo Docs - Productdocumentatie
 title: Wat is Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
-source-git-commit: e6b585657b61f1d327cc6083bb3c4de44a130b3a
+source-git-commit: a433eb0496bc919f4e19361fbe68512b19f03879
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '288'
 ht-degree: 1%
 
 ---
@@ -49,9 +49,9 @@ Ja, we hebben een [controlelijst van te doen zaken](/help/marketo/getting-starte
 
 Nee! We maakten een hoop eenvoudige zelfstudies. [Ga hier aan de slag](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}. Ze moeten ongeveer een uur duren. U kunt op elk gewenst moment starten.
 
-## Bestaat er een lijst van dingen die limieten dekken, zoals hoeveel e-mails ik in een bepaalde week kan verzenden? {#list-of-limits}
+## Bestaat er een lijst van dingen die limieten bestrijken, zoals hoeveel e-mails ik per week kan verzenden? {#list-of-limits}
 
-Daar is het. Statische grenzen (en andere parameters) onze geschetste [in dit artikel](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Daar is het. Statische limieten (en andere parameters) worden beschreven [in dit artikel](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Hoe lang houdt Marketo vast aan mijn gegevens? {#data-retention-policy}
 
