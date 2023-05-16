@@ -3,9 +3,9 @@ unique-page-id: 2951048
 description: Opmerkingen bij de release - februari 2014 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - februari 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -36,9 +36,9 @@ De volgende functies zijn opgenomen in de release van februari 2014. Controleer 
 
 [E-mailgegevens exporteren naar Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), met inbegrip van AB Test Variant Data.
 
-## Betrokkenheidsscore in prestatierapport voor Betrokkenheidsstream {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Engagement Score] in [!UICONTROL Engagement Stream Performance] Rapport {#engagement-score-in-engagement-stream-performance-report}
 
-We hebben de Engagement Score toegevoegd aan de [Prestatierapport voor betrokkenheidsstream](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) om u te helpen zien hoe effectief de inhoud in uw betrokkenheidsprogramma is.
+We hebben de Engagement Score toegevoegd aan de [[!UICONTROL Engagement Stream Performance] Rapport](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) om u te helpen zien hoe effectief de inhoud in uw betrokkenheidsprogramma is.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
@@ -60,6 +60,6 @@ De volgende filter- en triggernamen zijn bijgewerkt:
 
 ## Verbeteringen voor Forms 2.0 {#forms-enhancements}
 
-Met deze release hebben we Forms 2.0 verschillende updates over de kwaliteit van leven gegeven. Naast het mogelijk maken van progressieve profilering op ingesloten formulieren, hebben we een workflow en UX-wijzigingen aangebracht die het gemakkelijker maken om de meer geavanceerde functionaliteit in de editor te gebruiken, [inclusief de zichtbaarheidsregels](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), geavanceerd bedankt pagina&#39;s en verborgen velden.
+Met deze release hebben we Forms 2.0 verschillende updates over de kwaliteit van leven gegeven. Naast het toestaan van progressief profileren op ingebedde vormen, hebben wij werkschema en veranderingen van UX aangebracht die het gemakkelijker zullen maken om de geavanceerdere functionaliteit in de redacteur te gebruiken, [inclusief de zichtbaarheidsregels](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), geavanceerd bedankt pagina&#39;s en verborgen velden.
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)

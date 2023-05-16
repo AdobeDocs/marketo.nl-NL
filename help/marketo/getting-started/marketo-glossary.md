@@ -3,7 +3,7 @@ unique-page-id: 12980733
 description: Marketo Glossary - Marketo Docs - Productdocumentatie
 title: Marketo Verklarende woordenlijst
 exl-id: c387b880-708c-439c-99c3-46eb5ccb4536
-source-git-commit: 499729a61dc033c430d31831dc14045b4674de98
+source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
 workflow-type: tm+mt
 source-wordcount: '4203'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Hieronder vindt u definities voor veel van de termen die u kunt tegenkomen bij h
   </tr> 
   <tr> 
    <td colspan="1"><strong>Account</strong></td> 
-   <td colspan="1">Deze term kan verschillende betekenissen hebben:<br>-Je Marketo-exemplaar zelf kan worden aangeduid als je Marketo-account.<br>-In <strong>TAM</strong>, <strong>Benoemd account</strong> Dit is een account die de gebruiker heeft opgegeven. Dit is een doelaccount die de gebruiker wil gebruiken.<br>-In TAM, is een Rekening van CRM een rekening die van uw verbonden wordt in kaart gebracht <strong>CRM</strong> (account in <strong>Salesforce</strong>, <strong>MS Dynamics</strong> of <strong>API</strong>).<br>- In uw CRM, zijn de rekeningen de zaken/het bedrijf dat leidt en de contacten worden geassocieerd aan.</td> 
+   <td colspan="1">Deze term kan verschillende betekenissen hebben:<br>-Je Marketo-exemplaar zelf kan worden aangeduid als je Marketo-account.<br>-In <strong>TAM</strong>, <strong>Benoemd account</strong> Dit is een account die de gebruiker heeft opgegeven. Dit is een doelaccount die de gebruiker wil gebruiken.<br>-In TAM, is een Rekening van CRM een rekening die van uw verbonden wordt in kaart gebracht <strong>CRM</strong> (account in <strong><span class="dnl">Salesforce</span></strong>, <strong><span class="dnl">MS Dynamics</span></strong> of <strong>API</strong>).<br>- In uw CRM, zijn de rekeningen de zaken/het bedrijf dat leidt en de contacten worden geassocieerd aan.</td> 
   </tr> 
   <tr> 
    <td><strong>Accountlijst</strong></td> 
