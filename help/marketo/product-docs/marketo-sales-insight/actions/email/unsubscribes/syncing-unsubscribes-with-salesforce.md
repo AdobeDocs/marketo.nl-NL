@@ -2,9 +2,9 @@
 description: Abonnementen synchroniseren met Salesforce - Marketo Docs - Productdocumentatie
 title: Abonnementen synchroniseren met Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
-source-git-commit: 27ca6c3efc5d49729ca4473853688be9cc8cdbc9
+source-git-commit: f174cba33e18812ac08adf177302d997bbe60c4c
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '437'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,6 @@ Email Opt Out is een standaardveld in Salesforce dat beschikbaar is om te instal
 
 ## Marketo-verkoop niet beschikbaar {#marketo-sales-opt-out}
 
-Het veld Marketo Sales Opt Out is een aangepast veld dat beschikbaar is voor gebruikers die Marketo Sales Customizations hebben geïnstalleerd.
+Het veld Marketo Sales Opt Out is een aangepast veld dat beschikbaar is voor gebruikers die het Marketo Sales Insight-pakket hebben geïnstalleerd [van de AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
-Als je de Marketo Sales Customizations eenmaal in Salesforce hebt geïnstalleerd, kun je het veld Marketo Sales Opt Out zien dat voor je beschikbaar is.
+Zodra u het Marketo Sales Insight-pakket van de AppExchange naar Salesforce hebt geïnstalleerd, ziet u het veld Marketo Sales Opt Out dat voor u beschikbaar is.
