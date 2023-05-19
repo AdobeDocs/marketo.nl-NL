@@ -3,9 +3,9 @@ unique-page-id: 2359414
 description: Eenvoudig scoren - Marketo Docs - Productdocumentatie
 title: Eenvoudige scores
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
-source-git-commit: 89ee01fb25e7bc406c198c8e89e6957b3b1e1928
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;}
+>* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 
 ## Stap 1: Een scoringcampagne maken {#step-create-a-scoring-campaign}
 
-1. Ga naar de **Marketingactiviteiten** gebied.
+1. Ga naar de **[!UICONTROL Marketing Activities]** gebied.
 
    ![](assets/simple-scoring-1.png)
 
-1. Klik met de rechtermuisknop op uw **Leren** map en klik op **Nieuwe campagnemap**.
+1. Klik met de rechtermuisknop op uw **Leren** map en klik op **[!UICONTROL New Campaign Folder]**.
 
    ![](assets/simple-scoring-2.png)
 
-1. Geef de campagnemap een naam &quot;Scoring&quot; en klik op **Maken**.
+1. Geef de campagnemap een naam &quot;Scoring&quot; en klik op **[!UICONTROL Create]**.
 
    ![](assets/simple-scoring-3.png)
 
@@ -36,21 +36,21 @@ ht-degree: 0%
    >
    >Als u al een map met scores hebt, geeft u deze een andere naam, bijvoorbeeld Scoring 1. Mapnamen moeten uniek zijn.
 
-1. Klik met de rechtermuisknop op uw **Scores** map en selecteer **Nieuwe slimme campagne**.
+1. Klik met de rechtermuisknop op uw **Scores** map en selecteer **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/simple-scoring-4.png)
 
-1. Geef de campagne de naam &quot;Score wijzigen&quot; en klik op **Maken**.
+1. Geef de campagne de naam &quot;Score wijzigen&quot; en klik op **[!UICONTROL Create]**.
 
    ![](assets/simple-scoring-5.png)
 
-1. Klik op de knop **Slimme lijst** tab.
+1. Klik op de knop **[!UICONTROL Smart List]** tab.
 
    ![](assets/simple-scoring-6.png)
 
    We willen dat deze campagne wordt uitgevoerd wanneer iemand uw **Formulier voor proefaanvraag**.
 
-1. Zoek en sleep de **Formulier wordt ingevuld** activeren op het linkercanvas.
+1. Zoek en sleep de **[!UICONTROL Fills Out Form]** activeren op het linkercanvas.
 
    ![](assets/simple-scoring-7.png)
 
@@ -60,9 +60,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Als u het [Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} quick win, you should have the form. Als u een andere naam hebt gebruikt voor het formulier, selecteert u die naam.
+   >Als u het [Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} als je snel wint, moet je het formulier hebben. Als u een andere naam hebt gebruikt voor het formulier, selecteert u die naam.
 
-1. Klik op de knop **Stroom** tab.
+1. Klik op de knop **[!UICONTROL Flow]** tab.
 
    ![](assets/simple-scoring-9.png)
 
@@ -70,19 +70,19 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-10.png)
 
-1. U kunt elke waarde typen die u aan de persoonlijke score wilt toevoegen. Laten we &quot;+5&quot; invoeren in het dialoogvenster **Wijzigen** veld.
+1. U kunt elke waarde typen die u aan de persoonlijke score wilt toevoegen. Laten we &quot;+5&quot; invoeren in het dialoogvenster **[!UICONTROL Change]** veld.
 
    ![](assets/simple-scoring-11.png)
 
    >[!TIP]
    >
-   >Goede scoringcampagnes zijn essentieel om mensen van hoge kwaliteit aan de Verkoop te leveren. Lezen [**De Definitieve gids voor het Scoren van de Lood**](https://www.marketo.com/definitive-guides/lead-scoring/){target=&quot;_blank&quot;}.
+   >Goede scoringcampagnes zijn essentieel om mensen van hoge kwaliteit aan de Verkoop te leveren. Lezen [**De Definitieve gids voor het Scoren van de Lood**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
 
-1. Klik op de knop **Schema** en de **Activeren** knop.
+1. Klik op de knop **[!UICONTROL Schedule]** en de **[!UICONTROL Activate]** knop.
 
    ![](assets/simple-scoring-12.png)
 
-1. Klikken **Activeren** op het bevestigingsscherm.
+1. Klikken **[!UICONTROL Activate]** op het bevestigingsscherm.
 
    ![](assets/simple-scoring-13.png)
 
@@ -92,15 +92,15 @@ ht-degree: 0%
 
 ## Stap 2: Het formulier invullen {#step-fill-out-the-form}
 
-1. Selecteer de bestemmingspagina u in creeerde [Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target=&quot;_blank&quot;} quick win.
+1. Selecteer de bestemmingspagina u in creeerde [Openingspagina met formulier](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} snel winnen.
 
    ![](assets/simple-scoring-14.png)
 
-1. Klikken **Voorvertoning**. De landingspagina wordt geopend op een nieuw tabblad.
+1. Klik op **[!UICONTROL Preview]**. De landingspagina wordt geopend op een nieuw tabblad.
 
    ![](assets/simple-scoring-15.png)
 
-1. Vul het formulier in met uw voornaam, achternaam en e-mailadres en klik vervolgens op **Verzenden**.
+1. Vul het formulier in met uw voornaam, achternaam en e-mailadres en klik vervolgens op **[!UICONTROL Submit]**.
 
    ![](assets/simple-scoring-16.png)
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 ## Stap 3: Persoonsgegevens weergeven {#step-view-the-person-info}
 
-1. Ga naar het gebied Database.
+1. Ga naar de **[!UICONTROL Database]** gebied.
 
    ![](assets/simple-scoring-17.png)
 

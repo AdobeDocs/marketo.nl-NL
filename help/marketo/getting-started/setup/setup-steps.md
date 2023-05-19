@@ -3,9 +3,9 @@ unique-page-id: 2949469
 description: Stappen instellen - Marketo Docs - Productdocumentatie
 title: Stappen instellen
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
-source-git-commit: 6dc38462b08f9db639d2d5ee005c4bdf5131b701
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '2054'
+source-wordcount: '2008'
 ht-degree: 0%
 
 ---
@@ -35,17 +35,17 @@ Sommige stappen vereisen hulp van uw team van IT.
 
 ## Aanmelden en extra Marketo-gebruikers maken {#log-in-and-create-additional-marketo-users}
 
-1. Aanmelden bij Marketo [hier](https://app.marketo.com/){target="_blank"} met de gegevens die u per e-mail hebt ontvangen.
+Aanmelden bij Marketo [hier](https://app.marketo.com/){target="_blank"} met de gegevens die u per e-mail hebt ontvangen.
 
-   ![](assets/setup-steps-1.png)
+![](assets/setup-steps-1.png)
 
 Gefeliciteerd.  Je bent nu in Marketo en kan beginnen te verkennen. U zou uw collega&#39;s op het marketing team kunnen willen uitnodigen om zich bij u aan te sluiten. U kunt dit doen door nieuwe gebruikers toe te voegen.
 
-Ga naar de **Beheer** gebied.
+Ga naar de **[!UICONTROL Admin]** gebied.
 
 >[!TIP]
 >
->Terwijl u hier bent, kunt u klikken **Mijn account** om uw account- en locatie-instellingen te wijzigen en een nieuwe abonnementsnaam in te stellen.
+>Terwijl u hier bent, kunt u klikken **[!UICONTROL My Account]** om uw account- en locatie-instellingen te wijzigen en een nieuwe abonnementsnaam in te stellen.
 
 ![](assets/setup-steps-2.png)
 
@@ -53,15 +53,15 @@ Ga naar de **Beheer** gebied.
 >
 >**Beheerdersmachtigingen vereist**
 
-Klikken **Gebruikers en rollen**.
+Klik op **[!UICONTROL Users & Roles]**.
 
 ![](assets/setup-steps-3.png)
 
-Klikken **Nieuwe gebruiker uitnodigen**.
+Klik op **[!UICONTROL Invite New User]**.
 
 ![](assets/setup-steps-4.png)
 
-Vul het e-mailadres, de voornaam en de achternaam van uw collega in. _Het instellen van een vervaldatum voor toegang is optioneel_. Klikken **Volgende**.
+Vul het e-mailadres, de voornaam en de achternaam van uw collega in. _Het instellen van een vervaldatum voor toegang is optioneel_. Klik op **[!UICONTROL Next]**.
 
 ![](assets/setup-steps-5.png)
 
@@ -73,7 +73,7 @@ Vul het e-mailadres, de voornaam en de achternaam van uw collega in. _Het instel
 >
 >Wanneer de vervaldatum aankomt, ontvangt de gebruiker een vervalmelding en is de account vergrendeld.
 
-Selecteer een rol en klik op **Volgende**. Standaardgebruikers hebben toegang tot alle gebieden behalve Admin.
+Selecteer een rol en klik op **[!UICONTROL Next]**. Standaardgebruikers hebben toegang tot alle gebieden behalve Admin.
 
 ![](assets/setup-steps-6.png)
 
@@ -85,7 +85,7 @@ Voel u vrij om de uitnodigingstekst aan te passen. Klikken **Verzenden**.
 
 ![](assets/setup-steps-7.png)
 
-De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e-mail met een koppeling om een wachtwoord en een aanmelding te maken. Volgende stap!
+De nieuwe gebruiker wordt nu vermeld in het dialoogvenster **[!UICONTROL Users]** en ontvangt u een e-mail met een koppeling om een wachtwoord en een aanmelding te maken. Volgende stap!
 
 ![](assets/setup-steps-8.png)
 
@@ -133,7 +133,7 @@ Klikken **Mijn account**.
 
 ![](assets/setup-steps-10.png)
 
-Blader omlaag naar &quot;Ondersteuningsinformatie&quot; en kopieer uw Munchkin-id.
+Kopieer de [!UICONTROL Account String] van de instellingen van de bestemmingspagina.
 
 ![](assets/setup-steps-11.png)
 
@@ -169,17 +169,17 @@ Het eerste deel is de e-mailtracking CNAME. `[EmailTrackingCNAME]`. U zult het a
 >
 >De NAAM van de e-mail- en bestemmingspagina moet anders zijn. Vermijd ook CNAME&#39;s zoals &#39;track&#39; of &#39;link&#39;. Het wordt vaak gemarkeerd als spam
 
-Ga naar de **Beheer** gebied.
+Ga naar de **[!UICONTROL Admin]** gebied.
 
 ![](assets/setup-steps-12.png)
 
-Klikken **E-mail**.
+Klik op **[!UICONTROL Email]**.
 
 ![](assets/setup-steps-13.png)
 
-Kopieer de koppeling Tracking uit uw e-mailinstellingen.
+Kopieer de [!UICONTROL Tracking Link] uit uw e-mailinstellingen.
 
-De koppeling voor het bijhouden van gegevens heeft de volgende vorm: `mkto-[a-z][4 digits].com`.
+De [!UICONTROL Tracking Link] in de vorm: `mkto-[a-z][4 digits].com`.
 
 ![](assets/setup-steps-14.png)
 
@@ -284,35 +284,35 @@ Stuur de e-mail naar de IT-afdeling. We begrijpen dat het enige tijd kan duren v
 
 Nadat de IT-afdeling hun taken heeft voltooid, voert u de volgende stappen uit om uw bestemmingspagina en e-mailCNAME&#39;s toe te voegen en om DKIM-ondertekening te activeren.
 
-Ga naar de **Beheer** gebied voor het toevoegen van de NAAM van uw bestemmingspagina
+Ga naar de **[!UICONTROL Admin]** gebied voor het toevoegen van de NAAM van uw bestemmingspagina
 
 ![](assets/setup-steps-15.png)
 
-Selecteer bestemmingspagina&#39;s en klik **Bewerken** in het gebied Instellingen.
+Selecteer bestemmingspagina&#39;s en klik **[!UICONTROL Edit]** in de [!UICONTROL Settings] gebied.
 
 ![](assets/setup-steps-16.png)
 
-Voer uw nieuwe domeinnaam in in het veld Domeinnaam voor bestemmingspagina&#39;s. Dit moet de volgende vorm hebben:
+Voer uw nieuwe domeinnaam in het veld in **[!UICONTROL Domain Name for Landing Pages]**. Dit moet de volgende vorm hebben:
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
 ![](assets/setup-steps-17.png)
 
-Voer in het veld Pagina voor alternatieven de URL in waarnaar mensen moeten gaan als er geen bestemmingspagina beschikbaar is. U kunt de homepage van uw bedrijf gebruiken als u geen reservepagina hebt. Voer in het veld Homepage de website van uw bedrijf in.
+In de **[!UICONTROL Fallback]** Voer de URL in waarnaar de mensen moeten gaan als er geen bestemmingspagina beschikbaar is. U kunt de homepage van uw bedrijf gebruiken als u geen reservepagina hebt. In de **[!UICONTROL Homepage]** in, voert u uw bedrijfswebsite in.
 
 ![](assets/setup-steps-18.png)
 
-Selecteer in het gebied Beheer de optie E-mail om uw e-mailNAAM toe te voegen
+In de [!UICONTROL Admin] gebied selecteren **[!UICONTROL Email]** om uw e-mailNAAM toe te voegen
 
 ![](assets/setup-steps-19.png)
 
-Schuif omlaag naar brandingdomeinen. Selecteer uw domein en klik **Bewerken**.
+Omlaag schuiven naar [!UICONTROL Branding Domains]. Selecteer uw domein en klik **[!UICONTROL Edit]**.
 
 ![](assets/setup-steps-20.png)
 
 Voer in het veld Domein uw domein voor het bijhouden van e-mail in. Dit moet de volgende vorm hebben:
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Klikken **Opslaan**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Klik op **[!UICONTROL Save]**.
 
 ![](assets/setup-steps-21.png)
 
@@ -322,8 +322,8 @@ Dit is waarschijnlijk de meest opwindende stap van uw opstelling - het is tijd o
 
 Kies uit het volgende, afhankelijk van CRM uw bedrijf gebruikt.
 
-    * [Marketo integreren met Salesforce.com](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-    * [Marketo integreren met Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+    * [Marketo integreren met [!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+    * [Marketo integreren met [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 >[!NOTE]
 >
@@ -333,9 +333,9 @@ Kies uit het volgende, afhankelijk van CRM uw bedrijf gebruikt.
 
 >[!NOTE]
 >
->Bent u een klant van het Pak van de Lancering? U kunt deze stap overslaan. Uw consultant zal u in het handboek met instructies voor de installatie van uw IT-afdeling codeinstructies geven.
+>Ben je [!DNL Launch Pack] klant? U kunt deze stap overslaan. Uw consultant zal u [!DNL Munchkin] code instructies in uw document van de de opstellingsinstructies van IT.
 
-Marketo beschikt over JavaScript voor het bijhouden van wijzigingen (Munchkin genoemd) waarmee u activiteiten van personen op elke webpagina kunt bijhouden. Munchkin is vereist om uw website in Marketo te integreren. Ga als volgt te werk: [Munchkin-trackingcode toevoegen aan uw website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo heeft JavaScript voor aangepaste reeksspatiëring (ook wel [!DNL Munchkin]) die u kunt gebruiken om persoonlijke activiteiten op elke webpagina bij te houden. [!DNL Munchkin] is vereist om uw website in Marketo te integreren. Ga als volgt te werk: [Toevoegen [!DNL Munchkin] Code volgen op uw website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >

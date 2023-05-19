@@ -3,10 +3,10 @@ unique-page-id: 2949251
 description: SEO - voeg/verwijder een Binnenkomende Verbinding URL van een Lijst toe - de Documenten van Marketo - de Documentatie van het Product
 title: SEO - voeg/verwijder een Binnenkomende Verbinding URL van een Lijst toe
 exl-id: 8079387f-633b-4982-a31d-837dcc374601
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 0%
+source-wordcount: '173'
+ht-degree: 1%
 
 ---
 
@@ -16,11 +16,11 @@ U kunt uw binnenkomende verbinding URLs aan de inhoud van uw hart organiseren.
 
 ## Een binnenkomende URL van een koppeling toevoegen aan een lijst {#add-an-inbound-link-url-to-a-list}
 
-1. Ga naar de Binnenkomende sectie van Verbindingen.
+1. Ga naar de **[!UICONTROL Inbound Links]** sectie.
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Houd de muisaanwijzer boven de binnenkomende URL van de koppeling die u wilt indelen. Klikken **Toevoegen/verwijderen uit lijst**.
+1. Houd de muisaanwijzer boven de binnenkomende URL van de koppeling die u wilt indelen. Klik op **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -30,21 +30,21 @@ U kunt uw binnenkomende verbinding URLs aan de inhoud van uw hart organiseren.
 
 >[!TIP]
 >
->U kunt ook een nieuwe lijst maken voor het trefwoord dat u wilt gebruiken. Typ gewoon de gewenste naam in de lijst Een nieuwe lijst maken.
+>U kunt ook een nieuwe lijst maken voor het trefwoord dat u wilt gebruiken. Typ uw gewenste naam in [!UICONTROL Create a new list].
 
 ## Een binnenkomende URL van een koppeling uit een lijst verwijderen {#remove-an-inbound-link-url-from-a-list}
 
 Soms zult u een binnenkomende verbinding URL&#39;s uit een lijst willen verwijderen.
 
-1. Klikken **Binnenkomende koppelingen**.
+1. Klik op **[!UICONTROL Inbound Links]**.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Klik op de knop **Filteren op lijst** vervolgkeuzelijst. Klik op de lijst die u wilt opruimen.
+1. Klik op de knop **[!UICONTROL Filter by list]** vervolgkeuzelijst. Klik op de lijst die u wilt opruimen.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Houd de muisaanwijzer boven de URL van de binnenkomende koppeling die u wilt verwijderen. Klikken **Toevoegen/verwijderen uit lijst**.
+1. Houd de muisaanwijzer boven de URL van de binnenkomende koppeling die u wilt verwijderen. Klik op **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 

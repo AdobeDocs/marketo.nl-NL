@@ -2,10 +2,10 @@
 title: Marketo-productdocumenten
 description: Marketo-productdocumenten
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 0%
+source-wordcount: '49'
+ht-degree: 4%
 
 ---
 
@@ -22,14 +22,14 @@ ht-degree: 0%
 
 ## Populaire artikelen
 
-* [Werken met Salesforce Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [De [!DNL Salesforce] Synchroniseren](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [Werken met Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [De [!DNL Microsoft Dynamics] Synchroniseren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [Slimme campagnes](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
 * [Adobe Marketo Engage Next Gen UX Experience Overzicht](/help/marketo/product-docs/marketo-engage-modern-ux/overview.md)
 
-## Opmerkingen bij de release
+## Aanvullende informatie
 
 * [Huidige versie](/help/marketo/release-notes/current.md)

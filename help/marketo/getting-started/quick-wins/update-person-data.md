@@ -3,9 +3,9 @@ unique-page-id: 2359426
 description: Persgegevens bijwerken - Marketo-documenten - Productdocumentatie
 title: Persoonsgegevens bijwerken
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
-source-git-commit: a7f0f5b89ca2a35a3aaf0cfe1ed3a96da6366844
+source-git-commit: 74da8ebbd564b11e2795da31321ca47493135f48
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
+>* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 
 Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens gaf. Hier is hoe te om persoongegevens bij te werken.
 
 ## Zoek de persoon die u wilt bijwerken {#find-the-person-you-need-to-update}
 
-1. Ga naar uw database.
+1. Ga naar uw **[!UICONTROL Database]**.
 
    ![](assets/update-person-data-1.png)
 
@@ -42,7 +42,7 @@ Stel je voor dat een persoon je in je recente winkel aanvullende contactgegevens
 
    >[!TIP]
    >
-   >Er zijn veel manieren om persoongegevens bij te werken in Marketo. Zie [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;} en [Gegevenswaarde wijzigen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target=&quot;_blank&quot;}.
+   >Er zijn veel manieren om persoongegevens bij te werken in Marketo. Zie [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
 ## De persoonlijke gegevens bijwerken {#update-the-person-data}
 
