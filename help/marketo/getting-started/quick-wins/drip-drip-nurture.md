@@ -3,9 +3,9 @@ unique-page-id: 2359420
 description: Drip, Drip, Nurture - Marketo Docs - Productdocumentatie
 title: Drip, Drip, Nurture
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
-source-git-commit: 4448d6e082c0c4fad35fc2980446175bffe47e4b
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -18,25 +18,25 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd opvoedingssysteem mak
 
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target=&quot;_blank&quot;}
+>* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Een lijst met personen importeren](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 
 ## Stap 1: Een betrokkenheidsprogramma maken {#step-create-an-engagement-program}
 
-1. Ga naar de **Marketingactiviteiten** gebied.
+1. Ga naar de **[!UICONTROL Marketing Activities]** gebied.
 
    ![](assets/drip-drip-nurture-1.png)
 
-1. Selecteer **Leren** map, klikt u op de knop **Nieuw** vervolgkeuzelijst en selecteer **Nieuw programma**.
+1. Selecteer **Leren** map, klikt u op de knop **[!UICONTROL New]** vervolgkeuzelijst en selecteer **[!UICONTROL New Program]**.
 
    ![](assets/drip-drip-nurture-2.png)
 
-1. Voer een **Naam** en selecteert u **Betrokkenheid** voor de **Type programma**.
+1. Voer een **[!UICONTROL Name]** en selecteert u **[!UICONTROL Engagement]** voor de **[!UICONTROL Program Type]**.
 
    ![](assets/drip-drip-nurture-3.png)
 
-1. Zorg ervoor dat de **Kanaal** field is **Verloop** en klik op **Maken**.
+1. Zorg ervoor dat de **[!UICONTROL Channel]** field is **[!UICONTROL Nurture]** en klik op **[!UICONTROL Create]**.
 
    ![](assets/drip-drip-nurture-4.png)
 
@@ -44,35 +44,35 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd opvoedingssysteem mak
 
 ## Stap 2: Een e-mail maken {#step-create-an-email}
 
-1. Selecteer uw serviceprogramma en klik op **Nieuw** en selecteert u **Nieuw lokaal element**.
+1. Selecteer uw serviceprogramma en klik op **[!UICONTROL New]** en selecteert u **[!UICONTROL New Local Asset]**.
 
    ![](assets/drip-drip-nurture-5.png)
 
-1. Klikken **E-mail**.
+1. Klik op **[!UICONTROL Email]**.
 
    ![](assets/drip-drip-nurture-6.png)
 
-1. Voer een **Naam**, selecteert u de **Sjabloon** wilt gebruiken en klikt u op **Maken**.
+1. Voer een **[!UICONTROL Name]**, selecteert u de **[!UICONTROL Template]** wilt gebruiken en klikt u op **[!UICONTROL Create]**.
 
    ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
-   >Ziet u de e-maileditor niet? Uw browser heeft het venster waarschijnlijk geblokkeerd. Pop-ups inschakelen vanuit `app.marketo.com` in uw browser en klik op **Concept bewerken** in de bovenste menubalk.
+   >Ziet u de e-maileditor niet? Uw browser heeft het venster waarschijnlijk geblokkeerd. Pop-ups inschakelen vanuit `app.marketo.com` in uw browser en klik op **[!UICONTROL Edit Draft]** in de bovenste menubalk.
 
 1. Voer een onderwerp in.
 
    ![](assets/drip-drip-nurture-8.png)
 
-1. Selecteer het gebied van de e-mail dat u wilt bewerken, klik op het tandwielpictogram en selecteer **Bewerken**.
+1. Selecteer het gebied van de e-mail dat u wilt bewerken, klik op het tandwielpictogram en selecteer **[!UICONTROL Edit]**.
 
    ![](assets/drip-drip-nurture-9.png)
 
-1. Bewerk uw e-mail en klik op **Opslaan**.
+1. Bewerk uw e-mail en klik op **[!UICONTROL Save]**.
 
    ![](assets/drip-drip-nurture-10.png)
 
-1. Onder **E-mailhandelingen**, klikt u op **Goedkeuren en Sluiten**.
+1. Onder **[!UICONTROL Email Actions]**, klikt u op **[!UICONTROL Approve and Close]**.
 
    ![](assets/drip-drip-nurture-11.png)
 
@@ -88,11 +88,11 @@ In Marketo kunt u eenvoudig een geavanceerd en geavanceerd opvoedingssysteem mak
 
 Nu is het tijd om een inhoudsstroom voor uw betrokkenheidsprogramma te maken met de e-mails die u hebt gemaakt.
 
-1. Selecteer uw serviceprogramma en klik op de knop **Streams** tab.
+1. Selecteer uw serviceprogramma en klik op de knop **[!UICONTROL Streams]** tab.
 
    ![](assets/drip-drip-nurture-13.png)
 
-1. Klik op de knop **Inhoud toevoegen** in de stream.
+1. Klik op de knop **[!UICONTROL Add Content]** in de stream.
 
    ![](assets/drip-drip-nurture-14.png)
 
@@ -106,7 +106,7 @@ Nu is het tijd om een inhoudsstroom voor uw betrokkenheidsprogramma te maken met
 
 ## Stap 4: Stream-inhoud activeren {#step-activate-stream-content}
 
-1. Alle inhoud tegelijk activeren door op het tandwielpictogram voor de stream te klikken en vervolgens op **Alle inhoud activeren**.
+1. Alle inhoud tegelijk activeren door op het tandwielpictogram voor de stream te klikken en vervolgens op **[!UICONTROL Activate all content]**.
 
    ![](assets/drip-drip-nurture-16.png)
 
@@ -118,11 +118,11 @@ Nu is het tijd om een inhoudsstroom voor uw betrokkenheidsprogramma te maken met
 
 ## Stap 5: De stroomkring instellen {#step-set-the-stream-cadence}
 
-1. Klikken **Stroomversnelling instellen**.
+1. Klik op **[!UICONTROL Set Stream Cadence]**.
 
    ![](assets/drip-drip-nurture-17.png)
 
-1. Pas de instellingen aan het gewenste schema aan en klik op **Opslaan**.
+1. Pas de instellingen aan het gewenste schema aan en klik op **[!UICONTROL Save]**.
 
    ![](assets/drip-drip-nurture-18.png)
 
@@ -134,7 +134,7 @@ Nu is het tijd om een inhoudsstroom voor uw betrokkenheidsprogramma te maken met
 
 ## Stap 6: Een testpersoon toevoegen aan uw betrokkenheidsprogramma {#step-add-a-test-person-to-your-engagement-program}
 
-1. Ga naar de **Database** gebied.
+1. Ga naar de **[!UICONTROL Database]** gebied.
 
    ![](assets/drip-drip-nurture-19.png)
 
@@ -146,11 +146,11 @@ Nu is het tijd om een inhoudsstroom voor uw betrokkenheidsprogramma te maken met
    >
    >Zorg ervoor dat de testpersoon een geldig e-mailadres heeft, zodat u de ontvangst van e-mails tijdens het testen kunt bevestigen.
 
-1. Klik met de rechtermuisknop op de persoon en klik vervolgens op **Programma&#39;s** en **Toevoegen aan betrokkenheidsprogramma**.
+1. Klik met de rechtermuisknop op de persoon en klik vervolgens op **[!UICONTROL Programs]** en **[!UICONTROL Add to Engagement Program...]**.
 
    ![](assets/drip-drip-nurture-21.png)
 
-1. Selecteer uw **Programma** en **Stream** en klik vervolgens op **Nu uitvoeren**.
+1. Selecteer uw **[!UICONTROL Program]** en **[!UICONTROL Stream]** en klik vervolgens op **[!UICONTROL Run Now]**.
 
    ![](assets/drip-drip-nurture-22.png)
 
@@ -160,7 +160,7 @@ Nu is het tijd om een inhoudsstroom voor uw betrokkenheidsprogramma te maken met
 
    >[!NOTE]
    >
-   >Meer informatie over [Betrokkenheidsprogramma&#39;s](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target=&quot;_blank&quot;}.
+   >Meer informatie over [Betrokkenheidsprogramma&#39;s](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md){target="_blank"}.
 
 ## Opdracht voltooid! {#mission-complete}
 

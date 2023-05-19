@@ -3,9 +3,9 @@ unique-page-id: 2359351
 description: Opzetten en een persoon toevoegen - Marketo Docs - Productdocumentatie
 title: Instellen en een persoon toevoegen
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
-source-git-commit: 3e53e5b947755b1b1a8db2b2fc30e93ea6c362ec
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Er zijn een paar dingen te doen voordat u de missies begint.
 
 ## Stap 1: Aanmelden bij Marketo {#step-log-in-to-marketo}
 
-1. [Aanmelden bij Marketo](https://app.marketo.com){target=&quot;_blank&quot;} met de gegevens die u per e-mail hebt ontvangen.
+1. [Aanmelden bij Marketo](https://app.marketo.com){target="_blank"} met de gegevens die u per e-mail hebt ontvangen.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -24,15 +24,15 @@ Er zijn een paar dingen te doen voordat u de missies begint.
 
 Laten we een map maken voor alles wat u in de missies gaat maken.
 
-1. Ga naar de **Marketingactiviteiten** gebied.
+1. Ga naar de **[!UICONTROL Marketing Activities]** gebied.
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
-1. Klik op de knop **Nieuw** vervolgkeuzelijst en selecteer **Nieuwe campagnemap**.
+1. Klik op de knop **[!UICONTROL New]** vervolgkeuzelijst en selecteer **[!UICONTROL New Campaign Folder]**.
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
-1. Geef de map &quot;Learning&quot; een naam en klik op **Maken**.
+1. Geef de map &quot;Learning&quot; een naam en klik op **[!UICONTROL Create]**.
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
@@ -44,15 +44,15 @@ Laten we een map maken voor alles wat u in de missies gaat maken.
 
 Voeg uzelf toe als persoon in Marketo zodat u later teste-mails naar uzelf kunt sturen.
 
-1. Ga naar de **Database** gebied.
+1. Ga naar de **[!UICONTROL Database]** gebied.
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
-1. Klik op de knop **Nieuw** vervolgkeuzelijst en selecteer **Nieuwe persoon**.
+1. Klik op de knop **[!UICONTROL New]** vervolgkeuzelijst en selecteer **[!UICONTROL New Person]**.
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
-1. Typ uw voornaam en achternaam, e-mailadres en bedrijfsnaam en klik vervolgens op **Maken** om uzelf toe te voegen als een persoon.
+1. Typ uw voornaam en achternaam, e-mailadres en bedrijfsnaam en klik vervolgens op **[!UICONTROL Create]** om uzelf toe te voegen als een persoon.
 
    ![](assets/get-set-up-and-add-a-person-8.png)
 
@@ -60,11 +60,11 @@ Voeg uzelf toe als persoon in Marketo zodat u later teste-mails naar uzelf kunt 
    >
    >Marketo doet het **niet** e-mailadressen met emojis ondersteunen.
 
-1. Om uw mensen te bekijken, open uw Slimme Lijsten van het Systeem in het linkermenu, dan klik Alle Mensen.
+1. Open uw [!UICONTROL System Smart Lists] in het linkermenu en klik vervolgens op **[!UICONTROL All People]**.
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. Klik op de knop **Mensen** tab. U zou zich in het gegevensbestand moeten zien.
+1. Klik op de knop **[!UICONTROL People]** tab. U zou zich in het gegevensbestand moeten zien.
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 

@@ -3,9 +3,9 @@ unique-page-id: 2359422
 description: Een e-mail personaliseren - Marketo Docs - Productdocumentatie
 title: Een e-mail aanpassen
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
-source-git-commit: 8aa2f3069c0168f57ac00dfc7270484a9045584c
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -16,14 +16,14 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target=&quot;_blank&quot;}
->* [Een e-mailschok verzenden](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}
->* [Drip, Drip, Nurture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;}
+>* [Instellen en een persoon toevoegen](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Een e-mailschok verzenden](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}
+>* [Drip, Drip, Nurture](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"}
 
 
 ## Stap 1: Selecteer een e-mailadres dat u wilt aanpassen {#step-select-an-email-to-personalize}
 
-1. Selecteer een van de e-mails die u voor de verpleging hebt gemaakt in het dialoogvenster [vorige quick win](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target=&quot;_blank&quot;} en klik op **Concept maken**.
+1. Selecteer een van de e-mails die u voor de verpleging hebt gemaakt in het dialoogvenster [vorige quick win](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md){target="_blank"} en klik op **[!UICONTROL Create draft]**.
 
    ![](assets/personalize-an-email-1.png)
 
@@ -31,15 +31,15 @@ ht-degree: 0%
    >
    >Hiermee maakt u een kopie van de e-mail als concept. Vergeet niet het concept voor de wijzigingen goed te keuren om live te gaan.
 
-Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in een nieuw tabblad/venster. Anders klikt u op **Concept maken** twee keer.
+Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in een nieuw tabblad/venster. Anders klikt u op **[!UICONTROL Create Draft]** twee keer.
 
 ## Stap 2: De verkoper de afzender maken {#step-make-the-salesperson-the-sender}
 
-1. Selecteer **Van** veld, markering en **delete** de huidige naam.
+1. Selecteer **[!UICONTROL From]** veld, markering en **delete** de huidige naam.
 
    ![](assets/personalize-an-email-2.png)
 
-1. Klik op de knop **Token** pictogram rechts van **Van** veld.
+1. Klik op de knop **Token** pictogram rechts van **[!UICONTROL From]** veld.
 
    ![](assets/personalize-an-email-3.png)
 
@@ -51,7 +51,7 @@ Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in 
 
    ![](assets/personalize-an-email-5.png)
 
-1. De spatiebalk in het dialoogvenster **Van** , zorgt u ervoor dat de cursor één spatie knippert na het token dat u zojuist hebt ingevoegd. Klik vervolgens op de knop **Token** weer.
+1. De spatiebalk in het dialoogvenster **[!UICONTROL From]** , zorgt u ervoor dat de cursor één spatie knippert na het token dat u zojuist hebt ingevoegd. Klik vervolgens op de knop **Token** weer.
 
    ![](assets/personalize-an-email-6.png)
 
@@ -65,7 +65,7 @@ Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in 
 
 ## Stap 3: De naam van de lead toevoegen aan het e-mailbericht {#step-add-the-leads-name-to-the-email}
 
-1. Selecteer de bovenste bewerkbare sectie, klik op het tandwielpictogram en selecteer **Bewerken**.
+1. Selecteer de bovenste bewerkbare sectie, klik op het tandwielpictogram en selecteer **[!UICONTROL Edit]**.
 
    ![](assets/personalize-an-email-9.png)
 
@@ -77,7 +77,7 @@ Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in 
 
    ![](assets/personalize-an-email-11.png)
 
-1. Voer &quot;Vriend&quot; (of elk gewenst label) in het dialoogvenster **Standaardwaarde** veld en klik op **Invoegen**.
+1. Voer &quot;Vriend&quot; (of elk gewenst label) in het dialoogvenster **[!UICONTROL Default Value]** veld en klik op **[!UICONTROL Insert]**.
 
    ![](assets/personalize-an-email-12.png)
 
@@ -85,17 +85,17 @@ Als u geen pop-upblokkering hebt ingeschakeld, wordt de e-maileditor geopend in 
    >
    >Neem altijd een standaardwaarde voor tokens op. dit zorgt ervoor dat de standaardwaarde in de e-mail wordt weergegeven als een deel van de persoonlijke gegevens ontbreekt.
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/personalize-an-email-13.png)
 
-1. Onder **E-mailhandelingen** en selecteert u **Goedkeuren en Sluiten**.
+1. Onder **[!UICONTROL Email Actions]** en selecteert u **[!UICONTROL Approve and Close]**.
 
    ![](assets/personalize-an-email-14.png)
 
 >[!TIP]
 >
->Wilt u snel vernieuwen hoe u uzelf de e-mail kunt sturen? Zie [Een e-mailschok verzenden](/help/marketo/getting-started/quick-wins/send-an-email.md){target=&quot;_blank&quot;}.
+>Wilt u snel vernieuwen hoe u uzelf de e-mail kunt sturen? Zie [Een e-mailschok verzenden](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}.
 
 ### Opdracht voltooid {#mission-complete}
 

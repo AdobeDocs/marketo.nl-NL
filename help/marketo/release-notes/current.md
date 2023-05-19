@@ -2,9 +2,9 @@
 description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 88316009757720d9ea9987bb88d7a33cbfc25c02
+source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '431'
 ht-degree: 2%
 
 ---
@@ -65,7 +65,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 Interactieve webinars vergroten de bestaande gebeurtenissen en webinars door een native en naadloze ervaring voor marketers te bieden om gebeurtenissen binnen Marketo Engage te maken, te beheren en te leveren. Pas de webinars aan op basis van het type gebeurtenis en voeg desgewenst zelfs presentatoren toe. Verkrijg rijke inzichten van betrokkenheid door de eigenschappen van Adobe Connect zoals levende opiniepeilingen, praatje, Q&amp;A zittingen, Web verbinding klikt, documentdownloads, en meer. Haal de webinar opname direct in Marketo Engage op en evalueer zijn prestaties door rijke dashboardmetriek.
 
-U kunt [vroege toegang tot deze functie hier](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+Interactieve webinars zullen geleidelijk worden opgebouwd. Vul het formulier in om eerdere toegang aan te vragen [dit formulier](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 
