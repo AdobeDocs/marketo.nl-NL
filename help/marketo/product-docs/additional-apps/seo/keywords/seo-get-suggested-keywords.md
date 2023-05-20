@@ -3,10 +3,10 @@ unique-page-id: 2949202
 description: SEO - Suggesties voor trefwoorden ophalen - Marketo Docs - Productdocumentatie
 title: SEO - Suggesties voor trefwoorden ophalen
 exl-id: 6631b389-039a-40f1-8445-3971576e9f65
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 3%
 
 ---
 
@@ -16,15 +16,15 @@ Marketo SEO kan voorstellen welke trefwoorden je moet volgen. We kunnen suggesti
 
 ## Trefwoordsuggesties ophalen met een trefwoord {#get-keyword-suggestions-using-a-keyword}
 
-1. Ga naar de **Trefwoorden** sectie.
+1. Ga naar de **[!UICONTROL Keywords]** sectie.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Klikken **Suggesties ophalen**.
+1. Klik op **[!UICONTROL Get Suggestions]**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Voer een **Trefwoord**. Klikken **Trefwoorden voorstellen**.
+1. Voer een **[!UICONTROL Keyword]**. Klik op **[!UICONTROL Suggest Keywords]**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
@@ -32,7 +32,7 @@ Marketo SEO kan voorstellen welke trefwoorden je moet volgen. We kunnen suggesti
    >
    >Wist u dat u  [voeg uw sleutelwoord aan een nieuwe of bestaande lijst toe](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hier?
 
-1. Selecteer voorgestelde trefwoorden. Klikken **Geselecteerde toevoegen**.
+1. Selecteer voorgestelde trefwoorden. Klik op **[!UICONTROL Add Selected]**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -44,19 +44,19 @@ Marketo SEO kan voorstellen welke trefwoorden je moet volgen. We kunnen suggesti
 
 ## Trefwoordsuggesties ophalen via een URL  {#get-keyword-suggestions-from-a-url}
 
-1. Ga naar de **Trefwoorden** sectie.
+1. Ga naar de **[!UICONTROL Keywords]** sectie.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Klikken **Suggesties ophalen**.
+1. Klik op **[!UICONTROL Get Suggestions]**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Set **Suggestie door** tot **URL**.
+1. Set **[!UICONTROL Suggest by]** tot **[!UICONTROL URL]**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
-1. Voer een **URL** en klik op **Trefwoorden voorstellen**.
+1. Voer een **[!UICONTROL URL]** en klik op **[!UICONTROL Suggest Keywords]**.
 
    ![](assets/image2014-9-18-11-3a5-3a7.png)
 
@@ -64,18 +64,16 @@ Marketo SEO kan voorstellen welke trefwoorden je moet volgen. We kunnen suggesti
    >
    >Wist u dat u [voeg uw sleutelwoord aan een nieuwe of bestaande lijst toe](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) hier?
 
-1. Selecteer voorgestelde trefwoorden. Klikken **Geselecteerde toevoegen**.
+1. Selecteer voorgestelde trefwoorden. Klik op **[!UICONTROL Add Selected]**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
-1. Geweldig! Het trefwoord is toegevoegd.
+Geweldig! Het trefwoord is toegevoegd.
 
-   ![](assets/image2014-9-18-11-3a8-3a25.png)
+![](assets/image2014-9-18-11-3a8-3a25.png)
 
-   Oké, je bent dit ding aan het roken. Doe verder!
-
-   >[!MORELIKETHIS]
-   >
-   >* [Trefwoorden begrijpen (overzichtsweergave)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [Trefwoorden toevoegen aan of verwijderen uit een lijst](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+>[!MORELIKETHIS]
+>
+>* [Trefwoorden begrijpen (overzichtsweergave)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+>* [Trefwoorden toevoegen aan of verwijderen uit een lijst](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
 

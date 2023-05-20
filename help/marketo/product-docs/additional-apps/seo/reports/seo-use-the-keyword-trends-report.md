@@ -3,9 +3,9 @@ unique-page-id: 2949273
 description: SEO - Use the Keyword Trends Report - Marketo Docs - Product Documentation
 title: SEO - het Rapport van de Trends van het Sleutelwoord gebruiken
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerang
 
 ## Rapport laden {#load-report}
 
-1. Ga naar **Rapporten**.
+1. Ga naar **[!UICONTROL Reports]**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Klikken op **Trends trefwoordgroep**.
+1. Klikken op **[!UICONTROL Keyword Rank Trends]**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -32,10 +32,10 @@ In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerang
 
    | Item | Beschrijving |
    |---|---|
-   | Trefwoorden | Het aantal trefwoorden dat u bijhoudt. |
-   | URL&#39;s rangschikken | Het aantal URL&#39;s in de siterangschikking in het bereik dat u hebt ingesteld. |
-   | Gem. rangschikken | De gemiddelde positie van trefwoorden in het bereik dat u hebt ingesteld. |
-   | Gem. zoekopdrachten | Het gemiddelde aantal zoekopdrachten voor de trefwoorden die zijn opgetreden tijdens het bereik dat u instelt (in de laatste 30 dagen bij de zoekactie in Google US) |
+   | [!UICONTROL Keywords] | Het aantal trefwoorden dat u bijhoudt. |
+   | [!UICONTROL Ranking URLs] | Het aantal URL&#39;s in de siterangschikking in het bereik dat u hebt ingesteld. |
+   | [!UICONTROL Avg. rank] | De gemiddelde positie van trefwoorden in het bereik dat u hebt ingesteld. |
+   | [!UICONTROL Avg. searches] | Het gemiddelde aantal zoekopdrachten bij de trefwoorden die zijn opgetreden tijdens het bereik dat u instelt (in de laatste 30 dagen) bij de zoekactie in Google US |
 
 ## Gegevens filteren {#filtering-data}
 
@@ -53,7 +53,7 @@ In dit rapport kunt u zien hoe u in de loop der tijd op trefwoorden wordt gerang
 >
 >U kunt dit rapport naar uw bureaublad exporteren.
 
-1. Klik op CSV of Export PDF exporteren.
+1. Klikken **[!UICONTROL Export CSV]** of **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 

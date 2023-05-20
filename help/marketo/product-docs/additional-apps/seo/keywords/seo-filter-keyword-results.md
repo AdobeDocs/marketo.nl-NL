@@ -3,9 +3,9 @@ unique-page-id: 2949208
 description: SEO - Trefwoordresultaten filteren - Marketo Docs - Productdocumentatie
 title: SEO - Trefwoordresultaten filteren
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Je hebt misschien veel [trefwoorden](/help/marketo/product-docs/additional-apps/
 
 ## Filteren op lijst {#filter-by-list}
 
-1. Ga naar de **Trefwoorden** sectie.
+1. Ga naar de **[!UICONTROL Keywords]** sectie.
 
    ![](assets/image2014-9-18-11-3a55-3a8.png)
 
@@ -32,7 +32,7 @@ Zoet! U zult nu slechts sleutelwoorden op die lijst bekijken.
 
 ## Filteren op SERP Rank {#filter-by-serp-rank}
 
-1. Ga naar de sectie Trefwoorden.
+1. Ga naar de [!UICONTROL Keywords] sectie.
 
    ![](assets/image2014-9-18-12-3a0-3a10.png)
 
@@ -46,10 +46,10 @@ Zoet! U zult nu slechts sleutelwoorden op die lijst bekijken.
 
 U kunt ook de trefwoorden die u zoekt, vinden met het zoekveld in de rechterbovenhoek.
 
-1. Ga naar de **Trefwoorden** sectie.
+1. Ga naar de **[!UICONTROL Keywords]** sectie.
 
    ![](assets/image2014-9-18-12-3a0-3a50.png)
 
-1. Voer het trefwoord in het zoekveld in.
+1. Voer uw trefwoord in de **[!UICONTROL Search]** veld.
 
    ![](assets/image2014-9-18-12-3a1-3a7.png)

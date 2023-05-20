@@ -3,10 +3,10 @@ unique-page-id: 2949266
 description: SEO - Pagina-probleem toevoegen/verwijderen uit een lijst - Marketo-documenten - Productdocumentatie
 title: SEO - Pagina-uitgave toevoegen/verwijderen uit een lijst
 exl-id: 41d16263-a083-40a5-9003-72a35df12c45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 0%
+source-wordcount: '165'
+ht-degree: 1%
 
 ---
 
@@ -16,15 +16,15 @@ U kunt uw pagina-uitgaven ordenen in lijsten. U kunt ook pagina-uitgaven uit een
 
 ## Pagina-problemen toevoegen aan een lijst {#add-page-issues-to-a-list}
 
-1. Ga naar de **Pagina&#39;s** sectie.
+1. Ga naar de **[!UICONTROL Pages]** sectie.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. Klik op het tabblad Pagina&#39;s op **Problemen**.
+1. Op de **[!UICONTROL Pages]** tabblad, klikt u op **[!UICONTROL Issues]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Houd de muisaanwijzer boven de pagina die u wilt toevoegen. Klikken **Toevoegen/verwijderen uit lijst**.
+1. Houd de muisaanwijzer boven de pagina die u wilt toevoegen. Klik op **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -34,15 +34,15 @@ U kunt uw pagina-uitgaven ordenen in lijsten. U kunt ook pagina-uitgaven uit een
 
    >[!TIP]
    >
-   >U kunt ook een nieuwe lijst maken voor het trefwoord dat u wilt gebruiken. Typ gewoon de gewenste naam in de lijst Een nieuwe lijst maken.
+   >U kunt ook een nieuwe lijst maken voor het trefwoord dat u wilt gebruiken. Typ uw gewenste naam in **[!UICONTROL Create a new list]**.
 
 ## Pagina-uitgave uit een lijst verwijderen {#remove-page-issue-from-a-list}
 
-1. Ga naar de sectie Pagina&#39;s.
+1. Ga naar de **[!UICONTROL Pages]** sectie.
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. Klik op het tabblad Pagina&#39;s op **Problemen**.
+1. Klik op het tabblad Pagina&#39;s op **[!UICONTROL Issues]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -50,7 +50,7 @@ U kunt uw pagina-uitgaven ordenen in lijsten. U kunt ook pagina-uitgaven uit een
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen. Klikken **Toevoegen/verwijderen uit lijst**.
+1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen. Klik op **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 

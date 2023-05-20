@@ -3,9 +3,9 @@ unique-page-id: 2949262
 description: SEO - Een pagina verwijderen/verwijderen - Marketo-documenten - Productdocumentatie
 title: SEO - Een pagina verwijderen/verwijderen
 exl-id: 4e42d01f-a3cf-4545-b476-54de195fa7f8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 Wilt u een pagina verwijderen? Geen zweet, hier is hoe.
 
-1. Ga naar de **Pagina&#39;s** sectie.
+1. Ga naar de **[!UICONTROL Pages]** sectie.
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen op het tabblad Pagina&#39;s en klik op **Verwijderen** en klik vervolgens op **Verwijderen**.
+1. Op de [!UICONTROL Pages] , plaatst u de cursor boven de pagina die u wilt verwijderen, klikt u op **[!UICONTROL Delete]** en klik vervolgens op **[!UICONTROL Remove]**.
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 
-Stuk cake. Deze pagina wordt nu definitief uit uw lijst verwijderd.
+Deze pagina wordt nu definitief uit uw lijst verwijderd.

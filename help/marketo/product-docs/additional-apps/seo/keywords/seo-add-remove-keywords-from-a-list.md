@@ -3,10 +3,10 @@ unique-page-id: 2949678
 description: SEO - Trefwoorden toevoegen/verwijderen uit een lijst - Marketo Docs - Productdocumentatie
 title: SEO - Trefwoorden toevoegen/verwijderen uit een lijst
 exl-id: c03416b6-796b-4255-8f19-2087b215be05
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 0%
+source-wordcount: '182'
+ht-degree: 1%
 
 ---
 
@@ -16,11 +16,11 @@ U kunt al uw trefwoorden mooi houden en ordenen met behulp van lijsten. Zo kunt 
 
 ## Toevoegen aan lijst {#add-to-a-list}
 
-1. Ga naar de **Trefwoorden** sectie.
+1. Ga naar de **[!UICONTROL Keywords]** sectie.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Houd de muisaanwijzer boven het trefwoord dat u aan een lijst wilt toevoegen. Klikken **Toevoegen/verwijderen uit lijst**.
+1. Houd de muisaanwijzer boven het trefwoord dat u aan een lijst wilt toevoegen. Klik op **[!UICONTROL Add/Remove from list]**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -30,7 +30,7 @@ U kunt al uw trefwoorden mooi houden en ordenen met behulp van lijsten. Zo kunt 
 
    >[!TIP]
    >
-   >U kunt ook een nieuwe lijst maken voor uw trefwoorden. Typ gewoon de naam in de lijst Nieuw maken.
+   >U kunt ook een nieuwe lijst maken voor uw trefwoorden. Typ alleen de naam in **[!UICONTROL Create a new list]**.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
@@ -40,11 +40,11 @@ Woo hoo! Selecteer de lijst om de nieuwe trefwoorden weer te geven.
 
 U kunt ook trefwoorden uit een lijst verwijderen.
 
-1. Ga naar de **Trefwoorden** sectie.
+1. Ga naar de **[!UICONTROL Keywords]** sectie.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Houd de muisaanwijzer boven het trefwoord dat u uit een lijst wilt verwijderen. Klikken **Toevoegen/verwijderen uit lijst**.
+1. Houd de muisaanwijzer boven het trefwoord dat u uit een lijst wilt verwijderen. Klik op **[!UICONTROL Add/Remove from list]**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 

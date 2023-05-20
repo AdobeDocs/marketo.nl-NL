@@ -3,10 +3,10 @@ unique-page-id: 2949238
 description: SEO - de Resultaten van het Sleutelwoord van de Mening in de Motor van het Onderzoek - de Documenten van Marketo - de Documentatie van het Product
 title: SEO - de Resultaten van het Sleutelwoord van de Mening in de Motor van het Onderzoek
 exl-id: c687ed30-f368-4d9d-8919-e5cafefbe66a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 1%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Als u wilt zien hoe uw inhoud er in een zoekprogramma uitziet, hebben we een handomdraai korte cut toegevoegd.
 
-1. Ga naar de **Trefwoorden** sectie.
+1. Ga naar de **[!UICONTROL Keywords]** sectie.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. Houd de muisaanwijzer boven een trefwoord. Klikken **weergaveresultaten**.
+1. Houd de muisaanwijzer boven een trefwoord. Klik op **[!UICONTROL View Results]**.
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 
@@ -26,6 +26,6 @@ Als u wilt zien hoe uw inhoud er in een zoekprogramma uitziet, hebben we een han
 
    ![](assets/image2014-9-18-13-3a34-3a16.png)
 
-1. Geweldig! De zoekresultaten voor het trefwoord worden nu in een nieuw venster weergegeven.
+De zoekresultaten voor het trefwoord worden nu in een nieuw venster weergegeven.
 
-   ![](assets/image2014-9-18-13-3a34-3a24.png)
+![](assets/image2014-9-18-13-3a34-3a24.png)

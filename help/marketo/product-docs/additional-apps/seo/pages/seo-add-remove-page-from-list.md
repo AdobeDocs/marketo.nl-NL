@@ -3,10 +3,10 @@ unique-page-id: 2949218
 description: SEO - Pagina toevoegen/verwijderen uit lijst - Marketo-documenten - Productdocumentatie
 title: SEO - Pagina toevoegen/verwijderen uit lijst
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 0%
+source-wordcount: '188'
+ht-degree: 1%
 
 ---
 
@@ -16,11 +16,11 @@ Wilt u uw pagina&#39;s beheren? Dat kunt u eenvoudig doen door een lijst te make
 
 ## Pagina toevoegen aan een lijst {#add-page-to-a-list}
 
-1. Ga naar de **Pagina&#39;s** sectie.
+1. Ga naar de **[!UICONTROL Pages]** sectie.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Houd de muisaanwijzer boven de pagina die u aan een lijst wilt toevoegen. Klikken **Toevoegen/verwijderen uit lijst**.
+1. Houd de muisaanwijzer boven de pagina die u aan een lijst wilt toevoegen. Klik op **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -30,7 +30,7 @@ Wilt u uw pagina&#39;s beheren? Dat kunt u eenvoudig doen door een lijst te make
 
    >[!TIP]
    >
-   >U kunt ook een nieuwe lijst voor uw pagina maken om te gaan. Typ gewoon de gewenste naam in de lijst Een nieuwe lijst maken.
+   >U kunt ook een nieuwe lijst voor uw pagina maken om te gaan. Typ uw gewenste naam in [!UICONTROL Create a new list].
 
 1. Klik op de lijst waaraan u zojuist uw pagina hebt toegevoegd.
 
@@ -40,15 +40,15 @@ Yay! Nu wordt de pagina aan de lijst toegevoegd.
 
 ## Pagina uit een lijst verwijderen {#remove-page-from-a-list}
 
-1. Ga naar de sectie Pagina&#39;s.
+1. Ga naar de **[!UICONTROL Pages]** sectie.
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. Klik op de lijst die u wilt opruimen op het tabblad Pagina&#39;s.
+1. Op de **[!UICONTROL Pages]** klikt u op de lijst die u wilt opruimen.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen. Klikken **Toevoegen/verwijderen uit lijst**.
+1. Houd de muisaanwijzer boven de pagina die u wilt verwijderen. Klik op **[!UICONTROL Add/Remove From List]**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 

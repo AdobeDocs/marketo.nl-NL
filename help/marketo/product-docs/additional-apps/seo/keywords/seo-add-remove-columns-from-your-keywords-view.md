@@ -3,10 +3,10 @@ unique-page-id: 2949243
 description: SEO - Kolommen toevoegen/verwijderen uit uw trefwoordenweergave - Marketo-documenten - productdocumentatie
 title: SEO - Kolommen toevoegen/verwijderen uit de trefwoordenweergave
 exl-id: e1a360da-cfe1-41b2-82ab-d2d7a1c0e410
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 51ebbef7eac3c133f3bab14ba8899dfdab081ea6
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 1%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 U kunt uw sleutelwoordmening aanpassen om de gegevens te tonen u het interessantst bent in.
 
-1. Ga naar de **Trefwoorden** sectie.
+1. Ga naar de **[!UICONTROL Keywords]** sectie.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -26,7 +26,7 @@ U kunt uw sleutelwoordmening aanpassen om de gegevens te tonen u het interessant
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Selecteer of maak de kolommen ongedaan u wilt zien. Klikken **Opslaan**.
+1. Selecteer of maak de kolommen ongedaan u wilt zien. Klik op **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
