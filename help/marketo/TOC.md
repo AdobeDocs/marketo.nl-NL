@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 7a062683a3c38d8765eb966041bf7ee3db665f5a
+source-git-commit: 830cc26c647e31cb151aab6d78d2abb8d7840cb6
 workflow-type: tm+mt
-source-wordcount: '8886'
+source-wordcount: '8888'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 0%
 + Aan de slag met Marketo {#getting-started-with-marketo}
    + [Aan de slag](getting-started.md)
    + [Wat is Adobe Marketo Engage?](getting-started/what-is-adobe-marketo-engage.md)
+   + [Help Center](getting-started/help-center.md)
    + [Marketo Verklarende woordenlijst](getting-started/marketo-glossary.md)
    + [Verklarende woordenlijst Klassiek pictogram](getting-started/classic-icon-glossary.md)
    + Instellen {#setup}
