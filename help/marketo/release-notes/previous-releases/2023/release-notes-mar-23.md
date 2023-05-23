@@ -2,10 +2,10 @@
 description: Opmerkingen bij de release - maart 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - maart 2023
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 9eef992dbaf5561df7732ae6edae848d48803a3c
+source-git-commit: 68752faf80abb93e84e4cc7190c7f5469e3f689c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '613'
+ht-degree: 1%
 
 ---
 
@@ -79,8 +79,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td>n.v.t.</td>
   </tr>
   </tbody>
 </table>
@@ -101,8 +101,8 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td>n.v.t.</td>
   </tr>
   </tbody>
 </table>
