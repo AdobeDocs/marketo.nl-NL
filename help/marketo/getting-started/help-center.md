@@ -3,7 +3,7 @@ description: Help Center - Marketo Docs - Productdocumentatie
 title: Help Center
 hide: true
 hidefromtoc: true
-source-git-commit: 2ea00108eaaab147fcf1a2c81a1f245b0766ebe4
+source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Nadat u zich bij Marketo Engage hebt aangemeld, klikt u op het pictogram Help.
 
 ![](assets/help-center-1.png)
 
-**Hulplijnen**
+### Hulplijnen {#guides}
 
 Hulplijnen dienen als snelle doorverwijzingen voor veelgebruikte functies.
 
@@ -46,7 +46,7 @@ Klikken **Gereed** om de analyse weg te gaan.
 >
 >De hulplijn op elk gewenst moment afsluiten door op **Afwijzen**.
 
-**Nieuwe functies**
+### Nieuwe functies {#whats-new}
 
 Het tabblad What&#39;s New bevat de volledige details van de nieuwste release van Marketo Engage.
 
@@ -56,7 +56,7 @@ Het tabblad What&#39;s New bevat de volledige details van de nieuwste release va
 >
 >Klik op het pijlpictogram onderaan om de pagina in het Experience League weer te geven.
 
-**Bronnen**
+### Bronnen {#resources}
 
 Het lusje van Middelen geeft u snelle en directe toegang tot diverse manieren u extra hulp met uw instantie van de Marketo Engage kunt krijgen.
 
