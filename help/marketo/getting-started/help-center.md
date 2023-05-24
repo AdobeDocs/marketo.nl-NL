@@ -1,9 +1,7 @@
 ---
 description: Help Center - Marketo Docs - Productdocumentatie
 title: Help Center
-hide: true
-hidefromtoc: true
-source-git-commit: 319b1d0ed144fb39afbafd5ca691b14f86645563
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -12,7 +10,7 @@ ht-degree: 0%
 
 # Help Center {#help-center}
 
-Het Help Center in Marketo Engage fungeert als een gecentraliseerde locatie voor hulp. Naast het koppelen aan verschillende middelen (bijvoorbeeld [productdocumentatie](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketo Community](https://nation.marketo.com/){target="_blank"}), kunt u tot nuttige in-product analyses toegang hebben die door ervaringsniveau worden georganiseerd.
+Het Help Center in Marketo Engage fungeert als een gecentraliseerde locatie voor hulp. Naast het koppelen aan verschillende middelen (bijvoorbeeld [productdocumentatie](/help/marketo/home.md){target="_blank"}, [release information](/help/marketo/release-notes/current.md){target="_blank"}, the [Marketing Nation Community](https://nation.marketo.com/){target="_blank"}), kunt u tot nuttige in-product analyses toegang hebben die door ervaringsniveau worden georganiseerd.
 
 ## Toegang verkrijgen {#how-to-access}
 
@@ -26,25 +24,25 @@ Hulplijnen dienen als snelle doorverwijzingen voor veelgebruikte functies.
 
 ![](assets/help-center-2.png)
 
-Klik op de gewenste hulplijn om deze weer te geven.
+1. Klik op de gewenste hulplijn om deze weer te geven.
 
-![](assets/help-center-3.png)
+   ![](assets/help-center-3.png)
 
-Klikken **Aan de slag**.
+1. Klikken **Aan de slag**.
 
-![](assets/help-center-4.png)
+   ![](assets/help-center-4.png)
 
-Klikken **Volgende** om door te gaan.
+1. Klikken **Volgende** om door te gaan.
 
-![](assets/help-center-5.png)
+   ![](assets/help-center-5.png)
 
-Klikken **Gereed** om de analyse weg te gaan.
+1. Klikken **Gereed** om de analyse weg te gaan.
 
-![](assets/help-center-6.png)
+   ![](assets/help-center-6.png)
 
->[!TIP]
->
->De hulplijn op elk gewenst moment afsluiten door op **Afwijzen**.
+   >[!TIP]
+   >
+   >De hulplijn op elk gewenst moment afsluiten door op **Afwijzen**.
 
 ### Nieuwe functies {#whats-new}
 

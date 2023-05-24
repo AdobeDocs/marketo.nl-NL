@@ -3,9 +3,9 @@ unique-page-id: 2949176
 description: Optimalisatie van zoekprogramma's - Marketo Docs - Productdocumentatie
 title: Optimalisatie van zoekprogramma's begrijpen
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Eerst, zou u de grondbeginselen met deze handige verklarende woordenlijst moeten
 
 **SEO (Search Engine Optimization)**: Een mengeling strategieën en technieken die worden gebruikt om plaatsverkeer te verhogen door een high-ranking plaatsing in de resultatenpagina&#39;s van de onderzoeksmotor (SERP) te verkrijgen.
 
-**Trefwoord**: Een trefwoord is het woord of de woordgroep die mensen typen in zoekmachines zoals Google, Yahoo of Bing.
+**Trefwoord**: Een trefwoord is het woord of de woordgroep die mensen typen in zoekprogramma&#39;s zoals Google. [!DNL Yahoo] of [!DNL Bing].
 
 **Binnenkomende koppelingen**: Koppelingen op andere sites die verkeer naar uw site sturen. Hoe hoger de reputatie van de koppelingssite, hoe waardevoller deze inkomende koppeling is.
 
@@ -52,8 +52,8 @@ Eerst, zou u de grondbeginselen met deze handige verklarende woordenlijst moeten
 
 ## Hoe begin ik? {#how-do-i-get-started}
 
-1. Ontwikkel uw strategie met [Trefwoorden](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target=&quot;_blank&quot;}
-1. Bestaande problemen verhelpen in [Pagina&#39;s begrijpen](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target=&quot;_blank&quot;}
-1. Vergroot uw bereik met [Inkomende koppelingen begrijpen](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target=&quot;_blank&quot;}
+1. Ontwikkel uw strategie met [Trefwoorden](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
+1. Bestaande problemen verhelpen in [Pagina&#39;s begrijpen](/help/marketo/product-docs/additional-apps/seo/pages/seo-understanding-pages.md){target="_blank"}
+1. Vergroot uw bereik met [Inkomende koppelingen begrijpen](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md){target="_blank"}
 
 Uw doel is om zo dicht bij de eerste pagina (en het eerste resultaat) voor sleutelwoorden te zijn die voor uw zaken van belang zijn.

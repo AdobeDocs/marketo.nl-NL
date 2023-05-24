@@ -1,18 +1,18 @@
 ---
 unique-page-id: 7512289
-description: GoToWebinar toevoegen als een LaunchPoint-service - Marketo Docs - Productdocumentatie
-title: GoToWebinar toevoegen als een LaunchPoint-service
+description: "Toevoegen [!DNL GoToWebinar] als [!DNL LaunchPoint] Service - Marketo Docs - Productdocumentatie"
+title: "Toevoegen [!DNL GoToWebinar] als [!DNL LaunchPoint] Service"
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
-source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 3%
 
 ---
 
-# GoToWebinar toevoegen als een LaunchPoint-service {#add-gotowebinar-as-a-launchpoint-service}
+# Toevoegen [!DNL GoToWebinar] als [!DNL LaunchPoint] Service {#add-gotowebinar-as-a-launchpoint-service}
 
-Marketo beheert uw registratie en aanwezigheid van GoToWebinar.
+Marketo beheert uw [!DNL GoToWebinar] registratie en aanwezigheid.
 
 >[!NOTE]
 >
@@ -20,52 +20,52 @@ Marketo beheert uw registratie en aanwezigheid van GoToWebinar.
 
 >[!NOTE]
 >
->Voor deze stap is een bestaand abonnement op GoToWebinar en beheerrechten vereist. U moet beschikken over het e-mailadres en wachtwoord waarmee u zich bij GoToWebinar kunt aanmelden.
+>Een bestaand abonnement op [!DNL GoToWebinar] en voor deze stap zijn administratieve rechten nodig. E-mail en wachtwoord laten gebruiken om u aan te melden [!DNL GoToWebinar] aan de hand.
 
 >[!NOTE]
 >
->GoToMeeting, GoToWebcast en GoToTraining worden momenteel niet ondersteund.
+>[!DNL GoToMeeting], [!DNL GoToWebcast], en [!DNL GoToTraining] worden momenteel niet ondersteund.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
-1. Klikken **LaunchPoint**.
+1. Klik op **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
-1. Selecteren **Nieuw** en **Nieuwe service**.
+1. Selecteren **[!UICONTROL New]** en **[!UICONTROL New Service]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
-1. Voer een **Weergavenaam**. Onder **Service**, selecteert u **GoToWebinar**.
+1. Voer een **[!UICONTROL Display Name]**. Selecteer onder **[!UICONTROL Service]** de optie **[!UICONTROL GoToWebinar]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
 
-1. Klik op Volgende **Aanmelden bij GoToWebinar**.
+1. Klik op **[!UICONTROL Log Into GoToWebinar]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-5.png)
 
    >[!NOTE]
    >
-   >Als u Bedrijfsnaam en Functie van uw Marketo-formulier wilt synchroniseren naar GoToWebinar, selecteert u de optie **Extra velden inschakelen** doos.
+   >Als u bedrijfsnaam en functie wilt synchroniseren van uw Marketo-formulier naar [!DNL GoToWebinar], selecteert u de **[!UICONTROL Enable Additional Fields]** doos.
 
-1. Voer in het pop-upvenster GoToWebinar Sign In uw **GoToWebinar** e-mail en wachtwoord en klik **Aanmelden**.
+1. In de [!DNL GoToWebinar] Meld u aan in het pop-upvenster en voer uw **[!UICONTROL GoToWebinar]** e-mail en wachtwoord en klik **[!UICONTROL Sign In]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 
-1. Klik op **Maken**.
+1. Klik op **[!UICONTROL Create]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
-1. Geweldig! Uw **GoToWebinar** account is nu gesynchroniseerd met Marketo.
+1. Geweldig! Uw **[!UICONTROL GoToWebinar]** account is nu gesynchroniseerd met Marketo.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-8.png)
 
 >[!CAUTION]
 >
->Wanneer u uw wachtwoord in GoToWebinar bijwerkt, moet u uw wachtwoord ook in Marketo bijwerken.
+>Wanneer u uw wachtwoord bijwerkt in [!DNL GoToWebinar], moet u uw wachtwoord ook in Marketo bijwerken.
 
 >[!MORELIKETHIS]
 >
->Leer hoe u [Een gebeurtenis maken met GotoWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target=&quot;_blank&quot;}.
+>Leer hoe u [een gebeurtenis maken met [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"}.

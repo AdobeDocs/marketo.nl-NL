@@ -3,10 +3,10 @@ unique-page-id: 2949196
 description: SEO - Voorkeuren voor e-mailwaarschuwingen instellen - Marketo Docs - Productdocumentatie
 title: SEO - Voorkeuren voor e-mailwaarschuwingen instellen
 exl-id: 7675a589-dc40-433b-bf0c-1e78e4d653b5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 0%
+source-wordcount: '60'
+ht-degree: 1%
 
 ---
 
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 U kunt uw e-mailvoorkeuren aanpassen om te bepalen wanneer u over uw SEO-inspanningen wordt bijgewerkt.
 
-1. Klik in de bovenste navigatiebalk op uw gebruikersnaam. Klikken **E-mailvoorkeuren**.
+1. Klik in de bovenste navigatiebalk op uw gebruikersnaam. Klik op **[!UICONTROL Email Preferences]**.
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. Geef aan waarover je via e-mail een melding wilt ontvangen en klik op **Opslaan**.
+1. Geef aan waarover je via e-mail een melding wilt ontvangen en klik op **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)

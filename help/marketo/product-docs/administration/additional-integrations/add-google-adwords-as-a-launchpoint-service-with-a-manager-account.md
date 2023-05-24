@@ -1,20 +1,20 @@
 ---
 unique-page-id: 7504893
-description: Voeg Google AdWords als Lanceerpuntdienst met een Rekening van de Manager toe - Marketo Docs - de Documentatie van het Product
-title: Google AdWords toevoegen als opstartservice met een beheerdersaccount
+description: "Toevoegen [!DNL Google AdWords] als [!DNL Launchpoint] Service with a Manager Account - Marketo Docs - Productdocumentatie"
+title: "Toevoegen [!DNL Google AdWords] als [!DNL Launchpoint] Service met een beheerdersaccount"
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 0%
+source-wordcount: '295'
+ht-degree: 1%
 
 ---
 
-# Google AdWords toevoegen als opstartservice met een beheerdersaccount {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
+# Toevoegen [!DNL Google AdWords] als [!DNL Launchpoint] Service met een beheerdersaccount {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Koppel uw Google AdWords-account aan Marketo om automatisch offline conversiegegevens te uploaden van Marketo naar Google AdWords. Dan, van AdWords UI, zult u gemakkelijk kunnen zien welke klikken in gekwalificeerde lood, kansen en nieuwe klanten (of welke opbrengststadia u wilt volgen) na u resulteerden  [aangepaste kolommen toevoegen](https://support.google.com/adwords/answer/3073556){target="_blank"} in AdWords. Deze informatie wordt niet weergegeven in de gebruikersinterface van Marketo.
+Koppel uw [!DNL Google AdWords] account naar Marketo om offline conversiegegevens automatisch te uploaden van Marketo naar [!DNL Google AdWords]. Dan, van [!DNL AdWords] UI, zult u gemakkelijk kunnen zien welke kliks in gekwalificeerde lood, kansen en nieuwe klanten (of om het even welke opbrengststadia resulteerden u) na u wilt volgen  [aangepaste kolommen toevoegen](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. Deze informatie wordt niet weergegeven in de gebruikersinterface van Marketo.
 
-Als u meerdere Google Adwords-accounts hebt, kunt u een [Google AdWords Manager-account](https://www.google.com/adwords/manager-accounts/){target="_blank"} (voorheen bekend als Mijn Client Center) om deze te integreren met Marketo.
+Als u meerdere [!DNL Google Adwords] accounts, kunt u een [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} (voorheen bekend als [!DNL My Client Center]) om ze te integreren met Marketo.
 
 Meer informatie over [Google, functie voor het importeren van offlineconversies](https://support.google.com/adwords/answer/2998031?hl=en){target="_blank"}.
 
@@ -28,71 +28,71 @@ Meer informatie over [Google, functie voor het importeren van offlineconversies]
 
 >[!NOTE]
 >
->U kunt ook een [stand-alone Google AdWords-account als Launchpoint-service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
+>U kunt ook een [zelfstandig [!DNL Google AdWords] account als [!DNL Launchpoint] service](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}.
 
-1. Ga naar de **Beheer** sectie.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-1.png)
 
-1. Selecteren **LaunchPoint**.
+1. Selecteren **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-2.png)
 
-1. Klik op de knop **Nieuw** vervolgkeuzelijst en selecteer **Nieuwe service**.
+1. Klik op de knop **[!UICONTROL New]** vervolgkeuzelijst en selecteer **[!UICONTROL New Service]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-3.png)
 
-1. Geef een weergavenaam op en selecteer **Google AdWords**.
+1. Voer een **[!UICONTROL Display Name]** en selecteert u **[!UICONTROL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-4.png)
 
-1. Selecteren **Marketo autoriseren**.
+1. Selecteren **[!UICONTROL Authorize Marketo]**.
 
    >[!NOTE]
    >
-   >Meld u af bij uw persoonlijke Gmail-account en schakel pop-ups in.
+   >Zorg ervoor dat u zich afmeldt bij uw persoonlijke [!DNL Gmail] en inschakelen van pop-ups.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-5.png)
 
-1. Selecteer uw account die is gekoppeld aan **Google AdWords**.
+1. Selecteer uw account die is gekoppeld aan **[!DNL Google AdWords]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-6.png)
 
-1. Klikken **Accepteren**.
+1. Klik op **[!UICONTROL Accept]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-7.png)
 
-1. De status wordt weergegeven als **Succes**. Selecteren **Volgende**.
+1. De status wordt weergegeven als **[!UICONTROL Success]**. Selecteren **[!UICONTROL Next]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-8.png)
 
-1. Upload uw offlineconversies van Marketo naar Google AdWords **Wekelijks** of **Dagelijks**.
+1. Offline conversies uploaden van Marketo naar [!DNL Google AdWords] **[!UICONTROL Weekly]** of **[!UICONTROL Daily]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-9.png)
 
-1. Kenmerken omzetten in de **Eerste klik** of **Laatste klik**.
+1. Kenmerken omzetten in de **[!UICONTROL First Click]** of **[!UICONTROL Last Click]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-10.png)
 
    | Type | Definitie |
    |---|---|
-   | Eerste klik | Offlineconversies worden toegeschreven aan de eerste Advertentie-Woorden en die een persoon in de afgelopen 90 dagen klikte |
-   | Laatste klik | Offlineconversies worden toegewezen aan de laatste AdWords en door een persoon die erop heeft geklikt |
+   | [!UICONTROL First Click] | Offlineconversies worden aan de eerste [!DNL AdWords] en dat een persoon in de afgelopen 90 dagen heeft geklikt |
+   | [!UICONTROL Last Click] | Offlineconversies worden aan de laatste [!DNL AdWords] toevoegen dat een persoon heeft geklikt |
 
    >[!NOTE]
    >
-   >[Automatisch labelen](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} Deze functie werkt alleen als u deze selecteert. Het moet worden geactiveerd binnen AdWords.
+   >[Automatisch labelen](https://support.google.com/adwords/answer/1752125?hl=en){target="_blank"} Deze functie werkt alleen als u deze selecteert. Het moet binnen [!DNL AdWords].
 
-1. Klikken **Volgende**.
+1. Klik op **[!UICONTROL Next]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 
-1. Deselecteer accounts die u niet wilt bijwerken. Klikken **Maken**.
+1. Deselecteer accounts die u niet wilt bijwerken. Klik op **[!UICONTROL Create]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
-   Zie nu het Verwante Artikel hieronder voor hoe te om AdWords off-line omzettingen in uw opbrengstmodel in kaart te brengen.
+   Zie nu het verwante artikel hieronder voor hoe u het kunt toewijzen [!DNL AdWords] offline conversies in uw inkomstenmodel.
 
    >[!MORELIKETHIS]
    >
-   >[Conversies van Google AdWords in het inkomstenmodel instellen met een beheerdersaccount](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
+   >[Set [!DNL Google AdWords] Conversies in het inkomstenmodel met een beheerdersaccount](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

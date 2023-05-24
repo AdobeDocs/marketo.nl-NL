@@ -3,9 +3,9 @@ unique-page-id: 2949190
 description: SEO - Kies Regio/Land voor uw zoekmachine - Marketo Docs - Productdocumentatie
 title: SEO - Kies Regio/Land voor je zoekmachine
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ SEO Admins zal het gebied voor de onderzoeksmotor kunnen kiezen die u de informa
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar de **Beheer** sectie.
+1. Ga naar de **[!UICONTROL Admin]** sectie.
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Klik op de knop **Zoekprogramma&#39;s** tab.
+1. Klik op de knop **[!UICONTROL Search engines]** tab.
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
-1. Kies het land of de plaats waarvoor u wilt optimaliseren en klik op **Opslaan**.
+1. Kies het land of de plaats waarvoor u wilt optimaliseren en klik op **[!UICONTROL Save]**.
 
 >[!NOTE]
 >
@@ -34,12 +34,12 @@ SEO Admins zal het gebied voor de onderzoeksmotor kunnen kiezen die u de informa
 
 ![](assets/image2014-9-17-21-3a8-3a8.png)
 
-Uitstekend werk. Je ziet nu trefwoordnummers voor het land of de stad van je keuze.
+Uitstekend werk. U ziet nu trefwoordnummers voor het land of de stad van uw keuze.
 
 ![](assets/image2014-9-17-21-3a8-3a15.png)
 
 >[!MORELIKETHIS]
 >
->* [Het dashboard begrijpen: SEO-opname](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target=&quot;_blank&quot;}
->* [Het dashboard begrijpen: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target=&quot;_blank&quot;}
+>* [Het dashboard begrijpen: SEO-opname](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
+>* [Het dashboard begrijpen: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}
 
