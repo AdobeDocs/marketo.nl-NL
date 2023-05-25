@@ -2,9 +2,9 @@
 description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 80512816eaf0a70a3f10a50c34aeea14edd9046b
+source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '401'
 ht-degree: 2%
 
 ---
@@ -99,4 +99,4 @@ Interactieve webinars zullen geleidelijk worden opgebouwd. Vul het formulier in 
 
 ## Aankondigingen {#announcements}
 
-* **_Webinar productrelease_**: Sluit u aan bij ons op 17 mei 2023, 9.00 uur PT / 12.00 uur ET [voor een levende webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} ontvangen door ons Product Team waar u kunt leren hoe te om alle recentste productinnovaties te gebruiken die in zowel versies van Maart als van Mei &#39;23 worden geleverd.
+* **_Webinar productrelease_**: [Release Webinar van maart en mei 2023 Marketo Engage](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

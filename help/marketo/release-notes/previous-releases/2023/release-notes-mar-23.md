@@ -2,9 +2,9 @@
 description: Opmerkingen bij de release - maart 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - maart 2023
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 68752faf80abb93e84e4cc7190c7f5469e3f689c
+source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '582'
 ht-degree: 1%
 
 ---
@@ -179,4 +179,4 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 ## Aankondigingen {#announcements}
 
-* **_Webinar productrelease_**: Doe mee op 17 mei 2023, 9:00 uur PT / 12:00 uur ET [voor een levende webinar](https://engage.marketo.com/2023_March_May_Release_Webinar_RegistrationPage.html){target="_blank"} ontvangen door ons Product Team waar u kunt leren hoe te om alle recentste productinnovaties te gebruiken die in zowel versies van Maart als van Mei &#39;23 worden geleverd.
+* **_Webinar productrelease_**: [Release Webinar van maart en mei 2023 Marketo Engage](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
