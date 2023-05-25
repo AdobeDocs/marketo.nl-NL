@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2360354
-description: Munchkin-trackingcode toevoegen aan uw website - Marketo Docs - Productdocumentatie
-title: Munchkin-trackingcode toevoegen aan uw website
+description: "Toevoegen [!DNL Munchkin] Code bijhouden op uw website - Marketo Docs - Productdocumentatie"
+title: "Toevoegen [!DNL Munchkin] Code volgen op uw website"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
-source-git-commit: dbb7478ac7b7e811bb9dfeb7c5e4a80ae400ab9b
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '625'
 ht-degree: 0%
 
 ---
 
-# Munchkin-trackingcode toevoegen aan uw website {#add-munchkin-tracking-code-to-your-website}
+# Toevoegen [!DNL Munchkin] Code volgen op uw website {#add-munchkin-tracking-code-to-your-website}
 
-Marketo houdt aangepaste JavaScript-trackingcode, Munchkin genaamd, bij welke personen uw website bezoeken, zodat u op hun bezoeken kunt reageren met geautomatiseerde marketingcampagnes. Zelfs worden de anonieme bezoekers gevolgd samen met hun IP adressen en andere informatie. **Zonder deze code kunt u geen bezoeken of andere activiteiten op uw website volgen**!
+Aangepaste JavaScript-trackingcode voor Marketo, genaamd [!DNL Munchkin], volgt alle personen die uw website bezoeken, zodat u op hun bezoeken kunt reageren met geautomatiseerde marketingcampagnes. Zelfs worden de anonieme bezoekers gevolgd samen met hun IP adressen en andere informatie. **Zonder deze code kunt u geen bezoeken of andere activiteiten op uw website volgen**!
 
 >[!PREREQUISITES]
 >
@@ -22,17 +22,17 @@ Marketo houdt aangepaste JavaScript-trackingcode, Munchkin genaamd, bij welke pe
 
 >[!NOTE]
 >
->Adobe Experience Cloud-klanten kunnen ook gebruikmaken van Marketo-integratie in Adobe Launch om Munchkin-script op hun webpagina&#39;s op te nemen. De app ophalen [hier](https://www.adobeexchange.com/experiencecloud.details.101054.html).
+>Adobe Experience Cloud-klanten kunnen de integratie met Marketo ook gebruiken in het programma Adobe starten om [!DNL Munchkin] script op hun webpagina&#39;s. De app ophalen [hier](https://www.adobeexchange.com/experiencecloud.details.101054.html){target="_blank"}.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
-1. Klikken **Munchkin**.
+1. Klik op **[!UICONTROL Munchkin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
-1. Selecteer Asynchroon bij Type code bijhouden.
+1. Selecteren **[!UICONTROL Asynchronous]** for **[!UICONTROL Tracking Code Type]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
@@ -52,7 +52,7 @@ Marketo houdt aangepaste JavaScript-trackingcode, Munchkin genaamd, bij welke pe
    >
    >Plaats trackingcode op de webpagina&#39;s die u wilt bijhouden. Dit kan elke pagina voor kleinere plaatsen, of slechts zeer belangrijke pagina&#39;s op plaatsen zijn die vele dynamisch geproduceerde Web-pagina&#39;s, gebruikersforums, etc. hebben.
 
-   Voor de beste resultaten gebruikt u de asynchrone Munchkin-code en plaatst u deze in het dialoogvenster `<head>` elementen van uw pagina&#39;s. Als u de eenvoudige code gebruikt (niet geadviseerd), is dit recht vóór `</body>` tag.
+   Voor de beste resultaten gebruikt u de [!DNL Munchkin] code en plaats deze in de `<head>` elementen van uw pagina&#39;s. Als u de eenvoudige code gebruikt (niet geadviseerd), is dit recht vóór `</body>` tag.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-5.png)
 
@@ -62,13 +62,13 @@ Marketo houdt aangepaste JavaScript-trackingcode, Munchkin genaamd, bij welke pe
 
 ## Trackingcode toevoegen bij gebruik van meerdere werkruimten {#add-tracking-code-when-using-multiple-workspaces}
 
-Als u Workspaces gebruikt in uw Marketo-account, hebt u waarschijnlijk ook aparte webvoorkeuren die overeenkomen met uw werkruimten. In dat geval, kunt u Munchkin gebruiken die Javascript volgen om uw anonieme mensen aan de correcte werkruimte en de verdeling toe te wijzen.
+Als u Workspaces gebruikt in uw Marketo-account, hebt u waarschijnlijk ook aparte webvoorkeuren die overeenkomen met uw werkruimten. In dat geval kunt u de opdracht [!DNL Munchkin] het volgen Javascript om uw anonieme mensen aan de correcte werkruimte en de verdeling toe te wijzen.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
-1. Klikken **Munchkin**.
+1. Klik op **[!UICONTROL Munchkin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
@@ -78,9 +78,9 @@ Als u Workspaces gebruikt in uw Marketo-account, hebt u waarschijnlijk ook apart
 
    >[!NOTE]
    >
-   >Als u de speciale werkruimte Munchkin-code niet gebruikt, worden de personen toegewezen aan de standaardpartitie die is gemaakt toen uw account werd ingesteld. Het heet aanvankelijk &quot;Standaard&quot;, maar je hebt dat wellicht gewijzigd in je eigen Marketo-account.
+   >Als u de speciale werkruimte niet gebruikt [!DNL Munchkin] code, zullen de mensen aan de standaardverdeling worden toegewezen die werd gecreeerd toen uw rekening opstelling was. De naam is &quot;[!UICONTROL Default]&quot; in eerste instantie, maar je hebt dat wellicht gewijzigd in je eigen Marketo-account.
 
-1. Selecteren **Asynchroon** voor Type code bijhouden.
+1. Selecteren **[!UICONTROL Asynchronous]** for **[!UICONTROL Tracking Code Type]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
@@ -98,43 +98,43 @@ Als u Workspaces gebruikt in uw Marketo-account, hebt u waarschijnlijk ook apart
 
    >[!CAUTION]
    >
-   >U kunt slechts één Munchkin-trackingscript gebruiken voor één partitie en werkruimte op een pagina. Neem geen bijgehouden scripts voor meerdere partities/werkruimten op uw website op.
+   >U kunt slechts één [!DNL Munchkin] script bijhouden voor één partitie en werkruimte op een pagina. Neem geen bijgehouden scripts voor meerdere partities/werkruimten op uw website op.
 
    >[!NOTE]
    >
    >De het landen pagina&#39;s die in Marketo worden gecreeerd bevatten automatisch het volgen code, zodat te hoeven u niet om deze code op hen te zetten.
 
-## Typen Munchkin-trackingcodes {#types-of-munchkin-tracking-codes}
+## Typen [!DNL Munchkin] Trackingcodes {#types-of-munchkin-tracking-codes}
 
-U kunt kiezen uit drie typen codes voor het bijhouden van Munchkin. Elke keer dat de laadtijd van de webpagina anders wordt beïnvloed.
+Er zijn drie typen [!DNL Munchkin] volgcodes waaruit u kunt kiezen. Elke keer dat de laadtijd van de webpagina anders wordt beïnvloed.
 
-1. **Eenvoudig**: heeft de minste coderegels, maar is niet geoptimaliseerd voor het laden van webpagina&#39;s. Deze code laadt de jQuery-bibliotheek telkens wanneer een webpagina wordt geladen.
-1. **Asynchroon**: verkort de laadtijd van de webpagina.
-1. **Asynchrone jQuery**: verkort de laadtijd van webpagina&#39;s en verbetert ook de systeemprestaties. In deze code wordt ervan uitgegaan dat u al jQuery hebt en wordt niet gecontroleerd om deze te laden.
+1. **[!UICONTROL Simple]**: heeft de minste coderegels, maar is niet geoptimaliseerd voor het laden van webpagina&#39;s. Deze code laadt de jQuery-bibliotheek telkens wanneer een webpagina wordt geladen.
+1. **[!UICONTROL Asynchronous]**: verkort de laadtijd van de webpagina.
+1. **[!UICONTROL Asynchronous jQuery]**: verkort de laadtijd van webpagina&#39;s en verbetert ook de systeemprestaties. In deze code wordt ervan uitgegaan dat u al jQuery hebt en wordt niet gecontroleerd om deze te laden.
 
-## Testen of uw Munchkin-code werkt {#test-if-your-munchkin-code-is-working}
+## Test of uw [!DNL Munchkin] Code werkt {#test-if-your-munchkin-code-is-working}
 
-U kunt als volgt controleren of uw Munchkin-code werkt nadat u deze hebt toegevoegd:
+Om te controleren of uw [!DNL Munchkin] code werkt nadat u deze hebt toegevoegd:
 
 1. Ga naar uw webpagina.
 
-1. Klik in Mijn Marketo op de knop **Analyse** tegel.
+1. In uw [!DNL My Marketo]klikt u op de knop **[!UICONTROL Analytics]** tegel.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-12.png)
 
-1. Klikken **Activiteit webpagina**.
+1. Klik op **[!UICONTROL Web Page Activity]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-13.png)
 
-1. Klik op de knop **Instellen** tab, dubbelklikken **Activiteitsbron**.
+1. Klik op de knop **[!UICONTROL Setup]** tab, dubbelklikken **[!UICONTROL Activity Source]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-1. Wijzig de activiteitsbron in **Anonieme bezoekers (inclusief ISP&#39;s)** en klik op **Toepassen**.
+1. Wijzig de [!UICONTROL Activity Source] tot **[!UICONTROL Anonymous Visitors (including ISPs)]** en klik op **[!UICONTROL Apply]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 
-1. Klik op de knop **Rapport** tab.
+1. Klik op de knop **[!UICONTROL Report]** tab.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
 

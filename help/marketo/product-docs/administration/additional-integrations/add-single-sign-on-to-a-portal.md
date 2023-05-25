@@ -3,16 +3,16 @@ unique-page-id: 2360356
 description: Eén aanmelding toevoegen aan een portal - Marketo Docs - Productdocumentatie
 title: Eén aanmelding toevoegen aan een portal
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
-source-git-commit: 813bab6169a121e90919f9a02505ccde5167cda4
+source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
 
 # Eén aanmelding toevoegen aan een portal {#add-single-sign-on-to-a-portal}
 
-Als u een directoryservice hebt waarmee gebruikers worden geverifieerd, kunt u SSO (Single Sign-On) in Marketo toestaan. Wij steunen deze eigenschap gebruikend de Taal van de Prijsverhoging van de Veiligheid (SAML) versie 2.0 en hoger.
+Als u een directoryservice hebt waarmee gebruikers worden geverifieerd, kunt u SSO (Single Sign-On) in Marketo toestaan. We ondersteunen deze functie met [!DNL Security Assertion Markup Language] (SAML) versie 2.0 en hoger.
 
 Marketo functioneert als SAML Service Provider (SP) en is afhankelijk van een externe identiteitsprovider (IdP) om gebruikers te verifiëren.
 
@@ -24,7 +24,7 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 
 >[!NOTE]
 >
->Ben je een Microsoft Azure-gebruiker? Bekijk hun [integratiezelfstudie](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target=&quot;_blank&quot;}.
+>Ben je [!DNL Microsoft Azure] gebruiker? Bekijk hun [integratiezelfstudie](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}.
 
 ## Hoe te om het Verzoek te verzenden {#how-to-send-the-request}
 
@@ -54,53 +54,53 @@ Zodra SSO wordt toegelaten, kan IdP de geloofsbrieven van een gebruiker bevestig
 
 SSO is standaard uitgeschakeld. Volg deze stappen om SAML toe te laten en het te vormen.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 
-1. Klikken **Single Sign-On**.
+1. Klik op **[!UICONTROL Single Sign-On]**.
 
    ![](assets/add-single-sign-on-to-a-portal-2.png)
 
    >[!NOTE]
    >
-   >Als u het niet ziet **Single Sign-On** krachtens **Beheer**, contact [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}.
+   >Als u het niet ziet **[!UICONTROL Single Sign-On]** krachtens **[!UICONTROL Admin]**, contact [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Onder de **SAML-instellingen** sectie, klikt u op **Bewerken**.
+1. Onder de **[!UICONTROL SAML Settings]** sectie, klikt u op **[!UICONTROL Edit]**.
 
    ![](assets/add-single-sign-on-to-a-portal-3.png)
 
-1. Wijzigen **SAML Single Sign On** tot **Ingeschakeld**.
+1. Wijzigen **[!UICONTROL SAML Single Sign-On]** tot **[!UICONTROL Enabled]**.
 
    ![](assets/add-single-sign-on-to-a-portal-4.png)
 
-1. Voer uw **Uitgever-id**, **Entiteit-id**, selecteert u de **Locatie van gebruikersnaam** en klik vervolgens op **Bladeren**.
+1. Voer uw **[!UICONTROL Issuer ID]**, **[!UICONTROL Entity ID]**, selecteert u de **[!UICONTROL User ID Location]** en klik vervolgens op **[!UICONTROL Browse]**.
 
    ![](assets/add-single-sign-on-to-a-portal-5.png)
 
-1. Selecteer uw **Certificaat van identiteitsprovider** bestand.
+1. Selecteer uw **[!UICONTROL Identity Provider Certificate]** bestand.
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
 ## Instellingen voor omleiding van pagina bijwerken {#update-redirect-page-settings}
 
-1. Onder de **Pagina&#39;s omleiden** sectie, klikt u op **Bewerken**.
+1. Onder de **[!UICONTROL Redirect Pages]** sectie, klikt u op **[!UICONTROL Edit]**.
 
    ![](assets/add-single-sign-on-to-a-portal-8.png)
 
    >[!NOTE]
    >
-   >Klanten die gebruikmaken van een universele id in combinatie met een SSO, moeten de aanmeldings-URL van de identiteitsprovider invoeren in het dialoogvenster **Aanmeldings-URL** veld.
+   >Klanten die gebruikmaken van een universele id in combinatie met een SSO, moeten de aanmeldings-URL van de identiteitsprovider invoeren in het dialoogvenster **[!UICONTROL Login URL]** veld.
 
-1. Voer een **Afmeldings-URL**. Dit is de URL waarnaar de gebruiker moet worden geleid wanneer deze zich afmeldt bij Marketo.
+1. Voer een **[!UICONTROL Logout URL]**. Dit is de URL waarnaar de gebruiker moet worden geleid wanneer deze zich afmeldt bij Marketo.
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. Voer een **Fout-URL**. Dit is de URL waarnaar de gebruiker moet worden geleid voor het geval dat het aanmelden bij Marketo mislukt. Klikken **Opslaan**.
+1. Voer een **[!UICONTROL Error URL]**. Dit is de URL waarnaar de gebruiker moet worden geleid voor het geval dat het aanmelden bij Marketo mislukt. Klik op **[!UICONTROL Save]**.
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 
@@ -110,7 +110,7 @@ SSO is standaard uitgeschakeld. Volg deze stappen om SAML toe te laten en het te
 
 >[!MORELIKETHIS]
 >
->* [Een universele id gebruiken voor aanmelding bij een abonnement](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target=&quot;_blank&quot;}
->* [Alleen gebruikersaanmelding beperken tot SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target=&quot;_blank&quot;}
->* [Marketo-gebruikers uitnodigen voor twee instanties met Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target=&quot;_blank&quot;}
+>* [Een universele id gebruiken voor aanmelding bij een abonnement](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
+>* [Alleen gebruikersaanmelding beperken tot SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Marketo-gebruikers uitnodigen voor twee instanties met Universal ID](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
 
