@@ -3,9 +3,9 @@ unique-page-id: 2360358
 description: Alleen aanmelding door gebruiker beperken tot SSO - Marketo Docs - Productdocumentatie
 title: Alleen gebruikersaanmelding beperken tot SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -22,33 +22,33 @@ Als je [SSO gebruiken](/help/marketo/product-docs/administration/additional-inte
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
-1. Klikken **Aanmeldingsinstellingen**.
+1. Klikken **[!UICONTROL Login Setting]s**.
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 
-1. Klikken **Beveiligingsinstellingen bewerken**.
+1. Klik op **[!UICONTROL Edit Security Settings]**.
 
    ![](assets/restrict-user-login-to-sso-only-3.png)
 
-1. Vouw de geavanceerde instellingen uit, schakel **SSO vereist** en klik op **Opslaan**.
+1. Breid uit **[!UICONTROL Advanced]** instellingen, controleren **[!UICONTROL Require SSO]** en klik op **[!UICONTROL Save]**.
 
 ![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >
->De beste manier is om de gebruiker(s) uit te nodigen en de uitnodiging te accepteren. _Na_ Als de uitnodiging is geaccepteerd, dienen beheerders deze in te stellen op &quot;SSO vereisen&quot;.
+>De beste manier is om de gebruiker(s) uit te nodigen en de uitnodiging te accepteren. _Na_ de uitnodiging is geaccepteerd, dienen beheerders deze in te stellen op &quot;[!UICONTROL Require SSO].&quot;
 
 >[!TIP]
 >
->Als u **SSO vereist**, kunt u een [gebruikersrol](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking door **Single Sign-On omzeilen** tijdens het instellen van de rol. Hierdoor kunnen gebruikers zich normaal aanmelden. Admin-gebruikers moeten zich bijvoorbeeld nog steeds via het aanmeldingsscherm aanmelden bij Marketo.
+>Als u **[!UICONTROL Require SSO]**, kunt u een [gebruikersrol](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) van deze beperking door **[!UICONTROL Bypass Single Sign-On]** tijdens het instellen van de rol. Hierdoor kunnen gebruikers zich normaal aanmelden. Admin-gebruikers moeten zich bijvoorbeeld nog steeds via het aanmeldingsscherm aanmelden bij Marketo.
 
 >[!CAUTION]
 >
->Als nieuwe gebruikers worden uitgenodigd, ontvangen ze e-mailuitnodigingen. Als **SSO vereist** is geselecteerd, ontvangen ze deze e-mailberichten niet, tenzij ze zijn toegewezen aan een rol die is ingesteld op **Single Sign-On omzeilen**.
+>Als nieuwe gebruikers worden uitgenodigd, ontvangen ze e-mailuitnodigingen. Als **[!UICONTROL Require SSO]** is geselecteerd, ontvangen ze deze e-mailberichten niet, tenzij ze zijn toegewezen aan een rol die is ingesteld op **[!UICONTROL Bypass Single Sign-On]**.
 
 Dat is het! Nu zullen alle gebruikers (behalve gebruikers met toestemming om enig teken-op te mijden) worden beperkt tot het gebruiken van slechts login SSO.
 

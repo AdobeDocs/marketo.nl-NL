@@ -3,10 +3,10 @@ unique-page-id: 2360350
 description: Een aangepaste service maken voor gebruik met de ReST API - Marketo Docs - Productdocumentatie
 title: Een aangepaste service maken voor gebruik met de ReST-API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 0%
+source-wordcount: '189'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
 ## Aangepaste service maken {#create-custom-service}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
@@ -39,11 +39,11 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
-1. Selecteren **Nieuw** en vervolgens **Nieuwe service**.
+1. Selecteren **[!UICONTROL New]** en vervolgens **[!UICONTROL New Service]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. Voer een **Weergavenaam** voor de dienst. Selecteer **Alleen API-gebruiker** [eerder gemaakt](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Voer een **[!UICONTROL Display Name]** voor de dienst. Selecteer **[!UICONTROL API Only User]** [eerder gemaakt](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
@@ -51,7 +51,7 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
    >
    >Merk op dat wij reeds inheemse integratie voor populaire webinardiensten hebben.
 
-1. Klikken **Maken**.
+1. Klik op **[!UICONTROL Create]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
@@ -59,23 +59,23 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 
 ## Referenties voor API-toegang {#credentials-for-api-access}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
-1. Klikken **LaunchPoint**.
+1. Klik op **[!UICONTROL LaunchPoint]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. Klikken **Details weergeven** voor de aangepaste LaunchPoint-service die hierboven is gemaakt.
+1. Klikken **[!UICONTROL View Details]** voor de aangepaste [!UICONTROL LaunchPoint] hierboven gemaakte service.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
-1. Klikken **Token ophalen**.
+1. Klik op **[!UICONTROL Get Token]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-9.png)
 
-1. Geef de **Client-id**, **Clientgeheim**, **Geautoriseerde gebruiker**, en **Token** aan de persoon die verantwoordelijk is voor het tot stand brengen van de verbinding.
+1. Geef de **[!UICONTROL Client Id]**, **[!UICONTROL Client Secret]**, **[!UICONTROL Authorized User]**, en **[!UICONTROL Token]** aan de persoon die verantwoordelijk is voor het tot stand brengen van de verbinding.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-10.png)
 
