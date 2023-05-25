@@ -3,9 +3,9 @@ unique-page-id: 557312
 description: Verklarende woordenlijst van slimme-lijstfilteroperatoren - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst voor slimme-lijstfilteroperatoren
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 5ffb1a1931ccbc945ba535f72898a1b73154e47a
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Typ gewoon het nummer en de eenheid en het werkt!
 
 >[!CAUTION]
 >
->Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, Aanmaakdatum van SFDC) en de optie **voor** of **op of voor** beperkingen bevat de slimme lijst ook personen die geen waarde hebben in het opgegeven datumveld.
+>Wanneer u een slimme lijst maakt met een datumveldfilter (bijvoorbeeld Geboortedatum, Aanmaakdatum van SFDC) en de beperkingen gebruikt **voor**, **op of voor**, of **in het verleden**, bevat de slimme lijst ook personen die geen waarde hebben in het opgegeven datumveld.
 
 Gebruik het volgende diagram om het verschil tussen de datumoperatoren te begrijpen.
 
