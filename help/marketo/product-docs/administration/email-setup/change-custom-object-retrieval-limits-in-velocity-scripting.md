@@ -1,40 +1,40 @@
 ---
-description: Aangepaste objectophaallimieten wijzigen in snelheidsscripts - Marketo Docs - Productdocumentatie
-title: Limieten voor het ophalen van aangepaste objecten wijzigen in snelheidsscripts
+description: "Limieten voor het ophalen van aangepaste objecten wijzigen in [!DNL Velocity Scripting] - Marketo Docs - Productdocumentatie"
+title: "Limieten voor het ophalen van aangepaste objecten wijzigen in [!DNL Velocity Scripting]"
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
-source-git-commit: aeaf1f55b81da70ac8415cab265165a3848b5a0e
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
 
-# Limieten voor het ophalen van aangepaste objecten wijzigen in snelheidsscripts {#change-custom-object-retrieval-limits-in-velocity-scripting}
+# Limieten voor het ophalen van aangepaste objecten wijzigen in [!DNL Velocity Scripting] {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
-Als u het Script van de Snelheid gebruikt om de gegevens van de Objecten van de Douane in e-mail te tonen, zou deze eigenschap voor u kunnen zijn. Standaard hebt u vanuit het snelheidsscript toegang tot 10 bovenliggende aangepaste objecten. Lees het bestand als u meer wilt openen.
+Als u [!DNL Velocity Script] Als u gegevens over aangepaste objecten in e-mails wilt weergeven, is deze functie mogelijk voor u bedoeld. Standaard hebt u vanuit het snelheidsscript toegang tot 10 bovenliggende aangepaste objecten. Lees het bestand als u meer wilt openen.
 
-## Wat is Snelheid {#what-is-velocity}
+## Wat is [!DNL Velocity] {#what-is-velocity}
 
-[Apache Snelheid](https://velocity.apache.org/) is een taal die is gebaseerd op Java en die is ontworpen voor sjablonen en scripts voor HTML-inhoud. Marketo staat toe dat het in de context van e-mails wordt gebruikt door het gebruik van [scripttokens](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Dit biedt onder andere toegang tot gegevens die zijn opgeslagen in aangepaste objecten.
+[[!DNL Apache Velocity]](https://velocity.apache.org/) is een taal die is gebaseerd op [!DNL Java] ontworpen voor sjablonen en scripts voor HTML-inhoud. Marketo staat toe dat het in de context van e-mails wordt gebruikt door het gebruik van [scripttokens](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md). Dit biedt onder andere toegang tot gegevens die zijn opgeslagen in aangepaste objecten.
 
 U kunt naar bovenliggende en onderliggende aangepaste objecten verwijzen die rechtstreeks zijn verbonden met de regelafstand, of naar de contactpersoon, maar niet naar aangepaste objecten op het derde niveau. Voor elk aangepast object zijn de 10 meest recente bijgewerkte records per persoon/contactpersoon beschikbaar bij uitvoering en worden deze geordend van de meest recente update (op 0) tot de oudste update (op 9).
 
 ## De limiet wijzigen {#how-to-change-the-limit}
 
-1. Ga naar de **Beheer** sectie.
+1. Ga naar de **[!UICONTROL Admin]** sectie.
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-1.png)
 
-1. Klikken **E-mail**.
+1. Klik op **[!UICONTROL Email]**.
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-2.png)
 
-1. Voer in de tabel Limieten voor ophalen van aangepast object een nieuwe limiet voor ophalen van bovenliggend object in en klik op **Wijzigingen opslaan**.
+1. In de [!UICONTROL Custom Object Retrieval Limits] tabel, voer een nieuwe [!UICONTROL Parent Retrieval Limit] en klik op **[!UICONTROL Save Changes]**.
 
    ![](assets/change-custom-object-retrieval-limits-in-velocity-scripting-3.png)
 
 >[!NOTE]
 >
->De waarde Limiet voor ophalen van bovenliggend element moet tussen 10 en 100 liggen. De limiet voor het ophalen van het kind wordt automatisch voor u ingesteld. Dit wordt gedaan door 1000 door de Bovenliggende Ophaalgrens te verdelen. Als u bijvoorbeeld de Bovenliggende limiet instelt op 50, wordt de Onderliggende limiet ingesteld op 20 (1000:50 = 20).
+>De [!UICONTROL Parent Retrieval Limit] waarde moet tussen 10 en 100 liggen. De [!UICONTROL Child Retrieval Limit] wordt automatisch voor u ingesteld. Dit wordt gedaan door 1000 door te delen [!UICONTROL Parent Retrieval Limit]. Als u bijvoorbeeld de Bovenliggende limiet instelt op 50, wordt de Onderliggende limiet ingesteld op 20 (1000:50 = 20).
 
-Zoet! Nu kunt u tot meer douanevoorwerpen van het manuscript van de Snelheid toegang hebben.
+Mooi! U kunt nu meer aangepaste objecten openen vanuit [!DNL Velocity script].

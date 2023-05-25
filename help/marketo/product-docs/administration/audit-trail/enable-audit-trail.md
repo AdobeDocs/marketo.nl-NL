@@ -3,10 +3,10 @@ unique-page-id: 11382122
 description: Audittrail inschakelen - Marketo Docs - Productdocumentatie
 title: Audittrail inschakelen
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 1%
 
 ---
 
@@ -20,15 +20,15 @@ Audittrail is beschikbaar voor alle klanten en wordt beheerd door twee beheerder
 
 ## Audittrail inschakelen voor een rol {#enable-audit-trail-for-a-role}
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/enable-audit-trail-1.png)
 
-1. Selecteren **Gebruikers en rollen** en klik op **Rollen**.
+1. Selecteren **[!UICONTROL Users & Roles]** en klik op **[!UICONTROL Roles]**.
 
    ![](assets/enable-audit-trail-2.png)
 
-1. Selecteer de rol waarvoor u Audittrail wilt inschakelen en klik op **Rol bewerken**.
+1. Selecteer de rol waarvoor u Audittrail wilt inschakelen en klik op **[!UICONTROL Edit Role]**.
 
    ![](assets/enable-audit-trail-3.png)
 
@@ -36,7 +36,7 @@ Audittrail is beschikbaar voor alle klanten en wordt beheerd door twee beheerder
    >
    >U hebt hier ook de optie om een nieuwe rol te creëren en het toegang van het Spoor van de Controle te verlenen.
 
-1. Breid uit **Toegangsbeheerder** toestemming. Selecteren **Access Audit Trail** en/of **Aanmeldingsgeschiedenis openen**, afhankelijk van uw behoeften. Klikken **Opslaan**.
+1. Breid uit **[!UICONTROL Access Admin]** toestemming. Selecteren **[!UICONTROL Access Audit Trail]** en/of **[!UICONTROL Access Login History]**, afhankelijk van uw behoeften. Klik op **[!UICONTROL Save]**.
 
    ![](assets/enable-audit-trail-4.png)
 
@@ -44,9 +44,9 @@ Audittrail is beschikbaar voor alle klanten en wordt beheerd door twee beheerder
    >
    >**Definitie**
    >
-   >**Actie audittrail:** Biedt gebruikers toegang tot zowel Asset Audit Trail als Admin Audit Trail.
+   >**[!UICONTROL Access Audit Trail]**: Biedt gebruikers toegang tot beide [!UICONTROL Asset Audit Trail] en [!UICONTROL Admin Audit Trail].
    >
-   >**Aanmeldingsgeschiedenis toegang:** Biedt gebruikers toegang tot [Aanmeldingsgeschiedenis gebruiker](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
+   >**[!UICONTROL Access Login History]**: Biedt gebruikers toegang tot [Aanmeldingsgeschiedenis gebruiker](/help/marketo/product-docs/administration/audit-trail/user-login-history.md).
 
 ## Roll audittrail toewijzen aan een gebruiker {#assign-audit-trail-role-to-a-user}
 
@@ -54,11 +54,11 @@ Audittrail is beschikbaar voor alle klanten en wordt beheerd door twee beheerder
 >
 >[Maken](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#create-a-role) of [enable](#enable-audit-trail) een bestaande rol, die het toestemmingen van het Trail van de Controle geeft.
 
-1. In **Gebruikers en rollen**, klikt u op **Gebruikers**.
+1. In **[!UICONTROL Users & Roles]**, klikt u op **[!UICONTROL Users]**.
 
    ![](assets/enable-audit-trail-5.png)
 
-1. Selecteer de gebruiker tot u de toegang van het Spoor van de Controle wilt geven en klikken **Gebruiker bewerken**.
+1. Selecteer de gebruiker tot u de toegang van het Spoor van de Controle wilt geven en klikken **[!UICONTROL Edit User]**.
 
    ![](assets/enable-audit-trail-6.png)
 
@@ -74,6 +74,6 @@ Audittrail is beschikbaar voor alle klanten en wordt beheerd door twee beheerder
    >
    >Als u werkruimten hebt ingeschakeld, schakelt u het selectievakje voor de rol in, waarmee alle werkruimten worden geselecteerd. Als u de selectie van een afzonderlijke werkruimte opheft, wordt Audittrail verborgen. Dit betekent u de gegevens van het Spoor van de Controle voor elke werkruimte zult zien. U kunt werkruimten desgewenst verbergen wanneer [filteren](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/enable-audit-trail-8.png)

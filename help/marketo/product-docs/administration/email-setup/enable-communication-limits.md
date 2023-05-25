@@ -3,10 +3,10 @@ unique-page-id: 2360222
 description: Communicatielimieten inschakelen - Marketo Docs - Productdocumentatie
 title: Communicatielimieten inschakelen
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 0%
+source-wordcount: '141'
+ht-degree: 2%
 
 ---
 
@@ -18,35 +18,35 @@ Het is erg belangrijk om niet overmatig met je mensen te communiceren. Als u com
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/enable-communication-limits-1.png)
 
-1. Klikken **Communicatielimieten**.
+1. Klik op **[!UICONTROL Communication Limits]**.
 
    ![](assets/enable-communication-limits-2.png)
 
-1. Klikken **Bewerken**.
+1. Klik op **[!UICONTROL Edit]**.
 
    ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
-   >Per Dag is gebaseerd op de kalenderdag in de streek van de abonnementstijd (middernacht-middernacht).
+   >[!UICONTROL Per Day] is gebaseerd op de kalenderdag in de streek van de abonnementstijd (middernacht-middernacht).
 
-1. Klik op de knop **Per dag** en selecteert u de gewenste limiet. In dit voorbeeld kiezen we 1.
+1. Klik op de knop **[!UICONTROL Per Day]** en selecteert u de gewenste limiet. In dit voorbeeld kiezen we 1.
 
    ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >U kunt ook **Aangepast** als geen van de vooraf ingestelde opties voor u werkt.
+   >U kunt ook **[!UICONTROL Custom]** als geen van de vooraf ingestelde opties voor u werkt.
 
-1. Klik op de knop **Per 7 dagen** en selecteert u de gewenste limiet. In dit voorbeeld kiezen we 5.
+1. Klik op de knop **[!UICONTROL Per 7 Days]** en selecteert u de gewenste limiet. In dit voorbeeld kiezen we 5.
 
    ![](assets/enable-communication-limits-5.png)
 
-1. Selecteren **Niet-operationele e-mailberichten blokkeren**.
+1. Selecteren **[!UICONTROL Block non-operational emails]**.
 
    ![](assets/enable-communication-limits-6.png)
 
@@ -54,7 +54,7 @@ Het is erg belangrijk om niet overmatig met je mensen te communiceren. Als u com
    >
    >Meer informatie over [operationele e-mails](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) zijn.
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/enable-communication-limits-7.png)
 

@@ -3,20 +3,20 @@ unique-page-id: 11377406
 description: Uw standaardbrandingdomein bewerken met Workspaces - Marketo Docs - Productdocumentatie
 title: Uw standaardbrandingdomein met werkruimten bewerken
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 0%
+source-wordcount: '148'
+ht-degree: 1%
 
 ---
 
 # Uw standaardbrandingdomein met werkruimten bewerken {#edit-your-default-branding-domain-with-workspaces}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. Klikken **E-mail**.
+1. Klik op **[!UICONTROL Email]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
@@ -26,15 +26,15 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Toevoegen** werkt pas nadat u het algemene domein hebt bewerkt. **Verwijderen** werkt pas wanneer u een tweede domein toevoegt.
+   >**[!UICONTROL Add]** werkt pas nadat u het algemene domein hebt bewerkt. **[!UICONTROL Delete]** werkt pas wanneer u een tweede domein toevoegt.
    >
    >U kunt geen extra domein toevoegen tot u eerst het generische domein uitgeeft.
 
-1. Voer de naam van het standaarddomein in en klik op **Volgende**.
+1. Voer de naam van het standaarddomein in en klik op **[!UICONTROL Next]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 

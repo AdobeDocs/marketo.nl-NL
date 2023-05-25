@@ -2,10 +2,10 @@
 description: Filteren van e-mailboxactiviteiten - Marketo-documenten - Productdocumentatie
 title: Activiteit e-mailvak filteren
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
-source-git-commit: 788084582a616b3cadd45f19d7a4779dad6f8c98
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 14%
+source-wordcount: '449'
+ht-degree: 15%
 
 ---
 
@@ -30,25 +30,25 @@ Bij klikken op een e-mailkoppeling en e-mail openen worden nieuwe kenmerken gevu
 
 ## Filtertype selecteren {#select-filter-type}
 
-1. Klikken **Beheer**.
+1. Klik op **[!UICONTROL Admin]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Klikken **E-mail**.
+1. Klik op **[!UICONTROL Email]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Klik op de knop **Bot-activiteit** tab.
+1. Klik op de knop **[!UICONTROL Bot Activity]** tab.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Kies **Combineren met IAB-lijst**, **Afstemmen met nabijheidspatroon**, of beide. Kies of beide activiteiten moeten worden geregistreerd _of_ filterbotactiviteit.
+1. Kies **[!UICONTROL Match with IAB List]**, **[!UICONTROL Match with Proximity Pattern]**, of beide. Kies of [!UICONTROL log bot activity] _of_ [!UICONTROL filter bot activity].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
 >[!NOTE]
 >
->Als u Bodyactiviteit filteren kiest, wordt er mogelijk een druppel in het e-mailbericht geopend en wordt op deze knop geklikt omdat de foutactiviteiten worden weggevaagd.
+>Als u [!UICONTROL Filter Bot Activity]Er wordt mogelijk een druppel weergegeven in het e-mailbericht en er wordt geklikt omdat onjuiste activiteiten worden uitgefilterd.
 
 **OPTIONELE STAP**: U schakelt deze functie uit door gewoon de schuifregelaar(s) uit te schakelen. Als u deze optie uitschakelt, worden de gegevens niet opnieuw ingesteld.
 

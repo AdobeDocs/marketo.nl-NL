@@ -3,9 +3,9 @@ unique-page-id: 11377945
 description: Overzicht audittrail - Marketo Docs - Productdocumentatie
 title: Overzicht van audittrail
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
-source-git-commit: 5f509a7aa27692e54bf129b94c657aff0f645f2b
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Met Audittrail hebt u de mogelijkheid om een complete geschiedenis (van zes maan
 
 >[!NOTE]
 >
->De geschiedenis van de audittrailgegevens begon op 14 september 2016.
+>De geschiedenis van de gegevens van het audittrail begon op 14 september 2016.
 
 ![](assets/audit-trail-overview-1.png)
 
@@ -77,7 +77,7 @@ U kunt slechts gegevens van 30 dagen in uw exemplaar bekijken. Gebruik de export
 >
 >**Definitie**
 >
->**Onbekend:** In het audittrail, kunt u de naam van een gebruiker en e-mail zien die als &quot;Onbekend&quot; worden vermeld. Dit gebeurt wanneer u een verandering in uw picklist waarden in uw CRM aanbrengt. Deze waarden worden weergegeven in Marketo-formulieren en bestemmingspagina&#39;s. Als u deze update uitvoert aan de CRM-zijde, worden uw bestemmingspagina&#39;s die verwijzen naar het formulier automatisch geprogrammeerd. In audittrail, zullen wij vangen dat de landingspagina werd opgesteld, maar de naam en de e-mail van de gebruiker zullen als &quot;Onbekend tonen,&quot;aangezien wij niet de gebruikersinformatie van de kant van CRM kunnen vangen.
+>**Onbekend:** In [!DNL Webhook]kan de naam en het e-mailadres van een gebruiker worden weergegeven als Onbekend. Dit gebeurt wanneer u een verandering in uw picklist waarden in uw CRM aanbrengt. Deze waarden worden weergegeven in Marketo-formulieren en bestemmingspagina&#39;s. Als u deze update uitvoert aan de CRM-zijde, worden uw bestemmingspagina&#39;s die verwijzen naar het formulier automatisch geprogrammeerd. In [!DNL Webhook], zullen wij vangen dat de landingspagina werd opgesteld, maar de naam en de e-mail van de gebruiker zullen tonen als &quot;Onbekend,&quot;aangezien wij niet de gebruikersinformatie van de kant van CRM kunnen vangen.
 
 >[!MORELIKETHIS]
 >

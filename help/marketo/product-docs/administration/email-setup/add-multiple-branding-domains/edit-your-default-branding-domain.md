@@ -3,9 +3,9 @@ unique-page-id: 11377392
 description: Uw standaardbrandingdomein bewerken - Marketo Docs - Productdocumentatie
 title: Uw standaardbrandingdomein bewerken
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ Het bewerken van uw standaardbrandingdomein is de eerste stap bij het werken met
 >
 >Zorg ervoor dat je [opstelling een NAAM in uw DNS](/help/marketo/getting-started/setup/configure-protocols-for-marketo.md) voordat u uw brandingdomeinen in Marketo toevoegt.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/edit-your-default-branding-domain-1.png)
 
-1. Klikken **E-mail**.
+1. Klik op **[!UICONTROL Email]**.
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. Selecteer in de tabel Brandingdomeinen het algemene domein en klik op Bewerken om dit te wijzigen in het brandingdomein van uw bedrijf.
+1. In de [!UICONTROL Branding Domains] de lijst, selecteert het generische domein en de klik geeft uit om het in het branded domein van uw bedrijf te veranderen.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -34,7 +34,7 @@ Het bewerken van uw standaardbrandingdomein is de eerste stap bij het werken met
    >
    >U kunt geen extra domein toevoegen tot u eerst het generische domein hebt uitgegeven.
 
-1. Voer de naam van het standaarddomein in en klik op Opslaan.
+1. Voer de naam van het standaarddomein in en klik op **[!UICONTROL Save]**.
 
    ![](assets/edit-your-default-branding-domain-4.png)
 

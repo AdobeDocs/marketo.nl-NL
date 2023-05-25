@@ -2,9 +2,9 @@
 description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '418'
 ht-degree: 2%
 
 ---
@@ -47,8 +47,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">Help Center</a></td>
   </tr>
   </tbody>
 </table>
@@ -73,8 +73,8 @@ Interactieve webinars zullen geleidelijk worden opgebouwd. Vul het formulier in 
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Uitvoeren gestart</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Overzicht van interactieve webinars</a></td>
   </tr>
   </tbody>
 </table>

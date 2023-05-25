@@ -3,10 +3,10 @@ unique-page-id: 11377958
 description: Aanmeldingsgeschiedenis gebruiker - Marketo-documenten - Productdocumentatie
 title: Aanmeldingsgeschiedenis gebruiker
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
-source-git-commit: 73d41904ca74ae265648c3ed91805be7c4d24fe0
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
@@ -28,15 +28,15 @@ De historie van de gebruikersaanmelding identificeert personen die zich aanmelde
 
 De aanmeldingsgeschiedenis van de gebruiker weergeven:
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/user-login-history-1.png)
 
-1. Klik onder Beveiliging op **Gebruikers en rollen**.
+1. Klik onder Beveiliging op **[!UICONTROL Users & Roles]**.
 
    ![](assets/user-login-history-2.png)
 
-1. Klik op de knop **Aanmeldingsgeschiedenis** tab. De lijst toont de meest recente logins.
+1. Klik op de knop **[!UICONTROL Login History]** tab. De lijst toont de meest recente logins.
 
    ![](assets/user-login-history-3.png)
 
@@ -52,15 +52,15 @@ De aanmeldingsgeschiedenis van de gebruiker weergeven:
 
    ![](assets/user-login-history-6.png)
 
-1. Selecteer de gebruikers in het menu **Gebruikers** vervolgkeuzelijst.
+1. Selecteer de gebruikers in het menu **[!UICONTROL Users]** vervolgkeuzelijst.
 
    ![](assets/user-login-history-7.png)
 
-1. Controleer de **Alleen mislukte aanmeldingen** om alleen mislukte aanmeldingen in uw zoekopdracht weer te geven.
+1. Controleer de **[!UICONTROL Only Failed Logins]** om alleen mislukte aanmeldingen in uw zoekopdracht weer te geven.
 
    ![](assets/user-login-history-8.png)
 
-1. Klikken **Toepassen**.
+1. Klik op **[!UICONTROL Apply]**.
 
    ![](assets/user-login-history-9.png)
 
@@ -68,6 +68,6 @@ De aanmeldingsgeschiedenis van de gebruiker weergeven:
    >
    >In de gebruikersinterface worden maximaal 30 dagen gegevens weergegeven. Als u meer nodig hebt, kunt u de meest recente zes maanden gegevens downloaden naar een CSV-bestand.
 
-   >[!NOTE]
+   >[!MORELIKETHIS]
    >
    >[Overzicht van audittrail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

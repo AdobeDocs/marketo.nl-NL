@@ -3,9 +3,9 @@ unique-page-id: 2360253
 description: Bewerk het bericht "Weergeven als webpagina" - Marketo Docs - Productdocumentatie
 title: Het bericht "Weergeven als webpagina" bewerken
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Als u &quot;[Weergeven als webpagina](/help/marketo/product-docs/email-marketing
 
 ## Het bericht &quot;Weergeven als webpagina&quot; bewerken {#edit-the-view-as-web-page-message-1}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. Klikken **E-mail**.
+1. Klik op **[!UICONTROL Email]**.
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 
@@ -34,9 +34,9 @@ Als u &quot;[Weergeven als webpagina](/help/marketo/product-docs/email-marketing
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >Het tweede deel `##MKT_TOK##` Het is de munchkin cookie van die persoon. Het zorgt ervoor dat ze op de juiste wijze worden gekookt wanneer ze op de koppeling klikken.
+   >Het tweede deel `##MKT_TOK##` is de [!UICONTROL munchkin] cookie van die persoon. Het zorgt ervoor dat ze op de juiste wijze worden gekookt wanneer ze op de koppeling klikken.
 
-1. Bewerk de **HTML weergeven als webpagina** en **Weergeven als tekst op webpagina** gewenste versies en klik op **Wijzigingen opslaan**.
+1. Bewerk de **[!UICONTROL View as Web Page HTML]** en **[!UICONTROL View as Web Page Text]** gewenste versies en klik op **[!UICONTROL Save Changes]**.
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -52,13 +52,13 @@ Daar heb je het. Test-e-mails verzenden om de opmaak te controleren.
 
 ## Standaardtekst &quot;Weergeven als webpagina&quot; {#default-view-as-web-page-text}
 
-Als u ooit aan standaardsysteem &quot;Mening als Web-pagina&quot;moet terugkeren, kopieer/kleef het volgende:
+Als u ooit moet terugkeren naar het standaardsysteem &quot;[!UICONTROL View as Web Page]&quot;, kopieert of plakt u het volgende:
 
-**Weergeven als HTML van webpagina:**
+**[!UICONTROL View as Web Page HTML]**:
 
 `<pre data-theme="Confluence"><div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div></pre>`
 
-**Weergeven als tekst op webpagina:**
+**[!UICONTROL View as Web Page Text]**:
 
 Ga naar het volgende adres om deze e-mail als webpagina weer te geven:
 `<pre data-theme="Confluence">%mkt_webview_url%?mkt_tok=##MKT_TOK##</pre>`

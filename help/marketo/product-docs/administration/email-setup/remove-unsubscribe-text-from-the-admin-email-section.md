@@ -3,26 +3,26 @@ unique-page-id: 2360245
 description: Tekst voor abonnement verwijderen uit de e-mailsectie Admin - Marketo Docs - Productdocumentatie
 title: Tekst voor abonnement verwijderen uit de e-mailsectie voor beheerders
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 1%
 
 ---
 
 # Tekst voor abonnement verwijderen uit de e-mailsectie voor beheerders {#remove-unsubscribe-text-from-the-admin-email-section}
 
-De enige reden waarom u het afmelden van inhoud uit het gebied &quot;Admin > E-mail&quot;zou moeten ooit volledig verwijderen is als u verkiest om de afmeldingsverbinding in de e-mailmalplaatjes zelf te bouwen. Het tekstvak heeft een validatie die het niet mogelijk maakt om zonder inhoud op te slaan. U kunt dit omzeilen door een kleine HTML-opmerking toe te voegen. De opmerking HTML wordt niet weergegeven in de e-mailclient, omdat deze de e-mail in HTML weergeeft en de opmerkingen worden weggelaten. Zo doe je het.
+De enige reden waarom u de niet-geabonneerde inhoud ooit volledig uit de **[!UICONTROL Admin]** > **[!UICONTROL Email]** in dit gebied is het geval als u ervoor kiest om de koppeling voor afmelden op te nemen in de e-mailsjablonen zelf. Het tekstvak heeft een validatie die het niet mogelijk maakt om zonder inhoud op te slaan. U kunt dit omzeilen door een kleine HTML-opmerking toe te voegen. De opmerking HTML wordt niet weergegeven in de e-mailclient, omdat deze de e-mail in HTML weergeeft en de opmerkingen worden weggelaten. Zo doe je het.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
-1. Klikken **E-mail**.
+1. Klik op **[!UICONTROL Email]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-2.png)
 
-1. Selecteer alle tekst en druk op **Verwijderen** toets.
+1. Selecteer alle tekst en druk op **[!UICONTROL Delete]** toets.
 
    >[!CAUTION]
    >
@@ -32,7 +32,7 @@ De enige reden waarom u het afmelden van inhoud uit het gebied &quot;Admin > E-m
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-3.png)
 
-1. Klikken **Wijzigingen opslaan**.
+1. Klik op **[!UICONTROL Save Changes]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-4.png)
 
