@@ -3,9 +3,9 @@ unique-page-id: 2360293
 description: De naam van een veld wijzigen - Marketo Docs - Productdocumentatie
 title: De naam van een veld wijzigen
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/rename-a-field-1.png)
 
-1. Klikken **Veldbeheer**.
+1. Klik op **[!UICONTROL Field Management]**.
 
    ![](assets/rename-a-field-2.png)
 
@@ -34,9 +34,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Klik op de knop **Gebruikt door** koppeling om te zoeken naar elementen die naar dit veld verwijzen.
+   >Klik op de knop **[!UICONTROL Used By]** koppeling om te zoeken naar elementen die naar dit veld verwijzen.
 
-1. Naam van veld wijzigen en klikken **Opslaan**.
+1. Naam van veld wijzigen en klikken **[!UICONTROL Save]**.
 
    ![](assets/rename-a-field-4.png)
 

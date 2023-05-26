@@ -3,9 +3,9 @@ unique-page-id: 2360335
 description: Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen - Marketo Docs - Productdocumentatie
 title: Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -20,31 +20,31 @@ U kunt de gegevens in sommige lijsten meer vertrouwen dan in andere. Soms hebt u
 
 ## Veldupdates blokkeren vanuit niet-vertrouwde bronnen {#blocking-field-updates-from-untrusted-sources}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 
-1. Klikken **Veldbeheer**.
+1. Klik op **[!UICONTROL Field Management]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. Zoek het gewenste veld, selecteer het en onder **Veldhandelingen**, klikt u op **Veldupdates blokkeren**.
+1. Zoek het gewenste veld, selecteer het en onder **[!UICONTROL Field Actions]**, klikt u op **[!UICONTROL Block Field Updates]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
 
-1. Controleren **Niet-vertrouwde bron importeren** en klik op **Toepassen**.
+1. Controleren **[!UICONTROL List Import untrusted source]** en klik op **[!UICONTROL Apply]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->U kunt velden veilig houden voor alle lijsten, vertrouwd en niet-vertrouwd, door ook **Vertrouwde bron importeren**.
+>U kunt velden veilig houden voor alle lijsten, vertrouwd en niet-vertrouwd, door ook **[!UICONTROL List Import trusted source]**.
 
 Herhaal bovenstaande stappen voor alle andere velden die u wilt beveiligen tegen niet-vertrouwde lijsten.
 
 ## Importeren van niet-vertrouwde lijsten uitvoeren {#running-an-untrusted-list-import}
 
-1. Zorg ervoor dat u **Onvertrouwd** als u wilt dat alle velden die u in de vorige stap hebt ingesteld, veilig zijn.
+1. Zorg ervoor dat u **[!UICONTROL Untrusted]** als u wilt dat alle velden die u in de vorige stap hebt ingesteld, veilig zijn.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 

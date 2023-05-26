@@ -3,30 +3,30 @@ unique-page-id: 2360291
 description: Updates van een veld blokkeren - Marketo Docs - Productdocumentatie
 title: Updates van een veld blokkeren
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
-source-git-commit: 2776969be44ba1a3d795e99986d10cf0470fb9e9
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
 
 # Updates van een veld blokkeren {#block-updates-to-a-field}
 
-Door het blokkeren van updates van een veld kunt u één keer naar het veld schrijven en vervolgens de oorspronkelijke waarde gedurende de levensduur van het veld behouden. Dit kan handig zijn voor een veld zoals Personbron.
+Door het blokkeren van updates van een veld kunt u één keer naar het veld schrijven en vervolgens de oorspronkelijke waarde gedurende de levensduur van het veld behouden. Dit kan handig zijn voor een veld als [!UICONTROL Person Source].
 
 >[!NOTE]
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/block-updates-to-a-field-1.png)
 
-1. Klikken **Veldbeheer**.
+1. Klik op **[!UICONTROL Field Management]**.
 
    ![](assets/block-updates-to-a-field-2.png)
 
-1. Zoek het veld, selecteer het vervolgens onder **Veldhandelingen**, klikt u op **Veldupdates blokkeren**.
+1. Zoek het veld, selecteer het vervolgens onder **[!UICONTROL Field Actions]**, klikt u op **[!UICONTROL Block Field Updates]**.
 
    ![](assets/block-updates-to-a-field-3.png)
 
@@ -34,7 +34,7 @@ Door het blokkeren van updates van een veld kunt u één keer naar het veld schr
    >
    >U kunt updates blokkeren voor [Aangepaste velden voor programmalid](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md) ook.
 
-1. Selecteer **Invoerbronnen** u wilt blokkeren en klikken **Toepassen**.
+1. Selecteer **[!UICONTROL Input Sources]** u wilt blokkeren en klikken **[!UICONTROL Apply]**.
 
    ![](assets/block-updates-to-a-field-4.png)
 

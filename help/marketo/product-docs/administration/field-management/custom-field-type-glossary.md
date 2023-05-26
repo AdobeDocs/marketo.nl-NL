@@ -3,7 +3,7 @@ unique-page-id: 2951259
 description: Verklarende woordenlijst Type aangepast veld - Marketo Docs - Productdocumentatie
 title: Verklarende woordenlijst Type aangepast veld
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 >[!NOTE]
 >
->De meeste velden hebben niet het maximale aantal tekens, maar het maximale aantal bytes. Daarom kunnen we geen definitieve tekenlimiet opgeven voor elk veld. De uitzondering is **String**, die maximaal 255 tekens bevat.
+>De meeste velden worden niet uitgelijnd op het aantal tekens, maar op het aantal bytes. Daarom kunnen we geen definitieve tekenlimiet opgeven voor elk veld. De uitzondering is **String**, die maximaal 255 tekens bevat.
 
 ## Boolean {#boolean}
 
@@ -106,7 +106,7 @@ Wanneer u een aangepast veld maakt in Marketo, hebt u een lijst met typen waarui
 
 ## Score {#score}
 
-**Voorbeeldnaam:** Gedragsscore / Demografische score: maak meerdere muziekvelden om verschillende kenmerken bij te houden.
+**Voorbeeldnaam:** Gedragsscore / Demografische score - meerdere muziekvelden maken om verschillende kenmerken bij te houden
 
 **Voorbeeld:** 14
 

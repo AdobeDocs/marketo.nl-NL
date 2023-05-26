@@ -3,10 +3,10 @@ unique-page-id: 2360331
 description: Het type aangepast Marketo-veld wijzigen - Marketo Docs - Productdocumentatie
 title: Het type van een aangepast Marketo-veld wijzigen
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
-source-git-commit: cd742b3c4ff464a7efeb6490b88fe78e6b3f4ae8
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 1%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
-1. Klikken **Veldbeheer**.
+1. Klik op **[!UICONTROL Field Management]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
@@ -26,7 +26,7 @@ Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. In de **Veldhandelingen** vervolgkeuzelijst, klikken **Type wijzigen**.
+1. In de **[!UICONTROL Field Actions]** vervolgkeuzelijst, klikken **[!UICONTROL Change Type]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
@@ -38,7 +38,7 @@ Hieronder wordt beschreven hoe u het veldtype van een aangepast veld wijzigt.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
-1. Lees de waarschuwing en klik vervolgens op **Wijzigen** ter bevestiging.
+1. Lees de waarschuwing en klik vervolgens op **[!UICONTROL Change]** ter bevestiging.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 

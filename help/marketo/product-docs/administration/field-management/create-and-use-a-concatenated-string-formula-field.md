@@ -3,10 +3,10 @@ unique-page-id: 2360337
 description: Een samengevoegd tekenreeksveld (Formule) maken en gebruiken - Marketo Docs - Productdocumentatie
 title: Een samengevoegd veld String (Formule) maken en gebruiken
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
-source-git-commit: b13360b009aea869bbd96a9cd0888bb121afdcd2
+source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 0%
+source-wordcount: '161'
+ht-degree: 1%
 
 ---
 
@@ -14,27 +14,27 @@ ht-degree: 0%
 
 U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde maken met een veld met Marketo-formule.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. Klikken **Veldbeheer**.
+1. Klik op **[!UICONTROL Field Management]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. Klikken **Nieuw aangepast veld**.
+1. Klik op **[!UICONTROL New Custom Field]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. Selecteren **Formule** voor de **Type**.
+1. Selecteren **[!UICONTROL Formula]** voor de **[!UICONTROL Type]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. Voer een **Naam** voor uw veld klikt u op **Maken**.
+1. Voer een **[!UICONTROL Name]** voor uw veld klikt u op **[!UICONTROL Create]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. Zoek en selecteer het gewenste veld en klik op **Regels bewerken**.
+1. Zoek en selecteer het gewenste veld en klik op **[!UICONTROL Edit Rules]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
@@ -52,6 +52,6 @@ U kunt waarden van meerdere velden combineren of een voorwaardelijke waarde make
 
 >[!NOTE]
 >
->Formulervelden kunnen worden gebruikt bij het landen van pagina&#39;s, e-mails en kolommen met slimme lijsten (deze worden niet geëxporteerd). E-mails met formule-velden kunnen **niet** worden verzonden via een batchcampagne. Gebruik een [e-mailscripttoken](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in dit scenario.
+>Formulervelden kunnen worden gebruikt bij het landen van pagina&#39;s, e-mails en kolommen met slimme lijsten (deze worden niet geëxporteerd). E-mails met formule-velden kunnen _niet_ worden verzonden via een batchcampagne. Gebruik een [e-mailscripttoken](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in dit scenario.
 
 Goed werk! Nu heb je een slim veld dat weet welke aanhef je moet opnemen op basis van geslacht. Maak hier plezier mee en maak creatief.
