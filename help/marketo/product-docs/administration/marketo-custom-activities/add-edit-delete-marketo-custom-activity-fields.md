@@ -3,10 +3,10 @@ unique-page-id: 10100275
 description: Aangepaste activiteitsvelden van Marketo toevoegen/bewerken/verwijderen - Marketo Docs - Productdocumentatie
 title: Aangepaste activiteitsvelden van Marketo toevoegen/bewerken/verwijderen
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
-source-git-commit: 6283a9fda6c8577dacfbd3782cda41058fbf67a2
+source-git-commit: 5d1c21118455756314ace14679b0531c50ad08e8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '269'
+ht-degree: 2%
 
 ---
 
@@ -16,15 +16,15 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
 ## Een veld Aangepaste activiteit toevoegen {#add-a-custom-activity-field}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
-1. Klikken **Aangepaste Marketo-activiteiten**.
+1. Klik op **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
 
-1. Klikken **Velden**.
+1. Klik op **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
@@ -32,11 +32,11 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
-1. Klikken **Nieuw veld**.
+1. Klik op **[!UICONTROL New Field]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Kies het gegevenstype van het veld.
+1. De velden kiezen [!UICONTROL data type].
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
@@ -44,7 +44,7 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
    >
    >Weet u niet zeker wat u moet selecteren? We hebben je bedekt! Alle beschikbare gegevenstypen worden gedefinieerd in [dit artikel](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. Geef het veld een naam. De api-naam wordt automatisch ingevuld. Als u klaar bent, klikt u op **Opslaan**.
+1. Geef het veld een naam. De api-naam wordt automatisch ingevuld. Als u klaar bent, klikt u op **[!UICONTROL Save]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
@@ -52,15 +52,15 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
 ## Een veld Aangepaste activiteit bewerken {#edit-a-custom-activity-field}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
-1. Klikken **Aangepaste Marketo-activiteiten**.
+1. Klik op **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
 
-1. Klikken **Velden**.
+1. Klik op **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
@@ -68,7 +68,7 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
-1. Selecteer het veld dat u wilt bewerken en klik op de knop **Veldhandelingen** en selecteert u **Veld bewerken**.
+1. Selecteer het veld dat u wilt bewerken en klik op de knop **[!UICONTROL Field Actions]** en selecteert u **[!UICONTROL Edit Field]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
@@ -76,7 +76,7 @@ Mogelijk moet u een aangepast activiteitsveld toevoegen, wijzigen of zelfs verwi
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. Voer de nieuwe naam en Api-naam in en klik vervolgens op **Opslaan**.
+1. Voer de nieuwe naam en Api-naam in en klik vervolgens op **[!UICONTROL Save]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
@@ -96,15 +96,15 @@ Uw veld wordt nu bewerkt.
 
 ## Een aangepast activiteitsveld verwijderen {#delete-a-custom-activity-field}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 
-1. Klikken **Aangepaste Marketo-activiteiten**.
+1. Klik op **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
 
-1. Klikken **Velden**.
+1. Klik op **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 
@@ -112,6 +112,6 @@ Uw veld wordt nu bewerkt.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
-1. Selecteer het veld dat u wilt verwijderen en klik op de knop **Veldhandelingen** en selecteert u **Veld verwijderen**.
+1. Selecteer het veld dat u wilt verwijderen en klik op de knop **[!UICONTROL Field Actions]** en selecteert u **[!UICONTROL Delete Field]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)
