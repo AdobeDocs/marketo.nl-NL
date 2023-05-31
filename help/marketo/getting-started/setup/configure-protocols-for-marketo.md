@@ -3,10 +3,10 @@ unique-page-id: 4720433
 description: Protocollen configureren voor Marketo - Marketo Docs - Productdocumentatie
 title: Protocollen voor Marketo configureren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
-source-git-commit: 6c1699ce986608e8b9d991f21fd649f9330e3d12
+source-git-commit: 5a8fe88dec5f2bf9c94c0a08a5515b87bc6dcaa9
 workflow-type: tm+mt
-source-wordcount: '1021'
-ht-degree: 2%
+source-wordcount: '1024'
+ht-degree: 3%
 
 ---
 
@@ -58,7 +58,7 @@ Bijvoorbeeld:
 
 Melden aan uw marketingteam wanneer u dit proces hebt voltooid.
 
-`4` **Contact [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces van levering van een SSL Certificaat te beginnen.**
+`4` **Contact [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces van levering van een SSL-certificaat te starten.**
 
 Dit proces kan maximaal 3 werkdagen duren.
 
@@ -68,14 +68,23 @@ Als uw marketinggroep Marketo gebruikt om teste-mails te verzenden (een aanbevol
 
 Voeg deze IP adressen aan uw collectieve lijst van gewenste personen toe:
 
-199.15.212.0/22\
-192.28.144.0/20
-192.28.160.0/19\
-185.28.196.0/22\
-130.248.172.0/24\
-130.248.173.0/24\
-103.237.104.0/22\
 94.236.119.0/26
+
+103.237.104.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+130.248.244.88/29
+
+185.28.196.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+199.15.212.0/22
 
 Sommige anti-anti-spamsystemen gebruiken het terug-weg van de e-mail gebied in plaats van het IP adres voor het toewijzen. In die gevallen is de beste aanpak lijst van gewenste personen &quot;&#42;.mktomail.com&#39;, aangezien Marketo verscheidene brievenbus subdomain gebruikt. Andere anti-spamsystemen lijst van gewenste personen die op Van adres wordt gebaseerd. In deze situaties, ben zeker om alle verzendende (&#39;van&#39;) domeinen te omvatten die uw groep van de Marketing gebruikt om met mensen/leiders te communiceren.
 
@@ -131,16 +140,10 @@ De volgende lijsten behandelen alle servers van Marketo Engage die uitgaande vra
    <th>IP-blok (CIDR-notatie)</th>
   </tr>
   <tr>
-   <td>192.28.144.0/20</td>
+   <td>94.236.119.0/26</td>
   </tr>
-   <tr>
-   <td>192.28.160.0/19</td>
-  </tr>
-   <tr>
-   <td>199.15.212.0/22</td>
-  </tr>
-   <tr>
-   <td>185.28.196.0/22</td>
+  <tr>
+   <td>103.237.104.0/22</td>
   </tr>
    <tr>
    <td>130.248.172.0/24</td>
@@ -149,10 +152,19 @@ De volgende lijsten behandelen alle servers van Marketo Engage die uitgaande vra
    <td>130.248.173.0/24</td>
   </tr>
   <tr>
-   <td>103.237.104.0/22</td>
+   <td>130.248.244.88/29</td>
   </tr>
   <tr>
-   <td>94.236.119.0/26</td>
+   <td>185.28.196.0/22</td>
+  </tr>
+  <tr>
+   <td>192.28.144.0/20</td>
+  </tr>
+  <tr>
+   <td>192.28.160.0/19</td>
+  </tr>
+  <tr>
+   <td>199.15.212.0/22</td>
   </tr>
  </tbody>
 </table>
