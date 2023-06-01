@@ -3,9 +3,9 @@ unique-page-id: 10093188
 description: Marketo Custom Objects - Marketo Docs - Productdocumentatie
 title: Aangepaste Marketo-objecten begrijpen
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
-source-git-commit: 0d9417792a7ee1e37451f6f42d963a1bc2a73691
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '662'
 ht-degree: 0%
 
 ---
@@ -42,11 +42,11 @@ Vele-aan-vele douanevoorwerpen gebruiken twee verbindingsgebieden, deel van een 
 
 ## Aangepaste Marketo-objecten openen {#accessing-marketo-custom-objects}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Klikken **Aangepaste Marketo-objecten**.
+1. Klik op **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -68,17 +68,17 @@ Vele-aan-vele douanevoorwerpen gebruiken twee verbindingsgebieden, deel van een 
 
 ## Aangepaste objecten weergeven die zijn gekoppeld aan een persoon {#view-custom-objects-associated-to-a-person}
 
-Nadat u de structuur van het douanevoorwerp hebt gecreeerd, wanneer u de specifieke gegevens van het douanevoorwerp uploadt, worden de douanevoorwerpen automatisch geassocieerd aan mensen in het gegevensbestand gebruikend het verbindingsgebied in het douanevoorwerp. U kunt informatie bekijken van het lusje van Objecten van de Douane op de pagina van persoondetails.
+Nadat u de structuur van het douanevoorwerp hebt gecreeerd, wanneer u de specifieke gegevens van het douanevoorwerp uploadt, worden de douanevoorwerpen automatisch geassocieerd aan mensen in het gegevensbestand gebruikend het verbindingsgebied in het douanevoorwerp. U kunt informatie weergeven in het dialoogvenster [!UICONTROL Custom Objects] op de pagina met persoonlijke details.
 
-1. Ga naar **Database**.
+1. Ga naar **[!UICONTROL Database]**.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Open uw database en klik op de knop **Mensen** tab. Dubbelklik op de record voor een persoon die u aan een aangepast object hebt gekoppeld.
+1. Open uw database en klik op de knop **[!UICONTROL People]** tab. Dubbelklik op de record voor een persoon die u aan een aangepast object hebt gekoppeld.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. Klik op de pagina met persoonlijke details op de knop **Aangepaste objecten** tab. Selecteer het object in de vervolgkeuzelijst.
+1. Klik op de pagina met persoonlijke details op de knop **[!UICONTROL Custom Objects]** tab. Selecteer het object in de vervolgkeuzelijst.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 

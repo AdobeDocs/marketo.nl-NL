@@ -3,10 +3,10 @@ unique-page-id: 10093192
 description: Aangepaste Marketo-objecten maken - Marketo Docs - Productdocumentatie
 title: Aangepaste Marketo-objecten maken
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '704'
-ht-degree: 0%
+source-wordcount: '625'
+ht-degree: 1%
 
 ---
 
@@ -26,31 +26,31 @@ Gebruik aangepaste objecten in Marketo om metrische gegevens bij te houden die s
 
 In dit voorbeeld ziet u een aangepast object Car voor gebruik in een structuur van één op vele. Later maakt u een aangepast cursusobject en een tussenliggend object voor gebruik in een veel-op-veel-structuur.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
-1. Klikken **Aangepaste Marketo-objecten**.
+1. Klik op **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/create-marketo-custom-objects-2.png)
 
-1. Klikken **Nieuw aangepast object**.
+1. Klik op **[!UICONTROL New Custom Object]**.
 
    ![](assets/create-marketo-custom-objects-3.png)
 
    >[!NOTE]
    >
-   >Op het tabblad Aangepaste objecten van Marketo worden alle aangepaste objecten aan de rechterkant weergegeven, evenals details voor goedgekeurde objecten, zoals het aantal records en velden bij de meest recente update.
+   >De [!UICONTROL Marketo Custom Objects] worden alle aangepaste objecten aan de rechterkant weergegeven en worden details voor alle goedgekeurde objecten weergegeven, inclusief het aantal records en velden bij de meest recente update.
 
-1. Voer een weergavenaam in. De API-naam en de meervoudige naam worden automatisch ingevuld. Voer een beschrijving in (optioneel).
+1. Voer een [!UICONTROL Display Name]. De [!UICONTROL API Name] en [!UICONTROL Plural Name] automatisch vullen. Voer een [!UICONTROL Description] (optioneel).
 
    ![](assets/create-marketo-custom-objects-4.png)
 
    >[!NOTE]
    >
-   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Meerdere namen en het dialoogvenster **Tonen in gegevens over lead** schuifregelaar.
+   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen de [!UICONTROL Plural Name] en **[!UICONTROL Show in Lead Detail]** schuifregelaar.
 
-1. Trek de **Tonen in gegevens over lead** schuifregelaar om weer te geven **Tonen** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klikken **Opslaan**.
+1. Trek de **[!UICONTROL Show in Lead Detail]** schuifregelaar om weer te geven **[!UICONTROL Show]** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klik op **[!UICONTROL Save]**.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -72,27 +72,27 @@ In dit voorbeeld ziet u een aangepast cursusobject dat u kunt gebruiken voor het
 >
 >Voor een veel-aan-vele verhouding, te hoeven u om geen verbinding in het douanevoorwerp tot stand te brengen. In plaats daarvan voegt u twee koppelingen toe aan het intermediaire object (zie hieronder).
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
-1. Klikken **Aangepaste Marketo-objecten**.
+1. Klik op **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/create-marketo-custom-objects-8.png)
 
-1. Klikken **Nieuw aangepast object**.
+1. Klik op **[!UICONTROL New Custom Object]**.
 
    ![](assets/create-marketo-custom-objects-9.png)
 
-1. Voer een weergavenaam in. De API-naam en de meervoudige naam worden automatisch ingevuld. Voer een beschrijving in (optioneel).
+1. Voer een [!UICONTROL Display Name]. De [!UICONTROL API Name] en [!UICONTROL Plural Name] automatisch vullen. Voer een [!UICONTROL Description] (optioneel).
 
    ![](assets/create-marketo-custom-objects-10.png)
 
    >[!NOTE]
    >
-   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Meerdere namen en het dialoogvenster **Tonen in gegevens over lead** schuifregelaar.
+   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen de [!UICONTROL Plural Name] en **[!UICONTROL Show in Lead Detail]** schuifregelaar.
 
-1. Trek de **Tonen in gegevens over lead** schuifregelaar om weer te geven **Tonen** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klikken **Opslaan**.
+1. Trek de **[!UICONTROL Show in Lead Detail]** schuifregelaar om weer te geven **[!UICONTROL Show]** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klik op **[!UICONTROL Save]**.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -114,27 +114,27 @@ Gebruik een tussenliggend object om een aangepast object te koppelen aan persone
 >
 >U hoeft geen intermediair object te maken voor een een-op-veel aangepaste objectstructuur.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/create-marketo-custom-objects-13.png)
 
-1. Klikken **Aangepaste Marketo-objecten**.
+1. Klik op **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/create-marketo-custom-objects-14.png)
 
-1. Klikken **Nieuw aangepast object**.
+1. Klik op **[!UICONTROL New Custom Object]**.
 
    ![](assets/create-marketo-custom-objects-15.png)
 
-1. Voer een weergavenaam in. De API-naam en de meervoudige naam worden automatisch ingevuld. Voer een beschrijving in (optioneel).
+1. Voer een [!UICONTROL Display Name]. De [!UICONTROL API Name] en [!UICONTROL Plural Name] automatisch vullen. Voer een [!UICONTROL Description] (optioneel).
 
    ![](assets/create-marketo-custom-objects-16.png)
 
    >[!NOTE]
    >
-   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat u ze hebt opgeslagen, kunt u alleen het veld Muurnaam en de schuifregelaar Tonen in regelafstandgegevens bewerken.
+   >U kunt deze velden bewerken wanneer u ze maakt, maar nadat ze zijn opgeslagen, kunt u alleen de [!UICONTROL Plural Name] en [!UICONTROL Show in Lead Detail] schuifregelaar.
 
-1. Trek de **Tonen in gegevens over lead** schuifregelaar om weer te geven **Tonen** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klikken **Opslaan**.
+1. Trek de **[!UICONTROL Show in Lead Detail]** schuifregelaar om weer te geven **Tonen** als u de gegevens van douaneobjecten op de pagina van het Gegevensbestand wilt bekijken. Klikken **Opslaan**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 

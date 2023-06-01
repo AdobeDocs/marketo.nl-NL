@@ -3,9 +3,9 @@ unique-page-id: 10094188
 description: Een aangepast object goedkeuren - Marketo Docs - Productdocumentatie
 title: Een aangepast object goedkeuren
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
-source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ U moet een aangepast object goedkeuren voordat u het kunt gebruiken. Het proces 
 
 U hebt een gloednieuw aangepast object gemaakt. Hier is hoe je het goedkeurt.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. Klikken **Aangepaste Marketo-objecten**.
+1. Klik op **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -30,11 +30,11 @@ U hebt een gloednieuw aangepast object gemaakt. Hier is hoe je het goedkeurt.
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. Klik op de knop **Handelingen voor aangepaste objecten** vervolgkeuzelijst en selecteer **Object goedkeuren**.
+1. Klik op de knop **[!UICONTROL Custom Object Actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Approve Object]**.
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. De status verandert in Goedgekeurd.
+1. De status verandert in [!UICONTROL Approved].
 
    ![](assets/approve-a-custom-object-5.png)
 
@@ -54,14 +54,14 @@ Dat is het! U kunt nu uw aangepaste object selecteren met de beperkingen van de 
 
 Nadat u een goedgekeurd aangepast object hebt bewerkt, moet u het concept goedkeuren om het aangepaste object terug te brengen naar de status Goedgekeurd.
 
-1. Wanneer u een reeds goedgekeurd douanevoorwerp uitgeeft, ontvangt het een Goedgekeurd met de staat van het Ontwerp.
+1. Wanneer u een reeds goedgekeurd douanevoorwerp uitgeeft, ontvangt het [!UICONTROL Approved with Draft] status.
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. Als u klaar bent om het concept goed te keuren, klikt u op de knop **Handelingen voor aangepaste objecten** vervolgkeuzelijst en selecteer **Object goedkeuren**.
+1. Als u klaar bent om het concept goed te keuren, klikt u op de knop **[!UICONTROL Custom Object Actions]** vervolgkeuzelijst en selecteer **[!UICONTROL Approve Object]**.
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. In een voorvertoning worden de gewijzigde items in het concept weergegeven. Klikken **Goedkeuren**.
+1. In een voorvertoning worden de gewijzigde items in het concept weergegeven. Klik op **[!UICONTROL Approve]**.
 
    ![](assets/approve-a-custom-object-8.png)

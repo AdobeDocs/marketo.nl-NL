@@ -3,9 +3,9 @@ unique-page-id: 10097613
 description: Aangepaste Marketo-objectkoppelingsvelden toevoegen - Marketo Docs - Productdocumentatie
 title: Aangepaste Marketo-objectkoppelingsvelden toevoegen
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
-source-git-commit: a51ee0b2b513d50febbffd7e3a72874c5ef4679c
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Wanneer u aangepaste objecten maakt, moet u koppelingsvelden opgeven om de aange
 
 Hieronder wordt beschreven hoe u een koppelingsveld maakt in een aangepast object voor een een-op-een-structuur.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
-1. Klikken **Aangepaste Marketo-objecten**.
+1. Klik op **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/add-marketo-custom-object-link-fields-2.png)
 
@@ -33,29 +33,29 @@ Hieronder wordt beschreven hoe u een koppelingsveld maakt in een aangepast objec
 
    ![](assets/add-marketo-custom-object-link-fields-3.png)
 
-1. In de **Velden** tabblad, klikt u op **Nieuw veld**.
+1. In de **[!UICONTROL Fields]** tabblad, klikt u op **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. Geef het koppelingsveld een naam en voeg een optionele beschrijving toe. Selecteer het gegevenstype Koppeling.
+1. Geef het koppelingsveld een naam en voeg een optioneel veld toe [!UICONTROL Description]. Zorg ervoor dat u de [!UICONTROL Link] gegevenstype.
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >U kunt niet terug gaan en een Verbinding of Dedupe- Gebied creëren uitgeven of schrappen zodra het douanevoorwerp wordt goedgekeurd.
+   >U kunt niet teruggaan om een [!UICONTROL Link] of [!UICONTROL Dedupe Field] nadat het aangepaste object is goedgekeurd.
 
-1. Selecteer of het koppelingsobject voor een lead (persoon) of een bedrijf is.
+1. Selecteer of [!UICONTROL Link Object] is voor een [!UICONTROL lead] (persoon) of [!UICONTROL company].
 
    ![](assets/add-marketo-custom-object-link-fields-6.png)
 
    >[!NOTE]
    >
-   >Als u lood kiest, zult u identiteitskaart, e-mailadres, en om het even welke douanevelden in de lijst zien.
+   >Als u [!UICONTROL lead], ziet u Id, e-mailadres en eventuele aangepaste velden in de lijst.
    >
-   >Als u bedrijf kiest, ziet u Id en eventuele aangepaste velden in de lijst.
+   >Als u [!UICONTROL company], ziet u Id en eventuele aangepaste velden in de lijst.
 
-1. Selecteer het koppelingsveld waarmee u verbinding wilt maken als het bovenliggende veld van het nieuwe veld.
+1. Selecteer [!UICONTROL Link Field] Als u verbinding wilt maken met het bovenliggende element van het nieuwe veld.
 
    ![](assets/add-marketo-custom-object-link-fields-7.png)
 
@@ -63,7 +63,7 @@ Hieronder wordt beschreven hoe u een koppelingsveld maakt in een aangepast objec
    >
    >Alleen typen tekenreeksvelden worden ondersteund in het koppelingsveld.
 
-1. Klikken **Opslaan.**
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/add-marketo-custom-object-link-fields-8.png)
 
@@ -75,11 +75,11 @@ Hier is hoe te om een verbindingsgebied in een intermediair voorwerp voor gebrui
 >
 >U moet het intermediaire object al hebben gemaakt en alle aangepaste objecten die u wilt koppelen.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 
-1. Klikken **Aangepaste Marketo-objecten**.
+1. Klik op **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/add-marketo-custom-object-link-fields-10.png)
 
@@ -87,35 +87,35 @@ Hier is hoe te om een verbindingsgebied in een intermediair voorwerp voor gebrui
 
    ![](assets/add-marketo-custom-object-link-fields-11.png)
 
-1. In de **Velden** tabblad, klikt u op **Nieuw veld**.
+1. In de **[!UICONTROL Fields]** tabblad, klikt u op **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. U moet twee koppelingsvelden maken. Maak ze een voor een. Geef eerst het veld een naam voor de leden van de databaselijst (bijvoorbeeld leadID). Voeg een optionele beschrijving toe. Selecteer het gegevenstype van de koppeling.
+1. U moet twee koppelingsvelden maken. Maak ze een voor een. Geef eerst het veld een naam voor de leden van de databaselijst (bijvoorbeeld leadID). Een optioneel object toevoegen [!UICONTROL Description]. Zorg ervoor dat u de [!UICONTROL link] [!UICONTROL Data Type].
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >U kunt niet terug gaan en een Verbinding of Dedupe- Gebied creëren uitgeven of schrappen zodra het douanevoorwerp wordt goedgekeurd.
+   >U kunt niet teruggaan om een [!UICONTROL Link] of [!UICONTROL Dedupe Field] nadat het aangepaste object is goedgekeurd.
 
-1. Selecteer het koppelingsobject in uw database, in dit geval Lead.
+1. Selecteer [!UICONTROL Link Object] uit uw database; in dit geval [!UICONTROL Lead].
 
    ![](assets/add-marketo-custom-object-link-fields-14.png)
 
-1. Selecteer het koppelingsveld waarmee u verbinding wilt maken, in dit geval Id.
+1. Selecteer [!UICONTROL Link Field] u wilt in dit geval verbinding maken met [!UICONTROL Id].
 
    ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
-   >Alleen typen tekenreeksvelden worden ondersteund in het koppelingsveld.
+   >Alleen tekenreeksveldtypen worden ondersteund in het dialoogvenster [!UICONTROL Link Field].
 
-1. Klikken **Opslaan.**
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 
-1. Herhaal dit proces voor de tweede koppeling naar uw aangepaste object, in dit voorbeeld, cursusID. De naam van het Object van de Verbinding zal cursus zijn, en het Gebied van de Verbinding zal cursusID zijn. Aangezien u het aangepaste cursusobject al hebt gemaakt en goedgekeurd, zijn deze selecties beschikbaar in de vervolgkeuzemenu&#39;s.
+1. Herhaal dit proces voor de tweede koppeling naar uw aangepaste object, in dit voorbeeld, cursusID. De [!UICONTROL Link Object] de naam is een cursus en de [!UICONTROL Link Field] wordt cursusnummer. Aangezien u het aangepaste cursusobject al hebt gemaakt en goedgekeurd, zijn deze selecties beschikbaar in de vervolgkeuzemenu&#39;s.
 
    ![](assets/add-marketo-custom-object-link-fields-17.png)
 

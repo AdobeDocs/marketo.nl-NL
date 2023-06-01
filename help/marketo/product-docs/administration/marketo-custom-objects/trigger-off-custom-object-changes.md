@@ -3,9 +3,9 @@ unique-page-id: 11378713
 description: Aangepaste objectwijzigingen activeren - Marketo Docs - Productdocumentatie
 title: Aangepaste objectwijzigingen activeren
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,8 @@ ht-degree: 0%
 >
 >Deze functie is alleen beschikbaar:
 >
->* Voor klanten op de Orion-infrastructuur
->* Alleen voor gebruik met aangepaste Marketo-objecten, niet met aangepaste objecten die zijn gesynchroniseerd via de integratie met Salesforce of Microsoft Dynamics
+>* Voor klanten in de [!DNL Orion] infrastructuur
+>* Alleen voor gebruik met aangepaste Marketo-objecten, niet aangepaste objecten die via het native object zijn gesynchroniseerd [!DNL Salesforce] of [!DNL Microsoft Dynamics] integratie
 >* Als trigger, geen filter
 >
 >Neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) als u Aangepaste objectwijzigingstriggers wilt inschakelen.
@@ -28,7 +28,7 @@ In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen
 >
 >Een item in het activiteitenlogboek wordt niet gemaakt wanneer een record van een aangepast object wordt gewijzigd.
 
-1. Ga in Marketo naar **Marketingactiviteiten.**
+1. Ga in Marketo Engage naar **[!UICONTROL Marketing Activities]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ In de slimme lijst van een slimme campagne, kunt u een stroomactie teweegbrengen
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Selecteer het triggerkenmerk.
+1. Selecteer [!UICONTROL trigger attribute].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

@@ -3,10 +3,10 @@ unique-page-id: 10093690
 description: Een aangepast Marketo-object bewerken en verwijderen - Marketo Docs - Productdocumentatie
 title: Een aangepast Marketo-object bewerken en verwijderen
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
-source-git-commit: 99b11e17e9c2255a19c658b166e7b38c45cf1001
+source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 0%
+source-wordcount: '245'
+ht-degree: 2%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 Met het menu Acties voor aangepaste objecten kunt u een aangepast object bewerken of verwijderen.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
-1. Klikken **Aangepaste Marketo-objecten**.
+1. Klik op **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-2.png)
 
@@ -32,11 +32,11 @@ Met het menu Acties voor aangepaste objecten kunt u een aangepast object bewerke
 
    ![](assets/edit-and-delete-a-marketo-custom-object-3.png)
 
-1. Klik op de knop **Handelingen voor aangepaste objecten** en klik op **Object bewerken**.
+1. Klik op de knop **[!UICONTROL Custom Object Actions]** en klik op **[!UICONTROL Edit Object]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
-1. Breng de gewenste wijzigingen aan. Sleep de schuifregelaar om het object weer te geven op de pagina Details lead. Klikken **Opslaan**.
+1. Breng de gewenste wijzigingen aan. Sleep de schuifregelaar om het object weer te geven op de pagina Details lead. Klik op **[!UICONTROL Save]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
@@ -44,17 +44,17 @@ Met het menu Acties voor aangepaste objecten kunt u een aangepast object bewerke
 
 ## Een aangepast object verwijderen {#delete-a-custom-object}
 
-Het is gemakkelijk om een douanevoorwerp te schrappen, maar u moet voorzichtig zijn. Aangepaste objecten kunnen worden verbonden met andere objecten of met slimme lijsten. Marketo waarschuwt u dus voordat u op **Verwijderen**.
+Het is gemakkelijk om een douanevoorwerp te schrappen, maar u moet voorzichtig zijn. Aangepaste objecten kunnen worden verbonden met andere objecten of met slimme lijsten. Marketo waarschuwt u dus voordat u op **[!UICONTROL Delete]**.
 
 >[!CAUTION]
 >
 >U kunt een aangepast object niet meer herstellen nadat u het hebt verwijderd.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 
-1. Klikken **Aangepaste Marketo-objecten**.
+1. Klik op **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-7.png)
 
@@ -62,19 +62,19 @@ Het is gemakkelijk om een douanevoorwerp te schrappen, maar u moet voorzichtig z
 
    ![](assets/edit-and-delete-a-marketo-custom-object-8.png)
 
-1. Klikken **Handelingen voor aangepaste objecten** en selecteert u **Object verwijderen**.
+1. Klik op **[!UICONTROL Custom Object Actions]** en selecteer **[!UICONTROL Delete Object]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-9.png)
 
    >[!TIP]
    >
-   >U kunt ook met de rechtermuisknop op het object klikken en **Object verwijderen**.
+   >U kunt ook met de rechtermuisknop op het object klikken en **[!UICONTROL Delete Object]**.
 
-1. Als het aangepaste object een conceptversie heeft en nog niet is goedgekeurd, wordt deze waarschuwing weergegeven. Als u zeker bent, klikt u op **Verwijderen**.
+1. Als het aangepaste object een conceptversie heeft en nog niet is goedgekeurd, wordt deze waarschuwing weergegeven. Als u zeker bent, klikt u op **[!UICONTROL Delete]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. Als het aangepaste object al is goedgekeurd, is er een groter risico als u het verwijdert. Je krijgt een sternerlijke waarschuwing. Enter **Ik begrijp**, controleert u de **Ongedaan maken is niet mogelijk** selectievakje en klik op **Verwijderen**.
+1. Als het aangepaste object al is goedgekeurd, is er een groter risico als u het verwijdert. Je krijgt een sternerlijke waarschuwing. Enter **[!UICONTROL I understand]**, controleert u de **[!UICONTROL Cannot Undo]** selectievakje en klik op **[!UICONTROL Delete]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 
