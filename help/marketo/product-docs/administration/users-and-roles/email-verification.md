@@ -2,9 +2,9 @@
 description: E-mailverificatie - Marketo Docs - Productdocumentatie
 title: E-mailverificatie
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: e104a8bd41d61451202ba089512dc688680292ce
+source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Wanneer een Admin een gebruiker uitnodigt, wordt die gebruiker automatisch gever
 
 ## Verificatiebericht {#verification-email}
 
-Uitgenodigde gebruikers ontvangen de volgende e-mail:
+Gebruikers ontvangen de volgende e-mail wanneer e-mailverificatie wordt geactiveerd voor een abonnement of als deze wordt geactiveerd door een beheerder/gebruiker:
 
 ![](assets/email-verification-1.png)
 
