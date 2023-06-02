@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
+source-git-commit: 4959a5780ae89f7b715485e9106aa275f2b155a1
 workflow-type: tm+mt
-source-wordcount: '8890'
+source-wordcount: '8900'
 ht-degree: 0%
 
 ---
@@ -1373,6 +1373,11 @@ ht-degree: 0%
                + [Bulke-mails samenstellen met Selecteren en Verzenden](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md)
                + [E-mailberichten verzenden via e-mail voor groep](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
                + [Een sjabloon gebruiken in het venster Samenstellen](product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+         + E-mailintegratie {#email-integrations}
+            + Gmail {#gmail}
+               + [Verbinding maken met Gmail](product-docs/marketo-sales-insight/actions/email-integrations/gmail/connect-to-gmail.md)
+            + Outlook {#outlook}
+               + [Verbinding maken met Outlook](product-docs/marketo-sales-insight/actions/email-integrations/outlook/connect-to-outlook.md)
          + Veelgestelde vragen {#faq}
             + [Kan ik een door mij verwijderde contactpersoon of groep herstellen?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Kan ik meerdere ontvangers bijhouden met CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
