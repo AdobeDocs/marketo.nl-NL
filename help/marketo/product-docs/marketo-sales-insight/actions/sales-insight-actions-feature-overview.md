@@ -2,9 +2,9 @@
 description: Overzicht van Sales Insight Actions - Marketo Docs - Productdocumentatie
 title: Overzicht van de functie Handelingen Handelingen in het verkoopoverzicht
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '1360'
+source-wordcount: '1392'
 ht-degree: 0%
 
 ---
@@ -13,13 +13,15 @@ ht-degree: 0%
 
 Versnel de prospectieve inspanningen met marketing-aangedreven intelligentie en betrokkenheidshulpmiddelen in één enkele werkschema gebruikend de Acties van het Inzicht van de Verkoop.
 
+>[!NOTE]
+>
+>Marketo Sales Insight Actions is een webtoepassing die via de [Marketo Sales Insight-pakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
+
 >[!AVAILABILITY]
 >
 >Deze functie wordt momenteel aan alle gebruikers van het Inzicht van de Verkoop uitgevoerd. Stuur een e-mail naar `sales-insights(at)adobe(dot)com`.
 
->[!NOTE]
->
->Voor een video-overzicht van Handelingen van het Inzicht van de Verkoop, [klik hier](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
+Voor een video-overzicht van Handelingen van het Inzicht van de Verkoop, [klik hier](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 

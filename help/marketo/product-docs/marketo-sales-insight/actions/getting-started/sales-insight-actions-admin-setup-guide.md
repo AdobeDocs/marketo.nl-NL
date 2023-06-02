@@ -2,14 +2,18 @@
 description: Handelingen Admin Setup-handleiding voor het toezicht op de verkoop - Marketo Docs - Productdocumentatie
 title: Handleiding voor installatie van Admin Setup voor het inzicht in verkoop
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '594'
+source-wordcount: '626'
 ht-degree: 0%
 
 ---
 
 # Handleiding voor installatie van Admin Setup voor het inzicht in verkoop {#sales-insight-actions-admin-setup-guide}
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions is een webtoepassing die via de [Marketo Sales Insight-pakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
 >[!PREREQUISITES]
 >

@@ -2,16 +2,20 @@
 description: Limieten voor productgebruik - Marketo-documenten - productdocumentatie
 title: Limieten voor productgebruik
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
-source-git-commit: 679f003e615544679b7f98dd93e2e4f23ec83ee5
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '231'
+ht-degree: 11%
 
 ---
 
 # Limieten voor productgebruik {#product-usage-limits}
 
-De volgende limieten gelden voor het gebruik van uitgebreide mogelijkheden voor verkoopovereenkomst die beschikbaar zijn bij Handelingen voor verkoopinzicht.
+Hieronder vindt u de limieten die gelden voor het gebruik van de uitgebreide mogelijkheden voor verkoopovereenkomst die beschikbaar zijn bij Handelingen voor verkoopinzicht.
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions is een webtoepassing die via de [Marketo Sales Insight-pakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
 <table>
   <th>Functionaliteit</th>

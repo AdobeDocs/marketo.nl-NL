@@ -2,14 +2,18 @@
 description: Handelingen voor het toezicht op de verkoop Gebruikershandleiding voor instapkaarten - Marketo Docs - Productdocumentatie
 title: Handleiding voor het toezicht op de verkoop
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f2f81167066c2f170f81308b2deec52d19efafb3
+source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
 
 # Handleiding voor het toezicht op de verkoop {#sales-insight-actions-user-onboarding-guide}
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions is een webtoepassing die via de [Marketo Sales Insight-pakket](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. Het wordt soms bedoeld als &quot;Verkoop van Marketo,&quot;of eenvoudig &quot;Acties.&quot;
 
 >[!PREREQUISITES]
 >
