@@ -1,31 +1,29 @@
 ---
 description: Afbeeldingseditor - Marketo Docs - Productdocumentatie
 title: Afbeeldingseditor
-hide: true
-hidefromtoc: true
-source-git-commit: 4a33b192cc22550c75769b383e261ac0a86e7ddb
+source-git-commit: 178100fd0e30ed45632c80c3e9d288c6ff2a3a76
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Afbeeldingseditor
+# Afbeeldingseditor {#image-editor}
 
 Met de afbeeldingseditor kunt u snel en licht bewerken in uw afbeeldingen in Marketo Engage.
 
 1. Ga naar de **[!UICONTROL Design Studio]**.
 
-PICC
+   ![](assets/image-editor-1.png)
 
-1. De afbeelding zoeken ([!UICONTROL Recent Design Studio Assets] of [!UICONTROL Images & Files]) en klik op de bestandsnaam ervan.
+1. Zoek en selecteer de afbeelding.
 
-PICC
+   ![](assets/image-editor-2.png)
 
 1. Klik op de knop **[!UICONTROL Edit Image]** knop.
 
-PICC
+   ![](assets/image-editor-3.png)
 
 1. U kunt kiezen uit verschillende functies in de werkbalk bovenaan. Klikken **[!UICONTROL Save]** wanneer gereed.
 
-PICC
+   ![](assets/image-editor-4.png)
