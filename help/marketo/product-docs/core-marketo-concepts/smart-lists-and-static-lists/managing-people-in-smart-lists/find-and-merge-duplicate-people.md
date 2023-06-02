@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Dubbele personen zoeken en samenvoegen - Marketo Docs - Productdocumentatie
 title: Dubbele personen zoeken en samenvoegen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+source-git-commit: 780071242a608706e06f3026150c43441a29faa5
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '439'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,23 @@ ht-degree: 0%
 
 Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. Uw CRM heeft echter mogelijk in eerste instantie dubbele gegevens naar Marketo verzonden. Hieronder wordt beschreven hoe u ze samenvoegt.
 
->[!NOTE]
+>[!CAUTION]
 >
->Marketo wordt niet automatisch gededupliceerd bij een synchronisatie met Salesforce of Microsoft Dynamics of wanneer u handmatig personen invoert.
+>Het samenvoegen van mensen is permanent, er is geen optie &quot;ongedaan maken&quot;.
 
 >[!PREREQUISITES]
 >
 >Bij het zoeken naar en het samenvoegen van duplicaten wordt gebruik gemaakt van [ingebouwde/systeem slimme lijsten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
 
+>[!NOTE]
+>
+>Marketo wordt niet automatisch gededupliceerd bij een synchronisatie met Salesforce of Microsoft Dynamics of wanneer u handmatig personen invoert.
+
 ## Duplicaten zoeken {#find-duplicates}
 
 1. Ga naar de **Database** gebied.
 
-   ![](assets/db.png)
+   ![](assets/find-and-merge-duplicate-people-1.png)
 
    >[!CAUTION]
    >
@@ -34,7 +38,7 @@ Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. U
 
 1. Selecteer **Mogelijke duplicaten** de slimme lijst van het systeem en klik op **Mensen** tab.
 
-   ![](assets/two.png)
+   ![](assets/find-and-merge-duplicate-people-2.png)
 
    >[!NOTE]
    >
@@ -48,7 +52,7 @@ Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. U
 
 1. Selecteer de duplicaten door Ctrl/Cmd ingedrukt te houden en te klikken en klik vervolgens op **Personen samenvoegen**.
 
-   ![](assets/three.png)
+   ![](assets/find-and-merge-duplicate-people-3.png)
 
    >[!TIP]
    >
@@ -56,7 +60,7 @@ Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. U
 
 1. U ziet de waarden tussen de records die _niet_ match. Selecteer de waarde die u voor elk veld wilt behouden. Klikken **Samenvoegen** wanneer gereed. Als u geen van beide waarden wilt, kunt u controleren **Aangepast** en voer een waarde naar keuze in.
 
-   ![](assets/four.png)
+   ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
