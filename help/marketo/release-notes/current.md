@@ -2,9 +2,9 @@
 description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '368'
 ht-degree: 2%
 
 ---
@@ -33,8 +33,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Overzicht van Experience Cloud Interface</a></td>
   </tr>
   </tbody>
 </table>
@@ -75,24 +75,6 @@ Interactieve webinars zullen geleidelijk worden opgebouwd. Vul het formulier in 
   <tr> 
    <td>Uitvoeren gestart</td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Overzicht van interactieve webinars</a></td>
-  </tr>
-  </tbody>
-</table>
-
-### Dynamische chat {#dynamic-chat}
-
-</br>
-
-* **Chatbron voor dynamische chattekst**: Chat wordt nu aangeboden als een bron van records en activiteiten van nieuwe personen. Deze bron kan worden gebruikt om gebruikers te helpen activiteiten in Slimme Lijsten/Campagnes filtreren. De bron kan ook worden geblokkeerd door updates op velden.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
