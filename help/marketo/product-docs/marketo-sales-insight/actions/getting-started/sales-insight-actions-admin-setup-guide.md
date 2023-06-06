@@ -2,7 +2,7 @@
 description: Handelingen Admin Setup-handleiding voor het toezicht op de verkoop - Marketo Docs - Productdocumentatie
 title: Handleiding voor installatie van Admin Setup voor het inzicht in verkoop
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+source-git-commit: 7249a7e7cd1879d35fedef0a6e3568fbc2872ef9
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
@@ -138,7 +138,7 @@ Persoonlijke gegevens die in Marketo en Salesforce bestaan, worden gesynchronise
 
 >[!NOTE]
 >
->Meer informatie over hoe mensen en activiteitengegevens tussen de Acties van het Inzicht van de Verkoop, Marketo, en Salesforce synchroniseren, [klik hier](/help/marketo/product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md){target="_blank"}.
+>Meer informatie over hoe mensen en activiteitengegevens tussen de Acties van het Inzicht van de Verkoop, Marketo, en Salesforce synchroniseren, [klik hier](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## Individuele gebruikers uitnodigen voor MSI-handelingen {#invite-individual-users-to-msi-actions}
 
