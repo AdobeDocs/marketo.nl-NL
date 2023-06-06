@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 4959a5780ae89f7b715485e9106aa275f2b155a1
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '8900'
+source-wordcount: '8904'
 ht-degree: 0%
 
 ---
@@ -1310,7 +1310,6 @@ ht-degree: 0%
                + [Uw e-mailhandtekening toevoegen of bijwerken](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md)
                + [Identiteit toevoegen](product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-identity.md)
          + Beheer {#admin}
-            + [Veelgestelde vragen over gegevenssynchronisatie voor handelingen](product-docs/marketo-sales-insight/actions/admin/actions-data-sync-faq.md)
             + [Automatisch aanmelden bij Salesforce](product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)
             + [Geblokkeerde domeinen](product-docs/marketo-sales-insight/actions/admin/blocked-domains.md)
             + [Nieuwe beheerder verbinden met Marketo](product-docs/marketo-sales-insight/actions/admin/connect-new-admin-to-marketo.md)
@@ -1320,6 +1319,7 @@ ht-degree: 0%
             + [Gebruikers en beheerders uitnodigen](product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md)
             + [Aanmeldingsbeheerinstellingen](product-docs/marketo-sales-insight/actions/admin/login-management-settings.md)
             + [Instellingen voor delen](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
+            + [Verkoopgegevens synchroniseren met Marketo en Salesforce](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [Toegangsgegevens gebruiker](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
          + Analyse {#analytics}
             + [Overzicht van pagina Analytics](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)

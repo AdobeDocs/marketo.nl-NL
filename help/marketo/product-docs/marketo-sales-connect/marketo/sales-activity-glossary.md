@@ -2,9 +2,9 @@
 description: Verklarende woordenlijst Verkoopactiviteiten - Marketo-documenten - Productdocumentatie
 title: Verklarende woordenlijst Verkoopactiviteiten
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
-source-git-commit: d261da2a2784ab322ef78fe22ef3d6b4321fc806
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '533'
 ht-degree: 1%
 
 ---
@@ -194,6 +194,22 @@ De onderstaande activiteiten worden vanuit Sales Connect aangemeld bij Marketo.
  </tr>
  <tr>
   <td>Verkoopcampagne-id</td>
+ </tr>
+ <tr>
+  <th rowspan="5">Bounce voor e-mail verkopen</th>
+  <td>Details</td>
+ </tr>
+ <tr>
+  <td>E-mail</td>
+ </tr>
+ <tr>
+  <td>Verzonden door</td>
+ </tr>
+ <tr>
+  <td>Marketo-gebruikersnaam</td>
+ </tr>
+ <tr>
+  <td>Sjabloon-id</td>
  </tr>
 </table>
 

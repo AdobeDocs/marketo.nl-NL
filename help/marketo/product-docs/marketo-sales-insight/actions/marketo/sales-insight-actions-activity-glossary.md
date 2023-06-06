@@ -2,9 +2,9 @@
 description: Activiteitenlijst van de Acties van het Inzicht van de Verkoop - de Documenten van Marketo - de Documentatie van het Product
 title: Overzicht van de activiteiten van Handelingen van het Inzicht van de verkoop
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
 workflow-type: tm+mt
-source-wordcount: '541'
+source-wordcount: '554'
 ht-degree: 1%
 
 ---
@@ -194,6 +194,22 @@ De activiteiten hieronder zullen aan Marketo van de Acties van het Inzicht van d
  </tr>
  <tr>
   <td>Verkoopcampagne-id</td>
+ </tr>
+ <tr>
+  <th rowspan="5">Bounce voor e-mail verkopen</th>
+  <td>Details</td>
+ </tr>
+ <tr>
+  <td>E-mail</td>
+ </tr>
+ <tr>
+  <td>Verzonden door</td>
+ </tr>
+ <tr>
+  <td>Marketo-gebruikersnaam</td>
+ </tr>
+ <tr>
+  <td>Sjabloon-id</td>
  </tr>
 </table>
 
