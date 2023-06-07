@@ -1,12 +1,10 @@
 ---
 description: Waarom worden mijn dynamische velden niet opgevuld - Marketo Docs - productdocumentatie
 title: Waarom vullen mijn dynamische velden niet uit
-hide: true
-hidefromtoc: true
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
-source-git-commit: f77a076c243c25f3bff98a82751f51c464712795
+source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -27,9 +25,9 @@ Salesforce-velden: bijv. `{{sfdc_account_name}}`
 
 **Problemen met basisvelden en aangepaste velden oplossen**
 
-Basisvelden voor tinten: bijv. `{{company}}`
+Basisvelden van Marketo Sales Insight-acties: bijv. `{{company}}`
 
-Aangepaste Tout-velden: bijv. `{{custom_field_favorite_movie}}`
+Marketo Sales Insight Actions Custom Fields: bijv. `{{custom_field_favorite_movie}}`
 
 * Het corresponderende veld moet worden opgeslagen voor uw contactpersoon in het dialoogvenster [Personen, pagina](https://toutapp.com/next#relationships) voor ons dynamische veld. Als u bijvoorbeeld een e-mail naar Mary stuurt en de `{{company}}` veld, maar haar contactrecord vermeldt geen bedrijf, dat kunnen we niet invullen.
 
