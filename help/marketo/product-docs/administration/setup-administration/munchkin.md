@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504874
-description: Munchkin - Marketo Docs - Productdocumentatie
-title: Munchkin
+description: "[!DNL Munchkin] - Marketo Docs - Productdocumentatie"
+title: "[!DNL Munchkin]"
 exl-id: 3f9303d4-f534-4ce0-9cde-baa7bba3c7f4
-source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Munchkin {#munchkin}
+# [!DNL Munchkin] {#munchkin}
 
-Munchkin is het JavaScript-fragment dat u op uw website hebt geplaatst. Er worden bezoeken bijgehouden, er wordt geklikt en er worden formulieren ingevuld. Het heeft ook een rijke API om allerlei leuke dingen te doen.
+[!DNL Munchkin] Dit is het JavaScript-fragment dat u op uw website hebt geplaatst. Er worden bezoeken bijgehouden, er wordt geklikt en er worden formulieren ingevuld. Het heeft ook een rijke API om allerlei leuke dingen te doen.
 
-Kijk uit de [ontwikkelaarspagina op Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target=&quot;_blank&quot;}.
+Kijk uit de [ontwikkelaarspagina op [!DNL Munchkin]](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/){target="_blank"} voor meer informatie.

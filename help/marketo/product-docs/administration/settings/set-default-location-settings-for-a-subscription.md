@@ -3,10 +3,10 @@ unique-page-id: 2359902
 description: Standaardinstellingen voor locatie instellen voor een abonnement - Marketo Docs - Productdocumentatie
 title: Standaardinstellingen voor locatie instellen voor een abonnement
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 0%
+source-wordcount: '235'
+ht-degree: 1%
 
 ---
 
@@ -22,25 +22,25 @@ In dit artikel wordt beschreven hoe een beheerder de standaardlocatie-instelling
 
 Wanneer een beheerder de standaardlocatie-instellingen wijzigt, nemen nieuwe gebruikers deze instellingen over. Gebruikers kunnen altijd [hun taal-, landinstellingen- en tijdzonevoorkeuren wijzigen](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) op hun individuele rekeningen.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/set-default-location-settings-for-a-subscription-1.png)
 
-1. Klikken **Locatie**.
+1. Klik op **[!UICONTROL Location]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-2.png)
 
-1. Klikken **Bewerken**.
+1. Klik op **[!UICONTROL Edit]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-3.png)
 
    Dit abonnement is gemaakt in het Engels. Stel dat u in Londen was en de standaardlandinstelling en tijdzone wilde wijzigen. De landinstelling bepaalt de opmaak voor getallen, datums en tijden.
 
-1. Selecteer **Landinstelling** en wijzig deze in **Engels** (Verenigd Koninkrijk).
+1. Selecteer **[!UICONTROL Locale]** en wijzig deze in **[!UICONTROL English (United Kingdom)]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-4.png)
 
-1. Kies ten slotte de gewenste **Tijdzone**.
+1. Kies ten slotte de gewenste **[!UICONTROL Time Zone]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-5.png)
 
@@ -52,11 +52,11 @@ Wanneer een beheerder de standaardlocatie-instellingen wijzigt, nemen nieuwe geb
 
 Als u de standaardlandinstelling voor uw gebruikers wijzigt, kunt u ook de instellingen voor de valutaopmaak wijzigen.
 
-1. Klikken **Bewerken** in Subscription Currency Settings.
+1. Klikken **[!UICONTROL Edit]** in [!UICONTROL Subscription Currency Settings].
 
    ![](assets/set-default-location-settings-for-a-subscription-6.png)
 
-1. Selecteer de gewenste valutaopmaak en klik op **Opslaan**.
+1. Selecteer de gewenste valutaopmaak en klik op **[!UICONTROL Save]**.
 
    ![](assets/set-default-location-settings-for-a-subscription-7.png)
 
@@ -65,4 +65,3 @@ Als u de standaardlandinstelling voor uw gebruikers wijzigt, kunt u ook de inste
 >[!MORELIKETHIS]
 >
 >* [Taal, landinstelling en tijdzone selecteren](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
-

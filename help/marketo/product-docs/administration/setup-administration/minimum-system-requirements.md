@@ -3,7 +3,7 @@ unique-page-id: 2359900
 description: Minimale systeemvereisten - Marketo Docs - Productdocumentatie
 title: Minimale systeemvereisten
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
-source-git-commit: 6553f7112859c3e68ae798cab630ed3dce4765ea
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 0%
@@ -18,10 +18,10 @@ Als je je afvraagt wat je nodig hebt om je aan te melden en Marketo te gebruiken
 >
 >iOS en Android worden nog niet ondersteund.
 
-* Computer of laptop met Windows, OS X of Linux
+* Computer of laptop actief [!DNL Windows], Mac OS X (of hoger) of Linux
 * Toetsenbord en muis
 * Monitor met een minimale resolutie van 1.280 x 768
-* De bijgewerkte browser, zie [Ondersteunde browsers](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target=&quot;_blank&quot;} voor meer informatie
+* De bijgewerkte browser, zie [Ondersteunde browsers](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md){target="_blank"} voor meer informatie
 * Internetverbinding
 
 >[!NOTE]

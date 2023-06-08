@@ -2,10 +2,10 @@
 description: Algemene regels voor formuliervalidatie - Marketo-documenten - productdocumentatie
 title: Algemene regels voor formuliervalidatie
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
-source-git-commit: d9e605d31e9a3434849ba800ba527775885ab34a
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 0%
+source-wordcount: '232'
+ht-degree: 1%
 
 ---
 
@@ -17,15 +17,15 @@ Met deze functie kunt u blokkeren dat bepaalde domeinen naar Marketo Engage-form
 
 Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol inschakelen.
 
-1. Klik in Marketo op **Beheer**.
+1. Klik in Marketo op **[!UICONTROL Admin]**.
 
    ![](assets/global-form-validation-rules-1.png)
 
-1. Klikken **Gebruikers en rollen**.
+1. Klik op **[!UICONTROL Users & Roles]**.
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. Klik op de knop **Rollen** tab.
+1. Klik op de knop **[!UICONTROL Roles]** tab.
 
    ![](assets/global-form-validation-rules-3.png)
 
@@ -37,7 +37,7 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 
    ![](assets/global-form-validation-rules-5.png)
 
-1. Omlaag schuiven en selecteren **Validatieregels voor toegangsformulieren** en klik op **Opslaan**.
+1. Omlaag schuiven en selecteren **[!UICONTROL Access Form Validation Rules]** en klik op **[!UICONTROL Save]**.
 
    ![](assets/global-form-validation-rules-6.png)
 
@@ -47,15 +47,15 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 >
 >Deze regels zijn van toepassing op alle formulieren in uw Marketo Engage-abonnement(en).
 
-1. Klik in Marketo op **Beheer**.
+1. Klik in Marketo op **[!UICONTROL Admin]**.
 
    ![](assets/global-form-validation-rules-7.png)
 
-1. Klikken **Algemene regel voor formuliervalidatie**.
+1. Klik op **[!UICONTROL Global Form Validation Rule]**.
 
    ![](assets/global-form-validation-rules-8.png)
 
-1. Klikken **Nieuwe regel voor formuliervalidatie**.
+1. Klik op **[!UICONTROL New Form Validation Rule]**.
 
    ![](assets/global-form-validation-rules-9.png)
 
@@ -63,7 +63,7 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
    >
    >Met de vervolgkeuzelijst Handelingen formuliervalidatieregel kunt u bestaande regels verwijderen of bewerken.
 
-1. Geef de regel een naam, geef deze een optionele beschrijving en voer het foutbericht in dat de bezoekers van het formulier moeten zien. Voer in het vak Regels het domein of de domeinen in die u wilt blokkeren. Selecteer **Regel activeren** en klik op **Maken**.
+1. Geef de regel een naam, geef deze een optionele beschrijving en voer het foutbericht in dat de bezoekers van het formulier moeten zien. Voer in het vak Regels het domein of de domeinen in die u wilt blokkeren. Selecteer **[!UICONTROL Activate Rule]** en klik op **[!UICONTROL Create]**.
 
    ![](assets/global-form-validation-rules-10.png)
 
@@ -73,14 +73,14 @@ Voordat u deze functie kunt gebruiken, moet u de machtigingen per gewenste rol i
 
 ## Toegang per formulier uitschakelen{#how-to-disable-access-per-form}
 
-Zodra deze optie is ingeschakeld, zijn de regels van toepassing op alle formulieren. Als u echter een formulier met specifieke vereisten hebt en u wilt dat niets wordt afgewezen, kunt u Algemene regels voor formuliervalidatie uitschakelen in de instellingen van het formulier.
+Zodra deze optie is ingeschakeld, zijn de regels van toepassing op alle formulieren. Als u echter een formulier met specifieke vereisten hebt en u wilt dat niets wordt afgewezen, kunt u [!UICONTROL Global Form Validation Rules] in de instellingen van het formulier.
 
-1. Klik in het gewenste formulier op **Formulierinstellingen** vervolgens **Instellingen**.
+1. Klik in het gewenste formulier op **[!UICONTROL Form Settings]** vervolgens **[!UICONTROL Settings]**.
 
    ![](assets/global-form-validation-rules-11.png)
 
-1. Klik op de vervolgkeuzelijst Algemene regels voor formuliervalidatie en kies **Uitgeschakeld**.
+1. Klik op de knop **[!UICONTROL Global Form Validation Rules]** vervolgkeuzelijst en kies **[!UICONTROL Disabled]**.
 
    ![](assets/global-form-validation-rules-12.png)
 
-Als u uw formulier goedkeurt en plaatst, worden de algemene regels voor formuliervalidatie genegeerd.
+Als u het formulier goedkeurt en plaatst, negeert het uw [!UICONTROL Global Form Validation Rules].

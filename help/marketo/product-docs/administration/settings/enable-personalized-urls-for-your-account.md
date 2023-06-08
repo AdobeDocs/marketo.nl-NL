@@ -3,10 +3,10 @@ unique-page-id: 2360215
 description: Persoonlijke URL's voor uw account inschakelen - Marketo Docs - Productdocumentatie
 title: Persoonlijke URL's voor uw account inschakelen
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 2%
 
 ---
 
@@ -18,19 +18,19 @@ Persoonlijke URL&#39;s zijn ideaal voor campagnes voor gedrukte post.
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
-1. Klikken **Openingspagina&#39;s**.
+1. Klik op **[!UICONTROL Landing Pages]**.
 
    ![](assets/enable-personalized-urls-for-your-account-2.png)
 
-1. Klikken **Bewerken**.
+1. Klik op **[!UICONTROL Edit]**.
 
    ![](assets/enable-personalized-urls-for-your-account-3.png)
 
-1. Controleer de **Persoonlijke URL&#39;s inschakelen** en klik op **Opslaan**.
+1. Controleer de **[!UICONTROL Enable Personalized URLs]** en klik op **[!UICONTROL Save]**.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 

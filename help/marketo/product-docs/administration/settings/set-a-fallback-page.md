@@ -3,10 +3,10 @@ unique-page-id: 2359920
 description: Een fallback-pagina instellen - Marketo Docs - Productdocumentatie
 title: Een terugvalpagina instellen
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '58'
+ht-degree: 1%
 
 ---
 
@@ -18,20 +18,19 @@ Terugvalpagina&#39;s zijn de laatste verdedigingsregel als de landingspagina off
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/set-a-fallback-page-1.png)
 
-1. Klikken **Openingspagina&#39;s**.
+1. Klik op **[!UICONTROL Landing Pages]**.
 
    ![](assets/set-a-fallback-page-2.png)
 
-1. Onder de **Openingspagina&#39;s** tabblad, klikt u op **Bewerken**.
+1. Onder de **[!UICONTROL Landing Pages]** tabblad, klikt u op **[!UICONTROL Edit]**.
 
    ![](assets/set-a-fallback-page-3.png)
 
-1. Voer een **Pagina voor alternatieven** in het dialoogvenster en klik op **Opslaan**.
+1. Voer een **[!UICONTROL Fallback page]** in het dialoogvenster en klik op **[!UICONTROL Save]**.
 
    ![](assets/set-a-fallback-page-4.png)
 
-Voilà! Je hebt zojuist een fallback-pagina toegevoegd! Niet meer dan 404 pagina&#39;s.

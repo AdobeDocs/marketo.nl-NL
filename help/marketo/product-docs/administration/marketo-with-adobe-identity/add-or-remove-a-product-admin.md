@@ -2,9 +2,9 @@
 description: Een productbeheerder toevoegen of verwijderen - Marketo Docs - Productdocumentatie
 title: Een productbeheerder toevoegen of verwijderen
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
-source-git-commit: 093d043a0ac368e326c9f7fd05b7098da6274414
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >Er moet een beheerder aan een productprofiel worden toegevoegd om toegang tot Marketo Engage te krijgen.
 
-1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
@@ -33,15 +33,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. Klik op de knop **Admins** tab.
+1. Klik op de knop **[!UICONTROL Admins]** tab.
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. Klik op de knop **Admin toevoegen** knop.
+1. Klik op de knop **[!UICONTROL Add Admin]** knop.
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. Voer het e-mailadres of de gebruikersnaam in van de beheerder die u wilt toevoegen. Voornaam en achternaam zijn optioneel. Klikken **Opslaan**.
+1. Voer het e-mailadres of de gebruikersnaam in van de beheerder die u wilt toevoegen. Voornaam en achternaam zijn optioneel. Klik op **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -49,7 +49,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. Klik onder Producten op het menu met drie punten en selecteer **Bewerken**.
+1. Klik onder Producten op het menu met drie punten en selecteer **[!UICONTROL Edit]**.
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
@@ -57,7 +57,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
@@ -69,7 +69,7 @@ De gebruiker ontvangt dan twee e-mails. In de eerste e-mail worden ze op de hoog
 
 ## Admin verwijderen {#remove-a-user}
 
-1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/).
+1. Aanmelden bij de [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
@@ -81,15 +81,15 @@ De gebruiker ontvangt dan twee e-mails. In de eerste e-mail worden ze op de hoog
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. Klik op de knop **Admins** tab.
+1. Klik op de knop **[!UICONTROL Admins]** tab.
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. Selecteer de beheerder die u wilt verwijderen en klik op de knop **Admin verwijderen** knop.
+1. Selecteer de beheerder die u wilt verwijderen en klik op de knop **[!UICONTROL Remove Admin]** knop.
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. Klikken **Admin verwijderen** ter bevestiging.
+1. Klikken **[!UICONTROL Remove Admin]** ter bevestiging.
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 

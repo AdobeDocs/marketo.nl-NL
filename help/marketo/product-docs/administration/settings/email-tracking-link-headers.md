@@ -2,10 +2,10 @@
 description: Kopteksten van koppelingen voor e-mail bijhouden - Marketo Docs - Productdocumentatie
 title: Koppen van koppeling voor e-mailbeheer
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
-source-git-commit: e9a41359a4a03f323312b61ab5afc820140b6fee
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
 
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 Voer de onderstaande stappen uit om de kopteksten van de koppeling voor het bijhouden van e-mail aan te passen.
 
-1. Klik in Marketo op **Beheer**.
+1. Klik in Marketo op **[!UICONTROL Admin]**.
 
    ![](assets/email-tracking-link-headers-1.png)
 
-1. Klikken **E-mail**.
+1. Klik op **[!UICONTROL Email]**.
 
    ![](assets/email-tracking-link-headers-2.png)
 
-1. Schuif omlaag naar Aangepaste koptekstopties. Kies de gewenste instellingen en klik op **Wijzigingen opslaan**.
+1. Schuif omlaag naar Aangepaste koptekstopties. Kies de gewenste instellingen en klik op **[!UICONTROL Save Changes]**.
 
    ![](assets/email-tracking-link-headers-3.png)
 

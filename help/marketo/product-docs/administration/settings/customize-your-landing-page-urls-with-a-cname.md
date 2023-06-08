@@ -3,9 +3,9 @@ unique-page-id: 2360189
 description: De URL's van uw bestemmingspagina aanpassen met een CNAME (Administration) - Marketo Docs - Productdocumentatie
 title: De URL's van uw bestemmingspagina aanpassen met een CNAME (Beheer)
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -42,15 +42,15 @@ Laten we je oprichten!
 
 1. Zoek de tekenreeks van uw account.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Klikken **Openingspagina&#39;s**.
+1. Klik op **[!UICONTROL Landing Pages]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
-1. Onder de **Openingspagina&#39;s** , kopieert u de tekenreeks Account vanuit het gedeelte Instellingen.
+1. Onder de **[!UICONTROL Landing Pages]** , kopieert u de tekenreeks Account vanuit het gedeelte Instellingen.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
@@ -64,19 +64,19 @@ Laten we je oprichten!
 
 1. Volledige CNAME-instelling.
 
-1. Ga terug naar de **Beheer** gebied.
+1. Ga terug naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Klikken **Openingspagina&#39;s**.
+1. Klik op **[!UICONTROL Landing Pages]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Onder de **Instellingen** sectie, klikt u op **Bewerken**.
+1. Onder de **[!UICONTROL Settings]** sectie, klikt u op **[!UICONTROL Edit]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Voer uw CNAME in **Domeinnaam voor bestemmingspagina&#39;s**, voer uw **Pagina voor alternatieven**, voer uw **Homepage** en klik op **Opslaan**.
+1. Voer uw CNAME in **[!UICONTROL Domain name for Landing Pages]**, voer uw **[!UICONTROL Fallback page]**, voer uw **[!UICONTROL Homepage]** en klik op **[!UICONTROL Save]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

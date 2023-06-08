@@ -3,9 +3,9 @@ unique-page-id: 2360217
 description: Kenmerken wijzigen voor Analytics - Marketo Docs - Productdocumentatie
 title: Kenmerkinstellingen wijzigen voor Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 U kunt de manier veranderen waarop Marketo contacten verbindt met kansen voor eerste en multi-aanraking attributie, lood omzettingsmetriek, en de marketing-beïnvloede opportuniteitsvlag.
 
-Deze montages zullen de rapporten van de Ontdekkingsreiziger van de Opbrengst onder de montages beïnvloeden [Analyse van programmamogelijkheden](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Opportuniteitsanalyse](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), en gebieden van de Analyse van het Lood. Dit zal ook het rapport van de Analysator van het Programma beïnvloeden.
+Deze instellingen zijn van invloed op [!UICONTROL Revenue Explorer] verslagen in het kader van de [Analyse van programmamogelijkheden](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Opportuniteitsanalyse](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md), en gebieden van de Analyse van het Lood. Dit heeft ook gevolgen voor de [!UICONTROL Program Analyzer] verslag.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/change-attribution-settings-for-analytics-1.png)
 
-1. Klikken **Analyse van inkomstencyclus**.
+1. Klik op **[!UICONTROL Revenue Cycle Analytics]**.
 
    ![](assets/change-attribution-settings-for-analytics-2.png)
 
-1. Klik op de knop **Bewerken** link onder **Attributie**.
+1. Klik op de knop **[!UICONTROL Edit]** link onder **[!UICONTROL Attribution]**.
 
    ![](assets/change-attribution-settings-for-analytics-3.png)
 
@@ -32,7 +32,7 @@ Deze montages zullen de rapporten van de Ontdekkingsreiziger van de Opbrengst on
    >
    >Als u deze instelling wijzigt, worden Marketo-gegevens niet gewijzigd. het verandert eenvoudig de manier waarop uw rapporten lopen. Dit kan op elk ogenblik worden omgekeerd.
 
-1. Selecteer een optie en klik op **Opslaan**.
+1. Selecteer een optie en klik op **[!UICONTROL Save]**.
 
    ![](assets/change-attribution-settings-for-analytics-4.png)
 
@@ -40,12 +40,12 @@ Deze montages zullen de rapporten van de Ontdekkingsreiziger van de Opbrengst on
    >
    >**Definitie**
    >
-   >**Expliciet**: Alleen contacten met rollen (standaard).
+   >**[!UICONTROL Explicit]**: Alleen contacten met rollen (standaard).
    >
-   >**Hybride**: Contactpersonen met rollen, indien beschikbaar. Als niets beschikbaar is, gebruikt het alle contacten in rekeningen.
+   >**[!UICONTROL Hybrid]**: Contactpersonen met rollen, indien beschikbaar. Als niets beschikbaar is, gebruikt het alle contacten in rekeningen.
    >
-   >**Impliciet**: Alle contacten ongeacht rol.
+   >**[!UICONTROL Implicit]**: Alle contacten ongeacht rol.
 
 >[!CAUTION]
 >
->Wanneer u **Impliciet**, zal Marketo altijd alle contacten onderzoeken verbonden aan de rekening ongeacht rol. **Marketo raadt sterk aan de expliciete modus te gebruiken**. Het gebruik van Impliciet kan tot valse positieven leiden; dat wil zeggen, mensen die een kans verdienen ondanks het feit dat ze geen echte invloed op de kansen hebben. Wees voorzichtig met Impliciet gebruiken.
+>Wanneer u **[!UICONTROL Implicit]**, zal Marketo altijd alle contacten onderzoeken verbonden aan de rekening ongeacht rol. **Marketo raadt u ten zeerste aan [!UICONTROL Explicit] mode**. Gebruiken [!UICONTROL Implicit] kan leiden tot valse positieven; dat wil zeggen, mensen die een kans verdienen ondanks het feit dat ze geen echte invloed op de kansen hebben. Gebruiken [!UICONTROL Implicit] met voorzichtigheid.

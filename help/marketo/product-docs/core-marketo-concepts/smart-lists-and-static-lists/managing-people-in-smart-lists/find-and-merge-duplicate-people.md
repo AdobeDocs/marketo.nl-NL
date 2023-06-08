@@ -3,9 +3,9 @@ unique-page-id: 557339
 description: Dubbele personen zoeken en samenvoegen - Marketo Docs - Productdocumentatie
 title: Dubbele personen zoeken en samenvoegen
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
-source-git-commit: 780071242a608706e06f3026150c43441a29faa5
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. U
 
 >[!PREREQUISITES]
 >
->Bij het zoeken naar en het samenvoegen van duplicaten wordt gebruik gemaakt van [ingebouwde/systeem slimme lijsten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md).
+>Bij het zoeken naar en het samenvoegen van duplicaten wordt gebruik gemaakt van [ingebouwde/systeem slimme lijsten](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. U
 
    >[!NOTE]
    >
-   >U kunt ook [Dubbele mensen zoeken met aangepaste logica](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md).
+   >U kunt ook [Dubbele mensen zoeken met aangepaste logica](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-duplicate-people-with-custom-logic.md){target="_blank"}.
 
 ## Personen handmatig samenvoegen {#merge-people-manually}
 
@@ -72,18 +72,16 @@ Marketo dedupliceert automatisch wanneer nieuwe personen het systeem betreden. U
 
 ## Effect bij Salesforce {#effect-in-salesforce}
 
-Als je Salesforce-integratie hebt, zijn er een paar notities over het effect van Samenvoegen van Leads in Salesforce.
+Als je Salesforce-integratie hebt, zijn er een paar opmerkingen over het effect van het samenvoegen van Leads in Salesforce.
 
 * Bij het samenvoegen van alleen leads of alleen Contacten worden deze samengevoegd volgens de normale Salesforce-regels.
 * Bij het samenvoegen van leads en contactpersonen worden alle leads geconverteerd naar contactpersonen voordat ze worden samengevoegd volgens de normale Salesforce-regels.
 
 Voor details van Salesforce gedrag wanneer het samenvoegen van Leads of Contacten, gelieve de volgende documenten te controleren Salesforce:
 
-* [Dubbele leads samenvoegen](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US)
-* [Dubbele contactpersonen samenvoegen](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US)
+* [Dubbele leads samenvoegen](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
+* [Dubbele contactpersonen samenvoegen](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
 
 ## Bulksamenvoeging {#bulk-merging}
 
 Als u te veel duplicaten hebt om handmatig samen te voegen, neemt u contact op met het Adobe-accountteam (uw accountmanager) om uw opties te bespreken.
-
-Als u met CRM wordt verbonden, zullen de verslagen daar volgens de hieronder regels samenvoegen.

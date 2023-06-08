@@ -2,9 +2,9 @@
 description: Landingspagina-headers - Marketo Docs - Productdocumentatie
 title: Landingspaginakoppen
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
-source-git-commit: a3acf82afa894160b20dff76fdd5132a234dfbd3
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -13,29 +13,29 @@ ht-degree: 0%
 
 Voer de onderstaande stappen uit om een aantal HTTP-headers in de domeinen van de bestemmingspagina aan te passen.
 
-1. Klik in Marketo op **Beheer**.
+1. Klik in Marketo op **[!UICONTROL Admin]**.
 
    ![](assets/landing-page-headers-1.png)
 
-1. Klikken **Openingspagina&#39;s**.
+1. Klik op **[!UICONTROL Landing Pages]**.
 
    ![](assets/landing-page-headers-2.png)
 
-1. Klikken **Bewerken** naast HTTP-headers van bestemmingspagina.
+1. Klikken **[!UICONTROL Edit]** naast HTTP-headers van bestemmingspagina.
 
    ![](assets/landing-page-headers-3.png)
 
-1. Kies de gewenste instellingen en klik op **Opslaan** wanneer gereed.
+1. Kies de gewenste instellingen en klik op **[!UICONTROL Save]** wanneer gereed.
 
    ![](assets/landing-page-headers-4.png)
 
 <table>
  <tr>
-  <td><strong>Strikt vervoer-veiligheid</strong></td>
+  <td><strong>[!UICONTROL Strict-Transport-Security]</strong></td>
   <td>Gebruik deze optie om te garanderen dat verbindingen met bestemmingspagina's altijd via HTTPS worden aangeboden (moet alleen worden ingesteld voor abonnementen met bestemmingspagina's die zijn beveiligd door SSL)</td>
  </tr>
  <tr>
-  <td><strong>X-frame-opties</strong></td>
+  <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
   <td>Hiermee kunt u bepalen of door Marketo Engage gehoste elementen kunnen worden ingesloten in externe webpagina's</td>
  </tr>
 </table>

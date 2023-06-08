@@ -3,9 +3,9 @@ unique-page-id: 2360305
 description: Een aangepast tabblad maken voor de persoonlijke detailpagina - Marketo Docs - Productdocumentatie
 title: Een aangepast tabblad maken voor de detailpagina voor personen
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Als u steeds weer op zoek bent naar een specifieke set velden in de details van de persoon, kunt u een aangepaste indeling maken om de zaken eenvoudiger te maken.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. Klikken **Veldbeheer**.
+1. Klik op **[!UICONTROL Field Management]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Klik op de knop **Aangepaste layout ontwerpen** tab.
+1. Klik op de knop **[!UICONTROL Custom Layout Designer]** tab.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -38,7 +38,7 @@ Als u steeds weer op zoek bent naar een specifieke set velden in de details van 
    >
    >U hebt twee kolommen om mee te werken.
 
-   Als u een veld wilt verwijderen, klikt u met de rechtermuisknop op het veld dat u wilt verwijderen en klikt u op **Verwijderen**.
+   Als u een veld wilt verwijderen, klikt u met de rechtermuisknop op het veld dat u wilt verwijderen en klikt u op **[!UICONTROL Delete]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 

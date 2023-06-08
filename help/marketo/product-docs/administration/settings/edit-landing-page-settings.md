@@ -3,9 +3,9 @@ unique-page-id: 2359918
 description: Instellingen voor openingspagina bewerken - Marketo Docs - Productdocumentatie
 title: Instellingen openingspagina bewerken
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
-source-git-commit: 07899e541b3624e99e0ead59d898ced2ab4e57af
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/edit-landing-page-settings-1.png)
 
-1. Klikken **Openingspagina&#39;s**.
+1. Klik op **[!UICONTROL Landing Pages]**.
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. In de **Openingspagina&#39;s** sectie, klikt u op **Bewerken**.
+1. In de **[!UICONTROL Landing Pages]** sectie, klikt u op **[!UICONTROL Edit]**.
 
    ![](assets/edit-landing-page-settings-3.png)
 
@@ -36,25 +36,25 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
 
    | Term | Definitie |
    |---|---|
-   | Domeinnaam voor bestemmingspagina&#39;s | Dit is uw NAAM. Een CNAME is het eerste deel van URL u mensen voor het landen van pagina&#39;s geeft. Bijvoorbeeld in `https://go.yourCompany.com`, het woord &quot;go&quot; is de CNAME. Je kan meerdere, maar de meeste mensen gebruiken gewoon het ene. |
-   | Pagina voor alternatieven | Dit is waar je naartoe moet als de landingspagina niet bestaat of omlaag is. Meer informatie over [terugvalpagina&#39;s](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
-   | Homepage | Voer de URL van uw bedrijfssite in. |
+   | [!UICONTROL Domain name for landing pages] | Dit is uw NAAM. Een CNAME is het eerste deel van URL u mensen voor het landen van pagina&#39;s geeft. Bijvoorbeeld in `https://go.yourCompany.com`, het woord &quot;go&quot; is de CNAME. Je kan meerdere, maar de meeste mensen gebruiken gewoon het ene. |
+   | [!UICONTROL Fallback page] | Dit is waar je naartoe moet als de landingspagina niet bestaat of omlaag is. Meer informatie over [terugvalpagina&#39;s](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL Homepage] | Voer de URL van uw bedrijfssite in. |
 
-1. Controleer de **Vooraf ingevuld formulier** Schakel het selectievakje in om formulieren de mogelijkheid te bieden om vooraf gegevens in te vullen voor bekende (gekoelde) personen. Schakel de optie uit om te blokkeren.
+1. Controleer de **[!UICONTROL Form Prefill]** Schakel het selectievakje in om formulieren de mogelijkheid te bieden om vooraf gegevens in te vullen voor bekende (gekoelde) personen. Schakel de optie uit om te blokkeren.
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. Als u wilt voorkomen dat een kwaadaardige site uw inhoud lijkt te hosten, controleert u de **Marketo-pagina&#39;s niet insluiten in externe webpagina&#39;s** selectievakje.
+1. Als u wilt voorkomen dat een kwaadaardige site uw inhoud lijkt te hosten, controleert u de **[!UICONTROL Do not allow Marketo pages to be embedded in external web pages]** selectievakje.
 
    ![](assets/edit-landing-page-settings-6.png)
 
    >[!NOTE]
    >
-   >Als u de voorvoegsel wilt `<script>` -tag wordt weergegeven aan het einde van de `<head>` tag in de code, controleer de **Vooraf ingevulde script aan einde van kop injecteren** doos. Laat deze optie uitgeschakeld als u deze aan het begin wilt weergeven.
+   >Als u de voorvoegsel wilt `<script>` -tag wordt weergegeven aan het einde van de `<head>` tag in de code, controleer de **[!UICONTROL Inject Prefill Script at End of Head]** doos. Laat deze optie uitgeschakeld als u deze aan het begin wilt weergeven.
    >
-   >Controleren **Standaardfavicon-koppelingen verwijderen** om te voorkomen dat Marketo een favicon-koppeling invoegt in de code.
+   >Controleren **[!UICONTROL Remove default favicon links]** om te voorkomen dat Marketo een favicon-koppeling invoegt in de code.
 
-1. Nadat u de selecties hebt gemaakt, klikt u op **Opslaan.**
+1. Nadat u de selecties hebt gemaakt, klikt u op **[!UICONTROL Save]**.
 
    ![](assets/edit-landing-page-settings-7.png)
 

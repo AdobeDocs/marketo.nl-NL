@@ -3,9 +3,9 @@ unique-page-id: 2359904
 description: Selecteer uw taal, landinstelling en tijdzone - Marketo Docs - Productdocumentatie
 title: Taal, landinstelling en tijdzone selecteren
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
-source-git-commit: bd6f049d5959356a99314e81bb6cfe517c2efdfa
+source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,19 @@ Engels is niet jouw eerste taal? Maak je geen zorgen, we hebben je bedekt. Hier 
 
 ## Taal, landinstelling en tijdzone van gebruiker wijzigen {#change-user-language-locale-and-time-zone}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/select-your-language-locale-and-time-zone-1.png)
 
-1. Selecteren **Mijn account**.
+1. Selecteren **[!UICONTROL My Account]**.
 
    ![](assets/select-your-language-locale-and-time-zone-2.png)
 
-1. Klik onder Mijn account op **Locatie-instellingen bewerken**.
+1. Klik onder Mijn account op **[!UICONTROL Edit Location Settings]**.
 
    ![](assets/select-your-language-locale-and-time-zone-3.png)
 
-1. Wijzig uw **Taal**.
+1. Wijzig uw **[!UICONTROL Language]**.
 
    ![](assets/select-your-language-locale-and-time-zone-4.png)
 
@@ -45,15 +45,15 @@ Engels is niet jouw eerste taal? Maak je geen zorgen, we hebben je bedekt. Hier 
    >
    >U kunt ook alleen de taal wijzigen door op de vervolgkeuzelijst voor de taal boven aan de aanmeldingspagina te klikken.
 
-1. Wijzig uw **Landinstelling**.
+1. Wijzig uw **[!UICONTROL Locale]**.
 
    ![](assets/select-your-language-locale-and-time-zone-5.png)
 
-1. Wijzig uw **Tijdzone**.
+1. Wijzig uw **[!UICONTROL Time Zone]**.
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
