@@ -3,10 +3,10 @@ unique-page-id: 2360315
 description: Een personenpartitie maken - Marketo Docs - Productdocumentatie
 title: Een personenpartitie maken
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '66'
+ht-degree: 1%
 
 ---
 
@@ -22,19 +22,19 @@ Creeer een nieuwe persoonverdeling na deze stappen.
 >
 >Eerst begrijpen met [Werken- en personenpartities begrijpen](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/create-a-person-partition-1.png)
 
-1. Klikken **Werkruimten en partities**.
+1. Klik op **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/create-a-person-partition-2.png)
 
-1. Ga naar de **Personpartities** en klik op **Nieuwe personenpartitie**.
+1. Ga naar de **[!UICONTROL Person Partitions]** en klik op **[!UICONTROL New Person Partition]**.
 
    ![](assets/create-a-person-partition-3.png)
 
-1. Geef uw partitie een naam, kies de optie **Werkruimte(n)** waar het zal verschijnen, en klik **Maken**.
+1. Geef uw partitie een naam, kies de optie **[!UICONTROL Workspaces]** waar het zal verschijnen, en klik **[!UICONTROL Create]**.
 
    ![](assets/create-a-person-partition-4.png)
 

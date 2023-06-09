@@ -3,10 +3,10 @@ unique-page-id: 2360276
 description: Een programmakanaal verbergen/verbergen - Marketo Docs - Productdocumentatie
 title: Een programmakanaal verbergen/verbergen
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
-source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 1%
 
 ---
 
@@ -20,19 +20,19 @@ U kunt [verwijderen, een programmakanaal](/help/marketo/product-docs/administrat
 
 ## Programmakanaal verbergen {#hide-a-program-channel}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 
-1. Klikken **Tags**.
+1. Klik op **[!UICONTROL Tags]**.
 
    ![](assets/hide-unhide-a-program-channel-2.png)
 
-1. Klik op de knop **Kanaal** en selecteert u de **Kanaal** om te verbergen.
+1. Klik op de knop **[!UICONTROL Channel]** en selecteert u de **[!UICONTROL Channel]** om te verbergen.
 
    ![](assets/hide-unhide-a-program-channel-3.png)
 
-1. Onder **Handelingen labelen**, klikt u op **Verbergen**.
+1. Onder **[!UICONTROL Tag Actions]**, klikt u op **[!UICONTROL Hide]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
 

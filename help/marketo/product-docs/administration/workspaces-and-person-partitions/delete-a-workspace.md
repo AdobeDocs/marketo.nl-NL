@@ -3,10 +3,10 @@ unique-page-id: 2360313
 description: Een werkruimte verwijderen - Marketo Docs - Productdocumentatie
 title: Een werkruimte verwijderen
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 0%
+source-wordcount: '57'
+ht-degree: 1%
 
 ---
 
@@ -20,18 +20,18 @@ ht-degree: 0%
 >
 >U kunt de standaardwerkruimte in Marketo niet verwijderen.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/delete-a-workspace-1.png)
 
-1. Klikken **Werkruimten en partities**.
+1. Klik op **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/delete-a-workspace-2.png)
 
-1. Selecteer een werkruimte en klik op **Werkruimte verwijderen**.
+1. Selecteer een werkruimte en klik op **[!UICONTROL Delete Workspace]**.
 
    ![](assets/delete-a-workspace-3.png)
 
-1. Bevestig het aantal elementen dat u wilt verwijderen (het wordt naast &quot;totale elementen&quot; weergegeven) en selecteer de optie **Ongedaan maken is niet mogelijk** selectievakje en klik vervolgens op **Verwijderen**.
+1. Bevestig het aantal elementen dat je wilt verwijderen (het staat naast &quot;[!UICONTROL total assets]&quot;), selecteert u de **[!UICONTROL Cannot Undo]** selectievakje en klik vervolgens op **[!UICONTROL Delete]**.
 
    ![](assets/delete-a-workspace-4.png)

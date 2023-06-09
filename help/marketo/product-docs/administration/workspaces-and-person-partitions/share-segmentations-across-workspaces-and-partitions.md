@@ -3,9 +3,9 @@ unique-page-id: 7515767
 description: Segmenten delen op werkruimten en partities - Marketo Docs - Productdocumentatie
 title: Segmenten delen over werkruimten en partities
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
@@ -38,10 +38,10 @@ Zodra u deze persona opstelling hebt (_en_ als u werkruimten gebruikt), wilt u d
       * De segmentatie goedkeuren
       * De gedeelde werkruimte ziet een vergrendelde map en de segmentatie is alleen-lezen.
       * De gedeelde versie kan niet worden bewerkt. U kunt de oorspronkelijke segmentatie alleen bewerken op de plaats waar deze is gemaakt.
+
    * Wanneer u op een Segment (b.v. Gezondheidszorg) binnen een gedeelde Segmentatie klikt, zullen de mensen u ziet slechts mensen in de verdeling verbonden aan de werkruimte zijn u bekijkt.
       * Als u een Segmentatie in Werkruimte 1 (WS1) creeert en het met WS2 deelt en WS1 heeft geen toegang tot de verdeling voor WS2, ZAL het NIET de Segmentatie opnieuw berekenen.
       * Als u een Segmentatie in een werkruimte creeert die verdelingen heeft, en het dan met een andere werkruimte deelt, zal die werkruimte die de gedeelde Segmentatie ontving slechts mensen zien als zij overlappen hebben.
-
 
 >[!NOTE]
 >
@@ -55,15 +55,15 @@ Zodra u deze persona opstelling hebt (_en_ als u werkruimten gebruikt), wilt u d
 
 ## Een segmentatie delen {#share-a-segmentation}
 
-1. Ga naar de **Database**.
+1. Ga naar de **[!UICONTROL Database]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Klikken met rechtermuisknop **Segmentaties** en selecteert u **Nieuwe map**.
+1. Klikken met rechtermuisknop **[!UICONTROL Segmentations]** en selecteert u **[!UICONTROL New Folder]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Geef een naam op voor de map die u wilt delen in de verschillende werkruimten (bijvoorbeeld: Segmenten delen) en klik op **Maken**.
+1. Geef een naam op voor de map die u wilt delen in de verschillende werkruimten (bijvoorbeeld: Segmenten delen) en klik op **[!UICONTROL Create]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -71,11 +71,11 @@ Zodra u deze persona opstelling hebt (_en_ als u werkruimten gebruikt), wilt u d
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. Klik met de rechtermuisknop op de map en selecteer **Map delen**.
+1. Klik met de rechtermuisknop op de map en selecteer **[!UICONTROL Share Folder]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. Selecteer de werkruimte(n) waarmee u de map wilt delen. Klikken **Opslaan**.
+1. Selecteer de werkruimte(n) waarmee u de map wilt delen. Klik op **[!UICONTROL Save]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

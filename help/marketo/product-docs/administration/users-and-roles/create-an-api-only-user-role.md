@@ -3,9 +3,9 @@ unique-page-id: 2360203
 description: Alleen een gebruikersrol voor API maken - Marketo Docs - Productdocumentatie
 title: Een gebruikersrol maken die alleen een API is
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
-source-git-commit: 07ebe804d9888c214f9e1ae246ab80dafad54ea3
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -18,19 +18,19 @@ Als u met Marketo wilt integreren via de [REST API](https://developers.marketo.c
 >
 >**Beheerdersmachtigingen vereist**
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/create-an-api-only-user-role-1.png)
 
-1. Klikken **Gebruikers en rollen**.
+1. Klik op **[!UICONTROL Users & Roles]**.
 
    ![](assets/create-an-api-only-user-role-2.png)
 
-1. Klik op de knop **Rollen** en vervolgens **Nieuwe rol**.
+1. Klik op de knop **[!UICONTROL Roles]** en vervolgens **[!UICONTROL New Role]**.
 
    ![](assets/create-an-api-only-user-role-3.png)
 
-1. Voer een rolnaam in, selecteer de API-toegangsmachtigingen die u wilt geven en klik op **Maken.**
+1. Voer een rolnaam in, selecteer de API-toegangsmachtigingen die u wilt geven en klik op **[!UICONTROL Create]**.
 
    ![](assets/create-an-api-only-user-role-4.png)
 

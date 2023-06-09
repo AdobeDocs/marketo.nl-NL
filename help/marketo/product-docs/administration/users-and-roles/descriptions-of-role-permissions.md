@@ -3,9 +3,9 @@ unique-page-id: 6848747
 description: Beschrijvingen van roltoestemmingen - de Documenten van Marketo - de Documentatie van het Product
 title: Beschrijvingen van rolmachtigingen
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
-source-git-commit: 27eb6dedaae60616fe871d0a3ac4f38b5b4ecfd4
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '1143'
+source-wordcount: '1137'
 ht-degree: 0%
 
 ---
@@ -33,8 +33,8 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 * Access Audit Trail - geeft gebruikers toegang tot zowel Asset Audit Trail als Admin Audit Trail
 * Toegang tot kanalen - Gebruikers hebben alleen toegang om de Kanaaltag te wijzigen, niet andere aangepaste tags
 * Toegang tot communicatielimiet - geeft gebruikers toegang om een communicatielimiet in Admin in te schakelen
-* Toegang CRM - geeft gebruikers toegang tot CRM, zoals Salesforce of Microsoft Dynamics, in Admin
-* Toegang [Data.com](https://Data.com) - Biedt gebruikers toegang tot de Data.com-flowactie
+* Toegang CRM - geeft gebruikers toegang tot CRM, zoals [!DNL Salesforce] of [!DNL Microsoft Dynamics], in Admin
+* Toegang [[!DNL Data.com]](https://Data.com) - Biedt gebruikers toegang tot de Data.com-flowactie
 * Toegang tot e-mailbeheerder - Gebruikers krijgen toegang tot e-mailbeheerder om de standaardinstellingen te wijzigen, zoals het afmelden en brandmerken van domeinen
 * Access Event Partners - Biedt gebruikers toegang tot LaunchPoint in Admin
 * Toegangsveldbeheer - geeft gebruikers toegang tot veldbeheer in Admin
@@ -45,7 +45,7 @@ In de sectie Mijn account van Admin kunt u de instellingen weergeven en wijzigen
 * De Montages van de Login van de toegang - verleent gebruikers toegang tot Login Montages in Admin voor Veiligheid, IP Beperkingen, en de Slimme montages van het Rapport van de Lijst
 * Toegang tot aangepaste Marketo-activiteiten - geeft gebruikers toegang tot aangepaste Marketo-activiteiten in Admin
 * Toegang tot aangepast Marketo-object - geeft gebruikers toegang tot aangepaste Marketo-objecten in Admin
-* Toegang tot Munchkin - Met GI krijgen gebruikers toegang tot Munchkin in Admin, voor het instellen van trackingcode, het bijhouden van personen en het inschakelen van API-configuratie
+* Toegang [!DNL Munchkin] - GIves users access to [!DNL Munchkin] in Admin, voor het plaatsen van het volgen van code, persoon het volgen en het toelaten van API configuratie
 * De Analyse van de Cyclus van de Opbrengst van de toegang - geeft gebruikers toegang tot de Analytics van de Cyclus van de Opbrengst in Admin, voor het plaatsen van Samenvatting en Attributie van de Synchronisatie
 * De Rollen van de toegang - verleent gebruikers toegang om rollen te beheren en uit te geven, maar niet gebruikers
 * Access Sales Insight - geeft gebruikers toegang tot het beheer van Sales Insight in Admin, voor het instellen van Status, API-configuratie, Person Scores en andere instellingen

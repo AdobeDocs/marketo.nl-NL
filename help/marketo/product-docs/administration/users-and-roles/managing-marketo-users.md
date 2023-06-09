@@ -3,10 +3,10 @@ unique-page-id: 2359906
 description: Marketo-gebruikers beheren - Marketo Docs - Productdocumentatie
 title: Marketo-gebruikers beheren
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
-source-git-commit: 3bb7e8155491f810cc0e71637482e6da788dc068
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 2%
 
 ---
 
@@ -14,27 +14,27 @@ ht-degree: 0%
 
 ## Gebruikers maken {#create-users}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/managing-marketo-users-1.png)
 
-1. Klikken **Gebruikers en rollen**.
+1. Klik op **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-2.png)
 
-1. Klikken **Nieuwe gebruiker uitnodigen**.
+1. Klik op **[!UICONTROL Invite New User]**.
 
    ![](assets/managing-marketo-users-3.png)
 
-1. Voer de **E-mailadres**, **Voornaam**, en **Achternaam**.
+1. Voer de **[!UICONTROL Email]**, **[!UICONTROL First Name]**, en **[!UICONTROL Last Name]**.
 
    ![](assets/managing-marketo-users-4.png)
 
-1. Voer desgewenst een reden voor de uitnodiging in en selecteer een vervaldatum in het dialoogvenster **Toegang verloopt** veld met de datumkiezer.
+1. Voer desgewenst een reden voor de uitnodiging in en selecteer een vervaldatum in het dialoogvenster **[!UICONTROL Access Expires]** veld met de datumkiezer.
 
    ![](assets/managing-marketo-users-5.png)
 
-1. Klikken **Volgende**.
+1. Klik op **[!UICONTROL Next]**.
 
    ![](assets/managing-marketo-users-6.png)
 
@@ -46,11 +46,11 @@ ht-degree: 0%
    >
    >Wanneer de vervaldatum aankomt, ontvangt de gebruiker een vervalmelding en is zijn account vergrendeld.
 
-1. Selecteer **Rol** van uw keuze en klik op **Volgende**.
+1. Selecteer **[!UICONTROL Role]** van uw keuze en klik op **[!UICONTROL Next]**.
 
    ![](assets/managing-marketo-users-7.png)
 
-1. Breng indien nodig wijzigingen aan in het uitnodigingsbericht. Klikken **Verzenden**.
+1. Breng indien nodig wijzigingen aan in het uitnodigingsbericht. Klikken **Seen**.
 
    ![](assets/managing-marketo-users-8.png)
 
@@ -68,37 +68,37 @@ De nieuwe gebruiker wordt nu vermeld op het tabblad Gebruikers en ontvangt een e
 
 ## Gebruikers verwijderen {#delete-users}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/managing-marketo-users-10.png)
 
-1. Klikken **Gebruikers en rollen**.
+1. Klik op **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-11.png)
 
-1. Selecteer de gebruiker die u wilt verwijderen en klik op **Gebruiker verwijderen**.
+1. Selecteer de gebruiker die u wilt verwijderen en klik op **[!UICONTROL Delete User]**.
 
    ![](assets/managing-marketo-users-12.png)
 
-1. Bevestigen door te klikken **OK**.
+1. Bevestigen door te klikken **[!UICONTROL OK]**.
 
    ![](assets/managing-marketo-users-13.png)
 
 ## Gebruikerswachtwoorden opnieuw instellen {#reset-user-passwords}
 
-1. Ga naar het gebied Beheer.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/managing-marketo-users-14.png)
 
-1. Klikken **Gebruikers en rollen**.
+1. Klik op **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-15.png)
 
-1. Selecteer een gebruiker en klik op **Wachtwoord opnieuw instellen**.
+1. Selecteer een gebruiker en klik op **[!UICONTROL Reset Password]**.
 
    ![](assets/managing-marketo-users-16.png)
 
-1. Klikken **Sluiten** om de prompt te negeren.
+1. Klikken **[!UICONTROL Close]** om de prompt te negeren.
 
    ![](assets/managing-marketo-users-17.png)
 
@@ -110,19 +110,19 @@ De gebruiker ontvangt een e-mail met instructies voor het opnieuw instellen van 
 
 ## Machtigingen wijzigen en Gebruikersgegevens bewerken {#change-permissions-and-edit-user-information}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/managing-marketo-users-18.png)
 
-1. Klikken **Gebruikers en rollen**.
+1. Klik op **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-19.png)
 
-1. Selecteer een gebruiker en klik op **Gebruiker bewerken**.
+1. Selecteer een gebruiker en klik op **[!UICONTROL Edit User]**.
 
    ![](assets/managing-marketo-users-20.png)
 
-1. U kunt gebruikersgegevens bewerken en de bijbehorende rol wijzigen. Klikken **Opslaan**.
+1. U kunt gebruikersgegevens bewerken en de bijbehorende rol wijzigen. Klik op **[!UICONTROL Save]**.
 
    ![](assets/managing-marketo-users-21.png)
 

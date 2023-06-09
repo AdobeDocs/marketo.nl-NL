@@ -3,10 +3,10 @@ unique-page-id: 2360311
 description: Een nieuwe werkruimte maken - Marketo Docs - Productdocumentatie
 title: Een nieuwe werkruimte maken
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '198'
+ht-degree: 1%
 
 ---
 
@@ -31,28 +31,27 @@ Zo maakt u een nieuwe werkruimte.
 >
 >Neem contact op met [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/create-a-new-workspace-1.png)
 
-1. Klikken **Werkruimten en partities**.
+1. Klik op **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/create-a-new-workspace-2.png)
 
-1. Klikken **Nieuwe werkruimte**.
+1. Klik op **[!UICONTROL New Workspace]**.
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. Voer een **Naam** en selecteert u de **Persoonspartitie(s)** wilt gebruiken. Kies een **Partitie primaire persoon**. Zorg ervoor dat [persoonlijke partities maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} als je dat nog niet hebt gedaan.
+1. Voer een **[!UICONTROL Name]** en selecteert u de **[!UICONTROL Person Partitions]** wilt gebruiken. Kies een **[!UICONTROL Primary Person Partition]**. Zorg ervoor dat [persoonlijke partities maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"} als je dat nog niet hebt gedaan.
 
    ![](assets/create-a-new-workspace-4.png)
 
    >[!NOTE]
    >
-   >* De **Alle personenpartities** selectievakje betekent dat deze werkruimte alle persoonlijke partities in het systeem kan gebruiken.
+   >* De **[!UICONTROL All Person Partitions]** selectievakje betekent dat deze werkruimte alle persoonlijke partities in het systeem kan gebruiken.
    >
-   >* De **partitie primaire persoon** fungeert als de standaardinstelling en is waar alle personen worden toegewezen.
-
+   >* De **[!UICONTROL Primary Person Partition]** fungeert als de standaardinstelling en is waar alle personen worden toegewezen.
 
    >[!IMPORTANT]
    >
@@ -66,7 +65,7 @@ Zo maakt u een nieuwe werkruimte.
    >
    >Marketo stuurt voorbeeldbestanden na het maken door naar de werkruimte. In taal kunnen de ingezaaide objecten in een niet-Engelse taal worden geschreven.
 
-1. Klikken **Maken**.
+1. Klik op **[!UICONTROL Create]**.
 
    ![](assets/create-a-new-workspace-6.png)
 

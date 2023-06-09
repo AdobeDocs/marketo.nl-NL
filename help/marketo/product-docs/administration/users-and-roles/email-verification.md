@@ -2,9 +2,9 @@
 description: E-mailverificatie - Marketo Docs - Productdocumentatie
 title: E-mailverificatie
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ Gebruikers ontvangen de volgende e-mail wanneer e-mailverificatie wordt geactive
 
 >[!NOTE]
 >
->Als u een verificatiebericht opnieuw wilt verzenden aan een niet-geverifieerde gebruiker, selecteert u gewoon de desbetreffende record en klikt u op de knop **E-mail verifiëren** knop.
+>Als u een verificatiebericht opnieuw wilt verzenden aan een niet-geverifieerde gebruiker, selecteert u gewoon de desbetreffende record en klikt u op de knop **[!UICONTROL Verify Email]** knop.
 
 ## Een e-mailadres wijzigen {#changing-an-email-address}
 
-Wanneer het e-mailadres van een gebruiker wordt gewijzigd, wordt het niet geverifieerd. Er wordt een e-mail naar hen verzonden, zodat ze opnieuw kunnen verifiëren. Gebruikers kunnen de e-mail handmatig opnieuw verzenden door op **Verificatie opnieuw verzenden**.
+Wanneer het e-mailadres van een gebruiker wordt gewijzigd, wordt het niet geverifieerd. Er wordt een e-mail naar hen verzonden, zodat ze opnieuw kunnen verifiëren. Gebruikers kunnen de e-mail handmatig opnieuw verzenden door op **[!UICONTROL Resend Verification]**.
 
 ![](assets/email-verification-2.png)
 
@@ -41,7 +41,7 @@ Wanneer het e-mailadres van een gebruiker wordt gewijzigd, wordt het niet geveri
 
 ## Gebruikers en rollen {#users-and-roles}
 
-In **Beheer** > **Gebruikers en rollen** In de kolom E-mailstatus wordt de verificatiestatus van elke gebruiker weergegeven.
+In **[!UICONTROL Admin]** > **[!UICONTROL Users & Roles]** In de kolom E-mailstatus wordt de verificatiestatus van elke gebruiker weergegeven.
 
 ![](assets/email-verification-4.png)
 

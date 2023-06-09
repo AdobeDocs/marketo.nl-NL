@@ -3,9 +3,9 @@ unique-page-id: 2360278
 description: Een programmastatus verwijderen uit een programmakanaal - Marketo Docs - Productdocumentatie
 title: De status van een programma verwijderen uit een programmakanaal
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
-source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 De status van het programma is de controlepunten door een programmaweg (kanaal). Als u per ongeluk een status maakt of deze niet meer nodig hebt, kunt u deze zonder problemen verwijderen.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
-1. Klikken **Tags**.
+1. Klik op **[!UICONTROL Tags]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
-1. Selecteer het kanaal waarvan u een status wilt verwijderen en selecteer vervolgens onder **Handelingen labelen**, klikt u op **Bewerken**.
+1. Selecteer het kanaal waarvan u een status wilt verwijderen en selecteer vervolgens onder **[!UICONTROL Tag Actions]**, klikt u op **[!UICONTROL Edit]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. Klik op rood **X** om de status te verwijderen, klikt u op **Opslaan**.
+1. Klik op rood **X** om de status te verwijderen, klikt u op **[!UICONTROL Save]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 

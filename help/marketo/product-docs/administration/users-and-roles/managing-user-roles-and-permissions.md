@@ -3,10 +3,10 @@ unique-page-id: 2359909
 description: Gebruikersrollen en -machtigingen beheren - Marketo Docs - Productdocumentatie
 title: Gebruikersrollen en -machtigingen beheren
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
-source-git-commit: 4fa7e733a824af8d2fc0e3ba824b25f9bb985ccf
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 0%
+source-wordcount: '453'
+ht-degree: 1%
 
 ---
 
@@ -38,19 +38,19 @@ Als u Marketo gebruikt met Adobe Identity, de lijst van profielbeschrijvingen [h
 
 U kunt rollen toewijzen aan een gebruiker wanneer u [voor het eerst gebruikers maken](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) of door [een bestaande gebruiker bewerken](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
-1. Klikken **Gebruikers en rollen**.
+1. Klik op **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-user-roles-and-permissions-2.png)
 
-1. Selecteer in de lijst de gebruiker die u wilt bewerken en klik op **Gebruiker bewerken**.
+1. Selecteer in de lijst de gebruiker die u wilt bewerken en klik op **[!UICONTROL Edit User]**.
 
    ![](assets/managing-user-roles-and-permissions-3.png)
 
-1. Onder **Rollen** selecteert u de rollen die u aan de gebruiker wilt toewijzen op basis van de machtigingen die deze nodig heeft, en klikt u op **Opslaan**.
+1. Onder **[!UICONTROL Roles]** selecteert u de rollen die u aan de gebruiker wilt toewijzen op basis van de machtigingen die deze nodig heeft, en klikt u op **[!UICONTROL Save]**.
 
    ![](assets/managing-user-roles-and-permissions-4.png)
 
@@ -62,23 +62,23 @@ U kunt rollen toewijzen aan een gebruiker wanneer u [voor het eerst gebruikers m
 
 Soms, heeft uw organisatie werknemers in zeer specifieke rollen die een douanecombinatie van toestemmingen vereisen.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
-1. Klikken **Gebruikers en rollen**.
+1. Klik op **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
-1. Klik op de knop **Rollen** tab.
+1. Klik op de knop **[!UICONTROL Roles]** tab.
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
-1. Klikken **Nieuwe rol**.
+1. Klik op **[!UICONTROL New Role]**.
 
    ![](assets/managing-user-roles-and-permissions-8.png)
 
-1. Voer een **Rolnaam**, **Beschrijving** (optioneel) en selecteer de machtigingen die gebruikers in deze rol nodig hebben.
+1. Voer een **[!UICONTROL Role Name]**, **[!UICONTROL Description]** (optioneel) en selecteer de machtigingen die gebruikers in deze rol nodig hebben.
 
    ![](assets/managing-user-roles-and-permissions-9.png)
 
@@ -86,23 +86,23 @@ Soms, heeft uw organisatie werknemers in zeer specifieke rollen die een douaneco
 
 Als u de toestemmingen moet veranderen die met een bestaande rol worden geassocieerd, kunt u de rol uitgeven.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
-1. Klikken **Gebruikers en rollen**.
+1. Klik op **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
-1. Klik op de knop **Rollen** tab.
+1. Klik op de knop **[!UICONTROL Roles]** tab.
 
    ![](assets/managing-user-roles-and-permissions-12.png)
 
-1. Selecteer in de lijst de rol die u wilt wijzigen en klik op **Rol bewerken**.
+1. Selecteer in de lijst de rol die u wilt wijzigen en klik op **[!UICONTROL Edit Role]**.
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. Wijzig de **Rolnaam** en **Beschrijving** indien nodig en wijzigt u de selectie van de bijbehorende **Machtigingen**.
+1. Wijzig de **[!UICONTROL Role Name]** en **[!UICONTROL Description]** indien nodig en wijzigt u de selectie van de bijbehorende **[!UICONTROL Permissions]**.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 
@@ -114,22 +114,22 @@ Als u de toestemmingen moet veranderen die met een bestaande rol worden geassoci
 
 Als een rol onnodig wordt, kunt u deze verwijderen.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 
-1. Klikken **Gebruikers en rollen**.
+1. Klik op **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 
-1. Klik op de knop **Rollen** tab.
+1. Klik op de knop **[!UICONTROL Roles]** tab.
 
    ![](assets/managing-user-roles-and-permissions-17.png)
 
-1. Selecteer in de lijst de rol die u wilt verwijderen en klik op **Rol verwijderen**.
+1. Selecteer in de lijst de rol die u wilt verwijderen en klik op **[!UICONTROL Delete Role]**.
 
    ![](assets/managing-user-roles-and-permissions-18.png)
 
-1. Klikken **Verwijderen** ter bevestiging.
+1. Klikken **[!UICONTROL Delete]** ter bevestiging.
 
    ![](assets/managing-user-roles-and-permissions-19.png)

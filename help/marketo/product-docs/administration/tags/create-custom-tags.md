@@ -3,10 +3,10 @@ unique-page-id: 2950660
 description: Aangepaste tags maken - Marketo Docs - Productdocumentatie
 title: Aangepaste tags maken
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
-source-git-commit: 0d1762d9a5607d72af625aafbf7b9f412d6713c1
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 0%
+source-wordcount: '205'
+ht-degree: 2%
 
 ---
 
@@ -26,15 +26,15 @@ Met tags kunt u uw programma&#39;s ordenen terwijl de kanalen helpen bij het ver
 
 Een nieuw type code maken:
 
-1. Ga naar de **Beheer** sectie.
+1. Ga naar de **[!UICONTROL Admin]** sectie.
 
    ![](assets/create-custom-tags-1.png)
 
-1. Klikken **Tags**.
+1. Klik op **[!UICONTROL Tags]**.
 
    ![](assets/create-custom-tags-2.png)
 
-1. Klikken **Nieuw** en selecteert u **Nieuw tagtype.**
+1. Klik op **[!UICONTROL New]** en selecteer **[!UICONTROL New Tag Type]**.
 
    ![](assets/create-custom-tags-3.png)
 
@@ -42,7 +42,7 @@ Een nieuw type code maken:
 
    ![](assets/create-custom-tags-4.png)
 
-1. Voer de gewenste waarde in voor het tagtype. Klikken **Nog een toevoegen** om extra waarden in te voeren.
+1. Voer de gewenste waarde in voor het tagtype. Klikken **[!UICONTROL Add Another]** om extra waarden in te voeren.
 
    ![](assets/create-custom-tags-5.png)
 
@@ -56,14 +56,13 @@ Een nieuw type code maken:
 
    >[!NOTE]
    >
-   >* Selecteer &quot;Vereist&quot; als u wilt dat dit label wordt toegevoegd telkens wanneer een nieuw programma wordt gemaakt.
-   >* Als u een programmatype verwijdert uit de lijst &quot;Van toepassing op&quot;, worden de tag en de bijbehorende waarden verwijderd uit alle bestaande programma&#39;s van dat type. Als u bestaande tagwaarden wilt behouden en deze tag optioneel wilt maken, gaat u verder met _alles_ vermeld programmatypen, verlaat de &quot;Vereiste&quot;checkbox niet geselecteerd.
-
+   >* Selecteren &quot;[!UICONTROL Required]&quot; als u wilt dat deze tag wordt toegevoegd wanneer een nieuw programma wordt gemaakt.
+   >* Een programmatype verwijderen uit de map &#39;[!UICONTROL Applies to]De tag en de bijbehorende waarden worden uit alle bestaande programma&#39;s van dat type verwijderd. Als u bestaande tagwaarden wilt behouden en deze tag optioneel wilt maken, gaat u verder met _alles_ vermeld programmatypen, verlaat de &quot;Vereiste&quot;checkbox niet geselecteerd.
 
    >[!TIP]
    >
-   >Als u een vergelijkbare tag wilt maken die vereist is voor bepaalde programmatypen, maar optioneel voor andere, moet u twee aparte tags instellen. Elke tag wordt toegepast op verschillende programmatypen waarbij de ene tag vereist is geselecteerd en de andere tag met de optie Vereist is niet geselecteerd.
+   >Als u een vergelijkbare tag wilt maken die vereist is voor bepaalde programmatypen maar optioneel voor andere, moet u twee aparte tags instellen. Elke tag wordt toegepast op verschillende programmatypen met een tag &quot;[!UICONTROL Required]&quot; geselecteerd en de andere met &quot;[!UICONTROL Required]&quot; niet geselecteerd.
 
-1. Klikken **Maken**.
+1. Klik op **[!UICONTROL Create]**.
 
    ![](assets/create-custom-tags-8.png)

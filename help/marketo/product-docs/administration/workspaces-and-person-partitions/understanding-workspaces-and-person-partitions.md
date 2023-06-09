@@ -3,9 +3,9 @@ unique-page-id: 2360309
 description: Werken- en personenpartities begrijpen - Marketo Docs - Productdocumentatie
 title: Werken- en personenpartities begrijpen
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '510'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ De werkruimten zijn afzonderlijke gebieden in Marketo die marketingmiddelen zoal
 >Een aantal redenen waarom u een werkruimte kunt gebruiken:
 >
 >* Geografie: De marketingafdelingen in Europa, Azië en Noord-Amerika krijgen elk een werkruimte
->* Bedrijfseenheid: QuickBooks, QuickBooks en TurboTax krijgen elk een werkruimte
+>* Bedrijfseenheid: [!DNL Quicken], [!DNL Quickbooks] en [!DNL TurboTax] elk krijgt een werkruimte
 >
 >In elk geval is de scheiding omdat de marketingactiva totaal verschillend zijn. Als zij marketing activa delen, dan kunnen de werkruimten niet het juiste hulpmiddel voor u zijn.
 
@@ -43,15 +43,15 @@ Hieronder wordt beschreven hoe u elementen deelt over verschillende werkruimten.
 >
 >De bovenliggende map met uw elementen is de enige map die kan worden gedeeld, niet de onderliggende mappen.
 
-1. Klik op Database.
+1. Klik op **[!UICONTROL Database]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Klik met de rechtermuisknop op de map Segmentatie en klik op **Nieuwe map**.
+1. Klik met de rechtermuisknop op de map Segmentatie en klik op **[!UICONTROL New Folder]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. Geef uw map een naam en klik op **Maken**.
+1. Geef uw map een naam en klik op **[!UICONTROL Create]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -59,11 +59,11 @@ Hieronder wordt beschreven hoe u elementen deelt over verschillende werkruimten.
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. Klik met de rechtermuisknop op de map en selecteer **Map delen**.
+1. Klik met de rechtermuisknop op de map en selecteer **[!UICONTROL Share Folder]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Selecteer de werkruimte(n) waarmee u de map wilt delen en klik op **Opslaan**. In het dialoogvenster Map delen worden alleen werkruimten weergegeven die u kunt weergeven.
+1. Selecteer de werkruimte(n) waarmee u de map wilt delen en klik op **[!UICONTROL Save]**. In het dialoogvenster Map delen worden alleen werkruimten weergegeven die u kunt weergeven.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -118,7 +118,6 @@ U kunt partities toewijzen aan personen  [werkruimten](create-a-new-workspace.md
 >
 >* Uw werkruimten hebben niet alleen verschillende middelen, maar delen ook geen personen
 >* U wilt duplicaten om andere zakelijke redenen
-
 
 >[!CAUTION]
 >

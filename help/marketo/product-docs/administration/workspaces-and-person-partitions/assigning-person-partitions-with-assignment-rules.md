@@ -3,10 +3,10 @@ unique-page-id: 2360327
 description: Personen partities toewijzen met toewijzingsregels - Marketo Docs - Productdocumentatie
 title: Personen partities toewijzen met toewijzingsregels
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
-source-git-commit: 57b94e643154b1463d9fd65295a66f1a3286fd40
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '159'
+ht-degree: 1%
 
 ---
 
@@ -26,19 +26,19 @@ Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak o
 >
 >Alleen voor personen die in Marketo zijn gemaakt vanuit uw CRM en via de SOAP API, worden toewijzingsregels toegepast.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. Klikken **Werkruimten en partities**.
+1. Klik op **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. Onder de **Partities Personen** tabblad, klikt u op **Toewijzingsregels**.
+1. Onder de **[!UICONTROL Person Partitions]** tabblad, klikt u op **[!UICONTROL Assignment Rules]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. Klikken **Keuze toevoegen** om voorwaarden toe te voegen voor het verpletteren van mensen in persoonverdelingen.
+1. Klikken **[!UICONTROL Add Choice]** om voorwaarden toe te voegen voor het verpletteren van mensen in persoonverdelingen.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -58,7 +58,7 @@ Wanneer het gebruiken van persoonverdelingen, de regels van de opstellingstaak o
    >
    >U kunt zoveel opties toevoegen als u wilt.
 
-1. Klikken **Opslaan**.
+1. Klik op **[!UICONTROL Save]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 

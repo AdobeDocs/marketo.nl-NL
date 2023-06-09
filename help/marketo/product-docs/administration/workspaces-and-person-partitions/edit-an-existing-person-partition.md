@@ -3,10 +3,10 @@ unique-page-id: 2360323
 description: Een bestaande personenpartitie bewerken - Marketo Docs - Productdocumentatie
 title: Een bestaande personenpartitie bewerken
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
-source-git-commit: 686530e63cffef89bc7b9cbf6affa862689c0a46
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 1%
 
 ---
 
@@ -20,24 +20,24 @@ Een persoonsverdeling is als het hebben van een tweede (of derde) gegevensbestan
 
 >[!PREREQUISITES]
 >
->[Een personenpartitie maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[Een personenpartitie maken](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. Klikken **Werkruimten en partities**.
+1. Klik op **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. Onder de **Personpartities** tabblad selecteert u de personenpartitie die u wilt bewerken en klikt u op **Partitie persoon bewerken**.
+1. Onder de **[!UICONTROL Person Partitions]** tabblad selecteert u de personenpartitie die u wilt bewerken en klikt u op **[!UICONTROL Edit Person Partition]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. De personenpartitie invoeren **Naam** de **Werkruimten** ze horen bij, en klik op **Opslaan**.
+1. De personenpartitie invoeren **[!UICONTROL Name]** de **[!UICONTROL Workspaces]** ze horen bij, en klik op **[!UICONTROL Save]**.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 
-1. Nadat u de wijzigingen hebt opgeslagen, wordt de update weergegeven.
+Nadat u de wijzigingen hebt opgeslagen, wordt de update weergegeven.
 
-   ![](assets/edit-an-existing-person-partition-5.png)
+![](assets/edit-an-existing-person-partition-5.png)

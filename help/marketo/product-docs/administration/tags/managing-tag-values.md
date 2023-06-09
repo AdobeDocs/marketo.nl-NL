@@ -3,10 +3,10 @@ unique-page-id: 2360274
 description: Tagwaarden beheren - Marketo-documenten - productdocumentatie
 title: Tagwaarden beheren
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
-source-git-commit: f24a669b10e67bbacf88e3e6cef97c21331695ef
+source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 1%
 
 ---
 
@@ -24,43 +24,43 @@ ht-degree: 0%
 
 ## Tagwaarden toevoegen {#adding-tag-values}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **[!UICONTROL Admin]** gebied.
 
    ![](assets/managing-tag-values-1.png)
 
-1. Klikken **Tags**.
+1. Klik op **[!UICONTROL Tags]**.
 
    ![](assets/managing-tag-values-2.png)
 
-1. Klikken **Nieuw** vervolgens **Nieuwe tagwaarde**.
+1. Klikken **[!UICONTROL New]** vervolgens **[!UICONTROL New Tag Value]**.
 
    ![](assets/managing-tag-values-3.png)
 
-1. Selecteer **Type code**.
+1. Selecteer **[!UICONTROL Tag Type]**.
 
    ![](assets/managing-tag-values-4.png)
 
-1. Voer een **Waarde** en klik op **Nog een toevoegen**. U kunt zoveel waarden toevoegen als u wilt.
+1. Voer een **[!UICONTROL Value]** en klik op **[!UICONTROL Add Another]**. U kunt zoveel waarden toevoegen als u wilt.
 
    ![](assets/managing-tag-values-5.png)
 
-1. Voeg de resterende waarden toe en klik op **Maken**.
+1. Voeg de resterende waarden toe en klik op **[!UICONTROL Create]**.
 
    ![](assets/managing-tag-values-6.png)
 
-1. U moet de wijzigingen direct zien!
+U moet de wijzigingen direct zien!
 
-   ![](assets/managing-tag-values-7.png)
+![](assets/managing-tag-values-7.png)
 
 ## Tagwaarden verbergen {#hiding-tag-values}
 
 Tags kunnen door oude programma&#39;s worden gebruikt. U kunt deze vervangen voor toekomstig gebruik door het type code te verbergen.
 
-1. Selecteer **Tag** en selecteert u de **Waarde** u wilt verbergen.
+1. Selecteer **[!UICONTROL Tag]** en selecteert u de **[!UICONTROL Value]** u wilt verbergen.
 
    ![](assets/managing-tag-values-8.png)
 
-1. Onder **Handelingen labelen**, selecteert u **Verbergen**.
+1. Selecteer onder **[!UICONTROL Tag Actions]** de optie **[!UICONTROL Hide]**.
 
    ![](assets/managing-tag-values-9.png)
 
@@ -68,7 +68,7 @@ Tags kunnen door oude programma&#39;s worden gebruikt. U kunt deze vervangen voo
 
 Ga als volgt te werk als u de verborgen waarden weer wilt zien:
 
-1. Selecteer het vak Verborgen weergeven. Als deze optie is ingeschakeld, ziet u de verborgen waarde.
+1. Selecteer **[!UICONTROL Show Hidden]** selectievakje. Als deze optie is ingeschakeld, ziet u de verborgen waarde.
 
    ![](assets/managing-tag-values-10.png)
 
