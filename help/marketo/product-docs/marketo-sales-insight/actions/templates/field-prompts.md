@@ -1,7 +1,7 @@
 ---
 description: Veldvragen - Marketo Docs - Productdocumentatie
 title: Veldvragen
-source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
+source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -23,6 +23,8 @@ Typ de gewenste tekst om een veldprompt toe te voegen. Plaats een uitroepteken i
 `{{! Add sentence that references their industry and role}}`
 
 <p>Gebruikers moeten deze tekst vervangen door hun eigen personalisatie voordat de e-mail kan worden verzonden.
+
+![](assets/field-prompts-1.png)
 
 >[!NOTE]
 >

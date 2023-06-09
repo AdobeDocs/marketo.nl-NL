@@ -2,9 +2,9 @@
 description: E-mailverificatie - Marketo Docs - Productdocumentatie
 title: E-mailverificatie
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
-source-git-commit: 247e032254757789efddeef17bc589ba0ac85d49
+source-git-commit: 7c168abc79e88c9d90786c4d5b86acbc8e0423b6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,10 @@ ht-degree: 0%
 # E-mailverificatie {#email-verification}
 
 Adobe Marketo Engage-abonnementen vereisen dat alle gebruikers die geen API gebruiken, inclusief Marketo Engage-beheerders, hun e-mailadres verifiëren. Aan gebruikers met een SSO (Single Sign-On) die geen beheerrol hebben toegewezen of die een rol met de machtiging SSO omzeilen hebben toegewezen, wordt hun e-mail automatisch geverifieerd wanneer hun abonnement is ingeschakeld met de functie E-mailverificatie.
+
+## Waarom deze functie is geïntroduceerd {#why-this-feature-was-introduced}
+
+Marketo Engage gaat door met de uitrol van e-mailverificatie ter voorbereiding op het migreren van klanten naar het Adobe Business Platform, inclusief de migratie van gebruikers naar Adobe-id&#39;s. Deze functie verbetert de beveiliging van bestaande Marketo Engage-gebruikersaccounts. Om ervoor te zorgen dat een Marketo Engage-gebruiker aan de juiste Adobe ID is gekoppeld, moeten bestaande Marketo Engage-gebruikers hun e-mailadres verifiëren. Een Marketo Engage-gebruiker moet een geverifieerd e-mailadres hebben om naar een Adobe ID te worden gemigreerd. Als een Marketo Engage-gebruiker zijn e-mailadres niet verifieert, kan hij of zij niet naar een Adobe ID migreren en verliest hij of zij toegang tot een Marketo-abonnement nadat de gebruikersmigratie voor het abonnement is voltooid.
 
 ## Uitnodiging gebruiker {#user-invite}
 
@@ -49,7 +53,7 @@ Er kan slechts één gebruikersaccount aan één e-mailadres worden gekoppeld. A
 * Nieuwe e-mail gebruiken voor de huidige gebruikersnaam
 * De beslissing vertragen tot volgende aanmelding
 
-   ![](assets/email-verification-5.png)
+  ![](assets/email-verification-5.png)
 
 >[!NOTE]
 >
