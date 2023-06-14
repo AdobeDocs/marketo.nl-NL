@@ -2,9 +2,9 @@
 description: Dynamische velden - Marketo Docs - Productdocumentatie
 title: Dynamische velden
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 6d4a093d0ce0158028177cc4a4088526ccf79f9d
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -37,13 +37,13 @@ Kopieer en plak ze gewoon handmatig in het onderwerpveld van een e-mail, waarbij
 
 Wanneer u dynamische velden toevoegt aan uw e-mailsjablonen, kunt u een standaardwaarde toevoegen die in het dynamische veld wordt gebruikt als er geen andere waarde beschikbaar is.
 
-Hiervoor voegt u &quot;|&quot; toe na het dynamische veldlabel en voegt u &quot;default:&quot; toe. Voeg vervolgens de waarde toe waarnaar het veld moet verwijzen als er geen andere waarde kan worden gevonden.
+Hiervoor voegt u &quot;|&quot; toe na het dynamische veldlabel en voegt u &quot;default:&quot; (beide zonder aanhalingstekens) toe. Voeg vervolgens de waarde toe waarnaar het veld moet verwijzen (tussen aanhalingstekens) als er geen andere waarde kan worden gevonden.
 
 **Voorbeeld:**
 
-`{{first name | default: loyal customer}}`
+`{{first name | default: "loyal customer"}}`
 
-`{{sfdc_contact_account_name | default: your company}}`
+`{{sfdc_contact_account_name | default: "your company"}}`
 
 ## Woordenlijst Dynamische velden {#dynamic-fields-glossary}
 
