@@ -3,7 +3,7 @@ unique-page-id: 14352476
 description: Veld voor activiteitstypen op taken (SFDC) - Marketo Docs - Productdocumentatie
 title: Veld voor activiteitstypen op taken (Activity Type Field on Tasks — SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 46c48172a58cf6bd2e9772ef57510fd7d808adc2
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Controleer eerst of u de juiste waarden voor de keuzelijst hebt. U hebt de hulp 
 1. U bent nu bij de Picklist van het Type van Taak. Zorg ervoor dat er geen &#39;Standaard&#39; is geselecteerd.
 1. Zorg ervoor dat er een waarde van het Type voor E-mail, Vraag, en Antwoord wordt vermeld.
 
-Nu dit op zijn plaats is, zult u beginnen te zien het gebied van het Type de overeenkomstige waarde voor geregistreerde E-mail, Vraag, en Reacties bevolken. Deze waarden **niet** worden ingevuld bij de taken voor verkoopConnect-herinneringen.
+Nu dit op zijn plaats is, zult u beginnen te zien het gebied van het Type de overeenkomstige waarde voor geregistreerde E-mail, Vraag, en Reacties bevolken. Deze waarden _niet_ worden ingevuld bij de taken voor verkoopConnect-herinneringen.
 
 >[!NOTE]
 >
