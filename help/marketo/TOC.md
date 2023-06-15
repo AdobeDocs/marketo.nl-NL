@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 466df1fbd561860152f9fea02edb6eab5670c90a
+source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '8906'
+source-wordcount: '8911'
 ht-degree: 0%
 
 ---
@@ -1346,11 +1346,11 @@ ht-degree: 0%
                + [Logboekregistratie beantwoorden](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Instellingen voor Salesforce Sync](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-            + Salesforce-configuratie {#salesforce-configuration}
-               + [Kenmerken verkoopactiviteit registreren voor Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/logging-sales-activity-attributes-to-salesforce.md)
-               + [Configuratie van de Acties van het Inzicht van de verkoop in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md)
-               + [Salesforce Classic-aanpassingspakket verwijderen](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-classic-customization-package.md)
-               + [Aanpassingspakket voor Salesforce Lightning verwijderen](product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/uninstall-salesforce-lightning-customization-package.md)
+            + Configuratie Salesforce-pakket {#salesforce-package-configuration}
+               + [Kenmerken verkoopactiviteit registreren voor Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
+               + [Configuratie van de Acties van het Inzicht van de verkoop in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Marketo Sales Connect verwijderen uit Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
+               + [Marketo Sales Connect verwijderen van Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
          + E-mail {#email}
             + Opdrachtcentrum {#command-center}
                + [Overzicht van geavanceerd zoeken](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)

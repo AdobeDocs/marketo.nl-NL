@@ -2,7 +2,7 @@
 description: Handelingen Admin Setup-handleiding voor het toezicht op de verkoop - Marketo Docs - Productdocumentatie
 title: Handleiding voor installatie van Admin Setup voor het inzicht in verkoop
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 7249a7e7cd1879d35fedef0a6e3568fbc2872ef9
+source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 0%
@@ -19,7 +19,6 @@ ht-degree: 0%
 >
 >* Bevestig met het accountteam van Adobe (uw accountmanager) dat de MSI-handelingen zijn ingeschakeld voor uw Marketo Engage-account (als u geen accountmanager hebt, neemt u contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}).
 >* Uw Marketo/Salesforce-synchronisatie moet zijn ingesteld.
-
 
 <table>
  <tr>
@@ -190,4 +189,4 @@ U zult een bevestigingsbericht ontvangen zodra de uitnodigingen worden verzonden
 
 >[!NOTE]
 >
->Als dit is gebeurd, kunt u een upgrade uitvoeren van het bestaande MSI-pakket of een nieuw MSI-pakket installeren en doorgaan naar [MSI-handelingen configureren in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
+>Als dit is gebeurd, kunt u een upgrade uitvoeren van het bestaande MSI-pakket of een nieuw MSI-pakket installeren en doorgaan naar [MSI-handelingen configureren in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md){target="_blank"}.
