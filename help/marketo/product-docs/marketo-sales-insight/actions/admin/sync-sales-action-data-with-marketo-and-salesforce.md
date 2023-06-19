@@ -2,9 +2,9 @@
 description: Verkoopgegevens synchroniseren met Marketo en Salesforce - Marketo Docs - Productdocumentatie
 title: Verkoopgegevens synchroniseren met Marketo en Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '1062'
+source-wordcount: '1064'
 ht-degree: 0%
 
 ---
@@ -112,13 +112,12 @@ De Acties van het Inzicht van de verkoop staan beheerders toe om te vormen welke
 
 ![](assets/actions-data-sync-faq-6.png)
 
-Het diagram hierboven toont welke informatie aan Salesforce wordt geregistreerd. Activiteiten zoals e-mails en oproepen worden bij Salesforce aangemeld in een [eenzijdige synchronisatie](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md). [Abonnementen opzeggen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) en [Herinneringstaken](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) voortdurend worden gesynchroniseerd. Elk van deze gegevenssyncs is configureerbaar van het Web-app interface van Acties van het Inzicht van de Verkoop.
+Het diagram hierboven toont welke informatie aan Salesforce wordt geregistreerd. Activiteiten zoals e-mails en oproepen worden bij Salesforce aangemeld in een [eenzijdige synchronisatie](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md). [Abonnementen opzeggen](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md) en [Herinneringstaken](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md) voortdurend worden gesynchroniseerd. Elk van deze gegevenssyncs is configureerbaar van het Web-app interface van Acties van het Inzicht van de Verkoop.
 
 >[!MORELIKETHIS]
 >
 >* [Abonnementen synchroniseren met Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/syncing-unsubscribes-with-salesforce.md)
 >* [Marketo Unsubscribe Check](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md)
->* [Instellingen voor Salesforce Sync](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Verkoopactiviteiten synchroniseren met Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Herinnering taaksynchronisatie met Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [Gegevenssynchronisatie starten](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
-

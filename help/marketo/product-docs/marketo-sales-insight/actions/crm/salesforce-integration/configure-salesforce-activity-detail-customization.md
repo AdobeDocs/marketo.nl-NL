@@ -2,9 +2,9 @@
 description: Aanpassing van Salesforce Activity Detail - Marketo-documenten - Productdocumentatie configureren
 title: Aanpassing Salesforce Activity Detail configureren
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
-source-git-commit: b490b10c5544defaad50163fa29bfd0c2ca0d902
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -14,8 +14,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* Handelingen voor Salesforce en Sales Insight [moet zijn aangesloten](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* E-mailactiviteit registreren via API [moet worden ingeschakeld](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
-
+>* E-mailactiviteit registreren via API [moet worden ingeschakeld](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 De Aanpassing van het Detail van de activiteit staat Admins toe om de informatie te vormen die aan het Taak Salesforce - Onderwerp Gebied zal registreren, wanneer een de activiteit/de herinneringstaak van het Inzicht van de Verkoop aan Salesforce wordt gesynchroniseerd.
 
@@ -23,7 +22,6 @@ De Aanpassing van het Detail van de activiteit staat Admins toe om de informatie
 >
 >* De updates aan het onderwerpgebied in de Acties van het Inzicht van de Verkoop van een herinneringstaak worden gemaakt zullen in het overeenkomstige het onderwerpgebied van de taak van Salesforce worden weerspiegeld, als u gebruikt `{{activity_subject}}` dynamisch veld in de aanpassing van het activiteitsgegeven.
 >* Regeleinden worden niet ondersteund wanneer gegevens worden geregistreerd naar het onderwerpveld Salesforce. Om het even welke lijnonderbrekingen in de redacteur van de Aanpassing van het Detail van de Activiteit zullen worden verwijderd wanneer een onderwerp van de verkooptaak wordt bijgewerkt.
-
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -69,17 +67,17 @@ De dynamische de verwijzingsinformatie van Gebieden van de activiteit over uw ve
   <th>Beschrijving</th>
  </tr>
  <tr>
-  <td>{{activity_type}</td>
+  <td>{{activity_type}}</td>
   <td>Hiermee vult u het taaktype in als E-mail, Bel, InMail of Aangepast.</td>
  </tr>
  <tr>
-  <td>{{activity_subject}</td>
+  <td>{{activity_subject}}</td>
   <td><p>Zal het onderwerp van de taak vullen.</p>
       <p>In het geval van een e-mail wordt de onderwerpregel van de e-mail ingevuld.</p>
       <p>In het geval van vraag, inMail, of douane, zal het een waarde bevolken als er een herinneringstaak was die met een waarde op het de taaknaam/onderwerpgebied werd gecreeerd.</p></td>
  </tr>
  <tr>
-  <td>{{sales_campagne_name}}</td>
+  <td>{{sales_campaign_name}}</td>
   <td>Als de activiteit van een verkoopcampagne werd geïnitieerd, zal het de naam van de verkoopcampagne bevolken.</td>
  </tr>
  <tr>
@@ -91,7 +89,7 @@ De dynamische de verwijzingsinformatie van Gebieden van de activiteit over uw ve
   <td>Als de activiteit van een verkoopcampagne werd geïnitieerd, zal het het stapaantal binnen de dag van de verkoopcampagne bevolken deze activiteit op voorkwam.</td>
  </tr>
  <tr>
-  <td>{call_result}</td>
+  <td>{{call_outcome}}</td>
   <td>Als de activiteit een vraag is en een vraagresultaat wordt geselecteerd, zal dit de waarde van het vraagresultaat bevolken.</td>
  </tr>
  <tr>
@@ -146,6 +144,5 @@ Wanneer het vormen van uw activiteitendetails, overweeg welke gegevens voor verk
 
 >[!MORELIKETHIS]
 >
->* [Instellingen synchroniseren](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Verkoopactiviteiten synchroniseren met Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 >* [Herinnering taaksynchronisatie met Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
-

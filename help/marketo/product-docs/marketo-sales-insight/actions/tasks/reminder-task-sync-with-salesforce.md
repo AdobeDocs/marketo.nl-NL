@@ -2,7 +2,7 @@
 description: Herinnering taaksynchronisatie met Salesforce - Marketo Docs - Productdocumentatie
 title: Herinnering taaksynchronisatie met Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Meer informatie over het inschakelen van het uitchecken van taaksynchronisatie [De Taken/Herinneringen van de Acties van het Inzicht van de Verkoop van de Synchronisatie aan Taken Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
+>Meer informatie over het inschakelen van het uitchecken van taaksynchronisatie [De Taken/Herinneringen van de Acties van het Inzicht van de Verkoop van de Synchronisatie aan Taken Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
 
 Zodra de instellingen voor taaksynchronisatie zijn ingeschakeld, zien gebruikers hun herinneringstaken bidirectioneel gesynchroniseerd met Salesforce. Dit betekent gebruikers taken van of Salesforce of de Acties van het Inzicht van de Verkoop kunnen beheren en zeker voelen dat de systemen zullen blijven gericht.
 

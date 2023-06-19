@@ -2,7 +2,7 @@
 description: Aanpassing van Salesforce Activity Detail - Marketo-documenten - Productdocumentatie configureren
 title: Aanpassing Salesforce Activity Detail configureren
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
-source-git-commit: 4967f6260f084c9382271aa10d15bb0f7e083e8d
+source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
 workflow-type: tm+mt
 source-wordcount: '707'
 ht-degree: 0%
@@ -16,14 +16,12 @@ ht-degree: 0%
 >* Salesforce en Marketo Sales Connect [moet zijn aangesloten](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
 >* E-mailactiviteit registreren via API [moet worden ingeschakeld](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
-
 Aanpassing van het Detail van de activiteit staat Admins toe om de informatie te vormen die aan het Salesforce Taak - Onderwerp gebied zal registreren, wanneer een de activiteit/herinneringstaak van de Verkoop wordt gesynchroniseerd aan Salesforce.
 
 >[!NOTE]
 >
 >* Updates die in Sales Connect in het onderwerpveld van een herinneringstaak worden aangebracht, worden weergegeven in het onderwerpveld van de overeenkomstige Salesforce-taak als u de optie `{{activity_subject}}` dynamisch veld in de aanpassing van het activiteitsgegeven.
 >* Regeleinden worden niet ondersteund wanneer gegevens worden geregistreerd naar het onderwerpveld Salesforce. Om het even welke lijnonderbrekingen in de redacteur van de Aanpassing van het Detail van de Activiteit zullen worden verwijderd wanneer een onderwerp van de verkooptaak wordt bijgewerkt.
-
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -69,17 +67,17 @@ De dynamische de verwijzingsinformatie van Gebieden van de activiteit over uw ve
   <th>Beschrijving</th>
  </tr>
  <tr>
-  <td>{{activity_type}</td>
+  <td>{{activity_type}}</td>
   <td>Hiermee vult u het taaktype in als E-mail, Bel, InMail of Aangepast.</td>
  </tr>
  <tr>
-  <td>{{activity_subject}</td>
+  <td>{{activity_subject}}</td>
   <td><p>Zal het onderwerp van de taak vullen.</p>
       <p>In het geval van een e-mail wordt de onderwerpregel van de e-mail ingevuld.</p>
       <p>In het geval van vraag, inMail, of douane, zal het een waarde bevolken als er een herinneringstaak was die met een waarde op het de taaknaam/onderwerpgebied werd gecreeerd.</p></td>
  </tr>
  <tr>
-  <td>{{sales_campagne_name}}</td>
+  <td>{{sales_campaign_name}}</td>
   <td>Als de activiteit van een verkoopcampagne werd geïnitieerd, zal het de naam van de verkoopcampagne bevolken.</td>
  </tr>
  <tr>
@@ -91,7 +89,7 @@ De dynamische de verwijzingsinformatie van Gebieden van de activiteit over uw ve
   <td>Als de activiteit van een verkoopcampagne werd geïnitieerd, zal het het stapaantal binnen de dag van de verkoopcampagne bevolken deze activiteit op voorkwam.</td>
  </tr>
  <tr>
-  <td>{call_result}</td>
+  <td>{{call_outcome}}</td>
   <td>Als de activiteit een vraag is en een vraagresultaat wordt geselecteerd, zal dit de waarde van het vraagresultaat bevolken.</td>
  </tr>
  <tr>
@@ -149,4 +147,3 @@ Wanneer het vormen van uw activiteitendetails, overweeg welke gegevens voor verk
 >* [Instellingen synchroniseren](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Herinnering taaksynchronisatie met Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
 >* [Aanpassing van Sales Connect voor CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
-
