@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
-source-wordcount: '8933'
+source-wordcount: '8958'
 ht-degree: 0%
 
 ---
@@ -622,7 +622,7 @@ ht-degree: 0%
          + [Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Een lijst verzenden naar een advertentienetwerk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamische chat {#dynamic-chat}
-         + [Overzicht van Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Dynamisch chatoverzicht](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Eerste instelling](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Chatgebruikers toevoegen of verwijderen](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Browsermeldingen](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
@@ -1347,11 +1347,15 @@ ht-degree: 0%
                + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Verkoopactiviteiten synchroniseren met Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Configuratie Salesforce-pakket {#salesforce-package-configuration}
-               + [Kenmerken verkoopactiviteit registreren voor Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Configuratie van de Acties van het Inzicht van de verkoop in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Kenmerken verkoopactiviteit registreren voor Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Marketo Sales Connect verwijderen uit Salesforce Classic](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-classic.md)
                + [Marketo Sales Connect verwijderen van Salesforce Lightning](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
+               + [Knoppen voor handelingen toevoegen aan de Salesforce-lijstweergave](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [Veld voor activiteitstype bijwerken bij aanmelding van activiteiten bij Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
+            + Acties in Salesforce {#actions-in-salesforce}
+               + [Verkoop via e-mail verzenden in Salesforce gebruiken](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
+               + [Gebruikend Bulk toevoegt aan de Campagne van de Verkoop in Salesforce](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
          + E-mail {#email}
             + Opdrachtcentrum {#command-center}
                + [Overzicht van geavanceerd zoeken](product-docs/marketo-sales-insight/actions/email/command-center/advanced-search-overview.md)

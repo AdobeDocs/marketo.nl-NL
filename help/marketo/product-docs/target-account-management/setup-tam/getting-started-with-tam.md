@@ -3,7 +3,7 @@ unique-page-id: 12255457
 description: Aan de slag met TAM - Marketo Docs - Productdocumentatie
 title: Aan de slag met TAM
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -33,6 +33,6 @@ Wilt u Marketo TAM toevoegen aan uw exemplaar? Geweldig! Laten we eens kijken na
 * [Ontdek Marketo Companies](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies) - Een lijst weergeven met bedrijven uit andere bronnen dan uw CRM en sleutelkenmerken gebruiken om benoemde accounts te maken
 * [Handmatig een benoemde account maken](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md) - Als u handmatig een benoemde account maakt, gaat u als volgende stap naar [vullen met mensen](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md) handmatig
 
-**Optionele stap: [Accountlijsten maken en instellen](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)** - Groepeer accounts in lijsten waarmee u benoemde accounts kunt richten op branche, locatie of grootte van het bedrijf.
+**OPTIONELE STAP: [Accountlijsten maken en instellen](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)** - Groepeer accounts in lijsten waarmee u benoemde accounts kunt richten op branche, locatie of grootte van het bedrijf.
 
 Na het volgen van de bovenstaande stappen, bent u klaar om TAM te beginnen gebruiken!

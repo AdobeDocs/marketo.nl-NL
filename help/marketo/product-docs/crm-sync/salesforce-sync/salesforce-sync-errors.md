@@ -2,7 +2,7 @@
 description: Salesforce-synchronisatiefouten - Marketo-documenten - Productdocumentatie
 title: Salesforce-synchronisatiefouten
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -51,6 +51,6 @@ Bekijk een overzicht van de fouten die tijdens het synchronisatieproces optreden
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**Optionele stap**: Als u synchronisatiefouten wilt exporteren, klikt u op **Exporteren**. De gegevens worden geëxporteerd als een CSV-bestand.
+**OPTIONELE STAP**: Als u synchronisatiefouten wilt exporteren, klikt u op **Exporteren**. De gegevens worden geëxporteerd als een CSV-bestand.
 
 ![](assets/salesforce-sync-errors-5.png)

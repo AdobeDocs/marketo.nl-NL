@@ -3,7 +3,7 @@ unique-page-id: 11378814
 description: Slimme accountlijsten - Marketo Docs - Productdocumentatie
 title: Slimme accountlijsten
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
-source-git-commit: adff42d54d7953c9ec72e4d736ce0153502be960
+source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
 workflow-type: tm+mt
 source-wordcount: '508'
 ht-degree: 0%
@@ -64,7 +64,7 @@ De slimme Lijsten van de rekening werken zo gelijkaardig aan standaard Slimme Li
 
    ![](assets/account-smart-lists-9.png)
 
-**Optionele stap**: Hier komen containers. Als u een extra filter voor overeenstemmende personen kiest, kunt u het onder het eerste filter neerzetten, of _in_ en maakt u een container. In dit voorbeeld maken we een container door deze toe te voegen _Functie is CFO_.
+**OPTIONELE STAP**: Hier komen containers. Als u een extra filter voor overeenstemmende personen kiest, kunt u het onder het eerste filter neerzetten, of _in_ en maakt u een container. In dit voorbeeld maken we een container door deze toe te voegen _Functie is CFO_.
 
 ![](assets/account-smart-lists-10.png)
 
