@@ -2,16 +2,16 @@
 description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 159c0aee929327fc1e1f22d0de3abb7380935d86
+source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '643'
 ht-degree: 2%
 
 ---
 
-# Opmerkingen bij de release: Mei 2023 {#release-notes-may-23}
+# Opmerkingen bij de release: juli 2023 {#release-notes-july-23}
 
-Hieronder vindt u alle functies die in de release van 23 mei zijn opgenomen. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
+Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 juli. Raadpleeg de Adobe Marketo Engage-editie voor informatie over de beschikbaarheid van functies.
 
 >[!AVAILABILITY]
 >
@@ -19,13 +19,11 @@ Hieronder vindt u alle functies die in de release van 23 mei zijn opgenomen. Raa
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
-De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **12 mei 2023**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
-
-### Marketo Engage Moderne UX {#modern-ux}
+De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeven op **21 juli 2023**, met een gefaseerde uitrol van de resterende functies in de daaropvolgende weken. De functies en datums van de release kunnen worden gewijzigd. Controleer onder elke functie de status.
 
 </br>
 
-* **Adobe Experience Cloud Interface**: Lijnt Marketo Engage met Experience Cloud uit om een consistente navigatie-ervaring te creëren voor meerdere Experience Cloud-oplossingen in één gebruikerssessie.
+* **Betrokkenheidscanvas**: Het Betrokkenheidscanvas is een visueel hulpmiddel dat u toestaat om herbruikbare campagnes te bouwen en te organiseren. Het is volledig achterwaarts compatibel, zodat alle bestaande campagnes in deze nieuwe structuur met de klik van een knoop kunnen worden bekeken. Canvases kunnen worden gedownload en gedeeld.
 
 <table> 
   <tr> 
@@ -33,22 +31,8 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Verzonden</td>
-   <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Overzicht van Experience Cloud Interface</a></td>
-  </tr>
-  </tbody>
-</table>
-
-* **Marketo Engage Help Center**: Het Help Center biedt Marketo Engage-gebruikers een centrale locatie waar ze Help-bronnen kunnen vinden in het product. Daarnaast biedt het Help Center gebruikers de mogelijkheid om in-product hulplijnen te activeren waarin wordt uitgelegd hoe u belangrijke functies kunt gebruiken.
-
-<table> 
-  <tr> 
-   <td><b>Status</b></td>
-   <td><b>Documentatieupdates</b></td>
-  </tr>
-  <tr> 
-   <td>Verzonden</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/help-center.html">Help Center</a></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
@@ -57,15 +41,11 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 De volgende functies volgen een indeling van Adobe en worden op verschillende datums vóór of na de standaardreleasedatum uitgebracht. Controleer onder elke functie de status.
 
-### Cross-Channel Orchestration {#cross-channel-orchestration}
+### Dynamische chat {#dynamic-chat}
 
 </br>
 
-* **Interactieve webinars (beperkte beschikbaarheid in eerste instantie)**:
-
-Interactieve webinars vergroten de bestaande gebeurtenissen en webinars door een native en naadloze ervaring voor marketers te bieden om gebeurtenissen binnen Marketo Engage te maken, te beheren en te leveren. Pas de webinars aan op basis van het type gebeurtenis en voeg desgewenst zelfs presentatoren toe. Verkrijg rijke inzichten van betrokkenheid door de eigenschappen van Adobe Connect zoals levende opiniepeilingen, praatje, Q&amp;A zittingen, Web verbinding klikt, documentdownloads, en meer. Haal de webinar opname direct in Marketo Engage op en evalueer zijn prestaties door rijke dashboardmetriek.
-
-Interactieve webinars zullen geleidelijk worden opgebouwd. Vul het formulier in om eerdere toegang aan te vragen [dit formulier](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+* **Chatbron voor dynamische chattekst**: Chat wordt nu aangeboden als een bron van records en activiteiten van nieuwe personen. Deze bron kan worden gebruikt om gebruikers te helpen activiteiten in Slimme Lijsten/Campagnes filtreren. De bron kan ook worden geblokkeerd door updates op velden.
 
 <table> 
   <tr> 
@@ -73,12 +53,118 @@ Interactieve webinars zullen geleidelijk worden opgebouwd. Vul het formulier in 
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td>Uitvoeren gestart</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Overzicht van interactieve webinars</a></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Verbeterde Dynamic Chat**: De activiteiten van de Dynamic Chat, filters, en trekkers zijn verbeterd met extra attributen en gestandaardiseerde noemingsovereenkomsten.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+### Marketo Sales Insight {#marketo-sales-insight}
+
+</br>
+
+* **Abonnement op instellingen voor toevoegen opzeggen**: U hebt nu meer controle over uw afmeldingsberichten met nieuwe configuratieopties voor Afmelden toevoegen. De nieuwe mogelijkheden geven Admins controle over wanneer, waar, en wat unsubscribe overseinen in uw verkoop e-mails zal verschijnen.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamische veldvragen**: U kunt uw Verkoopteam nu vragen om specifieke delen van een e-mail nog verder aan te passen met nieuwe Veldherinneringen beschikbaar om aan e-mailmalplaatjes in de Acties van het Inzicht van de Verkoop te worden toegevoegd.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Standaard dynamische velden**: De standaard Dynamische Gebieden staan u toe om een reservewaarde te vormen die een Dynamisch Gebied kan oplossen aan als er geen waarde beschikbaar is om te worden bevolkt. Zo kunt u ervoor zorgen dat e-mails worden verzonden met alle ingevulde personalisatie.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamic Chat Support for Sales Insight**: Er zijn updates uitgevoerd ter ondersteuning van nieuwe kenmerken voor Dynamics Chat die in deze release voor alle gebruikers van Dynamics Chat zijn geïntroduceerd.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Ondersteuning van Dynamics Chat voor Handelingen van het verkoopinzicht**: We ondersteunen nu de activiteiten van Dynamics Chat in de Lead Feed en meldingen wanneer een Live Chat naar een agent wordt omgeleid.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dynamic Chat Trigger Tokens**: Nieuwe triggertokens introduceren voor activiteiten op het gebied van Dynamic Chat die in interessante momenten worden gebruikt.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
   </tr>
   </tbody>
 </table>
 
 ## Aankondigingen {#announcements}
 
-* **_Webinar productrelease_**: [Release Webinar van maart en mei 2023 Marketo Engage](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+Er zijn twee verhogingen die aan Marketo Engage in real time Personalisatie komen.
+
+* **Upgrade naar Google Analytics 4**: Marketo heeft eerder Universal Analytics ondersteund, die de gegevensregistratie voor 1 juli 2023 zal stopzetten. De gebruikers RTP zullen het migratieproces in hun dashboard van Google Analytics moeten volgen om steun voor de Google Analytics 4 integratie in RTP te voltooien. Gebruikers krijgen een unieke alfanumerieke tag (in het dialoogvenster `<head>` (in het html-gedeelte) op de bestemmingspagina&#39;s, zodat Marketo gegevens naar Google Analytics kan verzenden.
+
+* **Upgrade naar jQuery 3.7**: Om de beveiliging en stabiliteit te verbeteren, voert Marketo een upgrade uit naar jQuery 3.7.0. RTP-gebruikers die hun eigen jQuery niet laden, worden niet negatief beïnvloed, omdat Marketo de standaardversie wijzigt die van rtp.js is geladen. Nochtans, als u een gebruiker RTP met een versie van jQuery ouder dan 3.0.0 bent, gelieve te contacteren [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor hulp bij het implementeren van een aangepaste versie van rtp.js die aan uw behoeften voldoet.

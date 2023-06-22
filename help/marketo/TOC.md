@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
 workflow-type: tm+mt
-source-wordcount: '8958'
+source-wordcount: '8961'
 ht-degree: 0%
 
 ---
@@ -622,7 +622,7 @@ ht-degree: 0%
          + [Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Een lijst verzenden naar een advertentienetwerk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamische chat {#dynamic-chat}
-         + [Dynamisch chatoverzicht](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Overzicht van Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Eerste instelling](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Chatgebruikers toevoegen of verwijderen](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Browsermeldingen](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
@@ -1491,7 +1491,7 @@ ht-degree: 0%
          + Functies {#features}
             + [Overzicht van MSI-functies](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Overzicht van dashboardfuncties voor inzichten](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-            + [Dynamic Chat-integratie](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
+            + [Dynamische chatintegratie](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [E-mail naar meerdere records in Marketo Sales Insight verzenden](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Handelingen in het deelvenster MSI {#actions-in-the-msi-panel}
                + [Kies een actie in het Verkoopoverzicht](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
@@ -1908,6 +1908,7 @@ ht-degree: 0%
       + 2023 {#2023}
          + [Opmerkingen bij de release: januari &#39;23](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Opmerkingen bij de release: 23 maart](release-notes/previous-releases/2023/release-notes-mar-23.md)
+         + [Opmerkingen bij de release: mei &#39;23](release-notes/previous-releases/2023/release-notes-may-23.md)
       + 2022 {#2022}
          + [Opmerkingen bij de release: 22 januari](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [Opmerkingen bij de release: 22 maart](release-notes/previous-releases/2022/release-notes-mar-22.md)
