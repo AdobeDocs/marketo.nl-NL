@@ -1,7 +1,7 @@
 ---
 description: Gebruikend Bulk toevoegt aan de Campagne van de Verkoop in Salesforce - de Documenten van Marketo - de Documentatie van het Product
 title: Gebruikend Bulk toevoegt aan de Campagne van de Verkoop in Salesforce
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '569'
 ht-degree: 0%
@@ -74,26 +74,28 @@ Nadat u op Start hebt geklikt, wordt er een bevestigingsscherm weergegeven waari
 
 1. Kies de gewenste lijst met leads of contactpersonen en klik op de knop **Toevoegen aan verkoopcampagne** knop.
 
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+
 1. U zult aan de Modaal van de Campagne van de Verkoop van Acties met de geselecteerde mensen worden genavigeerd.
 
 1. Breng de gewenste wijzigingen aan om personen of groepen te verwijderen en klik vervolgens op **Volgende**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-9.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
 
 1. Selecteer de categorie Verkoopcampagne die u wilt gebruiken in het menu **Categorieën** vervolgkeuzelijst.
 
 1. Selecteer de verkoopcampagne waaraan u de geselecteerde personen wilt toevoegen en klik op **Volgende**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-10.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
 
 1. U ziet mogelijk verschillende opties, afhankelijk van de eerste stap in uw campagne. Als uw eerste stap een e-mail is, kunt u het e-mailbericht voor elke ontvanger bewerken, zoals hieronder wordt weergegeven. Klik op **Volgende**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
 
 1. Als uw eerste stap een e-mail is en u deze zodanig hebt geconfigureerd dat u kunt selecteren wanneer de campagne wordt gestart, kunt u het volgende doen: **Nu beginnen** of **Een nieuwe begintijd plannen**. Klik op **Start**.
 
-   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
+   ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 
 Nadat u op Start hebt geklikt, wordt er een bevestigingsscherm weergegeven waarin u kunt zien hoeveel personen zijn toegevoegd.
 
-![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
+![](assets/using-bulk-add-to-sales-campaign-in-salesforce-14.png)

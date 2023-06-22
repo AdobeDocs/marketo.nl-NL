@@ -1,7 +1,7 @@
 ---
 description: Bulksgewijs verkoop-e-mail verzenden in Salesforce - Marketo Docs - Productdocumentatie
 title: Verkoop via e-mail verzenden in Salesforce gebruiken
-source-git-commit: 4d88547ecdc25a2a1e0de49fab1493bbefd6800b
+source-git-commit: b7d80630e55d30364912e472d126a994c5eeca19
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -67,6 +67,8 @@ Leer hoe u in Salesforce bulksgewijze e-mails kunt verzenden om uw uitgaande com
    >U kunt een nieuwe mening tot stand brengen door tot de Nieuwe Mening te klikken en de beschikbare filters te vormen om onderaan de lijst te versmallen van wie u aan een Campagne van de Verkoop toevoegt.
 
 1. Kies de gewenste lijst met leads of contactpersonen en klik op de knop **Verkoop-e-mail verzenden** knop.
+
+   ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
 
 1. U zult aan het Acties samenstellen venster met de ontvangers worden genavigeerd u in samenstelt venster selecteerde.
 
