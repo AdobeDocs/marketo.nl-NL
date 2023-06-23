@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
 workflow-type: tm+mt
-source-wordcount: '8961'
+source-wordcount: '8963'
 ht-degree: 0%
 
 ---
@@ -485,10 +485,10 @@ ht-degree: 0%
          + [Mappen begrijpen](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Kennisgevingen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Typen meldingen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + Geen reizen {#not-journeys}
-         + [Overzicht van naam](product-docs/core-marketo-concepts/not-journeys/name-overview.md)
-         + [Tab Naam](product-docs/core-marketo-concepts/not-journeys/name-tab.md)
-         + [Tabblad Instellingen](product-docs/core-marketo-concepts/not-journeys/settings-tab.md)
+      + Betrokkenheidscanvas {#engagement-canvas}
+         + [Overzicht van het serviccanvas](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
+         + [Tabblad Betrokkenheid canvas](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
+         + [Tabblad Instellingen](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
       + Voorspelend publiek {#predictive-audiences}
          + [Aan de slag met voorspellend publiek](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modellen en inzichten](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
@@ -622,19 +622,19 @@ ht-degree: 0%
          + [Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Een lijst verzenden naar een advertentienetwerk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamische chat {#dynamic-chat}
-         + [Overzicht van Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
+         + [Dynamisch chatoverzicht](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Eerste instelling](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Chatgebruikers toevoegen of verwijderen](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
          + [Browsermeldingen](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Configuratie](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Chatbotgedrag](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Dynamische chatactiviteiten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Planning van benoeming {#appointment-scheduling}
             + [Kalender](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Vergaderingen](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [Routering](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Integraties {#integrations}
-            + [Dynamic Chat verbinden met Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [Dynamische chat met Marketo verbinden](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [De documentkaart gebruiken](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Dialoogvensters {#dialogues}
             + [Overzicht van dialoogvensters](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
