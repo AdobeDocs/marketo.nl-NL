@@ -4,22 +4,24 @@ title: Tabblad Instellingen
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
 
 # Tabblad Instellingen {#settings-tab}
 
-Het tabblad Instellingen is een one-stop shop met al uw instellingen voor de campagne. Het omvat zelfde toestemmingsreeksen en toegang zoals het planningslusje. Bestaande instellingen voor de campagne worden hierdoor niet verstoord. De sectie bevat drie secties en de bijbehorende modaliteiten om elke sectie te bewerken.
+Op het tabblad Instellingen staan al uw instellingen voor de campagne, inclusief dezelfde rechtensets en toegang als op het tabblad Planning. WIJZIGINGEN OP DIT TABBLAD?? Bestaande instellingen voor de campagne worden hierdoor niet verstoord.
 
-Kwalificatieregels die bepalen hoe vaak elke persoon door de Slimme stroom van de Campagne kan lopen
+Het bevat de volgende drie secties.
 
-Individuele looppas die kan worden gebruikt om enige looppas of in de toekomst te plannen
+* **Kwalificatieregels**: Hiermee bepaalt u hoe vaak elke persoon de slimme-campagnestroom kan doorlopen.
 
-Herhaling die wordt gebruikt om dagelijks, wekelijks of maandelijks recidief te plannen
+* **Afzonderlijke regels**: Kan worden gebruikt voor het plannen van enkelvoudige reeksen, direct of in de toekomst.
+
+* **Herhaling**: Wordt gebruikt om een dagelijkse, wekelijkse of maandelijkse terugkerende actie te plannen.
 
 SCREENSHOT
 

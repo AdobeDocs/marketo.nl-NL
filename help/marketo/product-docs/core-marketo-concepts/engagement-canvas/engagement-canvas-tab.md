@@ -1,117 +1,104 @@
 ---
-description: Naam tabblad - Marketo-documenten - Productdocumentatie
-title: Tab Naam
+description: Tabblad Betrokkenheid canvas - Marketo-documenten - Productdocumentatie
+title: Tabblad Betrokkenheid canvas
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 50f6f82e0e7e55007905f824dea7707a1cf25d09
+source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '973'
 ht-degree: 0%
 
 ---
 
-# Tab Naam {#name-tab}
+# Tabblad Betrokkenheid canvas {#engagement-canvas-tab}
 
-De reizen worden vertegenwoordigd door een reeks trekker, filter, en debietkaarten. Als u op elk van deze kaarten klikt, wordt het bijbehorende deelvenster Uitschuiven geopend.
+Het betrokkenheidscanvas wordt vertegenwoordigd door een reeks trigger-, filter- en flowkaarten. Als u op elke kaart klikt, worden aanvullende gegevens weergegeven.
 
-Overzicht van trigger: De kaart geeft het aantal triggers in de specifieke campagne weer. Klik op deze kaart om de Trigger-detailkaarten weer te geven en tegelijk het deelvenster Uitschuiven te openen met de volgende informatie:
+Overzicht van trigger: Deze kaart toont het aantal triggers in uw campagne. Als u erop klikt, wordt een kaart voor elke trigger en een uitschuifvenster weergegeven met de volgende informatie:
 
-Campagne waartoe de trigger behoort
-
-De knop Trigger bewerken voor toegang tot het tabblad Slimme lijst
-
-Lijst met triggernamen
+* Campagne voeren waarbij de trigger hoort
+* Lijst met triggernamen
+* Knop Trigger bewerken
 
 SCREENSHOT
 
-Detail trigger: Op de kaart wordt de naam van de trigger weergegeven. Als u op deze kaart klikt, wordt het deelvenster Uitschuiven geopend met de volgende informatie:
+Detail trigger: Op deze kaart wordt de triggernaam weergegeven. Als u erop klikt, wordt een uitschuifvenster weergegeven met de volgende informatie:
 
-Campagne waartoe de trigger behoort
-
-De knop Trigger bewerken voor toegang tot het tabblad Slimme lijst
-
-Lijst met beperkingen die zijn gekoppeld aan de trigger
+* Campagne voeren waarbij de trigger hoort
+* Lijst met beperkingen die zijn gekoppeld aan de trigger
+* Knop Trigger bewerken
 
 SCREENSHOT
 
-Filters: Als u op deze kaart klikt, wordt het deelvenster Uitschuiven geopend met de volgende informatie:
+Filter: Als u op deze kaart klikt, wordt een venster met de volgende gegevens weergegeven:
 
-Campagne waartoe de trigger behoort
-
-De knop Filter bewerken om het tabblad Slimme lijst te openen
-
-Geschat aantal personen dat voor het filter in aanmerking komt
-
-Lijst van filters en hun respectieve beperkingen
+* Campagne voeren waarbij de trigger hoort
+* Geschat aantal personen dat voor het filter in aanmerking komt
+* Lijst van filters en hun respectieve beperkingen
+* De knop Filter bewerken
 
 SCREENSHOT
 
-Stappen voor stroom: Als een flowstap geen opties bevat, worden op de kaart kenmerken weergegeven die aan de flowstap zijn gekoppeld. Als u op de kaart klikt, wordt het deelvenster Uitschuiven geopend met de volgende informatie:
+Stappen voor stroom: Als een flowstap keuzen bevat, wordt op deze kaart de naam van de flowstap weergegeven. Als u erop klikt, wordt een uitschuifvenster weergegeven met de volgende informatie:
 
-Campagne tot waar de stap Stroom behoort
-
-De knop Stroom bewerken om het tabblad Stroom te openen
-
-Lijst met kenmerken die aan de flowstap zijn gekoppeld
+* Campagne voeren voor de stap Stroom behoort tot
+* Lijst met keuzevoorwaarden die aan de flowstap zijn gekoppeld
+* De knop Stroom bewerken
 
 SCREENSHOT
 
-Stappen voor stroom: Als een flowstap keuzen bevat, wordt op de kaart de naam van de flowstap weergegeven. Als u op de kaart klikt, wordt het deelvenster Uitschuiven geopend met de volgende informatie:
+Stappen voor stroom: Als een stroomstap _niet_ Deze kaart bevat alle opties die aan de flowstap zijn gekoppeld. Als u erop klikt, wordt een uitschuifvenster weergegeven met de volgende informatie:
 
-Campagne tot waar de stap Stroom behoort
-
-De knop Stroom bewerken om het tabblad Stroom te openen
-
-Lijst met keuzevoorwaarden die aan de flowstap zijn gekoppeld
+* Campagne voeren voor de stap Stroom behoort tot
+* Lijst met kenmerken die aan de flowstap zijn gekoppeld
+* De knop Stroom bewerken
 
 SCREENSHOT
 
-Stroom stap voor Execute and Request-campagnes:
+## De Stap van de stroom voor Uitvoeren en vraagt Campagnes {#flow-step-for-execute-and-request-campaigns}
 
-Als de de stroomstap van de Campagne van de Uitvoeren of van het Verzoek om geen keuzen omvat, zal de kaart naam van de campagne tonen. Als u op de kaart klikt, wordt het deelvenster Uitschuiven geopend met de volgende informatie:
+* Als de de stroomstap van de Campagne van de Uitvoeren of van het Verzoek geen keuzen omvat, zal de kaart de naam van de campagne tonen. Als u op de kaart klikt, wordt een venster met de volgende informatie weergegeven:
 
-Campagne tot waar de stroomstap behoort
+   * Campagne voeren voor de flowstap behoort tot
+   * De knop Stroom bewerken
+   * Lijst met kenmerken die aan de flowstap zijn gekoppeld
+   * De knop Lijst weergeven, waarmee u een lijst opent met campagnes die de specifieke campagne Verzoek/Uitvoeren gebruiken
 
-De knop Stroom bewerken om het tabblad Stroom te openen
-
-Lijst met kenmerken die aan de flowstap zijn gekoppeld
-
-De knoop van de Lijst van de mening die een lijst van campagnes opent die het specifieke verzoek gebruiken of campagne uitvoeren
-
-Opmerking: U kunt de flowstap vanuit een primaire campagne bewerken. Als u geneste campagnes wilt bewerken, moet u naar de campagne navigeren via de hyperlink in het deelvenster Uitschuiven.
+>[!NOTE]
+>
+>U kunt de flowstap(en) vanuit een primaire campagne bewerken. Als u geneste campagnes wilt bewerken, moet u naar de campagne navigeren via de koppeling in het deelvenster Uitschuiven.
 
 SCREENSHOT
 
 SCREENSHOT
 
-Als de de stroomstap van de Campagne van de Uitvoeren of van het Verzoek keuzen omvat, zal de kaart naam van de campagne tonen. Als u op de kaart klikt, wordt het deelvenster Uitschuiven geopend met de volgende informatie:
+* Als de de stroomstap van de Campagne van de Uitvoeren of van het Verzoek keuzen omvat, zal de kaart de naam van de campagne tonen. Als u op de kaart klikt, wordt een venster met de volgende informatie weergegeven:
 
-Campagne tot waar de stroomstap behoort
-
-De knop Stroom bewerken om het tabblad Stroom te openen
-
-Lijst met keuzevoorwaarden die aan de flowstap zijn gekoppeld
+   * Campagne voeren voor de flowstap behoort tot
+   * Lijst met keuzevoorwaarden die aan de flowstap zijn gekoppeld
+   * De knop Stroom bewerken
 
 SCREENSHOT
 
 SCREENSHOT
 
-Als een uitvoerings- of aanvraagcampagne keuzen bevat, wordt het klikken op de stroomkaart uitgevouwen, zodat alle keuzen in de afzonderlijke kaarten worden weergegeven.
+* Als een campagne voor uitvoeren of aanvragen opties bevat, wordt het klikken op de stroomkaart uitgebreid en worden alle opties in de afzonderlijke kaarten weergegeven. Als u op de keuzevaart klikt, wordt de campagne voor de specifieke keuze uitgebreid en wordt het deelvenster Uitschuiven geopend met de volgende informatie:
 
-Als u op de keuzevaart klikt, wordt de campagne voor de specifieke keuze uitgebreid en wordt het deelvenster Uitschuiven geopend met de volgende informatie:
+!!!!!!!!!!!!!!! TWEEDE ZIN GRAMMAR CORRIGEREN
 
-Campagne waartoe de keuze behoort
-
-Keuzerondje bewerken om het tabblad Stroom te openen
-
-Lijst met keuzevoorwaarden die aan de flowstap zijn gekoppeld
-
-De knoop van de Lijst van de mening die een lijst van campagnes opent die het specifieke verzoek gebruiken of campagne uitvoeren
+* Campagne van de keuze behoort tot
+* Knop Keuze bewerken
+* Lijst met keuzevoorwaarden die aan de flowstap zijn gekoppeld
+* De knop Lijst weergeven, waarmee u een lijst opent met campagnes die de specifieke campagne Verzoek/Uitvoeren gebruiken
 
 SCREENSHOT
 
-Geneste campagne uitvoeren visualiseren (nieuwe sectie)
+!!!!!!!!!!!!!!! HIERONDER: &quot;a&quot; toevoegen voordat het is genest?
+
+## Geneste campagne voor uitvoeren visualiseren {#visualizing-nested-execute-campaign}
+
+HIER GESTOPT BEWERKEN
 
 Voer campagnes in serie met de oudercampagne uit, d.w.z. leidt die voor een uitvoerbare campagne kwalificeren alle stroomstappen van de campagne voltooien en aan de primaire campagne terugkeren om door stroomstappen van deze campagne verder te gaan.
 
@@ -119,13 +106,10 @@ Hier is een voorbeeld van een slimme campagne &quot;Campagne A&quot;die een uitg
 
 SCREENSHOT
 
-Als u op de campagnestroomkaart voor uitvoeren klikt, worden de details van &quot;Campagne B&quot; weergegeven
-
-Campagne B bevat een filter dat zich vertakt in een niet-gekwalificeerd en gekwalificeerd publiek.
-
-Gekwalificeerd publiek doorloopt stroomstappen gekoppeld aan ‘Campagne B’
-
-Alle (gekwalificeerde en niet-gekwalificeerde) doelgroepen keren terug naar &#39;Campagne A&#39; en gaan naar de volgende stap
+1. Klik op de campagnestrookaart voor uitvoeren om de details van &quot;Campagne B&quot; weer te geven.
+1. Campagne B bevat een filter dat zich vertakt in een niet-gekwalificeerd en gekwalificeerd publiek.
+1. Gekwalificeerd publiek doorloopt de stappen die zijn gekoppeld aan ‘Campagne B’.
+1. Alle (gekwalificeerde en niet-gekwalificeerde) doelgroepen keren terug naar &quot;Campagne A&quot; en gaan naar de volgende flowstap.
 
 SCREENSHOT
 
@@ -133,7 +117,7 @@ U kunt klikken op de stap Campagne uitvoeren in ‘Campagne B’. Deze stap word
 
 SCREENSHOT
 
-Bezig met visualiseren aanvraagcampagne (nieuwe sectie)
+## Bezig met visualiseren aanvraagcampagne {#visualizing-request-campaign}
 
 Aanvraagcampagnes lopen parallel aan de bovenliggende campagne, d.w.z. leads die in aanmerking komen voor een aanvraagcampagne, voltooien alle stappen van de campagne en sluiten de campagne af. Parallel daaraan zal dezelfde reeks leads ook doorlopen vanaf de primaire campagne
 
@@ -141,13 +125,10 @@ Hier is een voorbeeld van een slimme campagne &quot;Campagne A&quot;die een stap
 
 SCREENSHOT
 
-Klik op de de stroomkaart van de verzoekcampagne zal uitbreiden om details van &quot;Campagne B&quot; te tonen
-
-Campagne B bevat een filter dat zich vertakt naar een gekwalificeerd publiek.
-
-Gekwalificeerd publiek doorloopt stroomstappen gekoppeld aan ‘Campagne B’
-
-Tegelijkertijd verplaatst alle doelgroepen zich naar de volgende flowstappen in ‘Campagne A’
+1. Klik op de de stroomkaart van de verzoekcampagne zal uitbreiden om details van &quot;Campagne B&quot; te tonen
+1. Campagne B bevat een filter dat zich vertakt naar een gekwalificeerd publiek.
+1. Gekwalificeerd publiek doorloopt stroomstappen gekoppeld aan ‘Campagne B’
+1. Tegelijkertijd verplaatst alle doelgroepen zich naar de volgende flowstappen in ‘Campagne A’
 
 SCREENSHOT
 
@@ -159,7 +140,7 @@ Hier is een voorbeeld van aanvraagcampagne met keuzes.
 
 SCREENSHOT
 
-Foutafhandeling:
+## Foutafhandeling {#error-handling}
 
 Fouten in slimme lijst- en stroomstappen worden gemarkeerd met een foutpictogram op de kaart. Bovendien wordt het bijbehorende foutbericht weergegeven in het deelvenster Uitschuiven.
 
