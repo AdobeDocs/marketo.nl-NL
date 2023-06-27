@@ -3,9 +3,9 @@ unique-page-id: 2949283
 description: Verzenden en volgen vanuit Outlook via een Marketo-sjabloon - Marketo Docs - Productdocumentatie
 title: Verzenden en volgen vanuit Outlook met een Marketo-sjabloon
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Verzenden en volgen vanuit Outlook met een Marketo-sjabloon {#send-and-track-from-outlook-using-a-marketo-template}
 
 Als uw marketingteam sjablonen voor u beschikbaar heeft gesteld, kunt u deze gebruiken om tijd te besparen bij het samenstellen van uw e-mails.
+
+>[!NOTE]
+>
+>De mogelijkheden van Handelingen van het Inzicht van de verkoop, met inbegrip van verzenden Verkoop E-mail, toevoegen aan de Campagne van de Verkoop, en Taken, zijn niet beschikbaar in de e-mailplug-ins van het Inzicht van de Verkoop voor Gmail en Vooruitzichten. Op dit moment kunnen gebruikers alleen een e-mailbericht met of zonder Marketo-sjabloon van hun e-mailclient verzenden als ze de e-mailplug-ins voor Insight gebruiken.
 
 1. Open Microsoft Outlook en klik op **Marketo-bericht**.
 

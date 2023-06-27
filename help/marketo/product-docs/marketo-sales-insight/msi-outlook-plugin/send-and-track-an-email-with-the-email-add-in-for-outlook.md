@@ -3,9 +3,9 @@ unique-page-id: 2949716
 description: E-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor Outlook - Marketo Docs - Productdocumentatie
 title: E-mail verzenden en bijhouden met de e-mailinvoegtoepassing voor Outlook
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ U kunt e-mails met Marketo rechtstreeks vanuit Outlook verzenden en volgen.
 >[!PREREQUISITES]
 >
 >Als u dat nog niet hebt gedaan, installeert u de [Marketo e-mailinvoegtoepassing voor Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+
+>[!NOTE]
+>
+>De mogelijkheden van Handelingen van het Inzicht van de verkoop, met inbegrip van verzenden Verkoop E-mail, toevoegen aan de Campagne van de Verkoop, en Taken, zijn niet beschikbaar in de e-mailplug-ins van het Inzicht van de Verkoop voor Gmail en Vooruitzichten. Op dit moment kunnen gebruikers alleen een e-mailbericht met of zonder Marketo-sjabloon van hun e-mailclient verzenden als ze de e-mailplug-ins voor Insight gebruiken.
 
 1. Open Microsoft Outlook en maak een nieuwe e-mail.
 

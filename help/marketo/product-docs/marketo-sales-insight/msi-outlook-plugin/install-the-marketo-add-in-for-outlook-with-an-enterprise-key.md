@@ -3,16 +3,16 @@ unique-page-id: 11377488
 description: De Marketo Add-in voor Outlook installeren met een Enterprise Key - Marketo Docs - Productdocumentatie
 title: De Marketo Add-in voor Outlook installeren met een Enterprise Key
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # De Marketo Add-in voor Outlook installeren met een Enterprise Key {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-Vaak hebben verkopers geen beheerrechten op hun laptops en zijn hun IT-teams verantwoordelijk voor de installatie van alle software op afstand. De Marketo Add-in voor Outlook kan op deze manier worden geïnstalleerd met behulp van uw Enterprise Key, die u kunt vinden in het gedeelte Sales Insight van Admin.
+Vaak hebben verkopers geen beheerrechten op hun laptops en zijn hun IT-teams verantwoordelijk voor de installatie van alle software op afstand. De Marketo Add-in voor Outlook kan op deze manier worden geïnstalleerd met behulp van uw Enterprise Key, die u kunt vinden in het gedeelte Sales Insight van Admin. Als u de knoop van de Sleutel van de Onderneming van de Mening niet ziet, contacteer [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) om het mogelijk te maken.
 
 >[!PREREQUISITES]
 >
@@ -20,7 +20,7 @@ Vaak hebben verkopers geen beheerrechten op hun laptops en zijn hun IT-teams ver
 
 >[!NOTE]
 >
->Als u de knoop van de Sleutel van de Onderneming van de Mening niet ziet, contacteer [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support) om het mogelijk te maken.
+>De mogelijkheden van Handelingen van het Inzicht van de verkoop, met inbegrip van verzenden Verkoop E-mail, toevoegen aan de Campagne van de Verkoop, en Taken, zijn niet beschikbaar in de e-mailplug-ins van het Inzicht van de Verkoop voor Gmail en Vooruitzichten. Op dit moment kunnen gebruikers alleen een e-mailbericht met of zonder Marketo-sjabloon van hun e-mailclient verzenden als ze de e-mailplug-ins voor Insight gebruiken.
 
 1. Klik in Mijn Marketo op **Beheer** en vervolgens **Verkoopoverzicht**.
 

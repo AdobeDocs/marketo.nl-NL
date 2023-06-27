@@ -2,9 +2,9 @@
 description: Handelingen Admin Setup-handleiding voor het toezicht op de verkoop - Marketo Docs - Productdocumentatie
 title: Handleiding voor installatie van Admin Setup voor het inzicht in verkoop
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ ht-degree: 0%
 1. Klik in Marketo op **Beheer**.
 
    ![](assets/msi-actions-admin-guide-1.png)
+
+   >[!NOTE]
+   >
+   >Als u geen identiteitskaart van de Cliënt en Geheim van de Cliënt op de kaart van de Informatie van de Integratie ziet, activeer uw instantie van Acties door de eerste gebruiker uit te nodigen, en u zult Cliënt ID en Geheim zien verschijnen.
 
 1. Klikken **Verkoopoverzicht** vervolgens **Handelingen configureren**. Kiezen uit een lijst met Marketo-beheerders die u wilt uitnodigen en klikken **Uitnodiging verzenden**.
 

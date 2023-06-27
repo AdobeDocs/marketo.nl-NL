@@ -3,9 +3,9 @@ unique-page-id: 2949711
 description: De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode - Marketo Docs - Productdocumentatie
 title: De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
-source-git-commit: 268a7f1ca441661e1d943a8d6abce7bdcf308a98
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Als u geen uitnodigings-e-mail hebt ontvangen, vraagt u de Marketo-beheerder om 
 
 >[!NOTE]
 >
->Op 10/1/20, de recentste versie van het elektrische toestel van Vooruitzichten hield het steunen van off-line wijze tegen.
+>De mogelijkheden van Handelingen van het Inzicht van de verkoop, met inbegrip van verzenden Verkoop E-mail, toevoegen aan de Campagne van de Verkoop, en Taken, zijn niet beschikbaar in de e-mailplug-ins van het Inzicht van de Verkoop voor Gmail en Vooruitzichten. Op dit moment kunnen gebruikers alleen een e-mailbericht met of zonder Marketo-sjabloon van hun e-mailclient verzenden als ze de e-mailplug-ins voor Insight gebruiken.
 
 ## Installatieprogramma downloaden {#download-installer}
 
-1. Identificeer uw [Microsoft Outlook-versie](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c)
+1. Identificeer uw [Microsoft Outlook-versie](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
 
 1. Klik op de koppeling om het installatieprogramma te downloaden dat geschikt is voor uw versie van Microsoft Outlook.
 
@@ -111,6 +111,5 @@ Meer informatie over het gebruik van Marketo Message and Log With Marketo-handel
 
 >[!MORELIKETHIS]
 >
->* [Een e-mail verzenden en bijhouden met de Marketo E-mailinvoegtoepassing voor Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Verzenden en volgen vanuit Outlook met een Marketo-sjabloon](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-
+>* [Een e-mail verzenden en bijhouden met de Marketo E-mailinvoegtoepassing voor Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md){target="_blank"}
+>* [Verzenden en volgen vanuit Outlook met een Marketo-sjabloon](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md){target="_blank"}

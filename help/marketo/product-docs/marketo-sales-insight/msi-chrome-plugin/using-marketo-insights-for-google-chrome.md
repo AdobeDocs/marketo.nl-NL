@@ -3,9 +3,9 @@ unique-page-id: 7512944
 description: Marketo Insights gebruiken voor Google Chrome - Marketo Docs - Productdocumentatie
 title: Marketo Insights gebruiken voor Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Verzend en traceer Google-e-mails met Marketo Insights voor Google Chrome.
 >[!PREREQUISITES]
 >
 >[Marketo Insights installeren voor Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+
+>[!NOTE]
+>
+>De mogelijkheden van Handelingen van het Inzicht van de verkoop, met inbegrip van verzenden Verkoop E-mail, toevoegen aan de Campagne van de Verkoop, en Taken, zijn niet beschikbaar in de e-mailplug-ins van het Inzicht van de Verkoop voor Gmail en Vooruitzichten. Op dit moment kunnen gebruikers alleen een e-mailbericht met of zonder Marketo-sjabloon van hun e-mailclient verzenden als ze de e-mailplug-ins voor Insight gebruiken.
 
 ## E-mail verzenden met Marketo Insights {#send-an-email-with-marketo-insights}
 
@@ -72,4 +76,3 @@ U kunt antwoorden en oude activiteit in de activiteitengeschiedenis van een lood
    >
    >* [Marketo Insights installeren voor Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
    >* [Personen- en accountgegevens en -activiteiten weergeven in Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
-

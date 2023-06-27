@@ -3,9 +3,9 @@ unique-page-id: 1147326
 description: Marketo Insights installeren voor Google Chrome - Marketo Docs - Productdocumentatie
 title: Marketo Insights installeren voor Google Chrome
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Marketo Insights installeren voor Google Chrome {#install-marketo-insights-for-google-chrome}
 
 Voer de volgende stappen uit om te beginnen met het gebruik van de krachtige Chrome-invoegtoepassing.
+
+>[!NOTE]
+>
+>De mogelijkheden van Handelingen van het Inzicht van de verkoop, met inbegrip van verzenden Verkoop E-mail, toevoegen aan de Campagne van de Verkoop, en Taken, zijn niet beschikbaar in de e-mailplug-ins van het Inzicht van de Verkoop voor Gmail en Vooruitzichten. Op dit moment kunnen gebruikers alleen een e-mailbericht met of zonder Marketo-sjabloon van hun e-mailclient verzenden als ze de e-mailplug-ins voor Insight gebruiken.
 
 >[!NOTE]
 >
