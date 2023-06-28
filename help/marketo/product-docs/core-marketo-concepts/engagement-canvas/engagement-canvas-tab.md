@@ -4,9 +4,9 @@ title: Tabblad Betrokkenheid canvas
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 04392c95bd03e014b891a39f31b7f7d402ab5a58
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '973'
+source-wordcount: '970'
 ht-degree: 0%
 
 ---
@@ -83,22 +83,18 @@ SCREENSHOT
 
 SCREENSHOT
 
-* Als een campagne voor uitvoeren of aanvragen opties bevat, wordt het klikken op de stroomkaart uitgebreid en worden alle opties in de afzonderlijke kaarten weergegeven. Als u op de keuzevaart klikt, wordt de campagne voor de specifieke keuze uitgebreid en wordt het deelvenster Uitschuiven geopend met de volgende informatie:
+* Als een campagne voor uitvoeren of aanvragen opties bevat, wordt het klikken op de stroomkaart uitgebreid en worden alle opties in de afzonderlijke kaarten weergegeven. Als u op de keuzevaart klikt, wordt de campagne voor de specifieke keuze uitgebreid en wordt een venster met de volgende informatie weergegeven:
 
-!!!!!!!!!!!!!!! TWEEDE ZIN GRAMMAR CORRIGEREN
-
-* Campagne van de keuze behoort tot
-* Knop Keuze bewerken
-* Lijst met keuzevoorwaarden die aan de flowstap zijn gekoppeld
-* De knop Lijst weergeven, waarmee u een lijst opent met campagnes die de specifieke campagne Verzoek/Uitvoeren gebruiken
+   * Campagne van de keuze behoort tot
+   * Knop Keuze bewerken
+   * Lijst met keuzevoorwaarden die aan de flowstap zijn gekoppeld
+   * De knop Lijst weergeven, waarmee u een lijst opent met campagnes die de specifieke campagne Verzoek/Uitvoeren gebruiken
 
 SCREENSHOT
 
-!!!!!!!!!!!!!!! HIERONDER: &quot;a&quot; toevoegen voordat het is genest?
+## Een geneste campagne voor uitvoeren visualiseren {#visualizing-a-nested-execute-campaign}
 
-## Geneste campagne voor uitvoeren visualiseren {#visualizing-nested-execute-campaign}
-
-HIER GESTOPT BEWERKEN
+BEWERKEN HIER GESTOPT - OMHOOG AFSLUITEN NA VERSCHUIVING
 
 Voer campagnes in serie met de oudercampagne uit, d.w.z. leidt die voor een uitvoerbare campagne kwalificeren alle stroomstappen van de campagne voltooien en aan de primaire campagne terugkeren om door stroomstappen van deze campagne verder te gaan.
 

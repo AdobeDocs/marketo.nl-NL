@@ -4,16 +4,16 @@ title: Tabblad Instellingen
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
 
 # Tabblad Instellingen {#settings-tab}
 
-Op het tabblad Instellingen staan al uw instellingen voor de campagne, inclusief dezelfde rechtensets en toegang als op het tabblad Planning. DE WIJZIGINGEN IN DIT TABBLAD ZULLEN NIET ONDERBREKEN?? Bestaande instellingen voor de campagne worden hierdoor niet verstoord.
+Op het tabblad Instellingen staan al uw instellingen voor de campagne, inclusief dezelfde rechtensets en toegang als op het tabblad Planning. ALS U DIT TABBLAD BEZOEKT, WORDT DIT NIET ONDERBREKEN?? OVERWEEG DROPPEN OF HERFORMEREN - LOPA ZAL BEVESTIGEN - Het zal geen bestaande campagnemontages verstoren.
 
 Het bevat de volgende drie secties.
 
@@ -55,3 +55,9 @@ Het tabblad Instellingen bevat ook een kort overzicht van uw slimme lijst. Dit o
    * Geschat aantal mensen dat getroffen zal worden
    * Geschat aantal mensen dat niet meer per e-mail kan worden ontvangen
    * Geschat aantal mensen dat wacht
+
+Machtigingssets en fouten op het tabblad Instellingen:
+
+Alle bestaande rechtensets zijn van toepassing op het tabblad Instellingen. Als de knop Bewerken grijs wordt weergegeven, hebt u geen machtigingen om bewerkingen uit te voeren en moet u contact opnemen met uw Marketo-beheerder.
+
+BESCHRIJVING TOEVOEGEN BIJ HET ANNULEREN VAN GEPLANDE RUNS - BEVESTIGEN MET LOPA NA SHUTDOWN -> Als een gebruiker geen toegang heeft om campagnemontages uit te geven, zullen zij ook geen toegang hebben om geplande looppas te annuleren.
