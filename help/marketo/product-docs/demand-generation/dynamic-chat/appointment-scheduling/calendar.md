@@ -2,9 +2,9 @@
 description: Kalender - Marketo-documenten - Productdocumentatie
 title: Kalender
 exl-id: 351241e4-15b3-4547-83fe-a8ec1d89c1b0
-source-git-commit: 06c694d7f8e53999391c79db37894c21b0702090
+source-git-commit: 81e9862c2b0e7a48ab91bb1b10fd0a0ceb6308b2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ In het lusje van de Kalender, verbind uw Vooruitzichten of kalender Gmail voor g
 
 ![](assets/calendar-1.png)
 
-Zodra de kalender van een gebruiker met Dynamisch Praatje wordt verbonden, zullen zij aan de rij worden toegevoegd en hun kalender zal voor websitebezoekers beschikbaar zijn om benoemingen te plannen op.
+Zodra de kalender van een gebruiker met Dynamic Chat wordt verbonden, zullen zij aan de rij worden toegevoegd en hun kalender zal voor websitebezoekers beschikbaar zijn om benoemingen te plannen op.
 
 >[!NOTE]
 >
@@ -28,3 +28,20 @@ De gebruikers kunnen het lichaam van de uitnodiging ook aanpassen die naar de be
 >[!TIP]
 >
 >Gebruik het symbolische pictogram (krullende steunen) om uw vergadering te personaliseren die bevestigings e-mails gebruikend persoon of bedrijfattributen.
+
+## Machtigingen {#permissions}
+
+Het vormen met Vooruitzichten verleent de volgende toestemmingen aan Dynamic Chat:
+
+* Volledige toegang tot uw kalenders
+* Aanmelden en uw profiel lezen
+* Toegang tot gegevens behouden waartoe u toegang hebt verleend
+* Uw postvakmontages lezen
+
+Als u configuratie uitvoert met Google, worden de volgende machtigingen aan de Dynamic Chat verleend:
+
+* Kalenders maken, wijzigen of verwijderen
+* Afzonderlijke kalendergebeurtenissen bijwerken
+* Wijzig uw instellingen, inclusief wie uw gebeurtenissen kan zien
+* Wijzigen met wie de kalender wordt gedeeld
+* Toegang tot uw naam, e-mailadres, taalvoorkeur en profielafbeelding
