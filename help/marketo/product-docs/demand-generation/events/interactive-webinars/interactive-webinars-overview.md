@@ -2,9 +2,9 @@
 description: Interactieve webinars - Overzicht van Marketo Docs - Productdocumentatie
 title: Overzicht van interactieve webinars
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,6 @@ Neem contact op met het accountteam van Adobe (uw accountmanager) voor hulp.
 
 Ja, u kunt bepalen welke Marketo-gebruikers toestemming krijgen om interactieve webinars te maken en te leveren. Dit is toegankelijk via de sectie Interactieve webinars in het gebied Admin van uw Adobe Marketo Engage-instantie.
 
-**Moet ik de webinar van Adobe Connect terug naar het Interactive Webinar Event Programma zoals met de Programma&#39;s van de Gebeurtenis van Launchpoint associëren?**
+**Moet ik webinar aangedreven door Adobe Connect terug naar het Interactive Webinar Event Programma zoals met de Programma&#39;s van de Gebeurtenis van Launchpoint associëren?**
 
 Nr, maken de Interactieve Programma&#39;s van de Gebeurtenis Webinar de vereniging voor u.

@@ -2,9 +2,9 @@
 description: Workflows voor gebeurtenissen - Marketo Docs - Productdocumentatie
 title: Workflows voor gebeurtenissen
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
-source-git-commit: f3a6427520dff6f4e98bfe3c1afbc1b4fe5ea325
+source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,9 @@ Het dashboard bestaat uit vier widgets.
 
 **Aanwezigheid**: De aanwezigheidsduur van verschillende leden die het webinar hebben bijgewoond, wordt in verhouding tot de totale webinar-duur gemarkeerd.
 
-**Opiniepeilingprestaties**: Geeft verschillende opiniepeilingen weer die tijdens het webinar in Adobe Connect zijn gehouden en de verdeling van de leden die de opiniepeiling hebben bijgewoond en erop hebben gereageerd.
+**Opiniepeilingprestaties**: Hiermee geeft u verschillende opiniepeilingen weer die zijn gestart tijdens het webinar van Adobe Connect en de verdeling van de leden die de opiniepeiling hebben bijgewoond en erop hebben gereageerd.
 
-**Klikken en downloaden van bestanden**: Verschillende leden die het webinar hebben bijgewoond en die deze specifieke handeling hebben uitgevoerd, geven het downloadaantal weer van de bestanden en de webkoppelingen waarop tijdens het webinar in Adobe Connect is geklikt.
+**Klikken en downloaden van bestanden**: Verschillende leden die het webinar hebben bijgewoond en die specifieke actie hebben uitgevoerd, geven het downloadaantal weer van de bestanden en de webkoppelingen waarop tijdens het webinar van Adobe Connect is geklikt.
 
 ## Triggers en filters {#triggers-and-filters}
 
