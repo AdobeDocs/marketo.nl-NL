@@ -2,9 +2,9 @@
 description: Typen stappen en herinneringstaken voor verkoopcampagne - Marketo Docs - Productdocumentatie
 title: Typen stappen en herinneringstaken voor verkoopcampagne
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
-source-git-commit: a0a2c93b89738c048f7aac658be9fa95b5e87f89
+source-git-commit: eeeff565e11cf98585bc6fef98f51d1c1f74199c
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Stel een nieuw e-mailbericht samen of gebruik een bestaande sjabloon.
 
 >[!TIP]
 >
->Meer informatie over uw [verzendopties](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md){target=&quot;_blank&quot;}.
+>Meer informatie over uw [verzendopties](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
 ### Bellen {#call}
 
@@ -65,4 +65,4 @@ U kunt ook een contactpersoon voor &quot;Taak om te e-mailen&quot; maken op Link
 
 >[!MORELIKETHIS]
 >
->[Een verkoopcampagne maken](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target=&quot;_blank&quot;}
+>[Een verkoopcampagne maken](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
