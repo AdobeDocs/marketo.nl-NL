@@ -1,10 +1,8 @@
 ---
 description: Overzicht van pagina Analytics - Marketo Docs - Productdocumentatie
 title: Overzicht van pagina Analytics
-hide: true
-hidefromtoc: true
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
-source-git-commit: d960f0ad0d944bd2e74543f3ab15b59a8040b768
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -35,15 +33,15 @@ In me en de lusjes van het Team zult u informatie over gesloten overeenkomsten z
 
 ## Ik Tab {#me-tab}
 
-De [Mijn tabblad](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md) is een uitstekende plaats om de betrokkenheid van uw e-mails, sjablonen en koppelingen te controleren. Als u een beheerder in de Acties van het Inzicht van de Verkoop bent, kunt u door om het even welke gebruiker op uw team filtreren om hun status te zien.
+De [Mijn tabblad](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} is een uitstekende plaats om de betrokkenheid van uw e-mails, sjablonen en koppelingen te controleren. Als u een beheerder in de Acties van het Inzicht van de Verkoop bent, kunt u door om het even welke gebruiker op uw team filtreren om hun status te zien.
 
 ## Tabblad Team {#team-tab}
 
-In de [Tabblad Team](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md), zie statistieken en classificaties voor uw volledige team. U kunt ook filteren door de subteams die u hebt gemaakt.
+In de [Tabblad Team](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, zie statistieken en classificaties voor uw volledige team. U kunt ook filteren door de subteams die u hebt gemaakt.
 
 ## Tabblad Inhoud {#content-tab}
 
-De [Inhoud, tabblad](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md) bevat instructies over sjablonen, inhoud en koppelingen. U kunt filteren op iedereen of op teams die uw beheerders hebben gemaakt.
+De [Inhoud, tabblad](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} bevat instructies over sjablonen, inhoud en koppelingen. U kunt filteren op iedereen of op teams die uw beheerders hebben gemaakt.
 
 Als u blauwe tekst ziet onder de onderwerpregel, betekent dit dat de sjabloon wordt gedeeld. U kunt op de blauwe tekst klikken die naar die sjabloon moet worden doorgevoerd. Gebruik bekijken door op **Sjabloonanalyse**.
 

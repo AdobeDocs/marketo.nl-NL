@@ -2,7 +2,7 @@
 description: Een sjabloon gebruiken in het venster Samenstellen - Marketo Docs - Productdocumentatie
 title: Een sjabloon gebruiken in het venster Samenstellen
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
-source-git-commit: 8b9b2b83f5dc8908f9794d1ee387299edaae31b3
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%
@@ -24,10 +24,6 @@ ht-degree: 0%
 1. Klik op het zoekpictogram in de sjabloonsectie om het zoekveld voor de sjabloon te openen.
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
-
-   >[!TIP]
-   >
-   >We raden u aan de categorie Alles vast te zetten om u snel toegang te geven tot het zoeken in uw volledige sjabloonbibliotheek, aangezien u vaak door al uw sjablonen moet zoeken om te zoeken naar wat u zoekt. Wanneer u een vastgezette categorie hebt geselecteerd en op het zoekpictogram klikt, wordt de zoekopdracht standaard uitgevoerd op de zoekopdracht in de vastgezette categorie die is geselecteerd.
 
 1. Selecteer een categorie waarin u wilt zoeken (of selecteer Alles om in alle categorieën te zoeken).
 
@@ -56,6 +52,10 @@ Favoriet **maximaal vijf** specifieke sjablooncategorieën om snel toegang te kr
 1. Klik op de knop **Een categorie vastzetten** en selecteer de gewenste rubriek.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
+
+   >[!TIP]
+   >
+   >We raden u aan de categorie Alles vast te zetten om u snel toegang te geven tot het zoeken in uw volledige sjabloonbibliotheek, aangezien u vaak door al uw sjablonen moet zoeken om te zoeken naar wat u zoekt. Wanneer u een vastgezette categorie hebt geselecteerd en op het zoekpictogram klikt, wordt de zoekopdracht standaard uitgevoerd op de zoekopdracht in de vastgezette categorie die is geselecteerd.
 
 1. Klikken **Wijzigingen opslaan** wanneer gereed (optioneel): Herhaal Stap 3 om meer toe te voegen).
 

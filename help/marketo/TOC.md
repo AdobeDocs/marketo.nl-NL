@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 4974947d546e6e66e69413462e577bfc4e9c1dd8
+source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
 workflow-type: tm+mt
-source-wordcount: '8963'
+source-wordcount: '8989'
 ht-degree: 0%
 
 ---
@@ -628,7 +628,7 @@ ht-degree: 0%
          + [Browsermeldingen](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Configuratie](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Chatbotgedrag](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Dynamische chatactiviteiten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Planning van benoeming {#appointment-scheduling}
             + [Kalender](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Vergaderingen](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
@@ -1332,7 +1332,6 @@ ht-degree: 0%
             + [Campagne is beëindigd](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [Een verkoopcampagne maken](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
             + [Instellingen verkoopcampagne](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
-            + [Verzendopties voor verkoopcampagne voor e-mailstappen](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-send-options-for-email-steps.md)
             + [Typen stappen en herinneringstaken voor verkoopcampagne](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md)
             + [Verzendopties voor verkoopcampagne voor e-mailstappen](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [Lijst met campagnes weergeven als een andere gebruiker](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
@@ -1387,6 +1386,7 @@ ht-degree: 0%
             + [Kan ik een door mij verwijderde contactpersoon of groep herstellen?](product-docs/marketo-sales-insight/actions/faq/can-i-recover-a-contact-or-group-i-deleted.md)
             + [Kan ik meerdere ontvangers bijhouden met CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [Veelgestelde vragen over inhoud en bestandsbijlage](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
+            + [Worden de meningen, de Klik, en de Reacties van de Ontvangers die in CC en de Sectie BCC van E-mail worden vermeld getraceerd krijgen?](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
             + [Heeft een iPhone- of Android-app voor het instellen van een Sales Insight-actie?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
             + [Hoe kan ik de Acties van het Inzicht van de Verkoop van de Lijst van gewenste personen op Mijn Server?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Hoe bevestig ik &quot;wij konden uw verzoek&quot;niet voor authentiek verklaren wanneer het verbinden met Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
@@ -1402,6 +1402,8 @@ ht-degree: 0%
             + [Waarom synchroniseren mijn verkoopactiviteiten en activiteitsvelden niet met Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [Waarom kan ik geen contactpersoon verwijderen?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
             + [Waarom werden niet al mijn contacten geduwd op de acties van het Inzicht van de Verkoop?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
+            + [Waarom worden mijn e-mails gemarkeerd als spam?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
+            + [Waarom is mijn campagne beëindigd?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [Waarom wordt de activiteit van het volgen niet getoond in salesforce activiteit?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
          + Integraties {#integrations}
             + [Integratie van kenmerken](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
