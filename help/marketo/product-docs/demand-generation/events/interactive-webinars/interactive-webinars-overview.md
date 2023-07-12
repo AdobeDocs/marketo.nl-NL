@@ -2,9 +2,9 @@
 description: Interactieve webinars - Overzicht van Marketo Docs - Productdocumentatie
 title: Overzicht van interactieve webinars
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
-source-git-commit: c7479355c7f5fda97ce6ad0f18a5c3c6a597e535
+source-git-commit: 95751fc45efb135f13fdcc3f57806f9c669e76ad
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -23,25 +23,13 @@ Na webinar, toegang [analyse van gebeurtenisprestaties](/help/marketo/product-do
 
 ## Veelgestelde vragen {#faq}
 
-**Heb ik een aparte Adobe Connect-licentie nodig om Interactive Webinars te gebruiken?**
+**Heb ik een afzonderlijk abonnement nodig om Interactieve Webinars te gebruiken?**
 
 Nee. Alleen een actief Marketo Engage-abonnement is vereist voor het gebruik van interactieve webinars.
 
-**Wat zijn de verschillende interactieve webinar licenties?**
-
-Interactieve webinars hebben drie soorten licenties.
-
-`1.` Gedeelde Events-licentie - Deze licentie is beschikbaar in verschillende deelnemerscapaciteiten: 500, 1000 en 1500. Het bevat een beperkt aantal webinars die kunnen worden gebruikt en 3 GB opslag.
-
-`2.` Licentie voor gedeelde ruimten - Deze licentie is beschikbaar in verschillende deelnemersfuncties: 200, 500, 1000 en 1500. Het bevat een onbeperkt aantal webinars die kunnen worden gebruikt en onbeperkte opslag.
-
-`3.` Aanvullende opslaglicentie - Deze licentie bevat extra opslagruimte (100 GB of 1 TB) die kan worden gebruikt voor meerdere gedeelde Events-licenties waarbij de opslaglimiet is overschreden.
-
-U kunt elke combinatie van deze licenties aanschaffen.
-
 **Ik heb mijn opgenomen aantal interactieve webinars uitgeput. Hoe krijg ik meer sessies of meer capaciteit?**
 
-Neem contact op met het accountteam van Adobe (uw accountmanager) voor hulp.
+U moet contact opnemen met het accountteam van Adobe (uw accountmanager) voor hulp.
 
 **Kan ik als Marketo Admin bepalen welke van mijn Marketo-gebruikers interactieve webinars kunnen maken?**
 
