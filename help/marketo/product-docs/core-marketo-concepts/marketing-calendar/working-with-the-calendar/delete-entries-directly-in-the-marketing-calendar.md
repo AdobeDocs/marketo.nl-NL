@@ -3,22 +3,22 @@ unique-page-id: 2953358
 description: Items rechtstreeks verwijderen in de marketingkalender - Marketo Docs - productdocumentatie
 title: Items rechtstreeks in de marketingkalender verwijderen
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
 # Items rechtstreeks in de marketingkalender verwijderen {#delete-entries-directly-in-the-marketing-calendar}
 
-Naast [maken](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md) en [bewerken](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md) kunt u deze rechtstreeks verwijderen in de Marketingkalender. Zo gaat het.
+Naast [maken](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} kunt u deze rechtstreeks verwijderen in de Marketingkalender. Zo gaat het.
 
-1. Ga naar de **Kalender**.
+1. Klik op de knop **MU** tegel.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. Selecteer het item dat u wilt verwijderen en klik op **Programmafocus tonen**.
+1. Selecteer het item dat u wilt verwijderen en klik op **[!UICONTROL Show Program Focus]**.
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 
@@ -26,8 +26,8 @@ Naast [maken](/help/marketo/product-docs/core-marketo-concepts/marketing-calenda
 
    ![](assets/image2014-10-20-13-3a20-3a42.png)
 
-Afhankelijk van de vermelding moet u mogelijk de verwijdering bevestigen. Maar dat is het! Eenvoudig.
+Afhankelijk van de vermelding moet u mogelijk de verwijdering bevestigen. Maar dat is het!
 
 >[!MORELIKETHIS]
 >
->[Vermeldingen rechtstreeks bevestigen in de marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md)
+>[Vermeldingen rechtstreeks bevestigen in de marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}

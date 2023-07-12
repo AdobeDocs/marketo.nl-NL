@@ -3,9 +3,9 @@ unique-page-id: 7504128
 description: Een slim lijstdoel maken - Marketo Docs - Productdocumentatie
 title: Een slim lijstdoel maken
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -16,23 +16,23 @@ De doelstellingen zijn manieren om vooruitgang te volgen en uw team te motiveren
 
 Net als presentaties zijn de doelstellingen [werkruimte](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifiek.
 
-1. Ga naar de **Kalender**.
+1. Ga naar de **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Klikken **Presentatie** in de rechterbenedenhoek.
+1. Klikken **[!UICONTROL Presentations]** in de rechterbenedenhoek.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Selecteer **Doelen** tab.
+1. Selecteer **[!UICONTROL Goals]** tab.
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 
-1. Slepen en neerzetten **Doel slimme lijst** op het canvas.
+1. Slepen en neerzetten **[!UICONTROL Smart List Goal]** op het canvas.
 
    ![](assets/image2015-3-24-12-3a47-3a36.png)
 
-1. Voer een naam in voor het doel en voer een **Doel**. Klik vervolgens op **Maken**.
+1. Voer een naam in voor het doel en voer een **[!UICONTROL Goal Target]**. Klik vervolgens op **[!UICONTROL Create]**.
 
    ![](assets/image2015-3-24-12-3a50-3a6.png)
 
@@ -40,7 +40,7 @@ Net als presentaties zijn de doelstellingen [werkruimte](/help/marketo/product-d
 
    ![](assets/mql.png)
 
-1. Als de slimme lijst eenmaal is ingesteld, klikt u op de knop **Sluiten** en ga terug naar het vorige tabblad.
+1. Als de slimme lijst eenmaal is ingesteld, klikt u op de knop **[!UICONTROL Close]** en ga terug naar het vorige tabblad.
 
    ![](assets/mql2.png)
 

@@ -3,9 +3,9 @@ unique-page-id: 7504130
 description: Een aangepast doel maken - Marketo Docs - Productdocumentatie
 title: Een aangepast doel maken
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -16,31 +16,31 @@ De doelstellingen zijn manieren om vooruitgang te volgen en uw team te motiveren
 
 Net als presentaties zijn de doelstellingen [werkruimte](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)-specifiek.
 
-1. Ga naar de **Kalender**.
+1. Ga naar de **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Klikken **Presentatie** in de rechterbenedenhoek.
+1. Klikken **[!UICONTROL Presentations]** in de rechterbenedenhoek.
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Selecteer **Doelen** tab.
+1. Selecteer **[!UICONTROL Goals]** tab.
 
    ![](assets/image2015-3-26-12-3a24-3a49.png)
 
-1. Slepen en neerzetten **Aangepast doel** op het canvas.
+1. Slepen en neerzetten **[!UICONTROL Custom Goal]** op het canvas.
 
    ![](assets/image2015-3-24-12-3a32-3a45.png)
 
-1. Voer een naam in voor het doel. Selecteer een **Valuta**.
+1. Voer een naam in voor het doel. Selecteer een **[!UICONTROL Currency]**.
 
    >[!NOTE]
    >
-   >Als het doel geen monetaire waarde is, kunt u **Geen**.
+   >Als het doel geen monetaire waarde is, kunt u **[!UICONTROL None]**.
 
    ![](assets/image2015-3-24-12-3a36-3a0.png)
 
-1. Voer een waarde in voor de **Doel** en de **Huidige waarde** (als er geen is, **Voer 0 in**). Klik vervolgens op **Maken**.
+1. Voer een waarde in voor de **[!UICONTROL Goal Target]** en de **[!UICONTROL Current Value]** (als er geen is, voert u **0**). Klik vervolgens op **[!UICONTROL Create]**.
 
    ![](assets/image2015-3-24-12-3a39-3a28.png)
 

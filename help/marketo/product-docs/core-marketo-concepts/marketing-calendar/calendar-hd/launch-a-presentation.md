@@ -3,10 +3,10 @@ unique-page-id: 7504120
 description: Een presentatie starten - Marketo Docs - Productdocumentatie
 title: Een presentatie starten
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 1%
 
 ---
 
@@ -24,19 +24,18 @@ Als u de weergaven en de rotatiefrequentie voor uw presentatie hebt ingesteld, i
 >* [Een presentatie maken](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 >* [Een presentatie aanpassen](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
-
 >[!TIP]
 >
->Zorg ervoor dat **Een presentatie voorvertonen** voordat u start.
+>Zorg ervoor dat _Een presentatie voorvertonen_ voordat u start.
 
-1. Klikken **Starten**.
+1. Klik op **[!UICONTROL Launch]**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Klikken **Starten** nog een keer. Hiermee meldt u zich af van Marketo, zodat de presentatie veilig kan worden weergegeven.
+1. Klikken **[!UICONTROL Launch]** nog een keer. Hiermee meldt u zich af van Marketo, zodat de presentatie veilig kan worden weergegeven.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
    >[!TIP]
    >
-   >Uw presentatie wordt op een nieuw tabblad gestart. Verplaats de tab zo nodig naar een externe monitor of tv voor weergave en klik op **Volledig scherm** (of druk op **F11** op uw toetsenbord als u Internet Explorer gebruikt).
+   >Uw presentatie wordt op een nieuw tabblad gestart. Verplaats de tab zo nodig naar een externe monitor voor weergave en klik op **[!UICONTROL Fullscreen]**.

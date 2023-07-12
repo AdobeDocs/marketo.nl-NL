@@ -3,9 +3,9 @@ unique-page-id: 1147257
 description: Navigeren door de marketingkalender - Marketo Docs - Productdocumentatie
 title: Navigeren door de marketingkalender
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ U kunt gemakkelijk in de marketingkalender navigeren, maar dan wel één, twee, 
 
 >[!PREREQUISITES]
 >
->Zorg ervoor dat u een [Licentie voor marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) - anders verschijnt het element Marketing Calendar niet in Mijn Marketo.
+>Zorg ervoor dat u een [Licentie voor marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - anders verschijnt het element Marketing Calendar niet in Mijn Marketo.
 
 1. Ga naar de **Marketingkalender**.
 
@@ -28,7 +28,7 @@ U kunt gemakkelijk in de marketingkalender navigeren, maar dan wel één, twee, 
 
 ## Wijzigen tussen modi {#change-between-modes}
 
-1. Klik op de knop **3 weken** of **Maand** tabs om tussen modi te schakelen.
+1. Klik op de knop **[!UICONTROL 3 weeks]** of **[!UICONTROL Month]** tabs om tussen modi te schakelen.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -36,11 +36,11 @@ U kunt gemakkelijk in de marketingkalender navigeren, maar dan wel één, twee, 
 
 In de weergave Agenda worden al uw items als een lijst weergegeven.
 
-1. Klik op de knop **Vervolgkeuzelijst Filter**.
+1. Klik op de knop **[!UICONTROL Filter]** vervolgkeuzelijst.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Selecteer **Agenda** weergeven.
+1. Selecteer **[!UICONTROL Agenda]** weergeven.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -66,4 +66,4 @@ Geweldig! Dit zijn de basisbeginselen. U kunt de weergave ook met filters aanpas
 
 >[!MORELIKETHIS]
 >
->[De marketingkalender filteren](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
+>[De marketingkalender filteren](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}

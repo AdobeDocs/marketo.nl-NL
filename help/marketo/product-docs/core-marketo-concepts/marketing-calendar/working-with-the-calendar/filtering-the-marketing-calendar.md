@@ -3,9 +3,9 @@ unique-page-id: 1147294
 description: Filteren van de marketingkalender - Marketo Docs - Productdocumentatie
 title: De marketingkalender filteren
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Met invoertypen, programmalabels of werkruimten kunt u de informatie filteren die in de kalender wordt weergegeven.
 
-1. Ga naar de kalender.
+1. Klik op de knop **[!UICONTROL Calendar]** tegel.
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Klik op de knop **Type item** vervolgkeuzelijst.
+1. Klik op de knop **[!UICONTROL Entry Type]** vervolgkeuzelijst.
 
    >[!NOTE]
    >
-   >De standaardingstypen zijn **E-mail** **Programma&#39;s** en **Slim** **Campagnes** **with** **E-mail**.
+   >De standaardingstypen zijn **[!UICONTROL Email]** **[!UICONTROL Programs]** en **[!UICONTROL Smart Campaigns with Email]**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -32,7 +32,7 @@ Met invoertypen, programmalabels of werkruimten kunt u de informatie filteren di
 
    >[!TIP]
    >
-   >Voor beschrijvingen van de standaardinvoertypen kunt u uitchecken [Invoertypen voor programmaplanning](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md).
+   >Voor beschrijvingen van de standaardinvoertypen kunt u uitchecken [Invoertypen voor programmaplanning](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
 
 1. Selecteer de programmatags die voor u van belang zijn.
 
@@ -46,4 +46,4 @@ Met invoertypen, programmalabels of werkruimten kunt u de informatie filteren di
 
    >[!NOTE]
    >
-   >[Een filterdefinitie opslaan in de marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
+   >[Een filterdefinitie opslaan in de marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}
