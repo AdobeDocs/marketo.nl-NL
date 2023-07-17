@@ -2,9 +2,9 @@
 description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: e994a8d7a9d11545fec3bf61c505180f20107ac4
+source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '673'
 ht-degree: 2%
 
 ---
@@ -165,6 +165,10 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 Er zijn twee verhogingen die aan Marketo Engage in real time Personalisatie komen.
 
-* **Upgrade naar Google Analytics 4**: Marketo heeft eerder Universal Analytics ondersteund, die de gegevensregistratie voor 1 juli 2023 zal stopzetten. De gebruikers RTP zullen het migratieproces in hun dashboard van Google Analytics moeten volgen om steun voor de Google Analytics 4 integratie in RTP te voltooien. Gebruikers krijgen een unieke alfanumerieke tag (in het dialoogvenster `<head>` (in het html-gedeelte) op de bestemmingspagina&#39;s, zodat Marketo gegevens naar Google Analytics kan verzenden.
+* **Upgrade naar jQuery 3.7**: Om de beveiliging en stabiliteit te verbeteren, voert Marketo een upgrade uit naar jQuery 3.7.0. RTP-gebruikers die hun eigen jQuery niet laden, worden niet negatief beïnvloed, omdat Marketo de standaardversie wijzigt die van rtp.js is geladen. Nochtans, als u een gebruiker RTP met een versie van jQuery ouder dan 3.0.0 bent, contacteer [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor hulp bij het implementeren van een aangepaste versie van rtp.js die aan uw behoeften voldoet.
 
-* **Upgrade naar jQuery 3.7**: Om de beveiliging en stabiliteit te verbeteren, voert Marketo een upgrade uit naar jQuery 3.7.0. RTP-gebruikers die hun eigen jQuery niet laden, worden niet negatief beïnvloed, omdat Marketo de standaardversie wijzigt die van rtp.js is geladen. Nochtans, als u een gebruiker RTP met een versie van jQuery ouder dan 3.0.0 bent, gelieve te contacteren [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor hulp bij het implementeren van een aangepaste versie van rtp.js die aan uw behoeften voldoet.
+>[!NOTE]
+>
+>Gelieve te werken met uw team van de Ontwikkeling van het Web samen om te bepalen als uw plaats uw eigen Bibliotheek JQuery laadt of de standaardversie gebruikt die van de Markering RTP JavaScript van de Personalisatie van het Web Tag wordt geladen.
+
+* **Upgrade naar Google Analytics 4**: Marketo heeft eerder Universal Analytics ondersteund, die de gegevensregistratie voor 1 juli 2023 zal stopzetten. De gebruikers RTP zullen het migratieproces in hun dashboard van Google Analytics moeten volgen om steun voor de Google Analytics 4 integratie in RTP te voltooien. Gebruikers krijgen een unieke alfanumerieke tag (in het dialoogvenster `<head>` (in het html-gedeelte) op de bestemmingspagina&#39;s, zodat Marketo gegevens naar Google Analytics kan verzenden.
