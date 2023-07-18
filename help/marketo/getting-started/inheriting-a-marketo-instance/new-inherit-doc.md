@@ -3,20 +3,20 @@ description: Overnemen Doc - Marketo Docs - Productdocumentatie
 title: Overnemen Doc
 hide: true
 hidefromtoc: true
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 47%
+source-wordcount: '188'
+ht-degree: 48%
 
 ---
 
 # Overnemen Doc {#inherit-doc}
 
-Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenomen? Zo ja, dan is deze handleiding voor u bedoeld.
+Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenomen? Als dat het geval is, is dit artikel voor u bestemd.
 
 >[!TIP]
 >
->Als u een nieuwe (er) gebruiker van de Marketo Engage bent en niet vertrouwd met veel van de termijnen bent, gelieve te controleren [Marketo Verklarende woordenlijst](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+>Als u een nieuwe (er) gebruiker van de Marketo Engage bent en niet vertrouwd met veel van de termijnen bent, gelieve uit te checken [Marketo Verklarende woordenlijst](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
 ## Gebruikers en rollen {#users-and-roles}
 

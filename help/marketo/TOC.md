@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 3de5fccd516fdaee6c3dc5168df3d2b0767eb2c3
+source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
 workflow-type: tm+mt
-source-wordcount: '8989'
+source-wordcount: '8996'
 ht-degree: 0%
 
 ---
@@ -1344,6 +1344,7 @@ ht-degree: 0%
                + [Salesforce loskoppelen van acties voor verkoopinzicht](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Logboekregistratie beantwoorden](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce Diagnostics](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
+               + [Een sandbox Handelingen voor het toezicht op verkopen instellen](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [Verkoopactiviteiten synchroniseren met Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Configuratie Salesforce-pakket {#salesforce-package-configuration}
                + [Configuratie van de Acties van het Inzicht van de verkoop in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
