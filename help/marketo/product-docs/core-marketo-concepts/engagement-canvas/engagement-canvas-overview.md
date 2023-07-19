@@ -4,9 +4,9 @@ title: Overzicht van het serviccanvas
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d661e2270b63744ff7c18a4f2f5ca9e079271b11
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,35 @@ De top nav bevat de volgende functies:
 
 ## Veelgestelde vragen {#faq}
 
-LOPA WILL PROVIDE
+**Moet ik al mijn campagnes opnieuw opbouwen op het Engagement Canvas?**
+
+Nee. Betrokkenheidscanvas is volledig compatibel met oudere versies. Met de klik van een knoop, zult u elk van uw bestaande campagnes in de visuele interface van het Canvas van de Betrokkenheid kunnen zien.
+
+**Betekent het hebben van het Canvas van de Betrokkenheid in Marketo Engage dat ik toegang tot de omslagstructuur zal verliezen en zal moeten opnieuw leren hoe te om een Slimme Campagne te bouwen?**
+
+Nee. Het geweldige aan Betrokkenheidscanvas is dat het je het beste van beide werelden geeft. het is een aanvulling op de huidige manier waarop je campagnes bouwt . U kunt kiezen als u bestaande UI wilt gebruiken of bouwt/visualiseert in nieuwe UI. Alle gebruikers krijgen nog steeds een krachtige functieset, die nu wordt aangevuld met een visueel ontwerpgereedschap.
+
+**Is Engagement Canvas een betaalde add-on?**
+
+Nee. Alle bestaande en nieuwe gebruikers van de Marketo Engage onder alle abonnementen zullen toegang tot deze complementaire eigenschap hebben.
+
+**Als Marketo Engage-beheerder ben ik verantwoordelijk voor het in- en uitschakelen van het Betrokkenheidscanvas?**
+
+Nee. Het betrokkenheidscanvas is beschikbaar voor alle gebruikers in hun exemplaar. U kunt deze functie niet in- of uitschakelen voor bepaalde gebruikers, werkruimten, enzovoort.
+
+**Is alles wat momenteel beschikbaar is in Slimme Campagnes ook beschikbaar in het Canvas van de Betrokkenheid?**
+
+Ja. Het Betrokkenheidscanvas heeft volledige eigenschappariteit met Slimme Campagnes.
+
+**Hoe verschilt dit van andere visuele builders?**
+
+Er zijn drie belangrijke dingen die de Scheiding van het Canvas van de Betrokkenheid plaatsen:
+
+* Flexibiliteit: Beheer en valideer eenvoudig onderling verbonden of diep geneste campagnes met visualisatie.
+
+* Functionaliteit: Alle beelden zijn uit de doos, waardoor het gemakkelijker te gebruiken is; dankzij de geneste structuur kun je in duiken en het hele beeld krijgen .
+
+* Voeding: U behoudt alle bestaande geavanceerde Marketo Engage, nu in een visuele indeling.
 
 >[!MORELIKETHIS]
 >

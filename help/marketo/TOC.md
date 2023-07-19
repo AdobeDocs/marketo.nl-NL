@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 15c3124a53ce55810b598c43e29e21321534c81f
+source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 0%
@@ -400,7 +400,7 @@ ht-degree: 0%
             + [Periode-kosten in een programma gebruiken](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Programmabibliotheek {#program-library}
             + [Overzicht van programma-importbibliotheek](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Sjabloon voor programma voor toegangsbeheer](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-template.md)
+            + [Sjabloon voor inhoudsbeheerprogramma](product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md)
          + Programmaprestatierapport {#program-performance-report}
             + [Een voortgangsrapport voor het programma maken](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [De Kolommen van de Status van het Programma aan een Rapport van het Programma toevoegen](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -634,7 +634,7 @@ ht-degree: 0%
             + [Vergaderingen](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [Routering](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Integraties {#integrations}
-            + [Dynamische chat met Marketo verbinden](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [Dynamic Chat verbinden met Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [De documentkaart gebruiken](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Dialoogvensters {#dialogues}
             + [Overzicht van dialoogvensters](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
