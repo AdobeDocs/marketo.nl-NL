@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 8b934d0c02824953a3b4c3f5c7bfd0bfc741cbe2
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 0%
@@ -400,7 +400,7 @@ ht-degree: 0%
             + [Periode-kosten in een programma gebruiken](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Programmabibliotheek {#program-library}
             + [Overzicht van programma-importbibliotheek](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Sjabloon voor inhoudsbeheerprogramma](product-docs/core-marketo-concepts/programs/program-library/content-management-program-template.md)
+            + [Voorbeeld van een inhoudsbeheerprogramma](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
          + Programmaprestatierapport {#program-performance-report}
             + [Een voortgangsrapport voor het programma maken](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [De Kolommen van de Status van het Programma aan een Rapport van het Programma toevoegen](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -628,13 +628,13 @@ ht-degree: 0%
          + [Browsermeldingen](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Configuratie](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Chatbotgedrag](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Dynamische chatactiviteiten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Planning van benoeming {#appointment-scheduling}
             + [Kalender](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Vergaderingen](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
             + [Routering](product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md)
          + Integraties {#integrations}
-            + [Dynamic Chat verbinden met Marketo](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
+            + [Dynamische chat met Marketo verbinden](product-docs/demand-generation/dynamic-chat/integrations/connect-dynamic-chat-to-marketo.md)
             + [De documentkaart gebruiken](product-docs/demand-generation/dynamic-chat/integrations/using-the-document-card.md)
          + Dialoogvensters {#dialogues}
             + [Overzicht van dialoogvensters](product-docs/demand-generation/dynamic-chat/dialogues/dialogue-overview.md)
