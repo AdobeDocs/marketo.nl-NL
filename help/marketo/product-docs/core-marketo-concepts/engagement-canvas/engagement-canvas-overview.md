@@ -4,7 +4,7 @@ title: Overzicht van het serviccanvas
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: beb109fca5f7a94623cac438d2fc8d192905e869
+source-git-commit: 60b3abf6639e4a257b37fd3ace3cb5a3a6c318fb
 workflow-type: tm+mt
 source-wordcount: '818'
 ht-degree: 0%
@@ -43,7 +43,7 @@ HEADER - KAARTBESCHRIJVINGEN? - LOPA WILL BEVESTIGEN
 
 ## Geneste campagnes {#nested-campaigns}
 
-* Als een campagne een verzoek bevat of de stap Campagne uitvoeren, zal het klikken op de stroomkaart details van de campagne tonen die evenals een diapaneel met extra informatie wordt geroepen. (De geneste campagne zal ook een dichte pil omvatten, die op dit klikt zal de kaarten doen ineenstorten verbonden aan de genestelde campagne.) !!!!!!!!!!!!!! - HERWORD OF VERWIJDEREN - LOPA WORDT BEVESTIGD
+* Als een campagne een verzoek bevat of de stap Campagne uitvoeren, zal het klikken op de stroomkaart details van de campagne tonen die evenals een diapaneel met extra informatie wordt geroepen. (De geneste campagne zal ook een dichte pil omvatten, die op dit klikt zal de kaarten doen ineenstorten verbonden aan de genestelde campagne.) !!!!!!!!!!!!! - HERWORD OF VERWIJDEREN - LOPA WORDT BEVESTIGD
 
 * Als een campagne een verzoek bevat of Campagne uitvoeren stap met keuzen uitvoert, zal het klikken op de debietkaart een keuzevaart evenals een diapaneel met meer informatie over de keuzen tonen. Als u op elke keuzekaart klikt, worden de details van de campagne weergegeven en ziet u een deelvenster met uitschuifbare informatie.
 
