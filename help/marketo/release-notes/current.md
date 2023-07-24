@@ -2,9 +2,9 @@
 description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
-source-git-commit: 94c6a8dd94bce1d4e938f62365e8fc2c3c391814
+source-git-commit: d232da08e8637a33ff76d63e7984d794a1e18e16
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '713'
 ht-degree: 2%
 
 ---
@@ -172,3 +172,5 @@ Er zijn twee verhogingen die aan Marketo Engage in real time Personalisatie kome
 >Gelieve te werken met uw team van de Ontwikkeling van het Web samen om te bepalen als uw plaats uw eigen Bibliotheek JQuery laadt of de standaardversie gebruikt die van de Markering RTP JavaScript van de Personalisatie van het Web Tag wordt geladen.
 
 * **Upgrade naar Google Analytics 4**: Marketo heeft eerder Universal Analytics ondersteund, die de gegevensregistratie voor 1 juli 2023 zal stopzetten. De gebruikers RTP zullen het migratieproces in hun dashboard van Google Analytics moeten volgen om steun voor de Google Analytics 4 integratie in RTP te voltooien. Gebruikers krijgen een unieke alfanumerieke tag (in het dialoogvenster `<head>` (in het html-gedeelte) op de bestemmingspagina&#39;s, zodat Marketo gegevens naar Google Analytics kan verzenden.
+
+* **_Webinar productrelease_**: Doe mee op 6 september 2023, 9:00 uur PT / 12:00 uur ET voor een [levende webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} wordt gehost door ons productteam, waar u leert hoe u alle nieuwste productinnovaties kunt gebruiken.
