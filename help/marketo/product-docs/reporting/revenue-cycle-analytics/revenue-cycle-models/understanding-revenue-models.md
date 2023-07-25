@@ -3,7 +3,8 @@ unique-page-id: 4718654
 description: Inzicht in inkomstenmodellen - Marketo-documenten - productdocumentatie
 title: Inkoopmodellen
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 0%
@@ -105,4 +106,3 @@ Verloren is een goede om toe te voegen, maar u ziet dat het niet op het groene p
 >* [Rapport over uw inkomstenmodel](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >
 >* [Een inkomstenmodel goedkeuren/goedkeuren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
-

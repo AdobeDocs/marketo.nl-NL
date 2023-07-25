@@ -3,9 +3,10 @@ unique-page-id: 10096675
 description: Onderliggende campagnes en lokale middelen maken - Marketo Docs - Productdocumentatie
 title: Onderliggende campagnes en lokale elementen maken
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '668'
 ht-degree: 1%
 
 ---
@@ -49,7 +50,7 @@ Gebruik Marketo om het bevestigingsbericht voor uw gebeurtenis te verzenden. Wan
 
 >[!TIP]
 >
->U kunt ON24 configureren voor het verzenden van e-mails voor bevestiging, herinnering of follow-up. Zie de [ON24 Help-site](https://www.on24.com/live-webcast-elite/){target=&quot;_blank&quot;} voor meer informatie.
+>U kunt ON24 configureren voor het verzenden van e-mails voor bevestiging, herinnering of follow-up. Zie de [ON24 Help-site](https://www.on24.com/live-webcast-elite/){target="_blank"} voor meer informatie .
 
 ## Vereisten voor onderliggende campagne registreren {#registration-child-campaign-requirements}
 
@@ -94,11 +95,10 @@ De **E-mail verzenden** De stroomstap MOET de tweede stap zijn. Het bevestigings
 >
 >Als de persoon wordt geretourneerd met een registratiefout, wordt de e-mailbevestiging niet ontvangen.
 
-Uw volgende stap is: [De integratie van uw ON24-gebeurtenis testen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target=&quot;_blank&quot;}.
+Uw volgende stap is: [De integratie van uw ON24-gebeurtenis testen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Marketo ON24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
->* [Voorbeeld ON24-gebeurtenisintegratie](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target=&quot;_blank&quot;}
->* [Werken met de status van het Webinar-programma](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target=&quot;_blank&quot;}
-
+>* [Marketo ON24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>* [Voorbeeld ON24-gebeurtenisintegratie](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
+>* [Werken met de status van het Webinar-programma](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}

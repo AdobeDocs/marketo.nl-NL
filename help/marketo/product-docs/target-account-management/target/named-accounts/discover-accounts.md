@@ -3,7 +3,8 @@ unique-page-id: 11378812
 description: Accounts ontdekken - Marketo Docs - Productdocumentatie
 title: Accounts detecteren
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 0%
@@ -75,7 +76,6 @@ Identificeer de juiste bedrijven voor het richten.
    >* Filters uit de meeste Dienstverleners van Internet en Openbare Domeinen (b.v., yahoo.com, gmail.com) als bedrijfnamen
    >
    >* Deupes CRM accounts. Als u Acme in één record hebt en Acme Inc (of een van de volgende achtervoegsels): Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), zullen wij hen in TAM als enkel &quot;Acme&quot; samenvoegen
-
    >
    >Als je wilt dat Marketo accounts dedupliceert door CRM ID of accounteigenaar in plaats van door Company Name, neem dan contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support).
 
@@ -113,7 +113,6 @@ Identificeer de juiste bedrijven voor het richten.
 >
 >* Verschillende CRM-accounts met vergelijkbare namen die zijn gededupeerd
 >* De volgende geplande synchronisatie is nog niet opgetreden
-
 
 >[!MORELIKETHIS]
 >

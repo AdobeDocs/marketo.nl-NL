@@ -3,7 +3,8 @@ unique-page-id: 2951884
 description: De Analyse van de Kans in de Ontdekkingsreiziger van de Inkomsten - de Documentatie van Marketo - de Documentatie van het Product
 title: De Analyse van de Kans van het begrip in de Ontdekkingsreiziger van de Inkomsten
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 2%
@@ -155,4 +156,3 @@ De Analyse van de kansen geeft u toegang tot alle lood, bedrijf en opportuniteit
 >* [Een rapport van de inkomstenverkenner maken](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
 >* [Velden toevoegen aan een rapport van de Ontdekkingsreiziger van de Opbrengst](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
 >* [Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-

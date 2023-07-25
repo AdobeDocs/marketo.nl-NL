@@ -3,7 +3,8 @@ unique-page-id: 2360235
 description: Een opportuniteitsanalyse maken - Marketo Docs - Productdocumentatie
 title: Een Opportunity Influence Analyzer maken
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -63,4 +64,3 @@ Gebruik de Analysator van de Invloed van de Kans om de bijdrage van de marketing
 >
 >* [Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
 >* [Een Opportunity Influence Analyzer configureren](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
-

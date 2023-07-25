@@ -2,7 +2,8 @@
 description: Vergaderingen - Marketo Docs - Productdocumentatie
 title: Vergaderingen
 exl-id: b1eeb482-dace-402b-be4f-2fa15e61fa03
-source-git-commit: ad638b2eab24496e2f0b1b8304be139e4e906d06
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -17,4 +18,4 @@ Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschi
 
 >[!NOTE]
 >
->Wanneer een vergadering op de kalender van een agent wordt geboekt, zal de agent een e-mailbericht over het boeken, met inbegrip van gedetailleerde informatie over de Dynamische Overeenkomst van het Praatje van de bezoeker ontvangen.
+>Wanneer een vergadering op de kalender van een agent wordt geboekt, zal de agent een e-mailbericht over het boeken, met inbegrip van gedetailleerde informatie over de betrokkenheid van de Dynamic Chat van de bezoeker ontvangen.

@@ -2,7 +2,8 @@
 description: Dynamische verificatiemethode opnieuw configureren - Marketo Docs - Productdocumentatie
 title: Dynamische verificatiemethode opnieuw configureren
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
-source-git-commit: ab20d9683aa5987778970fd32793dc0f3056c84b
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 0%
@@ -19,7 +20,6 @@ Voer de onderstaande stappen uit om uw Dynamische verificatiemethode bij te werk
 >
 >* [Stap 2 van 3: Marketo-oplossing instellen met Server naar Server-verbinding](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
 >* [Stap 2 van 4: Stel de Marketo-oplossing in met de Wachtwoordbeheerverbinding van de Eigenaar van het Middel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
-
 
 1. Klik in Marketo op **Beheer**.
 
@@ -49,7 +49,6 @@ Voer de onderstaande stappen uit om uw Dynamische verificatiemethode bij te werk
    >
    >* De specifieke velden variëren per gekozen verificatiemethode en het formulier wordt automatisch bijgewerkt, afhankelijk van de vorige verificatiemethode.
    >* Als u al eerder hebt gesynchroniseerd, zijn de gegevens in het bovenstaande formulier mogelijk vooraf ingevuld. Voer alle gegevens opnieuw in om de juiste waarden te controleren.
-
 
 1. Als alles in orde is, zal Validatie Synchronisatie alle groene controletekens produceren ![](assets/green-check.png). Controleer het bericht en klik op **Overschakelen** om de verificatiemethode bij te werken.
 

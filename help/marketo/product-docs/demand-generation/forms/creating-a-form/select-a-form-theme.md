@@ -3,7 +3,8 @@ unique-page-id: 2359400
 description: Selecteer een formulierthema - Marketo Docs - Productdocumentatie
 title: Een formulierthema selecteren
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -54,4 +55,3 @@ Hoe makkelijk was dat?! U kunt uw HTML/CSS-boek nu wat stof laten verzamelen.
 >
 >* [CSS van een formulierthema bewerken](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Een veld toevoegen aan een formulier](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
-

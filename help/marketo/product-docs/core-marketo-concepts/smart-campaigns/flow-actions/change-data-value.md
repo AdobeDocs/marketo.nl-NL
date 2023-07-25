@@ -3,7 +3,8 @@ unique-page-id: 1146960
 description: Gegevenswaarde wijzigen - Marketo Docs - Productdocumentatie
 title: Gegevenswaarde wijzigen
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -44,4 +45,3 @@ U kunt Marketo gebruiken om de waarde van een veld bij te werken. Hiervoor gebru
    >
    >* [Tokens voor stroomstappen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md)
    >* [Gegevens toevoegen aan een veld](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 2949841
 description: Inzicht krijgen in gebeurtenisprogramma's - Marketo Docs - productdocumentatie
 title: Gebeurtenisprogramma's
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
-source-git-commit: 66baa78d3e32140526d8d66beba493e02937a2c2
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -29,7 +30,6 @@ Een gebeurtenisprogramma is een type programma dat kan worden gebruikt om uw off
 >* Tradeshows
 >* Vergaderingen
 
-
 Gebeurtenissen kunnen automatisch verbinding maken met uw [webinar-provider](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) en synchroniseren met een [iPad-toepassing voor inchecken](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
@@ -37,4 +37,3 @@ Gebeurtenissen kunnen automatisch verbinding maken met uw [webinar-provider](/he
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
 >* [Gebeurtenispartners van LaunchPoint](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)
-

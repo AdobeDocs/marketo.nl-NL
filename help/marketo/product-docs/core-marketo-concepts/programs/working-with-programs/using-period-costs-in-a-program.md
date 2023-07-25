@@ -3,7 +3,8 @@ unique-page-id: 1147118
 description: Periode-kosten gebruiken in een programma - Marketo Docs - Productdocumentatie
 title: Periode-kosten in een programma gebruiken
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -78,4 +79,3 @@ A [tijdsduur](/help/marketo/product-docs/core-marketo-concepts/programs/working-
 >
 >* [Kosten voor tijdrekening](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md)
 >* [Een programmarapport filteren op kosten van periode](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
-

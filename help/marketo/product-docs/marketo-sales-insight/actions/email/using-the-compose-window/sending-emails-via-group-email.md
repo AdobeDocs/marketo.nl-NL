@@ -2,7 +2,8 @@
 description: E-mails verzenden via Groepse-e-mail - Marketo Docs - Productdocumentatie
 title: E-mailberichten verzenden via e-mail voor groep
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -55,4 +56,3 @@ Hieronder wordt beschreven hoe u e-mailberichten verzendt/bewerkt met de optie G
 >
 >* [Opties voor bulkverzending](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
 >* [Een sjabloon gebruiken in het venster Samenstellen](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
-

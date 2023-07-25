@@ -3,7 +3,8 @@ unique-page-id: 8781845
 description: Marketo-momenten begrijpen - Marketo-documenten - productdocumentatie
 title: Marketo-momenten begrijpen
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '544'
 ht-degree: 0%
@@ -33,7 +34,6 @@ Hier zijn de verschillende stromen in Moments.
 >* Favorieten: Alles wat je een favoriet maakt, komt hier.
 >* Later: Alles wat later dan dit moment plaatsvindt, komt hier binnen.
 >* Gereed: Alles wat klaar is met rennen of u hebt gemarkeerd als voltooid, gaat hier.
-
 
 Oké, nu we dat uit de weg hebben, laten we even kijken op Marketo Moments aan de telefoon!
 
@@ -84,7 +84,6 @@ Geweldig! Nu kunt u iets doen door te tikken:
 >* Delen: Stuur een afbeelding om uw team te motiveren of te feliciteren.
 >* Voorbeeld verzenden (alleen e-mail): Gebruik deze optie om anderen te laten zien hoe je e-mails eruitzien voordat je ze verstuurt.
 >* Voorbeeld-e-mail (alleen e-mails): Het is altijd een goed idee om je e-mails vooraf te bekijken.
-
 
 ## Later momenten {#later-moments}
 
@@ -151,4 +150,3 @@ Klaar om meer te leren?
 >* [Gebeurteniskaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Analysecards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
 >* [Slimme camerakaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
-

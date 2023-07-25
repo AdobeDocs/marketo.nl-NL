@@ -3,7 +3,8 @@ unique-page-id: 1146997
 description: Een Date Token gebruiken in een Wachten Flow-stap - Marketo Docs - Productdocumentatie
 title: Een Date Token gebruiken in een Wachten Flow-stap
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -63,4 +64,3 @@ U kunt de stap van de Wachtstroom gebruiken om de reis van een persoon door een 
    >
    >* [Gebruik een Duur in een Stap van de Stroom van de Wacht](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
    >* [Gebruik een specifieke Datum in een Stap van de Stroom van de Wacht](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
-

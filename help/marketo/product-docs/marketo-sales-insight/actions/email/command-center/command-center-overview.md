@@ -2,7 +2,8 @@
 description: Overzicht van Command Center - Marketo Docs - Productdocumentatie
 title: Overzicht van Command Center
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 0%
@@ -87,4 +88,3 @@ Bonus: Als u uw geavanceerde zoekopdracht opslaat, werkt deze als een dynamische
 >* Taken
 >* Overzicht van geavanceerd zoeken
 >* Bulke-mails samenstellen met Selecteren en Verzenden
-

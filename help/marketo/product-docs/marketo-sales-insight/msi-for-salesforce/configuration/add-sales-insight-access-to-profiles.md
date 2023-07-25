@@ -2,20 +2,21 @@
 description: Toegang tot profielen van verkoopinzicht toevoegen - Marketo-documenten - Productdocumentatie
 title: Toegang tot verkoopinzicht toevoegen aan profielen
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
-source-git-commit: 5c4bce6ab6801b861f70722b6782df34f96fed10
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
 
 # Toegang tot verkoopinzicht toevoegen aan profielen {#add-sales-insight-access-to-profiles}
 
-Hier is hoe te om een profiel met toegang tot het Inzicht van de Verkoop te creëren terwijl het verwijderen van toegang voor uw andere profielen. Dit is voor gebruikers die de [AppExchange-pakket voor verkoopinzicht](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target=&quot;_blank&quot;}.
+Hier is hoe te om een profiel met toegang tot het Inzicht van de Verkoop te creëren terwijl het verwijderen van toegang voor uw andere profielen. Dit is voor gebruikers die de [AppExchange-pakket voor verkoopinzicht](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}.
 
 >[!IMPORTANT]
 >
->Als u al eerder toegang hebt verleend tot alle profielen via Verkoopcontrole, moet u [toegang tot profielniveau verwijderen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target=&quot;_blank&quot;} om deze rechtenset te gebruiken.
+>Als u al eerder toegang hebt verleend tot alle profielen via Verkoopcontrole, moet u [toegang tot profielniveau verwijderen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} om deze rechtenset te gebruiken.
 
 ## Een nieuw profiel voor Verkoopinzicht maken {#create-a-new-profile-for-sales-insight}
 
@@ -48,7 +49,6 @@ Als u een specifiek profiel voor uw gebruikers van het Inzicht van de Verkoop he
 
    * Wijzig in Tabinstellingen de tabbladen van Marketo in Tabblad Verborgen
    * Schakel in Aangepaste objectmachtigingen de optie Lezen, Maken, Bewerken en Verwijderen uit in Marketo Sales Insight Config
-
 
 1. Klikken **Opslaan** wanneer gereed.
 

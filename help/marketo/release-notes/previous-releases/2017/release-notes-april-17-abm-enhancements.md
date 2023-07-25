@@ -3,7 +3,8 @@ unique-page-id: 12977326
 description: Opmerkingen bij de release - April '17 ABM Enhancements - Marketo Docs - Product Documentation
 title: Opmerkingen bij de release - april '17 Verbeteringen ABM
 exl-id: 2b8b1ed2-de57-42c2-a3f5-3b49895d7595
-source-git-commit: 74effe9f8078f8d71e6de01d6e737ddc86978abb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 37356575
 description: Opties voor bulkverzending - Marketo Docs - Productdocumentatie
 title: Opties voor bulkverzending
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -65,4 +66,3 @@ Standaard bewerkt u de gegevens voor alle ontvangers. Maar u kunt ook elke afzon
 >
 >* [Bulke-mails samenstellen met Selecteren en Verzenden](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 >* [E-mailberichten verzenden via e-mail voor groep](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
-

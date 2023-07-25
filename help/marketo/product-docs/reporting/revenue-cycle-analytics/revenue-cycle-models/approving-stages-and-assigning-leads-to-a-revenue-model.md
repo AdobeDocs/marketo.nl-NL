@@ -3,7 +3,8 @@ unique-page-id: 4718683
 description: Het goedkeuren van Stages en het toewijzen van Leidingen aan een Model van de Inkomsten - de Documenten van Marketo - de Documentatie van het Product
 title: Het goedkeuren van Stages en het toewijzen van Leidingen aan een model van de Inkomsten
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 4720125
 description: Integratie van RTP met Google Universal Analytics - Marketo Docs - Productdocumentatie
 title: RTP integreren met Google Universal Analytics
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '456'
 ht-degree: 0%
@@ -33,7 +34,6 @@ Google Universal Analytics met RTP-gegevens biedt u een beter inzicht in de mani
 >* Google Universal Analytics Integration is ingeschakeld in de accountinstellingen van RTP
 >* [Google Universal Analytics-tag is correct geconfigureerd in Google Tag Manager](https://support.google.com/tagmanager/answer/6107124?hl=en)
 >* [De tag Google Tag Manager is correct geïnstalleerd op uw website](https://developers.google.com/tag-manager/quickstart)
-
 
 ## Aangepaste Dimension instellen in GUA {#set-up-custom-dimensions-in-gua}
 

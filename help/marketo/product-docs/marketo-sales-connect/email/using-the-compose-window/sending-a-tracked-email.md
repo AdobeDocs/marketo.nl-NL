@@ -3,7 +3,8 @@ unique-page-id: 37356565
 description: Een bijgehouden e-mail verzenden - Marketo Docs - Productdocumentatie
 title: Een bijgehouden e-mail verzenden
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -20,7 +21,6 @@ Wanneer u een e-mail verzendt met Marketo Sales Connect, worden de weergaven (e-
 >
 >* [Verifieer uw e-mailadres](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
 >* Een leveringskanaal instellen voor [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) of [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-
 
 1. Maak uw e-mailconcept (er zijn meerdere manieren om dit te doen, in dit voorbeeld kiezen we **Samenstellen** in de koptekst).
 
@@ -58,4 +58,3 @@ Wanneer u een e-mail verzendt met Marketo Sales Connect, worden de weergaven (e-
    >
    >* [Een e-mail plannen](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
    >* [Sjablonen](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
-

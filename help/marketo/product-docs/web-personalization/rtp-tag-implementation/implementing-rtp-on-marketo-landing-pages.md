@@ -3,7 +3,8 @@ unique-page-id: 4720151
 description: Implementatie van RTP op Marketo-landingspagina's - Marketo Docs - Productdocumentatie
 title: RTP implementeren op Marketo-landingspagina's
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%

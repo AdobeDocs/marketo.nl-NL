@@ -3,7 +3,8 @@ unique-page-id: 2360207
 description: Een gebruiker met alleen een API maken - Marketo Docs - Productdocumentatie
 title: Alleen een API-gebruiker maken
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
-source-git-commit: 2d28d4b473815952231356691b1e9310c61a20f1
+feature: Users and Roles
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 3%

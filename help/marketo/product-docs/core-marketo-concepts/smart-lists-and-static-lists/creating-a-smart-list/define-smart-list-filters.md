@@ -3,7 +3,8 @@ unique-page-id: 557316
 description: Slimme lijstfilters definiëren - Marketo Docs - Productdocumentatie
 title: Slimme lijstfilters definiëren
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
-source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [Een slimme lijst maken](create-a-smart-list.md)
 >* [Filters zoeken en toevoegen aan slimme lijsten](find-and-add-filters-to-a-smart-list.md)
-
 
 Nu hebt u [een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) en [toegevoegde filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md) Laten we de filters definiëren. Zo gaat het.
 

@@ -3,9 +3,10 @@ unique-page-id: 4720710
 description: SPF en DKIM instellen voor uw e-maillevering - Marketo Docs - Productdocumentatie
 title: SPF en DKIM instellen voor uw e-maillevering
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
-source-git-commit: c69d04702a5191f2809cc308e48acfeab7edfc7f
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
@@ -53,4 +54,3 @@ Zie [Een aangepaste DKIM-handtekening instellen](/help/marketo/product-docs/emai
 >* [Meer informatie over SPF en hoe het werkt](http://www.open-spf.org/Introduction/){target="_blank"}
 >* [Is mijn SPF correct opstelling?](https://www.kitterman.com/spf/validate.html){target="_blank"}
 >* [Heb ik de juiste syntaxis gebruikt?](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
-

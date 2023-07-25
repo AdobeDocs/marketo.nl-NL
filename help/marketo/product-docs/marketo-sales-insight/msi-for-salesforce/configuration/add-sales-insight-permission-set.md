@@ -2,9 +2,10 @@
 description: Toestemming voor verkoopcontrole toevoegen - Marketo-documenten - productdocumentatie
 title: Toestemming voor verkoopinzicht toevoegen
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
-source-git-commit: cccea2e9b7e1d0017e9be071ec85051f71e737bd
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -15,11 +16,11 @@ Gebruik de volgende stappen om toegang tot de eigenschappen van het Inzicht van 
 
 >[!PREREQUISITES]
 >
->[Het Salesforce-pakket voor verkoopinzicht bijwerken](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target=&quot;_blank&quot;} naar versie 1.8000 of hoger om deze functie te gebruiken.
+>[Het Salesforce-pakket voor verkoopinzicht bijwerken](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} naar versie 1.8000 of hoger om deze functie te gebruiken.
 
 >[!IMPORTANT]
 >
->Als u al eerder toegang hebt gegeven tot alle profielen en/of Sales Insight voor al uw gebruikers hebt geïmplementeerd, moet u [toegang tot profielniveau verwijderen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target=&quot;_blank&quot;} om deze rechtenset te gebruiken.
+>Als u al eerder toegang hebt gegeven tot alle profielen en/of Sales Insight voor al uw gebruikers hebt geïmplementeerd, moet u [toegang tot profielniveau verwijderen](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} om deze rechtenset te gebruiken.
 
 ## Overzicht {#overview}
 

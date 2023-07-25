@@ -3,7 +3,8 @@ unique-page-id: 5472283
 description: Mobiele weergave aanpassen voor uw gratis landingspagina - Marketo Docs - Productdocumentatie
 title: De mobiele weergave aanpassen voor uw openingspagina
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
@@ -50,7 +51,7 @@ Standaard wordt alles in de bureaubladweergave weergegeven in de mobiele weergav
 * Gebruik alleen Forms 2.0-formulieren. Ze reageren en passen zich automatisch aan.
 * Slechts één malplaatjeelement is editable, BODY#body (Mobiel). U kunt dit gebruiken om de achtergrondkleur te veranderen.
 
-   ![](assets/image2015-5-21-15-3a15-3a47.png)
+  ![](assets/image2015-5-21-15-3a15-3a47.png)
 
 ## Een element verbergen in de mobiele weergave {#hide-an-element-from-the-mobile-view}
 

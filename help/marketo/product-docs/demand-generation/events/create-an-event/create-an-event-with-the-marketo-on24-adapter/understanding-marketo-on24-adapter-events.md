@@ -3,9 +3,10 @@ unique-page-id: 10096658
 description: Marketo On24-adaptergebeurtenissen - Marketo Docs - Productdocumentatie
 title: Marketo On24-adaptergebeurtenissen
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -22,4 +23,4 @@ In de onderstaande afbeelding ziet u het integratieproces.
 
 ![](assets/image2015-12-16-11-3a26-3a29.png)
 
-Klaar om te beginnen? Beginnen met [Een gebeurtenis maken met de ON24-adapter](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target=&quot;_blank&quot;}.
+Klaar om te beginnen? Beginnen met [Een gebeurtenis maken met de ON24-adapter](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md){target="_blank"}.

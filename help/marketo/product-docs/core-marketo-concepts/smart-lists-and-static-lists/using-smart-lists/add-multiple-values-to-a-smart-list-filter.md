@@ -3,7 +3,8 @@ unique-page-id: 2360496
 description: Meerdere waarden toevoegen aan een slim lijstfilter - Marketo Docs - Productdocumentatie
 title: Meerdere waarden toevoegen aan een slim lijstfilter
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [Een slimme lijst maken](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Filters zoeken en toevoegen aan een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
-
 
 Laten we zeggen dat je iedereen in Californië wilt vinden, maar misschien slaat je beide op **California** en **CA** in uw database. Als u alle toepasselijke personen wilt opnemen, kunt u twee **Staat** filters, maar het is makkelijker met één.
 
@@ -42,4 +42,3 @@ Snel werken!
 >
 >* [Een restrictie toevoegen aan een slim lijstfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
 >* [Geavanceerde filters gebruiken in een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
-

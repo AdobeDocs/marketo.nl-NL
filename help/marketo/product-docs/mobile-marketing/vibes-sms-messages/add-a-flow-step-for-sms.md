@@ -3,7 +3,8 @@ unique-page-id: 11379045
 description: Een stap toevoegen voor SMS - Marketo Docs - Productdocumentatie
 title: Voeg een Stap van de Stroom voor SMS toe
 exl-id: 8e96f6ad-43c9-4d64-8cb6-241664956d72
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%
@@ -24,7 +25,6 @@ Marketo heeft drie stroomstappen die je kunt gebruiken in je SMS Smart-campagnes
 >
 >* Marketo dedupliceert per telefoonnummer. Dus als meerdere mensen hetzelfde telefoonnummer hebben, ontvangt slechts één persoon het bericht.
 >* Marketo zal niet verzenden naar mensen die zijn gevoegd op lijst van gewenste personen of die het in de handel brengen hebben opgeschort.
-
 
 Voor algemene informatie over het instellen van stroomstappen raadpleegt u [Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 

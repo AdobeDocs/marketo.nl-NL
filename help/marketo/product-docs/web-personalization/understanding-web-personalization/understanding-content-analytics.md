@@ -3,7 +3,8 @@ unique-page-id: 10093159
 description: Inhoudsanalyse - Marketo Docs - Productdocumentatie
 title: Inhoudsanalyse
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '373'
 ht-degree: 0%
@@ -101,4 +102,3 @@ Klik op de pagina Inhoud analyseren op het verwijderpictogram van de inhoud die 
 >
 >* [De balk met aanbevelingen voor inhoud inschakelen](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
 >* [Voorspelende inhoud voor web-rijke media inschakelen](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
-

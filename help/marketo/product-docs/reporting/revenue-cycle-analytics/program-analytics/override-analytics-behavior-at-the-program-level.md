@@ -3,7 +3,8 @@ unique-page-id: 2360421
 description: Gedrag Analytics negeren op programmaniveau - Marketo Docs - Productdocumentatie
 title: Gedrag Analytics negeren op programmaniveau
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -34,7 +35,6 @@ U kunt de [analysegedrag op het niveau van de beheerder op kanalen](/help/market
    >
    >* **Inclusief** - Met deze optie zorgt u ervoor dat het programma beschikbaar is voor rapportage in belastingverkenners en -analysatoren, ongeacht of u een periode hebt opgenomen in de kosten.
    >* **Operationeel** - Deze optie heeft tot gevolg dat het programma niet wordt weergegeven in zowel de belastingverkenner als de analysatoren.
-
 
    >[!NOTE]
    >

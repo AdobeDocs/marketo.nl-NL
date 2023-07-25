@@ -3,7 +3,8 @@ unique-page-id: 2949285
 description: Log Inbound Mail from Your Leads in Marketo - Marketo Docs - Productdocumentatie
 title: Inkomende e-mail van uw leads aanmelden in Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -44,4 +45,3 @@ Log de antwoorden van je lead in om ze aan hun geschiedenis in Marketo toe te vo
 >
 >* [Een e-mail verzenden en bijhouden met de Marketo E-mailinvoegtoepassing voor Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Verzenden en volgen vanuit Outlook met een Marketo-sjabloon](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-

@@ -2,7 +2,8 @@
 description: Verlopen lokale middelen - Marketo-documenten - productdocumentatie
 title: Vervaldatum van lokale middelen
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
-source-git-commit: 10873ee50aca443d481117ed66c90930a1cb4b4b
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -56,7 +57,6 @@ Voordat u de vervaldatum van middelen kunt plannen, moet voor uw Marketo-rol de 
 >* Als u een bestaande vervaldatum wilt bewerken, controleert u gewoon het element of de elementen en klikt u op **[!UICONTROL Set Expiration]**.
 >* Nadat een element is verlopen, wordt het niet meer weergegeven op het raster Verlopen. Het raster geeft alleen gepubliceerde landingspagina&#39;s, actieve triggercampagnes en terugkerende batchcampagnes weer.
 >* Geplande vervaldatums worden verwijderd als het element naar een ander programma wordt verplaatst.
-
 
 ## Een vervaldatum verwijderen {#remove-an-expiration-date}
 

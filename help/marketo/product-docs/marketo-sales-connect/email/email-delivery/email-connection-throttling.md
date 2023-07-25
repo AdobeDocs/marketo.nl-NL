@@ -2,7 +2,8 @@
 description: E-mailverbindingsmogelijkheden - Marketo Docs - Productdocumentatie
 title: Throtting van e-mailverbinding
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
-source-git-commit: ad7b222c2da937474565729a09a559fbcd722280
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -79,4 +80,3 @@ De grenzen worden geplaatst door de afdeling van IT van de organisatie aangezien
 >* [Overzicht van leveringskanaal](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* [E-mailverbinding voor Gmail-gebruikers](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 >* [E-mailverbinding voor Outlook-gebruikers](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

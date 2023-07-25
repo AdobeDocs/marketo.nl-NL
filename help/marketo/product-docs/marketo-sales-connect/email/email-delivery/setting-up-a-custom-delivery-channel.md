@@ -3,7 +3,8 @@ unique-page-id: 14746470
 description: Aangepast leveringskanaal instellen - Marketo-documenten - Productdocumentatie
 title: Een aangepast leveringskanaal instellen
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
@@ -21,7 +22,6 @@ De gebruikers kunnen opstelling een douaneSMTP server voor hun eigen individueel
 >* Naast het opzetten van uw server SMTP, uw [e-mailidentiteit moet worden geverifieerd](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md) voordat je e-mails kunt verzenden.
 >* Wij adviseren werkend met uw team van IT of SMTP serververkoper om de juiste servergeloofsbrieven voor uw server te krijgen SMTP.
 >* U kunt niet uw server van Gmail en van de Uitwisseling verbinden gebruikend de SMTP servergeloofsbrieven. Gebruik onze E-mailverbindingsservice om deze providers te integreren.
-
 
 ## Aangepaste SMTP {#custom-smtp}
 
@@ -96,4 +96,3 @@ De gebruikers kunnen opstelling een douaneSMTP server voor hun eigen individueel
    >* [E-mailverbinding voor Gmail-gebruikers](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
    >
    >* [E-mailverbinding voor Outlook-gebruikers](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

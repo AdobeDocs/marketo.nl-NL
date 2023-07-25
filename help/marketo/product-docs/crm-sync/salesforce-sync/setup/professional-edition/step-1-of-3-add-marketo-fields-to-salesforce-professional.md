@@ -3,9 +3,10 @@ unique-page-id: 11372975
 description: Stap 1 van 3 - voeg Marketo-velden toe aan Salesforce (Professional) - Marketo Docs - Productdocumentatie
 title: Stap 1 van 3 - voeg de Gebieden van Marketo aan Salesforce (Beroeps) toe
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
-source-git-commit: e84b8e03ce87f8aa0f16d2b0f22ee992e4151a55
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '782'
 ht-degree: 0%
 
 ---

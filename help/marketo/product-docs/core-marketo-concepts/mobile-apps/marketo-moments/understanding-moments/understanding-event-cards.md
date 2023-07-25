@@ -3,7 +3,8 @@ unique-page-id: 8781974
 description: Werken met gebeurtenissenkaarten - Marketo Docs - Productdocumentatie
 title: Gebeurteniskaarten
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -31,4 +32,3 @@ Je bent goed!
 >* [Marketo-momenten begrijpen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [E-mailprogrammakaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 >* [Gebeurtenisprogramma&#39;s](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
-

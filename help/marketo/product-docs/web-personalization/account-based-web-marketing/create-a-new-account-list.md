@@ -3,7 +3,8 @@ unique-page-id: 4720232
 description: Een nieuwe accountlijst maken - Marketo Docs - Productdocumentatie
 title: Een nieuwe accountlijst maken
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -45,7 +46,6 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
    >* U ontvangt een goedkeuringsbericht per e-mail of de status van het bestand op de pagina Benoemde accounts.
    >* Het totale aantal records/rijen dat voor al uw geüploade lijsten is geaccumuleerd, begint bij 10K, met het grootste pakket in totaal 100K.
 
-
    >[!NOTE]
    >
    >**Voorbeeld van het CSV-bestand**
@@ -56,10 +56,9 @@ Maak en upload een lijst met organisatie- en domeinnamen om deze sleutelaccounts
    >* Rij 1 kolom D waarde = staat VS
    >* Een van de kolomwaarden is verplicht. Nochtans, verbetert het verstrekken van zowel Organisatie als de namen van het Domein de gelijke tarieven van de Lijst van de Rekening.
    >* Land en staat zijn optionele waarden.
-      >
-      >   * Gebruik voor de naam van het land de volledige naam van het land of de afkorting. Eg. Verenigde Staten of VS.
-      >   * Voor een Amerikaanse staat gebruikt u de 2-letterige afkorting code, d.w.z. CA. Alleen staten in de VS worden herkend.
-
+   >
+   >   * Gebruik voor de naam van het land de volledige naam van het land of de afkorting. Eg. Verenigde Staten of VS.
+   >   * Voor een Amerikaanse staat gebruikt u de 2-letterige afkorting code, d.w.z. CA. Alleen staten in de VS worden herkend.
    >
    >![](assets/image2015-2-25-12-3a19-3a10.png)
 

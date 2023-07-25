@@ -3,9 +3,10 @@ unique-page-id: 9437991
 description: Triggers en filters voor mobiele slimme campagnes - Marketo Docs - Productdocumentatie
 title: Triggers en filters voor mobiele slimme campagnes
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
-source-git-commit: a90f752b291e6d34c920a94795011a8c9efa6d5b
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '823'
 ht-degree: 0%
 
 ---
@@ -131,10 +132,9 @@ Met de actievereisten kunt u de trigger en filters gebruiken om mobiele activite
 >Onder het actietype *Winkelen* Hier is een zeer specifieke actie, met andere beperkingen die het bepalen:
 >
 >* Een shirt kopen
-   >   * Het was rood
-   >   * Dat kost $30
-   >   * Het kostte 20 seconden om te kopen
-
+>   * Het was rood
+>   * Dat kost $30
+>   * Het kostte 20 seconden om te kopen
 
 Zo ziet het filter er in Marketo uit:
 
@@ -151,7 +151,6 @@ Zo ziet het filter er in Marketo uit:
 >| Handeling | Gekochte hemd | Gekochte broeken |
 >| Details van handeling | Kleur | Kleur |
 >| Metrisch handeling | Prijs | Prijs |
-
 
 **Heeft/heeft een mobiele App-sessie**
 
@@ -195,4 +194,3 @@ Taps/Tapping Push Notification
 >
 >* [Een restrictie toevoegen aan een slim lijstfilter](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
 >* [Inactiviteitsfilters gebruiken in een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
-

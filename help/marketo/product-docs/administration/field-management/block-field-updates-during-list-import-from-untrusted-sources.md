@@ -3,7 +3,8 @@ unique-page-id: 2360335
 description: Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen - Marketo Docs - Productdocumentatie
 title: Veldupdates blokkeren tijdens het importeren van lijsten uit niet-vertrouwde bronnen
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%

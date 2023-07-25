@@ -3,7 +3,8 @@ unique-page-id: 37355534
 description: Opmerkingen bij de release - jan 2020 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - jan 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
-source-git-commit: 12f45e694dccf1d9e51343b5eb9d743a8c513c1f
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '838'
 ht-degree: 0%
@@ -74,6 +75,5 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 >* **TLS 1.0 &amp; 1.1-beschadiging**: In een voortdurende poging om te integreren met de releasestructuur van Adobe, verschuiven we de afbraak van TLS 1.0 en TLS 1.1 naar 13 januari 2020. Meer gedetailleerde informatie is te vinden [hier](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 >
 >* **ITP 2.1+ Munchkin-update**: Als gevolg van wijzigingen in het cookiebeleid voor Safari, wordt de mogelijkheid van Munchkin om gebruikers te volgen tijdens sessies op hetzelfde domein door ITP beperkt tot 1 of 7 dagen op basis van de browser- en browserversie die door de bezoeker wordt gebruikt. Om dit te verklaren, voeren wij een nieuwe Webdienst uit om Munchkin koekjes toe te laten om met een reeks-Koekjeskopbal via de reactie van HTTP worden geplaatst. Meer informatie over hoe te om deze nieuwe dienst uit te voeren kan worden gevonden [hier](https://nation.marketo.com/docs/DOC-7351).
-
 
 **_Webinar productrelease_** [Doe mee](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) op 3 maart om 11.00 uur PT / 2:00 uur ET voor een live webinar die wordt gehost door ons productteam en meer informatie over de functies die in deze release zijn opgenomen.

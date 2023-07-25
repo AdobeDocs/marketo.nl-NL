@@ -3,9 +3,10 @@ unique-page-id: 10096673
 description: Gebeurtenisinstellingen configureren en Marketo synchroniseren met uw webinar - Marketo Docs - Productdocumentatie
 title: Gebeurtenisinstellingen configureren en Marketo synchroniseren met uw webinar
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
-source-git-commit: 0c6c119f5be6e2ac3db7d99f7e8623d8aaa3555c
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -52,8 +53,8 @@ Wanneer u opstelling een gebeurtenis die met een ON24 Webinar wordt geassocieerd
    >
    >Als u gebeurtenisinformatie bijwerkt in ON24, moet u klikken **Vernieuwen vanaf webinar-provider** in het menu Gebeurtenishandelingen om te zien hoe de nieuwe gegevens worden gevuld.
 
-Nu kunt u verdergaan naar de volgende stap: [het creëren van kindcampagnes en lokale activa](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target=&quot;_blank&quot;}.
+Nu kunt u verdergaan naar de volgende stap: [het creëren van kindcampagnes en lokale activa](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Marketo On24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target=&quot;_blank&quot;}
+>[Marketo On24-adaptergebeurtenissen](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

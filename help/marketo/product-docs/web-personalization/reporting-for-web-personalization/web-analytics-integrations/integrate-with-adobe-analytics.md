@@ -3,7 +3,8 @@ unique-page-id: 2949160
 description: Integreren met Adobe Analytics - Marketo Docs - Productdocumentatie
 title: Integreren met Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1130'
 ht-degree: 0%
@@ -79,7 +80,6 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
 
       1. Het veld Verlopen na wijzigen in **Bezoek**.
 
-
 1. Onder **Instellingen bewerken** ga naar **Conversie** en selecteert u **[Gebeurtenissen geslaagd](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**.
 
    1. Selecteer het gebeurtenisnummer Aangepaste succesgebeurtenissen (aanbevolen):
@@ -92,9 +92,8 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
       >Als deze # worden genomen, selecteer een ander beschikbaar aantal. Lijn dit aantal met het groefaantal in de Montages van de Rekening RTP uit.
 
       1. Wijzig de namen van de twee gebeurtenissen in **RTP-campagnes** en **RTP-segmenten**. Dit is de naam die wordt weergegeven in de rapportsuite.
+
    1. Selecteer het veld Type dat u wilt gebruiken **Teller (geen subrelaties)**
-
-
 
 1. Onder **Instellingen bewerken** ga naar **[Verkeer](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)** en selecteert u **[Verkeersvariabelen](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**.
 
@@ -110,11 +109,10 @@ Voer de volgende stappen uit om deze variabelen in te stellen in AA:
       >Als deze # worden genomen, selecteer een ander beschikbaar aantal. Dit nummer uitlijnen met het sleufnummer in de instellingen voor RTP-account)
 
       1. Wijzig de 4 eigenschapnamen. Dit is de naam die wordt weergegeven in de rapportsuite.
+
    1. Veld Ingeschakeld selecteren voor **Ingeschakeld**.
 
    1. Veld Padrapporten selecteren voor **Ingeschakeld**.
-
-
 
 ## Opstelling in Echte Marketo - tijd Personalisatie (RTP) {#set-up-in-marketo-real-time-personalization-rtp}
 

@@ -3,7 +3,8 @@ unique-page-id: 2359500
 description: Prioriteit segmentatievolgorde - Marketo-documenten - productdocumentatie
 title: Prioriteit segmentvolgorde
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Segmentation
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -40,6 +41,5 @@ Het is belangrijk te begrijpen hoe **bestellen** bepaalt de prioriteit voor eval
 >* De segmenten sluiten elkaar uit. Een persoon kan slechts lid zijn van één segment tegelijk.
 >* Wanneer een persoon voor twee segmenten in aanmerking komt, behoren zij slechts tot eerste in de lijst.
 >* Als een persoon niet voor om het even welk Segment in aanmerking komt, zullen zij een lid van het StandaardSegment worden.
-
 
 Cool, hè? U kunt segmenten gebruiken voor dynamische inhoud, rapportage en zelfs in slimme lijsten.

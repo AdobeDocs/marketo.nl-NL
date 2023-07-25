@@ -2,7 +2,8 @@
 description: Opmerkingen bij de release - mei 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - mei 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 0%
@@ -27,13 +28,13 @@ De volgende functies worden vrijgegeven op **6 mei 2022**, met een gefaseerde ui
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-**Chatbotgebeurtenissen voor dynamische chat**: Gebruik gedetailleerdere gedragsgegevens voor webbezoekers, zoals tijd op de pagina, tijd op de site en het schuifpercentage van de pagina om te bepalen wanneer een chatdialoogvenster moet worden weergegeven.
+**Chatbot Events for Dynamic Chat**: Gebruik gedetailleerdere gedragsgegevens voor webbezoekers, zoals tijd op de pagina, tijd op de site en het schuifpercentage van de pagina om te bepalen wanneer een chatdialoogvenster moet worden weergegeven.
 
-**PDF insluiten voor dynamische chat**: Verhoog de betrokkenheid en deel betekenisvolle inhoud door PDF in chatdialoogvensters in te sluiten en de prestaties van inhoud te meten via het volgen van de betrokkenheidsactiviteit.
+**PDF Insluiten voor Dynamic Chat**: Verhoog de betrokkenheid en deel betekenisvolle inhoud door PDF in chatdialoogvensters in te sluiten en de prestaties van inhoud te meten via het volgen van de betrokkenheidsactiviteit.
 
-**Uitgebreide taalondersteuning voor dynamische chat**: De Dynamic Chat-gebruikersinterface is nu ook beschikbaar in het Frans, Duits, Japans, Portugees en Spaans. Chatdialoogvensters kunnen ook in deze talen worden geconfigureerd.
+**Uitgebreide taalondersteuning voor Dynamic Chat**: De gebruikersinterface voor Dynamics Chat is nu ook beschikbaar in het Frans, Duits, Japans, Portugees en Spaans. Chatdialoogvensters kunnen ook in deze talen worden geconfigureerd.
 
-**URL&#39;s uitsluiten voor dynamische chat**: Bepaal welke van uw webpagina&#39;s Dynamisch Praatje wordt weergegeven met de mogelijkheid om specifieke URL&#39;s uit te sluiten van de criteria voor het toewijzen van doelen.
+**URL&#39;s uitsluiten voor Dynamic Chat**: Bepaal op welke Dynamic Chat van uw webpagina&#39;s de URL&#39;s worden weergegeven, maar u kunt specifieke URL&#39;s uitsluiten van criteria voor het opgeven van doelen.
 
 **[Verbeteringen in de filters Activiteit e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**: Blijf de gezondheid van uw gegevensbestand beschermen met de capaciteit om beide gedrag te identificeren dat op verborgen agenten van de verbindingsGebruiker of IPs en nabijheidspatronen wordt gebaseerd, naast de bestaande IAB lijst aanpassen identificatie. Bekijk beide activiteitsstatistieken die u toestaan om het aantal beide activiteiten te begrijpen die voor elk type worden geïdentificeerd.
 

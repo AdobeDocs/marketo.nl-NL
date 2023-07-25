@@ -3,7 +3,8 @@ unique-page-id: 3571900
 description: Overzicht van webpersonalisatie - Marketo Docs - Productdocumentatie
 title: Overzicht van webpersonalisatie
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '833'
 ht-degree: 0%
@@ -60,7 +61,6 @@ Op het tabblad Organisaties worden alle gegevens (naam, locatie, activiteit en t
 >* Meest actief: de meest actieve organisaties in de tabel, op basis van het aantal paginaweergaven
 >* Laatste: de meest recente organisaties in de tabel (standaard)
 >* Voor waardevolle inzichten, filter volgens het meest actieve
-
 
 **Organisaties - Rechterdeelvenster**
 

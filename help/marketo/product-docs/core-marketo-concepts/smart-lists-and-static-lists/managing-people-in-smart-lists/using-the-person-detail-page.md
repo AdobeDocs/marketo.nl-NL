@@ -3,7 +3,8 @@ unique-page-id: 2953415
 description: De persoonlijke detailpagina gebruiken - Marketo Docs - Productdocumentatie
 title: De detailpagina voor personen gebruiken
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
-source-git-commit: a24b0de6493d4849723099d6164fafb73ef7c926
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 13%
@@ -23,8 +24,7 @@ Er zijn veel manieren om specifieke mensen te openen. Enkele voorbeelden zijn:
 * **Leden** tabblad van een programma
 * **Campagneleden weergeven** in een slimme campagne
 * Sommige **rapporten**
-
-   <br> 
+  <br> 
 
 1. Dubbelklik op een willekeurige persoon of klik op de id aan de linkerkant.
 
@@ -70,7 +70,7 @@ Veel velden kunnen worden bewerkt. Als u de gegevens van een persoon wilt bijwer
 
 ## Marketo-standaardvelden voorafgaand aan CRM-synchronisatie {#marketo-default-fields-prior-to-crm-sync}
 
-|  |  |  |  |  |
+|   |  |  |  |  |
 |---|---|---|---|---|
 | Adres | Jaaromzet | Anoniem IP-adres | Factuuradres | Factuurstad |
 | Factuurland | Factuurpostcode | Factuurstaat | Stad | Bedrijfsnaam |

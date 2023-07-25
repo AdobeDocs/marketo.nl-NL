@@ -3,7 +3,8 @@ unique-page-id: 10100642
 description: Berichttekst in de app maken - Marketo Docs - Productdocumentatie
 title: Berichttekst in de app maken
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -82,4 +83,3 @@ Je bent gouden. Vervolgens moet u [in-app-berichtknop instellen](/help/marketo/p
 >
 >* [In-app berichten begrijpen](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 >* [Kies een lay-out voor uw bericht in de app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
-

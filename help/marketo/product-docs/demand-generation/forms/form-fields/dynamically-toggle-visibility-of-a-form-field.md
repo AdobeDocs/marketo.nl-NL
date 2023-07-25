@@ -3,7 +3,8 @@ unique-page-id: 2949962
 description: Zichtbaarheid van een formulierveld dynamisch in-/uitschakelen - Marketo Docs - Productdocumentatie
 title: De zichtbaarheid van een formulierveld dynamisch in-/uitschakelen
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
-source-git-commit: 0aa754bb3fb9057aaec87dc41743711fb15f8d62
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -15,7 +16,6 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Een lijst met landen toevoegen aan uw formulier](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
-
 
 Een heel leuke functie van Marketo-formulieren is dat u formuliervelden dynamisch kunt verbergen/weergeven of [veldsets](/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md).
 

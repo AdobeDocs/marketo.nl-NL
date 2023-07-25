@@ -2,9 +2,10 @@
 description: Veelgestelde vragen over synchronisatie van persoonlijke accounts - Marketo-documenten - Productdocumentatie
 title: Veelgestelde vragen over synchronisatie van persoonlijke account
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
-source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
@@ -73,6 +74,5 @@ Ja, als er een conflict is, zullen wij het resultaat in het Logboek van de Activ
 
 >[!MORELIKETHIS]
 >
->* [Standaardveldtoewijzing](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target=&quot;_blank&quot;}
->* [Het synchroniseren van Vraag en Vraag Zeer belangrijke Berichten](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target=&quot;_blank&quot;}
-
+>* [Standaardveldtoewijzing](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md){target="_blank"}
+>* [Het synchroniseren van Vraag en Vraag Zeer belangrijke Berichten](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}

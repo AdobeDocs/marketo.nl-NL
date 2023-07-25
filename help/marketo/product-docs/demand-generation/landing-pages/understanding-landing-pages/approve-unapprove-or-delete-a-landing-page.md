@@ -3,7 +3,8 @@ unique-page-id: 2359710
 description: Een bestemmingspagina goedkeuren, goedkeuren of verwijderen - Marketo Docs - Productdocumentatie
 title: Een bestemmingspagina goedkeuren, goedkeuren of verwijderen
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%

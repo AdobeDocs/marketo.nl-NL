@@ -3,7 +3,8 @@ unique-page-id: 2359991
 description: Abonnementen op rapporten beheren - Marketo Docs - Productdocumentatie
 title: Rapportabonnementen beheren
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -41,7 +42,6 @@ Configureer en verwijder rapportabonnementen.
    >* Gebruik komma&#39;s tussen e-mailadressen.
    >* Als u uw bewerkingen wilt opslaan, klikt u in een gebied _buiten_ de abonnementenlijst.
 
-
    U kunt ook:
 
    * Klik op de knop **Weergave** om een rapport te openen.
@@ -62,4 +62,3 @@ Configureer en verwijder rapportabonnementen.
    >
    >* [Abonneren op een basisrapport](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
    >* [Abonneren op een rapport van de Ontdekkingsreiziger van de Inkomsten](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
-

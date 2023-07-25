@@ -3,7 +3,8 @@ unique-page-id: 2360337
 description: Een samengevoegd tekenreeksveld (Formule) maken en gebruiken - Marketo Docs - Productdocumentatie
 title: Een samengevoegd veld String (Formule) maken en gebruiken
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 1%

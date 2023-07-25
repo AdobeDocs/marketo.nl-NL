@@ -3,7 +3,8 @@ unique-page-id: 37355602
 description: Marketo Sales Insight installeren en configureren in Microsoft Dynamics Online - Marketo Docs - Productdocumentatie
 title: Marketo Sales Insight installeren en configureren in Microsoft Dynamics Online
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -109,7 +110,6 @@ Laten we je Marketo-exemplaar koppelen aan Sales Insight in Dynamics. Hieronder 
    >* Prioriteit
    >* Urgentie
    >* Relatieve score
-
    >
    >Als een van deze velden ontbreekt, wordt in Marketo een foutbericht weergegeven met de naam van de ontbrekende velden. Om dit te verhelpen, voert u [deze procedure](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 

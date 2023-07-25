@@ -3,7 +3,8 @@ unique-page-id: 2949904
 description: Testgroepen voor landingspagina - Marketo-documenten - productdocumentatie
 title: Testgroepen voor landingspagina
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -28,7 +29,6 @@ Marketo houdt het aantal paginaweergaven en formulieraanvullen bij op elke getes
    >
    >* Klik met de rechtermuisknop op een openingspagina in de structuur en selecteer **Omzetten in testgroep**
    >* Maak een testgroep voor landingspagina in een programma door **AB-testgroep** in de **Nieuw lokaal element** menu
-
 
 1. Voer een naam en een optionele beschrijving in. Selecteer de bestemmingspagina&#39;s u wilt testen en klikken **Maken**.
 

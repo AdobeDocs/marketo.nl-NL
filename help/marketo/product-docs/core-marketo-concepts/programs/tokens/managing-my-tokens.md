@@ -3,7 +3,8 @@ unique-page-id: 1147116
 description: Mijn tokens beheren - Marketo Docs - Productdocumentatie
 title: Mijn tokens beheren
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -69,4 +70,3 @@ Het gebruik van tokens kan uw inspanningen in Marketo vereenvoudigen. U kunt [Mi
    >* [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
    >* [Mijn tokens in een programma begrijpen](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
    >* [URL&#39;s gebruiken in Mijn tokens](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
-

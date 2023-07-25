@@ -3,7 +3,8 @@ unique-page-id: 2949865
 description: Een gebeurtenis maken met Adobe Connect - Marketo Docs - Productdocumentatie
 title: Een gebeurtenis maken met Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
-source-git-commit: d81a4a3caa12c5ec642afadf9328b3825bde6fed
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Door te synchroniseren met Adobe Connect kunt u uw webinar-registratie en -aanwe
 >
 >* [Koppeling Adobe Connect en Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
-
 
 Controleer eerst of u een vergadering of seminar in Adobe Connect hebt gemaakt. Als u hulp nodig hebt, raadpleegt u de [Adobe Connect-gebruikershandleiding](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
@@ -80,4 +80,3 @@ De vergaderingen en seminars die u in Adobe Connect maakt, moeten worden gemaakt
    >
    >* [Adobe Connect toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
    >* [Een gebeurteniskanaal bewerken](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
-

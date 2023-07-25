@@ -3,7 +3,8 @@ unique-page-id: 15368208
 description: Aanpassingen installeren in uw Salesforce-sandbox - Marketo-documenten - Productdocumentatie
 title: Hoe te om Aanpassingen in Uw zandbak van Salesforce te installeren
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 0%

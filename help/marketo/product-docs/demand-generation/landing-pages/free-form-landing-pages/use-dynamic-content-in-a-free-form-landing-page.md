@@ -3,7 +3,8 @@ unique-page-id: 2359732
 description: Dynamische inhoud gebruiken in een vrije bestemmingspagina - Marketo Docs - Productdocumentatie
 title: Dynamische inhoud gebruiken in een openingspagina met vrije vorm
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -19,7 +20,6 @@ Wanneer u dynamische inhoud gebruikt in bestemmingspagina&#39;s, krijgt uw publi
 >* [Een segmentatie maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Een vrije bestemmingspagina maken](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 >* [Een nieuw formulier toevoegen aan een openingspagina met vrije vorm](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-
 
 ## Segmentering toevoegen {#add-segmentation}
 
@@ -81,4 +81,3 @@ Voila! U kunt nu de doelinhoud verzenden.
 >
 >* [Een voorvertoning van een bestemmingspagina weergeven met dynamische inhoud](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
 >* [Dynamische inhoud gebruiken in een e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md)
-

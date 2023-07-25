@@ -3,7 +3,8 @@ unique-page-id: 2953419
 description: De Rich Text Editor - Marketo Docs - Productdocumentatie gebruiken
 title: De Rich Text Editor gebruiken
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '736'
 ht-degree: 0%

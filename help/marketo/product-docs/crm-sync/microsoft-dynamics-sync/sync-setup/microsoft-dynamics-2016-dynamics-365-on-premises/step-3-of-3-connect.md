@@ -2,7 +2,8 @@
 description: Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Stap 3 van 3 - Marketo Docs - Productdocumentatie installeren
 title: Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Stap 3 van 3 installeren
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
-source-git-commit: 44cc13361f6ff58d1be388fa0425a6daa63e4c7d
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '390'
 ht-degree: 0%
@@ -15,7 +16,6 @@ ht-degree: 0%
 >
 >* [Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Stap 1 van 3 installeren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
 >* [Marketo for Microsoft Dynamics 2016/Dynamics 365 On-Premises Step 2 of 3 installeren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
-
 
 >[!NOTE]
 >
@@ -52,7 +52,6 @@ ht-degree: 0%
    >* Als uw Marketo vóór oktober 2020 is ingericht, zijn Client ID en Secret optionele velden. Anders zijn ze verplicht. Het verkrijgen van deze informatie zal afhangen van welke versie van MSD u gebruikt.
    >* De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan `user@domain.com` of DOMAIN\user.
    >* Als u de URL niet kent, [hier leren vinden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
-
 
    >[!TIP]
    >

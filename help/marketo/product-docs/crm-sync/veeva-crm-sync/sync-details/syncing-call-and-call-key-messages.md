@@ -2,7 +2,8 @@
 description: Het synchroniseren van Vraag en de Zeer belangrijke Berichten van de Vraag - de Documenten van Marketo - de Documentatie van het Product
 title: Het synchroniseren van Vraag en Vraag Zeer belangrijke Berichten
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
-source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '503'
 ht-degree: 0%

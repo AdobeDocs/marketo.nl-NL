@@ -3,7 +3,8 @@ unique-page-id: 2360189
 description: De URL's van uw bestemmingspagina aanpassen met een CNAME (Administration) - Marketo Docs - Productdocumentatie
 title: De URL's van uw bestemmingspagina aanpassen met een CNAME (Beheer)
 exl-id: a5aa1c76-15f7-4e8c-a736-77c79f65c368
-source-git-commit: b71729a678ff4a676bb60803d845d0a44118f7e5
+feature: Administration
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%

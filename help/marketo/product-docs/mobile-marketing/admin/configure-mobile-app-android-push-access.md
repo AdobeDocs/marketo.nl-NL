@@ -3,7 +3,8 @@ unique-page-id: 7512432
 description: Mobiele Android-pushtoegang voor apps configureren - Marketo Docs - Productdocumentatie
 title: Android-pushtoegang voor mobiele app configureren
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 2950549
 description: De sociaal aanbevolen stroom configureren - Marketo Docs - Productdocumentatie
 title: Vorm Sociale Aanbevolen Stroom
 exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '515'
 ht-degree: 0%
@@ -84,7 +85,7 @@ Desgewenst worden de waarden van de OpenGraph-tags van de pagina (og:title, og:c
 
    >[!TIP]
    >
-   >Gebruik {html_title} in de tweetekst om de titel van de pagina automatisch weer te geven.
+   >Gebruiken {html_title} in uw tweetekst om automatisch de titel van de pagina weer te geven.
 
 1. Klikken **Volgende**.
 
@@ -104,7 +105,7 @@ Desgewenst worden de waarden van de OpenGraph-tags van de pagina (og:title, og:c
 
    >[!TIP]
    >
-   >Gebruik {html_title} in de berichttekst om de titel van de pagina automatisch weer te geven.
+   >Gebruiken {html_title} in je berichttekst om automatisch de titel van de pagina weer te geven.
 
 1. Als u **Statisch toevoegen** hierboven, bewerkt u de titel en beschrijving en uploadt u een aangepaste afbeelding (van uw Marketo-afbeeldingen en -bestanden).
 

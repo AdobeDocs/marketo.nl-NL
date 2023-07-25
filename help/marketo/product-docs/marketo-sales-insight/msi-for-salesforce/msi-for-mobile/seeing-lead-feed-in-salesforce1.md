@@ -3,7 +3,8 @@ unique-page-id: 7512654
 description: Diervoeders voor leads bekijken in Salesforce1 - Marketo Docs - Productdocumentatie
 title: Diervoeders voor voorloopvogels in Salesforce1
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -35,4 +36,3 @@ De Lead Feed is een actuele lijst met interessante gebeurtenissen die door uw le
 >* [Interesserende momenten in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
 >* [Handelingen voor Marketo-e-mail, -campagne en -controlelijst verzenden in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
 >* [Beste ets in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
-

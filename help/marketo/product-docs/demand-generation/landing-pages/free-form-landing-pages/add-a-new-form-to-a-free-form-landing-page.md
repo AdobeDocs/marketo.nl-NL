@@ -3,7 +3,8 @@ unique-page-id: 2359705
 description: Een nieuw formulier toevoegen aan een landingspagina met vrije vorm - Marketo Docs - Productdocumentatie
 title: Een nieuw formulier toevoegen aan een openingspagina met vrije vorm
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Formulier, ontmoet landingspagina. Openingspagina, formulier ontmoeten.
 >
 >* [Een formulier maken](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Een vrije bestemmingspagina maken](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
-
 
 1. Ga naar **Marketingactiviteiten**.
 

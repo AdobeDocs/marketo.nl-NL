@@ -3,7 +3,8 @@ unique-page-id: 7514151
 description: Attributievoorbeeld 4 - Marketo Docs - Productdocumentatie
 title: Attributievoorbeeld 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -23,7 +24,7 @@ Lees het volgende scenario en probeer de aantallen te bepalen die in het net zou
 
 | Programmanaam | (Inhoud) | (Webinar) |
 |---|---|---|
-|  | (Opty 1) | (Opty 2) | (Opty 1) | (Opty 2) |
+|   | (Opty 1) | (Opty 2) | (Opty 1) | (Opty 2) |
 | (MT) Opty Created | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) Pipet gemaakt | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |
 | (MT) Opty Won | `<pre>0.5</pre>` | `<pre>0</pre>` | `<pre>0.5</pre>` | `<pre>0</pre>` |
@@ -47,7 +48,6 @@ Lees het volgende scenario en probeer de aantallen te bepalen die in het net zou
 >1. Je kunt niet meer krediet geven dan je hebt verdiend
 >1. Je kunt geen krediet geven voor iets dat in het verleden is gebeurd
 
-
 Probeer alle voorbeelden en je bent een attribuut pro!
 
 >[!MORELIKETHIS]
@@ -55,4 +55,3 @@ Probeer alle voorbeelden en je bent een attribuut pro!
 >* [Attributievoorbeeld 1](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
 >* [Attributievoorbeeld 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
 >* [Attributievoorbeeld 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
-

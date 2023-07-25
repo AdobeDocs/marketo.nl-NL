@@ -3,7 +3,8 @@ unique-page-id: 2949863
 description: Een gebeurtenis maken met Webex - Marketo Docs - Productdocumentatie
 title: Een gebeurtenis maken met Webex
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
-source-git-commit: 8813686a39852443bf200eda232fd5448c6aa414
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -18,7 +19,6 @@ ht-degree: 0%
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Stel de juiste [flowhandelingen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) om betrokkenheid bij te houden
 >* Zorg ervoor u de (klassieke) Gebeurtenissen van Webex gebruikt
-
 
 Maak eerst een Webex-gebeurtenis in het Webex-gebeurteniscentrum. Marketo gebruikt alleen specifieke instellingen en velden voor uw integratie, die we binnenkort zullen doorlopen. Andere gebieden die u voor Webex zou kunnen willen vormen worden verklaard in [Handboek voor het Webex Event Center](https://www.cisco.com/c/dam/en/us/td/docs/collaboration/meeting_center/wbs298/wx_ec_host_ug.pdf).
 
@@ -73,11 +73,11 @@ U bestuurt de uitnodigingslijst, het registratieformulier en andere e-mails met 
 
 * **Registratie-id vereist** - Wordt momenteel ondersteund met de integratie tussen Marketo en Webex. Met Marketo kunt u het bevestigingsbericht voor uw gebeurtenis verzenden. Wanneer de persoon zich registreert, ontvangen hij een unieke URL die hij of zij gebruikt om de gebeurtenis in te voeren.
 
-   >[!TIP]
-   >
-   >Gebruik de volgende token in uw e-mail om het bevestigingsbericht te vullen met deze unieke URL: `{{member.webinar url}}`. Wanneer de bevestiging-URL wordt verzonden, wordt deze token automatisch omgezet in de unieke bevestiging-URL van de persoon.
-   >
-   >Stel het bevestigingsbericht in op **Operationeel** om ervoor te zorgen dat personen die zich inschrijven en eventueel worden afgemeld, nog steeds hun bevestigingsinformatie ontvangen.
+  >[!TIP]
+  >
+  >Gebruik de volgende token in uw e-mail om het bevestigingsbericht te vullen met deze unieke URL: `{{member.webinar url}}`. Wanneer de bevestiging-URL wordt verzonden, wordt deze token automatisch omgezet in de unieke bevestiging-URL van de persoon.
+  >
+  >Stel het bevestigingsbericht in op **Operationeel** om ervoor te zorgen dat personen die zich inschrijven en eventueel worden afgemeld, nog steeds hun bevestigingsinformatie ontvangen.
 
 * **Registratiewachtwoord** - (Optioneel) Wordt momenteel niet ondersteund met de Marketo-Webex-integratie.
 * **Goedkeuringsregels** - Wordt momenteel niet ondersteund met de Marketo-Webex-integratie. U kunt echter slimme campagnes in Marketo gebruiken om goedkeuringen te beheren.

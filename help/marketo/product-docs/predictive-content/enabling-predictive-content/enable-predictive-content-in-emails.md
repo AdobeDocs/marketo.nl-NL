@@ -3,9 +3,10 @@ unique-page-id: 11385020
 description: Predictieve inhoud in e-mails inschakelen - Marketo Docs - Productdocumentatie
 title: Voorspelende inhoud in e-mails inschakelen
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
-source-git-commit: 4b1b91a933a7a6d103fe0d44ece9ea95759edc5f
+feature: Predictive Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -23,13 +24,12 @@ Maak een of meer afbeeldingen in uw e-mailvoorspellend, waarbij u de ervaring vo
 >Voordat u voorspellende inhoud inschakelt, moet u:
 >
 >* **Voorspelende inhoud voorbereiden**
-   >
-   >   * [Voorspelende inhoud voor e-mails bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target=&quot;_blank&quot;} of
-   >   * [Predictieve inhoud voor rijke media bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target=&quot;_blank&quot;} of
-   >   * [Voorspelende inhoud voor de balk met aanbevelingen bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target=&quot;_blank&quot;}
 >
->* [Een titel voor preventieve inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target=&quot;_blank&quot;}
-
+>   * [Voorspelende inhoud voor e-mails bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} of
+>   * [Predictieve inhoud voor rijke media bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} of
+>   * [Voorspelende inhoud voor de balk met aanbevelingen bewerken](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
+>
+>* [Een titel voor preventieve inhoud goedkeuren](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 ## Voorspelende inhoud toevoegen met de e-maileditor 2.0 {#adding-predictive-content-using-the-email-editor}
 
@@ -85,9 +85,9 @@ Nadat u uw e-mail hebt goedgekeurd, wordt deze voorzien van voorspellende inhoud
 
 ## Voorspelende inhoud toevoegen wanneer de e-maileditor 2.0 niet wordt gebruikt {#adding-predictive-content-when-not-using-the-email-editor}
 
-Als u geen [E-mail 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target=&quot;_blank&quot;} -sjabloon: u kunt preventieve inhoud aan uw e-mail toevoegen door een afbeelding in uw sjabloon te labelen als een bewerkbaar Marketo-afbeeldingselement.
+Als u geen [E-mail 2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md){target="_blank"} kunt u eenvoudig preventieve inhoud aan uw e-mail toevoegen door een afbeelding in uw sjabloon te labelen als een bewerkbaar Marketo-afbeeldingselement.
 
-Meer informatie over de [Marketo-specifieke syntaxis hier](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target=&quot;_blank&quot;}.
+Meer informatie over de [Marketo-specifieke syntaxis hier](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#elements){target="_blank"}.
 
 Hier is een voorbeeld van hoe de code eruit moet zien (dit is slechts een voorbeeld, kopieer de onderstaande code niet exact).
 

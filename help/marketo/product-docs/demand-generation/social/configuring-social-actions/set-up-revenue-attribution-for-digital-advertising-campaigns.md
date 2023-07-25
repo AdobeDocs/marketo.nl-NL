@@ -3,7 +3,8 @@ unique-page-id: 10098812
 description: Ontvangsten toewijzen voor digitale reclamecampagnes - Marketo-documenten - productdocumentatie
 title: Ontvangsten toewijzen voor digitale reclamecampagnes instellen
 exl-id: 7fb16c5f-7e76-429b-8b01-b5a1dd898158
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 0%
@@ -23,7 +24,6 @@ Met afzonderlijke programma&#39;s, kunt u dan het aantal omzettingen van elkaar 
 >* Een kanaaltag instellen met statuswaarden en succes van programma (bijvoorbeeld Digital Advertising of Social Paid en PPC)
 >* Een formulier maken of bewerken om een queryreeks door te geven aan de persoon
 >* Zorg ervoor dat u toegang hebt tot bepaalde mogelijkheden voor de analyse van de opbrengstcyclus om te rapporteren over uw advertentiekanalen en campagnes
-
 
 ## Een standaardprogramma maken {#create-a-default-program}
 
@@ -112,7 +112,6 @@ Nadat u het programma en de campagnes hebt ingesteld, maakt u de nieuwe adverten
    >* **opmerking** is de unieke id die voor elk programma is gemaakt
    >* **kamp** is de campagne in Facebook, LinkedIn of Google
    >* **kk** is de trefwoord- of elementnaam die u wilt vastleggen
-
    >
    >**Deze vier termen moeten allemaal in kleine letters staan en de URL mag geen spaties bevatten om deze gegevens vast te leggen.**
 

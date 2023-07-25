@@ -2,16 +2,17 @@
 description: reCAPTCHA v3 - Marketo Docs - Productdocumentatie instellen
 title: reCAPTCHA v3 instellen
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
-source-git-commit: b848b836274d92d503e1a06cd4f7377ca57bc93e
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
 
 # reCAPTCHA v3 instellen {#setting-up-recaptcha-v3}
 
-ReCAPTCHA v3 is een frictioneloze ervaring die formulierverzendingen scoort op basis van hoe verdacht ze zijn zonder tekst, afbeeldingen of knopuitdagingen te gebruiken. [Meer informatie](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target=&quot;_blank&quot;}.
+ReCAPTCHA v3 is een frictioneloze ervaring die formulierverzendingen scoort op basis van hoe verdacht ze zijn zonder tekst, afbeeldingen of knopuitdagingen te gebruiken. [Meer informatie](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target="_blank"}.
 
 ## Uw datacenter- en Munchkin-id ophalen {#retrieve-your-data-center-and-munchkin-id}
 
@@ -33,7 +34,7 @@ Voor Stap 6 in de Aanvankelijke reCAPTCHA v3 opstellingssectie hieronder, zult u
 
 De volgende stappen worden uitgevoerd buiten Marketo.
 
-1. Ga naar [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target=&quot;_blank&quot;} en klik op v3-Admin Console.
+1. Ga naar [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target="_blank"} en klik op v3-Admin Console.
 
 1. Meld u aan bij of meld u aan bij een Google-account.
 
@@ -67,7 +68,7 @@ De volgende stappen worden uitgevoerd buiten Marketo.
 
 >[!IMPORTANT]
 >
->Nadat u deze stappen uitvoert en [CAPTCHA inschakelen in uw eerste Marketo-formulier](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target=&quot;_blank&quot;}, moet u het formulier meteen testen, omdat elke vorm van verkeerde configuratie in de reCAPTCHA-instelling het formulier kan verbreken.
+>Nadat u deze stappen uitvoert en [CAPTCHA inschakelen in uw eerste Marketo-formulier](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}moet u het formulier meteen testen, want anders kan het formulier worden verbroken door een verkeerde configuratie in de reCAPTCHA-instellingen.
 
 1. Klik in Marketo op **Beheer**.
 

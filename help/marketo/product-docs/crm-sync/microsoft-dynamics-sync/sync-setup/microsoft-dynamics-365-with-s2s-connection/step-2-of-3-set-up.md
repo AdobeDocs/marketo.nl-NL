@@ -3,7 +3,8 @@ unique-page-id: 3571827
 description: Stap 2 van 3 - Opstelling de Oplossing van Marketo met Server aan de Verbinding van de Server - de Documenten van Marketo - de Documentatie van het Product
 title: Stap 2 van 3 - Opstelling de Oplossing van Marketo met Server aan de Verbinding van de Server
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
-source-git-commit: b4773137bf21eccc58a6d975d50748e8ff2a57db
+feature: Microsoft Dynamics
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -53,7 +54,6 @@ ht-degree: 0%
    >* Zorg ervoor dat u de gebruiker van de toepassing machtigingen geeft en dat u deze toewijst aan &quot;Marketo Sync User Role&quot;.
    >* Neem nota van het e-mailadres van de Gebruiker van de Toepassing van [de optie Details weergeven](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} on Power Platform. Dit e-mailadres wordt gebruikt als gebruikersnaam bij het instellen van de verbinding met MS Dynamics in Marketo.
    >* Alle updates die door de synchronisatiegebruiker in uw CRM worden aangebracht, worden **niet** worden gesynchroniseerd naar Marketo.
-
 
 ## Azure AD Federated met AD FS On-prem {#azure-ad-federated-with-ad-fs-on-prem}
 
@@ -111,4 +111,3 @@ Bijna daar! Alles wat we nog hebben, is om Marketo Solution te informeren over d
 >
 >* [Stap 3 van 3: De Marketo-oplossing aansluiten op de serververbinding](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md){target="_blank"}
 >* [Dynamische verificatiemethode opnieuw configureren](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md){target="_blank"}
-

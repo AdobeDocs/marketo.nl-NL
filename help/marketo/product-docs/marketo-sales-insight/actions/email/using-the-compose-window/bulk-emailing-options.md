@@ -2,7 +2,8 @@
 description: Opties voor e-mail met bulkobjecten - Marketo Docs - Productdocumentatie
 title: Opties voor bulke-mail
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -64,4 +65,3 @@ Standaard bewerkt u de gegevens voor alle ontvangers. Maar u kunt ook elke afzon
 >
 >* [Bulke-mails samenstellen met Selecteren en Verzenden](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
 >* [E-mailberichten verzenden via e-mail voor groep](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/sending-emails-via-group-email.md)
-

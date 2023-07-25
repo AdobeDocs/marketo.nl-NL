@@ -3,7 +3,8 @@ unique-page-id: 1900587
 description: Gebruik uw specifieke IP-adressen om e-mails te verzenden - Marketo Docs - Productdocumentatie
 title: Gebruik uw specifieke IP Adressen om E-mail te verzenden
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Deliverability
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '432'
 ht-degree: 0%

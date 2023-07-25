@@ -3,7 +3,8 @@ unique-page-id: 1147114
 description: Aangepaste veldtokens voor programmaleden - Marketo Docs - Productdocumentatie
 title: Aangepaste veldtokens voor programmaleden
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
-source-git-commit: 30f56d93dfd5a600ef3ea75d352ede12c6104940
+feature: Tokens
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 0%
@@ -25,7 +26,6 @@ Lid Tokens worden gebruikt voor gebieden die onder het werkingsgebied van het Li
 >* Aangepaste velden voor programmalid kunnen alleen worden gebruikt in de context van een programma.
 >* Tokens voor aangepaste velden voor programmalid kunnen niet worden gebruikt in: e-mailpreheader, Datumtokens in Wachtstappen of Fragmenten.
 >* De status van het programma Lid wordt niet gesteund in de Tokens van de Lidstaten.
-
 
 ## Aangepaste veldtokens van programmalid gebruiken in elementen {#using-program-member-custom-field-tokens-in-assets}
 

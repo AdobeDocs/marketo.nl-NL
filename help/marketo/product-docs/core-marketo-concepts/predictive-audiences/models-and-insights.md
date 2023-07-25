@@ -2,9 +2,10 @@
 description: Modellen en inzichten - Marketo Docs - Productdocumentatie
 title: Modellen en inzichten
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
-source-git-commit: e6b6fc5e3414936390a15dfb2034cfa4980169fb
+feature: Predictive Audiences
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Ga naar de **[!UICONTROL Models and Data Health]** deel onder **[!UICONTROL Pred
 
 ![Afbeelding één](assets/models-and-insights-1.png)
 
-* **Trainingsstatus**: Geeft aan of uw model actief training volgt (voorspellingen verbeteren). De training wordt automatisch elke twee weken gegeven. Alle modellen die _Verwerking_ kan tot 24 uur duren om af te maken. Voor alle _Mislukt_ modellen, neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target=&quot;_blank&quot;}.
+* **Trainingsstatus**: Geeft aan of uw model actief training volgt (voorspellingen verbeteren). De training wordt automatisch elke twee weken gegeven. Alle modellen die _Verwerking_ kan tot 24 uur duren om af te maken. Voor alle _Mislukt_ modellen, neem contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 * **Scorestatus**: Geeft aan of uw model voorspellingen (waarschijnlijkheidspercentages) voor programmaleden actief berekent.
 * **Prestaties**: Indeling van de modelgezondheid op basis van de volledigheid van de gegevens en de gegevenskwaliteit (zie hieronder).
 * **Volledigheid van gegevens**: Percentage gegevenskenmerken dat aanwezig/voltooid is.

@@ -3,7 +3,8 @@ unique-page-id: 2360301
 description: Stel Score-velden in die moeten worden gebruikt voor sterren en lampjes in Verkoopinzicht - Marketo Docs - Productdocumentatie
 title: De Gebieden van de Score plaatsen die voor Sterren en Vlamjes in het Inzicht van de Verkoop moeten worden gebruikt
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -29,7 +30,6 @@ Standaard gebruikt Marketo Sales Insight de **Loodscore** veld voor het berekene
 >* **Sterren**: Sterren geven de totale loodscore aan in vergelijking met andere leads.
 >* **Flames**: Flames geven de urgentie weer - hoeveel de score van een lead de laatste tijd is veranderd.
 >
-
 
 1. Onder **Beheer**, klikt u op **Verkoopoverzicht**.
 

@@ -2,9 +2,10 @@
 description: Opmerkingen bij de release - maart 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - maart 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '765'
 ht-degree: 0%
 
 ---
@@ -23,9 +24,9 @@ De volgende functies worden vrijgegeven op **11 maart 2022**, met een gefaseerde
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-* **Dynamische chat**: Maximaliseer elke kans op uw website door zowel leads als accounts te richten met proactieve, aansprekende en 1:1 persoonlijke gesprekken. [Dynamische chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)Met {target=&quot;_blank&quot;} kunnen Marketo Engage-gebruikers chatten gebruiken als een belangrijk onderdeel van geïntegreerde interkanaalervaringen voor B2B-marketing en -verkoopgebruik. Functies: de capaciteit om vergaderingen direct binnen het praatje te boeken, lood verpletterend, starter malplaatjes, belemmering-en-dalingsgespreksverwezenlijking, en veel meer. Dynamic Chat wordt opgenomen in alle pakketten Marketo Engage en wordt dit jaar aan alle gebruikers van Marketo Engage toegevoegd.
+* **Dynamische chat**: Maximaliseer elke kans op uw website door zowel leads als accounts te richten met proactieve, aansprekende en 1:1 persoonlijke gesprekken. [Dynamische chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} Marketo Engage-gebruikers kunnen chatten als een belangrijk onderdeel van geïntegreerde ervaringen tussen kanalen voor B2B-marketing en verkoopgebruik. Functies: de capaciteit om vergaderingen direct binnen het praatje te boeken, lood verpletterend, starter malplaatjes, belemmering-en-dalingsgespreksverwezenlijking, en veel meer. Dynamic Chat is in alle pakketten van Marketo Engage opgenomen en zal dit jaar aan alle gebruikers van Marketo Engage worden uitgerold.
 
-* **Verbetering van objectiefilters voor e-mail**: Als een verbetering aan eerder vrijgegeven [Filteren van activiteit e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target=&quot;_blank&quot;} nu kunt u zich aanmelden bij logactiviteiten die als bots worden geïdentificeerd. U kunt vervolgens handelingen filteren en activeren op basis van activiteiten die door bots worden aangeduid als uitgevoerd.
+* **Verbetering van objectiefilters voor e-mail**: Als een verbetering aan eerder vrijgegeven [Filteren van activiteit e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} -functie, kunt u nu aanmelden bij logactiviteiten die als bots zijn geïdentificeerd. U kunt vervolgens handelingen filteren en activeren op basis van activiteiten die door bots worden aangeduid als uitgevoerd.
 
 ## Ervaring van de volgende generatie {#modern-ux}
 
@@ -35,7 +36,7 @@ De volgende functies worden vrijgegeven op **11 maart 2022**, met een gefaseerde
 
 * **Update voor programmaworkflow importeren**: De workflow voor het importprogramma wordt geleverd in de volgende generatie ervaring met een bijgewerkt ontwerp en verbeterde bruikbaarheid. Dit zal een automatische verandering zonder een knevelschakelaar zijn.
 
-* **Beheerderscontrole voor de schakelaar van de Ervaring van de volgende generatie**: Beheer de implementatie van de volgende generatie op een manier die geschikt is voor uw gebruikers en waarbij beheerders kunnen selecteren welke gebruikerstypen toegang kunnen krijgen tot de schakeloptie.
+* **Beheerderscontrole voor de schakelaar van de Ervaring van de Volgende generatie**: Beheer de implementatie van de volgende generatie op een manier die geschikt is voor uw gebruikers en waarbij beheerders kunnen selecteren welke gebruikerstypen toegang kunnen krijgen tot de schakeloptie.
 
 ## Experience Automation {#experience-automation}
 
@@ -77,4 +78,4 @@ De volgende functies bevinden zich op een niet-driemaandelijkse cyclus en worden
 
 **_Webinar productrelease_**
 
-[Release Webinar van maart en mei 2022 Marketo Engage](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target=&quot;_blank&quot;}
+[Release Webinar van maart en mei 2022 Marketo Engage](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

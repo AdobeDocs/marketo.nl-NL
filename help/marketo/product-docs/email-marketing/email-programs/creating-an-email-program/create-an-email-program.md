@@ -3,7 +3,8 @@ unique-page-id: 1900591
 description: Een e-mailprogramma maken - Marketo Docs - Productdocumentatie
 title: Een e-mailprogramma maken
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -38,4 +39,3 @@ Mooi! Het programma staat nu in de boom en is klaar om te worden gebruikt. De vo
 >
 >* [Een publiek definiëren met een slimme lijst](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
 >* [Een publiek definiëren door een lijst te importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
-

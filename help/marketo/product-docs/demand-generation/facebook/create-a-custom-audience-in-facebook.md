@@ -3,9 +3,10 @@ unique-page-id: 4720275
 description: Een aangepast publiek maken in Facebook - Marketo Docs - Productdocumentatie
 title: Een aangepast publiek maken in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
-source-git-commit: 070a90a1eaeef94b20e735e21cc6a56175b2bad6
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -14,13 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Aangepast publiek voor Facebook toevoegen als een opstartpuntservice](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target=&quot;_blank&quot;} in de sectie Admin.
->* [Voorwaarden voor aangepast publiek voor Facebook accepteren](https://www.facebook.com/ads/manage/customaudiences/tos.php){target=&quot;_blank&quot;} in uw Facebook-account.
-
+>* [Aangepast publiek voor Facebook toevoegen als een opstartpuntservice](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} in de sectie Beheer.
+>* [Voorwaarden voor aangepast publiek voor Facebook accepteren](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} in uw Facebook-account.
 
 >[!TIP]
 >
->Meer informatie over [aangepast publiek in Facebook](https://www.facebook.com/help/341425252616329){target=&quot;_blank&quot;}.
+>Meer informatie over [aangepast publiek in Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Zoek en selecteer de slimme of statische lijst met de leads waaruit u het publiek wilt maken.
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Zie de [Facebook-leerpad voor Marketo-klanten](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target=&quot;_blank&quot;}. Alles wat u moet weten, van het maken van een Facebook-pagina tot het richten van Facebook-advertenties via Marketo en netwerkintegratie.
+   >Zie de [Facebook-leerpad voor Marketo-klanten](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. Alles wat u moet weten, van het maken van een Facebook-pagina tot het richten van Facebook-advertenties via Marketo en netwerkintegratie.
 
    >[!MORELIKETHIS]
    >

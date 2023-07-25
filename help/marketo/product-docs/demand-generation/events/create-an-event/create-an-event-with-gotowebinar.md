@@ -3,7 +3,8 @@ unique-page-id: 2949874
 description: Een gebeurtenis maken met GotoWebinar - Marketo Docs - Productdocumentatie
 title: Een gebeurtenis maken met GotoWebinar
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
-source-git-commit: 8b0625a7192a80986bc4295726cd13473493ddd7
+feature: Events
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
@@ -17,7 +18,6 @@ ht-degree: 0%
 >* [GoToWebinar toevoegen als een LaunchPoint-service](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [Een nieuw gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Stel de juiste [flowhandelingen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)om betrokkenheid bij te houden
-
 
 Maak eerst uw webinar in GoToWebinar. Bepaalde instellingen bij het maken van uw GoToWebinar worden gebruikt door Marketo en sommige worden alleen gebruikt door GoToWebinar.
 

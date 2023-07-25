@@ -3,7 +3,8 @@ unique-page-id: 12982903
 description: E-mailprogramma's plannen met tijdzone voor ontvangers - Marketo Docs - Productdocumentatie
 title: E-mailprogramma's met tijdzone voor ontvangers plannen
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -36,7 +37,6 @@ Dit biedt u twee opties:
 >* **Lever de volgende dag in de tijdzone van de ontvanger**: als het e-mailbericht op dinsdag om 9.00 uur wordt uitgezonden, ontvangen gekwalificeerde personen die in tijdzones wonen waar de geplande tijd al voorbij is *woensdag* om 9:00 uur.
 >
 >* **Afleveren met de standaardtijd van de set**: als het e-mailbericht op dinsdag om 9.00 uur wordt uitgezonden, ontvangen gekwalificeerde personen die in tijdzones wonen waar de geplande tijd al voorbij is _op basis van de instellingen voor uw abonnementstijd_. Dus als uw [Instellingen voor tijdzone voor abonnementen](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) zijn ingesteld op PDT America/Los Angeles, ontvangen deze ontvangers nog steeds de e-mail op dinsdag om 9.00 uur PDT (op welk tijdstip dan ook in hun eigen tijdzones).
-
 
 >[!NOTE]
 >
@@ -94,4 +94,3 @@ Kortom, e-mailprogramma&#39;s die met de Ontvankelijke Tijdzone worden gepland, 
 >* [Tijdzone van ontvanger](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 >* [Begin voor e-mailprogramma&#39;s](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 >* [Aflevering van e-mailprogramma&#39;s afbreken die zijn gepland met de tijdzone van de ontvanger](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
-

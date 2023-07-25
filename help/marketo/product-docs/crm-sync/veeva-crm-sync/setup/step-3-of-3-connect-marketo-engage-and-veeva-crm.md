@@ -2,9 +2,10 @@
 description: Stap 3 van 3 - Connect Marketo Engage and Veeva CRM - Marketo Docs - Productdocumentatie
 title: Stap 3 van 3 - Connect Marketo Engage en Veeva CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -15,9 +16,8 @@ In dit artikel, zult u Marketo Engage aan synchronisatie met uw gevormde instant
 
 >[!PREREQUISITES]
 >
->* [Stap 1 van 3: Marketo-velden toevoegen aan Veva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target=&quot;_blank&quot;}
->* [Stap 2 van 3: Een veeva-gebruiker voor Marketo maken](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target=&quot;_blank&quot;}
-
+>* [Stap 1 van 3: Marketo-velden toevoegen aan Veva](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
+>* [Stap 2 van 3: Een veeva-gebruiker voor Marketo maken](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target="_blank"}
 
 >[!IMPORTANT]
 >
@@ -31,7 +31,7 @@ In dit artikel, zult u Marketo Engage aan synchronisatie met uw gevormde instant
 
    >[!NOTE]
    >
-   >Zorg ervoor dat u [alle velden verbergen die u niet nodig hebt](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target=&quot;_blank&quot;} in Marketo door de synchronisatiegebruiker voordat u op Velden synchroniseren klikt. Als u op Velden synchroniseren klikt, worden alle velden die de gebruiker kan zien, permanent gemaakt in Marketo en kunnen deze niet worden verwijderd.
+   >Zorg ervoor dat u [alle velden verbergen die u niet nodig hebt](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo door de synchronisatiegebruiker voordat u op Velden synchroniseren klikt. Als u op Velden synchroniseren klikt, worden alle velden die de gebruiker kan zien, permanent gemaakt in Marketo en kunnen deze niet worden verwijderd.
 
 1. Klikken **Aanmelden met Veeva**.
 
@@ -91,4 +91,4 @@ Marketo geeft statusberichten weer voor de synchronisatie van Veeva CRM in het b
 
 >[!MORELIKETHIS]
 >
->[Aangepaste objecten configureren](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target=&quot;_blank&quot;}
+>[Aangepaste objecten configureren](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}

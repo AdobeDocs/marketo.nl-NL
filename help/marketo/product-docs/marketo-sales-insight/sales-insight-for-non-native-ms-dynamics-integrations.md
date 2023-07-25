@@ -2,7 +2,8 @@
 description: Verkoopoverzicht voor niet-native integratie van MS Dynamics - Marketo Docs - Productdocumentatie
 title: Verkoopoverzicht voor niet-native integratie van MS Dynamics
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1413'
 ht-degree: 0%
@@ -20,7 +21,6 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
 >* Een abonnement van de Dynamiek van MS met Opstelling MSI (wij steunen slechts [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} op dat moment).
 >* Marketo REST API [correct ingesteld](https://developers.marketo.com/rest-api/){target="_blank"}. De belichte CRUD-API&#39;s vormen de basis voor het uitvoeren van de niet-native synchronisatie.
 >* Lezen [dit blogbericht](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} om inzicht te krijgen in het object en de relaties.
-
 
 ## Voor een geslaagde externe synchronisatie van MSI is het volgende vereist {#successful-non-native-sync-for-msi-requires-the-following}
 
@@ -256,4 +256,5 @@ Als uw Adobe Marketo Engage-account via een aangepaste of niet-native integratie
    </table>
 
    * Documentatie voor de LEIDREST API: [https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET](https://developers.marketo.com/rest-api/endpoint-reference/lead-database-endpoint-reference/#!/Leads/getLeadByIdUsingGET){target="_blank"}.
+
    Een correct gebruik van de externe velden is van wezenlijk belang voor een geslaagde niet-native synchronisatie. Als u gegevens in sommige weergaven niet ziet, is het waarschijnlijk dat een bepaald veld niet correct is gesynchroniseerd. Bijvoorbeeld, als de activiteiten van een lood en de interessante momenten niet verschijnen wanneer het kijken in MSI widget onder hun Rekening, is het waarschijnlijk dat of het bedrijf van de lood of de Rekening correct werd gesynchroniseerd. Als u een GET-aanvraag voor deze lead uitvoert terwijl u de externe velden opgeeft, kunt u controleren of de lead correct is gesynchroniseerd. Bovendien moet de e-mail voor de externe verkoper in Marketo overeenkomen met de e-mail voor die gebruiker in MS Dynamics. Gegevens worden mogelijk niet weergegeven op het tabblad Marketo in MS Dynamics als de e-mails niet overeenkomen.

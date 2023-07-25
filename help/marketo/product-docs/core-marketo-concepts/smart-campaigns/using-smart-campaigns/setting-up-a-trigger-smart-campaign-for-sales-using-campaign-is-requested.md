@@ -3,7 +3,8 @@ unique-page-id: 7514898
 description: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die "Campagne wordt gevraagd" - Marketo Docs - de Documentatie van het Product
 title: Het opzetten van een Slimme Campagne van de Trekker voor Verkoop die "de Campagne wordt gevraagd"
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '288'
 ht-degree: 0%
@@ -20,7 +21,6 @@ Een van de mooiste kenmerken van Marketo is de mogelijkheid om verkoopmedewerker
 >
 >1. **Langdurige verzorging** - als ze dit jaar geen budget hebben en je wilt gewoon op de radar blijven
 >1. **Actieve verkoopcyclus** - wanneer de verkoper geen berichten aan de persoon behalve hun wil. (gebruik de vlag voor geschorste verkoop om deze tijdelijk af te melden)
-
 >
 >Wees creatief. Wat wil de verkoper automatiseren? Vraag het hen gewoon en doe het op!
 

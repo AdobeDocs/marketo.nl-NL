@@ -3,7 +3,8 @@ unique-page-id: 2359466
 description: Fragmenten bewerken met dynamische inhoud - Marketo Docs - Productdocumentatie
 title: Fragmenten bewerken met dynamische inhoud
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Snippets
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -16,7 +17,6 @@ ht-degree: 0%
 >
 >* [Een segmentatie maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Een fragment maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-
 
 Gebruik Segmentatie in fragmenten om dynamische inhoud op uw e-mails en landingspagina&#39;s eenvoudig te beheren.
 
@@ -54,4 +54,3 @@ Was dat niet eenvoudig? U bent nu allemaal ingesteld op het gebruik van deze fra
 >
 >* [Een fragment toevoegen aan een e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)
 >* [Een fragment toevoegen aan een bestemmingspagina](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
-

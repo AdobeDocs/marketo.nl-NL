@@ -3,7 +3,8 @@ unique-page-id: 2360405
 description: Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Leidingen - Marketo Docs - de Documentatie van het Product opsomt
 title: Bouw een Rapport van de Analyse van de Analyse van het Lidmaatschap van het Programma dat Landen opsomt
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%

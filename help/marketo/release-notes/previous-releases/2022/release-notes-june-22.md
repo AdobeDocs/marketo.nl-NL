@@ -2,9 +2,10 @@
 description: Opmerkingen bij de release - juni 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - juni 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '649'
+source-wordcount: '641'
 ht-degree: 0%
 
 ---
@@ -25,20 +26,20 @@ De volgende functies worden vrijgegeven op **24 juni 2022**, met een gefaseerde 
 
 ## Cross-Channel Orchestration {#cross-channel-orchestration}
 
-* **Verbeterde functionaliteit voor stroomontwerper voor dynamische chat**: Voeg kaarten rechtstreeks toe vanaf het canvas van de Ontwerper van de Stroom zonder de behoefte om te slepen en te laten vallen. De Dynamic Chat-interface is ook verbeterd en biedt een betere zichtbaarheid van inhoud in afzonderlijke kaarten.
+* **Verbeterde bruikbaarheid van Stream Designer voor Dynamic Chat**: Voeg kaarten rechtstreeks toe vanaf het canvas van de Ontwerper van de Stroom zonder de behoefte om te slepen en te laten vallen. De interface van de Dynamic Chat is ook verbeterd om inhoud in individuele kaarten beter zichtbaar te maken.
 
-* **Geavanceerde Benoeming die Regels voor Dynamische Chat verplettert**: Het dynamische Praatje biedt meer opties voor gerichte benoeming het verpletteren aan. Specificeer welke agentenbenoemingen zouden moeten worden verpletterd gebaseerd op de attributen van Marketo Engage, die leiden verzekeren worden verpletterd aan de aangewezen agenten.
+* **Geavanceerde Benoeming die Regels voor Dynamic Chat verplettert**: De Dynamic Chat biedt meer opties voor gerichte benoeming het verpletteren aan. Specificeer welke agentenbenoemingen zouden moeten worden verpletterd gebaseerd op de attributen van Marketo Engage, die leiden verzekeren worden verpletterd aan de aangewezen agenten.
 
-* **Geavanceerde Dialoograpportering voor Dynamisch Praatje**: Bekijk de prestaties van uw Dynamic Chat-campagnes gedetailleerder met behulp van alle nieuwe gegevensvisualisaties voor betrokkenheid en conversiemetriek.
+* **Geavanceerde Dialoograpportering voor Dynamic Chat**: Bekijk de prestaties van uw Dynamic Chat-campagnes gedetailleerder met behulp van alle nieuwe gegevensvisualisaties voor betrokkenheid en conversiemetriek.
 
-* **Ongebruikte Marketo Engage-kenmerken niet synchroniseren voor dynamische chat**: De synchronisatie van de Marketo Engage-kenmerken van uw Dynamic Chat-abonnement ongedaan maken, zodat u de gegevenskwaliteit eenvoudiger kunt maken en alternatieve kenmerken naar wens kunt synchroniseren.
+* **Ongebruikte Marketo Engage-kenmerken niet synchroniseren voor Dynamic Chat**: De synchronisatie van Marketo Engage-kenmerken uit uw abonnement op de Dynamic Chat die niet worden gebruikt, maakt het mogelijk de gegevenskwaliteit te verbeteren en alternatieve kenmerken naar wens te synchroniseren.
 
 ## Ervaring van de volgende generatie
 
 **Nieuwe weergave schakeloptie**: De onderstaande weergaven zijn nu beschikbaar in de Next Generation Experience:
 
-* [E-maildetails weergeven](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target=&quot;_blank&quot;}
-* [E-maillijstweergave](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target=&quot;_blank&quot;}
+* [E-maildetails weergeven](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [E-maillijstweergave](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## Experience Automation {#experience-automation}
 
@@ -62,7 +63,7 @@ De volgende functies worden vrijgegeven op **24 juni 2022**, met een gefaseerde 
 
 ![(ster)](assets/yellow-star.png)
 
-* **Update voor Salesforce API**: Met de release van Salesforce Summer &#39;22, zullen oudere API versies 21-30 niet meer worden ondersteund door Salesforce. Met deze Marketo Engage-release zijn alle Sales Connect-aanvragen die oudere API-versies gebruiken, bijgewerkt en blijven deze versies op de ondersteunde versie staan. Voor volledige informatie over de pensioenplannen van de Salesforce API klikt u op [hier](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target=&quot;_blank&quot;}.
+* **Update voor Salesforce API**: Met de release van Salesforce Summer &#39;22, zullen oudere API versies 21-30 niet meer worden ondersteund door Salesforce. Met deze Marketo Engage-release zijn alle Sales Connect-aanvragen die oudere API-versies gebruiken, bijgewerkt en blijven deze versies op de ondersteunde versie staan. Voor volledige informatie over de pensioenplannen van de Salesforce API klikt u op [hier](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"}.
 
 ## API-verbeteringen {#api-enhancements}
 
@@ -76,4 +77,4 @@ De volgende functies worden vrijgegeven op **24 juni 2022**, met een gefaseerde 
 
 **_Webinar productrelease_**
 
-[Release Webinar van juni en augustus 2022 Marketo Engage](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target=&quot;_blank&quot;}
+[Release Webinar van juni en augustus 2022 Marketo Engage](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

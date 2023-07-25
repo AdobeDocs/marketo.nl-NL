@@ -2,7 +2,8 @@
 description: Heeft een iPhone- of Android-app voor het instellen van een Sales Insight-actie? - Marketo Docs - Productdocumentatie
 title: Heeft een iPhone- of Android-app voor het instellen van een Sales Insight-actie?
 exl-id: 2789c76e-a26f-4efd-ae6b-e897197b9f55
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

@@ -3,7 +3,8 @@ unique-page-id: 1146944
 description: Een stap toevoegen aan een slimme campagne - Marketo Docs - Productdocumentatie
 title: Een stroomstap toevoegen aan een slimme campagne
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -48,4 +49,3 @@ Geweldig! Zorg ervoor dat u [de slimme campagne evalueren en valideren](/help/ma
 >
 >* [Kies toevoegen in een stroomstap gebruiken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
 >* [De Stappen van de Stroom in een Slimme Campagne opnieuw ordenen](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign/reorder-the-flow-steps-in-a-smart-campaign.md)
-

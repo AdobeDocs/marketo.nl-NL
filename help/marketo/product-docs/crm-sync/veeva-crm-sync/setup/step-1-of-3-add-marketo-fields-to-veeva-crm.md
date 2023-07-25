@@ -2,7 +2,8 @@
 description: Stap 1 van 3 - voeg Marketo-velden toe aan Veeva CRM - Marketo Docs - Productdocumentatie
 title: Stap 1 van 3 - Voeg Marketo-velden toe aan Veeva CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
-source-git-commit: bb020cba0bb0cb65761e15cba05147b6e9fffe50
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '533'
 ht-degree: 0%
@@ -100,7 +101,7 @@ Decimalen 0</td>
 * Als u een gebruiker hebt met het profiel van een systeembeheerder als synchronisatiegebruiker, schakelt u het selectievakje Alleen-lezen voor het beheerprofiel van het systeem uit (zoals hieronder wordt weergegeven).
 * Als u een aangepast profiel voor de synchronisatiegebruiker hebt gemaakt, schakelt u het selectievakje Alleen-lezen voor dat aangepaste profiel uit.
 
-   ![](assets/step-1-of-3-add-marketo-fields-9.png)
+  ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
 1. Kies de paginalay-outs die het veld moeten weergeven.
 

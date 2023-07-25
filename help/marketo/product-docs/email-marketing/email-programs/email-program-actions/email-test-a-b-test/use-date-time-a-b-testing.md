@@ -3,7 +3,8 @@ unique-page-id: 2359520
 description: '"Datum/tijd" A/B-tests gebruiken - Marketo Docs - Productdocumentatie'
 title: Datum-/tijdtest gebruiken
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -17,6 +18,7 @@ U kunt uw e-mailberichten eenvoudig testen. Eén test is de **Datum/tijd** test.
 >[!PREREQUISITES]
 >
 >[Een A/B-test toevoegen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>
 
 1. Onder de **E-mail** tegel, klikken **A/B-test toevoegen**.
 

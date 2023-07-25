@@ -3,9 +3,10 @@ unique-page-id: 1147226
 description: Aan de slag - Marketo Docs - Productdocumentatie
 title: Aan de slag
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
-source-git-commit: 7e7a82f49b9f723eed5cbcde766c5be91ac170b5
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '133'
 ht-degree: 9%
 
 ---
@@ -16,13 +17,13 @@ ht-degree: 9%
 
 Wat is Marketo Engage, vraag je? Geweldige vraag!
 
-[Meer Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target=&quot;_blank&quot;}
+[Meer Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
 ## Instellen ophalen {#get-set-up}
 
 Met een beetje hulp van uw IT-team kunt u het snel doen.
 
-[Setup starten](/help/marketo/getting-started/setup/setup-steps.md){target=&quot;_blank&quot;}
+[Setup starten](/help/marketo/getting-started/setup/setup-steps.md){target="_blank"}
 
 ## Snel wat gewonnen {#get-some-quick-wins}
 
@@ -124,4 +125,4 @@ Voltooi deze missies om de kerneigenschappen van Marketo Engage te leren.
 
 ## STAP 4 Gefeliciteerd! Je bent klaar voor de Natie  {#congrats-youre-ready-for-the-nation}
 
-Kijk uit de [Marketing Nation](https://nation.marketo.com){target=&quot;_blank&quot;}!
+Kijk uit de [Marketing Nation](https://nation.marketo.com){target="_blank"}!

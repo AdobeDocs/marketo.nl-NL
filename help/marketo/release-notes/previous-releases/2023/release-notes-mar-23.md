@@ -2,7 +2,8 @@
 description: Opmerkingen bij de release - maart 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - maart 2023
 exl-id: 3074beee-e223-4794-8714-7d78e9d2d4eb
-source-git-commit: 5fc6de5b333e3008ebd542171b6bce8b29701d07
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 1%
@@ -107,7 +108,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Rollen en machtigingen voor dynamische chat**: Introduceert rollen en toestemmingen aan Dynamisch Praatje, toestaand beheerders om zicht en gebruik van verschillende gebieden van de app aan geselecteerde gebruikerstypes te beperken.
+* **Rollen en machtigingen voor Dynamic Chat**: Introduceert rollen en toestemmingen aan Dynamisch Praatje, toestaand beheerders om zicht en gebruik van verschillende gebieden van de app aan geselecteerde gebruikerstypes te beperken.
 
 <table> 
   <tr> 
@@ -121,7 +122,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Chatten als programmakanaal voor dynamische chat**: Maakt een nieuw Chat-programmakanaal om de voortgang van het programma bij te houden voor mensen die zijn aangeschaft door Dynamic Chat. Een markeerteken heeft bijvoorbeeld een programma dat is gekoppeld aan een dynamisch chatdialoogvenster om nieuwe leads vast te leggen. Ze kunnen dat programma nu toewijzen aan het Chat-kanaal, zodat ze kunnen bijhouden wanneer de leiders lid zijn van het programma en wanneer ze succes hebben geboekt.
+* **Chatten als programmakanaal voor Dynamic Chat**: Maakt een nieuw Chat-programmakanaal om de voortgang van het programma bij te houden voor mensen die zijn aangeschaft door Dynamic Chat. Een markeerteken heeft bijvoorbeeld een programma dat is gekoppeld aan een dialoogvenster Dynamic Chat om nieuwe leads vast te leggen. Ze kunnen dat programma nu toewijzen aan het Chat-kanaal, zodat ze kunnen bijhouden wanneer de leiders lid zijn van het programma en wanneer ze succes hebben geboekt.
 
 <table> 
   <tr> 

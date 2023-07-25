@@ -3,7 +3,8 @@ unique-page-id: 3571800
 description: Stap 3 van 3 - Connect Marketo en Salesforce (Professional) - Marketo Docs - Productdocumentatie
 title: Stap 3 van 3 - Connect Marketo en Salesforce (Professional)
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
-source-git-commit: 8162db802cae125b406c463fde50d4ffdf0eb621
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
@@ -18,7 +19,6 @@ In dit artikel configureert u Marketo voor synchronisatie met de geconfigureerde
 >
 >* [Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
 >* [Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
-
 
 ## Synchronisatie van beveiligingstoken voor gebruiker ophalen {#retrieve-sync-user-security-token}
 
@@ -106,4 +106,3 @@ Wow, je hebt net een van de krachtigste functies van Marketo geconfigureerd, hè
 >
 >* [Marketo Sales Insight Package installeren in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 >* [Marketo Sales Insight configureren in Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
-

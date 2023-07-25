@@ -2,7 +2,8 @@
 description: Handelingen voor het toezicht op de verkoop Gebruikershandleiding voor instapkaarten - Marketo Docs - Productdocumentatie
 title: Handleiding voor het toezicht op de verkoop
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -19,7 +20,6 @@ ht-degree: 0%
 >
 >* Een beheerder moet een gebruiker uitnodigen om MSI-handelingen te gaan gebruiken.
 >* Als u uw account met Salesforce wilt activeren, moet u API ingeschakeld hebben in de bevoegdheden voor het Salesforce-profiel.
-
 
 Nieuwe gebruikers moeten de onderstaande stappen volgen.
 

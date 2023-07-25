@@ -3,7 +3,8 @@ unique-page-id: 1147049
 description: De naam van een slimme campagne wijzigen - Marketo Docs - Productdocumentatie
 title: De naam van een slimme campagne wijzigen
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%

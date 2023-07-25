@@ -3,7 +3,8 @@ unique-page-id: 1146940
 description: Slimme lijst definiëren voor slimme campagne | Batch - Marketo-documenten - productdocumentatie
 title: Slimme lijst definiëren voor slimme campagne | Batch
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
-source-git-commit: 56d3d05d5462c79f32f507655266e3bfa0cc6846
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -52,4 +53,3 @@ De slimme Lijsten zijn het mechanisme door Marketo om &quot;te bepalen wie&quot;
    >
    >* [Slimme lijst definiëren voor slimme campagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
    >* [Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-

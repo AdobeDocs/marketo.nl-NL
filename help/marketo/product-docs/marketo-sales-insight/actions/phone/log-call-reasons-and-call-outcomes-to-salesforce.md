@@ -1,7 +1,9 @@
 ---
 description: De Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce - de Documenten van Marketo - de Documentatie van het Product
 title: De Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce
-source-git-commit: 0864f784d193bfc6dd7a087c9f89ce59bdff710c
+exl-id: cfe71388-282b-45e5-a817-45a951f613bc
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '464'
 ht-degree: 0%
@@ -157,4 +159,3 @@ Als u deze velden wilt gebruiken, moet u het veld eerst maken als een veld voor 
 >
 >* [Resultaten bellen](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-outcomes.md)
 >* [Redenen voor oproepen](/help/marketo/product-docs/marketo-sales-insight/actions/phone/call-reasons.md)
-

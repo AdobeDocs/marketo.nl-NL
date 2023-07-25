@@ -3,9 +3,10 @@ unique-page-id: 2953188
 description: Overgenomen filters - Marketo Docs - Productdocumentatie
 title: Overgenomen filters
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
-source-git-commit: e9a89fb17ca55961c1ee7962d5466b6cb76a9550
+feature: Smart Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,7 @@ Wanneer iemand uw website bezoekt, [Munchkin](/help/marketo/product-docs/adminis
 >
 >Om ervoor te zorgen dat afgeleide veldwaarden actueel blijven, werken wij periodiek het gegevensbestand bij dat voor IP adresraadplegingen wordt gebruikt. Databaseupdates kunnen nieuwe afgeleide veldwaarden introduceren die u wellicht moet toevoegen aan de definities van slimme lijstfilters.
 >
->Database-updates kunnen optreden tijdens een [Marketo Engage-productrelease](/help/marketo/release-notes/release-schedule.md){target=&quot;_blank&quot;}. Wanneer er wel een update wordt uitgevoerd, wordt [Opmerkingen bij de release Marketo Engage](/help/marketo/release-notes/current.md){target=&quot;_blank&quot;} bevat een uitleg van eventuele wijzigingen in afgeleide veldwaarden.
+>Database-updates kunnen optreden tijdens een [Marketo Engage-productrelease](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} bevat een uitleg van eventuele wijzigingen in de afgeleide veldwaarden.
 
 ![](assets/image2015-4-27-13-3a25-3a46.png)
 
@@ -40,7 +41,6 @@ Wanneer u een van deze filters in een slimme lijst gebruikt, leveren de resultat
 >
 >* Bezochte webpagina - Laatste 24 uur
 >* Overgedragen staat is [hun grondgebied selecteren]
-
 
 Deze anonieme bezoekers worden automatisch geconverteerd naar personen wanneer ze op een e-mailkoppeling klikken of een formulier invullen. Ze bewaren echter alle verzamelde informatie.
 

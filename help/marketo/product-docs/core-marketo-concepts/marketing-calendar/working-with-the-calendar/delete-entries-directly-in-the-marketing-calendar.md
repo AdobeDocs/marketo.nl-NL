@@ -3,7 +3,8 @@ unique-page-id: 2953358
 description: Items rechtstreeks verwijderen in de marketingkalender - Marketo Docs - productdocumentatie
 title: Items rechtstreeks in de marketingkalender verwijderen
 exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
-source-git-commit: dd4fb7dfc92580c58da70d603b6d92bd8f64493c
+feature: Marketing Calendar
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

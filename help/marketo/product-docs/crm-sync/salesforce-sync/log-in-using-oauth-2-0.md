@@ -2,7 +2,8 @@
 description: Aanmelden met OAuth 2.0 - Marketo Docs - Productdocumentatie
 title: Aanmelden met OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -56,7 +57,6 @@ Salesforce gebruikt het protocol OAuth om gebruikers van toepassingen toe te sta
 >* Voor bestaande klanten is de functie &quot;OAuth inschakelen voor SFDC-synchronisatie&quot; ingeschakeld op het abonnement van de klant.
 >* Pop-upblokkeerders zijn uitgeschakeld.
 >* Connected App is gemaakt en we hebben de Consumer Key en Consumer Secret beschikbaar voor gebruik.
-
 
 >[!CAUTION]
 >
@@ -112,4 +112,3 @@ Uw Synchronisatie tussen Marketo en Salesforce is nu aan de gang.
 >* [Stap 2 van 3: Een Salesforce-gebruiker voor Marketo maken (Enterprise/Onbeperkt)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [Marketo Sales Insight Package installeren in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 >* [Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-

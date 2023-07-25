@@ -1,19 +1,20 @@
 ---
-description: Dynamic Chat verbinden met Marketo - Marketo Docs - Productdocumentatie
+description: Connect Dynamic Chat to Marketo - Marketo Docs - Productdocumentatie
 title: Dynamische chat met Marketo verbinden
 exl-id: bad6c2dc-d4e7-4f98-bf6d-743043f96e4e
-source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
 
 # Dynamische chat met Marketo verbinden {#connect-dynamic-chat-to-marketo}
 
-## Dynamische chat verbinden {#connecting-dynamic-chat}
+## Dynamic Chat verbinden {#connecting-dynamic-chat}
 
-Nadat u de [eerste installatie](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}, is het tijd om de eenmalige synchronisatie uit te voeren die Dynamic Chat verbindt met uw Marketo-abonnement.
+Nadat u de [eerste installatie](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}, is het tijd om de eenmalige synchronisatie uit te voeren die de Dynamic Chat verbindt met uw Marketo-abonnement.
 
 1. Klik in Mijn Marketo op de knop **Dynamische chat** tegel.
 
@@ -23,7 +24,7 @@ Nadat u de [eerste installatie](/help/marketo/product-docs/demand-generation/dyn
    >
    >Neem contact op met uw Marketo Admin als u de tegel niet ziet.
 
-1. Als u eerder een toepassing met een Adobe ID hebt geopend, gaat u rechtstreeks naar Dynamic Chat. Zo niet, [Adobe ID instellen](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target=&quot;_blank&quot;}.
+1. Als u eerder een toepassing met een Adobe ID hebt betreden, zult u direct aan Dynamic Chat worden genomen. Zo niet, [Adobe ID instellen](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
 1. Selecteer **Integraties**.
 
@@ -79,4 +80,4 @@ Na de aanvankelijke synchronisatie, is hier hoe te om een attribuut te verwijder
 
 >[!MORELIKETHIS]
 >
->[Eerste instelling](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target=&quot;_blank&quot;}
+>[Eerste instelling](/help/marketo/product-docs/demand-generation/dynamic-chat/initial-setup.md){target="_blank"}

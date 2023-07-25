@@ -3,7 +3,8 @@ unique-page-id: 1147340
 description: E-mails verzenden van de eigenaar van de lead - Marketo Docs - Productdocumentatie
 title: E-mails verzenden vanuit de eigenaar van de lead
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%

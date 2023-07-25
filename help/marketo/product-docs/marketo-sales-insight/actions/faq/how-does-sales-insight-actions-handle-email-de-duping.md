@@ -2,7 +2,8 @@
 description: Hoe worden de-duplex-e-mail van de Handelingen van het Inzicht van de Verkoop verwerkt - de Documenten van Marketo - de Documentatie van het Product
 title: Hoe wordt de-duplicatie van e-mail door de Handelingen van het Inzicht van de Verkoop afgehandeld
 exl-id: 40b01f7f-df50-4bd2-ac35-4c4e4f80915e
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%

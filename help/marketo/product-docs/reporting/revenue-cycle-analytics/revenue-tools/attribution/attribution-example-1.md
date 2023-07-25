@@ -3,7 +3,8 @@ unique-page-id: 7514126
 description: Attributievoorbeeld 1 - Marketo Docs - Productdocumentatie
 title: Attributievoorbeeld 1
 exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -44,7 +45,6 @@ Lees het volgende scenario en probeer de aantallen te bepalen die in het net zou
 >1. Je kunt niet meer krediet geven dan je hebt verdiend
 >1. Je kunt geen krediet geven voor iets dat in het verleden is gebeurd
 
-
 Probeer alle voorbeelden en je bent een attribuut pro!
 
 >[!MORELIKETHIS]
@@ -52,4 +52,3 @@ Probeer alle voorbeelden en je bent een attribuut pro!
 >* [Attributievoorbeeld 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
 >* [Attributievoorbeeld 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
 >* [Attributievoorbeeld 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
-

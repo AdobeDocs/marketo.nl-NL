@@ -3,7 +3,8 @@ unique-page-id: 4719404
 description: AB Test Uw Campagne van het Web - de Documenten van Marketo - de Documentatie van het Product
 title: AB Test Uw Campagne van het Web
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 0%
@@ -73,10 +74,8 @@ Om A/B uw gepersonaliseerde campagnes te testen, kunt u twee of meer campagnes s
 >1. Probeer verschillende inhoudsonderdelen (casestudy A vs. casestudy B), verander het overseinen en creatieve elementen, kleuren, grootte of vraag aan acties.
 >1. Optimaliseer en geniet van uw persoonlijke inhoud!
 
-
 >[!MORELIKETHIS]
 >
 >* [Een dialoogcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [Een RTP maken in een zonecampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Een RTP-widgetcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

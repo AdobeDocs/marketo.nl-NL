@@ -3,7 +3,8 @@ unique-page-id: 3571809
 description: Stap 3 van 3 - Connect Microsoft Dynamics met Marketo (2011 op locatie) - Marketo Docs - Productdocumentatie
 title: Stap 3 van 3 - Connect Microsoft Dynamics met Marketo (2011 op locatie)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
-source-git-commit: f130fa1187ccead6573f76ff947e55d42f6962e4
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
 >
 >* [Stap 1 van 3: De Marketo-oplossing installeren (2011 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
 >* [Stap 2 van 3: Marketo Sync User in Dynamics instellen (2011 op locatie)](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
-
 
 >[!NOTE]
 >
@@ -54,7 +54,6 @@ Goed! We hebben de oplossing geïnstalleerd en de synchronisatiegebruiker geconf
    >
    >* De gebruikersnaam in Marketo moet overeenkomen met de gebruikersnaam voor de synchronisatiegebruiker in CRM. De indeling kan `user@domain.com` of DOMAIN\user.
    >* Als u de URL niet kent, [hier leren vinden](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
-
 
 ## Te synchroniseren velden selecteren {#select-fields-to-sync}
 

@@ -3,7 +3,8 @@ unique-page-id: 2360237
 description: Vertel het Marketing Story met een Opportunity Influence Analyzer - Marketo Docs - Productdocumentatie
 title: Vertel het Marketing Story met een Analyse van de Invloed van de Mogelijkheid
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 0%
@@ -39,7 +40,6 @@ Gebruik een Analysator van de Gevolgen van de Kans om de rol van de marketing in
    * De **getal tussen haakjes** is het aantal interactie met die contactpersoon.
 
    * ![—](assets/image2014-10-3-13-3a45-3a9.png)De **gele ster** Hiermee wordt de primaire contactpersoon aangegeven.
-
 
 1. Houd de muisaanwijzer boven een naam om de functie van die persoon en de bron van zijn betrokkenheid bij de kans te zien.
 

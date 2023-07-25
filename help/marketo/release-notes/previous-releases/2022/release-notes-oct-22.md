@@ -1,7 +1,9 @@
 ---
 description: Opmerkingen bij de release - oktober 2022 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - oktober 2022
-source-git-commit: b1f3d2f9e695607a1eaee40a162be8648dd6025c
+exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '600'
 ht-degree: 1%
@@ -125,7 +127,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 ![(ster)](assets/yellow-star.png)
 
-* **Integratie van het Inzicht van de verkoop met Dynamische Chat**: Het dashboard met inzichten bevat nu dynamische chatactiviteiten in het slimme raster, samen met een wekelijkse samenvatting en detailkaarten.
+* **De Integratie van het Inzicht van de verkoop met Dynamic Chat**: Het dashboard voor inzichten bevat nu Dynamic Chat-activiteiten in het slimme raster, samen met een wekelijkse samenvatting en detailkaart.
 
 <table> 
   <tr> 
@@ -143,7 +145,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 De volgende functies volgen een indeling van Adobe en worden op verschillende datums vóór of na de standaardreleasedatum uitgebracht. Controleer onder elke functie de status.
 
-* **Dialoogstromen automatisch rangschikken voor dynamisch chatten**: Verbeter uw drukke canvas van de Dialoog door alles op het canvas in een schone en gemakkelijk te lezen formaat met de pers van een knoop door Auto te schikken.
+* **Dialoogstromen automatisch rangschikken voor Dynamic Chat**: Verbeter uw drukke canvas van de Dialoog door alles op het canvas in een schone en gemakkelijk te lezen formaat met de pers van een knoop door Auto te schikken.
 
 <table> 
   <tr> 
@@ -157,7 +159,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Vergaderingskoppelingen voor dynamische chat**: Optie om automatisch een koppeling Teams of Meet voor Google en Outlook op te nemen in elke kalenderuitnodiging die naar bezoekers wordt verzonden.
+* **Vergaderingskoppelingen voor Dynamic Chat**: Optie om automatisch een koppeling Teams of Meet voor Google en Outlook op te nemen in elke kalenderuitnodiging die naar bezoekers wordt verzonden.
 
 <table> 
   <tr> 
@@ -171,7 +173,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Aanvullende gegevenstypen voor Dynamic Chat ondersteunen**: Met drie nieuwe gegevenstypen (boolean, integer, float) kunt u meer bestaande Marketo Engage-velden in Dynamic Chat benutten voor bijvoorbeeld het maken van doelen op basis van scores of het stellen van ja/nee-vragen aan bezoekers.
+* **Ondersteuning voor aanvullende gegevenstypen voor Dynamic Chat**: Met drie nieuwe gegevenstypen (boolean, integer, float) kunt u meer bestaande Marketo Engage-velden in de Dynamic Chat benutten voor bijvoorbeeld het maken van doelen op basis van scores of het stellen van ja/nee-vragen aan bezoekers.
 
 <table> 
   <tr> 

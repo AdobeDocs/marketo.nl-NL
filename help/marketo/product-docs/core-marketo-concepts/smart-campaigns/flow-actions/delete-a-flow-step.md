@@ -3,7 +3,8 @@ unique-page-id: 1146987
 description: Een stroomstap verwijderen - Marketo Docs - Productdocumentatie
 title: Een stroomstap verwijderen
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -54,16 +55,15 @@ Laten we eerst de basisbeginselen doen. Hier is hoe te om een ongewenste strooms
    >**Voorbeeld**
    >
    >1. Een slimme campagne bestaat uit drie stappen.
-      >    * STAP 1. E-mailadres 1 verzenden
-      >    * STAP 2. Wacht 1 week
-      >    * STAP 3. E-mailadres 2 verzenden
+   >    * STAP 1. E-mailadres 1 verzenden
+   >    * STAP 2. Wacht 1 week
+   >    * STAP 3. E-mailadres 2 verzenden
    >
    >1. Mensen die getroffen zijn **Stap 2** zal 1 week wachten alvorens op te gaan **Stap 3**.
    >1. U verwijdert **Stap 2** gedurende de week.
    >1. Mensen zullen de 1 week blijven wachten. (Ze komen niet automatisch terug in de flow.)
    >1. Als ze eindelijk terugkeren, zullen ze proberen om naar **Stap 3**. Ze zullen het niet vinden.
    >1. **BELANGRIJK:** Aangezien er nu slechts twee stappen zijn, worden de *mensen ontvangen geen e-mail #2.*
-
 
 Wijzigingen aanbrengen in een actieve campagne
 

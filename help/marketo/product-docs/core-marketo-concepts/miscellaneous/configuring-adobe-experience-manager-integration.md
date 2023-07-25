@@ -5,7 +5,8 @@ title: Adobe Experience Manager-integratie configureren
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
-source-git-commit: 2a94e4b3b034eac821a82a84db65c09e503c52f4
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -25,7 +26,6 @@ Vorm Adobe Experience Manager (AEM) zodat kunt u, AEM activa toegang hebben sele
 >* Deze integratie werkt alleen met implementaties van AEM op locatie en wordt niet ondersteund voor AEM Cloud Service-implementaties.
 >
 >* Deze functie wordt momenteel alleen volledig ondersteund in Firefox. Deze functie wordt niet ondersteund in Safari en werkt mogelijk niet in de meest recente versie van Chrome, afhankelijk van de cookie-instellingen van SameSite.
-
 
 1. Navigeer naar de Adobe Experience Manager (de URL is specifiek voor uw bedrijf).
 

@@ -3,9 +3,10 @@ unique-page-id: 6849070
 description: Download de Marketo Sales Insight Solution for Microsoft Dynamics - Marketo Docs - Productdocumentatie
 title: Download de Marketo Sales Insight Solution voor Microsoft Dynamics
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
-source-git-commit: 3a62fe40856b9b3f2eab61e22eaa38e1b9c44d7e
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->De plug-in op deze pagina is bestemd voor gebruikers die synchroniseren met Marketo Engage via de Marketo native CRM-synchronisatieoplossing naar Dynamics 365. Voor degenen die: een aangepaste synchronisatie, MS Dynamics 365 Online (9.x en hoger), en hebben Marketo Sales Insight aangeschaft, de [pakket is hier](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target=&quot;_blank&quot;}.
+>De plug-in op deze pagina is bestemd voor gebruikers die synchroniseren met Marketo Engage via de Marketo native CRM-synchronisatieoplossing naar Dynamics 365. Voor degenen die: een aangepaste synchronisatie, MS Dynamics 365 Online (9.x en hoger), en hebben Marketo Sales Insight aangeschaft, de [pakket is hier](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 1. Ga naar de **Beheer** gebied.
 

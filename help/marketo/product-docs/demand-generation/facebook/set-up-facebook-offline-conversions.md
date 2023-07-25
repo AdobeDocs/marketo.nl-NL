@@ -3,7 +3,8 @@ unique-page-id: 11383953
 description: Facebook Offline conversies instellen - Marketo Docs - Productdocumentatie
 title: Facebook-offlineconversies instellen
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
-source-git-commit: 41d8762203786bac9aea03ac978daa0549ac8e93
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Door offline conversiegegevens terug te sturen naar Facebook voor mensen die via
 >
 >* U moet [facebook Lead Ads instellen](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 >* U moet een goedgekeurd model hebben in [Revenue Cycle Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
-
 
 ## Beheerdersconfiguratie {#admin-configuration}
 
@@ -78,7 +78,6 @@ Door offline conversiegegevens terug te sturen naar Facebook voor mensen die via
    >* Aanschaffen
    >* Zoekopdrachten
    >* Weergaven van inhoud
-
 
 1. Selecteer het werkgebied dat u wilt toewijzen, en kies vervolgens in het menu **Facebook-conversie** selecteert u de Facebook-gebeurtenis waaraan u deze wilt toewijzen. Herhaal deze stap om alle stadia in uw RCM aan off-line omzettingsstadia op Facebook in kaart te brengen.
 

@@ -2,9 +2,10 @@
 description: Een Adobe Experience Platform-segment verplaatsen naar een statische Marketo-lijst - Marketo Docs - Productdocumentatie
 title: Een Adobe Experience Platform-segment naar een statische Marketo-lijst verplaatsen
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
-source-git-commit: ccc62b22f260293ac193ce03a31e4f03aba34768
+feature: Static Lists
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,6 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 >* [Een API-gebruiker maken](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) in Marketo.
 >* Ga naar **Beheer** > **Launchpoint**. Zoek de naam van de rol die u net hebt gemaakt en klik op **Details weergeven**. De gegevens kopiëren en opslaan in **Client-id** en **Clientgeheim**, aangezien u het voor Stap 7 kon nodig hebben.
 >* Maak in Marketo een statische lijst of zoek en selecteer een lijst die u al hebt gemaakt. Je hebt de id nodig.
-
 
 1. Aanmelden bij [Adobe Experience Platform](https://experience.adobe.com/).
 
@@ -100,7 +100,7 @@ Met deze functie kunt u segmenten in uw Adobe Experience Platform naar Marketo d
 
    >[!NOTE]
    >
-   >U kunt attributen van Experience Platform aan om het even welke attributen in kaart brengen die uw organisatie in Marketo Engage heeft toegang tot. Gebruik de [Beschrijf API-aanvraag](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target=&quot;_blank&quot;} om kenmerkvelden op te halen waartoe uw organisatie toegang heeft.
+   >U kunt attributen van Experience Platform aan om het even welke attributen in kaart brengen die uw organisatie in Marketo Engage heeft toegang tot. Gebruik de [Beschrijf API-aanvraag](https://developers.marketo.com/rest-api/lead-database/leads/#describe){target="_blank"} om kenmerkvelden op te halen waartoe uw organisatie toegang heeft.
 
 1. Wijs de Achternaam en de Naam van het Bedrijf in kaart door te klikken **Nieuwe toewijzing toevoegen** en herhaalt u stap 15 tweemaal, waarbij u **lastName** en vervolgens **companyName**.
 

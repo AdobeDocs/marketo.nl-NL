@@ -2,9 +2,10 @@
 description: Dialoogoverzicht - Marketo Docs - Productdocumentatie
 title: Overzicht van dialoogvensters
 exl-id: 5ec17ad0-6d56-4c06-a6ac-4c5771b2d91d
-source-git-commit: f71ac0398b3a93d2c46201a696dd41e6ccd89000
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -15,19 +16,19 @@ Dialogen zijn individuele praatjegesprekken. In elke Dialoog, beslist u waar het
 
 ## Criteria voor het publiek {#audience-criteria}
 
-De [Criteria voor het publiek](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target=&quot;_blank&quot;} sectie van een Dialoog is waar u zult bepalen waar en aan wie uw praatjegesprek zal worden getoond
+De [Criteria voor het publiek](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/audience-criteria.md){target="_blank"} sectie van een Dialoog is waar u zult bepalen waar en aan wie uw praatjegesprek zal worden getoond
 
 ![](assets/dialogue-overview-1.png)
 
 ## Stream Designer {#stream-designer}
 
-De [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md)In de sectie {target=&quot;_blank&quot;} van een dialoogvenster ontwerpt u het gesprek dat u met uw websitebezoekers wilt voeren.
+De [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/stream-designer.md){target="_blank"} in een dialoogvenster kunt u het gesprek ontwerpen dat u met uw websitebezoekers wilt voeren.
 
 ![](assets/dialogue-overview-2.png)
 
 ## Rapporten {#reports}
 
-De [Rapporten](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md)In de sectie {target=&quot;_blank&quot;} van een dialoogvenster ziet u hoe goed uw dialoogvenster presteert.
+De [Rapporten](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogues/reports.md){target="_blank"} in een dialoogvenster ziet u hoe goed uw dialoogvenster presteert.
 
 ![](assets/dialogue-overview-3.png)
 
@@ -35,7 +36,7 @@ De [Rapporten](/help/marketo/product-docs/demand-generation/dynamic-chat/dialogu
 
 U kunt alle gepubliceerde dialoogvensters tegelijkertijd uitschakelen (en weer inschakelen).
 
-1. Klik in Dynamisch chatten op de knop **Configuratie** tab.
+1. Klik in Dynamic Chat op de knop **Configuratie** tab.
 
    ![](assets/dialogue-overview-4.png)
 

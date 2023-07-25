@@ -2,7 +2,8 @@
 description: De Resultaten van de vraag - de Documenten van Marketo - de Documentatie van het Product
 title: Resultaten bellen
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
-source-git-commit: d2d6d4389f5a480afdfae6bfb62b9f48f0a2d88e
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -89,4 +90,3 @@ Zodra de vraagresultaten zijn toegelaten. De gebruikers kunnen één selecteren 
 >
 >* [De Redenen van de Vraag van het logboek en de Resultaten van de Vraag van Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
 >* [Redenen voor oproepen](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
-

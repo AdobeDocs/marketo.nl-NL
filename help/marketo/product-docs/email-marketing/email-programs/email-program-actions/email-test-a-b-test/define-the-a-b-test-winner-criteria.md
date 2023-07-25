@@ -3,20 +3,21 @@ unique-page-id: 2359545
 description: Bepaal de A/B criteria van de Winner van de Test - Marketo DOS - de Documentatie van het Product
 title: Bepaal de Criteria van de Winner van de Test A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
-source-git-commit: 67ae4605d541a475b42a5094a5588c469a9d975d
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '412'
 ht-degree: 0%
 
 ---
 
 # Bepaal de Criteria van de Winner van de Test A/B {#define-the-a-b-test-winner-criteria}
 
-Wanneer [toevoegen van een A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target=&quot;_blank&quot;} naar uw e-mailprogramma, moet u een testtype kiezen, [de A/B-test plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target=&quot;_blank&quot;}, definieert u vervolgens de criteria voor de winnaars. Hier is hoe je bepaalt welke e-mail wint.
+Wanneer [toevoegen van een A/B-test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} to your email program, you will need to pick a test type, [schedule the A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}en definieert u vervolgens de criteria voor de winnaars. Hier is hoe je bepaalt welke e-mail wint.
 
 >[!PREREQUISITES]
 >
->[Een A/B-test toevoegen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target=&quot;_blank&quot;}
+>[Een A/B-test toevoegen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}
 
 ## Winkelcriteria {#winner-criteria}
 
@@ -45,7 +46,7 @@ Wanneer [toevoegen van een A/B-test](/help/marketo/product-docs/email-marketing/
 
    >[!TIP]
    >
-   >Als u Betrokkenheidsscore kiest, moet de test minstens 24 uur worden uitgevoerd. Meer informatie over [inzicht krijgen in de betrokkenheidsscore](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target=&quot;_blank&quot;}.
+   >Als u Betrokkenheidsscore kiest, moet de test minstens 24 uur worden uitgevoerd. Meer informatie over [inzicht krijgen in de betrokkenheidsscore](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 1. U kunt uw criteria ook aanpassen door Aangepaste omzetting te selecteren en op Bewerken te klikken.
 
@@ -93,4 +94,4 @@ Wanneer [toevoegen van een A/B-test](/help/marketo/product-docs/email-marketing/
    >
    >Kiezen **Handmatig** stuurt de test uit en wacht tot je een winnaar hebt gedeclareerd. U ontvangt een rapport met de resultaten.
 
-Perfect! Laten we nu [de A/B-test plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target=&quot;_blank&quot;}.
+Perfect! Laten we nu [de A/B-test plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.

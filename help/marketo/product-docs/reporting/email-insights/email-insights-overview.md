@@ -3,7 +3,8 @@ unique-page-id: 10099408
 description: Overzicht van e-mailinzichten - Marketo Docs - Productdocumentatie
 title: Overzicht van e-mailinzichten
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -64,4 +65,3 @@ Alle standaard Marketo-afmetingen zijn inbegrepen, maar u kunt maximaal 10 aange
 >
 >* [Overzicht van e-mailinzichten](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)
 >* [E-mailinzichten verzenden overzicht](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
-

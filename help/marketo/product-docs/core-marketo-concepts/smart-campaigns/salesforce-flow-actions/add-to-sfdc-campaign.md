@@ -3,7 +3,8 @@ unique-page-id: 1147034
 description: Toevoegen aan SFDC-campagne - Marketo Docs - Productdocumentatie
 title: Toevoegen aan SFDC-campagne
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Salesforce Integration
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -34,7 +35,6 @@ Deze flowstap kan worden gebruikt in Marketo-campagnes of als een enkele flowsta
    >
    >  1. Zorg ervoor dat de [campagnecsync ingeschakeld](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md).
    >  1. Bevestig dat uw [Marketo Sync-gebruiker](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) is een [Gebruiker van marketing](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md) in Salesforce.
-
 
    >[!TIP]
    >

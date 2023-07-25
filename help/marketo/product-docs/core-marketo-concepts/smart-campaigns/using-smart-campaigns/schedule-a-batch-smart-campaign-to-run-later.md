@@ -3,7 +3,8 @@ unique-page-id: 1146970
 description: Een Smart Batch-campagne plannen om later uit te voeren - Marketo Docs - Productdocumentatie
 title: Een slimme batchcampagne plannen om later uit te voeren
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
-source-git-commit: bb628e5211601bd8b424c78cae887c2eeb0614cf
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%

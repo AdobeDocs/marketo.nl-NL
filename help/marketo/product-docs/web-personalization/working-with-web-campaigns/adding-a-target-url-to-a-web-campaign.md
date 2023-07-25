@@ -3,7 +3,8 @@ unique-page-id: 6094879
 description: Een doel-URL toevoegen aan een webcampagne - Marketo Docs - Productdocumentatie
 title: Een doel-URL toevoegen aan een webcampagne
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
-source-git-commit: 6ad418c8f4056b9a2fb31b0ac995692f0c618795
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 0%
@@ -59,7 +60,6 @@ Klikken op het plusteken (![—](assets/image2015-2-18-8-3a40-3a59.png)) opent u
 >* In gevallen van geavanceerd gebruik kunnen webcampagnes in zone jokertekens gebruiken aan het einde van het URL-pad. Voorbeeld: [www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 >* URL is hoofdlettergevoelig
 
-
 ## Een doel-URL toevoegen voor webcampagnes in zone {#adding-a-target-url-for-in-zone-web-campaigns}
 
 1. Ga naar **Web** **Campagnes**.
@@ -83,4 +83,3 @@ Klikken op het plusteken (![—](assets/image2015-2-18-8-3a40-3a59.png)) opent u
 >* [Een dialoogcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 >* [Een RTP maken in een zonecampagne](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
 >* [Een RTP-widgetcampagne maken](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-

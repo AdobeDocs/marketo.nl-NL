@@ -3,7 +3,8 @@ unique-page-id: 8781911
 description: Werken met e-mailprogrammakaarten - Marketo Docs - Productdocumentatie
 title: E-mailprogrammakaarten
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -117,4 +118,3 @@ En dat is de les bij het bekijken van je e-mailcampagnes. Nu ben je een pro!
 >* [Marketo-momenten begrijpen](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
 >* [Gebeurteniskaarten](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Analysecards](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
-

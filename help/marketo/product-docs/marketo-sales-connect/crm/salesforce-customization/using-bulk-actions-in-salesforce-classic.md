@@ -3,7 +3,8 @@ unique-page-id: 42762794
 description: Bulkacties gebruiken in Salesforce Classic - Marketo Docs - Productdocumentatie
 title: Bulkhandelingen gebruiken in Salesforce Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -82,4 +83,3 @@ Leer hoe u bulkacties kunt uitvoeren, zoals het toevoegen van leads aan een camp
 >
 >* [E-mailberichten verzenden via e-mail voor groep](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md)
 >* [Bulke-mails samenstellen met Selecteren en Verzenden](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md#sending-emails)
-

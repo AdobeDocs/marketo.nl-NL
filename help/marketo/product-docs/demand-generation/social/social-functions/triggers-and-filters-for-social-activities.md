@@ -3,7 +3,8 @@ unique-page-id: 2359837
 description: Triggers en filters voor sociale activiteiten - Marketo Docs - Productdocumentatie
 title: Triggers en filters voor sociale activiteiten
 exl-id: 97b28a89-21d2-4179-9257-f50efbb3c228
-source-git-commit: c1b2a5966da3bda18a2ccaab9b348296ba1d7bfd
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -30,7 +31,7 @@ Sociale apps in Marketo hebben hun eigen speciale triggers en filters.
 
    | Triggers/filters | Sociale knoppen | Opiniepeilingen | Video&#39;s | Verwijzingsvoorstellen | Sweepstake |
    |---|---|---|---|---|---|
-   | Resultaat van de verwijzing |  |  |  | ![(tik)](assets/check.png) |  |
+   | Resultaat van de verwijzing |  |  |  | ![(tik)](assets/check.png) | |
    | Inhoud delen | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) |
    | Klik op Gedeelde koppeling | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) | ![(tik)](assets/check.png) |
    | Egaliseert items |  |  |  |  | ![(tik)](assets/check.png) |

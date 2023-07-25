@@ -3,7 +3,8 @@ unique-page-id: 2950524
 description: Sociaal implementeren op uw website - Marketo Docs - Productdocumentatie
 title: Sociaal op uw website implementeren
 exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -51,4 +52,3 @@ U kunt sociale apps op uw eigen website opstellen om uw publiek te betrekken en 
    >* [De knop Sociale app aanpassen](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
    >* [Vereiste voor sociaal delen instellen](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
    >* [Openingspagina&#39;s naar Facebook publiceren](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
-

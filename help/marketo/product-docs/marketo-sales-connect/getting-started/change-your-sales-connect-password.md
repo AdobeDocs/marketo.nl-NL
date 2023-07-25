@@ -2,7 +2,8 @@
 description: Je wachtwoord voor verkoop en verbinding wijzigen - Marketo Docs - Productdocumentatie
 title: Je wachtwoord voor verkoopverbinding wijzigen
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -35,7 +36,6 @@ Wilt u uw wachtwoord wijzigen? Zo gaat het.
 >* Gebruik een combinatie van hoofdletters en kleine letters
 >* Een getal opnemen
 >* Een speciaal teken gebruiken
-
 
 ## Wachtwoord wijzigen bij afmelding {#change-your-password-while-signed-out}
 

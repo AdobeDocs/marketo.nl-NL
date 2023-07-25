@@ -3,7 +3,8 @@ unique-page-id: 11379928
 description: Details wijzigen in Audittrail - Marketo Docs - Productdocumentatie
 title: Details wijzigen in audittrail
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Audit Trail
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1913'
 ht-degree: 0%
@@ -136,7 +137,7 @@ Audittrail biedt veel inzicht in wie wat doet in uw Marketo-abonnement. Hier zij
   </tr> 
   <tr> 
    <td>Bewerken</td> 
-   <td>Module bewerken <code>"<module name>" <attribute></code> naar "value"</td> 
+   <td>Module bewerken <module name><attribute> naar "value"</td> 
   </tr> 
   <tr> 
    <td>Verwijderen</td> 

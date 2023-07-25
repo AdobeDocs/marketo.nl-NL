@@ -3,7 +3,8 @@ unique-page-id: 3571830
 description: Stap 3 van 3 - Verbind de Oplossing van Marketo met Server aan de Verbinding van de Server - de Documenten van Marketo - de Documentatie van het Product
 title: Stap 3 van 3 - Verbind de Oplossing van Marketo met de Verbinding van de Server aan
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
-source-git-commit: 5536b35d71506f11fdf32bf7149bf5c61174ab34
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Dit is de laatste stap van de synchronisatie. We zijn er bijna!
 >
 >* [Stap 1 van 3: Marketo-oplossing installeren met Server naar Server-verbinding](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
 >* [Stap 2 van 3: Marketo-oplossing instellen met Server naar Server-verbinding](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
-
 
 >[!NOTE]
 >

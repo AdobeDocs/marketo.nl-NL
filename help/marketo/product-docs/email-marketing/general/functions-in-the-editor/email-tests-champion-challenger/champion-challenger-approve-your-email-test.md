@@ -3,7 +3,8 @@ unique-page-id: 2359581
 description: Champion/Challenger -Goedkeuren e-mailtest - Marketo Docs - Productdocumentatie
 title: Champion/Challenger - Uw e-mailtest goedkeuren
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -40,4 +41,3 @@ De laatste stap bij het instellen van uw e-mailtest om deze goed te keuren. Zo g
    >
    >* [Champion/Challenger: Een Champion declareren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
    >* [Champion/Challenger: Een e-mailtest negeren](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
-

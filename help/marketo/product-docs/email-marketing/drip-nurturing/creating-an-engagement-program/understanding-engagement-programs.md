@@ -3,7 +3,8 @@ unique-page-id: 2359647
 description: Betrokkenheidsprogramma's begrijpen - Marketo Docs - Productdocumentatie
 title: Betrokkenheidsprogramma's
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -39,7 +40,6 @@ A **stream** is een pool van inhoud met prioriteiten die het betrokkenheidsprogr
 >* [Een stream toevoegen](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
 >* [Een stream klonen](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
-
 ## Inhoud {#content}
 
 Er zijn twee typen **content** u kunt aan de stromen van het betrokkenheidsprogramma toevoegen—e-mails en programma&#39;s. E-mails worden op het moment van de cast naar mensen verzonden.
@@ -53,7 +53,6 @@ Er zijn twee typen **content** u kunt aan de stromen van het betrokkenheidsprogr
 >* [Beschikbaarheid van stroominhoud bewerken](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
 >* [Stream-inhoud verwijderen](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
 >* [Stroominhoud archiveren en archiveren](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
-
 
 ## Cast {#cast}
 

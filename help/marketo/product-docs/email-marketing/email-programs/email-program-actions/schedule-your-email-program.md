@@ -3,7 +3,8 @@ unique-page-id: 2359455
 description: Uw e-mailprogramma plannen - Marketo Docs - Productdocumentatie
 title: Uw e-mailprogramma plannen
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -18,7 +19,6 @@ ht-degree: 0%
 >* [Een publiek definiëren met een slimme lijst](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) of [Een publiek definiëren door een lijst te importeren](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
 >* [Bestaande e-mail kiezen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) of [Een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-
 
 Als uw e-mailprogramma is gemaakt, het publiek is gedefinieerd en e-mail is geselecteerd, kunt u het programma op de hoogte stellen *wanneer* om de e-mail te verzenden. Zo gaat het.
 
@@ -48,4 +48,3 @@ Als uw e-mailprogramma is gemaakt, het publiek is gedefinieerd en e-mail is gese
 >
 >* [E-mailprogramma&#39;s met tijdzone voor ontvangers plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
 >* [Begin voor e-mailprogramma&#39;s](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
-

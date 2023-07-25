@@ -3,7 +3,8 @@ unique-page-id: 2359646
 description: Progressieve profilering van formulieren configureren - Marketo Docs - Productdocumentatie
 title: Progressieve profilering van formulieren configureren
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Forms
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -70,7 +71,6 @@ Korte formulieren zijn goed! Wanneer iemand terugkeert naar een formulier, kunt 
    >* Achternaam (leeg)
    >* E-mailadres (leeg)
    >* Telefoonnummer (leeg)
-
    >
    >Ervan uitgaande dat ze elk veld invullen, zien ze de tweede keer dat ze bezoeken:
    >
@@ -78,7 +78,6 @@ Korte formulieren zijn goed! Wanneer iemand terugkeert naar een formulier, kunt 
    >* Achternaam (vooraf ingevuld)
    >* E-mailadres (vooraf ingevuld)
    >* Mobiel telefoonnummer (leeg)
-
    >
    >Ervan uitgaande dat ze het nummer van de mobiele telefoon invullen, zien ze de derde keer dat ze de site bezoeken:
    >
@@ -86,7 +85,6 @@ Korte formulieren zijn goed! Wanneer iemand terugkeert naar een formulier, kunt 
    >* Achternaam (vooraf ingevuld)
    >* E-mailadres (vooraf ingevuld)
    >* Land (leeg)
-
 
 1. Klikken **Voltooien**.
 

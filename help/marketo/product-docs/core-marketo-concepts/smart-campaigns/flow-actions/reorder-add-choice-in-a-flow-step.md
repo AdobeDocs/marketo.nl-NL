@@ -3,7 +3,8 @@ unique-page-id: 557333
 description: Herordend Add Keuze in een Stroom Stap - de Documenten van Marketo - de Documentatie van het Product
 title: Opnieuw rangschikken Keuze toevoegen in een stroomstap
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%

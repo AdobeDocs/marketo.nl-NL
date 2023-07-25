@@ -3,7 +3,8 @@ unique-page-id: 2949281
 description: Een Marketo-licentie voor e-mailinvoegtoepassingen uitgeven - Marketo Docs - Productdocumentatie
 title: Een Marketo-licentie voor e-mailinvoegtoepassingen uitgeven
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
@@ -52,4 +53,3 @@ Iedereen die de invoegtoepassing Marketo Email Outlook wil gebruiken, moet eerst
 >* [De Marketo Add-in voor Outlook installeren met een Enterprise Key](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
 >* [De Marketo E-mailinvoegtoepassing voor Outlook installeren met een registratiecode](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
 >* [Upgrade uw Marketo-invoegtoepassing voor e-mail voor Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
-

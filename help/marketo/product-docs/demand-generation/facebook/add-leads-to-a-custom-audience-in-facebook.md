@@ -3,7 +3,8 @@ unique-page-id: 11376700
 description: Leads toevoegen aan een aangepast publiek in Facebook - Marketo Docs - Productdocumentatie
 title: Leads toevoegen aan een aangepast publiek in Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Integrations
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -19,7 +20,6 @@ Hebt u al een aangepast publiek in Facebook en wilt u er meer leads aan toevoege
 >* [Een aangepast publiek maken in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >* [Aangepaste voorwaarden voor Facebook-publiek accepteren](https://www.facebook.com/ads/manage/customaudiences/tos.php) in uw Facebook-account.
 >
-
 
 1. Zoek en selecteer de slimme of statische lijst met de leads die u wilt toevoegen.
 

@@ -2,7 +2,8 @@
 description: Routering - Marketo Docs - Productdocumentatie
 title: Routering
 exl-id: 9515c264-7d9b-4613-a245-15620c846a5c
-source-git-commit: d6d8674ef3357cef1b388a43baade1c57ed98e3e
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # Routering {#routing}
 
-Vergaderingen die in Dynamisch Praatje worden geboekt kunnen op twee manieren worden verpletterd. Afgeronde lijn of een aangepaste lijn.
+Vergaderingen die in Dynamic Chat worden geboekt, kunnen op twee manieren worden gerouteerd. Afgeronde lijn of een aangepaste lijn.
 
 Ronde lijn: Vergaderingen worden opeenvolgend toegewezen aan agenten. Dus als u vijf agenten hebt en agent drie nam de laatste vergadering, agent vier zal volgende krijgen, gevolgd door agent vijf, dan terug naar agent één.
 
@@ -21,7 +22,7 @@ Aangepaste regel: U kunt specifieke agenten kiezen om vergaderingen te ontvangen
 
 In dit voorbeeld sturen wij alle vergaderingen van de afgeleide staten van CA, OF, en WA naar agent John.
 
-1. Selecteer in Dynamische chat de optie **Routering**.
+1. Selecteer in Dynamic Chat de optie **Routering**.
 
    ![](assets/routing-1.png)
 

@@ -3,7 +3,8 @@ unique-page-id: 2949190
 description: SEO - Kies Regio/Land voor uw zoekmachine - Marketo Docs - Productdocumentatie
 title: SEO - Kies Regio/Land voor je zoekmachine
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
-source-git-commit: eb20d804a06bd02b61368e34ad1965a873d2fdf5
+feature: SEO
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -42,4 +43,3 @@ Uitstekend werk. U ziet nu trefwoordnummers voor het land of de stad van uw keuz
 >
 >* [Het dashboard begrijpen: SEO-opname](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
 >* [Het dashboard begrijpen: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}
-

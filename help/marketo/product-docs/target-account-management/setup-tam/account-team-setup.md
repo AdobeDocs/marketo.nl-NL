@@ -3,7 +3,8 @@ unique-page-id: 11384433
 description: Account Team Setup - Marketo Docs - Productdocumentatie
 title: Account Team Setup
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Target Account Management
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -51,4 +52,3 @@ Een accountteam is een groep belanghebbenden die samenwerken aan een benoemde ac
    >* Als Meerdere CRM-accounts met verschillende rekeningeigenaren worden samengevoegd tot een Benoemd account, kiest Marketo één &quot;Rekeningeigenaar&quot; en voegt andere rekeningeigenaren toe als &quot;Rekeningeigenaren&quot;
    >
    >* Als de naam van een CRM-veld &quot;Role&quot; later wordt gewijzigd of verwijderd, stopt Marketo TAM met het synchroniseren van de bijgewerkte waarden totdat de gebruiker de instellingen handmatig bijwerkt in TAM
-

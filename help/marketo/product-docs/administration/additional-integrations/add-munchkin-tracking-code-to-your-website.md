@@ -3,7 +3,8 @@ unique-page-id: 2360354
 description: "Toevoegen [!DNL Munchkin] Code bijhouden op uw website - Marketo Docs - Productdocumentatie"
 title: "Toevoegen [!DNL Munchkin] Code volgen op uw website"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Munchkin Tracking Code
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '625'
 ht-degree: 0%

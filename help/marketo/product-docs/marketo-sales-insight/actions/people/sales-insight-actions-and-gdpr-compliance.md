@@ -2,7 +2,8 @@
 description: Handelingen voor het toezicht op de verkoop en naleving van GDPR - Marketo-documenten - Productdocumentatie
 title: Handelingen voor het toezicht op de verkoop en naleving van GDPR
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '1396'
 ht-degree: 0%

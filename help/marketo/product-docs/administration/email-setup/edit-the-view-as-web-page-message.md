@@ -3,7 +3,8 @@ unique-page-id: 2360253
 description: Bewerk het bericht "Weergeven als webpagina" - Marketo Docs - Productdocumentatie
 title: Het bericht "Weergeven als webpagina" bewerken
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
-source-git-commit: 81ee349dbbe48c70b040751cae750c3684b71c78
+feature: Email Setup
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -46,7 +47,6 @@ Als u &quot;[Weergeven als webpagina](/help/marketo/product-docs/email-marketing
 >
 >* Extra URL&#39;s toevoegen aan een van de HTML-vakken
 >* HTML in de tekstversie plaatsen
-
 
 Daar heb je het. Test-e-mails verzenden om de opmaak te controleren.
 

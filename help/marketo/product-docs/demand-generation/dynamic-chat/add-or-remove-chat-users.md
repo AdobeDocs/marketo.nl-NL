@@ -2,7 +2,8 @@
 description: Chatgebruikers toevoegen of verwijderen - Marketo Docs - Productdocumentatie
 title: Chatgebruikers toevoegen of verwijderen
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
-source-git-commit: 8aaa6f5225f7965228c3472c0cf6beb2259f3642
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -47,9 +48,9 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
 
    ![](assets/add-or-remove-chat-users-7.png)
 
-## Dynamische chattoegang toevoegen aan Marketo-rol {#add-dynamic-chat-access-to-marketo-role}
+## Toegang tot Dynamic Chat toevoegen aan Marketo-rol {#add-dynamic-chat-access-to-marketo-role}
 
-Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje niet reeds Dynamische toestemming van het Praatje heeft, is hier hoe te om het toe te voegen.
+Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje nog geen toestemming van de Dynamic Chat heeft, is hier hoe te om het toe te voegen.
 
 1. Klik in Marketo op **Beheer** en selecteert u **Gebruikers en rollen**.
 
@@ -63,7 +64,7 @@ Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje niet 
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Selecteren **Dynamische chat openen** en klik op **Opslaan**.
+1. Selecteren **Access Dynamic Chat** en klik op **Opslaan**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 
@@ -101,4 +102,3 @@ Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje niet 
 >
 >* [Adobe Admin Console-gebruikers](https://helpx.adobe.com/enterprise/using/users.html)
 >* [Gebruikers afzonderlijk beheren](https://helpx.adobe.com/enterprise/using/manage-users-individually.html)
-

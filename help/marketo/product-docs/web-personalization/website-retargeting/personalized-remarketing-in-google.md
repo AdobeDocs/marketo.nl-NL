@@ -3,7 +3,8 @@ unique-page-id: 4720810
 description: Persoonlijke opmerkingen in Google - Marketo Docs - Productdocumentatie
 title: Persoonlijke opmerkingen in Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 0%
@@ -18,7 +19,6 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in werking ste
 >
 >* Voltooi de [Opnieuw toewijzen met webpersonalisatiegegevens](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) configuratie
 >* Controleren [Opmerking met Help voor Google Analytics](https://support.google.com/analytics/topic/2611283?hl=en&amp;ref_topic=3413645) documentatie.
-
 
 ## Een opmerkingspubliek maken in Google {#creating-a-remarketing-audience-in-google}
 
@@ -51,7 +51,6 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in werking ste
 >* Aangepaste Dimension: Organisatie, Industrie, Categorie (Fortune 500.1000, Globale 2000), Groep (Onderneming, SMB), Lijst ABM (Benoemde Lijst van de Rekening)
 >* Gebeurteniscategorie: RTP-Segment, RTP-Campagne RTP-Markketing
 >* Gebeurtenislabel: Segmentnaam, naam campagne, segmentnaam publiek
-
 
 **Voorbeeld van het opmerken Publiek van RTP Gesegmenteerde Gegevens van het Publiek**
 
@@ -97,4 +96,3 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in werking ste
 >
 >* [Opnieuw toewijzen met webpersonalisatiegegevens](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Persoonlijke opmerkingen in Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
-

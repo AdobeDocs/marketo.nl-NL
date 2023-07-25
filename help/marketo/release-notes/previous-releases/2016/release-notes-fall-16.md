@@ -3,7 +3,8 @@ unique-page-id: 11384018
 description: Opmerkingen bij de release - herfst '16 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - herfst '16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 88c4e844f7ce26b12bae8177dd5311813fb4adcb
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 0%
@@ -76,7 +77,6 @@ Maak uw iOS Push Notification nog rijker door geluid in te schakelen. Met deze n
 >
 >* Apparaateigenaars kunnen ervoor kiezen te voorkomen dat geluiden worden afgespeeld in de apparaatinstellingen en toepassingsontwikkelaars kunnen eigenaaropties voor apparaten in de app opgeven om te voorkomen dat geluiden worden afgespeeld.
 >* Geluiden worden automatisch afgespeeld wanneer een pushmelding wordt weergegeven op een Android-apparaat.
-
 
 ![](assets/sound-for-push-notifications.png)
 

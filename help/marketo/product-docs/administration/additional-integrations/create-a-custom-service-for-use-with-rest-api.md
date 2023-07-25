@@ -3,7 +3,8 @@ unique-page-id: 2360350
 description: Een aangepaste service maken voor gebruik met de ReST API - Marketo Docs - Productdocumentatie
 title: Een aangepaste service maken voor gebruik met de ReST-API
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
-source-git-commit: 1f10e1fcdbd5cf91481f749236fd37050ade29f8
+feature: Administration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 1%
@@ -19,7 +20,6 @@ Als u met Marketo wilt integreren via de ReST API, zult u een douanedienst wille
 >* [Een gebruikersrol maken die alleen een API is](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
 >* [Alleen een API-gebruiker maken](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
-
 
 >[!NOTE]
 >

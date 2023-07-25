@@ -3,7 +3,8 @@ unique-page-id: 4719287
 description: Aanvankelijke veldtoewijzingen bewerken - Marketo Docs - Productdocumentatie
 title: Aanvankelijke veldtoewijzingen bewerken
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Salesforce Integration
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -66,4 +67,5 @@ Als u velden met dezelfde naam op de lead en het contactobject hebt, wijst Marke
 
    * Alle toewijzingswijzigingen worden opnieuw ingesteld.
    * Als u het schema opnieuw instelt, worden alleen velden toegevoegd en niet verwijderd (zelfs als u deze verbergt voor de synchronisatiegebruiker).
+
    ![](assets/image2014-12-9-13-3a32-3a8.png)

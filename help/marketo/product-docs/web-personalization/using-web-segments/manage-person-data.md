@@ -3,7 +3,8 @@ unique-page-id: 7504051
 description: Persoonlijke gegevens beheren - Marketo-documenten - Productdocumentatie
 title: Persoonlijke gegevens beheren
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 4%
@@ -47,7 +48,6 @@ De Gegevens van de Persoon van de hefboomwerking voor de Personalisatie van het 
    >* Het toevoegen van nieuwe velden kan tot 24 uur duren om te activeren
    >* Maximale lengte van tekenreekstypen is 255 tekens
    >* Verborgen velden worden automatisch verwijderd
-
 
 <table> 
  <tbody> 

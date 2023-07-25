@@ -3,7 +3,8 @@ unique-page-id: 2953417
 description: Dynamische inhoud begrijpen - Marketo Docs - Productdocumentatie
 title: Dynamische inhoud
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Dynamic Content
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -47,11 +48,9 @@ Nadat u verschillende segmenten hebt gemaakt, kunt u dynamische inhoudsblokken t
 >* U kunt een fragment als handtekening in een e-mail gebruiken. Tekst dynamisch wijzigen afhankelijk van de locatie van de ontvanger.
 >* Bij het landen van pagina&#39;s, heb een standaardvraag-aan-actie gebied met verschillende verbindingen voor klanten versus vooruitzichten. Honderden LP&#39;s centraal bijwerken.
 
-
 Probeer het uit en vertel ons je succesverhaal!
 
 >[!MORELIKETHIS]
 >
 >* [Een segmentatie maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >* [Een fragment maken](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
-

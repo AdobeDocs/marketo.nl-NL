@@ -3,7 +3,8 @@ unique-page-id: 10098134
 description: Een programma toevoegen aan een betrokkenheidsprogramma-stream - Marketo Docs - Productdocumentatie
 title: Een programma toevoegen aan een betrokkenheidsprogramma
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Engagement Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 0%
@@ -58,4 +59,3 @@ Wijzigingen melden met de e-maillocatie. Zo, bijvoorbeeld, als e-mail in de Stud
 >
 >* [Inhoud toevoegen aan een stream](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
 >* [Programma&#39;s begrijpen](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
-

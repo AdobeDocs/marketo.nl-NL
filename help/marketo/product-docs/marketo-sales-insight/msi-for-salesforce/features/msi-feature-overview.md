@@ -3,7 +3,8 @@ unique-page-id: 37356893
 description: Overzicht MSI-functies - Marketo Docs - Productdocumentatie
 title: Overzicht van MSI-functies
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
-source-git-commit: 5f2967fb56daa8c3f86f6d9577626928f1e5bbd6
+feature: Marketo Sales Insights
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '937'
 ht-degree: 0%
@@ -198,4 +199,3 @@ Marketo Sales Insight wordt opgeslagen per taal. Dus als u wilt dat het voor mee
 >* Een contact/lood moet in de Standaardverdeling zijn om aan de Controlelijst te worden toegevoegd.
 >
 >* Het pakket MSI Salesforce ondersteunt geen aangepaste weergave met afhankelijke velden.
-

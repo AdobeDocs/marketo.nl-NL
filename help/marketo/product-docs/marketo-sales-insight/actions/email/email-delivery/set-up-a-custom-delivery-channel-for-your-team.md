@@ -2,7 +2,8 @@
 description: Stel een aangepast leveringskanaal in voor uw team - Marketo Docs - Productdocumentatie
 title: Stel een aangepast leveringskanaal in voor uw team
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -20,7 +21,6 @@ ht-degree: 0%
 >* Naast het opzetten van uw server SMTP, uw [e-mailidentiteit moet worden geverifieerd](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) voordat je e-mails kunt verzenden.
 >* Wij adviseren werkend met uw team van IT of SMTP serververkoper om de juiste servergeloofsbrieven voor uw server te krijgen SMTP.
 >* U kunt niet uw server van Gmail en van de Uitwisseling verbinden gebruikend de SMTP servergeloofsbrieven. Gebruik onze E-mailverbindingsservice om deze providers te integreren.
-
 
 1. Klik op het tandwielpictogram en kies **Instellingen**.
 
@@ -46,4 +46,3 @@ ht-degree: 0%
    >
    >* [E-mailverbinding voor Gmail-gebruikers](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
    >* [E-mailverbinding voor Outlook-gebruikers](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-

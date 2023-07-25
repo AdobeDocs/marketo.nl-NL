@@ -2,7 +2,8 @@
 description: Activiteitenlijst van de Acties van het Inzicht van de Verkoop - de Documenten van Marketo - de Documentatie van het Product
 title: Overzicht van de activiteiten van Handelingen van het Inzicht van de verkoop
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
-source-git-commit: 3e0836fd9f40436564c7b2d8bb58a7f771e49c33
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 1%

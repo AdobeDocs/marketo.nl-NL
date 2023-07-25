@@ -3,7 +3,8 @@ unique-page-id: 1147112
 description: Tags begrijpen - Marketo Docs - Productdocumentatie
 title: Tags begrijpen
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -30,7 +31,6 @@ Tagtypen geven het soort informatie aan waarop u wilt sorteren.
 >
 >* Tagtype = programmaeigenaar
 
-
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 
 ## Tagwaarde {#tag-value}
@@ -42,7 +42,6 @@ Elk labeltype heeft waarden waaruit u kunt kiezen.
 >**Voorbeeld**
 >
 >* Tagwaarden = Anna, Arun, Reza
-
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
@@ -58,11 +57,9 @@ Kanalen worden gebruikt om te rapporteren over hoe uw [leden](/help/marketo/prod
 >* Progressiestatus = Uitgenodigd, Geregistreerd, Bijgewoond, Geen Show
 >* Succes = bijgewoond
 
-
 ![](assets/image2015-2-5-16-3a57-3a59.png)
 
 >[!MORELIKETHIS]
 >
 >* [Aangepaste tags maken](/help/marketo/product-docs/administration/tags/create-custom-tags.md)
 >* [Een programmakanaal maken](/help/marketo/product-docs/administration/tags/create-a-program-channel.md)
-

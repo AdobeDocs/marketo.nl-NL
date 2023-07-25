@@ -2,7 +2,8 @@
 description: Prioriteit overschrijven voor triggercampagnes - Marketo Docs - Productdocumentatie
 title: Prioriteit overschrijven voor triggercampagnes
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
-source-git-commit: 48a49faa6a1fde1e9ac391c2bf0800123f6a5bac
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 1%
@@ -58,4 +59,3 @@ Beheerders kunnen de door Marketo bepaalde prioriteit voor triggercampagnes over
 >* U kunt de standaardprioriteit van uw campagne weergeven in het dialoogvenster [!UICONTROL Campaign Queue] krachtens [!UICONTROL Marketing Activities]. Om het uitvoeringspercentage te verhogen, raden we u aan uw campagneprioriteit op één niveau hoger in te stellen dan het standaardniveau.
 >* De door de gebruiker ingestelde prioriteit geldt alleen voor nieuwe personen die in aanmerking komen voor de campagne. Dit heeft geen invloed op personen die al in de wachtrij staan.
 >* Prioritaire overschrijvingen worden vastgelegd in [Audittrail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md).
-

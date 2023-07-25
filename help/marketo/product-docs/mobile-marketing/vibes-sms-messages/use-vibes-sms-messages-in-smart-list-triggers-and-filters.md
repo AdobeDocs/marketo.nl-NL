@@ -3,7 +3,8 @@ unique-page-id: 11378871
 description: SMS-berichten gebruiken in Smart List Triggers and Filters - Marketo Docs - Productdocumentatie
 title: SMS-berichten over Vibes gebruiken in Smart List-triggers en -filters
 exl-id: 9a629a39-fddc-4ec5-b1c5-d5053d676594
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -62,4 +63,3 @@ Nadat u Vibes-triggers en -filters hebt ingesteld in uw slimme lijst, kunt u [de
 >
 >* [Slimme lijst definiëren voor slimme campagne | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
 >* [Filters zoeken en toevoegen aan een slimme lijst](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
-

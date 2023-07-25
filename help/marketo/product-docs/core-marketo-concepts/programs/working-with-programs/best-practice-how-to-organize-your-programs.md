@@ -3,7 +3,8 @@ unique-page-id: 6848705
 description: Best Practice - Hoe kan ik uw programma's organiseren - Marketo Docs - Productdocumentatie
 title: Beste praktijken - hoe te om uw Programma's te organiseren
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 0%
@@ -27,29 +28,28 @@ Bij marketingactiviteiten moet u mappen gebruiken om uw programma&#39;s te organ
 >**Voorbeeld**
 >
 >* Actieve marketingprogramma&#39;s
-   >   * E-mails
-   >   * Gebeurtenissen
-      >      * Live gebeurtenissen/presentaties
-      >      * Tradeshows
-      >      * Webinars
-   >   * Nieuwsbrieven
-   >   * Verloop
-   >   * Webinhoud
-   >   * Webformulieren
+>   * E-mails
+>   * Gebeurtenissen
+>      * Live gebeurtenissen/presentaties
+>      * Tradeshows
+>      * Webinars
+>   * Nieuwsbrieven
+>   * Verloop
+>   * Webinhoud
+>   * Webformulieren
 >* Leren
 >* Operationeel
-   >   * Levenscyclus
-   >   * Scores
-   >   * Gegevensbeheer
+>   * Levenscyclus
+>   * Scores
+>   * Gegevensbeheer
 >* Verkoopoverzicht
-   >   * Interesserende momenten
-   >   * Verkoop-e-mails
-   >   * Verkoop aangevraagde campagnes
+>   * Interesserende momenten
+>   * Verkoop-e-mails
+>   * Verkoop aangevraagde campagnes
 >* **Archief**
-   >   * Gebeurtenissen archiveren
-      >      * Archief 2012
-      >      * Archief 2013
-
+>   * Gebeurtenissen archiveren
+>      * Archief 2012
+>      * Archief 2013
 
 Elk van deze die in het voorbeeld worden vermeld is een omslag. U ziet hoe ze allemaal een unieke naam hebben. U kunt dubbele (eenvoudigere) namen van omslagen hebben INSIDE programma&#39;s, maar niet bij de wortel van de boom.
 
@@ -74,7 +74,6 @@ Naamgeving is essentieel, omdat Marketo-functies allemaal een gemeenschappelijke
 >1. ES 2015-09-21 Widget Intro
 >1. NL 2015-06 Nieuwsbrief
 >1. WBN 2015-12-01 Webinar-onderwerp hier
-
 
 Programmanamen moeten uniek zijn in uw abonnement, zelfs in verschillende [werkruimten](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).  Voor de lokale middelen binnen programma&#39;s is de regel: **de naam eenvoudig houden**. Noem enkel een uitnodiging &quot;Uitnodiging,&quot;in tegenstelling tot &quot;Uitnodiging van de Webinar van 2015 Juni.&quot; Omdat deze zich in een programma bevinden, maakt het bovenliggende programma automatisch deel uit van de naam wanneer u deze elders kiest. Met andere woorden, lokale middelen hoeven alleen binnen het programma uniek te zijn. U kunt honderden elementen met de naam &quot;Uitnodigen&quot; hebben in een ander programma en het zal u niet in de war brengen.
 

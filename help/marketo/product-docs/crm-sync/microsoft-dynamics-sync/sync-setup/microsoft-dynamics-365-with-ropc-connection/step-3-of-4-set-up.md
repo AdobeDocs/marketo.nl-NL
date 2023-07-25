@@ -2,7 +2,8 @@
 description: Stap 3 van 4 - Opstelling Clienttoepassing op de Dynamica van MS - de Documentatie van Marketo - de Documentatie van het Product
 title: Stap 3 van 4 - Opstelling Clienttoepassing op de Dynamica van MS
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
-source-git-commit: 0b9a1f50d8828acf019c5c4f82021d327f396fca
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 0%
@@ -15,7 +16,6 @@ ht-degree: 0%
 >
 >* [Stap 1 van 4: De Marketo-oplossing installeren met de wachtwoordcontroleverbinding van de eigenaar van het resource](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
 >* [Stap 2 van 4: Stel de Marketo-oplossing in met de Wachtwoordbeheerverbinding van de Eigenaar van het Middel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
-
 
 1. Ga naar https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/walkthrough-register-app-azure-active-directory#create-an-application-registration.
 
@@ -58,4 +58,3 @@ Aanvullende verwijzingen [hier te vinden](https://docs.microsoft.com/en-us/azure
 >[!MORELIKETHIS]
 >
 >* [Stap 4 van 4: Verbind de Oplossing van Marketo met de Verbinding van het Wachtwoord van de Eigenaar van het Middel](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
-

@@ -3,9 +3,10 @@ unique-page-id: 17728401
 description: E-mailverbinding voor Gmail-gebruikers - Marketo-documenten - Productdocumentatie
 title: E-mailverbinding voor Gmail-gebruikers
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
-source-git-commit: 84da081b1484daf0c6c7e5ae4799c4c0b549d0e3
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -16,7 +17,7 @@ Als u verbinding maakt met Gmail, ontvangt u het bijhouden van antwoorden, toega
 
 >[!CAUTION]
 >
->Als je [gebruiken, filters](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target=&quot;_blank&quot;} of regels in uw Gmail-account om e-mails automatisch te markeren als gelezen, kunnen problemen veroorzaken met het bijhouden van antwoorden. We raden u aan om regels uit te schakelen die e-mails automatisch markeren als gelezen bij het volgen van antwoorden met Gmail.
+>Als je [gebruiken, filters](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} of regels in uw Gmail-account om e-mails automatisch te markeren als gelezen, kan dit problemen veroorzaken met het bijhouden van antwoorden. We raden u aan om regels uit te schakelen die e-mails automatisch markeren als gelezen bij het volgen van antwoorden met Gmail.
 
 1. Klik in Sales Connect op het tandwielpictogram en selecteer **Instellingen**.
 

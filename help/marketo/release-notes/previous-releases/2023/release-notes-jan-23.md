@@ -1,7 +1,9 @@
 ---
 description: Opmerkingen bij de release - januari 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - januari 2023
-source-git-commit: 16fe0682f1b7d70531101e5857f57d1d405f2f4f
+exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
+feature: Release Information
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '637'
 ht-degree: 1%
@@ -29,7 +31,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
    * Fragmentlijstweergave
    * Sjabloonlijst bestemmingspagina
 
-   <table> 
+  <table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -117,7 +119,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 </br>
 
-* **Picklist definiëren in Info Capture Card voor dynamische chat**: Om ervoor te zorgen dat de gegevens schoon zijn, kunt u picklists definiëren voor kaarten voor het vastleggen van informatie, zodat bezoekers alleen uit een vooraf gedefinieerde lijst met opties kunnen kiezen.
+* **Picklist definiëren in Info Capture Card voor Dynamic Chat**: Om ervoor te zorgen dat de gegevens schoon zijn, kunt u picklists definiëren voor kaarten voor het vastleggen van informatie, zodat bezoekers alleen uit een vooraf gedefinieerde lijst met opties kunnen kiezen.
 
 <table> 
   <tr> 
@@ -131,7 +133,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Persoonlijke gegevens in vergaderbevestiging voor dynamische chat**: De agenten kunnen vergadering personaliseren die e-mailbevestigingen boeken gebruikend Marketo Engage persoon en bedrijfgebieden om met bezoekers (bijvoorbeeld: begroet bezoekers op hun voornaam in het e-mailbericht voor automatische reservering van vergaderingen).
+* **Persoonlijke gegevens in vergaderbevestiging voor Dynamic Chat**: De agenten kunnen vergadering personaliseren die e-mailbevestigingen boeken gebruikend Marketo Engage persoon en bedrijfgebieden om met bezoekers (bijvoorbeeld: begroet bezoekers op hun voornaam in het e-mailbericht voor automatische reservering van vergaderingen).
 
 <table> 
   <tr> 
@@ -159,7 +161,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Datum-/tijdkiezer voor Chatbot voor dynamische chat**: Webbezoekers kunnen de kalenderkiezer gebruiken om een datum en tijd te kiezen in plaats van de datum handmatig in te voeren.
+* **Chatbot Date/Time Picker voor Dynamic Chat**: Webbezoekers kunnen de kalenderkiezer gebruiken om een datum en tijd te kiezen in plaats van de datum handmatig in te voeren.
 
 <table> 
   <tr> 
@@ -173,7 +175,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Geplande e-mailberichten voor vergaderingen voor dynamische chat**: Wanneer een vergadering op de kalender van een agent wordt geboekt, zal de agent een e-mailbericht over het boeken, met inbegrip van gedetailleerde informatie over de Dynamische Overeenkomst van het Praatje van de bezoeker ontvangen.
+* **Geplande e-mailmeldingen voor vergaderingen voor Dynamic Chat**: Wanneer een vergadering op de kalender van een agent wordt geboekt, zal de agent een e-mailbericht over het boeken, met inbegrip van gedetailleerde informatie over de betrokkenheid van de Dynamic Chat van de bezoeker ontvangen.
 
 <table> 
   <tr> 

@@ -2,7 +2,8 @@
 description: Campagne uitvoeren - Marketo Docs - Productdocumentatie
 title: Campagne uitvoeren
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
-source-git-commit: ad7054fe697e528fb82dcf186cfc06618352f8dc
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%

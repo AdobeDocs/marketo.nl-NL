@@ -3,7 +3,8 @@ unique-page-id: 10096583
 description: "Volgende generatie [!DNL Munchkin] Veelgestelde vragen over bijhouden - Marketo-documenten - productdocumentatie"
 title: "Volgende generatie [!DNL Munchkin] Veelgestelde vragen over bijhouden"
 exl-id: 283189ac-c817-479a-b896-91233980608c
-source-git-commit: 1a6f029b8c9665ecd7fcc066004d88ee6c915505
+feature: Administration, Munchkin Tracking Code
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '716'
 ht-degree: 0%
@@ -55,7 +56,6 @@ Als u dit filter al in een Slimme Lijst (bijvoorbeeld, in een Slimme Campagne of
 >* Heb een Interessant Moment voor haar het programma wordt geopend (met de datum zij daadwerkelijk de pagina bezocht, niet toen zij gekend werd)
 >
 >* Heb een &quot;Nieuwe Persoon&quot;activiteit het programma wordt geopend aangezien het vandaag is
-
 
 ## Wat gebeurt er met mijn slimme lijsten die al het filter &quot;Is Anoniem&quot; hebben? {#what-happens-to-my-smart-lists-that-already-have-the-is-anonymous-filter}
 

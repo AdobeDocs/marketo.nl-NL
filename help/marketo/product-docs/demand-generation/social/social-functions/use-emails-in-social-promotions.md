@@ -3,7 +3,8 @@ unique-page-id: 2359793
 description: E-mails gebruiken in sociale aanbiedingen - Marketo Docs - Productdocumentatie
 title: E-mails gebruiken in sociale aanbiedingen
 exl-id: 633ad86e-d085-420f-8e28-9b722e345852
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -67,7 +68,6 @@ Gebruik in de e-mails de volgende tokens:
 >* **auto-on-doel**: Het e-mailbericht voor afhandeling wordt automatisch verzonden wanneer elke deelnemer het doel bereikt.
 >* **handmatig verzenden**: Zodra de mensen beginnen het doel te ontmoeten, terugkeer naar uw verwijzingsaanbod aan manueel [verzend het afhandelingsbericht](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 >
-
 
 >[!MORELIKETHIS]
 >

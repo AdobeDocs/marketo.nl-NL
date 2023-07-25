@@ -3,7 +3,8 @@ unique-page-id: 4720917
 description: Persoonlijke opmerkingen in Facebook - Marketo Docs - Productdocumentatie
 title: Persoonlijke opmerkingen in Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Web Personalization
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -18,7 +19,6 @@ De gepersonaliseerde Markeringen laat u met uw gebruikers opnieuw in dienst neme
 >
 >* Voltooi de [Opnieuw toewijzen met webpersonalisatiegegevens](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) instellen
 >* Controleer de [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [Facebook-documentatie over aangepast publiek](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) en Opmerking.
-
 
 ## Een publiek maken in Facebook {#creating-an-audience-in-facebook}
 
@@ -131,4 +131,3 @@ Zie voor meer informatie [Facebook-documentatie](https://developers.facebook.com
 >
 >* [Opnieuw toewijzen met webpersonalisatiegegevens](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Persoonlijke opmerkingen in Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-

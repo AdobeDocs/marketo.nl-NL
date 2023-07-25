@@ -2,7 +2,8 @@
 description: Een veld markeren als gevoelig - Marketo Docs - Productdocumentatie
 title: Een veld markeren als gevoelig
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
-source-git-commit: 20c41143d1e7839352dddbfea0951c2633987692
+feature: Field Management
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 2%

@@ -2,9 +2,10 @@
 description: Documentkaart gebruiken - Marketo Docs - Productdocumentatie
 title: De documentkaart gebruiken
 exl-id: 7fd1bfd0-95a9-4878-90a1-5bdfe8014919
-source-git-commit: a70ce09e446769b3b3177e8d5cf902d1ab8cbb05
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 Met de documentkaart kunt u PDF-documenten insluiten in dialoogvensters en de activiteit van bezoekers in de documentbetrokkenheid bijhouden. Hier is hoe je het instelt.
 
-1. Navigeren naar [Adobe PDF Embed-API](https://udp.adobe.io/document-services/apis/pdf-embed/){target=&quot;_blank&quot;}.
+1. Navigeren naar [Adobe PDF Embed-API](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
 1. Klikken **Credentials ophalen**.
 
@@ -35,7 +36,7 @@ Met de documentkaart kunt u PDF-documenten insluiten in dialoogvensters en de ac
 
    ![](assets/using-the-document-card-4.png)
 
-1. Terug in dynamische chat, klik **Integraties**. Klik op de Adobe PDF Embed API-kaart op **Activeren**.
+1. Terug in Dynamic Chat, klik **Integraties**. Klik op de Adobe PDF Embed API-kaart op **Activeren**.
 
    ![](assets/using-the-document-card-5.png)
 

@@ -2,9 +2,10 @@
 description: Begrijpen van Goal Tracking en Geprojecteerde Registraties - Marketo Docs - Productdocumentatie
 title: Begrijpen van Goal Tracking en Geprojecteerde Registraties
 exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
-source-git-commit: 85e04fb8a52a417982014bc4bb101b6044e53f84
+feature: Predictive Audiences
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '978'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,7 @@ Hieronder wordt beschreven hoe u de voortgang van uw doel kunt bijhouden en hoe 
 
 >[!PREREQUISITES]
 >
->Om tot de meerderheid van deze eigenschappen toegang te hebben, ben zeker om toe te laten [volgende-gen-schakeloptie](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target=&quot;_blank&quot;} voor gebeurtenisprogramma&#39;s.
+>Om tot de meerderheid van deze eigenschappen toegang te hebben, ben zeker om toe te laten [volgende-gen-schakeloptie](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} voor gebeurtenisprogramma&#39;s.
 
 >[!NOTE]
 >
@@ -64,7 +65,7 @@ Bij de berekening van vergelijkbare programma&#39;s nemen we onder andere de vol
 * Tijdsduur vanaf het maken van gebeurtenissen tot het starten van de gebeurtenis
 * Gebeurtenisduur
 
-   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
+  ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
 ## Recommendations
 

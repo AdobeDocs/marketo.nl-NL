@@ -3,7 +3,8 @@ unique-page-id: 1146966
 description: Gekwalificeerde personen weergeven in een slimme campagne - Marketo Docs - Productdocumentatie
 title: Gekwalificeerde personen weergeven in een slimme campagne
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -41,4 +42,3 @@ Zoet! U kunt deze lijst gebruiken om te controleren welke mensen door de stroom 
 >* [Leden van slimme campagnes weergeven](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
 >* [Geblokkeerde personen weergeven in een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-blocked-people-in-a-smart-campaign.md)
 >* [Een stroomstap toevoegen aan een slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-

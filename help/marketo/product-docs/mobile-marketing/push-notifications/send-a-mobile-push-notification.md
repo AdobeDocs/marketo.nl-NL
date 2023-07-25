@@ -3,7 +3,8 @@ unique-page-id: 7512457
 description: Een pushmelding voor mobiele apparaten verzenden - Marketo Docs - Productdocumentatie
 title: Een mobiel pushbericht verzenden
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
@@ -18,7 +19,6 @@ Stuur een pushmelding naar mensen die uw mobiele app gebruiken.
 >
 >* [Nieuwe slimme campagne maken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Een pushmelding maken](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
-
 
 1. Ga naar de **Marketingactiviteiten** gebied.
 

@@ -3,7 +3,8 @@ unique-page-id: 1146995
 description: Tokens gebruiken in stroomstappen - Marketo Docs - Productdocumentatie
 title: Tokens gebruiken in stappen
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
-source-git-commit: 46812deb41ed56328a4a64fbd36340d13c50dde4
+feature: Smart Campaigns
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -51,4 +52,3 @@ Een token is een variabele. Je gebruikt het in e-mails, landingspagina&#39;s en 
    >
    >* [Mijn tokens beheren](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md)
    >* [Mijn tokens in een programma begrijpen](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)
-

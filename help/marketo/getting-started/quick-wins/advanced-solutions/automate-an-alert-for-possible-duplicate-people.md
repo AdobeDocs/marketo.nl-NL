@@ -3,7 +3,8 @@ unique-page-id: 7513680
 description: Automatiseer een waarschuwing voor mogelijke dubbele personen - Marketo Docs - Productdocumentatie
 title: Een waarschuwing automatiseren voor mogelijke dubbele personen
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
-source-git-commit: 615107dc9da9fec4b6d06c5ca6bc0a2c03e84fdc
+feature: Getting Started
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
@@ -19,11 +20,11 @@ Wilt u een waarschuwing telkens wanneer een mogelijk dubbele persoon wordt gemaa
 * Trigger: **[!UICONTROL Person is Created]**
 * Filter: **[!UICONTROL Duplicate Fields]**. Veldnaam **[!UICONTROL is][!UICONTROL Full Name]**
 
-   ![](assets/automate-an-alert-1.png)
+  ![](assets/automate-an-alert-1.png)
 
-   >[!TIP]
-   >
-   >Wees creatief. Experimenteer met verschillende velden voor betere filterresultaten.
+  >[!TIP]
+  >
+  >Wees creatief. Experimenteer met verschillende velden voor betere filterresultaten.
 
 1. Kies in de stap Stroom de optie [[!UICONTROL Send Alert]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} Handeling flow.
 

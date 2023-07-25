@@ -3,7 +3,8 @@ unique-page-id: 2359876
 description: Een geüploade afbeelding of bestand vervangen - Marketo Docs - Productdocumentatie
 title: Een geüploade afbeelding of bestand vervangen
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Image Editor
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -50,4 +51,3 @@ Je hebt het gedaan!
 >
 >* [Geüploade afbeeldingen en bestanden zoeken](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md)
 >* [De URL van een geüploade afbeelding of bestand zoeken](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
-

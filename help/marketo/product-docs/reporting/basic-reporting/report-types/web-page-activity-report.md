@@ -3,7 +3,8 @@ unique-page-id: 2359971
 description: Rapport over activiteiten op webpagina - Marketo Docs - Productdocumentatie
 title: Rapport over activiteiten op webpagina
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 0%
@@ -19,7 +20,6 @@ U kunt ervoor kiezen om bekende personen of anonieme personen weer te geven, maa
 >[!PREREQUISITES]
 >
 >* [Munchkin-trackingcode toevoegen aan uw website](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
-
 
 1. [Een rapport maken](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)en selecteert u de **Rapport over activiteiten op webpagina** [rapporttype](report-type-overview.md).
 
@@ -89,4 +89,3 @@ U kunt ervoor kiezen om bekende personen of anonieme personen weer te geven, maa
 >
 >* [Bekeken de Pagina&#39;s van het Web, het Rapport van de Activiteit van de Web-pagina](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
 >* [Personen of anonieme bezoekers weergeven in webrapporten](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
-

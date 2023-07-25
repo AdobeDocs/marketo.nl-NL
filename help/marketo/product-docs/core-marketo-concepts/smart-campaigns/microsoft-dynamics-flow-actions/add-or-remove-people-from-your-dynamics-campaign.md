@@ -2,7 +2,8 @@
 description: Personen toevoegen aan of verwijderen uit uw campagne voor dynamiek - Marketo Docs - Productdocumentatie
 title: Voeg of verwijder Mensen van uw Campagne van de Dynamiek toe
 exl-id: 4fea2f7c-0655-4816-8640-76878f760b6e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Smart Campaigns, Microsoft Dynamics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -30,7 +31,6 @@ Zoek en selecteer in uw slimme campagne de campagne Dynamics waaraan u uw mensen
 >* Zorg ervoor dat de campagnecSync functioneel is
 >* De campagne is niet actief in Microsoft Dynamics
 
-
 Het systeem leidt automatisch tot een campagne-specifieke statische marketing Lijst, elk voor lood en contacten, om de persoon aan toe te voegen. Het is een eenmalige actie en eens voor verdere syncs aan de campagne, wordt de zelfde Lijst van de Marketing gebruikt. De naamgevingsstandaard die wordt gebruikt voor de naam van de statische marketinglijst is `Mkto-leads-<uniqueID>` voor leads en `Mkto-contacts-<uniqueID>` voor contacten.
 
 Het koppelen van deze door Marketo gegenereerde marketinglijsten aan andere campagnes kan leiden tot verwarrend gedrag. Bijvoorbeeld: het toevoegen aan één campagne zou ook leiden tot een uitbreiding van de tweede campagne . Ook het loskoppelen van de door Marketo gegenereerde Marketing List van de Campagne in Dynamics wordt niet aanbevolen.
@@ -53,4 +53,3 @@ Zoek en selecteer in uw slimme campagne de campagne Dynamica waaruit u uw mensen
 >
 >* Zorg ervoor dat de campagnecSync functioneel is
 >* De campagne is niet actief in Microsoft Dynamics
-

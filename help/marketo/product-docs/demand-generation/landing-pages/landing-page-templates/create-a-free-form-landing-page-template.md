@@ -3,7 +3,8 @@ unique-page-id: 10097969
 description: Een landingspaginasjabloon in vrije vorm maken - Marketo Docs - Productdocumentatie
 title: Een sjabloon voor vrije bestemmingspagina maken
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
@@ -50,4 +51,3 @@ Voor vrije-vormbestemmingspagina&#39;s is minder technische kennis nodig dan voo
    >* [Een vrije bestemmingspagina maken](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
    >* [Een sjabloon voor een bestemmingspagina met instructies maken](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
    >* [Werken met vrije vorm en portaalpagina&#39;s met instructies](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-

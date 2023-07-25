@@ -3,7 +3,8 @@ unique-page-id: 2950530
 description: Sociale aanmelding/Share Flow configureren - Marketo Docs - Productdocumentatie
 title: Maatschappelijke aanmelding/workflow delen configureren
 exl-id: 521187d1-2228-42e7-a87b-3b20a45adb03
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Social
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
@@ -84,7 +85,7 @@ Als u de waarden van de paginatags (og:title, og:caption en og:description) kies
 
    >[!TIP]
    >
-   >Gebruik {html_title} in de tweetekst om de titel van de pagina automatisch weer te geven.
+   >Gebruiken {html_title} in uw tweetekst om automatisch de titel van de pagina weer te geven.
 
 1. Klikken **Volgende**.
 
@@ -104,7 +105,7 @@ Als u de waarden van de paginatags (og:title, og:caption en og:description) kies
 
    >[!TIP]
    >
-   >Gebruik {html_title} in de berichttekst om de titel van de pagina automatisch weer te geven.
+   >Gebruiken {html_title} in je berichttekst om automatisch de titel van de pagina weer te geven.
 
 1. Als u **Statische inhoud toevoegen** hierboven, bewerk de titel en beschrijving en upload een aangepaste afbeelding (vanuit uw [**Marketo-afbeeldingen en -bestanden**](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)).
 

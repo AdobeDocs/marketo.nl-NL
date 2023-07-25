@@ -3,7 +3,8 @@ unique-page-id: 8783141
 description: Een voorbeeld voor pushmeldingen verzenden - Marketo Docs - Productdocumentatie
 title: Een voorbeeld voor pushberichten verzenden
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -57,6 +58,5 @@ U kunt een voorbeeld verzenden om te controleren of uw pushmelding correct werkt
    >* Pushmeldingen worden ingeschakeld voor de toepassing die aan de pushmelding is gekoppeld.
    >
    >* Het pushbericht is geconfigureerd voor het platform van uw testapparaat. Als u bijvoorbeeld net een iPhone hebt toegevoegd als testapparaat, controleert u of de pushmelding is ingeschakeld voor iOS.
-
 
 Eenvoudig!

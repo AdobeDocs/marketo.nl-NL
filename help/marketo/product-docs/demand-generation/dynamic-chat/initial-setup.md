@@ -2,7 +2,8 @@
 description: Eerste installatie - Marketo-documenten - productdocumentatie
 title: Eerste instelling
 exl-id: 72c20e8f-879d-4490-a87f-3d8e2ba1f263
-source-git-commit: eb23d3b6538fd660a95bfb3fdcfc21ccc29c9944
+feature: Dynamic Chat
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%
@@ -19,7 +20,7 @@ Voer de onderstaande stappen uit om Dynamic Chat in te stellen.
 >
 >**Beheerdersmachtigingen vereist.**
 
-1. Nadat Dynamic Chat is ingeschakeld voor uw Marketo-instantie, ontvangt de toegewezen systeembeheerder een welkomstbericht. Klik in die e-mail op **Aan de slag**.
+1. Nadat de Dynamic Chat voor uw Instantie van Marketo wordt toegelaten, zal aangewezen Admin van het Systeem een welkome e-mail ontvangen. Klik in die e-mail op **Aan de slag**.
 
    ![](assets/initial-setup-1.png)
 

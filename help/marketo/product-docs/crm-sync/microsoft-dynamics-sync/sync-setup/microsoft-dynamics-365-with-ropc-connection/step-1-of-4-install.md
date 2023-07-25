@@ -2,7 +2,8 @@
 description: Stap 1 van 4 - Installeer de Marketo-oplossing met de Wachtwoordcontrole van de Eigenaar van het Middel - Marketo Docs - Productdocumentatie
 title: Stap 1 van 4 - Installeer de Marketo-oplossing met de Wachtwoordbeheerverbinding van de Eigenaar van het Middel
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
-source-git-commit: 7e6fab646ec03394cb406fc41442d585c162bb25
+feature: Microsoft Dynamics
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '308'
 ht-degree: 0%
@@ -17,7 +18,6 @@ Voordat u Microsoft Dynamics 365 en Marketo kunt synchroniseren, moet u eerst de
 >
 >* Schakel aangepaste entiteitssynchronisatie niet in voordat de eerste synchronisatie is voltooid. U wordt via e-mail op de hoogte gesteld zodra de eerste synchronisatie is voltooid.
 >* Als u Multi-Factor Authentication (MFA) hebt ingeschakeld voor uw Dynamics Sync, moet u deze uitschakelen om Dynamics correct te synchroniseren met Marketo. Neem voor meer informatie contact op met [Marketo-ondersteuning](https://nation.marketo.com/t5/Support/ct-p/Support).
-
 
 >[!NOTE]
 >

@@ -2,7 +2,8 @@
 description: Overzicht van Sales Insight Actions - Marketo Docs - Productdocumentatie
 title: Overzicht van de functie Handelingen Handelingen in het verkoopoverzicht
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
-source-git-commit: f238214988ae396d7c6e6ad0bd46fff232d442d6
+feature: Sales Insight Actions
+source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '1392'
 ht-degree: 0%
@@ -130,7 +131,7 @@ De volgende acties voor bulkgoederen zijn beschikbaar in de keuzelijst op het ta
 * E-mail over verkoop verzenden - Mogelijkheid om persoonlijke of getypte e-mails te verzenden met weergave, klik en antwoord bijhouden
 * Verkoop campagne verzenden - Voeg leads toe aan verkoopafspeelboeken die een reeks e-mails en taken zijn
 
-   ![](assets/sales-insight-actions-feature-overview-4.png)
+  ![](assets/sales-insight-actions-feature-overview-4.png)
 
 De volgende inline acties zijn beschikbaar voor individuele lood/contacten op het Beste lusje van Bets:
 
@@ -139,7 +140,7 @@ De volgende inline acties zijn beschikbaar voor individuele lood/contacten op he
 * Dialer van de verkoop - maak verkoopvraag gebruikend dialer binnen CRM
 * Taak toevoegen - E-mail, vraag, klant of Verbonden taken voor prospectieve leads maken
 
-   ![](assets/sales-insight-actions-feature-overview-5.png)
+  ![](assets/sales-insight-actions-feature-overview-5.png)
 
 **E-mailtabblad**
 
@@ -160,7 +161,7 @@ De volgende inline acties zijn beschikbaar voor individuele lood/contacten op he
 * Taken synchroniseren met Salesforce
 * Logtaken in de sectie Geschiedenis van Salesforce-activiteiten
 
-   ![](assets/sales-insight-actions-feature-overview-6.png)
+  ![](assets/sales-insight-actions-feature-overview-6.png)
 
 **Live feed**
 
@@ -189,4 +190,4 @@ Tot de filters en triggers behoren:
 * Toegevoegd aan verkoopcampagne
 * Verwijderd uit verkoopcampagne
 
-   ![](assets/sales-insight-actions-feature-overview-7.png)
+  ![](assets/sales-insight-actions-feature-overview-7.png)

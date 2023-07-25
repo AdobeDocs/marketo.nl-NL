@@ -3,7 +3,8 @@ unique-page-id: 1900597
 description: Een publiek definiëren door een lijst - Marketo Docs - Productdocumentatie te importeren
 title: Een publiek definiëren door een lijst te importeren
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '372'
 ht-degree: 0%
@@ -82,4 +83,3 @@ Fantastisch! Nu is het tijd om een bestaande e-mail te kiezen of een nieuwe e-ma
 >
 >* [Bestaande e-mail kiezen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
 >* [Een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
-

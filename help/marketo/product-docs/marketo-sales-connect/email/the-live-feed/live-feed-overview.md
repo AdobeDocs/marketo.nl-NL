@@ -3,7 +3,8 @@ unique-page-id: 13796471
 description: Overzicht van Live Feed - Marketo Docs - Productdocumentatie
 title: Overzicht van Live feed
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Marketo Sales Connect
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -32,7 +33,6 @@ Personen met een blauwe lijn vertegenwoordigen de betrokkenheid met e-mails die 
 >
 >* Als uw ontvanger aan het draadloze netwerk voor een bedrijf het programma werd geopend dat zijn hoofdkwartier van IT in een andere stad of een land heeft, zouden wij die plaats eerder dan de huidige scène van de ontvanger registreren.
 >* Als uw e-mail door iemand in het gebied CC/BCC door:sturen of werd geopend, proberen wij om de plaats van die mensen nauwkeurig te tonen.
-
 
 ## Tabblad Taken {#tasks-tab}
 

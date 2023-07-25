@@ -2,9 +2,10 @@
 description: Stap 2 van 3 - creeer een gebruiker van de CRM van Veeva voor Marketo Engage - Marketo Docs - de Documentatie van het Product
 title: Stap 2 van 3 - creeer een gebruiker van Veeva CRM voor Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
-source-git-commit: 2ce44b7c44517a6fdb3f616a3d69b25158ea4ec9
+feature: Veeva CRM
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional)](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target=&quot;_blank&quot;}
+>[Stap 1 van 3: Marketo-velden toevoegen aan Salesforce (Professional)](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
 
 In dit artikel past u de veldmachtigingen aan met een Veeva CRM-paginalay-out en maakt u een Marketo-Veeva CRM-synchronisatiegebruiker.
 
@@ -200,4 +201,4 @@ Uitstekend! Nu hebt u een account dat Marketo Engage kan gebruiken om verbinding
 
 >[!MORELIKETHIS]
 >
->[Stap 3 van 3: Connect Marketo en Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target=&quot;_blank&quot;}
+>[Stap 3 van 3: Connect Marketo en Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}

@@ -3,7 +3,8 @@ unique-page-id: 7504749
 description: Een rapport van de Ontdekkingsreiziger van de Inkomsten exporteren - de Documenten van Marketo - de Documentatie van het Product
 title: Een rapport van de Ontdekkingsreiziger van de Opbrengst exporteren
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -25,7 +26,6 @@ U kunt om het even welk rapport van de opbrengstontdekkingsreiziger uitvoeren en
    >* PDF
    >* Excel
    >* CSV
-
 
 1. Selecteer het gewenste **Pagina-indeling** en **Afdrukstand** en klik op **Exporteren**.
 

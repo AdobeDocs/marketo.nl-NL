@@ -2,7 +2,8 @@
 description: Je Marketo-verkoopwachtwoord wijzigen - Marketo Docs - Productdocumentatie
 title: Je Marketo-verkoopwachtwoord wijzigen
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -35,7 +36,6 @@ Wilt u uw wachtwoord wijzigen? Zo gaat het.
 >* Gebruik een combinatie van hoofdletters en kleine letters
 >* Een getal opnemen
 >* Een speciaal teken opnemen
-
 
 ## Wachtwoord wijzigen bij afmelding {#change-your-password-while-signed-out}
 

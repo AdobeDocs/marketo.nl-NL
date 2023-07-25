@@ -3,7 +3,8 @@ unique-page-id: 2360014
 description: Personeelsprestatierapport - Marketo Docs - Productdocumentatie
 title: Rapport over prestaties van mensen
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Reporting
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -41,6 +42,6 @@ U kunt:
 * [Selecteer de kolommen die u wilt opnemen.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
 * [Sorteer de rapportkolommen.](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
 
-   >[!TIP]
-   >
-   >Houd er rekening mee dat rapporten gemakkelijk zijn [maken](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), configureren en [delete](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Ga door en speel met de vele manieren u hen kunt manipuleren, om de beste manieren te leren om zich op zeer belangrijke gegevens te concentreren.
+  >[!TIP]
+  >
+  >Houd er rekening mee dat rapporten gemakkelijk zijn [maken](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), configureren en [delete](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md). Ga door en speel met de vele manieren u hen kunt manipuleren, om de beste manieren te leren om zich op zeer belangrijke gegevens te concentreren.

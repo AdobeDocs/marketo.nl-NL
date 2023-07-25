@@ -3,7 +3,8 @@ unique-page-id: 7515069
 description: Elementen en variabelen begrijpen in Begeleide sjablonen - Marketo Docs - Productdocumentatie
 title: Elementen en variabelen in Geleide sjablonen begrijpen
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Landing Pages
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%

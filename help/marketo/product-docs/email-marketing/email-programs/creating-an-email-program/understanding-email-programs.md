@@ -3,7 +3,8 @@ unique-page-id: 2953572
 description: Werken met e-mailprogramma's - Marketo Docs - Productdocumentatie
 title: E-mailprogramma's
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -76,4 +77,3 @@ Nu u e-mailprogramma&#39;s begrijpt, kunt u beginnen met een van de verwante art
 >* [Een publiek definiëren met een slimme lijst](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
 >* [Een e-mail maken voor een e-mailprogramma](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >* [Uw e-mailprogramma plannen](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-

@@ -3,7 +3,8 @@ unique-page-id: 2359494
 description: Testprocedure "onderwerpregel" A/B gebruiken - Marketo Docs - Productdocumentatie
 title: Testen van "onderwerpregel" A/B gebruiken
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Email Programs, A/B Testing
+source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%

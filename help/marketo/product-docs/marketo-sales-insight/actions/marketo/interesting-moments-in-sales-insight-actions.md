@@ -2,9 +2,10 @@
 description: Interesserende momenten in de acties van het Inzicht van de Verkoop - de Documenten van Marketo - de Documentatie van het Product
 title: Interesserende momenten in de acties van het Inzicht van de Verkoop
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+feature: Sales Insight Actions
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -23,7 +24,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe maak ik een interessant moment? {#how-do-i-create-an-interesting-moment}
 
-1. Kies een [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target=&quot;_blank&quot;}, bij voorkeur één die uw verkoopteam interessant zou vinden als het zou worden geactiveerd.
+1. Kies een [slimme campagne](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, bij voorkeur één die uw verkoopteam interessant zou vinden als teweeggebracht.
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
@@ -45,7 +46,7 @@ Dat is aan jou! U bepaalt welke informatie relevant is voor uw verkoopteam. Uw v
 
 ## Hoe ziet een interessant moment eruit in Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-Interesserende momenten worden weergegeven in een [activiteitenlogboek van lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target=&quot;_blank&quot;}.
+Interesserende momenten worden weergegeven in een [activiteitenlogboek van lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 

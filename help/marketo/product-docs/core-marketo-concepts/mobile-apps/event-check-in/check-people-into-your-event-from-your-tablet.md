@@ -3,7 +3,8 @@ unique-page-id: 2949839
 description: Personen in uw gebeurtenis inchecken via uw tablet - Marketo Docs - Productdocumentatie
 title: Personen in uw gebeurtenis controleren via uw tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
-source-git-commit: 72e1d29347bd5b77107da1e9c30169cb6490c432
+feature: Mobile Marketing
+source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -20,7 +21,6 @@ De app werkt op zowel iPad als Android op dezelfde manier, behalve voor kleine l
 >
 >* Maak een gebeurtenis in Marketo en vul deze met Uitgenodigde en geregistreerde personen.
 >* Download de tablet-app voor [Android](https://play.google.com/store/apps/details?id=com.marketo.eventcheckin&amp;hl=en) of [iOS](https://itunes.apple.com/us/app/marketo-events/id522766637?mt=8)
-
 
 ## Geregistreerde gasten inchecken {#check-in-registered-guests}
 
