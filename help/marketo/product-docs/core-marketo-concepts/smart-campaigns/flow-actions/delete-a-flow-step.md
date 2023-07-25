@@ -40,7 +40,7 @@ Laten we eerst de basisbeginselen doen. Hier is hoe te om een ongewenste strooms
    1. **Nooit rennen.** Breng alle gewenste wijzigingen aan. Het zal niemand beïnvloeden tot je die campagne voert.
    1. **Dit is een terugkerende slimme campagne.** De wijzigingen zijn van invloed op mensen in de toekomst, niet op vorige versies.
    1. **Reeds gestart ZONDER stappen te wachten.** Er zullen geen mensen worden beïnvloed omdat de campagne na de uitvoering slapend is.
-   1. **Wordt nu uitgevoerd.** Wijzigingen kunnen onverwacht gedrag veroorzaken, afhankelijk van de timing en de details van het verwijderen. We raden u sterk aan GEEN batchcampagne te bewerken die actief wordt uitgevoerd. Leer hoe u in noodgevallen [een actieve slimme campagne afbreken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   1. **Wordt nu uitgevoerd.** Wijzigingen kunnen onverwacht gedrag veroorzaken, afhankelijk van de timing en de details van de verwijdering. We raden u sterk aan GEEN batchcampagne te bewerken die actief wordt uitgevoerd. Leer hoe u in noodgevallen [een actieve slimme campagne afbreken](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
    1. **Reeds gestart MET wachtstappen.** Hierover zijn verschillende details te vinden.\
       Wanneer een persoon een wachttijdstap ingaat, sluit de persoon zich aan bij de duur en welke STEP van het GETAL om aan terug te keren. Zie het onderstaande voorbeeld.

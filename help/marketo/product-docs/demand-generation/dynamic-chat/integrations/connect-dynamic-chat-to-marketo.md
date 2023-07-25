@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Dynamische chat met Marketo verbinden {#connect-dynamic-chat-to-marketo}
+# Dynamic Chat verbinden met Marketo {#connect-dynamic-chat-to-marketo}
 
 ## Dynamic Chat verbinden {#connecting-dynamic-chat}
 

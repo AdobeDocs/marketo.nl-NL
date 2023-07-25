@@ -94,7 +94,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 </br>
 
-* **Dialoogbetrokkenheidsrapport voor dynamisch chatten**: Verstrekt een mening van de betrokkenheid van de Dialoog in tijd, met inbegrip van de capaciteit om door bezoekerstype en betrokkenheidstype te filtreren om betere zichtbaarheid voor gebruikers te verstrekken.
+* **Dialoogbetrokkenheidsrapport voor Dynamic Chat**: Verstrekt een mening van de betrokkenheid van de Dialoog in tijd, met inbegrip van de capaciteit om door bezoekerstype en betrokkenheidstype te filtreren om betere zichtbaarheid voor gebruikers te verstrekken.
 
 <table> 
   <tr> 
@@ -122,7 +122,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Chatten als programmakanaal voor Dynamic Chat**: Maakt een nieuw Chat-programmakanaal om de voortgang van het programma bij te houden voor mensen die zijn aangeschaft door Dynamic Chat. Een markeerteken heeft bijvoorbeeld een programma dat is gekoppeld aan een dialoogvenster Dynamic Chat om nieuwe leads vast te leggen. Ze kunnen dat programma nu toewijzen aan het Chat-kanaal, zodat ze kunnen bijhouden wanneer de leiders lid zijn van het programma en wanneer ze succes hebben geboekt.
+* **Chatten als programmakanaal voor Dynamic Chat**: Hiermee maakt u een nieuw Chat-programmakanaal om de voortgang van het programma bij te houden voor mensen die door Dynamic Chat zijn aangeschaft. Een markeerteken heeft bijvoorbeeld een programma dat is gekoppeld aan een dynamisch chatdialoogvenster om nieuwe leads vast te leggen. Ze kunnen dat programma nu toewijzen aan het Chat-kanaal, zodat ze kunnen bijhouden wanneer de leiders lid zijn van het programma en wanneer ze succes hebben geboekt.
 
 <table> 
   <tr> 
@@ -136,7 +136,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Gecorrigeerde kenmerken voor Dynamic Chat**: Zorgt ervoor dat de afgeleide IP gegevens (stad, staat, land, enz.) wordt geschreven aan het persoonverslag voor nieuwe mensen die door Dynamisch Chat worden verworven.
+* **Gecorrigeerde kenmerken voor Dynamic Chat**: Zorgt ervoor dat de afgeleide IP gegevens (stad, staat, land, enz.) wordt geschreven naar het persoonsregister voor nieuwe personen die door de Dynamic Chat zijn verworven.
 
 <table> 
   <tr> 

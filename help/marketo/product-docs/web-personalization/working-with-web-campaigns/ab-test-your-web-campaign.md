@@ -35,7 +35,7 @@ Om A/B uw gepersonaliseerde campagnes te testen, kunt u twee of meer campagnes s
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
-1. Selecteer op de pagina Campagne de optie **Gesplitste tests** en klik op **Nieuw maken**.
+1. Selecteer in de campagnepagina de optie **Gesplitste tests** en klik op **Nieuw maken**.
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 

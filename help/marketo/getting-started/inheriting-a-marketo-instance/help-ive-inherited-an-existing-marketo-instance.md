@@ -23,4 +23,4 @@ Zo ja, dan is deze handleiding voor u bedoeld. Het zou u moeten helpen uw eerste
 * [Te beoordelen handelingen: Kernvaardigheden](/help/marketo/getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md){target="_blank"}
 * [Manieren om hulp te krijgen](/help/marketo/getting-started/inheriting-a-marketo-instance/ways-to-get-help.md){target="_blank"}
 
-Als u al weet hoe u uw exemplaar omgaat en vertrouwd bent met de kernconcepten van Marketo, raadpleegt u de Marketo Engage-productdocumenten of gaat u naar de [Marketing Nation](https://nation.marketo.com/){target="_blank"} online community om te zien wat andere Marketo-gebruikers zeggen.
+Als u al weet hoe u uw exemplaar omgaat en vertrouwd bent met de kernbeginselen van Marketo, raadpleegt u de Marketo Engage-productdocumenten of gaat u naar de [Marketing Nation](https://nation.marketo.com/){target="_blank"} online community om te zien wat andere Marketo-gebruikers zeggen.

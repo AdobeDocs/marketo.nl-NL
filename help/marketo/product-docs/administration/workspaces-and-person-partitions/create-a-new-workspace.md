@@ -52,7 +52,7 @@ Zo maakt u een nieuwe werkruimte.
    >
    >* De **[!UICONTROL All Person Partitions]** selectievakje betekent dat deze werkruimte alle persoonlijke partities in het systeem kan gebruiken.
    >
-   >* De **[!UICONTROL Primary Person Partition]** fungeert als de standaardinstelling en is waar alle mensen worden toegewezen.
+   >* De **[!UICONTROL Primary Person Partition]** fungeert als de standaardinstelling en is waar alle personen worden toegewezen.
 
    >[!IMPORTANT]
    >

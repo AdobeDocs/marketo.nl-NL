@@ -45,7 +45,7 @@ Nu uw programma klaar is om te starten, moet u het goedkeuren. Hieronder wordt b
 
    ![](assets/image2014-9-12-13-3a43-3a44.png)
 
-   Perfect! Je bent klaar. Je e-mailbericht wordt verzonden op het geplande tijdstip.
+   Perfect! Je bent klaar. Je e-mail wordt verzonden op het geplande tijdstip.
 
    ![](assets/image2014-9-12-13-3a43-3a56.png)
 
