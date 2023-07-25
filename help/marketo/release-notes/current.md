@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7e0d78810cce1c35918a15ad29c1f3863128c1dd
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
-source-wordcount: '713'
+source-wordcount: '780'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Betrokkenheidscanvas**: Het Betrokkenheidscanvas is een visueel hulpmiddel dat u toestaat om herbruikbare campagnes te bouwen en te organiseren. Het is volledig achterwaarts compatibel, zodat alle bestaande campagnes in deze nieuwe structuur met de klik van een knoop kunnen worden bekeken. Canvases kunnen worden gedownload en gedeeld.
+* **Betrokkenheid toewijzen**: De kaart van de Betrokkenheid is een visueel hulpmiddel dat u toestaat om herbruikbare campagnes te bouwen en te organiseren. Het is volledig achterwaarts compatibel, zodat alle bestaande campagnes in deze nieuwe structuur met de klik van een knoop kunnen worden bekeken. Canvases kunnen worden gedownload en gedeeld.
 
 <table> 
   <tr> 
@@ -34,6 +34,20 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   <tr> 
    <td><i>Binnenkort beschikbaar</i></td>
    <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Meldingen - Fout met webservices**: Het bericht van de Fout van de Diensten van het Web omvat nu de abonnementsnaam, die het voor hen gemakkelijker maakt die veelvoudige instanties van Marketo Engage beheren. Er is ook een kolom &quot;Gebruiker&quot; toegevoegd aan de tabel die foutcodes en aantallen bevat, zodat u gemakkelijk kunt zien welke API-gebruiker verantwoordelijk was voor het genereren van een specifieke fout bij het aanroepen van de Marketo REST API.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td>Verzonden</td>
+   <td>n.v.t.</td>
   </tr>
   </tbody>
 </table>
@@ -60,7 +74,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Verbeterde Dynamic Chat**: De activiteiten van de Dynamic Chat, filters, en trekkers zijn verbeterd met extra attributen en gestandaardiseerde noemingsovereenkomsten.
+* **Verbeterde dynamische chatactiviteiten**: De activiteiten van de Dynamic Chat, filters, en trekkers zijn verbeterd met extra attributen en gestandaardiseerde noemingsovereenkomsten.
 
 <table> 
   <tr> 

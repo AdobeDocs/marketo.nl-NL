@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 8b934d0c02824953a3b4c3f5c7bfd0bfc741cbe2
+source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
 workflow-type: tm+mt
 source-wordcount: '8996'
 ht-degree: 0%
@@ -485,10 +485,10 @@ ht-degree: 0%
          + [Mappen begrijpen](product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md)
          + [Kennisgevingen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)
          + [Typen meldingen](product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
-      + Betrokkenheidscanvas {#engagement-canvas}
-         + [Overzicht van het serviccanvas](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-overview.md)
-         + [Tabblad Betrokkenheid canvas](product-docs/core-marketo-concepts/engagement-canvas/engagement-canvas-tab.md)
-         + [Tabblad Instellingen](product-docs/core-marketo-concepts/engagement-canvas/settings-tab.md)
+      + Betrokkenheid toewijzen {#engagement-map}
+         + [Overzicht van de betrokkenheidskaart](product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md)
+         + [Tabblad Betrokkenheid](product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md)
+         + [Tabblad Instellingen](product-docs/core-marketo-concepts/engagement-map/settings-tab.md)
       + Voorspelend publiek {#predictive-audiences}
          + [Aan de slag met voorspellend publiek](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [Modellen en inzichten](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
@@ -628,7 +628,7 @@ ht-degree: 0%
          + [Browsermeldingen](product-docs/demand-generation/dynamic-chat/browser-notifications.md)
          + [Configuratie](product-docs/demand-generation/dynamic-chat/configuration.md)
          + [Chatbotgedrag](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
-         + [Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
+         + [Dynamische chatactiviteiten](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
          + Planning van benoeming {#appointment-scheduling}
             + [Kalender](product-docs/demand-generation/dynamic-chat/appointment-scheduling/calendar.md)
             + [Vergaderingen](product-docs/demand-generation/dynamic-chat/appointment-scheduling/meetings.md)
@@ -1494,7 +1494,7 @@ ht-degree: 0%
          + Functies {#features}
             + [Overzicht van MSI-functies](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Overzicht van dashboardfuncties voor inzichten](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-            + [Dynamische chatintegratie](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
+            + [Dynamic Chat-integratie](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
             + [E-mail naar meerdere records in Marketo Sales Insight verzenden](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + Handelingen in het deelvenster MSI {#actions-in-the-msi-panel}
                + [Kies een actie in het Verkoopoverzicht](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
