@@ -4,24 +4,24 @@ title: Tabblad Instellingen
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f88704f03a757f117fbb997eff13843cad637315
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
 
 # Tabblad Instellingen {#settings-tab}
 
-Op het tabblad Instellingen staan al uw instellingen voor de campagne, inclusief dezelfde rechtensets en toegang als op het tabblad Planning. ALS U DIT TABBLAD BEZOEKT, WORDT DIT NIET ONDERBREKEN?? OVERWEEG DROPPEN OF HERFORMEREN - LOPA ZAL BEVESTIGEN - Het zal geen bestaande campagnemontages verstoren.
+Het lusje van Montages is huis aan al uw campagnemontages, met inbegrip van de zelfde toestemmingsreeksen en toegang zoals het lusje van het Programma in Slimme Campagnes.
 
 Het bevat de volgende drie secties.
 
 * **Kwalificatieregels**: Hiermee bepaalt u hoe vaak elke persoon de slimme-campagnestroom kan doorlopen.
 
-* **Afzonderlijke regels**: Kan worden gebruikt voor het plannen van enkelvoudige reeksen, direct of in de toekomst.
+* **Afzonderlijke regels**: Kan worden gebruikt om enkelvoudige reeksen onmiddellijk of in de toekomst te plannen.
 
-* **Herhaling**: Wordt gebruikt om een dagelijkse, wekelijkse of maandelijkse terugkerende actie te plannen.
+* **Herhaling**: Wordt gebruikt om een dagelijkse, wekelijkse of maandelijkse recidive te plannen.
 
   ![](assets/settings-tab-1.png)
 
@@ -29,7 +29,7 @@ De kwalificatieregels zijn beschikbaar voor alle campagnes (trigger en batch) en
 
 * U kunt bepalen hoe vaak een persoon een campagne voert
 * De mogelijkheid om een niet-operationele campagne te blokkeren als de persoon zijn communicatielimiet overschrijdt
-* De mogelijkheid om een afbreekcampagne in te stellen is beperkt
+* De mogelijkheid om een afbreekcampagne in te stellen die mensen beperken
 
   ![](assets/settings-tab-2.png)
 
@@ -58,9 +58,13 @@ Het tabblad Instellingen bevat ook een kort overzicht van uw slimme lijst. Dit o
 
 Machtigingssets en fouten op het tabblad Instellingen:
 
-Alle bestaande rechtensets zijn van toepassing op het tabblad Instellingen. Als de knop Bewerken grijs wordt weergegeven, hebt u geen machtigingen om bewerkingen uit te voeren en moet u contact opnemen met uw Marketo-beheerder.
+Alle bestaande rechtensets zijn van toepassing op het tabblad Instellingen. Als de knop Bewerken grijs wordt weergegeven, klikt u op het Help-pictogram om uit te zoeken waarom.
 
-BESCHRIJVING TOEVOEGEN BIJ HET ANNULEREN VAN GEPLANDE RUNS - BEVESTIGEN MET LOPA NA SHUTDOWN -> Als een gebruiker geen toegang heeft om campagnemontages uit te geven, zullen zij ook geen toegang hebben om geplande looppas te annuleren.
+>[!NOTE]
+>
+>Als na het klikken op het Help-pictogram &quot;Aanvullende machtigingen vereist&quot; wordt weergegeven, neemt u contact op met uw Marketo Admin.
+
+REDUNDANT ZOALS HET BOVENSTAANDE WORDT UITGELEGD, KUNNEN WE VERWIJDEREN —> Als een gebruiker geen toegang heeft om campagnemontages te bewerken, zullen zij ook geen toegang hebben om geplande looppas te annuleren.
 
 ![](assets/settings-tab-5.png)
 
