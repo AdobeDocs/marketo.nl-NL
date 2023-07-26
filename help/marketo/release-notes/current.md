@@ -3,9 +3,9 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 02f3150cda31ec25fc47fc7f6ea50feaa9fed6b5
+source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
 workflow-type: tm+mt
-source-wordcount: '780'
+source-wordcount: '667'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Betrokkenheid toewijzen**: De kaart van de Betrokkenheid is een visueel hulpmiddel dat u toestaat om herbruikbare campagnes te bouwen en te organiseren. Het is volledig achterwaarts compatibel, zodat alle bestaande campagnes in deze nieuwe structuur met de klik van een knoop kunnen worden bekeken. Canvases kunnen worden gedownload en gedeeld.
+* **Betrokkenheid toewijzen**: De betrokkenheidskaart is een visueel hulpmiddel waarmee u herbruikbare campagnes kunt maken en organiseren. Het is volledig achterwaarts compatibel, zodat alle bestaande campagnes in deze nieuwe structuur met de klik van een knoop kunnen worden bekeken. Canvases kunnen worden gedownload en gedeeld.
 
 <table> 
   <tr> 
@@ -47,7 +47,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tr>
   <tr> 
    <td>Verzonden</td>
-   <td>n.v.t.</td>
+   <td>nvt</td>
   </tr>
   </tbody>
 </table>
@@ -56,11 +56,11 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 De volgende functies volgen een indeling van Adobe en worden op verschillende datums vóór of na de standaardreleasedatum uitgebracht. Controleer onder elke functie de status.
 
-### Dynamische chat {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
-* **Chatbron voor dynamische chattekst**: Chat wordt nu aangeboden als een bron van records en activiteiten van nieuwe personen. Deze bron kan worden gebruikt om gebruikers te helpen activiteiten in Slimme Lijsten/Campagnes filtreren. De bron kan ook worden geblokkeerd door updates op velden.
+* **Chatbron voor Dynamic Chat**: Chat wordt nu aangeboden als een bron van nieuwe persoonrecords en activiteiten. Deze bron kan worden gebruikt om gebruikers te helpen activiteiten in Slimme Lijsten/Campagnes filtreren. De bron kan ook worden geblokkeerd door updates op velden.
 
 <table> 
   <tr> 
@@ -74,7 +74,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Verbeterde dynamische chatactiviteiten**: De activiteiten van de Dynamic Chat, filters, en trekkers zijn verbeterd met extra attributen en gestandaardiseerde noemingsovereenkomsten.
+* **Verbeterde Dynamic Chat**: Dynamic Chat-activiteiten, filters en triggers zijn uitgebreid met extra kenmerken en gestandaardiseerde naamgevingsconventies.
 
 <table> 
   <tr> 
@@ -106,7 +106,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Dynamische veldvragen**: U kunt uw Verkoopteam nu vragen om specifieke delen van een e-mail nog verder aan te passen met nieuwe Veldherinneringen beschikbaar om aan e-mailmalplaatjes in de Acties van het Inzicht van de Verkoop te worden toegevoegd.
+* **Dynamische veldvragen**: U kunt uw Sales Team nu vragen om specifieke delen van een e-mail nog verder aan te passen met nieuwe Veldherinneringen beschikbaar om aan e-mailmalplaatjes in de Acties van het Inzicht van de Verkoop te worden toegevoegd.
 
 <table> 
   <tr> 
@@ -120,7 +120,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Standaard dynamische velden**: De standaard Dynamische Gebieden staan u toe om een reservewaarde te vormen die een Dynamisch Gebied kan oplossen aan als er geen waarde beschikbaar is om te worden bevolkt. Zo kunt u ervoor zorgen dat e-mails worden verzonden met alle ingevulde personalisatie.
+* **Standaard dynamische velden**: Met Standaard dynamische velden kunt u een fallback-waarde configureren die door een dynamisch veld kan worden omgezet als er geen waarde beschikbaar is om te worden gevuld. Zo kunt u ervoor zorgen dat e-mails worden verzonden met alle ingevulde personalisatie.
 
 <table> 
   <tr> 
@@ -134,7 +134,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Dynamic Chat Support for Sales Insight**: Er zijn updates uitgevoerd ter ondersteuning van nieuwe kenmerken voor Dynamics Chat die in deze release voor alle gebruikers van Dynamics Chat zijn geïntroduceerd.
+* **Dynamic Chat Support for Sales Insight**: Er zijn updates gemaakt voor de ondersteuning van nieuwe Dynamic Chat-kenmerken die in deze release zijn geïntroduceerd voor alle Dynamic Chat-gebruikers.
 
 <table> 
   <tr> 
@@ -148,7 +148,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Ondersteuning van Dynamics Chat voor Handelingen van het verkoopinzicht**: We ondersteunen nu de activiteiten van Dynamics Chat in de Lead Feed en meldingen wanneer een Live Chat naar een agent wordt omgeleid.
+* **Ondersteuning van Dynamics Chat voor Handelingen van het verkoopinzicht**: Wij ondersteunen nu de activiteiten van de Dynamic Chat in het voer voor leads en meldingen wanneer een live chat naar een agent wordt geleid.
 
 <table> 
   <tr> 
@@ -162,7 +162,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Dynamic Chat Trigger Tokens**: Nieuwe triggertokens introduceren voor activiteiten op het gebied van Dynamic Chat die in interessante momenten worden gebruikt.
+* **Dynamic Chat Trigger Tokens**: Nieuwe triggertokens introduceren voor Dynamic Chat-activiteiten die in interessante momenten worden gebruikt.
 
 <table> 
   <tr> 
@@ -178,14 +178,6 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 ## Aankondigingen {#announcements}
 
-Er zijn twee verhogingen die aan Marketo Engage in real time Personalisatie komen.
-
-* **Upgrade naar jQuery 3.7**: Om de beveiliging en stabiliteit te verbeteren, voert Marketo een upgrade uit naar jQuery 3.7.0. RTP-gebruikers die hun eigen jQuery niet laden, worden niet negatief beïnvloed, omdat Marketo de standaardversie wijzigt die van rtp.js is geladen. Nochtans, als u een gebruiker RTP met een versie van jQuery ouder dan 3.0.0 bent, contacteer [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} voor hulp bij het implementeren van een aangepaste versie van rtp.js die aan uw behoeften voldoet.
-
->[!NOTE]
->
->Gelieve te werken met uw team van de Ontwikkeling van het Web samen om te bepalen als uw plaats uw eigen Bibliotheek JQuery laadt of de standaardversie gebruikt die van de Markering RTP JavaScript van de Personalisatie van het Web Tag wordt geladen.
-
 * **Upgrade naar Google Analytics 4**: Marketo heeft eerder Universal Analytics ondersteund, die de gegevensregistratie voor 1 juli 2023 zal stopzetten. De gebruikers RTP zullen het migratieproces in hun dashboard van Google Analytics moeten volgen om steun voor de Google Analytics 4 integratie in RTP te voltooien. Gebruikers krijgen een unieke alfanumerieke tag (in het dialoogvenster `<head>` (in het html-gedeelte) op de bestemmingspagina&#39;s, zodat Marketo gegevens naar Google Analytics kan verzenden.
 
-* **_Webinar productrelease_**: Doe mee op 6 september 2023, 9:00 uur PT / 12:00 uur ET voor een [levende webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} wordt gehost door ons productteam, waar u leert hoe u alle nieuwste productinnovaties kunt gebruiken.
+* **_Webinar productrelease_**: Sluit u aan bij ons op 6 september 2023, 9:00 uur PT / 12:00 uur ET voor een [levende webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} wordt gehost door ons productteam, waar u leert hoe u alle nieuwste productinnovaties kunt gebruiken.
