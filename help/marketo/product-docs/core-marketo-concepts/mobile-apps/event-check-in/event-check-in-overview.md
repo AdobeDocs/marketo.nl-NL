@@ -3,14 +3,18 @@ description: Overzicht van inchecken van gebeurtenissen
 title: Overzicht van inchecken van gebeurtenissen
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 # Overzicht van inchecken van gebeurtenissen {#event-check-in-overview}
+
+>[!AVAILABILITY]
+>
+>Deze app is niet compatibel met [Adobe Identiteitsverificatie](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} op dat moment.
 
 Met de Marketo Events-app voor iPad of Android kunt u eenvoudig inchecken wanneer mensen bij uw gebeurtenis aankomen.
 
@@ -24,9 +28,9 @@ Een geweldige gebeurtenis!
 
 Voor de gebeurtenis:
 
-* [Een nieuwe Marketo-rol maken](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) voor iPad- of Android-gebruikers voor de gebeurtenis
-* [Nieuwe tabletgebruikers uitnodigen voor de gebeurtenis](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) en hen de nieuwe rol toewijzen
-* [Een nieuw Marketo-gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+* [Een nieuwe Marketo-rol maken](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} voor iPad- of Android-gebruikers voor de gebeurtenis
+* [Nieuwe tabletgebruikers uitnodigen voor de gebeurtenis](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} en hen de nieuwe rol toewijzen
+* [Een nieuw Marketo-gebeurtenisprogramma maken](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * Gebeurtenisdatums opgeven
 * Personen aan uw gebeurtenis toevoegen
 
@@ -43,7 +47,7 @@ De iPad- of Android-tablet gereed maken:
 
 Bij de gebeurtenis:
 
-* Aanmelden bij de app
+* Meld u aan bij de app
 * Gasten zoeken (en nieuwe personen maken)
-* [Gasten inchecken](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md) (reverse check-ins, persoonrecords bewerken bij inchecken)
+* [Gasten inchecken](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"} (reverse check-ins, persoonrecords bewerken bij inchecken)
 * De iPad- of Android-tablet synchroniseren met Marketo

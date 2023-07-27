@@ -4,9 +4,9 @@ description: Marketo-momenten begrijpen - Marketo-documenten - productdocumentat
 title: Marketo-momenten begrijpen
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 762b8206b1e4c748daae063a80e76cc028904d10
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,13 @@ ht-degree: 0%
 
 De kracht van Marketo ligt nu letterlijk in uw handen! Geef een voorbeeld van e-mailberichten weer en voer deze opnieuw in vanaf je telefoon of iPad.
 
->[!AVAILABILITY]
->
+>[!NOTE]
 >
 >Toegang tot mobiele apps is vereist. Neem contact op met uw Marketo-beheerder om [uw rol bijwerken](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+
+>[!AVAILABILITY]
+>
+>Deze app is niet compatibel met [Adobe Identiteitsverificatie](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} op dat moment.
 
 ## Streams {#streams}
 
@@ -30,10 +33,10 @@ Hier zijn de verschillende stromen in Moments.
 >
 >**Definitie**
 >
->* Momenten: Alles wat net liep of op het punt staat te lopen, gaat hier.
->* Favorieten: Alles wat je een favoriet maakt, komt hier.
->* Later: Alles wat later dan dit moment plaatsvindt, komt hier binnen.
->* Gereed: Alles wat klaar is met rennen of u hebt gemarkeerd als voltooid, gaat hier.
+>* Momenten: alles wat net liep, of op het punt staat te lopen, gaat hier.
+>* Favorieten: alles wat je een favoriet maakt, komt hier.
+>* Later: alles wat later dan dit moment plaatsvindt, komt hier.
+>* Gereed: Alles wat klaar is met uitvoeren of zoals u hebt gemarkeerd, gaat hier.
 
 Oké, nu we dat uit de weg hebben, laten we even kijken op Marketo Moments aan de telefoon!
 
@@ -63,7 +66,7 @@ Tikken op de kaart opent een detailscherm.
 
 >[!NOTE]
 >
->Oranje kaarten worden bevestigd; grijze zijn tentatief.
+>Oranje kaarten worden bevestigd; grijze kaarten zijn tentatief.
 
 ![](assets/image2015-9-25-9-3a37-3a26.png)
 
@@ -71,7 +74,7 @@ Als u op de drie punten tikt, wordt een actiemenu voor de kaart geopend.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
-Geweldig! Nu kunt u iets doen door te tikken:
+Geweldig! Nu, kunt u iets doen gebeuren door te tikken:
 
 ![](assets/image2015-7-15-10-3a49-3a20.png)
 
@@ -80,16 +83,16 @@ Geweldig! Nu kunt u iets doen door te tikken:
 >**Definitie**
 >
 >* Favoriet: Het is gemakkelijk om aandacht te besteden aan dingen die het meest geschikt en belangrijk zijn als je ze favorieten maakt.
->* Gereed: Gereed maakt het uit de weergave Marketo Moments (maar laat het in Marketo, veilig en geluid).
->* Delen: Stuur een afbeelding om uw team te motiveren of te feliciteren.
->* Voorbeeld verzenden (alleen e-mail): Gebruik deze optie om anderen te laten zien hoe je e-mails eruitzien voordat je ze verstuurt.
->* Voorbeeld-e-mail (alleen e-mails): Het is altijd een goed idee om je e-mails vooraf te bekijken.
+>* Gereed: Klaar haalt het uit de weergave Marketo Moments (maar laat het in Marketo, veilig en geluid).
+>* Delen: verzend een afbeelding om uw team te motiveren of te feliciteren.
+>* Voorbeeld verzenden (alleen e-mail): gebruik deze optie om anderen te laten uitchecken hoe je e-mails eruit zien voordat je ze verzendt.
+>* Voorbeeld van e-mail (alleen e-mails): het is altijd een goed idee om je e-mails vooraf te bekijken.
 
 ## Later momenten {#later-moments}
 
 In het gedeelte Later worden toekomstige activiteiten weergegeven.
 
-1. Begin door op het hamburgermenu te tikken.
+1. Tik eerst op het hamburgermenu.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
@@ -113,7 +116,7 @@ Voor gebeurtenissen ziet u het totale aantal leden en hun status.
 
 ![](assets/image2015-6-29-15-3a39-3a12.png)
 
-## Analysecards {#analytics-cards}
+## Kaarten voor analyse {#analytics-cards}
 
 Met Analytics Moment-kaarten kunt u zien hoe uw e-mails en gebeurtenissen de afgelopen zes maanden van maand tot maand zijn, bijvoorbeeld:
 
@@ -131,7 +134,7 @@ De slimme campagnerekaarten vertegenwoordigen één enkele looppas van een campa
 
 ## Een handeling bevestigen of annuleren {#confirm-or-cancel-an-action}
 
-Elke stap van de manier, kunt u een actie bevestigen of annuleren. Tik gewoon op **Nooit denken**.
+U kunt elke stap van de manier bevestigen of annuleren. Tik gewoon op **Nooit denken**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 
