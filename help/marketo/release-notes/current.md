@@ -3,7 +3,7 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f4c1e01f830f4f2f6ac16502511457cee7f3384e
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 2%
@@ -24,7 +24,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Betrokkenheid toewijzen**: De betrokkenheidskaart is een visueel hulpmiddel waarmee u herbruikbare campagnes kunt maken en organiseren. Het is volledig achterwaarts compatibel, zodat alle bestaande campagnes in deze nieuwe structuur met de klik van een knoop kunnen worden bekeken. Canvases kunnen worden gedownload en gedeeld.
+* **Betrokkenheid toewijzen**: De betrokkenheidskaart is een visueel hulpmiddel waarmee u herbruikbare campagnes kunt maken en organiseren. Het is volledig achterwaarts compatibel, zodat alle bestaande campagnes in deze nieuwe structuur met de klik van een knoop kunnen worden bekeken. Kaarten kunnen worden gedownload en gedeeld.
 
 <table> 
   <tr> 

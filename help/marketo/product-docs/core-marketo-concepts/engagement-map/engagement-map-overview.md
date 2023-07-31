@@ -4,9 +4,9 @@ title: Overzicht van de betrokkenheidskaart
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '787'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 Met de betrokkenheidskaart kunt u herbruikbare slimme campagnes bouwen met behulp van intuïtieve beelden. Het biedt volledige achterwaartse verenigbaarheid met alle bestaande Marketo Engage Slimme Campagnes, zonder het verlies van om het even welke huidige eigenschappen.
 
-SCREENSHOT
+![](assets/engagement-map-overview-1.png)
 
 ## Betrokkenheid toewijzen {#accessing-engagement-map}
 
 Ga naar een bestaande campagne en klik op de knop **Betrokkenheid toewijzen** knop.
 
-SCREENSHOT
+![](assets/engagement-map-overview-2.png)
 
 Eenmaal in de betrokkenheidskaart ziet u twee tabbladen: [Betrokkenheid toewijzen](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
-SCREENSHOT
+![](assets/engagement-map-overview-3.png)
 
 ## Kaartbeschrijvingen {#card-descriptions}
 
@@ -51,11 +51,7 @@ SCREENSHOT
 
 ## Bovenste navigatie {#top-navigation}
 
-SCREENSHOT
-
 De top nav bevat de volgende functies:
-
-!!!!!!! SCREENSGEHEEL IS UITGEBREID - GRAB NIEUW
 
 * De naam van de campagne en toegang tot het modaal &quot;uitgeef Campagne&quot;, kunt u campagnenaam en beschrijving hier uitgeven.
 

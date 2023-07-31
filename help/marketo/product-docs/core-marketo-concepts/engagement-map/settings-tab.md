@@ -4,9 +4,9 @@ title: Tabblad Instellingen
 hide: true
 hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -63,8 +63,6 @@ Alle bestaande rechtensets zijn van toepassing op het tabblad Instellingen. Als 
 >[!NOTE]
 >
 >Als na het klikken op het Help-pictogram &quot;Aanvullende machtigingen vereist&quot; wordt weergegeven, neemt u contact op met uw Marketo Admin.
-
-REDUNDANT ZOALS HET BOVENSTAANDE WORDT UITGELEGD, KUNNEN WE VERWIJDEREN —> Als een gebruiker geen toegang heeft om campagnemontages te bewerken, zullen zij ook geen toegang hebben om geplande looppas te annuleren.
 
 ![](assets/settings-tab-5.png)
 

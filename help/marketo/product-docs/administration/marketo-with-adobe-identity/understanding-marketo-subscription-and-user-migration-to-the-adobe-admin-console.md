@@ -3,7 +3,7 @@ description: Een goed begrip van Marketo-abonnement en gebruikersmigratie naar d
 title: Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 830b8d3fa4ca49834523eb4d5119a9bb9161e04d
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
 source-wordcount: '1121'
 ht-degree: 0%
@@ -67,7 +67,7 @@ Marketo-productbeheerders zullen:
 
 Als Marketo-productbeheerder wordt u aangeraden ervoor te zorgen dat alle gebruikers op de migratiedag zijn voorbereid.
 
-* Controleer de status van e-mailverificatie voor alle gebruikers in het gebied Marketo Admin. Moedig gebruikers die hun e-mailadres niet hebben geverifieerd aan om dit te doen en help gebruikers eventuele problemen op te lossen bij het voltooien van het verificatieproces
+* Controleer de status van e-mailverificatie voor alle gebruikers in het gebied Marketo Admin. Moedig gebruikers die hun e-mailadres niet hebben geverifieerd aan om dit te doen en help gebruikers eventuele problemen op te lossen bij het voltooien van het verificatieproces.
 
 * Alle gebruikers voorbereiden op de volgende migratie naar Adobe-identiteit.
 

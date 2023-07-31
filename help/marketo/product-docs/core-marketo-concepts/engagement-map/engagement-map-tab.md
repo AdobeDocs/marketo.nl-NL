@@ -4,9 +4,9 @@ title: Tabblad Betrokkenheid
 hide: true
 hidefromtoc: true
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: f88704f03a757f117fbb997eff13843cad637315
+source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '913'
 ht-degree: 0%
 
 ---
@@ -153,12 +153,6 @@ Hieronder ziet u een voorbeeld van een fout in een trigger die wordt weergegeven
 * Een fout in beperkingen (of het ontbreken daarvan) in een of meer filters
 
   ![](assets/engagement-map-tab-20.png)
-
-Als u geen waarden (kenmerken) invoert, treedt er geen fout op. De ingevoerde waarde werkt ook als op het tabblad Stroom. Bestaande campagnes zullen daarom niet worden verstoord. Als de stroomstappen echter geen kenmerken bevatten, worden deze weergegeven als waarschuwingen.
-
-^^^ DIT ECHT NODIG, ZULLEN DE KLANT GEEN WAARSCHUWING ZIEN?
-
-![](assets/engagement-map-tab-21.png)
 
 >[!NOTE]
 >
