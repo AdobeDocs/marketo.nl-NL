@@ -1,23 +1,21 @@
 ---
 description: Tutorials van Inbox Tracker - Marketo Docs - Productdocumentatie
 title: Tutorials van Postvak In
-hide: true
-hidefromtoc: true
 feature: Deliverability
-source-git-commit: 95eb2ddf7ecb94a930c59cad57f39d45465bb9c2
+source-git-commit: 1f55f6ae17f4c5a059a7e937f9c115a79514e8db
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---
 
 # Tutorials van Postvak In {#inbox-tracker-tutorials.md}
 
-InBox Tracker, door MessageBird, is een krachtig derdehulpmiddel...
+Test, bewaak en begrijp de problemen met betrekking tot de te leveren items met Marketo Email Deliverability Powerpack, aangedreven door het Inbox Tracker-platform van MessageBird. Inbox Tracker is één toepassing die de intelligentie van uw programma en de vooruitziendheid van e-mail het teruggeven/inbox het testen combineert om de prestaties van uw e-mails te maximaliseren.
 
-MessageBird heeft verschillende trainingsvideo&#39;s gemaakt waarmee u door het platform kunt navigeren.
+![](assets/inbox-tracker-tutorials-1.png)
 
-SCREENSHOT
+MessageBird heeft verschillende trainingsvideo&#39;s gemaakt om u te helpen optimaal te profiteren van deze krachtige tool.
 
 ## Overzicht van Postvak In {#inbox-tracker-overview}
 
@@ -28,6 +26,8 @@ SCREENSHOT
 [Intelligent (configureren en downloaden)](https://veed.io/view/8b9e398e-21c9-49dc-a133-e1d8eb8ba03d){target="_blank"}
 
 ## Sectie Inbox Tracker Deliability {#inbox-tracker-deliverability-section}
+
+![](assets/inbox-tracker-tutorials-2.png)
 
 [Overzicht van dashboard](https://veed.io/view/2d1084f3-b4b4-440b-9977-a3cc3b885bb9){target="_blank"}
 
@@ -62,5 +62,7 @@ SCREENSHOT
 [Google Postmaster Tools](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
 
 ## Ontwerpbeheer {#design-tracker}
+
+![](assets/inbox-tracker-tutorials-3.png)
 
 [Ontwerpbeheer](https://veed.io/view/3efe7959-d835-4a00-948c-93e4a0394871){target="_blank"}
