@@ -4,7 +4,7 @@ title: Overzicht van de betrokkenheidskaart
 hide: true
 hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
 workflow-type: tm+mt
 source-wordcount: '777'
 ht-degree: 0%
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Overzicht van de betrokkenheidskaart {#engagement-map-overview}
 
->[!AVAILABILITY]
->
->Deze functie is momenteel beschikbaar voor slimme campagnes. Deze optie is niet beschikbaar voor programma&#39;s.
-
 Met de betrokkenheidskaart kunt u herbruikbare slimme campagnes bouwen met behulp van intuïtieve beelden. Het biedt volledige achterwaartse verenigbaarheid met alle bestaande Marketo Engage Slimme Campagnes, zonder het verlies van om het even welke huidige eigenschappen.
+
+>[!NOTE]
+>
+>De kaart van de betrokkenheid is momenteel beschikbaar in Slimme Campagnes. Deze optie is niet beschikbaar in Programma&#39;s.
 
 ![](assets/engagement-map-overview-1.png)
 
