@@ -1,10 +1,8 @@
 ---
 description: Tabblad Instellingen - Marketo-documenten - Productdocumentatie
 title: Tabblad Instellingen
-hide: true
-hidefromtoc: true
 exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 0%
@@ -45,7 +43,7 @@ De herhalingsmodale modus omvat de mogelijkheid om een terugkerend schema dageli
 
 ![](assets/settings-tab-4.png)
 
-Het tabblad Instellingen bevat ook een kort overzicht van uw slimme lijst. Dit omvat het volgende:
+Het tabblad Instellingen bevat ook een snel overzicht van uw slimme campagne. Dit omvat het volgende:
 
 * Campagnestatus
 * Gemaakt op

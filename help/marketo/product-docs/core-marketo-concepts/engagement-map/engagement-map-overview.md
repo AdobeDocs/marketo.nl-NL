@@ -1,12 +1,10 @@
 ---
 description: Overzicht van de betrokkenheidskaart - Marketo Docs - Productdocumentatie
 title: Overzicht van de betrokkenheidskaart
-hide: true
-hidefromtoc: true
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 7075f04972f755ffef01e0608ca81f0640fb8aa6
+source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '793'
 ht-degree: 0%
 
 ---
@@ -35,17 +33,17 @@ Eenmaal in de betrokkenheidskaart ziet u twee tabbladen: [Betrokkenheid toewijze
 
 **Triggers**: In campagnes die triggers bevatten, heeft de kaart een &quot;Trigger Overview&quot;-kaart. Als u op deze optie klikt, wordt een kaart voor elke trigger en een uitschuifvenster met aanvullende informatie weergegeven.
 
-**Filters**: In campagnes die filters bevatten, zal de kaart een kaart voor elk bevatten. Als u hierop klikt, wordt een venster met uitschuifbare informatie weergegeven.
+**Filters**: In campagnes die filters omvatten, zal de kaart een kaart van het Overzicht van de Filter bevatten. Als u erop klikt, wordt een uitschuifvenster weergegeven met aanvullende informatie over elk filter.
 
 **Stappen voor stroom**: Elke campagne zal een kaart voor elke stroomstap omvatten. Als u hierop klikt, wordt een venster met uitschuifbare informatie weergegeven.
 
-**Keuzen**: Als een flowstap een of meer opties bevat en u op de stroomkaart klikt, wordt voor elke keuze een kaart weergegeven, evenals een uitschuifvenster met aanvullende informatie.
+**Keuzen**: Als een flowstap een of meer opties bevat en u klikt op de stroomkaart, wordt voor elke keuze een kaart weergegeven, plus een uitschuifvenster met aanvullende informatie.
 
 ## Geneste campagnes {#nested-campaigns}
 
 * Als een campagne een verzoek bevat of de stap Campagne uitvoeren, kunt u op de flowkaart klikken om details van de aangeroepen campagne en een deelvenster met uitschuifbare informatie weer te geven.
 
-* Als een campagne een verzoek bevat of Campagne uitvoeren stap met keuzen uitvoert, zal het klikken op de debietkaart een keuzevaart evenals een diapaneel met meer informatie over de keuzen tonen. Als u op elke keuzekaart klikt, worden de details van de campagne weergegeven en ziet u een deelvenster met uitschuifbare informatie.
+* Als een campagne een verzoek bevat of Campagne uitvoeren stap met keuzen uitvoert, zal het klikken op de debietkaart een kaart voor elke keus, evenals een diapaneel met meer informatie over de keuzen tonen. Als u op elke keuzekaart klikt, worden de details van de campagne weergegeven en ziet u een deelvenster met uitschuifbare informatie.
 
 * Als een of meer geneste campagnes een verzoek hebben of Campagne uitvoeren-flowstap uitvoeren, worden bovendien details van de campagne weergegeven wanneer u op de flowkaart klikt. Hetzelfde geldt wanneer de flowstap keuzen bevat.
 
@@ -59,7 +57,7 @@ De top nav bevat de volgende functies:
 
 * Knop Activeren/Deactiveren voor triggercampagnes
 
-* Slimme lijst bewerken - u gaat naar de interface Slimme lijst op een nieuw tabblad waar u de slimme lijst kunt toevoegen of bewerken
+* Slimme lijst bewerken - u gaat naar de interface Slimme lijst op een nieuw tabblad waar u de Stappen van de Stroom kunt toevoegen of bewerken
 
 * Stroom bewerken - u gaat naar de Flow-interface op een nieuw tabblad waar u uw slimme lijst kunt toevoegen of bewerken
 
@@ -69,7 +67,7 @@ De top nav bevat de volgende functies:
 
 >[!NOTE]
 >
->Wijzigingen die u aanbrengt in een geopend tabblad Slimme lijst en Stroom, worden weergegeven op het tabblad Betrokkenheid bij vernieuwen. Deze wordt niet automatisch bijgewerkt. Updates en bewerkingen die automatisch worden opgeslagen, worden weergegeven.
+>Wijzigingen die u aanbrengt in een geopend tabblad Slimme lijst en Stroom, worden weergegeven op het tabblad Betrokkenheid bij vernieuwen. Deze wordt niet automatisch bijgewerkt. Updates en bewerkingen die automatisch worden opgeslagen, worden weergegeven na het vernieuwen van het tabblad Betrokkenheid.
 
 ## Veelgestelde vragen {#faq}
 
