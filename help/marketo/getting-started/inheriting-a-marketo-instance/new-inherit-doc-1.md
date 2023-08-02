@@ -3,9 +3,9 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
+source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '851'
 ht-degree: 5%
 
 ---
@@ -223,8 +223,10 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <th>Kolom 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>CRM</td> 
+   <td><li>Met welke CRM synchroniseert u? Salesforce? MS Dynamics? Veeva?</li>
+<li>Is de aangepaste synchronisatie of bidirectionele synchronisatie? (KG: grammatica bevestigen en belang controleren)</li>
+<li>[Alleen Salesforce] Heeft uw instantie aangepaste synchronisatiefilters geïmplementeerd? Neem contact op met Marketo Support om Aangepaste synchronisatiefilters te identificeren of om een aangepaste synchronisatieregel te vragen.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -244,10 +246,10 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
   <tr> 
    <td>Marketo Sales Insight (indien van toepassing)</td> 
-   <td><li>Is het MSI-pakket geïnstalleerd?</li>
-<li>Hebt u bijgewerkt naar de nieuwste versie van Sales Insight?</li>
+   <td><li>heeft de <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-pakket geïnstalleerd</a>?</li>
+<li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">bijgewerkt naar de nieuwste versie van Sales Insight</a>?</li>
 <li>Hebt u de configuratie van het Inzicht van de Verkoop voltooid?</li>
-<li>Hebt u toegang gegeven tot uw gebruikers op basis van het aantal licenties dat u hebt aangeschaft?</li></td>
+<li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">toegang krijgen tot uw gebruikers</a> op basis van het aantal licenties dat u hebt aangeschaft?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
