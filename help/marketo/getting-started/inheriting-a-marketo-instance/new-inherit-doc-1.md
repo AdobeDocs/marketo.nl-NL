@@ -3,18 +3,20 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 93be928e540fd50d92bef4ead3ea23519de18cce
+source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
 workflow-type: tm+mt
-source-wordcount: '851'
-ht-degree: 5%
+source-wordcount: '1140'
+ht-degree: 2%
 
 ---
 
 # Overnemen Doc 1 {#inherit-doc-1}
 
-Het controleren van een overgeërfde instantie kan als een
+Het controleren van een overgeërfde instantie kan als een...
 
-Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenomen? Als dat het geval is, is dit artikel voor u bestemd.
+Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenomen? Zo ja, dan is dit artikel voor u...
+
+De onderstaande controlelijst is samen met invoer van Marketo Champions geplaatst om u te helpen snel aan de slag te gaan in uw overgeërfde instantie...
 
 >[!TIP]
 >
@@ -37,7 +39,7 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
 <li>Hoeveel gebruikers hebben beheerdersmachtigingen?</li>
 <li>Moet een van deze gebruikers worden gewijzigd in een andere rol?</li> 
 <li>Wie zijn de API-gebruikers in deze instantie?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Rollen</td> 
@@ -47,19 +49,19 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
 <li>Hoe vaak aanmelden gebruikers?</li>
 <li>Heeft elke gebruiker van API zijn eigen gebruikersrol? Als niet, overweeg het uitvoeren van dit om het oplossen van problemen gemakkelijker te maken.</li> 
 <li>Zijn uw gebruikersrollen en toestemmingen op uw beleid van de bedrijfs gegevensprivacy gericht?</li></td>
-   <td>3.2</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Interne documentatie</td> 
    <td><li>Zijn de gebruikers en de rollen duidelijk bepaald in uw organisatie?</li>
 <li>Wat is uw procedure voor het toevoegen van een nieuwe gebruiker/beheerder?</li></td>
-   <td>3.3</td>
+   <td>3</td>
   </tr>
   <tr> 
    <td>Sandbox (indien van toepassing)</td> 
    <td><li>Hebt u een sandboxinstantie? Als dat het geval is, bekijkt u de bovenstaande categorieën voor uw sandbox.</li>
 <li>Is de Invoer van het Programma verbonden met uw zandbak?</li></td>
-   <td>3.4</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -76,7 +78,7 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   <tr> 
    <td>Audittrail</td> 
    <td><li>Wie werkt in dit geval?</li></td>
-   <td>3.1</td>
+   <td>3</td>
   </tr>
  </tbody> 
 </table>
@@ -225,23 +227,34 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   <tr> 
    <td>CRM</td> 
    <td><li>Met welke CRM synchroniseert u? Salesforce? MS Dynamics? Veeva?</li>
-<li>Is de aangepaste synchronisatie of bidirectionele synchronisatie? (KG: grammatica bevestigen en belang controleren)</li>
+<li>Is de aangepaste synchronisatie of bidirectionele synchronisatie? (KG: GRAMMAR CORRIGEREN EN BELANG CONTROLEREN)</li>
 <li>[Alleen Salesforce] Heeft uw instantie aangepaste synchronisatiefilters geïmplementeerd? Neem contact op met Marketo Support om Aangepaste synchronisatiefilters te identificeren of om een aangepaste synchronisatieregel te vragen.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Landingspagina's</td> 
+   <td><li>Hoe wordt het domein ingesteld?</li>
+<li>Hoe wordt de fallback ingesteld?</li>
+<li>Hoe wordt de homepage ingesteld?</li>
+<li>Is het vooraf invullen van het formulier ingeschakeld?</li>
+<li>Zijn gepersonaliseerde URL's ingeschakeld?</li>
+<li>Zijn er regels voor omleidingen?</li>
+<li>Hebt u domeinaliassen op zijn plaats? Volgt u door documentatie hoe u uw domeinaliassen gebruikt?</li>
+<li>Is Beveiligde domeinen voor het landen van pagina's ingeschakeld? Bevestig of uw landingspagina-elementen een 'http'-URL bevatten.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Munchkin</td> 
+   <td><li>Is de code voor het bijhouden van uw Munchkin-code op uw website (Niet in Marketo)?</li>
+<li>Is een Browser van het "Spoor niet"verzoek toegelaten?</li>
+<li>Is uw Munchkin-API geconfigureerd? Als u documentatie mist over waar de code van de munchkin op uw website is, begin met een snelle mening door het "Rapport van de Analyse van het Web"in basis "Analytics"te gebruiken om te begrijpen waar de code Munchkin over uw website wordt geplaatst.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Webservices</td> 
+   <td><li>Zijn IP-beperkingen ingeschakeld? Moeten ze dat zijn?</li>
+<li>Welke gebruikers/apps maken API-aanroepen in uw exemplaar?</li>
+<li>Raakt u of bijna aan het bereiken van uw API grens? Als dat het geval is, kunt u overwegen het te verhogen of uw instantie te controleren om die API-aanroepen omlaag te brengen.</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -265,18 +278,15 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <th>Kolom 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Treasure Chest</td> 
+   <td><li>Wat is ingeschakeld in de Treasure Chest?</li>
+<li>Zijn er functies die moeten worden in- of uitgeschakeld?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Campagne-controle</td> 
+   <td><li>Is Campagnecontrole ingeschakeld?</li>
+<li>Als dat niet het geval is, kunt u het inschakelen om gemakkelijk te bepalen welke campagnes actief zijn, synchroniseren met uw CRM en/of records verwijderen.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -292,18 +302,24 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <th>Kolom 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Marketo Engage-statusupdates</td> 
+   <td><li>Is uw instantie aangemeld voor updates van de Marketo Engage-status?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Geautoriseerde contactpersonen</td> 
+   <td><li>Hebt u de aangewezen gemachtigde contacten in het Portaal van de Steun opgezet?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Waarschuwingen</td> 
+   <td><li>Worden er actieve waarschuwingen vanuit Marketo Engage naar interne teams verzonden?</li>
+<li>Zo ja, functioneren deze waarschuwingen naar behoren?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Meldingen</td> 
+   <td><li>Bent u geabonneerd op de juiste beheerdersmeldingen?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
