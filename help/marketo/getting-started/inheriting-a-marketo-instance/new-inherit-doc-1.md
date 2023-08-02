@@ -3,10 +3,10 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 3c7eb2fc2e64898e12f08743225c0b802bf97474
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 14%
+source-wordcount: '804'
+ht-degree: 5%
 
 ---
 
@@ -119,8 +119,8 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr> 
   <tr> 
    <td>Instellingen voor slimme campagne</td> 
-   <td><li>Zijn er limieten? Heeft uw bedrijf beleid waar de communicatie grenzen noodzakelijk zouden kunnen zijn?</li>
-<li>Adobe raadt u aan om uw communicatie te beperken tot 1 per dag en 3 per 7 dagen met niet-operationele e-mailberichten geblokkeerd.</li></td>
+   <td><li>Hebt u een beperking op de grootte van slimme campagnes?</li>
+<li>Als dat niet het geval is, kunt u er een toevoegen. We raden u aan om de limieten van slimme campagnes te beperken tot 25% van uw database om overcommunicatie te voorkomen of om uw gehele database in workflows te verwerken. Dit beschermt niet alleen uw merk maar helpt de prestaties van uw instantie te beschermen.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -136,18 +136,9 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <th>Kolom 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-   <td>3</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Communicatielimieten</td> 
+   <td><li>Zijn er limieten? Heeft uw bedrijf beleid waar de communicatie grenzen noodzakelijk zouden kunnen zijn?</li>
+<li>Adobe raadt u aan uw communicatie te beperken tot 1 per dag en 3 per 7 dagen, waarbij niet-operationele e-mailberichten worden geblokkeerd.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,18 +154,24 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <th>Kolom 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Tags</td> 
+   <td><li>Hoeveel tags zijn er? Hoeveel tags zijn er in gebruik? Moet er iets worden toegevoegd?</li>
+<li>Zijn er labels vereist binnen uw programma's?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Kanalen</td> 
+   <td><li>Hoeveel kanalen zijn er? Hoeveel zijn er in gebruik?</li>
+<li>Zijn alle statussen van het kanaalprogramma geschikt? Tonen zij vooruitgang binnen het programma?</li>
+<li>Zijn uw kanalen verwant aan specifieke programmatypes?</li>
+<li>Welke statussen worden beschouwd als een succes voor elk kanaal? Lijn die op uw marketingdoelstellingen?</li>
+<li>Wordt het operationele kanaal correct gebruikt?</li>
+<li>Voor Geavanceerde Report Builder (de Ontdekkingsreiziger van de Cyclus van de Opbrengst \ RCE), wordt uw gedrag van de kanaalanalyse geplaatst om zich aan uw programmapraktijken te richten die periodekosten opnemen?</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Verkoopkalender (indien van toepassing)</td> 
+   <td><li>Hoeveel types van kalenderingang zijn er? Zijn ze allemaal nog steeds relevant?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,18 +187,27 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <th>Kolom 3</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Veldbeheer</td> 
+   <td><li>Hoeveel velden zijn er? Klik op Veldnamen exporteren om een lijst met uw velden, aangepaste velden en hun API-namen weer te geven.</li>
+<li>Hoeveel aangepaste velden zijn er?</li>
+<li>Hoeveel velden worden gebruikt? Selecteer 'Exporteren gebruikt door' in de vervolgkeuzelijst Veldhandelingen om verwante elementen van een veld te bekijken.</li>
+<li>Hoeveel worden er gesynchroniseerd tussen Marketo Engage en uw CRM?</li>
+<li>Worden CRM-velden gesynchroniseerd met de desbetreffende objecten?</li>
+<li>Is er een aangepaste weergave ingesteld voor de details van personen? Moet dat?</li>
+<li>Hebt u een naamgevingsconventie voor uw velden op basis van de bron? Zo niet, dan kunt u overwegen dit te implementeren.</li>
+<li>Zijn er velden geblokkeerd? Zorg ervoor dat je begrijpt waarom ze zijn.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Aangepaste activiteiten</td> 
+   <td><li>Zijn er aangepaste activiteiten?</li>
+<li>Als dat het geval is, klikt u erop om te begrijpen welke activiteiten niet gerelateerd zijn aan een Marketo-formulier, e-mail of landingspagina.</li></td>
    <td>3</td>
   </tr>
   <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Aangepaste objecten</td> 
+   <td><li>Hoeveel aangepaste objecten zijn er? Hoe worden ze gesynchroniseerd met uw CRM?</li>
+<li>Hoe worden deze douanevoorwerpen gebruikt door uw programma's en lijstvragen?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -229,6 +235,19 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   <tr> 
    <td>1</td> 
    <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>1</td> 
+   <td>2</td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Marketo Sales Insight (indien van toepassing)</td> 
+   <td><li>Is het MSI-pakket geïnstalleerd?</li>
+<li>Hebt u bijgewerkt naar de nieuwste versie van Sales Insight?</li>
+<li>Hebt u de configuratie van het Inzicht van de Verkoop voltooid?</li>
+<li>Hebt u toegang gegeven tot uw gebruikers op basis van het aantal licenties dat u hebt aangeschaft?</li></td>
    <td>3</td>
   </tr>
  </tbody> 

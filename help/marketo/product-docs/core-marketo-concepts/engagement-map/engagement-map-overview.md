@@ -2,9 +2,9 @@
 description: Overzicht van de betrokkenheidskaart - Marketo Docs - Productdocumentatie
 title: Overzicht van de betrokkenheidskaart
 exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: b6628cee17799801815f5b84c424399538eaf5ee
 workflow-type: tm+mt
-source-wordcount: '793'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -51,15 +51,15 @@ Eenmaal in de betrokkenheidskaart ziet u twee tabbladen: [Betrokkenheid toewijze
 
 De top nav bevat de volgende functies:
 
-* De naam van de campagne en toegang tot het modaal &quot;uitgeef Campagne&quot;, kunt u campagnenaam en beschrijving hier uitgeven.
+* De naam van de campagne en de toegang tot het modaal &quot;uitgeef Campagne&quot;, kunt u de campagnenaam en de beschrijving hier uitgeven.
 
 * De campagnestatus en het type campagne worden weergegeven onder de naam van de campagne
 
 * Knop Activeren/Deactiveren voor triggercampagnes
 
-* Slimme lijst bewerken - u gaat naar de interface Slimme lijst op een nieuw tabblad waar u de Stappen van de Stroom kunt toevoegen of bewerken
+* Slimme lijst bewerken - u gaat naar de interface Slimme lijst op een nieuw tabblad waar u filters en/of triggers kunt toevoegen of bewerken
 
-* Stroom bewerken - u gaat naar de Flow-interface op een nieuw tabblad waar u uw slimme lijst kunt toevoegen of bewerken
+* Stroom bewerken - u gaat naar de Flow-interface op een nieuw tabblad waar u de Stroom kunt toevoegen of bewerken
 
 * Exporteren - Hiermee wordt een afbeelding van de visualisatie van de campagne gedownload. De gedownloade versie weerspiegelt alle vertakkingen die u hebt uitgebreid
 
