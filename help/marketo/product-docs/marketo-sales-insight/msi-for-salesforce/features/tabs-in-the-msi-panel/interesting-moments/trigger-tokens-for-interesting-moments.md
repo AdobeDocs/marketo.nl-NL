@@ -4,9 +4,9 @@ description: Tokens voor interessante momenten activeren - Marketo Docs - Produc
 title: Tokens activeren voor interessante momenten
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 96ba23e53e395f3e07b6f636f6acf7e6b94e1392
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 Uitchecken [Overzicht van tokens](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) om alle tokens te zien die je in een interessant moment kunt zetten.
 
-## Tokens activeren {#trigger-tokens}
+## Triggertokens {#trigger-tokens}
 
 Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra triggertokens beschikbaar gesteld.
 
-* `{{trigger.Trigger Name}}` dat altijd de eigenlijke trigger zelf is. Bijvoorbeeld: Klik op Koppelen in e-mail.
-* `{{trigger.Name}}` Dit is de naam van het element dat de campagne heeft gestart. Bijvoorbeeld: Klik op Koppeling op webpagina is de URL zelf, afhankelijk van Salesforce-triggers, enzovoort.
+* `{{trigger.Trigger Name}}` dat altijd de eigenlijke trigger zelf is. Bijvoorbeeld: klik op Koppeling in e-mail.
+* `{{trigger.Name}}` Dit is de naam van het element dat de campagne heeft gestart. Bijvoorbeeld: klik op Koppeling op webpagina is de URL zelf, afhankelijk van Salesforce-triggers, enz.
 * Aanvullende triggers zijn beschikbaar op basis van beperkingen, die hieronder worden weergegeven.
 
-**E-mailtriggers**
+### E-mailtriggers {#email-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -101,7 +101,7 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Bounces zacht e-mailen</td> 
+   <td>E-mailgrenzen zacht</td> 
    <td><img src="assets/check.png" alt="controleren"></td> 
    <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
@@ -205,7 +205,7 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
  </tbody> 
 </table>
 
-**Salesforce Triggers**
+### Salesforce Triggers {#salesforce-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -294,7 +294,7 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Bounces verkoope-mail</td> 
+   <td>Bounges e-mail verkoop</td> 
    <td><img src="assets/check.png" alt="controleren"></td> 
    <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
@@ -311,7 +311,7 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Verkoop-e-mail is ontvangen</td> 
+   <td>Verkoop-e-mail ontvangen</td> 
    <td><img src="assets/check.png" alt="controleren"></td> 
    <td><img src="assets/check.png" alt="controleren"></td> 
    <td><img src="assets/check.png" alt="controleren"></td> 
@@ -534,7 +534,7 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
  </tbody> 
 </table>
 
-**Verkoop Connect-triggers**
+### Verkoop Connect-triggers {#sales-connect-triggers}
 
 <table style="table-layout:auto"> 
  <colgroup> 
@@ -623,7 +623,7 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Bounces verkoope-mail</td> 
+   <td>Bounges e-mail verkoop</td> 
    <td><img src="assets/check.png" alt="controleren"></td> 
    <td><img src="assets/check.png" alt="controleren"></td> 
    <td><br></td> 
@@ -640,7 +640,7 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
    <td><br></td>
   </tr> 
   <tr> 
-   <td>Verkoop-e-mail is ontvangen</td> 
+   <td>Verkoop-e-mail ontvangen</td> 
    <td><img src="assets/check.png" alt="controleren"></td> 
    <td><img src="assets/check.png" alt="controleren"></td> 
    <td><img src="assets/check.png" alt="controleren"></td> 
@@ -711,7 +711,113 @@ Op basis van de trigger die in een slimme campagne wordt gebruikt, worden extra 
  </tbody> 
 </table>
 
-**Diversen**
+### Dynamic Chat Trigger Tokens {#dynamic-chat-trigger-tokens}
+
+<table style="table-layout:auto"> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Page URL}}</code></th> 
+   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
+   <th><code>{{trigger.Conversation Status}}</code></th> 
+   <th><code>{{trigger.Agent Name}}</code></th> 
+   <th><code>{{trigger.Agent Email}}</code></th> 
+   <th><code>{{trigger.Scheduled For}}</code></th> 
+   <th><code>{{trigger.Goal name}}</code></th> 
+   <th><code>{{trigger.Document Name}}</code></th> 
+   <th><code>{{trigger.Document URL}}</code></th>
+   <th><code>{{trigger.Document Opened}}</code></th>
+   <th><code>{{trigger.Document Downloaded}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Bij een dialoogvenster</td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Geplande vergadering in een Dialoog</td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Dialoogvenster bereikt</td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr>
+  <tr> 
+   <td>Interactie met document in dialoogvenster</td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+  </tr> 
+ </tbody> 
+</table>
+
+### Overige {#miscellaneous}
 
 <table style="table-layout:auto"> 
  <colgroup> 
