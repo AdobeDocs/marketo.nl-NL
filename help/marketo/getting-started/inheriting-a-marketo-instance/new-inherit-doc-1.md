@@ -3,9 +3,9 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: f3ec0872e94d9e12219945f92040b7dbc67e5bed
+source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
 workflow-type: tm+mt
-source-wordcount: '1140'
+source-wordcount: '1149'
 ht-degree: 2%
 
 ---
@@ -261,7 +261,7 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
    <td>Marketo Sales Insight (indien van toepassing)</td> 
    <td><li>heeft de <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-pakket geïnstalleerd</a>?</li>
 <li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">bijgewerkt naar de nieuwste versie van Sales Insight</a>?</li>
-<li>Hebt u de configuratie van het Inzicht van de Verkoop voltooid?</li>
+<li>Hebt u de configuratie van het Inzicht van de Verkoop voltooid? Enterprise/Onbeperkte gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klik hier</a>, professionele gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klik hier</a>.</li>
 <li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">toegang krijgen tot uw gebruikers</a> op basis van het aantal licenties dat u hebt aangeschaft?</li></td>
    <td>3</td>
   </tr>
