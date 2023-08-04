@@ -3,9 +3,9 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
+source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1220'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
 
 ## Gebruikers en rollen {#users-and-roles}
 
-<table style="table-layout:auto"> 
+<table> 
  <tbody> 
   <tr> 
    <th>Gebied</th> 
@@ -33,22 +33,22 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr> 
   <tr> 
    <td>Gebruikers</td> 
-   <td><li>Hoeveel gebruikers zijn er?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md" target="_blank">Hoeveel gebruikers</a> is dat zo ?</li>
 <li>Zijn er gebruikers die verlopen zouden moeten zijn?</li>
 <li>Heeft uw bedrijf beleid om gebruikers te schrappen?</li> 
-<li>Hoeveel gebruikers hebben beheerdersmachtigingen?</li>
-<li>Moet een van deze gebruikers worden gewijzigd in een andere rol?</li> 
+<li>Hoeveel gebruikers hebben <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Beheerdersmachtigingen</a>?</li>
+<li>Indien een van deze gebruikers wordt gewijzigd in <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">andere rollen ?</a></li> 
 <li>Wie zijn de API-gebruikers in deze instantie?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Rollen</td> 
    <td><li>Hoeveel rollen zijn er?</li>  
-<li>Welke toestemmingen/toegang heeft elke rol? Moet dit eventueel worden aangepast?</li>
+<li>Wat <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">machtigingen/toegang</a> heeft elke rol een rol ? Moet dit eventueel worden aangepast?</li>
 <li>Hoeveel gebruikers zijn er per rol?</li>
-<li>Hoe vaak aanmelden gebruikers?</li>
-<li>Heeft elke gebruiker van API zijn eigen gebruikersrol? Als niet, overweeg het uitvoeren van dit om het oplossen van problemen gemakkelijker te maken.</li> 
-<li>Zijn uw gebruikersrollen en toestemmingen op uw beleid van de bedrijfs gegevensprivacy gericht?</li></td>
+<li>Hoe vaak gebruikers zijn <a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">aanmelden</a>?</li>
+<li>Heeft elke API-gebruiker een <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">eigen gebruikersrol</a>? Als niet, overweeg het uitvoeren van dit om het oplossen van problemen gemakkelijker te maken.</li> 
+<li>Zijn uw gebruikersrollen en toestemmingen gericht op uw collectieve gegevens <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">privacybeleid</a>?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -59,8 +59,8 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr>
   <tr> 
    <td>Sandbox (indien van toepassing)</td> 
-   <td><li>Hebt u een sandboxinstantie? Als dat het geval is, bekijkt u de bovenstaande categorieën voor uw sandbox.</li>
-<li>Is de Invoer van het Programma verbonden met uw zandbak?</li></td>
+   <td><li>Heeft u een <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox-instantie</a>? Als dat het geval is, bekijkt u de bovenstaande categorieën voor uw sandbox.</li>
+<li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Programma importeren</a> gekoppeld aan uw sandbox?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -77,7 +77,7 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr> 
   <tr> 
    <td>Audittrail</td> 
-   <td><li>Wie werkt in dit geval?</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md" target="_blank">Wie werkt</a> in dit geval?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -263,6 +263,25 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
 <li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">bijgewerkt naar de nieuwste versie van Sales Insight</a>?</li>
 <li>Hebt u de configuratie van het Inzicht van de Verkoop voltooid? Enterprise/Onbeperkte gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klik hier</a>, professionele gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klik hier</a>.</li>
 <li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">toegang krijgen tot uw gebruikers</a> op basis van het aantal licenties dat u hebt aangeschaft?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Launchpoint (indien van toepassing)</td> 
+   <td><li>Welke diensten hebt u gevormd (webinar, reclame, enz.)? Zijn ze bijna verlopen?</li>
+<li>Hoeveel API vraag is uw integraties gebruiken?</li>
+<li>Hebt u de juiste integraties voor uw gebruiksgevallen?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Webhaken (indien van toepassing)</td> 
+   <td><li>Welke verbindingen hebt u ingesteld?</li>
+<li>Zijn er geen personen meer in gebruik?</li></td>
+   <td>3</td>
+  </tr>
+  <tr> 
+   <td>Mobiele apps (indien van toepassing)</td> 
+   <td><li>Welke mobiele apps hebt u?</li>
+<li>Welke testapparaten zijn toegevoegd?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
