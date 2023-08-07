@@ -4,9 +4,9 @@ title: Tijdstip van huidige releaseopmerkingen
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '929'
 ht-degree: 2%
 
 ---
@@ -313,7 +313,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Tokens activeren voor nieuwe activiteiten**: Nieuwe triggertokens ter ondersteuning van de nieuwe activiteiten voor Dynamic Chat.
+* **Tokens activeren voor nieuwe activiteiten**: Nieuwe triggertokens zijn beschikbaar ter ondersteuning van de nieuwe activiteiten voor Dynamic Chat.
 
 <table> 
   <tr> 
