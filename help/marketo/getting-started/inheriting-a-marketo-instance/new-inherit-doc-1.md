@@ -3,9 +3,9 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: b06d1d0f8101895ebefeb821150090aac3044870
+source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
 workflow-type: tm+mt
-source-wordcount: '1220'
+source-wordcount: '1225'
 ht-degree: 2%
 
 ---
@@ -94,11 +94,11 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr> 
   <tr> 
    <td>Werkruimten en partities</td> 
-   <td><li>Hoeveel werkruimten en/of partities hebt u?</li>
+   <td><li>Hoeveel <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">werkruimten en/of partities</a> heb je dat?</li>
 <li>Wat is het primaire doel van elke werkruimte en verdeling?</li>
-<li>Moeten ze gecontroleerd of gewijzigd worden?</li>
+<li>Voer een van de <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Werkruimten</a> of <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partities</a> moet worden gecontroleerd/gewijzigd?</li>
 <li>Wat is het verband tussen uw werkruimten en verdelingen?</li>
-<li>Hoeveel gebruikers hebben toegang tot elke werkruimte?</li></td>
+<li>Hoeveel gebruikers <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">toegang hebben</a> naar elke werkruimte?</li></td>
    <td>3</td>
   </tr>
   <tr> 
@@ -121,7 +121,7 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr> 
   <tr> 
    <td>Instellingen voor slimme campagne</td> 
-   <td><li>Hebt u een beperking op de grootte van slimme campagnes?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Hebt u een beperking?</a> op grootte van slimme campagne?</li>
 <li>Als dat niet het geval is, kunt u er een toevoegen. We raden u aan om de limieten van slimme campagnes te beperken tot 25% van uw database om overcommunicatie te voorkomen of om uw gehele database in workflows te verwerken. Dit beschermt niet alleen uw merk maar helpt de prestaties van uw instantie te beschermen.</li></td>
    <td>3</td>
   </tr>
@@ -139,8 +139,8 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr> 
   <tr> 
    <td>Communicatielimieten</td> 
-   <td><li>Zijn er limieten? Heeft uw bedrijf beleid waar de communicatie grenzen noodzakelijk zouden kunnen zijn?</li>
-<li>Adobe raadt u aan uw communicatie te beperken tot 1 per dag en 3 per 7 dagen, waarbij niet-operationele e-mailberichten worden geblokkeerd.</li></td>
+   <td><li>Zijn er <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">communicatielimieten</a> op zijn plaats? Heeft uw bedrijf beleid waar de communicatie grenzen noodzakelijk zouden kunnen zijn?</li>
+<li>Adobe raadt u aan uw communicatie te beperken tot 1 per dag en 3 per 7 dagen, met <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operationeel</a> e-mailberichten geblokkeerd.</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -163,8 +163,8 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr>
   <tr> 
    <td>Kanalen</td> 
-   <td><li>Hoeveel kanalen zijn er? Hoeveel zijn er in gebruik?</li>
-<li>Zijn alle statussen van het kanaalprogramma geschikt? Tonen zij vooruitgang binnen het programma?</li>
+   <td><li>Hoeveel <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">kanalen</a> is dat zo ? Hoeveel zijn er in gebruik?</li>
+<li>Alles <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">kanaalprogrammstatussen</a>? Tonen zij vooruitgang binnen het programma?</li>
 <li>Zijn uw kanalen verwant aan specifieke programmatypes?</li>
 <li>Welke statussen worden beschouwd als een succes voor elk kanaal? Lijn die op uw marketingdoelstellingen?</li>
 <li>Wordt het operationele kanaal correct gebruikt?</li>

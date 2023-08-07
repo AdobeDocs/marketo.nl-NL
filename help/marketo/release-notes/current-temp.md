@@ -4,9 +4,9 @@ title: Tijdstip van huidige releaseopmerkingen
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 0f34b8ac4283e78027c81bf654d090c5ee78b9ee
+source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '927'
 ht-degree: 2%
 
 ---
@@ -25,7 +25,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Functie**: Tekst.
+* **Marketo Reference Library**: Met de Marketo Engage Program Reference Library kunnen gebruikers &#39;example&#39;-programma&#39;s en andere middelen importeren die best practices vertegenwoordigen die door Adobe worden aanbevolen. Ons team voor productbeheer heeft de bibliotheek volledig bijgewerkt en biedt kostbaardere tools voor diegenen die hun programma snel willen starten.
 
 <table> 
   <tr> 
@@ -39,7 +39,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tbody>
 </table>
 
-* **Functie**: Tekst.
+* **Gebruikt door Kolom van de Telling voor de Middelen van de Studio van het Ontwerp**: De kolom Gebruikt door Aantal voor de Mening van de Lijst in de Studio van het Ontwerp benadrukt het aantal activa die worden gebruikt. Dit is van toepassing op fragmenten, e-mailsjablonen, Forms en landingspaginasjablonen.
 
 <table> 
   <tr> 
@@ -53,7 +53,21 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tbody>
 </table>
 
-* **Functie**: Tekst.
+* **Gebruikt door de Verbeteringen van het Lusje voor de Middelen van de Studio van het Ontwerp**: Het tabblad Gebruikt door versterking biedt een gedetailleerdere weergave van het type en de naam van een element, samen met de locatie waar het wordt gebruikt. Dit is van toepassing voor E-maildetails en details van afbeeldingen en bestanden.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Formule Flow Step-service berekenen**: Compute Formula is een Flow Step Service die is gebaseerd op Adobe Runtime platform voor gebruik met Marketo Engage Smart Campagnes. De cliënten van Adobe met runtime IO kunnen de dienst opstellen en het installeren aan hun abonnementen van Marketo Engage, die hen toestaan om Excel-als formules in de Slimme Campagnes van Marketo gegevens te verwerken.
 
 <table> 
   <tr> 
@@ -71,11 +85,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 De volgende functies volgen een indeling van Adobe en worden op verschillende datums vóór of na de standaardreleasedatum uitgebracht. Controleer onder elke functie de status.
 
-### Dynamic Chat {#dynamic-chat}
-
-</br>
-
-* **Functie**: Tekst.
+* **Marketo + Workfront-integratie**: Voor wie Marketo en Workfront heeft, kunt u nu Workfront Fusion Templates gebruiken om de twee producten te integreren en nieuwe automatiseringsworkflows te ontgrendelen om de uitvoering van de campagne te stroomlijnen.
 
 <table> 
   <tr> 
@@ -89,7 +99,221 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Functie**: Tekst.
+### Dynamic Chat {#dynamic-chat}
+
+</br>
+
+* **Actiekaart in stroomontwerper**: De verkopers kunnen actiekaarten in de stroom van de Dialoog gebruiken om verborgen waarden tot het Marketo Engage persoonverslag over te gaan wanneer de bezoekers met een Dialoog aangaan.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Conversale-stroomelementpagina**: De pagina van de Activa van de Studio van het Ontwerp maakt nu een lijst van de Conversationele stromen van de Dynamic Chat. Zie welke stromen in de activa van Marketo Engage kunnen worden geïntegreerd en direct aan hun redacteur worden ontkoppeld.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Gesprek Forms met Marketo Engage Forms**: Breng Marketo Engage Forms in gesprek door ze te integreren met Dynamic Chat Conversational Flows. Kwalificeer direct lood gebruikend vormgegevens of het Slimme lidmaatschap van de Lijst voor vergaderingsboekingen, de verbindingen van het Witboek, of douanedoelstellingen.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Gesprek SDK**: Zet om het even welke vorm, landende pagina, of bijna om het even welke Web-pagina in het aanhalen van vergadering het boeken ervaringen.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Aangepaste instellingen voor vergaderingenreservering**: De agenten kunnen de montages van de douaneverantwoording van de vergadering zoals beschikbaarheid, vergaderingslengte, en &quot;buffertijd&quot;tussen vergaderingen plaatsen.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Instellingen voor alternatieven**: Beheerders kunnen aangepaste fallback-instellingen instellen om te bepalen wat bezoekers zien wanneer agents niet beschikbaar zijn om te chatten.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Global Performance Dashboard**: Bekijk hoe goed uw dialoogvensters presteren, inclusief betrokkenheids- en prestatiegegevens (totaal en over een tijdsverloop), best presterende pagina&#39;s en best presterende dialoogvensters.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Live Chat**: Webbezoekers kunnen in real-time chatten met verkoopagenten om hun vragen te beantwoorden.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Live Chat Performance-dashboard**: Bekijk hoeveel gesprekken uw levende verkoopagenten hadden en welke teams het beste presteerden.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Doelstelling voor slimme lijst Marketo Engage**: Marketers kunnen zich richten op leden van slimme lijsten met Marketo Engage in de publiekscriteria van het dialoogvenster.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Dashboard voor vergaderprestaties**: Zie hoeveel vergaderingen worden geboekt en met wie ze worden geboekt.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Nieuwe Dynamics Chat**: Nieuwe activiteiten ter ondersteuning van Conversational Flows, Live Chat en andere nieuwe functies.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Live Chatmeldingen in realtime**: Wanneer bezoekers een live chat aanvragen, ontvangen agenten realtime meldingen in de app en meldingen in de browser.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Melding van handelingen voor het toezicht op de verkoop**: De agenten met de Acties van het Inzicht van de Verkoop zullen live chatverzoekberichten in het paneel van de Acties van het Inzicht van de Verkoop ontvangen.
+
+<table>
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Teams**: Maak teams met agents waarnaar bezoekers kunnen worden gerouteerd voor live chat- of vergaderingsboekingen.
+
+<table> 
+  <tr> 
+   <td><b>Status</b></td>
+   <td><b>Documentatieupdates</b></td>
+  </tr>
+  <tr> 
+   <td><i>Binnenkort beschikbaar</i></td>
+   <td><i>Binnenkort beschikbaar</i></td>
+  </tr>
+  </tbody>
+</table>
+
+* **Tokens activeren voor nieuwe activiteiten**: Nieuwe triggertokens ter ondersteuning van de nieuwe activiteiten voor Dynamic Chat.
 
 <table> 
   <tr> 
@@ -105,6 +329,6 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 ## Aankondigingen {#announcements}
 
-* **Schakel Switch Deprection for Design Studio Assets in of uit**: Tekst.
+* **Schakel Switch Deprection for Design Studio Assets in of uit**: De knevelschakelaar die gebruikers toestaat om tussen de klassieke interface en de Moderne ervaring van UX en de Studio van het Ontwerp te schakelen zal, samen met de oude versie van de ervaring van de Studio van het Ontwerp worden verouderd, toestaand gebruikers om aan de Moderne ervaring van UX volledig te migreren.
 
 * **_Webinar productrelease_**: Sluit u aan bij ons op 6 september 2023, 9:00 uur PT / 12:00 uur ET voor een [levende webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} wordt gehost door ons productteam, waar u leert hoe u alle nieuwste productinnovaties kunt gebruiken.
