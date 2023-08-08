@@ -3,7 +3,7 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 518c6a84dafd0882f1112caa0356f04a772832a1
+source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
 workflow-type: tm+mt
 source-wordcount: '1225'
 ht-degree: 2%
@@ -157,13 +157,13 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr> 
   <tr> 
    <td>Tags</td> 
-   <td><li>Hoeveel tags zijn er? Hoeveel tags zijn er in gebruik? Moet er iets worden toegevoegd?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">Hoeveel tags</a> is dat zo ? Hoeveel tags zijn er in gebruik? Moet er iets worden toegevoegd?</li>
 <li>Zijn er labels vereist binnen uw programma's?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Kanalen</td> 
-   <td><li>Hoeveel <a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">kanalen</a> is dat zo ? Hoeveel zijn er in gebruik?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" target="_blank">Hoeveel kanalen</a> is dat zo ? Hoeveel zijn er in gebruik?</li>
 <li>Alles <a href="/help/marketo/product-docs/administration/tags/hide-unhide-a-program-channel.md" target="_blank">kanaalprogrammstatussen</a>? Tonen zij vooruitgang binnen het programma?</li>
 <li>Zijn uw kanalen verwant aan specifieke programmatypes?</li>
 <li>Welke statussen worden beschouwd als een succes voor elk kanaal? Lijn die op uw marketingdoelstellingen?</li>
@@ -173,7 +173,7 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr>
   <tr> 
    <td>Verkoopkalender (indien van toepassing)</td> 
-   <td><li>Hoeveel types van kalenderingang zijn er? Zijn ze allemaal nog steeds relevant?</li></td>
+   <td><li>Hoeveel <a href="/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md" target="_blank">Type kalenderinvoer</a> is dat zo ? Zijn ze allemaal nog steeds relevant?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -190,25 +190,25 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr> 
   <tr> 
    <td>Veldbeheer</td> 
-   <td><li>Hoeveel velden zijn er? Klik op Veldnamen exporteren om een lijst met uw velden, aangepaste velden en hun API-namen weer te geven.</li>
-<li>Hoeveel aangepaste velden zijn er?</li>
-<li>Hoeveel velden worden gebruikt? Selecteer 'Exporteren gebruikt door' in de vervolgkeuzelijst Veldhandelingen om verwante elementen van een veld te bekijken.</li>
+   <td><li>Hoeveel velden zijn er? Klikken <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Veldnamen exporteren</a> om een lijst met uw velden, aangepaste velden en hun API-namen te bekijken.</li>
+<li>Hoeveel <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">aangepaste velden</a> is dat zo ?</li>
+<li>Hoeveel velden worden gebruikt? Selecteren <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exporteren gebruikt door</a> in de vervolgkeuzelijst Veldhandelingen om de gerelateerde elementen van een veld te controleren.</li>
 <li>Hoeveel worden er gesynchroniseerd tussen Marketo Engage en uw CRM?</li>
 <li>Worden CRM-velden gesynchroniseerd met de desbetreffende objecten?</li>
-<li>Is er een aangepaste weergave ingesteld voor de details van personen? Moet dat?</li>
+<li>Is er een <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">aangepaste weergaveset</a> voor details van de persoon? Moet dat?</li>
 <li>Hebt u een naamgevingsconventie voor uw velden op basis van de bron? Zo niet, dan kunt u overwegen dit te implementeren.</li>
-<li>Zijn er velden geblokkeerd? Zorg ervoor dat je begrijpt waarom ze zijn.</li></td>
+<li>Zijn er velden? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">geblokkeerd</a>? Zorg ervoor dat je begrijpt waarom ze zijn.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Aangepaste activiteiten</td> 
-   <td><li>Zijn er aangepaste activiteiten?</li>
+   <td><li>Zijn er <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">aangepaste activiteiten</a>?</li>
 <li>Als dat het geval is, klikt u erop om te begrijpen welke activiteiten niet gerelateerd zijn aan een Marketo-formulier, e-mail of landingspagina.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Aangepaste objecten</td> 
-   <td><li>Hoeveel aangepaste objecten zijn er? Hoe worden ze gesynchroniseerd met uw CRM?</li>
+   <td><li>Hoeveel <a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" target="_blank">aangepaste objecten</a> is dat zo ? Hoe worden ze gesynchroniseerd met uw CRM?</li>
 <li>Hoe worden deze douanevoorwerpen gebruikt door uw programma's en lijstvragen?</li></td>
    <td>3</td>
   </tr>
