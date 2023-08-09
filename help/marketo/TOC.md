@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: cb45578229c50300840660fc2a5629341ecfa98e
 workflow-type: tm+mt
-source-wordcount: '9008'
+source-wordcount: '9012'
 ht-degree: 0%
 
 ---
@@ -180,6 +180,7 @@ ht-degree: 0%
          + [Een productbeheerder toevoegen of verwijderen](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Een gebruiker toevoegen of verwijderen](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [Veelgestelde vragen](product-docs/administration/marketo-with-adobe-identity/faq.md)
+         + [Migreren naar Adobe-identiteit](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
          + [Aanmelden door gebruiker bij Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + [Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + Instellingen {#settings}
