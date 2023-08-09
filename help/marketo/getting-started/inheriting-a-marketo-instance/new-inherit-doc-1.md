@@ -3,9 +3,9 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
-source-wordcount: '1225'
+source-wordcount: '1240'
 ht-degree: 2%
 
 ---
@@ -233,26 +233,26 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr>
   <tr> 
    <td>Landingspagina's</td> 
-   <td><li>Hoe wordt het domein ingesteld?</li>
-<li>Hoe wordt de fallback ingesteld?</li>
-<li>Hoe wordt de homepage ingesteld?</li>
+   <td><li>Wat is de <a href="/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md" target="_blank">domeinset als</a>?</li>
+   <li>Hoe wordt de homepage ingesteld?</li>
+<li>Wat is de <a href="/help/marketo/product-docs/administration/settings/set-a-fallback-page.md" target="_blank">fallback ingesteld als</a>?</li>
 <li>Is het vooraf invullen van het formulier ingeschakeld?</li>
-<li>Zijn gepersonaliseerde URL's ingeschakeld?</li>
-<li>Zijn er regels voor omleidingen?</li>
+<li>zijn <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">gepersonaliseerde URL's</a> ingeschakeld?</li>
+<li>Zijn er regels ingesteld voor <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">omleiding</a>?</li>
 <li>Hebt u domeinaliassen op zijn plaats? Volgt u door documentatie hoe u uw domeinaliassen gebruikt?</li>
-<li>Is Beveiligde domeinen voor het landen van pagina's ingeschakeld? Bevestig of uw landingspagina-elementen een 'http'-URL bevatten.</li></td>
+<li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Beveiligde domeinen voor aanlandingspagina's</a> ingeschakeld? Bevestig of uw landingspagina-elementen een 'http'-URL bevatten.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
-   <td><li>Is de code voor het bijhouden van uw Munchkin-code op uw website (Niet in Marketo)?</li>
-<li>Is een Browser van het "Spoor niet"verzoek toegelaten?</li>
-<li>Is uw Munchkin-API geconfigureerd? Als u documentatie mist over waar de code van de munchkin op uw website is, begin met een snelle mening door het "Rapport van de Analyse van het Web"in basis "Analytics"te gebruiken om te begrijpen waar de code Munchkin over uw website wordt geplaatst.</li></td>
+   <td><li>Is uw <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-trackingcode</a> op uw website (Niet in Marketo)?</li>
+<li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Niet bijhouden</a> Browserverzoek ingeschakeld?</li>
+<li>Is uw <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> geconfigureerd? Als u documentatie mist over waar de code van de munchkin op uw website is, begin met een snelle mening door het "Rapport van de Analyse van het Web"in basis "Analytics"te gebruiken om te begrijpen waar de code Munchkin over uw website wordt geplaatst.</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Webservices</td> 
-   <td><li>Zijn IP-beperkingen ingeschakeld? Moeten ze dat zijn?</li>
+   <td><li>zijn <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-beperkingen</a> ingeschakeld? Moeten ze dat zijn?</li>
 <li>Welke gebruikers/apps maken API-aanroepen in uw exemplaar?</li>
 <li>Raakt u of bijna aan het bereiken van uw API grens? Als dat het geval is, kunt u overwegen het te verhogen of uw instantie te controleren om die API-aanroepen omlaag te brengen.</li></td>
    <td>3</td>
@@ -267,21 +267,21 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr>
   <tr> 
    <td>Launchpoint (indien van toepassing)</td> 
-   <td><li>Welke diensten hebt u gevormd (webinar, reclame, enz.)? Zijn ze bijna verlopen?</li>
-<li>Hoeveel API vraag is uw integraties gebruiken?</li>
+   <td><li>Welke diensten hebt u gevormd (bijvoorbeeld, <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">Zoomen</a>, enz.)? Zijn ze bijna verlopen?</li>
+<li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">Hoeveel API vraag</a> gebruiken uw integraties?</li>
 <li>Hebt u de juiste integraties voor uw gebruiksgevallen?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Webhaken (indien van toepassing)</td> 
-   <td><li>Welke verbindingen hebt u ingesteld?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">Welke verbindingen</a> hebt u een systeem ingesteld?</li>
 <li>Zijn er geen personen meer in gebruik?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Mobiele apps (indien van toepassing)</td> 
-   <td><li>Welke mobiele apps hebt u?</li>
-<li>Welke testapparaten zijn toegevoegd?</li></td>
+   <td><li>Welke <a href="/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md" target="_blank">mobiele apps</a> heb je dat?</li>
+<li>beschikken over <a href="/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md" target="_blank">testapparaten</a>  toegevoegd?</li></td>
    <td>3</td>
   </tr>
  </tbody> 
@@ -298,13 +298,13 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr> 
   <tr> 
    <td>Treasure Chest</td> 
-   <td><li>Wat is ingeschakeld in de Treasure Chest?</li>
+   <td><li>Wat is ingeschakeld in de <a href="/help/marketo/product-docs/administration/settings/enable-or-disable-treasure-chest-features.md" target="_blank">Treasure Chest</a>?</li>
 <li>Zijn er functies die moeten worden in- of uitgeschakeld?</li></td>
    <td>3</td>
   </tr>
   <tr> 
    <td>Campagne-controle</td> 
-   <td><li>Is Campagnecontrole ingeschakeld?</li>
+   <td><li>Is <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Campagne-controle</a> ingeschakeld?</li>
 <li>Als dat niet het geval is, kunt u het inschakelen om gemakkelijk te bepalen welke campagnes actief zijn, synchroniseren met uw CRM en/of records verwijderen.</li></td>
    <td>3</td>
   </tr>
@@ -318,28 +318,23 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   <tr> 
    <th>Gebied</th> 
    <th>Focus controleren</th>
-   <th>Kolom 3</th>
   </tr> 
   <tr> 
    <td>Marketo Engage-statusupdates</td> 
-   <td><li>Is uw instantie aangemeld voor updates van de Marketo Engage-status?</li></td>
-   <td>3</td>
+   <td><li>Is uw instantie aangemeld voor <a href="https://status.adobe.com/" target="_blank">Marketo Engage-statusupdates</a>?</li></td>
   </tr>
   <tr> 
    <td>Geautoriseerde contactpersonen</td> 
-   <td><li>Hebt u de aangewezen gemachtigde contacten in het Portaal van de Steun opgezet?</li></td>
-   <td>3</td>
+   <td><li>Hebt u de juiste instellingen <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">bevoegde contactpersonen</a> in het ondersteuningsportaal?</li></td>
   </tr>
   <tr> 
    <td>Waarschuwingen</td> 
-   <td><li>Worden er actieve waarschuwingen vanuit Marketo Engage naar interne teams verzonden?</li>
+   <td><li>Zijn er <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md" target="_blank">actieve waarschuwingen</a> vanuit Marketo Engage naar interne teams worden gestuurd?</li>
 <li>Zo ja, functioneren deze waarschuwingen naar behoren?</li></td>
-   <td>3</td>
   </tr>
   <tr> 
    <td>Meldingen</td> 
-   <td><li>Bent u geabonneerd op de juiste beheerdersmeldingen?</li></td>
-   <td>3</td>
+   <td><li>Bent u geabonneerd op de juiste beheerder? <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md" target="_blank">meldingen</a>?</li></td>
   </tr>
  </tbody> 
 </table>

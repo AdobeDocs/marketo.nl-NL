@@ -3,7 +3,7 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: e912b9112fc9fc3d72428e23b16de058874e8c21
+source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
 workflow-type: tm+mt
 source-wordcount: '931'
 ht-degree: 3%
@@ -26,7 +26,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 * **Marketo Reference Library**: Met de Marketo Engage Program Reference Library kunnen gebruikers &#39;example&#39;-programma&#39;s en andere middelen importeren die best practices vertegenwoordigen die door Adobe worden aanbevolen. Ons team voor productbeheer heeft de bibliotheek volledig bijgewerkt en biedt kostbaardere tools voor diegenen die hun programma snel willen starten.
 
-<table width="400"> 
+<table>
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -40,7 +40,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 * **Gebruikt door Kolom van de Telling voor de Middelen van de Studio van het Ontwerp**: De kolom Gebruikt door Aantal voor de Mening van de Lijst in de Studio van het Ontwerp benadrukt het aantal/het aantal activa die het betrokken element gebruiken. Dit is van toepassing op fragmenten, e-mailsjablonen, Forms en landingspaginasjablonen.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -54,7 +54,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 * **Gebruikt door de Verbeteringen van het Lusje voor de Middelen van de Studio van het Ontwerp**: Het tabblad Gebruikt door versterking biedt een gedetailleerdere weergave van het type en de naam van een element, samen met de locatie waar het wordt gebruikt. Dit is van toepassing voor E-maildetails en details van afbeeldingen en bestanden.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -68,7 +68,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 * **Formule Flow Step-service berekenen**: Compute Formula is een Flow Step Service die is gebaseerd op Adobe Runtime platform voor gebruik met Marketo Engage Smart Campagnes. De cliënten van Adobe met runtime IO kunnen de dienst opstellen en het installeren aan hun abonnementen van Marketo Engage, die hen toestaan om Excel-als formules in de Slimme Campagnes van Marketo gegevens te verwerken.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -86,7 +86,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Marketo + Workfront-integratie**: Voor wie Marketo en Workfront heeft, kunt u nu Workfront Fusion Templates gebruiken om de twee producten te integreren en nieuwe automatiseringsworkflows te ontgrendelen om de uitvoering van de campagne te stroomlijnen.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -104,7 +104,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Actiekaart in stroomontwerper**: De verkopers kunnen actiekaarten in de stroom van de Dialoog gebruiken om verborgen waarden tot het Marketo Engage persoonverslag over te gaan wanneer de bezoekers met een Dialoog aangaan.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -118,7 +118,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Conversale-stroomelementpagina**: De pagina van de Activa van de Studio van het Ontwerp maakt nu een lijst van de Conversationele stromen van de Dynamic Chat. Zie welke stromen in de activa van Marketo Engage kunnen worden geïntegreerd en direct aan hun redacteur worden ontkoppeld.
 
-<table width="400">
+<table>
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -132,7 +132,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Gesprek Forms met Marketo Engage Forms**: Breng Marketo Engage Forms in gesprek door ze te integreren met Dynamic Chat Conversational Flows. Kwalificeer direct lood gebruikend vormgegevens of het Slimme lidmaatschap van de Lijst voor vergaderingsboekingen, de verbindingen van het Witboek, of douanedoelstellingen.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -146,7 +146,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Gesprek SDK**: Zet om het even welke vorm, landende pagina, of bijna om het even welke Web-pagina in het aanhalen van vergadering het boeken ervaringen.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -160,7 +160,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Aangepaste instellingen voor vergaderingenreservering**: De agenten kunnen de montages van de douaneverantwoording van de vergadering zoals beschikbaarheid, vergaderingslengte, en &quot;buffertijd&quot;tussen vergaderingen plaatsen.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -174,7 +174,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Instellingen voor alternatieven**: Beheerders kunnen aangepaste fallback-instellingen instellen om te bepalen wat bezoekers zien wanneer agents niet beschikbaar zijn om te chatten.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -188,7 +188,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Global Performance Dashboard**: Bekijk hoe goed uw dialoogvensters presteren, inclusief betrokkenheids- en prestatiegegevens (totaal en over een tijdsverloop), best presterende pagina&#39;s en best presterende dialoogvensters.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -202,7 +202,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Live Chat**: Webbezoekers kunnen in real-time chatten met verkoopagenten om hun vragen te beantwoorden.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -216,7 +216,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Live Chat Performance-dashboard**: Bekijk hoeveel gesprekken uw levende verkoopagenten hadden en welke teams het beste presteerden.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -230,7 +230,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Doelstelling voor slimme lijst Marketo Engage**: Marketers kunnen zich richten op leden van slimme lijsten met Marketo Engage in de publiekscriteria van het dialoogvenster.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -244,7 +244,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Dashboard voor vergaderprestaties**: Zie hoeveel vergaderingen worden geboekt en met wie ze worden geboekt.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -258,7 +258,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Nieuwe Dynamics Chat**: Nieuwe activiteiten ter ondersteuning van Conversational Flows, Live Chat en andere nieuwe functies.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -272,7 +272,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Live Chatmeldingen in realtime**: Wanneer bezoekers een live chat aanvragen, ontvangen agenten realtime meldingen in de app en meldingen in de browser.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -286,7 +286,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Melding van handelingen voor het toezicht op de verkoop**: De agenten met de Acties van het Inzicht van de Verkoop zullen live chatverzoekberichten in het paneel van de Acties van het Inzicht van de Verkoop ontvangen.
 
-<table width="400">
+<table>
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -300,7 +300,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Teams**: Maak teams met agents waarnaar bezoekers kunnen worden gerouteerd voor live chat- of vergaderingsboekingen.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
@@ -314,7 +314,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Tokens activeren voor nieuwe activiteiten**: Nieuwe triggertokens zijn beschikbaar ter ondersteuning van de nieuwe activiteiten voor Dynamic Chat.
 
-<table width="400"> 
+<table> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
