@@ -3,10 +3,10 @@ description: Overnemen Doc 2 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 6%
+source-wordcount: '383'
+ht-degree: 0%
 
 ---
 
@@ -16,7 +16,7 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
 
 >[!TIP]
 >
->Als u een nieuwe (er) gebruiker van de Marketo Engage bent en niet vertrouwd met veel van de termijnen bent, gelieve te controleren [Marketo Verklarende woordenlijst](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+>Als u een nieuwe (er) gebruiker van het Marketo Engage bent en niet vertrouwd met veel van de termijnen bent, gelieve te controleren [Marketo Verklarende woordenlijst](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
 ## Slimme systeemlijsten {#system-smart-lists}
 
@@ -28,13 +28,13 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr> 
   <tr> 
    <td>Alle personen</td> 
-   <td><li>Hoeveel mensen bestaan er in de database?</li>
+   <td><li>Hoeveel mensen bestaan er in de <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">database</a>?</li>
 <li>Als uw gegevensbestand bijna volledig is, adviseert uw bedrijfbeleid dat u uw gegevensbestandgrootte uitbreidt of historische gegevens schoonmaakt?</li>
 <li>Is uw algemene gegevensbestand minstens 85% verhandelbaar? Als u onder deze drempelwaarde valt, bekijkt u de andere slimme systeemlijsten (Lijst van gewezen personen, Marketing opgeschort, Duplicaten, Unsubscribe) met meer controle.</li></td>
   </tr>
   <tr> 
    <td>Mensen zonder abonnement</td> 
-   <td><li>Wat zijn uw criteria voor Geabonneerde Mensen? Zijn er te veel mensen zonder abonnement?</li>
+   <td><li>Wat zijn uw criteria voor <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md" target="_blank">geabonneerde personen</a>? Zijn er te veel mensen zonder abonnement?</li>
 <li>Zijn de methoden voor het afmelden van uw abonnement afgestemd op de privacyvereisten voor gegevens?</li>
 <li>Is je voorkeur voor afmelden up-to-date? Hoe lang zijn de records in uw database onverhandelbaar gebleven?</li></td>
   </tr>
@@ -72,16 +72,10 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <th>Focus controleren</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Slimme lijsten groeperen</td> 
+   <td><li>Welke groep slimme lijsten zijn er? Hoe worden ze in dit geval gebruikt?</li>
+<li>Zijn de lijsten georganiseerd in een samenhangende omslagstructuur? Als u lijsten met wezen hebt, kunt u uw structuur ordenen, zodat elementen gemakkelijk te vinden zijn.</li>
+<p>Tip: archiveer slimme lijsten van groepen die niet meer nodig zijn voor het opvragen, rapporteren of verwijzen naar hulp bij organisatie en prestaties.</td>
   </tr>
  </tbody> 
 </table>
@@ -95,16 +89,9 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <th>Focus controleren</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Groepslijsten</td> 
+   <td><li>Welke groepslijsten zijn er?</li>
+<li>Hoe worden ze in dit geval gebruikt?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -118,16 +105,10 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <th>Focus controleren</th>
   </tr> 
   <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
-  </tr>
-  <tr> 
-   <td>1</td> 
-   <td>2</td>
+   <td>Segmentaties</td> 
+   <td><li>Welke <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentaties</a> is dat zo ? Hoe worden ze gebruikt?</li>
+<li>Zijn er te veel mensen in <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">standaardsegmenten</a>?</li>
+<li>Is er een segmentatie voor het verhandelbare publiek? Als dat niet het geval is, kunt u er een maken.</li></td>
   </tr>
  </tbody> 
 </table>
