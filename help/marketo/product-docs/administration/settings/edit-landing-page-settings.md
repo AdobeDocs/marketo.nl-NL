@@ -4,9 +4,9 @@ description: Instellingen voor openingspagina bewerken - Marketo Docs - Productd
 title: Instellingen openingspagina bewerken
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. In de **[!UICONTROL Landing Pages]** sectie, klikt u op **[!UICONTROL Edit]**.
+1. In de **[!UICONTROL Landing Pages]** sectie, klikken **[!UICONTROL Edit]**.
 
    ![](assets/edit-landing-page-settings-3.png)
 
@@ -45,10 +45,6 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
 
    ![](assets/edit-landing-page-settings-5.png)
 
-1. Als u wilt voorkomen dat een kwaadaardige site uw inhoud lijkt te hosten, controleert u de **[!UICONTROL Do not allow Marketo pages to be embedded in external web pages]** selectievakje.
-
-   ![](assets/edit-landing-page-settings-6.png)
-
    >[!NOTE]
    >
    >Als u de voorvoegsel wilt `<script>` -tag wordt weergegeven aan het einde van de `<head>` tag in de code, controleer de **[!UICONTROL Inject Prefill Script at End of Head]** doos. Laat deze optie uitgeschakeld als u deze aan het begin wilt weergeven.
@@ -57,6 +53,6 @@ U kunt de domeinnaam en de fallback-pagina bewerken, het vooraf invullen van het
 
 1. Nadat u de selecties hebt gemaakt, klikt u op **[!UICONTROL Save]**.
 
-   ![](assets/edit-landing-page-settings-7.png)
+   ![](assets/edit-landing-page-settings-6.png)
 
    Geweldig werk! De bestemmingspagina&#39;s hebben nu de juiste informatie en moeten meteen aan het werk gaan.
