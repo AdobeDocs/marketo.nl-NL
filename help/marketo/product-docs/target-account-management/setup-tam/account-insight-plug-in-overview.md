@@ -4,9 +4,9 @@ description: Overzicht van de plug-in Account Insight - Marketo Docs - Productdo
 title: Overzicht van de plug-in Account Insight
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ Account Insight is een Chrome-plug-in die actionable TAM en accountinzichten voo
 
 >[!AVAILABILITY]
 >
->Account Insight is inbegrepen voor alle klanten die zowel TAM als Marketo Sales Insight hebben. Voor klanten die alleen TAM hebben, is Account Insight beschikbaar als een aangeschafte add-on. Elke klant heeft maximaal 250 accountlicenties voor Insight. Neem contact op met je verkoper voor meer informatie. Het is niet beschikbaar voor klanten die geen TAM hebben.
+>* Account Insight is inbegrepen voor alle klanten die zowel TAM als Marketo Sales Insight hebben. Voor klanten die alleen TAM hebben, is Account Insight beschikbaar als een aangeschafte add-on. Elke klant heeft maximaal 250 accountlicenties voor Insight. Neem contact op met je verkoper voor meer informatie. Het is niet beschikbaar voor klanten die geen TAM hebben.
+>
+>* Deze plug-in is niet compatibel met [Identiteitsverificatie Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} op dat moment.
 
 >[!CAUTION]
 >
@@ -37,7 +39,7 @@ Klik op de naam van een account als u details voor een account met een naam wilt
 
 ![](assets/na3.png)
 
-...en wordt het overzicht weergegeven.
+...en het overzicht wordt weergegeven.
 
 ![](assets/na4.png)
 
@@ -53,7 +55,7 @@ Klik op de naam van een persoon...
 
 ![](assets/na7.png)
 
-...en hun activiteiten te zien.
+...en hun activiteiten bekijken.
 
 ![](assets/na8.png)
 
@@ -75,7 +77,7 @@ Klik op de knop **Filter** vervolgkeuzelijst om te filteren op verschillende soo
 
 ![](assets/af2.png)
 
-Er kan op verschillende items worden geklikt. Klik op het account met de naam om de details weer te geven. Klik op de naam van de gebruiker om zijn of haar activiteit te bekijken. Klik op Meer activiteiten om meer activiteiten weer te geven.
+Er kan op verschillende items worden geklikt. Klik op de benoemde account om de details weer te geven. Klik op de naam van de gebruiker om zijn of haar activiteit te bekijken. Klik op Meer activiteiten om meer activiteiten weer te geven.
 
 ![](assets/af3.png)
 

@@ -3,9 +3,9 @@ description: Overnemen Doc 2 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: cc87ecb8d3245734ec0ce984eeccf742833a85d2
+source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -40,13 +40,13 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
   <tr> 
    <td>Marketing opgeschort</td> 
-   <td><li>Welke criteria hanteert u voor het in de handel brengen? Zijn er te veel mensen die op de markt zijn, geschorst?</li>
+   <td><li>Wat zijn uw criteria voor <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing opgeschort</a>? Zijn er te veel mensen die op de markt zijn, geschorst?</li>
 <li>Hoe lang zijn de gegevens nog in de handel geschorst?</li>
 <p>Voorbeeld van geschorste gebruikssituaties bij het in de handel brengen: records die actief betrokken zijn bij de verkoop in de late fase, waarvoor u marketingberichten wilt onderdrukken.</td>
   </tr>
    <tr> 
    <td>Lijst van gewezen personen</td> 
-   <td><li>Wat zijn uw criteria voor Lijst van gewezen personen? Zijn er te veel mensen die gevoegd op lijst van gewenste personen zijn?</li></td>
+   <td><li>Wat zijn uw criteria voor <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">voegende op lijst van gewenste personen records</a>? Zijn er te veel mensen die gevoegd op lijst van gewenste personen zijn?</li></td>
   </tr>
   <tr> 
    <td>Verzonden e-mailadressen</td> 
@@ -54,11 +54,11 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
   <tr> 
    <td>Mogelijke duplicaten</td> 
-   <td><li>Hoeveel potentieel gedupliceerde verslagen zijn er? Overweeg deze te verwijderen of samen te voegen.</li></td>
+   <td><li>Hoeveel <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">mogelijk dubbele records</a> is dat zo ? Overweeg deze te verwijderen of samen te voegen.</li></td>
   </tr>
    <tr> 
    <td>Geen overnameprogramma</td> 
-   <td><li>Hoeveel mensen hebben geen overnameprogramma? Als er veel zijn, denk na onderzoek waarom.</li></td>
+   <td><li>Hoeveel mensen hebben geen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">overnameprogramma</a>? Als er veel zijn, denk na onderzoek waarom.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -75,7 +75,7 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <td>Slimme lijsten groeperen</td> 
    <td><li>Welke groep slimme lijsten zijn er? Hoe worden ze in dit geval gebruikt?</li>
 <li>Zijn de lijsten georganiseerd in een samenhangende omslagstructuur? Als u lijsten met wezen hebt, kunt u uw structuur ordenen, zodat elementen gemakkelijk te vinden zijn.</li>
-<p>Tip: archiveer slimme lijsten van groepen die niet meer nodig zijn voor het opvragen, rapporteren of verwijzen naar hulp bij organisatie en prestaties.</td>
+<p>Tip: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archief</a> slimme lijsten groeperen die niet meer nodig zijn voor het opvragen, rapporteren of verwijzen naar hulp bij organisatie en prestaties.</td>
   </tr>
  </tbody> 
 </table>
