@@ -3,16 +3,16 @@ description: Overzicht - Marketo Docs - Productdocumentatie
 title: Overzicht
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '434'
 ht-degree: 0%
 
 ---
 
 # Overzicht {#overview}
 
-Welkom bij de Adobe Marketo Engage Modern UX (gebruikerservaring), een bijgewerkte interface die verbeterde bruikbaarheid en een nieuwe look and feel biedt op het hele Marketo Engage-platform.
+Welkom bij de Adobe Marketo Engage Modern UX (gebruikerservaring), een bijgewerkte interface die verbeterde bruikbaarheid en een nieuwe look and feel biedt op het hele Marketo Engage.
 
 >[!PREREQUISITES]
 >
@@ -22,19 +22,11 @@ Welkom bij de Adobe Marketo Engage Modern UX (gebruikerservaring), een bijgewerk
 >* *.marketodesigner.com
 >* *.mktoweb.com
 
-## Neem de rondleiding {#take-the-tour}
-
-Bij de eerste aanmelding wordt een pop-up weergegeven die u de nieuwe ervaring kan geven. Hoofden omhoog, als u verkiest het over te slaan, zal het **niet** later beschikbaar zijn.
-
-![](assets/overview-1.png)
-
-De tour leidt je door alles wat je moet weten!
-
 ## Nieuwe functies {#whats-new}
 
 Er is veel nieuwe functionaliteit in de Moderne UX, die allen wordt ontworpen om uw marketing ervaring beduidend te verbeteren.
 
-**Pictogrammen**
+**pictogrammen**
 
 De nieuwe interfaceeigenschappen verbeteren en breidden iconografie uit. Meer informatie hierover vindt u hier: [Woordenlijst met pictogrammen](/help/marketo/product-docs/marketo-engage-modern-ux/icon-glossary.md).
 
@@ -42,11 +34,11 @@ De nieuwe interfaceeigenschappen verbeteren en breidden iconografie uit. Meer in
 
 **Algemene navigatie**
 
-Tot ziens superbal. U hebt nu snel toegang tot alle belangrijkste Marketo Engage-secties.
+Tot ziens superbal. U hebt nu snel toegang tot alle belangrijkste secties van het Marketo Engage.
 
 ![](assets/overview-5.png)
 
-**Instantie-URL**
+**Instance-URL**
 
 U hebt ook snel toegang tot uw insteekmodule-id, die nu wordt weergegeven in de URL van uw exemplaar (nog nuttiger voor gebruikers met meerdere abonnementen).
 
@@ -195,7 +187,7 @@ Kijk eens naar de nieuwe Global Nav.
   </tr>
   <tr>
    <td>4</td> 
-   <td>Globale zoekopdracht - u kunt nu uw volledige exemplaar van hier zoeken</td> 
+   <td>Globale zoekopdracht - u kunt nu uw volledige exemplaar van hier doorzoeken</td> 
   </tr>
  </tbody>
 </table>
@@ -208,4 +200,4 @@ Kijk eens naar de nieuwe Global Nav.
 >
 >Het gebruiken van het onderzoek in de boom zal slechts resultaten van de sectie opleveren u in bent (b.v., de Activiteiten van de Marketing). Gebruik de algemene zoekopdracht als u de hele zoekopdracht wilt doorzoeken.
 
-Geniet van de nieuwe Marketo Engage-beleving!
+Geniet van de nieuwe Marketo Engage beleving!
