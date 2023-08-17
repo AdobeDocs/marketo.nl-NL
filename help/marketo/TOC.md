@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: cb45578229c50300840660fc2a5629341ecfa98e
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
 source-wordcount: '9012'
 ht-degree: 0%
@@ -173,14 +173,14 @@ ht-degree: 0%
          + [Metagegevens van aangepast object exporteren](product-docs/administration/marketo-custom-objects/custom-object-metadata-export.md)
       + Marketo met Adobe-id {#marketo-with-adobe-identity}
          + [Snelle gids](product-docs/administration/marketo-with-adobe-identity/quick-guide.md)
-         + [Adobe Identity Management - Overzicht](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
+         + [Overzicht van Adobe Identity Management](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Beheerdersinstellingen](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Productbeheerinstellingen](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
          + [Alleen API-gebruiker toevoegen voor door Adobe IMS ingeschakelde abonnementen](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
          + [Een productbeheerder toevoegen of verwijderen](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
          + [Een gebruiker toevoegen of verwijderen](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [Veelgestelde vragen](product-docs/administration/marketo-with-adobe-identity/faq.md)
-         + [Migreren naar Adobe-identiteit](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
+         + [Migreren naar Adobe-id](product-docs/administration/marketo-with-adobe-identity/migrating-to-adobe-identity.md)
          + [Aanmelden door gebruiker bij Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
          + [Marketo-abonnement en gebruikersmigratie naar de Adobe Admin Console begrijpen](product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
       + Instellingen {#settings}
@@ -240,7 +240,7 @@ ht-degree: 0%
          + [Segmenten delen over werkruimten en partities](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
    + Adobe Experience Cloud-integratie {#adobe-experience-cloud-integrations}
       + [Overzicht Adobe Experience Cloud-integratie](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
-      + [Adobe-organisatietoewijzing instellen](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
+      + [Toewijzing organisatie Adobe instellen](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Een publiek synchroniseren vanuit Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Middelen importeren met Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
       + [Overzicht Adobe Experience Cloud Interface](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
@@ -403,7 +403,7 @@ ht-degree: 0%
             + [Periode-kosten in een programma gebruiken](product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
          + Programmabibliotheek {#program-library}
             + [Overzicht van programma-importbibliotheek](product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md)
-            + [Voorbeeld van een inhoudsbeheerprogramma](product-docs/core-marketo-concepts/programs/program-library/content-management-program-example.md)
+            + [Voorbeeld van goedkeuringsbeheerprogramma](product-docs/core-marketo-concepts/programs/program-library/consent-management-program-example.md)
          + Programmaprestatierapport {#program-performance-report}
             + [Een voortgangsrapport voor het programma maken](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [De Kolommen van de Status van het Programma aan een Rapport van het Programma toevoegen](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
@@ -962,7 +962,7 @@ ht-degree: 0%
          + [Abonnement begrijpen](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [Gebruik uw specifieke IP Adressen om E-mail te verzenden](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
          + Inbox-beheer {#inbox-tracker}
-            + [Tutorials van Postvak In](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
+            + [Tutorials voor InBox-beheer](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
       + Drip Nurturturturturing {#drip-nurturing}
          + Een betrokkenheidsprogramma maken {#creating-an-engagement-program}
             + [Een stream toevoegen](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
@@ -1699,7 +1699,7 @@ ht-degree: 0%
             + [Bekeken de Pagina&#39;s van het Web, het Rapport van de Activiteit van de Web-pagina](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + E-mailinzichten {#email-insights}
          + [Overzicht van e-mailinzichten](product-docs/reporting/email-insights/email-insights-overview.md)
-         + [Aangepaste Dimension voor e-mailinzichten](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
+         + [Aangepaste Dimensionen voor e-mailinzichten](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
          + [Overzicht van e-mailinzichten](product-docs/reporting/email-insights/email-insights-analytics-overview.md)
          + [Veelgestelde vragen over e-mail](product-docs/reporting/email-insights/email-insights-faq.md)
          + [E-mailinzichten, snelle grafieken](product-docs/reporting/email-insights/email-insights-quick-charts.md)
@@ -1760,7 +1760,7 @@ ht-degree: 0%
             + [Indelingsmodellen](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
             + [Opbrengstmodelstatussen gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
             + [Opbrengstmodelinventarisatiestadia gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-            + [SLA-stadia van inkomstenmodel gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+            + [SLA-fasen van inkomstenmodel gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
             + [Overgangen met inkomstenmodellen gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
             + [De Padanalyse met succes gebruiken](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
          + Ontdekkingsreiziger voor inkomsten {#revenue-explorer}
@@ -1826,7 +1826,7 @@ ht-degree: 0%
          + [TAM Report Setup](product-docs/target-account-management/measure/tam-report-setup.md)
          + [TAM-verkooprapport](product-docs/target-account-management/measure/tam-sales-report.md)
          + [Accountlijstinzichten](product-docs/target-account-management/measure/account-list-insights.md)
-         + [Dimension van benoemde account in RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
+         + [Dimension Benoemd account in RCA](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [Benoemde accountgegevens](product-docs/target-account-management/measure/named-account-insights.md)
          + [Persoonlijke gegevens gebruiken](product-docs/target-account-management/using-personas.md)
       + Accountprofielen {#account-profiling}
@@ -1863,7 +1863,7 @@ ht-degree: 0%
          + Web Analytics Integrations {#web-analytics-integrations}
             + [Aangepaste RTP-dashboards in Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-dashboards-in-google-universal-analytics.md)
             + [Aangepaste RTP-rapporten in Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/custom-rtp-reports-in-google-universal-analytics.md)
-            + [Integreer RTP met Google Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
+            + [Integreer RTP met Googles Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
             + [RTP integreren met Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Integreren met Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
       + Werken met webpersonalisatie {#understanding-web-personalization}

@@ -3,9 +3,9 @@ description: Overnemen Doc 3 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '833'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr> 
   <tr> 
    <td>Tokens</td> 
-   <td><li>Worden tokens gebruikt in regelmatig gebruikte programmatypen? KG - DUBBELE CONTROLE BETEKENT ZO niet, zou u moeten overwegen hen te gebruiken om efficiency te verhogen.</li>
+   <td><li>Worden tokens gebruikt in uw het meest meestal gebruikte programmatypen? Als dat niet het geval is, kunt u deze beter gebruiken om de efficiëntie te verhogen.</li>
 <li>Zijn er algemene maptokens als tokens zijn geïmplementeerd? Hoe worden ze gebruikt?</li></td>
   </tr>
   <tr> 
