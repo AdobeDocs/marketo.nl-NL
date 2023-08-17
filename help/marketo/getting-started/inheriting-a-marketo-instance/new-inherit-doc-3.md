@@ -3,9 +3,9 @@ description: Overnemen Doc 3 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 4f833625421d7977d5aa8f59e13221a1946163f2
+source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
   <tr> 
    <td>Programma's</td> 
-   <td><li>Is er een Centrum van Uitmuntendheid met programmamalplaatjes? Zo ja, hebben de programmasjablonen zin voor de gebruiksgevallen van de teams?</li>
+   <td><li>KG - IS DIT NOG RELEVANT Is er een <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Excellentiecentrum</a> met programmasjablonen? Zo ja, hebben de programmasjablonen zin voor de gebruiksgevallen van de teams?</li>
 <li>Zijn vergelijkbare programmatypen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">consistent gestructureerd</a>?</li>
 <li>zijn <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">tijdskosten</a> op de rails zetten?</li>
 <li>Zijn alle programma's <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">gesynchroniseerd met SFDC-campagnes</a> (indien van toepassing)?</li>
@@ -44,19 +44,19 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
   <tr> 
    <td>Archief</td> 
-   <td><li>Zijn oudere programma's gearchiveerd? De beste praktijk is om elk jaar een evaluatie uit te voeren.</li>
+   <td><li>Zijn oudere programma's <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">gearchiveerd</a>? De beste praktijk is om elk jaar een evaluatie uit te voeren.</li>
 <li>Hoe vaak controleert en archiveert uw bedrijf oude programma's?</li></td>
   </tr>
   <tr> 
    <td>Meldingen</td> 
-   <td><li>Zijn er campagnerefouten in het lusje van Berichten bij de bovenkant van uw geval?</li>
-<li>Bent u geabonneerd op meldingen om op eventuele fouten in de toekomst te blijven?</li></td>
+   <td><li>Zijn er campagnerefouten in de <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md" target="_blank">Tabblad Meldingen</a> bovenaan in uw exemplaar?</li>
+<li>Bent u <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md#subscribe-to-notifications" target="_blank">geabonneerd op meldingen</a> om de fouten die zich in de toekomst kunnen voordoen, te boven te blijven?</li></td>
   </tr>
   <tr> 
    <td>Abonnementen slimme lijsten 
    <br/>(Marketingactiviteiten/Abonnementen tabblad)</td> 
-   <td><li>Zijn er doorlopende smartlist-abonnementen in uw exemplaar? Zo ja, wie gaan ze dan doen?</li>
-<li>Overweeg het instellen van abonnementen voor slimme lijsten om naar een teamalias te gaan in plaats van naar een individu. Dit geldt voor het geval dat mensen op vakantie zijn of vertrekken.</li></td>
+   <td><li>Zijn er nog <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Abonnementen voor slimme lijsten</a> in jouw geval? Zo ja, wie gaan ze dan doen?</li>
+<p>Tip: denk na plaatsend de Slimme abonnementen van de Lijst om naar een teamalias eerder dan een individu te gaan. Dit geldt voor het geval dat mensen op vakantie zijn of vertrekken.</td>
   </tr>
  </tbody> 
 </table>
@@ -71,40 +71,40 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr> 
   <tr> 
    <td>Tokens</td> 
-   <td><li>Worden tokens gebruikt in regelmatig gebruikte programmatypen? Als dat niet het geval is, kunt u deze beter gebruiken om de efficiëntie te verhogen.</li>
+   <td><li>Worden tokens gebruikt in regelmatig gebruikte programmatypen? KG - DUBBELE CONTROLE BETEKENT ZO niet, zou u moeten overwegen hen te gebruiken om efficiency te verhogen.</li>
 <li>Zijn er algemene maptokens als tokens zijn geïmplementeerd? Hoe worden ze gebruikt?</li></td>
   </tr>
   <tr> 
    <td>Betrokkenheidsprogramma's</td> 
-   <td><li>Bestaan er programma's voor rechtstreekse verzorging?</li>
-<li>Hoeveel mensen zijn uitgeput? Als er veel uitgeputte mensen zijn, kunt u overwegen inhoud toe te voegen.</li>
-<li>Houden mensen zich bezig met de inhoud van de verpleegkunde? Als dat niet het geval is, kunt u overwegen de inhoud en/of A/B-tests bij te werken.</li>
-<li>Hoeveel mensen bevinden zich in meer dan één betrokkenheidsprogramma? Moeten ze zich in meerdere kolommen bevinden?</li></td>
+   <td><li>Zijn er live? <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Betrokkenheidsprogramma's</a> lopen?</li>
+<li>Hoeveel <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">mensen zijn uitgeput</a>? Als er veel uitgeputte mensen zijn, kunt u overwegen inhoud toe te voegen.</li>
+<li>Houden mensen zich bezig met de inhoud? Zo niet, dan is het wellicht de bedoeling het bij te werken en/of A/B-tests.</li>
+<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">Hoeveel mensen</a> KG - IS ER EEN MANIER OM ALLE PROGRAMMA'S ÉÉN KEER TE ZIEN? DENK JE DAT NIET, MAAR ZORG ERVOOR DAT je in meerdere betrokkenheidsprogramma's zit? Moeten ze zich in meerdere kolommen bevinden?</li></td>
   </tr>
   <tr> 
    <td>Batchcampagnes</td> 
-   <td><li>Hoeveel terugkerende Batch-campagnes zijn er?</li>
+   <td><li>Hoeveel terugkerend <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign" target="_blank">Batchcampagnes</a> is dat zo ?</li>
 <li>Moet een van deze worden gedeactiveerd/gearchiveerd?</li></td>
   </tr>
    <tr> 
    <td>Trigger-campagnes</td> 
-   <td><li>Hoeveel triggercampagnes zijn er?</li>
+   <td><li>Hoeveel <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#trigger-campaign" target="_blank">Trigger-campagnes</a> is dat zo ?</li>
 <li>Moet een van deze worden gedeactiveerd/gearchiveerd?</li>
 <li>Moeten de triggercampagnes worden gewijzigd in Batchcampagnes om de efficiëntie van de verwerking te verbeteren?</li></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Lokale Forms</td> 
-   <td><li>Hoeveel programma's hebben lokale formulieren? Moeten deze vormen worden omgezet in mondiale vormen?</li>
+   <td><li>Hoeveel programma's hebben lokale <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulieren</a>? Moeten deze vormen worden omgezet in mondiale vormen?</li>
 <li>Vangsten zij aangewezen gegevens voor uw Marketing en teams van de Verkoop?</li>
 <p>Tip: Beperk het aantal lokale formulieren om het bijwerken en aanpassen aan wijzigingen in de privacy van gegevens, het opt-in- of opt-out-beleid te vereenvoudigen? Houd er bij het maken van een formulier rekening mee welke vragen moeten worden gesteld als de verzamelde informatie niet verandert en de geavanceerde formulierfunctionaliteit niet verschuift. Overweeg een globaal formulier in plaats van een lokaal formulier.</td>
   </tr>
   <tr> 
    <td>Global Forms</td> 
-   <td><li>Waar gebruikt u globale formulieren? (Marketo-bestemmingspagina's versus niet-Marketo-bestemmingspagina's)</li>
-<li>Hoe wijzen uw globale formulieren gebruikers naar een pagina voor bedankt? (via verborgen formulierveld of binnen de sjabloon van uw CMS-pagina)</li>
+   <td><li>Waar gebruikt u <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">globale formulieren</a>? (Marketo-bestemmingspagina's versus niet-Marketo-bestemmingspagina's)</li>
+<li>Hoe wijzen uw globale formulieren gebruikers naar een <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">bedankt pagina</a>? (via verborgen formulierveld of binnen de sjabloon van uw CMS-pagina)</li>
 <li>Zijn er formuliervelden die u wilt toevoegen of verwijderen?</li>
 <li>Zijn er keuzelijstwaarden die u moet wijzigen?</li>
-<li>Moet u progressieve profilering overwegen?</li>
+<li>Moet u overwegen <a href="/help/marketo/product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md" target="_blank">progressieve profielen</a>?</li>
 <li>Zijn alle vereiste velden voor CRM-synchronisatie en uw marketingbehoeften opgenomen?</li>
 <li>Houd uw wereldwijde formulieren rekening met uw privacy van gegevens en wettelijke vereisten voor aanmeldingsstrategie en -beheer?</li></td>
   </tr>
@@ -121,25 +121,25 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr> 
   <tr> 
    <td>Persoonsscore</td> 
-   <td><li>Hebt u een gecentraliseerd programma voor het scoren van personen?</li>
+   <td><li>Hebt u een gecentraliseerde <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">persoonlijke scores</a> programma is ingesteld?</li>
 <li>Vergroot of verlaagt uw persoon scoring?</li></td>
   </tr>
   <tr> 
    <td>Bron persoon</td> 
    <td><li>Hebt u een gecentraliseerd programma dat waarden toewijst aan de gebieden van de persoonbron?</li>
-<p>Opmerking: Marketo Engage verzamelt automatisch gegevens in een veld Bron, ongeacht de operationele programma's</td>
+<p>Opmerking: Marketo Engage verzamelt automatisch gegevens in een veld Bron, ongeacht de operationele programma's.</td>
   </tr>
   <tr> 
    <td>Gegevensstandaardisering</td> 
-   <td><li>Hebt u een gecentraliseerd programma om binnenkomende gegevens te standaardiseren?</li></td>
+   <td><li>Hebt u een gecentraliseerd programma om binnenkomende gegevens te standaardiseren? KG - DOUBLECHECK</li></td>
   </tr>
   <tr> 
    <td>Stuitbeheer</td> 
-   <td><li>Heb je een gecentraliseerd programma om te gaan met mensen die stuiteren?</li></td>
+   <td><li>Hebt u een gecentraliseerd programma om te behandelen <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">mensen die stuiteren</a>? KG - IS DIT ARTIKEL VAN 2017 NOG RELEVANT?</li></td>
   </tr>
   <tr> 
    <td>Privacy en naleving</td> 
-   <td><li>Hebt u programma's om ervoor te zorgen u met de privacy van gegevens en spamwetten verenigbaar bent? Denk aan GDPR, CASL, CAN-SPAM, CCPA, enz.</li>
+   <td><li>Hebt u programma's om ervoor te zorgen u met de privacy van gegevens en spamwetten verenigbaar bent? Overweeg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA, enz.</li>
 <p>Tip: vergeet niet altijd uw juridische team te raadplegen over deze kwesties. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
   </tr>
   <tr> 
@@ -149,17 +149,17 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
   <tr> 
    <td>E-maillevering</td> 
-   <td><li>Trek een E-mailprestatierapport voor verzenden in de afgelopen paar maanden. Hoe ziet de e-maillevering eruit?</li>
-<li>Als de e-mailleverbaarheid slecht is, kunt u de best practices voor e-maillevering, zoals SPF en DKIM, onderzoeken en implementeren.</li>
+   <td><li>Trek een <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">E-mailprestatierapport</a> voor verzendingen in de afgelopen maanden. Hoe ziet de e-maillevering eruit?</li>
+<li>Als de e-mailleverbaarheid slecht is, kunt u best best practices voor e-mailleverantie, zoals <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF en DKIM</a>.</li>
 <li>Spreekt u uit aan uw volledige verhandelbare publiek?</li></td>
   </tr>
   <tr> 
    <td>Abonnement/Preferentiecentrum</td> 
-   <td><li>Hebt u een Subscription/Preference Center ingesteld? Werkt het zoals het zou moeten?</li></td>
+   <td><li>Heeft u een <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Abonnement/Preferentiecentrum</a> instellen? Werkt het zoals het zou moeten?</li></td>
   </tr>
   <tr> 
    <td>Interesserende momenten (indien van toepassing)</td> 
-   <td><li>Hebt u een programma of stroomstappen in programma's om Interesten Momenten naar Salesforce op de juiste wijze te verzenden?</li></td>
+   <td><li>Hebt u een programma of stroomstappen in programma's om te verzenden <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md" target="_blank">Interesserende momenten</a> naar Salesforce toe?</li></td>
   </tr>
  </tbody> 
 </table>
