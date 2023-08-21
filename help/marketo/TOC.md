@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: b5cd0192eefab83bca047094de42eede479c755a
 workflow-type: tm+mt
-source-wordcount: '9021'
+source-wordcount: '9027'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ ht-degree: 0%
       + [Een bestemmingspagina omleiden](getting-started/quick-wins/redirect-a-landing-page.md)
       + [Een waarschuwing automatiseren voor mogelijke dubbele personen](getting-started/quick-wins/advanced-solutions/automate-an-alert-for-possible-duplicate-people.md)
    + Een Marketo-instantie overnemen {#inheriting-a-marketo-instance}
+      + [Nieuw overzicht Overnemen](getting-started/inheriting-a-marketo-instance/new-inherit-overview.md)
       + [Help! Ik heb een bestaande Marketo-instantie overgenomen](getting-started/inheriting-a-marketo-instance/help-ive-inherited-an-existing-marketo-instance.md)
       + [Te controleren items](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Te beoordelen dingen: kernvaardigheden](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
@@ -46,6 +47,7 @@ ht-degree: 0%
       + [Nieuwe overerving Doc 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
       + [Nieuwe overname Doc 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
       + [Nieuwe overname Doc 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+      + [Nieuwe overname Doc 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
 + Productdocumenten {#product-docs}
    + Aanvullende apps {#additional-apps}
       + SEO {#seo}
