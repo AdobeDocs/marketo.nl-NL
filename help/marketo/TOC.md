@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
 workflow-type: tm+mt
-source-wordcount: '9012'
+source-wordcount: '9021'
 ht-degree: 0%
 
 ---
@@ -43,6 +43,9 @@ ht-degree: 0%
       + [Te beoordelen dingen: kernvaardigheden](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Manieren om hulp te krijgen](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
       + [Nieuw Overnemen Doc 1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+      + [Nieuwe overerving Doc 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+      + [Nieuwe overname Doc 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+      + [Nieuwe overname Doc 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
 + Productdocumenten {#product-docs}
    + Aanvullende apps {#additional-apps}
       + SEO {#seo}

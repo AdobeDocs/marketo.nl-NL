@@ -3,9 +3,9 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
 workflow-type: tm+mt
-source-wordcount: '1206'
+source-wordcount: '1223'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,8 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr>
   <tr> 
    <td>Sandbox (indien van toepassing)</td> 
-   <td><li>Heeft u een <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox-instantie</a>? Als dat het geval is, bekijkt u de bovenstaande categorieën voor uw sandbox.</li>
+   <td><li>Heeft u een <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox-instantie</a>? 
+   <br/>Als dat het geval is, bekijkt u de bovenstaande categorieën voor uw sandbox.</li>
 <li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Programma importeren</a> gekoppeld aan uw sandbox?</li></td>
   </tr>
  </tbody> 
@@ -110,8 +111,8 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr> 
   <tr> 
    <td>Instellingen voor slimme campagne</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Hebt u een beperking?</a> op grootte van slimme campagne?</li>
-<li>Als dat niet het geval is, kunt u er een toevoegen. We raden u aan om de limieten van slimme campagnes te beperken tot 25% van uw database om overcommunicatie te voorkomen of om uw gehele database in workflows te verwerken. Dit beschermt niet alleen uw merk maar helpt de prestaties van uw instantie te beschermen.</li></td>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Hebt u een beperking?</a> op grootte van slimme campagne? 
+   <br/>Als dat niet het geval is, kunt u er een toevoegen. We raden u aan om de limiet van slimme campagnes te beperken tot 25% van uw database om overcommunicatie te voorkomen of om uw gehele database in workflows te verwerken. Dit beschermt niet alleen uw merk, maar helpt ook de prestaties van uw instantie te beschermen. KG - IS DIT NAUWKEURIG?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -127,7 +128,7 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   <tr> 
    <td>Communicatielimieten</td> 
    <td><li>Zijn er <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">communicatielimieten</a> op zijn plaats? Heeft uw bedrijf beleid waar de communicatie grenzen noodzakelijk zouden kunnen zijn?</li>
-<li>Adobe raadt aan uw communicatie te beperken tot 1 per dag en 3 per 7 dagen, met <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operationeel</a> e-mailberichten geblokkeerd.</li></td>
+<p>Opmerking: de Adobe raadt u aan uw communicatie te beperken tot 1 per dag en 3 per 7 dagen, met <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operationeel</a> e-mailberichten geblokkeerd. KG - IS DIT NAUWKEURIG?</td>
   </tr>
  </tbody> 
 </table>
@@ -171,19 +172,23 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr> 
   <tr> 
    <td>Veldbeheer</td> 
-   <td><li>Hoeveel velden zijn er? Klikken <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Veldnamen exporteren</a> om een lijst met uw velden, aangepaste velden en hun API-namen te bekijken.</li>
+   <td><li>Hoeveel velden zijn er? 
+   <br/>Klikken <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Veldnamen exporteren</a> om een lijst met uw velden, aangepaste velden en hun API-namen te bekijken.</li>
 <li>Hoeveel <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">aangepaste velden</a> is dat zo ?</li>
-<li>Hoeveel velden worden gebruikt? Selecteren <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exporteren gebruikt door</a> in de vervolgkeuzelijst Veldhandelingen om de gerelateerde elementen van een veld te controleren.</li>
+<li>Hoeveel velden worden gebruikt? 
+<br/>Selecteren <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exporteren gebruikt door</a> in de vervolgkeuzelijst Veldhandelingen om de gerelateerde elementen van een veld te controleren.</li>
 <li>Hoeveel worden er gesynchroniseerd tussen Marketo Engage en uw CRM?</li>
 <li>Worden CRM-velden gesynchroniseerd met de desbetreffende objecten?</li>
 <li>Is er een <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">aangepaste weergaveset</a> voor details van de persoon? Moet dat?</li>
-<li>Hebt u een naamgevingsconventie voor uw velden op basis van de bron? Zo niet, dan kunt u overwegen dit te implementeren.</li>
-<li>Zijn er velden? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">geblokkeerd</a>? Zorg ervoor dat je begrijpt waarom ze zijn.</li></td>
+<li>Hebt u een naamgevingsconventie voor uw velden op basis van de bron? 
+<br/>Zo niet, dan kunt u overwegen dit te implementeren.</li>
+<li>Zijn er velden? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">geblokkeerd</a>? 
+<br/>Zorg ervoor dat je begrijpt waarom ze zijn.</li></td>
   </tr>
   <tr> 
    <td>Aangepaste activiteiten</td> 
    <td><li>Zijn er <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">aangepaste activiteiten</a>?</li>
-<li>Als dat het geval is, klikt u erop om te begrijpen welke activiteiten niet gerelateerd zijn aan een Marketo-formulier, e-mail of landingspagina.</li></td>
+<br/>Als dat het geval is, klikt u erop om te begrijpen welke activiteiten niet gerelateerd zijn aan een Marketo-formulier, e-mail of landingspagina.</td>
   </tr>
   <tr> 
    <td>Aangepaste objecten</td> 
@@ -205,7 +210,8 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
    <td>CRM</td> 
    <td><li>Met welke CRM synchroniseert u? Salesforce? MS Dynamics? Veeva?</li>
 <li>Is de aangepaste synchronisatie of bidirectionele synchronisatie? (KG: GRAMMAR CORRIGEREN EN BELANG CONTROLEREN)</li>
-<li>[Alleen Salesforce] Heeft uw instantie aangepaste synchronisatiefilters geïmplementeerd? Neem contact op met Marketo Support om Aangepaste synchronisatiefilters te identificeren of om een aangepaste synchronisatieregel te vragen.</li></td>
+<li>[Alleen Salesforce] Heeft uw instantie aangepaste synchronisatiefilters geïmplementeerd? 
+<p>Opmerking: neem contact op met de Marketo-ondersteuning om Aangepaste synchronisatiefilters te identificeren of om een aangepaste synchronisatieregel te vragen.</li></td>
   </tr>
   <tr> 
    <td>Landingspagina's</td> 
@@ -216,25 +222,28 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
 <li>zijn <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">gepersonaliseerde URL's</a> ingeschakeld?</li>
 <li>Zijn er regels ingesteld voor <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">omleiding</a>?</li>
 <li>Hebt u domeinaliassen op zijn plaats? Volgt u door documentatie hoe u uw domeinaliassen gebruikt?</li>
-<li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Beveiligde domeinen voor aanlandingspagina's</a> ingeschakeld? Bevestig of uw landingspagina-elementen een 'http'-URL bevatten.</li></td>
+<li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Beveiligde domeinen voor aanlandingspagina's</a> ingeschakeld? 
+<br/>Bevestig of uw landingspagina-elementen een 'http'-URL bevatten.</li></td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
    <td><li>Is uw <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-trackingcode</a> op uw website (Niet in Marketo)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Niet bijhouden</a> Browserverzoek ingeschakeld?</li>
-<li>Is uw <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> geconfigureerd? Als u documentatie mist over waar de code van de munchkin op uw website is, begin met een snelle mening door het "Rapport van de Analyse van het Web"in basis "Analytics"te gebruiken om te begrijpen waar de code Munchkin over uw website wordt geplaatst.</li></td>
+<li>Is uw <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> geconfigureerd? 
+<p>Tip: als u documentatie mist over waar de code van de munchkin op uw website staat, begin met een snelle mening door het "Rapport van de Analyse van het Web"in basis "Analytics"te gebruiken om te begrijpen waar de code Munchkin over uw website wordt geplaatst. KG - IS DIT EEN GOEDE TIP</li></td>
   </tr>
   <tr> 
    <td>Webservices</td> 
    <td><li>zijn <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-beperkingen</a> ingeschakeld? Moeten ze dat zijn?</li>
 <li>Welke gebruikers/apps maken API-aanroepen in uw exemplaar?</li>
-<li>Raakt u of bijna aan het bereiken van uw API grens? Als dat het geval is, kunt u overwegen het te verhogen of uw instantie te controleren om die API-aanroepen omlaag te brengen.</li></td>
+<li>Raakt u of bijna aan het bereiken van uw API grens? 
+<br/>Als dat het geval is, kunt u overwegen het te verhogen of uw instantie te controleren om die API-aanroepen omlaag te brengen.</li></td>
   </tr>
   <tr> 
    <td>Marketo Sales Insight (indien van toepassing)</td> 
    <td><li>heeft de <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-pakket geïnstalleerd</a>?</li>
 <li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">bijgewerkt naar de nieuwste versie van Sales Insight</a>?</li>
-<li>Hebt u de configuratie van het Inzicht van de Verkoop voltooid? Enterprise/Onbeperkte gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klik hier</a>, professionele gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klik hier</a>.</li>
+<li>Hebt u de configuratie van het Inzicht van de Verkoop voltooid? <br/>Enterprise/Onbeperkte gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klik hier</a>, professionele gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klik hier</a>.</li>
 <li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">toegang krijgen tot uw gebruikers</a> op basis van het aantal licenties dat u hebt aangeschaft?</li></td>
   </tr>
   <tr> 
@@ -272,7 +281,7 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   <tr> 
    <td>Campagne-controle</td> 
    <td><li>Is <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Campagne-controle</a> ingeschakeld?</li>
-<li>Als dat niet het geval is, kunt u het inschakelen om gemakkelijk te bepalen welke campagnes actief zijn, synchroniseren met uw CRM en/of records verwijderen.</li></td>
+<br/>Als dat niet het geval is, kunt u het inschakelen om gemakkelijk te kunnen zien welke campagnes actief zijn, synchroniseren met uw CRM en/of records verwijderen.</td>
   </tr>
  </tbody> 
 </table>
