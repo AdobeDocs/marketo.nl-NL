@@ -3,9 +3,9 @@ description: Overnemen Doc 3 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 6ced5418f33086cb5607a3b91c21dd5de3e14be8
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,8 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
   <tr> 
    <td>Programma's</td> 
-   <td><li>KG - IS DIT NOG RELEVANT Is er een <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Excellentiecentrum</a> met programmasjablonen? Zo ja, hebben de programmasjablonen zin voor de gebruiksgevallen van de teams?</li>
+   <td><li>KG - IS DIT NOG RELEVANT Is er een <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Excellentiecentrum</a> met programmasjablonen? 
+   <br/>Zo ja, hebben de programmasjablonen zin voor de gebruiksgevallen van de teams?</li>
 <li>Zijn vergelijkbare programmatypen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">consistent gestructureerd</a>?</li>
 <li>zijn <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">tijdskosten</a> op de rails zetten?</li>
 <li>Zijn alle programma's <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">gesynchroniseerd met SFDC-campagnes</a> (indien van toepassing)?</li>
@@ -44,7 +45,8 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
   <tr> 
    <td>Archief</td> 
-   <td><li>Zijn oudere programma's <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">gearchiveerd</a>? De beste praktijk is om elk jaar een evaluatie uit te voeren.</li>
+   <td><li>Zijn oudere programma's <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">gearchiveerd</a>? 
+   <br/>De beste praktijk is om elk jaar een evaluatie uit te voeren. KG - IS DIT WAAR</li>
 <li>Hoe vaak controleert en archiveert uw bedrijf oude programma's?</li></td>
   </tr>
   <tr> 
@@ -56,7 +58,7 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <td>Abonnementen slimme lijsten 
    <br/>(Marketingactiviteiten/Abonnementen tabblad)</td> 
    <td><li>Zijn er nog <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Abonnementen voor slimme lijsten</a> in jouw geval? Zo ja, wie gaan ze dan doen?</li>
-<p>Tip: denk na plaatsend de Slimme abonnementen van de Lijst om naar een teamalias eerder dan een individu te gaan. Dit geldt voor het geval dat mensen op vakantie zijn of vertrekken.</td>
+<p>Tip: denk na plaatsend de Slimme abonnementen van de Lijst om naar een teamalias eerder dan een individu te gaan. Dit geldt voor het geval dat individuen het kantoor verlaten.</td>
   </tr>
  </tbody> 
 </table>
@@ -71,14 +73,17 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr> 
   <tr> 
    <td>Tokens</td> 
-   <td><li>Worden tokens gebruikt in uw het meest meestal gebruikte programmatypen? Als dat niet het geval is, kunt u deze beter gebruiken om de efficiëntie te verhogen.</li>
+   <td><li>Worden tokens gebruikt in uw het meest meestal gebruikte programmatypen? 
+   <br/>Als dat niet het geval is, kunt u deze beter gebruiken om de efficiëntie te verhogen.</li>
 <li>Zijn er algemene maptokens als tokens zijn geïmplementeerd? Hoe worden ze gebruikt?</li></td>
   </tr>
   <tr> 
    <td>Betrokkenheidsprogramma's</td> 
    <td><li>Zijn er live? <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Betrokkenheidsprogramma's</a> lopen?</li>
-<li>Hoeveel <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">mensen zijn uitgeput</a>? Als er veel uitgeputte mensen zijn, kunt u overwegen inhoud toe te voegen.</li>
-<li>Houden mensen zich bezig met de inhoud? Zo niet, dan is het wellicht de bedoeling het bij te werken en/of A/B-tests.</li>
+<li>Hoeveel <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">mensen zijn uitgeput</a>? 
+<br/>Als er veel uitgeputte mensen zijn, kunt u overwegen inhoud toe te voegen.</li>
+<li>Houden mensen zich bezig met de inhoud? 
+<br/>Zo niet, dan is het wellicht de bedoeling het bij te werken en/of A/B-tests.</li>
 <li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">Hoeveel mensen</a> KG - IS ER EEN MANIER OM ALLE PROGRAMMA'S ÉÉN KEER TE ZIEN? DENK JE DAT NIET, MAAR ZORG ERVOOR DAT je in meerdere betrokkenheidsprogramma's zit? Moeten ze zich in meerdere kolommen bevinden?</li></td>
   </tr>
   <tr> 
@@ -96,16 +101,16 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <td>Lokale Forms</td> 
    <td><li>Hoeveel programma's hebben lokale <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulieren</a>? Moeten deze vormen worden omgezet in mondiale vormen?</li>
 <li>Vangsten zij aangewezen gegevens voor uw Marketing en teams van de Verkoop?</li>
-<p>Tip: Beperk het aantal lokale formulieren om het bijwerken en aanpassen aan wijzigingen in de privacy van gegevens, het opt-in- of opt-out-beleid te vereenvoudigen? Houd er bij het maken van een formulier rekening mee welke vragen moeten worden gesteld als de verzamelde informatie niet verandert en de geavanceerde formulierfunctionaliteit niet verschuift. Overweeg een globaal formulier in plaats van een lokaal formulier.</td>
+<p>Tip: Beperk het aantal lokale formulieren om het bijwerken en aanpassen aan wijzigingen in de privacy van gegevens en het opt-in-/opt-out-beleid te vereenvoudigen. Welke vragen moeten worden gesteld wanneer u een formulier maakt? Als de verzamelde informatie niet verandert en de geavanceerde vormfunctionaliteit niet verschuift, overweeg een globaal vorm in plaats van een lokale vorm. KG - VERIFIEER DIT</td>
   </tr>
   <tr> 
    <td>Global Forms</td> 
-   <td><li>Waar gebruikt u <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">globale formulieren</a>? (Marketo-bestemmingspagina's versus niet-Marketo-bestemmingspagina's)</li>
-<li>Hoe wijzen uw globale formulieren gebruikers naar een <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">bedankt pagina</a>? (via verborgen formulierveld of binnen de sjabloon van uw CMS-pagina)</li>
+   <td><li>Waar gebruikt u <a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">globale formulieren</a>? (Marketo Engage landingspagina's versus niet-Marketo Engage landingspagina's)</li>
+<li>Hoe wijzen uw globale formulieren gebruikers naar een <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">bedankt pagina</a> (via verborgen formulierveld of binnen de sjabloon van uw CMS-pagina)?</li>
 <li>Zijn er formuliervelden die u wilt toevoegen of verwijderen?</li>
 <li>Zijn er keuzelijstwaarden die u moet wijzigen?</li>
 <li>Moet u overwegen <a href="/help/marketo/product-docs/demand-generation/forms/form-actions/configure-form-progressive-profiling.md" target="_blank">progressieve profielen</a>?</li>
-<li>Zijn alle vereiste velden voor CRM-synchronisatie en uw marketingbehoeften opgenomen?</li>
+<li>Zijn alle vereiste velden voor CRM-synchronisatie en marketingbehoeften opgenomen?</li>
 <li>Houd uw wereldwijde formulieren rekening met uw privacy van gegevens en wettelijke vereisten voor aanmeldingsstrategie en -beheer?</li></td>
   </tr>
  </tbody> 
@@ -127,7 +132,7 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   <tr> 
    <td>Bron persoon</td> 
    <td><li>Hebt u een gecentraliseerd programma dat waarden toewijst aan de gebieden van de persoonbron?</li>
-<p>Opmerking: Marketo Engage verzamelt automatisch gegevens in een veld Bron, ongeacht de operationele programma's.</td>
+<p>Opmerking: Marketo Engage verzamelt automatisch gegevens in een bronveld, ongeacht de operationele programma's.</td>
   </tr>
   <tr> 
    <td>Gegevensstandaardisering</td> 
@@ -139,13 +144,14 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
   <tr> 
    <td>Privacy en naleving</td> 
-   <td><li>Hebt u programma's om ervoor te zorgen u met de privacy van gegevens en spamwetten verenigbaar bent? Overweeg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA, enz.</li>
+   <td><li>Hebt u programma's om ervoor te zorgen u met de privacy van gegevens en spamwetten verenigbaar bent? 
+   <br/>Overweeg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA, enz.</li>
 <p>Tip: vergeet niet altijd uw juridische team te raadplegen over deze kwesties. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
   </tr>
   <tr> 
    <td>Levenscyclus</td> 
    <td><li>Hebt u een programma om mensen door uw persoonlijke levenscyclus te bewegen?</li>
-<li>Welke waarden zijn beschikbaar voor Personen Status?</li></td>
+<li>Welke waarden zijn beschikbaar voor de status van de persoon?</li></td>
   </tr>
   <tr> 
    <td>E-maillevering</td> 

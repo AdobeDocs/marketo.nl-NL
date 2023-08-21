@@ -3,7 +3,7 @@ description: Overnemen Doc 2 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -30,7 +30,8 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <td>Alle personen</td> 
    <td><li>Hoeveel mensen bestaan er in de <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">database</a>?</li>
 <li>Als uw gegevensbestand bijna volledig is, adviseert uw bedrijfbeleid dat u uw gegevensbestandgrootte uitbreidt of historische gegevens schoonmaakt?</li>
-<li>Is uw algemene gegevensbestand minstens 85% verhandelbaar? Als u onder deze drempelwaarde valt, bekijkt u de andere slimme systeemlijsten (Lijst van gewezen personen, Marketing opgeschort, Duplicaten, Unsubscribe) met meer controle.</li></td>
+<li>Is uw algemene gegevensbestand minstens 85% verhandelbaar? 
+<br/>Als u onder deze drempelwaarde valt, bekijkt u de andere slimme systeemlijsten (Lijst van gewezen personen, Marketing opgeschort, Duplicaten, Unsubscribe) met meer controle.</li></td>
   </tr>
   <tr> 
    <td>Mensen zonder abonnement</td> 
@@ -40,9 +41,9 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
   <tr> 
    <td>Marketing opgeschort</td> 
-   <td><li>Wat zijn uw criteria voor <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing opgeschort</a>? Zijn er te veel mensen die op de markt zijn, geschorst?</li>
-<li>Hoe lang zijn de gegevens nog in de handel geschorst?</li>
-<p>Voorbeeld van geschorste gebruikssituaties bij het in de handel brengen: records die actief betrokken zijn bij de verkoop in de late fase, waarvoor u marketingberichten wilt onderdrukken.</td>
+   <td><li>Wat zijn uw criteria voor <a href="/help/marketo/product-docs/email-marketing/deliverability/durable-unsubscribe.md#marketing-suspended" target="_blank">Marketing opgeschort</a>? Zijn er teveel mensen die op de markt worden gebracht opgeschort?</li>
+<li>Hoe lang zijn er nog gegevens bewaard in de status van geschorste handelsvergunning?</li>
+<p>Voorbeeld van een gebruiksgeval met schorsing van de marketing: verslagen die actief betrokken zijn bij verkoop in laat stadium kansen die u marketing mededelingen voor wilt onderdrukken.</td>
   </tr>
    <tr> 
    <td>Lijst van gewezen personen</td> 
@@ -54,11 +55,13 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
   <tr> 
    <td>Mogelijke duplicaten</td> 
-   <td><li>Hoeveel <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">mogelijk dubbele records</a> is dat zo ? Overweeg deze te verwijderen of samen te voegen.</li></td>
+   <td><li>Hoeveel <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">mogelijk dubbele records</a> is dat zo ?
+   <br/>Overweeg deze te verwijderen of samen te voegen.</li></td>
   </tr>
    <tr> 
    <td>Geen overnameprogramma</td> 
-   <td><li>Hoeveel mensen hebben geen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">overnameprogramma</a>? Als er veel zijn, denk na onderzoek waarom.</li></td>
+   <td><li>Hoeveel mensen hebben geen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">overnameprogramma</a>?
+   <br/>Als er veel zijn, denk na onderzoek waarom.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -73,9 +76,9 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr> 
   <tr> 
    <td>Slimme lijsten groeperen</td> 
-   <td><li>Welke groep slimme lijsten zijn er? Hoe worden ze in dit geval gebruikt?</li>
-<li>Zijn de lijsten georganiseerd in een samenhangende omslagstructuur? Als u lijsten met wezen hebt, kunt u uw structuur ordenen, zodat elementen gemakkelijk te vinden zijn.</li>
-<p>Tip: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archief</a> slimme lijsten groeperen die niet meer nodig zijn voor het opvragen, rapporteren of verwijzen naar hulp bij organisatie en prestaties.</td>
+   <td><li>Welke groep Slimme Lijsten zijn er? Hoe worden ze in dit geval gebruikt?</li>
+<li>Zijn de lijsten georganiseerd in een samenhangende omslagstructuur? <br/>Als u lijsten met wezen hebt, kunt u uw structuur ordenen, zodat elementen gemakkelijk te vinden zijn.</li>
+<p>Tip: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archief</a> groepeer Slimme Lijsten die niet meer voor het vragen, het melden, of verwijzing met organisatie en prestaties nodig zijn.</td>
   </tr>
  </tbody> 
 </table>
@@ -108,7 +111,8 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <td>Segmentaties</td> 
    <td><li>Welke <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentaties</a> is dat zo ? Hoe worden ze gebruikt?</li>
 <li>Zijn er te veel mensen in <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">standaardsegmenten</a>?</li>
-<li>Is er een segmentatie voor het verhandelbare publiek? Als dat niet het geval is, kunt u er een maken.</li></td>
+<li>Is er een segmentatie voor het verhandelbare publiek? 
+<br/>Als dat niet het geval is, kunt u er een maken.</li></td>
   </tr>
  </tbody> 
 </table>

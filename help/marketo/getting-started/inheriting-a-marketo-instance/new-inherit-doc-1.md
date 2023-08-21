@@ -3,7 +3,7 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 5602a0a771127a341a4c269739aca6e2a4e78d40
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '1223'
 ht-degree: 0%
@@ -55,7 +55,7 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr>
   <tr> 
    <td>Sandbox (indien van toepassing)</td> 
-   <td><li>Heeft u een <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox-instantie</a>? 
+   <td><li>Heeft u een <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox-instantie</a>?
    <br/>Als dat het geval is, bekijkt u de bovenstaande categorieën voor uw sandbox.</li>
 <li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Programma importeren</a> gekoppeld aan uw sandbox?</li></td>
   </tr>
@@ -187,8 +187,8 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr>
   <tr> 
    <td>Aangepaste activiteiten</td> 
-   <td><li>Zijn er <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">aangepaste activiteiten</a>?</li>
-<br/>Als dat het geval is, klikt u erop om te begrijpen welke activiteiten niet gerelateerd zijn aan een Marketo-formulier, e-mail of landingspagina.</td>
+   <td><li>Zijn er <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">aangepaste activiteiten</a>?
+<br/>Als dat het geval is, klikt u erop om te begrijpen welke activiteiten niet gerelateerd zijn aan een Marketo-formulier, e-mail of landingspagina.</li></td>
   </tr>
   <tr> 
    <td>Aangepaste objecten</td> 
@@ -280,8 +280,8 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr>
   <tr> 
    <td>Campagne-controle</td> 
-   <td><li>Is <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Campagne-controle</a> ingeschakeld?</li>
-<br/>Als dat niet het geval is, kunt u het inschakelen om gemakkelijk te kunnen zien welke campagnes actief zijn, synchroniseren met uw CRM en/of records verwijderen.</td>
+   <td><li>Is <a href="/help/marketo/product-docs/administration/settings/campaign-inspector.md" target="_blank">Campagne-controle</a> ingeschakeld?
+<br/>Als dat niet het geval is, kunt u het inschakelen om gemakkelijk te kunnen zien welke campagnes actief zijn, synchroniseren met uw CRM en/of records verwijderen.</li></td>
   </tr>
  </tbody> 
 </table>

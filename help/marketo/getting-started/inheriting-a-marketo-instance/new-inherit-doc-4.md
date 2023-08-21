@@ -3,7 +3,7 @@ description: Overnemen Doc 4 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 4
 hide: true
 hidefromtoc: true
-source-git-commit: 75aa1f6c5f7d0c193787978a18900441aa9a8b82
+source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
 workflow-type: tm+mt
 source-wordcount: '419'
 ht-degree: 0%
@@ -64,7 +64,8 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
   <tr> 
    <td>Privacy en naleving</td> 
-   <td><li>Is uw formulierstrategie in overeenstemming met uw privacy en aanmeldingsvereisten voor bedrijfsgegevens? Overweeg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Algemene verordening inzake gegevensbescherming (GDPR)</a>, CASL (Canada's Anti-Spam Law), the Control the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), etc. voor de naleving van de regelgeving.</li>
+   <td><li>Is uw formulierstrategie in overeenstemming met uw privacy en aanmeldingsvereisten voor bedrijfsgegevens? 
+   <br/>Overweeg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Algemene verordening inzake gegevensbescherming (GDPR)</a>, CASL (Canada's Anti-Spam Act), de Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), California Consumer Privacy Act (CCPA), enz., voor naleving van de regelgeving.</li>
 <p>Tip: vergeet niet altijd uw juridische team te raadplegen over deze kwesties. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
   </tr>
  </tbody> 
@@ -104,7 +105,8 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr> 
   <tr> 
    <td>Fragmenten</td> 
-   <td><li>Hoeveel <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">fragmenten</a> is dat zo ? Worden ze gebruikt? Als dat niet het geval is, kunt u ze gebruiken voor <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> en <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">landingspagina</a> voettekstinhoud, logo's en meer.</li></td>
+   <td><li>Hoeveel <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">fragmenten</a> is dat zo ? Worden ze gebruikt? 
+   <br/>Als dat niet het geval is, kunt u ze gebruiken voor <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">email</a> en <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Openingspagina</a> voettekstinhoud, logo's en meer.</li></td>
   </tr>
  </tbody> 
 </table>
