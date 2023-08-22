@@ -4,9 +4,9 @@ description: Marketo Sales Insight in Salesforce Enterprise/Unlimited - Marketo 
 title: Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -91,7 +91,7 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. Klikken **Visuale pagina&#39;s** links. Slepen **Sectie** naar de lay-out onder de sectie Aangepaste koppelingen.
+1. Klikken **Visuale pagina&#39;s** links. Slepen **Sectie** naar de layout onder de sectie Aangepaste koppelingen.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
@@ -99,7 +99,7 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
-1. Slepen en neerzetten **Lood** in de nieuwe sectie.
+1. Slepen en slepen **Lood** in de nieuwe sectie.
 
    ![](assets/image2014-9-24-17-3a33-3a45.png)
 
@@ -147,10 +147,10 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
       <td>Type laatst interessant moment</td> 
      </tr> 
      <tr> 
-      <td>Laatste Marketo-activiteit door verkoop</td> 
+      <td>Laatste activiteit per verkoop</td> 
      </tr> 
      <tr> 
-      <td>Laatste Marketo-betrokkenheid bij verkoop</td> 
+      <td>Laatste betrokkenheid bij verkoop</td> 
      </tr> 
      <tr> 
       <td>MSI-contact-id</td> 

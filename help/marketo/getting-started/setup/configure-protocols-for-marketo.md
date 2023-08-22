@@ -4,7 +4,7 @@ description: Protocollen configureren voor Marketo - Marketo Docs - Productdocum
 title: Protocollen voor Marketo configureren
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
 workflow-type: tm+mt
 source-wordcount: '1024'
 ht-degree: 3%
@@ -27,10 +27,11 @@ Als uw team van IT Webtoegang gebruikend een lijst van gewenste personen beperkt
 * `*.marketodesigner.com`
 * `*.mktoweb.com`
 * `*.experience.adobe.com`
+* `*.adobe.net`
 
-## Stap 1: DNS-records maken voor bestemmingspagina&#39;s en e-mail {#step-create-dns-records-for-landing-pages-and-email}
+## Stap 1: Maak DNS-records voor Landing Pages en e-mail {#step-create-dns-records-for-landing-pages-and-email}
 
-**KoppelingsNAMEN bijhouden**
+**KoppelingsNAAM&#39;s bijhouden**
 
 Uw marketing team zou u twee verzoeken om nieuwe verslagen van CNAME moeten hebben verzonden. De eerste is voor het landen van pagina URLs, zodat de landende pagina&#39;s in URLs verschijnen die uw domein en niet Marketo (de daadwerkelijke gastheer) weerspiegelen. De tweede is voor de trackingkoppelingen die zijn opgenomen in de e-mails die ze van Marketo verzenden.
 
@@ -40,7 +41,7 @@ Voeg de bestemmingspagina CNAME toe die zij u naar uw DNS verslag hebben verzond
 
 * Alias: Enter `[YourLandingPageCNAME]` (verstrekt door marketing)
 * Type: CNAME
-* Wijs aan: Enter `[MunchkinID].mktoweb.com` (verstrekt door marketing)
+* Punt tot: Enter `[MunchkinID].mktoweb.com` (verstrekt door marketing)
 
 `2` **CNAME toevoegen voor koppelingen voor e-mailtracking**
 
@@ -59,7 +60,7 @@ Bijvoorbeeld:
 
 Melden aan uw marketingteam wanneer u dit proces hebt voltooid.
 
-`4` **Contact [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces van levering van een SSL-certificaat te starten.**
+`4` **Contact [Marketo-ondersteuning](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} om het proces van levering van een SSL Certificaat te beginnen.**
 
 Dit proces kan maximaal 3 werkdagen duren.
 
@@ -87,41 +88,41 @@ Voeg deze IP adressen aan uw collectieve lijst van gewenste personen toe:
 
 199.15.212.0/22
 
-Sommige anti-anti-spamsystemen gebruiken het terug-weg van de e-mail gebied in plaats van het IP adres voor het toewijzen. In die gevallen is de beste aanpak lijst van gewenste personen &quot;&#42;.mktomail.com&#39;, aangezien Marketo verscheidene brievenbus subdomain gebruikt. Andere anti-spamsystemen lijst van gewenste personen die op Van adres wordt gebaseerd. In deze situaties, ben zeker om alle verzendende (&#39;van&#39;) domeinen te omvatten die uw groep van de Marketing gebruikt om met mensen/leiders te communiceren.
+Sommige anti-anti-spamsystemen gebruiken het terug-weg van e-mail gebied in plaats van het IP adres voor het toewijzen. In die gevallen is de beste aanpak lijst van gewenste personen &quot;&#42;.mktomail.com&#39;, aangezien Marketo verscheidene brievenbussubdomeinen gebruikt. Andere anti-spamsystemen lijst van gewenste personen die op Van adres wordt gebaseerd. In deze situaties, ben zeker om alle verzendende (&#39;van&#39;) domeinen te omvatten die uw groep van de Marketing gebruikt om met mensen/leiders te communiceren.
 
 >[!NOTE]
 >
 >Postini gebruikt een unieke technologie en vereist voegende op lijst van gewenste personen IP waaiers. Zie [Voegend op lijst van gewenste personen maken met Postini](https://nation.marketo.com/docs/DOC-1066).
 
-## Stap 3: SPF en DKIM instellen {#step-set-up-spf-and-dkim}
+## Stap 3: Opstelling SPF en DKIM {#step-set-up-spf-and-dkim}
 
 Uw marketingteam had u ook DKIM-informatie moeten sturen die u wilt toevoegen aan uw DNS-resourcerecord (ook hieronder vermeld). Volg de stappen om DKIM en SPF met succes te vormen, dan uw marketing team mee te delen dat dit is bijgewerkt.
 
 1. Aan opstelling SPF, voeg de volgende lijn aan onze DNS ingangen toe:
 
    `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   omvatten: mktomail.com ~all
+   include: mktomail.com ~all
 
    Als wij reeds een bestaand SPF- verslag in onze DNS ingang hebben, voeg eenvoudig het volgende aan het toe:\
-   omvatten: mktomail.com
+   include: mktomail.com
 
    CompanyDomain vervangen door het hoofddomein van uw website (bijvoorbeeld: &quot;`(company.com/)`&quot;) en CorpIP met het IP-adres van uw e-mailserver van uw bedrijf (bijvoorbeeld &quot;255.255.255.255&quot;). Als u e-mail van veelvoudige domeinen door Marketo gaat verzenden, zou u uw personeel van IT deze lijn voor elk domein (op één lijn) moeten hebben toevoegen.
 
 1. Voor DKIM, creeer DNS Verslagen van het Middel voor elk domein wij zouden willen opstelling. Hieronder zijn de Verslagen van de Gastheer en de Waarden TXT voor elk domein wij zullen ondertekenen voor:
 
-   `[DKIMDomain1]`: Hostrecord is `[HostRecord1]` en de TXT-waarde is `[TXTValue1]`.
+   `[DKIMDomain1]`: hostrecord is `[HostRecord1]` en de TXT-waarde is `[TXTValue1]`.
 
-   `[DKIMDomain2]`: Hostrecord is `[HostRecord2]` en de TXT-waarde is `[TXTValue2]`.
+   `[DKIMDomain2]`: hostrecord is `[HostRecord2]` en de TXT-waarde is `[TXTValue2]`.
 
    Kopieer de waarden HostRecord en TXTV voor elke DKIMDomain die u hebt ingesteld na het volgen van [instructies hier](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}. Vergeet niet om elk domein in Admin > E-mail > DKIM te verifiëren nadat uw personeel van IT deze stap heeft voltooid.
 
-## Stap 4: MX-records instellen voor uw domein {#step-set-up-mx-records-for-your-domain}
+## Stap 4: Opstelling MX Verslagen voor Uw Domein {#step-set-up-mx-records-for-your-domain}
 
 Met een MX-record kunt u e-mail ontvangen naar het domein waarvan u e-mail verzendt om reacties en auto-responders te verwerken. Als u van uw collectief domein verzendt, hebt u waarschijnlijk reeds gevormd dit. Als niet, kunt u het gewoonlijk plaatsen aan kaart aan het MX verslag van uw collectief domein.
 
 ## Uitgaande IP Adressen {#outbound-ip-addresses}
 
-Een uitgaande verbinding wordt gemaakt door Marketo Engage naar een server op internet namens u. Sommige partners/verkopers u met, of uw eigen organisatie van IT werkt, kunnen lijsten van gewenste personen gebruiken om toegang tot servers te beperken. Als zo, moet u hen van Marketo Engage uitgaande IP adresblokken voorzien om aan hun lijsten van gewenste personen toe te voegen.
+Een uitgaande verbinding wordt gemaakt door het Marketo Engage naar een server op internet namens u. Sommige partners/verkopers u met, of uw eigen organisatie van IT werkt, kunnen lijsten van gewenste personen gebruiken om toegang tot servers te beperken. Als zo, moet u hen van Marketo Engage uitgaande IP adresblokken voorzien om aan hun lijsten van gewenste personen toe te voegen.
 
 **Webhaken**
 
@@ -131,9 +132,9 @@ Marketo Engage [Webhaken](/help/marketo/product-docs/administration/additional-i
 
 Marketo Engage [Salesforce CRM-synchronisatie](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} and [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} zijn integratiemechanismen die uitgaande HTTP- verzoeken aan APIs maken die door uw verkoper van CRM worden gepubliceerd. U moet ervoor zorgen dat uw organisatie van IT om het even welke IP adresblokken hieronder van de toegang tot van uw leverancier APIs van CRM niet blokkeert.
 
-**Marketo Engage Uitgaande IP de Blokken van het Adres**
+**Uitgaande IP van het Marketo Engage Blokken van het Adres**
 
-De volgende lijsten behandelen alle servers van Marketo Engage die uitgaande vraag maken. Gebruik de lijsten hieronder als u om het even welke IP lijst van gewenste personen, server, firewall, toegangsbeheerlijst, veiligheidsgroep, of derdedienst vormt om uitgaande verbindingen van Marketo Engage te ontvangen.
+De volgende lijsten behandelen alle servers van het Marketo Engage die uitgaande vraag maken. Gebruik de lijsten hieronder als u om het even welke IP lijst van gewenste personen, server, firewall, toegangsbeheerlijst, veiligheidsgroep, of derdedienst vormt om uitgaande verbindingen van Marketo Engage te ontvangen.
 
 <table>
  <tbody>
