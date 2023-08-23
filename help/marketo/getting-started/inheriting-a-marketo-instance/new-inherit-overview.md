@@ -3,22 +3,38 @@ description: Leer hoe u een bestaande overgeërfde instantie van een Marketo Eng
 title: Een overgeërfde Marketo Engage-instantie starten
 hide: true
 hidefromtoc: true
-source-git-commit: b5cd0192eefab83bca047094de42eede479c755a
+source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
 
 # Een overgeërfde Marketo Engage-instantie starten {#jumpstart-an-inherited-marketo-engage-instance}
 
-Een nieuwe taak starten of een bestaand exemplaar overnemen van een andere beheerder? Het overnemen van een live instantie die al een tijdje actief is, kan een beetje ontmoedigend lijken, maar deze gids zal helpen.
+Een nieuwe taak starten of een bestaand exemplaar overnemen van een andere beheerder? Het overnemen van een live instantie die al een tijdje actief is, kan een beetje ontmoedigend lijken, maar deze gids zal u helpen op een bepaald moment aan de slag gaan.
 
-Gebruik de Controlelijst van Admin van de Controle van de Controle van de Instantie van het Marketo Engage &quot;om uw instantie te herzien en te testen, fouten problemen op te lossen, en rode vlaggen te onderzoeken alvorens zij een probleem worden.
+## Te controleren items {#items-to-check-off}
+
+Zorg ervoor u behoorlijk opstelling met de juiste soorten toegang en informatie bent.
+
+* Bekijk een kort overzicht van **wat Marketo doet** - KG - BETERE VIDEO OF DELETE ZOEKEN
+
+* **Uw profiel instellen** in de [**Marketing Nation**](https://nation.marketo.com/){target="_blank"} community (gebruikersnaam en wachtwoord vereist).
+
+* Lees de tekst [**Richtlijnen voor marketingcommunity**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+
+* Klikken **[!UICONTROL Your Places]** op het profiel van de Marketo Nation-community voor het uitchecken van de accountpagina van uw bedrijf.
+
+* Leer hoe u [**een steungeval indienen**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+
+* [**Gebruikers beheren**](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md){target="_blank"} en verwijder de personen die uw bedrijf hebben verlaten.
 
 ## Overgenomen Instance Audit Guides {#inherited-instance-audit-guides}
 
-Met de onderstaande online handleidingen kunt u door de verschillende onderdelen van het Marketo Engage navigeren en de verschillende taken uitvoeren die nodig zijn om een audit uit te voeren. De koppelingen naar de aanbevolen Help-documentatie zijn hierbij inbegrepen. U kunt de checklist ook downloaden in spreadsheetvorm.
+De onderstaande checklists zijn samengesteld met input van Marketo Champions om u te helpen snel aan de slag te gaan. Leer hoe u door de verschillende gebieden van het Marketo Engage kunt navigeren en de verschillende taken kunt uitvoeren die vereist zijn om een controle uit te voeren, met koppelingen naar de aanbevolen Help-documentatie inbegrepen.
+
+U kunt de controlelijsten ook downloaden in spreadsheetvorm.
 
 * [Sectie Beheer](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
 
@@ -30,19 +46,14 @@ Met de onderstaande online handleidingen kunt u door de verschillende onderdelen
 
 * [Een document maken van uw overgenomen instantie-instelling](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
 
+## Manieren om hulp te krijgen {#ways-to-get-help}
 
-H2: Ben je nieuw in Marketo Engage? Hier zijn de eerste vereisten:
+Meer hulp nodig? Maak via de onderstaande koppelingen verbinding met ons of andere gebruikers van het Marketo Engage.
 
-Te controleren items
+* Neem voor technische ondersteuning met iets dat niet goed werkt contact op met **[Klantenondersteuning Marketo Engage](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-Te beoordelen dingen: kernvaardigheden
+* Maak verbinding met en leer meer van gebruikers in het Marketo Engage in de **[Marketing Nation](https://nation.marketo.com/){target="_blank"}**.
 
-Manieren om hulp te krijgen
+* Voor praktische hulp bij het optimaal benutten van het Marketo Engage **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
 
-
-
-H2: Inspiratie en verbinding met peers
-
-
-
-Bezoek de Marketing Nation Community om te zien hoe andere beheerders een geërfde instantie efficiënter controleren.
+* Als u uw vaardigheden op het gebied van Marketo&#39;s Engage wilt verbeteren, bladert u naar de **[Catalogus cursus Marketo Engage](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.
