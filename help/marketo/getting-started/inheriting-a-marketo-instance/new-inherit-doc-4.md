@@ -3,20 +3,16 @@ description: Overnemen Doc 4 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 4
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: d7334acc31456b640a128c699d07a6b4af330469
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '506'
 ht-degree: 0%
 
 ---
 
 # Overnemen Doc 4 {#inherit-doc-4}
 
-Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenomen? Als dat het geval is, is dit artikel voor u bestemd.
-
->[!TIP]
->
->Als u een nieuwe (er) gebruiker van het Marketo Engage bent en niet vertrouwd met veel van de termijnen bent, gelieve te controleren [Marketo Verklarende woordenlijst](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldingen en bestanden te maken, worden gegevensfouten tot een minimum beperkt en wordt de workflow van de programmabuild gestroomlijnd.
 
 ## Landingspagina&#39;s {#landing-pages}
 
@@ -35,6 +31,10 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <td><li>Hoeveel <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md" target="_blank">Landingspagina-sjablonen</a> is dat zo ? Worden ze benut?</li></td>
   </tr>
   <tr> 
+   <td>Groepen testen</td> 
+   <td><li>Hoeveel <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md" target="_blank">Testgroepen voor landingspagina</a> zijn ze dat? Zijn ze allemaal nog steeds relevant?</li></td>
+  </tr>
+   <tr> 
    <td>Privacy en naleving</td> 
    <td><li>Beschikken al uw bestemmingspagina's over de juiste voetteksten?</li></td>
   </tr>
@@ -88,6 +88,10 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
    <td><li>Hoeveel <a href="/help/marketo/product-docs/email-marketing/general/email-editor-2/create-an-email-template.md" target="_blank">e-mailsjablonen</a> is dat zo ? Worden ze benut?</li></td>
   </tr>
   <tr> 
+   <td>E-mailtests</td> 
+   <td><li>Hoe gebruikt u <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/understanding-email-testing-options.md" target="_blank">e-mailtests</a>? Is uw methode nog steeds effectief?</li></td>
+  </tr>
+  <tr> 
    <td>Privacy en naleving</td> 
    <td><li>Beschikken al je e-mails over de juiste voetteksten? Denk aan GDPR, CASL, CAN-SPAM, CCPA, enz. voor gevolgen voor de naleving.</li>
 <p>Tip: vergeet niet altijd uw juridische team te raadplegen over deze compatibiliteitsproblemen. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
@@ -135,3 +139,30 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
  </tbody> 
 </table>
+
+## Alle elementen {#all-assets}
+
+<table style="table-layout:auto"> 
+ <tbody> 
+  <tr> 
+   <th>Gebied</th> 
+   <th>Focus controleren</th>
+  </tr> 
+  <tr> 
+   <td>Status van element</td> 
+   <td><li>Hoeveel activa in <i>Concept</i> en <i>Goedgekeurd met concept</i> status?
+   <br/>Als er vele zijn, denk schrappend of goedkeurend hen.</li></td>
+  </tr>
+  <tr> 
+   <td>Delen van middelen</td> 
+   <td><li>Welke activa zijn <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">gedeeld over Werkruimten</a>?</li>
+   <p>Opmerking: het is belangrijk om dit te weten, omdat acties die in één werkruimte worden uitgevoerd, kunnen leiden tot een ontoegankelijk element in een andere werkruimte voor een andere gebruiker.</td>
+  </tr>
+ </tbody> 
+</table>
+
+<br> 
+
+[◄ Audit an Inherated Instance: Marketing Activiteiten](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+
+[Een overgeërfde instantie controleren: uw overgeërfde instantie documenteren ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
