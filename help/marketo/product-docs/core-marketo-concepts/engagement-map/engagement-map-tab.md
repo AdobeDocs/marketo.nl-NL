@@ -2,9 +2,9 @@
 description: Tabblad Betrokkenheid - Marketo-documenten - Productdocumentatie
 title: Tabblad Betrokkenheid
 exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
 workflow-type: tm+mt
-source-wordcount: '902'
+source-wordcount: '949'
 ht-degree: 0%
 
 ---
@@ -122,9 +122,17 @@ Hier is een voorbeeld van een aanvraagcampagne met keuzes.
 
 ## Foutafhandeling {#error-handling}
 
-Fouten in slimme lijsten en Stroomstappen worden gemarkeerd met een foutpictogram op de kaart. Bovendien wordt een bijbehorende foutmelding weergegeven in het deelvenster Uitschuiven.
+Fouten in slimme lijsten en stroomstappen worden gemarkeerd met een rood pictogram op de kaart. Bovendien wordt een bijbehorende foutmelding weergegeven in het deelvenster Uitschuiven.
 
-Hieronder ziet u een voorbeeld van een fout in een trigger die wordt weergegeven in de overzichtkaart van de trigger, het deelvenster Uitschuiven en de gedetailleerde triggerkaart.
+De waarschuwingen in Slimme Lijsten en de Stappen van de Stroom zullen door een oranje pictogram in de kaart worden benadrukt. Bovendien wordt een bijbehorende waarschuwing weergegeven in het deelvenster voor uitschuivingen.
+
+Hieronder ziet u een voorbeeld van een waarschuwing in een Keuzenkaart die u kunt zien in de Stapkaart voor de uitloop van campagne uitvoeren, het deelvenster Uitschuiven en de Standaard-keuzevenkaart.
+
+![](assets/engagement-map-tab-18.png)
+
+>[!NOTE]
+>
+>Waarschuwingen zijn aanbevelingen om te controleren, maar ze zijn niet indicatief voor fouten in de slimme campagne.
 
 **Fouten in filterkaarten kunnen het volgende omvatten:**
 
