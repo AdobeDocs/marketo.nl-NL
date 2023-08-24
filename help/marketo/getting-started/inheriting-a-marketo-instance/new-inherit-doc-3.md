@@ -3,20 +3,16 @@ description: Overnemen Doc 3 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '801'
 ht-degree: 0%
 
 ---
 
 # Overnemen Doc 3 {#inherit-doc-3}
 
-Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenomen? Als dat het geval is, is dit artikel voor u bestemd.
-
->[!TIP]
->
->Als u een nieuwe (er) gebruiker van het Marketo Engage bent en niet vertrouwd met veel van de termijnen bent, gelieve te controleren [Marketo Verklarende woordenlijst](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Met marketingactiviteiten kan uw marketingteam slimme campagnes maken, creatieve middelen maken (bijvoorbeeld e-mails en bestemmingspagina&#39;s) en de prestaties van middelen bekijken.
 
 ## Organisatie {#organization}
 
@@ -45,9 +41,9 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
   <tr> 
    <td>Archief</td> 
-   <td><li>Zijn oudere programma's <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">gearchiveerd</a>? 
-   <br/>De beste praktijk is om elk jaar een evaluatie uit te voeren. KG - IS DIT WAAR</li>
-<li>Hoe vaak controleert en archiveert uw bedrijf oude programma's?</li></td>
+   <td><li>Zijn oudere programma's <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">gearchiveerd</a>?</li>
+<li>Hoe vaak controleert en archiveert uw bedrijf oude programma's?</li>
+<p>Tip: Het is goed om elk jaar een revisie uit te voeren.</td>
   </tr>
   <tr> 
    <td>Meldingen</td> 
@@ -83,8 +79,7 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
 <li>Hoeveel <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">mensen zijn uitgeput</a>? 
 <br/>Als er veel uitgeputte mensen zijn, kunt u overwegen inhoud toe te voegen.</li>
 <li>Houden mensen zich bezig met de inhoud? 
-<br/>Zo niet, dan is het wellicht de bedoeling het bij te werken en/of A/B-tests.</li>
-<li><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/see-members-of-an-engagement-program.md" target="_blank">Hoeveel mensen</a> KG - IS ER EEN MANIER OM ALLE PROGRAMMA'S ÉÉN KEER TE ZIEN? DENK JE DAT NIET, MAAR ZORG ERVOOR DAT je in meerdere betrokkenheidsprogramma's zit? Moeten ze zich in meerdere kolommen bevinden?</li></td>
+<br/>Zo niet, dan is het wellicht de bedoeling het bij te werken en/of A/B-tests.</li></td>
   </tr>
   <tr> 
    <td>Batchcampagnes</td> 
@@ -169,3 +164,9 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄ Audit an Inherated Instance: Database](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+
+[Een overgeërfde instantie controleren: Design Studio ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

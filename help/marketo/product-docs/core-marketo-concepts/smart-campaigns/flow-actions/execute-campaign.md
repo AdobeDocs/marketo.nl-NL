@@ -3,9 +3,9 @@ description: Campagne uitvoeren - Marketo Docs - Productdocumentatie
 title: Campagne uitvoeren
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '708'
+source-wordcount: '709'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Campagne uitvoeren is een verbetering van [Campagne aanvragen](/help/marketo/pro
 
 1. Definieer de slimme lijst en stroom, net als elke andere slimme campagne.
 
-U kunt ook een bestaande slimme campagne klonen. Als u een bestaande uitvoerbare campagne kloont, zult u nog moeten selecteren **Uitvoerbaar** selectievakje na naamgeving.
+U kunt ook een bestaande slimme campagne klonen. Als u een bestaande uitvoerbare campagne kloont, zult u nog moeten selecteren **Uitvoerbaar** Schakel het selectievakje in nadat u het een naam hebt gegeven.
 
 >[!NOTE]
 >
@@ -56,7 +56,7 @@ Wanneer ingesteld op true, worden de volgende token-contexten verzonden naar de 
 * Campagne Tokens
 * Programmatokens
 * Member Tokens
-* [Tokens activeren](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (indien opgeroepen vanuit een geactiveerd programma)
+* [Triggertokens](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (indien opgeroepen vanuit een geactiveerd programma)
 
 **API-interactie**
 
@@ -64,7 +64,7 @@ Bij gebruik van Planning of Request-campagne [in de API](https://developers.mark
 
 ## Notities {#things-to-note}
 
-* De slimme lijst zal uit iedereen filteren die niet kwalificeert. Als een persoon kwalificeert, zal het resulterende Uitvoerde activiteitenverslag van de Campagne hen als &quot;Gekwalificeerd vermelden: TRUE&quot; (en FALSE indien niet)
+* De slimme lijst zal uit iedereen filteren die niet kwalificeert. Als een persoon in aanmerking komt, worden de resulterende uitgevoerde activiteitenverslagen van de Campagne vermeld als &quot;Gekwalificeerd: WAAR&quot; (en FALSE als zij niet)
 * De kwalificatieregels van de Campagne van het programma zijn van toepassing (de Slimme Montages van de Campagne onder het lusje van het Programma)
 * Uitvoerbare campagnes kunnen niet worden aangeroepen in verschillende werkruimten
 * Als u het [Verwijderen uit stroom](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) flowactie die gericht is op een uitvoerbare campagne, richt deze zich op zowel het onderliggende item als het bovenliggende item
@@ -77,7 +77,7 @@ Bij gebruik van Planning of Request-campagne [in de API](https://developers.mark
 
 ## Voorbeeld van overerving van token {#token-inheritance-example}
 
-Hieronder ziet u een visueel voorbeeld van Symbolische Overerving in één Uitvoerbare Campagne en twee oudercampagnes: één met token context ingesteld op **Waar** de andere **Onwaar**.
+Hieronder ziet u een visueel voorbeeld van Overerving token in één uitvoerbare campagne en twee bovenliggende campagnes: één met tokencontext ingesteld op **Waar**, de andere **Onwaar**.
 
 Onderliggende campagne met een verkapte Change Score.
 
@@ -97,13 +97,13 @@ De bovenliggende campagne is My Tokens.
 
 ![](assets/execute-campaign-6.png)
 
-De resultaten: de score is gewijzigd met +10.
+De resultaten: de score is met +10 gewijzigd.
 
 ![](assets/execute-campaign-7.png)
 
 **Voorbeeld twee: Onwaar**
 
-In het filter Campagne uitvoeren van de tweede bovenliggende campagne is de &quot;Context van bovenliggende campagne gebruiken&quot; ingesteld op **Onwaar**.
+In de de stroomstap van de Campagne van de Uitvoeren van de tweede oudercampagne, wordt &quot;de TokenContext van de Campagne van de Ouder van het Gebruik&quot;geplaatst aan **Onwaar**.
 
 ![](assets/execute-campaign-8.png)
 
@@ -111,6 +111,6 @@ De bovenliggende campagne is My Tokens.
 
 ![](assets/execute-campaign-9.png)
 
-De resultaten: de score ongewijzigd blijft, omdat de score van de onderliggende campagne, +0, is gebruikt.
+De resultaten: de score blijft ongewijzigd, omdat de score van de onderliggende campagne, +0, is gebruikt.
 
 ![](assets/execute-campaign-10.png)

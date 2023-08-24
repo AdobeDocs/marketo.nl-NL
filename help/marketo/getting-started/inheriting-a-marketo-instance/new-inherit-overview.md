@@ -3,9 +3,9 @@ description: Leer hoe u een bestaande overgeërfde instantie van een Marketo Eng
 title: Een overgeërfde Marketo Engage-instantie starten
 hide: true
 hidefromtoc: true
-source-git-commit: b449dd568bd382dc9abd1c4f023e09962ac52081
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -55,5 +55,3 @@ Meer hulp nodig? Maak via de onderstaande koppelingen verbinding met ons of ande
 * Maak verbinding met en leer meer van gebruikers in het Marketo Engage in de **[Marketing Nation](https://nation.marketo.com/){target="_blank"}**.
 
 * Voor praktische hulp bij het optimaal benutten van het Marketo Engage **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html)**.
-
-* Als u uw vaardigheden op het gebied van Marketo&#39;s Engage wilt verbeteren, bladert u naar de **[Catalogus cursus Marketo Engage](https://learning.adobe.com/catalog.html?products=Marketo%20Engage){target="_blank"}**.

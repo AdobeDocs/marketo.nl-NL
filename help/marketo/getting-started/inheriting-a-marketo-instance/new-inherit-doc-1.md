@@ -3,20 +3,18 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '1223'
+source-wordcount: '1229'
 ht-degree: 0%
 
 ---
 
 # Overnemen Doc 1 {#inherit-doc-1}
 
-Het controleren van een overgeërfde instantie kan als een...
+Als nieuwe Adobe Marketo Engage-beheerder zijn er verschillende taken die u wilt uitvoeren om de gezondheid en levensvatbaarheid van uw overgeërfde instantie te controleren.
 
-Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenomen? Zo ja, dan is dit artikel voor u...
-
-De onderstaande controlelijst is samen met invoer van Marketo Champions geplaatst om u te helpen snel aan de slag te gaan in uw overgeërfde instantie...
+De onderstaande checklists (de volgende checklists die aan de onderkant van elk artikel zijn gekoppeld) zijn samengesteld met invoer van Marketo Champions om u te helpen snel aan de slag te gaan. Documenteer uw vooruitgang in de Marketo Engage Geërfte Controlelijst van de Instantie.
 
 >[!TIP]
 >
@@ -112,7 +110,7 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   <tr> 
    <td>Instellingen voor slimme campagne</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Hebt u een beperking?</a> op grootte van slimme campagne? 
-   <br/>Als dat niet het geval is, kunt u er een toevoegen. We raden u aan om de limiet van slimme campagnes te beperken tot 25% van uw database om overcommunicatie te voorkomen of om uw gehele database in workflows te verwerken. Dit beschermt niet alleen uw merk, maar helpt ook de prestaties van uw instantie te beschermen. KG - IS DIT NAUWKEURIG?</li></td>
+   <br/>Als dat niet het geval is, kunt u er een toevoegen. We raden u aan de limiet voor slimme campagnes te beperken tot 25% van uw database om overcommunicatie te voorkomen of om uw gehele database in workflows te verwerken. Hierdoor wordt niet alleen uw merk beschermd, maar wordt ook de prestaties van uw instantie beter beveiligd.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -128,7 +126,7 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   <tr> 
    <td>Communicatielimieten</td> 
    <td><li>Zijn er <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">communicatielimieten</a> op zijn plaats? Heeft uw bedrijf beleid waar de communicatie grenzen noodzakelijk zouden kunnen zijn?</li>
-<p>Opmerking: de Adobe raadt u aan uw communicatie te beperken tot 1 per dag en 3 per 7 dagen, met <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operationeel</a> e-mailberichten geblokkeerd. KG - IS DIT NAUWKEURIG?</td>
+<p>Opmerking: de Adobe raadt u aan uw communicatie te beperken tot 1 per dag en 3 per 7 dagen, met <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operationeel</a> e-mailberichten geblokkeerd.</td>
   </tr>
  </tbody> 
 </table>
@@ -209,7 +207,7 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   <tr> 
    <td>CRM</td> 
    <td><li>Met welke CRM synchroniseert u? Salesforce? MS Dynamics? Veeva?</li>
-<li>Is de aangepaste synchronisatie of bidirectionele synchronisatie? (KG: GRAMMAR CORRIGEREN EN BELANG CONTROLEREN)</li>
+<li>Gebruikt u een aangepaste synchronisatie?</li>
 <li>[Alleen Salesforce] Heeft uw instantie aangepaste synchronisatiefilters geïmplementeerd? 
 <p>Opmerking: neem contact op met de Marketo-ondersteuning om Aangepaste synchronisatiefilters te identificeren of om een aangepaste synchronisatieregel te vragen.</li></td>
   </tr>
@@ -313,3 +311,7 @@ De onderstaande controlelijst is samen met invoer van Marketo Champions geplaats
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[Een overgeërfde instantie controleren: Database ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)

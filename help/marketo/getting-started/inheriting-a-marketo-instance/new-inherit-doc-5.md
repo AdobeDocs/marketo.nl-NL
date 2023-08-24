@@ -3,16 +3,16 @@ description: Overnemen Doc 5 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: dcfbd50df5ef642c3c94b96be938a43f30e8288b
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # Overnemen Doc 5 {#inherit-doc-5}
 
-Tekst
+Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gevestigd geval hebt geleerd, is de volgende stap documentatie op uw instantieconfiguratie en technologiestapel tot stand te brengen/bij te werken. Of het creëren van het via spreadsheet of een toepassing van het projectbeheer, uw documentatie is een groot middel om vooruitgang te volgen en details te registreren.
 
 ## Data {#data}
 
@@ -51,7 +51,7 @@ Tekst
   <tr> 
    <td>Organisatie</td> 
     <td><li>Hebt u robuuste documentatie van hoe uw instantie van het Marketo Engage wordt georganiseerd en waarom?</li>
-   <p>Actiepunt: documentatie maken die de mapstructuur, de naamgevingsconventie en de kanalen/standbeelden KG - STATUTES bevat? gebruikt in uw instantie.</td>
+   <p>Item van handeling: maak documentatie die mapstructuur, naamgevingsconventie en in uw instantie gebruikte kanalen bevat.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -69,3 +69,5 @@ Tekst
   </tr>
  </tbody> 
 </table>
+
+[◄ Audit an Inherated Instance: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)

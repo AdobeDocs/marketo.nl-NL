@@ -3,20 +3,16 @@ description: Overnemen Doc 2 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 4b726947bfaf9f8e4dcf48076e1148124fb46d25
+source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
 
 # Overnemen Doc 2 {#inherit-doc-2}
 
-Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenomen? Als dat het geval is, is dit artikel voor u bestemd.
-
->[!TIP]
->
->Als u een nieuwe (er) gebruiker van het Marketo Engage bent en niet vertrouwd met veel van de termijnen bent, gelieve te controleren [Marketo Verklarende woordenlijst](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwervende bronnen in uw abonnement.
 
 ## Slimme systeemlijsten {#system-smart-lists}
 
@@ -116,3 +112,9 @@ Hebt u een bestaande Marketo Engage-instantie van een andere beheerder overgenom
   </tr>
  </tbody> 
 </table>
+
+<br> 
+
+[◄ Audit an Inherated Instance: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+
+[Een overgeërfde instantie controleren: marketingactiviteiten ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
