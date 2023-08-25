@@ -3,9 +3,9 @@ description: Overnemen Doc 3 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -96,7 +96,7 @@ Met marketingactiviteiten kan uw marketingteam slimme campagnes maken, creatieve
    <td>Lokale Forms</td> 
    <td><li>Hoeveel programma's hebben lokale <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulieren</a>? Moeten deze vormen worden omgezet in mondiale vormen?</li>
 <li>Vangsten zij aangewezen gegevens voor uw Marketing en teams van de Verkoop?</li>
-<p>Tip: Beperk het aantal lokale formulieren om het bijwerken en aanpassen aan wijzigingen in de privacy van gegevens en het opt-in-/opt-out-beleid te vereenvoudigen. Welke vragen moeten worden gesteld wanneer u een formulier maakt? Als de verzamelde informatie niet verandert en de geavanceerde vormfunctionaliteit niet verschuift, overweeg een globaal vorm in plaats van een lokale vorm. KG - VERIFIEER DIT</td>
+<p>Tip: Beperk het aantal lokale formulieren om het bijwerken en aanpassen aan wijzigingen in de privacy van gegevens en het opt-in-/opt-out-beleid te vereenvoudigen. Welke vragen moeten worden gesteld bij het maken van een formulier? Als de verzamelde informatie niet verandert en de geavanceerde vormfunctionaliteit niet verschuift, overweeg een globaal vorm in plaats van een lokale vorm.</td>
   </tr>
   <tr> 
    <td>Global Forms</td> 
@@ -131,11 +131,11 @@ Met marketingactiviteiten kan uw marketingteam slimme campagnes maken, creatieve
   </tr>
   <tr> 
    <td>Gegevensstandaardisering</td> 
-   <td><li>Hebt u een gecentraliseerd programma om binnenkomende gegevens te standaardiseren? KG - DOUBLECHECK</li></td>
+   <td><li>Hebt u een gecentraliseerd programma om binnenkomende gegevens te standaardiseren?</li></td>
   </tr>
   <tr> 
    <td>Stuitbeheer</td> 
-   <td><li>Hebt u een gecentraliseerd programma om te behandelen <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">mensen die stuiteren</a>? KG - IS DIT ARTIKEL VAN 2017 NOG RELEVANT?</li></td>
+   <td><li>Hebt u een gecentraliseerd programma om te behandelen <a href="https://nation.marketo.com/t5/product-blogs/data-management-best-practices-resources-for-managing-bounces/ba-p/243512" target="_blank">mensen die stuiteren</a>?</li></td>
   </tr>
   <tr> 
    <td>Privacy en naleving</td> 

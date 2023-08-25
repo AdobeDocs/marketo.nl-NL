@@ -3,9 +3,9 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1209'
 ht-degree: 0%
 
 ---
@@ -126,7 +126,7 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
   <tr> 
    <td>Communicatielimieten</td> 
    <td><li>Zijn er <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">communicatielimieten</a> op zijn plaats? Heeft uw bedrijf beleid waar de communicatie grenzen noodzakelijk zouden kunnen zijn?</li>
-<p>Opmerking: de Adobe raadt u aan uw communicatie te beperken tot 1 per dag en 3 per 7 dagen, met <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operationeel</a> e-mailberichten geblokkeerd.</td>
+<p>Opmerking: we raden u aan uw communicatie te beperken tot 1 per dag en 3 per 7 dagen, met <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operationeel</a> e-mailberichten geblokkeerd.</td>
   </tr>
  </tbody> 
 </table>
@@ -228,7 +228,7 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
    <td><li>Is uw <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-trackingcode</a> op uw website (Niet in Marketo)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Niet bijhouden</a> Browserverzoek ingeschakeld?</li>
 <li>Is uw <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> geconfigureerd? 
-<p>Tip: als u documentatie mist over waar de code van de munchkin op uw website staat, begin met een snelle mening door het "Rapport van de Analyse van het Web"in basis "Analytics"te gebruiken om te begrijpen waar de code Munchkin over uw website wordt geplaatst. KG - IS DIT EEN GOEDE TIP</li></td>
+<p>Tip: als u documentatie mist over de locatie van de code op uw website, kunt u alle URL's weergeven door een <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Rapport over activiteiten op webpagina</a>.</li></td>
   </tr>
   <tr> 
    <td>Webservices</td> 
