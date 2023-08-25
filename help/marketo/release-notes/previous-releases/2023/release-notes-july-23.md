@@ -2,9 +2,9 @@
 description: Opmerkingen bij de release - juli 2023 - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de release - juli 2023
 feature: Release Information
-source-git-commit: 00b5fbef3ba91a84afa9da261cd73b875446e3e0
+source-git-commit: 45e092f7b7e7beeef9712869b62ba4e022c2bf3d
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '664'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 juli. R
 
 >[!AVAILABILITY]
 >
->Kenmerken die door een ster worden aangeduid (![ster](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+>Kenmerken die door een ster worden aangeduid (![ster](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -37,7 +37,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tbody>
 </table>
 
-* **Meldingen - Fout met webservices**: Het bericht van de Fout van de Diensten van het Web omvat nu de abonnementsnaam, die het voor hen gemakkelijker maakt die veelvoudige instanties van Marketo Engage beheren. Er is ook een kolom &quot;Gebruiker&quot; toegevoegd aan de tabel die foutcodes en aantallen bevat, zodat u gemakkelijk kunt zien welke API-gebruiker verantwoordelijk was voor het genereren van een specifieke fout bij het aanroepen van de Marketo REST API.
+* **Meldingen - Fout met webservices**: Het bericht van de Fout van de Diensten van het Web omvat nu de abonnementsnaam, die het voor hen gemakkelijker maakt die veelvoudige instanties van het Marketo Engage beheren. Er is ook een kolom &quot;Gebruiker&quot; toegevoegd aan de tabel die foutcodes en aantallen bevat, zodat u gemakkelijk kunt zien welke API-gebruiker verantwoordelijk was voor het genereren van een specifieke fout bij het aanroepen van de Marketo REST API.
 
 <table> 
   <tr> 
@@ -67,8 +67,8 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td>nvt</td>
   </tr>
   </tbody>
 </table>
@@ -81,8 +81,8 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td>nvt</td>
   </tr>
   </tbody>
 </table>
@@ -177,6 +177,6 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 ## Aankondigingen {#announcements}
 
-* **Upgrade naar Google Analytics 4**: Marketo heeft eerder Universal Analytics ondersteund, die de gegevensregistratie voor 1 juli 2023 zal stopzetten. De gebruikers RTP zullen het migratieproces in hun dashboard van Google Analytics moeten volgen om steun voor de Google Analytics 4 integratie in RTP te voltooien. Gebruikers krijgen een unieke alfanumerieke tag (in het dialoogvenster `<head>` (in het html-gedeelte) op de bestemmingspagina&#39;s, zodat Marketo gegevens naar Google Analytics kan verzenden.
+* **Upgrade naar Googles Analytics 4**: Marketo heeft eerder Universal Analytics ondersteund, die de gegevensregistratie voor 1 juli 2023 zal stopzetten. De gebruikers RTP zullen het migratieproces in hun dashboard van Googles Analytics moeten volgen om steun voor Googles Analytics 4 integratie in RTP te voltooien. Gebruikers krijgen een unieke alfanumerieke tag (in het dialoogvenster `<head>` (in het html-gedeelte) op de bestemmingspagina&#39;s, zodat Marketo gegevens naar Googles Analytics kan verzenden.
 
 * **_Webinar productrelease_**: Sluit u aan bij ons op 6 september 2023, 9:00 uur PT / 12:00 uur ET voor een [levende webinar](https://engage.marketo.com/2023_July_September_Release_Webinar_RegistrationPage.html){target="_blank"} wordt gehost door ons productteam, waar u leert hoe u alle nieuwste productinnovaties kunt gebruiken.

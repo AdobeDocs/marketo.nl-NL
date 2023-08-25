@@ -4,22 +4,22 @@ description: Te controleren items - Marketo-documenten - Productdocumentatie
 title: Te controleren items
 exl-id: fd20fbcf-3690-41da-94fa-b40f32a0b251
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 639409b6322aae0cb74943bc286e30ea36f19131
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 # Te controleren items {#items-to-check-off}
 
-Zorg ervoor u behoorlijk opstelling met de juiste soorten toegang en informatie bent. Voer deze eenvoudige stappen uit zodat u enkele dingen van uw te doen lijst meteen kunt controleren!
+Zorg ervoor u behoorlijk opstelling met de juiste soorten toegang en informatie bent.
 
 * Bekijk een kort overzicht van [**wat Marketo doet**](https://pages2.marketo.com/demoFull.html){target="_blank"}.
 
 * **Uw profiel instellen** in de [**Marketing Nation**](https://nation.marketo.com/){target="_blank"} community (gebruikersnaam en wachtwoord vereist).
 
-* Leer hoe u contact opneemt met de [**Marketing Nation**](https://nation.marketo.com/t5/About-Community/ct-p/about-community){target="_blank"} community om antwoorden te krijgen op je vragen.
+* Lees de tekst [**Richtlijnen voor marketingcommunity**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
 * Klikken **[!UICONTROL Your Places]** op het profiel van de Marketo Nation-community voor het uitchecken van de accountpagina van uw bedrijf.
 
