@@ -1,19 +1,19 @@
 ---
-description: CT-YYYY-MM-Content on Marketo Landing Page - Marketo Docs - Productdocumentatie
-title: CT-YYYY-MM-Content op Marketo Landing Page
+description: EM-YYYY-MM-DD-Single Email Send - Marketo Docs - Productdocumentatie
+title: EM-YYYY-MM-DD-Eén e-mail verzenden
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 0%
+source-wordcount: '290'
+ht-degree: 1%
 
 ---
 
-# CT-YYYY-MM-Content op Marketo Landing Page {#ct-yyyy-mm-content-on-marketo-landing-page}
+# EM-YYYY-MM-DD-Eén e-mail verzenden {#em-yyyy-mm-dd-single-email-send}
 
-Dit voorbeeld is ontworpen als een inhoudsprogramma dat gebruikmaakt van een Marketo Engage Landing Page met een Marketo Engage formulier dat gebruikmaakt van een standaardprogramma voor Marketo&#39;s Engage. Het formulier moet toegang krijgen tot de inhoud/het aanbod. De koppeling naar het aanbod kan worden weergegeven op de pagina Hartelijk dank, in een e-mail met dank of in beide.
+In dit voorbeeld wordt één e-mail verzonden via een Marketo-e-mailprogramma. Het e-mailbericht kan een A/B-test bevatten of niet.
 
 Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Team van de Rekening van de Adobe te contacteren of te bezoeken [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
 
@@ -28,11 +28,11 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    <th>Programmatype</th>
   </tr> 
   <tr> 
-   <td>Webinhoud</td> 
+   <td>E-mail</td> 
    <td>01-Lid 
 <br/>02-Betrokken-Succes</td>
    <td>Inclusief</td>
-   <td>Standaard</td>
+   <td>E-mail</td>
   </tr>
  </tbody> 
 </table>
@@ -52,21 +52,6 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    <td>01-E-mail-Dank u</td>
   </tr>
   <tr> 
-   <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
-   <td>01 - LP - Registratie</td>
-  </tr>
-  <tr> 
-   <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
-   <td>02 - LP - Dank u</td>
-  </tr>
-  <tr> 
-   <td>Formulier</td> 
-   <td> </td>
-   <td>Inhoudsregistratieformulier</td>
-  </tr>
-  <tr> 
    <td>Lokaal rapport</td> 
    <td> </td>
    <td>E-mailprestaties</td>
@@ -74,28 +59,24 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   <tr> 
    <td>Lokaal rapport</td> 
    <td> </td>
-   <td>Prestaties van bestemmingspagina</td>
+   <td>Prestaties van e-mailkoppelingen</td>
   </tr>
+  <tr>
   <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>01-formulier met vulling</td>
-  </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
-   <td> </td>
-   <td>02-Betrokken (succes van programma)</td>
+   <td>01-Betrokken (succes van programma)</td>
   </tr>
   <tr> 
    <td>Map</td> 
    <td> </td>
-   <td>Middelen - alle creatieve middelen onderbrengen 
+   <td>Activa - Houdt alle creatieve activa in huis 
 <br/>(submappen voor e-mail- en bestemmingspagina's)  </td>
   </tr>
   <tr> 
    <td>Map</td> 
    <td> </td>
-   <td>Campagnes - alle slimme campagnes onderbrengen</td>
+   <td>Campagnes - Houdt alle Slimme Campagnes</td>
   </tr>
   <tr> 
    <td>Map</td> 
@@ -115,32 +96,6 @@ SCHERM VAN HET PROGRAMMA
    <th>Type token</th> 
    <th>Tokennaam</th>
    <th>Waarde</th>
-  </tr> 
-  <tr> 
-   <td>RTF</td> 
-   <td><code>{{my.Content-Description}}</code></td>
-   <td>Dubbelklik voor details  
-<br/><code><--My Content Description Here--></code> 
-<br/>Bewerk deze inhoudsbeschrijving op programmaniveau onder het tabblad Mijn tokens. 
-<br/>U leert: 
-<li>Opsommingsteken 1</li>
-<li>Opsommingsteken 2</li>
-<li>Opsommingsteken 3</li></td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Content-Title}}</code></td>
-   <td><code><--My Content Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Content-Type}}</code></td>
-   <td><code><--My Content Type Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Content-URL}}</code></td>
-   <td>my.ContentURL?without=http://</td>
   </tr>
   <tr> 
    <td>Tekst</td> 
@@ -156,11 +111,6 @@ SCHERM VAN HET PROGRAMMA
    <td>Tekst</td> 
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>My.BedanktYouPageURL?zonder de http://</td>
   </tr>
  </tbody> 
 </table>
@@ -187,9 +137,6 @@ SCHERM VAN CONFLICTREGELS
 
 ## Aanbevolen procedures {#best-practices}
 
-* Nadat het inhoudsprogramma is geïmporteerd, verplaatst u het formulier van een lokaal element naar een algemeen element in de Design Studio.
-   * Door het aantal formulieren te verminderen en meer algemene middelen van de Design Studio te gebruiken, kunt u het ontwerp van uw programma en het beheer ervan meer schaalbaar maken. Het biedt ook flexibiliteit bij regelmatige compatibiliteitsupdates voor velden, de taal van de opt-in, enz.
-
 * U kunt overwegen de sjablonen in uw geïmporteerde programma bij te werken om de sjablonen met branding te gebruiken of de nieuw geïmporteerde sjabloon bij te werken naar uw merk door deze toe te voegen in een fragment of door de juiste logo-/voettekstinformatie.
 
 * U kunt overwegen de naamgevingsconventie van dit programmavoorbeeld bij te werken en deze uit te lijnen met uw naamgevingsconventie.
@@ -200,8 +147,4 @@ SCHERM VAN CONFLICTREGELS
 
 >[!TIP]
 >
->Vergeet niet de ‘02-Betrokken&#39; campagne te activeren om succes te volgen! Doe dit _voor_ uw formulier is live en e-mails worden verzonden.
-
->[!IMPORTANT]
->
->Mijn tokens die naar een URL verwijzen, kunnen niet de URL http:// of https:// bevatten anders werkt de koppeling niet correct binnen het element.
+>Vergeet niet de campagne &quot;01-Betrokken&quot; te activeren om succes te volgen! Doe dit _voor_ uw formulier is live en e-mails worden verzonden.
