@@ -4,9 +4,9 @@ description: Marketo Sales Insight in Salesforce Enterprise/Unlimited - Marketo 
 title: Marketo Sales Insight configureren in Salesforce Enterprise/Onbeperkt
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 9d1b18b2aebde00ae715a072580a8f128d07923e
+source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
@@ -80,6 +80,20 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
    >[!NOTE]
    >
    >_U_ kies uw **Externe sitenaam** (MarketoAPI wordt hier gebruikt). De **URL externe site** U vindt dit in het veld Marketo-host van het dialoogvenster API-configuratie bewerken in stap 3 in de sectie &quot;Sales Insight configureren in Marketo&quot;.
+
+## De Toegang van het Profiel van de Gebruikers van het Inzicht van de Verkoop van de Verkoop tot Standaard Salesforce- Voorwerpen {#grant-sales-insight-users-profile-access}
+
+Vanwege verbeteringen in de Saleforce-beveiliging kunnen App Exchange-pakketten geen toestemming meer verlenen voor standaardobjecten en moet toegang worden verleend aan de relevante Salesforce-objecten vanuit het profiel van de Salesforce-gebruiker.  Voer de onderstaande stappen uit om de benodigde machtigingen te verlenen.
+
+1. Klikken **Instellen**.
+
+1. Zoek in Snel zoeken naar &quot;Profielen&quot;.
+
+1. Klikken **Bewerken** naast het profiel dat uw Salesforce-gebruikers gebruiken.
+
+1. Schakel onder de sectie Standaard objectmachtigingen de optie Lezen in voor de volgende objecten: Lead, Contact, Account en Opportunity.
+
+1. Klikken **Opslaan**.
 
 ## Paginalay-outs aanpassen {#customize-page-layouts}
 

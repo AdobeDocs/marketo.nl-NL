@@ -4,9 +4,9 @@ description: Marketo Sales Insight configureren in Salesforce Professional Editi
 title: Marketo Sales Insight configureren in Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c85f544f2c06a2f5bb92d6e7cad5f801e73fdaed
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '962'
 ht-degree: 0%
 
 ---
@@ -78,7 +78,7 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
 
 ## Marketo Sales Insight instellen {#set-up-marketo-sales-insight}
 
-1. Meld u aan bij uw Marketo-exemplaar en klik op **Beheer**.
+1. Meld u aan bij uw Marketo-exemplaar en klik op **Beheerder**.
 
    ![](assets/login-admin-1.png)
 
@@ -122,6 +122,20 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
    >
    >U kiest uw **Externe sitenaam** (MarketoAPI wordt hier gebruikt). De **URL externe site** U vindt deze in stap 4 in het veld Marketo-host van het dialoogvenster API-configuratie bewerken.
 
+## De Toegang van het Profiel van de Gebruikers van het Inzicht van de Verkoop van de Verkoop tot Standaard Salesforce- Voorwerpen {#grant-sales-insight-users-profile-access}
+
+Vanwege verbeteringen in de Saleforce-beveiliging kunnen App Exchange-pakketten geen toestemming meer verlenen voor standaardobjecten en moet toegang worden verleend aan de relevante Salesforce-objecten vanuit het profiel van de Salesforce-gebruiker. Voer de onderstaande stappen uit om de benodigde machtigingen te verlenen.
+
+1. Klikken **Instellen**.
+
+1. Zoek in Snel zoeken naar &quot;Profielen&quot;.
+
+1. Klikken **Bewerken** naast het profiel dat uw Salesforce-gebruikers gebruiken.
+
+1. Schakel onder de sectie Standaard objectmachtigingen de optie Lezen in voor de volgende objecten: Lead, Contact, Account en Opportunity.
+
+1. Klikken **Opslaan**.
+
 ## Paginalay-outs aanpassen {#customize-page-layouts}
 
 1. Klikken **Instellen**.
@@ -132,7 +146,7 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
 
    ![](assets/image2015-5-28-14-3a58-3a39-1.png)
 
-1. Klikken **Visuale pagina&#39;s** links. Slepen **Sectie** naar de lay-out onder de sectie Aangepaste koppelingen.
+1. Klikken **Visuale pagina&#39;s** links. Slepen **Sectie** naar de layout onder de sectie Aangepaste koppelingen.
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
@@ -140,7 +154,7 @@ Hier volgen de stappen die u moet uitvoeren om Marketo Sales Insight in Salesfor
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
-1. Slepen en neerzetten **Lood** in de nieuwe sectie.
+1. Slepen en slepen **Lood** in de nieuwe sectie.
 
    ![](assets/image2014-9-24-17-3a33-3a45.png)
 
@@ -266,7 +280,7 @@ Marketo-persoonvelden moeten worden toegewezen aan Salesforce-contactvelden om e
  </tbody> 
 </table>
 
-1. Klikken **Opslaan** als u klaar bent.
+1. Klikken **Opslaan** als je klaar bent.
 
    ![](assets/image2014-9-24-17-3a37-3a17.png)
 
@@ -274,9 +288,9 @@ Marketo-persoonvelden moeten worden toegewezen aan Salesforce-contactvelden om e
 
 1. Klik in Salesforce op de knop **+** aan het einde van de tabbalk en klik op **Marketo Sales Insight Config**.
 
-1. Kopieer de referenties vanuit het deelvenster Soap API in [Marketo&#39;s pagina Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} en plak ze in de sectie Soap API van de pagina Configuratie van het Inzicht van de Verkoop Salesforce.
+1. Kopieer de referenties vanuit het deelvenster Soap API in [Admin-pagina Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} en plak ze in de sectie Soap API van de pagina Configuratie van het Inzicht van de Verkoop Salesforce.
 
-1. Kopieer de referenties vanuit het deelvenster Rest API in [Marketo&#39;s pagina Sales Insight Admin](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} en plak hen in de Rest API sectie van de pagina van de Configuratie van het Inzicht van de Verkoop Salesforce.
+1. Kopieer de referenties vanuit het deelvenster Rest API in [Admin-pagina Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"} en plak hen in de Rest API sectie van de pagina van de Configuratie van het Inzicht van de Verkoop Salesforce.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
