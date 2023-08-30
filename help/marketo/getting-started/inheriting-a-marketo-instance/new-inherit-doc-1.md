@@ -3,29 +3,59 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: 8d9ea20f04ec6320b31c2d6000240b72a45be959
 workflow-type: tm+mt
-source-wordcount: '1209'
+source-wordcount: '1428'
 ht-degree: 0%
 
 ---
 
 # Overnemen Doc 1 {#inherit-doc-1}
 
-Als nieuwe Adobe Marketo Engage-beheerder zijn er verschillende taken die u wilt uitvoeren om de gezondheid en levensvatbaarheid van uw overgeërfde instantie te controleren.
-
-De onderstaande checklists (de volgende checklists die aan de onderkant van elk artikel zijn gekoppeld) zijn samengesteld met invoer van Marketo Champions om u te helpen snel aan de slag te gaan. Documenteer uw vooruitgang in de Marketo Engage Geërfte Controlelijst van de Instantie.
+De onderstaande checklists (hiernavolgende checklists die aan de onderkant van elk artikel zijn gekoppeld) zijn samengesteld met invoer van Marketo Champions om u te helpen snel aan de slag te gaan. U kunt ook de checklists downloaden en de voortgang volgen.
 
 >[!TIP]
 >
 >Als u een nieuwe (er) gebruiker van het Marketo Engage bent en niet vertrouwd met veel van de termijnen bent, gelieve te controleren [Marketo Verklarende woordenlijst](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
+
+## Adobe Admin Console {#adobe-admin-console}
+
+<table> 
+ <tbody> 
+  <tr> 
+   <th style="width:25%">Gebied</th> 
+   <th>Focus controleren</th>
+  </tr> 
+  <tr> 
+   <td>Abonnement</td> 
+   <td><li>Is uw abonnement op Marketo Engage ingeschakeld <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe Identity Management-systeem</a> (Adobe IMS) al? 
+<br/>
+Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe Admin Console System Admin"? Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer <a href="https://helpx.adobe.com/contact.html" target="_blank">Klantenservice Adoben</a>.  
+<br/>Zo niet, dan gaat u verder met de <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">oudere gebruikersrollen en toestemmingenervaring</a> in Marketo Engage &gt; Beheer &gt; Gebruikers en rollen totdat uw abonnement wordt verlengd.</li></td>
+  </tr>
+  <tr> 
+   <td>Productprofiel</td> 
+   <td>(Abonnementen op Adobe IMS <b>alleen</b>)
+<p>
+<li>Hebt u een "Marketo Engage Product Admin"rol in Marketo Engage/Admin/Gebruikers &amp; Rollen gekregen?</li> 
+<li>Hebt u Marketo Engage toegewezen aan alle relevante gebruikersprofielen in de Adobe Admin Console?
+<br/>Als dat niet het geval is, moet u Marketo Engage toewijzen aan het Adobe IMS-productprofiel voordat u de rollen toewijst aan Marketo Engage/Admin/Users &amp; Roles.</li>
+<p>Opmerking: als uw abonnement meer dan 75 gebruikers heeft en net naar Adobe IMS is gemigreerd, kunt u gebruikers selecteren om in batches te migreren en hun Adobe te beheren Identificeren in groepen of in alle gevallen tegelijk. Meer informatie over wat u kunt verwachten <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS-migratiedag</a>.</td>
+  </tr>
+  <tr> 
+   <td>Gebruikersbeheer-API</td> 
+   <td><li>Heeft uw abonnement Marketo-gebruikersbeheer-API's gebruikt?
+<br/>Als dat het geval is, zult u moeten gebruiken <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API's</a> om gebruikers die zich verder verplaatsen uit te nodigen, bij te werken en te verwijderen.</li></td>
+  </tr>
+ </tbody> 
+</table>
 
 ## Gebruikers en rollen {#users-and-roles}
 
 <table> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:25%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -47,6 +77,10 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
 <li>Zijn uw gebruikersrollen en toestemmingen gericht op uw collectieve gegevens <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">privacybeleid</a>?</li></td>
   </tr>
   <tr> 
+   <td>Ondersteuningsgebruikers</td> 
+   <td><li>Hebt u de juiste instellingen <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">bevoegde contactpersonen</a> in het ondersteuningsportaal?</li></td>
+  </tr>
+  <tr> 
    <td>Interne documentatie</td> 
    <td><li>Zijn de gebruikers en de rollen duidelijk bepaald in uw organisatie?</li>
 <li>Wat is uw procedure voor het toevoegen van een nieuwe gebruiker/beheerder?</li></td>
@@ -54,7 +88,7 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
   <tr> 
    <td>Sandbox (indien van toepassing)</td> 
    <td><li>Heeft u een <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox-instantie</a>?
-   <br/>Als dat het geval is, bekijkt u de bovenstaande categorieën voor uw sandbox.</li>
+   <br/>  Als dat het geval is, bekijkt u de bovenstaande categorieën voor uw sandbox.</li>
 <li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Programma importeren</a> gekoppeld aan uw sandbox?</li></td>
   </tr>
  </tbody> 
@@ -65,7 +99,7 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:25%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -80,21 +114,21 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:25%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
    <td>Werkruimten en partities</td> 
-   <td><li>Hoeveel <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">werkruimten en/of partities</a> heb je dat?</li>
-<li>Wat is het primaire doel van elke werkruimte en verdeling?</li>
+   <td><li>Hoeveel <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" target="_blank">Werkruimten en/of partities</a> heb je dat?</li>
+<li>Wat is het primaire doel van elke Werkruimte en Partitie?</li>
 <li>Voer een van de <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md" target="_blank">Werkruimten</a> of <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md" target="_blank">Partities</a> moet worden gecontroleerd/gewijzigd?</li>
-<li>Wat is het verband tussen uw werkruimten en verdelingen?</li>
+<li>Wat is het verband tussen uw Werkruimten en Verdelingen?</li>
 <li>Hoeveel gebruikers <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md" target="_blank">toegang hebben</a> naar elke werkruimte?</li></td>
   </tr>
   <tr> 
    <td>Interne documentatie</td> 
-   <td><li>Hoe worden werkruimten en partities gedefinieerd?</li>
-<li>Wat is uw proces om werkruimten aan uw instantie toe te voegen of gebruikers aan een werkruimte toe te voegen?</li></td>
+   <td><li>Hoe worden Werkruimten en Partities gedefinieerd?</li>
+<li>Wat is uw proces om Werkruimten aan uw instantie toe te voegen of gebruikers aan een Werkruimte toe te voegen?</li></td>
   </tr>
  </tbody> 
 </table>
@@ -104,7 +138,7 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:25%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -120,7 +154,7 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:25%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -136,7 +170,7 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:25%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -165,7 +199,7 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:25%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -175,13 +209,13 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
 <li>Hoeveel <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">aangepaste velden</a> is dat zo ?</li>
 <li>Hoeveel velden worden gebruikt? 
 <br/>Selecteren <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exporteren gebruikt door</a> in de vervolgkeuzelijst Veldhandelingen om de gerelateerde elementen van een veld te controleren.</li>
-<li>Hoeveel worden er gesynchroniseerd tussen Marketo Engage en uw CRM?</li>
+<li>Hoeveel velden worden gesynchroniseerd tussen Marketo Engage en uw CRM?</li>
 <li>Worden CRM-velden gesynchroniseerd met de desbetreffende objecten?</li>
 <li>Is er een <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">aangepaste weergaveset</a> voor details van de persoon? Moet dat?</li>
 <li>Hebt u een naamgevingsconventie voor uw velden op basis van de bron? 
 <br/>Zo niet, dan kunt u overwegen dit te implementeren.</li>
 <li>Zijn er velden? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">geblokkeerd</a>? 
-<br/>Zorg ervoor dat je begrijpt waarom ze zijn.</li></td>
+<br/>Als dat het geval is, moet u er zeker van zijn dat u begrijpt waarom dat zo is.</li></td>
   </tr>
   <tr> 
    <td>Aangepaste activiteiten</td> 
@@ -201,13 +235,13 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:25%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
    <td>CRM</td> 
    <td><li>Met welke CRM synchroniseert u? Salesforce? MS Dynamics? Veeva?</li>
-<li>Gebruikt u een aangepaste synchronisatie?</li>
+<li>Gebruikt u een <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">aangepaste synchronisatie</a>?</li>
 <li>[Alleen Salesforce] Heeft uw instantie aangepaste synchronisatiefilters geïmplementeerd? 
 <p>Opmerking: neem contact op met de Marketo-ondersteuning om Aangepaste synchronisatiefilters te identificeren of om een aangepaste synchronisatieregel te vragen.</li></td>
   </tr>
@@ -219,7 +253,7 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
 <li>Is het vooraf invullen van het formulier ingeschakeld?</li>
 <li>zijn <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md" target="_blank">gepersonaliseerde URL's</a> ingeschakeld?</li>
 <li>Zijn er regels ingesteld voor <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">omleiding</a>?</li>
-<li>Hebt u domeinaliassen op zijn plaats? Volgt u door documentatie hoe u uw domeinaliassen gebruikt?</li>
+<li>Hebt u domeinaliassen op zijn plaats? Houdt u bij hoe u uw domeinaliassen gebruikt?</li>
 <li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Beveiligde domeinen voor aanlandingspagina's</a> ingeschakeld? 
 <br/>Bevestig of uw landingspagina-elementen een 'http'-URL bevatten.</li></td>
   </tr>
@@ -242,17 +276,18 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
    <td><li>heeft de <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-pakket geïnstalleerd</a>?</li>
 <li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">bijgewerkt naar de nieuwste versie van Sales Insight</a>?</li>
 <li>Hebt u de configuratie van het Inzicht van de Verkoop voltooid? <br/>Enterprise/Onbeperkte gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klik hier</a>, professionele gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klik hier</a>.</li>
-<li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">toegang krijgen tot uw gebruikers</a> op basis van het aantal licenties dat u hebt aangeschaft?</li></td>
+<li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">toegang krijgen tot uw gebruikers</a> op basis van het aantal licenties dat u hebt aangeschaft?</li>
+<li>zijn <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">Sterren en lamellen</a> aangepast?</li></td>
   </tr>
   <tr> 
    <td>Launchpoint (indien van toepassing)</td> 
-   <td><li>Welke diensten hebt u gevormd (bijvoorbeeld, <a href="/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md" target="_blank">Adobe Connect</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md" target="_blank">Zoomen</a>, enz.)? Zijn ze bijna verlopen?</li>
+   <td><li>Welke diensten hebben u gevormd (bijvoorbeeld, <a href="/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md" target="_blank">BrightStor</a>, <a href="/help/marketo/product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md" target="_blank">Zoomen</a>, enz.)? Zijn ze bijna verlopen?</li>
 <li><a href="https://nation.marketo.com/t5/knowledgebase/viewing-your-number-of-api-calls-to-marketo/ta-p/254256" target="_blank">Hoeveel API vraag</a> gebruiken uw integraties?</li>
 <li>Hebt u de juiste integraties voor uw gebruiksgevallen?</li></td>
   </tr>
   <tr> 
    <td>Webhaken (indien van toepassing)</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">Welke verbindingen</a> hebt u een systeem ingesteld?</li>
+   <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md" target="_blank">Welke verbindingen</a> Heb je je ingesteld?</li>
 <li>Zijn er geen personen meer in gebruik?</li></td>
   </tr>
   <tr> 
@@ -268,7 +303,7 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:25%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -284,21 +319,17 @@ De onderstaande checklists (de volgende checklists die aan de onderkant van elk 
  </tbody> 
 </table>
 
-## Overige {#miscellaneous}
+## Waarschuwingen en updates {#alerts-and-updates}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:25%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
    <td>Statusupdates Marketo Engage</td> 
-   <td><li>Is uw instantie aangemeld voor <a href="https://status.adobe.com/" target="_blank">Statusupdates Marketo Engage</a>?</li></td>
-  </tr>
-  <tr> 
-   <td>Geautoriseerde contactpersonen</td> 
-   <td><li>Hebt u de juiste instellingen <a href="/help/marketo/getting-started/setup/setup-steps.md#set-up-your-authorized-support-contacts" target="_blank">bevoegde contactpersonen</a> in het ondersteuningsportaal?</li></td>
+   <td><li>Is uw instantie geabonneerd op <a href="https://nation.marketo.com/t5/knowledgebase/how-to-subscribe-to-status-page-notifications/ta-p/296749" target="_blank">Statusupdates Marketo Engage</a>?</li></td>
   </tr>
   <tr> 
    <td>Waarschuwingen</td> 
