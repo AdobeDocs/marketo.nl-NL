@@ -1,19 +1,19 @@
 ---
-description: EV-YYYY-MM-DD-Event-programma - Marketo Docs - Productdocumentatie
-title: EV-YYYY-MM-DD-Event-programma
+description: WBN-YYYY-MM-DD-Webinar-programma - Marketo Docs - Productdocumentatie
+title: WBN-YYYY-MM-DD-Webinar-programma
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '591'
 ht-degree: 1%
 
 ---
 
-# EV-YYYY-MM-DD-Event-programma {#ev-yyyy-mm-dd-event-program}
+# WBN-YYYY-MM-DD-Webinar-programma {#wbn-yyyy-mm-dd-webinar-program}
 
-Dit is een voorbeeld van een gebeurtenisprogramma met een registratiepagina, drie uitnodigingse-mails en follow-upe-mails met een gebeurtenisprogramma voor Marketo&#39;s Engage. Geschikt voor alle gebeurtenissen waar u registraties nodig hebt, zoals presentaties, lunches, diners of presentaties tijdens handelsshowgebeurtenissen.
+Dit is een voorbeeld van een webinar programma met registratiebeheer, drie uitnodigingen, herinnerings-aan-aanwezig, en follow-up e-mails die een Programma van de Gebeurtenis van het Marketo Engage gebruiken.
 
 Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Team van de Rekening van de Adobe te contacteren of te bezoeken [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
 
@@ -29,13 +29,15 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr> 
   <tr> 
    <td>Gebeurtenis</td> 
-   <td>01-Uitgenodigd 
-<br/>02-Waitlijst
-<br/>03-Ingeschreven
-<br/>04-Geen tonen
-<br/>05-Bijgewoond-Succes</td>
+   <td>01 - Uitgenodigd 
+   <br/>02 - Wachtlijst
+   <br/>03 - Geregistreerd
+   <br/>04 - Geen weergave
+   <br/>05 - Bijgewoond - Succes
+   <br/>06 - Bijgewoond op bestelling - Succes</td>
    <td>Inclusief</td>
-   <td>Gebeurtenis</td>
+   <td>Gebeurtenis
+   <p>(Geïntegreerd: Gebeurtenis met webinar)</td>
   </tr>
  </tbody> 
 </table>
@@ -52,59 +54,65 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   <tr> 
    <td>E-mail</td> 
    <td>E-mailsjabloon snel starten</td>
-   <td>01-E-mail-Dank u</td>
+   <td>01 - E-mail - Uitnodiging</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
    <td>E-mailsjabloon snel starten</td>
-   <td>02a- E-mail - Uitnodiging</td>
+   <td>02 - E-mail - Herinnering voor uitnodiging</td>
+  </tr>
+   <tr> 
+   <td>E-mail</td> 
+   <td>E-mailsjabloon snel starten</td>
+   <td>03 - E-mail - Herinnering voor uitnodiging - Laatste keuze</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
    <td>E-mailsjabloon snel starten</td>
-   <td>02b - E-mail - Herinnering voor uitnodiging</td>
+   <td>04 - E-mail - Bevestiging van inschrijving</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
    <td>E-mailsjabloon snel starten</td>
-   <td>02c- E-mail - Herinnering uitnodiging Laatste kans</td>
+   <td>05 - E-mail - Herinnering om bij te wonen</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
    <td>E-mailsjabloon snel starten</td>
-   <td>03 - E-mail - Herinnering om bij te wonen</td>
+   <td>06 -E-mail - Follow-up - Bijgewoond</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
    <td>E-mailsjabloon snel starten</td>
-   <td>04a - E-mail - Follow-up - Bijgewoond</td>
+   <td>07 - E-mail - Follow-up - Geen weergave </td>
   </tr>
-  <tr> 
-   <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
-   <td>04b - E-mail - Follow-up - GeenTonen</td>
-  </tr>
-  <tr> 
-   <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
-   <td>01a - LP - Registratie</td>
-  </tr>
-  <tr> 
-   <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
-   <td>01b - LP - Dank u</td>
-  </tr>
+  <tr>
   <tr> 
    <td>Formulier</td> 
    <td> </td>
    <td>Registratie van FM-gebeurtenis</td>
   </tr>
   <tr> 
+   <td>Openingspagina</td> 
+   <td>LP-sjabloon snel starten</td>
+   <td>01 - LP - Registratie</td>
+  </tr>
+  <tr> 
+   <td>Openingspagina</td> 
+   <td>LP-sjabloon snel starten</td>
+   <td>02 - LP - Dank u</td>
+  </tr>
+  <tr> 
+   <td>Openingspagina</td> 
+   <td>LP-sjabloon snel starten</td>
+   <td>03 - LP - Op aanvraag</td>
+  </tr>
+  <tr> 
    <td>Lokaal rapport</td> 
    <td> </td>
    <td>E-mailprestaties</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Lokaal rapport</td> 
    <td> </td>
    <td>Prestaties van bestemmingspagina</td>
@@ -132,28 +140,33 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>02c - Uitnodiging laatste keuze verzenden</td>
+   <td>02c - Laatste kans herinneringen uitnodiging verzenden</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
    <td>03 - Herinnering verzenden voor bijwonen</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
    <td>04 - Bijgewoond (succes van programma)</td>
   </tr>
-   <tr> 
+  <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
    <td>05 - Verstuur vervolgberichten</td>
   </tr>
   <tr> 
+   <td>Slimme campagne</td> 
+   <td> </td>
+   <td>06 - Bijgewoonde on-demand (succes van programma)</td>
+  </tr>
+  <tr> 
    <td>Map</td> 
    <td> </td>
    <td>Activa - Houdt alle creatieve activa in huis 
-<br/>(submappen voor e-mail- en bestemmingspagina's)</td>
+<br/>(submappen voor e-mail, bestemmingspagina's en Forms)</td>
   </tr>
   <tr> 
    <td>Map</td> 
@@ -184,6 +197,11 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr>
   <tr> 
    <td>Tekst</td> 
+   <td><code>{{my.DownloadURL-PresentationSlides}}</code></td>
+   <td>my.DownloadURL?without=http:// </td>
+  </tr>
+  <tr> 
+   <td>Tekst</td> 
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
@@ -204,34 +222,14 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr>
    <tr> 
    <td>RTF</td> 
-   <td><code>{{my.Content-Description}}</code></td>
+   <td><code>{{my.Event-Description}}</code></td>
    <td>Dubbelklik voor details  
-<br/><code><--My Content Description Here--></code> 
-<br/>Bewerk deze inhoudsbeschrijving op programmaniveau onder het tabblad Mijn tokens. 
+<br/><code><--My Event Description Here--></code> 
+<br/>Bewerk deze gebeurtenisbeschrijving op programmaniveau onder het tabblad Mijn tokens. 
 <br/>U leert: 
 <li>Opsommingsteken 1</li>
 <li>Opsommingsteken 2</li>
 <li>Opsommingsteken 3</li></td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
-  </tr>
-   <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
   </tr>
   <tr> 
    <td>Tekst</td> 
@@ -246,7 +244,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   <tr> 
    <td>Tekst</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>Live Event</td>
+   <td>Webinar</td>
   </tr>
   <tr> 
    <td>Tekst</td> 
@@ -258,7 +256,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    <td><code>{{my.PageURL-Registration}}</code></td>
    <td>my.RegistrationPageURL?without=http://</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Tekst</td> 
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>my.ThankYouPageURL?without=http://</td>
@@ -320,6 +318,8 @@ SCHERM VAN CONFLICTREGELS
 
 ## Aanbevolen procedures {#best-practices}
 
+* Als u een geïntegreerde webinar leverancier gebruikt, vergeet niet om het programma van het Marketo Engage aan uw webinar in het ontvangende systeem aan te sluiten.
+
 * Na de invoer van het webinar programma, verplaats de vorm van lokaal activa aan globale activa die in de Studio van het Ontwerp worden gevestigd.
    * Door het aantal formulieren te verminderen en meer algemene middelen van de Design Studio te gebruiken, kunt u het ontwerp van uw programma en het beheer ervan meer schaalbaar maken. Het biedt ook flexibiliteit bij regelmatige compatibiliteitsupdates voor velden, de taal van de opt-in, enz.
 
@@ -333,7 +333,7 @@ SCHERM VAN CONFLICTREGELS
 
 >[!TIP]
 >
->Vergeet niet de campagne &quot;06-bijgewoond (Programma Succes)&quot; te activeren om succes te volgen! Doe dit _voor_ uw formulier is live en e-mails worden verzonden.
+>Vergeet niet de campagnes &quot;04-Bijgewoond (het Succes van het Programma)&quot;en &quot;06-Bijgewoond On-Demand (het Succes van het Programma)&quot;voor het volgen van succes te activeren! Doe dit _voor_ je e-mailberichten worden verzonden.
 
 >[!IMPORTANT]
 >

@@ -1,19 +1,19 @@
 ---
-description: EM-YYYY-MM-DD-Single Email Send - Marketo Docs - Productdocumentatie
-title: EM-YYYY-MM-DD-Eén e-mail verzenden
+description: NL-YYYY-MM-Newsletter - Marketo Docs - Productdocumentatie
+title: NL-YYYY-MM-Newsletter
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '282'
 ht-degree: 1%
 
 ---
 
-# EM-YYYY-MM-DD-Eén e-mail verzenden {#em-yyyy-mm-dd-single-email-send}
+# NL-YYYY-MM-Newsletter {#nl-yyyy-mm-newsletter}
 
-In dit voorbeeld wordt één e-mailbericht verzonden via een Marketo Engage-e-mailprogramma. Het e-mailbericht kan een A/B-test bevatten of niet.
+In dit voorbeeld wordt via een e-mailprogramma voor Marketo&#39;s Engage een nieuwsbrief verzonden. Het e-mailbericht kan een A/B-test bevatten of niet.
 
 Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Team van de Rekening van de Adobe te contacteren of te bezoeken [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
 
@@ -28,7 +28,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    <th>Programmatype</th>
   </tr> 
   <tr> 
-   <td>E-mail</td> 
+   <td>Nieuwsbrief</td> 
    <td>01-Lid 
 <br/>02-Betrokken-Succes</td>
    <td>Inclusief</td>
@@ -49,7 +49,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   <tr> 
    <td>E-mail</td> 
    <td>E-mailsjabloon snel starten</td>
-   <td>01-E-mail-Dank u</td>
+   <td>01 - E-mail</td>
   </tr>
   <tr> 
    <td>Lokaal rapport</td> 
@@ -65,13 +65,13 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>01-Betrokken (succes van programma)</td>
+   <td>01 - Betrokken (succes van programma)</td>
   </tr>
   <tr> 
    <td>Map</td> 
    <td> </td>
    <td>Activa - Houdt alle creatieve activa in huis 
-<br/>(submappen voor e-mail- en bestemmingspagina's)  </td>
+<br/>(submappen voor e-mails)  </td>
   </tr>
   <tr> 
    <td>Map</td> 

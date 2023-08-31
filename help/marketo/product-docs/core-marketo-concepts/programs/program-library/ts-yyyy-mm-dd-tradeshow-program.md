@@ -1,19 +1,19 @@
 ---
-description: EV-YYYY-MM-DD-Event-programma - Marketo Docs - Productdocumentatie
-title: EV-YYYY-MM-DD-Event-programma
+description: TS-YYYY-MM-DD-Tradeshow Program - Marketo Docs - Productdocumentatie
+title: TS-YYYY-MM-DD-Tradeshow-programma
 hide: true
 hidefromtoc: true
 feature: Programs
 source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
 workflow-type: tm+mt
-source-wordcount: '566'
-ht-degree: 1%
+source-wordcount: '428'
+ht-degree: 0%
 
 ---
 
-# EV-YYYY-MM-DD-Event-programma {#ev-yyyy-mm-dd-event-program}
+# TS-YYYY-MM-DD-Tradeshow-programma {#ts-yyyy-mm-dd-tradeshow-program}
 
-Dit is een voorbeeld van een gebeurtenisprogramma met een registratiepagina, drie uitnodigingse-mails en follow-upe-mails met een gebeurtenisprogramma voor Marketo&#39;s Engage. Geschikt voor alle gebeurtenissen waar u registraties nodig hebt, zoals presentaties, lunches, diners of presentaties tijdens handelsshowgebeurtenissen.
+Dit is een voorbeeld van een transactieprogramma met uitnodigingen en follow-up-e-mails die een gebeurtenisprogramma voor Marketo&#39;s Engage gebruiken.
 
 Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Team van de Rekening van de Adobe te contacteren of te bezoeken [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
 
@@ -30,10 +30,11 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   <tr> 
    <td>Gebeurtenis</td> 
    <td>01-Uitgenodigd 
-<br/>02-Waitlijst
-<br/>03-Ingeschreven
-<br/>04-Geen tonen
-<br/>05-Bijgewoond-Succes</td>
+   <br/>02-Waitlijst
+   <br/>03-Ingeschreven
+   <br/>04-Bezochte Booth
+   <br/>05-Gegroepeerd bij Show - Succes
+   <br/>06-Gegroepeerd bij postshow - Succes</td>
    <td>Inclusief</td>
    <td>Gebeurtenis</td>
   </tr>
@@ -59,46 +60,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    <td>E-mailsjabloon snel starten</td>
    <td>02a- E-mail - Uitnodiging</td>
   </tr>
-  <tr> 
-   <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
-   <td>02b - E-mail - Herinnering voor uitnodiging</td>
-  </tr>
-  <tr> 
-   <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
-   <td>02c- E-mail - Herinnering uitnodiging Laatste kans</td>
-  </tr>
-  <tr> 
-   <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
-   <td>03 - E-mail - Herinnering om bij te wonen</td>
-  </tr>
-  <tr> 
-   <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
-   <td>04a - E-mail - Follow-up - Bijgewoond</td>
-  </tr>
-  <tr> 
-   <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
-   <td>04b - E-mail - Follow-up - GeenTonen</td>
-  </tr>
-  <tr> 
-   <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
-   <td>01a - LP - Registratie</td>
-  </tr>
-  <tr> 
-   <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
-   <td>01b - LP - Dank u</td>
-  </tr>
-  <tr> 
-   <td>Formulier</td> 
-   <td> </td>
-   <td>Registratie van FM-gebeurtenis</td>
-  </tr>
+  <tr>
   <tr> 
    <td>Lokaal rapport</td> 
    <td> </td>
@@ -107,7 +69,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   <tr> 
    <td>Lokaal rapport</td> 
    <td> </td>
-   <td>Prestaties van bestemmingspagina</td>
+   <td>Programmaprestaties</td>
   </tr>
   <tr> 
    <td>Slimme campagne</td> 
@@ -117,37 +79,22 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>01 - Procesregistratie</td>
+   <td>01 - Uitnodiging verzenden</td>
   </tr>
    <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>02a - Uitnodiging verzenden</td>
+   <td>02 - Betrokken bij tonen (geslaagd)</td>
   </tr>
    <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>02b - Herinnering voor uitnodiging verzenden</td>
+   <td>03 - Verstuur vervolgberichten</td>
   </tr>
    <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>02c - Uitnodiging laatste keuze verzenden</td>
-  </tr>
-   <tr> 
-   <td>Slimme campagne</td> 
-   <td> </td>
-   <td>03 - Herinnering verzenden voor bijwonen</td>
-  </tr>
-   <tr> 
-   <td>Slimme campagne</td> 
-   <td> </td>
-   <td>04 - Bijgewoond (succes van programma)</td>
-  </tr>
-   <tr> 
-   <td>Slimme campagne</td> 
-   <td> </td>
-   <td>05 - Verstuur vervolgberichten</td>
+   <td>04 - Betrokken door follow-up-e-mail (geslaagd)</td>
   </tr>
   <tr> 
    <td>Map</td> 
@@ -204,34 +151,18 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr>
    <tr> 
    <td>RTF</td> 
-   <td><code>{{my.Content-Description}}</code></td>
-   <td>Dubbelklik voor details  
-<br/><code><--My Content Description Here--></code> 
-<br/>Bewerk deze inhoudsbeschrijving op programmaniveau onder het tabblad Mijn tokens. 
-<br/>U leert: 
-<li>Opsommingsteken 1</li>
-<li>Opsommingsteken 2</li>
-<li>Opsommingsteken 3</li></td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Event-Location-Line1}}</code></td>
-   <td><code><--XYZ Hotel--></code></td>
+   <td><code>{{my.Event-Booth#}}</code></td>
+   <td><code><--My Booth Number--></code></td>
   </tr>
    <tr> 
    <td>Tekst</td> 
-   <td><code>{{my.Event-Location-Line2}}</code></td>
-   <td><code><--ABC Room--></code></td>
-  </tr>
-   <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Event-Location-Line3}}</code></td>
-   <td><code><--1234 Anystreet--></code></td>
+   <td><code>{{my.Event-City}}</code></td>
+   <td><code><--My Event City Here--></code></td>
   </tr>
   <tr> 
    <td>Tekst</td> 
-   <td><code>{{my.Event-Location-Line4}}</code></td>
-   <td><code><--Anytown, ZZ 99999--></code></td>
+   <td><code>{{my.Event-Date}}</code></td>
+   <td><code><--My Event Date--></code></td>
   </tr>
   <tr> 
    <td>Tekst</td> 
@@ -246,52 +177,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   <tr> 
    <td>Tekst</td> 
    <td><code>{{my.Event-Type}}</code></td>
-   <td>Live Event</td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.PageURL-Download}}</code></td>
-   <td>my.DownloadURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.PageURL-Registration}}</code></td>
-   <td>my.RegistrationPageURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.PageURL-ThankYou}}</code></td>
-   <td>my.ThankYouPageURL?without=http://</td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Speaker1-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Speaker1-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Speaker2-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Speaker2-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
-  </tr>
-  <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Speaker3-Name}}</code></td>
-   <td><code><--Speaker Name Here--></code></td>
-  </tr>
- <tr> 
-   <td>Tekst</td> 
-   <td><code>{{my.Speaker3-Title}}</code></td>
-   <td><code><--Speaker Title Here--></code></td>
+   <td>Handelsversie</td>
   </tr>
  </tbody> 
 </table>
@@ -333,7 +219,7 @@ SCHERM VAN CONFLICTREGELS
 
 >[!TIP]
 >
->Vergeet niet de campagne &quot;06-bijgewoond (Programma Succes)&quot; te activeren om succes te volgen! Doe dit _voor_ uw formulier is live en e-mails worden verzonden.
+>Vergeet niet de campagnes &quot;02-Engaged at Show (het Succes van het Programma)&quot; en &quot;04-Engaged by Follow-up Email (het Succes van het Programma)&quot;voor het volgen van succes te activeren! Doe dit _voor_ je e-mailberichten worden verzonden.
 
 >[!IMPORTANT]
 >
