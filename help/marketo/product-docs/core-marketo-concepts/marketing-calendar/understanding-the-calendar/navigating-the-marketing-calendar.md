@@ -4,22 +4,26 @@ description: Navigeren door de marketingkalender - Marketo Docs - Productdocumen
 title: Navigeren door de marketingkalender
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # Navigeren door de marketingkalender {#navigating-the-marketing-calendar}
 
-U kunt gemakkelijk in de marketingkalender navigeren, maar dan wel één, twee, drie!
+U kunt gemakkelijk navigeren door de marketingkalender. Zo gaat het.
 
 >[!PREREQUISITES]
 >
 >Zorg ervoor dat u een [Licentie voor marketingkalender](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} - anders verschijnt het element Marketing Calendar niet in Mijn Marketo.
 
-1. Ga naar de **Marketingkalender**.
+>[!NOTE]
+>
+>Het terugkeren van Slimme Campagnes wordt niet gesteund in de Kalender van de Marketing.
+
+1. Ga naar de **Verkoopkalender**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
@@ -41,7 +45,7 @@ In de weergave Agenda worden al uw items als een lijst weergegeven.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Selecteer **[!UICONTROL Agenda]** weergeven.
+1. Selecteer de **[!UICONTROL Agenda]** weergeven.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
@@ -63,7 +67,7 @@ U kunt ook deze sneltoetsen gebruiken.
 | Voorwaarts in de tijd | alt/opt + down |
 | Ga naar &quot;vandaag&quot; | alt/opt + t |
 
-Geweldig! Dit zijn de basisbeginselen. U kunt de weergave ook met filters aanpassen.
+Geweldig! Dit zijn de basisbeginselen. U kunt de weergave ook aanpassen met behulp van filters.
 
 >[!MORELIKETHIS]
 >

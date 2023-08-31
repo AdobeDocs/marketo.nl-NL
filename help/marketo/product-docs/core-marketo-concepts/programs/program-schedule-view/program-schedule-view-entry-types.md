@@ -1,19 +1,23 @@
 ---
 unique-page-id: 1147243
 description: Invoertypen voor programmaplanningen - Marketo-documenten - Productdocumentatie
-title: Invoertypen voor programmaplanning
+title: Invoertypen voor programmaplanningen
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# Invoertypen voor programmaplanning {#program-schedule-view-entry-types}
+# Invoertypen voor programmaplanningen {#program-schedule-view-entry-types}
 
-Er zijn acht verschillende ingebouwde ingangstypes die zichtbaar en beschikbaar voor gebruik in uw mening van het programmaprogramma zullen zijn. U kunt ook [aangepaste invoertypen maken](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) in de sectie Beheer.
+Er zijn acht verschillende ingebouwde ingangstypes die zichtbaar en beschikbaar voor gebruik in uw mening van het programmaprogramma zullen zijn. U kunt [aangepaste invoertypen maken](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) in de sectie Beheer.
+
+>[!NOTE]
+>
+>De terugkomende Slimme Campagnes zijn **niet** ondersteund in de overzichtsweergave.
 
 <table> 
  <thead> 
@@ -33,10 +37,10 @@ Er zijn acht verschillende ingebouwde ingangstypes die zichtbaar en beschikbaar 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1">Slimme campagne met e-mail <img alt="--" src="assets/image2014-9-24-10-3a5-3a14.png" data-linked-resource-id="3082717" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
-   <td colspan="1" rowspan="1"><p>Geplande slimme campagne met ten minste één stap E-mailstroom verzenden.</p></td> 
+   <td colspan="1" rowspan="1"><p>Geplande slimme campagne met ten minste één stap E-mail verzenden.</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">E-mailprogramma <img alt="--" src="assets/image2014-9-24-10-3a5-3a27.png" data-linked-resource-id="3082718" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
+   <td colspan="1" rowspan="1">Email Program <img alt="--" src="assets/image2014-9-24-10-3a5-3a27.png" data-linked-resource-id="3082718" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></td> 
    <td colspan="1" rowspan="1">Gepland e-mailprogramma.</td> 
   </tr> 
   <tr> 
