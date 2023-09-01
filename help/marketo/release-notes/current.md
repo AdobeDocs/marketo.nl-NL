@@ -3,7 +3,7 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d87c05212afbc916bd11cf681a4375e31f46550c
+source-git-commit: 515821580741449f71df31dbd0652498fd744783
 workflow-type: tm+mt
 source-wordcount: '941'
 ht-degree: 2%
@@ -314,7 +314,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 * **Tokens activeren voor nieuwe activiteiten**: Nieuwe triggertokens zijn beschikbaar ter ondersteuning van de nieuwe activiteiten voor Dynamic Chat.
 
-<table> 
+<table style="margin-left:10px" width="400px"> 
   <tr> 
    <td><b>Status</b></td>
    <td><b>Documentatieupdates</b></td>
