@@ -3,14 +3,14 @@ description: Overnemen Doc 2 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
+source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
 
-# Overnemen Doc 2 {#inherit-doc-2}
+# Controlelijst voor database controleren {#inherit-doc-2}
 
 Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwervende bronnen in uw abonnement.
 
