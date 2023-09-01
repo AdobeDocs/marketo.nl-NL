@@ -4,9 +4,9 @@ title: CT-YYYY-MM-Content Non-Marketo Landing Page
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 0f71600b18315feb3ef32e95dfb108b09c4cb79f
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -94,8 +94,6 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr>
  </tbody> 
 </table>
-
-SCHERM VAN HET PROGRAMMA
 
 ## Mijn tokens inbegrepen {#my-tokens-included}
 

@@ -4,7 +4,7 @@ title: CT-YYYY-MM-Content op Marketo Landing Page
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
+source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 0%
@@ -105,8 +105,6 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
  </tbody> 
 </table>
 
-SCHERM VAN HET PROGRAMMA
-
 ## Mijn tokens inbegrepen {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -164,6 +162,8 @@ SCHERM VAN HET PROGRAMMA
   </tr>
  </tbody> 
 </table>
+
+SCHERM VAN HET PROGRAMMA
 
 ## Conflictregels {#conflict-rules}
 
