@@ -3,9 +3,9 @@ description: Overnemen Doc 5 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gev
   <tr> 
    <td>Gegevenswoordenboek</td> 
    <td><li>Bestaat er een apart gegevenswoordenboek waarin de beschikbare velden worden uitgelegd?
-   <br/>     Als dat niet het geval is, kunt u er een maken.</li></td>
+   <br/>     Als niet, denk na creërend in een omslag toegankelijk voor uw team van de Verrichtingen van de Marketing.</li></td>
   </tr>
   <tr> 
    <td>Organisatie</td> 

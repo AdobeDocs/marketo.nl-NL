@@ -3,9 +3,9 @@ description: Overnemen Doc 2 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 1b97a8a2a491c2091eb722a16ab10f901e77a912
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwe
   </tr>
   <tr> 
    <td>Verzonden e-mailadressen</td> 
-   <td><li>Tekst</li></td>
+   <td><li>KG - WACHTEN OP LEVERBAARHEID</li></td>
   </tr>
   <tr> 
    <td>Mogelijke duplicaten</td> 
