@@ -3,10 +3,10 @@ description: Actuele aanvullende informatie - Marketo Docs - Productdocumentatie
 title: Opmerkingen bij de huidige release
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 5892d119745772a9d4e7869e7c4be7318c65fd19
+source-git-commit: d87c05212afbc916bd11cf681a4375e31f46550c
 workflow-type: tm+mt
-source-wordcount: '931'
-ht-degree: 3%
+source-wordcount: '941'
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ Hieronder vindt u alle functies die zijn inbegrepen in de release van 23 septemb
 
 >[!AVAILABILITY]
 >
->Kenmerken die door een ster worden aangeduid (![ster](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage-vertegenwoordiger voor meer informatie.
+>Kenmerken die door een ster worden aangeduid (![ster](assets/yellow-star.png)) worden betaald als extra&#39;s. Neem contact op met uw Marketo Engage voor meer informatie.
 
 ## Standaardfuncties van releasecyclus {#standard-release-cycle-features}
 
@@ -24,7 +24,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
 
 </br>
 
-* **Marketo Reference Library**: Met de Marketo Engage Program Reference Library kunnen gebruikers &#39;example&#39;-programma&#39;s en andere middelen importeren die best practices vertegenwoordigen die door Adobe worden aanbevolen. Ons team voor productbeheer heeft de bibliotheek volledig bijgewerkt en biedt kostbaardere tools voor diegenen die hun programma snel willen starten.
+* **Marketo Reference Library**: Met de Marketo Engage Program Reference Library kunnen gebruikers &#39;example&#39;-programma&#39;s en andere middelen importeren die best practices vertegenwoordigen die door de Adobe worden aanbevolen. Ons team voor productbeheer heeft de bibliotheek volledig bijgewerkt en biedt kostbaardere tools voor diegenen die hun programma snel willen starten.
 
 <table>
   <tr> 
@@ -66,7 +66,7 @@ De volgende functies vallen onder de standaardreleasecyclus en worden vrijgegeve
   </tbody>
 </table>
 
-* **Formule Flow Step-service berekenen**: Compute Formula is een Flow Step Service die is gebaseerd op Adobe Runtime platform voor gebruik met Marketo Engage Smart Campagnes. De cliënten van Adobe met runtime IO kunnen de dienst opstellen en het installeren aan hun abonnementen van Marketo Engage, die hen toestaan om Excel-als formules in de Slimme Campagnes van Marketo gegevens te verwerken.
+* **Formule Flow Step-service berekenen**: Compute Formula is een Flow Step Service die is gebaseerd op het IO Runtime-platform van de Adobe voor gebruik met Marketo Engage Slimme Campagnes. De cliënten van de Adobe met runtime IO kunnen de dienst opstellen en het installeren aan hun abonnementen van het Marketo Engage, die hen toestaan om Excel-als formules in de Slimme Campagnes van Marketo gegevens te verwerken.
 
 <table> 
   <tr> 
@@ -92,8 +92,8 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
    <td><b>Documentatieupdates</b></td>
   </tr>
   <tr> 
-   <td><i>Binnenkort beschikbaar</i></td>
-   <td><i>Binnenkort beschikbaar</i></td>
+   <td>Verzonden</td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Blauwdruk bekijken en goedkeuren</a></td>
   </tr>
   </tbody>
 </table>
@@ -102,7 +102,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
 
 </br>
 
-* **Actiekaart in stroomontwerper**: De verkopers kunnen actiekaarten in de stroom van de Dialoog gebruiken om verborgen waarden tot het Marketo Engage persoonverslag over te gaan wanneer de bezoekers met een Dialoog aangaan.
+* **Actiekaart in stroomontwerper**: Marketers kunnen actiekaarten in de dialoogstroom gebruiken om verborgen waarden door te geven aan de persoonrecord van het Marketo Engage wanneer bezoekers een dialoogvenster openen.
 
 <table> 
   <tr> 
@@ -116,7 +116,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Conversale-stroomelementpagina**: De pagina van de Activa van de Studio van het Ontwerp maakt nu een lijst van de Conversationele stromen van de Dynamic Chat. Zie welke stromen in de activa van Marketo Engage kunnen worden geïntegreerd en direct aan hun redacteur worden ontkoppeld.
+* **Conversale-stroomelementpagina**: De pagina van de Activa van de Studio van het Ontwerp maakt nu een lijst van de Conversationele stromen van de Dynamic Chat. Zie welke Stromen in de activa van het Marketo Engage kunnen worden geïntegreerd en direct aan hun redacteur worden ontkoppeld.
 
 <table>
   <tr> 
@@ -130,7 +130,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Gesprek Forms met Marketo Engage Forms**: Breng Marketo Engage Forms in gesprek door ze te integreren met Dynamic Chat Conversational Flows. Kwalificeer direct lood gebruikend vormgegevens of het Slimme lidmaatschap van de Lijst voor vergaderingsboekingen, de verbindingen van het Witboek, of douanedoelstellingen.
+* **Gesprek Forms met Marketo Engage Forms**: Maak Marketo Engage Forms conversationeel door ze te integreren met Dynamic Chat Conversational Flows. Kwalificeer direct lood gebruikend vormgegevens of het Slimme lidmaatschap van de Lijst voor vergaderingsboekingen, de verbindingen van het Witboek, of douanedoelstellingen.
 
 <table> 
   <tr> 
@@ -228,7 +228,7 @@ De volgende functies volgen een indeling van Adobe en worden op verschillende da
   </tbody>
 </table>
 
-* **Doelstelling voor slimme lijst Marketo Engage**: Marketers kunnen zich richten op leden van slimme lijsten met Marketo Engage in de publiekscriteria van het dialoogvenster.
+* **Doel van slimme lijst met Marketo&#39;s Engage**: Marketers kunnen zich richten op leden van slimme lijsten met Marketo&#39;s Engage in de publiekscriteria van het dialoogvenster.
 
 <table> 
   <tr> 
