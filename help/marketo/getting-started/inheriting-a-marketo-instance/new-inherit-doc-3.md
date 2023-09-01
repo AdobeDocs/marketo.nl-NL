@@ -3,23 +3,23 @@ description: Overnemen Doc 3 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
 
 # Overnemen Doc 3 {#inherit-doc-3}
 
-Met marketingactiviteiten kan uw marketingteam slimme campagnes maken, creatieve middelen maken (bijvoorbeeld e-mails en bestemmingspagina&#39;s) en de prestaties van middelen bekijken.
+Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen te helpen diverse programma&#39;s binnen uw instantie van het Marketo Engage vinden en beheren en ervoor te zorgen dat de mensen worden verwerkt om van Marketing aan Verkoop over te gaan.
 
 ## Organisatie {#organization}
 
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:20%">Gebied</th> 
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -33,7 +33,7 @@ Met marketingactiviteiten kan uw marketingteam slimme campagnes maken, creatieve
   <tr> 
    <td>Programma's</td> 
    <td><li>KG - IS DIT NOG RELEVANT Is er een <a href="https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself" target="_blank">Excellentiecentrum</a> met programmasjablonen? 
-   <br/>Zo ja, hebben de programmasjablonen zin voor de gebruiksgevallen van de teams?</li>
+   <br/>     Zo ja, hebben de programmasjablonen zin voor de gebruiksgevallen van de teams?</li>
 <li>Zijn vergelijkbare programmatypen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">consistent gestructureerd</a>?</li>
 <li>zijn <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">tijdskosten</a> op de rails zetten?</li>
 <li>Zijn alle programma's <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">gesynchroniseerd met SFDC-campagnes</a> (indien van toepassing)?</li>
@@ -64,22 +64,22 @@ Met marketingactiviteiten kan uw marketingteam slimme campagnes maken, creatieve
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:20%">Gebied</th> 
    <th>Focus controleren</th>
   </tr> 
   <tr> 
    <td>Tokens</td> 
-   <td><li>Worden tokens gebruikt in uw het meest meestal gebruikte programmatypen? 
-   <br/>Als dat niet het geval is, kunt u deze beter gebruiken om de efficiëntie te verhogen.</li>
+   <td><li>zijn <a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">tokens</a> die in uw het meest meestal gebruikte programmatypen worden gebruikt? 
+   <br/>     Als dat niet het geval is, kunt u deze beter gebruiken om de efficiëntie te verhogen.</li>
 <li>Zijn er algemene maptokens als tokens zijn geïmplementeerd? Hoe worden ze gebruikt?</li></td>
   </tr>
   <tr> 
    <td>Betrokkenheidsprogramma's</td> 
    <td><li>Zijn er live? <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Betrokkenheidsprogramma's</a> lopen?</li>
 <li>Hoeveel <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank">mensen zijn uitgeput</a>? 
-<br/>Als er veel uitgeputte mensen zijn, kunt u overwegen inhoud toe te voegen.</li>
-<li>Houden mensen zich bezig met de inhoud? 
-<br/>Zo niet, dan is het wellicht de bedoeling het bij te werken en/of A/B-tests.</li></td>
+<br/>     Als er veel uitgeputte mensen zijn, kunt u <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">inhoud toevoegen</a>.</li>
+<li>Zijn mensen <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">engageren met de inhoud</a>? 
+<br/>     Zo niet, dan is het wellicht de bedoeling het bij te werken en/of A/B-tests.</li></td>
   </tr>
   <tr> 
    <td>Batchcampagnes</td> 
@@ -116,7 +116,7 @@ Met marketingactiviteiten kan uw marketingteam slimme campagnes maken, creatieve
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:20%">Gebied</th> 
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -140,7 +140,7 @@ Met marketingactiviteiten kan uw marketingteam slimme campagnes maken, creatieve
   <tr> 
    <td>Privacy en naleving</td> 
    <td><li>Hebt u programma's om ervoor te zorgen u met de privacy van gegevens en spamwetten verenigbaar bent? 
-   <br/>Overweeg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA, enz.</li>
+   <br/>     Overweeg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA, enz.</li>
 <p>Tip: vergeet niet altijd uw juridische team te raadplegen over deze kwesties. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
   </tr>
   <tr> 

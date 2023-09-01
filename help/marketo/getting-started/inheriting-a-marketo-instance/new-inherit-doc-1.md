@@ -3,7 +3,7 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 8d9ea20f04ec6320b31c2d6000240b72a45be959
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '1428'
 ht-degree: 0%
@@ -18,20 +18,19 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
 >
 >Als u een nieuwe (er) gebruiker van het Marketo Engage bent en niet vertrouwd met veel van de termijnen bent, gelieve te controleren [Marketo Verklarende woordenlijst](/help/marketo/getting-started/marketo-glossary.md){target="_blank"}.
 
-## Adobe Admin Console {#adobe-admin-console}
+## Adobe Identity Management {#adobe-identity-management}
 
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th> 
+   <th style="width:20%">Gebied</th> 
    <th>Focus controleren</th>
   </tr> 
   <tr> 
    <td>Abonnement</td> 
    <td><li>Is uw abonnement op Marketo Engage ingeschakeld <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe Identity Management-systeem</a> (Adobe IMS) al? 
-<br/>
-Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe Admin Console System Admin"? Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer <a href="https://helpx.adobe.com/contact.html" target="_blank">Klantenservice Adoben</a>.  
-<br/>Zo niet, dan gaat u verder met de <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">oudere gebruikersrollen en toestemmingenervaring</a> in Marketo Engage &gt; Beheer &gt; Gebruikers en rollen totdat uw abonnement wordt verlengd.</li></td>
+<br/>     Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe Admin Console System Admin"? Als u niet zeker bent wie in uw organisatie admin voorrechten in de console heeft, contacteer <a href="https://helpx.adobe.com/contact.html" target="_blank">Klantenservice Adoben</a>.  
+<br/>     Zo niet, dan gaat u verder met de <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">oudere gebruikersrollen en toestemmingenervaring</a> in Marketo Engage &gt; Beheer &gt; Gebruikers en rollen totdat uw abonnement wordt verlengd.</li></td>
   </tr>
   <tr> 
    <td>Productprofiel</td> 
@@ -39,13 +38,13 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
 <p>
 <li>Hebt u een "Marketo Engage Product Admin"rol in Marketo Engage/Admin/Gebruikers &amp; Rollen gekregen?</li> 
 <li>Hebt u Marketo Engage toegewezen aan alle relevante gebruikersprofielen in de Adobe Admin Console?
-<br/>Als dat niet het geval is, moet u Marketo Engage toewijzen aan het Adobe IMS-productprofiel voordat u de rollen toewijst aan Marketo Engage/Admin/Users &amp; Roles.</li>
+<br/>     Als dat niet het geval is, moet u Marketo Engage toewijzen aan het Adobe IMS-productprofiel voordat u de rollen toewijst aan Marketo Engage/Admin/Users &amp; Roles.</li>
 <p>Opmerking: als uw abonnement meer dan 75 gebruikers heeft en net naar Adobe IMS is gemigreerd, kunt u gebruikers selecteren om in batches te migreren en hun Adobe te beheren Identificeren in groepen of in alle gevallen tegelijk. Meer informatie over wat u kunt verwachten <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS-migratiedag</a>.</td>
   </tr>
   <tr> 
    <td>Gebruikersbeheer-API</td> 
    <td><li>Heeft uw abonnement Marketo-gebruikersbeheer-API's gebruikt?
-<br/>Als dat het geval is, zult u moeten gebruiken <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API's</a> om gebruikers die zich verder verplaatsen uit te nodigen, bij te werken en te verwijderen.</li></td>
+<br/>     Als dat het geval is, zult u moeten gebruiken <a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html" target="_blank">Adobe IMS API's</a> om gebruikers die zich verder verplaatsen uit te nodigen, bij te werken en te verwijderen.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -55,7 +54,7 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
 <table> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th>
+   <th style="width:20%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -65,7 +64,7 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
 <li>Heeft uw bedrijf beleid om gebruikers te schrappen?</li> 
 <li>Hoeveel gebruikers hebben <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">Beheerdersmachtigingen</a>?</li>
 <li>Indien een van deze gebruikers wordt gewijzigd in <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">andere rollen ?</a></li> 
-<li>Wie zijn de API-gebruikers in deze instantie?</li></td>
+<li>Wie zijn de <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md" target="_blank">API-gebruikers</a> in dit geval?</li></td>
   </tr>
   <tr> 
    <td>Rollen</td> 
@@ -88,7 +87,7 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
   <tr> 
    <td>Sandbox (indien van toepassing)</td> 
    <td><li>Heeft u een <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md" target="_blank">sandbox-instantie</a>?
-   <br/>  Als dat het geval is, bekijkt u de bovenstaande categorieën voor uw sandbox.</li>
+   <br/>     Als dat het geval is, bekijkt u de bovenstaande categorieën voor uw sandbox.</li>
 <li>Is <a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md" target="_blank">Programma importeren</a> gekoppeld aan uw sandbox?</li></td>
   </tr>
  </tbody> 
@@ -99,7 +98,7 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th>
+   <th style="width:20%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -114,7 +113,7 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th>
+   <th style="width:20%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -138,13 +137,13 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th>
+   <th style="width:20%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
    <td>Instellingen voor slimme campagne</td> 
    <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md" target="_blank">Hebt u een beperking?</a> op grootte van slimme campagne? 
-   <br/>Als dat niet het geval is, kunt u er een toevoegen. We raden u aan de limiet voor slimme campagnes te beperken tot 25% van uw database om overcommunicatie te voorkomen of om uw gehele database in workflows te verwerken. Hierdoor wordt niet alleen uw merk beschermd, maar wordt ook de prestaties van uw instantie beter beveiligd.</li></td>
+   <br/>     Als dat niet het geval is, kunt u er een toevoegen. We raden u aan de limiet voor slimme campagnes te beperken tot 25% van uw database om overcommunicatie te voorkomen of om uw gehele database in workflows te verwerken. Hierdoor wordt niet alleen uw merk beschermd, maar wordt ook de prestaties van uw instantie beter beveiligd.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -154,7 +153,7 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th>
+   <th style="width:20%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -170,12 +169,12 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th>
+   <th style="width:20%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
    <td>Tags</td> 
-   <td><li><a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" target="_blank">Hoeveel tags</a> is dat zo ? Hoeveel tags zijn er in gebruik? Moet er iets worden toegevoegd?</li>
+   <td><li><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md" target="_blank">Hoeveel tags</a> is dat zo ? Hoeveel tags zijn er in gebruik? Moet er iets worden toegevoegd?</li>
 <li>Zijn er labels vereist binnen uw programma's?</li></td>
   </tr>
   <tr> 
@@ -199,28 +198,28 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th>
+   <th style="width:20%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
    <td>Veldbeheer</td> 
    <td><li>Hoeveel velden zijn er? 
-   <br/>Klikken <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Veldnamen exporteren</a> om een lijst met uw velden, aangepaste velden en hun API-namen te bekijken.</li>
+   <br/>     Klikken <a href="/help/marketo/product-docs/administration/field-management/export-a-list-of-all-marketo-api-field-names.md" target="_blank">Veldnamen exporteren</a> om een lijst met uw velden, aangepaste velden en hun API-namen te bekijken.</li>
 <li>Hoeveel <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">aangepaste velden</a> is dat zo ?</li>
 <li>Hoeveel velden worden gebruikt? 
-<br/>Selecteren <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exporteren gebruikt door</a> in de vervolgkeuzelijst Veldhandelingen om de gerelateerde elementen van een veld te controleren.</li>
+<br/>     Selecteren <a href="/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md" target="_blank">Exporteren gebruikt door</a> in de vervolgkeuzelijst Veldhandelingen om de gerelateerde elementen van een veld te controleren.</li>
 <li>Hoeveel velden worden gesynchroniseerd tussen Marketo Engage en uw CRM?</li>
 <li>Worden CRM-velden gesynchroniseerd met de desbetreffende objecten?</li>
 <li>Is er een <a href="/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md" target="_blank">aangepaste weergaveset</a> voor details van de persoon? Moet dat?</li>
 <li>Hebt u een naamgevingsconventie voor uw velden op basis van de bron? 
-<br/>Zo niet, dan kunt u overwegen dit te implementeren.</li>
+<br/>     Zo niet, dan kunt u overwegen dit te implementeren.</li>
 <li>Zijn er velden? <a href="/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md" target="_blank">geblokkeerd</a>? 
-<br/>Als dat het geval is, moet u er zeker van zijn dat u begrijpt waarom dat zo is.</li></td>
+<br/>     Als dat het geval is, moet u er zeker van zijn dat u begrijpt waarom dat zo is.</li></td>
   </tr>
   <tr> 
    <td>Aangepaste activiteiten</td> 
    <td><li>Zijn er <a href="/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md" target="_blank">aangepaste activiteiten</a>?
-<br/>Als dat het geval is, klikt u erop om te begrijpen welke activiteiten niet gerelateerd zijn aan een Marketo-formulier, e-mail of landingspagina.</li></td>
+<br/>     Als dat het geval is, klikt u erop om te begrijpen welke activiteiten niet gerelateerd zijn aan een Marketo-formulier, e-mail of landingspagina.</li></td>
   </tr>
   <tr> 
    <td>Aangepaste objecten</td> 
@@ -235,7 +234,7 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th>
+   <th style="width:20%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -255,7 +254,7 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
 <li>Zijn er regels ingesteld voor <a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md" target="_blank">omleiding</a>?</li>
 <li>Hebt u domeinaliassen op zijn plaats? Houdt u bij hoe u uw domeinaliassen gebruikt?</li>
 <li>Is <a href="https://nation.marketo.com/t5/knowledgebase/setting-up-secured-domains-for-marketo-landing-pages-first-time/ta-p/250370" target="_blank">Beveiligde domeinen voor aanlandingspagina's</a> ingeschakeld? 
-<br/>Bevestig of uw landingspagina-elementen een 'http'-URL bevatten.</li></td>
+<br/>     Bevestig of uw landingspagina-elementen een 'http'-URL bevatten.</li></td>
   </tr>
   <tr> 
    <td>Munchkin</td> 
@@ -269,13 +268,13 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
    <td><li>zijn <a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP-beperkingen</a> ingeschakeld? Moeten ze dat zijn?</li>
 <li>Welke gebruikers/apps maken API-aanroepen in uw exemplaar?</li>
 <li>Raakt u of bijna aan het bereiken van uw API grens? 
-<br/>Als dat het geval is, kunt u overwegen het te verhogen of uw instantie te controleren om die API-aanroepen omlaag te brengen.</li></td>
+<br/>     Als dat het geval is, kunt u overwegen het te verhogen of uw instantie te controleren om die API-aanroepen omlaag te brengen.</li></td>
   </tr>
   <tr> 
    <td>Marketo Sales Insight (indien van toepassing)</td> 
    <td><li>heeft de <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI-pakket geïnstalleerd</a>?</li>
 <li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">bijgewerkt naar de nieuwste versie van Sales Insight</a>?</li>
-<li>Hebt u de configuratie van het Inzicht van de Verkoop voltooid? <br/>Enterprise/Onbeperkte gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klik hier</a>, professionele gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klik hier</a>.</li>
+<li>Hebt u de configuratie van het Inzicht van de Verkoop voltooid? <br/>     Enterprise/Onbeperkte gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">klik hier</a>, professionele gebruikers <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">klik hier</a>.</li>
 <li>Heb je <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">toegang krijgen tot uw gebruikers</a> op basis van het aantal licenties dat u hebt aangeschaft?</li>
 <li>zijn <a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">Sterren en lamellen</a> aangepast?</li></td>
   </tr>
@@ -303,7 +302,7 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th>
+   <th style="width:20%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -324,7 +323,7 @@ Zo ja, hebt u een "Adobe Admin Console Product Admin" rol gekregen van uw "Adobe
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th>
+   <th style="width:20%">Gebied</th>
    <th>Focus controleren</th>
   </tr> 
   <tr> 

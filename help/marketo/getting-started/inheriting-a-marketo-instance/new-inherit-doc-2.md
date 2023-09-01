@@ -3,7 +3,7 @@ description: Overnemen Doc 2 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: 699b213157a8a621a1f2f8544c6f4995fad930cd
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwe
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th> 
+   <th style="width:20%">Gebied</th> 
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -27,7 +27,7 @@ Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwe
    <td><li>Hoeveel mensen bestaan er in de <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md" target="_blank">database</a>?</li>
 <li>Als uw gegevensbestand bijna volledig is, adviseert uw bedrijfbeleid dat u uw gegevensbestandgrootte uitbreidt of historische gegevens schoonmaakt?</li>
 <li>Is uw algemene gegevensbestand minstens 85% verhandelbaar? 
-<br/>Als u onder deze drempelwaarde valt, bekijkt u de andere slimme systeemlijsten (Lijst van gewezen personen, Marketing opgeschort, Duplicaten, Unsubscribe) met meer controle.</li></td>
+<br/>     Als u onder deze drempelwaarde valt, bekijkt u de andere slimme systeemlijsten (Lijst van gewezen personen, Marketing opgeschort, Duplicaten, Unsubscribe) met meer controle.</li></td>
   </tr>
   <tr> 
    <td>Mensen zonder abonnement</td> 
@@ -52,12 +52,12 @@ Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwe
   <tr> 
    <td>Mogelijke duplicaten</td> 
    <td><li>Hoeveel <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">mogelijk dubbele records</a> is dat zo ?
-   <br/>Overweeg deze te verwijderen of samen te voegen.</li></td>
+   <br/>     Overweeg deze te verwijderen of samen te voegen.</li></td>
   </tr>
    <tr> 
    <td>Geen overnameprogramma</td> 
    <td><li>Hoeveel mensen hebben geen <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">overnameprogramma</a>?
-   <br/>Als er veel zijn, denk na onderzoek waarom.</li></td>
+   <br/>     Als er veel zijn, denk na onderzoek waarom.</li></td>
   </tr>
  </tbody> 
 </table>
@@ -67,13 +67,14 @@ Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwe
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th> 
+   <th style="width:20%">Gebied</th> 
    <th>Focus controleren</th>
   </tr> 
   <tr> 
    <td>Slimme lijsten</td> 
    <td><li>Hoeveel <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Slimme lijsten</a> is dat zo ? Hoe worden ze in dit geval gebruikt?</li>
-<li>Zijn de lijsten georganiseerd in een samenhangende omslagstructuur? <br/>Als u lijsten met wezen hebt, kunt u uw structuur ordenen, zodat elementen gemakkelijk te vinden zijn.</li>
+<li>Zijn de lijsten georganiseerd in een samenhangende omslagstructuur? 
+<br/>     Als u lijsten met wezen hebt, kunt u uw structuur ordenen, zodat elementen gemakkelijk te vinden zijn.</li>
 <p>Tip: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiveren</a> Slimme lijsten die u niet meer nodig hebt, helpen bij de organisatie en prestaties.</td>
   </tr>
  </tbody> 
@@ -84,7 +85,7 @@ Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwe
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th> 
+   <th style="width:20%">Gebied</th> 
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -99,7 +100,7 @@ Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwe
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th style="width:25%">Gebied</th> 
+   <th style="width:20%">Gebied</th> 
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -107,7 +108,7 @@ Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwe
    <td><li>Welke <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentaties</a> is dat zo ? Hoe worden ze gebruikt?</li>
 <li>Zijn te veel mensen in <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">standaardsegmenten</a>?</li>
 <li>Is er een segmentatie voor het verhandelbare publiek? 
-<br/>Als dat niet het geval is, kunt u er een maken.</li></td>
+<br/>     Als dat niet het geval is, kunt u er een maken.</li></td>
   </tr>
  </tbody> 
 </table>

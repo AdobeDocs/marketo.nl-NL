@@ -3,7 +3,7 @@ description: Overnemen Doc 5 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 5
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gev
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:20%">Gebied</th> 
    <th>Focus controleren</th>
   </tr> 
   <tr> 
@@ -40,13 +40,13 @@ Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gev
 <table style="table-layout:auto"> 
  <tbody> 
   <tr> 
-   <th>Gebied</th> 
+   <th style="width:20%">Gebied</th> 
    <th>Focus controleren</th>
   </tr> 
   <tr> 
    <td>Gegevenswoordenboek</td> 
    <td><li>Bestaat er een apart gegevenswoordenboek waarin de beschikbare velden worden uitgelegd?
-   <br/>Als dat niet het geval is, kunt u er een maken.</li></td>
+   <br/>     Als dat niet het geval is, kunt u er een maken.</li></td>
   </tr>
   <tr> 
    <td>Organisatie</td> 
@@ -60,7 +60,7 @@ Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gev
   <tr> 
    <td>Afspeelboeken</td> 
     <td><li>Heeft uw organisatie een Playbook van de Gebruiker of van Admin? 
-    <br/>Zo ja, werkt u die bij.</li></td>
+    <br/>     Zo ja, werkt u die bij.</li></td>
   </tr>
   <tr> 
    <td>Gesprek met interne belanghebbenden</td> 
