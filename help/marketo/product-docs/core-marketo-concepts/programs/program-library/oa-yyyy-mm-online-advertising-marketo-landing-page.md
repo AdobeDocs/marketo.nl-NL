@@ -4,9 +4,9 @@ title: Openingspagina Marketo van OA-YYYY-MM-Online Advertising
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '480'
 ht-degree: 0%
 
 ---
@@ -29,8 +29,8 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr> 
   <tr> 
    <td>Online advertentie</td> 
-   <td>01-Lid 
-<br/>02-Betrokken-Succes</td>
+   <td>01 - Lid 
+<br/>02 - Betrokken - Succes</td>
    <td>Inclusief</td>
    <td>Standaard</td>
   </tr>
@@ -53,17 +53,17 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>01-E-mail-Dank u</td>
   </tr>
   <tr> 
    <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>01 - LP - Registratie</td>
   </tr>
    <tr> 
    <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>02 - LP - Dank u</td>
   </tr>
    <tr> 
@@ -79,17 +79,17 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>Ophaalprogramma voor 00-vastlegging</td>
+   <td>00 - Programma voor overname van vastleggingen</td>
   </tr>
   <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>01-formulier met vulling</td>
+   <td>01 - Formulier invullen</td>
   </tr>
   <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>02-Betrokken (succes van programma)</td>
+   <td>02 - Betrokken (succes van programma)</td>
   </tr>
   <tr> 
    <td>Map</td> 
@@ -207,7 +207,7 @@ SCHERM VAN CONFLICTREGELS
 
 >[!TIP]
 >
->Vergeet niet de ‘02-Betrokken&#39; campagne te activeren om succes te volgen! Doe dit _voor_ uw formulier is live en e-mails worden verzonden.
+>Vergeet niet de campagne &quot;02 - Betrokken (succes programma)&quot; te activeren om succes te volgen! Doe dit _voor_ uw formulier is live en e-mails worden verzonden.
 
 >[!IMPORTANT]
 >

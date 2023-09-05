@@ -4,9 +4,9 @@ title: CT-YYYY-MM-Content op Marketo Landing Page
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -48,23 +48,23 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr> 
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>01-E-mail-Dank u</td>
   </tr>
   <tr> 
    <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>01 - LP - Registratie</td>
   </tr>
   <tr> 
    <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>02 - LP - Dank u</td>
   </tr>
   <tr> 
    <td>Formulier</td> 
    <td> </td>
-   <td>Inhoudsregistratieformulier</td>
+   <td>FM - Inhoudsregistratieformulier</td>
   </tr>
   <tr> 
    <td>Lokaal rapport</td> 
@@ -76,21 +76,26 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    <td> </td>
    <td>Prestaties van bestemmingspagina</td>
   </tr>
-  <tr> 
+   <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>01-formulier met vulling</td>
+   <td>00 - Programma voor overname van vastleggingen</td>
   </tr>
   <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>02-Betrokken (succes van programma)</td>
+   <td>01 - Formulier invullen</td>
+  </tr>
+  <tr> 
+   <td>Slimme campagne</td> 
+   <td> </td>
+   <td>02 - Betrokken (succes van programma)</td>
   </tr>
   <tr> 
    <td>Map</td> 
    <td> </td>
    <td>Middelen - alle creatieve middelen onderbrengen 
-<br/>(submappen voor e-mail- en bestemmingspagina's)  </td>
+<br/>(submappen voor e-mails, bestemmingspagina's en Forms)  </td>
   </tr>
   <tr> 
    <td>Map</td> 
