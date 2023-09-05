@@ -4,7 +4,7 @@ title: EV-YYYY-MM-DD-Event-programma
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '566'
 ht-degree: 1%
@@ -51,47 +51,47 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr> 
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>01-E-mail-Dank u</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>02a- E-mail - Uitnodiging</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>02b - E-mail - Herinnering voor uitnodiging</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>02c- E-mail - Herinnering uitnodiging Laatste kans</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>03 - E-mail - Herinnering om bij te wonen</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>04a - E-mail - Follow-up - Bijgewoond</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>04b - E-mail - Follow-up - GeenTonen</td>
   </tr>
   <tr> 
    <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>01a - LP - Registratie</td>
   </tr>
   <tr> 
    <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>01b - LP - Dank u</td>
   </tr>
   <tr> 

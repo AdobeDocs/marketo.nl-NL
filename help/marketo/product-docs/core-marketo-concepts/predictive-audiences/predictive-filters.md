@@ -3,9 +3,9 @@ description: Predictieve filters - Marketo Docs - Productdocumentatie
 title: Voorspelende filters
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9019cb4b81fb3acd744e644d51059644af454e5e
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Als onderdeel van voorspellende soorten publiek biedt Marketo een groep op AI/ML
 
 >[!NOTE]
 >
->De filters &quot;Waarschijnlijk bij te wonen&quot; en &quot;Waarschijnlijk in te schrijven&quot; kunnen alleen worden gebruikt in gebeurtenis- of e-mailprogramma&#39;s. &quot;Waarschijnlijkheid aan Unsubscribe,&quot;&quot;Lookalike van de Leden van het Programma,&quot;en &quot;Lookalike van Slimme Leden van de Lijst&quot;kan in alle programmatypen worden gebruikt.
+>De filters &quot;Waarschijnlijk bij te wonen&quot; en &quot;Waarschijnlijk te registreren&quot; kunnen alleen worden gebruikt in gebeurtenisprogramma&#39;s. &quot;Waarschijnlijkheid aan Unsubscribe,&quot;&quot;Lookalike van de Leden van het Programma,&quot;en &quot;Lookalike van Slimme Leden van de Lijst&quot;kan in alle programmatypen worden gebruikt.
 
 ## Waarschijnlijkheid om bij te wonen {#likelihood-to-attend}
 

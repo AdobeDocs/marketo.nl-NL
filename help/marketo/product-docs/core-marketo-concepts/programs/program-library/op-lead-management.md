@@ -4,7 +4,7 @@ title: Beheer van OP-lead
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -61,7 +61,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>01 - E-mail - WAARSCHUWING - MQL</td>
   </tr>
   <tr> 

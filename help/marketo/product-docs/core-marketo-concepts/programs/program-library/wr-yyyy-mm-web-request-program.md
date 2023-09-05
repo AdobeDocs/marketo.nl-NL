@@ -4,7 +4,7 @@ title: WR-YYYY-MM-Web Request-programma
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '409'
 ht-degree: 0%
@@ -52,17 +52,17 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>Alert-WebRequest</td>
   </tr>
   <tr> 
    <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>01 - LP - Verzoek</td>
   </tr>
   <tr> 
    <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>02 - LP - Dank u</td>
   </tr>
   <tr> 

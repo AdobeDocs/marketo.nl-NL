@@ -4,7 +4,7 @@ title: NL-YYYY-MM-Newsletter
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 1%
@@ -48,7 +48,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr> 
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>01 - E-mail</td>
   </tr>
   <tr> 
