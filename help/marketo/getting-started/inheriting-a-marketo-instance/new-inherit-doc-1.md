@@ -3,9 +3,9 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 088f51a5aa6be65f5f2e4f8ae5df946f6bdf2866
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1433'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
 <li>Hebt u een "Marketo Engage Product Admin"rol in Marketo Engage/Admin/Gebruikers &amp; Rollen gekregen?</li> 
 <li>Hebt u Marketo Engage toegewezen aan alle relevante gebruikersprofielen in de Adobe Admin Console?
 <br/>     Als dat niet het geval is, moet u Marketo Engage toewijzen aan het Adobe IMS-productprofiel voordat u de rollen toewijst aan Marketo Engage/Admin/Users &amp; Roles.</li>
-<p>Opmerking: als uw abonnement meer dan 75 gebruikers heeft en net naar Adobe IMS is gemigreerd, kunt u gebruikers selecteren om in batches te migreren en hun Adobe te beheren Identificeren in groepen of in alle gevallen tegelijk. Meer informatie over wat u kunt verwachten <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS-migratiedag</a>.</td>
+<p><img src="assets/note-icon-25.png" alt="notitiepictogram">OPMERKING: als uw abonnement meer dan 75 gebruikers heeft en net naar Adobe IMS is gemigreerd, kunt u gebruikers selecteren om in batches te migreren en hun Adobe te beheren Identificeer in groepen of alles tegelijk. Meer informatie over wat u kunt verwachten <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS-migratiedag</a>.</td>
   </tr>
   <tr> 
    <td>Gebruikersbeheer-API</td> 
@@ -261,7 +261,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
    <td><li>Is uw <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-trackingcode</a> op uw website (Niet in Marketo)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Niet bijhouden</a> Browserverzoek ingeschakeld?</li>
 <li>Is uw <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> geconfigureerd? 
-<p>Tip: als u documentatie mist over de locatie van de code op uw website, kunt u alle URL's weergeven door een <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Rapport over activiteiten op webpagina</a>.</li></td>
+<p><img src="assets/tip-icon-25.png" alt="notitiepictogram">TIP: Als u documentatie mist over de plaats waar de code van de munchkin zich op uw website bevindt, kunt u alle URL's bekijken door een <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Rapport over activiteiten op webpagina</a>.</li></td>
   </tr>
   <tr> 
    <td>Webservices</td> 
