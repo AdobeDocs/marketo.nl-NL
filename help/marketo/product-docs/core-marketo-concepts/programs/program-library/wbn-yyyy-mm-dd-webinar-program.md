@@ -4,9 +4,9 @@ title: WBN-YYYY-MM-DD-Webinar-programma
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: '581'
 ht-degree: 1%
 
 ---
@@ -53,37 +53,37 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr> 
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>01 - E-mail - Uitnodiging</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>02 - E-mail - Herinnering voor uitnodiging</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>03 - E-mail - Herinnering voor uitnodiging - Laatste keuze</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>04 - E-mail - Bevestiging van inschrijving</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>05 - E-mail - Herinnering om bij te wonen</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>06 -E-mail - Follow-up - Bijgewoond</td>
   </tr>
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>07 - E-mail - Follow-up - Geen weergave </td>
   </tr>
   <tr>
@@ -94,17 +94,17 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr>
   <tr> 
    <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>01 - LP - Registratie</td>
   </tr>
   <tr> 
    <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>02 - LP - Dank u</td>
   </tr>
   <tr> 
    <td>Openingspagina</td> 
-   <td>LP-sjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">LP-sjabloon snel starten</a></td>
    <td>03 - LP - Op aanvraag</td>
   </tr>
   <tr> 
@@ -150,17 +150,12 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>04 - Bijgewoond (succes van programma)</td>
+   <td>04 - Verstuur vervolgberichten</td>
   </tr>
   <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>05 - Verstuur vervolgberichten</td>
-  </tr>
-  <tr> 
-   <td>Slimme campagne</td> 
-   <td> </td>
-   <td>06 - Bijgewoonde on-demand (succes van programma)</td>
+   <td>05 - Bijgewoonde on-demand (succes van programma)</td>
   </tr>
   <tr> 
    <td>Map</td> 
@@ -333,7 +328,7 @@ SCHERM VAN CONFLICTREGELS
 
 >[!TIP]
 >
->Vergeet niet de campagnes &quot;04-Bijgewoond (het Succes van het Programma)&quot;en &quot;06-Bijgewoond On-Demand (het Succes van het Programma)&quot;voor het volgen van succes te activeren! Doe dit _voor_ je e-mailberichten worden verzonden.
+>Vergeet niet de campagne &quot;05 - Bijgewoond (Programma Succes)&quot;voor het volgen van succes te activeren! Doe dit _voor_ je e-mailberichten worden verzonden.
 
 >[!IMPORTANT]
 >

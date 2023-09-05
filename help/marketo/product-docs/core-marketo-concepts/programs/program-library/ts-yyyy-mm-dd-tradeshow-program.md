@@ -4,9 +4,9 @@ title: TS-YYYY-MM-DD-Tradeshow-programma
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: ea276734b6d277f4a3548a9a697e1c7ed4c30e2d
+source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
@@ -52,12 +52,12 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
   </tr> 
   <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>01-E-mail-Dank u</td>
   </tr>
    <tr> 
    <td>E-mail</td> 
-   <td>E-mailsjabloon snel starten</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">E-mailsjabloon snel starten</a></td>
    <td>02a- E-mail - Uitnodiging</td>
   </tr>
   <tr>
@@ -84,17 +84,12 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>02 - Betrokken bij tonen (geslaagd)</td>
+   <td>02 - Verstuur vervolgberichten</td>
   </tr>
    <tr> 
    <td>Slimme campagne</td> 
    <td> </td>
-   <td>03 - Verstuur vervolgberichten</td>
-  </tr>
-   <tr> 
-   <td>Slimme campagne</td> 
-   <td> </td>
-   <td>04 - Betrokken door follow-up-e-mail (geslaagd)</td>
+   <td>03 - Betrokken door follow-up-e-mail (geslaagd)</td>
   </tr>
   <tr> 
    <td>Map</td> 
@@ -219,7 +214,7 @@ SCHERM VAN CONFLICTREGELS
 
 >[!TIP]
 >
->Vergeet niet de campagnes &quot;02-Engaged at Show (het Succes van het Programma)&quot; en &quot;04-Engaged by Follow-up Email (het Succes van het Programma)&quot;voor het volgen van succes te activeren! Doe dit _voor_ je e-mailberichten worden verzonden.
+>Vergeet niet de campagne &quot;03 - Betrokken door follow-up-e-mail (Program Success)&quot; te activeren voor het bijhouden van succes! Doe dit _voor_ je e-mailberichten worden verzonden.
 
 >[!IMPORTANT]
 >
