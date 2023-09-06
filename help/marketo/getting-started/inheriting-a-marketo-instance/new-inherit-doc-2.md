@@ -3,9 +3,9 @@ description: Overnemen Doc 2 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 2
 hide: true
 hidefromtoc: true
-source-git-commit: f41cb94d96d475e7ea063fb6fbbab3b2363f6346
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -75,7 +75,7 @@ Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwe
    <td><li>Hoeveel <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Slimme lijsten</a> is dat zo ? Hoe worden ze in dit geval gebruikt?</li>
 <li>Zijn de lijsten georganiseerd in een samenhangende omslagstructuur? 
 <br/>     Als u lijsten met wezen hebt, kunt u uw structuur ordenen, zodat elementen gemakkelijk te vinden zijn.</li>
-<p>Tip: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiveren</a> Slimme lijsten die u niet meer nodig hebt, helpen bij de organisatie en prestaties.</td>
+<p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiveren</a> Slimme lijsten die u niet meer nodig hebt, helpen bij de organisatie en prestaties.</td>
   </tr>
  </tbody> 
 </table>

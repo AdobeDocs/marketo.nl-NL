@@ -3,9 +3,9 @@ description: Overnemen Doc 4 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 4
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -60,13 +60,13 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
   <tr> 
    <td>Gegevensstandaardisering</td> 
    <td><li>bent u <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">formuliervelden</a> voornamelijk picklists of tekstvelden openen?</li>
-<p>Tip: als het open tekstvelden zijn, kunt u ze overzetten op picklists om rommelige gegevens te voorkomen.</td>
+<p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Als ze open tekstvelden zijn, kunt u ze overzetten op picklists om rommelige gegevens te voorkomen.</td>
   </tr>
   <tr> 
    <td>Privacy en naleving</td> 
    <td><li>Is uw formulierstrategie in overeenstemming met uw privacy en aanmeldingsvereisten voor bedrijfsgegevens? 
    <br/>     Overweeg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Algemene verordening inzake gegevensbescherming (GDPR)</a>, de Canadese antispamwet (CASL), de Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), de California Consumer Privacy Act (CCPA), enz., voor naleving van de regelgeving.</li>
-<p>Tip: vergeet niet altijd uw juridische team te raadplegen over deze kwesties. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
+<p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Vergeet niet altijd uw juridische team te raadplegen over deze kwesties. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
   </tr>
  </tbody> 
 </table>
@@ -94,7 +94,7 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
   <tr> 
    <td>Privacy en naleving</td> 
    <td><li>Beschikken al je e-mails over de juiste voetteksten? Denk aan GDPR, CASL, CAN-SPAM, CCPA, enz. voor gevolgen voor de naleving.</li>
-<p>Tip: vergeet niet altijd uw juridische team te raadplegen over deze compatibiliteitsproblemen. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
+<p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Vergeet niet altijd uw juridische team te raadplegen over deze compatibiliteitsproblemen. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
   </tr>
  </tbody> 
 </table>
@@ -156,7 +156,7 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
   <tr> 
    <td>Delen van middelen</td> 
    <td><li>Welke activa zijn <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">gedeeld over Werkruimten</a>?</li>
-   <p>Opmerking: het is belangrijk om dit te weten, omdat acties die in één werkruimte worden uitgevoerd, kunnen leiden tot een ontoegankelijk element in een andere werkruimte voor een andere gebruiker.</td>
+   <p><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: Het is belangrijk om dit te weten aangezien de acties in één Werkruimte tot een ontoegankelijk middel in een verschillende Werkruimte voor een andere gebruiker zouden kunnen leiden.</td>
   </tr>
  </tbody> 
 </table>

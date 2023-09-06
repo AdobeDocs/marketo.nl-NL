@@ -4,9 +4,9 @@ title: E-mailsjabloon snel starten
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '577'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * Opvulling onder in module
    * Achtergrondkleur van module
    * Uitlijning van het logo
-* PICC
+* ![](assets/quick-start-email-template-1.png)
 
 ### Afbeeldingsmodule {#image-module}
 
@@ -46,7 +46,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * Opvulling boven in module
    * Opvulling onder in module
    * Achtergrondkleur van module
-* PICC
+* ![](assets/quick-start-email-template-2.png)
 
 ### Kopmodule {#headline-module}
 
@@ -58,7 +58,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * Fontgrootte van kopregel (kan ook worden bewerkt in de RTF-editor)
    * Fontkleur van kop (dit kan ook worden bewerkt in de RTF-editor)
    * Uitlijning van de koptekst (deze kan ook worden bewerkt in de RTF-editor)
-* PICC
+* ![](assets/quick-start-email-template-3.png)
 
 ### Subheadlinemodule {#subheadline-module}
 
@@ -70,7 +70,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * Fontgrootte van subkop (kan ook worden bewerkt in de RTF-editor)
    * Fontkleur van subkop (dit kan ook worden bewerkt in de RTF-editor)
    * Uitlijning van de subkoptekst (deze kan ook worden bewerkt in de RTF-editor)
-* PICC
+* ![](assets/quick-start-email-template-4.png)
 
 ### Vrije-tekstmodule {#free-text-module}
 
@@ -82,7 +82,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * Tekengrootte van tekst (kan ook worden bewerkt in de RTF-editor)
    * Tekstkleur van tekst (kan ook worden bewerkt in de RTF-editor)
    * Uitlijning van de tekst (deze kan ook worden bewerkt in de RTF-editor)
-* PICC
+* ![](assets/quick-start-email-template-5.png)
 
 ### CTA-module {#cta-module}
 
@@ -97,7 +97,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * CTA-URL
    * CTA tekst
    * CTA-uitlijning
-* PICC
+* ![](assets/quick-start-email-template-6.png)
 
 ### Scheidingsmodule {#divider-module}
 
@@ -108,7 +108,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * Scheidingskleur
    * Hoogte van scheidingslijn (in pixels)
    * Breedte scheidingslijn (als %)
-* PICC
+* ![](assets/quick-start-email-template-7.png)
 
 ### Voettekstmodule {#footer-module}
 
@@ -120,4 +120,4 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * Achtergrondkleur van module
    * Tekstkleur
    * Inhoud uitlijnen
-* PICC
+* ![](assets/quick-start-email-template-8.png)

@@ -4,9 +4,9 @@ title: Sjabloon voor startpagina snel starten
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * De sectie tonen of verbergen
    * Opvulling boven in de sectie
    * Opvulling onder in de sectie
-* PICC
+* ![](assets/quick-start-landing-page-template-1.png)
 
 ### Sectie Afbeelding {#image-section}
 
@@ -42,7 +42,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * De koppeling naar de bannerafbeelding
    * De bannerbreedte - een van de schakelaars op het bodemrecht staat u toe om het beeld of de breedte van de inhoudcontainer of de breedte van volledige browser te maken
    * De sectie tonen of verbergen
-* PICC
+* ![](assets/quick-start-landing-page-template-2.png)
 
 ### Tekst met twee kolommen links, formulier rechts {#two-col-left-form-right}
 
@@ -56,7 +56,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * De volledige sectie tonen of verbergen
    * Alleen het formulier weergeven of verbergen (als u het formulier verbergt, wordt de breedte van de pagina opgevuld met de tekst in de linkerkolom. Dit kan worden gebruikt voor een pagina voor bedankt of bevestiging als er geen formulier aanwezig is.)
    * De tekst van het privacybeleid weergeven of verbergen
-* PICC
+* ![](assets/quick-start-landing-page-template-3.png)
 
 ### Videosectie {#video-section}
 
@@ -66,7 +66,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * Insluitcode video
    * Titel van video tonen/verbergen
    * Video tonen/verbergen
-* PICC
+* ![](assets/quick-start-landing-page-template-4.png)
 
 ### Sectie Voettekst {#footer-section}
 
@@ -76,7 +76,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
    * Achtergrondkleur voor sectie
    * Kleur van sociale pictogrammen
    * Sectie tonen/verbergen
-* PICC
+* ![](assets/quick-start-landing-page-template-5.png)
 
 ### Aanvullende variabelen {#additional-variables}
 

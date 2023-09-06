@@ -3,9 +3,9 @@ description: Overnemen Doc 3 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 3
 hide: true
 hidefromtoc: true
-source-git-commit: fa36cb5e56236670c82d0471b599c2d3599bc174
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '806'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
    <td>Archief</td> 
    <td><li>Zijn oudere programma's <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">gearchiveerd</a>?</li>
 <li>Hoe vaak controleert en archiveert uw bedrijf oude programma's?</li>
-<p>Tip: Het is goed om elk jaar een revisie uit te voeren.</td>
+<p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Het is goed om elk jaar een revisie uit te voeren.</td>
   </tr>
   <tr> 
    <td>Meldingen</td> 
@@ -54,7 +54,7 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
    <td>Abonnementen slimme lijsten 
    <br/>(Marketingactiviteiten/Abonnementen tabblad)</td> 
    <td><li>Zijn er nog <a href="/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md" target="_blank">Abonnementen voor slimme lijsten</a> in jouw geval? Zo ja, wie gaan ze dan doen?</li>
-<p>Tip: denk na plaatsend de Slimme abonnementen van de Lijst om naar een teamalias eerder dan een individu te gaan. Dit geldt voor het geval dat individuen het kantoor verlaten.</td>
+<p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Overweeg het instellen van Smart List-abonnementen om naar een team-alias te gaan in plaats van naar een individu. Dit geldt voor het geval dat individuen het kantoor verlaten.</td>
   </tr>
  </tbody> 
 </table>
@@ -96,7 +96,7 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
    <td>Lokale Forms</td> 
    <td><li>Hoeveel programma's hebben lokale <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">formulieren</a>? Moeten deze vormen worden omgezet in mondiale vormen?</li>
 <li>Vangsten zij aangewezen gegevens voor uw Marketing en teams van de Verkoop?</li>
-<p>Tip: Beperk het aantal lokale formulieren om het bijwerken en aanpassen aan wijzigingen in de privacy van gegevens en het opt-in-/opt-out-beleid te vereenvoudigen. Welke vragen moeten worden gesteld bij het maken van een formulier? Als de verzamelde informatie niet verandert en de geavanceerde vormfunctionaliteit niet verschuift, overweeg een globaal vorm in plaats van een lokale vorm.</td>
+<p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Beperk het aantal lokale formulieren om het bijwerken en aanpassen aan wijzigingen in de privacy van gegevens en het opt-in-/opt-out-beleid te vereenvoudigen. Welke vragen moeten worden gesteld bij het maken van een formulier? Als de verzamelde informatie niet verandert en de geavanceerde vormfunctionaliteit niet verschuift, overweeg een globaal vorm in plaats van een lokale vorm.</td>
   </tr>
   <tr> 
    <td>Global Forms</td> 
@@ -127,7 +127,7 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
   <tr> 
    <td>Bron persoon</td> 
    <td><li>Hebt u een gecentraliseerd programma dat waarden toewijst aan de gebieden van de persoonbron?</li>
-<p>Opmerking: Marketo Engage verzamelt automatisch gegevens in een bronveld, ongeacht de operationele programma's.</td>
+<p><img src="assets/note-icon.png" alt="notitiepictogram"> NOTA: Marketo Engage verzamelt automatisch gegevens op een brongebied ongeacht operationele programma's.</td>
   </tr>
   <tr> 
    <td>Gegevensstandaardisering</td> 
@@ -141,7 +141,7 @@ Organiseer uw sectie van de Activiteiten van de Marketing behoorlijk om anderen 
    <td>Privacy en naleving</td> 
    <td><li>Hebt u programma's om ervoor te zorgen u met de privacy van gegevens en spamwetten verenigbaar bent? 
    <br/>     Overweeg <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR</a>, CASL, CAN-SPAM, CCPA, enz.</li>
-<p>Tip: vergeet niet altijd uw juridische team te raadplegen over deze kwesties. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
+<p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Vergeet niet altijd uw juridische team te raadplegen over deze kwesties. Vraag uw team naar vorige initiatieven om naleving te handhaven alvorens om het even welke veranderingen aan te brengen.</td>
   </tr>
   <tr> 
    <td>Levenscyclus</td> 

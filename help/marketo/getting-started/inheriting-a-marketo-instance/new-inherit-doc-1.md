@@ -3,9 +3,9 @@ description: Overnemen Doc 1 - Marketo Docs - Productdocumentatie
 title: Overnemen Doc 1
 hide: true
 hidefromtoc: true
-source-git-commit: 088f51a5aa6be65f5f2e4f8ae5df946f6bdf2866
+source-git-commit: 77314760bfd188725440311f3dc9da2005488ee5
 workflow-type: tm+mt
-source-wordcount: '1433'
+source-wordcount: '1437'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
 <li>Hebt u een "Marketo Engage Product Admin"rol in Marketo Engage/Admin/Gebruikers &amp; Rollen gekregen?</li> 
 <li>Hebt u Marketo Engage toegewezen aan alle relevante gebruikersprofielen in de Adobe Admin Console?
 <br/>     Als dat niet het geval is, moet u Marketo Engage toewijzen aan het Adobe IMS-productprofiel voordat u de rollen toewijst aan Marketo Engage/Admin/Users &amp; Roles.</li>
-<p><img src="assets/note-icon-25.png" alt="notitiepictogram">OPMERKING: als uw abonnement meer dan 75 gebruikers heeft en net naar Adobe IMS is gemigreerd, kunt u gebruikers selecteren om in batches te migreren en hun Adobe te beheren Identificeer in groepen of alles tegelijk. Meer informatie over wat u kunt verwachten <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS-migratiedag</a>.</td>
+<p><img src="assets/note-icon.png" alt="notitiepictogram"> OPMERKING: als uw abonnement meer dan 75 gebruikers heeft en net naar Adobe IMS is gemigreerd, kunt u gebruikers selecteren om in batches te migreren en hun Adobe te beheren Identificeer in groepen of alles tegelijk. Meer informatie over wat u kunt verwachten <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md#prepare-users-for-migration-day" target="_blank">Adobe IMS-migratiedag</a>.</td>
   </tr>
   <tr> 
    <td>Gebruikersbeheer-API</td> 
@@ -159,7 +159,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
   <tr> 
    <td>Communicatielimieten</td> 
    <td><li>Zijn er <a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">communicatielimieten</a> op zijn plaats? Heeft uw bedrijf beleid waar de communicatie grenzen noodzakelijk zouden kunnen zijn?</li>
-<p>Opmerking: we raden u aan uw communicatie te beperken tot 1 per dag en 3 per 7 dagen, met <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operationeel</a> e-mailberichten geblokkeerd.</td>
+<p><img src="assets/note-icon.png" alt="notitiepictogram"> OPMERKING: We raden u aan uw communicatie te beperken tot 1 per dag en 3 per 7 dagen, met <b>non</b>-<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">operationeel</a> e-mailberichten geblokkeerd.</td>
   </tr>
  </tbody> 
 </table>
@@ -242,7 +242,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
    <td><li>Met welke CRM synchroniseert u? Salesforce? MS Dynamics? Veeva?</li>
 <li>Gebruikt u een <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">aangepaste synchronisatie</a>?</li>
 <li>[Alleen Salesforce] Heeft uw instantie aangepaste synchronisatiefilters geïmplementeerd? 
-<p>Opmerking: neem contact op met de Marketo-ondersteuning om Aangepaste synchronisatiefilters te identificeren of om een aangepaste synchronisatieregel te vragen.</li></td>
+<p><img src="assets/note-icon.png" alt="notitiepictogram"> OPMERKING: neem contact op met de ondersteuning van Marketo om Aangepaste synchronisatiefilters te identificeren of om een aangepaste synchronisatieregel te vragen.</li></td>
   </tr>
   <tr> 
    <td>Landingspagina's</td> 
@@ -261,7 +261,7 @@ De onderstaande checklists (hiernavolgende checklists die aan de onderkant van e
    <td><li>Is uw <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin-trackingcode</a> op uw website (Niet in Marketo)?</li>
 <li>Is a <a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">Niet bijhouden</a> Browserverzoek ingeschakeld?</li>
 <li>Is uw <a href="https://developers.marketo.com/javascript-api/lead-tracking/" target="_blank">Munchkin-API</a> geconfigureerd? 
-<p><img src="assets/tip-icon-25.png" alt="notitiepictogram">TIP: Als u documentatie mist over de plaats waar de code van de munchkin zich op uw website bevindt, kunt u alle URL's bekijken door een <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Rapport over activiteiten op webpagina</a>.</li></td>
+<p><img src="assets/tip-icon.png" alt="pictogram tip">TIP: Als u documentatie mist over de plaats waar de code van de munchkin zich op uw website bevindt, kunt u alle URL's bekijken door een <a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">Rapport over activiteiten op webpagina</a>.</li></td>
   </tr>
   <tr> 
    <td>Webservices</td> 
