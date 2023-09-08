@@ -4,9 +4,9 @@ title: Overzicht van Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '876'
 ht-degree: 1%
 
 ---
@@ -52,6 +52,10 @@ Hier ziet u alle afspraken die door websitebezoekers zijn gepland via uw verschi
 ## Routering {#routing}
 
 Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben aangesloten, welke orde zij aan websitebezoekers zullen worden voorgesteld, en douane het verpletteren regels tot stand brengen. [Meer informatie over routeren](/help/marketo/product-docs/demand-generation/dynamic-chat/appointment-scheduling/routing.md){target="_blank"}
+
+## Live Chat {#live-chat}
+
+Bied uw gekwalificeerde webbezoekers via live chat contact met uw verkoopvertegenwoordigers. KOPPELEN AAN DOC
 
 ## Veelgestelde vragen {#faq}
 
