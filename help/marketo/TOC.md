@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 69c2dc58f8ca609702f6e39543d8d72cba6b439c
+source-git-commit: 5d2c7f39805473a94f9d67dd829faf37d87631b1
 workflow-type: tm+mt
-source-wordcount: '9073'
+source-wordcount: '9083'
 ht-degree: 0%
 
 ---
@@ -647,7 +647,11 @@ ht-degree: 0%
          + [Google Customer Match toevoegen als een opstartpuntservice](product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)
          + [Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Een lijst verzenden naar een advertentienetwerk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
+      + Dynamic Chat twee {#dynamic-chat-two}
+         + Geautomatiseerde chat {#automated-chat}
+            + [Instellingen voor conversie](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
       + Dynamic Chat {#dynamic-chat}
+         + [Geen invoegingen](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Overzicht van Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
          + [Eerste instelling](product-docs/demand-generation/dynamic-chat/initial-setup.md)
          + [Chatgebruikers toevoegen of verwijderen](product-docs/demand-generation/dynamic-chat/add-or-remove-chat-users.md)
