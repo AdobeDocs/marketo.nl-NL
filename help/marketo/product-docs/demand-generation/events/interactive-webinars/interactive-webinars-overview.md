@@ -3,9 +3,9 @@ description: Interactieve webinars - Overzicht van Marketo Docs - Productdocumen
 title: Overzicht van interactieve webinars
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7e1f289cb074e016308b75b913a3faeafe149404
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Na webinar, toegang [analyse van gebeurtenisprestaties](/help/marketo/product-do
 **Heb ik een afzonderlijk abonnement nodig om Interactieve Webinars te gebruiken?**
 
 Nee. Alleen een abonnement op een actief Marketo Engage is vereist voor het gebruik van interactieve webinars.
+
+**Welke talen zijn beschikbaar voor Interactieve Webinars?**
+
+Interactieve webinars zijn beschikbaar in alle zes door Marketo ondersteunde talen: Engels, Frans, Duits, Japans, Portugees en Spaans. Dezelfde talen worden door Adobe Connect ook ondersteund tijdens de webinar levering via interactieve webinars.
 
 **Ik heb mijn opgenomen aantal interactieve webinars uitgeput. Hoe krijg ik meer sessies of meer capaciteit?**
 

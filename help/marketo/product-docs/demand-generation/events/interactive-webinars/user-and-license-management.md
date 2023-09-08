@@ -3,9 +3,9 @@ description: Gebruikers- en licentiebeheer - Marketo Docs - Productdocumentatie
 title: Gebruiker- en licentiebeheer
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '703'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Leer om gebruikers toe te voegen en te verwijderen en uw huidige vergunningen te
 
 ## Een gebruiker toevoegen {#add-a-user}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **Beheerder** gebied.
 
    ![](assets/user-and-license-management-1.png)
 
@@ -34,7 +34,7 @@ Leer om gebruikers toe te voegen en te verwijderen en uw huidige vergunningen te
 
 ## Een gebruiker verwijderen {#remove-a-user}
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **Beheerder** gebied.
 
    ![](assets/user-and-license-management-5.png)
 
@@ -52,9 +52,9 @@ Leer om gebruikers toe te voegen en te verwijderen en uw huidige vergunningen te
 
 ## Licentiegebruik {#license-usage}
 
-Interactive Webinars biedt specifieke licenties voor het maken van gebeurtenissen die worden aangedreven door Adobe Connect. Telkens wanneer een licentie wordt toegevoegd, wordt er een nieuw gebruiksvak voor de licentie weergegeven. Marketo Admins kan de licenties weergeven (niet bewerken) door de onderstaande stappen uit te voeren. Neem contact op met het accountteam van Adobe (uw accountmanager) voor extra licenties.
+Interactive Webinars biedt specifieke licenties voor het maken van gebeurtenissen die worden aangedreven door Adobe Connect. Telkens wanneer een licentie wordt toegevoegd, wordt er een nieuw gebruiksvak voor de licentie weergegeven. Marketo Admins kan de licenties weergeven (niet bewerken) door de onderstaande stappen uit te voeren. Neem contact op met het accountteam van de Adobe (uw accountmanager) voor extra licenties.
 
-1. Ga naar de **Beheer** gebied.
+1. Ga naar de **Beheerder** gebied.
 
    ![](assets/user-and-license-management-9.png)
 
@@ -77,7 +77,7 @@ Interactive Webinars biedt specifieke licenties voor het maken van gebeurtenisse
   </tr>
   <tr> 
    <td><b>Type</b></td>
-   <td>Het type licentie dat is aangeschaft. Er zijn drie typen beschikbaar: Licentie voor gedeelde gebeurtenissen, licentie voor gedeelde ruimten, extra opslaglicentie.</td>
+   <td>Het type licentie dat is aangeschaft. Er zijn drie typen beschikbaar: licentie voor gedeelde gebeurtenissen, licentie voor gedeelde ruimten, extra opslaglicentie.</td>
   </tr>
   <tr> 
    <td><b>Gebeurteniscapaciteit</b></td>
@@ -93,7 +93,7 @@ Interactive Webinars biedt specifieke licenties voor het maken van gebeurtenisse
   </tr>
   <tr> 
    <td><b>Opslagcapaciteit</b></td>
-   <td>Bedrag van de beschikbare opslagruimte voor het opslaan van opnamen, zekerheden, hero images, documentatie en andere activa.</td>
+   <td>Bedrag van de opslagruimte die beschikbaar is voor het opslaan van opnamen, zekerheden, hero images, documentatie en andere activa.</td>
   </tr>
   </tbody>
 </table>
@@ -107,3 +107,15 @@ Interactive Webinars biedt specifieke licenties voor het maken van gebeurtenisse
 * Telkens wanneer een gebeurtenis wordt gecreeerd, zal het als &quot;verbruikt&quot;van zijn respectieve vergunning (tenzij het een Gedeelde Vergunning van de Ruimte is) tellen. De voorkeur wordt gegeven aan &quot;Shared Event License&quot; als er zowel &quot;Shared Event License&quot; als &quot;Shared Room License&quot; met dezelfde capaciteit zijn. Als de gebeurtenis niet is afgeleverd en als het gebeurtenisprogramma voor de geplande tijd wordt verwijderd, wordt het aantal gebeurtenissen verhoogd door een gebeurtenis van de verbruikte gebeurtenissen af te trekken.
 
 * Zodra een licentie is uitgeput, blijft de tegel op het scherm Interactieve webinars in de Admin-sectie met &quot;Totaal aantal gebeurtenissen&quot; en &quot;Verbruikte gebeurtenissen&quot; met dezelfde waarde staan. Alleen wanneer de licentie verloopt, wordt deze van het scherm verwijderd.
+
+## Toegang tot gebruikers {#user-access}
+
+Interactieve webinars hebben de functionaliteit om het gebruik te regelen door gebruikers van het Marketo Engage machtigingen te geven om interactieve webinars te maken en te leveren. Een interactieve webinar-gebruiker (of niet-gebruiker) kan echter nog wel lees- en bewerktoegang hebben tot programma&#39;s voor interactieve webinars die door andere gebruikers zijn gemaakt.
+
+Marketo-gebruikers aan wie interactieve webinars is toegestaan en die eigenaar zijn van een bepaald Interactief Webinars-gebeurtenisprogramma, kunnen alle interactieve webinar-functies met betrekking tot dat programma uitvoeren. Dit omvat: het creëren van, de toegang tot van, het wijzigen van, het klonen van, het bewegen van, en het schrappen van dat programma. Nochtans, zodra die gebruiker niet meer een Interactieve webinar gebruiker is, zou de eigenaar van het programma tot het programma kunnen toegang hebben en bewegen, maar geen andere functies uitvoeren.
+
+Marketo-gebruikers die interactieve webinars hebben ontvangen en die _niet_ eigenaars van een bepaald Interactive Webinars Event Program zouden beperkte functies kunnen uitoefenen op die programma&#39;s. Marketo-gebruikers zonder beheerdersrechten hebben wel toegang tot het programma en kunnen het klonen, maar kunnen geen andere functies uitvoeren als ze over toegangsrechten voor interactieve webinars beschikken. Marketo Admin-gebruikers _zal_ alle functies kunnen uitvoeren, zoals toegang tot, het wijzigen van, het klonen van, het bewegen van, en het schrappen van dat programma (zolang zij toestemmingen voor Interactieve Webinars hebben). Als deze machtiging is ingetrokken voor Marketo Admin- en niet-Admin-gebruikers, hebben zij alleen toegang tot het Interactive Webinar Event Program en kunnen zij geen andere functies meer uitvoeren.
+
+De beperking van actieffuncties wordt aangegeven met een grijze actieknop en een aanwijsbericht. Enkele voorbeelden van de grijze actieknoppen zijn &#39;Design Your Webinar&#39; of &#39;Enter Your Webinar&#39;. Voor niet-activeerbare functies zou een bericht worden verstrekt die de beperkingen benadrukt. Zie het onderstaande voorbeeld:
+
+![](assets/user-and-license-management-12.png)

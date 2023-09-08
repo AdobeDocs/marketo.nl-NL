@@ -3,9 +3,9 @@ description: Interactieve webinars ontwerpen - Marketo Docs - Productdocumentati
 title: Interactieve webinars ontwerpen
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 4eb28480b3863650a128a56393a8ef375f268982
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,11 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 
    ![](assets/designing-interactive-webinars-4.png)
 
-1. U kunt verschillende lay-outs selecteren voor een voorvertoning. Klik op **Sjabloon gebruiken**.
+   >[!TIP]
+   >
+   >Uw webinar zal aan de standaardtaal in uw instantie van het Marketo Engage worden geplaatst, maar u hebt de optie om talen per-webinar basis te veranderen door drop-down boven de voorproef te gebruiken.
+
+1. U kunt verschillende lay-outs selecteren voor een voorvertoning. Als u wilt doorgaan, klikt u op **Sjabloon gebruiken**.
 
    ![](assets/designing-interactive-webinars-5.png)
 
@@ -50,7 +54,7 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Voor meer informatie over ruimten en sjablonen raadpleegt u de sectie &quot;Sjablonen en indelingen voor vergaderruimten&quot; van [dit Adobe Help-artikel](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
+1. Voor meer informatie over ruimten en sjablonen raadpleegt u de sectie &quot;Sjablonen en indelingen voor vergaderruimten&quot; van [dit Help-artikel voor Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
 1. Wanneer u klaar bent met het ontwerpen van uw webinar, klikt u op **Ruimte verlaten**.
 
@@ -60,6 +64,6 @@ Leer hoe u uw webinar ontwerpt om aan uw behoeften te voldoen.
 
 **Sjabloon**: Structuur die aan een kamer wordt verstrekt op basis van het doel van het webinar dat wordt geleverd. Als u bijvoorbeeld een webinar voor de showcase van een product wilt plannen, is het delen van schermen een essentieel onderdeel van de demo. De sjabloon zorgt ervoor dat de essentiële componenten die vereist zijn voor een effectieve levering van een bepaald type webinar aanwezig zijn tijdens de configuratie van de webinarruimte.
 
-**Layout**: Verwijst naar diverse manieren dat de veelvoudige componenten die worden vereist om het succes van webinar te verzekeren in een bepaalde malplaatje worden geschikt. Eén sjabloon kan meerdere lay-outs bevatten waaruit u kunt kiezen. De essentiële componenten van het webinar zouden in sjablonen hetzelfde blijven. De rangschikking die u hebt geselecteerd, is het meest geschikt voor de stijl/behoeften van u of de presentator die het webinar levert.
+**Layout**: Verwijst naar verschillende manieren dat de veelvoudige componenten die worden vereist om het succes van webinar te verzekeren in een bepaalde malplaatje worden geschikt. Eén sjabloon kan meerdere lay-outs bevatten waaruit u kunt kiezen. De essentiële componenten van het webinar zouden voor alle sjablonen hetzelfde blijven. De rangschikking die u hebt geselecteerd, is het meest geschikt voor de stijl/behoeften van u of de presentator die het webinar levert.
 
-**Pod**: Een component binnen een sjabloon die een bepaalde activiteit uitvoert tijdens het webinar. Stel bijvoorbeeld een opiniepeiling in en lever een opiniepeiling om de reacties van deelnemers vast te leggen in één activiteit die kan worden uitgevoerd door een opiniepeilingpod. Op dezelfde manier kan het chatten met de deelnemers om een bericht over te brengen of tijdelijk met hen te communiceren een activiteit zijn die via de chatpod wordt geleverd. Er zijn meerdere andere pods beschikbaar, zoals Delen, Notities, Video, Chat, Deelnemerlijst, Bestanden, Webkoppelingen, Opiniepeilingen en Vragen en antwoorden.
+**Pod**: Een component in een sjabloon die een bepaalde activiteit uitvoert tijdens het webinar. Stel bijvoorbeeld een opiniepeiling in en lever een opiniepeiling om de reacties van deelnemers vast te leggen in één activiteit die kan worden uitgevoerd door een opiniepeilingpod. Op dezelfde manier kan het chatten met de deelnemers om een bericht over te brengen of tijdelijk met hen te communiceren een activiteit zijn die via de chatpod wordt geleverd. Er zijn meerdere andere pods beschikbaar, zoals Delen, Notities, Video, Chat, Deelnemerlijst, Bestanden, Webkoppelingen, Opiniepeilingen en Vragen en antwoorden.
