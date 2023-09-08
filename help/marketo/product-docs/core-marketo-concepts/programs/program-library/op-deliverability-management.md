@@ -4,9 +4,9 @@ title: OP-Deliverability Management
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 5aa0c2e3be16219613f0c72235428a962f8d58b3
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -99,7 +99,7 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
  </tbody> 
 </table>
 
-SCHERM VAN HET PROGRAMMA
+![](assets/op-deliverability-management-1.png)
 
 ## Conflictregels {#conflict-rules}
 
@@ -118,8 +118,6 @@ SCHERM VAN HET PROGRAMMA
 * **E-mailsjablonen met dezelfde naam**
    * Beide sjablonen behouden - _Aanbevolen_
    * Bestaande sjabloon vervangen
-
-SCHERM VAN CONFLICTREGELS
 
 ## Aanbevolen procedures {#best-practices}
 

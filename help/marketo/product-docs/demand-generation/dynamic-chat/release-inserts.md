@@ -4,9 +4,9 @@ title: Eerste instelling
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 62af6c2379746e776b6b76d9f1fbb8ad9bb47305
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,6 @@ ht-degree: 0%
 # Geen invoegingen {#release-inserts}
 
 Hieronder vindt u meer informatie...
-
-STEVEN
-
-## Doel van slimme lijst met Marketo&#39;s Engage {#marketo-engage-smart-list-targeting}
-
-Marketers kunnen zich richten op leden van de slimme lijsten van het Marketo Engage in het publiekscriteria van de Dialoog.
-
-## Nieuwe Dynamics Chat {#new-dynamic-chat-activities}
-
-Nieuwe activiteiten ter ondersteuning van Conversational Flows, Live Chat en andere nieuwe functies.
-
-## Tokens activeren voor nieuwe activiteiten {#trigger-tokens-for-new-activities}
-
-Er zijn nieuwe triggertokens beschikbaar ter ondersteuning van de nieuwe activiteiten voor Dynamic Chat.
-
 
 JOHN
 
@@ -74,3 +59,122 @@ Bekijk hoeveel gesprekken uw levende verkoopagenten hadden en welke teams het be
 ## Actiekaart in stroomontwerper {#action-card-in-stream-designer}
 
 Marketers kunnen actiekaarten in de dialoogstroom gebruiken om verborgen waarden door te geven aan de opgenomen personen in het Marketo Engage wanneer bezoekers een dialoogvenster openen.
+
+
+STEVEN
+
+## Doel van slimme lijst met Marketo&#39;s Engage {#marketo-engage-smart-list-targeting}
+
+Marketers kunnen zich richten op leden van de slimme lijsten van het Marketo Engage in het publiekscriteria van de Dialoog.
+
+## Nieuwe Dynamics Chat {#new-dynamic-chat-activities}
+
+Nieuwe activiteiten ter ondersteuning van Conversational Flows, Live Chat en andere nieuwe functies.
+
+## Tokens activeren voor nieuwe activiteiten {#trigger-tokens-for-new-activities}
+
+### Dynamic Chat Trigger Tokens {#dynamic-chat-trigger-tokens}
+
+<table style="table-layout:auto"> 
+ <colgroup> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col> 
+  <col>
+  <col>
+  <col>
+  <col> 
+ </colgroup> 
+ <tbody> 
+  <tr> 
+   <th><br></th> 
+   <th><code>{{trigger.Trigger Name}}</code></th> 
+   <th><code>{{trigger.Name}}</code></th> 
+   <th><code>{{trigger.Page URL}}</code></th> 
+   <th><code>{{Trigger.Conversation Transcript}}</code></th> 
+   <th><code>{{trigger.Conversation Status}}</code></th> 
+   <th><code>{{trigger.Agent Name}}</code></th> 
+   <th><code>{{trigger.Agent Email}}</code></th> 
+   <th><code>{{trigger.Scheduled For}}</code></th> 
+   <th><code>{{trigger.Goal name}}</code></th> 
+   <th><code>{{trigger.Document Name}}</code></th> 
+   <th><code>{{trigger.Document URL}}</code></th>
+   <th><code>{{trigger.Document Opened}}</code></th>
+   <th><code>{{trigger.Document Downloaded}}</code></th>
+  </tr> 
+  <tr> 
+   <td>Bij een dialoogvenster</td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Geplande vergadering in een Dialoog</td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr> 
+  <tr> 
+   <td>Dialoogvenster bereikt</td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td>
+  </tr>
+  <tr> 
+   <td>Interactie met document in dialoogvenster</td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><br></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+   <td><img src="assets/check.png" alt="controleren"></td> 
+  </tr> 
+ </tbody> 
+</table>

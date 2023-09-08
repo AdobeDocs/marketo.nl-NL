@@ -4,9 +4,9 @@ title: TS-YYYY-MM-DD-Tradeshow-programma
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 569f61f15a9bdeb31b3a60b237f0c19aad68800a
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '409'
 ht-degree: 0%
 
 ---
@@ -110,6 +110,8 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
  </tbody> 
 </table>
 
+![](assets/ts-yyyy-mm-dd-tradeshow-program-1.png)
+
 ## Mijn tokens inbegrepen {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -177,8 +179,6 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
  </tbody> 
 </table>
 
-SCHERM VAN HET PROGRAMMA
-
 ## Conflictregels {#conflict-rules}
 
 * **Programmatags**
@@ -196,8 +196,6 @@ SCHERM VAN HET PROGRAMMA
 * **E-mailsjablonen met dezelfde naam**
    * Beide sjablonen behouden
    * Bestaande sjabloon vervangen - _Aanbevolen_
-
-SCHERM VAN CONFLICTREGELS
 
 ## Aanbevolen procedures {#best-practices}
 

@@ -4,9 +4,9 @@ title: OP-Scoring-gedrag
 hide: true
 hidefromtoc: true
 feature: Programs
-source-git-commit: 17b86ff816a447315dda5e1cbac67536472e777d
+source-git-commit: 6b54fe2830200c6673559a257065248390c6d212
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '350'
 ht-degree: 4%
 
 ---
@@ -155,6 +155,8 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
  </tbody> 
 </table>
 
+![](assets/op-scoring-behavior-1.png)
+
 ## Mijn tokens inbegrepen {#my-tokens-included}
 
 <table style="table-layout:auto"> 
@@ -242,8 +244,6 @@ Voor verdere strategische hulp of hulp die een programma aanpast, gelieve het Te
  </tbody> 
 </table>
 
-SCHERM VAN HET PROGRAMMA
-
 ## Conflictregels {#conflict-rules}
 
 * **Programmatags**
@@ -261,8 +261,6 @@ SCHERM VAN HET PROGRAMMA
 * **E-mailsjablonen met dezelfde naam**
    * Beide sjablonen behouden - _Aanbevolen_
    * Bestaande sjabloon vervangen
-
-SCHERM VAN CONFLICTREGELS
 
 ## Aanbevolen procedures {#best-practices}
 
