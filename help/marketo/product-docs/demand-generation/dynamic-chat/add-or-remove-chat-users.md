@@ -3,7 +3,7 @@ description: Chatgebruikers toevoegen of verwijderen - Marketo Docs - Productdoc
 title: Chatgebruikers toevoegen of verwijderen
 exl-id: b616030c-a9fe-48d7-902c-40621307bfec
 feature: Dynamic Chat
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. Klikken **Dynamische chat**.
+1. Klikken **Dynamic Chat**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -52,7 +52,7 @@ Voer de onderstaande stappen uit om chatgebruikers toe te voegen of te verwijder
 
 Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje nog geen toestemming van de Dynamic Chat heeft, is hier hoe te om het toe te voegen.
 
-1. Klik in Marketo op **Beheer** en selecteert u **Gebruikers en rollen**.
+1. Klik in Marketo op **Beheerder** en selecteert u **Gebruikers en rollen**.
 
    ![](assets/add-or-remove-chat-users-8.png)
 
@@ -74,13 +74,13 @@ Als de nieuwe toegevoegde rol van Marketo van de Gebruiker van het Praatje nog g
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. Klikken **Dynamische chat**.
+1. Klikken **Dynamic Chat**.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
    >[!NOTE]
    >
-   >Als u meer dan één Marketo-abonnement hebt, selecteert u het gewenste abonnement vóór de volgende stap).
+   >Als u meerdere Marketo-abonnementen hebt, selecteert u de gewenste abonnement vóór de volgende stap.
 
 1. Klik op de knop **Gebruikers** tab.
 
