@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 5084013638c4131ebf4c5812e3e4d485ca94419c
+source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '9086'
+source-wordcount: '9095'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,11 @@ ht-degree: 0%
       + [Te controleren items](getting-started/inheriting-a-marketo-instance/items-to-check-off.md)
       + [Te beoordelen dingen: kernvaardigheden](getting-started/inheriting-a-marketo-instance/things-to-review-core-skills.md)
       + [Manieren om hulp te krijgen](getting-started/inheriting-a-marketo-instance/ways-to-get-help.md)
-      + [Nieuw Overnemen Doc 1](getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
-      + [Nieuwe overerving Doc 2](getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
-      + [Nieuwe overname Doc 3](getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
-      + [Nieuwe overname Doc 4](getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
-      + [Nieuwe overname Doc 5](getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+      + [Overgenomen instantie: beheerderscontrolelijst voor sectie](getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
+      + [Overgenomen instantie: checklist database](getting-started/inheriting-a-marketo-instance/database-checklist.md)
+      + [Overgenomen instantie: Checklist voor marketingactiviteiten](getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
+      + [Overgenomen instantie: Design Studio Checklist](getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
+      + [Overgenomen instantie: Uw instelling documenteren](getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 + Productdocumenten {#product-docs}
    + Aanvullende apps {#additional-apps}
       + SEO {#seo}
