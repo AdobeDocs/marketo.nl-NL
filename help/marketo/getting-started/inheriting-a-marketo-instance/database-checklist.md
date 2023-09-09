@@ -3,7 +3,7 @@ description: Checklist van overgenomen database-instanties - Marketo Docs - Prod
 title: Checklist van overgenomen database-instanties
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 0%
@@ -116,6 +116,6 @@ Begrijp het totale aantal mensen, verhandelbare mensen, en hoogste persoon-verwe
 
 <br> 
 
-[◄ Audit an Inherated Instance: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+[◄ Audit an Inherated Instance: Admin](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
-[Een overgeërfde instantie controleren: marketingactiviteiten ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+[Een overgeërfde instantie controleren: marketingactiviteiten ►](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)

@@ -3,7 +3,7 @@ description: Leer hoe u een bestaande overgeërfde instantie van een Marketo Eng
 title: Een overgeërfde Marketo Engage-instantie starten
 hide: true
 hidefromtoc: true
-source-git-commit: f143c4e2dae309767c828282f718ad8d72733f81
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 0%
@@ -36,15 +36,15 @@ De onderstaande checklists zijn samengesteld met input van Marketo Champions om 
 
 U kunt de controlelijsten ook downloaden in spreadsheetvorm.
 
-* [Sectie Beheer](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-1.md)
+* [Sectie Beheer](/help/marketo/getting-started/inheriting-a-marketo-instance/admin-section-checklist.md)
 
-* [Database](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-2.md)
+* [Database](/help/marketo/getting-started/inheriting-a-marketo-instance/database-checklist.md)
 
-* [Marketingactiviteiten](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+* [Marketingactiviteiten](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)
 
-* [Een document maken van uw overgenomen instantie-instelling](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+* [Een document maken van uw overgenomen instantie-instelling](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
 
 ## Manieren om hulp te krijgen {#ways-to-get-help}
 

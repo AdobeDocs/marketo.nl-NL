@@ -3,9 +3,9 @@ description: Overgenomen Instance Document Uw Setup - Marketo Docs - Productdocu
 title: Overgenomen Instance Document Uw Setup
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gev
    <td>Invoer</td> 
    <td><li>Welke systemen voeren gegevens in Marketo Engage?</li>
    <li>Lagen ze gegevens in programma's of de database? Als programma's, welke?</li>
-   <p>Actiepunt: een gegevenswoordenboek/veldtoewijzingstabel maken tussen systemen.</td>
+   <p><img src="assets/action-item-icon.png" alt="pictogram Handelitem">Actiepunt: een gegevenswoordenboek/veldtoewijzingstabel maken tussen systemen.</td>
   </tr>
   <tr> 
    <td>Uitvoer</td> 
@@ -51,7 +51,7 @@ Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gev
   <tr> 
    <td>Organisatie</td> 
     <td><li>Hebt u robuuste documentatie van hoe uw instantie van het Marketo Engage wordt georganiseerd en waarom?</li>
-   <p>Item van handeling: maak documentatie die mapstructuur, naamgevingsconventie en in uw instantie gebruikte kanalen bevat.</td>
+   <p><p><img src="assets/action-item-icon.png" alt="pictogram Handelitem">Item van handeling: maak documentatie die mapstructuur, naamgevingsconventie en in uw instantie gebruikte kanalen bevat.</td>
   </tr>
   <tr> 
    <td>Changelog</td> 
@@ -70,4 +70,4 @@ Nu u de belangrijkste productgebieden aan controle tijdens het erven van een gev
  </tbody> 
 </table>
 
-[◄ Audit an Inherated Instance: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-4.md)
+[◄ Audit an Inherated Instance: Design Studio](/help/marketo/getting-started/inheriting-a-marketo-instance/design-studio-checklist.md)

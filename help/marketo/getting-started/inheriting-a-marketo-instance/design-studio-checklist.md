@@ -3,7 +3,7 @@ description: Overgenomen Instance Design Studio Checklist - Marketo Docs - Produ
 title: Overgenomen Instance Design Studio Checklist
 hide: true
 hidefromtoc: true
-source-git-commit: 8660e8a7afa239c51cfed9e6e90e35aeedf6884f
+source-git-commit: 74afe85b5d7b78cc4bce3e2ec89cb5c1a56d2f59
 workflow-type: tm+mt
 source-wordcount: '530'
 ht-degree: 0%
@@ -163,6 +163,6 @@ Door sjablonen te structureren en globale formulieren, fragmenten en afbeeldinge
 
 <br> 
 
-[◄ Audit an Inherated Instance: Marketing Activiteiten](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-3.md)
+[◄ Audit an Inherated Instance: Marketing Activiteiten](/help/marketo/getting-started/inheriting-a-marketo-instance/marketing-activities-checklist.md)
 
-[Een overgeërfde instantie controleren: uw overgeërfde instantie documenteren ►](/help/marketo/getting-started/inheriting-a-marketo-instance/new-inherit-doc-5.md)
+[Een overgeërfde instantie controleren: uw overgeërfde instantie documenteren ►](/help/marketo/getting-started/inheriting-a-marketo-instance/document-your-setup.md)
