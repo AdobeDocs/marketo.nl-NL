@@ -4,9 +4,9 @@ title: Overzicht van Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '873'
 ht-degree: 1%
 
 ---
@@ -55,7 +55,7 @@ Dit is waar u een lijst van alle agenten kunt zien die hun kalenders hebben aang
 
 ## Live Chat {#live-chat}
 
-Bied uw gekwalificeerde webbezoekers via live chat contact met uw verkoopvertegenwoordigers. KOPPELEN AAN DOC
+Bied uw gekwalificeerde webbezoekers via [live chat](/help/marketo/product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md){target="_blank"}.
 
 ## Veelgestelde vragen {#faq}
 

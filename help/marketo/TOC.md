@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
+source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
 workflow-type: tm+mt
-source-wordcount: '9095'
+source-wordcount: '9153'
 ht-degree: 0%
 
 ---
@@ -648,9 +648,35 @@ ht-degree: 0%
          + [Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Een lijst verzenden naar een advertentienetwerk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamic Chat twee {#dynamic-chat-two}
+         + [Overzicht van Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-overview.md)
+         + [Chatbotgedrag](product-docs/demand-generation/dynamic-chat-two/automated-chat/chatbot-behavior.md)
+         + [Lijst met vergaderingen](product-docs/demand-generation/dynamic-chat-two/automated-chat/meeting-list.md)
+         + [Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-activites.md)
+         + [Analyse](product-docs/demand-generation/dynamic-chat-two/automated-chat/analytics.md)
          + Geautomatiseerde chat {#automated-chat}
-            + [Instellingen voor conversie](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
             + [Overzicht van conversiestromen](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
+            + [Een wisselstroom maken](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
+            + [Instellingen voor conversie](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
+            + [Gesprek SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
+            + [Overzicht van dialoogvensters](product-docs/demand-generation/dynamic-chat-two/automated-chat/doc.md)
+            + [Een dialoogvenster maken](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
+            + [Criteria voor het publiek](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
+            + [Stream Designer](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)
+            + [Rapporten](product-docs/demand-generation/dynamic-chat-two/automated-chat/reports.md)
+         + Integraties {#integrations}
+            + [Adobe Marketo Engage](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-marketo-engage.md)
+            + [Adobe PDF Embed-API](product-docs/demand-generation/dynamic-chat-two/integrations/adobe-pdf-embed-api.md)
+         + Live Chat {#live-chat}
+            + [Agent Inbox](product-docs/demand-generation/dynamic-chat-two/live-chat/agent-inbox.md)
+            + [Meldingen](product-docs/demand-generation/dynamic-chat-two/live-chat/notifications.md)
+         + Instellen en configureren {#setup-and-configuration}
+            + [Eerste instelling](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/initial-setup.md)
+            + [Chatgebruikers toevoegen of verwijderen](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/add-or-remove-chat-users.md)
+            + [Configuratie](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/configuration.md)
+            + [Instellingen agent](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-settings.md)
+            + [Agent Management](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/agent-management.md)
+            + [Beveiligingsinstellingen](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/security-settings.md)
+            + [Routering](product-docs/demand-generation/dynamic-chat-two/setup-and-configuration/routing.md)
       + Dynamic Chat {#dynamic-chat}
          + [Geen invoegingen](product-docs/demand-generation/dynamic-chat/release-inserts.md)
          + [Overzicht van Dynamic Chat](product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
