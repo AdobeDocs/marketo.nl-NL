@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: a2830942e6e51e754d313bd79a00f87713c2db8c
 workflow-type: tm+mt
 source-wordcount: '9153'
 ht-degree: 0%
@@ -648,11 +648,11 @@ ht-degree: 0%
          + [Aan LinkedIn aangepaste soorten publiek toevoegen als een opstartpuntservice](product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
          + [Een lijst verzenden naar een advertentienetwerk](product-docs/demand-generation/ad-network-integrations/send-a-list-to-an-ad-network.md)
       + Dynamic Chat twee {#dynamic-chat-two}
-         + [Overzicht van Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-overview.md)
-         + [Chatbotgedrag](product-docs/demand-generation/dynamic-chat-two/automated-chat/chatbot-behavior.md)
-         + [Lijst met vergaderingen](product-docs/demand-generation/dynamic-chat-two/automated-chat/meeting-list.md)
-         + [Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/automated-chat/dynamic-chat-activites.md)
-         + [Analyse](product-docs/demand-generation/dynamic-chat-two/automated-chat/analytics.md)
+         + [Overzicht van Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
+         + [Chatbotgedrag](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
+         + [Lijst met vergaderingen](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
+         + [Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activites.md)
+         + [Analyse](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + Geautomatiseerde chat {#automated-chat}
             + [Overzicht van conversiestromen](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [Een wisselstroom maken](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
