@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Gids Marketo
 user-guide-description: Marketo-productdocumentatie
 feature-set: Marketo Engage
-source-git-commit: a2830942e6e51e754d313bd79a00f87713c2db8c
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
 source-wordcount: '9153'
 ht-degree: 0%
@@ -651,14 +651,14 @@ ht-degree: 0%
          + [Overzicht van Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-overview.md)
          + [Chatbotgedrag](product-docs/demand-generation/dynamic-chat-two/chatbot-behavior.md)
          + [Lijst met vergaderingen](product-docs/demand-generation/dynamic-chat-two/meeting-list.md)
-         + [Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activites.md)
+         + [Dynamic Chat](product-docs/demand-generation/dynamic-chat-two/dynamic-chat-activities.md)
          + [Analyse](product-docs/demand-generation/dynamic-chat-two/analytics.md)
          + Geautomatiseerde chat {#automated-chat}
             + [Overzicht van conversiestromen](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flows-overview.md)
             + [Een wisselstroom maken](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-conversational-flow.md)
             + [Instellingen voor conversie](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversational-flow-settings.md)
             + [Gesprek SDK](product-docs/demand-generation/dynamic-chat-two/automated-chat/conversations-sdk.md)
-            + [Overzicht van dialoogvensters](product-docs/demand-generation/dynamic-chat-two/automated-chat/doc.md)
+            + [Overzicht van dialoogvensters](product-docs/demand-generation/dynamic-chat-two/automated-chat/dialogue-overview.md)
             + [Een dialoogvenster maken](product-docs/demand-generation/dynamic-chat-two/automated-chat/create-a-dialogue.md)
             + [Criteria voor het publiek](product-docs/demand-generation/dynamic-chat-two/automated-chat/audience-criteria.md)
             + [Stream Designer](product-docs/demand-generation/dynamic-chat-two/automated-chat/stream-designer.md)

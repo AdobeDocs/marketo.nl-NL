@@ -4,9 +4,9 @@ title: Instellingen agent
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: 801c9935cacf79971ce42a9517647e310a1ed25a
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 # Instellingen agent {#agent-settings}
 
 In het lusje van de Kalender, verbind uw Vooruitzichten of kalender Gmail voor gebruik in afspraak die in het praatje plant.
+
+## Connect-agenda {#connect-calendar}
 
 ![](assets/agent-settings-1.png)
 
@@ -31,7 +33,7 @@ De gebruikers kunnen het lichaam van de uitnodiging ook aanpassen die naar de be
 >
 >Gebruik het symbolische pictogram (krullende steunen) om uw vergadering te personaliseren die bevestigings e-mails gebruikend persoon of bedrijfattributen.
 
-## Machtigingen {#permissions}
+### Machtigingen {#permissions}
 
 Het vormen met Vooruitzichten verleent de volgende toestemmingen aan Dynamic Chat:
 
@@ -47,3 +49,15 @@ Als u configuratie uitvoert met Google, worden de volgende machtigingen aan de D
 * Wijzig uw instellingen, inclusief wie uw gebeurtenissen kan zien
 * Wijzigen met wie de kalender wordt gedeeld
 * Toegang tot uw naam, e-mailadres, taalvoorkeur en profielafbeelding
+
+## Instellingen voor live chatbeschikbaarheid {#live-chat-availability-settings}
+
+Tekst
+
+## Beschikbaarheidsinstellingen voor vergaderingreservering {#meeting-booking-availability-settings}
+
+Tekst
+
+## Lengte en buffertijd van vergadering {#meeting-length-and-buffer-time}
+
+Tekst
