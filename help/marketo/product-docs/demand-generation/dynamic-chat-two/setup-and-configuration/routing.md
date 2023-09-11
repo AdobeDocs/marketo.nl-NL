@@ -4,9 +4,9 @@ title: Routering
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ea9e02d9ad52991757f137c7c2b549b98f139ba5
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Aangepaste regel: u kunt specifieke agenten kiezen om vergaderingen te ontvangen
 
 In dit voorbeeld sturen wij alle vergaderingen van de afgeleide staten van CA, OF, en WA naar agent John.
 
-1. Selecteer in Dynamic Chat **Routering**.
+1. Klik onder Configuratie op **Routeringsregels**.
 
    ![](assets/routing-1.png)
 
@@ -35,7 +35,7 @@ In dit voorbeeld sturen wij alle vergaderingen van de afgeleide staten van CA, O
 
    ![](assets/routing-3.png)
 
-1. Geef uw regel een naam en klik op **Volgende**.
+1. Geef uw regel een naam. U kunt desgewenst een beschrijving toevoegen en het prioriteitsniveau instellen. Klikken **Volgende**.
 
    ![](assets/routing-4.png)
 
@@ -54,3 +54,14 @@ In dit voorbeeld sturen wij alle vergaderingen van de afgeleide staten van CA, O
 1. Wanneer alle gewenste waarden zijn geselecteerd, klikt u op **Opslaan**.
 
    ![](assets/routing-8.png)
+
+
+## Account routeren {#account-routing}
+
+Identificeer en upload uw doelaccount en de respectievelijke verkoopeigenaren en routeer bezoekers die van deze accounts komen rechtstreeks naar de respectievelijke accounteigenaar.
+
+![](assets/routing-9.png)
+
+Team dat verplettert
+
+Lid van Slimme lijst die verplettert

@@ -4,10 +4,10 @@ title: Overzicht van Dynamic Chat
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3fc84a0e679b0b27aaf4ee251668a3ba0a62f9ef
+source-git-commit: c39d30c40f6e067af6a2a6434a26eb8e2bee8a87
 workflow-type: tm+mt
-source-wordcount: '873'
-ht-degree: 1%
+source-wordcount: '665'
+ht-degree: 0%
 
 ---
 
@@ -109,90 +109,29 @@ Ga als volgt te werk om de taal van uw Dynamic Chat te wijzigen.
 
 Wanneer u de taal bijwerkt, verandert alles in de app zelf, behalve de woorden die u persoonlijk hebt ingevuld (bijvoorbeeld reacties op de stream).
 
-## Limieten in Dynamic Chat {#limits-in-dynamic-chat}
+## Limieten voor gegevensbewaring in Dynamic Chat {#dynamic-chat-data-retention-limits}
 
 <table>
-  <th>Parameter</th>
-  <th>Beschrijving</th>
-  <th>Limiet</th>
+  <th>Gegevenstype</th>
+  <th>Bewaarperiode</th>
  <tr>
-  <td>Totaal aantal dialoogvensters</td>
-  <td>Aantal dialoogvensters (gepubliceerd en concept)</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Totaal aantal kalenders</td>
-  <td>Aantal verbonden kalenders</td>
-  <td>25</td>
- </tr>
- <tr>
-  <td>Totaal aantal gebruikers (beheerders en marketinggebruikers)</td>
-  <td>Aantal gecombineerde gebruikers toegestaan per instantie van de Dynamic Chat</td>
-  <td>50</td>
- </tr>
- <tr>
-  <td>Gepubliceerde dialoogvensters</td>
-  <td>Aantal gepubliceerde dialoogvensters dat is opgeslagen</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Doel-URL's per dialoogvenster</td>
-  <td>Aantal doel-URL's dat kan worden toegevoegd aan één dialoogvenster</td>
-  <td>20</td>
- </tr>
- <tr>
-  <td>Kenmerken per dialoogvenster</td>
-  <td>Aantal kenmerken dat kan worden toegevoegd aan publiekscriteria voor één dialoogvenster</td>
-  <td>100</td>
- </tr>
- <tr>
-  <td>Groepen</td>
-  <td>Aantal groepen dat kan worden toegevoegd aan één dialoogvenster</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Attributen per groep</td>
-  <td>Aantal kenmerken dat aan een groep kan worden toegevoegd</td>
-  <td>10</td>
- </tr>
- <tr>
-  <td>Kaarten</td>
-  <td>Het aantal kaarten dat per dialoogvenster aan het canvas kan worden toegevoegd</td>
-  <td>500</td>
- </tr>
- <tr>
-  <td>Bewaarperiode anonieme gegevens lead</td>
-  <td>Duur van de periode waarin informatie over een anonieme lead zonder enige betrokkenheid bewaard blijft</td>
+  <td>Anonieme lead zonder betrokkenheid</td>
   <td>90 dagen</td>
  </tr>
  <tr>
-  <td>Aanhoudingsperiode van de reële activiteit</td>
-  <td>De hoeveelheid tijd die de activiteitengegevens van het doel worden behouden</td>
+  <td>Goederenactiviteit</td>
   <td>24 maanden</td>
  </tr>
  <tr>
-  <td>Bewaarperiode documentactiviteit</td>
-  <td>De hoeveelheid tijd die nodig is om de activiteitengegevens van het document te behouden</td>
+  <td>Documentactiviteit</td>
   <td>24 maanden</td>
  </tr>
  <tr>
-  <td>Interactie met periode van activiteit in het dialoogvenster</td>
-  <td>De hoeveelheid tijd die interactie heeft met de gegevens over dialoogactiviteiten blijft behouden</td>
+  <td>Geïnteractiveerd met dialoogactiviteit</td>
   <td>90 dagen</td>
  </tr>
  <tr>
-  <td>Bewaarperiode van boekingsactiviteit van vergadering</td>
-  <td>De hoeveelheid tijd die vergadering het boeken activiteit zal in Dynamic Chat worden opgeslagen</td>
+  <td>Boekingactiviteit vergadering</td>
   <td>24 maanden</td>
- </tr>
- <tr>
-  <td>Gesprek</td>
-  <td>Aantal chatgesprekken waarmee webbezoekers per maand kunnen werken</td>
-  <td>250</td>
- </tr>
- <tr>
-  <td>Gesprek geactiveerd</td>
-  <td>Aantal chatgesprekken dat per maand aan webbezoekers kan worden getoond</td>
-  <td>25,000</td>
  </tr>
 </table>
