@@ -4,7 +4,7 @@ title: Stream Designer
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: b4ba55769034e8fb8a7878f52e21bd08e073fa8c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
 source-wordcount: '980'
 ht-degree: 0%
@@ -56,8 +56,8 @@ De stroomontwerper bevat veelvoudige kaarten u kunt toevoegen om het praatjegesp
  <tr>
   <td><strong>Live Chat</strong></td>
   <td>Gebruik de live chatkaart wanneer bezoekers met een live agent willen chatten.
-  <li>De live chatkaart moet de laatste kaart in de vertakking zijn</li>
-  <li>Bezoekers worden naar een agent geleid zodra ze deze kaart in de stream bereiken. Het wordt daarom aanbevolen om aan deze kaart een vraagkaart toe te voegen waarin bezoekers wordt gevraagd of ze met een liveagent willen chatten</li></td>
+  <li>De live chatkaart moet de laatste kaart in de vertakking zijn.</li>
+  <li>Bezoekers worden naar een agent geleid zodra ze deze kaart in de stream bereiken. Het wordt daarom aanbevolen om aan deze kaart een vraagkaart toe te voegen waarin bezoekers wordt gevraagd of ze met een liveagent willen chatten.</li></td>
  </tr>
 </table>
 

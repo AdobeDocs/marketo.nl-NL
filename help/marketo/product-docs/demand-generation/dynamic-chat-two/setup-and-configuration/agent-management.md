@@ -4,9 +4,9 @@ title: Agent Management
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: ce4daadc8351faaeb6537e75ec7d9f96bd835e5c
+source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ Selecteer een standaardbericht (systeem) of schrijf een aangepast bericht voor b
 Selecteer een standaardbericht (systeembericht) of schrijf een aangepast bericht dat bezoekers kunnen zien wanneer Live Chat niet beschikbaar is.
 
 ![](assets/agent-management-9.png)
+
+>[!NOTE]
+>
+>De **Optie Vergadering opnemen voor boeken** checkbox zal een vergadering het boeken widget voor de praatjebezoeker produceren.
 
 >[!TIP]
 >
