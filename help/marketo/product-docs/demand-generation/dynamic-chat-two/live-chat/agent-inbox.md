@@ -4,9 +4,9 @@ title: Agent Inbox
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 89c7cfb987196ebb83bada4a6ba44c760ab83ee4
+source-git-commit: 4d5f0c1c2fa050d4da38daaff1a1be3725bda1d7
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Wanneer een levende praatje aan de agent wordt verpletterd, zullen zij een blauw
 
 ![](assets/agent-inbox-3.png)
 
-### Notities {noteren}
+### Notities {#things-to-note}
 
 * De agenten hebben 45 seconden om vóór de &quot;Accept praatjetijden uit te antwoorden.&quot;
 * BROWSER TIDBIT
